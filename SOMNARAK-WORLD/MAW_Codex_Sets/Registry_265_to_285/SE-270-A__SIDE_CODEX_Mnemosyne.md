@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / γ — Major |
 | Element | Lament |
 | Form | A shoreless subterranean lake of viscous liquid memory reflecting the viewer’s whole life rather than their face. |
-| Gauge / Pressure | 880/880; starts 45–65% / Lament — no attack pattern; the month’s soundings, entered unrounded, are the instrument |
+| Gauge / Pressure | 000/880; starts 000% / Lament — no attack pattern; the month’s soundings, entered unrounded, are the instrument |
 | Observation | 3 — Advanced |
 | M.A.W. Set | The Unclaimed Depth |
 

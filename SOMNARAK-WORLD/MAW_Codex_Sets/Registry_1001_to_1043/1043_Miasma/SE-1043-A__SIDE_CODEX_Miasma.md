@@ -22,7 +22,7 @@ A Hazard of Entity (IV) coherence at Critical (δ) potency, Lament-aligned, held
 | Type / Manifestation | Hazard — Non-breaching: expansion only / Hazard-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / SECTOR-C-922, contained |
-| Gauge / Pressure | 750/750; starts 35–50% / 30–40 per hit · Lament |
+| Gauge / Pressure | 000/750; starts 000% / 30–40 per hit · Lament |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

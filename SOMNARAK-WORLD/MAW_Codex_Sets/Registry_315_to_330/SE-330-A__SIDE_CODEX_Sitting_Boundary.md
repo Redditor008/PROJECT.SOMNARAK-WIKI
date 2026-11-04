@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Weight |
 | Form | A humanoid of black ice with burning seams, circling the Commons while frozen surfaces replay final departures. |
-| Gauge / Pressure | 35–50% / Weight 8–20 |
+| Gauge / Pressure | 000% / Weight 8–20 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Completed Circuit |
 

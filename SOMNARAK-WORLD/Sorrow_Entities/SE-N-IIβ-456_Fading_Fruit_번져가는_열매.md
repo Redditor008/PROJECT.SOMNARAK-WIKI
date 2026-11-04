@@ -27,10 +27,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Resilience — desire for a specific entitlement earned but not received |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a garden widening its footprint at a 60 per cent trigger, with no counter. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–3 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a garden widening its footprint at a 60 per cent trigger, with no counter. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; seasonal footprint expansion and withdrawal in place, with no breach recorded |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — Place manifestation; no vessel or destruction route is recorded |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The set count first, taken at the fall against the empty stems, which have always matched it exactly. Then, for a worker standing in the rows, the specific thing they earned and never received, arriving without being looked for. |
 | **Handling** | Hands kept down for the hour, nothing picked, the desire acknowledged aloud with no fulfilment promised, and the set count and the stem count taken and reported side by side rather than as one figure. |
 | **Activation threshold** | No breach counter; seasonal footprint expansion and withdrawal in place, with no breach recorded |
-| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Pressure]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rows and the standing desire without promising anything, and Ferrehan is the hour stood in the garden with hands kept down. The reach, when it comes, is the reading. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | The desire acknowledged and no fulfilment promised, nothing picked, the set count and the stem count taken and reported side by side, and the gauge below 25% |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

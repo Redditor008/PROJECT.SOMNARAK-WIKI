@@ -22,7 +22,7 @@ A Fragment (III) Place at Major (γ) potency, Lament-aligned, dream-manifesting,
 | Type / Manifestation | Place — Can breach via Transform / Place-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-N-908, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / 17–23 per hit · Lament |
+| Gauge / Pressure | 000/500; starts 000% / 17–23 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

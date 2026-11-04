@@ -28,10 +28,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is an appearance after long absence rather than an escape, and no breach counter applies. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–6 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is an appearance after long absence rather than an escape, and no breach counter applies. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on touch or recognition by someone who remembers it |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The crimson light before the outline, and then recognition, which is not the same as knowing what it is. Witnesses present grow uncertain about unrelated things — their route, their reason for being in the district, whether they have already spoken to somebody. |
 | **Handling** | Nothing is done to the object. The cordon is set and held, the form is recorded as found, the district association is briefed, and nobody says within its hearing or outside it that the relic has come back. |
 | **Activation threshold** | No breach counter; activates on touch or recognition by someone who remembers it |
-| **Sorrow Gauge [Pressure]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Sorrow Gauge [Pressure]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, both worked at distance. Viderehan reads the return — the light, the position, the duration — and holds the gauge. Ferrehan tests whether a worker can stand a return they recognise without acting on it, and lowers it. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule. |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

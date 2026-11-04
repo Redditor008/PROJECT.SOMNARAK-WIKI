@@ -28,10 +28,10 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the seven-day recovery log rather than the site |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a holding recorded only when nobody is assigned to observe it. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–2 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a holding recorded only when nobody is assigned to observe it. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on a person entered on this facility's registers with no recorded beginning |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The absence when rain crosses it, then the heartbeat, and finally the dial trace — which is the record, and is read seven days after the fact rather than at the site. |
 | **Handling** | Marked and left. Nothing is excavated and nothing is planted into it, no interim reading is taken and no visit is made inside the seven days. The manifestation stops within four seconds of a person arriving, so standing at it destroys the week. |
 | **Activation threshold** | No breach counter; activates on a person entered on this facility's registers with no recorded beginning |
-| **Sorrow Gauge [Depth]** | **240/240** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Sorrow Gauge [Depth]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is worked from the recovered log rather than the field and holds level. Ferrehan is seven days away from an instrument that is working, with no interim reading and no visit permitted, and lowers the gauge. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Mark the absence; do not excavate or plant into it |
 
-**Charge.** At the offering, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

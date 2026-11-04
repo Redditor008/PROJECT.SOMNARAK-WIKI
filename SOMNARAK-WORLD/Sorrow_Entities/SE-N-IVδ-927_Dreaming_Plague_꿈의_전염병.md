@@ -27,10 +27,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Hazard |
 | **Primary pressure** | Void / Dream pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Work Damage** | 4–8 Void / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is Threshold 3 counted per sleeper rather than per cycle, so one unnoticed contact spends it. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 4–8 Void / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is Threshold 3 counted per sleeper rather than per cycle, so one unnoticed contact spends it. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The agreement first, then the second sleeper: one unprompted sleep inside a widened boundary, after which the contact rule resumes and has held for every subsequent case. The sound they report is the approaching sound, nearer each time. |
 | **Handling** | The cordon held without touching or moving the sleeper, the account taken on waking in a separate place from any other sleeper, barriers back on the rack, and no M.A.W. piece handed between personnel inside the district. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [Saturation]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Saturation]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the separate account on waking, which is the only content the file has ever had. Ferrehan is the wait outside reach, which has held for every case and neither approach has ever produced an early waking. |
 | **Location** | SECTOR-N-927, contained |
 | **Resolution Condition** | The sleeper wakes on their own and the cordon is lifted by the person who set it. Resolution is a timekeeping exercise — mean duration four hours eleven minutes, longest nine hours, none unresolved — and no work performed on a sleeper has ever altered the figure. |
 
-**Charge.** In the shared air, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In the shared air, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

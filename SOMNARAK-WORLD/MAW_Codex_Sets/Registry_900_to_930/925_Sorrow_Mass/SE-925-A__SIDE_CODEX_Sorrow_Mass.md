@@ -22,7 +22,7 @@ A Sovereign (V) Hazard at Catastrophic (ω) potency, Weight-aligned, registered 
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Weight |
 | Coherence / Potency | Sovereign (V) / Catastrophic (ω) |
 | Element / Location | Weight / SECTOR-C-925, UNCONTAINED |
-| Gauge / Pressure | 1080/1080; starts 35–50% / Weight — no attack pattern; the adjacent foundation gauges and the unbroken deflection survey are the reading |
+| Gauge / Pressure | 000/1080; starts 000% / Weight — no attack pattern; the adjacent foundation gauges and the unbroken deflection survey are the reading |
 | Observation | 5 — Sovereign |
 | Formation event | Not recorded |
 

@@ -19,7 +19,7 @@
 **Grade / Element:** β / Weight
 **Canonical ability:** Deals Weight damage at distance, attacking the Han (sorrow reserves, karmic debt). Ledger's Illumination projects a concentrated beam of pale white-gold light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed as the phantom weight of unpaid obligations physically anchors their feet to the floor.
 **Binding rule:** the bearer names Debt Collector's Lantern's event — “A Collector carried a lantern through debtors' homes and began seeing their burdens as light.” — and accepts this limit: viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.  
-**Gauge:** 386/386; opens at 35–50%; no attack pattern is filed for this Weight manifestation — fixed to its mount, and what it delivers arrives as a showing rather than a blow (Contact Record, R-36).
+**Gauge:** 000/386; opens at 000%; no attack pattern is filed for this Weight manifestation — fixed to its mount, and what it delivers arrives as a showing rather than a blow (Contact Record, R-36).
 ### Appearance
 
 A bronze hand-cannon with a flared muzzle, a glass lantern chamber riding under the barrel and lit by an enclosed wheel-lock. A curved finger lever works the lock, and the flame inside leans toward whoever owes.
@@ -46,7 +46,7 @@ The first bearer of The Collector's Vigil-Lantern encountered no source response
 - Escalation: the lag lengthens past a doorway, and the shadow is doing the work before the body reaches it.
 - Terminal state: Debt Collector's Lantern's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.” reverses the item’s benefit and raises the source Gauge — a 386/386 meter that opens at 35–50%.
+**Failure mode:** violating “viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.” reverses the item’s benefit and raises the source Gauge — a 000/386 meter that opens at 35–50%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Collector's Vigil-Lantern only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Collector's Vigil-Lantern; shutdown preserves the record but does not refund its cost.
 

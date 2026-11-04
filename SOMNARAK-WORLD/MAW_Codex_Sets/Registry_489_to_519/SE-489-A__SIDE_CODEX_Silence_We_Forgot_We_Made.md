@@ -20,7 +20,7 @@ A luminous faceless dream-figure formed from difficult truths suppressed so long
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element | Lament |
-| Gauge / Pressure | 60–80% / 31–67 |
+| Gauge / Pressure | 000% / 31–67 |
 | Observation | 2 |
 | Set | The Remembered Quiet |
 

@@ -20,7 +20,7 @@ A dream figure made from one enormous cracked tear carries a lament that outlive
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element | Lament |
-| Gauge / Pressure | 60–80% / 30–65 |
+| Gauge / Pressure | 000% / 30–65 |
 | Observation | 2 |
 | Set | The Uninterrupted Lament |
 

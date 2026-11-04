@@ -54,7 +54,7 @@ The R.D. is Somnarak's containment facility — a massive underground complex be
 6. Evening Review — check results, plan tomorrow
 
 **Core Mechanics:**
-- **Sorrow Gauge** — entity containment stress (0-100%)
+- **Sorrow Gauge** — the load a holding is carrying, 000 to its tier's wall. It **fills** while the thing is handled and runs back down a tenth a minute when left alone; at the wall the relic is spent and will not take a hand (`R-48`). A decrease is a good result (`R-09`).
 - **Work Types** — Flerehan (Tears), Pugnahan (Confrontation), Viderehan (Observation), Ferrehan (Endurance)
 - **Energy Production** — Han-crystal from Work Types
 - **M.A.W. Extraction** — equipment from entities

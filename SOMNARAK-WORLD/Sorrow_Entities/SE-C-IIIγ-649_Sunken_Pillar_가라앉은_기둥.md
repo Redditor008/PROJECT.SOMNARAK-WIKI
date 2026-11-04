@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–5 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a survey that has never twice put it in the same place. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–5 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a survey that has never twice put it in the same place. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Missing Lens, Column and Charm are all graded to the holding. |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -57,12 +57,12 @@
 | **Speed** | No travel speed is measured here. The Pillar migrates beneath the ground while its exposed height falls; survey displacement and height separately rather than treating the Place as a fixed device. |
 | **Resistance** | 35% against Void pressure; 25% against everything else. Nothing is rated against the subsidence itself, which is not an attack the Pillar makes: it has been going down for a long time and the ground around it has been going down with it. So the percentages describe what a worker takes away from standing near a thing that is already gone. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Saturation]** | **660/660** · full · limit 60 s · refill 10 min |
+| **Sorrow Gauge [Saturation]** | **000/660** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 16–37 per hit · Void |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
@@ -73,7 +73,7 @@
 | **Threat Role** | Major encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate — mobile |

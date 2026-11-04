@@ -28,10 +28,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object |
 | **Primary pressure** | Grudge / Tale pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, counted against pages rather than minutes: a cycle is the time it takes the book to fill one side, which has run between nine minutes and four hours. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is thirty-one hours of continuous recording with no gap in it. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–4 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is thirty-one hours of continuous recording with no gap in it. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The handwriting first — the reader recognising the hand before the content is read, which in 188 of 411 cycles they named correctly and in 41 of those it was their own. Then the account itself, which is in the first person and in somebody else's voice. |
 | **Handling** | Cover weighted shut and never used to assess the threat. Nobody reads it and nobody looks over a reader's shoulder. The standing order says nothing is read aloud, and six occasions on file are six workers who thought it might help. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Pressure]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and neither requires the text. Viderehan reads the object closed — line counts, ink distribution, the pattern of blanks across readers. Ferrehan settles the writing rate around a party that completes a full cycle in the cell without disturbing the cover. |
 | **Location** | SECTOR-C-906 |
 | **Resolution Condition** | The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up. |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

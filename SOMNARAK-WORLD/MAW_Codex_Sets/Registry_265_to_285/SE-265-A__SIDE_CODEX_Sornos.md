@@ -24,7 +24,7 @@
 | Coherence / Potency | V — Sovereign / δ — Critical |
 | Elements | All four — Lament, Grudge, Void, Weight |
 | Form | A massive layered Han-crystal humanoid sleeping beneath the Tree, threaded with prayer-light, fire, ash, stone, and root-shaped crown crystal. |
-| Gauge / Pressure | 60–80% / mixed cyclic pressure |
+| Gauge / Pressure | 000% / mixed cyclic pressure |
 | Observation | 4 — Mastered |
 | Individual M.A.W. Codices | Prohibited — none created |
 

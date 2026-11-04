@@ -20,7 +20,7 @@ A fever-hot dark-crystal well floats above the Forge floor, full of grief displa
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Grudge |
-| Gauge / Pressure | 660/660; starts 45–65% / Grudge — no attack pattern; the rim height and the clearance beneath it are the instrument |
+| Gauge / Pressure | 000/660; starts 000% / Grudge — no attack pattern; the rim height and the clearance beneath it are the instrument |
 | Observation | 2 |
 | Set | The Ground for Grief |
 

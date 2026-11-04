@@ -22,7 +22,7 @@ The Weight formed from responsibility carried unconsciously. The grief of doing 
 | Type / Manifestation | Subject — Non-breaching: an expansion in place. The register files an escape and the holding's own row corrects it — it does not rise, does not walk and does not pursue, and what leaves the chamber is the load, not the figure — Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / Zone B, deep tunnels |
-| Gauge / Pressure | 809/809; starts 60–80% / 29–63 per hit · Weight |
+| Gauge / Pressure | 000/809; starts 000% / 29–63 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility. |
 

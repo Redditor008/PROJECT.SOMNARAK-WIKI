@@ -22,7 +22,7 @@ An Entity (IV) Time at Critical (δ) potency, Void-aligned, mind-manifesting, he
 | Type / Manifestation | Time — Can breach via Transform / Time-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / SECTOR-C-918, contained |
-| Gauge / Pressure | 750/750; starts 35–50% / 30–36 per hit · Void |
+| Gauge / Pressure | 000/750; starts 000% / 30–36 per hit · Void |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

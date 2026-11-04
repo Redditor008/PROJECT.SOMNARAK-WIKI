@@ -20,7 +20,7 @@ A pale floating crystal shard contains a ghostly outline formed from a Forge wor
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element | Lament |
-| Gauge / Pressure | 60–80% / 25–54 |
+| Gauge / Pressure | 000% / 25–54 |
 | Observation | 2 |
 | Set | The Limited Witness |
 

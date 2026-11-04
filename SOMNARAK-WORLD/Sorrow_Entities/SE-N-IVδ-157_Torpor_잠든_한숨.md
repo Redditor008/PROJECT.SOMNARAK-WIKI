@@ -27,10 +27,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28, and it rises with stored exhaustion — which is why the site is worked after a long rotation rather than at the start of one, a scheduling decision the file records as the least popular on the border |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is accumulated quiet; no breach counter applies, and the holding expands rather than escaping. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is accumulated quiet; no breach counter applies, and the holding expands rather than escaping. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -57,12 +57,12 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Weight, which is what the place presses with. 35% Against everything else, and the second figure is what a standing crew is reduced to once the hush has had them a full rotation |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
+| **Sorrow Gauge [Load]** | **000/880** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 30–65 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
@@ -73,7 +73,7 @@
 | **Threat Role** | Boss encounter |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Border region |

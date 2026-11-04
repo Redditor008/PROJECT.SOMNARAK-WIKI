@@ -22,7 +22,7 @@ The Chain formed from memories passed through families and communities. The weig
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Fragment (III) — Binding and connecting / Moderate (β) |
 | Element / Location | Weight / SECTOR-C-01, Collector's Row |
-| Gauge / Pressure | 484/484; starts 35–50% / Weight — no attack pattern; the link count is the reading, and the only figure that has ever predicted the hour |
+| Gauge / Pressure | 000/484; starts 000% / Weight — no attack pattern; the link count is the reading, and the only figure that has ever predicted the hour |
 | Observation | 2 — Basic |
 | Formation event | Families traded memories to preserve history after records were destroyed; the memories crystallized into links. |
 
@@ -52,4 +52,4 @@ During *The Chain of Memories Source-Trace*, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon isolates only the immediate manifestation that violates this rule: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C. The gauge opens at 35–50% of its 484/484 meter, and no attack pattern is filed for this Weight manifestation. The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon isolates only the immediate manifestation that violates this rule: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C. The gauge opens at 000% of its 000/484 meter, and no attack pattern is filed for this Weight manifestation. The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.

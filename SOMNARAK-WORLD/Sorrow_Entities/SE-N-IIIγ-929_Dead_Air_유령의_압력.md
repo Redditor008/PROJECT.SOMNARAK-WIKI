@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Hazard |
 | **Primary pressure** | Weight / Spirit pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–4 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a lean and apparent mass read against a barometer that records only pressure. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–4 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a lean and apparent mass read against a barometer that records only pressure. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -54,13 +54,13 @@
 | **Mode of presence** | A barometric anomaly in Zone A, marked by a sense of being leaned on from behind — with a direction and an apparent weight — in a room with nobody in it |
 | **Perceptible to** | The lean first, which every person volunteers a mass for without being asked. The barometer records atmospheric pressure and never the lean itself |
 | **Activation threshold** | Three ignored conditions escalate it. No gauge threshold governs the start of a watch |
-| **Sorrow Gauge [Load]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Load]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-N-929, contained |
 | **Resolution Condition** | The watch is sat to its end and the form is filed, blank or not |
 
-**Charge.** In the shared air, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In the shared air, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

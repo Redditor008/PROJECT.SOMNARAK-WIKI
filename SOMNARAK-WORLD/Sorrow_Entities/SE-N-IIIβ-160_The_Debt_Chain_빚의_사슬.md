@@ -28,10 +28,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a length nobody has found the end of in either direction. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–4 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a length nobody has found the end of in either direction. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter. Activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The weight under the hand first, which is measurable and increases with contact. Then the run — the length of a sequence in which each name guarantees the next, which is the only instrument the holding has. |
 | **Handling** | Supported, never lifted. Forty links and forty names to a shift, and the shift stops at forty even when the reader knows a name. Nothing is struck, nothing is turned to read its underside, and the run is counted twice when it passes forty. |
 | **Activation threshold** | No breach counter. Activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud |
-| **Sorrow Gauge [Load]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Load]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan touches the link, names the debtor. And the obligation's history returns whole — amount, date, whether it was discharged, whether it was inherited. And who stood behind it — and holds level. Ferrehan is a shift walking forty links and reading forty names, and lowers the gauge. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The quarter's cascade register produced and read aloud in the gallery, every pursuit beyond a first guarantor named with its authorising officer, and the gauge below 25% |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

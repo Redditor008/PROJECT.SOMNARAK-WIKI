@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 per cycle, and the Gate station's note is that the figure has never varied with anything the wing controls. It varies with the destination column: each of the four entries SED has returned produced a measurable fall in the gauge and no change at all in the yield. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–5 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is pressure along the Gate road, lowered while the new arrivals keep coming. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–5 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is pressure along the Gate road, lowered while the new arrivals keep coming. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No count is listed and none may be inferred into the empty row |
 | **Tool / M.A.W. grade** | α — Weapon, Suit and Stigma; the source remains Major (γ). |
 | **Vessel-Destructible** | Yes |
@@ -53,13 +53,13 @@
 | **Mode of presence** | A wall of dark wet crystal near the Exile's Gate, burning with red light along its surface and leaking sorrow like sweat — fever-hot, damp, weeping even as it burns |
 | **Perceptible to** | The wet first, then the heat. The half-built shelters along its length are legible to anyone who stands in front of them long enough |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No count is listed and none may be inferred into the empty row |
-| **Sorrow Gauge [Pressure]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Sorrow Gauge [Pressure]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, worked from the city side; no part of any cycle involves approaching the shelter ground |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Acknowledge both departure and destination; do not complete its buildings |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

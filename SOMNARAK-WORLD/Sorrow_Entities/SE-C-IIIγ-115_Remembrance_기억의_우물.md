@@ -28,10 +28,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 per cycle, drawn at the rim with the cover closed. The Grand Archive takes no share and has twice declined one, on the ground that the well is not the Archive's and the Archive is only standing over it. |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–5 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is what the shaft gives back, in the voice of whoever it came from. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–5 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is what the shaft gives back, in the voice of whoever it came from. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Breaking the surface with the bronze probe on its winch line. No breach counter; the level is gauged from the archive floor every watch |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,14 +55,14 @@
 | **Mode of presence** | A deep stone well beneath the Grand Archive, rim worn and dark, filled with something that is not water and reflects the viewer's past rather than their face |
 | **Perceptible to** | The surface first — slow and viscous, blood-warm, numb and faintly sweet, smelling of ash — and then a voice out of it that belongs to somebody, sometimes to nobody the facility can identify |
 | **Activation threshold** | Breaking the surface with the bronze probe on its winch line. No breach counter; the level is gauged from the archive floor every watch |
-| **Sorrow Gauge [Saturation]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Sorrow Gauge [Saturation]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Handling** | No Work Types (`R-40`). Four stages in `## Handling Process`, both at the rim, observation never alone and never by the Warden on watch |
 | **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. The past comes back and the gauge does not move; holding at the cover brings it down. |
 | **Location** | SECTOR-A-01, beneath the Grand Archive |
 | **Resolution Condition** | Seal access and permit only supervised viewing |
 
-**Charge.** At the offering, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -22,7 +22,7 @@ An Echo (II) Time at Moderate (β) potency, Weight-aligned, spirit-manifesting, 
 | Type / Manifestation | Time — Can breach via Transform / Time-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-N-919, contained |
-| Gauge / Pressure | 495/495; starts 35–50% · Weight — no attack pattern: the hour has no body to strike and no instrument has ever registered a sound (Contact Record, R-36) |
+| Gauge / Pressure | 000/495; starts 000% · Weight — no attack pattern: the hour has no body to strike and no instrument has ever registered a sound (Contact Record, R-36) |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

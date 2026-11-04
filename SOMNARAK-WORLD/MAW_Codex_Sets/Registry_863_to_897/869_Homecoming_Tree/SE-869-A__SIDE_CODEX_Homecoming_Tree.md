@@ -22,7 +22,7 @@ The Tree formed from the grief of returning to a place that no longer recognized
 | Type / Manifestation | Subject — Can breach / Place-Lament |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone E, Border region |
-| Gauge / Pressure | 174/174; starts 25–40% / 3–9 per hit · Lament |
+| Gauge / Pressure | 000/174; starts 000% / 3–9 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A displaced community returned to its original border settlement and found it transformed beyond recognition. |
 

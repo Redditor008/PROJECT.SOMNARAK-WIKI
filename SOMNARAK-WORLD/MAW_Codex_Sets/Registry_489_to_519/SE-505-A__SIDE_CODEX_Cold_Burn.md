@@ -20,7 +20,7 @@ A frozen shadow caretaker guards an empty Mask Market vault. Its edges burn when
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element | Void |
-| Gauge / Pressure | 60–80% / 25–55 |
+| Gauge / Pressure | 000% / 25–55 |
 | Observation | 2 |
 | Set | The Relieved Watch |
 

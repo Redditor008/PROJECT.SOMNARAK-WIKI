@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Grudge |
 | Form | A half-arriving dream figure made from a warning crushed beneath red static, char scent, and dead signal pressure. |
-| Gauge / Pressure | 60–80% / Grudge 24–52 |
+| Gauge / Pressure | 000% / Grudge 24–52 |
 | Movement | Up to 2.45 m/s through dream-space |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Message That Failed |

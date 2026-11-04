@@ -22,7 +22,7 @@ The Lantern formed from the sorrow of collecting from others. The weight of taki
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Echo (II) — Repeats glowing / Moderate (β) |
 | Element / Location | Weight / Zone C, Collector's Row — ambient |
-| Gauge / Pressure | 386/386; starts 35–50% · Weight — no attack pattern: fixed to its mount, and what it delivers arrives as a showing rather than a blow (Contact Record, R-36) |
+| Gauge / Pressure | 000/386; starts 000% · Weight — no attack pattern: fixed to its mount, and what it delivers arrives as a showing rather than a blow (Contact Record, R-36) |
 | Observation | 2 — Basic |
 | Formation event | A Collector carried a lantern through debtors' homes and began seeing their burdens as light. |
 
@@ -52,4 +52,4 @@ During *The Debt Collector s Lantern Source-Trace*, the field team preserved thi
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Debt-Collector's-Lantern's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level. The gauge opens at 35–50% of its 386/386 meter, and no attack pattern is filed for this Weight manifestation. The set cannot heal the originating event. Misuse routes Debt-Collector's-Lantern's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Debt-Collector's-Lantern's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level. The gauge opens at 000% of its 000/386 meter, and no attack pattern is filed for this Weight manifestation. The set cannot heal the originating event. Misuse routes Debt-Collector's-Lantern's wound through the operator and triggers the recorded escalation.

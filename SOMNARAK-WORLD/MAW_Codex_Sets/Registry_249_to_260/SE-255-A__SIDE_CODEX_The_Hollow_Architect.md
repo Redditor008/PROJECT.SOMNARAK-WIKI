@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / γ — Major |
 | Element | Weight |
 | Form | A hollow humanoid carrying dark-crystal blueprints and building unfinished structures for people who never arrived. |
-| Gauge / Pressure | 45–65% / Weight 14–32 |
+| Gauge / Pressure | 000% / Weight 14–32 |
 | Movement | 2.30 m/s while building or breaching |
 | Observation | 3 — Advanced |
 | M.A.W. Set | The Unoccupied Plan |

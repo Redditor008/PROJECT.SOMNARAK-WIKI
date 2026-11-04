@@ -22,7 +22,7 @@ Upwell is a half-flesh, half-mist mother-figure rising from a broken dry well in
 | Coherence / Potency | II / β |
 | Element | Grudge |
 | Location | Zone B, Old Lament |
-| Gauge / Pressure | 420/420; starts 35–50% / 8–19 Grudge |
+| Gauge / Pressure | 000/420; starts 000% / 8–19 Grudge |
 | Movement / Resistance | 1.45 m/s manifestation / 25% Grudge, 15% other |
 | Breach threshold | Gauge ≥60%; Transform breach |
 | Observation | 2 — Basic |

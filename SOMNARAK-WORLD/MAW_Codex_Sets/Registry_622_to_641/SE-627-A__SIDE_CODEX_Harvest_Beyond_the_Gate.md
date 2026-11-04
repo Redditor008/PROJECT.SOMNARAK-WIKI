@@ -22,7 +22,7 @@ Beyond the Exile’s Gate, dark fruit ripens in heavy clusters and melts into cr
 | Coherence / Potency | II / β |
 | Element | Grudge |
 | Location | Zone E, Exile’s Gate vicinity |
-| Gauge / Pressure | 880/880; starts 35–50% / Grudge — no attack pattern; the frontage paced from the gate is the reading |
+| Gauge / Pressure | 000/880; starts 000% / Grudge — no attack pattern; the frontage paced from the gate is the reading |
 | Movement / Resistance | Fixed spreading place / 25% Grudge, 15% other |
 | Activation threshold | Gauge ≥60%; expansion follows new exile longing |
 | Observation | 2 — Basic |

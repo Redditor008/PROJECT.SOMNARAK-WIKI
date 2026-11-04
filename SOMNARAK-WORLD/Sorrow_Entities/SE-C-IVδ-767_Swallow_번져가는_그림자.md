@@ -27,10 +27,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 4–7 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is anything set down inside the edge staying there. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 4–7 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is anything set down inside the edge staying there. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on an unrecognised loss carried to the memorial above with no office willing to record it |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,13 +55,13 @@
 | **Perceptible to** | Detail going soft at the edges of whatever the worker is looking at. Then the worker's own shadow going transparent, and after that a hand that can be seen through. |
 | **Handling** | Name the source of the grief and return emotional ownership. Work the shift inside the fixed light and come out tethered to your own equipment. The perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary. |
 | **Activation threshold** | No breach counter; activates on an unrecognised loss carried to the memorial above with no office willing to record it |
-| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the mourners legible in outline — how many, how long ago, roughly who they came for. And never a name. Ferrehan is a full shift held inside the edge without taking ownership of anything in the air, marked by a counsellor afterwards and not by the worker. |
 | **Location** | Zone A, Alpha Tree |
 | **Resolution Condition** | Name the source of the grief and return emotional ownership |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

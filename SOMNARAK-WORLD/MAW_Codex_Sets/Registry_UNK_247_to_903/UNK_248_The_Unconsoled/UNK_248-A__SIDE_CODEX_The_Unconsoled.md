@@ -21,7 +21,7 @@ The Unconsoled is an ancient translucent elder whose unending tears hold the fir
 |---|---|
 | Coherence / Potency | III / γ |
 | Element / Location | Lament / Old Lament, drifting toward Alpha Tree roots |
-| Gauge / Pressure | 653/653; starts 60–75% / 18–41 Lament |
+| Gauge / Pressure | 000/653; starts 000% / 18–41 Lament |
 | Movement / Resistance | 0.6 m/s / 45% Lament, 35% other |
 | Resolution | Share the grief aloud; it lightens but never empties |
 

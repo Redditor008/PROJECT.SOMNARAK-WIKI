@@ -28,10 +28,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is wet to the touch, falling where nothing stands. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is wet to the touch, falling where nothing stands. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on contact, or anger directed at it on purpose |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The wetted margin first — the damp reading against the chalk — then the drips, then the grade, which deepens by carrying anger into the room rather than by doing anything in it. |
 | **Handling** | Chalk marks counted before anything else, because the outline moves and the marks are the only record of where it used to be. Positions taken outside the wetted margin, the card not read until the outline is marked. And cleared Wardens only — cleared that week, checked at the door rather than at the roster. |
 | **Activation threshold** | No breach counter; activates on contact, or anger directed at it on purpose |
-| **Sorrow Gauge [Pressure]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Sorrow Gauge [Pressure]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is the lodged complaints read aloud in the voices that wrote them, in no order and without end, and holds the gauge. Ferrehan is standing the interval beside it without contributing anything of your own, and lowers it. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged. |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

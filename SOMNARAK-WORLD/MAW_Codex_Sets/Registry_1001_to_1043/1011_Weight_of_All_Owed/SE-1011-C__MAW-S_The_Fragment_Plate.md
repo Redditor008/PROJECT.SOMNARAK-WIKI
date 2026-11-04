@@ -18,7 +18,7 @@
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Converts physical impact into resistance.  
 **Binding rule:** the bearer names Weight of All Owed's event — “A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.” — and accepts this limit: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind.  
-**Gauge:** 910/910; opens at 60–80%; no attack pattern is filed for this Weight manifestation — the three-dimensional position and station drift are the reading.
+**Gauge:** 000/910; opens at 000%; no attack pattern is filed for this Weight manifestation — the three-dimensional position and station drift are the reading.
 ### Appearance
 
 A plated harness of Weight Han-steel, matte and heavy out of proportion to its size, that sets on the shoulders like a carried thing and settles lower the longer it is worn.
@@ -45,7 +45,7 @@ The first bearer of The Fragment Plate encountered this source response: Tests w
 - Escalation: the fragments accumulate faster than they can be answered, and each one is treated as agreed.
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind.” reverses the item’s benefit and raises the source Gauge — a 910/910 meter that opens at 60–80%.
+**Failure mode:** violating “viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind.” reverses the item’s benefit and raises the source Gauge — a 000/910 meter that opens at 60–80%.
 **Maintenance:** The Plate is weighed on the shoulders before and after each shift — it settles lower the longer it is worn, and what matters is how far it has settled since the last answer — and every fragment gets one answer in writing on the day it arrives.  
 **Emergency shutdown:** two people lift it at the shoulders while the wearer says, for each fragment still on the harness, whether they agreed to it or only stopped objecting; anything in the second column comes off and goes back to the monument ledger. Obligations already answered stay answered.
 

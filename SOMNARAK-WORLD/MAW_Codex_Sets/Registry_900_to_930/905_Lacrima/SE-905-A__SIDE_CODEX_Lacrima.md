@@ -22,7 +22,7 @@ A Residue (I) Object at Minor (α) potency, Void-aligned, spirit-manifesting, he
 | Type / Manifestation | Object — Can breach via Transform / Object-Spirit |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void / SECTOR-N-905, contained |
-| Gauge / Pressure | 240/240; starts 35–50% / Void — no attack pattern; the lid gap at the four rim points is the reading |
+| Gauge / Pressure | 000/240; starts 000% / Void — no attack pattern; the lid gap at the four rim points is the reading |
 | Observation | 1 — Trace |
 | Formation event | Not recorded |
 

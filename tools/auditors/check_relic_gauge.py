@@ -165,19 +165,25 @@ def problems(text):
     want = CHARGE_OF_TIER.get(tier)
     r = re.match(r'^\*\*(\d+)\s*/\s*(\d+)\*\*', body)
     if not r:
-        out.append('the cell does not open with the charge in bold')
-    elif want is not None and (int(r.group(1)) != want or int(r.group(2)) != want):
-        out.append('charge %s/%s but %s carries %d'
-                   % (r.group(1), r.group(2), tier, want))
-    elif r.group(1) != r.group(2):
-        out.append('reads %s/%s — a dossier records the resting charge, which is full'
-                   % (r.group(1), r.group(2)))
+        out.append('the cell does not open with the reading in bold')
+    else:
+        if want is not None and int(r.group(2)) != want:
+            out.append('ceiling %s but %s carries %d' % (r.group(2), tier, want))
+        if int(r.group(1)) != 0:
+            out.append('reads %s/%s — a relic at rest reads 000; the gauge fills, it does '
+                       'not drain' % (r.group(1), r.group(2)))
 
-    for phrase, why in (('full', 'the state'),
+    for phrase, why in (('ready', 'the settled state'),
                         ('60 s', 'the sixty-second wall'),
-                        ('refill 10 min', 'the refill time')):
+                        ('recharge 10 min', 'the recharge time')):
         if phrase not in body.lower():
             out.append('the cell does not carry %s' % why)
+
+    # a settled relic reads at the bottom, not in a 35-50% band
+    s = re.search(r'\*\*Starting Sorrow Gauge\*\*\s*\|\s*([^|\n]+)', text)
+    if s and not re.match(r'\s*0{2,3}\b', s.group(1)):
+        out.append('Starting Sorrow Gauge reads %r — a settled relic reads 000'
+                   % s.group(1).strip()[:40])
 
     # the explanation lives outside the table
     c = CHARGE.search(text)
@@ -187,11 +193,11 @@ def problems(text):
         para = c.group(1)
         low = para.lower()
         if 'sixty seconds' not in low and '60 s' not in low:
-            out.append('the charge paragraph does not state the sixty-second wall')
+            out.append('the charge paragraph does not state the sixty-second fill')
         if '000' not in para:
             out.append('the charge paragraph does not state the 000')
         if 'tenth a minute' not in low:
-            out.append('the charge paragraph does not state the refill rate')
+            out.append('the charge paragraph does not state the run-down rate')
         if 'work damage' not in low:
             out.append('the charge paragraph does not chain to Work Damage')
 

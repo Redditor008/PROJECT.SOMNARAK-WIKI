@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Lament |
 | Form | A pale-blue heart-flame inside consciousness, ringed by charred metal and fused growth, melting between comfort and cold grief. |
-| Gauge / Pressure | 35–50% / Lament 10–23 |
+| Gauge / Pressure | 000% / Lament 10–23 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Cooling Hearth |
 

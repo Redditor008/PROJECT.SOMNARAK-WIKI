@@ -22,7 +22,7 @@ Vestige is a pale tree-beast whose trunk, branch-arms, and root-legs blink out a
 | Coherence / Potency | I / α |
 | Element | Grudge |
 | Location | Zone E, Border region |
-| Gauge / Pressure | 880/880; starts 25–40% / 3–9 Grudge |
+| Gauge / Pressure | 000/880; starts 000% / 3–9 Grudge |
 | Movement / Resistance | 0.95 m/s / 15% Grudge, 5% other |
 | Breach threshold | Gauge ≥45%; vanished-forest ultimate begins at 65% |
 | Observation | 1 — Initial |

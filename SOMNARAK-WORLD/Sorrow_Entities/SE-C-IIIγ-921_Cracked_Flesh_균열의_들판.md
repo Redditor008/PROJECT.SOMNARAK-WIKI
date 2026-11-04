@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Hazard |
 | **Primary pressure** | Grudge / Body pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, measured against ground rather than time: a cycle is one full traverse of the affected field, which at the present extent takes about forty minutes at a walking pace nobody is allowed to break. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–5 Grudge / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a hazard belonging to a measured area of ground, with no vessel and no occupant. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–5 Grudge / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a hazard belonging to a measured area of ground, with no vessel and no occupant. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | There is no vessel and no occupant. The hazard is a property of a measured area of ground, and it presents on stone, timber, cloth and skin in exactly the same way. |
@@ -70,7 +70,7 @@
 | **Threat Role** | Major encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-921 |

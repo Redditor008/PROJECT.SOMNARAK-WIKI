@@ -20,7 +20,7 @@ A rusted seed-creature crawls across the Desolate on root-spines, waiting for a 
 |---|---|
 | Coherence / Potency | I / α |
 | Element | Lament |
-| Gauge / Pressure | 25–40% / 3–10 |
+| Gauge / Pressure | 000% / 3–10 |
 | Observation | 1 |
 | Set | The Untended Promise |
 

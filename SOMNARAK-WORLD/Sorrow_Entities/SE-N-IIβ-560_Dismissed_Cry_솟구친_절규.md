@@ -28,10 +28,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, and the crystal gives up its stored anger only where the surface has been softened — tears release a portion of the stored volume, which is the sole condition under which the yield can be taken safely. A cycle worked on a hardened surface returns the lower end of the range and takes longer. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a stored volume expanding inside the crystal. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a stored volume expanding inside the crystal. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on touch or vocal aggression nearby |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The pressure first — no sound reaches the instruments, and the teeth and sternum receive the sentence the ears have filed as noise — then the orientation of the torn opening, which is the register. |
 | **Handling** | Nothing is touched and nothing is shouted in the chamber. Height and orientation are recorded at each session, and a raised voice is treated as a second conversion of the protest into noise rather than as an answer to it. |
 | **Activation threshold** | No breach counter; activates on touch or vocal aggression nearby |
-| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Pressure]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan uncovers the injustice behind the scream and holds the reading steady — stability is the correct outcome here and is not a stalled session. Ferrehan asks the worker to remain beside sustained anger without taking it up and repeating it. And that restraint is where the decrease comes from. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | The grievance is entered in the complaints register with a complainant named, and the Sorrow Gauge falls below 25% |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

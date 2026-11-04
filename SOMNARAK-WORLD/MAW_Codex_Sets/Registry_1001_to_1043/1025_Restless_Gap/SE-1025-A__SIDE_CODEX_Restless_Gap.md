@@ -22,7 +22,7 @@ The Trace formed from a life broken into disconnected pieces. The weight of surv
 | Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / Zone D, Mantle Commons |
-| Gauge / Pressure | 846/846; starts 60–80% / 29–64 per hit · Weight |
+| Gauge / Pressure | 000/846; starts 000% / 29–64 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence. |
 

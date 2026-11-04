@@ -28,10 +28,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Clarity — keeping a heard song as music rather than becoming its unexamined conduit |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle. And here the cycle is defined by a change in the register rather than by time spent: the yield is taken when a song acquires a living carrier. And a session that produces an accurate transcription and no carrier returns nothing the file will bank. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 1–3 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the one emotionally resonant listener, addressed and none other. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–3 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the one emotionally resonant listener, addressed and none other. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 65%, reached after three distinct songs have been interrupted. No breach counter is listed on this file and none is implied |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β (Moderate) |
 | **Vessel-Destructible** | No — fixed Object-Lament on open display; no vessel or destruction route is recorded |
@@ -55,13 +55,13 @@
 | **Mode of presence** | One palm-sized stone in a case, warmer than the room it is in, singing to one person at a time and never to two |
 | **Perceptible to** | Anyone inside the chamber: the warmth first, then a low tone felt in the chest rather than heard |
 | **Activation threshold** | Sorrow Gauge ≥ 65%, reached after three distinct songs have been interrupted. No breach counter is listed on this file and none is implied |
-| **Sorrow Gauge [Depth]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Depth]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and here the two mean the same task: sit through the song to the end and be able to sing it afterwards |
 | **Location** | SECTOR-D-02, Echo Gardens — contained/open display |
 | **Resolution Condition** | The song sung is learned by a living person well enough to sing unaccompanied, and the Sorrow Gauge falls below 25% |
 
-**Charge.** At the offering, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

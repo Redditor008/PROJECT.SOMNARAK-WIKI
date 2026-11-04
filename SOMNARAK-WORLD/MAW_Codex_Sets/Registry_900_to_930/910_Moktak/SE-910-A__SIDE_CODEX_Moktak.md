@@ -22,7 +22,7 @@ An Echo (II) Place at Moderate (β) potency, Weight-aligned and spirit-manifesti
 | Type / Manifestation | Place — Non-breaching: expansion only / Place-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-N-910, contained |
-| Gauge / Pressure | 420/420; starts 35–50% / Weight — no attack pattern; the chair count against the hall plan is the reading |
+| Gauge / Pressure | 000/420; starts 000% / Weight — no attack pattern; the chair count against the hall plan is the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

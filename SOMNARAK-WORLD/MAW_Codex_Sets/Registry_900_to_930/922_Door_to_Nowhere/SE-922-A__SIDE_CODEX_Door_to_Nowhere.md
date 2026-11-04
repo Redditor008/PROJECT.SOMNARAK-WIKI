@@ -22,7 +22,7 @@ The Door formed from the anger of being denied an exit. The weight of a threshol
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 420/420; starts 35–50% / Grudge — no attack pattern; the handle height against the district bulletin is the reading |
+| Gauge / Pressure | 000/420; starts 000% / Grudge — no attack pattern; the handle height against the district bulletin is the reading |
 | Observation | 2 — Basic |
 | Formation event | A resident was trapped during a district lockdown, watching a door rise beyond reach. |
 
@@ -52,4 +52,4 @@ During *The Door to Nowhere Source-Trace*, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Door to Nowhere's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The gauge opens at 35–50% of its 420/420 meter, and no attack pattern is filed for this Grudge manifestation. The set cannot heal the originating event. Misuse routes Door to Nowhere's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Door to Nowhere's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The gauge opens at 000% of its 000/420 meter, and no attack pattern is filed for this Grudge manifestation. The set cannot heal the originating event. Misuse routes Door to Nowhere's wound through the operator and triggers the recorded escalation.

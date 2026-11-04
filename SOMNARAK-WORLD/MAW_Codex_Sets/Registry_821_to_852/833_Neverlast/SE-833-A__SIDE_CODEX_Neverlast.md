@@ -22,7 +22,7 @@ The Soul formed from the grief of a friend who was abandoned. The confusion of b
 | Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Lament |
 | Coherence / Potency | Echo (II) — Repeats waiting for acknowledgment / Moderate (β) — Manageable |
 | Element / Location | Lament / Zone B, Old Lament — contained/ambient |
-| Gauge / Pressure | 415/415; starts 35–50% · Lament — no attack pattern: the figure has never moved, and the corrosion comes off the arm and settles (Contact Record, R-36) |
+| Gauge / Pressure | 000/415; starts 000% · Lament — no attack pattern: the figure has never moved, and the corrosion comes off the arm and settles (Contact Record, R-36) |
 | Observation | 3 — Advanced |
 | Formation event | A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized. |
 

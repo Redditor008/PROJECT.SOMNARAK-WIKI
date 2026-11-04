@@ -28,10 +28,10 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a Tear sitting a fraction less flat beneath the stone, and no more. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a Tear sitting a fraction less flat beneath the stone, and no more. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; **Object/Place** — Non-breaching: activation only |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The height above the soil first, which is the only series that answers. Then the wetness that should have dried, and the judgement the surface reflects — that this one does not belong here. |
 | **Handling** | Left flat. Nobody lifts it except in a scheduled contact operation with a counsellor present, and after a lift it is set down deliberately rather than put down. No grief in the room is ranked against another in its hearing. |
 | **Activation threshold** | No breach counter; **Object/Place** — Non-breaching: activation only |
-| **Sorrow Gauge [Depth]** | **240/240** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Sorrow Gauge [Depth]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan surfaces the loss that made it — as small as advertised — and holds the gauge flat, because the object was never hidden from sight, only from acknowledgement. Ferrehan holds a grief that feels too minor to hold and declines to put it down early, which is the row that lowers it. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%. The four measurements are taken before and after contact. |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

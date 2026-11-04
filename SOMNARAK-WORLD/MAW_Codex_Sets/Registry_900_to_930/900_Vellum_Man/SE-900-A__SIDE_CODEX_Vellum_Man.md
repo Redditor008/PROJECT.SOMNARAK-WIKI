@@ -22,7 +22,7 @@ A Residue (I) Subject at Minor (α) potency, Lament-aligned and tale-shaped, hel
 | Type / Manifestation | Subject — Can breach via Transform / Subject-Tale |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / SECTOR-C-900, contained |
-| Gauge / Pressure | 406/406; starts 35–50% / 11–23 per hit · Lament |
+| Gauge / Pressure | 000/406; starts 000% / 11–23 per hit · Lament |
 | Observation | 1 — Trace |
 | Formation event | Not recorded |
 

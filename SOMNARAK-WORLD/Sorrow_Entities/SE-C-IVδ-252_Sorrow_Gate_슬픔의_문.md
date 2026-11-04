@@ -28,10 +28,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle — drawn from the warm frame, never from the slab, and the vault's ash-smell strengthens by the measure of it |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–6 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is opening onto the vault wall behind it. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–6 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is opening onto the vault wall behind it. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on touch or sustained listening; no approved method exists |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The whisper first, ambient and not yet addressed. Then the warmth off the inner face, the ash smell that leaves in a worker's clothes, and the settled conviction that something on the far side is at a temperature. |
 | **Handling** | Nobody steps inside the frame, nobody speaks the whisper aloud at it, and no rendering of it leaves the vault. Interpretive material is destroyed under witness and logged. |
 | **Activation threshold** | No breach counter; activates on touch or sustained listening; no approved method exists |
-| **Sorrow Gauge [Saturation]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Sorrow Gauge [Saturation]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both are recorded as stable. Viderehan returns fragments of the whispering; Ferrehan returns silence; both leave the reading where they found it, which is the only outcome this record accepts. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **Resolution Condition** | All interpretive material produced during the session is destroyed under witness and logged, and the gauge is left flat where the vault set it — nothing here is read down, and both valid Work Types are recorded as stable |
 
-**Charge.** At the offering, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

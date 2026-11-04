@@ -22,7 +22,7 @@ The Soul formed from an Outside Sorrow traveler who never found a place to rest.
 | Type / Manifestation | Object/Place — Non-breaching: expansion only. Mishandled, the drift widens across more of the vault network and the range has never afterwards contracted / Object-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / Zone A, Alpha Tree |
-| Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Lament |
+| Gauge / Pressure | 000/653; starts 000% / 18–41 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained. |
 

@@ -20,7 +20,7 @@ An ethereal voice surrounds a pillar-shaped absence floating above the Mask Mark
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Void |
-| Gauge / Pressure | 653/653; starts 45–65% / Void — no attack pattern; the gap and the two bearings from the sighting marks are the reading |
+| Gauge / Pressure | 000/653; starts 000% / Void — no attack pattern; the gap and the two bearings from the sighting marks are the reading |
 | Observation | 2 |
 | Set | The Real Support |
 

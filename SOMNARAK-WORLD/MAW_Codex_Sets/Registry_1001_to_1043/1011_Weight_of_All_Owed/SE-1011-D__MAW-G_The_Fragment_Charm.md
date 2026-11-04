@@ -18,7 +18,7 @@
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Slows the bearer to the pace of a thing being remembered, and reads the debt history of every monument they pass, whether or not they stop at it.  
 **Binding rule:** the bearer names Weight of All Owed's event — “A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.” — and accepts this limit: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind.  
-**Gauge:** 910/910; opens at 60–80%; no attack pattern is filed for this Weight manifestation — the three-dimensional position and station drift are the reading.
+**Gauge:** 000/910; opens at 000%; no attack pattern is filed for this Weight manifestation — the three-dimensional position and station drift are the reading.
 ### Appearance
 
 A small charm of Weight Han-steel, matte and heavy beyond its dimensions, that drags at its cord when carried toward the bowl and goes still on the road.
@@ -41,7 +41,7 @@ The first bearer of The Fragment Charm encountered this source response: Reveals
 - Escalation: the remembering slows below walking pace, and the bearer is overtaken by their own errands.
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind.” reverses the item’s benefit and raises the source Gauge — a 910/910 meter that opens at 60–80%.
+**Failure mode:** violating “viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind.” reverses the item’s benefit and raises the source Gauge — a 000/910 meter that opens at 60–80%.
 **Maintenance:** The Charm is carried once a day onto a road with no markers and left to hang still, where there is nothing to remember; a cord that still drags on open road means the bearer has been walking past too many debt stones.  
 **Emergency shutdown:** the bearer walks a road with no monument on it until the cord goes slack, and a witness dates the walk in the log. The seasons it slowed are already spent.
 

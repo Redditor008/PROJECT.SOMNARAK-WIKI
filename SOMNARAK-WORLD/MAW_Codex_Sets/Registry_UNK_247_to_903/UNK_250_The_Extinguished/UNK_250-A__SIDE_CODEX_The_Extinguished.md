@@ -21,7 +21,7 @@ A spent Hope Bearer’s figure wanders an outer Zone D shelter, hostile to aband
 |---|---|
 | Coherence / Potency | IV / γ |
 | Element | Grudge |
-| Gauge / Pressure | 750/750; starts 65–80% / 18–41 Grudge |
+| Gauge / Pressure | 000/750; starts 000% / 18–41 Grudge |
 | Movement / Resistance | 1.8 m/s / 40% Grudge, 25% other |
 | Resolution | Sustained Ferrehan: a light that stays now and promises no forever |
 

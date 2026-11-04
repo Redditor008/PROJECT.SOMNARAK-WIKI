@@ -28,10 +28,10 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional — the Door works on the person standing at it, in the place they are trying to leave. |
-| **Starting Sorrow Gauge** | 25–40% — low end for watches opened by somebody who has not named anywhere else yet. |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per completed cycle, taken at the threshold — never counted inside the tunnel. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a Door settled for a while, with the stone never lifted. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a Door settled for a while, with the stone never lifted. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
@@ -54,13 +54,13 @@
 | **Mode of presence** | A fallen leaf beneath the tunnel stone, a square frame above it, hinges seated and the mechanism still working |
 | **Perceptible to** | The gap first — a threshold that is not passable and not damaged — and then the route and the people beyond it |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
-| **Sorrow Gauge [Depth]** | **240/240** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 25–40% — the low end belongs to watches opened by somebody who has not yet said where they would rather be |
+| **Sorrow Gauge [Depth]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | The party holds position at the blocked threshold for the full duration without anyone naming somewhere else, and the gauge settles back beneath 25% |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -22,7 +22,7 @@ The Chain formed from bonds that became imprisonment. The grief of being held by
 | Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 855/855; starts 60–80% / 24–53 per hit · Void |
+| Gauge / Pressure | 000/855; starts 000% / 24–53 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A district was bound by debt and duty until the obligations became a living chain. |
 

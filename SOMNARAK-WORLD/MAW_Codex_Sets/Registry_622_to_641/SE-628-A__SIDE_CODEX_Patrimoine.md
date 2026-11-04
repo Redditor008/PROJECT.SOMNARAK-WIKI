@@ -22,7 +22,7 @@ Patrimoine appears as a burst seed whose dark root-tendrils drag a moving hollow
 | Coherence / Potency | III / γ |
 | Element | Weight |
 | Location | Zone A, Alpha Tree vault |
-| Gauge / Pressure | 880/880; starts 45–65% / 18–41 Weight |
+| Gauge / Pressure | 000/880; starts 000% / 18–41 Weight |
 | Movement / Resistance | Root-current output; combat speed N/A / 35% Weight, 25% other |
 | Activation threshold | Gauge ≥75%; expansion follows transferred sorrow |
 | Observation | 2 — Basic |

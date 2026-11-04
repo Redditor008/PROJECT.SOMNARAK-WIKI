@@ -22,7 +22,7 @@ Souvenir walks the Mask Market as a weeping figure assembled from stone, dust, s
 | Coherence / Potency | III / γ |
 | Element | Lament |
 | Location | Zone C, Mask Market |
-| Gauge / Pressure | 653/653; starts 45–65% / 18–41 Lament |
+| Gauge / Pressure | 000/653; starts 000% / 18–41 Lament |
 | Movement / Resistance | 1.95 m/s / 35% Lament, 25% other |
 | Breach threshold | Gauge ≥75%; dust-field ultimate begins at 65% |
 | Observation | 2 — Basic |

@@ -29,10 +29,10 @@
 | **Entity role** | Object/Place (Transforms to event Subject `C-IVω-001-B [GS]` upon event) |
 | **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan barred — Negative-Low) |
 | **Primary pressure** | Resilience — the will to keep standing on ground that is still occupied, and to leave when the plan says leave |
-| **Starting Sorrow Gauge** | 75–95% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 28–40 per cycle, the highest figure in the registry, drawn from the ground the city is standing on. The energy office has never queried it and the Architects' standing note is that the yield is the Cheongula still being spent. |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Sovereign |
-| **Work Damage** | 8–10 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is being named: a worker who finishes a cycle can recite eleven of the thousand and cannot say whose, and the eleven do not leave when the shift does. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 8–10 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is being named: a worker who finishes a cycle can recite eleven of the thousand and cannot say whose, and the eleven do not leave when the shift does. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Third formal refusal of the confession — the transformation is a refusal and not a gauge reading, and the district form runs no activation percentage |
 | **Tool / M.A.W. grade** | — · ω (Catastrophic) |
 | **Vessel-Destructible** | No — ω-grade / Place-manifestation |
@@ -57,12 +57,12 @@
 | **Speed** | N/A — the ordinary district has no travel speed; movement of the registered Walking District is a separate event-form record |
 | **Resistance** | 50% against Grudge, filed on the event form. Nothing has ever been struck in the district: the perimeter is Architects' reinforcement and a survey, not a thing that resists, and the figure describes the Walking District rather than the place. |
 | **Activation threshold** | Third formal refusal of the confession — the transformation is a refusal and not a gauge reading, and the district form runs no activation percentage |
-| **Sorrow Gauge [Pressure]** | **1080/1080** · full · limit 60 s · refill 10 min |
+| **Sorrow Gauge [Pressure]** | **000/1080** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 50–111 per event-form strike · Grudge · **Instant Fracture on critical** — event form only. The district has no hands, no eyes and no reach |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 1080 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 1080 — and at 1080 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 1080, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
@@ -73,7 +73,7 @@
 | **Threat Role** | Sovereign encounter — event form only. The place form is managed by perimeter survey and negotiation, and there is no encounter to prepare for |
 | **Coherence** | Entity (IV) — Self-aware, ancient, hungry |
 | **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 75–95% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Extreme · R.D. Comprehension Level 5 — Sovereign |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B district — UNCONTAINED |

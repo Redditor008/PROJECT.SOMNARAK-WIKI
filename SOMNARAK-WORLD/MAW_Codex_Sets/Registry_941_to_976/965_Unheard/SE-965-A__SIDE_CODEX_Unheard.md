@@ -22,7 +22,7 @@ The entity formed from a city that stopped listening to its own final words. The
 | Type / Manifestation | Subject — Non-breaching: transformation in place / Subject-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Grudge / Zone C, Collector's Row |
-| Gauge / Pressure | 227/227; starts 25–40% / 2–7 per hit · Grudge |
+| Gauge / Pressure | 000/227; starts 000% / 2–7 per hit · Grudge |
 | Observation | 1 — Initial |
 | Formation event | A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained. |
 

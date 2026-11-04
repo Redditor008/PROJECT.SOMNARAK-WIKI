@@ -22,7 +22,7 @@ The Sigh formed from exhaustion that could not become rest. The grief of survivi
 | Type / Manifestation | Subject — Can breach / Subject-Spirit |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / Zone B, Old Lament |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Void |
+| Gauge / Pressure | 000/910; starts 000% / 29–64 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | Citizens sighed after repeated crises until the collective breath became a wandering presence. |
 

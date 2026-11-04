@@ -27,10 +27,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 per successful work cycle, counted off the shelf-temperature drop rather than the fire itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 5–8 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is burning without fuel and consuming nothing, the worker's reserves included. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 5–8 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is burning without fuel and consuming nothing, the worker's reserves included. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on an approach that intends to possess, destroy or enumerate the collection |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The heat in the visitor's own written notes before the shelves are touched — the first warning is addressed to the person and not the collection — then the bay-by-bay closures, each logged with its second count. |
 | **Handling** | Enter with one written question and leave exactly as the room was found. Nothing is seized, destroyed or enumerated. Curiosity is the whole of the permitted errand, and a team that arrives with a list reads nothing at all. |
 | **Activation threshold** | No breach counter; activates on an approach that intends to possess, destroy or enumerate the collection |
-| **Sorrow Gauge [Pressure]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Sorrow Gauge [Pressure]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan lets the fire light the book that answers the question actually being asked, which is not always the question the observer thought they were asking. Ferrehan is holding position in the stacks and reading what the fire permits. |
 | **Location** | SECTOR-B-02, Zone B |
 | **Resolution Condition** | Approach with curiosity rather than possession or destruction |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

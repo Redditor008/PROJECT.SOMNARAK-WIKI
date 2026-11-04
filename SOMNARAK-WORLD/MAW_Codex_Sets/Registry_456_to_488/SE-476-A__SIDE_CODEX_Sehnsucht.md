@@ -20,7 +20,7 @@ A lead-cold dark tear sinks deeper into Desolate soil whenever reached for. It h
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Weight |
-| Gauge / Pressure | 660/660; starts 45–65% / Weight — no attack pattern; the depth of the uppermost surface is the reading |
+| Gauge / Pressure | 000/660; starts 000% / Weight — no attack pattern; the depth of the uppermost surface is the reading |
 | Observation | 2 |
 | Set | The Buried Grief |
 

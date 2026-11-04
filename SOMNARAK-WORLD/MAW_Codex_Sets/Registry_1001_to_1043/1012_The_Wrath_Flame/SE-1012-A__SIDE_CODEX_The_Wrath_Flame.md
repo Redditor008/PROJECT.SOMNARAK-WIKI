@@ -22,7 +22,7 @@ The Flame formed from the rage of the six factions that fought in the Occlusihan
 | Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Body |
 | Coherence / Potency | Fragment (III) — Fierce and protective / Moderate (β) — Manageable |
 | Element / Location | Grudge / The Desolate, near The Scar |
-| Gauge / Pressure | 435/435; starts 35–50% / 10–23 per hit · Grudge |
+| Gauge / Pressure | 000/435; starts 000% / 10–23 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire. |
 

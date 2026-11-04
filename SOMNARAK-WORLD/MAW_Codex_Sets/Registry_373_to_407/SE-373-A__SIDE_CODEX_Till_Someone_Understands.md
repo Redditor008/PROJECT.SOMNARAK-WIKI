@@ -19,7 +19,7 @@ A salt-cold Desolate well whose blue sorrow-water branches through soil and Han 
 | Type | Place-Lament |
 |---|---|
 | Coherence / Potency | III / γ |
-| Gauge / Pressure | 660/660; starts 45–65% / Lament — no attack pattern; the stake line and the branch count are the reading |
+| Gauge / Pressure | 000/660; starts 000% / Lament — no attack pattern; the stake line and the branch count are the reading |
 | Observation | 2 |
 | Set | The Traveling Grief |
 

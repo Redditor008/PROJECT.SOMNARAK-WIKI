@@ -21,7 +21,7 @@ A four-way Mantle Commons junction became a Void line after hope-touched and unt
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element / Location | Void / Zone D, Mantle Commons |
-| Gauge / Pressure | 910/910; starts 55–70% / Void — no attack pattern; the residents’ own account of where the line runs is the instrument |
+| Gauge / Pressure | 000/910; starts 000% / Void — no attack pattern; the residents’ own account of where the line runs is the instrument |
 | Movement / Resistance | Fixed / 40% Void, 30% other |
 | Valid Work | Viderehan and Ferrehan only |
 | Resolution | One resident from each side speaks honestly about anything |

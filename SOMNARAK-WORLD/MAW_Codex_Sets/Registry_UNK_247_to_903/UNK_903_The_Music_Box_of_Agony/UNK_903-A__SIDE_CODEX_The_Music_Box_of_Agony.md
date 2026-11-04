@@ -21,7 +21,7 @@ A black-and-white music box with pink lining loops the same comfort song until l
 |---|---|
 | Coherence / Potency | II / γ |
 | Element / Location | Void with Lament surface / Echo Gardens acoustic vault |
-| Gauge / Pressure | 420/420; starts 45–65% · Void — no attack pattern: the case is stationary and its hazard is the lullaby, heard rather than struck (Contact Record, R-36) |
+| Gauge / Pressure | 000/420; starts 000% · Void — no attack pattern: the case is stationary and its hazard is the lullaby, heard rather than struck (Contact Record, R-36) |
 | Trigger | Lid opened or one full recitation heard |
 | Valid Work | Viderehan and Ferrehan only |
 | Resolution | Endure one recitation and speak the listener’s own name at its close |

@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Weight |
 | Form | An ancient figure fused with stone slabs, worn calendars, and erased city records; every step adds another year. |
-| Gauge / Pressure | 60–80% / Weight 25–54 |
+| Gauge / Pressure | 000% / Weight 25–54 |
 | Observation | 3 — Advanced |
 | M.A.W. Set | The Unabridged Years |
 

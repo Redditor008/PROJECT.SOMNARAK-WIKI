@@ -22,7 +22,7 @@ A Place of Entity (IV) coherence at Critical (δ) potency, Void-aligned and held
 | Type / Manifestation | Place — Can breach via Transform / Place-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / SECTOR-C-909, contained |
-| Gauge / Pressure | 750/750; starts 35–50% / 30–36 per hit · Void |
+| Gauge / Pressure | 000/750; starts 000% / 30–36 per hit · Void |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

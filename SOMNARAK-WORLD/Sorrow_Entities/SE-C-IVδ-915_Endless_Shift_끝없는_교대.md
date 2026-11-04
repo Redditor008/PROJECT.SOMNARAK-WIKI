@@ -27,10 +27,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Time |
 | **Primary pressure** | Weight / Weight pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle of elapsed time, which is not the figure the crew would give you. Measured against hours worked as the crew experienced them, the yield is between 2 and 4, and the energy office has never agreed to record it that way. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Work Damage** | 5–8 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a rotation relieved by the worker themselves. It resets to 20 s the moment the operator is out of the interval. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 5–8 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a rotation relieved by the worker themselves. It resets to 20 s the moment the operator is out of the interval — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The sealed timepiece, and nothing else that can be trusted. The first sign is that a worker stops looking at the clock — in 611 shifts, on every worker, without exception — and after that the only reading that survives is the pair of timepieces read aloud at the door. |
 | **Handling** | Timepieces sealed at the door by the relief warden, who also writes the hour. Relief taken in person at the door with both timepieces read aloud. No unsealed clock carried in and none on the sector's walls. A worker who states their elapsed time aloud has made it worse for everybody in earshot. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Load]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both shorten the subjective span without altering the elapsed duration. Viderehan makes the weight legible as a reading rather than as a feeling. Ferrehan is sitting the hour out at the marked distance without letting the crew's own account of it become the record. |
 | **Location** | SECTOR-C-915, contained |
 | **Resolution Condition** | The rostered hour elapses and the crew leaves. 611 shifts; the elapsed hour has never varied by a second and the subjective span has run from four hours to just under nine. |
 
-**Charge.** Inside the interval, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** Inside the interval, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

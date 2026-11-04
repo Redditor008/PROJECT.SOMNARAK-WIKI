@@ -22,7 +22,7 @@ The Stormscale Sovereign is the form the Soot Fry became when it consumed the Fo
 | Type / Manifestation | Subject — Non-breaching: transformation in place; transformation-apex / Subject-Spirit |
 | Coherence / Potency | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself / Critical (δ) |
 | Element / Location | Mixed / Latent — manifests only upon the reunion of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948); currently Unmanifested / Forbidden |
-| Gauge / Pressure | 1000/1000; starts 60–80% / 50–68 per cycle · Mixed |
+| Gauge / Pressure | 000/1000; starts 000% / 50–68 per cycle · Mixed |
 | Observation | 4 — Mastered (from a single historical transformation; never re-triggered) |
 | Formation event | The little fish, having eaten the dragon-stone, caused a rain that would not stop for a hundred years. Drowning in the guilt of it, the fish wished — not to fly, not to soar, but for the rain to end, for the sake of everyone drowning. A beam of light answered. The fish became the Sovereign — soot and foam, sky and river, vast and majestic — rose into the raining sky, and called the hundred-year rain back into the clouds. And then, because it was imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained. |
 

@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Lament |
 | Form | A jagged blue memorial crystal rising from the vault floor, wet with warm liquid memories that travel upward against gravity. |
-| Gauge / Pressure | 60–80% / Lament 30–66 |
+| Gauge / Pressure | 000% / Lament 30–66 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Opened Seal |
 

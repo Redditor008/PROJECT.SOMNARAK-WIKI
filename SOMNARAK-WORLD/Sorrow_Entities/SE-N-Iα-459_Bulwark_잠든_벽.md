@@ -27,10 +27,10 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the caliper line rather than the lot |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a recession held for the day it is kept, and no longer. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–2 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a recession held for the day it is kept, and no longer. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -54,13 +54,13 @@
 | **Perceptible to** | The hum first, then the settling: the wall drops a fraction in its sleep and the floor cracks where it settles. The sleep-twitch cracks mortar along four feet of the face, once, and nothing follows it. |
 | **Handling** | Presence offered and entry not forced: the full hour sat beside it, nothing asked and nothing knocked, with the gauge taken below twenty-five per cent before anybody approaches the face. |
 | **Activation threshold** | No breach counter. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
-| **Sorrow Gauge [Saturation]** | **240/240** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Sorrow Gauge [Saturation]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what was available and not asked for — the fund, the rotation, the open door, the one-page form — and has never shown a refusal in thirty years. Ferrehan is the full hour sat beside it without knocking. |
 | **Location** | Zone D, Forge District — the empty lot behind the fourth barrack |
 | **Resolution Condition** | Presence offered and entry not forced: the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25% |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

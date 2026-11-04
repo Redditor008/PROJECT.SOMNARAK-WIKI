@@ -17,7 +17,7 @@ A crimson crystal tear in the Alpha Tree vault holds grief dismissed before expr
 |---|---|
 | Coherence / Potency | I / α |
 | Element / Location | Grudge / Zone A, Alpha Tree vault |
-| Gauge / Pressure | 240/240; starts 25–40% / Grudge — no attack pattern; the mass on the scale is the reading |
+| Gauge / Pressure | 000/240; starts 000% / Grudge — no attack pattern; the mass on the scale is the reading |
 | Set | Grievance With Origin |
 
 Only Viderehan and Ferrehan are valid. Viderehan reveals grievance; Ferrehan holds it without claiming it. **Resolution:** acknowledge the dismissed death, attribute anger, place Tear down consciously, and lower Gauge below 25%.

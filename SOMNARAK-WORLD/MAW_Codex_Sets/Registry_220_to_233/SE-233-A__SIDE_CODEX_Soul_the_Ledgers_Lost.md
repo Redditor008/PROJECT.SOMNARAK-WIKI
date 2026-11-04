@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Lament |
 | Form | A warm, salt-damp translucent figure that weeps while walking; its face changes whenever anyone tries to remember it. |
-| Gauge / Pressure | 45–65% / Lament 18–41 |
+| Gauge / Pressure | 000% / Lament 18–41 |
 | Movement | 1.95 m/s along the Old Lament route |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Unclaimed Walk |

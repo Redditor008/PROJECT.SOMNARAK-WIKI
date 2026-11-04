@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Time |
 | **Primary pressure** | Void / Dream pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–5 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is sunrise arriving and the district still unable to wake. It resets to 20 s the moment the operator is out of the interval. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–5 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is sunrise arriving and the district still unable to wake. It resets to 20 s the moment the operator is out of the interval — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The shutters — the first one opening and the last one opening, timed from the perimeter post — and, from the sleepers themselves, an account that arrives consistently and is not confusion and not dreaming: a morning attended from the wrong side of the eyelids. |
 | **Handling** | The post is held without entering, the first shutter and the last are timed, and the pair goes into the series. Neither Work Type has ever produced an early waking, and the rotation exists because of the standing, not the sleepers. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Saturation]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Saturation]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, both performed from the perimeter. Viderehan is the watch itself and makes the dream pressure legible under sustained observation. Ferrehan is holding the post for the length of an episode without sending anybody in. |
 | **Location** | SECTOR-N-917, contained |
 | **Resolution Condition** | The district opens its eyes. Mean elapsed time from sunrise, seventy-one minutes; range forty to a hundred and ten; twenty-nine episodes and no exceptions. Nothing has ever shortened one and the file lists what has been tried. |
 
-**Charge.** Inside the interval, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** Inside the interval, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

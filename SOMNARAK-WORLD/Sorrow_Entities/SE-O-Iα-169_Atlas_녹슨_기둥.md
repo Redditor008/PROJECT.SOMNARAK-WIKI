@@ -27,10 +27,10 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per successful work cycle, read off the flake tray at handover and never off the pillar |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a corrosion rate slowed measurably and nothing else. It resets to 10 s the moment the wearer is out of it. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–2 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a corrosion rate slowed measurably and nothing else. It resets to 10 s the moment the wearer is out of it — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 45 per cent — a low threshold on a minor holding. No counter is filed and none is implied. |
 | **Tool / M.A.W. grade** | α · α |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -57,7 +57,7 @@
 | **Who it takes** | The one on station, and it takes the conscientious first. The state presents as competence: the worker explains pleasantly that it is easier to stay than to brief a replacement, and the gauge climbs through every word of that explanation. |
 | **Activation threshold** | Sorrow Gauge ≥ 45 per cent — a low threshold on a minor holding. No counter is filed and none is implied. |
 | **Sorrow Gauge [HP]** | 198/198 |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, worked in pairs on a timed rota. The rota is part of the method rather than an arrangement around it. |
 | **Location** | Zone D, Forge District |
 | **Resolution Condition** | Rotate labor and acknowledge shared responsibility |

@@ -28,10 +28,10 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is an object cast wrong that functions correctly, which is the finding. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is an object cast wrong that functions correctly, which is the finding. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on arranging the fragments in their former order |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The gap first — eleven millimetres at baseline, and it is the instrument rather than an absence — then the drift against the edge of the mount volume, and the weight of a purpose the pieces no longer have. |
 | **Handling** | Read optically twice a session, between the two largest fragments at their closest approach. Nothing is passed into the mount volume and nothing is helped together. A gap that widens by eight millimetres or more opens a documents search rather than a field response. |
 | **Activation threshold** | No breach counter; activates on arranging the fragments in their former order |
-| **Sorrow Gauge [Pressure]** | **240/240** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Sorrow Gauge [Pressure]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals what the artifact was for, in detail, including the specification language it was ordered against, and holds the gauge. Ferrehan watches the pieces approach and stop short, repeatedly, and lowers it. |
 | **Location** | Zone D, Forge District |
 | **Resolution Condition** | Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board, and the gauge below 25% — on Miscast the second follows the first and has never arrived without it. |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

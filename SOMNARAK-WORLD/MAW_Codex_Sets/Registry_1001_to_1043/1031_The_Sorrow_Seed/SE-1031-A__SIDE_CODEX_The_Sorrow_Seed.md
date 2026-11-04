@@ -22,7 +22,7 @@ The Seed formed from concentrated grief waiting for a form. Potential sorrow—t
 | Type / Manifestation | Subject — Non-breaching: manifestation in place / Object-Weight |
 | Coherence / Potency | Residue (I) — Barely formed, dormant / Minor (α) |
 | Element / Location | Weight / Zone D, Echo Gardens |
-| Gauge / Pressure | 174/174; starts 25–40% / 2–7 per hit · Weight |
+| Gauge / Pressure | 000/174; starts 000% / 2–7 per hit · Weight |
 | Observation | 1 — Initial |
 | Formation event | A grief fragment crystallized in the Echo Gardens and entered dormancy. |
 
@@ -52,4 +52,4 @@ During *The Sorrow Seed Source-Trace*, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Sorrow Seed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon discharges only the immediate manifestation that violates this rule: measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment. The gauge opens at 25–40% of its 174/174 meter, and 2–7 per landed Weight hit. The set cannot heal the originating event. Misuse routes The Sorrow Seed's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Sorrow Seed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon discharges only the immediate manifestation that violates this rule: measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment. The gauge opens at 000% of its 000/174 meter, and 2–7 per landed Weight hit. The set cannot heal the originating event. Misuse routes The Sorrow Seed's wound through the operator and triggers the recorded escalation.

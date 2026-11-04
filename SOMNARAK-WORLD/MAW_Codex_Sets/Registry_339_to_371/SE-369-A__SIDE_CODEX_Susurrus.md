@@ -20,7 +20,7 @@ Susurrus is a fractured salt-cold crystal floating in Zone B tunnels, shedding h
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Lament |
-| Gauge / Pressure | 45–65% / 18–41 |
+| Gauge / Pressure | 000% / 18–41 |
 | Observation | 2 |
 | Set | The Partial Message |
 

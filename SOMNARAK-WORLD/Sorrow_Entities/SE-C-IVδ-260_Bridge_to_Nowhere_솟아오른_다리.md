@@ -27,10 +27,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is carrying load to two ends that terminate in open ground. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is carrying load to two ends that terminate in open ground. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on collective remembrance of an erased route |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The route underfoot — road, weather, departing people — resolving around whoever stands on the deck, and the length behind them on the way back, which gets shorter by fractions rather than by steps. |
 | **Handling** | Mark the crossing as memory and let the Bridge settle: every crossing is named aloud as a crossing and not as a journey, and the span is measured out and back on every watch. The route is never walked as though it led anywhere. |
 | **Activation threshold** | No breach counter; activates on collective remembrance of an erased route |
-| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the bridge's former route and the people who used it. Ferrehan is standing the span without treating the far end as a destination, which is the only approach that lowers the carry. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Mark the crossing as memory and allow the Bridge to settle |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

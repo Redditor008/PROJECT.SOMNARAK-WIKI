@@ -22,7 +22,7 @@ A fist-sized crimson crystal hangs near the Scar, torn open like a mouth and rad
 | Coherence / Potency | II / β |
 | Element | Grudge |
 | Location | The Desolate, near the Scar |
-| Gauge / Pressure | 420/420; starts 35–50% / Grudge — no attack pattern; the floating height and the torn opening's orientation are the reading |
+| Gauge / Pressure | 000/420; starts 000% / Grudge — no attack pattern; the floating height and the torn opening's orientation are the reading |
 | Movement / Resistance | Fixed / 25% Grudge, 15% other |
 | Activation threshold | Gauge ≥60%; touch or nearby vocal aggression |
 | Observation | 2 — Basic |

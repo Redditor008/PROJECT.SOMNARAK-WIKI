@@ -27,10 +27,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Time |
 | **Primary pressure** | Weight / Spirit pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, the cycle being the hour, transcribed. The yield does not vary with how much is said, which has run from eleven lines to over four hundred. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is Threshold 3 identifying a recurring hour rather than a demonstrated breach. It resets to 20 s the moment the operator is out of the interval. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is Threshold 3 identifying a recurring hour rather than a demonstrated breach. It resets to 20 s the moment the operator is out of the interval — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
@@ -55,7 +55,7 @@
 | **Perceptible to** | The room first, sounding like a room with more people in it. Then the pressure, reported as fatigue in the legs and a reluctance to speak, which lasts until the hour closes |
 | **Activation threshold** | 3 cycles — and the threshold identifies the recurring-hour record rather than a physical switch. The hour arrives and cannot be moved, shortened or skipped |
 | **Sorrow Gauge [HP]** | 495/495 — the containment meter, read at the station |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-N-919, contained |
 | **Resolution Condition** | Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled |

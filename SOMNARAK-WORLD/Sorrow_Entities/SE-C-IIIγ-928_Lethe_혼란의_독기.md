@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Hazard |
 | **Primary pressure** | Void / Mind pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, drawn at whichever level the miasma has reached that week. The yield does not vary with the level, which the station has checked at every one of the nine it has occupied. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–5 Void / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is air in the Zone C sublevels, bounded below and worked from outside. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–5 Void / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is air in the Zone C sublevels, bounded below and worked from outside. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -70,7 +70,7 @@
 | **Threat Role** | Major cognitive exposure; the external reader, not the affected operator, judges withdrawal |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-928 |

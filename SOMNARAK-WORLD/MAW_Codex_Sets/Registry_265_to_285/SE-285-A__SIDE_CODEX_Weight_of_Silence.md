@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / α — Minor |
 | Element | Weight |
 | Form | An invisible pressure visible as a dark outline bleeding from people who have stopped speaking about a shared event. |
-| Gauge / Pressure | 25–40% / Weight 3–10 |
+| Gauge / Pressure | 000% / Weight 3–10 |
 | Movement | Drifts at approximately 1.30 m/s through affected groups |
 | Observation | 1 — Initial |
 | M.A.W. Set | The Unforced Word |

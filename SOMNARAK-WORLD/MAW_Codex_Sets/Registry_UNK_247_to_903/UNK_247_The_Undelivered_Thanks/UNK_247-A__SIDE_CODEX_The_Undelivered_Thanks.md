@@ -23,7 +23,7 @@ A translucent commoner remains perpetually mid-bow along the old Dawn routes, ca
 | Coherence / Potency | III / β |
 | Element | Weight |
 | Location | Old Dawn routes; Lantern dock and Echo Gardens, Zone D |
-| Gauge / Pressure | 435/435; starts 40–55% / 10–23 Weight |
+| Gauge / Pressure | 000/435; starts 000% / 10–23 Weight |
 | Movement / Resistance | 0.9 m/s / 30% Weight, 10% other |
 | Observation | 2 — Basic |
 

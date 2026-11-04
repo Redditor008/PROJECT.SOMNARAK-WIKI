@@ -27,10 +27,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Hazard |
 | **Primary pressure** | Lament / Lament pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Work Damage** | 4–8 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a volume identified only by the grief of whoever is standing in it. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 4–8 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a volume identified only by the grief of whoever is standing in it. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -57,12 +57,12 @@
 | **Speed** | Corridor bank recorded at roughly walking pace; no fixed bodily combatant |
 | **Resistance** | 30% against Lament pressure; 21% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
+| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 30–40 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
-**Charge.** In the shared air, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In the shared air, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 
 
@@ -74,7 +74,7 @@
 | **Threat Role** | Critical corridor exposure and false-attribution hazard |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-922 |

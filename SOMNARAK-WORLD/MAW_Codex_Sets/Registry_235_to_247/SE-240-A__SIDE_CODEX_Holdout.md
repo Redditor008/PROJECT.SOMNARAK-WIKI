@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Grudge |
 | Form | Broken gray walls, dead timber, and bone-flecked mortar that resolve only when someone remembers the destroyed tenement. |
-| Gauge / Pressure | 240/240; starts 35–50% / Grudge — no attack pattern; the footprint against the old survey is the reading |
+| Gauge / Pressure | 000/240; starts 000% / Grudge — no attack pattern; the footprint against the old survey is the reading |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Rooms Remembered |
 

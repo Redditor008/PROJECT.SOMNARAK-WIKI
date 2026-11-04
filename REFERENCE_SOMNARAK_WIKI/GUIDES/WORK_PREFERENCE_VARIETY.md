@@ -52,7 +52,7 @@ That is the owner's reading exactly — *"won't lower the threshold and won't gi
 | **9–10** | ALEPH | **Negative-Low** | the attempt is not an attempt |
 | **cut** | | | **below 6 → Net-Neutral · 6 and above → Negative-Low** |
 
-**Batch 157 read this off the `Sorrow Gauge [HP]` maximum instead** (under 500 → `0%`, 500+ → `-100%`), and the owner corrected the source: *"I Used It From Our Conversion Guide you know the 2–10 things."* The two readings agreed on **144 of 149** dossiers, because HE is also the first band whose gauge begins at 500. The five they disagreed on were re-read in batch 159 and the gauge was the wrong one each time — `N-Iα-905` Lacrima is `I + α = 2` (ZAYIN, 150–300 HP) and files 502.
+**Batch 157 read this off the `Sorrow Gauge [HP]` maximum instead** — a label retired in batch 197 (`R-48`); the reading it produced is unchanged, because the tier wall now stands where the HP ceiling stood** (under 500 → `0%`, 500+ → `-100%`), and the owner corrected the source: *"I Used It From Our Conversion Guide you know the 2–10 things."* The two readings agreed on **144 of 149** dossiers, because HE is also the first band whose gauge begins at 500. The five they disagreed on were re-read in batch 159 and the gauge was the wrong one each time — `N-Iα-905` Lacrima is `I + α = 2` (ZAYIN, 150–300 HP) and files 502.
 
 **Where the dossiers sit on the scale today:** 2 → 44 · 3 → 6 · 4 → 64 · 5 → 19 · 6 → 73 · 7 → 15 · 8 → 70 · 9 → 7 · 10 → 3. **133 graded dossiers read Net-Neutral, 168 read Negative-Low.** The two cells are always equal because they come from one sum, and the file prints the sum beside the vector so a reader can check the arithmetic.
 

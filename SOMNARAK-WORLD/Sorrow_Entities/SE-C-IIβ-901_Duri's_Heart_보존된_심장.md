@@ -28,10 +28,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object |
 | **Primary pressure** | Weight / Body pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, measured by four hundred specimen beats. At the documented baseline of one beat every three seconds, that count takes twenty minutes, not a little over six. The external caller records the actual count; the handler's sense of elapsed time is not the instrument. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is an organ preserved and beating, with no account of the preservation. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is an organ preserved and beating, with no account of the preservation. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The beat first, at a rate that has not varied. Then the warmth of the amber, and the handler's own pulse arriving at the specimen's rate rather than their own. Neither the handler nor the party can feel it happen. |
 | **Handling** | Pulse taken at the door going in and coming out, the beats called aloud by an external caller from outside the glass, and the glass never opened. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Load]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Load]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both lower the gauge. Viderehan reads the darkening series against the beat and returns a record rather than a behaviour. Ferrehan is the sitting, and the weight settles around a party that takes the full cycle at the marked distance without shortening it. |
 | **Location** | SECTOR-C-901, contained |
 | **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. Forty-eight years of the beat record; the pulse has matched in all but 41 readings, and the misses are the file. |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

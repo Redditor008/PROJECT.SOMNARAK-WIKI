@@ -18,7 +18,7 @@
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Broken Clock's kind of pressure.  
 **Binding rule:** the bearer names The Broken Clock's event — “The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event.  
-**Gauge:** 739/739; opens at 45–65%; no hit band is filed.
+**Gauge:** 000/739; opens at 000%; no hit band is filed.
 
 ## Appearance
 
@@ -48,7 +48,7 @@ The first bearer of The Pendulum-Weighted Greatcoat encountered this source resp
 - Escalation: the standing reaches the walk between posts, and the wearer stops between rooms for no reason they can give.
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event.” reverses the item’s benefit and raises the source Gauge — a 739/739 meter that opens at 45–65%.
+**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event.” reverses the item’s benefit and raises the source Gauge — a 000/739 meter that opens at 45–65%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Pendulum-Weighted Greatcoat only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Pendulum-Weighted Greatcoat; shutdown preserves the record but does not refund its cost.
 

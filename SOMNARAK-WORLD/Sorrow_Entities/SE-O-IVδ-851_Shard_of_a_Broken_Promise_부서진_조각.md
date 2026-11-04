@@ -28,10 +28,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 per cycle, the highest in the Alpha Tree vault, against the shortest cycle in it: a declaration, a reading, and a pitch measurement, rarely more than twenty minutes. The vault has never been comfortable with the ratio and has said so in four annual returns. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 4–7 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a stationary shard extending its judgment while no breach counter applies. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 4–7 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a stationary shard extending its judgment while no breach counter applies. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; the judged area travels and the crystal does not |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The pitch first, resting at 112 hertz since the one attempt against the break face took it there from 72. The rise begins before the worker is through the door, and it is read before the declaration is taken. |
 | **Handling** | Nothing is attempted against the break face, which has happened once and taken the pitch permanently. Nothing is dampened mechanically, which has made it permanent three times. The break is calipered without being touched, and the worker is asked nothing about what the hum has already named. |
 | **Activation threshold** | No breach counter; the judged area travels and the crystal does not |
-| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the promise and the moment it failed and holds the gauge. Ferrehan tests whether a worker can remain without repairing it, and is the row that lowers it. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything. 408 cycles, 391 clean closes; the seventeen that were not all involve a sentence somebody wishes they had not said. |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

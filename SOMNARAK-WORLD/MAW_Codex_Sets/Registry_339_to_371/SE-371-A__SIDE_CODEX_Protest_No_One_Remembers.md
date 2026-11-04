@@ -20,7 +20,7 @@ A voice-shaped absence drifts through Mantle Commons and removes sound in a wide
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Void |
-| Gauge / Pressure | 45–65% / 18–41 |
+| Gauge / Pressure | 000% / 18–41 |
 | Observation | 2 |
 | Set | The Recorded Absence |
 

@@ -22,7 +22,7 @@ The object formed from a promise that was used as a weapon. Betrayal—the grief
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Grudge |
 | Coherence / Potency | Fragment (III) — Bitter and betrayed / Major (γ) |
 | Element / Location | Grudge / SECTOR-C-01, Collector's Row |
-| Gauge / Pressure | 693/693; starts 45–65% / 14–32 per hit · Grudge |
+| Gauge / Pressure | 000/693; starts 000% / 14–32 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A Collector promised debt relief, then used the promise to secure another obligation. |
 
@@ -52,4 +52,4 @@ During *The Facsimile Source-Trace*, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Facsimile's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon opens only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The gauge opens at 45–65% of its 693/693 meter, and 14–32 per landed Grudge hit. The set cannot heal the originating event. Misuse routes Facsimile's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Facsimile's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon opens only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The gauge opens at 000% of its 000/693 meter, and 14–32 per landed Grudge hit. The set cannot heal the originating event. Misuse routes Facsimile's wound through the operator and triggers the recorded escalation.

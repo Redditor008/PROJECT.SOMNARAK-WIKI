@@ -22,7 +22,7 @@ The Fragment formed from a monument broken by accumulated obligation. The burden
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / Zone E, Border region |
-| Gauge / Pressure | 910/910; starts 60–80% / Weight — no attack pattern; the three-dimensional position and station drift are the reading |
+| Gauge / Pressure | 000/910; starts 000% / Weight — no attack pattern; the three-dimensional position and station drift are the reading |
 | Observation | 2 — Basic |
 | Formation event | A border monument commemorating generations of debt was shattered during an uprising; one fragment remained. |
 
@@ -52,4 +52,4 @@ During *The Weight of All Owed Source-Trace*, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Weight of All Owed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The gauge opens at 60–80% of its 910/910 meter, and no attack pattern is filed for this Weight manifestation. The set cannot heal the originating event. Misuse routes Weight of All Owed's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Weight of All Owed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The gauge opens at 000% of its 000/910 meter, and no attack pattern is filed for this Weight manifestation. The set cannot heal the originating event. Misuse routes Weight of All Owed's wound through the operator and triggers the recorded escalation.

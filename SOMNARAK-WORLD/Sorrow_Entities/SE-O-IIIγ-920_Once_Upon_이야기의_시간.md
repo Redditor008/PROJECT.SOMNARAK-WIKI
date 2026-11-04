@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Time |
 | **Primary pressure** | Lament / Tale pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, a cycle here being one hour sat out in full at the perimeter. The yield does not change with the number of stories that manifest, which has run between four and thirty-one. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–4 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is naming the tellers — ninety-four hours in six years, and the gauge lowered only. It resets to 20 s the moment the operator is out of the interval. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–4 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is naming the tellers — ninety-four hours in six years, and the gauge lowered only. It resets to 20 s the moment the operator is out of the interval — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -54,13 +54,13 @@
 | **Perceptible to** | A voice in an empty room beginning *once upon a time* and not stopping there. Then the street filling with everyone the district forgot, and a character using a worker's name as though it had always been in the story. |
 | **Handling** | Sit the hour out at the perimeter and write down what is told, checking the list against the register at the close. Any new story is entered with the date and whoever recognised it, and the nine entries with no recogniser are kept and marked as such. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Both are run from the perimeter: observation makes the tale pressure legible, and endurance is sitting the hour in full. The figure that actually moves the gauge is how many tellers are named aloud during the hour. |
 | **Location** | SECTOR-O-920, contained |
 | **Resolution Condition** | The hour ends, the list is checked against the register, and any new story is entered with the date and whoever recognised it. Nine entries have no recogniser and are marked so. |
 
-**Charge.** Inside the interval, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** Inside the interval, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

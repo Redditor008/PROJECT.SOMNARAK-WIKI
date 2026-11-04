@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Resolve |
-| **Starting Sorrow Gauge** | 30–50% (fluctuates with wilderness Han density) |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | Extreme — but unharvestable (raw, unstructured) |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Active border threat |
-| **Work Damage** | 4–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a border phenomenon rather than a contained holding: a SECTOR cannot hold it and the survey is the containment. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 4–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a border phenomenon rather than a contained holding: a SECTOR cannot hold it and the survey is the containment. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Wilderness Han surges past the Desolate's outer edge |
 | **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan barred — Negative-Low) |
 | **Tool / M.A.W. grade** | N/A — Place-manifestation, Sovereign-grade; no M.A.W. extraction possible |
@@ -58,7 +58,7 @@
 | **Activation threshold** | Wilderness Han surge detected at outer watchtowers |
 | **Sorrow Gauge [HP]** | 900/900 |
 | **Han Pressure [ATK]** | 30–65 per hit · Weight |
-| **Starting Sorrow Gauge** | 30–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy Yield** | 24–32 per successful containment cycle |
 
 ### Damage Resistances

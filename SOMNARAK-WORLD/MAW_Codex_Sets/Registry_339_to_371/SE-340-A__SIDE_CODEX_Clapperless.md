@@ -19,7 +19,7 @@ Clapperless is an ash-cold pale bell, identical in form to the Orphaned Bell but
 | Type | Object-Void I-Relic |
 |---|---|
 | Coherence / Potency | II / β |
-| Gauge / Pressure | 240/240; starts 35–50% / Void — no attack pattern; the fork walk and the width of the quiet are the reading |
+| Gauge / Pressure | 000/240; starts 000% / Void — no attack pattern; the fork walk and the width of the quiet are the reading |
 | Observation | 2 — Basic |
 | Set | The Heard Warning |
 

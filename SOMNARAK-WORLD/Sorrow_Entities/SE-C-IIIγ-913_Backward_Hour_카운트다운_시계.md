@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Time |
 | **Primary pressure** | Grudge / Grudge pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per occurrence, and the occurrences are not scheduled. The bay is dispatched when a clock in the sector begins running backward, which it has done 211 times in nine years. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–5 Grudge / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is twelve hours run backwards across every timepiece in the district. It resets to 20 s the moment the operator is out of the interval. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–5 Grudge / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is twelve hours run backwards across every timepiece in the district. It resets to 20 s the moment the operator is out of the interval — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The second hand going the wrong way and the room agreeing with it. Then the count, voiced aloud by somebody who was not asked and cannot stop until it reaches zero. At zero, a permission that somebody holds lapses. |
 | **Handling** | Read the fixed points, deploy by rate, stand down at the end, and reconcile the warrant book afterwards. Nothing shortens an occurrence and nothing is suppressed; the rates fall again at the twelfth hour. |
 | **Activation threshold** | 3 conditions |
-| **Sorrow Gauge [Pressure]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Pressure]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time. Viderehan reads the rate across the fixed-point network. Ferrehan is working the full twelve hours inside a street that is turning on itself, which is the only approach that lowers the carry. |
 | **Location** | SECTOR-C-913, contained |
 | **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. Nothing shortens an occurrence. Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book. |
 
-**Charge.** Inside the interval, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** Inside the interval, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

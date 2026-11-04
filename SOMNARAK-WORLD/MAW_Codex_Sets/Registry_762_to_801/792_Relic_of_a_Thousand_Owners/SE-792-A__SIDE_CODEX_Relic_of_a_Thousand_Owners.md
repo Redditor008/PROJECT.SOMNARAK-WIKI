@@ -22,7 +22,7 @@ The Relic formed from an object carried through many exiles. The grief of surviv
 | Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Phantasmal |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone E, Exile's Gate vicinity |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 000/910; starts 000% / 29–64 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A relic passed from one exile to another until its history became a wandering figure. |
 

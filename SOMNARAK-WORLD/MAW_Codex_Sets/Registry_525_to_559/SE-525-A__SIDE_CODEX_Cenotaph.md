@@ -20,7 +20,7 @@ A living bridge-body of stone and dark water shelters people already gone. It fo
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element | Grudge |
-| Gauge / Pressure | 60–80% / 29–64 |
+| Gauge / Pressure | 000% / 29–64 |
 | Observation | 2 |
 | Set | Shared Protection |
 

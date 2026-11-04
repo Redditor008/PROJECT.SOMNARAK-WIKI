@@ -22,7 +22,7 @@ A Fragment (III) Object at Major (γ) potency, Grudge-aligned, held at SECTOR-C-
 | Type / Manifestation | Object — Non-breaching: activation only / Object-Body |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Grudge / SECTOR-C-902, contained |
-| Gauge / Pressure | 660/660; starts 35–50% / 17–26 per hit · Grudge |
+| Gauge / Pressure | 000/660; starts 000% / 17–26 per hit · Grudge |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

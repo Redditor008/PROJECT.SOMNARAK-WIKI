@@ -22,7 +22,7 @@ A Fragment (III) Hazard at Major (γ) potency, Weight-aligned, spirit-manifestin
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Spirit |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Weight / SECTOR-N-929, contained |
-| Gauge / Pressure | 660/660; starts 35–50% · Weight — no attack pattern: the hazard is a fixed pressure that spreads and has never produced a figure or a sound (Contact Record, R-36) |
+| Gauge / Pressure | 000/660; starts 000% · Weight — no attack pattern: the hazard is a fixed pressure that spreads and has never produced a figure or a sound (Contact Record, R-36) |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

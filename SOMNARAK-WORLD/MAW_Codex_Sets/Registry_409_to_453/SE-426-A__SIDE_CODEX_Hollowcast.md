@@ -20,7 +20,7 @@ A person-shaped emptiness split like torn fruit, leaking crimson light. Trauma m
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Grudge |
-| Gauge / Pressure | 35–50% / 9–21 |
+| Gauge / Pressure | 000% / 9–21 |
 | Observation | 2 |
 | Set | The Unfabricated Self |
 

@@ -18,7 +18,7 @@
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Icedrop's lament signature in the strike.  
 **Binding rule:** the bearer names Icedrop's event — “A mourner's first and only tear froze before it could fall.” — and accepts this limit: no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius.  
-**Gauge:** 415/415; opens at 35–50%; 10–23 per landed Lament hit.
+**Gauge:** 000/415; opens at 000%; 10–23 per landed Lament hit.
 
 ### Appearance
 
@@ -46,7 +46,7 @@ The first bearer of The Glacial Tear-Mirror encountered no source response, beca
 - Escalation: the tears move before the blow does, and the wielder’s grief arrives in the target’s account without a strike.
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius.” reverses the item’s benefit and raises the source Gauge — a 415/415 meter that opens at 35–50%.
+**Failure mode:** violating “no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius.” reverses the item’s benefit and raises the source Gauge — a 000/415 meter that opens at 35–50%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Glacial Tear-Mirror only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Glacial Tear-Mirror; shutdown preserves the record but does not refund its cost.
 

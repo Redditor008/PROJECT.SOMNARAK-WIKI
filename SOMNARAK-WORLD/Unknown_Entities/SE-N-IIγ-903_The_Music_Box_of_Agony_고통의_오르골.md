@@ -30,9 +30,9 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Area hazard / Relic source |
 | **Primary pressure** | Clarity (the lullaby dissolves identity and memory) |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 8–12 Han-Energy per successful work cycle (low; the sorrow turns inward) |
-| **Work Damage** | 3–4 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a whole vault eroded for as long as the song runs, with no body to strike. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–4 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a whole vault eroded for as long as the song runs, with no body to strike. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | The lid is opened, or the lullaby is listened to beyond one full recitation |
 | **Tool / M.A.W. grade** | O-Relic · γ |
 | **Vessel-Destructible** | Yes |
@@ -47,13 +47,13 @@
 | **Mode of presence** | A 25 × 15 cm box, black top, white bottom, pink lining, sitting where it was put in the acoustic-isolation vault, with a weeping figurine on a post that turns only while the lid is open |
 | **Perceptible to** | The lullaby by ear at about ten metres, muffled by the vault rather than stopped by it. Ash smell and bloodless cold on approach. The figurine's turning once the lid is up |
 | **Activation threshold** | The lid is opened, or the lullaby is listened to beyond one full recitation |
-| **Sorrow Gauge [Depth]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Sorrow Gauge [Depth]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan (map the song) and Ferrehan (endure it). Objects and Places are not engaged through Flerehan and are not confronted through Pugnahan |
 | **Location** | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |
 | **Resolution Condition** | Close the lid mid-song, or complete a full recitation under Ferrehan and reclaim identity by naming the self |
 
-**Charge.** In the shared air, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In the shared air, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

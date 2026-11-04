@@ -28,10 +28,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per channel, and a channel runs two minutes. The Forge District station notes that this is the shortest paid cycle in the wing and that the paperwork around it takes an hour. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is grief read off a needle that points at thickness rather than direction. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–3 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is grief read off a needle that points at thickness rather than direction. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on hold the compass and name a lost thing |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The swing of the needle first — rate, dwell, and a recurring fourteen-degree hesitation — then the room losing its forward, and the holder unable afterwards to say which way they came in. For about a quarter of an hour, in the recorded cases. |
 | **Handling** | The compass stays on its stand, the case-holder states one lost thing aloud, and a second person reads the bearing aloud and writes it. Nobody holds it who has an open loss of their own, and nothing is followed. |
 | **Activation threshold** | No breach counter; activates on hold the compass and name a lost thing |
-| **Sorrow Gauge [Saturation]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Handling** | No Work Types (`R-40`) — the compass stays on its stand, one lost thing is stated aloud, a second person reads the bearing and writes it. Nobody follows it, and nobody with an open loss of their own holds the case. |
+| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Work preference** | No Work Types (`R-40`) — the compass stays on its stand, one lost thing is stated aloud, a second person reads the bearing and writes it. Nobody follows it, and nobody with an open loss of their own holds the case. |
 | **Location** | SECTOR-D-01, Forge District |
 | **Resolution Condition** | The bearing is logged, the case is closed in the register, and the needle is left where it settles. 188 channels; the needle has settled in 94 and spun for the rest, and the register records which. |
 
-**Charge.** At the offering, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

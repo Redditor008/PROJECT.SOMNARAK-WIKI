@@ -24,7 +24,7 @@
 | Coherence / Potency | I — Residue / α — Minor |
 | Element | Grudge |
 | Form | An upright torn flower-figure with warm flesh-soft petals, a fever-cold split, and weeping edges that smell of char and crushed bloom. |
-| Gauge / Pressure | 25–40% / Grudge 2–7 |
+| Gauge / Pressure | 000% / Grudge 2–7 |
 | Movement | 0.95 m/s when pursuing |
 | Observation | 1 — Initial |
 | M.A.W. Set | The Torn Memorial |

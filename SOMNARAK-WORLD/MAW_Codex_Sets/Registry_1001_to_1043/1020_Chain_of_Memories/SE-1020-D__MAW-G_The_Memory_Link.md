@@ -18,7 +18,7 @@
 **Grade / Element:** β / Weight  
 **Canonical ability:** Allows two people to share one memory safely.  
 **Binding rule:** the bearer names Chain of Memories's event — “Families traded memories to preserve history after records were destroyed; the memories crystallized into links.” — and accepts this limit: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.  
-**Gauge:** 484/484; opens at 35–50%; no attack pattern is filed for this Weight manifestation — the link count is the reading, and the only figure that has ever predicted the hour.
+**Gauge:** 000/484; opens at 000%; no attack pattern is filed for this Weight manifestation — the link count is the reading, and the only figure that has ever predicted the hour.
 ### Appearance
 
 A single detached link, faceless, warm, and lighter than its size suggests — the only piece of the Chain that has ever been removed without the count falling.
@@ -41,7 +41,7 @@ The first bearer of The Memory Link encountered this source response: Displays t
 - Escalation: the link runs before the handing over, and the bearer is administered somebody else’s version of a week they lived.
 - Terminal state: Chain of Memories's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.” reverses the item’s benefit and raises the source Gauge — a 484/484 meter that opens at 35–50%.
+**Failure mode:** violating “two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.” reverses the item’s benefit and raises the source Gauge — a 000/484 meter that opens at 35–50%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Memory Link only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Memory Link; shutdown preserves the record but does not refund its cost.
 

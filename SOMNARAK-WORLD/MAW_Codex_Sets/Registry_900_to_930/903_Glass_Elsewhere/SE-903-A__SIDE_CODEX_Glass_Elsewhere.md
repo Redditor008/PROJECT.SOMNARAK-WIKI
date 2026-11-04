@@ -22,7 +22,7 @@ An Echo (II) Object at Moderate (β) potency, Void-aligned and phantasmal in man
 | Type / Manifestation | Object — Can breach via Transform / Object-Phantasmal |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Void / SECTOR-N-903, contained |
-| Gauge / Pressure | 420/420; starts 35–50% / Void — no attack pattern; the category of the place and the ninety-second clock are the reading |
+| Gauge / Pressure | 000/420; starts 000% / Void — no attack pattern; the category of the place and the ninety-second clock are the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

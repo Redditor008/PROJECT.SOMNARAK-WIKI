@@ -18,7 +18,7 @@
 **Grade / Element:** α / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Honest Reflection's kind of pressure.  
 **Binding rule:** the bearer names Honest Reflection's event — “Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.” — and accepts this limit: viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time.  
-**Gauge:** 226/226; opens at 25–40%; 3–10 per landed Void hit.
+**Gauge:** 000/226; opens at 000%; 3–10 per landed Void hit.
 
 
 ### Appearance
@@ -47,7 +47,7 @@ The first bearer of The Reflection Veil encountered this source response: Shows 
 - Escalation: the one-remove viewing reaches their own decisions, and the wearer chooses at a distance from the choosing.
 - Terminal state: Honest Reflection's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time.” reverses the item’s benefit and raises the source Gauge — a 226/226 meter that opens at 25–40%.
+**Failure mode:** violating “viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time.” reverses the item’s benefit and raises the source Gauge — a 000/226 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Reflection Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Reflection Veil; shutdown preserves the record but does not refund its cost.
 

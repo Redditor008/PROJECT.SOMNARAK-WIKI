@@ -20,7 +20,7 @@ A sleeping human relief lies within a silent wall across an empty Forge lot. It 
 |---|---|
 | Coherence / Potency | I / α |
 | Element | Void |
-| Gauge / Pressure | 660/660; starts 25–40% / Void — no attack pattern; the crack widths against the last survey are the instrument |
+| Gauge / Pressure | 000/660; starts 000% / Void — no attack pattern; the crack widths against the last survey are the instrument |
 | Observation | 1 |
 | Set | Presence Outside the Wall |
 

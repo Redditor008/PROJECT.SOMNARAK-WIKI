@@ -28,10 +28,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / cold exposure pressure |
-| **Starting Sorrow Gauge** | 50–70% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken from the cradle's own warmth readings |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 4–7 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is immediate pressure reduced and nothing transformed or destroyed. It resets to 20 s the moment the reading is set down. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 4–7 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is immediate pressure reduced and nothing transformed or destroyed. It resets to 20 s the moment the reading is set down — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Single-use impact trigger — shattered upon thrown detonation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · δ (Critical) |
 | **Vessel-Destructible** | Yes — shatters completely upon deployment |
@@ -58,12 +58,12 @@
 | **Speed** | N/A — stationary artifact |
 | **Resistance** | 45% against Lament pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
+| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 30–57 per hit · Lament |
 | **Coherence modifier** | IV — unified choral soul lattice |
 | **Potency modifier** | δ — critical stasis shockwave |
 
-**Charge.** In the reading, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In the reading, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity.
 
@@ -73,7 +73,7 @@
 | **Threat Role** | Emergency Stasis Consumable / Realization Halter |
 | **Coherence** | Entity (IV) — Collective frozen farewell |
 | **Primary Pressure** | Mental / cold exposure pressure |
-| **Starting Sorrow Gauge** | 50–70% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-09, Frozen Depths Cache |

@@ -28,10 +28,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Clarity — distinguishing a released memory and one's own grief from the volume being measured |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 Han-Energy per successful cycle, drawn from the margin rather than the vessel: the reading is what is worked, and the shard's own store is never the yield. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is wet in a dry vault, and the wet does not leave the hands at the door. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is wet in a dry vault, and the wet does not leave the hands at the door. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · δ (Critical) |
 | **Vessel-Destructible** | No — rooted O-Relic; striking or shattering is prohibited and releases the full soak rather than resolving it |
@@ -55,13 +55,13 @@
 | **Mode of presence** | A crystal shard rooted in the chamber floor, slick with old tears, with a chalked line round the wetted margin |
 | **Perceptible to** | The wet edge first — the surface is slick where nothing has spilled — and then the runoff, which pools memories at the worker's feet |
 | **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
-| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The released memory is witnessed to evaporation or absorption, the channel is closed deliberately from behind the chalk, and the gauge falls below the threshold on the sheet |
 
-**Charge.** At the offering, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

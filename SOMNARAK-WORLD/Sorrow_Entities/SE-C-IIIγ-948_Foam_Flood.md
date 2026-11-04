@@ -28,10 +28,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Relic source / longing-shrine |
 | **Primary pressure** | Composure |
-| **Starting Sorrow Gauge** | 50–70% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
-| **Work Damage** | 2–4 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a shrine that sits dry in the Riverbed Vault and reads cool regardless. It resets to 15 s the moment the rite stops. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–4 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a shrine that sits dry in the Riverbed Vault and reads cool regardless. It resets to 15 s the moment the rite stops — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | A hand laid upon the carving, or bare skin within the longing-field |
 | **Tool / M.A.W. grade** | γ |
 | **Vessel-Destructible** | No — a sentient relic; the stone refuses to break, and the longing simply settles elsewhere. |
@@ -55,13 +55,13 @@
 | **Mode of presence** | A stone dragon carved in the vault wall with its wings held still, white eyes lit. The field, not the carving, is what reaches the room |
 | **Perceptible to** | The eyes first — cold, blue and impossibly far — and then the floor, which stops feeling like the place a person belongs |
 | **Activation threshold** | A hand laid upon the carving, or bare skin inside the longing-field. No percentage and no count are listed |
-| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 50–70% |
+| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
 | **Resolution Condition** | Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim |
 
-**Charge.** At the rite, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** At the rite, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

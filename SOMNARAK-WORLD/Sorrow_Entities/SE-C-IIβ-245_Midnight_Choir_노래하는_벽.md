@@ -27,10 +27,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–4 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a nightly performance in the east corridor without exception. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–4 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a nightly performance in the east corridor without exception. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates at midnight, with no other trigger recorded in sixty-one years |
 | **Tool / M.A.W. grade** | None issued · β |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The first note on the hour, then the break — always inside a word rather than at the end of a line — and then the next song starting immediately. The corridor is closed at both ends before the sequence begins. |
 | **Handling** | The book is open before midnight and stays open: every count and every break word entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure attached afterwards. |
 | **Activation threshold** | No breach counter; activates at midnight, with no other trigger recorded in sixty-one years |
-| **Sorrow Gauge [Depth]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Depth]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the sequence and holds the gauge; Ferrehan is the transcription kept through a night that does not resolve, and it lowers the gauge. Recording is not a Work Type, which is why the fourth voice is prohibited rather than scheduled. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | The night's count and every break word are entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure is attached |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

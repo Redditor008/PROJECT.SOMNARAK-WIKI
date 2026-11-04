@@ -28,10 +28,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Composure — the handler's certainty that any direction is right |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is an indication from a broken instrument, which is the containment problem. It resets to 20 s the moment the reading is set down. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–3 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is an indication from a broken instrument, which is the containment problem. It resets to 20 s the moment the reading is set down — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β |
 | **Vessel-Destructible** | No — never strike or shatter the Compass; impact detaches the needle and destruction is prohibited and untested |
@@ -55,13 +55,13 @@
 | **Mode of presence** | A tarnished brass case, cracked and warm at the crack while the metal around it is bloodless-cold, mounted in a cradle and never lifted out of it |
 | **Perceptible to** | The needle: it has not settled in centuries, and it answers a hand at the cradle long before it answers anything else |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only — a timed revolution count from the cradle, and sitting with a spinning instrument for the interval without picking it up |
 | **Location** | SECTOR-D-01, Forge District |
 | **Resolution Condition** | Cradle mounting — the only close a Broken Compass cycle has |
 
-**Charge.** In the reading, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In the reading, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

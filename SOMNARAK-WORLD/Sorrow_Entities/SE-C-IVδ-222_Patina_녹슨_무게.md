@@ -28,10 +28,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 5–8 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is corrosion of what does not corrode, the worker's equipment among it. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 5–8 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is corrosion of what does not corrode, the worker's equipment among it. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,13 +55,13 @@
 | **Mode of presence** | A mass on affected ground, held inside a staked front; nothing about it travels and nobody bears its weight |
 | **Perceptible to** | The vegetation line first, which dies back before the instruments register anything, and then the orange stain on stone, fired clay and painted timber alike |
 | **Activation threshold** | Sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly |
-| **Sorrow Gauge [Pressure]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Sorrow Gauge [Pressure]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan from the margin, Ferrehan briefly and under screening |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Acknowledge the original conflict without assigning it to the living |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

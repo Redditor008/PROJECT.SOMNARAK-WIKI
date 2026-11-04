@@ -28,10 +28,10 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Composure — unvoiced apology and unread farewells, which this relic spends itself to restore |
-| **Starting Sorrow Gauge** | 20–35% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 8–12 per successful work cycle, tallied off the vault's own stasis checks rather than a live reading |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a sealed letter whose addressee has never been traced. It resets to 20 s the moment the reading is set down. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–2 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a sealed letter whose addressee has never been traced. It resets to 20 s the moment the reading is set down — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Single-use discharge trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · α (Minor) |
 | **Vessel-Destructible** | Yes — consumed upon single use |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The cold first, and the blue condensation on the wax. Then unwritten messages arriving uninvited, and the low acoustic hum the edges give off when the envelope is handled. |
 | **Handling** | Screened hands, an unbroken seal, and the flap never lifted. Nobody reads the brush script on the flap and nobody writes over the wax, which brings instantaneous frostbite. A dropped or jarred envelope stops all handling until the wax is verified against the vault sheet. |
 | **Activation threshold** | Single-use discharge trigger — consumed upon activation |
-| **Sorrow Gauge [Depth]** | **240/240** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 20–35% |
+| **Sorrow Gauge [Depth]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan monitors frost expansion across the seal without applying pressure and holds. Ferrehan tests whether a worker can stand near an unread farewell without weeping, and lowers the gauge. |
 | **Location** | SECTOR-A-04, Archive Vault 12 — contained |
 | **Resolution Condition** | The letter is safely archived or unsealed for its single-use emergency benediction |
 
-**Charge.** In the reading, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In the reading, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

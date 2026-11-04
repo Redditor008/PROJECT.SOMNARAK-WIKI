@@ -20,7 +20,7 @@ A fever-hot humanoid carrying nothing while the air behind it bends under invisi
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Grudge |
-| Gauge / Pressure | 35–50% / 10–23 |
+| Gauge / Pressure | 000% / 10–23 |
 | Observation | 2 — Basic |
 | Set | The Missing Weight |
 

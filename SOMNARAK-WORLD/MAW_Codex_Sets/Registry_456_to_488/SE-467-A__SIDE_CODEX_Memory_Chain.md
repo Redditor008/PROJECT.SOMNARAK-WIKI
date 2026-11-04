@@ -20,7 +20,7 @@ An invisible speaking chain moves link by link through Echo Gardens memories. It
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Lament |
-| Gauge / Pressure | 35–50% / 10–23 |
+| Gauge / Pressure | 000% / 10–23 |
 | Observation | 2 |
 | Set | The Returned Links |
 

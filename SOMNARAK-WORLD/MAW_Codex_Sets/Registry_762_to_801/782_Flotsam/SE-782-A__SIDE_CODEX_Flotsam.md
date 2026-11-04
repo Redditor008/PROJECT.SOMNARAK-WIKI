@@ -22,7 +22,7 @@ The Relic formed from a treasured object becoming meaningless over time. The gri
 | Type / Manifestation | Subject — Non-breaching: transformation in place / Subject-Weight |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge / Zone B, Old Lament |
-| Gauge / Pressure | 462/462; starts 35–50% / Grudge — no attack pattern; the outline’s order of appearance and the purpose named beside it are the instrument |
+| Gauge / Pressure | 000/462; starts 000% / Grudge — no attack pattern; the outline’s order of appearance and the purpose named beside it are the instrument |
 | Observation | 2 — Basic |
 | Formation event | A household relic passed through generations until no one remembered its purpose; its history began to burn away. |
 

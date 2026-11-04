@@ -25,7 +25,7 @@
 | Element | Weight |
 | Location | SECTOR-A-01, beneath the Alpha Tree — The Weeping |
 | Form | A vast bankless underground current of black liquid sorrow, lead-cold and sensed through bone rather than ordinary sound. |
-| Gauge / Pressure | 45–65% / Weight 17–39 |
+| Gauge / Pressure | 000% / Weight 17–39 |
 | Observation | 4 — Mastered |
 | M.A.W. Set | The Borrowed Current |
 

@@ -56,6 +56,13 @@ BANDS = {
 EXEMPT = {'C-Iα-000'}
 
 
+def is_charge(cell):
+    '''A relic's charge gauge. Identified by its own format, not by the label — row() returns the
+    value cell alone, so the label is not available here (R-48).'''
+    cell = cell or ''
+    return 'limit 60 s' in cell or 'recharge 10 min' in cell
+
+
 def tier_of(score):
     if score <= 3:
         return 'ZAYIN'
@@ -124,9 +131,20 @@ def main():
 
         hp_floor, hp_ceil, atk_floor, atk_ceil = BANDS[tier]
         hp, atk = numbers(hp_cell), numbers(atk_cell)
-        if hp[0] < hp_floor:
-            under.append('%s [%s] HP %s under floor %d' % (name, tier, hp_cell.strip(), hp_floor))
-        elif hp[0] > hp_ceil:
+        # R-48: a charge gauge sits at 000 when nothing is being held, so the band applies to the
+        # CEILING, not to the resting reading. An [HP] meter still bands on its reading.
+        # numbers() returns the pair in file order: reading first, ceiling second.
+        gauge_reading = hp[0]
+        # the cell reads `**000/660** · ready · limit 60 s · recharge 10 min`, so the
+        # numbers list is [reading, wall, 60, 10] and the wall is index 1.
+        banded = hp[1] if (is_charge(hp_cell) and len(hp) > 1) else hp[0]
+        if is_charge(hp_cell) and gauge_reading != 0:
+            under.append('%s [%s] gauge %s does not rest at 000'
+                         % (name, tier, hp_cell.strip()))
+        if banded < hp_floor:
+            under.append('%s [%s] %s %s under floor %d' % (name, tier,
+                'charge wall' if is_charge(hp_cell) else 'HP', hp_cell.strip(), hp_floor))
+        elif banded > hp_ceil:
             ceiling.append('%s [%s] HP %s over ceiling %d'
                            % (name, tier, hp_cell.strip(), hp_ceil))
         if not atk:

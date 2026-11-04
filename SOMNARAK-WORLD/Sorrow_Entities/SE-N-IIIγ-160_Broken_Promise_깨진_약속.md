@@ -28,10 +28,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a promise broken and still binding. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a promise broken and still binding. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | An undertaking spoken in contact with a shard. No breach counter; the holding escalates on condition rather than on a count |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
@@ -55,13 +55,13 @@
 | **Mode of presence** | A shattered contract of red Han-crystal, its fragments hovering and rearranging into signatures that never complete, fever-cold and smelling of char, on the floor of Collector's Row |
 | **Perceptible to** | The arrangement first — fragments leaning toward whoever is speaking — and the cold, against the Row's other red-crystal objects, which are inert and warm |
 | **Activation threshold** | An undertaking spoken in contact with a shard. No breach counter; the holding escalates on condition rather than on a count |
-| **Sorrow Gauge [Pressure]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Sorrow Gauge [Pressure]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Flerehan and Pugnahan are not merely unhelpful here but unavailable, this being an object |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | Viderehan and Ferrehan worked under certified Tool protocol, and the gauge brought under 25 per cent |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -21,7 +21,7 @@ A former R.D. agent retained thousands of historical Absolvohan iterations that 
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element / Location | Void with Weight/Grudge undertones / Hand of Change, mobile |
-| Gauge / Pressure | 993/993; starts 70–90% / 24–52 Grudge |
+| Gauge / Pressure | 000/993; starts 000% / 24–52 Grudge |
 | Movement / Resistance | 2.80 m/s / 50% Void, 30% other |
 | Trigger | Gauge ≥ 95% or personnel recognizing the loop |
 | Resolution | Endure the performance without performing it |

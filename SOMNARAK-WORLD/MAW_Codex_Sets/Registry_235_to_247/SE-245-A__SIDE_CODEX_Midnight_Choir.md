@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Lament |
 | Form | Salt-damp frescoes of the dead whose painted mouths breathe and sing interrupted lullabies, work songs, love songs, and funeral hymns. |
-| Gauge / Pressure | 35–50% / Lament 9–23 |
+| Gauge / Pressure | 000% / Lament 9–23 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Unfinished Verse |
 

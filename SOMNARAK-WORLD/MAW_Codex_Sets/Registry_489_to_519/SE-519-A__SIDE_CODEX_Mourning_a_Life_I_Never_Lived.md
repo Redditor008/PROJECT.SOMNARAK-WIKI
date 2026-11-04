@@ -20,7 +20,7 @@ A cold seed-shaped absence spreads dark roots through Alpha Tree floors, showing
 |---|---|
 | Coherence / Potency | I / α |
 | Element | Void |
-| Gauge / Pressure | 25–40% / 3–10 |
+| Gauge / Pressure | 000% / 3–10 |
 | Observation | 1 |
 | Set | Possibility, Not Memory |
 

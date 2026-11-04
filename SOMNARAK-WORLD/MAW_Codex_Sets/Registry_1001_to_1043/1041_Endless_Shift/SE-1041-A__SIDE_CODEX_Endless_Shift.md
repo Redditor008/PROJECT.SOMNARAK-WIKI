@@ -22,7 +22,7 @@ A Time of Entity (IV) coherence at Critical (δ) potency, Weight-aligned, held a
 | Type / Manifestation | Time — Can breach via Transform / Time-Weight |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / SECTOR-C-915, contained |
-| Gauge / Pressure | 750/750; starts 35–50% / Weight — no attack pattern; the sealed timepiece read at the door against the station log is the reading |
+| Gauge / Pressure | 000/750; starts 000% / Weight — no attack pattern; the sealed timepiece read at the door against the station log is the reading |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

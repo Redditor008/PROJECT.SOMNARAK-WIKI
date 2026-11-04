@@ -20,7 +20,7 @@ A fever-cold burning figure whispers while fading at the edges. It guards the ga
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Void |
-| Gauge / Pressure | 45–65% / 14–32 |
+| Gauge / Pressure | 000% / 14–32 |
 | Observation | 2 |
 | Set | The Guarded Gap |
 

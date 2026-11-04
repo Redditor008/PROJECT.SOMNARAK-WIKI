@@ -22,7 +22,7 @@ An Echo (II) Object at Moderate (β) potency, Grudge-aligned, held at SECTOR-C-9
 | Type / Manifestation | Object — Can breach via Transform / Object-Tale |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge / SECTOR-C-906, contained |
-| Gauge / Pressure | 420/420; starts 35–50% / Grudge — no attack pattern; the page count against a weighted cover is the reading |
+| Gauge / Pressure | 000/420; starts 000% / Grudge — no attack pattern; the page count against a weighted cover is the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

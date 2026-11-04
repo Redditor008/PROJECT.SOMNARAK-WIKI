@@ -22,7 +22,7 @@ A Fragment (III) Hazard at Major (γ) potency, Void-aligned, mind-manifesting, h
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Mind |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / SECTOR-C-928, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / 17–26 per hit · Void |
+| Gauge / Pressure | 000/500; starts 000% / 17–26 per hit · Void |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

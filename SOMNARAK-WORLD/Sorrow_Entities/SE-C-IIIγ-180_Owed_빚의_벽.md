@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Resolve — the burden of accumulated obligation carried at the face |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 per successful work cycle, counted from the mark-line readings rather than from the ledger's own totals |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–5 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is names on the face that were never carved and lengthen between inspections. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–5 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is names on the face that were never carved and lengthen between inspections. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on new debt or unpaid obligation |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The length at both ends of the thoroughfare first, measured against the marks. Then the names on the face, which are not carved. A worker at the face meets an obligation pressing as Weight rather than a brick arriving. |
 | **Handling** | Measure, record, acknowledge. The work is read with a debt custodian, the dispute fields are preserved, and the monitored duration is set before anybody approaches — a worker who says the weight feels ordinary is withdrawn first. |
 | **Activation threshold** | No breach counter; activates on new debt or unpaid obligation |
-| **Sorrow Gauge [Load]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Sorrow Gauge [Load]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the debt on the face and holds the gauge; Ferrehan is bearing the face without adding to the load, and lowers it. Demolition is not a Work Type and never has been. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | Measure and acknowledge the debt; the Wall cannot be demolished |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

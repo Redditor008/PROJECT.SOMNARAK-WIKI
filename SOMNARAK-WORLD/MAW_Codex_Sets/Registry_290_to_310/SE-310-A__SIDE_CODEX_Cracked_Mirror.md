@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Void |
 | Form | An ash-cold ancient mirror cracked across every reflection, showing truths the viewer did not ask to see. |
-| Gauge / Pressure | 660/660; starts 35–50% / Void — no attack pattern; the influence edge and the fracture count are the reading |
+| Gauge / Pressure | 000/660; starts 000% / Void — no attack pattern; the influence edge and the fracture count are the reading |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Unflattering Glass |
 

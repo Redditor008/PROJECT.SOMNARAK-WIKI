@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Weight |
 | Form | A walking humanoid assembled from rusted wall plates, bleeding orange corrosion beside a Gate passage it does not physically block. |
-| Gauge / Pressure | 45–65% / Weight 13–29 |
+| Gauge / Pressure | 000% / Weight 13–29 |
 | Movement | 1.95 m/s in dream or breach |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Boundary After People |

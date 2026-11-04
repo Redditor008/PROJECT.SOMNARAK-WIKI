@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / β — Moderate |
 | Element | Grudge |
 | Form | A soot-black stone forge built around a slow crimson heart-flame, with bone-branching tools grown from generations of rage. |
-| Gauge / Pressure | 880/880; starts 35–50% / Grudge — no attack pattern; the fixed-point floor temperature is the reading |
+| Gauge / Pressure | 000/880; starts 000% / Grudge — no attack pattern; the fixed-point floor temperature is the reading |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Named Heat |
 

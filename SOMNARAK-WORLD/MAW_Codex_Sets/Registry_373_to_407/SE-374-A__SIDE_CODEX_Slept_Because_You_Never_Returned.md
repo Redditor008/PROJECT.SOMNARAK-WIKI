@@ -20,7 +20,7 @@ A vast dormant tree-beast coils beneath the Alpha Tree, roots clenched around a 
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Grudge |
-| Gauge / Pressure | 45–65% / 18–41 |
+| Gauge / Pressure | 000% / 18–41 |
 | Observation | 2 |
 | Set | The Sleeping Promise |
 

@@ -28,10 +28,10 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is floor heat held independently of the vessel. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is floor heat held independently of the vessel. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Material left within the working volume while somebody present is carrying an unstated grievance — both conditions required, and no breach counter. |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The heat first, which is the reading — idle floor temperature at the fixed point, 61, then 68, then 74 degrees across three years. Then the smell of hot stone and the sound of metal being shaped by nobody. |
 | **Handling** | Nothing is left in the working volume and nothing is fed to it. The hearth is not quenched and the tongs are not moved. A worker who is angry about something unstated does not enter the volume until they have said it. |
 | **Activation threshold** | Material left within the working volume while somebody present is carrying an unstated grievance — both conditions required, and no breach counter. |
-| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Handling** | No Work Types (`R-40`) — nothing is left in the working volume and nothing is fed to it. A worker may stand the watch in the heat and may read the floor and the walls. A worker who is angry about something unstated says it first. |
+| **Sorrow Gauge [Pressure]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Work preference** | No Work Types (`R-40`) — nothing is left in the working volume and nothing is fed to it. A worker may stand the watch in the heat and may read the floor and the walls. A worker who is angry about something unstated says it first. |
 | **Location** | Zone D, Forge District |
 | **Resolution Condition** | Somebody states what they are angry about, aloud, in the room, naming it specifically. It has worked on every occasion it has been tried, which is every occasion the heat has risen. |
 
-**Charge.** At the offering, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

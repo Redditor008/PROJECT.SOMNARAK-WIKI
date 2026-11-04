@@ -20,7 +20,7 @@ A faceless singing shadow walks abandoned Desolate routes, the last trace of a l
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Lament |
-| Gauge / Pressure | 35–50% / 10–23 |
+| Gauge / Pressure | 000% / 10–23 |
 | Observation | 2 |
 | Set | The Walked Record |
 

@@ -28,10 +28,10 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per cycle. The figure is unremarkable and the wing's note beside it is not: this is the cheapest accurate measurement of suppressed anger the facility possesses, and the energy column is the least interesting thing about the holding. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a surface cleared and a crack-song settled for a shift. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a surface cleared and a crack-song settled for a shift. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α — Ice-Shard Stiletto, Frozen Plate and Frozen Reflection are each Minor-grade equipment. |
 | **Vessel-Destructible** | Yes |
@@ -58,12 +58,12 @@
 | **Speed** | N/A — no drift rate has ever been measured. It is carried by the Desolate's cold currents rather than walking, and its bearing is recorded separately from viewing duration |
 | **Resistance** | 15% against Grudge. The plate has been struck once, in Year 4,229, by a worker who had looked into it for eleven minutes. The surface took no damage and the crack pattern changed that night. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [Pressure]** | **240/240** · full · limit 60 s · refill 10 min |
+| **Sorrow Gauge [Pressure]** | **000/240** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 3–10 per hit · Grudge |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | α — affects pressure, durability, and escalation severity |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
@@ -74,7 +74,7 @@
 | **Threat Role** | Minor encounter |
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate — mobile |

@@ -1,139 +1,140 @@
 # R-48 — The Charge
 
-**Stated by the archive owner, 2026-11-04:**
+**Stated by the archive owner, 2026-11-04 → 11-05:**
 
-> *"WHAT THE USED OF HP ON RELIC SE THAT WONT USED THE HP, YES POSSESSION CAN USED THE HP ..."*
+> *"...TRANSFORMS THE HP NUMBER INTO A MEANINGFUL GAUGE SO WHAT GOOD USED THE GAUGE THAT IS NOT USED
+> FOR SE HP SO THINK OF THAT"*
 
-> *"... IT STILL READ ILLOGICAL ... AND FEEL BLOATED ... TRY TO REINVENT IT INTO A MORE LOGICAL
+> *"...IT STILL READ ILLOGICAL ... AND FEEL BLOATED ... TRY TO REINVENT IT INTO A MORE LOGICAL
 > MECHANIC"*
 
-> *"WHAT IF YOU DIVIDED EXPLANATION AND THE TABLE IN TWO AND ALSO REINVENT WHAT THE NUMBER IS FOR
-> RELIC SE THAT USED THIS NEW GAUGE AND SO EACH TIER OF THE SE HAVE BRAND NEW INVENTED GAUGE
-> NUMBER AND WHAT IF THIS GAUGE IS PUNISHMENT + LIMIT OF USING IT, YOU KNOW LIKE HOW IN L CORP
-> THERE IS A LIMIT OF HOW LONG AN AGENT CAN USED/HOLD/EQUIP IT ... THERE SHOULD BE HARD LIMIT THAT
-> IS UNIVERSAL FOR ALL RELIC SE, AND ... IF THE LIMIT REACH THERE A CONSEQUENCE OF TRYING TO USED
-> IT WHEN IT NOT YET 'RECHARGE' AND THE RECHARGE RATE CAN WORK LIKE ... THERE IS A LINE FROM MAX
-> TO 00"*
+> *"WHAT IF YOU DIVIDED EXPLANATION AND THE TABLE IN TWO ... EACH TIER OF THE SE HAVE BRAND NEW
+> INVENTED GAUGE NUMBER ... WHAT IF THIS GAUGE IS PUNISHMENT + LIMIT OF USING IT ... LIKE HOW IN L
+> CORP THERE IS A LIMIT OF HOW LONG AN AGENT CAN USED/HOLD/EQUIP IT ... THERE SHOULD BE HARD LIMIT
+> THAT IS UNIVERSAL FOR ALL RELIC SE ... A CONSEQUENCE OF TRYING TO USED IT WHEN IT NOT YET
+> 'RECHARGE' AND THE RECHARGE RATE CAN WORK LIKE ... THERE IS A LINE FROM MAX TO 00"*
 
-This is the third draft and it replaces both earlier ones.
+This is the fourth draft. The first three are superseded in full, and §0 says why.
 
-## 0. The three faults this fixes
+## 0. Why the third draft was still wrong
 
-| draft | fault |
-|---|---|
-| 1 | three bands under a number nothing moved — decoration |
-| 2 | a real spender, but the explanation sat **inside** the table cell, so a nine-word mechanic took ninety words to say |
-| 3 | — |
+Draft 3 displayed the gauge as **charge remaining**, full at rest, and draining to 000 as it was
+used. Every consequence of that ran *backwards* against a rule this archive had already written
+down:
 
-**The division is the point.** A table is for what a Warden reads at the cell door in two seconds.
-A mechanic is for the page under it, once, on the night before. Draft 2 wrote both into the same
-cell and called the result a gauge.
+> **`R-09`:** *"The Sorrow Gauge runs opposite to the Qliphoth Counter: a Flerehan `Decrease` is a
+> good result. This is intentional and must not be 'corrected' toward the source."*
+
+**278 relic dossiers** file work responses as `Flerehan | Decrease` and `Pugnahan | Increase`. Under
+draft 3 a `Decrease` would have been the *bad* outcome — the gauge draining toward zero is a relic
+being used up. The work-response tables, the 36 `Resolution Condition` rows that end a session when
+*"the gauge falls below 25%"*, and **155 authored sentences** — *"a rising gauge presents as
+volume"*, *"the gauge climbs with the drain"* — all say the same thing: **the gauge rises when
+things are going wrong.** Draft 3 made them all liars.
+
+**The archive was right and the draft was wrong.** A gauge that fills is a gauge that can be read as
+punishment; a gauge that empties reads as a battery. The owner asked for punishment and limit. This
+version is that.
 
 ## 1. What the charge is
 
-**The gauge is the relic's charge, and the charge is both the punishment and the limit.**
+**The gauge is the load the relic is carrying, and it is both the punishment and the limit.**
 
-- It is **the punishment** because the number is the size of what the thing takes out of whoever
-  holds it. A ZAYIN costs 240. An ALEPH costs 1,080.
-- It is **the limit** because when it reaches 000 the relic is **spent**, and a spent relic will
-  not take a hand at all.
+- **The punishment** — every second of contact puts load on. The number is what the thing has taken,
+  and when it is high, the next hand pays more.
+- **The limit** — at **MAX** the relic is **spent**. It will not take a hand at all.
 
-That is the whole answer to *"what good is a gauge that isn't HP"*. HP told you when the **thing**
-would stop. This tells you when **you** stop — and it is the same number doing both jobs, so there
-is no second stat to learn.
+A relic at rest is at **000**: nothing being held, nothing spent. That is why a vault reading is
+always low and why the old pinned-at-maximum HP readings were meaningless — a number that never
+moved told nobody anything.
 
-## 2. The number is invented by the tier, never by the file
+**000 is the safe reading. MAX is the wall.** That is the whole orientation, and it is the one the
+archive's own prose and `R-09` already assume.
 
-No writer picks a relic's charge. It comes from the tier, and from nothing else:
+## 2. The number belongs to the tier
 
-| tier | charge | the minute costs you |
+No writer picks a relic's ceiling. It comes from the tier and from nothing else:
+
+| tier | the wall | |
 |---|---|---|
-| **ZAYIN** | **240** | the least it can cost and still be a relic |
+| **ZAYIN** | **240** | the least a relic can hold and still be one |
 | **TETH** | **420** | |
 | **HE** | **660** | |
 | **WAW** | **880** | |
 | **ALEPH** | **1,080** | the most this archive has ever measured |
 
-Every tier's figure sits inside the band `check_stat_bands.py` already enforces, so the archive's
-existing scale keeps its meaning. **143 dossiers renumber to five numbers.** A reader who knows
-the tiers can now guess a relic's charge before opening the file, which is what a tier is for.
+Every figure sits inside the band `check_stat_bands.py` already enforces. **A reader who knows the
+tier knows where the wall is before opening the file**, which is what a tier is for.
 
 ## 3. The hard limit is universal: sixty seconds
 
 **No relic may be held for longer than sixty seconds of contact. Any relic. Any tier.**
 
-This is L Corp's work timer and it is the one figure in this archive that is not tiered, not
-categorised and not negotiable. Sixty seconds of continuous contact and the charge is at 000,
-whatever its size — the thing spends its whole length in that minute, so a longer charge is a
-heavier draw, not a longer leash.
+This is L Corp's work timer: the one figure that is not tiered, not categorised, not negotiable.
 
-**At 000 the relic is spent.** Not damaged, not suppressed, not dead: spent. It will not take a
+**The gauge fills its whole length in that minute** — 000 to MAX, whatever MAX is. So a larger
+ceiling is a **heavier load held for the same minute**, not a longer leash. An ALEPH does not give
+you more time than a ZAYIN; it takes 4.5× more from you in the same sixty seconds.
+
+At **MAX** the relic is spent: not damaged, not suppressed, not dead. Spent. It will not take a
 hand.
-
-**The universal law underneath the sixty.** Whatever fills a relic's gauge, **nothing may be used
-at 000.** For the 134 charge gauges that zero arrives through contact time; for the 9 that keep
-`[HP]` it arrives through suppression. Two roads to one rule.
 
 ## 4. The two lines
 
-**Down — discharge.** The whole of it, in sixty seconds, on every relic:
+**Up — the fill.** The whole of it, in sixty seconds, on every relic:
 
 ```text
-660 ─────────── 60 s ─────────── 000
+000 ─────────── 60 s ─────────── 660
 ```
 
-**Up — recharge.** It climbs the same line back, a **tenth of itself a minute**, so ten minutes
-from spent to brim at every tier. This is the "line from max to 00" the owner asked for, read in
-reverse:
+**Down — the recharge.** It runs back the same line, **a tenth of itself a minute**, so ten minutes
+from spent back to ready at every tier:
 
 ```text
-000 ── 1 min ── 066 ── 2 min ── 132 ── 3 min ── 198 ── ... ── 10 min ── 660
+660 ── 1 min ── 594 ── 2 min ── 528 ── 3 min ── 462 ── ... ── 10 min ── 000
 ```
 
-**Below half it is worth less than half**, because it is still filling: a relic at 330 of 660
-gives thirty seconds, not sixty. The charge is read, never assumed.
+**Read it as one line that goes both ways.** The owner asked for "a line from MAX to 00"; this is
+that line, and the fill is the same line travelled in the other direction.
 
 ## 5. The consequence of using it before it has recharged
 
-Two cases, and they are different sizes of mistake.
+Two sizes of mistake.
 
-**Taken up before the brim, but not spent** — you do not get a fresh minute. **The Work Damage
-clock resumes where it stopped instead of starting over.** `R-47` says the clock resets to base
-the moment contact breaks; this is the clause that makes that reset conditional. Put a HE relic
-down after forty seconds, pick it up ninety seconds later, and you are back on the tight interval
-with twenty seconds of charge left.
+**Taken up before it has run down** — you do not get a fresh minute. It starts from where it stands,
+so you inherit the remaining headroom and **the Work Damage clock resumes where it stopped** instead
+of starting over. `R-47` says the clock resets to base the moment contact breaks; that reset is
+**conditional on a settled gauge**, and this is the clause that makes it so.
 
-**Taken up at 000** — it refuses. The attempt is answered the same way it would answer a
-suppression: **the first dose of the Work Damage lands immediately, in full**, and **the refill
-restarts from 000.** Two hundred marks of refill are wiped because someone would not wait. This
-is the punishment, and it is the only one in the archive that punishes impatience rather than
-curiosity.
+**Taken up at MAX** — it refuses. The attempt is answered the way a suppression would answer it:
+**the first dose of Work Damage lands immediately, in full**, and **the recharge restarts from the
+top** — every minute of run-down so far is thrown away. This is the punishment for impatience, and
+it is the only one in the archive that punishes impatience rather than curiosity.
 
 ## 6. The division: table and explanation
 
 **The table cell is data and nothing else:**
 
 ```text
-| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
+| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
 ```
 
-Four readings, no sentences: the charge and its size, the state, the wall, and the refill time.
+Four readings, no sentences: the reading and its ceiling, the state, the wall, the recharge time.
 
-**The explanation is a paragraph outside the table**, under the stat block, led in bold so the
-eye finds it:
+**The mechanic is a paragraph outside the table**, led in bold so the eye finds it:
 
-> **Charge.** At the rite, it spends the whole of itself in sixty seconds — 660 down to 000 — and
-> at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so
-> ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes
-> where it stopped rather than starting over; handled at 000, the first dose lands at once and the
-> refill begins again from nothing.
+> **Charge.** At the rite, the gauge fills the whole of its length in sixty seconds — 000 up to 660
+> — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a
+> minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage
+> clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at
+> once and the run-down begins again from the top.
 
-A cell that has to be read twice is a paragraph in the wrong place.
+**A cell that has to be read twice is a paragraph in the wrong place.** Gate 93 fails any cell over
+110 characters.
 
 ## 7. What the measure is called
 
-Unchanged from draft 2, because this part was right: the gauge is named for what the holding puts
-into the handler, which is the dossier's own `**Element**`.
+The gauge is named for what the holding puts into the handler — the dossier's own `**Element**`:
 
 | Element | gauge | what the hands are taking |
 |---|---|---|
@@ -142,49 +143,52 @@ into the handler, which is the dossier's own `**Element**`.
 | **Lament** | `[Depth]` | grief taken down into the person — a level, not a volume |
 | **Void** | `[Saturation]` | absence poured in until there is no room for anything else |
 
-Four elements, four harms, one gauge shape.
+## 8. What rises and what falls — the reading every writer already uses
 
-## 8. The nine that keep `[HP]`
+Because the gauge fills, **the archive's existing language is already correct** and must not be
+"fixed" toward the draft-3 orientation:
+
+| already written | still true |
+|---|---|
+| `Flerehan · Decrease` | a decrease is a good result (`R-09`) |
+| *"a rising gauge presents as volume / speed / argument"* | a rising gauge is a worsening relic |
+| *"the gauge falls below 25%"* as a Resolution Condition | the session closes when the load comes off |
+| `Starting Sorrow Gauge` | **000** — settled. A relic nobody is holding reads at the bottom |
+
+## 9. The nine that keep `[HP]`
 
 - **Possession — 2**, by the owner's word: the bearer is what falls.
 - **Breaching relics — 7**: a relic that can breach is suppressible.
 - **Subjects** — unchanged; their cost is a work session, already `R-44`.
 
-Their gauge runs to 000 by suppression rather than by the minute, and **§3's law binds them
-harder, not less**: nothing may be used at 000.
+Their meter runs to 000 by suppression rather than by the minute, and §3's law binds them harder,
+not less: **nothing may be used at 000.**
 
-## 9. The gate
+## 10. The gate
 
 `tools/auditors/check_relic_gauge.py` (gate 93) fails a non-breaching, non-possession relic when:
 
 - the label is `[HP]`, is not one of the four measures, or disagrees with the `Element` row;
-- the charge is not the figure its **tier** dictates;
-- the reading is not full, or the cell does not carry `full`, `limit 60 s` and `refill 10 min`;
-- the cell runs past **110 characters** — the table is data, and a sentence in it is draft 2's
-  fault returning;
-- there is no **explanation paragraph** outside the table, or it does not state the sixty-second
-  wall, the 000, the tenth-a-minute refill, or the Work Damage consequence;
+- the ceiling is not the figure its **tier** dictates;
+- the reading is not a settled **000/MAX**;
+- the cell does not carry `ready`, `limit 60 s` and `recharge 10 min`;
+- the cell runs past **110 characters**;
+- `Starting Sorrow Gauge` is not **000** — the percentage band is retired;
+- there is no `**Charge.**` paragraph outside the table, or it does not state the sixty-second fill,
+  the ceiling, the tenth-a-minute run-down, and the Work Damage consequence;
 - a possession, breaching relic or subject has lost its `[HP]`.
-
-## 10. What this does not do
-
-- It does not change a category. `R-47`'s per-second dose and its tightening clock are untouched;
-  the charge is what the dose is drawn from.
-- It does not invent a sixth tier or move a relic between tiers.
-- It does not touch a subject's numbers.
 
 ## Rollout
 
 | | before | after |
 |---|---|---|
-| relic gauges | 134 arbitrary ceilings, 198–993 | **5 tier figures**, 240 / 420 / 660 / 880 / 1,080 |
-| table cell | 300–500 characters of prose | **under 110 characters, data only** |
+| reading at rest | 141 relics pinned at their own ceiling | **000 of the tier's wall** |
+| ceilings | 134 arbitrary, 198–993 | **5 tier figures** |
+| cell | 300–500 characters of prose | **under 110, data only** |
 | explanation | inside the cell | **a paragraph under the table** |
-| `[HP]` retained | 9 | 9 |
-
-By tier, of the 134 converted: **ZAYIN 240 ×20 · TETH 420 ×43 · HE 660 ×33 · WAW 880 ×34 · ALEPH 1,080 ×4.**
+| `Starting Sorrow Gauge` | a 35–50% band on 286 rows | **000, settled** |
+| orientation | draft 3 inverted `R-09` | **decrease is a good result again** |
 
 ## Owner direction
 
-Batch 196, 2026-11-04. Filed as **O-34** in `OWNER_DIRECTIVES.md`. Drafts 1 and 2 are superseded
-in full.
+Batch 197, 2026-11-05. Filed as **O-34** in `OWNER_DIRECTIVES.md`. Drafts 1–3 are superseded.

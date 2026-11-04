@@ -24,7 +24,7 @@
 | Coherence / Potency | I — Residue / α — Minor |
 | Element | Grudge |
 | Form | A fever-cold empty rope figure with no second end, hanging from no visible hand and watching from the edge of consciousness. |
-| Gauge / Pressure | 25–40% / Grudge 3–9 |
+| Gauge / Pressure | 000% / Grudge 3–9 |
 | Observation | 1 — Initial |
 | M.A.W. Set | The Released Line |
 

@@ -28,10 +28,10 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle. The yield tracks the hours of darkness rather than the stock, and the file's own note is that the night the table offered its widest stock was the night it yielded least. |
 | **Work difficulty** | Low · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a price — a coin, a button, or a memory the worker judges unimportant at the time. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a price — a coin, a button, or a memory the worker judges unimportant at the time. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The labels first — each goods ticket describing a lost life or moment in handwriting the reader half-recognises — then the warm patch the ground keeps after it has gone, and ash on the air. |
 | **Handling** | Worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is turned over or taken up. A worker who has picked something up puts it down, says so aloud, and is logged as having done it. |
 | **Activation threshold** | No breach counter; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
-| **Sorrow Gauge [Saturation]** | **240/240** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Sorrow Gauge [Saturation]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the histories the goods carry and moves the gauge not at all. Ferrehan endures the offers, which is the row that brings it down. |
 | **Location** | Zone B, Forgotten Market — mobile manifestation |
 | **Resolution Condition** | The watch ends at dawn with the labels copied, the bearing entered to the nearest metre, and nothing taken up. The gauge at the close must be below 25%. |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

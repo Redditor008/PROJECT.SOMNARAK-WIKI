@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Lament |
 | Form | A split dark seed hauling itself on wet root-limbs, leaking warm blue tears while an unknowable partial life presses outward. |
-| Gauge / Pressure | 60–80% / Lament 27–58 |
+| Gauge / Pressure | 000% / Lament 27–58 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Form Not Forced |
 

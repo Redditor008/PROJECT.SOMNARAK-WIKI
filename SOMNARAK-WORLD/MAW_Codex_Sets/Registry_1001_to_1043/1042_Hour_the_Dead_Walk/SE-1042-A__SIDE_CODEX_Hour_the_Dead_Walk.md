@@ -22,7 +22,7 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, held at SECTOR-O-91
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-O-916, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / Lament — no attack pattern; the two perimeter counts and the difference between them are the instrument |
+| Gauge / Pressure | 000/500; starts 000% / Lament — no attack pattern; the two perimeter counts and the difference between them are the instrument |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

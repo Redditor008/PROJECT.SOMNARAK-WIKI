@@ -20,7 +20,7 @@ A dream-rope melts at one end and reforms at the other, binding travelers to los
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Lament |
-| Gauge / Pressure | 45–65% / 14–33 |
+| Gauge / Pressure | 000% / 14–33 |
 | Observation | 2 |
 | Set | The Reciprocal Line |
 

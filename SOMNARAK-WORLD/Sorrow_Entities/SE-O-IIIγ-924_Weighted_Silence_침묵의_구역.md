@@ -27,10 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Hazard |
 | **Primary pressure** | Void / Void pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–4 Void / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a cycle finished with nothing besides. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 2–4 Void / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a cycle finished with nothing besides. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -54,13 +54,13 @@
 | **Perceptible to** | One foot past the boundary, a worker's own voice reaching one ear and not the other. Then the writing, which slows in the hand and comes back shorter, flatter and less exact the longer the watch runs. |
 | **Handling** | Work it from the boundary. Every reading that has ever moved the gauge was taken outside the line, and the annual sighting closes when the radius matches its markers to within half a metre. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [Saturation]** | **660/660** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Saturation]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, both run from outside the line. Viderehan is the sighting itself; Ferrehan is standing the full survey in the Desolate's weather. The gauge answers to patience here and never to insight. |
 | **Location** | SECTOR-O-924, contained |
 | **Resolution Condition** | The annual sighting closes with the radius matching its markers to within the survey tolerance of half a metre. Containment here is a measurement, not a suppression — nothing is subdued, and the file is explicit that nothing ever has been. |
 
-**Charge.** In the shared air, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In the shared air, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

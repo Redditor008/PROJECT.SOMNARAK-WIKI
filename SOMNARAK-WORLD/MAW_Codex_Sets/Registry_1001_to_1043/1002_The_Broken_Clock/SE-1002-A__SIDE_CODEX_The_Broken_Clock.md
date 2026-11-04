@@ -22,7 +22,7 @@ The Clock formed from the city's frustration with the repeating time loop of Yea
 | Type / Manifestation | Object/Place — Non-breaching: activation only; expands by Transform rather than escaping / Object-Weight |
 | Coherence / Potency | Fragment (III) — Personality obsessed with time / Major (γ) — High danger |
 | Element / Location | Weight / SECTOR-A-01, Alpha Tree deep storage — contained |
-| Gauge / Pressure | 739/739; starts 45–65% / no hit band — the field reaches seven metres and is read from the chalk line |
+| Gauge / Pressure | 000/739; starts 000% / no hit band — the field reaches seven metres and is read from the chalk line |
 | Observation | 3 — Advanced |
 | Formation event | The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock. |
 
@@ -54,4 +54,4 @@ During *The Broken Clock Source-Trace*, the field team preserved this source fac
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Broken Clock's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon contains only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event. The gauge opens at 45–65% of its 739/739 meter, and no hit band is filed. The set cannot heal the originating event. Misuse routes The Broken Clock's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Broken Clock's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon contains only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event. The gauge opens at 000% of its 000/739 meter, and no hit band is filed. The set cannot heal the originating event. Misuse routes The Broken Clock's wound through the operator and triggers the recorded escalation.

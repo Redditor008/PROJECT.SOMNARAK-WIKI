@@ -66,7 +66,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 | **Risk tier** | {{written potency}} ({{Greek letter}}) |
 | **Entity role** | {{Object/Place / Object / Place / Time / Hazard}} |
 | **Primary pressure** | {{what it presses on — Resilience (resilience/will) / Composure (composure and willpower) / Clarity (identity and memory), or physical/structural; name the register the costs land in}} |
-| **Starting Sorrow Gauge** | {{range fitted to potency, e.g. 35–50% at β; must match the Combat Record below}} |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line (`R-48`) |
 | **Han-Energy yield** | {{range}} Han-Energy per successful work cycle |
 | **Work difficulty** | {{written difficulty}} · R.D. Comprehension Level {{n}} — {{level name}} |
 | **Activation threshold** | {{count of ignored conditions, if the file uses one; state its scope so it is not confused with the gauge thresholds below}} |
@@ -74,6 +74,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 | **Vessel-Destructible** | {{Yes / No — and be able to defend it from the Physical Form row}} |
 | **Han Dust Drop (Vessel Destruction)** | {{range fitted to potency}} ({{Greek letter}}) |
 | **Recommended response** | {{the one correct first move, in this file's own terms; must agree with Behavior and with the Resolution Condition below}} |
+
 
 ### Operational Notes
 
@@ -91,11 +92,13 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 |---|---|
 | **Speed** | {{m/s if it travels; if it does not travel, say what this number can honestly mean or record the file's own convention}} |
 | **Resistance** | {{x}}% against {{own element}} pressure; {{y}}% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ {{60% typical}} |
-| **Sorrow Gauge [HP]** | {{max}}/{{max}} |
+| **Activation threshold** | Sorrow Gauge ≥ {{% of the tier wall at which this one takes a hand}} |
+| **Sorrow Gauge [{{Pressure / Load / Depth / Saturation by Element}}]** | **000/{{the tier's wall}}** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | {{low–high}} per hit · {{Element}} |
 | **Coherence modifier** | {{I–V}} — affects behavior complexity and response speed |
 | **Potency modifier** | {{Greek letter}} — affects pressure, durability, and escalation severity |
+
+**Charge.** {{Lead,}} the gauge fills the whole of its length in sixty seconds — 000 up to {{wall}} — and at {{wall}} it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at {{wall}}, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
@@ -106,7 +109,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 | **Threat Role** | {{Standard / Elite / Sovereign encounter}} |
 | **Coherence** | {{same as classification}} |
 | **Primary Pressure** | {{Resilience / Composure / Clarity — the register its actions drain}} |
-| **Starting Sorrow Gauge** | {{same range as Operational Parameters}} |
+| **Starting Sorrow Gauge** | 000 — settled; must match Operational Parameters |
 | **Difficulty** | {{same as Work difficulty}} |
 | **Handling** | No Work Types (`R-40`) — the procedure in `## Handling Process` is the whole of the contact: {{approach, handling, withdrawal, refusal, named}} |
 | **Battlefield** | {{registered location}} |

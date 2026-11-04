@@ -22,7 +22,7 @@ The Mirror formed from self-knowledge that people were too exhausted to face. Th
 | Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / Zone A, Alpha Tree |
-| Gauge / Pressure | 739/739; starts 45–65% / Void — no attack pattern; the template displacement between sessions is the instrument |
+| Gauge / Pressure | 000/739; starts 000% / Void — no attack pattern; the template displacement between sessions is the instrument |
 | Observation | 2 — Basic |
 | Formation event | Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence. |
 

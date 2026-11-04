@@ -27,10 +27,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 per cycle, drawn along a line in the Old Lament where a party wall used to run. The yield is the highest ambient figure in Zone B and the station has never been able to say what it is being drawn from. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 4–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an onset five metres out of step with the quarterly survey. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 4–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an onset five metres out of step with the quarterly survey. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter. Activates on any assertion, in public or in a municipal document, that there was never a division here |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,13 +55,13 @@
 | **Perceptible to** | The temperature difference across the line first — the two sides are walked with the old ward plan and marked where they differ — then the gap width, which narrows four to eleven centimetres after a full naming and not at all after a partial one. |
 | **Handling** | Name the history of the boundary before anything is said about the present: which two communities, when they were made one, and by whose order. The line is walked with the old ward plan and nothing is pegged, because pegs do not last the night. |
 | **Activation threshold** | No breach counter. Activates on any assertion, in public or in a municipal document, that there was never a division here |
-| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Sorrow Gauge [Load]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what the wall separated and what it protected — two different lists. And the difference between them is the holding's most-cited record — and reading it puts the reader's own division on the second list. Ferrehan is the crossing made after the history has been stated, which is the only crossing the gauge answers. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Name the history of the boundary before crossing |
 
-**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

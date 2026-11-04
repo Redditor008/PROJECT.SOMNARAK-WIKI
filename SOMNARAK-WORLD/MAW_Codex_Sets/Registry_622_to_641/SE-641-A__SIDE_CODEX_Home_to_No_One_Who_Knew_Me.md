@@ -22,7 +22,7 @@ A black shape-shifting relic appears ambiently in Old Lament after long absences
 | Coherence / Potency | IV / δ |
 | Element | Grudge |
 | Location | Zone B, Old Lament — ambient |
-| Gauge / Pressure | 880/880; starts 60–80% / Grudge — no attack pattern; the crimson light and the position are the reading |
+| Gauge / Pressure | 000/880; starts 000% / Grudge — no attack pattern; the crimson light and the position are the reading |
 | Movement / Resistance | Fixed-returning object / 45% Grudge, 35% other |
 | Activation threshold | Gauge ≥90%; touch or recognition activates return |
 | Observation | 2 — Basic |

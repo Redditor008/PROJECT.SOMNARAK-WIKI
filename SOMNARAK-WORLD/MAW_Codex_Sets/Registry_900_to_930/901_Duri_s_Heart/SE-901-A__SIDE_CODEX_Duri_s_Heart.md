@@ -22,7 +22,7 @@ An Echo (II) Object at Moderate (β) potency, Weight-aligned, held at SECTOR-C-9
 | Type / Manifestation | Object — Can breach via Transform / Object-Body |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-C-901, contained |
-| Gauge / Pressure | 420/420; starts 35–50% / Weight — no attack pattern; the beat count called from outside the glass is the reading |
+| Gauge / Pressure | 000/420; starts 000% / Weight — no attack pattern; the beat count called from outside the glass is the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

@@ -28,10 +28,10 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object |
 | **Primary pressure** | Void and Spirit pressure, arriving as the pleading at the edge of hearing rather than as force |
-| **Starting Sorrow Gauge** | 35–50% at intake, read only after the lid gap has been measured at the four rim points |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 across a successful cycle, logged against that session’s own rim-gauge mean |
 | **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
-| **Work Damage** | 1–2 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a jar with a lid that will not seat, worked through the gap. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
+| **Work Damage** | 1–2 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a jar with a lid that will not seat, worked through the gap. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
@@ -56,13 +56,13 @@
 | **Perceptible to** | The light at the gap first, then the voice, which everyone in the radius hears as addressed to them personally. The gap is measured, not heard: four rim points, to a tenth of a millimetre, before anybody sits down. |
 | **Handling** | Feelers out before anything else. The gap measured at the four marked points and the mean entered. Two listeners seated for the interval. Nobody lifts the lid and nobody reaches for it. The lid is re-seated by hand, which takes one person about a minute. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Saturation]** | **240/240** · full · limit 60 s · refill 10 min |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Sorrow Gauge [Saturation]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the pleading legible as pleading, which is not the same as intelligible. Ferrehan lowers the gauge by patience alone, with the worker sitting the interval out and not reaching for the lid. Neither Work Type moves the gap. |
 | **Location** | SECTOR-N-905, contained |
 | **Resolution Condition** | Gauge reduced, lid re-seated by hand, two independent transcripts filed. |
 
-**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
+**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

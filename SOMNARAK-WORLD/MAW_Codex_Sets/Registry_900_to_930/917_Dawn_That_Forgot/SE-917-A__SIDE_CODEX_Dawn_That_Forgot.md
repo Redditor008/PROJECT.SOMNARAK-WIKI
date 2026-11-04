@@ -22,7 +22,7 @@ A Fragment (III) Time at Major (γ) potency, Void-aligned and dream-manifesting,
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / SECTOR-N-917, contained |
-| Gauge / Pressure | 660/660; starts 35–50% / Void — no attack pattern; the first shutter and the last shutter, timed from the perimeter post, are the reading |
+| Gauge / Pressure | 000/660; starts 000% / Void — no attack pattern; the first shutter and the last shutter, timed from the perimeter post, are the reading |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

@@ -21,7 +21,7 @@ Mimi, a doll-body made to perform rescue and happiness, shares one vessel with S
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element / Location | Mixed / Zone B, mobile near Maw perimeter |
-| Gauge / Pressure | 837/837; starts 60–80% / 27–59 Grudge |
+| Gauge / Pressure | 000/837; starts 000% / 27–59 Grudge |
 | Movement / Resistance | 2.35 m/s; 3.10 synchronized / 35% Mixed, 20% single |
 | Resolution | Acknowledge both identities without forcing separation |
 

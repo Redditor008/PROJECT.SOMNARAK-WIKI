@@ -22,7 +22,7 @@ An Entity (IV) Hazard at Critical (δ) potency, Grudge-aligned, held at SECTOR-C
 | Type / Manifestation | Hazard — Non-breaching: expansion only / Hazard-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge / SECTOR-C-923, contained |
-| Gauge / Pressure | 880/880; starts 35–50% / Grudge — no attack pattern; the inward-angled read from outside the marked rectangle is the instrument |
+| Gauge / Pressure | 000/880; starts 000% / Grudge — no attack pattern; the inward-angled read from outside the marked rectangle is the instrument |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

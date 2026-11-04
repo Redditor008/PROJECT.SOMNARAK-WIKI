@@ -21,7 +21,7 @@ Old Lament’s skyline bends around an empty tower-shaped volume where residents
 | Coherence / Potency | II / β |
 | Element | Grudge |
 | Location | Zone B, Old Lament — ambient |
-| Gauge / Pressure | 240/240; starts 35–50% / Grudge — no attack pattern; the shadow’s edge against the plot survey and the two depth readings are the instrument |
+| Gauge / Pressure | 000/240; starts 000% / Grudge — no attack pattern; the shadow’s edge against the plot survey and the two depth readings are the instrument |
 | Threshold / Resistance | 60% / 25% Grudge, 15% other |
 | Set | Memorial Without Reconstruction |
 
