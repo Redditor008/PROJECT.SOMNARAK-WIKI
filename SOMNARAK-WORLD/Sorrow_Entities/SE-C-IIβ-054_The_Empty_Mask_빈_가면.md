@@ -55,7 +55,7 @@
 | **Mode of presence** | One blank mask on a tray among four held with the Masked Troupe, stationary until a named hand lifts it |
 | **Perceptible to** | The depth first: sixty-one millimetres of interior in a nineteen-millimetre object, read by probe and graded against the printed card |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. There is no breach counter on this holding, and the file says none is implied |
-| **Sorrow Gauge [HP]** | 411/411 — the containment meter. The first sign of it climbing is a handler offering a service number where a name was asked for |
+| **Sorrow Gauge [Load]** | 411/411 — . The first sign of it climbing is a handler offering a service number where a name was asked for. Under 140 the handling in this file stands and the support is carrying it. From 270 it is checked at every shift change, and the support is re-checked and the load laid on again in the reading. From 411 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, two handlers present throughout, the glow graded against the card at the start and end |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |

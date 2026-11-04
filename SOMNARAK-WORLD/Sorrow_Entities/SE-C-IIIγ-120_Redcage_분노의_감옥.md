@@ -56,7 +56,7 @@
 | **Perceptible to** | The pulse first, which the ward hears before anybody tells it what it is. Then the warmth of the bars and the smell of a room that has been shut for a long time. The reading is the gap photographs. |
 | **Handling** | Not entered and not opened. The bars are not touched and nothing is reached through them. The gap photographs are taken from the same mark at every watch, and the count is made twice. |
 | **Activation threshold** | Touching the cage or attempting to open it — no breach counter. |
-| **Sorrow Gauge [HP]** | 653/653 — counted twice from the gap photographs at each watch |
+| **Sorrow Gauge [Pressure]** | 653/653 — counted twice from the gap photographs at each watch. Under 220 the handling in this file stands and the frame is holding at that load. From 440 it is checked at every shift change, and frame stress is read and signed at every watch. From 653 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the particular injustice that formed each bar and moves the gauge not at all. Ferrehan, standing near sustained rage without feeding it, is the only Work Type that lowers it. |
 | **Location** | SECTOR-B-01, Zone B |

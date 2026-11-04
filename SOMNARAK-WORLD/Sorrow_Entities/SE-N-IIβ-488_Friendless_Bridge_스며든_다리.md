@@ -56,7 +56,7 @@
 | **Perceptible to** | The span first, measured against the room's own fittings and the ledger pages it lies across rather than against a shore. Then the unsteadiness, which is in the worker who is about to help rather than in the ground. |
 | **Handling** | Nobody crosses and nobody performs a service for anybody else inside the reading. The session stops at the first such act and not the third, because the span reads every one of them as a crossing. |
 | **Activation threshold** | No breach counter; activates on touching one end while naming the other person |
-| **Sorrow Gauge [HP]** | 386/386 |
+| **Sorrow Gauge [Pressure]** | 386/386 — read where it is handled — Nobody crosses and nobody performs a service for anybody else inside the reading. The session stops at the first such ac. Under 130 the handling in this file stands and the frame is holding at that load. From 260 it is checked at every shift change, and frame stress is read and signed at every watch. From 386 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the connection the span was trying to make and holds the reading steady, which is the correct result here and not a failed suppression. Ferrehan waits at one end for the length of a session without starting across, and lowers the gauge. |
 | **Location** | Zone C, Collector's Row |

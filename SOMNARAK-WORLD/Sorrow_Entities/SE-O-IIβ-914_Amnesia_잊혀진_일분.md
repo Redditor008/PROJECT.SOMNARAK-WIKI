@@ -54,7 +54,7 @@
 | **Perceptible to** | The intention first: at 1158 a worker stops being able to say what they were about to do, and the name and face go at 1159. The clocks do not mark the day in advance, and the radius is surveyed at its edge after the occurrence. |
 | **Handling** | Stand at the line and do not cross it. Nobody sits in the chair at the epicentre, nobody is named aloud inside the radius, and the roll call is completed at the line: every name on the board matched to a person. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [HP]** | 496/496 |
+| **Sorrow Gauge [Saturation]** | 496/496 — read where it is handled — Stand at the line and do not cross it. Nobody sits in the chair at the epicentre, nobody is named aloud inside the radiu. Under 170 the handling in this file stands and there is still room in it. From 330 it is timed from outside at every entry, and the emptiness is charted against the last reading. From 496 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, both performed from the line, which amounts to standing there with the board and the clocks. The table cannot hold the variable that matters, and the file keeps it separately: whether anybody crosses. |
 | **Location** | SECTOR-O-914, contained |

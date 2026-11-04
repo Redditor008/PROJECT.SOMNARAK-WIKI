@@ -56,7 +56,7 @@
 | **Perceptible to** | The water first, then the cold coming off it, and then the branches, which are the reading and are staked and measured rather than followed. |
 | **Handling** | Not dammed and not bailed. The stake line is walked and renewed, the channels are never cut, and no worker follows a branch past the perimeter. |
 | **Activation threshold** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels — no breach counter. |
-| **Sorrow Gauge [HP]** | 561/561 — the containment meter, read at the stake line |
+| **Sorrow Gauge [Depth]** | 561/561 — read at the stake line. Under 190 the handling in this file stands and the level sits where it sat last quarter. From 370 it is charted at every offering, and the level is charted against the quarter and the chart is signed. From 561 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker whose house a channel ends at; Ferrehan holds the stake line. A stable gauge is not a safe cycle here. |
 | **Location** | The Desolate, near The Scar |

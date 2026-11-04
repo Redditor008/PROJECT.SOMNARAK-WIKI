@@ -56,7 +56,7 @@
 | **Perceptible to** | The warm dry bone first, which is the identification the courts' two ordinary balances fail. Then the creak of the frame, the dishes settling unaided, and — for anyone standing inside the circle — the distinct sense of having been read. It displays no numerals anywhere. |
 | **Handling** | Not carried. A session is one hand on one dish at the plinth. Both hands, lifting, turning or moving the instrument are outside the protocol and have never been authorised. |
 | **Activation threshold** | A hand placed on one dish. No breach counter; the beam is read at the plinth and the circle marked at the session's ends. |
-| **Sorrow Gauge [HP]** | 506/506 — the containment meter, taken off both dishes at once, a single-pan reading being the one thing the Scale refuses to give |
+| **Sorrow Gauge [Saturation]** | 506/506 — taken off both dishes at once, a single-pan reading being the one thing the Scale refuses to give. Under 170 the handling in this file stands and there is still room in it. From 340 it is checked at every shift change, and the emptiness is charted against the last reading. From 506 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50%, and a watch opened with nothing yet laid on either dish reads at the bottom of that band |
 | **Handling** | No Work Types (`R-40`) — one hand on one dish, the circle re-marked outward, the beam read off both pans at once. Listing or lifting the instrument is outside the protocol and has never been authorised. |
 | **Location** | SECTOR-C-01, used by Collectors |

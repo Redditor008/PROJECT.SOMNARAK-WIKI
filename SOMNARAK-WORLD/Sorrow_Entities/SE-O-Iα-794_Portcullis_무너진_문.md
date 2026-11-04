@@ -54,7 +54,7 @@
 | **Mode of presence** | A fallen leaf beneath the tunnel stone, a square frame above it, hinges seated and the mechanism still working |
 | **Perceptible to** | The gap first — a threshold that is not passable and not damaged — and then the route and the people beyond it |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
-| **Sorrow Gauge [HP]** | 198/198 — the containment meter. It climbs by the seconds a held memory lasts, timed by the relief and growing longer every year |
+| **Sorrow Gauge [Depth]** | 198/198 — timed by the relief that reads it, and climbing by the seconds a held memory lasts, which has grown longer every year. Under 70 the handling in this file stands and the level sits where it sat last quarter. From 130 it is checked at every shift change, and the level is charted against the quarter and the chart is signed. From 198 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% — the low end belongs to watches opened by somebody who has not yet said where they would rather be |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone B, deep tunnels |

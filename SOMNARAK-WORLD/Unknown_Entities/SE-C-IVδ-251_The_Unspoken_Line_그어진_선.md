@@ -54,7 +54,7 @@
 | **Perceptible to** | The stop first — a road crossed ten thousand times, and the feet will not go — then the etiquette, enforced by everybody present and decided by nobody, and afterwards remembered by none of them. |
 | **Handling** | A resident from one side speaks honestly to a resident on the other about anything at all. The line is not marked, painted, paved over or officially abolished; the Commons has tried all three and the file records what each attempt cost. |
 | **Activation threshold** | Nine days without a board entry — the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 910/910 |
+| **Sorrow Gauge [Saturation]** | 910/910 — read where it is handled — A resident from one side speaks honestly to a resident on the other about anything at all. The line is not marked, paint. Under 300 the handling in this file stands and there is still room in it. From 610 it is re-probed at every watch, and the emptiness is charted against the last reading. From 910 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 55–70% |
 | **Valid Work Types** | Viderehan and Ferrehan, and the file says plainly that the table is nearly useless here. Viderehan maps the line, reveals which residents belong to which side, and shows how recently they were friends. Ferrehan is standing at the line long enough to become a neutral third presence both sides will approach. |
 | **Location** | A four-way junction in the Mantle Commons, Zone D |

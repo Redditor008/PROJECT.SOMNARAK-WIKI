@@ -56,7 +56,7 @@
 | **Speed** | N/A — no creature locomotion statistic. Track this mobile Place by its surveyed bearing, leading edge and elapsed external time, not by an entrant’s estimate |
 | **Resistance** | 30% against Void pressure; 20% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 623/623 |
+| **Sorrow Gauge [Saturation]** | 623/623 — read where the file says it is handled. Under 210 the handling in this file stands and there is still room in it. From 420 it is re-probed at every watch, and the emptiness is charted against the last reading. From 623 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Han Pressure [ATK]** | 18–41 per hit · Void |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

@@ -54,7 +54,7 @@
 | **Mode of presence** | A thin crimson trace spreading across cobbles, floors, walls and empty surfaces — a footprint with no walker — chalked at twelve fixed radial stations |
 | **Perceptible to** | Instrument first: the advance past last session's chalk, in centimetres. Felt afterwards as a fever-cold anger with no object in it, which the counselling wing distinguishes from anger because it cannot be discharged |
 | **Activation threshold** | A conduct grievance closed against a department, a post or a rotation rather than a named respondent. No counter and no gauge threshold on the file |
-| **Sorrow Gauge [HP]** | 225/225 — the containment meter, read on the circuit |
+| **Sorrow Gauge [Pressure]** | 225/225 — read on the circuit. Under 80 the handling in this file stands and the frame is holding at that load. From 150 it is re-probed at every watch, and frame stress is read and signed at every watch. From 225 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Pugnahan is not merely invalid here but impossible |
 | **Location** | Zone D, Mantle Commons |

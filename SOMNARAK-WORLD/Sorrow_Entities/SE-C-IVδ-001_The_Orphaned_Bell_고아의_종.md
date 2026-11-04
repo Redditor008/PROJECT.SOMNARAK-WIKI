@@ -55,7 +55,7 @@
 | **Mode of presence** | A dark Han-crystal bell in a tower built around it, beaded with cold, its corroded surface warped into small reaching hands, ringing without being struck |
 | **Perceptible to** | The toll first, through walls, floors and bone. Then the blue veins brightening inside the rim, and the faces that open on the tower as the bell takes up a name |
 | **Activation threshold** | Midnight inside the tower's audible district, the consolihan anniversary, or concentrated grief concerning missing children. No breach counter is kept |
-| **Sorrow Gauge [HP]** | 818/818 — the containment meter, read at the tower |
+| **Sorrow Gauge [Depth]** | 818/818 — read at the tower. Under 270 the handling in this file stands and the level sits where it sat last quarter. From 550 it is witnessed at every rite, and the level is charted against the quarter and the chart is signed. From 818 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Nothing else in the set applies to a tower that sounds without being struck |
 | **Location** | SECTOR-B-01 — special tower in Zone B; contained |

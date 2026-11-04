@@ -55,7 +55,7 @@
 | **Perceptible to** | The heat first — the tip scorches untreated wood within five seconds — then the wrapping blackening, eighteen micro-vibrations a minute through the plinth, and a ringing that carries through stone floors within six metres. |
 | **Handling** | Tongs or heat-resistant leather only, and the original hemp left wound. Two hands on the wrap, the pedestal cleared before anything is lifted, and no flinching at the plinth, because hesitation is a measured input here rather than a courtesy. |
 | **Activation threshold** | Single-use impact trigger — consumed upon activation |
-| **Sorrow Gauge [HP]** | 680/680 |
+| **Sorrow Gauge [Pressure]** | 680/680 — read where it is handled — Tongs or heat-resistant leather only, and the original hemp left wound. Two hands on the wrap, the pedestal cleared befo. Under 230 the handling in this file stands and the frame is holding at that load. From 450 it is signed by a second reader at every consultation, and frame stress is read and signed at every watch. From 680 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 40–60% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan records thermal cycles and crack propagation along the shaft and holds the gauge. Ferrehan endures holding the hot hemp wrap without dropping the weight, and lowers it. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |

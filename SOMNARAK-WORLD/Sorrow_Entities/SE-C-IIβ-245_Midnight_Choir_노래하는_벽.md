@@ -55,7 +55,7 @@
 | **Perceptible to** | The first note on the hour, then the break — always inside a word rather than at the end of a line — and then the next song starting immediately. The corridor is closed at both ends before the sequence begins. |
 | **Handling** | The book is open before midnight and stays open: every count and every break word entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure attached afterwards. |
 | **Activation threshold** | No breach counter; activates at midnight, with no other trigger recorded in sixty-one years |
-| **Sorrow Gauge [HP]** | 407/407 |
+| **Sorrow Gauge [Depth]** | 407/407 — read where it is handled — The book is open before midnight and stays open: every count and every break word entered verbatim, including the break. Under 140 the handling in this file stands and the level sits where it sat last quarter. From 270 it is re-probed at every watch, and the level is charted against the quarter and the chart is signed. From 407 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the sequence and holds the gauge; Ferrehan is the transcription kept through a night that does not resolve, and it lowers the gauge. Recording is not a Work Type, which is why the fourth voice is prohibited rather than scheduled. |
 | **Location** | Zone B, Old Lament |

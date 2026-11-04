@@ -54,7 +54,7 @@
 | **Perceptible to** | The hum first, then the settling: the wall drops a fraction in its sleep and the floor cracks where it settles. The sleep-twitch cracks mortar along four feet of the face, once, and nothing follows it. |
 | **Handling** | Presence offered and entry not forced: the full hour sat beside it, nothing asked and nothing knocked, with the gauge taken below twenty-five per cent before anybody approaches the face. |
 | **Activation threshold** | No breach counter. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
-| **Sorrow Gauge [HP]** | 198/198 |
+| **Sorrow Gauge [Saturation]** | 198/198 — read where it is handled — Presence offered and entry not forced: the full hour sat beside it, nothing asked and nothing knocked, with the gauge ta. Under 70 the handling in this file stands and there is still room in it. From 130 it is re-probed at every watch, and the emptiness is charted against the last reading. From 198 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what was available and not asked for — the fund, the rotation, the open door, the one-page form — and has never shown a refusal in thirty years. Ferrehan is the full hour sat beside it without knocking. |
 | **Location** | Zone D, Forge District — the empty lot behind the fourth barrack |

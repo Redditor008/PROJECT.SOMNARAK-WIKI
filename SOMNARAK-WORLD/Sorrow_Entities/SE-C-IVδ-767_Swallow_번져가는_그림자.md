@@ -55,7 +55,7 @@
 | **Perceptible to** | Detail going soft at the edges of whatever the worker is looking at. Then the worker's own shadow going transparent, and after that a hand that can be seen through. |
 | **Handling** | Name the source of the grief and return emotional ownership. Work the shift inside the fixed light and come out tethered to your own equipment. The perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary. |
 | **Activation threshold** | No breach counter; activates on an unrecognised loss carried to the memorial above with no office willing to record it |
-| **Sorrow Gauge [HP]** | 910/910 |
+| **Sorrow Gauge [Depth]** | 910/910 — read where it is handled — Name the source of the grief and return emotional ownership. Work the shift inside the fixed light and come out tethered. Under 300 the handling in this file stands and the level sits where it sat last quarter. From 610 it is re-probed at every watch, and the level is charted against the quarter and the chart is signed. From 910 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the mourners legible in outline — how many, how long ago, roughly who they came for. And never a name. Ferrehan is a full shift held inside the edge without taking ownership of anything in the air, marked by a counsellor afterwards and not by the worker. |
 | **Location** | Zone A, Alpha Tree |

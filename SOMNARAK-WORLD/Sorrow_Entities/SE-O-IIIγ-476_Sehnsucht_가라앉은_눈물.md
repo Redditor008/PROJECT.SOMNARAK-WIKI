@@ -55,7 +55,7 @@
 | **Perceptible to** | The glow under the ground first, then the depth of the uppermost surface below ground level, then the weight coming up through the boots from below rather than from anything in front of the worker. |
 | **Handling** | Reached for by nobody and brought up by nothing. The depth and the lit area are recorded at every watch, the worker sits beside it for the session without trying to raise it, and departure is timed by the watch commander rather than by the worker. |
 | **Activation threshold** | No breach counter; it holds its position on the ground and sinks when reached for |
-| **Sorrow Gauge [HP]** | 653/653 |
+| **Sorrow Gauge [Load]** | 653/653 — read where it is handled — Reached for by nobody and brought up by nothing. The depth and the lit area are recorded at every watch, the worker sits. Under 220 the handling in this file stands and the support is carrying it. From 440 it is checked at every shift change, and the support is re-checked and the load laid on again in the reading. From 653 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the event under the forgotten grief and holds the depth steady, and nothing surfaces for it. Ferrehan sits beside buried sorrow for the length of the session without trying to bring it up, and is the only work that raises it. |
 | **Location** | The Desolate, near The Scar |

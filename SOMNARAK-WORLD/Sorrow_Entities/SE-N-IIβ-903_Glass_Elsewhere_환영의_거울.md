@@ -56,7 +56,7 @@
 | **Perceptible to** | The place first — 188 of 211 viewers named it within a minute, and all 188 named somewhere that no longer exists. Then the figure, always somebody the viewer has lost and never facing them. |
 | **Handling** | One at the glass and one at the clock with authority to close the channel, both in the chamber before the viewing starts, with the counselling appointment booked ahead of the cycle rather than after it. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [HP]** | 426/426 |
+| **Sorrow Gauge [Saturation]** | 426/426 — read where it is handled — One at the glass and one at the clock with authority to close the channel, both in the chamber before the viewing starts. Under 140 the handling in this file stands and there is still room in it. From 280 it is charted at every offering, and the emptiness is charted against the last reading. From 426 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the category of the place inside the ninety-second clock, and the phantasmal reading is the whole of what it returns. Ferrehan holds the post to the timer, and the void pressure settles to it and not before it. Neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it easy. |
 | **Location** | SECTOR-N-903, contained |

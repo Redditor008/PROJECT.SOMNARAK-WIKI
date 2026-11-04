@@ -56,7 +56,7 @@
 | **Perceptible to** | The absence when rain crosses it, then the heartbeat, and finally the dial trace — which is the record, and is read seven days after the fact rather than at the site. |
 | **Handling** | Marked and left. Nothing is excavated and nothing is planted into it, no interim reading is taken and no visit is made inside the seven days. The manifestation stops within four seconds of a person arriving, so standing at it destroys the week. |
 | **Activation threshold** | No breach counter; activates on a person entered on this facility's registers with no recorded beginning |
-| **Sorrow Gauge [HP]** | 198/198 |
+| **Sorrow Gauge [Depth]** | 198/198 — read where it is handled — Marked and left. Nothing is excavated and nothing is planted into it, no interim reading is taken and no visit is made i. Under 70 the handling in this file stands and the level sits where it sat last quarter. From 130 it is charted at every offering, and the level is charted against the quarter and the chart is signed. From 198 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is worked from the recovered log rather than the field and holds level. Ferrehan is seven days away from an instrument that is working, with no interim reading and no visit permitted, and lowers the gauge. |
 | **Location** | The Desolate, near The Scar |

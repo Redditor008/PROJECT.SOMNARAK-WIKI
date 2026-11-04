@@ -55,7 +55,7 @@
 | **Mode of presence** | A shattered contract of red Han-crystal, its fragments hovering and rearranging into signatures that never complete, fever-cold and smelling of char, on the floor of Collector's Row |
 | **Perceptible to** | The arrangement first — fragments leaning toward whoever is speaking — and the cold, against the Row's other red-crystal objects, which are inert and warm |
 | **Activation threshold** | An undertaking spoken in contact with a shard. No breach counter; the holding escalates on condition rather than on a count |
-| **Sorrow Gauge [HP]** | 693/693 — the containment meter, read at the perimeter |
+| **Sorrow Gauge [Pressure]** | 693/693 — read at the perimeter. Under 230 the handling in this file stands and the frame is holding at that load. From 460 it is checked at every shift change, and frame stress is read and signed at every watch. From 693 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Flerehan and Pugnahan are not merely unhelpful here but unavailable, this being an object |
 | **Location** | SECTOR-C-01, Collector's Row |

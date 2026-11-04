@@ -56,7 +56,7 @@
 | **Perceptible to** | The beat first, at a rate that has not varied. Then the warmth of the amber, and the handler's own pulse arriving at the specimen's rate rather than their own. Neither the handler nor the party can feel it happen. |
 | **Handling** | Pulse taken at the door going in and coming out, the beats called aloud by an external caller from outside the glass, and the glass never opened. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [HP]** | 448/448 |
+| **Sorrow Gauge [Load]** | 448/448 — read where it is handled — Pulse taken at the door going in and coming out, the beats called aloud by an external caller from outside the glass, an. Under 150 the handling in this file stands and the support is carrying it. From 300 it is checked at every shift change, and the support is re-checked and the load laid on again in the reading. From 448 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both lower the gauge. Viderehan reads the darkening series against the beat and returns a record rather than a behaviour. Ferrehan is the sitting, and the weight settles around a party that takes the full cycle at the marked distance without shortening it. |
 | **Location** | SECTOR-C-901, contained |

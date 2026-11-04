@@ -59,7 +59,7 @@
 | **Speed** | No measured drift speed is supplied. The shard is already mobile in Old Lament; follow its bearing and wall-vibration line rather than treating it as a fixed device. |
 | **Resistance** | 35% against Weight pressure and 25% against everything else — resistance carried in the fabric rather than in anything that can be argued with |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 607/607 |
+| **Sorrow Gauge [Load]** | 607/607 — read where the file says it is handled. Under 200 the handling in this file stands and the support is carrying it. From 400 it is checked at every shift change, and the support is re-checked and the load laid on again in the reading. From 607 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Han Pressure [ATK]** | 14–33 per hit · Weight |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

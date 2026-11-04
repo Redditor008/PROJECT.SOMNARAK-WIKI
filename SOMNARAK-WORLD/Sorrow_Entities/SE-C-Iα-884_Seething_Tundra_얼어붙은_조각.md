@@ -55,7 +55,7 @@
 | **Mode of presence** | A palm-sized shard on a tray, under a standard lamp at a marked distance. Two counters on opposite sides of it |
 | **Perceptible to** | Cold that answers along the hairline rather than through the room, and a room whose pace slows while the shard is out |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
-| **Sorrow Gauge [HP]** | 208/208 — the containment meter. It is read before and after every cycle and the two readings are the cycle's own record |
+| **Sorrow Gauge [Saturation]** | 208/208 — . It is read before and after every cycle and the two readings are the cycle's own record. Under 70 the handling in this file stands and there is still room in it. From 140 it is charted at every offering, and the emptiness is charted against the last reading. From 208 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone D, Echo Gardens |

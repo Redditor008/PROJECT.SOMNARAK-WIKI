@@ -55,7 +55,7 @@
 | **Perceptible to** | The agreement first, then the second sleeper: one unprompted sleep inside a widened boundary, after which the contact rule resumes and has held for every subsequent case. The sound they report is the approaching sound, nearer each time. |
 | **Handling** | The cordon held without touching or moving the sleeper, the account taken on waking in a separate place from any other sleeper, barriers back on the rack, and no M.A.W. piece handed between personnel inside the district. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 750/750 |
+| **Sorrow Gauge [Saturation]** | 750/750 — read where it is handled — The cordon held without touching or moving the sleeper, the account taken on waking in a separate place from any other s. Under 250 the handling in this file stands and there is still room in it. From 500 it is charted at every rotation, and the emptiness is charted against the last reading. From 750 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the separate account on waking, which is the only content the file has ever had. Ferrehan is the wait outside reach, which has held for every case and neither approach has ever produced an early waking. |
 | **Location** | SECTOR-N-927, contained |

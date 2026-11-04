@@ -47,7 +47,7 @@
 | **Mode of presence** | A 25 × 15 cm box, black top, white bottom, pink lining, sitting where it was put in the acoustic-isolation vault, with a weeping figurine on a post that turns only while the lid is open |
 | **Perceptible to** | The lullaby by ear at about ten metres, muffled by the vault rather than stopped by it. Ash smell and bloodless cold on approach. The figurine's turning once the lid is up |
 | **Activation threshold** | The lid is opened, or the lullaby is listened to beyond one full recitation |
-| **Sorrow Gauge [HP]** | 420/420 — the containment meter, read at the vault door |
+| **Sorrow Gauge [Depth]** | 420/420 — read at the vault door. Under 140 the handling in this file stands and the level sits where it sat last quarter. From 280 it is charted at every rotation, and the level is charted against the quarter and the chart is signed. From 420 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan (map the song) and Ferrehan (endure it). Objects and Places are not engaged through Flerehan and are not confronted through Pugnahan |
 | **Location** | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |

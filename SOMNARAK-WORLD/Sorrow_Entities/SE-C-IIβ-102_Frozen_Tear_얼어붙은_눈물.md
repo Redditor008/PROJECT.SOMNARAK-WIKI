@@ -56,7 +56,7 @@
 | **Perceptible to** | The warmth first, which is the wrong way round and is the whole of the identification — if it is cold, it is not this. Then the steady inner light, best read at night, and cold rain on old cloth. |
 | **Handling** | No contact under any authority. The prohibition is the containment and it has been refused to two Directors who asked. Viderehan is conducted at the case with the opening drawing for reference; Ferrehan is sitting inside the field for the interval. |
 | **Activation threshold** | No breach counter; no trigger is required |
-| **Sorrow Gauge [HP]** | 415/415 — read on the bench side of the case. The figure has not moved since the record began, and the radius is the number that moves. |
+| **Sorrow Gauge [Depth]** | 415/415 — read on the bench side of the case. The figure has not moved since the record began, and the radius is the number that moves. Under 140 the handling in this file stands and the level sits where it sat last quarter. From 280 it is checked at every shift change, and the level is charted against the quarter and the chart is signed. From 415 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the moment itself and moves the gauge not at all; Ferrehan is the sitting, and it is the row that produces the decrease. |
 | **Location** | SECTOR-D-02, Echo Gardens |

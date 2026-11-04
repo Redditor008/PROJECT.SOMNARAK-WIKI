@@ -58,7 +58,7 @@
 | **Speed** | N/A — no drift rate has ever been measured. It is carried by the Desolate's cold currents rather than walking, and its bearing is recorded separately from viewing duration |
 | **Resistance** | 15% against Grudge. The plate has been struck once, in Year 4,229, by a worker who had looked into it for eleven minutes. The surface took no damage and the crack pattern changed that night. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 198/198 |
+| **Sorrow Gauge [Pressure]** | 198/198 — read where the file says it is handled. Under 70 the handling in this file stands and the frame is holding at that load. From 130 it is checked at every shift change, and frame stress is read and signed at every watch. From 198 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Han Pressure [ATK]** | 3–10 per hit · Grudge |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | α — affects pressure, durability, and escalation severity |

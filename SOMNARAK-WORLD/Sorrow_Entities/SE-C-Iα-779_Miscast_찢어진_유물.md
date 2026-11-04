@@ -56,7 +56,7 @@
 | **Perceptible to** | The gap first — eleven millimetres at baseline, and it is the instrument rather than an absence — then the drift against the edge of the mount volume, and the weight of a purpose the pieces no longer have. |
 | **Handling** | Read optically twice a session, between the two largest fragments at their closest approach. Nothing is passed into the mount volume and nothing is helped together. A gap that widens by eight millimetres or more opens a documents search rather than a field response. |
 | **Activation threshold** | No breach counter; activates on arranging the fragments in their former order |
-| **Sorrow Gauge [HP]** | 181/181 |
+| **Sorrow Gauge [Pressure]** | 181/181 — read where it is handled — Read optically twice a session, between the two largest fragments at their closest approach. Nothing is passed into the. Under 60 the handling in this file stands and the frame is holding at that load. From 120 it is checked at every shift change, and frame stress is read and signed at every watch. From 181 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals what the artifact was for, in detail, including the specification language it was ordered against, and holds the gauge. Ferrehan watches the pieces approach and stop short, repeatedly, and lowers it. |
 | **Location** | Zone D, Forge District |

@@ -56,7 +56,7 @@
 | **Perceptible to** | The crimson light before the outline, and then recognition, which is not the same as knowing what it is. Witnesses present grow uncertain about unrelated things — their route, their reason for being in the district, whether they have already spoken to somebody. |
 | **Handling** | Nothing is done to the object. The cordon is set and held, the form is recorded as found, the district association is briefed, and nobody says within its hearing or outside it that the relic has come back. |
 | **Activation threshold** | No breach counter; activates on touch or recognition by someone who remembers it |
-| **Sorrow Gauge [HP]** | 809/809 |
+| **Sorrow Gauge [Pressure]** | 809/809 — read where it is handled — Nothing is done to the object. The cordon is set and held, the form is recorded as found, the district association is br. Under 270 the handling in this file stands and the frame is holding at that load. From 540 it is checked at every shift change, and frame stress is read and signed at every watch. From 809 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only, both worked at distance. Viderehan reads the return — the light, the position, the duration — and holds the gauge. Ferrehan tests whether a worker can stand a return they recognise without acting on it, and lowers it. |
 | **Location** | Zone B, Old Lament |

@@ -56,7 +56,7 @@
 | **Perceptible to** | The lean first, read on the cord as a number. Then the glow inside, the empty rooms, and the ground beneath a structure that should be shedding and is not. |
 | **Handling** | The reading is taken from outside on the cord and the interior is entered only on the clock. A movement of more than half a degree inside one session ends it. Nothing is reconstructed and nothing is undermined. |
 | **Activation threshold** | No breach counter; activates on attempts to complete the abandoned plan |
-| **Sorrow Gauge [HP]** | 200/200 |
+| **Sorrow Gauge [Saturation]** | 200/200 — read where it is handled — The reading is taken from outside on the cord and the interior is entered only on the clock. A movement of more than hal. Under 70 the handling in this file stands and there is still room in it. From 130 it is checked at every shift change, and the emptiness is charted against the last reading. From 200 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the observer the people the rooms were specified for and holds the gauge. Ferrehan tests whether a worker can stand inside an unfinished thing without mentally finishing it, and lowers the gauge. |
 | **Location** | Zone E, Border region |

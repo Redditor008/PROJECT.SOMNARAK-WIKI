@@ -56,7 +56,7 @@
 | **Perceptible to** | The tick first, which is the identification and which nobody has ever been able to count. Then the cold lead-heavy casing gone green, the smell of wet stone, and — inside the line — the sensation of having already done the thing one is about to do. |
 | **Handling** | Not carried and not wound. The field is what travels; the instrument stays where it stands. Winding, forcing the hands, or attempting repair are prohibited rather than discouraged, and the two authorised interventions on file changed nothing. |
 | **Activation threshold** | Proximity, direct contact, or hostile intent. No breach counter; the field is read from the chalk line and the interval from the outside clock. |
-| **Sorrow Gauge [HP]** | 739/739 — the containment meter, read outside the line |
+| **Sorrow Gauge [Load]** | 739/739 — read outside the line. Under 250 the handling in this file stands and the support is carrying it. From 490 it is checked at every shift change, and the support is re-checked and the load laid on again in the reading. From 739 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Handling** | No Work Types (`R-40`) — the field travels and the instrument does not. Every cycle is held by two people, one inside the radius and one outside it with the watch clock, and neither is optional. |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage — contained |

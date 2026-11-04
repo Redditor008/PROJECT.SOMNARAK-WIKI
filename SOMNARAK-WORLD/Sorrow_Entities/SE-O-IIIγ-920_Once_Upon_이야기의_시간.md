@@ -54,7 +54,7 @@
 | **Perceptible to** | A voice in an empty room beginning *once upon a time* and not stopping there. Then the street filling with everyone the district forgot, and a character using a worker's name as though it had always been in the story. |
 | **Handling** | Sit the hour out at the perimeter and write down what is told, checking the list against the register at the close. Any new story is entered with the date and whoever recognised it, and the nine entries with no recogniser are kept and marked as such. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [HP]** | 520/520 |
+| **Sorrow Gauge [Depth]** | 520/520 — read where it is handled — Sit the hour out at the perimeter and write down what is told, checking the list against the register at the close. Any. Under 170 the handling in this file stands and the level sits where it sat last quarter. From 350 it is timed from outside at every entry, and the level is charted against the quarter and the chart is signed. From 520 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Both are run from the perimeter: observation makes the tale pressure legible, and endurance is sitting the hour in full. The figure that actually moves the gauge is how many tellers are named aloud during the hour. |
 | **Location** | SECTOR-O-920, contained |

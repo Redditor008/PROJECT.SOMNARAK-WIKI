@@ -56,7 +56,7 @@
 | **Perceptible to** | The quiet first — a field where sound goes in and does not come back — then the reference fork dying short of its usual distance, which is how the boundary is found and how wide it is. |
 | **Handling** | The fork is walked and the distance recorded; nobody strikes the bell to settle the question and nobody speaks at the plinth. The radius is entered against the inspectorate's name rather than the gauge. |
 | **Activation threshold** | No breach counter; activates on touch while saying, “I am listening.” |
-| **Sorrow Gauge [HP]** | 441/441 |
+| **Sorrow Gauge [Saturation]** | 441/441 — read where it is handled — The fork is walked and the distance recorded; nobody strikes the bell to settle the question and nobody speaks at the pl. Under 150 the handling in this file stands and there is still room in it. From 290 it is checked at every shift change, and the emptiness is charted against the last reading. From 441 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker a warning that was issued, in order, and did not arrive — the folder holds two hundred of them — and holds level. Ferrehan stands the interval in the quiet without striking anything and without speaking, and lowers the gauge. |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |

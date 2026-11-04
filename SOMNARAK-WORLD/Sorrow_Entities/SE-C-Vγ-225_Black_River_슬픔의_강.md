@@ -57,7 +57,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Weight pressure; 35% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 750/750 |
+| **Sorrow Gauge [Load]** | 750/750 — read where the file says it is handled. Under 250 the handling in this file stands and the support is carrying it. From 500 it is re-probed at every watch, and the support is re-checked and the load laid on again in the reading. From 750 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Han Pressure [ATK]** | 30–52 per hit · Weight |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

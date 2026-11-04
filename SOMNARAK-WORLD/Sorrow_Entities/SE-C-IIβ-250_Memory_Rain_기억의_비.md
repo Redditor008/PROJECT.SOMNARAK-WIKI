@@ -55,7 +55,7 @@
 | **Perceptible to** | The first drop on the skin, and inside it something the visitor had put down years ago. Then the saturation, as every drop is a different loss and the visitor is standing in all of them at once. |
 | **Handling** | Collect drops carefully and provide identity anchors. The rate, extent and duration of the fall can be catalogued and the beads cannot: nothing inside one has ever been written down on purpose, and the worker's whole job is to hold on to which life is theirs. |
 | **Activation threshold** | No breach counter; activates on memory accumulation beyond the city's capacity |
-| **Sorrow Gauge [HP]** | 415/415 |
+| **Sorrow Gauge [Depth]** | 415/415 — read where it is handled — Collect drops carefully and provide identity anchors. The rate, extent and duration of the fall can be catalogued and th. Under 140 the handling in this file stands and the level sits where it sat last quarter. From 280 it is re-probed at every watch, and the level is charted against the quarter and the chart is signed. From 415 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan catalogues the fall; Ferrehan is standing under it holding on to which life is theirs, for as long as the timekeeper allows and not a minute longer. |
 | **Location** | Zone D, Echo Gardens — periodic |

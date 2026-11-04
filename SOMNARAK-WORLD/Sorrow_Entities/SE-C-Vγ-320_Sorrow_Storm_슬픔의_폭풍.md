@@ -55,7 +55,7 @@
 | **Perceptible to** | The pressure drop first, days before the black ceiling is visible. Then the first gust carrying old grief like grit, and the crystal rain arriving after the ring has already said so. |
 | **Handling** | Acknowledge sorrow and shelter until the Storm passes. Sirens on full-ring confirmation only, shelter by floor, a named roll-call, people secured before archives, and resumption in stages on the ring's word. Shelter is success, not defeat of the weather. |
 | **Activation threshold** | No breach counter; it forms over the city and runs the connected Han flows without travelling as a body |
-| **Sorrow Gauge [HP]** | 750/750 |
+| **Sorrow Gauge [Load]** | 750/750 — read where it is handled — Acknowledge sorrow and shelter until the Storm passes. Sirens on full-ring confirmation only, shelter by floor, a named. Under 250 the handling in this file stands and the support is carrying it. From 500 it is re-probed at every watch, and the support is re-checked and the load laid on again in the reading. From 750 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is barometers in triplicate, gauge tapes running continuously and the sounding line in the shaft, all read from the ring. Ferrehan is standing it out inside the perimeter on ballast anchors, earthed, calling figures aloud at intervals — the only thing that moves the gauge. And it moves it a little. |
 | **Location** | All zones — periodic phenomenon |

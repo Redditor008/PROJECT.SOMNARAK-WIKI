@@ -56,7 +56,7 @@
 | **Perceptible to** | The drift on a carried timepiece first, which is how the field is found at all, then the lateness of a voice reaching the person standing next to it. Nobody identifies this holding by feel, because everybody inside it misjudges the time — consistently, and in both directions. |
 | **Handling** | The watch is set against the facility clock, positions are taken, and one instruction is given once. A sealed timepiece is carried by the watch and surrendered on exit, and no second instruction is issued without the first being confirmed as arrived. |
 | **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
-| **Sorrow Gauge [HP]** | 772/772 |
+| **Sorrow Gauge [Load]** | 772/772 — read where it is handled — The watch is set against the facility clock, positions are taken, and one instruction is given once. A sealed timepiece. Under 260 the handling in this file stands and the support is carrying it. From 510 it is charted at every offering, and the support is re-checked and the load laid on again in the reading. From 772 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the field's effect on a carried timepiece and widens the field by the ground it is walked across. Ferrehan is standing in a moment that will not conclude without trying to force it, and lowers it. Both are timed to the facility clock and to nothing in the room. |
 | **Location** | Zone C, near Collector's Row |

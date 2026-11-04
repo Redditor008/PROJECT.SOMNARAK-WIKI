@@ -55,7 +55,7 @@
 | **Mode of presence** | A basin in the Gardens that has never moved, holding every grief the district has put in it. The damp is its footprint and the moss line is where the footprint was |
 | **Perceptible to** | Anyone approaching the water while suppressing tears or an unfinished mourning — which is the activation and not a warning of it |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [HP]** | 653/653 — the containment meter, read at the rim before and after the watch, and the pool is left at the depth it was found |
+| **Sorrow Gauge [Depth]** | 653/653 — read at the rim before and after the watch, and the pool is left at the depth it was found. Under 220 the handling in this file stands and the level sits where it sat last quarter. From 440 it is charted at every offering, and the level is charted against the quarter and the chart is signed. From 653 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Handling** | No Work Types (`R-40`) — witness at the rim and the chalk survey. No other approach is authorised, and the file says a third one is not being withheld but absent |
 | **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): nothing is returned and the attempt is charged in full. Reading the drops holds the gauge; remaining at the rim brings it down. |

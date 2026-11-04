@@ -56,7 +56,7 @@
 | **Perceptible to** | The wetted margin first — the damp reading against the chalk — then the drips, then the grade, which deepens by carrying anger into the room rather than by doing anything in it. |
 | **Handling** | Chalk marks counted before anything else, because the outline moves and the marks are the only record of where it used to be. Positions taken outside the wetted margin, the card not read until the outline is marked. And cleared Wardens only — cleared that week, checked at the door rather than at the roster. |
 | **Activation threshold** | No breach counter; activates on contact, or anger directed at it on purpose |
-| **Sorrow Gauge [HP]** | 640/640 |
+| **Sorrow Gauge [Pressure]** | 640/640 — read where it is handled — Chalk marks counted before anything else, because the outline moves and the marks are the only record of where it used t. Under 210 the handling in this file stands and the frame is holding at that load. From 430 it is checked at every shift change, and frame stress is read and signed at every watch. From 640 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is the lodged complaints read aloud in the voices that wrote them, in no order and without end, and holds the gauge. Ferrehan is standing the interval beside it without contributing anything of your own, and lowers it. |
 | **Location** | Zone A, Alpha Tree vault |

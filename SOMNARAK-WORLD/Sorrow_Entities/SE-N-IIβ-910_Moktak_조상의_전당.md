@@ -55,7 +55,7 @@
 | **Perceptible to** | The weight first, arriving at the third exchange rather than at the door, and the gap in the ring turned to face whoever has entered. A worker's own surname may be spoken by one of the back three groups, and the weight redistributes onto that single chair. |
 | **Handling** | Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been authorised inside the hall; every piece in the set was extracted afterwards, from the emptied room. Attendance is capped at ten intervals. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [HP]** | 410/410 |
+| **Sorrow Gauge [Load]** | 410/410 — read where it is handled — Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been autho. Under 140 the handling in this file stands and the support is carrying it. From 270 it is re-probed at every watch, and the support is re-checked and the load laid on again in the reading. From 410 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both work by being present without joining in. Viderehan makes the weight legible as a record of a dispute the worker is not party to. Ferrehan is sitting the interval without taking a turn in it. |
 | **Location** | SECTOR-N-910, contained |

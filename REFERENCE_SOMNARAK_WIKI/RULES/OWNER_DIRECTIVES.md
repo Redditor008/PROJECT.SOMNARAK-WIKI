@@ -236,6 +236,31 @@ Type — Places, Times, Hazards, 61 of them — read the clock off `Entity Type`
 **Status:** DONE — **143 of 143 relic dossiers** carry a per-second dose with a tightening clock
 and a reset.
 
+### O-34 · A gauge must change an instruction
+**Your words (batch 194):** *"WHAT THE USED OF HP ON RELIC SE THAT WONT USED THE HP, YES POSSESSION
+CAN USED THE HP SO FOR RELIC SE THAT WILL NEVER BREACH FIRST ERASE THE [HP] AND TRANSFORMS THE HP
+NUMBER INTO A MEANINGFUL GAUGE SO WHAT GOOD USED THE GAUGE THAT IS NOT USED FOR SE HP SO THINK OF
+THAT"*
+
+**What it means.** `HP` means *a number, it can reach zero, at zero the thing stops* — a
+suppression mechanic. A relic that never breaches is never suppressed, so its `[HP]` had no
+referent. Measured before the rule: **all 141** non-possession relic gauges read at their own
+ceiling — every one, always full. A meter pinned at maximum has never been read to decide
+anything.
+
+**The answer to "what good is a gauge that isn't HP".** A gauge earns its ink only at a band
+boundary that changes an instruction. So a non-breaching relic's gauge is a **state meter** named
+for what it is made of — **Grudge → [Pressure]** · **Weight → [Load]** · **Lament → [Depth]** ·
+**Void → [Saturation]** — with three ascending bands and a different instruction at each. The
+ceiling is a decision, not a death: at the top the file stops being permissions and becomes a
+prohibition that only the Standing Order can lift.
+
+**Possession keeps `[HP]`** (the bearer is what falls) by your word, and **breaching relics keep
+it** (suppression is what HP is for). **134 dossiers** converted.
+
+**Lives in:** `R-48`. **Checked by:** `check_relic_gauge.py` (gate 93).
+**Status:** DONE — 134 state meters · 9 keeping `[HP]` · ratchet 0.
+
 ---
 
 ## D. The Tale
@@ -340,7 +365,8 @@ These are the orders that are **not** satisfied today. This is the honest state 
 | **O-08** | relic Handling Process | **131 of 143** | The largest single unfixed order. Each file needs its Behavior section rebuilt as a four-stage Handling Process. |
 | **O-23** | Tale registers | **181 plain** | 116 declare a register; 181 Tales read as a story but never say which. Cheap per file, many files. |
 | **O-19** | no AI constructions | **311 reported** | Down from 332. Every one needs a sentence rewritten, not deleted. |
-| — | relic interaction damage | **0** | Done this batch: 143/143 on a per-second clock. |
+| — | relic interaction damage | **0** | Done batch 193: 143/143 on a per-second clock. |
+| — | relic gauge | **0** | Done batch 194: 134 state meters, 9 keeping [HP] as ordered. |
 | **O-21** | concrete, not vague | unmeasured | No checker exists. Held by reading only. |
 | **O-22** | section contracts | partial | Form lines: 188 under 40 words · 7 over 130 · 86 repeat their own marker · 134 thin. |
 | **O-14** | subject shape diversity | partial | Not audited. |

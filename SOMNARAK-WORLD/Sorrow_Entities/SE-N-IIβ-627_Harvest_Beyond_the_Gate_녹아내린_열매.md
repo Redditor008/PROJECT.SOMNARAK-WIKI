@@ -55,7 +55,7 @@
 | **Perceptible to** | The smell first — sweet and burned at once — then the crimson ground underfoot and the shape of rows beneath it. Past the first half-hour among the rows, personnel lose the middle of the morning and smell the fruit before they can say what is missing. |
 | **Handling** | Worked from the path, upwind wherever the wind allows: nobody steps onto the crimson ground, nobody picks, and nobody tells anybody they will come back. The frontage is paced before the cycle and again after it. |
 | **Activation threshold** | No breach counter. The frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
-| **Sorrow Gauge [HP]** | 415/415 |
+| **Sorrow Gauge [Pressure]** | 415/415 — read where it is handled — Worked from the path, upwind wherever the wind allows: nobody steps onto the crimson ground, nobody picks, and nobody te. Under 140 the handling in this file stands and the frame is holding at that load. From 280 it is re-probed at every watch, and frame stress is read and signed at every watch. From 415 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | Never at zero and never at rest — 35–50% the moment a watch opens, because the ground is already working before anybody walks out to it. |
 | **Valid Work Types** | Viderehan and Ferrehan only, both from the path. Viderehan reads the rows as a record of what was promised and not kept. Ferrehan is the patient pacing of a frontage that gains about a foot a week, which is the only work that has ever held it. |
 | **Location** | Zone E, Exile's Gate vicinity |

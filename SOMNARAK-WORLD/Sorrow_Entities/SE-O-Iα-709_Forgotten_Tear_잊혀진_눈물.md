@@ -55,7 +55,7 @@
 | **Perceptible to** | The weight in the hand first, between eleven and thirty-four grams across 212 cycles. Then the warmth, and the grievance beneath the grief, which is what Viderehan reads. |
 | **Handling** | Held by one worker at a time and put down of their own accord, with the closing weight read against the opening weight. A second worker opens the hand if the holder will not, and the 28 cycles that closed heavier are the record of who should not be rebooked. |
 | **Activation threshold** | No breach counter; a discrete crystal that sits where it is placed and is carried by its handler |
-| **Sorrow Gauge [HP]** | 198/198 |
+| **Sorrow Gauge [Pressure]** | 198/198 — read where it is handled — Held by one worker at a time and put down of their own accord, with the closing weight read against the opening weight. Under 70 the handling in this file stands and the frame is holding at that load. From 130 it is checked at every shift change, and frame stress is read and signed at every watch. From 198 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grievance beneath the grief and holds the gauge. Ferrehan tests whether the worker can hold it without claiming it, and lowers the gauge. |
 | **Location** | Zone A, Alpha Tree vault |

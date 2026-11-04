@@ -55,7 +55,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 15% against Lament pressure, 5% against other pressure types — a standing figure read at the Commons edge. Nothing here has struck anybody and no instrument has registered a vibration from it. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 196/196 |
+| **Sorrow Gauge [Depth]** | 196/196 — read where the file says it is handled. Under 70 the handling in this file stands and the level sits where it sat last quarter. From 130 it is re-probed at every watch, and the level is charted against the quarter and the chart is signed. From 196 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Han Pressure [ATK]** | 3–9 per hit · Lament |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | α — affects pressure, durability, and escalation severity |

@@ -56,7 +56,7 @@
 | **Perceptible to** | The weight of it first, though nothing is being carried. Then the drift of a worker's own account of their childhood, and the count, which is the only reading that has ever predicted the hour that follows. Pressure, temperature and gauge have stayed flat across incidents and the count has not. |
 | **Handling** | Counted before anything else and the number written on the board at the door. Nobody names a person aloud in the room, Wardens are instructed to interrupt a worker who begins a sentence with a name, and the Chain is left slack along its stand. |
 | **Activation threshold** | No breach counter; activates on touching a link while naming its owner |
-| **Sorrow Gauge [HP]** | 484/484 |
+| **Sorrow Gauge [Load]** | 484/484 — read where it is handled — Counted before anything else and the number written on the board at the door. Nobody names a person aloud in the room, W. Under 160 the handling in this file stands and the support is carrying it. From 320 it is checked at every shift change, and the support is re-checked and the load laid on again in the reading. From 484 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan displays the relationships between memories and holds the gauge. Ferrehan tests whether the worker can carry shared history, and is the row that lowers it. Neither requires a link to be touched. |
 | **Location** | SECTOR-C-01, Collector's Row |

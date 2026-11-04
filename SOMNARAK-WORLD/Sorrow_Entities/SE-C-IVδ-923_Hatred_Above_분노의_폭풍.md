@@ -55,7 +55,7 @@
 | **Perceptible to** | The weight of a grudge that has no subject in it, settling over whoever is standing nearest. Then the pressure acquiring a direction — onto one point of the floor. And onto the person who answered rather than the person who shouted. |
 | **Handling** | Get distance, stop shouting, and do not answer. Opening distance is the response across the sixty-three incidents on file. The mean is under two minutes and is not an upper bound, because the one answered incident lasted four and a half. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [HP]** | 750/750 |
+| **Sorrow Gauge [Pressure]** | 750/750 — read where it is handled — Get distance, stop shouting, and do not answer. Opening distance is the response across the sixty-three incidents on fil. Under 250 the handling in this file stands and the frame is holding at that load. From 500 it is charted at every rotation, and frame stress is read and signed at every watch. From 750 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Both are performed from outside the marked rectangle: observation is the inward-angled watch, and endurance is the discipline of the interval — standing and waiting your turn from the floor that is not under it. |
 | **Location** | SECTOR-C-923, contained |

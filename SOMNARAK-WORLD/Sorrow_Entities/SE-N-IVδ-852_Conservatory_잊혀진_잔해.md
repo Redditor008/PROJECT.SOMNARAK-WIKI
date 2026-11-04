@@ -56,7 +56,7 @@
 | **Perceptible to** | The outline first, at fourteen marked stations. Then the warmth of a room that is not being offered, and the detail sharpening until the shape reads as the house. |
 | **Handling** | Nothing in the radius is built, braced, shored, tidied or shifted to resemble the house. A recollection resembling it is removed and logged with the name of whoever introduced it, and the margin is walked for combustible material before anything else is attempted. |
 | **Activation threshold** | No breach counter; activates on attempting to reconstruct the remembered structure |
-| **Sorrow Gauge [HP]** | 873/873 |
+| **Sorrow Gauge [Pressure]** | 873/873 — read where it is handled — Nothing in the radius is built, braced, shored, tidied or shifted to resemble the house. A recollection resembling it is. Under 290 the handling in this file stands and the frame is holding at that load. From 580 it is checked at every shift change, and frame stress is read and signed at every watch. From 873 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the love and the failure together, which cannot be separated, and holds the gauge. Ferrehan stands in the margin of a house built for people who are not coming and puts nothing right, which is the row that lowers it. |
 | **Location** | Zone C, Mask Market |

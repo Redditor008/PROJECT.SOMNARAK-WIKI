@@ -55,7 +55,7 @@
 | **Perceptible to** | The shape of a ruin that is not there, then the pacing — long-serving wardens walk the rooms out unconsciously, and the briefing asks them to notice rather than to stop. |
 | **Handling** | Memorialise the structure and do not reconstruct a version of it. No plan is filed for the site, not even a sketch, because all three of the recorded returns followed a written proposal filed elsewhere in the building. |
 | **Activation threshold** | No breach counter; activates on a properly made decision that nobody affected could speak to |
-| **Sorrow Gauge [HP]** | 415/415 |
+| **Sorrow Gauge [Pressure]** | 415/415 — read where it is handled — Memorialise the structure and do not reconstruct a version of it. No plan is filed for the site, not even a sketch, beca. Under 140 the handling in this file stands and the frame is holding at that load. From 280 it is re-probed at every watch, and frame stress is read and signed at every watch. From 415 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rooms in order with the people who used them. Ferrehan is staying inside the resolved walls for the interval, knowing they go when the watching stops. |
 | **Location** | Zone A, Alpha Tree vault |

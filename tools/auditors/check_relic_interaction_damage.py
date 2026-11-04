@@ -42,7 +42,9 @@ TYPE = re.compile(r'\*\*Entity Type\*\*\s*\|\s*([^|]+)\|')
 TOOLTYPE = re.compile(r'\*\*Tool Type\*\*\s*\|\s*([^|]+)\|')
 WORK_DAMAGE = re.compile(r'^\|\s*\*\*Work Damage\*\*\s*\|\s*([^\n]*?)\s*\|\s*$', re.M)
 ATK_ROW = re.compile(r'^\|\s*\*\*ATK\*\*\s*\|', re.M)
-GAUGE = re.compile(r'^\|\s*\*\*Sorrow Gauge \[HP\]\*\*\s*\|', re.M)
+# R-48: a non-breaching relic reads a state meter, not [HP]. Either satisfies the
+# "this holding has a containment reading" requirement.
+GAUGE = re.compile(r'^\|\s*\*\*Sorrow Gauge \[[^\]]+\]\*\*\s*\|', re.M)
 
 # --- the dose ---------------------------------------------------------------
 # a clock: `/ 10 s`, `per 10 s`, `every 10 s`

@@ -49,7 +49,7 @@
 | **Perceptible to** | The turning inside the crystal, visible at the keyhole and at the plate. Then the ash and the flat cold. And, in the worker, the beginning of a case for authorised access. |
 | **Handling** | Not opened, not forced, and not instrumented beyond the plate photographs. The key is not touched and the vault is not entered; the five recorded cases are all workers who began offering to help. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
-| **Sorrow Gauge [HP]** | 574/574 — the containment meter, read at the plate |
+| **Sorrow Gauge [Saturation]** | 574/574 — read at the plate. Under 190 the handling in this file stands and there is still room in it. From 380 it is charted at every offering, and the emptiness is charted against the last reading. From 574 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the plate and the marks; Ferrehan stands the watch without attempting the seal. The key the Lock keeps turns for those two Work Types and for nothing else. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault |

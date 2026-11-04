@@ -57,7 +57,7 @@
 | **Speed** | Corridor bank recorded at roughly walking pace; no fixed bodily combatant |
 | **Resistance** | 30% against Lament pressure; 21% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 750/750 |
+| **Sorrow Gauge [Depth]** | 750/750 — read where the file says it is handled. Under 250 the handling in this file stands and the level sits where it sat last quarter. From 500 it is charted at every rotation, and the level is charted against the quarter and the chart is signed. From 750 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Han Pressure [ATK]** | 30–40 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |

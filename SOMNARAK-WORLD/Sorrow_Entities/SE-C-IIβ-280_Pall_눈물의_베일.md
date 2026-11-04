@@ -56,7 +56,7 @@
 | **Perceptible to** | The damp first, four metres past the frame in a corridor where eleven people work and none of them can tell they are standing in it. Then the salt, the smell. And a handover note that has got shorter than it was. |
 | **Handling** | Not lifted, not draped and not worn, by anybody, for any reason. The frame is not moved and the edge is measured at the floor marks. The room's account is taken from two workers who are outside the field. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
-| **Sorrow Gauge [HP]** | 415/415 — the containment meter, read at the dulled edge |
+| **Sorrow Gauge [Depth]** | 415/415 — read at the dulled edge. Under 140 the handling in this file stands and the level sits where it sat last quarter. From 280 it is checked at every shift change, and the level is charted against the quarter and the chart is signed. From 415 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Ferrehan stands beside the frame; Viderehan surveys the dulled edge and reads the room's own account against it. |
 | **Location** | Zone D, Echo Gardens |

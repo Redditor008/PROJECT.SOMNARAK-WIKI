@@ -56,7 +56,7 @@
 | **Perceptible to** | The tick and the thread running from the crack; the cold lead-heavy glass; the smell of wet stone and iron. Posture and gait across the vault change before the needle does, which is why the crossing time is logged at both doors. |
 | **Handling** | Not turned, not sealed, not carried. The glass does not reset and the volume in the lower bulb is unchanged between every pair of consecutive readings ever taken. A cycle that slows the fall for a shift has still not stopped it. |
 | **Activation threshold** | Touch or prolonged observation. No breach counter; the crack is gauged with the feeler strip before and after, at both doors. |
-| **Sorrow Gauge [HP]** | 501/501 — the containment meter, read at both doors rather than at the plinth |
+| **Sorrow Gauge [Load]** | 501/501 — read at both doors rather than at the plinth. Under 170 the handling in this file stands and the support is carrying it. From 330 it is checked at every shift change, and the support is re-checked and the load laid on again in the reading. From 501 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Handling** | No Work Types (`R-40`) — not turned, not sealed, not carried. A grain may be resolved at the plinth and a worker may hold position beside it for fifteen minutes. Nothing is reset and nothing is stopped. |
 | **Location** | SECTOR-A-01, Alpha Tree vault — contained |

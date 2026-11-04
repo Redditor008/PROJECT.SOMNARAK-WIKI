@@ -56,7 +56,7 @@
 | **Perceptible to** | The light at the gap first, then the voice, which everyone in the radius hears as addressed to them personally. The gap is measured, not heard: four rim points, to a tenth of a millimetre, before anybody sits down. |
 | **Handling** | Feelers out before anything else. The gap measured at the four marked points and the mean entered. Two listeners seated for the interval. Nobody lifts the lid and nobody reaches for it. The lid is re-seated by hand, which takes one person about a minute. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [HP]** | 502/502 |
+| **Sorrow Gauge [Saturation]** | 502/502 — read where it is handled — Feelers out before anything else. The gap measured at the four marked points and the mean entered. Two listeners seated. Under 170 the handling in this file stands and there is still room in it. From 330 it is checked at every shift change, and the emptiness is charted against the last reading. From 502 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the pleading legible as pleading, which is not the same as intelligible. Ferrehan lowers the gauge by patience alone, with the worker sitting the interval out and not reaching for the lid. Neither Work Type moves the gap. |
 | **Location** | SECTOR-N-905, contained |

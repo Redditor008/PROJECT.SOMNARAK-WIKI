@@ -55,7 +55,7 @@
 | **Perceptible to** | The set count first, taken at the fall against the empty stems, which have always matched it exactly. Then, for a worker standing in the rows, the specific thing they earned and never received, arriving without being looked for. |
 | **Handling** | Hands kept down for the hour, nothing picked, the desire acknowledged aloud with no fulfilment promised, and the set count and the stem count taken and reported side by side rather than as one figure. |
 | **Activation threshold** | No breach counter; seasonal footprint expansion and withdrawal in place, with no breach recorded |
-| **Sorrow Gauge [HP]** | 357/357 |
+| **Sorrow Gauge [Pressure]** | 357/357 — read where it is handled — Hands kept down for the hour, nothing picked, the desire acknowledged aloud with no fulfilment promised, and the set cou. Under 120 the handling in this file stands and the frame is holding at that load. From 240 it is re-probed at every watch, and frame stress is read and signed at every watch. From 357 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rows and the standing desire without promising anything, and Ferrehan is the hour stood in the garden with hands kept down. The reach, when it comes, is the reading. |
 | **Location** | Zone C, Collector's Row |

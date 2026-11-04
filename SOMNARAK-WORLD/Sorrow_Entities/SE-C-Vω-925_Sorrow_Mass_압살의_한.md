@@ -55,7 +55,7 @@
 | **Perceptible to** | The habit first — the long way round the stairs, and nobody reports it — then the foundation gauges disagreeing with their neighbours, then doors that bind and tools that drop from hands. Personnel describe nothing worse than a long shift; the survey says otherwise and the survey is what is believed. |
 | **Handling** | The gauge round walked on the watch, the deflection survey kept unbroken, and a floor cleared on the first confirmed thickening rather than on a complaint. Nothing is suppressed and nothing is lifted that the Mass is carrying: the doctrine is stamped by three Directors and reads, in full, *Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down.* |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [HP]** | 1000/1000 |
+| **Sorrow Gauge [Load]** | 1000/1000 — read where it is handled — The gauge round walked on the watch, the deflection survey kept unbroken, and a floor cleared on the first confirmed thi. Under 330 the handling in this file stands and the support is carrying it. From 670 it is charted at every rotation, and the support is re-checked and the load laid on again in the reading. From 1000 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both are survey work: observation is the gauge round and endurance is the continuous deflection watch that nobody has ever been allowed to interrupt. The holding has never been worked in the ordinary sense and the Directorate has never scheduled one. |
 | **Location** | SECTOR-C-925, uncontained |

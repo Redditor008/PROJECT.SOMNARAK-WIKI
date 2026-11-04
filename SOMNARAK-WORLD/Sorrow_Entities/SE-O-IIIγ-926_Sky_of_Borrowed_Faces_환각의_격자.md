@@ -57,7 +57,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Lament pressure; 24% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 500/500 |
+| **Sorrow Gauge [Depth]** | 500/500 — read where the file says it is handled. Under 170 the handling in this file stands and the level sits where it sat last quarter. From 330 it is charted at every rotation, and the level is charted against the quarter and the chart is signed. From 500 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Han Pressure [ATK]** | 17–28 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

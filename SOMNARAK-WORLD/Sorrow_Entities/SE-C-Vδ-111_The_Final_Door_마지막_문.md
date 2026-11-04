@@ -55,7 +55,7 @@
 | **Mode of presence** | A sealed door in the deepest Alpha Tree vault, standing exactly as it has stood, with nothing behind it that the record can describe |
 | **Perceptible to** | The finality first — the shape of there being nothing after it — and then, rarely, the whisper |
 | **Activation threshold** | Touch, sustained listening, or conditions the file records as unknown. No percentage and no count are listed |
-| **Sorrow Gauge [HP]** | 1000/1000 — the containment meter, read at the vault door |
+| **Sorrow Gauge [Saturation]** | 1000/1000 — read at the vault door. Under 330 the handling in this file stands and there is still room in it. From 670 it is charted at every offering, and the emptiness is charted against the last reading. From 1000 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-A-01, deepest Alpha Tree vault — sealed |

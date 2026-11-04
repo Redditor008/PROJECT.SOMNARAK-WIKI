@@ -54,7 +54,7 @@
 | **Mode of presence** | A barometric anomaly in Zone A, marked by a sense of being leaned on from behind — with a direction and an apparent weight — in a room with nobody in it |
 | **Perceptible to** | The lean first, which every person volunteers a mass for without being asked. The barometer records atmospheric pressure and never the lean itself |
 | **Activation threshold** | Three ignored conditions escalate it. No gauge threshold governs the start of a watch |
-| **Sorrow Gauge [HP]** | 500/500 — the containment meter, read at the station |
+| **Sorrow Gauge [Load]** | 500/500 — read at the station. Under 170 the handling in this file stands and the support is carrying it. From 330 it is charted at every rotation, and the support is re-checked and the load laid on again in the reading. From 500 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-N-929, contained |

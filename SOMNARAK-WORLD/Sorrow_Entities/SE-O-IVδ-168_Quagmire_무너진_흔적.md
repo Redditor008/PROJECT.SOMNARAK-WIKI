@@ -55,7 +55,7 @@
 | **Perceptible to** | The footsteps first — the worker's own steps make no sound and somebody else's arrive from the broken section — then the needle, which points along the broken line while every actual exit feels unfinished. |
 | **Handling** | The line is mapped and the names it carries preserved. The off-line partner keeps the head count and stops anybody continuing past the end, and the worker stands where the road stops for the full cycle — neither walking on, which joins the journey, nor turning back. |
 | **Activation threshold** | No breach counter; the line does not move and what shifts is the ground beneath it |
-| **Sorrow Gauge [HP]** | 910/910 |
+| **Sorrow Gauge [Depth]** | 910/910 — read where it is handled — The line is mapped and the names it carries preserved. The off-line partner keeps the head count and stops anybody conti. Under 300 the handling in this file stands and the level sits where it sat last quarter. From 610 it is checked at every shift change, and the level is charted against the quarter and the chart is signed. From 910 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the route as it was walked and the party on it, in order, which is how the sixty-one gaits were separated out. Ferrehan stands where the road stops for the full cycle, and lowers the gauge. |
 | **Location** | The Desolate, near The Scar |

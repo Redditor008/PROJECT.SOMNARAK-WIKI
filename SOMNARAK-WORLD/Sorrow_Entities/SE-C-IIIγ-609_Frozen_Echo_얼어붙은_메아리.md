@@ -56,7 +56,7 @@
 | **Perceptible to** | The cold and the stillness first, then the imprints in the surface, and then a sound that arrives half-frozen and belongs to somebody who is not present. |
 | **Handling** | Handled by named list, in single-use gloves, never past the limit the tool profile sets. The field edge is chalked before the session and measured after it, and nobody holds it bare-handed. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
-| **Sorrow Gauge [HP]** | 561/561 — the containment meter, read at the field edge |
+| **Sorrow Gauge [Depth]** | 561/561 — read at the field edge. Under 190 the handling in this file stands and the level sits where it sat last quarter. From 370 it is checked at every shift change, and the level is charted against the quarter and the chart is signed. From 561 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the imprints and Ferrehan carries the cold; both stand outside the field edge and neither adopts the minute. |
 | **Location** | The Desolate, near The Scar |

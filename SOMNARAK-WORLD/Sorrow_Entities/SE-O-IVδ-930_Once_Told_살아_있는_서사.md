@@ -54,7 +54,7 @@
 | **Perceptible to** | The lag between a spoken word and its arrival, running four to forty seconds and never once exceeding a minute — the only reliable warning the sector gives, and it is given after the mistake. |
 | **Handling** | Silence. The whole watch is kept without speaking aloud, and the inventory is walked photographically. A lower gauge does not erase a claw mark or establish that a description is safe. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [HP]** | 750/750 |
+| **Sorrow Gauge [Depth]** | 750/750 — read where it is handled — Silence. The whole watch is kept without speaking aloud, and the inventory is walked photographically. A lower gauge doe. Under 250 the handling in this file stands and the level sits where it sat last quarter. From 500 it is charted at every rotation, and the level is charted against the quarter and the chart is signed. From 750 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Observation is the silent inventory walk and the photographic comparison. Endurance is keeping the entire watch without speaking, which is the whole of the discipline this holding asks for. |
 | **Location** | SECTOR-O-930, contained |

@@ -55,7 +55,7 @@
 | **Perceptible to** | The clatter of loose silver when the plinth is jostled, heard only by handlers who have debt of their own. Then a weight that is not the weight of the brass, and the acid smell that pitted it. |
 | **Handling** | Lifted only onto the balance, with bare calloused hands, by a handler whose financial record is clean — outstanding municipal debt triples its mass within ten seconds, and that is the spinal injury on the record. It does not leave SECTOR-C-03 short of a Level 3 authorisation. |
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand. |
-| **Sorrow Gauge [HP]** | 520/520 — the containment meter, read at the plinth |
+| **Sorrow Gauge [Load]** | 520/520 — read at the plinth. Under 170 the handling in this file stands and the support is carrying it. From 350 it is signed by a second reader at every consultation, and the support is re-checked and the load laid on again in the reading. From 520 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–55% |
 | **Handling** | No Work Types (`R-40`) — lifted only onto the balance, by bare calloused hands, by a handler whose financial record is clean. It does not leave SECTOR-C-03 short of a Level 3 authorisation. |
 | **Location** | SECTOR-C-03, Collector's Vault — contained |

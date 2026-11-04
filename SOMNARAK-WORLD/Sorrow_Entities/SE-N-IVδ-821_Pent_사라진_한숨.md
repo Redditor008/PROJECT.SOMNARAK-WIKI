@@ -57,7 +57,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Grudge pressure; 35% against other pressure types. Nothing is rated against the burning, which personnel report and instruments deny |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 818/818 |
+| **Sorrow Gauge [Pressure]** | 818/818 — read where the file says it is handled. Under 270 the handling in this file stands and the frame is holding at that load. From 550 it is re-probed at every watch, and frame stress is read and signed at every watch. From 818 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Han Pressure [ATK]** | 30–56 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |

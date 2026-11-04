@@ -57,7 +57,7 @@
 | **Speed** | N/A — the ordinary district has no travel speed; movement of the registered Walking District is a separate event-form record |
 | **Resistance** | 50% against Grudge, filed on the event form. Nothing has ever been struck in the district: the perimeter is Architects' reinforcement and a survey, not a thing that resists, and the figure describes the Walking District rather than the place. |
 | **Activation threshold** | Third formal refusal of the confession — the transformation is a refusal and not a gauge reading, and the district form runs no activation percentage |
-| **Sorrow Gauge [HP]** | 1000/1000 |
+| **Sorrow Gauge [Pressure]** | 1000/1000 — read where the file says it is handled. Under 330 the handling in this file stands and the frame is holding at that load. From 670 it is re-probed at every watch, and frame stress is read and signed at every watch. From 1000 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Han Pressure [ATK]** | 50–111 per event-form strike · Grudge · **Instant Fracture on critical** — event form only. The district has no hands, no eyes and no reach |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |

@@ -55,7 +55,7 @@
 | **Perceptible to** | The height above the soil first, which is the only series that answers. Then the wetness that should have dried, and the judgement the surface reflects — that this one does not belong here. |
 | **Handling** | Left flat. Nobody lifts it except in a scheduled contact operation with a counsellor present, and after a lift it is set down deliberately rather than put down. No grief in the room is ranked against another in its hearing. |
 | **Activation threshold** | No breach counter; **Object/Place** — Non-breaching: activation only |
-| **Sorrow Gauge [HP]** | 227/227 |
+| **Sorrow Gauge [Depth]** | 227/227 — read where it is handled — Left flat. Nobody lifts it except in a scheduled contact operation with a counsellor present, and after a lift it is set. Under 80 the handling in this file stands and the level sits where it sat last quarter. From 150 it is checked at every shift change, and the level is charted against the quarter and the chart is signed. From 227 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan surfaces the loss that made it — as small as advertised — and holds the gauge flat, because the object was never hidden from sight, only from acknowledgement. Ferrehan holds a grief that feels too minor to hold and declines to put it down early, which is the row that lowers it. |
 | **Location** | Zone D, Echo Gardens |

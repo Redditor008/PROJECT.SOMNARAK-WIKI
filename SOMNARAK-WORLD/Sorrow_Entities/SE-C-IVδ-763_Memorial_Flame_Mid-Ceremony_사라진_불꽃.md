@@ -55,7 +55,7 @@
 | **Perceptible to** | The memory of warmth first, which is colder than the cold. Then the draft that takes away what warmth the visitor brought with them. Then the soot, settling like black snow on surfaces that have not been hot for years. |
 | **Handling** | Complete the memorial without recreating the original flame. Nothing is relit, nothing is substituted, and the grief carried in is kept rather than adopted — the first sign the file watches for is a worker describing somebody else's bereavement in the first person. |
 | **Activation threshold** | No breach counter; activates on unfinished memorials and extinguished rituals |
-| **Sorrow Gauge [HP]** | 993/993 |
+| **Sorrow Gauge [Depth]** | 993/993 — read where it is handled — Complete the memorial without recreating the original flame. Nothing is relit, nothing is substituted, and the grief car. Under 330 the handling in this file stands and the level sits where it sat last quarter. From 660 it is re-probed at every watch, and the level is charted against the quarter and the chart is signed. From 993 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the memorial and the people who tended it, held at the same moment of the rite every time. Ferrehan is staying the full entry while carrying grief that is not the worker's and not trying to make it theirs. |
 | **Location** | Zone A, Alpha Tree vault |

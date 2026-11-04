@@ -55,7 +55,7 @@
 | **Perceptible to** | The overlap — hours, densities, the clustering of particular phrases — and, under it, the fact that some of what is said concerns the person hearing it. Children in the district are reported to hear it earlier than adults. |
 | **Handling** | Listen, and acknowledge aloud. Nothing is commanded to stop, no transcript is made of a single voice, and no attempt is made to open the fabric or treat the wall. The site is not contained and is not managed by force of any kind. |
 | **Activation threshold** | No breach counter; activates on new sorrow entering the old lament |
-| **Sorrow Gauge [HP]** | 217/217 |
+| **Sorrow Gauge [Depth]** | 217/217 — read where it is handled — Listen, and acknowledge aloud. Nothing is commanded to stop, no transcript is made of a single voice, and no attempt is. Under 70 the handling in this file stands and the level sits where it sat last quarter. From 140 it is re-probed at every watch, and the level is charted against the quarter and the chart is signed. From 217 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan finds the pattern in the overlap without resolving any single voice. Ferrehan is staying inside the overlap while it closes around the worker and becomes a chorus, and it is the only approach that lowers the carry. |
 | **Location** | Zone B, Old Lament |

@@ -54,7 +54,7 @@
 | **Perceptible to** | The air going heavy at forty-six minutes and the dust in it stopping. Then the scream, which happens in the throat of whoever is inside and in the throats of nobody outside the doorway. Outside the doorway there is nothing at all. |
 | **Handling** | The doorway is the containment: nobody crosses it, and the loop is read from the corridor with the clock and the discharge sheet. Two loops watched, the sheet completed, the discharge book signed for the day. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [HP]** | 426/426 |
+| **Sorrow Gauge [Load]** | 426/426 — read where it is handled — The doorway is the containment: nobody crosses it, and the loop is read from the corridor with the clock and the dischar. Under 140 the handling in this file stands and the support is carrying it. From 280 it is timed from outside at every entry, and the support is re-checked and the load laid on again in the reading. From 426 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, both worked from the corridor. Viderehan makes the body pressure legible under sustained observation. Ferrehan is standing the interval at the line without opening the door, and the roster is built on the finding that the fall comes after the second loop and never after the first. |
 | **Location** | SECTOR-O-911, contained |

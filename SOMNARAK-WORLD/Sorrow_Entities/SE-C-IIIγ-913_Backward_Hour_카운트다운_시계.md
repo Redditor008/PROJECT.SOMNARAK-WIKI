@@ -55,7 +55,7 @@
 | **Perceptible to** | The second hand going the wrong way and the room agreeing with it. Then the count, voiced aloud by somebody who was not asked and cannot stop until it reaches zero. At zero, a permission that somebody holds lapses. |
 | **Handling** | Read the fixed points, deploy by rate, stand down at the end, and reconcile the warrant book afterwards. Nothing shortens an occurrence and nothing is suppressed; the rates fall again at the twelfth hour. |
 | **Activation threshold** | 3 conditions |
-| **Sorrow Gauge [HP]** | 500/500 |
+| **Sorrow Gauge [Pressure]** | 500/500 — read where it is handled — Read the fixed points, deploy by rate, stand down at the end, and reconcile the warrant book afterwards. Nothing shorten. Under 170 the handling in this file stands and the frame is holding at that load. From 330 it is timed from outside at every entry, and frame stress is read and signed at every watch. From 500 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time. Viderehan reads the rate across the fixed-point network. Ferrehan is working the full twelve hours inside a street that is turning on itself, which is the only approach that lowers the carry. |
 | **Location** | SECTOR-C-913, contained |

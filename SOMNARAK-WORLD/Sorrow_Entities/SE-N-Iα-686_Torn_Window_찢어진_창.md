@@ -55,7 +55,7 @@
 | **Perceptible to** | The cold off the glass first and the draft through the tear, carrying old anger. Then the reflected hands, which are the register, because the pane remembers every person who has touched it. |
 | **Handling** | Read from the side of the frame rather than in front of it, with the caliper count kept unbroken. A palm is not put on the glass — all four failures on record were a palm on a flat cool surface at hand height at the end of a shift. |
 | **Activation threshold** | No breach counter; activates on touch or direct gaze |
-| **Sorrow Gauge [HP]** | 221/221 |
+| **Sorrow Gauge [Pressure]** | 221/221 — read where it is handled — Read from the side of the frame rather than in front of it, with the caliper count kept unbroken. A palm is not put on t. Under 70 the handling in this file stands and the frame is holding at that load. From 150 it is checked at every shift change, and frame stress is read and signed at every watch. From 221 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the history of the room beyond the pane and holds the gauge. Ferrehan tests whether the worker can look without entering the memory, and is the row that lowers it. |
 | **Location** | Zone B, deep tunnels |

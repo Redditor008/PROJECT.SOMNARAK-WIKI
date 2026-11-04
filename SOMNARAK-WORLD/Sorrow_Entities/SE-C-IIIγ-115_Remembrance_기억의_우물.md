@@ -55,7 +55,7 @@
 | **Mode of presence** | A deep stone well beneath the Grand Archive, rim worn and dark, filled with something that is not water and reflects the viewer's past rather than their face |
 | **Perceptible to** | The surface first — slow and viscous, blood-warm, numb and faintly sweet, smelling of ash — and then a voice out of it that belongs to somebody, sometimes to nobody the facility can identify |
 | **Activation threshold** | Breaking the surface with the bronze probe on its winch line. No breach counter; the level is gauged from the archive floor every watch |
-| **Sorrow Gauge [HP]** | 587/587 — the containment meter, read at the rim |
+| **Sorrow Gauge [Saturation]** | 587/587 — read at the rim. Under 200 the handling in this file stands and there is still room in it. From 390 it is charted at every offering, and the emptiness is charted against the last reading. From 587 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Handling** | No Work Types (`R-40`). Four stages in `## Handling Process`, both at the rim, observation never alone and never by the Warden on watch |
 | **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. The past comes back and the gauge does not move; holding at the cover brings it down. |

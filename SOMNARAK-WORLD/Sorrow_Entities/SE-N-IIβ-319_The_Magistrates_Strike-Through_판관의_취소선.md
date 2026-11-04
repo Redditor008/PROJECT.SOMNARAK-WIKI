@@ -56,7 +56,7 @@
 | **Perceptible to** | The powdering first — pale dust hanging in dry, odourless air — then the attenuation, a room in which voices fail to carry and words vanish in the throat. |
 | **Handling** | Silk-lined gloves throughout, because bare skin past twenty seconds and an operative begins signing false confessions or striking their own name from duty rosters. The existing arc is logged without being extended, and the chalk is kept away from identity records. |
 | **Activation threshold** | Single-use drawing trigger — ground to dust upon circle completion |
-| **Sorrow Gauge [HP]** | 480/480 |
+| **Sorrow Gauge [Saturation]** | 480/480 — read where it is handled — Silk-lined gloves throughout, because bare skin past twenty seconds and an operative begins signing false confessions or. Under 160 the handling in this file stands and there is still room in it. From 320 it is signed by a second reader at every consultation, and the emptiness is charted against the last reading. From 480 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 30–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan monitors surface powdering and acoustic absorption at the plinth and holds level. Ferrehan holds the chalk without drawing a line, resisting the urge to strike through their own identity, and lowers the gauge. |
 | **Location** | SECTOR-N-06, Deep Tribunal Archive — contained |

@@ -58,7 +58,7 @@
 | **Speed** | N/A — floating object; drift is not directed locomotion, and activation output is measured per turn |
 | **Resistance** | 35% against Lament, the pressure the object is made of. 25% Against everything else the tunnel can bring — no resistance rating applies to the words themselves. State the listener's identity anchor before contact, keep every fragment on its own line, and never let resistance to pressure be mistaken for protection against false ownership. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 |
+| **Sorrow Gauge [Depth]** | 653/653 — read where the file says it is handled. Under 220 the handling in this file stands and the level sits where it sat last quarter. From 440 it is checked at every shift change, and the level is charted against the quarter and the chart is signed. From 653 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

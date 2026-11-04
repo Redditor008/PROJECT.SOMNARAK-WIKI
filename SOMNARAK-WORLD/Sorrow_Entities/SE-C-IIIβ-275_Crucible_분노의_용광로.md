@@ -56,7 +56,7 @@
 | **Perceptible to** | The heat first, which is the reading — idle floor temperature at the fixed point, 61, then 68, then 74 degrees across three years. Then the smell of hot stone and the sound of metal being shaped by nobody. |
 | **Handling** | Nothing is left in the working volume and nothing is fed to it. The hearth is not quenched and the tongs are not moved. A worker who is angry about something unstated does not enter the volume until they have said it. |
 | **Activation threshold** | Material left within the working volume while somebody present is carrying an unstated grievance — both conditions required, and no breach counter. |
-| **Sorrow Gauge [HP]** | 435/435 — the containment meter, read at the hearth |
+| **Sorrow Gauge [Pressure]** | 435/435 — read at the hearth. Under 140 the handling in this file stands and the frame is holding at that load. From 290 it is charted at every offering, and frame stress is read and signed at every watch. From 435 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Handling** | No Work Types (`R-40`) — nothing is left in the working volume and nothing is fed to it. A worker may stand the watch in the heat and may read the floor and the walls. A worker who is angry about something unstated says it first. |
 | **Location** | Zone D, Forge District |

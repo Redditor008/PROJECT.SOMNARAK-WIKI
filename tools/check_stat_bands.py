@@ -103,9 +103,11 @@ def main():
         tiers[tier] = tiers.get(tier, 0) + 1
         contact = '## Contact Record' in text
         combat = '## Combat Record' in text
-        hp_cell, atk_cell = row(text, r'Sorrow Gauge \[HP\]'), row(text, r'Han Pressure \[ATK\]')
+        # R-48: a non-breaching relic reads a state meter ([Pressure] / [Load] / [Depth] /
+        # [Saturation]). It is still the containment ceiling and the same bands apply.
+        hp_cell, atk_cell = row(text, r'Sorrow Gauge \[[^\]]+\]'), row(text, r'Han Pressure \[ATK\]')
         if hp_cell is None:
-            missing.append('%s: no Sorrow Gauge [HP] row' % name)
+            missing.append('%s: no Sorrow Gauge row' % name)
             continue
         if not contact and not combat:
             missing.append('%s: neither a Combat Record nor a Contact Record' % name)

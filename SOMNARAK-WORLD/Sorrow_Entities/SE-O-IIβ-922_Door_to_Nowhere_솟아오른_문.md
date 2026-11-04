@@ -55,7 +55,7 @@
 | **Perceptible to** | The frame's red pressure and the char first, then the handle height — 2.1 metres at first measurement and 2.6 now — which is the longitudinal reading the station keeps. |
 | **Handling** | Observed front and back, with the room's real exit kept clear. Nobody moves closer to complete an illustration and nobody turns the handle. The handle answers to the district, and every rise has fallen within a week when a movement order was in force. |
 | **Activation threshold** | No breach counter; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
-| **Sorrow Gauge [HP]** | 415/415 |
+| **Sorrow Gauge [Pressure]** | 415/415 — read where it is handled — Observed front and back, with the room's real exit kept clear. Nobody moves closer to complete an illustration and nobod. Under 140 the handling in this file stands and the frame is holding at that load. From 280 it is checked at every shift change, and frame stress is read and signed at every watch. From 415 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows why the exit was denied and holds the gauge. Ferrehan tests whether a worker can stand before an opening without using it, and lowers it. Both have never moved the handle. |
 | **Location** | Zone B, Old Lament — ambient |

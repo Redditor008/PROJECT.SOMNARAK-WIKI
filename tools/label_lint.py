@@ -40,6 +40,9 @@ SCHEMA_LABELS = {
     "Resolution Condition", "Retained non-breach mechanic", "Risk", "Risk tier",
     "Secondary Effect", "State change",
     "Sorrow Category", "Sorrow Gauge [HP]", "Speed", "Starting Sorrow Gauge",
+    # R-48: a non-breaching relic reads a state meter named for its Element, not [HP].
+    "Sorrow Gauge [Pressure]", "Sorrow Gauge [Load]", "Sorrow Gauge [Depth]",
+    "Sorrow Gauge [Saturation]",
     "Sustained observation", "Termination / Return", "Threat Role",
     "Tool / M.A.W. grade", "Tool Class", "Tool Type", "Transition", "Trigger",
     "Use Mode",
