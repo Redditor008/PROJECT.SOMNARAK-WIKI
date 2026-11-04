@@ -353,36 +353,56 @@ and both readings go in the margin.
 
 ## 이야기 (Narratio) — The Tale
 
-> **Pathology Wing, Receiving Room. Register entry of Clerk Isolde Marne, Year 4,231.**
-> **Subject:** the jar, the schedule, and why I have stopped calling the second one the cause.
+> **Transcript of:** the receiving room on the ninth night, taken down by hand.
+> **Kept by:** Pathology Clerk Isolde Marne, Year 4,231.
+> **Note:** there is one speaker. The jar does not answer. I have written the silences in
+> because the silences are where the thing is, and because after nine years I have stopped
+> being certain they are silences.
 
-It was found in a cupboard. I have written that sentence in three drafts of this entry and I cannot
-improve on it. The old receiving room had a cupboard, the cupboard had a clay jar, the jar had been
-used for swabs, and one morning in the first cycle of this iteration there was a gap under the lid
-and a light coming out of it and a voice inside.
+**MARNE:** Your lid is off and there is a light in you. I am going to put the lid back.
 
-There is no death behind it. Sixty-one years this wing has looked and there is no scream, no crisis,
-no named originator. That absence is written into the Origin section as a finding and not left as a
-blank, because a blank invites somebody to fill it and three people have tried.
+*— silence. Twenty-two seconds. I counted on the clock behind me.*
 
-There is, in the same building, a schedule. This facility retains the bodies of its dead for study
-on the authority of a clause each of them signed at engagement — in good health, usually young,
-often while laughing about it. Nothing about the practice is illegal and nothing about it is hidden.
-The paper is correct. The paper has always been correct, and when a brother stands in a doorway and
-asks for his brother, the paper is produced and it answers him, and he goes away, and the man stays
-on the schedule another six years.
+**MARNE:** I am a clerk here. If you were a person I would ask about the light.
 
-The jar does not answer the deaths. Two of the worst years this wing has recorded passed without a
-gauge moving a tenth of a point. It answers the retentions — the holding of a person on a permission
-they gave before they could know what they were giving — and in nine years of register-keeping it
-has answered nothing else.
+*— silence. I sat down instead of putting the lid back. I would like that entered, because
+putting the lid back is written into my instructions and I have not done it, and I have not
+done it nine nights running.*
 
-It does not rage and it does not weep. It asks, at the edge of hearing, without stopping, and it is
-not asking me. Everyone who sits with it believes for the first month that it is. Learning that it
-is not, and sitting down again anyway, is the whole of the work in this room, and the Wardens who
-last say it took them about nine years.
+**MARNE:** The ward has a schedule. Forty-one people on it. They signed in good health and
+most of them were young and one of them laughed about it while she wrote her name.
 
-*— I.M., Year 4,231. Retained on the schedule. The clause is initialled in the file.*
+*— silence.*
+
+**MARNE:** Your brother came to the south door on the fourth. He asked for you. I read him
+your clause and he said the clause was not what he had asked. He was correct about that.
+
+*— silence. Fourteen seconds. Then the light in the jar came up, once, and went down, and it
+was not a flicker, it was a slow lift, the way a man lifts his head.*
+
+**MARNE:** I do not know what you are asking. I want that in the file before I go on.
+
+*— silence.*
+
+**MARNE:** I am going to keep sitting here. Nobody has told me to. The schedule is legal and
+the paper is correct and I have checked both eleven times, and I am going to keep sitting
+here anyway.
+
+*— silence. The clock went round. The jar did not answer and I did not expect it to and I
+stayed.*
+
+*That is the whole transcript. Nine years of it, and the same conversation nine nights a
+week, and it has never once answered me. The Wardens who last at this work say it takes about
+nine years to understand that it is not asking you. I have been here nine years and I am no
+longer sure that understanding it is an improvement.*
+
+*What I can record as a finding is this: it answers the retentions and not the deaths. Two of
+the worst years this wing has had passed without the gauges moving a tenth of a point. On the
+nights a family comes to the south door, it lifts.*
+
+*— I.M., Year 4,231. The lid is back on. It was not on for nine nights and I am the clerk
+who did not put it there.*
+
 
 ## 증언 (Testimonium) — The Testimony
 

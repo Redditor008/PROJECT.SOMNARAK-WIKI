@@ -332,6 +332,29 @@ The surface count has been kept since Year 4219 by a Warden who noticed there wa
 countable. Nineteen years of it rises and falls in step with how many of those photographs this
 facility was putting to use.
 
+The Warden is Sergeant Ilse Corrow and she is still on the cordon and she does not like the site
+and she talks to it. I took the following down at her post in the fourth month and read it back
+to her and she said it was accurate and asked me not to put her name on it, and I am putting her
+name on it because a transcript without a speaker is not a record of anything.
+
+**CORROW:** You are out of date. That one is off the wall since the spring.
+
+**CORROW:** It is a good picture. She is looking at something off the left of the frame. Nobody
+in the register has ever looked at anything off the left of the frame.
+
+**CORROW:** I am not asking you to take them down. I am telling you that the count is wrong now,
+because the campaign ended, and the wall is still going up.
+
+**CORROW:** Say something back. *(no answer recorded)*
+
+**CORROW:** That is what I thought.
+
+*— she talks to it on shift because the cordon is nine hours long and because, she says, a person
+who does not talk to it starts to think it is going to talk first. Nothing on the wall has ever
+answered her. The ones whose faces are up there are in the wards, breathing, fed, turned twice a
+day, and four of them have been discharged and two of them are dead, and their faces are still on
+the wall at SECTOR-O-926 and the count has not gone down.*
+
 Nothing in this return is an accusation and the file is careful to say so. The faces were used so that a recruit
 on a cordon would see a person instead of a casualty figure. They were right. The induction scores
 proved them right for eleven years. Every approval was in order, every signature was real, and the
@@ -342,7 +365,9 @@ The site does not rage and does not weep and has injured nobody in nineteen year
 thousand and four of the people on that wall have no one living who may refuse on their behalf, and
 the ground outside O-926 has been keeping the tally since before anybody here thought to.
 
-*— H.R., Year 4,238. Fourth return. Three previous returns attached and unchanged.*
+*— H.R., Year 4,238. Fourth return. Three previous returns attached and unchanged. Sergeant
+Corrow has read the transcript and signed it and has asked that it be entered as evidence rather
+than as her statement, and I have entered it the way she asked.*
 
 ## 증언 (Testimonium) — The Testimony
 

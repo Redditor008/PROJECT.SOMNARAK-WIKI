@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""check_tale_register.py — gate 91: a Tale is a Normalised Story or a Fairy Tale (R-46).
+"""check_tale_register.py — gate 91: a Tale is one of four registers (R-46).
 
-The owner's direction: *"TALE HAVE TWO CATEGORY OF WRITING NORMALIZE STORY AND FAIRY TALE
-TYPE OF WRITING."*
+The owner's direction, batch 188: *"TALE HAVE TWO CATEGORY OF WRITING NORMALIZE STORY AND
+FAIRY TALE TYPE OF WRITING."* Batch 189 widened it: *"STORY TALE, FAIRY TALE, DIALOGUE
+STORY, And HYBRID[It Mean It can have Dialogue Or Like How Most Of L Corp Abnormality Story
+Structure/Look Like]"*.
 
-`이야기 (Narratio) — The Tale` is written in exactly one of two registers. This gate reads
-the opening and the body of every Tale and decides which, on markers that are structural
-rather than stylistic, then fails on any Tale that reads as neither.
+`이야기 (Narratio) — The Tale` is written in exactly one of four registers. This gate reads
+the opening, the body and the speech in every Tale and decides which.
 
-NORMALISED STORY — a filed account
+STORY TALE — a filed account (the batch-188 'Normalised Story')
     * a filing header: `> **Filed by:**`, `> **Report of:**`, `> **From the desk of:**`
     * a date or year (Year 4,2xx)
     * a named institution doing something (Registry, Wardens' Office, Directorate, Gardens)
@@ -20,6 +21,15 @@ FAIRY TALE — a folktale
     * roles rather than names (the woodcutter, the girl, the third son)
     * the folk 'and' chain
     * a closing turn: and it is still there / and so it is to this day
+
+DIALOGUE STORY — a transcript (Project Moon's Queen of Hatred audio logs)
+    * a header naming the record: Transcript of / Log of / Recovered audio / Interview
+    * scored speech: SPEAKER: line
+    * speech takes the section — at least DIALOGUE_SHARE of its paragraphs
+
+HYBRID — a Story Tale that quotes the people in it, the L Corp form the owner described
+    * a filing header, a post, a date
+    * and attributed speech inside the account
 
 NEITHER — the essay
     * a thesis sentence ('X is Y, and the Y has weight')
@@ -63,6 +73,22 @@ FOLK_CHAIN = re.compile(r'\band\b[^.]{5,60}\band\b[^.]{5,60}\band\b')
 CLOSING_TURN = re.compile(r'\b(and it is still there|and so it is to this day|'
                           r'and it has not stopped|and there it stayed)\b', re.I)
 
+DIALOGUE_HEADER = re.compile(
+    r'>\s*\*\*(?:Transcript|Log|Recovered audio|Audio|Interview|Recording|Statement)\b',
+    re.I)
+# a speaker line: NAME: …  |  > NAME: …  |  NAME (post): …  — a short capitalised or
+# quoted speaker token followed by a colon, on its own paragraph
+SPEAKER = re.compile(
+    r'^\s*(?:>\s*)?(?:(?:\*\*)?[A-Z][A-Za-z\u00C0-\u024F\'\u2019.-]{0,24}'
+    r'|\"[^\"]{1,30}\")\s*\(?[^:\n]{0,30}\)?\s*:\s*(?:\*\*)?\s*\S')
+QUOTED = re.compile(r'[\u201c\"][^\"\n]{6,}[\u201d\"]')
+DIALOGUE_SHARE = 0.55
+# a bold label that names the record, not a person speaking it
+HEADER_LABEL = re.compile(
+    r'^(?:From the desk of|Filed by|Report of|Submitted by|Record of|Transcript of|'
+    r'Log of|Recorded|Kept by|Subject|Against|Re|Note|Purpose|To|Finding|Classification|'
+    r'Entry|Row analyst|Survey|Watch Record|From|Drawn up by|Reference)\b', re.I)
+
 ESSAY = [
     ('thesis opener',
      r'^[A-Z][a-z]+ (?:is|are|has|have) [a-z][^.;]{0,60}\. The [A-Z]'),
@@ -86,10 +112,38 @@ def dossiers():
     return sorted(set(found))
 
 
+def speech(body):
+    """(speech_paragraphs, total_paragraphs, quoted_runs)
+
+    The leading `>` block is the header that names the record. A header is not somebody
+    speaking, so it is stripped before counting — otherwise every filed account looks like
+    a hybrid on the strength of its own cover sheet.
+    """
+    paras = [pp for pp in body.split('\n\n') if pp.strip()]
+    kept = []
+    for pp in paras:
+        s = pp.strip()
+        if s.startswith('>'):
+            continue          # the record's cover sheet
+        kept.append(s)
+    if not kept:
+        return 0, len(paras), 0
+    sp = 0
+    for s in kept:
+        m = SPEAKER.match(s)
+        if not m:
+            continue
+        label = s.lstrip('*').split(':')[0].strip('* ').strip()
+        if HEADER_LABEL.match(label):
+            continue
+        sp += 1
+    q = len(QUOTED.findall(body))
+    return sp, len(kept), q
+
+
 def classify(body):
-    """('fairy'|'story'|'none', markers)"""
+    """('story'|'fairy'|'dialogue'|'hybrid'|'none', markers)"""
     head = body.strip()[:700]
-    first = head.split('\n')[0].strip()
 
     story = 0
     story += 2 if FILING.search(head) else 0
@@ -103,6 +157,20 @@ def classify(body):
     fairy += 1 if FOLK_CHAIN.search(head) else 0
     fairy += 1 if CLOSING_TURN.search(body) else 0
 
+    sp, total, quoted = speech(body)
+    share = (sp / total) if total else 0.0
+
+    # DIALOGUE STORY: the speech is the section, not an ornament on it. Either it takes
+    # most of the section on its own, or the record is declared a transcript up front.
+    if sp >= 3 and share >= DIALOGUE_SHARE:
+        return 'dialogue', (sp, total, round(share, 2))
+    if DIALOGUE_HEADER.search(head) and sp >= 2 and share >= 0.4:
+        return 'dialogue', (sp, total, round(share, 2))
+
+    # HYBRID: a filed account that kept the words — the L Corp form
+    if story >= 2 and story > fairy and (sp >= 1 or quoted >= 2):
+        return 'hybrid', (story, fairy, sp, quoted)
+
     # a filing header outranks an incidental fairy word, and vice versa
     if story >= 2 and story > fairy:
         return 'story', (story, fairy)
@@ -113,7 +181,7 @@ def classify(body):
 
 def main():
     files = dossiers()
-    counts = {'story': 0, 'fairy': 0}
+    counts = {'story': 0, 'fairy': 0, 'dialogue': 0, 'hybrid': 0}
     fails = []
     soft = []
     plain = []
@@ -151,9 +219,11 @@ def main():
 
     total = len(files)
     print()
-    print('TALE REGISTER — R-46 — %d dossiers' % total)
-    print('  Normalised Story            %3d   declared' % counts['story'])
+    print('TALE REGISTER — R-46 — four registers — %d dossiers' % total)
+    print('  Story Tale                  %3d   declared' % counts['story'])
     print('  Fairy Tale                  %3d   declared' % counts['fairy'])
+    print('  Dialogue Story              %3d   declared' % counts['dialogue'])
+    print('  Hybrid                      %3d   declared' % counts['hybrid'])
     print()
     print('  ROLLOUT, reported not failed:')
     print('    plain narrative, no register yet   %3d' % len(plain))

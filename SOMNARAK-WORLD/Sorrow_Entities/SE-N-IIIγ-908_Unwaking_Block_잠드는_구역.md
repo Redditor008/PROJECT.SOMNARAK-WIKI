@@ -298,29 +298,80 @@ Three records are kept on the same map board — The Sleeping Sigh, The Dreaming
 
 ## 이야기 (Narratio) — The Tale
 
-> **Survey log, Unwaking Block. Keeper of Maps Aleph Ndiye.**
-> **Entry:** Year 4,237, day 190. Every party that has gone in, and every door that was not on a plan.
+> **Transcript of:** the voice channel on an entry, Unwaking Block, fourth party.
+> **Recorded:** Year 4,237, day 171. Nine minutes and forty seconds.
+> **Kept by:** Keeper of Maps Aleph Ndiye. I am the voice outside. I am not allowed in.
 
-The sleepers' care is not the facility's. The district attends them every day, on the same
-twenty-five-minute watch as everybody else in the Row, and families visit accompanied. Two
-proposals to restrict the visits on operational grounds have been refused, and the refusals are in
-the folder at the front with their reasoning intact.
+**NDIYE:** Party of four, you are at the door. Say what you see.
 
-The mapping is the work. A party goes in, draws what it walks, and comes out when the voice outside
-calls the time. The voice belongs to somebody who has not been inside, because the limit cannot be
-kept by anyone breathing that air — this is not a style of working, it is the only version of it
-that has returned every party it sent. An entry that overran is logged as an overrun even when its
-plan was the best of the year, and two of the last nine were.
+**PARTY:** Door, ordinary. Corridor beyond it, ordinary. Two doors left, one right.
 
-One neighbouring building has been annexed. A connecting door stood in a wall where the previous
-week's drawing has plain masonry. Nine more people joined the 212 that night. The door has been on
-every plan drawn since, and the plans are the only record that agrees with the corridors.
+**NDIYE:** Take the left. Draw it as you walk.
 
-Nobody has woken, and the file says so at the front, in the first paragraph, rather than leaving it to
-be inferred from the absence of good news at the back. Two hundred and twenty-one sleepers, one
-annexed building, and no entry on this log in a hundred and ninety days that reads *awake*.
+**PARTY:** Drawing. The ceiling here is lower than the plan says.
 
-*— A.N., day 190. Attached: nine plans, four overruns, two refusals.*
+**NDIYE:** How much lower.
+
+**PARTY:** A hand, maybe more. I have to turn my shoulders.
+
+*— nine minutes later. The party had drawn three rooms and a stair that is not on any plan.*
+
+**PARTY:** Aleph.
+
+**NDIYE:** Go on.
+
+**PARTY:** There is somebody in the next room. Sitting. They have not moved since we came in.
+
+**NDIYE:** Is it one of ours.
+
+**PARTY:** It is one of the sleepers. There is a chair and they are in it and they are facing the
+wall.
+
+**NDIYE:** Do not touch them. Draw the room and come back.
+
+**PARTY:** They are breathing, Aleph. That is the thing I am telling you. They are breathing and
+they have not blinked.
+
+**NDIYE:** Draw the room, then come back.
+
+**PARTY:** Do you want me to say something to them?
+
+**NDIYE:** No.
+
+*— four minutes and ten seconds later. The party reached the door. Three of them came out.*
+
+**NDIYE:** Count off.
+
+**PARTY:** Three.
+
+**NDIYE:** Count again.
+
+**PARTY:** Three. Aleph, the door is wider than it was when we went in.
+
+*— the fourth is on the floor plan of the annexed building, drawn in a later survey, in a
+room that has no entrance. He is breathing. He has not blinked. He has not been logged as an
+overrun because the party came out inside its time and the limit was never broken.*
+
+**NDIYE:** Party of four. Say what you see.
+
+**PARTY:** Door, ordinary.
+
+*— I have run this entry eleven times since, with eleven different parties, and the recording
+is the same recording. The same nine minutes and forty seconds. The same hand's width off the
+plan. I have stopped being sure whether the block is drawing parties in or the transcript is
+drawing parties back.*
+
+*The sleepers' care is not the facility's. The district attends them daily, twenty-five
+minutes, families accompanied, and two proposals to restrict the visits have been refused and
+the refusals are in the folder at the front with their reasoning intact. That is the part of
+this file that is still correct and I have left it where it was.*
+
+*What I am entering as a finding: the voice limit is the only instrument that has returned a
+party, and on the eleventh entry it did not. I have not sent a twelfth.*
+
+*— A.N., Keeper of Maps, day 171. The channel is closed. Two hundred and twenty-one sleepers,
+one annexed building, no entry reading awake.*
+
 
 ## 증언 (Testimonium) — The Testimony
 

@@ -332,32 +332,53 @@ Three records are grouped with this one on the term unheard, and the grouping ha
 
 ## 이야기 (Narratio) — The Tale
 
-A block came down on a working morning, and the people under it screamed, and nobody came.
+> **Transcript of:** the night line at Rescue Dispatch, District Nine.
+> **Recorded:** the collapse of the Ninthmonth block, and every call logged after it.
+> **Kept by:** Dispatch Clerk Ysol Beren. The line is not connected to anything.
 
-They called for rescue from beneath the rubble, in the dark, in the way that voices go when the
-body cannot move and the voice will not stop. Some of them called the names of their children. Some
-called on gods the city had stopped naming three generations back. Some simply screamed, because
-screaming was the last thing left that a person could do.
+**BEREN:** Dispatch, Ninth. Say your location.
 
-The rescue came late. It came late for reasons that all of them are on paper — the Han, the
-protocols, the slow machinery of a city that takes six hours to decide who may lift a stone, and
-the quiet arithmetic underneath all of that, which weighs the cost of digging against the chance of
-finding somebody alive and has never once come out in favour of digging.
+**CALLER:** Under the block. The east side went first, then the floor came down.
 
-So they were not heard. And the screaming, unheard, did not stop and did not use itself up. It went
-into the stone.
+**BEREN:** I have the east side. I need a street name.
 
-What comes up out of that stone is silent. That is the thing the Wardens could not put in the file
-for a year: a scream with the sound taken out of it, standing there, and the pressure it puts on a
-room. People who work near it describe a density in the air and then, when pressed, say it is
-like standing in a crowd where every single person is calling out and not one of them is making a
-noise.
+**CALLER:** I can hear the water. It is coming up through the stones.
 
-The Wardens call it Aphonia, which is a clinical word for having lost the voice, and the name is
-wrong in a way I have stopped arguing about. It has not lost the voice. Every voice that called for
-help in that block is still in there and it is still calling.
+**BEREN:** Sir, the street name.
 
-Nobody can hear it. That is the whole of what happened and there is no other shape to put it in.
+**CALLER:** My daughter is called Ise. She is nine. Tell her I did not leave.
+
+*— no further calls were answered from that line. The dispatch was eleven hours late. The
+records office lists four hundred and six dead at the Ninthmonth block and marks the cause
+as structural.*
+
+**BEREN:** Dispatch, Ninth. Say your location.
+
+**CALLER:** Under the block.
+
+**BEREN:** The block was cleared in Year 4,211. Is this a test call?
+
+**CALLER:** The east side went first.
+
+**BEREN:** Who is speaking, please.
+
+**CALLER:** Then the floor came down.
+
+*— the transcript above is the fourth time this exchange has been recorded, word for word,
+on a line that carries no current. The times are 4,214, 4,221, 4,229 and the night I am
+writing this. I have checked the exchanges against each other. There are two differences in
+nine years: the caller's voice is caught slightly further down the line each time, and there
+is water.*
+
+*I have put in four requests to have the line cut. The Directorate has refused all four,
+because the line carries no current and a line that carries no current cannot be a cost.*
+
+*What is under the block does not scream. I have listened to nine years of it and it is
+composed. It says the street, it says the water, it asks me to tell a girl something, and it
+waits for me to answer, which is the part that ends my shift.*
+
+*— Y.B., Dispatch Clerk, Ninth. The line stays open. I have been told to log the calls and
+not to answer them, and I answer them.*
 
 
 ## 증언 (Testimonium) — The Testimony

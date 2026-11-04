@@ -358,6 +358,41 @@ only party to the arrangement who cannot see it is the one it is about.
 Harbinger is that interval, standing behind the person who is in it. It does not collect and does
 not speak and does not act; it takes up a position, holds a distance, and closes.
 
+I am putting the forty-first day of a file in here, because I have the transcript of it and
+because what the interval is can be read off the four minutes at the end of it. The worker is a
+crane hand, second settlement, eleven years on the books. I read him the decision at the window.
+
+**APA:** The review has found against continued employment. It takes effect today. Your tools
+were collected at eight.
+
+**CRANE HAND:** Today.
+
+**APA:** Today. The file was opened in the third month.
+
+**CRANE HAND:** The third month.
+
+**APA:** Yes.
+
+**CRANE HAND:** I have been on the ninth since the third month. I stood surety for my brother on
+the ninth.
+
+**APA:** I am not able to discuss the file.
+
+**CRANE HAND:** I am not asking about the file. I am telling you what I did on the ninth.
+
+*— he was not angry. That is in the transcript as a note I made afterwards and it is the one note
+in nine years I have made in that column. He stood at the window for a moment, and then he asked
+whether he could keep the badge, and I said the badge was Company property, and he put it on the
+counter and left and did not look behind him, and the mirror log for that corridor reads two
+point four metres at eight minutes past the hour, which is the closest this Row has ever
+recorded an entity to a person.*
+
+*I closed the file. I did not close it because he had done anything. I closed it because the
+decision had been taken in the third month and there was nothing left in the file to do.*
+
+*— W.A., Year 4,236. The transcript is attached to the mirror sheet. I have marked the four
+minutes.*
+
 The Row has measured the distance since the first year of containment — metres from the fixed
 mirrors to the entity, logged at every watch and plotted against the life of an obligation. Eleven
 point two down to two point four across nine weeks, not steadily, with intervals that lengthen. The
@@ -366,7 +401,7 @@ people who have not been told. It does not move with the Collectors' ledger tota
 traffic, the season, or the age of the debts, all of which sit in the same sheet and have all been
 tried.
 
-*— W.A., Year 4,236. The sheet is attached. I have marked the two quarters.*
+*— W.A., Year 4,236. The sheet is attached. The forty-first day is attached to the sheet.*
 
 ## 증언 (Testimonium) — The Testimony
 

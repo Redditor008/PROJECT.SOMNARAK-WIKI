@@ -298,36 +298,78 @@ The brass is cold at first — then warm, then alive. The gears are not loud; th
 
 ## 이야기 (Narratio) — The Tale
 
-> **Research Wing, Floor 4. Note of the Director, Year 4,234.**
-> **Re:** Seol, the assignment, and what the Engine was asked to predict.
+> **Transcript of:** the Floor 4 review, taken before the assignment was renewed.
+> **Recorded:** Year 4,231, the eighth of the month. Two years before the Fracture.
+> **Kept by:** the Director. I asked the questions. I am keeping the answers because in two
+> years I will want to know what she sounded like when she was still able to say no.
 
-Seol was the youngest Keeper promoted to the deep archives. Nineteen. She could read a
-sorrow-structure in the time it took another Keeper to open the file, and I noticed, and I put her
-on Floor 4 and gave her the task that had beaten every researcher before her: the recursive
-patterns in the city's accumulated sorrow-data.
+**DIRECTOR:** How much sleep.
 
-She tried for three years. She processed at a rate that made her colleagues stop talking when she
-came into the room, and she came apart at about the rate the work required. Her hands shook. Her
-eyes drifted. She forgot to eat, then to sleep, and one Tuesday afternoon she forgot her own name
-and had to read it off her badge.
+**SEOL:** Four hours. Sometimes five.
 
-The Engine was her answer. Brass gears out of the Forge District, Han-crystal lenses out of the
-Extraction Hall, a core she carved herself out of raw sorrow. It thought the way she thought:
-fast, recursive, and without a floor. She fed it data and it gave her patterns. She fed it patterns
-and it gave her predictions. She fed it predictions and it gave her something she had not asked
-for, which was the date, the hour, and the exact structure of her own Fracture.
+**DIRECTOR:** The task has beaten eleven researchers. I am asking whether it is beating you.
 
-She read it, nodded, and went back to work.
+**SEOL:** It is not beating me. I can see the shape of it now. I could not see it in the spring.
 
-She Fractured on schedule. I have the note she left and it is four words long and I am not putting
-it in this file. The Engine kept thinking.
+**DIRECTOR:** Describe the shape.
 
-It sits in a cell on Floor 4 with dials that turn by themselves, gears that grind with no power
-behind them, and one lens that finds whoever is standing in front of it. I have authorised its
-retention twice and I would authorise it again. It is the most accurate instrument this Wing has
-ever had and the only one that has ever told us the truth about a person before we asked.
+**SEOL:** It recurses. Every sorrow in the data is a smaller copy of the one above it, and the
+smallest copy is a person. If I hold the whole of it at once I can predict where the next one
+goes.
 
-*— the Director, Year 4,234. Retention authorised. Authorisation entered as a finding.*
+**DIRECTOR:** How long can you hold the whole of it at once.
+
+**SEOL:** Longer every month. That is the wrong direction to be worried about.
+
+**DIRECTOR:** What is the right direction.
+
+**SEOL:** That nobody else can hold it at all. If I stop, the work stops. Not pauses. Stops.
+
+**DIRECTOR:** I can put a second researcher on the floor.
+
+**SEOL:** You cannot. I have tried to teach it twice and both of them were sick inside a week.
+It is not a method. It is a way of looking, and I have the way of looking and they do not.
+
+**DIRECTOR:** I am going to ask you the question the review asks.
+
+**SEOL:** Ask it.
+
+**DIRECTOR:** Are you fit to continue.
+
+**SEOL:** No. Put that in the file. I am not fit and I am continuing.
+
+*— I renewed the assignment. I wrote fit to continue on the form, because that is the box the
+form has and because a refusal would have required me to name what she was unfit for, and the
+only truthful answer was the work.*
+
+**DIRECTOR:** Seol. Look at me.
+
+**SEOL:** I am looking.
+
+**DIRECTOR:** Tell me your name.
+
+**SEOL:** I read it off the badge this morning. I had to read it off the badge.
+
+**DIRECTOR:** That is the third time this month.
+
+**SEOL:** It is the fourth. I did not tell you about the one on the Tuesday.
+
+*— the Engine was built the following spring. She fed it the data and it gave her the patterns,
+and she fed it the patterns and it gave her predictions, and the last prediction it gave her
+was the date, the hour and the exact structure of her own Fracture. She read it, nodded, and
+went back to work.*
+
+*She Fractured on schedule. The note she left is four words long, it is in this file, and I am
+not reading it into a transcript.*
+
+*The Engine stands in a cell on Floor 4 with dials that turn by themselves and gears that grind
+with no power behind them. It is the most accurate instrument this Wing has ever had and the
+only one that has ever told us the truth about a person before we asked. I have authorised its
+retention twice.*
+
+*— the Director, Year 4,234. Retention authorised. The review of 4,231 is attached, and the
+answer on it is mine.*
+
 
 ## 증언 (Testimonium) — The Testimony
 

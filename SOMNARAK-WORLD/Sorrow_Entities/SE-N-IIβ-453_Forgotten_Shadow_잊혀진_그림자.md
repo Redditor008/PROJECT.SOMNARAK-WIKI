@@ -327,49 +327,60 @@ Forgotten Shadow must be kept distinct from the other absences on the register. 
 
 ## 이야기 (Narratio) — The Tale
 
-> **Yard log, Wing Three. Gate Supervisor Cora Ahn.**
-> **Entry:** Year 4,237. Filed here because there is nowhere else it can be filed, and that is
-> the subject of the entry.
+> **Transcript of:** the gate interview, Wing Three yard, taken at the hiring hour.
+> **Recorded:** Year 4,229, the eleventh of the month.
+> **Kept by:** Gate Supervisor Cora Ahn. Taken down because he had no paper, and taking
+> it down was the only thing I could do with him.
 
-This Company keeps no register of persons who are not its employees. No gate book, no list of
-casuals, no record of who waited at the yard and was not taken on. That rule is absolute and the
-reason for it has never been seriously challenged. The old gate book was handed to a constabulary
-in a bad winter and eleven men were lifted off it, four of whom had done nothing beyond standing
-where the work was given out. The book was burned by order and nothing has replaced it.
+**AHN:** Name.
 
-The eleven came out within the month and the Company paid their lost time before anybody asked,
-which is in the minute and is not the reason the rule stands. The reason is the sentence underneath
-it: a list of people who are not your employees is a list you will one day be made to hand over,
-and the only safe version of it is the one that does not exist. Twenty-two years and nothing has
-replaced it.
+**THE MAN:** Sef. Just Sef. Second settlement sends me.
 
-What it costs is paid at my gate. Day work here is heavy and intermittent and it is taken by people
-with no other claim on anybody, and not one of them exists in a Company document. A man can work
-this yard twelve years and have nothing to show he was ever on the premises — no file, no log, no
-ledger line — because every mechanism that would show it is a register of persons under a different
-name. When he is hurt I am not lying when I say I cannot identify him. When he dies his family can
-prove nothing, and the people who refuse the claim are not acting in bad faith. There is nothing in
-front of them.
+**AHN:** I need a surname for the day sheet.
 
-One of them was in that position everywhere at once. Four settlements, four complete registers, and
-no line for him in any of them, because each register recorded only the people who asked it for
-something and he never asked. He traded, slept, ate, spoke to people, and was present by every
-measure except the written one. Nobody erased him. There was never anything to erase.
+**THE MAN:** I have not got one that will help you.
 
-What is left of him walks his route and nothing else. It keeps to ways no map shows, it will not set
-foot on a maintained road, and it sings a thing that everyone present understands and no instrument
-in the wing can take down. The walking is the only claim it makes, and it is the same claim a token
-stub makes: somebody was here on this day.
+**AHN:** Then I cannot put you on the sheet.
 
-I am required to record the shade grade quarterly: tokens issued, less tokens ever presented. 3.1,
-then 4.4, then 5.6. Every one of the darkest readings was taken inside sight of my gate, at the hour
-work is given out.
+**THE MAN:** I will work the first day and you can put me on after.
 
-The rule is right. The burned book was right. What walks the yard is what the right answer looks
-like from underneath, and I grade it on a nine-step card with a second officer, and we have to
-agree.
+**AHN:** That is not how it runs.
 
-*— C.A., Year 4,237. Second officer: Sgt. N. Ivo. Agreed.*
+**THE MAN:** It is how it ran the last four times I stood here.
+
+*— there is no last four times. I have been on this gate eleven years and I had never seen
+him. He carried a token stub, worn smooth, no name and no number cut into it. The stubs are
+issued against a roll. I looked for the roll that would have issued it and the roll goes back
+to 4,179 and has no gap in it and no Sef.*
+
+**AHN:** What work do you do?
+
+**THE MAN:** Drainage. I can do the pumps.
+
+**AHN:** Pumps want a certificate.
+
+**THE MAN:** I know. That is why I have come down from the second.
+
+**AHN:** Where did you work before that?
+
+**THE MAN:** Everywhere you are about to look.
+
+*— I took this down by hand and read it back to him and he said it was right, and then he
+signed the bottom with a cross, and the cross went through the paper. That is in the
+conservator's report and it is the only reason this transcript is in a file at all. The
+signature mark did not rest on the page.*
+
+*He came back the next morning and the morning after that and I put him off the sheet on
+eleven consecutive days and on the twelfth I put him on it. The sheet is destroyed every
+quarter. I have copied this transcript into the file in my own hand and I have not told
+anybody, because a list of people who are not employees is a list somebody will ask for.*
+
+*He sings at the gate before the work is given out. Everybody understands it. Nobody has ever
+written down what it says, and I have tried for two years, and the words do not stay in my
+hand long enough to reach the paper.*
+
+*— C.A., Gate Supervisor, Wing Three. Copy held outside the register at my own risk.*
+
 
 ## 증언 (Testimonium) — The Testimony
 
