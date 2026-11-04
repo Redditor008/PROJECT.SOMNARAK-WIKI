@@ -44,6 +44,28 @@
 - The risk is bounded by a doorway. Outside it, in nine years, this holding has produced nothing at all; inside it, every single exposure has produced the same injury.
 - Three pieces exist and all three were taken between loops, in the 47-minute window, by a team working to a clock on the wall of the corridor. The Armoury's note records the margin they allowed themselves: eleven minutes, never less.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the event section says no travelling soldier or transformed anatomy was ever recorded: the contraction extended the active boundary and nothing crossed it. The failure mode is a door opening, and the wing records that every person who opened one gave the same reason.
@@ -54,13 +76,12 @@
 | **Perceptible to** | The air going heavy at forty-six minutes and the dust in it stopping. Then the scream, which happens in the throat of whoever is inside and in the throats of nobody outside the doorway. Outside the doorway there is nothing at all. |
 | **Handling** | The doorway is the containment: nobody crosses it, and the loop is read from the corridor with the clock and the discharge sheet. Two loops watched, the sheet completed, the discharge book signed for the day. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [Load]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, both worked from the corridor. Viderehan makes the body pressure legible under sustained observation. Ferrehan is standing the interval at the line without opening the door, and the roster is built on the finding that the fall comes after the second loop and never after the first. |
 | **Location** | SECTOR-O-911, contained |
 | **Resolution Condition** | Two loops watched, the sheet completed, and the discharge book signed for the day. The book is the close of every cycle and has been since Year 4,229. |
 
-**Charge.** Inside the interval, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

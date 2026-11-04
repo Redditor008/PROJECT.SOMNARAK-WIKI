@@ -46,6 +46,28 @@
 - Operatives with unaddressed parental grief suffer rapid Composure erosion near it and are excluded from the rotation by screening, not by self-report.
 - Recovery after discharge is separately authorized and is not an outcome of routine work.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and its own attack row says the pulse is not a strike: the envelope has nothing to hit with. Everything this file records as harm is Composure spent standing near paper, and every graded handling instruction in it is about not spending the seal.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The cold first, and the blue condensation on the wax. Then unwritten messages arriving uninvited, and the low acoustic hum the edges give off when the envelope is handled. |
 | **Handling** | Screened hands, an unbroken seal, and the flap never lifted. Nobody reads the brush script on the flap and nobody writes over the wax, which brings instantaneous frostbite. A dropped or jarred envelope stops all handling until the wax is verified against the vault sheet. |
 | **Activation threshold** | Single-use discharge trigger — consumed upon activation |
-| **Sorrow Gauge [Depth]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan monitors frost expansion across the seal without applying pressure and holds. Ferrehan tests whether a worker can stand near an unread farewell without weeping, and lowers the gauge. |
 | **Location** | SECTOR-A-04, Archive Vault 12 — contained |
 | **Resolution Condition** | The letter is safely archived or unsealed for its single-use emergency benediction |
 
-**Charge.** In the reading, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

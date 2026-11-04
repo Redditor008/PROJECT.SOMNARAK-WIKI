@@ -45,6 +45,28 @@
 - A yield of 10–14 against Low difficulty makes this a routine assignment. And routine is the hazard: the Door is worked often, by junior personnel, in a tunnel they are walking through anyway, under exactly the conditions in which someone mentions wanting to go home.
 - Extraction requires naming a destination and meaning it, which is the deliberate performance of the act that formed this entity. It is scheduled separately, with a named relief, and the destination chosen is logged in advance and reviewed.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Portcullis is a fallen leaf under a tunnel stone with its frame still standing and its hinges still seated. Nothing has fallen here in sixty years of measurement and the survey resolves a millimetre. The file's own phases say the Door does not strike at anyone. What it does is hold a threshold that will not open and make the people standing at it say where they would rather be.
@@ -54,13 +76,12 @@
 | **Mode of presence** | A fallen leaf beneath the tunnel stone, a square frame above it, hinges seated and the mechanism still working |
 | **Perceptible to** | The gap first — a threshold that is not passable and not damaged — and then the route and the people beyond it |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
-| **Sorrow Gauge [Depth]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | The party holds position at the blocked threshold for the full duration without anyone naming somewhere else, and the gauge settles back beneath 25% |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

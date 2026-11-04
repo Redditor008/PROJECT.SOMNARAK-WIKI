@@ -45,6 +45,28 @@
 - Crews work in sight of one another and are withdrawn as a unit if any dispute is logged.
 - Extraction is authorized apart from the work cycle.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only*, its terminal row describes the pressure let go across a marked rectangle rather than at a body. And the fourth word of its own text is the denial: the grudge pressure settles over a target *without ever descending*.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The weight of a grudge that has no subject in it, settling over whoever is standing nearest. Then the pressure acquiring a direction — onto one point of the floor. And onto the person who answered rather than the person who shouted. |
 | **Handling** | Get distance, stop shouting, and do not answer. Opening distance is the response across the sixty-three incidents on file. The mean is under two minutes and is not an upper bound, because the one answered incident lasted four and a half. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Pressure]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Both are performed from outside the marked rectangle: observation is the inward-angled watch, and endurance is the discipline of the interval — standing and waiting your turn from the floor that is not under it. |
 | **Location** | SECTOR-C-923, contained |
 | **Resolution Condition** | The affected worker is at distance, has stopped shouting, and has not been answered. Opening distance is the response across the 63 incidents on file. Mean duration is under two minutes, not an upper bound: an answered incident lasted four and a half. Keep silence while the affected worker recovers; the longer record does not authorize subdual. |
 
-**Charge.** In the shared air, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

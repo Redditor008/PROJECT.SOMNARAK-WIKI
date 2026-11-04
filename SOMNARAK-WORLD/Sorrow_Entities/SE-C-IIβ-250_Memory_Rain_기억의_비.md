@@ -45,6 +45,28 @@
 - No breach counter exists here. What gets logged is the gap between falls, because the gap is the one number on this file that has ever been seen to move.
 - What the fall leaves is drawn out of standing water, and only under separate authorisation.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*. And the Weather is rain: it falls where it falls, nothing in it chooses a body. And nothing here has ever travelled toward a person. The one sharp thing in the record is a drop of its own rain hardening on the way down, which is a hazard of standing under it and not a blow from the holding.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The first drop on the skin, and inside it something the visitor had put down years ago. Then the saturation, as every drop is a different loss and the visitor is standing in all of them at once. |
 | **Handling** | Collect drops carefully and provide identity anchors. The rate, extent and duration of the fall can be catalogued and the beads cannot: nothing inside one has ever been written down on purpose, and the worker's whole job is to hold on to which life is theirs. |
 | **Activation threshold** | No breach counter; activates on memory accumulation beyond the city's capacity |
-| **Sorrow Gauge [Depth]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan catalogues the fall; Ferrehan is standing under it holding on to which life is theirs, for as long as the timekeeper allows and not a minute longer. |
 | **Location** | Zone D, Echo Gardens — periodic |
 | **Resolution Condition** | Collect drops carefully and provide identity anchors |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

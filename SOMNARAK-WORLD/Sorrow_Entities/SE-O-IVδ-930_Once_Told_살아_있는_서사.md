@@ -44,6 +44,28 @@
 - The exposure is the party's own vocabulary. Nothing here reaches for anybody; everything that has happened in this sector was described by a person first.
 - Three pieces, extracted under a written plan with no spoken word exchanged at any point. The plan ran to eleven pages because every instruction had to be unambiguous on paper.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only*. And the file's whole method is a negative one: the party leaves having added nothing to the sector. The only weapon in this file is a sentence, and it is carried in by the visitor.
@@ -54,13 +76,12 @@
 | **Perceptible to** | The lag between a spoken word and its arrival, running four to forty seconds and never once exceeding a minute — the only reliable warning the sector gives, and it is given after the mistake. |
 | **Handling** | Silence. The whole watch is kept without speaking aloud, and the inventory is walked photographically. A lower gauge does not erase a claw mark or establish that a description is safe. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Observation is the silent inventory walk and the photographic comparison. Endurance is keeping the entire watch without speaking, which is the whole of the discipline this holding asks for. |
 | **Location** | SECTOR-O-930, contained |
 | **Resolution Condition** | The party leaves the sector having added nothing to it. 61 silent cycles have closed that way; four have not, and all four are in the utterance log with the teller's name. |
 
-**Charge.** In the shared air, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

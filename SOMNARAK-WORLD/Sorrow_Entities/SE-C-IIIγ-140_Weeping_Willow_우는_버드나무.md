@@ -45,6 +45,28 @@
 - No breach counter: it spreads at the root rather than escaping. The saturated boundary is marked at every session and the marks are kept, which is the only growth record this holding has.
 - Extraction draws on the collected leaf material under separate authorisation. What that arrangement actually consists of is set out in the last section of the Warden Record and is not an ordinary yield account.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The willow is living and rooted, the spread is at the root, and the file's own branch row says what it is: *no branch lashes and the tree has never harmed anybody*. What it does is hold endings on a terrace until they are acknowledged, and what moves is the saturated boundary. A rooted thing with a boundary has a contact record.
@@ -54,14 +76,13 @@
 | **Mode of presence** | A willow on the Gardens terrace, living and rooted. The root line is the edge of what it is holding and it moves outward only |
 | **Perceptible to** | The tear-leaves first, and then the ground, which stops drying at the boundary before anything else changes |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Handling** | No Work Types (`R-40`). Four stages in `## Handling Process`, and the sitting under the canopy is the sole stage that lowers the gauge |
 | **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. The branch shows its ending and holds the gauge; the sitting under the canopy brings it down. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit beneath it and allow endings to be acknowledged |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -46,6 +46,28 @@
 - There is no breach counter. The standing order is that the Door is not opened, and the order does not depend on the gauge reading.
 - Extraction is authorised separately and never from the threshold: the two pieces were cut from the frame's outer stone, four metres from the face, by a team working with their backs to it.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **1080** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 1080 across sixty seconds of continuous contact |
+| **Wall** | at 1080 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Door is a structure and does not move. Its own attack row says so in the middle of the label — *nothing strikes; a hand reaches the face, and the contact is the whole of it*. What it does is stand there, and what the watch is for is the whisper that comes occasionally and must be written down before anybody speaks.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A sealed door in the deepest Alpha Tree vault, standing exactly as it has stood, with nothing behind it that the record can describe |
 | **Perceptible to** | The finality first — the shape of there being nothing after it — and then, rarely, the whisper |
 | **Activation threshold** | Touch, sustained listening, or conditions the file records as unknown. No percentage and no count are listed |
-| **Sorrow Gauge [Saturation]** | **000/1080** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 1080** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
 | **Resolution Condition** | The listener writes down the whisper before speaking to anybody and leaves the vault. 94 cycles, 41 whispers; the transcripts are sealed on the same day |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 1080 — and at 1080 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 1080, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

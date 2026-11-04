@@ -45,6 +45,28 @@
 - Three ignored conditions escalate it. The body register carries contact, so handlers are screened physically rather than by gauge.
 - Extraction is separately authorised and carries the same exposure as a cycle, because both consist of standing within arm's length of a wall that is breathing.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** Its own Battle Phases say it in two words — *Clash: None available* — and the stat line agrees before the reader reaches them: the Speed row reads *N/A — fixed*. And the Resistance row adds that the structural office has written that nothing may be attempted against the span. Four hundred people a day walk past it. Nobody has ever been hurt by it, and the file records no injury of any kind.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The warmth first, on a corridor where a wall should be cold. Then the regularity — the span breathes at nine a minute and the rate matches no respiration taken from anybody present. |
 | **Handling** | Walk the marked line on the far side and do not stop, do not touch, do not cross. The span carries a permanent exclusion from the maintenance schedule, the structural reference and the three fixed sensor positions are confirmed before entry, and the near side is stood on by nobody at all. |
 | **Activation threshold** | Three ignored conditions. When they pass, the affected surface extends along the fixed wall run; it has never crossed a doorway and has never reached the floor. |
-| **Sorrow Gauge [Load]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the body pressure legible against the wall's own rate. Ferrehan is standing the count from the far side for the full ten minutes without letting the observer's breathing take the wall's rate. |
 | **Location** | SECTOR-C-907 |
 | **Resolution Condition** | Count the wall's rate and the observer's, and log the two series unreconciled |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

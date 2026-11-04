@@ -45,6 +45,28 @@
 - No breach counter. The heat field expands through Zone B on hostile intent, and its boundary is instrumented because the skin reads it wrongly in both directions.
 - Transcription and deposit are a separate authorisation, run by clerks on the same rotation cap as the readers.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *fixed — a place; it does not move, and the fire expands rather than travelling*. And the fire's own description refuses the genre: nothing in this chamber has ever been charred, including paper held directly in the fire. And a firestorm is precisely what it has refused to be for decades. Its phases said it plainly before this pass did — there is no exchange to win.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The heat in the visitor's own written notes before the shelves are touched — the first warning is addressed to the person and not the collection — then the bay-by-bay closures, each logged with its second count. |
 | **Handling** | Enter with one written question and leave exactly as the room was found. Nothing is seized, destroyed or enumerated. Curiosity is the whole of the permitted errand, and a team that arrives with a list reads nothing at all. |
 | **Activation threshold** | No breach counter; activates on an approach that intends to possess, destroy or enumerate the collection |
-| **Sorrow Gauge [Pressure]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan lets the fire light the book that answers the question actually being asked, which is not always the question the observer thought they were asking. Ferrehan is holding position in the stacks and reading what the fire permits. |
 | **Location** | SECTOR-B-02, Zone B |
 | **Resolution Condition** | Approach with curiosity rather than possession or destruction |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

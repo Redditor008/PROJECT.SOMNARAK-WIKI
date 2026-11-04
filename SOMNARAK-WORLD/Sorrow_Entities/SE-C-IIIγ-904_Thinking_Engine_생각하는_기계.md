@@ -46,6 +46,28 @@
 - Crews work in pairs and compare their accounts aloud at each turn. A divergence between two accounts of the same minute is the reliable early warning and is more sensitive than the gauge.
 - Recovery of output material is authorised apart from the work cycle, and the tray's contents are logged by sheet count before anything is read.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *fixed apparatus, incapable of moving itself*, and the containment file's own note is that the two proposals to stop it were refused because nobody can say what it is computing. What extends is the processing, into whatever work is being done nearby, and what a watch has to survive is a conclusion arriving that nobody asked for.
@@ -57,13 +79,12 @@
 | **Handling** | Nobody lifts it and nobody stops it. Work is done at the side of the housing, in pairs, tray covered and the covering agreed aloud. Sheets are collected face-down and sealed at the door, and no sheet is read inside the cycle. |
 | **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. Reading the tray holds the gauge; standing the chamber brings it down. |
 | **Activation threshold** | Three conditions; the gauge is read at 60 per cent and the count is the register's. Neither is a tally toward a breach: the housing does not move, and what extends is the computation. |
-| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Handling** | No Work Types (`R-40`); the four-stage procedure in `## Handling Process` is the whole of the contact. Two people work the chamber, never one, and the pair compare accounts aloud at each turn. |
 | **Location** | SECTOR-C-904, contained |
 | **Resolution Condition** | The work in front of it completed by hand and left where the lens can see it finished |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

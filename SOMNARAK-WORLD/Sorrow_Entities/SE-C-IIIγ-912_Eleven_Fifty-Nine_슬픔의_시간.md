@@ -45,6 +45,28 @@
 - Personnel carry external timepieces checked against the facility clock at the door in both directions. The discrepancies are logged and have never once been in the minute column.
 - Extraction is a separate authorisation and carries the full temporal exposure. It is not scheduled inside the hour, which is the only facility activity for which that is true.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *no locomotion or point of arrival — onset is simultaneous throughout the affected district*. And the event section adds that there is no first and no nearest: the two most distant observers on record logged the onset in the same minute. It is an hour, and an hour does not strike anybody.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The convergence first — two people in different rooms writing down the same sentence — then the localisation, when the hour belongs to one person in the room and everybody else is remembering their dead. Nobody has ever reported the onset as unpleasant. |
 | **Handling** | Notification given and the hour sat through in place. The roster is built to keep the recently bereaved off it and has failed nine times. Nothing shortens the hour, and no response has ever changed it. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time and the other two are unavailable to it. Viderehan reads the convergence as a series; Ferrehan is sitting the hour through in place, which lowers the carry and does not shorten anything. |
 | **Location** | SECTOR-C-912, contained |
 | **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. No response shortens the hour. Notification given, and the hour sat through in place. |
 
-**Charge.** Inside the interval, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

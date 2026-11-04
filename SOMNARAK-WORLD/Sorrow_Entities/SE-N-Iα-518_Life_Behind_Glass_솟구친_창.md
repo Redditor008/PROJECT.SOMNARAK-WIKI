@@ -45,6 +45,28 @@
 - The 10–14 yield is drawn in minutes at the glass, and the exposure it costs is not measured in pressure but in duration. Rotation schedules, not protective equipment, are the controlling variable for this assignment.
 - Extraction requires a worker to hold the view deliberately rather than observe it, which is the one behaviour this entity rewards and the one it punishes. Book it as its own operation with a named relief who is instructed to interrupt.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary* — the window is fixed in the tunnel wall with no hinge, mounting or opening mechanism on either face — and the file's own resistance note says there is nothing to strike and confrontation is invalid. What it does is show a life that continues without the viewer.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The dark rain first, then the warmth and damp of the pane on the tunnel side. Under direct gaze, a life that is not the viewer's continuing without them, and never the same life twice. |
 | **Handling** | A timed watch with a timekeeper who does not look at the pane. The relief interrupts by stepping into the line of sight — no touching the viewer and no covering the glass — and the first-look time is written before anything else is recorded. |
 | **Activation threshold** | No breach counter; activates on direct line of sight into the pane |
-| **Sorrow Gauge [Depth]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows a life that is not the worker's and moves the gauge not at all, because being observed is what this entity already is. Ferrehan holds the view without reaching for it and without turning away for a full cycle, and lowers the gauge. |
 | **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

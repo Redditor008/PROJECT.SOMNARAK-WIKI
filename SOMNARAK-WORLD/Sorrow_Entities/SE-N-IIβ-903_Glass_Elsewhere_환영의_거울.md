@@ -46,6 +46,28 @@
 - The surface reflects rooms that no longer exist and the faces of the Fractured. Personnel who recognise someone in it are withdrawn from the row permanently.
 - Yield does not authorise a longer assignment. The clock-holder closes the channel at ninety seconds. The cycle log keeps only the category, and the viewer's counselling appointment is booked beforehand; no request for more time extends the viewing.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says the mirror is *fixed upright in its frame and never relocated*, and its own escalation note says nothing comes through the glass to subdue. What a viewer meets is a room that no longer exists, and the watch ends the channel at ninety seconds.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The place first — 188 of 211 viewers named it within a minute, and all 188 named somewhere that no longer exists. Then the figure, always somebody the viewer has lost and never facing them. |
 | **Handling** | One at the glass and one at the clock with authority to close the channel, both in the chamber before the viewing starts, with the counselling appointment booked ahead of the cycle rather than after it. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the category of the place inside the ninety-second clock, and the phantasmal reading is the whole of what it returns. Ferrehan holds the post to the timer, and the void pressure settles to it and not before it. Neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it easy. |
 | **Location** | SECTOR-N-903, contained |
 | **Resolution Condition** | The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered. 211 channels; the prohibition on naming one is the oldest line in the file. |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

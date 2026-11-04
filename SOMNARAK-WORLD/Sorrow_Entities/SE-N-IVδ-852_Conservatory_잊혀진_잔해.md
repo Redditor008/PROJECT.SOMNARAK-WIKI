@@ -46,6 +46,28 @@
 - It protects the absent and burns around those who are present, so crews work the perimeter and never the interior centre.
 - Yield falls permanently each time a section of the outline is lost, which caps extraction per structure rather than per cycle.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says the holding remains at the Mask Market margin. And its own attack row says no stone falls — there is not one brick of the original house in the crystal — and that it has never injured anybody who stayed on the permitted path. Its mass repositions; it does not pursue.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The outline first, at fourteen marked stations. Then the warmth of a room that is not being offered, and the detail sharpening until the shape reads as the house. |
 | **Handling** | Nothing in the radius is built, braced, shored, tidied or shifted to resemble the house. A recollection resembling it is removed and logged with the name of whoever introduced it, and the margin is walked for combustible material before anything else is attempted. |
 | **Activation threshold** | No breach counter; activates on attempting to reconstruct the remembered structure |
-| **Sorrow Gauge [Pressure]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the love and the failure together, which cannot be separated, and holds the gauge. Ferrehan stands in the margin of a house built for people who are not coming and puts nothing right, which is the row that lowers it. |
 | **Location** | Zone C, Mask Market |
 | **Resolution Condition** | the outline holds at every marked station through a full cycle and nothing in the radius has been rebuilt, braced or shored |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

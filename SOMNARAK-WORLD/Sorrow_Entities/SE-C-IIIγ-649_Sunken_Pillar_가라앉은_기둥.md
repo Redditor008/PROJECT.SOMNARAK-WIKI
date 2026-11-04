@@ -45,6 +45,28 @@
 - There is no breach counter. Log bearing and distance from the last fixed survey station at every contact, and keep exposed height and the independent face comparisons beside it. Position is not the only variable; the record also preserves descent and confirmed pattern alterations.
 - Extraction is separately authorised and has never been granted. The holding's containment condition forbids excavation, which rules out every extraction method yet proposed.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Combat Record
 > **Why this file keeps combat actions.** It moves, slowly and beneath the ground, and no survey has caught it twice in the same position — the exclusion travels with it. A wall that walks is a thing a party can be caught inside, and the strike rows are the ground opening under whoever was standing on the excluded span.
 
@@ -57,12 +79,11 @@
 | **Speed** | No travel speed is measured here. The Pillar migrates beneath the ground while its exposed height falls; survey displacement and height separately rather than treating the Place as a fixed device. |
 | **Resistance** | 35% against Void pressure; 25% against everything else. Nothing is rated against the subsidence itself, which is not an attack the Pillar makes: it has been going down for a long time and the ground around it has been going down with it. So the percentages describe what a worker takes away from standing near a thing that is already gone. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Saturation]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 16–37 per hit · Void |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

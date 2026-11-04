@@ -163,9 +163,9 @@ def problems(text):
 
     tier = tier_of(text)
     want = CHARGE_OF_TIER.get(tier)
-    r = re.match(r'^\*\*(\d+)\s*/\s*(\d+)\*\*', body)
+    r = re.match(r'^\*\*(\d+)\s+of\s+(\d+)\*\*', body)
     if not r:
-        out.append('the cell does not open with the reading in bold')
+        out.append('the cell does not open with `000 of <length>` in bold')
     else:
         if want is not None and int(r.group(2)) != want:
             out.append('ceiling %s but %s carries %d' % (r.group(2), tier, want))
@@ -185,21 +185,29 @@ def problems(text):
         out.append('Starting Sorrow Gauge reads %r — a settled relic reads 000'
                    % s.group(1).strip()[:40])
 
-    # the explanation lives outside the table
-    c = CHARGE.search(text)
-    if not c:
-        out.append('no **Charge.** paragraph under the table')
-    else:
-        para = c.group(1)
-        low = para.lower()
-        if 'sixty seconds' not in low and '60 s' not in low:
-            out.append('the charge paragraph does not state the sixty-second fill')
-        if '000' not in para:
-            out.append('the charge paragraph does not state the 000')
-        if 'tenth a minute' not in low:
-            out.append('the charge paragraph does not state the run-down rate')
-        if 'work damage' not in low:
-            out.append('the charge paragraph does not chain to Work Damage')
+    # the standing section (R-48 §6)
+    sec = re.search(r'^## The Charge\n(.*?)(?=\n## |\Z)', text, re.M | re.S)
+    if not sec:
+        out.append('no `## The Charge` section — the mechanic is not stated anywhere')
+        return out
+    body_s = sec.group(1)
+    low = body_s.lower()
+
+    if want is not None and ('**%d**' % want) not in body_s:
+        out.append('the Charge section does not state the %s wall (%d)' % (tier, want))
+    for phrase, why in (('sixty seconds', 'the sixty-second fill'),
+                        ('at rest', 'the resting reading'),
+                        ('tenth of the length', 'the run-down rate'),
+                        ('work damage', 'the chain to Work Damage')):
+        if phrase not in low:
+            out.append('the Charge section does not state %s' % why)
+    if 'what it takes' not in low:
+        out.append('the Charge section does not say what it takes out of the handler')
+
+    # the paragraph it replaced must not linger beside it
+    if CHARGE.search(text):
+        out.append('a `**Charge.**` paragraph is still in the table area — the section '
+                   'replaced it')
 
     return out
 

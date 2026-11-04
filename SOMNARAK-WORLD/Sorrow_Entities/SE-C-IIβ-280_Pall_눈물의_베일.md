@@ -46,6 +46,28 @@
 - No breach counter exists. The volume grows every year and its edge is found by instrument, because people inside it do not notice the transition and report the room as normal when asked.
 - Extraction is separately authorised and has been exercised twice, both times for Wardens who had stopped mentioning anything at all in their handover notes.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — an artwork*, and the resistance note beside it is that the veil has never been struck, cut or sampled. Nothing here is aimed and nothing closes a distance: what the Pall does is damp a room's sight of itself four metres past the frame, and the file measures the edge of that field rather than the strength of anything.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The damp first, four metres past the frame in a corridor where eleven people work and none of them can tell they are standing in it. Then the salt, the smell. And a handover note that has got shorter than it was. |
 | **Handling** | Not lifted, not draped and not worn, by anybody, for any reason. The frame is not moved and the edge is measured at the floor marks. The room's account is taken from two workers who are outside the field. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
-| **Sorrow Gauge [Depth]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Ferrehan stands beside the frame; Viderehan surveys the dulled edge and reads the room's own account against it. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Somebody says, in the room and in their own voice, that they have had a death — without being asked and without saying whose. Nothing else has ever reduced the survey. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

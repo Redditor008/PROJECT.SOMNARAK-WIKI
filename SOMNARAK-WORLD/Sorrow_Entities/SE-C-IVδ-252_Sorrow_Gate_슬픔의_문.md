@@ -46,6 +46,28 @@
 - There is no breach counter. The influenced radius widens through the vault, and its edge is remeasured from the frame at every session.
 - Residue is recovered from the threshold under separate authorization.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and the file's own attack row says nothing closes and nothing is cut, that no crack appears and there is no seam for one to appear in. What the threshold takes is lexical: a worker's next sentence stops where a word should be.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The whisper first, ambient and not yet addressed. Then the warmth off the inner face, the ash smell that leaves in a worker's clothes, and the settled conviction that something on the far side is at a temperature. |
 | **Handling** | Nobody steps inside the frame, nobody speaks the whisper aloud at it, and no rendering of it leaves the vault. Interpretive material is destroyed under witness and logged. |
 | **Activation threshold** | No breach counter; activates on touch or sustained listening; no approved method exists |
-| **Sorrow Gauge [Saturation]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both are recorded as stable. Viderehan returns fragments of the whispering; Ferrehan returns silence; both leave the reading where they found it, which is the only outcome this record accepts. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **Resolution Condition** | All interpretive material produced during the session is destroyed under witness and logged, and the gauge is left flat where the vault set it — nothing here is read down, and both valid Work Types are recorded as stable |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

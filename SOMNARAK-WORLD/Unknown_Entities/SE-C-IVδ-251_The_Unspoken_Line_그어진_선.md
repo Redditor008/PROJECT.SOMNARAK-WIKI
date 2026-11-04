@@ -44,6 +44,28 @@
 - Personnel are rotated on a social rather than a safety schedule. A warden who becomes familiar to one side of the junction stops being neutral furniture and starts being that side's warden, and twice the seam has drifted toward whichever side the duty officer drank tea on.
 - Extraction here removes a piece of the junction and the junction is where people live. Both completed extractions were taken from the shuttered shopfronts rather than from the seam, with the owners' written consent, and the consent forms are filed in the dossier because the Commons insisted on it.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Entity Type row says *object / place — non-breaching: expansion only*. And the Movement row says the same in one word: stationary, a place or zone, spreads rather than moves.
@@ -54,13 +76,12 @@
 | **Perceptible to** | The stop first — a road crossed ten thousand times, and the feet will not go — then the etiquette, enforced by everybody present and decided by nobody, and afterwards remembered by none of them. |
 | **Handling** | A resident from one side speaks honestly to a resident on the other about anything at all. The line is not marked, painted, paved over or officially abolished; the Commons has tried all three and the file records what each attempt cost. |
 | **Activation threshold** | Nine days without a board entry — the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Saturation]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan, and the file says plainly that the table is nearly useless here. Viderehan maps the line, reveals which residents belong to which side, and shows how recently they were friends. Ferrehan is standing at the line long enough to become a neutral third presence both sides will approach. |
 | **Location** | A four-way junction in the Mantle Commons, Zone D |
 | **Resolution Condition** | A resident from one side speaks honestly to a resident on the other — about anything |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

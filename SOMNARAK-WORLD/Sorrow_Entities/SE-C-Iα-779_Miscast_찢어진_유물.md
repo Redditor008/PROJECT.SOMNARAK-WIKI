@@ -46,6 +46,28 @@
 - No breach counter applies. Structural pressure is logged at the mount rather than in the object, and the mount is load-checked at every session.
 - Residue is recovered from the mount under separate authorization.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and its own attack row says nothing flies, nothing strikes and nobody has been injured here. The fragments have not left the mount volume in fifty-one years, and the event that row describes was a certificate signed and filed.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The gap first — eleven millimetres at baseline, and it is the instrument rather than an absence — then the drift against the edge of the mount volume, and the weight of a purpose the pieces no longer have. |
 | **Handling** | Read optically twice a session, between the two largest fragments at their closest approach. Nothing is passed into the mount volume and nothing is helped together. A gap that widens by eight millimetres or more opens a documents search rather than a field response. |
 | **Activation threshold** | No breach counter; activates on arranging the fragments in their former order |
-| **Sorrow Gauge [Pressure]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals what the artifact was for, in detail, including the specification language it was ordered against, and holds the gauge. Ferrehan watches the pieces approach and stop short, repeatedly, and lowers it. |
 | **Location** | Zone D, Forge District |
 | **Resolution Condition** | Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board, and the gauge below 25% — on Miscast the second follows the first and has never arrived without it. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

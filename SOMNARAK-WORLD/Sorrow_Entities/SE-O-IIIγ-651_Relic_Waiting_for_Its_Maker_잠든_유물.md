@@ -45,6 +45,28 @@
 - The 16–22 Han-Energy yield is ordinary for the band and is drawn from a chamber rather than from the relic, since the relic cannot be reached. What the exposure costs is paid in what workers say and cannot unsay, which is not a quantity the yield table has a column for.
 - Extraction is authorised in its own right and takes from the chamber, never from the sleeping thing at its centre. No cycle is rewarded with a piece of it. Every piece in the set shares the source's defining trait: each one is unmistakably for something, and nobody can say what. The armoury's note adds the part that matters at issue, which is that a piece meant for an unnamed purpose makes its wielder look, to everybody including themselves, like a person with a purpose.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The relic is asleep in a fixed chamber, the walls lean inward in place, and no breach counter exists. Its rows describe a hum, a glow, and an involuntary twitch — none of them aimed at anything. What a watch has to survive here is attention: a chamber that rewards silence and punishes being described.
@@ -54,13 +76,12 @@
 | **Mode of presence** | An unrecovered relic in a sealed chamber whose walls lean inward, asleep and unnamed, with a plumb line and a slate at the door |
 | **Perceptible to** | The hum first, felt in the teeth and the deep brain rather than heard, and then the lean of the walls, which is not only structural |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone C, Mask Market |
 | **Resolution Condition** | Speak only what the worker accepts responsibility for carrying |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -45,6 +45,28 @@
 - Crews work on physical line signals rather than speech, and a missed signal ends the session for the rotation.
 - Drawing anything off this ground is a risk standing by itself and is authorised by itself.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** Dead Air is pressure and not a body: the Movement row fixes it to a position and says it spreads rather than moves. And the Operational Notes are explicit that no figure and no sound have ever been reported and that the lean, bearing and apparent mass are subjective entries rather than instrument readings. What a watch survives is an hour of being leaned on by somebody who is not there.
@@ -54,13 +76,12 @@
 | **Mode of presence** | A barometric anomaly in Zone A, marked by a sense of being leaned on from behind — with a direction and an apparent weight — in a room with nobody in it |
 | **Perceptible to** | The lean first, which every person volunteers a mass for without being asked. The barometer records atmospheric pressure and never the lean itself |
 | **Activation threshold** | Three ignored conditions escalate it. No gauge threshold governs the start of a watch |
-| **Sorrow Gauge [Load]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-N-929, contained |
 | **Resolution Condition** | The watch is sat to its end and the form is filed, blank or not |
 
-**Charge.** In the shared air, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

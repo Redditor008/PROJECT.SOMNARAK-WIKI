@@ -45,6 +45,28 @@
 - Timekeeping is rotated inside the shift rather than held by one person, for that reason and for no other. The rotation is enforced by the standing order and has never been waived.
 - Extraction is authorised separately from the work cycle and is not attempted during an occurrence, the district being ungovernable for the duration.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *no source position or travelling body*, and the event note says it outright: keep reading the fixed points, nothing is walking out of the sector. There is no clock-body at the marker — the timepieces show the occurrence and the fast streets take it hardest.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The second hand going the wrong way and the room agreeing with it. Then the count, voiced aloud by somebody who was not asked and cannot stop until it reaches zero. At zero, a permission that somebody holds lapses. |
 | **Handling** | Read the fixed points, deploy by rate, stand down at the end, and reconcile the warrant book afterwards. Nothing shortens an occurrence and nothing is suppressed; the rates fall again at the twelfth hour. |
 | **Activation threshold** | 3 conditions |
-| **Sorrow Gauge [Pressure]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time. Viderehan reads the rate across the fixed-point network. Ferrehan is working the full twelve hours inside a street that is turning on itself, which is the only approach that lowers the carry. |
 | **Location** | SECTOR-C-913, contained |
 | **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. Nothing shortens an occurrence. Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book. |
 
-**Charge.** Inside the interval, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

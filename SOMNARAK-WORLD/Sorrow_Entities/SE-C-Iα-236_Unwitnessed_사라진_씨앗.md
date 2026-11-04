@@ -46,6 +46,28 @@
 - There is no breach counter. Instrumentation is left in place and recovered later, since presence of personnel suppresses the manifestation.
 - Extraction is authorized apart from the work cycle.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *fixed in the Desolate soil*, with the outline unchanged by more than a finger's width in four hundred years of survey. And its own attack row says no husk has ever been recovered, nothing is blown anywhere. And in four centuries the site has not injured anybody. Disturbance is answered the only way it answers — by stopping.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The absence when rain crosses it, then the heartbeat, and finally the dial trace — which is the record, and is read seven days after the fact rather than at the site. |
 | **Handling** | Marked and left. Nothing is excavated and nothing is planted into it, no interim reading is taken and no visit is made inside the seven days. The manifestation stops within four seconds of a person arriving, so standing at it destroys the week. |
 | **Activation threshold** | No breach counter; activates on a person entered on this facility's registers with no recorded beginning |
-| **Sorrow Gauge [Depth]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is worked from the recovered log rather than the field and holds level. Ferrehan is seven days away from an instrument that is working, with no interim reading and no visit permitted, and lowers the gauge. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Mark the absence; do not excavate or plant into it |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

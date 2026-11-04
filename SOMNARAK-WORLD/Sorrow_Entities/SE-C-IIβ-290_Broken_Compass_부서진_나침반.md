@@ -46,6 +46,28 @@
 - No breach counter. The influenced radius widens; bearings taken inside it are discarded, never corrected, after three withdrawn maps.
 - Extraction is separately authorised and takes casing residue only. The needle is not touched under any authority.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Compass sits in a cradle and nobody holds it — that is the first paragraph of the method and the reason the cradle exists. Its own needle-strike row had to be written around the finding that answers when the case is knocked: *nothing launches and nothing is aimed*, which the file calls worse. A device whose failure is a direction rather than a blow needs a reading record.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A tarnished brass case, cracked and warm at the crack while the metal around it is bloodless-cold, mounted in a cradle and never lifted out of it |
 | **Perceptible to** | The needle: it has not settled in centuries, and it answers a hand at the cradle long before it answers anything else |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only — a timed revolution count from the cradle, and sitting with a spinning instrument for the interval without picking it up |
 | **Location** | SECTOR-D-01, Forge District |
 | **Resolution Condition** | Cradle mounting — the only close a Broken Compass cycle has |
 
-**Charge.** In the reading, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

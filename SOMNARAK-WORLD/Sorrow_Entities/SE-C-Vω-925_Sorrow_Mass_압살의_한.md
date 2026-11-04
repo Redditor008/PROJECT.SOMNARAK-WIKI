@@ -45,6 +45,28 @@
 - Crews are withdrawn on elapsed time. Personnel inside the volume consistently underestimate how long they have been in it.
 - Extraction is authorized apart from the work cycle and is never attempted from within the volume.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **1080** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 1080 across sixty seconds of continuous contact |
+| **Wall** | at 1080 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*. And the file's own consequence section says nothing in this holding has ever been fought and the equipment record contains no entry describing an attempt. It is also uncontained: there is no container to break, so what it does is seep, and what the Directive does is measure it and clear floors.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The habit first — the long way round the stairs, and nobody reports it — then the foundation gauges disagreeing with their neighbours, then doors that bind and tools that drop from hands. Personnel describe nothing worse than a long shift; the survey says otherwise and the survey is what is believed. |
 | **Handling** | The gauge round walked on the watch, the deflection survey kept unbroken, and a floor cleared on the first confirmed thickening rather than on a complaint. Nothing is suppressed and nothing is lifted that the Mass is carrying: the doctrine is stamped by three Directors and reads, in full, *Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down.* |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Load]** | **000/1080** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 1080** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both are survey work: observation is the gauge round and endurance is the continuous deflection watch that nobody has ever been allowed to interrupt. The holding has never been worked in the ordinary sense and the Directorate has never scheduled one. |
 | **Location** | SECTOR-C-925, uncontained |
 | **Resolution Condition** | There is no resolution condition. The holding is uncontained and the ledger records no event ended by anything the facility did — only floors cleared in time and, once, floors not cleared in time. A site is closed out when the deflection survey reads stable for four consecutive watches. |
 
-**Charge.** In the shared air, the gauge fills the whole of its length in sixty seconds — 000 up to 1080 — and at 1080 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 1080, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

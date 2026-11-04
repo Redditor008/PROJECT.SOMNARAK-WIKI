@@ -46,6 +46,28 @@
 - No breach counter is kept. The audible field widens from the tower, and its edge is confirmed by instrument at every session.
 - Extraction is authorized outside the work cycle and carries the same auditory exposure as standing in the field — the toll is indifferent to where a crew happens to be standing when it comes.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** A bell three metres tall, hung fixed inside a tower that was built around it. And sounding with no hand to swing it: the Movement row says a structure or location. And the file says nothing here can be bargained with and that the record describes what the toll does on the way past rather than anything a team can influence. What a watch survives is the interval it stands through.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A dark Han-crystal bell in a tower built around it, beaded with cold, its corroded surface warped into small reaching hands, ringing without being struck |
 | **Perceptible to** | The toll first, through walls, floors and bone. Then the blue veins brightening inside the rim, and the faces that open on the tower as the bell takes up a name |
 | **Activation threshold** | Midnight inside the tower's audible district, the consolihan anniversary, or concentrated grief concerning missing children. No breach counter is kept |
-| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Nothing else in the set applies to a tower that sounds without being struck |
 | **Location** | SECTOR-B-01 — special tower in Zone B; contained |
 | **Resolution Condition** | The bell stays anchored in its tower. Nothing is ever moved or struck. The watch ends with a completed Ferrehan interval, standing in the assigned pair until the toll finishes of its own accord |
 
-**Charge.** At the rite, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

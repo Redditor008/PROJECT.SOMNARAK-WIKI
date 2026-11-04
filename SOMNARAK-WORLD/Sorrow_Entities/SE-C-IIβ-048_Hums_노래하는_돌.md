@@ -46,6 +46,28 @@
 - No breach counter applies. Ordinary sessions are not public and do not create a widening audible field. Only competing demands or separate-melody extraction produce the chamber-wide Deep Tone, so the gallery is cleared to one listener before work begins.
 - Extraction is a separate authorization and carries the same auditory exposure.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** Hums sits in its case on open display and has never moved. And the file says so twice — in the Movement row and again in the Resistance line, where the two percentages are recorded *because the encounter sheet has the field* rather than because anything reached the stone in anger. What it does is sing to one listener until that listener can sing the song back. That is the whole of the hazard, and it needs a contact record, not a battle.
@@ -55,13 +77,12 @@
 | **Mode of presence** | One palm-sized stone in a case, warmer than the room it is in, singing to one person at a time and never to two |
 | **Perceptible to** | Anyone inside the chamber: the warmth first, then a low tone felt in the chest rather than heard |
 | **Activation threshold** | Sorrow Gauge ≥ 65%, reached after three distinct songs have been interrupted. No breach counter is listed on this file and none is implied |
-| **Sorrow Gauge [Depth]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and here the two mean the same task: sit through the song to the end and be able to sing it afterwards |
 | **Location** | SECTOR-D-02, Echo Gardens — contained/open display |
 | **Resolution Condition** | The song sung is learned by a living person well enough to sing unaccompanied, and the Sorrow Gauge falls below 25% |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

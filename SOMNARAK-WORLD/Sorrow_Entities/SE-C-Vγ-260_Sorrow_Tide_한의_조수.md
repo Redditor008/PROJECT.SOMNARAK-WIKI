@@ -45,6 +45,28 @@
 - No breach counter applies. The high-water mark is recorded at every session, since the mark is the only measure the Tide reliably leaves.
 - Extraction is never attempted during a rise and all three pieces were cut at slack, in the hour before dawn, which is the only hour this holding has that resembles stillness.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*, and its own third row says the sentence outright: nothing crests and nothing strikes. The Tide is a height the city sits under for part of the night, and the resolution row begins with the word *impossible*.
@@ -55,13 +77,12 @@
 | **Perceptible to** | Standing becoming work. And the weight in the legs and chest before it is anywhere else. Then, after the peak, the specific difficulty of being outdoors and alone, which is the only thing every serious injury in sixty years has in common. |
 | **Handling** | Impossible to contain; use the Tide shelters and the shared mourning protocols. The shelters are free, unregistered and deliberately unstaffed by anybody in uniform — the almanac is published rather than circulated internally for the same reason. |
 | **Activation threshold** | Periodic / expansion event — no breach counter |
-| **Sorrow Gauge [Load]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and neither is a lever on the Tide. Viderehan reveals the grief currents across the city and the gauge does not move. Ferrehan is enduring the wave until dawn, which is the whole of what any crew has ever been able to do. |
 | **Location** | All zones — periodic phenomenon |
 | **Resolution Condition** | Impossible; use Tide shelters and shared mourning protocols |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

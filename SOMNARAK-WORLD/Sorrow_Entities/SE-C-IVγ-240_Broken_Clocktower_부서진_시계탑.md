@@ -46,6 +46,28 @@
 - There is no breach counter. Burden pressure spreads from the tower base through Zone C and the radius is walked at every session, by two walkers, both carrying sealed timepieces.
 - Residue is recovered from the mechanism housing under separate authorization and never from the bell chamber, which is inspected through a port and has not been entered.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a device (internal parts may move)*, and no component has ever left the tower: the bell is intact, the clapper is free, and the stroke does not happen. What the tower does is stretch the moment, so that an instruction given at the foot of the stair is still arriving when somebody gives it again.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The drift on a carried timepiece first, which is how the field is found at all, then the lateness of a voice reaching the person standing next to it. Nobody identifies this holding by feel, because everybody inside it misjudges the time — consistently, and in both directions. |
 | **Handling** | The watch is set against the facility clock, positions are taken, and one instruction is given once. A sealed timepiece is carried by the watch and surrendered on exit, and no second instruction is issued without the first being confirmed as arrived. |
 | **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
-| **Sorrow Gauge [Load]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the field's effect on a carried timepiece and widens the field by the ground it is walked across. Ferrehan is standing in a moment that will not conclude without trying to force it, and lowers it. Both are timed to the facility clock and to nothing in the room. |
 | **Location** | Zone C, near Collector's Row |
 | **Resolution Condition** | Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded. |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

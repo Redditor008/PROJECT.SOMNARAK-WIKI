@@ -46,6 +46,28 @@
 - Mark the circle physically at every session. The radius is the only warning this holding gives, and the quarterly aggregate the Collector courts receive is calculated from it.
 - Extraction carries the same identity pressure as contact and crews are rotated accordingly. Three extraction staff have asked, afterwards, to be told their own figure, and all three requests were refused.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** A balance-scale on a plinth is not a body and does not swing. The Movement row says *stationary*, and in nine years nothing on the record describes the instrument striking anybody. What it does is weigh — a hand on one dish, a figure returned as weight and feeling — and what a watch has to survive is being read.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The warm dry bone first, which is the identification the courts' two ordinary balances fail. Then the creak of the frame, the dishes settling unaided, and — for anyone standing inside the circle — the distinct sense of having been read. It displays no numerals anywhere. |
 | **Handling** | Not carried. A session is one hand on one dish at the plinth. Both hands, lifting, turning or moving the instrument are outside the protocol and have never been authorised. |
 | **Activation threshold** | A hand placed on one dish. No breach counter; the beam is read at the plinth and the circle marked at the session's ends. |
-| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Work preference** | No Work Types (`R-40`) — one hand on one dish, the circle re-marked outward, the beam read off both pans at once. Listing or lifting the instrument is outside the protocol and has never been authorised. |
 | **Location** | SECTOR-C-01, used by Collectors |
 | **Resolution Condition** | Viderehan and Ferrehan only at the plinth. The 25% figure is what the beam settles at once a cycle has been done properly; no watch aims at it. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

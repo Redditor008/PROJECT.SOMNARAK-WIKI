@@ -45,6 +45,28 @@
 - Observation records the hum, which rises in pitch as the break is approached. Endurance requires remaining in salt-cold air that smells of cold rain while the break is read aloud.
 - The yield of 20–28 Han-Energy is high for a stationary object and is drawn from the judgment rather than the crystal. A cycle in which no one is judged returns nothing at all.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a discrete object on a stand*, with the judged area travelling and the crystal staying where it is. And its own attack row says nothing is touched, nothing cuts, nothing launches and nothing is thrown. What the shard does is hum, and the vault reads the pitch before it reads the declaration.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The pitch first, resting at 112 hertz since the one attempt against the break face took it there from 72. The rise begins before the worker is through the door, and it is read before the declaration is taken. |
 | **Handling** | Nothing is attempted against the break face, which has happened once and taken the pitch permanently. Nothing is dampened mechanically, which has made it permanent three times. The break is calipered without being touched, and the worker is asked nothing about what the hum has already named. |
 | **Activation threshold** | No breach counter; the judged area travels and the crystal does not |
-| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the promise and the moment it failed and holds the gauge. Ferrehan tests whether a worker can remain without repairing it, and is the row that lowers it. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything. 408 cycles, 391 clean closes; the seventeen that were not all involve a sentence somebody wishes they had not said. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

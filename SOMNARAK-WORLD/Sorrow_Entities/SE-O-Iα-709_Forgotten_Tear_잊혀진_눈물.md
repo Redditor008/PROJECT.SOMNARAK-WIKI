@@ -45,6 +45,28 @@
 - A yield of 10–14 at Low difficulty makes this a standard vault assignment, and the exposure it produces does not appear during the shift. It appears afterwards, in how the worker talks about their colleagues, and no part of the yield calculation accounts for that.
 - Extraction means cutting into a crystal formed around a live ember. It is scheduled as its own operation, and the extracting worker is weighed before and after and stood down for the remainder of the shift.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary under its own power* — it sits in a lined tray on the third shelf and has never moved itself — and everything this holding does, it does to the scale underneath it. What the file actually reads is a mass in grams.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The weight in the hand first, between eleven and thirty-four grams across 212 cycles. Then the warmth, and the grievance beneath the grief, which is what Viderehan reads. |
 | **Handling** | Held by one worker at a time and put down of their own accord, with the closing weight read against the opening weight. A second worker opens the hand if the holder will not, and the 28 cycles that closed heavier are the record of who should not be rebooked. |
 | **Activation threshold** | No breach counter; a discrete crystal that sits where it is placed and is carried by its handler |
-| **Sorrow Gauge [Pressure]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grievance beneath the grief and holds the gauge. Ferrehan tests whether the worker can hold it without claiming it, and lowers the gauge. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The holder puts it down of their own accord and the closing weight is below the opening weight. 212 cycles are on file and 184 of them closed lighter. The 28 that did not are the vault's working record of who should not be rebooked. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

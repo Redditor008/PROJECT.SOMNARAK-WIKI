@@ -45,6 +45,28 @@
 - No breach counter. Vault load rises with the holding and is read off plates, never judged by eye; the eye reports nothing at all here.
 - There is no residue to recover and the standing authorisation is kept open anyway, in case the holding ever leaves anything behind.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *fixed footprint in the Alpha Tree vault; stones return into the old survey's positions rather than travel out of the outline*. And the file's own account of its worst event is that the stones are gone again before anybody can be crushed and the injuries are all from the noise and the air.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The shape of a ruin that is not there, then the pacing — long-serving wardens walk the rooms out unconsciously, and the briefing asks them to notice rather than to stop. |
 | **Handling** | Memorialise the structure and do not reconstruct a version of it. No plan is filed for the site, not even a sketch, because all three of the recorded returns followed a written proposal filed elsewhere in the building. |
 | **Activation threshold** | No breach counter; activates on a properly made decision that nobody affected could speak to |
-| **Sorrow Gauge [Pressure]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rooms in order with the people who used them. Ferrehan is staying inside the resolved walls for the interval, knowing they go when the watching stops. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Memorialize the structure; do not reconstruct a false version |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

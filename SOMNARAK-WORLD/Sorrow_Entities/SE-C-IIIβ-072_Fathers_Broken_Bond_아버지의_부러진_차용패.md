@@ -45,6 +45,28 @@
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
 - The integrated M.A.W. specifications do not authorize extraction from spent shards. The discharge record calls that residue inert and forbids extracting it again; no repeat harvest or restoration route is established here.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own operational rule says a single-use relic is spent rather than stored. There is no range, no aim and no pursuit anywhere on the record: the Bond is lifted onto a balance, weighed, and once in the record's history snapped in two, and what it does then is a discharge rather than a blow.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The clatter of loose silver when the plinth is jostled, heard only by handlers who have debt of their own. Then a weight that is not the weight of the brass, and the acid smell that pitted it. |
 | **Handling** | Lifted only onto the balance, with bare calloused hands, by a handler whose financial record is clean — outstanding municipal debt triples its mass within ten seconds, and that is the spinal injury on the record. It does not leave SECTOR-C-03 short of a Level 3 authorisation. |
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand. |
-| **Sorrow Gauge [Load]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Work preference** | No Work Types (`R-40`) — lifted only onto the balance, by bare calloused hands, by a handler whose financial record is clean. It does not leave SECTOR-C-03 short of a Level 3 authorisation. |
 | **Location** | SECTOR-C-03, Collector's Vault — contained |
 | **Resolution Condition** | The tablet is snapped along its pre-scored fracture seam, purging the squad's battle debt marks, binds and speed penalties. This is not a legal cancellation of every municipal loan |
 
-**Charge.** In the reading, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

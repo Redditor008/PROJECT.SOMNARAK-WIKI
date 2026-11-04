@@ -46,6 +46,28 @@
 - There is no breach counter. The affected radius grows inside the Archive and its edge is remeasured from the case at every session; it has reached the second stack twice.
 - Extraction draws on residue at the corroded frame rather than on the glass, is separately authorised, and is not treated as routine recovery.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a device*, and the record keeps a shard count rather than a body: nine years of sessions and a count that has never changed. Nothing here strikes and nothing is aimed. What the mirror does is return a memory the viewer has suppressed, and the failure on the file is looking back at it a second time.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The memory first, which arrives as a place rather than as a reflection. Then the cold of the facets and the dust the Archive has never got out of the frame. |
 | **Handling** | Not touched, not covered and not turned. One authorised viewing per session from the painted line, the shard count before and after, and the viewing logged against the Keepers' erasure register. |
 | **Activation threshold** | Direct gaze or physical contact — no breach counter. |
-| **Sorrow Gauge [Saturation]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan holds the viewing to the painted line; Ferrehan checks the shard count and closes the session. |
 | **Location** | SECTOR-A-01, Alpha Tree Archive — contained |
 | **Resolution Condition** | The session closes with either one authorised viewing logged or none, and the shard count checked. Nine years of sessions, 41 authorised viewings, and a shard count that has never changed. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

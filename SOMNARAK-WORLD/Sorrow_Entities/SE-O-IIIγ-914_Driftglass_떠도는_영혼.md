@@ -45,6 +45,28 @@
 - Yield is middling for the band and the work is physically easy. The exposure is in the hours: a full accompaniment is a shift spent walking corridors beside something that is looking for an arrival.
 - Extraction is separately authorised and never attached to a good cycle. The pieces are cut from the drift itself, and the Lantern's recorded cost is that its bearer stops recognising the way home.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Combat Record
 
 > **Why this file keeps combat actions.** Nothing here is an exchange the crew starts. The Movement row gives a drift that never repeats a route and the work is walking with it — the numbers below are read at the junctions, where the entry is written down before anything is decided. And the only figure that has ever moved is the drift speed itself.
@@ -58,12 +80,11 @@
 | **Speed** | Drift speed at every junction — an unhurried walk, never at rest, and the only figure here that has ever moved: it falls by about eighteen per cent while an anchor from outside the city is carried. |
 | **Resistance** | 35% against Lament, the pressure it is itself made of. 25% Against everything else the field can bring against a holding that cannot be cornered |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

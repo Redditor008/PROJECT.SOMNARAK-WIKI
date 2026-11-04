@@ -45,6 +45,28 @@
 - The figures appear only at dusk and resume conversations that ended centuries ago. Work scheduled outside that window records no activity and no gauge movement.
 - Yield is available only during the dusk manifestation, which caps extraction at one cycle per day regardless of staffing.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the hall's expansion is counted in chairs rather than in metres. Nobody is selected by it: the first measurable change is recorded at the empty chairs along the north wall, which begin to read as occupied, and the seating follows the plan rather than the people.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The weight first, arriving at the third exchange rather than at the door, and the gap in the ring turned to face whoever has entered. A worker's own surname may be spoken by one of the back three groups, and the weight redistributes onto that single chair. |
 | **Handling** | Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been authorised inside the hall; every piece in the set was extracted afterwards, from the emptied room. Attendance is capped at ten intervals. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [Load]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both work by being present without joining in. Viderehan makes the weight legible as a record of a dispute the worker is not party to. Ferrehan is sitting the interval without taking a turn in it. |
 | **Location** | SECTOR-N-910, contained |
 | **Resolution Condition** | The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned. |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

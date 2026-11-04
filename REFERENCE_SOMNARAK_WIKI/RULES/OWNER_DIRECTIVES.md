@@ -263,8 +263,12 @@ minute, so a bigger ceiling is a heavier load for the same minute, not a longer 
 **Handled before it has run down, the Work Damage clock resumes where it stopped. Handled at MAX,
 the first dose lands at once and the run-down restarts from the top.**
 
-**The division.** The cell is data — `**000/660** · ready · limit 60 s · recharge 10 min` — and may
-not pass 110 characters. The mechanic is the `**Charge.**` paragraph under the table.
+**Three places, three questions.** *The cell* — `**000 of 660** · ready · limit 60 s · recharge 10 min`
+— answers *what is it now and how long is the line*, in under 110 characters. `000/660` was replaced by
+`000 of 660` because a slash reads as a fraction and a fraction of what is never answered. *The
+section* — a standing `## The Charge` in every relic dossier, eight rows and three sentences —
+answers *how does it work*, states the length explicitly, and is identical in every file so a reader
+learns it once. *The Work Damage row* still answers *what does it cost per second*.
 
 **Also fixed this batch:** 286 `Starting Sorrow Gauge` rows on the retired 35–50% band → **000**;
 12 duplicate row labels; the three relic templates and two guides that still generated `[HP]`.

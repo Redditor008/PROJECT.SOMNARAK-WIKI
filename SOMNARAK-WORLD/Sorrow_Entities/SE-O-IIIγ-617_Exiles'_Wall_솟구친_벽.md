@@ -44,6 +44,28 @@
 - The 16–22 Han-Energy yield is standard for the band, and the vessel is destructible, which puts a γ-scale Han Dust figure of roughly 100 kilograms to a tonne on the table. That figure has been raised at two budget hearings. Both times the proposal was that the wall be broken for dust, and both times the answer referred the hearing to the suppression condition rather than to the economics.
 - Nothing is taken from this entity as a reward. Extraction is a separate authorisation, entered in its own minute. Material is taken from the shed crystal at the base and never cut from a standing section, since cutting the wall is indistinguishable, from the entity's side, from working on its buildings.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** It is a wall standing near the Gate, and the Movement row files it as a structure or location. Nothing has been swung at it, and the combat rows describe the wall coming apart in its own grief rather than anything aimed: what a watch has to survive is twenty turns in front of half-built rooms with the materials to hand, doing nothing.
@@ -53,13 +75,12 @@
 | **Mode of presence** | A wall of dark wet crystal near the Exile's Gate, burning with red light along its surface and leaking sorrow like sweat — fever-hot, damp, weeping even as it burns |
 | **Perceptible to** | The wet first, then the heat. The half-built shelters along its length are legible to anyone who stands in front of them long enough |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No count is listed and none may be inferred into the empty row |
-| **Sorrow Gauge [Pressure]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, worked from the city side; no part of any cycle involves approaching the shelter ground |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Acknowledge both departure and destination; do not complete its buildings |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

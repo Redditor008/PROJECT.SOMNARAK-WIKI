@@ -46,6 +46,28 @@
 - There is no breach counter. The quiet field widens, and its boundary is confirmed by instrument rather than by ear.
 - Extraction is authorized separately from the work cycle.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own line is that in sixty-four years the bell has not moved, not sounded, and not harmed anyone. Nine deliberate strikes have left the casting exactly as drawn, and what is read here is the fork walk rather than the bell.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The quiet first — a field where sound goes in and does not come back — then the reference fork dying short of its usual distance, which is how the boundary is found and how wide it is. |
 | **Handling** | The fork is walked and the distance recorded; nobody strikes the bell to settle the question and nobody speaks at the plinth. The radius is entered against the inspectorate's name rather than the gauge. |
 | **Activation threshold** | No breach counter; activates on touch while saying, “I am listening.” |
-| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker a warning that was issued, in order, and did not arrive — the folder holds two hundred of them — and holds level. Ferrehan stands the interval in the quiet without striking anything and without speaking, and lowers the gauge. |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **Resolution Condition** | Keep the fork series unbroken and the Rule of the Struck Bell enforced across the inspectorate and every district register. The 25% figure is the consequence, not the objective, on every Clapperless cycle logged. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

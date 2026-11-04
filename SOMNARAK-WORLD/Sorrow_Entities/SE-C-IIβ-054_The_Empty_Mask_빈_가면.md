@@ -46,6 +46,28 @@
 - No breach counter exists. It is held with the Troupe and the group's burden pressure is logged together; the Mask's own contribution is read off the card grade instead.
 - Extraction is separately authorised and has been exercised once, for a handler who could produce her service number faster than her name three days running.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Empty Mask is stationary when it is not being worn. And the record is explicit that it moves only with the hand that lifts it — the old face-blow row had to say so in the middle of an attack line: *it does not come at you, the hand that moved it was yours*. A thing whose only violence is a handler's own hand needs a handling record, and the file has one in everything but name.
@@ -55,13 +77,12 @@
 | **Mode of presence** | One blank mask on a tray among four held with the Masked Troupe, stationary until a named hand lifts it |
 | **Perceptible to** | The depth first: sixty-one millimetres of interior in a nineteen-millimetre object, read by probe and graded against the printed card |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. There is no breach counter on this holding, and the file says none is implied |
-| **Sorrow Gauge [Load]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, two handlers present throughout, the glow graded against the card at the start and end |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |
 | **Resolution Condition** | A second person says the wearer's name and the wearer answers to it. Self-naming has never once been sufficient on this holding |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

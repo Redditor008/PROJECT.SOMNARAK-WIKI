@@ -45,6 +45,28 @@
 - No breach counter. Tethers are checked on exit by a second person, and the check is logged by name because self-checks were failing.
 - Extraction is authorised separately and never against a work shift, so that nobody is inside the edge for two reasons at once.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** Its own Battle Phases say it in nine words — *there is nothing to strike and nothing that strikes* — and the stat line agrees twice before the reader reaches them: the Speed row reads *N/A — fixed object*. And the Resistance row adds *there is no body here to strike*. The source point has never moved; only the edge has, and it has withdrawn four times.
@@ -55,13 +77,12 @@
 | **Perceptible to** | Detail going soft at the edges of whatever the worker is looking at. Then the worker's own shadow going transparent, and after that a hand that can be seen through. |
 | **Handling** | Name the source of the grief and return emotional ownership. Work the shift inside the fixed light and come out tethered to your own equipment. The perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary. |
 | **Activation threshold** | No breach counter; activates on an unrecognised loss carried to the memorial above with no office willing to record it |
-| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the mourners legible in outline — how many, how long ago, roughly who they came for. And never a name. Ferrehan is a full shift held inside the edge without taking ownership of anything in the air, marked by a counsellor afterwards and not by the worker. |
 | **Location** | Zone A, Alpha Tree |
 | **Resolution Condition** | Name the source of the grief and return emotional ownership |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

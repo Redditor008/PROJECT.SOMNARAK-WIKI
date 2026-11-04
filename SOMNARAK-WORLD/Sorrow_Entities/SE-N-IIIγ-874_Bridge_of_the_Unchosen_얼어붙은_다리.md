@@ -46,6 +46,28 @@
 - There is no breach counter. Crossing is not used for access under standing order, and the deck is treated as a structural load only.
 - Residue is recovered from the deck under separate authorization.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Bridge is fixed, surveyed annually, and has not varied in sixty years. Its own rows say the rest: *no shard has ever broken free, the deck has not shed a stone, and the span is never struck*. What it does is stand where an unchosen path would have gone, and what it does to a crew is make a possibility look like a history.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A frozen span in the Echo Gardens, measured every session, with a deck that has held its shape since before the survey began |
 | **Perceptible to** | The deck first — a foot set on it does not continue — and then the regret of whoever is standing on it |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, reached on regret focused on an unchosen path. No count is listed |
-| **Sorrow Gauge [Saturation]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Acknowledge possibility without treating it as history |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

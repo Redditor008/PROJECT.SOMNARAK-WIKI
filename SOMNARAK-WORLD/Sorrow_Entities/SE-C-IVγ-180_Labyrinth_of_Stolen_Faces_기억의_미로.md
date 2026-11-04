@@ -45,6 +45,28 @@
 - No breach counter applies. Crews lay physical line from the entrance and recover it on exit; a route not on the line is not a route.
 - Extraction is authorized apart from the work cycle and is never attempted off the line.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Labyrinth is a place. Nothing in it chases anybody, nothing in it strikes, and the corridors rearrange rather than move. There is no body to fight and no distance to close. What it does is take the memories that enter it and rebuild the walls around them, and the whole hazard is what a person remembers while standing in a corridor.
@@ -54,13 +76,12 @@
 | **Mode of presence** | A maze beneath Old Lament that is walked rather than met. Its corridors keep the shape of the last visitor's memory |
 | **Perceptible to** | The wrong turn first — an exit that does not lead back the way the entrant came — and then the walls, which are furnished with things the entrant has never told anyone |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, reached as new forgotten memories enter the maze. No count is listed |
-| **Sorrow Gauge [Saturation]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-B-02, beneath Old Lament |
 | **Resolution Condition** | Maintain a memory anchor and limit exploration time |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

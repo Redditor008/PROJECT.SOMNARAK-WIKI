@@ -45,6 +45,28 @@
 - Ten to fourteen Han-Energy is low and the work is physically undemanding. The cost is in the Ferrehan posting, which teams rate the hardest endurance duty on the Desolate rota: standing in weatherless cold for a full session and getting no answer.
 - Extraction from a Place-manifestation is marginal work and the three pieces here were taken from the frost rather than from the outline, which has never been touched by anything.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** Apocrypha is a frozen patch of ground holding the outline of a relic nobody has identified, recorded at nine sites and never once seen to travel between them. There is nothing inside the outline to touch, nothing has ever been touched by an instrument, and no shard has ever launched from it — the file's own combat text was written around that three times over. Its hazard is a forgetting that arrives without an object to blame, and that belongs in a contact record.
@@ -54,13 +76,12 @@
 | **Mode of presence** | An outline of an absent object, held in frost, at one site at a time. Nine sites are recorded and no transit between them has ever been witnessed |
 | **Perceptible to** | Cold without weather, and then the certainty of having forgotten to say something, attached to whatever the worker is already carrying |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only — sight reading for the fragments of purpose, endurance for the weatherless cold |
 | **Location** | The Desolate — one marked site, revisited rather than followed |
 | **Resolution Condition** | Mark the site and speak the farewell that was missed, in the exact words, and let the gauge fall below 25% |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

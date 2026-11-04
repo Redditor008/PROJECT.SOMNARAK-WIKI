@@ -46,6 +46,28 @@
 - It produces no ordinary sound. Personnel register the scream as pressure behind the eyes, and acoustic instruments record nothing at all.
 - Tears soften the crystal surface and release a portion of the stored anger, which is the only condition under which yield can be extracted safely.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a device whose internal parts may move*. And the record itself says it hangs where it was left and does not travel. Its own attack row says no blade or water is formed. What it does is put a protest's content into the chest of everybody in the chamber, silently, without producing a sound.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The pressure first — no sound reaches the instruments, and the teeth and sternum receive the sentence the ears have filed as noise — then the orientation of the torn opening, which is the register. |
 | **Handling** | Nothing is touched and nothing is shouted in the chamber. Height and orientation are recorded at each session, and a raised voice is treated as a second conversion of the protest into noise rather than as an answer to it. |
 | **Activation threshold** | No breach counter; activates on touch or vocal aggression nearby |
-| **Sorrow Gauge [Pressure]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan uncovers the injustice behind the scream and holds the reading steady — stability is the correct outcome here and is not a stalled session. Ferrehan asks the worker to remain beside sustained anger without taking it up and repeating it. And that restraint is where the decrease comes from. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | The grievance is entered in the complaints register with a complainant named, and the Sorrow Gauge falls below 25% |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -45,6 +45,28 @@
 - A yield of 10–14 and a difficulty rating of Low describe the extraction, not the encounter. Personnel are reminded that this entity exists because somebody applied exactly that kind of arithmetic to a grief and concluded it did not merit the effort.
 - Extraction requires lifting the Tear, and the Tear has never been lifted without emotional distress in any logged instance. Schedule it as a contact operation with a counsellor present, not as an incidental pickup at the end of a Viderehan cycle.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row gives it no movement at all — pressed flat against the soil beneath its Garden stone, unable to fall further or to rise — and the record says plainly that no fragment flies and the Tear has never harmed anybody who did not lift it. Every logged lift produced distress in the person lifting.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The height above the soil first, which is the only series that answers. Then the wetness that should have dried, and the judgement the surface reflects — that this one does not belong here. |
 | **Handling** | Left flat. Nobody lifts it except in a scheduled contact operation with a counsellor present, and after a lift it is set down deliberately rather than put down. No grief in the room is ranked against another in its hearing. |
 | **Activation threshold** | No breach counter; **Object/Place** — Non-breaching: activation only |
-| **Sorrow Gauge [Depth]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan surfaces the loss that made it — as small as advertised — and holds the gauge flat, because the object was never hidden from sight, only from acknowledgement. Ferrehan holds a grief that feels too minor to hold and declines to put it down early, which is the row that lowers it. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%. The four measurements are taken before and after contact. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

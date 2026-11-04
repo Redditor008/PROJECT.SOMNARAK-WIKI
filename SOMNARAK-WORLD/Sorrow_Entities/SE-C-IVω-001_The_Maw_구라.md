@@ -47,6 +47,28 @@
 - There is no breach counter in the ordinary sense. The transformation is the breach, and the standing order is withdrawal rather than containment.
 - Extraction is authorised separately, never during a negotiation, and never once the designation has shifted to `C-IVω-001-B`. Three pieces exist and all three were taken in the first eleven years, before the shift was understood. Side Codex A records extraction as canonically prohibited outright; the two accounts are held side by side, not reconciled (see the appearance note).
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **1080** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 1080 across sixty seconds of continuous contact |
+| **Wall** | at 1080 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Combat Record
 ### Core Stat Line
 
@@ -57,12 +79,11 @@
 | **Speed** | N/A — the ordinary district has no travel speed; movement of the registered Walking District is a separate event-form record |
 | **Resistance** | 50% against Grudge, filed on the event form. Nothing has ever been struck in the district: the perimeter is Architects' reinforcement and a survey, not a thing that resists, and the figure describes the Walking District rather than the place. |
 | **Activation threshold** | Third formal refusal of the confession — the transformation is a refusal and not a gauge reading, and the district form runs no activation percentage |
-| **Sorrow Gauge [Pressure]** | **000/1080** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 1080** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 50–111 per event-form strike · Grudge · **Instant Fracture on critical** — event form only. The district has no hands, no eyes and no reach |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 1080 — and at 1080 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 1080, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

@@ -39,6 +39,28 @@
 | **Recommended response** | Open it only through its registered Work Types; the key it keeps turns for Viderehan and Ferrehan alone. |
 
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — fused to the vault face and immovable*. And the file's resistance note is blunt about what that means: the Lock never acts. So the gauge opens full and trips against a bay that simply gets harder. Nothing here is aimed and nothing closes a distance; what hardens is the plate under a worker's curiosity.
@@ -49,13 +71,12 @@
 | **Perceptible to** | The turning inside the crystal, visible at the keyhole and at the plate. Then the ash and the flat cold. And, in the worker, the beginning of a case for authorised access. |
 | **Handling** | Not opened, not forced, and not instrumented beyond the plate photographs. The key is not touched and the vault is not entered; the five recorded cases are all workers who began offering to help. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
-| **Sorrow Gauge [Saturation]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the plate and the marks; Ferrehan stands the watch without attempting the seal. The key the Lock keeps turns for those two Work Types and for nothing else. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault |
 | **Resolution Condition** | The worker stands before the seal, does not attempt to open it, and the gauge falls below 25 per cent of its own accord. Nothing is loosened by a good cycle and nothing is meant to be. |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

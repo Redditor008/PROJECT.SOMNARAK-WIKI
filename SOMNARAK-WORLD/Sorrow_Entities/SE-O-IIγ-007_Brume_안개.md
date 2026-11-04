@@ -44,6 +44,28 @@
 - The 16–22 Han-Energy yield is ordinary for the band and the exposure is not. Time inside the bank is not reliably felt or reported — workers consistently underestimate how long they were in it — so exposure on this holding is timed from outside by a person who never enters. And the external clock is the only figure entered in the log.
 - Taking M.A.W. stock is an event with its own authorisation and is never a prize hung on a clean cycle. Drawing from a Place-manifestation is awkward work and the wing has only ever managed it at the margin, off the bank's edge rather than out of its body — which is why this set is small. And why every piece in it has something to do with direction.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Combat Record
 > **Why this file keeps combat actions.** A bank of fog rolling on the Han-flow at a hundred metres an hour has no hands. Its rows describe what the bank does to whoever is inside it, and they are kept in the record's own form because the expansion is measured in the same metres the rows are costed in.
 
@@ -56,12 +78,11 @@
 | **Speed** | N/A — no creature locomotion statistic. Track this mobile Place by its surveyed bearing, leading edge and elapsed external time, not by an entrant’s estimate |
 | **Resistance** | 30% against Void pressure; 20% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 18–41 per hit · Void |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

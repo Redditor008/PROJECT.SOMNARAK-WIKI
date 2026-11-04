@@ -46,6 +46,28 @@
 - Crossing alone is the single prohibited action. The structure extends to meet a solitary worker and does not retract until the shift ends.
 - Yield accumulates while it waits, so cycles that leave it uncrossed return more than cycles that engage it.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary, and it spreads rather than moves* — crystal reaching across whatever documents and floors are in contact with it, both ends terminating in air. The file says plainly that nobody stands on it, that it carries nothing, and that crossing is the single prohibited action.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The span first, measured against the room's own fittings and the ledger pages it lies across rather than against a shore. Then the unsteadiness, which is in the worker who is about to help rather than in the ground. |
 | **Handling** | Nobody crosses and nobody performs a service for anybody else inside the reading. The session stops at the first such act and not the third, because the span reads every one of them as a crossing. |
 | **Activation threshold** | No breach counter; activates on touching one end while naming the other person |
-| **Sorrow Gauge [Pressure]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the connection the span was trying to make and holds the reading steady, which is the correct result here and not a failed suppression. Ferrehan waits at one end for the length of a session without starting across, and lowers the gauge. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | Both parties enter the distance in their own hand, with no proxy and no single signature, and the Sorrow Gauge falls below 25% |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

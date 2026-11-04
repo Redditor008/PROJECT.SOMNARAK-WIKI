@@ -46,6 +46,28 @@
 - Handlers' pulses are recorded at the door entering and leaving. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads and whatever the task state.
 - Extraction is separately authorised; it has been sought twice in forty-eight years and granted neither time, and the second refusal is four words long: *it is still beating.*
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the expansion record says plainly that nothing leaves the cradle and the advance can be outwalked. What it does is take the handler's pulse and hold it, and the record is a beat count called by somebody standing outside the glass.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The beat first, at a rate that has not varied. Then the warmth of the amber, and the handler's own pulse arriving at the specimen's rate rather than their own. Neither the handler nor the party can feel it happen. |
 | **Handling** | Pulse taken at the door going in and coming out, the beats called aloud by an external caller from outside the glass, and the glass never opened. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Load]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both lower the gauge. Viderehan reads the darkening series against the beat and returns a record rather than a behaviour. Ferrehan is the sitting, and the weight settles around a party that takes the full cycle at the marked distance without shortening it. |
 | **Location** | SECTOR-C-901, contained |
 | **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. Forty-eight years of the beat record; the pulse has matched in all but 41 readings, and the misses are the file. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

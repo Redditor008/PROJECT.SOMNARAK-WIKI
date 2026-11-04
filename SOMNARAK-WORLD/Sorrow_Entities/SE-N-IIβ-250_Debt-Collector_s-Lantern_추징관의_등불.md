@@ -46,6 +46,28 @@
 - The lit radius grows by a measurable margin at the end of every failed cycle and has never contracted. The current figure, the figure at commissioning, and every step between are on one sheet in the folder.
 - Han-Energy yield scales with the lit area rather than with the quality of the work, which is the single most consequential sentence in this file and is the subject of the last section of the Watch Record.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Lantern is fixed to its mount on Collector's Row and has never been lifted off it for a reading. And its own pressure line records that what it delivers arrives *as a showing rather than as a blow*. What it does is make a debt visible until the person carrying it pays attention to it. That is a contact record's subject, and the file already reads it that way everywhere except in the section heading.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A cold light on a fixed mount at the Row's floor mark. The Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing |
 | **Perceptible to** | Anyone inside the lit area: their own obligations, written where they can be read, including the ones they have not thought about in years |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed; the lantern's expansion is by Transform and is recorded below |
-| **Sorrow Gauge [Load]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, at the fixed mount |
 | **Location** | Zone C, Collector's Row — ambient |
 | **Resolution Condition** | Viderehan and Ferrehan at the fixed mount, with the gauge pulled below 25% before the cycle may be entered as a close |
 
-**Charge.** In the reading, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

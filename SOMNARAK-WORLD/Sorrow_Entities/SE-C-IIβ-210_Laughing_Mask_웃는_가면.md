@@ -46,6 +46,28 @@
 - No breach counter applies. The audible radius grows across the Market, and the boundary is confirmed by instrument because personnel cannot locate it by ear.
 - Extraction is a separate authorization and carries the same auditory exposure.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — an artwork*, and the file's own resistance note is that the mask is a painted face on a stand and there is nothing here anybody has ever wanted to hit. What it does is laugh at the pitch of the person listening, and every incident on the record begins with somebody being entertaining in the bay rather than with the mask doing anything to them.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The laugh first, pitched exactly like the listener's own social laugh and not recognised as theirs by most people. Then the lacquer, cold and dry under the hand, and the ash. That the mask is working shows as a person who has stopped noticing the sound. |
 | **Handling** | Not worn and not lifted. The stand is fixed and the frame is not moved; the two removals on file were refused before they were attempted. A watch sits in the bay, times the silences, and lets anybody laugh who finds something funny. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
-| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan times the silences; Ferrehan sits the bay. A cycle worked by somebody performing ends early, and the file counts that as the failure. |
 | **Location** | SECTOR-C-01, Mask Market |
 | **Resolution Condition** | Appearance requirements are suspended across the district and the mask's longest silence lengthens, with the Sorrow Gauge below 25% |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

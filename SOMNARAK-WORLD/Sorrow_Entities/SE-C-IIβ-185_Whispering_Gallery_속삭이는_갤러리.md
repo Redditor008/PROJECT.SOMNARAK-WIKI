@@ -45,6 +45,28 @@
 - There is no breach counter. The carrying field widens through Zone B, and its edge is walked and marked at every session rather than inferred from the previous reading.
 - Residue is recovered from the gallery curve under separate authorization.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *fixed — a hall; it does not move, and the carry widens rather than travelling*. And the consequence section is explicit: nothing here has ever moved toward a person. And when the reading is lost what takes the damage is the worker. Pugnahan has nothing to confront in a hall.
@@ -55,13 +77,12 @@
 | **Perceptible to** | A voice almost recognised, breathing a secret the listener never told anybody. Then the multiplication, until the walls are full of it and no two voices agree about the person standing in them. |
 | **Handling** | Walk the full length answering nothing, and restore names where the frames have lost them rather than supplying details the record does not hold. The watch does not argue with a voice and does not correct one. |
 | **Activation threshold** | No breach counter; activates on registration of an unnamed memorial, anywhere, with no witness recorded to it |
-| **Sorrow Gauge [Depth]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the histories the frames give up. Ferrehan is the worker walking the full length answering nothing, which is harder on the fifth walk than the first and is the only approach that lowers the carry. |
 | **Location** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | Restore names and listen without replacing missing details |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -46,6 +46,28 @@
 - It appears in the Old Lament only after a long absence, which makes the interval between appearances the primary scheduling variable rather than cycle count.
 - Yield is drawn from the crimson inner fire, is highest immediately on reappearance, and falls steadily until the next absence.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*. And the file's own cycle is a list of things not done to it: the relic is not approached, handled, moved, marked or addressed. And nobody says aloud that it has come back. Nothing here strikes; what returns is weight, and what it returns to is a person who has reason to recognise it.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The crimson light before the outline, and then recognition, which is not the same as knowing what it is. Witnesses present grow uncertain about unrelated things — their route, their reason for being in the district, whether they have already spoken to somebody. |
 | **Handling** | Nothing is done to the object. The cordon is set and held, the form is recorded as found, the district association is briefed, and nobody says within its hearing or outside it that the relic has come back. |
 | **Activation threshold** | No breach counter; activates on touch or recognition by someone who remembers it |
-| **Sorrow Gauge [Pressure]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, both worked at distance. Viderehan reads the return — the light, the position, the duration — and holds the gauge. Ferrehan tests whether a worker can stand a return they recognise without acting on it, and lowers it. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

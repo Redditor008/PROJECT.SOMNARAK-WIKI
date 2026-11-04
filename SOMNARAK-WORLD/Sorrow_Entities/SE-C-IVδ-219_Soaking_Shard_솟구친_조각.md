@@ -46,6 +46,28 @@
 - No breach counter applies. The wetted area spreads across the vault floor, and its edge is marked physically at every session.
 - Residue is collected from the wetted margin under separate authorisation and never from the vessel: the sump accounts for the fluid that leaves the chamber, and the file treats a shortfall there as the first sign of a bad session.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The shard is rooted in the chamber floor and has never been lifted. What moves is the wetted margin, chalked at every session. The old attack rows had it whipping through the air, which the Movement row contradicts in one sentence. Nothing here swings, launches or pursues: a hand or a tear opens a channel, and the channel is what the watch is for.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A crystal shard rooted in the chamber floor, slick with old tears, with a chalked line round the wetted margin |
 | **Perceptible to** | The wet edge first — the surface is slick where nothing has spilled — and then the runoff, which pools memories at the worker's feet |
 | **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
-| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The released memory is witnessed to evaporation or absorption, the channel is closed deliberately from behind the chalk, and the gauge falls below the threshold on the sheet |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

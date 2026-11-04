@@ -44,6 +44,28 @@
 - Yield is 10 to 14 per cycle, the lowest band in the wing, and the exposure is the quietest. The infirmary's note records that this holding produces fewer incidents and more resignations than any other in Zone D.
 - Extraction needs its own authorisation and is never paid out as a prize for an uneventful watch. No worker carrying an open welfare indicator against their name is issued the charm.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a device, internal parts may move*, and its two terminal rows are marked in the file itself as modelled only: in thirty years it has not woken. What the wall does when it turns over is crack mortar along four feet of its own face, and nothing follows it.
@@ -54,13 +76,12 @@
 | **Perceptible to** | The hum first, then the settling: the wall drops a fraction in its sleep and the floor cracks where it settles. The sleep-twitch cracks mortar along four feet of the face, once, and nothing follows it. |
 | **Handling** | Presence offered and entry not forced: the full hour sat beside it, nothing asked and nothing knocked, with the gauge taken below twenty-five per cent before anybody approaches the face. |
 | **Activation threshold** | No breach counter. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
-| **Sorrow Gauge [Saturation]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what was available and not asked for — the fund, the rotation, the open door, the one-page form — and has never shown a refusal in thirty years. Ferrehan is the full hour sat beside it without knocking. |
 | **Location** | Zone D, Forge District — the empty lot behind the fourth barrack |
 | **Resolution Condition** | Presence offered and entry not forced: the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25% |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

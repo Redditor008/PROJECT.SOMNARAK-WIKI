@@ -46,6 +46,28 @@
 - There is no breach counter because it cannot escape. The frozen field expands instead, and its edge is pegged and measured from the same three stakes at every session.
 - Extraction is taken at the field edge under its own authorisation, never by handling the object, and the extraction team is drawn from the handling list so that no new impression is created to obtain energy.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a discrete object of some weight* and that it has never been recorded moving. What expands is the frozen field, and the field edge is chalked at every session. The combat table's own *Ice Shard* note has the denial in it already: nothing breaks off, the surface carries imprints and no wear, and what cuts is a stranger's last minute arriving edgewise.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The cold and the stillness first, then the imprints in the surface, and then a sound that arrives half-frozen and belongs to somebody who is not present. |
 | **Handling** | Handled by named list, in single-use gloves, never past the limit the tool profile sets. The field edge is chalked before the session and measured after it, and nobody holds it bare-handed. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
-| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the imprints and Ferrehan carries the cold; both stand outside the field edge and neither adopts the minute. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Viderehan and Ferrehan only, and the gauge below 25% — on Frozen Echo the second follows the first and has never arrived without it. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

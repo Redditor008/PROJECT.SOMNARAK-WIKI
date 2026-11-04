@@ -83,6 +83,28 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 - {{what yield and risk vary with, if not seniority or equipment, say so}}
 - {{extraction: separate authorisation, its scheduling limits}}
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **{{240 / 420 / 660 / 880 / 1,080 by grade}}** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to {{wall}} across sixty seconds of continuous contact |
+| **Wall** | at {{wall}} it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | {{what this Element takes out of the handler — Grudge: force through the arm; Weight: mass on the frame; Lament: grief taken down; Void: absence poured in}} |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: this one holds {{wall}} in the same minute as the longest line in the archive, 1,080. The larger the
+charge, the more the same minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## {{Combat Record / Contact Record}} — keep one, delete the other
 ### Core Stat Line
 
@@ -93,12 +115,11 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 | **Speed** | {{m/s if it travels; if it does not travel, say what this number can honestly mean or record the file's own convention}} |
 | **Resistance** | {{x}}% against {{own element}} pressure; {{y}}% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ {{% of the tier wall at which this one takes a hand}} |
-| **Sorrow Gauge [{{Pressure / Load / Depth / Saturation by Element}}]** | **000/{{the tier's wall}}** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [{{Pressure / Load / Depth / Saturation by Element}}]** | **000 of {{the tier wall}}** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | {{low–high}} per hit · {{Element}} |
 | **Coherence modifier** | {{I–V}} — affects behavior complexity and response speed |
 | **Potency modifier** | {{Greek letter}} — affects pressure, durability, and escalation severity |
 
-**Charge.** {{Lead,}} the gauge fills the whole of its length in sixty seconds — 000 up to {{wall}} — and at {{wall}} it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at {{wall}}, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

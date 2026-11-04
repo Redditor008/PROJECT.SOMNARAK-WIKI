@@ -44,6 +44,28 @@
 - Han-Energy comes out of the sighting hours and is entered against the exposure the boundary watch took to earn them.
 - Extraction happens at the line, with the piece drawn outward across it. Twice a piece went the other way: nothing was destroyed and nothing was recovered — the slate inventory taken ninety seconds later simply had one fewer entry.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only*. And the resolution row states the whole of the containment policy: nothing is subdued, and nothing ever has been. What the circle does to a person is slow their hand.
@@ -54,13 +76,12 @@
 | **Perceptible to** | One foot past the boundary, a worker's own voice reaching one ear and not the other. Then the writing, which slows in the hand and comes back shorter, flatter and less exact the longer the watch runs. |
 | **Handling** | Work it from the boundary. Every reading that has ever moved the gauge was taken outside the line, and the annual sighting closes when the radius matches its markers to within half a metre. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [Saturation]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, both run from outside the line. Viderehan is the sighting itself; Ferrehan is standing the full survey in the Desolate's weather. The gauge answers to patience here and never to insight. |
 | **Location** | SECTOR-O-924, contained |
 | **Resolution Condition** | The annual sighting closes with the radius matching its markers to within the survey tolerance of half a metre. Containment here is a measurement, not a suppression — nothing is subdued, and the file is explicit that nothing ever has been. |
 
-**Charge.** In the shared air, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

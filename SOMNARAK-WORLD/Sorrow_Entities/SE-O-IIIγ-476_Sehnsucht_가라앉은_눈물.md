@@ -45,6 +45,28 @@
 - The yield is ordinary for the band. The exposure is the transit: a Desolate posting near The Scar, two hours out and two hours back, with an escort requirement on every crossing.
 - Extraction is authorised separately and has been attempted three times. All three drove the object deeper — forty-one centimetres between them — and none recovered anything. The third is the reason reaching is now prohibited rather than discouraged.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *fixed in plan, variable in depth* — it holds its position on the ground, sinks whenever somebody reaches for it, and rises while it is left alone. Nothing is aimed and nothing closes: what the file measures is the depth of the uppermost surface in centimetres and the lit area around it.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The glow under the ground first, then the depth of the uppermost surface below ground level, then the weight coming up through the boots from below rather than from anything in front of the worker. |
 | **Handling** | Reached for by nobody and brought up by nothing. The depth and the lit area are recorded at every watch, the worker sits beside it for the session without trying to raise it, and departure is timed by the watch commander rather than by the worker. |
 | **Activation threshold** | No breach counter; it holds its position on the ground and sinks when reached for |
-| **Sorrow Gauge [Load]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the event under the forgotten grief and holds the depth steady, and nothing surfaces for it. Ferrehan sits beside buried sorrow for the length of the session without trying to bring it up, and is the only work that raises it. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Grief is mourned at the site without a cause being supplied for it, and the Sorrow Gauge falls below 25% |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

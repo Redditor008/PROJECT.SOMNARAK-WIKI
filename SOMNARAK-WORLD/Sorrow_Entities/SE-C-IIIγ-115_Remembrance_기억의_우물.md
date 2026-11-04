@@ -46,6 +46,28 @@
 - No breach counter. The level is gauged from the archive floor every watch, and the annual rise is the only number this holding reports upward.
 - Residue is lifted from the rim stone under separate authorisation, never from the liquid, and never by anybody who has looked in that month.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** A well is a structure and the Movement row says so. The shaft has never been entered, nobody descends, and the two attempts to descend were refused before they reached the chamber. What the rim does is give back what settled into it, in the voice of whoever it came from, and what a watch has to survive is looking in.
@@ -55,14 +77,13 @@
 | **Mode of presence** | A deep stone well beneath the Grand Archive, rim worn and dark, filled with something that is not water and reflects the viewer's past rather than their face |
 | **Perceptible to** | The surface first — slow and viscous, blood-warm, numb and faintly sweet, smelling of ash — and then a voice out of it that belongs to somebody, sometimes to nobody the facility can identify |
 | **Activation threshold** | Breaking the surface with the bronze probe on its winch line. No breach counter; the level is gauged from the archive floor every watch |
-| **Sorrow Gauge [Saturation]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Handling** | No Work Types (`R-40`). Four stages in `## Handling Process`, both at the rim, observation never alone and never by the Warden on watch |
 | **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. The past comes back and the gauge does not move; holding at the cover brings it down. |
 | **Location** | SECTOR-A-01, beneath the Grand Archive |
 | **Resolution Condition** | Seal access and permit only supervised viewing |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

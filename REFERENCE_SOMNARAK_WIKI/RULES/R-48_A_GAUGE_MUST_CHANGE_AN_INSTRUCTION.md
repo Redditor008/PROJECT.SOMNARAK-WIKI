@@ -83,14 +83,14 @@ hand.
 
 **Up — the fill.** The whole of it, in sixty seconds, on every relic:
 
-```text
+```markdown
 000 ─────────── 60 s ─────────── 660
 ```
 
 **Down — the recharge.** It runs back the same line, **a tenth of itself a minute**, so ten minutes
 from spent back to ready at every tier:
 
-```text
+```markdown
 660 ── 1 min ── 594 ── 2 min ── 528 ── 3 min ── 462 ── ... ── 10 min ── 000
 ```
 
@@ -111,26 +111,81 @@ of starting over. `R-47` says the clock resets to base the moment contact breaks
 top** — every minute of run-down so far is thrown away. This is the punishment for impatience, and
 it is the only one in the archive that punishes impatience rather than curiosity.
 
-## 6. The division: table and explanation
+## 6. Three places, and what each one is for
 
-**The table cell is data and nothing else:**
+Draft 3 put the mechanic in the table cell. Draft 4 moved it to a paragraph. **Both were wrong for
+the same reason: neither told the reader the gauge's length.** A cell reading `000/420` does not say
+whether 420 is the ceiling, the reading, or a pair of unrelated numbers, and a paragraph about a
+clock says nothing about how long the line is.
 
-```text
-| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+So the mechanic gets **three places**, and each one answers a different question:
+
+| place | answers | size |
+|---|---|---|
+| **the cell** | *what is it right now, and how long is the line* | one line, under 110 characters |
+| **`## The Charge`** | *how does it work, and what happens if I get it wrong* | a standing section, same in every relic |
+| **the Work Damage row** | *what does it cost per second* | unchanged from `R-47` |
+
+### The cell
+
+```markdown
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 ```
 
-Four readings, no sentences: the reading and its ceiling, the state, the wall, the recharge time.
+`000 of 660` — the reading **of** the length, said in words, because a slash reads as a fraction and
+a fraction of what is never answered. `ready` is the settled state, `limit 60 s` is the wall, and
+`recharge 10 min` is the run-down. Everything a Warden needs at the door is in that line.
 
-**The mechanic is a paragraph outside the table**, led in bold so the eye finds it:
+### `## The Charge` — the standing section
 
-> **Charge.** At the rite, the gauge fills the whole of its length in sixty seconds — 000 up to 660
-> — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a
-> minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage
-> clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at
-> once and the run-down begins again from the top.
+A relic dossier carries a `## The Charge` section immediately before its Contact or Combat Record.
+It is the same section in every relic, with four figures substituted, and it answers the three
+questions a reader actually has: **how long is it, how fast does it move, and what happens at the
+wall.**
 
-**A cell that has to be read twice is a paragraph in the wrong place.** Gate 93 fails any cell over
-110 characters.
+```markdown
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level sits lower after |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the more
+that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+```
+
+**No tier is ever named inside a dossier.** The length row says *"fixed by the grade this file
+carries"* and gives the figure; the grade names themselves live in the guides, which is the
+archive's existing convention and the reason `compare_conversion_guide.py` exists.
+
+**`What it takes` is the only row that changes between files**, and it is the one that carries the
+Element: force through the arm on a Grudge, mass on the frame on a Weight, grief taken down on a
+Lament, absence poured in on a Void. That is the part of this mechanic the owner kept asking for —
+**the SE type is how the gauge reaches the agent** — and it is a row here rather than a sentence in
+a cell.
+
+### Why the section and not the paragraph
+
+A paragraph stated the clock once and assumed the reader would infer the length. A section states
+the length, the fill, the wall, the run-down, both failure modes and the Element in eight short
+rows and three sentences — **and it is the same section every time**, so a reader who has read one
+relic can read any other in the archive without re-learning the mechanic.
+
+**A cell that has to be read twice is a paragraph in the wrong place; a mechanic that has to be
+inferred is a section that was never written.**
 
 ## 7. What the measure is called
 
@@ -174,8 +229,10 @@ not less: **nothing may be used at 000.**
 - the cell does not carry `ready`, `limit 60 s` and `recharge 10 min`;
 - the cell runs past **110 characters**;
 - `Starting Sorrow Gauge` is not **000** — the percentage band is retired;
-- there is no `**Charge.**` paragraph outside the table, or it does not state the sixty-second fill,
-  the ceiling, the tenth-a-minute run-down, and the Work Damage consequence;
+- there is no `## The Charge` section, or it fails to state the tier wall, the resting 000, the
+  sixty-second fill, the tenth-a-minute run-down, the Work Damage chain, or what it takes out of
+  the handler;
+- a `**Charge.**` paragraph is still lying in the table area — the section replaced it;
 - a possession, breaching relic or subject has lost its `[HP]`.
 
 ## Rollout

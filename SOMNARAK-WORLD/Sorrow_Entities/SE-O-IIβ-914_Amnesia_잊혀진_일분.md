@@ -44,6 +44,28 @@
 - The exposure risk is not injury. In eleven years this holding has caused no wound of any kind. What it has caused is 61 minutes during which 200 metres of facility contained people who could not have told you their own names.
 - Extraction here requires the Director's signature, which has been given twice. Both pieces were taken from the edge of the radius during the minute itself by a mechanism on a timer, with nobody within 200 metres, and the Armoury has described the procedure as the most expensive way the facility has ever acquired two objects.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the radius is the thing that moves. Nobody inside it is ever selected, graded or spared — the file calls that the holding's one mercy — and the resistance line says in terms that there is nothing present to strike.
@@ -54,13 +76,12 @@
 | **Perceptible to** | The intention first: at 1158 a worker stops being able to say what they were about to do, and the name and face go at 1159. The clocks do not mark the day in advance, and the radius is surveyed at its edge after the occurrence. |
 | **Handling** | Stand at the line and do not cross it. Nobody sits in the chair at the epicentre, nobody is named aloud inside the radius, and the roll call is completed at the line: every name on the board matched to a person. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only, both performed from the line, which amounts to standing there with the board and the clocks. The table cannot hold the variable that matters, and the file keeps it separately: whether anybody crosses. |
 | **Location** | SECTOR-O-914, contained |
 | **Resolution Condition** | The minute ends by itself at 1200 and the roll call is completed at the line. The cycle closes when every name on the board has been matched to a person. |
 
-**Charge.** Inside the interval, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -46,6 +46,28 @@
 - The surface reflects no face, only the anger beneath it, and glows red when approached by a worker suppressing their own. That glow is the assignment screen.
 - Yield is drawn from the reflected anger, so workers who have genuinely resolved their own produce the lowest returns on this row.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the record says the Mirror does not revert or retaliate. What rises is the surface out of the floor, and the height in centimetres is read at the start and the end of the session.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The surface before the reflection: red near a worker who is holding something in, and the mark on the wall behind it, which is higher at a close than at a shift's start when the session goes wrong. Then the reflection, which is accurate and is not the worker's own anger's fault. |
 | **Handling** | Worked in front of the surface rather than against it, with the height taken in centimetres before anything is attempted, and the session attributed in writing before the room is left. Nobody works the Mirror alone and the conduct file is read before the height is. |
 | **Activation threshold** | No breach counter; activates on direct gaze or touching the reflective surface |
-| **Sorrow Gauge [Pressure]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the event that created the anger and holds the reading steady. Ferrehan forces the worker to remain before their own rage without disowning it, and is the row that lowers the gauge. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | The anger displayed is attributed in writing to the condition that caused it rather than to the person carrying it, and the Sorrow Gauge falls below 25% |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -46,6 +46,28 @@
 - There is no breach counter. Personnel do not handle individual links; handling is by the Chain as a whole under standing order.
 - Residue is recovered from the Row floor under separate authorization.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says the Chain has never moved itself. And the only two occasions it was found rearranged were both after a shift in which the count rose — coiled on its stand, not advanced into the room. What it does is carry what a worker says, and the record's own instruction is to read the worker rather than the object.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The weight of it first, though nothing is being carried. Then the drift of a worker's own account of their childhood, and the count, which is the only reading that has ever predicted the hour that follows. Pressure, temperature and gauge have stayed flat across incidents and the count has not. |
 | **Handling** | Counted before anything else and the number written on the board at the door. Nobody names a person aloud in the room, Wardens are instructed to interrupt a worker who begins a sentence with a name, and the Chain is left slack along its stand. |
 | **Activation threshold** | No breach counter; activates on touching a link while naming its owner |
-| **Sorrow Gauge [Load]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan displays the relationships between memories and holds the gauge. Ferrehan tests whether the worker can carry shared history, and is the row that lowers it. Neither requires a link to be touched. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The Chain lies flat and slack along its whole length, with no link raised and none under tension, and stays that way through two full counts of the links by two different Wardens. The gauge is read afterward and has never been above 25% once the slack condition holds. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

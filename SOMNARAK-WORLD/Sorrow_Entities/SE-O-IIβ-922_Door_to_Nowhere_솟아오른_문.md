@@ -45,6 +45,28 @@
 - The exposure is the handle. Four workers have reached for it in eleven years and all four were competent, senior, and able to explain afterwards exactly what they had been about to open.
 - M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says it rises out of the floor without damaging it and holds position until opened or until it withdraws. Nothing here is thrown and nothing is aimed: the hinge that comes down falls from the door, and the four occasions the handle was reached for are the whole of the record.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The frame's red pressure and the char first, then the handle height — 2.1 metres at first measurement and 2.6 now — which is the longitudinal reading the station keeps. |
 | **Handling** | Observed front and back, with the room's real exit kept clear. Nobody moves closer to complete an illustration and nobody turns the handle. The handle answers to the district, and every rise has fallen within a week when a movement order was in force. |
 | **Activation threshold** | No breach counter; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
-| **Sorrow Gauge [Pressure]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows why the exit was denied and holds the gauge. Ferrehan tests whether a worker can stand before an opening without using it, and lowers it. Both have never moved the handle. |
 | **Location** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | The door withdraws on its own and the team records it shut. 94 appearances, 94 withdrawals, never shorter than forty minutes and never longer than a shift. Nobody has ever ended one. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

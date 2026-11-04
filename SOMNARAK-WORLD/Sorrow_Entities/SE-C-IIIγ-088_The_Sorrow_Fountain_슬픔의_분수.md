@@ -46,6 +46,28 @@
 - There is no breach counter. The Fountain expands its reach across the Echo Gardens, and the wet boundary must be marked at every session.
 - Residue drawn from the basin is the extraction source and is authorized separately.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The basin has never moved, and the file says of its own attack rows that *nothing lashes out and nothing stings — nobody has ever been attacked here*. What it does is fill, and what moves is the damp: outward across the path stones, with the moss line following it four to seven weeks later. A thing whose escalation is measured in metres of garden has a contact record.
@@ -55,14 +77,13 @@
 | **Mode of presence** | A basin in the Gardens that has never moved, holding every grief the district has put in it. The damp is its footprint and the moss line is where the footprint was |
 | **Perceptible to** | Anyone approaching the water while suppressing tears or an unfinished mourning — which is the activation and not a warning of it |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Handling** | No Work Types (`R-40`) — witness at the rim and the chalk survey. No other approach is authorised, and the file says a third one is not being withheld but absent |
 | **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): nothing is returned and the attempt is charged in full. Reading the drops holds the gauge; remaining at the rim brings it down. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Share the burden through witness; do not drain the pool |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

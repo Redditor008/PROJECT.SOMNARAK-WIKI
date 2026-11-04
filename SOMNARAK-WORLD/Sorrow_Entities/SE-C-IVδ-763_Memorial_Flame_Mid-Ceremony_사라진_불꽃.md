@@ -45,6 +45,28 @@
 - There is no breach counter for this holding. Nobody speaks inside the scene: whatever the outcome of the shift, taking part in the rite is entered as a protocol breach, and the entry is made whether or not anything went wrong.
 - Residue is recovered from the ceremonial ground under separate authorization.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and the holding is the place a flame stood and no longer does. There is nothing here that closes distance and nothing that lifts a hand: the file's own account of a bad watch is that the worker comes away carrying somebody else's bereavement, and the bereavement is the hazard.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The memory of warmth first, which is colder than the cold. Then the draft that takes away what warmth the visitor brought with them. Then the soot, settling like black snow on surfaces that have not been hot for years. |
 | **Handling** | Complete the memorial without recreating the original flame. Nothing is relit, nothing is substituted, and the grief carried in is kept rather than adopted — the first sign the file watches for is a worker describing somebody else's bereavement in the first person. |
 | **Activation threshold** | No breach counter; activates on unfinished memorials and extinguished rituals |
-| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the memorial and the people who tended it, held at the same moment of the rite every time. Ferrehan is staying the full entry while carrying grief that is not the worker's and not trying to make it theirs. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Complete the memorial without attempting to recreate the original flame |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

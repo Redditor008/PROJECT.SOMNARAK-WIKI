@@ -46,6 +46,28 @@
 - No breach counter applies. The affected radius grows across the Market, and the edge is remeasured from the case at every session.
 - Residue recovery at the frame is separately authorized.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own position note keeps it in its case: never relocated in the life of the record. Its own attack row says no blade leaves the glass and nothing here is struck. What travels is the edge of the influence, and that is remeasured from the case at every session rather than remembered.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The mismatch first — a broken surface returning an unbroken face — then glass that gives back no warmth, the flat smell of ash, and a quiet that most observers describe as attentive. |
 | **Handling** | Neither Work Type does anything to the fractures. Viderehan is worked from the case; Ferrehan is looking without turning away, measured on the clock and ended from outside the session. Nobody touches the glass and nothing is pressed to it. |
 | **Activation threshold** | No breach counter; activates on direct gaze |
-| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan returns the viewer without the presentation and does not move the gauge at all. Ferrehan keeps looking and does not turn away, which lowers the gauge and is the only cycle here that costs anybody anything. |
 | **Location** | SECTOR-C-01, Mask Market |
 | **Resolution Condition** | the timekeeper calls the end before the worker begins to agree with the glass |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

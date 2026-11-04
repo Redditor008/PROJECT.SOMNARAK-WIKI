@@ -45,6 +45,28 @@
 - Four workers have their hands in this window. All four are still serving. Two have asked to be shown which hand is theirs and both requests were refused by the Warden personally.
 - Two pieces, cut from the cracked edge rather than the pane, under a standing instruction that no extraction may touch a part of the glass that carries a hand. The ledger records which shards were rejected and why.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *fixed in the tunnel wall at chest height* — two removal attempts cracked the surround and left the pane where it was — and the record's own note is that the one strike in nine years changed the count and not the glass. Nothing here moves toward anybody.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The cold off the glass first and the draft through the tear, carrying old anger. Then the reflected hands, which are the register, because the pane remembers every person who has touched it. |
 | **Handling** | Read from the side of the frame rather than in front of it, with the caliper count kept unbroken. A palm is not put on the glass — all four failures on record were a palm on a flat cool surface at hand height at the end of a shift. |
 | **Activation threshold** | No breach counter; activates on touch or direct gaze |
-| **Sorrow Gauge [Pressure]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the history of the room beyond the pane and holds the gauge. Ferrehan tests whether the worker can look without entering the memory, and is the row that lowers it. |
 | **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | The length the window showed is walked end to end by two people and logged on the patrol sheet. 118 cycles, 118 walks; the sheet is the holding's containment and the tunnel office maintains it as a live document rather than an archive. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

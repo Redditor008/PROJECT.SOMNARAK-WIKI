@@ -46,6 +46,28 @@
 - No breach counter applies. The affected ground is staked at every session, since the boundary cannot be judged by surface appearance.
 - Extraction draws from the surface layer under separate authorization.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The shard sits on its tray in Zone D, palm-sized, the one object of its kind the Gardens holds. It has never moved itself and has never been struck in handling, and the old attack row had to be written around the fact that nothing launches. What it does is hold one instant of somebody else's life where it can be looked at, and hand over the anger that came with it to whoever touches it under authorisation.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A palm-sized shard on a tray, under a standard lamp at a marked distance. Two counters on opposite sides of it |
 | **Perceptible to** | Cold that answers along the hairline rather than through the room, and a room whose pace slows while the shard is out |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | The count is taken twice and agrees, and any memory that rose has been attributed aloud to the mourner rather than carried out. Eleven years of paired counts; they have disagreed eleven times and every disagreement was resolved by the second count |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

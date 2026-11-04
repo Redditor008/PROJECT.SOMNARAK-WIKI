@@ -43,6 +43,9 @@ SCHEMA_LABELS = {
     # R-48: a non-breaching relic reads a state meter named for its Element, not [HP].
     "Sorrow Gauge [Pressure]", "Sorrow Gauge [Load]", "Sorrow Gauge [Depth]",
     "Sorrow Gauge [Saturation]",
+    # R-48 §6: the seven fields of the standing `## The Charge` section
+    "Length", "At rest", "Fill", "Wall", "Run-down", "Taken early", "At the wall",
+    "What it takes",
     "Sustained observation", "Termination / Return", "Threat Role",
     "Tool / M.A.W. grade", "Tool Class", "Tool Type", "Transition", "Trigger",
     "Use Mode",

@@ -46,6 +46,28 @@
 - No breach counter. The front is staked every session and the subsidence is surveyed quarterly: 9, 14, 19 millimetres across three years.
 - Residue is lifted from the front under separate authorisation, by a party that does not include anybody screened positive for grievance in the preceding month.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** Patina is a discrete object that has never moved. And nobody enters the ground it is affecting — the record is read from the margin and says so in the middle of its own attack rows: *no shard flies; this holding has never struck anybody and nobody strikes it*. What it does is keep a rust front advancing through whatever is standing in it. A front is surveyed, not fought.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A mass on affected ground, held inside a staked front; nothing about it travels and nobody bears its weight |
 | **Perceptible to** | The vegetation line first, which dies back before the instruments register anything, and then the orange stain on stone, fired clay and painted timber alike |
 | **Activation threshold** | Sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly |
-| **Sorrow Gauge [Pressure]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan from the margin, Ferrehan briefly and under screening |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Acknowledge the original conflict without assigning it to the living |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

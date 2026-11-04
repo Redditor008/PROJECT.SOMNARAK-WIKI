@@ -45,6 +45,28 @@
 - The 16–22 Han-Energy yield is average for the band and the exposure is unusual in kind rather than in degree. What this holding costs is recall: operators leave with somebody else's last words in their memory, filed by their own mind as something they themselves once said.
 - Extraction here is its own authorisation and is never paid out for a good cycle. The source is a shattered object, so extraction takes a shard of it: every piece in this set is itself a fragment of something interrupted and behaves accordingly. It is the only set in the armoury whose three pieces carry break lines in the inventory, and the armoury keeps them that way rather than smoothing the entries.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Combat Record
 
 > **Why this file keeps combat actions.** The Movement row says *floating — drifts in the underground Han currents without reliably following the mapped flow*, and the Speed row says plainly that the drift is not directed locomotion. What the record covers is what the object does when it is already beside the team: fragments arriving faster than they can be written down separately, with the cycle scored against the transcript rather than against the room.
@@ -58,12 +80,11 @@
 | **Speed** | N/A — floating object; drift is not directed locomotion, and activation output is measured per turn |
 | **Resistance** | 35% against Lament, the pressure the object is made of. 25% Against everything else the tunnel can bring — no resistance rating applies to the words themselves. State the listener's identity anchor before contact, keep every fragment on its own line, and never let resistance to pressure be mistaken for protection against false ownership. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

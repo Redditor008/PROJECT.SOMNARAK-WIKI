@@ -46,6 +46,28 @@
 - No breach counter applies; the holding escalates on condition rather than on a count. Personnel make no undertakings of any kind inside the perimeter, including procedural ones and including the ordinary courtesies of a shift handover.
 - Shard residue is swept from the Row floor under separate authorisation, outside the work cycle, and is weighed. The weights are the basis of the fracture diagram.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** It is a shattered contract hovering in pieces over the Row floor — a discrete object, in the Movement row's words — and nothing is thrown from it: the shard row says so in its own line. And every injury on record was sustained by somebody who had broken something they had said. What the site does is hold people to undertakings, and what a watch survives is four turns of not making any.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A shattered contract of red Han-crystal, its fragments hovering and rearranging into signatures that never complete, fever-cold and smelling of char, on the floor of Collector's Row |
 | **Perceptible to** | The arrangement first — fragments leaning toward whoever is speaking — and the cold, against the Row's other red-crystal objects, which are inert and warm |
 | **Activation threshold** | An undertaking spoken in contact with a shard. No breach counter; the holding escalates on condition rather than on a count |
-| **Sorrow Gauge [Pressure]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Flerehan and Pugnahan are not merely unhelpful here but unavailable, this being an object |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | Viderehan and Ferrehan worked under certified Tool protocol, and the gauge brought under 25 per cent |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

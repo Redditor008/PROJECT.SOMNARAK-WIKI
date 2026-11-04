@@ -45,6 +45,28 @@
 - A yield of 20–28 at Severe difficulty is drawn out in the open Desolate near The Scar, hours from relief, with no containment structure of any kind. The exposure figure that matters for this holding is travel time, and it is not in the table.
 - Extraction means cutting crystal out of a line that is itself a record of people who were cut off. It is scheduled separately, and the segment removed is surveyed and logged in position before it is lifted, because the line cannot be put back.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says it is *fixed to its alignment* — the line does not move, the ground under it does — and the record's own note on its worst event is that nothing flares, strikes or is erased. What it takes is direction, and it takes it from whoever is standing on the line.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The footsteps first — the worker's own steps make no sound and somebody else's arrive from the broken section — then the needle, which points along the broken line while every actual exit feels unfinished. |
 | **Handling** | The line is mapped and the names it carries preserved. The off-line partner keeps the head count and stops anybody continuing past the end, and the worker stands where the road stops for the full cycle — neither walking on, which joins the journey, nor turning back. |
 | **Activation threshold** | No breach counter; the line does not move and what shifts is the ground beneath it |
-| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the route as it was walked and the party on it, in order, which is how the sixty-one gaits were separated out. Ferrehan stands where the road stops for the full cycle, and lowers the gauge. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Map the Trace and preserve the names it carries |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -45,6 +45,28 @@
 - No breach counter applies. The affected area spreads underfoot, and its edge is marked on the floor at every session.
 - Residue is recovered from the floor surface under separate authorization.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The trace is a route, not a body: the Movement row calls it a structure or location, and the file says plainly that *it advances; it does not travel*. Nothing here burns, nothing has been injured in a hundred and ten years, and its one documented response to personnel is to thicken where an argument is conducted over it. What a watch has to survive is standing on ground that is still angry at nobody.
@@ -54,13 +76,12 @@
 | **Mode of presence** | A thin crimson trace spreading across cobbles, floors, walls and empty surfaces — a footprint with no walker — chalked at twelve fixed radial stations |
 | **Perceptible to** | Instrument first: the advance past last session's chalk, in centimetres. Felt afterwards as a fever-cold anger with no object in it, which the counselling wing distinguishes from anger because it cannot be discharged |
 | **Activation threshold** | A conduct grievance closed against a department, a post or a rotation rather than a named respondent. No counter and no gauge threshold on the file |
-| **Sorrow Gauge [Pressure]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Pugnahan is not merely invalid here but impossible |
 | **Location** | Zone D, Mantle Commons |
 | **Resolution Condition** | Map the trace and stop repeating the grievance |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

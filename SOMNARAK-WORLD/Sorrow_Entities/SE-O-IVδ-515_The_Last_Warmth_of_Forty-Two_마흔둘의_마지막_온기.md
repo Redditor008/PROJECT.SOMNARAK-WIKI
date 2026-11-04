@@ -45,6 +45,28 @@
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
 - The integrated M.A.W. profiles do not authorize harvesting the expended vial. Its activation record declares the remains inert and forbids extracting them again; the quartz sand and webbing have a memorial destination.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Combat Record
 
 > **Why this file keeps a combat record.** The vessel is stationary and has never pursued anything: what it does, it does where it is put. The one event it has is a rupture, and the rupture is delivered by a hand that throws it — so the record below belongs to the throw rather than to the vial, and the resolution condition is the detonation itself.
@@ -58,12 +80,11 @@
 | **Speed** | N/A — stationary artifact |
 | **Resistance** | 45% against Lament pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 30–57 per hit · Lament |
 | **Coherence modifier** | IV — unified choral soul lattice |
 | **Potency modifier** | δ — critical stasis shockwave |
 
-**Charge.** In the reading, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity.
 

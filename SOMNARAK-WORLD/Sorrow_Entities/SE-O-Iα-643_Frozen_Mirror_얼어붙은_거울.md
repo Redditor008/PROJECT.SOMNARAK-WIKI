@@ -45,6 +45,28 @@
 - The 10–14 Han-Energy yield is the lowest band in the wing and the work is rated Low difficulty, which is exactly why this holding over-schedules. The hazard is not in any single cycle; it is in how many times one person has looked.
 - Extraction from this set is authorised separately and is not a reward for a good cycle. Taking a piece from this source means taking a shard of the surface, and the shard keeps the property: the Reflection stigma leaves its wearer unable to tell their anger from somebody else's.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Combat Record
 
 > **Why this file keeps combat actions.** The mirror drifts with the Desolate's cold currents and is not a walking creature. But every action in the table below begins with somebody meeting their own reflection: the record covers what the glass does once a viewer is in front of it. And the instrument is a pre-statement written down before the look.
@@ -58,12 +80,11 @@
 | **Speed** | N/A — no drift rate has ever been measured. It is carried by the Desolate's cold currents rather than walking, and its bearing is recorded separately from viewing duration |
 | **Resistance** | 15% against Grudge. The plate has been struck once, in Year 4,229, by a worker who had looked into it for eleven minutes. The surface took no damage and the crack pattern changed that night. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [Pressure]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 3–10 per hit · Grudge |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | α — affects pressure, durability, and escalation severity |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

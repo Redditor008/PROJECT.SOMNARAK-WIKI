@@ -46,6 +46,28 @@
 - Record the range at which the needle first responds. That range has drifted outward in each of the last six years and is the holding's primary escalation signal.
 - It keeps pointing outside the chamber, which makes extraction its own exposure event and is the reason the carrying case is opaque and sealed.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a device (internal parts may move)*, and the file's own closing note says nothing leaves the stand and what spreads is the pointing. The needle turns on a plinth. The station logs where it settles, and a bearing followed rather than logged is the failure the file is built around.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The swing of the needle first — rate, dwell, and a recurring fourteen-degree hesitation — then the room losing its forward, and the holder unable afterwards to say which way they came in. For about a quarter of an hour, in the recorded cases. |
 | **Handling** | The compass stays on its stand, the case-holder states one lost thing aloud, and a second person reads the bearing aloud and writes it. Nobody holds it who has an open loss of their own, and nothing is followed. |
 | **Activation threshold** | No breach counter; activates on hold the compass and name a lost thing |
-| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Work preference** | No Work Types (`R-40`) — the compass stays on its stand, one lost thing is stated aloud, a second person reads the bearing and writes it. Nobody follows it, and nobody with an open loss of their own holds the case. |
 | **Location** | SECTOR-D-01, Forge District |
 | **Resolution Condition** | The bearing is logged, the case is closed in the register, and the needle is left where it settles. 188 channels; the needle has settled in 94 and spun for the rest, and the register records which. |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

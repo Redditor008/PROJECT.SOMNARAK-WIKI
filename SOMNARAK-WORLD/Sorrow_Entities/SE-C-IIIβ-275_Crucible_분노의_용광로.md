@@ -46,6 +46,28 @@
 - Structural pressure is literal. Floor temperature and wall integrity are logged alongside the gauge. Both have escalated ahead of the needle, the floor on every occasion and the walls twice.
 - Extraction draws from slag residue under its own authorization. Nothing produced unattended in the working volume is extracted; it is logged, photographed, and destroyed at the District furnace, which is not this one.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *fixed place — the hearth and working volume stay in situ*, and it adds that unattended metal shaping is activity inside that volume rather than locomotion of the holding. Nothing here aims or closes a distance: what the fire does is work on whatever is left in it while somebody in the room is carrying a grievance they have not said out loud.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The heat first, which is the reading — idle floor temperature at the fixed point, 61, then 68, then 74 degrees across three years. Then the smell of hot stone and the sound of metal being shaped by nobody. |
 | **Handling** | Nothing is left in the working volume and nothing is fed to it. The hearth is not quenched and the tongs are not moved. A worker who is angry about something unstated does not enter the volume until they have said it. |
 | **Activation threshold** | Material left within the working volume while somebody present is carrying an unstated grievance — both conditions required, and no breach counter. |
-| **Sorrow Gauge [Pressure]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Work preference** | No Work Types (`R-40`) — nothing is left in the working volume and nothing is fed to it. A worker may stand the watch in the heat and may read the floor and the walls. A worker who is angry about something unstated says it first. |
 | **Location** | Zone D, Forge District |
 | **Resolution Condition** | Somebody states what they are angry about, aloud, in the room, naming it specifically. It has worked on every occasion it has been tried, which is every occasion the heat has risen. |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

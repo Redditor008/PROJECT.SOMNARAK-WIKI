@@ -46,6 +46,28 @@
 - No breach counter: it expands rather than escapes. The distortion reaches outward from the storage bay along the Alpha Tree root lines, and three expansion events are recorded. Nothing has ever left the bay.
 - Extraction runs under its own authorisation and does not alter the movement. The implement goes on keeping its own wrong time throughout, which crews are warned about because the discrepancy does not certify a safe exposure. Keep extraction timing separate from the source’s medical ageing, sequence loss and expansion risks.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a device*, and the file's Three-metre clock cannot leave the bay it is bolted into. Nothing on the record has ever seen it strike. What it does is keep the wrong hour in a seven-metre field, and what a watch has to survive is working inside that field by a clock kept outside it.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The tick first, which is the identification and which nobody has ever been able to count. Then the cold lead-heavy casing gone green, the smell of wet stone, and — inside the line — the sensation of having already done the thing one is about to do. |
 | **Handling** | Not carried and not wound. The field is what travels; the instrument stays where it stands. Winding, forcing the hands, or attempting repair are prohibited rather than discouraged, and the two authorised interventions on file changed nothing. |
 | **Activation threshold** | Proximity, direct contact, or hostile intent. No breach counter; the field is read from the chalk line and the interval from the outside clock. |
-| **Sorrow Gauge [Load]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Work preference** | No Work Types (`R-40`) — the field travels and the instrument does not. Every cycle is held by two people, one inside the radius and one outside it with the watch clock, and neither is optional. |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage — contained |
 | **Resolution Condition** | Work to the outside clock, keep the ten-minute limit, and never trust your own sense of the interval. The gauge comes in under 25 per cent on the outside clock or the sitting does not close. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

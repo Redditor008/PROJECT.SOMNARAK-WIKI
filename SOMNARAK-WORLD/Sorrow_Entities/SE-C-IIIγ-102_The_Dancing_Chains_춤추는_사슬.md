@@ -46,6 +46,28 @@
 - Structural pressure is literal here. Anchor points in Zone B are inspected on a fixed schedule, not on suspicion.
 - Extraction is a distinct exposure with its own authorization.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The links are fused and grown rather than forged, and have never been recorded at rest. The pair is stationary in SECTOR-B-01 and nothing in the record reaches beyond the body it has closed on. The file says it in its own words: *nobody is attacked here*. What happens after contact happens inside one worker, at a pace they did not choose and cannot set down.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The repeating figure first, and then how little sound they make — the bound worker's own breathing falling out of step with their feet is the loudest thing in the cell. Contact is warm and almost eager at the wrist, and that is the last reliable sensation the wearer reports. |
 | **Handling** | Worn, never carried, and never worn by the person leading a withdrawal. Fitted by a named second person who stays outside the working distance with their hands free. The bearer cannot remove the piece, cannot be talked through the removal, and cannot authorise it on their own behalf. Attempting removal alone is a procedural failure whether or not it succeeds. |
 | **Activation threshold** | Direct contact or deliberate binding to a worker; no breach counter. The cycle is read on the pattern's period against the logged baseline. |
-| **Sorrow Gauge [Pressure]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Work preference** | No Work Types (`R-40`) — worn, never carried, and never worn by the person leading a withdrawal. Fitted by a named second person whose hands stay free. The two-person rule admits no exception for brevity. |
 | **Location** | SECTOR-B-01, Zone B — contained |
 | **Resolution Condition** | The pattern is slowed to the logged baseline and the gauge falls below 25%. If a worker is bound at any point, the cycle is over and the only remaining task is removal. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

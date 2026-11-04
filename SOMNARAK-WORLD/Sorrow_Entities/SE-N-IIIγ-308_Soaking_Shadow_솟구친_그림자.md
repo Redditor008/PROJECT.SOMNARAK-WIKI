@@ -46,6 +46,28 @@
 - No breach counter. The wetted outline is chalked every session, because it is the only boundary this holding has and it does not hold still.
 - Residue is lifted from the damp margin on separate authority and never from inside the chalk.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*. The outline on the vault floor moves and the holding does not: it is a man-shaped darkness with clear air above it, and what spreads is the wetted margin across the floor. There is nothing in the air to be struck by and nothing that goes anywhere.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The wetted margin first — the damp reading against the chalk — then the drips, then the grade, which deepens by carrying anger into the room rather than by doing anything in it. |
 | **Handling** | Chalk marks counted before anything else, because the outline moves and the marks are the only record of where it used to be. Positions taken outside the wetted margin, the card not read until the outline is marked. And cleared Wardens only — cleared that week, checked at the door rather than at the roster. |
 | **Activation threshold** | No breach counter; activates on contact, or anger directed at it on purpose |
-| **Sorrow Gauge [Pressure]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is the lodged complaints read aloud in the voices that wrote them, in no order and without end, and holds the gauge. Ferrehan is standing the interval beside it without contributing anything of your own, and lowers it. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged. |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -45,6 +45,28 @@
 - The file keeps no breach counter. The audible field widens instead, and because people live inside it the boundary is walked and marked before every rotation.
 - Residue is taken from the wall face under separate authorisation, never from a party wall, and never from a dwelling that is occupied.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across sixty seconds of continuous contact |
+| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — an artwork*. And the expansion section says the site cannot be contained at all: it is managed by listening and by acknowledgement aloud, which is the only intervention ever observed to hold the boundary. There is no object here to strike and no reach to strike from — there is a wall run that whispers.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The overlap — hours, densities, the clustering of particular phrases — and, under it, the fact that some of what is said concerns the person hearing it. Children in the district are reported to hear it earlier than adults. |
 | **Handling** | Listen, and acknowledge aloud. Nothing is commanded to stop, no transcript is made of a single voice, and no attempt is made to open the fabric or treat the wall. The site is not contained and is not managed by force of any kind. |
 | **Activation threshold** | No breach counter; activates on new sorrow entering the old lament |
-| **Sorrow Gauge [Depth]** | **000/240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan finds the pattern in the overlap without resolving any single voice. Ferrehan is staying inside the overlap while it closes around the worker and becomes a chorus, and it is the only approach that lowers the carry. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | No physical containment; listening and acknowledgment prevent escalation |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 240 — and at 240 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 240, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

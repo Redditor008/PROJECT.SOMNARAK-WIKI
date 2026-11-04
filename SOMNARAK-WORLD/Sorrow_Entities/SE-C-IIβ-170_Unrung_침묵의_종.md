@@ -46,6 +46,28 @@
 - No breach counter exists. Activation remains the hand on the rim with listening spoken aloud, recorded once; the gauge at 60 per cent is only the field escalation threshold. The delay lengthens rather than any boundary expanding, and it is clocked at the station every session because a delay cannot be noticed by someone standing inside it.
 - Residue recovery is separately authorised and has been granted twice in sixty years, both times to the Menders and both times refused on review before the second grant was made.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** Unrung is a bell on a plinth that has not moved, sounded or left its mount in twenty-four years, and the reading is taken eight metres away on a marked line rather than at the object. The old attack rows had to say so: *the bell does not move*, and what arrives arrives late. Its hazard is a delay, and a delay is measured, not fought.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A bell on a plinth, read from a marked line eight metres out. The reading belongs to the line and not to the bell |
 | **Perceptible to** | The absence of a sound that should have come — the bell is heard as lateness before it is heard at all |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **Resolution Condition** | The Ferrehan session is completed on the marked line, the operative's account is taken separately at the station, and the arrival delay is clocked against the fortnight's closed warnings |
 
-**Charge.** In contact, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

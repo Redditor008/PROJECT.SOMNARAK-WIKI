@@ -45,6 +45,28 @@
 - No breach counter. The saturated margin is staked at every session and never carried forward, because a carried figure would hide exactly the small non-monotonic movement the series exists to catch.
 - No liquid, memory or margin sample is extracted under this file. The entry prohibition covers personnel, contact and instrumentation lowered on lines; equipment custody, where separately recorded, is not a sampling route.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and the holding is a lake: a slow dark surface under the Echo Gardens that reflects a life instead of a face. Nothing here closes distance, and the file's account of a bad watch is a flattening in the debrief rather than an injury in the body.
@@ -55,13 +77,12 @@
 | **Perceptible to** | A scene instead of a reflection — somebody's kitchen, in winter, with the light wrong — and then recognition, which is the moment the station loses the observer and the reason the rotation is changed that day and not the next. |
 | **Handling** | Enter the month's soundings unrounded from every station, attribute no scene in any report to a person, and mark the conversation column honestly. Two people stand each watch and are required to talk, because silence has preceded every flattening serious enough to require a stand-down. |
 | **Activation threshold** | No breach counter; no isolated activation trigger has been established |
-| **Sorrow Gauge [Depth]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan returns scenes from lives, unattributable and unverifiable, and the month's soundings; Ferrehan is the watch stood at a station without silence. |
 | **Location** | SECTOR-D-02, beneath the Echo Gardens |
 | **Resolution Condition** | The month's soundings are entered unrounded from every station, no scene in any report is attributed to a person, and the conversation column is marked honestly |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

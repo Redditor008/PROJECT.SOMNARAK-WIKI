@@ -45,6 +45,28 @@
 - No breach counter: it expands along the Row rather than breaching. The end of the inscription and the two ends of the structure are marked physically every session against the forty-one fixed marks.
 - Extraction draws from surface residue under separate authorisation and has never reduced a dimension. The residue is swept, weighed, and returned to the yield account.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says the wall is *stationary — fixed across the thoroughfare; the wall gains length and height rather than travelling, with growth found between watches rather than witnessed construction*. The file's own row on demolition says it plainly: nothing breaks free, the wall is unmarked tomorrow and the equipment that struck it is not.
@@ -55,13 +77,12 @@
 | **Perceptible to** | The length at both ends of the thoroughfare first, measured against the marks. Then the names on the face, which are not carved. A worker at the face meets an obligation pressing as Weight rather than a brick arriving. |
 | **Handling** | Measure, record, acknowledge. The work is read with a debt custodian, the dispute fields are preserved, and the monitored duration is set before anybody approaches — a worker who says the weight feels ordinary is withdrawn first. |
 | **Activation threshold** | No breach counter; activates on new debt or unpaid obligation |
-| **Sorrow Gauge [Load]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the debt on the face and holds the gauge; Ferrehan is bearing the face without adding to the load, and lowers it. Demolition is not a Work Type and never has been. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | Measure and acknowledge the debt; the Wall cannot be demolished |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

@@ -46,6 +46,28 @@
 - Crews are briefed to speak only scripted lines inside the room, and the script is read from the page rather than from memory.
 - Relic recovery is separately authorized and is never an outcome of a routine shift.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The statue does not move from its alcove, and nothing it does is aimed: it grants what is asked of it, and the asking is the whole of the event. What spreads is the tarnish, outward from the base with every cruel wish. A fixed figure that answers wishes has a contact record, and the harm on the file is the harm the wisher asked for.
@@ -55,13 +77,12 @@
 | **Mode of presence** | A blackened stone angel in the Tarnished Shrine with a dish of tears at its feet. The statue stays in the alcove and the tarnish does the travelling |
 | **Perceptible to** | The tarnish first, spreading from the base, and then the sense that a wish has been heard and is being weighed |
 | **Activation threshold** | A wish — spoken or clearly thought — directed at the statue. No percentage and no count are listed |
-| **Sorrow Gauge [Load]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | The Tarnished Shrine, SECTOR-A-04, Zone A |
 | **Resolution Condition** | Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand |
 
-**Charge.** At the rite, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

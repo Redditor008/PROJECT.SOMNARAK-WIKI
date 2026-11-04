@@ -46,6 +46,28 @@
 - No breach counter: it does not leave its bed. It arrives somewhere by running there along the ground, and the stake lines are reset and dated at every session rather than merely inspected.
 - Rim residue is the extraction source under separate authorisation. The sluice function is a different matter entirely and is governed by the safety case described in the Warden Record.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across sixty seconds of continuous contact |
+| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary rim; the channels extend and have never withdrawn from ground reached*. Nothing here is aimed and nothing is pursued: the water goes where the ground takes it, and the hazard on the record is a worker following a channel outward without noticing the distance.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The water first, then the cold coming off it, and then the branches, which are the reading and are staked and measured rather than followed. |
 | **Handling** | Not dammed and not bailed. The stake line is walked and renewed, the channels are never cut, and no worker follows a branch past the perimeter. |
 | **Activation threshold** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels — no breach counter. |
-| **Sorrow Gauge [Depth]** | **000/660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker whose house a channel ends at; Ferrehan holds the stake line. A stable gauge is not a safe cycle here. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Acknowledge each linked site; do not dam the channels |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 660 — and at 660 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 660, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

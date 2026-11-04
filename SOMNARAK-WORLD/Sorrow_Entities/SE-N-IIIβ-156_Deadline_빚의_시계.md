@@ -46,6 +46,28 @@
 - No breach counter applies to this fixed O-Relic: it activates under contact rather than leaving the bracket. The interval is logged at every watch because it is the only quantity this entity produces, and a watch that returns no reading is written up as a failed watch.
 - Residue recovery is separately authorised and has been granted twice, both times after a face repair. The clock has never been dismantled and the prohibition on winding it is absolute.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across sixty seconds of continuous contact |
+| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Contact Record
 
 > **Why this file has no combat actions.** The Movement row says *stationary — a device whose internal parts may move*. And the clock cannot be wound, does not reset. And has never run backwards. Mechanical intervention is prohibited. And the prohibition dates from the one occasion it was tried. What the file holds is a figure each reader takes privately.
@@ -56,13 +78,12 @@
 | **Perceptible to** | The mechanism first, audible anywhere in the room. Then the face, which resolves separately for each observer — two people read the same glass and read different figures, and neither is wrong. |
 | **Handling** | Not wound, not struck, not reset. Readings are taken at the watch and entered with the reader's name against the figure or the line struck through, and nobody in the room is permitted to ask whose date it is. |
 | **Activation threshold** | No breach counter; activates on bare contact by a person carrying an unlodged entitlement |
-| **Sorrow Gauge [Load]** | **000/420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan resolves the date behind the face — which entitlement, published when. And the officer who would apply it — and holds level. Ferrehan is the watch spent in a warm room with an audible mechanism, taking a figure nobody else in the building can check, and lowers the gauge. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The quarter's time-bar list produced and read aloud in the clock room, each extinguished entitlement named with its published date and the officer who applied it, and the gauge below 25% |
 
-**Charge.** At the offering, the gauge fills the whole of its length in sixty seconds — 000 up to 420 — and at 420 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 420, the first dose lands at once and the run-down begins again from the top.
 
 ### Contact Events
 

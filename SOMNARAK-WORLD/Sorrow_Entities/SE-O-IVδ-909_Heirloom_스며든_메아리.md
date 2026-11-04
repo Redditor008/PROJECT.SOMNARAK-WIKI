@@ -44,6 +44,28 @@
 - The 20–28 Han-Energy yield is drawn from a Critical-grade expansion holding that produces no corpse, no vessel and no dust, which makes it look cheap on the ledger. The cost is paid in the vault's dimensions and in what personnel believe about each other afterwards.
 - Extraction here is its own event, separately authorised, and no cycle is rewarded with a piece of the sound. This source yields no vessel to break, so extraction is taken from the sound itself, and the δ-grade set that results carries the source's defining property — it repeats.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across sixty seconds of continuous contact |
+| **Wall** | at 880 it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
+longer leash: the same minute is spent here as everywhere else, and the longer the line, the
+more that minute takes out of the handler — and the sooner the wall is reached.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Combat Record
 > **Why this file keeps combat actions.** The chamber keeps its position and the sound does not. Under provocation the echo sharpens to a single cutting frequency and lands on a worker as their own voice weaponised — a focused strike in the file’s words, arriving from a fixed room that never moves to deliver it.
 
@@ -56,12 +78,11 @@
 | **Speed** | N/A — no body travel rate. The Place stays in the vault while its wall distances and the reach of its echo are recorded separately |
 | **Resistance** | 45% against Grudge. There is nothing present to strike and the walls are ordinary vault stone. The figures are schedule carry-over and the vault has twice asked for them to be replaced with the survey series. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [Pressure]** | **000/880** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 880** · ready · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 30–65 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
-**Charge.** On the ground, the gauge fills the whole of its length in sixty seconds — 000 up to 880 — and at 880 it is spent and will not take the hand. Left alone it runs back down a tenth a minute, so ten minutes from spent to ready. Handled again before it has run down, the Work Damage clock resumes where it stopped rather than starting over; handled at 880, the first dose lands at once and the run-down begins again from the top.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
