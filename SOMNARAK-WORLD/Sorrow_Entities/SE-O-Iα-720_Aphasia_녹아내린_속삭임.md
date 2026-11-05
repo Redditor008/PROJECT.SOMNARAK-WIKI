@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, tallied off the transcript pair and never off the wax |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the breach** — Its shape answers to the words spoken near it, which means a crew describing it aloud is reshaping what they describe. |
 | **Work Damage** | None — the Grudge it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | Granted pieces · α |

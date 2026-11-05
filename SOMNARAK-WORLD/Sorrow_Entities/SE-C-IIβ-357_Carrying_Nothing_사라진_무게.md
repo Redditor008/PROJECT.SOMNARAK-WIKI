@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — Sighted displacement: 11, 17 and 24 millimetres across three years, from the same two floor marks. |
 | **Work Damage** | 2–4 Grudge — the cost is something carried in both hands that the vault inventory does not hold |
 | **Activation threshold** | 3 conditions |
 | **Tool / M.A.W. grade** | β · Fang, Plate, Burden — all three graded; the Burden is given and is not described as a reward |

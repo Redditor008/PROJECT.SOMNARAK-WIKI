@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — The refusal carries no anger. It is flat, and it is the same flat on the four hundredth occasion as on the first. |
 | **Work Damage** | 2–5 Void — the cost is the memory of having pressed the point |
 | **Activation threshold** | 2 missed conditions |
 | **Tool / M.A.W. grade** | γ · γ (Major) |

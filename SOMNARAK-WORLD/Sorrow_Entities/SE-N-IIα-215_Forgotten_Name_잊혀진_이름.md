@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the wall** — The name does not survive speech at all, by one person or by twenty. The older entry suggesting that a chorus could hold it aloud was wrong and cost the holding four months. |
 | **Work Damage** | None — the Void it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% — modelled; no district transform has been observed |
 | **Tool / M.A.W. grade** | — · α |

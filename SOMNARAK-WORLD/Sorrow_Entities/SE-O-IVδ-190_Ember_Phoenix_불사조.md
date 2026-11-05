@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, counted across whole cycles rather than by the hour |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — It keeps no territory and roams, so the facility's fire response is permanently staffed rather than called up, and the staffing is carried as a standing cost. |
 | **Work Damage** | 4–7 Grudge — the cost is one burning let to run its course while the sequence continues |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | δ · δ |

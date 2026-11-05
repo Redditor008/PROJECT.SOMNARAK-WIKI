@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 per successful work cycle, tallied off survey readings rather than off the Trace itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the counter** — Its bearing follows an alignment that no current map carries, and the Cartographic Office confirmed the match from its own withdrawn sheets. |
 | **Work Damage** | 3–6 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a journey lightened and added to the survey, never finished. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; the line does not move and what shifts is the ground beneath it |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |

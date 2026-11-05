@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, and the yield accumulates while the span is left uncrossed — cycles that engage the Bridge return less than cycles that wait beside it. The record's note is that this is the only holding in the Row whose yield improves with patience. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the counter** — It reaches across the nearest connected document and stops where the connections stop. Nothing grows plank by plank and nothing is hungry. |
 | **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a bridge spreading across ledgers and floors rather than escaping. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on touching one end while naming the other person |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |

@@ -282,6 +282,24 @@ Type — Places, Times, Hazards, 61 of them — read the clock off `Entity Type`
 **Status:** DONE — **143 of 143 relic dossiers** carry a per-second dose with a tightening clock
 and a reset.
 
+### O-36 · Some holdings have one thing they do
+
+**The owner's instruction, 2026-11-05:** *"Invent New Effect For OUR SE That Basically An Individual
+Specific SE Effect Can Happen In Any Ways Of Forms [When Breach Happen [Any Kind], Finished Working
+The SE, Special Effect Of SE And More] And It Will Be Only On 45% Of The SE"*
+
+- **45 %, not everyone.** **135 of 301** dossiers carry `**SE Effect**`. The plain holdings are the
+  majority on purpose; a bestiary where every entry has a unique power is a list of exceptions.
+- **The occasion is never invented** — it is read off the file's own `**Activation threshold**` and
+  `**Entity Type**`: *the breach · the counter · the wall · the contact · the completion · the
+  refusal*.
+- **The law is the file's own sentence.** The gate strikes the cell out and checks the effect's
+  vocabulary against the rest of the dossier; an effect made of borrowed words fails.
+- **Absence is the reading.** No row means no individual effect — unlike `R-49`, the row is not
+  written as `None`.
+
+Full rule: `R-50`. Gate: `tools/auditors/check_se_effect.py`.
+
 ### O-35 · A work can cost, cost nothing, or give
 
 **The owner's instruction, 2026-11-05:** *"Can You Add Work Dmg/Buff To Normal SE TOO So Like L

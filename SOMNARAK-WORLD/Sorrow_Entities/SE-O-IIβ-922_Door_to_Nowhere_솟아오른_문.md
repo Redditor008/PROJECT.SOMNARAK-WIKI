@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, taken from a door that is not attached to anything, in whichever room it is in that week. The Old Lament station notes that the cycle cannot be scheduled: the team is dispatched when the door is reported. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the counter** — Its red pressure increases when someone says they have no choice. Any proposal to open it is an escalation to the Warden, and 2 such proposals have been made. |
 | **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a handle that does not come down, standing at 2.1 metres. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |

@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per completed cycle, taken at the threshold — never counted inside the tunnel. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the wall** — It has never opened and the mechanism has never been the reason. The hinges turn; there are several metres of tunnel on top of the leaf. |
 | **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a Door settled for a while, with the stone never lifted. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |

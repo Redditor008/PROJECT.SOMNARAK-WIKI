@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, and the crystal gives up its stored anger only where the surface has been softened — tears release a portion of the stored volume, which is the sole condition under which the yield can be taken safely. A cycle worked on a hardened surface returns the lower end of the range and takes longer. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the counter** — It answers a raised voice with a silent pressure wave and forms no blade and no water. What it refuses is the interruption. |
 | **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a stored volume expanding inside the crystal. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on touch or vocal aggression nearby |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |

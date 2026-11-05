@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, drawn from a corridor wall that the whole wing walks past. The works office has twice costed a diversion around it and the cost is the transit time of every shift in the building. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
+| **SE Effect** | **On the counter** — A worker who cannot hold does not panic. They become aware of their own breathing and cannot stop being aware of it, and the awareness persists for hours after they have left the corridor. |
 | **Work Damage** | 4–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an interval that matches no respiration the wing has on file. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |

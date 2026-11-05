@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the counter** — Long exposure produces the site's signature state: a worker who can hear the walls in other districts, in rooms that have never been part of Old Lament. |
 | **Work Damage** | 1–2 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an ambient site with no source, worked from outside it. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on new sorrow entering the old lament |
 | **Tool / M.A.W. grade** | α (Minor) · α (Minor) — the Star-Chalice, the Listening Shroud and the Listening Stone are all graded to the site. |

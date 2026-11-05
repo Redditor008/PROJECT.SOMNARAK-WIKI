@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | The gap opens somewhere between 45 and 65 per cent wherever it is first noticed. The spread is not looseness in the record: it tracks what the bay has already been asked to carry. |
 | **Han-Energy yield** | Earned in a band — 16 to 22 — and only on a cycle that completes. Where in the band it lands is set by how much of the absence the crew was willing to stand inside. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the counter** — It is loudest in the mask rows, which is where the Market keeps the things people wear instead of themselves. |
 | **Work Damage** | 2–4 Void — the cost is one elevation above the Market floor, never once observed in motion |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | γ · γ |

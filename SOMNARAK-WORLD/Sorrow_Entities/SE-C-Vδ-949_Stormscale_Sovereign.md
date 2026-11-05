@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | — · no work loop exists. Nothing is collected from a form that is never held, and no yield figure is carried for it. |
 | **Work difficulty** | — · no work session exists. The field values below describe the manifested event, not a session anybody may run against it. |
+| **SE Effect** | **On the completion** — The form is inherently unstable — born of a thousand selfish wishes and one selfless one. It cannot hold, and it fell the first time within a single selfless wish of manifesting. |
 | **Activation threshold** | The reunion of the Soot Fry and the Foam Flood (FORBIDDEN) |
 | **Tool / M.A.W. grade** | δ · filed from the historical resonance only. No production line exists and no piece is extracted from a held body. |
 | **Vessel-Destructible** | No — Sovereign; the form dissolves back into the fish, it cannot be shattered. |

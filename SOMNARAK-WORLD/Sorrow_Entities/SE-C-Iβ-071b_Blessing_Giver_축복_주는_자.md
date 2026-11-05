@@ -32,6 +32,7 @@
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 8–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Escalating |
+| **SE Effect** | **On the breach** — Each blessing is permanent — HP restored, attributes boosted, but the mark remains. |
 | **Work Damage** | None — the blessing is given and the room is left exactly as it was. |
 | **Work Gift** | +5–10 Composure for the rest of the cycle — she does not wait to be asked, and what she blesses is drawn out of a memory the worker cannot choose. |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |

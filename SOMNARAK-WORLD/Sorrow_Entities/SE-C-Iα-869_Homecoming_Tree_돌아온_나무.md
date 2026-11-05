@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the breach** — The Tree is found at a failed return; the observer knows a route they have never walked. |
 | **Work Damage** | None — the ground under it stays where it is. |
 | **Work Gift** | +5–10 Composure for the rest of the cycle — it returns the worker to somewhere they have been before, and the record cannot say where it took them from. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |

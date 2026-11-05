@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **SE Effect** | **On the completion** — The count is a hundred and forty-four and has not altered in the whole life of the containment, through two Tides and both containment events. |
 | **Work Damage** | 3–5 Lament — the cost is a voice the worker knows, and the session stops moving while they listen |
 | **Activation threshold** | 2 missed conditions |
 | **Tool / M.A.W. grade** | — · γ (Major) |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the counter** — Tides raise the patrol rate and shorten the interval between passes; they do not change what it will accept as acknowledgement. |
 | **Work Damage** | None — the Grudge it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | β · β (Moderate) |

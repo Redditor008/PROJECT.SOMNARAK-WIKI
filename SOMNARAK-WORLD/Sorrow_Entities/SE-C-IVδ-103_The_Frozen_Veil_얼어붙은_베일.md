@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
+| **SE Effect** | **On the breach** — The Kind Healer refuses to approach; warmth cannot penetrate the Veil. |
 | **Work Damage** | 3–6 Void — the cost is storage work on a thing that has not moved and reads as though it might |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ (Critical) |

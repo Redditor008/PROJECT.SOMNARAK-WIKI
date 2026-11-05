@@ -89,6 +89,7 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 | **Work difficulty** | {{Minimal / Low / Moderate / High / Catastrophic}} · R.D. Comprehension Level {{1–5}} |
 | **Work Damage** | {{The verdict is one of three (`R-49`). **Damage** — a band inside the grade, the holding's own `Element`, and one clause naming the mechanism: `3–6 Grudge — the cost is …`. **Neutral** — `None — {what it does with the cost instead}; it is the room that pays it, not the worker.` **Gift** — `None` here, plus the `**Work Gift**` row below}} |
 | **Work Gift** | {{Gift verdict only, and delete the row otherwise: `+5–10 {Composure or Resilience} for the rest of the cycle — {the price, in the holding's own element}`. A loan, not a line on the worker's sheet — `R-49` §5}} |
+| **SE Effect** | {{Only on the 45 % that have one (`R-50`), and delete the row otherwise: `**On {the breach | the counter | the wall | the contact | the completion | the refusal}** — {the law, in this holding's own words}.` The occasion comes from this file's own `**Activation threshold**` and `**Entity Type**`; the law is what this one does that no other one does}} |
 | **Activation threshold** | {{Gauge % or turn count — or `no counter` / `no gauge` / both, per Special Activation}} |
 | **Tool / M.A.W. grade** | {{— · α/β/γ/δ/ω}} |
 | **Vessel-Destructible** | {{Yes / No}} |

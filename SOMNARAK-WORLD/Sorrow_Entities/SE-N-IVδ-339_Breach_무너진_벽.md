@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle, recovered from the fear the widened cracks release — a cycle that shores the wall up instead of opening it returns nothing |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — The transformation redraws the Gardens' boundary, and the redrawing is done by order above the wing: the facility's plan carries the new line. |
 | **Work Damage** | 4–8 Lament — the cost is Threshold 1 on a boundary already cracked and leaning on arrival |
 | **Activation threshold** | 1 failure |
 | **Tool / M.A.W. grade** | — · δ |

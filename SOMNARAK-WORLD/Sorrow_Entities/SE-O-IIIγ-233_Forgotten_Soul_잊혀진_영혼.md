@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per cycle, earned by walking. A cycle is a full circuit of the track beside it — between four and nine kilometres — and the Old Lament station costs this holding in boot leather rather than in equipment. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — An abandoned circuit does not breach anything. The figure walks on, the track lengthens slightly, and the next cycle opens four to seven points higher. |
 | **Work Damage** | 2–4 Lament — the cost is a circuit that lowers the gauge and recovers nothing, nine years running |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · γ |

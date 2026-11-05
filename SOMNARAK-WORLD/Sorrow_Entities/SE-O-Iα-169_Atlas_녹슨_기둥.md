@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per successful work cycle, read off the flake tray at handover and never off the pillar |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the breach** — Fresh rust follows unshared work, within the same watch, and the correlation is the holding's only predictive finding. |
 | **Work Damage** | 1–2 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a corrosion rate slowed measurably and nothing else. It resets to 10 s the moment the wearer is out of it — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 45 per cent — a low threshold on a minor holding. No counter is filed and none is implied. |
 | **Tool / M.A.W. grade** | α · α |

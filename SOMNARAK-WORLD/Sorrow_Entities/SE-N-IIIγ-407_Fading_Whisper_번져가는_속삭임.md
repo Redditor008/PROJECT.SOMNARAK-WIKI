@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the counter** — Denial is the only thing that strengthens it. Telling it that there was never any such place raises the level within the hour. |
 | **Work Damage** | 2–4 Void — the cost is a whisper quieter at every logging and not yet gone |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | γ · δ |

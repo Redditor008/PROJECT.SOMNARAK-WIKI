@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and the Archive has twice asked that the figure be ignored. What the sector is worked for is the transcription: 309 tales have been read off the body in nineteen years, and 11 of them exist in no other record anywhere in Somnarak. |
 | **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
+| **SE Effect** | **On the breach** — 309 tales recovered in nineteen years; 11 of them attested nowhere else in Somnarak; 41 currently open across 9 transcribers. |
 | **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · α |

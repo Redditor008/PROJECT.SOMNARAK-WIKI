@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the completion** — A failed cycle has one meaning here: it wakes. What follows is filed as reconstruction, has never been observed, and is treated as unobserved rather than as known. |
 | **Work Damage** | None — the rubble settles and the figure sleeps deeper. |
 | **Work Gift** | +5–10 Composure for the rest of the cycle — the sleep is deeper and steadier, and it takes a memory down with it each time it is entered. |
 | **Activation threshold** | 1 |

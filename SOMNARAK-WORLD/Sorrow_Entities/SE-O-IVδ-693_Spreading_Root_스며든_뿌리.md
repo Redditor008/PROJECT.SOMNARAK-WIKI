@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28, taken while the ground is being listened to. A cycle that clears, cuts or bores yields nothing at all, which the sheet records as a nil entry rather than as a low one |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — the roots spread through existing cracks rather than through solid material, so the ground that fails is the ground that was already broken. |
 | **Work Damage** | 3–7 Weight — the cost is a reading lowered and the threading untouched |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · — |

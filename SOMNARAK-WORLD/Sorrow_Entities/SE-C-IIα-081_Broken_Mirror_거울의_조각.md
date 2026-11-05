@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per cycle, drawn from the painted line with the glass angled away. The Archive's return notes that the yield is the smallest in Zone A and that the holding costs two staff an hour each time it is worked. |
 | **Work difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
+| **SE Effect** | **On the counter** — Its signature answers the Archive's sealed vaults: 9 of them register at the door when the radius reaches their aisle. The worker glances back to check a detail of what they saw, and the second look is the one every incident report turns on. |
 | **Work Damage** | 1–2 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a second look at what the worker already saw. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Direct gaze or physical contact — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |

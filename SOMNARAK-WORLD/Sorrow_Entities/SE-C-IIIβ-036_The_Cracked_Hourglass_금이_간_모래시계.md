@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per successful work cycle, timings taken from the vault clock and the tick interval |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
+| **SE Effect** | **On the wall** — Contact produces emotional weight rather than physical heaviness; personnel describe it as being behind on something they cannot name. |
 | **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is sand running whether or not the glass is turned. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Touch or prolonged observation. No breach counter; the crack is gauged with the feeler strip before and after, at both doors. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |

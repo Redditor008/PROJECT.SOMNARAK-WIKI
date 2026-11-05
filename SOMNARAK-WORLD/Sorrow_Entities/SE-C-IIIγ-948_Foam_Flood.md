@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
+| **SE Effect** | **On the completion** — It grows sadder, not less, each time its longing is shared — channeling eases others and deepens it. |
 | **Work Damage** | 2–4 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a shrine that sits dry in the Riverbed Vault and reads cool regardless. It resets to 15 s the moment the rite stops — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | A hand laid upon the carving, or bare skin within the longing-field |
 | **Tool / M.A.W. grade** | γ |

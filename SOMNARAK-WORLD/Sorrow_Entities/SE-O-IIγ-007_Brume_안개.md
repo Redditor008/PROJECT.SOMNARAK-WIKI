@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 per successful work cycle, as timed by the margin's external clock and never by anybody's account |
 | **Work difficulty** | High · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the wall** — The Fog is mobile and follows existing Han-flow lines, and where the flow stalls it stands until the air moves again. |
 | **Work Damage** | 1–3 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a bank thinned and a reach shortened for a while. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | γ · γ |

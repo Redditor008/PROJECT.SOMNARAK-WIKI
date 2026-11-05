@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle, drawn from the dark water under the span rather than from the stone, and reachable only while the body stays arched |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — it takes up a span on foot and the Gardens' routes are rerouted around it by works order rather than by wing decision, and the detour outlives the breach. |
 | **Work Damage** | 4–7 Grudge — the cost is Threshold 1 on a body already spanning corridors |
 | **Activation threshold** | 1 failed cycle |
 | **Tool / M.A.W. grade** | — · α (Minor) — the extracted pieces, not the δ source |

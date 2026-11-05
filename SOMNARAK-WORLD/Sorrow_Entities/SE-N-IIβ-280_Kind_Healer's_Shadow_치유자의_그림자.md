@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken off the ward and never off the shadow |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — Unresolved, it transforms rather than escapes: the warmth spreads past the person it was attending and the ward's own shadows begin to hold it. |
 | **Work Damage** | None — it gives ground to the worker and never escalates. |
 | **Work Gift** | +5–10 Composure for the rest of the cycle — it withdraws rather than escalates, and the ground it gives up is the worker's to stand on afterwards. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |

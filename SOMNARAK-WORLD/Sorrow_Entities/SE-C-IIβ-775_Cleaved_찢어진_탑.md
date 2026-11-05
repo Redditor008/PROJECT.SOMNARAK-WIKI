@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — Its route follows the footprint and the approach streets of the suspended works, and nothing built since. |
 | **Work Damage** | None — the Void it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 3 — counts down; the third ignored condition breaches it |
 | **Tool / M.A.W. grade** | — · β |

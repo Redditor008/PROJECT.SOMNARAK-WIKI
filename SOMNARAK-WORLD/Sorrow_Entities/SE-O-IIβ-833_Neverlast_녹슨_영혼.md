@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
+| **SE Effect** | **On the completion** — It has never widened the zone on purpose. All four recorded spreads began with a watch being stood down. |
 | **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | β (Moderate) |

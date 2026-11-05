@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, read at the margin tape rather than from the blooms |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — The blooms turn toward people and track them across the margin, which is the detail first-time observers find hardest to look away from. |
 | **Work Damage** | 3–5 Grudge — the cost is a growth toward people rather than light, invisible across one shift |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | γ · γ |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, taken in a dry tunnel by a party carrying air bottles they do not need. The bottles are protocol: three Wardens have reported being unable to breathe and all three were in moving air at the time. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — An unacknowledged cycle does not breach. The interval lengthens by a second or two and the next cycle opens higher, and the lengthening has never reversed. |
 | **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |

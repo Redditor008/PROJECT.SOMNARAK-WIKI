@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, a cycle here being one hour sat out in full at the perimeter. The yield does not change with the number of stories that manifest, which has run between four and thirty-one. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
+| **SE Effect** | **On the completion** — Eleven workers are written into register entries under their own names and four have asked for the entries to be struck. |
 | **Work Damage** | 2–4 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is naming the tellers — ninety-four hours in six years, and the gauge lowered only. It resets to 20 s the moment the operator is out of the interval — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · γ |

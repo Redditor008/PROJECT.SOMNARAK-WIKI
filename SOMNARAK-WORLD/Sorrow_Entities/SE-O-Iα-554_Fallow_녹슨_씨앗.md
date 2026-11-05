@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, and every cycle costs the survey office one iron stake. The stakes are driven at the creeper's leading edge, read for corrosion depth, and discarded. Eleven years of them are kept in a crate at the Desolate station, in order, as the holding's primary series. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the breach** — The Seed rolls with Han-wind and never follows a straight route, and no two runs of it have ended in the same place. |
 | **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | M.A.W. Weapon, Suit and Stigma: α |

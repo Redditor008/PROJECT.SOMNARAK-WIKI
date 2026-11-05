@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle, drawn from the offered end while it is held and given back, and nothing at all from a session that ties or secures it |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the breach** — The Rope's phantom mark aches; the target feels the absence of the binding. |
 | **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 4 ignored conditions |
 | **Tool / M.A.W. grade** | — · — |

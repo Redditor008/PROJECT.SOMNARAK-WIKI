@@ -2,6 +2,34 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — some holdings have one thing they do
+
+**`R-50` — `**SE Effect**`, on 45 % of the archive.** Three rows described a holding from the
+outside; none of them said what *this one* does that no other one does. **135 of 301** dossiers now
+carry a law of their own, and the other 166 are plain on purpose.
+
+| trigger | count | read from |
+|---|---|---|
+| **the breach** | 54 | `Entity Type` naming a breach |
+| **the counter** | 37 | `Activation threshold` counting conditions |
+| **the wall** | 27 | `Activation threshold` reading a gauge |
+| **the completion** | 12 | the work loop |
+| **the contact** | 5 | a contact activation |
+
+- **The occasion is the dossier's own.** No effect fires on an invented condition — the trigger is
+  read off the file's `**Activation threshold**` and `**Entity Type**`, which the dossier already
+  carried.
+- **The law is the record's own sentence.** Each effect is drawn from that dossier's Observation
+  Log, its Consequences or its Contact Events. The gate strikes the row out and checks the effect's
+  vocabulary against the rest of the file, so an effect written from a house template fails.
+- **135 is the constant, not the judgement** — the same discipline as `R-49`'s 65/25/10, stratified
+  by wing and grade so the subset is not one colour.
+- **Absence is the reading.** A dossier without the row is a holding with no individual effect; the
+  row is never written as `None`.
+
+**New gate:** `tools/auditors/check_se_effect.py` (89) holds the count, the six triggers, the
+twelve-word floor, the vocabulary provenance, the no-duplicate rule and the breach legality.
+
 ## Unreleased — a work can cost, cost nothing, or give
 
 **`R-49` — the three work outcomes.** Before this rule every worked subject charged the worker:

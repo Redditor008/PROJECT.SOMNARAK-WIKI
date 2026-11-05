@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, read off the approach temperature at one and three metres and never off the warmth of the floor |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — The fire warms long before it burns, and most personnel never reach the burning range because they stop wanting to move away. |
 | **Work Damage** | 3–5 Weight — the cost is a fire that consumes nothing, unchanged since it was first logged |
 | **Activation threshold** | 2 conditions |
 | **Tool / M.A.W. grade** | — · γ (Major) |

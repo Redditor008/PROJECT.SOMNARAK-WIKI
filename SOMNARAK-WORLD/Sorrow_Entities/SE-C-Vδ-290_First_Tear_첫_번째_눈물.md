@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 5 — Sovereign |
+| **SE Effect** | **On the counter** — Exposure is capped at the four minutes the reading takes, not because longer is known to be harmful but because nothing is known, and the cap is a facility rule rather than a finding. |
 | **Work Damage** | 5–8 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a grief with no event attached: it arrives complete and unlabelled, and does not resolve in the debrief. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on none authorized — touch is forbidden and has never been carried out |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
+| **SE Effect** | **On the breach** — The tally is called aloud, logged by two people, and reconciled at every shift change without exception. |
 | **Work Damage** | None — it treats what it finds and leaves the room untouched. |
 | **Work Gift** | +5–10 Resilience for the rest of the cycle — the injuries are real, including the ones nobody reported, and the memory it works from is taken out of the worker. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |

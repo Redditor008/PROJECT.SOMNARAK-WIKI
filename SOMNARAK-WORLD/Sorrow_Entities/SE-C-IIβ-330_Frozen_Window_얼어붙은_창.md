@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% — the low end belongs to watches opened before the surface has shown anybody anything. |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, and the yield does not move with what the surface is showing. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic; the difficulty is in watching a departure through without following it. |
+| **SE Effect** | **On the breach** — it leaves the Commons on foot as an Escape breach, relocating rather than pursuing, and the gauge climbs on every relocation. |
 | **Work Damage** | None — the Weight it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 3 — three ignored conditions, and the holding's own note is that the second is where the scene starts choosing the watcher. |
 | **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Mullion-Pike, the Window-Plate and the Rime-Pane Monocle are all graded to the holding. |

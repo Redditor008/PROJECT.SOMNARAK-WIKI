@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the breach** — The Child's cooling spreads through every source of warmth in reach, the lamp scale included. |
 | **Work Damage** | None — the embers neither go out nor spread, and the warmth they hold stays in the chamber. |
 | **Work Gift** | +5–10 Composure for the rest of the cycle — they warm without spreading, and the memory they are fed from is one the worker will not be able to check. |
 | **Activation threshold** | 3 ignored conditions |

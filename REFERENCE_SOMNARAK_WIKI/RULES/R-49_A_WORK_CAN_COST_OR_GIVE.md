@@ -111,6 +111,8 @@ not to the work.
 
 ## 7. What this changes elsewhere
 
+**`R-50` adds the third layer**: what this holding does that no other one does, on 45 % of them.
+
 The subject template carries the three verdicts and the optional gift row. `R-44` §2 gains a
 pointer here. The `how_finished.py` dashboard gains an eighteenth standard. Relics are **not** in
 scope: a relic's contact is already continuous and is priced by the second under `R-47`, and a relic

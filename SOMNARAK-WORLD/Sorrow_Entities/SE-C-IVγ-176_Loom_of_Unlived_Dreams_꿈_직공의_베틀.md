@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, taken from the finished length on the beam at the close of a timed rotation: the figure is paid for cloth, not for hours. And a rotation that ends early pays the same as one that runs to the clock only because the clock is what ends it. |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **SE Effect** | **On the counter** — It answers to what a person was preparing for far more reliably than to any contact with the frame. |
 | **Work Damage** | 5–8 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is futures nobody started, further along at every inspection than the last. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on contact with the weave, or entry to any dream chamber inside the marked radius |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ (Major) |

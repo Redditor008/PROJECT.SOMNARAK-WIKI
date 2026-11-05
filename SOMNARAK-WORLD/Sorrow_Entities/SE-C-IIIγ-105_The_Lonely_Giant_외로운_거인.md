@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **SE Effect** | **On the breach** — it feeds on the breaking: the worker's Resolve goes down first and the gauge lifts on the way down, so the watch that steadies the person is the watch that feeds it. |
 | **Work Damage** | 2–4 Weight — the cost is the district's traffic rerouted around a walk that is tracked rather than contained |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · γ (Major) |

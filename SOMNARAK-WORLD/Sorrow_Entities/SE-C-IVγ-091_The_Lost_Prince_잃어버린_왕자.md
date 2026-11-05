@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **SE Effect** | **On the breach** — Personnel who answer truthfully experience a wave of sorrow not their own. |
 | **Work Damage** | 3–6 Lament — the cost is searching the Gardens for a place the survey does not contain |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ (Major) |

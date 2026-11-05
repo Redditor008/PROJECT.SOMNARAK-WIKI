@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — The Sigh spreads until every breath in the field is a sigh, and the field's own relief schedule is what decides how long that takes. |
 | **Work Damage** | None — the Sigh settles and quiets for a time. |
 | **Work Gift** | +5–10 Composure for the rest of the cycle — it resolves nothing, and what it lends it takes back at the end of the cycle without naming an interest rate. |
 | **Activation threshold** | 1 condition |

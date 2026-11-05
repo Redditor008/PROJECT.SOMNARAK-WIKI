@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — The puddle, though under a metre deep, has no measurable floor during a lunge — sonar returns nothing. |
 | **Work Damage** | None — the Weight it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | A hand or line entering the puddle |
 | **Tool / M.A.W. grade** | β |

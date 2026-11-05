@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, taken on open border ground from a thing the survey maps do not carry. The Border station books it against a grid reference that the mapping office has twice asked it to stop using. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **SE Effect** | **On the breach** — The Tree's phantom shadow marks the target; they feel the absence. |
 | **Work Damage** | None — the Grudge it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | α — Fang, Plate and Pendant all graded |

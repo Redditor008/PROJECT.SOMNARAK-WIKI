@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
+| **SE Effect** | **On the breach** — The Mother spreads her embrace across the whole field, smothering all within reach. |
 | **Work Damage** | 4–7 Grudge — the cost is one attempt per shift — Threshold 1 opens the chamber, and an aborted worker does not try again that day |
 | **Activation threshold** | 1 failed cycle |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |

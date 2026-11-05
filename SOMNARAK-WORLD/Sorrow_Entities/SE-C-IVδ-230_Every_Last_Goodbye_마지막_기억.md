@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
+| **SE Effect** | **On the wall** — It holds every recorded death in the city and a great many the city has no record of, and the second category is the larger. |
 | **Work Damage** | 5–8 Void — the cost is partings that attach to no departure the vault record holds |
 | **Activation threshold** | Corrupt pulse: event begins at 85% and adds 10% for every unanswered interval; combat threshold ≥90% |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |

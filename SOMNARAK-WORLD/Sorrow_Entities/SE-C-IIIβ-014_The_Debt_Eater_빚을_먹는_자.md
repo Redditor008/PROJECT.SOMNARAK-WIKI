@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — The Eater samples the target's debts; the taste lingers as a mark. |
 | **Work Damage** | None — the Void it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 3 ignored activation conditions |
 | **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Debt Prism, the Debt Veil and the Debt Scale are all graded to the holding. |

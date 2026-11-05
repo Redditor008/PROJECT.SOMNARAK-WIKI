@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | Extreme — but unharvestable (raw, unstructured) |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Active border threat |
+| **SE Effect** | **On the breach** — The Tide always returns; it is the wilderness breathing, and the wall is read on the pressure rather than on the sighting. |
 | **Work Damage** | 4–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a border phenomenon rather than a contained holding: a SECTOR cannot hold it and the survey is the containment. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Wilderness Han surges past the Desolate's outer edge |
 | **Tool / M.A.W. grade** | N/A — Place-manifestation, Sovereign-grade; no M.A.W. extraction possible |

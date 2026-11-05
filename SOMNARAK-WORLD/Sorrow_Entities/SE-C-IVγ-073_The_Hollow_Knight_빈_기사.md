@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **SE Effect** | **On the completion** — The Knight's movement carries phantom weight; the emptiness is massive. |
 | **Work Damage** | 4–7 Grudge — the cost is duty without a body: the worker's back straightens and does not come down |
 | **Activation threshold** | 2 conditions |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Duty Fang, Plate and Shield are all graded to the holding. |

@@ -1,3 +1,35 @@
+# Work In Progress
+
+## Batch 204 — some holdings have one thing they do (2026-11-05)
+
+### 1. What was missing
+
+`Work Damage`, `Work Gift` and `Activation threshold` all describe a holding from the outside. A
+reader could finish a dossier and still not say what would happen if that one got out.
+
+### 2. The row
+
+`**SE Effect**` on **135 of 301** — a law, an occasion, and what it lands on. Triggers:
+**breach 54 · counter 37 · wall 27 · completion 12 · contact 5**.
+
+### 3. How the 135 were written
+
+- **Sourced, not invented.** Each law is a sentence already in the dossier — Observation Log,
+  Consequences, Contact Events or Combat Actions — chosen for being the file's behaviour rather than
+  its measurement. Seven that the record had no clean sentence for were written by hand from the
+  same file's vocabulary.
+- **Ranked, not random.** Sentences scored on entity-as-actor and behavioural verb, penalised for
+  file-meta ("the record shows"), static measurement ("reads 7.3 tons") and procedure ("is staffed
+  on the establishment"). Selection stratified by wing and grade.
+- **Rejected in review.** Twelve first-pass rows that read as procedure or property were re-picked;
+  the picker had offered "Containment is a permanent no-contact post at SECTOR-C-907" as an effect.
+
+### 4. What the gate caught that I did not
+
+`check_se_effect` first compared each effect's vocabulary against the whole dossier — which includes
+the effect itself, so every row passed. Striking the row out first is what makes the check real, and
+it immediately found two rows resting on words that existed nowhere else in their files.
+
 ## Batch 203 — the three work outcomes (2026-11-05)
 
 ### 1. What was missing

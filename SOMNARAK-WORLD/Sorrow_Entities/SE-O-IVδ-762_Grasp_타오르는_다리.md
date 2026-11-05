@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, worked from the near lip of a gap by a team on a rope line. The Desolate station's return notes that the figure is high and that the holding has never been worked by anybody who was not already walking the long way round. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — It does not distinguish rescue from impossible return; the form multiplies to every break in the ground across the Scar. |
 | **Work Damage** | 3–6 Lament — the cost is a gauge lowered and the far side of the crossing no nearer |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · γ (Major) |

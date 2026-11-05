@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — Its track follows the Outside Sorrow currents almost exactly. The departures are circled on the sheet and there are nine of them in forty years. |
 | **Work Damage** | 2–4 Lament — the cost is working four to nine metres beneath a whole root mass |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · γ |

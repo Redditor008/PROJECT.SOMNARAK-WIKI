@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, counted from the session sheets rather than from the weave |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **SE Effect** | **On the breach** — Its dreams can be beautiful enough to overcome the will to wake. |
 | **Work Damage** | 4–7 Lament — the cost is sleep arriving as a schedule item. The worker wakes on the floor of the Gates |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | — · — |

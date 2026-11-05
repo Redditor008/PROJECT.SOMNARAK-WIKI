@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, and the figure is seasonal rather than fixed: the Gardens office's six-year series puts the autumn average at 17 and the late-winter average at 13, tracking the flame grade and nothing else anyone has been able to identify. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the counter** — It opens only onto memories, never physical rooms, and it has opened rarely: the Gardens series holds 201 mentions without contact and 4 contacts, and only the 4 opened it. |
 | **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a flame brought down a grade and held there for a while. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; a structure stands where it is and has never been recorded in transit |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
