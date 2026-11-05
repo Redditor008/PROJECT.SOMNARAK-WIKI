@@ -108,7 +108,7 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 | **Speed** | {{1.45 / 1.95 / 2.45 m/s by rank; `0 m/s` and the reason if fixed}} |
 | **Resistance** | {{30% against primary element; 20% other}} |
 | **Activation threshold** | Sorrow Gauge ≥ {{60% typical}} |
-| **Sorrow Gauge [HP]** | {{150–12,000 by grade}}/{{max}} — **subjects, possessions and breaching relics only.** A non-breaching relic files a charge instead: `**000 of {{wall}}** · ready · limit 60 s · recharge 10 min`, named for its Element, with a `## The Charge` section under the table (`R-48`) |
+| **Sorrow Gauge [HP]** | {{150–12,000 by grade}}/{{max}} — **subjects, possessions and breaching relics only.** A non-breaching relic files a charge instead: `**000 of {{wall}}** · ready · six doses · limit {{60 / 90 / 120 / 180 by how it is met}} s · recharge 10 min`, named for its Element, with a `## The Charge` section under the table (`R-48`) |
 | **Han Pressure [ATK]** | {{6–12 for α up to 50–80 for ω}} per hit · {{Element}} |
 
 | Field | Value |

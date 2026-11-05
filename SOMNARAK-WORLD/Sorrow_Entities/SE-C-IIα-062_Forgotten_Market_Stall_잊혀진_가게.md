@@ -55,16 +55,16 @@ and nowhere else, and every figure below is fixed by the tier — none of it is 
 |---|---|
 | **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
 | **At rest** | **000**. Nothing is being held, so nothing has been laid on |
-| **Fill** | 000 to 240 across sixty seconds of continuous contact |
-| **Wall** | at 240 it is spent and will not take a hand. The refusal is not an injury |
+| **Fill** | 000 to 240 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
 | **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
 | **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
 | **At the wall** | the first dose lands at once and the run-down starts again from the top |
 | **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
 
-Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
-longer leash: the same minute is spent here as everywhere else, and the longer the line, the
-more that minute takes out of the handler — and the sooner the wall is reached.
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
 
 The gauge is read at the instrument. The cost is read on the person.
 
@@ -78,7 +78,7 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Perceptible to** | The labels first — each goods ticket describing a lost life or moment in handwriting the reader half-recognises — then the warm patch the ground keeps after it has gone, and ash on the air. |
 | **Handling** | Worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is turned over or taken up. A worker who has picked something up puts it down, says so aloud, and is logged as having done it. |
 | **Activation threshold** | No breach counter; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
-| **Sorrow Gauge [Saturation]** | **000 of 240** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Saturation]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the histories the goods carry and moves the gauge not at all. Ferrehan endures the offers, which is the row that brings it down. |
 | **Location** | Zone B, Forgotten Market — mobile manifestation |

@@ -55,16 +55,16 @@ and nowhere else, and every figure below is fixed by the tier — none of it is 
 |---|---|
 | **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
 | **At rest** | **000**. Nothing is being held, so nothing has been laid on |
-| **Fill** | 000 to 420 across sixty seconds of continuous contact |
-| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Fill** | 000 to 420 across **six doses** of 30 s, stood at for an offering — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
 | **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
 | **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
 | **At the wall** | the first dose lands at once and the run-down starts again from the top |
 | **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
 
-Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
-longer leash: the same minute is spent here as everywhere else, and the longer the line, the
-more that minute takes out of the handler — and the sooner the wall is reached.
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+stood at for an offering on a 30-second clock, so the six come to **180 seconds**. A worn piece
+gets a minute and a walked ground gets three; the count is the same for both.
 
 The gauge is read at the instrument. The cost is read on the person.
 
@@ -78,7 +78,7 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Perceptible to** | The mechanism first, audible anywhere in the room. Then the face, which resolves separately for each observer — two people read the same glass and read different figures, and neither is wrong. |
 | **Handling** | Not wound, not struck, not reset. Readings are taken at the watch and entered with the reader's name against the figure or the line struck through, and nobody in the room is permitted to ask whose date it is. |
 | **Activation threshold** | No breach counter; activates on bare contact by a person carrying an unlodged entitlement |
-| **Sorrow Gauge [Load]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan resolves the date behind the face — which entitlement, published when. And the officer who would apply it — and holds level. Ferrehan is the watch spent in a warm room with an audible mechanism, taking a figure nobody else in the building can check, and lowers the gauge. |
 | **Location** | SECTOR-C-01, Collector's Row |

@@ -54,16 +54,16 @@ and nowhere else, and every figure below is fixed by the tier — none of it is 
 |---|---|
 | **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
 | **At rest** | **000**. Nothing is being held, so nothing has been laid on |
-| **Fill** | 000 to 420 across sixty seconds of continuous contact |
-| **Wall** | at 420 it is spent and will not take a hand. The refusal is not an injury |
+| **Fill** | 000 to 420 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
 | **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
 | **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
 | **At the wall** | the first dose lands at once and the run-down starts again from the top |
 | **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
 
-Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
-longer leash: the same minute is spent here as everywhere else, and the longer the line, the
-more that minute takes out of the handler — and the sooner the wall is reached.
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
 
 The gauge is read at the instrument. The cost is read on the person.
 
@@ -77,7 +77,7 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Perceptible to** | The first drop on the skin, and inside it something the visitor had put down years ago. Then the saturation, as every drop is a different loss and the visitor is standing in all of them at once. |
 | **Handling** | Collect drops carefully and provide identity anchors. The rate, extent and duration of the fall can be catalogued and the beads cannot: nothing inside one has ever been written down on purpose, and the worker's whole job is to hold on to which life is theirs. |
 | **Activation threshold** | No breach counter; activates on memory accumulation beyond the city's capacity |
-| **Sorrow Gauge [Depth]** | **000 of 420** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan catalogues the fall; Ferrehan is standing under it holding on to which life is theirs, for as long as the timekeeper allows and not a minute longer. |
 | **Location** | Zone D, Echo Gardens — periodic |

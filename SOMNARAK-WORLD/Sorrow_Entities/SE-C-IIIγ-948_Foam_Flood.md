@@ -55,16 +55,16 @@ and nowhere else, and every figure below is fixed by the tier — none of it is 
 |---|---|
 | **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
 | **At rest** | **000**. Nothing is being held, so nothing has been laid on |
-| **Fill** | 000 to 660 across sixty seconds of continuous contact |
-| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Fill** | 000 to 660 across **six doses** of 15 s, stood at for a rite — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **90 s** — six doses, and at 90 s it is spent and will not take a hand. The refusal is not an injury |
 | **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
 | **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
 | **At the wall** | the first dose lands at once and the run-down starts again from the top |
 | **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
 
-Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
-longer leash: the same minute is spent here as everywhere else, and the longer the line, the
-more that minute takes out of the handler — and the sooner the wall is reached.
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+stood at for a rite on a 15-second clock, so the six come to **90 seconds**. A worn piece gets a
+minute and a walked ground gets three; the count is the same for both.
 
 The gauge is read at the instrument. The cost is read on the person.
 
@@ -77,7 +77,7 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Mode of presence** | A stone dragon carved in the vault wall with its wings held still, white eyes lit. The field, not the carving, is what reaches the room |
 | **Perceptible to** | The eyes first — cold, blue and impossibly far — and then the floor, which stops feeling like the place a person belongs |
 | **Activation threshold** | A hand laid upon the carving, or bare skin inside the longing-field. No percentage and no count are listed |
-| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |

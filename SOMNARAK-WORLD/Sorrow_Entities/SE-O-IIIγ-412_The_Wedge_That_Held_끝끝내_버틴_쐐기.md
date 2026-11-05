@@ -54,16 +54,16 @@ and nowhere else, and every figure below is fixed by the tier — none of it is 
 |---|---|
 | **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
 | **At rest** | **000**. Nothing is being held, so nothing has been laid on |
-| **Fill** | 000 to 660 across sixty seconds of continuous contact |
-| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Fill** | 000 to 660 across **six doses** of 20 s, read from — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **120 s** — six doses, and at 120 s it is spent and will not take a hand. The refusal is not an injury |
 | **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
 | **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
 | **At the wall** | the first dose lands at once and the run-down starts again from the top |
 | **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
 
-Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
-longer leash: the same minute is spent here as everywhere else, and the longer the line, the
-more that minute takes out of the handler — and the sooner the wall is reached.
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+read from on a 20-second clock, so the six come to **120 seconds**. A worn piece gets a minute
+and a walked ground gets three; the count is the same for both.
 
 The gauge is read at the instrument. The cost is read on the person.
 
@@ -77,7 +77,7 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Perceptible to** | The heat first — the tip scorches untreated wood within five seconds — then the wrapping blackening, eighteen micro-vibrations a minute through the plinth, and a ringing that carries through stone floors within six metres. |
 | **Handling** | Tongs or heat-resistant leather only, and the original hemp left wound. Two hands on the wrap, the pedestal cleared before anything is lifted, and no flinching at the plinth, because hesitation is a measured input here rather than a courtesy. |
 | **Activation threshold** | Single-use impact trigger — consumed upon activation |
-| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan records thermal cycles and crack propagation along the shaft and holds the gauge. Ferrehan endures holding the hot hemp wrap without dropping the weight, and lowers it. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |

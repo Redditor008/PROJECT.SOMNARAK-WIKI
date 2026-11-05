@@ -13,9 +13,12 @@ This file records notable changes to the public Somnarak Wiki.
 - **The gauge now fills.** It rests at **000**, fills to a wall fixed by the holding's grade, and is
   read by the minute. The wall is the tier's: 240 / 420 / 660 / 880 / 1,080. A decrease is a good
   result, which is what `R-09` has said since it was written.
-- **Sixty seconds is the universal wall** on every relic at every tier. At the wall the relic is
-  spent and will not take a hand. Handled early, the Work Damage clock resumes where it stopped;
-  handled at the wall, the first dose lands at once and the run-down restarts.
+- **The wall is six doses, not sixty seconds.** A holding gives six doses of its own clock, and the
+  wall is what six come to: **60 s** worn · **90 s** officium and hazard · **120 s** arcanum and
+  time · **180 s** offertorium, object and place. The count is universal; the seconds are not —
+  a ground you walk cannot be crossed in a minute. At the wall the relic is spent and will not take
+  a hand. Handled early, the Work Damage clock resumes where it stopped; handled at the wall, the
+  first dose lands at once and the run-down restarts.
 - **The mechanic has a home.** Every relic dossier carries a standing `## The Charge` — eight rows
   and three sentences — and the table cell is data only: `**000 of 660** · ready · limit 60 s ·
   recharge 10 min`.

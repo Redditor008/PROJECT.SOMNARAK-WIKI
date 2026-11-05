@@ -92,8 +92,8 @@ and nowhere else, and every figure below is fixed by the tier — none of it is 
 |---|---|
 | **Length** | **{{240 / 420 / 660 / 880 / 1,080 by grade}}** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
 | **At rest** | **000**. Nothing is being held, so nothing has been laid on |
-| **Fill** | 000 to {{wall}} across sixty seconds of continuous contact |
-| **Wall** | at {{wall}} it is spent and will not take a hand. The refusal is not an injury |
+| **Fill** | 000 to {{wall}} across **six doses** of {{10 / 15 / 20 / 30}} s — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **{{60 / 90 / 120 / 180}} s** — six doses, and at that second it is spent and will not take a hand. The refusal is not an injury |
 | **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
 | **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
 | **At the wall** | the first dose lands at once and the run-down starts again from the top |
@@ -115,7 +115,7 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Speed** | {{m/s if it travels; if it does not travel, say what this number can honestly mean or record the file's own convention}} |
 | **Resistance** | {{x}}% against {{own element}} pressure; {{y}}% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ {{% of the tier wall at which this one takes a hand}} |
-| **Sorrow Gauge [{{Pressure / Load / Depth / Saturation by Element}}]** | **000 of {{the tier wall}}** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [{{Pressure / Load / Depth / Saturation by Element}}]** | **000 of {{the grade wall}}** · ready · six doses · limit {{60/90/120/180 by how it is met}} s · recharge 10 min |
 | **Han Pressure [ATK]** | {{low–high}} per hit · {{Element}} |
 | **Coherence modifier** | {{I–V}} — affects behavior complexity and response speed |
 | **Potency modifier** | {{Greek letter}} — affects pressure, durability, and escalation severity |

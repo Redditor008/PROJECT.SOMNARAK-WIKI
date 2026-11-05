@@ -55,16 +55,16 @@ and nowhere else, and every figure below is fixed by the tier — none of it is 
 |---|---|
 | **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
 | **At rest** | **000**. Nothing is being held, so nothing has been laid on |
-| **Fill** | 000 to 660 across sixty seconds of continuous contact |
-| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Fill** | 000 to 660 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
 | **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
 | **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
 | **At the wall** | the first dose lands at once and the run-down starts again from the top |
 | **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
 
-Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
-longer leash: the same minute is spent here as everywhere else, and the longer the line, the
-more that minute takes out of the handler — and the sooner the wall is reached.
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
 
 The gauge is read at the instrument. The cost is read on the person.
 
@@ -78,7 +78,7 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Perceptible to** | The repeating figure first, and then how little sound they make — the bound worker's own breathing falling out of step with their feet is the loudest thing in the cell. Contact is warm and almost eager at the wrist, and that is the last reliable sensation the wearer reports. |
 | **Handling** | Worn, never carried, and never worn by the person leading a withdrawal. Fitted by a named second person who stays outside the working distance with their hands free. The bearer cannot remove the piece, cannot be talked through the removal, and cannot authorise it on their own behalf. Attempting removal alone is a procedural failure whether or not it succeeds. |
 | **Activation threshold** | Direct contact or deliberate binding to a worker; no breach counter. The cycle is read on the pattern's period against the logged baseline. |
-| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Work preference** | No Work Types (`R-40`) — worn, never carried, and never worn by the person leading a withdrawal. Fitted by a named second person whose hands stay free. The two-person rule admits no exception for brevity. |
 | **Location** | SECTOR-B-01, Zone B — contained |

@@ -17,6 +17,36 @@ only in a chat log is not a standard — it is a memory.
 
 ---
 
+## The `p` directive, refined
+
+**Your words (batch 201):** *"Refine the [p] Before Doing p"*
+
+`p` — and `P P` — has meant *"proceed and push"* since batch 76. **That is a destination, not a
+method**, and writing it down as one has caused real failures: five batches went out where the
+gate passed and the work had not rolled out, because `p` was read as *"finish and push"* rather
+than *"settle it, then push."*
+
+**From this batch on, `p` means this sequence, in this order, and no step may be skipped:**
+
+| | step | what it requires |
+|---|---|---|
+| **1** | **Read the words back** | quote the instruction verbatim into the batch note before touching a file. If it admits two readings, write both and say which was taken |
+| **2** | **Refine it** | say in one sentence what would have to be true for the instruction to be satisfied. If a number in the instruction is checkable, **check it** — the form-line rule quoted *"the Convergence at 118"* for four batches and the file was 179 |
+| **3** | **Measure before changing** | count the thing being changed, and count what the change would touch. A change whose blast radius is unknown is not ready |
+| **4** | **Refuse invention** | if satisfying the instruction would require a datum the archive does not file, say so and propose the version that needs none. **Never dress a guess as arithmetic** |
+| **5** | **Make the change in one unit** | rule, gate, sweep, and every file that quotes it, in the same batch |
+| **6** | **Verify the whole suite** | every auditor, the section logic, the label lint, the tests. **Read the count lines, not the `RESULT:` lines** — a PASS can hide a rollout of 5 of 294 |
+| **7** | **Push, then say what is still open** | the push is the last step of `p`, never the first. A reply that ends without the open list is unfinished |
+
+**What `p` does not mean.** It does not mean *"do not ask"* — it means *"do not re-ask about a
+decision already made."* An instruction built on a wrong number is still a turn to be spent on the
+number, as batch 200 was.
+
+**Checked by:** nothing mechanical; this is a working order about method. The batch notes record
+whether it was followed.
+
+---
+
 ## A. The world — what may exist at all
 
 ### O-01 · Nothing non-in-world in the world folder
@@ -271,9 +301,13 @@ sentences. **The archive was right; the draft was wrong.** Reversed in batch 197
 **The number belongs to the tier:** ZAYIN **240** · TETH **420** · HE **660** · WAW **880** ·
 ALEPH **1,080**, each inside the band `check_stat_bands.py` enforces.
 
-**The universal wall is sixty seconds** — any relic, any tier. It fills its whole length in that
-minute, so a bigger ceiling is a heavier load for the same minute, not a longer leash. At MAX it is
-**spent** and will not take a hand.
+**The wall is six doses, not sixty seconds.** *(Revised batch 201 on your word: "Arent 60 s Is
+Super Short I Mean Some SE Goes Up To More Than 60s That Is Above 2 m.")* Sixty seconds was the
+fastest clock in the archive applied to everything. Only **50 of 134** relics run on a ten-second
+clock; **84 run longer**. A holding now gives **six doses of its own clock**, and the wall is what
+six of them come to: **60 s** worn · **90 s** officium and hazard · **120 s** arcanum and time ·
+**180 s** offertorium, object and place. **The count is universal; the seconds are not** — a ground
+you walk cannot be crossed in a minute. At the wall it is **spent** and will not take a hand.
 
 **The two lines.** Up: `000 ── 60 s ── 660`. Down: a tenth a minute, ten minutes from spent to ready.
 **Handled before it has run down, the Work Damage clock resumes where it stopped. Handled at MAX,

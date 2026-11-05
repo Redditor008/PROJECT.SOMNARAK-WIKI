@@ -58,6 +58,30 @@ GAUGE = re.compile(r'^\|\s*\*\*Sorrow Gauge \[([^\]]+)\]\*\*\s*\|\s*([^\n]*?)\s*
 CHARGE = re.compile(r'^\*\*Charge\.\*\*\s*(.+?)(?:\n\n|\Z)', re.M | re.S)
 
 MEASURE = {'grudge': 'Pressure', 'weight': 'Load', 'lament': 'Depth', 'void': 'Saturation'}
+
+# R-48 §3: a holding gives SIX DOSES and the wall is what six of its own clock comes to.
+# The clock is R-47's, per category, and it is imported rather than restated so the two
+# rules cannot drift apart.
+DOSES = 6
+CLOCK = {'Indumentum': 10, 'Possession': 10, 'Hazard': 15, 'Officium': 15,
+         'Arcanum': 20, 'Time': 20, 'Offertorium': 30, 'Object': 30, 'Place': 30}
+
+
+def wall_of(text):
+    """The wall this dossier earns: six doses of its own clock."""
+    m = re.search(r'\*\*Tool Type\*\*\s*\|\s*([^|\n]+)', text)
+    raw = (m.group(1) if m else '')
+    for k in ('Indumentum', 'Officium', 'Arcanum', 'Offertorium'):
+        if k.lower() in raw.lower():
+            return CLOCK[k] * DOSES, k
+    m = re.search(r'\*\*Entity Type\*\*\s*\|\s*([^|\n]+)', text)
+    low = (m.group(1) if m else '').lower()
+    for k in ('possess', 'time', 'hazard', 'place'):
+        if k in low:
+            key = {'possess': 'Indumentum', 'time': 'Time',
+                   'hazard': 'Hazard', 'place': 'Place'}[k]
+            return CLOCK[key] * DOSES, key
+    return CLOCK['Object'] * DOSES, 'Object'
 MEASURES = set(MEASURE.values())
 
 # The tier invents the number. Nowhere else.
@@ -173,8 +197,12 @@ def problems(text):
             out.append('reads %s/%s — a relic at rest reads 000; the gauge fills, it does '
                        'not drain' % (r.group(1), r.group(2)))
 
+    wall, met = wall_of(text)
+    if ('limit %d s' % wall) not in body:
+        got = re.search(r'limit (\d+) s', body)
+        out.append('the cell says limit %s s; six doses on a %s clock is %d s'
+                   % (got.group(1) if got else 'no', met, wall))
     for phrase, why in (('ready', 'the settled state'),
-                        ('60 s', 'the sixty-second wall'),
                         ('recharge 10 min', 'the recharge time')):
         if phrase not in body.lower():
             out.append('the cell does not carry %s' % why)
@@ -195,7 +223,9 @@ def problems(text):
 
     if want is not None and ('**%d**' % want) not in body_s:
         out.append('the Charge section does not state the %s wall (%d)' % (tier, want))
-    for phrase, why in (('sixty seconds', 'the sixty-second fill'),
+    if ('**%d s**' % wall) not in body_s and ('**%d**' % wall) not in body_s:
+        out.append('the Charge section does not state this holding\'s %d-second wall' % wall)
+    for phrase, why in (('six doses', 'the six-dose law'),
                         ('at rest', 'the resting reading'),
                         ('tenth of the length', 'the run-down rate'),
                         ('work damage', 'the chain to Work Damage')):

@@ -66,36 +66,71 @@ No writer picks a relic's ceiling. It comes from the tier and from nothing else:
 Every figure sits inside the band `check_stat_bands.py` already enforces. **A reader who knows the
 tier knows where the wall is before opening the file**, which is what a tier is for.
 
-## 3. The hard limit is universal: sixty seconds
+## 3. The wall is six doses — universal, and not sixty seconds
 
-**No relic may be held for longer than sixty seconds of contact. Any relic. Any tier.**
+**Sixty seconds was wrong, and the owner caught it in one line:** *"Arent 60 s Is Super Short I
+Mean Some SE Goes Up To More Than 60s That Is Above 2 m."*
 
-This is L Corp's work timer: the one figure that is not tiered, not categorised, not negotiable.
+Sixty seconds is **the fastest clock in the archive**, and draft 4 applied it to everything. A
+2-metre holding cannot be walked in a minute; an offering left at a thing the size of a room cannot
+be made in one. Measured: only **50 of 134** relics run on a ten-second clock. **84 run longer**,
+and the longest belong to exactly the holdings the objection names.
 
-**The gauge fills its whole length in that minute** — 000 to MAX, whatever MAX is. So a larger
-ceiling is a **heavier load held for the same minute**, not a longer leash. An ALEPH does not give
-you more time than a ZAYIN; it takes 4.5× more from you in the same sixty seconds.
+**So the universal law is a count, not a duration:**
 
-At **MAX** the relic is spent: not damaged, not suppressed, not dead. Spent. It will not take a
-hand.
+> **A holding gives six doses.** The wall is what six of its own clock comes to.
+
+The clock is the one `R-47` already files, per category:
+
+| met as | clock | **wall = six doses** |
+|---|---|---|
+| **Indumentum** — worn | 10 s | **60 s** |
+| **Officium · Hazard** | 15 s | **90 s** |
+| **Arcanum · Time** | 20 s | **120 s** |
+| **Offertorium · Object · Place** — stood at, walked | 30 s | **180 s** |
+
+**Six is the universal part.** Every relic in the archive, at every tier, gives six and then is
+spent — so the law is the same for all of them and the seconds are not. A door-sized thing met on
+foot gets three minutes; a pendant on a chain gets one.
+
+**The wall is the outside figure.** `R-47` halving means the later doses land early, so the sixth
+always arrives at or before the wall — 60 of 60, 76 of 90, 90 of 120, 120 of 180. The wall is what
+the file promises; the clock is what actually happens.
+
+**Why not read the size and compute the seconds.** Because the archive does not file a size.
+Measured: **3 of 134** relics state a dimension in their form line, **1** carries a
+`Dimensions / Mass` row, and the figures that do appear do not track the tier — a ten-metre
+music-box is a TETH, a ten-centimetre relic is a WAW. A wall computed from those would be a guess
+wearing a number. **The clock is filed on every dossier; the size is filed on none.**
+
+**At the wall the relic is spent.** Not damaged, not suppressed, not dead: spent. It will not take
+a hand.
+
+**The universal law underneath it.** Whatever fills a relic's gauge, **nothing may be used at the
+wall.** For the 134 charge gauges the wall arrives through contact time; for the 9 that keep `[HP]`
+it arrives through suppression. Two roads to one rule.
 
 ## 4. The two lines
 
-**Up — the fill.** The whole of it, in sixty seconds, on every relic:
+**Up — the fill.** Six doses, and the wall falls out of the clock:
 
 ```markdown
-000 ─────────── 60 s ─────────── 660
+Indumentum   60 s
+Officium     90 s
+Arcanum     120 s
+Offertorium 180 s
 ```
 
-**Down — the recharge.** It runs back the same line, **a tenth of itself a minute**, so ten minutes
-from spent back to ready at every tier:
+**Down — the run-down.** It runs back a tenth of its length a minute, so **ten minutes from spent
+back to ready at every relic, whatever its wall.** The run-down is a duration, so it does not scale;
+a three-minute holding and a one-minute holding both take ten to come back.
 
 ```markdown
 660 ── 1 min ── 594 ── 2 min ── 528 ── 3 min ── 462 ── ... ── 10 min ── 000
 ```
 
-**Read it as one line that goes both ways.** The owner asked for "a line from MAX to 00"; this is
-that line, and the fill is the same line travelled in the other direction.
+**Below the wall it is worth less than the wall**, because it is still filling: a relic sitting at
+half has half its remaining time, not six more doses. The charge is read, never assumed.
 
 ## 5. The consequence of using it before it has recharged
 
@@ -129,12 +164,14 @@ So the mechanic gets **three places**, and each one answers a different question
 ### The cell
 
 ```markdown
-| **Sorrow Gauge [Depth]** | **000 of 660** · ready · limit 60 s · recharge 10 min |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 120 s · recharge 10 min |
 ```
 
 `000 of 660` — the reading **of** the length, said in words, because a slash reads as a fraction and
 a fraction of what is never answered. `ready` is the settled state, `limit 60 s` is the wall, and
-`recharge 10 min` is the run-down. Everything a Warden needs at the door is in that line.
+`recharge 10 min` is the run-down. `limit 120 s` is **this** holding's wall — six doses on a
+twenty-second clock — not a number every relic shares. Everything a Warden needs at the door is in
+that line.
 
 ### `## The Charge` — the standing section
 
@@ -153,16 +190,16 @@ and nowhere else, and every figure below is fixed by the tier — none of it is 
 |---|---|
 | **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
 | **At rest** | **000**. Nothing is being held, so nothing has been laid on |
-| **Fill** | 000 to 660 across sixty seconds of continuous contact |
-| **Wall** | at 660 it is spent and will not take a hand. The refusal is not an injury |
+| **Fill** | 000 to 660 across **six doses** of 20 s, read from — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **120 s** — six doses, and at 120 s it is spent and will not take a hand. The refusal is not an injury |
 | **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
 | **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
 | **At the wall** | the first dose lands at once and the run-down starts again from the top |
 | **What it takes** | grief taken down into the person. Nothing breaks; the level sits lower after |
 
-Sixty seconds is the wall on every relic in the archive, at every tier. A longer line is not a
-longer leash: the same minute is spent here as everywhere else, and the longer the line, the more
-that minute takes out of the handler — and the sooner the wall is reached.
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met read
+from on a 20-second clock, so the six come to **120 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
 
 The gauge is read at the instrument. The cost is read on the person.
 ```

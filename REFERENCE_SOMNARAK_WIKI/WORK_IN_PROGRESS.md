@@ -5,7 +5,7 @@
 **`R-48` is the gauge, in four drafts.** The first three each failed a different test: bands under a
 figure nothing moved; the mechanic written into a table cell; and a gauge that **drained**, which
 reversed `R-09` and turned 155 authored sentences into liars. The fourth fills: **000 at rest, up to
-a wall fixed by the grade, sixty seconds to the wall, a tenth of the length a minute to run back
+a wall fixed by the grade, six doses of its own clock to reach it, a tenth of the length a minute to run back
 down.**
 
 ### 1. What the number is for
@@ -41,7 +41,21 @@ two `UNK_` Codex pages the earlier cascade missed because they are named `UNK_<n
 `CHANGELOG.md` was not rewritten — its entries are a record of what was done at the time, and editing
 them would be falsifying the log. A dated entry was appended instead.
 
-### 4. Verified
+### 5. The wall is six doses, not sixty seconds (batch 201)
+
+Your objection, verbatim: *"Arent 60 s Is Super Short I Mean Some SE Goes Up To More Than 60s That
+Is Above 2 m."* It was right. Sixty seconds was the **fastest clock in the archive** applied to
+everything; measured, only **50 of 134** relics run on a ten-second clock and **84 run longer**.
+
+The wall is now **six doses of the relic's own clock** — 60 s worn, 90 s officium/hazard, 120 s
+arcanum/time, **180 s offertorium/object/place**. The count is universal; the seconds are not.
+
+**Why not compute it from size.** Because the archive does not file a size: **3 of 134** state a
+dimension in the form line, **1** carries a `Dimensions / Mass` row, and the figures do not track
+the tier — a ten-metre music-box is a TETH, a ten-centimetre relic is a WAW. A size-derived wall
+would have been a guess wearing a number.
+
+### 6. Verified
 
 Every auditor PASS · `section_logic` PASS · `label_lint` 0 · `compare_conversion_guide` 124/124 ·
 `check_box_symmetry` PASS · 305 tests OK · `check_relic_gauge` 143/143 · `stat_bands` 0 missing.
