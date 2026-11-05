@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Void — the cost is the Sigh settling around the worker and quieting for a time, resolved by nothing |
+| **Work Damage** | None — the Sigh settles and quiets for a time. |
+| **Work Gift** | +5–10 Composure for the rest of the cycle — it resolves nothing, and what it lends it takes back at the end of the cycle without naming an interest rate. |
 | **Activation threshold** | 1 condition |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

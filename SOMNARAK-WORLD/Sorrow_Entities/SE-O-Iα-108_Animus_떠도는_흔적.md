@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, the lowest return in the Mantle Commons, against a watch that runs the length of a route nobody has mapped to an end. The Commons station has never disputed the figure and has twice noted that it is not what the posting costs. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Grudge — the cost is a trace faded from the Commons for a while |
+| **Work Damage** | None — the Grudge it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |

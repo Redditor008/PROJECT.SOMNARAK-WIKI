@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–5 Grudge — the cost is working beneath a thing held at a fixed height with nothing supporting it |
+| **Work Damage** | None — the well hangs where nothing holds it and the floor takes no weight. |
+| **Work Gift** | +5–10 Resilience for the rest of the cycle — water out of a shaft that opens into nothing, and the drawing is entered against the worker's name. |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

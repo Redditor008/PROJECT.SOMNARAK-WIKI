@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Lament — the cost is a deeper sleep settled into the surrounding rubble |
+| **Work Damage** | None — the rubble settles and the figure sleeps deeper. |
+| **Work Gift** | +5–10 Composure for the rest of the cycle — the sleep is deeper and steadier, and it takes a memory down with it each time it is entered. |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |

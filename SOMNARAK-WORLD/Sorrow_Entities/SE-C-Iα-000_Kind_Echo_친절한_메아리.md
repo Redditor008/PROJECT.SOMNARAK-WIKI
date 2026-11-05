@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 10–20% |
 | **Han-Energy yield** | 2–4 Han-Energy per successful work cycle (low; training yield) |
 | **Work difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 1–2 Lament — the cost is a lesson: the Echo is the training entity, and the gentleness is the curriculum |
+| **Work Damage** | None — the lesson is taught and the chamber is left as it was. |
+| **Work Gift** | +5–10 Composure for the rest of the cycle — this is the training entity and the gentleness is genuine, and every lesson is paid for out of the worker's own recollection of learning it. |
 | **Activation threshold** | Sorrow Gauge ≥ 80% (rarely reached; the entity is extremely stable) |
 | **Tool / M.A.W. grade** | α (Minor) — Standard Training M.A.W. |
 | **Vessel-Destructible** | Yes |

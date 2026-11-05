@@ -1,4 +1,42 @@
-# Work In Progress
+## Batch 203 — the three work outcomes (2026-11-05)
+
+### 1. What was missing
+
+`R-44` gave every worked holding a `**Work Damage**` row and every one of them charged the worker.
+Measured before the change: **155 subjects in scope, 155 charges, 0 that cost nothing.** The ladder
+was a wall with numbers on it.
+
+### 2. The split
+
+| verdict | what the row says | count | share |
+|---|---|---|---|
+| **Damage** | band + element + mechanism | **101** | 65.2% |
+| **Neutral** | `None` + who pays instead | **39** | 25.2% |
+| **Gift** | `None` + `**Work Gift**` | **15** | 9.7% |
+
+The percentages live in `R-49`; the gate holds the counts, not the proportions.
+
+### 3. How the 54 were chosen
+
+**Gift — hand-picked, 15.** The holdings whose own record already pays something out; the list is in
+the CHANGELOG entry. No file was given a gift because a keyword matched — the first keyword pass put
+*Deteriorata* ("continuous degradation with no endpoint") on the list, which is exactly the failure
+the rule exists to prevent.
+
+**Neutral — 39, the quietest readings.** The smallest bands left after the gifts were taken. The
+clause names the element the holding draws and says the chamber keeps it, so a neutral is a reading
+rather than a dash.
+
+**Damage — 101, untouched.** Not one of the 101 clauses was rewritten. The split is applied by moving
+the two quiet outcomes onto the files that earn them.
+
+### 4. What else moved
+
+- `check_work_damage` (87) no longer reads a `None` row: the band and the element belong to the
+  damage verdict.
+- `check_work_effect` (88) is new, with 13 tests in `tools/tests/test_work_effect.py`.
+- The subject template carries all three verdicts and the optional gift row.
+- `how_finished.py` gains an eighteenth standard — **Work Effect**, `DONE` at 0 failures.
 
 ## Batch 202 — how finished is it, really (2026-11-05)
 

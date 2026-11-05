@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, taken off the grounding and never off the tree |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Void — the cost is a split closed slightly and roots brought into view |
+| **Work Damage** | None — the split closes a little and the roots come into view. |
+| **Work Gift** | +5–10 Resilience for the rest of the cycle — the two halves do not rejoin, and the loan is taken back when the cycle ends. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

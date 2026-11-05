@@ -2,6 +2,34 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — a work can cost, cost nothing, or give
+
+**`R-49` — the three work outcomes.** Before this rule every worked subject charged the worker:
+**155 subjects, 155 charges, 0 that cost nothing.** The `**Work Damage**` row now carries one of
+three verdicts, and the split is a constant of the setting rather than a judgement per file:
+
+| verdict | row | count |
+|---|---|---|
+| **Damage** | a band and the holding's own element — unchanged from `R-44` | **101** |
+| **Neutral** | `None` and a clause saying who pays instead | **39** |
+| **Gift** | `None`, plus a `**Work Gift**` row | **15** |
+
+- **A gift is a loan, not a stat.** `+5–10 Composure` or `+5–10 Resilience` **for the rest of the
+  cycle**, and a price paid in the holding's own element — debt entered against the worker's name,
+  a memory they cannot check, a loan taken back at the end of the cycle, or weight that must be set
+  down before the door. Precedent: L Corp `T-09-78`, whose effect triggers when the employee is
+  hurt.
+- **The fifteen gifts are the holdings that were already paying something out** — Blessing Giver,
+  the Kind Healer and her Shadow, Welcome Haven, Repose, Homecoming Tree, Kind Echo, the Spire of
+  Unanswered Prayer, Feu Follet, Survivor's Breath, the Guarding Bird, the Floating Well,
+  Yggdrasil's Wound, Emberling, the Undelivered Thanks. Every other row was left as written.
+- **The percentages are not printed in a dossier.** `R-44` §2 already barred a proportion in a
+  response cell; the split lives in `R-49` and in `check_work_effect.py`.
+- **Three termini are out of scope** — no work loop, no session, no verdict (`R-35`).
+
+**New gate:** `tools/auditors/check_work_effect.py` (88) holds the three counts, the gift's four
+parts, the `None` clause, and the ban on `%` in either row.
+
 ## Unreleased — handled, not worked
 
 **`R-40` is finished: 143 of 143 relic dossiers carry `## Handling Process`.**

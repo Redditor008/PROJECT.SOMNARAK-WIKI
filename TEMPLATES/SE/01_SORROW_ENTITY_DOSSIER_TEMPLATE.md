@@ -87,6 +87,8 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 | **Starting Sorrow Gauge** | {{15–30% for α up to 70–85% for ω}} |
 | **Han-Energy yield** | {{6–12 for α up to 40–60 for ω}} Han-Energy {{Subject: per successful work cycle · Relic: per completed handling, named against the stage that produced it}} |
 | **Work difficulty** | {{Minimal / Low / Moderate / High / Catastrophic}} · R.D. Comprehension Level {{1–5}} |
+| **Work Damage** | {{The verdict is one of three (`R-49`). **Damage** — a band inside the grade, the holding's own `Element`, and one clause naming the mechanism: `3–6 Grudge — the cost is …`. **Neutral** — `None — {what it does with the cost instead}; it is the room that pays it, not the worker.` **Gift** — `None` here, plus the `**Work Gift**` row below}} |
+| **Work Gift** | {{Gift verdict only, and delete the row otherwise: `+5–10 {Composure or Resilience} for the rest of the cycle — {the price, in the holding's own element}`. A loan, not a line on the worker's sheet — `R-49` §5}} |
 | **Activation threshold** | {{Gauge % or turn count — or `no counter` / `no gauge` / both, per Special Activation}} |
 | **Tool / M.A.W. grade** | {{— · α/β/γ/δ/ω}} |
 | **Vessel-Destructible** | {{Yes / No}} |

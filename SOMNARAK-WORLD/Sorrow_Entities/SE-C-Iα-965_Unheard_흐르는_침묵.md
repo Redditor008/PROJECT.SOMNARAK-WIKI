@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Grudge — the cost is sixty years of a holding personnel agree is speaking, and nobody can hear |
+| **Work Damage** | None — the Grudge it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 4 — counts down; the fourth ignored condition events it |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

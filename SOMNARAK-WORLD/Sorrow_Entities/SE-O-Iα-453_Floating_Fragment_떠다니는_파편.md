@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, collected in the open street with the Row's traffic diverted for the hour. The Row's traders are paid for the diversion and the payment is the largest line in this holding's budget. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament — the cost is a cry unaltered in ninety years and a gauge that shortens nothing |
+| **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |

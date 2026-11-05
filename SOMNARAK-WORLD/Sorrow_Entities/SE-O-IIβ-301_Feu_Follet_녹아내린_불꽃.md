@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Lament — the cost is a flame steadied and melting stopped for a while |
+| **Work Damage** | None — the flame steadies and the melting stops, and the heat stays in the room it was lit in. |
+| **Work Gift** | +5–10 Resilience for the rest of the cycle — it restores nothing, and the fire that saved the tree is drawn out of the worker's memory of it. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | β · β |
 | **Vessel-Destructible** | Yes |

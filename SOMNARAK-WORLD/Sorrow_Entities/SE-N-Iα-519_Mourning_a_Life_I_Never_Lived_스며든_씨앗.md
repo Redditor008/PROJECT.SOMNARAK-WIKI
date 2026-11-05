@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle, drawn from the edge of the net rather than from the seed, and paid out of intentions the shift either finished or cancelled |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Void — the cost is immediate pressure reduced and nothing permanently transformed |
+| **Work Damage** | None — the Void it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | No — Place-manifestation |

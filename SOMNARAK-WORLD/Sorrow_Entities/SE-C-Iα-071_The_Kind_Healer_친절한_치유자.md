@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 1–3 Lament — the cost is a care that finds injuries nobody showed it, and is not mistaken about them |
+| **Work Damage** | None — it treats what it finds and leaves the room untouched. |
+| **Work Gift** | +5–10 Resilience for the rest of the cycle — the injuries are real, including the ones nobody reported, and the memory it works from is taken out of the worker. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |

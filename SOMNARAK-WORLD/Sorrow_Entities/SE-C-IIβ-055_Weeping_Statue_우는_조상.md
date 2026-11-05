@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–4 Lament — the cost is fluid that is not water, running without pause since it was logged |
+| **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14, taken while the weeping is being permitted. A session that is interrupted yields nothing at all, which the sheet enters as a nil rather than as a low reading |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–3 Grudge — the cost is a fury phantasmal and held inside the Forge District rather than by a vessel |
+| **Work Damage** | None — the Grudge it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 4 conditions |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |

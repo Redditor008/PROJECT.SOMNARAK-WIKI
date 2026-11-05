@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, read off the line's tension at the post and never off the strands |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Grudge — the cost is a line slackened for a while and nothing settled |
+| **Work Damage** | None — the Grudge it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | α · α (Minor) |
 | **Vessel-Destructible** | Yes |

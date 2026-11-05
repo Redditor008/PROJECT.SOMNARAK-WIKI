@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle, drawn from the offered end while it is held and given back, and nothing at all from a session that ties or secures it |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament — the cost is a knot that remains tied in open air with the rope gone |
+| **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 4 ignored conditions |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |

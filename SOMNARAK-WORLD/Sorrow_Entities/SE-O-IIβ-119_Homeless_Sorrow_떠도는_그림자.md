@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, a cycle being a shift spent sitting in the assigned room with the lights low. The Old Lament station's return describes it, without irony, as the least strenuous and worst-attended posting in the zone. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Void — the cost is about ten points off the gauge and nothing settled |
+| **Work Damage** | None — the Void it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | No — Place-manifestation |

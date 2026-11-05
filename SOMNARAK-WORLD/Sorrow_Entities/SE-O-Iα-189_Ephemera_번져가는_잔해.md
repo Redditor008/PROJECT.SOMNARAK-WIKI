@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, drawn from the memory the figure is still carrying rather than from the body. A cycle worked after heavy wind returns measurably less, because the wind has already carried some of it away. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–3 Lament — the cost is Threshold 4, the widest margin in the class: three failed cycles absorbed before the fourth |
+| **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |

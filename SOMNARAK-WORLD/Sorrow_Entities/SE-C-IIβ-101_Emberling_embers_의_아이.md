@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–3 Lament — the cost is embers that neither go out nor spread |
+| **Work Damage** | None — the embers neither go out nor spread, and the warmth they hold stays in the chamber. |
+| **Work Gift** | +5–10 Composure for the rest of the cycle — they warm without spreading, and the memory they are fed from is one the worker will not be able to check. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |

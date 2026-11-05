@@ -13,6 +13,10 @@ WHAT FAILS
     a terminus (R-35) or a relic (R-40) gets caught;
   * a High holding with a work loop and no `Work Damage` row at all.
 
+WHAT IS NOT THIS GATE'S
+  * the two verdicts that read `None` — R-49 gives a holding the right to cost the worker nothing
+    or to pay them; those rows carry no band and no element, and `check_work_effect.py` reads them.
+
 WHAT IS REPORTED
   * the lower bands that have not been rolled out yet, counted per band. The row is a reading of
     what each holding is, and 301 readings do not happen in one batch.
@@ -84,6 +88,11 @@ def problems(text):
     if cell is None:
         if tier == 'ALEPH':
             bad.append('High holding with a work loop and no Work Damage row')
+        return bad
+
+    if cell.strip().startswith('None'):
+        # R-49: two of the three verdicts read `None` — the band and the element
+        # belong to the damage verdict only, and check_work_effect.py owns them.
         return bad
 
     lo, hi = BANDS[tier]

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% at the door, read against the interval rather than against the volume |
 | **Han-Energy yield** | 10–14 in a session, and no session has yet produced the return that would change the figure |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Void — the cost is an echo that returns nothing, in an enclosure otherwise acoustically sound |
+| **Work Damage** | None — the Void it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | 4 ignored conditions |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

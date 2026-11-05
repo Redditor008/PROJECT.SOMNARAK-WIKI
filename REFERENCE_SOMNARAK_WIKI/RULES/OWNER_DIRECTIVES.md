@@ -282,6 +282,29 @@ Type — Places, Times, Hazards, 61 of them — read the clock off `Entity Type`
 **Status:** DONE — **143 of 143 relic dossiers** carry a per-second dose with a tightening clock
 and a reset.
 
+### O-35 · A work can cost, cost nothing, or give
+
+**The owner's instruction, 2026-11-05:** *"Can You Add Work Dmg/Buff To Normal SE TOO So Like L
+Corp When Working With SE Agent Can Get Hurt Or Buff Base Of The SE And Buff Is Rare So Either
+Dmg/Neutral/Buff The Agent Who Is Doing Work On The SE And For Percentage Dmg 65%/ Neutral 25% /
+Buff 10% Of All SE"*
+
+The order of the sentence is the order of the rule: **damage first, neutral second, buff last and
+rarest.** A gift you can count on is not a gift, and 10 is not a number to round up.
+
+- **65 / 25 / 10 is a constant, not a judgement per file.** It fixes **101 / 39 / 15** of the 155
+  worked subjects, and the gate holds those three counts exactly.
+- **The percentage lives in the rule and never in a cell.** `R-44` §2 and the `printing a
+  percentage` standard already bar a proportion in a response cell; the dossier states a band, a
+  type and a clause, and a reader who wants the distribution reads `R-49`.
+- **A gift is a loan** — a band, a named stat, an end, and a price paid in the holding's own
+  element. It may not raise a stat permanently, may not make working the holding better than not
+  working it, and may not touch the gauge.
+- **Relics are out of scope.** Their contact is already continuous and priced by the second under
+  `R-47`; a relic offers no work for a buff to attach to.
+
+Full rule: `R-49`. Gate: `tools/auditors/check_work_effect.py`.
+
 ### O-34 · The charge: punishment and limit in one number
 **Your words (194 → 197):** *"TRANSFORMS THE HP NUMBER INTO A MEANINGFUL GAUGE"* · *"IT STILL READ
 ILLOGICAL ... AND FEEL BLOATED"* · *"DIVIDED EXPLANATION AND THE TABLE IN TWO ... EACH TIER OF THE

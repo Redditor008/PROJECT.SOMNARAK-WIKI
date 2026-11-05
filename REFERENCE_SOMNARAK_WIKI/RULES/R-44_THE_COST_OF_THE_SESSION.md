@@ -82,6 +82,8 @@ that gets rewritten, not the level.
 unsatisfiable as written — the auditor demanded four levels and forbade a level on a barred cell,
 which most dossiers have. Both are fixed; the count below is the rollout.
 
+> **Since 2026-11-05 the row carries one of three verdicts.** `R-49` gives a holding the right to cost the worker nothing, or to pay them: `Damage` keeps the band and the element above, `Neutral` and `Gift` read `None` plus a clause. The band and the element are checked only on the damage verdict; `check_work_effect.py` owns all three.
+
 ## 3. The bands
 
 Read off the same scale as `R-42`, and deliberately the same shape as L Corp's own spread — a TETH

@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 40–55% |
 | **Han-Energy yield** | 6–9 per cycle, the lowest return on the Zone D ledger, and the Directorate's energy office has twice proposed removing it from the roster on that ground. Both proposals were refused by the Commons, which does not want the route unattended. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Weight — the cost is a delivered stone gone permanently and a satchel measurably lighter |
+| **Work Damage** | None — a thanks is finally delivered and the satchel is lighter for it. |
+| **Work Gift** | +5–10 Composure for the rest of the cycle — the stone it was carried in is gone for good, and the weight is never returned. |
 | **Activation threshold** | A pause of more than a minute with an unplaceable letter in hand — the precursor to all three spikes on file; Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
