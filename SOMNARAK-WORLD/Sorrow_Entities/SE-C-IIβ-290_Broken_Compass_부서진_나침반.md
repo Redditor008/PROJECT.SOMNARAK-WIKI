@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
 | **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only — a timed revolution count from the cradle, and sitting with a spinning instrument for the interval without picking it up |
 | **Location** | SECTOR-D-01, Forge District |
 | **Resolution Condition** | Cradle mounting — the only close a Broken Compass cycle has |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One Survey Corps member who lost a route through the Forge District and never recovered the sense of it, and who went on drawing accurate maps for years afterwards while reporting that they were lost the entire time.
 - **Expanded origin context:** The commissioning file holds the surveyor's own later work: eleven Forge District sheets, all accurate, all still in use, drawn across nine years by somebody who recorded in every margin that they did not know where they were. It also holds four short replies from four officers, each courteous, each correct, each declining to advise. The archivist's note observes that nobody in the bundle failed in any duty and that the sheets are the best the Corps has.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A tarnished brass case, cracked and warm at the crack while the metal around it is bloodless-cold, mounted in a cradle and never lifted out of it. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The shape of the thing: the qualification roll, the open chart, and the four correct refusals. Gauge does not move. | Stable · Common |
-| **Ferrehan** | Sitting with a spinning needle for the interval and not reaching for it. Wardens describe this as harder than the count. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the marker against the file — tarnished brass, warm at the crack, cold metal round it, a face with no markings at all, a needle that has not settled in centuries — and the cradle verified before the count begins. |
+| **Handling** | Nobody holds it. The observer is a timed revolution count from the cradle; the stander is sitting with a spinning instrument for the interval and not picking it up. — see `## Handling Process` |
+| **Withdrawal** | On cradle mounting — the instrument back in the cradle, the revolutions and the slowings entered unplotted, and the gauge closed below 25%. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 60%. No breach counter is listed and none is implied — is done on purpose. |
 
-
-### Operational Work Notes
-
-Diagnostic use only: the table sorts which approach settles this instrument and which provokes it. And the reason it is worth reading at all is that the compass does not behave like its name — north is beyond it, it drags toward concentrations of grief. And its reading shifts with the handler's certainty. The file records an Object/Place with an Object-Void manifestation and Void as its elemental expression, held at SECTOR-D-01 in the Forge District, cradled and never handled. The table is entered beside the year's means — 57 revolutions a minute for 4238, after 46 and then 38. Nothing in the table carries over to another holding with a compass in its name, and a still gauge is no proof of a safe watch: the worker can be reached through memory, environment or identity while the reading never moves.
-
-**Reading the response:** The gauge is a response and not a verdict. A fall confirms the approach is doing what the table says it does. It does not make the instrument safe, only quieter, and on a needle that has never settled quieter is not the same as still. A rise means the compass is taking something in rather than letting it out, and the file's caution is that unusual readings precede events: log them, flag them, and adjust the protocol before the next assignment.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"contact plus a destination spoken aloud"*.

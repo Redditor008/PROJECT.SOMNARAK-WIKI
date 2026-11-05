@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A broken relic split into several floating metal pieces that pull toward one another and stop short by a measurable distance every time. The fragments drift continuously inside the mount volume and have never left it; a still fragment is the anomaly, and one has been seen twice. |
 | **Perceptible to** | The gap first — eleven millimetres at baseline, and it is the instrument rather than an absence — then the drift against the edge of the mount volume, and the weight of a purpose the pieces no longer have. |
-| **Handling** | Read optically twice a session, between the two largest fragments at their closest approach. Nothing is passed into the mount volume and nothing is helped together. A gap that widens by eight millimetres or more opens a documents search rather than a field response. |
+| **Handling** | Read optically twice a session, between the two largest fragments at their closest approach. Nothing is passed into the mount volume and nothing is helped together. A gap that widens by eight millimetres or more opens a documents search rather than a field response. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on arranging the fragments in their former order |
 | **Sorrow Gauge [Pressure]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals what the artifact was for, in detail, including the specification language it was ordered against, and holds the gauge. Ferrehan watches the pieces approach and stop short, repeatedly, and lowers it. |
 | **Location** | Zone D, Forge District |
 | **Resolution Condition** | Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board, and the gauge below 25% — on Miscast the second follows the first and has never arrived without it. |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The forge-workers of Zone D who shaped the artifact over eleven weeks, named in the commissioning roll, and the four hundred of them re-certified in Year 4229 against forty available posts. The holding treats those as one group because the record does.
 - **Expanded origin context:** Nothing in the commissioning file is a failure. The forging was meticulous, the trials passed, the casting fault was found and correctly judged immaterial, and the workers who shaped the thing over eleven weeks were paid, thanked and re-engaged. The holding does not answer to the destruction and never has. The gap sat unmoved through the extraction inquiry and through both subsequent chamber collapses in the same bay. It answers to certificates this facility has issued and not called on — to the qualification that stays live, year after year, for a holder it will never post. It widened through the nine months of the re-skilling programme, which was the proudest thing the district did that decade, and it has answered to nothing else in nine years of register-keeping.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A broken relic split into several floating metal pieces that pull toward one another and stop short by a measurable distance every time. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals its former function. | Stable · Common |
-| **Ferrehan** | Tests the worker's patience with repeated failed reunions. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the optical gap between the two largest fragments at their closest approach, the position of the pieces against the mount volume, and whether anything has been placed inside it. |
+| **Handling** | The watch the gap is read optically twice a session between the two largest fragments at their closest approach and entered whether or not it has widened. |
+| **Withdrawal** | **Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board, and the gauge below 25% — on Miscast the second follows the first and has never arrived without it.**. |
+| **Refusal** | Nothing is put into the volume and nothing is helped together. The three displacements on record each cost a quarter's readings, and the instruction is written against all three. |
 
-
-### Operational Work Notes
-
-Viderehan holds the gauge level and shows the worker what the artifact was for, in detail, including the specification language it was ordered against. Ferrehan lowers it, and the endurance it tests is exact: the worker watches the pieces approach and stop short, repeatedly, for the length of the interval, and does nothing. Flerehan and Pugnahan are Net-Neutral against an object, and the Registrum's claim that Pugnahan was the primary Work Type here was both impossible and, for an unknown period, the only instruction a hurried reader would have found.
-
-**Reading the response:** The gauge measures one worker's patience for one interval. The gap measures what the certification register has been doing. They are kept in separate columns, they have never moved together, and the standing instruction to supervisors is that a session which lowers the gauge and leaves the gap wider has been worked correctly and is written up as a success without qualification.
 ## Activation Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"arranging the fragments in their former order"*.

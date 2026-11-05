@@ -74,11 +74,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A timed absence rather than an invisible body. There is no silhouette, voice or skin to describe. During the minute, at the epicentre, there is a chair, and a radius around it that begins at 140 metres and now stands at 200. |
 | **Perceptible to** | The intention first: at 1158 a worker stops being able to say what they were about to do, and the name and face go at 1159. The clocks do not mark the day in advance, and the radius is surveyed at its edge after the occurrence. |
-| **Handling** | Stand at the line and do not cross it. Nobody sits in the chair at the epicentre, nobody is named aloud inside the radius, and the roll call is completed at the line: every name on the board matched to a person. |
+| **Handling** | Stand at the line and do not cross it. Nobody sits in the chair at the epicentre, nobody is named aloud inside the radius, and the roll call is completed at the line: every name on the board matched to a person. — see `## Handling Process` |
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, both performed from the line, which amounts to standing there with the board and the clocks. The table cannot hold the variable that matters, and the file keeps it separately: whether anybody crosses. |
 | **Location** | SECTOR-O-914, contained |
 | **Resolution Condition** | The minute ends by itself at 1200 and the roll call is completed at the line. The cycle closes when every name on the board has been matched to a person. |
 
@@ -144,18 +143,16 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The Event:** The clocks. Three independent movements in the sector agree on this minute and on nothing else, which is how the anomaly was shown to have a shape at all. The agreement is the whole of the evidence and is unexplained after eleven years.
 - **The People:** None identified, and the archive has stopped looking. Four separate searches of the sector's occupancy records before Year 4,226 produced nothing — no incident, no death, no absence. The file's position is that this holding may be the only one in the registry with no human origin, and that the possibility is recorded rather than concluded.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Reads the minute from outside the surveyed line and records the roll call afterwards. Nothing told to anybody inside during the minute survives, and saying a name widens the area. | Decrease · High |
-| **Ferrehan** (Endurance) | The party stays the minute outside the line and completes the roll call and survey when it ends. Endurance here is not entering: the one thing a party must not do to help is go in and say who somebody is. | Decrease · Common |
+> **This holding is not worked.** A timed absence rather than an invisible body. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Both usable Work Types are performed from the line and amount to standing there with the board and the clocks. The table cannot hold the variable that matters, which is whether anybody crosses: 57 of the 61 minutes passed with nobody inside and cost the facility nothing at all, and the four that did not are the whole of this holding's history.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the roll call on the board before 1158, the radius surveyed at its edge, and the chair marked occupied on the plan. |
+| **Handling** | The watch puts the roll call on the board before 1158, clocks at the line, and takes the head count rather than an account from anybody who was inside. |
+| **Withdrawal** | **The minute ends by itself at 1200 and the roll call is completed at the line. The cycle closes when every name on the board has been matched to a person** — and it has never failed to close, which is the one sentence in this file that is reassuring. |
+| **Refusal** | Stand at the line and do not cross it. Nobody sits in the chair at the epicentre, nobody is named aloud inside the radius, and the roll call is completed at the line: every name on the board matched to a person. |
 
 ## Containment Event Behavior
 

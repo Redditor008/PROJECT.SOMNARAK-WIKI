@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
 | **Sorrow Gauge [Saturation]** | **000 of 240** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | The count is taken twice and agrees, and any memory that rose has been attributed aloud to the mourner rather than carried out. Eleven years of paired counts; they have disagreed eleven times and every disagreement was resolved by the second count |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One mourner of the Echo Gardens, who kept a last tear rather than say what it was for. The commissioning file holds the Gardens' deposit slip for it, which records a memorial object received and, in the space for the account, the word none, in the depositor's own hand.
 - **Expanded origin context:** The Gardens took memorial objects for four hundred years and asked nothing of the people who brought them, which was a kindness and was understood as one. A person who cannot speak about a death can still bring a thing. The deposit slips survive. On the one that matters the account space holds the word none, written firmly, and underneath it the clerk's note that the depositor was asked twice and declined twice and was not asked a third time. She had kept the tear eleven years by then. Nothing in the practice was wrong and the archive does not say it was. It records only that the shard is what the eleven years turned into, and that it has never melted.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A palm-sized shard on a tray, under a standard lamp at a marked distance. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the memory embedded in its surface. | Stable · Common |
-| **Ferrehan** | Remains cold while testing the worker's patience. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the shard on its tray, the standard lamp set at the marked distance, the two counters on opposite sides, and the week's deposit book attached to the cycle. |
+| **Handling** | There is nothing to fight. The team counts the tears under the lamp and works the observer and the stander. The shard stays on its tray, because touch is a separate authorisation with a second person asking everything twice. — see `## Handling Process` |
+| **Withdrawal** | The count is taken twice and agrees, any memory that rose is attributed aloud to the mourner rather than carried out, and the shard goes back to the shelf with both readings on the sheet. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 45%. No count is listed and none is implied — is done on purpose. |
 
-
-### Operational Work Notes
-
-The Work Type rows are steady and the count is not. Thirty-one tears at first survey, thirty-eight now, seven additions, each one following a cycle that ended without the anger being named aloud. The Gardens can state its management in one sentence because the series states it for them: say whose it is before you leave the room. A gauge that does not move here means only that nobody touched it.
-
-**Reading the response:** A falling count means a death was spoken about that week where an object would have done. Stability under Viderehan is correct and usual. The count rises on each memorial object the Gardens accepts with nothing said over it, and it rose most in the two years the Gardens waived its account book entirely, out of consideration.
 ## Activation Behavior
 
 > **Special activation — no counter.** The file's own line: *"direct touch"*.

@@ -78,7 +78,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 75%, reached as new forgotten memories enter the maze. No count is listed |
 | **Sorrow Gauge [Saturation]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-B-02, beneath Old Lament |
 | **Resolution Condition** | Maintain a memory anchor and limit exploration time |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Nobody identifiable. The lives stored here cannot be matched to any roll the Keepers hold, and the archive's position is that this is the entity's content rather than a gap in the research — a maze of people no record claims. The faces are catalogued by count and not by name.
 - **Expanded origin context:** The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this effect as "Sorrow Resonance" — the entity's sorrow resonates with the viewer's own hidden grief. Containment procedures require personnel to rotate every 72 hours. Extended exposure causes vivid dreams — dreams of lives never lived, of losses never mourned. The dreams fade.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A maze beneath Old Lament that is walked rather than met. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reveals the memory architecture. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can continue without a stable map. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the entrance, the anchor, and the corridor count before the first turn. Time inside is capped before anybody enters, not during. |
+| **Handling** | The entrant is walked on a line and hauled back to the anchor at the first overrun. The walls' contents are written down as they appear, and nothing in them is discussed inside the maze. — see `## Handling Process` |
+| **Withdrawal** | Against the file's documented suppression condition: **Maintain a memory anchor and limit exploration time** — with the entrant out, the count read, and the contents entered before anybody talks about them. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 75%, reached as new forgotten memories enter the maze. No count is listed — is done on purpose. |
 
-
-### Operational Work Notes
-
-Two of the four Work Types apply here and the reason is structural rather than stylistic: there is nothing in the Maze to weep with and no surface to confront. So Flerehan and Pugnahan have no purchase at all — the walls are other people's lives and none of them answer. Viderehan reads the memory architecture from the tether and holds the reading flat. Ferrehan tests whether a worker can keep moving on the written route while the geometry changes around them. Both are carried out with the line attached, and a reading taken anywhere but from the anchor side is treated as an observation about one person's passage rather than about the place.
-
-**Reading the response:** A falling reading under Ferrehan means the team kept to the written route while the geometry moved. Stability under Viderehan is the correct result and is not a sign that nothing happened. The reading rises whenever somebody navigates by recollection. And it rises identically whether the recollection was accurate or false — the one finding this file has never been able to make personnel accept. And the reason every debrief reads the entrant's account against their record instead of taking it as the route.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Read off the file: *"new forgotten memories entering the maze"*.

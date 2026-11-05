@@ -72,7 +72,6 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-928 |
 | **Resolution Condition** | The reader outside confirms the operator's errors against the sheet and the operator leaves on the reader's word, not their own. Nineteen years of operator shifts, an external call on every one of them, and no shift has ever been ended by the person inside. |
 
@@ -140,18 +139,20 @@ The repetition is not administrative sloppiness and the file says so plainly. Ev
 
 What does not vary is the shape of the incident that prompts the rewrite: nobody injured, nothing released, and a record afterwards that cannot be reconciled with itself. The archivist's note observes that a holding which erodes institutional memory will produce exactly this history and that recognising the pattern has not, in nineteen years, been enough to break it.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Send the operator through to be read inside and set the nominated reader outside to score. The stage boundaries fall at reproducible dwell times. Both positions and their separate jobs are entered in the log before anybody goes in, because the reader outside cannot verify what the operator reports and is not asked to. | Decrease · High |
-| **Ferrehan** (Endurance) | Complete a full cycle at the marked stations without shortening or extending it. The volume thins around a party that keeps the interval, and the endurance spent is the interval itself. | Decrease · Common |
+> **This holding is not worked.** It is a gas that thins the memory of anyone inside it and keeps them working: a fixed passage, read at both ends of the watch by two people, one of whom is outside.
+
+| Stage | What is done |
+|---|---|
+| **Approach** | Two are posted, never one: the operator who goes through the passage, and the named reader who stays outside and holds the sheet. Objectives are written down and carried on the person, because the operator will not remember agreeing to them by the far end. |
+| **Handling** | Fixed-passage reading at both ends of the watch — the operator walks the marked stations in both directions, the reader scores at each boundary and does not call a correction until the station is passed. The stage boundaries fall at the same places they fell last watch; a boundary that has moved is the first reading. |
+| **Withdrawal** | On the first marked error, out — and on the reader's word, not the operator's. An operator who says they are fine is the one the file warns about; a full cycle at the marked stations is completed or it is abandoned, never shortened and never extended. |
+| **Refusal** | The operator does not judge their own error. Nineteen years of operator shifts and an external call on every one of them: somebody who has breathed the Lethe cannot be asked whether they have. |
 
 ### Operational Work Notes
 
-Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestation, Void expression, at SECTOR-C-928 in the Zone C sublevels. Flerehan and Pugnahan are unavailable to a Hazard. Both valid Work Types lower the gauge and neither returns anything taken, which is the asymmetry every protocol in this file is built around.
+Lethe is a Hazard; nothing in it is observed into agreement and nothing is confronted. The old four-row table offered two stages to a gas and blanked the other two, which is a form with the answer already decided. What the record describes is a relay: one inside, one outside, a sheet and a first marked error.
 
 ## Breach Behavior
 

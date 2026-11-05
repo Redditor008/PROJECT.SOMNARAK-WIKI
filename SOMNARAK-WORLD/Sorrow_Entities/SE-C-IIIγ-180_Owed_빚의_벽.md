@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A wall across the thoroughfare with debts on it, growing a block at a time between watches. No block has ever been seen arriving and no block has ever come away. The masonry gains length and height the way a ledger gains interest. |
 | **Perceptible to** | The length at both ends of the thoroughfare first, measured against the marks. Then the names on the face, which are not carved. A worker at the face meets an obligation pressing as Weight rather than a brick arriving. |
-| **Handling** | Measure, record, acknowledge. The work is read with a debt custodian, the dispute fields are preserved, and the monitored duration is set before anybody approaches — a worker who says the weight feels ordinary is withdrawn first. |
+| **Handling** | Measure, record, acknowledge. The work is read with a debt custodian, the dispute fields are preserved, and the monitored duration is set before anybody approaches — a worker who says the weight feels ordinary is withdrawn first. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on new debt or unpaid obligation |
 | **Sorrow Gauge [Load]** | **000 of 660** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the debt on the face and holds the gauge; Ferrehan is bearing the face without adding to the load, and lowers it. Demolition is not a Work Type and never has been. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | Measure and acknowledge the debt; the Wall cannot be demolished |
 
@@ -145,23 +144,17 @@ The combat table now records that same limit rather than breaking it: a strike r
 - **The People:** Every household of the city with an obligation that was never discharged, and the thirty households of Collector's Row whose doors open onto the obstructed length.
 - **Expanded origin context:** The last reconciliation is in the file and is the document the Wardens are shown first. The clerk's hand is steady through nine pages of tallying and then stops. What follows is one sentence, in the same hand, recording that the total could not be arrived at — not that it was large, not that it was disputed, that it could not be arrived at. The wall appeared across the thoroughfare within the year. The commissioning note observes that the city did not lose track of a number. It lost the ability to hold one, and what stands on the Row is the shape that took.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A wall across the thoroughfare with debts on it, growing a block at a time between watches. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the history of a single obligation within a single block, including what it was for and who has since died owing it. | Stable · Common |
-| **Ferrehan** | Holds the worker under the city's accumulated weight for the length of the cycle. Lowers the gauge, and is the only approach that does. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the length at both ends of the thoroughfare against the marks, the block count with the debt custodian present, and the monitored duration set before anybody approaches the face. |
+| **Handling** | The watch measures both ends of the thoroughfare against the marks, records the block against the dispute fields with a debt custodian, and does not weep at a wall instead of reviewing the system feeding it. |
+| **Withdrawal** | **Measure and acknowledge the debt; the Wall cannot be demolished** — and a watch that ends with anything removed from the face has not closed at all, because nothing has ever come away from it. |
+| **Refusal** | Does not strike it and does not attempt demolition at any gauge. The attempt is recorded against the marks and the cycle returns to measure-record-acknowledge. |
 
-
-### Operational Work Notes
-
-Owed is a Place of Fragment (III) coherence at Major (γ) potency — Place-Weight manifestation, Weight expression — standing across the thoroughfare at SECTOR-C-01. Flerehan and Pugnahan are Negative-Low because a Place cannot be grieved with or fought. A level gauge does not make a safe cycle here: Viderehan leaves the gauge level while showing the worker a single obligation in full, which is the part of the work that ends careers.
-
-**Reading the response:** Read it in the marks and the transparent count, not in the pressure, which is constant and tells the watch nothing. A falling gauge presents as the page-turning sound slowing. A rising one presents as the inscription's end advancing, which is permanent whatever the gauge does afterwards.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"new debt or unpaid obligation"*.

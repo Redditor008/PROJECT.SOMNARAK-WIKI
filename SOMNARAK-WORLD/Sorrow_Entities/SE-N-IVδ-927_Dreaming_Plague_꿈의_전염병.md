@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A normally breathing person asleep in the open, and a district around them that agrees. Independent sleepers describe the same streets in the same order, which the counsellors' standing note calls the most troubling feature of the file precisely because dreams do not ordinarily agree. |
 | **Perceptible to** | The agreement first, then the second sleeper: one unprompted sleep inside a widened boundary, after which the contact rule resumes and has held for every subsequent case. The sound they report is the approaching sound, nearer each time. |
-| **Handling** | The cordon held without touching or moving the sleeper, the account taken on waking in a separate place from any other sleeper, barriers back on the rack, and no M.A.W. piece handed between personnel inside the district. |
+| **Handling** | The cordon held without touching or moving the sleeper, the account taken on waking in a separate place from any other sleeper, barriers back on the rack, and no M.A.W. piece handed between personnel inside the district. — see `## Handling Process` |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [Saturation]** | **000 of 880** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the separate account on waking, which is the only content the file has ever had. Ferrehan is the wait outside reach, which has held for every case and neither approach has ever produced an early waking. |
 | **Location** | SECTOR-N-927, contained |
 | **Resolution Condition** | The sleeper wakes on their own and the cordon is lifted by the person who set it. Resolution is a timekeeping exercise — mean duration four hours eleven minutes, longest nine hours, none unresolved — and no work performed on a sleeper has ever altered the figure. |
 
@@ -146,18 +145,16 @@ The dream does not vary. A city that is not Somnarak, a sky that is not the sky,
 
 Only one element moves. Later sleepers put the sound nearer than earlier ones, every time, without exception and without knowing where in the series they fall. The wing maintains the dates and the estimates and declines, in writing, to say what the trend indicates.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the sleepers’ accounts against the street corner they all describe, from outside the line. The value of the session is in how closely the descriptions agree, not in how many there are. | Decrease · High |
-| **Ferrehan** (Endurance) | The party cordons and waits for unaided waking, and does not carry, shake or touch the sleeper. The endurance asked for is standing still while somebody sleeps, and every attempt to shorten it has added a sleeper. | Decrease · Common |
+> **This holding is not worked.** A normally breathing person asleep in the open, and a district around them that agrees. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-There is no pressure on the body here at all. Both valid approaches are performed at arm’s length from a cordon line: observation is the account taken on waking, endurance is the attending itself, hours of standing next to somebody you are forbidden to touch. The gauge responds to the cordon being held, which is the only thing personnel actually do.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the sleeper's name, the site and the hour on the clock, the cordon line and who set it, and the staging point where the set is drawn and returned. |
+| **Handling** | The watch sets the cordon and starts the clock, and takes the sleeper's name, the site, and the hour — three fields and no diagnosis. |
+| **Withdrawal** | **The sleeper wakes on their own and the cordon is lifted by the person who set it** — a timekeeping exercise with a mean of four hours eleven minutes, and an account signed before the district reopens. |
+| **Refusal** | The cordon held without touching or moving the sleeper, the account taken on waking in a separate place from any other sleeper, barriers back on the rack, and no M.A.W. piece handed between personnel inside the district. |
 
 ## Containment Event Behavior
 

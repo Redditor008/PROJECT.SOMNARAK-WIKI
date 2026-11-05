@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A ruin-shaped object of red-black crystal preserving the outline of a beloved place, standing at the Mask Market margin. Its mass moves between the approach and the empty interior, and a fixed site does not follow anybody off the path. |
 | **Perceptible to** | The outline first, at fourteen marked stations. Then the warmth of a room that is not being offered, and the detail sharpening until the shape reads as the house. |
-| **Handling** | Nothing in the radius is built, braced, shored, tidied or shifted to resemble the house. A recollection resembling it is removed and logged with the name of whoever introduced it, and the margin is walked for combustible material before anything else is attempted. |
+| **Handling** | Nothing in the radius is built, braced, shored, tidied or shifted to resemble the house. A recollection resembling it is removed and logged with the name of whoever introduced it, and the margin is walked for combustible material before anything else is attempted. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on attempting to reconstruct the remembered structure |
 | **Sorrow Gauge [Pressure]** | **000 of 880** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the love and the failure together, which cannot be separated, and holds the gauge. Ferrehan stands in the margin of a house built for people who are not coming and puts nothing right, which is the row that lowers it. |
 | **Location** | Zone C, Mask Market |
 | **Resolution Condition** | the outline holds at every marked station through a full cycle and nothing in the radius has been rebuilt, braced or shored |
 
@@ -149,23 +148,17 @@ Some physical accounts remain unjoined. The Log and Method describes picking up 
 - **The People:** One caretaker, who loved the place and tried to keep it, and the household who had already gone. The technical account of what she did is held in full, including the specifications she worked to and the point at which the load exceeded them, and it concludes that her method was sound in principle and would have held at a smaller margin. Two reviewers have tried to strike that sentence as speculative. It remains.
 - **Expanded origin context:** What the file holds of the caretaker is a technical account rather than a story: the specifications she worked to, the point at which the load exceeded them. And the assessors' conclusion that the method was sound in principle and would have held at a smaller margin. Two reviewers have moved to strike that sentence as speculative and it remains, because the alternative the file refuses is a version in which she was careless. The household had already gone by the time she began, and the one connection nothing else in the archive carries is that the east range went in the week a neighbouring sign was raised.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A ruin-shaped object of red-black crystal preserving the outline of a beloved place, standing at the Mask Market margin. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The love and the failure show together and cannot be separated, which is the whole of what the caretaker's file says too. | Stable · Common |
-| **Ferrehan** | The worker stands in the margin of a house built for people who are not coming and puts nothing right, which is harder than it reads and is the only work that lowers the gauge. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the outline at all fourteen marked stations, the position of the mass against the approach, and whether anything in the radius has been built, braced or shored since the last cycle. |
+| **Handling** | The observer shows the love and the failure together and the stander stands in the margin without putting anything right. Nothing is carried in that resembles the house, and the interior is left furnished by nobody. |
+| **Withdrawal** | **the outline holds at every marked station through a full cycle and nothing in the radius has been rebuilt, braced or shored.**. |
+| **Refusal** | All building, bracing, propping, shoring and tidying stops, and a reconstruction is allowed to lapse rather than taken apart by hand. |
 
-
-### Operational Work Notes
-
-Read the table as the holding's whole method rather than as a menu. Conservatory is an Object/Place with an Object-Grudge manifestation and a Grudge expression, held in the Mask Market margin. And the two valid responses split along one line: Viderehan shows the love and the failure together and cannot separate them. While Ferrehan asks a worker to stand in the margin of a house built for people who are not coming and put nothing right. Anger in the radius does nothing measurable. Affection moves the reading every time. And anything that resembles the house — a plan, a recollection, a stone shifted off the path — is read as the attempt that destroyed it being made again. A stable gauge is not a safe cycle: Viderehan holds it flat and costs the observer a difference they cannot afterwards unsee.
-
-**Reading the response:** Read it in the temperature and in the survey. A falling gauge presents as cooling — the crystal darkening from red toward black, the margin temperature settling, the mass easing back from the approach. The pressure drops and nothing is recovered; the house is still gone and the outline is still all that is left of it. A rising gauge presents as **fidelity**. The outline looks more like the house, not less: detail sharpens, a room reads as furnished, and an observer standing at the station finds they can see where the table was. That is the warning. This entity's whole grievance is the difference between preserving a thing and copying it. And anything in the radius that begins to resemble the house — including a memory of it — is read by the crystal as the attempt that destroyed it being made a second time.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"attempting to reconstruct the remembered structure"*.

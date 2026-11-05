@@ -94,7 +94,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Mantle Commons — ambient |
 | **Resolution Condition** | No containment required; preserve the conditions that form it |
 
@@ -154,23 +153,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Nobody in particular and several thousand in general — the Mantle Commons over about forty years, in the ordinary course of sharing food and holding doors.
 - **Expanded origin context:** There is no commissioning file. What the Commons staff keep instead is a count book begun by a stallholder, forty-one years of it, recording every return she heard and who she thought it was. The book is unscientific, unauthorised, and the best record the archive holds of this holding; the Keepers took a copy and left her the original. Her last entries note that the voices had begun to be ones she no longer recognised, and that there were fewer of them.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The act behind the return: who did it, for whom, and whether anybody ever knew. Gauge does not move. | Stable · Common |
-| **Ferrehan** | Remaining in the Commons and allowing a kindness to be said to you without deflecting it. Several Wardens have asked to be excused this and have been. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | The observer is to count and transcribe; the stander is to sit in the Commons and accept one. |
+| **Handling** | The mourner and the confronter do not apply to a Place and have never been attempted. — see `## Handling Process` |
+| **Withdrawal** | No containment required; preserve the conditions that form it. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 45% — is done on purpose. |
 
-
-### Operational Work Notes
-
-Read the behaviour table as a diagnostic and not a prescription: the classification says which Work Type calms this holding and which provokes it, and nothing here transfers to another entity with a similar name. Echo of Kindness is an Object/Place with a Lament manifestation and Lament elemental expression, held at Zone D in the Mantle Commons — ambient, in a working square. The fact that governs every reading is the roster: no return in 3 years has followed an act performed under it. A steady reading is not a safe one: the watches have logged flat gauges on the very nights a worker walked out of the Commons carrying a memory the square had handed back.
-
-**Reading the response:** Work success is measured by the holding's response, the worker's condition and the information recovered. A gauge decrease confirms the Work Type is functioning and does not confirm the holding is safe — only quieter. This is stabilisation, not permanent healing. A gauge increase means the holding is absorbing emotional energy rather than releasing it, and unusual responses precede a change in the series long before the count shows it.
 ## Expansion Behavior
 
 | Field | Detail |

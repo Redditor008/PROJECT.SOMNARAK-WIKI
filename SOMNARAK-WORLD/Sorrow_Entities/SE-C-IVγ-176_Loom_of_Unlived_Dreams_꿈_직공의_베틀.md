@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A loom of pale crystallised Dream-stuff, taller than the chamber's doorway, cold and salt-damp. The shed opens, the shuttle crosses and the beam takes up continuously with no hand on it and no power to the frame, at a rate that has not varied in a century. The frame is fixed and the weave is not. |
 | **Perceptible to** | The shuttle first — the eye follows it before the mind has decided the frame is running — then the finished length on the beam, which is the only number on this holding that changes: 40, then 61, then 88 metres. |
-| **Handling** | Nothing is cut and nothing is stopped by hand. The frame is worked from beyond the painted line, the length is read off the beam and entered whether or not it has moved, and the shuttle's rate is timed over fifty passes rather than followed. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. |
+| **Handling** | Nothing is cut and nothing is stopped by hand. The frame is worked from beyond the painted line, the length is read off the beam and entered whether or not it has moved, and the shuttle's rate is timed over fifty passes rather than followed. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on contact with the weave, or entry to any dream chamber inside the marked radius |
 | **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the observer, in full, what they were preparing for and holds the gauge while doing it. Ferrehan stays inside an unfinished future for the timed interval and brings the gauge down. |
 | **Location** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | The timed rotation ends, the watch closes at the clock, and the gauge falls below 25% — the condition being satisfied by the roster rather than by anything the worker concludes about themselves. |
 
@@ -140,23 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Citizens who set their dreams down near the Gate — not robbed of them and not refused them, merely never able to establish that the thing they were working toward was going to exist.
 - **Expanded origin context:** The material was set down rather than taken, and the file is deliberate about keeping that visible. These were people who qualified, waited, and did the preparatory years for posts that the establishment plan listed as numbers and never as anybody's. Nobody promised them anything, because nobody is permitted to: a plan that names a person is a plan that can be traded, and the Office abolished named plans for reasons that fill a volume. So they worked toward a figure on a board that could fall to zero between one quarter and the next, without notice and without anybody being told, since telling a particular person their number had gone would be identifying them as a candidate. When the figures moved, nothing had been broken, because nothing had ever been said. They put the dream down and went on with the work in front of them. The Lament collected near the Gate in the shape of what they had been preparing for.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A loom of pale crystallised Dream-stuff, taller than the chamber's doorway, cold and salt-damp. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | What the observer was preparing for, in full, as though it had happened. Gauge holds. | Stable · Common |
-| **Ferrehan** | Remaining inside a future that is not finished and will not finish, for the length of the timed interval. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the finished length on the beam, the shuttle's rate over fifty passes, the condition of the painted boundary, and the clock — the preamble being where the clock is wound, because on this file the clock is the containment. |
+| **Handling** | The watch the rate is timed over fifty passes, the finished length is read off the beam, and the painted boundary is checked before the clock is set for anybody. |
+| **Withdrawal** | **The timed rotation ends, the watch closes at the clock, and the gauge falls below 25% — the condition being satisfied by the roster rather than by anything the worker concludes about themselves.**. |
+| **Refusal** | The line is repainted only on the duty officer's order, and the arguments from outside the paint are entered as the failure mode rather than as the ending. |
 
-
-### Operational Work Notes
-
-The row that matters here is the one that looks like the safe option. Viderehan holds the gauge stable while the observer is shown, in full, the future they were preparing for — which costs nothing on the sheet and is the most expensive thing the file does. Ferrehan brings the gauge down by the harder route: staying inside an unfinished future for the length of the timed interval and coming back out at the clock. Two Work Types are unavailable for the standing Object/Place reason and, on this holding, that is a mercy nobody has needed. Neither working approach explains the frame — a century of looking has not found what drives it — and the file's own position is that a method which produces sealed, repeatable evidence about an unexplained thing is still an advanced record. And the unfinished business is the mechanism and not the method.
-
-**Reading the response:** A falling gauge means the watch ended at its clock and the worker came back out of the future they were standing in. A stable gauge under Viderehan means the observer was shown the whole of what they were preparing for and is, at the end of it, no further along — the row is a receipt and not a result. A rising gauge is the register's way of saying the frame is being worked without a rotation: it gains whenever somebody stays past the clock, and the gain does not come back the next session. Nothing in the table measures the loom itself, which is not selectable at this level. The four lines measure what the facility did with the time it had.
 ## Activation Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"contact with the weave, or entry to any dream chamber inside the marked radius"*.

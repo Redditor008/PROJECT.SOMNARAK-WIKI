@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A standing mirror taller than a person in a plain frame, its surface rippling continuously. The rippling belongs to the surface and not to a body trying to emerge. A room or a back-turned figure appears in the glass and stays there. |
 | **Perceptible to** | The place first — 188 of 211 viewers named it within a minute, and all 188 named somewhere that no longer exists. Then the figure, always somebody the viewer has lost and never facing them. |
-| **Handling** | One at the glass and one at the clock with authority to close the channel, both in the chamber before the viewing starts, with the counselling appointment booked ahead of the cycle rather than after it. |
+| **Handling** | One at the glass and one at the clock with authority to close the channel, both in the chamber before the viewing starts, with the counselling appointment booked ahead of the cycle rather than after it. — see `## Handling Process` |
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the category of the place inside the ninety-second clock, and the phantasmal reading is the whole of what it returns. Ferrehan holds the post to the timer, and the void pressure settles to it and not before it. Neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it easy. |
 | **Location** | SECTOR-N-903, contained |
 | **Resolution Condition** | The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered. 211 channels; the prohibition on naming one is the oldest line in the file. |
 
@@ -146,18 +145,16 @@ Floor 4 examined it at length and the findings are classified. The summary is no
 
 What the holding shows is a place that is gone, accurately enough for district records to confirm some recognitions. A protective piece or a different position within the chamber does not make that view harmless. The category rule controls what the facility retains, not what the viewer feels: exposure still needs the nonviewing clock-holder, a closed channel at ninety seconds, withdrawal on recognition and the counselling appointment. The projection records how that last safeguard has failed people despite the intended arrangement.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Reads the gap for ninety seconds at a time and enters what appears in the flat as a category and not a description, which is the only form the record accepts. | Decrease · High |
-| **Ferrehan** (Endurance) | The party holds the room past the ninety-second close with the clock-holder naming the date at the cut. Anybody who recognises somebody in the glass is withdrawn and somebody else takes the remainder of the session. | Decrease · Common |
+> **This holding is not worked.** A standing mirror taller than a person in a plain frame, its surface rippling continuously. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Glass Elsewhere is an Object with Object-Phantasmal manifestation and Void expression, held at SECTOR-N-903. Flerehan and Pugnahan are unavailable to an Object. Both valid Work Types lower the gauge and neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it an easy one.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the clock running and the second person holding authority to close, the category the viewer expects to see, and the counselling appointment booked ahead of the cycle. |
+| **Handling** | The watch keeps two in the chamber, one at the glass and one at the clock, and enters the category of the place — home, workplace, public — and nothing else. |
+| **Withdrawal** | **The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered** — 211 channels, and no face has ever gone into the log, which is the oldest line in the file. |
+| **Refusal** | Closes the channel at ninety seconds, every time, whoever is at the glass and whatever the gauge reads. |
 
 ## Expansion Behavior
 

@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A seed-shaped absence in the Desolate soil with no physical core, visible only when rain or Han passes over it, and a faint heartbeat under the ground. The outline has not changed by more than a finger's width in four hundred years; the movement is downward and is measured as depth. |
 | **Perceptible to** | The absence when rain crosses it, then the heartbeat, and finally the dial trace — which is the record, and is read seven days after the fact rather than at the site. |
-| **Handling** | Marked and left. Nothing is excavated and nothing is planted into it, no interim reading is taken and no visit is made inside the seven days. The manifestation stops within four seconds of a person arriving, so standing at it destroys the week. |
+| **Handling** | Marked and left. Nothing is excavated and nothing is planted into it, no interim reading is taken and no visit is made inside the seven days. The manifestation stops within four seconds of a person arriving, so standing at it destroys the week. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on a person entered on this facility's registers with no recorded beginning |
 | **Sorrow Gauge [Depth]** | **000 of 240** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is worked from the recovered log rather than the field and holds level. Ferrehan is seven days away from an instrument that is working, with no interim reading and no visit permitted, and lowers the gauge. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Mark the absence; do not excavate or plant into it |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Not identified, and the holding states that rather than inventing somebody. A traveller is attested in three testimonies and in no document. Their name, their home and what they meant to grow are all absent from the file, and that absence is the single most honest line the record contains.
 - **Expanded origin context:** Nothing in the origin is a wrong done by anybody. The traveller lost a seed in a storm. The Han took the memory the way the Han takes everything. The land near the Scar has been doing that for four thousand years. Four assessments have confirmed that no act of this facility or any other is implicated and that the site predates the city's registers. The hollow does not answer to the traveller and never has — it sat at its baseline through the Scar surveys, through the Desolate clearances, and through the two excavation refusals. It answers to persons entered on this facility's registers with their history beginning at the moment we met them, because their origin could not be verified and the register is for verified things. That is a rule written by careful people and it is the only thing this hollow has ever measured.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A seed-shaped absence in the Desolate soil with no physical core, visible only when rain or Han passes over it, and a faint heartbeat under the ground. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | From the recovered log, not from the field: the hollow's own record of what it has held, which reads as the first thirty years of somebody's life told without names. | Stable · Common |
-| **Ferrehan** | Seven days away from an instrument that is working, with no interim reading permitted and no visit allowed. It is the longest single endurance cycle in the archive. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the outline against the four-hundred-year survey, the depth at the previous recovery, and the date the logger was last changed. |
+| **Handling** | The watch the outline is surveyed and the depth read from the logger only at recovery, seven days later. |
+| **Withdrawal** | **Mark the absence; do not excavate or plant into it** — and a week that was disturbed is entered as void rather than as a reading. |
+| **Refusal** | Nothing is planted and nothing is dug. Arriving inside the week voids it, and the voiding is entered without comment. |
 
-
-### Operational Work Notes
-
-Ferrehan lowers the gauge and Viderehan holds it level, and both are performed without anybody standing at the site. Flerehan and Pugnahan are Net-Neutral against a Place. The Registrum's instruction that Viderehan is the only Work Type and that others yield no data contradicted the Behavior table for four centuries. And the practical effect was that the seven-day cycles went unrecorded as work and the Wardens who ran them were marked as having completed nothing.
-
-**Reading the response:** What the gauge reports is one worker's 7 days of staying away. What the depth reports is the way this facility has been opening its files. The two sit in separate columns, they have never once moved together, and supervisors are told plainly that a cycle which drops the gauge while returning a deeper log has been worked right and goes into the record as a success with no qualification attached.
 ## Activation Behavior
 
 > **Special activation — no counter.** Read off the file: *"a person entered on this facility's registers with no recorded beginning"*.

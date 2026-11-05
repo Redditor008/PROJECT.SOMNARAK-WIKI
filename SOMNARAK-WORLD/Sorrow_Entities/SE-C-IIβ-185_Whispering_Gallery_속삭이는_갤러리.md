@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A gallery of framed pictures in Zone B whose frames give up histories — districts, trades, the years they worked — and never a name or a face. Two hundred and twelve speakers with nothing in common but the room, every one of them wrong in their own direction. |
 | **Perceptible to** | A voice almost recognised, breathing a secret the listener never told anybody. Then the multiplication, until the walls are full of it and no two voices agree about the person standing in them. |
-| **Handling** | Walk the full length answering nothing, and restore names where the frames have lost them rather than supplying details the record does not hold. The watch does not argue with a voice and does not correct one. |
+| **Handling** | Walk the full length answering nothing, and restore names where the frames have lost them rather than supplying details the record does not hold. The watch does not argue with a voice and does not correct one. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on registration of an unnamed memorial, anywhere, with no witness recorded to it |
 | **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the histories the frames give up. Ferrehan is the worker walking the full length answering nothing, which is harder on the fifth walk than the first and is the only approach that lowers the carry. |
 | **Location** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | Restore names and listen without replacing missing details |
 
@@ -153,23 +152,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Two hundred and twelve people, each of whom can be told apart from the others by voice and none of whom can be named. Four have been identified from surviving documents in sixty years.
 - **Expanded origin context:** The voices are individually stable. Recordings forty years apart separate the same 212, each returning from its own consistent offset, and the acoustic series is one of the cleanest identity datasets the facility holds. It establishes nothing. A person may not be identified by likeness, voice or resemblance. Identification requires a document. And the rule exists because of Year 4144, when three witnesses independently recognised a man's voice, he was recorded dead, his estate was distributed, his standing was extinguished. And he was alive and in Zone D at the time. The Gallery can distinguish 212 people perfectly and the facility may not put a single name to one of them.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A gallery of framed pictures in Zone B whose frames give up histories — districts, trades, the years they worked — and never a name or a face. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The frames give up histories — districts, trades, the years they worked — and never a name or a face. | Stable · Common |
-| **Ferrehan** | The worker walks the full length answering nothing, which is harder on the fifth watch than the first, because by then they can tell the voices apart. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the frame count and the names still present, the recommended cycle from the last walk, and the two people who will walk it in silence. |
+| **Handling** | The watch walks the length at a steady pace, and counts the frames whose histories have gone missing rather than the voices. |
+| **Withdrawal** | **Restore names and listen without replacing missing details** — and a walk that ended in an argument with a voice is entered as a walk that did not happen. |
+| **Refusal** | Does not command the room and does not answer a single voice. The walk continues, the answers stay unspoken, and the discrepancy is written down rather than resolved. |
 
-
-### Operational Work Notes
-
-The table is the Object/Place rule applied to a hall: Flerehan cannot reach it and Pugnahan has nothing to confront, which leaves the two Work Types the file names — Viderehan, walking the frames for districts, trades and working years and stopping short of any name or face. Ferrehan, the full length walked in silence, harder on the fifth watch than the first because by then a worker can tell the voices apart. The instrument is not the table. It is the contact gauge seated in the boards, read at every watch.
-
-**Reading the response:** Read it on the gauge and in the voice count. A lower carry for a shift is what a work cycle buys here, and the baseline is untouched by it. The baseline itself moves for one thing only — a name restored from a surviving document — and the four steps in sixty years are the whole of it. A session in which a worker answers a voice, or writes down who they believe one to be, is not a reading. It is an entry in the register of the Year 4144 problem.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"registration of an unnamed memorial, anywhere, with no witness recorded to it"*.

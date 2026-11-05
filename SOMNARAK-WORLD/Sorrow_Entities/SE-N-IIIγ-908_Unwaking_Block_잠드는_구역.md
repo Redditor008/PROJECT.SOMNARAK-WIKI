@@ -72,7 +72,6 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-908 |
 | **Resolution Condition** | The survey party is out at the called time with a signed plan of what it walked through. There is no condition under which the block is resolved: nobody has woken, nobody is expected to, and the file does not pretend otherwise. |
 
@@ -138,18 +137,16 @@ The building did not stay the shape it was. Walls move between surveys, doors op
 
 Containment took fourteen hours and the margin was narrow. What it contains is not a hazard to the sleepers — nothing has ever harmed one — but the building around them, which is no longer reliably a building.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Maps the block again from the street side every session, because the building is not the shape it was last time. Forty surveys and no two agree, and the disagreement is the reading. | Decrease · High |
-| **Ferrehan** (Endurance) | The party holds the outside call for the full night and leaves at the called time, without entering a door that is not on the plan. What the watch buys is a record of the block unchanged while somebody was awake in it. | Decrease · Common |
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-What limits the work is not the pressure but the clock. Observation is the survey itself; endurance is walking out of a half-drawn corridor because a voice outside said the time. The limit is called by somebody who never enters, and the standing order gives the reason: the limit cannot be judged by anyone standing in the air it protects them from.
+| Stage | What is done |
+|---|---|
+| **Approach** | The gauge falls on entries that produced a completed plan and returned on the called time. |
+| **Handling** | It has never fallen on an entry extended to finish a room. — see `## Handling Process` |
+| **Withdrawal** | The survey party is out at the called time with a signed plan of what it walked through. There is no condition under which the block is resolved: nobody has woken, nobody is expected to, and the file does not pretend otherwise. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 60% — is done on purpose. |
 
 ## Breach Behavior
 

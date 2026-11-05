@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A tear-shaped object crushed flat against the soil beneath its Garden stone, still wet despite being crystallised, salt-cold, in soil that has never closed over it. What changes is its height above the soil, by tenths of a millimetre. |
 | **Perceptible to** | The height above the soil first, which is the only series that answers. Then the wetness that should have dried, and the judgement the surface reflects — that this one does not belong here. |
-| **Handling** | Left flat. Nobody lifts it except in a scheduled contact operation with a counsellor present, and after a lift it is set down deliberately rather than put down. No grief in the room is ranked against another in its hearing. |
+| **Handling** | Left flat. Nobody lifts it except in a scheduled contact operation with a counsellor present, and after a lift it is set down deliberately rather than put down. No grief in the room is ranked against another in its hearing. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; **Object/Place** — Non-breaching: activation only |
 | **Sorrow Gauge [Depth]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan surfaces the loss that made it — as small as advertised — and holds the gauge flat, because the object was never hidden from sight, only from acknowledgement. Ferrehan holds a grief that feels too minor to hold and declines to put it down early, which is the row that lowers it. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%. The four measurements are taken before and after contact. |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One visitor to the Echo Gardens, unnamed in the record, who came to mourn among monuments raised for the consumed, the Fractured, and the Cheongula's thousand, and decided her own loss did not belong in that company.
 - **Expanded origin context:** What survives of the visitor is the shape of an omission rather than anything about her: a stone chosen in a row raised for the consumed, the Fractured and the Cheongula's thousand. And one tear put beneath it because she had decided her loss did not belong in that company. The Tear is what that decision left — pressed flat against soil that has never closed over it, still wet, salt-cold, with the Gardens' growth arriving at its edge each year and stopping there though nobody plants or cuts to produce it. The record knows one fact about her, and it is the one the Tear has kept: she measured her grief against the company she was standing in, and found it wanting.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A tear-shaped object crushed flat against the soil beneath its Garden stone, still wet despite being crystallised, salt-cold, in soil that has never closed over it. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The loss that made it surfaces, and it is as small as advertised. Nothing moves; it was never hidden from sight, only from acknowledgement. | Stable · Common |
-| **Ferrehan** | The worker holds a grief that feels too minor to hold and declines to put it down early, which is the exact act the visitor could not perform. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the four measurements of height above the soil, the moisture the crystal should not still have, and whether the last cycle was worked at all. |
+| **Handling** | The watch the four measurements are taken before and after contact, and the caliper series is never broken across a shift. |
+| **Withdrawal** | **A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%; the four measurements are taken before and after contact.**. |
+| **Refusal** | A lift is a scheduled contact operation with a counsellor present, never an incidental pickup, and the object is set down deliberately rather than put down. |
 
-
-### Operational Work Notes
-
-The two valid responses do different work and the difference is the whole method. Viderehan surfaces the loss that formed the Tear and leaves the gauge flat: the object was never hidden from sight, only from acknowledgement, so looking at it neither relieves nor feeds anything. Ferrehan lowers the gauge by asking a worker to hold a grief that feels too minor to hold and to decline to put it down early, which is the exact act the visitor could not perform. Nothing else on the list approaches either of those, and the Object/Place rule is no formality here: this is a β-grade set cut from a three-point residue, and the entity itself has never injured anybody.
-
-**Reading the response:** Viderehan holds the gauge level. Looking at the Tear reveals the small loss that formed it, and the Tear neither resists being seen nor gains anything from it — it was never hidden from sight, only from acknowledgement. Ferrehan lowers the gauge, because endurance here means holding a grief that feels too minor to hold and declining to put it down early. That is the exact act the visitor could not perform. A falling gauge therefore means a worker has managed, for ten turns, not to rank sorrows. A rising gauge almost always traces to a single remark in the log — the word *just*, the word *only*, the phrase *nothing serious* — and the remark should be transcribed verbatim rather than summarised, because the entity is responding to the wording and not to the sentiment.
 ## Activation Behavior
 
 > **Special activation — no counter.** Unworked, it does not escape and does not grow. It flattens further, and neglect is the only way this holding changes.

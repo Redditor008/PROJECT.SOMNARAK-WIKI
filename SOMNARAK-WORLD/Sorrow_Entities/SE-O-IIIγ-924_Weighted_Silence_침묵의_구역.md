@@ -74,11 +74,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A fifty-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel inside report that the silence has weight, texture and intent, and the file records that report and does not adopt it. |
 | **Perceptible to** | One foot past the boundary, a worker's own voice reaching one ear and not the other. Then the writing, which slows in the hand and comes back shorter, flatter and less exact the longer the watch runs. |
-| **Handling** | Work it from the boundary. Every reading that has ever moved the gauge was taken outside the line, and the annual sighting closes when the radius matches its markers to within half a metre. |
+| **Handling** | Work it from the boundary. Every reading that has ever moved the gauge was taken outside the line, and the annual sighting closes when the radius matches its markers to within half a metre. — see `## Handling Process` |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [Saturation]** | **000 of 660** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, both run from outside the line. Viderehan is the sighting itself; Ferrehan is standing the full survey in the Desolate's weather. The gauge answers to patience here and never to insight. |
 | **Location** | SECTOR-O-924, contained |
 | **Resolution Condition** | The annual sighting closes with the radius matching its markers to within the survey tolerance of half a metre. Containment here is a measurement, not a suppression — nothing is subdued, and the file is explicit that nothing ever has been. |
 
@@ -145,18 +144,16 @@ What is contained is fifty metres of the Desolate in which sound does not occur 
 
 The containment ran fourteen hours and was built out of a chain, twelve posts, and a sighting line. It has stood seventeen years because it is asked to do nothing: the circle has not moved, and the year it seemed to, the survey was the thing that had failed.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Sights the edge from the markers and never past them. What a session establishes is the shape of the silence from the outside, which is all that has ever been measured of it. | Decrease · High |
-| **Ferrehan** (Endurance) | A party holds position at the markers for the full cycle without speaking and without crossing for a reading. The silence is not something a body can be sent into and reported on. | Decrease · Common |
+> **This holding is not worked.** A fifty-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Nothing at this holding presses on a worker; what it removes is an instrument. Both valid approaches are run from outside the line — observation is the sighting itself, endurance is standing the full survey in the Desolate’s weather — and the gauge answers to patience here, never to insight.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the markers and the radius read against them, the sighting tolerance of half a metre, and every exit timed in minutes past the line. |
+| **Handling** | The watch takes the bearing of the line before anybody steps up to it, and reads the radius against the markers rather than by eye. |
+| **Withdrawal** | **The annual sighting closes with the radius matching its markers to within the survey tolerance of half a metre** — containment as a measurement, not a suppression. |
+| **Refusal** | Does not press into the circle to find the point, and does not raise a voice to test it — the survey continues from the markers. |
 
 ## Containment Event Behavior
 

@@ -97,7 +97,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Provide a memory anchor; do not force a destination |
 
@@ -155,23 +154,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One traveller from beyond the wall who entered the city carrying nothing else. The Keepers hold no name, no origin settlement and no account of the journey. What survives is the direction of travel, recorded by a gate clerk, and the archive has kept that one word because it is the only fact anybody is sure of.
 - **Expanded origin context:** The gate register for that season survives, and the entry is four words long: an arrival, a direction of travel, no name, no settlement. The Desolate survey sheets for the region beyond that direction are held with the file. The archivist's note observes that the sheets are included because they correspond to what the entity appears to retain, that the correspondence is inferred and marked as inferred, and that no attempt has been authorised to find out whose journey it was.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows roads beyond the city wall, in detail, none of which matches the Desolate as currently surveyed. The gauge does not move. | Stable · Common |
-| **Ferrehan** | The worker walks the whole session beside it without choosing where it goes. The gauge falls, and this is the only work here that costs anybody anything. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Before approach, know what meets you: Sorrow Gauge ≥ 75%. |
+| **Handling** | The observer from alongside, the stander for the full accompaniment; no door closed ahead of it and no corridor cleared to steer it. |
+| **Withdrawal** | Provide a memory anchor; do not force a destination. |
+| **Refusal** | The observer from alongside, the stander for the full accompaniment; no door closed ahead of it and no corridor cleared to steer it. |
 
-
-### Operational Work Notes
-
-Driftglass is an Object/Place with Object-Lament manifestation and Lament expression, registered to the Alpha Tree vaults and never in one place within them. Viderehan is taken alongside at the drift height. Ferrehan is the accompaniment, which is the whole of the posting and the whole of the hazard. Neither has ever shortened a route or ended one.
-
-**Reading the response:** A falling reading means it was accompanied and not steered, or that an anchor from outside the city was recognised. Stability under Viderehan is correct. The reading rises whenever its route is shaped by anybody — a closed door, a cleared corridor, a destination spoken aloud — and rises identically whether or not it takes the suggested turning.
 ## Containment Event Behavior
 
 | Field | Detail |

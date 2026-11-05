@@ -96,7 +96,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Distinguish possibility from memory; do not excavate |
 
@@ -154,23 +153,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** A Desolate settlement of ninety-four subscribing households, and the generations they expected and did not get.
 - **Expanded origin context:** They were not commemorating anything. They were building forward: a pillar raised in confidence, with the carving left blank because the names of the descendants who would fill it had not happened yet. The descendants did not happen either. The settlement thinned out over two generations and ended without an event — no fire, no raid, no plague worth recording — and the pillar was left standing in ground that has been sinking under it ever since. What is out there is not a ruin. It is a space that was kept for people, and the keeping did not stop when the people failed to arrive.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the households, streets and children that were planned for and never existed, in ordinary domestic detail. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can hold an absence as an absence instead of converting it into a loss. The only approach that lowers the gauge. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | The observer and the stander, and the restriction is genuine here: there is nothing to weep to and nothing to strike. |
+| **Handling** | Survey the position, photograph the face, and do not dig. — see `## Handling Process` |
+| **Withdrawal** | Distinguish possibility from memory; do not excavate. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 75% — is done on purpose. |
 
-
-### Operational Work Notes
-
-Sunken Pillar is a Fragment (III) Object/Place with Place-Void manifestation and Void expression, migrating beneath the Desolate. Viderehan and Ferrehan are the only valid approaches and the restriction is correct here rather than copied from a template. Ferrehan lowers the gauge; Viderehan holds it level and produces most of what is in this file.
-
-**Reading the response:** Read it in the face and in the worker's language. A falling gauge presents as the absences becoming harder to notice from the survey line. A rising one presents as a worker beginning to speak about the missing generations in the past tense. The second is the earlier signal and is recorded verbatim for that reason.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"collective longing for a future that never formed"*.

@@ -78,7 +78,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
 | **Sorrow Gauge [Saturation]** | **000 of 660** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone C, Mask Market |
 | **Resolution Condition** | Speak only what the worker accepts responsibility for carrying |
 
@@ -136,23 +135,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One masked artisan, who died during a sleep ritual, and nobody else. The commissioning file holds the instruction they left as far as it goes. It stops mid-clause, at a point where the sense is almost but not quite recoverable, and the file carries a line stating that the remainder will never be inferred — an instruction completed by the archive would be the archive's instruction and not the artisan's. Two Wardens have written their own completions in the margin of a working copy. Both were moved to a separate sheet rather than erased, labelled as speculation, and kept at the back.
 - **Expanded origin context:** The commissioning file holds the instruction as far as it goes and it stops mid-clause, one step short of sense. Two Wardens have written their own completions in the margin of a working copy, the second nine years after the first, and both were moved to a separate sheet rather than erased, labelled as speculation and kept at the back. The archive's position is that the remainder will never be inferred: an instruction completed by the archive would be the archive's instruction and not the artisan's. What the place inherited from the artisan is not the craft, the materials or the ritual words, all of which are lost, but the unfinishedness itself, which is the one property a purpose can keep while nobody knows what it was for.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** An unrecovered relic in a sealed chamber whose walls lean inward, asleep and unnamed, with a plumb line and a slate at the door. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Symbols surface on the chamber wall, but no two transcriptions have ever agreed and none may be read as a description of the relic's purpose. | Stable · Common |
-| **Ferrehan** | The worker stays in the attentive quiet without filling it, which is the entire test and which most people fail by talking. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the hum, the plumb, and the lean of each wall against last quarter's slate — read before a word is spoken in the chamber. |
+| **Handling** | Quiet work and slates. The observer reads the lean and the glow; the stander keeps the silence. Anything said in the chamber is entered in full and attributed beside the matching plumb movement. — see `## Handling Process` |
+| **Withdrawal** | Against the file's documented suppression condition: **Speak only what the worker accepts responsibility for carrying** — with the relic asleep, unseen and unnamed. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 75%. No breach counter is listed and none is implied — is done on purpose. |
 
-
-### Operational Work Notes
-
-Read the table as a description of what the chamber will do with you rather than as a menu of approaches. Relic Waiting for Its Maker is an Object/Place with a Place-Grudge manifestation and a Void expression. And the two valid Work Types are the whole of the method: Viderehan surfaces symbols on the wall that no two transcriptions have ever matched. And Ferrehan asks a worker to stand in the attentive quiet and not fill it. A stable gauge is not a safe cycle. Observation here leaves the gauge flat while the worker does the work of holding silence, and the cost of the cycle is paid in what was said rather than in what was measured.
-
-**Reading the response:** Read it in the walls and in what the team has been saying. A falling gauge presents as settling — the plumb readings holding at the last figure, the cold steadying, the quiet losing its edge of attention. The pressure eases and nothing is answered. The relic is still asleep and still unnamed, and there is no version of this work that ends with somebody understanding what it was for. A rising gauge presents as **intimacy**. The chamber feels confidential. Workers find themselves speaking more freely than they would elsewhere, and what they say is true and unforced and would not have been said in a corridor. The walls move toward secrets rather than toward volume, so a whispered confidence shifts them further than an argument does, and the plumb line will record a conversation the open log does not.
 ## Activation Behavior
 
 > **Special activation — no counter.** The chamber has no switch: attendance is the activation, and the walls lean inward in place.

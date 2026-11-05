@@ -97,7 +97,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, deep tunnels |
 | **Resolution Condition** | If the I-Relic is held and a permitted name spoken, receive only the emotional message without reconstructing wording. Then set the object down, keep the transcript as separate fragments, and lower the Sorrow Gauge below 25%. |
 
@@ -155,23 +154,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Whoever was sending from the deep tunnels when the rock came down, and the operators at the receiving stations who logged the loss of signal in the ordinary way and then worked their watches to the end. The senders cannot be named; the fragments are appeals rather than reports and carry no identifying detail. The operators can be, in most cases, from the surviving shift books, and they are listed at the back of the commissioning file.
 - **Expanded origin context:** The commissioning file holds the signal logs from the stations that were receiving from the deep tunnels, reproduced exactly, incomplete lines and all; several end mid-entry. The archivist's note records that the temptation to mark the breaks with an editorial symbol was resisted because the breaks are the record, and that the logs are kept at the front so a reader meets the interruption before meeting the object. The receiving operators are named where the shift books survive, which is in most cases. The senders cannot be named at all, and no attempt has been authorised to work it out from the transcripts.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Fragments arrive and can be set beside one another, never joined; what results is a list and not a history. | Stable · Common |
-| **Ferrehan** | The whispering continues until the worker can sit with a sentence that will not finish, which is the single discipline this holding teaches and the hardest thing it asks. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Before approach, know what meets you: Sorrow Gauge ≥ 75%. |
+| **Handling** | The observer or the stander, one transcriber, no conferring, nothing joined. |
+| **Withdrawal** | If the I-Relic is held and a permitted name spoken, receive only the emotional message without reconstructing wording. Then set the object down, keep the transcript as separate fragments, and lower the Sorrow Gauge below 25%. |
+| **Refusal** | The observer or the stander, one transcriber, no conferring, nothing joined. |
 
-
-### Operational Work Notes
-
-The gauge here is read against the transcript rather than against the room. A stable reading under Viderehan is correct and proves nothing about safety: the fragments can be arriving at an unchanged figure while a half-word takes hold of the transcriber's memory. What the file watches is spacing — longer gaps, fewer overlapping voices, the whispering drawn back toward the crystal — and what it warns about is the opposite, fragments beginning to arrive in a plausible order. Object/Place, Object-Weight manifestation, Lament expression, Zone B deep tunnels. No assumption transfers from another entity with a similar name, and on this holding that warning is not a formality, because a joined transcript is the failure state rather than a bad habit.
-
-**Reading the response:** Read it in the transcript. A falling gauge presents as spacing — longer gaps between fragments, fewer overlapping voices, the whispering retreating toward the crystal. The pressure is absorbed and the source is untouched; the sentences are no nearer finishing than they were. A rising gauge presents as coherence. Fragments begin arriving in a plausible order, the half-words start completing each other, and the transcriber finds the work getting easier. That is the warning and it arrives disguised as progress. If the entity does something the file does not record, write it down before discussing it with anybody, because this is the one holding where comparing notes verbally is itself an intervention — two people agreeing on what they heard will produce a sentence neither of them transcribed.
 ## Activation Behavior
 
 > **Special activation — no counter.** It drifts in the underground Han currents and the record files no pursuit. The gauge is the whole mechanism here.

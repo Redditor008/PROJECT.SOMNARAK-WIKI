@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A large shard of pale crystal with a clean break through its centre, fixed on a stand in the Alpha Tree vault with the break face turned to the wall. The break has not widened or closed in fourteen years of calipered measurement, and it hums at 112 hertz. |
 | **Perceptible to** | The pitch first, resting at 112 hertz since the one attempt against the break face took it there from 72. The rise begins before the worker is through the door, and it is read before the declaration is taken. |
-| **Handling** | Nothing is attempted against the break face, which has happened once and taken the pitch permanently. Nothing is dampened mechanically, which has made it permanent three times. The break is calipered without being touched, and the worker is asked nothing about what the hum has already named. |
+| **Handling** | Nothing is attempted against the break face, which has happened once and taken the pitch permanently. Nothing is dampened mechanically, which has made it permanent three times. The break is calipered without being touched, and the worker is asked nothing about what the hum has already named. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; the judged area travels and the crystal does not |
 | **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the promise and the moment it failed and holds the gauge. Ferrehan tests whether a worker can remain without repairing it, and is the row that lowers it. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything. 408 cycles, 391 clean closes; the seventeen that were not all involve a sentence somebody wishes they had not said. |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The record names a family who trusted an old promise of protection over the evidence in front of them, fled the evacuation, and left the artifact behind. The community here is one household and the undertaking it relied on.
 - **Expanded origin context:** The evacuation order survives and so does the household's name on it. What the file is careful about is the sequence: the family did not forget the artifact, they decided about it. They had been told for three generations that it would keep them safe, they were being told that morning to leave within the hour. And they chose to believe the older of the two statements — which is why they went out light. And fast, and in the wrong direction. The archivist's note says the promise was not a lie when it was made and that this is the difficulty with it.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A large shard of pale crystal with a clean break through its centre, fixed on a stand in the Alpha Tree vault with the break face turned to the wall. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the promise and the moment it failed. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can remain without repairing it. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the pitch against its resting value taken before the declaration, the break measured by calipers without contact, and the break face still turned to the wall. |
+| **Handling** | The observer shows the promise and the moment it failed, the stander remains without repairing it, and nobody undertakes anything in the room. The pitch is read again within ten minutes of the close. |
+| **Withdrawal** | **The pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything.**. |
+| **Refusal** | Nothing is attempted against the break face and nothing is dampened mechanically; three attempts at damping made the pitch permanent. |
 
-
-### Operational Work Notes
-
-The Work Type column is not the reading here; the pitch is. Resting value is 112 hertz and has been since the Pugnahan attempt took it there from 72. It rises in the presence of an undeclared undertaking, by between 6 and 30 hertz, and the rise begins before the worker is through the door. 408 cycles have established this well enough that the vault now takes the pitch before it takes the declaration.
-
-**Reading the response:** Success is read from the hum rather than from the crystal, which is unchanged by every cycle on record. A worker who expects the break to close will report failure on a successful cycle, and this is the single commonest reporting error on this row. The reliable indicators are the hum's pitch, which falls before it quietens, and the salt-cold, which retreats from the vault walls inward rather than fading evenly. Both lag the actual response by several minutes, so a cycle is not closed at the first drop in pitch but at the second consecutive reading that confirms it. Where the two indicators disagree, the hum is treated as authoritative, because the cold persists in vault stone well after the shard has disengaged and will hold a false reading for most of an hour.
 ## Activation Behavior
 
 > **Special activation — no counter.** The judged area travels and the crystal does not; the shard extends its judgment outward rather than escaping it.

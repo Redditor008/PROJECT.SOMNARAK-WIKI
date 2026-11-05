@@ -27,7 +27,6 @@
 |---|---|
 | **Risk tier** | Catastrophic (ω) |
 | **Entity role** | Object/Place (Transforms to event Subject `C-IVω-001-B [GS]` upon event) |
-| **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan barred — Negative-Low) |
 | **Primary pressure** | Resilience — the will to keep standing on ground that is still occupied, and to leave when the plan says leave |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 28–40 per cycle, the highest figure in the registry, drawn from the ground the city is standing on. The energy office has never queried it and the Architects' standing note is that the yield is the Cheongula still being spent. |
@@ -96,7 +95,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Extreme · R.D. Comprehension Level 5 — Sovereign |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B district — UNCONTAINED |
 | **Resolution Condition** | No true containment is possible. Architects reinforce the perimeter while Taeho negotiates with the thousand |
 
@@ -196,30 +194,21 @@ Two origin accounts remain: deliberate relocation-sacrifice in the opening and O
 - **The People:** One thousand unnamed citizens, still conscious within the district.
 - **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around Zone B district — until the Grudge was dense enough to become a Place. The sorrow is old. The entity is just its current shape.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a district of Zone B that is no longer contained — walls that reveal the thousand, ground that yields, and a negotiation conducted on everybody's behalf by one commander. Presence is the whole of the contact, and presence is not a Work Type.
 
-The Maw responds to presence rather than conventional Work Types.
-
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Walls reveal impressions of the thousand and the sacrifice. | Stable · Common |
-| **Ferrehan** (Endurance) | The district tests the visitor with layered voices and yielding ground. | Decrease if endured · High |
-### Special Behaviors
-- Buildings rearrange themselves at night without witnesses.
-- The Maw speaks clearly to Commander Taeho.
-- Personnel hear their own names whispered from every direction.
-
-
+| Stage | What is done |
+|---|---|
+| **Approach** | Reinforce the perimeter before anybody enters, and survey the markers from outside it. Only Commander Taeho goes in to speak with the thousand; nobody else closes to the wall to see whether it can be spoken to. |
+| **Handling** | The negotiation. Everyone not in it holds the line, logs the marker positions and keeps the evacuation route clear, because the district tests a visitor with layered voices and yielding ground and the test is the reading. |
+| **Withdrawal** | There is no containment to withdraw from. Architects keep the perimeter up while the negotiation runs, and the watch ends when the speaking ends rather than when the gauge moves. |
+| **Refusal** | Nobody fights it and nobody comforts it. The third formal refusal of the confession is what transforms it — the transformation is a refusal and not a gauge reading, and this district runs no activation percentage. |
 
 ### Operational Work Notes
 
-The Work Type table applies to a district and measures almost nothing. What the record tracks instead is the voice count and the markers: one thousand voices, individually distinguishable to Taeho and to nobody else, and a perimeter that has moved outward eleven times in sixty years — every time inside a month of an official denial.
+The Maw is a Fragment (IV, ω) Place in Zone B, recorded as **uncontained**. The old table offered two stages towards a district and marked the other two `Negative-Low`, which described the response of a gauge rather than the conduct of a watch. What the record describes is a perimeter and a negotiation, and the only person who has ever conducted the second is named.
 
-**Reading the response:** A falling gauge here means the thousand have been answered, not that they have been satisfied. It rises again by the next quarter. The only reading that has ever stayed down is the one following Year 4,196, when a Director read eleven recovered names aloud at the perimeter. The gauge was eleven points lower for four years.
 ## Expansion Behavior
 
 > **Special activation only — no counter, no gauge.** What sets it off, per the record: *"increase in the city's collective sorrow"*.

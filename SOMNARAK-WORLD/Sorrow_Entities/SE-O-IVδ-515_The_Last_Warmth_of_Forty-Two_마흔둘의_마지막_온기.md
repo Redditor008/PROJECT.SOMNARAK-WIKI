@@ -96,7 +96,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Mental / cold exposure pressure |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-09, Frozen Depths Cache |
 | **Resolution Condition** | The vial is shattered against target or ground, releasing the collective exhalation in an acoustic blizzard |
 
@@ -152,20 +151,16 @@ Premature rupture releases an uncontrolled flash-freeze wave that petrifies all 
 - **The Event:** The Great Freeze of Year 4,188 in Sector 09, where an avalanche sealed a crawler beneath forty meters of ice.
 - **The People:** Captain Yeon-Woo and forty-one outriders of the Seventh Division.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Monitors the vortex circulation speed of the trapped blue vapor. | Stable · Common |
-| **Ferrehan** | Demands the operative hold the warm bottle in sub-zero containment, enduring the emotional weight of forty-two farewells. | Decrease · High |
-
-### Operational Work Notes
-
-Operatives assigned to Ferrehan must possess high Composure ratings. Hearing forty-two voices softly wishing their families goodnight induces uncontrollable weeping; assign rotation shifts of no longer than fifteen minutes.
+| Stage | What is done |
+|---|---|
+| **Approach** | Before approach, know what meets you: Single-use impact trigger — shattered upon thrown detonation. |
+| **Handling** | Safeguard with the observer and the stander; shatter as A-Relic to halt catastrophic boss realization phases. |
+| **Withdrawal** | The vial is shattered against target or ground, releasing the collective exhalation in an acoustic blizzard. |
+| **Refusal** | Objects and Places cannot be emotionally engaged through the mourner or confronted through the confronter. |
 
 ## Activation Behavior
 

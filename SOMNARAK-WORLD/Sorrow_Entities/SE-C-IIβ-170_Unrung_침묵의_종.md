@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
 | **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **Resolution Condition** | The Ferrehan session is completed on the marked line, the operative's account is taken separately at the station, and the arrival delay is clocked against the fortnight's closed warnings |
 
@@ -139,23 +138,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** A district of eleven thousand, two hundred and thirteen of whom died in the Lantern Row surge of Year 4214, and one watchman named in the commissioning file who held the rope. The archivist's note records that the surviving evidence is consistent with his never having been told.
 - **Expanded origin context:** The inquiry into Lantern Row found no fault and the finding has survived three reviews. The clerk followed the filing procedure exactly. The engineer read his folder on the day he always read it. The watchman on the rope was never told, and the record does not establish that he should have been. Nothing was ignored, nothing was concealed, nobody was careless, and two hundred and thirteen people died of a warning that was correctly handled at every step by people who respected the desk above their own. The holding has never responded to the surge: the delay sat at baseline through the inquiry and through all three reviews. It responds to the acknowledgement column, which is a different thing entirely, and which this facility did not begin counting until Year 4214.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A bell on a plinth, read from a marked line eight metres out. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | It shows the warning: the reading, the folder, the Tuesday, the hour. It has never shown a fault and observers have looked for one for twenty-four years. | Stable · Common |
-| **Ferrehan** | The full session on the marked line, inside the delay, hearing your own hand signals a beat after you have made them, and not speaking. Primary Work Type for this holding. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the arrival delay clocked at the fixed station and designation `C-IIβ-170` confirmed before positions are taken — with the plinth and the Orphaned Bell both in sight, because the two cannot be told apart without the file. |
+| **Handling** | The observer and the stander on the marked line, a reference tone struck at the plinth, the station eight metres out recording the interval before it is heard at all, and no shouting across the field. — see `## Handling Process` |
+| **Withdrawal** | Three honest strikes clocked, the operative's account taken separately before they speak to anyone else present, the delay entered against the fortnight's closed warnings, and any warning surfaced put into a named hand with authority to act on it. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 60%. No breach counter is listed and none is implied — is done on purpose. |
 
-
-### Operational Work Notes
-
-Ferrehan pulls the gauge down; Viderehan holds it flat; Flerehan and Pugnahan do not apply to an Object/Place and were never worked here. Ferrehan is the full session on the marked line, inside the delay, with hand signals and the arrival interval measured by a clerk who remains outside it. A worker cannot hear their way out of that delay or certify its length from within.
-
-Two figures come off this holding, and they are not answering the same question. The gauge reports a single worker across a single session. The arrival delay reports the way this facility has been closing its warnings. Across the whole series the two have never moved in step, and a session that brings the gauge down while the clock shows a long delay is written up as clean and nothing is added.
 ## Activation Behavior
 
 > **Special activation — no counter.** Filed trigger: *"a hand laid on the rim with the words spoken aloud, by one person, that they are listening"*.

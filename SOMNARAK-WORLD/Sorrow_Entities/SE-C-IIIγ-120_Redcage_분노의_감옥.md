@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | An empty cage of vertical bars at SECTOR-B-01 — dark crimson, ridged, fused in places with calcified sinew and clenched-finger bone, pulsing together in a slow rhythm. The frame has never moved from its floor marks, and the marks are cut rather than chalked, so they are never moved back. |
 | **Perceptible to** | The pulse first, which the ward hears before anybody tells it what it is. Then the warmth of the bars and the smell of a room that has been shut for a long time. The reading is the gap photographs. |
-| **Handling** | Not entered and not opened. The bars are not touched and nothing is reached through them. The gap photographs are taken from the same mark at every watch, and the count is made twice. |
+| **Handling** | Not entered and not opened. The bars are not touched and nothing is reached through them. The gap photographs are taken from the same mark at every watch, and the count is made twice. — see `## Handling Process` |
 | **Activation threshold** | Touching the cage or attempting to open it — no breach counter. |
 | **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the particular injustice that formed each bar and moves the gauge not at all. Ferrehan, standing near sustained rage without feeding it, is the only Work Type that lowers it. |
 | **Location** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | the injustice is read aloud — named, by somebody with no part in it — and the Sorrow Gauge falls below 25%. Nothing is reached through the bars. |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Citizens of Zone B imprisoned for debts they did not owe and crimes they did not commit. Where the court records permit, they are named. The list is long, incomplete, and deliberately held open, and additions arrive from families and are entered without verification where verification is impossible.
 - **Expanded origin context:** The debts were real debts in the sense that somebody was owed something, and the proceedings were regular in the sense that every step was taken in the right order. That is what the file keeps returning to. Nobody in the chain did anything that would be identified today as misconduct: the Collectors filed, the clerks listed, the court heard what was put in front of it, and the people in the cells were the ones who could not afford to be represented. The archivist's note says the thing plainly — *this was not a failure of the system, it was the system working at the speed it was funded to work at* — and observes that the bars went on appearing long after the particular practice was abolished.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** An empty cage of vertical bars at SECTOR-B-01 — dark crimson, ridged, fused in places with calcified sinew and clenched-finger bone, pulsing together in a slow rhythm. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reveals the injustices that formed each bar. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can remain near rage without feeding it. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the cut floor marks against last watch's photographs, the gap count taken twice, and the particular injustice that formed the bar the observer means to open. |
+| **Handling** | The observer opens the bar's injustice from outside the marks and the stander stands near the rage without feeding it. Nobody touches the cage, nothing is passed through the bars, and the session is capped on the watch clock. |
+| **Withdrawal** | **the injustice is read aloud — named, by somebody with no part in it — and the Sorrow Gauge falls below 25%** — and nothing is reached through the bars at any point in the cycle. |
+| **Refusal** | Nothing is put through the bars and no attempt is made to open the door. The door is not the containment and the file says so. |
 
-
-### Operational Work Notes
-
-Redcage is an Object/Place with Object-Grudge manifestation and Grudge expression, in Zone B. Viderehan opens the particular injustice that formed each bar and moves the gauge not at all. Ferrehan — standing near sustained rage without feeding it — is the only Work Type that lowers it. Flerehan and Pugnahan are unavailable, and the Registrum entry naming Pugnahan is an error of long standing, corrected here and nowhere else in the archive.
-
-**Reading the response:** Read it in the pulse and in the temperature gap. A falling gauge presents as a slower pulse and a narrowing gap between the inner and outer faces. The pressure drops, nothing is resolved, and the dimension stays exactly where it was. A rising gauge presents as argument. The worker begins making a case — a good one, about something real — and the pulse comes up with their voice. Log the deviation and log what the worker was arguing about, because on this holding that has twice been the useful field.
 ## Activation Behavior
 
 > **Special activation — no counter.** Filed trigger: *"touching or attempting to open the cage"*.

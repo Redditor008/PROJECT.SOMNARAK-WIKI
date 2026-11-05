@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A battered clock with a cracked face, standing in the clock room on Collector's Row, warm from no source within a band so narrow that the temperature is logged every watch precisely because it has never moved. Its hands count down to personal debt deadlines rather than to hours. |
 | **Perceptible to** | The mechanism first, audible anywhere in the room. Then the face, which resolves separately for each observer — two people read the same glass and read different figures, and neither is wrong. |
-| **Handling** | Not wound, not struck, not reset. Readings are taken at the watch and entered with the reader's name against the figure or the line struck through, and nobody in the room is permitted to ask whose date it is. |
+| **Handling** | Not wound, not struck, not reset. Readings are taken at the watch and entered with the reader's name against the figure or the line struck through, and nobody in the room is permitted to ask whose date it is. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on bare contact by a person carrying an unlodged entitlement |
 | **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan resolves the date behind the face — which entitlement, published when. And the officer who would apply it — and holds level. Ferrehan is the watch spent in a warm room with an audible mechanism, taking a figure nobody else in the building can check, and lowers the gauge. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The quarter's time-bar list produced and read aloud in the clock room, each extinguished entitlement named with its published date and the officer who applied it, and the gauge below 25% |
 
@@ -142,23 +141,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Every person on Collector's Row who held an entitlement and did not claim it before the published date — the injured, the bereaved, the illiterate, the absent and the simply overwhelmed — and whose claim was extinguished correctly, on time, by a clerk applying a rule that exists so that nobody is favoured.
 - **Expanded origin context:** It is neither a teacher nor a mirror: it is a clock in the claims registry's clock room, and what it counts is the published dates on which claims lapse. The limitation period is not an abuse and the claims office's case for it is the strongest in this wing. A published date does not care who your father was, whether you can write, or whom you know. It falls on the strong and the weak in the same minute, it is posted a year ahead, and it is the only protection an inarticulate claimant has ever had in this building. The holding has never responded to the Collectors' calling schedule, to the volume of debt on the Row, or to a single collection visit. The interval sat flat through all three. It responds to the quarterly time-bar list, which the claims registry did not begin publishing until Year 4223.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A battered clock with a cracked face, standing in the clock room on Collector's Row, warm from no source within a band so narrow that the temperature is logged every…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The face is read and the date behind it resolves: which entitlement, published when, and the officer who would apply it. Holds the gauge level. It will not say whose date it is and the standing order forbids asking. | Stable · Common |
-| **Ferrehan** | The watch spent in a warm room with an audible mechanism, taking a figure that nobody else in the building can check. Primary Work Type and the only one that lowers the gauge. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the temperature against the band it has never left, the figure each reader takes, and the rate at which the hands are running this watch against the last. |
+| **Handling** | The stander spends the watch in the room taking the figure and the observer resolves the date behind it. Both figures are entered under their readers' names, nobody asks whose date it is, and nobody puts a tool to the mechanism. |
+| **Withdrawal** | **The quarter's time-bar list produced and read aloud in the clock room, each extinguished entitlement named with its published date and the officer who applied it, and the gauge below 25%.**. |
+| **Refusal** | Mechanical intervention is prohibited and the prohibition dates from that occasion; nobody touches the hands to see what happens. |
 
-
-### Operational Work Notes
-
-Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Object/Place with Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector's Row, held at Fragment (III) coherence — anxious and counting, descriptive here rather than nominal.
-
-**Reading the response:** The gauge measures one watch. The interval measures the claims registry, and on this holding alone the bad direction is downward: a long reading is a good quarter. The two columns are kept apart and have moved together exactly once, in Year 4226, when a technician broke the face. A good watch in a short-interval quarter is written up as a good watch.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"bare contact by a person carrying an unlodged entitlement"*.

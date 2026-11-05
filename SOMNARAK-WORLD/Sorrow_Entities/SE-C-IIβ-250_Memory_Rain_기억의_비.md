@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A fall over Zone D that lands memories instead of water — each drop carrying a recollection somebody had forgotten, thickening into a downpour of different griefs, and widening across the Gardens until nobody can say which recollection is theirs. |
 | **Perceptible to** | The first drop on the skin, and inside it something the visitor had put down years ago. Then the saturation, as every drop is a different loss and the visitor is standing in all of them at once. |
-| **Handling** | Collect drops carefully and provide identity anchors. The rate, extent and duration of the fall can be catalogued and the beads cannot: nothing inside one has ever been written down on purpose, and the worker's whole job is to hold on to which life is theirs. |
+| **Handling** | Collect drops carefully and provide identity anchors. The rate, extent and duration of the fall can be catalogued and the beads cannot: nothing inside one has ever been written down on purpose, and the worker's whole job is to hold on to which life is theirs. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on memory accumulation beyond the city's capacity |
 | **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan catalogues the fall; Ferrehan is standing under it holding on to which life is theirs, for as long as the timekeeper allows and not a minute longer. |
 | **Location** | Zone D, Echo Gardens — periodic |
 | **Resolution Condition** | Collect drops carefully and provide identity anchors |
 
@@ -139,23 +138,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Nobody. The commissioning material is demographic rather than personal — registers, density figures, raw counts for the period — and the archivist's note observes that the folder contains no individual story at all, which is correct, the entity having been made by a quantity rather than by a person.
 - **Expanded origin context:** The commissioning folder holds registers, density figures and raw counts rather than one originator’s story. Beneath the city, the Weeping carries residues of lives as well as sorrow. Above the Echo Gardens, their accumulated pressure exceeded what the ground could hold. On the first still night the stars blurred and slow blue, luminous crystals began to fall. A touched bead returns a stranger’s face, voice, place or feeling rather than the collector’s own past. The Keepers log the dates while citizens buy umbrellas that keep nothing out. This is a quantity of lives becoming periodic weather, not an identified person transformed into a rain-bearing creature. The Watch’s demographic account and the Tale’s overloaded river explain the same collective origin without making any one fragment the biography of the whole holding.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A fall over Zone D that lands memories instead of water — each drop carrying a recollection somebody had forgotten, thickening into a downpour of different griefs, and…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The fall can be catalogued — rate, extent, duration — and the beads cannot. Nothing inside one has ever been written down on purpose. | Stable · Common |
-| **Ferrehan** | The worker stands under it holding on to which life is theirs, for as long as the timekeeper allows and not a minute longer. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the rate, extent and duration of the fall, the two identity anchors each worker will hold, and the timekeeper's allowance for the turn. |
+| **Handling** | The watch records the rate, extent and duration of the fall before anybody stands in it, and marks the two identity anchors each worker will hold for the turn. |
+| **Withdrawal** | **Collect drops carefully and provide identity anchors** — and a turn ends when the timekeeper calls it, not when the worker has gathered enough. |
+| **Refusal** | Works under cover where cover exists, keeps hands and faces out of the fall, and treats a stung worker as weather-injured — cleaned, dressed, and off the fall for the turn. |
 
-
-### Operational Work Notes
-
-Memory Rain is an Object/Place with Place-Lament manifestation and Lament expression, held as periodic weather above the Echo Gardens rather than inside anything. Viderehan catalogues the fall; Ferrehan is standing under it without losing hold of whose life is whose. Neither alters the volume and neither has ever altered the period.
-
-**Reading the response:** Read it in the interval and nowhere else. A good cycle shows up weeks later as a longer gap before the next fall, which is the single measurable effect this holding produces. The volume when it comes is unchanged, and the Gardens are covered to the same depth as always. A worker who reports that the rain felt lighter has reported their own condition, and that is logged separately and taken seriously, but it is not a reading.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Filed trigger: *"memory accumulation beyond the city's capacity"*.

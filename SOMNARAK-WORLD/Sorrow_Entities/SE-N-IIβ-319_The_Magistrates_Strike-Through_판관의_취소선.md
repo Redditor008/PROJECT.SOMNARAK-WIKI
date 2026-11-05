@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | An octagonal mineral stick in the Deep Tribunal Archive, shedding fine lime-white powder from its surface. The powder is material the implement has left behind and the closed chalk circle is the activated boundary. Both are logged separately from the stick's own dimensions and mass. |
 | **Perceptible to** | The powdering first — pale dust hanging in dry, odourless air — then the attenuation, a room in which voices fail to carry and words vanish in the throat. |
-| **Handling** | Silk-lined gloves throughout, because bare skin past twenty seconds and an operative begins signing false confessions or striking their own name from duty rosters. The existing arc is logged without being extended, and the chalk is kept away from identity records. |
+| **Handling** | Silk-lined gloves throughout, because bare skin past twenty seconds and an operative begins signing false confessions or striking their own name from duty rosters. The existing arc is logged without being extended, and the chalk is kept away from identity records. — see `## Handling Process` |
 | **Activation threshold** | Single-use drawing trigger — ground to dust upon circle completion |
 | **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan monitors surface powdering and acoustic absorption at the plinth and holds level. Ferrehan holds the chalk without drawing a line, resisting the urge to strike through their own identity, and lowers the gauge. |
 | **Location** | SECTOR-N-06, Deep Tribunal Archive — contained |
 | **Resolution Condition** | The chalk circle is drawn and consumed, erecting a 30-second sanctuary ward |
 
@@ -137,20 +136,16 @@ Premature pulverization leaves behind an uncontrollable silence anomaly that sup
 - **The Event:** The Great Directorate Purge of Year 4,119 on Floor 6, where executioners demanded eighty-two signed death warrants before dawn.
 - **The People:** Chief Inquisitor Baek-Hyeon and eighty-two condemned logistics auxiliaries.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** An octagonal mineral stick in the Deep Tribunal Archive, shedding fine lime-white powder from its surface. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Monitors surface powdering and acoustic absorption levels on the plinth. | Stable · Common |
-| **Ferrehan** | Demands the operative hold the chalk without drawing a line, resisting the urge to strike through their own identity. | Decrease · High |
-
-### Operational Work Notes
-
-Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contacts the mineral for more than twenty seconds, the operative begins signing false confessions or striking their name from duty rosters.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the powdering rate at the plinth, the acoustic absorption of the room, and whether the existing arc has been touched since the last watch. |
+| **Handling** | The observer reads the plinth and the stander holds the chalk without drawing a line. Gloves stay on, identity records stay out of the room, and the arc is logged rather than extended. |
+| **Withdrawal** | **The chalk circle is drawn and consumed, erecting a 30-second sanctuary ward** — after which the implement is gone and the circle is all that is left of it. |
+| **Refusal** | The stander holds the chalk without drawing a line, and the forbidden identity stroke is not made even to test it. |
 
 ## Activation Behavior
 

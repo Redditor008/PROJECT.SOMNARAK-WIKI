@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | Orchard rows under permanently wet crimson ground at the Exile's Gate, dark fruit hanging in heavy clusters, and the rows still legible under the pool. The frontage advances about a foot a week inside an active exile season and has never afterwards retracted. |
 | **Perceptible to** | The smell first — sweet and burned at once — then the crimson ground underfoot and the shape of rows beneath it. Past the first half-hour among the rows, personnel lose the middle of the morning and smell the fruit before they can say what is missing. |
-| **Handling** | Worked from the path, upwind wherever the wind allows: nobody steps onto the crimson ground, nobody picks, and nobody tells anybody they will come back. The frontage is paced before the cycle and again after it. |
+| **Handling** | Worked from the path, upwind wherever the wind allows: nobody steps onto the crimson ground, nobody picks, and nobody tells anybody they will come back. The frontage is paced before the cycle and again after it. — see `## Handling Process` |
 | **Activation threshold** | No breach counter. The frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
 | **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, both from the path. Viderehan reads the rows as a record of what was promised and not kept. Ferrehan is the patient pacing of a frontage that gains about a foot a week, which is the only work that has ever held it. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Let the fruit decay naturally; do not promise return |
 
@@ -139,23 +138,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Forty-one exiles of the first planting, all of them orchard-trade, none of whom was ever permitted to do anything else, and the uncounted arrivals since.
 - **Expanded origin context:** The planting notes are the best document in the folder and the hardest to read. They are competent, specific and confident — spacing, watering intervals, the choice of stock, the order in which to set the rows — written by people who had grown fruit all their working lives and had been engaged to do nothing else. Nothing in them accounts for the ground beyond the Gate, because nothing in their training had ever been about ground beyond the Gate, and nothing in their position permitted them to learn another trade, apply for another trade, or be assigned to one. They were orchardists. They were put outside the wall. They did the only thing they were, and they did it extremely well, in soil that would not hold a root, and the harvest they could not have is still coming up out of that soil and running back into it.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** Orchard rows under permanently wet crimson ground at the Exile's Gate, dark fruit hanging in heavy clusters, and the rows still legible under the pool. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | One fruit at a time: a kitchen, a particular table, a particular year's crop coming in. Gauge holds. | Stable · Common |
-| **Ferrehan** | Standing the interval beside a crop that will never be carried through the Gate. Wardens rate it the hardest hour in the district and ask for it anyway. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the frontage paced from the gate, the wind direction for the cycle, and the head count of a party that will stay on the path. |
+| **Handling** | The watch paces the frontage before the cycle and enters the day's reading, and keeps the party on the path so that no hand is ever in the rows to begin with. |
+| **Withdrawal** | **Let the fruit decay naturally; do not promise return** — and a cycle in which a promise of return was made within sight of the Gate ends the condition the same way a picked fruit does. |
+| **Refusal** | Worked from the path, upwind wherever the wind allows: nobody steps onto the crimson ground, nobody picks, and nobody tells anybody they will come back. The frontage is paced before the cycle and again after it. |
 
-
-### Operational Work Notes
-
-A flat gauge is not a safe watch, and this holding reads flat most of the year. Before anybody is put on the roster the Work Types are weighed against the expansion threshold and the M.A.W. cost: an Object/Place holding with a Place-Grudge manifestation, elemental expression Grudge, standing in Zone E by the Exile's Gate. Every fruit on the rows holds a wish somebody had already set down, and one touch turns it to liquid — which is the whole of the warning here, and the reason the condition reads the way it does. No line in this file carries over to another holding with a harvest in its name, and observation can leave the gauge untouched while still costing the worker the middle of a morning they cannot afterwards account for.
-
-**Reading the response:** When the gauge drops, the surface pressure lessens and the deep structure of the grief is untouched — stabilisation and not healing. When the gauge climbs, the approach has struck the nerve of the origin: pull back and reassess before the work feeds the sorrow the orchard was made of. The rows are read in the same light: a fruit that has not been touched is the holding in its ordinary state, and the record on this file is counted by what was left alone.
 ## Expansion Behavior
 
 | Field | Detail |

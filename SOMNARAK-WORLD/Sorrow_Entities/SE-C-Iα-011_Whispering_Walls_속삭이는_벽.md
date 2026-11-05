@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A run of old plaster in Old Lament, and murals that continue into districts that do not whisper. The site is identified by the wall run against the boundary map rather than by any shape, because the shape of a whisper is not available to be looked at. |
 | **Perceptible to** | The overlap — hours, densities, the clustering of particular phrases — and, under it, the fact that some of what is said concerns the person hearing it. Children in the district are reported to hear it earlier than adults. |
-| **Handling** | Listen, and acknowledge aloud. Nothing is commanded to stop, no transcript is made of a single voice, and no attempt is made to open the fabric or treat the wall. The site is not contained and is not managed by force of any kind. |
+| **Handling** | Listen, and acknowledge aloud. Nothing is commanded to stop, no transcript is made of a single voice, and no attempt is made to open the fabric or treat the wall. The site is not contained and is not managed by force of any kind. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on new sorrow entering the old lament |
 | **Sorrow Gauge [Depth]** | **000 of 240** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan finds the pattern in the overlap without resolving any single voice. Ferrehan is staying inside the overlap while it closes around the worker and becomes a chorus, and it is the only approach that lowers the carry. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | No physical containment; listening and acknowledgment prevent escalation |
 
@@ -142,28 +141,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The first settlers of Zone B, who whispered because shouting drew the Han, and the hundred and forty households living in their walls now.
 - **Expanded origin context:** Whispering was a safety measure and it was taught to children. Three generations spoke quietly in the dark, about everything — the dead, the debts, the things they were frightened of, the things they wanted and did not say loudly enough to be heard by anybody living. The settlers died out and the district did not. What is in the plaster is not a haunting and nobody local treats it as one: it is the ordinary speech of people who were never able to raise their voices, retained by the only thing that was always in the room.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A run of old plaster in Old Lament, and murals that continue into districts that do not whisper. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Pattern in the overlap — hours, densities, the clustering of particular phrases — without resolving any single voice. | Stable · Common |
-| **Ferrehan** (Endurance) | The whispering closes around a worker who stays and becomes a chorus; the only approach that lowers the carry. | Decrease · High |
-### Special Behaviors
-- The walls hold material the district's own records do not, and nine recorded utterances contradict the official history outright.
-- Individual voices are occasionally distinguishable — a mother, a soldier, a child — and no listener has ever identified one twice.
-- It cannot be silenced without taking down the fabric that carries it, which is the fabric people live in. This has been formally assessed twice and refused twice.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the wall run against the boundary map, the hour and the phrase density, and which dwellings inside the new line are occupied. |
+| **Handling** | The watch marks the wall run against the boundary map, records the hour and the phrase density, and keeps the watch on the pattern rather than on any one sentence. |
+| **Withdrawal** | **No physical containment; listening and acknowledgment prevent escalation** — and a watch that ended with a voice answered or a wall silenced is entered as an escalation, because there is nothing here to contain and nothing to silence. |
+| **Refusal** | Does not command it. The watch speaks the acknowledgement aloud, and no attempt is made to silence a wall run that is already inside the fabric. |
 
-
-
-### Operational Work Notes
-
-Whispering Walls is a Residue (I) Object/Place with Place-Lament manifestation and Lament expression, ambient across Old Lament in Zone B and not contained. Viderehan and Ferrehan are the only valid approaches and the restriction is correct here rather than copied. Ferrehan lowers the carry; Viderehan holds it level and produced the boundary map.
-
-**Reading the response:** Read it in the boundary and in the density of overlap. A falling carry presents as the boundary drawing in along the marked line and the overlap thinning to single voices. A rising one presents as the field reaching a wall run that was quiet last rotation. The site has no gauge of its own that anybody has been able to site.
 ## Expansion Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"new sorrow entering the old lament"*.

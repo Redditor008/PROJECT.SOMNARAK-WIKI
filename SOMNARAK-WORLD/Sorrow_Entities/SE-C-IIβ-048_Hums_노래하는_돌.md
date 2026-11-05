@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 65%, reached after three distinct songs have been interrupted. No breach counter is listed on this file and none is implied |
 | **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, and here the two mean the same task: sit through the song to the end and be able to sing it afterwards |
 | **Location** | SECTOR-D-02, Echo Gardens — contained/open display |
 | **Resolution Condition** | The song sung is learned by a living person well enough to sing unaccompanied, and the Sorrow Gauge falls below 25% |
 
@@ -140,28 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Singers of the Echo Gardens district whose songs nobody took up. The Keepers hold no names, because the songs were the record: a person was known in that district by what they sang, and when nobody sang it they were gone from the account entirely. The stone is what is left of the account.
 - **Expanded origin context:** The Echo Gardens are where the Weeping surfaces as crystal. And the stone is what the district's music did when it sank: the melodies went into Han-thick earth instead of deeper into the Weeping. And the earth gave them back as one warm stone in a case. The Keepers' own list of the dead singers was compiled after the fact, by people who had sung alongside them, and it says at the head that it is incomplete. The facility has added nothing to it in the years since. What stands where other files keep a census, then, is two lists that do not match — the district's names and the register's songs — and the whole of the work on this post is the difference between them.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** One palm-sized stone in a case, warmer than the room it is in, singing to one person at a time and never to two. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Allows songs to be catalogued as historical records. | Stable · Common |
-| **Ferrehan** (Endurance) | Sings for hours, testing the worker's attention. | Decrease · High |
-### Special Behaviors
-- It may sing a lullaby known only to a worker's deceased relative.
-- Each song contains a distinct life and emotional signature.
-- The Stone stops when the listener genuinely stops listening.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the stone is identified by the warmth. The room's noise floor, the number of people present and the songs currently awaiting a carrier are read off the register before anyone sits down. |
+| **Handling** | One worker, one quiet room, one song. The observer catalogues what is sung; the stander listens through to the end, which takes between four and forty minutes and must not be curtailed. Nobody takes notes aloud while the stone is singing. — see `## Handling Process` |
+| **Withdrawal** | The song sung has been learned well enough to sing back unaccompanied and the reading falls below 25%. A session that produces a transcript and no singer has not closed, and the interruption is logged against the register rather than the worker. |
+| **Refusal** | A fragment of the song that cannot be completed, and a session that does not close: the interrupted phrase is not counted as learned. |
 
-
-
-### Operational Work Notes
-
-Read the table with the register open beside it, because the gauge is measuring the page and not the stone. Viderehan holds the reading stable while cataloguing, which is correct and is not progress. Ferrehan brings it down, and the only thing that brings it down is a listener who can sing the song afterwards without the stone. Nothing here is a hazard in the ordinary sense — the stone has never been hostile, it does not pursue, and the encounter is one warm object and one person in a quiet room for anything between four and forty minutes. What the sheet is actually recording is attention, and the file's difficulty is that attention cannot be filed: a transcript is not a carrier, and 237 fully accurate transcriptions with nobody singing them is the archive's own largest holding of the problem.
-
-**Reading the response:** A falling reading means a song has acquired a living carrier — somebody who can sing it without the stone. Stability under Viderehan is correct and is not progress. The reading rises when a song is recorded, transcribed, filed, or performed from a sheet, and the rise is identical whether the filing is careful or careless.
 ## Activation Behavior
 
 > **Special activation — no counter.** Read off the file: *"still air, sufficient sorrow, or deliberate listening"*.

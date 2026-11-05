@@ -66,15 +66,18 @@ No writer picks a relic's ceiling. It comes from the tier and from nothing else:
 Every figure sits inside the band `check_stat_bands.py` already enforces. **A reader who knows the
 tier knows where the wall is before opening the file**, which is what a tier is for.
 
-## 3. The wall is six doses — universal, and not sixty seconds
+## 3. The wall is six doses — and it runs past two minutes
 
-**Sixty seconds was wrong, and the owner caught it in one line:** *"Arent 60 s Is Super Short I
-Mean Some SE Goes Up To More Than 60s That Is Above 2 m."*
+**Sixty seconds was wrong, and the owner caught it in one line:** *"Arent 60 s Is Super Short I Mean
+Some SE Goes Up To More Than 60s That Is Above 2 m."* — **2 m is two minutes.** Some holdings run
+well past two minutes, and a fixed minute overrode that.
 
-Sixty seconds is **the fastest clock in the archive**, and draft 4 applied it to everything. A
-2-metre holding cannot be walked in a minute; an offering left at a thing the size of a room cannot
-be made in one. Measured: only **50 of 134** relics run on a ten-second clock. **84 run longer**,
-and the longest belong to exactly the holdings the objection names.
+*(A note on how this paragraph was first written: the `m` was read as metres, and a whole argument
+about the physical size of the holding was built on that misreading. It was wrong. Nothing in this
+rule depends on size, and nothing should — the owner was talking about time.)*
+
+Sixty seconds is **the fastest clock in the archive**, and draft 4 applied it to everything.
+Measured: only **50 of 134** relics run on a ten-second clock. **84 run longer.**
 
 **So the universal law is a count, not a duration:**
 
@@ -82,33 +85,31 @@ and the longest belong to exactly the holdings the objection names.
 
 The clock is the one `R-47` already files, per category:
 
-| met as | clock | **wall = six doses** |
-|---|---|---|
-| **Indumentum** — worn | 10 s | **60 s** |
-| **Officium · Hazard** | 15 s | **90 s** |
-| **Arcanum · Time** | 20 s | **120 s** |
-| **Offertorium · Object · Place** — stood at, walked | 30 s | **180 s** |
+| met as | clock | **wall = six doses** | relics |
+|---|---|---|---|
+| **Indumentum** — worn | 10 s | **60 s** — one minute | 50 |
+| **Officium · Hazard** | 15 s | **90 s** — one and a half | 12 |
+| **Arcanum · Time** | 20 s | **120 s** — two minutes | 15 |
+| **Offertorium · Object · Place** — stood at, walked | 30 s | **180 s** — three minutes | 57 |
 
-**Six is the universal part.** Every relic in the archive, at every tier, gives six and then is
-spent — so the law is the same for all of them and the seconds are not. A door-sized thing met on
-foot gets three minutes; a pendant on a chain gets one.
+**72 of 134 relics now run at two minutes or longer**, and the longest is three. The objection —
+*"some goes up to more than two minutes"* — is satisfied by the archive's own clock rather than by a
+number chosen to satisfy it.
+
+**Six is the universal part.** Every relic, at every tier, gives six doses and then is spent — so
+the law is identical for all of them and the seconds are not. A door-sized thing met on foot gets
+three minutes; a pendant on a chain gets one.
 
 **The wall is the outside figure.** `R-47` halving means the later doses land early, so the sixth
 always arrives at or before the wall — 60 of 60, 76 of 90, 90 of 120, 120 of 180. The wall is what
 the file promises; the clock is what actually happens.
-
-**Why not read the size and compute the seconds.** Because the archive does not file a size.
-Measured: **3 of 134** relics state a dimension in their form line, **1** carries a
-`Dimensions / Mass` row, and the figures that do appear do not track the tier — a ten-metre
-music-box is a TETH, a ten-centimetre relic is a WAW. A wall computed from those would be a guess
-wearing a number. **The clock is filed on every dossier; the size is filed on none.**
 
 **At the wall the relic is spent.** Not damaged, not suppressed, not dead: spent. It will not take
 a hand.
 
 **The universal law underneath it.** Whatever fills a relic's gauge, **nothing may be used at the
 wall.** For the 134 charge gauges the wall arrives through contact time; for the 9 that keep `[HP]`
-it arrives through suppression. Two roads to one rule.
+it arrives through suppression.
 
 ## 4. The two lines
 

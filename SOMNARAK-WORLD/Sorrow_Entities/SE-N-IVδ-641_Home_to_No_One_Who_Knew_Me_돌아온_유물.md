@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A relic standing in Old Lament whose recorded form is the one thing that can be said about it: crimson light inside the object. And a shape that is wrong — more precisely, whatever the person looking has reason to find familiar. The light is the reading; the form is entered as unidentified. |
 | **Perceptible to** | The crimson light before the outline, and then recognition, which is not the same as knowing what it is. Witnesses present grow uncertain about unrelated things — their route, their reason for being in the district, whether they have already spoken to somebody. |
-| **Handling** | Nothing is done to the object. The cordon is set and held, the form is recorded as found, the district association is briefed, and nobody says within its hearing or outside it that the relic has come back. |
+| **Handling** | Nothing is done to the object. The cordon is set and held, the form is recorded as found, the district association is briefed, and nobody says within its hearing or outside it that the relic has come back. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on touch or recognition by someone who remembers it |
 | **Sorrow Gauge [Pressure]** | **000 of 880** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, both worked at distance. Viderehan reads the return — the light, the position, the duration — and holds the gauge. Ferrehan tests whether a worker can stand a return they recognise without acting on it, and lowers it. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule. |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Nobody who can be named. Whoever carried the artifact out of the city, whoever lost it, hid it or destroyed it, and whoever lived on the street it came back to are all beyond the record. The district it returned to had changed past recognition and had no memory of it, which is the sorrow, and the file cannot repair that by naming anyone.
 - **Expanded origin context:** Archive note: what it grew around is a street, not a person, which is why none of the four bullets above names anybody. The archive recovered the shape of the loss and could not recover a single witness to it, and the file is honest about which of the two it is holding.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A relic standing in Old Lament whose recorded form is the one thing that can be said about it: crimson light inside the object. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The routes and the hands it passed through surface in order, none of them attached to a name the archive can confirm. | Stable · Common |
-| **Ferrehan** | It stays while the worker holds the uncertainty without resolving it, which on this holding means not deciding what the object is. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the crimson light and the form as found, entered as unidentified. The position and the duration; the cordon line and the names of who will hold it. |
+| **Handling** | The watch records the form as found and marks it unidentified, logs the light, the position and the duration, and sets the cordon before the district is told anything. |
+| **Withdrawal** | **The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule** — and a cycle in which anybody said the relic had come back is entered as the fault that started… |
+| **Refusal** | Does not approach it, does not handle it, does not move or mark it, and does not let the district association touch it. The return is answered by nothing at all. |
 
-
-### Operational Work Notes
-
-Read the gauge only beside the form it was taken in: this holding's response depends on element, coherence and manifestation, and on what the witness took the object to be. Home to No One Who Knew Me is an Object/Place with an Object-Void manifestation and Grudge elemental expression, appearing in the Old Lament after long absences, and the file's scheduling variable is the interval between appearances rather than any cycle count. No breach counter applies: the return is the trigger, and the yield is highest on the day it comes back.
-
-**Reading the response:** Read the light first and the witnesses second: a falling gauge shows as the inner fire sinking deeper into whatever the object currently is, the heat dropping toward the street's own, and the form settling. The pressure returns unless the cycle is sustained, so what a good watch buys is stabilisation and not an answer. The witnesses are read on purpose — people who stood near the cordon grow uncertain about unrelated things, and the file treats a confident witness as a datum rather than as a witness.
 ## Activation Behavior
 
 > **Special activation — no counter.** Read off the file: *"touch or recognition by someone who remembers it"*.

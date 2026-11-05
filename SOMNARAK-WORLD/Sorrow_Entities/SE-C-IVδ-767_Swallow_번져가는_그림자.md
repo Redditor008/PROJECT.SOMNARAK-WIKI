@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A place of dimming light under the Alpha Tree — a large shadow spreading across floors and walls with no visible source casting it, swallowing detail as it goes. Salt-cold and damp, and nothing in the room throws it. |
 | **Perceptible to** | Detail going soft at the edges of whatever the worker is looking at. Then the worker's own shadow going transparent, and after that a hand that can be seen through. |
-| **Handling** | Name the source of the grief and return emotional ownership. Work the shift inside the fixed light and come out tethered to your own equipment. The perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary. |
+| **Handling** | Name the source of the grief and return emotional ownership. Work the shift inside the fixed light and come out tethered to your own equipment. The perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on an unrecognised loss carried to the memorial above with no office willing to record it |
 | **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the mourners legible in outline — how many, how long ago, roughly who they came for. And never a name. Ferrehan is a full shift held inside the edge without taking ownership of anything in the air, marked by a counsellor afterwards and not by the worker. |
 | **Location** | Zone A, Alpha Tree |
 | **Resolution Condition** | Name the source of the grief and return emotional ownership |
 
@@ -140,23 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Everybody who ever grieved under the Alpha Tree for somebody the schedule of degrees does not recognise, which is most of the traffic the memorial gets.
 - **Expanded origin context:** Bereavement leave is granted by degree of relationship — spouse, parent, child, sibling — and by nothing else. The schedule exists because the alternative was tried: until Year 4186 leave was discretionary, and discretion meant that a worker had to narrate a relationship convincingly to a supervisor who then priced it. Two officers decided identical facts differently in the same month; one refusal was reversed only when the applicant produced letters. Grief became a thing you proved and performed, and the schedule ended that in a single line. What the schedule cannot do is make the unrecognised losses stop happening. The friend of forty years, the colleague, the neighbour's child, the partner nobody registered: 1,900 applications outside the schedule were refused last year, correctly. And the people who made them went to the memorial under the Alpha Tree, because it is open and it asks nothing.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A place of dimming light under the Alpha Tree — a large shadow spreading across floors and walls with no visible source casting it, swallowing detail as it goes. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The mourners become legible in outline — how many, how long ago, roughly who they came for — and never by name. | Stable · Common |
-| **Ferrehan** | The worker holds a full shift inside the edge without taking ownership of anything in the air, and the test is marked by a counsellor afterwards, not by the worker. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the four markers, the chalk band as last surveyed, and which worker will carry the grief that is reported and not owned. |
+| **Handling** | The watch confirms the holding by the four markers — dimming without a source, a floor ringed in old chalk, fixed lighting that does nothing, detail soft at the edges — and chalks the perimeter before anything else. |
+| **Withdrawal** | **Name the source of the grief and return emotional ownership** — recorded as one attributed line in the shift log and nothing further. |
+| **Refusal** | Does not strike the shadow, does not step past the chalk, and re-reads the band instead. |
 
-
-### Operational Work Notes
-
-Read the table above against what Swallow actually is: an Object/Place with Place-Grudge manifestation and Lament expression, held beneath the Alpha Tree, worked only through Viderehan and Ferrehan. What the gauge does and what the file can promise are two different things here. And the wing's caution is written for exactly this holding — a watch can close with the readings untouched and the worker still carrying somebody else's loss out of the light.
-
-**Reading the response:** Three things are read together — what the holding did, what happened to the worker, and what the shift actually learned. A fall means the sorrow is being taken up rather than spent, and the source stays where it was, so the calm is custody and not healing. A rise means the work has taken hold of the wound instead of sitting beside it. Anything the file does not describe outranks the file: write it down, log it, and do not begin the next cycle until it is in the record.
 ## Expansion Behavior
 
 > **Special activation — no counter.** The file's own line: *"an unrecognised loss carried to the memorial above with no office willing to record it"*.

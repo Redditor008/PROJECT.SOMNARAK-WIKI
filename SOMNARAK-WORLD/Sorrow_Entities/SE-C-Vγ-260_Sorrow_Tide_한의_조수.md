@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A nightly rise of weight over ground it has already covered, arriving in the legs and the chest first, peaking before midnight and receding at dawn. No wave is seen. Nine stations report the onset within the same eleven minutes; the almanac predicts the timing to within forty minutes and has never predicted the height. |
 | **Perceptible to** | Standing becoming work. And the weight in the legs and chest before it is anywhere else. Then, after the peak, the specific difficulty of being outdoors and alone, which is the only thing every serious injury in sixty years has in common. |
-| **Handling** | Impossible to contain; use the Tide shelters and the shared mourning protocols. The shelters are free, unregistered and deliberately unstaffed by anybody in uniform — the almanac is published rather than circulated internally for the same reason. |
+| **Handling** | Impossible to contain; use the Tide shelters and the shared mourning protocols. The shelters are free, unregistered and deliberately unstaffed by anybody in uniform — the almanac is published rather than circulated internally for the same reason. — see `## Handling Process` |
 | **Activation threshold** | Periodic / expansion event — no breach counter |
 | **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, and neither is a lever on the Tide. Viderehan reveals the grief currents across the city and the gauge does not move. Ferrehan is enduring the wave until dawn, which is the whole of what any crew has ever been able to do. |
 | **Location** | All zones — periodic phenomenon |
 | **Resolution Condition** | Impossible; use Tide shelters and shared mourning protocols |
 
@@ -137,25 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** No originating person at all. The record documents the shelters instead — forty-one of them, opened district by district between Year 4,188 and Year 4,203.
 - **Expanded origin context:** The Tide has no containment zone, so what the record documents instead is the shelters. Forty-one of them, opened district by district between Year 4,188 and Year 4,203, every one of them a converted hall rather than a built facility. And all forty-one funded by the districts themselves after the Directorate declined on the grounds that a nightly weather condition is not a containment matter. The almanac office prints the list on the back of the table.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A nightly rise of weight over ground it has already covered, arriving in the legs and the chest first, peaking before midnight and receding at dawn. What follows is procedure; nothing in it answers an approach.
 
-The Tide does not respond to Work Types in the conventional sense.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the nine station readings an hour after dawn, the almanac's timing for the night, and the shelter roster for the streets that stay open. |
+| **Handling** | The watch takes the nine station readings an hour after dawn, and returns the ebb crew to the shelters rather than leaving them out for the next onset. |
+| **Withdrawal** | **Impossible; use Tide shelters and shared mourning protocols** — and the only figure that closes a Tide night is how many people were indoors when it peaked. |
+| **Refusal** | Pairs every outdoor post, and clears the streets of anybody unaccompanied after the peak rather than directing them. |
 
-| Condition | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The Tide reveals grief currents across the city. | Stable · Common |
-| **Ferrehan** | Personnel endure the wave until dawn. | Decrease · High |
-
-
-### Operational Work Notes
-
-The Work Type table applies to a Warden standing in a street and the almanac applies to a city. The two series kept here are the hourly gauge at nine stations and the shelters' attendance. And the second predicts the following night better than the first: full shelters are followed by a lower peak, measured across eleven years. And the Wardens have never been able to say why that should be true.
-
-**Reading the response:** A falling gauge at a station means people nearby went indoors, not that anything was suppressed. The reading that matters is the city-wide peak, and it falls on nights when the shelters are full and the shared mourning protocols are actually run rather than merely opened.
 ## Expansion Behavior
 
 | Field | Detail |

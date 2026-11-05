@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A thickening under the Alpha Tree where Han density is so concentrated that the weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. It has no apparition, no voice and no manifestation the eye can find: only mass, and a floor plate that bows under nothing. |
 | **Perceptible to** | The habit first — the long way round the stairs, and nobody reports it — then the foundation gauges disagreeing with their neighbours, then doors that bind and tools that drop from hands. Personnel describe nothing worse than a long shift; the survey says otherwise and the survey is what is believed. |
-| **Handling** | The gauge round walked on the watch, the deflection survey kept unbroken, and a floor cleared on the first confirmed thickening rather than on a complaint. Nothing is suppressed and nothing is lifted that the Mass is carrying: the doctrine is stamped by three Directors and reads, in full, *Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down.* |
+| **Handling** | The gauge round walked on the watch, the deflection survey kept unbroken, and a floor cleared on the first confirmed thickening rather than on a complaint. Nothing is suppressed and nothing is lifted that the Mass is carrying: the doctrine is stamped by three Directors and reads, in full, *Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down.* — see `## Handling Process` |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [Load]** | **000 of 1080** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, and both are survey work: observation is the gauge round and endurance is the continuous deflection watch that nobody has ever been allowed to interrupt. The holding has never been worked in the ordinary sense and the Directorate has never scheduled one. |
 | **Location** | SECTOR-C-925, uncontained |
 | **Resolution Condition** | There is no resolution condition. The holding is uncontained and the ledger records no event ended by anything the facility did — only floors cleared in time and, once, floors not cleared in time. A site is closed out when the deflection survey reads stable for four consecutive watches. |
 
@@ -141,20 +140,16 @@ It gathers where sorrow has been carried longest without being said: the Deep Va
 
 What it does to a building is measurable in millimetres a month. What it does to the people in the building is that they stop mentioning the stairs.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the adjacent foundation gauges and the deflection survey, which is where the mass shows. What the eye reports in the aisle is nothing; the load is in the floor. | Decrease · High |
-| **Ferrehan** (Endurance) | A party stands the aisle for a full cycle while the gauges are read at intervals. Nothing presses on a person here — the endurance is the floor’s — and the session ends when the deflection moves. | Decrease · Common |
+> **This holding is not worked.** A thickening under the Alpha Tree where Han density is so concentrated that the weight of anything — a person, a stone, a breath — doubles, then triples, then becomes…. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-The weight is the one thing in this archive that an instrument measures better than a person does. Both valid approaches are survey work: observation is the gauge round, endurance is the continuous deflection watch that nobody has ever been allowed to interrupt. The holding has never been worked in the ordinary sense and the Directorate has never scheduled one.
-
-Management: walk the gauge round on the watch, keep the deflection survey unbroken. And clear a floor on the first confirmed thickening rather than on the second — there is nothing here to weep with and nothing to confront, only load. And the three evacuations ordered on a single reading were upheld.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the adjacent foundation gauges read before anyone's account, the deflection survey unbroken from the previous watch, and the ward plate as the boundary the readings are taken either side of. |
+| **Handling** | The gauge round under the observer and the continuous deflection watch under the stander, with the set issued for measurement and never for suppression, and the floor cleared on the first confirmed thickening. |
+| **Withdrawal** | There is no close of the ordinary kind — the file says so: **There is no resolution condition. The holding is uncontained and the ledger records no event ended by anything the facility did — only floors cleared in time and, once, floors not cleared in time** — and a site is closed out only when the… |
+| **Refusal** | Leaves the ward plate alone, inspects the wards beneath a cleared floor, and keeps the survey running on the structure whether or not anybody is still working in it. |
 
 ## Expansion Behavior
 

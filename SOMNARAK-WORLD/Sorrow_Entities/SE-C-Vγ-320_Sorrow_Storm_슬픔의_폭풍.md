@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A city-wide storm of concentrated Han — black clouds that are not weather, a rain of dark crystal, a pressure that bends walls out of true. No body, only the storm; lead-heavy and smelling of wet stone. |
 | **Perceptible to** | The pressure drop first, days before the black ceiling is visible. Then the first gust carrying old grief like grit, and the crystal rain arriving after the ring has already said so. |
-| **Handling** | Acknowledge sorrow and shelter until the Storm passes. Sirens on full-ring confirmation only, shelter by floor, a named roll-call, people secured before archives, and resumption in stages on the ring's word. Shelter is success, not defeat of the weather. |
+| **Handling** | Acknowledge sorrow and shelter until the Storm passes. Sirens on full-ring confirmation only, shelter by floor, a named roll-call, people secured before archives, and resumption in stages on the ring's word. Shelter is success, not defeat of the weather. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; it forms over the city and runs the connected Han flows without travelling as a body |
 | **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is barometers in triplicate, gauge tapes running continuously and the sounding line in the shaft, all read from the ring. Ferrehan is standing it out inside the perimeter on ballast anchors, earthed, calling figures aloud at intervals — the only thing that moves the gauge. And it moves it a little. |
 | **Location** | All zones — periodic phenomenon |
 | **Resolution Condition** | Acknowledge sorrow and shelter until the Storm passes |
 
@@ -139,30 +138,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Everybody in the city who lost somebody the schedule of recognised loss does not list.
 - **Expanded origin context:** The Clear-Day Compact rests on one proposition the pressure tapes have never contradicted: grief that is discharged does not accumulate, and grief that accumulates becomes weather. The channels are real and they are generously funded — observances, counselling throughput, the night crews' testimony logs, the census readings at the grounds. Access to all of them runs through a schedule of recognised relationships, and the schedule lists four. The storm-wall is not made of the city's grief. It is made of the fraction of the city's grief that could not be put into a channel because the person who died was the wrong person to have loved.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A city-wide storm of concentrated Han — black clouds that are not weather, a rain of dark crystal, a pressure that bends walls out of true. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Barometers in triplicate, gauge tapes running continuously, and the sounding line in the shaft, all read from the ring. Gauge holds. | Stable · Common |
-| **Ferrehan** | Standing it out inside the perimeter on ballast anchors, earthed, calling figures aloud at intervals. It is the only thing that moves the gauge and it moves it a little. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the full ring's pressure across every station, the floor lists for the roll-call, and the shelter floors with their discharge routes. |
+| **Handling** | The watch confirms on the ring before it is confirmed by eye, and takes shelter by floor with a named roll-call before the ceiling arrives. |
+| **Withdrawal** | **Acknowledge sorrow and shelter until the Storm passes** — and resumption runs in stages on the ring's word rather than on anybody's judgement that the sky looks better. |
+| **Refusal** | Keeps the party moving under monitored shelter, clears fallen load from the evacuation line only, and never aims a Maul or a discharge at the cloud layer. |
 
-### Storm Environmental Progression
-
-| Condition | Response | Gauge Change |
-|---|---|---|
-| **The Storm arrives** | Masonry cracks along existing lines and every other holding in the city becomes harder to keep. | Increase |
-| **The Storm passes** | The damage stays and the ambient weight drops sharply, for a season, measurably. | Decrease |
-| **Caught in the Storm** | Grief and physical weight together, sufficient to stop a crew where it stands. Casualties are recorded as exposure, not injury. | Severe |
-
-### Operational Work Notes
-
-The two valid approaches are both ways of standing under it. Viderehan is the ring — barometers in triplicate, tapes running continuously, the sounding line in the shaft — and Ferrehan is the ballast watch inside the perimeter, earthed, reciting the figures aloud at intervals. Neither approach changes the Storm and nothing ever has. The standing minimum fell on its own schedule across sixty years and the interval between walls is the same figure it was then.
-
-**Reading the response:** A falling gauge on the ring means the city is holding more than it can discharge, and a rising one after a passage means the wall has cleared and the air is measurably lighter for a season. What the crews read is not the entity's mood but the city's own arithmetic: the ring scale against the schedule of recognised loss, the refusal figures from the Observance Office, and whether the interval between walls has shortened, which it has twice. Anything off-pattern — a reading that does not confirm across the ring, a wall outside the season, a holding that stirs early — is logged before the next assignment, and the false-clear is the reason that rule exists.
 ## Expansion Behavior
 
 | Field | Detail |

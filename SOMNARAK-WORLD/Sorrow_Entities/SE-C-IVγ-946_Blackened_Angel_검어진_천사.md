@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | A wish — spoken or clearly thought — directed at the statue. No percentage and no count are listed |
 | **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | The Tarnished Shrine, SECTOR-A-04, Zone A |
 | **Resolution Condition** | Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand |
 
@@ -151,22 +150,16 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Kangmin (운), the Collector, whose nightly cruelties blackened the angel. And the citizens, who had once brought it kind wishes and blue tears, and who stopped coming when the gold began to go.
 - **Expanded origin context:** On the last night, Kangmin came with one final wicked wish. The angel, black nearly through, tried to refuse and could not — so it did the only thing left to it: its face became a look no mind could hold. And Kangmin, who had wished so much harm, went quite mad from the sight of it, and was taken away raving. The angel stood alone in its alcove, no longer golden, weeping black — and something in it that had trusted the wishes of people was simply gone. It still grants wishes to those who dare to ask. It cannot refuse. But it weeps only black now, and watches the wisher, and there is a look behind its closed eyes that was not there when it was gold.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A blackened stone angel in the Tarnished Shrine with a dish of tears at its feet. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. | Stable · Common |
-| **Ferrehan** | The worker holds beneath the accumulated weight of all those granted wishes — the heaviness of a giving thing that gave too much it did not want to give. | Decrease · High |
-
-### Operational Work Notes
-
-The gauge response is only meaningful in context. Blackened Angel is recorded as an Object with Object-Tale manifestation and Weight elemental expression. The current record places it in the Tarnished Shrine, SECTOR-A-04, Zone A; personnel should not transfer assumptions from another statue or relic entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the angel's grief, the straining face, and the quiet, building urge to whisper a wish.
-
-**Reading the response:** A decrease means the shift was worked without anything being asked of her, in any form, by anybody present. An increase means a wish was spoken, and the only question remaining is whose and what. Log the tear, the colour, the dish volume and the exact words that preceded it, from the page and not from recollection.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the tarnish line against the alcove base, the level in the dish, and that nobody in the party is holding a wish they have not said out loud to themselves. |
+| **Handling** | The watch the weight of having been answered, which the file records as resolve and health paid out at once. — see `## Handling Process` |
+| **Withdrawal** | Against the file's documented suppression condition: **Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand**. |
+| **Refusal** | Nothing that would meet the activation — A wish — spoken or clearly thought — directed at the statue — is done on purpose. |
 
 ## Activation Behavior
 

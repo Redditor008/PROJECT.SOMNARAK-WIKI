@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A dark tear-shaped object half-buried in open ground in the Desolate, glowing faintly beneath the soil. It holds its position in plan and changes in depth: it sinks when anybody reaches for it and rises while it is left alone. |
 | **Perceptible to** | The glow under the ground first, then the depth of the uppermost surface below ground level, then the weight coming up through the boots from below rather than from anything in front of the worker. |
-| **Handling** | Reached for by nobody and brought up by nothing. The depth and the lit area are recorded at every watch, the worker sits beside it for the session without trying to raise it, and departure is timed by the watch commander rather than by the worker. |
+| **Handling** | Reached for by nobody and brought up by nothing. The depth and the lit area are recorded at every watch, the worker sits beside it for the session without trying to raise it, and departure is timed by the watch commander rather than by the worker. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; it holds its position on the ground and sinks when reached for |
 | **Sorrow Gauge [Load]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the event under the forgotten grief and holds the depth steady, and nothing surfaces for it. Ferrehan sits beside buried sorrow for the length of the session without trying to bring it up, and is the only work that raises it. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Grief is mourned at the site without a cause being supplied for it, and the Sorrow Gauge falls below 25% |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One traveller near The Scar who buried a last tear rather than be seen to weep, and who outlived the memory of what the tear was for. The Keepers hold no account of the loss, which is not an omission in the research: by the time anybody asked, she could not supply one either.
 - **Expanded origin context:** What the archive holds is a route, a date of passage and the fact of the burial, reconstructed from two waystation registers that both survive complete and neither of which names her. Nothing has been added since. The archivist's note states the reason plainly: the holding is made of a refusal to be witnessed, and a thick file about it would contradict its subject. By the time anybody thought to ask what the tear had been for, she could not answer either — the forgetting is not a gap in the research, it is the entity.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A dark tear-shaped object half-buried in open ground in the Desolate, glowing faintly beneath the soil. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reads the event under the forgotten grief and holds the depth steady. Nothing surfaces and nothing is learned about the cause. | Stable · Common |
-| **Ferrehan** | The worker sits beside buried sorrow for the length of the session without trying to bring it up. This is the only work that raises it. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the depth of the uppermost surface in centimetres, the lit area around it, and the party's head count before anybody sits down. |
+| **Handling** | The watch the depth of the uppermost surface is recorded in centimetres and the lit area measured at every watch. |
+| **Withdrawal** | **Grief is mourned at the site without a cause being supplied for it, and the Sorrow Gauge falls below 25%.**. |
+| **Refusal** | Nobody reaches into the ground, no digging is authorised, and the object is never raised to be measured properly. |
 
-
-### Operational Work Notes
-
-Sehnsucht is an Object/Place with Object-Void manifestation and Weight expression, held in open ground in the Desolate near The Scar. There is no cell and no seal; the containment is a standoff line, a rod, a night watch and a prohibition on reaching. Viderehan holds the depth. Ferrehan raises it. Nothing else in the record has ever moved the figure upward, and two things move it down: contact, and explanation.
-
-**Reading the response:** A rising object means somebody mourned at the site and let the cause stay missing. Stability under Viderehan is correct. The reading worsens — the object sinks — on reaching, probing and digging, and equally on any confident account of why a person present is feeling what they feel.
 ## Activation Behavior
 
 > **Special activation — no counter.** It holds its position on the ground and sinks whenever anyone reaches for it. Depth is the only thing that changes.

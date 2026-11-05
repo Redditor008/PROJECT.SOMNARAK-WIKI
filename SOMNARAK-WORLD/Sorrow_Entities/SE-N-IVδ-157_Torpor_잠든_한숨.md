@@ -96,7 +96,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Establish a guarded rest area and permit sleep |
 
@@ -156,23 +155,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** A border watch that slept in shifts for eleven years and never once slept while nobody was awake to see them do it. The Keepers' record holds the rota and no casualty list, because none of them died here — they simply never rested, and the exhaustion outlasted the posting.
 - **Expanded origin context:** The Director's annotation: 'This sorrow is not anomalous. It is representative. The Weight at Zone E, Border region is the same grief, the same refusal, the same wound. The Object/Place is what happens when the city stops pretending it doesn't hurt.'
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reveals the duties that kept people awake. Reading them means staying awake on purpose in a place that charges for it, and the gauge climbs by the watch. | Increase · Low |
-| **Ferrehan** | Tests whether the worker can sleep without abandoning duty. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Establish a guarded rest area and permit sleep — ordered as a task and watched by name. |
+| **Handling** | Nothing else has ever lowered the gauge on this file, and rest that is permitted but declined has reliably raised it. — see `## Handling Process` |
+| **Withdrawal** | Establish a guarded rest area and permit sleep. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 90% — is done on purpose. |
 
-
-### Operational Work Notes
-
-Two of the four Work Types are available and the reason is structural: there is no surface here to confront and nothing that can be engaged emotionally, so Flerehan and Pugnahan both return nothing. Viderehan reads the duties that kept the original watch awake and adds the reader's own waking hours to them. Ferrehan is the one that moves the figure down. And what it requires is that somebody lie down inside the edge and sleep while somebody else stands over them by name. Both are measured across a full rotation rather than a session, because the quantity the place works in is hours awake and nothing shorter contains any of it.
-
-**Reading the response:** A falling reading under Ferrehan means sleep was ordered and watched — both halves are required, and sleep taken by a lone worker moves nothing. Stability under Viderehan is the correct result and is not a null session. The reading rises whenever rest is declined, deferred, or described in the chamber as something to be earned. And it rises whether the person declining is refusing out of care for the roster or out of pride. The place does not distinguish, which is why the rota issues rest as a task rather than granting it as a favour.
 ## Expansion Behavior
 
 | Field | Detail |

@@ -31,8 +31,8 @@ DOSSIERS = ('SOMNARAK-WORLD/Sorrow_Entities/**/SE-*.md',
 TYPE = re.compile(r'\*\*Entity Type\*\*\s*\|\s*([^|]+)\|')
 WORK_ROW = re.compile(r'^\|\s*\*\*(Flerehan|Pugnahan|Viderehan|Ferrehan)\*\*', re.M)
 
-RATCHET = 131
-RATCHET_SET = '2026-11-04'
+RATCHET = 0
+RATCHET_SET = '2026-11-05'
 
 
 def is_relic(text):

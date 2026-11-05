@@ -95,7 +95,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Stop repetition and identify the original voice |
 
@@ -154,23 +153,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** A family, then a street, then a district, carrying one grievance forward by recitation until nobody living could say who had been wronged or by whom. The record cannot name the original voice. That is not a gap in the archive. It is the entity — the thing that formed is precisely the point at which the name went out of the telling.
 - **Expanded origin context:** The archive cannot name the original voice and the file is emphatic that this is not a gap in the record. The entity is the point at which a grievance stopped having an owner; a named wrong is a different thing and would be filed differently. What the district's recitation books do preserve is the drift — four versions a generation apart, the first naming a family and a street, the last naming nobody at all and running nine words shorter. The last version is the one that was still being said when the chamber was found.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reveals how the grievance spread. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can remain while the sound burns away. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Survey the walls against the pins, listen under voice discipline with one designated speaker, and attribute everything that is repeated. |
+| **Handling** | Nothing said in the chamber is repeated outside it in any form. — see `## Handling Process` |
+| **Withdrawal** | Stop repetition and identify the original voice. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 90% — is done on purpose. |
 
-
-### Operational Work Notes
-
-Both usable Work Types reduce the gauge and neither has ever reduced the chamber. The measurement that matters is the survey, and across eleven years it shows one thing only: the room grows after watches in which something was repeated unattributed, and does not grow after watches in which nothing was. 211 watches, 38 growths, 38 unattributed repetitions logged.
-
-**Reading the response:** Read it in the sound and in the survey, and never in how the team feels about the cycle. A falling gauge presents as thinning — fewer overlapping voices, a shorter carrying time, the burnt-paper smell dropping below notice. The pressure is being absorbed and the source is untouched; the walls stay exactly where they were. A rising gauge presents as agreement, which is the dangerous reading on this holding: the voices converge, they become articulate, and they start saying a thing the worker already half believed. A cycle that ends with the team unanimous about a grievance is a cycle to be examined, not filed. Any response the record does not describe is written up the same day, and the single observation that outranks every other is a voice naming someone who is currently on shift.
 ## Expansion Behavior
 
 | Field | Detail |

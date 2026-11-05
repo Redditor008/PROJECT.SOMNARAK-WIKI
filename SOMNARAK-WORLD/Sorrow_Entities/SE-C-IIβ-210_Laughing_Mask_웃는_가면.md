@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A painted mask on a fixed stand in the Mask Market, bright lacquer, wide smile, dark wet eyeholes, bloodless-cold and smelling of ash. The laughter has not stopped in nine years; the bay's silences are the readings, and they are timed from the door. |
 | **Perceptible to** | The laugh first, pitched exactly like the listener's own social laugh and not recognised as theirs by most people. Then the lacquer, cold and dry under the hand, and the ash. That the mask is working shows as a person who has stopped noticing the sound. |
-| **Handling** | Not worn and not lifted. The stand is fixed and the frame is not moved; the two removals on file were refused before they were attempted. A watch sits in the bay, times the silences, and lets anybody laugh who finds something funny. |
+| **Handling** | Not worn and not lifted. The stand is fixed and the frame is not moved; the two removals on file were refused before they were attempted. A watch sits in the bay, times the silences, and lets anybody laugh who finds something funny. — see `## Handling Process` |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
 | **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan times the silences; Ferrehan sits the bay. A cycle worked by somebody performing ends early, and the file counts that as the failure. |
 | **Location** | SECTOR-C-01, Mask Market |
 | **Resolution Condition** | Appearance requirements are suspended across the district and the mask's longest silence lengthens, with the Sorrow Gauge below 25% |
 
@@ -140,23 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One performer of the Mask Market who lost their household and kept working the arcade, because the arcade paid daily and grief did not. The Keepers hold three seasons of their takings, which rose. Nothing else about them survives, including their name, which the archive notes is consistent with a person who was known by a face that was not theirs.
 - **Expanded origin context:** The market's own records are the origin document. The performer lost his household in one quarter — the stall ledger shows the corner pitch changing hands and the school roll losing a name — and his bookings do not thin at all. He worked eleven of the next twelve days. The stallholders who were asked afterwards said, consistently, that he had seemed fine. Two of them added, unprompted, that they had been glad he was still working.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A painted mask on a fixed stand in the Mask Market, bright lacquer, wide smile, dark wet eyeholes, bloodless-cold and smelling of ash. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows the face behind the laughter. | Stable · Common |
-| **Ferrehan** | Laughs for hours, testing whether the worker can remain present. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the stand, the face, and the length of the silence since the last watch. The listener's own laugh is confirmed by a second person rather than by the listener, because the mask's first trick is a borrowed pitch. |
+| **Handling** | The observer times the silences from the door and the stander sits the bay. Nobody performs, nobody tells a joke to fill the quiet, and every laugh in the room is entered with who made it and what they were trying to do. |
+| **Withdrawal** | **Appearance requirements are suspended across the district and the mask's longest silence lengthens, with the Sorrow Gauge below 25%** — the silence is measured from the door, and the district notice is filed before the next shift. |
+| **Refusal** | No hand is laid on it and no cloth is put over it; no reading is taken from close enough to cover it. |
 
-
-### Operational Work Notes
-
-The Work Type rows are steady and the silences are not. Nine years of them: longest after a worker laughed at something unrelated to the holding entirely — a dropped crate, a bad pun from a colleague — and shortest, almost absent, in weeks when the district has issued a demeanour standard. The gauge follows the silences and the silences follow whether people in the market are allowed to be in a bad mood.
-
-**Reading the response:** A falling reading means somebody laughed in the bay at something that was actually funny and the mask stopped to listen. It rises on performance, on a cheerful shift log, and on any appearance or demeanour standard issued anywhere in the district.
 ## Activation Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"wearing the mask or laughing near it"*.

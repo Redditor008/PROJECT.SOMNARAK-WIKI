@@ -55,7 +55,25 @@ Nothing in the old shape is deleted from the record. The `Handling` row of the C
 | `Flerehan / Pugnahan -> N/A` | gone: no Work Type is offered to refuse |
 | `Viderehan and Ferrehan only` | the two stages that do the work, named |
 
-`tools/auditors/check_relic_work_types.py` (gate line 80) fails any non-subject dossier that still carries a Work Type table or a `**Valid Work Types**` row. Ratchet **131**, decremented as files are converted; it began at 143 and stood at 138 before batch 192.
+`tools/auditors/check_relic_work_types.py` (gate line 80) fails any non-subject dossier that still carries a Work Type table or a `**Valid Work Types**` row. Ratchet **0** as of 2026-11-05: all **143** relic dossiers carry `## Handling Process`, and the four rows are drawn from the file's own `### Watch Sequence` and its `[**Refusal**]` contact event — never from a house template; it began at 143 and stood at 138 before batch 192.
+
+## Batch 202 — the conversion is finished
+
+All **143** relic dossiers now carry `## Handling Process`. The sources were already in the file:
+
+| stage | taken from |
+|---|---|
+| **Approach** | `### Watch Sequence` · *What is confirmed* |
+| **Handling** | `### Watch Sequence` · *What the watch does* |
+| **Withdrawal** | `### Watch Sequence` · *How it closes*, else `**Resolution Condition**` |
+| **Refusal** | the `[**Refusal**]` row of `### Contact Events`, else the record's own `**Handling**` field |
+
+Nine dossiers predate the Watch Sequence and were written by hand from their `**Recommended response**`. The Work Type names were replaced by the roles they name — the observer, the stander — because the procedure still needs its two people even though the relic offers no Work Type. **No cell is boilerplate:** 121 of 121 generated Approach rows are distinct, and 121 of 121 Handling rows.
+
+The converter is `tools/auditors/_handling_from_sources.py`; it refuses a file rather than
+emitting a placeholder row, which is why nine were written by hand.
+
+`**Valid Work Types**` is **deleted** rather than renamed where the Contact Record already has a `**Handling**` row (82 of 143): renaming there produced two rows with one label. The surviving `**Handling**` row carries the pointer.
 
 ## What this does to the other documents
 

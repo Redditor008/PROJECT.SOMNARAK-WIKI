@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed; the lantern's expansion is by Transform and is recorded below |
 | **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, at the fixed mount |
 | **Location** | Zone C, Collector's Row — ambient |
 | **Resolution Condition** | Viderehan and Ferrehan at the fixed mount, with the gauge pulled below 25% before the cycle may be entered as a close |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The households of Collector's Row whose addresses are in the round book, and the Collector who walked it.
 - **Expanded origin context:** The round book survives and is the reason this file exists in the form it does. The early pages are ordinary: address, sum, date, a note on circumstances. The notes shorten through the middle of the book. By the last quarter there are no circumstances at all, then no names, then — for the final eleven pages — only addresses and the brightness he recorded at each door, in a private four-point scale of his own devising. Nothing in the book describes a crime. What it describes is a man who stopped being able to see the households and went on going to them, and could still tell you, accurately, which ones were heaviest.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A cold light on a fixed mount at the Row's floor mark. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows the obligations within the lit area and where each began, including obligations that appear in no official ledger. | Stable · Common |
-| **Ferrehan** | Stands with the worker while their own burden is itemised. Lowers the gauge furthest, and is the only approach that lowers it at all. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the cold light against the warm oil lamp, the floor mark, and the line of withdrawal fixed before the first reading — the Row's other lamp has been mistaken for this one in reports from outside the wing. |
+| **Handling** | Four readings at the mount, watching and holding. Nobody carries the lantern, nobody tilts it, and the radius is walked at the open and the close. — see `## Handling Process` |
+| **Withdrawal** | The management condition is satisfied and the gauge falls below 25% before the cycle is entered as a close. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 60%. No breach counter is listed; the lantern's expansion is by Transform and is recorded below — is done on purpose. |
 
-
-### Operational Work Notes
-
-Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, Object-Weight manifestation, Weight expression, held at a fixed mount in Collector's Row. Nothing here can be grieved with or fought, so Flerehan and Pugnahan are entered as Net-Neutral and the range is Viderehan and Ferrehan alone. What it threatens is information, not the body.
-
-**Reading the response:** Read it in the radius and the intensity card, never in the feeling of the room, which on this holding is consistently misleading. A falling gauge presents as intensity dropping with the radius unchanged. A rising one presents as the radius creeping past the floor mark, and that movement is permanent whatever the gauge does afterwards.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"carrying the lantern into a debt-bearing area"*.

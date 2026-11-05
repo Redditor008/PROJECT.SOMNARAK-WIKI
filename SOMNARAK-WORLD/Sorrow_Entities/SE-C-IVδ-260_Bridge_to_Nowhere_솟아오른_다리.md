@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A bridge standing over the Echo Gardens with nothing at either end worth reaching, part-lengthened by every crossing nobody recognised. It is sealed and still lengthens; the span is the reading and it does not fly, walk or reach. |
 | **Perceptible to** | The route underfoot — road, weather, departing people — resolving around whoever stands on the deck, and the length behind them on the way back, which gets shorter by fractions rather than by steps. |
-| **Handling** | Mark the crossing as memory and let the Bridge settle: every crossing is named aloud as a crossing and not as a journey, and the span is measured out and back on every watch. The route is never walked as though it led anywhere. |
+| **Handling** | Mark the crossing as memory and let the Bridge settle: every crossing is named aloud as a crossing and not as a journey, and the span is measured out and back on every watch. The route is never walked as though it led anywhere. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on collective remembrance of an erased route |
 | **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the bridge's former route and the people who used it. Ferrehan is standing the span without treating the far end as a destination, which is the only approach that lowers the carry. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Mark the crossing as memory and allow the Bridge to settle |
 
@@ -139,23 +138,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The users of an erased route, who kept dreaming of crossing it. The Keepers' record has the road's name and not theirs, which is the inversion this entity is made of: the place is remembered in detail and the people who walked it are not.
 - **Expanded origin context:** The route survives in the archive on one earlier survey sheet, carried as a dotted line with no settlements marked at either end and annotated in a hand nobody has identified: in use, not maintained. The path-stones set into the deck match that sheet's description of the surface, including a repair pattern recorded nowhere else. The archive treats this as sufficient — the road existed, it was ordinary, and it was removed without anyone writing down why — and the record's own standard is that the road gets named and the travellers get written into the roll.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A bridge standing over the Echo Gardens with nothing at either end worth reaching, part-lengthened by every crossing nobody recognised. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reveals the bridge's former route and travelers. | Stable · Common |
-| **Ferrehan** | Requires the worker to cross a memory without claiming it as present. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the span measured at both ends, the crossing count from the previous watch, and the naming of the route aloud before anybody steps onto the deck. |
+| **Handling** | The watch measures the span at both ends before anybody steps on, and records the route as a memory on the sheet rather than as a direction. |
+| **Withdrawal** | **Mark the crossing as memory and allow the Bridge to settle** — and the span is measured out and back at the close, because a sealed bridge still lengthens. |
+| **Refusal** | Watches for planning rather than for the floor: a worker who begins arranging the far end is taken off the deck and the crossing is closed. |
 
-
-### Operational Work Notes
-
-Two of the four responses apply, and the reason is structural: there is nothing here to weep with and nothing to confront, so Flerehan and Pugnahan both return nothing. Viderehan shows the former route and the travellers on it and holds the reading flat. Ferrehan is the one that moves it, and it asks the worker to walk a memory without using it as a route. Both are carried out from the near footing rather than from the deck. A flat reading is not a quiet session either — a worker standing still costs the holding nothing, and a crossing costs it length.
-
-**Reading the response:** A falling gauge under Ferrehan means a worker crossed and did not arrive — they walked the span, acknowledged it as something that used to be, and came back the way they came. Stability under Viderehan is the correct result and not a failure. The gauge rises when the span is used: as a shortcut, as a route to the far side of the Gardens, as anything with a destination.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Filed trigger: *"collective remembrance of an erased route"*.

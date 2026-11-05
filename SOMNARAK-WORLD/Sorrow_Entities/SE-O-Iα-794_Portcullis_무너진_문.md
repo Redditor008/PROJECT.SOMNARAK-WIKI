@@ -78,7 +78,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
 | **Sorrow Gauge [Depth]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | The party holds position at the blocked threshold for the full duration without anyone naming somewhere else, and the gauge settles back beneath 25% |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Two groups rather than one — those who were leaving when the tunnel came down, and those who had already gone ahead and stood waiting on the other side of it. The record does not establish which of them this entity belongs to, and personnel should resist the urge to settle the question.
 - **Expanded origin context:** The inquiry papers are complete and they acquit everybody, correctly. The tunnelling office was driving a heading it was authorised to drive, to a programme approved three years earlier, with the loads calculated by the method then in use. The movement office was clearing the deep workings on a warning it was obliged to act on, by the route the standing plan specifies, which runs through that doorway. Neither office knew what the other was doing, and neither was required to: an office answers within its own remit and for nothing outside it. The heading took the roof; the roof took the stone. The stone came down on a door that was standing open with people still coming through it and people on the far side waiting for them. The finding is one sentence long and says that no act outside any office's remit occurred. The frame is still square. The hinges still work.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A fallen leaf beneath the tunnel stone, a square frame above it, hinges seated and the mechanism still working. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The route past the doorway and the people on it, standing where they stood, waiting. Gauge holds; the Door neither resists the looking nor gains from it. | Stable · Common |
-| **Ferrehan** | Standing at a threshold that will not open, for the length of the cycle, without forcing it and without walking away. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the fallen leaf beneath the tunnel stone, the frame still standing, the hinges still seated — and an agreement, made before entering, that no place-name is spoken for the duration. |
+| **Handling** | The Door shows the route and the people beyond it and strikes at nobody. The watch is decided by whether the party keeps working at a threshold it cannot cross or stops to look for somewhere better. — see `## Handling Process` |
+| **Withdrawal** | The full duration is held without anyone naming somewhere else, and the gauge settles back beneath 25%. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number — is done on purpose. |
 
-
-### Operational Work Notes
-
-The table means nothing without its frame. Element, coherence and manifestation each bend how a Work Type lands on this sorrow. Portcullis stands as an Object/Place with Object-Weight manifestation and Lament in its element, filed in the deep tunnels of Zone B. Nothing is inherited from a holding with a similar name, and the tunnel's own neighbours are set out in their own section. A level gauge is no proof of a harmless hour either — the figure can sit still while the worker is reached through memory, through the ground, or through what they believe they are.
-
-**Reading the response:** Viderehan holds the gauge level. Looking reveals the people and the route beyond the door, and the Door neither resists the looking nor benefits from it — being seen was never the problem, since everyone involved could see perfectly well what was on the other side. Ferrehan lowers the gauge, because enduring here means remaining at a blocked threshold without forcing it and without leaving it: standing where the waiting happened, for the length of the cycle, on purpose. A falling gauge means a worker has managed that. A rising gauge, in nearly every logged case, follows a worker trying to help — clearing stone, testing the frame, or promising the Door something — and the attempt is understandable enough that it should be recorded without censure and corrected without delay.
 ## Activation Behavior
 
 > **Special activation — no counter.** A structure stands where it is, and the trigger is a destination said aloud at the threshold rather than a count.

@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Direct contact, and placement over the face. No breach counter is kept for the Mask |
 | **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. The entity is an Object and the other two Work Types are unavailable to it |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |
 | **Resolution Condition** | Viderehan and Ferrehan only. Certified Tool protocol; the mask is never worn. Tray thermometer logged at both ends of every cycle. The room list recorded in full |
 
@@ -142,28 +141,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Citizens of the Mask Market quarter under the conduct standards of the period — shop-keepers, licensed traders, tenants on conditional leases — all of whom were required, in writing, to present a cheerful demeanour as a condition of trading, tenancy, or relief.
 - **Expanded origin context:** The commissioning material is not a personal account. It is a bundle of ordinary regulatory documents: a market by-law, a model tenancy, two employers' conduct standards, and the relief board's rules of eligibility. Each contains a clause requiring the holder to be of good cheer in public. None of them is cruel, each was adopted for reasons the file calls intelligible, and together they made a smile a condition of eating.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A lacquered mask with a fixed gentle smile, warm to the touch and sized to a face, in its tray with the lid down, in a vault that holds four masks answering to roughly…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Shows the face and sorrow behind the smile. | Stable · Common |
-| **Ferrehan** (Endurance) | Smiles at the worker for hours. | Decrease · High |
-### Special Behaviors
-- It does not create happiness; it conceals unhappiness.
-- The Mask reacts more strongly to forced cheerfulness than to sadness.
-- Personnel report emotional weight when touching it.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the tray number, the designation, the lid, the tray thermometer at the start of the cycle, and the room list — before a hand goes near the lid. |
+| **Handling** | The observer and the stander work the room and not the mask, because the reading is of the people present and changes only when they do. The mask stays in its tray, the lid goes back down, and the second thermometer reading is taken at the close. — see `## Handling Process` |
+| **Withdrawal** | Against the file's documented suppression condition: **the observer and the stander; certified Tool protocol; the mask is never worn; tray thermometer logged at both ends of every cycle; the room list recorded in full** — then the lid closed, the room cleared, the names logged. And the vault left… |
+| **Refusal** | A flare of false joy across whoever is nearest, and real identity eroded in the person looking. |
 
-
-
-### Operational Work Notes
-
-The Happy Mask is an Object/Place — Object-Void manifestation, Void expression — housed at SECTOR-C-01 with the Masked Troupe. Flerehan and Pugnahan are invalid for an Object. Viderehan leaves the gauge stable because the mask shows what is under the smile without being relieved of it. Ferrehan lowers it, slowly, across hours in which the mask smiles at a worker who does not smile back. Personnel must not carry assumptions from the other Troupe masks: three of them conceal, and this one requires.
-
-**Reading the response:** A decrease means a worker sat the full cycle without arranging their face. An increase means the mask was approached by somebody performing composure, which it reads and answers. The tray thermometer is logged at both ends of every cycle and is the only number in the file that has never been disputed.
 ## Activation Behavior
 
 > **Special activation only — no counter, no gauge.** The listed condition: *"direct contact and placement over the face"*.

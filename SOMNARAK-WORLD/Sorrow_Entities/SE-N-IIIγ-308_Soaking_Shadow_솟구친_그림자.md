@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A man-shaped darkness on the floor of the Alpha Tree vault with clear air above it, crimson light running off it in drips that scorch, and a floor that has not been dry since the sealing. Everything else in the vault is shelving, and shelving casts nothing. |
 | **Perceptible to** | The wetted margin first — the damp reading against the chalk — then the drips, then the grade, which deepens by carrying anger into the room rather than by doing anything in it. |
-| **Handling** | Chalk marks counted before anything else, because the outline moves and the marks are the only record of where it used to be. Positions taken outside the wetted margin, the card not read until the outline is marked. And cleared Wardens only — cleared that week, checked at the door rather than at the roster. |
+| **Handling** | Chalk marks counted before anything else, because the outline moves and the marks are the only record of where it used to be. Positions taken outside the wetted margin, the card not read until the outline is marked. And cleared Wardens only — cleared that week, checked at the door rather than at the roster. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on contact, or anger directed at it on purpose |
 | **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is the lodged complaints read aloud in the voices that wrote them, in no order and without end, and holds the gauge. Ferrehan is standing the interval beside it without contributing anything of your own, and lowers it. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged. |
 
@@ -140,23 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Everyone who ever lodged something in the vault and everyone named in what they lodged — four thousand and nine entries, and a disposition column with eleven lines filled.
 - **Expanded origin context:** The vault was never meant to hold anger. It was shelving, and complaints went onto it because they had to go somewhere and nothing in the procedure said where. The deposit register is entirely ordinary: a date, a hand, a grievance, and a disposition column that is blank on all but eleven of four thousand and nine lines. Nobody suppressed anything. No clerk refused a lodgement, no officer ordered the column left empty, and every complaint that arrived was shelved exactly as the rules required. The rules simply did not provide for the column ever being filled, and after sixty years of correct filing the vault had something in it that cast a shadow with no body above it.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A man-shaped darkness on the floor of the Alpha Tree vault with clear air above it, crimson light running off it in drips that scorch, and a floor that has not been dry…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Lodged complaints, read aloud in the voices that wrote them, in no order and without end. Gauge holds. | Stable · Common |
-| **Ferrehan** | Standing the interval beside it without contributing anything of your own. Wardens describe the difficulty as entirely internal. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the chalk marks counted, the outline marked where it now is, the damp reading outside the wetted margin, and the infirmary clearance of the Warden dated within the week. |
+| **Handling** | The watch counts the chalk marks before anything else, marks the outline where it now is, and takes the damp reading outside the wetted margin. |
+| **Withdrawal** | **Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged** — and a cycle that ends with the margin past the chalk is entered as an overrun, not as a close. |
+| **Refusal** | Reads the lodged complaints aloud in the voices that wrote them, in no order and without end, and keeps every voice in the room level. |
 
-
-### Operational Work Notes
-
-Two responses apply and both are conducted from outside the wetted margin. Ferrehan is the one that moves the gauge, and what it asks for is standing the interval without adding anything of your own — Wardens describe the difficulty as entirely internal because the vault gives back nothing to push against. Viderehan reads the lodged grievances in the voices that wrote them and holds the gauge where it is. The reading is not a re-opening of the complaints and does not require anyone to answer them. Flerehan has no purchase because there is nobody here to address, and Pugnahan is barred twice over, since the room has already shown what raised voices do to the grade. Neither valid response shrinks the store: the gauge falls when the room has been kept quiet, not when the sorrow has been taken anywhere.
-
-**Reading the response:** A falling gauge means the vault has been held quiet for its length. It does not mean the grievances were answered or that the holding is smaller. The store is the same size at 0 % as at 45 %, and the card is read the same way on both days. What rises is the grade, and the grade rises against the Discipline Office's return rather than against anything the crew does in the room. When the card and the return disagree, the card is recorded as taken and the return is recorded as late, and both entries stand.
 ## Activation Behavior
 
 > **Special activation — no counter.** The file's own line: *"contact, or anger directed at it on purpose"*.

@@ -78,7 +78,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
 | **Sorrow Gauge [Saturation]** | **000 of 240** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only — sight reading for the fragments of purpose, endurance for the weatherless cold |
 | **Location** | The Desolate — one marked site, revisited rather than followed |
 | **Resolution Condition** | Mark the site and speak the farewell that was missed, in the exact words, and let the gauge fall below 25% |
 
@@ -136,23 +135,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One traveller, frozen in the Desolate while carrying something nobody else could name. The Keepers hold the recovery report and the kit list. The kit list has an entry reading one object, unidentified, retained — and that entry, rather than the body or the cold, is what this record is made of.
 - **Expanded origin context:** The entire documentary basis is two sheets: a recovery report that identifies the body by route and date, and a kit list. The kit list carries one line reading *one object, unidentified, retained*, and that line, rather than the death or the cold, is what this record is made of. Nothing further was written at the time, nobody who could have identified the object survived the crossing, and the four reconstructions produced by later researchers are held in a sealed appendix as examples of what not to file.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** An outline of an absent object, held in frost, at one site at a time. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows fragments of the relic's unknown purpose. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can remain in the cold without answers. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the grid reference, the distance to the nearest abandoned camp, and the expedition office's list of unidentified items currently held — the third item on that list is collected before departure and never reconstructed afterwards. |
+| **Handling** | There is nothing in the outline to work against. The observer shows fragments of a purpose the archive cannot complete. The stander is standing in weatherless cold without obtaining an answer, which teams report as the hardest endurance posting in the Desolate rota. — see `## Handling Process` |
+| **Withdrawal** | The site is marked, the farewell is spoken and written down in the exact words, and the gauge falls below 25%. Nothing is recovered and nothing is explained. |
+| **Refusal** | Two hypothermia cases and four reconstructions that should not have been drawn — the whole of the incident record. |
 
-
-### Operational Work Notes
-
-Apocrypha is an Object/Place with Place-Void manifestation and Void expression, present at nine surveyed Desolate sites and worked at whichever one is currently cold. Viderehan shows fragments of a purpose the archive cannot complete and moves nothing. Ferrehan is standing in that cold without an answer. Nothing is dug, lifted or thawed at any stage, and no reconstruction of the object may be sketched, entered or circulated.
-
-**Reading the response:** A falling reading means the site was marked and the farewell spoken, or that an item of unclaimed property was given a meaning in the effects file. Stability under Viderehan is correct. The reading rises with each object entered as unidentified and left at that, and it has risen during expeditions in which this record was not visited at all.
 ## Activation Behavior
 
 > **Special activation — no counter.** Failure is the activation, and what it produces is another site rather than a breach.

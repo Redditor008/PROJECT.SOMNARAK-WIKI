@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A bound volume on a lectern, weighted shut, the cover the only thing between it and a reader. It cannot move and cannot reach; the ink is the contact. |
 | **Perceptible to** | The handwriting first — the reader recognising the hand before the content is read, which in 188 of 411 cycles they named correctly and in 41 of those it was their own. Then the account itself, which is in the first person and in somebody else's voice. |
-| **Handling** | Cover weighted shut and never used to assess the threat. Nobody reads it and nobody looks over a reader's shoulder. The standing order says nothing is read aloud, and six occasions on file are six workers who thought it might help. |
+| **Handling** | Cover weighted shut and never used to assess the threat. Nobody reads it and nobody looks over a reader's shoulder. The standing order says nothing is read aloud, and six occasions on file are six workers who thought it might help. — see `## Handling Process` |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, and neither requires the text. Viderehan reads the object closed — line counts, ink distribution, the pattern of blanks across readers. Ferrehan settles the writing rate around a party that completes a full cycle in the cell without disturbing the cover. |
 | **Location** | SECTOR-C-906 |
 | **Resolution Condition** | The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up. |
 
@@ -141,18 +140,16 @@ It was found in a reading room above a scrivener's premises, shelved among forty
 
 Containment took fourteen hours and has held for thirty-one years without a single excursion, which makes this one of the quietest holdings in the wing by every operational measure the facility keeps. Nothing about the difficulty of this file is operational. The protocol for a book is a weighted cover; everything after that is about what the thing says and to whom.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Count and measure it from the outside — line counts, ink distribution, the pattern of blanks across successive readers — and never open it. The whole reading is available closed, and no page has to be read for any part of it. | Decrease · High |
-| **Ferrehan** (Endurance) | Complete a full cycle in the cell with the cover down and weighted. The writing rate settles, and the endurance is spent leaving the book alone while it fills. | Decrease · Common |
+> **This holding is not worked.** A bound volume on a lectern, weighted shut, the cover the only thing between it and a reader. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Grimoire is an Object with Object-Tale manifestation and Grudge expression, held at SECTOR-C-906. Flerehan and Pugnahan are unavailable to an Object. Both valid Work Types lower the gauge and neither requires contact with the text, which is the single most important sentence in this file and is the reason it appears twice.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the page count across two successive readings, the cover weighted and undisturbed, and whether anybody present has an outstanding complaint of their own. |
+| **Handling** | The watch takes the page count across two successive readings with the cover undisturbed, and sets the camera before the first count rather than after it. |
+| **Withdrawal** | **The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up** — and no cycle on this holding has ever required the book to be opened. |
+| **Refusal** | Leaves the cover down. No read-aloud, no assessment from the text, and no second reader at a shoulder — the standing order is checked at the door rather than trusted at the lectern. |
 
 ## Expansion Behavior
 

@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A flickering shard of Dream that will not settle, shifting between the shape of a room, a face, and a single warm tear hung in the air. Never quite solid and never quite not; salt-damp, and it smells of somewhere the observer has already been. |
 | **Perceptible to** | The showing first, at the drift edge, in whatever the observer has brought with them. And the sheet, which carries the observer's name before it carries anything else. |
-| **Handling** | One Warden at a time, each writing down what they saw before any of them speaks, and every sheet in the tin before any account is compared. A Warden who comes close is stood down for the return, and nobody works out what the showing is toward. |
+| **Handling** | One Warden at a time, each writing down what they saw before any of them speaks, and every sheet in the tin before any account is compared. A Warden who comes close is stood down for the return, and nobody works out what the showing is toward. — see `## Handling Process` |
 | **Activation threshold** | No breach counter. The shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
 | **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the dream's framing through — a plan half laid out, rooms off a corridor that stops — and does not move the gauge. Ferrehan is remaining inside one image while it repeats, which Wardens describe as sitting in somebody else's unfinished afternoon, and it lowers the gauge. |
 | **Location** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | Sheets collected before conferring — the only close a Rem cycle has. |
 
@@ -141,23 +140,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One dreamer, dead before the thing was done, and no second person. Nobody else knew what the dream was toward, which is why nobody could finish it and why this file exists.
 - **Expanded origin context:** What the dreamer left is a bundle of notes in their own hand, held in the order they were found, unnumbered, with a statement on the cover that the sequence is as found and may not be the sequence they were written in. The notes stop mid-line. Nothing in the Company's records says what they were toward, and nothing could have: a record of what a person intends is not permitted to exist here, for reasons the Records Office considers settled and this file does not dispute. The shard is therefore the only surviving statement of that intention anywhere, and it is not a document. It cannot be filed, copied, cited or read twice the same way, and it ends if anybody works out what it means.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A flickering shard of Dream that will not settle, shifting between the shape of a room, a face, and a single warm tear hung in the air. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The dream's framing shows through: a plan half laid out, rooms off a corridor that stops. Gauge does not move. | Stable · Common |
-| **Ferrehan** | Remaining inside one image while it repeats. Wardens describe it as sitting in somebody else's unfinished afternoon. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the drift edge marked, the number of Wardens going in and the order they go in, and the tin empty and open before the first of them. |
+| **Handling** | The watch puts one Warden at the edge at a time, with the tin open, and takes each account in writing before anything is said aloud. |
+| **Withdrawal** | **Sheets collected before conferring — the only close a Rem cycle has** — and a cycle where two accounts were compared early is entered as lost, because the agreement it produces is the one reading this holding cannot give. |
+| **Refusal** | Stops short. The standing order is not to work out what the showing is toward, and a Warden who does is stood down for the return rather than talked through it. |
 
-
-### Operational Work Notes
-
-Read the responses against the classification. Rem is filed as an Object/Place with a Dream manifestation and a Lament expression. And each of those words does work at the drift: an Object cannot be emotionally engaged and a Place cannot be confronted. So Flerehan and Pugnahan are not merely ineffective on this holding — they are inapplicable. And the file records that neither has ever been attempted. What remains is the pair the Gates watch actually runs. Viderehan reads the showing and leaves the gauge exactly where it was; Ferrehan stays inside one repeating image until the pressure comes off. A stable gauge is not a safe cycle here: the same watch that leaves the gauge untouched can send a Warden home with a showing they cannot stop returning to, and the sheets are the only instrument that shows it.
-
-**Reading the response:** Gauge movement on this holding measures endurance, not progress. A falling gauge means a Warden held their place inside a repeating image long enough for the pressure to come off — the showing is unchanged, the dream is still unfinished, and the drift has not moved a finger's width. A rising gauge means the cycle has been fed: somebody tried to work out what the showing was toward, which is the one thing the standing order forbids. Log the form and the interval before the gauge, because here the gauge tells you how long a person lasted and the sheet tells you what they were shown while they lasted.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**

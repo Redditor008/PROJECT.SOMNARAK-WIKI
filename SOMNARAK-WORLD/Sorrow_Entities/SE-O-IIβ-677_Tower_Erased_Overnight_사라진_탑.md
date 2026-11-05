@@ -74,11 +74,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A cleared plot in Old Lament with a tower-shaped absence standing in it: a shadow on the ground pointing nowhere, a pit deep and square and exactly the building's footprint. And a lean in the adjacent faces that the street has always had. |
 | **Perceptible to** | The shadow first, enormous and dark and pointed at whoever walks into it. Then the pit drawing at everything nearby. Then the tense — a worker who begins talking about the tower in the present tense has already failed. |
-| **Handling** | Memorialize what vanished and do not rebuild over the absence. Nothing is driven, planted or pegged inside the footprint; the three occasions on record are all surveyor's pegs. |
+| **Handling** | Memorialize what vanished and do not rebuild over the absence. Nothing is driven, planted or pegged inside the footprint; the three occasions on record are all surveyor's pegs. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; the absence takes in more of the street through architectural memory and the lean does not travel |
 | **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the rooms and the people who were removed. Ferrehan is standing in the missing tower's shadow, which the file notes amounts to standing in a street and has stopped pretending otherwise. |
 | **Location** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Memorialize what vanished; do not rebuild over the absence |
 
@@ -139,23 +138,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The residents of the tower, who were in it, and whoever they had been talking to. The commissioning file holds the demolition schedule with its notice period. The notice was short and it was legally sufficient. The schedule contains a line for resident consultation, and the line is filled in.
 - **Expanded origin context:** The schedule is the document, and the wing keeps it because it is lawful on every line. Notice was served and was legally sufficient. The consultation line is filled in. There is a signature against it. What the schedule does not contain. And what the memorial list exists to hold instead, is any record of who was in the building at the hour the work began — the occupancy column was completed in advance, from the previous quarter's register, and nobody updated it. The wing's note says the erasure was not a crime and that this is the harder fact to sit with, not the easier one.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A cleared plot in Old Lament with a tower-shaped absence standing in it: a shadow on the ground pointing nowhere, a pit deep and square and exactly the building's…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals rooms and people who were removed. | Stable · Common |
-| **Ferrehan** | Makes the worker stand in the missing tower's shadow. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the shadow's edge against the plot survey, the two depth readings from opposite sides, and the absence of any peg, drive or planting inside the footprint. |
+| **Handling** | The watch marks the shadow's edge and reads it against the plot survey before the footprint is entered. |
+| **Withdrawal** | **Memorialize what vanished; do not rebuild over the absence** — and a worker who begins speaking of the tower in the present tense has already failed. |
+| **Refusal** | Keeps out from under the shadow, wears a hard cover inside the plot, and treats a strike as a falling object: cleared, dressed, and the block's landing point surveyed. |
 
-
-### Operational Work Notes
-
-The table has two rows that cannot be performed and two that amount to standing in a street, and the wing has stopped pretending otherwise. The variable that moves this holding is not in it: it is whether anything is standing inside the footprint. Eleven years of watch sheets show the volume steady to within two per cent on every reading taken over an empty plot, and every one of the three activations on file began with a peg in the ground.
-
-**Reading the response:** Read it in the air and in the street. A falling gauge presents as thinning — the density in the volume dropping toward the ambient, the shadow on the ground losing its edge, the sense of weight overhead easing. The pressure drops and the tower is still gone; nothing has been given back, and the unfinished conversations stay unfinished. A rising gauge presents as **presence**. The gap acquires floors. Observers begin to feel the building rather than its absence, start describing it in the present tense, and find themselves looking up at a particular window. That is the warning, and it is the state in which somebody proposes putting something there — which is the single prohibited remedy on this holding and the one most frequently suggested by people who mean well.
 ## Expansion Behavior
 
 | Field | Detail |

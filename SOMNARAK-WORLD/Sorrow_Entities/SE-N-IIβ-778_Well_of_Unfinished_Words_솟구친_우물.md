@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A stone well-head set in the ground at Zone E with its coping worn smooth and its shaft full to a level that can be read against a mark. The structure does not move; the water does, and only while a person is speaking into it. |
 | **Perceptible to** | The level first, against the mark on the coping. Then the cold coming up out of the shaft and the lean of the surrounding walls, which tracks the level and is visible from outside the chamber. The grief in the water is read, not felt, until a worker is close enough to be heard. |
-| **Handling** | The level is established against the mark before anybody speaks, and the session is the listening. Nobody interrupts, nobody finishes another person's sentence, and nobody calls time on a testimony that has not ended. |
+| **Handling** | The level is established against the mark before anybody speaks, and the session is the listening. Nobody interrupts, nobody finishes another person's sentence, and nobody calls time on a testimony that has not ended. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on leaning over the stone coping and whispering an unsaid confession |
 | **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grief embedded in the water and holds the level. Ferrehan requires the worker to remain and listen without interrupting, and a fall under Ferrehan means a testimony reached its own ending. |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Allow testimony to finish; do not drain the Well |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Border mourners who gathered to speak about their dead and were dispersed before the first of them had finished. The Keepers' record carries the number who were present and not one of the names, because the gathering was broken up before anybody was asked for one.
 - **Expanded origin context:** The archive cross-references this entity's sorrow with Zone E, Border region — the same Han density, the same Lament signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Object/Place is not going anywhere.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A stone well-head set in the ground at Zone E with its coping worn smooth and its shaft full to a level that can be read against a mark. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the grief embedded in the water. | Stable · Common |
-| **Ferrehan** | Requires the worker to remain and listen without interruption. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the water level against the coping mark, the lean of the surrounding walls, and which worker will be at the coping when the speaking starts. |
+| **Handling** | The watch establishes the level against the coping mark before the first word, and notes the lean of the surrounding walls, which is visible from outside. |
+| **Withdrawal** | **Allow testimony to finish; do not drain the Well** — and a session that ends any other way carries its risen level into the next one, which is the whole of the Well's response. |
+| **Refusal** | Does not strike it, does not overfill it, and does not drain it at any gauge short of a sealed room. |
 
-
-### Operational Work Notes
-
-**Two of the four responses are unavailable and the table is read in that light.** Nothing is consoled here and nothing is confronted. The Well takes Viderehan and Ferrehan and answers neither on the day. The instrument is the level against the coping mark. And it moves only while somebody is speaking: a stable reading under Viderehan means the grief in the water was read and seen, which is what that approach is for. And a fall under Ferrehan means a testimony arrived at its own ending. A rising level is the holding's one alarm. And it means somebody interrupted, completed another person's sentence for them, or called time — the third of those most often of all, since a session closed by the clock is an interruption whether or not the log describes it as one.
-
-**Reading the response:** A falling level under Ferrehan means a testimony reached its end without being cut into. A stable level under Viderehan means the grief in the water was read and seen, which is the correct outcome for that approach and is not a failed session. A rising level means somebody interrupted, finished another person's sentence for them, or called time.
 ## Activation Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"leaning over the stone coping and whispering an unsaid confession"*.

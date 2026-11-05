@@ -69,11 +69,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A massive lock of dark memory-crystal sealing a vault with no public entrance, keyhole sealed, mechanism fused, the clouded recollections inside turning continuously with no observed period. The face is cold and smells of ash; touching it is not the hazard and the file says so. |
 | **Perceptible to** | The turning inside the crystal, visible at the keyhole and at the plate. Then the ash and the flat cold. And, in the worker, the beginning of a case for authorised access. |
-| **Handling** | Not opened, not forced, and not instrumented beyond the plate photographs. The key is not touched and the vault is not entered; the five recorded cases are all workers who began offering to help. |
+| **Handling** | Not opened, not forced, and not instrumented beyond the plate photographs. The key is not touched and the vault is not entered; the five recorded cases are all workers who began offering to help. — see `## Handling Process` |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
 | **Sorrow Gauge [Saturation]** | **000 of 660** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the plate and the marks; Ferrehan stands the watch without attempting the seal. The key the Lock keeps turns for those two Work Types and for nothing else. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault |
 | **Resolution Condition** | The worker stands before the seal, does not attempt to open it, and the gauge falls below 25 per cent of its own accord. Nothing is loosened by a good cycle and nothing is meant to be. |
 
@@ -131,23 +130,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Generations of Keepers, named on the sealing instrument, all of them long dead. Nobody who signed is available to be asked what they were sealing, and no deputy, successor office or surviving note records it.
 - **Expanded origin context:** The sealing instrument survives in full and the contents do not survive anywhere outside the vault. It is three pages: an authority, a list of signatories, and the criteria applied. The criteria are the problem. They are vague in the way documents are vague when everybody involved knows what is meant — *material whose circulation would destabilise the city* — and they were written by people for whom that phrase had a referent. The referent is gone. What the archive holds is a correctly executed instrument sealing an unknown, and the archivist's commentary says that this is not a scandal but the ordinary fate of any secret kept long enough.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A massive lock of dark memory-crystal sealing a vault with no public entrance, keyhole sealed, mechanism fused, the clouded recollections inside turning continuously…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reveals the nature of what it protects. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can stand before a secret without opening it. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the plate photographs against the last set, the marks at the face, and the worker's name against the access register, taken before anybody stands at the seal. |
+| **Handling** | The observer reads the plate and the stander stands the watch. No cycle attempts the seal, no cycle instruments the keyhole, and every offer of help with the engineering assessment is written down as an exposure rather than accepted as a plan. |
+| **Withdrawal** | **The worker stands before the seal, does not attempt to open it, and the gauge falls below 25 per cent of its own accord** — the gauge is what closes the watch. And the fact that nobody opened anything is what the entry records. |
+| **Refusal** | Nothing is forced and the key is not touched. The watch is worked from the plate and closes on the gauge, not on an attempt. |
 
-
-### Operational Work Notes
-
-Memory Lock is an Object/Place with Object-Void manifestation and Void expression, in the deep vault beneath the Alpha Tree. Viderehan opens the nature of what it protects — not the contents, the nature — and moves the gauge not at all. Ferrehan, which is standing in front of a secret without opening it, is the only Work Type that lowers it. The Registrum entry naming Viderehan as the only valid approach is an error of long standing and is corrected here.
-
-**Reading the response:** Read it in the hardness and the whisper rate together. A falling gauge presents as quiet — fewer marks, the clouding settling, the plate unchanged. A rising gauge presents as interest, and interest is the hazard: the hardness comes up, the whispering increases, and the worker begins to find the question genuinely important. Log the deviation, log the hardness, and do not log what the whispering said.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**

@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Midnight inside the tower's audible district, the consolihan anniversary, or concentrated grief concerning missing children. No breach counter is kept |
 | **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Nothing else in the set applies to a tower that sounds without being struck |
 | **Location** | SECTOR-B-01 — special tower in Zone B; contained |
 | **Resolution Condition** | The bell stays anchored in its tower. Nothing is ever moved or struck. The watch ends with a completed Ferrehan interval, standing in the assigned pair until the toll finishes of its own accord |
 
@@ -141,30 +140,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Hundreds of unnamed parents and children; the bell preserves the children's faces and, sometimes, their names.
 - **Expanded origin context:** The Director's annotation: 'This sorrow is not anomalous. It is representative. The Lament at SECTOR-B-01 is the same grief, the same refusal, the same wound. The Object/Place is what happens when the city stops pretending it doesn't hurt.'
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
-### Work Type Responses
+> **This holding is not worked.** A dark Han-crystal bell in a tower built around it, beaded with cold, its corroded surface warped into small reaching hands, ringing without being struck. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An attempted confrontation is read as trying to silence the missing, and the tolling comes down on the worker who tried. | Negative-Low |
-| **Viderehan** (Observation) | Goes quiet while watched, and the watcher sees children they have never met going about an ordinary afternoon. The gauge does not move. | Stable · Common |
-| **Ferrehan** (Endurance) | Tolls through the watch. The pair stands braced and does not leave the circle, which lowers the gauge and is the only work here that costs anybody anything. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the pair by hand against the reaching corrosion, the marks where it will stand and withdraw to, the instrument-confirmed acoustic radius, and the timekeeper posted outside the circle with the clock. |
+| **Handling** | The pair stands the toll braced. The observer records every new face position and every name heard, unaltered. The stander is the standing itself, in the assigned pair, for the duration of the toll. The confronter is never attempted and the mourner does not apply to a structure. — see `## Handling Process` |
+| **Withdrawal** | The toll finishes of its own accord, the timekeeper outside the circle closes the interval record. And the watch meets the file's documented suppression condition: **The bell stays anchored in its tower; nothing is ever moved or struck; the watch ends with a completed the stander interval, standing… |
+| **Refusal** | A refused provocation, an entry against the attempt, and nobody touching the bell again in that cycle. |
 
-### Special Behaviors
-- Midnight soundings are routine; the Consolihan anniversary runs from dusk to dawn without a full stop in it.
-- Past about three hours in the tower, personnel begin to hear names. The names go to the name log and the worker goes off the floor.
-- Faces surface, hold, and in some cases recede. The fortnightly plates are the only record of which did what.
-
-
-
-### Operational Work Notes
-
-The Orphaned Bell is an Object/Place — Lament for its manifestation, Lament for its expression — kept in its tower at SECTOR-B-01. Viderehan is conducted between tolls by crews who withdraw before the predicted window. Ferrehan is the toll itself, met standing in pair, and is the only work here that moves the gauge. Neither alters the schedule, which the bell keeps without reference to anybody.
-
-**Reading the response:** A falling gauge presents as fewer soundings over the cycle. The tone never changes and no session has ever produced silence, so a quiet week is a spacing and not a result. A rising gauge presents in the opposite direction — soundings closer together, and the toll beginning to arrive outside the predicted window — and the correct response is to vacate the tower rather than to extend the watch. Log the interval before anything else; it is the only figure here that moves for a reason.
 ## Activation Behavior
 
 > **Special activation only — no counter, no gauge.** What sets it off, per the record: *"midnight, the consolihan anniversary, or concentrated grief concerning missing children"*.

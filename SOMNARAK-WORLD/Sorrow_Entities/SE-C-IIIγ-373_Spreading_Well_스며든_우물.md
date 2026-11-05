@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A fixed stone rim in the Desolate near the Scar, its water never where it is put: thin branching channels of blue sorrow creeping away from a mouth that does not move. The stone is damp and salt-white, and the stake line is re-set at every survey. |
 | **Perceptible to** | The water first, then the cold coming off it, and then the branches, which are the reading and are staked and measured rather than followed. |
-| **Handling** | Not dammed and not bailed. The stake line is walked and renewed, the channels are never cut, and no worker follows a branch past the perimeter. |
+| **Handling** | Not dammed and not bailed. The stake line is walked and renewed, the channels are never cut, and no worker follows a branch past the perimeter. — see `## Handling Process` |
 | **Activation threshold** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels — no breach counter. |
 | **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker whose house a channel ends at; Ferrehan holds the stake line. A stable gauge is not a safe cycle here. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Acknowledge each linked site; do not dam the channels |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The scattered mourners of the Desolate, over generations, following an ordinary funerary custom that nobody recorded as remarkable at the time.
 - **Expanded origin context:** The Desolate buries nobody near anybody. Its settlements are far apart, its dead are seen to alone. And its funerary custom was accordingly a custom of the solitary: the mourner poured their tears into the ground at the graveside, which was understood as sending them to whoever else was grieving that season. It was a figure of speech. It was performed by a great many people across a great many years at a great many separate places, and at some point the figure of speech stopped being one. What the channels do now is what the custom said they did, and the district has never once treated that as a horror. The Well is what happens when an ordinary thing is done often enough and nobody is nearby to see the total.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A fixed stone rim in the Desolate near the Scar, its water never where it is put: thin branching channels of blue sorrow creeping away from a mouth that does not move. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reads a channel: the grief it is carrying, the site it left, and the end it is running toward. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can follow a grief to its destination without walking there. Lowers the gauge, and is the only approach that does. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the stake line against last survey, the count of branches, and the buildings any branch runs toward, all taken before the ground is walked. |
+| **Handling** | The watch the stake line is walked at the start of every survey, the new ground is measured against the last survey, and the branch is never cut to see where it goes. |
+| **Withdrawal** | **Acknowledge each linked site; do not dam the channels** — and the acknowledgement is entered against the site rather than against the worker, because the grief is the site's and not theirs. |
+| **Refusal** | Nothing is lifted out of the channels and nothing is built across them; the site is acknowledged and left where it is. |
 
-
-### Operational Work Notes
-
-Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament manifestation, Lament expression, O-Relic tool class, in the Desolate near the Scar. Flerehan and Pugnahan are Negative-Low because a Place can be neither grieved with nor fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while showing the worker whose house a channel ends at.
-
-**Reading the response:** Read the seep rate at the rim and the stake line. A falling gauge presents as the seep easing and the channel sound dropping below audibility. A rising one presents as new channel ends, which are permanent. Nothing about the surface or the smell is an indicator and both have misled teams.
 ## Activation Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels"*.

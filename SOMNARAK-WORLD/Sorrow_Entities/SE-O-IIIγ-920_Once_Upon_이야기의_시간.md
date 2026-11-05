@@ -74,11 +74,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | An hour during which every forgotten story told within a kilometre becomes briefly, viscerally real — characters in the streets, narrators in the empty rooms, endings in the air. The hour opens the same way every time, from whichever room is listening. |
 | **Perceptible to** | A voice in an empty room beginning *once upon a time* and not stopping there. Then the street filling with everyone the district forgot, and a character using a worker's name as though it had always been in the story. |
-| **Handling** | Sit the hour out at the perimeter and write down what is told, checking the list against the register at the close. Any new story is entered with the date and whoever recognised it, and the nine entries with no recogniser are kept and marked as such. |
+| **Handling** | Sit the hour out at the perimeter and write down what is told, checking the list against the register at the close. Any new story is entered with the date and whoever recognised it, and the nine entries with no recogniser are kept and marked as such. — see `## Handling Process` |
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Both are run from the perimeter: observation makes the tale pressure legible, and endurance is sitting the hour in full. The figure that actually moves the gauge is how many tellers are named aloud during the hour. |
 | **Location** | SECTOR-O-920, contained |
 | **Resolution Condition** | The hour ends, the list is checked against the register, and any new story is entered with the date and whoever recognised it. Nine entries have no recogniser and are marked so. |
 
@@ -144,18 +143,16 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The Event:** A junior researcher on Floor 4 put the sector's Lament trace beside the district's old story-collection and found that the trace rose on the anniversaries of the tellings. Fourteen such matches were established before the pattern was accepted and the list has not grown since.
 - **The People:** The tellers, who are not identifiable, and the listeners, who are. Nine of the stories in the register are recognised by nobody now living in the district. The rest are remembered by somebody, usually one person, usually elderly, and the archive has their names.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Records the manifestations and names the tellers available in the district register. The hour cannot be struck or shortened, so what observation produces is the list of who could tell it. | Decrease · High |
-| **Ferrehan** (Endurance) | The party stays the hour inside the radius and takes what the others in the radius get: the certainty of having been left out of the story. Nothing else the hour offers is available to anybody who was not told one. | Decrease · Common |
+> **This holding is not worked.** An hour during which every forgotten story told within a kilometre becomes briefly, viscerally real — characters in the streets, narrators in the empty rooms, endings in…. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-The table lists two Work Types and the useful figure is not in it: the gauge falls in proportion to how many tellers are named aloud during the hour. The correlation holds across all 94 hours and is the reason the register is kept by the district rather than by the wing — the names come from people who were there, and the archive has never been able to supply one itself.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the register page opened before the hour, the perimeter line, and the recorded pronoun baselines for everybody on the watch. |
+| **Handling** | The watch starts the register page before the hour, and writes the opening line down as it is said rather than afterwards. |
+| **Withdrawal** | **The hour ends, the list is checked against the register, and any new story is entered with the date and whoever recognised it** — and the entries with no recogniser stay in, marked. |
+| **Refusal** | Keeps every worker outside the story's line, and does not answer a narrator or correct a character. Telling a story is the failure here and it is not a figure of speech. |
 
 ## Containment Event Behavior
 

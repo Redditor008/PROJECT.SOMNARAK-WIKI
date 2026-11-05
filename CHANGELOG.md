@@ -2,6 +2,29 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — handled, not worked
+
+**`R-40` is finished: 143 of 143 relic dossiers carry `## Handling Process`.**
+
+- **The Work Type tables are gone from every relic.** At the start of the batch **131** relic
+  dossiers still carried four Work Type rows with two of them blanked; the ratchet is now **0**.
+- **The four stages were already in the file.** Approach is the dossier's *What is confirmed*,
+  Handling its *What the watch does*, Withdrawal its *How it closes*, and Refusal the `[**Refusal**]`
+  contact event — all four read off `### Watch Sequence`, not written from a template. Nine older
+  dossiers were written by hand from their `**Recommended response**`.
+- **`**Valid Work Types**` is deleted rather than renamed** where the Contact Record already has a
+  `**Handling**` row (82 files): renaming produced two rows with one label.
+- **Work Type names became the roles they name** — the observer and the stander — because a relic
+  offers no stage while its procedure still needs two people in it.
+
+**`R-48` §3 reads in minutes.** The wall is six doses and it runs **past two minutes**: 84 of 134
+relics above sixty seconds, **72 at two minutes or longer**, longest three at 180 s. The section
+states the count as universal and the seconds as local, and a parenthetical disowns the metres
+reading that a previous batch had answered instead of the one that was written.
+
+**`tools/auditors/how_finished.py`** now answers *how finished* with **17 counted standards** —
+**12 DONE · 5 OPEN** — instead of a gate verdict.
+
 ## Unreleased — the charge
 
 **`R-47` / `R-48` — a relic charges by the second, and the gauge is the charge.**

@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 60%. There is no breach counter on this holding, and the file says none is implied |
 | **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, two handlers present throughout, the glow graded against the card at the start and end |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |
 | **Resolution Condition** | A second person says the wearer's name and the wearer answers to it. Self-naming has never once been sufficient on this holding |
 
@@ -142,28 +141,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Citizens who removed themselves — surrendered names to the Collectors against debt, blurred their faces against the Giltong, gave up the histories last. The folder holds their applications in their own handwriting.
 - **Expanded origin context:** The applications are held unredacted, and the archivist's note explains why in one line: redacting them would complete what the applicants began. Several are countersigned by clerks who added, against no requirement, that the applicant appeared to be in fear.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** One blank mask on a tray among four held with the Masked Troupe, stationary until a named hand lifts it. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Holds the glow steady long enough to grade it against the card and to run the probe. | Stable · Common |
-| **Ferrehan** (Endurance) | The long handling under the weight, two handlers, each saying the other's name at the quarter hour. | Decrease · High |
-### Special Behaviors
-- Handled without a second person present, it ends up nearer the handler's face than it was, and the handler is the one who moved it.
-- Sympathy does nothing to it and the card does not move for it. The grade responds to the roll, not to the room's mood, which took the holding nine years to establish.
-- A name said back by somebody else ends an activation. A name said by the wearer alone has never ended one here.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the probe depth, the card grade against the printed strip, and which of the four Troupe masks is on the tray. Mirror confirmation is unavailable and is not to be attempted. |
+| **Handling** | The observer and the stander with two handlers present throughout, the glow graded at the start and the end, and nobody present unconscious, asleep or sedated — a clause enforced literally. — see `## Handling Process` |
+| **Withdrawal** | A second person says the wearer's name and the wearer answers to it, the mask goes back on the tray, both handlers can still give their own names without pausing, and the gauge closes below 25%. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 60%. There is no breach counter on this holding, and the file says none is implied — is done on purpose. |
 
-
-
-### Operational Work Notes
-
-The gauge on an object held with three others is close to meaningless and the holding says so. The figure that is kept is the card: the glow graded by eye against a printed strip at every watch, 1 to 10, two graders, mean recorded. The series has run 3.1, 4.0, 5.2 over three years and is the longest unbroken emotional measurement anybody in this facility has been foolish enough to keep.
-
-**Reading the response:** A good cycle ends with the relic in its tray, two signatures, two grades within a point of each other, and both handlers able to give their own names without pausing. The pause is the finding. It is timed.
 ## Activation Behavior
 
 > **Special activation — no counter.** Read off the file: *"contact"*.

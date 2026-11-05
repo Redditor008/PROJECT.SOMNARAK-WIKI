@@ -74,11 +74,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A fixed sector where what is described arrives with the properties stated and no others. Nothing about it is visible between cycles; the ground gets ready, and it becomes obvious that something is about to. |
 | **Perceptible to** | The lag between a spoken word and its arrival, running four to forty seconds and never once exceeding a minute — the only reliable warning the sector gives, and it is given after the mistake. |
-| **Handling** | Silence. The whole watch is kept without speaking aloud, and the inventory is walked photographically. A lower gauge does not erase a claw mark or establish that a description is safe. |
+| **Handling** | Silence. The whole watch is kept without speaking aloud, and the inventory is walked photographically. A lower gauge does not erase a claw mark or establish that a description is safe. — see `## Handling Process` |
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Observation is the silent inventory walk and the photographic comparison. Endurance is keeping the entire watch without speaking, which is the whole of the discipline this holding asks for. |
 | **Location** | SECTOR-O-930, contained |
 | **Resolution Condition** | The party leaves the sector having added nothing to it. 61 silent cycles have closed that way; four have not, and all four are in the utterance log with the teller's name. |
 
@@ -145,18 +144,16 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The Event:** A survey party camped in the sector in Year 4,227 and one of them told a story about a wolf. The claw marks are still on the tree and have been photographed every year since. They have not weathered.
 - **The People:** Eleven survey parties have passed through and four have told something. The utterance log names all four tellers, with what they said and what arrived. Three of the four have asked for their entry to be sealed and the Archive Lead has refused, on the grounds that the log is the only safety document the sector has.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the ground and the standing manifestations from a silent party on a written plan. Anything spoken in the sector is content, and the file is careful about which incidents it treats as ordinary response. | Decrease · High |
-| **Ferrehan** (Endurance) | The party works the full cycle in silence, on the written plan, and leaves without adding to the inventory. What endurance buys here is a session in which nobody told the ground anything. | Decrease · Common |
+> **This holding is not worked.** A fixed sector where what is described arrives with the properties stated and no others. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Observation is the silent inventory walk and photographic comparison; endurance is keeping the whole watch without speaking. A lower gauge does not erase a claw mark or establish that a description is safe. Close the cycle against what was already present, and record the result on paper rather than describing the task aloud.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the perimeter and the inventory photographs, the lag baseline taken on the first cycle, and the silence of everybody on the watch. |
+| **Handling** | The watch confirms the sector from the perimeter with the inventory walk, and records the lag on the first cycle as a baseline for the watch. |
+| **Withdrawal** | **The party leaves the sector having added nothing to it** — sixty-one cycles have closed that way, and the four that did not are in the log with the teller's name. |
+| **Refusal** | Speaks no description containing a person, and does not test the prohibition to see whether it still holds. |
 
 ## Containment Event Behavior
 

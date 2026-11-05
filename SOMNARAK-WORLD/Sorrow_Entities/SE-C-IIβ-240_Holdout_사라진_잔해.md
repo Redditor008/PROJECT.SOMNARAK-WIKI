@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A resolved outline in a vault where the ruin used to stand, and stones returning into the old survey's positions inside it. The shape of what was there still presses on the air, and the foundation beneath is smooth, old and exposed. |
 | **Perceptible to** | The shape of a ruin that is not there, then the pacing — long-serving wardens walk the rooms out unconsciously, and the briefing asks them to notice rather than to stop. |
-| **Handling** | Memorialise the structure and do not reconstruct a version of it. No plan is filed for the site, not even a sketch, because all three of the recorded returns followed a written proposal filed elsewhere in the building. |
+| **Handling** | Memorialise the structure and do not reconstruct a version of it. No plan is filed for the site, not even a sketch, because all three of the recorded returns followed a written proposal filed elsewhere in the building. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on a properly made decision that nobody affected could speak to |
 | **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rooms in order with the people who used them. Ferrehan is staying inside the resolved walls for the interval, knowing they go when the watching stops. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Memorialize the structure; do not reconstruct a false version |
 
@@ -142,23 +141,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One hundred and forty residents of a tenement that came down during an Alpha Tree stabilisation, displaced without representation of any kind, because this Company does not consult.
 - **Expanded origin context:** The commissioning file is unusually complete: the engineering assessment, the works order, the stabilisation schedule, the displacement list of 140 names, and the dissent file — thirty-one written statements lodged afterwards by people whose homes had already gone. Every document in it is correct. The archivist's note observes that the assessment has been checked three times and holds, and that the dissent file has, on the Office's own record, been read twice.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A resolved outline in a vault where the ruin used to stand, and stones returning into the old survey's positions inside it. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The rooms, in order, with the people who used them and what each was for. Gauge does not move. | Stable · Common |
-| **Ferrehan** | Staying inside the resolved walls for the interval, knowing they go when you stop. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the footprint against the old survey, the foundation readings taken separately, and the absence of any proposal for the site anywhere in the building's paperwork. |
+| **Handling** | The watch surveys the footprint against the old survey and records which positions stand empty, before anything is said about the site. |
+| **Withdrawal** | **Memorialize the structure; do not reconstruct a false version** — and an unworked quarter adds stones to the footprint, which is the only growth this holding has. |
+| **Refusal** | Records the return as a noise event, checks hearing and breathing on everybody inside the footprint, and does not go looking for crush injuries that the record says do not occur. |
 
-
-### Operational Work Notes
-
-The Work Type table reads normally and the number the vault keeps is the stone count. Four to thirty-one in nine years: each arrival follows a demolition elsewhere in the city within about a fortnight, and each departure follows a memorial reading in the footprint. Nothing else has moved it.
-
-**Reading the response:** A falling reading means somebody said what the building was for, out loud, standing in its outline. It rises on clearance announcements, on proposals for the ground, and on the Alpha Tree's own works schedule.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Filed trigger: *"a properly made decision that nobody affected could speak to"*.

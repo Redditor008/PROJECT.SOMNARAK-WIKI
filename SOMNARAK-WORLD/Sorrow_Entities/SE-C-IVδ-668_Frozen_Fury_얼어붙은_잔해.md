@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A fragment of a ruined building in black crystal, standing in a frozen bay on Collector's Row that sits under Forge heat it should not be cold in. It cannot be moved; what varies is the luminance along the fracture edges. |
 | **Perceptible to** | The luminance first, read in darkness against a step wedge at one metre and worthless from any other position. Then the cold, and the crimson along the fractures that gives no warmth at all. |
-| **Handling** | Bay lights killed for the reading, the step wedge set at one metre, nothing touching the fragment. It is read weekly and the two engineering attempts to shift it are not repeated. |
+| **Handling** | Bay lights killed for the reading, the step wedge set at one metre, nothing touching the fragment. It is read weekly and the two engineering attempts to shift it are not repeated. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on touch or attempts to move the ruin |
 | **Sorrow Gauge [Saturation]** | **000 of 880** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads what is under the ruin and holds the reading flat. Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away, and is the row that lowers the gauge. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | Read the edges weekly — the only close a Frozen Fury cycle has. |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The residents of the cleared district, held in an open register compiled from municipal rolls, tenancy records and family submissions. It is incomplete and says so on its first page. Submissions are added without verification where verification is impossible, the standing instruction being that the burden of proof will not fall on the families of people the city failed to write down properly.
 - **Expanded origin context:** The district was cleared over nine days by Collector contractors acting under a Row warrant, and the residents are unaccounted for. The municipal entry for the clearance, which is the only official account, runs to one sentence and is written without an agent: the district was vacated and the structures came down. Both halves are true. Neither names anybody, and the subsequent tenancy notes describe the former residents as having abandoned their premises, which on the dates given they could not have done. The fragment is what was left standing at the corner of the ninth day.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A fragment of a ruined building in black crystal, standing in a frozen bay on Collector's Row that sits under Forge heat it should not be cold in. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the history beneath the ruin. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can remain among absent lives. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the luminance against the step wedge at one metre, the cold beneath Forge heat, and the state of the register that stands next to it. |
+| **Handling** | The observer reads what is under the ruin and keeps the reading flat, the stander stands among the absent lives without tidying them, and the step-back across the margin is taken by the bearer before it is taken by the duty officer. |
+| **Withdrawal** | **Read the edges weekly — the only close a Frozen Fury cycle has.** Any other ending is the margin being crossed and logged. |
+| **Refusal** | The sentences that read brightest are logged against the reading; the register is not corrected to balance them. |
 
-
-### Operational Work Notes
-
-The table is the whole method, and it is short because the holding is narrow. Frozen Fury is filed as an Object/Place — Object-Grudge for its manifestation, Void for its expression — held in the frozen bay on Collector's Row. And the two valid approaches are the two that do not require the object to be a person: Viderehan reads what is under the ruin. And Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away. A steady reading is not the same as a quiet cycle here. Viderehan holds it flat by design and still leaves the observer with a register of names they would rather have not read.
-
-**Reading the response:** A falling reading means the week's paperwork named an agent. Stability under Viderehan is correct. The edges brighten on documents that describe the district as vacated, abandoned, or emptied with nobody doing the emptying, and the two brightest readings on record both followed entries that were, grammatically, entirely proper.
 ## Activation Behavior
 
 > **Special activation — no counter.** Read off the file: *"touch or attempts to move the ruin"*.

@@ -127,10 +127,15 @@ class ShippedTree(unittest.TestCase):
         self.assertEqual(pct, [], '%d dossiers still print a percentage' % len(pct))
 
     def test_the_palette_is_bigger_than_what_is_in_use(self):
+        # Measured on the cells, not on the (Viderehan, Ferrehan) pairs: R-40
+        # took the Work Type table off every relic, so the pair count now
+        # measures how many *subjects* the corpus has, which is not the claim.
+        # The claim is that the alphabet has more combinations than the corpus
+        # uses, and the grammar fixes that at five cells by five tiers.
         _, _, dist = pref.measure()
         self.assertGreater(len(dist), 5)
-        pairs = {(v[2], v[3]) for v in dist}
-        self.assertGreaterEqual(len(pairs), 4)
+        cells = {c for v in dist for c in v[2:]}
+        self.assertLess(len(cells), len(pref.GOOD) * 5)
 
 
 class TheTierLadder(unittest.TestCase):

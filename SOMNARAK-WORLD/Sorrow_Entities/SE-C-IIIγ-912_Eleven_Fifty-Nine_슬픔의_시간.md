@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A district interval rather than a clock's body: the public dial stays at the named minute while external timepieces run on. At three o'clock everybody awake in the sector is thinking about somebody, and so is everybody else. |
 | **Perceptible to** | The convergence first — two people in different rooms writing down the same sentence — then the localisation, when the hour belongs to one person in the room and everybody else is remembering their dead. Nobody has ever reported the onset as unpleasant. |
-| **Handling** | Notification given and the hour sat through in place. The roster is built to keep the recently bereaved off it and has failed nine times. Nothing shortens the hour, and no response has ever changed it. |
+| **Handling** | Notification given and the hour sat through in place. The roster is built to keep the recently bereaved off it and has failed nine times. Nothing shortens the hour, and no response has ever changed it. — see `## Handling Process` |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time and the other two are unavailable to it. Viderehan reads the convergence as a series; Ferrehan is sitting the hour through in place, which lowers the carry and does not shorten anything. |
 | **Location** | SECTOR-C-912, contained |
 | **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. No response shortens the hour. Notification given, and the hour sat through in place. |
 
@@ -146,18 +145,16 @@ Time is the medium rather than the subject. There is no object to point at, no s
 
 What is certain is that the effect is cumulative and that the cumulation is in the person rather than in the entity. The hour does not grow. The people in it do not recover fully between hours, and the point at which somebody can no longer separate their own grief from the district's is reached by exposure count and not by severity.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Read the hour from two places at once against the same wall clock. The content resolves to one grief held identically by every observer. Corroboration is the finding — a single account is not evidence of anything, and the archive has never accepted one. | Decrease · High |
-| **Ferrehan** (Endurance) | Stay where the hour found you and do not work through it. The pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. | Decrease · Common |
+> **This holding is not worked.** A district interval rather than a clock's body: the public dial stays at the named minute while external timepieces run on. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament manifestation, Lament expression, recorded at SECTOR-C-912 and occurring across the Mantle Commons. Flerehan and Pugnahan are unavailable to a Time. Both valid Work Types lower the gauge and neither shortens the hour, which is the distinction this file exists to make.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the public dial against external timepieces, two observer positions at opposite ends of the sector, and the bereavement check on the roster. |
+| **Handling** | The watch marks the onset minute from two positions at opposite ends of the sector, and enters the notebooks separately before either is read. |
+| **Withdrawal** | **Notification given, and the hour sat through in place** — no response shortens the hour, and the drain stops of its own accord at the hour's end. |
+| **Refusal** | Notification given and the hour sat through in place. The roster is built to keep the recently bereaved off it and has failed nine times. Nothing shortens the hour, and no response has ever changed it. |
 
 ## Containment Event Behavior
 

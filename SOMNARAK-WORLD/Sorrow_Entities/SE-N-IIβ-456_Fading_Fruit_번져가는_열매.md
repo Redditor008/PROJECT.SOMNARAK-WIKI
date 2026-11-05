@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A garden of heavy fruit at Collector's Row where every fruit set on the branch is matched by an empty stem — four thousand one hundred and nineteen of each in the worst season on file. A lean season shows the finest garden, and the count is what identifies it rather than the look of the trees. |
 | **Perceptible to** | The set count first, taken at the fall against the empty stems, which have always matched it exactly. Then, for a worker standing in the rows, the specific thing they earned and never received, arriving without being looked for. |
-| **Handling** | Hands kept down for the hour, nothing picked, the desire acknowledged aloud with no fulfilment promised, and the set count and the stem count taken and reported side by side rather than as one figure. |
+| **Handling** | Hands kept down for the hour, nothing picked, the desire acknowledged aloud with no fulfilment promised, and the set count and the stem count taken and reported side by side rather than as one figure. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; seasonal footprint expansion and withdrawal in place, with no breach recorded |
 | **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rows and the standing desire without promising anything, and Ferrehan is the hour stood in the garden with hands kept down. The reach, when it comes, is the reading. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | The desire acknowledged and no fulfilment promised, nothing picked, the set count and the stem count taken and reported side by side, and the gauge below 25% |
 
@@ -142,23 +141,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Forty-one debtor households of Collector's Row who dug the beds, wrote a planting agreement between themselves, and signed it. The agreement allocated the work and the harvest in equal shares, and the archivist's note records that it is careful, fair, and governs a crop that has never existed.
 - **Expanded origin context:** Nobody took the fruit and no office interfered with the garden. Three surveys have confirmed it and the ledger offices across the lane were never implicated in anything. What the file eventually connected it to is a practice nobody has ever called wrong: an entitlement earned by a person who owes money is applied to what they owe on the day it falls due. It is lawful, it is disclosed in every scheme's terms, it has never been disputed by anybody, and it is the reason a debtor's completion bonus is a line in a ledger rather than a thing in a hand. The holding has never responded to the planting, the households, or the four seasons they worked. The set count sat at baseline through all of it. It responds to the set-off column, which this facility did not begin publishing until Year 4207.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A garden of heavy fruit at Collector's Row where every fruit set on the branch is matched by an empty stem — four thousand one hundred and nineteen of each in the worst…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | It gives what each household wanted, in their own terms: a meal grown rather than bought, a fruit off a tree they tended, one season's eating that nobody had to be thanked for. It has never once given a grievance, and observers have waited thirty-one years for one. | Stable · Common |
-| **Ferrehan** | The posted hour in the rows at the heaviest point of the season, with the fruit at shoulder height, not picking anything. Primary Work Type for this holding. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the set count and the empty-stem count against the last full season, the four fields — desire, debt, authority, feasible action — kept apart, and the hands of everybody on the rota. |
+| **Handling** | The watch logs the stopped reach with the minute, and writes the hand returning to the side as the reading rather than as an incident. |
+| **Withdrawal** | **The desire acknowledged and no fulfilment promised, nothing picked, the set count and the stem count taken and reported side by side, and the gauge below 25%** — and a watch that ended with a fruit touched is filed as a feeding, whatever the worker intended. |
+| **Refusal** | Hands kept down for the hour, nothing picked, the desire acknowledged aloud with no fulfilment promised, and the set count and the stem count taken and reported side by side rather than as one figure. |
 
-
-### Operational Work Notes
-
-Ferrehan lowers the gauge and Viderehan holds it level; Flerehan and Pugnahan are Net-Neutral for a Place. The manifestation is Place-Grudge throughout, and the Detailed Activation Record's entry of Subject-Grudge was drift against the SECC header, the Appearance profile and the Observation Progression, all three of which have always read Place.
-
-**Reading the response:** The gauge measures one worker for one hour. The set count measures how much of what this facility's people earned was taken before they held it. They are kept in separate columns, they have never moved together, and an hour that lowers the gauge in a four-thousand season is written up as a clean hour without qualification.
 ## Expansion Behavior
 
 > **Special activation — no counter.** There is no counter and no switch: the garden's footprint expands and withdraws with the season, in place, and no breach is recorded.

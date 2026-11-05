@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A rostered shift in the Zone D Forge District that does not end for the crew on it. There is no body, no apparition and no sound. The crew works correctly, the clock on the wall is removed, and the hour the worker believes they have worked stops agreeing with the hour the station is paying for. |
 | **Perceptible to** | The sealed timepiece, and nothing else that can be trusted. The first sign is that a worker stops looking at the clock — in 611 shifts, on every worker, without exception — and after that the only reading that survives is the pair of timepieces read aloud at the door. |
-| **Handling** | Timepieces sealed at the door by the relief warden, who also writes the hour. Relief taken in person at the door with both timepieces read aloud. No unsealed clock carried in and none on the sector's walls. A worker who states their elapsed time aloud has made it worse for everybody in earshot. |
+| **Handling** | Timepieces sealed at the door by the relief warden, who also writes the hour. Relief taken in person at the door with both timepieces read aloud. No unsealed clock carried in and none on the sector's walls. A worker who states their elapsed time aloud has made it worse for everybody in earshot. — see `## Handling Process` |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, and both shorten the subjective span without altering the elapsed duration. Viderehan makes the weight legible as a reading rather than as a feeling. Ferrehan is sitting the hour out at the marked distance without letting the crew's own account of it become the record. |
 | **Location** | SECTOR-C-915, contained |
 | **Resolution Condition** | The rostered hour elapses and the crew leaves. 611 shifts; the elapsed hour has never varied by a second and the subjective span has run from four hours to just under nine. |
 
@@ -142,18 +141,16 @@ The sorrow here is specific and is not the ambient Weight that saturates the cit
 
 It does not rage and does not weep. It persists, and the persistence is the whole mechanism: a shift that will not end, in a district whose output the facility requires.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the sealed timepieces against the station log and the foreman’s register. The pressure is legible as the discrepancy between three clocks, not as a feeling in the room — and reconciling three clocks is itself a shift nobody is entered on the timesheet for. The gauge rises by the watch; only the shift worked to its end and entered lowers it. | Increase · Low |
-| **Ferrehan** (Endurance) | A party works the station’s own shift in front of somebody who writes the hours down. The sorrow is labour that was performed and not counted, so the endurance asked for is the full shift entered, and a party that leaves unrecorded has done the work for nothing. | Decrease · High |
+> **This holding is not worked.** A rostered shift in the Zone D Forge District that does not end for the crew on it. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Endless Shift is a Time holding with Time-Weight manifestation and Weight expression at SECTOR-C-915. Flerehan and Pugnahan are unavailable. Both valid Work Types shorten the subjective span without altering the elapsed duration, and no cycle in the holding's history has produced a handover. The district's output is needed, the work proceeds correctly, and that is the difficulty rather than the reassurance.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the sealed timepieces and the hour written at the door, the names on the relief roster, and the foreman's register open beside the station log for the reconciliation afterwards. |
+| **Handling** | The observer is to make the weight legible and the stander is to sit the hour at the marked distance, with the crew carrying no unsealed clock, nobody stating their elapsed time aloud, and relief taken in person at the door by an outside warden. |
+| **Withdrawal** | **Relief is taken at the door, in person, with both timepieces read aloud** — and the rostered hour has elapsed on every one of 611 shifts without varying by a second. So a shift that closed on the crew's own account of the hour is entered as unclosed. |
+| **Refusal** | Timepieces sealed at the door by the relief warden, who also writes the hour. Relief taken in person at the door with both timepieces read aloud. No unsealed clock carried in and none on the sector's walls. A worker who states their elapsed time aloud has made it worse for everybody in earshot. |
 
 ## Expansion Behavior
 

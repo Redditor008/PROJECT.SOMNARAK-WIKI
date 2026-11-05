@@ -78,7 +78,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Three ignored conditions escalate it. No gauge threshold governs the start of a watch |
 | **Sorrow Gauge [Load]** | **000 of 660** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-N-929, contained |
 | **Resolution Condition** | The watch is sat to its end and the form is filed, blank or not |
 
@@ -145,18 +144,16 @@ What crystallised here is one wound and not the city’s general ache. The commi
 
 It does not act. Across seventeen years it has taken two rooms and injured no one, and the only relationship anyone has demonstrated is between what the Warden was told to expect and what the Warden reported feeling.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Sits the room and writes down the lean, the bearing and the mass exactly as volunteered, then reads the barometer at handover, which records none of it. The file wants both numbers kept apart. | Decrease · High |
-| **Ferrehan** (Endurance) | A party takes the full watch and files the form whether or not anything leaned. The blank form is the result: three times the rate of reported lean comes from watches that went in expecting one. | Decrease · Common |
+> **This holding is not worked.** A barometric anomaly in Zone A, marked by a sense of being leaned on from behind — with a direction and an apparent weight — in a room with nobody in it. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-The weight is reported, not measured, and the archive is careful to keep those two words apart here. Both valid approaches reduce the gauge and neither depends on anything being felt: observation is the watch, endurance is sitting the full six hours of it. The only instrumented quantity in the holding is the barometer, and it has never predicted a contact.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the marker — a lean from behind with a direction and an apparent mass in an empty room — the barometer, and the form, which carries a mass column for the reason the file gives. |
+| **Handling** | The observer reads the room; the stander sits the hour. Crews work on physical line signals rather than speech, every entry is written as an estimate, and a blank form is a completed watch rather than a failure. — see `## Handling Process` |
+| **Withdrawal** | The hour ends and the Warden hands the form over while the relief reads the barometer — the file's documented suppression condition: **The watch is sat to its end and the form is filed, blank or not**. Gauge relief is not described as recovery of rooms, because the rooms were never recovered by… |
+| **Refusal** | Physical line signals instead of speech, and a session ended for the rotation on any missed signal. |
 
 ## Expansion Behavior
 

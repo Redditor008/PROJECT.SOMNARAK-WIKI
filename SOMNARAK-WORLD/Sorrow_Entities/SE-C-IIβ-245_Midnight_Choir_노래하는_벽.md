@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | Eleven painted mouths in the plaster of a load-bearing wall, closed all day and opening at midnight on the hour. In sixty-one years the first mouth has never been a minute late and never a minute early. |
 | **Perceptible to** | The first note on the hour, then the break — always inside a word rather than at the end of a line — and then the next song starting immediately. The corridor is closed at both ends before the sequence begins. |
-| **Handling** | The book is open before midnight and stays open: every count and every break word entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure attached afterwards. |
+| **Handling** | The book is open before midnight and stays open: every count and every break word entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure attached afterwards. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates at midnight, with no other trigger recorded in sixty-one years |
 | **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the sequence and holds the gauge; Ferrehan is the transcription kept through a night that does not resolve, and it lowers the gauge. Recording is not a Work Type, which is why the fourth voice is prohibited rather than scheduled. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | The night's count and every break word are entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure is attached |
 
@@ -140,23 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Those who were part-way through saying something when they were stopped — by death, by collapse, by an officer closing the room — and were never asked again. The count includes two thousand one hundred and forty bereavement statements closed unfinished in this facility's own interview register, under a rule written to spare the people giving them.
 - **Expanded origin context:** Attendance is required for the whole sequence and the reason was never written down. The corridor's own view, recorded in the Watch Record, is that a watch which may leave part-way is a watch that will leave at the hardest song. And that the one thing this holding has never done to anybody is stop listening to them part-way through.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** Eleven painted mouths in the plaster of a load-bearing wall, closed all day and opening at midnight on the hour. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Returns the night's count and the break words, verbatim. It has never returned a completed song, a singer, or an explanation, and the claim that the songs reveal historical events rests on nine break words that happened to carry dates. | Stable · Common |
-| **Ferrehan** | The whole sequence attended standing, without leaving, with the book open — including the songs that break on a name somebody in this building still answers to. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the book open and the corridor closed at both ends before the hour, the count from the previous night, and the transcriber named for the night. |
+| **Handling** | The watch has the book open and the corridor closed at both ends before the hour, and enters the count as it happens rather than after the night has ended. |
+| **Withdrawal** | **The night's count and every break word are entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure is attached** — and a night entered from memory in the morning is not a close at all. |
+| **Refusal** | Enters the name as heard and lets it stand. The entry is not softened, initialled or referred upward before it is written. |
 
-
-### Operational Work Notes
-
-The two valid rows are one posting seen from two sides. Ferrehan is the attendance — the whole sequence standing, with the book open, relief only between songs — and it is the only row that moves the gauge. Viderehan is what the attendance produces: the night's count and every break word verbatim, including the ones that name serving officers. Stability under Viderehan is not safety here. It is the correct result, and the pressure is borne almost entirely by the one worker holding the book, whose rotation is four nights a quarter for that reason.
-
-**Reading the response:** Success is a complete verbatim and an accurate count. The gauge is secondary here and has never moved in response to anything the attending party did. It moves with the length of the night, which is set before anybody arrives. A night recorded in summary is a night lost, and sixty-one years of this series exists because four generations of transcribers refused to summarise.
 ## Expansion Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"midnight, and no other trigger in sixty-one years"*.

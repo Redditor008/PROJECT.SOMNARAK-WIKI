@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A bell identical to the Orphaned Bell and completely silent, hollow and pale, with no clapper in it. It vibrates when somebody listens. In sixty-four years it has not moved from where it stands. |
 | **Perceptible to** | The quiet first — a field where sound goes in and does not come back — then the reference fork dying short of its usual distance, which is how the boundary is found and how wide it is. |
-| **Handling** | The fork is walked and the distance recorded; nobody strikes the bell to settle the question and nobody speaks at the plinth. The radius is entered against the inspectorate's name rather than the gauge. |
+| **Handling** | The fork is walked and the distance recorded; nobody strikes the bell to settle the question and nobody speaks at the plinth. The radius is entered against the inspectorate's name rather than the gauge. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on touch while saying, “I am listening.” |
 | **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker a warning that was issued, in order, and did not arrive — the folder holds two hundred of them — and holds level. Ferrehan stands the interval in the quiet without striking anything and without speaking, and lowers the gauge. |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **Resolution Condition** | Keep the fork series unbroken and the Rule of the Struck Bell enforced across the inspectorate and every district register. The 25% figure is the consequence, not the objective, on every Clapperless cycle logged. |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The shelter district that stood under it during the overflow, listed by household in the casualty return filed beside the bell's maintenance record. The holding keeps the two documents together deliberately and offers no account of how the one led to the other, because none exists.
 - **Expanded origin context:** Nothing in the bell's file is negligence. It was cast by a competent foundry, hung correctly, inspected on schedule, and the inspections were real inspections carried out by people who looked at it. Four later examinations have confirmed that no inspection of the kind performed would have found the fault, because the fault was the absence of a resonant core and the record contains no line for that. The holding does not answer to the overflow and never has. The radius sat unchanged through the inquiry, through the memorial, and through the rebuilding of the tower. It answers to serviceability certificates issued on the strength of a record rather than a test — to the signature that trusts another professional's signature, which is a decent instinct and the only thing this entity has ever measured.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A bell identical to the Orphaned Bell and completely silent, hollow and pale, with no clapper in it. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the warning that was ignored. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can remain in meaningful silence. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the fork distance against the previous reading, the boundary's width in metres, and the inspectorate's name against the quarter's series. |
+| **Handling** | The stander stands the interval in the quiet without striking anything or speaking, and the observer reads the warning the field did not carry. The fork is walked before anything is entered. |
+| **Withdrawal** | **Keep the fork series unbroken and the Rule of the Struck Bell enforced across the inspectorate and every district register. The 25% figure is the consequence, not the objective, on every Clapperless cycle logged.**. |
+| **Refusal** | The Rule of the Struck Bell is enforced across the inspectorate and every district register; nobody strikes it to settle the question. |
 
-
-### Operational Work Notes
-
-Ferrehan lowers the gauge and the endurance it tests is precise: the worker stands in the quiet field for the full interval without striking anything and without speaking. Viderehan holds level and produces the record — it shows the worker a warning that was issued, in order, and did not arrive, and the folder now holds two hundred of them. Flerehan and Pugnahan are Net-Neutral against an Object. The Registrum's claim that Viderehan was primary was not impossible, merely wrong, and crews were assigned on it.
-
-**Reading the response:** The gauge reports one worker across one interval. The radius reports what the inspectorate has put its name to. Those two numbers sit in separate columns and have never moved in step once. Supervisors are told that a session which lowers the gauge and leaves the field wider has been worked right and is recorded as a success with no note attached.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"touch while saying, “I am listening.”"*.

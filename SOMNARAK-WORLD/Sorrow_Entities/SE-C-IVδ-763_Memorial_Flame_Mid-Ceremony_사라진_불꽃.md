@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A cold absence where a memorial flame stood in the Alpha Tree vault, held at the same moment of the rite every time — the people who tended it present in the showing and not in the room. Ash settles where nothing has burned. |
 | **Perceptible to** | The memory of warmth first, which is colder than the cold. Then the draft that takes away what warmth the visitor brought with them. Then the soot, settling like black snow on surfaces that have not been hot for years. |
-| **Handling** | Complete the memorial without recreating the original flame. Nothing is relit, nothing is substituted, and the grief carried in is kept rather than adopted — the first sign the file watches for is a worker describing somebody else's bereavement in the first person. |
+| **Handling** | Complete the memorial without recreating the original flame. Nothing is relit, nothing is substituted, and the grief carried in is kept rather than adopted — the first sign the file watches for is a worker describing somebody else's bereavement in the first person. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on unfinished memorials and extinguished rituals |
 | **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the memorial and the people who tended it, held at the same moment of the rite every time. Ferrehan is staying the full entry while carrying grief that is not the worker's and not trying to make it theirs. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Complete the memorial without attempting to recreate the original flame |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The dead the rite was for, and the mourners scattered by the evacuation. The first group is partially identified from the burial returns. The second was never reassembled, and the file records three attempts to trace them, all closed.
 - **Expanded origin context:** The evacuation order survives in the Alpha Tree's own series, with its hour and its route, and the burial returns for that month survive separately. Between the two there is an order of service, found folded in the vault, written for a rite that had about forty seconds left to run. The archivist's note observes that the facility holds the instruction to leave, the list of the dead and the words that were going to be said, and not one line recording that anybody chose to stop.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A cold absence where a memorial flame stood in the Alpha Tree vault, held at the same moment of the rite every time — the people who tended it present in the showing and…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the memorial and the people who tended it, held at the same moment of the rite every time. The gauge does not move. | Stable · Common |
-| **Ferrehan** | The worker stays the full entry while carrying grief that is not theirs and does not try to make it theirs. The gauge falls, and this is the only work here that costs anybody anything. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the ash where nothing burned, the rite held at one moment, and the cold of a vault that has not been opened to weather. |
+| **Handling** | The watch confirms the site by the three things that make it this holding — the ash where nothing burned, the rite held at one moment, the cold in a vault that has not been opened to weather — and begins the entry. |
+| **Withdrawal** | **Complete the memorial without attempting to recreate the original flame** — and the completion is written as the rite finished, not as the flame restored. |
+| **Refusal** | Does not disturb the site, and treats the fall as contamination of instruments rather than as fire: lenses are cleared, intakes covered, and the reading delayed until the air has settled. |
 
-
-### Operational Work Notes
-
-Memorial Flame Mid-Ceremony is an Object/Place with Place-Void manifestation and Lament expression, held in the Alpha Tree vault. Viderehan is taken from the entry step on a timed entry. Ferrehan is standing the entry out, which is where the exposure sits. Neither advances the rite, and no session in the holding's history has moved it a single step closer to its end.
-
-**Reading the response:** A falling gauge presents as a smaller warmth differential and a scene that reads flat rather than attended. Nothing is concluded; the rite is in the same place next entry. A rising gauge presents as the scene acquiring participants — the worker beginning to feel counted among the mourners rather than present at their ceremony — and the entry is ended at that point, because what follows is a person taking on a bereavement that was never theirs to carry.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Filed trigger: *"unfinished memorials and extinguished rituals"*.

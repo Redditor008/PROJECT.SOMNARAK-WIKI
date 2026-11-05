@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly |
 | **Sorrow Gauge [Pressure]** | **000 of 880** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan from the margin, Ferrehan briefly and under screening |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Acknowledge the original conflict without assigning it to the living |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Two border families whose quarrel is older than any of them and whose original cause is not recoverable. They attend the annual review by invitation and have done so for as long as the invitation has existed.
 - **Expanded origin context:** The commissioning file holds eleven mediation records covering four generations of the two families. Every one of them is properly made and every one ends the same way: the parties were heard, the matter was discussed, no finding was made. Nothing in the bundle is unfair and nothing in it says who was right. The archivist's note observes that the eleventh record is almost word for word the first, and that neither names the thing in dispute.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A mass on affected ground, held inside a staked front; nothing about it travels and nobody bears its weight. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The history of the quarrel, in order, to anybody standing at the margin — including the parts both families have stopped telling. | Stable · Common |
-| **Ferrehan** | Holding the line briefly and heavily. The hazard is not fatigue but grievance: workers surface old wrongs of their own, and are rotated rather than asked to resolve them. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the vegetation line, the orange stain, and the state of the stakes against last quarter's survey — read from the margin, because the ground inside the front is not entered. |
+| **Handling** | The observer from the margin and the stander briefly under screening. The mediators are told what the ground is doing the same day, and that notification is part of the containment. — see `## Handling Process` |
+| **Withdrawal** | The original conflict is acknowledged without being assigned to the living, and the gauge falls below the threshold the quarter is held against. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly — is done on purpose. |
 
-
-### Operational Work Notes
-
-A stable gauge does not mean a safe encounter here, and the figure is not the leading indicator: the vegetation line is, dying back weeks ahead of a mass increase, and it was a border family that first reported it rather than the wing. Patina is an Object/Place with Place-Weight manifestation and Grudge expression, held at Zone E in border ground by a standing land agreement rather than an enclosure. Viderehan and Ferrehan only; Flerehan and Pugnahan do not apply to a Place and have never been attempted. No worker enters the affected ground for any purpose, including recovery.
-
-**Reading the response:** Read three things in this order: the vegetation line, which dies back weeks ahead of a mass increase and is the only leading indicator. The subsidence against the monuments, surveyed from the district's own network so the families can check it against a reference the Directorate does not control. And the exit screen, a conversation about something else, with the worker told beforehand that is what it is. The gauge describes the session, and a settled session with the front one marker further out is the ordinary shape of this holding.
 ## Activation Behavior
 
 > **Special activation — no counter.** The file's own condition: *bare contact with the rusted mass itself*, and there is no pedestal to stand off from.

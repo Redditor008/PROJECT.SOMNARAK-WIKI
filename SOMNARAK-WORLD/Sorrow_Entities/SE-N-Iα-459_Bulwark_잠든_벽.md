@@ -74,11 +74,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A wall squatting in the empty lot behind the fourth barrack, asleep, giving off a deep structural hum — the sound a stone makes while it dreams. The quiet reaches out from it across the lot and into the barrack yard, and six expansions are on file. |
 | **Perceptible to** | The hum first, then the settling: the wall drops a fraction in its sleep and the floor cracks where it settles. The sleep-twitch cracks mortar along four feet of the face, once, and nothing follows it. |
-| **Handling** | Presence offered and entry not forced: the full hour sat beside it, nothing asked and nothing knocked, with the gauge taken below twenty-five per cent before anybody approaches the face. |
+| **Handling** | Presence offered and entry not forced: the full hour sat beside it, nothing asked and nothing knocked, with the gauge taken below twenty-five per cent before anybody approaches the face. — see `## Handling Process` |
 | **Activation threshold** | No breach counter. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
 | **Sorrow Gauge [Saturation]** | **000 of 240** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what was available and not asked for — the fund, the rotation, the open door, the one-page form — and has never shown a refusal in thirty years. Ferrehan is the full hour sat beside it without knocking. |
 | **Location** | Zone D, Forge District — the empty lot behind the fourth barrack |
 | **Resolution Condition** | Presence offered and entry not forced: the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25% |
 
@@ -140,23 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One Forge worker, named in the barrack roll and in nothing else. No complaint, no incident, no counselling record, no application for anything. The file's note states that this is the entire documentary trace of him and that the absence is the point rather than a gap.
 - **Expanded origin context:** Nothing was withheld from him. The Forge barracks ran a hardship fund, a rest rotation and a counselling hour, all three of them well administered, none of them ever refused to anybody, every one of them available on a single-page application he never submitted. Three later reviews have confirmed that the provisions were adequate, that they were advertised, and that no officer failed in any duty. The holding has never responded to the reviews: the caliper sat at baseline through all three. It responds to the gap between the people who meet the indicators and the people who apply, a figure this facility did not begin computing until Year 4208.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A wall squatting in the empty lot behind the fourth barrack, asleep, giving off a deep structural hum — the sound a stone makes while it dreams. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | It shows what was available and not asked for: the fund, the rotation, the open door, the one-page form. It has never shown a refusal, and observers have looked for one for thirty years. | Stable · Common |
-| **Ferrehan** | The full hour sat beside it without knocking, without speaking, and without asking it for anything. Primary Work Type for this holding. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the gauge below twenty-five per cent, the chalk line as last surveyed, and the crack widths against the previous reading. |
+| **Handling** | The watch takes the gauge before approaching the face, and stands the hour at the chalk line rather than at the wall. |
+| **Withdrawal** | **Presence offered and entry not forced** — the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25%. |
+| **Refusal** | Does not knock, call or test the crack while the wall is under. Notes the four-foot run and repairs it on the next maintenance rotation. |
 
-
-### Operational Work Notes
-
-Ferrehan lowers the gauge and Viderehan holds it level, which makes Ferrehan the primary Work Type here. The Registrum named Viderehan and has been reconciled against this table. Flerehan and Pugnahan are Net-Neutral under the Object/Place Work Rule, and an earlier note in this section discussed why Flerehan calms this holding, which is a sentence about work that cannot be performed on it. The manifestation is Place-Void, matching the [VP] designation and the Void element; the Place-Lament entries were the drift and have been corrected.
-
-**Reading the response:** The gauge reports one worker across one hour. The caliper reports how far this facility's provisions sit from the people who qualify for them. Those two numbers stay in separate columns and have not moved in step once. An hour that lowers the gauge and reads deep goes into the record as a good watch with no qualification attached.
 ## Expansion Behavior
 
 | Field | Detail |

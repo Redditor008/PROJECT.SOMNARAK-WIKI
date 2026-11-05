@@ -74,11 +74,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A four-way junction in the Mantle Commons with a side to everything. The line is not painted and not built. It is a place where a resident's feet stop, and the crossing is registered and handed back to the crosser as their own reluctance. |
 | **Perceptible to** | The stop first — a road crossed ten thousand times, and the feet will not go — then the etiquette, enforced by everybody present and decided by nobody, and afterwards remembered by none of them. |
-| **Handling** | A resident from one side speaks honestly to a resident on the other about anything at all. The line is not marked, painted, paved over or officially abolished; the Commons has tried all three and the file records what each attempt cost. |
+| **Handling** | A resident from one side speaks honestly to a resident on the other about anything at all. The line is not marked, painted, paved over or officially abolished; the Commons has tried all three and the file records what each attempt cost. — see `## Handling Process` |
 | **Activation threshold** | Nine days without a board entry — the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [Saturation]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan, and the file says plainly that the table is nearly useless here. Viderehan maps the line, reveals which residents belong to which side, and shows how recently they were friends. Ferrehan is standing at the line long enough to become a neutral third presence both sides will approach. |
 | **Location** | A four-way junction in the Mantle Commons, Zone D |
 | **Resolution Condition** | A resident from one side speaks honestly to a resident on the other — about anything |
 
@@ -141,23 +140,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The residents of the junction — Gaeul Uri (가을 우리) on the grey side, Ongius Park (온기우스 박) on the gold side, friends for forty years before the line.
 - **Expanded origin context:** The Unspoken Line is the cost of hope's unevenness. Hope did not divide the city on purpose — but hope that touches some and not others creates two weathers, and two weathers, given silence, become one wound.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Maps the line, reveals which residents belong to which side, and — painfully — shows how recently they were friends. | Stable · Common |
-| **Ferrehan** | Enduring the Void-pressure long enough to remain present at the line; the worker becomes a neutral third presence both sides can approach. | Decrease · High |
+> **This holding is not worked.** A four-way junction in the Mantle Commons with a side to everything. What follows is procedure; nothing in it answers an approach.
 
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the line's position by resident report, which residents live on which side, and the neutral ground the watch will stand on. |
+| **Handling** | The watch confirms the line by asking residents rather than by measuring the junction, and records who lives on which side. |
+| **Withdrawal** | **A resident from one side speaks honestly to a resident on the other — about anything** — and the line closes by conversation, which is the only thing that has ever closed one. |
+| **Refusal** | Does not mark, paint or physically erase the seam, and re-surveys the line's bearing by resident report after any attempt that has already happened. |
 
-### Operational Work Notes
-
-The table is nearly useless here and is kept for completeness. Two of the four Work Types are invalid for a Place and the other two do not touch the mechanism: this entity is made of what people do not say to each other, and no procedure the R.D. owns can say it for them. The honest operational document for the Unspoken Line is the metres-closed board, which is not a work record at all.
-
-**Reading the response:** Measure the seam, not the gauge. Length in metres, bearing in degrees, taken from the same two marks on the fountain rim every week. The gauge has never once disagreed with the tape and the tape is four days faster. The second reading is social and is taken by the shelter-matron rather than by the R.D.: how many people crossed the junction on an ordinary Tuesday. That figure has risen from eleven to sixty-three since the register opened.
-
-Management: never clear the junction, keep the market open, and find somebody on either side with a reason to talk, because the seam grew during every evacuation and stops when somebody speaks across it.
 ## Expansion Behavior
 
 | Field | Detail |

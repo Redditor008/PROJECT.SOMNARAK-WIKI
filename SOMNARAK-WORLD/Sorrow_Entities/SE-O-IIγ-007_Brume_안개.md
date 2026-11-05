@@ -95,7 +95,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | High · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically |
 
@@ -164,30 +163,17 @@ The movement rate remains unsettled: walking pace and the stated metres-per-hour
 - **The People:** Unnamed wanderers of the open land, with no roll, no settlement of origin and no survivor to supply either. The commissioning file states the absence outright rather than letting it be inferred, and records that this entity is the only account of them that exists.
 - **Expanded origin context:** The Desolate flow survey, maintained for unrelated purposes, turns out to be the best document the holding has: the bank keeps to the flow lines, and the lines run where the crossings ran. Nothing else about the formation can be dated, and the wing has declined twice to assign it a date for the sake of having one. What it will say is narrower and better evidenced — the Han signature predates both the city and the Consolihan. And the comparison against the region's meteorological returns was run over a long period precisely so that nobody would ever again have to argue that this is weather.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-The Fog does not respond to Work Types in the traditional sense.
+| Stage | What is done |
+|---|---|
+| **Approach** | The fog dissipates when the sorrow it covers is acknowledged and mourned. |
+| **Handling** | Do not fight it physically — which is the whole of the cycle; the stages are the frame and the condition is the work. — see `## Handling Process` |
+| **Withdrawal** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 75% — is done on purpose. |
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Fog takes a gesture and gives no account of it: the mist closes over the offer and the gauge is where it was. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force driven into fog is not stopped, it is only spread: nothing is answered and nothing is moved. | Net-Neutral |
-| **Viderehan** (Observation) | The observer sees faint routes and silhouettes of the lost nomads. | Stable · Common |
-| **Ferrehan** (Endurance) | The fog tests the will to continue moving; persistence permits eventual exit. | Decrease · High |
-### Special Behaviors
-- Those who stay too long lose the will to move.
-- The fog's Han-signature predates the city and the Consolihan.
-- It changes subtly: walls, floors, and air thicken in areas it covers.
-
-
-
-### Operational Work Notes
-
-Brume is an Object/Place with Place-Phantasmal manifestation and Void expression, mobile along the Han-flow lines of the Desolate and held by a plotted course rather than a wall. Viderehan shows the routes and the silhouettes and moves nothing. Ferrehan is the work, and what it tests is whether a worker will keep moving when moving has stopped seeming worthwhile. Nothing may be struck, pushed, burned or dispersed at any stage of either.
-
-**Reading the response:** Read it in density and in the people, since the fog has no posture to read. A falling gauge presents as thinning — the bank shallower at the edge, the far markers coming back into view, the weeping quieter and further off. The pressure drops and the source is untouched. A lower gauge is a window and not a door, and the fog is somewhere else by morning. A rising gauge presents as **ease**. The interior becomes comfortable, the cold stops registering, and the people inside stop wanting to come out — not from fear, but because leaving has quietly stopped seeming worth the effort. That is the characteristic failure here and it does not look like distress from inside or outside. The external timekeeper exists for this reason and their call to withdraw is not reviewable from within the bank.
 ## Expansion Behavior
 
 | Field | Detail |

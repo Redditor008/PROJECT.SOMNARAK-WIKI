@@ -97,7 +97,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | The viewer looks away of their own accord and says who they were angry at. If they cannot name anyone, the cycle is logged as incomplete and the same worker is not rebooked that month. |
 
@@ -157,23 +156,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One traveler who carried a mirror across the Desolate and watched the familiar faces go out of it one at a time, his own last. The record does not name him and does not say what became of him. It says only that by the end the pain looking back was not recognisably his, and that he kept carrying it.
 - **Expanded origin context:** The record keeps the sequence and not the man. Faces went out of the glass one at a time over an unrecorded number of crossings — others first, his own last — and the file is careful that this is an order of events and not an explanation. What it adds, in the archivist's hand, is the only inference anyone has drawn from it: he went on carrying a mirror that had stopped showing him anything, which is what the holding still does to everyone who stands in front of it.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the sorrow behind the reflection. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can remain before an unrecognizable self. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Look into it, in the authorised posture — square on, both feet planted, from the marked distance of one metre — and say aloud what you see. |
+| **Handling** | The stander reduces the gauge; the observer holds it steady and produces the record. — see `## Handling Process` |
+| **Withdrawal** | The viewer looks away of their own accord and says who they were angry at. If they cannot name anyone, the cycle is logged as incomplete and the same worker is not rebooked that month. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 45% — is done on purpose. |
 
-
-### Operational Work Notes
-
-The table has two performable rows and both describe the same act at different durations. What the table cannot hold is the finding: in 212 logged viewings the name the worker gave afterward differed from the name they gave before in 198 of them, and the wing has never found a viewer whose two answers matched on three consecutive cycles. A gauge that does not move here means nothing at all; the sheet is the reading.
-
-**Reading the response:** Read it in the ice and in the operator, and treat the second as the primary instrument. A falling gauge presents as clarity — the red-black thinning toward the edges, the song dropping below the carrying distance, the cracks holding at their recorded width. The entity is quieter; nothing has been resolved, and the gauge will be back where it started within a week of normal traffic. A rising gauge presents as heat, which is the paradox worth knowing before the first cycle: an object this cold reports its agitation as warmth in the people looking at it. They become irritable, specific, and certain. If an operator leaves a cycle angry at a named colleague, that is the reading. It goes on the sheet as a reading and never as a disclosure about the colleague. Anything the file does not describe — a face in the surface above all — is reported the same day.
 ## Activation Behavior
 
 > **Special activation — no counter.** A discrete mirror drifts with the Desolate’s cold currents and is not a walking creature, and nothing here escapes.

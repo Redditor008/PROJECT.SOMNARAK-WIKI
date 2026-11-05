@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A dense pale-blue mass of Han-crystal in the Desolate near The Scar, holding an imprint of every hand that has touched it, each visible like a fossil. Salt-damp, cold, and heavier than its size; the object does not move and the field it keeps is what is marked on the ground. |
 | **Perceptible to** | The cold and the stillness first, then the imprints in the surface, and then a sound that arrives half-frozen and belongs to somebody who is not present. |
-| **Handling** | Handled by named list, in single-use gloves, never past the limit the tool profile sets. The field edge is chalked before the session and measured after it, and nobody holds it bare-handed. |
+| **Handling** | Handled by named list, in single-use gloves, never past the limit the tool profile sets. The field edge is chalked before the session and measured after it, and nobody holds it bare-handed. — see `## Handling Process` |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
 | **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the imprints and Ferrehan carries the cold; both stand outside the field edge and neither adopts the minute. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Viderehan and Ferrehan only, and the gauge below 25% — on Frozen Echo the second follows the first and has never arrived without it. |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Refugees and scavengers of the Desolate, about a hundred of them, almost none identifiable. The handling list names the last fourteen. Everybody before that is a shape in the crystal.
 - **Expanded origin context:** Nothing here was stolen and nothing was given. The object passed from hand to hand during the displacement in the way small portable things do: carried, lent, left behind, picked up, traded for food, carried again. Each person had it briefly and none of them had it long enough to call it theirs. The archivist's note records what the wing takes from it: the sorrow is not loss, because nobody here lost the object. It is the condition of carrying everybody's history and being owed nothing by any of them.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A dense pale-blue mass of Han-crystal in the Desolate near The Scar, holding an imprint of every hand that has touched it, each visible like a fossil. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the sequence of hands without names, dates or places attached to any of them, and leaves the gauge level. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can hold somebody else's history without taking possession of it, and is the only approach that lowers the gauge. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the field edge against last session's chalk, the imprints on the surface, and the handler's name on the named list, taken before the piece is lifted. |
+| **Handling** | The observer reads the imprints from outside the edge and the stander keeps the cold and the clock. One minute per contact, the turn called aloud, the piece put down before anybody answers the question about whose grief it is. |
+| **Withdrawal** | **the observer and the stander, and the gauge below 25%** — and on Frozen Echo the second has never arrived without the first. |
+| **Refusal** | No piece is coaxed, carried past the limit, or held to see whether it will answer. The edge is rechalked and the advanced ground stays advanced. |
 
-
-### Operational Work Notes
-
-Frozen Echo is an Object/Place with Object-Weight manifestation and Lament expression, held at the Desolate near the Scar and classed as an I-Relic. Viderehan and Ferrehan are the only valid approaches and the restriction is genuine rather than inherited. Ferrehan lowers the gauge; Viderehan holds it level and produces most of what is in this file.
-
-**Reading the response:** Read it in the field edge and in the handler's grammar. A falling gauge presents as the edge drawing in toward the stakes and the handler describing what they felt in the third person. A rising gauge presents as the edge advancing and the handler slipping into the first person about a life that is not theirs. The pronoun is the reading. It is recorded verbatim for that reason and the handler is not corrected in the room.
 ## Activation Behavior
 
 > **Special activation — no counter.** Filed trigger: *"touch"*.

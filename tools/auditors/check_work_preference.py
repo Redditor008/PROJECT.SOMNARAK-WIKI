@@ -378,6 +378,11 @@ def dossier_word_map():
             if not m:
                 continue
             key = '%s-%s%s-%s' % (m.group(1), m.group(2), m.group(3), m.group(4))
+            if '## Handling Process' in text and not vector_of(text):
+                # R-40: a relic offers no Work Type at all, so there is no
+                # vector to compare a Side Codex page against.
+                out[key] = None
+                continue
             vec = vector_of(text)
             words = set(w for w in (vec or ()) if w in BAR)
             out[key] = '/'.join(sorted(words))

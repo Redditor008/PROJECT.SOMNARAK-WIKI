@@ -78,7 +78,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | A conduct grievance closed against a department, a post or a rotation rather than a named respondent. No counter and no gauge threshold on the file |
 | **Sorrow Gauge [Pressure]** | **000 of 240** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Pugnahan is not merely invalid here but impossible |
 | **Location** | Zone D, Mantle Commons |
 | **Resolution Condition** | Map the trace and stop repeating the grievance |
 
@@ -136,23 +135,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Not identified, and the holding will not invent them. Generations of a feud whose cause no surviving document records, whose groups died out or moved on, and not one of whom is named anywhere in the folder. The absence is the entity's subject and is not a gap in the research.
 - **Expanded origin context:** The feud is over and this holding does not answer to it. Four reviews have confirmed as much: the edge sat at its baseline through the Commons rebuilding, through the repaving of the contested street. And through the exhumation and reburial of the burial ground at its northern end, which was undertaken partly in the hope of settling the site and settled nothing. It answers to grievances this facility closes without a respondent — to a complaint about a person's conduct answered by a department, a post or a rotation, which is a practice adopted deliberately, on good evidence, to stop the organisation hanging individuals out to dry. The correlation with the grievance return has held for nine years. The correlation with anything in the Commons has never held for one.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A thin crimson trace spreading across cobbles, floors, walls and empty surfaces — a footprint with no walker — chalked at twelve fixed radial stations. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The sequence of events that left it, read off the shape of the trace: who stood where, for how long, facing whom. It never shows a face and never gives a name, and four assessors have recorded their frustration at that in almost identical words. | Stable · Common |
-| **Ferrehan** | The full circuit walked alone and in silence, with nothing carried onto the route — no argument, no grievance of the worker's own, no conversation. It is harder than it reads and the failure rate is the highest of any endurance cycle in this zone. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the twelve chalked stations, last session's line, and the fortnight's closed conduct grievances — before anybody walks the route. |
+| **Handling** | One worker walks the twelve stations in fixed order and in silence. The observer reads the trace as a sequence of who stood where and for how long. The stander is the full circuit with no argument, no grievance of the worker's own and no conversation carried onto it. — see `## Handling Process` |
+| **Withdrawal** | Second circuit of the twelve stations with the new line chalked, against the file's documented suppression condition: **Map the trace and stop repeating the grievance**. The second clause is the containment; the first is only how it is measured. |
+| **Refusal** | A site that reads hotter at the same session it was argued on, and a station circuit voided from that point. |
 
-
-### Operational Work Notes
-
-Ferrehan lowers the gauge and Viderehan holds it level. Flerehan and Pugnahan are Net-Neutral against a Place and Pugnahan is not merely invalid but impossible. The Registrum named Pugnahan as the primary Work Type for this holding for forty years, which is not a difference of emphasis but an instruction to do something the Work Rule forbids. Crews were briefed on it. And the Commons circuit was carried in the rosters as a confrontation task until this revision.
-
-**Reading the response:** What the gauge reports is one worker's silent circuit. What the edge reports is the way this facility has been answering its complaints. The two sit in separate columns, they have never once moved together, and supervisors are told plainly that a session which drops the gauge while returning a longer advance has been worked right and goes into the record as a success with nothing added.
 ## Expansion Behavior
 
 > **Special activation only — no counter, no gauge.** The listed condition: *"a conduct grievance closed without a named respondent"*.

@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A single crystallised tear smaller than a raindrop, suspended four centimetres above a sealed pedestal and glowing faintly blue. It has not moved in any direction by any measurable amount since instrumentation improved enough to say so. |
 | **Perceptible to** | The glow first, read against the band the series keeps. Then the cold of the deep vault, and the sense both observers report separately that what is present is the shape of sorrow before language. |
-| **Handling** | Two observers a night, exposure capped at the four minutes the reading takes, nothing touching the crystal, and no question ever put to it. Both observers write the figure independently and neither says it aloud in the vault. |
+| **Handling** | Two observers a night, exposure capped at the four minutes the reading takes, nothing touching the crystal, and no question ever put to it. Both observers write the figure independently and neither says it aloud in the vault. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on none authorized — touch is forbidden and has never been carried out |
 | **Sorrow Gauge [Depth]** | **000 of 1080** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the shape of sorrow before language and holds the gauge; Ferrehan is the scheduled reading itself and carries the decrease. Neither approach calms this holding and neither provokes it. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **Resolution Condition** | The nightly reading is taken, witnessed and entered without a gap in the series |
 
@@ -146,25 +145,17 @@ The contact record now states the same limit in its own rows: no blade leaves th
 - **The People:** One person, before the city, before Han became structural, who lost the first thing anybody had loved. Nothing else is recoverable and the archive does not speculate. The field is kept because the loss had a subject, and a document that omits that reads as though sorrow began as a property of the world.
 - **Expanded origin context:** First Tear sits in the deepest vault beneath the Alpha Tree — sealed, guarded, forgotten by all but the highest-ranking Keepers. It is small — barely larger than a raindrop. It is ancient — older than the city, older than the Consolihan, older than the Cheongula. First Tear is the first sorrow ever felt on Mugenhan — the first moment of grief, the first loss, the first goodbye. It was shed by someone whose name is lost — someone who lived and died before the city existed, before Han became structural, before sorrow became material.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A single crystallised tear smaller than a raindrop, suspended four centimetres above a sealed pedestal and glowing faintly blue. What follows is procedure; nothing in it answers an approach.
 
-The Tear does not respond to Work Types in the conventional sense.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the height above the pedestal, the glow against its band, and the sealed setting, all read at the vault rather than reported from elsewhere. |
+| **Handling** | Two observers take the four minutes, one reading and one writing, each entering the figure independently and neither saying it aloud in the room. Nothing touches the crystal and no question is put to it. |
+| **Withdrawal** | **The nightly reading is taken, witnessed and entered without a gap in the series** — and the series, not the night, is the record. |
+| **Refusal** | The approaches are secured and unshielded personnel cleared, and the reading is restored on time rather than the incident being investigated by touch. |
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the shape of sorrow before language. | Stable · Common |
-| **Ferrehan** | Tests whether the observer can bear total grief. | Decrease · High |
-
-
-### Operational Work Notes
-
-Read the table as a duty roster rather than as a set of levers. Neither approach calms this holding and neither provokes it: Ferrehan is the scheduled reading itself, Viderehan is what the reading shows, and the distinction between the two is what the pair of observers is for. The Tear has no response to work of any kind — the glow does not vary with the approach used, the observer, the time of year, Sorrow Tides, events elsewhere in the vault, or anything the facility has thought to test across eleven centuries of nightly figures.
-
-**Reading the response:** There is no response to read. The one variation on file follows a gap in the figures themselves — eleven nights in 4106 with no observer, no sheet and no reading — and thirteen decades have produced nothing else. A gauge that holds steady here is not reassurance and the sheet does not treat it as one. The standing posture is that the instrument is what the facility maintains, and the Tear is what it declines to test.
 ## Activation Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"touch, which is forbidden and has never been carried out"*.

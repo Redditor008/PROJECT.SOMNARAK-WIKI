@@ -77,7 +77,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No count is listed and none may be inferred into the empty row |
 | **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, worked from the city side; no part of any cycle involves approaching the shelter ground |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Acknowledge both departure and destination; do not complete its buildings |
 
@@ -135,23 +134,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The exiles who built at the Gate and left before finishing. The commissioning material holds the Gate warden's register for the period — arrivals, ground allocated, and the dates each plot fell vacant. Most plots emptied within weeks of being taken, and the register contains no instance of anyone being told to leave. The allocations were entered by a clerk with a legible hand and careful books, which is the only reason the series is usable. His name is at the foot of every page and nowhere else in the file. And the archivist's note sets it down once, in full, observing that he is the only person in the commissioning material who did his job and is otherwise unremembered.
 - **Expanded origin context:** The register is the document, and its silence is the finding. Arrivals, ground allocated, dates each plot fell vacant — most within weeks — and not one instance of anybody being told to leave. No eviction, no order, no name against a removal. The archivist's note sets that down and adds the only thing it can be made to mean: these households were not expelled from the Gate's edge, they stopped building, and the difference between those two facts is the entire sorrow this holding is made of.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A wall of dark wet crystal near the Exile's Gate, burning with red light along its surface and leaking sorrow like sweat — fever-hot, damp, weeping even as it burns. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reveals the homes and people left beyond the Gate. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can stand at the border. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the marked stations on the city side, the two end posts and the length between them, the wilderness edge left clear. And who will speak and in what words — the wording agreed in advance, because the holding responds to phrasing and not to facts. |
+| **Handling** | The watch the survey of the length between the two end posts, taken from the marked stations on the city side. — see `## Handling Process` |
+| **Withdrawal** | The departures are stated, the destinations stated as far as they are known, and every roofless beginning left exactly as it stands, against the file's documented suppression condition: **Acknowledge both departure and destination; do not complete its buildings**. |
+| **Refusal** | The entry against the attempt, and the standing order that no tool is laid against an unfinished structure for any purpose, including bracing one that looks unsafe. |
 
-
-### Operational Work Notes
-
-The table records Work Types and cannot hold the variable, which is wording. The same facts stated with the coercion named and with it unnamed have produced opposite readings on the same watch, nineteen times out of twenty-two paired trials. A warden who says the exiles chose to go will watch the red light brighten within a minute. Transcribe what is said, do not summarise it, and treat the Work Type column as the lesser of the two records.
-
-**Reading the response:** Read it in the light and in the runoff. A falling gauge presents as dimming and drying — the red across the face losing its depth, the surface going merely damp, the collection point filling more slowly. Nothing is resolved by that. The shelters stay unfinished, the people who started them are not coming back, and the wall will be exactly as long tomorrow. A rising gauge presents as **propriety**. The paperwork starts to look clean. Personnel reviewing the register in front of the wall find themselves noting that the allocations were properly made, the books properly kept, and nobody expelled — all of which is true, and all of which is the shape the sorrow takes on the way up. The entity burns brighter whenever leaving is described as a choice without the pressure that produced it being named, and an account in which every procedure was followed and everyone left voluntarily is that description in its most convincing form.
 ## Expansion Behavior
 
 | Field | Detail |

@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A small clay jar on a plinth in an access corridor, unremarkable except for the light leaking from under its lid and a voice inside it — barely audible and always pleading, never loud enough to resolve. The lid sits on the rim and does not seat, and the gap does not close for long. |
 | **Perceptible to** | The light at the gap first, then the voice, which everyone in the radius hears as addressed to them personally. The gap is measured, not heard: four rim points, to a tenth of a millimetre, before anybody sits down. |
-| **Handling** | Feelers out before anything else. The gap measured at the four marked points and the mean entered. Two listeners seated for the interval. Nobody lifts the lid and nobody reaches for it. The lid is re-seated by hand, which takes one person about a minute. |
+| **Handling** | Feelers out before anything else. The gap measured at the four marked points and the mean entered. Two listeners seated for the interval. Nobody lifts the lid and nobody reaches for it. The lid is re-seated by hand, which takes one person about a minute. — see `## Handling Process` |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [Saturation]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the pleading legible as pleading, which is not the same as intelligible. Ferrehan lowers the gauge by patience alone, with the worker sitting the interval out and not reaching for the lid. Neither Work Type moves the gap. |
 | **Location** | SECTOR-N-905, contained |
 | **Resolution Condition** | Gauge reduced, lid re-seated by hand, two independent transcripts filed. |
 
@@ -143,18 +142,16 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The facility's own dead. Those whose bodies this institution retained after death on the authority of a clause each of them signed, in good health, on the day they were engaged.
 - **Expanded origin context:** Every retention this facility has ever made was lawful and every one of them was consented to. The clause is in the standard articles, it is explained at engagement, it is initialled separately, and personnel who decline it are engaged anyway — the holding has verified that, twice, because it seemed too good to be true and it was not. Nothing here was stolen. The gap does not answer to deaths; it sat unchanged through the two worst years in the wing's history. It answers to retentions made on a permission given years earlier by someone who could not have known what they were permitting, and it has answered to nothing else for the nine years the register has been kept.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The bowl holds what it was given and not what is offered: the grief goes in, nothing is drawn off, and the rim reads the same depth. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Striking a vessel that is already empty rings nothing loose: the strike is spent and the gauge does not move. | Net-Neutral |
-| **Viderehan** (Observation) | Measures the vessel and reads the register, sixty-one years of it, in which the absence of an event is entered as a finding rather than as a gap. | Decrease · High |
-| **Ferrehan** (Endurance) | The party re-seats the lid by hand and re-measures, and stays with the jar through the interval afterwards. Nothing here has ever required suppressing; the session ends when the reading has been taken twice and agrees. | Decrease · Common |
+> **This holding is not worked.** A small clay jar on a plinth in an access corridor, unremarkable except for the light leaking from under its lid and a voice inside it — barely audible and always…. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Viderehan lowers the gauge: the pleading becomes legible as pleading, which is not the same as becoming intelligible, and workers consistently report that the distinction is the hardest thing in the file to hold. Ferrehan lowers it too, by patience alone — the worker sits the interval out and does not reach for the lid. Neither Work Type moves the gap. The gap answers to the retention register and the gauge answers to the session, and supervisors are instructed that a session which lowers the gauge and leaves the gap wider has been worked correctly and is written up as a success without qualification.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the gap at the four marked points and the mean to a tenth of a millimetre, the names of the two listeners, and the previous session's mean for comparison. |
+| **Handling** | The watch takes four rim readings and the mean to a tenth of a millimetre, seats two listeners rather than one, and hands each of them a separate page. |
+| **Withdrawal** | **Gauge reduced, lid re-seated by hand, two independent transcripts filed** — and a session that closed without the two transcripts is entered as an unclosed watch, whatever the gauge did. |
+| **Refusal** | Ends the session, sends for the second listener's transcript, and re-seats the lid by hand. Suppression is not attempted. |
 
 ## Expansion Behavior
 

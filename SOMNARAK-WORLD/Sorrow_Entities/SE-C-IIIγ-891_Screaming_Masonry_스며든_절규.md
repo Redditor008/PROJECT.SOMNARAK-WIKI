@@ -98,7 +98,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Acknowledge duties without accepting impossible blame |
 
@@ -156,23 +155,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The residents of the Old Lament tenements, across four generations, who failed one another in small ways and never once said so.
 - **Expanded origin context:** Old Lament ran on mutual obligation because nothing else was available to it: the stair-sweeping rota, the watch kept over a sick neighbour, the loan of a week's coal, the promise to look in on somebody's mother. None of it was written and all of it was relied on. It lapsed the way such things lapse, slowly and without anybody deciding, and the particular quality of the district's grief is that nobody ever complained. Complaint would have meant naming a neighbour who was also failing, and who was also being failed, in a building where everybody had to go on living. So the grievances were held. Four generations of people swallowed what they had every right to say, in rooms with shared walls, and what formed in the end was not a quarrel but a scream that was never let out of anybody's mouth.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Makes the contents legible: the obligation behind the cry, who owed it, to whom, and the words the person did not say. | Stable · Common |
-| **Ferrehan** | Weighs the worker's resolve against four generations of unsaid complaint; lowers the gauge, and is the only approach that does. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | The observer and the stander, this being an Object/Place. |
+| **Handling** | Observation is the whole of the value here: it is the only means by which the contents of the scream can be read, and the transcripts are the subject of the last three sections of this file. — see `## Handling Process` |
+| **Withdrawal** | Acknowledge duties without accepting impossible blame. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 75% — is done on purpose. |
 
-
-### Operational Work Notes
-
-Screaming Masonry is a Fragment (III) Object/Place of Major (γ) potency, Object-Lament manifestation, Weight expression, I-Relic tool class, ambient in Zone B, Old Lament. Flerehan and Pugnahan are Negative-Low because an Object cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while the worker reads, verbatim, something a named person decided not to say.
-
-**Reading the response:** Read the vibration amplitude and the chest pressure. A falling gauge presents as the stone settling; a rising one presents as amplitude climbing on sensors ahead of the shard's bearing. If the vibration stops entirely while the shard is still in the bay, that is not a success and the section on the quiet applies.
 ## Activation Behavior
 
 > **Special activation — no counter.** The file's own line: *"a new obligation left undischarged within the district"*.

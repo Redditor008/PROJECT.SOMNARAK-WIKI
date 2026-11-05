@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A bridge-shaped object of empty crystal, grown out of an obligation rather than out of stone, reaching across the ledgers and floors of Collector's Row. One end terminates in air and so does the other; nothing about it is fixed except the two unfinished ends. |
 | **Perceptible to** | The span first, measured against the room's own fittings and the ledger pages it lies across rather than against a shore. Then the unsteadiness, which is in the worker who is about to help rather than in the ground. |
-| **Handling** | Nobody crosses and nobody performs a service for anybody else inside the reading. The session stops at the first such act and not the third, because the span reads every one of them as a crossing. |
+| **Handling** | Nobody crosses and nobody performs a service for anybody else inside the reading. The session stops at the first such act and not the third, because the span reads every one of them as a crossing. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on touching one end while naming the other person |
 | **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the connection the span was trying to make and holds the reading steady, which is the correct result here and not a failed suppression. Ferrehan waits at one end for the length of a session without starting across, and lowers the gauge. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | Both parties enter the distance in their own hand, with no proxy and no single signature, and the Sorrow Gauge falls below 25% |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** A family of the Row, separated by debt and duty, who each expected the other to make the journey. The Keepers' record holds letters from both sides, none of them sent, and the file notes that the two accounts are almost identical in their reasoning.
 - **Expanded origin context:** The Keepers hold the family's letters in one envelope, none of them sent. And the file's finding is that the two sides give almost identical reasons for waiting: one would rather arrive owing nothing than arrive apologising. The other would rather be late than be sent. Both letters are dated the same season. The Bridge is the shape of that interval — a span extended at both ends and joined to nothing — which is why it grows rather than shortens as the years pass. The archive's interest in this holding is not the family, who are ordinary Row citizens, but the arrangement: nobody did anything wrong and the distance still widened, and the file treats that as the reportable fact.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A bridge-shaped object of empty crystal, grown out of an obligation rather than out of stone, reaching across the ledgers and floors of Collector's Row. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the connection it tried to build. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can wait without crossing alone. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm where the span ends, which documents it lies across, and the count of acts already performed on somebody else's behalf this watch. |
+| **Handling** | The observer reads the connection the span was trying to make and the stander waits at one end without starting across. The session ends at the first proxy, nobody crosses, and nothing is measured against a shore. |
+| **Withdrawal** | **Both parties enter the distance in their own hand, with no proxy and no single signature, and the Sorrow Gauge falls below 25%.**. |
+| **Refusal** | Crossing is the single prohibited action on this file, and no worker starts across to see where it goes. |
 
-
-### Operational Work Notes
-
-The two available approaches divide the work between what the span shows and what the worker can refuse to do. Viderehan reads the connection it was trying to build and holds the reading steady — the file's note is that a stable gauge here is the correct result and not a failed suppression. Ferrehan requires the worker to wait at one end for the length of a session without starting across, which is harder than it reads, because the span is shaped like something a helpful person would fix and the impulse to sign for somebody, carry a form, or speak for a party is the actual hazard. The falling reading under Ferrehan comes from the waiting, not from anything done to the crystal. Nothing in this file has ever been done to the crystal at all.
-
-**Reading the response:** A falling reading under Ferrehan means a worker waited at one end and did not start across on anyone's behalf. Stability under Viderehan is correct. The reading rises on unilateral acts: crossing alone, signing for somebody, settling a debt that was not yours, or assuring one party that the other would have wanted something.
 ## Activation Behavior
 
 > **Special activation — no counter.** The file's own line: *"touching one end while naming the other person"*.

@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A human heart suspended in dark amber Han-crystal, still beating — slow, wet, unmistakable — warm to the touch and pulsing in time with the organ within. It has not moved from its cradle in forty-eight years; what moves is the Weight radius, in steps. |
 | **Perceptible to** | The beat first, at a rate that has not varied. Then the warmth of the amber, and the handler's own pulse arriving at the specimen's rate rather than their own. Neither the handler nor the party can feel it happen. |
-| **Handling** | Pulse taken at the door going in and coming out, the beats called aloud by an external caller from outside the glass, and the glass never opened. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads. |
+| **Handling** | Pulse taken at the door going in and coming out, the beats called aloud by an external caller from outside the glass, and the glass never opened. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads. — see `## Handling Process` |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, and both lower the gauge. Viderehan reads the darkening series against the beat and returns a record rather than a behaviour. Ferrehan is the sitting, and the weight settles around a party that takes the full cycle at the marked distance without shortening it. |
 | **Location** | SECTOR-C-901, contained |
 | **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. Forty-eight years of the beat record; the pulse has matched in all but 41 readings, and the misses are the file. |
 
@@ -139,18 +138,16 @@ The gauge is read at the instrument. The cost is read on the person.
 
 Duri's Heart belonged to a healer named Duri who could not save everyone. In the early years of the Veil's implementation, when containment was improvised and the Fracture rate was catastrophic, Duri worked the medical bay in Zone D for eleven days straight — no sleep, no relief, no triage protocol sophisticated enough to handle the volume. On the eleventh day, her own heart failed. The Han in the bay — already dense from eleven days of concentrated medical grief — crystallized around the organ before it could stop. The crystal preserved the heart. The heart preserved the grief.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Read the darkening series against the beat from outside the glass. The two together resolve into a record rather than a behaviour, and neither is legible alone. The beat sets the interval, the series carries the content, and the log keeps them in separate columns for that reason. | Decrease · High |
-| **Ferrehan** (Endurance) | Sit the full cycle at the marked distance and do not shorten it. The weight settles, and the endurance is spent noticing that none of it feels like a cost. | Decrease · Common |
+> **This holding is not worked.** A human heart suspended in dark amber Han-crystal, still beating — slow, wet, unmistakable — warm to the touch and pulsing in time with the organ within. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Duri's Heart is an Object with Object-Body manifestation and Weight expression, held at SECTOR-C-901 on Floor 5. Flerehan and Pugnahan are unavailable to an Object. Both valid Work Types lower the gauge. What distinguishes this holding from every other Weight entity in the wing is that the pressure it applies is pleasant, and the file is built around the consequences of that.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the handler's pulse at the door, the beat count called from outside the glass, and the marked distance the party will sit at for the cycle. |
+| **Handling** | The observer makes the darkening series and the beat legible as a record, the stander sits the cycle without shortening it, and the caller keeps the count aloud. The glass is not opened and the cradle is not touched. |
+| **Withdrawal** | **Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut** — and a cycle that misses is entered as a miss rather than reasoned away. |
+| **Refusal** | The glass is not touched and the amber is not opened; extraction has been sought twice in forty-eight years and granted neither time. |
 
 ## Expansion Behavior
 

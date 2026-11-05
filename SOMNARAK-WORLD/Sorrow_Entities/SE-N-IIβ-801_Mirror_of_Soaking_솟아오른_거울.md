@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A standing mirror come up out of the floor of the vault at Collector's Row, its surface wet and glowing toward red near anybody holding something in, and giving back no face of its own. It rises and does not advance; the height is the number the station keeps. |
 | **Perceptible to** | The surface before the reflection: red near a worker who is holding something in, and the mark on the wall behind it, which is higher at a close than at a shift's start when the session goes wrong. Then the reflection, which is accurate and is not the worker's own anger's fault. |
-| **Handling** | Worked in front of the surface rather than against it, with the height taken in centimetres before anything is attempted, and the session attributed in writing before the room is left. Nobody works the Mirror alone and the conduct file is read before the height is. |
+| **Handling** | Worked in front of the surface rather than against it, with the height taken in centimetres before anything is attempted, and the session attributed in writing before the room is left. Nobody works the Mirror alone and the conduct file is read before the height is. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on direct gaze or touching the reflective surface |
 | **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the event that created the anger and holds the reading steady. Ferrehan forces the worker to remain before their own rage without disowning it, and is the row that lowers the gauge. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | The anger displayed is attributed in writing to the condition that caused it rather than to the person carrying it, and the Sorrow Gauge falls below 25% |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Citizens of the Row who were in debt and therefore required to be civil. The Keepers' record holds the collection schedules and no complaints, because the collection schedules required that “the debtor shall conduct himself civilly toward the collecting officer” and that “any discourtesy shall be recorded”. And the file notes that the absence of complaints was treated at the time as evidence of satisfaction.
 - **Expanded origin context:** Collectors called anger disorder and demanded gratitude from people whose debts grew no matter how much they paid. The citizens swallowed their words until the unspoken rage became heavier than the ledgers. One night, a mirror rose through the floor of Collector's Row. Its surface reflected no face. It showed clenched hands, swallowed accusations, and the first moment each viewer had decided that injustice was ordinary.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A standing mirror come up out of the floor of the vault at Collector's Row, its surface wet and glowing toward red near anybody holding something in, and giving back no…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the event that created the anger. | Stable · Common |
-| **Ferrehan** | Forces the worker to remain before their own rage. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the height of the surface in centimetres, the conduct note of anybody present, and the mark on the wall behind it. |
+| **Handling** | The watch identifies the holding by the surface rather than by the record — it is the one that comes up out of the floor, glows toward red near somebody holding something in. And gives back no face — then takes the height in centimetres before anything is attempted. |
+| **Withdrawal** | **The anger displayed is attributed in writing to the condition that caused it rather than to the person carrying it, and the Sorrow Gauge falls below 25%** — and where the attribution is not corrected, the Mirror does not revert or retaliate; it stands. |
+| **Refusal** | Does not strike the surface and does not turn it away. The worker stands before it, and the session is ended from outside once the anger has been named. |
 
-
-### Operational Work Notes
-
-The table is a diagnostic, not a prescription, and on this record it is short by design: two of the four Work Types are unavailable to the class, which the registry counts as complete rather than as a gap. Viderehan holds the reading steady while the surface shows what the anger was about. Ferrehan is what lets a worker stand in front of that without disowning it. Neither one touches the worker's own conduct file, and the conduct file is the field that predicts this record — the Mirror has risen during shifts when the chamber was empty, tracking notes written three sectors away. Read the height, not the mood of the room.
-
-**Reading the response:** A falling reading under Ferrehan means a worker stood in front of their own anger and neither performed it nor denied having it. Stability under Viderehan is correct. The reading rises when anger in the chamber is explained by reference to the person feeling it — their nerves, their history, their attitude — and this is true regardless of whether the explanation is accurate.
 ## Activation Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"direct gaze or touching the reflective surface"*.

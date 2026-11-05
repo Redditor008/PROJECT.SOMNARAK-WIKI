@@ -72,7 +72,6 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-909 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
@@ -136,18 +135,16 @@ Floor 4's findings are classified and the summary is not. The mind register is t
 
 The practical consequence is that this holding cannot be screened by gauge, because the gauge describes the complex and the complex is not what is being affected. Screening is by a single question asked in several forms — what are you currently turning over — and the answer determines whether the descent happens at all.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the chart and not the corridor. What a worker can describe afterwards is the route their own thinking took, which is why no two accounts of Floor 4 have ever matched and why the file keeps both. | Decrease · High |
-| **Ferrehan** (Endurance) | A party walks the tended line for the full cycle without stopping and without a work goal. Standing still is what the corridors do the work on, so the endurance here is motion, and a party that endures by holding position has done the opposite of the Work Type. | Decrease · Common |
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-The Labyrinth is a Place with Place-Mind manifestation and Void expression, held at SECTOR-C-909. Flerehan and Pugnahan are unavailable to a Place. Both valid Work Types stabilise the surveyed portion for a shift and neither has ever extended the plan. Everything difficult about this holding is above ground, in a drawer of transcripts nobody is permitted to read.
+| Stage | What is done |
+|---|---|
+| **Approach** | The observer and the stander; the entity is a Place and the other two stages are unavailable to it. |
+| **Handling** | Surface anchor at the entrance, stated intention in writing and read aloud before descent, tended line, timing kept at the surface. — see `## Handling Process` |
+| **Withdrawal** | Reduce the Sorrow Gauge through the observer and the stander until containment is achieved. |
+| **Refusal** | Nothing that would meet the activation — 3 ignored conditions — is done on purpose. |
 
 ## Breach Behavior
 

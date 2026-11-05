@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A broken run of heavy crystal lying across the Desolate on the alignment of a decommissioned road, frozen mid-stride. It bears weight without deforming and is the safest footing in the district; it gets heavier every time a road comes off a map. |
 | **Perceptible to** | The footsteps first — the worker's own steps make no sound and somebody else's arrive from the broken section — then the needle, which points along the broken line while every actual exit feels unfinished. |
-| **Handling** | The line is mapped and the names it carries preserved. The off-line partner keeps the head count and stops anybody continuing past the end, and the worker stands where the road stops for the full cycle — neither walking on, which joins the journey, nor turning back. |
+| **Handling** | The line is mapped and the names it carries preserved. The off-line partner keeps the head count and stops anybody continuing past the end, and the worker stands where the road stops for the full cycle — neither walking on, which joins the journey, nor turning back. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; the line does not move and what shifts is the ground beneath it |
 | **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the route as it was walked and the party on it, in order, which is how the sixty-one gaits were separated out. Ferrehan stands where the road stops for the full cycle, and lowers the gauge. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Map the Trace and preserve the names it carries |
 
@@ -140,23 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** A party of travellers, number unestablished, who were weeks on the road and did not arrive. The Trace carries their footsteps, which means the facility holds evidence of how many there were and has not finished counting. The resolution condition requires preserving the names, and the names are not yet all known.
 - **Expanded origin context:** The route failed before its travellers arrived. A Desolate path collapsed under Han and left a broken crystal line carrying tracks, route history and the absence of sixty-one people named on a complete departure manifest. The first obligation is therefore mapping and custody of names, not completing the journey on behalf of people who never reached its end.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A broken run of heavy crystal lying across the Desolate on the alignment of a decommissioned road, frozen mid-stride. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the route as it was walked and the party on it, in order, which is how the sixty-one gaits were separated out. | Stable · Common |
-| **Ferrehan** | The worker stands where the road stops for the full cycle: not walking on, which is joining the journey, and not turning back, which is what everybody else did. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the mapped run against the last survey, the load-cell figures and the subsidence, and the head count before the line is stepped onto. |
+| **Handling** | The watch the line is walked with a partner off it and a running head count, and the gaits are separated out from the observer's account rather than guessed at. |
+| **Withdrawal** | **Map the Trace and preserve the names it carries.**. |
+| **Refusal** | Nobody walks on past the stop and nobody turns back early. The worker stands where the road stops for the full cycle, which is the only posture that is neither joining the journey nor abandoning it. |
 
-
-### Operational Work Notes
-
-The table is a diagnostic to read, not a procedure to follow: it says which Work Type settles this ground and which one moves it. Quagmire stands as an Object/Place with Object-Weight manifestation and Lament in its element, filed in the Desolate hard by the Scar, and nothing is inherited from a holding with a similar name — the neighbours it does have are set out in their own section. Nor does a level gauge prove a harmless hour: the figure can lie flat while the worker is reached through memory, through the ground underfoot, or through what the walk has made of them.
-
-**Reading the response:** Viderehan holds the gauge level and reveals the route together with its missing travellers, which is the single most useful output this holding produces and changes nothing about its state — it is a witness function, not a treatment. Ferrehan brings the gauge down, and the test is whether the worker can remain at the end of a journey: stay at the point where the road stops, for the full cycle, without walking on and without turning back. Both failures are logged and they look nothing alike. A worker who walks on has joined the journey; a worker who leaves early has done what everyone else did. A falling gauge here means somebody stood at the end of a road for twenty-four turns on purpose.
 ## Activation Behavior
 
 > **Special activation — no counter.** The line does not move and the ground beneath it does, and the facility cannot see this one coming from the Desolate.

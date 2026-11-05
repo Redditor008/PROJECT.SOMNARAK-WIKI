@@ -32,7 +32,6 @@
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Active border threat |
 | **Work Damage** | 4–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a border phenomenon rather than a contained holding: a SECTOR cannot hold it and the survey is the containment. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Wilderness Han surges past the Desolate's outer edge |
-| **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan barred — Negative-Low) |
 | **Tool / M.A.W. grade** | N/A — Place-manifestation, Sovereign-grade; no M.A.W. extraction possible |
 | **Vessel-Destructible** | No — Sovereign / Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — (never vessel-destroyed) |
@@ -121,33 +120,20 @@ Wilderness Tide is not born from a single sorrow or a specific event. It is the 
 - **Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** The wilderness itself — UnWiHan, the raw Han of the unstructured world.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is the wilderness itself rising — Han accumulating past the Desolate's outer edge and coming against the Zone E wall in waves. There is nothing in it to observe into agreement and nothing to confront; there is a wall, an anchor, and a bound that does not hold.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Remote acoustic observation and seismic monitoring from the Outer Watchtowers. | Stable · Common |
-| **Ferrehan** | Direct physical endurance holding the outer perimeter wall under heavy ballast anchors. | Decrease · High |
-
-### Tidal Surge Progression
-
-| Phase | Action | Effect |
-|---|---|---|
-| **Build** | Wilderness Han accumulates beyond the Desolate. | Watchtowers detect rising pressure; Wardens deploy. |
-| **Surge** | The Tide crashes against Zone E's outer wall. | Massive Weight pressure; structural stress; personnel fatigue. |
-| **Recession** | The Tide recedes gradually. | Salt-residue left on the wall; Wardens assess damage and repair. |
-| **Lull** | A period of calm before the next buildup. | Maintenance, recovery, and preparation. |
+| Stage | What is done |
+|---|---|
+| **Approach** | Read it from the Outer Watchtowers: acoustic observation and seismic monitoring from behind the wall, never from the ground in front of it. The build phase is detected by pressure, not by sighting, and the watch deploys on the pressure. |
+| **Handling** | Hold the outer perimeter wall under heavy ballast anchors while the surge runs its phase. Direct physical endurance at the wall is the only stage that comes down with the water, and it is worked in relays because a single shift does not outlast a surge. |
+| **Withdrawal** | The water falls, or the watch is rotated off the wall — one or the other, and never the second while the surge is still building. The anchors are checked before anybody steps away, because the wall is what the withdrawal is made behind. |
+| **Refusal** | Nobody stands in front of the wall and nobody tries to turn the tide. It surges past the Desolate's outer edge on its own schedule; the file records a perimeter and a ballast, not an attempt. |
 
 ### Operational Work Notes
 
-Wilderness Tide is an Object/Place entity — Viderehan (Observation) and Ferrehan (Endurance) are the only valid Work Types. The Wardens endure the surge (Ferrehan) while the Watchtowers observe and predict (Viderehan). There is no sorrow to engage emotionally (Flerehan) or confront with anger (Pugnahan) — the Tide has no personality, no grief, no rage. It is simply pressure.
-
-**Reading the response:** The Tide's intensity is measured by the depth of the salt-residue it leaves. A light dusting means a minor surge; a thick coating means the wall nearly broke. The Wardens log each surge's residue depth as their primary metric.
-
-Management: hold the wall under the ballast anchors through every surge, then scrub the residue off before the salt reaches the stone, and log its depth in millimetres.
+The Wilderness Tide is a Place at the Zone E border, mobile, flowing in waves against the perimeter. The old four-row table treated it as something to be worked from a distance and marked two stages `Negative-Low`; what the file actually describes is a wall held under load by relays until the water falls.
 
 ## Breach Behavior
 

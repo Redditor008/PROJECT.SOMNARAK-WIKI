@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
 | **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The released memory is witnessed to evaporation or absorption, the channel is closed deliberately from behind the chalk, and the gauge falls below the threshold on the sheet |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The Keepers who sealed the original memorial shard, and whoever the sealed loss belonged to. The second is unrecorded. The vault catalogue lists the shard, its dimensions and its date, and no name anywhere in it.
 - **Expanded origin context:** The vault catalogue from before the Tide survives and is the only document the wing has about the shard it used to be. It is an inventory: dimensions, a shelf position, a sealing date, and a line recording that the sealing was performed in good faith and in the belief that a contained grief would go still. The archivist's note observes that the entity is the refutation of that line, and that the catalogue has been kept unamended so that the sentence stays where it was written.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A crystal shard rooted in the chamber floor, slick with old tears, with a chalked line round the wetted margin. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Opens the blue: depths rather than images, with the deeper layers reported as older. The gauge does not move. | Stable · Common |
-| **Ferrehan** | The worker stands in the wet for the rotation and does not leave early. The gauge falls, and this is the only work here that costs anybody anything. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the wet edge, the chalk line and the dryness outside it, and the gauge behind the chalk before anybody steps in. |
+| **Handling** | The observer reads the runoff and the pooled memories; the stander stands the margin without touching the crystal. The channel is closed from behind the chalk, by hand, deliberately. — see `## Handling Process` |
+| **Withdrawal** | The released memory has been witnessed to evaporation or absorption, the channel closed, the crack left open as filed, and the gauge below the sheet's threshold. |
+| **Refusal** | Nothing that would meet the activation — touch, or tears falling onto the surface. No percentage and no count are listed on the file — is done on purpose. |
 
-
-### Operational Work Notes
-
-Soaking Shard is an Object/Place with Object-Void manifestation and Lament expression, rooted in the Alpha Tree vault. Viderehan is conducted from the marked standpoint at a fixed distance. Ferrehan is standing in the chamber for a short rotation, which is where the hazard actually sits. Neither alters the seep, and no session in the holding's history has produced a dry floor.
-
-**Reading the response:** A falling gauge presents as a slower seep: the chalked margin advancing less than the last session, the sump filling under its usual rate. Nothing is closed; the fluid returns to rate within a shift or two. A rising gauge presents as a faster one, and the single reliable precursor is mourning in the chamber — a worker's own grief, not the holding's. Log the volume before anything else, because it is the figure that moves first and the only one that moves for a reason.
 ## Activation Behavior
 
 > **Special activation only — no counter, no gauge.** The listed condition: *"touch or tears falling onto the surface"*.

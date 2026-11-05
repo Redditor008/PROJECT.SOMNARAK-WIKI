@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A colder, brighter rectangle of floor eighteen metres by eleven, under a corridor where nothing visible or audible hangs above it. The grudge pressure is measured from the sides, at an angle, by instruments that cannot be placed where the readings would be best. |
 | **Perceptible to** | The weight of a grudge that has no subject in it, settling over whoever is standing nearest. Then the pressure acquiring a direction — onto one point of the floor. And onto the person who answered rather than the person who shouted. |
-| **Handling** | Get distance, stop shouting, and do not answer. Opening distance is the response across the sixty-three incidents on file. The mean is under two minutes and is not an upper bound, because the one answered incident lasted four and a half. |
+| **Handling** | Get distance, stop shouting, and do not answer. Opening distance is the response across the sixty-three incidents on file. The mean is under two minutes and is not an upper bound, because the one answered incident lasted four and a half. — see `## Handling Process` |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [Pressure]** | **000 of 880** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Both are performed from outside the marked rectangle: observation is the inward-angled watch, and endurance is the discipline of the interval — standing and waiting your turn from the floor that is not under it. |
 | **Location** | SECTOR-C-923, contained |
 | **Resolution Condition** | The affected worker is at distance, has stopped shouting, and has not been answered. Opening distance is the response across the 63 incidents on file. Mean duration is under two minutes, not an upper bound: an answered incident lasted four and a half. Keep silence while the affected worker recovers; the longer record does not authorize subdual. |
 
@@ -147,18 +146,16 @@ The anger it makes has no subject. That is the whole of the danger. It arrives e
 
 So the containment is spacing. Eighteen metres by eleven, marked on the floor, lit cold, crossed one at a time.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the widened footprint and the nine-to-fourteen-second window from behind the marked line, alone, at a distance re-surveyed each session. Company at the edge is what the three recorded incidents have in common. | Decrease · High |
-| **Ferrehan** (Endurance) | The party stands in the corridor through an anger that has no subject and gives it none. Endurance here is silence and separation; a party that answers it has supplied the target the anomaly could not find on its own. | Decrease · Common |
+> **This holding is not worked.** A colder, brighter rectangle of floor eighteen metres by eleven, under a corridor where nothing visible or audible hangs above it. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-The pressure is measured from the sides, at an angle, by instruments that cannot be placed where the readings would be best. Both valid approaches are performed from outside the marked rectangle: observation is the inward-angled watch, endurance is the discipline of the interval — standing and waiting your turn to cross when nothing appears to be wrong. The gauge answers to the interval being kept.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the marked rectangle, the overhead absence, and who is standing inside it as against who is near it. |
+| **Handling** | The watch confirms the rectangle and the overhead absence before anything is said, and notes who is standing inside the marked floor and who is only near it. |
+| **Withdrawal** | **The affected worker is at distance, has stopped shouting, and has not been answered** — and silence is kept through the recovery, because the longer record does not authorize subdual. |
+| **Refusal** | Keeps silence through the recovery, and records what the affected worker said while under it rather than asking them afterwards. |
 
 ## Containment Event Behavior
 

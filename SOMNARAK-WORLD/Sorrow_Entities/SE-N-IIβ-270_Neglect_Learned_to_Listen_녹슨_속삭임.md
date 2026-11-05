@@ -59,7 +59,6 @@
 | **Activation threshold** | Sorrow Gauge ≥ 60 per cent. No breach counter applies; the extent is traced against the fixed survey panels rather than measured off the rust. |
 | **Sorrow Gauge [HP]** | 357/357 |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. The object cannot be engaged emotionally or confronted, and speech near the zone is restricted to operational necessity. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Preserve and acknowledge what was discarded; do not simply remove the rust |
 | **Recovery** | The reply is never argued with and never repeated back. The worker is walked out of earshot, the line they heard is written down in the words they heard it in. And the duty that comes back with them is given a named post — an unassigned duty is what makes the extent grow. And a named one is the only thing that has ever held it. Four workers have heard themselves apologising from inside a pipe, and two did not finish the rotation. |
@@ -125,23 +124,17 @@ The dossier still needs a supported account joining its conflicting records. The
 - **The People:** Nobody, in the ordinary sense, and the holding says so rather than inventing an originator. The commissioning material is a disposal register. It lists what the district threw away and when, it is meticulous, and it is the only documentation this entity has.
 - **Expanded origin context:** The disposal register is the only commissioning document and it is immaculate. Every broken tool, every superseded ledger, every bale of obsolete record is listed with its date and its authorising officer. The district kept excellent records of what it was throwing away. What no document in the folder contains is a single name against a duty, and that absence is the entity. The patch does not answer to the discarded objects. It sat unmoved through two clearances of the dump itself, and through the removal of the entire tool pile in Year 4225. It answers to the phrase on the restructuring schedule — absorbed, shared, picked up by the wider team — written by officers with no capacity to allocate and no wish to burden anybody, and it has answered to nothing else for nine years of register-keeping.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A rust-coloured patch of the Old Lament where whispers cling to walls, pipes and abandoned metal, the corrosion itself the residue of old words. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals what the city discarded, and only to a worker already carrying something the city did not keep. Every reading is paid for out of the reader: the gauge climbs by the interval and the patch does not shrink. | Increase · Low |
-| **Ferrehan** | Forces the worker to carry the whispers without answering them. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the traced extent against the last survey and against the fixed panels — thirty-one square metres at baseline, eight at the floor, one hundred and ninety at the ceiling — and never the rust, which looks the same at eight square metres as at a hundred and ninety. |
+| **Handling** | The carry the cycle; the condition decides it. — see `## Handling Process` |
+| **Withdrawal** | **Preserve and acknowledge what was discarded; do not simply remove the rust** — and the extent is re-traced at the panels, never at the wall. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 60 per cent. No breach counter applies; the extent is traced against the fixed survey panels rather than measured off the rust — is done on purpose. |
 
-
-### Operational Work Notes
-
-Viderehan raises the gauge and reveals what the city set down: not objects, which are in the register anyway, but the duties — the inspection that was everyone's, the round that got shared out, the check nobody's post holds. Ferrehan lowers it, and the endurance is exact: the worker stays inside earshot while the patch repeats back what has been said near it, and does not answer. Answering is the single failure mode of this holding. Neither emotional engagement nor confrontation is available against a Place, and no improvised substitute has ever been authorised here.
-
-**Reading the response:** The gauge measures one worker's silence for one interval. The extent measures what the establishment office has written on its schedules. They are kept in separate columns, they have never moved together, and supervisors are instructed that a session which lowers the gauge and leaves the patch larger has been worked correctly and is written up as a success without qualification.
 ## Expansion Behavior
 
 | Field | Detail |

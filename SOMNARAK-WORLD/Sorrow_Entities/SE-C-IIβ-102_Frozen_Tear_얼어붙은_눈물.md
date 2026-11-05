@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A fist-sized drop of dark blue crystal, lit faintly from inside, suspended in its case with nothing holding it up and warm to a cloth. It has not moved in thirty years. What moves is the field edge, measured at 4.1, 5.6 and 7.2 metres across three annual surveys. |
 | **Perceptible to** | The warmth first, which is the wrong way round and is the whole of the identification — if it is cold, it is not this. Then the steady inner light, best read at night, and cold rain on old cloth. |
-| **Handling** | No contact under any authority. The prohibition is the containment and it has been refused to two Directors who asked. Viderehan is conducted at the case with the opening drawing for reference; Ferrehan is sitting inside the field for the interval. |
+| **Handling** | No contact under any authority. The prohibition is the containment and it has been refused to two Directors who asked. Viderehan is conducted at the case with the opening drawing for reference; Ferrehan is sitting inside the field for the interval. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; no trigger is required |
 | **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the moment itself and moves the gauge not at all; Ferrehan is the sitting, and it is the row that produces the decrease. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | No contact under any authority. The 25% figure is where the count lands, not what the watch is aiming at, on every cycle Frozen Tear has logged. |
 
@@ -141,23 +140,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One unnamed Zone B citizen who lost a mother, a husband and a daughter inside a decade and did not weep for any of them. The file could support a plausible identification and declines to make one.
 - **Expanded origin context:** The commissioning record is four lines: a windowsill in Zone B, a date, the fact of three deaths, and the name of the constable who found it and did not know what he was looking at. Personnel who work the holding report the same change afterwards, and the file records it plainly because it is relevant: they sit with people longer, they ask fewer questions, and several report weeping for the first time in years. The holding is not held to cause this. It permits it, which here is a different thing and the whole of the matter.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A fist-sized drop of dark blue crystal, lit faintly from inside, suspended in its case with nothing holding it up and warm to a cloth. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The moment itself: a room, a sill, a face that has stopped trying. Gauge does not move. | Stable · Common |
-| **Ferrehan** | Sitting inside the field for the interval without reaching for it. Most Wardens describe this as the easiest posting in the wing and the hardest to leave. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the four readings in their fixed order, the field edge against the pegs, and the opening drawing — the oldest document in the folder and the reference the file prefers to a photograph. |
+| **Handling** | The watch all four are taken each watch and the field edge is walked and pegged physically before either stages begins, rather than estimated from last session's figure. |
+| **Withdrawal** | **No contact under any authority** — the 25 per cent figure being where the count lands and never what the watch is aiming at, on every Frozen Tear cycle logged. |
+| **Refusal** | Nothing is put a hand on it, nothing is leaned against the case, and no request for a sample has been granted. Two have been refused. |
 
-
-### Operational Work Notes
-
-Two rows of this table are blank by rule rather than by result, and the two that work are the two that require nobody to put a hand on anything. Frozen Tear is an Object/Place: it cannot be engaged through Flerehan or confronted through Pugnahan, and the file records no attempt at either — the prohibition on contact is the containment, and it has been refused to two Directors who asked. Viderehan is conducted at the case with the drawing for reference and moves nothing. Ferrehan is sitting inside the field for the interval without reaching for it, and it is the row that produces the decrease. The holding is at SECTOR-D-02, Echo Gardens, the most visited thing in the Gardens and the only one with a bench inside its field. And personnel should not transfer assumptions from a neighbour with a similar name: this is not the one that produces grief, it is the one that permits it.
-
-**Reading the response:** The decreasing row here is not a treatment and does not look like one. Sitting inside the field without reaching produces the fall, and what it produces in the sitter is the permission to be distressed without it being read as a failure of composure — the thing the Works Office rules forbid anybody at this Company to offer. A stable gauge under Viderehan is the correct reading and the one the file keeps: the moment itself is a room, a sill, a face that has stopped trying, and it does not move anything. Four readings are taken each watch and three of them have never moved in thirty years — the glow against the night card, the warmth through cloth, the outline against the opening drawing. Only the field edge moves, and where the entity reacts outside this table the reaction is data: preserve it before the next cycle and log it before the next assignment.
 ## Activation Behavior
 
 > **Special activation — no counter.** No trigger is required and none is recorded: being inside the field is the whole of the activation, and nothing need be done at all.

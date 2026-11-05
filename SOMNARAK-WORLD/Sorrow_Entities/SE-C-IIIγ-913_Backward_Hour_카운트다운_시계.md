@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A twelve-hour occurrence measured at fixed points across the district. Every timepiece in the sector reverses together, including sealed and unpowered ones, and the reversal is silent — nobody has ever noticed it start. |
 | **Perceptible to** | The second hand going the wrong way and the room agreeing with it. Then the count, voiced aloud by somebody who was not asked and cannot stop until it reaches zero. At zero, a permission that somebody holds lapses. |
-| **Handling** | Read the fixed points, deploy by rate, stand down at the end, and reconcile the warrant book afterwards. Nothing shortens an occurrence and nothing is suppressed; the rates fall again at the twelfth hour. |
+| **Handling** | Read the fixed points, deploy by rate, stand down at the end, and reconcile the warrant book afterwards. Nothing shortens an occurrence and nothing is suppressed; the rates fall again at the twelfth hour. — see `## Handling Process` |
 | **Activation threshold** | 3 conditions |
 | **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time. Viderehan reads the rate across the fixed-point network. Ferrehan is working the full twelve hours inside a street that is turning on itself, which is the only approach that lowers the carry. |
 | **Location** | SECTOR-C-913, contained |
 | **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. Nothing shortens an occurrence. Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book. |
 
@@ -146,18 +145,16 @@ Time is the medium rather than the subject. There is no object to point at and n
 
 What is certain is that the effect is graded rather than uniform. And that the grading is stable in character while moving in place: every occurrence has its fast streets and its slow ones, no two occurrences have had the same distribution. And the anger follows the rate with a consistency the network has now demonstrated sixty-one times.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Take the fixed readings in sequence at the marked points and compare them. The reversal resolves into a specific undoing with a date, a street and an instrument behind it. No single reading carries it, which is what the twelve-hour series is for. | Decrease · High |
-| **Ferrehan** (Endurance) | Hold a reading point for the whole twelve hours without leaving it. The pressure settles around the worker who stays, and what the post buys is interval, which is the only currency this holding pays in. | Decrease · Common |
+> **This holding is not worked.** A twelve-hour occurrence measured at fixed points across the district. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manifestation, Grudge expression, recorded at SECTOR-C-913 and occurring across Zone B. Flerehan and Pugnahan are unavailable to a Time. Both valid Work Types lower the gauge and neither affects an occurrence in progress. What they buy is interval, which is the only currency this holding has.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the fixed-point readings at the start of the occurrence, the warrant book for everybody on the deployment, and the twelfth-hour figure from the previous event. |
+| **Handling** | The watch reads the fixed-point network at the start of the occurrence and enters the rate per street before anything is deployed. |
+| **Withdrawal** | **Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book** — nothing shortens an occurrence, and the rates fall again at the twelfth hour. |
+| **Refusal** | Reconciles the warrant book against the lapse list afterwards and reissues what the office will reissue, without contesting the lapse. |
 
 ## Containment Event Behavior
 

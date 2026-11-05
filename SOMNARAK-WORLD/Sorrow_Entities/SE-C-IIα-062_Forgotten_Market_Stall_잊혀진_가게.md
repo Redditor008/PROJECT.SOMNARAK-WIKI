@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A market stall of ordinary wood, cloth and rusted iron, standing in the abandoned commerce district after dark, lit and trading with nobody behind the table. Its stock varies with every appearance and the height of the table has differed by almost half a metre across the record. It is never twice in the same place; while it stands it does not move. |
 | **Perceptible to** | The labels first — each goods ticket describing a lost life or moment in handwriting the reader half-recognises — then the warm patch the ground keeps after it has gone, and ash on the air. |
-| **Handling** | Worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is turned over or taken up. A worker who has picked something up puts it down, says so aloud, and is logged as having done it. |
+| **Handling** | Worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is turned over or taken up. A worker who has picked something up puts it down, says so aloud, and is logged as having done it. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
 | **Sorrow Gauge [Saturation]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the histories the goods carry and moves the gauge not at all. Ferrehan endures the offers, which is the row that brings it down. |
 | **Location** | Zone B, Forgotten Market — mobile manifestation |
 | **Resolution Condition** | The watch ends at dawn with the labels copied, the bearing entered to the nearest metre, and nothing taken up. The gauge at the close must be below 25%. |
 
@@ -141,28 +140,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The merchants of the Forgotten Market, named in the ward's tenancy record pitch by pitch, with the date each tenancy lapsed. The lapses cluster in a span of about four years. No closure order was ever issued against any of them, and none of them was ever told the market had ended, because on paper it has not.
 - **Expanded origin context:** The commissioning material is not an incident report but the ward's tenancy record: pitch by pitch, tenant by tenant, with the date each tenancy lapsed and the lapses clustering inside about four years. The market was never closed — no order was made, nobody was served. And on paper it operates still, with a register, an annual meeting and a clerk the wing has quietly funded for nine years so the by-laws that license the night watch stay in force. The sorrow here is not the city's grief in general; it is a column of lapsed names in a book that is still open.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A market stall of ordinary wood, cloth and rusted iron, standing in the abandoned commerce district after dark, lit and trading with nobody behind the table. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Goods reveal hidden histories and former owners. | Stable · Common |
-| **Ferrehan** (Endurance) | Offers increasingly tempting goods; resisting tests the worker. | Decrease · High |
-### Special Behaviors
-- It appears only after dark and is gone by morning.
-- Payment may involve Echoes, memories, or small personal objects.
-- The Stall never sells what the customer expects, but often sells what they need.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the bearing and distance from the market gate to the nearest metre, the height of the table, and the ground temperature at the centre and at four marked points, all taken before the stock is read. |
+| **Handling** | The watch the bearing and distance from the market gate are fixed to the nearest metre before anything else is written, then the frame, then the stock item by item. |
+| **Withdrawal** | **The watch ends at dawn with the labels copied, the bearing entered to the nearest metre, and nothing taken up; the gauge at the close must be below 25%.**. |
+| **Refusal** | Force is not used on this holding at all, and no item is taken up to provoke a response. What could not be copied is entered as outstanding. |
 
-
-
-### Operational Work Notes
-
-Forgotten Market Stall is an Object/Place with Object-Void manifestation and Void expression, appearing after dark within the Forgotten Market in Zone B and never outside it. Viderehan opens the histories carried by the goods and moves nothing. Ferrehan is the work that matters: the table responds by offering better things, and enduring that is the whole of the cycle. It has never been recorded elsewhere, and aggression ends the encounter immediately by making the stall absent.
-
-**Reading the response:** Read it in the stock. A falling gauge presents as thinning — fewer items, plainer ones, labels that describe nothing much. A rising gauge presents as improvement: the table gets better, the labels get more specific, and at the top of the curve a worker will find something on it that is addressed to them in all but name. That is the reading, and it is also the only warning the holding gives. Log the stock at the start and end of every watch, and log what the best item on the table was.
 ## Activation Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"nightfall in the forgotten market and concentrated nostalgia or grief"*.

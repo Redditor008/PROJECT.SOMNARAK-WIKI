@@ -97,7 +97,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Major (γ) · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-926 |
 | **Resolution Condition** | The transect walked to its end, the count signed by someone carrying no Token, and the gauge below 25%. |
 
@@ -157,20 +156,16 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One thousand three hundred and eighteen people on the identification register, of whom one thousand and four have no living relative with standing. They are alive. They are in wards. They are not asked, because asking is not possible, and the facility's own ethics review found in writing that this made the use easier rather than harder and recommended no change.
 - **Expanded origin context:** Nobody did anything wrong here in a way an inquiry can find, and the training wing's case is the strongest in the file. A hazard briefing illustrated with a real face is attended to; one illustrated with a silhouette is not. Induction comprehension on casualty handling was measured for eleven years and the faces carried it. People who had seen the faces behaved differently at a cordon. The wing was not exploiting anybody. It was trying to stop its own staff from treating the Fractured as a number, which is the exact failure the register was photographed to prevent. The site does not respond to the Fracturing of anyone. It has never moved for an intake, a death, or a ward closure. It responds to the likeness column, and the facility did not have a likeness column until Year 4219.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | The transect walked and the surfaces counted. It is the only approach that has ever produced a finding here, and it produced the finding by counting what the images were thrown on rather than what they showed. | Decrease · High |
-| **Ferrehan** (Endurance) | The full sweep walked to its end, past faces the Warden can name, without stopping in front of any of them. The site does not reward patience; it simply stops gaining on a team that does not halt. | Decrease · Common |
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Viderehan and Ferrehan both lower the gauge and are the only valid approaches. Flerehan and Pugnahan are Negative-Low for a Hazard and were previously printed with an em-dash in the Gauge column as though a reading had been withheld. The Escalation Notes called for physical suppression, which is not an approach available on this file at all, and that line has been struck.
-
-**Reading the response:** The gauge measures one team for one sweep. The surface count measures how this facility has been using faces it was never able to ask for. They are kept in separate columns, they have never moved together, and a sweep which lowers the gauge and counts two hundred surfaces is written up as a clean sweep without qualification.
+| Stage | What is done |
+|---|---|
+| **Approach** | The observer and the stander, both of which lower the gauge, with the sweep walked first. |
+| **Handling** | Extraction is separately authorised and is never written up as the reward for a clean sweep. — see `## Handling Process` |
+| **Withdrawal** | The transect walked to its end, the count signed by someone carrying no Token, and the gauge below 25%. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 60% — is done on purpose. |
 
 ## Expansion Behavior
 

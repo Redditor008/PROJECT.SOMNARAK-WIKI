@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | A hand laid upon the carving, or bare skin inside the longing-field. No percentage and no count are listed |
 | **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
 | **Resolution Condition** | Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim |
 
@@ -146,22 +145,16 @@ The gauge is read at the instrument. The cost is read on the person.
 
 > ⚠ **WARNING — CLASSIFIED (see SE-C-Vδ-949):** The Foam Flood is cross-flagged with one other contained entity (the Soot Fry, C-IIβ-947) and with a **forbidden transformation outcome** logged under SE-C-Vδ-949. The two entities must **never** be reunited. The consequences of reunion are documented solely in the SE-C-Vδ-949 file (Echo-Core Eyes Only) and are **deliberately not repeated here**. Maintain maximum sectoral separation at all times; any drift in proximity is a Critical-priority emergency.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A stone dragon carved in the vault wall with its wings held still, white eyes lit. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. | Stable · Common |
-| **Ferrehan** | The worker holds beneath the pull of the sky without rising to it — the heaviness of a grounded thing enduring its own longing. | Decrease · High |
-
-### Operational Work Notes
-
-The two valid Work Types do different things here and the difference matters. Viderehan leaves the gauge stable because observation does not relieve the carving of anything; it only makes the wanting legible in the glow. Ferrehan lowers it because a worker who stands inside the field and does not rise to it is, for the length of the cycle, doing what the stone does. Personnel should not carry assumptions across from other statue or relic holdings: a stable gauge here means the encounter was read, not that it was safe.
-
-**Reading the response:** A decrease means the worker endured the pull without reaching for it. An increase means the carving was touched or the eyes brightened, and both move the Vault toward full spread. The one reading the protocol insists upon is the eye-brightness taken at the start and end of every watch, because it is the only number this holding produces that is not an interpretation.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the eyes, the field's edge against the vault floor, and that nobody is bare-skinned inside it. The carving is not approached and not touched. |
+| **Handling** | The watch the recognition that the vault is under a field rather than under a roof, and the first pull of the floor. — see `## Handling Process` |
+| **Withdrawal** | Against the file's documented suppression condition: **Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim**. |
+| **Refusal** | Nothing that would meet the activation — A hand laid upon the carving, or bare skin within the longing-field — is done on purpose. |
 
 ## Activation Behavior
 

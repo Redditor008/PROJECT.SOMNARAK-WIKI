@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A crystallised scream hanging in the air as a red object with a torn, mouth-like opening, producing no ordinary sound. It hangs where it was left. The height has risen slowly across the record, and the opening has twice turned to face the person speaking rather than the person working. |
 | **Perceptible to** | The pressure first — no sound reaches the instruments, and the teeth and sternum receive the sentence the ears have filed as noise — then the orientation of the torn opening, which is the register. |
-| **Handling** | Nothing is touched and nothing is shouted in the chamber. Height and orientation are recorded at each session, and a raised voice is treated as a second conversion of the protest into noise rather than as an answer to it. |
+| **Handling** | Nothing is touched and nothing is shouted in the chamber. Height and orientation are recorded at each session, and a raised voice is treated as a second conversion of the protest into noise rather than as an answer to it. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on touch or vocal aggression nearby |
 | **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan uncovers the injustice behind the scream and holds the reading steady — stability is the correct outcome here and is not a stalled session. Ferrehan asks the worker to remain beside sustained anger without taking it up and repeating it. And that restraint is where the decrease comes from. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | The grievance is entered in the complaints register with a complainant named, and the Sorrow Gauge falls below 25% |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One witness in the Desolate who screamed about something that was done, and everyone within hearing who decided it was shouting. The Keepers' record names neither, and the file notes the asymmetry: the witness is unnamed because no one wrote the complaint down, which is the whole of the event.
 - **Expanded origin context:** The only contemporaneous document of the event is the register entry it produced: number 1,104, complainant not recorded, subject of complaint not recorded, nature given as a disturbance of the Desolate border, duration unknown, action none required. It took the clerk less than a minute to write, and the file's reading of that minute is the entity's whole origin — a protest was made, it was heard, and it was entered as noise by somebody who was not being careless. The complaints lodged about the noise itself survive in the Watch Record and describe the volume, the hour, and the inconvenience. Not one of them records what was being said. The archive has tried three times to establish the injustice and has produced three different answers, because every source is a person who was present and decided at the time that nothing had happened. The file's position is that the content is unrecoverable and that this is not a gap to be closed.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A crystallised scream hanging in the air as a red object with a torn, mouth-like opening, producing no ordinary sound. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the injustice behind the scream. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can remain with anger without repeating it. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the height the crystal hangs at, the orientation of the torn opening, and the wording of the most recent report filed about it, read before anything is entered. |
+| **Handling** | The observer uncovers the injustice behind the scream and the stander remains beside the anger without taking it up. Nobody raises a voice in the chamber, and the first act of tidying somebody else's objection ends the session. |
+| **Withdrawal** | **The grievance is entered in the complaints register with a complainant named, and the Sorrow Gauge falls below 25%** — and the entry is a filing, not a reply. |
+| **Refusal** | Nobody shouts the chamber down. The standing instruction is that a countershout is not an intervention but a second conversion of the protest into noise. |
 
-
-### Operational Work Notes
-
-The two available approaches split the work between what the cry is about and what the worker can sit with. Viderehan uncovers the injustice behind the scream and holds the reading steady — stability is the correct outcome here and is not a stalled session. Ferrehan asks the worker to remain beside sustained anger without taking it up and repeating it, and the falling reading comes from that restraint rather than from anything done to the crystal. Neither approach closes the record on its own: raised voices anywhere in the chamber, a hand on the crystal, or a summary that calls what happened a sound all push the reading up, and the entry in the register pushes it down.
-
-**Reading the response:** A falling gauge under Ferrehan means the worker stayed with the anger and did not perform it back. A stable gauge under Viderehan means the injustice was shown and seen; stability is the correct outcome and is not a failed session. Rising means somebody in the chamber raised their voice, touched the crystal, or summarised what it was doing as sound.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"touch or vocal aggression nearby"*.

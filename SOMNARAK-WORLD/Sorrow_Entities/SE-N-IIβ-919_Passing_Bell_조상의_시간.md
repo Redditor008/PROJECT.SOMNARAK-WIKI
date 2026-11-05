@@ -56,7 +56,6 @@
 | **Activation threshold** | 3 cycles — and the threshold identifies the recurring-hour record rather than a physical switch. The hour arrives and cannot be moved, shortened or skipped |
 | **Sorrow Gauge [HP]** | 495/495 — the containment meter, read at the station |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-N-919, contained |
 | **Resolution Condition** | Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled |
 
@@ -123,18 +122,16 @@
 - **The Event:** The first hour was logged as equipment fault. The second, five weeks later, was logged as equipment fault. The third was transcribed by a night clerk who had no instruments and wrote down what she heard, and her pages are the holding's first record.
 - **The People:** The dead of Zone A, unnamed and uncounted. Nine of the voices recur often enough to have been given numbers by the transcribers, and the station has twice refused to let them be given names.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Records who heard the bell and who did not, which is the whole of the reading: the bell is heard by whoever will be affected and by nobody else. | Decrease · High |
-| **Ferrehan** (Endurance) | The party keeps the no-speaking rule through a passing and overruns it rather than breaking it. The warning is the only thing that can be given, and it is given in writing, under the established procedure. | Decrease · Common |
+> **This holding is not worked.** A fixed sector in Zone A during one hour per cycle, when the voices of the dead become audible to each other and not to the living. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Both usable Work Types lower the gauge and neither does so during the hour. The fall comes when the warnings are copied into the ledger afterward, which the station established in Year 4,230 by delaying the copying for a week and watching nothing happen until it was done. Nobody has explained it and the procedure is built around it regardless.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm two transcribers, opposite corners, their own books and pencils, no recorder, and the hour — which does not move for anybody's convenience. |
+| **Handling** | Writes. No questions are prepared because questions cannot be asked aloud. Nobody answers a voice even when it uses a surname. The observer is the hour itself and the stander is staying for all of it, which is where the gauge falls. — see `## Handling Process` |
+| **Withdrawal** | The hour ends mid-sentence, every time, against the file's documented suppression condition: **Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled** — sealed, copied. And filed side by side, never reconciled. |
+| **Refusal** | An entry recording what was said, and no reply. Anyone who answers is recorded as having answered and is not reassigned to the hour. |
 
 ## Breach Behavior
 

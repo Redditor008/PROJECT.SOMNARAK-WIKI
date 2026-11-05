@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A long woven hanging of crystallised tears on a frame in the Echo Gardens, always damp, clinging to a hand like wet silk, leaving salt traces and the smell of a fresh wound. It has not been worn since the frame was built, and the nine historical wearings are the whole wearing record. |
 | **Perceptible to** | The damp first, four metres past the frame in a corridor where eleven people work and none of them can tell they are standing in it. Then the salt, the smell. And a handover note that has got shorter than it was. |
-| **Handling** | Not lifted, not draped and not worn, by anybody, for any reason. The frame is not moved and the edge is measured at the floor marks. The room's account is taken from two workers who are outside the field. |
+| **Handling** | Not lifted, not draped and not worn, by anybody, for any reason. The frame is not moved and the edge is measured at the floor marks. The room's account is taken from two workers who are outside the field. — see `## Handling Process` |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
 | **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Ferrehan stands beside the frame; Viderehan surveys the dulled edge and reads the room's own account against it. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Somebody says, in the room and in their own voice, that they have had a death — without being asked and without saying whose. Nothing else has ever reduced the survey. |
 
@@ -140,23 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The mourners of the Echo Gardens, named on the Gardens' own list where it was kept. The list is long and ordinary and is reproduced without annotation, because annotating it would mean ranking the griefs.
 - **Expanded origin context:** The commissioning material includes the Gardens' etiquette guidance of the period, which advised mourners to keep their weeping out of company and offered practical means of doing so. It was written helpfully, by people trying to make grief bearable among others, and it is reproduced at length because the veil is what their help became.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A long woven hanging of crystallised tears on a frame in the Echo Gardens, always damp, clinging to a hand like wet silk, leaving salt traces and the smell of a fresh…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Holds steady long enough to walk the grid and fix the dulled edge. | Stable · Common |
-| **Ferrehan** | The long watch beside the frame, with the Warden saying what they came in carrying and not being asked anything further. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the frame, the floor marks and the width of the damp at the edge, with the two workers' names and the room's roster taken so the account can be gathered from outside the field. |
+| **Handling** | The stander beside the frame and the observer on the edge, the second warden reading the first one's words rather than the reading. Nothing is lifted, draped or worn, and no watch ends on a report that everything is fine. |
+| **Withdrawal** | **Somebody says, in the room and in their own voice, that they have had a death — without being asked and without saying whose** — and the criterion is the sentence rather than the survey, which moves for the sentence and for nothing else. |
+| **Refusal** | Nothing is put over a face, and no cycle is worked inside the field without a second worker outside it. |
 
-
-### Operational Work Notes
-
-The table holds steady and the cards do not. What the Gardens tracks is the proportion of cards that say something true about the warden's own week. It has run between a third and four-fifths, and the gauge follows it inversely with a lag of about a fortnight. A watch of entirely composed cards is the most expensive kind this holding has.
-
-**Reading the response:** A falling gauge means a card was written honestly by somebody who did not have to. It rises when the Gardens issues anything about bearing or demeanour, and it rose eleven points in the quarter the Wardens' dress standard was reissued.
 ## Activation Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"placing it over a face"*.

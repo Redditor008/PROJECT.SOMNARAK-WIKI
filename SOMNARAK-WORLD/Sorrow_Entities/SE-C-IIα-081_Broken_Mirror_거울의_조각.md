@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A cracked mirror of dark Han-crystal in a corroded frame at SECTOR-A-01, its surface shattered into facets that return not the present but a memory. It is mounted, the shard count is checked at every session, and the painted line on the floor is the only place the watch stands. |
 | **Perceptible to** | The memory first, which arrives as a place rather than as a reflection. Then the cold of the facets and the dust the Archive has never got out of the frame. |
-| **Handling** | Not touched, not covered and not turned. One authorised viewing per session from the painted line, the shard count before and after, and the viewing logged against the Keepers' erasure register. |
+| **Handling** | Not touched, not covered and not turned. One authorised viewing per session from the painted line, the shard count before and after, and the viewing logged against the Keepers' erasure register. — see `## Handling Process` |
 | **Activation threshold** | Direct gaze or physical contact — no breach counter. |
 | **Sorrow Gauge [Saturation]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan holds the viewing to the painted line; Ferrehan checks the shard count and closes the session. |
 | **Location** | SECTOR-A-01, Alpha Tree Archive — contained |
 | **Resolution Condition** | The session closes with either one authorised viewing logged or none, and the shard count checked. Nine years of sessions, 41 authorised viewings, and a shard count that has never changed. |
 
@@ -149,28 +148,17 @@ The struck-triggered Flying Glass action does describe a departing shard, wherea
 - **The People:** The citizens who brought memories to the Keepers to be sealed, the Keepers who sealed them, and the people inside the memories, who were not consulted.
 - **Expanded origin context:** Sealing was a service and it was paid for. The Archive took the memory, vaulted it, and issued a receipt. The practice ran for generations and the ledgers survive in better condition than almost anything else from the period. It worked. That is the part the file insists on. For years those people did not remember what they had paid not to remember, and the Archive did exactly what it had undertaken to do. Then one vault failed. What came out of it did not go back into anybody's head — it set, in crystal, where anyone standing in front of it can be shown it.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A cracked mirror of dark Han-crystal in a corroded frame at SECTOR-A-01, its surface shattered into facets that return not the present but a memory. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Shows pattern across a viewer's own history — recurrences, avoided years, the shape of what is missing — without naming a single event. | Stable · Common |
-| **Ferrehan** (Endurance) | Shows the worst of it and requires the worker to stay; distress falls afterwards and the gauge with it. The only approach that lowers the gauge. | Decrease · High |
-### Special Behaviors
-- It returns what was put away rather than what is in front of it; the room has never once appeared in the glass.
-- The projected memory routinely includes people the viewer has deliberately forgotten, in recognisable detail.
-- Looking away ends the projection and changes nothing in the glass; the next viewer gets their own.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the painted line, the shard count, and the authorisation against the Keepers' register, all taken before the glass is looked at. |
+| **Handling** | The observer holds the viewing at the line and the stander counts the looks and the shards. The memory is written down afterwards, outside the room, and the glass is never covered or turned to see what it does. |
+| **Withdrawal** | **The session closes with either one authorised viewing logged or none, and the shard count checked** — nine years of sessions, 41 authorised viewings, and a count that has never changed. |
+| **Refusal** | Nothing is removed from the frame and nothing is pressed to it; the count is taken before the session and after it. |
 
-
-
-### Operational Work Notes
-
-Broken Mirror is an Echo (II) Object/Place with Object-Void manifestation and Void expression, held at SECTOR-A-01. The Work Type table applies at the painted line and the number the Archive keeps is the authorised-viewing count against the Keepers' erasure register: 41 viewings in nine years, and the gauge rises in every quarter the register gains an entry.
-
-**Reading the response:** Read it in the radius and in the worker's account. A falling gauge presents as the radius edge drawing back toward the case; a rising one presents as the edge reaching into the stacks. The worker-side indicator is simpler: a viewer who wants a second session has had enough, and the rule is written that way round deliberately.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"direct gaze or physical contact"*.

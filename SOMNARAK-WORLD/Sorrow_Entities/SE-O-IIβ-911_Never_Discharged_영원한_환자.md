@@ -74,11 +74,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A body shown within a moment — the soldier, the overturned table, the falling light — held at the same instant in the same bay, on a loop that runs every forty-seven minutes and has not missed in nine years. It is a temporal scene, not a patient, and it is not available for ordinary treatment. |
 | **Perceptible to** | The air going heavy at forty-six minutes and the dust in it stopping. Then the scream, which happens in the throat of whoever is inside and in the throats of nobody outside the doorway. Outside the doorway there is nothing at all. |
-| **Handling** | The doorway is the containment: nobody crosses it, and the loop is read from the corridor with the clock and the discharge sheet. Two loops watched, the sheet completed, the discharge book signed for the day. |
+| **Handling** | The doorway is the containment: nobody crosses it, and the loop is read from the corridor with the clock and the discharge sheet. Two loops watched, the sheet completed, the discharge book signed for the day. — see `## Handling Process` |
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, both worked from the corridor. Viderehan makes the body pressure legible under sustained observation. Ferrehan is standing the interval at the line without opening the door, and the roster is built on the finding that the fall comes after the second loop and never after the first. |
 | **Location** | SECTOR-O-911, contained |
 | **Resolution Condition** | Two loops watched, the sheet completed, and the discharge book signed for the day. The book is the close of every cycle and has been since Year 4,229. |
 
@@ -144,18 +143,16 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The Event:** A soldier was brought into the bay, a table went over, and a light was broken. The ward register for that day survives and is complete except for one line. Every other patient admitted that week has a discharge entry beside their name, in the same hand, with a date.
 - **The People:** One man, unnamed in this file by the wing's own decision after two attempts to trace him produced two different names. Nobody who worked the ward is still at the facility, and none of the four statements taken in Year 4,228 agree on what happened before the table went over.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Times the loop from outside the door and reads the corridor’s own figure. The weight arrives as tiredness, so the only reading that can be trusted is the clock. | Decrease · High |
-| **Ferrehan** (Endurance) | A party keeps the door shut and stays for the whole loop, timing it from outside. The endurance is spent against a tiredness that is not theirs and does not lift when the loop does. | Decrease · Common |
+> **This holding is not worked.** A body shown within a moment — the soldier, the overturned table, the falling light — held at the same instant in the same bay, on a loop that runs every forty-seven…. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-The table says the two available Work Types both reduce the gauge and does not say the thing the roster is built on: the fall comes after the second loop and never after the first. 611 cycles, no exception, no explanation. A warden who watches one loop and leaves has done nothing at all to the gauge, and the wing has stopped pretending to know why.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the interval against the forty-seven-minute record, the head count on the corridor side of the doorway, and the discharge sheet open before the first loop. |
+| **Handling** | The watch reads the clock from the corridor, marks the hour of the warning, and confirms the second loop against the sheet before anybody is posted forward. |
+| **Withdrawal** | **Two loops watched, the sheet completed, and the discharge book signed for the day** — and the book is the close of every cycle, signed whether or not anything in the bay changed. |
+| **Refusal** | The doorway is the containment: nobody crosses it, and the loop is read from the corridor with the clock and the discharge sheet. Two loops watched, the sheet completed, the discharge book signed for the day. |
 
 ## Containment Event Behavior
 

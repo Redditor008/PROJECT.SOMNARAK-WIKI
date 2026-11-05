@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A tall mirror of pale-black crystal in a cold dark frame in the Alpha Tree, its surface reflecting not the viewer but their sorrow as a face. It gives back no warmth, it has never reflected the room, and the mounting has not changed in the record. |
 | **Perceptible to** | The reflection first, which is a face and not the viewer's own. Then the cold of the glass, the flat mineral smell of it, and the certainty that the grief being shown is one the viewer already had. |
-| **Handling** | Not covered and not turned to the wall — the two attempts on file are why both are prohibited. A watch is worked from one metre, square on, with a second person behind the viewer and out of the glass's line. |
+| **Handling** | Not covered and not turned to the wall — the two attempts on file are why both are prohibited. A watch is worked from one metre, square on, with a second person behind the viewer and out of the glass's line. — see `## Handling Process` |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
 | **Sorrow Gauge [Saturation]** | **000 of 660** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Ferrehan holds the gauge level from behind the viewer and Viderehan reads the face; neither stands in the reflection alone. |
 | **Location** | SECTOR-A-01, Alpha Tree |
 | **Resolution Condition** | The channel is closed deliberately by the channeller, who steps off the mark before turning, and the learned-face count is entered before the bay is closed |
 
@@ -142,23 +141,17 @@ The contact record now observes the same mounted limits: the glass returns sorro
 - **The People:** Two hundred and twelve citizens of the district who carried a grief into a sealed room beneath the Alpha Tree and came out without having said it to anybody. They are named in the room's access register and nowhere else.
 - **Expanded origin context:** The room was not a shrine, a clinic or a confessional, and nobody has ever established who opened it or what it was supposed to be. What the register proves is the shape of the thing: people went in one at a time, stayed between nine minutes and four hours, and left alone. Nobody spoke to anybody. The archivist's note records what the wing takes from it: the sorrow here is not the grief that went in, which was ordinary, but the two hundred and twelve separate decisions that it could not be told to another person.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A tall mirror of pale-black crystal in a cold dark frame in the Alpha Tree, its surface reflecting not the viewer but their sorrow as a face. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the grief a person has kept out of sight, including from themselves, and holds the gauge level while it does. | Stable · Common |
-| **Ferrehan** | Requires the worker to stay with the reflection rather than look away from it, and is the only approach that lowers the gauge. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the frame, the one-metre mark on the floor, and the viewer's own account of what they are carrying, taken before the glass is looked at. |
+| **Handling** | The observer reads the face at one metre with the stander behind the viewer holding the gauge, one minute per station, the turn called aloud by the person who is not being reflected. |
+| **Withdrawal** | **The channel is closed deliberately by the channeller, who steps off the mark before turning, and the learned-face count is entered before the bay is closed** — the mark is stepped off first and the count is written before the door is shut. |
+| **Refusal** | It is not covered and not turned; no cloth is hung on the frame and no reading is taken from behind it. |
 
-
-### Operational Work Notes
-
-Learned Your Face is an Object/Place with Object-Void manifestation and Void expression, mounted in the Alpha Tree bay in SECTOR-A-01 and classed as an O-Relic. Viderehan and Ferrehan are the only valid approaches and the restriction is genuine here rather than inherited from a template: there is nothing to weep to and nothing to confront. Ferrehan lowers the gauge; Viderehan is what the wing mostly does.
-
-**Reading the response:** Read it in the surface and in the channeller. A falling gauge presents as the glass dulling and the channeller's account becoming plainer — fewer qualifications, shorter sentences. A rising gauge presents as clarity: the reflection sharpening, acquiring detail the channeller did not expect, and beginning to answer questions nobody asked aloud. Clarity is the escalation on this holding and the watch ends when it starts.
 ## Activation Behavior
 
 > **Special activation — no counter.** Filed trigger: *"direct gaze"*.

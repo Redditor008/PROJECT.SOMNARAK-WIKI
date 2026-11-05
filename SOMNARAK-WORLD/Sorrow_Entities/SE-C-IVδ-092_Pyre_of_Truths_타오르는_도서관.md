@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A standing fire in a library that has burned for decades without producing ash. The books turn their own pages and stay bound, no shelf has gone up, and the air at face height and the air against a bare hand refuse to agree about the heat. |
 | **Perceptible to** | The heat in the visitor's own written notes before the shelves are touched — the first warning is addressed to the person and not the collection — then the bay-by-bay closures, each logged with its second count. |
-| **Handling** | Enter with one written question and leave exactly as the room was found. Nothing is seized, destroyed or enumerated. Curiosity is the whole of the permitted errand, and a team that arrives with a list reads nothing at all. |
+| **Handling** | Enter with one written question and leave exactly as the room was found. Nothing is seized, destroyed or enumerated. Curiosity is the whole of the permitted errand, and a team that arrives with a list reads nothing at all. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on an approach that intends to possess, destroy or enumerate the collection |
 | **Sorrow Gauge [Pressure]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan lets the fire light the book that answers the question actually being asked, which is not always the question the observer thought they were asking. Ferrehan is holding position in the stacks and reading what the fire permits. |
 | **Location** | SECTOR-B-02, Zone B |
 | **Resolution Condition** | Approach with curiosity rather than possession or destruction |
 
@@ -143,28 +142,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Keepers and Council officers who removed records from public history, several of whom are themselves documented in the stacks, and 2,600 named persons whose histories sit in deposits that no office may cite.
 - **Expanded origin context:** Everything in these stacks is true and none of it may be used, and the rule that produces that is the rule which keeps the Archive worth reading. A historical record is admitted to the public Archive only with a documented provenance — where it was made, who held it, how it arrived — because an archive that accepts unprovenanced material is an archive a forger can write. The Year 4120 charter is the proof: one undocumented founding instrument, admitted on its apparent age, and 400 derived works withdrawn over the following decade. The books here have no provenance of any kind. They are not acquisitions; they appear. So a worker may read a page, be certain of it, be changed by it, and may not enter a word of it anywhere that would oblige anybody to act. Nine thousand four hundred transcripts have been deposited under seal. None has been admitted.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A standing fire in a library that has burned for decades without producing ash. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | The fire lights the book that answers the question that was actually asked, which is not always the question the observer thought they were asking. | Stable · Common |
-| **Ferrehan** (Endurance) | The worker holds position in the stacks and reads what is permitted. The strain is exposure to the material, not the heat. | Decrease · High |
-### Special Behaviors
-- The flames light the pages. Nothing in the chamber has ever been charred, including paper held directly in them.
-- Arriving to take, catalogue or destroy raises the heat and closes the shelves within seconds.
-- It sometimes answers a question adjacent to the one written down, and the adjacent answers are the ones the counsellors see most of.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the fire line and the three identification readings, the one written question the observer entered with, and the preservation purpose declared at the threshold. |
+| **Handling** | The watch marks the fire line and checks the designation against three things — nothing burning down, the books turning their own pages, the air at hand and at face height disagreeing — before the cycle opens. |
+| **Withdrawal** | **Approach with curiosity rather than possession or destruction** — the clause crews break first, because a library invites handling, and what this one keeps are records that cannot be handled. |
+| **Refusal** | Does not attempt to take, copy or photograph a page, and records the permitted reading as permitted rather than as a finding of the visit. |
 
-
-
-### Operational Work Notes
-
-The behavior table below is a diagnostic and never a prescription: what it establishes is which approach calms this holding and which provokes it. Filed as an Object/Place with Place-Grudge manifestation and Grudge expression, held at SECTOR-B-02 in Zone B, and unlike at least one other burning holding in the register it answers to nothing but its own name. The caution written for this file is a quiet reading's caution: a watch can close flat on the gauge while the worker carries out a sense of having been read, a smoke taste that stays for days. And no account of what they were looking for when they came in.
-
-**Reading the response:** Success is counted in pages permitted against the exact wording of the question carried in. Own question, 44 per cent of shelves opened; question somebody set, 12 per cent. A falling average is not the collection shrinking — it is the wing's own curiosity failing under nine thousand four hundred sealed transcripts, and the file says so.
 ## Expansion Behavior
 
 > **Special activation — no counter.** The file's own line: *"an approach that intends to possess, destroy or enumerate the collection"*.

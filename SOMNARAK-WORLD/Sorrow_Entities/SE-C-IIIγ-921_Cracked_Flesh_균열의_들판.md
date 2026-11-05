@@ -72,7 +72,6 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-921 |
 | **Resolution Condition** | The full working party off the affected ground inside the threshold, confirmed by the clock-holder rather than by the party. |
 
@@ -137,18 +136,16 @@ The place is the medium rather than the subject. There is nothing to point at, n
 
 What is certain is that exposure accumulates on the body and nowhere else. The ground does not deteriorate, the rate does not climb, and the hazard is exactly as strong in its nineteenth year as in its first. The only thing in the record that gets worse is the staff.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Walk the grid and read the marks from above, mark by mark. The fractures assemble into a figure, and no single mark is any part of it. What is being read is not damage, and a party that treats it as damage reads only the field. | Decrease · High |
-| **Ferrehan** (Endurance) | Keep the party moving for the whole cycle and do not shorten it. The pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. | Decrease · Common |
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body manifestation, Grudge expression, at SECTOR-C-921 in Zone B. Flerehan and Pugnahan are unavailable to a Hazard. Both valid Work Types lower the gauge. Neither closes a mark, and the body register means the whole of the exposure is recorded on people rather than on instruments.
+| Stage | What is done |
+|---|---|
+| **Approach** | Before approach, know what meets you: 3 ignored conditions. |
+| **Handling** | Walk the field without stopping, map the fracture pattern, and measure the perimeter against the last traverse. Nobody stands still on it. |
+| **Withdrawal** | The full working party off the affected ground inside the threshold, confirmed by the clock-holder rather than by the party. |
+| **Refusal** | Nobody stands still on it. |
 
 ## Breach Behavior
 

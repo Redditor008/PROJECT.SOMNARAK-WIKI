@@ -72,7 +72,6 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-918 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
@@ -135,18 +134,16 @@ The danger is not the Void, which experienced personnel handle routinely. It is 
 
 The mind descriptor is not a label on this file. It is the channel, and the entire protocol is built around the one decision that follows from it — that the facility will not collect what the loop shows people, as a condition of their employment or on any other condition.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Counts the passes and nothing else. Observation returns the same ninety seconds every time, so what a session establishes is how many repetitions an observer survives before they lose the sense of having decided already. | Decrease · High |
-| **Ferrehan** (Endurance) | A party holds the marked radius for the full interval and says nothing about the content, using the agreed content-free exit question at the end. A party that argues with the thought has substituted a different session and the record will say so. | Decrease · Common |
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Ninety Seconds is a Time holding with Time-Mind manifestation and Void expression at SECTOR-C-918. Flerehan and Pugnahan are unavailable. Both valid Work Types reduce the number of passes without breaking the repetition or altering the span. The operative protocol is the shortest in the wing and is deliberately so.
+| Stage | What is done |
+|---|---|
+| **Approach** | The observer and the stander; the entity is a Time holding and the other two stages are unavailable to it. |
+| **Handling** | Walk the markings at shift start, two people in opposite directions. — see `## Handling Process` |
+| **Withdrawal** | Reduce the Sorrow Gauge through the observer and the stander until containment is achieved. |
+| **Refusal** | Nothing that would meet the activation — 3 ignored conditions — is done on purpose. |
 
 ## Breach Behavior
 

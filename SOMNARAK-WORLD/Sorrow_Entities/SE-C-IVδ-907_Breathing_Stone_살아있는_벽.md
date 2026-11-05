@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A section of corridor wall in Zone C that has become flesh — warm at thirty-four degrees, pale, faintly breathing, with brick showing through the skin like bones through thin cloth and dark Han pulsing beneath. |
 | **Perceptible to** | The warmth first, on a corridor where a wall should be cold. Then the regularity — the span breathes at nine a minute and the rate matches no respiration taken from anybody present. |
-| **Handling** | Walk the marked line on the far side and do not stop, do not touch, do not cross. The span carries a permanent exclusion from the maintenance schedule, the structural reference and the three fixed sensor positions are confirmed before entry, and the near side is stood on by nobody at all. |
+| **Handling** | Walk the marked line on the far side and do not stop, do not touch, do not cross. The span carries a permanent exclusion from the maintenance schedule, the structural reference and the three fixed sensor positions are confirmed before entry, and the near side is stood on by nobody at all. — see `## Handling Process` |
 | **Activation threshold** | Three ignored conditions. When they pass, the affected surface extends along the fixed wall run; it has never crossed a doorway and has never reached the floor. |
 | **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the body pressure legible against the wall's own rate. Ferrehan is standing the count from the far side for the full ten minutes without letting the observer's breathing take the wall's rate. |
 | **Location** | SECTOR-C-907 |
 | **Resolution Condition** | Count the wall's rate and the observer's, and log the two series unreconciled |
 
@@ -142,18 +141,16 @@ Floor 4's findings are classified and the summary is not. The body register is t
 
 The practical consequence is that nothing here can be screened by gauge. A gauge reading describes the holding and the holding is not what is being affected. Handlers are screened physically, by sleep latency and by a recorded respiration baseline, and the screening was introduced after the floor noticed that its gauge series had been flat for nine years while its sickness return had not.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Makes the body pressure legible against the wall's own rate: what the worker is feeling and what the span is doing, read side by side and never averaged. | Decrease · High |
-| **Ferrehan** (Endurance) | The count itself is the work — ten minutes on the far side without stopping, and the observer's breathing kept off the wall's rate. | Decrease · Common |
+> **This holding is not worked.** A section of corridor wall in Zone C that has become flesh — warm at thirty-four degrees, pale, faintly breathing, with brick showing through the skin like bones through…. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Breathing Stone is a Place with Place-Body manifestation and Weight expression, held in situ at SECTOR-C-907. Flerehan and Pugnahan are unavailable to a Place. Both valid Work Types lower the gauge and neither requires contact. The corridor is in daily use and has never harmed anybody in it, and the whole of this file's difficulty is in the word *harmed*.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the structural reference, the three fixed sensor positions, the painted line, and which of the four runs of damaged brick is the one breathing. |
+| **Handling** | The watch confirms the span by structural reference, the three fixed sensor positions and the four runs of damaged brick, and chalks the walking line on the far side before anything else. |
+| **Withdrawal** | The close is the file's documented condition — **Count the wall's rate and the observer's** — entered as two respiration series logged separately and never reconciled, with nineteen years of once-a-shift readings on file and four hundred and ten paired observations behind the comparison. |
+| **Refusal** | Does not test it by standing closer. Keeps the count running through the pause and records its length in seconds. |
 
 ## Expansion Behavior
 

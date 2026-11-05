@@ -78,7 +78,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | None. The fall is continuous, observer-independent, and has never once followed a gauge reading |
 | **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Flerehan and Pugnahan are structurally impossible on a Place |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Those who had something to say to a person who was dying and were not able to say it in time, including — in this facility's own returns — the four hundred and eleven workers whose personal messages were refused on the operational net during sealed-zone incidents, correctly refused, by controllers keeping the channel clear.
 - **Expanded origin context:** The grave is a burial place before it is a containment and the standing order says so in its first line. The archivist's note adds the detail the file is built around: the family did everything that was required of them, correctly and on time, and the holding exists because of the one thing that was not required.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A single marked grave under a living cherry whose blossoms are pale crystal, salt-cold and never rotting, with a chalked marker ring and a locked store at the edge of it. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Returns the day's fall, the store total, and the boundary against its markers. It has never returned a sentence, a name, or a history, and the old claim that observation reveals the grave's emotional history rests on nothing in the count book. | Stable · Common |
-| **Ferrehan** | The whole fall counted standing, in silence, at the same hour, on days when the figure will be read against the net office's own refusals. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the marker ring and its outlying markers, the store's seal, yesterday's count, and the hour — which does not move for anybody's convenience. |
+| **Handling** | The stander counts the fall standing, in the fall, in silence; the observer keeps the record and confirms the ring. Nothing is opened, read, estimated or carried off the site. — see `## Handling Process` |
+| **Withdrawal** | The day's fall counted whole and entered unrounded, the store sealed behind it, against the file's documented suppression condition: **The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached**. |
+| **Refusal** | A silence kept by instruction, not by ceremony — the Wardens proposed it and the administration made it mandatory. |
 
-
-### Operational Work Notes
-
-The behavior table is a diagnostic and not a prescription: the classification is what tells a crew which Work Type settles the place and which one stirs it. The record here is an Object/Place with Place-Lament manifestation and Lament for its element, held at SECTOR-D-02 in the Echo Gardens, and lessons learned on an entity with a similar name do not carry across. Nor does a flat gauge license anybody: a watch can leave the reading untouched while the worker still walks away with memory, environmental or identity effects.
-
-**Reading the response:** Success is an unrounded count and an unread store. The gauge is not the instrument here and never has been; the fall is, and the fall is set before the counting party arrives. A day lost to a raised voice is lost permanently, and fifty-two years of this series exists because four Wardens in succession would not estimate.
 ## Expansion Behavior
 
 > **Special activation only — no counter, no gauge.** What sets it off, per the record: *"the continuous fall, which is observer-independent"*.

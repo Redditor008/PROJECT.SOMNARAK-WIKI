@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A massive chain of crystallised debts fixed in the ground beneath Collector's Row, every link carrying a distinct obligation and many links standing surety for the next. New links appear between surveys and are recorded with a date of appearance and nothing else. |
 | **Perceptible to** | The weight under the hand first, which is measurable and increases with contact. Then the run — the length of a sequence in which each name guarantees the next, which is the only instrument the holding has. |
-| **Handling** | Supported, never lifted. Forty links and forty names to a shift, and the shift stops at forty even when the reader knows a name. Nothing is struck, nothing is turned to read its underside, and the run is counted twice when it passes forty. |
+| **Handling** | Supported, never lifted. Forty links and forty names to a shift, and the shift stops at forty even when the reader knows a name. Nothing is struck, nothing is turned to read its underside, and the run is counted twice when it passes forty. — see `## Handling Process` |
 | **Activation threshold** | No breach counter. Activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud |
 | **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan touches the link, names the debtor. And the obligation's history returns whole — amount, date, whether it was discharged, whether it was inherited. And who stood behind it — and holds level. Ferrehan is a shift walking forty links and reading forty names, and lowers the gauge. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The quarter's cascade register produced and read aloud in the gallery, every pursuit beyond a first guarantor named with its authorising officer, and the gauge below 25% |
 
@@ -142,23 +141,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Every person in the Collector districts who stood behind somebody else's borrowing and was pursued when that person could not pay. They are named on the links, individually and legibly, which is precisely why the inventory records dates and refuses to record names.
 - **Expanded origin context:** No generic Sorrow Resonance is run at this holding and no seventy-two-hour rotation is kept: the chain is worked one link at a time, bare-handed, with the debtor's name spoken aloud. The surety cascade is not an abuse, and the credit office's case for it is the strongest in the district. A man with no deposit, no property and no security has exactly one asset, which is somebody willing to sign for him, and that person's own standing is in turn whoever will sign for them. The chain is what makes lending to the poorest grade possible at all. The holding has never responded to the volume of debt, the number of defaults, or the amount outstanding; the run sat flat through all three. It responds to the cascade register, which this facility did not begin keeping until Year 4222.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A massive chain of crystallised debts fixed in the ground beneath Collector's Row, every link carrying a distinct obligation and many links standing surety for the next. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The link is touched and the debtor named, and the obligation's history returns whole: amount, date, whether it was discharged, whether it was inherited, and who stood behind it. Holds the gauge level. Principal instrument of the survey. | Stable · Common |
-| **Ferrehan** | The shift spent walking forty links and reading forty names, most of them local and some of them known to the surveyor. Primary Work Type and the only one that lowers the gauge. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the length of the run against the last survey, the date of every new link, and the weight under the hand at the start and the end of contact. |
+| **Handling** | The observer touches the link and reads back the obligation whole, the stander walks forty links and reads forty names. The chain is supported rather than lifted, the shift stops at forty, and a name the surveyor knows does not extend it. |
+| **Withdrawal** | **The quarter's cascade register produced and read aloud in the gallery, every pursuit beyond a first guarantor named with its authorising officer, and the gauge below 25%.**. |
+| **Refusal** | No link is struck, turned or lifted, and the prohibition is enforced in the gallery rather than recorded after the fact. |
 
-
-### Operational Work Notes
-
-Ferrehan is primary and Viderehan is the survey instrument. The Debt Chain is an Object/Place with Fragment (III) coherence — binding and connecting — Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector’s Row. The history of an obligation and the sequence of sureties are different readings of the same iron. A settled balance can still stand in a linked run.
-
-**Reading the response:** The gauge measures one shift. The run measures the credit office. They are kept in separate columns and have moved together exactly once, in Year 4224, when a surveyor struck a link. A good shift in a bad quarter is written up as a good shift.
 ## Activation Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"a link touched with the bare hand while the debtor's name cut into it is spoken aloud"*.

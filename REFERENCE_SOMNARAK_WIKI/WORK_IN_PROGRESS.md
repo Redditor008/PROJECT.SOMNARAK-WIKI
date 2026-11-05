@@ -1,5 +1,59 @@
 # Work In Progress
 
+## Batch 202 — how finished is it, really (2026-11-05)
+
+### 1. `2 m` meant two minutes
+
+`R-48` §3 said the wall runs "past two minutes" and the objection was argued against a **size**
+reading that was never written. That argument is gone. The section is now **"The wall is six doses —
+and it runs past two minutes"**, it carries the minutes table and the count: **84 of 134 relics run
+above sixty seconds and 72 run at two minutes or longer**, the longest three at **180 s**. The
+universal law sits underneath it — the count of doses is universal, the seconds are not.
+
+### 2. The finish, measured rather than declared
+
+`tools/auditors/how_finished.py` — **17 standing standards**, each read from a real gate line,
+`DONE` only when the remainder is **0**. At the start of this batch it read **11 DONE / 6 OPEN**.
+It exists because five batches read a `RESULT: PASS` with a ratchet number above it and called it
+finished.
+
+### 3. The Work Type tables are gone — 131 → 0
+
+Every relic dossier in the archive now carries `## Handling Process`, drawn from its own record:
+
+| stage | source |
+|---|---|
+| **Approach** | `### Watch Sequence` · *What is confirmed* |
+| **Handling** | `### Watch Sequence` · *What the watch does* |
+| **Withdrawal** | *How it closes*, else `**Resolution Condition**` |
+| **Refusal** | the `[**Refusal**]` contact event, else the record's `**Handling**` field |
+
+- **143 of 143** relic dossiers converted · **0** still worked · ratchet **0**.
+- **121** generated · **9** hand-written from `**Recommended response**` (they predate the Watch
+  Sequence) · **12** were already converted in batch 190.
+- Approach rows distinct **121/121**, Handling rows distinct **121/121** — nothing is a house line.
+- The Work Type names became the roles they name: **the observer** and **the stander**. A relic
+  offers no Work Type; the procedure still needs two people.
+- `**Valid Work Types**` is **deleted**, not renamed, in the **82** files whose Contact Record already
+  has a `**Handling**` row. Renaming there left two rows with one label — which the batch-190
+  reference file itself had.
+
+### 4. What the number is now
+
+```
+12 of 17 DONE   5 OPEN
+OPEN  Tale declared in a register       181
+      Essayist constructions            308
+      Form line thin (no colour/mat/no.) 134
+      Form line repeats its marker        86
+      Stat bands over ceiling              7
+```
+
+Two checkers changed because the corpus changed: `check_work_preference` no longer compares a
+Side Codex page against a relic's work vector (R-40 removed the vector), and
+`test_the_palette_is_bigger_than_what_is_in_use` measures the cells rather than the
+(Viderehan, Ferrehan) pairs, which now count subjects rather than vocabulary.
+
 ## Batch 198/199 — the charge (2026-11-05)
 
 **`R-48` is the gauge, in four drafts.** The first three each failed a different test: bands under a
@@ -44,16 +98,14 @@ them would be falsifying the log. A dated entry was appended instead.
 ### 5. The wall is six doses, not sixty seconds (batch 201)
 
 Your objection, verbatim: *"Arent 60 s Is Super Short I Mean Some SE Goes Up To More Than 60s That
-Is Above 2 m."* It was right. Sixty seconds was the **fastest clock in the archive** applied to
-everything; measured, only **50 of 134** relics run on a ten-second clock and **84 run longer**.
+Is Above 2 m."* — **2 m is two minutes.** It was right on both counts: sixty seconds was the fastest
+clock in the archive applied to everything, and some holdings run past two minutes.
 
-The wall is now **six doses of the relic's own clock** — 60 s worn, 90 s officium/hazard, 120 s
-arcanum/time, **180 s offertorium/object/place**. The count is universal; the seconds are not.
+**I read the `m` as metres and built an argument on it.** That was wrong, it has been removed, and
+nothing in `R-48` depends on physical size.
 
-**Why not compute it from size.** Because the archive does not file a size: **3 of 134** state a
-dimension in the form line, **1** carries a `Dimensions / Mass` row, and the figures do not track
-the tier — a ten-metre music-box is a TETH, a ten-centimetre relic is a WAW. A size-derived wall
-would have been a guess wearing a number.
+The wall is now **six doses of the relic's own clock**: **50** relics at 60 s, **12** at 90 s,
+**15** at 120 s, **57** at 180 s. **72 of 134 now run at two minutes or longer**, longest three.
 
 ### 6. Verified
 

@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A tower-shaped crystal structure that melts upward and has produced no rubble and no debris in sixty years, glowing inside and containing rooms drawn to a specification. It stood at 7.2 degrees off vertical at the last reading, has been as far as 11.4, and has never returned to plumb on its own. |
 | **Perceptible to** | The lean first, read on the cord as a number. Then the glow inside, the empty rooms, and the ground beneath a structure that should be shedding and is not. |
-| **Handling** | The reading is taken from outside on the cord and the interior is entered only on the clock. A movement of more than half a degree inside one session ends it. Nothing is reconstructed and nothing is undermined. |
+| **Handling** | The reading is taken from outside on the cord and the interior is entered only on the clock. A movement of more than half a degree inside one session ends it. Nothing is reconstructed and nothing is undermined. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on attempts to complete the abandoned plan |
 | **Sorrow Gauge [Saturation]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the observer the people the rooms were specified for and holds the gauge. Ferrehan tests whether a worker can stand inside an unfinished thing without mentally finishing it, and lowers the gauge. |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Preserve the unfinished form; do not reconstruct |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The eleven hundred households of the border district who were told at a public reading in Year 4178 that the tower would be built, and who were never told that it would not. The district learned the project was dead when the site hoarding was taken away for use elsewhere.
 - **Expanded origin context:** The Council announced the tower at a public reading in the border district in Year 4178 and the announcement was recorded, witnessed and posted. The money was voted. The site was cleared and the footing was poured, and the footing is the one piece of the design that exists. Then the file stops. There is no minute of cancellation, no letter of regret, no reallocation entry naming the tower, and no notice to the district. The project does not end in the record. It simply stops appearing in it, and the next reference to the site is a request four years later to remove the hoarding for use at another works. Sixty years of reading have not produced a reason, and the reading on the plate is roughly what a reason would have weighed. What crystallized here was not the tower and not the disappointment. It was the gap between a promise made in public and a withdrawal made in no public at all — and because that gap was never closed, the structure carries the whole weight of it and leans.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A tower-shaped crystal structure that melts upward and has produced no rubble and no debris in sixty years, glowing inside and containing rooms drawn to a specification. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows the people who were meant to inhabit it. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can accept incompletion. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the lean on the cord against the last reading, the condition of the footing plate, and the datum — re-established if the plate has corroded since the last survey. |
+| **Handling** | The watch the lean is read on the cord, entered with the date, and a movement of more than half a degree inside one session ends the session. |
+| **Withdrawal** | **Preserve the unfinished form; do not reconstruct** — and a lean that holds is a good reading, not a stalled one. |
+| **Refusal** | Nothing is reconstructed and nothing is undermined; the reading is taken and the site is left as it stands. |
 
-
-### Operational Work Notes
-
-Viderehan holds the gauge level and moves nothing, which reads as a wasted session until the reason is understood: observing the structure shows the observer the people the rooms were specified for, and showing is not the same as telling. Ferrehan lowers it, and lowers it reliably, because what the structure is testing is whether the worker can stand inside an unfinished thing without mentally finishing it. Workers who complete the drawing in their heads raise the gauge every time and usually do not notice they have done it. Neither Work Type touches the lean. The lean answers to the city, not to the team, and the file says so plainly so that nobody spends a career trying to work it down.
-
-**Reading the response:** Two figures come out of every session and they are not the same measure. The gauge describes the worker's session and falls when the worker has endured the thing as it stands. The plumb reading describes the city's week and falls only when something announced in public has been withdrawn in public. A session can therefore be entirely successful and the plate can still read higher at the end of it than at the start, and that is not a failure of the team and must not be written up as one.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"attempts to complete the abandoned plan"*.

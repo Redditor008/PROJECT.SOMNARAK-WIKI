@@ -306,8 +306,10 @@ Super Short I Mean Some SE Goes Up To More Than 60s That Is Above 2 m.")* Sixty 
 fastest clock in the archive applied to everything. Only **50 of 134** relics run on a ten-second
 clock; **84 run longer**. A holding now gives **six doses of its own clock**, and the wall is what
 six of them come to: **60 s** worn · **90 s** officium and hazard · **120 s** arcanum and time ·
-**180 s** offertorium, object and place. **The count is universal; the seconds are not** — a ground
-you walk cannot be crossed in a minute. At the wall it is **spent** and will not take a hand.
+**180 s** offertorium, object and place. **The count is universal; the seconds are not** — and
+**72 of 134 now run at two minutes or longer**, which is what you asked for (your *"2 m"* was **two
+minutes**, not metres; that misreading has been removed from `R-48`). At the wall it is **spent**
+and will not take a hand.
 
 **The two lines.** Up: `000 ── 60 s ── 660`. Down: a tenth a minute, ten minutes from spent to ready.
 **Handled before it has run down, the Work Damage clock resumes where it stopped. Handled at MAX,

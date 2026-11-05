@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A subterranean lake of liquid memory beneath the Echo Gardens — not water but a slow, dark, viscous surface that returns the viewer's whole life rather than their face. The shore is cold stone, and the soundings are taken from stations. |
 | **Perceptible to** | A scene instead of a reflection — somebody's kitchen, in winter, with the light wrong — and then recognition, which is the moment the station loses the observer and the reason the rotation is changed that day and not the next. |
-| **Handling** | Enter the month's soundings unrounded from every station, attribute no scene in any report to a person, and mark the conversation column honestly. Two people stand each watch and are required to talk, because silence has preceded every flattening serious enough to require a stand-down. |
+| **Handling** | Enter the month's soundings unrounded from every station, attribute no scene in any report to a person, and mark the conversation column honestly. Two people stand each watch and are required to talk, because silence has preceded every flattening serious enough to require a stand-down. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; no isolated activation trigger has been established |
 | **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan returns scenes from lives, unattributable and unverifiable, and the month's soundings; Ferrehan is the watch stood at a station without silence. |
 | **Location** | SECTOR-D-02, beneath the Echo Gardens |
 | **Resolution Condition** | The month's soundings are entered unrounded from every station, no scene in any report is attributed to a person, and the conversation column is marked honestly |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Everyone whose memories sank past the Weeping — and, in this facility's own returns, the four hundred and twelve workers who died in service last year and whose records close with a grade, a date and a cause, because recollections of them were excluded from the file as unverifiable.
 - **Expanded origin context:** The holding's observation discipline forbids attributing a scene to a person even when the observer is certain. Recognition is the mechanism by which the lake recruits attention: an observer who has named a scene returns to it, and returning precedes every incident in the file. Observers who recognise something are rotated off for the cycle, and it is explained at the time that this is not a punishment.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A subterranean lake of liquid memory beneath the Echo Gardens — not water but a slow, dark, viscous surface that returns the viewer's whole life rather than their face. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Returns scenes from lives, unattributable and unverifiable, and the month's soundings. It has never returned a name, a date, or anything the Archive could check. | Stable · Common |
-| **Ferrehan** | A long station watch in pairs, with the conversation requirement kept and marked honestly even when keeping it feels absurd. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the month's soundings from every station, the margin against its markers, and two people on the watch who will talk to each other. |
+| **Handling** | The watch enters the sounding unrounded and the scene as seen, with no name anywhere in the entry, and marks who was at which station. |
+| **Withdrawal** | **The month's soundings are entered unrounded from every station, no scene in any report is attributed to a person, and the conversation column is marked honestly** — and silence at the stations is the one thing the record treats as a warning. |
+| **Refusal** | Does not lower anything into the lake, and records the once it happened as a prohibition with a date on it rather than as a capability. |
 
-
-### Operational Work Notes
-
-Only two Work Types meet the Lake, and both are worked from fixed stations. Viderehan takes the monthly soundings and records any scene in full without assigning it to a person. Ferrehan is the long paired watch in which unrelated conversation is kept aloud and marked honestly. Flerehan does not establish ownership and Pugnahan—striking, draining or lowering anything into the water—is structurally invalid. The load-bearing readings are the surveyed margin, recognition/rotation and the conversation column; the Gauge neither predicts margin movement nor licenses a longer watch.
-
-**Reading the response:** Success is a complete set of soundings, an unattributed scene record, and an honest conversation column. The gauge is nearly useless here: it does not precede margin movement and has never predicted a flattening. Silence predicts the flattening, which is why the one subjective field in the paperwork is the one supervisors read.
 ## Expansion Behavior
 
 > **Special activation only — no counter, no gauge.** The file's own line: *"no isolated activation trigger has been established"*.

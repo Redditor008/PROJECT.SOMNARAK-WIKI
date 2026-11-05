@@ -58,7 +58,6 @@
 | **Activation threshold** | Sorrow Gauge ≥ 45 per cent — a low threshold on a minor holding. No counter is filed and none is implied. |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, worked in pairs on a timed rota. The rota is part of the method rather than an arrangement around it. |
 | **Location** | Zone D, Forge District |
 | **Resolution Condition** | Rotate labor and acknowledge shared responsibility |
 | **Recovery** | The relief interval is not waivable. If the worker declines to hand over, the incoming pair remove them physically. And the removal is recorded as a holding event rather than as misconduct: no fault attaches, nothing enters the worker's record. And four proposals to make refusal a disciplinary matter have been refused. Nineteen removals in nine years. |
@@ -126,23 +125,17 @@
 - **The People:** One worker who took the weight of a collapsing structure on his shoulders so the others could get clear, and the others, who got clear. The record holds his name and holds none of theirs; nobody came back to give an account. He was not found and the file does not say he died, because the file cannot establish that he stopped.
 - **Expanded origin context:** The record holds his name and none of the names of the people he held the structure up for. Nobody came back to give an account, and the file does not treat that as an accusation — it treats it as the reason the holding exists. He was never found. The file does not say he died, because it cannot establish that he stopped, and the wing has twice declined to enter a presumed date for the sake of closing the entry.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A rusted iron pillar embedded in the Zone D floor, supporting nothing, bleeding orange, warm and rough on the face and lead-cold beneath the rust. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the structure it once supported. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can stand without becoming support. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the rota interval and the time of the next relief, the flake tray weighed with both sets of initials, and — stated in writing — what the pillar is supporting, which is nothing. The pair arrives together and neither of them stays past their interval to see a cycle through. |
+| **Handling** | The observer and the stander, in pairs, at the base and never at the column's face alone. The outgoing worker leaves the area rather than briefing on the ground. The reading is taken at the handover and only at the handover. So that no single person both produces and certifies the number. — see `## Handling Process` |
+| **Withdrawal** | **Rotate labor and acknowledge shared responsibility** — the rota holds, the responsibility is said aloud, and nobody on this ground carries alone. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 45 per cent — a low threshold on a minor holding. No counter is filed and none is implied — is done on purpose. |
 
-
-### Operational Work Notes
-
-Atlas is an Object/Place with Place-Weight manifestation and Weight expression, embedded in the Forge District floor in Zone D. Viderehan opens the structure it once held and moves nothing. Ferrehan tests whether a worker can stand beside it without becoming support, and is the only Work Type that lowers the gauge. Neither can be worked solo, and the rota is part of the method rather than an administrative arrangement around it.
-
-**Reading the response:** Read it in the rust. A falling gauge presents as slowing — less flake in the tray, the fresh orange darkening toward brown, the warmth easing toward the ambient. The pressure drops and nothing is resolved; he is still holding, and a quiet pillar is a pillar whose load has not changed. A rising gauge presents as **reliability**. The watch stops wanting to hand over. The worker on station finds it easier to stay than to brief a replacement, considers the rota an interruption, and often says so pleasantly and in good faith. That is the reading. On this holding, a worker who has become indispensable at the pillar is the entity's effect and not the team's good fortune, and the rust in the tray will say so before anybody else does.
 ## Expansion Behavior
 
 | Field | Detail |

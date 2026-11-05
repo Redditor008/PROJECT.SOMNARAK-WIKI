@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A free-standing door and its frame, risen out of the floor of a room in Old Lament without damaging it, in a red frame with a char smell. It holds position until it is opened or until it withdraws, and walk-around observation finds the same door from the other side. |
 | **Perceptible to** | The frame's red pressure and the char first, then the handle height — 2.1 metres at first measurement and 2.6 now — which is the longitudinal reading the station keeps. |
-| **Handling** | Observed front and back, with the room's real exit kept clear. Nobody moves closer to complete an illustration and nobody turns the handle. The handle answers to the district, and every rise has fallen within a week when a movement order was in force. |
+| **Handling** | Observed front and back, with the room's real exit kept clear. Nobody moves closer to complete an illustration and nobody turns the handle. The handle answers to the district, and every rise has fallen within a week when a movement order was in force. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
 | **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows why the exit was denied and holds the gauge. Ferrehan tests whether a worker can stand before an opening without using it, and lowers it. Both have never moved the handle. |
 | **Location** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | The door withdraws on its own and the team records it shut. 94 appearances, 94 withdrawals, never shorter than forty minutes and never longer than a shift. Nobody has ever ended one. |
 
@@ -140,23 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One resident of Old Lament, shut in by a lawful lockdown order. The commissioning file holds the order with its boundaries and its duration. It was lifted on schedule and the dwelling falls inside the boundary by one hundred and forty metres, a figure the archivist reproduces rather than characterises.
 - **Expanded origin context:** The lockdown was ordered against a Han-storm front, held for nine days, and lifted on schedule, and the boundary was drawn along the arterial because drawing it along the arterial was the fastest line to hold. The resident's dwelling lay one hundred and forty metres inside it. Nothing in the order is unlawful, nothing in it is cruel. And the file does not argue otherwise. The boundary could have been drawn at the next street at a cost of four hours and a longer perimeter. And that alternative is not mentioned anywhere in the order, because the form of the time did not ask for one. The entity dates from the sixth day.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A free-standing door and its frame, risen out of the floor of a room in Old Lament without damaging it, in a red frame with a char smell. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows why the exit was denied. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can stand before an opening without using it. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the handle height against the last appearance, the frame's colour and the char smell, and the room's real exit, which stays clear throughout. |
+| **Handling** | The observer shows why the exit was denied and the stander stands before the opening without using it. The door is walked around rather than approached, and nobody says *I should have* within reach of the handle. |
+| **Withdrawal** | **The door withdraws on its own and the team records it shut. 94 appearances, 94 withdrawals, never shorter than forty minutes and never longer than a shift. Nobody has ever ended one.**. |
+| **Refusal** | The handle is not turned, nobody completes the illustration by stepping closer, and the door is not struck to see what the frame does. |
 
-
-### Operational Work Notes
-
-Both usable Work Types hold the gauge or lower it a little, and neither has ever moved the handle. The handle answers to the district: 2.1 metres at first measurement, 2.6 now, with every rise falling in a week when a movement order was in force. The station reads the district bulletin before it reads its own gauge.
-
-**Reading the response:** A falling handle means the week's orders named the alternatives they refused. Stability under Viderehan is correct. The handle rises when anyone within reach says they had no choice, when a closure is justified in writing as unavoidable, and it has risen most on the orders that were, by every operational measure, entirely correct.
 ## Activation Behavior
 
 > **Special activation — no counter.** It rises out of the floor, holds position and withdraws. An unresolved appearance is a withdrawal and not an escape.

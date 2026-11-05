@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A heavy fragment of black crystal broken from an unknown monument, resting on the ground at the border in Zone E and pressing through the surrounding landscape. It is held by a survey network rather than by a wall, and it has never once got lighter. |
 | **Perceptible to** | The ground bowing at first contact, with names attached to promises and debts showing beneath the crystal. Then the cracking rising above the recording threshold, and displacement readings quickening between surveys. |
-| **Handling** | Worked from the margin. Contact ends on a mobility check taken by another worker at one, five and fifteen minutes, the team calls the limit rather than the worker, and no mechanical or Han lifting load is ever applied to it. |
+| **Handling** | Worked from the margin. Contact ends on a mobility check taken by another worker at one, five and fifteen minutes, the team calls the limit rather than the worker, and no mechanical or Han lifting load is ever applied to it. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; it has never been displaced laterally and its only recorded motion is settling |
 | **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the monument's debt history and moves nothing. Ferrehan is worked from the margin and tests whether a worker can remain beneath its pressure, and is the row that lowers the gauge. |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Viderehan and Ferrehan from the margin, with the gauge ending below 25% because of that work and not because anybody aimed at the number. No cycle logged against Broken Fragment has ever closed by going after the figure directly. |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The border communities the monument was raised over, who inherited an obligation none of them contracted, and who eventually broke the thing that recorded it. They are named collectively in four incompatible accounts and individually in none. The file keeps all four and adjudicates between none of them.
 - **Expanded origin context:** Four accounts of the uprising survive and they do not reconcile: a Collector record, two settlement accounts, and a later municipal summary that attempts to harmonise the other three and fails. All four are held in full. The file adjudicates between none of them. And the archivist's note gives the reason plainly — the facility is the least qualified party in the region to rule on whose version of a revolt against institutional debt is correct. And the fragment weighs what it weighs under every version.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A heavy fragment of black crystal broken from an unknown monument, resting on the ground at the border in Zone E and pressing through the surrounding landscape. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reveals the monument's debt history. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can remain beneath its pressure. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the three-dimensional position against the fixed station, the crack series against the recording threshold, and the displacement readings between surveys. |
+| **Handling** | The observer opens the debt history and the stander stays under the pressure from the margin. Mobility checks are taken at one, five and fifteen minutes by somebody else, and no lifting load is applied. |
+| **Withdrawal** | **the observer and the stander from the margin, with the gauge ending below 25% because of that work and not because anybody aimed at the number.**. |
+| **Refusal** | No mechanical or Han lifting load is applied; the attempt is abandoned and nothing in the bowl is recovered. |
 
-
-### Operational Work Notes
-
-Broken Fragment is an Object/Place with Object-Weight manifestation and Weight expression, held at the border in Zone E by a survey network rather than by a wall. Viderehan opens the monument's debt history and moves nothing. Ferrehan is worked from the margin and tests whether a worker can stay under the pressure without deciding that something must be done. Neither Work Type has ever altered the displacement series by any amount the instruments can resolve.
-
-**Reading the response:** Read it in the instruments, because there is nothing to read in the object. A falling gauge presents as stillness: the displacement rate easing toward its long baseline, the bowl floor holding between surveys, the cracking sound from the crystal dropping below the recording threshold. The pressure eases and the mass does not. A lower gauge is a window and not a door, and the fragment is as unliftable at 20% as at 80%. A rising gauge presents as **urgency** — the readings quicken, the bowl deepens visibly between two surveys, and the team in attendance begins to feel that something ought to be done about this. That feeling is the reading. On this holding it is also the hazard, since every recorded escalation began with somebody competent deciding that the situation warranted action.
 ## Activation Behavior
 
 > **Special activation — no counter.** It has never been displaced laterally and its only motion is settling. The gauge at 90 per cent is the whole mechanism.

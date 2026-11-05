@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A long chain of small dark links laid along a stand at Collector's Row, one link to a memory, four hundred and nine of them at the last count. It has never moved itself; twice it has been found coiled rather than laid flat, both times after a shift in which the count rose. |
 | **Perceptible to** | The weight of it first, though nothing is being carried. Then the drift of a worker's own account of their childhood, and the count, which is the only reading that has ever predicted the hour that follows. Pressure, temperature and gauge have stayed flat across incidents and the count has not. |
-| **Handling** | Counted before anything else and the number written on the board at the door. Nobody names a person aloud in the room, Wardens are instructed to interrupt a worker who begins a sentence with a name, and the Chain is left slack along its stand. |
+| **Handling** | Counted before anything else and the number written on the board at the door. Nobody names a person aloud in the room, Wardens are instructed to interrupt a worker who begins a sentence with a name, and the Chain is left slack along its stand. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on touching a link while naming its owner |
 | **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan displays the relationships between memories and holds the gauge. Ferrehan tests whether the worker can carry shared history, and is the row that lowers it. Neither requires a link to be touched. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The Chain lies flat and slack along its whole length, with no link raised and none under tension, and stays that way through two full counts of the links by two different Wardens. The gauge is read afterward and has never been above 25% once the slack condition holds. |
 
@@ -141,23 +140,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Eleven households of the lower terraces whose ledgers were seized. Surviving commissioning lists record what each agreed to remember for others. Four household names are recoverable only from the Chain, while unapproached households left gaps in the lists and no links in it.
 - **Expanded origin context:** The Collector's Row file traces the Chain to eleven households of the lower terraces whose ledgers were seized in the same week of Year 4,188. Four of the eleven names are recoverable from the Chain itself and from nowhere else; the register that held them was pulped. What the Row preserves is therefore not a legend but an index, and the index is the last surviving copy.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A long chain of small dark links laid along a stand at Collector's Row, one link to a memory, four hundred and nine of them at the last count. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Displays the relationships between memories. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can carry shared history. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the link count taken at the door, the names of the two Wardens who will count it again, and whether anybody present is holding an open loss they have been asked to state aloud. |
+| **Handling** | The watch counts the links before anything else — the count is the only reading that has predicted the hour — and writes the number on the board at the door. |
+| **Withdrawal** | **The Chain lies flat and slack along its whole length, with no link raised and none under tension, and stays that way through two full counts of the links by two different Wardens** — with the gauge read afterwards, which has never been above twenty-five per cent once the slack condition holds. |
+| **Refusal** | Does not pull. The chain is worked slack and never drawn, and a Warden who finds a link raised ends the session rather than lifting it free. |
 
-
-### Operational Work Notes
-
-The table understates one thing and should be read with it in mind: the Chain's gauge is almost always stable, and stability here is not quiet. Every logged personnel injury at Collector's Row occurred during a session in which the gauge did not move at all. What moves instead is the count and the worker's own account of their childhood, and neither of those appears on the instrument.
-
-**Reading the response:** Read the worker, not the object. The Chain gives three signs and the instruments catch none of them: the worker stops using the first person about their own history. The worker corrects somebody else's recollection with confidence they have no grounds for. And the worker asks, usually at the end of a cycle, whether a named person has been in the room. The third sign has preceded every link added since Year 4,231. Log the sentence verbatim, including the name, because the name is the only forward-looking datum this entity produces.
 ## Activation Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"touching a link while naming its owner"*.

@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A broken door standing alone in the Echo Gardens with two boards and one hinge missing, its frame burning with a small persistent fire across the gaps. The hinges are attached to no wall, the door hangs against a plumb mark on the ground, and the doorway gives onto the instant before a break. |
 | **Perceptible to** | The fire first, graded every ten minutes against the posted scale. Then the hinge angle against the plumb mark, and a rectangular shadow with no wall to cast it. |
-| **Handling** | The threshold is stood at the side of the frame rather than in front of it, the flame graded and the hinge angle read against the plumb mark. Nobody turns the handle, and nobody closes the door by hand — the Gardens office does not permit the attempt. |
+| **Handling** | The threshold is stood at the side of the frame rather than in front of it, the flame graded and the hinge angle read against the plumb mark. Nobody turns the handle, and nobody closes the door by hand — the Gardens office does not permit the attempt. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; a structure stands where it is and has never been recorded in transit |
 | **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the moment the home was broken and holds the gauge. Ferrehan requires the worker to remain at the threshold, and is the row that lowers it. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt. |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One household, divided by an Echo incident, and the door that stood between its two halves. The commissioning file holds the property division agreed afterwards: an ordinary legal instrument allocating rooms and access, agreed between the parties without dispute, fair on its face. The archivist's note sets those three facts down and then adds the fourth, which is that the family did not remain together.
 - **Expanded origin context:** The division was lawful and the paperwork is clean, which is the part the archivist wanted on the record. There was no quarrel, no fault, and no refusal — only an incident, a boundary that happened to be a door, and a settlement signed by both halves of a household within the month. What the holding preserves is not a wrong but a procedure that worked perfectly and left nobody able to go back through.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A broken door standing alone in the Echo Gardens with two boards and one hinge missing, its frame burning with a small persistent fire across the gaps. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows the moment the home was broken. | Stable · Common |
-| **Ferrehan** | Requires the worker to remain at the threshold. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the flame grade against the posted scale, the hinge angle against the plumb mark, and the plumb mark itself before anybody stands at the threshold. |
+| **Handling** | The observer shows the moment the home was broken and the stander stays at the threshold. The frame is stood beside rather than in front of, the handle is not turned, and the first mention of a departure is logged. |
+| **Withdrawal** | **The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt.**. |
+| **Refusal** | The handle is not turned and the frame is not forced or dismantled. In six years the only attempt was the 4231 demolition, withdrawn after four days. |
 
-
-### Operational Work Notes
-
-The table lists Work Types and the Gardens series has never found one that moves the flame. What moves it is speech: a departure mentioned within earshot raises the grade within about forty seconds, in 186 of 201 logged mentions, regardless of who is speaking, what the Work Type is, or whether the person mentioned has anything to do with the household in the file. The office's standing recommendation is that the Work Type column be read as a formality here and the ledger as the actual instrument.
-
-**Reading the response:** Read it in the flame. A falling gauge presents as a lower grade — the fire sinking toward the sill, the char cooling, the smell of cold rain coming through over the smoke. The pressure eases and nothing is mended; the door still opens onto no one. A rising gauge presents as **hope of return**. The flame climbs, the opening clarifies. And the people in front of it begin to talk about putting the home back as it was — which is the one thing that reliably feeds this fire. And which is not a failure of judgement so much as the ordinary response of decent people to a visible division. The Gardens' own visitor figures track the flame grade through the busy seasons. The relationship is apparent, it is unexplained, and the file prints both series side by side rather than asserting a cause.
 ## Activation Behavior
 
 > **Special activation — no counter.** A structure stands where it is, and the gauge at 60 per cent is the entire activation. No count is listed and none is implied.

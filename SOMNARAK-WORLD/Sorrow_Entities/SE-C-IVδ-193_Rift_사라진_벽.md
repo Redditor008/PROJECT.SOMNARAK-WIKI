@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | The absence of a party wall along a line in Old Lament, with two sides that differ in temperature and a gap that is measured rather than seen. The line widens; it has moved twice in 132 years and both shifts were surveyed. |
 | **Perceptible to** | The temperature difference across the line first — the two sides are walked with the old ward plan and marked where they differ — then the gap width, which narrows four to eleven centimetres after a full naming and not at all after a partial one. |
-| **Handling** | Name the history of the boundary before anything is said about the present: which two communities, when they were made one, and by whose order. The line is walked with the old ward plan and nothing is pegged, because pegs do not last the night. |
+| **Handling** | Name the history of the boundary before anything is said about the present: which two communities, when they were made one, and by whose order. The line is walked with the old ward plan and nothing is pegged, because pegs do not last the night. — see `## Handling Process` |
 | **Activation threshold** | No breach counter. Activates on any assertion, in public or in a municipal document, that there was never a division here |
 | **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what the wall separated and what it protected — two different lists. And the difference between them is the holding's most-cited record — and reading it puts the reader's own division on the second list. Ferrehan is the crossing made after the history has been stated, which is the only crossing the gauge answers. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Name the history of the boundary before crossing |
 
@@ -139,23 +138,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Both halves of one district, amalgamated in Year 4106, legally a single community since and demonstrably not one. The survey that shows this is lawful only because an outsider draws the old line on it.
 - **Expanded origin context:** The division cannot be recorded, and the rule that forbids recording it is the right rule. On amalgamation the former halves ceased to exist in law: no municipal record may classify a resident by which side they come from, no service may be allocated by former side, and no claim may be founded on it. That is how you stop a division — you stop administering it, because a category that is counted is a category that is funded, staffed, complained about and inherited. And the Year 4098 re-registration showed exactly that, with 14,000 people declaring a side on a form that merely asked. So the Office may not measure what persists, and what persists is everything: where people shop, who they marry, which school they choose, which side of a street with no sides they walk on. The wall is unrecordable and undeniable at once, and the line in the Old Lament is where those two facts meet.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** The absence of a party wall along a line in Old Lament, with two sides that differ in temperature and a gap that is measured rather than seen. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows what the wall separated and what it protected; the two lists are different and the difference is the holding's most-cited record. Naming the difference costs the reader their own: a worker who reads the division is entered on the second list, and the gauge climbs by them. | Increase · Low |
-| **Ferrehan** | The worker crosses having stated the history, which is the only crossing the gauge responds to. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the two sides walked against the old ward plan and their temperature difference, the gap width, and which side each worker started the cycle on. |
+| **Handling** | The watch walks the line with the old ward plan, marks where the two sides differ in temperature, and takes the gap width before anybody crosses. |
+| **Withdrawal** | **Name the history of the boundary before crossing** — nine years of boundary crossings, the gap narrowing four to eleven centimetres after a full naming and not at all after a partial one. |
+| **Refusal** | Notes where the onset stood at the last survey, and turns back a worker who declines the naming rather than walking them through it. |
 
-
-### Operational Work Notes
-
-The table applies and the measurement is the gap: the distance across the line at which the two sides stop matching — temperature, sound, the way dust settles. 1.1 metres to 2.9 in nine years. It widens when an administrative boundary is abolished anywhere in the city and narrows only when somebody stands on the line and says which two places these were.
-
-**Reading the response:** A falling reading means the two former wards were named with their dates and the order that merged them. It rises on mergers elsewhere, on literature describing the district as one community, and on anniversaries of the amalgamation.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"any assertion, in public or in a municipal document, that there was never a division here"*.

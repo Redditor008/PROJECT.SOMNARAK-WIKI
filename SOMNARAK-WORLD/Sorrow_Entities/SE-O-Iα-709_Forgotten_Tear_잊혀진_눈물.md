@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A single dark tear crystallised around a small ember of anger, warm and heavy, sitting in a lined tray on the third shelf. It resists being put down, grows lighter when held honestly, and has never moved itself. |
 | **Perceptible to** | The weight in the hand first, between eleven and thirty-four grams across 212 cycles. Then the warmth, and the grievance beneath the grief, which is what Viderehan reads. |
-| **Handling** | Held by one worker at a time and put down of their own accord, with the closing weight read against the opening weight. A second worker opens the hand if the holder will not, and the 28 cycles that closed heavier are the record of who should not be rebooked. |
+| **Handling** | Held by one worker at a time and put down of their own accord, with the closing weight read against the opening weight. A second worker opens the hand if the holder will not, and the 28 cycles that closed heavier are the record of who should not be rebooked. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; a discrete crystal that sits where it is placed and is carried by its handler |
 | **Sorrow Gauge [Pressure]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grievance beneath the grief and holds the gauge. Ferrehan tests whether the worker can hold it without claiming it, and lowers the gauge. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The holder puts it down of their own accord and the closing weight is below the opening weight. 212 cycles are on file and 184 of them closed lighter. The 28 that did not are the vault's working record of who should not be rebooked. |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** A man whose death was treated as unremarkable by everyone who heard of it. The mourner has never been identified, and the vault has recorded four separate attempts to establish who it was. All four are filed as inconclusive and none has been quietly adopted as the answer.
 - **Expanded origin context:** Four attempts have been made to identify the mourner and all four are filed as inconclusive. None has been quietly adopted as the answer, which the vault regards as the single most important piece of discipline in this file. The dead man is equally unidentified. What the record does hold is the shape of the dismissal — not cruelty, not refusal, just a series of people who heard about a death and had nothing to say about it — and the archivist's note that this is the commonest thing in the city and the only holding in the vault made of it.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A single dark tear crystallised around a small ember of anger, warm and heavy, sitting in a lined tray on the third shelf. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the grievance beneath the grief. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can hold it without claiming it. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the opening weight on the scale, the weight of the tray without the Tear in it, and the name of whoever is booked to hold it. |
+| **Handling** | The observer reads the grievance beneath the grief and the stander holds it without claiming it. The holder puts it down themselves, a second worker stands by to open the hand, and the closing weight is taken. |
+| **Withdrawal** | **The holder puts it down of their own accord and the closing weight is below the opening weight** — and a cycle that closes heavier is entered against the rota rather than against the worker. |
+| **Refusal** | Nine occasions on record and all nine ended with a second worker opening the hand, which is the only release this file has. |
 
-
-### Operational Work Notes
-
-The Work Type table is not the instrument here and the vault stopped relying on it in Year 4,230. The mass is. Across 212 cycles the tear has weighed between 11 and 34 grams, the variation is entirely a function of who is holding it, and the heaviest readings have all come from holders who denied, on the opening sheet, being angry about anything.
-
-**Reading the response:** Viderehan holds the gauge level and reveals the grievance beneath the grief — the Tear is not reluctant to be read, since being overlooked rather than examined is what formed it. Ferrehan brings the gauge down, and the phrasing of the test in the Behavior table is exact and should not be softened: it measures whether the worker can hold it **without claiming it**. Both failures are common and they look nothing alike. A worker who refuses the anger finds the Tear growing heavier in their hand until they cannot keep hold of it. A worker who takes the anger up finds it light, warm and comfortable, and will produce an excellent cycle log and a grievance against a colleague within the week. The gauge moves in the right direction for both of them.
 ## Activation Behavior
 
 > **Special activation — no counter.** A discrete crystal sits where it is placed and is carried by its handler. There is no counter and nothing to escape.

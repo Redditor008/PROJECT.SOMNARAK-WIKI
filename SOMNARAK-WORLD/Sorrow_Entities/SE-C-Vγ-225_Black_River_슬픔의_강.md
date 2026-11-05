@@ -96,7 +96,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | High · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, beneath the Alpha Tree — The Weeping |
 | **Resolution Condition** | Impossible. Access is sealed and the River is monitored |
 
@@ -156,25 +155,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Everybody who has lived and died in Somnarak, which is why the file names nobody. The readers hold that the River sorts what it receives and the instruments have never confirmed it.
 - **Expanded origin context:** There is no commissioning file, because nothing commissioned it. What the archive holds instead is the first surveyor's shaft report, three Wardens' observation notes from the strata beneath it, and an undated line in an unknown hand recording that the River rose and eleven new sorrows were found in the wards by evening. Personnel posted here report grief that is specific, detailed and not their own; rotation is every seventy-two hours and is not negotiable.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-The River does not respond to Work Types in the conventional sense.
+| Stage | What is done |
+|---|---|
+| **Approach** | Before approach, know what meets you: Sorrow Gauge ≥ 75%. |
+| **Handling** | Sound, do not enter. |
+| **Withdrawal** | Impossible. Access is sealed and the River is monitored. |
+| **Refusal** | Sound, do not enter. |
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | What the current is carrying, in detail, to a worker on the bank. Generous to witnesses. Gauge does not move. | Stable · Common |
-| **Ferrehan** | Holding position at open water for the interval, on a line, with an escort who does not speak. | Decrease · High |
-
-
-### Operational Work Notes
-
-The table is a description of two standing duties, not a set of levers. Viderehan on this holding is the reading itself — what the current is carrying, reported by somebody standing on a bank — and Ferrehan is the interval at open water on a line with an escort who does not speak. Neither approach changes the River and neither is supposed to. The Directorate has never scheduled a work cycle against it, and the two figures the file maintains are the grief-line and the mourning column.
-
-**Reading the response:** A falling gauge at a station means the line is down, not that anything has been soothed, and a rising one means the unmourned portion of the city's grief has grown. What the reader reports is the content of the current — somebody's kitchen, somebody's sister, a row that was never settled — and that content is not a symptom and is never corrected by anybody. The one reaction the file treats as an event is a tributary going silent or a sealed vault sounding back, and both are logged against the seal register rather than against the Work Type table.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Read off the file: *"a rise in the unmourned portion of the city's grief"*.

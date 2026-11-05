@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Touch, sustained listening, or conditions the file records as unknown. No percentage and no count are listed |
 | **Sorrow Gauge [Saturation]** | **000 of 1080** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
 | **Resolution Condition** | The listener writes down the whisper before speaking to anybody and leaves the vault. 94 cycles, 41 whispers; the transcripts are sealed on the same day |
 
@@ -140,30 +139,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** Unknown. The Door predates all available records.
 - **Expanded origin context:** No formation record exists. The Door was found beneath the Alpha Tree already sealed, in stone older than any construction layer the Archive can identify, and no maker, inscription or purpose has ever been recovered. Containment begins from that absence: a marked distance, a four-minute limit, and the prohibition.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A sealed door in the deepest Alpha Tree vault, standing exactly as it has stood, with nothing behind it that the record can describe. What follows is procedure; nothing in it answers an approach.
 
-The Door does not respond to Work Types in the conventional sense.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the seal, the vault's own register, and the name of the listener who will be alone in front of the door. The transcript book is opened before the vault is. |
+| **Handling** | The listener stands, listens, and writes. Nobody speaks in the vault; nobody discusses a whisper inside it; nothing is tested against the door to see whether it answers. — see `## Handling Process` |
+| **Withdrawal** | The listener writes down the whisper, or the thirteen seconds pass, and leaves the vault. The transcript is sealed on the same day and entered against the cycle. |
+| **Refusal** | Nothing that would meet the activation — touch, sustained listening, or conditions the file records as unknown. No percentage and no count are listed — is done on purpose. |
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Produces faint ancient whispers. | Stable · High |
-| **Ferrehan** (Endurance) | Remains silent while testing the worker's willingness to wait. | Stable · Common |
-### Special Behaviors
-- Warmth is sensed at the face and reported as something alive beyond it. No current record permits interpreting that sensation, and the report is logged without a conclusion.
-- Time-based entities behave abnormally nearby.
-- The Director's order prohibits opening absolutely. Study runs as the cycle record above; any proposal to open goes to the Director in person — there have been four.
-
-
-
-### Operational Work Notes
-
-The Work Type table applies and tells you almost nothing. The two series that matter are the duration — thirteen seconds, exactly, on all forty-one recorded whispers — and the transcripts, of which no two have ever matched. Forty-one listeners, forty-one different sentences, one identical length.
-
-**Reading the response:** A falling gauge here means a cycle was completed and the transcript sealed, nothing more. It rises when somebody stays past the whisper, and has risen once without anybody present at all — in the week of the Year 4,229 propagation, which began and ended while the vault was empty.
 ## Activation Behavior
 
 > **Special activation only — no counter, no gauge.** The file's own line: *"touch, sustained listening, or unknown conditions"*.

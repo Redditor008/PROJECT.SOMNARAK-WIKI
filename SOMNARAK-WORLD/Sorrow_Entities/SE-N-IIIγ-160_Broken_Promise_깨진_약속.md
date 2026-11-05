@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | An undertaking spoken in contact with a shard. No breach counter; the holding escalates on condition rather than on a count |
 | **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Flerehan and Pugnahan are not merely unhelpful here but unavailable, this being an object |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | Viderehan and Ferrehan worked under certified Tool protocol, and the gauge brought under 25 per cent |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** A household of Collector's Row, the Collector who offered them relief, and the debtor who signed twice.
 - **Expanded origin context:** Both instruments survive and are held on consecutive pages. The first lifts the debt and takes nothing in return. The second, executed nine days later, secures a larger obligation on the same hands and recites the first as its inducement. Nothing in the sequence was unlawful and nothing in it was concealed; the debtor read both and understood both. What formed in the Row was not the loss of the money. It was the discovery that the kind sentence and the ruinous one were the same manoeuvre, written by the same hand, in the same week.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A shattered contract of red Han-crystal, its fragments hovering and rearranging into signatures that never complete, fever-cold and smelling of char, on the floor of…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reveals the original undertaking and its betrayal, in full, including the nine-day interval between the two instruments. | Stable · Common |
-| **Ferrehan** | Tests whether the worker will commit to something they cannot be sure of; honest uncertainty lowers the gauge further than any vow. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the arrangement, the cold against the Row's warm crystal, the perimeter marks, and the single sheet on which the session's management condition is written — held by the team lead, not carried by a worker. |
+| **Handling** | The observer reads the fragments and the signatures. The stander is the four turns of observation and endurance, worked under certified Tool protocol with nothing spoken that could be construed as an undertaking. Nobody says a promise, including the ordinary ones. — see `## Handling Process` |
+| **Withdrawal** | The file's own phase row fixes two conditions and no others, and the watch meets them: **the observer and the stander worked under certified Tool protocol, and the gauge brought under 25 per cent**. A cycle that ends with the arrangement merely quiet is not closed at all, because the fracture… |
+| **Refusal** | The binding taking hold rather than a wound: every injury on record is shallow, and every one belongs to somebody who broke a thing they had said. |
 
-
-### Operational Work Notes
-
-Broken Promise is a Fragment (III) Object/Place of Major (γ) potency, Object-Grudge manifestation, Grudge expression, held at SECTOR-C-01 in Collector's Row. Flerehan and Pugnahan are recorded as Negative-Low because an object cannot be grieved with or fought, which is the standing rule rather than a peculiarity of this holding. The working range is Viderehan and Ferrehan alone.
-
-**Reading the response:** Read it in the fracture count and the residue weight rather than in any sensation. A falling gauge presents as the arrangement slowing and the attempted signature holding its shape longer. A rising one presents as fresh fracture and heavier sweepings. The sensation in the room is an unreliable indicator here and has been wrong in both directions.
 ## Activation Behavior
 
 > **Special activation only — no counter, no gauge.** What sets it off, per the record: *"speaking a promise while touching a shard"*.

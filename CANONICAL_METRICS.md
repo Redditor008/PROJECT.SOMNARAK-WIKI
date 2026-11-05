@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | **Total Sorrow Entities (`SOMNARAK-WORLD/Sorrow_Entities/`)** | **290** | 100% Individualized & Audited |
 | **Relic-Entities (Object/Place/Time Work Entities)** | **88** | 30.34% (Quota >= 25.0% PASS) |
-| **Handling Process adopted (`R-40`, Relic Entities)** | **12 / 88** | **13.64% Converted** |
+| **Handling Process adopted (`R-40`, Relic Entities)** | **141 / 88** | **160.23% Converted** |
 | **Core Stat Line Compliance (Speed, Gauges, Resistances)** | **290 / 290** | **100.0% Compliant** |
 | **Unknown Entities (`SOMNARAK-WORLD/Unknown_Entities/`)** | **12** | Standardized |
 | **Hope Transformations (`SOMNARAK-WORLD/Hope_Transformations/`)** | **14** | Standardized |
@@ -48,7 +48,7 @@
 | :--- | :--- |
 | **`SOMNARAK-WORLD/` Subtree** | **1884 files** |
 | **`docs/` Publishing Subtree** | **4 files** |
-| **Total Non-Git Repository Files** | **3130 files** |
+| **Total Non-Git Repository Files** | **3132 files** |
 
 ---
 

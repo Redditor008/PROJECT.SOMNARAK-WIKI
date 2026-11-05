@@ -79,7 +79,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | Sorrow Gauge ≥ 75%, reached on regret focused on an unchosen path. No count is listed |
 | **Sorrow Gauge [Saturation]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Acknowledge possibility without treating it as history |
 
@@ -137,23 +136,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One man, named in the commissioning file, and the people on the far side he was trying to reach, who are named in the district roll and not in this record. The file holds the preparations he made for the crossing — the arrangements, the provisions, itemised in the quantities in which they were bought — and nothing at all about what the far side would have been if he had gone.
 - **Expanded origin context:** The commissioning file holds everything about the crossing except the crossing. The arrangements, the preparations, the provisions bought and still in storage and itemised to the quantity — all of it ordinary, all of it done. What it does not hold, and what no inquiry has supplied, is any account of what the far side would have been. That absence is the entity. The frost does not thicken because a man turned back; it has never once responded to anything done or not done by any individual. It thickens when this facility writes down what would have happened on a road nobody took, and it does so whether the sentence is cruel or kind, whether it blames or forgives, and whether or not the person who wrote it believed it. The Tale section of this very file is written in the forbidden register throughout. It has been retained unaltered, with this note attached, because the wing decided that the clearest available example of the harm should not be hidden inside the record of it.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A frozen span in the Echo Gardens, measured every session, with a deck that has held its shape since before the survey began. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the choice at the center of the crossing. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can cross without claiming the alternative life. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the span, the clearance, and the station the readings are taken from — with last year's figures beside the instrument, because the deck has no variance to show by eye. |
+| **Handling** | Two probes at the documented stations and a worker who may say the crossing was available. The worker may not say what would have happened on it. — see `## Handling Process` |
+| **Withdrawal** | Against the file's documented suppression condition: **Acknowledge possibility without treating it as history** — with the second probe entered beside the first and the disagreement, if there is one, recorded rather than argued. |
+| **Refusal** | The temptation to generalise from this span to another, which the file refuses in a row of its own. |
 
-
-### Operational Work Notes
-
-Viderehan holds steady and shows the worker the choice itself — the moment, open, with both ways still available — and it shows nothing beyond it, ever, to anyone. Ferrehan lowers the gauge and the test it sets is precise: can the worker stand on the first three stones without claiming the other life. Workers who say the crossing was possible pass. Workers who say what the crossing would have given them do not, and the gauge records the difference immediately and without ambiguity. Neither Work Type touches the probe depth, which answers to the Review Board.
-
-**Reading the response:** The gauge measures one worker's grammar for the length of one session. The probe measures what the facility has published. They are kept in separate columns and have never moved together, and the standing instruction to supervisors is that a session which lowers the gauge and leaves the frost deeper has been worked correctly and should be written up as a success without qualification.
 ## Activation Behavior
 
 > **Special activation — no counter.** Filed trigger: *"regret focused on an unchosen path"*.

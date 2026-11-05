@@ -97,7 +97,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-922 |
 | **Resolution Condition** | The bank thins out of the run of its own accord and the spotter at the far junction says so. Nothing accelerates it. Of 527 logged arrivals, none has been shortened by any action taken, and the mean dwell of two minutes fifty seconds has not moved in seventeen years. |
 
@@ -164,18 +163,16 @@ The danger is not the grief; it is the ownership of it. A worker walks out of th
 
 So the containment is a conversation. Doors open, two spotters, and somebody saying out loud, inside the hour: that was not yours.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Watches from outside the bank — what the fog carries and who comes out of it carrying something. Nobody observes from inside, because a sorrow acquired in there is filed as a discovery. | Decrease · High |
-| **Ferrehan** (Endurance) | The party walks the run with the doors held open and the spotters posted, and the measure of the session is taken afterwards: whether anybody came out with names and streets they cannot account for. | Decrease · Common |
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-The pressure cannot be measured at all, which is the operational problem: the holding is managed entirely by eye. Observation is the junction post; endurance is standing that post for a full cycle with the doors open and the corridor cold. The gauge responds to sightlines being kept, and to nothing else anyone has found.
+| Stage | What is done |
+|---|---|
+| **Approach** | Post the junctions and hold the doors open. |
+| **Handling** | The gauge falls on corridors that were spotted and declared clear by the spotter. — see `## Handling Process` |
+| **Withdrawal** | The bank thins out of the run of its own accord and the spotter at the far junction says so. Nothing accelerates it. Of 527 logged arrivals, none has been shortened by any action taken, and the mean dwell of two minutes fifty seconds has not moved in seventeen years. |
+| **Refusal** | Nothing that would meet the activation — 3 ignored conditions — is done on purpose. |
 
 ## Containment Event Behavior
 

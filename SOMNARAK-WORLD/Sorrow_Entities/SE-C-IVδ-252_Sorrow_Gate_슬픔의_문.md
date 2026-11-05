@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A massive Weight Han-crystal gate without handle, lock or hinges, standing in the Alpha Tree deep vault. Its inner face warms, and the warmth is the only quantity about it that has ever been seen to move. |
 | **Perceptible to** | The whisper first, ambient and not yet addressed. Then the warmth off the inner face, the ash smell that leaves in a worker's clothes, and the settled conviction that something on the far side is at a temperature. |
-| **Handling** | Nobody steps inside the frame, nobody speaks the whisper aloud at it, and no rendering of it leaves the vault. Interpretive material is destroyed under witness and logged. |
+| **Handling** | Nobody steps inside the frame, nobody speaks the whisper aloud at it, and no rendering of it leaves the vault. Interpretive material is destroyed under witness and logged. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on touch or sustained listening; no approved method exists |
 | **Sorrow Gauge [Saturation]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, and both are recorded as stable. Viderehan returns fragments of the whispering; Ferrehan returns silence; both leave the reading where they found it, which is the only outcome this record accepts. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **Resolution Condition** | All interpretive material produced during the session is destroyed under witness and logged, and the gauge is left flat where the vault set it — nothing here is read down, and both valid Work Types are recorded as stable |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** None. There is no originating person, no community and no event. The Gate predates every record the Keepers hold, and the field is retained empty rather than filled with the most plausible candidate. Three previous versions of this file offered one. All three attributions have been withdrawn.
 - **Expanded origin context:** The file teaches its readers nothing uplifting and is not kept as a symbol of anything. Three earlier versions offered an originating person or community. All three attributions have been withdrawn, and the annual review's standing provenance item has been tabled empty for most of the holding's history. What long service at the frame produces is narrower and less consoling: an expectation of opening that does not diminish with familiarity, words that arrive late, and a drill for an inversion that has never occurred.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A massive Weight Han-crystal gate without handle, lock or hinges, standing in the Alpha Tree deep vault. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Whispers reveal fragments of buried truth. | Stable · High |
-| **Ferrehan** | Remains silent while testing the worker's patience. | Stable · Common |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the frame line, the ambient whisper at the threshold, and the temperature of the inner face taken before anything is entered. |
+| **Handling** | The observer returns fragments of the whisper and the stander returns silence, and neither leaves the reading anywhere but where the vault set it. Nothing spoken at the frame is written down, and whatever is written down is destroyed under witness. |
+| **Withdrawal** | **All interpretive material produced during the session is destroyed under witness and logged, and the gauge is left flat where the vault set it — nothing here is read down, and both are recorded as stable.**. |
+| **Refusal** | Nobody blocks the frame or holds the approach against the cordon, and the gap is not filled in afterwards. |
 
-
-### Operational Work Notes
-
-Gauge behaviour here is a property of the vault rather than of any approach. Viderehan returns fragments of the whispering and Ferrehan returns silence, and both leave the reading where they found it, which is the correct outcome and the only one this record accepts. What moves the file is interpretation: Sorrow Gate is filed as an Object/Place with an Object-Void manifestation, held at SECTOR-A-01 in the Alpha Tree deep vault, and no assumption may be carried across from another sealed structure with a similar entry. A flat gauge is therefore expected. And it is not the same as a safe session — a worker can hold a stable reading the whole shift and still leave with the ash-smell in their clothes, the address of a whisper they cannot repeat. And the settled conviction that something on the far side is at a temperature.
-
-**Reading the response:** Stability under both approaches is the correct and only acceptable outcome; nothing here is expected to fall during a session. The reading rises when the whispering is transcribed, when a transcript is circulated, and when a worker says aloud in the vault what they believe the Gate opens onto — the last being the fastest rise recorded.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"touch or sustained listening; no approved method exists"*.

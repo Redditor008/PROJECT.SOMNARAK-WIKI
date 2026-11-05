@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | An ancient mirror in a corroded frame, cracked across its whole surface, standing in a case in the Mask Market. The glass is cracked and the reflection is not, and no other mirror in the Market does that. Forty-seven fracture lines in nineteen tracings, and none of them has lengthened. |
 | **Perceptible to** | The mismatch first — a broken surface returning an unbroken face — then glass that gives back no warmth, the flat smell of ash, and a quiet that most observers describe as attentive. |
-| **Handling** | Neither Work Type does anything to the fractures. Viderehan is worked from the case; Ferrehan is looking without turning away, measured on the clock and ended from outside the session. Nobody touches the glass and nothing is pressed to it. |
+| **Handling** | Neither Work Type does anything to the fractures. Viderehan is worked from the case; Ferrehan is looking without turning away, measured on the clock and ended from outside the session. Nobody touches the glass and nothing is pressed to it. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on direct gaze |
 | **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan returns the viewer without the presentation and does not move the gauge at all. Ferrehan keeps looking and does not turn away, which lowers the gauge and is the only cycle here that costs anybody anything. |
 | **Location** | SECTOR-C-01, Mask Market |
 | **Resolution Condition** | the timekeeper calls the end before the worker begins to agree with the glass |
 
@@ -138,23 +137,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The citizens of the Mask Market who wanted flattering glass, and whoever made this one. The commissioning material is commercial — the trade, the prices, the workshops that supplied it — and shows an ordinary market meeting an ordinary demand, which the archivist's note says is the point of including it.
 - **Expanded origin context:** The stock that mattered was never the mirrors alone but the demand behind them: an ordinary market, ordinary workshops, ordinary prices, and one workshop's glass that would not do what glass was expected to do there. The commissioning material shows the trade running normally on either side of the refusal, which is why the archivist keeps it — the holding was not made by a conspiracy or a catastrophe but by a city asking, reasonably, not to be shown itself.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** An ancient mirror in a corroded frame, cracked across its whole surface, standing in a case in the Mask Market. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The glass returns the viewer without the presentation, for as long as they keep looking, and the gauge does not move at all. | Stable · Common |
-| **Ferrehan** | The worker keeps looking and does not turn away, which lowers the gauge and is the only cycle here that costs anybody anything. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the mismatch at the case, the influence edge measured outward from the case, and the fracture count against the overlay — the count taken before the session and again after it. |
+| **Handling** | The observer returns the viewer without the presentation and the stander keeps looking without turning away, measured on the clock. The second warden times it and the timekeeper ends it, and neither of them is the person looking. |
+| **Withdrawal** | **the timekeeper calls the end before the worker begins to agree with the glass** — the end called from outside the session and never by the worker looking. |
+| **Refusal** | Nothing is taken from the case and nothing is pressed to it. The count is retaken against the overlay after every session in which the edge moved. |
 
-
-### Operational Work Notes
-
-Cracked Mirror is an Object/Place with Object-Void manifestation and Void expression, held in a case in the Mask Market. Viderehan is the whole of the ordinary work; Ferrehan is looking without turning away, measured on the clock and ended from outside. Neither does anything to the fractures, which have not moved in the life of the holding.
-
-**Reading the response:** A falling gauge presents as the surface settling for a shift — the glass reading as glass, the edge drawing in a little, the quiet losing its weight. Nothing is resolved; the Market still wants flattering mirrors and this one still will not do it. A rising gauge presents as **agreement**: the worker begins to find the reflection fair, then useful, then worth showing somebody else. That is the point at which the session ends, because what follows is a worker trying to bring the glass into a matter it has no business in.
 ## Activation Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"direct gaze"*.

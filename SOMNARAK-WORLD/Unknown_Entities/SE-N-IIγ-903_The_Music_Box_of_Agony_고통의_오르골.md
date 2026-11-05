@@ -71,7 +71,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Activation threshold** | The lid is opened, or the lullaby is listened to beyond one full recitation |
 | **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 90 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan (map the song) and Ferrehan (endure it). Objects and Places are not engaged through Flerehan and are not confronted through Pugnahan |
 | **Location** | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |
 | **Resolution Condition** | Close the lid mid-song, or complete a full recitation under Ferrehan and reclaim identity by naming the self |
 
@@ -138,20 +137,16 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The maker (unknown), the one it was made to comfort (faded), and every listener since who has begun to circle the same carousel.
 - **Expanded origin context:** The Music Box of Agony is a lullaby with nowhere to go. Comfort that fails does not vanish; it turns inward and loops. The song's lyrics describe exactly what the box does — a heart vanishing, a self forgetting, a thing that cannot break free — and because the song is true, it cannot end. The box does not cause agony so much as complete it: anyone who hears the full lullaby begins to live inside it, circling, until there is nothing left of them but the music.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid.
+> **This holding is not worked.** A 25 × 15 cm box, black top, white bottom, pink lining, sitting where it was put in the acoustic-isolation vault, with a weeping figurine on a post that turns only while…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Observation maps the lullaby's range, transcribes the lyrics (to confirm they have not changed), and reveals which listeners have begun to fade. | Stable · Common |
-| **Ferrehan** (Endurance) | The valid work: endure one full recitation without fading, and at the song's close speak your own name aloud to reclaim the self. | Decrease · High |
-
-### Operational Work Notes
-
-The Music Box yields only to Viderehan and Ferrehan. Viderehan confirms the lyrics are unchanged (they always are) and identifies fading listeners. Ferrehan is the reclaiming work: a worker endures the entire lullaby without letting the carousel take them, then names themselves at the close to break the cycle's hold. Workers who cannot remember their own name at the song's end have already begun to fade and must be withdrawn. A stable gauge does not mean the song has stopped — only that no one is currently circling.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the lid state, the boundary of the audible range against the ~10 m ordinary reach, the recitation count on the slate, and the Clarity of every listener in the vault. |
+| **Handling** | The observer maps the range and transcribes the lyric only while the box plays, to confirm it has not changed. Thestander sits out every verse and, at the last line, says their own name aloud. Nobody logs the lyrics from memory. — see `## Handling Process` |
+| **Withdrawal** | Against the file's documented suppression condition: **Close the lid mid-song, or complete a full recitation under the stander and reclaim identity by naming the self** — with the lid dropping shut on its own entered as a clean close rather than a fault. And the figurine's audible weeping recorded… |
+| **Refusal** | Objects and Places cannot be emotionally engaged through the mourner or confronted through the confronter. |
 
 ## Activation Behavior
 

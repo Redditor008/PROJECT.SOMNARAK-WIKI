@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A seated hall of forty-or-so stone figures in their groups, a ring of chairs at dusk light that has not moved through the lattice since the hour began, and one chair added to the ring when an interval goes uninterrupted. Expansion is measured in chairs: forty-four becomes fifty-one, then sixty-three, appearing along the corridor outside. |
 | **Perceptible to** | The weight first, arriving at the third exchange rather than at the door, and the gap in the ring turned to face whoever has entered. A worker's own surname may be spoken by one of the back three groups, and the weight redistributes onto that single chair. |
-| **Handling** | Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been authorised inside the hall; every piece in the set was extracted afterwards, from the emptied room. Attendance is capped at ten intervals. |
+| **Handling** | Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been authorised inside the hall; every piece in the set was extracted afterwards, from the emptied room. Attendance is capped at ten intervals. — see `## Handling Process` |
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, and both work by being present without joining in. Viderehan makes the weight legible as a record of a dispute the worker is not party to. Ferrehan is sitting the interval without taking a turn in it. |
 | **Location** | SECTOR-N-910, contained |
 | **Resolution Condition** | The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned. |
 
@@ -146,18 +145,16 @@ What crystallised here is narrow, and the archive is careful about saying so. Th
 
 The hall does not mourn the families. It keeps their meeting open. Every evening the seats fill in the order the plan records, the adjourned question is taken up again. And at the end of the interval it is adjourned again — the twelfth time. And the thirteenth, and so on for as long as the roof holds.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Reads the seating plan against the attendance count from outside the dusk line. What can be established is who the room counted, which is not the same as who was in it. | Decrease · High |
-| **Ferrehan** (Endurance) | The party sits the wider hall for the full sitting and stays until adjournment, because leaving early is the thing the room records as absence. The single recorded instance shows four hours on the duty log for a thirty-one-minute wait. | Decrease · Common |
+> **This holding is not worked.** A seated hall of forty-or-so stone figures in their groups, a ring of chairs at dusk light that has not moved through the lattice since the hour began, and one chair…. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-The weight is real and measurable and it is also, in the strict sense, none of the worker’s business: it belongs to a dispute they are not party to. Both valid approaches work by being present without joining in. Personnel who try to follow the argument report the sharpest gauge readings of the hour, and the standing instruction is to attend the conversation without attending to it.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the chair count against the hall plan, the family registers of everybody entering, and the precedence order the forty-four will empty in. |
+| **Handling** | The watch counts the chairs against the hall plan before entering, and enters the count again at the close against the same plan. |
+| **Withdrawal** | **The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan** — and a hall emptied by personnel withdrawing early is logged as abandoned. And the chairs it gained are not lost. |
+| **Refusal** | Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been authorised inside the hall; every piece in the set was extracted afterwards, from the emptied room. Attendance is capped at ten intervals. |
 
 ## Containment Event Behavior
 

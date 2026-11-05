@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A cracked pane of red-black crystal set in the tunnel wall at chest height, broken across its surface, reflecting hands rather than faces and letting no light through. Two removal attempts cracked the surround and left the pane in place. |
 | **Perceptible to** | The cold off the glass first and the draft through the tear, carrying old anger. Then the reflected hands, which are the register, because the pane remembers every person who has touched it. |
-| **Handling** | Read from the side of the frame rather than in front of it, with the caliper count kept unbroken. A palm is not put on the glass — all four failures on record were a palm on a flat cool surface at hand height at the end of a shift. |
+| **Handling** | Read from the side of the frame rather than in front of it, with the caliper count kept unbroken. A palm is not put on the glass — all four failures on record were a palm on a flat cool surface at hand height at the end of a shift. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on touch or direct gaze |
 | **Sorrow Gauge [Pressure]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the history of the room beyond the pane and holds the gauge. Ferrehan tests whether the worker can look without entering the memory, and is the row that lowers it. |
 | **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | The length the window showed is walked end to end by two people and logged on the patrol sheet. 118 cycles, 118 walks; the sheet is the holding's containment and the tunnel office maintains it as a live document rather than an archive. |
 
@@ -139,23 +138,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The tunnel crews of the lower network, four generations of them, none named individually and all present. The commissioning file holds the patrol rounds for the years the window was in daily use, and the archive takes the hands in the pane as the roll rather than any written list, since no written list was ever kept.
 - **Expanded origin context:** The lower network was worked for four generations and the window sat at the turn where the crews changed over, at the height a hand goes out to steady you. Everybody touched it. Nobody recorded touching it. When the seams were worked out the lengths were struck off the round one by one, not closed in any ceremony, simply not walked again, and the last crew went up without being told they were the last. The hands in the pane were counted for the first time eleven years after that and the count was nine hundred and six.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A cracked pane of red-black crystal set in the tunnel wall at chest height, broken across its surface, reflecting hands rather than faces and letting no light through. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the history of the room beyond it. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can look without entering the memory. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the caliper count against the overlay, the four-to-six-point question of whether the last length was walked, and the patrol sheet itself before the shift begins. |
+| **Handling** | The observer reads the room beyond the tear from the side of the frame and the stander looks without entering the memory. Nobody puts a palm on the glass, and the length that was shown is walked end to end by two people. |
+| **Withdrawal** | **The length the window showed is walked end to end by two people and logged on the patrol sheet. 118 cycles, 118 walks; the sheet is the holding's containment and the tunnel office maintains it as a live document rather than an archive.**. |
+| **Refusal** | Nothing is swung at it and nothing is levered out; the one strike on record changed the count and not the glass. |
 
-
-### Operational Work Notes
-
-The Work Type table holds steady here and the patrol sheet does not. The gauge tracks one variable: whether the length shown at the last cycle was walked. Walked, it opens where it closed; unwalked, four to six points higher, every time across 118 cycles. The window is not asking to be looked at. It is asking for the tunnel to still be in use.
-
-**Reading the response:** Viderehan is Stable and Ferrehan is Decrease in the Work table; keep those gauge readings separate from photographed hands. A lower gauge does not by itself establish a falling hand count. The file’s hand-count series disagree and need their own comparison, not substitution of a gauge result. Keep walking and logging the shown length even when a viewing leaves the photographed count unchanged.
 ## Activation Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"touch or direct gaze"*.

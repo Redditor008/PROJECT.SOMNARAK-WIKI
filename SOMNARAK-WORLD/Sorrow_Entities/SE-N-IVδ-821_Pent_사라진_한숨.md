@@ -96,7 +96,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Permit rest and acknowledge exhaustion as real |
 
@@ -155,23 +154,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** One worker who collapsed in the Old Lament and held back their last sigh so that nobody would hear weakness, and who is not identified. The employment records for the period are incomplete, the collapse was never reported, and the file states plainly that the search was properly conducted and failed. What the archive holds instead is the list of everyone who might have been working that ground — several hundred names, none confirmed, all retained. The header explains the list's own uselessness and explains why it is kept anyway: the entity exists because somebody was not noticed, and a blank page would be the facility agreeing.
 - **Expanded origin context:** What the file holds instead of a person is a list: several hundred names of everyone who might have been working that ground, none confirmed, all retained, with the header explaining both the list's uselessness and why it is kept anyway — the entity exists because somebody was not noticed. And a blank page would be the facility agreeing. The search was properly conducted and failed; the employment records for the period are incomplete and the collapse was never reported. Four separate instrumentation approaches produced four recordings of the ambient district and nothing else, and they are documented so that nobody repeats them.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The collapse surfaces — one worker, one moment, no face and no name the list of several hundred can confirm. | Stable · Common |
-| **Ferrehan** | The worker rests on the clock without apologising for it, which is the only thing that has ever brought the pressure down and the thing this facility is worst at arranging. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Before approach, know what meets you: Sorrow Gauge ≥ 90%. |
+| **Handling** | The observer or the stander from the marked point, inside the cap, in silence, with relief enforced by the relay partner. |
+| **Withdrawal** | Permit rest and acknowledge exhaustion as real. |
+| **Refusal** | Objects and Places cannot be emotionally engaged through the mourner or confronted through the confronter. |
 
-
-### Operational Work Notes
-
-The table is the whole method and it is deliberately narrow, because Pent offers no form to work on: nothing is visible, nothing answers, and the identification is a gap in the sound plus a measured lean taken from one marked spot. The two valid responses split cleanly. Viderehan surfaces the collapse — one worker, one moment, no face and no name the several-hundred-name list can confirm — and moves the gauge not at all. Ferrehan asks a worker to rest on the clock without apologising for it, which is the only thing that has ever brought the pressure down and the one act this facility is structurally worst at arranging. A stable gauge is not a safe cycle: Viderehan holds it flat and still leaves the observer standing in a place that is holding its breath.
-
-**Reading the response:** Read it in the air and in the walls. A falling gauge presents as the pressure going out of the air — the burning sensation easing toward ordinary warmth, the boundary drawing in, the gap in the sound becoming harder to locate from the marked point. Nothing is released by that. The sigh is still withheld and the worker is still unnamed. A rising gauge presents as **composure**. The team starts to feel equal to the site. Fatigue stops registering, the exposure cap starts to seem conservative, and personnel find themselves declining the relay and offering to take another turn, in good faith and with no sense of strain. This holding was made by someone who treated their own exhaustion as something to be suppressed, and it strengthens whenever exhaustion is called weakness — including when a worker calls their own exhaustion weakness by refusing to admit to it. A team that no longer feels tired at Pent is not rested. It is being read back its originating wrong, and the watch is ended on that observation alone.
 ## Expansion Behavior
 
 | Field | Detail |

@@ -94,7 +94,6 @@ The gauge is read at the instrument. The cost is read on the person.
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Mantle Commons — ambient |
 | **Resolution Condition** | Let the laughter and grief coexist; do not suppress the sound |
 
@@ -155,23 +154,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** A community of the Mantle Commons who are not otherwise recorded. Nothing of them survives except the laughter, which means the Keepers' record has their voices and not their names — the inverse of almost every other file in this wing, and the reason Viderehan is worked here at all.
 - **Expanded origin context:** The Commons were a gathering place — a market square where a community met, traded and laughed — and the laughter was real rather than the performed kind the city trains. Nothing else about them survives, which is why the first survey set out to count what was left: forty to sixty voices were separable at that first reading, the same range as at the most recent, and no voice has ever left the loop. Eleven of them are facility personnel, distinguished by the wing's own survey rather than by any difference in the sound, and four of those eleven are still employed here. The file is the inverse of almost every other in this wing: the Keepers hold the voices and not the names. What the survey measures is therefore not the count, which has not moved, but the eleven, which is the only part of this entity the facility answers for.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the people and moment behind the laughter. | Stable · Common |
-| **Ferrehan** | Continues around the worker until they can hear sadness in joy. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | On Risus: let the laughter and grief coexist; do not suppress the sound. |
+| **Handling** | The carry the cycle; the condition decides it. — see `## Handling Process` |
+| **Withdrawal** | Let the laughter and grief coexist; do not suppress the sound. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 45% — is done on purpose. |
 
-
-### Operational Work Notes
-
-Work Type data is one input among many. And the check that matters here is the one the smoke test has no field for: the Commons holds a sound and the people who made it are four thousand years dead. So there is nobody to weep with through Flerehan and nothing to confront through Pugnahan. Viderehan and Ferrehan are the whole of the work. Risus is an Object/Place with Lament manifestation and Lament elemental expression, ambient in the Commons, and no assumption transfers from another entity with a similar name — the wing holds more than one Commons record that is a sound, and they are managed oppositely. A stable gauge is not a safe encounter: Viderehan leaves the reading exactly where it was and still shows the worker a moment they will not be able to put down.
-
-**Reading the response:** A falling reading under Ferrehan means a worker stayed until the sound turned and did not treat the turn as the unpleasant part. Stability under Viderehan is correct and complete. The reading rises when the sound is pursued, recorded for identification, suppressed, or talked over — and it rises most when somebody laughs along with it.
 ## Expansion Behavior
 
 | Field | Detail |

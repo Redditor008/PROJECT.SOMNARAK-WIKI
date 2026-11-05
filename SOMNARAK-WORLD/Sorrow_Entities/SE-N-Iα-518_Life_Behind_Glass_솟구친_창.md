@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A window-shaped object, warm and wet to the hand and seated in the tunnel wall with the masonry built around it, and no joint cut to admit it, with dark rain falling behind the pane as its resting marker. It does nothing whatever when approached and shows no outside world until somebody looks directly into it. |
 | **Perceptible to** | The dark rain first, then the warmth and damp of the pane on the tunnel side. Under direct gaze, a life that is not the viewer's continuing without them, and never the same life twice. |
-| **Handling** | A timed watch with a timekeeper who does not look at the pane. The relief interrupts by stepping into the line of sight — no touching the viewer and no covering the glass — and the first-look time is written before anything else is recorded. |
+| **Handling** | A timed watch with a timekeeper who does not look at the pane. The relief interrupts by stepping into the line of sight — no touching the viewer and no covering the glass — and the first-look time is written before anything else is recorded. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on direct line of sight into the pane |
 | **Sorrow Gauge [Depth]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows a life that is not the worker's and moves the gauge not at all, because being observed is what this entity already is. Ferrehan holds the view without reaching for it and without turning away for a full cycle, and lowers the gauge. |
 | **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it. |
 
@@ -147,23 +146,17 @@ The rest of the physical record is not reconciled by that display distinction. L
 - **The People:** One man, unnamed, who lived beside this pane and watched every joy, departure and season pass on the other side of it without once going out to join them.
 - **Expanded origin context:** His personnel record survives and is four pages long. Forty-one years, no reprimand, no commendation, no application of any kind. Under the rule then and now, a transfer required his own request and nobody else could make it for him. The file holds no evidence that he wanted to stay and none that he wanted to leave, and the archivist's note observes that this is exactly what a record looks like when nobody is ever asked.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A window-shaped object, warm and wet to the hand and seated in the tunnel wall with the masonry built around it, and no joint cut to admit it, with dark rain falling…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows the worker a life that is not theirs and continues without them. The gauge does not move: being observed is what this entity already is. | Stable · Common |
-| **Ferrehan** | Holding the view without reaching for it and without turning away, for a full cycle, which is the one thing the man at the pane managed in neither direction. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the resting marker and the first-look time, the size of the audience — how many faces are turned the same way — and the shift board, before anybody is spoken to. |
+| **Handling** | The watch the timekeeper writes the first-look time before anything else is recorded, and the resting marker is checked against the last watch. |
+| **Withdrawal** | **End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it.**. |
+| **Refusal** | The gaze is ended voluntarily, and the scene is taken in the viewer's own words before they leave the tunnel. |
 
-
-### Operational Work Notes
-
-Work Type data is one input among many, and the code and the coherence level decide what a 'stable' gauge means on this ground. Life Behind Glass is an Object/Place with Object-Weight manifestation and Lament expression, filed in the deep tunnels of Zone B, and nothing learned about a similarly named holding transfers to it. The caution particular to this file runs the other way from most: a stable gauge here is not suspicious, it is the ordinary reading — Viderehan moves nothing because being watched is what the pane already is — so the figures will not tell a supervisor what they need to know. And the watch has to be established by asking workers what they saw and how long they held it.
-
-**Reading the response:** Viderehan holds the gauge level, and the reason is worth stating plainly: observation is what this entity already is, so looking at it adds nothing and takes nothing away. The worker sees the world they never entered and the Window is unmoved by being seen. Ferrehan lowers the gauge, because enduring here means continuing to look without crossing — holding the view, acknowledging what is on the other side, and declining both to climb through and to walk away. That is the thing the man at the pane never managed in either direction. A falling gauge means a worker has held that position for a full cycle. A rising gauge usually means someone stopped working and started watching, and the distinction between the two is invisible from across the tunnel. It must be established by asking.
 ## Activation Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"direct line of sight into the pane"*.

@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A soot-darkened pulp envelope with an indigo crystal wax seal, lying in Archive Vault 12. The paper trembles faintly, the wax weeps blue condensation and the frost pattern spreads across the seal. None of that moves the envelope off its plinth. |
 | **Perceptible to** | The cold first, and the blue condensation on the wax. Then unwritten messages arriving uninvited, and the low acoustic hum the edges give off when the envelope is handled. |
-| **Handling** | Screened hands, an unbroken seal, and the flap never lifted. Nobody reads the brush script on the flap and nobody writes over the wax, which brings instantaneous frostbite. A dropped or jarred envelope stops all handling until the wax is verified against the vault sheet. |
+| **Handling** | Screened hands, an unbroken seal, and the flap never lifted. Nobody reads the brush script on the flap and nobody writes over the wax, which brings instantaneous frostbite. A dropped or jarred envelope stops all handling until the wax is verified against the vault sheet. — see `## Handling Process` |
 | **Activation threshold** | Single-use discharge trigger — consumed upon activation |
 | **Sorrow Gauge [Depth]** | **000 of 240** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan monitors frost expansion across the seal without applying pressure and holds. Ferrehan tests whether a worker can stand near an unread farewell without weeping, and lowers the gauge. |
 | **Location** | SECTOR-A-04, Archive Vault 12 — contained |
 | **Resolution Condition** | The letter is safely archived or unsealed for its single-use emergency benediction |
 
@@ -135,20 +134,16 @@ Failure here is not an explosion; it is waste. A prematurely fractured seal spen
 - **The Event:** The Great Subsidence of Year 4,112 in Sector-A-04, where lower foundational struts sheared during sub-rail evacuation.
 - **The People:** Archivist Yoon Seok-Won and his estranged daughter Yoon Min-Seo.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A soot-darkened pulp envelope with an indigo crystal wax seal, lying in Archive Vault 12. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Monitors frost expansion across the wax seal without applying pressure. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can endure proximity to an unread farewell without weeping. | Decrease · High |
-
-### Operational Work Notes
-
-Personnel assigned to Viderehan must avoid reading the faded brush script on the envelope flap. Ferrehan workers must be screened for recent family estrangements; workers with unaddressed parental grief experience rapid Composure erosion.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the wax integrity against the vault sheet, the frost pattern across the seal, and the temperature of the vault air, all read without lifting the flap. |
+| **Handling** | The observer watches the frost spread without applying pressure and the stander stands near the unread farewell without weeping. Nobody reads the script, nobody writes over the wax, and a jar redates the whole countdown. |
+| **Withdrawal** | **The letter is safely archived or unsealed for its single-use emergency benediction** — and if it vents unchosen, the benediction is wasted. |
+| **Refusal** | Set it down, verify the seal, and record who moved it and why. Nothing is answered with force and nothing is gripped. |
 
 ## Activation Behavior
 

@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A lit district that will not wake. The mismatch is the entity: the sky does its part and the residents cannot open their eyes, and the sleepers are people within its extent rather than any anatomy of the holding. Nothing in the district has ever been damaged. |
 | **Perceptible to** | The shutters — the first one opening and the last one opening, timed from the perimeter post — and, from the sleepers themselves, an account that arrives consistently and is not confusion and not dreaming: a morning attended from the wrong side of the eyelids. |
-| **Handling** | The post is held without entering, the first shutter and the last are timed, and the pair goes into the series. Neither Work Type has ever produced an early waking, and the rotation exists because of the standing, not the sleepers. |
+| **Handling** | The post is held without entering, the first shutter and the last are timed, and the pair goes into the series. Neither Work Type has ever produced an early waking, and the rotation exists because of the standing, not the sleepers. — see `## Handling Process` |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [Saturation]** | **000 of 660** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only, both performed from the perimeter. Viderehan is the watch itself and makes the dream pressure legible under sustained observation. Ferrehan is holding the post for the length of an episode without sending anybody in. |
 | **Location** | SECTOR-N-917, contained |
 | **Resolution Condition** | The district opens its eyes. Mean elapsed time from sunrise, seventy-one minutes; range forty to a hundred and ten; twenty-nine episodes and no exceptions. Nothing has ever shortened one and the file lists what has been tried. |
 
@@ -146,18 +145,16 @@ A junior researcher noticed that the readings clustered after sunrise. She wrote
 
 What the page described is this: the sun comes up over a district and the district does not. People lie in their beds knowing the hour, unable to open their eyes, for an average of seventy-one minutes, and then the morning starts.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the ambient series in the form it was filed and looks for the clustering after sunrise. One entry at a time shows nothing; the reading only exists in the series. | Decrease · High |
-| **Ferrehan** (Endurance) | The party holds the perimeter post from before sunrise until the last shutter opens and logs the three times. The endurance is a watch that begins earlier than the event and ends after it. | Decrease · Common |
+> **This holding is not worked.** A lit district that will not wake. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Sunrise and shutter times are recorded from the post, but no instrument measures the condition inside the sleepers. Timing an episode is not a direct measurement of the dream state. Both valid approaches are performed from the perimeter: observation is the watch itself, endurance is holding the post for the length of an episode without sending anyone in. The gauge answers to the watch being kept, which is the only act the holding permits.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the perimeter post and its view, the sunrise time entered from the records, and the last shutter time from the previous episode in the series. |
+| **Handling** | The watch starts the clock at the first shutter and stops it at the last, from the perimeter post, and enters the pair against the twenty-nine-episode series. |
+| **Withdrawal** | **the first shutter and the last shutter are timed from the perimeter post** — the district opens its eyes, mean elapsed time from sunrise seventy-one minutes across twenty-nine episodes, and nothing has ever shortened one. An episode closed on anybody's account of the morning rather than on the… |
+| **Refusal** | The post is held without entering, the first shutter and the last are timed, and the pair goes into the series. Neither stages has ever produced an early waking, and the rotation exists because of the standing, not the sleepers. |
 
 ## Containment Event Behavior
 

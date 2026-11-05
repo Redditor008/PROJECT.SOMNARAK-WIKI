@@ -75,11 +75,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A four-sided iron wedge with a beaten head, original greasy hemp wrapping and chiselled apprentice codes, on a pedestal in the Outer Bastion Arsenal. Solid porous iron, a 115°C core and an 85–140°C surface, with no liquid reserve anywhere in it. |
 | **Perceptible to** | The heat first — the tip scorches untreated wood within five seconds — then the wrapping blackening, eighteen micro-vibrations a minute through the plinth, and a ringing that carries through stone floors within six metres. |
-| **Handling** | Tongs or heat-resistant leather only, and the original hemp left wound. Two hands on the wrap, the pedestal cleared before anything is lifted, and no flinching at the plinth, because hesitation is a measured input here rather than a courtesy. |
+| **Handling** | Tongs or heat-resistant leather only, and the original hemp left wound. Two hands on the wrap, the pedestal cleared before anything is lifted, and no flinching at the plinth, because hesitation is a measured input here rather than a courtesy. — see `## Handling Process` |
 | **Activation threshold** | Single-use impact trigger — consumed upon activation |
 | **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan records thermal cycles and crack propagation along the shaft and holds the gauge. Ferrehan endures holding the hot hemp wrap without dropping the weight, and lowers it. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |
 | **Resolution Condition** | The wedge is driven into bedrock or target carapace, releasing its tectonic fury |
 
@@ -136,20 +135,16 @@ Dropped, it is an accident with a two-metre tile radius and a handling report. D
 - **The Event:** The Great Basalt Rupture of Year 4,185 in Old Cheonbulok, where supervisors welded shut the blast flues.
 - **The People:** Master Smith Kang Il-Joo and eighteen apprentices of the Seventh Slag Shift.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A four-sided iron wedge with a beaten head, original greasy hemp wrapping and chiselled apprentice codes, on a pedestal in the Outer Bastion Arsenal. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Records thermal cycles and crack propagation along the iron shaft. | Stable · Common |
-| **Ferrehan** | Demands the operative endure holding the hot hemp wrapping without dropping the weight. | Decrease · High |
-
-### Operational Work Notes
-
-Ferrehan here is worked in heat-resistant leather and nothing else. Show the iron any fear of burns and its temperature answers the hesitation directly, up by +20°C.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the surface temperature against the 85–140 degree band, the crack series along the shaft, and the separation from any thermal holding that would push the surface toward melting. |
+| **Handling** | The observer records the thermal cycles and the stander endures the wrap without dropping the weight. Tongs or leather stay on, the hemp stays wound, and nobody tests the wedge to see what it would do. |
+| **Withdrawal** | **The wedge is driven into bedrock or target carapace, releasing its tectonic fury** — once, after which the iron is slag and nothing is left to extract, repair or rekindle. |
+| **Refusal** | Pneumatic crates for movement, two hands or tongs on the wrap, and the pedestal cleared before the wedge is lifted at all. |
 
 ## Activation Behavior
 

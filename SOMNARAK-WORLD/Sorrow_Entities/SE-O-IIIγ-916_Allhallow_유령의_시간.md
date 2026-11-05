@@ -74,11 +74,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | An hour that descends without warning on the Desolate border, during which people who look like the dead walk the perimeter. They do not speak and they do not stop, and at sixty minutes from the first walker they are gone. |
 | **Perceptible to** | The hour itself and the figures on it. Then the pressure, which settles on whoever is standing at the line rather than on whoever the walkers are. The only measurable thing is the count, taken from two posts. |
-| **Handling** | Count, and do not approach. Observation is the tally; endurance is standing the full sixty minutes at a line you may not cross while the dead walk past it. The gauge moves when the counts are reconciled and for nothing that happens to the walkers. |
+| **Handling** | Count, and do not approach. Observation is the tally; endurance is standing the full sixty minutes at a line you may not cross while the dead walk past it. The gauge moves when the counts are reconciled and for nothing that happens to the walkers. — see `## Handling Process` |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 120 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the phantasmal pressure legible under sustained observation and is the tally itself. Ferrehan is standing the full hour at the line, and the gauge answers to patience rather than to insight. |
 | **Location** | SECTOR-O-916, contained |
 | **Resolution Condition** | The hour ends. It ends at sixty minutes from the first walker, every time, across thirty-four occurrences. The holding is closed out when both counts are in and the difference between them is recorded. Nothing has ever shortened an hour and nothing has ever extended one. |
 
@@ -145,18 +144,16 @@ What walks is silent and exact: sixty minutes between first figure and last, thi
 
 Nobody has ever spoken to one of them and nobody has tried. The prohibition on approach is one of the oldest instructions this wing holds, and it has outlived every officer who asked for an exception.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the hour from behind the line and records what walks in order: sixty minutes between first figure and last, which has been the same thirty-four times. | Decrease · High |
-| **Ferrehan** (Endurance) | Two posts count independently for the whole hour and reconcile afterwards without averaging or correcting either total. Endurance here is holding a count for an hour without deciding which of the two is right. | Decrease · Common |
+> **This holding is not worked.** An hour that descends without warning on the Desolate border, during which people who look like the dead walk the perimeter. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-The pressure is not worked; the hour is counted. Observation is the tally itself, endurance is standing the full sixty minutes at a line you may not cross while people who look like the dead walk past it. The gauge moves when the counts are taken and reconciled, and for nothing that happens to the walkers — because nothing does.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the first walker and the clock started from them, the two counter posts on separate rotation, and the line that will not be crossed. |
+| **Handling** | The observer as the tally and the stander as the full sixty minutes stood at the line, with no approach, no speech and no contact attempted. |
+| **Withdrawal** | **The hour ends** — at sixty minutes from the first walker, every time, with both counts in and the difference between them recorded. |
+| **Refusal** | Does not approach, does not speak to a walker and does not attempt contact, and holds the post until the hour closes. |
 
 ## Containment Event Behavior
 

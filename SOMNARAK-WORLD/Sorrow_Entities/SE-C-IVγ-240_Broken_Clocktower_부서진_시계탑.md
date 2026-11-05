@@ -76,11 +76,10 @@ The gauge is read at the instrument. The cost is read on the person.
 |---|---|
 | **Mode of presence** | A broken clocktower at the edge of Collector's Row with its hands at 3:47 and its gear train running underneath a silence where the stroke should be. The bell chamber is inspected through a port and never opened; the pendulum moves and the hands do not. |
 | **Perceptible to** | The drift on a carried timepiece first, which is how the field is found at all, then the lateness of a voice reaching the person standing next to it. Nobody identifies this holding by feel, because everybody inside it misjudges the time — consistently, and in both directions. |
-| **Handling** | The watch is set against the facility clock, positions are taken, and one instruction is given once. A sealed timepiece is carried by the watch and surrendered on exit, and no second instruction is issued without the first being confirmed as arrived. |
+| **Handling** | The watch is set against the facility clock, positions are taken, and one instruction is given once. A sealed timepiece is carried by the watch and surrendered on exit, and no second instruction is issued without the first being confirmed as arrived. — see `## Handling Process` |
 | **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
 | **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
 | **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the field's effect on a carried timepiece and widens the field by the ground it is walked across. Ferrehan is standing in a moment that will not conclude without trying to force it, and lowers it. Both are timed to the facility clock and to nothing in the room. |
 | **Location** | Zone C, near Collector's Row |
 | **Resolution Condition** | Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded. |
 
@@ -139,23 +138,17 @@ The gauge is read at the instrument. The cost is read on the person.
 - **The People:** The witnesses named on the municipal schedule of the Year 4222 accident, read aloud at every annual review before any technical business. They are the inquiry's witnesses and cannot be examined, which is why the inquiry is still open.
 - **Expanded origin context:** The accident of Year 4222 has never been the subject of a finding. Its inquiry was opened in the ordinary way, has sat for sixteen years, and cannot conclude while its principal witnesses are inside the instant it is inquiring into. The file holds the inquiry's own interim minutes, which record this difficulty at every sitting in nearly identical words, and the schedule of families who have attended each sitting, which is shorter every year.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A broken clocktower at the edge of Collector's Row with its hands at 3:47 and its gear train running underneath a silence where the stroke should be. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Holds the field steady long enough to walk and measure the radius, and the walking is the cost: the dilation extends over the ground it is measured across, so the radius after a survey is never the radius before it. | Increase · Low |
-| **Ferrehan** | The timed watch inside the distortion, ended by the facility clock and not by the worker. | Decrease · High |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the external facility clock set before entry, the drift on a carried timepiece, positions taken inside the field, and the sealed timepiece in the watch's own hands. |
+| **Handling** | The watch finds the field by the drift on a carried timepiece, sets the watch to the facility clock, and takes positions before anybody is given anything. |
+| **Withdrawal** | **Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded** — and a watch that ended on a clock carried into the field is entered as not having ended at all. |
+| **Refusal** | Gives one instruction, once, and confirms it has arrived before anything else is said. The second instruction is the recorded injury on this file and the watch does not issue it. |
 
-
-### Operational Work Notes
-
-The gauge on a site holding is a shift reading. The figure that is kept is the drift: seconds of divergence per watch-hour between a sealed carried timepiece and the facility standard, reconciled by hand at the horology bench. Means of 14, 23 and 31 seconds across three years. It is the longest continuous record of the phenomenon in the Directorate and was carried uninterpreted for sixteen years.
-
-**Reading the response:** A good watch ends when the facility clock says so, with one instruction given once, the timepiece surrendered unopened, and the drift entered whatever it is. A worker who stayed because it did not feel long enough has failed the watch even if nothing happened.
 ## Activation Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"manual rotation of the escapement wheel, or an abrupt change in the vault supply"*.
