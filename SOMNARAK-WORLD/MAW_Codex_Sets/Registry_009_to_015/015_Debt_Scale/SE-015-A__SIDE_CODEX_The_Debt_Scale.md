@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIβ-015 [VO]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — SECTOR-C-01, Collector court oversight
 
@@ -58,12 +58,14 @@ A reading can be initiated voluntarily. A judgment requires a recorded second pa
 
 ## PAGE 02 — MANAGEMENT READOUT
 
-| Work Type | Response | Gauge Result | Use |
+| Stage | What is done | Who holds it | What it costs |
 |---|---|---|---|
-| **Flerehan** | No response. | N/A | Grief does not alter its arithmetic. |
-| **Pugnahan** | No response; physical force creates overload. | N/A / escalation | Prohibited. |
-| **Viderehan** | Shows obligation structure. | Stable | Primary audit method. |
-| **Ferrehan** | Lets worker remain beneath the result without fleeing. | Decrease | Primary containment method. |
+| **Approach** | Chalk the circle and re-mark it outward if the beam has moved. Read the bone warmth first; it is the identification the courts' two ordinary balances fail. | Duty Warden with the comparison book. | A watch. The ground it claims is never un-marked. |
+| **Handling** | One hand, one dish, at the plinth. Both pans are read together — a single-pan reading is the one thing the Scale refuses to give. | The certified handler on the session sheet. | The bearer is measured on first contact without being asked, and the figure arrives as weight rather than as a number. |
+| **Withdrawal** | Step back past the chalk line and log where the beam came to rest. | The outgoing handler; the incoming one signs the comparison. | Nobody who has received their own figure has afterwards described themselves as owing nothing. |
+| **Refusal** | Do not lift, turn or move it. Do not use both hands. Do not tell a handler their own figure, even when asked. | Nobody may authorise any of these; three requests are on file and all three were refused. | The question it answers is impartial, and an impartial answer given to a person who asked for it has never been a kindness. |
+
+**This holding is not worked** (`R-40`). There are no Work Types to list: an object cannot be grieved with or confronted, and the old four-row table offered two and blanked two.
 
 ### Court Rule
 
@@ -75,7 +77,7 @@ The Scale may be impartial in measurement and still be used unjustly. Every offi
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Balance Projector | β | Void | Focuses debt readings into single-target identity pressure | `SE-015-B__MAW-W_The_Balance_Lens.md` |
+| **Weapon** | The Balance Projector | β | Void | Focuses debt readings into single-target identity pressure | `SE-015-B__MAW-W_The_Balance_Projector.md` |
 | **Suit** | The Balance Veil | β | Void | Protects the wearer from being consumed by a reading | `SE-015-C__MAW-S_The_Balance_Veil.md` |
 | **Stigma** | The Balance Pendant | β | Void | Displays another person’s measured burden | `SE-015-D__MAW-G_The_Balance_Pendant.md` |
 
@@ -142,13 +144,3 @@ The R.D. has not produced a reading that both exposes an unjust debt system and 
 ### Observation 4 — Pending
 
 Mastery would require a measure that recognizes mercy without becoming arbitrary.
-
----
-
-**Document ID:** `SE-015-A`  
-**Related Entity:** `SE-015`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

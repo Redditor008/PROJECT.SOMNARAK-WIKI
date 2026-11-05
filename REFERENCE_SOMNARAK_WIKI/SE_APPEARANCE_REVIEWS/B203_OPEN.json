@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "batch": 203,
+  "status": "OPEN",
+  "date": "2026-10-29",
+  "parent_head": "26e9bfeff3783d5a2b39bb3ff61e66c8d4b1927d",
+  "ranking_method": "LC_ALL=C wc -w ascending over the 10 pending dossiers (301-ledger paths); designation tie-break",
+  "pending_at_open": 10,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IVβ-043",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md",
+      "words": 8947,
+      "sha256": "411bfdbdb5bb80986cbe24ff9e3172fa1969ae040e0d1dcec571d06b1b3aae24"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIIγ-369",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md",
+      "words": 8980,
+      "sha256": "80ce3ecb55c165a8de1cf27c8b271cabe137328998cceaf4a5967cc56292d454"
+    },
+    {
+      "unit": 3,
+      "designation": "O-IVδ-151",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-151_Border_Tree_스며든_나무.md",
+      "words": 9124,
+      "sha256": "41863b6385f729432a8549a82a375f137eba62fc0a49843be2c382014297b924"
+    },
+    {
+      "unit": 4,
+      "designation": "N-IVδ-315",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md",
+      "words": 9181,
+      "sha256": "1110709c5f6d7c09e3cd4567fe8d6b4eb918406cc006d8d9f229c19cb1298433"
+    },
+    {
+      "unit": 5,
+      "designation": "C-Vγ-320",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md",
+      "words": 9223,
+      "sha256": "9631219c4bde9bdc42b71b7d8e49b2fed665fd62d15922739d8de77bcea5c5b6"
+    }
+  ],
+  "pending_fingerprints": [
+    {
+      "designation": "C-IVβ-043",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md",
+      "words": 8947,
+      "sha256": "411bfdbdb5bb80986cbe24ff9e3172fa1969ae040e0d1dcec571d06b1b3aae24"
+    },
+    {
+      "designation": "O-IIIγ-369",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md",
+      "words": 8980,
+      "sha256": "80ce3ecb55c165a8de1cf27c8b271cabe137328998cceaf4a5967cc56292d454"
+    },
+    {
+      "designation": "O-IVδ-151",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-151_Border_Tree_스며든_나무.md",
+      "words": 9124,
+      "sha256": "41863b6385f729432a8549a82a375f137eba62fc0a49843be2c382014297b924"
+    },
+    {
+      "designation": "N-IVδ-315",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md",
+      "words": 9181,
+      "sha256": "1110709c5f6d7c09e3cd4567fe8d6b4eb918406cc006d8d9f229c19cb1298433"
+    },
+    {
+      "designation": "C-Vγ-320",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md",
+      "words": 9223,
+      "sha256": "9631219c4bde9bdc42b71b7d8e49b2fed665fd62d15922739d8de77bcea5c5b6"
+    },
+    {
+      "designation": "C-IIβ-170",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-170_Unrung_침묵의_종.md",
+      "words": 9250,
+      "sha256": "ef41f2ddfec44085394d47e4edb07bc676b34f88928e563a1e1f815880ba962e"
+    },
+    {
+      "designation": "N-IIIβ-156",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-156_Deadline_빚의_시계.md",
+      "words": 9409,
+      "sha256": "32ef2dfb081bc2b36721bdb0580f6c3c83ee9c2568a2d3bf66d312314d49498f"
+    },
+    {
+      "designation": "C-IVβ-042",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md",
+      "words": 9561,
+      "sha256": "74f30b9c27b29e60be791ff1402b110899a6971aaaee7f8531cf7f96c5db9ab2"
+    },
+    {
+      "designation": "C-Vδ-002",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md",
+      "words": 9822,
+      "sha256": "faf8c35e8d7560d481fdbd5fca824c00a596652ce666793e77f69c48d44a8d73"
+    },
+    {
+      "designation": "C-IVγ-176",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md",
+      "words": 9942,
+      "sha256": "ac38f3e0bbcede96fe902fd29c182748189ac1966e2afa421681348ce0c339ab"
+    }
+  ]
+}

@@ -19,10 +19,10 @@ The Soul formed from the grief of a friend who was abandoned. The confusion of b
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIβ-833 [LS] |
-| Type / Manifestation | Subject — Can breach / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Lament |
 | Coherence / Potency | Echo (II) — Repeats waiting for acknowledgment / Moderate (β) — Manageable |
 | Element / Location | Lament / Zone B, Old Lament — contained/ambient |
-| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |
+| Gauge / Pressure | 000/415; starts 000% · Lament — no attack pattern: the figure has never moved, and the corrosion comes off the arm and settles (Contact Record, R-36) |
 | Observation | 3 — Advanced |
 | Formation event | A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized. |
 
@@ -40,7 +40,7 @@ The Soul formed from the grief of a friend who was abandoned. The confusion of b
 
 ## WITNESS RECORD — *The Neverlast Source-Trace*
 
-During the The Neverlast Source-Trace, the field team preserved this source fact: A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The confusion of being left without explanation and the longing for acknowledgment.
+During *The Neverlast Source-Trace*, the field team preserved this source fact: A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The confusion of being left without explanation and the longing for acknowledgment.
 
 ## M.A.W. SET — *Neverlast — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Neverlast Source-Trace, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Neverlast's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: Remain with it and acknowledge the abandonment; do not promise a return The set cannot heal the originating event. Misuse routes Neverlast's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-833-A`  
-**Linked Entity:** `SE-833`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

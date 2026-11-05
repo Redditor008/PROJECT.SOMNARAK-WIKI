@@ -64,14 +64,3 @@ The Shard retains one dark notch from the incident. It glows whenever its target
 Scream Charm keeps reception from becoming immediate temper, Scream Plate protects the listening body, and the Shard opens one blocked route. Full resonance fails if the operator confuses delivery with punishment.
 
 > *“The weapon does not make anger correct. It makes ignoring the anger impossible.”* — Specialist Durivel Cho
-
----
-
-**Document ID:** `SE-560-B`  
-**Linked Entity:** `SE-560`  
-**Item Registry Code:** `MAW-W-560-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-240 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on manual rotation of the escapement wheel, which is performed only under the tool protocol, or an abrupt change in the pre |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) — Self-aware, time-obsessed |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — A broken tower crowned by a clock frozen forever at 3:47, its gears turning and turning without ever moving the hands. Cold stone and corroded metal, lead-heavy, smelling of wet stone; time moves inside it but never on its face. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone C, near Collector's Row |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -28,10 +28,11 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 3–6 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is 3:47 — the worker leaves at the minute of the accident. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -45,61 +46,69 @@
 - There is no breach counter. Burden pressure spreads from the tower base through Zone C and the radius is walked at every session, by two walkers, both carrying sealed timepieces.
 - Residue is recovered from the mechanism housing under separate authorization and never from the bell chamber, which is inspected through a port and has not been entered.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 40% against Weight pressure; 30% against other pressure types. The second figure is defensive only: nothing on this file arrives as anything but Weight, and the field does not care what the watch was carrying when the pendulum swung. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 772/772 |
-| **Han Pressure [ATK]** | 14–31 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Entity (IV) — Self-aware, time-obsessed |
-| **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone C, near Collector's Row |
-| **Resolution Condition** | Say aloud, inside the field, what has been concluded about the accident and by whom. Nothing has been concluded, which is why the watch ends on the clock instead. |
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across **six doses** of 30 s, stood at for an offering — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
 
-### Combat Actions
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+stood at for an offering on a 30-second clock, so the six come to **180 seconds**. A worn piece
+gets a minute and a walked ground gets three; the count is the same for both.
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Stuck Hand* [**Debuff**] } | "The clocktower's hand freezes — and so does everything beneath its shadow." | [The Clocktower stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve; the suspended instant is heavy.* **[10 Weight DMG [Weight]]** | When the target enters the shadow. |
-| { *The Wrong Chime* [**Debuff**] } | "The tower chimes thirteen — and the wrong number makes time itself dizzy." | [The Clocktower deranges the target's sense of duration.] | *Target loses 10 Resolve; seconds stretch and compress.* **[10 Weight DMG [Weight]]** | When the target hears the chime. |
-| { *The Falling Gear* [**Attack**] } | "A gear the size of a cart-wheel breaks free and rolls down." | [A massive clockwork component crashes down.] | *Inflicts Weight pressure and one heavy, grinding wound.* **[14-22 Weight DMG [Weight]]** | When the Clocktower is struck. |
-| { *The Midnight Cascade* [**Attack**] } | "Every bell in the tower rings at once — a stroke the mechanism has been holding back since 3:47, arriving all of it at the same moment." | [The tower releases the withheld stroke in the only form it can take.] | *A heavy Weight surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Weight DMG [Weight]]** | When the tower is overloaded inside the field. |
-| { *Time Stops for Everyone* [**Ultimate**] } | "The pendulum stops mid-swing — and the whole field holds its breath with it, waiting on a conclusion that is not coming." | [The dilation field closes on everything inside it at once.] | *All personnel take Weight pressure for three turns of a moment that will not conclude.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+The gauge is read at the instrument. The cost is read on the person.
 
-### Battle Phases
+## Contact Record
 
-1. **Tension:** Identification first, and here identification is procedural: the field is found by the drift on a carried timepiece and by a bell chamber that is inspected through a port and never opened. Nobody identifies this holding by feel, because everybody inside it misjudges the time — consistently, and in both directions. Then the watch is set against the facility clock, the positions are taken, and the instruction is given once.
-2. **Clash:** Viderehan and Ferrehan only, watch timed to the facility clock, sealed timepiece carried and surrendered on exit. One instruction, given once. The second instruction — issued because the first appeared to have been ignored — is the cause of every incident on this file.
-3. **Resolution:** The watch ends when the external timekeeper calls it against the facility clock, one instruction has been given once, and the timepiece has been surrendered at the port and reconciled by the bench. Nothing above the stair is concluded by the watch and nothing is meant to be: accept that the moment cannot be changed, limit the exposure, and enter the drift beside the observer's name.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device (internal parts may move)*, and no component has ever left the tower: the bell is intact, the clapper is free, and the stroke does not happen. What the tower does is stretch the moment, so that an instruction given at the foot of the stair is still arriving when somebody gives it again.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A broken clocktower at the edge of Collector's Row with its hands at 3:47 and its gear train running underneath a silence where the stroke should be. The bell chamber is inspected through a port and never opened; the pendulum moves and the hands do not. |
+| **Perceptible to** | The drift on a carried timepiece first, which is how the field is found at all, then the lateness of a voice reaching the person standing next to it. Nobody identifies this holding by feel, because everybody inside it misjudges the time — consistently, and in both directions. |
+| **Handling** | The watch is set against the facility clock, positions are taken, and one instruction is given once. A sealed timepiece is carried by the watch and surrendered on exit, and no second instruction is issued without the first being confirmed as arrived. — see `## Handling Process` |
+| **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
+| **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone C, near Collector's Row |
+| **Resolution Condition** | Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded. |
+
+
+### Contact Events
+
+| Event | What the tower does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Stuck Hand* [**Register**] } | Holds a dilation field of about six metres in which a voice reaches the next person late. Anything issued inside it arrives roughly two turns behind, symmetrically. | Finds the field by the drift on a carried timepiece, sets the watch to the facility clock, and takes positions before anybody is given anything. | No component falls and no grinding wound is dealt. The field keeps its own symmetry, so the delay is the same in both directions — which is why a stopwatch is carried and a sense of duration is not evidence. |
+| { *The Withheld Stroke* [**Exposure**] } | Withholds the stroke with the bell intact and the clapper free, so that a worker waits for a conclusion that is never going to arrive while the gear train runs on underneath. | Times the whole watch against the facility clock, and gives the crew a conclusion at the called end rather than letting the room supply one. | Elapsed time can no longer be judged in either direction, and the sealed timepiece is surrendered on exit because a watch that came in with the crew is no longer telling them anything. |
+| { *The Late Instruction* [**Refusal**] } | Does not let an instruction arrive on time, and does not stop one being given twice: the first lands after its context has changed and the second turns delay into incident. | Gives one instruction, once, and confirms it has arrived before anything else is said. The second instruction is the recorded injury on this file and the watch does not issue it. | Personnel past the called watch do not fail dramatically. They keep working, because what the tower takes is the ability to tell how long they have been there — and then somebody repeats an order that has not yet landed. |
+| { *Still 3:47* [**Overload**] } | Holds the six-metre dilation across everybody in it while the external watch has not yet been called, and the hands do not advance. | Calls the end from the facility clock whether or not the moment has concluded, and enters the crew's own estimates of the interval as unusable evidence. | The tower does not cut its own watch and never has. The external timekeeper is the only clock in the file that has ever ended anything, which is why the post exists and is never held by somebody inside the field. |
+
+### Watch Sequence
+
+1. **What is confirmed:** the external facility clock set before entry, the drift on a carried timepiece, positions taken inside the field, and the sealed timepiece in the watch's own hands.
+2. **What the watch does:** Viderehan read against the timepiece and Ferrehan for standing in the moment without forcing it, one instruction given once, and no conclusion supplied by anybody who is inside the field.
+3. **How it closes:** **Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded** — and a watch that ended on a clock carried into the field is entered as not having ended at all.
 
 ### Consequences
 
-- Personnel who stay in the field past the called watch do not fail dramatically; they keep working, because the thing this holding takes is the ability to tell how long they have been there. The recorded injury on this file is the second instruction, not the weight, and the distinction is the whole of the caution.
-- Stay past the called watch and the tower brings its whole documented manifestation with it: the emotions erode first, somatic trauma follows, then the identity goes, and last the environment is corrupted beyond repair. That order is the file’s own, and the fourth of them is why the watch length is called out loud instead of left to judgement.
+- Personnel who stay in the field past the called watch do not fail dramatically. They keep working, because the thing this holding takes is the ability to tell how long they have been there. The recorded injury on this file is the second instruction, not the weight, and the distinction is the whole of the caution.
+- Stay past the called watch and the documented failure is narrower and worse for being ordinary: anticipation is held past its natural span, elapsed time can no longer be judged in either direction, and somebody repeats an instruction that has not yet arrived. Identity loss and environmental corruption are not this file's casualty sequence; the second instruction is.
 - Every activation of an M.A.W. piece charges the bearer in full: intimate memories, physical sensation, years of life. The equipment specification lists all three, and the field collects them at the moment of use from whoever is holding the piece.
-- Left unresolved, the tower falls back on the activation or expansion behavior its dossier documents. Containment refused, grief with no channel to run in cuts an outlet for itself, and the cutting is catastrophic rather than contained.
+- Left unresolved, the tower does not cut itself a catastrophic outlet. The field persists, the drift is entered, the bell remains unstruck, and the inquiry stays open. Containment is the repeated procedural act of ending exposure from outside.
+- The district keeps the broken hour in its own records — 3:47 is entered against the incident and never corrected, and every later entry is timed against it.
 
 ## Appearance
-**Physical Form:** A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands.
+**Physical Form:** A clocktower of wet grey stone, narrow and square, its face still legible under four centuries of weather: the hands stand at 3:47 and have not moved. The corrosion is the clock's own — green and orange both, running down the ironwork from the hands to the sill. Behind the face the gear train turns, and the sound of it comes down the stairwell and out into the street, one tooth at a time, continuous; the hands do not answer it. The bell chamber above is sealed, and the seal carries an inspection port no wider than a hand.
 
 **Notable Features:** Carried timepieces drift against the facility standard in a direction and magnitude nobody predicts. The bell is intact, the clapper is free, and the stroke does not happen.
 
@@ -107,7 +116,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
-- **Primary marker:** A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands.
 - **Position / movement:** Fixed. The gears turn and the hands do not; the only motion to record is the drift between the carried timepiece and the facility standard.
 - **Element signature:** Weight
 - **Registered location:** Zone C, near Collector's Row
@@ -116,7 +124,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands. |
 | **Position / movement** | Stationary — a device (internal parts may move). Recorded at every Broken Clocktower cycle against the previous reading. |
 | **Material / signature** | Weight. Cold stone, corroded metal, lead-heavy, wet stone; the gear train is audible from the stair and runs continuously. |
 | **Distinctive markers** | Hands at 3:47, gears turning behind them, a sealed bell chamber with an inspection port, and a numbered row of retired timepieces on the bench downstairs. |
@@ -131,48 +138,39 @@
 - **The People:** The witnesses named on the municipal schedule of the Year 4222 accident, read aloud at every annual review before any technical business. They are the inquiry's witnesses and cannot be examined, which is why the inquiry is still open.
 - **Expanded origin context:** The accident of Year 4222 has never been the subject of a finding. Its inquiry was opened in the ordinary way, has sat for sixteen years, and cannot conclude while its principal witnesses are inside the instant it is inquiring into. The file holds the inquiry's own interim minutes, which record this difficulty at every sitting in nearly identical words, and the schedule of families who have attended each sitting, which is shorter every year.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A broken clocktower at the edge of Collector's Row with its hands at 3:47 and its gear train running underneath a silence where the stroke should be. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Holds the field steady long enough to walk and measure the radius. | Stable |
-| **Ferrehan** | The timed watch inside the distortion, ended by the facility clock and not by the worker. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the external facility clock set before entry, the drift on a carried timepiece, positions taken inside the field, and the sealed timepiece in the watch's own hands. |
+| **Handling** | The watch finds the field by the drift on a carried timepiece, sets the watch to the facility clock, and takes positions before anybody is given anything. |
+| **Withdrawal** | **Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded** — and a watch that ended on a clock carried into the field is entered as not having ended at all. |
+| **Refusal** | Gives one instruction, once, and confirms it has arrived before anything else is said. The second instruction is the recorded injury on this file and the watch does not issue it. |
 
-
-### Operational Work Notes
-
-The gauge on a site holding is a shift reading. The figure that is kept is the drift: seconds of divergence per watch-hour between a sealed carried timepiece and the facility standard, reconciled by hand at the horology bench. Means of 14, 23 and 31 seconds across three years. It is the longest continuous record of the phenomenon in the Directorate and was carried uninterpreted for sixteen years.
-
-**Reading the response:** A good watch ends when the facility clock says so, with one instruction given once, the timepiece surrendered unopened, and the drift entered whatever it is. A worker who stayed because it did not feel long enough has failed the watch even if nothing happened.
 ## Activation Behavior
+
+> **Special activation — no counter.** Its starting condition, as written: *"manual rotation of the escapement wheel, or an abrupt change in the vault supply"*.
+
+
+
+
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector Alteration — the field, not the fabric**
 > **This Relic bleeds channel resonance when the pendulum is left untended**
-
-**Activation Trigger:** Manual rotation of the escapement wheel, which is performed only under the Tool protocol, or an abrupt change in the pressure at the tower base.
-
-**Effect:** A six-metre dilation field. Anything issued into it arrives late — a blow, a shout, an order — by about two turns, and the lateness is symmetrical.
-
-**Duration:** Continuous while the pendulum swings, which is continuous. The field is ended by closing the channel, not by waiting.
-
-**Risk:** Your own people are slowed identically, and crossing the perimeter costs a half-minute of severe disorientation. Both effects have been used against this facility by nobody; every casualty has come from a second instruction.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
-| **Activation** | Escapement rotation under Tool protocol, or an abrupt pressure change at the base. |
-| **Primary Effect** | Six-metre field in which everything issued arrives about two turns late, symmetrically. |
-| **Duration** | Continuous. The pendulum does not stop; the channel is closed deliberately. |
-| **Termination / Return** | The channel is closed deliberately by the operator, on the call of somebody standing outside the field; releasing the conduit without closing it vents uncontained Weight resonance across the sector, which is why the closing order is never given from inside. |
-| **Risk** | Symmetrical slowing of your own people; half a minute of disorientation on crossing out. |
+| **Activation** | Manual rotation of the escapement wheel under the Tool protocol, or an abrupt change in the pressure at the tower base. |
+| **Primary Effect** | A six-metre dilation field in which everything issued arrives about two turns late — a blow, a shout, an order — and the lateness is symmetrical. |
+| **Duration** | Continuous while the pendulum swings, which is continuous. The field ends by closing the channel, not by waiting. |
+| **Termination / Return** | The channel is closed deliberately by the operator, on the call of somebody standing outside the field. Releasing the conduit without closing it vents uncontained Weight resonance across the sector, which is why the closing order is never given from inside. |
+| **Risk** | Your own people are slowed identically, and crossing the perimeter costs half a minute of severe disorientation. No enemy has ever used either effect; every casualty on file came from a second instruction. |
 
 **Operational Rule:** The channel requires an operator who is being timed by somebody outside the field. An untended channel destabilises, and an operator inside it is the last person able to judge how long it has been open.
 
@@ -181,13 +179,13 @@ The gauge on a site holding is a shift reading. The figure that is kept is the d
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The gears wake first. The hands stay where they have always been and the mechanism behind them starts, and Weight sorrow fills the chamber arriving half a second behind whatever should have caused it. | Opening the channel raises the six-meter dilation field around the tower: hostile action slots lock and anything aimed at the team lands 2 turns late. Units held in the same chamber read steady Sorrow Gauges, since the field delays the reading as readily as the blow. |
-| 30 Seconds | Thirty seconds on, the channel is carrying the memory the tower is stuck inside: the weight of waiting through an event that never concluded. The accident at 3:47 forged it, leaving the tower and everyone who saw it held in one unresolved instant, and the worker hears that instant still running rather than recalling it. | Range Band 2 sits inside the field's reach, and elemental pressure lands lighter on every allied unit in the sector while the channeler is still attending to the tower. Nothing here runs itself; the field stops the moment the attending stops. |
+| 30 Seconds | Thirty seconds on, the channel is carrying the memory the tower is stuck inside: the weight of waiting through an event that never concluded. The accident at 3:47 forged it, leaving the tower and everyone who saw it held in one unresolved instant, and the worker hears that instant still running rather than recalling it. | Range Band 2 sits inside the field's reach, and elemental pressure lands lighter on every allied unit in the sector while the channeler is still attending to the tower. The field does not end because attention wanders; it remains until the channel is deliberately closed on an outside call. |
 | 1 Minute | One minute on, the tower has stopped spending the facility's supply and has started spending the channeler. An event never allowed to finish is heavy in a way machinery is not, and it stands on the chest of whoever is holding the channel open. | Past 60 seconds the draw runs at 4 Composure in each 10. The disengagement is settled before the field goes up, because inside it nobody can tell how long they have been settling it. |
 | 2 Minutes | At two minutes the current turns round. The grief held in the tower since 3:47 comes back down the channel into the facility looking for somebody to finish inside, and the nearest living person is the one keeping it open. | Overload, or a hand let go mid-second, vents Weight into the sector, and heavy damage lands on everyone standing inside it. The field keeps both of its own warnings on the way out: allies inside are slowed along with everything else, and crossing the perimeter brings severe temporal nausea. |
 
 ### Escalation Notes
 
-The escalation pattern on this file is procedural rather than physical. Personnel record the trigger — escapement rotation under Tool protocol, or an abrupt pressure change at the tower base — the field radius, who was inside it when the external timekeeper called the withdrawal, and the carried drift on exit. Because the pressure is Weight and the holding sits in Zone C, near Collector's Row, the physiological indicators are logged beside the physical ones rather than behind them; and because everybody inside the field misjudges the interval, no escalation entry may rest on a worker's own sense of how long it lasted.
+The escalation pattern on this file is procedural rather than physical. Personnel record the trigger — escapement rotation under Tool protocol, or an abrupt pressure change at the tower base — the field radius, who was inside it when the external timekeeper called the withdrawal, and the carried drift on exit. Because the pressure is Weight and the holding sits in Zone C, near Collector's Row, the physiological indicators are logged beside the physical ones rather than behind them. And because everybody inside the field misjudges the interval, no escalation entry may rest on a worker's own sense of how long it lasted.
 
 **Response sequence:** Confirm the watch length against the facility clock, withdraw on the clock rather than on judgement, surrender the timepiece at the port, and let the bench reconcile it. Do not re-issue an instruction that appears to have gone unheard.
 
@@ -211,7 +209,7 @@ The escalation pattern on this file is procedural rather than physical. Personne
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-Appearance : The piece issues as a broad arming sword in silvered steel, double-edged, ninety-five centimeters from its rounded disc pommel to the point, with a cruciform crossguard and a grip bound in soft black leather wire. It sits heavier in the hand than ninety-five centimeters of steel should, and swung inside the tower's field it lands a beat behind the arm that moved it.
+**Appearance:** The piece issues as a broad arming sword in silvered steel, double-edged, ninety-five centimeters from its rounded disc pommel to the point, with a cruciform crossguard and a grip bound in soft black leather wire. It sits heavier in the hand than ninety-five centimeters of steel should, and swung inside the tower's field it lands a beat behind the arm that moved it.
 
 A central fuller runs two-thirds of the blade and carries four ceremonial mercy seals cut in Old Script. Nothing this edge strikes rings: the steel damps acoustic resonance on impact, so every blow lands as a dull cushioned concussion. That is the holding's own register, and the piece keeps it whether or not it is swung inside the field.
 
@@ -223,7 +221,7 @@ A central fuller runs two-thirds of the blade and carries four ceremonial mercy 
 
 **Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt — in the holding's own dulled register: no ringing, no rebound, and the weight arrives after the blow does, because inside the field everything issued arrives late.
 
-**Cost:** The wielder grows progressively heavier with each strike, and prolonged use ages them slightly; both figures are entered against the piece at the end of the rotation rather than carried by the bearer's own estimate.
+**Bearer cost:** The wielder grows progressively heavier with each strike, and prolonged use ages them slightly. Both figures are entered against the piece at the end of the rotation rather than carried by the bearer's own estimate.
 
 ### M.A.W. Suit — The Frozen Mantle
 
@@ -241,7 +239,7 @@ A central fuller runs two-thirds of the blade and carries four ceremonial mercy 
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Broken Clocktower's kind of pressure.
 
-**Cost:** the fatigue does not lift for the length of the rotation, and the mantle is taken off the wearer at the port by somebody else, because the wearer's own reading of how heavy it has grown is the one this file does not trust.
+**Bearer cost:** the fatigue does not lift for the length of the rotation. And the mantle is taken off the wearer at the port by somebody else, because the wearer's own reading of how heavy it has grown is the one this file does not trust.
 
 ### M.A.W. Stigma — The Frozen Minute
 
@@ -255,7 +253,7 @@ A central fuller runs two-thirds of the blade and carries four ceremonial mercy 
 
 **Ability:** Slows perception for one brief interval.
 
-**Cost:** The user loses an equivalent portion of lifespan.
+**Bearer cost:** The user loses an equivalent portion of lifespan.
 
 *Nine charms exist. Each was given after a full Ferrehan watch completed on the clock rather than on the wearer's judgement of when it had been long enough.*
 
@@ -268,13 +266,13 @@ The set is the tower in three pieces: a blade that lands late and dull, a mantle
 | Stage | Required record |
 |---|---|
 | **Before use** | Bearer named, piece named, gauge at issue, and the toll the file already knows — growing heaviness and the low fatigue — sealed as a baseline and opened at the rotation's end, not before. |
-| **During use** | The charging sign is heaviness the bearer can feel but cannot set down. The second worker logs it with the hour; the wielder does not log it at all, because this set's whole caution is that a bearer's own sense of weight and time is the reading not to trust. |
+| **During use** | The charging sign is heaviness the bearer can feel but cannot set down. The second worker logs it with the hour. The wielder does not log it at all, because this set's whole caution is that a bearer's own sense of weight and time is the reading not to trust. |
 | **At limit** | The toll does not come and go: the wearer carries it continuously, so the low fatigue is the limit rather than a settling-in, and the stand-down is called by the second worker and not by the wearer. |
-| **After use** | Returned to the fixture; read again a week out, because the low fatigue and the weight that does not entirely lift do not show on the day the piece comes back. |
+| **After use** | Returned to the fixture. Read again a week out, because the low fatigue and the weight that does not entirely lift do not show on the day the piece comes back. |
 
-**Stat interpretation:** The grade records how cleanly the archetype came off the tower, not what it takes from the bearer. A γ piece performing to specification can still return a wearer heavier than they were issued and permanently short of a portion of years; the second number, not the grade, is what the Armoury sets the rotation around.
+**Stat interpretation:** The grade records how cleanly the archetype came off the tower, not what it takes from the bearer. A γ piece performing to specification can still return a wearer heavier than they were issued and permanently short of a portion of years. The second number, not the grade, is what the Armoury sets the rotation around.
 
-**Full-set source review (2026-10-12):** Reviewed the `O-Relic (Offertorium) · γ` overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and the blanket M.A.W.-cost statement elsewhere against Side `SE-1023-A` (`C-IVγ-240 [WP]`, `4/4`), items `SE-1023-B/C/D`, Registry records `SE-1023-A–D`, Master M.A.W. entries 220–222, the Entity Codex row, Tale 74, and archetypes `MAW-W-240/1023`. The grade is corroborated. Side/item Weapon and Suit values match the primary; the Side/item Skewer and 100% → 70% → 50% falloff are not stated locally and were not imported. Hold the primary *Mercy Broadsword* and its arming-sword Appearance against *The Frozen Maul* in the Side, item, and Master table/detail. `MAW-W-240` describes an arming sword / Long, while linked-code `MAW-W-1023` describes an acoustic-resonance bell / Long; neither maps to the local Range 3 (Medium) or establishes the linked item's physical form. The Side has no standalone Appearance heading and none of the three item pages has an Appearance or transition section. Local Stigma Head / 4% / +2 agrees with Side/item D; Registry metadata says generic Accessory / 5%, and Master row 222's Ocular-Lenses class does not settle the slot. The blanket claim that every M.A.W. activation charges memories, sensation, and years remains distinct from the piece-specific heaviness, fatigue, slight ageing, and lifespan costs; no cost was collapsed. Echo of Kindness and Holdout repeat the *Mercy Broadsword* title but have separate linked sets, not a shared-item crosswalk. No disputed form, profile, slot, or chance changed.
+**Full-set source review (Year 4238):** Reviewed the `O-Relic (Offertorium) · γ` overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and the blanket M.A.W.-cost statement elsewhere against Side `SE-1023-A` (`C-IVγ-240 [WP]`, `4/4`), items `SE-1023-B/C/D`, Registry records `SE-1023-A–D`, Master M.A.W. entries 220–222, the Entity Codex row, Tale 74, and archetypes `MAW-W-240/1023`. The grade is corroborated. Side/item Weapon and Suit values match the primary. The Side/item Skewer and 100% → 70% → 50% falloff are not stated locally and were not imported. Hold the primary *Mercy Broadsword* and its arming-sword Appearance against *The Frozen Maul* in the Side, item, and Master table/detail. `MAW-W-240` describes an arming sword / Long, while linked-code `MAW-W-1023` describes an acoustic-resonance bell / Long. Neither maps to the local Range 3 (Medium) or establishes the linked item's physical form. The Side has no standalone Appearance heading and none of the three item pages has an Appearance or transition section. Local Stigma Head / 4% / +2 agrees with Side/item D. Registry metadata says generic Accessory / 5%, and Master row 222's Ocular-Lenses class does not settle the slot. The blanket claim that every M.A.W. activation charges memories, sensation, and years remains distinct from the piece-specific heaviness, fatigue, slight ageing, and lifespan costs; no cost was collapsed. Echo of Kindness and Holdout repeat the *Mercy Broadsword* title but have separate linked sets, not a shared-item crosswalk. No disputed form, profile, slot, or chance changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -284,7 +282,7 @@ The set is the tower in three pieces: a blade that lands late and dull, a mantle
 - Every clock brought inside eventually reads 3:47, which is why the carried pieces are sealed, numbered, and retired rather than repaired.
 - Observers misjudge watch length consistently and in both directions, which is why the watch is ended from outside.
 
-**Personnel Note:** *"Thirty-one seconds an hour this year. I read the witness list at the review like everyone else and then I went and looked up the inquiry, which is a thing you can do, and it is open, and it has been open since the year of the accident, and there is a column for findings and the column is empty. Nobody has done anything wrong. There is no time limit on an inquiry into a death and there is not supposed to be."* — Observer, Zone C
+**Personnel Note:** *"Thirty-one seconds an hour this year. I read the witness list at the review like everyone else and then I went and looked up the inquiry, which is a thing you can do. And it is open, and it has been open since the year of the accident. And there is a column for findings and the column is empty. Nobody has done anything wrong. There is no time limit on an inquiry into a death and there is not supposed to be."* — Observer, Zone C
 
 
 
@@ -314,7 +312,7 @@ The office confirms that the Year 4222 inquiry remains open in its sixteenth yea
 Filed by the holding rather than a counselor. Recommendation, fourth year running: workers posted here should be told at briefing that the inquiry is open, because they find out anyway, and the ones who find out alone take it worse.
 
 **Entry 4 — <Containment Notice>**
-Management: timed watch ended from outside, one instruction given once, bell chamber inspected and not opened, timepiece surrendered sealed. Work response — Viderehan: holds the field steady to be walked and measured (Stable); Ferrehan: the timed watch inside the distortion (Decrease). Flerehan and Pugnahan do not apply to a place.
+Management: timed watch ended from outside, one instruction given once, bell chamber inspected and not opened, timepiece surrendered sealed. Work response — Viderehan: holds the field steady to be walked and measured, and the field widens by the ground it is walked across (Increase). Ferrehan: the timed watch inside the distortion (Decrease). Flerehan and Pugnahan do not apply to a place.
 
 **Entry 5 — <Archive Note>**
 The hands have read 3:47 since the tower was found, and the gears behind them have never stopped turning. Inside the dilation field a strike lands two turns after it is thrown, and an order given at the foot of the stair is still arriving when it is countermanded. Personnel are briefed to give an instruction once and then wait. The second instruction — issued because the first appeared to have been ignored — is the cause of every incident recorded here.
@@ -336,15 +334,15 @@ The hands do not move and the gears do. You check the sealed piece at your belt 
 
 **At first contact:** The gear train is the first thing — loud, regular, entirely healthy — and then the hands, which are at 3:47 and were at 3:47 when the tower was found. Inside six metres your own voice reaches the other person late. The piece at your belt is already running out and you are not permitted to look at it.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Weight presses hardest, where it recedes, where the Place-Weight lets you breathe.
+**With continued exposure:** Minutes pass at a rate nobody inside can state. The gear train stays loud and regular, the sealed piece at the belt drifts against the facility standard, and an instruction given once may still be arriving when the wish to repeat it becomes almost reasonable.
 
-**When the entity activates:** The shift happens between one breath and the next. The Place-Weight crosses from presence to action, and the Weight goes from weather to weapon.
+**When the entity activates:** Escapement rotation under protocol, or an abrupt pressure change at the base, opens the six-metre dilation. Nothing crosses from weather to weapon; voices, blows and orders simply arrive late, including your own.
 
 **After departure:** The Weight lifts at the perimeter and the interval does not: workers report an hour that felt like four, and four that felt like one, in both directions, and the bench enters the discrepancy beside the drift figure rather than explaining it away.
 
 ### Interaction Pattern
 
-Broken Clocktower is filed beside three other time-holdings and shares nothing with them but the furniture of clocks. When one is brought near, the trial records what changes in the carried drift, the field radius, the bell seal's inspection entry, and the external timekeeper's log; nothing about the pairing is entered as intention on either side, and a trial whose pieces were opened before the bench saw them is void.
+Broken Clocktower is filed beside three other time-holdings and shares nothing with them but the furniture of clocks. When one is brought near, the trial records what changes in the carried drift, the field radius, the bell seal's inspection entry. And the external timekeeper's log. Nothing about the pairing is entered as intention on either side. And a trial whose pieces were opened before the bench saw them is void.
 
 **Interaction method:** Baseline alone, then proximity with carried pieces on both holdings and an external timekeeper for each. Trials are reconciled at the bench before anything is concluded, which means a result takes a fortnight and the wing runs at most two a year.
 
@@ -355,9 +353,9 @@ Broken Clocktower must be assessed against the other time files and kept distinc
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
-| **The Broken Clock** | A reading that is wrong against an event that has not been declared over. The resemblance is in the furniture, not the mechanism. | Three proximities. No transfer, no bond, no change in carried drift beyond the established rate; the Clock's reading did not move toward 3:47. | Carried drift on both holdings, external timekeeper logs, bench reconciliation. |
-| **The Cracked Hourglass** | A term running out beside a term that will not start. Opposed cases, frequently confused by visiting reviewers. | Two proximities. The Hourglass ran at its own rate throughout and this holding's drift was 29 and 32 seconds per watch-hour, within rate. Recorded as a nil result. | Carried drift, the Hourglass's own run figures, bench reconciliation. |
-| **The Final Door** | An ending that arrives, against an ending that is not permitted to be declared. The wing regards this as the most instructive pairing on the file and the least safe. | One proximity, at maximum separation, authorised by two commanders. Drift rose to 48 seconds per watch-hour and returned to rate within four watches. Not repeated. | Carried drift at one-minute intervals, two external timekeepers, bench reconciliation twice. |
+| [**The Broken Clock**](SE-C-IIIγ-044_Broken_Clock_부서진_시계.md) | A reading that is wrong against an event that has not been declared over. The resemblance is in the furniture, not the mechanism. | Three proximities. No transfer, no bond, no change in carried drift beyond the established rate; the Clock's reading did not move toward 3:47. | Carried drift on both holdings, external timekeeper logs, bench reconciliation. |
+| [**The Cracked Hourglass**](SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md) | A term running out beside a term that will not start. Opposed cases, frequently confused by visiting reviewers. | Two proximities. The Hourglass ran at its own rate throughout and this holding's drift was 29 and 32 seconds per watch-hour, within rate. Recorded as a nil result. | Carried drift, the Hourglass's own run figures, bench reconciliation. |
+| [**The Final Door**](SE-C-Vδ-111_The_Final_Door_마지막_문.md) | An ending that arrives, against an ending that is not permitted to be declared. The wing regards this as the most instructive pairing on the file and the least safe. | One proximity, at maximum separation, authorised by two commanders. Drift rose to 48 seconds per watch-hour and returned to rate within four watches. Not repeated. | Carried drift at one-minute intervals, two external timekeepers, bench reconciliation twice. |
 
 **Interaction procedure:** Four clean watches of drift before a trial and four after, reconciled by hand. A trial whose pieces were opened before the bench saw them is void, and two have been voided on that ground.
 
@@ -401,24 +399,24 @@ Some sorrows are about loss. This one is about a protection against being told t
 **Observation Notes:**
 - An accident at 3:47 in Year 4222. The inquiry into it has never reported and is not required to.
 - Carried drift means: 14, 23 and 31 seconds per watch-hour over three years, reconciled by hand.
-**Cross-References:** Zone C, Collector's Row · Old Lament (families) · The Broken Clock · The Cracked Hourglass · The Final Door
+**Cross-References:** Zone C, Collector's Row · Old Lament (families) · [The Broken Clock](SE-C-IIIγ-044_Broken_Clock_부서진_시계.md) · [The Cracked Hourglass](SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md) · [The Final Door](SE-C-Vδ-111_The_Final_Door_마지막_문.md)
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** Citizens caught in a time loop, Year 4222.
+**Originator:** The witnesses to the Year 4222 accident, still inside the unresolved instant and not yet examined; no individual originator is named.
 
 ### Registry Addendum
 
-**Operational interpretation:** Three figures govern this record and only one of them moves. The clock does not: 3:47 since the tower was found, gears turning behind hands that have never advanced. The watch length does not, because it is called from outside on the facility clock and the worker's own sense of it is recorded and never acted on. The drift does: 14, 23 then 31 seconds per watch-hour across three annual means, reconciled by hand at the bench, and the amendment this file has carried in nine years is that it tracks the aggregate age of the Directorate's open death inquiries rather than anything about the tower. Read the drift against the register, not against the shift; and read the incident column when the question is what actually goes wrong here, because every entry in it begins with an instruction given a second time.
+**Operational interpretation:** Three figures govern this record and only one of them moves. The clock does not: 3:47 since the tower was found, gears turning behind hands that have never advanced. The watch length does not, because it is called from outside on the facility clock and the worker's own sense of it is recorded and never acted on. The drift does: 14, 23 then 31 seconds per watch-hour across three annual means, reconciled by hand at the bench. And the amendment this file has carried in nine years is that it tracks the aggregate age of the Directorate's open death inquiries rather than anything about the tower. Read the drift against the register, not against the shift. And read the incident column when the question is what actually goes wrong here, because every entry in it begins with an instruction given a second time.
 
 **Review requirement:** At every watch: the field radius walked, the bell seal inspected through the port and not opened, the timepiece surrendered unopened at the port, the drift reconciled by hand against the facility standard, and the watch length entered from the external timekeeper's clock. Any instruction given more than once is reviewed as an incident whether or not anything followed it, and any proposal touching the bell is entered in the declining memoranda and not acted on. The review records the figures and closes nothing: the inquiry above this holding is sixteen years old and is not required to conclude.
 ## Apex Record
 
 ### 3:47
 
-The clock is frozen at 3:47 and the hands have never moved, though the gears turn continuously behind them. The hour is the holding's identity and its sole reliable datum: an accident at that minute left the tower and its witnesses inside an instant that did not conclude. Observation work on the file is organized entirely around that minute. Viderehan watches are timed to the facility clock and recorded against it, and the records show what the holding's observers have always reported — that time near the structure does not pass at the rate the corridor outside says it does, in a direction and magnitude that vary and have never been predicted. The wing's response is procedural rather than theoretical. Every observer carries a sealed facility-synchronized timepiece, surrenders it on exit, and the drift is logged. The log is now the longest continuous record of the phenomenon anywhere in the Directorate and remains, by the Research wing's own assessment, uninterpreted.
+The clock is frozen at 3:47 and the hands have never moved, though the gears turn continuously behind them. The hour is the holding's identity and its sole reliable datum: an accident at that minute left the tower and its witnesses inside an instant that did not conclude. Observation work on the file is organized entirely around that minute. Viderehan watches are timed to the facility clock and recorded against it. And the records show what the holding's observers have always reported — that time near the structure does not pass at the rate the corridor outside says it does, in a direction and magnitude that vary and have never been predicted. The wing's response is procedural rather than theoretical. Every observer carries a sealed facility-synchronized timepiece, surrenders it on exit, and the drift is logged. The log is now the longest continuous record of the phenomenon anywhere in the Directorate and remains, by the Research wing's own assessment, uninterpreted.
 
 ### The Bell That Does Not Strike
 
-Its bell never strikes. The mechanism is intact, the clapper is free, and the stroke does not happen. Maintenance is forbidden from testing it, and the prohibition is the most strictly enforced instruction on the file — not because a strike is known to be dangerous but because nobody can state what it would mean, and the holding's entire character is an event that has not finished. Crews work the tower's fabric, the stair, and the gear train, and they work around the bell. The isolation is physical: the bell chamber is sealed, the seal is inspected rather than opened, and inspection is performed through a port installed for the purpose. The wing has declined four proposals to attempt a controlled strike under instrumentation. The declining memoranda are kept together in the file and say, in varying words, the same thing: the city has waited inside this minute long enough without being asked to hear it end.
+Its bell never strikes. The mechanism is intact, the clapper is free, and the stroke does not happen. Maintenance is forbidden from testing it. And the prohibition is the most strictly enforced instruction on the file — not because a strike is known to be dangerous but because nobody can state what it would mean. And the holding's entire character is an event that has not finished. Crews work the tower's fabric, the stair, and the gear train, and they work around the bell. The isolation is physical: the bell chamber is sealed, the seal is inspected rather than opened, and inspection is performed through a port installed for the purpose. The wing has declined four proposals to attempt a controlled strike under instrumentation. The declining memoranda are kept together in the file and say, in varying words, the same thing: the city has waited inside this minute long enough without being asked to hear it end.
 
 ### Endurance Inside the Instant
 
@@ -432,7 +430,7 @@ The tower's origin includes its witnesses, and the holding's file treats them as
 
 The drift log was carried for sixteen years with the bench's own note attached: that it correlates with nothing — not duration, not proximity, not the observer, not the hour of the facility clock. That note is now amended, and the amendment is the only substantive change this file has carried in nine years.
 
-Carried drift tracks the aggregate age of the Directorate's open inquiries into deaths: the number of inquiry-years sitting unreported across the whole register, counted at the quarter. Means of 14, 23 and 31 seconds per watch-hour across three years against a register that has grown in exactly that proportion. The bench did not look for the correlation and would not have found it; it was put to them by an inquiry clerk who had been reading the log in the reading room for a reason unconnected with this holding, and who recognised the curve because it was the shape of her own caseload.
+Carried drift tracks the aggregate age of the Directorate's open inquiries into deaths: the number of inquiry-years sitting unreported across the whole register, counted at the quarter. Means of 14, 23 and 31 seconds per watch-hour across three years against a register that has grown in exactly that proportion. The bench did not look for the correlation and would not have found it. It was put to them by an inquiry clerk who had been reading the log in the reading room for a reason unconnected with this holding. And who recognised the curve because it was the shape of her own caseload.
 
 The rule producing that quantity is a good one and this file will not be read against it. Forty years ago a gallery collapse was closed inside a fortnight because the schedule required a cause, and the cause recorded was a dead rigger. It was overturned nine years later on his own hanger's drawings. By then the award was gone, the pension was gone, the tenancy was gone, and his name was in three safety circulars. Since then no officer may require an inquiry to report by a date, and the Directorate's findings have been, by every audit, sound.
 
@@ -442,7 +440,7 @@ What the rule does not address is the interval. There is no certificate without 
 
 The Standing Finding was authorised in Year 4236 and first issued in Year 4237. At five years an inquiry may — not must — record a provisional finding of fact, marked provisional on its face, signed personally by its own chair, which releases the certificate and everything that hangs from it while the inquiry continues and may be reversed at any time.
 
-In its first year 441 provisional findings were issued against 612 eligible inquiries. 388 families took the release. Seven were subsequently reversed. In two of those seven the provisional finding had attributed the death to the dead worker's own error, both attributions were wrong, and in one case the words had already been repeated aloud at the funeral by a man who had waited eleven years to be able to hold one. The Directorate cannot un-tell a thing like that and has not pretended otherwise; the reversal notice in that case runs to a single sentence, which the family asked for.
+In its first year 441 provisional findings were issued against 612 eligible inquiries. 388 families took the release. Seven were subsequently reversed. In two of those seven the provisional finding had attributed the death to the dead worker's own error, both attributions were wrong. And in one case the words had already been repeated aloud at the funeral by a man who had waited eleven years to be able to hold one. The Directorate cannot un-tell a thing like that and has not pretended otherwise. The reversal notice in that case runs to a single sentence, which the family asked for.
 
 One chair has resigned over a signature. Two more have declined to sign anything provisional, which the scheme permits and the register records without comment. The medical office's objection, lodged before the first issue and recorded as correct, is that the word provisional means nothing to a widow and that the scheme therefore transfers the risk of error from the Company to the bereaved. It has not been answered. It is bound into the scheme's first volume ahead of the authorising memorandum, by the order of the commander who authorised it.
 
@@ -450,7 +448,7 @@ The Year 4222 inquiry is not eligible. A provisional finding requires evidence h
 
 ### Drift Reconciliation
 
-Surrendered timepieces are reconciled against the facility standard by the horology bench, and the reconciliation is performed by hand because every automated comparator the wing has installed has eventually produced figures the bench could not reproduce. The bench's method is slow, visibly antique, and has never failed an audit. Its findings are entered in the drift log beside the observer's name, the watch length, and the position held, and the log is closed each cycle with a summary nobody has yet been able to interpret: the drift does not correlate with duration, with proximity, with the observer, or with the hour of the facility clock. It correlates with nothing. The bench's senior technician, asked at a review what the log was for, said that it was for the day somebody works out what to ask it, and the review accepted the answer and renewed the posting.
+Surrendered timepieces are reconciled against the facility standard by the horology bench, and the reconciliation is performed by hand because every automated comparator the wing has installed has eventually produced figures the bench could not reproduce. The bench's method is slow, visibly antique, and has never failed an audit. Its findings are entered in the drift log beside the observer's name, the watch length. And the position held, and the log is closed each cycle with a summary nobody has yet been able to interpret: the drift does not correlate with duration, with proximity, with the observer, or with the hour of the facility clock. It correlates with nothing. The bench's senior technician, asked at a review what the log was for, said that it was for the day somebody works out what to ask it, and the review accepted the answer and renewed the posting.
 
 Timepieces issued for the file are drawn from a dedicated set, numbered, and retired after a fixed service rather than repaired, because a repaired movement introduces a variable the drift log cannot isolate. Retired pieces are kept on the bench in their numbered order, and the row is now long enough to run the width of the room. Technicians passing it occasionally check an old one against the standard. They are not asked to log the result, and several of them do anyway, in the margins, in pencil.
 
@@ -466,8 +464,8 @@ Timepieces issued for the file are drawn from a dedicated set, numbered, and ret
 - **Classification detail:** Broken Clocktower is an Object/Place with Entity (IV) — Self-aware, time-obsessed coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone C, near Collector's Row — Old Lament being where the witnesses' families live rather than where the tower stands.
 - **Recognition detail:** Identify it by the drift on a carried timepiece and by a bell chamber that is inspected through a port and never opened. Emotional impression is unreliable: observers consistently misjudge how long they have been inside.
-- **Record detail:** The Registrum gave the site as Old Lament; the holding is in Zone C, near Collector's Row, and Old Lament is where the witnesses' families live. Corrected, and the distinction kept.
-- **Containment detail:** Containment here is a watch length, not a wall: the field cannot be shut and the bell is not to be rung, so what holds the situation is the external timekeeper, one instruction given once, and the timepiece surrendered sealed at the port. Nothing is repaired by it; the tower is left exactly as broken as it was found.
+- **Record detail:** The Registrum gave the site as Old Lament. The holding is in Zone C, near Collector's Row, and Old Lament is where the witnesses' families live. Corrected, and the distinction kept.
+- **Containment detail:** Containment here is a watch length, not a wall: the field cannot be shut and the bell is not to be rung. So what holds the situation is the external timekeeper, one instruction given once. And the timepiece surrendered sealed at the port. Nothing is repaired by it; the tower is left exactly as broken as it was found.
 ## Document Information
 
 **Document ID:** SE-C-IVγ-240

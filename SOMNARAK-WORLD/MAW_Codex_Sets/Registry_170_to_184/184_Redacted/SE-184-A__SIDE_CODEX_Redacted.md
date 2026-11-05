@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IIIγ-184 [N]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Border absence-custody protocol
 
@@ -61,10 +61,10 @@ Redacted does not reveal a clean missing person. Its bare branches show the outl
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Leaves fall and the missing shape becomes visible. | Down | Allow grief without using it to invent a name. |
-| Pugnahan | Roots tighten and branches burn. | Up | Do not force a gap to disclose what it cannot safely know. |
+| Flerehan | Leaves fall and the missing shape becomes visible. | Decrease | Allow grief without using it to invent a name. |
+| Pugnahan | Roots tighten and branches burn. | Increase | Do not force a gap to disclose what it cannot safely know. |
 | Viderehan | Reveals absent history without inventing it. | Stable | Preserve uncertainty as evidence, not as an error to be corrected. |
-| Ferrehan | Tests whether the worker can bear not knowing. | Down | Use an Archive witness who can stop speculative reconstruction. |
+| Ferrehan | Tests whether the worker can bear not knowing. | Decrease | Use an Archive witness who can stop speculative reconstruction. |
 
 ### Breach response
 
@@ -169,13 +169,3 @@ The set reveals missing history and protects against void erosion. Its cost is c
 **Entity links:** Vestige; The Forgotten Name; The Memory Lock.  
 **Archive rule:** Unknown history is recorded as unknown; no field team may use the source as permission to reconstruct a life from desire alone.  
 **Item links:** `SE-184-B`, `SE-184-C`, and `SE-184-D` contain individual fragment, uncertainty, and corrosion history for Absent History.
-
----
-
-**Document ID:** `SE-184-A`  
-**Linked Entity:** `SE-184`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

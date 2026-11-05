@@ -1,0 +1,201 @@
+{
+  "batch": 183,
+  "status": "CLOSED",
+  "reviewed": 5,
+  "required": 5,
+  "no_change": 0,
+  "repairs": 40,
+  "r18": {
+    "short": 28,
+    "careful": 12
+  },
+  "words_before": 36591,
+  "words_after": 37246,
+  "base": "d070d9f",
+  "opening_commit": "cc44694ab6100f6807aacb764ab26b12fe1af8bc",
+  "preclosing_head": "b0eacf39295691491f63ab8a86e4e7276b50ac65",
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IVδ-260",
+      "name": "Bridge to Nowhere",
+      "status": "held",
+      "repairs": 6,
+      "split": [
+        3,
+        3
+      ],
+      "words": [
+        7308,
+        7427
+      ],
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_01_BRIDGE_TO_NOWHERE.md",
+      "final_sha256": "18b85a489e0e1bea49c4b25ed173c92d6460e5e71a253d0090c95573ea04c29e"
+    },
+    {
+      "unit": 2,
+      "designation": "C-Iα-240",
+      "name": "Echo of Kindness",
+      "status": "held",
+      "repairs": 10,
+      "split": [
+        7,
+        3
+      ],
+      "words": [
+        7313,
+        7373
+      ],
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_02_ECHO_OF_KINDNESS.md",
+      "final_sha256": "a088d3ab55d333c05f45521e758a2725dda66e7ccb5206cc67aa9421dc71be85"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVδ-823",
+      "name": "Stranded Between Two Shores",
+      "status": "held",
+      "repairs": 8,
+      "split": [
+        6,
+        2
+      ],
+      "words": [
+        7315,
+        7423
+      ],
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md",
+      "final_sha256": "219a51dc15199394a16f8f15413e07ff4f737535821a05c18259a71f4f4ac041"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIβ-775",
+      "name": "Cleaved",
+      "status": "held",
+      "repairs": 8,
+      "split": [
+        6,
+        2
+      ],
+      "words": [
+        7327,
+        7499
+      ],
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_04_CLEAVED.md",
+      "final_sha256": "08fe72c328b1a5467858868f7641fe1f1d292f8eff7e08c2da81f9d0bf3ab1ee"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IIβ-310",
+      "name": "Cracked Mirror",
+      "status": "held",
+      "repairs": 8,
+      "split": [
+        6,
+        2
+      ],
+      "words": [
+        7328,
+        7524
+      ],
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_05_CRACKED_MIRROR.md",
+      "final_sha256": "9bfca4a6decce3cde4e3667a6fdc2af8d7d0ee654bb4640c9a0a1e2a8271cd87"
+    }
+  ],
+  "unit_commits": [
+    "5078a1c",
+    "cf5e043",
+    "fba4aac",
+    "3a14531",
+    "b0eacf3"
+  ],
+  "closure_validators": "25/25 PASS",
+  "tests": "54/54 PASS",
+  "preclosing_gate_audits": {
+    "audit_lore_archive": "PASS",
+    "timeline_lint": "PASS",
+    "seam_lint": "PASS",
+    "check_box_symmetry": "PASS"
+  },
+  "audit": {
+    "exact_reconstruction": "5/5 from git-tree before-states",
+    "pending_fingerprints_unchanged": 105,
+    "tales_byte_identical": true,
+    "sources_unchanged": true
+  },
+  "next_candidates_unselected_unauthorized": [
+    {
+      "designation": "O-IVδ-851",
+      "words": 7340
+    },
+    {
+      "designation": "O-Iα-754",
+      "words": 7359
+    },
+    {
+      "designation": "C-Vδ-010",
+      "words": 7366
+    },
+    {
+      "designation": "N-IIIγ-447",
+      "words": 7375
+    },
+    {
+      "designation": "C-IIβ-280",
+      "words": 7384
+    }
+  ],
+  "logical": "Five reviewed whole designs HELD; 40 supported repairs shipped, essential relationships still unresolved. No independent equipment coverage moved: Batches 115, 102, 119, 125/126 and 133 already counted these five exact sets inside the ledger legacy baseline. SE Appearance Fix +0. Technical PASS is not logical completion.",
+  "authorization": "Owner P sequence after CLOSED 182 (Special Activation count answered first at d070d9f), with final P instructing five SE reviews per prompt: closure of 183 and four units of 184 follow in the same prompt. Five required and completed. Cumulative No change 0/5, so no ladder extension; B183 reserves unused and passed into the B184 ranking. No merge, artwork or deployment authorized.",
+  "disclosures": [
+    "Unit 2 digit-sequence change: the file's own 61/44/29 figures restated once in repaired prose; disclosed in its evidence.",
+    "Unit 1 repaired a Place-Lament to Place-Grudge typo inside otherwise protected prose, disclosed as its own repair.",
+    "Unit 2 restored a missing Observation Log heading after wikistd parity False was shown identical on the pre-edit copy.",
+    "No combat or equipment number changed in any unit."
+  ],
+  "counters": {
+    "types": [
+      270,
+      301
+    ],
+    "weapon": [
+      268,
+      287
+    ],
+    "se": [
+      18,
+      301
+    ]
+  },
+  "ledger_counts": {
+    "changed": 14,
+    "retained": 4,
+    "held": 176,
+    "blocked": 2,
+    "pending": 105
+  }
+}

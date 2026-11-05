@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-686 [N]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or direct gaze |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A cracked window of red-black crystal in a tunnel wall, its broken pane reflecting hands rather than faces — reaching hands pressed from the other side. Fever-cold, it smells of char; something on the far side wants through. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed red-black pane in the tunnel wall at chest height; two removal attempts left it in place. The room shown and reflected hands are not moving machinery, and the Tide reflection on other panes is not relocation of this window. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -28,10 +28,12 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per cycle, drawn in a tunnel the network stopped maintaining in Year 4,228. The energy office's note is that this is the only holding whose cycles require a works party to reopen the access first, and that the reopening costs more than the cycle returns. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the counter** — It reflects hands rather than faces. The count stands at 41 hands after 9 years, 4 of them added by workers who were simply tired at the time. |
+| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a gauge lowered while the hand count never falls. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter; activates on touch or direct gaze |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -44,51 +46,58 @@
 - Four workers have their hands in this window. All four are still serving. Two have asked to be shown which hand is theirs and both requests were refused by the Warden personally.
 - Two pieces, cut from the cracked edge rather than the pane, under a standing instruction that no extraction may touch a part of the glass that carries a hand. The ledger records which shards were rejected and why.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Grudge. The cracks have not closed or widened in nine years of calipered measurement; the one strike on record changed the count and not the glass. |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 221/221 |
-| **Han Pressure [ATK]** | 2–8 per hit · Grudge |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, deep tunnels |
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *fixed in the tunnel wall at chest height* — two removal attempts cracked the surround and left the pane where it was — and the record's own note is that the one strike in nine years changed the count and not the glass. Nothing here moves toward anybody.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A cracked pane of red-black crystal set in the tunnel wall at chest height, broken across its surface, reflecting hands rather than faces and letting no light through. Two removal attempts cracked the surround and left the pane in place. |
+| **Perceptible to** | The cold off the glass first and the draft through the tear, carrying old anger. Then the reflected hands, which are the register, because the pane remembers every person who has touched it. |
+| **Handling** | Read from the side of the frame rather than in front of it, with the caliper count kept unbroken. A palm is not put on the glass — all four failures on record were a palm on a flat cool surface at hand height at the end of a shift. — see `## Handling Process` |
+| **Activation threshold** | No breach counter; activates on touch or direct gaze |
+| **Sorrow Gauge [Pressure]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | The length the window showed is walked end to end by two people and logged on the patrol sheet. 118 cycles, 118 walks; the sheet is the holding's containment and the tunnel office maintains it as a live document rather than an archive. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Broken View* [**Debuff**] } | "Through the torn window, you see something that is not there — and it sees you back." | [The Window's tear shows the target an impossible view; their perception warps.] | *Target suffers -10 Resilience; they cannot trust their eyes.* **[10 Grudge DMG [Grudge]]** | When the target looks through the Window. |
-| { *The Draft* [**Debuff**] } | "Cold air, and old anger, blow through the tear." | [The torn gap channels resentment; the target is buffeted by carried rage.] | *Target loses 10 Resilience; the anger in the draft is palpable.* **[10 Grudge DMG [Grudge]]** | When the target lingers near the gap. |
-| { *The Glass Tooth* [**Attack**] } | "A shard of the torn window juts out — and the window bites." | [A jagged fragment of broken window slashes.] | *Inflicts Grudge pressure and one sharp, cutting wound.* **[14-22 Grudge DMG [Grudge]]** | When the Window is touched. |
-| { *The Full Smash* [**Attack**] } | "The pane comes in, and every shard lands palm-up." | [The glass fails inward and the fragments arrange themselves.] | *24–36 Grudge and a 15% Gauge surge to whoever struck it; the pane is whole again within the hour and the count is one higher.* **[24-36 Grudge DMG [Grudge]]** | When the window is struck. Once, in Year 4,230, and the shards were found in a layer one deep across the floor. |
-| { *Every Window Breaks* [**Ultimate**] } | "Every pane in the lower network shows hands, and all of them are pressing from the far side." | [The reflection propagates to every glass surface underground.] | *12–20 Grudge per cycle for three cycles to anybody who looks at one.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,233 Tide; the tunnel office counted hands on 61 separate panes and recorded no pane with more than 41. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Window does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Tear* [**Register**] } | Through the tear there is a room that is not there, and it looks back. The pane reflects hands rather than faces and lets no light through. | The pane is read from the side of the frame, the caliper count taken, and the view described aloud rather than entered. | Past about twenty minutes the viewer begins to recognise the crews in the shown room. They do not know them, and six accounts describe greeting somebody. |
+| { *The Draft* [**Exposure**] } | Cold air and old anger come through the tear, and what it carries is the history of the room beyond rather than anything the window does. | The reader stands to the side of the frame, keeps the caliper series unbroken, and does not lean into the gap. | The pane remembers every person who has touched it, which is why the touch is the failure on this file and the looking is not. |
+| { *The Glass Tooth* [**Refusal**] } | The shard juts out of the frame and does not leave it. It has never been removed: two attempts cracked the surround and left the pane where it was. | Nothing is swung at it and nothing is levered out; the one strike on record changed the count and not the glass. | The cut comes from a fixed edge at hand height, so the instruction is about where the hands go rather than about what the object does. |
+| { *The Pane Whole Again* [**Overload**] } | Struck once, in Year 4230, the pane came in and the shards were found in a layer one deep across the floor. Within the hour the pane was whole again and the count was one higher. | The count is retaken against the overlay and the walk is logged before the strike is written up. | An unwalked length does not escalate. It stays on the sheet uncrossed and the next cycle opens four to six points higher. |
 
-1. **Tension:** Two workers reach the window by the maintained route, confirm the count against the last sheet, and agree which of them will walk the length and which will stay at the glass. Neither of them has a free hand; both carry the lamp and the sheet deliberately.
-2. **Clash:** Do not fight the pane. The team counts hands, works Viderehan and Ferrehan only and leaves the glass untouched. Logging the name of an accidental toucher is required incident evidence, not permission to add another hand or repeat the contact. Flerehan and Pugnahan are not merely invalid here; the two attempts on record each added a hand and neither removed one.
-3. **Resolution:** End the viewing with a second person saying the viewer’s name and the current date. Compare the two counts and attach the patrol sheet for the disused lengths; the fixed pane is not unmounted as an encounter-ending step. There is no authorised suppression step or breach counter, but a touch, strike or held gaze still has recorded consequences.
+### Watch Sequence
+
+1. **What is confirmed:** the caliper count against the overlay, the four-to-six-point question of whether the last length was walked, and the patrol sheet itself before the shift begins.
+2. **What the watch does:** Viderehan reads the room beyond the tear from the side of the frame and Ferrehan looks without entering the memory. Nobody puts a palm on the glass, and the length that was shown is walked end to end by two people.
+3. **How it closes:** **The length the window showed is walked end to end by two people and logged on the patrol sheet. 118 cycles, 118 walks; the sheet is the holding's containment and the tunnel office maintains it as a live document rather than an archive.**
 
 ### Consequences
 
@@ -106,8 +115,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
-- **Primary marker:** A cracked window of red-black crystal embedded in a tunnel wall. Its broken pane reflects hands rather than faces.
-- **Position / movement:** Fixed in the tunnel wall at chest height and never recovered from it; the two removal attempts cracked the surround and left the pane in place. What changes is the count of hands and the room visible beyond, and both are recorded at every inspection.
+- **Position / movement:** Fixed in the tunnel wall at chest height and never recovered from it. The two removal attempts cracked the surround and left the pane in place. What changes is the count of hands and the room visible beyond, and both are recorded at every inspection.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, deep tunnels
 
@@ -115,15 +123,14 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A cracked window of red-black crystal embedded in a tunnel wall. Its broken pane reflects hands rather than faces. |
 | **Position / movement** | Fixed in the tunnel wall at chest height; two removal attempts failed and the pane has never been relocated. |
 | **Material / signature** | A cracked pane of red-black crystal set in a tunnel wall, fever-cold, smelling of char. Record the number of hands, their arrangement, and the room shown; the reflection returns hands and has never returned a face. |
 | **Distinctive markers** | Forty-one hands, pressed from the far side, in the same positions in every photograph taken since Year 4,227. Four of them arrived later than the rest and the office knows which four. |
-| **Identification** | Match what you see to the file before you act; misidentification in containment is how Fractures begin, and the marker here is the reflection returning hands rather than a face. |
+| **Identification** | Match what you see to the file before you act. Misidentification in containment is how Fractures begin, and the marker here is the reflection returning hands rather than a face. |
 
-**Appearance protocol:** Photograph the pane square-on at a fixed distance and count the hands against the previous plate; the count is the record and takes two people, because single counts have differed by as much as nine. Log the crack pattern, which has not altered, and the room visible beyond, by length number where it can be identified.
+**Appearance protocol:** Photograph the pane square-on at a fixed distance and count the hands against the previous plate. The count is the record and takes two people, because single counts have differed by as much as nine. Log the crack pattern, which has not altered, and the room visible beyond, by length number where it can be identified.
 
-**Pane, view and history:** The Tale’s tearing is the burden of departures, not a report that the original glass physically split during formation. Present inspection nevertheless identifies a cracked red-black pane: fever-cold, smelling of char, with reflected hands rather than the observer’s face. A borrowed working room is a view held by that pane, not an open route to its occupants. The fixed wall setting, failed removals and absence of transmitted lamp light matter as much as the apparent depth. A strike’s inward failure and the Tide’s reflections elsewhere are separately triggered records; neither warrants carrying a loose pane or assuming that an ordinary inspection is a passage through it.
+**Pane, view and history:** The Tale’s tearing is the burden of departures, not a report that the original glass physically split during formation. Present inspection nevertheless identifies a cracked red-black pane: fever-cold, smelling of char, with reflected hands rather than the observer’s face. A borrowed working room is a view held by that pane, not an open route to its occupants. The fixed wall setting, failed removals and absence of transmitted lamp light matter as much as the apparent depth. A strike’s inward failure and the Tide’s reflections elsewhere are separately triggered records. Neither warrants carrying a loose pane or assuming that an ordinary inspection is a passage through it.
 
 ## Origin
 - **Formation:** The Window formed from a view destroyed by repeated hands and memories.
@@ -132,37 +139,28 @@
 - **The People:** The tunnel crews of the lower network, four generations of them, none named individually and all present. The commissioning file holds the patrol rounds for the years the window was in daily use, and the archive takes the hands in the pane as the roll rather than any written list, since no written list was ever kept.
 - **Expanded origin context:** The lower network was worked for four generations and the window sat at the turn where the crews changed over, at the height a hand goes out to steady you. Everybody touched it. Nobody recorded touching it. When the seams were worked out the lengths were struck off the round one by one, not closed in any ceremony, simply not walked again, and the last crew went up without being told they were the last. The hands in the pane were counted for the first time eleven years after that and the count was nine hundred and six.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A cracked pane of red-black crystal set in the tunnel wall at chest height, broken across its surface, reflecting hands rather than faces and letting no light through. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the history of the room beyond it. | Stable |
-| **Ferrehan** | Tests whether the worker can look without entering the memory. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the caliper count against the overlay, the four-to-six-point question of whether the last length was walked, and the patrol sheet itself before the shift begins. |
+| **Handling** | The observer reads the room beyond the tear from the side of the frame and the stander looks without entering the memory. Nobody puts a palm on the glass, and the length that was shown is walked end to end by two people. |
+| **Withdrawal** | **The length the window showed is walked end to end by two people and logged on the patrol sheet. 118 cycles, 118 walks; the sheet is the holding's containment and the tunnel office maintains it as a live document rather than an archive.**. |
+| **Refusal** | Nothing is swung at it and nothing is levered out; the one strike on record changed the count and not the glass. |
 
-
-### Operational Work Notes
-
-The Work Type table holds steady here and the patrol sheet does not. The gauge tracks one variable: whether the length shown at the last cycle was walked. Walked, it opens where it closed; unwalked, four to six points higher, every time across 118 cycles. The window is not asking to be looked at. It is asking for the tunnel to still be in use.
-
-**Reading the response:** Viderehan is Stable and Ferrehan is Decrease in the Work table; keep those gauge readings separate from photographed hands. A lower gauge does not by itself establish a falling hand count. The file’s hand-count series disagree and need their own comparison, not substitution of a gauge result. Keep walking and logging the shown length even when a viewing leaves the photographed count unchanged.
 ## Activation Behavior
+
+> **Special activation — no counter.** Its starting condition, as written: *"touch or direct gaze"*.
+
+
+
+
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This relic shows a shift that was worked by somebody else, and the viewer will file it as their own unless a second person ends the viewing**
-
-**Activation Trigger:** Touch or direct gaze.
-
-**Effect:** Shows the room beyond as it stood when the length was last walked, including the people, who do not look back.
-
-**Duration:** Until the viewer looks away, and the viewer is never the one who ends it; every recorded viewing was ended by a second person.
-
-**Risk:** The viewer may mistake a borrowed room for personal history, and four have filed accounts of a shift they never worked.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -170,10 +168,10 @@ The Work Type table holds steady here and the patrol sheet does not. The gauge t
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Touch or direct gaze. |
-| **Primary Effect** | Shows the room beyond as it stood when the length was last walked, people included. |
-| **Duration** | Until the viewer looks away, which in every recorded case required a second person. |
+| **Primary Effect** | Shows the room beyond as it stood when the length was last walked, people included, and they do not look back. |
+| **Duration** | Until the viewer looks away — and the viewer is never the one who ends it. Every recorded viewing was ended by a second person. |
 | **Termination / Return** | A second person ends the viewing by saying the viewer's name and the current date. Nothing else has ever worked; the viewer cannot end it themselves and has never, in nine years, tried to. |
-| **Risk** | The viewer may file a shift they never worked; four have. |
+| **Risk** | The viewer may mistake a borrowed room for personal history. Four have filed accounts of a shift they never worked. |
 
 **Operational Rule:** The present pane remains in its tunnel wall; the two attempted removals did not relocate it. The I-Relic mounting account supplies no successful removal or portable state, so do not use that instruction to carry the source window on a bearer. Viewing cannot replace the patrol round: the holding’s standing warning is that it was twice treated as a substitute for walking. Keep any claimed limit beyond the last worked length separate from proof of source portability.
 
@@ -201,7 +199,7 @@ Escalation is measured in hands and in unwalked lengths. Record the count before
 | **Primary effect** | Shows the room beyond as it stood when the length was last walked, people included. |
 | **Duration / rate** | Until the viewer looks away; no viewing on record has been ended by the viewer. |
 | **Risk** | Minor (α) Object-Lament producing Grudge pressure; the borrowed room is remembered as the viewer's own. |
-| **Management** | Count the hands at each inspection and walk the disused lengths on a published round; the count has fallen in exactly the eleven weeks the full round was walked. |
+| **Management** | Count the hands at each inspection and walk the disused lengths on a published round. The count has fallen in exactly the eleven weeks the full round was walked. |
 
 **Activation reporting order:** hands counted → room shown → whether that room is still walked → who touched the glass and whether they logged it → duration of the viewing → the patrol sheet. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
@@ -212,7 +210,7 @@ Escalation is measured in hands and in unwalked lengths. Record the count before
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : A curved cavalry sabre whose thirty-inch steel blade is flanked by interlocking panes of toughened green window glass, set into an iron basket hilt lined with buff leather.
+**Appearance:** A curved cavalry sabre whose thirty-inch steel blade is flanked by interlocking panes of toughened green window glass, set into an iron basket hilt lined with buff leather.
 
 The glass-edged blade delivers devastating lacerating wounds with minimal cutting resistance. When parrying heavy mauls, individual glass segments shatter to deflect kinetic force before reforming.
 
@@ -224,7 +222,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Ability:** Grudge against the Body, and the mark it leaves is a bruise in the shape of a palm — not the wielder's, and not the same one twice. Fourteen strikes, fourteen different hands.
 
-**Cost:** Old injuries ache — specifically ones the wielder got at work, and in the order they got them.
+**Bearer cost:** Old injuries ache — specifically ones the wielder got at work, and in the order they got them.
 
 **Sabre and linked Fang:** The steel-and-green-glass sabre is not a documented new state of the crimson Han-iron Fang. Keep the local palm-shaped bruise and work-injury ache apart from the linked Fang’s attributed phantom-grip cut. That record names a single-target pattern, not an attack across every hand in the source glass. Log a hand’s attribution before the Fang’s cleaning; an unattributed cut transfers the farewell rather than harmlessly missing. Its witness names room and owner as the viewer looks away. This is linked-item custody, not authority to slash the pane or assurance that the local sabre can release a viewing.
 
@@ -244,7 +242,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Ability:** Resistance to Grudge against the Body. The crystal panel also shows, to anybody standing behind the wearer, the corridor as it was ten years ago — which the Armoury regards as a defect and has twice been asked to leave alone.
 
-**Cost:** Reflexes dull, and the wearer stops turning round when somebody comes up behind them.
+**Bearer cost:** Reflexes dull, and the wearer stops turning round when somebody comes up behind them.
 
 **Plate care:** Record the wearer’s current location outside all windows before inspection. A corridor seen behind the back panel does not establish that the wearer has entered that past corridor. Monitor dulled reflexes and failure to turn toward a person approaching from behind; protection against Grudge is not protection against mistaken ownership of the room. The linked harness’s locked stride requires acknowledgment of the remembered room’s occupant, not an extra forward step. Its external monitor covers the pane and guides the wearer backward. Keep that account distinct from the fixed source’s name-and-date termination, and retain the sealed roster for the later comparison.
 
@@ -260,7 +258,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Ability:** Reveals the emotional history of an object.
 
-**Cost:** The wearer feels every hand that ever touched it.
+**Bearer cost:** The wearer feels every hand that ever touched it.
 
 *Six Stigmas in nine years and every one of them went to a worker who had walked a disused length that nobody had any reason to walk. Not one has ever been given for anything done at the glass. The tunnel office treats this as the holding's clearest statement about itself.*
 
@@ -281,7 +279,7 @@ Both pieces were cut from the cracked edge and neither carries a hand, which was
 
 **Stat interpretation:** An α-grade set with a filing-cabinet hazard. The output is negligible and the cost is a person who believes, correctly in every detail except one, that they worked a shift. Authorise on the roster comparison and not on the grade.
 
-**Full-set source review (2026-10-12):** Reviewed the I-Relic/M.A.W. grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and the additional M.A.W. strike references in the Observation Log and Threat Assessment against Side `SE-686-A` (`N-Iα-686 [N]`, set `4/4`), items `SE-686-B/C/D` (`MAW-W/S/G-686-01`), Registry rows 815–818, Master M.A.W. entries 580–582 and Entity Codex row 562, Tale 194, and Weapon Archetype `MAW-W-686`. Side A has no standalone Appearance section; all three item pages have Appearance sections, with no separately labelled transition block. The overview now records α, supported by the Side's I / α source profile and all three α item records. The Stigma effect now names `+1 Resilience`, supported by Side A and item D, while preserving the primary's Torn Window-only condition. Hold primary/Master-index `Window-Shard Sabre` against Side/item `Window of a Thousand Goodbyes Fang` and Master Entry 580's `Torn Window Fang`: the primary/index/archetype support a razor-glass sabre, while the linked Side/item records describe a crimson Han-iron Fang, with no crosswalk. The local palm-mark effect also differs from the linked Fang's attributed phantom-hand cut. Range 2 (Short) is supported locally and by Side/item data and the Weapon Archetype's Short band. Tail / 5% remains local/Side/item against the Registry's generic Accessory label. Side/item Single pattern is not transcribed to the primary.
+**Full-set source review (Year 4238):** Reviewed the I-Relic/M.A.W. grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and the additional M.A.W. strike references in the Observation Log and Threat Assessment against Side `SE-686-A` (`N-Iα-686 [N]`, set `4/4`), items `SE-686-B/C/D` (`MAW-W/S/G-686-01`), Registry rows 815–818, Master M.A.W. entries 580–582 and Entity Codex row 562, Tale 194, and Weapon Archetype `MAW-W-686`. Side A has no standalone Appearance section; all three item pages have Appearance sections, with no separately labelled transition block. The overview now records α, supported by the Side's I / α source profile and all three α item records. The Stigma effect now names `+1 Resilience`, supported by Side A and item D, while preserving the primary's Torn Window-only condition. Hold primary/Master-index `Window-Shard Sabre` against Side/item `Window of a Thousand Goodbyes Fang` and Master Entry 580's `Torn Window Fang`: the primary/index/archetype support a razor-glass sabre, while the linked Side/item records describe a crimson Han-iron Fang, with no crosswalk. The local palm-mark effect also differs from the linked Fang's attributed phantom-hand cut. Range 2 (Short) is supported locally and by Side/item data and the Weapon Archetype's Short band. Tail / 5% remains local/Side/item against the Registry's generic Accessory label. Side/item Single pattern is not transcribed to the primary.
 
 ## 관찰 기록 (Observation Log)
 
@@ -289,7 +287,7 @@ Both pieces were cut from the cracked edge and neither carries a hand, which was
 
 - It reflects hands rather than faces. The count stands at 41 hands after 9 years, 4 of them added by workers who were simply tired at the time.
 - The cracks never close. The gauge answers only to the patrol sheet: walk the disused lengths and it holds, stop walking them and it opens 4 to 6 points higher every cycle with no upper bound found, across 118 cycles on record with 1 strike, 14 M.A.W. strikes and no fatalities.
-- It is strongest in abandoned tunnels, and the 6 Stigmas on record all went to people who walked a tunnel nobody had a reason to walk; the tunnel office has had to defend that walking as work rather than sentiment 2 times.
+- It is strongest in abandoned tunnels, and the 6 Stigmas on record all went to people who walked a tunnel nobody had a reason to walk. The tunnel office has had to defend that walking as work rather than sentiment 2 times.
 
 **Personnel Note:** *"It was watching. I felt hope. Every hand in the glass had left something behind, and the Window had kept it."* — Specialist, Zone C patrol
 
@@ -316,13 +314,13 @@ Torn Window is a cracked pane of red-black crystal set in a tunnel wall in the d
 Lengths on the lower network patrol round at the start of 4238: forty-one. Struck off during the year as having no operational purpose: nine. Walked and logged although struck off, under the standing instruction: thirty-one of the thirty-two disused lengths, in at least one week each. Hand count at the first inspection of the year: one thousand one hundred and eighty-two. At the last: one thousand one hundred and forty-one. It is the only year on record in which the count has gone down, and the length that was missed is the one the window looks into.
 
 **Entry 3 — <Statement of the Counter Who Looked>**
-"You are meant to count and not look. I looked. It was the changeover at the old turn and there were maybe twenty of them coming up and twenty going down and one of them put a hand out on the glass to steady himself, the way you do, and that is all it was, it was nothing, it was a man steadying himself on a Tuesday. He is in there. They are all in there and not one of them is looking out. I would like it recorded that I have walked that length every week since and that I am aware this is not a procedure, it is a habit, and I would like it recorded anyway."
+"You are meant to count and not look. I looked. It was the changeover at the old turn and there were maybe twenty of them coming up and twenty going down and one of them put a hand out on the glass to steady himself, the way you do. And that is all it was, it was nothing, it was a man steadying himself on a Tuesday. He is in there. They are all in there and not one of them is looking out. I would like it recorded that I have walked that length every week since and that I am aware this is not a procedure, it is a habit, and I would like it recorded anyway."
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the history of the room beyond it. (Stable); Ferrehan: Tests whether the worker can look without entering the memory. (Decrease). It is strongest in abandoned tunnels.
 
 **Entry 5 — <Archive Note: The Round Is Not Reduced>**
-The lower network round is not reduced when a length goes out of service. Every disused length is walked and signed for at least once a month by a named person, at a cost the district office has twice itemised in its objection, and the objection is sound: the facility is paying wages to walk ground that no longer carries anything and will not carry anything again. The count answers it in the only way the archive can defend. The instruction does not require that anything be found, inspected, or reported, and it explicitly does not require the walker to touch the glass. It requires only that the length continue to be somewhere a person goes. The archive notes that the request is smaller than any other containment condition it holds and that it is nevertheless the one most often skipped.
+The lower network round is not reduced when a length goes out of service. Every disused length is walked and signed for at least once a month by a named person, at a cost the district office has twice itemised in its objection. And the objection is sound: the facility is paying wages to walk ground that no longer carries anything and will not carry anything again. The count answers it in the only way the archive can defend. The instruction does not require that anything be found, inspected, or reported, and it explicitly does not require the walker to touch the glass. It requires only that the length continue to be somewhere a person goes. The archive notes that the request is smaller than any other containment condition it holds and that it is nevertheless the one most often skipped.
 
 ## 최종 관찰 (Final Observation)
 
@@ -351,7 +349,7 @@ The window is broken, but the view beyond it is perfect. A hand touches the glas
 
 Three relations, all of them things that kept what people stopped coming back for, and all measured on the hand count. The count has never fallen in any pairing and has risen in none.
 
-**Interaction method:** Document it alone first, with the patrol sheets alongside, since those are the variable. In shared conditions log the hand count before and after, the room shown, and whether the other record returned any of it — the Broken Mirror shows the same pane with faces and no hands, which is the one result the holding has never been able to account for.
+**Interaction method:** Document it alone first, with the patrol sheets alongside, since those are the variable. In shared conditions log the hand count before and after, the room shown. And whether the other record returned any of it — the Broken Mirror shows the same pane with faces and no hands, which is the one result the holding has never been able to account for.
 
 
 ### Entity Interaction Record
@@ -361,7 +359,7 @@ Eight supervised sessions across three holdings, all in the tunnel, all counted 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **The Broken Mirror** | A cracked reflective surface brought to another one; filed as a transfer pairing. | Three sessions. Nothing transferred, the count held at 41, and the Mirror returned the observers' faces while this window went on returning hands. Both wardens present recorded the contrast unprompted. | Hand count, and both surfaces photographed in the same frame. |
-| **The Whispering Walls** | Carry the voices of the crews whose hands are in the glass. | Three sessions, and the most productive pairing in the file: the Walls supplied eleven first names and two crew numbers, all of which matched the tunnel office's old rosters. The count did not change. | Every name transcribed and checked against the rosters; hand count before and after. |
+| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | Carry the voices of the crews whose hands are in the glass. | Three sessions, and the most productive pairing in the file: the Walls supplied eleven first names and two crew numbers, all of which matched the tunnel office's old rosters. The count did not change. | Every name transcribed and checked against the rosters; hand count before and after. |
 | **The Torn Trace** | Filed alongside it on the strength of broken continuity, which the office considers a shelving decision rather than a finding. | Two sessions, no change to either party at any distance. Retained so the pairing is not proposed again. | Hand count; the entry is closed. |
 
 **Interaction procedure:** Solo baselines first, then bring the second party along the maintained route with the glass unattended by anybody. Count before, count after, and photograph. The count is the only number this holding gives and it has given the same one for nine years.
@@ -399,19 +397,19 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 **Threat Assessment:** Minor, and correctly so. Nine years, 118 cycles, one strike, fourteen M.A.W. strikes, no fatalities, no injuries beyond bruising — and four workers whose hands are in a window and who were all simply tired at the time.
 **Containment & Handling Procedures:**
 - Count the hands, say the number, walk the length shown, sign the sheet. Nobody touches the pane.
-- Standard R.D. containment protocols apply.
+- The count is the procedure: the hands are counted against the previous plate and the number said aloud at each pass. And a count that has risen by one is a touch somebody has not logged — which is the incident, not the reading that closes the watch.
 - Touch or a held gaze; only a second person saying the viewer's name and the date ends a viewing.
 **Observation Notes:**
 - Four generations of tunnel crews resting a palm on a cool surface at the end of a shift.
-- See Combat Record for engagement history.
+- The contact history is a register of hands. The pane reflects every person who has stood at it, and all four failures on record began with a palm set on the glass.
 - Two pieces from the cracked edge, eleven shards rejected for carrying a hand; wielders file other people's shifts.
-**Cross-References:** The Broken Mirror, The Whispering Walls (eleven names recovered), The Torn Trace (closed), the lower network patrol sheet, and the eleven rejected shards in the Armoury ledger.
+**Cross-References:** The Broken Mirror, [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) (eleven names recovered), The Torn Trace (closed), the lower network patrol sheet, and the eleven rejected shards in the Armoury ledger.
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** Four generations of tunnel crews, initially counted rather than individually listed in this record. The later Whispering Walls sessions supplied first names and crew numbers checked against old rosters. Preserve those partial identifications alongside the hand count; they do not provide a complete owner for every hand or erase the unnamed crews.
 
 ### Registry Addendum
 
-**Operational interpretation:** The gauge answers to the patrol sheet and to nothing else, which makes this holding's containment a maintenance budget. Walk the disused lengths and it stays where it is; stop walking them and it opens four to six points higher every cycle, indefinitely, with no upper bound anybody has found. The six Stigmas all went to people who walked a tunnel nobody had a reason to walk. The window is not dangerous and it is not asking for much, and the tunnel office has twice had to defend the walking as work rather than sentiment — which is the harder argument, and the one that will eventually be lost by somebody reasonable.
+**Operational interpretation:** The gauge answers to the patrol sheet and to nothing else, which makes this holding's containment a maintenance budget. Walk the disused lengths and it stays where it is. Stop walking them and it opens four to six points higher every cycle, indefinitely, with no upper bound anybody has found. The six Stigmas all went to people who walked a tunnel nobody had a reason to walk. The window is not dangerous and it is not asking for much, and the tunnel office has twice had to defend the walking as work rather than sentiment — which is the harder argument, and the one that will eventually be lost by somebody reasonable.
 
 **Review requirement:** After any incident: hand count photographed and compared, the room shown, the length walked and by whom, and the patrol sheet signed. Two further items. Any new hand is measured against the hands of everyone who was present, and the match is recorded and not disclosed to the person it matches. And the walking schedule is re-costed annually and the result is reported to the Warden rather than to the works office, because the works office is where it would be cut.
 ## Trivia
@@ -426,8 +424,8 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 - **Classification detail:** Torn Window is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Grudge, in the deep tunnels of Zone B, reached by a maintained route through a network most of which is no longer maintained.
 - **Recognition detail:** Identify it by the reflection, which returns hands and never a face, and by the cracks, which have not closed or widened in any record. The crystal is red-black, fever-cold, and passes no light in either direction; a lamp held against it is not visible from a metre away.
-- **Record detail:** Check the designation before approach. The archive holds other records about ground that stopped being used, and they differ on what is owed — the Homeless Sorrow concerns a room given to somebody else, while this concerns lengths of tunnel given to nobody, which is the harder case to fund and the only one this holding is about.
-- **Containment detail:** Nothing holds this window in and nothing needs to. It is a pane in a wall, in a tunnel that is itself the containment; the access was sealed in Year 4,228 and is reopened by a works party for every cycle, which is the single largest cost this holding carries and the one most often queried.
+- **Record detail:** Check the designation before approach. The archive holds other records about ground that stopped being used. And they differ on what is owed — the Homeless Sorrow concerns a room given to somebody else. While this concerns lengths of tunnel given to nobody, which is the harder case to fund and the only one this holding is about.
+- **Containment detail:** Nothing holds this window in and nothing needs to. It is a pane in a wall, in a tunnel that is itself the containment. The access was sealed in Year 4,228 and is reopened by a works party for every cycle, which is the single largest cost this holding carries and the one most often queried.
 ## Document Information
 
 **Document ID:** SE-N-Iα-686

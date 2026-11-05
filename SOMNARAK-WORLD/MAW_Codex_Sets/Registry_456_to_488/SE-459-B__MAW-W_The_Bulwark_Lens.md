@@ -24,19 +24,12 @@ The Bulwark Lens is a pale lens of Han glass with a sleeping wall line across it
 |---|---:|---|---|---:|
 | α / Void | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
 **Intrusion Cut:** Removes one emotional intrusion from a consent boundary.
 
 **Failures:** wall attacked as problem; isolation romanticized; person inside erased from care.
 
 **Maintenance:** Rest outside a closed door with no demand for response.
-
----
-
-**Document ID:** `SE-459-B`  
-**Linked Entity:** `SE-459`  
-**Item Registry Code:** `MAW-W-459-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

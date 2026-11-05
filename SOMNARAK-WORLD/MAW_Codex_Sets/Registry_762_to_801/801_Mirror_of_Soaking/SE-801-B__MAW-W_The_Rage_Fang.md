@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Grudge Brazier
+# M.A.W. WEAPON — The Rage Fang
 
-> *“The Rage Fang remembers Mirror of Soaking; the bearer must not mistake memory for permission.”*
+> *"It burns what was swallowed. Each strike spends a grievance the wielder kept quiet, and they remember it afterwards."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Mirror of Soaking's grudge signature in the strike.  
-**Binding rule:** the bearer names Mirror of Soaking's event—Citizens swallowed rage under debt and order until suppressed anger became a reflective object.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
-
+**Binding rule:** the bearer names Mirror of Soaking's event — “Citizens swallowed rage under debt and order until suppressed anger became a reflective object.” — and accepts this limit: written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it.  
+**Gauge:** 000/420; opens at 000%; no attack pattern is filed for this Grudge manifestation — the height of the surface in centimetres is the reading.
 ## Appearance
 
-Appearance : A three-legged cast-iron fire basin forty centimeters wide, fitted with a domed spark arrester and two forged chain handles, carrying smoldering anthracite coals that never turn to ash.
+A three-legged cast-iron fire basin forty centimeters wide, fitted with a domed spark arrester and two forged chain handles, carrying smoldering anthracite coals that never turn to ash.
 
 The coals glow with intense crimson heat, releasing thick black smoke that stings the eyes. Swinging the brazier by its chains showers combatants in burning embers that sear physical flesh.
 
@@ -31,33 +31,26 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 |---:|---:|---:|---|---:|
 | Grudge 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Mirror of Soaking's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
+**Operational / binding cost:** The Brazier burns what was swallowed: each strike spends a grievance the wielder kept quiet, and they remember it afterwards. Wielded long, the wielder is missing the reasons they ever stayed polite.
 
 ## ITEM-SPECIFIC HISTORY — *The Mirror of Soaking Source-Trace: Weapon Record*
 
-The first The Rage Fang field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon witnesses the immediate hazard only after the team attributed it to Mirror of Soaking. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Fang encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon witnesses the immediate hazard only after the team attributed it to Mirror of Soaking. A wielder spent a grievance carried eleven years in one strike and remembered it the moment the blow landed, and the Brazier’s binding follows that strike.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Mirror of Soaking's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the grievances surface between bouts, and the wielder is impolite in rooms where nothing was swallowed.
 - Terminal state: Mirror of Soaking's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-801 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Fang only after attribution review.   <!-- SE-801 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Fang; shutdown preserves the record but does not refund its cost. <!-- SE-801 -->
+**Failure mode:** violating “written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it.” reverses the item’s benefit and raises the source Gauge — a 000/403 meter that opens at 35–50%.
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Fang only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Fang; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Mirror of Soaking — Witnessed Form*, The Rage Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-801-B`  
-**Linked Entity:** `SE-801`  
-**Item Registry Code:** `MAW-W-801-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Mirror of Soaking — Witnessed Form*, The Rage Fang performs the weapon role while the other pieces preserve attribution and survival. The Brazier leaves the set when a strike is thrown for a grievance already said out loud.

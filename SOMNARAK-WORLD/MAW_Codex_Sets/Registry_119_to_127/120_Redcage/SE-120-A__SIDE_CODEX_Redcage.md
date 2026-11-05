@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-120 [GO]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Zone B acknowledged-injustice containment
 
@@ -61,10 +61,10 @@ The bars pulse together like a slow angry heart. They are not uniform metal: eac
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Tears do not replace acknowledgment of injustice. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not pry, break, or force the bars apart. |
+| Flerehan | Invalid for this Object/Place entity. | Negative-Low | Tears do not replace acknowledgment of injustice. |
+| Pugnahan | Invalid for this Object/Place entity. | Negative-Low | Do not pry, break, or force the bars apart. |
 | Viderehan | Reveals the injustice that formed each bar. | Stable | Record the institutional pattern, not an unverified individual indictment. |
-| Ferrehan | Tests whether a worker can remain near rage without feeding it. | Down | Pair workers with a temper check before and after exposure. |
+| Ferrehan | Tests whether a worker can remain near rage without feeding it. | Decrease | Pair workers with a temper check before and after exposure. |
 
 ### Activation response
 
@@ -85,7 +85,7 @@ The original Redcage is an I-Relic. Its M.A.W. set forms from released Grudge ec
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Wrath-Ember Censer | γ | Grudge | Breaks a coercive barrier only when a safe, accountable release route is named | `SE-120-B__MAW-W_The_Cage_Fang.md` |
+| Weapon | The Wrath-Ember Censer | γ | Grudge | Breaks a coercive barrier only when a safe, accountable release route is named | `SE-120-B__MAW-W_The_Wrath_Ember_Censer.md` |
 | Suit | The Cage Shield | γ | Grudge | Rage defense that requires acknowledgment rather than retaliation | `SE-120-C__MAW-S_The_Cage_Shield.md` |
 | Stigma | The Cage Charm | γ | Grudge | Detects an operational barrier that is trapping someone unjustly | `SE-120-D__MAW-G_The_Cage_Charm.md` |
 
@@ -106,7 +106,7 @@ The original Redcage is an I-Relic. Its M.A.W. set forms from released Grudge ec
 
 **Quick effect:** The Skewer strike opens an unjust barrier only when a safe receiving route and accountable release authority are named; it does not decide legal innocence or license retaliation.
 
-**Weapon-title review (2026-10-11):** `C-IIIγ-120`’s primary M.A.W. block and spiked, chain-suspended iron Censer Appearance, the current `SE-120-B` heading/Appearance, Master Registry, `MAW-W-120` archetype, and same-code revision `3abe5470` support *The Wrath-Ember Censer*. Master table/detailed Entry 55 and the linked item’s Official name, Resting/Active forms, and Fang-specific attack prose still identify *The Cage Fang*; keep that identity/form conflict held, with no Fang-to-Censer transition inferred. A separate cross-dossier duplication also remains unresolved: The Wrath Flame `O-IIIβ-120` primary repeats the same Censer title/Appearance with a different β/Single profile, while its Master Codex detail and registry say *The Rage Fang* and its `MAW-W-1012` archetype says notched seax. No shared-item relationship is documented; do not import its profile or treat it as corroboration. The old item filename remains only as the linked path. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `C-IIIγ-120`’s primary M.A.W. block and spiked, chain-suspended iron Censer Appearance, the current `SE-120-B` heading/Appearance, Master Registry, `MAW-W-120` archetype, and same-code current revision support *The Wrath-Ember Censer*. Master table/detailed Entry 55 and the linked item’s Official name, Resting/Active forms, and Fang-specific attack prose still identify *The Cage Fang*; keep that identity/form conflict held, with no Fang-to-Censer transition inferred. A separate cross-dossier duplication also remains unresolved: The Wrath Flame `O-IIIβ-120` primary repeats the same Censer title/Appearance with a different β/Single profile, while its Master Codex detail and registry say *The Rage Fang* and its `MAW-W-1012` archetype says notched seax. No shared-item relationship is documented; do not import its profile or treat it as corroboration. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 
@@ -171,13 +171,3 @@ The original Redcage is an I-Relic. Its M.A.W. set forms from released Grudge ec
 **Entity links:** The Iron Judge; The Debt Wall; The Angry Maiden.  
 **Source distinction:** The original cage remains a contained I-Relic; the three individual M.A.W. files are released echoes, not physical bars.  
 **Item links:** `SE-120-B`, `SE-120-C`, and `SE-120-D` contain individual extraction, incident, and corrosion history for Acknowledged Bars.
-
----
-
-**Document ID:** `SE-120-A`  
-**Linked Entity:** `SE-120`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

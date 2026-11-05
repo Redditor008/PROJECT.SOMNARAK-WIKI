@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | All four — Lament, Grudge, Void, Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A massive humanoid sleeping in the sealed vault beneath the Alpha Tree, its body built from every sorrow at once — flesh threaded with crystal, fire, ash, and stone, shifting hue as each surfaces. Warm and cold by turns, it smells of rain, char, ash, and wet stone together. It has never woken; some say the city was built to keep it asleep. |
+| **Physical Form** | Mixed |
 | **Movement** | Observed asleep in the sealed vault. Walking after seal failure is a contingency profile, not witnessed movement or pursuit. |
 | **Location** | SECTOR-A-01, beneath the Alpha Tree — sealed |
 | **R.D. Comprehension Level** | 4 — Mastered |
@@ -30,11 +30,12 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn through a sealed vault wall by instruments on the gallery. Nobody has been on the floor with it in nineteen years and the yield has not varied in that time. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Activation threshold** | 1 |
+| **Work Damage** | 7–10, cycling all four — the cost is forgetting: the session is worked from the gallery, and a worker who stays for the third posting does not remember the gallery afterwards |
+| **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | δ · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Do not wake, address, or attempt extraction. Maintain the seal, keep the lamps, and keep the rostered lament; Flerehan and Ferrehan lower the gauge and Pugnahan must not be used inside the sanctuary. |
+| **Recommended response** | Do not wake, address, or attempt extraction. Maintain the seal, keep the lamps, and keep the rostered lament. Flerehan and Ferrehan lower the gauge and Pugnahan must not be used inside the sanctuary. |
 
 ### Operational Notes
 
@@ -54,8 +55,8 @@
 | **Speed** | 2.80 m/s |
 | **Resistance** | 50% against All four — Lament, Grudge, Void, Weight pressure; 40% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 894/894 |
-| **Han Pressure [ATK]** | 20–44 per hit · Lament |
+| **Sorrow Gauge [HP]** | 1000/1000 |
+| **Han Pressure [ATK]** | 50–74 per hit · Lament |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -78,27 +79,27 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lost Prayer* [**Debuff**] } | "A prayer echoes — to a god no one remembers praying to — and the prayer itself has forgotten what it was asking for." | [The God's forgotten presence radiates; the target senses something vast that should not be absent.] | *Target suffers -10 Resolve; the absence of divinity is crushing.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the target enters the God's domain. |
-| { *The Erased Name* [**Debuff**] } | "The god's name has been forgotten — and without a name, it presses harder, because it cannot be called, only felt." | [The God's namelessness intensifies; the target feels an unnamable weight.] | *Target loses 10 Resolve; they are being worshipped by absence.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the target lingers. |
-| { *The Divine Wrath* [**Attack**] } | "The forgotten god remembers, briefly, what it was — and the memory is a weapon." | [A flash of forgotten divine power.] | *Inflicts a Mixed cycle of damage — every sorrow at once.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When the God is disturbed. |
-| { *The Reawakening* [**Attack**] } | "The god stirs — and for one moment, it is as vast as it ever was, before the forgetting." | [The God's brief reawakening releases its full divine weight.] | *A heavy Mixed surge; the target's Sorrow Gauge surges 15%.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP) | 8s, 2s per type]** | When the God is invoked. |
+| { *The Lost Prayer* [**Debuff**] } | "A prayer echoes — to a god no one remembers praying to — and the prayer itself has forgotten what it was asking for." | [The God's forgotten presence radiates; the target senses something vast that should not be absent.] | *Target suffers -10 Resolve; the absence of divinity is crushing.* **[50 Grudge (HP) -> 56 Lament (Composure) -> 56 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | When the target enters the God's domain. |
+| { *The Erased Name* [**Debuff**] } | "The god's name has been forgotten — and without a name, it presses harder, because it cannot be called, only felt." | [The God's namelessness intensifies; the target feels an unnamable weight.] | *Target loses 10 Resolve; they are being worshipped by absence.* **[50 Grudge (HP) -> 56 Lament (Composure) -> 56 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | When the target lingers. |
+| { *The Divine Wrath* [**Attack**] } | "The forgotten god remembers, briefly, what it was — and the memory is a weapon." | [A flash of forgotten divine power.] | *Inflicts a Mixed cycle of damage — every sorrow at once.* **[12-150 Grudge (HP) -> 12-156 Lament (Composure) -> 12-156 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the God is disturbed. |
+| { *The Reawakening* [**Attack**] } | "The god stirs — and for one moment, it is as vast as it ever was, before the forgetting." | [The God's brief reawakening releases its full divine weight.] | *A heavy Mixed surge; the target's Sorrow Gauge surges 15%.* **[74 Grudge (HP) -> 74 Lament (Composure) -> 74 Weight (Both) -> 3 Void (15% Max HP) \| 8s, 2s per type]** | When the God is invoked. |
 | { *The Return of the Forgotten* [**Ultimate**] } | "It remembers everything, and so does everybody else, at the same moment." | [The god wakes and the city's memory of it returns entire.] | *Projected as city-threatening. Never observed; modelled from the depth of the sleep and the rate at which the vault's own staff forget the holding exists.* **[Projected]** | On waking. |
 
 ### Battle Phases
 
 1. **Tension:** Three on the gallery, never fewer, with the third assigned to nothing but watching the other two. Nobody descends. The roster is checked at the door because the third post is the one that gets quietly dropped.
 2. **Clash:** There is no clash on this holding and the phase is retained only because the form requires it. What happens instead is the lament: the rite is kept, the lamps are checked, the log is signed, and nobody addresses the figure directly. A crew that finds itself speaking to it stops and withdraws.
-3. **Resolution:** Do not wake it, do not address it, do not attempt extraction. The cycle closes when the breathing interval has been logged twice and the gallery is clear; 188 cycles, no deviation, and the station counts a cycle in which nothing happened as the correct outcome.
+3. **Resolution:** Do not wake it, do not address it, do not attempt extraction. The cycle closes when the breathing interval has been logged twice and the gallery is clear. Nineteen years of the breathing log, no deviation, and the station counts a cycle in which nothing happened as the correct outcome.
 
 ### Consequences
 
-- The failure here is speech. Not shouting — a word said on the gallery, at ordinary volume, which has happened four times and on each occasion the breathing changed for the rest of the shift.
-- There has been no contact. What the file records instead is the drift: vault staff forget this holding exists at a measurable rate, and the third post on the gallery was created because two observers alone had twice failed to log a cycle they had worked.
-- No piece has been extracted and the three listed below are the vault's own equipment, rated for the gallery and issued under this designation because there is nothing else to issue.
-- There is no resolution to reach. It is asleep and the whole of the management is that it stays asleep; the file's operational content is a breathing interval and a roster.
+- There has been no contact. What the file records instead is the drift: vault staff forget this holding exists at a measurable rate, and by the third posting an entire shift has forgotten the gallery is there. A facility that loses its own inventory does not lose a night; it loses the ability to say what it holds.
+- The failure is speech. Not shouting — a word said on the gallery at ordinary volume, which has happened four times, and on each occasion the branch's record of what stands in the gallery afterwards reads differently.
+- No piece has been extracted, and the three listed below are the vault's own equipment, issued under this designation because the gallery needs something to hand a person who is going to stand in it.
+- There is no resolution to reach. It is asleep, and the whole of the management is that it stays asleep. The operational content of the file is a breathing order the city has never had cause to test, and the Directorate keeps it on that footing deliberately.
 
 ## Appearance
-**Primary Form:** Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. The crystal is dark at the limbs and torso, but translucent around the chest and face, where old prayer-light moves slowly beneath the surface. The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago.
+**Primary Form:** Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. The crystal is dark at the limbs and torso, but translucent around the chest and face, where old prayer-light moves slowly beneath the surface. The figure remains motionless with its hands folded against its body and its head lowered and held there.
 
 **Face and Head:** The face is human in outline but too still to read as living. Its eyes remain closed; thin lines of blue, crimson, white, and black light gather beneath the lids whenever the entity dreams. A broken crown-like ridge rises from the forehead and continues into root-shaped crystal connected to the Alpha Tree’s underground growth.
 
@@ -111,7 +112,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh.
-- **Position / movement:** The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago.
+- **Position / movement:** The figure remains motionless with its hands folded against its body and its head lowered and held there.
 - **Element signature:** All four — Lament, Grudge, Void, Weight
 - **Registered location:** SECTOR-A-01, beneath the Alpha Tree — sealed
 
@@ -120,12 +121,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. |
-| **Position / movement** | The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago. |
+| **Position / movement** | The figure remains motionless with its hands folded against its body and its head lowered and held there. |
 | **Material / signature** | All four elements at once, which is the identifying fact: no other holding in the registry presents Lament, Grudge, Void and Weight together. Record the breathing interval from the gallery alongside the posture, light and lamp observations required below; no instrument is lowered to the floor. |
 | **Distinctive markers** | The face is human in outline but too still to read as living. The air around the God trembles without sound. |
 | **Identification** | A sleeping shape too large for the vault that contains it, registering on all four elemental scales simultaneously. Confirmation is the four-way reading and takes nine seconds. |
 
-**Appearance protocol:** Record the posture first — hands, head, and whether either has altered since the last entry — then the crown-light, the prayer-light under the lids, and the dust, which lifts rather than settles and circles when an old prayer reaches the city. Record the lamp state at the time of every observation and enter it on the lamp ledger as well, because the ledger is the longer series and must not develop gaps. Note the colour of the plates at the three marked points. Do not attempt to copy the marks that appear on the vault walls; they fade faster than they can be written, four attempts are on file, and all four crews reported the same headache afterwards.
+**Appearance protocol:** Record the posture first — hands, head, and whether either has altered since the last entry — then the crown-light, the prayer-light under the lids, and the dust, which lifts rather than settles and circles when an old prayer reaches the city. Record the lamp state at the time of every observation and enter it on the lamp ledger as well, because the ledger is the longer series and must not develop gaps. Note the colour of the plates at the three marked points. Do not attempt to copy the marks that appear on the vault walls. They fade faster than they can be written, four attempts are on file, and all four crews reported the same headache afterwards.
 
 ## Origin
 - **Formation:** The God predates the current city and was once worshipped as a deity of sorrow.
@@ -138,10 +139,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Dreams of ancient prayers become gentler. | Decrease |
-| **Pugnahan** | The vault fills with divine pressure. | Increase |
-| **Viderehan** | Reveals fragments of the first settlers' faith. | Stable |
-| **Ferrehan** | Tests whether the worker can endure a god's dream without waking it. | Decrease |
+| **Flerehan** | Dreams of ancient prayers become gentler. | Decrease · High |
+| **Pugnahan** | The vault fills with divine pressure. | Increase · Low |
+| **Viderehan** | Reveals fragments of the first settlers' faith. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can endure a god's dream without waking it. | Decrease · Common |
 
 
 
@@ -149,7 +150,7 @@
 
 No Work Type has been applied in nineteen years. The table is inherited from the original survey and the station has asked twice for it to be struck. What is tracked instead is the breathing interval — 41 seconds, unvarying — and the number of vault staff who can state, unprompted, that the holding is there. That second figure has fallen from nineteen to six.
 
-**Reading the response:** Nothing is worked, so nothing is read in the usual sense. The interval is logged twice a cycle; it has been 41 seconds on every log since the vault was sealed, and the four occasions it changed were all after somebody spoke on the gallery.
+**Reading the response:** Nothing is worked, so nothing is read in the usual sense. The interval is logged twice a cycle. It has been 41 seconds on every log since the vault was sealed, and the four occasions it changed were all after somebody spoke on the gallery.
 ## Breach Behavior
 
 > *"Seal failure is a contingency, not a recorded escape. No waking movement or target has been established."*
@@ -157,16 +158,16 @@ No Work Type has been applied in nineteen years. The table is inherited from the
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Contingency profile only. The entity has never left the vault and has never been observed awake; if the seal failed it would walk, and the facility plans for that on the strength of its coherence rather than on anything witnessed. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
+| **Movement** | Contingency profile only. The entity has never left the vault and has never been observed awake. If the seal failed it would walk, and the facility plans for that on the strength of its coherence rather than on anything witnessed. |
+| **Effect** | The vault is larger than the building permits and the god is in it. Clarity drains in the order the register was kept: first what the six witnesses said, then which six they were. |
+| **Secondary Effect** | The vault's register carries six names of people who can say the god is down there and no other account of it. The numbness follows that shape: the certainty of having known something important and the faces that went with it. |
 | **First Target** | Unestablished. The planning assumption is the nearest personnel, recorded as an assumption rather than an observation. |
 | **Escalation** | +5 Clarity drain per cycle while the interval is irregular. It has been irregular on four occasions, for a total of eleven hours, and has returned to 41 seconds each time without intervention. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape, by classification. Nothing in the record is an account of a breach; this holding is custodial and has never produced an incident.
-- **Containment priority:** Hold the seal and hold the schedule. Physical suppression is the last resort and the facility's own estimate is that it would not succeed; the measures that have worked for four thousand years are maintenance, rotation, and a rite performed on time.
+- **Containment priority:** Hold the seal and hold the schedule. Physical suppression is the last resort and the facility's own estimate is that it would not succeed. The measures that have worked for four thousand years are maintenance, rotation, and a rite performed on time.
 - **Sorrow Gauge on breach:** Projected to open at 40% and rise 10% per turn unaddressed. The figure is modelled from Sovereign comparators, is labelled as modelled everywhere it appears, and has never been tested.
 
 ## M.A.W. Equipment
@@ -177,7 +178,7 @@ No Work Type has been applied in nineteen years. The table is inherited from the
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : A tall, five-foot ceremonial sceptre made of tarnished sterling silver, crowned with an open Gothic belfry holding a silent, clapperless chime tuned to a mournful minor harmonic.
+**Appearance:** A tall, five-foot ceremonial sceptre made of tarnished sterling silver, crowned with an open Gothic belfry holding a silent, clapperless chime tuned to a mournful minor harmonic.
 
 The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striking the butt against stone sends ripples of acoustic resonance that disrupt psychic interference across twelve paces.
 
@@ -189,7 +190,7 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Ability:** Lament against the Mind. This is the vault's own gallery piece and behaves as it does elsewhere; its entry here is a reissue and is marked as one.
 
-**Cost:** Involuntary weeping without accompanying grief, which the vault's staff regard as the ordinary price of gallery duty and which is logged per shift.
+**Bearer cost:** Involuntary weeping without accompanying grief, which the vault's staff regard as the ordinary price of gallery duty and which is logged per shift.
 
 ### M.A.W. Suit — The Forgotten Shroud
 
@@ -207,7 +208,7 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Ability:** Resistance to Lament against the Mind. Issued to all three gallery posts and to nobody else; the vault does not hold a second set.
 
-**Cost:** Numbness to minor joys, and — specific to this posting — an increased rate of forgetting the holding between shifts, which is the reason the third post writes the log.
+**Bearer cost:** Numbness to minor joys, and — specific to this posting — an increased rate of forgetting the holding between shifts, which is the reason the third post writes the log.
 
 ### M.A.W. Stigma — The Forgotten Crown
 
@@ -221,7 +222,7 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Ability:** Commands hesitation and respect from nearby entities.
 
-**Cost:** The wearer hears prayers directed at the God and cannot answer them.
+**Bearer cost:** The wearer hears prayers directed at the God and cannot answer them.
 
 *The Answered Prayer is not manufactured and is not granted on request; the entity bestows it, rarely, on a crew member who has kept the lament with a full heart, and the armoury has never been able to predict one.*
 
@@ -238,7 +239,7 @@ The three pieces come from a thing that received grief for a living, and they ke
 | **At limit** | The interval departs from 41 seconds. The gallery is cleared on that alone and has been four times. |
 | **After use** | Log the two intervals and ask each of the three, separately, what holding they have just worked. Six of the nineteen staff can now answer without prompting; the figure is reported quarterly. |
 
-**Stat interpretation:** Simulation ratings are not observations of waking behavior. Gallery custody instead tracks the 41-second breathing interval, three posts, and six people who remember what is in the vault; the other numerical profiles do not authorize contact or extraction.
+**Stat interpretation:** Simulation ratings are not observations of waking behavior. Gallery custody instead tracks the 41-second breathing interval, three posts, and six people who remember what is in the vault. The other numerical profiles do not authorize contact or extraction.
 
 ## 관찰 기록 (Observation Log)
 
@@ -246,7 +247,7 @@ The three pieces come from a thing that received grief for a living, and they ke
 
 - The God has never fully awakened. It breathes at an interval of 41 seconds, and the log has run unbroken for 19 years, taken twice a cycle by a third observer whose only task it is. The series holds 4 irregularities, every one of them following speech, and the interval has needed between 40 minutes and 6 hours to return to 41 seconds.
 - Its dreams leak into the city as prayer and nightmare.
-- The Library contains scripture associated with it, and the people who could name the God are going: 19 staff could when the vault was sealed and 6 can now, against a floor of 3 below which the vault cannot staff the gallery with people who know what they are watching.
+- The Library contains scripture associated with it. And the people who could name the God are going: 19 staff could when the vault was sealed and 6 can now, against a floor of 3 below which the vault cannot staff the gallery with people who know what they are watching.
 
 **Personnel Note:** *"It was quiet. I felt sorrow. Beneath the Tree, something ancient was dreaming that we had not abandoned it."* — Researcher, R.D.
 
@@ -278,8 +279,8 @@ The grief of prayers answered by abandonment and faith forgotten after it was no
 **Entry 4 — <Containment Notice>**
 Management: Do not wake, address, or attempt extraction. Maintain the sealed vault. Work response — Flerehan: Dreams of ancient prayers become gentler. (Decrease); Pugnahan: The vault fills with divine pressure. (Increase); Viderehan: Reveals fragments of the first settlers' faith. (Stable); Ferrehan: Tests whether the worker can endure a god's dream without waking it. (Decrease). The Library contains scripture associated with it.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <— The Vault Is Half the File>**
+The chamber is larger than the building above it allows, and it registers on all four elemental scales at once. Both of those are findings about the vault rather than about the god, which is why this file’s containment section is a survey and not a lock. And why six people in the vault’s establishment can say it is down there without ever having seen it.
 
 ## 최종 관찰 (Final Observation)
 
@@ -317,10 +318,10 @@ This holding is read against the other things that predate the city or hold its 
 
 | Related entity | What it is | What the interval did | Required record |
 |---|---|---|---|
-| **The Burning Library** | Holds what was written to this entity before it was forgotten. | Four correspondences. The interval did not change; the Library produced eleven lines of liturgy and the vault has not read them aloud anywhere. | The lines, held sealed, and the interval log for the day. |
-| **The Final Door** | Sleeps in the same deep stone, two vaults over. | The only pairing with a measured effect: the Door's whisper hour and this interval have never once overlapped in nineteen years, which the Keepers treat as the most interesting negative in Zone A. | Both logs, timed and compared quarterly. |
-| **The Maw** | Also older than the records, also unforgotten by the people in it. | Three correspondences, no change either side. The thousand do not mention this entity and the Architects have searched for it. | The transcripts, with the negative recorded. |
-| **The First Tear** | Filed as resonant on grounds of age alone. | Two correspondences, nothing measured. The station notes that age is not a mechanism and has stopped scheduling the pairing. | Interval log; the entry is closed. |
+| [**The Burning Library**](SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md) | Holds what was written to this entity before it was forgotten. | Four correspondences. The interval did not change; the Library produced eleven lines of liturgy and the vault has not read them aloud anywhere. | The lines, held sealed, and the interval log for the day. |
+| [**The Final Door**](SE-C-Vδ-111_The_Final_Door_마지막_문.md) | Sleeps in the same deep stone, two vaults over. | The only pairing with a measured effect: the Door's whisper hour and this interval have never once overlapped in nineteen years, which the Keepers treat as the most interesting negative in Zone A. | Both logs, timed and compared quarterly. |
+| [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | Also older than the records, also unforgotten by the people in it. | Three correspondences, no change either side. The thousand do not mention this entity and the Architects have searched for it. | The transcripts, with the negative recorded. |
+| [**The First Tear**](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) | Filed as resonant on grounds of age alone. | Two correspondences, nothing measured. The station notes that age is not a mechanism and has stopped scheduling the pairing. | Interval log; the entry is closed. |
 
 **Interaction procedure:** Simultaneous readings on both sides of the seal, at an agreed hour, with neither party moved. That is the procedure in full and it is the reason three of the four relations are recorded as negatives.
 
@@ -364,13 +365,13 @@ Some sorrows mourn the dead. Forgotten God mourns its own obsolescence — the p
 **Observation Notes:**
 - A deity of sorrow worshipped by the first settlers.
 - The city replaced worship with systems; the God was left sleeping.
-**Cross-References:** The Alpha Tree · The First Tear · The Weeping · The Consolihan
+**Cross-References:** The Alpha Tree · [The First Tear](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) · The Weeping · The Consolihan
 **Faction Involvement:** Judexhan (δ-grade high-threat)
 **Originator:** The first settlers of Mugenhan.
 
 ### Registry Addendum
 
-**Operational interpretation:** The suppression condition is three prohibitions and the real risk is none of them. This holding has been asleep for nineteen years at 41 seconds a breath and has never been approached; what is actually happening is that the vault is forgetting it. Nineteen staff could name it when the vault was sealed and six can now. The third gallery post, the quarterly naming count and the log exist because of that, and the file's own view is that an entity which was prayed to in fear and forgotten in safety is being forgotten a second time by the people paid to watch it.
+**Operational interpretation:** The suppression condition is three prohibitions and the real risk is none of them. This holding has been asleep for nineteen years at 41 seconds a breath and has never been approached. What is actually happening is that the vault is forgetting it. Nineteen staff could name it when the vault was sealed and six can now. The third gallery post, the quarterly naming count and the log exist because of that. And the file's own view is that an entity which was prayed to in fear and forgotten in safety is being forgotten a second time by the people paid to watch it.
 
 **Review requirement:** Each cycle: two intervals, the roster showing three names, anything said on the gallery, and the quarterly count of staff who can name the holding unprompted. One standing item — if that count reaches three, the Director is notified in person, because below three the vault cannot staff the gallery with people who know what they are watching.
 ## Sovereign Chronicle
@@ -413,17 +414,17 @@ The sanctuary's strangest record is its attendance log — a book the custodial 
 
 ### The New Liturgy
 
-The maintenance lament is the Directorate's minimum payment — rostered, shortened, formally insufficient. But the custodial crews, in the long watches of the empty sanctuary, have built something more: a new liturgy, assembled from the old fragments and the necessities of the present, unauthorized and unstoppable. It borrows the priests' structure — receive, carry, release — and fills it with the city's current griefs: the unmourned dead of recent breaches, the night crews' testimony themes, the census roll's newest restorations. The crews perform it in the small hours, between rostered laments, for no log and no commendation. The sanctuary, they swear, receives it the way the God received the old rites: completely, specifically, the dark lightening around the lamps. The Directorate knows. The Directorate rosters around it — scheduling the willing together, keeping the small hours staffed, asking nothing. Officially the new liturgy does not exist. Officially the maintenance lament is sufficient. The crews keep both: the rostered rite for the record, and the real one for the God. The debt is serviced either way. The sanctuary stays dark either way. But in the small hours, the custodial crews will tell you — quietly, if you have stood the lament yourself — the God is worshipped again. Not by the city. By its keepers. For now, the keepers say, for now that is enough. The city will remember. The sanctuary can wait. It has waited this long. It is good at waiting. And the new liturgy grows, rotation by rotation, grief by grief, toward the day the congregation of one becomes two, and then many, and then — the crews do not say it aloud, but they think it every lament — the city itself, come fully home at last to the house of its sorrow, to mourn together as it was always meant to.
+The maintenance lament is the Directorate's minimum payment — rostered, shortened, formally insufficient. But the custodial crews, in the long watches of the empty sanctuary, have built something more: a new liturgy, assembled from the old fragments and the necessities of the present, unauthorized and unstoppable. It borrows the priests' structure — receive, carry, release — and fills it with the city's current griefs: the unmourned dead of recent breaches, the night crews' testimony themes, the census roll's newest restorations. The crews perform it in the small hours, between rostered laments, for no log and no commendation. The sanctuary, they swear, receives it the way the God received the old rites: completely, specifically, the dark lightening around the lamps. The Directorate knows. The Directorate rosters around it — scheduling the willing together, keeping the small hours staffed, asking nothing. Officially the new liturgy does not exist. Officially the maintenance lament is sufficient. The crews keep both: the rostered rite for the record, and the real one for the God. The debt is serviced either way. The sanctuary stays dark either way. But in the small hours, the custodial crews will tell you — quietly, if you have stood the lament yourself — the God is worshipped again. Not by the city. By its keepers. For now, the keepers say, for now that is enough. The city will remember. The sanctuary can wait. It has waited this long. It is good at waiting. And the new liturgy grows, rotation by rotation, grief by grief, toward the day the congregation of one becomes two. And then many, and then — the crews do not say it aloud. But they think it every lament — the city itself, come fully home at last to the house of its sorrow, to mourn together as it was always meant to.
 
 ### Eleven Hundred Lamps
 
 The longest continuous measurement the facility holds on any entity is not a measurement. It is a supply ledger.
 
-The Han-lamps in the sanctuary dim and brighten with the figure's breathing, and they are consumables: they burn, they are replaced, and the replacement is booked. **The lamp ledger runs unbroken for four hundred and six years** because somebody has always had to account for the stock, and it is the only series on this holding that nobody designed, nobody theorised, and nobody could bias, since the people keeping it were keeping stores and not records of a god.
+The Han-lamps in the sanctuary dim and brighten with the figure's breathing, and they are consumables: they burn, they are replaced, and the replacement is booked. **The lamp ledger runs unbroken for four hundred and six years** because somebody has always had to account for the stock. And it is the only series on this holding that nobody designed, nobody theorised. And nobody could bias, since the people keeping it were keeping stores and not records of a god.
 
 Consumption is flat. Forty-one units a year, within a narrow band, across four centuries — with a slow drift of roughly **three per cent per decade upward** that no survey has been able to attribute to the lamps, the fittings, the air, or the crews. The drift is printed and left unexplained.
 
-The one attempt to do this properly destroyed what it was measuring. Calibrated photometers were installed in the third decade of the Directorate; mounting them required moving four lamps by less than a metre, and the series from that point is not comparable with the series before it. **Eleven years of good instrumentation produced a break in the only record worth having**, and the instruments were removed by the same office that installed them, with a note that reads: *we have measured the lamps better and the God worse.*
+The one attempt to do this properly destroyed what it was measuring. Calibrated photometers were installed in the third decade of the Directorate. Mounting them required moving four lamps by less than a metre, and the series from that point is not comparable with the series before it. **Eleven years of good instrumentation produced a break in the only record worth having**, and the instruments were removed by the same office that installed them, with a note that reads: *we have measured the lamps better and the God worse.*
 
 Eleven hundred and four compatible units remain in stock. At forty-one a year that is twenty-six years and some months, and the figure is reviewed annually and has not moved in a direction anybody likes.
 
@@ -433,7 +434,7 @@ The lamps cannot simply be substituted, and the reason is a conservation rule th
 
 A structure under a conservation schedule is maintained like-for-like: original fabric, original fittings, original specification, and any departure requires the schedule to be varied. That rule is why the sanctuary still stands as it was found rather than as some past administration would have preferred it, and the wing has benefited from it for generations.
 
-Varying a schedule requires the structure to be correctly described in the estate register. **The sanctuary is not correctly described in the estate register. It is entered as a disused cistern**, at an address that leads to a service stair, and it has been entered that way since the first survey — a deliberate misdescription made for the plainest of reasons: a correctly described sanctuary is a findable one, and the thing this holding most needs is for nobody to come looking.
+Varying a schedule requires the structure to be correctly described in the estate register. **The sanctuary is not correctly described in the estate register. It is entered as a disused cistern**, at an address that leads to a service stair. And it has been entered that way since the first survey — a deliberate misdescription made for the plainest of reasons: a correctly described sanctuary is a findable one. And the thing this holding most needs is for nobody to come looking.
 
 So the position is closed in both directions. **The lamps may not be substituted while the schedule stands; the schedule may not be varied while the register is wrong; and the register may not be corrected without publishing the address of a sleeping Sovereign.** The theologians, who are consulted on everything here, declined to advise, on the ground that the question was not a theological one. The engineers' note is shorter: *in twenty-six years the lamps go out, and the paperwork will still be in order.*
 
@@ -441,11 +442,11 @@ So the position is closed in both directions. **The lamps may not be substituted
 
 The register is revised on a cycle, and each revision has to be certified by a named officer as a true record of the estate.
 
-Fourteen officers have signed it. Each of them knew the cistern entry was false when they signed, each of them signed anyway, and each of them did so in a personal capacity that the Company's indemnity does not reach — **an organisation cannot indemnify an officer against a certification it knows to be untrue**, and the wing has never pretended otherwise to anybody it has asked. The practice is that the officer is told plainly, in writing, before the file is put in front of them, and that the written warning is kept whether they sign or not.
+Fourteen officers have signed it. Each of them knew the cistern entry was false when they signed, each of them signed anyway. And each of them did so in a personal capacity that the Company's indemnity does not reach — **an organisation cannot indemnify an officer against a certification it knows to be untrue**. And the wing has never pretended otherwise to anybody it has asked. The practice is that the officer is told plainly, in writing, before the file is put in front of them, and that the written warning is kept whether they sign or not.
 
-One refused. The post was left vacant for seven months because the wing would not put forward a candidate who had not been told, and in those seven months the register went un-revised and the schedule lapsed. **The lapse is still on the file, uncorrected**, since correcting it now would require explaining the gap. The officer who refused was not moved, not marked, and still holds a senior post; the wing's standing instruction is that the refusal was legitimate and that nothing is to attach to it, ever.
+One refused. The post was left vacant for seven months because the wing would not put forward a candidate who had not been told, and in those seven months the register went un-revised and the schedule lapsed. **The lapse is still on the file, uncorrected**, since correcting it now would require explaining the gap. The officer who refused was not moved, not marked, and still holds a senior post. The wing's standing instruction is that the refusal was legitimate and that nothing is to attach to it, ever.
 
-The records office objection is minuted at every revision: a register that is wrong in one particular is a register that is wrong, and the practice of leaving this holding off the circulated inventory — adopted to limit how many people know what is in the vault — has produced a situation where six people know. The minute records the objection as correct and the practice as unchanged.
+The records office objection is minuted at every revision: a register that is wrong in one particular is a register that is wrong. And the practice of leaving this holding off the circulated inventory — adopted to limit how many people know what is in the vault — has produced a situation where six people know. The minute records the objection as correct and the practice as unchanged.
 
 ## Trivia
 
@@ -458,7 +459,7 @@ The records office objection is minuted at every revision: a register that is wr
 
 - **Classification detail:** Forgotten God is a Subject with Sovereign (V) — Autonomous, ancient, sleeping coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is All four — Lament, Grudge, Void, Weight, and its registered location is SECTOR-A-01, beneath the Alpha Tree — sealed.
-- **Recognition detail:** Identify it by the crystal plates, the prayer-light under the lids, and the dust that lifts rather than settles; never by the atmosphere of the vault, which varies with the lamps.
+- **Recognition detail:** Identify it by the crystal plates, the prayer-light under the lids, and the dust that lifts rather than settles. Never by the atmosphere of the vault, which varies with the lamps.
 - **Record detail:** The sanctuary appears on the facility register as a disused cistern, and has done since the first survey. Anybody checking the estate record against this file will find no sanctuary at that address, which is deliberate and is explained in the Sovereign Chronicle.
 - **Containment detail:** The seal is real and has never been tested. What is actually holding this holding is that nobody has spoken to it in nineteen years, which is a practice rather than a barrier, maintained by three people a shift who are increasingly the only people who know it is there.
 ## Document Information

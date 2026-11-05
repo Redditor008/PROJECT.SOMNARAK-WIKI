@@ -19,10 +19,10 @@ The Maze formed from confusion between memory, dream, and reality. The fear of n
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVγ-180 [VP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
+| Type / Manifestation | Object/Place — Non-breaching: manifestation in place / Place-Void |
 | Coherence / Potency | Entity (IV) — Self-aware, labyrinthine, trapping / Major (γ) |
 | Element / Location | Void / SECTOR-B-02, beneath Old Lament |
-| Gauge / Pressure | 683/683; starts 45–65% / 18–41 per hit · Void |
+| Gauge / Pressure | 000/750; starts 000% · Void — no attack pattern: the Maze is a place, walked and mapped; nothing in it strikes (Contact Record, R-36) |
 | Observation | 3 — Advanced |
 | Formation event | Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place. |
 
@@ -30,8 +30,8 @@ The Maze formed from confusion between memory, dream, and reality. The fear of n
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the memory architecture. (Stable) |
 | Ferrehan | Tests whether the worker can continue without a stable map. (Decrease) |
 
@@ -40,7 +40,7 @@ The Maze formed from confusion between memory, dream, and reality. The fear of n
 
 ## WITNESS RECORD — *The Labyrinth of Stolen Faces Source-Trace*
 
-During the The Labyrinth of Stolen Faces Source-Trace, the field team preserved this source fact: Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The fear of not knowing which parts of one's history are true.
+During *The Labyrinth of Stolen Faces Source-Trace*, the field team preserved this source fact: Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The fear of not knowing which parts of one's history are true.
 
 ## M.A.W. SET — *Labyrinth of Stolen Faces — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Labyrinth of Stolen Faces Source-Trace, the field team preserved 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Labyrinth of Stolen Faces's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Maintain a memory anchor and limit exploration time The set cannot heal the originating event. Misuse routes Labyrinth of Stolen Faces's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1018-A`  
-**Linked Entity:** `SE-1018`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

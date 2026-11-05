@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-W-220-01`  
 **Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — two mauls
 
@@ -31,6 +31,10 @@ The Years Maul is a matte black two-handed maul of Han steel whose striking face
 |---|---:|---|---|---:|
 | δ / Weight | 10–15 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 2 / 50 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
 **Dated Consequence:** Before striking, the wielder states the target event and surviving consequence. The Maul sends that Weight through up to three linked structures. A date without consequence produces no force; an invented date returns the blow through the bearer’s joints.
 
 **Cost:** The body grows progressively heavier and ages slightly. Repeated use makes historical time feel more real than the current room.
@@ -46,14 +50,3 @@ In *No Date Removed*, the Charm finds the omission and the Mantle distinguishes 
 **Maintenance:** Lay the Maul across two archive supports with the last affected file open beneath—but never touching—the head. Marjuk reads the date, consequence, and unresolved present duty. The shaft returns to registered length only when no euphemism remains in the entry.
 
 **Emergency shutdown:** Ground both faces on bare stone and state the current year, current location, and names of living team members. Do not erase the glowing date; let it finish.
-
----
-
-**Document ID:** `SE-220-B`  
-**Linked Entity:** `SE-220`  
-**Item Registry Code:** `MAW-W-220-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -11,6 +11,8 @@ tools/
 ├── README.md                                 # This document
 ├── audit_lore_archive.py                     # Master archive auditor (blocking merge gate)
 ├── check_box_symmetry.py                     # Text box width and border symmetry checker
+├── check_stat_bands.py                       # Sorrow Gauge base / Han Pressure inside the risk tier band
+├── check_relic_gauge.py                      # gate 93 — the charge: tier wall, 000 at rest, ## The Charge
 ├── timeline_lint.py                          # Pan-repo canon timeline & chronological validator
 ├── seam_lint.py                              # Semantic seam, editing-splice, and PM term linter
 ├── box_formatter.py                          # TablesGenerator-based 74-col grid table and ASCII box generator
@@ -33,6 +35,8 @@ tools/
 | :--- | :--- | :--- |
 | **`audit_lore_archive.py`** | Master audit across UTF-8, codices, 291 SEs, 198 MAW sets, auxiliary collections, and box symmetry. Blocks merge if any sub-check fails. | `python3 tools/audit_lore_archive.py [--json] [--verbose]` |
 | **`check_box_symmetry.py`** | Audits ASCII text boxes across all markdown files for row-length and display-width symmetry. | `python3 tools/check_box_symmetry.py [--fix]` |
+| **`check_stat_bands.py`** | Every Sorrow Entity's filed Sorrow Gauge base and `Han Pressure [ATK]` against the risk tier band of Conversion Guide §III. Tier is fixed by Coherence + Potency. **For a non-breaching relic the banded figure is the charge wall, not the resting 000** (`R-48`) | `python3 tools/check_stat_bands.py` |
+| **`check_relic_gauge.py`** | Gate 93. A non-breaching relic carries an Element-named charge (`[Pressure]` / `[Load]` / `[Depth]` / `[Saturation]`), `000 of {wall}` at rest, a wall fixed by its grade, a data-only cell under 110 characters, and a standing `## The Charge` section (`R-48`) | `python3 tools/auditors/check_relic_gauge.py` |
 | **`timeline_lint.py`** | Scans all files pan-repo for chronological contradictions against the Year 4,238 / Cycle 1,778 baseline. | `python3 tools/timeline_lint.py` |
 | **`seam_lint.py`** | Detects revision splices, punctuation collisions (`.,`), and un-whitelisted PM terminology. | `python3 tools/seam_lint.py` |
 | **`generate_canonical_metrics_registry.py`** | Inspects filesystem on disk to regenerate authoritative `CANONICAL_METRICS.json` and `CANONICAL_METRICS.md`. | `python3 tools/generate_canonical_metrics_registry.py` |
@@ -46,12 +50,33 @@ tools/
 | **`ladder.py`** | What changes with level, by Coherence rank: the stat line, breach capability, the event section, the rank record each rank adds (Watch, Warden, Apex, Sovereign Chronicle), dispositions, conformance to the conversion guide, the shared escalation figure, the relic banner vocabulary, and the dossiers whose SECC table and Registrum header disagree on comprehension level or potency. Regenerates the figures in Comparative Study 02. Reports, never edits; not part of the gate. | `python3 tools/ladder.py [--rows \| --layers]` |
 | **`wikistd.py`** | The `R-29` test: abnormality-wiki parity (nine sections), a specific management condition, an own numeric series, a classified disposition and section-cleanliness, per dossier and in total. The disposition lookup is keyed on the filename code (Document ID). | `python3 tools/wikistd.py [--gaps N \| <path>]` |
 | **`syncbranch.py`** | Brings HEAD and the working tree level with `origin/<branch>` without losing anything. If the tree is byte-identical to a commit already pushed it moves to the tip; otherwise it fast-forwards when no local edit overlaps; it refuses, with the reason, when local commits are unpushed or an edit would be overwritten. Written because two sessions can push to one branch, and `git reset --mixed` moves HEAD but not the files, so the next `git add -A` would have reverted the other session. `gate.sh` calls it first. | `python3 tools/syncbranch.py [--check]` |
+| **`fix_md_tables.py`** | Repairs the three ways a markdown table stops being a table: a stray two-cell `**Maximum Amount**` row under a wider header (lifted into its own `Field / Record` table), any other short row (missing cells added empty, never invented), and a header with no separator (separator inserted at header width). Dry run by default. Its audit half is `auditors/check_md_tables.py`, gate line 82, which skips fenced box art and splits cells on `\|`. | `python3 tools/fix_md_tables.py [--apply] [PATH ...]` |
 | **`gate.sh`** | The standing push gate: linters (each must print its explicit PASS string), unit tests, row-pipe check (run with `core.quotepath=off`, so dossiers with Greek or Hangul names are checked rather than silently skipped), breach floors (`R-28`), metrics regenerated and staged, then commit, push to the **checked-out session branch** and verify HEAD against the remote ref. Refuses `main` and `NON-WIKI`. | `bash tools/gate.sh "<commit message>"` |
 | **`tests/test_linters.py`** | Unit test suite verifying that linters catch known defects and accept valid fixtures. | `python3 -m unittest tools/tests/test_linters.py` |
 
 ---
 
 ## 3. Subdirectories
+
+### `textbox.py`
+The box and table generator. `textbox.py` builds ASCII boxes with merged cells and **verifies every row before it prints** — a box it cannot make square is refused rather than emitted. Standard library only, no dependencies.
+
+```bash
+python3 tools/textbox.py --selftest    # built-in suite; expect "selftest: ALL PASS"
+python3 tools/textbox.py --help        # full API: grid(), Table(), emit()
+python3 tools/textbox.py FILE...       # measure every box in those files
+```
+
+MD5 of the vendored file: `a9a036ec32dee36d6c7742a2ec1d5f89` (31,593 bytes, 834 lines). Re-copy from the carrier if that changes.
+
+**Never retype a box by hand.** Build it with `textbox.py`, print it, and copy the output verbatim — a box that is perfect in the file becomes crooked in transcription, and that is the failure mode `emit()` exists to prevent.
+
+Two behaviours to know before using it on this archive:
+
+- **It scrubs Unicode to ASCII** (em dash → `-`, and any wide glyph → `?`) unless `set_allow_wide(True)`. This archive's boxes legitimately carry Greek grade letters and em dashes, so a rebuilt box may need its dashes restored afterwards; a one-character-for-one-character swap does not disturb the geometry.
+- **Its viewport ceiling is 104 columns.** The archive's formatting template reserves 127–128 for tactical monitors, so raise `textbox.HARD_MAX` (and `textbox.check.__defaults__`) for those builds.
+
+`tools/check_box_geometry.py` wraps it as a gate check, filtered down to the one defect that matters here: a box whose rows do not all measure the same.
 
 ### `auditors/`
 Specialized inspection scripts for specific subsets of the archive (e.g., verifying the Two-Work-Type rule across Object/Place/Time SEs, threat tier distributions, or ordeal rosters).

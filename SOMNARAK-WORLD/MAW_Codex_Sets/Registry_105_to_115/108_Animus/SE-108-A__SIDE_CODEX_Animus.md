@@ -9,7 +9,7 @@
 **SECC Designation:** `O-Iα-108 [GS]`  
 **Author:** The Outsider Ishall  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Mantle Commons residue watch
 
@@ -21,12 +21,12 @@
 |---|---|
 | Entity | Animus — 떠도는 흔적 |
 | Sorrow Category | Outside Sorrow |
-| Type / Manifestation | Subject — Subject-Spirit |
+| Type / Manifestation | Subject — Non-breaching: possession only (Subject-Spirit) |
 | Coherence / Potency | I — Residue / α — Minor |
 | Element | Grudge |
 | Location | Zone D, Mantle Commons |
 | Form | A thin red heat-line in the air, with a faint voice traveling along the path of someone still walking after they are gone. |
-| Gauge / pressure | 25–40% / Grudge 3–10 |
+| Gauge / pressure | 25–40% / no hit band — the pressure is a cause taken into the warden who answers |
 | Comprehension Level | 1 — Observed |
 | M.A.W. Set | Lost Cause |
 
@@ -61,10 +61,10 @@ Animus has no stable face or body. A red line appears along a wall, through a cr
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Slows and recognizes shared grief. | Down | Admit that anger can exist without a usable origin story. |
-| Pugnahan | Ancient fury flares. | Up | Do not demand a cause merely to make the anger manageable. |
+| Flerehan | Slows and recognizes shared grief. | Decrease | Admit that anger can exist without a usable origin story. |
+| Pugnahan | Ancient fury flares. | Increase | Do not demand a cause merely to make the anger manageable. |
 | Viderehan | Reveals fragments without a complete cause. | Stable | Preserve fragments as fragments; no analyst may assemble certainty from them. |
-| Ferrehan | Tests whether a worker can endure anger without inheriting it. | Down | Pair workers with a resentment check before leaving the Commons. |
+| Ferrehan | Tests whether a worker can endure anger without inheriting it. | Decrease | Pair workers with a resentment check before leaving the Commons. |
 
 ### Transform response
 
@@ -85,7 +85,7 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Phantom Blade-Array | α | Grudge | Tracks active Grudge residue to one target without assigning blame or identifying a culprit | `SE-108-B__MAW-W_The_Trace_Fang.md` |
+| Weapon | The Phantom Blade-Array | α | Grudge | Tracks active Grudge residue to one target without assigning blame or identifying a culprit | `SE-108-B__MAW-W_The_Phantom_Blade_Array.md` |
 | Suit | The Trace Plate | α | Grudge | Low-grade protection against inherited Grudge | `SE-108-C__MAW-S_The_Trace_Plate.md` |
 | Stigma | The Trace Ember | α | Grudge | Reveals emotional residue without a false causal story | `SE-108-D__MAW-G_The_Trace_Ember.md` |
 
@@ -105,7 +105,7 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 
 **Quick effect:** One of the three knives marks active residue pressure and distinguishes a present response from clinging past Grudge; it does not establish responsibility.
 
-**Weapon-title review (2026-10-11):** `O-Iα-108`’s primary M.A.W. block, the current `SE-108-B` heading and three-knife Appearance, the Master Registry and table row, the `MAW-W-108` archetype, and same-code revision `3abe5470` support *The Phantom Blade-Array*. Master M.A.W. Codex Entry 694 and the linked item’s Official name, Resting / Active forms, and Fang-specific Basic Attack / History still call it *The Trace Fang* and describe a red-thread/fang form. Keep that legacy identity/form conflict held; no Trace-Fang-to-three-knives transition or separate fang mode is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `O-Iα-108`’s primary M.A.W. block, the current `SE-108-B` heading and three-knife Appearance, the Master Registry and table row, the `MAW-W-108` archetype, and same-code current revision support *The Phantom Blade-Array*. Master M.A.W. Codex Entry 694 and the linked item’s Official name, Resting / Active forms, and Fang-specific Basic Attack / History still call it *The Trace Fang* and describe a red-thread/fang form. Keep that legacy identity/form conflict held; no Trace-Fang-to-three-knives transition or separate fang mode is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 
@@ -170,13 +170,3 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 **Entity links:** The Rusted Soul; The Angry Maiden; The Forgotten Soldier.  
 **Border note:** Outside origin does not justify automatic hostilization; the trace is watched and contained without assigning a foreign community as its missing cause.  
 **Item links:** `SE-108-B`, `SE-108-C`, and `SE-108-D` contain individual use limits for Lost Cause.
-
----
-
-**Document ID:** `SE-108-A`  
-**Linked Entity:** `SE-108`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-250 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on memory accumulation beyond the city's capacity |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Echo (II) — Repeats falling |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A slow fall of droplets that are not water: each a glassy bead the size of a tear, suspending inside it a fragment of a face, a lock of hair, a strip of skin, a voice made visible. They drift rather than drop, and on contact dissolve, releasing the memory into whoever they touch. The beads are cool and faintly sweet-smelling, like rain on old flowers. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone D, Echo Gardens — periodic |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -27,10 +27,12 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per successful work cycle, read at the trough of a fall rather than against the day's total |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the counter** — intensity rises through a Sorrow Tide while the interval between falls does not move, so a heavier week is not a faster one. |
+| **Work Damage** | 1–3 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a fall that keeps a period and never becomes constant. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter; activates on memory accumulation beyond the city's capacity |
 | **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -44,51 +46,58 @@
 - No breach counter exists here. What gets logged is the gap between falls, because the gap is the one number on this file that has ever been seen to move.
 - What the fall leaves is drawn out of standing water, and only under separate authorisation.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types — the lower figure taken while the falls are still standing, the higher once the ground has begun to dry |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats falling |
-| **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens — periodic |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*. And the Weather is rain: it falls where it falls, nothing in it chooses a body. And nothing here has ever travelled toward a person. The one sharp thing in the record is a drop of its own rain hardening on the way down, which is a hazard of standing under it and not a blow from the holding.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A fall over Zone D that lands memories instead of water — each drop carrying a recollection somebody had forgotten, thickening into a downpour of different griefs, and widening across the Gardens until nobody can say which recollection is theirs. |
+| **Perceptible to** | The first drop on the skin, and inside it something the visitor had put down years ago. Then the saturation, as every drop is a different loss and the visitor is standing in all of them at once. |
+| **Handling** | Collect drops carefully and provide identity anchors. The rate, extent and duration of the fall can be catalogued and the beads cannot: nothing inside one has ever been written down on purpose, and the worker's whole job is to hold on to which life is theirs. — see `## Handling Process` |
+| **Activation threshold** | No breach counter; activates on memory accumulation beyond the city's capacity |
+| **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone D, Echo Gardens — periodic |
 | **Resolution Condition** | Collect drops carefully and provide identity anchors |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Drop* [**Debuff**] } | "A drop of rain lands on you — and inside it, a memory you had forgotten." | [The Rain begins; each drop carries a recollection.] | *Target suffers -10 Composure; old memories surface unbidden.* **[10 Lament DMG [Lament]]** | When the Rain begins to fall. |
-| { *The Downpour* [**Debuff**] } | "The rain thickens — and every drop is a different grief, a different loss." | [The Rain intensifies; the target is saturated with memories.] | *Target loses 10 Composure; the flood of recollection is overwhelming.* **[10 Lament DMG [Lament]]** | When the target stands in the Rain. |
-| { *The Sharp Drop* [**Attack**] } | "A raindrop hardens mid-fall — becoming a needle of condensed memory." | [A crystallized memory-drop strikes.] | *Inflicts Lament pressure and one small, precise wound of recalled pain.* **[14-22 Lament DMG [Lament]]** | When the Rain is disturbed. |
-| { *The Full Deluge* [**Attack**] } | "Every memory the rain ever held — released at once, a waterfall of pure recollection." | [Every fall the Gardens have held since the last clear season comes down at once, sieving through whoever is standing under it.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15% as the recollection takes hold.* **[24-36 Lament DMG [Lament]]** | When the Rain is struck. |
-| { *The Flooded Mind* [**Ultimate**] } | "Everyone is caught in the rain now — and no one can tell whose memories are whose." | [The fall widens until the whole field is under it, and nobody can say which recollection is theirs.] | *All in range suffer Lament pressure for three turns while the rain keeps falling on them.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the fall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Drop* [**Register**] } | Lands one drop carrying a forgotten recollection, and the visitor has it back whether or not they wanted it; old memories surface unbidden. | Records the rate, extent and duration of the fall before anybody stands in it, and marks the two identity anchors each worker will hold for the turn. | The fall is catalogued and the beads are not. That distinction is the whole of the method here: what can be measured is the weather, and what cannot be written down is the thing inside the drop. |
+| { *The Downpour* [**Exposure**] } | Thickens until every drop is a different grief and a different loss, so that standing in it is standing in a hundred bereavements at once. | Ends the turn on the timekeeper's allowance rather than on a complaint, and takes the worker out under cover rather than under a coat. | Clarity shatters while the gauge climbs, and the file enters both on the same line because neither arrives alone. The turn is timed for that reason and is not extended for a dry one. |
+| { *The Sharp Drop* [**Refusal**] } | Hardens one of its own drops on the way down into a needle of condensed memory, which stings wherever it lands and leaves a small precise wound of recalled pain. It does not lift, aim or throw: the drop was already falling. | Works under cover where cover exists, keeps hands and faces out of the fall, and treats a stung worker as weather-injured — cleaned, dressed, and off the fall for the turn. | This is the row that reads like an attack and is not one. What a drop can do is land. The record has no case of a needle going anywhere but down, which is why the response is cover and not confrontation. |
+| { *The Flooded Mind* [**Overload**] } | Widens until the whole field is under it, and nobody under the fall can say which recollection belongs to whom. | Clears the field, stops the catalogue, and re-establishes identity anchors for everybody who was standing in it before anybody is debriefed. | A cycle left unfinished is not a cycle that lapses: the rain keeps falling with nobody standing in it, and it spreads. That is why the field clears and the anchors come first, and why the debrief waits until each person can say whose life is theirs. |
 
-1. **Tension:** What identifies the holding is a clear sky and what sits in the beads beneath it. Several records in the Gardens carry memory; this is the one that arrives from nowhere and is gone inside an hour. The positions and the withdrawal are set before the cycle opens.
-2. **Clash:** There is nothing to fight. The fall keeps its own rate, the crew works under it inside the time limit, and the only decisions on the table are how long to stay and whether anybody gets called out early.
-3. **Resolution:** The cycle closes when the drops have been lifted one at a time and every bearer has had an identity anchor in hand before the fall ends — the file's documented suppression condition: **collect drops carefully and provide identity anchors**. What crews get wrong is the word 'carefully': the drops are not dangerous to touch, they are dangerous to keep, and the anchor is what stops a bearer from filing somebody else's memory as their own.
+### Watch Sequence
+
+1. **What is confirmed:** the rate, extent and duration of the fall, the two identity anchors each worker will hold, and the timekeeper's allowance for the turn.
+2. **What the watch does:** Viderehan for the catalogue of the fall and Ferrehan for standing under it holding on to which life is theirs, with nothing inside a drop written down on purpose.
+3. **How it closes:** **Collect drops carefully and provide identity anchors** — and a turn ends when the timekeeper calls it, not when the worker has gathered enough.
 
 ### Consequences
 
@@ -98,7 +107,7 @@
 - A cycle left unfinished is not a cycle that lapses: the rain keeps falling with nobody standing in it, and it spreads — the boundary gives, the ground takes in more, and the crew does not decide how fast any of it goes.
 
 ## Appearance
-**Physical Form:** Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling.
+**Physical Form:** Rain with no cloud and no sky, arriving drop by drop out of still air and stopping a hand's width above the ground. Each drop is a glassy bead the size of a tear, cool, faintly sweet — the smell of rain on old flowers. Inside each one is something: a face, a strip of a room, a voice held in the bead's curve. The drops that break give up what they carried and are gone; the ones that land whole lie on the stone and keep it.
 
 **Notable Features:** It falls from clear skies, dissolves into vision on contact, and covers the Gardens in tiny memories.
 
@@ -106,7 +115,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
-- **Primary marker:** Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling.
 - **Position / movement:** The manifestation remains above the Echo Gardens while its falling area can widen across the paths. The tear-sized beads themselves drift downward. Record both the footprint and this local drift: stationary Place weather does not mean its droplets are motionless, and a wider fall is not a travelling creature.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Echo Gardens — periodic
@@ -115,13 +123,12 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling. |
 | **Position / movement** | Fixed above the Gardens; the fall spreads outward and the beads drift rather than drop. Extent is recorded against the paths and nothing is recorded as movement. |
 | **Material / signature** | Lament. Glassy beads the size of a tear, cool, faintly sweet like rain on old flowers, each holding a face or a voice or a strip of skin. |
 | **Distinctive markers** | A fall from a clear sky, and contents visible inside each bead. Nothing else in Zone D rains, and no other rain can be looked into. |
 | **Identification** | Before anything is entered as a fall, the designation, the form and the sky are all checked against the day book: ordinary weather over the Gardens has twice been filed as a fall here, and both entries had to be withdrawn. |
 
-**Appearance protocol:** Record the fall and not the contents. Duration, intensity against the municipal gauge, extent across the Garden paths, the clarity of the sky above it, and the interval since the last fall. What is inside the beads is not recorded at all: the fragments belong to people the facility cannot identify, no method of preserving one has ever worked, and a description written from a dissolved drop is a stranger's life summarised by somebody who held it for a second and a half. Wardens are not asked what they saw and the form has no field for it.
+**Appearance protocol:** Record the fall and not the contents. Duration, intensity against the municipal gauge, extent across the Garden paths, the clarity of the sky above it, and the interval since the last fall. What is inside the beads is not recorded at all: the fragments belong to people the facility cannot identify, no method of preserving one has ever worked. And a description written from a dissolved drop is a stranger's life summarised by somebody who held it for a second and a half. Wardens are not asked what they saw and the form has no field for it.
 
 **Distributed form:** The visible faces, hair and skin are fragments inside droplets, not evidence of people housed in a rain-body. There is no single head, torso or walking support to find above the paths: identify this Place by the spread of the fall, the individual drifting beads and their change on contact. Fallen crystals and a touched vision are different recorded outcomes, not proof that every bead survives handling. Keep the clock, intensity and footprint together; shelter and an apparently gentle fall do not establish which memories are the worker’s own.
 
@@ -130,26 +137,26 @@
 - **The Sorrow:** The weight of too many lives pressing upward until the sky had to release them.
 - **The Event:** The city's accumulated memories condensed above Zone D and began falling as crystalline rain.
 - **The People:** Nobody. The commissioning material is demographic rather than personal — registers, density figures, raw counts for the period — and the archivist's note observes that the folder contains no individual story at all, which is correct, the entity having been made by a quantity rather than by a person.
-- **Expanded origin context:** The commissioning folder holds registers, density figures and raw counts rather than one originator’s story. Beneath the city, the Weeping carries residues of lives as well as sorrow; above the Echo Gardens, their accumulated pressure exceeded what the ground could hold. On the first still night the stars blurred and slow blue, luminous crystals began to fall. A touched bead returns a stranger’s face, voice, place or feeling rather than the collector’s own past. The Keepers log the dates while citizens buy umbrellas that keep nothing out. This is a quantity of lives becoming periodic weather, not an identified person transformed into a rain-bearing creature. The Watch’s demographic account and the Tale’s overloaded river explain the same collective origin without making any one fragment the biography of the whole holding.
+- **Expanded origin context:** The commissioning folder holds registers, density figures and raw counts rather than one originator’s story. Beneath the city, the Weeping carries residues of lives as well as sorrow. Above the Echo Gardens, their accumulated pressure exceeded what the ground could hold. On the first still night the stars blurred and slow blue, luminous crystals began to fall. A touched bead returns a stranger’s face, voice, place or feeling rather than the collector’s own past. The Keepers log the dates while citizens buy umbrellas that keep nothing out. This is a quantity of lives becoming periodic weather, not an identified person transformed into a rain-bearing creature. The Watch’s demographic account and the Tale’s overloaded river explain the same collective origin without making any one fragment the biography of the whole holding.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A fall over Zone D that lands memories instead of water — each drop carrying a recollection somebody had forgotten, thickening into a downpour of different griefs, and…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | The fall can be catalogued — rate, extent, duration — and the beads cannot. Nothing inside one has ever been written down on purpose. | Stable |
-| **Ferrehan** | The worker stands under it holding on to which life is theirs, for as long as the timekeeper allows and not a minute longer. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the rate, extent and duration of the fall, the two identity anchors each worker will hold, and the timekeeper's allowance for the turn. |
+| **Handling** | The watch records the rate, extent and duration of the fall before anybody stands in it, and marks the two identity anchors each worker will hold for the turn. |
+| **Withdrawal** | **Collect drops carefully and provide identity anchors** — and a turn ends when the timekeeper calls it, not when the worker has gathered enough. |
+| **Refusal** | Works under cover where cover exists, keeps hands and faces out of the fall, and treats a stung worker as weather-injured — cleaned, dressed, and off the fall for the turn. |
 
-
-### Operational Work Notes
-
-Memory Rain is an Object/Place with Place-Lament manifestation and Lament expression, held as periodic weather above the Echo Gardens rather than inside anything. Viderehan catalogues the fall; Ferrehan is standing under it without losing hold of whose life is whose. Neither alters the volume and neither has ever altered the period.
-
-**Reading the response:** Read it in the interval and nowhere else. A good cycle shows up weeks later as a longer gap before the next fall, which is the single measurable effect this holding produces; the volume when it comes is unchanged, and the Gardens are covered to the same depth as always. A worker who reports that the rain felt lighter has reported their own condition, and that is logged separately and taken seriously, but it is not a reading.
 ## Expansion Behavior
+
+> **Special activation — no counter.** Filed trigger: *"memory accumulation beyond the city's capacity"*.
+
+
+
+
 
 | Field | Detail |
 |---|---|
@@ -187,7 +194,7 @@ What climbs here is particular to this holding and to nothing else in the file. 
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : A flared-muzzle bronze hand-cannon incorporating a glass lantern chamber beneath the barrel, ignited by an enclosed wheel-lock mechanism and operated via a curved finger lever.
+**Appearance:** A flared-muzzle bronze hand-cannon incorporating a glass lantern chamber beneath the barrel, ignited by an enclosed wheel-lock mechanism and operated via a curved finger lever.
 
 The cannon fires incandescent phosphor pellets that illuminate dark chambers with blinding golden flare. The flame inside the underbarrel lantern flickers in rhythm with nearby sorrow activity.
 
@@ -199,7 +206,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Memory Rain's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Bearer cost:** The wielder counts the lantern's flicker instead of sleeping, because the flicker is the only reading the piece gives and it is worst in a quiet room.
 
 ### M.A.W. Suit — The Memory Umbrella
 
@@ -217,7 +224,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Ability:** Protects the wearer from memory-based attacks.
 
-**Cost:** The umbrella fills with memories that must later be processed.
+**Bearer cost:** The umbrella fills with memories that must later be processed.
 
 ### M.A.W. Stigma — The Memory Charm
 
@@ -231,11 +238,11 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Ability:** Grants a minor boon tied to Memory Rain's sorrow; the effect mirrors the entity's nature.
 
-**Cost:** The bearer weeps in their sleep.
+**Bearer cost:** The bearer checks standing water for warmth out of habit, and after enough cycles is checking rooms for the same thing.
 
 *Nobody issues the Charm. It settles on whoever stands a fall from beginning to end — eleven of sixty-one falls on record, the only regularity this file has ever found, and useless to plan around.*
 
-**Linked equipment handling:** The Requiem’s suspended drop and the Umbrella’s channelled canopy adapt the rain into equipment rather than reproduce the weather’s scale. Their linked records require current identity anchors: the blade separates an invasive memory, not the host’s own past; the canopy retains caught fragments and must not be folded while loaded; the Charm restores a current self-fact without proving every other memory false. Keep the blade’s foreign grief, the canopy’s processing debt and the Charm’s sleep-tears distinct. Those linked care instructions do not settle the local prohibition on collection, content recording or Archive transfer. Nor do they establish the Requiem as a transformed Vigil Hand-Cannon: that same-item identity remains unresolved.
+**Linked equipment handling:** The Requiem’s suspended drop and the Umbrella’s channelled canopy adapt the rain into equipment rather than reproduce the weather’s scale. Their linked records require current identity anchors: the blade separates an invasive memory, not the host’s own past. The canopy retains caught fragments and must not be folded while loaded. The Charm restores a current self-fact without proving every other memory false. Keep the blade’s foreign grief, the canopy’s processing debt and the Charm’s sleep-tears distinct. Those linked care instructions do not settle the local prohibition on collection, content recording or Archive transfer. Nor do they establish the Requiem as a transformed Vigil Hand-Cannon: that same-item identity remains unresolved.
 
 ### M.A.W. Use Notes
 
@@ -252,7 +259,7 @@ Every piece in this set comes out of standing water, drawn under separate author
 
 **Stat interpretation:** Grade and risk are separate measures. The damage line records what the holding does to an entity, while what the bearer takes on runs on another and frequently heavier axis: a low-rated piece can carry a severe personal cost, and the cost column is the one to read first.
 
-**Full-set source review (2026-10-13):** Reviewed the grade overview, all local M.A.W. pieces, Use Notes, Field Use Record, Stat interpretation, and the separate claim that crystallized sorrow returns through the weapon into the bearer. Exact join: Side `SE-250-A` (`C-IIβ-250 [LP]`, `4/4`, assigning `SE-250` to Memory Rain), with `SE-250-B/C/D`; Registry rows 542–545; Master M.A.W. rows/details 148–150; Entity Codex row 414 / Tale 50; and archetype `MAW-W-250`. The local Weapon’s Lament 5–9 / Normal 2 / Short 2 / max 4 / 25-Echo core agrees with Side A/B. Hold local *Vigil Hand-Cannon* and W-250’s flared bronze hand-cannon against exact linked *Memory Requiem* and Master row 148’s Requiem/Resonant-Blade category and Entry 148; no transition or shared 250-number bridge establishes one form. The separate `SE-260-B` *Memory Requiem* is not this pair. Suit resistance values align; the Master table’s Living-Chitin classification does not explain the cloth canopy and was not used to recast it. Tail / 5% Stigma align; its effect now names +1 Clarity from Side A/D. The Registry’s Weapon data are variable and its Gift slot generic. No linked evidence file changed. This is the first source-led disposition for exact `SE-250-B`.
+**Full-set source review (Year 4238):** Reviewed the grade overview, all local M.A.W. pieces, Use Notes, Field Use Record, Stat interpretation, and the separate claim that crystallized sorrow returns through the weapon into the bearer. Exact join: Side `SE-250-A` (`C-IIβ-250 [LP]`, `4/4`, assigning `SE-250` to Memory Rain), with `SE-250-B/C/D`; Registry rows 542–545; Master M.A.W. rows/details 148–150; Entity Codex row 414 / Tale 50; and archetype `MAW-W-250`. The local Weapon’s Lament 5–9 / Normal 2 / Short 2 / max 4 / 25-Echo core agrees with Side A/B. Hold local *Vigil Hand-Cannon* and W-250’s flared bronze hand-cannon against exact linked *Memory Requiem* and Master row 148’s Requiem/Resonant-Blade category and Entry 148. No transition or shared 250-number bridge establishes one form. The separate `SE-260-B` *Memory Requiem* is not this pair. Suit resistance values align; the Master table’s Living-Chitin classification does not explain the cloth canopy and was not used to recast it. Tail / 5% Stigma align; its effect now names +1 Clarity from Side A/D. The Registry’s Weapon data are variable and its Gift slot generic. No linked evidence file changed. This is the first source-led disposition for exact `SE-250-B`.
 
 
 ## 관찰 기록 (Observation Log)
@@ -261,7 +268,7 @@ Every piece in this set comes out of standing water, drawn under separate author
 
 - Intensity rises through a Sorrow Tide while the interval does not move, which is the clearest evidence that volume and period are separate properties.
 - The beads crystallise where they land and persist a few hours, and the Gardens are left scattered with them until they go.
-- A heavy fall will carry an unanchored worker through a dozen lives at once; the sign is stillness rather than distress, and the call comes from outside.
+- A heavy fall will carry an unanchored worker through a dozen lives at once. The sign is stillness rather than distress, and the call comes from outside.
 
 **Personnel Note:** *"Every drop was a life and the sky had run out of room to keep them. One landed on my wrist and I was somebody's mother for a second and a half. I have asked twice, in writing, to be allowed to stand a fall without the hood."* — Specialist, Zone D, Echo Gardens
 
@@ -276,7 +283,7 @@ Every piece in this set comes out of standing water, drawn under separate author
 | **Activation or escalation** | Heavier fall than the unanchored can carry. The sign is a worker going quiet and still rather than distressed, and the call to withdraw is made by the person outside the fall, never by the person in it. |
 | **Post-contact review** | Interval logged, intensity logged, the hood checked, and the worker asked nothing about what they saw. Weeping afterwards is recorded as having occurred and is not investigated. |
 
-**Observation method:** Log the start of the fall, the intensity against the municipal gauge, the extent, and the interval since the last. The timekeeper stands outside the fall and calls the limit; the limit is not extendable by the person under it and the two wardens who asked are both named in the file at their own request. Nothing is asked about contents, and nothing offered is written down.
+**Observation method:** Log the start of the fall, the intensity against the municipal gauge, the extent, and the interval since the last. The timekeeper stands outside the fall and calls the limit. The limit is not extendable by the person under it and the two wardens who asked are both named in the file at their own request. Nothing is asked about contents, and nothing offered is written down.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -311,7 +318,7 @@ A bead on the hand becomes a child's laugh. The next becomes a soldier's goodbye
 
 
 
-**At first contact:** Look above the Garden paths: a clear sky, then slow glassy beads drifting at head height, each tear-sized and holding a face, a voice, a place or a feeling. They are cool and smell faintly of rain on old flowers. A bead touching skin dissolves into a brief foreign recollection without wetting the worker; beads left on the ground are recorded as crystallising. Log sky, start time, intensity and extent, not a stranger’s story. The timekeeper stays outside the fall and calls the limit; the worker beneath it cannot extend that limit, even to try again for a fragment already lost.
+**At first contact:** Look above the Garden paths: a clear sky, then slow glassy beads drifting at head height, each tear-sized and holding a face, a voice, a place or a feeling. They are cool and smell faintly of rain on old flowers. A bead touching skin dissolves into a brief foreign recollection without wetting the worker; beads left on the ground are recorded as crystallising. Log sky, start time, intensity and extent, not a stranger’s story. The timekeeper stays outside the fall and calls the limit. The worker beneath it cannot extend that limit, even to try again for a fragment already lost.
 
 **With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Lament; it is this entity's Lament — shaped by its origin, its wound, its particular grief.
 
@@ -328,7 +335,7 @@ Three records are kept within reach of the Gardens — The Memory Lake, The Sing
 
 ### Entity Interaction Record
 
-Among the Gardens’ memory-bearing files this is the one that comes to the district instead of waiting to be found. Every relation below has been watched and written up; none is settled, and none has yet moved the period — the only result this post would accept as an answer.
+Among the Gardens’ memory-bearing files this is the one that comes to the district instead of waiting to be found. Every relation below has been watched and written up. None is settled, and none has yet moved the period — the only result this post would accept as an answer.
 
 | Holding on file | How it has met a fall | What the watch has seen change | What must be entered |
 |---|---|---|---|
@@ -340,23 +347,36 @@ Among the Gardens’ memory-bearing files this is the one that comes to the dist
 
 ## 이야기 (Narratio) — The Tale
 
-The city remembers more than it can hold.
+> **Report of:** Wardens' Office, Echo Gardens station, Zone D. Watch of the 14th, Year 4,236.
+> **Occasion:** rain with no cloud, over the Gardens, eleven hours and continuing.
+> **Purpose:** because the Directorate has asked twice whether it is dangerous and the answer
+> we have given twice was not an answer.
 
-Nobody in Somnarak leaves nothing behind. Sorrow the Weeping drinks, but memory too: a mother’s face, the sound of a name, the weight of a hand that was held and then let go. Those sink as well, down through streets and foundations and vaults, into the slow cold river under the city, and the Weeping carries them the way it carries everything — without complaint, for four thousand years.
+It began on a still night with no wind and no cloud on the Gardens, and it has not stopped.
+Water comes down out of clear air to a height of about a hand above the paving and stops
+there as beads, and each bead is cool in the palm, and each bead smells faintly of rain on
+old flowers. When a bead breaks it gives up what it was holding.
 
-But rivers rise.
+What it holds is a memory. Not a whole life: a face at a table, the sound of a name, a room
+with someone in it. The wardens on the first watch thought they were being shown their own
+recollections and reported as much, which is why the first three entries in this file are
+wrong. They are not ours. The station has established that by taking the beads in a room the
+watcher has never been in and getting a scene the watcher has never seen.
 
-Above the Echo Gardens — the quiet district in Zone D where the Weeping’s sorrow already comes up as crystal — the memories of generations piled past what the ground could hold. Too many lives, too many faces, too many names said for the last time and never again. The pressure grew the way water pressure grows: evenly, invisibly, until something gave.
+The rain is not dangerous. It has injured nobody. The Directorate is asked to note what it
+does instead: it deposits. Every bead that lands whole stays on the paving and keeps what it
+holds, and the paving is now full, and the Gardens are being walked on at a height of two
+centimetres above where they used to be. We have stopped clearing it. The last crew we sent
+with a shovel came back with a face they could not identify and would not stop describing.
 
-What gave was the sky.
+The station's recommendation is that the Gardens be closed to the public, which is a
+recommendation the Directorate has already declined once. I am putting it in the file a
+second time with the reason attached. The reason is that a city which cannot hold its own
+memories is now storing them on the ground outside, in the open, where anybody may walk.
 
-One still night, with no sign any Warden could have read, the air over the Echo Gardens thickened. People looked up and saw the stars blur, and then the first crystals came down — slow, blue, luminous, each the size of a tear. They were not water. They were memory, forced out of the Weeping’s overload and handed back to the air. Memory Rain had started.
+*— Warden's Office, Echo Gardens, Year 4,236. Attached: hourly bead counts, the three
+corrected first-watch entries, and the shovel crew's statement, taken under seal.*
 
-Nobody caught in it gets wet; they remember. A face surfaces that is not theirs — a stranger’s grandmother, a child a century dead, a wedding in a district torn down before they were born. The memories are sharp and short, gone by morning, leaving the ache of having held a life that was never yours. The Rain falls on its own period now, whenever the city’s store of memory runs over. The Keepers write the dates down. The citizens buy umbrellas that keep nothing out.
-
-This is a Place entity, and what it is, is weather — the city’s grief made visible as a condition rather than a creature. It injures nobody. It only reminds: under Somnarak runs a river crowded with every life ever lived here, and a river can hold only so much before it gives part of it back.
-
-Some sorrows are held inside. Memory Rain is what the city looks like when it can hold no more.
 ## 증언 (Testimonium) — The Testimony
 
 > *“A drop showed me a mother’s lullaby. Another showed me a lover’s goodbye.”* — Citizen, Zone D
@@ -382,21 +402,21 @@ Some sorrows are held inside. Memory Rain is what the city looks like when it ca
 **Observation Notes:**
 - Condensed above the Echo Gardens from the city’s accumulated memories.
 - Falls periodically when the city’s memory reservoir overflows.
-**Cross-References:** Echo Gardens · The Weeping · The Memory Well · The Memory Lake
+**Cross-References:** Echo Gardens · The Weeping · The [Memory Well](SE-C-IIIγ-115_Remembrance_기억의_우물.md) · The [Memory Lake](SE-C-IVγ-270_Memory_Lake_기억의_호수.md)
 **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · Wound Walkers, on the Fracture reading and what it does to the interval
 **Originator:** Collective; formed from the accumulated memories of every citizen who has lived in Somnarak.
 
 ### Registry Addendum
 
-**Operational interpretation:** This is weather and the file is a weather log with a conscience. There is no containment, no seal, no counter and nothing to approach; the entity arrives over the Gardens, falls for as long as it falls, and leaves small memories lying about until they go. What the document is actually for is the handling of what the fall does to people, and on that it is specific: nothing is collected, nothing is examined, nothing is asked, and the single container of material that was gathered before the rule existed stays sealed in the inventory with that note against it. Where the entity does something this file does not describe, write it down and leave the contradiction standing.
+**Operational interpretation:** This is weather and the file is a weather log with a conscience. There is no containment, no seal, no counter and nothing to approach. The entity arrives over the Gardens, falls for as long as it falls, and leaves small memories lying about until they go. What the document is actually for is the handling of what the fall does to people. And on that it is specific: nothing is collected, nothing is examined, nothing is asked. And the single container of material that was gathered before the rule existed stays sealed in the inventory with that note against it. Where the entity does something this file does not describe, write it down and leave the contradiction standing.
 
 **Review requirement:** After every fall: interval, duration, intensity, extent, personnel present, and the time each of them was called out. Three further items apply here. The sealed container is confirmed present and unopened at each inventory, by two people, and the confirmation is the whole of the inspection. Any request to stand a fall unhooded is logged with its refusal attached, both kept unredacted at the requester's wish. And the weeping reported after a fall is counted but never followed up, because following it up would mean asking what the worker saw.
-- The file keeps its figures in numerals so the register can be read against them: gauge 415/415 · pressure 10–23 per hit, Lament element, resistance 25 / 15 per cent · yield 12–18 per cycle · Lament weapon 5–9 at 25 Echoes · suit 20 · Max 4 pieces · acquisition 5 per cent.
+- The file keeps its figures in numerals so the register can be read against them: gauge 415/415 · Lament element, resistance 25 / 15 per cent. And no pressure figure — the fall is measured by rate, extent and duration · yield 12–18 per cycle · Lament weapon 5–9 at 25 Echoes · suit 20 · Max 4 pieces · acquisition 5 per cent.
 ## Watch Record
 
 ### Rain From a Clear Sky
 
-It comes down over the Gardens out of a clear sky; every fall is logged by how long it lasted and how hard it fell, read against a simple gauge. The gauge is the standard municipal pattern, obtained rather than built, so that the numbers could be lined up with ordinary rainfall records. Somebody did line them up. The comparison found nothing, and it occupies one line of the file.
+It comes down over the Gardens out of a clear sky. Every fall is logged by how long it lasted and how hard it fell, read against a simple gauge. The gauge is the standard municipal pattern, obtained rather than built, so that the numbers could be lined up with ordinary rainfall records. Somebody did line them up. The comparison found nothing, and it occupies one line of the file.
 
 ### Each Drop a Fragment
 
@@ -414,7 +434,7 @@ The city took on more memory than it could hold and the surplus condensed over Z
 
 The fall cannot be stopped, shortened, lightened or moved. The one number that answers to anything the facility does is the gap between falls.
 
-**Sixty-one falls on record. Mean interval twenty-three days; shortest four; longest seventy-one.** A completed cycle pushes the next fall back by about six days on average, and does nothing else: the volume is unchanged, the extent across the paths is unchanged, and the depth of beads left on the Gardens afterwards is the same as it has always been.
+**Sixty-one falls on record. Mean interval twenty-three days; shortest four. Longest seventy-one.** A completed cycle pushes the next fall back by about six days on average. And does nothing else: the volume is unchanged, the extent across the paths is unchanged. And the depth of beads left on the Gardens afterwards is the same as it has always been.
 
 During a Sorrow Tide the intensity climbs and the gap between falls stays where it was, which is how the wing learned the two properties are distinct. Eleven of the sixty-one falls left a Charm on someone who stood the whole of it, and nothing has been found that those eleven share.
 
@@ -424,7 +444,7 @@ The facility's safety schedule grants recovery time, screening and hazard bandin
 
 The rule is sound and the file does not try to weaken it. Entitlements granted on impression multiply without end, every holding is certain its own exposure is the worst in the wing, and the people who pay for it are the ones with a measurable injury who arrive to find the budget already gone. The medical office applies the rule correctly and has never been accused of anything else.
 
-Nothing has ever been proved here. People come out of a fall turned around, and about **one in four cries afterwards without being able to say why**; the examinations come back clean, every time, across sixty-one falls. The hoods exist to stop a worker catching beads, not to prevent an injury, and the equipment note states that outright rather than letting the issue suggest a harm that has never been shown.
+Nothing has ever been proved here. People come out of a fall turned around, and about **one in four cries afterwards without being able to say why**. The examinations come back clean, every time, across sixty-one falls. The hoods exist to stop a worker catching beads, not to prevent an injury, and the equipment note states that outright rather than letting the issue suggest a harm that has never been shown.
 
 Formally, then, a Warden who stands a fall has been exposed to nothing. There is no recovery allocation, no banding, no line on the file, and the disorientation is their own time. The medical office’s position — no finding — is accurate. The Wardens’ accounts are accurate too. Both sit in the folder, one after the other, and the file will not say which one is the record.
 
@@ -436,7 +456,7 @@ A fall watch counts as a full shift however long it ran. Wardens go home when th
 
 The safety office’s objection stands and is right. A wing that rosters around a hazard never demonstrated is building an entitlement by habit, outside the schedule, on no evidence — and the next wing to do it will have worse evidence and the same precedent. The minute reads **correct, and the practice continues**.
 
-The second thing this file cannot grant sits in the same folder. Workers who have caught a fragment ask to stand a fall unhooded and try again. **Nine such requests, all in writing**, all refused, every refusal clipped to the request it answers and unredacted, because each of the nine asked for that. The refusal letter runs three sentences, and only the third matters: nothing caught has ever been kept, nothing kept could be returned to whoever it belonged to, and the facility will not let a worker take a stranger’s life into their own head on purpose for a result it already knows.
+The second thing this file cannot grant sits in the same folder. Workers who have caught a fragment ask to stand a fall unhooded and try again. **Nine such requests, all in writing**, all refused, every refusal clipped to the request it answers and unredacted, because each of the nine asked for that. The refusal letter runs three sentences. And only the third matters: nothing caught has ever been kept, nothing kept could be returned to whoever it belonged to. And the facility will not let a worker take a stranger’s life into their own head on purpose for a result it already knows.
 
 ## Trivia
 
@@ -451,7 +471,7 @@ The second thing this file cannot grant sits in the same folder. Workers who hav
 - **Field detail:** Lament is its element, and its registered ground is the Echo Gardens in Zone D — the one holding there that arrives instead of waiting.
 - **Recognition detail:** Identify it by the clear sky and by the contents of the beads. The Gardens hold several memory-bearing records; this is the one that comes down out of nothing and is gone in an hour.
 - **Record detail:** Check the designation before a fall is logged. The Memory Lake and the Memory Well are separate holdings under separate management, and all three have been cited in the same requisition at least once.
-- **Containment detail:** There is no containment and the file does not pretend otherwise. The holding is a gauge, a timekeeper, a hood store and a list of dates. What crosses no boundary, because there is no boundary, is the fall itself; what leaves the Gardens is whatever each worker carries out in their head, and that is not recoverable by anybody, including them.
+- **Containment detail:** There is no containment and the file does not pretend otherwise. The holding is a gauge, a timekeeper, a hood store and a list of dates. What crosses no boundary, because there is no boundary, is the fall itself. What leaves the Gardens is whatever each worker carries out in their head, and that is not recoverable by anybody, including them.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-250

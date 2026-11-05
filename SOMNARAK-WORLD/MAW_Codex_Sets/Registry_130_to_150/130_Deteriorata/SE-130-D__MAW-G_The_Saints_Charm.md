@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Deteriorata work |
 | Bestowal event | The Charm appeared when a worker accepted relief before the Saint’s transferred Weight became a collapse. |
 | Acceptance condition | The candidate identifies one real person or system that can receive a future handoff. |
@@ -85,14 +86,3 @@ Park used the Charm during a prolonged containment shift and expected it to indi
 The Charm completes *Set Down Together*. It cannot make a Maul strike or Fragment endurance safe by itself; it only ensures the set has an honest path toward release.
 
 > *“The first handoff is often small. It is still a handoff.”* — Handler Soojin
-
----
-
-**Document ID:** `SE-130-D`  
-**Linked Entity:** `SE-130`  
-**Item Registry Code:** `MAW-G-130-01`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

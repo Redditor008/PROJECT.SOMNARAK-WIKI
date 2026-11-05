@@ -12,6 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 5 — Abundant
 A warm blue Tail shard granted after a viewer returns to present life. Chance: 5%.
 
 ## Appearance
@@ -24,14 +25,3 @@ The Glass Shard is a warm tail-shard of blue crystal granted after a viewer retu
 **Cost:** bearer feels sorrow of every view
 
 **Failures:** surveillance without consent; distant event treated as complete; present life abandoned.
-
----
-
-**Document ID:** `SE-518-D`  
-**Linked Entity:** `SE-518`  
-**Item Registry Code:** `MAW-G-518-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

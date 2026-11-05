@@ -1,0 +1,167 @@
+{
+  "unit": 4,
+  "name": "The Echo Compass",
+  "designation": "C-IIIβ-016",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_04_ECHO_COMPASS.md",
+  "status": "held",
+  "no_change": false,
+  "opening_words": 7252,
+  "before_words": 7252,
+  "short_stage_words": 7302,
+  "after_words": 7390,
+  "sha256": "b2daec4cf9981e142962c3bb334d0d5ebfc107601418126001b0b612816497b6",
+  "final_sha256": "686348a9193414dd186e0beb9a02c795eb456a3f7db4e82207408445f38fdb04",
+  "base": "9b4bb2acac7a95935b48c3887ba8c54fbc6ca60e",
+  "summary": "Six supported repairs (2 short / 4 careful; 7252→7390 words) give both appearance summaries the palm-sized brass-and-bone device's surface details, clarify the stand versus hand-held channel, and label the unsupported district-wide loss event and transform/spread description as unresolved models. Whole design HELD; +1 Types / +1 Weapon / +0 SE.",
+  "commentary": "The compass's central cruelty is that it answers the question it was built to answer, and the answer cannot be safely used. I appreciate the district's refusal to translate degrees into locations; it forces the institution to live with knowledge it can neither discharge nor lawfully act on. The channel still carries two incompatible duration instructions, so the instrument's operating boundary remains unsettled.",
+  "reasoning": "R-33 chain: Object/Place → Object-Void / Void → a Keeper-built instrument for forgotten memories that truthfully finds grief in every direction → a palm-sized tarnished-brass compass with a blank face, bone needle, rearranging letters and no north → stationary on its fixed stand between sessions, with the needle/internal markings moving and a human channeller holding it during activation → Viderehan records bearing/rate/range and Ferrehan endures a two-minute channel; the bearing is not translated into a location → the non-breaching classification coexists with an uncontrolled pointing spread into other instruments and separately modelled district effects → M.A.W. pieces are derived tools, not alternate source bodies. The prose now makes the visible object clearer and marks the duration and event-model disagreements instead of inventing a resolution.",
+  "history": "Exact source identity resolves C-IIIβ-016 / SE-016-A–D / MAW-W-016-01. A search of current and archived WIP/CHANGELOG, the B153–B156 close receipts, and the ledger's equipment review records found no earlier individual exact-set or Weapon-pair disposition for this dossier. B153/155 unit lists, B154's selections, and B156's selected units do not include it; physical-form inventories mention it only as an unselected file. Older B43/B46/B59 entries concern interactions, a quotation, and prose similarity, not a source-pair disposition. The unrelated `MAW-W-016 Pneumatic Harpoon Rig` string is not `MAW-W-016-01 The Lost Lens` and is not used as evidence. This review therefore earns +1 Types and +1 unique Weapon disposition despite the held shape/stat conflicts.",
+  "holds": [
+    "The classification says non-breaching, while the Registrum says the Compass transforms and spreads pointing into other instruments. ‘Breach’ headings/models, the two-minute channel cap, four unexplained stillnesses, an untested 65% Ultimate, Side A's three-loss Overload and activation duration ‘until acknowledged or put down’ are not reconciled. No experiment or unrestricted channel was authorized.",
+    "Physical design of derived Weapon remains split: the primary and item B describe a ground-glass lens/disc, the archetype calls it a Compass Chakram with Medium reach, and Master M.A.W. lists OPTICAL crystal/lens. Primary stats are Void 5–9, speed 2, range 2 Short, while the archetype says Medium. No transformation or form/range crosswalk exists. Suit/Token purpose and specific physical form also differ between the primary and B/C/D, and no full set transition is established.",
+    "The primary and Tale 3 disagree on current holding location: the Tale says Archive deep room, while the current Registrum places it in SECTOR-D-01 and explicitly says the Archive room was an earlier site. Other Tale claims about threat and valid Work Type are also stale against the current source; the master Tale was not edited.",
+    "The combat record, work records and history do not unify their cohorts: 188 channels/94 settled, 11 Pointing events/9 correlated, four followings, four parties/equipment records and the four stillnesses are not a single dataset. The Tale and origin attribution to the Keeper cabal/last thought are not fully mapped to the ‘not recorded’ fields in A–D.",
+    "The activation duration says until acknowledgement or put-down, while the certified O-Relic protocol caps every channel at two minutes and states exact termination steps. Their relationship remains held. The count of 74 granted likeness requests ‘of which 112’ involved a living relative is arithmetically impossible as written and has not been changed.",
+    "Neutral disposition remains. The three entity relations in the primary are measurements/comparisons, not evidence of suppression or aid. No outside primary, master, registry or illustration was changed."
+  ],
+  "r18_split": {
+    "batch_short": 2,
+    "careful_detail": 4
+  },
+  "repairs": [
+    {
+      "id": "u4-r01-primary-form-lost-bearing-details",
+      "kind": "short",
+      "old": "**Physical Form:** A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow.",
+      "new": "**Physical Form:** A palm-sized tarnished-brass compass with no cardinal markings and a bone needle that twitches and drags toward concentrated grief. Held in hand, the needle warms and presses against the glass; casing letters rearrange when unobserved. It never points north."
+    },
+    {
+      "id": "u4-r02-detailed-form-lost-bearing-details",
+      "kind": "short",
+      "old": "| **Form** | A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow. |",
+      "new": "| **Form** | A palm-sized tarnished-brass compass with no cardinal markings and a bone needle that twitches and drags toward concentrated grief. Held in hand, the needle warms and presses against the glass; casing letters rearrange when unobserved. It never points north. |"
+    },
+    {
+      "id": "u4-r03-stand-versus-handled-position",
+      "kind": "careful-detail",
+      "old": "| **Position / movement** | On the stand, in the open case, during a session only. Record bearing in degrees, rate of swing, first-response range, and the time the case was closed. |",
+      "new": "| **Position / movement** | At rest on the fixed stand in its open case between sessions. For activation the channeller holds it during a two-minute channel; this is human handling, not independent movement by the Compass. Record bearing in degrees, rate of swing, first-response range, and case-closure time. |"
+    },
+    {
+      "id": "u4-r04-activation-duration-versus-channel-cap",
+      "kind": "careful-detail",
+      "old": "**Duration:** Until the source is acknowledged or the Compass is put down.",
+      "new": "**Duration:** The activation text says until the source is acknowledged or the Compass is put down. The certified protocol separately caps a channel at two minutes; the record does not reconcile the duration with that limit."
+    },
+    {
+      "id": "u4-r05-every-loss-model-and-trigger",
+      "kind": "careful-detail",
+      "old": "| { *Every Loss at Once* [**Ultimate**] } | \"The needle points to every direction at once and every one of them is a case.\" | [All open losses in the district register simultaneously.] | *Void erosion to everybody in the Forge District for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once, in the week the district's missing-property register passed eleven hundred open entries. |",
+      "new": "| { *Every Loss at Once* [**Ultimate**] } | \"The needle points to every direction at once and every one of them is a case.\" | [The combat model describes all open losses in the district registering simultaneously. Side A records Overload separately: three unrelated losses named during one channel.] | *The district-wide Void erosion for three cycles is a modelled effect, not an observed event.* **[Void DMG [Void] (AoE, x3 turns)]** | The combat table places it above 65%, once, in the week the register passed eleven hundred entries. Side A's three-loss trigger is not crosswalked to that threshold. |"
+    },
+    {
+      "id": "u4-r06-transformation-versus-nonbreaching-class",
+      "kind": "careful-detail",
+      "old": "- Unresolved, it transforms rather than escapes: the pointing spreads, and other instruments in the sector begin agreeing with it.",
+      "new": "- The record calls this transformation, not escape: the pointing spreads and other instruments in the sector begin agreeing. The classification says non-breaching; whether this is a breach-equivalent spread or an uncontrolled activation remains unresolved."
+    }
+  ],
+  "validators": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.012  clean   333 grams  M.A.W. Equipment\n 0.005  clean  1146 grams  Warden Record\n 0.004  clean   523 grams  감각 묘사 (Flavor Text)\n 0.000  clean   555 grams  Combat Record\n 0.000  clean   466 grams  Activation Behavior\n 0.000  clean   373 grams  이야기 (Narratio)\n 0.000  clean   299 grams  기록 (Registrum)\n 0.000  clean   247 grams  Appearance\n 0.000  clean   246 grams  관찰 기록 (Observation Log)\n 0.000  clean   156 grams  Operational Parameters\n 0.000  clean   144 grams  이야기 보고 (Story Log)\n 0.000  clean   136 grams  Origin\n 0.000  clean   130 grams  Trivia\n 0.000  clean   128 grams  Behavior\n 0.000  clean    57 grams  SECC Classification\n 0.000  clean    53 grams  최종 관찰 (Final Observation)\n 0.000  clean    43 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "  247   2  **Cost:** The wearer feels faintly absent to themselves and stops being able to find their own belongings in their own quarters.\n  257   2  **Effect:** +1 to the working stat on this holding's channels, which is to say during two minutes of standing still and writing a \n  345   1  This holding is read against the other things in the wing that register grief at a distance, and all three relations are measured \n  347   1  **Interaction method:** Baseline each party alone across several channels, with bearing, settle time and range logged throughout. \n  469   6  The objection is minuted at every annual review and is raised by the district's ward officer, who attends for this item and no oth\nGENERIC 0.002  (12 shared shingles)  SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-A__SIDE_CODEX_The_Echo_Compass.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-B__MAW-W_The_Lost_Lens.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-C__MAW-S_The_Lost_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-D__MAW-G_The_Lost_Compass.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/README.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/PERSONALIZATION_PLAN_2026-10-07.md",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_01.md",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_02.md",
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_CLOSE.json",
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_CLOSE.json",
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_CLOSE.json",
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_CLOSE.json"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-A__SIDE_CODEX_The_Echo_Compass.md": "1adce1d7eb337239ffbefbffb543d8735b17260745cc16968be9fbae02b75f3b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-B__MAW-W_The_Lost_Lens.md": "c497852083ee055f25672d9d1aa0dccfa13d06f091af5571f1ae914f2fbdbb3d",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-C__MAW-S_The_Lost_Veil.md": "26557214b0d9dff3baebf92891939aa202ab6bfcb3554c4a654bf3a775212cc4",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-D__MAW-G_The_Lost_Compass.md": "aa19ae00ffc09fbd41f9104c033309d9c7eae8933597a30827d939641ea52900",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/README.md": "aaf89d71848ed16bf8ed3d7f34c9b99722ba22582f15865c1ff7c1d7b74e1138",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/PERSONALIZATION_PLAN_2026-10-07.md": "de8c6d4dec352a86fec58380423859dc52ef374d283406f0abac3f139b2af87f",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_01.md": "48195db09616ef7e65ba0d793dc67be40a668d6156fdabe3f3dbfc7773cd779b",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_02.md": "522dfd5edd51cad9e4fc21a5c2967e99c5a11c74c599c3245e476e11c096ab16",
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_CLOSE.json": "e650963de0ac4d5461e137c80b7daa946acdb97838b2b917b7efeea773aa2291",
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_CLOSE.json": "aa154c768ab5aa159ca617056aff205cd026e94be0bde6572d4dd4fa0bd409f3",
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_CLOSE.json": "8d58cdfefb965e07a7025b79a3d57b4f5b312ba1716edb145cc409768a0c40a6",
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_CLOSE.json": "850c144fcac0490fab33e32949aa02a60fa7668cbdee62eef572c249a5e1689e"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "credits": {
+    "types": 1,
+    "weapon": 1,
+    "se": 0
+  },
+  "new_exact_pair_disposition": {
+    "source": "C-IIIβ-016 / SE-016-B / MAW-W-016-01",
+    "all_types_credit": true,
+    "weapon_credit": true,
+    "history_proof": "Exact source identity resolves C-IIIβ-016 / SE-016-A–D / MAW-W-016-01. A search of current and archived WIP/CHANGELOG, the B153–B156 close receipts, and the ledger's equipment review records found no earlier individual exact-set or Weapon-pair disposition for this dossier. B153/155 unit lists, B154's selections, and B156's selected units do not include it; physical-form inventories mention it only as an unselected file. Older B43/B46/B59 entries concern interactions, a quotation, and prose similarity, not a source-pair disposition. The unrelated `MAW-W-016 Pneumatic Harpoon Rig` string is not `MAW-W-016-01 The Lost Lens` and is not used as evidence. This review therefore earns +1 Types and +1 unique Weapon disposition despite the held shape/stat conflicts."
+  },
+  "table_link": "[The_Echo_Compass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-016_The_Echo_Compass_%EB%A9%94%EC%95%84%EB%A6%AC_%EB%82%98%EC%B9%A8%EB%B0%98.md \"SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md\")",
+  "reading": {
+    "before_lines": 490,
+    "after_lines": 490,
+    "before_bytes": 43985,
+    "after_bytes": 44922
+  },
+  "integrity": {
+    "repair_reconstruction_from_opening": true,
+    "other_opening_pending_fingerprints_unchanged": 116,
+    "other_opening_pending_fingerprints_total": 116,
+    "physical_form_row_unchanged": true,
+    "m_a_w_equipment_section_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_artifacts_hashed": 18,
+    "visual_art_or_browser_inspection": "not performed / not in scope"
+  }
+}

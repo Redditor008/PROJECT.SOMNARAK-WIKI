@@ -20,7 +20,7 @@ A cold seed-shaped absence spreads dark roots through Alpha Tree floors, showing
 |---|---|
 | Coherence / Potency | I / α |
 | Element | Void |
-| Gauge / Pressure | 25–40% / 3–10 |
+| Gauge / Pressure | 000% / 3–10 |
 | Observation | 1 |
 | Set | Possibility, Not Memory |
 
@@ -39,13 +39,3 @@ An echo forms after one imagined future is acknowledged as unrealized without ca
 ## RESONANCE — *Grief Without False History*
 
 Seed tests existence, Veil anchors present life, and Lens cuts only the claim that possibility was memory. Grief remains legitimate. Planting the seed or fabricating proof turns imagined futures into Void growth.
-
----
-
-**Document ID:** `SE-519-A`  
-**Linked Entity:** `SE-519`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

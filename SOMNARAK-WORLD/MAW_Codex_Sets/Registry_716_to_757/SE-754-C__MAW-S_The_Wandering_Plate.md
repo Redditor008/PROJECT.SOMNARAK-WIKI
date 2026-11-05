@@ -11,7 +11,7 @@
 
 ## Appearance
 
-The Wandering Plate is the suit of Thralldom’s set, bound by the same rule as its siblings: separate care from restraint and preserve an open exit. Rejection reproduces the originating wound — armor refusing any protector quietly become a jailer. Its defining engagement is the Open-Door Plate test, releasing only once the wearer could leave: the suit verified, as a mechanical condition, that its own wearer retained a working exit — guardianship audited from inside. The item preserved the distinction between present choice and source grief by making the open door part of the specification, not a courtesy. The operational cost is the set’s signature: source emotion enters the bearer during use, the thrall’s anxious devotion pressing against the plates. Corrosion runs from attribution blurring, through compulsion becoming normal — protection sliding into custody one precaution at a time — to a terminal failure that reenacts the original event through the operator. It is maintained by recording source, bearer, trigger, result, and unresolved uncertainty, with cleaning or rest only after debrief. Emergency shutdown requires a named witness to restate the resolution while the bearer relinquishes the armor voluntarily — the set works only as Care Without Captivity; no piece resolves the source alone.
+The Wandering Plate is the suit of Thralldom’s set, bound by the same rule as its siblings: separate care from restraint and preserve an open exit. Rejection reproduces the originating wound — armor refusing any protector quietly become a jailer. Its defining engagement is the Open-Door Plate test, releasing only once the wearer could leave: the suit verified, as a mechanical condition, that its own wearer retained a working exit — guardianship audited from inside. The item preserved the distinction between present choice and source grief by making the open door part of the specification, not a courtesy. The cost is worn on the body: the thrall's anxious devotion presses against the plates, and every safeguard tightens a little further. Corrosion runs from attribution blurring, through compulsion becoming normal — protection sliding into custody one precaution at a time — to a terminal failure that reenacts the original event through the operator. It is maintained by recording source, bearer, trigger, result, and unresolved uncertainty, with cleaning or rest only after debrief. Emergency shutdown requires a named witness to restate the resolution while the bearer relinquishes the armor voluntarily — the set works only as Care Without Captivity; no piece resolves the source alone.
 
 **Grade / Element:** α / Grudge  
 **Resistances L/G/V/W:** 1.0/0.4/1.8/1.2  
@@ -21,18 +21,8 @@ The Wandering Plate is the suit of Thralldom’s set, bound by the same rule as 
 
 **Incident:** the Open-Door Plate test, where armor released only after the wearer could leave. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** source emotion enters the bearer during use. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-754 -->
+**Operational cost:** The wearer's devotion presses against the plates and protection tightens into custody one precaution at a time. Worn long, they guard somebody who has asked to be let go. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-754 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *Care Without Captivity*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-754-C`  
-**Linked Entity:** `SE-754`  
-**Item Registry Code:** `MAW-S-754-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

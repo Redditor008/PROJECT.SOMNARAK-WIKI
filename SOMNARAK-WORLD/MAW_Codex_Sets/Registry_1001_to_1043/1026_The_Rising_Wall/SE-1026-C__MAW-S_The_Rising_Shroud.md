@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Rising Shroud
 
-> *“The Rising Shroud remembers The Rising Wall; the bearer must not mistake memory for permission.”*
+> *"It holds the wearer above the water line, so they miss everything that happens below it, including the parts aimed at them."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Rising Wall's kind of pressure.  
-**Binding rule:** the bearer names The Rising Wall's event—A citizen waited for a love that never answered; the waiting became a rising wall.—and accepts this limit: Patient endurance and honest acknowledgment
+**Binding rule:** the bearer names The Rising Wall's event — “A citizen waited for a love that never answered; the waiting became a rising wall.” — and accepts this limit: Patient endurance and honest acknowledgment
+
+
+### Appearance
+
+A shroud of Lament Han-silk in undyed grey, cold to the hand, that keeps the crease of whoever last stood at the marked line and does not warm while it is worn.
 
 ## CORE STATISTICS
 
@@ -25,16 +30,20 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes The Rising Wall's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
-## ITEM-SPECIFIC HISTORY — *The The Rising Wall Source-Trace: Suit Record*
+**Operational / binding cost:** The Shroud holds the wearer above the water line: worn, they miss everything that happens below it, including the parts aimed at them. Worn long, they are dry and uninformed.
 
-The first The Rising Shroud field bearer encountered this source response: Pushes against the worker until patience wins. The suit witnesses the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+## ITEM-SPECIFIC HISTORY — *The Rising Wall Source-Trace: Suit Record*
+
+The first bearer of The Rising Shroud encountered this source response: Pushes against the worker until patience wins. The suit witnesses the immediate hazard only after the team attributed it to The Rising Wall. A wearer missed everything that happened below the water line, including the part aimed at them, and the Shroud’s binding is the incident note from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Rising Wall's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the line rises above the wearer’s head, and they are dry, uninformed, and no longer in the room.
 - Terminal state: The Rising Wall's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Patient endurance and honest acknowledgment” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +52,4 @@ The first The Rising Shroud field bearer encountered this source response: Pushe
 
 ## SET RELATIONSHIP
 
-Within *The Rising Wall — Witnessed Form*, The Rising Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1026-C`  
-**Linked Entity:** `SE-1026`  
-**Item Registry Code:** `MAW-S-1026-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *The Rising Wall — Witnessed Form*, The Rising Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still be reached by what happens below; the first watch they cannot, the Shroud is out.

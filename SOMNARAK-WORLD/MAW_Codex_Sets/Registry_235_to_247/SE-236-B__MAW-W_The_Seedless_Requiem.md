@@ -30,6 +30,10 @@ The Seedless Requiem is a short singing blade of faint blue Han-crystal whose ce
 |---|---:|---|---|---:|
 | α / Lament | 3–6 | 2 — Normal / 2 — Short | Single; 100% | 5 / 15 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
 **First-Step Guard:** Requiem strikes one immediate threat to a fragile beginning. It will not attack uncertainty, delay, or failure merely because the bearer fears them.
 
 **Cost:** The wielder feels Unwitnessed’s grief and weeps for futures the protected beginning may never reach.
@@ -45,14 +49,3 @@ Pod preserves viability; Shroud bears imagined futures; Requiem addresses presen
 **Maintenance:** Wash the blade with ordinary rain outside the no-plant ring. Record only what the protected beginning is now. The groove clears when no future image remains.
 
 **Shutdown:** Lower the edge and remove every projected outcome from the mission order.
-
----
-
-**Document ID:** `SE-236-B`  
-**Linked Entity:** `SE-236`  
-**Item Registry Code:** `MAW-W-236-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

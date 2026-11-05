@@ -3,7 +3,7 @@
 > *“Writing the sorrow encyclopedia is a pain in the neck. Nobody'll know if I just fudge the details and make some stuff up, right?”*  
 > — A rookie specialist, Floor 1 Spires Atrium
 
-**Specialists** are the trained operatives employed by the Reverie Directorate to manage, study, and suppress [Sorrow Entities](07-Sorrow%20Entities.md). They represent the player's primary hands on the floor. 
+**Specialists** are the trained operatives employed by the Reverie Directorate to manage, study, and suppress [Sorrow Entities](07-Sorrow%20Entities.md). They represent the player's primary hands on the floor.
 
 Within Facility 01, human personnel are divided into two distinct classes: **Specialists**, who actively engage in containment work and combat, and **Auxiliaries**, who manage administrative paperwork and maintenance across the corridors.
 

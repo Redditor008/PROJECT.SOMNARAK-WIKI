@@ -59,14 +59,3 @@ Iseulfros Kim wore the Shroud during a Loom test that created a desired future w
 ## SET RELATIONSHIP
 
 The Shroud makes *Let the Cloth End* safe by ensuring creation and unweaving remain anchored to both dream and waking life.
-
----
-
-**Document ID:** `SE-176-C`  
-**Linked Entity:** `SE-176`  
-**Item Registry Code:** `MAW-S-176-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

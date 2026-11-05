@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 4 — Stocked
 A warm Void Han-glass Head ring enabling silent movement and concealment. Bestowal follows honest duty relief. Chance: 5%.
 
 ## Appearance
@@ -26,14 +27,3 @@ The Cold Burn Ring is a warm head-ring of pale Han glass enabling silent movemen
 **Failures:** concealment used to evade current duty; guilt invents obligations; wearer becomes another frozen watcher.
 
 **Care:** Separate ended, transferred, failed, and still-active duties.
-
----
-
-**Document ID:** `SE-505-D`  
-**Linked Entity:** `SE-505`  
-**Item Registry Code:** `MAW-G-505-01`  
-**Author:** Commander Taeho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

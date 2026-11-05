@@ -41,12 +41,3 @@ The Plate strengthens defense while the bearer remains on a declared post, route
 ### History Record
 
 A Duty Plate bearer protected an abandoned relay station for six hours after communications failed. The order had been canceled three hours earlier; the bearer received the message only after another agent arrived in person.
-
-**Document ID:** `SE-073-C`  
-**Linked Entity:** `SE-073`  
-**Item Registry Code:** `MAW-S-073-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -48,15 +48,15 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_05_REDCAGE.md",
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-A__SIDE_CODEX_Redcage.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Cage_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Wrath_Ember_Censer.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-C__MAW-S_The_Cage_Shield.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-D__MAW-G_The_Cage_Charm.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "sources_read": "Whole497-line original including entire409Bars/QuashedIsNotInnocent/ThereAreNoCells appendices. Exact120A–D complete, D65–82care/history/shutdown reopened after combinedoutput truncation. Aside explicitly sourceI-Relic neverworn/issued, echoes not bars; fullAcknowledgeBars/noverdict and OpenBar. B wholeofficialFang/restingactiveversusCenserappearance/saferelease/receiver/authority/oversight/rejection/shutdown; C conditionalone-strike openexit/closedgrid emergency; D singlebarrier/noguilt/unknownfact/oversight/emergency. Mastertable95–97/detail1421–1453; Registry362–365/archetype102; Entity383; fullTale19 1055–1110; Neutraldisposition273. Exact122unit5 5fa0baf/WIP4381–4383 and90unit2 aaf937e1 inbothlogs, cross101 WrathFlame held as differentbetaentity/pair.",
   "history": "Batch90unit2 aaf937e1 already reviewed120B/MAW-W-120 and correctedSideWeapontitlewhileholdingFang/Censer. Batch122unit5 5fa0baf completed full120A–D review; repeatedpair+0. Equipmentbaselinealreadyabsorbs these; no freshTypes/Weapon credits. No sharedWrathFlameitem or SEcompletion inferred.",
@@ -135,15 +135,15 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "after_words": 8962,
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-A__SIDE_CODEX_Redcage.md": "b0b33c70541b49541c6fdf1e836fd7f5d53a594dab365c6101473c874f2aedd6",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Cage_Fang.md": "9927509e85fafc55b072a53bc58905c203c220be474351db909a3d4d4306ff12",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Wrath_Ember_Censer.md": "9927509e85fafc55b072a53bc58905c203c220be474351db909a3d4d4306ff12",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-C__MAW-S_The_Cage_Shield.md": "3692bfca491f3c2604ea0a6c6fc199da5b1856152bf2d45c3e84236eaa662d5b",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-D__MAW-G_The_Cage_Charm.md": "b7f85e42da2542273bf8bc96af2876b4e5dfc6b789f40f278431382749acdf39",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "validation": {
     "verify": {

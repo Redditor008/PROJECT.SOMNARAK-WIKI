@@ -20,7 +20,7 @@
 | Set | Last Sentences |
 | Type / grade / element | Weapon / β — Moderate / Lament |
 | Status | Active; disclosure-purpose review required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Sooah Park |
 | Resting form | A slim blue Han-crystal blade with one petal suspended just beneath the guard. |
 | Active form | The petal becomes a line of blue script that drifts along the edge without forming readable words. |
@@ -88,14 +88,3 @@ Park used the blade during a field mediation after a survivor’s unspoken guilt
 With Unsaid Shroud and Unsaid Petal, the Requiem makes *Sentence Finished* possible: a truth can be spoken, but never taken from another person by force.
 
 > *“A person’s silence is not an empty container for the Directorate to fill.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-100-B`  
-**Linked Entity:** `SE-100`  
-**Item Registry Code:** `MAW-W-100-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

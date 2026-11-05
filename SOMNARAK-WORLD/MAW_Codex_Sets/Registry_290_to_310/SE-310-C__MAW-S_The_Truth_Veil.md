@@ -24,9 +24,15 @@ The Truth Veil is a near-colorless suit of Han gossamer with different self-imag
 
 ## PROTECTION FILE
 
+**Grade / Element:** β / Void
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
 
 **Context Panels:** Each truthful image remains a part rather than replacing the wearer’s whole identity.
 
@@ -43,14 +49,3 @@ Stigma identifies deception, Veil preserves complexity, Weapon targets harm.
 **Maintenance:** Partner names a truth and its limit; wearer adds one current choice showing change remains possible.
 
 **Removal:** End direct gaze and open panels from the current-choice seam.
-
----
-
-**Document ID:** `SE-310-C`  
-**Linked Entity:** `SE-310`  
-**Item Registry Code:** `MAW-S-310-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

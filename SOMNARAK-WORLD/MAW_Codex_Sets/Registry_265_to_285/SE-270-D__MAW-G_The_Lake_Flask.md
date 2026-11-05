@@ -14,6 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
+**Maximum Amount:** 3 — Standard
 A warm Lament Han-crystal Tail flask that remains empty-looking until held against witnessed Lake memory. Mnemosyne granted it after a worker catalogued one life and returned it without claiming ownership. Bestowal chance is 4%.
 
 ## Appearance
@@ -46,14 +47,3 @@ Flask holds the distinct life in *The Unclaimed Depth*. Shroud protects the witn
 **Care:** Keep the witness present, read provenance, and return the liquid to its original channel. The Flask clears only after the same memory appears in the Lake.
 
 **Emergency release:** Open at the witnessed shore; never pour into another archive vessel.
-
----
-
-**Document ID:** `SE-270-D`  
-**Linked Entity:** `SE-270`  
-**Item Registry Code:** `MAW-G-270-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -7,15 +7,15 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-275 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on material left within the working volume while somebody present is carrying a grievance they have not stated. Both conditions are required and the second is the one the sweep cannot catch. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Burning and creative |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — A squat, soot-blackened stone forge built around a fire that is not fire but a core of slow-pulsing crimson beating like an exposed heart. The anvil and tongs are crusted with dark, clawed metal that has grown rather than been forged, branching like bone. Heat rolls off it in waves that feel less like temperature and more like held breath before a shout. |
-| **Movement** | Fixed Place — the hearth and working volume stay in situ; unattended metal shaping is activity within that volume, not locomotion of the holding. |
+| **Physical Form** | Mixed |
+| **Movement** | Fixed Place — the hearth and working volume stay in situ. Unattended metal shaping is activity within that volume, not locomotion of the holding. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -28,10 +28,12 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the counter** — It does not go out and it does not answer. Nothing left in the volume is returned, and the room produces an object nobody ordered. |
+| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is floor heat held independently of the vessel. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Material left within the working volume while somebody present is carrying an unstated grievance — both conditions required, and no breach counter. |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -39,57 +41,65 @@
 
 ### Operational Notes
 
-- Crucible is a place rather than a vessel. The floor holds heat independently of the fire; the idle reading at the fixed point is taken between watches, with nothing burning, and is the holding's instrument.
+- Crucible is a place rather than a vessel. The floor holds heat independently of the fire. The idle reading at the fixed point is taken between watches, with nothing burning, and is the holding's instrument.
 - A successful cycle banks the fire for a shift. The idle floor reading is unaffected by good work and has risen every year regardless of it.
 - Viderehan and Ferrehan are the valid approaches. The Registrum carried Pugnahan as primary for eleven years, which is not a permitted Work Type against a Place at all.
-- Structural pressure is literal. Floor temperature and wall integrity are logged alongside the gauge; both have escalated ahead of the needle, the floor on every occasion and the walls twice.
+- Structural pressure is literal. Floor temperature and wall integrity are logged alongside the gauge. Both have escalated ahead of the needle, the floor on every occasion and the walls twice.
 - Extraction draws from slag residue under its own authorization. Nothing produced unattended in the working volume is extracted; it is logged, photographed, and destroyed at the District furnace, which is not this one.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Grudge, the pressure the hearth is itself made of; 20% against everything else the room can bring |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 435/435 |
-| **Han Pressure [ATK]** | 10–23 per hit · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Burning and creative |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Forge District |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 30 s, stood at for an offering — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+stood at for an offering on a 30-second clock, so the six come to **180 seconds**. A worn piece
+gets a minute and a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *fixed place — the hearth and working volume stay in situ*, and it adds that unattended metal shaping is activity inside that volume rather than locomotion of the holding. Nothing here aims or closes a distance: what the fire does is work on whatever is left in it while somebody in the room is carrying a grievance they have not said out loud.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A squat soot-blackened stone forge in the Forge District, built around a core of slow-pulsing crimson that is not fire, an anvil and tongs crusted black beside it. The hearth and its working volume have not moved; only the heat inside them does. |
+| **Perceptible to** | The heat first, which is the reading — idle floor temperature at the fixed point, 61, then 68, then 74 degrees across three years. Then the smell of hot stone and the sound of metal being shaped by nobody. |
+| **Handling** | Nothing is left in the working volume and nothing is fed to it. The hearth is not quenched and the tongs are not moved. A worker who is angry about something unstated does not enter the volume until they have said it. |
+| **Activation threshold** | Material left within the working volume while somebody present is carrying an unstated grievance — both conditions required, and no breach counter. |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Work preference** | No Work Types (`R-40`) — nothing is left in the working volume and nothing is fed to it. A worker may stand the watch in the heat and may read the floor and the walls. A worker who is angry about something unstated says it first. |
+| **Location** | Zone D, Forge District |
 | **Resolution Condition** | Somebody states what they are angry about, aloud, in the room, naming it specifically. It has worked on every occasion it has been tried, which is every occasion the heat has risen. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Banked Coals* [**Debuff**] } | "The coals glow brighter the longer you stand here — feeding on what you will not admit." | [The Forge heats the target's resentment; old anger begins to smolder.] | *Target suffers -10 Resilience as their own rage is stoked.* **[10 Grudge DMG [Grudge]]** | When the target enters the Forge. |
-| { *The Bellows* [**Debuff**] } | "The bellows pump, and your anger rises with the flame." | [The Forge fans the target's temper; control slips.] | *Target loses 10 Resilience; small slights become unbearable.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the heat. |
-| { *The Hammer* [**Attack**] } | "The hammer comes down on the anvil of your resentment." | [A forged-rage strike — the Hammer shapes raw anger into a weapon and brings it down.] | *Inflicts Grudge pressure and one searing wound.* **[14-22 Grudge DMG [Grudge]]** | When the target confronts the Forge. |
-| { *The Quench* [**Attack**] } | "Red-hot rage, quenched in your skin." | [The Forge tempers a bolt of fury and hurls it, steaming, at the target.] | *A heavy Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Forge is attacked or overloaded. |
-| { *The Eruption* [**Ultimate**] } | "The Forge blows — and everything it held bursts out at once." | [The Forge erupts, spraying molten resentment across the entire area.] | *All personnel suffer Grudge pressure for three turns in the heat.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the forge does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Reading* [**Register**] } | The hearth registers the room before the room notices it: floor temperature at the fixed point climbs between watches with nothing burning, and wall integrity follows it twice. | Viderehan takes the floor temperature at the fixed point with nothing in the volume; Ferrehan reads the walls. Nothing is weighed, sampled or fed. | 61, then 68, then 74 degrees is the series the file keeps, and it has risen in years the hearth was worked and in years it was not. |
+| { *The Unsaid* [**Exposure**] } | A worker in the volume carrying an unstated grievance takes the pressure directly: Resilience drops, the gauge climbs, and it presents as temper long before it presents as damage. | The watch says aloud what it is angry about, specifically, before entering; anything left unsaid stays outside the room. | The file's own note is that the failure looks like a short temper for the first hour and like the gauge for the second. |
+| { *The Idle Fire* [**Refusal**] } | It does not go out and it does not answer. Nothing left in the volume is returned, and the room produces an object nobody ordered. | Nothing is quenched, nothing is fed, and no material is left in the volume between watches. | The refusal is the idle fire, which is why the reading is taken when nothing is burning. |
+| { *The Working Volume* [**Overload**] } | Past the recommended cycle the heat accumulates: floor temperature leads the gauge on every measured occasion, and the walls have followed it twice. | Withdraw on the floor temperature rather than on the gauge, and keep the room closed until the fixed point reads what it read at the start of the watch. | Time in the volume is cumulative and is counted in the same units as the gauge, so the watch is timed rather than measured. |
 
-1. **Tension:** Identification is by two documents, not by feel: the idle floor reading at the fixed point and the sweep sheet for the watch, signed in full with the time. The room feels like held breath whether the reading is 61 or 74, so the team takes the figure first and the positions afterwards.
-2. **Clash:** Viderehan and Ferrehan only. The working volume is swept and the sheet signed in full by both Wardens before anybody stands at the hearth, and anyone whose temper rises says aloud, in the room, what they are angry about.
-3. **Resolution:** The watch closes with an empty working volume, two full signatures on the sweep sheet, and the floor read again — and with at least one person having said aloud, in the room, what they came in carrying. The documented suppression condition is **Cool the anger through naming and controlled work**, and it has worked on every occasion the heat has risen.
+### Watch Sequence
+
+1. **What is confirmed:** the fixed-point floor temperature with nothing burning, the wall integrity, and what the watch is angry about, each taken before anybody steps into the working volume.
+2. **What the watch does:** Viderehan reads the floor and the walls and Ferrehan stands the heat. Nothing is left in the volume, nothing is fed to it, and the grievance is said out loud by the person carrying it rather than by whoever is senior.
+3. **How it closes:** **Somebody states what they are angry about, aloud, in the room, naming it specifically** — and it has worked on every occasion it has been tried, which is every occasion the heat has risen.
 
 ### Consequences
 
@@ -99,7 +109,7 @@
 - If nothing is said aloud, the holding keeps working: the heat does not dissipate, the volume stays live, and the room produces an object nobody ordered.
 
 ## Appearance
-**Physical Form:** A forge that burns with crimson heat and shapes metal according to nearby anger.
+**Physical Form:** At rest, a forge: a squat stone bowl a little under two metres across, soot-blackened the whole way down, with a core that glows crimson and pulses at about the rate of a resting heartbeat. It stands among an anvil and a rack of tongs not its own. The tongs are dark clawed metal and have grown rather than been forged — the branching is at the tips and does not match any smith's pattern on file. The floor at the fixed point reads seventy-four degrees this year, and it read sixty-eight eleven years ago. There is no fuel in the bowl and nothing is ever put in it.
 
 **Notable Features:** It works metal with nobody at the anvil, it takes the shape of whatever anger is nearest, and it cools when somebody in the room says plainly what they are angry about.
 
@@ -107,7 +117,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A forge that burns with crimson heat and shapes metal according to nearby anger.
 - **Position / movement:** Fixed. What moves is the metal, unattended, and what is recorded is the idle floor temperature at the fixed point and the state of the working volume at both ends of the watch.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Forge District
@@ -116,7 +125,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A forge that burns with crimson heat and shapes metal according to nearby anger. |
 | **Position / movement** | Fixed hearth and working volume. Record material within the volume and unattended changes to it; neither a finished object nor a moving tool establishes movement of the Place. |
 | **Material / signature** | Grudge. Soot-blackened stone, a crimson core that pulses at rest, and dark clawed metal on the anvil and tongs that has grown rather than been forged. |
 | **Distinctive markers** | Idle floor temperature at the fixed point — 74 °C this year — the branching growth on the tongs, and a sweep sheet with two full signatures and a time. |
@@ -131,37 +139,33 @@
 - **The People:** Generations of Forge District workers who brought their resentment to the hearth because it made better steel and because nobody ever told them not to.
 - **Expanded origin context:** The Forge's production records survive intact: quantities, specifications, destinations. The destinations page is bound into the Warden's commissioning material on its own, with a note explaining that the rest of the file is about a furnace and this page is about what the furnace was for. Nothing in the records is irregular. Every blade listed was ordered, paid for, and delivered.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a hearth with an empty working volume, and the only thing it asks of anyone is that they say out loud what they came in carrying. There is nothing in it to observe into agreement; the file owes the reader a temperature, an empty volume and a rule about silence.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Holds the floor steady long enough for a clean idle reading and a wall inspection. | Stable |
-| **Ferrehan** | The long stand at the hearth with the naming order obeyed, out loud, by whoever is actually angry. | Decrease |
-
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Read the fixed-point floor temperature between watches, with nothing burning, and sign it against the last figure. The tongs are checked as unmoved. Any worker who comes in angry about something unstated is asked to state it at the door and is not admitted until they have. | The duty Warden on the fixed point; two signatures on the watch sheet. | A watch, and the saying. The speaking is a condition of entry rather than a part of the work, and a crew that skips it is logged as having skipped it. |
+| **Handling** | Stand the watch in the heat and add nothing to the volume. Nothing is left in it and nothing is fed to it. Read the floor temperature and the wall integrity while standing. | One Warden inside the volume; the second outside it with the door. | The heat, and the length of the watch. The gauge rises and falls with the shift and explains nothing, so the figure that is kept is the idle temperature and it is not kept from inside the volume. |
+| **Withdrawal** | Leave the working volume empty and the hearth unquenched. Record the floor temperature at the fixed point before the next watch, and record whether anybody said anything while they were in it. | The outgoing Warden; the second signs the volume empty. | The idle floor temperature has gone up every year the hearth has been worked and every year it has not: 61, then 68, then 74 across three years. Nothing done in the watch has ever moved it down. |
+| **Refusal** | Do not quench the hearth. Do not move the tongs. Do not leave anything in the working volume, and do not feed it. Do not admit a worker who will not state what they are carrying. | Standing Order; the entry rule admits no exception for urgency. | A quiet, courteous watch in which nobody said anything is the failure mode the file is explicit about, and it is the one that looks like a good session from outside. |
 
 ### Operational Work Notes
 
-The gauge here rises and falls with the shift and explains nothing. The figure that is kept is the idle floor temperature at the fixed point, taken between watches with nothing burning: 61, then 68, then 74 degrees across three years. It is a reading of cold stone and it has gone up every year that the hearth has been worked, and every year that it has not.
+The gauge rises and falls with the shift and explains nothing. The figure that is kept is the idle floor temperature at the fixed point, taken between watches with nothing burning: 61, then 68, then 74 degrees across three years. It is a reading of cold stone, and it has gone up every year that the hearth has been worked and every year that it has not. The holding is not worked and no Work Type is available to it; the table that offered two was a form.
 
 **Reading the response:** A good watch ends with an empty working volume, two full signatures, and at least one person having said out loud what they came in carrying. The failure mode is a quiet, courteous watch in which nobody says anything, and the file is explicit that this is the dangerous one.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"material left within the working volume while somebody present is carrying a grievance they have not stated"*.
+
+
+
+
+
 > **This Relic benefits the facility by turning an unstated grievance into finished work, which is the whole of this District's output and none of its record.**
 > **This Relic is capable of altering the district it stands in: the floor holds the heat, the output rises with it, and no figure the Company reads can see both at once.**
 > **This Relic can carry a channel overload, and a conduit released without the working volume cleared vents the shift's whole held heat at once.**
-
-**Activation Trigger:** Material left within the working volume while somebody present is carrying a grievance they have not stated. Both conditions are required and the second is the one the sweep cannot catch.
-
-**Effect:** The metal is worked to the shape of the unstated grievance. Edges tempered here run twenty per cent further through armour than they have any right to, and stay hot in the hand.
-
-**Duration:** Until the grievance is stated aloud. Fuel and bellows are irrelevant and the file has demonstrated this twice by withholding both.
-
-**Risk:** Third-degree burns to the channeller, and an object nobody ordered.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -170,9 +174,9 @@ The gauge here rises and falls with the shift and explains nothing. The figure t
 | **Use Mode** | **Continuous / channeled use** |
 | **Activation** | Material in the working volume plus an unstated grievance in the room. |
 | **Primary Effect** | The metal takes the shape of the thing not said; the edge runs twenty per cent further through armour. |
-| **Duration** | Until somebody says it. Not until the fuel runs out, which has been tested. |
-| **Termination / Return** | The channel is closed deliberately, at the hearth, by the operator, and the sweep is signed before anybody steps back from the anvil; a conduit released without the volume cleared vents the shift's held heat at once, which is the only way this holding has ever injured anybody. |
-| **Risk** | Severe burns, and an unordered object that must be logged, photographed and destroyed elsewhere. |
+| **Duration** | Until somebody says it aloud. Not until the fuel runs out: the file has demonstrated this twice by withholding fuel and bellows both. |
+| **Termination / Return** | The channel is closed deliberately, at the hearth, by the operator. And the sweep is signed before anybody steps back from the anvil. A conduit released without the volume cleared vents the shift's held heat at once, which is the only way this holding has ever injured anybody. |
+| **Risk** | Third-degree burns to the channeller, and an object nobody ordered, which must be logged, photographed and destroyed elsewhere. |
 
 **Operational Rule:** The channel is never left untended and is never worked by somebody who has declined to answer the naming question at the door. Both rules came from the same incident and are in the standing order rather than in guidance.
 
@@ -180,8 +184,8 @@ The gauge here rises and falls with the shift and explains nothing. The figure t
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The forge begins to thrum, low and even, as the channel opens; the heat gathers over the anvil and nothing is visible above it yet. | Opening the channel tempers metal in concentrated Grudge: work finished in that heat gains +20% armour penetration and cannot be carried openly for the remainder of the watch. |
-| 30 Seconds | The conduit widens, and what comes up it is four generations of the same arrangement — workers shaping the city's unsaid fury into stock, until the hearth stopped being a tool and became a holding. | The aura reaches Range Band 2; units inside the working volume keep their elemental defence while the channeler holds focus, and composure is what pays for it. |
+| 10 Seconds | The forge begins to thrum, low and even, as the channel opens. The heat gathers over the anvil and nothing is visible above it yet. | Opening the channel tempers metal in concentrated Grudge: work finished in that heat gains +20% armour penetration and cannot be carried openly for the remainder of the watch. |
+| 30 Seconds | The conduit widens, and what comes up it is four generations of the same arrangement — workers shaping the city's unsaid fury into stock, until the hearth stopped being a tool and became a holding. | The aura reaches Range Band 2. Units inside the working volume keep their elemental defence while the channeler holds focus, and composure is what pays for it. |
 | 1 Minute | The channel takes more than mechanical effort: the channeler feels an unfulfilled purpose sitting on their lungs, which is the holding's own condition transferred whole. | Past sixty seconds the channel takes 4 Composure every 10 seconds; the operator must be ready to close before the load reaches the limit. |
 | 2 Minutes | The flow turns. When the historic grief overflows the channel it looks for a living vessel, and the first sign is a channeler who has stopped answering to their own name. | Overload, or a conduit abandoned without the stow procedure, vents an uncontrolled Grudge shockwave — the whole of the shift's heat into the room, and third-degree burns on whoever closed the flow. |
 
@@ -211,7 +215,7 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a heavy hammer of Grudge Han-iron, dark and faintly warm, with a haft of forge-scale and a head that rings flat rather than bright; drawn from the rack it pulses once, at the pace of a slow breath, and then holds.
+**Appearance:** a heavy hammer of Grudge Han-iron, dark and faintly warm, with a haft of forge-scale and a head that rings flat rather than bright. Drawn from the rack it pulses once, at the pace of a slow breath, and then holds.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -226,13 +230,13 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 
 **Ability:** Shapes Han more quickly when used against hostile force.
 
-**Cost:** The wielder feels anger toward every object they alter.
+**Bearer cost:** The wielder feels anger toward every object they alter.
 
 ### M.A.W. Suit — The Rage Plate
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, articulated at the shoulders and cut long at the hip so it can be worn over a forge apron; it creaks when the wearer stands still and goes quiet when they move.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, articulated at the shoulders and cut long at the hip so it can be worn over a forge apron. It creaks when the wearer stands still and goes quiet when they move.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -242,15 +246,15 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body — the physical form and its structural integrity — and it does so by absorbing the shift's held heat rather than deflecting it; the harness is warm to the touch after a watch, and warmest where the wearer has been keeping quiet.
+**Ability:** Grants resistance to Grudge damage, protecting the Body — the physical form and its structural integrity — and it does so by absorbing the shift's held heat rather than deflecting it. The harness is warm to the touch after a watch. And warmest where the wearer has been keeping quiet.
 
-**Cost:** The wearer's reflexes dull. Armoury entries describe it as being armoured by resentment: the plate answers slowly and so does the person inside it, and this is the figure the field rows exist to catch.
+**Bearer cost:** The wearer's reflexes dull. Armoury entries describe it as being armoured by resentment: the plate answers slowly and so does the person inside it, and this is the figure the field rows exist to catch.
 
 ### M.A.W. Stigma — The Rage Charm
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron worn at the tail of the belt, dark like the rest of the set and heavier than a thumb-sized piece of iron has any business being; near an unstated grievance it goes briefly hot, and it stays hot for as long as the silence does.
+**Appearance:** a small charm of Grudge Han-iron worn at the tail of the belt, dark like the rest of the set and heavier than a thumb-sized piece of iron has any business being. Near an unstated grievance it goes briefly hot. And it stays hot for as long as the silence does.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -258,7 +262,7 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 
 **Ability:** A minor boon tied to this holding's own nature: it sharpens the wearer's sense of what is being left unsaid, which is useful at the hearth and awkward everywhere else, because the effect does not switch off at the door.
 
-**Cost:** The bearer's temper shortens.
+**Bearer cost:** The bearer hears what is not being said in every room they walk into, and the charm has no switch to fit on the door.
 
 *Five charms exist. All five went to Wardens who had complied with the naming order in front of a superior, which is the part of the standing order that is hardest to obey.*
 
@@ -268,7 +272,7 @@ The three pieces carry different terms, not a single anger toll. The Hammer form
 
 In the exact set, Charm audits hidden fuel, Plate protects the worker and Hammer shapes one declared repair or protective object. Manufacture of enemies for shaping speed is failure, not efficiency. Plate protection falls when supervision is treated as combat, and a short temper is not proof of another worker’s hidden grievance. Record the anger’s source, the requested change and the worker’s right to stop; logging anger alone does not resolve it.
 
-Care and release are piece-specific. Rework harmless scrap slowly without opposition for the Hammer, then set it on cooled slag before anger becomes the reason to continue. For the Plate, record stiffened joints during a cold Forge period; the supervisor ends the shift aloud before releasing the slowest joint, and no plate is reheated over unnamed blame. Stop production before removing the Charm: tearing it free while hot ignites hidden resentment in the room. The Armoury records each toll against the bearer; returning an item is not recovery.
+Care and release are piece-specific. Rework harmless scrap slowly without opposition for the Hammer, then set it on cooled slag before anger becomes the reason to continue. For the Plate, record stiffened joints during a cold Forge period. The supervisor ends the shift aloud before releasing the slowest joint, and no plate is reheated over unnamed blame. Stop production before removing the Charm: tearing it free while hot ignites hidden resentment in the room. The Armoury records each toll against the bearer; returning an item is not recovery.
 
 ### Field Use Record
 
@@ -277,9 +281,9 @@ Care and release are piece-specific. Rework harmless scrap slowly without opposi
 | **Before use** | Wielder, piece and a dated baseline taken by the second worker from the shift register, with the bearer’s own account kept separately. Record the Hammer’s object resentment, the Plate wearer’s reflexes or the Charm bearer’s temper as applicable, and enter the piece’s binding terms before use. |
 | **During use** | The second worker logs the onset of the piece’s own toll: resentment toward altered objects, dulled reflexes or shortened temper. Record refusal of rest or correction and any attempt to provoke opposition for speed. The bearer’s account is retained separately, not substituted for observations. |
 | **At limit** | Do not assume reflex loss and temper change proceed at the same rate. Record the piece and observed limit, then use its own shutdown or removal terms: cooled slag for the Hammer, the supervisor’s spoken shift-end for the Plate, and stopped production before Charm removal. |
-| **After use** | Piece returned and the bearer re-assessed a week later as well as during the watch; costs can already be apparent in use. Record the release performed and any continuing resentment, reflex loss or shortened temper. If the register has not returned to baseline, do not reissue; the weekly check does not replace immediate observation. |
+| **After use** | Piece returned and the bearer re-assessed a week later as well as during the watch. Costs can already be apparent in use. Record the release performed and any continuing resentment, reflex loss or shortened temper. If the register has not returned to baseline, do not reissue; the weekly check does not replace immediate observation. |
 
-**Stat interpretation:** The grade tells you how hard it hits and says nothing about what it takes. This is a β set cut from a floor that has been absorbing the District's unsaid anger for four generations, and the cost is not proportional to the grade — it is proportional to how much the bearer has been keeping quiet, which is why the baseline register is taken at all.
+**Stat interpretation:** The grade tells you how hard it hits and says nothing about what it takes. This is a β set cut from a floor that has been absorbing the District's unsaid anger for four generations. And the cost is not proportional to the grade — it is proportional to how much the bearer has been keeping quiet, which is why the baseline register is taken at all.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -297,7 +301,7 @@ Care and release are piece-specific. Rework harmless scrap slowly without opposi
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Sweep the working volume, sign the sheet in full with the time, take the idle floor reading at the fixed point, and answer the naming question at the door. |
-| **Sustained observation** | Floor and walls logged alongside the gauge. If the heat rises, somebody states a grievance aloud; rank does not excuse anybody from this and twice it has been a commander who had to speak. |
+| **Sustained observation** | Floor and walls logged alongside the gauge. If the heat rises, somebody states a grievance aloud. Rank does not excuse anybody from this and twice it has been a commander who had to speak. |
 | **Activation or escalation** | Metal moving with nobody at the anvil. Record what was in the volume, who was in the room, what was said, and what came out. Do not take the object off the floor. |
 | **Post-contact review** | Second idle reading, wall inspection, sweep sheet, and the text of anything stated aloud, entered verbatim. The statements are filed and are not shown to supervisors, which was a condition of the naming order being accepted at all. |
 
@@ -319,7 +323,7 @@ The office confirms, for the fourth time, that it does not record the manner in 
 Management: sweep signed in full, naming order enforced regardless of rank, unordered objects logged and destroyed at the District furnace. Work response — Viderehan: steady enough for a clean idle reading (Stable); Ferrehan: the long stand with the grievance spoken aloud (Decrease). Flerehan and Pugnahan do not apply to a place.
 
 **Entry 5 — <The Forge in Zone D>**
-Crucible burns in Zone D — ancient, hot, made of crystallized fury. The Forge creates weapons from anger — blades of fury, shields of resentment. Born from the sorrow of creation through pain — making things because you're too angry to stop. The entity does not cool. Smiths who have worked the hearth report that the heat is not the forge's but the grudge's, and that a blade tempered here leaves the anvil already knowing what it was made to cut — twenty per cent further through armour than it has any right to go, and hot enough in the hand to keep reminding the bearer why it exists.
+Crucible burns in Zone D — ancient, hot, made of crystallized fury. The Forge creates weapons from anger — blades of fury, shields of resentment. Born from the sorrow of creation through pain — making things because you're too angry to stop. The entity does not cool. Smiths who have worked the hearth report that the heat is not the forge's but the grudge's. And that a blade tempered here leaves the anvil already knowing what it was made to cut — twenty per cent further through armour than it has any right to go. And hot enough in the hand to keep reminding the bearer why it exists.
 
 ## 최종 관찰 (Final Observation)
 
@@ -327,7 +331,7 @@ Crucible burns in Zone D — ancient, hot, made of crystallized fury. The Forge 
 
 | Hold to the condition: somebody states the grievance aloud, specifically, in the room, and the watch closes on controlled work (Cool the anger through naming and controlled work). | Keep it courteous — apologise, sympathise, admit to being tired in general, or explain somebody else's anger for them. Every one of those leaves the heat in the floor, and every failure on this file began that way. |
 |---|---|
-| The grievance is named in the room and the heat falls under controlled work; record the floor again rather than claiming the long-term rise is cured. | The grievance remains unnamed and the heat remains. Material left within the live working volume can still be shaped; the fixed Place does not withdraw. |
+| The grievance is named in the room and the heat falls under controlled work. Record the floor again rather than claiming the long-term rise is cured. | The grievance remains unnamed and the heat remains. Material left within the live working volume can still be shaped; the fixed Place does not withdraw. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -346,7 +350,7 @@ The furnace breathes crimson at rest. The floor reads seventy-four degrees with 
 
 ### Interaction Pattern
 
-The three holdings below are filed against Crucible because the archive pairs by subject rather than by contact: an undertaking not kept, a shadow that takes what is spilled, and a guild that builds. What makes this holding distinct is not the material it works but what the material is shaped out of, and none of the three pairings has ever produced a transfer — which the wing has entered as a nil result so the old claim cannot be cited again.
+The three holdings below are filed against Crucible because the archive pairs by subject rather than by contact: an undertaking not kept, a shadow that takes what is spilled, and a guild that builds. What makes this holding distinct is not the material it works but what the material is shaped out of. And none of the three pairings has ever produced a transfer — which the wing has entered as a nil result so the old claim cannot be cited again.
 
 **Interaction method:** Baseline alone with four clean idle readings, then proximity with the floor read hourly rather than between watches. The working volume is swept before and after every trial and the sweep sheet is countersigned by somebody from outside the District.
 
@@ -357,15 +361,15 @@ Crucible must be assessed against the other Forge District files and kept distin
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Broken Promise** | An undertaking not kept, beside a complaint not acted on. Adjacent in subject and distinct in mechanism: the Promise concerns what was said, this holding concerns what was answered. | Three proximities. No transfer. Nothing was produced on the anvil, the working volume having been swept by two parties, and the idle reading ran 73–74 throughout. | Hourly idle readings, wall inspection, double-swept working volume. |
-| **The Soaking Shadow** | Recorded as feeding on this holding's resentment. Nothing in nine years of readings supports a transfer in either direction. | Four proximities. The Shadow took nothing measurable and the idle series did not deviate; the wing has entered this as a nil result so the old claim cannot be cited again. | Hourly idle readings and the Shadow's own uptake log. |
+| [**The Broken Promise**](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) | An undertaking not kept, beside a complaint not acted on. Adjacent in subject and distinct in mechanism: the Promise concerns what was said, this holding concerns what was answered. | Three proximities. No transfer. Nothing was produced on the anvil, the working volume having been swept by two parties, and the idle reading ran 73–74 throughout. | Hourly idle readings, wall inspection, double-swept working volume. |
+| [**The Soaking Shadow**](SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md) | Recorded as feeding on this holding's resentment. Nothing in nine years of readings supports a transfer in either direction. | Four proximities. The Shadow took nothing measurable and the idle series did not deviate. The wing has entered this as a nil result so the old claim cannot be cited again. | Hourly idle readings and the Shadow's own uptake log. |
 | **The Architects** | Architects have worked the hearth under supervision, which is the only authorised use of this holding and is now suspended. | Two sessions. Both produced sound work and both produced an unordered second object overnight from offcuts, which is why authorised use was suspended pending the sweep rule being extended to them. | Hourly idle readings, full inventory of material in and out, overnight watch. |
 
 **Interaction procedure:** Four clean idle readings before a trial and four after, with the working volume swept by two parties. One trial has been voided because the volume was swept by the same Warden twice.
 
 ## 이야기 (Narratio) — The Tale
 
-In the Forge District nobody has ever been punished for losing their temper, and that is the whole of this file.
+There was a Forge District where nobody had ever been punished for losing their temper, and that is the whole of this file.
 
 The rule is one line in the conduct code: manner is not a ground. Nothing a worker says in anger may be the subject of a charge, and no grievance may be set aside because of how it was delivered. It was written after a decade in which the District was managed by tone — workers dismissed for insolence while the thing they were insolent about went unexamined — and after a woman was put out of the service for shouting about an unguarded press that killed two men the following spring. Her shouting is in the record. The press is in the record. The charge against her was the only document anybody acted on.
 
@@ -399,21 +403,21 @@ Crucible is what that arrangement looks like with a floor under it. It shapes th
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). Structural: a cold floor at 74 degrees and rising, two recorded wall events, severe burns to channellers, and objects produced unattended from material left in the working volume. Nobody has been attacked.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type, with Viderehan for the readings. Pugnahan is not a permitted Work Type against a Place and the Behavior table marks it N/A; it stood in this record as primary for eleven years.
+- Ferrehan is the primary Work Type, with Viderehan for the readings. Pugnahan is not a permitted Work Type against a Place and the Behavior table files it Net-Neutral. It stood in this record as primary for eleven years.
 - Rotate every 72 hours, and do not roster anybody who declined to answer the naming question at the door.
 - The idle floor reading, not the output, is the monitored figure. Output has never predicted anything here.
 **Observation Notes:**
 - Formed from generations of anger that was permitted, absorbed and put to work, and never once held against anybody.
 - Idle floor readings 61, 68 and 74 degrees across three years, taken off cold stone between watches.
-**Cross-References:** Forge District · The Grievance Office · The Broken Promise · The Soaking Shadow · The Architects
+**Cross-References:** Forge District · The Grievance Office · The [Broken Promise](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) · The [Soaking Shadow](SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md) · The Architects
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · The Grievance Office, standing correspondent to this file, which has answered four enquiries and refused all four on the same correct ground — that it does not record the manner in which a complaint was delivered
 **Originator:** Collective; generations of forge-workers who fed resentment into the furnace.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read the idle floor series before anything else on this sheet, and read the sweep sheet immediately after it: 61, 68 and 74 degrees off cold stone on one side, two full signatures and a time on the other. Everything else here — the gauge, the Work Types, the M.A.W. costs — is subordinate to those two records. The holding is a floor that has been absorbing an arrangement nobody wrote down, and the file will be wrong the moment that arrangement changes; where it does, enter the contradiction as the finding rather than tidying it away.
+**Operational interpretation:** Read the idle floor series before anything else on this sheet, and read the sweep sheet immediately after it: 61, 68 and 74 degrees off cold stone on one side, two full signatures and a time on the other. Everything else here — the gauge, the Work Types, the M.A.W. costs — is subordinate to those two records. The holding is a floor that has been absorbing an arrangement nobody wrote down, and the file will be wrong the moment that arrangement changes. Where it does, enter the contradiction as the finding rather than tidying it away.
 
-**Review requirement:** After every activation, Sorrow Tide, transformation attempt or unusual interaction: re-take the idle reading at the fixed point, re-inspect the walls, confirm the working volume empty, and re-read the sweep sheet for both signatures and the time. Two items are specific to this holding. The naming order is read aloud at the hearth on the first watch of every rotation, and the Grievance Office's four refusals are re-read in full at annual review, unaltered.
+**Review requirement:** After every activation, Sorrow Tide or unusual interaction: re-take the idle reading at the fixed point, re-inspect the walls, confirm the working volume empty, and re-read the sweep sheet for both signatures and the time. Two items are specific to this holding. The naming order is read aloud at the hearth on the first watch of every rotation, and the Grievance Office's four refusals are re-read in full at annual review, unaltered.
 ## Warden Record
 
 ### Forging Without a Smith
@@ -434,7 +438,7 @@ The idle reading is taken off cold stone at a fixed point between watches, indep
 
 What appears in the series is the number of grievances from this District closed as *heard, no action required*. The Grievance Office supplied that figure without difficulty, because it is the one figure the Office is permitted to keep: it does not record how a complaint was made, only how it was disposed of. Four enquiries from this holding asked for something else — how many complaints involved anger — and all four were refused, correctly, on the ground that the Office does not record manner.
 
-It does not record manner because manner is not a ground. Nothing said in anger may be charged, and no grievance may be set aside for the way it was delivered. The rule replaced a decade of management by tone, in which workers were dismissed for insolence while the subject of their insolence went unexamined, and it was written in the year a woman was put out of the service for shouting about an unguarded press that killed two men the following spring. Her charge sheet is in the record. So is the press. The convenor of this District, asked at the last review whether the rule should be revisited, said no, twice, and asked for both refusals to be minuted.
+It does not record manner because manner is not a ground. Nothing said in anger may be charged, and no grievance may be set aside for the way it was delivered. The rule replaced a decade of management by tone, in which workers were dismissed for insolence while the subject of their insolence went unexamined. And it was written in the year a woman was put out of the service for shouting about an unguarded press that killed two men the following spring. Her charge sheet is in the record. So is the press. The convenor of this District, asked at the last review whether the rule should be revisited, said no, twice, and asked for both refusals to be minuted.
 
 The consequence nobody designed is that anger here produces no document. It is never charged, never recorded, never counted, and therefore never read by anyone above the floor. The only index of it that reaches the Company is output, and output rises with it, so the angriest wings read as the best wings and are praised as such. The heat has to go somewhere and the stone has it.
 
@@ -462,10 +466,10 @@ Both signatures on the sweep are entered in full rather than initialled, and the
 ### Registry Trivia
 
 - **Classification detail:** Crucible is an Object/Place with Fragment (III) — Burning and creative coherence and Moderate (β) potency.
-- **Field detail:** Grudge is the whole of it, and the registered location is Zone D, Forge District; the idle series stands at 61, 68 and 74 degrees off cold stone, and it has never moved with stoppages, hearth use or headcount — only with grievances closed as heard with no action attached.
+- **Field detail:** Grudge is the whole of it. And the registered location is Zone D, Forge District. The idle series stands at 61, 68 and 74 degrees off cold stone. And it has never moved with stoppages, hearth use or headcount — only with grievances closed as heard with no action attached.
 - **Recognition detail:** Identify it by the idle floor temperature at the fixed point and by the sweep sheet. Emotional impression is a poor guide: the room feels like held breath whether the reading is 61 or 74.
 - **Record detail:** Two signatures in full on every sweep, with the time. Initials are not accepted, because two long-serving Wardens' initials are indistinguishable and the sweep is the one record where it matters precisely who did it.
-- **Containment detail:** There is nothing here to seal. Containment is a swept working volume, two signatures in full on the sweep sheet with the time, a naming order enforced without regard to rank, and an idle reading taken independently by the Warden going off and the Warden coming on — of those, the reading is the instrument and the signatures are the containment.
+- **Containment detail:** There is nothing here to seal. Containment is a swept working volume, two signatures in full on the sweep sheet with the time, a naming order enforced without regard to rank. And an idle reading taken independently by the Warden going off and the Warden coming on — of those, the reading is the instrument and the signatures are the containment.
 ## Document Information
 
 **Document ID:** SE-C-IIIβ-275

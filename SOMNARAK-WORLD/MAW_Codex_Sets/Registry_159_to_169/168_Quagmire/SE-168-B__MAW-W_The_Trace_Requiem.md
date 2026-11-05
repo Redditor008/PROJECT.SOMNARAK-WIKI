@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Vestige Censer
+# M.A.W. WEAPON — The Trace Requiem
 
 > *“It can cut the feeling that you must keep walking the failed route. It cannot make the travelers who were lost arrive.”*
 
@@ -20,7 +20,7 @@
 | Set | Witnessed Route |
 | Type / grade / element | Weapon / α — Minor / Lament |
 | Status | Active; return-line issue required |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Cartographer Yeonhwa |
 | Resting form | A small blue blade with a broken route line within the crystal and no point facing forward by default. |
 | Active form | The route line turns toward the team’s mapped return direction rather than the collapsed trace. |
@@ -41,7 +41,7 @@
 
 ## Appearance
 
-Appearance : A handheld cast-brass thurible suspended by three delicate chains, pierced with floral filigree that releases thin, continuous curls of fragrant dried lavender incense.
+A handheld cast-brass thurible suspended by three delicate chains, pierced with floral filigree that releases thin, continuous curls of fragrant dried lavender incense.
 
 The aromatic smoke creates an emotional oasis that shields the bearer's composure from horrific visual anomalies. In close quarters, swinging the heated brass bowl delivers painful blunt impacts.
 
@@ -92,14 +92,3 @@ Yeonhwa used *Turn Back Together* when a scouting team began walking toward a Qu
 The Requiem is the turning tool of *Arrive Together*. Trace Shroud preserves the traveler and Trace Lantern shows hidden routes; this weapon refuses to let mapping turn into another disappearance.
 
 > *“A safe map has an end point and a return. A tragic map has the names of the people who did not get either.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-168-B`  
-**Linked Entity:** `SE-168`  
-**Item Registry Code:** `MAW-W-168-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

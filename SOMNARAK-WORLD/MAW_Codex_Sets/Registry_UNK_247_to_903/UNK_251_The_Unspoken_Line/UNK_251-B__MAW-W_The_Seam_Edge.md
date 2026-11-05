@@ -37,14 +37,3 @@
 **Corrosion:** distances become visible cuts; reconciliation becomes compulsion; terminal use severs anyone who refuses speech.  
 **Maintenance:** list consented speakers and exact sentence limit.  
 **Shutdown:** both sides close the blade’s line by naming what remains unresolved.
-
----
-
-**Document ID:** `UNK-251-B`  
-**Linked Entity:** `UNK-251`  
-**Item Registry Code:** `MAW-W-UNK-251-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

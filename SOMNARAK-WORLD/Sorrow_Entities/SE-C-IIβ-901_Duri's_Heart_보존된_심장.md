@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-901 [WO]` |
-| **Entity Type** | **Object** — Can breach via Transform |
+| **Entity Type** | **Object** — Non-breaching: expansion only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Body |
-| **Physical Form** | Organic — A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and pulses in time with the organ within. |
+| **Physical Form** | Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-901, contained |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,10 +28,11 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object |
 | **Primary pressure** | Weight / Body pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, measured by four hundred specimen beats. At the documented baseline of one beat every three seconds, that count takes twenty minutes, not a little over six. The external caller records the actual count; the handler's sense of elapsed time is not the instrument. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is an organ preserved and beating, with no account of the preservation. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -45,51 +46,58 @@
 - Handlers' pulses are recorded at the door entering and leaving. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads and whatever the task state.
 - Extraction is separately authorised; it has been sought twice in forty-eight years and granted neither time, and the second refusal is four words long: *it is still beating.*
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight. Nothing has been attempted against the specimen and the amber has never been opened; the figure is schedule carry-over and the station treats the pulse series as the real column. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 448/448 |
-| **Han Pressure [ATK]** | 14–26 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-901 |
-| **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. 188 cycles; the pulse has matched in 147 of them and the 41 misses are the file. |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
 
-### Combat Actions
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "Your own pulse finds the specimen's rate and settles on it." | [The handler's heart matches the amber's unvarying beat within the first minute.] | *10 Weight. It has happened to every handler in forty-eight years and nobody has felt it happen.* **[10 Weight DMG [Weight]]** | On approach, every cycle. |
-| { *The Body Surge* [**Attack**] } | "The beat is yours now and it is not going any faster, whatever you are doing." | [The handler's heart holds the specimen's rate through exertion, alarm or injury.] | *18 Weight; the handler cannot raise their own pulse and will not register this as wrong.* **[18 Weight DMG [Weight]]** | When a handler stays past four hundred beats. |
-| { *The Settling* [**Attack**] } | "The specimen stops for one beat and so does everything else in the room." | [A single skipped beat, propagated to every heart present.] | *26 Weight to everybody in the chamber. Recorded nine times; all nine were followed by a fortnight of ordinary readings.* **[26 Weight DMG [Weight]]** | When the glass is touched. |
-| { *The Body Collapse* [**Ultimate**] } | "Every pulse in the wing takes the specimen's rate and holds it." | [The rate propagates beyond the chamber to anybody in the sector.] | *20 Weight per cycle for three cycles to everyone in the wing.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,231 Tide; the infirmary recorded sixty-one identical pulses in one afternoon. |
+The gauge is read at the instrument. The cost is read on the person.
 
-### Battle Phases
+## Contact Record
 
-1. **Tension:** The handler's pulse is taken and written at the door, the pulse-caller takes position outside the glass, and the count begins. The caller is a second person and never the handler; that rule is the whole of the containment.
-2. **Clash:** Four turns, observation and endurance only, conducted seated at the marked distance with the handler's pulse called aloud at each turn boundary by somebody outside the cell.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: four hundred beats called, the party out of the cell with the handler's pulse within four beats of their own door reading, and the glass still shut.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the expansion record says plainly that nothing leaves the cradle and the advance can be outwalked. What it does is take the handler's pulse and hold it, and the record is a beat count called by somebody standing outside the glass.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A human heart suspended in dark amber Han-crystal, still beating — slow, wet, unmistakable — warm to the touch and pulsing in time with the organ within. It has not moved from its cradle in forty-eight years; what moves is the Weight radius, in steps. |
+| **Perceptible to** | The beat first, at a rate that has not varied. Then the warmth of the amber, and the handler's own pulse arriving at the specimen's rate rather than their own. Neither the handler nor the party can feel it happen. |
+| **Handling** | Pulse taken at the door going in and coming out, the beats called aloud by an external caller from outside the glass, and the glass never opened. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads. — see `## Handling Process` |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-C-901, contained |
+| **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. Forty-eight years of the beat record; the pulse has matched in all but 41 readings, and the misses are the file. |
+
+
+### Contact Events
+
+| Event | What the Heart does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | On approach the handler's heart matches the amber's unvarying beat within the first minute, and nobody has ever felt it happen. | The pulse is taken at the door and the beats are called aloud from outside the glass by somebody who is not the handler. | It has happened to every handler in forty-eight years, which is why the door reading is the record and the sensation is not. |
+| { *The Body Surge* [**Exposure**] } | Past four hundred beats the handler cannot raise their own pulse through exertion, alarm or injury, and does not register this as wrong. | The outside caller keeps the count, because the handler's sense of elapsed time is not the instrument and four hundred beats takes twenty minutes rather than six. | The composure is pleasant and does not recede for days, which is why the file records the description and the dose data beside it, in that order. |
+| { *The Settling* [**Refusal**] } | A single skipped beat is propagated to every heart in the chamber. Recorded nine times, and all nine were followed by a fortnight of ordinary readings. | The glass is not touched and the amber is not opened; extraction has been sought twice in forty-eight years and granted neither time. | The refusal is the glass. Nothing is taken out of it, and the specimen has never left the cradle. |
+| { *The Body Collapse* [**Overload**] } | Above sixty-five per cent every pulse in the wing takes the specimen's rate and holds it — recorded once, in Year 4231, when the infirmary logged sixty-one identical pulses in one afternoon. | The wing is cleared and the count is taken by the caller rather than inferred, and a converged handler is stood down for the day rather than for the shift. | The rate propagates and then withdraws, and the amber is inert on every assay. What is inside it is doing the work. |
+
+### Watch Sequence
+
+1. **What is confirmed:** the handler's pulse at the door, the beat count called from outside the glass, and the marked distance the party will sit at for the cycle.
+2. **What the watch does:** Viderehan makes the darkening series and the beat legible as a record, Ferrehan sits the cycle without shortening it, and the caller keeps the count aloud. The glass is not opened and the cradle is not touched.
+3. **How it closes:** **Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut** — and a cycle that misses is entered as a miss rather than reasoned away.
 
 ### Consequences
 
@@ -123,57 +131,45 @@
 | **Form** | A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and pulses in time with the organ within. |
 | **Position / movement** | Fixed in its cradle in the sealed cell at SECTOR-C-901, Floor 5, and never relocated. It does not move; during an expansion the affected radius grows in discrete steps, one per beat. |
 | **Material / signature** | Dark amber Han-crystal, warm to the touch at blood temperature through cloth, pulsing visibly in time with the organ. Weight expression. The amber darkens measurably on certain dates and lightens again within a day. |
-| **Distinctive markers** | One beat every three seconds, audible at two metres; warmth that matches a living body and not the room; forty-seven dated darkenings a year, each falling on the same calendar day it fell on the year before. |
+| **Distinctive markers** | One beat every three seconds, audible at two metres. Warmth that matches a living body and not the room. Forty-seven dated darkenings a year, each falling on the same calendar day it fell on the year before. |
 | **Identification** | Confirm: designation `C-IIβ-901 [WO]`, Echo (II) coherence, Moderate (β) potency, Object-Body manifestation, Weight element, SECTOR-C-901 on Floor 5. The beat is the identifying feature and is counted, not estimated. |
 
 ## Origin
 
 Duri's Heart belonged to a healer named Duri who could not save everyone. In the early years of the Veil's implementation, when containment was improvised and the Fracture rate was catastrophic, Duri worked the medical bay in Zone D for eleven days straight — no sleep, no relief, no triage protocol sophisticated enough to handle the volume. On the eleventh day, her own heart failed. The Han in the bay — already dense from eleven days of concentrated medical grief — crystallized around the organ before it could stop. The crystal preserved the heart. The heart preserved the grief.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the darkening series and the beat become legible as a record rather than as behaviour. | Decrease |
-| **Ferrehan** (Endurance) | Recognises patience; the weight settles around a party that sits the full cycle at the marked distance without shortening it. | Decrease |
+> **This holding is not worked.** A human heart suspended in dark amber Han-crystal, still beating — slow, wet, unmistakable — warm to the touch and pulsing in time with the organ within. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the handler's pulse at the door, the beat count called from outside the glass, and the marked distance the party will sit at for the cycle. |
+| **Handling** | The observer makes the darkening series and the beat legible as a record, the stander sits the cycle without shortening it, and the caller keeps the count aloud. The glass is not opened and the cradle is not touched. |
+| **Withdrawal** | **Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut** — and a cycle that misses is entered as a miss rather than reasoned away. |
+| **Refusal** | The glass is not touched and the amber is not opened; extraction has been sought twice in forty-eight years and granted neither time. |
 
-Duri's Heart is an Object with Object-Body manifestation and Weight expression, held at SECTOR-C-901 on Floor 5. Flerehan and Pugnahan are unavailable to an Object. Both valid Work Types lower the gauge. What distinguishes this holding from every other Weight entity in the wing is that the pressure it applies is pleasant, and the file is built around the consequences of that.
-
-## Breach Behavior
+## Expansion Behavior
 
 > *"Duri's Heart is expanding its reach. The amber remains in its cradle; the Weight radius advances on the beat. Track the people reached, not an escaping organ."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion — in discrete steps, one per beat. |
-| **Movement** | Nothing leaves the cradle. The affected radius grows by a fixed increment on each beat and holds between beats, so an expansion advances in visible steps of about forty centimetres every three seconds and can be outwalked at any point. |
-| **Effect** | Weight in the body register: a deepening composure, a slowing pulse, and a progressive unwillingness to stop working. Nobody inside the radius has ever reported discomfort, which is the hazard. |
-| **First Target** | Whoever is nearest when the affected radius begins to advance. It does not select: distance determines the order people are reached, while the expansion record describes a fixed step on each beat, not a quickening organ or a chosen victim. |
-| **Escalation** | Weight drain increases by 5 per turn until suppressed. Because the advance is one step per beat and the beat is invariant, the arrival time at any point in the sector can be calculated in advance — the only holding in the wing of which that is true. |
+| **Expansion Trigger** | Three ignored conditions, and nobody inside the advancing edge reports anything when it starts: the first sign is in the handler's pulse and not in the specimen, which is why the specimen is not the thing being watched. |
+| **Expansion Rate** | One fixed increment per beat and a hold between beats — a visible step of about forty centimetres every three seconds, which can be outwalked at any point. Because the beat is invariant, the arrival time at any part of the sector can be calculated in advance, and this is the only holding in the wing of which that is true. |
+| **Expansion Effect** | Weight in the body register: a deepening composure, a slowing pulse, and a progressive unwillingness to stop working. Nobody inside the radius has ever reported discomfort, which is the hazard. |
+| **Containment** | Take the handler's pulse at the door, call the specimen's beats aloud from outside the glass, and take the pulse again on leaving. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads. |
 
 ### Escalation Notes
 
-- **Containment priority:** Cool the amber and slow the beat. Shattering the crystal does not end an expansion; it removes the only thing setting its pace, and the one attempt is recorded in full in the Watch Record.
-- **Sorrow Gauge on breach:** Opens at 50% and rises 5% per beat, so the gauge is a clock and the response procedure is written in beats rather than in minutes. It falls 5% for each beat called aloud by somebody outside the glass, which is why the caller exists and why the post is never left empty.
+- **Containment priority:** Cool the amber and slow the beat. Shattering the crystal does not end an expansion. It removes the only thing setting its pace, and the one attempt is recorded in full in the Watch Record.
+- **Sorrow Gauge on expansion:** Opens at 50% and climbs for as long as the beats go uncalled, so the gauge is a clock and the response procedure is written in beats rather than in minutes. It falls for each beat called aloud by somebody outside the glass, which is why the caller exists and why the post is never left empty.
 
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This relic keeps the bearer's heart at a rate that is not theirs, through anything**
-
-**Activation Trigger:** Physical contact and intentional interaction.
-
-**Effect:** Projects concentrated Weight sorrow resonance across the immediate perimeter.
-
-**Duration:** Continuous while equipped
-
-**Risk:** Prolonged contact causes cognitive and emotional fatigue.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -183,7 +179,7 @@ Duri's Heart is an Object with Object-Body manifestation and Weight expression, 
 | **Activation** | Physical contact and intentional interaction. |
 | **Primary Effect** | Projects concentrated Weight sorrow resonance across the immediate perimeter. |
 | **Duration** | Continuous while equipped |
-| **Termination / Return** | The operator returns the piece and submits to a pulse reading. Early return is permitted and is never questioned; exceeding the dose limit does not injure the bearer in any way they will report, which is why the limit is enforced by the door reading and not by the bearer. |
+| **Termination / Return** | The operator returns the piece and submits to a pulse reading. Early return is permitted and is never questioned. Exceeding the dose limit does not injure the bearer in any way they will report, which is why the limit is enforced by the door reading and not by the bearer. |
 | **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
 
 **Operational Rule:** The relic works while carried and cannot be left running in a room. It does not substitute for a work cycle and does not substitute for rest, and the second half of that sentence was added in the thirty-ninth year, after the matter described in the third section below.
@@ -199,7 +195,7 @@ Duri's Heart is an Object with Object-Body manifestation and Weight expression, 
 
 ### Escalation Notes
 
-Escalation here is uniquely predictable. The beat does not vary, the step does not vary, and the radius is therefore a known function of time; record the beat count, the step measurement, the radius at each minute, and the pulse of every person inside it. Because the expression is Weight in the body register, personnel readings are the telemetry and the specimen readings are the control.
+Escalation here is uniquely predictable. The beat does not vary, the step does not vary, and the radius is therefore a known function of time. Record the beat count, the step measurement, the radius at each minute, and the pulse of every person inside it. Because the expression is Weight in the body register, personnel readings are the telemetry and the specimen readings are the control.
 
 **Response sequence:** Establish the perimeter outside the calculated radius for the duration of the response, confirm whether the event is an expansion or an unauthorised contact, and withdraw everybody whose pulse has moved more than eight beats from their door reading. Do not use a volunteer who has worked this holding in the same cycle. Do not improvise an unlisted Work Type.
 
@@ -238,7 +234,7 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 
 **Ability:** Weight against the Body. Struck targets' hearts hold a steady rate for some hours regardless of what happens to them, which fourteen targets have described as the calmest and worst experience of their service.
 
-**Cost:** The wielder experiences mild memory fragmentation with each use.
+**Bearer cost:** The wielder cannot get their own heart to rise to anything, not a chase and not an alarm, and the calm in the chest is not theirs.
 
 ### M.A.W. Suit — Duri's Heart's Veil
 
@@ -256,7 +252,7 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 
 **Ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.
 
-**Cost:** A constant low fatigue, and a pulse that will not rise. Three wearers; all three were taken off field duty on that ground and none of them agreed with the decision.
+**Bearer cost:** A constant low fatigue, and a pulse that will not rise. Three wearers; all three were taken off field duty on that ground and none of them agreed with the decision.
 
 ### M.A.W. Stigma — Duri's Heart's Token
 
@@ -270,7 +266,7 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
 
-**Cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
+**Bearer cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
 
 *Eight in forty-eight years, in each case to a worker who ended their own cycle at four hundred beats rather than being called off. Nobody who was called off has received one, and the station is careful to add that being called off is correct procedure and not a fault.*
 
@@ -282,10 +278,10 @@ Each piece extends a composure that was paid for once already. The grade describ
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Name the operator, the piece and its grade, condition and mission. For a cell session, retain Gauge, timed specimen count, amber reference shade, door pulse and the external caller. For equipment, distinguish the Edge's memory baseline, the Veil's fatigue and pulse response, and the Token's carried load; the head-slot grant is not the whole amber specimen. |
+| **Before use** | Name the operator, the piece and its grade, condition and mission. For a cell session, retain Gauge, timed specimen count, amber reference shade, door pulse and the external caller. For equipment, distinguish the Edge's memory baseline, the Veil's fatigue and pulse response, and the Token's carried load. The head-slot grant is not the whole amber specimen. |
 | **During use** | Record contact time and the existing fifteen-second pulse calls, composure onset and any refusal to stop. Enter the actual piece's cost: memory fragmentation for the Edge, low fatigue and pulse limitation for the Veil, or the Token's increasing burden near unresolved debt. Radius readings belong to a source expansion, not an assumed enlargement of the carried item. |
 | **At limit** | Retain the caller's once-per-cycle unannounced startle test and its yes-or-no record. It is not a substitute for the existing convergence stop, the separate emergency-withdrawal rule, or the closed-glass pulse-completion condition. Claiming the source event in first person is an equipment corrosion sign, not evidence that the bearer is Duri or that an uncertain item history has been recovered. |
-| **After use** | Record the removal method where one is actually documented, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation and reuse authorization. Record each item's memory, fatigue or load cost separately. Exact item care requires attribution review before cleaning or rest and named-witness relinquishment; that preserves the record, does not refund the cost and does not authorize opening the source amber or extracting tissue. |
+| **After use** | Record the removal method where one is actually documented, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation and reuse authorization. Record each item's memory, fatigue or load cost separately. Exact item care requires attribution review before cleaning or rest and named-witness relinquishment. That preserves the record, does not refund the cost and does not authorize opening the source amber or extracting tissue. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -309,9 +305,9 @@ Each piece extends a composure that was paid for once already. The grade describ
 
 **Entry 3 — Counseling Log** *<Interview, handler, after a fourth consecutive session>* — "I have not been afraid of anything for about three weeks. I know that is the wrong answer. I can tell you it is the wrong answer and I cannot make myself mind."
 
-**Entry 4 — Containment Notice** The external pulse-caller is mandatory and is not a second pair of hands; the post exists so that the beats are counted by somebody whose own heart is not keeping them. The glass is not touched and the handler's pulse is recorded at both doors.
+**Entry 4 — Containment Notice** The external pulse-caller is mandatory and is not a second pair of hands. The post exists so that the beats are counted by somebody whose own heart is not keeping them. The glass is not touched and the handler's pulse is recorded at both doors.
 
-**Entry 5 — Director's Note** *<Minute on the fatigue-management submission>* — I am asked to certify that proximity to C-IIβ-901 is an adequate control for extended duty in the lower bays. The evidence supports it and I have signed. I record that the control we are relying on was manufactured by an eleven-day shift in a bay with no relief, that the woman who worked it is the control, and that nobody at this table thought the sentence worth saying out loud until I wrote it down.
+**Entry 5 — Director's Note** *<Minute on the fatigue-management submission>* — I am asked to certify that proximity to C-IIβ-901 is an adequate control for extended duty in the lower bays. The evidence supports it and I have signed. I record that the control we are relying on was manufactured by an eleven-day shift in a bay with no relief, that the woman who worked it is the control. And that nobody at this table thought the sentence worth saying out loud until I wrote it down.
 
 ## 최종 관찰 (Final Observation)
 
@@ -362,7 +358,7 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 
 **Containment Status:** Contained — SECTOR-C-901, sealed cell, Floor 5; listed in the lower-bay safety case as a fatigue-management control
 
-**Comprehension Level:** 2 — Basic. The beat, the dose curve and the darkening series are all characterised; why a stopped heart continues is not, and the file does not pretend otherwise.
+**Comprehension Level:** 2 — Basic. The beat, the dose curve and the darkening series are all characterised. Why a stopped heart continues is not, and the file does not pretend otherwise.
 
 **Threat Assessment:** Moderate (β). It cannot move, cannot select, and expands at a rate that can be calculated in advance and walked away from. It is graded Moderate because its influence is experienced as a benefit, because the exposed are the last to know they are exposed, and because the facility has written that benefit into a safety case as a control.
 
@@ -385,10 +381,10 @@ The relations below are held to one test: whether a pairing can be warned. This 
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Kind Healer** | Two healers' remains, one walking and one kept: the Healer attends whoever is hurt and files about them; this specimen holds a list of the forty-seven its owner could not keep. A single pairing, arranged in the fortieth year, after the preventability audit. | One co-presence, forty minutes, at the marked distance. The Healer's shudder ran long without a treatment and its keeper timed it; the amber held its constant shade and the beat did not vary; both gauges were flat. The finding is a difference of column: the shudder measures a treatment performed, the darkening series measures a fault graded, and neither instrument has anything to read in the other. | The pairing duration, the shudder time, the shade reading, and both flat gauges. |
-| **Endless Shift** | The holding this specimen's composure is least safe against: there a shift whose hours stop agreeing with the body, here a bearer who cannot be startled by a shift running long. Never paired, and the standing order gives the reason in one sentence — a control that removes alarm is not brought to a site whose only warning is alarm. | No co-presence. The link is documentary: the lower-bay extension rests on this specimen's composure readings, and the Shift is the wing's standing illustration of a body whose hours have stopped agreeing with the clock. | The staffing papers' citation, the standing order, and both containment statuses. |
+| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Two healers' remains, one walking and one kept: the Healer attends whoever is hurt and files about them. This specimen holds a list of the forty-seven its owner could not keep. A single pairing, arranged in the fortieth year, after the preventability audit. | One co-presence, forty minutes, at the marked distance. The Healer's shudder ran long without a treatment and its keeper timed it. The amber held its constant shade and the beat did not vary; both gauges were flat. The finding is a difference of column: the shudder measures a treatment performed, the darkening series measures a fault graded, and neither instrument has anything to read in the other. | The pairing duration, the shudder time, the shade reading, and both flat gauges. |
+| [**Endless Shift**](SE-C-IVδ-915_Endless_Shift_끝없는_교대.md) | The holding this specimen's composure is least safe against: there a shift whose hours stop agreeing with the body, here a bearer who cannot be startled by a shift running long. Never paired, and the standing order gives the reason in one sentence — a control that removes alarm is not brought to a site whose only warning is alarm. | No co-presence. The link is documentary: the lower-bay extension rests on this specimen's composure readings, and the Shift is the wing's standing illustration of a body whose hours have stopped agreeing with the clock. | The staffing papers' citation, the standing order, and both containment statuses. |
 
-**Interaction procedure:** No pairing with a holding that announces itself only through alarm. Where a pairing is arranged at all, the caller's count and the visiting holding's own instrument are run side by side and both filed whether or not anything moved; a null result is entered as a result and not as a gap.
+**Interaction procedure:** No pairing with a holding that announces itself only through alarm. Where a pairing is arranged at all, the caller's count and the visiting holding's own instrument are run side by side and both filed whether or not anything moved. A null result is entered as a result and not as a gap.
 
 ## Watch Record
 
@@ -412,7 +408,7 @@ The Fracture rate was beyond what the bay could handle and no protocol existed e
 
 The amber darkens. It was noticed in the second year, logged as a curiosity for a decade, and matched to the casualty register in the thirteenth by a Keeper who had the roster open for another reason.
 
-**There are forty-seven darkenings a year.** Each falls on the calendar day on which one of Duri's forty-seven losses died, in the eleven days of the Zone D bay. The dates are exact and have not drifted in forty-eight years. The shade is read against a reference card at each watch; between darkenings it holds a constant value, and a darkening resolves within about twenty hours.
+**There are forty-seven darkenings a year.** Each falls on the calendar day on which one of Duri's forty-seven losses died, in the eleven days of the Zone D bay. The dates are exact and have not drifted in forty-eight years. The shade is read against a reference card at each watch. Between darkenings it holds a constant value, and a darkening resolves within about twenty hours.
 
 The dates were the easy finding. The depth took another twenty-seven years, because for a long time nobody could see what it varied with.
 
@@ -422,7 +418,7 @@ In the fortieth year the facility commissioned a retrospective preventability au
 
 **The correlation between the audit grade and the darkening depth is 0.91.** Nothing else in the archive comes close. The three negative controls — case severity, hour of death, number of simultaneous patients — return 0.08, 0.02 and 0.11.
 
-The audit's own distribution is the part the Keepers have underlined. Eight of the forty-seven were graded unavoidable in any circumstances. **Thirty-nine were graded avoidable with resources the bay did not have**: relief that was requisitioned twice and not sent, compresses that had been seized at the Collectors' checkpoint, and a triage protocol that the Directorate's own revision, issued four months later, describes as inadequate to a wave of that size.
+The audit's own distribution is the part the Keepers have underlined. Eight of the forty-seven were graded unavoidable in any circumstances. **Thirty-nine were graded avoidable with resources the bay did not have**: relief that was requisitioned twice and not sent, compresses that had been seized at the Collectors' checkpoint. And a triage protocol that the Directorate's own revision, issued four months later, describes as inadequate to a wave of that size.
 
 The heart grades them by whose fault they were. Not by hers — her own errors, of which the audit finds three, produce no darkening at all. The deepest marks in the calendar are the days when she did everything correctly with nothing to do it with.
 
@@ -446,21 +442,21 @@ The Keeper's annotation beneath the opinion: *the law can reach the tired woman 
 
 In the forty-third year the lower-bay shift limit was extended from eight hours to ten.
 
-The submission is carefully made and is not dishonest anywhere. Extended duty in the lower bays had been refused twice on composure grounds: personnel degrade, make errors, and are at elevated Fracture risk past the eighth hour. The new submission answers that objection with a control. Proximity to C-IIβ-901 restores composure measurably, durably and at no cost in consumables; the effect is the best-documented benefit in the wing; personnel seek it out voluntarily and report it as the most useful thing on Floor 5.
+The submission is carefully made and is not dishonest anywhere. Extended duty in the lower bays had been refused twice on composure grounds: personnel degrade, make errors, and are at elevated Fracture risk past the eighth hour. The new submission answers that objection with a control. Proximity to C-IIβ-901 restores composure measurably, durably and at no cost in consumables. The effect is the best-documented benefit in the wing. Personnel seek it out voluntarily and report it as the most useful thing on Floor 5.
 
 So the scheme is this. Lower-bay personnel on extended duty take a rostered ten minutes at the cell before the shift and ten after. Composure readings before and after confirm the restoration. The safety case cites them, the certification was granted, and in three years of operation the error rate on ten-hour shifts is indistinguishable from the old eight-hour rate. By the measure the case was written against, it works exactly as described.
 
 **Four hundred and sixty personnel a year now take a dose of her.**
 
-The objection is minuted at the forty-third review and at each of the eight since, raised by the Floor 5 Keeper and supported by the preventability audit's senior assessor. It holds, first, that the facility possesses, in the darkening calendar, a dated and graded statement that thirty-nine deaths in that bay were caused by short staffing and absent supplies, and has used the holding derived from those deaths to extend shifts rather than to shorten them — the one body of evidence in the archive that speaks directly to allocation, applied to rostering instead. Second, that the control is circular: an eleven-day shift with no relief produced the artefact, and the artefact is now the reason the next shift may be two hours longer, so the safety case is underwritten by the hazard it is managing. Third, that the composure is a dose and not a rest — it does not restore sleep, does not restore anything the body needs, and does measurably erode the bearer's capacity for alarm, which is logged in the Field Use Record and appears nowhere in the submission.
+The objection is minuted at the forty-third review and at each of the eight since, raised by the Floor 5 Keeper and supported by the preventability audit's senior assessor. It holds, first, that the facility possesses, in the darkening calendar, a dated and graded statement that thirty-nine deaths in that bay were caused by short staffing and absent supplies. And has used the holding derived from those deaths to extend shifts rather than to shorten them — the one body of evidence in the archive that speaks directly to allocation, applied to rostering instead. Second, that the control is circular: an eleven-day shift with no relief produced the artefact, and the artefact is now the reason the next shift may be two hours longer, so the safety case is underwritten by the hazard it is managing. Third, that the composure is a dose and not a rest — it does not restore sleep, does not restore anything the body needs. And does measurably erode the bearer's capacity for alarm, which is logged in the Field Use Record and appears nowhere in the submission.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-fourth year at a little over the price of a second caller per shift, so that no handler would work the glass alone with a borrowed pulse. The second post was not funded. The minute carries the Watch Lead's note beneath it, unamended in eleven annual reviews: *we are asking one person to be the only heart in the room that still does what hearts do.*
+All three parts are minuted as correct, and the file keeps the minute in full rather than in summary. It records that a remedy was costed in the forty-fourth year at a little over the price of a second caller per shift, so that no handler would work the glass alone with a borrowed pulse. The second post was not funded. The minute carries the Watch Lead's note beneath it, unamended in eleven annual reviews: *we are asking one person to be the only heart in the room that still does what hearts do.*
 
 *Forty-seven times a year she tells us, to two decimal places, exactly what killed them, and what we have done with the answer is keep four hundred and sixty people on their feet for two hours longer.*
 
 ## Trivia
 
-- One of the first catalogued **Object-Body** entities in Somnarak, and the only one that is unambiguously a person's organ.
+- The organ is unambiguously a person's — the record names whose — and across forty-eight years of the beat record the handler's pulse matched the door reading in all but 41 of them. The 41 misses are the file.
 - It is the only holding in the wing whose principal output is an improvement in the people who work near it.
 - The Weight here never presents as heaviness. Personnel describe it as the lightness of having already lost the thing you were braced for, which several have said they would not give back.
 

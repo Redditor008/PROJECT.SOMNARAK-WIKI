@@ -17,21 +17,21 @@ This batch continues the individualized current-era codex archive after `SE-073`
 ```text
 077_Memory_Thief/
   SE-077-A__SIDE_CODEX_The_Memory_Thief.md
-  SE-077-B__MAW-W_The_Shadow_Lens.md
+  SE-077-B__MAW-W_The_Umbral_Pepperbox.md
   SE-077-C__MAW-S_The_Shadow_Veil.md
   SE-077-D__MAW-G_The_Shadow_Cloak.md
 
 081_Hollow_Saint/
   SE-081-A__SIDE_CODEX_The_Hollow_Saint.md
-  SE-081-B__MAW-W_The_Hollow_Lens.md
+  SE-081-B__MAW-W_The_Hollow_Sceptre.md
   SE-081-C__MAW-S_The_Hollow_Veil.md
   SE-081-D__MAW-G_The_Hollow_Chalice.md
 
 088_Sorrow_Fountain/
   SE-088-A__SIDE_CODEX_The_Sorrow_Fountain.md
-  SE-088-B__MAW-W_The_Sorrow_Requiem.md
-  SE-088-C__MAW-S_The_Sorrow_Shroud.md
-  SE-088-D__MAW-G_The_Sorrow_Vial.md
+  SE-088-B__MAW-W_The_Weeping_Basin_Aspergillum.md
+  SE-088-C__MAW-S_The_Cistern_Keeper_s_Chiton_and_Mantle.md
+  SE-088-D__MAW-G_The_Weeping_Gargoyle_Brooch.md
 
 091_Lost_Prince/
   SE-091-A__SIDE_CODEX_The_Lost_Prince.md
@@ -41,7 +41,7 @@ This batch continues the individualized current-era codex archive after `SE-073`
 
 092_Pyre_of_Truths/
   SE-092-A__SIDE_CODEX_Pyre_of_Truths.md
-  SE-092-B__MAW-W_The_Burning_Fang.md
+  SE-092-B__MAW-W_The_Pyre_Grimoire_and_Ash_Lance.md
   SE-092-C__MAW-S_The_Burning_Plate.md
   SE-092-D__MAW-G_The_Burning_Page.md
 ```

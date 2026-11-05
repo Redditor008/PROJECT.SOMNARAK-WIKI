@@ -9,7 +9,7 @@
 **SECC Designation:** `O-Iα-126 [VS]`  
 **Author:** The Outsider Ishall  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Border identity-anchor observation
 
@@ -26,7 +26,7 @@
 | Element | Void |
 | Location | Zone E, Border region |
 | Form | A pale melting shard in consciousness, assembling a watching figure from fragments that dissolve when focused on. |
-| Gauge / pressure | 25–40% / Void 3–10 |
+| Gauge / pressure | 198/198; starts 25–40% / Void — no attack pattern; whether a worker can still name themselves and the person beside them is the instrument |
 | Comprehension Level | 1 — Observed |
 | M.A.W. Set | Held Shape |
 
@@ -61,10 +61,10 @@ Anonym is easiest to mistake for a thought of one’s own. A pale fragment appea
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Reforms gently around shared grief. | Down | Share without demanding the worker return to a former self. |
-| Pugnahan | Melts faster and spreads through thought. | Up | Do not force a person to prove identity under attack. |
+| Flerehan | Reforms gently around shared grief. | Decrease | Share without demanding the worker return to a former self. |
+| Pugnahan | Melts faster and spreads through thought. | Increase | Do not force a person to prove identity under attack. |
 | Viderehan | Shows the self before erosion. | Stable | Observe past and present self as related, not mutually exclusive. |
-| Ferrehan | Tests whether the worker can remain seen by the self. | Down | Use one external witness who calls the worker by their chosen name. |
+| Ferrehan | Tests whether the worker can remain seen by the self. | Decrease | Use one external witness who calls the worker by their chosen name. |
 
 ### Corrupt response
 
@@ -85,7 +85,7 @@ The set gives early warning of identity erosion and helps a bearer hold form. It
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Liquefying Hand-Cannon | α | Void | Marks early identity erosion without fixing a person in place | `SE-126-B__MAW-W_The_Melting_Lens.md` |
+| Weapon | The Liquefying Hand-Cannon | α | Void | Marks early identity erosion without fixing a person in place | `SE-126-B__MAW-W_The_Liquefying_Hand_Cannon.md` |
 | Suit | The Melting Veil | α | Void | Low-grade protection with chosen-name anchoring | `SE-126-C__MAW-S_The_Melting_Veil.md` |
 | Stigma | The Melting Reflection | α | Void | Reveals emotional erosion before full identity loss | `SE-126-D__MAW-G_The_Melting_Reflection.md` |
 
@@ -105,7 +105,7 @@ The set gives early warning of identity erosion and helps a bearer hold form. It
 
 **Quick effect:** A single-target Void strike identifies early erosion pressure and creates a brief space for a target to name a present self-choice.
 
-**Weapon-title review (2026-10-11):** `O-Iα-126`’s primary M.A.W. block and cast-iron molten-tallow hand-cannon Appearance, current `SE-126-B` heading/Appearance, Master Registry row, Master Codex table row 697, `MAW-W-126` archetype, and same-code title/Appearance revision `3abe5470` support *The Liquefying Hand-Cannon*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 697, still identify *The Melting Lens*; its Resting form is a thin pale lens and its Active form surrounds a fragmenting self-image. No Lens-to-hand-cannon transition or second form is documented. The Master Registry and `MAW-W-329` archetype also assign *The Melting Lens* to Folly `SE-329` as a separate item; no cross-link establishes shared identity, so keep this duplicate-title conflict held. The old item filename remains only as the link. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `O-Iα-126`’s primary M.A.W. block and cast-iron molten-tallow hand-cannon Appearance, current `SE-126-B` heading/Appearance, Master Registry row, Master Codex table row 697, `MAW-W-126` archetype, and same-code title/Appearance current revision support *The Liquefying Hand-Cannon*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 697, still identify *The Melting Lens*; its Resting form is a thin pale lens and its Active form surrounds a fragmenting self-image. No Lens-to-hand-cannon transition or second form is documented. The Master Registry and `MAW-W-329` archetype also assign *The Melting Lens* to Folly `SE-329` as a separate item; no cross-link establishes shared identity, so keep this duplicate-title conflict held. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
@@ -170,13 +170,3 @@ The set gives early warning of identity erosion and helps a bearer hold form. It
 **Entity links:** Faceless Glass; The Empty Mask; The Forgotten Name.  
 **Border note:** A chosen-name witness is a relation, not a surveillance record; current Gate Watch procedure must distinguish the two.  
 **Item links:** `SE-126-B`, `SE-126-C`, and `SE-126-D` contain individual binding and erosion safeguards for Held Shape.
-
----
-
-**Document ID:** `SE-126-A`  
-**Linked Entity:** `SE-126`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

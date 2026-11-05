@@ -19,10 +19,10 @@ The Clocktower formed from a moment that could not end. The weight of waiting in
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVγ-240 [WP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Place-Weight |
 | Coherence / Potency | Entity (IV) — Self-aware, time-obsessed / Major (γ) |
 | Element / Location | Weight / Zone C, near Collector's Row |
-| Gauge / Pressure | 772/772; starts 45–65% / 14–31 per hit · Weight |
+| Gauge / Pressure | 000/772; starts 000% / Weight — no attack pattern; the drift on a carried timepiece is the reading |
 | Observation | 3 — Advanced |
 | Formation event | An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant. |
 
@@ -30,8 +30,8 @@ The Clocktower formed from a moment that could not end. The weight of waiting in
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the event frozen at 3:47. (Stable) |
 | Ferrehan | Tests the worker inside stretched time. (Decrease) |
 
@@ -40,7 +40,7 @@ The Clocktower formed from a moment that could not end. The weight of waiting in
 
 ## WITNESS RECORD — *The Three Forty Seven Source-Trace*
 
-During the The Three Forty Seven Source-Trace, the field team preserved this source fact: An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of waiting inside an event with no conclusion.
+During *The Three Forty Seven Source-Trace*, the field team preserved this source fact: An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of waiting inside an event with no conclusion.
 
 ## M.A.W. SET — *Three Forty-Seven — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Three Forty Seven Source-Trace, the field team preserved this sou
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Three Forty-Seven's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Accept that the moment cannot be changed; limit exposure The set cannot heal the originating event. Misuse routes Three Forty-Seven's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1023-A`  
-**Linked Entity:** `SE-1023`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

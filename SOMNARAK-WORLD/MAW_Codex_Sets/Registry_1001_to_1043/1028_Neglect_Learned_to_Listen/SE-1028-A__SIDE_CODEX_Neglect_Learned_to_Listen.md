@@ -19,10 +19,10 @@ The Whisper formed from burdens discarded by the city. The grief of people and r
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIβ-270 [WP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: possession only; the patch has never left the ward / Place-Grudge |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / Zone B, Old Lament |
-| Gauge / Pressure | 357/357; starts 35–50% / 10–23 per hit · Weight |
+| Gauge / Pressure | 000/357; starts 000% / no hit band — the pressure is a duty transferring into the worker |
 | Observation | 2 — Basic |
 | Formation event | Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening. |
 
@@ -30,8 +30,8 @@ The Whisper formed from burdens discarded by the city. The grief of people and r
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals what the city discarded. (Stable) |
 | Ferrehan | Forces the worker to carry the whispers without answering them. (Decrease) |
 
@@ -40,7 +40,7 @@ The Whisper formed from burdens discarded by the city. The grief of people and r
 
 ## WITNESS RECORD — *The Neglect Learned to Listen Source-Trace*
 
-During the The Neglect Learned to Listen Source-Trace, the field team preserved this source fact: Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of people and responsibilities treated as refuse.
+During *The Neglect Learned to Listen Source-Trace*, the field team preserved this source fact: Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of people and responsibilities treated as refuse.
 
 ## M.A.W. SET — *Neglect Learned to Listen — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Neglect Learned to Listen Source-Trace, the field team preserved 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Neglect Learned to Listen's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon contains only the immediate manifestation that violates this rule: Preserve and acknowledge what was discarded; do not simply remove the rust The set cannot heal the originating event. Misuse routes Neglect Learned to Listen's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1028-A`  
-**Linked Entity:** `SE-1028`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

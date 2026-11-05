@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Devouring Bloom Maul
 
-> *“Devouring Bloom Maul remembers Devouring Bloom; the bearer must not mistake memory for permission.”*
+> *"It takes a bite with every swing, and what it strikes is diminished by less than the wielder is."*
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Devouring Bloom's weight signature in the strike.  
-**Binding rule:** the bearer names Devouring Bloom's event—Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading.—and accepts this limit: Witness the memories and prevent unauthorized petal collection
+**Binding rule:** the bearer names Devouring Bloom's event — “Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading.” — and accepts this limit: Witness the memories and prevent unauthorized petal collection
 
 ## Appearance
 
@@ -29,16 +29,20 @@ The Devouring Bloom Maul is the weapon record of the Devouring Bloom set — δ-
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Devouring Bloom's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Maul takes a bite with every swing: what it strikes is diminished and so is the wielder's reserve, and the two are not the same amount. Wielded long, the wielder is thinner than the weapon.
 
 ## ITEM-SPECIFIC HISTORY — *The Devouring Bloom Source-Trace: Weapon Record*
 
-The first Devouring Bloom Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon uncouples the immediate hazard only after the team attributed it to Devouring Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Devouring Bloom Maul field bearer encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon uncouples the immediate hazard only after the team attributed it to Devouring Bloom. A wielder finished a clearing thinner than the weapon they were carrying, and the Maul’s binding is the weigh-in from that return.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Devouring Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the reserve goes before the target does, and the second blow of a pair costs more than the first.
 - Terminal state: Devouring Bloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Witness the memories and prevent unauthorized petal collection” reverses the item’s benefit and raises the source Gauge.  
@@ -47,15 +51,4 @@ The first Devouring Bloom Maul field bearer encountered this source response: N/
 
 ## SET RELATIONSHIP
 
-Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-916-B`  
-**Linked Entity:** `SE-916`  
-**Item Registry Code:** `MAW-W-916-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that takes only from the target.

@@ -23,13 +23,13 @@ This batch continues the individualized current-era codex archive after `SE-103`
 
 106_I_Alone_Crossed/
   SE-106-A__SIDE_CODEX_I_Alone_Crossed.md
-  SE-106-B__MAW-W_I_Alone_Crossed_Requiem.md
+  SE-106-B__MAW-W_The_Survivor_s_Span_Cleaver.md
   SE-106-C__MAW-S_I_Alone_Crossed_Shroud.md
   SE-106-D__MAW-G_I_Alone_Crossed_Lantern.md
 
 108_Animus/
   SE-108-A__SIDE_CODEX_Animus.md
-  SE-108-B__MAW-W_The_Trace_Fang.md
+  SE-108-B__MAW-W_The_Phantom_Blade_Array.md
   SE-108-C__MAW-S_The_Trace_Plate.md
   SE-108-D__MAW-G_The_Trace_Ember.md
 
@@ -38,7 +38,7 @@ This batch continues the individualized current-era codex archive after `SE-103`
 
 115_Remembrance/
   SE-115-A__SIDE_CODEX_Remembrance.md
-  SE-115-B__MAW-W_The_Memory_Lens.md
+  SE-115-B__MAW-W_The_Shard_Storm_Reel.md
   SE-115-C__MAW-S_The_Memory_Veil.md
   SE-115-D__MAW-G_The_Memory_Flask.md
 ```

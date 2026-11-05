@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Grudge |
 | Form | A fever-hot ownerless shadow drenched in burning crimson liquid, dripping light that scorches the vault floor. |
-| Gauge / Pressure | 45–65% / Grudge 14–33 |
+| Gauge / Pressure | 000/660; starts 000% / Grudge — no attack pattern; the chalk outline and the damp reading are the instrument |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Returned Deposit |
 
@@ -44,13 +44,13 @@ The shadow smells of char, grows darker near repeated arguments, and has no orig
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears do not identify a grievance’s owner. |
-| Pugnahan | Not valid; confrontation feeds storage. | N/A | Never project anger deliberately. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not identify a grievance’s owner. |
+| Pugnahan | Not valid; confrontation feeds storage. | Negative-Low | Never project anger deliberately. |
 | Viderehan | Reveals grievances feeding it. | Stable | Record source without repeating accusation. |
-| Ferrehan | Tests remaining without adding anger. | Down | Bring no unresolved dispute into the chamber. |
+| Ferrehan | Tests remaining without adding anger. | Decrease | Bring no unresolved dispute into the chamber. |
 
 **Activation:** Touch or project anger. The I-Relic stores hostility until acknowledged and released.  
-**Resolution:** Name the stored grievance, assign responsibility for its release, and lower Gauge below 25%.  
+**Resolution:** Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged.  
 **Escalation:** At 75% Gauge every shadow becomes wet with pooled resentment and Grudge pressure floods the vault.
 
 ---
@@ -99,13 +99,3 @@ An echo forms only after one stored grievance is acknowledged, released without 
 **Primary source:** `SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md`
 
 **Restricted note:** The Vault is not an emotional waste service. Every accepted grievance requires provenance and release responsibility.
-
----
-
-**Document ID:** `SE-308-A`  
-**Linked Entity:** `SE-308`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

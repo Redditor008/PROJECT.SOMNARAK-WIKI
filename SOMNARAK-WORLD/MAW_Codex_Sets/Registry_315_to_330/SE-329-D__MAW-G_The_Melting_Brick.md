@@ -14,6 +14,7 @@
 
 ## IDENTITY & FUNCTION
 
+**Maximum Amount:** 5 — Abundant
 A warm Void Han-glass Head tile that displays intended use and occupant flow, never a completed image. Folly granted it after Yeonhwa mapped the outline without construction. Bestowal chance is 5%.
 
 **Grade / Element:** α / Void  
@@ -38,14 +39,3 @@ Brick preserves purpose, Veil preserves observer, Lens removes false reconstruct
 - Bearer mourns every abandoned design as personal failure.
 
 **Care:** Compare funding, plan, site, and actual occupancy. Keep “intended,” “built,” and “used” as separate fields.
-
----
-
-**Document ID:** `SE-329-D`  
-**Linked Entity:** `SE-329`  
-**Item Registry Code:** `MAW-G-329-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

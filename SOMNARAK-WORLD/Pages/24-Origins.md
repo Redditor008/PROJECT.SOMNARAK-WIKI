@@ -2,7 +2,7 @@
 
 > *“Every sorrow has an address where the tears first fell.”*
 
-**Origins**  [기원 분류]  (_Giwon Bunryu_) classify [Sorrow Entities](07-Sorrow%20Entities.md) according to the psychological and metaphysical genesis that gave them physical form in [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
+**Origins**  [기원 분류]  (_Giwon Bunryu_) classify [Sorrow Entities](07-Sorrow%20Entities.md) according to the psychological and metaphysical genesis that gave them physical form in [SOMNARAK-WORLD](../README.md).
 
 Within the Reverie Directorate's archival doctrine, sorrow is not homogeneous. An entity's behavior, work affinities, and [Pressure Types](17-Pressure%20Types.md) are directly shaped by whether it coalesced from collective municipal folklore, sharp personal trauma, or the deep unconscious abyss.
 

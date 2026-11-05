@@ -22,7 +22,7 @@ The Tree formed from a mind divided by loss. The grief of a person whose identit
 | Type / Manifestation | Subject — Can breach / Subject-Mind |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void / Zone B, deep tunnels |
-| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Void |
+| Gauge / Pressure | 000/198; starts 000% / 3–10 per hit · Void |
 | Observation | 1 — Initial |
 | Formation event | A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence. |
 
@@ -40,7 +40,7 @@ The Tree formed from a mind divided by loss. The grief of a person whose identit
 
 ## WITNESS RECORD — *The Yggdrasil Wound Source-Trace*
 
-During the The Yggdrasil Wound Source-Trace, the field team preserved this source fact: A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a person whose identity split around an event they could not survive remembering.
+During *The Yggdrasil Wound Source-Trace*, the field team preserved this source fact: A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a person whose identity split around an event they could not survive remembering.
 
 ## M.A.W. SET — *Yggdrasil Wound — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Yggdrasil Wound Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Yggdrasil Wound's source condition, the Suit lets a witness bear its Void pressure, and the Weapon severs only the immediate manifestation that violates this rule: Ground the worker and permit both memories to remain The set cannot heal the originating event. Misuse routes Yggdrasil Wound's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-973-A`  
-**Linked Entity:** `SE-973`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

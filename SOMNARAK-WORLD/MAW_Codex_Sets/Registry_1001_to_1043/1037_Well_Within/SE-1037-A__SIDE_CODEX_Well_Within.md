@@ -19,10 +19,10 @@ The Well formed from rage buried so deeply that it became an inner landscape. An
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-869 [GS] |
-| Type / Manifestation | Subject — Can breach / Subject-Mind |
+| Type / Manifestation | Subject — Non-breaching: transformation in place / Subject-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge / The Desolate — mobile |
-| Gauge / Pressure | 800/800; starts 60–80% / 27–59 per hit · Grudge |
+| Gauge / Pressure | 000/800; starts 000% / 27–59 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants. |
 
@@ -40,7 +40,7 @@ The Well formed from rage buried so deeply that it became an inner landscape. An
 
 ## WITNESS RECORD — *The Well Within Source-Trace*
 
-During the The Well Within Source-Trace, the field team preserved this source fact: A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Anger without a remembered cause and the exhaustion of carrying inherited fury.
+During *The Well Within Source-Trace*, the field team preserved this source fact: A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Anger without a remembered cause and the exhaustion of carrying inherited fury.
 
 ## M.A.W. SET — *Well Within — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Well Within Source-Trace, the field team preserved this source fa
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Well Within's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not invent a cause; document the fragments and ground the subject The set cannot heal the originating event. Misuse routes Well Within's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1037-A`  
-**Linked Entity:** `SE-1037`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

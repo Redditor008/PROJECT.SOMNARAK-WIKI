@@ -19,10 +19,10 @@ The Weight formed from responsibility carried unconsciously. The grief of doing 
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-357 [WS] |
-| Type / Manifestation | Subject — Can breach / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: an expansion in place. The register files an escape and the holding's own row corrects it — it does not rise, does not walk and does not pursue, and what leaves the chamber is the load, not the figure — Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / Zone B, deep tunnels |
-| Gauge / Pressure | 809/809; starts 60–80% / 29–63 per hit · Weight |
+| Gauge / Pressure | 000/809; starts 000% / 29–63 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility. |
 
@@ -40,7 +40,7 @@ The Weight formed from responsibility carried unconsciously. The grief of doing 
 
 ## WITNESS RECORD — *The Unreleased Beam Source-Trace*
 
-During the The Unreleased Beam Source-Trace, the field team preserved this source fact: A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of doing what must be done without receiving recognition or rest.
+During *The Unreleased Beam Source-Trace*, the field team preserved this source fact: A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of doing what must be done without receiving recognition or rest.
 
 ## M.A.W. SET — *Unreleased Beam — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Unreleased Beam Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Unreleased Beam's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Do not wake it; distribute the burden among a team The set cannot heal the originating event. Misuse routes Unreleased Beam's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1034-A`  
-**Linked Entity:** `SE-1034`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -88,14 +88,3 @@ Grey wore the Breath during a Border emergency and remained calm enough to coord
 The Breath is the panic safeguard of *Exhale*. Frozen Fang releases a field and Frozen Charm identifies fatigue; this suit prevents release from becoming another demand to endure silently.
 
 > *“A person who cannot say they are tired needs more protection, not more orders.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-159-C`  
-**Linked Entity:** `SE-159`  
-**Item Registry Code:** `MAW-S-159-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -40,10 +40,17 @@ SCHEMA_LABELS = {
     "Resolution Condition", "Retained non-breach mechanic", "Risk", "Risk tier",
     "Secondary Effect", "State change",
     "Sorrow Category", "Sorrow Gauge [HP]", "Speed", "Starting Sorrow Gauge",
+    # R-48: a non-breaching relic reads a state meter named for its Element, not [HP].
+    "Sorrow Gauge [Pressure]", "Sorrow Gauge [Load]", "Sorrow Gauge [Depth]",
+    "Sorrow Gauge [Saturation]",
+    # R-48 §6: the seven fields of the standing `## The Charge` section
+    "Length", "At rest", "Fill", "Wall", "Run-down", "Taken early", "At the wall",
+    "What it takes",
     "Sustained observation", "Termination / Return", "Threat Role",
     "Tool / M.A.W. grade", "Tool Class", "Tool Type", "Transition", "Trigger",
     "Use Mode",
-    "Valid Work Types", "Vessel-Destructible", "Viderehan", "Work difficulty",
+    "Valid Work Types", "Vessel-Destructible", "Viderehan", "Work difficulty", "Work Damage",
+    "Work Gift", "SE Effect",
 }
 
 # Curated one-off labels: material specs, phase rows, and outcome rows.
@@ -54,6 +61,14 @@ EXTRA_LABELS = {
     "Breach", "Breach Designation", "Breach Designation Shift", "Build",
     # R-28: non-breaching dossiers record containment events rather than breaches
     "Event", "Event Type", "Event Designation",
+    # Relic refinement: what a fixed instrument tolerates in the hand, not what it fights
+    "Handling", "Mode of presence", "Perceptible to",
+    # R-40: the four stages of a relic's Handling Process
+    "Approach", "Withdrawal", "Refusal",
+    # the four-cell vector that replaces a Work Type table on a relic
+    "Work preference",
+    # Possession: the holding acts through the agent, so the record carries who it takes and how they are recovered
+    "Who it takes", "Recovery",
     "Caught in the Storm", "Cold Burn", "Collar Seal", "Confession initiated",
     "Contained Designation", "Containment Status", "Dimensions / Mass",
     "Envelope Medium", "First Recorded", "Glass Medium", "Han Dust Drop",
@@ -62,6 +77,8 @@ EXTRA_LABELS = {
     "Length / Diameter", "Lull", "M.A.W. Extraction", "Metallurgy",
     "Metamorphosis Type", "Mineral Structure", "OBSERVATION FAIL", "Origin",
     "Recession", "Residue Adhesion", "SECC Designation", "Seal Compound",
+    # R-35: the terminus of a transformation line is classed, not re-typed
+    "Special Class", "Transformation Line",
     "Seam Weakness", "Speed / Expansion", "Suppression", "Surface Markings",
     "Surge", "Termination Method", "Thermal Delta", "Thermal Equilibrium",
     "Thermal Output", "Threat Score", "Visual confirmation", "Weight",
@@ -134,12 +151,26 @@ def entity_identity(path):
 def catalogued_names():
     """Entity names from the catalog and from dossier filenames on disk."""
     names = set()
-    cat = "REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md"
+    cat = "REFERENCE_SOMNARAK_WIKI/REGISTRY/SORROW_ENTITIES_CATALOG.md"
     if os.path.exists(cat):
         with open(cat, 'r', encoding='utf-8') as fp:
-            # Catalog rows are: | `SE-code` | **English Codename** | ... |
-            for m in re.finditer(r'\|\s*`(SE-[^`]+)`\s*\|\s*\*\*(.+?)\*\*\s*\|', fp.read()):
-                names.add(m.group(2).strip())
+            # Catalog rows are: | `SE-code` | **Filed Title** (also rendered
+            # *Older Codename*) | ...
+            # A row can carry two names when the title on the dossier and the
+            # name the catalog has always used differ (R-39: chain them, do not
+            # overwrite one with the other). Both are legal labels, because both
+            # are in use across the corpus — cross-references in other dossiers
+            # still say "The Memory Well" for the record titled "Remembrance".
+            for m in re.finditer(r'\|\s*`(SE-[^`]+)`\s*\|\s*([^|]+?)\s*\|', fp.read()):
+                cell = m.group(2)
+                for nm in re.findall(r'\*\*(.+?)\*\*', cell):
+                    names.add(nm.strip())
+                for nm in re.findall(r'also rendered\s*\*([^*]+)\*', cell):
+                    names.add(nm.strip())
+                # A colliding alias carries a disambiguation clause; the other
+                # record's code in that clause is not a name.
+                for nm in re.findall(r'not `(SE-[^`]+)`', cell):
+                    pass
     for d in DOSSIER_DIRS:
         for f in glob.glob(os.path.join(d, "*.md")):
             n, _ = entity_identity(f)

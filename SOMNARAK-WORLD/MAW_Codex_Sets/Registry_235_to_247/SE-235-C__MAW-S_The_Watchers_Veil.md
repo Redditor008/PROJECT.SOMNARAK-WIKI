@@ -24,9 +24,15 @@ The Watcher’s Veil is a Void Han-gossamer suit patterned with open eyes on the
 
 ## PROTECTION FILE
 
+**Grade / Element:** β / Void
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
 
 **Seen Boundary:** The Veil lets surveillance remain external without replacing the wearer’s private identity. Protection holds only while the wearer performs a declared intervention.
 
@@ -43,14 +49,3 @@ Stigma reveals, Veil enters, Weapon acts. If the wearer stops to manage appearan
 **Maintenance:** Hang the Veil in a room with no recording devices while the wearer speaks one fact they choose not to disclose operationally. The eyes close only when privacy is respected.
 
 **Removal:** The person helped during deployment—or an assigned partner—addresses the wearer by name rather than role. Pulling it off under active surveillance leaves the inner outline behind.
-
----
-
-**Document ID:** `SE-235-C`  
-**Linked Entity:** `SE-235`  
-**Item Registry Code:** `MAW-S-235-01`  
-**Author:** Specialist Hanul Grey  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

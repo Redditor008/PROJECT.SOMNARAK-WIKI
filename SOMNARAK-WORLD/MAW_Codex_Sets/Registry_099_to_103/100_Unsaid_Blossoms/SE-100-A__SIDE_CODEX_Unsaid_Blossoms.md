@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-100 [LP]`  
 **Author:** Chronicler Minseo  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Echo Gardens grave-witness protocol
 
@@ -61,10 +61,10 @@ The tree blooms out of season. Its petals are salt-cold, translucent, and soundl
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Do not offer tears as a substitute for words. |
-| Pugnahan | Invalid for this Place entity. | N/A | Do not strike the stone, tree, or roots. |
+| Flerehan | Invalid for this Place entity. | Net-Neutral | Do not offer tears as a substitute for words. |
+| Pugnahan | Invalid for this Place entity. | Net-Neutral | Do not strike the stone, tree, or roots. |
 | Viderehan | Reveals the emotional history of the grave. | Stable | Record the impact on the living worker, not the content of an unconsented confession. |
-| Ferrehan | Requires a worker to remain under falling petals. | Down | A witness remains beside the worker; no blossom is touched or gathered. |
+| Ferrehan | Requires a worker to remain under falling petals. | Decrease | A witness remains beside the worker; no blossom is touched or gathered. |
 
 ### Expansion response
 
@@ -168,13 +168,3 @@ The set is about saying what must be said while a living person can still receiv
 **Entity links:** The Whispering Walls; The Silent Bell; The Weeping Statue.  
 **Handling distinction:** Every petal is an entity expression; none is ordinary garden material or a souvenir.  
 **Item links:** `SE-100-B`, `SE-100-C`, and `SE-100-D` carry the individual use, refusal, and consequence histories for Last Sentences.
-
----
-
-**Document ID:** `SE-100-A`  
-**Linked Entity:** `SE-100`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

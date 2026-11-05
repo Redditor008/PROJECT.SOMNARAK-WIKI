@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Doorway to Nowhere work |
 | Bestowal event | The Key appeared after a worker closed an empty-home threshold and returned to their partner without asking the Door to reopen. |
 | Acceptance condition | The candidate names the remembered place and the person responsible for their return. |
@@ -85,14 +86,3 @@ Park used the Key to open a short threshold to the front room of a childhood apa
 The Key is the opening permission of *Door With Return*. Wandering Requiem protects a departure from the memory loop and Wandering Shroud keeps the body on the current side.
 
 > *“A doorway can honor where you came from. It cannot be allowed to become the only direction you have.”* — Ishall
-
----
-
-**Document ID:** `SE-152-D`  
-**Linked Entity:** `SE-152`  
-**Item Registry Code:** `MAW-G-152-01`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

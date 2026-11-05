@@ -22,9 +22,12 @@ The Sorrow Lens (weapon expression) is a pale reflection-echo blade — a flat, 
 
 ## CORE STATISTICS
 
+**Grade / Element:** γ / Void
+
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
 | Void 7–12 | 3 — Fast / 3 — Medium | Skewer, 3 targets, 100% → 70% → 50% | 3 / 40 |
+**Maximum Amount:** 3 — Standard
 
 ## FUNCTION & COST
 
@@ -37,14 +40,3 @@ A worker became trapped in a mirror of an unshareable loss. The Lens opened a bo
 ## SET RELATIONSHIP
 
 With Sorrow Veil and Sorrow Lens Stigma, it supports *Mirror With Company*: reflection is met with consented witness rather than solitary certainty.
-
----
-
-**Document ID:** `SE-195-B`  
-**Linked Entity:** `SE-195`  
-**Item Registry Code:** `MAW-W-195-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

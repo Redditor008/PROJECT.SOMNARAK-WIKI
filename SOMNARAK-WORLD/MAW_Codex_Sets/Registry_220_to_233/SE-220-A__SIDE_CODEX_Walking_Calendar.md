@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-220 [WS]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Contained — SECTOR-A-01, Alpha Tree deep storage
 
@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Weight |
 | Form | An ancient figure fused with stone slabs, worn calendars, and erased city records; every step adds another year. |
-| Gauge / Pressure | 60–80% / Weight 25–54 |
+| Gauge / Pressure | 000% / Weight 25–54 |
 | Observation | 3 — Advanced |
 | M.A.W. Set | The Unabridged Years |
 
@@ -46,10 +46,10 @@ Long exposure causes gray hair, joint pain, memories of years never personally l
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Sings a softer chronology. | Down | Mourn the consequence without converting grief into absolution. |
-| Pugnahan | Adds the worker’s anger to its load. | Up | Do not confront history as though defeating the record repairs it. |
+| Flerehan | Sings a softer chronology. | Decrease | Mourn the consequence without converting grief into absolution. |
+| Pugnahan | Adds the worker’s anger to its load. | Increase | Do not confront history as though defeating the record repairs it. |
 | Viderehan | Reveals hidden dates and consequences. | Stable | Archive provenance and omissions separately. |
-| Ferrehan | Tests whether the worker can remain beneath inherited weight. | Down | Keep a present-day partner outside the pressure field. |
+| Ferrehan | Tests whether the worker can remain beneath inherited weight. | Decrease | Keep a present-day partner outside the pressure field. |
 
 **Resolution:** Archive the truth; do not erase it and do not excuse it.  
 **Breach:** At 90% Gauge the storage zone corrupts, walls bow, dates spread into adjoining rooms, and personnel age beneath accumulated Weight.  
@@ -102,13 +102,3 @@ A M.A.W. echo may be drawn only when Walking Calendar releases a date after the 
 **Primary source:** `SE-C-IVδ-220_Walking_Calendar_세월의_무게.md`
 
 **Restricted note:** The set may expose a historical record. It may not declare a descendant guilty merely because the record names an ancestor.
-
----
-
-**Document ID:** `SE-220-A`  
-**Linked Entity:** `SE-220`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

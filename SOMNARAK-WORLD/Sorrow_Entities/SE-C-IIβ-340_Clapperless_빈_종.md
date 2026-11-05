@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-340 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch while saying, “i am listening.” |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats not ringing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A bell identical to the Orphaned Bell but silent, its surface hollowed and pale, as though the sorrow that should ring inside was scooped out. The metal is bloodless-cold and light for its size; it absorbs sound, and smells of ash — the Orphaned Bell's emptied twin. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,10 +28,11 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per successful cycle, read off the fork walk rather than the plinth |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a bell with no clapper, held quiet beside one that is not. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter; activates on touch while saying, “I am listening.” |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -45,51 +46,58 @@
 - There is no breach counter. The quiet field widens, and its boundary is confirmed by instrument rather than by ear.
 - Extraction is authorized separately from the work cycle.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Void pressure, 15% against every other kind |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 441/441 |
-| **Han Pressure [ATK]** | 9–22 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats not ringing |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, near the Orphaned Bell |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own line is that in sixty-four years the bell has not moved, not sounded, and not harmed anyone. Nine deliberate strikes have left the casting exactly as drawn, and what is read here is the fork walk rather than the bell.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A bell identical to the Orphaned Bell and completely silent, hollow and pale, with no clapper in it. It vibrates when somebody listens. In sixty-four years it has not moved from where it stands. |
+| **Perceptible to** | The quiet first — a field where sound goes in and does not come back — then the reference fork dying short of its usual distance, which is how the boundary is found and how wide it is. |
+| **Handling** | The fork is walked and the distance recorded; nobody strikes the bell to settle the question and nobody speaks at the plinth. The radius is entered against the inspectorate's name rather than the gauge. — see `## Handling Process` |
+| **Activation threshold** | No breach counter; activates on touch while saying, “I am listening.” |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **Resolution Condition** | Keep the fork series unbroken and the Rule of the Struck Bell enforced across the inspectorate and every district register. The 25% figure is the consequence, not the objective, on every Clapperless cycle logged. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Empty Toll* [**Debuff**] } | "The bell swings, and what comes out of it is nothing striking nothing." | [The hollow toll opens an anti-sound void around the target.] | *The target takes a Void mark; the hollow noise drains meaning out of what they hear.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Heard by anyone inside earshot of the toll. |
-| { *The Echoing Emptiness* [**Debuff**] } | "The toll comes back, each echo thinner than the last, until only the void where sound belongs is left." | [The fading echoes leave a void that draws at the target.] | *The target's clarity goes; the silence under the sound is what consumes.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Held inside earshot through the echoes. |
-| { *The Void Peal* [**Attack**] } | "The bell's hollow fills with anti-sound — and then bursts outward." | [A blast of concentrated nothing strikes.] | *Inflicts Void damage; the toll erases a portion of presence.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bell is struck. |
-| { *The Full Hollow* [**Attack**] } | "The bell shows you what it holds, and what it holds is nothing, and the nothing is enormous." | [The interior void is opened at the target.] | *A heavy Void opening; the meter climbs 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At the moment the casting cracks. |
-| { *The Silent Tower* [**Ultimate**] } | "Every bell in the field turns hollow at once, and the emptiness they make together is absolute." | [The Bell spreads its hollowness across the whole field.] | *Everyone in range takes Void erosion for three turns while the hollow bells sound.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Clapperless does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Fork Walk* [**Register**] } | It has never rung. What registers is the reference fork dying short of its usual distance, and the quarter's whole series hanging on that number. | The fork is walked at each reading, the distance entered, and the boundary recorded against the inspectorate's name rather than against the gauge. | The gauge reports one worker across one interval and the radius reports what the inspectorate has put its name to. The two have never moved in step once. |
+| { *The Quiet* [**Exposure**] } | Sound goes in and does not come back. Footsteps shorten, voices lower at the plinth for no reason anybody can state, and what consumes is the silence underneath what sound remains. | Ferrehan stands the full interval without striking anything and without speaking, and the interval is timed rather than judged. | A session that lowers the gauge and leaves the field wider has been worked right, and is recorded as such. |
+| { *The Struck Bell* [**Refusal**] } | It does not ring. Nine deliberate strikes in the holding's history have left the casting exactly as drawn, and each attempt widened the field for the rest of the quarter. | The Rule of the Struck Bell is enforced across the inspectorate and every district register; nobody strikes it to settle the question. | The refusal is that a person can be certain and still be wrong: every attempt on record was made by somebody who had read the file. |
+| { *The Widening* [**Overload**] } | The quiet reaches further — twenty-six metres, the width it stood at in Year 4231, when nine hundred items were cleared on their records in six weeks. | A widened walk opens a documents search rather than a field response, and the quarter's series is entered as found rather than rewritten. | The escalation happened at an inspector's desk and is measured in metres of silence, which is why the radius is the column that matters. |
 
-1. **Tension:** Identification runs first: the quiet-field radius set against the previous reading, never the bell itself. At 6 tenths of a metre the bell is exactly what it is at 26, and 3 early reports describe an unchanged holding on days when the fork walk differed by 11 metres. Both the position and the withdrawal are fixed before the cycle opens.
-2. **Clash:** Viderehan and Ferrehan only. The reading is taken with a reference fork struck at the plinth and carried outward until it stops being audible; the distance is the quiet-field radius. Four point two metres is baseline. The recorded range is six tenths of a metre to twenty-six.
-3. **Resolution:** Second radius, rim-vibration log, and the session closes. No suppression condition is recorded and none is to be invented; the bell has never rung and the containment does not attempt to make it.
+### Watch Sequence
+
+1. **What is confirmed:** the fork distance against the previous reading, the boundary's width in metres, and the inspectorate's name against the quarter's series.
+2. **What the watch does:** Ferrehan stands the interval in the quiet without striking anything or speaking, and Viderehan reads the warning the field did not carry. The fork is walked before anything is entered.
+3. **How it closes:** **Keep the fork series unbroken and the Rule of the Struck Bell enforced across the inspectorate and every district register. The 25% figure is the consequence, not the objective, on every Clapperless cycle logged.**
 
 ### Consequences
 
@@ -99,7 +107,7 @@
 - An unresolved session leaves the field wider at the next reading, and the holding does not call that an escalation. In sixty-four years the bell has not moved, not sounded, and not harmed anyone; the field has never carried past the sector wall.
 
 ## Appearance
-**Physical Form:** A bell identical to the Orphaned Bell but completely silent. Its surface is hollow and pale.
+**Physical Form:** A bell the height of a man, hung from a beam in a bell house with no other bell in it, and there is no clapper. The absence is confirmed twice over: by inspection down the throat and by sounding the interior, which returns nothing. The metal is pale, bloodless-cold, light for its size and smells of ash. Tapped on the rim it makes no sound at all, and the vibration runs up the arm of whoever tapped it. The surface takes sound in rather than giving it out, which is the whole of what can be said about it without guessing, and the record does not guess.
 
 **Notable Features:** It vibrates when someone listens, contains no clapper, and represents warnings ignored.
 
@@ -107,7 +115,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A bell identical to the Orphaned Bell but completely silent. Its surface is hollow and pale.
 - **Position / movement:** Hung on its plinth, unmoved in sixty-four years, inspected annually against the drawing made when the holding opened and unchanged against it every time. What moves is the radius of the quiet, and it is confirmed by instrument rather than by ear for the obvious reason.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, near the Orphaned Bell
@@ -116,11 +123,10 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A bell identical to the Orphaned Bell but completely silent. Its surface is hollow and pale. |
 | **Position / movement** | Hung and unmoved in sixty-four years; annual inspection against the opening drawing has never found a change. The quiet field moves; the bell does not. |
 | **Material / signature** | Void. Pale metal, bloodless-cold, light for its size, smelling of ash, and empty when tapped. It takes sound in instead of giving any, and that is a measurement and not an impression. |
-| **Distinctive markers** | No clapper, confirmed by inspection and by sounding the interior; vibration in the rim under a listener's hand and under nothing else; the quiet field, whose boundary is found with a fork and never by ear. |
-| **Identification** | Radius against the last reading. Do not identify on the bell's appearance; it is identical to the Orphaned Bell and the briefing makes that distinction explicitly because the two are confused. |
+| **Distinctive markers** | No clapper, confirmed by inspection and by sounding the interior. Vibration in the rim under a listener's hand and under nothing else. The quiet field, whose boundary is found with a fork and never by ear. |
+| **Identification** | Radius against the last reading. Do not identify on the bell's appearance. It is identical to the Orphaned Bell and the briefing makes that distinction explicitly because the two are confused. |
 
 **Appearance protocol:** Quiet-field radius with the reference fork, twice a session, in metres, walked outward from the plinth on the marked line. Then the rim log: who listened, for how long, and whether the metal moved under their hand. The vibration is recorded with the listener's name because nothing else has ever produced it, and the file is careful to state that this has been observed and not explained.
 
@@ -129,50 +135,41 @@
 - **The Sorrow:** Protection that was correct in every record and had nothing inside it, trusted by people who were right to trust the people who signed for it.
 - **The Event:** A Han overflow reached a shelter district. The Watcher pulled the rope on schedule and the bell, hollow, made no sound at all — not a dull note, not a thud, nothing. The district had been told to listen for it. Its maintenance record was in order and remains in order, filed beside the casualty return.
 - **The People:** The shelter district that stood under it during the overflow, listed by household in the casualty return filed beside the bell's maintenance record. The holding keeps the two documents together deliberately and offers no account of how the one led to the other, because none exists.
-- **Expanded origin context:** Nothing in the bell's file is negligence. It was cast by a competent foundry, hung correctly, inspected on schedule, and the inspections were real inspections carried out by people who looked at it. Four later examinations have confirmed that no inspection of the kind performed would have found the fault, because the fault was the absence of a resonant core and the record contains no line for that. The holding does not answer to the overflow and never has; the radius sat unchanged through the inquiry, through the memorial, and through the rebuilding of the tower. It answers to serviceability certificates issued on the strength of a record rather than a test — to the signature that trusts another professional's signature, which is a decent instinct and the only thing this entity has ever measured.
+- **Expanded origin context:** Nothing in the bell's file is negligence. It was cast by a competent foundry, hung correctly, inspected on schedule, and the inspections were real inspections carried out by people who looked at it. Four later examinations have confirmed that no inspection of the kind performed would have found the fault, because the fault was the absence of a resonant core and the record contains no line for that. The holding does not answer to the overflow and never has. The radius sat unchanged through the inquiry, through the memorial, and through the rebuilding of the tower. It answers to serviceability certificates issued on the strength of a record rather than a test — to the signature that trusts another professional's signature, which is a decent instinct and the only thing this entity has ever measured.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A bell identical to the Orphaned Bell and completely silent, hollow and pale, with no clapper in it. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the warning that was ignored. | Stable |
-| **Ferrehan** | Tests whether the worker can remain in meaningful silence. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the fork distance against the previous reading, the boundary's width in metres, and the inspectorate's name against the quarter's series. |
+| **Handling** | The stander stands the interval in the quiet without striking anything or speaking, and the observer reads the warning the field did not carry. The fork is walked before anything is entered. |
+| **Withdrawal** | **Keep the fork series unbroken and the Rule of the Struck Bell enforced across the inspectorate and every district register. The 25% figure is the consequence, not the objective, on every Clapperless cycle logged.**. |
+| **Refusal** | The Rule of the Struck Bell is enforced across the inspectorate and every district register; nobody strikes it to settle the question. |
 
-
-### Operational Work Notes
-
-Ferrehan lowers the gauge and the endurance it tests is precise: the worker stands in the quiet field for the full interval without striking anything and without speaking. Viderehan holds level and produces the record — it shows the worker a warning that was issued, in order, and did not arrive, and the folder now holds two hundred of them. Flerehan and Pugnahan are N/A against an Object; the Registrum's claim that Viderehan was primary was not impossible, merely wrong, and crews were assigned on it.
-
-**Reading the response:** The gauge reports one worker across one interval. The radius reports what the inspectorate has put its name to. Those two numbers sit in separate columns and have never moved in step once; supervisors are told that a session which lowers the gauge and leaves the field wider has been worked right and is recorded as a success with no note attached.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **Extended use draws personal resilience out of the operator**
+> **Special activation — no counter.** The listed condition: *"touch while saying, “I am listening.”"*.
 
-**Activation Trigger:** Touch while saying, “I am listening.”
 
-**Effect:** One sealed warning read out, or one sealed passage opened. Never both from the same approach, and the choice of which is not made by the bearer.
 
-**Duration:** Until the warning is understood — which is assessed by a second officer, not by the bearer — or until the passage closes on its own.
 
-**Risk:** The bearer afterwards cannot sign anything they have not personally checked. It is not a scruple; it is an incapacity, and it has ended two administrative careers.
 
+> **This Relic gives one sealed warning, or one sealed passage. It does not take instruction on which.**
+> **This Relic has never rung, and the containment does not attempt to make it.**
+> **The bearer afterwards cannot sign anything they have not personally checked.**
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **At the plinth; nothing is equipped or mounted.** The bell is hung where it has always been and is approached, not carried. |
 | **Activation** | Touch while saying, “I am listening.” |
-| **Primary Effect** | One sealed warning, or one sealed passage. Never both from one approach. |
-| **Duration** | Until a second officer certifies the warning understood, or the passage closes. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
-| **Risk** | Permanent inability to certify anything the bearer has not personally tested. Two careers ended. |
+| **Primary Effect** | One sealed warning read out, or one sealed passage opened — never both from the same approach, and the choice of which is not made by the bearer. |
+| **Duration** | Until the warning is understood, which a second officer assesses and the bearer cannot, or until the passage closes on its own. |
+| **Termination / Return** | The bearer takes their hand off the rim and the second officer closes the record. There is nothing to detach and nothing is returned anywhere. No physical hazard is on record at any radius in sixty-four years — the cost is the bearer's capacity to certify, and it is not refunded. |
+| **Risk** | The bearer afterwards cannot sign anything they have not personally checked. It is not a scruple but an incapacity, and it has ended two administrative careers. |
 
 **Operational Rule:** Requests to use the relic are decided above the level of the staff who submit them, because the choice between a warning and a passage is not made by the bell and the authority to accept whichever comes must sit with someone who can act on it. It has no field application. Eleven requests, four approvals, all documented with their grounds.
 
@@ -182,12 +179,12 @@ Ferrehan lowers the gauge and the endurance it tests is precise: the worker stan
 |---|---|---|
 | 10 Seconds | The rim moves under the hand. It has done this for every bearer and for no instrument. | Log the bearer's name. The vibration is the holding's only recorded response to attention and it is observed, not explained. |
 | 30 Seconds | A sealed warning surfaces, or a sealed passage gives. Which of the two is not predictable and has never been influenced. | Second officer present from the outset. If it is a warning, they certify understanding; if a passage, they log where it goes before anyone enters it. |
-| 1 Minute | The bearer begins listing things they have certified without checking. The lists are long and they are accurate. | 5 Void damage every 15 seconds past the minute. Take the list. Four items found this way were genuinely defective and one of them was a flood gate. |
+| 1 Minute | The bearer begins listing things they have certified without checking. The lists are long and they are accurate. | Take the list. Nothing is damaged at this plinth and no interval harms the bearer. What accumulates past the minute is the list, and it is transcribed in full. Four items found this way were genuinely defective and one of them was a flood gate. |
 | 2 Minutes | The bearer loses the ability to accept any document as evidence of anything. | Remove the relic. The incapacity is permanent in three of eleven bearers and the facility has made no provision for them beyond reassignment. |
 
 ### Escalation Notes
 
-Nothing escalates at the plinth. In sixty-four years the bell has not moved, not sounded, not been found altered against its opening drawing, and not injured anyone, and the holding states that plainly rather than implying a hazard it cannot evidence. What escalates is the radius, and the radius escalates at a desk. A team that treats a wide reading as a containment event will stand in the sector in the quiet and find nothing; the event was a certificate signed against a record.
+Nothing escalates at the plinth. In sixty-four years the bell has not moved, not sounded, not been found altered against its opening drawing, and not injured anyone, and the holding states that plainly rather than implying a hazard it cannot evidence. What escalates is the radius, and the radius escalates at a desk. A team that treats a wide reading as a containment event will stand in the sector in the quiet and find nothing. The event was a certificate signed against a record.
 
 **Response sequence:** Re-take the radius, log the rim, and pull the quarter's serviceability certificates. There is no perimeter to establish. The bell is where it has always been and the event that produced the reading happened at an inspector's desk.
 
@@ -222,13 +219,13 @@ Nothing escalates at the plinth. In sixty-four years the bell has not moved, not
 **Falloff Rule:** 100% direct damage to primary, 60% sonic disruption to secondary targets.
 **Damage Application:** Multiplier to direct and Tick damage separately. The Tick is the secondary targets' disorientation after the pulse, logged in seconds, and it is longer in anyone who has recently signed something off.
 
-Appearance : An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a triangular spearhead of prehistoric glacier ice that remains permanently frozen in ambient temperatures.
+**Appearance:** An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a triangular spearhead of prehistoric glacier ice that remains permanently frozen in ambient temperatures.
 
 The lance point radiates an intense aura of sub-zero cold that freezes moisture on contact. Thrusting into targets causes immediate frostbite and shatters brittle chitin plates.
 
 **Ability:** *Hollow Toll* — Void damage at Range 3. The pulse is inaudible to everyone including the targets, which is the armoury's stated design intent and the reason the piece is restricted: a weapon drawn from this holding is not permitted to announce itself.
 
-**Cost:** The wielder is deaf for as long as the field holds. It returns. The armoury has never attempted to shorten it.
+**Bearer cost:** The wielder is deaf for as long as the field holds. It returns. The armoury has never attempted to shorten it.
 
 ### M.A.W. Suit — The Resonance-Dampening Shroud
 
@@ -247,7 +244,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** Resists Void pressure on the Soul. Issued to the officer carrying the fork, who walks away from the plinth until the tone stops and is therefore the one person in the room who cannot wear ear protection.
 
-**Cost:** The wearer feels faintly absent from themselves for about a day. Nine of twelve wearers describe it, unprompted, as being in a room where nobody is expecting anything of them.
+**Bearer cost:** The wearer feels faintly absent from themselves for about a day. Nine of twelve wearers describe it, unprompted, as being in a room where nobody is expecting anything of them.
 
 ### M.A.W. Stigma — The Hollow Bell Pendant
 
@@ -262,13 +259,13 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** The chime swings with the wearer's step and does not ring, and it goes cold at the throat when its wearer is about to accept a document in place of a check. It has no other function.
 
-**Cost:** The bearer occasionally loses a spoken word mid-sentence. Colleagues report it as a stammer the bearer did not have before and which does not appear in writing.
+**Bearer cost:** The bearer occasionally loses a spoken word mid-sentence. Colleagues report it as a stammer the bearer did not have before and which does not appear in writing.
 
 *The pendant has been granted five times, each to a worker who refused to certify something on the strength of a record and said so in writing, knowing it would be overruled. Three of the five were overruled. The holding records the pattern and has refused to make it a qualification, on the ground that a refusal performed for an object is not a refusal.*
 
 ### M.A.W. Use Notes
 
-The three pieces are built around silence and each of them takes a channel away from the user: the lance deafens the wielder, the shroud makes the wearer feel unexpected, the pendant takes a word out of a sentence. The armoury's note observes that no piece in the set warns anybody of anything, that this was not an oversight, and that a version of the lance which announced itself was built in Year 4219 and destroyed on the ground that the holding would not have permitted the joke.
+The three pieces are built around silence and each of them takes a channel away from the user: the lance deafens the wielder, the shroud makes the wearer feel unexpected, the pendant takes a word out of a sentence. The armoury's note observes that no piece in the set warns anybody of anything, that this was not an oversight. And that a version of the lance which announced itself was built in Year 4219 and destroyed on the ground that the holding would not have permitted the joke.
 
 ### Field Use Record
 
@@ -281,7 +278,7 @@ The three pieces are built around silence and each of them takes a channel away 
 
 **Stat interpretation:** β holds across the set and the rating against entities is right. In people the set takes away a sense, a word, or a career's worth of professional trust, and the establishment keeps no column for the third of those.
 
-**Full-set source review (2026-10-13):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat interpretation, and all M.A.W. claims elsewhere against exact Side join `SE-340-A` (`C-IIβ-340 [D]`, `SE-340`, `4/4`) and `SE-340-B/C/D`; Master Registry rows 623–626; Master M.A.W. rows/details 163–165; Entity Codex row 419 / Tale 55; and archetypes `MAW-W-340` plus the separate `MAW-W-285` bell entry. Side A and all item grades support `I-Relic (Indumentum) · β`; Side/item D supports naming the bonus `+1 Composure` during source work. Preserve the existing Weapon identity/profile hold from Batch 82: the primary and `MAW-W-340` identify the *Cryo-Relic Lance* / Long polearm (Void 6–10, Fast 4, Range 3, pulse/cone), while exact Side/item B and Master table/detail 163 identify the *Clapperless Chime-Sceptre*; the item Appearance is a pale anti-sound hammer, and the entity/Side subject is a silent bell. Side/item B instead gives Void 5–9 / Speed 2 / Range 2 / Single; the Registry leaves its profile variable, and `MAW-W-285`'s *Silent Memorial-Bell* / Room entry has no crosswalk to `MAW-W-340-01`. No transition resolves the forms or profiles, so none was changed and the prior Weapon-only disposition is not counted again. Suit name and resistances align, but the local linen/silver-thread shroud and linked gossamer veil with a visible vibration line remain different recorded appearances. Preserve the Stigma slot/function hold: local Neck / Pendant and the cold warning-chime are not reconciled with exact item D's Head slot and preserved warning-word function; the Master table's Pendant/Choker category and Registry's generic Accessory slot do not settle it. No linked evidence file changed.
+**Full-set source review (Year 4238):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat interpretation, and all M.A.W. claims elsewhere against exact Side join `SE-340-A` (`C-IIβ-340 [D]`, `SE-340`, `4/4`) and `SE-340-B/C/D`; Master Registry rows 623–626; Master M.A.W. rows/details 163–165; Entity Codex row 419 / Tale 55; and archetypes `MAW-W-340` plus the separate `MAW-W-285` bell entry. Side A and all item grades support `I-Relic (Indumentum) · β`; Side/item D supports naming the bonus `+1 Composure` during source work. Preserve the existing Weapon identity/profile hold from an earlier review: the primary and `MAW-W-340` identify the *Cryo-Relic Lance* / Long polearm (Void 6–10, Fast 4, Range 3, pulse/cone). While exact Side/item B and Master table/detail 163 identify the *Clapperless Chime-Sceptre*. The item Appearance is a pale anti-sound hammer. And the entity/Side subject is a silent bell. Side/item B instead gives Void 5–9 / Speed 2 / Range 2 / Single. The Registry leaves its profile variable, and `MAW-W-285`'s *Silent Memorial-Bell* / Room entry has no crosswalk to `MAW-W-340-01`. No transition resolves the forms or profiles, so none was changed and the prior Weapon-only disposition is not counted again. Suit name and resistances align, but the local linen/silver-thread shroud and linked gossamer veil with a visible vibration line remain different recorded appearances. Preserve the Stigma slot/function hold: local Neck / Pendant and the cold warning-chime are not reconciled with exact item D's Head slot and preserved warning-word function. The Master table's Pendant/Choker category and Registry's generic Accessory slot do not settle it. No linked evidence file changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -289,7 +286,7 @@ The three pieces are built around silence and each of them takes a channel away 
 
 - It has never rung. Nine deliberate strikes are on record, all by personnel who had read the file first, and each widened the field for the rest of the quarter.
 - Its vibration is felt through the hand.
-- It resonates with the Orphaned Bell without sound. The two holdings are forty metres apart and the resonance is recorded as observed and unexplained; no theory has been offered and the file has not been asked for one.
+- It resonates with the Orphaned Bell without sound. The two holdings are forty metres apart and the resonance is recorded as observed and unexplained. No theory has been offered and the file has not been asked for one.
 
 **Personnel Note:** *"Everyone comes here angry at whoever did not listen. Nobody failed to listen. The district was listening, that is the whole horror of it, they were stood in the street with their heads up. The failure was upstream in a room with a filing cabinet, signed by somebody doing their job the way they were taught, and the radius says we are still doing it."* — Warden, SECTOR-A-01
 
@@ -300,11 +297,11 @@ The three pieces are built around silence and each of them takes a channel away 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Quiet-field radius on the marked line, rim log, condition against the opening drawing. The observer is told at the gate that they will want to strike it and that nine people have. |
-| **Sustained observation** | Over a year the radius detaches from the session and attaches to the test return. Once an observer holds both columns, no new work gets proposed at the plinth; there is nothing to do here but walk the fork out honestly and send the figure on. |
+| **Sustained observation** | Over a year the radius detaches from the session and attaches to the test return. Once an observer holds both columns, no new work gets proposed at the plinth. There is nothing to do here but walk the fork out honestly and send the figure on. |
 | **Activation or escalation** | A widening of three metres or more between consecutive readings opens a documents search rather than a field response: which serviceability certificates were issued that fortnight, and how many rest on documentary review alone. The search has succeeded on twenty-eight occasions out of thirty. |
 | **Post-contact review** | Both radii with their hours, the rim log, and the fortnight's certificates attached with the untested items listed by item number. Totals are returned. A review that says four hundred untested has told the reader nothing they can act on. |
 
-**Observation method:** A reference fork struck at the plinth and carried outward along the marked line until the tone is gone; the distance, in metres, twice a session. Never by ear alone and never from a fixed microphone — three proposals for a permanent sensor array have been refused on the same ground, which is that a device left in the field stops being walked and the walking is what nobody can fake.
+**Observation method:** A reference fork struck at the plinth and carried outward along the marked line until the tone is gone. The distance, in metres, twice a session. Never by ear alone and never from a fixed microphone — three proposals for a permanent sensor array have been refused on the same ground, which is that a device left in the field stops being walked and the walking is what nobody can fake.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -313,13 +310,13 @@ The three pieces are built around silence and each of them takes a channel away 
 Clapperless (C-IIβ-340 [D]) is logged as an Object-Void manifestation expressing Void, held at SECTOR-A-01 forty metres from the Orphaned Bell: a bell identical to its neighbour, pale, light for its size, with no clapper and no resonant core, recovered intact from a shelter tower after a Han overflow. It takes sound in instead of giving any. The holding's instrument is the quiet-field radius, walked with a reference fork twice a session — four point two metres at baseline, six tenths at the floor, twenty-six at the ceiling.
 
 **Entry 2 — <Test Return: One Thousand One Hundred and Forty Items, Four Hundred and Eleven Struck>**
-Drawn from the first return filed under the Rule of the Struck Bell, in Year 4238. The life-safety register of this facility and its districts carries one thousand one hundred and forty items — alarms, sirens, bells, shutters, pressure doors, flood gates. Four hundred and eleven were functionally tested in the period by a person who signed their own name to having tested them. Seven hundred and twenty-nine were not; of those, one hundred and eighty-six have been formally taken out of service and five hundred and forty-three remain certified on documentary review under the transitional provision. The quiet field stood at twenty-six metres in Year 4231, in the six weeks the district inspectorate cleared nine hundred items by reviewing their maintenance records, a campaign completed ahead of schedule and commended. It stood at six tenths of a metre in Year 4237, during the first full testing programme. The radius has tracked the test return for nine years and has never tracked work done at the plinth.
+Drawn from the first return filed under the Rule of the Struck Bell, in Year 4238. The life-safety register of this facility and its districts carries one thousand one hundred and forty items — alarms, sirens, bells, shutters, pressure doors, flood gates. Four hundred and eleven were functionally tested in the period by a person who signed their own name to having tested them. Seven hundred and twenty-nine were not. Of those, one hundred and eighty-six have been formally taken out of service and five hundred and forty-three remain certified on documentary review under the transitional provision. The quiet field stood at twenty-six metres in Year 4231, in the six weeks the district inspectorate cleared nine hundred items by reviewing their maintenance records, a campaign completed ahead of schedule and commended. It stood at six tenths of a metre in Year 4237, during the first full testing programme. The radius has tracked the test return for nine years and has never tracked work done at the plinth.
 
 **Entry 3 — <Statement of an Inspector>**
 I cleared nine hundred items in six weeks and the paperwork for every one of them was immaculate. That is not a defence, it is the point. A maintenance record in order is the work of a competent person doing their job properly, and when I signed against it I was respecting that person's competence and not wasting the establishment's time duplicating a check somebody qualified had already made. I was taught to do it that way. I taught others. If you had asked me then what evidence I had that the equipment worked, I would have said the record, and I would have believed that was an answer. It is not an answer. A record tells you that somebody inspected a thing. Striking it tells you whether it rings. Those are different facts and I spent twenty-two years treating them as one.
 
 **Entry 4 — <Containment Notice>**
-Containment of C-IIβ-340 is a fork walk at SECTOR-A-01 and a certification rule everywhere else. Plinth: radius walked twice a session on the marked line, series unbroken; rim vibration logged with the listener's name; annual condition inspection against the opening drawing; no deliberate strike, ever, the prohibition protecting the series and not the personnel. There is nothing inside the bell and it will still open something — one sealed passage, or one sealed warning, and never both from the same approach; requests to use it are decided above the level of the staff who submit them, because the choice of which it gives is not made by the bell and the authority to act on whichever comes must sit with somebody who can. Inspectorate duties, binding on every district register: **no item of life-safety equipment may be certified serviceable on the strength of its maintenance record. Certification requires a functional test performed within the period by a person who signs their own name to having performed it. A record in order is evidence that an inspection occurred and is not evidence that the item works.** Work response — Viderehan: a warning that was issued, correctly, and did not arrive (Stable); Ferrehan: the full interval standing in the quiet without striking anything (Decrease).
+Containment of C-IIβ-340 is a fork walk at SECTOR-A-01 and a certification rule everywhere else. Plinth: radius walked twice a session on the marked line, series unbroken. Rim vibration logged with the listener's name. Annual condition inspection against the opening drawing. No deliberate strike, ever, the prohibition protecting the series and not the personnel. There is nothing inside the bell and it will still open something — one sealed passage, or one sealed warning. And never both from the same approach. Requests to use it are decided above the level of the staff who submit them, because the choice of which it gives is not made by the bell and the authority to act on whichever comes must sit with somebody who can. Inspectorate duties, binding on every district register: **no item of life-safety equipment may be certified serviceable on the strength of its maintenance record. Certification requires a functional test performed within the period by a person who signs their own name to having performed it. A record in order is evidence that an inspection occurred and is not evidence that the item works.** Work response — Viderehan: a warning that was issued, correctly, and did not arrive (Stable). Ferrehan: the full interval standing in the quiet without striking anything (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Struck Bell>**
 The inspectorate opposed this rule and their objection is arithmetic, which is the hardest kind to argue with and the kind I have least to say to.
@@ -345,7 +342,7 @@ The ground is the fork. That campaign took the field to twenty-six metres, the w
 
 ## 감각 묘사 (Flavor Text)
 
-You stand before the Bell and wait for a sound that will not come. Silence gathers until it becomes a warning itself. The surface vibrates beneath your hand. The Bell wants to ring. It is waiting for someone to prove that a warning can still be heard.
+You stand before the Bell and wait for a sound that will not come. Silence gathers until it becomes a warning itself. The surface vibrates beneath your hand. The Bell does not want anything. It is waiting the way an untested alarm waits: correctly hung, in order on paper, and empty in the one respect that mattered.
 
 
 
@@ -359,7 +356,7 @@ You stand before the Bell and wait for a sound that will not come. Silence gathe
 
 ### Interaction Pattern
 
-This one is filed alongside three records, two of which are bells. Only the Orphaned Bell is anywhere near it, at forty metres, and that proximity is historical rather than chosen — the holdings were sited together before either instrument existed and separating them now would break both series. What follows is paper comparison except where it says otherwise.
+Only the Orphaned Bell is anywhere near it, at forty metres, and that proximity is historical rather than chosen — the holdings were sited together before either instrument existed and separating them now would break both series. What follows is paper comparison except where it says otherwise.
 
 **Interaction method:** On one question: was the thing stopped from working, unable to work, or working and unheard. The answer goes down as one sentence, over the writer's signature. The wing holds four records that turn on an unheard warning and three of them answer to somebody's act. This one answers to nobody's, and the pairing claims in the folder were all written before the distinction existed.
 
@@ -378,13 +375,13 @@ This one is filed alongside three records, two of which are bells. What actually
 
 ## 이야기 (Narratio) — The Tale
 
-It was meant to ring, and it had nothing inside it to ring with, and an entire district found that out too late.
+There was a bell meant to ring, and it had nothing inside it to ring with, and an entire district found that out too late.
 
 The bell was commissioned for a Han overflow shelter — a refuge district where citizens were meant to gather when the Weeping surged. The bell's purpose was simple and vital: to sound the alarm, to call the citizens to shelter, to give them the minutes they needed to reach safety before the Han took the streets. It was cast well. It was hung high. It looked, to anyone who saw it, exactly like a bell that would save lives.
 
 But the bell was hollow. Not cracked, not broken, not sabotaged in any way the Keepers could later identify. Hollow. The casting had gone wrong, or the Han-alloy had settled strangely, or the bell had simply, in the making, failed to acquire the dense, resonant core that a bell needs to ring. It was a bell-shaped thing, with no bell inside it. And no one tested it properly — because in Somnarak, systems are trusted until they fail, and the bell looked right, and looking right was, for the city, the same as being right.
 
-The overflow came. The Watcher pulled the rope. The clapper struck. And the bell, hollow, gave no sound — not a dull thud, not a muffled toll, nothing. The air did not move. The citizens in the streets, who had been told to listen for the bell, heard nothing, and so did not run, and so did not reach the shelter, and so were taken by the Han the way citizens are always taken: slowly, completely, without the dignity of a warning.
+The overflow came. The Watcher pulled the rope. The clapper struck. And the bell, hollow, gave no sound — not a dull thud, not a muffled toll, nothing. The air did not move. The citizens in the streets, who had been told to listen for the bell, heard nothing. And so did not run, and so did not reach the shelter. And so were taken by the Han the way citizens are always taken: slowly, completely, without the dignity of a warning.
 
 Clapperless is that bell. Object-Void, the figure of the warning that existed in form but not in function — the alarm that looked right and was not, the protection that was never tested until it was needed and then was not there. It carries, in its hollowness, every life lost to a system that was trusted because it appeared sound, and that failed because appearance is not substance.
 
@@ -423,7 +420,7 @@ Some sorrows are about cruelty. Clapperless is about the gap between form and fu
 - A bell cast without a resonant core, hung in a shelter tower, inspected on schedule, and silent when the rope was pulled. Four later examinations confirm that no inspection of the kind performed would have found the fault.
 - Quiet-field radius 4.2 m at baseline, range 0.6 to 26. The radius tracks this facility's serviceability certificates and has never tracked work done at the plinth.
 - Soundless resonance with the Orphaned Bell at forty metres, continuous since both holdings opened, unexplained.
-**Cross-References:** SECTOR-A-01, Zone D · The Orphaned Bell (forty metres; soundless resonance logged each session) · the overflow casualty return and the bell's maintenance record, filed together · the life-safety register and its nine-year schedule interval
+**Cross-References:** SECTOR-A-01, Zone D · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) (forty metres; soundless resonance logged each session) · the overflow casualty return and the bell's maintenance record, filed together · the life-safety register and its nine-year schedule interval
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the district inspectorate, which appears here because the Rule of the Struck Bell binds this holding and the inspectorate carries that rule.
 **Originator:** A shelter district that stood in the street with their heads up, listening for a bell the city had told them to listen for, which was hung correctly and inspected on time and had nothing inside it. The households are named in the casualty return and the holding has refused twice to summarise them.
 
@@ -461,7 +458,7 @@ A warning bell failed before a Han overflow and the affected district received n
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Echo (II) — repeats not ringing — Moderate (β), Comprehension Level 2. The Registrum disagreed with the SECC header on threat and location and has been corrected against it.
+- **Classification detail:** Object/Place, Echo (II) — repeats not ringing — Moderate (β), Comprehension Level 2.
 - **Field detail:** Void; SECTOR-A-01, Zone D, forty metres from the Orphaned Bell. The siting is historical and predates both instruments; separating the holdings now would break both series.
 - **Recognition detail:** Identify it by the quiet-field radius against the last reading, not by the bell. The bell is identical at six tenths of a metre and at twenty-six, and three early reports describe an unchanged holding on days the fork walk differed by eleven metres.
 - **Record detail:** Read the designation first, then read what the record is about. The Orphaned Bell holds a loss that was marked. This holds a warning that was in place, correct on paper, and had nothing inside it. A facility can maintain every item on its register to standard, file every certificate on time, and feed this holding to the width of a street by never once striking anything.

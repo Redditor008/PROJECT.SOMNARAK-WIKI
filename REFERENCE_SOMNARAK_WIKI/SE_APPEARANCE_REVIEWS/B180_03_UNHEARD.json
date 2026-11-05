@@ -1,0 +1,153 @@
+{
+  "designation": "C-Iα-965",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-965_Unheard_흐르는_침묵.md",
+  "words": 7105,
+  "sha256": "2adf57cc03890a7beea08a8bcfaee6cb02e3de2c9e85b8d7ebd3189eb7d51fa3",
+  "unit": 3,
+  "name": "Unheard",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_03_UNHEARD.md",
+  "before_words": 7105,
+  "after_words": 7111,
+  "base": "deddafc86c98f266f49afb9cb034949555831129",
+  "final_sha256": "acea152b24cb36a553513e2eb79b0faa388b2ca42bfe2fbbb57d6bdc1ab74e38",
+  "summary": "Seven supported repairs give both movement fields the walking-pace stack route, replace the fixed five-metre identification shortcut with the two-Warden measured edge, replace generic erosion/lifetime/catastrophe consequences with content-reporting, piece costs and in-place expansion, ground first-contact and activation flavor in cold/speech failure/content withdrawal, make Final Observation record radius and sealed accounts without claiming recovered words, and separate Fang, Plate and Lantern field signs. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "The Writer's Hour works because it refuses a simple villain: banning speech-as-evidence prevents real abuses, and the same rule leaves an illiterate citizen procedurally invisible. I especially value the file's restraint about content. It makes the radius measurable while refusing to invent the one thing everyone wants from it—what she said.",
+  "reasoning": "R-33 chain: Subject-Weight / Residue-I Grudge → a citizen who could not write was courteously received eleven times by a system that could act only on lodged writing, leaving attendances without one surviving word → an invisible cold pressure travels the record stacks, known only where a fixed phrase stops arriving → Flerehan carries grief outward, Ferrehan endures unreceived speech, Viderehan records attendances beside a blank page, and barred Pugnahan is answered by physical pressure → event expansion stays in place while radius growth tracks unlodged dictations → separate accounts and no content claim protect the absent statement from reconstruction → equipment costs ache, reaction and anger without recovering speech. Repairs align appearance and operational seams; the contradictory Tale, source recovery claims and thresholds remain HELD.",
+  "history": "Batch 137 unit 5 (commit fb72cece6f893db57b5b6b6c11944e7fa2c1ac1d) read the complete primary and exact SE-965-A–D with Master Entries 370–372, Entity Codex row 490, Tale 124, Registry rows 1115–1118, archetype MAW-W-965 and disposition row 216. It corrected the Valid Work Types row to the primary's own Pugnahan ban and recorded inherited Full-SE 205/301 plus Weapon 212/287 with a new exact-pair increment. Those dispositions are inside the ledger legacy 240/240 baseline, so B180 earns +0 Types / +0 Weapon. HELD earns +0 SE.",
+  "holds": [
+    "Origin chronology and literacy remain split: the primary gives eleven spoken attendances in four months by a citizen who could not write, death in month five and hush in month six; the Tale and Tale 124 give years of protest including letters and filed reports. No single biography was selected.",
+    "Recovered-content claims remain split: primary doctrine says no word survives and no session has produced a reproducible word, while Side/item wording says Viderehan or the Lantern reveals the final words and their erasure. Primary Behavior scopes this to attendances with words present beside a blank page; no actual wording was supplied or inferred.",
+    "Side A calls Unheard Subject—Can breach, while the primary is expressly non-breaching and transforms/expands in place. Tale 124's stale Registrum also gives Echo (II), Moderate (β), Comprehension 2 and Viderehan-primary against the primary's corrected Residue (I), Minor (α), Comprehension 1 and Flerehan/Ferrehan gauge work.",
+    "Threshold systems are not converted: operational threshold 4 and fourth ignored condition, combat activation ≥45%, event opening at 40% plus 10 per interval, and Drowned World at 65% retain separate scopes.",
+    "Weapon range/archetype remains held: primary and item B agree Grudge 3–6, Speed 2, Range 2 (Short), maximum 5 and 15 Echoes, while MAW-W-965 is only 'Shard (different tip)' at Room. The exact source Single/100% pattern was not imported into the primary Weapon block.",
+    "Absolute silence has one recorded exception: the Orphaned Bell is audible once inside the radius on contact and contracts it, while the rest of the primary says no audible sound and no instrument reading. The exception was preserved as a pairing result, not generalized into a sound mechanism.",
+    "Extraction remains unexplained: the primary takes it from stack ends at the radius and never from the current, while exact items use source-trace binding/corrosion and six primary Lanterns were issued for irregular handwritten records. No manufacture or issue sequence was invented.",
+    "Primary Lantern's day-long, word-perfect recall of everything ever said by a person who could not write is broader than Side A/item D's +1 source-work bonus and hidden-lies/suppressed-endings visibility. The effect was retained without treating it as recovery of the origin citizen's words."
+  ],
+  "split": [
+    3,
+    4
+  ],
+  "repairs": [
+    {
+      "id": "u3-r1-classification-movement",
+      "kind": "short",
+      "old": "| **Movement** | Mobile — drifts or flows through the area. |",
+      "new": "| **Movement** | Mobile — flows along the Collector's Row record stacks at about walking pace. |"
+    },
+    {
+      "id": "u3-r2-detailed-movement",
+      "kind": "short",
+      "old": "| **Position / movement** | Mobile — drifts or flows through the area. Recorded at every Unheard cycle against the previous reading. |",
+      "new": "| **Position / movement** | Moves along the line of the stacks at walking pace without approaching or avoiding personnel. Record position and hush radius at every cycle against the previous reading. |"
+    },
+    {
+      "id": "u3-r3-identification-test",
+      "kind": "short",
+      "old": "| **Identification** | Say a fixed phrase to a colleague five metres off. If they answer, this is not it. |",
+      "new": "| **Identification** | Two Wardens walk a fixed phrase apart until it stops arriving; that measured edge, with cold before quiet, identifies the hush for the day. |"
+    },
+    {
+      "id": "u3-r4-consequences",
+      "kind": "careful",
+      "old": "- Extended contact risks the whole of what the file documents—emotional erosion first, then somatic trauma, then the dissolution of identity, then corruption of the surrounding environment.\n- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—set out in the equipment specifications and settled in the field.\n- Without timely resolution, Unheard defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.",
+      "new": "- The escalation sign is content: a Warden who reports words is withdrawn and debriefed alone, and two matching accounts are sent upward the same day without being reconciled into one another.\n- Equipment does not recover her words. Its prices remain piece-specific—old wounds and bruising, a reaction time the wearer stops mentioning, and anger at every ignored voice.\n- If sound is forced into the radius, the pressure can turn physical and the hush expands in place; it does not pursue, and no transcript or recovered statement follows."
+    },
+    {
+      "id": "u3-r5-flavor-contact-activation",
+      "kind": "careful",
+      "old": "**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Weight, pressing or releasing like a tide. Then the form resolves: A pressure with no visible body that flows through the Collector's Row like a current of silence. The space does not become generic; it shifts in the specific register of Grudge.\n\n**With continued exposure:** Minutes pass and the first edge wears into something more exact: the cold acquires a shape, the pressure at the stack ends acquires a grain, and the radius can be felt rather than measured. Nothing about the holding has changed; the crew is simply learning the texture of a thing that has moved along these stacks since before any of them were posted here.\n\n**When the entity activates:** The Gauge tips. The Subject-Weight does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Grudge is no longer atmospheric. It is operational.",
+      "new": "**At first contact:** Cold arrives before the quiet. Your fixed phrase reaches the Warden beside you, then—one measured step farther along the stacks—it does not. Nothing resolves into a body at the edge; speech simply stops being received.\n\n**With continued exposure:** Minutes pass and the first edge wears into something more exact: the cold acquires a shape, the pressure at the stack ends acquires a grain, and the radius can be felt rather than measured. Nothing about the holding has changed; the crew is simply learning the texture of a thing that has moved along these stacks since before any of them were posted here.\n\n**When the entity activates:** The radius moves beyond the day's mark, or somebody reports content. The pressure turns physical without becoming sound, and the reporting Warden comes out first, alone, before the crew withdraws."
+    },
+    {
+      "id": "u3-r6-final-observation",
+      "kind": "careful",
+      "old": "> What the observing worker is asked to do at the close of contact: do not force sound into it — listen, and record what remains — or improvise something kinder.\n\n| Do not force sound into it; listen and record what remains, and let each Warden's account be written separately before either of them speaks. | Improvise something kinder, which is how every failure on Unheard's file began. |\n|---|---|\n| The silence softens and carries the worker's grief. The sorrow is named; Unheard is fully recorded. | The pressure fights back without producing sound. The gauge climbs and Unheard withdraws without revelation. |",
+      "new": "> Close by taking the radius twice and sealing separate accounts. Do not force sound into the hush, and do not treat reported content as the citizen's recovered words.\n\n| Do not force sound into it; listen and record what remains, and let each Warden's account be written separately before either of them speaks. | Shout, soothe, or force a sound into it; compare accounts before sealing them, or report content as though it were recovered speech. |\n|---|---|\n| The pressure is borne for the interval; the radius and two separate accounts enter the record, while her words remain unrecovered. | The pressure answers force and the radius may grow, leaving only the crew's unreconciled impressions—not her statement. |"
+    },
+    {
+      "id": "u3-r7-field-use-piece-signs",
+      "kind": "careful",
+      "old": "| **Before use** | Wielder, piece, the day's reading, and a sealed baseline held by the second worker: the old ache in the wearer's wounds, and the bruise count that will be read at the end. |\n| **During use** | The charging sign is the ache in the wearer's old wounds, which the second worker logs with the hour and the wearer does not log at all, because the wearer is the last person able to notice it becoming ordinary. |\n| **At limit** | The wearer's reaction time is gone and the wearer has stopped saying so, which is the state this piece is retired at rather than a tolerable one. The limit is called by the observer, and the call stands. |\n| **After use** | Piece returned; read again a week out, because the dulled reflexes and the bruising do not show on the day the piece comes back. |",
+      "new": "| **Before use** | Wielder, piece, the day's reading, and a sealed baseline held by the second worker: old-wound ache and bruise count for the Fang, reaction time for the Plate, and anger at ignored voices for the Lantern. |\n| **During use** | The second worker logs the piece's own sign with the hour: ache becoming ordinary, reaction time falling away without being mentioned, or anger arriving at voices the bearer was not present to hear. |\n| **At limit** | The relevant sign persists and the bearer has stopped reporting it, which is the state the piece is retired at rather than a tolerable one. The limit is called by the observer, and the call stands. |\n| **After use** | Piece returned; read again a week out, because bruising, dulled reflexes and the Lantern's anger do not all show or clear on the day the piece comes back. |"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-Iα-965_Unheard_흐르는_침묵.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.025  clean   200 grams  Trivia\n 0.020  clean   100 grams  Operational Parameters\n 0.017  clean   523 grams  M.A.W. Equipment\n 0.009  clean   564 grams  Combat Record\n 0.003  clean   289 grams  Behavior\n 0.003  clean   299 grams  이야기 보고 (Story Log)\n 0.000  clean   808 grams  Hearing Record\n 0.000  clean   615 grams  감각 묘사 (Flavor Text)\n 0.000  clean   346 grams  기록 (Registrum)\n 0.000  clean   332 grams  이야기 (Narratio)\n 0.000  clean   240 grams  관찰 기록 (Observation Log)\n 0.000  clean   203 grams  Origin\n 0.000  clean   193 grams  Appearance\n 0.000  clean   140 grams  Containment Event Behavior\n 0.000  clean    95 grams  최종 관찰 (Final Observation)\n 0.000  clean    54 grams  증언 (Testimonium)\n 0.000  clean    41 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 15% against Grudge pressure; 5% against other pressure types. The second figure is what keeps a crew honest: th\n   85   4  | { *The Drowned World* [**Ultimate**] } | \"The quiet closes over everything — and beneath it no one can shout, and no one can be \n  148   1  **Reading the response:** A falling gauge means the pressure was carried, not cured: the speech is still moving along the Row and \n  184   2  **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — in the holding's own register: a stri\n  210   3  **Appearance:** a palm-sized lantern of Grudge Han-iron, dark and warm to the touch, that gives no light and is carried for what i\n  230   3  | **Before use** | Wielder, piece, the day's reading, and a sealed baseline held by the second worker: old-wound ache and bruise c\n  235   1  **Stat interpretation:** The grade records how cleanly the archetype came off the holding, not what the wearer will pay for it. An\n  278   1  Management: do not put sound into it, do not shout inside the radius, take the measurement before the work, and write down separat\n  411   5  - **Field detail:** Its defining element is Grudge, and its registered location is Zone C, Collector's Row. The radius has gone 2.\nGENERIC 0.005  (23 shared shingles)  SE-C-Iα-965_Unheard_흐르는_침묵.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/965_Unheard/SE-965-A__SIDE_CODEX_Unheard.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/965_Unheard/SE-965-B__MAW-W_Unheard_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/965_Unheard/SE-965-C__MAW-S_Unheard_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/965_Unheard/SE-965-D__MAW-G_Unheard_Lantern.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/README.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/965_Unheard/SE-965-A__SIDE_CODEX_Unheard.md": "df94fddb1a9ef1295d81c1f85d65a453bc6927a1e62bd2b1d853f37b3e3f353d",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/965_Unheard/SE-965-B__MAW-W_Unheard_Fang.md": "ebb28854bffe3631e4053d59c3bd9a8a856e9cd98b7d419d8d1fe964fa421082",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/965_Unheard/SE-965-C__MAW-S_Unheard_Plate.md": "7d8ac23832510c9e2a5ec2b29a4c3d5e23c3f7beefdad2a16182ebbee964fff1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/965_Unheard/SE-965-D__MAW-G_Unheard_Lantern.md": "b00b71ba5a93bdaec88a166f282f2d1eca084f9de32357ffacea6eeb7b72e9f9",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/README.md": "14a915a990a7d5d300cf37c5ae8ece4879871fd8b66831fec9b296ffcb5176dc",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-Iα-965_Unheard_흐르는_침묵](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-965_Unheard_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%B9%A8%EB%AC%B5.md \"SE-C-Iα-965_Unheard_흐르는_침묵.md\")]",
+  "table_link": "[Unheard](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-965_Unheard_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%B9%A8%EB%AC%B5.md \"SE-C-Iα-965_Unheard_흐르는_침묵.md\")",
+  "reading": {
+    "before_lines": 420,
+    "before_bytes": 42510,
+    "final_lines": 420,
+    "final_bytes": 42580
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 122,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 11
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "designation": "C-Vδ-010",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md",
+  "words": 7366,
+  "sha256": "02de33fb91f6922f0157ea74ca1b2c61c082a4f331ae867cb963117ef0c0938e",
+  "unit": 3,
+  "name": "The Convergence",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md",
+  "before_words": 7366,
+  "after_words": 7563,
+  "base": "01c8e5887a1a8c4c49e8c59ce80c517d56c848e0",
+  "final_sha256": "2ada4413353e2ae099a454777e3319038e18d8adbdcf0a639a4a5f41e816b186",
+  "summary": "Seven supported repairs bring the remaining boilerplate under this file's own honesty rule — projections labelled as projections: the Valid Work Types row stops offering four work types against a form no Work Type has ever been attempted on; combat's first three rows stop centering targets in all grief and crushing them 'when the Convergence is disturbed', and now read against Side A's formation clock as the projected pressure the station can actually testify to; the breach record no longer 'rampages on its limbs, crashing through walls' from a floating, stationary event that has never attempted escape; the escalation line 'Physical suppression required' becomes the twelve-second separation doctrine; the generic appearance protocol and cross-reference origin paragraph give way to the three-clocks record and the three-sorrows process; and the Special Behaviors claim that 'most sentenced personnel Fracture within three seconds' is withdrawn to the file's true position — nobody has been sentenced on this record. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "Two things can be true and this file insists on it: the station's thirty-six verified seconds and the Chronicle's permanent perch, both printed, neither reconciled — and the margin of the whole institution is a drill median of eight seconds against a twelve-second god. The counselors' line is the one I would keep: 'the verdict was correct; your grief at its correctness is also correct.'",
+  "reasoning": "R-33 chain: Subject / Sovereign-V / Critical-δ / Subject-Body, Weight → three sorrows (witnessing, judging, guarding) that never disagreed → when all three breach at once they converge into one mask whose verdict is the accumulated weight of the judged one's sorrow → there is no Work Type against the fused form: containment is entirely preventive — separate housing, the nine-item list, three teams and a weekly drill with a stopwatch → the 'event' is a formation, not an escape; it has existed thirty-six seconds in eleven years → nothing has been extracted; the listed pieces are assembled from the Birds' own sets so the separation teams have something rated for the work. Repairs remove the rampage/crushing/suppression grammar the chain cannot carry; the Chronicle's standing Sovereign, the sealed-artifact provenance and the weapon's four names remain HELD.",
+  "history": "Batch 113 unit 4 (e5764d5) performed the full-SE source review preserved in the primary's own Cross-Source Review section — exact SE-010-A–D, the three Bird Suit records, Registry rows 26–29, Master Entries 385–387, Entity Codex row 496, Tale 129, archetype MAW-W-010, disposition row 441 — adding one full-SE disposition and the new exact weapon pair SE-010-B inside the ledger legacy baseline (the older Batch 67 text-overlap repair was expressly not a pair review). B184 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "Two records of duration coexist and this review kept both: the operational file's thirty-six seconds of existence in eleven years, three formations, all seconds spent being pulled apart — against the Sovereign Chronicle and Manifestation Log's daily perch migration, sightline maps, perch crews retiring early for dreams, judgment survivors under protocol, the unmerged hour and the Unblinking Eye stigma. The Chronicle also says the merging itself was unwitnessed, that the three went silent in three facilities and a single signature appeared equidistant from them, where the drill record has three co-located teams with ropes. Neither narrative owns the arithmetic; the drill numbers are the only ones used for repair anchors, and the strata are both left standing.",
+    "Formation counts do not reconcile anywhere: three inside the drill record; 'exactly seven times in recorded history' in the Observation Log; 'formed seven times' in Trivia; 'manifested completely only once in recorded history' in the Manifestation Log; Side B's Maul 'recovered after the fourth recorded Convergence separation'; Side A's current-era note that the Birds harmonized into a Hope entity instead. No figure was promoted above the others.",
+    "Provenance of the equipment stays forked exactly where Batch 113 left it: primary — nothing extracted, Armoury's four-word entry, pieces assembled from the Birds' own sets, Stigma deliberately made — versus Side A/item B/D — sealed historical artifacts recovered after actual separations, an extraction team, a Cycle-era field use saving nineteen personnel, 4% 'under historical formation conditions'. Stripping either account for the other would be invention.",
+    "The weapon remains one appearance under four names — the three-hoop astrolabe of dark meteoric silver called The Singularity Orrery here and in Master/archetype use, The Absolute Maul in Side A's set and the B filename, The Gravitational Singularity-Hammer in Master Entry 385, War Sledge in the early personalization list — with Side B's Hammer prose and a 4.5-second recovery figure kept in their own documents. Suit and Stigma bodies differ the same way (braided three-colour Mantle vs dense black anchoring mantle; warm three-ring charm vs cold square pendant, eye/scale/wing), and Registry's generic Accessory/5% stays against Head/4%/+3."
+  ],
+  "split": [
+    6,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "valid_work_types",
+      "kind": "short",
+      "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+      "new": "| **Valid Work Types** | None against the fused form: there is no Work Type for it and none has ever been attempted. The four responses below belong to the three component Birds and are retained for them. |"
+    },
+    {
+      "id": "combat_first_rows",
+      "kind": "careful-detail",
+      "old": "| { *The Gathering Point* [**Debuff**] } | \"Everything is being pulled here — every sorrow, every grief, every weight — toward a single, unbearable point.\" | [The Convergence draws all nearby sorrow toward the target.] | *Target suffers -10 Resolve; they are becoming the center of all grief.* **[10 Weight DMG [Weight]]** | When the target enters the Convergence. |\n| { *The Compression* [**Debuff**] } | \"The sorrow compresses — denser, heavier — until the weight of a city's grief fits in the space of one heart.\" | [The Convergence's pressure intensifies exponentially.] | *Target loses 10 Resolve; the concentrated grief is staggering.* **[10 Weight DMG [Weight]]** | When the target remains at the center. |\n| { *The Gravitational Pull* [**Attack**] } | \"The convergence pulls — hard — dragging everything and everyone toward the singularity of sorrow.\" | [A massive inward pull seizes the target.] | *Inflicts Weight pressure and one wound of crushing convergence.* **[14-22 Weight DMG [Weight]]** | When the Convergence is disturbed. |",
+      "new": "| { *The Gathering Point* [**Debuff**] } | \"At three seconds there were three trajectories bending inward. This is what the bending is for.\" | [Projection, against the formation clock: the not-yet-fused mask takes its address, and the Weighting Bird's handler is looked at first.] | *Target suffers -10 Resolve; projected, never measured — nobody has ever stood in the centre and reported the number.* **[10 Weight DMG [Weight]]** | When anybody enters the centre radius instead of a Bird post. |\n| { *The Compression* [**Debuff**] } | \"Witnessed. Weighed. Kept.\" | [The three functions arrive in turn and agree, which the Chronicle and the drill both record as the finding rather than as three separate events.] | *Target loses 10 Resolve; projected from the handlers' accounts of seconds ten and eleven, the only testimony the record holds.* **[10 Weight DMG [Weight]]** | When the addressed person is still in the field at the count's second half. |\n| { *The Gravitational Pull* [**Attack**] } | \"You do not attack the centre. The centre is three teams failing slowly.\" | [Nothing pulls anybody inward and nothing has been crushed: what draws personnel toward the mask is the separation work itself, and the station's rule exists because of it.] | *Weight pressure as the pull of unfinished work; no wound has been inflicted in thirty-six seconds of record.* **[14-22 Weight DMG [Weight]]** | When a team strikes at the fused mass instead of pulling its own Bird. |"
+    },
+    {
+      "id": "origin_expanded_stock",
+      "kind": "short",
+      "old": "- **Expanded origin context:** The archive cross-references this entity's sorrow with Forms only when Entities 031–033 breach simultaneously — the same Han density, the same Weight signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.",
+      "new": "- **Expanded origin context:** There is no incident of its own to consult. The archive keeps three origins — a sorrow of witnessing, a sorrow of verdicts, a sorrow of protection — and this file is the shape of the three agreeing: the Witness finds the suffering, the Judge pronounces on it, the Guardian executes, and the horror every witness reports is that they never disagreed. The merging changed nothing about the process; it made the body match the mind."
+    },
+    {
+      "id": "special_sentenced",
+      "kind": "short",
+      "old": "- Most sentenced personnel Fracture within three seconds.",
+      "new": "- No personnel have been sentenced on this record; the sentences that appear in the Tale and the Chronicle are held by the station as projections beside the thirty-six seconds it can verify."
+    },
+    {
+      "id": "breach_movement",
+      "kind": "short",
+      "old": "| **Movement** | The Convergence rampages on its limbs, crashing through walls. It unleashes all sorrows at once. |",
+      "new": "| **Movement** | Floating and stationary. It has never moved during a formation and has never attempted to escape; it comes into existence where the three Birds already are and ceases when they are parted. |"
+    },
+    {
+      "id": "escalation_suppression",
+      "kind": "short",
+      "old": "- **Containment priority:** Physical suppression required.",
+      "new": "- **Containment priority:** Separation, not suppression. Three teams pull three Birds apart against the twelve-second clock; nothing is struck, because every second spent on anything else is taken from the window."
+    },
+    {
+      "id": "appearance_protocol_template",
+      "kind": "short",
+      "old": "**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”",
+      "new": "**Appearance protocol:** Note the formation time, the separation time per team, and which team broke contact last. There is no posture or proportion reading to take: thirty-six seconds of observation across eleven years were recorded by people who were pulling at the time."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-Vδ-010_The_Convergence_수렴.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.000  clean  1665 grams  Sovereign Chronicle\n 0.000  clean   673 grams  M.A.W. Equipment\n 0.000  clean   544 grams  Combat Record\n 0.000  clean   451 grams  감각 묘사 (Flavor Text)\n 0.000  clean   298 grams  이야기 (Narratio)\n 0.000  clean   267 grams  관찰 기록 (Observation Log)\n 0.000  clean   249 grams  기록 (Registrum)\n 0.000  clean   179 grams  Operational Parameters\n 0.000  clean   172 grams  Appearance\n 0.000  clean   119 grams  Sovereign Manifestation Log\n 0.000  clean   114 grams  Behavior\n 0.000  clean   109 grams  Origin\n 0.000  clean    95 grams  이야기 보고 (Story Log)\n 0.000  clean    89 grams  City-Scale Impact & Directorate Posture\n 0.000  clean    77 grams  Breach Behavior\n 0.000  clean    73 grams  Trivia\n 0.000  clean    50 grams  SECC Classification\n 0.000  clean    47 grams  증언 (Testimonium)\n 0.000  clean    30 grams  최종 관찰 (Final Observation)\n 0.000  THIN      3 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "GENERIC 0.000  (0 shared shingles)  SE-C-Vδ-010_The_Convergence_수렴.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-A__SIDE_CODEX_The_Convergence.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-B__MAW-W_The_Absolute_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-C__MAW-S_The_Absolute_Mantle.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-D__MAW-G_The_Absolute_Verdict.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-A__SIDE_CODEX_The_Convergence.md": "be3b4cc079ca4f905761c8f43b7ac10cf4d3c2bc04bab989777477758cf2552b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-B__MAW-W_The_Absolute_Maul.md": "6ac68f14622ca9591d19043b82c6d6f87935bc58368ea2327cad1e79974356a2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-C__MAW-S_The_Absolute_Mantle.md": "3f9e2d460ffb272dfe7338ee73ef0f8ffaaa7d3f026c2d4d128c2955c6fdf0bc",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-D__MAW-G_The_Absolute_Verdict.md": "86f566ec355b23f6a8507e8e44d9c30e0b3cc412b004a6c858055a5f63eead2f",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-Vδ-010_The_Convergence_수렴](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-010_The_Convergence_%EC%88%98%EB%A0%B4.md \"SE-C-Vδ-010_The_Convergence_수렴.md\")]",
+  "table_link": "[The_Convergence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-010_The_Convergence_%EC%88%98%EB%A0%B4.md \"SE-C-Vδ-010_The_Convergence_수렴.md\")",
+  "reading": {
+    "before_lines": 474,
+    "before_bytes": 46870,
+    "final_lines": 474,
+    "final_bytes": 47825
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 102,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "One restatement of the file's own Bird numbers (031, 033) was removed with the deleted stock cross-reference paragraph; the designations remain throughout the dossier. No combat or equipment number changed."
+  }
+}

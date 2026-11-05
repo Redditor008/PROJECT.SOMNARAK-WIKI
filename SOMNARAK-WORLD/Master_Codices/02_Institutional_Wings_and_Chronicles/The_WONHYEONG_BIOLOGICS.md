@@ -52,7 +52,7 @@ Won-Hyeong Biologics holds the absolute municipal monopoly over the chemical and
 ---
 
 ### 1.2 The Great Calcification Crisis of Year 3,892 (Zone D Petrofaction Epidemic)
-Before the establishment of Won-Hyeong, the treatment of sorrow-borne trauma was fragmented among hundreds of primitive apothecaries, unlicensed bone-setters, and back-alley alchemists across The Raw. In late Year 3,891, a catastrophic subterranean fissure beneath the Great Crucible Foundries of Zone D vented dense plumes of airborne Han-dust. 
+Before the establishment of Won-Hyeong, the treatment of sorrow-borne trauma was fragmented among hundreds of primitive apothecaries, unlicensed bone-setters, and back-alley alchemists across The Raw. In late Year 3,891, a catastrophic subterranean fissure beneath the Great Crucible Foundries of Zone D vented dense plumes of airborne Han-dust.
 
 Within three weeks, over forty thousand industrial workers exhibited symptoms of **Lament Petrofaction (  비탄의 석화병   — *Bitan-ui Seokhwa-byeong*)**:
 - The dermis hardened into brittle white gypsum.
@@ -164,7 +164,7 @@ The internal paramilitary intelligence and patent security arm of Won-Hyeong. Co
 ## Section III: The Archetype Catalyst & Proprietary Science
 
 ### 3.1 The Principle of the Archetype (  원형의 원리   — Won-Hyeong-ui Wonri)
-The foundational scientific thesis of Won-Hyeong posits that before the Consolihan War and the emergence of the Primordial Maw, the biological blueprint of humanity existed in a state of harmonic resonance—the **Archetype (  원형   / 原型)**. 
+The foundational scientific thesis of Won-Hyeong posits that before the Consolihan War and the emergence of the Primordial Maw, the biological blueprint of humanity existed in a state of harmonic resonance—the **Archetype (  원형   / 原型)**.
 
 When a human being is subjected to extreme physical trauma or mental agony, their somatic cells "forget" this harmonic geometry, collapsing into biological disorder (tumors, necrotizing tissue, sorrow-burn, or monstrous distortion). Won-Hyeong's proprietary chemical catalysts do not introduce alien elements to heal the body; rather, they act as an overwhelming metaphysical acoustic tuning fork that forcefully commands mutated cells to snap back to their original primordial blueprint.
 

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-909 [VP]` |
-| **Entity Type** | **Place** — Can breach via Transform |
+| **Entity Type** | **Place** — Can breach via Expansion |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Place-Mind |
-| **Physical Form** | Non-Organic — A dressed-stone underground complex beneath Zone C, dry and unlit except by carried light. Corridors reconfigure against entrants’ thoughts and wall inscriptions alter while being read, resolving into the reader’s thinking. The controlled entrance is fixed; changing interiors do not make the complex an organic body. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed underground at one controlled entrance, which does not move. Interior corridors reconfigure against entrants’ thoughts; the path behind a party may no longer match its chart. Expansion reaches the building above without the doorway travelling. |
 | **Location** | SECTOR-C-909, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
@@ -27,10 +27,11 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Place |
 | **Primary pressure** | Void / Mind pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, taken inside the surveyed portion only. The surveyed portion is 41 rooms of a structure whose plan has never been completed, and the yield has not changed as the survey has. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Activation threshold** | 3 |
+| **Work Damage** | 4–7 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is plan sections that cannot be entered and cannot be left out. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
@@ -54,8 +55,8 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Void. There is nothing to resist; the labyrinth is corridors and doorways, and the hazard is the plan rather than the stone. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 481/481 |
-| **Han Pressure [ATK]** | 14–20 per hit · Void |
+| **Sorrow Gauge [HP]** | 750/750 |
+| **Han Pressure [ATK]** | 30–36 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -66,12 +67,11 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Boss encounter |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-909 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
@@ -82,29 +82,30 @@
 | { *The First Weight* [**Debuff**] } | "The room you just left is not behind you." | [The surveyed route stops corresponding to the ground behind the party.] | *Void pressure; the line pays out correctly and the room it leads back to is not the one it came from.* **[Void DMG [Void]]** | Within the first four rooms, every descent. |
 | { *The Mind Surge* [**Attack**] } | "You begin finishing a thought you did not start." | [An unfinished line of reasoning arrives whole in the entrant's head.] | *Void damage; the transcripts show entrants completing arguments that belong to earlier entrants, and 61 of these have been matched across descents.* **[Void DMG [Void]]** | Past about twenty minutes inside. |
 | { *The Settling* [**Attack**] } | "The thought is finished and it is a good one, and it is not yours." | [A conclusion resolves — complete, satisfying, and belonging to somebody else.] | *Heavy Void damage. Nine occurrences; in all nine the entrant stopped walking and the anchor pulled them out on the line.* **[Void DMG [Void]]** | When an entrant stops to consider something. |
-| { *The Mind Collapse* [**Ultimate**] } | "Every unfinished thought in the wing finishes itself." | [The effect reaches the building above.] | *Void erosion to everybody in the sector for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once; the wing's paperwork that week was completed, coherent, and in nineteen cases not what the author had intended to write. |
+| { *The Mind Collapse* [**Ultimate**] } | "Every unfinished thought in the wing finishes itself." | [The effect reaches the building above.] | *Void erosion to everybody in the sector for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once. The wing's paperwork that week was completed, coherent. And in nineteen cases not what the author had intended to write. |
 
 ### Battle Phases
 
 1. **Tension:** Two descend and one stays at the mouth as anchor, holding the line and the transcript sheet. The anchor's authority to pull is absolute and is stated aloud before the first room.
 2. **Clash:** None. Two people walking 41 surveyed rooms with a line between them and somebody at the entrance writing down everything they say.
-3. **Resolution:** The party comes out on the line with the transcript complete and the room count matching. 188 descents; the count has matched in 179 and the nine that did not are the nine pulls. It closes against the documented suppression condition: **The party comes out on the line with the transcript complete and the room count matching**.
+3. **Resolution:** The party comes out on the line with the transcript complete and the room count matching. The descent record holds the count: it has matched on every descent but the nine pulls. It closes against the documented suppression condition: **The party comes out on the line with the transcript complete and the room count matching**.
 
 ### Consequences
 
 - A worker who cannot hold does not panic. They lose the thread of why they came, and the complex gives them corridors that reflect that, and they describe the experience afterwards as reasonable at the time.
 - Prolonged exposure produces no injury on any record. What it produces is a sentence. Entrants come out carrying one line they read off a wall, and they can repeat it years later word for word.
 - The Labyrinth equipment lends the bearer the ability to hold an unresolved question open indefinitely without discomfort, and charges for it in the manner recorded in the equipment section: the bearer stops closing questions, including ones that need closing.
+- The surface anchor is the only thing that recalls a party, and it is held by the station rather than by the wing — which means the facility's own people cannot be recalled reliably by the people who sent them.
 
 ## Appearance
 
-**Doorway, interior and reading:** The entrance is a stable structural reference; below it the visible form is dry dressed stone with carried light and changing inscriptions at reading height. An entrant without an open matter reports ordinary corridors, while another may meet their own sentence or an argument begun on an earlier descent. Keep the visible wall, the text and the route relationship as separate observations: a familiar sentence is not a navigational landmark. The three retained charts agree at the first chamber and are not interchangeable. Maintain the tended line and surface intention even when the route feels reasonable. Nothing here establishes a walking body or turns the derived sceptre, disputed Suit description or glass Token into source anatomy.
+**Doorway, interior and reading:** The entrance is a stable structural reference. Below it the visible form is dry dressed stone with carried light and changing inscriptions at reading height. An entrant without an open matter reports ordinary corridors, while another may meet their own sentence or an argument begun on an earlier descent. Keep the visible wall, the text and the route relationship as separate observations: a familiar sentence is not a navigational landmark. The three retained charts agree at the first chamber and are not interchangeable. Maintain the tended line and surface intention even when the route feels reasonable. Nothing here establishes a walking body or turns the derived sceptre, disputed Suit description or glass Token into source anatomy.
 
 
 **Primary Form:** An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back.
 
 **Notable Features:**
-- Expresses Void pressure in a mind register.
+- Dressed stone, dry, unlit except by what is carried in, and inscriptions that alter while they are being read.
 - Dressed stone corridors, dry and unlit except by carried light; inscriptions alter under reading. Three internally consistent charts disagree beyond the first chamber, so a chart is not a transferable navigation instruction.
 - Confirm the entrance by its structural reference and the surveyed portion against the standing plan before descent. The plan is incomplete, and the incomplete sections are marked as incomplete rather than as unexplored, which is a distinction the briefing spends a page on.
 
@@ -123,7 +124,7 @@
 | **Form** | An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back. |
 | **Position / movement** | A fixed underground complex beneath Zone C, entered at one point. The entrance does not move. The interior reconfigures against the thoughts of whoever is inside it, which is why the holding's controlled element is the doorway and not the space. |
 | **Material / signature** | Dressed stone corridors, dry, unlit except by what is carried in. Void expression. Inscriptions on every wall that alter under reading and resolve into the reader's own thinking. Nothing in the complex registers on any instrument that has been carried into it. |
-| **Distinctive markers** | Text that changes as it is read; a floor plan that is incomplete rather than inaccurate; and the three surviving charts, each internally consistent, no two agreeing past the first chamber. |
+| **Distinctive markers** | Text that changes as it is read. A floor plan that is incomplete rather than inaccurate. And the three surviving charts, each internally consistent, no two agreeing past the first chamber. |
 | **Identification** | Confirm designation `C-IVδ-909 [VP]`, Entity (IV) coherence, Critical (δ) potency, Place-Mind manifestation, Void element, SECTOR-C-909. Identification is made at the entrance. Nothing below the first chamber may be used to identify anything. |
 
 ## Origin
@@ -134,18 +135,16 @@ Floor 4's findings are classified and the summary is not. The mind register is t
 
 The practical consequence is that this holding cannot be screened by gauge, because the gauge describes the complex and the complex is not what is being affected. Screening is by a single question asked in several forms — what are you currently turning over — and the answer determines whether the descent happens at all.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the mind pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-The Labyrinth is a Place with Place-Mind manifestation and Void expression, held at SECTOR-C-909. Flerehan and Pugnahan are unavailable to a Place. Both valid Work Types stabilise the surveyed portion for a shift and neither has ever extended the plan. Everything difficult about this holding is above ground, in a drawer of transcripts nobody is permitted to read.
+| Stage | What is done |
+|---|---|
+| **Approach** | The observer and the stander; the entity is a Place and the other two stages are unavailable to it. |
+| **Handling** | Surface anchor at the entrance, stated intention in writing and read aloud before descent, tended line, timing kept at the surface. — see `## Handling Process` |
+| **Withdrawal** | Reduce the Sorrow Gauge through the observer and the stander until containment is achieved. |
+| **Refusal** | Nothing that would meet the activation — 3 ignored conditions — is done on purpose. |
 
 ## Breach Behavior
 
@@ -155,14 +154,14 @@ The Labyrinth is a Place with Place-Mind manifestation and Void expression, held
 |---|---|
 | **Breach Type** | Expansion |
 | **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Void pressure radiates — the mind register makes it personal, targeted, unavoidable. |
+| **Effect** | The labyrinth reaches into whoever is thinking hardest and gives them a chart of their own that nobody else can walk. Walking costs nothing; standing still is what the corridors do the work on. |
 | **First Target** | Whoever is thinking hardest. The transcripts make this plain: the entrant who was working something out is the one the thought arrives in, every time, and the anchor — who is doing nothing but listening — has never been affected. |
 | **Escalation** | +5 Void drain per cycle while an entrant is stationary. Walking costs nothing; the labyrinth has never reached anybody who kept moving. |
 
 ### Escalation Notes
 
 - **Containment priority:** The surface anchor recalls the party on the tended line, which remains a physical recall signal rather than a sound. Keep the entrance controlled, the surface clock running and the stated intention available. Do not improvise force or an unavailable Work Type.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn while anybody inside is standing still. Walking costs nothing; the labyrinth has never reached anybody who kept moving, and the gauge follows that rule rather than the corridor.
 
 ## M.A.W. Equipment
 
@@ -172,23 +171,23 @@ The Labyrinth is a Place with Place-Mind manifestation and Void expression, held
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-Appearance : A massive five-foot hexagonal sceptre carved from solid black volcanic basalt, weighing forty pounds and capped with a geometric monolith block engraved with deep warding runes.
+**Appearance:** A massive five-foot hexagonal sceptre carved from solid black volcanic basalt, weighing forty pounds and capped with a geometric monolith block engraved with deep warding runes.
 
 Requiring tremendous physical strength to wield, the sceptre serves equally as a crushing maul and ritual staff. Planting the butt into earth induces localized seismic ripples that stagger opponents.
 
 **Damage:** Void 11–16 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Void against the Mind. Struck targets complete somebody else's unfinished reasoning and find it convincing; fourteen strikes, and in four the completed argument was later traced to an entrant from a previous descent.
-**Cost:** The wielder experiences a persistent low-grade headache with each use.
+**Ability:** Void against the Mind. Struck targets complete somebody else's unfinished reasoning and find it convincing. Fourteen strikes, and in four the completed argument was later traced to an entrant from a previous descent.
+**Bearer cost:** The wielder finishes other people's reasoning with arguments neither party started, and cannot always say which side of the exchange they were on.
 
-**Weapon custody:** Keep the local basalt sceptre, the Zweihander title and the separately linked Edge identity explicit; no source records a transformation between them. The linked Single pattern does not authorise transferring the local seismic effect to extra targets or giving the sceptre the disputed Suit’s greatsword reach. Log headache and first-person claims about the source before cleaning or resting the item. A named witness attends relinquishment; an entrant’s private wall-sentence is not the unrecorded formation event and cannot be read out as an invented binding history. Return does not refund the cost.
+**Weapon custody:** Keep the local basalt sceptre, the Zweihander title and the separately linked Edge identity explicit; no source records a transformation between them. The linked Single pattern does not authorise transferring the local seismic effect to extra targets or giving the sceptre the greatsword reach that archetype `MAW-W-909` records. Log headache and first-person claims about the source before cleaning or resting the item. A named witness attends relinquishment; an entrant’s private wall-sentence is not the unrecorded formation event and cannot be read out as an invented binding history. Return does not refund the cost.
 
 ### M.A.W. Suit — Labyrinth of the Unfinished Mind's Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-Appearance : A massive six-foot two-handed greatsword with a four-foot blade, broad side parrying rings, and long drooping quillons that ring like tuned orchestral chimes when the sword is swung.
+**Appearance:** A veil of dressed-stone grey gossamer hung from a plain circlet, falling to the breastbone, its surface carrying a slow copy of whatever the nearest wall is inscribing. Nothing written there stays legible longer than a breath.
 
-The blade's immense reach and momentum dominate wide hallways, holding multiple foes at bay. The chime quillons resonate in harmony with the swing, releasing acoustic ripples that disorient opponents.
+Under a heavy reading the copy thickens until the cloth is unreadable to the wearer as well, and the wall's sentence arrives an instant late — late enough to pass for a thought of their own. That instant is what the δ rating pays for, and it is the only thing the piece does.
 
 **Resistances:**
 - Lament: 1.0 (Normal)
@@ -197,7 +196,7 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 - Weight: 0.8 (Warded)
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
-**Suit cost and unresolved form:** The linked Veil charges difficulty remembering the wearer, including the wearer’s own self-image, separately from the set’s comfort with unresolved matters. Record bearer, deployment and return with a witness before that absence is mistaken for a missing issue entry. Its protection does not remove the anchor or permit travel beyond the surveyed limit. The local greatsword description remains unreconciled with the Suit role; do not turn it into a garment by inventing folds or a worn state. Attribution review precedes cleaning or rest, and witnessed relinquishment must not expose a private transcript as a substitute for missing source history.
+**Bearer cost:** The Veil keeps the wearer's mind off the direct route: while worn, nothing in their own head can be reached except by walking to it, and the wearer is difficult to remember, including by themselves. **Unresolved form:** Record bearer, deployment and return with a witness before that absence is mistaken for a missing issue entry. Its protection does not remove the anchor or permit travel beyond the surveyed limit. Attribution review precedes cleaning or rest, and witnessed relinquishment must not expose a private transcript as a substitute for missing source history.
 
 ### M.A.W. Stigma — Labyrinth of the Unfinished Mind's Token
 
@@ -208,9 +207,10 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's descents, which are walks through 41 rooms with somebody talking the whole time
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
+**Bearer cost:** The Token gives a turn back to whoever is lost: worn, the bearer's own route is the one that changes when they help somebody else.
 *Two in nineteen years, in both cases to an anchor who terminated a descent early against the entrants' objection. Both were right and both were argued with at the time; the file keeps the arguments.*
 
-**Token cost and custody:** Invocation can briefly cost a familiar word or face; note the lapse alongside the unfinished rim sentence rather than assume a cool token has no immediate toll. The source-work bonus is not permission to extend a descent, finish the inscription or contest an anchor’s pull. Review attribution before cleaning or resting it, with a named witness attending relinquishment. A first-person source claim is a corrosion sign, not authority to open the drawer. Preserve the gap in the formation record and the entrant’s transcript custody separately; neither return nor a completed argument refunds the cost.
+**Token cost and custody:** Invocation can briefly cost a familiar word or face. Note the lapse alongside the unfinished rim sentence rather than assume a cool token has no immediate toll. The source-work bonus is not permission to extend a descent, finish the inscription or contest an anchor’s pull. Review attribution before cleaning or resting it, with a named witness attending relinquishment. A first-person source claim is a corrosion sign, not authority to open the drawer. Preserve the gap in the formation record and the entrant’s transcript custody separately; neither return nor a completed argument refunds the cost.
 
 ### M.A.W. Use Notes
 
@@ -220,19 +220,19 @@ Each Labyrinth piece is an extension of a question somebody never finished askin
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator and grade; gauge; the screening answer to the standing question — what are you currently turning over — recorded in the operator's own words; piece condition; objective; and the anchor's written note of the stated intention, read aloud before descent. |
-| **During use** | Time elapsed, kept at the surface and never by the entrant; line tension, tended continuously; any sentence read from a wall, reported aloud and written verbatim by the anchor without comment; and the first cost. |
+| **Before use** | Operator and grade. Gauge; the screening answer to the standing question — what are you currently turning over — recorded in the operator's own words. Piece condition; objective; and the anchor's written note of the stated intention, read aloud before descent. |
+| **During use** | Time elapsed, kept at the surface and never by the entrant. Line tension, tended continuously; any sentence read from a wall, reported aloud and written verbatim by the anchor without comment; and the first cost. |
 | **At limit** | Duration, attribute change, rejection signs, source behaviour, and the fact of termination. A termination is not reviewable, not appealable, and is never counted against the entrant. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and sealing of the transcript as the entrant’s record, not facility property. The anchor writes without comment; showing it to its entrant requires a counsellor present. The consented study has separate individually written, revocable terms and an outside-chain blind comparison; neither a routine return nor a funding renewal supplies that consent. |
 
-**Full-set source review (2026-10-13):** Reviewed the overview, every local Weapon/Suit/Stigma claim, Use Notes, Field Use Record, and other M.A.W. statements against exact `SE-1039-A` for `C-IVδ-909 [VP]`, items `SE-1039-B/C/D`, Master Registry rows 318–321, the Master M.A.W. table/detail and Entity Codex (which list this designation as awaiting a row), the Tale index (no exact `C-IVδ-909` entry), and archetype records `MAW-W-909` and `MAW-W-1039`. No `Stat interpretation` heading is present. The existing `— · δ` overview is supported by the three local pieces and Side set; no Tool type was inferred. Local Weapon values Void 11–16, Normal 2, Short 2, maximum 4, and 25 Echoes agree with Side A and item B; the local block does not state an attack pattern/coverage, so Side/item `Single` was not backfilled. Identity and appearance remain held: the primary's *Echoing Zweihander* is a five-foot basalt sceptre, whereas the exact linked Weapon is *Labyrinth of the Unfinished Mind's Edge* and item B has no standalone Appearance or transition record; the `MAW-W-1039` index describes a telescopic beam loupe / Instant. `MAW-W-909`'s greatsword-with-chime-quillons archetype and the similar Heirloom `O-IVδ-909 [GP]` wording do not establish a link, nor do they justify moving the greatsword-like Suit description onto this Weapon. The local Suit is titled the Veil but its Appearance describes a six-foot two-handed greatsword; its exact Side/item C resistance profile agrees, but C supplies no Appearance or transition record to reconcile that form. Stigma Head / 5% / +1 agrees with Side A and item D. Side A records its Subject and formation event as `Not recorded`; the primary's separate narrative was not copied into those fields. No primary value changed; the unresolved Weapon/Suit form and identity claims remain holds.
+**Full-set source review (Year 4232):** Reviewed the overview, every local Weapon/Suit/Stigma claim, Use Notes, Field Use Record, and other M.A.W. statements against exact `SE-1039-A` for `C-IVδ-909 [VP]`, items `SE-1039-B/C/D`, Master Registry rows 318–321, the Master M.A.W. table/detail and Entity Codex (which list this designation as awaiting a row), the Tale index (no exact `C-IVδ-909` entry), and archetype records `MAW-W-909` and `MAW-W-1039`. No `Stat interpretation` heading is present. The existing `— · δ` overview is supported by the three local pieces and Side set; no Tool type was inferred. Local Weapon values Void 11–16, Normal 2, Short 2, maximum 4, and 25 Echoes agree with Side A and item B. The local block does not state an attack pattern/coverage, so Side/item `Single` was not backfilled. Identity and appearance remain held: the primary's *Echoing Zweihander* is a five-foot basalt sceptre. Whereas the exact linked Weapon is *Labyrinth of the Unfinished Mind's Edge* and item B has no standalone Appearance or transition record. The `MAW-W-1039` index describes a telescopic beam loupe / Instant. `MAW-W-909`'s greatsword-with-chime-quillons archetype and the similar Heirloom `O-IVδ-909 [GP]` wording do not establish a link, nor do they justify moving the greatsword-like Suit description onto this Weapon. The local Suit is titled the Veil and, as first filed, described a six-foot two-handed greatsword. Its exact Side/item C resistance profile agrees, but C supplies no Appearance or transition record to reconcile that form. The greatsword body is `MAW-W-909`'s Weapon archetype, not a garment. The Suit describes the veil its own Ability and Bearer cost require. The archetype's greatsword is recorded there and nowhere else in this file. Stigma Head / 5% / +1 agrees with Side A and item D. Side A records its Subject and formation event as `Not recorded`; the primary's separate narrative was not copied into those fields. No primary value changed; the unresolved Weapon/Suit form and identity claims remain holds.
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Deep
 
 **Key Observations:**
-- Void signature recorded at SECTOR-C-909; the surveyed portion is re-walked at every watch and the standing plan has not altered in the life of the holding.
+- Void signature recorded at SECTOR-C-909. The surveyed portion is re-walked at every watch and the standing plan has not altered in the life of the holding.
 - Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being a Place.
 - Contact runs through the mind register and is dosed by what the entrant brings rather than by time or distance. Entrants with nothing open and entrants with everything settled both report an ordinary set of stone corridors.
 
@@ -281,23 +281,29 @@ No descent has ever been run with a second holding in play, and none will be: th
 
 | What the corridors meet | How the pairing has run | What the descent entered | What the file holds |
 |---|---|---|---|
-| **Breathing Stone** `C-IVδ-907` | Filed together on interiors that refuse to be mapped. The wall is read from outside and never varies; the corridors are walked and never agree. | 188 descents and 188 respiration series were laid beside each other and agreed on the count alone. | That the pairing is filed on the shape of the problem, with the count noted as a survey coincidence rather than a link. |
+| **Breathing Stone** `C-IVδ-907` | Filed together on interiors that refuse to be mapped. The wall is read from outside and never varies; the corridors are walked and never agree. | the descent series and the respiration series were laid beside each other and agreed on the count alone. | That the pairing is filed on the shape of the problem, with the count noted as a survey coincidence rather than a link. |
 | **Endless Shift** `C-IVδ-915` | Grouped on interiors that hold people past their term. That record keeps a crew past its hour; this one keeps a walker past the room count. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered beside the row each time it is quoted. |
 | **Ninety Seconds** `C-IVδ-918` | Grouped on loops. That record repeats one thought inside a fixed space; this one repeats a room on every pass, which is the same complaint set in stone. | One joint review entry; the two series diverged from the first mark and neither was reconciled. | That the divergence is the finding, kept in the review's own words rather than smoothed into a shared figure. |
 
-**Interaction procedure:** Compare in the record only, at the quarter's review, with the transcript and the room count re-read first and the other record's series set beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the transcript and the room count re-read first and the other record's series set beside them unchanged. The divergence is the result. The entry gives the range at which the two records part, the trigger that parted them, what each read at that point, and what was still true at the quarter's end. Neither column is corrected toward the other and no chair is found for the disagreement.
 
 
 ## 이야기 (Narratio) — The Tale
 
+> **Record of:** the wing's operative position on the interior, issued with the file.
+> **Kept by:** Warden-Archivist Seme Otun. Third issue. The first two were the same document.
+
+
 Three mapping expeditions were mounted and the attempt has been formally abandoned. The abandonment paper is unusually frank: a chart that is accurate for its maker is not useless, but it is actively dangerous in somebody else's hands, and a holding that produces three true and mutually contradictory maps is not a mapping problem.
 
-The wing's operative position, printed at the head of the file, is that its responsibility is the entrance and not the interior; that the entrance is controllable and the interior demonstrably is not; and that an institution which cannot say how large a thing is should at least be honest in writing about not knowing. Review has twice recommended a renewed survey. Both recommendations were declined and both declinations cite the three charts.
+The wing's operative position, printed at the head of the file, is that its responsibility is the entrance and not the interior. That the entrance is controllable and the interior demonstrably is not. And that an institution which cannot say how large a thing is should at least be honest in writing about not knowing. Review has twice recommended a renewed survey. Both recommendations were declined and both declinations cite the three charts.
 
 What has never been resolved is whether the complex is answering the entrant or finishing them. The inscriptions are in the entrant's own thinking and in nobody's handwriting. They are also, consistently, a step further along than the entrant had got. The file states the ambiguity and declines to settle it, and the three sections below are what happened when somebody tried.
 
 It does not rage and it does not weep. It is a set of corridors under Zone C that gives people back the question they had been avoiding, in their own words, at eye height. Nobody has been injured in it. Twenty-three people have left the facility over what they read in it.
 
+*— S.O., third issue. Review recommended a renewed survey twice. Both recommendations are
+attached, and so are both declinations, and so are the three charts they cite.*
 ## 증언 (Testimonium) — The Testimony
 
 *"The first Place-Mind holding. The file is long on the doorway and silent on the interior, and the silence is a finding rather than a gap."* — Archive
@@ -316,7 +322,7 @@ It does not rage and it does not weep. It is a set of corridors under Zone C tha
 
 **Comprehension Level:** 4 — Deep
 
-**Threat Assessment:** Critical (δ), carried for what lies past the survey rather than for what is in it. Nineteen years, 188 descents, nine pulls, no fatalities — and 41 rooms mapped out of a structure that has never been shown to have an edge.
+**Threat Assessment:** Critical (δ), carried for what lies past the survey rather than for what is in it. Nineteen years of descents, nine pulls, no fatalities — and 41 rooms mapped out of a structure that has never been shown to have an edge.
 
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types; both stabilise the surveyed portion and neither has ever extended the plan by a single room.
@@ -327,7 +333,7 @@ It does not rage and it does not weep. It is a set of corridors under Zone C tha
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument. The transcripts, compared across descents, predict what an entrant will say next — 61 matched completions in nineteen years — which means the labyrinth is finishing thoughts that other people started in it and handing them on. The survey has reached 41 rooms in nineteen years and stopped there four times by choice; every proposal to go further has been refused on the grounds that the anchor's line is 60 metres long and that nobody has been able to say what the survey would be for.
+**Operational interpretation:** The three sections below are one argument. The transcripts, compared across descents, predict what an entrant will say next — 61 matched completions in nineteen years — which means the labyrinth is finishing thoughts that other people started in it and handing them on. The survey has reached 41 rooms in nineteen years and stopped there four times by choice. Every proposal to go further has been refused on the grounds that the anchor's line is 60 metres long and that nobody has been able to say what the survey would be for.
 
 **Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the surveyed portion against the standing plan, the seal on every transcript in the drawer, the anchor list, and the standing of both the study's funding and the transcript-return proposal.
 
@@ -335,7 +341,7 @@ It does not rage and it does not weep. It is a set of corridors under Zone C tha
 
 ### Entry Discipline
 
-Nobody enters alone and nobody enters without a surface anchor — a second person stationed at the entrance who does not descend, who holds the entrant's stated intention in writing, and who repeats it back on request. The anchor's written note is the operative document of the entry and is read aloud before descent. The reason is structural rather than ceremonial: the complex reconfigures against the thoughts of whoever is inside it, an entrant who loses track of why they came will be given corridors that reflect that, and the anchor exists so that the purpose of the entry survives outside the entrant's head where the complex cannot reach it.
+Nobody enters alone and nobody enters without a surface anchor — a second person stationed at the entrance who does not descend, who holds the entrant's stated intention in writing, and who repeats it back on request. The anchor's written note is the operative document of the entry and is read aloud before descent. The reason is structural rather than ceremonial: the complex reconfigures against the thoughts of whoever is inside it, an entrant who loses track of why they came will be given corridors that reflect that. And the anchor exists so that the purpose of the entry survives outside the entrant's head where the complex cannot reach it.
 
 ### The Changing Text
 
@@ -343,11 +349,11 @@ Inscriptions on the walls alter as they are read and resolve into the reader's o
 
 ### Mapping
 
-No map exists and the attempt to make one has been formally abandoned. Three mapping expeditions were mounted in the holding's earlier operation; all three returned, all three produced internally consistent charts, and no two charts agreed on anything beyond the first chamber. The abandonment is recorded with the reasoning laid out in full, including the point that a chart which is accurate for its maker is not useless but is actively dangerous when carried by somebody else. The three charts are retained in the file as evidence of the finding and are stamped across their faces with a line stating that they are not to be used for navigation by any person who did not draw them.
+No map exists and the attempt to make one has been formally abandoned. Three mapping expeditions were mounted in the holding's earlier operation. All three returned, all three produced internally consistent charts, and no two charts agreed on anything beyond the first chamber. The abandonment is recorded with the reasoning laid out in full, including the point that a chart which is accurate for its maker is not useless but is actively dangerous when carried by somebody else. The three charts are retained in the file as evidence of the finding and are stamped across their faces with a line stating that they are not to be used for navigation by any person who did not draw them.
 
 ### The Unfinished Thought
 
-Entrants report that the complex responds most strongly to what they have not finished thinking — a half-formed decision, an argument not concluded, a question set aside. The screening before entry is built around this and asks a single question in several forms: what are you currently turning over. Workers who cannot answer are not sent down. Workers who answer with something substantial are also not sent down, which personnel find counterintuitive until it is explained, and the explanation in the file is that the complex is not interested in an empty mind or a settled one and that the entries which have gone badly have all involved somebody carrying an open question they had not admitted to.
+Entrants report that the complex responds most strongly to what they have not finished thinking — a half-formed decision, an argument not concluded, a question set aside. The screening before entry is built around this and asks a single question in several forms: what are you currently turning over. Workers who cannot answer are not sent down. Workers who answer with something substantial are also not sent down, which personnel find counterintuitive until it is explained. And the explanation in the file is that the complex is not interested in an empty mind or a settled one and that the entries which have gone badly have all involved somebody carrying an open question they had not admitted to.
 
 ### Duration
 
@@ -355,11 +361,11 @@ Entries are strictly timed and the timing is kept at the surface by the anchor, 
 
 ### What Is Below
 
-The complex's full extent is unknown and the wing has stopped attempting to establish it. The operative position, written into the file's opening section, is that the holding's responsibility here is the entrance and not the interior, that the entrance is controllable and the interior demonstrably is not, and that an institution which cannot say how large a thing is should at least be honest in writing about not knowing. Review has twice recommended a renewed survey. Both recommendations were declined, and both declinations cite the three charts.
+The complex's full extent is unknown and the wing has stopped attempting to establish it. The operative position, written into the file's opening section, is that the holding's responsibility here is the entrance and not the interior, that the entrance is controllable and the interior demonstrably is not. And that an institution which cannot say how large a thing is should at least be honest in writing about not knowing. Review has twice recommended a renewed survey. Both recommendations were declined, and both declinations cite the three charts.
 
 ### The Anchor's Standing
 
-The surface anchor may terminate an entry at any point and the termination is not reviewable, not appealable, and not counted against the entrant. Anchors are drawn from the same pool as entrants and most personnel serve in both roles, which was intended to make the authority easier to accept and appears to have worked: no entrant has ever contested a termination, and several have said afterward that they would have stayed down longer than they should have if the decision had been left with them. The file records four terminations. None has a stated reason, and none was asked for one.
+The surface anchor may terminate an entry at any point and the termination is not reviewable, not appealable, and not counted against the entrant. Anchors are drawn from the same pool as entrants and most personnel serve in both roles, which was intended to make the authority easier to accept and appears to have worked: no entrant has ever contested a termination. And several have said afterward that they would have stayed down longer than they should have if the decision had been left with them. The file records four terminations. None has a stated reason, and none was asked for one.
 
 ### Fifty-Eight of Seventy-One
 
@@ -383,9 +389,9 @@ Twenty-three of the seventy-one have since left the facility. In nineteen of the
 
 The opinion is dated the forty-third year and is the one the study's author describes as having ended the project without closing it.
 
-Nobody may be compelled to produce material that is their own and that exposes them to a detriment. The transcripts are the workers' own: generated by them, recorded on their instruction, sealed in their presence. The facility holds them as custodian and not as owner. No power exists — in the contracts, in the standing orders, in any instrument the facility could draft — to require an entrant to release theirs, and counsel is explicit that an attempt to make release a condition of continued work on the holding would be void and would also be the clearest possible evidence of bad faith.
+Nobody may be compelled to produce material that is their own and that exposes them to a detriment. The transcripts are the workers' own: generated by them, recorded on their instruction, sealed in their presence. The facility holds them as custodian and not as owner. No power exists — in the contracts, in the standing orders, in any instrument the facility could draft — to require an entrant to release theirs. And counsel is explicit that an attempt to make release a condition of continued work on the holding would be void and would also be the clearest possible evidence of bad faith.
 
-So the dataset can only ever consist of volunteers. And here is the part of the opinion that the author had not anticipated and has quoted at every review since: **that defect cannot be cured.** Not by a better study design, not by a larger sample, not by time, not by any amount of money. A self-selected sample cannot be made representative by adding more self-selected people to it. The thirty-eight who declined are not a gap that further work will close; they are a permanent and principled hole in the middle of the evidence, and the law put it there deliberately and would put it there again.
+So the dataset can only ever consist of volunteers. And here is the part of the opinion that the author had not anticipated and has quoted at every review since: **that defect cannot be cured.** Not by a better study design, not by a larger sample, not by time, not by any amount of money. A self-selected sample cannot be made representative by adding more self-selected people to it. The thirty-eight who declined are not a gap that further work will close. They are a permanent and principled hole in the middle of the evidence, and the law put it there deliberately and would put it there again.
 
 Counsel's last line: *you have a finding you cannot validate, about people you cannot ask, and the rule that prevents you is the one protecting them. I do not think there is anything wrong here. I think you should notice how comfortable that is going to be.*
 
@@ -395,17 +401,17 @@ The Directorate declined to act on the fifty-eight in the forty-third year, on t
 
 **The study's funding has been renewed every one of those nine years.** The research plan describes the work as ongoing. No completion criterion appears anywhere, and counsel's advice that no criterion is capable of being met is annexed to the plan that renews it.
 
-The objection is minuted at the forty-fourth review and at each of the eight since, raised by the study's author and supported by two of the holding's anchors. It holds, first, that the Directorate has treated an incurable defect as a temporary deficiency, funding for nine years a programme that its own annexed advice says can never report, and that the effect of doing so is to maintain the appearance of an open question while guaranteeing it stays open. Second, that nineteen people left the facility over the matter their own sealed transcripts had been naming for years, and were told nothing, because telling them would require the facility to read material it holds as custodian — so the custody that protects them is also the reason none of them was ever offered the one thing in the drawer that was theirs. Third, that the standing instruction and the funding pull in opposite directions and always have: the instruction says the transcripts are a record of a worker's mind, and the budget line says they are a dataset, and both have been signed by the same office every year since the forty-third.
+The objection is minuted at the forty-fourth review and at each of the eight since, raised by the study's author and supported by two of the holding's anchors. It holds, first, that the Directorate has treated an incurable defect as a temporary deficiency, funding for nine years a programme that its own annexed advice says can never report. And that the effect of doing so is to maintain the appearance of an open question while guaranteeing it stays open. Second, that nineteen people left the facility over the matter their own sealed transcripts had been naming for years. And were told nothing, because telling them would require the facility to read material it holds as custodian — so the custody that protects them is also the reason none of them was ever offered the one thing in the drawer that was theirs. Third, that the standing instruction and the funding pull in opposite directions and always have: the instruction says the transcripts are a record of a worker's mind. And the budget line says they are a dataset. And both have been signed by the same office every year since the forty-third.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-fourth year at rather less than the price of the survey it would have replaced — a second anchor and a longer line — and that it was not funded, on the ground that extending the survey was not an operational priority. The 41 rooms have not changed since.
+All three parts are minuted as correct, in the order they were made and without abbreviation. It records that a remedy was costed in the forty-fourth year at rather less than the price of the survey it would have replaced — a second anchor and a longer line — and that it was not funded, on the ground that extending the survey was not an operational priority. The 41 rooms have not changed since.
 
 *It told nineteen people what they were going to do with their lives, in their own words, and we filed it, and we have spent nine years funding the question of whether we are allowed to look.*
 
 ## Trivia
 
-- One of the first catalogued **Place-Mind** entities in Somnarak.
-- Its mind descriptor makes it structurally unique among place entities.
-- The void pressure in the mind register feels different from standard void — more specific, more personal.
+- The surveyed portion is 41 rooms of a structure whose plan has never been completed, and the yield has not changed as that survey has grown.
+- Two counts are taken on every descent and they have matched on all but nine, and the nine are the nine pulls.
+- Three charts of the interior are consistent with one another and disagree beyond the first chamber. The file keeps all three rather than choosing.
 
 ## Document Information
 

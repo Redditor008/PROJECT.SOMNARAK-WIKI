@@ -12,7 +12,7 @@ The Reverie Directorate (R.D.) is organized into **Nine Echo-Cores** — five op
 **The Nine Echo-Cores Master Directory (Canonical Executive Registry):**
 
 | Floor / Sector | Designation & Name | True Look Effigy | Signature Equipment & Armament | Primary Han Element |
-|---|---|---|---|
+|---|---|---|---|---|
 | **Floor 1 (Spires)** | **The Director (Majin / 마진)** | Living Human (Ω-Fusion) | Fused Singular M.A.W. *Reaper Hungered* (Ω Scythe) | Weight / Grudge + Lament |
 | **Floor 1 (Central Admin)** | **The Secretary (Seiyon / 세이연)** | Android Effigy (0% Flesh) | Crystalline Interface *The Promise* (Memory Leaves) | Lament + Void |
 | **Floor 2 (Maw's Keep)** | **The Containment Lead (Dekan / 데칸)** | Biomechanical Cyborg (~50%) | Living Biological Graft *The Scaled Maw-Flesh Arm* | Grudge |
@@ -83,7 +83,7 @@ The R.D. is built **into** the Alpha Tree — not beside it, not on top of it, b
 ### The Nine Echo-Cores — Version 3 — Facility Positions & Floor Blueprints
 
 | Floor | Echo-Core Command | Facility Depth | Architectural Sector | Operational Responsibility |
-|---|---|---|---|
+|---|---|---|---|---|
 | **Floor 1** | **Director Majin & Secretary Seiyon** | Surface to -250m | The Spires / Central Spire | Executive command, Absolvohan Reserve Tap, cycle records |
 | **Floor 2** | **Containment Lead Dekan** | -250m to -500m | The Maw's Keep | Entity containment cells 01–03, Whispering Gallery, Maw monitoring |
 | **Floor 3** | **Extraction Lead Zyrak** | -500m to -750m | The Extraction Hall | M.A.W. forging vats, Han refining, 99.2% harvest efficiency |
@@ -289,6 +289,8 @@ Han-Energy is **processed sorrow** — raw Han extracted from Sorrow Entities, r
 **Positive Han-Energy** = Refined, usable sorrow — the city's fuel
 
 **Negative Han-Energy** = Unstable, raw sorrow — dangerous, must be contained or purged
+
+**Relics are not worked, and this table does not apply to them** (`R-40`). A Relic — an object, a place, an hour, a hazard — has nothing in it that answers a Work Type, and its dossier carries no Work Type table. What it carries is a **Handling Process**: Approach, Handling, Withdrawal and Refusal, each with the post that holds it and what the stage costs. Energy from a Relic is booked against the stage that produced it, never against a Work Type, and a watch that improvises outside the procedure is not doing undeclared work — it is triggering the thing.
 
 **The balance:** The R.D. must produce more Positive than Negative. If Negative accumulates, the facility destabilizes — leading to breaches, Fracture events, or worse.
 
@@ -676,7 +678,7 @@ Every R.D. personnel member receives **standard-issue equipment** upon joining. 
 
 **Functions:**
 - **Han density display** — shows local Han level as a percentage
-- **Entity gauge tracking** — shows Sorrow Gauge levels of nearby contained entities
+- **Entity gauge tracking** — shows the gauge of nearby contained entities. On a subject that is a percentage; on a non-breaching relic it is the charge, `000 of {wall}` at rest, rising toward the wall as the thing is handled (`R-48`). The instrument reads the line; it cannot read where the line stops
 - **Personal Han exposure** — tracks the wearer's own Han accumulation
 
 **Limitations:**
@@ -768,7 +770,7 @@ When a personnel member is promoted or assigned to a specific role, they may rec
 
 Sorrow itself manifests across **four elemental aspects** — each attacking a different dimension of the human person and requiring specific defenses:
 
-| Element | Korean | Symbol | What It Attacks |
+| Element | Korean | Symbol | What It Is | What It Attacks |
 |---|---|---|---|---|
 | **Lament** | 탄식 (Tansik) | ◆ | Expressed grief that weeps, mourns, releases | **Mind** — emotional stability, willpower, composure |
 | **Grudge** | 원한 (Wonhan) | ◈ | Suppressed resentment, bitterness, unresolved rage | **Body** — physical form, structural integrity, flesh |
@@ -2391,7 +2393,7 @@ Each Pylon is a self-contained department — extending downward into the depths
 
 **The Director's secret:** The Absolvohan's Han-crystal stockpile is stored beneath Floor 1 — in a hidden vault that only the Director and Secretary know about.
 
-**The Secretary's secret:** The Mnemonic Generator — the device that stabilizes the facility and creates the the Cycle — is built into the structure of The Hand itself. It cannot be removed without destroying the facility.
+**The Secretary's secret:** The Mnemonic Generator — the device that stabilizes the facility and creates the Cycle — is built into the structure of The Hand itself. It cannot be removed without destroying the facility.
 
 ---
 

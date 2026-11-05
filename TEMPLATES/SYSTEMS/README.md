@@ -1,0 +1,20 @@
+# TEMPLATES / SYSTEMS — World Systems
+
+**Temporal Anchor:** Year 4,238 · Dawn Initiative · Cycle 1,778
+
+Templates for every system in `SOMNARAK-WORLD/` that is not a Sorrow Entity record. Each one generates a different document type and carries its own validation checklist.
+
+| File | Generates |
+|---|---|
+| [`06_ORDEAL_TEMPLATE.md`](06_ORDEAL_TEMPLATE.md) | `SOMNARAK-WORLD/Ordeals/Ordeal_*.md` |
+| [`07_HOPE_TRANSFORMATION_TEMPLATE.md`](07_HOPE_TRANSFORMATION_TEMPLATE.md) | `SOMNARAK-WORLD/Hope_Transformations/HT-*.md` |
+| [`08_UNKNOWN_ENTITY_TEMPLATE.md`](08_UNKNOWN_ENTITY_TEMPLATE.md) | `SOMNARAK-WORLD/Unknown_Entities/SE-*.md` |
+| [`09_ECHO_CORE_DOSSIER_TEMPLATE.md`](09_ECHO_CORE_DOSSIER_TEMPLATE.md) | `SOMNARAK-WORLD/Echo_Cores/` |
+| [`10_MASTER_CODEX_TEMPLATE.md`](10_MASTER_CODEX_TEMPLATE.md) | `SOMNARAK-WORLD/Master_Codices/` |
+| [`11_ABSOLOVHAN_DAYLOG_TEMPLATE.md`](11_ABSOLOVHAN_DAYLOG_TEMPLATE.md) | `SOMNARAK-WORLD/The_Absolvohan/` |
+| [`12_KATABAGIL_PASSAGE_TEMPLATE.md`](12_KATABAGIL_PASSAGE_TEMPLATE.md) | `SOMNARAK-WORLD/Katabagil/` |
+| [`13_KATHARCHEOK_OPERATION_TEMPLATE.md`](13_KATHARCHEOK_OPERATION_TEMPLATE.md) | `SOMNARAK-WORLD/Katharcheok/` |
+| [`14_GIEOK_READING_TEMPLATE.md`](14_GIEOK_READING_TEMPLATE.md) | `SOMNARAK-WORLD/Gieok_Jeojangso/` |
+| [`15_JIPYEONGSEONDAE_ARC_TEMPLATE.md`](15_JIPYEONGSEONDAE_ARC_TEMPLATE.md) | `SOMNARAK-WORLD/Jipyeongseondae/` |
+| [`16_STORY_CANTO_TEMPLATE.md`](16_STORY_CANTO_TEMPLATE.md) | `SOMNARAK-WORLD/Story_Cantos/` |
+| [`17_MUGENHAN_ECOLOGY_TEMPLATE.md`](17_MUGENHAN_ECOLOGY_TEMPLATE.md) | `SOMNARAK-WORLD/Mugenhan_Ecology/` |

@@ -61,7 +61,7 @@ Standard response team, Level 2+ personnel. Standard response team, Level 2+ per
 | **Han Pressure [ATK]** | 13–23 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It bursts, and a spray of grief-saturated fluid eats at the minds of all it touches. 
+**Ability:** It bursts, and a spray of grief-saturated fluid eats at the minds of all it touches.
 
 ### The Sorrow Fog (Non-Humanoid, Fragment-grade)
 

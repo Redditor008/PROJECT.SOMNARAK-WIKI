@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Blue-Black Tear
 
-> *“The Blue-Black Tear remembers Blackened Angel; the bearer must not mistake memory for permission.”*
+> *"It darkens for a cruel wish and takes a little of the bearer's good opinion as the reading fee."*
 
 ---
 
@@ -17,27 +17,28 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** A tear that darkens from blue to black in the presence of a cruel or selfish wish, warning the bearer before the wish is spoken — the angel's last gift to the kind.  
-**Binding rule:** the bearer names Blackened Angel's event—A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.—and accepts this limit: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand
+**Binding rule:** the bearer names Blackened Angel's event — “A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.” — and accepts this limit: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand
 
 ## Appearance
 
-The Blue-Black Tear is the stigma record of the Blackened Angel set — hand-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability is a tear that darkens from blue to black near a cruel or selfish wish, warning before it is spoken: the angel's last gift to the kind. Binding names the source event — Kangmin wished ill on his debtors nightly, and the angel, unable to refuse, wept black and dimmed from gold — and accepts the set's limit: do not make a wish; name the angel's grief and empty the dish of tears by hand. The cost: the bearer weeps briefly whenever someone nearby gets exactly what they wished for. The source- trace fixed doctrine: the statue's record opened, every granted wish flickering across its surface with the ratio of gold to black readable, and the Tear uncouples the hazard only after attribution to Blackened Angel. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Blue-Black Tear is the stigma record of the Blackened Angel set — hand-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability is a tear that darkens from blue to black near a cruel or selfish wish, warning before it is spoken: the angel's last gift to the kind. Binding names the source event — Kangmin wished ill on his debtors nightly, and the angel, unable to refuse, wept black and dimmed from gold — and accepts the set's limit: do not make a wish; name the angel's grief and empty the dish of tears by hand. The cost: the bearer weeps briefly whenever someone nearby gets exactly what they wished for. The source-trace fixed doctrine: the statue's record opened, every granted wish flickering across its surface with the ratio of gold to black readable, and the Tear uncouples the hazard only after attribution to Blackened Angel. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Hand / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for. Continued use makes Blackened Angel's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for; carried long, they can no longer tell their own relief from someone else's.
 
 ## ITEM-SPECIFIC HISTORY — *The Blackened Angel Source-Trace: Stigma Record*
 
-The first The Blue-Black Tear field bearer encountered this source response: The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. The stigma uncouples the immediate hazard only after the team attributed it to Blackened Angel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Blue-Black Tear encountered this source response: The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. The stigma uncouples the immediate hazard only after the team attributed it to Blackened Angel. A bearer wept when a colleague got exactly what they had asked for and could not say why, and the Tear’s binding is the note made at that desk.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Blackened Angel's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the weeping arrives before the wish is granted, and the bearer cannot tell whose relief they are feeling.
 - Terminal state: Blackened Angel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand” reverses the item’s benefit and raises the source Gauge.  
@@ -46,15 +47,4 @@ The first The Blue-Black Tear field bearer encountered this source response: The
 
 ## SET RELATIONSHIP
 
-Within *Blackened Angel — Witnessed Form*, The Blue-Black Tear performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-946-D`  
-**Linked Entity:** `SE-946`  
-**Item Registry Code:** `MAW-G-946-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Blackened Angel — Witnessed Form*, The Blue-Black Tear performs the stigma role while the other pieces preserve attribution and survival. The Tear drops out of the set on a day the bearer’s own relief is the first one they feel.

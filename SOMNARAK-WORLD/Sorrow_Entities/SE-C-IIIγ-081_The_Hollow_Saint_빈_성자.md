@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Void |
-| **Physical Form** | Mixed — A humanoid in the shape of a saint, but its body is built around an absence — a hollow at the core where a heart should be, the flesh curving inward to frame the nothing. Its hands reach toward nearby people, searching for something to fill the hole. It is bloodless, cold, and smells of ash. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile in breach toward burden rather than toward people. An unburdened worker can stand in her path unnoticed, which has been verified four times. |
 | **Location** | SECTOR-B-02, Zone B |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, read off the line rather than the reach |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 2 |
+| **Work Damage** | 2–4 Void — the cost is the posture of blessing, held over a worker with nothing inside the robes |
+| **Activation threshold** | 2 conditions |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Hollow Sceptre, Veil and Chalice are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -82,7 +83,7 @@
 | { *The False Halo* [**Debuff**] } | "The light around its head is beautiful — and it is drinking the light from yours." | [The light around the head brightens while the target's own warmth and certainty go down by the same amount.] | *Target loses clarity; the holy light is hollow.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target basks in the halo. |
 | { *The Judging Eye* [**Attack**] } | "It looks at you the way only a saint can — and the judgment is absolute." | [A gaze of pure condemnation strikes the target.] | *Inflicts Void damage; a portion condemned away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Saint is questioned. |
 | { *The Reliquary* [**Attack**] } | "It opens the hollow space inside itself — and the void within is vaster than any heaven." | [The holy front comes open and what is behind it is larger than the room.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Saint's fraud is exposed. |
-| { *The Empty Heaven* [**Ultimate**] } | "It ascends — and the heaven it rises to is nothing, and it wants company." | [The emptiness at its centre opens outward until the whole field is standing inside it.] | *All in range suffer Void erosion for three turns in the void-paradise.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Empty Heaven* [**Ultimate**] } | "It ascends — and the heaven it rises to is nothing. And it wants company." | [The emptiness at its centre opens outward until the whole field is standing inside it.] | *All in range suffer Void erosion for three turns in the void-paradise.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -98,7 +99,7 @@
 - Unresolved, she breaches by Escape and walks toward whoever is carrying the most grief, which makes the response plan a question of who leaves first rather than who holds the door.
 
 ## Appearance
-**Primary Form:** A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it.
+**Primary Form:** A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people and stop a hand's width short of them.
 
 **Notable Features:** The hollow at the core is permanent and cannot be filled. The hands reach continuously, at anyone within about four metres, and do not stop when unanswered. Ordinary comfort does nothing and the attempts are listed in the file.
 
@@ -106,7 +107,7 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Void
-- **Primary marker:** A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it.
+- **Primary marker:** A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people and stop a hand's width short of them.
 - **Position / movement:** Standing or walking slowly, hands extended. Record the distance to the marked line, the reach, and whether both workers have spoken in the last two minutes.
 - **Element signature:** Void
 - **Registered location:** SECTOR-B-02, Zone B
@@ -115,11 +116,11 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it. |
+| **Form** | A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people and stop a hand's width short of them. |
 | **Position / movement** | Upright, hands out, moving toward the nearest person at a walking pace. Record distance to the line, reach extension, and the crew's speech check at two-minute intervals. |
 | **Material / signature** | Void. Bloodless, cold, ash-smelling; flesh curving inward around a hollow where a heart should be, with no reflection in any surface in the chamber. |
 | **Distinctive markers** | A saint's posture of blessing held permanently, a visible absence at the core, hands that reach without stopping, and no reflection. |
-| **Identification** | Confirm before Work or contact: designation C-IIIγ-081 `[VS]`, Void expression, Subject-Void manifestation, Fragment (III) coherence, and the station at SECTOR-B-02 in Zone B — all four together, because the ash and the cold alone belong to two other holdings in the same zone. |
+| **Identification** | Confirm before Work or contact: designation C-IIIγ-081 `[VS]`, Void expression, Subject-Void manifestation, Fragment (III) coherence. And the station at SECTOR-B-02 in Zone B — all four together, because the ash and the cold alone belong to two other holdings in the same zone. |
 
 **Appearance protocol:** Record the distance to the line, the reach, the posture, and the crew's speech check. The posture does not change, which makes the reach and the distance the only moving observations available. Nothing offered into the chamber counts as an observation; it counts as an incident. Do not write *strange* or *anomalous*; she is cold, bloodless, ash-smelling and reaching, and those are the fields.
 
@@ -134,28 +135,27 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Turns toward shared grief and takes it — completely, in under a minute, leaving the worker lighter and flatter. | Decrease |
-| **Pugnahan** | Does not resist; pulls harder, as though force were one more thing to absorb. Gauge rises and the reach extends. | Increase |
-| **Viderehan** | Permits a clear view into the hollow, which is exactly as empty as the file says and tells the observer nothing new. | Stable |
-| **Ferrehan** | Draws sorrow out slowly from a worker who stays beyond the line; the only approach that can be stopped partway through. | Decrease |
+| **Flerehan** | Turns toward shared grief and takes it — completely, in under a minute, leaving the worker lighter and flatter. | Decrease · Common |
+| **Pugnahan** | Does not resist; pulls harder, as though force were one more thing to absorb. Gauge rises and the reach extends. | Increase · Low |
+| **Viderehan** | Permits a clear view into the hollow, which is exactly as empty as the file says and tells the observer nothing new. | Stable · High |
+| **Ferrehan** | Draws sorrow out slowly from a worker who stays beyond the line; the only approach that can be stopped partway through. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and Void expression, held at SECTOR-B-02 in Zone B, and unlike most Void holdings in the register it answers to every Work Type on the board. Flerehan and Ferrehan bring the gauge down, Viderehan holds it level, and Pugnahan drives it up; the earlier entry restricting the file to Flerehan alone was an error and is corrected in the line above.
+The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and Void expression, held at SECTOR-B-02 in Zone B, and unlike most Void holdings in the register it answers to every Work Type on the board. Flerehan and Ferrehan bring the gauge down, Viderehan holds it level, and Pugnahan drives it up.
 
 **Reading the response:** Read it in the reach and in the worker. A falling gauge presents as the hands drawing in a few centimetres; a rising one presents as the reach extending past its own resting measurement. The worker's state is the other half and is not self-reported — the crew partner reports it, because a worker who has just been emptied will say they are fine and will mean it.
 ## Breach Behavior
 
-> *"The Hollow Saint has broken free. Reaches toward personnel."*
-
+> *"The Hollow Saint has broken free. It reads burden before position; if you are carrying grief today, stand behind somebody who is not, and keep the watch log out of the affected volume."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | She walks out and moves toward burden rather than toward people. An unburdened worker can stand in her path and go unnoticed; this has been verified four times and is the basis of the response plan. |
 | **Effect** | Definition goes out of the affected volume. Colour thins, sound drops, and personnel stop being able to say why anything in the corridor mattered to them. |
-| **Secondary Effect** | An absence that takes the edges of things: documents become hard to care about, decisions go unmade, and the watch log for the period is typically blank rather than wrong. |
+| **Secondary Effect** | An absence that takes the edges of things: documents become hard to care about, decisions go unmade, and the watch log for the period comes back blank rather than wrong. |
 | **First Target** | Whoever carries the most grief. It detects burden before it detects position, and an unburdened worker can stand in its path unnoticed. |
 | **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
 
@@ -188,9 +188,9 @@ Pointed down a corridor, the stave vibrates with the soundless benediction of Th
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); shatters psychic links and suppression fields.
 
-**Ability:** The sceptre's damage is Void and it lands on the Soul — memory, identity, what a person takes themselves to be — carried by The Hollow Saint's void signature and not by anything the wielder brings to the corridor. What the beam does there is sever suppression and strip possession: the falloff on the sheet, full effect on the primary and then 70 per cent and then 50, with the soundless benediction reaching the last of them, and no physical harm anywhere along the line. The agency a target reclaims afterwards is the same agency she gave up, and that is why the sceptre is held on the Zone B line and issued nowhere else.
+**Ability:** The sceptre's damage is Void and it lands on the Soul — memory, identity, what a person takes themselves to be — carried by The Hollow Saint's void signature and not by anything the wielder brings to the corridor. What the beam does there is sever suppression and strip possession: the falloff on the sheet, full effect on the primary and then 70 per cent and then 50, with the soundless benediction reaching the last of them. And no physical harm anywhere along the line. The agency a target reclaims afterwards is the same agency she gave up, and that is why the sceptre is held on the Zone B line and issued nowhere else.
 
-**Cost:** With each use a small nameless memory goes from the wielder, and the taking is not selective: what goes is whatever was least held. Under excessive channeling the detachment reaches the body and the wielder stops feeling located in their own physical form. The loss is entered on the field sheet with the hour against it, and the piece goes back to the rack whether the use was judged right or judged wrong.
+**Bearer cost:** With each use a small nameless memory goes from the wielder, and the taking is not selective: what goes is whatever was least held. Under excessive channeling the detachment reaches the body and the wielder stops feeling located in their own physical form. The loss is entered on the field sheet with the hour against it, and the piece goes back to the rack whether the use was judged right or judged wrong.
 
 ### M.A.W. Suit — The Hollow Veil
 
@@ -198,7 +198,7 @@ Pointed down a corridor, the stave vibrates with the soundless benediction of Th
 
 **Appearance:** A flowing veil of Void Han-gossamer, near-translucent and without colour, kept to a cold line wherever it rests. Of the three pieces in this kit, the veil alone leaves a mark anybody can point at, and the line survives the shift.
 
-The drape runs from crown to collarbone in one straight length, and the inner lining carries a faint outline of the wearer's own shape — nearly invisible in clear air, gathering a grey haze under Void pressure, and fading first when the wearer loses the boundary between self, witness and source.
+The drape runs from crown to collarbone in one straight length. And the inner lining carries a faint outline of the wearer's own shape — nearly invisible in clear air, gathering a grey haze under Void pressure. And fading first when the wearer loses the boundary between self, witness and source.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -208,9 +208,9 @@ The drape runs from crown to collarbone in one straight length, and the inner li
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** The resistance here is to Void damage; the thing it covers is the Soul — memory, identity, what a person takes themselves to be — worn against the pressure The Hollow Saint makes, and not against impact of any sort. On the sheet that reads 0.3 against Void and 0.8 warded against Grudge, with Lament weak at 1.2, Weight weak at 1.1, so the veil is chosen for a corridor where she is and never for one where something strikes.
+**Ability:** The resistance here is to Void damage. The thing it covers is the Soul — memory, identity, what a person takes themselves to be — worn against the pressure The Hollow Saint makes, and not against impact of any sort. On the sheet that reads 0.3 against Void and 0.8 warded against Grudge, with Lament weak at 1.2, Weight weak at 1.1, so the veil is chosen for a corridor where she is and never for one where something strikes.
 
-**Cost:** The wearer comes to feel faintly absent from their own account of themselves — there in the chamber, and missing from the telling of it afterwards. What arrives is a gap where the first person was, not a symptom anybody would report, and that is why the twenty-minute limit is timed from the door by a clock-holder standing outside the chamber and never by the wearer inside it, and why the exclusion for a recent bereavement or an active grief is checked by that clock-holder instead of self-certified. The veil does not guard against that absence. The absence is what the veil costs.
+**Bearer cost:** The wearer comes to feel faintly absent from their own account of themselves — there in the chamber, and missing from the telling of it afterwards. What arrives is a gap where the first person was, not a symptom anybody would report. And that is why the twenty-minute limit is timed from the door by a clock-holder standing outside the chamber and never by the wearer inside it. And why the exclusion for a recent bereavement or an active grief is checked by that clock-holder instead of self-certified. The veil does not guard against that absence. The absence is what the veil costs.
 
 ### M.A.W. Stigma — The Hollow Chalice
 
@@ -218,7 +218,7 @@ The drape runs from crown to collarbone in one straight length, and the inner li
 
 **Appearance:** A small cup of pale grey Han glass, short and wide, with a rounded band of darkened metal around its rim and a fitted lid. It hangs from the head slot on a thin cord and rests cold against the bearer.
 
-Inside, the cup is smooth and unmarked and holds no colour at all; covered between uses, it stays that way until a willing person names a specific grief and the bearer repeats whose grief it is. An ash mark appears along the band when a use has crossed a consent boundary.
+Inside, the cup is smooth and unmarked and holds no colour at all. Covered between uses, it stays that way until a willing person names a specific grief and the bearer repeats whose grief it is. An ash mark appears along the band when a use has crossed a consent boundary.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -226,7 +226,7 @@ Inside, the cup is smooth and unmarked and holds no colour at all; covered betwe
 
 **Ability:** Absorbs sorrow from a person or entity.
 
-**Cost:** The user becomes empty of the sorrow removed.
+**Bearer cost:** The user becomes empty of the sorrow removed.
 
 *The Hollow Chalice is conferred, never issued and never requested. It has been given twice, both times to a Warden who stood a full session at the line, offered the Saint nothing, and said afterwards that it had been the hardest watch of their service.*
 
@@ -247,7 +247,7 @@ Nothing in the set heals, and nothing in it returns what has been taken. The ext
 | **At limit** | The wearer has gone faintly absent from their own account, and has stopped reporting it — the usual end point for a piece out of this holding. The observer calls the limit. |
 | **After use** | Take the piece back and ask the second worker, not the bearer, whether the absence is still showing — the bearer is the last person who can tell. For the chalice, record what the removed sorrow still matters for, with the cup covered, and keep it covered until that review is filed. |
 
-**Stat interpretation:** A grade is not a safety line. A β-grade kit can perform flawlessly and still hollow out what its bearer remembers, or tie them to the source holding's grief; a low-rated piece can carry a severe personal cost. Read both columns before issue.
+**Stat interpretation:** A grade is not a safety line. A β-grade kit can perform flawlessly and still hollow out what its bearer remembers, or tie them to the source holding's grief. A low-rated piece can carry a severe personal cost. Read both columns before issue.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
@@ -264,7 +264,7 @@ Nothing in the set heals, and nothing in it returns what has been taken. The ext
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | Confirm the holding through the Void signature, the visual marker the field notes describe, and the station's own position — SECTOR-B-02 in Zone B — before any entry is written, and take the reach separately, because the reach is what the line is measured against. |
+| **Initial exposure** | Confirm the holding through the Void signature, the visual marker the field notes describe. And the station's own position — SECTOR-B-02 in Zone B — before any entry is written. And take the reach separately, because the reach is what the line is measured against. |
 | **Sustained observation** | Distance to the line, reach extension at two-minute intervals, posture photographs against the fixed mark, the crew's speech checks, and the worker's state as reported by their partner rather than by themselves. |
 | **Activation or escalation** | Escalation is the reach passing its resting measurement, or a crew that has gone quiet. Either closes the session, and the clock-holder makes the call from outside the chamber. |
 | **Post-contact review** | Reach before and after, the worker's grief inventory before and after, the partner's account, and a counsellor's note at 14 days directed at whether anything the worker used to mind about has stopped mattering. |
@@ -275,7 +275,7 @@ Nothing in the set heals, and nothing in it returns what has been taken. The ext
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Hollow Saint (C-IIIγ-081 [VS]) is a Subject-Void manifestation expressing Void, held at SECTOR-B-02 in Zone B. It formed from a healer who took the pain of others into herself until nothing of the self was left over; it was a healer once, and it can no longer heal itself.
+The Hollow Saint (C-IIIγ-081 [VS]) is a Subject-Void manifestation expressing Void, held at SECTOR-B-02 in Zone B. It formed from a healer who took the pain of others into herself until nothing of the self was left over. It was a healer once, and it can no longer heal itself.
 
 **Entry 2 — <Seeking Sorrow to Absorb>**
 Walks through the facility seeking sorrow to absorb. Personnel become emotionally numb and lose parts of their identity. Exposure produces temporary relief followed by emotional numbness.
@@ -286,8 +286,8 @@ The emptiness of giving everything away and discovering that healing others did 
 **Entry 4 — <Identity Anchors>**
 Management: Do not feed it grief; establish distance and identity anchors. Work response — Flerehan: Reaches toward shared grief and absorbs it. (Decrease); Pugnahan: Resists and pulls harder at the worker's sorrow. (Increase); Viderehan: Reveals the emptiness where its identity used to be. (Stable); Ferrehan: Tests the worker by drawing sorrow out slowly. (Decrease). It becomes more active during the Sorrow Tide.
 
-**Entry 5 — <Grief Built Into the Ground>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <The Route Through the Ward>**
+She walks SECTOR-B-02 the way she walked the ward she came from, and the route she takes is the shortest line between whoever is carrying the most pain. That is why the wing draws its sheltering arrangements around where the burden is rather than around where the entity is — on this holding the two are rarely in the same room.
 
 ## 최종 관찰 (Final Observation)
 
@@ -295,7 +295,7 @@ The archive cross-references this entity with its registered location — the so
 
 | Hold the distance, keep an identity anchor on every worker, and give the Saint nothing — no grief, no pity, no offering, however much the line seems to ask for one. | Improvise something kinder, as the record shows people doing: say a word for it, leave something at the line, or answer the reach — every failure in this file begins with somebody deciding the Saint looked like it needed company. |
 |---|---|
-| The distance holds, every worker comes off the line with their anchor intact, and the entry closes with the hollow measured and the Saint entered complete. | The reach gets past the line and takes what it finds; the entry closes with a worker who cannot say what they came in carrying and the holding gone quiet behind its own emptiness. |
+| The distance holds, every worker comes off the line with their anchor intact, and the entry closes with the hollow measured and the Saint entered complete. | The reach gets past the line and takes what it finds. The entry closes with a worker who cannot say what they came in carrying and the holding gone quiet behind its own emptiness. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -329,13 +329,13 @@ The relations below are points of contact and not alliances. None is closed, and
 | **The Debt Eater** | The Eater can take burden away, which would in principle give the Saint something she cannot otherwise obtain. | Three sessions. The Eater consumed normally; the Saint's hollow was unchanged on imaging and her reach did not alter. What the Eater removes is not what the Saint is missing. | All three sessions, the imaging before and after, and the unchanged reach. |
 | **The Frozen Veil (destroyed)** | Both were absences, and the Veil was the only absence she was ever observed to approach deliberately. | Two co-presences before the Veil's destruction. She reached and took nothing; the Veil's cold was not available to her in any form the instruments could detect. The record is retained because it is the only negative case of its kind. | Both co-presences, the null result, and the note that the Veil cannot now be retested. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record who in the pairing was carrying the most before and after, and whether her route changed when the burden changed hands. On this holding the selection is the measurement.
 
 ## 이야기 (Narratio) — The Tale
 
 She healed them all, and the healing emptied her, and the emptiness became a saint.
 
-There was a healer in Zone B — not a Mender of the city's order, not a Collector's physician, but a woman who simply healed, who could take sorrow into herself the way some take breath, drawing the grief out of a Fracture-sick laborer or a mourning parent and holding it in her own body until the other could stand. The city did not pay her. The city did not need to. She healed because she could not bear to watch suffering and not ease it.
+There was a healer in Zone B — not a Mender of the city's order, not a Collector's physician. But a woman who simply healed, who could take sorrow into herself the way some take breath, drawing the grief out of a Fracture-sick laborer or a mourning parent and holding it in her own body until the other could stand. The city did not pay her. The city did not need to. She healed because she could not bear to watch suffering and not ease it.
 
 She healed for years. Decades. She took the grief of the indebted, the sick, the bereaved, the Fracturing. She drew it out of them and into herself, and she carried it. She did not notice, at first, that each grief she absorbed displaced something of her own. A memory, here. A desire, there. A small preference, a private sorrow, a piece of the interior life that makes a person a person. She traded them, unknowing, for the sorrows of strangers, until one morning she reached for the name of her mother and could not find it.
 
@@ -343,7 +343,7 @@ She kept healing. By then the trade had become the point. Her own memories were 
 
 When the last of her self was gone — when there was no memory left, no desire, no private sorrow, only the reflex of healing and the vast cold space where a person had been — the Weeping took what remained. The emptiness, the hollowness left by a lifetime of giving everything away, crystallized: a figure, radiant, Void-element, still shaped like a healer, still reaching to soothe. The Hollow Saint.
 
-The Hollow Saint is a Subject-Void entity, contained in Zone B. It still heals — it cannot stop; the reflex outlived the self. Those who come near it feel their sorrow drawn gently out, eased, relieved. But they feel, too, the cost the Saint paid and never understood: that healing others did not create a self, that giving everything away leaves nothing to give with, and that the emptiness at the Saint's center is the shape of a life spent filling everyone but itself.
+The Hollow Saint is a Subject-Void entity, contained in Zone B. It still heals — it cannot stop; the reflex outlived the self. Those who come near it feel their sorrow drawn gently out, eased, relieved. But they feel, too, the cost the Saint paid and never understood: that healing others did not create a self, that giving everything away leaves nothing to give with. And that the emptiness at the Saint's center is the shape of a life spent filling everyone but itself.
 
 Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and the discovery, too late, that you cannot pour yourself out forever and remain yourself, and that the holiest life can end, if you are not careful, in a radiant and perfect hollow.
 ## 증언 (Testimonium) — The Testimony
@@ -363,21 +363,21 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 **Common Name:** The Hollow Saint
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Major (γ). She takes grief completely and leaves nothing in its place, breaches by Escape toward whoever is carrying the most, and removes definition from the volume she occupies. The earlier entry describing the threat as moderate is an error and is corrected here.
+**Threat Assessment:** Major (γ). She takes grief completely and leaves nothing in its place, breaches by Escape toward whoever is carrying the most, and removes definition from the volume she occupies.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted and unproductive; Pugnahan is prohibited. The earlier entry naming Flerehan as the only valid Work Type is an error and is corrected here.
+- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted and unproductive; Pugnahan is prohibited.
 - Twenty minutes maximum, timed from the door by a clock-holder outside the chamber, with no discretion to extend.
 - Personnel with a recent bereavement or an active grief are not assigned, and the exclusion is checked by the clock-holder, not self-certified.
 **Observation Notes:**
 - A practitioner who took on other people's pain for a working life and had nothing left at the end of it.
-- The reaching is the last surviving part of the practice; the person who learned it is not present in any sense the file can establish.
-**Cross-References:** SECTOR-B-02 · The Kind Healer · the practice record · the posthumous review · the single-assignment rule
+- The reaching is the last surviving part of the practice. The person who learned it is not present in any sense the file can establish.
+**Cross-References:** SECTOR-B-02 · [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · the practice record · the posthumous review · the single-assignment rule
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** A practitioner of Zone B, named in the containment file and not in this summary, whose practice record shows no error of any kind.
 
 ### Registry Addendum
 
-**Operational interpretation:** This entry is one layer of a larger document and must not be acted on alone: the classification, the combat table and the kit profile are read beside it, because the behaviour, the Work Type response, the breach term, the kit risk and the interaction pattern hold only together and separate badly. Two lines in this file already correct an earlier entry — the threat once read moderate, and Flerehan was once named the only valid Work Type — and both corrections stand with the error left visible above them. A contradiction met in the field is data and not a mistake: the deviation is logged where it happened, and the record it contradicts is left standing as written.
+**Operational interpretation:** This entry is one layer of a larger document and must not be acted on alone: the classification, the combat table and the kit profile are read beside it, because the behaviour, the Work Type response, the breach term, the kit risk and the interaction pattern hold only together and separate badly. A contradiction met in the field is data and not a mistake: the deviation is logged where it happened, and the record it contradicts is left standing as written.
 
 **Review requirement:** After any breach, expansion, transformation or anomaly the gauge, the containment field, the exposure log and where the holding is standing are all verified again before operations resume, with exposure and position gone over a second time after any interaction that does not read like the ones on file — on this holding, a session that ran past twenty minutes, or one worked by somebody the clock-holder should have excluded. What this sheet carries is a living pattern of sorrow and it will not stay described.
 - The registry compares this file against digits and the digits are set down here for that comparison: gauge 712/712 · pressure 18–41 per hit · resistance 35 / 25 per cent · threshold 75 per cent · weapon 8–14 at 40 Echoes · suit 35 Echoes · Stigma 4 per cent · Max 3 pieces.
@@ -409,7 +409,7 @@ The genuine cases number **twelve**, all of them from the first two years, all o
 
 So the instrument now runs on proxies. **Sixty-one post-rule sessions**, all with workers who had nothing recent to lose, scoring small and old sorrows into the inventory and watching them come out lower. The proxy series is clean, consistent, and does not reproduce the twelve. It moves by two to four points where the real cases moved by thirty.
 
-The wing knows what the missing experiment is and has refused to run it twice. Eleven members of staff have volunteered since the rule, all of them bereaved, several of them in writing. The refusal turns on a judgement the medical lead records in her own words at each review: **a grieving person offered a procedure that reliably removes grief is not in a position to consent to it**, and the fact that the offer would come from their own employer, for a posting that counts toward promotion, makes it worse rather than better.
+The wing knows what the missing experiment is and has refused to run it twice. Eleven members of staff have volunteered since the rule, all of them bereaved, several of them in writing. The refusal turns on a judgement the medical lead records in her own words at each review: **a grieving person offered a procedure that reliably removes grief is not in a position to consent to it**. And the fact that the offer would come from their own employer, for a posting that counts toward promotion, makes it worse rather than better.
 
 The file therefore carries two series that will never meet, says so on its front sheet, and labels the twelve *closed — not to be extended*. The medical lead's note underneath has been quoted at four inductions: *we have a good instrument and a correct reason never to use it properly, and we should write both down rather than quietly letting the number drift.*
 
@@ -439,11 +439,11 @@ The price is that **the holding has no experienced staff and never will.** Every
 
 What institutional knowledge exists lives in one place. The holding's clerk has maintained the file for eleven years, has read every session record, briefs every pair before they go in, and **has never been inside the chamber and never will be**, because she is not a Warden and the rule would consume her single assignment if she were. The wing's only expert on this entity has never seen it.
 
-The objection is minuted at every annual review, and it is raised by the containment lead rather than by the clerk. It holds that the wing has chosen to spread an irreversible harm thinly instead of concentrating it on volunteers, without ever setting out in writing why the thin distribution is the better of the two; that the nine procedural failures are the foreseeable cost of a permanently novice roster and are not reported upward as the price of the rule; and that resting the operational memory of a Major holding on one clerk with no deputy is a single point of failure the wing tolerates nowhere else. The minute records the objection as **correct in all three parts**. It records that a deputy clerk post was created in the ninth year and remains unfilled. And it records the clerk's own submission, two sentences, which the review chair asked to be minuted verbatim: *I would rather be the person who remembers than the person who goes in. I am aware that is exactly what she would have said.*
+The objection is minuted at every annual review, and it is raised by the containment lead rather than by the clerk. It holds that the wing has chosen to spread an irreversible harm thinly instead of concentrating it on volunteers, without ever setting out in writing why the thin distribution is the better of the two. That the nine procedural failures are the foreseeable cost of a permanently novice roster and are not reported upward as the price of the rule. And that resting the operational memory of a Major holding on one clerk with no deputy is a single point of failure the wing tolerates nowhere else. The minute takes it as correct on all three counts and does not soften any of them. It records that a deputy clerk post was created in the ninth year and remains unfilled. And it records the clerk's own submission, two sentences, which the review chair asked to be minuted verbatim: *I would rather be the person who remembers than the person who goes in. I am aware that is exactly what she would have said.*
 
 ## Trivia
 
-- The Frozen Veil's cold was the one thing she reached for and could not take; the Veil was destroyed before the result could be retested.
+- The Frozen Veil's cold was the one thing she reached for and could not take. The Veil was destroyed before the result could be retested.
 - Nothing in the chamber reflects her, including instruments that reflect everything else placed in front of them.
 
 
@@ -452,7 +452,7 @@ The objection is minuted at every annual review, and it is raised by the contain
 
 - **Classification detail:** The Hollow Saint is a Subject with Fragment (III) — Empty and seeking coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-B-02, Zone B.
-- **Recognition detail:** Identify her by the hollow and the reach; the ash smell and the cold are shared with two other Void holdings in Zone B and are not diagnostic alone.
+- **Recognition detail:** Identify her by the hollow and the reach. The ash smell and the cold are shared with two other Void holdings in Zone B and are not diagnostic alone.
 - **Record detail:** Read this file beside the practice record, which is the longest document in the holding and the only one in which she appears as a person.
 - **Containment detail:** Do not equate a quiet cell with a dormant one. A Void breach announces itself by nobody thinking about the chamber, so the check is a timed physical look through the port and not an instrument reading.
 ## Document Information

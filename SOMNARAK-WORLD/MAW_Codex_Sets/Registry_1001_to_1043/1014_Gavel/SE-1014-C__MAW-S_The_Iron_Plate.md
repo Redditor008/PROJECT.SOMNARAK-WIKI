@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Iron Plate
 
-> *“The Iron Plate remembers Gavel; the bearer must not mistake memory for permission.”*
+> *"It stops the blow and makes the wearer slow to consider new evidence, until they cannot be moved from a first opinion."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Gavel's kind of pressure.  
-**Binding rule:** the bearer names Gavel's event—Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.—and accepts this limit: Present context and evidence; do not appeal with status or force
+**Binding rule:** the bearer names Gavel's event — “Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.” — and accepts this limit: Present context and evidence; do not appeal with status or force
+
+
+### Appearance
+
+A plated harness of Grudge Han-iron, dark and warm to the touch, that creaks faintly when its wearer changes position and holds a smell of char that does not wash out.
 
 ## CORE STATISTICS
 
@@ -25,33 +30,26 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Gavel's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Plate is a verdict worn as armour: the blow lands on the decision rather than on the body, and the wearer takes the hit as confirmation that the first reading was right. Worn long, they cannot be moved from a first opinion.
 
 ## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Suit Record*
 
-The first The Iron Plate field bearer encountered this source response: Makes the worker wait beneath its gaze. The suit witnesses the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Iron Plate encountered this source response: Makes the worker wait beneath its gaze. The suit witnesses the immediate hazard only after the team attributed it to Gavel. A wearer took a hit as confirmation of a first reading and would not move off it three reviews later, and the Plate’s binding is the third review’s minute.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Gavel's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the confirmation arrives before the blow, and the wearer enters an argument having already decided it.
 - Terminal state: Gavel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Present context and evidence; do not appeal with status or force” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Iron Plate only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Iron Plate; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Plate is taken apart plate by plate after each hearing and the wearer says aloud what would have moved them that day; a harness that creaks going back together is one nobody reconsidered. The smell of char stays in — the Armoury tried washing it out once.  
+**Emergency shutdown:** a witness reads the case as first put, then the evidence that arrived afterwards, and the wearer must name one point at which their reading could have moved; the Plate comes off at the shoulders. The opinion it set does not come off with it.
 
 ## SET RELATIONSHIP
 
-Within *Gavel — Witnessed Form*, The Iron Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1014-C`  
-**Linked Entity:** `SE-1014`  
-**Item Registry Code:** `MAW-S-1014-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Gavel — Witnessed Form*, The Iron Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one first opinion can still be moved; the first that cannot, the Plate is out.

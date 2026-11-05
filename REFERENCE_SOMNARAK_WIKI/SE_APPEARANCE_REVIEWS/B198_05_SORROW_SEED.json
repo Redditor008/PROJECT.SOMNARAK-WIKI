@@ -1,0 +1,251 @@
+{
+  "designation": "C-Iα-300",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md",
+  "words": 8500,
+  "sha256": "df8ea15be5c55cbb958dd2e2ecbe04eaa4d0eceea4ca7a133f7cd5110ccb97bf",
+  "unit": 5,
+  "name": "Sorrow Seed",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_05_SORROW_SEED.md",
+  "before_words": 8500,
+  "after_words": 8777,
+  "base": "32c4e35fd277c40bc5c12c530e1334415286ab60",
+  "final_sha256": "42a21e495756bf7665b291b90252d47bbf28f9e1aa356dc4bd3508ec0e59b1d5",
+  "summary": "Twenty-one source-supported repairs (5 short / 16 careful): the Seed's rows stop pretending it attacks; dormant is actually struck from both coherence glosses; the bearing targets a roster rather than an observer; the minimum/maximum crawl rows gain distinct functions; the Wall becomes the sole eleven-day boundary event; the quarterly Ultimate becomes an administrative-review consequence outside the enclosure; exact SE-1031 binding/cost rules enter Use Notes. HELD; no credit because the primary already integrates the full three-piece set and its Field Use disposition.",
+  "commentary": "This is one of the strongest local dossiers in the batch: a crystal that has done almost nothing for two hundred and sixty years, and a facility that changed its leave law because of where the chalk line pointed. The remaining damage was mostly at the seams where template combat language called measurement an attack. The repairs make the model admit what the file already knows: nobody fights the Seed. Somebody measures four centimetres, names a roster, and then has to decide whether to send the number upward honestly.",
+  "reasoning": "R-34 audit before editing. Identity is exact SE-1031, not SE-300: SE-1031-A/B/C/D carry Source SECC `C-Iα-300 [D]`, linked `SE-1031`, set 4/4 and item codes `MAW-W/S/G-1031-01`; SE-300 is Memory Lock. The complete primary, all four exact records, Tale 113 with its Registrum, Entity Codex row and M.A.W. entries 337–339 were read before the R-18 split. Supported header/stat core: Residue I, Minor α, Weight, Object-Weight, Zone D/Echo Gardens, Gauge 174, start 25–40%, Pressure 2–7 and Level 1. The primary's local design is internally centred on a split fist-sized Han-crystal with one warm tendril and no shoot, moving 4–31 cm nightly toward the roster with the largest untaken bereavement-leave balance (206/224 paired readings). Each Combat Action was checked separately against movement, Work, activation and Consequences: rows 1–2 duplicated the same morning measurement, row 3 made response protocol part of an Attack, row 4 compressed an eleven-day event into an attack, and row 5 put an enclosure reading and Seed-exerted pressure where the file says arithmetic outside a paper review does the harm. Equipment numbers and abilities match Side A/B/C/D and M.A.W. 337–339; B/C/D supply no Appearance sections, so primary appearances were retained as local records except the Maul's impossible glowing edge. R-18 split declared only after that matrix: five short (two dormant glosses, form direction, Maul edge, taxonomy) and sixteen careful (operations/work attribution, combat scope and all five rows, phases, stories/interactions, equipment binding and planting scope, relic activation label).",
+  "history": "Draft/local history: first Gardens bed inventory two hundred and sixty years ago; Year 4229 wall event (31%→38% over eleven days, then 30%); Year 4230 destruction of six quarters of readings; Year 4234 Sorrow Flower soil-sharing refusal; Year 4236 Clerks' Association submission; Year 4237 compulsory-leave outcome (1,312 deferred weeks taken, 408 losing a median nineteen days' pay). Fresh equipment credit BARRED. Ledger `equipment_reviews` has no `C-Iα-300` entry and the primary has no dated full-set banner, but it already contains all three local pieces with the exact set's names, statistics, abilities and costs, plus Use Notes, a four-stage Field Use Record and stat interpretation. Under the standing proof rule that is prior equipment integration for this workflow, so Types and Weapon remain 286/301 and 284/287; no `equipment_reviews` entry is appended by this unit.",
+  "holds": [
+    "Tale 113 versus the primary's local record remains an essential source fork: Tale/Codex say dormant, does not move, future potential grief, Entity (IV)/Major (γ), Level 4, Viderehan primary and unknown origin; the primary/Side header layer and 260-year local record say a crawling Residue (I)/Minor (α), Level 1, Ferrehan primary and 2,411 commuted bereavement leaves. Neither account was normalized into the other. Held.",
+    "Side A calls the type `Subject — Can breach`, while the primary is filed Non-breaching with no breach in 260 years and an Object/Place operational role. The local non-breaching operation is retained; the generic Side wording is not treated as an observed breach mechanism. Held.",
+    "Viderehan: Side A says it reveals possible forms the Seed could grow into; no local watch report supports a form, shape or intention. The primary now preserves the fork and does not use the Side response operationally. Held.",
+    "Work/Gauge semantics: Side A and the Behavior table give Ferrehan Decrease, while the local record says the Seed itself is unchanged by work and its gauge has one attached seven-point movement in 260 years. The repair only removes the false claim that reduction is impossible; it does not invent a mechanism. Held alongside Side A's generic below-25% resolution, which the local watch does not use.",
+    "Germination: Side A trigger is planting in sorrow-rich soil. What form would result, whether nearby grief would shape it, and whether the Stigma's canonical planting use may occur outside this enclosure remain untested. No planting is authorised by this review. Held.",
+    "Exact SE-1031-B/C/D contain no physical Appearance sections. The Maul's two-handed Han-steel form, Mantle's Han-weave/river-stone/scent details and Stigma's dark-grained warming seed-charm are therefore primary-local appearance records, not independently corroborated item appearances. Held as local records; no replacement forms invented.",
+    "The 224 readings are the paired bearing/leave series, not a complete nightly census across 260 years; six quarters were destroyed in Year 4230. No missing readings were reconstructed. Held as a permanently incomplete series.",
+    "Combat bracket values (10; 10; 14–22; 24–36; 12–20 AoE ×3) use the catalogue's standardized action ladder even though the Core Stat Line records Han Pressure 2–7 per hit. They are retained as model consequences of readings/returns, not as observed Seed-inflicted damage. Held."
+  ],
+  "split": [
+    5,
+    16
+  ],
+  "repairs": [
+    {
+      "id": "R1-secc-dormant-gloss",
+      "kind": "short internal correction",
+      "careful": false,
+      "old": "| **Entity Type** | **Subject** — Non-breaching: manifestation in place; no activation trigger known. The Seed has never been planted and the prohibition on attempting it is unconditional; what the file calls activation is its observer-independent overnight crawl, not germination. |\n| **Coherence** | Residue (I) — Barely formed, dormant |",
+      "new": "| **Entity Type** | **Subject** — Non-breaching: manifestation in place; no activation trigger known. The Seed has never been planted and the prohibition on attempting it is unconditional; what the file calls activation is its observer-independent overnight crawl, not germination. |\n| **Coherence** | Residue (I) — Barely formed |"
+    },
+    {
+      "id": "R2-combat-dormant-gloss",
+      "kind": "short internal correction",
+      "careful": false,
+      "old": "| **Threat Role** | Minor encounter |\n| **Coherence** | Residue (I) — Barely formed, dormant |",
+      "new": "| **Threat Role** | Minor encounter |\n| **Coherence** | Residue (I) — Barely formed |"
+    },
+    {
+      "id": "R3-physical-direction",
+      "kind": "short appearance correction",
+      "careful": false,
+      "old": "| **Physical Form** | Mixed — A seed cracked and sending out a thick pulsing tendril — a small mobile root-creature, warm and beating like a heart, dragging itself toward soil. Lead-warm, it smells of wet stone. |",
+      "new": "| **Physical Form** | Mixed — A seed cracked and sending out a thick pulsing tendril — a small mobile root-creature, warm and beating like a heart, dragging itself along one bearing. Lead-warm, it smells of wet stone. |"
+    },
+    {
+      "id": "R4-gauge-objective",
+      "kind": "careful operational correction",
+      "careful": true,
+      "old": "| **Recommended response** | Measure and leave. Viderehan and Ferrehan only; the bed is not disturbed, the Seed is not lifted, turned or cleaned, and no gauge reduction is attempted because none has ever been achieved. |",
+      "new": "| **Recommended response** | Measure and leave. Viderehan and Ferrehan only; the bed is not disturbed, the Seed is not lifted, turned or cleaned, and gauge reduction is not the objective of the watch. |"
+    },
+    {
+      "id": "R5-viderehan-source-fork",
+      "kind": "careful work correction",
+      "careful": true,
+      "old": "| **Viderehan** | Returns the bearing and the night's crawl, nothing else. No worker has ever reported a form, a shape, or an intention, and the file's old claim that observation reveals possible forms is unsourced and withdrawn. | Stable |",
+      "new": "| **Viderehan** | Returns the bearing and the night's crawl, nothing else, in this chamber's watch record. The linked Side response — that observation reveals possible forms it could grow into — has no supporting local report and is not used operationally; the fork is preserved rather than withdrawn. | Stable |"
+    },
+    {
+      "id": "R6-relic-activation-label",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Activation** | Bare contact with the shell by a worker who has commuted bereavement leave to pay. Workers with no commutation on the books report nothing whatever. |",
+      "new": "| **Activation** | Relic contact effect: bare contact with the shell by a worker who has commuted bereavement leave to pay. Workers with no commutation on the books report nothing whatever. This contact effect is distinct from entity activation and from germination. |"
+    },
+    {
+      "id": "R7-combat-scope",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "### Combat Actions\n\n| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |",
+      "new": "### Combat Actions\n\nThe Seed does not attack in these rows. The bracketed Weight values are the combat model's way of scoring Resolve and pressure consequences when a crawl, bearing or commutation return is read; the actual session remains a measurement, and no row authorises confrontation with the Seed.\n\n| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |"
+    },
+    {
+      "id": "R8-the-bearing",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Bearing* [**Debuff**] } | \"It has turned in the night, and it is pointing at your roster.\" | [The tendril settles on a new line; the chalk is redrawn.] | *The named observer loses 10 Resolve; the figure must still be written down.* **[10 Weight DMG [Weight]]** | When the bearing changes. |",
+      "new": "| { *The Bearing* [**Debuff**] } | \"It has turned in the night, and it is pointing at your roster.\" | [The tendril's line is read against the fixed north mark and the roster it points at is identified; the Seed has not selected the observer.] | *The observer required to name that roster loses 10 Resolve; the figure must still be written down.* **[10 Weight DMG [Weight]]** | When the bearing is read and its roster identified. |"
+    },
+    {
+      "id": "R9-four-centimetres",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *Four Centimetres* [**Debuff**] } | \"A night's travel. Nothing has grown. Something has arrived four centimetres closer.\" | [The overnight crawl is measured off the chalk line.] | *Target loses 10 Resolve; no reading has ever been nought.* **[10 Weight DMG [Weight]]** | When the night's crawl is read. |",
+      "new": "| { *Four Centimetres* [**Debuff**] } | \"The shortest night's travel on record. Nothing has grown. Something has still arrived four centimetres farther along its bearing.\" | [The morning chalk shows the minimum recorded displacement; the movement is smallest here, but it is not zero.] | *The measuring observer loses 10 Resolve; even the shortest reading is entered unrounded.* **[10 Weight DMG [Weight]]** | On a four-centimetre crawl reading. |"
+    },
+    {
+      "id": "R10-thirty-one",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *Thirty-One* [**Attack**] } | \"The longest night it has ever travelled. The bearing was the Gardens' own mending roster.\" | [The crawl exceeds thirty centimetres.] | *Weight pressure across the chamber; the measuring party is doubled.* **[14-22 Weight DMG [Weight]]** | On any crawl above thirty centimetres. |",
+      "new": "| { *Thirty-One* [**Debuff**] } | \"The longest night it has ever travelled. The bearing was the Gardens' own mending roster.\" | [The crawl reaches the upper end of its recorded range; no strike follows from the Seed.] | *The exceptional reading imposes Weight pressure on the measuring party. Doubling that party is the response protocol that follows, not part of the damage.* **[14-22 Weight DMG [Weight]]** | On any crawl above thirty centimetres. |"
+    },
+    {
+      "id": "R11-the-wall",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Wall* [**Attack**] } | \"Year 4229. It reached the stone and stopped, and stayed there eleven days, and on the other side was a mender with a hundred and four days owing to her.\" | [The crawl ends against the chamber wall and does not resume.] | *Heavy Weight pressure; the gauge rises seven points over eleven days.* **[24-36 Weight DMG [Weight]]** | When the Seed reaches a boundary. |",
+      "new": "| { *The Wall* [**Debuff**] } | \"Year 4229. It reached the stone and stopped, and stayed there eleven days, and on the other side was a mender with a hundred and four days owing to her.\" | [Projected from the sole observed boundary event: the crawl ends against an obstruction and does not resume.] | *Cumulative Weight pressure across the stillness, not an instantaneous attack; in Year 4229 the gauge rose seven points over eleven days.* **[24-36 Weight DMG [Weight]]** | If the Seed reaches a boundary and remains stopped against it. |"
+    },
+    {
+      "id": "R12-two-thousand-four-hundred-eleven",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *Two Thousand Four Hundred and Eleven* [**Ultimate**] } | \"That is how many people in this building were given leave for a death and took the money instead. The Seed has a bearing for every one of them.\" | [The quarter's commutation return, every name on it, is read aloud into an enclosure that keeps no record and has never needed to.] | *All personnel suffer Weight pressure for three turns.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | On publication of the quarterly commutation return. |",
+      "new": "| { *Two Thousand Four Hundred and Eleven* [**Ultimate**] } | \"That is how many people in this building were given leave for a death and took the money instead. The bearing series keeps finding the rosters carrying their days.\" | [The quarter's commutation return is reviewed beside the bearing series outside the enclosure, with every commutation named in the review; nothing is read into the bed.] | *Personnel confronting the return suffer the model's Weight pressure for three turns, from the arithmetic rather than from any new pressure exerted by the Seed.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | On publication and review of the quarterly commutation return. |"
+    },
+    {
+      "id": "R13-battle-resolution",
+      "kind": "careful phase correction",
+      "careful": true,
+      "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the crawl, bearing, named roster and untaken-leave balance reach the duty office unrounded**. The earlier below-25% gauge requirement is not a target for this watch: no gauge reduction is attempted. Resolution on this holding is a paper act performed honestly — the condition is met when the figure goes up unrounded, and nothing the Seed does can either bring that about or prevent it.",
+      "new": "3. **Resolution:** No suppression, retreat or Seed-directed containment act is used. The documented resolution condition is measurement completed honestly: **the crawl, bearing, named roster and untaken-leave balance reach the duty office unrounded**. The earlier below-25% gauge requirement is not a target for this watch. Resolution on this holding is a paper act — the condition is met when the figure goes up unrounded, and nothing the Seed does can either bring that about or prevent it."
+    },
+    {
+      "id": "R14-story-entry-2",
+      "kind": "careful story correction",
+      "careful": true,
+      "old": "It responds to nearby grief.",
+      "new": "The bearing did not answer anything said or carried into the room."
+    },
+    {
+      "id": "R15-story-entry-6-inference",
+      "kind": "careful story correction",
+      "careful": true,
+      "old": "The seed is warm and it beats, and it drags itself toward soil on the single tendril it has put out. What it becomes depends entirely on what is grieving nearby while it takes root, which is why the chamber is kept bare and why the rotation here is the shortest in the wing.",
+      "new": "The seed is warm and it beats, and it drags itself along its bearing on the single tendril it has put out. The untested inference on which the planting prohibition rests is that what it might become would depend on what was grieving nearby if it ever took root; that inference is why the chamber is kept bare and why the rotation here is the shortest in the wing."
+    },
+    {
+      "id": "R16-maul-edge",
+      "kind": "short appearance correction",
+      "careful": false,
+      "old": "**Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and carrying a full weight more than its size accounts for, glowing along its edge when readied.",
+      "new": "**Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and carrying a full weight more than its size accounts for."
+    },
+    {
+      "id": "R17-use-notes-binding",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "These pieces are Sorrow Seed in miniature. What they give is listed above; what they take is the wielder feels progressively heavier; prolonged use ages them slightly, and the Armoury records both against the wielder rather than against the piece.",
+      "new": "All three linked item records impose the same attribution rule: the bearer names the Seed's formation event — a grief fragment crystallised in the Echo Gardens and entered dormancy — and must not treat that sorrow as their own. The costs remain piece-specific: the Maul makes the wielder progressively heavier and ages them slightly; the Mantle leaves constant low fatigue; the Seed Stigma risks uncontrolled growth if untended. The first recorded warning in each item record is the bearer describing the source event in the first person; use stops before the manifestation can use the bearer as a new site."
+    },
+    {
+      "id": "R18-stigma-planting-scope",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Ability:** Can be planted to grow a minor entity for research.",
+      "new": "**Ability:** Can be planted to grow a minor entity for research, in the linked Stigma record. That canonical use is not authorised inside this holding's enclosure, where no planting test is permitted."
+    },
+    {
+      "id": "R19-taxonomy-detail",
+      "kind": "short classification correction",
+      "careful": false,
+      "old": "- **Classification detail:** Object/Place, Residue (I) coherence — barely formed, and the word dormant has been struck from the coherence gloss as contradicted by the crawl log — Minor (α) potency, Comprehension Level 1, Object-Weight, O-Relic graded α.",
+      "new": "- **Classification detail:** Subject by SECC Entity Type and Object/Place by operational role; Residue (I) coherence — barely formed, and the word dormant has been struck from the coherence gloss as contradicted by the crawl log — Minor (α) potency, Comprehension Level 1, Object-Weight, O-Relic graded α."
+    },
+    {
+      "id": "R20-interaction-paper-comparison",
+      "kind": "careful interaction correction",
+      "careful": true,
+      "old": "Three holdings are filed near this one — The Collapsed Seed, The Rusted Seed and The Sorrow Flower — and each pairing is weaker than the resemblance that put the names together. A watch that runs two of them side by side enters whether anything moved in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger attached, and treats a steady answer as a hypothesis rather than a family likeness.",
+      "new": "Three holdings are filed near this one — The Collapsed Seed, The Rusted Seed and The Sorrow Flower — and each pairing is weaker than the resemblance that put the names together. A paper comparison that runs two records side by side enters whether anything moved in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger attached, and treats a steady answer as a hypothesis rather than a family likeness."
+    },
+    {
+      "id": "R21-interaction-inference",
+      "kind": "careful interaction correction",
+      "careful": true,
+      "old": "None of the three has been within the enclosure; nothing is brought in, because what grieves nearby is the one variable this holding is known to answer to.",
+      "new": "None of the three has been within the enclosure; nothing is brought in, because nearby grief is the one variable the untested germination inference treats as relevant."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.017  clean   476 grams  M.A.W. Equipment\n 0.008  clean   495 grams  기록 (Registrum)\n 0.006  clean   616 grams  감각 묘사 (Flavor Text)\n 0.003  clean   621 grams  Activation Behavior\n 0.002  clean   447 grams  관찰 기록 (Observation Log)\n 0.000  clean   767 grams  Combat Record\n 0.000  clean   703 grams  이야기 보고 (Story Log)\n 0.000  clean   497 grams  이야기 (Narratio)\n 0.000  clean   322 grams  Appearance\n 0.000  clean   276 grams  Trivia\n 0.000  clean   222 grams  Containment Event Behavior\n 0.000  clean   210 grams  Origin\n 0.000  clean   191 grams  Behavior\n 0.000  clean   179 grams  Operational Parameters\n 0.000  clean   146 grams  증언 (Testimonium)\n 0.000  clean   145 grams  최종 관찰 (Final Observation)\n 0.000  clean    29 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "  201   1  | **Management** | Measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days\n  203   1  **Activation reporting order:** the overnight crawl in centimetres → the bearing in degrees → the roster that bearing points at → \n  231   3  **Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and carrying a full weight more than its size accounts \n  247   1  **Appearance:** a draped mantle of Weight Han-weave, dark as river stone and heavier than the weave can reasonably carry, with a f\n  285   1  | **Before use** | Wielder, piece, the issue-day gauge, and a sealed baseline taken before the piece leaves the rack recording wha\n  287   3  | **At limit** | Sorrow Seed's cost is continuous rather than occasional: the wearer carries a constant low fatigue, and a constan\n  311   1  | **Post-contact review** | Bring the crawl, the bearing, the roster it points at, that roster's untaken balance in days, and the \n  371   4  Three holdings are filed near this one — The Collapsed Seed, The Rusted Seed and The Sorrow Flower — and each pairing is weaker th\n  426   1  - Compulsory taking of bereavement leave within sixty days, no commutation and no deferral, is a containment condition of this hol\n  433   2  **Faction Involvement:** SED (D-territory survey) · the Clerks' Association, listed on an entity file because compulsory leave is \n  438   2  **Operational interpretation:** Read this file with the crawl log and the commutation ledger beside it; that is a requirement, not\nGENERIC 0.003  (20 shared shingles)  SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-A__SIDE_CODEX_The_Sorrow_Seed.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-B__MAW-W_The_Sorrow_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-C__MAW-S_The_Sorrow_Mantle.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-D__MAW-G_The_Sorrow_Seed.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-A__SIDE_CODEX_The_Sorrow_Seed.md": "a73bcc5b39e73e615fb01accd042f4717ed6404abd33ee304f1d2641ab75bf87",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-B__MAW-W_The_Sorrow_Maul.md": "826755e6fc255f141cd081ab9392e3464f445688f4fa8929e8836fd8d60831a2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-C__MAW-S_The_Sorrow_Mantle.md": "9ad6513392d387acd127c738c8ba560166732d2139183d1a18e34748fb50b212",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-D__MAW-G_The_Sorrow_Seed.md": "be28a86a557b70f540cf6dac485ef7778d987b9d63cc0593b95e0945f324906d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md \"SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md\")]",
+  "table_link": "[[SE-C-Iα-300 Sorrow Seed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md \"SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md\")]",
+  "reading": {
+    "before_lines": 458,
+    "before_bytes": 50424,
+    "final_lines": 460,
+    "final_bytes": 52238
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 30,
+    "physical_form_rows_unchanged": 300,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 7,
+    "digit_sequence_change": "One digit sequence added: `4229` in The Wall's effect, anchoring its cumulative pressure and seven-point gauge rise to the sole observed Year 4229 boundary event. No digit sequence was removed; all combat bracket values and core numbers were retained."
+  }
+}

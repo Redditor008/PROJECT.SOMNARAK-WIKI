@@ -2,7 +2,7 @@
 
 **Archive Authority:** Directorate Executive Personnel Registry  
 **Classification:** High-Clearance Dossiers  
-**Total Records:** 9 Canonical Personnel Files (~116,000 words)
+**Total Records:** 9 Canonical Personnel Files (~120,700 words across ~13,000 lines)
 
 ---
 
@@ -19,13 +19,13 @@ Each Echo-Core represents a fundamental aspect of human will, endurance, and sor
 | File Name | Name & Designation | Floor / Sector | True Look Effigy | Armament Classification | Signature Equipment / Weapon | Element Signature |
 |---|---|---|---|---|---|---|
 | `THE_DIRECTOR.md` | **Majin (마진)** | Floor 1 (Spires) | Human (Ω-Fusion) | Fused Singular M.A.W. | **Reaper Hungered** (Ω Scythe) | Weight / Grudge + Lament |
-| `THE_SECRETARY.md` | **Seiyon (세이연)** | Floor 1 (Central Admin) | Android Effigy | Administrative Interface | **The Promise** (Archive Engram Pages) | Lament + Void |
+| `THE_SECRETARY.md` | **Seiyon (세이연)** | Floor 1 (Central Admin) | AI Construct in an Android Effigy (0% flesh) | Administrative Interface | **The Promise** (Archive Engram Pages) | Lament + Void |
 | `THE_CONTAINMENT_LEAD.md` | **Dekan (데칸)** | Floor 2 (Maw's Keep) | Cyborg (Maw-Merged) | Living Biological Body Graft | **The Scaled Maw-Flesh Arm** | Grudge |
 | `THE_EXTRACTION_LEAD.md` | **Zyrak (지락)** | Floor 3 (Extraction Hall) | Android | Specialized Android Forge Gear | **Mechanical Hands & Extraction Rig** | Grudge + Void |
 | `THE_RESEARCH_LEAD.md` | **Ayshuk (아이숙)** | Floor 4 (Insight Forge) | Android | Specialized Cognitive Ledger | **Subject-Mind Research Ledger** | Void |
-| `THE_BORDER_LEAD.md` | **Mellda (멜다)** | Floor 5 (Border Watch) | Cyborg (Warden) | Specialize Manufactured Weapon | **Threshold Vow** (Arm-Blade / Shockwave) | Weight + Grudge |
+| `THE_BORDER_LEAD.md` | **Mellda (멜다)** | Floor 5 (Border Watch) | Cyborg (Warden) | Specialized Manufactured Weapon | **Threshold Vow** (Arm-Blade / Shockwave) | Weight + Grudge |
 | `THE_ARCHIVE_LEAD.md` | **Marjuk (마주크)** | Floor 6 (Deep Vault) | Cryogen | Specialized Keeper Optical Relic | **Memory Lens & Whispering Catalog** | Void + Weight |
-| `THE_OUTSIDER.md` | **Ishall (이샬)** | Floor 7 (Shadow Corps) | Android (Enemy Chassis) | Specialize Before-Time Artifact | **Unanswered** (Paired Relic Gloves) | Grudge + Void |
+| `THE_OUTSIDER.md` | **Ishall (이샬)** | Floor 7 (Shadow Corps) | Android (Enemy Chassis) | Specialized Before-Time Artifact | **Unanswered** (Paired Relic Gloves) | Grudge + Void |
 | `THE_EXILE.md` | **Xyan (시안)** | Floor 8 (Gate Watch) | Cyborg (Desolate-Changed) | Specialized Boundary Interface | **Neural Spine & Survival Route Gear** | Lament + Weight |
 
 *(Note: Floor 7 is administered as the Shadow Corps operational sector, co-monitored by Zyrak and Seiyon.)*
@@ -61,7 +61,27 @@ The Directorate enforces a strict distinction across the personal arsenals and s
 
 Each file in this archive adheres to standardized archival guidelines:
 1. **Executive Identity & Visual Profile:** Formal designation, attire, posture, and resonance artifacts.
-2. **True Look Effigy Classification:** Strict categorization (Android 0% biology, Cyborg 40–55% biology, Cryogen ~80% chassis with stasis core, Human deathless fusion).
+2. **True Look Effigy Classification:** Strict categorization — **AI Construct** (a mind that began in Directorate architecture rather than in a transferred human brain, embodied in an Echo Effigy), **Android** (0% biology), **Cyborg** (40–55% biology), **Cryogen** (~80% chassis with stasis core), **Human** (deathless fusion). A dossier that classifies by appearance alone is a defect: Seiyon looks Android and is not one.
 3. **Dual-Paragraph Appearance Standard:** Dedicated appearance subsections structured with Paragraph 1 (20–48 simple words) and Paragraph 2 (20–66 detailed words, SVG-ready anchors), separated by a blank line.
 4. **Kinematics & Move Set Specifications:** Explicit activation stance, trajectory/energy shape, reach band, hit impact, mechanical debuff, and recoil/recovery.
 5. **Departmental Jurisdiction & Incident Records:** Subterranean blueprint clearance, subordinate personnel rosters, and authenticated incident logs.
+
+---
+
+## Backstory Extended
+
+`Backstory_Extended/` holds the fuller, scene-level histories of the nine named Echo-Cores. Each is a self-contained archival mini-story built on the pre-break / break / post-break spine and carries its own appendix — scene ledger, cast, doubled device, chronological spine.
+
+| Order | Extended record |
+|---:|---|
+| 1 | [`01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md`](Backstory_Extended/01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md) |
+| 2 | [`02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md`](Backstory_Extended/02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md) |
+| 3 | [`03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md) |
+| 4 | [`04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md) |
+| 5 | [`05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md) |
+| 6 | [`06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md) |
+| 7 | [`07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md) |
+| 8 | [`08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md`](Backstory_Extended/08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md) |
+| 9 | [`09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md`](Backstory_Extended/09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md) |
+
+The nine dossiers above remain the canonical baseline and are not replaced by the extended records. An extended record is read beside its dossier, and no extended record retells an earlier record's anchor scene.

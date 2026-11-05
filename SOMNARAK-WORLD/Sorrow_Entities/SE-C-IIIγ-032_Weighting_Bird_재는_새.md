@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A heavy, dark-crimson bird of true flesh and feather — plumage the red of old anger, talons overgrown, its body radiating a dry, feverish heat. It dives from above and presses its mark into the target. The air around it carries the smell of char and old smoke; it is unmistakably alive, and unmistakably furious. |
+| **Physical Form** | Organic |
 | **Movement** | Mobile — walks laboriously from its reinforced perch and stops at a clear sightline. At breach its increased mass limits flight to a few metres; no pursuit is recorded. |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, counted off its own weighings rather than a live reading |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 2 |
+| **SE Effect** | **On the breach** — The Bird judges the target; the verdict lands as a physical mark of insufficiency. |
+| **Work Damage** | 3–5 Grudge — the cost is nine to fourteen kilograms gained across the shift, and the worker carries it out |
+| **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -41,7 +43,7 @@
 - The Bird gains mass across a shift — between nine and fourteen kilograms over eight hours, measured on the floor plate beneath the perch — and sheds it slowly when left alone. The perch is replaced on a fixed schedule rather than on inspection, because by the time a perch looks unsound it has been unsound for a week.
 - A completed cycle returns it to its recorded mass of nineteen kilograms within the hour. Nothing else does, and nothing about the entity itself is altered by the cycle.
 - The Grudge expression is why Flerehan calms this one where the same approach agitates others in the block: a worker's own sorrow is the one quantity it can set against the load it is carrying, and the comparison appears to discharge something.
-- Two ignored conditions are enough. Mass is the leading indicator here and the gauge is the lagging one; the plate has predicted every event on this holding, and the gauge has predicted none of them.
+- Two ignored conditions are enough. Mass is the leading indicator here and the gauge is the lagging one. The plate has predicted every event on this holding, and the gauge has predicted none of them.
 - Recovery of the implement is a distinct exposure event under its own authorisation, and the authorising officer is required to have been weighed. That requirement was added by the officers themselves.
 
 ## Combat Record
@@ -78,16 +80,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Tilted Scale* [**Debuff**] } | "It tilts its head, weighing you — and the scale tips, and you are found wanting." | [The Bird judges the target; the verdict lands as a physical mark of insufficiency.] | *Target suffers -10 Resilience; the Bird has decided they owe.* **[10 Grudge DMG [Grudge]]** | When the Bird first assesses a target. |
+| { *The Tilted Scale* [**Debuff**] } | "It tilts its head, weighing you — and the scale tips. And you are found wanting." | [The Bird judges the target; the verdict lands as a physical mark of insufficiency.] | *Target suffers -10 Resilience; the Bird has decided they owe.* **[10 Grudge DMG [Grudge]]** | When the Bird first assesses a target. |
 | { *The Heavy Verdict* [**Debuff**] } | "The verdict hangs on you like a stone tied to the neck." | [The judgment deepens; the target carries the weight of being measured and found short.] | *Target loses 10 Resilience and cannot shake the sense of debt.* **[10 Grudge DMG [Grudge]]** | When the target remains under judgment. |
 | { *The Beak of Judgment* [**Attack**] } | "The beak comes down like a gavel." | [A sharp downward strike — the Bird pronounces sentence with its beak.] | *Inflicts Grudge pressure and one wound of pronounced guilt.* **[14-22 Grudge DMG [Grudge]]** | When the target resists the verdict. |
 | { *The Reckoning* [**Attack**] } | "It puts every unpaid thing on the pan at the same moment." | [Every debt the target carries, real or imagined, is called up at once and asked for.] | *A heavy Crimson hit; the reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Bird is hurt or its finding is disputed. |
-| { *The Final Tally* [**Ultimate**] } | "The ledger shuts, the whole field goes on the scale, and nothing balances." | [The judgment runs out to the edges of the field and weighs everyone where they stand.] | *Everyone takes Grudge pressure for three turns while the reckoning runs.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| { *The Final Tally* [**Ultimate**] } | "The ledger shuts, the whole field goes on the scale. And nothing balances." | [The judgment runs out to the edges of the field and weighs everyone where they stand.] | *Everyone takes Grudge pressure for three turns while the reckoning runs.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
 1. **Tension:** The Bird is confirmed by the two scales where eyes belong, plumage the colour of dried blood, heat that comes off it dry, a smell of burning, and a walk that labours under its own weight. Of the Three, only this one can be heard by a person's steps being heavy. Positions are taken, and the way out agreed, before the cycle opens.
-2. **Clash:** The Types are worked and the kit is carried while the Bird runs through the combat actions its record sets out; whether the watch escalates or closes depends on where the gauge goes.
+2. **Clash:** The Types are worked and the kit is carried while the Bird runs through the combat actions its record sets out. Whether the watch escalates or closes depends on where the gauge goes.
 3. **Resolution:** The sitting is filed under containment, retreat or management, or against the suppression condition: **Acknowledge the judgment without attempting to deny the weight**. No one on this ground argues with the finding; the weight is admitted as it stands, and the admission is what is written down.
 
 ### Consequences
@@ -118,7 +120,7 @@
 | **Form** | An eagle-sized bird whose eyes are small scales. Each scale constantly weighs what it sees. |
 | **Position / movement** | On the reinforced perch above the load plate. Record the plate reading rather than the posture; the posture tells you nothing and the plate tells you everything this holding does. |
 | **Material / signature** | Dark-crimson plumage, dry radiant heat at some four degrees above ambient, a smell of char. Grudge expression. Two balance scales in constant motion, which stop only in the second after a comparison completes. |
-| **Distinctive markers** | The scales; the overgrown talons, which have never been used on anything; and the mass, which is the only measurement in the wing that has ever predicted a breach. |
+| **Distinctive markers** | The scales. The overgrown talons, which have never been used on anything. And the mass, which is the only measurement in the wing that has ever predicted a breach. |
 | **Identification** | Confirm designation `C-IIIγ-032 [GS]`, Fragment (III) coherence, Major (γ) potency, Subject-Body manifestation, Grudge element, SECTOR-B-01 with the Three Birds. The Observing Bird has a hundred and forty-four eyes; the Guarding Bird stands between things. This one weighs nineteen kilograms at rest and more by evening. |
 
 **Appearance protocol:** Log the plate reading at entry and exit, the scale movement, the surface temperature, and the second in which a scale comes to rest. Do not log what the comparison was. The prohibition is absolute and the reason for it is in the first section of the Warden Record.
@@ -134,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | It finds the worker's sorrow equal to its own and the scales come level and stay level for several seconds, which is the longest they are ever still. | Decrease |
-| **Pugnahan** (Confrontation) | Aggression is weighed as culpability and entered like anything else. The entity does not retaliate; the gauge rises because the load it is carrying has just got larger. | Increase |
-| **Viderehan** (Observation) | The scales become legible and the working can be followed. What is visible is arithmetic, consistent and dull, and this is the Work Type under which the consistency study was run. | Stable |
-| **Ferrehan** (Endurance) | A worker who completes the watch without asking it for anything. The gauge falls and the plate reading falls with it, and the second of those is the one the file treats as the result. | Decrease |
+| **Flerehan** (Tears) | It finds the worker's sorrow equal to its own and the scales come level and stay level for several seconds, which is the longest they are ever still. | Decrease · High |
+| **Pugnahan** (Confrontation) | Aggression is weighed as culpability and entered like anything else. The entity does not retaliate; the gauge rises because the load it is carrying has just got larger. | Increase · Low |
+| **Viderehan** (Observation) | The scales become legible and the working can be followed. What is visible is arithmetic, consistent and dull, and this is the Work Type under which the consistency study was run. | Stable · Common |
+| **Ferrehan** (Endurance) | A worker who completes the watch without asking it for anything. The gauge falls and the plate reading falls with it, and the second of those is the one the file treats as the result. | Decrease · Common |
 
 
 
@@ -154,7 +156,7 @@ The register files the Bird as Subject-Body, expressing Grudge, at SECTOR-B-01 w
 |---|---|
 | **Breach Type** | Escape — nominal. The entity leaves the chamber and then stops. |
 | **Movement** | It walks out, finds a place with a clear sightline, and waits. It has never pursued anybody, never struck anybody, and on two of the three events did not leave the first corridor. It cannot fly for more than a few metres by the time an event begins. |
-| **Effect** | Nothing, until somebody approaches. Then it weighs them, and it gains their load, and the plate reading climbs. The cracked walls in the earlier record are structural: the mass passes through the floor where there is no plate to spread it. |
+| **Effect** | Nothing, until somebody approaches. Then it weighs them, and it gains their load, and the plate reading climbs. The cracked walls in the standing record are structural: the mass passes through the floor where there is no plate to spread it. |
 | **Secondary Effect** | A queue. On all three events personnel formed one, unprompted, and on the longest event the queue had to be dispersed four times and re-formed four times. The Secondary Effect of this holding is that people want to know. |
 | **First Target** | Whoever asks first. It does not select, does not favour the heaviest, and has never weighed anybody who stayed behind the line. |
 | **Escalation** | Resilience drain +5 each turn, and mass accumulating on the structure at a measured eleven kilograms per person weighed. The event is costed in kilograms on a floor that was not designed for it, and ends when nobody is left who wants to be weighed. |
@@ -178,17 +180,18 @@ The register files the Bird as Subject-Body, expressing Grudge, at SECTOR-B-01 w
 **Range:** 3 (Medium: 15m line shot / Instant)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+**Bearer cost:** The pistol only fires on a named act: the wielder states what the target did and carries the uncertainty of that judgement separately from the recoil. Consecutive shots stiffen the trigger until the hand has to be argued with.
 
 **Attack Pattern:** Skewer / Dual Slug / Calibrated Guilt Impact
 **Target Coverage:** Line; up to 3 targets in direct trajectory
 **Falloff Rule:** Primary target 100% → second target 70% → third target 50%.
 
-Appearance : A 42cm break-action double-barrel handgun forged from tarnished brass and dark walnut, featuring twin suspended balance pans beside the breech. It chambers calibrated lead guilt weights, firing heavy kinetic slugs with a metallic chime.
+**Appearance:** A 42cm break-action double-barrel handgun forged from tarnished brass and dark walnut, featuring twin suspended balance pans beside the breech. It chambers calibrated lead guilt weights, firing heavy kinetic slugs with a metallic chime.
 
 Twin miniature brass scale pans dangle from delicate chain links along the cylinder housing, shifting with the wielder’s heartbeat. When fired, the weapon balances karmic Han against lead powder, discharging pressurized bronze slugs that leave smoking golden vapor trails across Range 3.
 
 **Special Move Set:**
-- *Primary Kinematics — "Guilt-Weighted Discharge":* Smooth double-action trigger pull; hammer strikes the percussion cap of the lower barrel, launching a heavy calibrated lead slug that delivers concentrated Grudge kinetic trauma.
+- *Primary Kinematics — "Guilt-Weighted Discharge":* Smooth double-action trigger pull. Hammer strikes the percussion cap of the lower barrel, launching a heavy calibrated lead slug that delivers concentrated Grudge kinetic trauma.
 - *Active Special — "Equilibrium Execution":* The wielder thumbs the breech lever open, loads two heavy karmic slugs into both barrels, and fires them simultaneously. The twin balance pans violently snap level, projecting an instantaneous dual-slug shockwave across Range 3. If the target's current HP% is higher than the wielder's HP%, damage scales by +40% as karmic rebalancing.
 - *Cost & Drawback:* Heavy wrist torque and concussive muzzle blast; consecutive shots increase trigger pull resistance.
 
@@ -197,7 +200,7 @@ Twin miniature brass scale pans dangle from delicate chain links along the cylin
 **Category:** Protective Attire (Raven Down Lining & Stamped Scale-Weight Greatcoat)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A tailored charcoal-grey watchman’s greatcoat lined with dense raven-black down feathers and trimmed in antique bronze braiding. It fastens down the breast with twin rows of stamped scale-weight buttons.
+**Appearance:** A tailored charcoal-grey watchman’s greatcoat lined with dense raven-black down feathers and trimmed in antique bronze braiding. It fastens down the breast with twin rows of stamped scale-weight buttons.
 
 Dense layers of compacted corvid down beneath the woolen shell cushion incoming blunt trauma and absorb Grudge impacts. Miniature bronze balance feathers dangle from the shoulder epaulets, shifting weight to offset concussive kinetic shockwaves.
 
@@ -211,14 +214,14 @@ Dense layers of compacted corvid down beneath the woolen shell cushion incoming 
 
 **Ability:** *Karmic Counterweight* — Reduces incoming Grudge damage by 25% when the attacker has dealt damage within the last 3 seconds.
 
-**Cost:** The coat grows physically heavier as the wielder witnesses allies taking damage.
+**Bearer cost:** The coat grows physically heavier as the wielder witnesses allies taking damage.
 
 ### M.A.W. Stigma — The Suspended Balance Scale
 
 **Category:** Stigma (Chest / Brooch Miniature Balance Scale)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A palm-sized antique brass balance scale pinned over the left breast, holding two miniature shallow pans suspended by hair-thin silver wires. The fulcrum rests directly above the bearer’s heart.
+**Appearance:** A palm-sized antique brass balance scale pinned over the left breast, holding two miniature shallow pans suspended by hair-thin silver wires. The fulcrum rests directly above the bearer’s heart.
 
 The delicate brass needle tilts continuously between the two pans in response to nearby emotional intent, settling into dead center only during lethal confrontations. It emits a soft chime when an enemy prepares a heavy attack.
 
@@ -228,28 +231,28 @@ The delicate brass needle tilts continuously between the two pans in response to
 
 **Ability:** *Impartial Reckoning* — Increases critical hit rate by +10% against targets with higher maximum health than the bearer.
 
-**Cost:** The needle's constant movement creates a faint, persistent prickling sensation over the breastbone.
+**Bearer cost:** The needle's constant movement creates a faint, persistent prickling sensation over the breastbone.
 
 *Nobody makes or requisitions the Scale-Stigma. It has been conferred 6 times, every one of them on a worker who sat out a whole watch and never once asked where they stood on the scale.*
 
 ### M.A.W. Use Notes
 
-The set concerns comparison, not proof of moral worth. Its pieces do not share one price. The Weapon’s exact item requires the bearer to name a specific act and follows knowing responsibility, not innocence; a false account returns pain to the bearer. Each strike carries the burden and uncertainty of passing judgement, separately from the local firearm’s recoil and increasing trigger resistance.
+The set concerns comparison, not proof of moral worth. Its pieces do not share one price. The Weapon’s exact item requires the bearer to name a specific act and follows knowing responsibility, not innocence. A false account returns pain to the bearer. Each strike carries the burden and uncertainty of passing judgement, separately from the local firearm’s recoil and increasing trigger resistance.
 
-The exact Suit item describes dulled reflexes and resistance to revising a first judgement; retain those costs alongside the local coat’s accumulating weight without calling them the same effect. The Stigma’s exact item compares current sorrow loads, not moral worth, historical cause or future consequence. Its bearer feels both loads and can mistake the heavier for the more important. That is distinct from the local needle’s physical prickling. In the full-set witness resonance, another judgement must wait until someone else reviews the first record. A comparison alone does not establish fault.
+The exact Suit item describes dulled reflexes and resistance to revising a first judgement. Retain those costs alongside the local coat’s accumulating weight without calling them the same effect. The Stigma’s exact item compares current sorrow loads, not moral worth, historical cause or future consequence. Its bearer feels both loads and can mistake the heavier for the more important. That is distinct from the local needle’s physical prickling. In the full-set witness resonance, another judgement must wait until someone else reviews the first record. A comparison alone does not establish fault.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator and grade; gauge and plate reading; the operator's own state in their words; piece condition; objective; and confirmation from the counsellors that the operator has not asked to be weighed within the preceding ninety days. |
+| **Before use** | Operator and grade. Gauge and plate reading; the operator's own state in their words. Piece condition; objective; and confirmation from the counsellors that the operator has not asked to be weighed within the preceding ninety days. |
 | **During use** | Contact time, plate reading at fifteen-minute intervals, scale movement, the first cost, and any request made of the entity by anybody present. |
 | **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the observer. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and whether the bearer has ranked a colleague aloud in the following week. |
 
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 
-**Full-set source review (2026-10-11):** Reviewed the Weapon, Suit and Stigma blocks, γ grade overview, Use Notes and Field Use Record against the full Side Codex `SE-032-A`, linked `SE-032-B/C/D`, Master Registry, Master Codex Entries 22–24, and `MAW-W-032`. The overview grade and current primary/item Weapon profile (7–12 / Fast 3 / Range 3; three-target 100% → 70% → 50%) and Suit resistances/cost agree; the item-aligned primary corrections are recorded in commits `73560193` and `89e04568`. Preserve the remaining source holds: Master Entry 22 still has 12–18 / Normal, and Entry 23 lists Grudge 0.6 / Void 1.2 versus the primary/item 0.4 / 1.8; the archetype's `Instant` band has no crosswalk to Range 3 (Medium). The Suit is a Greatcoat by primary, Side table, Master table and identical appearance, but `SE-032-C` is titled *The Judgment Plate* and gives *Hold the Scale* rather than the primary/Master *Karmic Counterweight*. Stigma Chest / Brooch, 4%, and +2 agree between primary and `SE-032-D`; Registry retains generic Accessory / 5%, while Master table row 24 uses Relic Drops & Seeds and the linked *Compare the Burden* effect does not map cleanly to the primary/Master labels. These are holds; no item or Master values were changed. The two-party witness resonance and Field Use Record remain compatible with the set's accountability rules.
+**Full-set source review (Year 4232):** Reviewed the Weapon, Suit and Stigma blocks, γ grade overview, Use Notes and Field Use Record against the full Side Codex `SE-032-A`, linked `SE-032-B/C/D`, Master Registry, Master Codex Entries 22–24, and `MAW-W-032`. The overview grade and current primary/item Weapon profile (7–12 / Fast 3 / Range 3; three-target 100% → 70% → 50%) and Suit resistances/cost agree; the item-aligned primary readings hold. Preserve the remaining source holds: Master Entry 22 still has 12–18 / Normal, and Entry 23 lists Grudge 0.6 / Void 1.2 versus the primary/item 0.4 / 1.8. The archetype's `Instant` band has no crosswalk to Range 3 (Medium). The Suit is a Greatcoat by primary, Side table, Master table and identical appearance, but `SE-032-C` is titled *The Judgment Plate* and gives *Hold the Scale* rather than the primary/Master *Karmic Counterweight*. Stigma Chest / Brooch, 4%, and +2 agree between primary and `SE-032-D`. Registry retains generic Accessory / 5%, while Master table row 24 uses Relic Drops & Seeds and the linked *Compare the Burden* effect does not map cleanly to the primary/Master labels. These are holds; no item or Master values were changed. The two-party witness resonance and Field Use Record remain compatible with the set's accountability rules.
 
 ## 관찰 기록 (Observation Log)
 
@@ -272,7 +275,7 @@ The exact Suit item describes dulled reflexes and resistance to revising a first
 | **Initial exposure** | The observer identifies the holding by the scale-eyes, the crimson plumage, the dry heat and the plate reading, and confirms the designation against the other two Birds before entering. The line on the floor is shown to the worker before the entity is. |
 | **Sustained observation** | Continued watching confirms the pattern: the scales move, the plate climbs, and nothing else happens. Personnel must distinguish the entity's effect from their own curiosity, which is the documented hazard on this holding and the cause of every escalation in the file. |
 | **Activation or escalation** | The team records the plate reading, the position of the line, the number of people in the corridor and the number who have asked, before applying any response. Distance and duration are secondary here; attendance is the variable. |
-| **Post-contact review** | Record what changed, what held, and the detail hardest to name. The report is incomplete if it records the entity's output and complete if it records only that an output occurred; the prohibition on logging the content of a comparison applies to the review as it applies to the watch. |
+| **Post-contact review** | Record what changed, what held, and the detail hardest to name. The report is incomplete if it records the entity's output and complete if it records only that an output occurred. The prohibition on logging the content of a comparison applies to the review as it applies to the watch. |
 
 **Observation method:** Record the plate reading, the scale movement, the first sensation reported, and the condition that ends the encounter — the completion of the watch, not the calming of the entity. It does not require calming and has never been agitated by anything except a person it has not yet been allowed to answer.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -321,12 +324,12 @@ A silence presses against your ears. The Bird turns its scale-eyes toward you, a
 
 The Bird is never met alone. Five holdings answer somewhere inside its range — The Hollow Choir, The Forgotten Soldier, The Orphaned Bell, The Observing Bird and The Guarding Bird — and each of those answers is logged as an echo of the same weighing rather than a pact or a feud. A paired watch must set down which reading shifted once the second holding stood present: the sound in the corridor, the weight of the air, the cold on the scale-pans, the pull of memory, the needle, or how firmly the binding held, each with the span it survived and the first sign of the change.
 
-**Interaction method:** Establish each holding’s solo baseline before a paired watch. Record the plate reading, attendance, scale movement, distance, duration, trigger and both gauges, then any effect remaining after separation. Keep the contents of personal comparisons out of the watch log. A prior meeting does not guarantee safety after a Han-storm, Sorrow Tide, breach, Ordeal or transformation event; recheck the conditions rather than assuming a permanent alliance.
+**Interaction method:** Establish each holding’s solo baseline before a paired watch. Record the plate reading, attendance, scale movement, distance, duration, trigger and both gauges, then any effect remaining after separation. Keep the contents of personal comparisons out of the watch log. A prior meeting does not guarantee safety after a Han-storm, Sorrow Tide, breach, Ordeal or transformation event. Recheck the conditions rather than assuming a permanent alliance.
 
 
 ### Entity Interaction Record
 
-This bird is read among the holdings it shares ground with, not as a specimen in a case. The pairings below are standing points of contact; they may help, obstruct, do nothing, or hold only under conditions, and nobody may assume that what a crossing did once will be what it does through another Tide, breach, Ordeal or transformation.
+This bird is read among the holdings it shares ground with, not as a specimen in a case. The pairings below are standing points of contact. They may help, obstruct, do nothing, or hold only under conditions, and nobody may assume that what a crossing did once will be what it does through another Tide, breach, Ordeal or transformation.
 
 | What is weighed beside it | How the pairing has run | What the post entered | What the page carries |
 |---|---|---|---|
@@ -336,15 +339,15 @@ This bird is read among the holdings it shares ground with, not as a specimen in
 | **The Observing Bird** | Provides evidence for the Bird's calculations. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Guarding Bird** | Protects the judgment process. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then weigh the pair and weigh the same two apart, on the same pan and in the same hour: the Bird's reading is a difference, and a difference taken across two days is not a reading.
 
 ## 이야기 (Narratio) — The Tale
 
-To judge another person's sorrow is to carry a piece of it forever. Weighting Bird was born from those who learned this too late.
+Long ago there were people who judged another person's sorrow and found they were carrying a piece of it forever, and the Weighting Bird was born from the ones who learned that too late.
 
 The Collectors weigh debt, but debt is only one kind of guilt. In Somnarak there are officials, auxiliaries, and assigned judges who weigh the rest — who measure a citizen's fault, who decide how much sorrow a wrong is worth, who place one grief on the scale against another and say which is heavier. It is necessary work. The city could not function without it. And it is, for the ones who do it, corrosive.
 
-Weighting Bird was born from these judges — not from one, but from the accumulated sorrow of all of them, the officials of early Zone C and the Forgotten Market district who spent their days weighing guilt and their nights unable to set the scales down. Every judgment they delivered added a weight — not to the judged, who carried their own grief already, but to the judge, who now held a sliver of every soul they had measured. A career of judgment left a person freighted with fragments of a thousand strangers' sorrow, none of it their own, all of it unshakeable.
+Weighting Bird was born from these judges — not from one. But from the accumulated sorrow of all of them, the officials of early Zone C and the Forgotten Market district who spent their days weighing guilt and their nights unable to set the scales down. Every judgment they delivered added a weight — not to the judged, who carried their own grief already, but to the judge, who now held a sliver of every soul they had measured. A career of judgment left a person freighted with fragments of a thousand strangers' sorrow, none of it their own, all of it unshakeable.
 
 The judges did not speak of this. The Veil muted the exhaustion. They simply grew heavier — slower, quieter, bent under the accumulated weight of every verdict they had ever rendered. And when the last of that first generation of judges could no longer lift the scale, the weight crystallized. The Weeping took it. It grew wings. A bird formed — the Weighting Bird, second of the Three, born not from guilt suffered but from guilt assigned, from the sorrow of those who measure sorrow and find that the measuring does not leave them.
 
@@ -378,15 +381,15 @@ Some sorrows are suffered. Weighting Bird's sorrow is inflicted — gently, nece
 **Observation Notes:**
 - Born from the accumulated sorrow of officials who judged without rest.
 - The Bird carries every verdict ever rendered.
-**Cross-References:** The Three Birds · The Observing Bird · The Guarding Bird · The Convergence · the assessors' case books · the Consistency Study Y4245–Y4250 · the opinion on comparative findings · the succession report of Y4251
+**Cross-References:** The Three Birds · [The Observing Bird](SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) · [The Guarding Bird](SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) · [The Convergence](SE-C-Vδ-010_The_Convergence_수렴.md) · the assessors' case books · the Consistency Study Y4245–Y4250 · the opinion on comparative findings · the succession report of Y4251
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** The assessors. Nineteen distinguishable hands across four generations of case books, none of them named in any of the eleven thousand pages they wrote.
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the comparisons are perfectly consistent and yield a complete ordering, a comparison is not a finding of fault and can therefore neither be answered nor withdrawn, and the facility has made exactly one use of that — a published comparative placement of itself. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument and are read together: the comparisons are perfectly consistent and yield a complete ordering, a comparison is not a finding of fault and can therefore neither be answered nor withdrawn. And the facility has made exactly one use of that — a published comparative placement of itself. A weighing that disagrees with the record is entered twice — as taken and as the record expected — and the pan is not adjusted in between.
 
-**Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the plate calibration, the rest mass, the consistency of a duplicate pair drawn from the Study, the standing of the succession report's comparative claim, and the status of the access proposal, which is to be reported as outstanding for as long as it is outstanding.
+**Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the plate calibration, the rest mass, the consistency of a duplicate pair drawn from the Study, the standing of the succession report's comparative claim. And the status of the access proposal, which is to be reported as outstanding for as long as it is outstanding.
 ## Warden Record
 
 ### Weighing Guilt
@@ -413,7 +416,7 @@ Three thousand one hundred comparisons were put to it between the forty-fifth ye
 
 **Every duplicate returned the same result, including every inverted one.** Across the full set of three thousand one hundred, **not one intransitive triple was found** — no case anywhere in which it held A heavier than B, B heavier than C, and C heavier than A. For a set of that size the probability of that arising by chance is not small; it is not calculable in any useful sense.
 
-The consequence is arithmetic and the Study states it in one sentence. A set of comparisons that is complete and transitive is an ordering. The facility therefore possesses, as an unavoidable by-product of five years of methodology work, **a single exact ranking of the relative culpability of every person the Bird has ever weighed** — four hundred and ten members of staff, the nineteen assessors of the case books, and every name in the pre-Veil material that was ever put to it.
+The consequence is arithmetic and the Study states it in one sentence. A set of comparisons that is complete and transitive is an ordering. The facility therefore possesses, as an unavoidable by-product of five years of methodology work, **a single exact ranking of the relative culpability of every person the Bird has ever weighed** — four hundred and ten members of staff, the nineteen assessors of the case books. And every name in the pre-Veil material that was ever put to it.
 
 Three controls were run and all three returned nothing. Fabricated case histories produced a refusal to weigh rather than a wrong answer. Identical histories under different names returned a level scale. And the one attempt to influence it — the same pair put by a worker who had been told, falsely, which answer was wanted — returned the same result as every other presentation of that pair.
 

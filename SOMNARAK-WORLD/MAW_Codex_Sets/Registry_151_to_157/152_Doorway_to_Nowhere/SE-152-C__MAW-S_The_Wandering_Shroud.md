@@ -20,7 +20,7 @@
 | Set | Carried Threshold |
 | Type / grade / element | Suit / β — Moderate / Lament |
 | Status | Active; return-partner issue only |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | A deep-blue shroud with a thin charred seam that resembles a doorframe around the wearer’s shoulders. |
 | Active form | The seam creates a stable outline between a memory-room and the bearer’s current body. |
@@ -88,14 +88,3 @@ Grey wore the Shroud during a Doorway contact that opened onto an old bedroom. T
 The Shroud is the present-body support of *Door With Return*. Requiem closes a false loop and Wandering Key opens limited passage; this suit makes sure a traveler has a side to return to.
 
 > *“The current room needs a witness before any remembered room is safe to enter.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-152-C`  
-**Linked Entity:** `SE-152`  
-**Item Registry Code:** `MAW-S-152-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

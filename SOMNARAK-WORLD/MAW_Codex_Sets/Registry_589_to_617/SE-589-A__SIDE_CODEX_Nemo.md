@@ -22,7 +22,7 @@ Nemo is a translucent figure of flesh and light that reforms whenever one of its
 | Coherence / Potency | III / γ |
 | Element | Lament |
 | Location | Zone A, Alpha Tree |
-| Gauge / Pressure | 673/673; starts 45–65% / 18–41 Lament |
+| Gauge / Pressure | 000/660; starts 000% / 18–41 Lament |
 | Movement / Resistance | 1.95 m/s / 35% Lament, 25% other |
 | Breach threshold | Gauge ≥75%; return-field ultimate begins at 65% |
 | Observation | 2 — Basic |
@@ -65,13 +65,3 @@ Nemo is Major γ, while all three canonical pieces are Grade β. The first stabl
 At the Unlisted Arrival, a returned courier collapsed beneath the Alpha Tree while the registry denied his identity. Specialist Haneulash Yoon used Nemo’s Blade to close his exposure wounds, but its numbness made her address him by his file number. Nemo reappeared four times. The cycle ended only when Marjuk recorded the courier’s spoken name as testimony—not as a reconstructed past—and the receiving team answered it.
 
 > *“An archive can confirm a history. It must never be allowed to decide whether the living person before it is real.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-589-A`  
-**Linked Entity:** `SE-589`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

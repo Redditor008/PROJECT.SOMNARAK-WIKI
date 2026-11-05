@@ -28,6 +28,10 @@ The Warning Fang is a fang-curved blade of crimson Han iron that vibrates with i
 |---|---:|---|---|---:|
 | δ / Grudge | 10–15 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 2 / 50 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
 **Vector Cut:** The weapon pierces up to three interference layers along a verified direction. Supplying a missing target from fear makes the line follow the guess.
 
 **Cost:** Old wounds ache; prolonged use leaves bruising shaped like broken signal marks.
@@ -43,14 +47,3 @@ Thread supplies fragment, Plate holds dream-space, Fang opens transmission. The 
 **Maintenance:** Place separate fragment transcripts along opposite edges. Clean only matching sounds. Leave gaps unpolished and visible.
 
 **Shutdown:** Lower the Fang when confirmed danger ends, even if the sentence remains incomplete.
-
----
-
-**Document ID:** `SE-249-B`  
-**Linked Entity:** `SE-249`  
-**Item Registry Code:** `MAW-W-249-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

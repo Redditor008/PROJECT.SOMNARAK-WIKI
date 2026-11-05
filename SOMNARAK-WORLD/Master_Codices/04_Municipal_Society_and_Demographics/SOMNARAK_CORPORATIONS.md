@@ -97,7 +97,7 @@ Operating directly beneath the towering bio-mechanical **Alpha Tree (알파 나�
 +---------------------------------------------------------------------+
 | FLOOR & SECTOR        | EXECUTIVE LEAD                              |
 |   | FUNCTION & CAPACITY                                             |
-| ----------------------+-------------------------+------------------ |
++-----------------------+-------------------------+-------------------+
 | Floor 1: Neutral Core | Director Majin & Seiyon | Central Decision  |
 | Floor 2: Maw's Keep   | Containment Lead Dekan  | Acoustic Clamps   |
 | Floor 3: Extraction   | Extraction Lead Zyrak   | M.A.W. Crucible   |
@@ -126,7 +126,7 @@ The **SED Corps** serves as the city's exploratory vanguard, driving deep vertic
 |              SED CORPS: THE SEVEN-MEMBER VANGUARD CADRE             |
 +---------------------------------------------------------------------+
 | OPERATIVE SPECIALIST  | ROLE & ARMAMENT         | TACTICAL FUNCTION |
-| ----------------------+-------------------------+------------------ |
++-----------------------+-------------------------+-------------------+
 | Yeonhwa (Cartographer)| Expedition Commander    | Resonant Compass  |
 | Doha (The Mason)      | Heavy Vanguard Breaker                      |
 |   | Basalt Maul / Prow                                              |
@@ -156,7 +156,7 @@ The **UCD Task Force** functions as Somnarak's tactical urban pacification and a
 |               UCD TASK FORCE: URBAN PURGE SQUAD CADRE               |
 +---------------------------------------------------------------------+
 | TACTICAL OFFICER      | SPECIALTY & LOADOUT     | PURGE OPERATION   |
-| ----------------------+-------------------------+------------------ |
++-----------------------+-------------------------+-------------------+
 | Taeho (The Commander) | Riot Cleaver & Aegis    | Op 1: Velumtal    |
 | Yuna (The Auditor)    | Forensic Siphon Scanner | Op 2: Lethepyo    |
 | Minho (Investigator)  | Counterfeit Veil Probe  | Op 3: Messischwi  |
@@ -222,7 +222,7 @@ The **Horizon Caravan** is Somnarak's trans-continental overland expeditionary a
 +---------------------------------------------------------------------+
 | COMMAND SPECIALIST    | ROLE & EQUIPMENT                            |
 |   | EXPEDITION MILESTONE                                            |
-| ----------------------+-------------------------+------------------ |
++-----------------------+-------------------------+-------------------+
 | Kael (The Drift King) | Supreme Commander       | The Gate of Sighs |
 | Hwaran (The Guide)    | Caldera Liaison Staff                       |
 |   | Sea of Glass Drift                                              |

@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A translucent child-like figure, half-flesh and half-light, wearing a small crown of crystallized tears. He flickers as he wanders, asking where the person who lost him has gone. Salt-damp and faintly warm, he smells of cold rain; his hand passes halfway through yours. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile in breach at a child's pace, room by room, and he has never passed a door without looking inside it. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 2 |
+| **SE Effect** | **On the breach** — Personnel who answer truthfully experience a wave of sorrow not their own. |
+| **Work Damage** | 3–6 Lament — the cost is searching the Gardens for a place the survey does not contain |
+| **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -55,7 +57,7 @@
 | **Resistance** | 40% against Lament pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 759/759 |
-| **Han Pressure [ATK]** | 15–35 per hit · Lament |
+| **Han Pressure [ATK]** | 30–50 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
@@ -78,16 +80,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Search* [**Debuff**] } | "You feel compelled to look for him — but every direction leads further from where he is." | [The Prince's lost-ness infects the target; they feel directionless.] | *Target suffers -10 Composure; they are searching for something that cannot be found.* **[10 Lament DMG [Lament]]** | When the target enters the Prince's domain. |
-| { *The Wrong Crown* [**Debuff**] } | "He wears a crown — but it does not fit, and the not-fitting is the source of everything." | [The Prince's illegitimacy unsettles the target; they question their own place.] | *Target loses 10 Composure; nothing fits the way it should.* **[10 Lament DMG [Lament]]** | When the target approaches the Prince. |
-| { *The Lost Sword* [**Attack**] } | "He swings — but the sword is the wrong one, the kingdom is the wrong one, and the blow lands anyway." | [A desperate, misplaced strike from a prince who cannot find his throne.] | *Inflicts Lament pressure and one wound of misplaced authority.* **[14-22 Lament DMG [Lament]]** | When the Prince is challenged. |
-| { *The Abdication* [**Attack**] } | "He stops asking. The questions were the whole of him, and what is left when they stop is heavier than the search ever was." | [The Prince gives up the search mid-session; the unanswered questions turn on whoever is standing closest.] | *The target's Sorrow Gauge surges 15%, and the compulsion moves to them: they cannot leave a room without announcing where they are going.* **[24-36 Lament DMG [Lament]]** | When the Prince is cornered or a promise proves false. |
-| { *Everyone Is Lost* [**Ultimate**] } | "Every door in the facility opens on a room where somebody has just left, and the announcement of it is always one rotation late." | [His search widens past the Gardens boundary; every worker in range is briefly a person someone did not say goodbye to.] | *All in range take Lament pressure for three turns; for the duration, nobody in the area can leave a room without explaining where they are going.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Search* [**Debuff**] } | "Where did they go? Why did they leave? Will they come back?" | [He asks, in the same order, and waits past the point where a worker wants to fill the silence. Nobody is infected; somebody is becoming the person being waited for.] | *-10 Composure in the answering worker: their own unanswered departures surface, and they leave the session carrying the questions whether or not the gauge moved.* **[10 Lament DMG [Lament]]** | When a visitor is asked the three questions and stays to hear them out. |
+| { *The Wrong Crown* [**Debuff**] } | "The crown loses a point each time the counter moves. And the points do not grow back." | [Read at the open and again at the close, the crown is the instrument on this post: silent departures cost it, and a said goodbye does not.] | *-10 Composure to personnel whose names are in the rotation book with a date and nothing else; the ache is of being correctly counted.* **[10 Lament DMG [Lament]]** | When a handover passes without the leaving being said to him. |
+| { *The Lost Sword* [**Attack**] } | "He does not attack unless frightened — and a frightened Prince is a breach, not a battle." | [There is no sword and no swing. Fright, reassurance or fabricated comfort are what sharpen here: each comforting lie is accepted, waited on. And then falls heavier.] | *Lament pressure lands as the compulsion to account for one's movements; Drain rises 5 each time somebody answers him with a reassurance.* **[14-22 Lament DMG [Lament]]** | When a promise or reassurance is offered instead of the plain truth. |
+| { *The Abdication* [**Attack**] } | "He stops asking. The questions were the whole of him. And what is left when they stop is heavier than the search ever was." | [The Prince gives up the search mid-session; the unanswered questions turn on whoever is standing closest.] | *The target's Sorrow Gauge surges 15%, and the compulsion moves to them: they cannot leave a room without announcing where they are going.* **[24-36 Lament DMG [Lament]]** | When the Prince is cornered or a promise proves false. |
+| { *Everyone Is Lost* [**Ultimate**] } | "Every door in the facility opens on a room where somebody has just left. And the announcement of it is always one rotation late." | [His search widens past the Gardens boundary; every worker in range is briefly a person someone did not say goodbye to.] | *All in range take Lament pressure for three turns; for the duration, nobody in the area can leave a room without explaining where they are going.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The marker is checked — child-height, half light, a small crown of crystallised tears, and the question asked in the same order as always: where they went, why they left, whether they are coming back. Several figures are catalogued in the Gardens; this is the one that asks. Confirm against the designation, read the crown's points at the open, and take positions for a session that will be spent sitting rather than circling.
-2. **Clash:** Flerehan and Ferrehan are the working approaches; Pugnahan is a failure mode and the table above says why — he recoils, expecting it to happen again. The worker sits with him, lets him ask, and answers the one question he asks with the truth, which is that nobody knows where that person went.
+2. **Clash:** Flerehan and Ferrehan are the working approaches. Pugnahan is a failure mode and the table above says why — he recoils, expecting it to happen again. The worker sits with him, lets him ask, and answers the one question he asks with the truth, which is that nobody knows where that person went.
 3. **Resolution:** The worker stays for the time they said they would stay, listens to the story, answers the one question with the truth — that nobody knows where that person went — and then leaves having said they are leaving. No promise is made; the crown's points are read at the close and the counter is read at the next rotation.
 
 ### Consequences
@@ -95,7 +97,8 @@
 - The cost on this file is not borne by the worker's Clarity but by the room's habits: a worker who has sat with him begins announcing their movements, and the file records supervisors noticing the compulsion before the worker does.
 - Contact length is not the risk. Turnover is. The counter moves down when a member of the Echo Gardens rotation leaves the post for good without telling him, and it has moved on transfers, promotions and two retirements, none of which anyone thought to mention to a contained entity.
 - The crown pieces are all made from questions that were never answered. Each activation borrows a measure of that waiting and the operator keeps it. The recorded cost is not sadness. It is that the operator cannot leave a room without explaining where they are going, including rooms containing nobody.
-- Without timely resolution, The Lost Prince defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Without a resolution the search does not decay into something worse. It persists at a child's walking pace until it exhausts itself, and the cost is everyone who met him on the way being asked a question they cannot answer. What does not come back is the crown point.
+- The search is a standing allocation: the Gardens staff search parties for a place the facility survey does not contain, and the parties are rostered every quarter.
 
 ## Appearance
 **Primary Form:** A translucent child-like figure wearing a small crown made from crystallized tears. He flickers while wandering and asks where the person who left him has gone.
@@ -131,16 +134,16 @@
 - **The Sorrow:** The grief of a bond broken without explanation and a love that left no ending.
 - **The Event:** Someone departed from a child-like figure without returning or explaining. The unanswered questions crystallized into the Prince.
 - **The People:** One adult who left and did not come back, unnamed in every surviving document. The Keepers hold no departure record, no note and no explanation, and the archive's position is that the absence of a reason is the entity rather than a deficiency in the research.
-- **Expanded origin context:** The departure was not a death and not a quarrel; the surviving documents do not say what it was, and the Keepers hold no note, no date and no reason. What the archive has instead is the shape the absence took: a child-like figure who asks where the person went, in the same order, without variation, and who has never once been given an answer that held. The file's position is that the missing reason is not a gap in the research — the reason went with the person, and the search is what the entity is made of. Those who have sat with him report the same thing in different words: it is not the loss that is unbearable, it is the not-knowing, and the not-knowing does not wear out.
+- **Expanded origin context:** The departure was not a death and not a quarrel. The surviving documents do not say what it was, and the Keepers hold no note, no date and no reason. What the archive has instead is the shape the absence took: a child-like figure who asks where the person went, in the same order, without variation, and who has never once been given an answer that held. The file's position is that the missing reason is not a gap in the research — the reason went with the person, and the search is what the entity is made of. Those who have sat with him report the same thing in different words: it is not the loss that is unbearable, it is the not-knowing, and the not-knowing does not wear out.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Reaches for the worker, seeking connection. | Decrease |
-| **Pugnahan** (Confrontation) | Recoils in fear of another abandonment. | Increase |
-| **Viderehan** (Observation) | Tells the story of the one who left. | Stable |
-| **Ferrehan** (Endurance) | Tests whether the worker remains instead of leaving. | Decrease |
+| **Flerehan** (Tears) | Reaches for the worker, seeking connection. | Decrease · High |
+| **Pugnahan** (Confrontation) | Recoils in fear of another abandonment. | Increase · Low |
+| **Viderehan** (Observation) | Tells the story of the one who left. | Stable · Common |
+| **Ferrehan** (Endurance) | Tests whether the worker remains instead of leaving. | Decrease · Common |
 
 ### Special Behaviors
 - The Prince wanders endlessly in search of an absent person.
@@ -151,18 +154,17 @@
 
 ### Operational Work Notes
 
-Work on this holding is a sitting job and the readings reflect it. Flerehan and Ferrehan lower the gauge by being the same thing in his terms — a worker who stays as long as they said they would and then says they are leaving. Viderehan holds steady because being told the story costs the worker and not the Prince. Pugnahan raises it because he reads confrontation as the abandonment happening again. The file's own caution is that a stable gauge is not a safe session: he asks in the same order every time, and the answering worker carries the questions out of the enclosure with them, which is why the compulsion to announce one's movements is entered under consequences rather than symptoms.
+Work on this holding is a sitting job and the readings reflect it. Flerehan and Ferrehan lower the gauge by being the same thing in his terms — a worker who stays as long as they said they would and then says they are leaving. Viderehan holds steady because being told the story costs the worker and not the Prince. Pugnahan raises it because he reads confrontation as the abandonment happening again. The file's own caution is that a stable gauge is not a safe session: he asks in the same order every time. And the answering worker carries the questions out of the enclosure with them, which is why the compulsion to announce one's movements is entered under consequences rather than symptoms.
 
 **Reading the response:** A falling reading under Flerehan or Ferrehan means a worker stayed for the time they said they would stay and then left having said they were leaving. Stability under Viderehan is correct. The reading rises on reassurance — on anybody telling him that the person is coming back, that they would have had a good reason, or that he will understand when he is older.
 ## Breach Behavior
 
-> *"The Lost Prince has broken free. Searches for the person who lost him."*
-
+> *"The Lost Prince has broken free and is asking. He goes to whoever worked closest with the person who left the rotation; answer nothing, and announce any departure outside the room."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | He walks out and searches, at a child's pace, room by room, and has never passed a door without looking inside it. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
+| **Effect** | He asks the same question in the same order of whoever he finds, and does not stop asking when there is no answer. The compulsion to announce a departure spreads to anyone who hears him. |
 | **Secondary Effect** | Everyone he has asked finds themselves unable to leave the room without announcing it, for several hours afterwards. |
 | **First Target** | Whoever worked most closely with the person who left the rotation. |
 | **Escalation** | Drain rises by 5 each time somebody answers him with a reassurance, and not at all for the time he spends walking. |
@@ -171,7 +173,7 @@ Work on this holding is a sitting job and the readings reflect it. Flerehan and 
 
 - **Breach type:** Escape. He leaves the Gardens and moves through the facility at a child's walking pace, asking the same question of everyone he meets.
 - **Containment priority:** Do not suppress. Confrontation raises the reading by the approach table's own figures, and the two recorded Warden deployments both ended with a longer incident and a crown point lost. Send the person he is looking for, if they are still employed here, to tell him they are not coming back.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Sorrow Gauge on breach:** Opens at 40% and rises five points each time somebody answers him with a reassurance. It does not move for the time he spends walking, so a long quiet incident reads exactly like a short one — which is why the briefing forbids answering him at all rather than forbidding the watch to take time.
 
 ## M.A.W. Equipment
 
@@ -198,7 +200,7 @@ At rest the blade folds into a small circlet around a blue hilt, too narrow to w
 
 **Ability:** Lament damage to the mind. The crown-wrought blade carries his signature — a question with no answer behind it — and what it opens in a target is the memory of somebody they stopped visiting.
 
-**Cost:** The wielder carries his unwept grief and weeps involuntarily, most often while writing a handover note.
+**Bearer cost:** The wielder carries his unwept grief and weeps involuntarily, most often while writing a handover note.
 
 ### M.A.W. Suit — The Crown of Shroud
 
@@ -218,7 +220,7 @@ The collar carries a departure time signed by wearer and relief. *Visible Handov
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this holding produces; the file credits it with nothing else. What it buys a worker is the interval between the question and the urge to answer it, which on this post is the whole of the craft.
 
-**Cost:** The wearer goes numb to small pleasures, and reports children's voices elsewhere in the facility as unusually loud.
+**Bearer cost:** The wearer goes numb to small pleasures, and reports children's voices elsewhere in the facility as unusually loud.
 
 ### M.A.W. Stigma — The Crown of Tears
 
@@ -234,13 +236,13 @@ A line sharpens for a consented observation, not for an accusation. *Name the Br
 
 **Ability:** Reveals bonds, attachments, broken links, and emotional connections between people.
 
-**Cost:** Every broken bond appears to the wearer as their own loss.
+**Bearer cost:** Every broken bond appears to the wearer as their own loss.
 
 *The crown of tears is not manufactured. He gives one to a worker who told him they were leaving the post for good and said so to his face, and has given none to anyone who simply stopped appearing on the rota.*
 
 ### M.A.W. Use Notes
 
-These pieces are The Lost Prince in miniature: the blade carries the question, the shroud carries the interval, and the charm carries the bonds. What they take is the wearer's unwept grief, which comes off as involuntary weeping most often while writing a handover note, and the Armoury enters both the gift and the cost against the wearer rather than the piece — which is also how the holding reads its own staff.
+These pieces are The Lost Prince in miniature: the blade carries the question, the shroud carries the interval, and the charm carries the bonds. What they take is the wearer's unwept grief, which comes off as involuntary weeping most often while writing a handover note. And the Armoury enters both the gift and the cost against the wearer rather than the piece — which is also how the holding reads its own staff.
 
 *Unanswered Court* carries connection without possession. At return, state what task ended and who assumed any continuing duty. The designated relief takes the hilt and closes the crown points one at a time; snapping them shut sounds a room-wide Lament note.
 
@@ -276,11 +278,11 @@ Keep the Shroud’s departure and arrival notes in its sleeve until inspection, 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer checks the marker and the designation, reads the crown's points at the open, and confirms whether the counter has moved since the last rotation. The first reliable signs are the voice at conversational volume from an enclosure that should hold no speech, and the question already in progress. |
-| **Sustained observation** | He wanders the enclosure and returns; he asks where they went, why they left, whether they are coming back, and he waits past the point where a worker wants to fill the silence. The session holds steady only while nobody offers a reassurance, and the worker who stays nearby is treated as a possible replacement for the lost bond — which is why the exit is part of the method: 41 people have left this post permanently and 38 of them did not tell him. |
-| **Activation or escalation** | The crown loses a point each time the counter moves, and the announcement protocol runs at four seconds because a frightened Prince is a breach and a breach is a facility-wide search. Record the first change in the order of the questions, the first approach to the gate during a handover, and the state of the crown; suppression is never attempted, because the two recorded Warden deployments each ended with a longer incident and a crown point lost. |
-| **Post-contact review** | Log whether the worker stayed for the time they said and said they were leaving; whether the announcement protocol was used; the crown's points and the counter; and the one detail each session makes hard to write down — the questions do not sound accusatory, and the report is incomplete if it records only the danger of the search and omits how ordinary the asking is. |
+| **Sustained observation** | He wanders the enclosure and returns. He asks where they went, why they left, whether they are coming back, and he waits past the point where a worker wants to fill the silence. The session holds steady only while nobody offers a reassurance. And the worker who stays nearby is treated as a possible replacement for the lost bond — which is why the exit is part of the method: 41 people have left this post permanently and 38 of them did not tell him. |
+| **Activation or escalation** | The crown loses a point each time the counter moves, and the announcement protocol runs at four seconds because a frightened Prince is a breach and a breach is a facility-wide search. Record the first change in the order of the questions, the first approach to the gate during a handover. And the state of the crown. Suppression is never attempted, because the two recorded Warden deployments each ended with a longer incident and a crown point lost. |
+| **Post-contact review** | Log whether the worker stayed for the time they said and said they were leaving. Whether the announcement protocol was used. The crown's points and the counter. And the one detail each session makes hard to write down — the questions do not sound accusatory. And the report is incomplete if it records only the danger of the search and omits how ordinary the asking is. |
 
-**Observation method:** Record the first sign, which is a child's voice at conversational volume from an enclosure that should be empty of speech; the first sensation, which is the urge to promise something; his position at the gate during any handover; the state of the crown; the words used; and the close, which is the worker leaving after saying that they are leaving. The counter — 2 at the last reading — is entered on every sheet whether or not it moved.
+**Observation method:** Record the first sign, which is a child's voice at conversational volume from an enclosure that should be empty of speech. The first sensation, which is the urge to promise something. His position at the gate during any handover. The state of the crown; the words used. And the close, which is the worker leaving after saying that they are leaving. The counter — 2 at the last reading — is entered on every sheet whether or not it moved.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -289,10 +291,10 @@ Keep the Shroud’s departure and arrival notes in its sleeve until inspection, 
 Containment description for C-IVγ-091 [LS], the holding called The Lost Prince: a Subject-Body manifestation expressing Lament, formed out of a departure without explanation, held at SECTOR-D-02 in the Echo Gardens. He asks every visitor the same questions in the same order, and the enclosure is run on the answers rather than on the gate.
 
 **Entry 2 — <Echo Gardens Rotation Book, Leavers>**
-Forty-one people have left this post permanently since the enclosure was built. Thirty-eight of those departures are recorded in the rotation book with a date and nothing else; the person worked their last shift and did not come back, which is how a rotation book works and is not a criticism of anybody. Three are annotated "told him". The counter has moved down on departures of the first kind and has not moved on any of the three.
+Forty-one people have left this post permanently since the enclosure was built. Thirty-eight of those departures are recorded in the rotation book with a date and nothing else. The person worked their last shift and did not come back, which is how a rotation book works and is not a criticism of anybody. Three are annotated "told him". The counter has moved down on departures of the first kind and has not moved on any of the three.
 
 **Entry 3 — <Statement of a Worker Who Said Goodbye>**
-"I felt ridiculous. I had my transfer papers in my coat and I sat on the bench and said I am going to Zone B on the fourteenth and I am not coming back, and you did not do anything wrong. He asked where Zone B was. I told him. He asked if it was far and I said yes. Then he went and sat down somewhere else, which the file will record as no change in behaviour, and which was not nothing — he stopped waiting at the gate for me on the days I was not rostered, because he knew I was not coming."
+"I felt ridiculous. I had my transfer papers in my coat and I sat on the bench and said I am going to Zone B on the fourteenth and I am not coming back, and you did not do anything wrong. He asked where Zone B was. I told him. He asked if it was far and I said yes. Then he went and sat down somewhere else, which the file will record as no change in behaviour. And which was not nothing — he stopped waiting at the gate for me on the days I was not rostered, because he knew I was not coming."
 
 **Entry 4 — <Containment Notice>**
 Management: Listen to the story and remain present; do not promise the absent person will return.  Honest answers produce more stability than comforting lies.
@@ -302,7 +304,7 @@ This office now requires an exit interview with a contained entity, and is aware
 
 ## 최종 관찰 (Final Observation)
 
-> What the observing worker does at the close of contact: stay for the time they said, answer the question with the truth, and leave having said they are leaving — or reach for a kindness, which is the one response this holding has never tolerated.
+> What the observing worker does at the close of contact: stay for the time they said, answer the question with the truth. And leave having said they are leaving — or reach for a kindness, which is the one response this holding has never tolerated.
 
 | Listen to the story and remain present; do not promise the absent person will return — as written, without improvising. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
@@ -315,11 +317,11 @@ He is small enough to carry and old enough to have waited forever. The crown on 
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A translucent child-like figure wearing a small crown made from crystallized tears. He flickers while wandering and asks where the person who left him has gone. The space does not become generic; it shifts in the specific register of Lament.
+**At first contact:** The first thing you notice is a child's voice at conversational volume from an enclosure that should be empty of speech, with a question already in progress. He stops at the gate when he hears the rotation change, flickering at the edges, and his hand passes halfway through yours.
 
 **With continued exposure:** Minutes pass and the initial shock settles into recognition: the questions start to feel like a shape you could draw from memory, and the urge to answer them with something kind becomes a thing you have to hold. The entity is not changing — the worker is, and the file keeps the two readings separate.
 
-**When the entity activates:** The Gauge tips. The Subject-Body does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Lament is no longer atmospheric. It is operational.
+**When the entity activates:** Nothing presses through anything. Somewhere in the building a person wept for reassurance and gave it, or a rotation changed in silence, and the child is at the gate asking the question in the wrong order for the first time — and the counter has one left to lose.
 
 **After departure:** The session ends when the worker says they are leaving, and the Lament does not go with them: it stays as a habit of accounting for themselves, and supervisors notice the announcements before the worker does.
 
@@ -336,7 +338,7 @@ The Echo Gardens catalogue is otherwise structures and ground; he is the only re
 
 | Held with | What is filed | What the trials found | Entry owed |
 |---|---|---|---|
-| **The Smothering Mother** | Holds him as an abandoned child. | Filed as company rather than treatment; the Gardens keep no gauge movement for the pairing, and what is checked instead is whether he is still asking in the same order at the close. | Crown points at open and close, gate approaches per hour, counter before and after. |
+| **The Smothering Mother** | Holds him as an abandoned child. | Filed as company rather than treatment. The Gardens keep no gauge movement for the pairing, and what is checked instead is whether he is still asking in the same order at the close. | Crown points at open and close, gate approaches per hour, counter before and after. |
 | **The Silent Child** | Sits beside him in shared silence. | The one pairing on this file that costs him nothing: he asks the questions whether or not the other record is present, and the sitting is entered as sitting rather than as an effect. | Duration of the shared silence, gauge at open and close, and whether the question was asked fewer times in the hour. |
 | **The Orphaned Bell** | Tolls when he wanders near. | Entered as route coincidence rather than response: he has never altered his line to reach the toll, and the file will not read intent into an instrument it has not tested at separation. | Time of the toll, his distance at it, and his next approach to the gate. |
 | **The Kind Healer** | Comforts him but cannot heal abandonment. | The comfort is accepted and the question is asked again in the same order, which the file treats as the distinction that matters: relief on this holding does not change what he is looking for. | Gauge before and after, the order of the questions, and the words he used for the absent person. |
@@ -382,8 +384,8 @@ Some sorrows mourn a loss. The Lost Prince mourns an absence of explanation — 
 - The Prince asks the same questions; do not attempt to answer.
 **Observation Notes:**
 - Formed from a bond broken without explanation.
-- The questions are universal; everyone has been left. The counter stands at 2 and runs down only on silent departures: 41 people have left this post permanently and 38 of them did not say so; the crown loses a point each time it moves and the points do not grow back.
-**Cross-References:** Zone D · The Ember Child · The Orphaned Bell
+- The questions are universal; everyone has been left. The counter stands at 2 and runs down only on silent departures: 41 people have left this post permanently and 38 of them did not say so. The crown loses a point each time it moves and the points do not grow back.
+**Cross-References:** Zone D · The [Ember Child](SE-C-IIβ-101_Emberling_embers_의_아이.md) · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md)
 **Faction Involvement:** SED, whose Zone D survey covers the Gardens, and UCD, who hold the Fray-adjacent reports in which a child's voice was logged for three years as an acoustic artefact.
 **Originator:** A child-figure abandoned without explanation.
 
@@ -424,8 +426,8 @@ The announcement protocol has one exception, written in by the counselors and te
 ### Registry Trivia
 
 - **Classification detail:** Filed as a Subject — Entity (IV) coherence, self-aware, wandering and seeking — at Major (γ) potency. The grade is carried by the search rather than by the damage: he has never attacked without first being frightened, and the fright is what the announcement protocol is for.
-- **Field detail:** Lament is the element it reads under, and the enclosure it paces is SECTOR-D-02 in the Echo Gardens; position is taken at the open, at the close, and at every handover.
-- **Recognition detail:** Identify him by the crown and the question. Several figures are catalogued in the Gardens; this is the child-height one, half light, wearing crystallised tears, who asks where somebody has gone and waits for the answer.
+- **Field detail:** Lament is the element it reads under, and the enclosure it paces is SECTOR-D-02 in the Echo Gardens. Position is taken at the open, at the close, and at every handover.
+- **Recognition detail:** Identify him by the crown and the question. Several figures are catalogued in the Gardens. This is the child-height one, half light, wearing crystallised tears, who asks where somebody has gone and waits for the answer.
 - **Record detail:** Verify the designation before approach — more than one Gardens record concerns somebody who did not come back, and the responses are opposite. This one gets the truth, never comfort and never a promise. The counter stands at 2; 41 people have left this post permanently and 38 of them did not say so.
 - **Containment detail:** Do not equate containment with inactivity. He is active during every handover, whether or not anybody enters the enclosure, and the containment reading is the crown and the counter rather than the state of the gate.
 ## Document Information

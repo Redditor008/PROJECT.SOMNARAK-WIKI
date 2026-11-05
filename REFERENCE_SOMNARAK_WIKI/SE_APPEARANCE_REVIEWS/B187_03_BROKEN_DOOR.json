@@ -1,0 +1,126 @@
+{
+  "designation": "O-IIβ-757",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-757_Broken_Door_부서진_문.md",
+  "words": 7538,
+  "sha256": "b1daf1e2954ca037936a204575335fc8e0c6d42624d47b3aaa814c40e3091d9c",
+  "unit": 3,
+  "name": "Broken Door",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md",
+  "before_words": 7538,
+  "after_words": 7816,
+  "base": "dd22fc03a9f2fa5d1a9d81b006d0c4ef02ef5004",
+  "final_sha256": "e77cca6834e87f210879cb0878762ba1c757fded7987f1705cead8b826fd6b6d",
+  "summary": "Three supported repairs (2 short / 1 careful) retire the hostile-door template. Rows 1–3 drop a sensed broken passage, an angry self-sealing barricade and a flying splinter: the sheet now runs on the flame grade against the posted scale, the prohibition that is the seal, and the only escalation this holding has — a name, a grade, a step. Two one-line Story Log stubs grow into the watch record and the counselor's leave-taking practice that the file already documents elsewhere. Whole design HELD; fresh +1 Types / +1 Weapon / +0 SE.",
+  "commentary": "Nothing here went wrong — a lawful settlement, signed by seven people, fair on its face — and the door is still burning. The Gardens office shows visitors the paperwork before the door, and after six years of the flame series it is the paperwork that explains the fire.",
+  "reasoning": "R-33 chain: Object/Place / Echo-II / Moderate-β / Outside Sorrow → a household divided by an Echo incident and settled lawfully, without dispute, and never reassembled → a freestanding broken door with a persistent flame, a rectangular shadow no wall casts, and an opening that gives onto the instant before a break → work is side-position flame grading and a mention ledger; the handle turns only with a name, and in six years it has injured four people, all holding it → failure is conversational — a departure spoken within earshot raises the grade in about forty seconds. Rows may not invent splinter projectiles, seals of wrath, or passage anywhere; identity forks stay HELD.",
+  "history": "Fresh credit is proven by negative search: across CHANGELOG, both archived volumes, WORK_IN_PROGRESS and the evidence directory, set 757 shows only an R-29 observation-log digit fix, an item-page Appearance expansion (batch 14) and an SVG remake — none an independent full-set or exact pair review, and the dossier has no unit evidence file before this one. The exact set SE-757-A/B/C/D (Door to No One) and Registry rows 847–850 are identity-resolved here for the first time in the independent pass: fresh +1 Types / +1 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "Weapon identity fork: the primary's Broken Lintel-Dagger (chisel-bladed, threshold-pivot) versus the item file and Registry row 848 *The Broken Fang*; the Registry disposes no numbers (Variable / - / -). The primary's strike carries the sound of a door closing; no form was normalised either way.",
+    "Set-name and slot forks: Side Codex 'Door to No One' versus primary 'Broken Door'; Stigma Tail / 5% / +1 unnamed working stat in the primary versus the Registry's generic Accessory / 5%. The unnamed stat stays unnamed, as the file deliberately keeps it.",
+    "The room seen through the opened frame is documented as not a place — forty-one channels, no two name-lists alike, an eleven-page Archive composite keeping its contradictions in the margin. Nothing in this review asserts a geography for it."
+  ],
+  "split": [
+    2,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "combat_first_three",
+      "kind": "careful",
+      "careful": true,
+      "old": "| { *The Splintered Frame* [**Debuff**] } | \"The door is in pieces — and every splinter still carries the shape of the threshold it was.\" | [The Door's fragments retain their threshold-nature; the target senses a passage that does not work.] | *Target suffers -10 Resilience; the broken passage is frustrating.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Door. |\n| { *The Sealed Opening* [**Debuff**] } | \"The broken door has sealed itself with its own wreckage — and the seal is angry, intentional.\" | [The Door's self-sealing barricade blocks the target; the wreckage is hostile.] | *Target loses 10 Resilience; the door does not want to be passed.* **[10 Grudge DMG [Grudge]]** | When the target tries to cross. |\n| { *The Flying Splinter* [**Attack**] } | \"A shard of broken door launches — sharp, wooden, carrying the anger of being the barrier AND the breach.\" | [A splinter-projectile strikes.] | *Inflicts Grudge pressure and one jagged, wooden wound.* **[14-22 Grudge DMG [Grudge]]** | When the Door is disturbed. |",
+      "new": "| { *The Splintered Frame* [**Debuff**] } | \"Two boards and one hinge are missing, and the flame burns across the gaps without closing them.\" | [There is no splinter to sense. What the worker reads is the grade: flame every ten minutes against the posted scale, hinge angle against the plumb mark, and a rectangular shadow with no wall to cast it.] | *-10 Resilience in whoever stands in front of the opening instead of at the side of the frame; the doorway gives onto the instant before a break, not onto a place.* **[10 Grudge DMG [Grudge]]** | When a worker takes the front position rather than the side one. |\n| { *The Sealed Opening* [**Debuff**] } | \"A door with no wall cannot be shut, and nothing here seals anything.\" | [The opening is impassable because it does not lead anywhere a person could be afterward. The prohibition is the seal, and it is the first line of the booking form.] | *-10 Resilience; the failure here is conversational — a departure mentioned within earshot raises the grade within about forty seconds.* **[10 Grudge DMG [Grudge]]** | When somebody within earshot begins talking about a person who left. |\n| { *The Flying Splinter* [**Attack**] } | \"In six years it has injured four people, and every one of them was holding the handle.\" | [No projectile and no wound. The escalation has one shape: a name, a grade, a step — and the person who steps toward the frame denies having moved.] | *Grudge pressure lands as the need to say something to somebody who is not present; personnel leave the Gardens composing conversations they will not have.* **[14-22 Grudge DMG [Grudge]]** | When the handle is turned while a name is spoken — the only combination of four that has ever opened it. |"
+    },
+    {
+      "id": "story_entry2_watch_record",
+      "kind": "short",
+      "careful": false,
+      "old": "**Entry 2 — <Excerpt from Echo Gardens Watch Record, Year 4238>**\nIts flame grows when visitors attempt to force reunion.",
+      "new": "**Entry 2 — <Excerpt from Echo Gardens Watch Record, Year 4238>**\nGrade one at the start of the watch and two by mid-afternoon, tracking foot traffic rather than anything the watch did: three departures mentioned within earshot, all by visitors, all logged with the hour and the speaker. Its flame grows when visitors attempt to force reunion. Nobody inside four metres. Hinge angle unchanged against the plumb mark; rain reached the frame twice and the flame did not move, entered because the negative result is the useful one."
+    },
+    {
+      "id": "story_entry3_counselor",
+      "kind": "short",
+      "careful": false,
+      "old": "**Entry 3 — <Counselor's Note on Leave-Taking>**\nThe anger of being forced to leave before goodbye or explanation.",
+      "new": "**Entry 3 — <Counselor's Note on Leave-Taking>**\nThe anger of being forced to leave before goodbye or explanation. The local practice is small and oddly hard to keep: everybody who leaves this holding says that they are leaving — aloud, to the person they are handing over to, with the time and the expected return. It feels theatrical on a quiet afternoon, lapses within a fortnight of any supervisor ceasing to model it, and has been reinstated three times. A facility that cannot manage an announced departure has no standing to work this entity at all."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-O-IIβ-757_Broken_Door_부서진_문.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.006  clean   535 grams  M.A.W. Equipment\n 0.004  clean   702 grams  Activation Behavior\n 0.003  clean   657 grams  감각 묘사 (Flavor Text)\n 0.000  clean   729 grams  Combat Record\n 0.000  clean   417 grams  기록 (Registrum)\n 0.000  clean   378 grams  관찰 기록 (Observation Log)\n 0.000  clean   354 grams  이야기 (Narratio)\n 0.000  clean   321 grams  이야기 보고 (Story Log)\n 0.000  clean   304 grams  Appearance\n 0.000  clean   267 grams  Operational Parameters\n 0.000  clean   219 grams  Behavior\n 0.000  clean   201 grams  Trivia\n 0.000  clean   198 grams  Watch Record\n 0.000  clean   155 grams  Origin\n 0.000  clean    78 grams  최종 관찰 (Final Observation)\n 0.000  clean    39 grams  SECC Classification\n 0.000  clean    38 grams  증언 (Testimonium)\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "  153   1  > **This Relic is Capable of Sector / Facility Alteration**\n  204   2  **Activation reporting order:** handle turned, by whom, with what intent → whether a name was spoken and whose → first change in t\n  223   1  **Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's s\n  253   2  **Effect:** +1 to the working stat on this holding's own cycles and nothing elsewhere — a limitation the Armoury considers appropr\n  351   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.001  (8 shared shingles)  SE-O-IIβ-757_Broken_Door_부서진_문.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-A__SIDE_CODEX_Door_to_No_One.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-B__MAW-W_The_Broken_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-C__MAW-S_The_Broken_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-D__MAW-G_The_Broken_Hinge.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-A__SIDE_CODEX_Door_to_No_One.md": "cfdfffc44486311aa5c998a4d7f80751d520ea31b2e35c3aef4d228e1a324a8e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-B__MAW-W_The_Broken_Fang.md": "07b7673393f10746a9f82ebb9e3490dca29085b269f7ffa622a6ead747d62bea",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-C__MAW-S_The_Broken_Plate.md": "e013fe14866230cc98c9f3d8420dc9a70420126596117df595c1abf5bdfe16ed",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-D__MAW-G_The_Broken_Hinge.md": "10842292ea951396fb1029be15e232df5b11f19583fc09c23d17e39e2651e28c",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 1,
+    "weapon": 1,
+    "se": 0
+  },
+  "link": "[[SE-O-IIβ-757_Broken_Door_부서진_문](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-757_Broken_Door_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%AC%B8.md \"SE-O-IIβ-757_Broken_Door_부서진_문.md\")]",
+  "table_link": "[Broken Door](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-757_Broken_Door_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%AC%B8.md \"SE-O-IIβ-757_Broken_Door_부서진_문.md\")",
+  "reading": {
+    "before_lines": 444,
+    "before_bytes": 45070,
+    "final_lines": 444,
+    "final_bytes": 46596
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 87,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

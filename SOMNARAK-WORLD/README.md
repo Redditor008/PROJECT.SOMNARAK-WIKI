@@ -11,13 +11,13 @@
 > Before reading any other file, dossier, or codex in `SOMNARAK-WORLD/`, you **MUST** read **[`Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md`](Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md)** to achieve 100% full context of the world's cosmology, core metaphors, and societal laws!  
 > For the complete 5-stage reading roadmap and contextual guide, see **[`README_FIRST.md`](README_FIRST.md)**.
 
-> **Whole-Universe Wiki Part (Out-of-Universe, Cleaner Overview):** For a **Description + Information + Explanation** distillation of this entire archive — matching the `Abnormalities` page clarity (Overview / Behavior / Origin / Enkephalin / E.G.O / Related Entities / Gameplay / Tool / Classification / Codex / Trivia / Navigation) but **natively for our universe** — see `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md` — citable as [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] · [[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)] companion.
-
 ---
 
 ## Welcome to the World of Somnarak (소마나락)
 
 This directory is the dedicated, **100% in-universe archive** for the world of Somnarak. Every file and subfolder within `SOMNARAK-WORLD/` is written from within the reality of Somnarak — as official containment dossiers, tactical logs, operational codices, field surveys, and psychological evaluations.
+
+> **PURITY RULE — what this tree may not contain.** `SOMNARAK-WORLD/` holds Somnarak canon only. No document here may describe another universe's systems, borrow another setting's vocabulary as authority, or wear Somnarak archival letterhead while discussing something that is not Somnarak. Comparison, conversion, and craft-research material lives outside this tree in [`../PROJECT_MOON_RESEARCH/CROSS_VERSE/`](../PROJECT_MOON_RESEARCH/CROSS_VERSE/README.md), which is reference only and never canon.
 
 > *"Somnarak is not a city you visit. It is a city that happens to you. Built atop the grave of unaddressed grief, sustained through disciplined containment, and awaiting the dawn."*
 
@@ -41,21 +41,20 @@ Somnarak is a towering subterranean and surface metropolis of 1.29 billion souls
 SOMNARAK-WORLD/
 ├── README.md                           # This sovereign dispatch and archival guide
 │
-├── Master_Codices/                     # 49 Macro-Canon Codices across 6 Subfolders
+├── Master_Codices/                     # 44 Macro-Canon Codices across 5 Subfolders
 │   ├── README.md                       # Master classification & reading roadmap
-│   ├── 01_Cosmology_and_World_Order/   # Cosmology, The Weeping, The Doorspeech (7 codices)
-│   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Absolvohan, Caravan (6 codices)
-│   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, MAW Codex, Workshops, Ordeals (7 codices)
-│   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Syndicates, Cadres (9 codices)
-│   ├── 05_Entities_Tales_and_Fractures/ # Entity Codex, Tales, Named Fractures, Enemies (5 codices)
-│   └── 06_Integrity_Audits_and_Comparative_Studies/ # Comparative Integrity & System Audits (4 codices)
+│   ├── 01_Cosmology_and_World_Order/   # Cosmology, The Weeping, The Doorspeech (9 codices)
+│   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan (6 codices)
+│   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, M.A.W. Codex, Han Relics, Lumen, Ordeals, Taboo Resonance, Workshops (9 codices)
+│   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Syndicates, Cadres (13 codices)
+│   └── 05_Entities_Tales_and_Fractures/ # Entity Codex, Entities, Tales, Named Fractures, Relic Entities, Enemies, Wound Walkers (7 codices)
 │
-├── Sorrow_Entities/                    # 291 Unique Canonical Containment Dossiers & Origin Tales
+├── Sorrow_Entities/                    # 290 Unique Canonical Containment Dossiers & Origin Tales
 │   ├── README.md                       # SECC classification guide & work affinities
 │   ├── SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md
 │   ├── SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md
 │   ├── SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md
-│   └── ...                             # (291 bespoke dossiers: 158 City, 61 Outside, 72 Inner)
+│   └── ...                             # (290 bespoke dossiers: 157 City, 61 Outside, 72 Inner)
 │
 ├── Echo_Cores/                         # The Nine Departmental Directors of Facility 01
 │   ├── README.md                       # Facility 01 hierarchy and departmental roles
@@ -67,7 +66,9 @@ SOMNARAK-WORLD/
 │   ├── THE_BORDER_LEAD.md              # Echo-Core 6: Mellda (Floor 5 — Border & Defense)
 │   ├── THE_ARCHIVE_LEAD.md             # Echo-Core 7: Marjuk (Floor 6 — Vault & Archive)
 │   ├── THE_OUTSIDER.md                 # Echo-Core 8: Ishall (Floor 7 — Shadow Operations)
-│   └── THE_EXILE.md                    # Echo-Core 9: Xyan (Floor 8 — The Final Gate)
+│   ├── THE_EXILE.md                    # Echo-Core 9: Xyan (Floor 8 — The Final Gate)
+│   └── Backstory_Extended/             # Scene-level extended histories — all nine filed
+│       └── 01_ … 09_ …                 # Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, Marjuk, Ishall, Xyan
 │
 ├── The_Absolvohan/                     # Chronological Shift Logs (Days 0–365) & Facility Saga
 │   ├── README.md                       # 366-day operational chronicle & The Quiet Season
@@ -164,4 +165,4 @@ SOMNARAK-WORLD/
 
 ## Archival Classification Notice
 
-This archive (`SOMNARAK-WORLD/`) is strictly reserved for canonical documents authorized by the Sovereign Council of Sighs and the Five Sovereign Institutions. All materials contained herein are authenticated records of municipal, expeditionary, and containment reality. Classified under Sovereign Archival Protocol 01.
+This archive (`SOMNARAK-WORLD/`) is strictly reserved for canonical documents authorized by the Sovereign Council of Sighs and the Five Main Companies; the Memory Archive is preserved separately as a non-commercial sovereign sanctuary. All materials contained herein are authenticated records of municipal, expeditionary, and containment reality. Classified under Sovereign Archival Protocol 01.

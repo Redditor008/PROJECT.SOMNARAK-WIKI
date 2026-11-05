@@ -93,8 +93,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1043_Miasma/SE-1043-C__MAW-S_Miasma_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1043_Miasma/SE-1043-D__MAW-G_Miasma_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
   ],
   "reasoning": "Full381-line primary and exact1043A–D read; full primary appearance/rolling route/nofigures/physicalpeople/Work/clearance/equipment chain examined. Predeclared R18 0batch-short/12careful-detail: mobilefog versus fixedposts/type/speed, δrole, malformed Tension, cordonClash/suppression, repeatedabilityword, unpromissory FinalObservation, visible/timeddwell interaction comparison, concrete bank/recollection/route/derivedgear profile and exactitem attribution/care. No new founding grief, particulate substance or creature supplied.",
@@ -118,8 +118,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1043_Miasma/SE-1043-C__MAW-S_Miasma_s_Veil.md": "01dfe4ad53d8fa70bf43151d45ec83029a5ed4c86b537eac330560475d2f8191",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1043_Miasma/SE-1043-D__MAW-G_Miasma_s_Token.md": "121a735c8689d4a590d930fb85ac3080822074bd8569953ddb68fe2beda88ecf",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"
   },
   "outputs": {

@@ -73,7 +73,7 @@ To experience and understand this archive with maximum clarity, follow this reco
 |                          | SOMNARAK_BATTLE_SYSTEM.md ->                |
 |                          | SOMNARAK_WORKSHOPS.md                       |
 +------------------------------------------------------------------------+
-| Stage 4: The 291 Sorrow  | Sorrow_Entities/ (SE-C-IVw-001 The Maw      |
+| Stage 4: The 291 Sorrow  | Sorrow_Entities/ (SE-C-IVω-001 The Maw      |
 | Entities (Dossiers)      | through SE-001 to 997; observe Two-Work Rule|
 |                          | for Object/Place: Viderehan & Ferrehan only)|
 +------------------------------------------------------------------------+

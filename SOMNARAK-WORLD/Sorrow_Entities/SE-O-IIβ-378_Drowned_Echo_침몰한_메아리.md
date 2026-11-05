@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — A submerged presence inside consciousness — perceived as a voice beneath dark water, calling from far below. Salt-cold, it smells of cold rain; no body, only the slow muffled cry rising from the deep. |
+| **Physical Form** | Non-Organic |
 | **Movement** | No visible travelling body. Calls are located by the listener and, during breach, by reception on the tunnel communication circuit. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, taken in a dry tunnel by a party carrying air bottles they do not need. The bottles are protocol: three Wardens have reported being unable to breathe and all three were in moving air at the time. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **SE Effect** | **On the breach** — An unacknowledged cycle does not breach. The interval lengthens by a second or two and the next cycle opens higher, and the lengthening has never reversed. |
+| **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
+| **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -38,7 +40,7 @@
 
 ### Operational Notes
 
-- A cycle lowers the gauge and shortens nothing. The interval between calls has run between eleven and forty seconds for nine years and has never closed; the voices do not arrive faster for being answered.
+- A cycle lowers the gauge and shortens nothing. The interval between calls has run between eleven and forty seconds for nine years and has never closed. The voices do not arrive faster for being answered.
 - Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
 - The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
 - No M.A.W. extraction comes as a courtesy of the work; it is a risk event of its own and is never treated as a reward.
@@ -50,7 +52,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.45 m/s — listed parameter without an observed body or measured traversal to attach it to; do not use it to plot a swimmer’s route |
+| **Speed** | 1.45 m/s — listed parameter without an observed body or measured traversal to attach it to. Do not use it to plot a swimmer’s route |
 | **Resistance** | 25% against Lament. There is nothing present to resist — no water, no figure, no instrument reading — and no bodily target is supplied by this resistance percentage. Carry the watch and the prescribed air bottles; the absence of physical floodwater does not cancel the breathing protocol. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
@@ -86,7 +88,7 @@
 ### Battle Phases
 
 1. **Tension:** At the dry lower cut, check current air and the external voice anchor, carry the prescribed bottles and start the watch. Read the shift list beforehand so every name can be pronounced. These present-day checks are not a deployment of rescue equipment against the historical flood.
-2. **Clash:** The work is answering. Flerehan is saying aloud that the call was heard and lowers the reading; Ferrehan is staying on the slate until the cry's interval lengthens; Pugnahan is shouting back into the memory and raises it. Nothing is promised. The one forbidden act is to answer with a rescue the team does not intend to attempt.
+2. **Clash:** The work is answering. Flerehan is saying aloud that the call was heard and lowers the reading. Ferrehan is staying on the slate until the cry's interval lengthens. Pugnahan is shouting back into the memory and raises it. Nothing is promised. The one forbidden act is to answer with a rescue the team does not intend to attempt.
 3. **Resolution:** Every call heard during the cycle is acknowledged aloud and the names are read. The gauge falls with the count of acknowledgements, one point each, which is the plainest arithmetic in the archive and the reason the cycle length is set by the tunnel log rather than by the clock.
 
 ### Consequences
@@ -125,7 +127,7 @@
 | **Position / movement** | No body and no position; it occupies the communication circuit and is located by where the cry is heard. |
 | **Material / signature** | No visible form and no recordable sound: ordinary audio equipment returns silence, and nine attempts are on file. Record the interval between calls to the half-second, the number of distinct voices, and the tunnel log's acknowledged-call count for the week. |
 | **Distinctive markers** | Speech near it arrives as though through water, including the speech of the living. It is strongest in the driest stretches, which the station has verified three times with a hygrometer because nobody believes it. |
-| **Identification** | Verify against the SECC code before work or contact begins; there is no physical marker, and the identification rests on the interval, the submerged quality of nearby speech, and the absence of any instrument reading but pressure. |
+| **Identification** | Verify against the SECC code before work or contact begins. There is no physical marker, and the identification rests on the interval, the submerged quality of nearby speech, and the absence of any instrument reading but pressure. |
 
 **Appearance protocol:** There is no surface to log. Record the perceived depth of the voice, the interval between cries to the second, whether the cry is one voice or several, and the point at which speech between personnel begins to sound submerged, measured in metres from the board. Use the slate. Specific language only; the entity is not 'unsettling', it is a four-second interval.
 
@@ -140,10 +142,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The water recedes slightly and the voice rises. | Decrease |
-| **Pugnahan** | Pressure increases and the voice sinks. | Increase |
-| **Viderehan** | Shows fragments of the flooded tunnel. | Stable |
-| **Ferrehan** | Tests whether the worker can breathe through the memory. | Decrease |
+| **Flerehan** | The water recedes slightly and the voice rises. | Decrease · High |
+| **Pugnahan** | Pressure increases and the voice sinks. | Increase · Low |
+| **Viderehan** | Shows fragments of the flooded tunnel. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can breathe through the memory. | Decrease · Common |
 
 
 
@@ -160,7 +162,7 @@ The Work Type rows are steady and the arithmetic underneath them is not in the t
 |---|---|
 | **Breach Type** | Transform |
 | **Movement** | It travels along the tunnel communication circuit rather than through the air, and arrives wherever calls are received. It has never been recorded in a room without a handset. |
-| **Effect** | Every open channel carries the cry at its current interval, and operators cannot distinguish it from a live call; three real calls were logged as the entity during the second event. |
+| **Effect** | Every open channel carries the cry at its current interval, and operators cannot distinguish it from a live call. Three real calls were logged as the entity during the second event. |
 | **Secondary Effect** | Personnel in the room feel the pressure of speaking underwater and write rather than talk, which is the standing practice anyway. |
 | **First Target** | The duty operator, and only the duty operator. It has never addressed anybody who was not at the board. |
 | **Escalation** | The interval halves each turn the board goes unanswered and resets to baseline the turn an operator speaks into the channel, whatever they say. |
@@ -168,7 +170,7 @@ The Work Type rows are steady and the arithmetic underneath them is not in the t
 ### Escalation Notes
 
 - **Breach type:** The submerged quality spreads to living speech across the lower network. Nothing moves and nothing appears; people simply stop being able to make themselves heard, which in a tunnel system is its own hazard.
-- **Containment priority:** Do not clear the comms room and do not close the circuit; the one closure on record shortened the interval to four seconds and it stayed there for nine days. Keep a named operator at the board and have them acknowledge every call, including the entity's.
+- **Containment priority:** Do not clear the comms room and do not close the circuit. The one closure on record shortened the interval to four seconds and it stayed there for nine days. Keep a named operator at the board and have them acknowledge every call, including the entity's.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each distress call in the tunnel system closed without a logged acknowledgement — not without a rescue, without an acknowledgement. It falls 10% for each such call reopened and answered, even years late, and the station has done that eleven times from the archive alone.
 
 ## M.A.W. Equipment
@@ -179,7 +181,7 @@ The Work Type rows are steady and the arithmetic underneath them is not in the t
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : A forty-two inch hand-and-a-half longsword forged from blackened marine iron, featuring a straight crossguard, faceted scent-stopper pommel, and a hilt wrapped in salted ray-skin.
+**Appearance:** A forty-two inch hand-and-a-half longsword forged from blackened marine iron, featuring a straight crossguard, faceted scent-stopper pommel, and a hilt wrapped in salted ray-skin.
 
 Cold seawater constantly sweats from the fuller grooves, pooling along the quillons and dripping steadily. Gash strikes release pressurized torrents of freezing brine that douse flame attacks.
 
@@ -191,7 +193,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Ability:** Lament against the Mind. Targets afterwards cannot be sure anything they said was received, and will ask — repeatedly, politely — for a few hours. Fourteen strikes, fourteen identical reports.
 
-**Cost:** The wielder weeps involuntarily, and can no longer leave a question unanswered in conversation, which colleagues report as exhausting.
+**Bearer cost:** The wielder weeps involuntarily, and can no longer leave a question unanswered in conversation, which colleagues report as exhausting.
 
 ### M.A.W. Suit — The Drowned Shroud
 
@@ -207,9 +209,9 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Turns Lament aside from the mind, which is the only register this holding occupies. What it buys is the hour it takes for the interval to be measured properly, and nothing else; it does not make the voices easier to hear.
+**Ability:** Turns Lament aside from the mind, which is the only register this holding occupies. What it buys is the hour it takes for the interval to be measured properly, and nothing else. It does not make the voices easier to hear.
 
-**Cost:** The wearer goes numb to minor joys, and hears their own speech as if it were coming from the next room.
+**Bearer cost:** The wearer goes numb to minor joys, and hears their own speech as if it were coming from the next room.
 
 **Shroud anchor and care:** Bind only with an external voice anchor and a current air check. Inspect the dry breath line before wear, then dry the piece in open air while a partner confirms the wearer's present breathing rhythm. The recorded failures are treating memory as physical water, an anchor who shouts, and following an unreachable call. Resistance is not permission to enter the remembered inundation or dispense with the partner.
 
@@ -225,7 +227,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Ability:** Carries a voice through submerged or sealed spaces.
 
-**Cost:** The wearer hears calls from people who cannot be reached.
+**Bearer cost:** The wearer hears calls from people who cannot be reached.
 
 *The stigma is not manufactured. It is given to a Warden who answered the call without offering anything, and has never been given to one who told it that help was on the way.*
 
@@ -246,7 +248,7 @@ Both pieces came out of voices that were never received, and they take the same 
 
 **Stat interpretation:** A β-grade set whose cost is a question asked too often, which no medical examination will find and any clerk can count. Authorise on the tally.
 
-**Full-set source review (2026-10-13):** Audited the full M.A.W. set and related claims against exact `SE-378-A` (`O-IIβ-378 [LS]`, `SE-378`, `4/4`), B/C/D, Registry 647–650, Master M.A.W. 634–636, Entity Codex row 581 / Tale 212, and `MAW-W-378`. Side A and all items grade β; the blank overview now records `— · β`. Item D supports `+1 Clarity`. Hold primary/Master-table/archetype *Deluge Longsword* against linked item B and Master Entry 634 *Drowned Requiem*, whose Appearance is a diving bell; Lament 5–9 / Speed 2 / Range 2 / max 4 / 25 Echoes agrees, but no transition joins the forms. Side B's Single / 100% pattern and coverage remain unstated locally and were not imported. Suit resistances align. Local/Side Stigma Tail / 5% agree, while the Master table's Floating-Orb/Coronet category and Registry's generic Accessory slot do not settle the physical slot. Use Notes' “both pieces” remains scoped to its shared charge; the Bell's unreachable-call toll stays distinct. No linked evidence changed. First source-led pair: `SE-378-B`.
+**Full-set source review (Year 4238):** Audited the full M.A.W. set and related claims against exact `SE-378-A` (`O-IIβ-378 [LS]`, `SE-378`, `4/4`), B/C/D, Registry 647–650, Master M.A.W. 634–636, Entity Codex row 581 / Tale 212, and `MAW-W-378`. Side A and all items grade β; the blank overview now records `— · β`. Item D supports `+1 Clarity`. Hold primary/Master-table/archetype *Deluge Longsword* against linked item B and Master Entry 634 *Drowned Requiem*, whose Appearance is a diving bell. Lament 5–9 / Speed 2 / Range 2 / max 4 / 25 Echoes agrees, but no transition joins the forms. Side B's Single / 100% pattern and coverage remain unstated locally and were not imported. Suit resistances align. Local/Side Stigma Tail / 5% agree, while the Master table's Floating-Orb/Coronet category and Registry's generic Accessory slot do not settle the physical slot. Use Notes' “both pieces” remains scoped to its shared charge; the Bell's unreachable-call toll stays distinct. No linked evidence changed. First source-led pair: `SE-378-B`.
 
 ## 관찰 기록 (Observation Log)
 
@@ -306,7 +308,7 @@ Your ears fill with water though your clothes remain dry. A voice speaks beneath
 
 **At first contact:** The tunnel remains dry and there is no figure for the eyes to resolve. The call feels below you and under water; the pressure and the altered quality of nearby speech are the reported signs. Write the first interval on the slate without describing an unseen body as if it had been observed.
 
-**With continued exposure:** You start to tell them apart. By the third cycle the voices are individuals, and by the tenth a Warden can say which of the thirty-one is calling; the station regards that as competence and schedules around it, because a party that cannot tell them apart cannot acknowledge them properly.
+**With continued exposure:** You start to tell them apart. By the third cycle the voices are individuals, and by the tenth a Warden can say which of the thirty-one is calling. The station regards that as competence and schedules around it, because a party that cannot tell them apart cannot acknowledge them properly.
 
 **When the entity activates:** The interval collapses and they arrive together, from the same depth, in a dry tunnel — and your own voice stops being audible to you while it lasts.
 
@@ -325,11 +327,11 @@ Nine sessions across three holdings, each timed to the half-second. The table se
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hollow Echo** | Also an unanswered call; the obvious counterpart. | Four sessions. The interval lengthened by three to six seconds each time and did not recover. The station now treats this pairing as costly and has not run it since Year 4,233. | Interval to the half-second, before, during and a week after. |
+| [**The Hollow Echo**](SE-N-IIα-125_Hollow_Echo_빈_메아리.md) | Also an unanswered call; the obvious counterpart. | Four sessions. The interval lengthened by three to six seconds each time and did not recover. The station now treats this pairing as costly and has not run it since Year 4,233. | Interval to the half-second, before, during and a week after. |
 | **The Sunken Bridge** | Carries drowned voices of its own; the only party that has ever shortened the interval. | Three sessions. The interval fell to eight seconds and stayed short for a fortnight — the only improvement on record — and nobody has been able to repeat it on demand. A fourth session is requested annually. | Interval, and both parties' voice counts. |
 | **The Sorrow River** | Receives, in theory, what flows down to it. | Two sessions, no change in the interval and nothing received that either station could identify. The entry is retained to stop the pairing being proposed as a disposal method, which it has been twice. | Interval; the entry is closed. |
 
-**Interaction procedure:** Baselines first, and here a baseline is twenty minutes of timed intervals rather than a gauge reading. Bring the second party along the cut, never into the lower chamber, and time throughout; two of the nine sessions showed their effect only in the week afterwards.
+**Interaction procedure:** Baselines first, and here a baseline is twenty minutes of timed intervals rather than a gauge reading. Bring the second party along the cut, never into the lower chamber, and time throughout. Two of the nine sessions showed their effect only in the week afterwards.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -361,22 +363,22 @@ Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices t
 **Common Name:** Drowned Echo
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. Nine years, 188 cycles, four chorus events, fourteen strikes, no fatalities and no lasting injury — against thirty-one people who called from under the city and an interval that has grown from eleven seconds to forty.
+**Threat Assessment:** Moderate. Nine years of the tunnel log, four chorus events, fourteen strikes, no fatalities and no lasting injury — against thirty-one people who called from under the city and an interval that has grown from eleven seconds to forty.
 **Containment & Handling Procedures:**
 - Check current air and keep the voice anchor calm; use the slate for operational messages when living speech starts to sound submerged.
 - Keep a named operator at the board. Log and acknowledge every call, including a call for which no rescue will be attempted.
-- Do not clear the comms room or close the circuit to stop the cry; preserve both the live-call record and the entity interval so one is not discarded as the other.
+- Do not clear the comms room or close the circuit to stop the cry. Preserve both the live-call record and the entity interval so one is not discarded as the other.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** The Hollow Echo (costly; not run since Year 4,233), The Sunken Bridge (the one shortening), The Sorrow River (closed), the lower-cut shift list of thirty-one, and the tunnel log's acknowledgement column.
+- The formation is a payroll list. Thirty-one workers of the lower cut were entered that morning because the shift had to be paid, and that is the entire and only record of who was below when the cut flooded in under four minutes.
+- The engagement history is measured in intervals: the gap between board calls halves each turn the board goes unanswered and resets on the turn an operator speaks into the channel, whatever they say.
+- Each piece is drawn under a separate authorisation, and the price is on the record before anybody signs for it.
+**Cross-References:** The [Hollow Echo](SE-N-IIα-125_Hollow_Echo_빈_메아리.md) (costly; not run since Year 4,233), The Sunken Bridge (the one shortening), The Sorrow River (closed), the lower-cut shift list of thirty-one, and the tunnel log's acknowledgement column.
 **Faction Involvement:** SED (D-territory exploration)
 **Originator:** The thirty-one of the lower cut, named in the payroll list reproduced in the Origin section. The archive uses that list and no other, and notes in the folder why a payroll document is the most reliable thing it holds.
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding is answered by a column in a log book. Every distress call in the tunnel system that is closed without a logged acknowledgement costs ten points; every one reopened and answered recovers ten, even years later, and the station has recovered a hundred and ten points that way from the archive alone. None of that work happens at the site. What happens at the site is thirty-one names read aloud and the word *heard* said to each call as it arrives, which lowers the gauge one point at a time and is the only part of the job that anybody has ever described as worth doing.
+**Operational interpretation:** This holding is answered by a column in a log book. Every distress call in the tunnel system that is closed without a logged acknowledgement costs ten points. Every one reopened and answered recovers ten, even years later, and the station has recovered a hundred and ten points that way from the archive alone. None of that work happens at the site. What happens at the site is thirty-one names read aloud and the word *heard* said to each call as it arrives, which lowers the gauge one point at a time and is the only part of the job that anybody has ever described as worth doing.
 
 **Review requirement:** After any event: interval before and after, voices counted, names read, and the week's tunnel log with every closure and its acknowledgement status listed individually. Two further items. Any distress call closed without acknowledgement is reported to this station the same day, whatever the outcome of the call. And the archive's unacknowledged backlog is worked through at a rate of at least one a quarter, because it is the only action on record that has ever bought the gauge back.
 ## Watch Record
@@ -409,7 +411,7 @@ An inundation drowned workers and their last calls stayed beneath the city, and 
 - **Classification detail:** Drowned Echo is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Lament, in the dry lower cut of the Zone B tunnels, worked with a watch, a shift list and a log book.
 - **Recognition detail:** There is nothing in the room to identify. Verification is by self-report taken on leaving: a voice perceived from beneath a dark surface, speech between personnel acquiring an underwater quality, and pressure arriving where words should be. The weakness of this evidence is stated at the front of the folder and the holding has never claimed any other kind.
-- **Record detail:** Check the designation before approach. The archive holds more than one record of the deep tunnels, and they differ on what the containment requires — Stranded Between Two Shores requires that both ends of a working be staffed, while this one requires only that a call be marked as heard, and the second is cheap where the first is not.
+- **Record detail:** Check the designation before approach. The archive holds more than one record of the deep tunnels. And they differ on what the containment requires — Stranded Between Two Shores requires that both ends of a working be staffed. While this one requires only that a call be marked as heard. And the second is cheap where the first is not.
 - **Containment detail:** There is nothing to contain and no boundary to hold. The holding is a sound in a tunnel; the only measure the station maintains is that somebody goes down and answers it.
 ## Document Information
 

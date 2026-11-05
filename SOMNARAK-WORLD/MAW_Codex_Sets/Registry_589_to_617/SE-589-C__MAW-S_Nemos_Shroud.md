@@ -65,14 +65,3 @@ The suit’s left panel remains blank even under pressure, preserving the right 
 Charm holds a tear-name, Shroud sustains honest reception, and Blade treats present injury. Their combined effect recognizes arrival without manufacturing a recovered past.
 
 > *“Not knowing him was true. Closing the door because of it would have been a choice.”* — Specialist Haneulash Yoon
-
----
-
-**Document ID:** `SE-589-C`  
-**Linked Entity:** `SE-589`  
-**Item Registry Code:** `MAW-S-589-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

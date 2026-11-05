@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-757 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — A broken door standing alone in the Echo Gardens, its charred frame burning with a small fire that never goes out and never spreads. Fever-warm, it smells of cold rain and char; a way out that broke, and keeps trying to open. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,10 +28,12 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, and the figure is seasonal rather than fixed: the Gardens office's six-year series puts the autumn average at 17 and the late-winter average at 13, tracking the flame grade and nothing else anyone has been able to identify. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the counter** — It opens only onto memories, never physical rooms, and it has opened rarely: the Gardens series holds 201 mentions without contact and 4 contacts, and only the 4 opened it. |
+| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a flame brought down a grade and held there for a while. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter; a structure stands where it is and has never been recorded in transit |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -40,62 +42,69 @@
 ### Operational Notes
 
 - A successful cycle brings the flame down a grade and holds it there for a while. It closes nothing. The door still stands between two halves of a household that was divided without anybody's consent, and no work performed on the frame addresses the division.
-- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 60%; the absence of a count is a property of the holding and not an omission, and no number may be invented to fill the row.
-- The yield is highest exactly when the holding is least safe, because both follow the flame. A grade-four autumn evening is the best cycle on the ledger and also the state in which three of the four handle incidents occurred; the Gardens office caps autumn bookings at two a week for that reason and has refused every request to raise it.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. What is taken from this source is a piece of a threshold nobody chose, and the pieces hold that character: they divide things cleanly and without malice, and the division is not reversible by the person who made it.
+- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 60%. The absence of a count is a property of the holding and not an omission, and no number may be invented to fill the row.
+- The yield is highest exactly when the holding is least safe, because both follow the flame. A grade-four autumn evening is the best cycle on the ledger and also the state in which three of the four handle incidents occurred. The Gardens office caps autumn bookings at two a week for that reason and has refused every request to raise it.
+- Whatever is taken from this source is taken under its own authorisation and never as payment for a cycle well worked. What is taken from this source is a piece of a threshold nobody chose, and the pieces hold that character: they divide things cleanly and without malice, and the division is not reversible by the person who made it.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge. The remaining figure is nominal: nothing has been swung at this holding since Year 4,231, when a demolition order was issued, withdrawn after four days, and has not been reissued. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 30 s, stood at for an offering — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+stood at for an offering on a 30-second clock, so the six come to **180 seconds**. A worn piece
+gets a minute and a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and its own attack row says there is no projectile and no wound: the collapse divides the ground between two people and never strikes them. In six years it has injured four people, and every one of them was holding the handle.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A broken door standing alone in the Echo Gardens with two boards and one hinge missing, its frame burning with a small persistent fire across the gaps. The hinges are attached to no wall, the door hangs against a plumb mark on the ground, and the doorway gives onto the instant before a break. |
+| **Perceptible to** | The fire first, graded every ten minutes against the posted scale. Then the hinge angle against the plumb mark, and a rectangular shadow with no wall to cast it. |
+| **Handling** | The threshold is stood at the side of the frame rather than in front of it, the flame graded and the hinge angle read against the plumb mark. Nobody turns the handle, and nobody closes the door by hand — the Gardens office does not permit the attempt. — see `## Handling Process` |
+| **Activation threshold** | No breach counter; a structure stands where it is and has never been recorded in transit |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Splintered Frame* [**Debuff**] } | "The door is in pieces — and every splinter still carries the shape of the threshold it was." | [The Door's fragments retain their threshold-nature; the target senses a passage that does not work.] | *Target suffers -10 Resilience; the broken passage is frustrating.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Door. |
-| { *The Sealed Opening* [**Debuff**] } | "The broken door has sealed itself with its own wreckage — and the seal is angry, intentional." | [The Door's self-sealing barricade blocks the target; the wreckage is hostile.] | *Target loses 10 Resilience; the door does not want to be passed.* **[10 Grudge DMG [Grudge]]** | When the target tries to cross. |
-| { *The Flying Splinter* [**Attack**] } | "A shard of broken door launches — sharp, wooden, carrying the anger of being the barrier AND the breach." | [A splinter-projectile strikes.] | *Inflicts Grudge pressure and one jagged, wooden wound.* **[14-22 Grudge DMG [Grudge]]** | When the Door is disturbed. |
-| { *The Full Collapse* [**Attack**] } | "The frame comes apart and every piece lands between two people, never on them." | [The collapse divides the ground rather than striking anybody — recorded once, in the Year 4,231 demolition attempt.] | *24–36 Grudge and a 15% Gauge surge to the pair the wreckage lands between; a lone worker takes nothing.* **[24-36 Grudge DMG [Grudge]]** | Only when two or more people attempt to force or dismantle it together. |
-| { *Every Door Breaks* [**Ultimate**] } | "Every door in the Gardens stands open at once and none of them leads anywhere." | [The holding's condition propagates to the thresholds around it: open, attached to nothing, impassable.] | *12–20 Grudge per cycle for three cycles to anyone who tries to pass through one of them; standing still costs nothing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, which the Gardens series records twice, both on the anniversary of the Echo incident. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Door does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Grade* [**Register**] } | The flame burns every ten minutes against the posted scale, the door hangs at an angle against the plumb mark, and a rectangular shadow lies on the ground with no wall to cast it. | All three are read together, because the flame answers speech and the other two answer time. | What moves the flame is not a Work Type: a departure mentioned within earshot raises the grade within about forty seconds, in 186 of 201 logged mentions. |
+| { *The Departure* [**Exposure**] } | The failure here is conversational. A worker who begins talking about somebody who left is already inside it, and the flame will be a grade higher before the sentence is finished. | The first mention is logged, because catching it there is the whole purpose of the ledger. | Every additional minute in front of the opening increases the worker's need to say something to somebody who is not present. |
+| { *The Handle* [**Refusal**] } | No projectile and no wound. The escalation has one shape: a name, a grade, a step — and the person who steps toward the frame denies having moved. | The handle is not turned and the frame is not forced or dismantled. In six years the only attempt was the 4231 demolition, withdrawn after four days. | Four people have been hurt here and every one of them was holding the handle, which is why the prohibition is written as a prohibition rather than as a caution. |
+| { *The Collapse* [**Overload**] } | The frame comes apart and every piece lands between two people and never on them. A lone worker takes nothing at all. | Force and dismantling are not attempted, and a collapse that has already happened is recorded rather than cleared. | The collapse divides the ground rather than striking anybody, which is also why this file transforms rather than escalates. |
 
-1. **Tension:** The team takes the side position, posts the flame scale where both observers can see it, and agrees aloud which of them holds the ledger. No part of the approach requires getting closer than four metres, and the Gardens office treats any approach inside that as the start of an incident rather than part of a cycle.
-2. **Clash:** Sixteen turns, Viderehan and Ferrehan only, worked from the side of the frame rather than from in front of it. The handle is not turned. Nobody stands in the opening, nobody reaches through it, and the flame grade is taken at the start and end of every turn in which a departure is mentioned.
-3. **Resolution:** The cycle closes when the gauge falls below 25% and the leave-taking has been completed — which here is a procedural step rather than a courtesy, and is logged as one.
+### Watch Sequence
+
+1. **What is confirmed:** the flame grade against the posted scale, the hinge angle against the plumb mark, and the plumb mark itself before anybody stands at the threshold.
+2. **What the watch does:** Viderehan shows the moment the home was broken and Ferrehan stays at the threshold. The frame is stood beside rather than in front of, the handle is not turned, and the first mention of a departure is logged.
+3. **How it closes:** **The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt.**
 
 ### Consequences
 
 - The failure here is conversational. A worker who begins talking about somebody who left — their own, usually, not the household in the file — is already inside the failure, and the flame will be a grade higher before they have finished the sentence. The ledger's purpose is to catch this at the first mention.
 - Extended exposure carries a cumulative risk that presents as unfinished business. Each additional minute in front of the opening increases the worker's need to say something to somebody who is not present, and personnel who stay too long leave the Gardens composing conversations they will not have.
-- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: what this source charges is the ability to part from people easily, and the charge is levied on the wielder's ordinary life rather than on their shifts.
-- If the condition is not met the entity transforms rather than escaping: the opening widens, the fire climbs the frame without spreading beyond it, and the Gardens on either side of the door begin to read as two separate places to the people standing in them.
+- Every piece on this set has its cost entered on the equipment file, and the returns have matched it line for line. What this source charges is not optional: what this source charges is the ability to part from people easily, and the charge is levied on the wielder's ordinary life rather than on their shifts.
+- If the condition is not met the entity transforms rather than escaping: the opening widens, the fire climbs the frame without spreading beyond it. And the Gardens on either side of the door begin to read as two separate places to the people standing in them.
 
 ## Appearance
 **Physical Form:** A broken door standing alone in the Echo Gardens, its frame burning with a small persistent fire.
@@ -106,8 +115,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A broken door standing alone in the Echo Gardens, its frame burning with a small persistent fire.
-- **Position / movement:** Fixed and freestanding; record the angle at which the door hangs against the plumb mark on the ground, which changes slowly and has never yet changed toward falling.
+- **Position / movement:** Fixed and freestanding. Record the angle at which the door hangs against the plumb mark on the ground, which changes slowly and has never yet changed toward falling.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Echo Gardens
 
@@ -115,11 +123,10 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A broken door standing alone in the Echo Gardens, its frame burning with a small persistent fire. |
-| **Position / movement** | Fixed and freestanding; record the angle at which the door hangs against the plumb mark on the ground, which changes slowly and has never yet changed toward falling. |
+| **Position / movement** | Fixed and freestanding. Record the angle at which the door hangs against the plumb mark on the ground, which changes slowly and has never yet changed toward falling. |
 | **Material / signature** | Charred wood, iron hinges attached to nothing, and a flame that has neither spread nor gone out in six years. Record the grade, the colour at the base, and whether the rain is reaching it — the Gardens series shows the flame is unaffected by weather, and the entry is kept because the negative result is the useful one. |
 | **Distinctive markers** | The rectangular shadow, cast on open ground with no wall to cast it, and the fever-warmth of the frame against air that smells of cold rain. There are several standing remnants in the Gardens; this is the only one still burning and the only one that casts more than it should. |
-| **Identification** | Check the designation, the element and the manifestation against the file, and confirm the persistent flame and the wall-less shadow together; if any detail contradicts, do not proceed. |
+| **Identification** | Check the designation, the element and the manifestation against the file, and confirm the persistent flame and the wall-less shadow together. If any detail contradicts, do not proceed. |
 
 **Appearance protocol:** Grade the flame first and grade it the same way every time, against the posted scale: height at the frame, colour, and whether it has reached the lintel. The fire never goes out and never spreads, so its size is the holding's instrument and its readings are only worth anything as a series. Record the hinge angle against the plumb mark. Record the shadow, which is rectangular and complete although there is no wall to cast it, and record it in daylight and in lamplight separately because they do not agree. Note what is visible through the opening and note that it is not a place: the doorway gives onto the instant before a break. Describe what is seen without characterising it, and never write that the opening leads anywhere.
 
@@ -130,37 +137,24 @@
 - **The People:** One household, divided by an Echo incident, and the door that stood between its two halves. The commissioning file holds the property division agreed afterwards: an ordinary legal instrument allocating rooms and access, agreed between the parties without dispute, fair on its face. The archivist's note sets those three facts down and then adds the fourth, which is that the family did not remain together.
 - **Expanded origin context:** The division was lawful and the paperwork is clean, which is the part the archivist wanted on the record. There was no quarrel, no fault, and no refusal — only an incident, a boundary that happened to be a door, and a settlement signed by both halves of a household within the month. What the holding preserves is not a wrong but a procedure that worked perfectly and left nobody able to go back through.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A broken door standing alone in the Echo Gardens with two boards and one hinge missing, its frame burning with a small persistent fire across the gaps. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows the moment the home was broken. | Stable |
-| **Ferrehan** | Requires the worker to remain at the threshold. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the flame grade against the posted scale, the hinge angle against the plumb mark, and the plumb mark itself before anybody stands at the threshold. |
+| **Handling** | The observer shows the moment the home was broken and the stander stays at the threshold. The frame is stood beside rather than in front of, the handle is not turned, and the first mention of a departure is logged. |
+| **Withdrawal** | **The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt.**. |
+| **Refusal** | The handle is not turned and the frame is not forced or dismantled. In six years the only attempt was the 4231 demolition, withdrawn after four days. |
 
-
-### Operational Work Notes
-
-The table lists Work Types and the Gardens series has never found one that moves the flame. What moves it is speech: a departure mentioned within earshot raises the grade within about forty seconds, in 186 of 201 logged mentions, regardless of who is speaking, what the Work Type is, or whether the person mentioned has anything to do with the household in the file. The office's standing recommendation is that the Work Type column be read as a formality here and the ledger as the actual instrument.
-
-**Reading the response:** Read it in the flame. A falling gauge presents as a lower grade — the fire sinking toward the sill, the char cooling, the smell of cold rain coming through over the smoke. The pressure eases and nothing is mended; the door still opens onto no one. A rising gauge presents as **hope of return**. The flame climbs, the opening clarifies, and the people in front of it begin to talk about putting the home back as it was — which is the one thing that reliably feeds this fire, and which is not a failure of judgement so much as the ordinary response of decent people to a visible division. The Gardens' own visitor figures track the flame grade through the busy seasons. The relationship is apparent, it is unexplained, and the file prints both series side by side rather than asserting a cause.
 ## Activation Behavior
+
+> **Special activation — no counter.** A structure stands where it is, and the gauge at 60 per cent is the entire activation. No count is listed and none is implied.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **Channel overload on this relic vents outward across the Gardens and holds the flame elevated for nine days**
-
-**Activation Trigger:** Turning the rusted bronze door handle with deliberate intent.
-
-**Effect:** Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes.
-
-**Duration:** Continuous while the door leaf is held ajar.
-
-**Risk:** Looking back through the threshold causes profound vertigo and 10 Void damage.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -188,7 +182,7 @@ The table lists Work Types and the Gardens series has never found one that moves
 
 The escalation here has one shape and the Gardens series has never recorded another: a name, a grade, a step. The three fields worth logging are the name spoken and by whom, the flame grade at forty seconds, and the distance of the nearest person's feet from the frame before and after. Everything else in the standard escalation form has been left blank on this holding for six years.
 
-**Response sequence:** Establish the perimeter on both sides of the frame, since this entity divides rather than contains and a cordon drawn on one side only has twice left personnel on the wrong one. Verify from the flame grade whether the event is an activation, a channel surge, or an expansion, and withdraw unshielded persons in the direction they arrived from. Enforce the recorded protocol. Two actions are prohibited outright during a response and both are instinctive: nobody passes through the opening, because it does not lead anywhere a person could be afterward; and nobody puts the door out, since the fire is the instrument and extinguishing it removes the only reading the responding team has.
+**Response sequence:** Establish the perimeter on both sides of the frame, since this entity divides rather than contains and a cordon drawn on one side only has twice left personnel on the wrong one. Verify from the flame grade whether the event is an activation, a channel surge, or an expansion, and withdraw unshielded persons in the direction they arrived from. Enforce the recorded protocol. Two actions are prohibited outright during a response and both are instinctive: nobody passes through the opening, because it does not lead anywhere a person could be afterward. And nobody puts the door out, since the fire is the instrument and extinguishing it removes the only reading the responding team has.
 
 ### Detailed Activation Record
 
@@ -210,7 +204,7 @@ The escalation here has one shape and the Gardens series has never recorded anot
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-Appearance : A heavy seven-inch chisel-bladed fighting dagger forged from an antique threshold pivot pin, featuring a square ground tip, thick quarter-inch spine, and an iron knuckle bow.
+**Appearance:** A heavy seven-inch chisel-bladed fighting dagger forged from an antique threshold pivot pin, featuring a square ground tip, thick quarter-inch spine, and an iron knuckle bow.
 
 Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly through heavy armor plating and door locks. The notched ricasso serves as an effective blade-catcher against enemy knives.
 
@@ -222,7 +216,7 @@ Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly 
 
 **Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's signature, and those hit report the sound of a door closing somewhere behind them.
 
-**Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising across the shoulder, as though from leaning on something that gave way.
+**Bearer cost:** The wielder's old injuries ache and prolonged use leaves faint bruising across the shoulder, as though from leaning on something that gave way.
 
 ### M.A.W. Suit — The Broken Plate
 
@@ -240,7 +234,7 @@ Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly 
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against the force of enforced separation. The rating is modest and the protection is specific, and the file recommends it for threshold work rather than for engagements.
 
-**Cost:** The wearer's reflexes dull and their leave-takings shorten. Wearers stop saying goodbye properly, first at work and then elsewhere, and are generally unaware of having changed.
+**Bearer cost:** The wearer's reflexes dull and their leave-takings shorten. Wearers stop saying goodbye properly, first at work and then elsewhere, and are generally unaware of having changed.
 
 ### M.A.W. Stigma — The Broken Hinge
 
@@ -254,7 +248,7 @@ Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly 
 
 **Ability:** Prevents forced separation for a short time.
 
-**Cost:** The wearer feels every departure occurring nearby.
+**Bearer cost:** The wearer feels every departure occurring nearby.
 
 *Four Stigmas have come from this source in six years and all four appeared on the hand that was nearest the frame. None was requested, none was refused, and the Gardens office records them as the holding's only outward act.*
 
@@ -303,10 +297,10 @@ Both pieces were cut from the door itself under a Year 4,232 authorisation that 
 Broken Door stands in the open grass of the Echo Gardens, four metres inside a painted radius, burning at grade one on an ordinary day. It is the boundary of a household that was divided lawfully and without dispute during the Echo incident and that never reassembled. It opens only outward, only onto a room that is not anywhere, and only for somebody who turns the handle while saying the name of a person who left them.
 
 **Entry 2 — <Excerpt from Echo Gardens Watch Record, Year 4238>**
-Its flame grows when visitors attempt to force reunion.
+Grade one at the start of the watch and two by mid-afternoon, tracking foot traffic rather than anything the watch did: three departures mentioned within earshot, all by visitors, all logged with the hour and the speaker. Its flame grows when visitors attempt to force reunion. Nobody inside four metres. Hinge angle unchanged against the plumb mark. Rain reached the frame twice and the flame did not move, entered because the negative result is the useful one.
 
 **Entry 3 — <Counselor's Note on Leave-Taking>**
-The anger of being forced to leave before goodbye or explanation.
+The anger of being forced to leave before goodbye or explanation. The local practice is small and oddly hard to keep: everybody who leaves this holding says that they are leaving — aloud, to the person they are handing over to, with the time and the expected return. It feels theatrical on a quiet afternoon, lapses within a fortnight of any supervisor ceasing to model it, and has been reinstated three times. A facility that cannot manage an announced departure has no standing to work this entity at all.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the moment the home was broken. (Stable); Ferrehan: Requires the worker to remain at the threshold. (Decrease). It becomes calm when the reason for leaving is acknowledged.
@@ -350,9 +344,9 @@ Three relations are on file and one of them has been suspended since Year 4,235.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Collapsed Door** | A threshold that fell with the building around it. | Brought to the same side of the frame on nine occasions. The flame does not move while it is present and drops two grades within the hour after it is taken away — the largest fall on the series and the only one not caused by a channel. | The grade at arrival, at parting, and hourly for six hours afterward. |
+| [**The Collapsed Door**](SE-O-Iα-794_Portcullis_무너진_문.md) | A threshold that fell with the building around it. | Brought to the same side of the frame on nine occasions. The flame does not move while it is present and drops two grades within the hour after it is taken away — the largest fall on the series and the only one not caused by a channel. | The grade at arrival, at parting, and hourly for six hours afterward. |
 | **The Wandering Door** | Carries what it has seen into other thresholds. | After the third pairing, operators channelling elsewhere in Zone D began describing the lit room. The Archive has four such reports from thresholds this holding has never been near, and the composite accepts them. Pairings were suspended in Year 4,235 and the suspension stands. | Every description of the room logged anywhere in the zone, with the threshold it came from. |
-| **The Echo of Laughter** | Laughter out of a household that no longer meets. | Audible behind the frame on fourteen occasions, always when the Echo was elsewhere in the Gardens and never when it was brought deliberately. The flame rises a grade and holds it for the duration. The office logs this as the one interaction the holding appears to seek. | Whether the Echo was brought or arrived, the grade, and the duration of the sound. |
+| [**The Echo of Laughter**](SE-C-Iα-150_Risus_웃음의_메아리.md) | Laughter out of a household that no longer meets. | Audible behind the frame on fourteen occasions, always when the Echo was elsewhere in the Gardens and never when it was brought deliberately. The flame rises a grade and holds it for the duration. The office logs this as the one interaction the holding appears to seek. | Whether the Echo was brought or arrived, the grade, and the duration of the sound. |
 
 **Interaction procedure:** Bring the second party to the same side of the frame, never the far one, and take the grade twice: at the moment of approach and at the moment of parting. Then take it hourly for six hours, because the Collapsed Door's two-grade fall did not appear until the fourth hour and would have been missed by any protocol that stopped at separation.
 
@@ -389,21 +383,21 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 **Threat Assessment:** Moderate on paper and conditional in practice. In six years the holding has injured four people, all of whom turned the handle, and has never acted on anybody standing still. The demolition attempt is the only occasion on which it damaged anyone who was not holding it.
 **Containment & Handling Procedures:**
 - Work Types are recorded for completeness and none of them has been shown to move the flame; read the ledger instead.
-- Standard R.D. containment protocols apply.
+- The door is never closed by hand. It shuts of its own accord, the flame returns to grade one or below, and the Gardens office does not permit the attempt — the one demolition on file is also the only occasion it damaged somebody who was not holding it.
 - Escalation is a name, a grade, and a step, in that order and within about forty seconds.
 **Observation Notes:**
 - The origin is a lawful property division signed by seven people, and the settlement is kept in the ledger's front cover.
-- See Combat Record for engagement history.
+- The contact history is a flame graded every ten minutes and a hinge angle read against a plumb mark, by wardens standing at the side of the frame and never in front of it.
 - Two boards and a hinge have been cut from the frame; the authorisation has not been renewed and the Armoury recommends it never is.
-**Cross-References:** The Collapsed Door, The Wandering Door and The Echo of Laughter, and the Archive's eleven-page composite of the room.
-**Faction Involvement:** The Echo Gardens office holds the ledger and the flame scale; the Archive holds the room composite and the four contact accounts; the Armoury holds the lapsed cutting authorisation.
-**Originator:** See Origin section — ‘The People’ field.
+**Cross-References:** The [Collapsed Door](SE-O-Iα-794_Portcullis_무너진_문.md), The Wandering Door and The [Echo of Laughter](SE-C-Iα-150_Risus_웃음의_메아리.md), and the Archive's eleven-page composite of the room.
+**Faction Involvement:** The Echo Gardens office holds the ledger and the flame scale. The Archive holds the room composite and the four contact accounts. The Armoury holds the lapsed cutting authorisation.
+**Originator:** One household divided by an Echo incident, and the door that stood between its two halves. The property division agreed afterwards is on file: ordinary, fair on its face, and agreed without dispute.
 
 ### Registry Addendum
 
-**Operational interpretation:** The file is a map and the Gardens are the territory, and the management practice on this holding is a small one that personnel find oddly hard to keep. Everybody who leaves the holding says that they are leaving. Aloud, to the person they are handing over to, with the time and the expected return, and nobody slips away at the end of a shift. The practice exists because this sorrow is specifically the anger of being forced apart before goodbye or explanation, and the wing's view — recorded when the practice was adopted and never since challenged — is that a facility which cannot manage an announced departure has no standing to work this entity at all. The difficulty is purely human. Announced leave-taking feels theatrical on a quiet afternoon, lapses within a fortnight of any supervisor ceasing to model it, and has been reinstated three times. Each reinstatement is recorded with the lapse that preceded it. Where the entity contradicts this file, trust the entity and preserve the contradiction as evidence rather than normalising it.
+**Operational interpretation:** The file is a map and the Gardens are the territory, and the management practice on this holding is a small one that personnel find oddly hard to keep. Everybody who leaves the holding says that they are leaving. Aloud, to the person they are handing over to, with the time and the expected return, and nobody slips away at the end of a shift. The practice exists because this sorrow is specifically the anger of being forced apart before goodbye or explanation. And the wing's view — recorded when the practice was adopted and never since challenged — is that a facility which cannot manage an announced departure has no standing to work this entity at all. The difficulty is purely human. Announced leave-taking feels theatrical on a quiet afternoon, lapses within a fortnight of any supervisor ceasing to model it, and has been reinstated three times. Each reinstatement is recorded with the lapse that preceded it. A discrepancy is preserved as evidence, with the lapse that preceded it, because every reinstatement of this rule so far has come with one.
 
-**Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the flame series, the hinge angle, the exposure log and the position before work resumes. Two further items apply here. The watch record is checked for unannounced departures, and a lapse is logged against the holding rather than the individual, because the practice fails collectively or not at all. And any worker who has spoken a name into the doorway, for whatever reason, is seen by the counselor the same day — the opening gives onto the moment before a break, and a person who has just watched one is owed more than a note in the file.
+**Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline. Re-verify the gauge, the flame series, the hinge angle, the exposure log and the position before work resumes. Two further items apply here. The watch record is checked for unannounced departures, and a lapse is logged against the holding rather than the individual, because the practice fails collectively or not at all. And any worker who has spoken a name into the doorway, for whatever reason, is seen by the counselor the same day — the opening gives onto the moment before a break. And a person who has just watched one is owed more than a note in the file.
 ## Watch Record
 
 ### Hinges Attached to Nothing

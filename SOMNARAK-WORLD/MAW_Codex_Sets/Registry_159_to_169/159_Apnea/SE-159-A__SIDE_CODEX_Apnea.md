@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IVδ-159 [O]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Border release-of-breath protocol
 
@@ -61,10 +61,10 @@ Apnea is colder than a dream and warmer than a corpse. Its crimson fractures are
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Frost cracks and the breath becomes audible. | Down | Allow expression without turning it into a request for further endurance. |
-| Pugnahan | Hardens and returns anger as cold pressure. | Up | Do not command the source to keep going. |
+| Flerehan | Frost cracks and the breath becomes audible. | Decrease | Allow expression without turning it into a request for further endurance. |
+| Pugnahan | Hardens and returns anger as cold pressure. | Increase | Do not command the source to keep going. |
 | Viderehan | Reveals death and exhaustion behind it. | Stable | Observe with a medical and Border relief partner present. |
-| Ferrehan | Tests whether the worker can remain without forcing movement. | Down | Provide stillness, a guard, and permission to stop before work begins. |
+| Ferrehan | Tests whether the worker can remain without forcing movement. | Decrease | Provide stillness, a guard, and permission to stop before work begins. |
 
 ### Breach response
 
@@ -85,7 +85,7 @@ The set has high Grudge output and panic protection. It becomes catastrophic if 
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Glacial Stiletto | δ | Grudge | Piercing release of compressed rage pressure | `SE-159-B__MAW-W_The_Frozen_Fang.md` |
+| Weapon | The Glacial Stiletto | δ | Grudge | Piercing release of compressed rage pressure | `SE-159-B__MAW-W_The_Glacial_Stiletto.md` |
 | Suit | The Frozen Breath | δ | Grudge | Panic protection with expression safeguard | `SE-159-C__MAW-S_The_Frozen_Breath.md` |
 | Stigma | The Frozen Charm | δ | Grudge | Identifies suppressed exhaustion before collapse | `SE-159-D__MAW-G_The_Frozen_Charm.md` |
 
@@ -106,7 +106,7 @@ The set has high Grudge output and panic protection. It becomes catastrophic if 
 
 **Quick effect:** A Grudge Skewer releases compressed continuation pressure only after relief is arranged; it does not send the bearer back into the duty that formed it.
 
-**Weapon-title review (2026-10-11):** `N-IVδ-159`’s primary M.A.W. block and eight-inch triangular cryogenic-stiletto Appearance, current `SE-159-B` heading/Appearance, Master Registry, Master Codex table row 526, `MAW-W-159` SHORT BLADE archetype, and same-code title/Appearance revision `3abe5470` support *The Glacial Stiletto*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 526, still identify *The Frozen Fang* and describe a crimson fang blade with frost fractures and a released-breath line. No Fang-to-stiletto transition or second form is documented. A separate Vanity `SE-643` weapon is also registered as *The Frozen Fang* (`MAW-W-643-01`; Master Codex Entry 718); no cross-link establishes shared identity, so keep this duplicate-title conflict held and do not borrow its profile. The archetype’s Close band differs from Range 3 (Medium) in the primary, linked-item, and Side cards; the Master Registry leaves reach unset, and no crosswalk resolves the difference, so leave the profile unchanged. The old item filename remains only as the link. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `N-IVδ-159`’s primary M.A.W. block and eight-inch triangular cryogenic-stiletto Appearance, current `SE-159-B` heading/Appearance, Master Registry, Master Codex table row 526, `MAW-W-159` SHORT BLADE archetype, and same-code title/Appearance current revision support *The Glacial Stiletto*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 526, still identify *The Frozen Fang* and describe a crimson fang blade with frost fractures and a released-breath line. No Fang-to-stiletto transition or second form is documented. A separate Vanity `SE-643` weapon is also registered as *The Frozen Fang* (`MAW-W-643-01`; Master Codex Entry 718); no cross-link establishes shared identity, so keep this duplicate-title conflict held and do not borrow its profile. The archetype’s Close band differs from Range 3 (Medium) in the primary, linked-item, and Side cards; the Master Registry leaves reach unset, and no crosswalk resolves the difference, so leave the profile unchanged. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
@@ -171,13 +171,3 @@ The set has high Grudge output and panic protection. It becomes catastrophic if 
 **Entity links:** The Sleeping Sigh; The Frozen Veil; Border duty resonance.  
 **Current border rule:** No document may use the source’s endurance story to praise death-through-duty or deny medical relief.  
 **Item links:** `SE-159-B`, `SE-159-C`, and `SE-159-D` contain individual release, panic, and corrosion history for Released Breath.
-
----
-
-**Document ID:** `SE-159-A`  
-**Linked Entity:** `SE-159`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

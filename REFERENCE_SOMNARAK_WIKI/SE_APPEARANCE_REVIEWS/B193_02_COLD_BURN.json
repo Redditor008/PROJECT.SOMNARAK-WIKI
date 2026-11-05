@@ -1,0 +1,170 @@
+{
+  "designation": "C-IVδ-505",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md",
+  "words": 8020,
+  "sha256": "93f2d75a013f5218b3428c4e2e438caec82acb30f7dcc2accfec1ec38a97f91b",
+  "unit": 2,
+  "name": "Cold Burn",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_02_COLD_BURN.md",
+  "before_words": 8020,
+  "after_words": 8196,
+  "base": "e00f340dda1ccc238e2aa66d61fd04cd5e46c83d",
+  "final_sha256": "bb12c12d2697027982fbb8010cd89891992a879db8018a0ade30c4e249a1d3ca",
+  "summary": "Nine source-supported repairs (1 short / 8 careful): the generic frozen-shadow monster template — pinned watching shadows, tracking frost, launched ice spikes, a shattering trigger, catastrophic unresolved grief, and symbolic completion presented as the successful resolution nine years after the file withdrew it — is replaced by the holding's documented record: burns taken by whoever stops looking, lattice advance mapped weekly at knee height, regrowth under impact, rounds walked without pursuit, and a lattice that has answered exactly once, for nine days, to revoked orders read aloud by name. HELD; no credit (the primary's Use Notes already disposition Side A's full-set route against its standing response).",
+  "commentary": "Cold Burn's own record is unusually exact about its one lever — a year's worth of individually signed revocations bought nine still days, at a price the file refuses to call worth it — which made the surviving template easy to convict: a Resolution phase and a Final Observation still awarding success to the symbolic route the file withdrew, and combat rows in which a caretaker who has never pursued anyone hunts, pins and spikes the workers watching her. The repairs take nothing from the Side sources; they return the primary to its own Resolution Condition, and the Arbalest-versus-Lens fork stays where the in-file disposition already left the set: compared, unmerged, and not this review's to settle.",
+  "reasoning": "Set SE-505 identity resolved from Side A (C-IVδ-505 [N]; its Formal-ID note assigns SE-505 to Cold Burn and defers Dreaming Ruin N-IIIγ-505) and items carrying SE-505 / MAW-W/S/G-505-01; Registry rows 707–710 (Registry_489_to_519) — SE-1036 was not used. Sentence triage: four combat rows imposed pursuit/pinning/projectile/shatter template against 'never pursued anybody who kept looking at it', 'the burns are taken by whoever stops looking first', warm-tool lattice doctrine and Pugnahan's recorded regrowth; the Battle-Phases Resolution and both Final Observation outcome rows asserted symbolic completion against the file's Resolution Condition and Entry 4 withdrawal; the unresolved-consequence bullet asserted generic catastrophe against the breach record; one trivia line described a fixed, inactive holding. R-18 split: 1 short / 8 careful (the Final Observation correction is recorded as its two table rows). Digits unchanged; the Tale was not edited.",
+  "history": "No credit — the coverage event is already written into the primary: M.A.W. Use Notes disposition Side A's full-set route (The Watch Is Over: Ring identifies, Veil preserves, Weapon cuts after symbolic completion) against the primary's standing response, expressly recording that the sources establish no equivalence or supersession, and the Field Use Record operationalizes that route with failed-resonance logging. That is a set-level cross-source disposition, so no fresh Types/Weapon credit is available; equipment_reviews has no 505 entry and none was added. Side A (56 lines) and items B/C/D read whole (43/43/40 lines) including Appearance sections confirm the in-file disposition; git path history shows only the B179 import. +0 all counters.",
+  "holds": [
+    "Weapon form fork as left by the in-file disposition: primary Returning Arbalest (corridor-built, kept spanned, discharged twice at a jammed shutter) vs Side/item/Registry Cold Burn Lens (duty shown as frozen shadow-link, forms after symbolic closure) — identical figures (Void 5–9 / 2 / 2 / Single / 4 / 25); no alias or transition documented.",
+    "Resolution fork across sources: Side A and items complete the duty symbolically; the primary withdrew that route after nine years and requires a named revocation by a named revoker. Repairs aligned the primary with its own condition; Side text preserved unedited.",
+    "Empty-vault fork: Side SUBJECT and the primary's Tale opening guard an emptied vault vs the file's struck line, full-vault arrangement letter and Registrum ('not empty then and not empty now'). The Tale was not edited in this pass; both tellings stand in their records.",
+    "Suit/Stigma figures agree (1.2/0.8/0.3/1.1, 4/20; Head/5%/+1 Composure) vs Registry generic Accessory/5%; item Veil's duty-outline/identity-seam form and silent-concealment Ring remain distinct from the primary's plainer veil and ring records.",
+    "Two of the first Roll's 1,330 revocations were still load-bearing and people died of them; three commanders now decline to sign. The nine lattice-still days and their price remain open institutional record, untouched."
+  ],
+  "split": [
+    1,
+    8
+  ],
+  "repairs": [
+    {
+      "id": "R1-still-pursuer",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Still Pursuer* [**Debuff**] } | \"Your shadow has frozen — locked to the ground — and no matter where you go, it stays, watching.\" | [The Shadow freezes in place; the target's own shadow becomes an anchor.] | *Target suffers a Void mark; their shadow is pinned and watching.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shadow freezes. |",
+      "new": "| { *The Still Pursuer* [**Debuff**] } | \"It is still because you are looking at it. That is the whole of the arrangement, and the arrangement is yours to break.\" | [Nothing is pinned and nothing pursues. The figure stands its round under direct attention; the burn is taken by whoever stops looking first.] | *Target suffers a Void mark: a burn that presents as a burn and reads cold to every instrument.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When attention breaks without an announced hand-off. |"
+    },
+    {
+      "id": "R2-cold-trail",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Cold Trail* [**Debuff**] } | \"Where the frozen shadow was, frost remains — and the frost follows you, spreading.\" | [The Shadow's cold spreads; wherever the target steps, ice forms.] | *Target loses clarity; the cold is tracking them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target moves away. |",
+      "new": "| { *The Cold Trail* [**Debuff**] } | \"Where she has passed on her rounds the cold does not lift behind her, and the colour goes out of the corridor with it.\" | [The cold is not tracking anybody. It is the residue of a route walked in order — doors, seals, corners — whether a worker is present or not.] | *Target loses clarity standing in the trailed cold; the chamber thermometer is the instrument, not the skin.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker crosses the rounds route without the hand-off announced. |"
+    },
+    {
+      "id": "R3-ice-spike",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Ice Spike* [**Attack**] } | \"The frozen shadow extends one sharp, dark spike toward your ankle.\" | [An ice-shadow spike launches.] | *Inflicts Void damage; the cold strike severs a shadow-link.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shadow is probed. |",
+      "new": "| { *The Ice Spike* [**Attack**] } | \"Nothing is launched. The lattice along the seam has simply advanced since last week, and it is at knee height where your ankle is.\" | [No spike is fired and no link is severed. The injury is the lattice's slow advance met by a person standing in its mapped line.] | *Inflicts Void damage: a cold burn at the lattice line, entered with the week's advance figure.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker stands in the lattice's advance or probes it with impact. |"
+    },
+    {
+      "id": "R4-full-freeze",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Full Freeze* [**Attack**] } | \"The frozen shadow expands — covering the ground, the walls, and everything between you and escape.\" | [Ground that has not thawed in the holding's life cracks outward in every direction, and the cold arrives before the sound of it does.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shadow is shattered. |",
+      "new": "| { *The Full Freeze* [**Attack**] } | \"Break the lattice and it does not shatter her. It regrows at several times the prior rate, in every direction, and the cold arrives before the sound of it does.\" | [Impact removal is the recorded error; warm tools and obstruction only is the standing technique. The burst is regrowth, not retaliation.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the lattice is struck, shattered or cut back by impact. |"
+    },
+    {
+      "id": "R5-resolution-phase",
+      "kind": "careful resolution correction",
+      "careful": true,
+      "old": "3. **Resolution:** The cycle closes when the duty has been completed symbolically at the chamber door and the Shadow has been told, aloud, that it may stop. The registration carries the file's own suppression condition: **complete the duty symbolically, then tell the Shadow it may stop** — and the care taken over the wording is the whole point, because the holding has never once been told to stand down by anybody with the authority to release it.",
+      "new": "3. **Resolution:** The cycle does not close symbolically — that route was tried for nine years, the lattice grew through all of it, and it is withdrawn. The registration carries the file's own suppression condition: **tell it, by name and aloud, which of its orders has been revoked and by whom** — and the care taken over the wording is the whole point, because the holding has never once been told to stand down by anybody with the authority to release it."
+    },
+    {
+      "id": "R6-final-observation",
+      "kind": "careful final-observation correction",
+      "careful": true,
+      "old": "| Complete the duty symbolically at the door — the round walked, the post stood, the order read — and then tell the Shadow aloud that it may stop. | Do the obvious, decent thing instead: take the duty over, share the grief as comfort, or remove the cold by force — the file's shift logs show the last of those feeding the lattice, and the first two keeping the post occupied by somebody new. |",
+      "new": "| Name, aloud and by the caretaker's name, an order that has actually been revoked and the person who revoked it — the only sentence the lattice has ever answered. | Do the obvious, decent thing instead: take the duty over, share the grief as comfort, complete the duty symbolically, or remove the cold by force — the file's shift logs show the last of those feeding the lattice, the symbolic route withdrawn after nine years, and the first two keeping the post occupied by somebody new. |"
+    },
+    {
+      "id": "R7-final-observation-outcome",
+      "kind": "careful final-observation correction",
+      "careful": true,
+      "old": "| The lattice stops advancing, the round is completed at the door and the release is spoken aloud, and the watch closes with the duty logged as discharged and the chamber left sealed and shuttered. | The cold goes out through the corridor and everything reflective in it cracks; the entry closes with the lattice's new line measured and the door rotation standing down. |",
+      "new": "| The lattice has stopped once, for nine days, after a year's revocations were read aloud in the chamber order by order; anything less is entered as a watch held, not a duty discharged, and the chamber is left sealed and shuttered either way. | The cold goes out through the corridor and everything reflective in it cracks; the entry closes with the lattice's new line measured and the door rotation standing down. |"
+    },
+    {
+      "id": "R8-consequences-unresolved",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- Left unresolved, she falls back on the breach, activation or expansion behaviour recorded in her own dossier. Containment refused, grief with nowhere left to run makes its own way out, and what it makes is catastrophic. The lattice at knee height is that same cutting done slowly.",
+      "new": "- Left unresolved, nothing catastrophic happens, which is the cost in its own form: she walks out along her own lattice and continues her rounds elsewhere, workers in her corridor begin performing checks nobody asked for, and the lattice keeps its weekly advance at knee height — the same cutting, done slowly, at a rate that tracks the count of dead-authored orders still in force."
+    },
+    {
+      "id": "R9-trivia-containment",
+      "kind": "short trivia correction",
+      "careful": false,
+      "old": "- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. The entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.",
+      "new": "- **Containment detail:** She is a mobile Subject on a standing round, not a fixed or inactive holding: containment is a signed reflection list, unbroken announced attention, a weekly lattice map, and a vault the wing keeps full on purpose."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.021  clean   751 grams  Combat Record\n 0.014  clean   142 grams  Operational Parameters\n 0.012  clean   162 grams  Trivia\n 0.009  clean   656 grams  감각 묘사 (Flavor Text)\n 0.007  clean   294 grams  기록 (Registrum)\n 0.005  clean   183 grams  최종 관찰 (Final Observation)\n 0.005  clean   616 grams  M.A.W. Equipment\n 0.000  clean  1337 grams  Apex Record\n 0.000  clean   651 grams  이야기 보고 (Story Log)\n 0.000  clean   350 grams  이야기 (Narratio)\n 0.000  clean   243 grams  관찰 기록 (Observation Log)\n 0.000  clean   167 grams  Appearance\n 0.000  clean   139 grams  Origin\n 0.000  clean   127 grams  증언 (Testimonium)\n 0.000  clean   109 grams  Breach Behavior\n 0.000  clean    87 grams  Behavior\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 45% against Void pressure; 35% against other pressure types |\n   84   6  | { *The Full Freeze* [**Attack**] } | \"Break the lattice and it does not shatter her. It regrows at several times the prior rate,\n   85   9  | { *The Shadowless Field* [**Ultimate**] } | \"Every shadow freezes — and without moving shadows, the light itself goes cold and p\n  199   1  **Appearance:** a veil of Void Han-gossamer, near-translucent and all but colourless, that lies cold on the skin and stays cold th\n  217   2  **Appearance:** a ring of Void Han-glass, near-translucent and almost colourless, warm to the touch.\n  296   1  > Two ways to close a watch at the door, and the file's own shift logs separate them within a quarter: one finishes the duty the h\n  319   4  Three holdings are kept within reach of the chamber — The Guarding Bird, The Hollow Knight and The Empty Mask — and none of the th\n  328   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  381   2  **Operational interpretation:** This record is one layer of the holding's file and not the whole of it: read it with the classific\n  435   2  - **Classification detail:** Cold Burn is a Subject with Entity (IV) coherence and Critical (δ) potency.\nGENERIC 0.005  (32 shared shingles)  SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-A__SIDE_CODEX_Cold_Burn.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-B__MAW-W_Cold_Burn_Lens.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-C__MAW-S_Cold_Burn_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-D__MAW-G_Cold_Burn_Ring.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-A__SIDE_CODEX_Cold_Burn.md": "7d191ee402014b06f4595f9a6a632c06c336fee16683bacf92984643db9c5885",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-B__MAW-W_Cold_Burn_Lens.md": "817194239863f6eb0ddf44f4f4ae5d0e4945a458e160863ac1adcf13b9f5a4c8",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-C__MAW-S_Cold_Burn_Veil.md": "ed7345da8545d0244899e8673b0179ee4574e47670a5a5b5a13ccf973437b286",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-D__MAW-G_Cold_Burn_Ring.md": "f6bc754607875d54234fce09062115591fb893108807b626f85eb50c7a19b954",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-505_Cold_Burn_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md\")]",
+  "table_link": "[Cold Burn](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-505_Cold_Burn_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md\")",
+  "reading": {
+    "before_lines": 445,
+    "before_bytes": 47864,
+    "final_lines": 445,
+    "final_bytes": 48769
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 58,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

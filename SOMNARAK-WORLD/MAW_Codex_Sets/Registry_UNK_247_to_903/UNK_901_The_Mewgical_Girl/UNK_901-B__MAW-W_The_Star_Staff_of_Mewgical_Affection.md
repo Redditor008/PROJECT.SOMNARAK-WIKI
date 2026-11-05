@@ -37,14 +37,3 @@
 **Corrosion:** voices compete through the wielder; targets acquire contradictory roles; terminal output splits the bearer into support and attack impulses.  
 **Maintenance:** record Mimi’s and Shu Shu’s target statements separately.  
 **Shutdown:** both voices say “no target” before the star core closes.
-
----
-
-**Document ID:** `UNK-901-B`  
-**Linked Entity:** `UNK-901`  
-**Item Registry Code:** `MAW-W-UNK-901-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

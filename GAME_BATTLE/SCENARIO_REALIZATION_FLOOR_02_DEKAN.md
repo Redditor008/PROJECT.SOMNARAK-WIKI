@@ -101,15 +101,15 @@ Node 10 : Abyssal Gate 02 / The Deep Maw quarantine threshold.
 | PHASE 1: DENIAL (100% -> 75% HP) — THE UNBROKEN VAULT               |
 | - Dekan manifests heavy basalt bulkheads and immovable parries.     |
 | - Trait: Unyielding Lock (Takes 50% reduced kinetic stagger).       |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | PHASE 2: ANGER (75% -> 50% HP) — THE HYDRAULIC ERUPTION             |
 | - Floor plates buckle; boiling coolant floods Nodes 4-7.            |
 | - Trait: Pressurized Venting (+3 Clash Power to heavy swings).      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | PHASE 3: BARGAINING (50% -> 20% HP) — THE TETHERED SHADOWS          |
 | - Spectral chains manifest from the Maw, pulling squad forward.     |
 | - Trait: Composure Leech (Drains 12 allied Composure per turn).     |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | PHASE 4: CATHARSIS (20% -> 0% HP) — THE SOVEREIGN AWAKENING         |
 | - Stagger thresholds invert to True Grit; Dekan readies Final Gate. |
 | - Tactical Goal: Synchronized 4-way clash to shatter trauma vessel. |
@@ -135,7 +135,7 @@ The decisive confrontation occurs within Phase 4, where the squad must synchroni
 |   3.                                                                |
 | - Action: Min-Jae establishes [Citadel Redoubt] at Node 4 (2 AP).   |
 | - Posture holds at 190/210. Area deflection aura protects trench.   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 2: BREAKING THE SEISMIC ANCHORS (PILLAR: PRESENCE)             |
 | - Dekan unleashes [Tectonic Slam] (Clash Power 26 vs Min-Jae 28).   |
 | - Victory Min-Jae! Kinetic shock absorbed into basalt floor plates. |
@@ -143,13 +143,13 @@ The decisive confrontation occurs within Phase 4, where the squad must synchroni
 | - Presence Trigger: Dekan witnesses Min-Jae holding the vault door  |
 |   open for his squad, realizing a warden never locks comrades out.  |
 | - Dekan Composure slips: 180 -> 120/450.                            |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 3: THE HIGH-VELOCITY ACOUSTIC FLANK                            |
 | - Seol-A expends 4 AP on [Silenced Siphon Dash]:                    |
 |   Maneuvers from Node 6 -> Node 8 across liquid sorrow trench.      |
 | - Strikes Maw-Chained Gauntlet with [Missing Note Thrust].          |
 | - Gauntlet ruptured (60% threshold met)! Disables [Crushing Grip].  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 4: THE PRECIPICE OF THE MAW (PILLAR: PRECIPICE)                |
 | - Dekan initiates ultimate skill [The Maw's Eternal Gate] at Node   |
 |   9.                                                                |
@@ -158,13 +158,13 @@ The decisive confrontation occurs within Phase 4, where the squad must synchroni
 |   Dekan.                                                            |
 | - Min-Jae speaks: 'You kept the beasts inside for a thousand years, |
 |   Dekan. But you don't have to lock yourself in with them!'         |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 5: SYNCHRONIZED COUNTER-CLASH (PILLAR: PURPOSE)                |
 | - Jinho discharges [Harmonic Baffle Surge] from Node 1, disrupting  |
 |   Dekan's acoustic focus and reducing Boss Clash Power by 6.        |
 | - Taeho and Seol-A launch synchronized cross-strike at Node 8.      |
 | - Dekan's trauma vessel cracks! Sapphire Han-light bleeds outward.  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 6: THE RESONANT AWAKENING (PILLAR: PACT)                       |
 | - Min-Jae charges from Node 7 -> Node 9 with [Citadel Sunder        |
 |   Parry]!                                                           |

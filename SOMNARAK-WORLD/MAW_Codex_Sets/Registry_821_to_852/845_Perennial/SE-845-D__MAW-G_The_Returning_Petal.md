@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Returning Petal
 
-> *“The Returning Petal remembers Perennial; the bearer must not mistake memory for permission.”*
+> *"It shows you what owes what, and the seeing is charged: every debt it lets you notice becomes yours."*
 
 ---
 
@@ -17,27 +17,28 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Reveals karmic connections to a place or object.  
-**Binding rule:** the bearer names Perennial's event—A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground.—and accepts this limit: Acknowledge the place's history and do not claim it as unchanged
+**Binding rule:** the bearer names Perennial's event — “A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground.” — and accepts this limit: Acknowledge the place's history and do not claim it as unchanged
 
 ## Appearance
 
-The Returning Petal is the stigma record of Perennial’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is genealogical: it reveals karmic connections to a place or object, the debts and bonds under a site made visible before anyone rebuilds. Binding names Perennial’s event — a settlement founded, abandoned, rebuilt, and abandoned again, each return layering grief into the ground — and accepts the set’s limit: acknowledge the place’s history and do not claim it as unchanged. The cost extends the ability’s reach inward: the wearer feels the weight of every return and abandonment they observe, each revealed connection landing on the revealer, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the settlement’s cycles of return and loss — the full stratigraphy of founding and leaving — and it discharged the immediate hazard only after attribution to Perennial. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Returning Petal is the stigma record of Perennial’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is genealogical: it reveals karmic connections to a place or object, the debts and bonds under a site made visible before anyone rebuilds. Binding names Perennial’s event — a settlement founded, abandoned, rebuilt, and abandoned again, each return layering grief into the ground — and accepts the set’s limit: acknowledge the place’s history and do not claim it as unchanged. The cost runs inward: every return and abandonment the bearer reveals lands on the revealer, and after a season they cannot tell which leaving was theirs. The source-trace fixed doctrine: the stigma reveals the settlement’s cycles of return and loss — the full stratigraphy of founding and leaving — and it discharged the immediate hazard only after attribution to Perennial. Read as the bearer's own leaving, the stratigraphy was read off their life: every abandonment the record showed landed on the one who showed it. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels the weight of every return and abandonment they observe. Continued use makes Perennial's source sorrow feel autobiographical.
+**Operational / binding cost:** Every connection the Petal shows is a thread the bearer must carry: knowing what owes what makes them answerable for the debt they now know about. Carried long, the bearer owes everyone they have ever met.
 
 ## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Stigma Record*
 
-The first The Returning Petal field bearer encountered this source response: Reveals the settlement's cycles of return and loss. The stigma discharges the immediate hazard only after the team attributed it to Perennial. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Returning Petal encountered this source response: Reveals the settlement's cycles of return and loss. The stigma discharges the immediate hazard only after the team attributed it to Perennial. A bearer named a debt they had only just learned of and answered for it that quarter, and the Petal’s binding is the ledger entry made at that settlement.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Perennial's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the threads begin arriving from people the bearer has met once, in a shop, years ago.
 - Terminal state: Perennial's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge the place's history and do not claim it as unchanged” reverses the item’s benefit and raises the source Gauge.  
@@ -46,15 +47,4 @@ The first The Returning Petal field bearer encountered this source response: Rev
 
 ## SET RELATIONSHIP
 
-Within *Perennial — Witnessed Form*, The Returning Petal performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-845-D`  
-**Linked Entity:** `SE-845`  
-**Item Registry Code:** `MAW-G-845-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Perennial — Witnessed Form*, The Returning Petal performs the stigma role while the other pieces preserve attribution and survival. The Petal drops out of the set when the bearer lets one thread go uncollected.

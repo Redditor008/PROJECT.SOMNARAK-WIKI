@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-210 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on wearing the mask or laughing near it |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats laughing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A bright painted mask that laughs without pause, its wide fixed smile and dark wet eyeholes weeping even as it laughs. The lacquer is bloodless-cold; the sound is too full, too wrong. It smells of ash. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — an artwork. |
 | **Location** | SECTOR-C-01, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,10 +28,12 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, from an object that is already working when the team arrives and still working when they leave. The Mask Market station notes that this is the only holding it runs where nothing has to be started. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the wall** — It will not be silenced, stilled or taken down. The stand is fixed, the face does not change, and the nine-year photographs are the same photograph. |
+| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is the sound arriving before the Mask is in view. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -45,55 +47,62 @@
 - No breach counter applies. The audible radius grows across the Market, and the boundary is confirmed by instrument because personnel cannot locate it by ear.
 - Extraction is a separate authorization and carries the same auditory exposure.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Void. It is a painted mask on a stand; the figure has never been used and the station's note is that there is nothing here anybody has ever wanted to hit. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 445/445 |
-| **Han Pressure [ATK]** | 7–17 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats laughing |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, Mask Market |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — an artwork*, and the file's own resistance note is that the mask is a painted face on a stand and there is nothing here anybody has ever wanted to hit. What it does is laugh at the pitch of the person listening, and every incident on the record begins with somebody being entertaining in the bay rather than with the mask doing anything to them.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A painted mask on a fixed stand in the Mask Market, bright lacquer, wide smile, dark wet eyeholes, bloodless-cold and smelling of ash. The laughter has not stopped in nine years; the bay's silences are the readings, and they are timed from the door. |
+| **Perceptible to** | The laugh first, pitched exactly like the listener's own social laugh and not recognised as theirs by most people. Then the lacquer, cold and dry under the hand, and the ash. That the mask is working shows as a person who has stopped noticing the sound. |
+| **Handling** | Not worn and not lifted. The stand is fixed and the frame is not moved; the two removals on file were refused before they were attempted. A watch sits in the bay, times the silences, and lets anybody laugh who finds something funny. — see `## Handling Process` |
+| **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-C-01, Mask Market |
 | **Resolution Condition** | Appearance requirements are suspended across the district and the mask's longest silence lengthens, with the Sorrow Gauge below 25% |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Chuckle* [**Debuff**] } | "It laughs, and the laugh is pitched exactly like yours." | [The Mask matches the listener's own social laugh, which most people do not recognise as theirs.] | *Void pressure; the listener becomes aware of the voice they use in company.* **[Void DMG [Void]]** | Within the first minute, every cycle. |
-| { *The Endless Giggle* [**Debuff**] } | "It has been going for forty minutes and nobody in the bay has said anything about it." | [The laughter compounds by not stopping; the hazard is habituation rather than volume.] | *Void pressure rising with duration; the station's limit is forty minutes for this reason and not for any sharper one.* **[Void DMG [Void]]** | Past forty minutes. |
-| { *The Grin-Strike* [**Attack**] } | "The grin goes wider than a face allows, and the widening is the thing that cuts." | [The smile exceeds anatomy and becomes an edge.] | *Void damage to the Soul; the eleven struck workers all report afterwards that they cannot stop smiling at people, and all eleven were observed doing it.* **[Void DMG [Void]]** | When somebody performs for it — a joke, a routine, a deliberate laugh. |
-| { *The Hysterical Peak* [**Attack**] } | "At the top of the laugh it is not a laugh any more and everybody in the bay knows what it is instead." | [The laughter crests into the void-shriek underneath it.] | *Heavy Void damage to everybody present.* **[Void DMG [Void]]** | Four occasions, all four when the mask was worn. |
-| { *The Laughing Chorus* [**Ultimate**] } | "Every stall in the market is laughing and the traders are standing in the middle of it not laughing." | [The laughter propagates across the district with nobody producing it.] | *Void erosion to everyone in the market for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, twice, both in the month after a new demeanour standard was issued to stallholders. |
+### Contact Events
 
-### Battle Phases
+| Event | What the mask does | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The First Chuckle* [**Register**] } | The laugh arrives pitched exactly like the listener's own, and the listener does not hear it as borrowed. | The second warden names whose laugh it is; the listener is not asked, because the listener is the one who cannot hear it. | Eleven incidents on file, and all eleven begin with somebody being entertaining rather than with the mask addressing anybody. |
+| { *The Silence* [**Exposure**] } | The sound goes on and the bay stops mentioning it — habituation, not volume, is the reading the file keeps. | Time the silences from the door with the watch clock; the longest silence is the figure the gauge answers to. | Forty minutes is where the record starts calling a watch a good one. No silence has ever had to be ended by anything but leaving the bay. |
+| { *The Refusal* [**Refusal**] } | It will not be silenced, stilled or taken down. The stand is fixed, the face does not change, and the nine-year photographs are the same photograph. | No hand is laid on it and no cloth is put over it; no reading is taken from close enough to cover it. | The refusal is the record: nine years, no change in the face, and no authorised attempt to change it. |
+| { *The Chorus* [**Overload**] } | Above 65%, the laughter stops being produced by the mask and the market is full of it — traders standing in the middle of a sound nobody is making. | Clear the stalls, suspend the district's appearance requirements, and do not answer the laugh with one. | Three occurrences, all three in weeks when the trading rules were enforced. The file reads the district's cheer as the trigger and not the mask. |
 
-1. **Tension:** The team takes the bay, starts the watch, and notes the laugh's pitch against the previous cycle. Nobody arranges themselves; the standing instruction is to sit as they would sit anywhere.
-2. **Clash:** Nobody wears it and nobody laughs at it. Viderehan shows the face behind the laughter and holds the reading steady; Ferrehan is a matter of staying in the room while it laughs, which it will do for the whole session and has done for nine hours. The team is instructed not to smile politely at it, which personnel find harder than the nine hours.
-3. **Resolution:** The session closes when the longest unbroken silence of the day exceeds the previous week's best and the reading falls below 25%. Silence is the measurement here. A session ending with the mask still laughing at its arrival volume has not closed, whatever else was achieved.
+### Watch Sequence
+
+1. **What is confirmed:** the stand, the face, and the length of the silence since the last watch. The listener's own laugh is confirmed by a second person rather than by the listener, because the mask's first trick is a borrowed pitch.
+2. **What the watch does:** Viderehan times the silences from the door and Ferrehan sits the bay. Nobody performs, nobody tells a joke to fill the quiet, and every laugh in the room is entered with who made it and what they were trying to do.
+3. **How it closes:** **Appearance requirements are suspended across the district and the mask's longest silence lengthens, with the Sorrow Gauge below 25%** — the silence is measured from the door, and the district notice is filed before the next shift.
 
 ### Consequences
 
-- The failure here is performing. A joke told at it, a laugh produced to fill the silence, a routine — all eleven strikes on file began with somebody being entertaining.
+- The failure here is performing. A joke told at it, a laugh produced to fill the silence, a routine — all eleven incidents on file began with somebody being entertaining.
 - The effect does not intensify with duration. It intensifies with mandated cheer. The reading rises for every shift worked anywhere in the district under an instruction to appear pleasant — the Market's trading rules, the facility's own front-counter standard — and it does not distinguish between a rule enforced and a rule merely in force.
 - The lens, the veil and the facade all come out of a performance that outlasted its performer, and each use borrows a measure of it. The operator keeps what they borrow: they become easier company and harder to read, in that order.
 - An unworked cycle does not event. The laugh simply goes on, as it has for nine years, and the next cycle opens two or three points higher.
@@ -129,39 +138,30 @@
 - **The Sorrow:** The grief of laughing so others would not know you were hurting.
 - **The Event:** A performer continued entertaining the Mask Market after losing everyone they loved. The laughter became an object.
 - **The People:** One performer of the Mask Market who lost their household and kept working the arcade, because the arcade paid daily and grief did not. The Keepers hold three seasons of their takings, which rose. Nothing else about them survives, including their name, which the archive notes is consistent with a person who was known by a face that was not theirs.
-- **Expanded origin context:** The market's own records are the origin document. The performer lost his household in one quarter — the stall ledger shows the corner pitch changing hands and the school roll losing a name — and his bookings do not thin at all. He worked eleven of the next twelve days. The stallholders who were asked afterwards said, consistently, that he had seemed fine; two of them added, unprompted, that they had been glad he was still working.
+- **Expanded origin context:** The market's own records are the origin document. The performer lost his household in one quarter — the stall ledger shows the corner pitch changing hands and the school roll losing a name — and his bookings do not thin at all. He worked eleven of the next twelve days. The stallholders who were asked afterwards said, consistently, that he had seemed fine. Two of them added, unprompted, that they had been glad he was still working.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A painted mask on a fixed stand in the Mask Market, bright lacquer, wide smile, dark wet eyeholes, bloodless-cold and smelling of ash. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows the face behind the laughter. | Stable |
-| **Ferrehan** | Laughs for hours, testing whether the worker can remain present. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the stand, the face, and the length of the silence since the last watch. The listener's own laugh is confirmed by a second person rather than by the listener, because the mask's first trick is a borrowed pitch. |
+| **Handling** | The observer times the silences from the door and the stander sits the bay. Nobody performs, nobody tells a joke to fill the quiet, and every laugh in the room is entered with who made it and what they were trying to do. |
+| **Withdrawal** | **Appearance requirements are suspended across the district and the mask's longest silence lengthens, with the Sorrow Gauge below 25%** — the silence is measured from the door, and the district notice is filed before the next shift. |
+| **Refusal** | No hand is laid on it and no cloth is put over it; no reading is taken from close enough to cover it. |
 
-
-### Operational Work Notes
-
-The Work Type rows are steady and the silences are not. Nine years of them: longest after a worker laughed at something unrelated to the holding entirely — a dropped crate, a bad pun from a colleague — and shortest, almost absent, in weeks when the district has issued a demeanour standard. The gauge follows the silences and the silences follow whether people in the market are allowed to be in a bad mood.
-
-**Reading the response:** A falling reading means somebody laughed in the bay at something that was actually funny and the mask stopped to listen. It rises on performance, on a cheerful shift log, and on any appearance or demeanour standard issued anywhere in the district.
 ## Activation Behavior
+
+> **Special activation — no counter.** Its starting condition, as written: *"wearing the mask or laughing near it"*.
+
+
+
+
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **Worn, this relic makes the bearer pleasant company; it does not give the pleasantness back**
-
-**Activation Trigger:** Wearing the mask or laughing near it.
-
-**Effect:** Produces an appearance of effortless happiness.
-
-**Duration:** Until removed by another person.
-
-**Risk:** The wearer cannot stop laughing to express grief.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -174,7 +174,7 @@ The Work Type rows are steady and the silences are not. Nine years of them: long
 | **Termination / Return** | The operative removes it and a second person asks them how they are. The answer is written down verbatim. Four removals in nine years have produced the same three words and the Armoury has stopped pretending that is a coincidence. |
 | **Risk** | The wearer cannot stop laughing to express grief. |
 
-**Operational Rule:** The relic functions only while carried and cannot replace a scheduled Work Type. It is not to be worn under any circumstances, including demonstration, training and conservation work; the prohibition is absolute because the activation trigger is wearing, and the file has no observation of what follows because nobody has been permitted to produce one.
+**Operational Rule:** The relic functions only while carried and cannot replace a scheduled Work Type. It is not to be worn under any circumstances, including demonstration, training and conservation work. The prohibition is absolute because the activation trigger is wearing, and the file has no observation of what follows because nobody has been permitted to produce one.
 
 ### Log and Method
 
@@ -221,7 +221,7 @@ Escalation is silence getting shorter. Record the pitch, the volume, every silen
 
 **Ability:** Void against the Soul. What it opens in a target is every occasion they have said they were fine and were not, in order, which most targets describe as a longer list than they expected.
 
-**Cost:** Small nameless memories, the first being what the wielder was like before this posting. Colleagues notice; the wielder does not.
+**Bearer cost:** Small nameless memories, the first being what the wielder was like before this posting. Colleagues notice; the wielder does not.
 
 ### M.A.W. Suit — The Laughter Veil
 
@@ -239,7 +239,7 @@ Escalation is silence getting shorter. Record the pitch, the volume, every silen
 
 **Ability:** Turns Void aside from the soul, which is the only pressure here. The veil lets a worker sit through a full session of imitated laughter without their own face joining in.
 
-**Cost:** The wearer catches their own reflection being pleasant at nobody, which three of them have reported as the single most unsettling thing in their service.
+**Bearer cost:** The wearer catches their own reflection being pleasant at nobody, which three of them have reported as the single most unsettling thing in their service.
 
 ### M.A.W. Stigma — The Laughter Facade
 
@@ -253,7 +253,7 @@ Escalation is silence getting shorter. Record the pitch, the volume, every silen
 
 **Ability:** Conceals emotional distress behind convincing laughter.
 
-**Cost:** The wearer hears their own laughter after the Stigma mask-charm is removed.
+**Bearer cost:** The wearer hears their own laughter after the Stigma mask-charm is removed.
 
 *The facade is not manufactured. The Mask gives one to a worker who told a trader the truth about a bad day across a counter, and has given none to anybody who was polite about it.*
 
@@ -294,7 +294,7 @@ Before issue, the Lens bearer names a protected memory; if its personal signific
 |---|---|
 | **Initial exposure** | The team hears it from the market floor before the bay is open. Identification is the sound: a laugh with correct timing, correct breathing, and nothing underneath it, going on in an empty room. |
 | **Sustained observation** | Nine years of silence lengths against the district's standards register. 188 silences; the mean is 1.4 seconds, the longest eleven, and the three quarters with a new demeanour standard in force have the three shortest means on record. |
-| **Activation or escalation** | A performance, or the mask being worn. Record who performed and what they were trying to do; all eleven strikes have the same answer in that field, which is that somebody was trying to lighten the room. |
+| **Activation or escalation** | A performance, or the mask being worn. Record who performed and what they were trying to do. All eleven incidents have the same answer in that field, which is that somebody was trying to lighten the room. |
 | **Post-contact review** | Pitch, volume in and out, every silence with its cause, and the quarter's standards register. The silence log is the holding's series and a report without it is returned. |
 
 **Observation method:** Laughter from an unoccupied bay, then the impulse to smile back at an object, then the volume at entry and exit, then every silence timed to the tenth of a second with what caused it. The silences are the record. Nobody manufactures one.
@@ -315,7 +315,7 @@ Four hundred and six recorded stops in twenty-two years, with duration and cause
 Work response — Viderehan: Shows the face behind the laughter. (Stable); Ferrehan: Laughs for hours, testing whether the worker can remain present. (Decrease). Personnel report peace before recognizing the laughter as forced.
 
 **Entry 5 — <Archive Note>**
-The management condition obliges this facility to ask the Market to suspend its own trading courtesies, and the Market is not ours to instruct. The traders' association has agreed twice, for four hours each time, and declined on five further occasions in terms this office considers reasonable: people come to the arcade to be treated nicely, and a district that stops doing it loses the day's takings to the next district along. The cost of containment here is therefore borne by people who do not work for us and who get nothing from the arrangement. Until that is resolved the reading will go on rising, and this office will go on asking, and no supervisor is to describe the refusals as obstruction.
+The management condition obliges this facility to ask the Market to suspend its own trading courtesies, and the Market is not ours to instruct. The traders' association has agreed twice, for four hours each time. And declined on five further occasions in terms this office considers reasonable: people come to the arcade to be treated nicely. And a district that stops doing it loses the day's takings to the next district along. The cost of containment here is therefore borne by people who do not work for us and who get nothing from the arrangement. Until that is resolved the reading will go on rising, and this office will go on asking, and no supervisor is to describe the refusals as obstruction.
 
 ## 최종 관찰 (Final Observation)
 
@@ -336,7 +336,7 @@ The Mask laughs before you touch it. The sound is bright enough to make the room
 
 **With continued exposure:** The laugh starts to sound like yours. Not an imitation — the pitch and the cadence of the laugh you use in company, which almost nobody can identify until they have heard it played back at them for half an hour.
 
-**When the entity activates:** The grin widens past what the mask is shaped to allow, which is visible and which no photograph has ever captured; thirty-one attempts are on file and all of them show an ordinary painted smile.
+**When the entity activates:** The grin widens past what the mask is shaped to allow, which is visible and which no photograph has ever captured. Thirty-one attempts are on file and all of them show an ordinary painted smile.
 
 **After departure:** You answer somebody honestly who did not expect it. Station staff report this consistently and the briefing lists it as the only after-effect in the market that anybody has asked to keep.
 
@@ -353,21 +353,21 @@ The Mask is the district's surface and the others are its underside, which is a 
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Happy Mask** | The same habit worn on the other face; the pairing everybody proposes. | Four sessions. The silences fell to a quarter of a second and stayed short for a fortnight. The station's note is that two performances in one room do not relieve each other, they compete. | Silence lengths for a fortnight after. |
-| **The Echo of Laughter** | Supplies what is underneath the laughing; the only party that has lengthened a silence. | Three sessions. On the second the Echo produced forty seconds of the performer's own voice, not laughing, and the mask was silent for eleven seconds — the longest on record. The recording is kept and is played in the bay once a quarter. | The Echo's audio, and the silence timed. |
-| **The Masked Dancer** | Performs while this one laughs; filed together on the obvious resemblance. | Two sessions. Silences unchanged, both parties unaffected, and the station's conclusion that performing at a performance is not an interaction. | Silence lengths; the entry is closed. |
+| [**The Happy Mask**](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) | The same habit worn on the other face; the pairing everybody proposes. | Four sessions. The silences fell to a quarter of a second and stayed short for a fortnight. The station's note is that two performances in one room do not relieve each other, they compete. | Silence lengths for a fortnight after. |
+| [**The Echo of Laughter**](SE-C-Iα-150_Risus_웃음의_메아리.md) | Supplies what is underneath the laughing; the only party that has lengthened a silence. | Three sessions. On the second the Echo produced forty seconds of the performer's own voice, not laughing, and the mask was silent for eleven seconds — the longest on record. The recording is kept and is played in the bay once a quarter. | The Echo's audio, and the silence timed. |
+| [**The Masked Dancer**](SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md) | Performs while this one laughs; filed together on the obvious resemblance. | Two sessions. Silences unchanged, both parties unaffected, and the station's conclusion that performing at a performance is not an interaction. | Silence lengths; the entry is closed. |
 
 **Interaction procedure:** Solo baseline first, then the shared encounter: volume before, during and after, longest silence at each stage, how long any change persisted once the other record was withdrawn, and the appearance requirements in force. Sessions run on closure days are logged separately, since the district is a different place when nobody is being served.
 
 ## 이야기 (Narratio) — The Tale
 
-He made them laugh, and the laughing, when everyone he loved was gone, became a mask that laughs without him.
+There was a man who made them laugh, and the laughing, when everyone he loved was gone, became a mask that laughs without him.
 
-The performer was the heart of the Mask Market. He juggled, he mimed, he told the jokes the stallholders repeated all week. The market loved him. And he loved the people who came to watch: his partner, who sold roasted grain at the corner stall; his daughter, who learned his routines and improved them; his old teacher, who sat on a crate and critiqued every show.
+The performer was the heart of the Mask Market. He juggled, he mimed, he told the jokes the stallholders repeated all week. The market loved him. And he loved the people who came to watch: his partner, who sold roasted grain at the corner stall. His daughter, who learned his routines and improved them. His old teacher, who sat on a crate and critiqued every show.
 
 The Han took them. Not all at once — the way the Han never takes things all at once. His teacher first, then his partner, then, last and worst, his daughter. One by one, the people who came to watch were consumed, and the performer was left standing in the market he had filled with laughter, alone.
 
-He kept performing. This is the part that made the mask. The market needed him; the city needed the laughter; and the performer needed, desperately, to hear people laugh — because for a moment, when the crowd laughed, he could pretend the people laughing were the ones he had lost. So he performed. He joked. He made the stallholders howl. And behind the laughter he manufactured, he carried a grief so vast it had no bottom.
+He kept performing. This is the part that made the mask. The market needed him; the city needed the laughter. And the performer needed, desperately, to hear people laugh — because for a moment, when the crowd laughed, he could pretend the people laughing were the ones he had lost. So he performed. He joked. He made the stallholders howl. And behind the laughter he manufactured, he carried a grief so vast it had no bottom.
 
 The performance outlived the feeling. The laugh he had learned to produce — bright, generous, exactly the laugh the market wanted — separated from him, the way a skill separates from the self when the self can no longer sustain it. Laughing Mask is that separated laugh: Object-Void, part of the Masked Troupe, shaped like a performer's grinning face, laughing the laugh he perfected after everyone he loved was gone.
 
@@ -398,7 +398,7 @@ Some sorrows weep. Laughing Mask laughs — and the laughing is the sorrow, pres
 **Observation Notes:**
 - Formed from a performer’s laugh after everyone he loved was taken.
 - Part of the Masked Troupe.
-**Cross-References:** Mask Market · The Happy Mask · The Empty Mask · The Masked Dancer
+**Cross-References:** Mask Market · [The Happy Mask](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) · [The Masked Dancer](SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md)
 **Faction Involvement:** None operational. The stallholders' association has twice asked for the mask to be kept where the market can hear it, on the grounds that he worked there, and both requests were granted without being escalated.
 **Originator:** A performer of the Mask Market.
 

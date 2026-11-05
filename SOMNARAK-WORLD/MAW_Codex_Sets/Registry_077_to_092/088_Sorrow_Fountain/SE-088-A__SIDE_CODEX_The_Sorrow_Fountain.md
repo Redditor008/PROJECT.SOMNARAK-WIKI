@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-088 [LP]`  
 **Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Echo Gardens witness protocol
 
@@ -26,7 +26,7 @@
 | Element | Lament |
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A low moss-ringed basin that weeps warm saline grief into a bottomless pool which reflects no face. |
-| Gauge / pressure | 45–65% / Lament 18–41 |
+| Gauge / pressure | 653/653; starts 45–65% · Lament — no attack pattern: the basin has never moved, and the escalation is metres of damp and a moss line (Contact Record, R-36) |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Shared Current |
 
@@ -61,10 +61,10 @@ The basin is never empty. Moss alive beyond any normal season grows between the 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Do not treat a pool as a person who needs more tears. |
-| Pugnahan | Invalid for this Place entity. | N/A | Forcible damming is a prohibited action, not a work cycle. |
+| Flerehan | Invalid for this Place entity. | Negative-Low | Do not treat a pool as a person who needs more tears. |
+| Pugnahan | Invalid for this Place entity. | Negative-Low | Forcible damming is a prohibited action, not a work cycle. |
 | Viderehan | Each drop reveals a different grief. | Stable | Observe in pairs; one listens, one records only what the first person authorizes. |
-| Ferrehan | Tests whether the worker can remain in the pool without breaking. | Down | Enter only with a tether, a witness, and a named exit time. |
+| Ferrehan | Tests whether the worker can remain in the pool without breaking. | Decrease | Enter only with a tether, a witness, and a named exit time. |
 
 ### Expansion response
 
@@ -85,9 +85,9 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Weeping Basin-Aspergillum | γ | Lament | Piercing pressure that makes hidden grief audible | `SE-088-B__MAW-W_The_Sorrow_Requiem.md` |
-| Suit | The Cistern-Keeper's Chiton & Mantle | γ | Lament | Protection against an overwhelming lament surge | `SE-088-C__MAW-S_The_Sorrow_Shroud.md` |
-| Stigma | The Weeping Gargoyle Brooch | γ | Lament | A small, consent-bound wave of shared calm | `SE-088-D__MAW-G_The_Sorrow_Vial.md` |
+| Weapon | The Weeping Basin-Aspergillum | γ | Lament | Piercing pressure that makes hidden grief audible | `SE-088-B__MAW-W_The_Weeping_Basin_Aspergillum.md` |
+| Suit | The Cistern-Keeper's Chiton & Mantle | γ | Lament | Protection against an overwhelming lament surge | `SE-088-C__MAW-S_The_Cistern_Keeper_s_Chiton_and_Mantle.md` |
+| Stigma | The Weeping Gargoyle Brooch | γ | Lament | A small, consent-bound wave of shared calm | `SE-088-D__MAW-G_The_Weeping_Gargoyle_Brooch.md` |
 
 ---
 
@@ -171,13 +171,3 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 **Entity links:** The Memory Lake; The Weeping Statue; the Echo Gardens.  
 **Calendar link:** The Fountain surges during the Consolihan; this is a public memorial condition, not a breach authorization.  
 **Item links:** `SE-088-B`, `SE-088-C`, and `SE-088-D` preserve the individual restrictions on Shared Current.
-
----
-
-**Document ID:** `SE-088-A`  
-**Linked Entity:** `SE-088`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

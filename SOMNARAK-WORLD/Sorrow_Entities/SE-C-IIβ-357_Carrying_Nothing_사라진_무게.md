@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A humanoid wreathed in slow fire, carrying nothing, yet the air behind its back bends and sags under an invisible weight no one can see. Motionless until approached, then it turns. Fever-hot, it smells of char and old smoke; the unseen burden presses on anyone near. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile in breach only as far as the next stack of sealed records, where it stands exactly as it stands here. It does not pursue. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **SE Effect** | **On the breach** — Sighted displacement: 11, 17 and 24 millimetres across three years, from the same two floor marks. |
+| **Work Damage** | 2–4 Grudge — the cost is something carried in both hands that the vault inventory does not hold |
+| **Activation threshold** | 3 conditions |
 | **Tool / M.A.W. grade** | β · Fang, Plate, Burden — all three graded; the Burden is given and is not described as a reward |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -70,7 +72,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan is listed and is not applied here. |
+| **Valid Work Types** | Flerehan on the scheduled approach, Ferrehan to hold position without supplying an answer, Viderehan to sight the displacement. Pugnahan raises the fire and presses the load outward across the vault; it is not used. |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Say what is known — that something was removed, by whom, under what authority — and stop there. Every session lost on this holding was lost by a worker who went one sentence further. |
 
@@ -78,11 +80,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lightness* [**Debuff**] } | "The weight is gone — and the lightness is unbearable. You did not realize how much you needed it." | [The target's burden vanishes; the sudden relief is disorienting.] | *Target suffers -10 Resilience; the absence of weight is its own kind of falling.* **[10 Grudge DMG [Grudge]]** | When the Weight lifts. |
-| { *The Free Fall* [**Debuff**] } | "Without the weight, you have no anchor — and you are drifting, and the drifting is terrifying." | [The target, unburdened, loses all sense of grounding.] | *Target loses 10 Resilience; they cannot find their footing.* **[10 Grudge DMG [Grudge]]** | When the target remains weightless. |
-| { *The Phantom Mass* [**Attack**] } | "The weight comes back — for one instant — at twice what it was." | [The vanished Weight returns briefly at doubled intensity.] | *Inflicts Grudge pressure and one crushing, sudden wound.* **[14-22 Grudge DMG [Grudge]]** | When the absence is challenged. |
-| { *The Full Return* [**Attack**] } | "Every vanished weight, every lifted burden — all returned at once, all at once." | [Everything it has ever taken up comes back into the room in the same instant, and the floor is the first thing to find out.] | *A heavy Crimson avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Weight is summoned back. |
-| { *No Weight At All* [**Ultimate**] } | "Now nothing has weight — and without weight, nothing matters, and nothing holds." | [Weight stops applying anywhere in the vault, and what is left holding the room together is the sighted straight edge and nothing else.] | *All in range suffer Grudge pressure for three turns in the weightless void.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lightness* [**Debuff**] } | "The relief is accurate. That is what makes it hard to put down." | [Something is lifted off the target without being asked for, and the wrongness arrives behind the relief.] | *Target suffers -10 Resilience; whatever just went cannot be named, contested, or asked back.* **[10 Grudge DMG [Grudge]]** | When the approach holds at the turn distance and relief is reported. |
+| { *The Free Fall* [**Debuff**] } | "Eleven, seventeen, twenty-four. I am counting this." | [The sighted bend deepens while the target stands in it; the longer the stand, the more has quietly been moved off the list.] | *Target loses 10 Resilience; absences accumulate faster than they are noticed.* **[10 Grudge DMG [Grudge]]** | When the watch runs long without a fourth sentence. |
+| { *The Phantom Mass* [**Attack**] } | "A comforting answer returns the phantom mass at double force." | [A false explanation is offered aloud, and the pressure comes back with the story bound to the listener.] | *Inflicts Grudge pressure as the invented account is carried; no wound is produced.* **[14-22 Grudge DMG [Grudge]]** | When somebody names what the figure is carrying. |
+| { *The Full Return* [**Attack**] } | "Nothing was taken, said in this vault, brightens the fire." | [Denial is spoken, and the room fills with every removal that was never written down.] | *A heavy Grudge surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When nothing-taken is asserted aloud. |
+| { *No Weight At All* [**Ultimate**] } | "Everyone in the wing begins looking for what was taken from them in their own paperwork." | [The breach pattern, not a physical one: schedules are compared across a wing in a single afternoon and the comparisons are accurate and cannot be acted on.] | *All in range suffer Grudge pressure for three turns of unnameable absence.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -93,9 +95,9 @@
 ### Consequences
 
 - Failed resistance pays twice. The worker takes the raw pressure on **Resilience**, and whatever the pressure loosens in them is what the entity lives on: the Sorrow Gauge climbs on the worker’s own destabilization, and none of that half of the cost appears in any schedule.
-- Time is the emptied carrier’s ally. The longer the watch runs, the more sorrow accumulates in a worker who has nothing left to weigh against it, until the psychological, somatic and environmental collapses the classification was codified to prevent come due together, with no reason written down for any of them.
-- A M.A.W. activation is the same unyielding exchange — power for price. The parameters are cataloged in the equipment registry, which is the only account of the trade that is ever written down, and the bearer pays the balance directly, out of soul and flesh.
-- An unresolved encounter never simply ends; it converts. Carrying Nothing runs its documented breach pattern, and the sorrow that nothing pacified takes the exit the containment work left open — the one violent departure in this file that carries a stated reason.
+- The slow failure is accumulation: duties quietly moved off the watch itself, absences noticed months late, and a Warden who cannot contest any of it because no decision was ever written. It shows first in the displacement series, not in the worker.
+- Each piece charges the same absence differently — old wounds aching under the pressure of not knowing, reflexes slowing at the hands whenever they reach for what is not there, and every absence felt as personal obligation. The three charges are recorded separately and are never summed into one price.
+- Left unresolved it does not attack. It walks to the nearest sealed records and stands beside them, and the wing around it starts comparing schedules. It ends when somebody states, over the sector channel, that something was removed and that the facility cannot say what.
 
 ## Appearance
 **Primary Form:** A burning humanoid figure carrying nothing, though the air around its back bends under an invisible weight. It stands motionless until approached.
@@ -107,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A burning humanoid figure carrying nothing, though the air around its back bends under an invisible weight. It stands motionless until approached.
-- **Position / movement:** Motionless until approached, then it turns. Record the scheduled approach, the sighted displacement, and the distance at which the turn occurred; it has been within a half-metre of the same distance for nine years.
+- **Position / movement:** Motionless until approached, then it turns. Record the scheduled approach, the sighted displacement, and the distance at which the turn occurred. It has been within a half-metre of the same distance for nine years.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree vault
 
@@ -116,7 +118,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A burning humanoid figure carrying nothing, though the air around its back bends under an invisible weight. It stands motionless until approached. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on Carrying Nothing neither has ever been assumed. |
+| **Position / movement** | Mobile in breach only as far as the next stack of sealed records, where it stands exactly as it stands here. Posture and distance are logged because on Carrying Nothing neither has ever been assumed. |
 | **Material / signature** | Grudge. Fever-hot, char and old smoke, continuous flame and no residue of any kind. |
 | **Distinctive markers** | The sighted displacement from the two floor marks, the swept and empty floor, and the turn at a half-metre of the same distance every time. |
 | **Identification** | If it is moving before you approach, it is not this holding. Stop and report it. |
@@ -134,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It turns, and holds, while the Warden says plainly that something was taken and does not say what. | Decrease |
-| **Pugnahan** | The fire rises and the unseen load presses outward across the vault. Not used. | Increase |
-| **Viderehan** | Holds it steady long enough for a clean sighting from both floor marks. | Stable |
-| **Ferrehan** | The long stand in front of it with nothing offered and no explanation invented. | Decrease |
+| **Flerehan** | It turns, and holds, while the Warden says plainly that something was taken and does not say what. | Decrease · High |
+| **Pugnahan** | The fire rises and the unseen load presses outward across the vault. Not used. | Increase · Low |
+| **Viderehan** | Holds it steady long enough for a clean sighting from both floor marks. | Stable · Common |
+| **Ferrehan** | The long stand in front of it with nothing offered and no explanation invented. | Decrease · Common |
 
 
 
@@ -190,7 +192,7 @@ Along its cutting edge runs a section that cannot be seen from either side, so t
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Carrying Nothing's grudge signature in the strike.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Bearer cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Absent Plate
 
@@ -210,7 +212,7 @@ Behind the shoulders rides an empty load frame built to carry a burden with no s
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Carrying Nothing's kind of pressure.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Bearer cost:** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Absent Burden
 
@@ -226,7 +228,7 @@ The pull under the charm is real and measurable and attached to nothing anyone c
 
 **Ability:** Converts invisible emotional pressure into physical strength.
 
-**Cost:** The wearer feels every absence as a personal obligation.
+**Bearer cost:** The wearer feels every absence as a personal obligation.
 
 *Six charms exist. The acquisition note records that all six were given after a worker completed an approach without offering the figure an explanation of what it was carrying.*
 
@@ -242,12 +244,12 @@ The set is worked under one rule: do not replace the missing thing with a false 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline written by the second worker: which old injuries the bearer carries and where they sit on an ordinary week, so that anything new can be set against something. |
-| **During use** | Every instance of the bearer's old injuries aching out of their usual order is entered with its hour. One is an incident note; a run of them through a shift ends the use, and the observer's clock ends it. |
-| **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a Carrying Nothing piece the use ends there whatever the wielder says. |
-| **After use** | Take the piece back and open the sealed baseline: are the old injuries back on their ordinary schedule, and are the bearer's reflexes where they were when the sheet was written? The answer goes into the record as the observer reads it, whether or not the bearer agrees with it. Assign only the immediate physical task, and return every unresolved absence to shared review rather than to the bearer's personal duty. |
+| **Before use** | Wielder, piece, and a dated baseline written by the second worker: old-injury map for the Fang, catch-and-reach check for the Plate, and the bearer's own current schedule for the Burden, so later removals can be told from the piece's pull. |
+| **During use** | Each occurrence is entered with its hour: old injuries aching out of their usual order, the hands slowing on a reach for something not there, or the bearer volunteering to settle an absence that is not theirs. One is a note; a run through a shift ends the use, and the observer's clock ends it. |
+| **At limit** | The toll stops being felt as the piece's: bruises settle along the old lines, the reach slows without the wearer noticing, or the bearer has begun investigating blank records personally. On this set the use ends there whatever the wielder says. |
+| **After use** | Take the piece back and open the sealed baseline: are the old injuries back on their ordinary schedule, are the reflexes where the sheet had them, and has the bearer handed unresolved absences back to shared review? The answer goes into the record as the observer reads it, whether or not the bearer agrees. |
 
-**Stat interpretation:** A grade here describes how cleanly the material came out of the source and says nothing about what it does to a person; a well-graded piece can still charge a toll no rating accounts for, and a modestly graded one can carry a heavy line. Read the cost column before the grade, and read the bearer's own old injuries as the meter this set runs on.
+**Stat interpretation:** A grade here describes how cleanly the material came out of the source and says nothing about what it does to a person. A well-graded piece can still charge a toll no rating accounts for. And a modestly graded one can carry a heavy line. Read the cost column before the grade, and read the bearer's own old injuries as the meter this set runs on.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -266,7 +268,7 @@ The set is worked under one rule: do not replace the missing thing with a false 
 |---|---|
 | **Initial exposure** | One Warden, scheduled, logged. Sighting from both floor marks before the approach begins, and a floor sweep recorded as clean. |
 | **Sustained observation** | Hold position. Say what is known and no more. The holding is not managed by sympathy and is made worse by invention, and both have been tried. |
-| **Activation or escalation** | The arms extend. That is the offer and it ends the approach. Record the distance, the time, and whether the Warden's hands moved; the last field is answered by the second Warden on the landing, not by the one who approached. |
+| **Activation or escalation** | The arms extend. That is the offer and it ends the approach. Record the distance, the time, and whether the Warden's hands moved. The last field is answered by the second Warden on the landing, not by the one who approached. |
 | **Post-contact review** | Second sighting, floor sweep, approach log, and a note of anything the Warden told the figure. Any sentence beyond the three permitted is entered verbatim and reviewed, not disciplined. |
 
 **Observation method:** Sighting, sweep, approach, words. The sighting is the instrument; the words are the containment.
@@ -275,7 +277,7 @@ The set is worked under one rule: do not replace the missing thing with a false 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Carrying Nothing (C-IIβ-357 [GS]) is a Subject-Grudge manifestation expressing Grudge, held in the Alpha Tree vault at Zone A and approached one Warden at a time on a scheduled, logged basis. It stands still until somebody walks toward it, holds nothing in both hands, and bends a sighted straight edge by 24 millimetres. It stands still until somebody walks toward it, holds nothing with both hands, and bends a sighted straight edge by 24 millimetres.
+Carrying Nothing (C-IIβ-357 [GS]) is a Subject-Grudge manifestation expressing Grudge, held in the Alpha Tree vault at Zone A and approached one Warden at a time on a scheduled, logged basis. It stands still until somebody walks toward it, holds nothing in both hands, and bends a sighted straight edge by 24 millimetres.
 
 **Entry 2 — <Excerpt from Sighting Log, Year 4238>**
 Displacement behind the figure 24 mm by straight-edge sighting, against the 17 and the 11 recorded in the two years before. Taken at every watch from the same two marks on the vault floor. The file still declines to name what is producing the bend and has struck the word burden from three further drafts.
@@ -286,10 +288,10 @@ The office confirms that duties may be moved off a worker's schedule without not
 Filed by the holding rather than a counselor. Recommendation, third year running: Wardens posted here should be shown their own schedule history at briefing, because they all look it up eventually and the ones who do it alone take it worse.
 
 **Entry 4 — <Containment Notice>**
-Management: one Warden, scheduled approach, three true sentences and no fourth; never assert that nothing was taken. Work response — Flerehan: it turns and holds while the removal is acknowledged (Decrease); Pugnahan: the fire rises and the load presses outward, not used (Increase); Viderehan: steady enough for a clean sighting (Stable); Ferrehan: the long stand with nothing invented (Decrease).
+Management: one Warden, scheduled approach, three true sentences and no fourth; never assert that nothing was taken. Work response — Flerehan: it turns and holds while the removal is acknowledged (Decrease). Pugnahan: the fire rises and the load presses outward, not used (Increase). Viderehan: steady enough for a clean sighting (Stable). Ferrehan: the long stand with nothing invented (Decrease).
 
 **Entry 5 — <Archive Note>**
-This Company takes work off a person without telling them why. Not as a punishment and not in secret from the record — the schedule simply changes, the duty appears on somebody else's list, and no reason is written anywhere, because the rule forbids writing one. It was made after a foreman was publicly relieved of his duties in front of his own crew, with the grounds read out, and hanged himself that night; and after a second man, demoted in writing eleven years earlier, was never again given work by anyone who could read the file. The rule has prevented both of those things since. Every welfare officer I have asked says they would keep it.
+This Company takes work off a person without telling them why. Not as a punishment and not in secret from the record — the schedule simply changes, the duty appears on somebody else's list, and no reason is written anywhere, because the rule forbids writing one. It was made after a foreman was publicly relieved of his duties in front of his own crew, with the grounds read out. And hanged himself that night. And after a second man, demoted in writing eleven years earlier, was never again given work by anyone who could read the file. The rule has prevented both of those things since. Every welfare officer I have asked says they would keep it.
 
 What it also prevents is the person knowing. A worker is lightened a task at a time, each removal defensible, none of them notified, and what they are left with is the sensation this holding is made of: relief, and wrongness, and nothing on paper to point at. They cannot contest a decision that was never recorded. They cannot ask for restoration of a duty they have not noticed losing. And when they are gone, nobody can reconstruct what they used to do, because the only trace is a schedule in a shorthand that dies with the department.
 
@@ -301,7 +303,7 @@ The figure in the vault holds nothing with both hands and the air behind it bend
 
 | Leave the missing thing missing: offer no explanation in its place, name no stand-in, and keep the sighted displacement and the ashless fire as the only two readings entered for the visit. | Improvise something kinder, as the file records people doing — find a reason, name the lost thing, or promise the Wardens that what is gone is somewhere — and every failure on this holding's record began with one of those three. |
 |---|---|
-| The displacement holds at 24 millimetres, the fire burns without ash, and the watch closes with the missing thing still missing and the vault entered as it was found. | The fire goes up and the hidden burden comes outward; the entry closes with the reference edge bent to a new figure and the vault reposted for the survey crew. |
+| The displacement holds at 24 millimetres, the fire burns without ash, and the watch closes with the missing thing still missing and the vault entered as it was found. | The fire goes up and the hidden burden comes outward. The entry closes with the reference edge bent to a new figure and the vault reposted for the survey crew. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -312,11 +314,11 @@ The figure stands in the vault with its hands full of nothing, and does not move
 
 **At first contact:** The heat reaches you first and there is no smoke with it. The figure is standing, holding something with both hands, and the straight edge on the near mark is already reading. It does not move while you cross the floor. At a little under three metres it turns, and it has turned at that distance for nine years.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** The sighting does the changing: 11, then 17, then 24 millimetres from the same two floor marks across three years, while the figure itself has never moved before an approach and the floor stays swept and empty.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Grudge becomes something you can taste, hear, or feel on your skin. The Subject-Grudge has crossed the line between containing and becoming.
+**When the entity activates:** The arms extend toward the approaching Warden. That is the offer, and it ends the approach. Record the distance, the time, and whether the Warden's hands moved — answered by the second Warden on the landing, never by the one who reached.
 
-**After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** Wardens look at their own schedules afterwards, which they are allowed to do, and compare them with older ones, which they are also allowed to do. Briefing shows them the history first, because the ones who find the missing duties alone take it worse.
 
 ### Interaction Pattern
 
@@ -327,33 +329,48 @@ Three holdings are kept within reach of the vault — The Memory Lock, The Empty
 
 ### Entity Interaction Record
 
-Carrying Nothing is read beside the other absence files, and the file keeps each of them separate. The Memory Lock withholds something known to exist; the Empty Mask is a person made unfindable at their own request; the Memory Well returns what is put into it. This holding is none of those: what is gone was taken deliberately, kindly, by a competent officer, and the kindness consisted precisely in leaving no account of it.
+Carrying Nothing is read beside the other absence files, and the file keeps each of them separate. The Memory Lock withholds something known to exist. The Empty Mask is a person made unfindable at their own request. The Memory Well returns what is put into it. This holding is none of those: what is gone was taken deliberately, kindly, by a competent officer, and the kindness consisted precisely in leaving no account of it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Lock** | The Lock holds something known to exist and withheld; here nothing is withheld, because nothing was written. The resemblance is in the vault, not the mechanism. | Two proximities. No resonance, no synchronisation, and the displacement ran 23 and 24 mm throughout. Entered as a nil result. | Sightings at one-minute intervals from both marks, floor sweep, approach log. |
-| **The Empty Mask** | Both are absences people chose for good reasons, but the Mask's subject applied in writing and this holding's never knew. The two files are read together at induction for exactly that contrast. | Three proximities, the Mask in its tray throughout. No compounding; the Mask's card grade and this holding's displacement each ran at their own established rate. | Sightings, the Mask's card grades, and both approach logs. |
-| **The Memory Well** | The Well returns what is put into it, which is the one thing that would settle this file's central question. It has been asked and has returned nothing. | One proximity, authorised specifically to test whether the Well could reproduce any item from the sealing schedule. It produced nothing at all. The wing recorded the negative and has not repeated it. | Sightings, the Well's own return record, and a verbatim note of the request made. |
+| [**The Memory Lock**](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md) | The Lock holds something known to exist and withheld; here nothing is withheld, because nothing was written. The resemblance is in the vault, not the mechanism. | Two proximities. No resonance, no synchronisation, and the displacement ran 23 and 24 mm throughout. Entered as a nil result. | Sightings at one-minute intervals from both marks, floor sweep, approach log. |
+| [**The Empty Mask**](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) | Both are absences people chose for good reasons, but the Mask's subject applied in writing and this holding's never knew. The two files are read together at induction for exactly that contrast. | Three proximities, the Mask in its tray throughout. No compounding; the Mask's card grade and this holding's displacement each ran at their own established rate. | Sightings, the Mask's card grades, and both approach logs. |
+| [**The Memory Well**](SE-C-IIIγ-115_Remembrance_기억의_우물.md) | The Well returns what is put into it, which is the one thing that would settle this file's central question. It has been asked and has returned nothing. | One proximity, authorised specifically to test whether the Well could reproduce any item from the sealing schedule. It produced nothing at all. The wing recorded the negative and has not repeated it. | Sightings, the Well's own return record, and a verbatim note of the request made. |
 
 **Interaction procedure:** Four clean watches of sightings before a trial and four after. A trial whose sightings were taken from a single mark is void, and one has been voided on that ground.
 
 ## 이야기 (Narratio) — The Tale
 
-They took the work off people to spare them, and the sparing worked, and what was left was a wrongness with no document behind it to argue with.
+> **From the desk of:** Welfare Officer Ines Bahl, Third Sump station, Year 4,233.
+> **Against:** the standing rule on unrecorded relief, and the four refusals of this office
+> to give it up. Filed because I have now been asked a fifth time.
 
-This Company does not record a reason when it takes a duty off a worker. The rule is older than the vault. It was made after a foreman was relieved of his duties in front of his own crew, with the grounds read out, and hanged himself the same night; and kept after a second man, demoted in writing eleven years before, was never again given work by anybody who could read his file. Since the rule, neither has happened. The welfare office has been asked four times whether it would give the rule up and has said no four times.
+The Company does not record a reason when it takes a duty off a worker. I am asked to explain
+that rule perhaps twice a year and I have never been able to do it to anyone's satisfaction,
+so I am putting it in the file with the two cases that made it.
 
-The lightening is real and the kindness is real. A duty leaves the schedule, appears on somebody else's list, and nothing is written. The worker stands straighter for a season. Supervisors describe the practice, accurately, as the most humane instrument they have.
+The first was a foreman relieved in front of his own crew, with the grounds read out in full.
+He went home and hanged himself that night. The second was a man demoted in writing eleven
+years before, whose file said why, and who was never again given work by anybody who had read
+it. Neither has happened since the rule. That is the whole defence of the rule and it is a
+good one.
 
-What is not written cannot be asked about. The worker has nothing to contest, no decision to appeal, no grounds to request restoration of a duty they were never told they had lost. They are lightened a task at a time, each removal defensible on its own, until there is a person doing very little, with an unblemished record, who cannot name a single thing that was done to them.
+The relief itself is real. A duty comes off one schedule and goes onto another, and nothing is
+written down, and for a season the worker stands straighter and the supervisors say — accurately
+— that it is the most humane instrument this office has. I have said it myself.
 
-The second effect is on the institution. When the lightened worker goes, nobody can reconstruct what they used to do, because the only trace is a schedule written in a departmental shorthand that dies with the department. The sealing authorisation for the Alpha Tree registry is four pages long, impeccable, signed, and attached to a schedule that nobody alive can read.
+What I cannot get past, and what this entry exists to record, is that what is not written
+cannot be asked about. A man who loses a duty in silence has no decision to appeal. He cannot
+ask for it back, because no one has told him it was taken. He cannot ask why, because the
+answer would require the writing the rule forbids. We have made a kindness that cannot be
+examined, and the office is never going to be able to tell whether that is the same thing as
+an unkindness that cannot be examined either.
 
-Carrying Nothing is that arrangement standing in a vault with its hands full. It does not drift and has never drifted; it stands still until somebody walks toward it, and then it turns, and the air behind it bends further every year.
+Four times this office has been asked to give the rule up. Four times it has said no. I am
+recording the fifth request, mine, and its answer, which was also no.
 
-Those who approach feel relief first, and the relief is accurate: something genuinely heavy is not being carried any more. The wrongness arrives second, and it is also accurate, and there is no document anywhere that either feeling can be checked against.
+*— I.B., Year 4,233. Attached: the two case files, the standing rule, and the four refusals.*
 
-Some sorrows are heavy. This one is the shape of a mercy performed correctly: a thing lifted off people by somebody who meant well, under a rule that has saved at least two lives, leaving nobody to blame and nothing to read.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The authorisation is four pages and it is faultless. The schedule attached to it is in a shorthand nobody has been able to read since the department closed.”* — Keeper, Archive
@@ -378,15 +395,15 @@ Some sorrows are heavy. This one is the shape of a mercy performed correctly: a 
 **Observation Notes:**
 - Formed from work removed under an authorisation that was forbidden to state a reason.
 - Sighted displacement 11, 17 and 24 millimetres over three years, from two fixed marks on the vault floor.
-**Cross-References:** Alpha Tree vault · The Establishment Office · The Memory Lock · The Empty Mask · The Memory Well
+**Cross-References:** Alpha Tree vault · The Establishment Office · [The Memory Lock](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md) · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) · The [Memory Well](SE-C-IIIγ-115_Remembrance_기억의_우물.md)
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** The Council and Keepers who sealed the burden.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification is the frame and this record is the picture, and neither of them stands in for standing in the vault. What governs is small and difficult to look at directly: a displacement that can be measured against a straight edge, a fire that leaves no ash, one Warden at a time on a logged approach, and a clause forbidding the one kindness everybody wants to perform. Where the holding does something these pages do not carry, that deviation is the most useful reading of the watch and enters the record as itself, unexplained.
+**Operational interpretation:** The classification is the frame and this record is the picture, and neither of them stands in for standing in the vault. What governs is small and difficult to look at directly: a displacement that can be measured against a straight edge, a fire that leaves no ash, one Warden at a time on a logged approach. And a clause forbidding the one kindness everybody wants to perform. Where the holding does something these pages do not carry, that deviation is the most useful reading of the watch and enters the record as itself, unexplained.
 
-**Review requirement:** Containment is a process here and not a condition of the room. After every incident, take the gauge, the field, the personnel list and the holding's position again, and re-enter exposure and location after any breach, expansion, transformation attempt or unusual interaction. What was measured last week is not evidence about this week, and the record describes a sorrow still running rather than an account anybody can finish.
+**Review requirement:** After any breach or extended-arms approach: both sightings from the two floor marks, the floor sweep, the approach log, and every sentence the Warden said entered verbatim — reviewed, not disciplined. Any assertion that nothing was taken is logged with the fire's response; the displacement series is the trend this file stands behind.
 ## Watch Record
 
 ### Carrying Something Invisible
@@ -413,7 +430,7 @@ The rule is a good rule. A foreman was once relieved of his duties in front of h
 
 The Return was ordered in Year 4236 and first issued in Year 4237. Once a year every worker receives a plain list of the duties that have left their schedule in the preceding year. No reasons — the rule is untouched — only the facts of the removals, and a right to ask for any of them back, which a supervisor must answer in writing within the month.
 
-7,300 lists went out in the first year. 2,100 workers found removals they had not noticed. 980 asked for something back; 612 were granted, most without argument, several with evident relief on both sides. 368 were refused in writing, and for a great many of those people the refusal was the first adverse document that had ever existed about them. Fifty-four resigned within the quarter. One restoration was granted against the supervisor's judgement, to a woman quietly relieved of a load-bearing inspection two years earlier; she took it back, and the inspection she signed in the spring was the one that failed, and a rigger fell. The inquiry found the restoration lawful and the supervisor's original removal unrecorded and therefore unarguable, which is the finding the welfare office had predicted in writing before the scheme began.
+7,300 lists went out in the first year. 2,100 workers found removals they had not noticed. 980 asked for something back; 612 were granted, most without argument, several with evident relief on both sides. 368 were refused in writing, and for a great many of those people the refusal was the first adverse document that had ever existed about them. Fifty-four resigned within the quarter. One restoration was granted against the supervisor's judgement, to a woman quietly relieved of a load-bearing inspection two years earlier. She took it back, and the inspection she signed in the spring was the one that failed, and a rigger fell. The inquiry found the restoration lawful and the supervisor's original removal unrecorded and therefore unarguable, which is the finding the welfare office had predicted in writing before the scheme began.
 
 The welfare office's objection is bound into the scheme's first volume and is recorded as correct: the Return converts an invisible kindness into a document somebody has to sign, and the people who most need the kindness are the least able to survive the document. It has not been answered. Beneath it, in the same hand, is a note listing the 612 restorations and the foreman of Year 4198, with nothing written after either figure.
 
@@ -433,8 +450,8 @@ A vault sealed away something a community was carrying and the people it was tak
 - **Classification detail:** Carrying Nothing is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Grudge is its element and the Alpha Tree vault in Zone A is its registered ground — held there standing still, approached one Warden at a time. |
 - **Recognition detail:** Identify it by the sighted displacement and by the fire that leaves no ash. Emotional impression is the worst guide here: the first reported feeling is relief, and it is accurate.
-- **Record detail:** The Registrum cross-referenced The Keepers; the holding's recorded neighbours are The Memory Lock, The Empty Mask and The Memory Well, and the Keepers appear only as signatories to the sealing authorisation. Corrected.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** The Registrum cross-referenced The Keepers. The holding's recorded neighbours are The Memory Lock, The Empty Mask and The Memory Well, and the Keepers appear only as signatories to the sealing authorisation. Corrected.
+- **Containment detail:** One Warden at a time on a scheduled, logged approach; three true sentences and no fourth; the displacement sighted before and after. Nobody reaches for what it is holding, and nobody tells it that it is holding nothing.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-357

@@ -22,6 +22,7 @@
 | **Grade** | β — Moderate |
 | **Element** | Void |
 | **Slot** | Head |
+| **Maximum Amount** | 4 — Stocked |
 | **Acquisition Probability** | 5% |
 | **Stat Effect** | +1 when working the Debt Scale source record |
 
@@ -54,14 +55,3 @@ A Pendant bearer used Share the Measure during mediation between a Collector and
 ## SET RESONANCE
 
 With Lens and Veil, Share the Measure can reveal whether a debt is maintained by a missing record. The bearer must then choose whether to file that record, a choice the Pendant cannot make.
-
----
-
-**Document ID:** `SE-015-D`  
-**Linked Entity:** `SE-015`  
-**Item Registry Code:** `MAW-G-015-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

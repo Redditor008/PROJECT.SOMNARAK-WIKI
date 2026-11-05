@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "batch": 200,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 97,
+  "short_repairs": 20,
+  "careful_repairs": 77,
+  "before_words": 43204,
+  "after_words": 44466,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 20,
+  "pending_fingerprints_unchanged": 20,
+  "source_changes": 0,
+  "cited_sources_checked": 20,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": "PASS",
+  "table_blocks_equal_cell_counts": "5/5 primaries",
+  "combat_trigger_cells_parsed": "25/25",
+  "final_words": {
+    "N-IVδ-159": 8786,
+    "O-IVδ-897": 8784,
+    "C-IVδ-125": 9044,
+    "C-IVγ-270": 8864,
+    "N-IIα-215": 8988
+  },
+  "counters": {
+    "types": "286/301",
+    "weapon": "284/287",
+    "se_appearance_fix": "18/301"
+  },
+  "fresh_credits": [],
+  "ledger": {
+    "changed": 14,
+    "retained": 4,
+    "held": 261,
+    "blocked": 2,
+    "pending": 20
+  },
+  "next": "Batch 201 opens next prompt on a fresh ranking of the 20 pending dossiers under R-34. Earlier reviewed dossiers remain candidates for the later full recheck/fix pass where their review predates R-34. Draft PR #15 remains open under owner control; no merge, artwork or deployment is authorised."
+}

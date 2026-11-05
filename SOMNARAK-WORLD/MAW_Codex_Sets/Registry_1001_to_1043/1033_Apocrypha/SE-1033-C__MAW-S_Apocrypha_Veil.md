@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Apocrypha Veil
 
-> *“Apocrypha Veil remembers Apocrypha; the bearer must not mistake memory for permission.”*
+> *"It protects a name by removing the record of it. The wearer ends up absent to themselves, having said everything they believe."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Apocrypha's kind of pressure.  
-**Binding rule:** the bearer names Apocrypha's event—A traveler froze in the Desolate while carrying a relic no one else could identify.—and accepts this limit: Mark the site and speak the farewell that was missed
+**Binding rule:** the bearer names Apocrypha's event — “A traveler froze in the Desolate while carrying a relic no one else could identify.” — and accepts this limit: Mark the site and speak the farewell that was missed
+
+
+### Appearance
+
+A veil of Void Han-gossamer worn hooded and long, thin enough that the person under it is legible and the weather behind them is not. It holds the site's cold out and keeps nothing warm; wearers describe putting it on as stepping back a pace from the outline without moving.
 
 ## CORE STATISTICS
 
@@ -25,16 +30,20 @@
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Apocrypha's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
+**Operational / binding cost:** The Veil protects identity by removing the record of it: worn, the wearer is faintly absent to themselves and nobody can quote them back. Worn long, they have said everything they believe and no longer know that they did.
 
 ## ITEM-SPECIFIC HISTORY — *The Apocrypha Source-Trace: Suit Record*
 
-The first Apocrypha Veil field bearer encountered this source response: Tests whether the worker can remain in the cold without answers. The suit uncouples the immediate hazard only after the team attributed it to Apocrypha. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Apocrypha Veil field bearer encountered this source response: Tests whether the worker can remain in the cold without answers. The suit uncouples the immediate hazard only after the team attributed it to Apocrypha. A wearer had said everything they believed and no longer knew they had said it, and the Veil’s binding is the record that could not be quoted back to them.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Apocrypha's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the removal reaches things said in the room, and the wearer’s statements are not on any record at all.
 - Terminal state: Apocrypha's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Mark the site and speak the farewell that was missed” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +52,4 @@ The first Apocrypha Veil field bearer encountered this source response: Tests wh
 
 ## SET RELATIONSHIP
 
-Within *Apocrypha — Witnessed Form*, Apocrypha Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1033-C`  
-**Linked Entity:** `SE-1033`  
-**Item Registry Code:** `MAW-S-1033-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Apocrypha — Witnessed Form*, Apocrypha Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing the wearer said can still be quoted back to them; the first they deny saying, the Veil is out.

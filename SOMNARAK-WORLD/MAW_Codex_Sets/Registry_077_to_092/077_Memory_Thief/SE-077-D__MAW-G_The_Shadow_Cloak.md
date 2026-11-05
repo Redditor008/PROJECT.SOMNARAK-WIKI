@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after a successful Memory Thief work cycle |
 | Acquisition event | The Thief returned a traded memory to Hanul Grey, then left the clasp beside the team’s unsigned route map. |
 | Acceptance condition | The candidate must add their own name to the map before touching the clasp. |
@@ -53,7 +54,7 @@
 
 ### Appearance
 
-The Shadow Cloak is a small clasp charm of pale grey Han glass shaped like a folded cloth, with a dark pin set into its back. It fastens to a collar or lapel and rests cold against the chest. When the bearer touches it and names a person they will return to, the clasp opens a fraction and witnesses retain only a blank margin where the bearer stood. The effect ends the moment the bearer attacks, gives a false name, or changes the return person without recording it, and it does not defeat focused observation or a person using a Memory Anchor. The clasp grows warm when the bearer begins to enjoy being unaccounted for, and a second blank margin appears on the return note when the bearer has stayed hidden too long. It is placed beside the completed return note after use. The clasp is placed beside the completed return note for an hour after use, and the blank margin disappears once the note is read aloud.
+A folded cloth in pale grey Han glass, held shut by a clasp with a dark pin set into the back of it: the Shadow Cloak. It fastens to a collar or lapel and rests cold against the chest. When the bearer touches it and names a person they will return to, the clasp opens a fraction and witnesses retain only a blank margin where the bearer stood. The effect ends the moment the bearer attacks, gives a false name, or changes the return person without recording it, and it does not defeat focused observation or a person using a Memory Anchor. The clasp grows warm when the bearer begins to enjoy being unaccounted for, and a second blank margin appears on the return note when the bearer has stayed hidden too long. It is placed beside the completed return note after use. The clasp is placed beside the completed return note for an hour after use, and the blank margin disappears once the note is read aloud.
 
 ### Passive effect— *No Notice*
 
@@ -85,14 +86,3 @@ Kwon first wore the Cloak while guiding a disoriented worker out of a cache-adja
 With the Lens and Veil, the Cloak creates *Accounted Return*. Its ethical limit is the set’s central mechanism: concealment is permitted only when someone can say where the bearer went and whether they came back.
 
 > *“A stigma that makes absence easy will eventually ask what you believe you owe the people waiting for you.”* — Research Lead Ayshuk
-
----
-
-**Document ID:** `SE-077-D`  
-**Linked Entity:** `SE-077`  
-**Item Registry Code:** `MAW-G-077-01`  
-**Author:** Research Lead Ayshuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

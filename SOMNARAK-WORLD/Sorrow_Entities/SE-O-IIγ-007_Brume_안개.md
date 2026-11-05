@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIγ-007 [VP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; mobile expansion phenomenon |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Echo (II) — Repeats a single pattern: blanketing areas |
 | **Potency** | Major (γ) — High danger in the Desolate |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Place-Phantasmal |
-| **Physical Form** | Non-Organic — Not a creature but a drifting bank of bone-white sorrow-mist that rolls across the Desolate — cold, damp, faintly sweet with the smell of old flowers. Those caught in it lose direction and memory; there is no body to strike, only the fog, and the muffled weeping inside it. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Physical Form** | Non-Organic |
+| **Movement** | Rolls across the Desolate as a bank on the Han-flow current, widening about a hundred metres an hour and taking the direction the flow already has. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -27,10 +27,12 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 per successful work cycle, as timed by the margin's external clock and never by anybody's account |
 | **Work difficulty** | High · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the wall** — The Fog is mobile and follows existing Han-flow lines, and where the flow stalls it stands until the air moves again. |
+| **Work Damage** | 1–3 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a bank thinned and a reach shortened for a while. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -38,25 +40,50 @@
 
 ### Operational Notes
 
-- A successful cycle thins the bank and shortens its reach for a while. The fog reforms on the next flow line. Nothing in the record has ever dispersed it, wind included; it thins when the sorrow underneath it is acknowledged and thickens again when the acknowledging stops.
-- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 75%; this is an expansion holding rather than a breach holding, so what the percentage governs is how far the bank spreads and how fast, not whether something gets out.
-- The 16–22 Han-Energy yield is ordinary for the band and the exposure is not. Time inside the bank is not reliably felt or reported — workers consistently underestimate how long they were in it — so exposure on this holding is timed from outside by a person who never enters, and the external clock is the only figure entered in the log.
-- Taking M.A.W. stock is an event with its own authorisation and is never a prize hung on a clean cycle. Drawing from a Place-manifestation is awkward work and the wing has only ever managed it at the margin, off the bank's edge rather than out of its body — which is why this set is small, and why every piece in it has something to do with direction.
+- A successful cycle thins the bank and shortens its reach for a while. The fog reforms on the next flow line. Nothing in the record has ever dispersed it, wind included. It thins when the sorrow underneath it is acknowledged and thickens again when the acknowledging stops.
+- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism. And the figure here is 75%. This is an expansion holding rather than a breach holding. So what the percentage governs is how far the bank spreads and how fast, not whether something gets out.
+- The 16–22 Han-Energy yield is ordinary for the band and the exposure is not. Time inside the bank is not reliably felt or reported — workers consistently underestimate how long they were in it — so exposure on this holding is timed from outside by a person who never enters. And the external clock is the only figure entered in the log.
+- Taking M.A.W. stock is an event with its own authorisation and is never a prize hung on a clean cycle. Drawing from a Place-manifestation is awkward work and the wing has only ever managed it at the margin, off the bank's edge rather than out of its body — which is why this set is small. And why every piece in it has something to do with direction.
+
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
 
 ## Combat Record
+> **Why this file keeps combat actions.** A bank of fog rolling on the Han-flow at a hundred metres an hour has no hands. Its rows describe what the bank does to whoever is inside it, and they are kept in the record's own form because the expansion is measured in the same metres the rows are costed in.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — no creature locomotion statistic; track this mobile Place by its surveyed bearing, leading edge and elapsed external time, not by an entrant’s estimate |
+| **Speed** | N/A — no creature locomotion statistic. Track this mobile Place by its surveyed bearing, leading edge and elapsed external time, not by an entrant’s estimate |
 | **Resistance** | 30% against Void pressure; 20% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 623/623 |
+| **Sorrow Gauge [Saturation]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
 | **Han Pressure [ATK]** | 18–41 per hit · Void |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
@@ -67,9 +94,8 @@
 | **Threat Role** | Major encounter |
 | **Coherence** | Echo (II) — Repeats a single pattern: blanketing areas |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | High · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically |
 
@@ -77,24 +103,24 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Wisp* [**Debuff**] } | "A tendril of fog drifts in — not water-vapor, but something thinner, colder, less real — and it passes through your skin." | [The bank's void-nature soaks into whoever it reaches, and they feel less solid for it.] | *Target suffers a Void mark; the fog is eroding their solidity.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Fog. |
+| { *The First Wisp* [**Debuff**] } | "A tendril of fog drifts in — not water-vapor. But something thinner, colder, less real — and it passes through your skin." | [The bank's void-nature soaks into whoever it reaches, and they feel less solid for it.] | *Target suffers a Void mark; the fog is eroding their solidity.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Fog. |
 | { *The Thickening* [**Debuff**] } | "The fog densifies — and the thicker it gets, the less of you there seems to be." | [The Fog's accumulation reduces the target's presence; they are fading.] | *Target loses clarity; they are becoming translucent.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains in the Fog. |
 | { *The Cold Current* [**Attack**] } | "The fog surges — a wall of void-mist, driven by a wind that does not exist." | [ A fog-bank strikes with cold, eroding force.] | *Inflicts Void damage; the mist dissolves identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Fog is disturbed. |
 | { *The Total Obscuration* [**Attack**] } | "The bank goes absolute — a grey wall with nothing behind it — and whatever lies past it stops being there at all." | [Opacity takes every reference point away at once.] | *A heavy Void wall of nothing; the reading jumps 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the bank is forced to clear. |
-| { *The Fog World* [**Ultimate**] } | "The bank closes over everything, and inside it nothing holds — no shape, no distance, no staying." | [The drift widens until it owns the whole ground.] | *Everyone in range takes Void erosion for three turns while the bank sits on the ground.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Fog World* [**Ultimate**] } | "The bank closes over everything. And inside it nothing holds — no shape, no distance, no staying." | [The drift widens until it owns the whole ground.] | *Everyone in range takes Void erosion for three turns while the bank sits on the ground.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team fixes the margin, runs lifelines to surveyed points outside the bank, and appoints the external timekeeper, who does not enter and whose call to withdraw is settled as unreviewable before anybody approaches. The bearing and the leading-edge rate are taken first.
-2. **Clash:** Viderehan and Ferrehan are worked across a long engagement, with lifelines run to fixed points outside the bank and an external timekeeper who does not enter. The fog is not struck, pushed, burned or dispersed at any stage; the instruction is in the resolution condition and it is not conditional on how the engagement is going.
+2. **Clash:** Viderehan and Ferrehan are worked across a long engagement, with lifelines run to fixed points outside the bank and an external timekeeper who does not enter. The fog is not struck, pushed, burned or dispersed at any stage. The instruction is in the resolution condition and it is not conditional on how the engagement is going.
 3. **Resolution:** The cycle closes in containment, retreat or management, or against the documented suppression condition: **The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically**. Nothing here is ever struck, pushed, burned or dispersed, at any stage of the watch.
 
 ### Consequences
 
-- The failure here is comfort. A worker losing composure inside the bank does not panic; they settle, stop registering the cold, and stop regarding the exit as worth the walk, while the gauge rises on exactly that.
+- The failure here is comfort. A worker losing composure inside the bank does not panic. They settle, stop registering the cold, and stop regarding the exit as worth the walk, while the gauge rises on exactly that.
 - Time is the hazard here in a specific and measurable way, because the interior makes duration unreliable. Saturation accumulates at the ordinary rate while the worker's sense of it does not accumulate at all, and personnel recovered after long exposure characteristically report a short pleasant walk.
 - M.A.W. activation is an exchange with no negotiation in it; the registry lists the parameters and the bearer pays in memory and self. The payment from this source is made in small pieces nobody misses individually — a route, a face, the name of a street — which is why the cumulative ledger matters more here than the per-use figure.
-- An unresolved encounter does not end, it expands. The bank widens along the flow lines at roughly a hundred metres an hour and keeps widening until the sorrow beneath it is acknowledged; there is no exit condition that does not involve somebody mourning somebody.
+- An unresolved encounter does not end, it expands. The bank widens along the flow lines at roughly a hundred metres an hour and keeps widening until the sorrow beneath it is acknowledged. There is no exit condition that does not involve somebody mourning somebody.
 
 ## Appearance
 **Physical Form:** A moving bank of grey-white fog that is not weather but sorrow made mist. Its interior obscures distance and softens the ground.
@@ -108,8 +134,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Phantasmal
-- **Primary marker:** A moving bank of grey-white fog that is not weather but sorrow made mist. Its interior obscures distance and softens the ground.
-- **Position / movement:** Mobile, drifting along the Han-flow lines at about walking pace; plot the leading edge against the flow survey and the surveyed markers, and record the bearing rather than the position.
+- **Position / movement:** Mobile, drifting along the Han-flow lines at about walking pace. Plot the leading edge against the flow survey and the surveyed markers, and record the bearing rather than the position.
 - **Element signature:** Void
 - **Registered location:** The Desolate — mobile
 
@@ -117,11 +142,10 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A moving bank of grey-white fog that is not weather but sorrow made mist. Its interior obscures distance and softens the ground. |
-| **Position / movement** | Mobile, drifting along the Han-flow lines at about walking pace; plot the leading edge against the flow survey and the surveyed markers, and record the bearing rather than the position. |
+| **Position / movement** | Mobile, drifting along the Han-flow lines at about walking pace. Plot the leading edge against the flow survey and the surveyed markers, and record the bearing rather than the position. |
 | **Material / signature** | Void. Bone-white, cold and damp, faintly sweet with old flowers; muffled weeping at no locatable distance, and ground that measurably softens under the bank. |
-| **Distinctive markers** | Follows Han-flow lines through the Desolate. Moves at approximately walking speed. Carries the despair of nomads who wandered until hope failed. |
-| **Identification** | The designation is the first filter and the flow survey is the second; confirm the bearing, the pace and the manifestation agree with the file before anyone approaches the margin. |
+| **Distinctive markers** | Follows Han-flow lines through the Desolate at roughly a walking pace. The bank crossing ground and the bank growing are recorded separately, and only the growing figure sets the perimeter. Carries the despair of nomads who wandered until hope failed. |
+| **Identification** | The designation is the first filter and the flow survey is the second. Confirm the bearing, the pace and the manifestation agree with the file before anyone approaches the margin. |
 
 **Appearance protocol:** There is no body to describe, so the protocol describes an edge and an interior. For the edge: the height of the bank, the bearing and timed rate between surveyed markers, the sharpness of the boundary, and the depth at which a hand becomes invisible. For the interior, observe from the margin and record the sounds — weeping is the usual report, muffled, at no locatable distance — and the smell, which is cold and damp and faintly of old flowers and has been described in those terms by every observer since commissioning. Record what the ground does under the bank; it softens, and the softening is measurable. Never estimate distance from inside. The interior makes distance unreliable, and an interior estimate entered in a log has twice sent a recovery party to the wrong marker.
 
@@ -129,7 +153,7 @@
 
 The mist bank is the Place-manifestation itself. The nomads supply its sorrow and wandering pattern, not a solid body concealed at its centre. Viderehan's routes and silhouettes are reported within that obscuring interior; they do not establish surviving nomads or separate bodies that can be struck. Muffled weeping without a locatable distance likewise does not locate a mouth.
 
-Read extent, density and personnel effects separately. A thinning edge, a widening bank, softened ground and a worker losing the wish to leave are related observations, not interchangeable measurements. Neither a moving Place nor the Type's Transform possibility establishes a witnessed conversion into a creature. The Veil's visible outline belongs to an equipped wearer, and the Lantern's directional light belongs to a portable piece; neither supplies the fog with a face or a central beacon.
+Read extent, density and personnel effects separately. A thinning edge, a widening bank, softened ground and a worker losing the wish to leave are related observations, not interchangeable measurements. Neither a moving Place nor the Type's Transform possibility establishes a witnessed conversion into a creature. The Veil's visible outline belongs to an equipped wearer, and the Lantern's directional light belongs to a portable piece. Neither supplies the fog with a face or a central beacon.
 
 The movement rate remains unsettled: walking pace and the stated metres-per-hour rate are not equivalent measurements, and this file gives no crosswalk between them. Nor does the account of temporary thinning resolve the clauses promising dissipation. Keep those discrepancies visible rather than inventing separate travel speeds, a weather cycle or a final dispersed state.
 
@@ -138,38 +162,25 @@ The movement rate remains unsettled: walking pace and the stated metres-per-hour
 - **The Sorrow:** Wandering with no destination, no shelter, and no remaining belief that anybody would come looking.
 - **The Event:** A crossing that went on past the point of return. Isolation and exhaustion took away the direction home, and what was left went into the air rather than into the ground.
 - **The People:** Unnamed wanderers of the open land, with no roll, no settlement of origin and no survivor to supply either. The commissioning file states the absence outright rather than letting it be inferred, and records that this entity is the only account of them that exists.
-- **Expanded origin context:** The Desolate flow survey, maintained for unrelated purposes, turns out to be the best document the holding has: the bank keeps to the flow lines, and the lines run where the crossings ran. Nothing else about the formation can be dated, and the wing has declined twice to assign it a date for the sake of having one. What it will say is narrower and better evidenced — the Han signature predates both the city and the Consolihan, and the comparison against the region's meteorological returns was run over a long period precisely so that nobody would ever again have to argue that this is weather.
+- **Expanded origin context:** The Desolate flow survey, maintained for unrelated purposes, turns out to be the best document the holding has: the bank keeps to the flow lines, and the lines run where the crossings ran. Nothing else about the formation can be dated, and the wing has declined twice to assign it a date for the sake of having one. What it will say is narrower and better evidenced — the Han signature predates both the city and the Consolihan. And the comparison against the region's meteorological returns was run over a long period precisely so that nobody would ever again have to argue that this is weather.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-The Fog does not respond to Work Types in the traditional sense.
+| Stage | What is done |
+|---|---|
+| **Approach** | The fog dissipates when the sorrow it covers is acknowledged and mourned. |
+| **Handling** | Do not fight it physically — which is the whole of the cycle; the stages are the frame and the condition is the work. — see `## Handling Process` |
+| **Withdrawal** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 75% — is done on purpose. |
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** (Observation) | The observer sees faint routes and silhouettes of the lost nomads. | Stable |
-| **Ferrehan** (Endurance) | The fog tests the will to continue moving; persistence permits eventual exit. | Decrease |
-### Special Behaviors
-- Those who stay too long lose the will to move.
-- The fog's Han-signature predates the city and the Consolihan.
-- It changes subtly: walls, floors, and air thicken in areas it covers.
-
-
-
-### Operational Work Notes
-
-Brume is an Object/Place with Place-Phantasmal manifestation and Void expression, mobile along the Han-flow lines of the Desolate and held by a plotted course rather than a wall. Viderehan shows the routes and the silhouettes and moves nothing. Ferrehan is the work, and what it tests is whether a worker will keep moving when moving has stopped seeming worthwhile. Nothing may be struck, pushed, burned or dispersed at any stage of either.
-
-**Reading the response:** Read it in density and in the people, since the fog has no posture to read. A falling gauge presents as thinning — the bank shallower at the edge, the far markers coming back into view, the weeping quieter and further off. The pressure drops and the source is untouched; a lower gauge is a window and not a door, and the fog is somewhere else by morning. A rising gauge presents as **ease**. The interior becomes comfortable, the cold stops registering, and the people inside stop wanting to come out — not from fear, but because leaving has quietly stopped seeming worth the effort. That is the characteristic failure here and it does not look like distress from inside or outside. The external timekeeper exists for this reason and their call to withdraw is not reviewable from within the bank.
 ## Expansion Behavior
 
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | Han-flow currents and concentrated sorrow draw the fog. |
-| **Expansion Rate** | Approximately 100 meters per hour, near walking speed. |
+| **Expansion Rate** | About a hundred metres an hour at the edge. That is a different measure from the pace the bank travels at — the fog arrives at a walk and its extent grows by the hour — and it is the edge figure the perimeter is drawn against. |
 | **Expansion Effect** | Hope drains away; movement becomes difficult and the affected area feels soft and unstable. |
 | **Containment** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. |
 
@@ -177,9 +188,9 @@ Brume is an Object/Place with Place-Phantasmal manifestation and Void expression
 
 ### Escalation Notes
 
-Expansion here is lateral and quiet. Record the bearing, the timed leading-edge rate between surveyed markers, the ground covered and what was on it, the external clock reading beside every personnel entry, and the point at which the widening stopped. The bank spreads along the flow lines at about a hundred metres an hour and keeps spreading until somebody mourns somebody; there is no other recorded exit.
+Expansion here is lateral and quiet. Record the bearing, the timed leading-edge rate between surveyed markers, the ground covered and what was on it, the external clock reading beside every personnel entry, and the point at which the widening stopped. The bank spreads along the flow lines at about a hundred metres an hour and keeps spreading until somebody mourns somebody. There is no other recorded exit.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** establish a safe perimeter, identify whether what is happening is an activation or an expansion, remove nonessential personnel, and apply this condition: The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. Do not use an unlisted Work Type as an improvised countermeasure.
 
 
 ### Detailed Activation Record
@@ -189,7 +200,7 @@ Expansion here is lateral and quiet. Record the bearing, the timed leading-edge 
 | **Trigger** | Han-flow currents and concentrated sorrow draw the fog. |
 | **Manifestation** | Place-Phantasmal |
 | **Primary effect** | Hope drains away; movement becomes difficult and the affected area feels soft and unstable. |
-| **Duration / rate** | Approximately 100 meters per hour, near walking speed. |
+| **Duration / rate** | Continues until the sorrow is acknowledged. The edge widens about a hundred metres an hour throughout, at a rate that does not change with wind, temperature or the number of people watching it. |
 | **Risk** | Major (γ). Hope drains, the ground softens, and the people inside stop wanting to leave while reporting that they are fine. |
 | **Management** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. |
 
@@ -215,11 +226,11 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 **Attack Pattern:** Skewer
 **Target Coverage:** A single line, cutting through up to three targets standing in the same bearing
 **Falloff Rule:** 100% to the first target in the line, 70% to the second, 50% to the third — the cut loses definition with depth, as everything does here.
-**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the two are tracked apart because the lingering portion persists after the line has closed.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation. The two are tracked apart because the lingering portion persists after the line has closed.
 
 **Ability:** The strike lands on the Soul — on identity, on memory, on the sense of having somewhere to go back to. It carries the source's signature, and targets come out of it briefly unsure which way they came in.
 
-**Cost:** The wielder loses small memories with each use, always ones too minor to notice going: a turning, a face in a crowd, the name of a place they passed through once.
+**Bearer cost:** The wielder loses small memories with each use, always ones too minor to notice going: a turning, a face in a crowd, the name of a place they passed through once.
 
 ### M.A.W. Suit — The Hope Veil
 
@@ -237,7 +248,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Ability:** Grants resistance to Void pressure, shielding the Soul against erosion of identity and memory. It is rated for the interior of the bank and is the only piece in the set cleared for extended wear inside one.
 
-**Cost:** The wearer feels faintly absent to themselves, as though watching their own shift from a short distance behind it. The sensation persists for some hours after the piece is removed.
+**Bearer cost:** The wearer feels faintly absent to themselves, as though watching their own shift from a short distance behind it. The sensation persists for some hours after the piece is removed.
 
 ### M.A.W. Stigma — The Hope Lantern
 
@@ -249,9 +260,9 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 **Acquisition Probability:** 4%
 **Effect:** +2 to the working stat while this piece's source entity is the subject of the cycle, and nothing on any other holding
 
-**Ability:** Creates a field of hope that counters despair-based effects. Its directional aid requires a real physical anchor; where none exists, the Lantern shows nothing. A next step toward rope, another person or an exit is not a promise of a safe journey home. The thumb-sized case has a dark frame and a small cord ring, with no opening for a wick; its bearer cannot supply a missing destination by tending it like an ordinary lamp.
+**Ability:** Creates a field of hope that counters despair-based effects. Its directional aid requires a real physical anchor; where none exists, the Lantern shows nothing. A next step toward rope, another person or an exit is not a promise of a safe journey home. The thumb-sized case has a dark frame and a small cord ring, with no opening for a wick. Its bearer cannot supply a missing destination by tending it like an ordinary lamp.
 
-**Cost:** The flame draws from the user's own hope and dims as that hope is exhausted.
+**Bearer cost:** The flame draws from the user's own hope and dims as that hope is exhausted.
 
 *A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, as unpredictable as the fog's own course, and no procedure obliges one.*
 
@@ -344,17 +355,17 @@ The air changes first. Weight gathers behind your eyes, and the horizon folds in
 
 Brume is read against the other holdings that move through open country, and the question put to every pairing is whether the bank leaves its flow lines. In the whole plotted record the few departures have each turned out to be corrections in the survey rather than decisions by the fog, which is the strongest negative finding in the file and is kept at the head of this section for that reason.
 
-**Interaction method:** Baseline each entity alone; an interaction reading taken against an unbaselined bank cannot be told apart from the fog's ordinary drift. The relations on file concern loss of direction, open country, or things that cover other things, so the question to settle is whether the bank alters course for the other presence — a departure from the flow lines would be the finding, since in the whole plotted record the few departures have each turned out to be changes in the survey rather than in the fog. Log onset, distance, duration, gauge change on both sides, ground effect, and whether separation reverses it. Re-verify every cycle.
+**Interaction method:** Baseline each entity alone; an interaction reading taken against an unbaselined bank cannot be told apart from the fog's ordinary drift. The relations on file concern loss of direction, open country, or things that cover other things. So the question to settle is whether the bank alters course for the other presence — a departure from the flow lines would be the finding, since in the whole plotted record the few departures have each turned out to be changes in the survey rather than in the fog. Log onset, distance, duration, gauge change on both sides, ground effect, and whether separation reverses it. Re-verify every cycle.
 
 
 ### Entity Interaction Record
 
-Brume belongs with the sorrows that travel through open country, not with the weather. What follows is canonical because it has been observed and filed, not because any of it is closed: each pairing may show up as help, as a block, as indifference, or as something that only appears under load, and no single result survives a Sorrow Tide, a breach, an Ordeal or a transformation.
+Brume belongs with the sorrows that travel through open country, not with the weather. What follows is canonical because it has been observed and filed, not because any of it is closed: each pairing may show up as help, as a block, as indifference, or as something that only appears under load. And no single result survives a Sorrow Tide, a breach, an Ordeal or a transformation.
 
 | Holding sharing the country | How the two have run | What the margin logged | What the entry keeps |
 |---|---|---|---|
-| **The Hollow Choir** | The Choir sings near the bank and the file calls it recognition. | Six co-incidences. The Choir's output changes and the bank's bearing, rate and density do not; the resonance is audible and has never shown up in any instrument reading taken on this side. | The six events, the unchanged bearing and rate series, and the null instrument record. |
-| **The Maw** | Both are old sorrow in open country, and the resemblance has never been operationalised. | No approach has been authorised and none is sought. The only shared data are two occasions on which the flow line carried the bank within four kilometres; nothing measurable occurred on either and the distance was never closed. | Both passages, the distance of closest approach, and the absence of any authorised approach. |
+| **The Hollow Choir** | The Choir sings near the bank and the file calls it recognition. | Six co-incidences. The Choir's output changes and the bank's bearing, rate and density do not. The resonance is audible and has never shown up in any instrument reading taken on this side. | The six events, the unchanged bearing and rate series, and the null instrument record. |
+| **The Maw** | Both are old sorrow in open country, and the resemblance has never been operationalised. | No approach has been authorised and none is sought. The only shared data are two occasions on which the flow line carried the bank within four kilometres. Nothing measurable occurred on either and the distance was never closed. | Both passages, the distance of closest approach, and the absence of any authorised approach. |
 | **The Kind Healer** | The Healer cannot enter; the density defeats it at the margin. | Attempted twice at the Healer's own instigation and abandoned both times at the edge. The bank was unaffected in bearing, rate and density. The relationship is recorded because the failure is informative, not because anything was achieved. | Both attempts, the point of abandonment, and the unchanged density series. |
 | **The Scar Walker** | The Walker works the margin and turns travellers away from the deep ground. | The only pairing with an operational benefit, and the benefit is to people rather than to either holding. Neither entity's readings move. The wing coordinates warnings with the Walker's patrol line and logs the coordination as a routing matter. | The warning log, the patrol line, and both unchanged reading series. |
 
@@ -392,7 +403,7 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 **Common Name:** Brume
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Major (γ). It kills nobody directly. It removes the wish to leave, and the people inside report comfort while it does so; the hazard is the holding's effect on judgement, not its pressure. The aftereffect is on the clock: parties come out wrong about elapsed time by a factor of 2 or more, and that pairing is entered as its own record.
+**Threat Assessment:** Major (γ). It kills nobody directly. It removes the wish to leave, and the people inside report comfort while it does so. The hazard is the holding's effect on judgement, not its pressure. The aftereffect is on the clock: parties come out wrong about elapsed time by a factor of 2 or more, and that pairing is entered as its own record.
 **Containment & Handling Procedures:**
 - The 2 valid Work Types, Viderehan and Ferrehan; it is an Object/Place, and nothing here may be wept with or confronted.
 - Margin work with lifelines to surveyed points, an external timekeeper who never enters, and no entry on an unplotted bearing.
@@ -400,16 +411,16 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 **Observation Notes:**
 - Nomads crossed the open land until the sense of return was gone; the despair condensed into mist and kept wandering.
 - There is no engagement record in the ordinary sense. Every incident on file is an exposure that ran longer than the worker believed it had.
-- Taken from the edge of the bank only; the set is small, the pieces are about direction, and the cost is deducted from memory in amounts too small to notice singly.
-**Cross-References:** The Desolate Han-flow survey · the meteorological comparison returns · the Scar Walker's patrol line
+- Taken from the edge of the bank only. The set is small, the pieces are about direction, and the cost is deducted from memory in amounts too small to notice singly.
+**Cross-References:** The Desolate Han-flow survey · the meteorological comparison returns · [the Scar Walker](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md)'s patrol line
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** Unnamed wanderers of the Desolate, no roll surviving; the commissioning file records the absence of names as a fact of the case rather than as a research gap.
+**Originator:** Unnamed wanderers of the Desolate, no roll surviving. The commissioning file records the absence of names as a fact of the case rather than as a research gap.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification is the frame and this record is the picture, and neither substitutes for standing at the edge with a watch. The suppression condition is the difficulty. The fog thins when the sorrow it covers is acknowledged and mourned, and the people it is made of left no names — the commissioning file says so outright rather than letting the absence be inferred, and observes that this entity is the only record those wanderers have. So the containment practice is a mourning conducted for strangers, by people who did not know them, with nothing to read out. The wing has no procedure for that and has not written one; what exists instead is a convention, unofficial and universally followed, by which the party at the margin says aloud where the bank came from and what is known of how it formed before any cycle begins. Two commanders have proposed formalising it. Both proposals were withdrawn by their own authors, one of them minuting that an order to grieve would produce compliance and nothing else. Where the entity contradicts this file, trust the entity and log the contradiction.
+**Operational interpretation:** The classification is the frame and this record is the picture, and neither substitutes for standing at the edge with a watch. The suppression condition is the difficulty. The fog thins when the sorrow it covers is acknowledged and mourned. And the people it is made of left no names — the commissioning file says so outright rather than letting the absence be inferred. And observes that this entity is the only record those wanderers have. So the containment practice is a mourning conducted for strangers, by people who did not know them, with nothing to read out. The wing has no procedure for that and has not written one. What exists instead is a convention, unofficial and universally followed, by which the party at the margin says aloud where the bank came from and what is known of how it formed before any cycle begins. Two commanders have proposed formalising it. Both proposals were withdrawn by their own authors, one of them minuting that an order to grieve would produce compliance and nothing else. Anything the entity does that this file does not account for is logged as it stands, and no order in the addendum is rewritten to produce compliance with it.
 
-**Review requirement:** After every expansion, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, recheck the gauge, the exposure log, the bearing and the covered area before work resumes. Two further items are required here. Every logged exposure is checked against the external clock rather than the worker's account, as a matter of routine and without implying anything about the worker. And any member who has been inside the bank twice in a shift is stood down regardless of the recorded durations, because the second entry is the one after which people stop timing themselves.
+**Review requirement:** After every expansion, Sorrow Tide, Ordeal or unusual interaction, recheck the gauge, the exposure log, the bearing and the covered area before work resumes. Two further items are required here. Every logged exposure is checked against the external clock rather than the worker's account, as a matter of routine and without implying anything about the worker. And any member who has been inside the bank twice in a shift is stood down regardless of the recorded durations, because the second entry is the one after which people stop timing themselves.
 ## Watch Record
 
 ### Fog That Is Not Weather
@@ -442,7 +453,7 @@ Almost everybody who has been inside this fog chose to be. The arrival is predic
 
 And it is precisely why the usual protections do not reach. A voluntary exposure is governed by consent, and consent is held to be continuing — the worker may withdraw it at any moment, and the right to walk out is what makes the arrangement lawful in the first place. Every system in the facility rests on that: the person inside is the one who decides they have had enough.
 
-The thing this fog takes is the wish to decide. **Not the ability to leave, which is unimpaired — people inside can walk, and can walk out, and do not.** What goes is the sense that leaving is worth the effort, and it goes quietly, without distress, without any outward sign, and without ever presenting to the person as a change. So consent here cannot be withdrawn, and therefore never is, and a protection that is never invoked reads in every return as a protection that was never needed.
+The thing this fog takes is the wish to decide. **Not the ability to leave, which is unimpaired — people inside can walk, and can walk out, and do not.** What goes is the sense that leaving is worth the effort. And it goes quietly, without distress, without any outward sign. And without ever presenting to the person as a change. So consent here cannot be withdrawn, and therefore never is, and a protection that is never invoked reads in every return as a protection that was never needed.
 
 The file puts it in one line: *the safeguard is the worker's own judgement, and the hazard is the worker's own judgement.*
 
@@ -450,15 +461,15 @@ The file puts it in one line: *the safeguard is the worker's own judgement, and 
 
 What the wing could do was move the decision outside, and it did, completely.
 
-The external timekeeper stands at the margin, does not enter, and may end any exposure at any moment. **Their call is not reviewable — not by the team, not by the commander, not afterwards.** The post carries no rank requirement, which was deliberate: the wing found that a timekeeper who could be argued with was argued with, and that seniority inside the bank beats seniority outside it every time. The most junior member of a party can and regularly does order a watch commander out of the fog.
+The external timekeeper stands at the margin, does not enter, and may end any exposure at any moment. **Their call is not reviewable — not by the team, not by the commander, not afterwards.** The post carries no rank requirement, which was deliberate: the wing found that a timekeeper who could be argued with was argued with. And that seniority inside the bank beats seniority outside it every time. The most junior member of a party can and regularly does order a watch commander out of the fog.
 
 The cost falls on the person holding the watch, and it is not small. Desolate interior certification is accrued from logged interior hours, and the timekeeper logs none — by definition, for the whole of every rotation they hold the post. **Fourteen people have held it over nine years. None of them accrued a single interior hour toward certification while holding it, and four left the wing still uncertified.** The post is filled by volunteers and the wing has never had to ask twice.
 
-The training board's objection is minuted and read at every annual review. A wing may not build a safety control out of its own people's careers; progression is a protected entitlement and cannot be traded away by consent inside a small team; and the arrangement falls hardest on junior staff, who are the ones most often given the watch. The minute records the objection as **correct, and uncorrected**, notes that the board has twice offered to credit notional hours and that the wing declined because a notional hour is a fiction entering a certification record, and leaves the post as it is.
+The training board's objection is minuted and read at every annual review. A wing may not build a safety control out of its own people's careers. Progression is a protected entitlement and cannot be traded away by consent inside a small team. And the arrangement falls hardest on junior staff, who are the ones most often given the watch. The minute records the objection as **correct, and uncorrected**, notes that the board has twice offered to credit notional hours and that the wing declined because a notional hour is a fiction entering a certification record, and leaves the post as it is.
 
 ## Trivia
 
-- It travels at about the speed of a person on foot, and inside it neither time nor distance can be judged; the pace outside is reliable and nothing inside is.
+- It travels at about the speed of a person on foot, and inside it neither time nor distance can be judged. The pace outside is reliable and nothing inside is.
 - Wind does not move it. It thins when the sorrow under it is acknowledged and thickens again when the acknowledging stops, and nothing else on record has ever changed its density.
 
 
@@ -468,7 +479,7 @@ The training board's objection is minuted and read at every annual review. A win
 - **Classification detail:** Brume is an Object/Place with Echo (II) — Repeats a single pattern: blanketing areas coherence and Major (γ) — High danger in the Desolate potency.
 - **Field detail:** Its defining element is Void, and its registered location is The Desolate — mobile.
 - **Recognition detail:** Identify it by its pace and its course. It keeps to the Han-flow lines and moves at about the speed of a person on foot, and that constancy is the holding's single most useful property — it is what makes the warning to outlying parties reliable.
-- **Record detail:** Several filed entities present as mist, cloud or obscurement, and more than one is mobile in the Desolate. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, which is whether the thing may be dispersed, and here it may not.
+- **Record detail:** Several filed entities present as mist, cloud or obscurement, and more than one is mobile in the Desolate. Confirm the designation and the manifestation before a cycle is booked. The instructions diverge at the decisive point, which is whether the thing may be dispersed, and here it may not.
 - **Containment detail:** There is nothing to seal and nowhere to seal it. Containment on this holding is a plotted course, a timed warning to whoever is downwind of the flow line, and a margin nobody crosses without a lifeline. Because the arrival is predictable, almost everybody who has been inside this fog chose to be, and the file records that fact without comment.
 ## Document Information
 

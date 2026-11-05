@@ -20,7 +20,7 @@ An invisible speaking chain moves link by link through Echo Gardens memories. It
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Lament |
-| Gauge / Pressure | 35–50% / 10–23 |
+| Gauge / Pressure | 000% / 10–23 |
 | Observation | 2 |
 | Set | The Returned Links |
 
@@ -43,13 +43,3 @@ An echo forms after a shared memory is witnessed by consenting participants and 
 Link shares one memory, Shroud preserves each person, and Requiem severs unauthorized attachment. The relationship may be remembered together while ownership returns separately. Keeping a copy, adding an unconsenting participant, or treating shared history as identical identity makes the Chain drag everyone into one voice.
 
 **Source:** `SE-O-IIβ-467_Memory_Chain_솟구친_사슬.md`
-
----
-
-**Document ID:** `SE-467-A`  
-**Linked Entity:** `SE-467`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Harbinger work |
 | Bestowal event | The Charm appeared after a balance review made Harbinger’s shadow recede for one full count. |
 | Acceptance condition | The candidate names a reviewer who may dispute the Charm’s reading. |
@@ -85,14 +86,3 @@ Park used the Charm during a debt-support meeting and saw a pressure line that t
 The Charm is the evidence limit of *Face the Ledger*. Maul responds to present pressure and Step enables safe movement; this Stigma keeps the set from treating dread as proof.
 
 > *“An obligation may be real. The fear around it is not a receipt.”* — Auditor Yuna
-
----
-
-**Document ID:** `SE-155-D`  
-**Linked Entity:** `SE-155`  
-**Item Registry Code:** `MAW-G-155-01`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

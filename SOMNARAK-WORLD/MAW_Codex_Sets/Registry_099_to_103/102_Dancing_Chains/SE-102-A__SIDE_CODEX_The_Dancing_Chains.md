@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-102 [GO]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Zone B external-release containment
 
@@ -21,7 +21,7 @@
 |---|---|
 | Entity | The Dancing Chains — 춤추는 사슬 |
 | Sorrow Category | City Sorrow |
-| Type / Manifestation | Object/Place, I-Relic — Object-Grudge |
+| Type / Manifestation | Object/Place, I-Relic — Non-breaching: activation only / Object-Grudge |
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Grudge |
 | Location | SECTOR-B-01, Zone B |
@@ -59,12 +59,14 @@ The Chains look forged until the eye follows one link: it is grown, ridged, and 
 
 ## PAGE 02 — MANAGEMENT PAGE
 
-| Work Type | Source response | Gauge result | Field rule |
+| Stage | What is done | Who holds it | What it costs |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Do not attempt to comfort the Chains as though they can choose an answer. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Forceful removal becomes a binding hazard. |
-| Viderehan | The links become still for safe study. | Stable | Keep hands outside contact range and record the first urge to move. |
-| Ferrehan | Temporarily binds a worker and tests endurance of motion. | Down | An outside release team must be in position before the test begins. |
+| **Approach** | Name the bearer and name the fitter, in two different hands. The fitter stays outside the working distance with their hands free for the whole cycle. | Two people minimum. The piece is brought to the bearer and is never carried by them. | A watch, and the second person's whole attention for the length of it. |
+| **Handling** | The fitter fits it; the bearer wears it. The period is read from outside. The bearer cannot remove it, cannot be talked through the removal, and cannot authorise removal on their own behalf. | The fitter, from outside the working distance. | Binding a worker briefly and testing whether they can endure the motion is the only thing that lowers the gauge — the only effective handling puts somebody inside it. |
+| **Withdrawal** | The fitter removes the piece. The bearer does not lead the withdrawal and does not wear it out of the working distance. | The fitter leads; the duty Warden signs the period. | The bearer's account becomes unreliable exactly when the gauge rises: they report feeling capable, efficient and unusually well. |
+| **Refusal** | Do not let the bearer attempt removal alone, whether or not it succeeds. Do not run a cycle with one person. | Standing Order, no exception for brevity. | Attempting removal alone is a procedural failure whether or not it works. |
+
+**This holding is not worked** (`R-40`). Comforting the Chains and forcing them are not Work Types; they are two ways to hurt the person wearing them.
 
 ### Activation response
 
@@ -169,13 +171,3 @@ The source object is an I-Relic. Its entity-extracted Weapon, Suit, and Stigma r
 **Entity links:** The Hollow Choir; The Maw; The Kind Healer.  
 **Source distinction:** The original Dancing Chains remain a contained I-Relic. `Unbound Step` items are not copies of the original binding object.  
 **Item links:** `SE-102-B`, `SE-102-C`, and `SE-102-D` document individual release, corrosion, and bearer safeguards.
-
----
-
-**Document ID:** `SE-102-A`  
-**Linked Entity:** `SE-102`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

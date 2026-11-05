@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Promise Shard
 
-> *“The Promise Shard remembers Shard of a Broken Promise; the bearer must not mistake memory for permission.”*
+> *"It prevents one betrayal and hands you the doubt it used. The checking becomes the thing you were spared."*
 
 ---
 
@@ -17,44 +17,34 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Protects the wearer from one anticipated betrayal.  
-**Binding rule:** the bearer names Shard of a Broken Promise's event—An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
-
+**Binding rule:** the bearer names Shard of a Broken Promise's event — “An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.” — and accepts this limit: declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.  
+**Gauge:** 000/880; opens at 000%; no attack pattern is filed for this Lament manifestation — the pitch against its 112-hertz resting value is the reading.
 ## Appearance
 
-The Promise Shard is the stigma record of the Shard of a Broken Promise’s set — tail- slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is preemptive: it protects the wearer from one anticipated betrayal, the broken vow’s survivor guarding against the wound it knows best. Binding names the source event — an artifact promised to a family’s protection was left behind in evacuation; the promise broke, the artifact survived — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is ambient: the wearer feels every broken promise nearby, the neighborhood’s failures all audible at once, and prolonged use makes the sorrow autobiographical. The source-trace fixed doctrine: the stigma shows the promise and the moment it failed — vow and breaking held in one view, neither softened — and it stayed the hazard only after attribution to the Shard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Promise Shard is the stigma record of the Shard of a Broken Promise’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is preemptive: it protects the wearer from one anticipated betrayal, the broken vow’s survivor guarding against the wound it knows best. Binding names the source event — an artifact promised to a family’s protection was left behind in evacuation; the promise broke, the artifact survived — and accepts the registry’s limit: declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have. The cost is the doubt the Shard works with: after it prevents one betrayal, the bearer cannot trust anyone without checking, and the checking becomes the betrayal they were spared. The source-trace fixed doctrine: the stigma shows the promise and the moment it failed — vow and breaking held in one view, neither softened — and it stayed the hazard only after attribution to the Shard. Read as the bearer's own doubt, the prevented betrayal was charged to them in full: they could not trust anybody without checking, and the checking became the betrayal they had been spared. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels every broken promise in the surrounding area. Continued use makes Shard of a Broken Promise's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shard spends itself on the first betrayal it prevents and charges the bearer the doubt it used: from that moment they cannot trust anyone without checking. Carried long, the checking becomes the betrayal they were spared.
 
 ## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Stigma Record*
 
-The first The Promise Shard field bearer encountered this source response: Shows the promise and the moment it failed. The stigma stays the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Shard encountered this source response: Shows the promise and the moment it failed. The stigma stays the immediate hazard only after the team attributed it to Shard of a Broken Promise. A bearer checked a promise that had never been broken and could not afterwards take it on trust, and the Shard’s binding is the note made the first time they asked twice.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Shard of a Broken Promise's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the checking moves ahead of the promise, and the bearer asks for the assurance before anybody has offered one.
 - Terminal state: Shard of a Broken Promise's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-851 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Shard only after attribution review.   <!-- SE-851 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Shard; shutdown preserves the record but does not refund its cost. <!-- SE-851 -->
+**Failure mode:** violating “declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.” reverses the item’s benefit and raises the source Gauge — a 000/910 meter that opens at 60–80%.
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Shard only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Shard; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Shard of a Broken Promise — Witnessed Form*, The Promise Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-851-D`  
-**Linked Entity:** `SE-851`  
-**Item Registry Code:** `MAW-G-851-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Shard of a Broken Promise — Witnessed Form*, The Promise Shard performs the stigma role while the other pieces preserve attribution and survival. The Shard drops out of the set the first time the bearer trusts somebody without checking.

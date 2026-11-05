@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IIα-215 [VS]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — ambient manifestation throughout the Old Lament
 
@@ -26,7 +26,7 @@
 | Element | Void |
 | Location | Zone B, Old Lament — ambient |
 | Primary Form | A fading voice and incomplete silhouette appearing at the instant someone almost remembers a name. |
-| Gauge / Han Pressure | 25–40% starting range / Void 2–8 per hit |
+| Gauge / Han Pressure | 212/212; starts 25–40% / Void — no attack pattern; the divergence across independently written slates is the instrument |
 | Movement | Localized to the naming lapse; apparent field movement up to 1.30 m/s during escalation |
 | Comprehension Level | 1 — Initial |
 | M.A.W. Set | The Second Witness |
@@ -60,10 +60,10 @@ Writing stabilizes the trace for moments. One speaker cannot hold it. When separ
 
 | Work Type | Response | Gauge | Operational rule |
 |---|---|---|---|
-| Flerehan | Tears and careful repetition make the outline clearer. | Down | Repeat only attested fragments; grief is not permission to complete them. |
+| Flerehan | Tears and careful repetition make the outline clearer. | Decrease | Repeat only attested fragments; grief is not permission to complete them. |
 | Pugnahan | The subject fades at once. | Stable | Do not treat retreat as successful suppression. |
 | Viderehan | Fragments of an ordinary life become visible. | Stable | Record objects, gestures, and places without assigning a name. |
-| Ferrehan | Tests whether the worker can keep remembering without certainty. | Down | Use paired checks; each worker records the other before entry. |
+| Ferrehan | Tests whether the worker can keep remembering without certainty. | Decrease | Use paired checks; each worker records the other before entry. |
 
 **Resolution rule:** Write the name or surviving name-fragment and speak it with another witness present. Both witnesses must know what is attested and what remains unknown. Copying an unsupported guess twice does not satisfy the condition.
 
@@ -165,13 +165,3 @@ The Thread holds exactly one name. It cannot be used as a net for the entire Old
 **Individual files:** `SE-215-B`, `SE-215-C`, `SE-215-D`
 
 **Restricted note:** No current record contains a conclusively recovered source name. Similar fragments are evidence, not authorization to name the dead by vote. Archive corrections must preserve the distinction between an unknown person and a person who never existed.
-
----
-
-**Document ID:** `SE-215-A`  
-**Linked Entity:** `SE-215`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

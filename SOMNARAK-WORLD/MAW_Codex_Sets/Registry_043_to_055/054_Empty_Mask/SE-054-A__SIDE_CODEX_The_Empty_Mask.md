@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-054 [WO]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Masked Troupe containment
 
@@ -42,9 +42,9 @@ The absence left after citizens survive by giving up names, faces, histories, an
 |---|---|---|---|
 | **Regard** | Person looks into interior depth for more than five seconds. | **Hollow Face**. | Weight mark begins identity flattening. |
 | **Lingering** | Person remains near without stating own name. | **Gravity of Nothing**. | Pull toward the Mask increases. |
-| **Touch** | Skin contact or placement over face. | **Face-Blow** / activation. | Wearer becomes unrecognizable; self-recognition begins degrading. |
-| **Forced Break** | Mask is damaged or forcibly removed without name protocol. | **Full Vacuum**. | Identity pressure expands to nearest personnel. |
-| **Troupe Multiplication** | Gauge reaches 65% in Masked Troupe chamber. | **Sea of Masks**. | Three-turn multi-mask field. |
+| **Touch** | Skin contact or placement over face. | **The Closed Distance** — the hand that moved it was the handler's own. | Wearer becomes unrecognizable; self-recognition begins degrading inside four minutes when no second person is present. |
+| **Forced Break** | Mask is damaged or forcibly removed without name protocol. | **The Vacuum**. | What the holding has never been able to hand back comes out of the depth, and the nearest personnel are the ones it comes out on. |
+| **Troupe Multiplication** | Gauge reaches 65% in the Masked Troupe chamber. | **The Vacuum, chamber-wide**. | Every face in the room reads as the same blank interior, and the second person's voice is the only one that can hand a name back. |
 
 ### Name Protocol
 
@@ -86,13 +86,3 @@ The Mask does not hide identity. It treats identity as material that can fill an
 
 ### Observation 4 — Pending
 Mastery requires a person to return from the Mask still certain that a name is more than a ledger label.
-
----
-
-**Document ID:** `SE-054-A`  
-**Related Entity:** `SE-054`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

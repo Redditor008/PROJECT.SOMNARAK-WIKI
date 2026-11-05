@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Healer's Requiem
 
-> *“The Healer's Requiem remembers The Kind Healer's Shadow; the bearer must not mistake memory for permission.”*
+> *"It cures the target and hands their loss to whoever swung. Wielded long, the wielder is a hospital for everything they have treated."*
 
 ---
 
@@ -17,7 +17,11 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Kind Healer's Shadow's lament signature in the strike.  
-**Binding rule:** the bearer names The Kind Healer's Shadow's event—A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded.—and accepts this limit: Accept its help and acknowledge the healer it carries
+**Binding rule:** the bearer names The Kind Healer's Shadow's event — “A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded.” — and accepts this limit: Accept its help and acknowledge the healer it carries
+
+### Appearance
+
+A cleaver rather than a knife: a flat of rustless hospice steel twenty-two centimetres long, ground on one face only so the edge takes a razor hone while the spine stays thick enough to bear a palm. The tang is wrapped in braided mourning-thread over ebony scales held by three brass rivets, and the butt carries the Commons ward stamp struck off-centre.
 
 ## CORE STATISTICS
 
@@ -25,16 +29,20 @@
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes The Kind Healer's Shadow's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
 
-## ITEM-SPECIFIC HISTORY — *The The Kind Healer s Shadow Source-Trace: Weapon Record*
+**Operational / binding cost:** The Requiem heals by taking the wound's grief onto the wielder: each strike cures the target and hands their loss to whoever swung. Wielded long, the wielder is a hospital for everything they have treated.
 
-The first The Healer's Requiem field bearer encountered this source response: Retreats from aggression. The weapon witnesses the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+## ITEM-SPECIFIC HISTORY — *The Kind Healer's Shadow Source-Trace: Weapon Record*
+
+The first bearer of The Healer's Requiem encountered this source response: Retreats from aggression. The weapon witnesses the immediate hazard only after the team attributed it to The Kind Healer's Shadow. A wielder cured three people in a shift and came away carrying the loss of all three as their own, and the Requiem’s binding is the ward ledger from that shift.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Kind Healer's Shadow's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cure reaches the target before the blow does, and the wielder is hospitalised by injuries they took off somebody else.
 - Terminal state: The Kind Healer's Shadow's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Accept its help and acknowledge the healer it carries” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +51,4 @@ The first The Healer's Requiem field bearer encountered this source response: Re
 
 ## SET RELATIONSHIP
 
-Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1029-B`  
-**Linked Entity:** `SE-1029`  
-**Item Registry Code:** `MAW-W-1029-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow after which its wielder is carrying only their own grief.

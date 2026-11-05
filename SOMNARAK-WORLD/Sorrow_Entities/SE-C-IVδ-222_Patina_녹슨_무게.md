@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-222 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; bare contact with the rusted mass itself. There is no pedestal; the older entry describing one was a transcription from another holding's profile. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — A rusted iron mass embedded in the border ground, shaped like a weight at the end of an invisible chain — corroded, bleeding orange rust, sunk halfway into the earth. Fever-cold and lead-heavy, it smells of char and wet iron; the unseen chain pulls toward something distant. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,10 +28,12 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the wall** — The rust takes boundary markers of any material. Stone posts corrode. The front follows the line of the disputed boundary and not the geology. |
+| **Work Damage** | 5–8 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is corrosion of what does not corrode, the worker's equipment among it. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -45,61 +47,68 @@
 - No breach counter. The front is staked every session and the subsidence is surveyed quarterly: 9, 14, 19 millimetres across three years.
 - Residue is lifted from the front under separate authorisation, by a party that does not include anybody screened positive for grievance in the preceding month.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Grudge pressure, 35% against other pressure types — margin figures throughout; nothing here has ever been measured in contact, the one attempt having cost two monuments and a season of readings. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone E, Border region |
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** Patina is a discrete object that has never moved. And nobody enters the ground it is affecting — the record is read from the margin and says so in the middle of its own attack rows: *no shard flies; this holding has never struck anybody and nobody strikes it*. What it does is keep a rust front advancing through whatever is standing in it. A front is surveyed, not fought.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A mass on affected ground, held inside a staked front; nothing about it travels and nobody bears its weight |
+| **Perceptible to** | The vegetation line first, which dies back before the instruments register anything, and then the orange stain on stone, fired clay and painted timber alike |
+| **Activation threshold** | Sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly |
+| **Sorrow Gauge [Pressure]** | **000 of 880** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone E, Border region |
 | **Resolution Condition** | Acknowledge the original conflict without assigning it to the living |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Flaking Mass* [**Debuff**] } | "The weight sits on your shoulders — and with every breath, a little more of it flakes away as rust. But it never gets lighter." | [The Weight's corrosion spreads to the target; their own burden oxidizes.] | *Target suffers -10 Resilience; the rust is eating at them.* **[10 Grudge DMG [Grudge]]** | When the Weight settles. |
-| { *The Orange Stain* [**Debuff**] } | "Where the rust touches, it stains — and the stain does not come out, and it spreads." | [The Weight's corrosion contaminates the target; everything they carry begins to rust.] | *Target loses 10 Resilience; their defenses are corroding.* **[10 Grudge DMG [Grudge]]** | When the target bears the Weight. |
-| { *The Rust Blade* [**Attack**] } | "A flake of rust hardens — and it is sharper than any polished edge." | [A corroded shard strikes the target.] | *Inflicts Grudge pressure and one jagged, oxidized wound.* **[14-22 Grudge DMG [Grudge]]** | When the Weight is struck. |
-| { *The Structural Failure* [**Attack**] } | "The weight gives way — not from force, but from rust, and the rust has taken stone, fence and marker alike." | [The mass collapses the span it has been bearing since before anybody could say what the line was for.] | *A heavy Crimson implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Weight is dropped. |
-| { *Everything Corrodes* [**Ultimate**] } | "The rust spreads to everything — stone, timber, painted markers — and it stops at no line the survey can find." | [The ground's corrosion extends across the whole front, through the markers holding it and the instruments measuring it.] | *All in range suffer Grudge pressure for three turns as the front advances.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What Patina does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Flaking Mass* [**Register**] } | Sits with its weight on the ground and does not settle on anybody. The surface flakes and the mass does not get lighter. | The reading from the margin, and the understanding that the ground under the stakes is what is being measured rather than the object. | Nobody enters the affected ground; the flaking is read at a distance and the stakes are the only instrument that matters. |
+| { *The Orange Stain* [**Exposure**] } | Takes markers of every material indifferently — stone, fence, fired clay, painted timber — and does not stop at metal. | A front that has to be restaked further out each quarter, and a survey that records it in millimetres rather than in casualties. | No worker bears the Weight at any point; the exposure in this file is to the ground, not to the body. |
+| { *The Front* [**Contagion**] } | Keeps going: 9, 14 and 19 millimetres across three years, through the markers holding the line and the structures behind them. | A subsidence series, and a boundary that is moving rather than an entity that is. | This is the expansion the Entity Type records. It is the ground advancing and not the holding leaving, which is why the quarters are comparable. |
+| { *The Original Conflict* [**Attachment**] } | Nothing. Standing at the margin for a sustained watch surfaces the worker's own old wrongs, frequently ones they had considered settled. | Grievances they had put down, picked back up, and the wish to assign one of them to somebody alive. | The resolution condition is the whole of the protection: acknowledge the conflict without handing it to the living. |
 
-1. **Tension:** Identification first — the vegetation line dies back ahead of a mass increase and is the earliest indicator this holding has. It was first reported by a member of one of the border families, credited by name in the protocol; then the approach is set from the district road and the positions are taken at the margin monuments.
-2. **Clash:** Work is done from the margin monuments and never from inside the affected ground. Viderehan reads the rust and the vegetation line; Ferrehan holds the line briefly and heavily, and the worker is screened on the way out.
-3. **Resolution:** The session closes with containment, management, retreat, or the documented suppression condition: **Acknowledge the original conflict without assigning it to the living** — reached at the margin, in conversation, and never as a finding between the families.
+### Watch Sequence
+
+1. **What is confirmed:** the vegetation line, the orange stain, and the state of the stakes against last quarter's survey — read from the margin, because the ground inside the front is not entered.
+2. **What the watch does:** Viderehan from the margin and Ferrehan briefly under screening. The mediators are told what the ground is doing the same day, and that notification is part of the containment.
+3. **How it closes:** the original conflict is acknowledged without being assigned to the living, and the gauge falls below the threshold the quarter is held against.
 
 ### Consequences
 
-- When a worker breaks under the entity’s load, the Sorrow Gauge climbs and their **Resilience** Fractures with it—the exit screen is built to catch the first sign, which is why it is a conversation about something else and why the worker is told so beforehand.
-- Sustained standing at the margin produces the holding’s own kind of harm: workers surface old wrongs of their own, frequently ones they had considered settled, and are rotated rather than asked to resolve them—distance is the wing’s answer here, not catharsis.
-- Wielding a M.A.W. piece cut from Patina extracts the toll the file already records, whether the use was correct or not: the wielder’s old wounds ache, and prolonged use leaves faint bruising. The armory ledger carries that cost and does not treat it as a defect in the piece.
+- When a worker breaks under the entity's load, the Sorrow Gauge climbs and their **Resilience** Fractures with it — the exit screen is built to catch the first sign, which is why it is a conversation about something else and not a question about the ground.
+- Sustained standing at the margin produces the holding's own kind of harm: workers surface old wrongs of their own, frequently ones they had considered settled, and are rotated rather than asked to resolve them — distance is the treatment.
+- Wielding a M.A.W. piece cut from Patina extracts the toll the file already records, whether the use was correct or not: the wielder's old wounds ache, and prolonged use leaves faint bruising. The armoury ledger carries that cost.
 - When resolution fails, nothing spectacular follows. The mass keeps sinking, the rust keeps advancing through markers of every material, and the failure is carried quietly into the next quarterly figure.
+- The corrosion respects no material, so the Border region's survey instruments are replaced on a fixed schedule rather than on condition, and the replacement is a standing line in the district's budget.
 
 ## Appearance
-**Physical Form:** A rusted mass embedded in border ground, shaped like a weight attached to an invisible chain.
+**Physical Form:** A mass of rusted iron about two metres across, bedded into the border ground dropped there rather than built, its shape reading as a weight on a chain nobody can see. The rust is orange and wet the whole way down, bleeding into the soil in a front the survey marks each season. It smells of wet iron and char. Fever-cold to the hand and lead-heavy on the instrument — it reads heavier than the ground beneath it will admit.
 
 **Notable Features:** It sinks measurably, it pulls as though a chain ran from it to something distant, and it gains mass when the district above it is quarrelling.
 
@@ -107,7 +116,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
-- **Primary marker:** A rusted mass embedded in border ground, shaped like a weight attached to an invisible chain.
 - **Position / movement:** Fixed in the border ground and sinking. Position is re-established each quarter from the district's own survey network, not the facility's, so that the families can check the figures against a reference the Directorate does not control.
 - **Element signature:** Grudge
 - **Registered location:** Zone E, Border region
@@ -116,7 +124,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A rusted mass embedded in border ground, shaped like a weight attached to an invisible chain. |
 | **Position / movement** | Stationary — a discrete object. Posture and distance are logged because on Patina neither has ever been assumed. |
 | **Material / signature** | Grudge. Orange rust bleeding into the soil, wet iron and char, fever-cold to the hand and lead-heavy to the instrument. |
 | **Distinctive markers** | Subsidence against the monuments, the rust front through non-corroding markers, and the vegetation line, which dies back weeks before the mass increases. |
@@ -131,48 +138,35 @@
 - **The People:** Two border families whose quarrel is older than any of them and whose original cause is not recoverable. They attend the annual review by invitation and have done so for as long as the invitation has existed.
 - **Expanded origin context:** The commissioning file holds eleven mediation records covering four generations of the two families. Every one of them is properly made and every one ends the same way: the parties were heard, the matter was discussed, no finding was made. Nothing in the bundle is unfair and nothing in it says who was right. The archivist's note observes that the eleventh record is almost word for word the first, and that neither names the thing in dispute.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A mass on affected ground, held inside a staked front; nothing about it travels and nobody bears its weight. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | The history of the quarrel, in order, to anybody standing at the margin — including the parts both families have stopped telling. | Stable |
-| **Ferrehan** | Holding the line briefly and heavily. The hazard is not fatigue but grievance: workers surface old wrongs of their own, and are rotated rather than asked to resolve them. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the vegetation line, the orange stain, and the state of the stakes against last quarter's survey — read from the margin, because the ground inside the front is not entered. |
+| **Handling** | The observer from the margin and the stander briefly under screening. The mediators are told what the ground is doing the same day, and that notification is part of the containment. — see `## Handling Process` |
+| **Withdrawal** | The original conflict is acknowledged without being assigned to the living, and the gauge falls below the threshold the quarter is held against. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly — is done on purpose. |
 
-
-### Operational Work Notes
-
-A stable gauge does not mean a safe encounter here, and the figure is not the leading indicator: the vegetation line is, dying back weeks ahead of a mass increase, and it was a border family that first reported it rather than the wing. Patina is an Object/Place with Place-Weight manifestation and Grudge expression, held at Zone E in border ground by a standing land agreement rather than an enclosure. Viderehan and Ferrehan only; Flerehan and Pugnahan do not apply to a Place and have never been attempted. No worker enters the affected ground for any purpose, including recovery.
-
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition on the way out, and the information recovered. When the gauge drops, the surface pressure has eased; the ground keeps sinking at its own rate and nothing already taken has ever come back. When the gauge climbs, the Work Type has struck the nerve of the entity’s origin—the eleven records that decide nothing—and the correct move is to withdraw to the margin and reassess rather than feed it. Anomalous responses are signals that the entity has changed or the file is incomplete, and are logged before the next assignment.
 ## Activation Behavior
+
+> **Special activation — no counter.** The file's own condition: *bare contact with the rusted mass itself*, and there is no pedestal to stand off from.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Bare contact with the rusted mass itself. There is no pedestal; the older entry describing one was a transcription from another holding's profile.
-
-**Effect:** A downward field that anchors everything standing on the ground within the affected front. Nothing can be moved, lifted or pulled free while it holds, including personnel.
-
-**Duration:** Continuous while contact is maintained, and for as long afterwards as it takes the subsidence to settle.
-
-**Risk:** The load rises steeply with time in contact and produces joint and spinal injury that the wing's own surgeons describe as indistinguishable from forty years of heavy labour.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | Bare contact with the mass. |
-| **Primary Effect** | Everything on the affected ground is anchored and cannot be moved, including the operative. |
-| **Duration** | While contact lasts, plus the settling period. |
+| **Activation** | Bare contact with the rusted mass itself. There is no pedestal, and the marking is entered wherever the bare hand met the rust. |
+| **Primary Effect** | A downward field that anchors everything standing on the affected ground within the reach of the rust. Nothing can be moved, lifted or pulled free while it holds, personnel included. |
+| **Duration** | Continuous while contact is maintained, and for as long afterwards as it takes the subsidence to settle. |
 | **Termination / Return** | There is no return because there is nothing to carry: the mass is contacted at the site and released by breaking contact, and releasing it early under load is what produces the spinal injuries the wing’s surgeons describe. |
-| **Risk** | Steeply rising load; joint and spinal injury of a permanent kind. |
+| **Risk** | The load rises steeply with time in contact and produces joint and spinal injury the wing’s own surgeons describe as indistinguishable from forty years of heavy labour. |
 
 **Operational Rule:** The mass is not carried and cannot be. Relic use is contact at the site, under the same margin discipline as everything else here, and it replaces no scheduled Work Type.
 
@@ -180,14 +174,14 @@ A stable gauge does not mean a safe encounter here, and the figure is not the le
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Contact made at the site under the same margin discipline as everything else here; the field settles over the affected ground and takes the weight of everything standing on it, the bearer included. | The primary resonance engages: a gravitational field of Weight anchoring everything grounded, with knockback prevented and +10% Grudge resistance while contact holds. |
-| 30 Seconds | The bearer begins hearing the dispute the way the archive holds it — two families, four generations, eleven records, no finding — and finds it hard to say which of them they are standing in for. | The operative gains the combat benefit and begins accumulating mental burden; action speed and physical focus rise at composure’s expense, and the margin party notes the first change of register. |
+| 10 Seconds | Contact made at the site under the same margin discipline as everything else here. The field settles over the affected ground and takes the weight of everything standing on it, the bearer included. | The primary resonance engages: a gravitational field of Weight anchoring everything grounded, with knockback prevented and +10% Grudge resistance while contact holds. |
+| 30 Seconds | The bearer begins hearing the dispute the way the archive holds it — two families, four generations, eleven records, no finding — and finds it hard to say which of them they are standing in for. | The operative gains the combat benefit and begins accumulating mental burden. Action speed and physical focus rise at composure’s expense, and the margin party notes the first change of register. |
 | 1 Minute | The toll begins: the sorrow the mass is made of starts drawing on the bearer rather than on the ground. | Use beyond 60 seconds inflicts 5 Grudge damage every 15 seconds, and the operative is monitored for the detachment the wing’s surgeons warn about. |
-| 2 Minutes | Past two minutes the bearer stops being able to separate their own grievances from the disputed line’s, which is the state the exit screen exists to catch. | Continuous wear beyond two minutes, or detachment under load without closing the interaction, triggers acute panic; the load rises without settling and the musculoskeletal damage is the permanent kind. |
+| 2 Minutes | Past two minutes the bearer stops being able to separate their own grievances from the disputed line’s, which is the state the exit screen exists to catch. | Continuous wear beyond two minutes, or detachment under load without closing the interaction, triggers acute panic. The load rises without settling and the musculoskeletal damage is the permanent kind. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Patina and has nothing to do with the wing’s posture: the mass answers to the dispute in the district above it. Record the first trigger, the visible change in the Place-Weight form, the distance at which the field begins, and the boundary where the resonance settles — and take every reading from the margin monuments on the district’s own survey network, so the families can check the figures against a reference the Directorate does not control.
+The escalation pattern is specific to Patina and has nothing to do with the wing’s posture: the mass answers to the dispute in the district above it. Record the first trigger, the visible change in the Place-Weight form, the distance at which the field begins. And the boundary where the resonance settles — and take every reading from the margin monuments on the district’s own survey network. So the families can check the figures against a reference the Directorate does not control.
 
 **Response sequence:** Read the vegetation line, re-survey against the margin monuments, clear the affected ground, and notify the district mediators the same day. There is no perimeter that helps; the front moves through markers rather than through metal.
 
@@ -222,11 +216,11 @@ The escalation pattern is specific to Patina and has nothing to do with the wing
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Armoury figures, transcribed. Nothing has ever been struck by this holding; the pieces are graded δ because of what they cost to carry, not because of what they do.
+**Damage Application:** Armoury figures, transcribed. Nothing has ever been struck by this holding. The pieces are graded δ because of what they cost to carry, not because of what they do.
 
 **Ability:** Deals Grudge damage against the Body (physical form, structural integrity), carrying the mass's own signature into the strike: what the target is standing on is included in the weight.
 
-**Cost:** The wielder's old wounds ache, and they ache on the way home rather than at the strike — the toll this file already records, paid whether the use was correct or not.
+**Bearer cost:** The wielder's old wounds ache, and they ache on the way home rather than at the strike — the toll this file already records, paid whether the use was correct or not.
 
 ### M.A.W. Suit — Patina Plate
 
@@ -244,7 +238,7 @@ The escalation pattern is specific to Patina and has nothing to do with the wing
 
 **Ability:** Converts hostility into physical resistance, the way the border ground converts a quarrel into load: nothing is destroyed, everything is borne.
 
-**Cost:** The wearer feels inherited anger toward strangers, and first notices it in how they answer somebody who has done nothing to them.
+**Bearer cost:** The wearer feels inherited anger toward strangers, and first notices it in how they answer somebody who has done nothing to them.
 
 ### M.A.W. Stigma — Patina Charm
 
@@ -258,20 +252,20 @@ The escalation pattern is specific to Patina and has nothing to do with the wing
 
 **Ability:** Steadies the bearer's own grievance for the length of a session, which is why the charm is issued to those working the line and not otherwise.
 
-**Cost:** The bearer's temper shortens.
+**Bearer cost:** The bearer's grievance goes quiet for the length of a session and is waiting, unchanged, at the end of it — which is why the charm is issued to the line and to nobody with a complaint.
 
 *Six charms exist and all six went to Wardens who completed a renewal walk in bad weather rather than rescheduling it. The file records the dates and not the weather; the families remember the weather.*
 
 ### M.A.W. Use Notes
 
-A piece cut from Patina is not ordinary equipment and is not treated as one: it works by being part of the ground it is used near, and it carries that ground's toll with it. The file records one cost and one only — the ache the wielder brings home — and it is paid whether the use was correct or not. Nothing has ever been struck by this holding; the armoury transcribes the figures and the wing grades the pieces δ for what they cost to carry.
+A piece cut from Patina is not ordinary equipment and is not treated as one: it works by being part of the ground it is used near, and it carries that ground's toll with it. The file records one cost and one only — the ache the wielder brings home — and it is paid whether the use was correct or not. Nothing has ever been struck by this holding. The armoury transcribes the figures and the wing grades the pieces δ for what they cost to carry.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Piece inspected, wielder named, gauge read, and the toll the file names accepted in advance by the worker who takes it up. |
-| **During use** | Watch for the toll the file names and log the hour the wielder first mentions it, not the hour it is formally reported; the margin party keeps the reading. |
+| **During use** | Watch for the toll the file names and log the hour the wielder first mentions it, not the hour it is formally reported. The margin party keeps the reading. |
 | **At limit** | The toll is continuous rather than occasional and does not stop when the piece comes off: at the limit the second worker's judgement outranks the wielder's, and the armory is told why. |
 | **After use** | Piece returned and the wielder re-assessed a week later, because the inherited anger toward strangers does not present on the day. |
 
@@ -338,11 +332,11 @@ The ground sinks around a rusted shape. You feel a chain running through the soi
 
 **At first contact:** The first identifiable detail is the vegetation line — growth dying back weeks ahead of a mass increase — and only then the rusted weight itself, sunk halfway into border ground at the end of a chain nobody has ever found. The border families who reported the dieback are credited for it, and the space around the holding reads the way Grudge reads here: not loud, but heavy, and specific to this line of ground.
 
-**With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Grudge; it is this entity's Grudge — shaped by its origin, its wound, its particular grief.
+**With continued exposure:** What sharpens is the worker, not the view: petty old scores come back with addresses attached. Workers who surface one are rotated and not asked to resolve it, because this entity is made of inherited anger and the wing's answer is distance, not catharsis.
 
-**When the entity activates:** When it activates, the Grudge stops being background and becomes foreground — loud, physical, impossible to ignore. The Place-Weight was waiting for this.
+**When the entity activates:** It is not loud and there is nothing to confront. Somewhere in the district a mediation closed without a signed note, and the ground answers in millimetres: the 9, 14, 19 series continued downward, through markers that do not rust.
 
-**After departure:** What remains after the door closes is not fear but weight — a Grudge aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** What remains is weight in the shoulders and an ache in old wounds on the way home. The exit screen runs as a conversation about something else — the worker is told so beforehand — and if a grievance of theirs surfaces in it, the wing rotates them. It does not ask them to settle it.
 
 ### Interaction Pattern
 
@@ -353,13 +347,13 @@ Patina's three filed relations — The Spreading Tree, The Inherited Debt and Th
 
 ### Entity Interaction Record
 
-Patina must be kept distinct from the other inheritance files. The Inherited Debt passes an obligation that can be quantified and discharged; this one passes a grievance that cannot, because nothing was ever written down about who owed what to whom. It is the only holding in the wing whose containment includes a seat at somebody else's mediation.
+Patina must be kept distinct from the other inheritance files. The Inherited Debt passes an obligation that can be quantified and discharged. This one passes a grievance that cannot, because nothing was ever written down about who owed what to whom. It is the only holding in the wing whose containment includes a seat at somebody else's mediation.
 
 | Related entity | What the file holds | What the margin measures | What the office is sent |
 |---|---|---|---|
-| **The Spreading Tree** | Its roots run under the disputed line and carry the load outward; two margin monuments have had to be reset because of it. | Subsidence appears beyond the staked front, in the root line, where no rust has yet reached. | Monument resets, root bearing, and subsidence measured along the roots as well as at the mass. |
-| **The Inherited Debt** | A debt can be stated, counted and discharged. This cannot, and the Debt's figures go unreadable within the affected front. | Subsidence unchanged; the Debt's ledger reads differently at each attempt while inside the front. | Record the Debt's figures outside the front before and after, and never inside it. |
-| **The Scar Walker** | It walks the old boundary line exactly, without instruction, and has twice marked a stretch the current survey had wrong. | No measurable effect on the mass; the corrections were later confirmed from the district network. | Plot the walked line against the survey and send both to the mediators. |
+| **The Spreading Tree** | Its roots run under the disputed line and carry the load outward. Two margin monuments have had to be reset because of it. | Subsidence appears beyond the staked front, in the root line, where no rust has yet reached. | Monument resets, root bearing, and subsidence measured along the roots as well as at the mass. |
+| [**The Inherited Debt**](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | A debt can be stated, counted and discharged. This cannot, and the Debt's figures go unreadable within the affected front. | Subsidence unchanged; the Debt's ledger reads differently at each attempt while inside the front. | Record the Debt's figures outside the front before and after, and never inside it. |
+| [**The Scar Walker**](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md) | It walks the old boundary line exactly, without instruction, and has twice marked a stretch the current survey had wrong. | No measurable effect on the mass; the corrections were later confirmed from the district network. | Plot the walked line against the survey and send both to the mediators. |
 
 **Interaction procedure:** Two parties, one from the wing and one from the district survey, readings taken independently and compared afterwards, with neither permitted to adjust to the other.
 
@@ -367,9 +361,9 @@ Patina must be kept distinct from the other inheritance files. The Inherited Deb
 
 The quarrel began so long ago that no one remembers what it was about, and the resentment, surviving its own cause, rusted into the ground.
 
-There was a border dispute — two families, or two districts, or two factions at the city's edge, contesting a line of ground whose value no one can now calculate. The dispute was bitter. It lasted generations. Each side passed the grievance to its children along with the property and the names, and the children carried it as faithfully as the parents, and their children after them, until the quarrel had outlived everyone who understood it and become a thing in itself — a resentment with no referent, an anger attached to a cause that had dissolved into history.
+There was a border dispute — two families, or two districts, or two factions at the city's edge, contesting a line of ground whose value no one can now calculate. The dispute was bitter. It lasted generations. Each side passed the grievance to its children along with the property and the names. And the children carried it as faithfully as the parents. And their children after them, until the quarrel had outlived everyone who understood it and become a thing in itself — a resentment with no referent, an anger attached to a cause that had dissolved into history.
 
-The original grievance is gone. The records that might have explained it crumbled. The families who began it died out, or merged, or Fractured, or simply forgot why they were angry. But the anger did not die with them. Resentment, in Somnarak, does not require a cause to persist — it only requires carriers, and the border families carried it, generation after generation, the way they carried the debts and the names, faithfully, without understanding, until the anger had become inheritance: a thing you received at birth, like eye color or obligation, and carried because that was what your people did.
+The original grievance is gone. The records that might have explained it crumbled. The families who began it died out, or merged, or Fractured, or simply forgot why they were angry. But the anger did not die with them. Resentment, in Somnarak, does not require a cause to persist — it only requires carriers. And the border families carried it, generation after generation, the way they carried the debts and the names, faithfully, without understanding, until the anger had become inheritance: a thing you received at birth, like eye color or obligation. And carried because that was what your people did.
 
 The resentment sank. Generation after generation of causeless anger, pressed into the contested ground by the people who stood on it and seethed, sank the way all sorrow sinks, into the earth, beneath the border. And there it did not dissolve — because resentment without a cause cannot be resolved, and what cannot be resolved cannot dissolve. It accumulated. It rusted. The anger, layered for centuries into the soil, oxidized into the ground itself, staining the earth red-brown, corroding the stone, giving the disputed border a perpetual corrosion that no amount of settlement could reverse.
 
@@ -377,7 +371,7 @@ Patina is that corroded ground. Place-Weight, Grudge-element: the resentment of 
 
 Those who cross the Patina feel the specific exhaustion of inherited conflict — the weariness of carrying a grudge whose origin is lost, of fighting a quarrel no one started, of being angry, dutifully, generation after generation, at something no one can name or resolve.
 
-Some sorrows are about a wound. Patina is about a wound whose weapon was lost — the anger that survived its cause, rusted into the ground, inherited by people who never knew why they were supposed to hate, and who hate anyway, faithfully, because the hatred was the only thing their ancestors managed to leave them.
+Some sorrows are about a wound. Patina is about a wound whose weapon was lost — the anger that survived its cause, rusted into the ground, inherited by people who never knew why they were supposed to hate. And who hate anyway, faithfully, because the hatred was the only thing their ancestors managed to leave them.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The anger rusted into the ground. No one remembers the cause.”* — Keeper, Archive
@@ -401,13 +395,13 @@ Some sorrows are about a wound. Patina is about a wound whose weapon was lost �
 - Nothing taken has ever been recovered. Do not attempt restoration; the one attempt cost two monuments and a season of readings.
 **Observation Notes:**
 - Subsidence 9, 14 and 19 millimetres across three annual series, surveyed from the district's own network so the families can check it.
-**Cross-References:** Zone E, border ground · The Spreading Tree · The Inherited Debt · The Scar Walker · the Mediation Office · the district mediators
+**Cross-References:** Zone E, border ground · The Spreading Tree · [The Inherited Debt](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) · [The Scar Walker](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md) · the Mediation Office · the district mediators
 **Faction Involvement:** SED (E-territory survey) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat) · Mediation Office (standing party)
 **Originator:** Border District · Anger Underfoot
 
 ### Registry Addendum
 
-**Operational interpretation:** This entry does not stand alone: the land agreement, the margin monuments, the quarterly survey from the district's own network and the wing's standing part in the mediation process are one arrangement, and the figures only mean anything read together. The ground answers to the district's quarrels above it; the wing's contribution is to report what the mass is doing while the mediators report what the families are doing, and neither office may adjust its record to match the other's.
+**Operational interpretation:** This entry does not stand alone: the land agreement, the margin monuments, the quarterly survey from the district's own network and the wing's standing part in the mediation process are one arrangement, and the figures only mean anything read together. The ground answers to the district's quarrels above it. The wing's contribution is to report what the mass is doing while the mediators report what the families are doing, and neither office may adjust its record to match the other's.
 
 **Review requirement:** Every review re-reads the same five things — subsidence against the monuments, the rust front, the vegetation line, the state of the monuments themselves, and the exit-screen record for every worker who stood the line. If any one has moved, the file is updated the same week; nothing is left to the annual review to catch.
 ## Apex Record
@@ -418,7 +412,7 @@ Patina is embedded in border ground and presses downward — a rusted mass shape
 
 ### Inherited Rage
 
-It carries inherited rage — the anger of people who inherited a conflict none of them began — and it grows heavier around old conflicts. The growth is measurable as ground subsidence and is surveyed quarterly against fixed monuments set well outside the affected area. What the survey has established, across a long run of data, is that the mass responds to disputes in the district above rather than to anything the wing does. Containment therefore includes a function no other holding has: the wing is a party to the district's mediation process, not as an authority but as a reporting participant, and it tells the mediators what the ground is doing while the mediators tell it what the families are doing.
+It carries inherited rage — the anger of people who inherited a conflict none of them began — and it grows heavier around old conflicts. The growth is measurable as ground subsidence and is surveyed quarterly against fixed monuments set well outside the affected area. What the survey has established, across a long run of data, is that the mass responds to disputes in the district above rather than to anything the wing does. Containment therefore includes a function no other holding has: the wing is a party to the district's mediation process, not as an authority but as a reporting participant. And it tells the mediators what the ground is doing while the mediators tell it what the families are doing.
 
 ### Observation at the Margin
 
@@ -432,19 +426,19 @@ Ferrehan work here is brief and heavy, and its hazard is unusual: workers report
 
 The quarterly figure against the fixed monuments is 19 millimetres, after 14 and 9 in the two preceding years, and it is the one number this holding gives up readily. The survey has long established that the mass answers to the district above it rather than to anything the wing does. The match has since been made precise: the subsidence tracks the number of disputes between workers that have been mediated and closed with no closing note signed — matters heard, discussed, and left without any document saying they are over.
 
-This Company mediates and does not adjudicate. No finding of fault is made between workers in any case, ever, and none is recorded. The rule replaced supervisor adjudication, which was abandoned for cause: the loser of a finding carried it for the rest of their working life, the winner's crew enforced it, and two of the factions that produced the worst years in the Forge District began as findings properly made by reasonable men. Nobody proposes going back, and this file does not.
+This Company mediates and does not adjudicate. No finding of fault is made between workers in any case, ever, and none is recorded. The rule replaced supervisor adjudication, which was abandoned for cause: the loser of a finding carried it for the rest of their working life, the winner's crew enforced it. And two of the factions that produced the worst years in the Forge District began as findings properly made by reasonable men. Nobody proposes going back, and this file does not.
 
-Its consequence is that nothing is ever over. A matter closed by mediation has no decision attached to it, so there is nothing to point at when it comes back — and it comes back, with the next crew, the next generation, the next person who heard about it from somebody who was there. A man accused of something he did not do is never cleared, because clearing requires a finding and findings are exactly what was abolished. He is simply mediated with, repeatedly, by well-meaning people, for the rest of his time here.
+Its consequence is that nothing is ever over. A matter closed by mediation has no decision attached to it. So there is nothing to point at when it comes back — and it comes back, with the next crew, the next generation, the next person who heard about it from somebody who was there. A man accused of something he did not do is never cleared, because clearing requires a finding and findings are exactly what was abolished. He is simply mediated with, repeatedly, by well-meaning people, for the rest of his time here.
 
 ### The Closing Note
 
-Authorised Year 4234. At the end of a mediation both parties may jointly sign a single line stating that the matter is finished. It says nothing about who was right; it is lodged with the Mediation Office; and it may thereafter be produced by either party, or by anybody else, against an attempt to reopen the matter.
+Authorised Year 4234. At the end of a mediation both parties may jointly sign a single line stating that the matter is finished. It says nothing about who was right. It is lodged with the Mediation Office. And it may thereafter be produced by either party, or by anybody else, against an attempt to reopen the matter.
 
 1,120 mediations were held in Year 4237 and 690 closing notes were signed. 430 were not, and those matters remain live indefinitely, which is the condition this holding measures. 61 matters were reopened during the year, 58 of them from the unsigned group — the clearest result the scheme has produced and the reason it survives.
 
-The costs are not small. A note bars reopening even where facts emerge afterwards, and one was produced against a man who had found the delivery book that would have settled the thing in his favour; the office enforced the note, correctly, and he left the Company within the quarter. Nine notes are recorded as having been signed by a worker under visible pressure from their own crew, and there is no mechanism to undo one. And the 430 unsigned matters fall hardest on the person who was accused, since it is the accused who needs the thing to be over.
+The costs are not small. A note bars reopening even where facts emerge afterwards, and one was produced against a man who had found the delivery book that would have settled the thing in his favour. The office enforced the note, correctly, and he left the Company within the quarter. Nine notes are recorded as having been signed by a worker under visible pressure from their own crew, and there is no mechanism to undo one. And the 430 unsigned matters fall hardest on the person who was accused, since it is the accused who needs the thing to be over.
 
-The mediators asked for one exception: that a note might be set aside where fresh evidence of a documentary kind came to light. It was refused, on the ground that somebody would then have to decide what counts as fresh and what counts as evidence, and that deciding between two workers' accounts is adjudication under another name. The refusal is correct. The mediators' objection — that the Company has built a careful machine for ending quarrels and a second machine guaranteeing that the ones it fails to end can never end at all, and that the ground at the border is the receipt — stands in the scheme's first volume, recorded as correct and unanswered.
+The mediators asked for one exception: that a note might be set aside where fresh evidence of a documentary kind came to light. It was refused, on the ground that somebody would then have to decide what counts as fresh and what counts as evidence, and that deciding between two workers' accounts is adjudication under another name. The refusal is correct. The mediators' objection — that the Company has built a careful machine for ending quarrels and a second machine guaranteeing that the ones it fails to end can never end at all. And that the ground at the border is the receipt — stands in the scheme's first volume, recorded as correct and unanswered.
 
 ### A Dispute Nobody Remembers Starting
 
@@ -465,10 +459,10 @@ Monument positions are re-established from the district's own survey network rat
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Entity (IV) coherence, Critical (δ) potency; the file's own note says the δ grade belongs to the cost of holding the ground, not to the mass.
+- **Classification detail:** Object/Place, Entity (IV) coherence, Critical (δ) potency. The file's own note says the δ grade belongs to the cost of holding the ground, not to the mass.
 - **Field detail:** Element Grudge, registered to Zone E in the border ground, where the front is staked every session and the subsidence surveyed quarterly.
 - **Recognition detail:** The vegetation line is the earliest indicator and dies back weeks ahead of a mass increase. It was first reported by a member of one of the border families, who is credited by name in the protocol.
-- **Record detail:** The Registrum carried Comprehension Level 3, a Low threat rating and an Uncontained status against a Critical (δ) holding at Level 2 contained by standing land agreement; all three corrected, and the malformed cross-reference line replaced.
+- **Record detail:** The Registrum carried Comprehension Level 3, a Low threat rating and an Uncontained status against a Critical (δ) holding at Level 2 contained by standing land agreement. All three corrected, and the malformed cross-reference line replaced.
 - **Containment detail:** Containment here is a standing land agreement plus margin discipline: the mass is unenclosed, it keeps taking ground, and the notification to the district mediators is part of the containment rather than a courtesy.
 ## Document Information
 

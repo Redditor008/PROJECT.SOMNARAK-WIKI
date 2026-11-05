@@ -19,10 +19,10 @@ The Kind Echo formed from the collective comfort the city's first settlers gave 
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-000 [LS] |
-| Type / Manifestation | Subject — Can breach; will not attack / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone; will not attack / Subject-Lament |
 | Coherence / Potency | I — Residue (barely formed; a faint, kind emotional imprint) / α — Minor |
 | Element / Location | Lament / SECTOR-D-01, The Forge District — Training Containment Unit |
-| Gauge / Pressure | 50/50; starts 10–20% / 2–5 per hit · Lament |
+| Gauge / Pressure | 000/50; starts 000% / 2–5 per hit · Lament |
 | Observation | 4 — Mastered (training entity; fully understood) |
 | Formation event | The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit. |
 
@@ -38,9 +38,9 @@ The Kind Echo formed from the collective comfort the city's first settlers gave 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Complete one full Work Type cycle. Any work type succeeds.
 
-## WITNESS RECORD — *The The Kind Echo Source-Trace*
+## WITNESS RECORD — *The Kind Echo Source-Trace*
 
-During the The The Kind Echo Source-Trace, the field team preserved this source fact: The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not grief, not rage — the Lament of people who cared for each other in the dark. The softest sorrow in the Weeping.
+During *The Kind Echo Source-Trace*, the field team preserved this source fact: The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not grief, not rage — the Lament of people who cared for each other in the dark. The softest sorrow in the Weeping.
 
 ## M.A.W. SET — *The Kind Echo — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The The Kind Echo Source-Trace, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Kind Echo's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: Complete one full Work Type cycle. Any work type succeeds. The set cannot heal the originating event. Misuse routes The Kind Echo's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1001-A`  
-**Linked Entity:** `SE-1001`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

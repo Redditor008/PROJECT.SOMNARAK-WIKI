@@ -19,7 +19,7 @@ Clapperless is an ash-cold pale bell, identical in form to the Orphaned Bell but
 | Type | Object-Void I-Relic |
 |---|---|
 | Coherence / Potency | II / β |
-| Gauge / Pressure | 35–50% / Void 9–22 |
+| Gauge / Pressure | 000/240; starts 000% / Void — no attack pattern; the fork walk and the width of the quiet are the reading |
 | Observation | 2 — Basic |
 | Set | The Heard Warning |
 
@@ -35,9 +35,9 @@ An echo forms after one warning is understood and produces a real verification a
 
 | Piece | Summary | File |
 |---|---|---|
-| The Clapperless Chime-Sceptre | Void 5–9; Speed 2; Range 2; Single; max 4; 25 Echoes. Creates a soundless field; wielder cannot hear. | `SE-340-B__MAW-W_The_Silence_Hammer.md` |
-| The Resonance-Dampening Shroud | 1.2 / 0.8 / 0.3 / 1.1; max 4; 20 Echoes. Protects identity while warning passes through silence. | `SE-340-C__MAW-S_The_Silence_Veil.md` |
-| The Hollow Bell Pendant | Head; 5%; +1 Composure. Preserves one warning word; bearer occasionally forgets another. | `SE-340-D__MAW-G_The_Silence_Charm.md` |
+| The Clapperless Chime-Sceptre | Void 5–9; Speed 2; Range 2; Single; max 4; 25 Echoes. Creates a soundless field; wielder cannot hear. | `SE-340-B__MAW-W_The_Clapperless_Chime_Sceptre.md` |
+| The Resonance-Dampening Shroud | 1.2 / 0.8 / 0.3 / 1.1; max 4; 20 Echoes. Protects identity while warning passes through silence. | `SE-340-C__MAW-S_The_Resonance_Dampening_Shroud.md` |
+| The Hollow Bell Pendant | Head; 5%; +1 Composure. Preserves one warning word; bearer occasionally forgets another. | `SE-340-D__MAW-G_The_Hollow_Bell_Pendant.md` |
 
 **Weapon-identity/profile hold:** The primary identifies *The Cryo-Relic Lance* as an eight-foot mammoth-ivory and glacier-ice spear and gives Void 6–10 / Fast 4 / Range 3 (Medium, 2–4 m), Ultrasonic Psychic Pulse, a 4 m cone, and 100% / 60% falloff. The entity and Side subject are a silent pale bell; this Side set names *The Clapperless Chime-Sceptre* and gives Void 5–9 / Speed 2 / Range 2 / Single, which `SE-340-B` repeats. The item's own Appearance instead describes a pale Han-glass hammer that removes sound, not an ice lance or bell. Maximum 4 and 25 Echoes agree. The master registry leaves damage, speed, and range variable / unset. The `MAW-W-340` archetype index supports a Cryo-Relic Lance (polearm, Long), while a separate `MAW-W-285` entry names a Silent Memorial-Bell / Clapperless Monastery Bell (Room); neither entry crosswalks to the registered item code `MAW-W-340-01`. No recorded transformation or form split reconciles the lance, bell, and hammer or the competing profiles. Hold the identity and disputed profile; no primary/item value is selected.
 
@@ -48,13 +48,3 @@ Charm preserves the warning, Veil protects the listener, and Hammer creates a qu
 **Formal-ID note:** `SE-340` is assigned to Clapperless. Apocrypha (`O-Iα-340`) remains deferred.
 
 **Source:** `SE-C-IIβ-340_Clapperless_빈_종.md`
-
----
-
-**Document ID:** `SE-340-A`  
-**Linked Entity:** `SE-340`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -41,12 +41,3 @@ The Veil lets the wearer remain outwardly stable under short-term Void or social
 ### History Record
 
 A Joy Veil bearer maintained calm during a mass evacuation. When the Veil came off, the bearer could not remember which of the evacuees had been afraid because every face had looked equally composed.
-
-**Document ID:** `SE-051-C`  
-**Linked Entity:** `SE-051`  
-**Item Registry Code:** `MAW-S-051-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

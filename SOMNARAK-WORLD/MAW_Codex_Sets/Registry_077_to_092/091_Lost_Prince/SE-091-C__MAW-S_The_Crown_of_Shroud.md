@@ -56,7 +56,7 @@ The Shroud formed from the second tear the Prince gave after a work session ende
 
 ### Appearance
 
-The Crown of Shroud is a deep-blue shroud of soft Han silk cut close to the shoulders, with a collar that fastens at the throat and a hem that falls to the waist. The collar is the only stiff part of the garment and stays cool during an open presence, growing warm when a handover is acknowledged. The fabric lowers direct Lament harm while the wearer is openly present with another person, and it does not grant ownership of that person or punish them for leaving. When a departure, relief, and protected person all acknowledge the transfer, a soft blue layer remains around the group during the transition. A cold rigid collar means the shroud is trying to convert companionship into obligation, and the relief person unknots it before the wearer leaves. The shroud is folded with its collar loose between assignments, and the departure and arrival notes are tucked into the sleeve until the next inspection.
+The Crown of Shroud is a shroud of soft Han silk in deep blue, cut close to the shoulders, with a collar that fastens at the throat and a hem that falls to the waist. The collar is the only stiff part of the garment and stays cool during an open presence, growing warm when a handover is acknowledged. The fabric lowers direct Lament harm while the wearer is openly present with another person, and it does not grant ownership of that person or punish them for leaving. When a departure, relief, and protected person all acknowledge the transfer, a soft blue layer remains around the group during the transition. A cold rigid collar means the shroud is trying to convert companionship into obligation, and the relief person unknots it before the wearer leaves. The shroud is folded with its collar loose between assignments, and the departure and arrival notes are tucked into the sleeve until the next inspection.
 
 ### Passive effect— *Stayed With*
 
@@ -88,14 +88,3 @@ The Shroud reduces direct Lament harm when the wearer is openly present with ano
 The Shroud gives *Honest Company* a limit. The Crown of Requiem can answer a panic surge; the Crown of Tears can show a bond; this suit requires everyone to respect the difference between staying and trapping.
 
 > *“I will stay until someone can take over. I will not say forever when forever is not mine to promise.”* — Specialist Haneulash Yoon
-
----
-
-**Document ID:** `SE-091-C`  
-**Linked Entity:** `SE-091`  
-**Item Registry Code:** `MAW-S-091-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

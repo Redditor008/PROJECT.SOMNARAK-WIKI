@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-627 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — Not one body but a place: dark fruit growing in heavy clusters and melting as it ripens, pooling into crimson ground that never dries. The air is sweet and burned at once; fever-hot, it smells of char and overripe sugar. The fruit reforms as fast as it melts. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -27,10 +27,12 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | Never at zero and never at rest — 35–50% the moment a watch opens, because the ground is already working before anybody walks out to it. |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | Paid only for a cycle that finishes — 12–18, and the Fruit has to be counted before it goes. There is no partial yield on this holding. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the counter** — Setting follows arrivals closely enough that the Gate watch can predict a heavy week from the previous day's tally. |
+| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the ground growing; nothing gets out. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter. The frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | Nothing to recover and nothing to destroy. What stands here is ground. |
@@ -40,62 +42,69 @@
 
 - The file keeps no breach counter. Nothing gets out; what grows is the ground, which takes in more of the path each year, and that is the only way this holding gets bigger.
 - Viderehan and Ferrehan, both worked from the path. There is nobody at the rows to weep at and nothing there to face.
-- Observation is the wanting inside one fruit, taken one fruit at a time; endurance is standing the interval next to a crop nobody will ever carry off the ground.
+- Observation is the wanting inside one fruit, taken one fruit at a time. Endurance is standing the interval next to a crop nobody will ever carry off the ground.
 - Everything on the tree turns to liquid at contact, so the inventory is a count and a position and nothing more. One seed has left this site whole in sixty years, and it will not grow.
-- Fruit sets as arrivals come through the Gate and stops entirely in the weeks when nobody comes out; in those weeks the frontage does not pull back, it simply stops advancing.
+- Fruit sets as arrivals come through the Gate and stops entirely in the weeks when nobody comes out. In those weeks the frontage does not pull back, it simply stops advancing.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge pressure; 15% against everything else. Nothing is rated against the fruit itself, which does not pursue: it hangs, it draws exiles the way the gate does, and it melts when it is touched, so the percentages describe the pressure coming off rows nobody has put a hand into. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | Never zero: 35–50%, because the Crop is already up before the watch begins. |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone E, Exile's Gate vicinity |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*. And the Resistance row says it outright: the fruit does not pursue, it hangs, it draws exiles the way the gate does. And it melts when it is touched. What is done about it is a pace of the frontage and a promise not made.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | Orchard rows under permanently wet crimson ground at the Exile's Gate, dark fruit hanging in heavy clusters, and the rows still legible under the pool. The frontage advances about a foot a week inside an active exile season and has never afterwards retracted. |
+| **Perceptible to** | The smell first — sweet and burned at once — then the crimson ground underfoot and the shape of rows beneath it. Past the first half-hour among the rows, personnel lose the middle of the morning and smell the fruit before they can say what is missing. |
+| **Handling** | Worked from the path, upwind wherever the wind allows: nobody steps onto the crimson ground, nobody picks, and nobody tells anybody they will come back. The frontage is paced before the cycle and again after it. — see `## Handling Process` |
+| **Activation threshold** | No breach counter. The frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Let the fruit decay naturally; do not promise return |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Drip* [**Debuff**] } | "The fruit in your hand is melting — juice running between your fingers — and the juice is hot with old fury." | [The Fruit's dissolution releases liquid anger; the target is splashed.] | *Target suffers -10 Resilience; the dripping rage burns.* **[10 Grudge DMG [Grudge]]** | When the target holds the Fruit. |
-| { *The Losing Form* [**Debuff**] } | "The fruit cannot hold its shape — collapsing inward — and the collapse carries the anger of impermanence." | [The Fruit's formlessness spreads; the target's own solidity wavers.] | *Target loses 10 Resilience; they feel themselves softening.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
-| { *The Scalding Splash* [**Attack**] } | "A glob of molten fruit flies — burning, sticky, and furious." | [A splatter of superheated fruit-matter strikes.] | *Inflicts Grudge pressure and one searing, clinging wound.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
-| { *The Full Liquefaction* [**Attack**] } | "The fruit melts entirely — becoming a pool of liquid, concentrated rage." | [Crushed or opened, one fruit gives up everything it was keeping: a desire somebody had abandoned, at full strength and aimed at whoever touched it.] | *A heavy Crimson flood; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Fruit is crushed. |
-| { *The Molten Orchard* [**Ultimate**] } | "Every fruit in the field melts — and the combined liquid rage floods everything." | [Every cluster in the rows gives way at once and the ground the rows were visible through rises to meet the workers.] | *All in range suffer Grudge pressure for three turns of molten harvest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the orchard does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Drip* [**Register**] } | Runs juice out of any fruit taken into a hand — hot, and old with fury — and the ground under the rows is permanently wet with the same. The fruit does not leave the rows to deliver it; the hand brings itself. | Paces the frontage before the cycle and enters the day's reading, and keeps the party on the path so that no hand is ever in the rows to begin with. | The percentages on this holding describe pressure coming off rows nobody has put a hand into. That sentence is the record: there is no engagement, only a ground working at its own pace. |
+| { *The Losing Form* [**Exposure**] } | Collapses the shape of whatever lingers near it and lets the collapse carry outward, so that a worker's sense of their own solidity wavers alongside the fruit. | Keeps the cycle short and upwind, and walks the party out before the half-hour at which the middle of the morning starts going. | Past that mark the loss is of the morning rather than of the body, and the file records it as a smell arriving before the worker can say what is missing. Nothing physical has been recorded off a whole watch on the path. |
+| { *The Full Liquefaction* [**Attachment**] } | Gives up everything a fruit was keeping when it is crushed or opened — a desire somebody had abandoned, at full strength, arriving in the person who touched it. | Files the cycle as a feeding, enters it against the worker rather than the orchard, and does not send a second worker after the first. | A cycle that ends with a fruit touched is filed as a feeding whatever the worker intended. That is the whole of this holding's failure mode, and it is a hand and not a pursuit. |
+| { *The Molten Orchard* [**Overload**] } | Melts every cluster in the rows at once, and the ground the rows were visible through rises to meet the workers standing on it. | Clears the frontage by head count, closes the path, and re-paces the boundary when the ground has set again. | The flood is measured afterwards and never during, because there is nowhere to stand and read it. What the file keeps is the frontage: about a foot a week in an active exile season, and never once retracted. |
 
-1. **Tension:** The file's own marker is checked first: dark fruit in heavy clusters over ground permanently wet and crimson, air sweet and burned at once, and orchard rows still legible under the pool. Harvest Beyond the Gate is confirmed against the designation, the day's reading is entered, and the positions are taken along the rows rather than across them.
-2. **Clash:** Viderehan or Ferrehan from the path, upwind wherever the wind allows. Nobody steps onto the crimson ground, nobody picks, and the frontage is paced before the cycle and again after it.
-3. **Resolution:** The rows are left alone and nothing is promised — the documented suppression condition: **Let the fruit decay naturally; do not promise return**. It holds so long as no fruit has been handled and nobody has told anybody they would come back; a cycle that ends with a fruit touched is filed as a feeding, whatever the worker intended.
+### Watch Sequence
+
+1. **What is confirmed:** the frontage paced from the gate, the wind direction for the cycle, and the head count of a party that will stay on the path.
+2. **What the watch does:** Viderehan for what the rows record about promises and Ferrehan for the patient pacing, with nobody stepping onto the crimson ground, nobody picking, and nothing said about anybody coming back.
+3. **How it closes:** **Let the fruit decay naturally; do not promise return** — and a cycle in which a promise of return was made within sight of the Gate ends the condition the same way a picked fruit does.
 
 ### Consequences
 
 - A failed resist at the rows costs twice: the gauge climbs, and the **Resilience** that carried the worker through the gate comes apart with it — the watch enters both, or it has entered nothing.
 - The orchard keeps its own pace. Past the first half-hour among the rows, personnel lose the middle of the morning and smell the fruit before they can say what is missing.
 - Every M.A.W. carried in past the gate settles its bill with the armoury first: the price comes off the bearer, and the ledger is not allowed to soften it.
-- A run that ends without containment leaves the gate open an hour past its hour, and the next tally of touched fruit comes out larger than the last.
+- A cycle that ends with a fruit touched is filed as a feeding, whatever the worker intended, and a promise of return made within sight of the Gate ends the condition the same way. Nothing else on this holding is a failure of containment: the ground is not breached, it is fed, and the record says which.
 
 ## Appearance
 **Physical Form:** Not a body but a planting — heavy clusters of dark fruit over rows that are still correctly spaced, standing in ground that has not been dry in sixty years. **Extent:** 124 paces of frontage along the departure path and widening.
@@ -130,23 +139,17 @@
 - **The People:** Forty-one exiles of the first planting, all of them orchard-trade, none of whom was ever permitted to do anything else, and the uncounted arrivals since.
 - **Expanded origin context:** The planting notes are the best document in the folder and the hardest to read. They are competent, specific and confident — spacing, watering intervals, the choice of stock, the order in which to set the rows — written by people who had grown fruit all their working lives and had been engaged to do nothing else. Nothing in them accounts for the ground beyond the Gate, because nothing in their training had ever been about ground beyond the Gate, and nothing in their position permitted them to learn another trade, apply for another trade, or be assigned to one. They were orchardists. They were put outside the wall. They did the only thing they were, and they did it extremely well, in soil that would not hold a root, and the harvest they could not have is still coming up out of that soil and running back into it.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** Orchard rows under permanently wet crimson ground at the Exile's Gate, dark fruit hanging in heavy clusters, and the rows still legible under the pool. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | Not available. There is no one here to address — the holding is a planting, not a planter. | N/A |
-| **Pugnahan** (Confrontation) | Not available on a Place, and the Registrum entry naming it primary was an error that stood for several cycles. | N/A |
-| **Viderehan** | One fruit at a time: a kitchen, a particular table, a particular year's crop coming in. Gauge holds. | Stable |
-| **Ferrehan** | Standing the interval beside a crop that will never be carried through the Gate. Wardens rate it the hardest hour in the district and ask for it anyway. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the frontage paced from the gate, the wind direction for the cycle, and the head count of a party that will stay on the path. |
+| **Handling** | The watch paces the frontage before the cycle and enters the day's reading, and keeps the party on the path so that no hand is ever in the rows to begin with. |
+| **Withdrawal** | **Let the fruit decay naturally; do not promise return** — and a cycle in which a promise of return was made within sight of the Gate ends the condition the same way a picked fruit does. |
+| **Refusal** | Worked from the path, upwind wherever the wind allows: nobody steps onto the crimson ground, nobody picks, and nobody tells anybody they will come back. The frontage is paced before the cycle and again after it. |
 
-
-### Operational Work Notes
-
-A flat gauge is not a safe watch, and this holding reads flat most of the year. Before anybody is put on the roster the Work Types are weighed against the breach threshold and the M.A.W. cost: an Object/Place holding with a Place-Grudge manifestation, elemental expression Grudge, standing in Zone E by the Exile's Gate. Every fruit on the rows holds a wish somebody had already set down, and one touch turns it to liquid — which is the whole of the warning here, and the reason the condition reads the way it does. No line in this file carries over to another holding with a harvest in its name, and observation can leave the gauge untouched while still costing the worker memory, environment or identity.
-
-**Reading the response:** When the gauge drops, the surface pressure lessens and the deep structure of the grief is untouched — stabilisation and not healing. When the gauge climbs, the approach has struck the nerve of the origin: pull back and reassess before the work feeds the sorrow the orchard was made of. The rows are read in the same light: a fruit that has not been touched is the holding in its ordinary state, and the record on this file is counted by what was left alone.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -160,7 +163,7 @@ A flat gauge is not a safe watch, and this holding reads flat most of the year. 
 
 ### Escalation Notes
 
-No two widenings at the gate take the same shape. The watch sets down four things and stops at four: the trigger, the first movement in the Place-Grudge form, the distance the effect reaches, and the point where reaching ends. Grudge is the expression and Zone E the ground, so dials alone will not account for a widening — what a worker feels and how a worker behaves are written beside the numbers. A watch that fills all four lines has done the work it was sent to do; a watch that fills three and guesses at the fourth has filled a page and left the file no better informed than it was before the van left the gate.
+No two widenings at the gate take the same shape. The watch sets down four things and stops at four: the trigger, the first movement in the Place-Grudge form, the distance the effect reaches, and the point where reaching ends. Grudge is the expression and Zone E the ground, so dials alone will not account for a widening — what a worker feels and how a worker behaves are written beside the numbers. A watch that fills all four lines has done the work it was sent to do. A watch that fills three and guesses at the fourth has filled a page and left the file no better informed than it was before the van left the gate.
 
 **Response sequence:** pace the frontage against the last mark before anything else, keep the path open on the city side, move nobody off the ground who is standing on it voluntarily, and say nothing to any arrival about return.
 
@@ -202,7 +205,7 @@ The tallow coat insulates the blade against electrical discharge and softens the
 
 **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and channels the orchard's signature in the strike: the target is left carrying a desire they had already given up on, at full strength and with nowhere to put it.
 
-**Cost:** Old wounds ache in the wielder, and prolonged use leaves faint bruising where nothing struck; the ache is filed against the piece because the wielder reports it as weather rather than as damage.
+**Bearer cost:** Old wounds ache in the wielder, and prolonged use leaves faint bruising where nothing struck. The ache is filed against the piece because the wielder reports it as weather rather than as damage.
 
 ### M.A.W. Suit — The Melting Plate
 
@@ -218,40 +221,40 @@ The tallow coat insulates the blade against electrical discharge and softens the
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — worn against this orchard's particular pressure: nothing here strikes at the body, and what the armour actually lets the wearer do is stand in the rows without the fruit answering. The binding escort must repeat a desire without converting it into a commitment. Joint delay while offering reassurance and sweet residue held in the seams are warning signs, not reasons to promise faster relief. The Plate can bear the speaker's anger without requiring the speaker to become hopeful.
+**Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — worn against this orchard's particular pressure: nothing here strikes at the body. And what the armour actually lets the wearer do is stand in the rows without the fruit answering. The binding escort must repeat a desire without converting it into a commitment. Joint delay while offering reassurance and sweet residue held in the seams are warning signs, not reasons to promise faster relief. The Plate can bear the speaker's anger without requiring the speaker to become hopeful.
 
-**Cost:** Reflexes thin in the wearer, as if the body had picked up a grudge of its own, and the wearer is the last to register it — every stand-down on this set has been called by the second worker, never by the person carrying it.
+**Bearer cost:** Reflexes thin in the wearer, as if the body had picked up a grudge of its own. And the wearer is the last to register it — every stand-down on this set has been called by the second worker, never by the person carrying it.
 
 ### M.A.W. Stigma — The Melting Seed
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a seed-charm of Grudge Han-iron, dark and warm to the touch, cast as a single fruit with the seam of the orchard's own rows worked around it; it is the set's smallest piece and the only one issued to workers who will not be carrying anything else.
+**Appearance:** a seed-charm of Grudge Han-iron, dark and warm to the touch, cast as a single fruit with the seam of the orchard's own rows worked around it. It is the set's smallest piece and the only one issued to workers who will not be carrying anything else.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat; for roughly a day the wearer can take up work they were never taught, without the fear of being seen outside their trade. It is the orchard's bargain lent out — and it takes no interest in what the worker gave up in order to be standing there.
+**Effect:** +1 to the working stat. For roughly a day the wearer can take up work they were never taught, without the fear of being seen outside their trade. It is the orchard's bargain lent out — and it takes no interest in what the worker gave up in order to be standing there.
 
 **Ability:** Reveals the desire behind a person's anger. The Seed presents that wanting in the speaker's sensory language, not as destination coordinates or a judgement of feasibility. Do not read it aloud without consent. A kitchen taste can stand for a future rather than a room someone wants occupied again; the speaker's correction governs that distinction. Recognition does not oblige the bearer to promise fulfillment, and a revealed wish is not an instruction to route people back through the Gate.
 
-**Cost:** The wearer feels every desire that cannot be fulfilled.
+**Bearer cost:** The wearer feels every desire that cannot be fulfilled.
 
 *Nine seeds exist and not one will germinate. Each was taken from a fruit at the instant it began to turn, which is the only way anything has ever left this site whole.*
 
 ### M.A.W. Use Notes
 
-All 3 pieces are cut from the orchard and carry its charge rather than its power: the bearer's old wounds ache, and bruises come up where nothing struck. The grade line records how cleanly a piece extracts and nothing else; the charge sits in the next column, and it is why issue here runs one rotation and no longer.
+All 3 pieces are cut from the orchard and carry its charge rather than its power: the bearer's old wounds ache, and bruises come up where nothing struck. The grade line records how cleanly a piece extracts and nothing else. The charge sits in the next column, and it is why issue here runs one rotation and no longer.
 
 ### Care Without a Return Promise
 
-Separate the harness plates for cleaning and let residue cool naturally before returning it to the source ground; no preserved fruit sample belongs in the care kit. The Seed rests beside fruit already dissolved, not fruit kept intact for its sake. Enter desire and available support in different fields, leaving the latter blank when nothing can honestly be supplied. If its speaker is unavailable to distinguish wanting from expecting, Xyan seals the Seed pending a consented review rather than letting an escort answer for them. This is care for an equipment exposure, not an exception to the Gate's ban on taking arrival names. Nor does the Seed's brief freedom to attempt another trade issue a qualification or make a cross-trade competence record lawful. The Common Ground's unanswered requests remain unanswered.
+Separate the harness plates for cleaning and let residue cool naturally before returning it to the source ground. No preserved fruit sample belongs in the care kit. The Seed rests beside fruit already dissolved, not fruit kept intact for its sake. Enter desire and available support in different fields, leaving the latter blank when nothing can honestly be supplied. If its speaker is unavailable to distinguish wanting from expecting, Xyan seals the Seed pending a consented review rather than letting an escort answer for them. This is care for an equipment exposure, not an exception to the Gate's ban on taking arrival names. Nor does the Seed's brief freedom to attempt another trade issue a qualification or make a cross-trade competence record lawful. The Common Ground's unanswered requests remain unanswered.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the day's reading, and a baseline written down and kept by a second person. On this set the question is not what the bearer feels but what the bearer has quietly stopped noticing, and the written sheet is what the return will be measured against. |
-| **During use** | The charge announces itself as an ache in the old wounds, arriving in weather the orchard never made. The hour goes into the log from the second worker's hand; what the bearer says about it is recorded aside, afterwards, and never used to fill the gap. |
+| **During use** | The charge announces itself as an ache in the old wounds, arriving in weather the orchard never made. The hour goes into the log from the second worker's hand. What the bearer says about it is recorded aside, afterwards, and never used to fill the gap. |
 | **At limit** | The trouble is silence: the ache fades out of the bearer's awareness while the bruising stays exactly where it was. That is the limit on this set, and the second worker calls it — the call does not wait on the bearer's agreement. |
 | **After use** | Take the piece back and set the sheet beside the person: has the ache outrun the rotation, and has the bearer stopped mentioning it? Either answer goes into the record as written, whether the bearer agrees with it or not. |
 
@@ -297,7 +300,7 @@ The grief of wanting a home or future that exile made impossible.
 Management: no picking, no clearing, no names, no promise of return. Work response — Viderehan: the wanting inside a single fruit (Stable); Ferrehan: standing the interval beside a crop nobody can carry (Decrease). Flerehan and Pugnahan do not apply to a Place.
 
 **Entry 5 — <Archive Note>**
-The orchard is not a memorial and the file is firm that nobody should read it as one. It is a working orchard, producing continuously a crop nobody can hold: fruit sets heavy, ripens, and goes to liquid at contact or at ripeness, whichever comes first. The Warden counts what sets and counts what is lost, and the two have matched for as long as anybody has counted. The planting was done by someone who knew the work; the rows are still legible under the crimson ground, correctly spaced, correctly oriented, with the windbreak stock on the weather side exactly where the notes say to put it. Everything about this site was done properly by people who knew their work, and none of it was ever going to grow, and none of them was ever permitted to do anything else.
+The orchard is not a memorial and the file is firm that nobody should read it as one. It is a working orchard, producing continuously a crop nobody can hold: fruit sets heavy, ripens, and goes to liquid at contact or at ripeness, whichever comes first. The Warden counts what sets and counts what is lost, and the two have matched for as long as anybody has counted. The planting was done by someone who knew the work. The rows are still legible under the crimson ground, correctly spaced, correctly oriented, with the windbreak stock on the weather side exactly where the notes say to put it. Everything about this site was done properly by people who knew their work, and none of it was ever going to grow, and none of them was ever permitted to do anything else.
 
 ## 최종 관찰 (Final Observation)
 
@@ -314,24 +317,24 @@ The Gate is behind you and the fruit hangs on a tree that has no business growin
 
 
 
-**At first contact:** What identifies it is the ground before the fruit: permanently wet and crimson, with a set of orchard rows still visible beneath the pool, and dark clusters hanging over it in the smell of something sweet that has burned. The fruit is warm to be near and answers a hand: it melts when it is touched, and what is released is a desire somebody had already given up on. The space does not go generic or abstract — it changes in the specific way associated with Grudge and with this holding's Place-Grudge form.
+**At first contact:** What identifies it is the ground before the fruit: permanently wet and crimson, with a set of orchard rows still visible beneath the pool, and dark clusters hanging over it in the smell of something sweet that has burned. The fruit is warm to be near and answers a hand: it melts when it is touched, and what is released is a desire somebody had already given up on. The rows are the last thing the eye settles on: correctly spaced, correctly oriented, windbreak stock on the weather side, exactly where the planting notes say to put it.
 
-**With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Grudge; it is this entity's Grudge — shaped by its origin, its wound, its particular grief.
+**With continued exposure:** Past the first half-hour among the rows the middle of the morning goes missing, and personnel smell the fruit — sweet and burned at once — before they can say what else is gone. One fruit at a time it stays specific: a kitchen, a particular table, a particular year's crop coming in.
 
-**When the entity activates:** When it activates, the Grudge stops being background and becomes foreground — loud, physical, impossible to ignore. The Place-Grudge was waiting for this.
+**When the entity activates:** Setting follows arrivals — after a heavy day at the Gate the clusters come on thick, and in the weeks when nobody comes out the frontage simply stops advancing. A frontage that moves in a quiet week is the escalation signal here: pace it again the same day and notify the Gate watch.
 
-**After departure:** What remains after the door closes is not fear but weight — a Grudge aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** Personnel who have tasted it report fear rather than pleasure, and the taste is always of something from their own childhood. The post-contact review asks the question plainly — whether any Warden tasted anything — and it is answered plainly and carries no consequence.
 
 ### Interaction Pattern
 
-Three records stand near this one on the shelf — The Exile's Gate, The Returning Fruit and The Forgotten Shadow — and none of them is entered here as friend or foe; they were set beside it because something looked alike, and the file stops there. A run held across two of these holdings is logged one post at a time — the rows, the pool, the reading, the gauge, the containment line, each written down either as changed or as unchanged — and the heading over those entries says plainly that a family resemblance is grounds for trying a set and never a result of having tried one.
+Three records stand near this one on the shelf — The Exile's Gate, The Returning Fruit and The Forgotten Shadow — and none of them is entered here as friend or foe. They were set beside it because something looked alike, and the file stops there. A run held across two of these holdings is logged one post at a time — the rows, the pool, the reading, the gauge, the containment line, each written down either as changed or as unchanged — and the heading over those entries says plainly that a family resemblance is grounds for trying a set and never a result of having tried one.
 
 **Interaction method:** Frontage paced before and after by the same Warden with the same chain, both fruit counts kept hourly through the pairing, and the departure path left open throughout.
 
 
 ### Entity Interaction Record
 
-This file stays separate from the other produce holdings. The Last Fruit keeps a want that never got said; what is kept here is a capability with nowhere to be used, which is why its instrument is a frontage and not a hunger.
+This file stays separate from the other produce holdings. The Last Fruit keeps a want that never got said. What is kept here is a capability with nowhere to be used, which is why its instrument is a frontage and not a hunger.
 
 | Companion place | Grounds for the comparison | What was seen when both stood together | Note required |
 |---|---|---|---|
@@ -351,7 +354,7 @@ The trees could not live. The Desolate is not farmland; the Han-charged soil, th
 
 The longing piled up in those failed orchards — the wish for a home, a future, a harvest that exile had put out of reach. Generation after generation planted and failed, carrying the frustration of wanting what the Desolate would not give, and the frustration, deepened by the impossibility, curdled into resentment. Harvest Beyond the Gate is that resentment with a form: Place-Grudge, the harvest nobody could taste, melting because the trees would not root, because the home could not be rebuilt, because exile is the condition of wanting a future in a place that will not grow one.
 
-Come near the Harvest and what arrives is the grief of an impossible return — the wish for a home exile has closed, the frustration of planting in soil that will not bear, and the resentment that grows when hope meets the fact that some things, once lost, do not grow back.
+Come near the Harvest and what arrives is the grief of an impossible return — the wish for a home exile has closed, the frustration of planting in soil that will not bear. And the resentment that grows when hope meets the fact that some things, once lost, do not grow back.
 
 Some sorrows mourn a home. This one mourns the replanting — the exiles' orchards that came to nothing, the trees that would not survive, the harvest that melted before anybody tasted it, kept as a place where longing turned into resentment because the ground, tended faithfully or not, would not yield.
 ## 증언 (Testimonium) — The Testimony
@@ -371,21 +374,21 @@ Some sorrows mourn a home. This one mourns the replanting — the exiles' orchar
 **Common Name:** Harvest Beyond the Gate
 **Containment Status:** Contained — Gate District
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It has never injured anybody and cannot be entered safely; the hazard is the ground, which does not bear weight, and the effect, which is the grief of knowing a trade that has nowhere left to be practised.
+**Threat Assessment:** Moderate (β). It has never injured anybody and cannot be entered safely. The hazard is the ground, which does not bear weight, and the effect, which is the grief of knowing a trade that has nowhere left to be practised.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type and Viderehan the alternate. Pugnahan is unavailable on a Place, and the earlier entry naming it primary is withdrawn.
+- Ferrehan is the primary Work Type and Viderehan the alternate. Pugnahan is unavailable on a Place.
 - The trees are gone and the fruit keeps coming. Setting and losing have been counted apart for sixty years, and the two figures always match.
 **Observation Notes:**
 - Forty-one orchardists planted beyond the Gate to the standard of their trade, in ground their trade had never covered.
-**Cross-References:** Gate District · The Returning Tree · Doorway to Nowhere · The Exile's Gate · the Trades Office rule on assignment · the Common Ground plot
+**Cross-References:** Gate District · The Returning Tree · [Doorway to Nowhere](SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md) · The Exile's Gate · the Trades Office rule on assignment · the Common Ground plot
 **Faction Involvement:** SED (E-territory, Gate District approach)
 **Originator:** Exiles who planted orchards they could not tend.
 
 ### Registry Addendum
 
-**Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the breach behaviour are one picture, and on this holding the picture is a stretch of ground. The facts that govern are these — the fruit holds a desire somebody abandoned, it melts when it is touched, it draws exiles the way the gate does, and the condition is to let it decay naturally and never promise return. When the entity does something this file does not describe, document the gap: the record is a living document and the gap is the next entry.
+**Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the expansion behaviour are one picture, and on this holding the picture is a stretch of ground. The facts that govern are these — the fruit holds a desire somebody abandoned, it melts when it is touched, it draws exiles the way the gate does, and the condition is to let it decay naturally and never promise return. When the entity does something this file does not describe, document the gap: the record is a living document and the gap is the next entry.
 
-**Review requirement:** Anything out of the ordinary and the file has to be walked again — a breach, a Sorrow Tide, an expansion, an attempt to change what this is, or an interaction nobody has a precedent for. Re-take the gauge, the seal on the ground, the medical state of whoever was on the path, where the frontage now sits, and what the M.A.W. is reading. Then, because this is a Place and not a person: check whether any Fruit was handled, who handled it, and what was promised to anybody within sight of the Gate. Where a figure has moved, correct the file and not anybody's recollection of it. The record here describes ground that is still moving, and it is not a finished account of it.
+**Review requirement:** Anything out of the ordinary and the file has to be walked again — an expansion, a Sorrow Tide, an Ordeal, an attempt to change what this is, or an interaction nobody has a precedent for. Re-take the gauge, the seal on the ground, the medical state of whoever was on the path, where the frontage now sits, and what the M.A.W. is reading. Then, because this is a Place and not a person: check whether any Fruit was handled, who handled it, and what was promised to anybody within sight of the Gate. Where a figure has moved, correct the file and not anybody's recollection of it. The record here describes ground that is still moving, and it is not a finished account of it.
 ## Watch Record
 
 ### Fruit That Melts
@@ -398,13 +401,13 @@ The air carries both smells together, and each visit records the combination as 
 
 ### It Draws Exiles
 
-People put out of the city come to the orchard with nobody directing them, and their arrival is recorded as a number and never as names. Names are not taken at the Gate holdings; the file notes that the rule is the same at all of them and was adopted so that no exile has to weigh being seen against wanting to stand somewhere that grows.
+People put out of the city come to the orchard with nobody directing them, and their arrival is recorded as a number and never as names. Names are not taken at the Gate holdings. The file notes that the rule is the same at all of them and was adopted so that no exile has to weigh being seen against wanting to stand somewhere that grows.
 
 ### What the Frontage Is Measuring
 
 Most of this holding does not move. The fruit sets and is lost in equal numbers, counted separately to be sure. The smell has never been absent. The spacing of the rows under the pool matches the planting notes. The one figure that does move is the frontage along the departure path, paced from the Gate stone: 61, then 88, then 124. It does not follow arrivals, which rise and fall, nor the season, nor the Gate's traffic in total. It tracks the Trades Office return at a single line — the number of people on the district rolls whose trade has no remaining employment anywhere in the city, and who may not be assigned to any other.
 
-A worker here is engaged in a trade and worked only in that trade. Nobody is put to work outside it, no training carries across from one to another, and no record may be made of what a person can do outside their own. The rule was fought for by the trades themselves and the file says so plainly. Versatility was how the Company paid a joiner labourer's wages for joinery; cross-assignment broke the trade rates within a decade of being allowed; and a foreman who could move a man into work he would fail at had a disciplinary weapon that left no mark on any record. The bar ended all three. The trades defend it still and this file does not argue with them.
+A worker here is engaged in a trade and worked only in that trade. Nobody is put to work outside it, no training carries across from one to another, and no record may be made of what a person can do outside their own. The rule was fought for by the trades themselves and the file says so plainly. Versatility was how the Company paid a joiner labourer's wages for joinery. Cross-assignment broke the trade rates within a decade of being allowed. And a foreman who could move a man into work he would fail at had a disciplinary weapon that left no mark on any record. The bar ended all three. The trades defend it still and this file does not argue with them.
 
 What follows is that a trade which runs out takes its people with it. An orchardist whose orchards are gone is not retrained, not reassigned and not recorded as capable of anything else, because capability outside one's trade is the thing that may not be written down. There are two hundred and some of them on the Gate rolls, all competent, none of them permitted to be competent at anything. Forty-one of them went out through that Gate and planted, correctly, to the standard of their trade, in soil nothing roots in. The crop has been coming up ever since and running back into the ground, and the ground takes a little more of the path each year.
 
@@ -412,11 +415,11 @@ What follows is that a trade which runs out takes its people with it. An orchard
 
 Opened Year 4235, and the smallest thing the rule leaves room for. A plot beside the Gate where any person — on the books or off them, exiled or not — may work at anything they like. Any trade, any task, no engagement, no supervision, no record kept of who attended or what they did. It is lawful because nothing about it is recorded: an unrecorded afternoon is not an assignment, and an assignment is the thing the bar forbids.
 
-Year 4237: 2,104 attendances estimated by the keeper's eye, since counting would be a record; 0 qualifications issued, there being no such thing; 0 transfers resulting; 31 tons of produce to the ward kitchens, none of it to the people who grew it, because produce to a grower would be payment and payment implies an engagement; 48 written requests from attenders asking that their time be counted toward a trade, all 48 refused.
+Year 4237: 2,104 attendances estimated by the keeper's eye, since counting would be a record. 0 Qualifications issued, there being no such thing. 0 Transfers resulting; 31 tons of produce to the ward kitchens, none of it to the people who grew it, because produce to a grower would be payment and payment implies an engagement. 48 Written requests from attenders asking that their time be counted toward a trade, all 48 refused.
 
 The costs fall where they always fall. The work is unpaid, so the plot fills with the obsessive and the desperate and almost nobody with a family to feed. It proves nothing, by design: a man may build a wall there every week for nine years and no document in the world will say he can lay brick. And the one thing it reliably produces — the sight of somebody doing good work they are not allowed to do — is also the thing that sends people on to the orchard afterwards, which the keeper has reported twice and the file has recorded twice.
 
-The plot keepers asked for the narrowest possible change: that attendance alone, with no assessment and no detail, be admissible as evidence that a person is capable of the work. Refused, and the refusal is honest about itself — admissible capability outside a trade is a cross-trade record, a cross-trade record is the first step back to the joiner on a labourer's wage, and the trades would be right to say so. The keepers' submission is bound into the Year 4237 return, recorded as correct and unanswered: that this Company protected every trade by sealing each one shut, so that no worker could ever again be used outside the terms he was engaged on, and has thereby arranged that when a trade dies its people are kept alive, idle, expert and unemployable, pruning trees that are not there, at a hundred and twenty-four paces and counting.
+The plot keepers asked for the narrowest possible change: that attendance alone, with no assessment and no detail, be admissible as evidence that a person is capable of the work. Refused, and the refusal is honest about itself — admissible capability outside a trade is a cross-trade record, a cross-trade record is the first step back to the joiner on a labourer's wage, and the trades would be right to say so. The keepers' submission is bound into the Year 4237 return, recorded as correct and unanswered: that this Company protected every trade by sealing each one shut. So that no worker could ever again be used outside the terms he was engaged on. And has thereby arranged that when a trade dies its people are kept alive, idle, expert and unemployable, pruning trees that are not there, at a hundred and twenty-four paces and counting.
 
 ### Trees That Could Not Live Out There
 
@@ -432,7 +435,7 @@ Exiles planted beyond the Gate and the trees failed in that ground, and what rem
 ### Registry Trivia
 
 - **Classification detail:** Harvest Beyond the Gate is an Object/Place with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Element Grudge, registered to Zone E in the vicinity of the Exile's Gate, where containment is a condition rather than a cordon: the rows are left standing, the fruit is allowed to decay where it hangs, and no promise of return is made anywhere inside the ground.
+- **Field detail:** Element Grudge, registered to Zone E in the vicinity of the Exile's Gate, where containment is a condition rather than a cordon: the rows are left standing, the fruit is allowed to decay where it hangs. And no promise of return is made anywhere inside the ground.
 - **Recognition detail:** Dark fruit in heavy clusters over ground that is permanently wet and crimson, air sweet and burned together, and a set of orchard rows still visible beneath the pool.
 - **Record detail:** The Registrum named Pugnahan as the primary Work Type on a Place that bars it entirely, and recorded that the trees are dead and the fruit never came against a site that sets and loses a crop continuously; both corrected. The M.A.W. grade was blank against three β pieces and the faction entry read Desolate-territory against a Zone E holding.
 - **Containment detail:** A contained entity is not dormant, and nothing here is celled: the orchard sits open at the edge of the gate and the only management is what people are told. Fixed holdings can expand influence without moving — warping local Han, affecting psychology, resonating across barriers — and on this one the influence is a bargain offered to anybody standing in the rows, which is why the instruction is not a distance but a sentence: do not promise return.

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Non-Organic — An invisible pressure with no body of its own, seen only as a dark outline bleeding out from people who have stopped speaking. Lead-cold, it smells of wet stone; nothing to strike — only the quiet, growing heavier around the silent. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Ambient and mobile. It does not occupy a place; it occupies whoever in the Commons is holding something back, and it moves when they do. |
 | **Location** | Zone D, Mantle Commons — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, collected in a public room during ordinary hours. The Commons station bills nothing for it and has never been able to explain the cycle to the energy office in a way that sounds like work. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | 4 |
+| **SE Effect** | **On the breach** — The set's price is speech: wielders speak less, in measurable amounts, and all three have had the reduction pointed out to them by somebody at home rather than at work. |
+| **Work Damage** | None — the Weight it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | α — Memorial-Bell, Mantle and Weight all graded |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -38,7 +40,7 @@
 
 ### Operational Notes
 
-- Threshold sits at 4, one step higher than most Subject-class entities on this row; the gauge tolerates a full additional failed cycle before activation, and crews have used that margin to attempt speech-based work twice in a single shift.
+- Threshold sits at 4, one step higher than most Subject-class entities on this row. The gauge tolerates a full additional failed cycle before activation, and crews have used that margin to attempt speech-based work twice in a single shift.
 - Pressure registers as burden rather than injury. Personnel locate it in the chest and throat, and medical review finds no physical cause on examination.
 - Work that pairs speech with tears lowers the gauge; silence held under confrontation raises it. Crews are instructed to let a worker stop mid-sentence rather than finish.
 - Because the entity responds to the act of speaking rather than to its content, scripted or recited dialogue produces no measurable change in either direction.
@@ -52,7 +54,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.30 m/s |
-| **Resistance** | 20% against Weight. There is nothing present to resist; the holding is the quiet in a room where people used to talk, and the only equipment the station issues for it is a chair and somebody willing to sit in it. |
+| **Resistance** | 20% against Weight. There is nothing present to resist. The holding is the quiet in a room where people used to talk, and the only equipment the station issues for it is a chair and somebody willing to sit in it. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 207/207 |
 | **Han Pressure [ATK]** | 3–10 per hit · Weight |
@@ -82,13 +84,13 @@
 | { *The Loaded Pause* [**Debuff**] } | "The silence stretches — and with every second, it gets heavier." | [The silence compounds; each moment adds weight.] | *Target loses 10 Resolve; the pause is an anvil.* **[10 Weight DMG [Weight]]** | When the target fails to break the silence. |
 | { *The Dropped Word* [**Attack**] } | "One word, finally spoken — and it hits like a stone dropped from a height." | [A released word strikes with all its accumulated mass.] | *Inflicts Weight pressure and one heavy, blunt wound.* **[14-22 Weight DMG [Weight]]** | When the silence is broken. |
 | { *The Full Confession* [**Attack**] } | "Everything a person held back comes out at once, at the weight it was held at." | [The accumulated silence of one person discharges in a single unstoppable telling.] | *Heavy Weight to the speaker and to everybody in the room; nine occurrences, and in all nine the speaker was accurate, unstoppable and afterwards ashamed.* **[Weight DMG [Weight]]** | When somebody is asked a direct question they have been avoiding. |
-| { *The Silent Mountain* [**Ultimate**] } | "The quiet becomes a weight and sits on the whole Commons at once." | [The silence generalises; nobody in the district can begin a sentence.] | *Weight erosion across the Commons for three cycles.* **[Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, twice, both in the fortnight after a consultation closed without a reply being published. |
+| { *The Silent Mountain* [**Exhaustion**] } | "The quiet becomes a weight and sits on the whole Commons at once." | [The silence generalises to one person; the rest of the district keeps talking.] | *The Weight settles on the one worker who stopped moving. The Commons do not feel it.* **[Weight DMG [Weight], single target]** | Above 65%, twice, both in the fortnight after a consultation closed without a reply being published. |
 
 ### Battle Phases
 
 1. **Tension:** The Warden takes the chair in the Commons during ordinary hours, says good morning to whoever is there, and does nothing else. The room is not cleared and the public is not moved; that is the entire setup and it took three years to get it agreed.
-2. **Clash:** Speech is offered and never required. A worker may stop mid-sentence and the cycle still counts; a worker who is pressed to finish raises the gauge, which is the one reliable way to lose this encounter.
-3. **Resolution:** Somebody says something ordinary and unprompted and the gauge falls four to nine points. 211 cycles; the median time to the first unprompted sentence is nineteen minutes and the longest on record is the whole shift.
+2. **Clash:** Speech is offered and never required. A worker may stop mid-sentence and the cycle still counts. A worker who is pressed to finish raises the gauge, which is the one reliable way to lose this encounter.
+3. **Resolution:** Somebody says something ordinary and unprompted and the gauge falls four to nine points. Eleven years of the silence register. The median time to the first unprompted sentence is nineteen minutes and the longest on record is the whole shift.
 
 ### Consequences
 
@@ -101,7 +103,7 @@
 
 **An edge, not another person:** The visible contour stands off an affected person; it is not a second body walking beside them. Household grief became ambient pressure after the house came down, so the Commons and its changing attendance matter more than an outline of the former house. Use another observer’s count because the carrier cannot see their own edge. Doorway glow records a departure, not consent to detain the person or require their story. Ordinary conversation may clear outlines without revealing the protected matter; the appearance record therefore counts presence and release without filling in what was withheld.
 
-**Primary Form:** An invisible pressure that appears as a dark outline around people who have stopped speaking.
+**Primary Form:** An invisible pressure with a visible edge: where the pressure is, the air carries a dark outline a hand's width off the body of whoever has stopped speaking, standing there like a shadow with nothing to cast it. Lead-cold and smelling of wet stone. It gathers on a person who has not spoken for a while and thickens the longer the silence holds, and it does not lift until they speak again.
 
 **Notable Features:** The outline is visible to everybody except the person wearing it. It glows faintly when an outlined person moves to leave, and leaving is never prevented.
 
@@ -119,7 +121,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | An invisible pressure that appears as a dark outline around people who have stopped speaking. |
-| **Position / movement** | Ambient throughout the Mantle Commons, resident in persons rather than in a location; it follows the outlined worker and leaves when they speak. |
+| **Position / movement** | Ambient throughout the Mantle Commons, resident in persons rather than in a location. It follows the outlined worker and leaves when they speak. |
 | **Material / signature** | Weight. Lead-cold, wet stone, and a dark edge standing a hand's width off the body. |
 | **Distinctive markers** | Who is outlined, how many are outlined this watch, and whether the glow has appeared at the doorway. |
 | **Identification** | Count the outlined. If the number is above the quarterly mean the holding is active, whatever anybody in the room reports feeling. |
@@ -137,10 +139,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Speech and tears together. Not the content — the act; recited or scripted words move nothing in either direction. | Decrease |
-| **Pugnahan** | Barred by standing order. Pressing a worker to finish a sentence they have stopped doubles the load on them within the watch. | Increase |
-| **Viderehan** | Shows what is being withheld, to the observer and not to the person withholding it. Knowing is not permitted to become asking. | Stable |
-| **Ferrehan** | Staying in the Commons while it is quiet, talking about nothing in particular, and not raising the matter. | Decrease |
+| **Flerehan** | Speech and tears together. Not the content — the act; recited or scripted words move nothing in either direction. | Decrease · High |
+| **Pugnahan** | Barred by standing order. Pressing a worker to finish a sentence they have stopped doubles the load on them within the watch. | Increase · Low |
+| **Viderehan** | Shows what is being withheld, to the observer and not to the person withholding it. Knowing is not permitted to become asking. | Stable · Common |
+| **Ferrehan** | Staying in the Commons while it is quiet, talking about nothing in particular, and not raising the matter. | Decrease · Common |
 
 
 
@@ -164,7 +166,7 @@ The Work Type table reads as usual and the number the station keeps is words per
 
 ### Escalation Notes
 
-- **Breach type:** Transform. It does not change shape — it has none; it changes what the room is, from a place where people are quiet into a place where speaking is impossible.
+- **Breach type:** Transform. It does not change shape — it has none. It changes what the room is, from a place where people are quiet into a place where speaking is impossible.
 - **Containment priority:** Get ordinary conversation going in the room. Any subject. Do not clear the Commons, do not ask anybody what they are holding, and do not stop anybody leaving.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn while the Commons stays quiet. Ordinary unrelated conversation in the room flattens it, which is the only intervention on record and is not performed by the wing.
 
@@ -176,7 +178,7 @@ The Work Type table reads as usual and the number the station keeps is words per
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-Appearance : A cylindrical bronze monastery bell thirty centimeters high, lacking an internal clapper and suspended by a sturdy forged iron yoke with two leather-wrapped carrying handles.
+**Appearance:** A cylindrical bronze monastery bell thirty centimeters high, lacking an internal clapper and suspended by a sturdy forged iron yoke with two leather-wrapped carrying handles.
 
 Striking the outer rim with an Specialist's fist produces no audible sound wave, but discharges an invisible psychic pressure wave that ripples through solid concrete and staggers nearby entities.
 
@@ -188,9 +190,9 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Ability:** Weight against the Han. Struck targets cannot finish a sentence for some minutes — they start, stop, and do not try again — and the fourteen on file all described the experience as familiar.
 
-**Cost:** The wielder speaks less. The Armoury counts words at issue and at return and the reduction has run between a fifth and a half.
+**Bearer cost:** The wielder speaks less. The Armoury counts words at issue and at return and the reduction has run between a fifth and a half.
 
-**Separate weapon records:** The local clapperless bronze bell and its pressure wave remain the Memorial-Bell description. The linked Silence Maul instead has a mouth-shaped recess, takes one offered word and grounds after acting on an obstruction; the field word was “door,” not a request for the surrounding account. Its confession-strike and loaded-assumption warnings belong to that Maul record. Do not fit a recess to the bell, transfer the Maul’s Single pattern to its wave, or use equal core values as a transformation account. The source has no body to strike, which does not prevent extracted equipment having a physical form.
+**Separate weapon records:** The local clapperless bronze bell and its pressure wave remain the Memorial-Bell description. The linked Silence Maul instead has a mouth-shaped recess, takes one offered word and grounds after acting on an obstruction. The field word was “door,” not a request for the surrounding account. Its confession-strike and loaded-assumption warnings belong to that Maul record. Do not fit a recess to the bell, transfer the Maul’s Single pattern to its wave, or use equal core values as a transformation account. The source has no body to strike, which does not prevent extracted equipment having a physical form.
 
 ### M.A.W. Suit — The Silence Mantle
 
@@ -208,7 +210,7 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Ability:** Resistance to Weight against the Han, and the reason a Warden can hold the chair for a full shift without going quiet themselves.
 
-**Cost:** A constant low fatigue, and the habit of letting other people finish first — always, including when they are wrong.
+**Bearer cost:** A constant low fatigue, and the habit of letting other people finish first — always, including when they are wrong.
 
 **Optional quiet:** The matte black Han-weave mantle leaves the mouth uncovered. Its linked field account reduced pressure before the silent group’s first word; protection is not conditional on making the wearer talk. Keep a listener and a private exit available. A closed exit until speech is given, praise of silence that makes speech disloyal, or the wearer disappearing from shared attention are failure warnings. Hang it in a room with an open exit and no questions, cleared after somebody enters and leaves without explanation. The wearer removes it personally unless help is requested; fatigue does not grant another person control of that choice.
 
@@ -224,7 +226,7 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Ability:** Prevents external sound from disturbing the wearer.
 
-**Cost:** The wearer feels every unspoken word nearby.
+**Bearer cost:** The wearer feels every unspoken word nearby.
 
 *Twenty-two weights exist and nineteen were granted after cycles in which the Warden spoke first. The file records the pattern and declines to call it a rule.*
 
@@ -245,7 +247,7 @@ Every piece is made of things people did not say, and the set quietly takes its 
 
 **Stat interpretation:** The grade measures extraction stability and has no column for a person who stops talking. Authorise on the two-minute sample, which costs four minutes and has caught what nothing else did.
 
-**Full-set source review (2026-10-13):** Reviewed the α grade overview, every local equipment block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims. Exact join: Side `SE-285-A` (`N-IIα-285 [WS]`, `4/4`, `SE-285`), with `SE-285-B/C/D`; Registry rows 575–578; Master M.A.W. rows/details 463–465; Entity Codex row 522 / Tale 155; archetype `MAW-W-285`. Local Weapon core (Weight 3–6 / Normal 2 / Short 2 / max 5 / 15 Echoes) matches Side A/B, but the primary *Silent Memorial-Bell* / clapperless bell and W-285 bell/Room record remain distinct from exact Side/item B *Silence Maul* and Master Entry 463. The Master table title and Entry title also split; no transition or shared 285-number bridge joins them. Suit values align. Head / 5% Stigma matches Side A/D; effect now names +1 Resolve. Tale 155 retains Moderate β, Zone C, and Comprehension 2 against the primary’s Minor α, Zone D, and Comprehension 1; the Tale discrepancy remains held rather than silently corrected. No linked evidence file changed. This is the first source-led disposition for exact `SE-285-B`.
+**Full-set source review (Year 4238):** Reviewed the α grade overview, every local equipment block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims. Exact join: Side `SE-285-A` (`N-IIα-285 [WS]`, `4/4`, `SE-285`), with `SE-285-B/C/D`; Registry rows 575–578; Master M.A.W. rows/details 463–465; Entity Codex row 522 / Tale 155; archetype `MAW-W-285`. Local Weapon core (Weight 3–6 / Normal 2 / Short 2 / max 5 / 15 Echoes) matches Side A/B, but the primary *Silent Memorial-Bell* / clapperless bell and W-285 bell/Room record remain distinct from exact Side/item B *Silence Maul* and Master Entry 463. The Master table title and Entry title also split; no transition or shared 285-number bridge joins them. Suit values align. Head / 5% Stigma matches Side A/D; effect now names +1 Resolve. Tale 155 retains Moderate β, Zone C, and Comprehension 2 against the primary’s Minor α, Zone D, and Comprehension 1. The Tale discrepancy remains held rather than silently corrected. No linked evidence file changed. This is the first source-led disposition for exact `SE-285-B`.
 
 
 ## 관찰 기록 (Observation Log)
@@ -253,7 +255,7 @@ Every piece is made of things people did not say, and the set quietly takes its 
 **R.D. Comprehension Level:** 1 — Initial. The level has stood for eleven years. Every proposed experiment to raise it has required somebody to be kept silent deliberately, and every one has been refused.
 
 - It outlines people who have stopped speaking about something the rest of the room already knows. Count the outlined each watch: 17, then 24, then 31.
-- A faint glow at the door when an outlined person leaves. This is an observation and not a signal to act; it had to be written down as such after an early incident in which a Warden blocked a doorway.
+- A faint glow at the door when an outlined person leaves. This is an observation and not a signal to act. It had to be written down as such after an early incident in which a Warden blocked a doorway.
 - Fear is reported before load, consistently, and the load is reported by the person only. No instrument reaches it and self-report is kept as weak evidence, the alternative being none.
 
 **Personnel Note:** *"Thirty-one outlined in one watch. I stood in the Commons and talked about a roof for six minutes — nothing, a roof, a man's gutter — and four of the outlines went out while I was doing it. Not one person said a word about what they were carrying and not one of them had to."* — Warden, Mantle Commons
@@ -265,7 +267,7 @@ Every piece is made of things people did not say, and the set quietly takes its 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Count the outlined on entry, note who is at the doorway, and record the time the Commons last had ordinary talk in it. |
-| **Sustained observation** | Count again at the half-watch. Rising counts with no glow means a quiet room; rising counts with glows at the door mean people are leaving rather than speaking, which is the worse reading. |
+| **Sustained observation** | Count again at the half-watch. Rising counts with no glow means a quiet room. Rising counts with glows at the door mean people are leaving rather than speaking, which is the worse reading. |
 | **Activation or escalation** | Count above the quarterly mean, or three outlines appearing within one minute. Start talking. Do not ask anybody a question about themselves. |
 | **Post-contact review** | Counts, glows, who was named with consent, and what was said in the room that ended it. The last of these is recorded because it is useful, and never attributed to the person who said it. |
 
@@ -286,7 +288,7 @@ Nothing said in a crew's own debrief leaves the room: no minute, no name, no att
 The burden of words withheld to protect others or avoid conflict.
 
 **Entry 4 — <Containment Notice>**
-Management: speech offered and never required, nobody stopped at the door, no confession demanded, outlined persons counted every watch and named only with consent. Work response — Flerehan: speech with tears (Decrease); Pugnahan: barred by standing order (Increase); Viderehan: observation only, never converted into a question (Stable); Ferrehan: stay and talk about something else (Decrease).
+Management: speech offered and never required, nobody stopped at the door, no confession demanded, outlined persons counted every watch and named only with consent. Work response — Flerehan: speech with tears (Decrease). Pugnahan: barred by standing order (Increase). Viderehan: observation only, never converted into a question (Stable). Ferrehan: stay and talk about something else (Decrease).
 
 **Entry 5 — <Archive Note>**
 Weight of Silence is ambient and has no body. It settles on whoever in the Commons is holding something back, and the holding back does not have to be wrong: most of what it finds is a person protecting somebody else. It eases when speech arrives with tears and when unrelated conversation simply continues around it. It hardens when a confession is demanded, and the standing order against demanding one was written after the only occasion on which one was.
@@ -323,13 +325,13 @@ Three relations, all of them things that were not said, and all measured on word
 
 ### Entity Interaction Record
 
-Weight of Silence must be kept distinct from the other quiet holdings. The Forgotten Silence is a silence nobody remembers requesting; the Silent Child is a voice that was never permitted; this one is a silence everybody chose, separately, out of care, and it is the only one of the three that lifts when an unrelated person simply starts talking.
+Weight of Silence must be kept distinct from the other quiet holdings. The Forgotten Silence is a silence nobody remembers requesting. The Silent Child is a voice that was never permitted. This one is a silence everybody chose, separately, out of care. And it is the only one of the three that lifts when an unrelated person simply starts talking.
 
 | Related entity | What it is | What the word count did | Required record |
 |---|---|---|---|
-| **The Silent Child** | A voice never permitted, against a silence freely chosen. The two are opposites and the counts behave as if they were the same thing. | Outline counts rise in both directions and the glow appears at doorways neither entity is near. | Counts at both holdings, timed together, with the doorway glows logged separately. |
-| **The Forgotten Silence** | That one is a quiet nobody can remember agreeing to; this one is a quiet everybody chose. Where both are present the outlined cannot say which they are carrying. | Counts hold steady; self-reports become unusable, which is the recorded finding. | The affected person's own words, transcribed, with no attempt to resolve them. |
-| **The Hollow Echo** | Whatever is finally said is repeated back through the Commons at volume, which has twice carried a sentence to people it was being withheld from. | Counts fall sharply and three outlined workers afterwards refused further duty in the Commons. | What was said, where it carried, and who heard it; the pairing is not to be arranged deliberately. |
+| [**The Silent Child**](SE-N-Iα-025_The_Silent_Child_조용한_아이.md) | A voice never permitted, against a silence freely chosen. The two are opposites and the counts behave as if they were the same thing. | Outline counts rise in both directions and the glow appears at doorways neither entity is near. | Counts at both holdings, timed together, with the doorway glows logged separately. |
+| [**The Forgotten Silence**](SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md) | That one is a quiet nobody can remember agreeing to; this one is a quiet everybody chose. Where both are present the outlined cannot say which they are carrying. | Counts hold steady; self-reports become unusable, which is the recorded finding. | The affected person's own words, transcribed, with no attempt to resolve them. |
+| [**The Hollow Echo**](SE-N-IIα-125_Hollow_Echo_빈_메아리.md) | Whatever is finally said is repeated back through the Commons at volume, which has twice carried a sentence to people it was being withheld from. | Counts fall sharply and three outlined workers afterwards refused further duty in the Commons. | What was said, where it carried, and who heard it; the pairing is not to be arranged deliberately. |
 
 **Interaction procedure:** Two Wardens, counts at ten-minute intervals, doorways left clear throughout, and no pairing observed while any outlined person is still in the room against their preference.
 
@@ -343,7 +345,7 @@ What follows from it is that a hazard known to a whole crew is known to nobody e
 
 The household at the root of this holding did it over a death. Five people, one year, a correspondence that discusses a leaking roof at length and never once uses the dead one's name. The weight sank into the house and the house gave it form, and it has been ambient in the Mantle Commons since the house came down.
 
-The outline count tracks the number of hazards named in two or more crews' debriefs in the same month that have reached no engineer. The figure cannot be known at the time; it is reconstructed once a year, by counting backwards from the hazards that eventually surfaced and finding them already spoken of in earlier debriefs. Seventeen per watch, then twenty-four, then thirty-one.
+The outline count tracks the number of hazards named in two or more crews' debriefs in the same month that have reached no engineer. The figure cannot be known at the time. It is reconstructed once a year, by counting backwards from the hazards that eventually surfaced and finding them already spoken of in earlier debriefs. Seventeen per watch, then twenty-four, then thirty-one.
 
 The rule is right and this file would not have it changed. The weight is what being decent to each other costs when nobody compares notes.
 
@@ -364,13 +366,13 @@ The rule is right and this file would not have it changed. The weight is what be
 **Common Name:** Weight of Silence
 **Containment Status:** Contained — Zone D, Mantle Commons; ambient, no enclosure
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Minor (α). No body, no reach, no recorded injury. 31 persons outlined per watch and rising; chest and throat load with no physical finding, and acceleration of debt, corrosion and fatigue in whatever it settles on.
+**Threat Assessment:** Minor (α). No body, no reach, no recorded injury. 31 persons outlined per watch and rising. Chest and throat load with no physical finding, and acceleration of debt, corrosion and fatigue in whatever it settles on.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type where speech and tears arrive together; Ferrehan otherwise. Pugnahan is barred by standing order and the order has a date and an incident behind it.
 - Speech lightens it and demanded speech does not. Nobody is to be asked what they are holding, and nobody is to be stopped at the door.
 **Observation Notes:**
 - Outlined persons per watch: 17, 24, 31 across three quarterly means. The load itself has never been instrumented.
-**Cross-References:** Zone D, Mantle Commons · The Silent Child · The Forgotten Silence · The Hollow Echo · the Engineering Office
+**Cross-References:** Zone D, Mantle Commons · [The Silent Child](SE-N-Iα-025_The_Silent_Child_조용한_아이.md) · The [Forgotten Silence](SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md) · The [Hollow Echo](SE-N-IIα-125_Hollow_Echo_빈_메아리.md) · the Engineering Office
 **Faction Involvement:** SED (D-territory, Mantle Commons traffic) · UCD (ambient-hazard register) · the Engineering Office, which receives what the Commons cannot say
 **Originator:** A family that withheld words to protect each other.
 
@@ -407,7 +409,7 @@ Its consequence is the household's exactly. Every member of a crew says the haza
 
 Authorised Year 4235. A crew may push exactly one sentence out of the room: a hazard described in plain words, with no names, no incident, no date finer than the month, countersigned by nobody. It goes direct to the Engineering Office, it is not traceable, and it cannot be used for any disciplinary purpose or cited in any proceeding, including in the crew's favour.
 
-1,909 notes were received in Year 4237. 1,204 of them duplicated one another — four and five crews describing the same defect in near-identical words — and the duplication is the scheme's central finding, since under the old arrangement none of those sentences existed anywhere. 71 defects were corrected. 14 notes were so specific that the crew was identifiable from the text alone, and 3 were withdrawn after a supervisor worked out who had written them. One note described a loose stair on the third landing; it was acted on eight days after a man fell down it, having been in the office for five weeks.
+1,909 notes were received in Year 4237. 1,204 of them duplicated one another — four and five crews describing the same defect in near-identical words — and the duplication is the scheme's central finding, since under the old arrangement none of those sentences existed anywhere. 71 defects were corrected. 14 notes were so specific that the crew was identifiable from the text alone, and 3 were withdrawn after a supervisor worked out who had written them. One note described a loose stair on the third landing. It was acted on eight days after a man fell down it, having been in the office for five weeks.
 
 The cost falls on the engineers. A sentence with no author cannot be asked a follow-up question, and roughly six hundred notes a year are unactionable for want of a detail that one short conversation would supply. The rule forbids the conversation: an engineer who went down to the floor to find an author, meaning nothing but good by it, was moved off the district within the month, correctly.
 
@@ -429,7 +431,7 @@ Each member stayed quiet after a loss, believing speech would hurt the others, a
 - **Classification detail:** Subject, Echo (II), Minor (α), incorporeal and ambient — no vessel, so no Han Dust and nothing to destroy.
 - **Field detail:** Weight, Zone D Mantle Commons, threshold 4, and a containment that consists of people being willing to talk about nothing.
 - **Recognition detail:** Identify it by who is outlined, not by how the room feels. The outline is visible to a third party and never to the person carrying it.
-- **Record detail:** The Registrum carried Moderate (β) potency, Zone C and Comprehension Level 2 against a Minor (α) ambient holding in the Zone D Mantle Commons at Level 1; all three corrected, together with a breach line asserting indiscriminate hunting by an entity with nothing to strike with.
+- **Record detail:** The Registrum carried Moderate (β) potency, Zone C and Comprehension Level 2 against a Minor (α) ambient holding in the Zone D Mantle Commons at Level 1. All three corrected, together with a breach line asserting indiscriminate hunting by an entity with nothing to strike with.
 - **Containment detail:** There is nothing to contain. The Commons is open, the doorways are kept clear by order, and the only measure that works is ordinary conversation held by somebody who wants nothing from anybody.
 ## Document Information
 

@@ -9,14 +9,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-902 [VS]` |
-| **Entity Type** | **Subject** — Can breach; cannot be permanently ended within a single cycle |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | IV — Entity (paradoxical: loop-awareness grants retention no other entity possesses, yet that retention has dissolved the self it retained) |
 | **Potency** | δ — Critical |
 | **Sorrow Category** | Inner Sorrow (내한), born of the Cycle |
 | **Element** | Void — the emptying of a self that remembered too much; Weight and Grudge undertones |
 | **Manifestation** | Subject-Body — a body that performs; nobody left inside it |
-| **Physical Form** | Mixed — An R.D. field agent in every visible detail — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing wrong with the body; it is a person-shaped loop, remembering every cycle. Bloodless-cold, it smells of ash; it looks exactly like someone you know. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile in breach on foot through a loop, appearing wherever personnel have just been. |
 | **Location** | The Hand of Change (R.D. facility), mobile across the cycle; appears wherever the "plot" is thinnest |
 | **R.D. Comprehension Level** | 5 — Sovereign-grade monitoring (loop-anomaly) |
 
@@ -34,7 +34,9 @@
 | **Starting Sorrow Gauge** | 70–90% |
 | **Han-Energy yield** | 18–26 Han-Energy per successful work cycle |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 |
-| **Activation threshold** | Sorrow Gauge ≥ 80% or a personnel member recognizing the loop |
+| **SE Effect** | **On the breach** — It addresses personnel by role, not name, and its movements precede its intent. |
+| **Work Damage** | 5–8 Grudge — the cost is a loop the entity has already survived every iteration of, so the session cannot be won |
+| **Activation threshold** | Sorrow Gauge ≥ 95% or a personnel member recognizing the loop |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -56,9 +58,9 @@
 |---|---|
 | **Speed** | 2.80 m/s (moves as if it has walked this route a thousand times — it has) |
 | **Resistance** | 50% against Void pressure; 30% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 80% or loop-recognition by personnel |
+| **Activation threshold** | Sorrow Gauge ≥ 95% or loop-recognition by personnel |
 | **Sorrow Gauge [HP]** | 993/993 |
-| **Han Pressure [ATK]** | 24–52 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–58 per hit · Grudge |
 | **Coherence modifier** | IV — retention across iterations (paradoxical) |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -80,10 +82,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Tenth Death* [**Debuff**] } | "It has died nine times — and here it is again, and each death has made it more hollow, more determined, less real." | [The Survivor's repeated deaths have hollowed it; the target senses the void of relentless persistence.] | *Target suffers a Void mark; the thing that will not die is not entirely alive.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target encounters the Survivor. |
-| { *The Accumulated Endings* [**Debuff**] } | "Every death left a scar — and the scars are voids, and the voids are deep, and the Survivor wears them all." | [The Survivor's death-scars radiate; the target feels the weight of multiple endings.] | *Target loses clarity; they are surrounded by the echoes of nine deaths.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains. |
+| { *The Tenth Death* [**Debuff**] } | "It has died nine times — and here it is again. And each death has made it more hollow, more determined, less real." | [The Survivor's repeated deaths have hollowed it; the target senses the void of relentless persistence.] | *Target suffers a Void mark; the thing that will not die is not entirely alive.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target encounters the Survivor. |
+| { *The Accumulated Endings* [**Debuff**] } | "Every death left a scar — and the scars are voids. And the voids are deep, and the Survivor wears them all." | [The Survivor's death-scars radiate; the target feels the weight of multiple endings.] | *Target loses clarity; they are surrounded by the echoes of nine deaths.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains. |
 | { *The Revenant Strike* [**Attack**] } | "The survivor attacks — with the desperation of someone who has nothing left to lose, because they have already lost it, nine times." | [ A strike fueled by nine deaths of experience.] | *Inflicts Void damage; the hollowed survivor erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Survivor is challenged. |
-| { *The Tenth Return* [**Attack**] } | "It dies again — and returns again — and the return is faster, emptier, and more devastating than the last." | [The Survivor's tenth death-and-return releases its accumulated void.] | *A heavy Void cycle of death and rebirth; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Survivor is killed. |
+| { *The Tenth Return* [**Attack**] } | "It dies again — and returns again — and the return is faster, emptier. And more devastating than the last." | [The Survivor's tenth death-and-return releases its accumulated void.] | *A heavy Void cycle of death and rebirth; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Survivor is killed. |
 | { *The Eternal Survivor* [**Ultimate**] } | "Now everyone cannot die — and cannot live — stuck in an endless loop of returning, hollower each time." | [The Survivor extends its relentless persistence across the whole field.] | *All in range suffer Void erosion for three turns of endless, hollow survival.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -98,6 +100,7 @@
 - "Twist the Plot" can restage a past death; survivors report dreaming the loop for weeks.
 - The entity cannot be destroyed within a cycle — it returns next iteration. "Resolution" means enduring, not ending.
 - Sincere empathy (Flerehan) reaches the buried original Specialist and is agonizing for both parties.
+- The loop resets the facility's own records, so the archive carries several versions of the same day and no version can be certified — the discrepancy is filed at archive level.
 
 ## Appearance
 
@@ -140,16 +143,16 @@
 - **The Sorrow:** The grief of being the only one who remembers — until remembering erases the one who remembers. Across thousands of iterations, the agent locked out the world, then locked out themselves, until "there's no one inside me."
 - **The Event:** Day 1, Loop +20: the first remembered line. Day 6, Loop +24: the realization that everyone is an actor and no one is watching. By Loop +966 the agent could no longer feel kindness, warmth, or their own tears. By Loop +1778 only the performance remained.
 - **The People:** One R.D. field agent (identity sealed) and, behind the emptiness, the person they were before the loop taught them that every loss had already happened and would happen again.
-- **Expanded origin context:** The Repeated Survivor is the cost the Cycle extracts from anyone who remembers it. The Absolvohan loops only the Echo-Cores are meant to retain; an agent who remembers becomes a paradox the system cannot rewrite — so it empties them instead, slowly, until the paradox is gone and only the body remains, performing a play that never ends. The "dramaturgy" is the survivor's last coping structure: if it is all a stage, the deaths are not real, and the survivor does not have to grieve a loss they have already grieved a thousand times.
+- **Expanded origin context:** The Repeated Survivor is the cost the Cycle extracts from anyone who remembers it. The Absolvohan loops only the Echo-Cores are meant to retain. An agent who remembers becomes a paradox the system cannot rewrite — so it empties them instead, slowly, until the paradox is gone and only the body remains, performing a play that never ends. The "dramaturgy" is the survivor's last coping structure: if it is all a stage, the deaths are not real, and the survivor does not have to grieve a loss they have already grieved a thousand times.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Reaches the buried original agent beneath the performer. Agonizing for both — the survivor briefly weeps a grief they had locked away, then seals it again. | Decrease (severe, unstable) |
-| **Pugnahan** (Confrontation) | The entity has fought this fight before. Confrontation is a scene it has won; it performs the violence with rehearsed certainty. | Increase |
-| **Viderehan** (Observation) | Reveals the loop-fragments — past deaths, past lines, the iteration count — terrifying but clarifying data. | Stable (primary intel) |
-| **Ferrehan** (Endurance) | The valid work: endure the performance without taking a mark or playing a role. Outlast the scene; do not become cast. | Decrease (primary) |
+| **Flerehan** (Tears) | Reaches the buried original agent beneath the performer. Agonizing for both — the survivor briefly weeps a grief they had locked away, then seals it again. | Decrease (severe, unstable) · High |
+| **Pugnahan** (Confrontation) | The entity has fought this fight before. Confrontation is a scene it has won; it performs the violence with rehearsed certainty. | Increase · Low |
+| **Viderehan** (Observation) | Reveals the loop-fragments — past deaths, past lines, the iteration count — terrifying but clarifying data. | Stable (primary intel) · Common |
+| **Ferrehan** (Endurance) | The valid work: endure the performance without taking a mark or playing a role. Outlast the scene; do not become cast. | Decrease (primary) · Common |
 
 ### Operational Work Notes
 
@@ -157,8 +160,7 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 
 ## Breach Behavior
 
-> *"Repeated Survivor has broken free. Loops, appearing wherever personnel just were."*
-
+> *"Repeated Survivor has broken free and is looping. It goes to the nearest person or to the one whose sorrow matches its origin, and it arrives where the crew has just been — the last place you stood is the dangerous one."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -195,7 +197,7 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Ability:** Deals Void damage (attacks the Soul — identity and memory). The blade "strikes its mark" with rehearsed certainty: once a target is assigned a role, the strike finds them across distance.
 **Cost:** The wielder begins to perceive their own life as a script already written; prolonged use erodes their sense of agency.
 
-After use, record a decision that surprised the wielder rather than another example of rehearsed certainty. During the Uncast Corridor incident, refusing both “rescuer” and “casualty” and cutting the chalk mark deprived the scene of its ending. The distinction is between striking a mark and accepting a part, not between a helpful role and a hostile one. At shutdown an outside witness removes role labels and asks the bearer to choose whether to sheath; supplying the answer would defeat the choice the check is meant to preserve.
+After use, record a decision that surprised the wielder rather than another example of rehearsed certainty. During the Uncast Corridor incident, refusing both “rescuer” and “casualty” and cutting the chalk mark deprived the scene of its ending. The distinction is between striking a mark and accepting a part, not between a helpful role and a hostile one. At shutdown an outside witness removes role labels and asks the bearer to choose whether to sheath. Supplying the answer would defeat the choice the check is meant to preserve.
 
 ### M.A.W. Suit — The Performer's Coat
 
@@ -221,7 +223,7 @@ Inspect the Coat against the wearer’s present-day name, choices and emotions, 
 **Slot:** Head
 **Acquisition Probability:** 4%
 **Effect:** +3 Clarity when working The Repeated Survivor
-**Ability:** Granted at random by the entity upon a successful work; the bearer gains brief anticipation (they "know" the next moment before it happens), steadying Clarity in scripted situations.
+**Ability:** Granted at random by the entity upon a successful work. The bearer gains brief anticipation (they "know" the next moment before it happens), steadying Clarity in scripted situations.
 **Cost:** The bearer occasionally speaks a line they did not choose, in a voice not entirely their own.
 
 The maintenance record keeps every anticipated line and whether the bearer refused it. Anticipation is not an obligation to supply the expected reply: Marjuk’s silence before “You came back” ended the predicted scene without performing the exchange. Before removal, the bearer produces one unpredicted sentence and then lifts the mark. Predicted lines replacing thought are an escalation, not an improvement in the +3 Clarity effect.
@@ -230,7 +232,7 @@ The maintenance record keeps every anticipated line and whether the bearer refus
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece carries the loop's central cost: detachment from the self. The Final Act strikes with certainty but erodes the wielder's agency; the Performer's Coat protects by emptying the wearer; the Repeated Line grants foresight at the price of speaking lines not one's own. Forcing a piece outside its pattern increases the hollowness and may seed loop-memories in the operator. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself.
+Each M.A.W. piece carries the loop's central cost: detachment from the self. The Final Act strikes with certainty but erodes the wielder's agency. The Performer's Coat protects by emptying the wearer. The Repeated Line grants foresight at the price of speaking lines not one's own. Forcing a piece outside its pattern increases the hollowness and may seed loop-memories in the operator. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself.
 
 The set is *No Role Accepted*, with the resonance *Scene Without Cast*. The Line anticipates a scripted beat, the Coat makes no role available to an identity attack, and Final Act cuts the stage mark rather than the assigned person. Agency, emotion and unchosen dialogue remain separate costs, not one gauge that can be read off the equipment grade. Calling any operator hero, victim or villain gives the Survivor a cast and restarts the scene. Director supervision of extraction does not authorise staff to assign those parts during recovery.
 
@@ -329,9 +331,9 @@ The Repeated Survivor must be assessed as a loop-anomaly within the Cycle's netw
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Echo-Cores** | The only others who retain across loops; a mute kinship. | May calm or escalate the survivor depending on which Core; recognition is mutual and grim. | Record which Core, the survivor's response, and whether staging paused. |
+| [**The Echo-Cores**](../Pages/14-Echo-Cores.md) | The only others who retain across loops; a mute kinship. | May calm or escalate the survivor depending on which Core; recognition is mutual and grim. | Record which Core, the survivor's response, and whether staging paused. |
 | **Director Majin** | The one person the survivor will not stage. | The survivor becomes still, attentive, and almost present in the Director's vicinity. | Record proximity, demeanor change, and any speech. |
-| **The Convergence** | The survivor perceives the watching eyes and performs. | Observation by the Birds escalates staging and the urge to "twist the plot." | Record gaze-direction, Gauge spike, and restaged variation. |
+| [**The Convergence**](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md) | The survivor perceives the watching eyes and performs. | Observation by the Birds escalates staging and the urge to "twist the plot." | Record gaze-direction, Gauge spike, and restaged variation. |
 | **The Memory Archive** | Memory contact stabilizes the buried original briefly. | The survivor may weep, then seal the grief and withdraw. | Record duration of the original's surfacing and the seal that follows. |
 
 **Interaction procedure:** Never treat the survivor as a single stable presence. Record whether the performer or the buried original responded, the iteration context, and whether the interaction increased staging or surfaced the grief.
@@ -352,9 +354,9 @@ So they began to survive.
 
 They learned every death before it arrived, every betrayal before it was spoken, every route before it was walked. They survived, and survived, and survived — and surviving, they emptied. There is only so long a person can mourn a friend's death before the mourning stops being about the friend and starts being about the repetition. By the thousandth loop they had locked out the world: *the people who mocked me are gone from my sight; the tears that had fallen were not mine to weep.* They had thrown to the side any human in them, because the human could not bear to grieve the same losses forever.
 
-What remained was a body that performed. It spoke in the first person, but the "I" had no one behind it — *there's no one inside me, there's no one that's hiding, always been me, empty, a body but nobody here to see.* It staged encounters because staging was the last shape of meaning left to it. It "twisted the plot" because a play with no variation is a play with no point, and a survivor with no point is already dead. And it waited, each loop, for *something to twist the plot dramatically again* — for one new line, one unmapped death, one colleague who might, this time, remember alongside it.
+What remained was a body that performed. It spoke in the first person. But the "I" had no one behind it — *there's no one inside me, there's no one that's hiding, always been me, empty, a body but nobody here to see.* It staged encounters because staging was the last shape of meaning left to it. It "twisted the plot" because a play with no variation is a play with no point, and a survivor with no point is already dead. And it waited, each loop, for *something to twist the plot dramatically again* — for one new line, one unmapped death, one colleague who might, this time, remember alongside it.
 
-None ever did. The survivor walks the Hand of Change still, an ordinary agent with ordinary eyes, calling the cast to their marks, biting down whoever it finds, waiting for the final act it has already performed a thousand times — shaken to its knees, crying and lonely, the only one who remembers, and therefore the only one who is no longer there.
+None ever did. The survivor walks the Hand of Change still, an ordinary agent with ordinary eyes, calling the cast to their marks, biting down whoever it finds, waiting for the final act it has already performed a thousand times — shaken to its knees, crying and lonely, the only one who remembers. And therefore the only one who is no longer there.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -388,15 +390,15 @@ None ever did. The survivor walks the Hand of Change still, an ordinary agent wi
 - Addresses personnel by role, not name; movements precede intent.
 - "Twist the Plot" restages a specific past death; the variation is unpredictable.
 - Cannot be ended within a cycle; returns each iteration.
-**Cross-References:** the Cycle / the Absolvohan · the Echo-Cores (R.D.) · Director Majin · the Convergence (watching eyes) · the Memory Archive / Seiyon · the Hand of Change · the Void element · the Loop
+**Cross-References:** the Cycle / the Absolvohan · the Echo-Cores (R.D.) · Director Majin · [the Convergence](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md) (watching eyes) · the Memory Archive / Seiyon · the Hand of Change · the Void element · the Loop
 **Faction Involvement:** Judexhan (δ-grade high-threat) · Giltong (Taboo-adjacent)
 **Originator:** One R.D. field agent (identity sealed) who began to remember the loops on Day 1, Loop +20 — and was emptied by the remembering across the iterations that followed.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry, and only at Echo-Core clearance. The entity's loop-aware behavior, staging, restaging, M.A.W. cost, and interaction pattern must be read together. The Repeated Survivor is a paradox the Cycle cannot rewrite — a person who remembered, and was therefore emptied. A stable gauge does not mean the entity has ended; it means the scene has paused. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry, and only at Echo-Core clearance. The entity's loop-aware behavior, staging, restaging, M.A.W. cost, and interaction pattern must be read together. The Repeated Survivor is a paradox the Cycle cannot rewrite — a person who remembered, and was therefore emptied. A stable gauge does not mean the entity has ended; it means the scene has paused. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation. Do not reconcile it by editing the record. Personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Recheck the entity's iteration count, staging patterns, restaged variations, and any personnel loop-memory retention after every cycle reset and every "Twist the Plot" event. The Unknown Sorrow Entity registry describes a living, cycle-born phenomenon — not a permanently complete classification.
+**Review requirement:** Recheck the entity's iteration count, staging patterns, restaged variations, and any personnel loop-memory retention after every cycle reset and every "Twist the Plot" event. The iteration count is written down between resets rather than after them, because whoever carries it through a reset is the only reliable witness that the reset happened at all.
 
 ## Trivia
 

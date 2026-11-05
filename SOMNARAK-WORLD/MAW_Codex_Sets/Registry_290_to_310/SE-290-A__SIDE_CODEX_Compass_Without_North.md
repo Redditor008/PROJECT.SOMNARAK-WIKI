@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Void |
 | Form | A cracked tarnished-brass compass with no markings, clouded glass, and a needle that spins toward concentrated sorrow rather than direction. |
-| Gauge / Pressure | 35–50% / Void 9–23 |
+| Gauge / Pressure | 000/660; starts 000% · Void — no attack pattern: nobody holds it and nothing is aimed; the hazard is a bearing that fails (Contact Record, R-36) |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Wrong Direction |
 
@@ -44,10 +44,10 @@ The casing is cold except for warmth at the crack. Naming a destination activate
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Grief does not supply north. |
-| Pugnahan | Not valid; impact detaches the needle. | N/A | Never strike or shatter the Compass. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Grief does not supply north. |
+| Pugnahan | Not valid; impact detaches the needle. | Net-Neutral | Never strike or shatter the Compass. |
 | Viderehan | Reveals the pattern behind being lost. | Stable | Record wrong routes and uncertainty. |
-| Ferrehan | Tests watching without reacting. | Down | Do not follow the needle during Work. |
+| Ferrehan | Tests watching without reacting. | Decrease | Do not follow the needle during Work. |
 
 **Activation:** Touch and name a destination. The A-Relic points toward sorrow, not the requested place.  
 **Resolution:** Put it down, acknowledge the named destination and present location, and lower Gauge below 25%.  
@@ -99,13 +99,3 @@ A source use leaves an emptied A-Relic husk. Only residue from a deliberately te
 **Primary source:** `SE-C-IIβ-290_Broken_Compass_부서진_나침반.md`
 
 **Formal-ID note:** `SE-290` is assigned to Compass Without North. The First Tear (`C-Vδ-290`) remains deferred for a unique formal ID.
-
----
-
-**Document ID:** `SE-290-A`  
-**Linked Entity:** `SE-290`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

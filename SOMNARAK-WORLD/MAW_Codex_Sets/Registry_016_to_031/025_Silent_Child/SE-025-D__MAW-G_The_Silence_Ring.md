@@ -20,6 +20,7 @@
 | Grade | α — Minor |
 | Element | Void |
 | Slot | Head |
+| **Maximum Amount** | 5 — Abundant |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Silent Child source record |
 
@@ -36,12 +37,3 @@ Once per shift, the bearer may create a ten-second quiet field around a willing 
 ### History Record
 
 A Ring was used during an Echo Gardens mediation to give two neglected siblings a silent space away from their arguing guardians. Neither child spoke. Both remained until the session ended, which was the first successful outcome recorded that month.
-
-**Document ID:** `SE-025-D`  
-**Linked Entity:** `SE-025`  
-**Item Registry Code:** `MAW-G-025-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

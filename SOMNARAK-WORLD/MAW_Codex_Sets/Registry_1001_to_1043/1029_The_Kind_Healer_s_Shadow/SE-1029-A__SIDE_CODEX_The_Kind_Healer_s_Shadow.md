@@ -22,7 +22,7 @@ The Shadow formed from compassion left behind by healers who died. The grief of 
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) — Repeats healing / Moderate (β) |
 | Element / Location | Lament / Zone D, Mantle Commons — ambient |
-| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |
+| Gauge / Pressure | 000/415; starts 000% / 10–23 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded. |
 
@@ -38,9 +38,9 @@ The Shadow formed from compassion left behind by healers who died. The grief of 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Accept its help and acknowledge the healer it carries
 
-## WITNESS RECORD — *The The Kind Healer s Shadow Source-Trace*
+## WITNESS RECORD — *The Kind Healer s Shadow Source-Trace*
 
-During the The The Kind Healer s Shadow Source-Trace, the field team preserved this source fact: A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of healing others while leaving no one to continue the work.
+During *The Kind Healer s Shadow Source-Trace*, the field team preserved this source fact: A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of healing others while leaving no one to continue the work.
 
 ## M.A.W. SET — *The Kind Healer's Shadow — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The The Kind Healer s Shadow Source-Trace, the field team preserved t
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Kind Healer's Shadow's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Accept its help and acknowledge the healer it carries The set cannot heal the originating event. Misuse routes The Kind Healer's Shadow's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1029-A`  
-**Linked Entity:** `SE-1029`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

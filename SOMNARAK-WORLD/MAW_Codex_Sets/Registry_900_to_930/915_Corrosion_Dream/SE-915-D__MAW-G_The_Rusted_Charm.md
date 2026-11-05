@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Rusted Charm
 
-> *“The Rusted Charm remembers Corrosion Dream; the bearer must not mistake memory for permission.”*
+> *"Every plan the bearer makes reads as already half-eaten, and the reading does not reverse."*
 
 ---
 
@@ -17,27 +17,28 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Grants a minor boon tied to Corrosion Dream's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Corrosion Dream's event—A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion.—and accepts this limit: Do not promise reunion; name both the crossing and the loss
+**Binding rule:** the bearer names Corrosion Dream's event — “A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion.” — and accepts this limit: Do not promise reunion; name both the crossing and the loss
 
 ## Appearance
 
-The Rusted Charm is the stigma record of the Corrosion Dream set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability grants a minor boon tied to Corrosion Dream's sorrow, the effect mirroring the entity's nature: a crossing attempted, never guaranteed. Binding names the source event — a bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion — and accepts the set's limit: do not promise reunion; name both the crossing and the loss. The cost is small and linguistic: the bearer occasionally forgets a word, sentences losing planks mid-span. The source-trace fixed doctrine: the Charm reveals the failed crossing and those left behind, the dream shown with its casualties, and it witnesses the hazard only after attribution to Corrosion Dream. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Rusted Charm is the stigma record of the Corrosion Dream set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability grants a minor boon tied to Corrosion Dream's sorrow, the effect mirroring the entity's nature: a crossing attempted, never guaranteed. Binding names the source event — a bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion — and accepts the set's limit: do not promise reunion; name both the crossing and the loss. The cost is the rust: every plan the bearer makes reads as already half-eaten, and a season of carrying it leaves them unable to finish planning anything. The source-trace fixed doctrine: the Charm reveals the failed crossing and those left behind, the dream shown with its casualties, and it witnesses the hazard only after attribution to Corrosion Dream. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer occasionally forgets a word. Continued use makes Corrosion Dream's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm rusts the bearer's certainty first: every plan they have made reads as a thing already half-eaten, and the reading is not reversible.
 
 ## ITEM-SPECIFIC HISTORY — *The Corrosion Dream Source-Trace: Stigma Record*
 
-The first The Rusted Charm field bearer encountered this source response: Reveals the failed crossing and those left behind. The stigma witnesses the immediate hazard only after the team attributed it to Corrosion Dream. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rusted Charm encountered this source response: Reveals the failed crossing and those left behind. The stigma witnesses the immediate hazard only after the team attributed it to Corrosion Dream. A bearer presented a plan they had already written off and could not be talked back into it, and the Charm’s binding is that plan in the file.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Corrosion Dream's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the rusting reaches plans before they are made, and the bearer drafts for a programme they have already buried.
 - Terminal state: Corrosion Dream's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not promise reunion; name both the crossing and the loss” reverses the item’s benefit and raises the source Gauge.  
@@ -46,15 +47,4 @@ The first The Rusted Charm field bearer encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Corrosion Dream — Witnessed Form*, The Rusted Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-915-D`  
-**Linked Entity:** `SE-915`  
-**Item Registry Code:** `MAW-G-915-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Corrosion Dream — Witnessed Form*, The Rusted Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when the bearer backs one plan all the way through.

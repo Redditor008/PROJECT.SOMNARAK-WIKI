@@ -24,6 +24,10 @@ The Frozen Plate is a crimson harness whose plates show unfamiliar faces under f
 |---:|---:|---:|---:|---:|
 | 1.0 | 0.4 | 1.8 | 1.2 | 5 / 10 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
 **Intent Buffer:** contains Grudge while the viewer looks away and verifies whose anger appeared. Reflexes dull as resentment collects; assuming intent seals the joints.
 
 **Incident — The Locked Arm:** Iseulfros raised her arm against a reflected attacker who had never moved. The elbow froze. An outside observer named the face as a previous traveler; when Iseulfros withdrew the accusation, the joint released.
@@ -34,14 +38,3 @@ The Frozen Plate is a crimson harness whose plates show unfamiliar faces under f
 **Emergency shutdown:** an outside observer covers the reflective surfaces while the wearer names one feeling and one unchosen action.
 
 **Set link:** Plate delays action, Reflection attributes anger, and Fang answers only verified danger.
-
----
-
-**Document ID:** `SE-643-C`  
-**Linked Entity:** `SE-643`  
-**Item Registry Code:** `MAW-S-643-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

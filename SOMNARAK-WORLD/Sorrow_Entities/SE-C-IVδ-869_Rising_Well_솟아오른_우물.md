@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-869 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; the entity's anger becomes physical, cracking walls and personnel alike |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — A well-shaped presence that rises inside a consciousness rather than the ground — felt as a circle of crimson light widening in the mind, a shaft with no bottom. Fever-cold, it smells of char; no body, only the descending light. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile — it has no exterior position to move from. It rises inside a consciousness, at no fixed bearing between sessions, and travels with the people who carry it rather than across the ground. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, taken in the open Desolate beside a shaft that is standing above the ground it was sunk into. The Desolate station bills travel separately and the travel costs more than the yield. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **SE Effect** | **On the wall** — It sings. The song has no words, is not in any language on file, and is understood anyway by everybody who hears it. |
+| **Work Damage** | 5–8 Grudge — the cost is rising inside the worker's mind rather than through the ground |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | δ · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -41,7 +43,7 @@
 - The Well does not rise through the Desolate ground. It rises inside the mind of a person standing on it, which is why the registered location is a territory and not a room.
 - Work lowers it for a shift. It rises again in somebody else, often weeks later and often in a person who was not present, and no cycle has fixed, sealed or exhausted it.
 - A single ignored condition escalates it. The bearing logged at first sighting is the bearing of the *person*, not of the entity, and the distinction is to be preserved in the record.
-- Structural pressure presents during an event, in the surrounding ground and in the walls; outside an event there is nothing underfoot to test and nothing to brace.
+- Structural pressure presents during an event, in the surrounding ground and in the walls. Outside an event there is nothing underfoot to test and nothing to brace.
 - There is no implement to recover. The only thing taken out of an encounter is the person who was in it, and the welfare debrief is a separate authorisation from the Work order.
 
 ## Combat Record
@@ -52,10 +54,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Grudge. The shaft has been struck once, under Pugnahan, in Year 4,230; it went down four metres and came back up eleven over the following month, which is the reason the prohibition is absolute. |
+| **Resistance** | 45% against Grudge. The shaft has been struck once, under Pugnahan, in Year 4,230. It went down four metres and came back up eleven over the following month, which is the reason the prohibition is absolute. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 800/800 |
-| **Han Pressure [ATK]** | 27–59 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–62 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -81,14 +83,14 @@
 | { *The Lift* [**Debuff**] } | "The well rises from the earth — grinding upward, stone and water defying gravity — and the sorrow in it is going up, not down." | [The Well ascends; its reversed gravity pulls the target upward.] | *Target suffers -10 Resilience; the wrong direction is disorienting.* **[10 Grudge DMG [Grudge]]** | When the target stands over the Well. |
 | { *The Inverted Draw* [**Debuff**] } | "Water falls upward from the rising well — and it pulls you with it, away from the ground." | [The Well's anti-gravity intensifies; the target loses footing.] | *Target loses 10 Resilience; they are being lifted.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
 | { *The Upward Geyser* [**Attack**] } | "A column of sorrow-water blasts straight up — through the floor, through you." | [A reversed geyser strikes from below.] | *Inflicts Grudge pressure and one wound of upward impact.* **[14-22 Grudge DMG [Grudge]]** | When the Well is struck. |
-| { *The Full Ascent* [**Attack**] } | "It finishes rising, and at the top of the rise everything it held comes out level." | [The shaft completes its ascent and discharges outward rather than upward.] | *24–36 Grudge to everybody within the rise radius; both recorded ascents stopped at eleven metres and neither reached whatever height it was going to.* **[24-36 Grudge DMG [Grudge]]** | When the restraint is not applied within four minutes. |
+| { *The Full Ascent* [**Attack**] } | "It finishes rising. And at the top of the rise everything it held comes out level." | [The shaft completes its ascent and discharges outward rather than upward.] | *24–36 Grudge to everybody within the rise radius; both recorded ascents stopped at eleven metres and neither reached whatever height it was going to.* **[24-36 Grudge DMG [Grudge]]** | When the restraint is not applied within four minutes. |
 | { *The Floating Sea* [**Ultimate**] } | "Every buried thing in the district comes up at once and the air is full of water that was supposed to stay down." | [The rise generalises across the Desolate's old workings.] | *12–20 Grudge per cycle for three cycles to anyone in the open.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, in the fortnight after a sealed inquiry into the original burial was closed without findings. |
 
 ### Battle Phases
 
 1. **Tension:** The pair takes position — one at contact distance, one outside it with the clock — and the outside worker is named as holding the restraint authority before anything begins. The naming is spoken aloud and both initial it.
-2. **Clash:** Sixteen turns. The worker in contact reports the song aloud, continuously, for as long as it is audible; the observer outside holds the clock and the restraint authority. The pair is never reduced to one, and silence from inside ends the phase immediately.
-3. **Resolution:** Document the cause as unknown and do not invent one. 188 cycles; the gauge falls when the cycle record says *cause not established* and rises every time a worker has offered a plausible account of the original burial, which has happened nineteen times and been wrong nineteen times.
+2. **Clash:** Sixteen turns. The worker in contact reports the song aloud, continuously, for as long as it is audible. The observer outside holds the clock and the restraint authority. The pair is never reduced to one, and silence from inside ends the phase immediately.
+3. **Resolution:** Document the cause as unknown and do not invent one. Nine years of season records; the gauge falls when the cycle record says *cause not established* and rises every time a worker has offered a plausible account of the original burial, which has happened nineteen times and been wrong nineteen times.
 
 ### Consequences
 
@@ -116,7 +118,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A well-shaped presence rising from the ground inside a person's consciousness. Its rim appears as a circle of crimson light. |
-| **Position / movement** | Position and bearing of the affected person; distance to the nearest colleague; any movement begun since the rim appeared and the reason the person gives for it. |
+| **Position / movement** | Position and bearing of the affected person. Distance to the nearest colleague; any movement begun since the rim appeared and the reason the person gives for it. |
 | **Material / signature** | Grudge. Fever-cold with a smell of char, a wordless song below hearing, and crimson light with no source in the room. |
 | **Distinctive markers** | Nothing is visible to an observer. Every marker on this holding is reported by the person inside it, which is the whole of the holding's measurement problem. |
 | **Identification** | At ordinary contact, use the affected person’s report of the wordless song and crimson rim, not an exterior shaft an observer can inspect. The song has been reported across the nine-year record but captured by no instrument. |
@@ -134,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The singing lowers and the well becomes less deep. | Decrease |
-| **Pugnahan** | The well rises through the worker's thoughts. | Increase |
-| **Viderehan** | Reveals echoes of the forgotten event. | Stable |
-| **Ferrehan** | Tests whether the worker can hear anger without inheriting it. | Decrease |
+| **Flerehan** | The singing lowers and the well becomes less deep. | Decrease · High |
+| **Pugnahan** | The well rises through the worker's thoughts. | Increase · Low |
+| **Viderehan** | Reveals echoes of the forgotten event. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can hear anger without inheriting it. | Decrease · Common |
 
 
 
@@ -154,14 +156,14 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 |---|---|
 | **Event Type** | Transformation in place |
 | **Movement** | The rim appears at floor level throughout the structure and draws personnel toward the depths by acting on their intentions. People walk to it and can explain why. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
+| **Effect** | The Well opens under the district and the rage comes up with the water. It does not aim; the damage is indexed to whatever was built over it, and the people are hit standing on the thing the rage was for. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
 | **First Target** | The worker in contact. It has never reached past them to the outside observer, in either ascent, which is the whole basis of the two-worker rule. |
 | **Escalation** | +5 Resilience drain per cycle while the shaft is rising. It does not travel; the rise is vertical and the radius of effect grows with the height. |
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. Rising Well alters what is around it at The Desolate — mobile and stays inside it; the entity's anger becomes physical, cracking walls and personnel alike.
+- **Event type (non-breach):** Transformation in place. Rising Well alters what is around it at The Desolate — mobile and stays inside it. The entity's anger becomes physical, cracking walls and personnel alike.
 - **Containment priority:** Flerehan and Ferrehan together, from a position outside the drawing, with restraint authority already delegated to the team of three. Nobody argues with anybody.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn unaddressed. Both recorded events ended by restraint rather than by Work, and the figure has never come down through a Work Type during an ascent.
 
@@ -183,7 +185,7 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 
 **Ability:** Grudge against the Body. Struck targets become certain of the cause of something they have no information about, and will defend it; fourteen strikes, fourteen confident and unfounded accounts.
 
-**Cost:** Old wounds ache, and the wielder begins supplying reasons for things they have not investigated.
+**Bearer cost:** Old wounds ache, and the wielder begins supplying reasons for things they have not investigated.
 
 ### M.A.W. Suit — Rising Well Plate
 
@@ -201,7 +203,7 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 
 **Ability:** Resistance to Grudge against the Body, and the reason the contact worker can stand a four-minute approach rather than the ninety seconds the unprotected record shows.
 
-**Cost:** Reflexes dull, and the wearer stops saying *I don't know* — which the station measures, because it is the sentence this holding is managed with.
+**Bearer cost:** Reflexes dull, and the wearer stops saying *I don't know* — which the station measures, because it is the sentence this holding is managed with.
 
 ### M.A.W. Stigma — Rising Well Stone
 
@@ -215,7 +217,7 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 
 **Ability:** Reveals suppressed anger and its emotional depth.
 
-**Cost:** The wearer hears anger in every silence.
+**Bearer cost:** The wearer hears anger in every silence.
 
 *Four in nine years, in every case to a worker who finished a shift without offering an explanation for the burial. Nineteen workers have offered one; none has been given anything, and the station is careful to record that all nineteen were trying to help.*
 
@@ -234,7 +236,7 @@ Every piece comes out of something buried and sworn away, and the set gives its 
 
 **Stat interpretation:** The grade measures extraction stability and cannot express a set that replaces a person's uncertainty with conviction. Authorise on the five questions, which cost two minutes and have caught every case.
 
-**Full-set source review (2026-10-11):** Reviewed the `δ · δ` grade overview, all three local M.A.W. blocks, Use Notes, Field Use Record, and other M.A.W. claims against Side `SE-1037-A` and linked items `SE-1037-B/C/D` (each explicitly `C-IVδ-869 [GS]`), Registry rows 310–313, Master Codex Entries 304–306 and Entity Tale 102, and the Weapon Archetype index. Tale 102 and the Side formation record agree on inherited post-massacre fury; neither establishes which of the item-name families is the equipment title. Hold `Rising Well Fang/Plate/Stone` (primary and Master rows) versus `Well Within Fang/Plate/Stone` (Side set and items). Primary, Side and item records agree on Weapon 10–15 / Fast 3 / Medium 3 / max 2 / 50 Echoes, Suit resistances / max 2 / 45 Echoes, and Stigma Tail / 4% / +3; Side and item add Skewer / 100% → 70% → 50%, which the primary does not state. The linked items contain no separate Appearance or transition record. The item code `MAW-W-1037-01` shares a prefix with an index row for a Focused Void-Lens Ray / Instant, while the primary describes a dark-iron fang blade and the stat records say Medium; no crosswalk resolves it. `MAW-W-869` is instead The Returning Requiem for `C-Iα-869`, not this SE. Master classifications PRIMAL/Bio/Marrow and Ocular Lenses & Monocles remain unverified against the primary's iron blade and stone. Registry rows 311–313 remain partial/generic. No disputed title, form, category, or value was changed.
+**Full-set source review (Year 4238):** Reviewed the `δ · δ` grade overview, all three local M.A.W. blocks, Use Notes, Field Use Record, and other M.A.W. claims against Side `SE-1037-A` and linked items `SE-1037-B/C/D` (each explicitly `C-IVδ-869 [GS]`), Registry rows 310–313, Master Codex Entries 304–306 and Entity Tale 102, and the Weapon Archetype index. Tale 102 and the Side formation record agree on inherited post-massacre fury; neither establishes which of the item-name families is the equipment title. Hold `Rising Well Fang/Plate/Stone` (primary and Master rows) versus `Well Within Fang/Plate/Stone` (Side set and items). Primary, Side and item records agree on Weapon 10–15 / Fast 3 / Medium 3 / max 2 / 50 Echoes, Suit resistances / max 2 / 45 Echoes. And Stigma Tail / 4% / +3. Side and item add Skewer / 100% → 70% → 50%, which the primary does not state. The linked items contain no separate Appearance or transition record. The item code `MAW-W-1037-01` shares a prefix with an index row for a Focused Void-Lens Ray / Instant, while the primary describes a dark-iron fang blade and the stat records say Medium; no crosswalk resolves it. `MAW-W-869` is instead The Returning Requiem for `C-Iα-869`, not this SE. Master classifications PRIMAL/Bio/Marrow and Ocular Lenses & Monocles remain unverified against the primary's iron blade and stone. Registry rows 311–313 remain partial/generic. No disputed title, form, category, or value was changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -315,8 +317,8 @@ The relations below are canonical points of contact, not alliances. None is sett
 
 | Related entity | What it is | What the shaft height did | Required record |
 |---|---|---|---|
-| **The Memory Well** | Both open downward into something buried, which is a resemblance and has repeatedly been mistaken for a relationship. | Six co-presences. No measurable effect in either direction; the song did not change, the rim did not widen, and the Memory Well's own series was flat. The file notes that the two are confused in correspondence about twice a year. | The six co-presences, both series, and every instance of the names being used interchangeably. |
-| **The Wrath Flame** | In the presence of the Flame, the rim has twice been reported as visible to an observer standing outside the affected person. | Two events, nine years apart, both at the Desolate margin. Both observers described the same thing independently. The wing cannot reproduce it, will not attempt to, and records the refusal with the data. | Both accounts verbatim, the separation of the observers, and the standing refusal to repeat the conditions. |
+| [**The Memory Well**](SE-C-IIIγ-115_Remembrance_기억의_우물.md) | Both open downward into something buried, which is a resemblance and has repeatedly been mistaken for a relationship. | Six co-presences. No measurable effect in either direction; the song did not change, the rim did not widen, and the Memory Well's own series was flat. The file notes that the two are confused in correspondence about twice a year. | The six co-presences, both series, and every instance of the names being used interchangeably. |
+| [**The Wrath Flame**](SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md) | In the presence of the Flame, the rim has twice been reported as visible to an observer standing outside the affected person. | Two events, nine years apart, both at the Desolate margin. Both observers described the same thing independently. The wing cannot reproduce it, will not attempt to, and records the refusal with the data. | Both accounts verbatim, the separation of the observers, and the standing refusal to repeat the conditions. |
 | **The Torn Soul** | Both carry anger with no reachable origin, and the Torn Soul has been proposed as a route to the Well's buried cause. | Four approaches. Nothing was recovered. The proposal has been renewed three times and refused three times on the ground that the cause is in the chamber file already and does not need to be dug out of another entity. | The four approaches, the null results, and the three refusals with their reasoning. |
 
 **Interaction procedure:** Both parties individually baselined within the cycle, the worker baselined as well, the outside observer holding restraint authority throughout, and the height measured at the start, the end, and a month later.
@@ -327,7 +329,7 @@ They buried the rage after the massacre, and the buried rage, generations later,
 
 There was a massacre — the record does not specify which, because Somnarak has had many, the small violences the city inflicts on its own and does not memorialize. A community was destroyed. The survivors, too few and too broken to retaliate, did what survivors do when retaliation is impossible: they buried the rage. They sealed the anger underground — not forgiving it, not resolving it, simply hiding it, because the rage was too dangerous to carry openly and too real to release.
 
-The buried rage did not dissolve. Rage, sealed, does not fade — it waits, the way sealed things wait in Somnarak, patient, in the dark. And the survivors had children, and the children had children, and the buried rage, finding no outlet in the generation that buried it, sank deeper — into the Weeping, into the ground, into the inheritance that passes down the bloodline alongside the debts and the names.
+The buried rage did not dissolve. Rage, sealed, does not fade — it waits, the way sealed things wait in Somnarak, patient, in the dark. And the survivors had children, and the children had children. And the buried rage, finding no outlet in the generation that buried it, sank deeper — into the Weeping, into the ground, into the inheritance that passes down the bloodline alongside the debts and the names.
 
 Generations later, the rage rose. Not in the original survivors — they were long dead. In their descendants. The buried anger, accumulated and pressurized by generations of containment, surfaced in the minds of people who had never experienced the massacre, who did not know the cause, who carried only the fury — directionless, originless, a rage without a memory, rising inside them like water rising in a well.
 
@@ -353,9 +355,9 @@ Some sorrows are about the original wound. Rising Well is about the inheritance 
 **Common Name:** Rising Well
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). The Well of inherited fury opens in the minds of people who were given no reason for it; proximity produces rage without a remembered cause, and an event turns that rage on the structure and on everyone inside it. The older entry describing the threat as moderate understates it and is corrected here.
+**Threat Assessment:** Critical (δ). The Well of inherited fury opens in the minds of people who were given no reason for it. Proximity produces rage without a remembered cause, and an event turns that rage on the structure and on everyone inside it. The moderate grading it once carried described the memory of the Well and not the well.
 **Containment & Handling Procedures:**
-- All four Work Types are valid; Pugnahan deepens the shaft and is used only to provoke a reading that cannot be obtained otherwise, on written authority.
+- All four Work Types are valid. Pugnahan deepens the shaft and is used only to provoke a reading that cannot be obtained otherwise, on written authority.
 - The rage has an origin and it is documented in the chamber file. What it has no access to is the person who caused it, all of whom are long dead.
 **Observation Notes:**
 - Buried rage from a massacre in the Desolate, rising two generations later in descendants who were told nothing, exactly as their grandparents intended.
@@ -377,11 +379,11 @@ The Well has no exterior. It rises inside consciousness, which means the holding
 
 ### The Singing
 
-The ancient song precedes the rim. Personnel report it first as a sound at the edge of hearing and then as something they recognize without having learned, in a language none of them speak and all of them follow. The holding's instruction is to report the song immediately and to continue reporting it aloud for as long as it is audible, which serves two purposes: it keeps the affected worker speaking, and it gives the observer outside a continuous indication that the exposure is ongoing. The moment the reporting stops is the moment the response begins. Nobody waits to be asked whether they are all right. The protocol is explicit that silence is the signal and that the signal is not ambiguous.
+The ancient song precedes the rim. Personnel report it first as a sound at the edge of hearing and then as something they recognize without having learned, in a language none of them speak and all of them follow. The holding's instruction is to report the song immediately and to continue reporting it aloud for as long as it is audible, which serves two purposes: it keeps the affected worker speaking. And it gives the observer outside a continuous indication that the exposure is ongoing. The moment the reporting stops is the moment the response begins. Nobody waits to be asked whether they are all right. The protocol is explicit that silence is the signal and that the signal is not ambiguous.
 
 ### Inherited Fury
 
-The anger the Well carries is not the anger of the person carrying it. This is the single fact the chamber's briefing is built around, and it is repeated in the material more often than the wing repeats anything, because exposure produces rage that feels entirely justified and entirely personal and will be defended as such by the affected worker. Debriefs are therefore conducted by a second party, never by self-report, and the debriefing officer is instructed not to argue. Arguing has been tried. The record of it fills a short section of the file and ends with a recommendation that no officer attempt to talk a person out of a fury the Well has given them, because the attempt becomes the target.
+The anger the Well carries is not the anger of the person carrying it. This is the single fact the chamber's briefing is built around. And it is repeated in the material more often than the wing repeats anything, because exposure produces rage that feels entirely justified and entirely personal and will be defended as such by the affected worker. Debriefs are therefore conducted by a second party, never by self-report, and the debriefing officer is instructed not to argue. Arguing has been tried. The record of it fills a short section of the file and ends with a recommendation that no officer attempt to talk a person out of a fury the Well has given them, because the attempt becomes the target.
 
 ### The Buried Record
 
@@ -401,7 +403,7 @@ The wing can measure inherited fury. What it cannot do is find anybody who has e
 
 The assessment instrument is sound and is not in dispute: a structured interview, a physiological series, and a weighting for the interval between weight and rage. It returns a number. The threshold for a finding of harm — the number at which a person is owed care, a payment, or a change in their circumstances — was set by the facility's own medical standard and has never been criticised.
 
-**Thirty-one descendants have been assessed and thirty-one came back below it.** Not marginally, in most cases. The individual loads are small, and they are small because the thing is spread: it is held across a population of several hundred people who are related to each other and to nobody else involved, and no single person is carrying more than a fraction of it.
+**Thirty-one descendants have been assessed and thirty-one came back below it.** Not marginally, in most cases. The individual loads are small, and they are small because the thing is spread: it is held across a population of several hundred people who are related to each other and to nobody else involved. And no single person is carrying more than a fraction of it.
 
 Added together, the cohort carries the largest Grudge load the district has on record, by a factor the file declines to round.
 
@@ -413,7 +415,7 @@ So the measurement exists, the harm exists, and every individual case is below t
 
 When the facility accepted that the Desolate holdings had produced a liability to the descendant community, it funded an independent hearing body to determine claims. The funding settlement ran to eleven pages. One clause in it decided everything that followed.
 
-**Claims are heard individually.** There is no representative claim, no joinder, and no power in the body to find a fact about a group. The clause was not an oversight; the wing's negotiators asked for it and recorded why, which is that a finding about a group of several hundred people carrying a harm with no end date would have been a liability the facility could not have bounded, reserved for, or survived.
+**Claims are heard individually.** There is no representative claim, no joinder, and no power in the body to find a fact about a group. The clause was not an oversight. The wing's negotiators asked for it and recorded why, which is that a finding about a group of several hundred people carrying a harm with no end date would have been a liability the facility could not have bounded, reserved for, or survived.
 
 The clause is also the reason no claim has ever succeeded. **Thirty-one have been heard. Thirty-one were dismissed**, each on the correct individual ground that the claimant's own measured load fell below the threshold. Each dismissal entered the body's record. Each was cited in the next. By the eleventh, the determinations had become short.
 
@@ -421,7 +423,7 @@ The association's own advocate now advises members not to file, and says so publ
 
 **The facility's annual return records the fall as an improving trend.** The return is accurate. Nobody has altered a figure. The claims line is lower than it has been in a decade, and the reason the line is lower is that the people with the claim have been advised, correctly, that the mechanism built for them makes things worse each time it is used.
 
-The association's objection is minuted at every review and in full. It holds that the individual-hearing clause was procured by the facility at a moment when the association had no standing to refuse it, that the nineteen undertakings were taken in the same week, and that nobody now alive can say what any of them were about. The minute records the objection as unanswerable on the documents and carries it forward.
+The association's objection is minuted at every review and in full. It holds that the individual-hearing clause was procured by the facility at a moment when the association had no standing to refuse it, that the nineteen undertakings were taken in the same week. And that nobody now alive can say what any of them were about. The minute records the objection as unanswerable on the documents and carries it forward.
 
 ### Twenty-Eight Units of Somebody Else's Anger
 
@@ -431,11 +433,11 @@ The association asked, five years ago, whether the facility would stop. The answ
 
 The association then asked a smaller question. Could the energy drawn from the Well be kept out of the lighting that serves the descendants' own neighbourhood — not refused by the facility, just not consumed by them?
 
-The engineers spent four months on it and reported that it cannot be done. Han-Energy carries no origin once it is in the grid; there is no tag, no separable path, and no metering arrangement that would make the distinction real rather than symbolic. A notional scheme was offered — the facility would account for an equivalent quantity as if it had been routed elsewhere — and the association declined it, in one line, as **a way of writing down something that is not true.**
+The engineers spent four months on it and reported that it cannot be done. Han-Energy carries no origin once it is in the grid. There is no tag, no separable path, and no metering arrangement that would make the distinction real rather than symbolic. A notional scheme was offered — the facility would account for an equivalent quantity as if it had been routed elsewhere — and the association declined it, in one line, as **a way of writing down something that is not true.**
 
 What the facility does instead is tell them. Four times a year a letter goes to the association giving the number of cycles worked, the yield in Han-Energy, and the equivalent in hours of street lighting. The letters are read. One has been framed and hung in the association's hall, which the wing was told about and has not commented on.
 
-The file's last word on the arrangement is not a justification. It is a procedural instruction: the figure is to be given in full, including in the years it goes up, and no officer is to offer the association an apology in the same letter, **because an apology sent with the number reads as payment for it.**
+The file's last word on the arrangement is not a justification. It is a procedural instruction: the figure is to be given in full, including in the years it goes up. And no officer is to offer the association an apology in the same letter, **because an apology sent with the number reads as payment for it.**
 
 ## Trivia
 
@@ -447,8 +449,8 @@ The file's last word on the arrangement is not a justification. It is a procedur
 ### Registry Trivia
 
 - **Classification detail:** Entity (IV) coherence at Critical (δ) — 1 burial, 19 undertakings, and a shaft that has risen 11 metres out of ground it was sunk into.
-- **Field detail:** Grudge, mobile in the Desolate in the sense that the ground around it changes and the shaft does not; located each season by the song.
-- **Recognition detail:** Identify it by the song and by a grievance that arrives with reasons already attached; never by anything an observer can see, because there is nothing.
+- **Field detail:** Grudge, mobile in the Desolate in the sense that the ground around it changes and the shaft does not. Located each season by the song.
+- **Recognition detail:** Identify it by the song and by a grievance that arrives with reasons already attached. Never by anything an observer can see, because there is nothing.
 - **Record detail:** Read this file beside the Memory Well's, which it is routinely confused with in correspondence, and beside the association's own register, which the wing does not hold and does not want.
 - **Containment detail:** There is no containment. There is a 2-worker rule, a 4-minute limit, a restraint authority named aloud, and a register line that has said *cause not established* for 9 years.
 ## Document Information

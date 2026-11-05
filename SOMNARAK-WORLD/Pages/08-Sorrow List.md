@@ -52,7 +52,7 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 | `SE-C-Iα-000` | Kind Echo | 친절한 메아리 | 🔵 Lament | 10 LU | 🤲 Ferrehan | Yes |
 | `SE-C-Iα-011` | Whispering Walls | 속삭이는 벽 | 🔵 Lament | 10 LU | 👁 Viderehan | No |
 | `SE-C-Iα-071` | The Kind Healer | 친절한 치유자 | 🔵 Lament | 12 LU | 🤲 Ferrehan | Yes |
-| `SE-C-Iα-071c` | Apostle Maker | 사도 만드는 자 | 🔵 Lament + Hope | 12 LU | 💧 Flerehan | Yes |
+| `SE-C-IIγ-071c` | Apostle Maker | 사도 만드는 자 | 🔵 Lament + Hope | 12 LU | 💧 Flerehan | Yes |
 
 ### 2.2 Rank II: Echo Entities
 

@@ -22,7 +22,7 @@ The Tide is the natural rhythm of a city built on sorrow. The city's collective 
 | Type / Manifestation | Object/Place — Can breach via Transform; cyclical phenomenon / Place-Weight |
 | Coherence / Potency | Sovereign (V) — Autonomous and cyclical / Major (γ) |
 | Element / Location | Weight / All zones — periodic phenomenon |
-| Gauge / Pressure | 709/709; starts 45–65% / 14–31 per hit · Weight |
+| Gauge / Pressure | 000/750; starts 000% / Weight — no attack pattern; the nine station readings an hour after dawn are the instrument |
 | Observation | 4 — Mastered |
 | Formation event | Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak. |
 
@@ -30,17 +30,17 @@ The Tide is the natural rhythm of a city built on sorrow. The city's collective 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | The Tide reveals grief currents across the city. (Stable) |
 | Ferrehan | Personnel endure the wave until dawn. (Decrease) |
 
 **Trigger:** Nightfall and accumulated city-wide sorrow.  
 **Resolution:** Impossible; use Tide shelters and shared mourning protocols
 
-## WITNESS RECORD — *The The Sorrow Tide Source-Trace*
+## WITNESS RECORD — *The Sorrow Tide Source-Trace*
 
-During the The The Sorrow Tide Source-Trace, the field team preserved this source fact: Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The city's collective grief suppressed by daylight and released through night.
+During *The Sorrow Tide Source-Trace*, the field team preserved this source fact: Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The city's collective grief suppressed by daylight and released through night.
 
 ## M.A.W. SET — *The Sorrow Tide — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The The Sorrow Tide Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Sorrow Tide's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon opens only the immediate manifestation that violates this rule: Impossible; use Tide shelters and shared mourning protocols The set cannot heal the originating event. Misuse routes The Sorrow Tide's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1027-A`  
-**Linked Entity:** `SE-1027`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

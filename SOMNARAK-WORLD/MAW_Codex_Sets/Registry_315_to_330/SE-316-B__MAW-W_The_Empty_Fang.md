@@ -28,6 +28,10 @@ The Empty Fang is a crimson fang of Han iron with an empty knot at the guard and
 |---|---:|---|---|---:|
 | α / Grudge | 3–6 | 2 — Normal / 2 — Short | Single; 100% | 5 / 15 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
 **Loop Severance:** Fang cuts one self-binding expectation that has no reciprocal hold. It cannot attack the absent person, the original promise, or grief itself.
 
 **Cost:** Old wounds ache and prolonged use leaves bruising.
@@ -43,14 +47,3 @@ Knot verifies nonreciprocity, Plate protects release, Fang cuts the loop.
 **Maintenance:** Lay the Fang beside the slack line record. Name what ended and what remains meaningful separately.
 
 **Shutdown:** Sheathe before proposing any future return.
-
----
-
-**Document ID:** `SE-316-B`  
-**Linked Entity:** `SE-316`  
-**Item Registry Code:** `MAW-W-316-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

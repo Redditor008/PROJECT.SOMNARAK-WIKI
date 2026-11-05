@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Rusted Lock-Pistol
+# M.A.W. WEAPON — Neverlast's Requiem
 
-> *“Neverlast's Requiem remembers Neverlast; the bearer must not mistake memory for permission.”*
+> *"The lock grinds before it fires, and for one breath afterwards you are back at the moment you decided to."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Neverlast's lament signature in the strike.  
-**Binding rule:** the bearer names Neverlast's event—A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized.—and accepts this limit: Remain with it and acknowledge the abandonment; do not promise a return
+**Binding rule:** the bearer names Neverlast's event — “A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized.” — and accepts this limit: Remain with it and acknowledge the abandonment; do not promise a return
 
 ## Appearance
 
-Appearance : An archaic wheel-lock horse pistol with a sixteen-inch iron barrel coated in flaky red rust, an oversized lock mechanism, and an elongated walnut stock ending in an iron skull-pommel.
+An archaic wheel-lock horse pistol with a sixteen-inch iron barrel coated in flaky red rust, an oversized lock mechanism, and an elongated walnut stock ending in an iron skull-pommel.
 
 The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidation powder. The discharged iron ball leaves a trail of choking rust dust that accelerates metal fatigue in armor.
 
@@ -31,16 +31,20 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Neverlast's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
+**Operational / binding cost:** The shot leaves slowly and stays late: for a breath after firing, the wielder relives the moment they decided to fire. Every shot adds one more such breath, until the wielder is firing in the past tense.
 
 ## ITEM-SPECIFIC HISTORY — *The Neverlast Source-Trace: Weapon Record*
 
-The first Neverlast's Requiem field bearer encountered this source response: Fights back as aggression fuels its sorrow. The weapon stays the immediate hazard only after the team attributed it to Neverlast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Neverlast's Requiem field bearer encountered this source response: Fights back as aggression fuels its sorrow. The weapon stays the immediate hazard only after the team attributed it to Neverlast. A wielder reloaded a shot they had already fired, in a room that had emptied, and the Lock-Pistol’s binding is the magazine entry written from that fumble.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Neverlast's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the breath after firing lengthens past the reload, and the wielder keeps firing at a moment that has already closed.
 - Terminal state: Neverlast's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Remain with it and acknowledge the abandonment; do not promise a return” reverses the item’s benefit and raises the source Gauge.  
@@ -49,15 +53,4 @@ The first Neverlast's Requiem field bearer encountered this source response: Fig
 
 ## SET RELATIONSHIP
 
-Within *Neverlast — Witnessed Form*, Neverlast's Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-833-B`  
-**Linked Entity:** `SE-833`  
-**Item Registry Code:** `MAW-W-833-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Neverlast — Witnessed Form*, Neverlast's Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set the moment its wielder fires without reliving the decision to.

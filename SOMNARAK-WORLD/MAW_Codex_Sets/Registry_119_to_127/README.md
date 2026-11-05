@@ -17,31 +17,31 @@ This batch continues the individualized current-era codex archive after `SE-115`
 ```text
 119_Homeless_Sorrow/
   SE-119-A__SIDE_CODEX_Homeless_Sorrow.md
-  SE-119-B__MAW-W_The_Shadow_Lens.md
+  SE-119-B__MAW-W_The_Shadow_Cast_Kukri.md
   SE-119-C__MAW-S_The_Shadow_Veil.md
   SE-119-D__MAW-G_The_Shadow_Hearth.md
 
 120_Redcage/
   SE-120-A__SIDE_CODEX_Redcage.md
-  SE-120-B__MAW-W_The_Cage_Fang.md
+  SE-120-B__MAW-W_The_Wrath_Ember_Censer.md
   SE-120-C__MAW-S_The_Cage_Shield.md
   SE-120-D__MAW-G_The_Cage_Charm.md
 
 125_Deja_Vu/
   SE-125-A__SIDE_CODEX_Deja_Vu.md
-  SE-125-B__MAW-W_The_Returning_Lens.md
+  SE-125-B__MAW-W_The_Reverberant_Spear.md
   SE-125-C__MAW-S_The_Returning_Veil.md
   SE-125-D__MAW-G_The_Returning_Seed.md
 
 126_Anonym/
   SE-126-A__SIDE_CODEX_Anonym.md
-  SE-126-B__MAW-W_The_Melting_Lens.md
+  SE-126-B__MAW-W_The_Liquefying_Hand_Cannon.md
   SE-126-C__MAW-S_The_Melting_Veil.md
   SE-126-D__MAW-G_The_Melting_Reflection.md
 
 127_Mirror_of_Broken/
   SE-127-A__SIDE_CODEX_Mirror_of_Broken.md
-  SE-127-B__MAW-W_The_Broken_Maul.md
+  SE-127-B__MAW-W_The_Fractured_Celestial_Prism.md
   SE-127-C__MAW-S_The_Broken_Mantle.md
   SE-127-D__MAW-G_The_Broken_Reflection.md
 ```

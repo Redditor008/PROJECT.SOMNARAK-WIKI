@@ -7,7 +7,7 @@ This batch continues from the next lowest available canonical entity numbers aft
 | Formal Entity ID | Entity | Files | Current Status |
 |---|---|---:|---|
 | `SE-009` | The Memory Weaver | 4 | Active, contained in the Library of Stolen Pasts |
-| `SE-010` | The Convergence | 4 | Historical/contingency formation; sealed Absolute Set |
+| `SE-010` | The Convergence | 1 | Side Codex only; no extractable M.A.W. exists (`R-35`) |
 | `SE-011` | The Whispering Walls | 4 | Ambient Old Lament phenomenon |
 | `SE-014` | The Debt Eater | 4 | Active under regulated Collector access |
 | `SE-015` | The Debt Scale | 4 | Active Collector court oversight entity |

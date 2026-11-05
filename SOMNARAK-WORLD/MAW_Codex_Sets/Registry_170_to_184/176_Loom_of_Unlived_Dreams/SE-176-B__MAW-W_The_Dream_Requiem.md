@@ -60,14 +60,3 @@ Zyrak used the Requiem during a Dream Bleed event that had woven an empty school
 ## SET RELATIONSHIP
 
 The Requiem is the unweaving edge of *Let the Cloth End*, paired with Dream Shroud protection and Dream Shuttle’s controlled creation.
-
----
-
-**Document ID:** `SE-176-B`  
-**Linked Entity:** `SE-176`  
-**Item Registry Code:** `MAW-W-176-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

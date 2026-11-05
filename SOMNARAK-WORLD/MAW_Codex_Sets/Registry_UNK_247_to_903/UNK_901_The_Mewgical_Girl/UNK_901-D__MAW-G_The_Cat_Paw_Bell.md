@@ -33,14 +33,3 @@ A Tail bell granted at **4%**: **δ Mixed; +3 Clarity and Composure.** It sings 
 **Corrosion:** borrowed tones become habitual; the bearer mediates without consent; terminal state makes their own voice inaudible.  
 **Maintenance:** record three voice samples after each deployment.  
 **Removal:** Mimi and Shu Shu acknowledge the bearer as neither persona.
-
----
-
-**Document ID:** `UNK-901-D`  
-**Linked Entity:** `UNK-901`  
-**Item Registry Code:** `MAW-G-UNK-901-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

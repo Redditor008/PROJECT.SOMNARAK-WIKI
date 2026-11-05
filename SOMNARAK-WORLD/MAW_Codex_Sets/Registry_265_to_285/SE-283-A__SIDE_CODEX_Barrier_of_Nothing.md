@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Weight |
 | Form | A walking humanoid assembled from rusted wall plates, bleeding orange corrosion beside a Gate passage it does not physically block. |
-| Gauge / Pressure | 45–65% / Weight 13–29 |
+| Gauge / Pressure | 000% / Weight 13–29 |
 | Movement | 1.95 m/s in dream or breach |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Boundary After People |
@@ -45,10 +45,10 @@ Barrier of Nothing is lead-cold, wet-iron scented, and physically passable. Depa
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Rust loosens and shows one departure. | Down | Name who left and what each side meant. |
-| Pugnahan | Plates harden and dream-space narrows. | Up | Do not demolish a nonphysical wall. |
+| Flerehan | Rust loosens and shows one departure. | Decrease | Name who left and what each side meant. |
+| Pugnahan | Plates harden and dream-space narrows. | Increase | Do not demolish a nonphysical wall. |
 | Viderehan | Reveals people on both sides. | Stable | Preserve unequal histories. |
-| Ferrehan | Forces the worker between opposing pressures. | Down | Remain without claiming false neutrality. |
+| Ferrehan | Forces the worker between opposing pressures. | Decrease | Remain without claiming false neutrality. |
 
 **Resolution:** Name both sides of the separation; do not choose a false neutrality.  
 **Breach:** At 75% Gauge the walking wall expands through corridors, crushes routes shut, and drains Resolve.  
@@ -100,13 +100,3 @@ A stable echo forms when Flerehan releases a departure memory and two witnesses 
 **Primary source:** `SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md`
 
 **Restricted note:** Barrier removal is not reconciliation. Passage requires both historical sides to remain nameable.
-
----
-
-**Document ID:** `SE-283-A`  
-**Linked Entity:** `SE-283`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

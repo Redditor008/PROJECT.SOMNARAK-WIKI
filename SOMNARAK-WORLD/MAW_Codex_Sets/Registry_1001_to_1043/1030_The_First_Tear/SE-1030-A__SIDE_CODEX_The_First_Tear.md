@@ -19,10 +19,10 @@ The Tear is believed to be the first sorrow ever felt on Mugenhan. The original 
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Vδ-290 [LO] |
-| Type / Manifestation | Object/Place — Can breach via Transform; sealed / Object-Lament |
+| Type / Manifestation | Object/Place — Non-breaching: activation only; sealed / Object-Lament |
 | Coherence / Potency | Sovereign (V) — Autonomous, ancient, singular / Critical (δ) |
 | Element / Location | Lament / SECTOR-A-01, Alpha Tree deep vault — sealed |
-| Gauge / Pressure | 600/600; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 000/1000; starts 000% / Lament — no attack pattern; the nightly height and glow reading is the whole of the record |
 | Observation | 5 — Sovereign |
 | Formation event | Unknown. It occurred before Han became structural and before Somnarak existed. |
 
@@ -30,17 +30,17 @@ The Tear is believed to be the first sorrow ever felt on Mugenhan. The original 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the shape of sorrow before language. (Stable) |
 | Ferrehan | Tests whether the observer can bear total grief. (Decrease) |
 
 **Trigger:** None authorized. Touch is forbidden.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1030 -->
+**Resolution:** Two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
-## WITNESS RECORD — *The The First Tear Source-Trace*
+## WITNESS RECORD — *The First Tear Source-Trace*
 
-During the The The First Tear Source-Trace, the field team preserved this source fact: Unknown. It occurred before Han became structural and before Somnarak existed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The original moment when someone lost something they loved.
+During *The First Tear Source-Trace*, the field team preserved this source fact: Unknown. It occurred before Han became structural and before Somnarak existed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The original moment when someone lost something they loved.
 
 ## M.A.W. SET — *The First Tear — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The The First Tear Source-Trace, the field team preserved this source
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The First Tear's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The First Tear's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1030-A`  
-**Linked Entity:** `SE-1030`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies The First Tear's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The gauge opens at 000% of its 000/1000 meter, and no attack pattern is filed for this Lament manifestation. The set cannot heal the originating event. Misuse routes The First Tear's wound through the operator and triggers the recorded escalation.

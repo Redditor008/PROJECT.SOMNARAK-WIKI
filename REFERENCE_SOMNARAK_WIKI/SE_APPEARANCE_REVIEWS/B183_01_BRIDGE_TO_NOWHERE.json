@@ -1,0 +1,142 @@
+{
+  "designation": "C-IVδ-260",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md",
+  "words": 7308,
+  "sha256": "fba2c0e5851eff4db84ca21bd13996cb884d523c7165a0a0e94ad2bead20e296",
+  "unit": 1,
+  "name": "Bridge to Nowhere",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_01_BRIDGE_TO_NOWHERE.md",
+  "before_words": 7308,
+  "after_words": 7427,
+  "base": "cc44694ab6100f6807aacb764ab26b12fe1af8bc",
+  "final_sha256": "18b85a489e0e1bea49c4b25ed173c92d6460e5e71a253d0090c95573ea04c29e",
+  "summary": "Six supported repairs make the seams obey the file's own instrument: the truncated Resistance cell is completed by the length-before-and-after record, combat stops tilting the span into the sky, dropping planks, and wounding with vertigo — pressure now lands as borrowed journeys, destinations treated as present, and added span, with every name and number kept — the Detailed Activation Record's Place-Lament slip returns to Place-Grudge, field-use signs split across weeping, flat arrival and erased-landmark directions, the two generic flavor rows are replaced by length and singing, and the addendum's 'percentage is the whole mechanism' is corrected to length. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "The rare file whose containment problem is whether anyone has the right to end it: the recognition that would dissolve the Bridge has been written down, owned, and deferred by every commander, and the Traveler Roll exists so that ending it would not take the people with it. Its instrument is just as good — two length readings and a named road. What let it down was sky-bridge grammar pasted over a structure whose whole danger is measured with a tape.",
+  "reasoning": "R-33 chain: Object/Place / Entity-IV / Critical-δ Lament → an ordinary route was erased without a reason recorded; generations who forgot the bridge kept dream-crossing it → a memory-crystal span of worn path-stones rises over flat ground, both shores gone → Viderehan holds, Ferrehan falls when the worker crosses a memory without claiming it as present; crossings toward a destination add length → expansion is growth in span, ended only by naming the road aloud → equipment extends the crossing at the price of weeping, flat arrival and every farewell on the route. Repairs remove ascent/wound claims the chain cannot carry; dissolution authority, apex physics and naming remain HELD.",
+  "history": "Batch 115 unit 1 (commit a273486, 2026-10-14) performed the whole-set source disposition preserved in the primary: exact SE-260-A–D with pair SE-260-B newly counted, the +3 Clarity naming, Master Entries 280–282, Entity Codex row 459, Tale 94 and archetype MAW-W-260, counting full-SE and Weapon inside the ledger legacy baseline. Batch 7 was a to-standard pass. B183 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "The dissolution question is the file's center and stays open by design: full recognition ends the Bridge terminally, the wing does not consider itself entitled to perform it, a descendants' petition against dissolution is read to every incoming commander, and the protocol closes without a recommendation. Notable Features still promises the Bridge 'disappears when the memory is fully recognized' against the Apex Record's never-performed procedure; no entitlement was granted here.",
+    "Ascent physics fork against the length record: Side A escalates 'at 90% Gauge the Bridge climbs toward an impossible apex, lifting personnel and surrounding routes', and item B records Durivel Cho cutting three rising memory supports during the Apex Without Water before a patrol was lifted — where the primary's own instrument knows only length gained per purposeful crossing and lost per naming. Combat was returned to the tape measure; the codices' lift events were not struck and no physics was joined.",
+    "Weapon form and range fork at agreeing statistics (Lament 10–15 / Speed 3 Fast / Range 3 Medium / Skewer 100-70-50 / max 2 / 50 Echoes): primary and item B give a slender singing blade with a worn-path fuller; archetype MAW-W-260 gives a broad bridge-deck cleaver. Master table buckets (REQUIEM — Resonant Blade; Ocular Lenses & Monocles for the Tail span) stay against the local forms, and Registry's 5% bestowal stays against 4% in primary, Side and item D.",
+    "Naming stays split: primary, Registry and disposition carry Bridge to Nowhere; Master Entries 280–282, Entity Codex row 459 and Tale 94 carry The Rising Bridge, whose Registrum is stale against the current primary (Comprehension 3, Threat Minimal, 'Flerehan is the only valid Work Type' — impossible for an Object/Place on this file's own work rule). The standalone Tale was not edited.",
+    "Witnessed use and thresholds stay parallel: Durivel's cut, Iseulfros anchor-bearing crossing and Yeonhwa's missing-stair transit stand in the codices against a Gardens roster written so no task requires the far side; activation ≥90% and ultimate at 65% remain beside a record whose own addendum says no percentage has ever decided a session. The 837 pool and 24-turn length are formal in the same way."
+  ],
+  "split": [
+    3,
+    3
+  ],
+  "repairs": [
+    {
+      "id": "resistance_splice",
+      "kind": "short",
+      "old": "| **Resistance** | 45% against Lament, which is what a remembered journey presses with; 35% against everything else. Neither figure has ever been the one the holding watches — the span's length is |",
+      "new": "| **Resistance** | 45% against Lament, which is what a remembered journey presses with; 35% against everything else. Neither figure has ever decided a session here — the span's length has, and it is taken before and after every cycle. |"
+    },
+    {
+      "id": "combat_actions",
+      "kind": "careful-detail",
+      "old": "| { *The Lift* [**Debuff**] } | \"The bridge begins to rise — tilting upward — and you are still on it.\" | [The Bridge's impossible ascent catches the target; the ground falls away.] | *Target suffers -10 Composure; they are rising with no way down.* **[10 Lament DMG [Lament]]** | When the target stands on the Bridge. |\n| { *The Inverted View* [**Debuff**] } | \"The higher it goes, the smaller everything looks — and the grief looks different from up here: total.\" | [The Bridge's height distorts perspective; the target sees the whole sorrow at once.] | *Target loses 10 Composure; the view is devastating.* **[10 Lament DMG [Lament]]** | When the target looks down. |\n| { *The Falling Plank* [**Attack**] } | \"A plank shakes loose — and the fall from here is very, very long.\" | [A plank drops from the rising Bridge.] | *Inflicts Lament pressure and one wound of vertigo and impact.* **[14-22 Lament DMG [Lament]]** | When the Bridge is shaken. |\n| { *The Apex* [**Attack**] } | \"The span stops climbing and the view keeps going up without you.\" | [The rise fails, and everything the Bridge was carrying arrives back at the deck at once.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the span is overloaded, or a crossing is turned back at the apex. |\n| { *The Sky-Bridge* [**Ultimate**] } | \"Other spans in the Gardens start rising too, and none of them lead where they used to.\" | [The ascent spreads to every crossing in range and lifts whatever is standing on it.] | *All in range suffer Lament pressure for three turns of impossible height.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while a crossing is in progress. |",
+      "new": "| { *The Lift* [**Debuff**] } | \"You are part-way through a journey, and it is not yours.\" | [Standing on the deck, the target acquires another traveller's crossing: the route underfoot is remembered, not present.] | *Target suffers -10 Composure; what drains per crossing is Clarity about which journey is theirs.* **[10 Lament DMG [Lament]]** | When the target stands on the Bridge. |\n| { *The Inverted View* [**Debuff**] } | \"I knew the turning they were heading for. I have never been there and I knew it.\" | [The remembered route resolves around the target — road, weather, departing people — and the Gardens go thin behind it.] | *Target loses 10 Composure; present ground loses to a crossing remembered in detail.* **[10 Lament DMG [Lament]]** | When the target looks along the span toward the figures. |\n| { *The Falling Plank* [**Attack**] } | \"What stopped me was realising I had started planning what to do when I got across.\" | [Nothing falls and nothing is struck: the target begins treating the far end as a destination, and the span answers by lengthening.] | *Inflicts Lament pressure as a present-tense journey; no wound is produced.* **[14-22 Lament DMG [Lament]]** | When a crossing is made toward somewhere. |\n| { *The Apex* [**Attack**] } | \"It got shorter behind me on the way back. Not quickly. But it did.\" | [A crossing is turned back and the added length is entered against it; every journey borrowed on the way out is carried home.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the span is overloaded, or a crossing is turned back. |\n| { *The Sky-Bridge* [**Ultimate**] } | \"A sealed Bridge still lengthens. The containment reading is a tape measure.\" | [Growth, not flight: unrecognised crossings add span across the Gardens until the road is named aloud and the structure settles.] | *All in range suffer Lament pressure for three turns of borrowed journeys.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while a crossing is in progress. |"
+    },
+    {
+      "id": "manifestation_typo",
+      "kind": "short",
+      "old": "| **Manifestation** | Place-Lament|",
+      "new": "| **Manifestation** | Place-Grudge |"
+    },
+    {
+      "id": "field_use_split",
+      "kind": "careful-detail",
+      "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a dated baseline taken by the second worker. This set's toll is a conviction rather than a symptom — the bearer carries the Bridge's unwept grief and weeps on arriving somewhere familiar — so the baseline is what the after-entry is read against. |\n| **During use** | Watch for the toll's presenting shape: the wielder weeps involuntarily, most often on arriving somewhere familiar, and the hour goes into the log by the second worker's hand. The wielder's own account is taken afterwards and separately. |\n| **At limit** | The cost is continuous rather than occasional: the wearer has gone numb to small pleasures and says that arriving anywhere has stopped feeling like anything. The second worker's call stands against the wielder's, and on this set it has always been the one taken. |\n| **After use** | Return the piece and ask a colleague rather than the wielder whether the cost is still showing — the wearer describes arriving as flat. The answer is entered whether or not the wielder agrees, because this is the set whose bearers lose the vocabulary for the thing being asked about. |",
+      "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the span's length at first sight, and a dated baseline by the second worker: the bearer's own route statements (where they live, how they get there) and, for the Shroud, the present-site anchor carried against the cloth. |\n| **During use** | Each occurrence is entered with its hour by the second worker: weeping on arriving somewhere familiar, arriving reported as flat, or directions given by landmarks demolished before the bearer was born. The wielder's own account is taken afterwards and separately. |\n| **At limit** | The toll turns continuous — small pleasures numb, arrival stops feeling like anything, or the bearer cannot describe where they live without describing the erased road. The second worker's call stands against the wielder's, and on this set it has always been the one taken. |\n| **After use** | Return the piece and ask a colleague rather than the wielder whether the cost is still showing; re-enter the span's closing length beside the opening one. The answer is entered whether or not the wielder agrees, because this is the set whose bearers lose the vocabulary for the thing being asked about. |"
+    },
+    {
+      "id": "flavor_generic",
+      "kind": "short",
+      "old": "**With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.\n\n**When the entity activates:** Activation reshapes the room. The Lament that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.",
+      "new": "**With continued exposure:** The length does the changing. Crossings made toward a destination add span; standing still costs nothing. Four crossings affect a worker more than an hour on the deck, because each one adds another person's journey to the one they think they are making.\n\n**When the entity activates:** The singing comes first — formation is audible before it is visible — and stops when the structure is complete. Personnel who hear it and are not the posted warden withdraw without looking toward the sound; a person who has not seen the figures does not have to be talked back from the line."
+    },
+    {
+      "id": "operational_interpretation",
+      "kind": "careful-detail",
+      "old": "**Operational interpretation:** Treat this as a record of a route that outlived its road. Every figure here comes from people deciding the span leads somewhere. The percentage is the whole mechanism — there is no counter to run down, and standing on the deck doing nothing costs nothing.",
+      "new": "**Operational interpretation:** Treat this as a record of a route that outlived its road. Every figure here comes from people deciding the span leads somewhere. The length is the whole mechanism — there is no counter to run down, standing on the deck doing nothing costs nothing, and naming the erased road aloud is the only entry that has ever taken span back."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.024  clean   580 grams  M.A.W. Equipment\n 0.022  clean   185 grams  기록 (Registrum)\n 0.021  clean    96 grams  최종 관찰 (Final Observation)\n 0.018  clean   113 grams  Operational Parameters\n 0.017  clean   645 grams  Combat Record\n 0.017  clean   179 grams  Trivia\n 0.008  clean   666 grams  감각 묘사 (Flavor Text)\n 0.000  clean   810 grams  Apex Record\n 0.000  clean   419 grams  이야기 (Narratio)\n 0.000  clean   378 grams  이야기 보고 (Story Log)\n 0.000  clean   274 grams  관찰 기록 (Observation Log)\n 0.000  clean   263 grams  Appearance\n 0.000  clean   253 grams  Expansion Behavior\n 0.000  clean   162 grams  Origin\n 0.000  clean   160 grams  Behavior\n 0.000  clean    61 grams  증언 (Testimonium)\n 0.000  clean    39 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   84   4  | { *The Apex* [**Attack**] } | \"It got shorter behind me on the way back. Not quickly. But it did.\" | [A crossing is turned back \n   85   7  | { *The Sky-Bridge* [**Ultimate**] } | \"A sealed Bridge still lengthens. The containment reading is a tape measure.\" | [Growth, n\n  188   1  **Appearance:** a slender blade of Lament Han-crystal that sings faintly while it is being drawn and stops the instant it is still\n  197   1  **Target Coverage:** A line of up to three — the requiem follows a route through its targets rather than striking one, which is ho\n  209   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that gathers itself slightly tighter when the bea\n  221   1  **Cost:** The wearer goes numb to small pleasures and reports first that arriving anywhere has stopped feeling like anything — a d\n  249   3  | **At limit** | The toll turns continuous — small pleasures numb, arrival stops feeling like anything, or the bearer cannot descr\n  250   2  | **After use** | Return the piece and ask a colleague rather than the wielder whether the cost is still showing; re-enter the spa\n  298   2  > The choice at the end of a session is what the crossing is recorded as: a remembered route named out loud and marked as past, or\n  321   3  Three records are filed alongside this one because each was made out of the same loss of ground, and the archive pairs them by tha\n  328   3  The Echo Gardens hold several structures made by the same removal of ground, and these three are the ones whose material can share\n  330   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  372   1  - Viderehan and Ferrehan are the valid Work Types; Flerehan and Pugnahan have no purchase on a structure. The posted warden speaks\n  384   3  **Review requirement:** Re-verify after any Sorrow Tide, after any change to the Gardens survey, and after any crossing made for a\n  423   3  - **Record detail:** Check the designation before approach. More than one Echo Gardens record is a bridge and the two are opposite\nGENERIC 0.008  (44 shared shingles)  SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-A__SIDE_CODEX_Bridge_to_Nowhere.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-B__MAW-W_The_Memory_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-C__MAW-S_The_Memory_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-D__MAW-G_The_Memory_Span.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-A__SIDE_CODEX_Bridge_to_Nowhere.md": "0a033662372b7dd6c4be3049cc3a12246cee42afd13b5b802711644027d890e9",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-B__MAW-W_The_Memory_Requiem.md": "21a234c94806f19d3cd29a6aabc6a30b3a029aca16c428079f5b649ae5cc543e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-C__MAW-S_The_Memory_Shroud.md": "66b86c36164546c3edfb9b4d779fe27bc150d15a1c6ae0a0855c6ad568bbb3be",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-D__MAW-G_The_Memory_Span.md": "861bd87dd80e604d587304b2ce74ba5b4e2cd7bd3affe0ac87a733c7c465c8f8",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-260_Bridge_to_Nowhere_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%8B%A4%EB%A6%AC.md \"SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md\")]",
+  "table_link": "[Bridge_to_Nowhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-260_Bridge_to_Nowhere_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%8B%A4%EB%A6%AC.md \"SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md\")",
+  "reading": {
+    "before_lines": 430,
+    "before_bytes": 43793,
+    "final_lines": 430,
+    "final_bytes": 44481
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 109,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10
+  }
+}

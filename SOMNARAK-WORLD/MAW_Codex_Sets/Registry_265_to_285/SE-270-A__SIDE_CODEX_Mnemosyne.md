@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / γ — Major |
 | Element | Lament |
 | Form | A shoreless subterranean lake of viscous liquid memory reflecting the viewer’s whole life rather than their face. |
-| Gauge / Pressure | 45–65% / Lament 18–41 |
+| Gauge / Pressure | 000/880; starts 000% / Lament — no attack pattern; the month’s soundings, entered unrounded, are the instrument |
 | Observation | 3 — Advanced |
 | M.A.W. Set | The Unclaimed Depth |
 
@@ -44,10 +44,10 @@ The surface is dark, warm, and perfectly still. A dropped stone sinks into a yea
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears do not establish ownership. |
-| Pugnahan | Not valid; disturbance raises memory-mass. | N/A | Never drain or strike the Lake. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not establish ownership. |
+| Pugnahan | Not valid; disturbance raises memory-mass. | Negative-Low | Never drain or strike the Lake. |
 | Viderehan | Reveals deep historical layers. | Stable | Catalogue provenance uncertainty. |
-| Ferrehan | Tests remaining beside another life. | Down | Maintain two identity anchors. |
+| Ferrehan | Tests remaining beside another life. | Decrease | Maintain two identity anchors. |
 
 **Resolution:** Seal access and catalogue memories without claiming them.  
 **Expansion:** Unrecorded memories overflow through subterranean channels into Gardens and dreams.  
@@ -99,13 +99,3 @@ A memory may be shaped only after it surfaces voluntarily, is witnessed, and rec
 **Primary source:** `SE-C-IVγ-270_Memory_Lake_기억의_호수.md`
 
 **Formal-ID note:** `SE-270` is assigned to Mnemosyne. Neglect Learned to Listen (`N-IIβ-270`) is deferred for a unique formal ID.
-
----
-
-**Document ID:** `SE-270-A`  
-**Linked Entity:** `SE-270`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

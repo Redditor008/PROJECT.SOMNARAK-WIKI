@@ -47,15 +47,15 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_02_WEIGHTING_BIRD.md",
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-A__SIDE_CODEX_The_Weighting_Bird.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-B__MAW-W_The_Judgment_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-B__MAW-W_The_Calibrated_Scale_Pistol.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-C__MAW-S_The_Judgment_Plate.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-D__MAW-G_The_Judgment_Scale.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-D__MAW-G_The_Suspended_Balance_Scale.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "sources_read": "Full471-line original including ConsistencyStudy, opinion and SuccessionReport. Exact032A–D complete including all appearances/limits/history/footer (D footer reopened after combined output truncation). Master inventory62–64/detail1037–1090 read in two chunks; Entity372; fullTale8 423–477; Registry62–65/archetype71/disposition124. Primary2026-10-11 full-set note, WIP5184–5200 and CHANGELOG4447 establish priorBatch94unit1.",
   "history": "Batch94unit1 40fecbc6 explicitly reviewed full set and exactWeapon pair, following primary/itemcorrections73560193/89e04568. Its absence from incremental equipment_reviews is baseline absorption, not fresh coverage. No repeated Types/Weapon credit.",
@@ -109,15 +109,15 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "after_words": 8080,
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-A__SIDE_CODEX_The_Weighting_Bird.md": "e5e425b36e2fa3dafaa6b5729446333851406ba5dd2238dc9037989e6cf03301",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-B__MAW-W_The_Judgment_Fang.md": "65f1c73eecab9c084d4a2498db2a1f8ebdb3eb2a4b11eebac849068ec701f6f2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-B__MAW-W_The_Calibrated_Scale_Pistol.md": "65f1c73eecab9c084d4a2498db2a1f8ebdb3eb2a4b11eebac849068ec701f6f2",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-C__MAW-S_The_Judgment_Plate.md": "16860e018ae48e7b627af11d3f2dbf553548cab03e3098fd1c449ab6de171240",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-D__MAW-G_The_Judgment_Scale.md": "25d5420886688ec1cdb0df53c7d489d4727da2f90f36f479c9db9e16f757ad37",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-D__MAW-G_The_Suspended_Balance_Scale.md": "25d5420886688ec1cdb0df53c7d489d4727da2f90f36f479c9db9e16f757ad37",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "validation": {
     "verify": {

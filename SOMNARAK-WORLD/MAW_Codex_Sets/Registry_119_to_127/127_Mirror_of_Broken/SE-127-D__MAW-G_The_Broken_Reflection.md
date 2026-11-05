@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Mirror of Broken work |
 | Bestowal event | A mirror tile settled at the Gate marker after a worker ended Ferrehan by naming several selves as true and leaving with a partner. |
 | Acceptance condition | The candidate chooses a debrief partner who will not demand an immediate permanent self-definition. |
@@ -85,14 +86,3 @@ Yoon used *Keep the Shards* after a Gate-adjacent dream leak made a junior worke
 The Reflection completes *Several True Selves*. Broken Maul disrupts coercive identity Weight and Broken Mantle carries it; this Stigma makes the fragments visible enough that the set does not mistake integration for erasure.
 
 > *“The fragments do not need a court to decide which one is allowed to live.”* — Gate Watch Commander Xyan
-
----
-
-**Document ID:** `SE-127-D`  
-**Linked Entity:** `SE-127`  
-**Item Registry Code:** `MAW-G-127-01`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

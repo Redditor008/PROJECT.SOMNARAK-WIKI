@@ -19,10 +19,10 @@ The Relic formed from an object lost before its owner could say farewell. The em
 | Field | Canonical record |
 |---|---|
 | Source designation | O-Iα-340 [VP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only. Failure does not produce a breach / Place-Void |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void / The Desolate — mobile |
-| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Void |
+| Gauge / Pressure | 000/198; starts 000% · Void — no attack pattern: the outline holds an absence, and contact is standing in its cold (Contact Record, R-36) |
 | Observation | 1 — Initial |
 | Formation event | A traveler froze in the Desolate while carrying a relic no one else could identify. |
 
@@ -30,8 +30,8 @@ The Relic formed from an object lost before its owner could say farewell. The em
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows fragments of the relic's unknown purpose. (Stable) |
 | Ferrehan | Tests whether the worker can remain in the cold without answers. (Decrease) |
 
@@ -40,7 +40,7 @@ The Relic formed from an object lost before its owner could say farewell. The em
 
 ## WITNESS RECORD — *The Apocrypha Source-Trace*
 
-During the The Apocrypha Source-Trace, the field team preserved this source fact: A traveler froze in the Desolate while carrying a relic no one else could identify. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness of an object whose meaning was never explained.
+During *The Apocrypha Source-Trace*, the field team preserved this source fact: A traveler froze in the Desolate while carrying a relic no one else could identify. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness of an object whose meaning was never explained.
 
 ## M.A.W. SET — *Apocrypha — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Apocrypha Source-Trace, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Apocrypha's source condition, the Suit lets a witness bear its Void pressure, and the Weapon severs only the immediate manifestation that violates this rule: Mark the site and speak the farewell that was missed The set cannot heal the originating event. Misuse routes Apocrypha's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1033-A`  
-**Linked Entity:** `SE-1033`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -28,6 +28,10 @@ The Truth Lens is a pale disc of Han glass showing one contradiction across a fr
 |---|---:|---|---|---:|
 | β / Void | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Harmful Contradiction:** The Lens attacks one verified deception producing current harm. It cannot establish a complete truth or target a person for having social masks.
 
 **Cost:** Small nameless memories disappear with each use.
@@ -43,14 +47,3 @@ Stigma detects, Veil contextualizes, Weapon acts only on harm.
 **Maintenance:** Place the disc beside evidence showing both contradiction and context. The fracture clears only when the target is narrower than the person.
 
 **Shutdown:** Lower after the harmful claim stops; do not continue into character judgment.
-
----
-
-**Document ID:** `SE-310-B`  
-**Linked Entity:** `SE-310`  
-**Item Registry Code:** `MAW-W-310-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

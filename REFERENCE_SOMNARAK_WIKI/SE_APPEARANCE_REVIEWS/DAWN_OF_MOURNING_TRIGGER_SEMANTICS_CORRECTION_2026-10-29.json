@@ -1,0 +1,208 @@
+{
+  "record_id": "DAWN_OF_MOURNING_TRIGGER_SEMANTICS_CORRECTION_2026-10-29",
+  "record_type": "owner-reported corrective supplement to the R-34 Dawn recheck; no fresh review credit",
+  "date_local": "2026-10-29",
+  "designation": "C-Vω-001",
+  "name": "Dawn of Mourning",
+  "primary_path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md",
+  "base_commit": "8294d2dd5df0d6536dd9dbe224f6c51d45c4620b",
+  "prior_evidence": [
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_FULL_AUDIT_2026-10-29.md",
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_R34_RECHECK_2026-10-29.md",
+    "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_TABLE_SYNTAX_CORRECTION_2026-10-29.md"
+  ],
+  "owner_report": "The 001 Combat Record Trigger section does not make sense; research other SE to see why.",
+  "before": {
+    "sha256": "966feea825c302710ad17ebf5487a859379e93674f28003817b5e69a591c6e5b",
+    "lines_newline_count": 478,
+    "bytes": 59680,
+    "words_lc_all_c": 9241
+  },
+  "after": {
+    "sha256": "b135dd618293a48708582b404cfbad3d325e4d66a0270dc29c0d331e9125a715",
+    "lines_newline_count": 478,
+    "bytes": 59816,
+    "words_lc_all_c": 9267
+  },
+  "pre_repair_audit": {
+    "audit": "Dawn of Mourning Combat Action Trigger semantics — pre-repair",
+    "base_commit": "8294d2dd5df0d6536dd9dbe224f6c51d45c4620b",
+    "primary": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md",
+    "before_sha256": "966feea825c302710ad17ebf5487a859379e93674f28003817b5e69a591c6e5b",
+    "before": {
+      "lines_newline_count": 478,
+      "bytes": 59680,
+      "words_lc_all_c": 9241
+    },
+    "read_in_full": [
+      "Current Dawn primary",
+      "SE-044-A/B/C/D",
+      "SOMNARAK Battle System Entity Combat Actions section",
+      "SOMNARAK Entity Codex Combat Record and Combat Actions sections",
+      "Existing R-34 full audit F-05 through F-09 and R-34 recheck dispositions"
+    ],
+    "comparative_research": {
+      "ledger_corpus": "301/301 dossiers have Combat Actions tables; 1,471 parsed action rows",
+      "trigger_openers": "1,223/1,471 triggers begin with When; the governing Battle System examples name entity/target states such as agitated or damaged, identifies a threat, hungry or exhausted, health below 50%, or overwhelmed",
+      "category_pattern": "256/301 dossiers use Debuff/Debuff/Attack/Attack/Ultimate; Dawn is one of only two Debuff/Debuff/Debuff/Debuff/Ultimate tables, the other being Sorrow Seed's expressly non-attack measurement set",
+      "ultimate_pattern": "272/299 Ultimate triggers contain an explicit percentage; most non-percentage exceptions name a concrete world event",
+      "dawn_anomaly": "Dawn is the only dossier whose five triggers all function as positions in a prescribed sequence; No Partial Light is the only trigger that cites a previous action title as its condition"
+    },
+    "findings": [
+      {
+        "id": "TRIG-01",
+        "class": "Mechanical inconsistency",
+        "finding": "The Trigger cells do not identify five distinguishable invoking conditions. Rows 1-3 reduce to entering/remains in sight, row 4 to sentence having begun, and row 5 to culmination. They describe order, not triggers."
+      },
+      {
+        "id": "TRIG-02",
+        "class": "Mechanical inconsistency",
+        "finding": "Rows 1 and 2 use identical values and overlapping exposure. Row 2 becomes logically distinct only if its trigger is a target's attempt to endure by restoring partial sight/compartmentalisation."
+      },
+      {
+        "id": "TRIG-03",
+        "class": "Supported response omitted",
+        "finding": "SE-044-A and the primary Behavior rows give discrete projected responses: observation exposes hidden guilt, endurance pins, and aggression is sentenced immediately. The present table ignores aggression and endurance as separate trigger conditions."
+      },
+      {
+        "id": "TRIG-04",
+        "class": "Mechanical/category inconsistency",
+        "finding": "Four Debuff rows erase the standard escalation classes because the Tale says Dawn did not physically attack. Entity Codex categories are Combat Record pressure classes; Attack can be retained for rows 3-4 while prose states that the pressure is sentence through revelation, not a strike or beam."
+      },
+      {
+        "id": "TRIG-05",
+        "class": "Mechanical inconsistency",
+        "finding": "The Mourners row says the twelve take their role after sentence begins, but Origin defines them as becoming Mourners if the chain turns. The repeatable action condition is a Mourner reaching a previously unexposed target, not the one-time role transition."
+      },
+      {
+        "id": "TRIG-06",
+        "class": "Mechanical inconsistency",
+        "finding": "The Ultimate has no checkable threshold or named event. The Core Stat Line already carries the historical/projected Sorrow Gauge >=95% threshold used by comparable Ultimate rows."
+      },
+      {
+        "id": "TRIG-07",
+        "class": "Sequence/model inconsistency",
+        "finding": "The intro and Battle Phases require a fixed five-stage order. That editorial sequence makes the Trigger column redundant and contradicts the Combat Actions format used across the corpus, where rows are invoked by their own conditions and may overlap or recur."
+      }
+    ],
+    "repair_split": {
+      "short": 0,
+      "careful": 7
+    },
+    "retained_holds": "All prior R-34 source forks remain held; this supplement changes only Combat Action trigger/category semantics and dependent sequence wording."
+  },
+  "repairs": [
+    {
+      "id": "TRIG-INTRO-discrete-actions",
+      "kind": "careful combat-trigger correction",
+      "careful": true,
+      "finding_ids": [
+        "TRIG-01",
+        "TRIG-04",
+        "TRIG-07"
+      ],
+      "old": "These rows are a **historical/projected exposure sequence**, not actions available in a current encounter. Read them in order as stages of one judgment — opening judgment, loss of partial sight, sentence, Mourner spread, then city-scale culmination. The segment values are the record's model values; the mechanisms below follow the Tale's rule that the Dawn did not attack, but sentenced through revelation.",
+      "new": "These rows are **discrete historical/projected actions**, not a compulsory five-stage sequence and not actions available in a current encounter. Apply a row when the condition in its **Trigger** cell occurs; rows may overlap, and a row may recur if its condition recurs. `Attack` names the Combat Record's pressure category, not a physical strike — the Dawn still sentences through revelation. The segment values are the record's model values."
+    },
+    {
+      "id": "TRIG-1-first-exposure-observation",
+      "kind": "careful combat-trigger correction",
+      "careful": true,
+      "finding_ids": [
+        "TRIG-01",
+        "TRIG-03"
+      ],
+      "old": "| { *The Four Sorrows* [**Debuff**] } | \"The judgment opens as one act in four registers — grief, rage, weight and the hollow, arriving in sequence rather than as four separate blows.\" | [A person entering the Dawn's full sight is judged through all four sorrows in the order shown; no random first-arriving mark selects only one.] | *Opening judgment: apply the full Mixed cycle once to each exposed target.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP); 8s total, 2s per type]** | At formation or on first entry into full sight, in the historical/projected sequence. |",
+      "new": "| { *The Four Sorrows* [**Debuff**] } | \"The judgment opens as one act in four registers — grief, rage, weight and the hollow, arriving in sequence rather than as four separate blows.\" | [A person who comes under the Dawn's gaze — or tries to observe it — has grief and hidden guilt shown in all four registers; no random first-arriving mark selects only one.] | *First-exposure judgment: apply the full Mixed cycle once to each newly exposed target.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP); 8s total, 2s per type]** | When a target first enters the Dawn's sight or attempts to observe it. |"
+    },
+    {
+      "id": "TRIG-2-failed-partial-sight",
+      "kind": "careful combat-trigger correction",
+      "careful": true,
+      "finding_ids": [
+        "TRIG-01",
+        "TRIG-02",
+        "TRIG-03"
+      ],
+      "old": "| { *No Partial Light* [**Debuff**] } | \"Nothing flows through the wall. The wall simply stops giving you a partial view: every grief unmourned and every guilt unabsolved remains in the same light.\" | [The revelation finishes removing partial sight. Each two-second stage closes another compartment; it does not start a second, independent opening judgment.] | *Continuing exposure while concealment and compartmentalisation fail; use the opening cycle's values for sustained pressure, not as a second first mark.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP); 8s total, 2s per type]** | After *The Four Sorrows*, while the target remains within the Dawn's sight. |",
+      "new": "| { *No Partial Light* [**Debuff**] } | \"Nothing flows through the wall. The wall simply stops giving you a partial view: every grief unmourned and every guilt unabsolved remains in the same light.\" | [Turning away, taking cover, resuming a routine or separating one revealed burden from the rest does not restore a partial view; each attempted compartment closes under the same light.] | *Sustained revelatory pressure at the opening cycle's values for each failed attempt to restore partial sight; this is not a second first-exposure mark.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP); 8s total, 2s per type]** | When an exposed target tries to look away, take cover, resume a routine, or compartmentalise what has been revealed. |"
+    },
+    {
+      "id": "TRIG-3-aggression-sentenced",
+      "kind": "careful combat-trigger correction",
+      "careful": true,
+      "finding_ids": [
+        "TRIG-01",
+        "TRIG-03",
+        "TRIG-04"
+      ],
+      "old": "| { *The Mourning Light* [**Debuff**] } | \"The light is cold. It does not burn; it leaves nothing unshown.\" | [The judgment fixes into sentence as the grief and guilt already revealed become impossible to set aside. No beam is projected and no target needs to confront the Dawn.] | *Sentence stage: apply the increased Mixed cycle as revelation and Fracture pressure, not as thermal or beam damage.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP); 8s total, 2s per type]** | When an exposed target remains in full sight after partial sight fails. |",
+      "new": "| { *The Mourning Light* [**Attack**] } | \"The light is cold. It does not burn; it leaves nothing unshown.\" | [Aggression receives sentence, not a beam or counter-blow: the grief and guilt already revealed become impossible to set aside.] | *Immediate sentence pressure: apply the increased Mixed cycle as revelation and Fracture pressure, not as thermal or beam damage.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP); 8s total, 2s per type]** | When aggression or confrontation is directed at the Dawn (projected Pugnahan response). |"
+    },
+    {
+      "id": "TRIG-4-mourner-relay",
+      "kind": "careful combat-trigger correction",
+      "careful": true,
+      "finding_ids": [
+        "TRIG-01",
+        "TRIG-04",
+        "TRIG-05"
+      ],
+      "old": "| { *The Mourners* [**Debuff**] } | \"The twelve who carried mercy now carry the sentence onward.\" | [The twelve blessing recipients become Mourners and carry the Dawn's revelatory perspective beyond its immediate sight, spreading the judgment and Fracture condition. This is not a counterattack and does not require the Dawn to be attacked.] | *Escalation stage: apply the higher Mixed cycle to targets newly reached through the Mourners. No separate target-gauge rise is specified.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP); 8s total, 2s per type]** | After sentence begins, when the blessed twelve take up the Mourner role in the projected sequence. |",
+      "new": "| { *The Mourners* [**Attack**] } | \"The twelve who carried mercy now carry the sentence onward.\" | [One of the twelve Mourners carries the Dawn's revelatory perspective to a person beyond its immediate sight; the newly reached target is judged through relay rather than by direct gaze.] | *Relayed sentence pressure: apply the higher Mixed cycle to each target newly reached through a Mourner. No separate target-gauge rise is specified.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP); 8s total, 2s per type]** | When a previously unexposed target encounters one of the twelve Mourners. |"
+    },
+    {
+      "id": "TRIG-5-gauge-ceiling",
+      "kind": "careful combat-trigger correction",
+      "careful": true,
+      "finding_ids": [
+        "TRIG-01",
+        "TRIG-06"
+      ],
+      "old": "| { *The Mourning of All Things* [**Ultimate**] } | \"The dawn comes up and everything that has ever sorrowed grieves at the same moment.\" | [The sentenced population and the Mourners remove the city's remaining compartments; ordinary routines fail because no partial sight remains by which to resume them.] | *The city is functionally unmade rather than literally erased. Historical-branch accounts preserve witnesses and a later re-dimming; no current-cycle formation or complete tactical observation exists, and no segment values are supplied.* **[Projected]** | As the culmination after sentence and Mourner spread — not at the instant of formation. |",
+      "new": "| { *The Mourning of All Things* [**Ultimate**] } | \"The dawn comes up and everything that has ever sorrowed grieves at the same moment.\" | [At the model's ceiling, direct and Mourner-carried revelation leave the exposed population no functioning partial sight; ordinary routines fail because none remains by which to resume them.] | *The city is functionally unmade rather than literally erased. Historical-branch accounts preserve witnesses and a later re-dimming; no current-cycle formation or complete tactical observation exists, and no segment values are supplied.* **[Projected]** | When the historical/projected Sorrow Gauge reaches ≥95%. |"
+    },
+    {
+      "id": "TRIG-PHASE-no-fixed-order",
+      "kind": "careful combat-trigger correction",
+      "careful": true,
+      "finding_ids": [
+        "TRIG-01",
+        "TRIG-07"
+      ],
+      "old": "2. **Clash (none):** No clash is possible or planned. If the historical/projected sequence is used, it runs opening judgment → loss of partial sight → sentence → Mourners → city-scale culmination. Attacking the Dawn is not modelled as a reliable response.",
+      "new": "2. **Clash (none):** No clash is possible or planned. If the historical/projected model is used, do not run the five rows in a fixed order: resolve each one when its Trigger condition occurs, including repeated evasive, aggressive or Mourner-relayed exposure. Direct aggression invokes *The Mourning Light* and is not modelled as a reliable response."
+    }
+  ],
+  "repair_count": 7,
+  "split": [
+    0,
+    7
+  ],
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-A__SIDE_CODEX_Dawn_of_Mourning.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-B__MAW-W_The_Dawn_of_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-C__MAW-S_The_Dawn_of_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-D__MAW-G_The_Dawn_of_Charm.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-A__SIDE_CODEX_Dawn_of_Mourning.md": "d72e589ba3e1b1f16ce2eddc32055927d0210f8f0707376ec4e236ae9b72414b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-B__MAW-W_The_Dawn_of_Requiem.md": "f888a896a0d6b629aa4c464d9ccf1d8fcfe849eccfa51a29b6fd3ed5b3407732",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-C__MAW-S_The_Dawn_of_Shroud.md": "47f0976072884f8e07ee30d81b8c8c720290f88fb11accaebbe574b118d109fe",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-D__MAW-G_The_Dawn_of_Charm.md": "b106d7bbda34a2fd6736bc40cec2d882a18dfdac6fb1a2fe3e19fd275d98cfa1",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md": "197ede3fea8a6f7a82404177548429e54b34bdb267652785b23b14faccb03e8b",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
+  },
+  "checks": {
+    "verify": "PASS",
+    "tpl": "PASS (RESIDUE 0)",
+    "sectfile": "PASS (0 sections over 0.05)",
+    "wikistd": "PASS (meets True)",
+    "sect": "GENERIC 0.002 (12 shared shingles)",
+    "all_table_blocks_equal_cell_counts": true,
+    "exact_replay_from_frozen_before": true
+  },
+  "outcome": "HELD +0. Trigger semantics corrected; all prior essential Dawn source forks remain held. No appearance, Types or Weapon credit is created."
+}

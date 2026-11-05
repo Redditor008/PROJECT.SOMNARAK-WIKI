@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-101 [LS]`  
 **Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Echo Gardens seated-presence containment
 
@@ -61,10 +61,10 @@ Emberling looks warm but is surrounded by a cold that settles in the wrists and 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Reaches toward the worker, seeking warmth. | Down | Offer presence, not a promise of permanent rescue. |
-| Pugnahan | Recoils in fear of being hurt. | Up | Do not crowd, raise a weapon, or use a loud command. |
+| Flerehan | Reaches toward the worker, seeking warmth. | Decrease | Offer presence, not a promise of permanent rescue. |
+| Pugnahan | Recoils in fear of being hurt. | Increase | Do not crowd, raise a weapon, or use a loud command. |
 | Viderehan | Watches with cautious curiosity. | Stable | Observe from a seated position and let the child set the distance. |
-| Ferrehan | Sits near the worker and shares the ember’s presence. | Down | Stay until a named relief arrives; do not leave while the ember is dimming. |
+| Ferrehan | Sits near the worker and shares the ember’s presence. | Decrease | Stay until a named relief arrives; do not leave while the ember is dimming. |
 
 ### Breach response
 
@@ -85,9 +85,9 @@ This set protects against cold and isolation without pretending that equipment c
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Cinder-Breech Carbine | β | Lament | Direct response to isolation-driven pressure | `SE-101-B__MAW-W_The_Ember_Requiem.md` |
-| Suit | The Hearth-Watcher's Ashen Cloak | β | Lament | Protection against emotional cold and abandonment surge | `SE-101-C__MAW-S_The_Ember_Shroud.md` |
-| Stigma | The Smoldering Charcoal Brooch | β | Lament | Short-lived protection from physical and emotional cold | `SE-101-D__MAW-G_The_Ember_Cloak.md` |
+| Weapon | The Cinder-Breech Carbine | β | Lament | Direct response to isolation-driven pressure | `SE-101-B__MAW-W_The_Cinder_Breech_Carbine.md` |
+| Suit | The Hearth-Watcher's Ashen Cloak | β | Lament | Protection against emotional cold and abandonment surge | `SE-101-C__MAW-S_The_Hearth_Watcher_s_Ashen_Cloak.md` |
+| Stigma | The Smoldering Charcoal Brooch | β | Lament | Short-lived protection from physical and emotional cold | `SE-101-D__MAW-G_The_Smoldering_Charcoal_Brooch.md` |
 
 ---
 
@@ -170,13 +170,3 @@ This set protects against cold and isolation without pretending that equipment c
 **Entity links:** The Forgotten Soldier; The Grieving Colossus; The Hollow Choir; The Smothering Mother.  
 **Care distinction:** Standard heaters and R.D. blankets are manufactured equipment; they must not be confused with Unspent Ember M.A.W. or used to justify ending companionship protocol.  
 **Item links:** `SE-101-B`, `SE-101-C`, and `SE-101-D` record the individual history and memory-cost safeguards.
-
----
-
-**Document ID:** `SE-101-A`  
-**Linked Entity:** `SE-101`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

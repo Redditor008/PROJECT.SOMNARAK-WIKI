@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Sorrow Mantle
 
-> *“The Sorrow Mantle remembers The Sorrow Seed; the bearer must not mistake memory for permission.”*
+> *"Whatever is set down in the wearer's presence takes root in them, and they end the season carrying a crop they never planted."*
 
 ---
 
@@ -17,7 +17,13 @@
 
 **Grade / Element:** α / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Sorrow Seed's kind of pressure.  
-**Binding rule:** the bearer names The Sorrow Seed's event—A grief fragment crystallized in the Echo Gardens and entered dormancy.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names The Sorrow Seed's event — “A grief fragment crystallized in the Echo Gardens and entered dormancy.” — and accepts this limit: measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment.  
+**Gauge:** 000/174; opens at 000%; 2–7 per landed Weight hit.
+
+
+### Appearance
+
+A draped mantle of Weight Han-weave, dark as river stone and heavier than the weave can reasonably carry, with a faint scent of its place of origin left in the folds.
 
 ## CORE STATISTICS
 
@@ -25,33 +31,26 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes The Sorrow Seed's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Seed Source-Trace: Suit Record*
+**Operational / binding cost:** The Mantle makes the wearer into soil: while worn, everything set down in their presence takes root in them. Worn long, they are carrying a season they did not plant.
 
-The first The Sorrow Mantle field bearer encountered this source response: Tests whether the worker can hold potential without planting it. The suit redirects the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+## ITEM-SPECIFIC HISTORY — *The Sorrow Seed Source-Trace: Suit Record*
+
+The first bearer of The Sorrow Mantle encountered this source response: Tests whether the worker can hold potential without planting it. The suit redirects the immediate hazard only after the team attributed it to The Sorrow Seed. A wearer carried a season they had not planted and could not say what had taken root in them, and the Mantle’s binding is the growing schedule filed from that ward.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Sorrow Seed's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the rooting reaches things set down by other people in the wearer’s presence, and the wearer feeds a garden they never agreed to.
 - Terminal state: The Sorrow Seed's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1031 -->
+**Failure mode:** violating “measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment.” reverses the item’s benefit and raises the source Gauge — a 000/174 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Sorrow Mantle only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Sorrow Mantle; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Seed — Witnessed Form*, The Sorrow Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1031-C`  
-**Linked Entity:** `SE-1031`  
-**Item Registry Code:** `MAW-S-1031-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *The Sorrow Seed — Witnessed Form*, The Sorrow Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can pull one thing out by the root; the first season they cannot, the Mantle is out.

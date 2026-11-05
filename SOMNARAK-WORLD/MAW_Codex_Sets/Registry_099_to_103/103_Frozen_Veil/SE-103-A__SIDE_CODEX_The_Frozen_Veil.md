@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-103 [VS]`  
 **Author:** Environmental Hazard Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Alpha Tree deep-storage emotional-temperature containment
 
@@ -61,10 +61,10 @@ Thermometers remain ordinary while people report an impossible cold. The Veil’
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Genuine tears crack and melt a small portion of the ice. | Down | Tears must be voluntary; staged emotion strengthens the emotional distance instead. |
+| Flerehan | Genuine tears crack and melt a small portion of the ice. | Decrease | Tears must be voluntary; staged emotion strengthens the emotional distance instead. |
 | Pugnahan | Remains unmoved. | Stable | Do not mistake lack of reaction for a safe target. |
 | Viderehan | Reveals how emotional distance forms. | Stable | Maintain a living-attachment check every five minutes. |
-| Ferrehan | Drains a worker’s emotions; enduring the emptiness lowers the Gauge. | Down | Use only with two external anchors and a maximum exposure clock. |
+| Ferrehan | Drains a worker’s emotions; enduring the emptiness lowers the Gauge. | Decrease | Use only with two external anchors and a maximum exposure clock. |
 
 ### Breach response
 
@@ -169,13 +169,3 @@ The set offers powerful resistance to manipulation and Void pressure. Its price 
 **Entity links:** The Kind Healer; The Smothering Mother; The Frozen Tear; The Hollow Choir; Risus.  
 **Current handling note:** The Kind Healer’s refusal to approach is an interaction boundary, not an instruction to force healing contact.  
 **Item links:** `SE-103-B`, `SE-103-C`, and `SE-103-D` contain the detailed memory, anchor, and shutdown history for Warmth at Risk.
-
----
-
-**Document ID:** `SE-103-A`  
-**Linked Entity:** `SE-103`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

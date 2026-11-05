@@ -1,0 +1,166 @@
+{
+  "unit": 2,
+  "name": "Grimoire",
+  "designation": "C-IIβ-906",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_02_GRIMOIRE.md",
+  "status": "held",
+  "no_change": false,
+  "opening_words": 7219,
+  "before_words": 7219,
+  "short_stage_words": 7248,
+  "after_words": 7351,
+  "sha256": "d60e510ce1f28158552c87712cbed955a92f0a5f5a427400f4d214138ad4903b",
+  "final_sha256": "4c379666fae0c44d7bf354f243d866937551a10d8f3558b37caaad6c8b17a6b7",
+  "base": "196aa46ea6780d70e78437c4c35df5ad3750506e",
+  "summary": "Nine supported repairs (3 short / 6 careful; 7219→7351 words) align the visible writing record with what instruments actually show, correct the reader trigger and study precision, replace the unsupported read-aloud action with an explicitly held conflict, qualify the uncorroborated sector-wide collapse, distinguish a stationary source from carried Tool use, and expose the self-writing/read-trigger breach conflict without inventing a mode. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "Its most unsettling element is still the institution: a book that returns one person's unraised grievance, and a facility that turns blank pages into job screening while insisting it has relied on no accusation. The blank-page practice is a moral trap, not just a haunted-book twist. Yet the file's protocols disagree about opening, reading, and what the pages can do; those contradictions should stay unresolved rather than be converted into mechanics.",
+  "reasoning": "R-33 design chain: Object → Object-Tale / Grudge → the local rage-that-does-not-cool and the facility's record of unraised grievances → a non-organic leather tome with vellum, dry ink, reader-specific first-person text and blank readings → a stationary volume on a weighted lectern, with a separately recorded carried I-Relic mode that does not move the source → Viderehan and Ferrehan permit observation/endurance without reading, while aloud reading is prohibited → ordinary self-writing is documented, but the breach record says expansion is reader-triggered and also claims sector-wide propagation, against the no-breach and single-reader accounts → equipment transmits grievance effects but its conflicting weapon form does not establish a second body or a source transformation. The changes bring the narrative language closer to witnessed evidence while leaving the essential page-generation, breach, and equipment relationships held.",
+  "history": "Batch 141's completed fresh review is already in the durable WIP/CHANGELOG history. It recorded a +1 ALL M.A.W. Types Appearance and +1 Weapon disposition for Grimoire, after reviewing the exact C-IIβ-906 / SE-906-B / MAW-W-906-01 pair; the current inherited counters include those credits. Batch 141 also separated the stationary containment volume from the carried I-Relic mode and held the Folio-versus-blade mismatch. This B181 review is the separate SE-body pass and may not award duplicate Types/Weapon credit. Older Batch 57 / 01a0c5f / 4d61f50 entries concern primary interaction/prose work, not an earlier exact equipment-pair disposition.",
+  "holds": [
+    "The source remains a stationary Object, but the breach record says page expansion occurs only while being read and stops on closure, while the operational record says the book writes itself during containment and instructs staff not to open it to stop writing. The primary also says it has never breached, whereas the combat/breach passages describe a sector-wide Tale Collapse and a volunteer-required breach. No opening or test was authorized to resolve this.",
+    "The standing protocol says nothing is read aloud, but the older combat entry records six read-aloud occasions. It is now explicitly marked as unresolved; the current action does not claim that a spoken line halts writing or is heard by the book. Four closures by someone other than the reader also remain unreconciled with the timed attendant closure.",
+    "Reader-specific text, blank photographs and the statement that only one reader receives a page conflict with the alleged propagation to every blank surface and an area effect on the whole wing. The 20-per-cycle / three-cycle sector damage remains an uncorroborated combat entry, not an established visual or behavioral state.",
+    "The study confirms ninety-one per cent of checkable particulars, while several other sections call the account always accurate or say it has never been shown wrong. The cohorts/periods also differ: 340 openings in the verification study versus 411 closed-cover cycles in the combat record and 188 handwriting identifications. No totals were substituted or reconciled.",
+    "Weapon form remains split: the primary describes a single-edged script blade; the MAW-W-906 archetype says Folio Blade with a book block, spine, double pages and citation ticks, and the registry has variable damage/speed/range placeholders. Side B supplies lore, not a physical transformation or a form/range crosswalk. Suit/Token construction remains incompletely crosswalked as well.",
+    "The primary says extraction is authorized but never performed, while its M.A.W. equipment is described as carried/issued and its Token has an acquisition record. Side A-D contain `Not recorded` fields and do not settle a shared extraction chronology. No equipment or source file was changed.",
+    "The disposition index calls Grimoire Neutral and says no pairing is recorded or can be staged, while the primary's interaction record contains co-presence with Unheard and a recorded transit by The Undelivered Thanks. The unchanged/null effects support Neutral, but the index wording and primary record are inconsistent; the index was not silently edited.",
+    "The entity codex explicitly lists C-IIβ-906 among dossiers awaiting a row; no dedicated Grimoire M.A.W. master entry or Tale 906 was found by exact designation/name searches. Missing codex material was not invented."
+  ],
+  "r18_split": {
+    "batch_short": 3,
+    "careful_detail": 6
+  },
+  "repairs": [
+    {
+      "id": "first_weight_invisible_writing",
+      "kind": "short",
+      "old": "\"It is writing while you watch, and the hand is one you recognise.\"",
+      "new": "\"The frame before shows blank vellum; the frame after shows finished text; no frame between them exists on any instrument.\""
+    },
+    {
+      "id": "tale_surge_reader_trigger",
+      "kind": "short",
+      "old": "When somebody with an outstanding complaint stands over it.",
+      "new": "When a reader opens it: the story changes depending on who opens it."
+    },
+    {
+      "id": "continued_exposure_blank_readers",
+      "kind": "short",
+      "old": "**With continued exposure:** Nothing changes for the Warden who does not read. For the one who does, the page is immediately and specifically about them, which readers consistently describe not as frightening but as being recognised.",
+      "new": "**With continued exposure:** Nothing changes for the Warden who does not read. For the one who does, the page is immediately and specifically about them, which readers consistently describe not as frightening but as being recognised. The study records forty-seven blank results among three hundred and forty openings; a text-filled page is not guaranteed."
+    },
+    {
+      "id": "u2-r04-position-movement-disclosure",
+      "kind": "careful-detail",
+      "old": "| **Position / movement** | Fixed on its lectern under a weighted cover during containment. For the separately recorded Tool use, the relic works while carried and will not operate for a room. What expands during an event is the number of pages filled, and that advances only while somebody is reading. |",
+      "new": "| **Position / movement** | Fixed on its lectern under a weighted cover during containment. The separately recorded Tool use carries the relic, not the source; it does not operate for a room. The operational record says the book writes itself. This profile's breach note says page expansion occurs only while read; the file does not reconcile those accounts. |"
+    },
+    {
+      "id": "u2-r05-tale-surge-accuracy-and-reader-account",
+      "kind": "careful-detail",
+      "old": "| { *The Tale Surge* [**Attack**] } | \"The entry is about something that has not been settled, and the account is accurate.\" | [A page fills with a true account of an unresolved grievance involving somebody present.] | *18 Grudge to the person it concerns; the account has never been shown to be wrong.* **[18 Grudge DMG [Grudge]]** | When a reader opens it: the story changes depending on who opens it. |",
+      "new": "| { *The Tale Surge* [**Attack**] } | \"The page carries an unresolved grievance; its authority is not the same as proof.\" | [An open page presents one reader with a first-person account; a second person may see unrelated text or nothing.] | *18 Grudge to the reader the account concerns. The study confirmed ninety-one per cent of checkable particulars, not every claim.* **[18 Grudge DMG [Grudge]]** | When a reader opens it: the story changes depending on who opens it. |"
+    },
+    {
+      "id": "u2-r06-unraised-line-no-aloud-protocol",
+      "kind": "careful-detail",
+      "old": "| { *The Settling* [**Attack**] } | \"Somebody reads a line out loud and the book stops to listen.\" | [Reading aloud halts the writing and transfers its subject to the reader.] | *26 Grudge to the reader, who afterwards carries the grievance as their own.* **[26 Grudge DMG [Grudge]]** | When any line is read aloud in the chamber. Six occasions, all six by workers who thought it might help. |",
+      "new": "| { *The Unraised Line* [**Attack**] } | \"The standing order says nothing is read aloud.\" | [A reader's account is first-person and reader-specific; another person sees unrelated text or nothing.] | *26 Grudge to the reader. An account cannot be used as an institutional finding.* **[26 Grudge DMG [Grudge]]** | When a reader opens the volume. Six read-aloud occasions are listed, all by workers who thought it might help; this conflicts with the standing order and remains unresolved. |"
+    },
+    {
+      "id": "u2-r07-tale-collapse-conflicting-area-claim",
+      "kind": "careful-detail",
+      "old": "| { *The Tale Collapse* [**Ultimate**] } | \"Every blank surface in the wing takes a line of the same hand.\" | [The writing propagates to walls, forms and ledgers across the sector.] | *20 Grudge per cycle for three cycles to everybody in the wing.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once; the sector's forms were destroyed and the incident is the reason the page count is reported weekly. |",
+      "new": "| { *The Tale Collapse* [**Ultimate**] } | \"The combat log claims every blank surface in the wing takes a line of the same hand; photographs of a filled page develop blank.\" | [Reported propagation to walls, forms and ledgers conflicts with reader-specific text and blank photographs; no mechanism or second visual form is recorded.] | *20 Grudge per cycle for three cycles to everybody in the wing is an uncorroborated area claim, not an established response.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once; only this combat row reports the sector's forms destroyed. Its relation to the record that the holding has never breached remains unresolved. |"
+    },
+    {
+      "id": "u2-r08-breach-self-writing-versus-read-trigger",
+      "kind": "careful-detail",
+      "old": "| **Breach Type** | Expansion — in pages, and only while being read. |\n| **Movement** | Nothing moves and nothing is released. An unopened Grimoire expands by nothing at all; the event consists entirely of pages filling, and it stops when the cover is closed. This holding is the only one in the wing whose breach requires a volunteer. |",
+      "new": "| **Breach Type** | Expansion — the breach entry describes pages filling only while being read. The operational record says the book writes itself; whether these are separate modes or a contradiction is unresolved. |\n| **Movement** | The physical volume remains on its lectern; no physical movement or release is reported. This entry says an unopened volume expands by nothing and closing the cover stops the event, but the containment log records self-writing under a no-opening protocol. Do not open it to test the discrepancy. The file calls this a volunteer-required breach, while the Registrum says it has never breached. |"
+    },
+    {
+      "id": "u2-r09-field-use-limit",
+      "kind": "careful-detail",
+      "old": "| **At limit** | The operator reads a line aloud, or the cover is closed by somebody other than them. Both measures are recorded; the second has happened four times and each one is written up as a failure of the first. |",
+      "new": "| **At limit** | The attendant closes the cover at the two-minute limit; nothing is read aloud under the standing protocol. Four closures by someone other than the reader are recorded, but the entry does not reconcile them with the timed closure or no-aloud rule. |"
+    }
+  ],
+  "validators": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.011  clean   187 grams  Breach Behavior\n 0.009  clean   332 grams  M.A.W. Equipment\n 0.009  clean   582 grams  기록 (Registrum)\n 0.007  clean  1459 grams  Watch Record\n 0.002  clean   526 grams  Combat Record\n 0.000  clean   439 grams  Activation Behavior\n 0.000  clean   244 grams  이야기 (Narratio)\n 0.000  clean   227 grams  Appearance\n 0.000  clean   216 grams  이야기 보고 (Story Log)\n 0.000  clean   190 grams  Origin\n 0.000  clean   188 grams  Operational Parameters\n 0.000  clean   185 grams  감각 묘사 (Flavor Text)\n 0.000  clean   117 grams  증언 (Testimonium)\n 0.000  clean   108 grams  관찰 기록 (Observation Log)\n 0.000  clean    51 grams  Trivia\n 0.000  clean    47 grams  Behavior\n 0.000  clean    38 grams  최종 관찰 (Final Observation)\n 0.000  clean    27 grams  SECC Classification\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   86   1  | { *The Tale Collapse* [**Ultimate**] } | \"The combat log claims every blank surface in the wing takes a line of the same hand; p\n  163   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per page filled since the event began, so the gauge counts pages and not \n  271   3  **Effect:** +1 to the working stat on this holding's cycles. The token's line is different for every bearer, no bearer has shown i\n  368   1  - Viderehan and Ferrehan are the valid Work Types and neither has ever required the cover to be lifted.\n  376   2  **Operational interpretation:** The three sections below are one argument. The accounts are true and checkable — the Archive has v\n  384   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  451  10  The minute records the objection as **correct in all three parts**. It records that a remedy was drafted in the forty-sixth year a\nGENERIC 0.004  (21 shared shingles)  SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-A__SIDE_CODEX_Grimoire.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-B__MAW-W_Grimoire_s_Edge.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-C__MAW-S_Grimoire_s_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-D__MAW-G_Grimoire_s_Token.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-A__SIDE_CODEX_Grimoire.md": "046609e5c07317848b80150cf57b6f11e1a2f9b6d3998c5b9bf476b98ac6e3f4",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-B__MAW-W_Grimoire_s_Edge.md": "86789be3abda5aef6f2faf7c22e0bd2803971a01fdaf822c81fa4434d5bd57f0",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-C__MAW-S_Grimoire_s_Veil.md": "dc2587e3b85f5f848b09371d3ec7ccfb40595f9909f40cd62b2832fa505c6be1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-D__MAW-G_Grimoire_s_Token.md": "ab08989addf41047010fcc95d1482029cfd0d1ae181c53f7d87a35ce990ce400",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md": "973a8b4ee120f31c2e8a557b72bcfb09765901c6dc24af2d3fe5491bbf5118b9",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "table_link": "[Grimoire](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-906_Grimoire_%EC%8A%A4%EC%8A%A4%EB%A1%9C_%EC%93%B0%EB%8A%94_%EC%B1%85.md \"SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md\")",
+  "reading": {
+    "before_lines": 463,
+    "after_lines": 463,
+    "before_bytes": 43271,
+    "after_bytes": 44267
+  },
+  "integrity": {
+    "repair_reconstruction_from_opening": true,
+    "other_opening_pending_fingerprints_unchanged": 118,
+    "other_opening_pending_fingerprints_total": 118,
+    "physical_form_row_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_artifacts_hashed": 11,
+    "visual_art_or_browser_inspection": "not performed / not in scope"
+  }
+}

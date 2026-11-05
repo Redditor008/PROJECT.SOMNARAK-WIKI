@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A massive dead tree that has uprooted to walk on knotted root-legs, its hollow trunk a gaping mouth that drags in whatever passes — a lumbering plant-creature of stripped bark. Lead-cold, it smells of wet stone. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile — stands rooted for weeks, then walks slowly on knotted root-legs inside the Gardens. Relocations are found in the morning rather than witnessed. Log the new position, lean and mouth against the floor grid instead of waiting to watch it move. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -30,6 +30,8 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per cycle, worked by sitting inside the trunk. The Gardens' return notes that this is the only holding in Zone D where the worker is inside the entity for the whole session. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **SE Effect** | **On the breach** — Through a Tide the quiet widens at the acoustic rings while the trunk itself does not change at all. |
+| **Work Damage** | 4–8 Weight — the cost is a canopy nothing in the trunk can hold, carried anyway |
 | **Activation threshold** | 2 — counts down; the second ignored condition breaches it |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -52,10 +54,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.30 m/s |
-| **Resistance** | 40% against Weight. The trunk has never been cut; the one proposal to take a core sample is in the file under its author's name and was refused on the ground that the hollow is the entity and a sample would be of nothing. |
+| **Resistance** | 40% against Weight. The trunk has never been cut. The one proposal to take a core sample is in the file under its author's name and was refused on the ground that the hollow is the entity and a sample would be of nothing. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 607/607 |
-| **Han Pressure [ATK]** | 13–29 per hit · Weight |
+| **Sorrow Gauge [HP]** | 750/750 |
+| **Han Pressure [ATK]** | 30–46 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
@@ -70,7 +72,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan in ordinary work. Pugnahan has a recorded response in Behavior and is prohibited there: the roots draw in and the cavity deepens. A response row is not an authorisation to use it. |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit inside or beside the Tree; do not fill it with objects |
 
@@ -81,14 +83,14 @@
 | { *The Echoing Trunk* [**Debuff**] } | "You knock on the trunk — and it echoes, hollow, enormous inside. There is more nothing in there than there is tree." | [The Tree's interior void resonates; the target senses the emptiness.] | *Target suffers -10 Resolve; the hollowness is vast.* **[10 Weight DMG [Weight]]** | When the target touches the Tree. |
 | { *The Leaning* [**Debuff**] } | "The tree sways — too easily, too far — because there is nothing inside to hold it rigid." | [The Tree's structural void makes it unstable; the target feels precarious.] | *Target loses 10 Resolve; everything is hollow and about to fall.* **[10 Weight DMG [Weight]]** | When the target lingers. |
 | { *The Split* [**Attack**] } | "The trunk cracks open — and the void inside expands outward." | [The Tree's shell breaks, releasing the hollow.] | *Inflicts Weight pressure and one wound of expanding emptiness.* **[14-22 Weight DMG [Weight]]** | When the Tree is struck. |
-| { *The Full Topple* [**Attack**] } | "It goes over, and what was inside the trunk is now the shape of the ground." | [The tree falls and the hollow it carried takes the footprint it lands on.] | *24–36 Weight to anybody beneath it; the affected ground afterwards grows nothing and is left unplanted.* **[24-36 Weight DMG [Weight]]** | When it is felled, pushed, or braced. Twice, both during the Year 4,229 attempt to prop it. |
-| { *The Hollow Forest* [**Ultimate**] } | "Every tree in the Gardens splits along the grain and all of them are empty." | [The hollowness propagates through the Gardens' planting.] | *12–20 Weight per cycle for three cycles to everyone among the trees.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once; forty-one trees opened and closed again by morning, and none of them has died. |
+| { *The Full Topple* [**Attack**] } | "It goes over. And what was inside the trunk is now the shape of the ground." | [The tree falls and the hollow it carried takes the footprint it lands on.] | *24–36 Weight to anybody beneath it; the affected ground afterwards grows nothing and is left unplanted.* **[24-36 Weight DMG [Weight]]** | When it is felled, pushed, or braced. Twice, both during the Year 4,229 attempt to prop it. |
+| { *The Hollow Forest* [**Ultimate**] } | "Every tree in the Gardens splits along the grain and all of them are empty." | [The hollowness propagates through the Gardens' planting.] | *12–20 Weight per cycle for three cycles to everyone among the trees.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once. Forty-one trees opened and closed again by morning. And none of them has died. |
 
 ### Battle Phases
 
 1. **Tension:** The warden walks to wherever it has stopped, confirms the trunk is open, and sits down inside it with their back to the inner wall. Nothing is set up; the Gardens' entire apparatus for this holding is a cushion and a notebook.
 2. **Clash:** Flerehan runs long and Ferrehan runs inside the hollow under timing from outside. Pugnahan is prohibited here: it does not fail neutrally, it deepens the cavity, and the cavity is the thing the whole holding is about.
-3. **Resolution:** The hour is sat out inside or beside the trunk and nothing is planted, promised or proposed for the ground. 188 cycles have closed that way and the tree has moved 31 times, always at night, always within the Gardens.
+3. **Resolution:** The hour is sat out inside or beside the trunk and nothing is planted, promised or proposed for the ground. Every sitting has closed that way, and the tree has moved 31 times, always at night, always within the Gardens.
 
 ### Consequences
 
@@ -96,11 +98,15 @@
 - Past about ninety minutes the worker begins describing what they are for. It arrives as relief rather than distress, and the Gardens has recorded it 94 times without a single report of alarm.
 - The set's price is the opposite of its benefit: the wielder can say what their own work is for, clearly, for about a day, and afterwards cannot remember having been able to.
 - An unsat cycle costs nothing dramatic. The tree walks further that night — a median of 40 metres against a median of 9 — and the Gardens finds it somewhere else in the morning.
+- The Gardens' planting budget is given up: land under the canopy is not planted, not surveyed and not let, and the ground is carried on the books as unusable.
+- The holding is a facility asset the Gardens cannot use or dispose of: it is carried on the wing's register as an unusable structure, and no works order has been issued for it in the life of the file.
 
 ## Appearance
 **Physical Form:** An enormous stripped tree that has pulled itself out of the ground and stands on its own roots, the trunk open from base to head height. **Movement:** it walks rarely and slowly, and it goes toward whatever the chamber holds rather than toward people.
 
 **Notable Features:** A cavity that returns nothing, a steady draw on anything loose in the room, and a quiet that spreads outward through the gardens and is measured at fixed radii.
+
+**Reading the hollow:** The stripped trunk on root-legs is the current form, not a settler preserved inside a tree. The Tale follows a planted tree whose intended gathering never arrived; it does not say a planter's body became the trunk. Keep four records apart. The shell is what can be seen and measured: bare branches, stripped bark, lean and mouth position. The cavity is the open interior a worker can sit or stand in, where speech returns nothing. The quiet beyond the bark is an effect read at the rings, not another ring of wood. The standing figure is the Gardens' return set against the Works Office count, not a measure of trunk growth. Ordinary movement is a found relocation inside the Gardens: rooted for weeks, elsewhere by morning, never witnessed on the way. Rooting through a floor and entangling whoever stands there belong to the breach record. The cracking shell, the fall and the garden-wide opening in Combat are named results under their listed triggers. They do not turn the unchanging measured trunk into a cycle of splitting and regrowth. And none of them is permission to strike, brace or fell it in ordinary work.
 
 **Identification Profile**
 
@@ -134,22 +140,21 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The interior warms. The response does not begin until a worker has been in contact longer than most protocols allow, which is why the watches here run long and the wing is short elsewhere. | Decrease |
-| **Pugnahan** | Prohibited. The roots draw in and the cavity gets deeper, so confrontation does not merely fail — it enlarges the thing somebody will later have to sit in. | Increase |
-| **Viderehan** | Ninety-one years of rotas, seen from inside: watering, pruning, the same standard met season after season, and no harvest at any point in it. Gauge holds. | Stable |
-| **Ferrehan** | Sitting inside the cavity for the timed interval, in the dead quiet, with the pressure rising. Four minutes is a good first attempt. | Decrease |
+| **Flerehan** | The interior warms. The response does not begin until a worker has been in contact longer than most protocols allow, which is why the watches here run long and the wing is short elsewhere. | Decrease · High |
+| **Pugnahan** | Prohibited. The roots draw in and the cavity gets deeper, so confrontation does not merely fail — it enlarges the thing somebody will later have to sit in. | Increase · Low |
+| **Viderehan** | Ninety-one years of rotas, seen from inside: watering, pruning, the same standard met season after season, and no harvest at any point in it. Gauge holds. | Stable · Common |
+| **Ferrehan** | Sitting inside the cavity for the timed interval, in the dead quiet, with the pressure rising. Four minutes is a good first attempt. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-All four Work Types are available and three of them work. What the table cannot show is the only variable the Gardens tracks: whether the worker sat inside the trunk or beside it. Inside, the gauge falls nine to fourteen points; beside, two to four; and the difference has held across 188 cycles without exception.
+All four Work Types are available and three of them work. What the table cannot show is the only variable the Gardens tracks: whether the worker sat inside the trunk or beside it. Inside, the gauge falls nine to fourteen points; beside, two to four; and the difference has held across every sitting without exception.
 
 **Reading the response:** A falling gauge means somebody sat in it and did not plan anything for it. It rises on proposals — a planting scheme, a use, a conversion — and has risen four times on schemes that were never spoken aloud, which the Gardens records as a fact and declines to explain.
 ## Breach Behavior
 
-> *"Hollow Tree has broken free. Extends roots through the floor, entangling personnel."*
-
+> *"Hollow Tree has broken free and settled. It takes no interest in personnel. Whatever is underfoot is what it takes, and a crew off the line of the settle is not in the event."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -163,7 +168,7 @@ All four Work Types are available and three of them work. What the table cannot 
 
 - **Breach type:** Escape. It leaves the chamber on root-legs, slowly, and roots itself into whatever floor it reaches.
 - **Containment priority:** Shore the load first and cut the entangled free second, in that order and never the other way. Pugnahan is prohibited; forcing it deepens the hollow and the hollow is what somebody must sit in next week.
-- **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval, against a standing baseline of 607 on the Gardens scale. It settles only once the mass has been shored and the entangled are out, in that order.
+- **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval, against a standing baseline of 750 on the Gardens scale. It settles only once the mass has been shored and the entangled are out, in that order.
 
 ## M.A.W. Equipment
 
@@ -190,7 +195,7 @@ All four Work Types are available and three of them work. What the table cannot 
 
 **Ability:** Absorbs Han-energy from the surrounding environment.
 
-**Cost:** The wielder feels the emptiness of every place they enter.
+**Bearer cost:** The wielder feels the emptiness of every place they enter.
 
 ### M.A.W. Suit — The Hollow Bark-Carapace
 
@@ -209,7 +214,7 @@ All four Work Types are available and three of them work. What the table cannot 
 
 **Ability:** Resistance to Weight against the Han, and the reason a warden can sit a full hour inside the trunk rather than the twenty minutes the unprotected record shows.
 
-**Cost:** A constant low fatigue, and the sense of having been useful at something the wearer cannot name.
+**Bearer cost:** A constant low fatigue, and the sense of having been useful at something the wearer cannot name.
 
 ### M.A.W. Stigma — The Splintered Gullet
 
@@ -224,28 +229,28 @@ All four Work Types are available and three of them work. What the table cannot 
 
 **Ability:** The bearer knows, without checking, whether a thing they are holding was made for a purpose that still exists. Tested 41 times against the Gardens' own stores; 38 correct.
 
-**Cost:** The bearer moves a little slower.
+**Bearer cost:** The bearer cannot pick up a tool without learning what it was made for, and most of what the Gardens stores was made for work that no longer exists.
 
 *Eleven gullets exist. Each was cut from heartwood taken at a long Flerehan watch, and each was issued to the Warden who sat that watch rather than to the wing that scheduled it.*
 
 ### M.A.W. Use Notes
 
-Every piece is hollow somewhere it should not be, and the set does to its wielder what the tree does to a visitor: it makes the question of purpose unavoidable. The benefit is a day of being able to say what your work is for. The cost is that the sentence goes afterwards and the wielder does not notice losing it; the Gardens keeps the written copies for that reason and has eleven of them.
+Every piece is hollow somewhere it should not be, and the set does to its wielder what the tree does to a visitor: it makes the question of purpose unavoidable. The benefit is a day of being able to say what your work is for. The cost is that the sentence goes afterwards and the wielder does not notice losing it. The Gardens keeps the written copies for that reason and has eleven of them.
 
-### M.A.W. Cross-Source Review — Batch 113
+### M.A.W. Cross-Source Review
 
-- **Exact identity:** Primary `C-IVγ-205 [WS]` matches Side A `SE-205-A` by designation; the Side is titled *Timber Maw*, linked as `SE-205`, and its B/C/D records complete `4/4`. The primary remains *Hollow Tree*; the two display names are not merged.
-- **Weapon hold:** The primary preserves both a two-metre living jaw-cleaver and a staff profile; Master Entry 217 and archetype `MAW-W-205` support the cleaver, while `SE-205-B` (`MAW-W-205-01`) and the W-205 personalization note describe a staff. No record documents a transition, so the old Weapon-only hold stands and is not counted again.
-- **Suit and Stigma:** `SE-205-C` expands the primary's bark-fibre carapace with an open protective fold, and its resistance figures align. `SE-205-D` supports Head / 4% / +2 Resolve, clarifying the former generic `+2`; the primary's seed-shaped charm, the item's bark-grain steel mark, Master Entry 219's teeth-ring description, and the Registry's generic Accessory / 5% remain distinct.
+- **Exact identity:** Primary `C-IVγ-205 [WS]` matches Side A `SE-205-A` by designation. The Side is titled *Timber Maw*, linked as `SE-205`, and its B/C/D records complete `4/4`. The primary remains *Hollow Tree*; the two display names are not merged.
+- **Weapon hold:** The primary preserves both a two-metre living jaw-cleaver and a staff profile. Master Entry 217 and archetype `MAW-W-205` support the cleaver, while `SE-205-B` (`MAW-W-205-01`) and the W-205 personalization note describe a staff. No record documents a transition, so the old Weapon-only hold stands and is not counted again.
+- **Suit and Stigma:** `SE-205-C` expands the primary's bark-fibre carapace with an open protective fold, and its resistance figures align. `SE-205-D` supports Head / 4% / +2 Resolve, clarifying the former generic `+2`. The primary's seed-shaped charm, the item's bark-grain steel mark, Master Entry 219's teeth-ring description, and the Registry's generic Accessory / 5% remain distinct.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the tree's current position and last movement, and the wielder's one-sentence statement of what their work is for, written down and dated. |
-| **During use** | Any proposal the wielder makes for the ground the tree is standing on, in any form, including as a joke. |
-| **At limit** | The wielder offers to plant something. Three rotations have reached that point and all three wielders were gardeners by trade. |
-| **After use** | Read the dated sentence back to the wielder a week later and ask whether they still agree with it. Nine of eleven did not recognise having written it. |
+| **Before use** | Name the wielder and each piece carried, the tree's current position and last found movement, and the chamber inventory counted at both doors. For the Gullet, write and date the wielder's one-sentence statement of what their work is for before the piece is taken up. For the Weapon, enter which recorded profile the issued piece follows and leave the other profile out of the day's orders. The file holds both and no field entry merges them. For the Carapace, confirm nothing is packed into its hollow fold. |
+| **During use** | Enter any proposal for the ground the tree stands on, in any form, including as a joke. Keep the tolls apart: with the Weapon, places beginning to feel empty on entry. With the Carapace, the low fatigue and the sense of having been useful at something unnamed. With the Gullet, slower movement beside the ability to say what the work is for. One piece's sign is not evidence about another. |
+| **At limit** | The wielder offers to plant something. Three rotations have reached that point and all three wielders were gardeners by trade. Stand the piece down on that offer whichever piece is carried; do not wait for the other pieces' signs to appear. |
+| **After use** | Return the piece unfilled and count the inventory out again. A week later, read the dated Gullet sentence back and ask whether its author still agrees; nine of eleven did not recognise having written it. Enter Weapon emptiness and Carapace fatigue as their own after-effects with their own dates, not as part of the sentence record. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about a set whose whole effect is a sentence a person can say for one day. Authorise on the written statement and on the week-later reading, not on the rating.
 
@@ -266,7 +271,7 @@ Every piece is hollow somewhere it should not be, and the set does to its wielde
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Figure from the board, acoustic rings read inner to outer, lean and mouth position logged, garden crew's note collected. |
-| **Sustained observation** | The standing figure is returned annually and has risen each time: 418, 511, 607. The trunk, the hollow and the absence of echo are unchanged throughout. |
+| **Sustained observation** | The standing figure is returned annually and has risen each time: 561, 654, 750. The trunk, the hollow and the absence of echo are unchanged throughout. |
 | **Activation or escalation** | A widening quiet at the rings, or any sound from inside the cavity. The acoustic warning leads the gauge by a margin the engineers trust. |
 | **Post-contact review** | Figure, rings, time spent inside the hollow by each worker, and a counsellor's word on anyone who sat a long watch. |
 
@@ -279,7 +284,7 @@ Every piece is hollow somewhere it should not be, and the set does to its wielde
 Hollow Tree walks the Echo Gardens at night on knotted root-legs: a dead tree the height of a building, stripped, with a trunk open from root to crown and nothing inside it. It was planted for a harvest that never came. The Gardens tended it correctly for sixty years and it grew enormous and empty.
 
 **Entry 2 — <Echo Gardens Watch, Year 4238>**
-Standing figure 607 on the Gardens scale, after 511 and 418. Acoustic ring readings show the quiet holding at its established radii. Hollow unchanged by measurement: no growth, no decay, no echo returned from within it in any year of the record.
+Standing figure 750 on the Gardens scale, after 654 and 561. Acoustic ring readings show the quiet holding at its established radii. Hollow unchanged by measurement: no growth, no decay, no echo returned from within it in any year of the record.
 Roots spread through the Echo Gardens. Personnel feel emotional emptiness and loss of purpose. Its hollow interior produces no echo.
 
 **Entry 3 — <Works Office, standing rule>**
@@ -287,7 +292,7 @@ A worker is told the task, the hours, the standard and the pay. A worker is not 
 The emptiness of growing older while never feeling present in one's own life.
 
 **Entry 4 — <Containment Notice>**
-Management: keep the chamber bare, count what goes in and out at both doors, sit the long watches, and put nothing whatever into the cavity. Work response — Flerehan: The interior warms and accepts shared grief. (Decrease); Pugnahan: Roots tighten and the hollow deepens. (Increase); Viderehan: Shows the life and purpose that never filled it. (Stable); Ferrehan: Allows the worker to sit inside its emptiness. (Decrease). It grows slowly during the Sorrow Tide.
+Management: keep the chamber bare, count what goes in and out at both doors, sit the long watches, and put nothing whatever into the cavity. Work response — Flerehan: The interior warms and accepts shared grief. (Decrease); Pugnahan: Roots tighten and the hollow deepens. (Increase); Viderehan: Shows the life and purpose that never filled it. (Stable); Ferrehan: Allows the worker to sit inside its emptiness. (Decrease). Through a Sorrow Tide the quiet widens at the acoustic rings while the trunk itself does not change.
 
 **Entry 5 — <Archive Note>**
 The chamber is kept deliberately empty and the emptiness is provisioning rather than austerity. A hollow that is given something learns that the room provides; a hollow given nothing stays what it is. Personnel carry in only what they will carry out and the inventory is counted at both doors by different people. The garden crews outside keep their own log of which beds have gone quiet and where the birds will no longer settle, in a format copied exactly from a hand nobody at the facility can now identify.
@@ -311,7 +316,7 @@ Inside the trunk, there is no darkness and no cold. There is simply room. You si
 
 **With continued exposure:** Sitting inside it, the question arrives without being asked: what are you for. It is not accusing. Wardens describe it as the most companionable hour in the Gardens and several have asked to be rostered on it repeatedly.
 
-**When the entity activates:** It is somewhere else. Nobody has ever seen it move; the Gardens finds it in the morning, forty metres on, with the root-legs settled as though they had always been there.
+**When the entity activates:** It is somewhere else. Nobody has ever seen it move. The Gardens finds it in the morning, forty metres on, with the root-legs settled as though they had always been there.
 
 **After departure:** You tell somebody what your work is for. Gardens staff do it within the day and the wing's note is that the sentences are usually short, usually true, and usually surprising to the person saying them.
 
@@ -324,13 +329,13 @@ Three relations, all of them things that were kept past their purpose, and all m
 
 ### Entity Interaction Record
 
-Hollow Tree must be kept distinct from the other Gardens holdings and from the trees elsewhere in the archive. Floating Tree keeps a people with no ground; this one keeps ninety-one years of correct work with nothing at the end of it, which is why the figure the wing tracks is a baseline and not a radius.
+Hollow Tree must be kept distinct from the other Gardens holdings and from the trees elsewhere in the archive. Floating Tree keeps a people with no ground. This one keeps ninety-one years of correct work with nothing at the end of it, which is why the figure the wing tracks is a baseline and not a radius.
 
 | Related entity | What it is | What the trunk did | Required record |
 |---|---|---|---|
-| **The Hollow Saint** | The Saint approaches, stops short of the mouth, and withdraws. Four attempts, four withdrawals, at almost exactly the same distance each time. | No change in either holding. The withdrawal distance is 2.8 to 3.1 metres on every occasion. | Measure the stand-off. Do not force the approach; the Saint's own gauge climbs when pressed. |
+| [**The Hollow Saint**](SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md) | The Saint approaches, stops short of the mouth, and withdraws. Four attempts, four withdrawals, at almost exactly the same distance each time. | No change in either holding. The withdrawal distance is 2.8 to 3.1 metres on every occasion. | Measure the stand-off. Do not force the approach; the Saint's own gauge climbs when pressed. |
 | **The Sorrow Flower** | Flowers come up around the root-legs within a day and the holding does not disturb them. They die when it walks, and they come up again wherever it stops. | No change in the figure. The flowering is the only thing this holding has ever been recorded producing. | Photograph the flowering at each halt. The garden crews keep this record, not the wing. |
-| **The Grieving Colossus** | The Colossus stops beside it and stays, sometimes for a day. The acoustic rings go quiet to the outermost for the whole of it and the figure drops eight to twelve points. | Largest reduction on record, and it decays back to trend over about a fortnight. | Read the rings hourly and the figure daily for two weeks after. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | The Colossus stops beside it and stays, sometimes for a day. The acoustic rings go quiet to the outermost for the whole of it and the figure drops eight to twelve points. | Largest reduction on record, and it decays back to trend over about a fortnight. | Read the rings hourly and the figure daily for two weeks after. |
 
 **Interaction procedure:** Baseline watch, pairing inside the garden enclosure, hourly ring readings, bare chamber throughout, and shoring crews standing by for any pairing that involves mass.
 
@@ -372,13 +377,13 @@ Some sorrows mourn what was lost. Hollow Tree mourns what never filled it — th
 - It walks. The chamber is bare by standing order, the doors are counted, and the acoustic ring is read continuously.
 **Observation Notes:**
 - Planted toward a harvest, tended to standard for ninety-one years by eleven rotas, and never once gathered under.
-**Cross-References:** Zone D · The Sunken Pillar · The Vanished Seed · The Grieving Colossus · the Works Office rule on purpose · the Finished Thing showings
+**Cross-References:** Zone D · The [Sunken Pillar](SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md) · The Vanished Seed · [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) · the Works Office rule on purpose · the Finished Thing showings
 **Faction Involvement:** None. The Gardens has twice declined offers from the planting office to make use of the trunk, and both declinations are in this file rather than in the planting office's, because the offers were reasonable and the refusals need the explanation.
 **Originator:** Settlers who planted a tree for a future that never came.
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding asks one question and the suppression condition is a prohibition on answering it with a use. Sitting inside it lowers the gauge nine to fourteen points an hour; proposing a purpose for it raises the gauge, including when the proposal is never spoken. Sixty years of correct tending produced something enormous and empty, and the Gardens' position — argued annually against reasonable people — is that the hollow is the entity and that filling it would not be containment.
+**Operational interpretation:** This holding asks one question and the suppression condition is a prohibition on answering it with a use. Sitting inside it lowers the gauge nine to fourteen points an hour. Proposing a purpose for it raises the gauge, including when the proposal is never spoken. Sixty years of correct tending produced something enormous and empty, and the Gardens' position — argued annually against reasonable people — is that the hollow is the entity and that filling it would not be containment.
 
 **Review requirement:** After every cycle: the position and the distance walked, whether the warden sat inside or beside, the gauge before and after, and any proposal made for the ground. One further item: the one-sentence statements taken under the M.A.W. set are re-read to their authors annually, because they are the only record this holding has produced that anybody has asked to keep.
 ## Apex Record
@@ -389,11 +394,11 @@ Hollow Tree is empty without being dead, and the distinction is the holding's wo
 
 ### Warming the Interior
 
-Its Flerehan response is the gentlest in the Entity-grade files and the most demanding to deliver. Shared grief warms the interior and the gauge falls from its 607 baseline, but the warmth requires presence of a particular duration — brief work produces nothing measurable, and the response curve does not begin until a worker has been in contact longer than most protocols permit. The holding therefore runs long Flerehan watches with short rotations elsewhere in the wing to cover them, an arrangement the scheduling office dislikes and has never successfully challenged. Confrontation is prohibited on the usual grounds plus a specific one: the roots tighten and the hollow deepens, which means Pugnahan does not merely fail but enlarges the thing that must later be filled.
+Its Flerehan response is the gentlest in the Entity-grade files and the most demanding to deliver. Shared grief warms the interior and the gauge falls from its 750 baseline. But the warmth requires presence of a particular duration — brief work produces nothing measurable. And the response curve does not begin until a worker has been in contact longer than most protocols permit. The holding therefore runs long Flerehan watches with short rotations elsewhere in the wing to cover them, an arrangement the scheduling office dislikes and has never successfully challenged. Confrontation is prohibited on the usual grounds plus a specific one: the roots tighten and the hollow deepens, which means Pugnahan does not merely fail but enlarges the thing that must later be filled.
 
 ### The Silence It Takes
 
-It absorbs the sound of nearby gardens, and the absorption is the wing's earliest warning instrument. Acoustic monitors ring the chamber at fixed radii, and the readings are logged continuously; a widening quiet precedes every recorded escalation by a margin the engineers trust more than the gauge. The monitors were installed for a mundane reason — the garden crews complained they could no longer hear each other — and became doctrine when the correlation emerged. Garden staff remain part of the holding's reporting chain, which is unusual for non-containment personnel and which the wing defends on the grounds that they noticed first and have gone on noticing.
+It absorbs the sound of nearby gardens, and the absorption is the wing's earliest warning instrument. Acoustic monitors ring the chamber at fixed radii, and the readings are logged continuously. A widening quiet precedes every recorded escalation by a margin the engineers trust more than the gauge. The monitors were installed for a mundane reason — the garden crews complained they could no longer hear each other — and became doctrine when the correlation emerged. Garden staff remain part of the holding's reporting chain, which is unusual for non-containment personnel and which the wing defends on the grounds that they noticed first and have gone on noticing.
 
 ### Roots Through the Floor
 
@@ -401,7 +406,7 @@ Its breach extends roots through the floor and entangles personnel, and the floo
 
 ### What the Standing Figure Is Measuring
 
-The Gardens scale runs to 1,000 and this holding is returned at 607, after 511 and 418. Nothing physical about it has altered in sixty years: the trunk neither grows nor rots, the hollow is the same cavity it was, the echo has never come back, and the quiet sits at its established radii except during a Tide. The figure does not track the gardens' own health, the Tide calendar or the wing's staffing. It matches a single line in the Works Office return: the number of people who completed thirty years of service and retired without having once been shown anything their work went into.
+The Gardens scale runs to 1,000 and this holding is returned at 750, after 654 and 561. Nothing physical about it has altered in sixty years: the trunk neither grows nor rots, the hollow is the same cavity it was, the echo has never come back, and the quiet sits at its established radii except during a Tide. The figure does not track the gardens' own health, the Tide calendar or the wing's staffing. It matches a single line in the Works Office return: the number of people who completed thirty years of service and retired without having once been shown anything their work went into.
 
 No worker here is told what their work is for. The task, the hours, the standard and the pay — those are stated plainly and in writing. The use is not, and no officer may state, imply or discuss it with the person doing it. The rule has a history and the history is squalid. Purpose was how unpaid hours were extracted: *this is for the city* has no overtime rate. Purpose let officers ask for devotion in place of wages and get it. Purpose kept men in posts that were killing them, because leaving looked like abandoning something larger than themselves, and the mortality figures from the purpose-talking decades are bound into the first volume. The present rule costs the Company a great deal in goodwill and has never been seriously challenged by anybody who has read those figures.
 
@@ -411,15 +416,15 @@ Its consequence is a working life that cannot be described from inside. A fitter
 
 Instituted Year 4236. Once in a working life, a worker may be taken to stand in front of one completed object that their work contributed to. They are shown it. They are not told anything about it — no name, no function, no account of what part was theirs — because telling would be purpose and purpose is the prohibited thing. They stand there as long as they wish. Then they go back to the ward.
 
-Year 4237: 2,310 showings; 9,400 names on the list; nine years' average wait, allocated strictly by seniority; 0 explanations given; 118 workers who asked the attending Warden what they were looking at and received, as the rule requires, no answer; and 41 per cent of the workforce ineligible outright, because what their work produced is a containment and a containment cannot be shown to anybody.
+Year 4237: 2,310 showings; 9,400 names on the list. Nine years' average wait, allocated strictly by seniority. 0 Explanations given; 118 workers who asked the attending Warden what they were looking at and received, as the rule requires, no answer. And 41 per cent of the workforce ineligible outright, because what their work produced is a containment and a containment cannot be shown to anybody.
 
-The costs are not small and the Office does not bury them. A showing without a word is frequently unintelligible: people stand in front of a pump house, a culvert, a sealed door, and cannot tell whether they are looking at the thing or at the building next to it. The nine-year queue means most of the list is elderly and some of it dies waiting — 212 last year, which the Office prints. And the showing can confirm nothing: a woman who believes she spent her life on something worthwhile and is shown an object she does not recognise leaves worse than she arrived, and the Office has recorded eleven such cases without being able to do anything about them.
+The costs are not small and the Office does not bury them. A showing without a word is frequently unintelligible: people stand in front of a pump house, a culvert, a sealed door, and cannot tell whether they are looking at the thing or at the building next to it. The nine-year queue means most of the list is elderly and some of it dies waiting — 212 last year, which the Office prints. And the showing can confirm nothing: a woman who believes she spent her life on something worthwhile and is shown an object she does not recognise leaves worse than she arrived. And the Office has recorded eleven such cases without being able to do anything about them.
 
 The showing wardens asked for one factual sentence: permission to tell visitors what the tree was planted for. Refused, and the refusal is honest — naming the intended harvest is the first half of proposing a new one, and the Gardens has watched that sequence four times. The minute records the request as reasonable and the refusal as correct, and notes that both cannot be true for much longer.
 
 ### What the Gardens Lost
 
-The gardens around the chamber are maintained at full establishment even though the holding has absorbed their sound for as long as the file has existed. The maintenance is not decorative. Garden staff are the wing's acoustic reporting chain, and a garden nobody works is a garden nobody listens to; the budget line survives every review on that argument alone. The crews plant, prune, and water within the monitored radius and keep their own log of what the quiet has taken — which beds have gone silent, which have come back, where the birds will and will not settle. The log has no official standing and is read by the engineers every quarter. Its oldest entries are in a hand nobody now at the facility can identify, and the current crews copy its format exactly rather than modernize it, for reasons they describe as superstition and the engineers describe as continuity of method.
+The gardens around the chamber are maintained at full establishment even though the holding has absorbed their sound for as long as the file has existed. The maintenance is not decorative. Garden staff are the wing's acoustic reporting chain, and a garden nobody works is a garden nobody listens to. The budget line survives every review on that argument alone. The crews plant, prune, and water within the monitored radius and keep their own log of what the quiet has taken — which beds have gone silent, which have come back, where the birds will and will not settle. The log has no official standing and is read by the engineers every quarter. Its oldest entries are in a hand nobody now at the facility can identify, and the current crews copy its format exactly rather than modernize it, for reasons they describe as superstition and the engineers describe as continuity of method.
 
 ## Trivia
 

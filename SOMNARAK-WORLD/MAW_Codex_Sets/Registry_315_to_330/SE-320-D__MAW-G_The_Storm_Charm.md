@@ -14,6 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
+**Maximum Amount:** 3 — Standard
 A matte Weight Han-steel Head charm containing a tiny moving storm line. It appears only after a survivor completes Ferrehan shelter work and the Storm passes. Bestowal chance is 4%.
 
 ## Appearance
@@ -46,14 +47,3 @@ Charm guides, Shield shelters, Maul clears load.
 **Care:** Compare each indication with physical structure, population, and route data. Clear the Charm only after the Storm passes.
 
 **Emergency release:** Follow current best route with scouts; do not wait for a stable needle inside Sovereign weather.
-
----
-
-**Document ID:** `SE-320-D`  
-**Linked Entity:** `SE-320`  
-**Item Registry Code:** `MAW-G-320-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

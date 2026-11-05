@@ -43,14 +43,3 @@ A heavy parchment scroll weighted with compressed sediment, unfolding to unleash
 **Corrosion:** parchment wraps the wielder's forearm permanently; speech becomes entirely congratulatory and apologetic; terminal state causes the bearer to petrify into an inscribed monument.  
 **Maintenance:** dust with dry linen while reciting three unreciprocated favors from living colleagues.  
 **Shutdown:** an acknowledged peer signs the scroll's ribbon and commands the seal closed.
-
----
-
-**Document ID:** `UNK-247-B`  
-**Linked Entity:** `UNK-247`  
-**Item Registry Code:** `MAW-W-UNK-247-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

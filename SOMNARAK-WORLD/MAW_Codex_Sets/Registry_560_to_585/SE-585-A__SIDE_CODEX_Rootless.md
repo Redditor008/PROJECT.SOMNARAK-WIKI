@@ -22,7 +22,7 @@ Rootless is a pale tree-beast drifting root-first above the Desolate, its hangin
 | Coherence / Potency | III / γ |
 | Element | Lament |
 | Location | The Desolate, near the Scar |
-| Gauge / Pressure | 758/758; starts 45–65% / 16–37 Lament |
+| Gauge / Pressure | 000/420; starts 000% / 16–37 Lament |
 | Movement / Resistance | Drifts on Han currents / 35% Lament, 25% other |
 | Escalation threshold | Gauge ≥75%; expansion follows displacement events |
 | Observation | 2 — Basic |
@@ -38,8 +38,8 @@ Despite its Subject classification, the canonical work table restricts contact t
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid under the source work protocol. | N/A |
-| Pugnahan | Invalid; physical confrontation is not approved work. | N/A |
+| Flerehan | Invalid under the source work protocol. | Negative-Low |
+| Pugnahan | Invalid; physical confrontation is not approved work. | Negative-Low |
 | Viderehan | Reveals fragments of the scattered community. | Stable |
 | Ferrehan | Tests remaining beneath a shelter that owns no ground. | Decrease |
 
@@ -67,13 +67,3 @@ Cartographer Yeonhwa mapped Rootless for seven crossings without calling any sto
 In the Tethered Grove Incident, a patrol drove three stakes through Rootless’s hanging roots to create a stable shelter. The tree descended, every stake became a memory of a destroyed street, and personnel walked in circles between them. Yeonhwa cut the stakes free but left route flags standing. Uri Hanbaram guided the patrol by naming people rather than landmarks. This distinction—community preserved, ground not fabricated—became the set’s binding law.
 
 > *“A route is not a lesser home. It is the form belonging takes when the ground is gone.”* — Cartographer Yeonhwa
-
----
-
-**Document ID:** `SE-585-A`  
-**Linked Entity:** `SE-585`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

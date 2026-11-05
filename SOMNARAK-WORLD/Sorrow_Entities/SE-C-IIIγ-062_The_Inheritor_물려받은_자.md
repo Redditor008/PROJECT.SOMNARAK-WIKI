@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A muscular, middle-aged man of true flesh and bone, fists clenched at his sides, his face locked between anger and exhaustion. His skin is flushed dark, heat radiating from him; tendons stand out in his neck and forearms. He is fever-hot, and the air carries the smell of char and old smoke. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Organic |
+| **Movement** | Mobile in breach at an unhurried walk with no particular direction — all four breaches on file ended in a corridor it had no reason to be in. |
 | **Location** | SECTOR-C-01, contained with the Debt Triplets |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 2 |
+| **Work Damage** | 3–5 Grudge — the cost is whatever is put into his hands, and the hands do not open again |
+| **Activation threshold** | 2 conditions |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Resentment Talon-Blade, Plate and Gauntlet are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -88,7 +89,7 @@
 
 1. **Tension:** Identification first — the closed hands and the heat identify it, and the pacing is the better indicator of state, though it tells you nothing about which Triplet you are looking at. The approach is set with the whole Triplet gauged rather than the figure alone, and positions are taken before anything else is attempted.
 2. **Clash:** Nine turns, standing, with the unfairness stated in the opening line and not repeated. Pugnahan is answered in kind and raises the gauge for days; Flerehan and Ferrehan are the authorised approaches.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Validate the resentment; do not call it ingratitude**. The condition is met when the injustice has been named aloud, accurately, with nothing added and no apology attached; a cycle that ends with the resentment reframed as ingratitude is filed as the holding having been handed another generation of it.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Validate the resentment; do not call it ingratitude**. The condition is met when the injustice has been named aloud, accurately, with nothing added and no apology attached. A cycle that ends with the resentment reframed as ingratitude is filed as the holding having been handed another generation of it.
 
 ### Consequences
 
@@ -98,7 +99,7 @@
 - Unresolved, he breaches by Escape, quietly, and goes looking for nobody in particular — the obligation he carries was never assigned to a particular person either.
 
 ## Appearance
-**Primary Form:** A muscular middle-aged man with clenched fists and a face fixed between anger and exhaustion.
+**Primary Form:** A middle-aged man built heavy through the shoulders, standing with both fists shut hard enough that the tendons stand out white over the knuckles and the forearms cord up to the elbow. The skin is flushed dark and gives off heat that the instrument can read from a metre and a half. The face is fixed between two things and has not moved from between them: the mouth set, the eyes wide, the whole of it holding a shout that has not been let go. He smells of char and old smoke, and the smell is on him rather than around him.
 
 **Notable Features:**
 - The middle generation of the three: the one who paid what his parent borrowed.
@@ -121,7 +122,7 @@
 | **Form** | A muscular middle-aged man with clenched fists and a face fixed between anger and exhaustion. |
 | **Position / movement** | Pacing, standing or still, logged as one of three marks. Record the state, the hand position, and anything currently in his grip with the date it entered it. |
 | **Material / signature** | Grudge. Flushed dark skin radiating measurable heat, tendons standing out in neck and forearms, and the smell of char and old smoke through the whole chamber. |
-| **Distinctive markers** | Fists closed at all times, including in sleep; constant motion under distress; and an articulate, unvarying account of why the arrangement was unjust. |
+| **Distinctive markers** | Fists closed at all times, including in sleep. Constant motion under distress; and an articulate, unvarying account of why the arrangement was unjust. |
 | **Identification** | Confirm before Work or contact: designation C-IIIγ-062 `[GS]`, Grudge expression, Subject-Body manifestation, Fragment (III) coherence, SECTOR-C-01 with the other two Triplets. |
 
 **Appearance protocol:** Mark the motion state in the ruled column, note the hand position, and list anything he is holding. Three symbols, one column; the scale is deliberately coarse and a finer one has been tried and withdrawn. He announces himself in the body well before the gauge moves. Do not write *strange* or *anomalous*; he is hot, flushed, loud and reasonable, and those are the fields.
@@ -137,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Stops pacing and lets the anger drop a register when the unfairness is named by somebody else first. | Decrease |
-| **Pugnahan** (Confrontation) | Meets it exactly, at the same force, and keeps the gauge elevated for several days afterwards. | Increase |
-| **Viderehan** (Observation) | Sets out the whole arrangement — terms, dates, amounts — accurately and without exaggeration, and is not calmed by doing it. | Stable |
-| **Ferrehan** (Endurance) | Vents at length at a worker who stays and does not answer; the only approach that has ever ended a session early at his own initiative. | Decrease |
+| **Flerehan** (Tears) | Stops pacing and lets the anger drop a register when the unfairness is named by somebody else first. | Decrease · Common |
+| **Pugnahan** (Confrontation) | Meets it exactly, at the same force, and keeps the gauge elevated for several days afterwards. | Increase · Low |
+| **Viderehan** (Observation) | Sets out the whole arrangement — terms, dates, amounts — accurately and without exaggeration, and is not calmed by doing it. | Stable · High |
+| **Ferrehan** (Endurance) | Vents at length at a worker who stays and does not answer. The only approach that has ever ended a session early at his own initiative. | Decrease · Common |
 
 
 
@@ -148,11 +149,10 @@
 
 The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-C-01 against the shared boundary of the Triplets' chambers. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it without exception in nine years.
 
-**Reading the response:** Read it in the column and in the hands. A falling gauge presents as the motion state dropping a mark and the fists opening slightly; a rising one presents as continuous pacing with the hands closed tighter than the resting state. Both precede the instrument. The three-state column is the holding's primary record and is maintained in preference to anything finer.
+**Reading the response:** Read it in the column and in the hands. A falling gauge presents as the motion state dropping a mark and the fists opening slightly. A rising one presents as continuous pacing with the hands closed tighter than the resting state. Both precede the instrument. The three-state column is the holding's primary record and is maintained in preference to anything finer.
 ## Breach Behavior
 
-> *"Inheritor has broken free. Hunts personnel indiscriminately."*
-
+> *"Inheritor has broken free. It does not choose: the Grudge goes into the walls, and anything held in a hand becomes hard to put down. Drop what you are carrying and clear the volume."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -193,7 +193,7 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 
 **Limit:** It cannot distinguish a responsible party from someone trapped in the same system; document the target relationship before activation.
 
-**Cost:** Old wounds ache, and every unspoken resentment rises until another person acknowledges it without calling it ingratitude. The primary also records deep bruising after prolonged use and says the acknowledgment must be heard by an ally.
+**Bearer cost:** Old wounds ache, and every unspoken resentment rises until another person acknowledges it without calling it ingratitude. The primary also records deep bruising after prolonged use and says the acknowledgment must be heard by an ally.
 
 ### M.A.W. Suit — The Resentment Plate
 
@@ -211,7 +211,7 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 
 **Ability:** Refuse the Blow hardens against direct Grudge impacts when the bearer is pressured to accept an imposed role or burden. The primary's boundary-standing protection from taking on the Triplets' debt remains a separate local claim.
 
-**Cost:** The wearer's reflexes dull toward reconciliation; help can feel like another demand until the Plate is removed and the wearer rests. The primary notes that onset is silent and a second worker calls it.
+**Bearer cost:** The wearer's reflexes dull toward reconciliation; help can feel like another demand until the Plate is removed and the wearer rests. The primary notes that onset is silent and a second worker calls it.
 
 ### M.A.W. Stigma — The Resentment Gauntlet
 
@@ -223,28 +223,28 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 **Acquisition Probability:** 4%
 **Effect:** +2 while working the linked Inheritor source record. Item D does not name the boosted statistic, so none is inferred. The primary's Zone C restriction, obligation-chain reading, and use to distinguish the Triplets remain local claims.
 
-**Ability:** Remember the Cost marks a target who wronged the bearer or someone under the bearer's protection. Subsequent direct attacks gain clarity against that target; the mark cannot determine intent and fades only after the target's account is heard or the grievance is released.
+**Ability:** Remember the Cost marks a target who wronged the bearer or someone under the bearer's protection. Subsequent direct attacks gain clarity against that target. The mark cannot determine intent and fades only after the target's account is heard or the grievance is released.
 
-**Cost:** While the mark remains active, the bearer cannot forgive, even if forgiveness would be freely chosen. The local record's broader post-conflict resentment remains a separate observation.
+**Bearer cost:** While the mark remains active, the bearer cannot forgive, even if forgiveness would be freely chosen. The local record's broader post-conflict resentment remains a separate observation.
 
 *The Resentment Gauntlet is not issued and cannot be requested. It has been conferred 3 times, in each case on a Warden who named the injustice out loud, accurately, with nothing added and no apology attached — the same sentence the containment condition requires, which is why the conferral is treated as evidence that the condition can be met at all.*
 
 ### M.A.W. Use Notes
 
-The linked items keep their costs distinct: the Talon-Blade brings aching old wounds and unspoken resentment; the Plate dulls reflexes toward reconciliation and makes help feel like another demand; the Gauntlet prevents forgiveness while its mark remains active. Side A's separate *Paid Without Thanks* resonance requires an unchosen obligation to be documented, prevents it being recorded as voluntary consent, and later costs the bearer a new account of how that obligation harmed someone else. The primary's longer bruising and ally-acknowledgment notes remain local details, not a substitute for the item and set records.
+The linked items keep their costs distinct: the Talon-Blade brings aching old wounds and unspoken resentment. The Plate dulls reflexes toward reconciliation and makes help feel like another demand. The Gauntlet prevents forgiveness while its mark remains active. Side A's separate *Paid Without Thanks* resonance requires an unchosen obligation to be documented, prevents it being recorded as voluntary consent, and later costs the bearer a new account of how that obligation harmed someone else. The primary's longer bruising and ally-acknowledgment notes remain local details, not a substitute for the item and set records.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, exact piece, and a dated baseline put by a colleague. For the Talon-Blade, confirm the imposed-obligation chain and target relationship; for the Plate, record the imposed role or burden; for the Gauntlet, name the wrong and whose protection is claimed. Record any full-set resonance condition separately: the obligation must be unchosen and documented. |
-| **During use** | Record the exact effect and first cost: Blade wounds and rising resentment; Plate defense and any loss of reconciliation reflex; Gauntlet target mark and clarity on direct attacks. The second worker logs the time; the bearer's account is taken afterwards and set beside the log. |
-| **At limit** | Stop at the item-specific limit: Blade resentment needs acknowledgment without ingratitude; Plate reflexes dull until removal and rest; Gauntlet prevents forgiveness while marked. The second worker, not the bearer, makes the local stop call. Side A's later account of harm is a separate full-set cost. |
+| **Before use** | Wielder, exact piece, and a dated baseline put by a colleague. For the Talon-Blade, confirm the imposed-obligation chain and target relationship. For the Plate, record the imposed role or burden. For the Gauntlet, name the wrong and whose protection is claimed. Record any full-set resonance condition separately: the obligation must be unchosen and documented. |
+| **During use** | Record the exact effect and first cost: Blade wounds and rising resentment. Plate defense and any loss of reconciliation reflex. Gauntlet target mark and clarity on direct attacks. The second worker logs the time; the bearer's account is taken afterwards and set beside the log. |
+| **At limit** | Stop at the item-specific limit: Blade resentment needs acknowledgment without ingratitude. Plate reflexes dull until removal and rest; Gauntlet prevents forgiveness while marked. The second worker, not the bearer, makes the local stop call. Side A's later account of harm is a separate full-set cost. |
 | **After use** | Recover the exact piece and record its own return condition: acknowledgment for the Blade, removal and rest for the Plate, or the target's account / grievance release for the Gauntlet. File the answer against the wielder; do not reissue while its item-specific cost remains active. If the full set was worn, log the separate later account required by Side A. |
 
 **Stat interpretation:** The γ grade classifies the equipment; it does not measure human safety or consent. The Blade, Plate, Gauntlet, and full-set resonance have different costs and stop conditions. Authorise by the exact item and condition, not grade alone.
 
-**Full-set source review (2026-10-13):** Audited the γ/γ overview, all three embedded M.A.W. blocks, Use Notes, Field Use Record, Stat interpretation, Warden and other M.A.W. claims against exact Side A `SE-062-A` (`C-IIIγ-062 [GS]`, `4/4`), items `SE-062-B/C/D`, Registry rows 110–113, Master M.A.W. table/Entries 34–36, Entity Codex row 376 / Tale 12, and `MAW-W-062`. Side A has no standalone Appearance heading; B/C/D each do, and B expressly records the locked falx and released chain-scythe. Side A and the current B heading support *The Resentment Talon-Blade*; the linked History still says “Fang bearer” and the old filename remains a path. The documented locked falx / released chain-scythe is the item B form, not a disputed transition. Primary and B agree on Grudge 9–15 / Speed 3 / Range 2–3 / Cleave and retractable lash / 100%→70% / max 3 / 40 Echoes; B adds the responsibility limit, now stated locally; the primary's two-adjacent-target coverage is not specified by B. Archetype class Long is separate from item Range 2–3 Short-to-Medium. Suit resistances, max, and cost align; C supplies conditional direct-Grudge protection and the segmented crimson Han-iron plate. Master table's Blades—Cleaver/Sword and Plates & Heavy Armor labels are broad taxonomy, not linked forms. Item D supports Tail / 4% / +2 (stat unspecified) and a target-specific mark that improves direct-attack clarity; Registry's generic Accessory / 5% and Master Entry 36's extra-damage summary do not override it. The local palm-sized Han-iron charm remains held against D's thumb-sized Han-glass form. Full-set resonance is distinct from item costs: an unchosen documented obligation, a non-consent record, then a later account of harm. The primary's Gauntlet conferral count and boundary-protection claim remain local. Exact Weapon-only pair `SE-062-B` / `MAW-W-062-01` was already dispositioned in Batch 88; no new pair disposition is counted.
+**Full-set source review (Year 4238):** Audited the γ/γ overview, all three embedded M.A.W. blocks, Use Notes, Field Use Record, Stat interpretation, Warden and other M.A.W. claims against exact Side A `SE-062-A` (`C-IIIγ-062 [GS]`, `4/4`), items `SE-062-B/C/D`, Registry rows 110–113, Master M.A.W. table/Entries 34–36, Entity Codex row 376 / Tale 12, and `MAW-W-062`. Side A has no standalone Appearance heading; B/C/D each do, and B expressly records the locked falx and released chain-scythe. Side A and the current B heading support *The Resentment Talon-Blade*; the linked History still says “Fang bearer” and the old filename remains a path. The documented locked falx / released chain-scythe is the item B form, not a disputed transition. Primary and B agree on Grudge 9–15 / Speed 3 / Range 2–3 / Cleave and retractable lash / 100%→70% / max 3 / 40 Echoes. B adds the responsibility limit, now stated locally. The primary's two-adjacent-target coverage is not specified by B. Archetype class Long is separate from item Range 2–3 Short-to-Medium. Suit resistances, max, and cost align; C supplies conditional direct-Grudge protection and the segmented crimson Han-iron plate. Master table's Blades—Cleaver/Sword and Plates & Heavy Armor labels are broad taxonomy, not linked forms. Item D supports Tail / 4% / +2 (stat unspecified) and a target-specific mark that improves direct-attack clarity. Registry's generic Accessory / 5% and Master Entry 36's extra-damage summary do not override it. The local palm-sized Han-iron charm remains held against D's thumb-sized Han-glass form. Full-set resonance is distinct from item costs: an unchosen documented obligation, a non-consent record, then a later account of harm. The primary's Gauntlet conferral count and boundary-protection claim remain local. Exact Weapon-only pair `SE-062-B` / `MAW-W-062-01` was already dispositioned in an earlier review; no new pair disposition is counted.
 
 ## 관찰 기록 (Observation Log)
 
@@ -266,7 +266,7 @@ The linked items keep their costs distinct: the Talon-Blade brings aching old wo
 |---|---|
 | **Initial exposure** | The observer identifies The Inheritor as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-C-01, contained with the Debt Triplets. |
 | **Sustained observation** | Motion state in the ruled column, hand position, anything in his grip, the heat differential at the mark, and the other two Triplets' gauges over the same window. |
-| **Activation or escalation** | Escalation is continuous pacing with the hands tightened. At that state the session closes; the rule is written in the column's own terms so that the decision does not depend on the person watching. |
+| **Activation or escalation** | Escalation is continuous pacing with the hands tightened. At that state the session closes. The rule is written in the column's own terms so that the decision does not depend on the person watching. |
 | **Post-contact review** | Column entries before and after, whether the injustice was named and by whom, the worker's verbatim account, and a counsellor's note at 14 days aimed at whether the worker has begun relitigating anything of their own. |
 
 **Observation method:** Observe standing, from the mark, across a whole watch rather than a sample of one. Record the motion states in sequence, the hand position, the heat, and the condition that ended the session. The form here is the history and not a strategy: a strong man of working age, hot with an anger that was never once treated as legitimate, holding everything he has ever been handed.
@@ -284,10 +284,10 @@ Rages quickly through the facility with fists clenched. Personnel feel resentmen
 The rage of carrying someone else's obligation while being blamed for resenting it.
 
 **Entry 4 — <Not Ingratitude>**
-Management: Validate the resentment; do not call it ingratitude.  Exposure increases empathy while reducing emotional detachment.
+Management: Validate the resentment; do not call it ingratitude. Exposure increases empathy while reducing emotional detachment.
 
 **Entry 5 — <The Keeper Who Erased Himself>**
-The story here is not the one that gets told. Three figures share one holding at SECTOR-C-01 and cannot be separated, so every reading of the Inheritor is a reading of the Triplets: the gauge opens at 45% and climbs 10% a turn, the fastest of the 3, and the drain rises 5 a turn while nobody is working it. The 1 sentence that meets the condition has been spoken inside the boundary 3 times, once for each conferral of the Resentment Gauntlet, and on each occasion the pacing slowed. The file keeps those 3 as its whole evidence that the condition works at all.
+The story here is not the one that gets told. Three figures share one holding at SECTOR-C-01 and cannot be separated. So every reading of the Inheritor is a reading of the Triplets: the gauge opens at 45% and climbs 10% a turn, the fastest of the 3. And the drain rises 5 a turn while nobody is working it. The 1 sentence that meets the condition has been spoken inside the boundary 3 times, once for each conferral of the Resentment Gauntlet, and on each occasion the pacing slowed. The file keeps those 3 as its whole evidence that the condition works at all.
 
 ## 최종 관찰 (Final Observation)
 
@@ -314,9 +314,9 @@ His fists are closed before he sees you. The debt is invisible, but his shoulder
 
 ### Interaction Pattern
 
-The Inheritor is read against the other holdings in Zone C built out of obligation, and against the 2 it shares a boundary with — and the sharing is a fact about one holding rather than a bond between 3 characters. Because the 3 cannot be separated, a solo baseline does not exist for the Inheritor and never will; what the file can offer is a Triplet reading, taken with all 2 neighbours gauged alongside, and the comparison below is filed as a resemblance rather than a measurement.
+The Inheritor is read against the other holdings in Zone C built out of obligation, and against the 2 it shares a boundary with — and the sharing is a fact about one holding rather than a bond between 3 characters. Because the 3 cannot be separated, a solo baseline does not exist for the Inheritor and never will. What the file can offer is a Triplet reading, taken with all 2 neighbours gauged alongside. And the comparison below is filed as a resemblance rather than a measurement.
 
-**Interaction method:** Baseline each party alone across several watches before any paired approach — and on this file record all 3 Triplet gauges for every test regardless of which 2 are under study, because the holding cannot be split. Log the onset of any shared change with its range, duration and trigger, both sides' gauges, and what persists after separation; a Triplet event is entered against all 3 figures rather than against whichever one moved first.
+**Interaction method:** Baseline each party alone across several watches before any paired approach — and on this file record all 3 Triplet gauges for every test regardless of which 2 are under study, because the holding cannot be split. Log the onset of any shared change with its range, duration and trigger, both sides' gauges, and what persists after separation. A Triplet event is entered against all 3 figures rather than against whichever one moved first.
 
 
 ### Entity Interaction Record
@@ -337,13 +337,13 @@ The 2 rows below are canonical points of contact and not alliances. Neither is s
 
 The debt passed to the father, and the father paid it, and the paying made him angry, and the anger had nowhere to go.
 
-The Inheritor is the middle generation — the son of the Debtor, the father of the Rejector. He did not incur the debt. He did not agree to it. He inherited it the way citizens of Somnarak inherit all things: by the Collectors' ledger, which assigns obligation down the bloodline without asking the bloodline's leave. One morning he was free of it, in the way anyone is free of anything in this city; the next morning the ledger had his name beside his father's, and the debt was his.
+The Inheritor is the middle generation — the son of the Debtor, the father of the Rejector. He did not incur the debt. He did not agree to it. He inherited it the way citizens of Somnarak inherit all things: by the Collectors' ledger, which assigns obligation down the bloodline without asking the bloodline's leave. One morning he was free of it, in the way anyone is free of anything in this city. The next morning the ledger had his name beside his father's, and the debt was his.
 
 He paid it. This is important, and it is the root of his rage. The Inheritor did not refuse — that is his son's sorrow, the third Triplet. He did not accept cheerfully — that was his father's. He paid, every installment, on time, in full, because the alternative was the cage or the seizure or the slow erasure the Collectors perform on those who stop paying. He did the work. He bore the burden. He met the obligation he had never chosen.
 
 And he was blamed for resenting it.
 
-This is the particular cruelty the Inheritor carries. The city does not only demand that you pay your inherited debt; it demands that you pay it gracefully. To resent the obligation is, in the Collectors' calculus, itself a kind of default — a spiritual arrears, a shortfall of gratitude. The Inheritor paid in full and was still found wanting, because he paid with anger in his heart, and the city could see the anger, and the city did not forgive it. He received neither the choice to refuse nor the gratitude for complying. He got only the debt, and the blame for hating it.
+The cruelty does not sit in the debt. The city asks that an inherited debt be paid, and then it asks that the paying be graceful. To resent the obligation is, in the Collectors' calculus, itself a kind of default — a spiritual arrears, a shortfall of gratitude. The Inheritor paid in full and was still found wanting, because he paid with anger in his heart, and the city could see the anger, and the city did not forgive it. He received neither the choice to refuse nor the gratitude for complying. He got only the debt, and the blame for hating it.
 
 The resentment — the rage of carrying someone else's obligation while being faulted for resenting it — sank into the Weeping, and the Weeping gave it a body. The Inheritor: Subject-Body, Grudge-element, the middle Triplet, forever mid-payment, forever mid-anger, the figure of every child who ever paid a parent's price and was told they should have been grateful.
 
@@ -367,23 +367,23 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 **Common Name:** The Inheritor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). He breaches quietly by Escape, turns Grudge into structural load when he does, and takes permanent hold of anything placed in his hands. The earlier entry describing the threat as moderate is an error and is corrected here.
+**Threat Assessment:** Major (γ). He breaches quietly by Escape, turns Grudge into structural load when he does, and takes permanent hold of anything placed in his hands.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan are the authorised approaches. Pugnahan raises the gauge every time it has been tried and is prohibited on this holding; the earlier entry naming it as primary is an error and is corrected here.
+- Flerehan and Ferrehan are the authorised approaches. Pugnahan raises the gauge every time it has been tried and is prohibited on this holding.
 - The loudest of the three, and the only one who speaks to a neighbour through the wall.
 - Personnel carrying an inherited obligation are not rostered to this holding; see the screening condition and the objection minuted against it.
 **Observation Notes:**
 - The middle generation of the three: not the one who signed and not the one who refuses.
 - Paid in full what he was never liable for, and was reproached for minding.
-**Cross-References:** The Debtor · The Rejector · SECTOR-C-01 · the instalment schedule · the volunteer opinion · the roster screening condition
+**Cross-References:** [The Debtor](SE-C-IIIγ-061_The_Debtor_빚진_자.md) · [The Rejector](SE-C-IIIγ-063_The_Rejector_거부하는_자.md) · SECTOR-C-01 · the instalment schedule · the volunteer opinion · the roster screening condition
 **Faction Involvement:** SED, on the C-territory exploration that holds the Triplets · UCD, on the Fray-adjacent zone · Wound Walkers, on Fracture-relevant screening. The 3 members are one file's responsibility and no wing has ever been assigned fewer than all 3.
 **Originator:** A middle-generation citizen who discharged a parent's obligation without compulsion, without request, and without acknowledgement.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map and not the territory: the SECC code, the gauge thresholds and the M.A.W. notes are tools for understanding, not substitutes for standing inside the boundary. The figures that govern are these — 3 Triplets in one holding, a gauge opening at 45% and climbing 10% a turn with drain rising 5, a condition worth 1 sentence and 3 conferrals, and a boundary that has never once let a solo reading be taken. This file will be wrong eventually; when it is, the contradiction is worth more than the record it contradicts, and the file requires it preserved as evidence rather than normalised.
+**Operational interpretation:** Nobody has ever read this holding from outside it. The code, the thresholds and the M.A.W. notes are the vocabulary the wardens use to say what they saw inside the boundary, and they have never once been the same thing as seeing it. The figures that govern are these — 3 Triplets in one holding, a gauge opening at 45% and climbing 10% a turn with drain rising 5, a condition worth 1 sentence and 3 conferrals. And a boundary that has never once let a solo reading be taken. This file will be wrong eventually. When it is, the contradiction is worth more than the record it contradicts, and the file requires it preserved as evidence rather than normalised.
 
-**Review requirement:** Every breach, Sorrow Tide and transformation attempt invalidates the current baseline — and on this file that means all 3 Triplet baselines, taken together, before the next cycle. Re-verify the gauges, the boundary, the personnel exposure and the M.A.W. resonance changes; the specific question here is whether the 1 sentence that meets the condition has been said in the preceding cycle, and the record of the 3 conferrals is where that is checked. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every breach, Sorrow Tide and transformation attempt invalidates the current baseline — and on this file that means all 3 Triplet baselines, taken together, before the next cycle. Re-verify the gauges, the boundary, the personnel exposure and the M.A.W. resonance changes; the specific question here is whether the 1 sentence that meets the condition has been said in the preceding cycle, and the record of the 3 conferrals is where that is checked.
 ## Warden Record
 
 ### Constant Motion
@@ -422,13 +422,13 @@ He never owed it. That is not a grievance; it is the legal position, and the leg
 
 He was not a party to the instrument. He was not a surety. Nothing bound him in any way to his parent's borrowing, and no creditor could have obtained a penny from him in any forum. He paid because of what would otherwise have happened inside a family, and family pressure is not compulsion in the sense the law uses the word.
 
-A person who discharges another's debt can sometimes recover it from the debtor: by subrogation, where he paid under legal compulsion; by request, where the debtor asked him to; by agreement, where there was one. **He had none of the three.** No compulsion, because he was never liable. No request, because nobody ever asked — the arrangement operated on silence. No agreement, because the whole point of it was that nothing was ever written down.
+A person who discharges another's debt can sometimes recover it from the debtor: by subrogation, where he paid under legal compulsion. By request, where the debtor asked him to. By agreement, where there was one. **He had none of the three.** No compulsion, because he was never liable. No request, because nobody ever asked — the arrangement operated on silence. No agreement, because the whole point of it was that nothing was ever written down.
 
 Which makes him, in the only word the opinion uses, **a volunteer**. A volunteer who pays another's debt acquires no claim against anybody. The money is gone, the payment is good, and the person relieved by it owes the payer nothing at all.
 
 The sentence the Wardens underline is the last one in the opinion's second paragraph: *the fact that he was free not to pay is the fact that destroys his remedy; had he been obliged, he could have recovered, and he was not, so he cannot.*
 
-He understands this. He has been told, on the record, twice. The second telling was at his own insistence after he learned a legal officer had looked at it, and the Warden's note of it runs to one line: *he asked whether it meant he had been a fool, and was told it meant he had been generous, and said that those were the same word in this building.*
+He understands this. He has been told, on the record, twice. The second telling was at his own insistence after he learned a legal officer had looked at it. And the Warden's note of it runs to one line: *he asked whether it meant he had been a fool, and was told it meant he had been generous, and said that those were the same word in this building.*
 
 ### Certifying a Roster Clean
 
@@ -438,9 +438,9 @@ The holding's handling rule is one line in the Registrum — *do not assign pers
 
 The clinical reasoning is sound and has never been seriously challenged. Workers with an inherited obligation respond to this holding differently and worse: of the five such cases known before the rule, three ended in early withdrawal from the wing and one in a medical finding. Nobody proposes going back.
 
-The cost is in who gets excluded and in what happens to the declaration afterwards. **Nine applicants have declared since the rule was made. Two were otherwise first choice for the posting.** SECTOR-C-01 is the usual route to a senior containment grade in this wing, so declining it is not a neutral event in a career; both have since been passed over, and the personnel officer's note records that she cannot show the two things are connected and cannot show they are not. The declarations themselves remain on file indefinitely and are visible to any future board with personnel-file access, which is a standing disclosure of a private family matter made as the price of being considered for one posting.
+The cost is in who gets excluded and in what happens to the declaration afterwards. **Nine applicants have declared since the rule was made. Two were otherwise first choice for the posting.** SECTOR-C-01 is the usual route to a senior containment grade in this wing. So declining it is not a neutral event in a career. Both have since been passed over. And the personnel officer's note records that she cannot show the two things are connected and cannot show they are not. The declarations themselves remain on file indefinitely and are visible to any future board with personnel-file access, which is a standing disclosure of a private family matter made as the price of being considered for one posting.
 
-The objection is minuted at every annual review and is raised by the personnel officer who administers the scheme. It holds that the facility now screens its own staff on the basis of their families' finances, which is information it has no other reason to hold; that the declaration should expire after the application is decided and does not, and no retention period has ever been set; and that a rule which protects people by excluding them should be paired with a transfer path that costs them nothing, and no such path has been built. The minute records the objection as **correct in all three parts**. It records that a retention period was drafted in the seventh year and has not been adopted. And it records the Directorate's reply in the words used: *we will keep the rule, because the alternative hurts people in the room; we accept that we are also hurting people outside it, and we are not going to pretend otherwise in the minute.*
+The objection is minuted at every annual review and is raised by the personnel officer who administers the scheme. It holds that the facility now screens its own staff on the basis of their families' finances, which is information it has no other reason to hold. That the declaration should expire after the application is decided and does not. And no retention period has ever been set. And that a rule which protects people by excluding them should be paired with a transfer path that costs them nothing. And no such path has been built. The objection is minuted as correct in each of its three parts and is not sent back for redrafting. It records that a retention period was drafted in the seventh year and has not been adopted. And it records the Directorate's reply in the words used: *we will keep the rule, because the alternative hurts people in the room; we accept that we are also hurting people outside it, and we are not going to pretend otherwise in the minute.*
 
 ## Trivia
 
@@ -453,7 +453,7 @@ The objection is minuted at every annual review and is raised by the personnel o
 
 - **Classification detail:** The Inheritor is a Subject with Fragment (III) — Resentful and angry coherence and Major (γ) — High danger as group entity potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-C-01, contained with the Debt Triplets.
-- **Recognition detail:** Identify him by the closed hands and the heat; the pacing is the better indicator of state but tells you nothing about which Triplet you are looking at.
+- **Recognition detail:** Identify him by the closed hands and the heat. The pacing is the better indicator of state but tells you nothing about which Triplet you are looking at.
 - **Record detail:** Read this file beside the Debtor's, which is the other half of the same arrangement, and beside the instalment schedule, which is the only document in the holding that he reacts to.
 - **Containment detail:** Containment holds three chambers on a shared boundary. He hears through it and uses it, and the standing order against carrying word between the three exists because of what he does with what he hears.
 ## Document Information

@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Lament |
 | Form | A split dark seed hauling itself on wet root-limbs, leaking warm blue tears while an unknowable partial life presses outward. |
-| Gauge / Pressure | 60–80% / Lament 27–58 |
+| Gauge / Pressure | 000% / Lament 27–58 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Form Not Forced |
 
@@ -44,10 +44,10 @@ The seed pulses like a heart and roots nearby surfaces while remaining structura
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid under Object/Place tool handling. | N/A | Tears must not touch the Seed. |
-| Pugnahan | Not valid; force drives roots outward. | N/A | Never crush or confront. |
+| Flerehan | Not valid under Object/Place tool handling. | Negative-Low | Tears must not touch the Seed. |
+| Pugnahan | Not valid; force drives roots outward. | Negative-Low | Never crush or confront. |
 | Viderehan | Shows the entity it might have become. | Stable | Record images as hypothetical. |
-| Ferrehan | Tests waiting without forcing growth. | Down | Keep all growth medium absent. |
+| Ferrehan | Tests waiting without forcing growth. | Decrease | Keep all growth medium absent. |
 
 **Activation:** Planting or watering with sorrow begins dangerous partial manifestation until removal from growth medium.  
 **Resolution:** Maintain dry unplanted containment and lower Gauge below 25%.  
@@ -99,13 +99,3 @@ A stable echo forms only from tears that leave the shell and are collected after
 **Primary source:** `SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md`
 
 **Restricted note:** No full manifestation has been identified. All images remain hypothetical and may not guide cultivation.
-
----
-
-**Document ID:** `SE-315-A`  
-**Linked Entity:** `SE-315`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

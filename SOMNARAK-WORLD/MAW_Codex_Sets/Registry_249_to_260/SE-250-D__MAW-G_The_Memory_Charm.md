@@ -23,6 +23,7 @@ The Memory Charm is a warm blue tail-charm of Han crystal holding one written se
 ## FUNCTION & COST
 
 **Grade / Element:** β / Lament  
+**Maximum Amount:** 4 — Stocked
 **Bonus:** +1 Clarity during source work  
 **Effect:** restores one chosen personal identity anchor during memory saturation  
 **Cost:** the bearer weeps in sleep as unprocessed fragments pass nearby
@@ -46,14 +47,3 @@ Charm identifies the host before Requiem cuts and Umbrella catches. It proves co
 **Care:** The bearer restates the anchor in current language and names one way they have changed since choosing it. The Charm must preserve continuity without freezing biography.
 
 **Emergency release:** Move beyond rainfall, speak the anchor once, and transfer all collected drops before sleep.
-
----
-
-**Document ID:** `SE-250-D`  
-**Linked Entity:** `SE-250`  
-**Item Registry Code:** `MAW-G-250-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

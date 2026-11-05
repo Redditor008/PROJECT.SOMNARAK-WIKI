@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-152 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Breach-capable in the reconstruction model only |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A burning door-shaped figure that walks on a threshold with no wall around it — a frame of charred wood and live fire, its handle opening onto a different memory each time. Fever-warm, it smells of cold rain and char; a door that comes to you. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — it walks the Alpha Tree corridors on its own frame, with no wall to carry it, and has done so for twenty-seven years. The earlier Stationary entry contradicted the Core Stat Line, the Watch Record and the entity's name. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -26,15 +26,16 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — certainty about which remembered address is the worker's current home |
 | **Starting Sorrow Gauge** | Never at rest — 35–50% when the watch opens, because the frame is standing in the corridor whether or not anybody has touched the handle. |
 | **Han-Energy yield** | Paid for stillness rather than for opening — 12–18, and what earns it is how long the frame is left standing in one place, not how many times it is worked. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **Work Damage** | 1–4 Lament — the cost is Threshold 3 with the gauge trigger at 60, and every activation on the record |
+| **Activation threshold** | 3 readings |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | Recoverable on destruction: roughly 10 to 100 kilograms at this grade. There is a vessel here and it can be broken, which is the one respect in which this holding is ordinary. |
-| **Recommended response** | Close the door consciously; do not force passage — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
+| **Recommended response** | Close the door consciously. Do not force passage — which is the whole of the cycle. The Work Types are the frame and the condition is the work. |
 
 ### Operational Notes
 
@@ -52,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s — a slow walk, measured along the corridor markers, and constant in every recorded transit |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Step out of its path and let it walk; never seal a zone around it or force the handle. A return partner keeps the current place named from outside any shown room |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 457/457 |
 | **Han Pressure [ATK]** | 7–17 per hit · Lament |
@@ -78,24 +79,24 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Knock* [**Debuff**] } | "A door appears in a wall that had no door — and then it knocks." | [The Door manifests; the knock is a question the target must answer.] | *Target suffers -10 Composure; the door wants to be opened.* **[10 Lament DMG [Lament]]** | When the Door appears. |
-| { *The Wrong Room* [**Debuff**] } | "You open it — and the room behind it is one you left years ago, and never wanted to see again." | [The Door opens onto old grief; the target is pulled toward the threshold.] | *Target loses 10 Composure; the room behind the door calls.* **[10 Lament DMG [Lament]]** | When the target opens the Door. |
-| { *The Slam* [**Attack**] } | "It shuts hard, and the sound it makes is the sound of your own front door, which is not a thing anybody has been able to explain." | [The frame closes with force.] | *Lament pressure and one heavy wooden blow.* **[14-22 Lament DMG [Lament]]** | When the handle is forced. |
-| { *The Locked Out* [**Attack**] } | "You are on the side you did not choose and there is no clause in anything you were given that says how you get back to the other one." | [The frame seals and will not reopen for that worker again.] | *A heavy Lament exile; the target's Sorrow Gauge rises 15%.* **[24-36 Lament DMG [Lament]]** | After a second forcing by the same person. Four people have been permanently refused. |
-| { *A Thousand Doors* [**Ultimate**] } | "Doors appear in every wall — and behind every one, a grief you have to face." | [The Door multiplies across every surface, all of them knocking.] | *All in range suffer Lament pressure for three turns among the open doors.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Knock* [**Debuff**] } | "A door appears in a wall that had no door — and then it knocks." | [The wall-less frame comes down the corridor at its constant walk and resolves in front of the worker; the knock is felt as an arrival, not an instruction to turn the handle.] | *Target suffers -10 Clarity; for a time they cannot say with confidence which home is their current one.* **[10 Lament DMG [Lament]]** | When the walking frame stops or resolves in front of the target in the corridor. |
+| { *The Wrong Room* [**Debuff**] } | "You open it — and the room behind it is one you left years ago. And never wanted to see again." | [The frame itself shows or stands open on a remembered room more clearly than the corridor; no personnel hand has turned the handle.] | *Target loses 10 Clarity; the return partner names the present location while physical contact is maintained.* **[10 Lament DMG [Lament]]** | When the target steps or reaches toward a shown room as though it must restore the past or serve as the way home. |
+| { *The Slam* [**Attack**] } | "It shuts hard. And the sound it makes is the sound of your own front door, which is not a thing anybody has been able to explain." | [The frame closes with force.] | *Lament pressure and one heavy wooden blow.* **[14-22 Lament DMG [Lament]]** | When the handle is forced. |
+| { *The Locked Out* [**Attack**] } | "You are on the side you did not choose and there is no clause in anything you were given that says how you get back to the other one." | [The frame seals, blisters the forcing hand, and will not reopen for that worker again.] | *Heavy Lament exile. No personnel Sorrow Gauge is inferred. The worker is permanently refused by the frame.* **[24-36 Lament DMG [Lament]]** | When the same person forces the handle a second time. |
+| { *A Thousand Doors* [**Ultimate**] } | "Doors appear in every wall — and behind every one, a grief you have to face." | [Impossible spaces open through the local environment; a remembered room shows more clearly than the current corridor.] | *All personnel in the affected corridors suffer Lament pressure for three turns while return partners maintain contact, name the present location, and close the interaction without burning or forcing the frame.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥60%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Doorway to Nowhere is recognised by the lamp reading, not by the fire. The frame burns at the same apparent brightness to the eye at two metres of reach and at fifty; the reference lamp exists because four early watches graded it by looking and produced a series that correlated with nothing — then the approach is set and the positions are taken.
+1. **Tension:** Identification first — Doorway to Nowhere is recognised by the lamp reading, not by the fire. The frame burns at the same apparent brightness to the eye at two metres of reach and at fifty. The reference lamp exists because four early watches graded it by looking and produced a series that correlated with nothing — then the approach is set and the positions are taken.
 2. **Clash:** All four Work Types are valid. The reading is the reach of the glow: the distance, in metres, at which the frame's light is still brighter than the Warden's reference lamp, taken on the open ground east of the Alpha Tree after dusk. Three point one metres is baseline. The recorded range is zero to fifty-seven.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Close the door consciously; do not force passage**.
+3. **Resolution:** The watch resolves only when the door has been left unopened and allowed to close on its own, no passage has been forced, the lamp has been read, every handle approach is logged, and the Gauge is below 25%. **Close the door consciously; do not force passage** is the management condition, not a suppression result.
 
 ### Consequences
 
 - Clarity fails here as location. The worker loses track, for an hour or two, of which of the places they have lived is the one they live in now, and the gauge climbs on their distress rather than on anything the door does.
 - Long exposure produces a worker who will not sign an open-ended order. Twenty-three Wardens rotated off this holding were afterwards found returning draft clearance orders to the directorate with the return clause left blank and a query against it, and the directorate's objection names all twenty-three by number.
 - The set costs weeping, numbness and a borrowed loss, each for about a day. The armoury's note records them in one line and records in a second that the Key's cost is the one nobody can be talked out of paying twice.
-- It has never breached. It has wandered inside the Alpha Tree corridors for twenty-seven years and has not once approached an exterior wall; the breach model below is reconstruction and is labelled as such throughout.
+- It has never breached. It has wandered inside the Alpha Tree corridors for twenty-seven years and has not once approached an exterior wall. The breach model below is reconstruction and is labelled as such throughout.
 
 ## Appearance
 **Primary Form:** A burning door-shaped figure that walks on a threshold with no wall around it. Its handle opens onto different memories.
@@ -110,7 +111,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** The lamp reading after dusk. By eye the fire looks identical at every intensity, which is why four early watches that graded it by looking produced a series correlating with nothing.
-- **Position / movement:** Walking. Position and facing are logged each watch against the corridor markers; the facing changes as it moves and has never been observed to change while it is still.
+- **Position / movement:** Walking. Position and facing are logged each watch against the corridor markers. The facing changes as it moves and has never been observed to change while it is still.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree
 
@@ -137,16 +138,16 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The frame lights and shows a room, gently, without opening: a kitchen, a stair, a road at a particular hour. Nobody has ever recognised one as their own and four have recognised one as somebody else's. | Decrease |
-| **Pugnahan** | It seals, the frame heats enough to blister, and the gauge climbs. Every activation on this file has followed a forced handle, and two people have been permanently refused by it after a second attempt. | Increase |
-| **Viderehan** | It gives the threshold's history: the house, the street, the hour the order came, the route the household walked. It has never given what happened to them afterwards, and assessors have asked for twenty-seven years. | Stable |
-| **Ferrehan** | It stands open on an empty room for the length of the watch and the worker stays outside it, not entering and not closing it. Primary Work Type on this holding. | Decrease |
+| **Flerehan** | The frame lights and shows a room, gently, without opening: a kitchen, a stair, a road at a particular hour. Nobody has ever recognised one as their own and four have recognised one as somebody else's. | Decrease · High |
+| **Pugnahan** | It seals, the frame heats enough to blister, and the gauge climbs. Every activation on this file has followed a forced handle, and two people have been permanently refused by it after a second attempt. | Increase · Low |
+| **Viderehan** | It gives the threshold's history: the house, the street, the hour the order came, the route the household walked. It has never given what happened to them afterwards, and assessors have asked for twenty-seven years. | Stable · Common |
+| **Ferrehan** | It stands open on an empty room for the length of the watch and the worker stays outside it, not entering and not closing it. Primary Work Type on this holding. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-Flerehan and Ferrehan pull the gauge down, Viderehan keeps it flat, and Pugnahan drives it up — Pugnahan is also the only antecedent on record that has opened this door. The manifest line reads Subject-Lament, which agrees with the [LS] designation and with the Lament element; the Subject-Grudge wording that had worked its way into the header, this section, the Observation Progression and the Registrum was drift, and all 4 places have been brought back into line.
+Flerehan and Ferrehan pull the gauge down, Viderehan keeps it flat, and Pugnahan drives it up — Pugnahan is also the only antecedent on record that has opened this door. The manifest line reads Subject-Lament, which agrees with the [LS] designation and with the Lament element. The Subject-Grudge wording that had worked its way into the header, this section, the Observation Progression and the Registrum was drift. And all 4 places have been brought back into line.
 
 Two numbers come off this holding and they answer different questions. The gauge reports a single worker across a single watch. The glow reports how many orders this facility has issued that sent a person out with no way home attached. Over thirty years the two have never risen or fallen in step, and a watch that drops the gauge while the lamp stands at 40 metres is entered as clean and carried forward with no note beside it.
 ## Breach Behavior
@@ -160,6 +161,7 @@ Two numbers come off this holding and they answer different questions. The gauge
 | **Effect** | Modelled as audible weeping. Observed: silence, and workers who cannot afterwards say which of their homes is the current one. The weeping clause has never been evidenced and is retained only because the model is quoted elsewhere. |
 | **Secondary Effect** | The glow reaching further. It is the only thing about this holding that has ever been seen to escalate, and it escalates in response to documents rather than to events in the corridor. |
 | **First Target** | Whoever in the corridor has moved house most often. Of nineteen approaches it has resolved first in front of the most-moved person on seventeen, which the roster office found by accident and has never published to the Wardens. |
+| **Management** | Close the door consciously; do not force passage. Step aside and let the frame walk, keep both hands off the handle, name the current place with a return partner, and read the glow against the reference lamp. |
 | **Escalation** | Composure drain +5 per turn while a worker stands in its path. It stops when they step aside, and the doctrine is accordingly to let it walk. |
 
 ### Escalation Notes
@@ -176,7 +178,7 @@ Two numbers come off this holding and they answer different questions. The gauge
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : A spherical brass incense burner pierced with hundreds of star-shaped ventilation holes, suspended from three slender steel chains with a counterweight pinecone finial.
+**Appearance:** A spherical brass incense burner pierced with hundreds of star-shaped ventilation holes, suspended from three slender steel chains with a counterweight pinecone finial.
 
 Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines. The censer produces a continuous trail of heavy, aromatic smoke that neutralizes atmospheric toxicity across eight paces.
 
@@ -191,15 +193,15 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 **Falloff Rule:** 100% to the one designated target. The censer's smoke will not carry into a doorway, any doorway, which the armoury found in Year 4229 while trying to use it in one and has recorded without explanation.
 **Damage Application:** Multiplier to direct and Tick damage separately. The Tick is counted in the hours a target afterwards spends unable to settle anywhere they are living, and it outlasts the direct damage in every recorded use.
 
-**Ability:** Lament damage to the Mind. The censer's smoke will not pass through a doorway of any kind, found by accident in Year 4229 and recorded as a property; the armoury notes that it has made the piece useless in exactly the places people most want to carry it.
+**Ability:** Lament damage to the Mind. The censer's smoke will not pass through a doorway of any kind, found by accident in Year 4229 and recorded as a property. The armoury notes that it has made the piece useless in exactly the places people most want to carry it.
 
-**Cost:** Involuntary weeping, for about a day, and in every logged instance it starts in a doorway. Six wielders recorded that independently before anyone compared them.
+**Bearer cost:** Involuntary weeping, for about a day, and in every logged instance it starts in a doorway. Six wielders recorded that independently before anyone compared them.
 
 ### M.A.W. Suit — The Wandering Shroud
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a deep-blue shroud of fine Lament Han cloth with a thin charred seam like a doorframe around the shoulders. It drapes from collar to waist, leaves the hands free, stays cool on the current side, and closes with one clasp the return partner can release.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -209,29 +211,29 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Wards Lament pressure on the Mind, and holds the wearer's sense of where they live. It is issued for the watch and kept on to the vehicle, which the lamp readers insisted on after two workers removed it in the corridor and gave their home addresses wrong.
+**Ability:** *Current Side* wards Lament pressure on the Mind by keeping the wearer's body and address distinguishable from a shown room. In *Close the Frame*, the return partner names the physical landmark and the bearer answers from the current room, closing one threshold-memory surge without deleting the home memory. It is kept on to the vehicle after two workers removed it in the corridor and gave their home addresses wrong.
 
-**Cost:** Small pleasures go flat for about a day. Wearers describe it as the feeling of being between addresses, which the counselling wing has recorded in those words from five people who had not spoken to each other.
+**Bearer cost:** Small pleasures go flat for about a day. Wearers describe it as the feeling of being between addresses, which the counselling wing has recorded in those words from five people who had not spoken to each other.
 
 ### M.A.W. Stigma — The Wandering Key
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a key-charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small deep-blue key-charm of Lament Han metal with no teeth, a smooth shaft and a bow shaped like a doorframe. It is cool at rest and warms only when a remembered doorway is near; in use it outlines a narrow temporary threshold.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
 **Effect:** +1 when working this entity, and the bearer may not be the person who reads the lamp. The holding separated the roles after a bearer's reading came in at two metres on a night the relief measured nineteen.
 
-**Ability:** The key opens a passage to a place the bearer remembers, for as long as they can hold it. It has been used four times in twenty-seven years and all four uses are documented in full, including the one that was not authorised.
+**Ability:** *Remembered Handle* identifies a nearby remembered threshold without proving that the place survives or can be reached. *Open Briefly* creates one temporary passage for orientation, farewell or limited recovery only after a return partner confirms the current anchor and closure cue. It cannot retrieve people from the past, create a permanent route or override a closed physical boundary. It has been used four times in twenty-seven years, including one unauthorised use, and all four are documented in full.
 
-**Cost:** The bearer afterwards loses the place: not the memory, the sense that it was ever theirs. Of the four, three recorded that they would do it again and the fourth asked for the key to be destroyed.
+**Bearer cost:** The bearer afterwards loses the place: not the memory, the sense that it was ever theirs. Of the four, three recorded that they would do it again and the fourth asked for the key to be destroyed.
 
 *The key has been granted seven times, every one to a worker who wrote a return condition into an order they could have left open. Four of the seven had to deliver the answer themselves when the date came. The holding records the pattern and will not make it a criterion.*
 
 ### M.A.W. Use Notes
 
-The set is built around thresholds and refuses to cross them: a censer whose smoke will not go through a doorway, a shroud that holds a wearer's address in place, a key that opens a way back and charges the bearer the place itself. The armoury's note records that none of it was designed, that it was found piece by piece over twenty-seven years, and that the fourth piece attempted here — a lintel intended to hold the frame open indefinitely so that a destination could be surveyed from outside — worked exactly as specified and was dismantled before it was ever carried into the corridor.
+The set is built around thresholds and refuses to cross them: a censer whose smoke will not go through a doorway, a shroud that holds a wearer's address in place, a key that opens a way back and charges the bearer the place itself. The armoury's note records that none of it was designed, that it was found piece by piece over twenty-seven years. And that the fourth piece attempted here — a lintel intended to hold the frame open indefinitely so that a destination could be surveyed from outside — worked exactly as specified and was dismantled before it was ever carried into the corridor. As *Door With Return*, no remembered threshold is opened until a physical return partner, current-location anchor and specific closure cue exist. The passage is for orientation, recovery or exit, never Gate authority, permanent transport or a claim that the remembered home has been restored.
 
 ### Field Use Record
 
@@ -242,9 +244,9 @@ The set is built around thresholds and refuses to cross them: a censer whose smo
 | **At limit** | Watch length, longest reach, and the operator stating their current address aloud to the relief before leaving the corridor. Eleven have got it wrong. All eleven are in the folder with their sealed declarations beside them. |
 | **After use** | Shroud kept on to the vehicle, hand check for blistering, address check again at one day, sealed declaration read back. Nine operatives have asked for theirs to be forwarded to the directorate and all nine were. |
 
-**Stat interpretation:** β across the set and correctly rated against entities. Against people it costs a day of weeping that begins in doorways, a day of flattened pleasure, and — for four bearers in twenty-seven years — a place they can no longer feel was theirs, and the establishment has a column for the first two.
+**Stat interpretation:** β against entities, correctly rated, and none of it reaches the people cost written under it. Against people it costs a day of weeping that begins in doorways, a day of flattened pleasure, and — for four bearers in twenty-seven years — a place they can no longer feel was theirs, and the establishment has a column for the first two.
 
-**Full-set source review (2026-10-11):** Reviewed this SE’s Weapon, Suit and Stigma blocks, grade summary, M.A.W. Use Notes and Field Use Record as one set against the full Side Codex, `SE-152-B/C/D`, the Master Registry, Master Codex Entries 469–471, and `MAW-W-152`. The grade summary now records β; the Shroud’s resistances/cost and Key’s Tail / 5% / +1 agree across this SE, the Side set and their item files. The fourth lintel in Use Notes is a dismantled trial, not a current fourth piece. Keep the Weapon identity/form and reach as holds: the Censer title/Appearance is supported, but the linked item’s Official Name and Master Entry 469 retain *The Wandering Requiem*, while its Resting/Active forms retain the lantern/relic and blue-flame blade; no transition is documented, and the archetype’s Medium band conflicts with Range 2 (Short). The Master Codex’s Shroud/Key subtype labels do not resolve to the documented cloth/Tail forms; leave them as classification holds. No numeric combat profile changed.
+**Full-set source review (Year 4238):** Reviewed this SE’s Weapon, Suit and Stigma blocks, grade summary, M.A.W. Use Notes and Field Use Record as one set against the full Side Codex, `SE-152-B/C/D`, the Master Registry, Master Codex Entries 469–471, and `MAW-W-152`. The grade summary now records β. The Shroud’s resistances/cost and Key’s Tail / 5% / +1 agree across this SE, the Side set and their item files. The fourth lintel in Use Notes is a dismantled trial, not a current fourth piece. Keep the Weapon identity/form and reach as holds: the Censer title/Appearance is supported. But the linked item’s Official Name and Master Entry 469 retain *The Wandering Requiem*. While its Resting/Active forms retain the lantern/relic and blue-flame blade. No transition is documented. And the archetype’s Medium band conflicts with Range 2 (Short). The Master Codex’s Shroud/Key subtype labels do not resolve to the documented cloth/Tail forms; leave them as classification holds. No numeric combat profile changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -276,18 +278,18 @@ The set is built around thresholds and refuses to cross them: a censer whose smo
 Doorway to Nowhere (N-IIβ-152 [LS]) stands on the register as a Subject-Lament manifestation expressing Lament, walking the Alpha Tree corridors in Zone A at a constant one point four five metres per second: a door-shaped frame of charred wood and live fire with no wall around it, fever-warm, smelling of cold rain and char, its handle giving onto a different place every time and never the same one twice. It has never breached and has never approached an exterior wall. Its instrument is the reach of the glow against a reference lamp — three point one metres at baseline, zero at the floor, fifty-seven at the ceiling.
 
 **Entry 2 — <Order Return: One Thousand Six Hundred and Forty-Two Orders, Two Hundred and Twenty-Four Without a Determinable Condition>**
-The first return under the Rule of the Return Clause, Year 4238. This facility issued one thousand six hundred and forty-two orders requiring a person to leave a dwelling, a district or a post. One thousand four hundred and eighteen carried a stated condition of return, a named certifying officer and a decision date. Two hundred and twenty-four were issued with the condition recorded as to be determined, which the rule permits provided a named officer and a ninety-day date are given. Sixty-one of those dates have now passed and the answer in all sixty-one was that there would be no return; each was signed by the named officer and delivered by them in person, as the rule requires. Thirty-six decisions are overdue. Nine certifying officers have resigned their commissions this year, all nine after a delivery, and all nine resignations cite it. The glow reached fifty-seven metres in Year 4226, the quarter the Alpha Tree perimeter streets were cleared under nine orders of which none named a condition, an officer or a date. It reached zero in Year 4237. The light has tracked the order column for twenty-seven years and has never tracked the vacancies themselves.
+The first return under the Rule of the Return Clause, Year 4238. This facility issued one thousand six hundred and forty-two orders requiring a person to leave a dwelling, a district or a post. One thousand four hundred and eighteen carried a stated condition of return, a named certifying officer and a decision date. Two hundred and twenty-four were issued with the condition recorded as to be determined, which the rule permits provided a named officer and a ninety-day date are given. Sixty-one of those dates have now passed and the answer in all sixty-one was that there would be no return. Each was signed by the named officer and delivered by them in person, as the rule requires. Thirty-six decisions are overdue. Nine certifying officers have resigned their commissions this year, all nine after a delivery, and all nine resignations cite it. The glow reached fifty-seven metres in Year 4226, the quarter the Alpha Tree perimeter streets were cleared under nine orders of which none named a condition, an officer or a date. It reached zero in Year 4237. The light has tracked the order column for twenty-seven years and has never tracked the vacancies themselves.
 
 **Entry 3 — <Statement of the Emergency Directorate>**
 Ask me at the hour. The Han is coming up the valley, I have forty minutes and eleven thousand people, and you want me to write down the condition on which they may come home. I do not know. Nobody knows. The ground may be gone, the ground may be fine, the ground may be fine and condemned anyway by a board that has not met yet. So I either invent a condition I cannot stand behind, which is a lie handed to a woman carrying two children past me in the dark, or I write the true thing, which is that I cannot say, and she reads that as never. You are asking me to tell eleven thousand people in the street whether they are ever going home, at the one moment I do not know and they cannot bear it. I got them all out. Every one of them. Read the casualty figure before you read the rest of this.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IIβ-152 is a corridor discipline in the Alpha Tree and a drafting rule in the emergency directorate. Corridor: the door is not opened, the handle is not turned, and no person is sent through; a worker in its path steps aside and lets it walk; no zone is sealed around it, that being the one response the file names as actively harmful, having been tried twice with the glow at forty metres on both occasions; glow read against the reference lamp on the marked ground after dusk, three readings, longest reported, by a Warden carrying no Key; position and facing logged at each corridor marker; approaches to the handle logged including those that stopped; the shroud worn to the vehicle and the operator's current address stated aloud to the relief before leaving. Directorate duties, binding on every order this facility issues requiring a person to leave a dwelling, a district or a post: **the order states the condition on which they may return, names the officer empowered to certify it, and gives the date by which that officer must decide. Where the condition cannot honestly be stated at the hour, the order records it as to be determined and still names the officer and the date. The decision is delivered in person by the officer who signs it.** Work response — Flerehan: a room shown gently and not opened (Decrease); Viderehan: the threshold's history, never what became of the household (Stable); Ferrehan: the watch spent outside an open frame, neither entering nor closing it (Decrease).
+Containment of N-IIβ-152 is a corridor discipline in the Alpha Tree and a drafting rule in the emergency directorate. Corridor: the door is not opened, the handle is not turned. And no person is sent through. A worker in its path steps aside and lets it walk. No zone is sealed around it, that being the one response the file names as actively harmful, having been tried twice with the glow at forty metres on both occasions. Glow read against the reference lamp on the marked ground after dusk, three readings, longest reported, by a Warden carrying no Key. Position and facing logged at each corridor marker. Approaches to the handle logged including those that stopped. The shroud worn to the vehicle and the operator's current address stated aloud to the relief before leaving. Directorate duties, binding on every order this facility issues requiring a person to leave a dwelling, a district or a post: **the order states the condition on which they may return, names the officer empowered to certify it. And gives the date by which that officer must decide. Where the condition cannot honestly be stated at the hour, the order records it as to be determined and still names the officer and the date. The decision is delivered in person by the officer who signs it.** Work response — Flerehan: a room shown gently and not opened (Decrease). Viderehan: the threshold's history, never what became of the household (Stable). Ferrehan: the watch spent outside an open frame, neither entering nor closing it (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Return Clause>**
-The emergency directorate opposed this rule and I have never been able to get round their objection; I have only decided to live on the other side of it.
+The emergency directorate opposed this rule and I have never been able to get round their objection. I have only decided to live on the other side of it.
 
-Their case: at the hour you order an evacuation you do not know the condition of return, and a rule that compels you to write one down compels you either to invent a condition you cannot stand behind or to hand a woman running past you in the dark a sentence she will read as never. The deputy director put it in a line I cannot improve on: *you are asking me to tell eleven thousand people in the street whether they are ever going home, at the one moment I do not know and they cannot bear it.* He is also the man who got all eleven thousand out in forty minutes with nine dead, and I would have him do it again tomorrow.
+Their case: at the hour you order an evacuation you do not know the condition of return. And a rule that compels you to write one down compels you either to invent a condition you cannot stand behind or to hand a woman running past you in the dark a sentence she will read as never. The deputy director put it in a line I cannot improve on: *you are asking me to tell eleven thousand people in the street whether they are ever going home, at the one moment I do not know and they cannot bear it.* He is also the man who got all eleven thousand out in forty minutes with nine dead. And I would have him do it again tomorrow.
 
 What we have done is allow the condition to be recorded as to be determined, provided a named officer and a date are given.
 
@@ -333,9 +335,9 @@ Three records are grouped with this one and two of them are grouped because they
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Final Door** | Grouped on being a threshold to somewhere unknown. The distinction this file insists on: that one is about what is on the other side, and this one is about the paperwork on this side. | No trial. This holding cannot be transported and that one cannot be approached. | That the pairing is nominal, written beside it each time it is repeated. |
+| [**The Final Door**](SE-C-Vδ-111_The_Final_Door_마지막_문.md) | Grouped on being a threshold to somewhere unknown. The distinction this file insists on: that one is about what is on the other side, and this one is about the paperwork on this side. | No trial. This holding cannot be transported and that one cannot be approached. | That the pairing is nominal, written beside it each time it is repeated. |
 | **The Returning Tree** | The one claim on this file with anything behind it: four of the rooms shown by the frame have been matched to dwellings in the Tree's own register, by three separate archivists working independently. | Unexplained. Neither holding was moved and no mechanism has been proposed. The four matches are printed with the archivists' names. | The four matches, reproduced in full, and the fact that nobody has an account of them. |
-| **The Lost Prince** | A Year 4231 proposal to walk the frame along his route so that he might be offered a way back. | Refused. The holding's objection is on file: an entity formed out of an order that said nothing about returning will not be used to make a promise this facility cannot keep. | The proposal and the refusal kept together. Renewed once and refused again in the same terms. |
+| [**The Lost Prince**](SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md) | A Year 4231 proposal to walk the frame along his route so that he might be offered a way back. | Refused. The holding's objection is on file: an entity formed out of an order that said nothing about returning will not be used to make a promise this facility cannot keep. | The proposal and the refusal kept together. Renewed once and refused again in the same terms. |
 
 **Interaction procedure:** The four Returning Tree matches are reproduced whole on any document that mentions the pairing. No proximity work. The two refusals are cited rather than re-argued.
 
@@ -343,15 +345,11 @@ Three records are grouped with this one and two of them are grouped because they
 
 The evacuation scattered the families, and their doors, torn from their frames, became thresholds to homes that no longer exist, and the thresholds wander.
 
-The border evacuation was sudden — a surge, a Han-advance, the order to flee issued faster than the citizens could process. The families ran. They left their homes — the tenements, the dwellings, the rooms where their lives had been organized. And the doors — the thresholds, the frames, the physical boundaries between inside and outside, between home and not-home — were torn from the walls, or left standing in empty frames, or carried by the fleeing families as the last piece of the home they were abandoning.
+The border evacuation of Year 4211 was not a failure of rescue. Eleven thousand people were moved in forty minutes under a fourteen-page order with routes, assembly points and livestock provisions; nine died. What the order did not contain was a return condition, a certifying officer or a date. It ended at the assembly points. Two thousand six hundred and forty households never went back, and eight hundred and seventy were still recorded as holding a door.
 
-The doors became symbols. Each door a family carried — or each door left standing in a demolished frame — was a threshold: the boundary between the home that was and the homelessness that followed. The door was the last piece of the inside, carried into the outside, the remnant of the boundary that had, in the home, separated the private from the public, the safe from the unsafe, the belonging from the not-belonging.
+The entity that formed in the Alpha Tree corridors the following year is one wall-less frame of charred wood and live fire, walking at a constant pace for twenty-seven years. Personnel do not turn its handle and nobody has been sent through it. Its light is read against a reference lamp, and the metres do not track empty houses as such: they track homes emptied by orders that named no way back.
 
-The doors wander. Doorway to Nowhere is Subject-Lament, Lament-element: the figure of a threshold carried after the place it thresholded is gone — the door that leads to a home that no longer exists, held by families who left not knowing whether they could return, preserved as a moving boundary between a past that is destroyed and a future that is uncertain. The Door does not open onto anything. It opens onto absence. But it is carried, faithfully, by the families who took it, because the door, even without the home, is the last proof that the home was there.
-
-Those who come near the Doorway to Nowhere feel the grief of the carried threshold — the specific sorrow of holding a door that opens onto nothing, of carrying the boundary of a home that is gone, of leaving through a door and not knowing, as you leave, whether the door will ever again open onto the room it was made for.
-
-Some sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door torn from its frame, carried by the fleeing, the threshold to a place that may not survive the family's absence, preserved as a wandering boundary between the home that was and the home that, if the family is fortunate and the city is kind, might someday be again.
+Doorway to Nowhere therefore mourns neither the surge nor the leaving that saved them. It preserves the silence after the assembly points—the proof a home existed, carried forward without any promise that its threshold will open onto that home again.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The evacuation scattered the families. Their doors, torn from frames, wander.”* — Keeper, Archive
@@ -367,11 +365,11 @@ Some sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door to
 
 **Classification:** Sorrow Entity — `N-IIβ-152 [LS]` · Inner Sorrow (내한) origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Lament manifestation
 **Common Name:** Doorway to Nowhere
-**Containment Status:** Contained — Zone A, Alpha Tree, at large within the corridors; it is not held behind anything and sealing a zone around it is prohibited
+**Containment Status:** Contained — Zone A, Alpha Tree, at large within the corridors. It is not held behind anything and sealing a zone around it is prohibited
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It has never breached, has injured nobody who did not force the handle, and has walked the same corridors for twenty-seven years without once approaching an exterior wall. What makes the holding consequential is that its light has tracked this facility's clauseless departure orders for twenty-seven years, and that the Wardens it resolves on first are the ones who have moved house most often. The Registrum previously carried placeholder text in its classification, threat, procedure, observation, cross-reference and originator fields, all six reading see elsewhere, recorded a Subject-Grudge manifestation against a Lament element and an [LS] designation, and attributed the holding to C-territory on a Zone A site; all eight corrected.
+**Threat Assessment:** Moderate (β). It has never breached, has injured nobody who did not force the handle, and has walked the same corridors for twenty-seven years without once approaching an exterior wall. What makes the holding consequential is that its light has tracked this facility's clauseless departure orders for twenty-seven years, and that the Wardens it resolves on first are the ones who have moved house most often. The Registrum previously carried placeholder text in its classification, threat, procedure, observation, cross-reference and originator fields, all six reading see elsewhere, recorded a Subject-Grudge manifestation against a Lament element and an [LS] designation. And attributed the holding to C-territory on a Zone A site; all eight corrected.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan raises it, and forced entry is the dominant cause of activation on this holding.
+- Flerehan and Ferrehan lower the gauge. Viderehan holds it level; Pugnahan raises it, and forced entry is the dominant cause of activation on this holding.
 - The door is not opened by personnel. The prohibition is absolute: it opens onto somewhere, nobody knows where, and the facility has declined to find out by sending a person through.
 - Glow read against the reference lamp on the marked ground east of the Alpha Tree after dusk, three readings, the longest reported, by a Warden carrying no Key.
 - Position and facing logged each watch. There is no structure to anchor it to and it moves.
@@ -384,7 +382,7 @@ Some sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door to
 - Every activation on file followed a forced handle. There is no recorded activation with any other antecedent.
 - Four rooms shown by the frame have been matched to dwellings in the Returning Tree's register by three archivists working independently, and nobody has an account of it.
 **Cross-References:** Zone A, Alpha Tree · the Year 4211 border evacuation order, fourteen pages, held in the commissioning file · the order return and the two hundred and twenty-four without a determinable condition · the sixty-one deliveries and the nine resignations · the four Returning Tree matches
-**Faction Involvement:** SED (A-territory survey) · the emergency directorate, listed on an entity file because the Rule of the Return Clause is a containment condition of this holding and the directorate opposed it. The earlier C-territory entry was wrong on a Zone A site and has been corrected.
+**Faction Involvement:** SED (A-territory survey) · the emergency directorate, listed on an entity file because the Rule of the Return Clause is a containment condition of this holding and the directorate opposed it.
 **Originator:** Eleven thousand residents of the border district, moved out in Year 4211 under an order fourteen pages long that provided for departure in considerable detail and made no provision at all for coming back. The archivist's note records that the order is efficient, well drafted, and saved every life it covered.
 
 ### Registry Addendum
@@ -410,9 +408,9 @@ Its light rises in the vicinity of abandoned dwellings, and the brightness is lo
 
 The glow series was kept for twenty-three years against the ward's vacancy figures, and the correlation was strong and never explained. In Year 4234 a Warden who had been given both documents to carry added a third column of her own — the orders under which those properties had been emptied — and the picture resolved. The light does not rise with vacancy. It rises with vacancy created by an order that named no condition of return. Where a street was cleared under an order with a clause, an officer and a date, the properties stood empty and the lamp read baseline. The distinction has since held twenty-three times out of twenty-six.
 
-The finding reframes the holding and the wing has been careful about how it says so. It is not grieving the evacuation; nine people died out of eleven thousand and the series is flat across the whole of it and across all three reviews that praised the order. It is grieving a silence in a document — fourteen pages that got everybody out and did not contain a sentence about getting back in. That is a distinction a burning door in a corridor has been making for twenty-seven years, and it took three columns on one clipboard to see it.
+The finding reframes the holding and the wing has been careful about how it says so. It is not grieving the evacuation. Nine people died out of eleven thousand and the series is flat across the whole of it and across all three reviews that praised the order. It is grieving a silence in a document — fourteen pages that got everybody out and did not contain a sentence about getting back in. That is a distinction a burning door in a corridor has been making for twenty-seven years, and it took three columns on one clipboard to see it.
 
-The operational consequence sits outside this file. Nothing in the corridor moves the light; the only intervention that has ever moved it is a named officer writing a date on an order at the hour when they do not know the answer, and then standing in front of somebody three months later and giving it. Nine of them have resigned over that this year. The wing records this plainly rather than claiming a containment it does not have.
+The operational consequence sits outside this file. Nothing in the corridor moves the light. The only intervention that has ever moved it is a named officer writing a date on an order at the hour when they do not know the answer. And then standing in front of somebody three months later and giving it. Nine of them have resigned over that this year. The wing records this plainly rather than claiming a containment it does not have.
 
 ### An Evacuation That Scattered Families
 
@@ -432,7 +430,7 @@ A border evacuation separated households and their doors became the mark of leav
 
 - **Classification detail:** Subject, Echo (II) coherence, Moderate (β) potency, Comprehension Level 2, Subject-Lament. The Subject-Grudge entries in the header, the Operational Work Notes, the Observation Progression, the Flavor Text and the Registrum have all been corrected against the [LS] designation and the Lament element.
 - **Field detail:** Lament; Zone A, Alpha Tree, at large in the corridors. The SECC Movement cell recorded it as a stationary structure, which contradicted its measured walking speed, the Watch Record and its own name; corrected.
-- **Recognition detail:** Identify it by the lamp reading, not by the fire. The frame burns at the same apparent brightness to the eye at two metres of reach and at fifty; the reference lamp exists because four early watches graded it by looking and produced a series that correlated with nothing.
+- **Recognition detail:** Identify it by the lamp reading, not by the fire. The frame burns at the same apparent brightness to the eye at two metres of reach and at fifty. The reference lamp exists because four early watches graded it by looking and produced a series that correlated with nothing.
 - **Record detail:** Check the designation and check which part of the passage the sorrow sits in. This holding is the going out. A door that will not open, a door that leads somewhere final, and a gate that admits are other holdings and other approaches, and the shape they share is furniture.
 - **Containment detail:** There is nothing holding it and nothing is meant to. It has been enclosed twice and the light went to forty metres both times, which is the only instance in the wing of a containment measure being withdrawn on the entity's own evidence.
 ## Document Information

@@ -24,9 +24,15 @@ The Silence Mantle is a matte black garment of Han weave that breathes without s
 
 ## PROTECTION FILE
 
+**Grade / Element:** α / Weight
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 5 / 10 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
 
 **Optional Quiet:** The Mantle distributes silence pressure across its folds while keeping speech and exit available.
 
@@ -43,14 +49,3 @@ Stigma senses presence of burden, Mantle shelters choice, Maul uses one offered 
 **Maintenance:** Hang the Mantle in a room with an open exit and no questions. Clear it only after someone enters and leaves without explanation.
 
 **Removal:** The wearer removes it personally unless they request help.
-
----
-
-**Document ID:** `SE-285-C`  
-**Linked Entity:** `SE-285`  
-**Item Registry Code:** `MAW-S-285-01`  
-**Author:** Specialist Hanul Grey  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

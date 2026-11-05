@@ -22,7 +22,7 @@ Vestige is a pale tree-beast whose trunk, branch-arms, and root-legs blink out a
 | Coherence / Potency | I / α |
 | Element | Grudge |
 | Location | Zone E, Border region |
-| Gauge / Pressure | 229/229; starts 25–40% / 3–9 Grudge |
+| Gauge / Pressure | 000/880; starts 000% / 3–9 Grudge |
 | Movement / Resistance | 0.95 m/s / 15% Grudge, 5% other |
 | Breach threshold | Gauge ≥45%; vanished-forest ultimate begins at 65% |
 | Observation | 1 — Initial |
@@ -65,13 +65,3 @@ The set formed after Cartographer Yeonhwa mapped a road only while Vestige revea
 During the False-Stump Survey, a recovery team drove a marker through Vestige’s hollow ring so later crews could find it. The tree returned solid around the stake and shattered three map tables. Yeonhwa removed the marker, recorded the road from its shadow, and allowed the next blink to erase the physical trace. Marjuk classified the account as history rather than navigation.
 
 > *“A record defeats denial. A reconstruction can become another way of refusing what was lost.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-622-A`  
-**Linked Entity:** `SE-622`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

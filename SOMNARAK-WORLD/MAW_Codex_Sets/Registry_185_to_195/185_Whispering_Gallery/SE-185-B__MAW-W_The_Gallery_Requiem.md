@@ -22,9 +22,12 @@ The Gallery Requiem is a blue blade with the texture of layered paint rather tha
 
 ## CORE STATISTICS
 
+**Grade / Element:** β / Lament
+
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
 | Lament 5–9 | 2 — Normal / 2 — Short | Single | 4 / 25 |
+**Maximum Amount:** 4 — Stocked
 
 ## FUNCTION & COST
 
@@ -37,14 +40,3 @@ During a Zone B archive walk, the blade steadied a portrait whose name had been 
 ## SET RELATIONSHIP
 
 Gallery Shroud prevents voice overload and Gallery Stone restores one name. Full *Frame and Witness* use requires an Archive witness and rejects any attempt to turn an image into a complete, false person.
-
----
-
-**Document ID:** `SE-185-B`  
-**Linked Entity:** `SE-185`  
-**Item Registry Code:** `MAW-W-185-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

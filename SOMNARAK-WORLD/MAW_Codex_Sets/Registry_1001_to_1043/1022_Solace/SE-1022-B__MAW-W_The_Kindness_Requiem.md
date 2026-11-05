@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Kindness Requiem
 
-> *“The Kindness Requiem remembers Solace; the bearer must not mistake memory for permission.”*
+> *"It gives the target a comfort nobody asked for and takes the wielder's own. Wielded long, they hand out kindness and receive none."*
 
 ---
 
@@ -17,7 +17,11 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Solace's lament signature in the strike.  
-**Binding rule:** the bearer names Solace's event—Countless small acts—food shared, doors held, wounds tended—gathered into a voice.—and accepts this limit: No containment required; preserve the conditions that form it
+**Binding rule:** the bearer names Solace's event — “Countless small acts—food shared, doors held, wounds tended—gathered into a voice.” — and accepts this limit: No containment required; preserve the conditions that form it
+
+### Appearance
+
+A wide arming sword, double-edged and silvered from point to pommel disc, ninety-five centimetres from quillon to pommel. The grip is black leather over wire, wrapped a hand's width across, with a hollow already worn where the palm rests.
 
 ## CORE STATISTICS
 
@@ -25,16 +29,20 @@
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Solace's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
+**Operational / binding cost:** The Requiem does kindness in the only register it knows — the source's: each strike gives the target a comfort they did not ask for and takes the wielder's own. Wielded long, the wielder is handing out kindness and receiving none.
 
 ## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Weapon Record*
 
-The first The Kindness Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Solace. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Kindness Requiem encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Solace. A wielder handed out comfort all season and received none of it back, and the Requiem’s binding is the ward ledger from that quarter.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Solace's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the kindness is given before it is asked for, and it comes out of the wielder’s store without a target.
 - Terminal state: Solace's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “No containment required; preserve the conditions that form it” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +51,4 @@ The first The Kindness Requiem field bearer encountered this source response: N/
 
 ## SET RELATIONSHIP
 
-Within *Solace — Witnessed Form*, The Kindness Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1022-B`  
-**Linked Entity:** `SE-1022`  
-**Item Registry Code:** `MAW-W-1022-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Solace — Witnessed Form*, The Kindness Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a comfort its wielder was offered and took.

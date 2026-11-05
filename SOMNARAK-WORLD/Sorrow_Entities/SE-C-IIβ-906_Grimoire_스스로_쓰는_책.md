@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-906 [GO]` |
-| **Entity Type** | **Object** — Can breach via Transform |
+| **Entity Type** | **Object** — Non-breaching: expansion only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Tale |
-| **Physical Form** | Non-Organic — A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-906, contained |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,10 +28,11 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object |
 | **Primary pressure** | Grudge / Tale pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, counted against pages rather than minutes: a cycle is the time it takes the book to fill one side, which has run between nine minutes and four hours. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **Work Damage** | 2–4 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is thirty-one hours of continuous recording with no gap in it. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -45,56 +46,63 @@
 - Nothing is read aloud. Line counts are taken by eye without following the text, and the most recent page is transcribed by instrument into a sealed sheet that goes to the register unopened.
 - Extraction is authorised apart from the work cycle and has never been performed. The two applications on file were withdrawn by their own authors after reading the drafting history.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Grudge. The binding has never been tested and will not be; the one proposal to clamp the cover shut is in the file under its author's name and was refused on the grounds that a book that cannot write may begin writing elsewhere. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 479/479 |
-| **Han Pressure [ATK]** | 14–20 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-906 |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the volume has been on the same lectern for thirty-one years under a weighted cover. What arrives is a page, and it arrives only after somebody lifts the cover — three hundred and forty times so far, which is the whole of the file's contact history.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A bound volume on a lectern, weighted shut, the cover the only thing between it and a reader. It cannot move and cannot reach; the ink is the contact. |
+| **Perceptible to** | The handwriting first — the reader recognising the hand before the content is read, which in 188 of 411 cycles they named correctly and in 41 of those it was their own. Then the account itself, which is in the first person and in somebody else's voice. |
+| **Handling** | Cover weighted shut and never used to assess the threat. Nobody reads it and nobody looks over a reader's shoulder. The standing order says nothing is read aloud, and six occasions on file are six workers who thought it might help. — see `## Handling Process` |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-C-906 |
 | **Resolution Condition** | The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It is writing while you watch, and the hand is one you recognise." | [The script matches the handwriting of somebody the observer knows.] | *10 Grudge. In 188 of 411 cycles the observer named the hand correctly, and in 41 of those it was their own.* **[10 Grudge DMG [Grudge]]** | Within the first minutes of any cycle. |
-| { *The Tale Surge* [**Attack**] } | "The entry is about something that has not been settled, and the account is accurate." | [A page fills with a true account of an unresolved grievance involving somebody present.] | *18 Grudge to the person it concerns; the account has never been shown to be wrong.* **[18 Grudge DMG [Grudge]]** | When somebody with an outstanding complaint stands over it. |
-| { *The Settling* [**Attack**] } | "Somebody reads a line out loud and the book stops to listen." | [Reading aloud halts the writing and transfers its subject to the reader.] | *26 Grudge to the reader, who afterwards carries the grievance as their own.* **[26 Grudge DMG [Grudge]]** | When any line is read aloud in the chamber. Six occasions, all six by workers who thought it might help. |
-| { *The Tale Collapse* [**Ultimate**] } | "Every blank surface in the wing takes a line of the same hand." | [The writing propagates to walls, forms and ledgers across the sector.] | *20 Grudge per cycle for three cycles to everybody in the wing.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once; the sector's forms were destroyed and the incident is the reason the page count is reported weekly. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Grimoire does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Writes a line between two readings, so that the frame before shows blank vellum and the frame after shows finished text with no frame between them. The script is a hand the observer knows. | Takes the page count across two successive readings with the cover undisturbed, and sets the camera before the first count rather than after it. | The count is the reading and the cover is the control. In 188 of 411 cycles the observer named the hand correctly, and in 41 of those it was their own, which is why the count is taken by somebody who has no outstanding complaint. |
+| { *The Tale Surge* [**Exposure**] } | Presents an open page to one reader as a first-person account of a wrong they did, with the detail of the person they did it to. A second person over the same shoulder sees unrelated text or nothing at all. | Keeps the cover down and works the object rather than the text: line counts, ink distribution, and the pattern of blanks across readers. | The study confirmed ninety-one per cent of checkable particulars and not every claim. A reader who cannot hold does not break down — they begin recounting a grievance in the first person and cannot afterwards say whose it was. |
+| { *The Unraised Line* [**Refusal**] } | Does nothing at all while the cover is down. It cannot reach, cannot pursue and cannot act on anybody who leaves it shut, and closing the cover ends the event immediately in every recorded case. | Leaves the cover down. No read-aloud, no assessment from the text, and no second reader at a shoulder — the standing order is checked at the door rather than trusted at the lectern. | The refusal is the cover, and it is the only control the file has ever needed. In every recorded case of a closed cover the reader asked for one more page, which is why the closure is taken by the watch and not by the reader. |
+| { *The Tale Collapse* [**Overload**] } | Above sixty-five per cent the record carries a claim that every blank surface in the wing takes a line of the same hand, and that photographs of a filled page develop blank. No mechanism and no second visual form is recorded for it. | Does not open the volume to test the claim. The station records the reading, curtains the affected wing's paperwork, and keeps the cover weighted. | The propagation has never been verified and the cover protocol is unchanged by it. What the file knows is that the page count goes up, and that it goes up while the cover is down as well — the account is written and nobody reads it. |
 
-1. **Tension:** The book is on its stand, already writing. The crew takes the page count, sets the camera, and confirms that nobody present has an outstanding complaint of their own — a question asked at the door and answered honestly more often than the station expected.
-2. **Clash:** Four turns, observation and endurance only, with the book closed and weighted throughout. No cycle on this holding has ever required the book to be opened and the protocol provides no circumstance in which it may be.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the line count stable across two successive readings with the cover undisturbed.
+### Watch Sequence
+
+1. **What is confirmed:** the page count across two successive readings, the cover weighted and undisturbed, and whether anybody present has an outstanding complaint of their own.
+2. **What the watch does:** Viderehan on the object without opening it and Ferrehan for completing the cycle in the cell with the cover down, with nobody reading, nobody looking over a shoulder and nothing read aloud.
+3. **How it closes:** **The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up** — and no cycle on this holding has ever required the book to be opened.
 
 ### Consequences
 
 - A worker who cannot hold does not break down. They begin recounting a grievance in the first person, fluently and with correct detail, and are unable afterwards to say whose it was.
-- Prolonged exposure leaves the reader carrying somebody else's grievance as if it were their own. It does not recede on its own; of the four long-exposure cases on file, three resolved only when the original aggrieved party was traced and the matter put to them.
+- Prolonged exposure leaves the reader carrying somebody else's grievance as if it were their own. It does not recede on its own. Of the four long-exposure cases on file, three resolved only when the original aggrieved party was traced and the matter put to them.
 - The Grimoire equipment lends the bearer the certainty of somebody with an unanswerable case, and charges for it in the manner recorded in the equipment section: the bearer stops being able to doubt their own account of anything.
 
 ## Appearance
@@ -119,63 +127,51 @@
 | Field | Detail |
 |---|---|
 | **Form** | A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it. |
-| **Position / movement** | Fixed on its lectern under a weighted cover during containment. For the separately recorded Tool use, the relic works while carried and will not operate for a room. What expands during an event is the number of pages filled, and that advances only while somebody is reading. |
+| **Position / movement** | Fixed on its lectern under a weighted cover during containment. The separately recorded Tool use carries the relic, not the source; it does not operate for a room. The operational record says the book writes itself. This profile's breach note says page expansion occurs only while read; the file does not reconcile those accounts. |
 | **Material / signature** | Plain dark leather over vellum; ink that seeps from the binding and is dry on arrival. Grudge expression. No instrument registers anything in the cell between readings, which is itself the baseline. |
-| **Distinctive markers** | Self-filling pages; text that differs completely between readers of the same page in the same hour; and the blanks — pages that stay empty for certain readers and have never afterwards filled. |
+| **Distinctive markers** | Self-filling pages. Text that differs completely between readers of the same page in the same hour. And the blanks — pages that stay empty for certain readers and have never afterwards filled. |
 | **Identification** | Confirm: designation `C-IIβ-906 [GO]`, Echo (II) coherence, Moderate (β) potency, Object-Tale manifestation, Grudge element, SECTOR-C-906. Identification is by line count and cover weight. Opening the volume to identify it is the error this section exists to prevent. |
 
 ## Origin
 
 The district had a name for it before the facility did, and the facility prints both at the head of the folder without ranking them. The local name is *the rage that does not cool*. The classification is Object-Tale. The Keepers' position is that the first describes what it holds and the second describes how it holds it, and that neither is a translation of the other.
 
-It was found in a reading room above a scrivener's premises, shelved among forty-one ordinary volumes, and the recovery party identified it in eleven minutes by the simple method of opening everything on the shelf. Two of the four who opened it asked to be relieved within the day. Both declined to say why and both were relieved; the file records the request and not the reason, on a rule written the same week and never since amended.
+It was found in a reading room above a scrivener's premises, shelved among forty-one ordinary volumes, and the recovery party identified it in eleven minutes by the simple method of opening everything on the shelf. Two of the four who opened it asked to be relieved within the day. Both declined to say why and both were relieved. The file records the request and not the reason, on a rule written the same week and never since amended.
 
 Containment took fourteen hours and has held for thirty-one years without a single excursion, which makes this one of the quietest holdings in the wing by every operational measure the facility keeps. Nothing about the difficulty of this file is operational. The protocol for a book is a weighted cover; everything after that is about what the thing says and to whom.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study of the object without opening it: line counts, ink distribution, the pattern of blanks across readers. Informative, and it never requires a page to be read. | Decrease |
-| **Ferrehan** (Endurance) | Recognises patience; the writing rate settles around a party that completes a full cycle in the cell without disturbing the cover. | Decrease |
+> **This holding is not worked.** A bound volume on a lectern, weighted shut, the cover the only thing between it and a reader. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the page count across two successive readings, the cover weighted and undisturbed, and whether anybody present has an outstanding complaint of their own. |
+| **Handling** | The watch takes the page count across two successive readings with the cover undisturbed, and sets the camera before the first count rather than after it. |
+| **Withdrawal** | **The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up** — and no cycle on this holding has ever required the book to be opened. |
+| **Refusal** | Leaves the cover down. No read-aloud, no assessment from the text, and no second reader at a shoulder — the standing order is checked at the door rather than trusted at the lectern. |
 
-Grimoire is an Object with Object-Tale manifestation and Grudge expression, held at SECTOR-C-906. Flerehan and Pugnahan are unavailable to an Object. Both valid Work Types lower the gauge and neither requires contact with the text, which is the single most important sentence in this file and is the reason it appears twice.
+## Expansion Behavior
 
-## Breach Behavior
-
-> *"Grimoire has broken free. The grudge tale spreads."*
+> *"Grimoire is open and filling. Nobody reads it and nobody looks over a reader's shoulder. The first person to break either rule writes the account for the rest of the wing."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion — in pages, and only while being read. |
-| **Movement** | Nothing moves and nothing is released. An unopened Grimoire expands by nothing at all; the event consists entirely of pages filling, and it stops when the cover is closed. This holding is the only one in the wing whose breach requires a volunteer. |
-| **Effect** | Grudge in the tale register: the reader receives a complete first-person account of a wrong they did, written by the person they did it to, in that person's voice and with that person's detail. |
-| **First Target** | Whoever reads first, and nobody else. The text shapes itself to the reader; a second person looking over the same shoulder sees unrelated text or sees nothing at all. |
-| **Escalation** | Grudge drain increases by 5 per turn while reading continues. Closing the cover ends the event immediately in every recorded case, and in every recorded case the reader asked for one more page. |
+| **Expansion Trigger** | Somebody lifts the cover. It cannot move, cannot reach, and cannot act on anybody who leaves the cover down. In thirty-one years the cover has been lifted three hundred and forty times. |
+| **Expansion Rate** | A page fills while it is being read, and the page count has only ever gone up. Closing the cover ends the event immediately in every recorded case — and in every recorded case the reader asked for one more page. |
+| **Expansion Effect** | Grudge in the tale register: the reader receives a complete first-person account of a wrong they did, written by the person they did it to, in that person's voice and with that person's detail. The text shapes itself to the reader; a second person over the same shoulder sees unrelated text or nothing at all. |
+| **Containment** | Close and weight the cover. Do not remove it from the sector and do not open it to assess the threat. Reading it to find out what it is doing has been the proximate cause of every escalation on file. |
 
 ### Escalation Notes
 
-- **Containment priority:** Close and weight the book. Do not remove it from the sector and do not open it to assess the threat; reading it to find out what it is doing has been the proximate cause of every escalation on file.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per page filled since the event began, so the gauge counts pages and not minutes. It falls 10% for each account in the book that is afterwards acted on by anybody with the standing to act on it, which has happened nine times in eleven years.
+- **Containment priority:** Close and weight the book. Do not remove it from the sector and do not open it to assess the threat. Reading it to find out what it is doing has been the proximate cause of every escalation on file.
+- **Sorrow Gauge on expansion:** Opens at 40% and rises 10% per page filled since the event began, so the gauge counts pages and not minutes. It falls 10% for each account in the book that is afterwards acted on by anybody with the standing to act on it, which has happened nine times in eleven years.
 
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This relic writes an account that is true, in a hand you know, about something nobody has settled**
-
-**Activation Trigger:** Physical contact and intentional interaction.
-
-**Effect:** Projects concentrated Grudge sorrow resonance across the immediate perimeter.
-
-**Duration:** Continuous while equipped
-
-**Risk:** Prolonged contact causes cognitive and emotional fatigue.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -185,7 +181,7 @@ Grimoire is an Object with Object-Tale manifestation and Grudge expression, held
 | **Activation** | Physical contact and intentional interaction. |
 | **Primary Effect** | Projects concentrated Grudge sorrow resonance across the immediate perimeter. |
 | **Duration** | Continuous while equipped |
-| **Termination / Return** | The operator closes the cover and submits the sealed transcript unread. Returning the piece early is permitted and never queried; exceeding the limit produces no sensation the bearer will report, which is why the limit is enforced by the attendant and not by the bearer. |
+| **Termination / Return** | The operator closes the cover and submits the sealed transcript unread. Returning the piece early is permitted and never queried. Exceeding the limit produces no sensation the bearer will report, which is why the limit is enforced by the attendant and not by the bearer. |
 | **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
 
 **Operational Rule:** The relic works while carried and will not operate for a room. It cannot substitute for a work cycle, and since the thirty-first year it cannot be issued to a bearer who has read the volume, which is logged in the register of openings and checked before issue.
@@ -240,7 +236,7 @@ Escalation here is driven entirely from the human side. Record the opening time,
 
 **Ability:** Grudge against the Mind. The struck target recalls, in order and in detail, every complaint they have made that was never answered — fourteen strikes, fourteen lists, and three of them were long enough to be filed as evidence in their own right.
 
-**Cost:** The wielder experiences a persistent low-grade headache with each use.
+**Bearer cost:** The wielder keeps their own unanswered complaints in order, and finds the keeping has begun whether or not they meant it to.
 
 ### M.A.W. Suit — Grimoire's Veil
 
@@ -258,7 +254,7 @@ Escalation here is driven entirely from the human side. Record the opening time,
 
 **Ability:** Grants resistance to Grudge damage, protecting against the tale register of sorrow.
 
-**Cost:** The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought.
+**Bearer cost:** The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought.
 
 ### M.A.W. Stigma — Grimoire's Token
 
@@ -272,7 +268,7 @@ Escalation here is driven entirely from the human side. Record the opening time,
 
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
 
-**Cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
+**Bearer cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
 
 *Four in eleven years, in each case to a worker who closed the cover at the end of a cycle without having read a word of what was on the page. Nobody who read first has ever been given one, and 61 workers have read first.*
 
@@ -286,7 +282,7 @@ Each Grimoire piece is an extension of an unanswered grievance rather than ordin
 |---|---|
 | **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, current line count, cover weight confirmed, register of openings checked for the operator's name, and the named attendant. |
 | **During use** | Opening time, page count at fifteen-second intervals, the point at which the account became checkable, first cost, and any request to continue. |
-| **At limit** | The operator reads a line aloud, or the cover is closed by somebody other than them. Both measures are recorded; the second has happened four times and each one is written up as a failure of the first. |
+| **At limit** | The attendant closes the cover at the two-minute limit; nothing is read aloud under the standing protocol. Four closures by someone other than the reader are recorded, but the entry does not reconcile them with the timed closure or no-aloud rule. |
 | **After use** | Closure method, transcript sealed unread, register entry completed, lingering effects, cooldown, rotation status, reuse authorisation — which is never granted to the same reader twice. |
 ## 관찰 기록 (Observation Log)
 
@@ -307,7 +303,7 @@ Each Grimoire piece is an extension of an unanswered grievance rather than ordin
 
 **Entry 1 — Containment Description** Grimoire (`C-IIβ-906 [GO]`) is a self-filling bound volume held under a weighted cover at SECTOR-C-906. Containment has held for thirty-one years without excursion. The text differs for every reader and has never been photographed, copied or transcribed by any means but one.
 
-**Entry 2 — Field Log** *<Recovery, scrivener's reading room>* — Identified by opening the shelf one volume at a time. Four personnel opened it. Two requested relief within the day and gave no reason; the rule permitting a reason to be withheld was written that week and has never been amended.
+**Entry 2 — Field Log** *<Recovery, scrivener's reading room>* — Identified by opening the shelf one volume at a time. Four personnel opened it. Two requested relief within the day and gave no reason. The rule permitting a reason to be withheld was written that week and has never been amended.
 
 **Entry 3 — Counseling Log** *<Interview, reader, eleven days after a two-page opening>* — "I keep wanting to say it was unfair. It was not unfair. It was the fairest account of me I have ever read and I cannot do anything with it, because the person who wrote it does not know she wrote it."
 
@@ -328,7 +324,7 @@ There is no sensation at all. The cell is cold and ordinary and the book is a bo
 
 **At first contact:** A lectern, a weighted cover, a line count written on a slate, and a volume that is warm along the spine and nowhere else.
 
-**With continued exposure:** Nothing changes for the Warden who does not read. For the one who does, the page is immediately and specifically about them, which readers consistently describe not as frightening but as being recognised.
+**With continued exposure:** Nothing changes for the Warden who does not read. For the one who does, the page is immediately and specifically about them, which readers consistently describe not as frightening but as being recognised. The study records forty-seven blank results among three hundred and forty openings; a text-filled page is not guaranteed.
 
 **When the entity activates:** Pages fill. That is the whole of it. There is no sound, no pressure, no change in the room, and the only evidence that anything has happened is a line count and a person who has gone quiet.
 
@@ -360,7 +356,7 @@ The volume does nothing. It has no behaviour, no gauge worth watching, no respon
 
 **Containment Status:** Contained — SECTOR-C-906, weighted cover, no excursion in thirty-one years; register of openings maintained by name
 
-**Comprehension Level:** 2 — Basic. The behaviour is fully characterised and trivially controlled; what is not understood is where the accounts come from, and the file says so rather than filling the gap.
+**Comprehension Level:** 2 — Basic. The behaviour is fully characterised and trivially controlled. What is not understood is where the accounts come from, and the file says so rather than filling the gap.
 
 **Threat Assessment:** Moderate (β). It cannot move, cannot reach, cannot act on anybody who leaves the cover down, and has never breached. It is graded Moderate because what it produces is true, checkable, and unusable — and because the facility has found a use for it anyway.
 
@@ -383,8 +379,8 @@ The two relations below were kept to show what this holding is not. Both counter
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **Unheard** | The two ends of one street: there, words that were said and had no standing; here, grievances that were decided against and never said. A single co-presence, arranged while the opinion was in draft, with the cover weighted and no reader nominated. | One co-presence, the full watch. The pressure passed the cell and took no sound from it; the line count did not move and no ink appeared, the volume having no grievance of its own to hold. Unheard's readings were its ordinary corridor readings. Nothing was learned about the volume; the finding is that the two holdings do not read each other. | The co-presence, both flat series, the line count before and after, and the note that no reader was nominated. |
-| **The Undelivered Thanks** | A chance transit along the old Dawn route, logged because the figure bowed toward the cell and the Warden wrote down where in the corridor it stopped. There is no arrangement between the holdings and none is proposed; bowing at a weighted cover is not an interaction the protocol recognises. | One recorded transit. The figure bowed, the volume wrote nothing, and the Warden's line count was unchanged across the shift. Two registers of things that were owed and never handed over, both flat, which is the entry. | The transit log, the point at which the figure stopped, and the shift's line count. |
+| [**Unheard**](SE-C-Iα-965_Unheard_흐르는_침묵.md) | The two ends of one street: there, words that were said and had no standing. Here, grievances that were decided against and never said. A single co-presence, arranged while the opinion was in draft, with the cover weighted and no reader nominated. | One co-presence, the full watch. The pressure passed the cell and took no sound from it. The line count did not move and no ink appeared, the volume having no grievance of its own to hold. Unheard's readings were its ordinary corridor readings. Nothing was learned about the volume; the finding is that the two holdings do not read each other. | The co-presence, both flat series, the line count before and after, and the note that no reader was nominated. |
+| [**The Undelivered Thanks**](../Unknown_Entities/SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md) | A chance transit along the old Dawn route, logged because the figure bowed toward the cell and the Warden wrote down where in the corridor it stopped. There is no arrangement between the holdings and none is proposed; bowing at a weighted cover is not an interaction the protocol recognises. | One recorded transit. The figure bowed, the volume wrote nothing, and the Warden's line count was unchanged across the shift. Two registers of things that were owed and never handed over, both flat, which is the entry. | The transit log, the point at which the figure stopped, and the shift's line count. |
 
 **Interaction procedure:** No second holding is brought into the cell and no cycle is run to see what the volume does about it. A coincidence of route is entered in the log as exactly that — a coincidence and nothing more: the figure's position, the count, and whether ink appeared. The station's standing note is that this holding's interactions are all of one kind — one reader, one page, nobody else — and that every exception on record was somebody deciding to be the exception.
 
@@ -430,9 +426,9 @@ A person may not be subjected to a detriment on the strength of an accusation th
 
 Counsel is explicit that the volume's accuracy makes this worse rather than better. Material that is ninety-one per cent correct is material that is nine per cent wrong, and there is no way to tell which particular is in which category without putting it to the person, which is the thing that may not be done.
 
-The second half of the opinion was not asked for either. The aggrieved parties cannot be told. Informing a person that a grievance of theirs has been recorded would require the facility to disclose the existence and content of material obtained in this way, and would place the accused in the position of answering it without any of the protections that would attach if it were brought properly. The people whose grievances these are have, in law, no grievance recorded anywhere, and cannot be given one.
+The second half of the opinion was not asked for either. The aggrieved parties cannot be told. Informing a person that a grievance of theirs has been recorded would require the facility to disclose the existence and content of material obtained in this way. And would place the accused in the position of answering it without any of the protections that would attach if it were brought properly. The people whose grievances these are have, in law, no grievance recorded anywhere, and cannot be given one.
 
-Counsel closes by observing that the facility's position is therefore the correct one and the uncomfortable one at the same time: it possesses two hundred and six verified accounts of harm done by its own staff, and the right thing to do with every single one of them is nothing.
+Counsel closes by observing that the facility's position is therefore the correct one and the uncomfortable one at the same time: it possesses two hundred and six verified accounts of harm done by its own staff. And the right thing to do with every single one of them is nothing.
 
 The Keeper's annotation: *we are holding two hundred and six apologies that cannot be delivered, and the rule that stops us is the rule that protects the people who owe them.*
 
@@ -442,19 +438,19 @@ In the forty-fifth year the facility adopted what the minutes call the assurance
 
 It does not use anything the book says. That is the whole design, and it was drawn with the opinion open on the table. Candidates for the small number of posts that carry unsupervised access are invited — voluntarily, with a written right to decline — to open the volume for thirty seconds in the presence of an attendant. Nothing is read by anybody but the candidate. No transcript is taken. The only thing recorded in the appointment file is whether ink appeared.
 
-A blank is treated as assurance. A filled page is treated as nothing at all: it is not recorded, not reported, not put to the candidate, and not referred to again. The candidate is not asked what it said and would not be believed as to the answer if they volunteered it. Counsel confirmed the scheme in four lines. No accusation is relied upon; the facility relies only on the absence of one; a protection that attaches to the use of adverse material is not engaged by a decision to use none.
+A blank is treated as assurance. A filled page is treated as nothing at all: it is not recorded, not reported, not put to the candidate, and not referred to again. The candidate is not asked what it said and would not be believed as to the answer if they volunteered it. Counsel confirmed the scheme in four lines. No accusation is relied upon; the facility relies only on the absence of one. A protection that attaches to the use of adverse material is not engaged by a decision to use none.
 
 **Forty-eight appointments have been made under the practice. Nineteen candidates have not progressed.** None of the nineteen was told why, and the file is clear that none of them could have been told, because nothing was found, nothing was recorded, and nothing was relied upon. Declining the invitation is expressly without prejudice; of the nineteen, four declined.
 
-The objection is minuted at the forty-fifth review and at each of the seven since, raised by the holding's senior Keeper and supported by the facility's own appointments registrar. It holds, first, that the protection against untested accusation attaches to reliance on an accusation, and the facility has located the one position from which an entire scheme can be built out of untested accusations without ever engaging it — a distinction that is legally exact and that produces, in operation, exactly the thing the protection exists to prevent. Second, that the verification study puts the error rate at nine per cent in checkable particulars, so on the facility's own numbers one or two of the nineteen were excluded on something false, and there is no mechanism by which either of them could ever discover it, challenge it, or be restored. Third, that the two hundred and six people whose grievances are real and verified have received nothing — no finding, no notification, no apology, no acknowledgement that the thing happened — and that the only use the facility has found for their grievance is as a silent signal about the career of the person who wronged them.
+The objection is minuted at the forty-fifth review and at each of the seven since, raised by the holding's senior Keeper and supported by the facility's own appointments registrar. It holds, first, that the protection against untested accusation attaches to reliance on an accusation. And the facility has located the one position from which an entire scheme can be built out of untested accusations without ever engaging it — a distinction that is legally exact and that produces, in operation, exactly the thing the protection exists to prevent. Second, that the verification study puts the error rate at nine per cent in checkable particulars. So on the facility's own numbers one or two of the nineteen were excluded on something false. And there is no mechanism by which either of them could ever discover it, challenge it, or be restored. Third, that the two hundred and six people whose grievances are real and verified have received nothing — no finding, no notification, no apology, no acknowledgement that the thing happened — and that the only use the facility has found for their grievance is as a silent signal about the career of the person who wronged them.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was drafted in the forty-sixth year and costed at the price of a single clerk: somebody to read the photographs, index the accounts, and pass each one to whoever could act on it. The post was not created. The minute does not record a refusal; it records that the item was deferred pending a review of establishment, and the review has been pending for nine years.
+The minute finds the objection correct in all three of its parts and records the remedy that followed. It records that a remedy was drafted in the forty-sixth year and costed at the price of a single clerk: somebody to read the photographs, index the accounts, and pass each one to whoever could act on it. The post was not created. The minute does not record a refusal. It records that the item was deferred pending a review of establishment, and the review has been pending for nine years.
 
 *We may not use a word of what it tells us, so we have built everything on the silences, and the people it was telling us about will go to their graves not knowing that anybody wrote it down.*
 
 ## Trivia
 
-- One of the first catalogued **Object-Tale** entities in Somnarak, and the reason the register distinguishes a tale from a record.
+- 411 cycles and 411 closed covers: the page count has only ever gone up, and the reader named the handwriting correctly in 188 of them.
 - It is the only holding in the wing whose containment record consists almost entirely of the names of staff.
 - The Grudge here never presents as anger. Readers describe it as being described accurately by somebody who had decided not to bother, which several have said was the worse of the two.
 

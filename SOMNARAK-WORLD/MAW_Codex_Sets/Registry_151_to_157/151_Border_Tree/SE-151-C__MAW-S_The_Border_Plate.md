@@ -88,14 +88,3 @@ Ashford wore the Plate during a checkpoint panic in which a crowd and a hostile 
 The Plate is the passage safeguard of *Mutual Passage*. Border Root can make a wall and Border Charm can identify harm; this suit prevents the set from confusing defense with exclusion.
 
 > *“An armor gap is not a vulnerability when it is where people are meant to survive.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-151-C`  
-**Linked Entity:** `SE-151`  
-**Item Registry Code:** `MAW-S-151-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

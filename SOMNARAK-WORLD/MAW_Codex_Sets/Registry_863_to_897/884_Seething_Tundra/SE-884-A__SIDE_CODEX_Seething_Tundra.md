@@ -19,10 +19,10 @@ The Shard formed from sorrow that was shaped into an object rather than spoken. 
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-884 [VO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Grudge |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void / Zone D, Echo Gardens |
-| Gauge / Pressure | 208/208; starts 25–40% / 3–9 per hit · Void |
+| Gauge / Pressure | 000/240; starts 000% · Void — no attack pattern: nothing launches from the shard, and the exposure is the instant it holds and the anger it hands over (Contact Record, R-36) |
 | Observation | 1 — Initial |
 | Formation event | A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger. |
 
@@ -30,17 +30,17 @@ The Shard formed from sorrow that was shaped into an object rather than spoken. 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the memory embedded in its surface. (Stable) |
 | Ferrehan | Remains cold while testing the worker's patience. (Decrease) |
 
 **Trigger:** Direct touch.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-884 -->
+**Resolution:** Count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Seething Tundra Source-Trace*
 
-During the The Seething Tundra Source-Trace, the field team preserved this source fact: A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Rage made cold by exhaustion and grief.
+During *The Seething Tundra Source-Trace*, the field team preserved this source fact: A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Rage made cold by exhaustion and grief.
 
 ## M.A.W. SET — *Seething Tundra — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Seething Tundra Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Seething Tundra's source condition, the Suit lets a witness bear its Void pressure, and the Weapon contains only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Seething Tundra's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-884-A`  
-**Linked Entity:** `SE-884`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Seething Tundra's source condition, the Suit lets a witness bear its Void pressure, and the Weapon contains only the immediate manifestation that violates this rule: count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it. The gauge opens at 000% of its 000/240 meter, and no attack pattern is filed for this Void manifestation. The set cannot heal the originating event. Misuse routes Seething Tundra's wound through the operator and triggers the recorded escalation.

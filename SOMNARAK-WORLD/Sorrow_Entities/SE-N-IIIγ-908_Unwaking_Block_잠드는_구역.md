@@ -27,19 +27,20 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Place |
 | **Primary pressure** | Lament / Dream pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per successful work cycle, counted off the mapping plan's own tallies |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 3 |
+| **Work Damage** | 2–5 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is lifting somebody out of a sleep that does not end. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Map, do not manage. The gauge falls on entries that produced a completed plan and returned on the called time; it has never fallen on an entry extended to finish a room. |
+| **Recommended response** | Map, do not manage. The gauge falls on entries that produced a completed plan and returned on the called time. It has never fallen on an entry extended to finish a room. |
 
 ### Operational Notes
 
 - The block holds a sleep that has not ended, and lifting somebody out of it does not wake them: removal changes the address, not the state.
-- A successful session returns on the called time with its plan. No session has woken a sleeper; gauge relief is not recovery from the sleep, and a plan completed by overrunning the limit has not lowered the gauge.
+- A successful session returns on the called time with its plan. No session has woken a sleeper. Gauge relief is not recovery from the sleep, and a plan completed by overrunning the limit has not lowered the gauge.
 - Both valid approaches are survey work, and inside the block lie 212 sleepers who belong to the district rather than the facility. Nurses from the district attend them daily, under the same timed watch as everybody else.
 - Three ignored clauses escalate it, and the dream register carries contact, so the crews work in pairs and each pair holds a timed verbal check.
 - Any extraction is a separate risk event with its own authorisation, and nobody attempts one alone.
@@ -54,7 +55,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Lament pressure; 24% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 468/468 |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 17–23 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -69,9 +70,8 @@
 | **Threat Role** | Major architectural/dream hazard; not a Sovereign classification |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-908 |
 | **Resolution Condition** | The survey party is out at the called time with a signed plan of what it walked through. There is no condition under which the block is resolved: nobody has woken, nobody is expected to, and the file does not pretend otherwise. |
 
@@ -82,13 +82,13 @@
 | { *The First Weight* [**Debuff**] } | "It starts as a whisper in the lament." | [A first measure of dream pressure comes down on whoever the Block has noticed.] | *A weight arrives that is not on the body; light Lament contact.* **[10 Lament DMG [Lament]]** | When the Block first fixes on a target. |
 | { *The Dream Surge* [**Attack**] } | "The sorrow takes an edge." | [A gathered burst of lament comes off the sleeper-line.] | *Lament strikes home and the reading jumps.* **[21 Lament DMG [Lament]]** | When the Block is challenged or refused. |
 | { *The Settling* [**Attack**] } | "Then all at once it comes down in one place." | [The whole of the dream weight is put behind a single point.] | *A wrecking Lament blow; the reading leaps.* **[23 Lament DMG [Lament]]** | When the Block is cornered or goes long unfed. |
-| { *The Dream Collapse* [**Ultimate**] } | "The dream gives way, and the whole holding of it spills out." | [Every sleeper's sorrow breaks at once in all directions.] | *Everyone on the floor takes Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | At a Sorrow Gauge of 65%. |
+| { *The Dream Collapse* [**Ultimate**] } | "The dream gives way. And the whole holding of it spills out." | [Every sleeper's sorrow breaks at once in all directions.] | *Everyone on the floor takes Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | At a Sorrow Gauge of 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The sleepers are the marker — 212 of them, lying in the postures they were in the night it started. They breathe, they age slowly, and they do not stir when a wall is moved in the next room. The designation is confirmed against the table, the positions are taken, and the cycle opens.
 2. **Clash:** The Work Types are run and the gear is issued while the Block answers with the actions already on file.
-3. **Resolution:** The caller outside says the time and the party walks out of whatever room it is standing in; the plans are signed at the threshold and never inside. The file registers a suppression condition: **The caller outside keeps the time and the party leaves the room it is standing in**. That clause is the whole of the discipline here — 41 plans are on file and no two of them agree.
+3. **Resolution:** The caller outside says the time and the party walks out of whatever room it is standing in. The plans are signed at the threshold and never inside. The file registers a suppression condition: **The caller outside keeps the time and the party leaves the room it is standing in**. That clause is the whole of the discipline here — 41 plans are on file and no two of them agree.
 
 ### Consequences
 
@@ -102,12 +102,12 @@
 
 **Spatial change:** The exterior block stays in place while routes inside differ between entries. A newly connecting door can annex an adjoining property; that is expansion of the holding, not locomotion down a street. Record the route actually walked without merging incompatible plans into an invented stable layout. Domestic fittings can look ordinary even when their door was absent from the previous survey.
 
-**Witness limits and derived gear:** Warm, slightly sweet air and a layout that starts to seem reasonable are witness conditions, not a safe route or proof that a sleeper has woken. The outside caller controls the survey limit. The survey-rod Edge, plan-case mantle and door-plate Token are derived material pieces; their portability does not make the block portable, and the Weapon's waking-after-use record is not the residents' enduring sleep.
+**Witness limits and derived gear:** Warm, slightly sweet air and a layout that starts to seem reasonable are witness conditions, not a safe route or proof that a sleeper has woken. The outside caller controls the survey limit. The survey-rod Edge, plan-case mantle and door-plate Token are derived material pieces. Their portability does not make the block portable, and the Weapon's waking-after-use record is not the residents' enduring sleep.
 
 **Primary Form:** A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep.
 
 **Notable Features:**
-- Expresses Lament pressure in a dream register.
+- Walls shift and doors open onto rooms that are on no plan, which is why the work is a survey and not a containment.
 - The shape is settled at the door: this is a dream holding, and no general reading survives a mapping season.
 - It is identified domestically — a residential block with every bed taken, every light off, and washing on the yard lines gone grey with age.
 
@@ -137,23 +137,20 @@ The building did not stay the shape it was. Walls move between surveys, doors op
 
 Containment took fourteen hours and the margin was narrow. What it contains is not a hazard to the sleepers — nothing has ever harmed one — but the building around them, which is no longer reliably a building.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the dream pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-What limits the work is not the pressure but the clock. Observation is the survey itself; endurance is walking out of a half-drawn corridor because a voice outside said the time. The limit is called by somebody who never enters, and the standing order gives the reason: the limit cannot be judged by anyone standing in the air it protects them from.
+| Stage | What is done |
+|---|---|
+| **Approach** | The gauge falls on entries that produced a completed plan and returned on the called time. |
+| **Handling** | It has never fallen on an entry extended to finish a room. — see `## Handling Process` |
+| **Withdrawal** | The survey party is out at the called time with a signed plan of what it walked through. There is no condition under which the block is resolved: nobody has woken, nobody is expected to, and the file does not pretend otherwise. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 60% — is done on purpose. |
 
 ## Breach Behavior
 
-> *"Unwaking Block has broken free. The lament dream spreads."*
-
+> *"Unwaking Block has broken free. It takes a doorway rather than a person. Find the door that was not on the last survey, because whoever is behind it went down together in one night and none of them woke where they lay down."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
@@ -175,7 +172,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, with a surveyor's scale chased along the spine in the block's own hand — and not one of the marks agreeing with the current plan.
 
 **Damage:** Lament 14–19
 **Speed:** 2 (Normal)
@@ -188,9 +185,9 @@ What limits the work is not the pressure but the clock. Observation is the surve
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Channels lament dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
+**Ability:** *Asleep Where They Stand* — the cut does its work on the dream register and leaves the body where it was put. Nothing struck by it has ever woken to fight, and nothing struck by it has needed nursing for the wound.
 
-**Cost:** The wielder sleeps heavily for two nights after use and wakes normally both times. Logged every occasion, never exceeded, and specifically distinguished on the form from the sleep the block itself produces.
+**Bearer cost:** The wielder sleeps heavily for two nights after use and wakes normally both times. Logged every occasion, never exceeded, and specifically distinguished on the form from the sleep the block itself produces.
 
 ### M.A.W. Suit — Unwaking Block's Veil
 
@@ -206,25 +203,25 @@ What limits the work is not the pressure but the clock. Observation is the surve
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting against the dream register of sorrow.
+**Ability:** *Way Out* — the wearer cannot lose the door they came in by. The mantle holds the route and the plan together under Lament pressure, and will not hold either past the threshold the plan was signed at.
 
-**Cost:** The wearer carries Unwaking Block's grief into every quiet moment; small joys feel distant until the suit is removed.
+**Bearer cost:** The wearer carries Unwaking Block's grief into every quiet moment; small joys feel distant until the suit is removed.
 
 ### M.A.W. Stigma — Unwaking Block's Token
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, worn inside the wrist where a mapping hand can feel it without looking.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 
-**Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
+**Ability:** *Ninth Door* — it goes cold at a doorway that was not on the last survey. Four parties have trusted it, and every one of them signed the plan outside.
 
-**Cost:** The bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present.
+**Bearer cost:** The bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present.
 
-*A Token is found in a room that appears on one plan only. The surveyor who finds it marks the room and the room is never found again; four pieces, four unrepeatable rooms, each with its single plan filed beside the recovery note.*
+*A Token is found in a room that appears on one plan only. The surveyor who finds it marks the room and the room is never found again. Four pieces, four unrepeatable rooms, each with its single plan filed beside the recovery note.*
 
 ### M.A.W. Use Notes
 
@@ -263,7 +260,7 @@ The Unwaking Block set is made from the mapping: the Edge from a surveyor’s ro
 
 **Entry 4 — Containment Notice** The watch is called from outside and the caller never enters. This is absolute. The limit exists precisely because it cannot be judged by anybody breathing the air it protects them from, and an entry extended by agreement between people inside is treated as an overrun, not an extension.
 
-**Entry 5 — Director’s Note** We contained this in fourteen hours and the margin was narrow; the responders’ own account of that night is kept in their words and has not been tidied. What we have not done in seventeen years is wake anybody, and I would rather the file said so at the front than implied otherwise at the back.
+**Entry 5 — Director’s Note** We contained this in fourteen hours and the margin was narrow. The responders’ own account of that night is kept in their words and has not been tidied. What we have not done in seventeen years is wake anybody, and I would rather the file said so at the front than implied otherwise at the back.
 
 ## 최종 관찰 (Final Observation)
 
@@ -286,7 +283,7 @@ Once in a watch, the lament reading and the dream record meet for as long as one
 
 ### Entity Interaction Record
 
-Three records are kept on the same map board — The Sleeping Sigh, The Dreaming Plague and the Echo Gardens — and the post claims no partnership and no opposition with any of them; each is a question the mapping season raises again and never settles. Nothing has ever been observed across two of these files at once, and what follows below is set down as points of contact to be tested rather than results.
+Three records are kept on the same map board — The Sleeping Sigh, The Dreaming Plague and the Echo Gardens — and the post claims no partnership and no opposition with any of them. Each is a question the mapping season raises again and never settles. Nothing has ever been observed across two of these files at once, and what follows below is set down as points of contact to be tested rather than results.
 
 | Holding read beside the Block | How the two have run | What the survey logged | What the entry keeps |
 |---|---|---|---|
@@ -298,13 +295,80 @@ Three records are kept on the same map board — The Sleeping Sigh, The Dreaming
 
 ## 이야기 (Narratio) — The Tale
 
-The sleepers’ care is not the facility’s. The district attends them every day under the same twenty-five-minute watch as everybody else, and families visit accompanied. Two proposals to restrict the visits on operational grounds have been refused, and the refusals are in the folder with their reasoning intact.
+> **Transcript of:** the voice channel on an entry, Unwaking Block, fourth party.
+> **Recorded:** Year 4,237, day 171. Nine minutes and forty seconds.
+> **Kept by:** Keeper of Maps Aleph Ndiye. I am the voice outside. I am not allowed in.
 
-The mapping is the work: a party goes in, draws what it walks, and comes out when the voice outside calls the time — a voice belonging to somebody who has not been inside, because the limit cannot be kept by anyone breathing that air. An entry that overran is logged as an overrun even when its plan was the best of the year.
+**NDIYE:** Party of four, you are at the door. Say what you see.
 
-One neighbouring building has been annexed, by a connecting door that was not there the previous week. Nine more people joined the 212 that night. The door is on every plan drawn since.
+**PARTY:** Door, ordinary. Corridor beyond it, ordinary. Two doors left, one right.
 
-Nobody has woken. The file says so at the front, in the first paragraph, rather than leaving it to be inferred from the absence of good news at the back.
+**NDIYE:** Take the left. Draw it as you walk.
+
+**PARTY:** Drawing. The ceiling here is lower than the plan says.
+
+**NDIYE:** How much lower.
+
+**PARTY:** A hand, maybe more. I have to turn my shoulders.
+
+*— nine minutes later. The party had drawn three rooms and a stair that is not on any plan.*
+
+**PARTY:** Aleph.
+
+**NDIYE:** Go on.
+
+**PARTY:** There is somebody in the next room. Sitting. They have not moved since we came in.
+
+**NDIYE:** Is it one of ours.
+
+**PARTY:** It is one of the sleepers. There is a chair and they are in it and they are facing the
+wall.
+
+**NDIYE:** Do not touch them. Draw the room and come back.
+
+**PARTY:** They are breathing, Aleph. That is the thing I am telling you. They are breathing and
+they have not blinked.
+
+**NDIYE:** Draw the room, then come back.
+
+**PARTY:** Do you want me to say something to them?
+
+**NDIYE:** No.
+
+*— four minutes and ten seconds later. The party reached the door. Three of them came out.*
+
+**NDIYE:** Count off.
+
+**PARTY:** Three.
+
+**NDIYE:** Count again.
+
+**PARTY:** Three. Aleph, the door is wider than it was when we went in.
+
+*— the fourth is on the floor plan of the annexed building, drawn in a later survey, in a
+room that has no entrance. He is breathing. He has not blinked. He has not been logged as an
+overrun because the party came out inside its time and the limit was never broken.*
+
+**NDIYE:** Party of four. Say what you see.
+
+**PARTY:** Door, ordinary.
+
+*— I have run this entry eleven times since, with eleven different parties, and the recording
+is the same recording. The same nine minutes and forty seconds. The same hand's width off the
+plan. I have stopped being sure whether the block is drawing parties in or the transcript is
+drawing parties back.*
+
+*The sleepers' care is not the facility's. The district attends them daily, twenty-five
+minutes, families accompanied, and two proposals to restrict the visits have been refused and
+the refusals are in the folder at the front with their reasoning intact. That is the part of
+this file that is still correct and I have left it where it was.*
+
+*What I am entering as a finding: the voice limit is the only instrument that has returned a
+party, and on the eleventh entry it did not. I have not sent a twelfth.*
+
+*— A.N., Keeper of Maps, day 171. The channel is closed. Two hundred and twenty-one sleepers,
+one annexed building, no entry reading awake.*
+
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -355,7 +419,7 @@ The air itself carries the quality of deep sleep and personnel working inside ar
 
 ### Contained in Fourteen Hours
 
-The response was unusually fast and the containment has held since, and the file records both the speed and the margin, which was narrow. The operational account is retained in the responders' own words. The archivist's note adds that the register this entity works in was not in the manual at the time, that the people who contained it had no procedure for what they were doing, and that the procedure now in use was written afterward from what they did. The responders' account was taken within the week and has never been edited for style. It runs to several pages in three hands and includes the passages in which the responders disagree with one another about the order of events, which were left in place deliberately.
+The response was unusually fast and the containment has held since, and the file records both the speed and the margin, which was narrow. The operational account is retained in the responders' own words. The archivist's note adds that the register this entity works in was not in the manual at the time, that the people who contained it had no procedure for what they were doing. And that the procedure now in use was written afterward from what they did. The responders' account was taken within the week and has never been edited for style. It runs to several pages in three hands and includes the passages in which the responders disagree with one another about the order of events, which were left in place deliberately.
 
 ## Trivia
 

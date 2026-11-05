@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Sorrow Requiem
 
-> *“The Sorrow Requiem remembers Mourner's Bloom; the bearer must not mistake memory for permission.”*
+> *"It opens the target the way a bloom opens and takes the wielder's own closing with it. Nothing they mourn can be finished."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Mourner's Bloom's lament signature in the strike.  
-**Binding rule:** the bearer names Mourner's Bloom's event—A gardener cried over a lost parent, and a flower grew from the tears.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Mourner's Bloom's event — “A gardener cried over a lost parent, and a flower grew from the tears.” — and accepts this limit: count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists.  
+**Gauge:** 000/176; opens at 000%; 2–8 per landed Lament hit.
+
+### Appearance
+
+A stout double-edged dirk with a ten-inch high-carbon steel blade, blackened iron quillons and a grip bound in intertwined hair and silver wire. The wire is drawn tight enough to bite, and it has been repaired in two places with thread that does not match.
 
 ## CORE STATISTICS
 
@@ -25,33 +30,26 @@
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Mourner's Bloom's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
 
-## ITEM-SPECIFIC HISTORY — *The Mourner s Bloom Source-Trace: Weapon Record*
+**Operational / binding cost:** The Requiem opens what it strikes the way a bloom opens: each blow hands the target a grief that will not close and takes the wielder's own closing with it. Wielded long, the wielder cannot finish mourning anything.
 
-The first The Sorrow Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Mourner's Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+## ITEM-SPECIFIC HISTORY — *The Mourner's Bloom Source-Trace: Weapon Record*
+
+The first bearer of The Sorrow Requiem encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Mourner's Bloom. A wielder could not finish mourning anything for a full year, and the Requiem’s binding is the bereavement record with no closure entry in any of it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Mourner's Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the opening happens before the blow, and the wielder’s own closings are handed to targets who did not ask.
 - Terminal state: Mourner's Bloom's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1032 -->
+**Failure mode:** violating “count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists.” reverses the item’s benefit and raises the source Gauge — a 000/176 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Sorrow Requiem only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Sorrow Requiem; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Mourner's Bloom — Witnessed Form*, The Sorrow Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1032-B`  
-**Linked Entity:** `SE-1032`  
-**Item Registry Code:** `MAW-W-1032-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Mourner's Bloom — Witnessed Form*, The Sorrow Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow after which its wielder finishes one thing.

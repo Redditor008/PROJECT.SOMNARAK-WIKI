@@ -28,6 +28,10 @@ The Feu Follet Requiem is a four-paned hand lantern of deep-blue Han crystal who
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Present Divide:** Requiem cuts the bond making remembered comfort override current sensory evidence. Striking the memory itself removes part of the rescue.
 
 **Cost:** The wielder feels the source grief and cries involuntarily.
@@ -43,14 +47,3 @@ Ember offers bounded warmth, Shroud protects, Requiem separates false present.
 **Maintenance:** Hold the blade between a current heat source and a written memory account without touching either. The edge must show two distinct temperatures.
 
 **Shutdown:** Sheathe after present sensation returns; do not keep cutting to perfect the memory.
-
----
-
-**Document ID:** `SE-301-B`  
-**Linked Entity:** `SE-301`  
-**Item Registry Code:** `MAW-W-301-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

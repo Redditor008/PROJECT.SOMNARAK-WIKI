@@ -22,7 +22,7 @@ The Soldier formed from a border soldier — real name erased from the Archive �
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) — Repeats a single pattern: seeking acknowledgment / Moderate (β) — Manageable |
 | Element / Location | Grudge / SECTOR-B-02, Zone B — contained corridor 7-C |
-| Gauge / Pressure | 441/441; starts 35–50% / 8–19 per hit · Grudge |
+| Gauge / Pressure | 000/441; starts 000% / 8–19 per hit · Grudge |
 | Observation | 4 — Mastered |
 | Formation event | He was brave, loyal, and devoted — twenty years guarding the border. Then the city erased him: his name removed from the rolls, his service struck from the records, his sacrifice unacknowledged. He was a hero no one honored. The Crack began as a cold spot in his heart and spread over five years — from heart to mind, from mind to memory, from memory to identity — until he crystallized into a phantom warrior who stands at attention, waiting for someone to say: *"I remember you."* |
 
@@ -32,15 +32,15 @@ The Soldier formed from a border soldier — real name erased from the Archive �
 |---|---|
 | Flerehan | Salutes, acknowledging the worker's grief. (Decrease) |
 | Pugnahan | Attacks, forcing acknowledgment through violence. (Increase) |
-| Viderehan | Stands at attention and permits study of his armor and era. (Stable) |
-| Ferrehan | Stands guard over the worker; enduring his presence reduces distress. (Decrease) |
+| Viderehan | It stands at attention and lets the plate be read: heraldry, era, and the order it is still keeping are legible at a glance, and it acknowledges nobody while they are read. (Stable) |
+| Ferrehan | Stand the watch with it and give it no order; the grief settles while nobody relieves it, and the endurance is spent not taking the post. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns
 
-## WITNESS RECORD — *The The Forgotten Soldier Source-Trace*
+## WITNESS RECORD — *The Forgotten Soldier Source-Trace*
 
-During the The The Forgotten Soldier Source-Trace, the field team preserved this source fact: He was brave, loyal, and devoted — twenty years guarding the border. Then the city erased him: his name removed from the rolls, his service struck from the records, his sacrifice unacknowledged. He was a hero no one honored. The Crack began as a cold spot in his heart and spread over five years — from heart to mind, from mind to memory, from memory to identity — until he crystallized into a phantom warrior who stands at attention, waiting for someone to say: *"I remember you."* Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: A lifetime of sacrifice made invisible, and the weight of being forgotten by the very city he defended.
+During *The Forgotten Soldier Source-Trace*, the field team preserved this source fact: He was brave, loyal, and devoted — twenty years guarding the border. Then the city erased him: his name removed from the rolls, his service struck from the records, his sacrifice unacknowledged. He was a hero no one honored. The Crack began as a cold spot in his heart and spread over five years — from heart to mind, from mind to memory, from memory to identity — until he crystallized into a phantom warrior who stands at attention, waiting for someone to say: *"I remember you."* Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: A lifetime of sacrifice made invisible, and the weight of being forgotten by the very city he defended.
 
 ## M.A.W. SET — *The Forgotten Soldier — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The The Forgotten Soldier Source-Trace, the field team preserved this
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Forgotten Soldier's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns The set cannot heal the originating event. Misuse routes The Forgotten Soldier's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1005-A`  
-**Linked Entity:** `SE-1005`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

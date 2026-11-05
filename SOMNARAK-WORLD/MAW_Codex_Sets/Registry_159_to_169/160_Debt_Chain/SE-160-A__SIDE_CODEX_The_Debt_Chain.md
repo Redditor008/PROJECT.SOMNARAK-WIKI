@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IIIβ-160 [WO]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Collector’s Row obligation-custody protocol
 
@@ -26,7 +26,7 @@
 | Element | Weight |
 | Location | SECTOR-C-01, Collector’s Row |
 | Form | A massive chain of crystallized debts, each cold heavy link inscribed with a name and dragging across the ground behind whoever bears it. |
-| Gauge / pressure | 35–50% / Weight 8–20 |
+| Gauge / pressure | 435/435; starts 35–50% / Weight — no attack pattern; the length of a surety run is the reading |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Named Obligation |
 
@@ -61,10 +61,10 @@ Each link carries a name, not a total person. The Chain is most dangerous when o
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Do not use sympathy as a substitute for debt review. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not break or pry a link apart. |
+| Flerehan | Invalid for this Object/Place entity. | Net-Neutral | Do not use sympathy as a substitute for debt review. |
+| Pugnahan | Invalid for this Object/Place entity. | Net-Neutral | Do not break or pry a link apart. |
 | Viderehan | Reveals the debt represented by each link. | Stable | Read each history with an independent custodian; no link is a complete verdict. |
-| Ferrehan | Tests a worker under accumulated obligation. | Down | Use a Weight monitor and a relief partner before a link is touched. |
+| Ferrehan | Tests a worker under accumulated obligation. | Decrease | Use a Weight monitor and a relief partner before a link is touched. |
 
 ### Activation response
 
@@ -168,13 +168,3 @@ The original Debt Chain is an I-Relic. Its M.A.W. set is made from released link
 **Entity links:** The Debt Wall; The Inherited Debt; The Debt Scale.  
 **Source distinction:** The original Debt Chain is an I-Relic; Binding Maul, Mantle, and Chain are released echoes with their own registry limits.  
 **Item links:** `SE-160-B`, `SE-160-C`, and `SE-160-D` contain individual custody, connection, and corrosion history for Named Obligation.
-
----
-
-**Document ID:** `SE-160-A`  
-**Linked Entity:** `SE-160`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

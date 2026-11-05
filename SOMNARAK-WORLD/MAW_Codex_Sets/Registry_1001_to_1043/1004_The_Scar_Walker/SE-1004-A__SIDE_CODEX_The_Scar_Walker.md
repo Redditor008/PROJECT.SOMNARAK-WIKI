@@ -22,7 +22,7 @@ The Walker formed from the collective rage of the six factions that fought in th
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Fragment (III) — Territorial and responsive / Critical (δ) — Dangerous |
 | Element / Location | Grudge / The Desolate — patrols The Scar |
-| Gauge / Pressure | 871/871; starts 60–80% / 29–64 per hit · Grudge |
+| Gauge / Pressure | 000/871; starts 000% / 29–64 per hit · Grudge |
 | Observation | 1 — Initial |
 | Formation event | Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate. |
 
@@ -38,9 +38,9 @@ The Walker formed from the collective rage of the six factions that fought in th
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Show respect, salute its duty, and acknowledge its sacrifice
 
-## WITNESS RECORD — *The The Scar Walker Source-Trace*
+## WITNESS RECORD — *The Scar Walker Source-Trace*
 
-During the The The Scar Walker Source-Trace, the field team preserved this source fact: Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Fury over a war that destroyed lives and left its dead without meaningful remembrance.
+During *The Scar Walker Source-Trace*, the field team preserved this source fact: Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Fury over a war that destroyed lives and left its dead without meaningful remembrance.
 
 ## M.A.W. SET — *The Scar Walker — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The The Scar Walker Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Scar Walker's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon contains only the immediate manifestation that violates this rule: Show respect, salute its duty, and acknowledge its sacrifice The set cannot heal the originating event. Misuse routes The Scar Walker's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1004-A`  
-**Linked Entity:** `SE-1004`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

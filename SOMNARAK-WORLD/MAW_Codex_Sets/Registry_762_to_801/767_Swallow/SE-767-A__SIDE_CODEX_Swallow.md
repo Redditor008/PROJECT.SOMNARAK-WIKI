@@ -19,10 +19,10 @@ The Shadow formed from grief that outlived the person who first carried it. The 
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-767 [LP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: manifestation in place / Place-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone A, Alpha Tree |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 000/880; starts 000% / Lament — no attack pattern; the hand-chalked band, re-marked from outside each shift, is the instrument |
 | Observation | 2 — Basic |
 | Formation event | A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence. |
 
@@ -30,8 +30,8 @@ The Shadow formed from grief that outlived the person who first carried it. The 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the people whose sorrow feeds it. (Stable) |
 | Ferrehan | Tests whether the worker can carry grief without claiming it. (Decrease) |
 
@@ -40,7 +40,7 @@ The Shadow formed from grief that outlived the person who first carried it. The 
 
 ## WITNESS RECORD — *The Swallow Source-Trace*
 
-During the The Swallow Source-Trace, the field team preserved this source fact: A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of mourning someone else's loss until it becomes indistinguishable from your own.
+During *The Swallow Source-Trace*, the field team preserved this source fact: A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of mourning someone else's loss until it becomes indistinguishable from your own.
 
 ## M.A.W. SET — *Swallow — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Swallow Source-Trace, the field team preserved this source fact: 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Swallow's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Name the source of the grief and return emotional ownership The set cannot heal the originating event. Misuse routes Swallow's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-767-A`  
-**Linked Entity:** `SE-767`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -15,12 +15,12 @@ designation — the pre-cover-up text), and checks a candidate quote before it i
   quote_audit.py --check "<text>" is this text already in use? exact match, nearest three, word count, flags
   quote_audit.py --file <path>    one dossier's quote with the same check
 
-The rules a new quote must pass are written down in REFERENCE_SOMNARAK_WIKI/SE_QUOTE_GUIDE.md.
+The rules a new quote must pass are written down in REFERENCE_SOMNARAK_WIKI/GUIDES/SE_QUOTE_GUIDE.md.
 
 R-30 (owner's instruction, 2026-10-07 — *"If Fixing Quote Add In The NEW QUOTE TO CHECK WITH IT TYPE"*): a quote
 fix is not finished until the new quote has been read back **with its register type** and entered in the ledger.
 `--verify` does the first (every quote, its type, and a census); `--ledger <path>` writes the second
-(REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md).
+(REFERENCE_SOMNARAK_WIKI/REGISTRY/QUOTE_REGISTER_LEDGER.md).
 """
 import argparse
 import collections
@@ -283,7 +283,7 @@ def verify(write=None):
         L.append('- Register census at write time: ' + ' · '.join('%s %d / %d' % (ty, counts[ty], len(rows))
                  for ty, _ in TYPE_ALL if counts.get(ty)) + '.')
         L.append('- Duplicate families: **%d / %d**.' % (len(dups), len(rows)))
-        L.append('- Re-run: `python3 tools/auditors/quote_audit.py --verify` (table) or `--ledger REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md` (write).')
+        L.append('- Re-run: `python3 tools/auditors/quote_audit.py --verify` (table) or `--ledger REFERENCE_SOMNARAK_WIKI/REGISTRY/QUOTE_REGISTER_LEDGER.md` (write).')
         L.append('')
         io.open(path, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
         print('  ledger written: %s (%d rows)' % (path, len(rows)))

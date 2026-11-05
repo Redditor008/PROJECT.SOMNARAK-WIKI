@@ -14,7 +14,7 @@ Door to No One formed from a family home divided before goodbye, leaving a door 
 | Type | Object/Place / Place-Grudge |
 |---|---|
 | Element / Location | Grudge / Zone D, Echo Gardens |
-| Gauge / Pressure | 415/415 / 10–23 |
+| Gauge / Pressure | 000/420; starts 000% / Grudge — no attack pattern; the flame grade against the posted scale is the reading |
 | Work | only Viderehan shows the breaking and Ferrehan remains at the threshold; emotional engagement and confrontation are invalid |
 | Resolution | acknowledge both sides without forcing the threshold to reunite them |
 
@@ -29,12 +29,3 @@ Door to No One formed from a family home divided before goodbye, leaving a door 
 **Full-set resonance — The Open Sill:** *Threshold Without Reunion* sanctifies the courage of leaving an entryway unlatched without succumbing to delusional expectation. The Fang severs coercive spatial anomalies and false apparitions; the Plate shields the bearer against hypothermic mountain drafts blowing across the sill; and the Broken Hinge registers genuine footsteps while acknowledging absolute absence. Misuse—forcing a closed boundary open or trying to compel a lost presence to manifest—causes the doorframe to slam shut across the bearer's shadow, pinning them to the threshold under freezing Void pressure.
 
 **Recorded incidents:** the False Reopening, when Fang cut a coercive seal rather than the empty doorway; the Mid-Threshold Plate vigil, where the wearer stepped aside for separate choices; the Broken Hinge bestowal, which sensed movement without promising anyone waited beyond.
-
----
-**Document ID:** `SE-757-A`  
-**Linked Entity:** `SE-757`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

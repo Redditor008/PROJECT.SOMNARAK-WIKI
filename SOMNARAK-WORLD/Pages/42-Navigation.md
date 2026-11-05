@@ -2,7 +2,7 @@
 
 > *“Navigation is the map of the map — the index that the city keeps of its own knowledge so that a Warden never has to guess where a sorrow is filed.”*
 
-**Navigation** provides the master directory map for the entire [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] wiki archive. 
+**Navigation** provides the master directory map for the entire [SOMNARAK-WORLD](../README.md) wiki archive.
 
 Rather than presenting an unstructured list of files, this index mirrors authentic encyclopedia architecture: organizing knowledge across **Three Main Ways** (Main Portal, Master Bestiary, Master Chronicle), **Two Sub Ways** (Personnel, Departments), and concrete **Individual Specimen Articles** demonstrating both standard non-tool subjects and the three distinct tool relic categories.
 
@@ -98,4 +98,4 @@ Authentic dossier articles demonstrating the primary operational archetypes cata
 - [01-Main Page](01-Main%20Page.md) — central wiki portal
 - [07-Sorrow Entities](07-Sorrow%20Entities.md) — master entity bestiary
 - [05-Chronicle](05-Chronicle.md) — master history and story cantos
-- [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] — the full in-universe lore archive
+- [SOMNARAK-WORLD](../README.md) — the full in-universe lore archive

@@ -12,8 +12,8 @@
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
-| **Manifestation** | Place-Void |
-| **Physical Form** | Mixed — A burst seed whose sprout is a writhing mass of dark root-tendrils — a many-limbed root-creature oozing black Han, dragging itself forward. Lead-cold, it smells of wet stone. |
+| **Manifestation** | Subject-Weight |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — drags itself on root-tendrils and flows as it crawls; advance is measured against surveyed pins. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the breach** — The Seed stops being a corridor problem and takes the root network as its channel. |
+| **Work Damage** | 3–5 Weight — the cost is ground that has never germinated anything it rested in |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | α — Seax, Mantle and Vial all graded |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -81,31 +83,31 @@
 | { *The Current* [**Debuff**] } | "The seed rides a current of sorrow-water — heading for you, heading for the soft ground of your chest." | [The Seed's liquid vehicle seeks the target; it is being planted in them.] | *Target suffers -10 Resolve; the seed is coming for their heart.* **[10 Weight DMG [Weight]]** | When the current touches the target. |
 | { *The Taking Root* [**Debuff**] } | "The seed lands — and immediately begins to grow, heavy and fast, in whatever it touches." | [The Seed germinates on contact; its sorrow-weight anchors fast.] | *Target loses 10 Resolve; something is growing in them.* **[10 Weight DMG [Weight]]** | When the Seed makes contact. |
 | { *The Seed-Burst* [**Attack**] } | "The flowing seed detonates on impact — a splash of potential and weight." | [An exploding seed-projectile strikes.] | *Inflicts Weight pressure and one wound of planted sorrow.* **[14-22 Weight DMG [Weight]]** | When the Seed is intercepted. |
-| { *The Full Bloom* [**Attack**] } | "Every seed the current has been carrying opens at once, and the corridor fills with heavy black flowers." | [The payload the Seed has hauled along the whole corridor matures in a single pass.] | *A heavy Black bloom; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the flow is dammed, which is the one thing the file forbids. |
-| { *The Sorrow River* [**Ultimate**] } | "The current leaves the pins, and every root under the floor starts carrying it further than the corridor does." | [The Seed stops being a corridor problem and takes the root network as its channel.] | *All in range suffer Weight pressure for three turns of flowing seeds.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Bloom* [**Attack**] } | "Every seed the current has been carrying opens at once. And the corridor fills with heavy black flowers." | [The payload the Seed has hauled along the whole corridor matures in a single pass.] | *A heavy Black bloom; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the flow is dammed, which is the one thing the file forbids. |
+| { *The Sorrow River* [**Ultimate**] } | "The current leaves the pins. And every root under the floor starts carrying it further than the corridor does." | [The Seed stops being a corridor problem and takes the root network as its channel.] | *All in range suffer Weight pressure for three turns of flowing seeds.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** Confirmation is the pins, the loaded plate and the advance since the last watch. Nobody identifies this holding by feel, because the ground behind it reads lighter than the ground it is about to cross, and every misidentification in the file was made by somebody standing on the track. The corridor is checked for softening, the plate is set at the marked distances, the floor it has crossed within the hour is cleared, and the raised post is manned before anything else is attempted.
 2. **Clash:** The pins are read, the plate is set at the marked distances, and the Warden works from the raised post. Nobody stands on the floor the entity has crossed within the hour, whatever the plate says.
-3. **Resolution:** The session closes with the advance read against the quarterly mean, the ground ahead cleared, and the originating matter said aloud in the corridor — the citation drafted, the recommendation signed, the one-line note that it was not proceeded with — in plain words, by somebody who has read the honours file. The condition this record carries is **Do not block the flow; acknowledge its source**; the dam was tried once and the corridor it was tried in is still closed. A shift that ends with a barricade anywhere on the corridor has not closed.
+3. **Resolution:** The session closes with the advance read against the quarterly mean, the ground ahead cleared. And the originating matter said aloud in the corridor — the citation drafted, the recommendation signed, the one-line note that it was not proceeded with — in plain words, by somebody who has read the honours file. The condition this record carries is **Do not block the flow; acknowledge its source**. The dam was tried once and the corridor it was tried in is still closed. A shift that ends with a barricade anywhere on the corridor has not closed.
 
 ### Consequences
 
 - Personnel who cannot hold against the pressure lose **Resolve** by the hour, and the file's own screening rule is not a gauge figure: a Warden who describes the weight in the first person comes off the post that day, whatever the instruments say.
 - Extended contact risks Flowing Seed’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- M.A.W. costs are piece-specific: the Seax brings perceived heaviness and slight ageing with prolonged use; the Mantle leaves low fatigue; the Vial makes the bearer carry the collected pressure afterward.
+- M.A.W. costs are piece-specific: the Seax brings perceived heaviness and slight ageing with prolonged use. The Mantle leaves low fatigue; the Vial makes the bearer carry the collected pressure afterward.
 - Without the resolution the flow does not stop. It leaves the corridor through the floor and travels the roots, and denied containment it plants in whoever is nearest rather than going somewhere harmless. The planting is not felt at the time, which is why the ground ahead is cleared rather than the ground behind defended.
 
 ## Appearance
-**Physical Form:** A burst seed sprouted into a writhing mass of dark root-tendrils — a many-limbed root-creature oozing black Han. **Movement:** It drags itself forward on its tendrils, flowing as it crawls.
+**Physical Form:** A seed the size of a man's fist, burst along one seam, with a mass of dark root-tendrils standing in place of a sprout — a dozen limbs and more, each one black, wet, and moving on its own. Black Han oozes from the tendrils and is left behind in the track as a wet line. Lead-cold to the instrument and cold to the hand. It drags itself forward on the tendrils and flows as it crawls, leaving the ground behind it darker than it found it.
 
-**Notable Features:** It travels by root rather than air, which makes this a floor problem; the ground gains measurable weight around it on a curve that has not changed since the holding opened.
+**Notable Features:** It travels by root rather than air, which makes this a floor problem. The ground gains measurable weight around it on a curve that has not changed since the holding opened.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Void
+- **Manifestation:** Subject-Weight
 - **Primary marker:** A seed-shaped place of emptiness through which black Han flows like a river.
 - **Position / movement:** Mobile. It hauls itself along the vault corridor on its tendrils and flows as it hauls; its position is fixed each watch against surveyed iron pins.
 - **Element signature:** Weight
@@ -126,7 +128,7 @@
 ## Origin
 - **Formation:** From a recognition that was drafted, withheld, and never explained.
 - **The Sorrow:** Not the death. The absence of any document saying it happened at work, and the inheritance of that absence by people who were not born when it was decided.
-- **The Event:** A soldier killed in an unmemorialised border action; a citation drafted, a recommendation made, and a one-line note that the matter was not proceeded with.
+- **The Event:** A soldier killed in an unmemorialised border action. A citation drafted, a recommendation made, and a one-line note that the matter was not proceeded with.
 - **The People:** A soldier killed in a small border action the city did not memorialise, and the four generations of his family who inherited the matter unresolved. The honours file is in the commissioning material, drafted and never completed.
 - **Expanded origin context:** The honours file came to the vault with the entity: the citation in draft, the recommendation signed by two officers, and the note recording that it was not proceeded with. No reason is given in the note. The file is held unsealed and may be read by any Warden on the posting without application — a decision taken in a single line of the establishment minute when the holding opened, never revisited at any review since.
 
@@ -135,17 +137,17 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Barred. Twice attempted; the entity takes the opened grief as a channel and plants in the worker. | Increase |
-| **Pugnahan** (Confrontation) | Barred. Ordered once, in Year 4216; it dammed the flow and the corridor took the full bloom. | Increase |
-| **Viderehan** | Steady enough to work the pins and the plate from the raised post. | Stable |
-| **Ferrehan** | The long watch under the weight, with the honours file read and its one-line note read aloud. | Decrease |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Twice attempted; the entity takes the opened grief as a channel and plants in the worker. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Ordered once, in Year 4216; it dammed the flow and the corridor took the full bloom. | Negative-Low |
+| **Viderehan** | Steady enough to work the pins and the plate from the raised post. | Stable · Common |
+| **Ferrehan** | The long watch under the weight, with the honours file read and its one-line note read aloud. | Decrease · High |
 
 
 ### Operational Work Notes
 
-Read the responses against the classification. Flowing Seed is a Subject — mobile, breaching, Place-Void in manifestation and Weight in expression — held at Zone A beside the Alpha Tree roots, and nothing here should be read with the assumptions a stationary holding allows. Flerehan and Pugnahan are available against a Subject and both are barred on this one, each for a recorded reason. Viderehan holds the gauge while the pins and the plate are read; Ferrehan is the long watch under the weight, with the honours file read before the posting and its one-line note read aloud. A stable gauge is not a quiet session: the observation can be completed perfectly while the floor under the observer keeps getting heavier.
+Read the responses against the classification. Flowing Seed is a Subject — mobile, breaching, Place-Void in manifestation and Weight in expression — held at Zone A beside the Alpha Tree roots, and nothing here should be read with the assumptions a stationary holding allows. Flerehan and Pugnahan are available against a Subject and both are barred on this one, each for a recorded reason. Viderehan holds the gauge while the pins and the plate are read. Ferrehan is the long watch under the weight, with the honours file read before the posting and its one-line note read aloud. A stable gauge is not a quiet session: the observation can be completed perfectly while the floor under the observer keeps getting heavier.
 
-**Reading the response:** A falling gauge means the weight was carried for the length of the watch, not that anything was lifted; no session has ever put the advance back. The quarterly means are 1.9, 2.6 and 3.4 metres per watch, and what moves the gauge is the sentence in the corridor — the originating matter, stated plainly by somebody who has read the file. Log the gauge, the advance, and whether the matter was said aloud; the third field is the one that explains the first two.
+**Reading the response:** A falling gauge means the weight was carried for the length of the watch, not that anything was lifted. No session has ever put the advance back. The quarterly means are 1.9, 2.6 and 3.4 metres per watch, and what moves the gauge is the sentence in the corridor — the originating matter, stated plainly by somebody who has read the file. Log the gauge, the advance, and whether the matter was said aloud; the third field is the one that explains the first two.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -159,7 +161,7 @@ Read the responses against the classification. Flowing Seed is a Subject — mob
 
 ### Escalation Notes
 
-The escalation here is measured in metres rather than in turns. Record the advance since the last watch against the quarterly mean, the bearing at every pin — the turn toward the underground River is the earliest sign of a breach through the floor — the plate's curve at the marked distances, the softening behind it, and whether the honours file has been read on this posting. That last field is on the form because Wardens who have read it describe the weight precisely, and the difference has held for nine years. Nothing on this holding is escalated by attention; it rises with the number of deaths in service that nobody was allowed to write down.
+The escalation here is measured in metres rather than in turns. Record the advance since the last watch against the quarterly mean, the bearing at every pin — the turn toward the underground River is the earliest sign of a breach through the floor — the plate's curve at the marked distances, the softening behind it. And whether the honours file has been read on this posting. That last field is on the form because Wardens who have read it describe the weight precisely, and the difference has held for nine years. Nothing on this holding is escalated by attention; it rises with the number of deaths in service that nobody was allowed to write down.
 
 **Response sequence:** Read the pins, clear the floor it has crossed, open the raised post, and state the originating matter aloud. Do not block the corridor; the one occasion it was dammed produced the full bloom.
 
@@ -169,7 +171,7 @@ The escalation here is measured in metres rather than in turns. Record the advan
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | A death in service recorded as nothing but a code and a date. |
-| **Manifestation** | Place-Void — the SECC manifestation; the Subject-Weight entry here was an error of transcription |
+| **Manifestation** | Subject-Weight — the SECC manifestation; the Subject-Weight entry here was an error of transcription |
 | **Primary effect** | Measurable weight gain in the ground, falling off with distance on a stable curve. |
 | **Duration / rate** | Continuous; 3.4 metres per watch and it does not rest. |
 | **Risk** | Major (γ) Subject producing Weight pressure. It plants in personnel rather than striking them, and the planting is not felt at the time. |
@@ -178,21 +180,20 @@ The escalation here is measured in metres rather than in turns. Record the advan
 **Activation reporting order:** pin reading → advance since the last watch → plate curve at the marked distances → softening of the ground behind it → personnel effect → whether the honours file has been read this posting. The last field is on the form because Wardens who have read it report the weight differently and the difference is consistent.
 ## Breach Behavior
 
-> *"Flowing Seed has broken free. Plants itself in personnel, growing within."*
-
+> *"Flowing Seed has broken free. It plants in whoever is standing on ground it has crossed, or in the person carrying a death that was never written down. The planting is not felt at the time, which is the whole danger."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | Flowing Seed bursts free and crawls or slithers in search of prey. It plants itself in personnel, growing within. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
+| **Secondary Effect** | The seed drags its tendrils behind it and the surveyed pins fall behind faster than it moves. The district's debt is measured in what the seed has already gone past. |
 | **First Target** | The nearest person standing on ground it has crossed, or the one whose record carries a death nobody wrote down. The planting is not felt at the time and is found afterwards in the weight the person is carrying. |
 | **Escalation** | While it is free the ground keeps gaining weight and the Resolve drain rises by 5 per turn. Force has never reversed the advance; the only thing on record that has held it flat is the matter said aloud. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape. It leaves the vault corridor through the floor, not the door, travelling along Alpha Tree roots, and it plants in personnel rather than pursuing them.
-- **Containment priority:** Do not block corridors and do not force it back. Wardens on raised posts, the floor cleared ahead of it, and the originating matter stated aloud; Pugnahan is barred here and the Year 4216 order is the reason.
+- **Containment priority:** Do not block corridors and do not force it back. Wardens on raised posts, the floor cleared ahead of it, and the originating matter stated aloud. Pugnahan is barred here and the Year 4216 order is the reason.
 - **Sorrow Gauge on breach:** Opens at 40% and climbs 10% a turn while nothing is said aloud about what the entity is carrying. Naming the originating matter has held it flat on each of the three occasions it was tried.
 
 ## M.A.W. Equipment
@@ -203,7 +204,7 @@ The escalation here is measured in metres rather than in turns. Record the advan
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-Appearance : A broad broken-back seax featuring a straight cutting edge and sharply angled clip spine, fitted with an unvarnished bog-oak hilt that sprouts tiny dried seed pods along the pommel.
+**Appearance:** A broad broken-back seax featuring a straight cutting edge and sharply angled clip spine, fitted with an unvarnished bog-oak hilt that sprouts tiny dried seed pods along the pommel.
 
 The blade flat is etched with botanical germination diagrams filled with dark copper leafing. Cutting organic tissue leaves microscopic spores that drain kinetic momentum from the target.
 
@@ -215,7 +216,7 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 **Ability:** Weight damage against the Han — the reserves and what is owed. The edge leaves spores in the wound that drain momentum from whatever the target does next, so the blade's work is done after the cut rather than during it.
 
-**Cost:** The bearer gets heavier without gaining weight, and prolonged use ages them slightly, most visibly in the hands. The armoury records the ageing against the wielder's ledger rather than against the piece, and on this set that has never been contested.
+**Bearer cost:** The bearer gets heavier without gaining weight, and prolonged use ages them slightly, most visibly in the hands. The armoury records the ageing against the wielder's ledger rather than against the piece, and on this set that has never been contested.
 
 ### M.A.W. Suit — Flowing Seed Mantle
 
@@ -231,9 +232,9 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Wards the Han against Weight damage, which is this holding's whole manner of pressing. The mantle does not stop the ground from getting heavier; it stops the wearer from carrying the ground away with them after they step off it.
+**Ability:** Wards the Han against Weight damage, which is this holding's whole manner of pressing. The mantle does not stop the ground from getting heavier. It stops the wearer from carrying the ground away with them after they step off it.
 
-**Cost:** A constant low fatigue, low enough that bearers stop noticing it and are told to report it anyway. Two returns state that the bearers recognised it only after a week in another post.
+**Bearer cost:** A constant low fatigue, low enough that bearers stop noticing it and are told to report it anyway. Two returns state that the bearers recognised it only after a week in another post.
 
 ### M.A.W. Stigma — Flowing Seed Vial
 
@@ -247,9 +248,9 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 **Ability:** Absorbs emotional pressure from a room.
 
-**Cost:** The wearer carries the pressure afterward.
+**Bearer cost:** The wearer carries the pressure afterward.
 
-*Nineteen vials exist. Seventeen went to Wardens of this posting; the other two were given to drafters in the inquiry office who had never seen the entity, which the Warden Record notes without explaining.*
+*Nineteen vials exist. Seventeen went to Wardens of this posting. The other two were given to drafters in the inquiry office who had never seen the entity, which the Warden Record notes without explaining.*
 
 ### M.A.W. Use Notes
 
@@ -264,9 +265,9 @@ Every piece in the set is cut from the holding it is issued against, and it carr
 | **At limit** | The Mantle's constant low fatigue can go unnoticed. Do not substitute that sign for the Seax's heaviness and ageing or the Vial's carried pressure; record the selected piece and the reason use ended. The second worker's call stands against the wielder's. |
 | **After use** | Return the piece, open the sealed baseline, and record whether the toll has reversed. Where it has not, the piece is not reissued to that wielder, a rule the armoury has applied without exception. |
 
-**Stat interpretation:** The grade measures how cleanly the piece was taken from its source; it says nothing about what the piece does to the person holding it. A low-grade tool can perform flawlessly and still return a bearer who is heavier for a season, and on this set the two columns have never moved together. Read both columns and authorise on the second.
+**Stat interpretation:** The grade measures how cleanly the piece was taken from its source. It says nothing about what the piece does to the person holding it. A low-grade tool can perform flawlessly and still return a bearer who is heavier for a season, and on this set the two columns have never moved together. Read both columns and authorise on the second.
 
-**Full-set source review (2026-10-12):** Reviewed the α equipment-grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and the earlier M.A.W. cost claim against Side `SE-628-A` (`N-IIIγ-628 [D]`, set `4/4`), items `SE-628-B/C/D` (`MAW-W/S/G-628-01`), Registry rows 779–782, Master M.A.W. entries 448–450 and Entity Codex row 517, Tale 150, and Weapon Archetype `MAW-W-628`. Side A has no standalone Appearance section; all three item pages have Appearance sections, with no separately labelled transition block. Side A explicitly separates its Major γ source grade from the α equipment grade; the primary overview and all three item grades correctly remain α. The Stigma effect now names `+1 Resolve`, supported by Side A and item D. Hold the primary/Master-index `Sprouting Seax` against Side/item `Patrimoine Maul` and Master Entry 448's `Flowing Seed Maul`; the primary's broken-back seax/spore effect against the linked Maul's routed settling-bed function; and the archetype's Room band against primary/Side/item Range 2 (Short). The Master index calls the weapon a Short Blade while its archetype row assigns Room. Side/item Single pattern is corroborated; 100% coverage appears only in item B and was not copied. Head remains local/Side/item against the Registry's generic Accessory label.
+**Full-set source review (Year 4238):** Reviewed the α equipment-grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and the earlier M.A.W. cost claim against Side `SE-628-A` (`N-IIIγ-628 [D]`, set `4/4`), items `SE-628-B/C/D` (`MAW-W/S/G-628-01`), Registry rows 779–782, Master M.A.W. entries 448–450 and Entity Codex row 517, Tale 150, and Weapon Archetype `MAW-W-628`. Side A has no standalone Appearance section; all three item pages have Appearance sections, with no separately labelled transition block. Side A explicitly separates its Major γ source grade from the α equipment grade; the primary overview and all three item grades correctly remain α. The Stigma effect now names `+1 Resolve`, supported by Side A and item D. Hold the primary/Master-index `Sprouting Seax` against Side/item `Patrimoine Maul` and Master Entry 448's `Flowing Seed Maul`. The primary's broken-back seax/spore effect against the linked Maul's routed settling-bed function. And the archetype's Room band against primary/Side/item Range 2 (Short). The Master index calls the weapon a Short Blade while its archetype row assigns Room. Side/item Single pattern is corroborated; 100% coverage appears only in item B and was not copied. Head remains local/Side/item against the Registry's generic Accessory label.
 
 ## 관찰 기록 (Observation Log)
 
@@ -302,14 +303,14 @@ Advance 3.4 metres per watch on the quarterly mean, against 2.6 and 1.9 in the t
 It responds to the Sorrow Tide.
 
 **Entry 3 — <Excerpt from Inquiry Office Correspondence>**
-The office confirms that no posthumous commendation of any kind is issued by this Company, that the prohibition is absolute and was adopted for cause, and that in consequence a death in service and a resignation leave the same mark on a personnel record: a termination code and a date.
+The office confirms that no posthumous commendation of any kind is issued by this Company, that the prohibition is absolute and was adopted for cause. And that in consequence a death in service and a resignation leave the same mark on a personnel record: a termination code and a date.
 The burden of carrying grief through generations without allowing it to settle.
 
 **Entry 4 — <Containment Notice>**
 Management: surveyed pins read every watch, loaded plate at the marked distances, the floor it has crossed closed for an hour, the Warden's post raised, and the originating matter said aloud when the advance rises. Work response — Viderehan: steady enough to work the instruments (Stable); Ferrehan: the long watch under the weight (Decrease). Flerehan and Pugnahan are barred and the bars are evidenced.
 
 **Entry 5 — <Archive Note>**
-The honours file lies unsealed beside the vault door and any Warden on the posting may read it. Eleven pages: the citation in draft, in a good hand; the recommendation, signed by two officers who had no reason to sign lightly; and at the back, one line stating that the matter was not proceeded with. There is no reason on the line. The archivist's note observes that the absence of a reason is the document's entire content, and that four generations of one family have now read it looking for the sentence that is not there.
+The honours file lies unsealed beside the vault door and any Warden on the posting may read it. Eleven pages: the citation in draft, in a good hand. The recommendation, signed by two officers who had no reason to sign lightly. And at the back, one line stating that the matter was not proceeded with. There is no reason on the line. The archivist's note observes that the absence of a reason is the document's entire content, and that four generations of one family have now read it looking for the sentence that is not there.
 
 ## 최종 관찰 (Final Observation)
 
@@ -347,7 +348,7 @@ Flowing Seed must be kept distinct from the other seed holdings. The Sorrow Seed
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
-| **The Sorrow Seed** | The dormant body this one began as. Dormant potential against a thing that will never grow; the two are the same object before and after a decision was taken about a dead man. | Advance falls to 1.1 metres per watch while within sixty metres of the Sorrow Seed, the only measure that has ever reduced it. | Pin advance, range, and how long the reduction holds after separation. |
+| [**The Sorrow Seed**](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md) | The dormant body this one began as. Dormant potential against a thing that will never grow. The two are the same object before and after a decision was taken about a dead man. | Advance falls to 1.1 metres per watch while within sixty metres of the Sorrow Seed, the only measure that has ever reduced it. | Pin advance, range, and how long the reduction holds after separation. |
 | **The Sorrow River** | It steers toward the underground River whenever the corridor allows and has never reached it. | Advance rises and the track turns; the turn is the earliest sign of an attempted breach through the floor. | Bearing at every pin, not merely distance. |
 | **The Alpha Tree** | The roots are its road. The vault was sited here to keep the road short and visible, a decision argued at length in the establishment minute. | No measurable effect on the Tree in four generations; the effect runs one way. | Root condition at the marked distances, surveyed with the pins. |
 
@@ -389,13 +390,13 @@ The rule is right. The seed is what the rule costs, measured in metres per watch
 - Do not dam it. The one attempt, in Year 4216, produced the full bloom and closed a corridor that is still closed.
 **Observation Notes:**
 - Advance 1.9, 2.6 and 3.4 metres per watch across three quarterly means; no session has ever recorded growth.
-**Cross-References:** Zone A, Alpha Tree vault · The Sorrow Seed · The Sorrow River · The Alpha Tree · The Inquiry Office
-**Faction Involvement:** SED (B-territory exploration) holds the pin survey and the corridor closure register; UCD (Fray-adjacent zone) is the office of record for the ground it has crossed. Neither pursues the entity and neither is authorised to block it.
+**Cross-References:** Zone A, Alpha Tree vault · [The Sorrow Seed](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md) · The Sorrow River · The Alpha Tree · The Inquiry Office
+**Faction Involvement:** SED (B-territory exploration) holds the pin survey and the corridor closure register. UCD (Fray-adjacent zone) is the office of record for the ground it has crossed. Neither pursues the entity and neither is authorised to block it.
 **Originator:** A soldier whose unacknowledged rage entered a dormant seed.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this record as three series side by side — the advance in metres per watch, the plate's weight curve at the marked distances, and the count of deaths in service that leave only a termination code and a date. Only the first has ever risen, and it rises against the third: 1.9, then 2.6, then 3.4 metres per watch. Record what the corridor does on the day and enter it against the pins rather than against the previous watch's mood; where the room and the paper disagree, the room is entered first and the paper with the date it was consulted.
+**Operational interpretation:** Read this record as three series side by side — the advance in metres per watch, the plate's weight curve at the marked distances, and the count of deaths in service that leave only a termination code and a date. Only the first has ever risen, and it rises against the third: 1.9, then 2.6, then 3.4 metres per watch. Record what the corridor does on the day and enter it against the pins rather than against the previous watch's mood. Where the room and the paper disagree, the room is entered first and the paper with the date it was consulted.
 
 **Review requirement:** At every watch: pin reading, advance since the last watch, plate curve at the marked distances, softening behind the entity, whether the floor-closure hour was respected, and whether the honours file has been read on this posting. An advance above the quarterly mean is reviewed on its own with the bearing at every pin, and the review records metres and bearings rather than describing the corridor as worse.
 ## Warden Record
@@ -414,15 +415,15 @@ Grief moves along its tendrils rather than through the air, which is why the con
 
 ### What the Advance Is Measuring
 
-Position is fixed each watch against iron pins driven along the vault corridor, and the pins are replaced when the ground around them softens, which has made the replacement log an unintended survey of what the entity does to the floor it crosses. The quarterly means are 1.9 metres per watch, then 2.6, then 3.4. The loaded plate gives the weight gain at marked distances on a curve that has not changed since the holding opened; the archivist removed the fitted equation years ago because readers had begun citing the equation instead of the readings.
+Position is fixed each watch against iron pins driven along the vault corridor, and the pins are replaced when the ground around them softens, which has made the replacement log an unintended survey of what the entity does to the floor it crosses. The quarterly means are 1.9 metres per watch, then 2.6, then 3.4. The loaded plate gives the weight gain at marked distances on a curve that has not changed since the holding opened. The archivist removed the fitted equation years ago because readers had begun citing the equation instead of the readings.
 
-The advance tracks the number of deaths in service in the preceding quarter whose only surviving record is a termination code and a date. An inquiry-office clerk established the match over three years from payroll alone. Tide windows, root condition, vault temperature and the holding's own gauge were tested against the series and lost; nobody has produced a competing explanation in the nine years since.
+The advance tracks the number of deaths in service in the preceding quarter whose only surviving record is a termination code and a date. An inquiry-office clerk established the match over three years from payroll alone. Tide windows, root condition, vault temperature and the holding's own gauge were tested against the series and lost. Nobody has produced a competing explanation in the nine years since.
 
-This Company issues no posthumous commendation. The prohibition is absolute and the reason is in the minute books: honours after a death had become the cheapest way to close one, because a family that accepted a medal was taken to have accepted the account that came with it, and eleven inquiries were discontinued on that footing in a single decade. The abolition was correct. Its consequence was a personnel record on which a death at the face and a resignation left the same mark. The Plain Statement scheme below now provides a separate factual account where the inquiry can establish one; it neither restores honours nor supplies the missing facts in refused cases.
+This Company issues no posthumous commendation. The prohibition is absolute and the reason is in the minute books: honours after a death had become the cheapest way to close one, because a family that accepted a medal was taken to have accepted the account that came with it. And eleven inquiries were discontinued on that footing in a single decade. The abolition was correct. Its consequence was a personnel record on which a death at the face and a resignation left the same mark. The Plain Statement scheme below now provides a separate factual account where the inquiry can establish one. It neither restores honours nor supplies the missing facts in refused cases.
 
 ### The Plain Statement
 
-Authorised Year 4235, first issued Year 4236. It is not an honour and says so in its own first line. On request by next of kin, the inquiry drafts one paragraph of fact — what the person was doing, where, and when — with no praise, no gratitude and no finding of merit, and the text states expressly that accepting it waives nothing and settles nothing.
+Authorised Year 4235, first issued Year 4236. It is not an honour and says so in its own first line. On request by next of kin, the inquiry drafts one paragraph of fact — what the person was doing, where. And when — with no praise, no gratitude and no finding of merit. And the text states expressly that accepting it waives nothing and settles nothing.
 
 1,460 were requested in Year 4237. 1,207 were issued. 253 were refused because the inquiry could not establish what the person had been doing, and those refusals fell, without exception, on families who had been told least at the time. 88 issued statements contradicted the account the family had been given; 6 inquiries were reopened in consequence. Two statements reached addresses the families had left years before.
 

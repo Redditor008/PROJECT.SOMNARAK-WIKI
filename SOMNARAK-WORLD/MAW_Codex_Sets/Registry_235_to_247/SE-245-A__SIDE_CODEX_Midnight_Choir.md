@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Lament |
 | Form | Salt-damp frescoes of the dead whose painted mouths breathe and sing interrupted lullabies, work songs, love songs, and funeral hymns. |
-| Gauge / Pressure | 35–50% / Lament 9–23 |
+| Gauge / Pressure | 000% / Lament 9–23 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Unfinished Verse |
 
@@ -44,10 +44,10 @@ Singing begins most reliably at midnight when the district is quiet. Pigment sme
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears may accompany listening but do not replace it. |
-| Pugnahan | Not valid; disturbance produces cutting notes. | N/A | Never silence or damage the frescoes. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Tears may accompany listening but do not replace it. |
+| Pugnahan | Not valid; disturbance produces cutting notes. | Net-Neutral | Never silence or damage the frescoes. |
 | Viderehan | Songs reveal lost voices and events. | Stable | Catalogue voice, verse, break point, and provenance. |
-| Ferrehan | Walls sing for hours while testing attention. | Down | Rotate listeners without interrupting the line. |
+| Ferrehan | Walls sing for hours while testing attention. | Decrease | Rotate listeners without interrupting the line. |
 
 **Resolution:** Listen and catalogue; do not silence the walls.  
 **Expansion:** New unfinished songs travel through connected structures, filling rooms with ancient music and emotional resonance.  
@@ -99,13 +99,3 @@ Blue residue gathers at a fresco’s final audible note after listeners remain t
 **Primary source:** `SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md`
 
 **Restricted note:** A catalogued fragment is not a finished composition and must never be released as one.
-
----
-
-**Document ID:** `SE-245-A`  
-**Linked Entity:** `SE-245`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

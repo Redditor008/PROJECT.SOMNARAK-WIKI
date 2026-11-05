@@ -19,10 +19,10 @@ The Seed formed from concentrated grief waiting for a form. Potential sorrow—t
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-300 [D] |
-| Type / Manifestation | Subject — Can breach / Object-Weight |
+| Type / Manifestation | Subject — Non-breaching: manifestation in place / Object-Weight |
 | Coherence / Potency | Residue (I) — Barely formed, dormant / Minor (α) |
 | Element / Location | Weight / Zone D, Echo Gardens |
-| Gauge / Pressure | 174/174; starts 25–40% / 2–7 per hit · Weight |
+| Gauge / Pressure | 000/174; starts 000% / 2–7 per hit · Weight |
 | Observation | 1 — Initial |
 | Formation event | A grief fragment crystallized in the Echo Gardens and entered dormancy. |
 
@@ -30,17 +30,17 @@ The Seed formed from concentrated grief waiting for a form. Potential sorrow—t
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals possible forms it could grow into. (Stable) |
 | Ferrehan | Tests whether the worker can hold potential without planting it. (Decrease) |
 
 **Trigger:** Planting in sorrow-rich soil.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1031 -->
+**Resolution:** Measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
-## WITNESS RECORD — *The The Sorrow Seed Source-Trace*
+## WITNESS RECORD — *The Sorrow Seed Source-Trace*
 
-During the The The Sorrow Seed Source-Trace, the field team preserved this source fact: A grief fragment crystallized in the Echo Gardens and entered dormancy. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Potential sorrow—the fear that pain will become something larger than the person who felt it.
+During *The Sorrow Seed Source-Trace*, the field team preserved this source fact: A grief fragment crystallized in the Echo Gardens and entered dormancy. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Potential sorrow—the fear that pain will become something larger than the person who felt it.
 
 ## M.A.W. SET — *The Sorrow Seed — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The The Sorrow Seed Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Sorrow Seed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Sorrow Seed's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1031-A`  
-**Linked Entity:** `SE-1031`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies The Sorrow Seed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon discharges only the immediate manifestation that violates this rule: measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment. The gauge opens at 000% of its 000/174 meter, and 2–7 per landed Weight hit. The set cannot heal the originating event. Misuse routes The Sorrow Seed's wound through the operator and triggers the recorded escalation.

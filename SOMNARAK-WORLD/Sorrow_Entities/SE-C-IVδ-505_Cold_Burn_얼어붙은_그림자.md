@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A figure made from frozen shadow — dark, still, cold — whose edges burn crimson the instant no one looks directly at it. Bloodless-cold, it smells of ash; you only ever see it still out of the corner of your eye. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile in breach along its own lattice, continuing its rounds of doors, seals and corners. It has never pursued anybody who kept looking at it. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **SE Effect** | **On the breach** — Its lattices grow toward doors, seals and the vault — things it treats as its responsibility — and the growth is measurably slower while the vault is full. |
+| **Work Damage** | 5–8 Void — the cost is an injury that presents as a burn and reads cold to every instrument |
+| **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | β · Arbalest, Coat, Stigma — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -55,7 +57,7 @@
 | **Resistance** | 45% against Void pressure; 35% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 975/975 |
-| **Han Pressure [ATK]** | 25–55 per hit · Void |
+| **Han Pressure [ATK]** | 30–60 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -78,27 +80,28 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Still Pursuer* [**Debuff**] } | "Your shadow has frozen — locked to the ground — and no matter where you go, it stays, watching." | [The Shadow freezes in place; the target's own shadow becomes an anchor.] | *Target suffers a Void mark; their shadow is pinned and watching.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shadow freezes. |
-| { *The Cold Trail* [**Debuff**] } | "Where the frozen shadow was, frost remains — and the frost follows you, spreading." | [The Shadow's cold spreads; wherever the target steps, ice forms.] | *Target loses clarity; the cold is tracking them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target moves away. |
-| { *The Ice Spike* [**Attack**] } | "The frozen shadow extends one sharp, dark spike toward your ankle." | [An ice-shadow spike launches.] | *Inflicts Void damage; the cold strike severs a shadow-link.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shadow is probed. |
-| { *The Full Freeze* [**Attack**] } | "The frozen shadow expands — covering the ground, the walls, and everything between you and escape." | [Ground that has not thawed in the holding's life cracks outward in every direction, and the cold arrives before the sound of it does.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shadow is shattered. |
+| { *The Still Pursuer* [**Debuff**] } | "It is still because you are looking at it. That is the whole of the arrangement, and the arrangement is yours to break." | [Nothing is pinned and nothing pursues. The figure stands its round under direct attention. The burn is taken by whoever stops looking first.] | *Target suffers a Void mark: a burn that presents as a burn and reads cold to every instrument.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When attention breaks without an announced hand-off. |
+| { *The Cold Trail* [**Debuff**] } | "Where she has passed on her rounds the cold does not lift behind her, and the colour goes out of the corridor with it." | [The cold is not tracking anybody. It is the residue of a route walked in order — doors, seals, corners — whether a worker is present or not.] | *Target loses clarity standing in the trailed cold; the chamber thermometer is the instrument, not the skin.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker crosses the rounds route without the hand-off announced. |
+| { *The Ice Spike* [**Attack**] } | "Nothing is launched. The lattice along the seam has simply advanced since last week, and it is at knee height where your ankle is." | [No spike is fired and no link is severed. The injury is the lattice's slow advance met by a person standing in its mapped line.] | *Inflicts Void damage: a cold burn at the lattice line, entered with the week's advance figure.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker stands in the lattice's advance or probes it with impact. |
+| { *The Full Freeze* [**Attack**] } | "Break the lattice and it does not shatter her. It regrows at several times the prior rate, in every direction, and the cold arrives before the sound of it does." | [Impact removal is the recorded error. Warm tools and obstruction only is the standing technique. The burst is regrowth, not retaliation.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the lattice is struck, shattered or cut back by impact. |
 | { *The Shadowless Field* [**Ultimate**] } | "Every shadow freezes — and without moving shadows, the light itself goes cold and permanent." | [The lattice stops being a wall the Shadow builds and becomes the room's own condition, and the shadows go still where they stand.] | *All in range suffer Void erosion for three turns of frozen shadows.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Cold Burn by the lattice and the cold, never by the edges: the crimson edge appears only when somebody has stopped looking, which means the observer who sees it has already made the error, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** The team identifies Cold Burn by the lattice and the cold, never by the edges: the crimson edge appears only when somebody has stopped looking, which means the observer who sees it has already made the error, confirms the approach. And takes position before anything else is attempted.
 2. **Clash:** Direct attention held throughout, handed off aloud, double-staffed; nobody's gaze drifts. Flerehan and Ferrehan from the post. Pugnahan answers with frozen force and is not used. The reflection list is walked and signed before anybody enters.
-3. **Resolution:** The cycle closes when the duty has been completed symbolically at the chamber door and the Shadow has been told, aloud, that it may stop. The registration carries the file's own suppression condition: **complete the duty symbolically, then tell the Shadow it may stop** — and the care taken over the wording is the whole point, because the holding has never once been told to stand down by anybody with the authority to release it.
+3. **Resolution:** The cycle does not close symbolically — that route was tried for nine years, the lattice grew through all of it, and it is withdrawn. The registration carries the file's own suppression condition: **tell it, by name and aloud, which of its orders has been revoked and by whom** — and the care taken over the wording is the whole point, because the holding has never once been told to stand down by anybody with the authority to release it.
 
 ### Consequences
 
 - A worker who fails to hold against her pressure loses **Composure** in quantity, and loses the edges of their own identity along with it, and the two losses drive the Sorrow Gauge up faster than the watch can write it down. At the vault approach that is the particular danger: erosion and escalation arrive in the same minute, and the gauge keeps climbing after the worker has stopped reporting.
 - Long contact brings the whole of her documented manifestation into the corridor: the emotions erode, the body is traumatised, the identity dissolves, and last the environment itself is corrupted in a way that does not undo itself. That fourth stage is why the lattice along the seam is written down every week rather than estimated, and why the order says until relieved.
 - The M.A.W. costs are piece-specific, not a common three-currency debit: the Weapon takes one small nameless memory, the Veil leaves the bearer faintly absent to themselves, and the Ring makes every abandoned duty felt. Record each cost against the bearer and the piece used.
-- Left unresolved, she falls back on the breach, activation or expansion behaviour recorded in her own dossier. Containment refused, grief with nowhere left to run makes its own way out, and what it makes is catastrophic. The lattice at knee height is that same cutting done slowly.
+- Left unresolved, nothing catastrophic happens, which is the cost in its own form: she walks out along her own lattice and continues her rounds elsewhere, workers in her corridor begin performing checks nobody asked for. And the lattice keeps its weekly advance at knee height — the same cutting, done slowly, at a rate that tracks the count of dead-authored orders still in force.
+- The burn that reads cold defeated the wing's own treatment protocol, so the Market's cold-injury procedure is now a district rule written for this holding and applied to all of them.
 
 ## Appearance
-**Primary Form:** A figure made from frozen shadow, with edges that burn crimson when someone looks away.
+**Primary Form:** A figure cut from frozen shadow — a man's shape, roughly, standing in a black that has the flat dead surface of ice rather than of cloth, its edges furred white where the cold has crystallised. Look at it and the edges are white. Look away, and the same edges run crimson for as long as they stay in the corner of the eye. Nothing about it is warm, and the cold is total: the Forge's own heat does not cross the last two metres, and the chamber thermometer is the second instrument brought to every watch.
 
 **Notable Features:** It appears in a reflective surface before it appears in the room, which is why there are no reflective surfaces. It builds frozen lattices in the direction of what it still treats as its responsibility. Its edges burn crimson the instant nobody is looking at it.
 
@@ -116,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A figure made from frozen shadow, with edges that burn crimson when someone looks away. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Cold Burn cycle against the previous reading. |
+| **Position / movement** | Mobile in breach along its own lattice, continuing its rounds of doors, seals and corners. Recorded at every Cold Burn cycle against the previous reading. |
 | **Material / signature** | Void. Bloodless-cold, ash; cold enough that the Forge's proximity does not overcome it, and the chamber thermometer is the holding's second instrument. |
 | **Distinctive markers** | The lattice along the wall seams, the chamber temperature, and a figure with no caster. |
 | **Identification** | If you can see its edges burning, you have already looked away. Report it; do not correct it quietly. |
@@ -134,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It stops its round and stands while the worker speaks. It does not answer. | Decrease |
-| **Pugnahan** | Frozen force, and lattice regrowth at several times the prior rate. Not used. | Increase |
-| **Viderehan** | It shows what it still counts as its responsibility — doors, seals, the vault, and three things the wing has never identified. | Stable |
-| **Ferrehan** | The long stand at the post under its pressure, attention unbroken, hand-off announced. | Decrease |
+| **Flerehan** | It stops its round and stands while the worker speaks. It does not answer. | Decrease · High |
+| **Pugnahan** | Frozen force, and lattice regrowth at several times the prior rate. Not used. | Increase · Low |
+| **Viderehan** | It shows what it still counts as its responsibility — doors, seals, the vault, and three things the wing has never identified. | Stable · Common |
+| **Ferrehan** | The long stand at the post under its pressure, attention unbroken, hand-off announced. | Decrease · Common |
 
 
 
@@ -163,7 +166,7 @@ The gauge here is unhelpful and the wing says so. The figure that is read is the
 
 - **Breach type:** Escape — it leaves the chamber along its own lattice and continues its rounds elsewhere. It has never pursued a worker who kept looking at it.
 - **Containment priority:** No suppression. Pugnahan multiplies the regrowth. Clear the reflective surfaces along its route, keep eyes on it the whole way, and send somebody who can name a revoked order.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Sorrow Gauge on breach:** Opens at 40% and rises five points for each cycle the lattice is left extending. It stops rising between cycles but does not fall: the reading only comes down when somebody names an order and the person who revoked it, which is the one ending this file records.
 
 ## M.A.W. Equipment
 
@@ -173,7 +176,7 @@ The gauge here is unhelpful and the wing says so. The figure that is read is the
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : The piece issues short, built for a corridor rather than for a wall: prod arms of high-tensile steel, a bronze cranequin geared so that one hand can span it at the vault door, and a track of grooved bone with the flight calculations cut into it. It is heavy for its length and it is kept spanned, since at the approach there is no second interval in which to wind it.
+**Appearance:** The piece issues short, built for a corridor rather than for a wall: prod arms of high-tensile steel, a bronze cranequin geared so that one hand can span it at the vault door. And a track of grooved bone with the flight calculations cut into it. It is heavy for its length and it is kept spanned, since at the approach there is no second interval in which to wind it.
 
 It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to see, and a spring spool inside the stock winds a missed bolt straight back into its groove. Nothing is left lying on the floor. That is the entire reason this piece is issued at this door, and the reason the Armoury will hand out nothing else here.
 
@@ -190,7 +193,7 @@ It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to 
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Cold Burn's void signature in the strike.
 
-**Cost:** Each discharge takes one small memory that had no name to begin with. The bearer cannot report the loss, so the Armoury counts it against the piece instead of against the person carrying it.
+**Bearer cost:** Each discharge takes one small memory that had no name to begin with. The bearer cannot report the loss, so the Armoury counts it against the piece instead of against the person carrying it.
 
 ### M.A.W. Suit — Cold Burn Veil
 
@@ -208,7 +211,7 @@ It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to 
 
 **Ability:** Grants resistance to Void damage, and stands between the wearer and the Soul register she works in — identity, memory, the sense of being somebody — which is what she attacks at the door. The veil is woven against her kind of pressure and against no other holding's.
 
-**Cost:** The wearer comes off the shift faintly absent to themselves, as though the round had been worked by somebody else with their name on it.
+**Bearer cost:** The wearer comes off the shift faintly absent to themselves, as though the round had been worked by somebody else with their name on it.
 
 ### M.A.W. Stigma — Cold Burn Ring
 
@@ -222,7 +225,7 @@ It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to 
 
 **Ability:** Allows silent movement and concealment.
 
-**Cost:** The wearer feels every duty they have abandoned.
+**Bearer cost:** The wearer feels every duty they have abandoned.
 
 *The stigma is given, not issued, and only to an observer who has completed a full posting without a single unannounced hand-off. Six exist.*
 
@@ -230,7 +233,7 @@ It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to 
 
 The source remains δ (Critical); the Weapon, Veil, and Ring are each β (Moderate). Their costs are separate: the Weapon takes one small nameless memory, the Veil leaves its wearer faintly absent to themselves, and the Ring makes abandoned duties felt.
 
-The full set follows *The Watch Is Over*: the Ring identifies one obsolete duty for closure, the Veil preserves the former guard, and the Weapon cuts the obligation only after symbolic completion. The duty must be genuinely closed; declaring an empty vault or praising endless vigilance refreezes the Shadow and does not qualify. Side A's full-set route remains distinct from the primary's standing response, which records that nine years of prior symbolic completion did not halt the lattice; the sources establish no equivalence or supersession.
+The full set follows *The Watch Is Over*: the Ring identifies one obsolete duty for closure, the Veil preserves the former guard, and the Weapon cuts the obligation only after symbolic completion. The duty must be genuinely closed; declaring an empty vault or praising endless vigilance refreezes the Shadow and does not qualify. Side A's full-set route remains distinct from the primary's standing response, which records that nine years of prior symbolic completion did not halt the lattice. The sources establish no equivalence or supersession.
 
 ### Field Use Record
 
@@ -260,7 +263,7 @@ The full set follows *The Watch Is Over*: the Ring identifies one obsolete duty 
 |---|---|
 | **Initial exposure** | The observer walks the reflection list, signs it, reads the chamber temperature, and takes up the post with a second observer already present. |
 | **Sustained observation** | Attention is held, not rested. Hand-offs are announced aloud and acknowledged aloud, to somebody already in the room; shifts are short and the post is double-staffed for that reason alone. |
-| **Activation or escalation** | A warming trend prompts a second walk-through, not an evacuation; both evacuations on record were called on what the walk-through found. Record who last looked away and when. |
+| **Activation or escalation** | A warming trend prompts a second walk-through, not an evacuation. Both evacuations on record were called on what the walk-through found. Record who last looked away and when. |
 | **Post-contact review** | Lattice advance, temperature series, hand-off book, and separate immediate accounts from anybody carrying a burn. The accounts are taken apart from each other because they converge within the hour. |
 
 **Observation method:** List, lattice, thermometer, book. The lattice is the only one of the four that has ever moved for a reason outside the chamber.
@@ -272,7 +275,7 @@ The full set follows *The Watch Is Over*: the Ring identifies one obsolete duty 
 Cold Burn (C-IVδ-505 [N]) is a Subject-Grudge manifestation expressing Void, held at the Mask Market in Zone C inside a chamber with no reflective surface anywhere in it — removed, abraded or covered, every one. It walks rounds, builds frozen lattices toward what it guards, and is addressed by the caretaker's name in every shift log.
 
 **Entry 2 — <Excerpt from Lattice Map Sequence, Year 4238>**
-Advance 2.1 m on the vault approach and 0.6 m along the north seam; quarterly extension 44 m against 36 and 29 in the two preceding years. Maps filed in sequence, unreconciled. Read in order they continue to show what the wing's own summary calls a person going about their rounds.
+Advance 2.1 m on the vault approach and 0.6 m along the north seam. Quarterly extension 44 m against 36 and 29 in the two preceding years. Maps filed in sequence, unreconciled. Read in order they continue to show what the wing's own summary calls a person going about their rounds.
 Vault confirmed full on the Market's own inspection, per the standing arrangement; the agreement letter remains one page and remains in force.
 
 **Entry 3 — <Excerpt from Observation Post Hand-Off Book>**
@@ -280,7 +283,7 @@ Transfer announced aloud and acknowledged, as required. The outgoing observer no
 Filed by the observation post rather than a counselor. Recommendation, repeated from the previous two quarters: the night book for the sealed doors should be read in the same briefing as the lattice maps, by the same person, because the two documents are about the same thing.
 
 **Entry 4 — <Containment Notice>**
-Management: name an order and the person who revoked it, aloud, using the caretaker's name. Symbolic completion is withdrawn after nine years in which the lattice grew throughout. Work response — Flerehan: it stops its round and stands while the worker speaks (Decrease); Pugnahan: frozen force and multiplied regrowth, not used (Increase); Viderehan: what it still counts as its responsibility (Stable); Ferrehan: the long stand at the post, attention unbroken (Decrease).
+Management: name an order and the person who revoked it, aloud, using the caretaker's name. Symbolic completion is withdrawn after nine years in which the lattice grew throughout. Work response — Flerehan: it stops its round and stands while the worker speaks (Decrease). Pugnahan: frozen force and multiplied regrowth, not used (Increase). Viderehan: what it still counts as its responsibility (Stable). Ferrehan: the long stand at the post, attention unbroken (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 Somebody in this Company decided, correctly, that standing orders are not to be cancelled in bulk. The decision is a hundred and sixty years old and it was made over three bodies: a safety instruction swept away in a tidy-up of obsolete paper, a sump that went unwatched for eleven days, and three workers who drowned in it. Since then no order may be revoked except individually, by its author or their named successor, with reasons. Nobody has ever argued the rule is wrong. The consequence is that this Company carries orders whose authors are dead and whose purposes have ended, and goes on obeying them, because there is nobody left with authority to lift them and no lawful way to lift them in a batch. People stand watches on decommissioned hazards. Seals are checked on doors behind which there is nothing. The night book outside this chamber has a signature on every line since Year 4194 and no entry in the 'reason' column, because the man who could have written one is dead.
@@ -293,11 +296,11 @@ Containment follows from that and not from the chamber. The holding's instrument
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch at the door, and the file's own shift logs separate them within a quarter: one finishes the duty the holding is waiting on and releases it aloud, and the other is the decent thing every relief crew reaches for.
+> Two ways to close a watch at the door. And the file's own shift logs separate them within a quarter: one finishes the duty the holding is waiting on and releases it aloud. And the other is the decent thing every relief crew reaches for.
 
-| Complete the duty symbolically at the door — the round walked, the post stood, the order read — and then tell the Shadow aloud that it may stop. | Do the obvious, decent thing instead: take the duty over, share the grief as comfort, or remove the cold by force — the file's shift logs show the last of those feeding the lattice, and the first two keeping the post occupied by somebody new. |
+| Name, aloud and by the caretaker's name, an order that has actually been revoked and the person who revoked it — the only sentence the lattice has ever answered. | Do the obvious, decent thing instead: take the duty over, share the grief as comfort, complete the duty symbolically, or remove the cold by force — the file's shift logs show the last of those feeding the lattice, the symbolic route withdrawn after nine years. And the first two keeping the post occupied by somebody new. |
 |---|---|
-| The lattice stops advancing, the round is completed at the door and the release is spoken aloud, and the watch closes with the duty logged as discharged and the chamber left sealed and shuttered. | The cold goes out through the corridor and everything reflective in it cracks; the entry closes with the lattice's new line measured and the door rotation standing down. |
+| The lattice has stopped once, for nine days, after a year's revocations were read aloud in the chamber order by order. Anything less is entered as a watch held, not a duty discharged, and the chamber is left sealed and shuttered either way. | The cold goes out through the corridor and everything reflective in it cracks. The entry closes with the lattice's new line measured and the door rotation standing down. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -312,7 +315,7 @@ The shadow stands at the vault approach, mid-round, between one door and the nex
 
 **When the entity activates:** The Gauge tips. The Subject-Grudge does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
 
-**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The corridor is signed off while the workers beside it are still checking doors nobody asked them to check. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
 
 ### Interaction Pattern
 
@@ -323,19 +326,19 @@ Three holdings are kept within reach of the chamber — The Guarding Bird, The H
 
 ### Entity Interaction Record
 
-Cold Burn must be assessed against the other duty files and kept distinct from them. The Guarding Bird protects something it believes is still there; this one's vault is still there and still full, and the wing keeps it that way. The Hollow Knight carries a duty without a body; this one is a duty without an author. The Empty Mask conceals identity; here the identity is known, written down, and used aloud every shift.
+Cold Burn must be assessed against the other duty files and kept distinct from them. The Guarding Bird protects something it believes is still there. This one's vault is still there and still full, and the wing keeps it that way. The Hollow Knight carries a duty without a body; this one is a duty without an author. The Empty Mask conceals identity; here the identity is known, written down, and used aloud every shift.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Guarding Bird** | Both continue a protection, but the Bird guards something it believes still needs guarding; this one's charge is still there and the wing keeps it stocked so it stays that way. | Two proximities. The Bird's boundary formed as usual. Lattice advance in the following week was 2.3 m against a mean of 2.4. | Record distance, duration, trigger, lattice advance, temperature, and post-separation residue. |
-| **The Hollow Knight** | A duty without a body beside a duty without an author. The resemblance is thematic and the wing has stopped expecting it to be operational. | Three proximities, no transfer, no bond, no measurable change in either file. The third was run only to close the question. | Four clean weeks of maps either side, plus the Bird's own boundary log countersigned. |
-| **The Empty Mask** | Opposed on the point that matters: the Mask removes an identity, while this file's caretaker is named in writing and spoken aloud every shift by standing convention. | One proximity, discontinued. The Mask's effect did not reach the shift log, and the wing declined a second trial on the ground that it had nothing to gain and one thing to lose. | Distance and duration only; the wing records no further fields for a trial it does not expect to repeat. |
+| [**The Guarding Bird**](SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) | Both continue a protection, but the Bird guards something it believes still needs guarding. This one's charge is still there and the wing keeps it stocked so it stays that way. | Two proximities. The Bird's boundary formed as usual. Lattice advance in the following week was 2.3 m against a mean of 2.4. | Record distance, duration, trigger, lattice advance, temperature, and post-separation residue. |
+| [**The Hollow Knight**](SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md) | A duty without a body beside a duty without an author. The resemblance is thematic and the wing has stopped expecting it to be operational. | Three proximities, no transfer, no bond, no measurable change in either file. The third was run only to close the question. | Four clean weeks of maps either side, plus the Bird's own boundary log countersigned. |
+| [**The Empty Mask**](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) | Opposed on the point that matters: the Mask removes an identity, while this file's caretaker is named in writing and spoken aloud every shift by standing convention. | One proximity, discontinued. The Mask's effect did not reach the shift log, and the wing declined a second trial on the ground that it had nothing to gain and one thing to lose. | Distance and duration only; the wing records no further fields for a trial it does not expect to repeat. |
 
 **Interaction procedure:** Establish the lattice mean over four clear weeks before any trial, because a single week's advance says nothing. Then proximity, then four further weeks of mapping. A trial that has not been followed by four clean weeks of maps is not a result and is not entered as one.
 
 ## 이야기 (Narratio) — The Tale
 
-She died guarding a vault that was already empty, and the guarding, frozen mid-vigil, became a shadow that has not left its post.
+There was a woman who died guarding a vault that was already empty, and the guarding, frozen mid-vigil, became a shadow that has not left its post.
 
 The caretaker was assigned to the vault — a storage chamber beneath the Mask Market, holding, at the time of her assignment, valuables, or records, or something the city considered worth guarding. She took the duty seriously. She was a caretaker by nature — the kind of person who guards what is entrusted to her with a fidelity that exceeds the value of the thing guarded. She stood watch. She kept the vault. She did not leave.
 
@@ -345,7 +348,7 @@ She died at her post. Old, faithful, still guarding. The vault was empty. It had
 
 Cold Burn is that frozen guarding. Subject-Grudge, Void-element: a shadow-figure, the silhouette of a caretaker, still at the vault's entrance, still on watch, guarding an empty room. The shadow does not move. It does not leave. The duty, faithful, simply continued without her.
 
-Those who come near the Cold Burn feel the particular weight of being correctly on duty under an instruction nobody can lift: not abandonment, not futility, but the sober, unarguable position of a person who has been told to stay and has not been told to stop. The vault is full. The rounds are in order. The paperwork is in order. There is simply no signature anywhere that ends it.
+Those who come near the Cold Burn feel the particular weight of being correctly on duty under an instruction nobody can lift: not abandonment, not futility. But the sober, unarguable position of a person who has been told to stay and has not been told to stop. The vault is full. The rounds are in order. The paperwork is in order. There is simply no signature anywhere that ends it.
 
 Some sorrows are about loss. This one is about authority: the discovery that a thing can be kept going for a hundred and forty years not because anybody wants it kept going, but because the single person entitled to end it died before writing the line.
 ## 증언 (Testimonium) — The Testimony
@@ -367,12 +370,12 @@ Some sorrows are about loss. This one is about authority: the discovery that a t
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). Burns that read cold, an advancing structure that cannot be cut back without multiplying, and a drift in uninstructed personnel toward checks nobody assigned them.
 **Containment & Handling Procedures:**
-- Flerehan is the primary Work Type, with Viderehan to establish what it still counts as its responsibility. Viderehan was recorded as primary and only ever holds the gauge level; the earlier entry contradicted the Behavior table.
+- Flerehan is the primary Work Type, with Viderehan to establish what it still counts as its responsibility. Viderehan only ever holds the gauge level.
 - It walks rounds and has twice left the chamber along its own lattice. The old line claiming it does not move from its post contradicted the Movement field, the lattice maps and both incident reports, and is struck.
 **Observation Notes:**
 - A caretaker died at the vault under an order that was never revoked. The vault was not empty then and is not empty now.
 - The rounds continue in the original order, which is how the sequence of maps was first recognised for what it is.
-**Cross-References:** Mask Market · The Guarding Bird · The Hollow Knight · The Empty Mask
+**Cross-References:** Mask Market · [The Guarding Bird](SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) · [The Hollow Knight](SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md) · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md)
 **Faction Involvement:** SED on D-territory exploration · UCD on the Fray-adjacent zone · Judexhan carrying the δ high-threat line, which on this holding means the lattice rather than the figure.
 **Originator:** A caretaker of the Mask Market vault.
 
@@ -389,7 +392,7 @@ Every reflective surface in the chamber and its approach is either removed, abra
 
 ### The Vault Still Guarded
 
-The Market vault the caretaker died protecting still stands and still holds goods, and the holding's standing arrangement with the Market is that it will not be emptied. The arrangement cost the wing a negotiation it did not expect to be difficult: the vault's contents are of no particular value, the Market had no use for the space, and the request to leave it loaded was nonetheless treated as peculiar until the wing explained itself. The explanation is in the file. It says that the Shadow's structures grow toward the vault, that the growth is measurably slower while the vault is full, and that the wing does not know why and does not intend to learn by emptying it. The Market's letter of agreement is bound alongside and is one page long.
+The Market vault the caretaker died protecting still stands and still holds goods, and the holding's standing arrangement with the Market is that it will not be emptied. The arrangement cost the wing a negotiation it did not expect to be difficult: the vault's contents are of no particular value, the Market had no use for the space. And the request to leave it loaded was nonetheless treated as peculiar until the wing explained itself. The explanation is in the file. It says that the Shadow's structures grow toward the vault, that the growth is measurably slower while the vault is full, and that the wing does not know why and does not intend to learn by emptying it. The Market's letter of agreement is bound alongside and is one page long.
 
 ### Obligation Structures
 
@@ -405,19 +408,19 @@ Temperature in the chamber is logged at intervals and the log is the holding's s
 
 ### What The Lattice Is Measuring
 
-The lattice is pegged at eleven seams and walked every week, and the wing's own reading of the sequence is in the file: the quarterly extension has gone 29, 36 and 44 metres across three years, and it tracks the number of standing orders in force in this facility whose author is dead and whose stated purpose has ended. That number is held by the Orders Registry and has risen in step. The correlation was not looked for. A mapper who also kept the Registry's index noticed that the two series had the same shape and said so, and the wing tested the alternatives afterwards and lost all of them: shed rate, Sorrow Tide windows, headcount, session count, the Sorrow Gauge, the temperature log, and the vault's stock level, which alters the rate but not the trend.
+The lattice is pegged at eleven seams and walked every week. And the wing's own reading of the sequence is in the file: the quarterly extension has gone 29, 36 and 44 metres across three years. And it tracks the number of standing orders in force in this facility whose author is dead and whose stated purpose has ended. That number is held by the Orders Registry and has risen in step. The correlation was not looked for. A mapper who also kept the Registry's index noticed that the two series had the same shape and said so. And the wing tested the alternatives afterwards and lost all of them: shed rate, Sorrow Tide windows, headcount, session count, the Sorrow Gauge, the temperature log. And the vault's stock level, which alters the rate but not the trend.
 
 The rule the number comes from is a good rule and the file says so plainly. A hundred and sixty years ago a tidy-up of obsolete paper swept away a sump-watch instruction, the sump went unwatched for eleven days, and three workers drowned. Since then no standing order may be revoked in a batch: each requires an individual revocation by its author or a named successor, with reasons, in writing. Nobody has ever argued against it. It is the reason this Company's hazard orders can be relied on. It is also the reason this Company obeys instructions issued by the dead, and it is the second thing that makes it difficult, because the practice does not look like an error from inside. It looks like diligence. People sign the night book for three sealed doors and feel they have done their job, which they have.
 
 ### The Revocation Roll
 
-The Roll was ordered in Year 4236 and first run in Year 4237. Every standing order in the facility is read once a year; any whose stated purpose can be shown on evidence to have ended is revoked by the commander of the day, individually, in their own name and over their own signature, with the reasons written out. It satisfies the old rule rather than suspending it, which is why it could be authorised at all.
+The Roll was ordered in Year 4236 and first run in Year 4237. Every standing order in the facility is read once a year. Any whose stated purpose can be shown on evidence to have ended is revoked by the commander of the day, individually, in their own name and over their own signature, with the reasons written out. It satisfies the old rule rather than suspending it, which is why it could be authorised at all.
 
-The first run read 4,118 orders and revoked 1,330. Two of the revoked orders turned out still to be doing something. A seal check at the Fourth Culvert was revoked on evidence that the culvert had been backfilled; it had been backfilled at one end, and the wing flooded in the spring. A duplicated Null watch was revoked as redundant against the primary watch; the primary watch was twenty minutes late to a breach eight weeks later and the breach ran forty minutes unseen, and two workers died in it.
+The first run read 4,118 orders and revoked 1,330. Two of the revoked orders turned out still to be doing something. A seal check at the Fourth Culvert was revoked on evidence that the culvert had been backfilled. It had been backfilled at one end, and the wing flooded in the spring. A duplicated Null watch was revoked as redundant against the primary watch. The primary watch was twenty minutes late to a breach eight weeks later and the breach ran forty minutes unseen, and two workers died in it.
 
 The commanders carry those deaths by name, because the Roll requires their own signature and gives them nowhere to put it. Three commanders have since declined to sign any revocation at all, which is within their discretion and is recorded without comment. The commander who signed the Null watch revocation was cleared by the inquiry, which found her reasoning correct on the evidence she had, and she resigned the following month. Her resignation letter is bound into the Roll's first volume at her request. It says she still believes the revocation was right and that she does not wish to be the person who signs the next one.
 
-Against that, the Roll's first run is the only thing that has ever stopped the lattice. After the Year 4237 revocations were read aloud in the chamber — by name, order by order, with the revoking commander named for each — the lattice did not advance for nine days. It then resumed at the prior rate. The wing has not claimed this as a containment and has written in the file that it does not know what nine days is worth, except that it is nine days longer than anything else has achieved, and that the price of it was paid by people the Company cannot repay.
+Against that, the Roll's first run is the only thing that has ever stopped the lattice. After the Year 4237 revocations were read aloud in the chamber — by name, order by order, with the revoking commander named for each — the lattice did not advance for nine days. It then resumed at the prior rate. The wing has not claimed this as a containment and has written in the file that it does not know what nine days is worth, except that it is nine days longer than anything else has achieved. And that the price of it was paid by people the Company cannot repay.
 
 ### The Caretaker
 
@@ -435,8 +438,8 @@ The caretaker's name is recorded in the chamber file and is used in the shift lo
 - **Classification detail:** Cold Burn is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Void is its element and the Mask Market in Zone C is its registered ground — held there behind frosted glass in a room with nothing reflective left in it.
 - **Recognition detail:** Identify it by the lattice and the cold, never by the edges: the crimson edge appears only when somebody has stopped looking, which means the observer who sees it has already made the error.
-- **Record detail:** The Registrum cross-referenced The Watcher in the Walls, which is not among this holding's recorded neighbours; corrected to the three files actually on the interaction record.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. The entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** The Registrum cross-referenced The Watcher in the Walls, which is not among this holding's recorded neighbours. Corrected to the three files actually on the interaction record.
+- **Containment detail:** She is a mobile Subject on a standing round, not a fixed or inactive holding: containment is a signed reflection list, unbroken announced attention, a weekly lattice map, and a vault the wing keeps full on purpose.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-505

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-180 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on new debt or unpaid obligation |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Fragment (III) — Impenetrable and heavy |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — A massive wall of dark, dense crystallized debt blocking a thoroughfare, its blocks cold and lead-heavy. New blocks bud whenever a fresh obligation is recorded, so the wall is always growing. It smells of wet stone and iron; pressed to it, you can hear ledgers being turned. |
-| **Movement** | Stationary — fixed across the thoroughfare; the wall gains length and height rather than travelling, with growth found between watches rather than witnessed construction. |
+| **Physical Form** | Non-Organic |
+| **Movement** | Stationary — fixed across the thoroughfare. The wall gains length and height rather than travelling, with growth found between watches rather than witnessed construction. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -26,11 +26,12 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Primary pressure** | Resolve — the burden of accumulated obligation carried at the face |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 per successful work cycle, counted from the mark-line readings rather than from the ledger's own totals |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 2–5 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is names on the face that were never carved and lengthen between inspections. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter; activates on new debt or unpaid obligation |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -42,59 +43,66 @@
 - A successful cycle settles the surface for a shift. No name has ever been removed by work, and no course has ever been lost.
 - Viderehan and Ferrehan are the valid approaches and both are logged against the face; Flerehan and Pugnahan are unavailable, this being a Place.
 - No breach counter: it expands along the Row rather than breaching. The end of the inscription and the two ends of the structure are marked physically every session against the forty-one fixed marks.
-- Extraction draws from surface residue under separate authorisation and has never reduced a dimension; the residue is swept, weighed, and returned to the yield account.
+- Extraction draws from surface residue under separate authorisation and has never reduced a dimension. The residue is swept, weighed, and returned to the yield account.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Weight pressure and 25% against anything else — figures for a wall that has never once had to be forced |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 726/726 |
-| **Han Pressure [ATK]** | 16–37 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Impenetrable and heavy |
-| **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, Collector's Row |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says the wall is *stationary — fixed across the thoroughfare; the wall gains length and height rather than travelling, with growth found between watches rather than witnessed construction*. The file's own row on demolition says it plainly: nothing breaks free, the wall is unmarked tomorrow and the equipment that struck it is not.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A wall across the thoroughfare with debts on it, growing a block at a time between watches. No block has ever been seen arriving and no block has ever come away. The masonry gains length and height the way a ledger gains interest. |
+| **Perceptible to** | The length at both ends of the thoroughfare first, measured against the marks. Then the names on the face, which are not carved. A worker at the face meets an obligation pressing as Weight rather than a brick arriving. |
+| **Handling** | Measure, record, acknowledge. The work is read with a debt custodian, the dispute fields are preserved, and the monitored duration is set before anybody approaches — a worker who says the weight feels ordinary is withdrawn first. — see `## Handling Process` |
+| **Activation threshold** | No breach counter; activates on new debt or unpaid obligation |
+| **Sorrow Gauge [Load]** | **000 of 660** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | Measure and acknowledge the debt; the Wall cannot be demolished |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Unpaid Invoice* [**Debuff**] } | "A brick slides into place — and written on it is a debt you did not know you owed." | [The Wall grows; each brick is an unpaid debt pressing on the target.] | *Target suffers -10 Resolve; the wall of debt is rising.* **[10 Weight DMG [Weight]]** | When the target approaches the Wall. |
-| { *The Compounding Interest* [**Debuff**] } | "The wall grows taller — new bricks appearing faster than you can count — each one heavier than the last." | [The Wall accrues debt-bricks; the weight compounds exponentially.] | *Target loses 10 Resolve; the burden is accelerating.* **[10 Weight DMG [Weight]]** | When the target lingers. |
-| { *The Foreclosure* [**Attack**] } | "A section of the wall breaks free — and the debt it holds lands on you, all at once." | [A block of debt-masonry collapses onto the target.] | *Inflicts Weight pressure and one crushing, financial wound.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck. |
-| { *The Total Default* [**Attack**] } | "The whole face comes down at once — every debt, every IOU, every promise left unpaid — in a single fall." | [The Wall comes apart in a cascade of defaulted obligations.] | *A heavy Black avalanche; the reading rises 15% at the fall.* **[24-36 Weight DMG [Weight]]** | When the Wall is demolished. |
-| { *Everyone Owes Everything* [**Ultimate**] } | "The Wall runs outward — a brick for every person standing in the field — until nothing can be seen that is not owed." | [The debt spreads out from the face until the whole ground is claimed.] | *Weight presses on every worker for three turns of universal debt.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Wall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Unpaid Invoice* [**Register**] } | Gains a block between two watches, with the debt on it and the worker's name not yet carved into it. Nothing slides into place and nothing is heard arriving. | Measures both ends of the thoroughfare against the marks, records the block against the dispute fields with a debt custodian, and does not weep at a wall instead of reviewing the system feeding it. | Growth is found, never witnessed. The measurement is the reading and the marks at both ends are the instrument, which is also why the thoroughfare is measured before the face is. |
+| { *The Compounding Interest* [**Exposure**] } | Does nothing to the masonry. What compounds is the worker's own unperformed obligation becoming structural the longer the load is carried without relief, until the weight stops registering as weight. | Enforces the monitored duration set before approach, and withdraws the worker who says it feels ordinary rather than the worker who complains. | The file's caution is inverted from every other holding in the wing: the one who has stopped noticing is the casualty, and the one who is still uncomfortable is the reading. |
+| { *The Foreclosure* [**Refusal**] } | Returns the whole load of a strike on the attempt itself. Two demolition attempts are on file and both ended the same way — the equipment destroyed, the structure unmarked. | Does not strike it and does not attempt demolition at any gauge. The attempt is recorded against the marks and the cycle returns to measure-record-acknowledge. | The refusal is the unmarked face. Nothing has ever come away from this wall, so there is nothing to fight and no version of the work in which striking it is a step. |
+| { *The Total Default* [**Overload**] } | Passes both ends of the thoroughfare in one interval, so that another stretch of road stops being usable at once while the face itself is still standing in the morning. | Clears the road on the length reading rather than on a sighting, and measures both ends before anything else. | A total-default expansion is recorded by the road it takes and not by the wall it leaves. The metres lost are the measure, which is why the marks are set at both ends and not at the face. |
 
-1. **Tension:** The marker is checked — the uncarved names, the sound of a page turning — against the Row's three ordinary boundary walls, which stay silent and blank. Owed is confirmed against the designation, the marks are taken, and the cycle opens.
-2. **Clash:** Four turns at the face, observation and endurance only. Nobody climbs it, nobody strikes it, and the marks are read at the start and the end of every turn by two people independently.
-3. **Resolution:** The watch ends in containment, under management or in retreat, or on the suppression condition entered below: **Measure and acknowledge the debt; the Wall cannot be demolished**. The clause is absolute on this ground — nothing here is taken apart, and the count is left where it stands.
+### Watch Sequence
+
+1. **What is confirmed:** the length at both ends of the thoroughfare against the marks, the block count with the debt custodian present, and the monitored duration set before anybody approaches the face.
+2. **What the watch does:** Viderehan for the debt on the face and Ferrehan for bearing it without adding to the load, with the dispute fields preserved and nothing struck, drilled or pulled.
+3. **How it closes:** **Measure and acknowledge the debt; the Wall cannot be demolished** — and a watch that ends with anything removed from the face has not closed at all, because nothing has ever come away from it.
 
 ### Consequences
 
 - The failure mode is weight. A worker who cannot hold takes the whole accumulated load at once, described in every debrief as the sensation of being responsible for the entire Row at the same moment.
 - Long exposure produces the Row's characteristic state: the worker begins treating every unperformed obligation of their own as structural, and two have asked to be transferred on the ground that they could feel their own blocks.
-- The Sarcophagus equipment carries the face's load back into the wielder. Every ledger entry records the course the bearer was standing against, and the lower the course the heavier the recorded toll.
+- The equipment carries load back into its bearers in three different currencies: the Maul's progressive heaviness and slight aging, the Hauberk's stored marks accumulating until a custodian discharges them, and the Shard slowing its bearer further for every reading ignored. None of the three is cut from the face.
 - Unresolved, it expands by Transform rather than event: the structure lengthens along the Row, the heaviness reaches further from the face, and another stretch of the thoroughfare stops being usable.
 
 ## Appearance
@@ -106,7 +114,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
-- **Primary marker:** A massive wall of dark crystallized debt blocking a major thoroughfare. New blocks appear whenever an obligation is added.
 - **Position / movement:** Fixed across the thoroughfare; the structure lengthens along the Row rather than moving. Record both ends against the fixed marks, the height at the three measured courses, and the transparent-block count.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-01, Collector's Row
@@ -115,54 +122,53 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive wall of dark crystallized debt blocking a major thoroughfare. New blocks appear whenever an obligation is added. |
-| **Position / movement** | Fixed across the Row. Growth is lengthwise and upward and is always found rather than witnessed; record both ends, the three measured courses, and the inscription's end at every watch. |
-| **Material / signature** | Weight. Dark dense crystal, lead-heavy and cold, smelling of wet stone and iron; pressed to, it sounds like ledger pages being turned, and the sound has been recorded and cannot be resolved into words. |
+| **Position / movement** | Fixed across the Row. Growth is lengthwise and upward and is always found rather than witnessed. Record both ends, the three measured courses, and the inscription's end at every watch. |
+| **Material / signature** | Weight. Dark dense crystal, lead-heavy and cold, smelling of wet stone and iron. Pressed to, it sounds like ledger pages being turned, and the sound has been recorded and cannot be resolved into words. |
 | **Distinctive markers** | Uncarved names on the face, transparent blocks in the lowest courses, the page-turning sound, and the forty-one fixed marks on the surrounding stonework. |
 | **Identification** | Confirm before work: designation C-IIIγ-180 `[WP]`, Fragment (III) coherence, Major (γ) potency, Place-Weight manifestation, SECTOR-C-01. The Row has three boundary walls of ordinary construction and none of them carries names. |
 
-**Appearance protocol:** Measure both ends against the fixed marks, the height at the three measured courses, and the inscription's end; count transparent blocks on the surveyed face; note the page-turning sound and any change in it. Nothing here is *weird* or *unsettling*; it is a growing wall of crystallised obligation across a road, and those are the fields.
+**Appearance protocol:** Measure both ends against the fixed marks, the height at the three measured courses, and the inscription's end. Count transparent blocks on the surveyed face. Note the page-turning sound and any change in it. Nothing here is *weird* or *unsettling*; it is a growing wall of crystallised obligation across a road, and those are the fields.
 
 ### The barrier and what remains in it
 
 Place-Weight is the obstruction itself, not a person carrying a debt or an ordinary wall built by the Collectors. Weight is both its recorded element and the burden felt at the face. The Tale gives accumulated obligations a spatial consequence: what people could not discharge now stands between them and the road. Its fixed position does not mean fixed dimensions. The measured ends and courses advance without a recorded journey, and acknowledgment makes a block transparent without removing it or opening a passage through the masonry.
 
-The portable Wall-Ram, harness and Shard do not establish detachable source blocks. The Side Codex extracts from a ledger echo after leaving the block intact; its temporary passage is through pressure, not evidence that the physical highway has reopened. The diversion and prohibition order remain separate obstacles to access.
+The portable Wall-Ram, harness and Shard do not establish detachable source blocks. The Side Codex extracts from a ledger echo after leaving the block intact. Its temporary passage is through pressure, not evidence that the physical highway has reopened. The diversion and prohibition order remain separate obstacles to access.
 
-That account does not reconcile the combat table's falling blocks and demolished face with the repeated record that nothing has come away and demolition leaves it unmarked. Nor does it establish that growth described as visible in the Side Codex was witnessed by the primary's watch. The Tale's slow emergence over centuries and the abandoned-reconciliation account's appearance within a year remain different formation accounts; no alternate collapsible body or newly dated transition is supplied here.
+The combat table now records that same limit rather than breaking it: a strike returns its load on the attempt and a total-default interval lengthens the structure, because nothing has come away and demolition leaves it unmarked. What remains unreconciled is whether growth the Side Codex describes as visible was ever witnessed by the primary's watch, and the Tale's slow emergence over centuries against the abandoned-reconciliation account's appearance within a year. No alternate collapsible body or newly dated transition is supplied here.
 
 ## Origin
 - **Formation:** The Wall formed from unpaid obligations accumulated across Somnarak.
 - **The Sorrow:** The weight of debt becoming a physical barrier between people and movement.
 - **The Event:** Unpaid debts grew beyond the Collector ledgers and solidified into a wall the city could no longer ignore.
 - **The People:** Every household of the city with an obligation that was never discharged, and the thirty households of Collector's Row whose doors open onto the obstructed length.
-- **Expanded origin context:** The last reconciliation is in the file and is the document the Wardens are shown first. The clerk's hand is steady through nine pages of tallying and then stops. What follows is one sentence, in the same hand, recording that the total could not be arrived at — not that it was large, not that it was disputed, that it could not be arrived at. The wall appeared across the thoroughfare within the year. The commissioning note observes that the city did not lose track of a number; it lost the ability to hold one, and what stands on the Row is the shape that took.
+- **Expanded origin context:** The last reconciliation is in the file and is the document the Wardens are shown first. The clerk's hand is steady through nine pages of tallying and then stops. What follows is one sentence, in the same hand, recording that the total could not be arrived at — not that it was large, not that it was disputed, that it could not be arrived at. The wall appeared across the thoroughfare within the year. The commissioning note observes that the city did not lose track of a number. It lost the ability to hold one, and what stands on the Row is the shape that took.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A wall across the thoroughfare with debts on it, growing a block at a time between watches. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows the history of a single obligation within a single block, including what it was for and who has since died owing it. | Stable |
-| **Ferrehan** | Holds the worker under the city's accumulated weight for the length of the cycle; lowers the gauge, and is the only approach that does. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the length at both ends of the thoroughfare against the marks, the block count with the debt custodian present, and the monitored duration set before anybody approaches the face. |
+| **Handling** | The watch measures both ends of the thoroughfare against the marks, records the block against the dispute fields with a debt custodian, and does not weep at a wall instead of reviewing the system feeding it. |
+| **Withdrawal** | **Measure and acknowledge the debt; the Wall cannot be demolished** — and a watch that ends with anything removed from the face has not closed at all, because nothing has ever come away from it. |
+| **Refusal** | Does not strike it and does not attempt demolition at any gauge. The attempt is recorded against the marks and the cycle returns to measure-record-acknowledge. |
 
-
-### Operational Work Notes
-
-Owed is a Place of Fragment (III) coherence at Major (γ) potency — Place-Weight manifestation, Weight expression — standing across the thoroughfare at SECTOR-C-01. Flerehan and Pugnahan are N/A because a Place cannot be grieved with or fought. A level gauge does not make a safe cycle here: Viderehan leaves the gauge level while showing the worker a single obligation in full, which is the part of the work that ends careers.
-
-**Reading the response:** Read it in the marks and the transparent count, not in the pressure, which is constant and tells the watch nothing. A falling gauge presents as the page-turning sound slowing; a rising one presents as the inscription's end advancing, which is permanent whatever the gauge does afterwards.
 ## Expansion Behavior
+
+> **Special activation — no counter.** Its starting condition, as written: *"new debt or unpaid obligation"*.
+
+
+
+
 
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | A new obligation anywhere in the city, recorded or unrecorded. The unrecorded ones are the majority, which is why growth does not track the Collector ledgers. |
-| **Expansion Rate** | Continuous and never reversed; measured in years against the fixed marks, and faster in each of the last four measured periods than in any before them. |
+| **Expansion Rate** | Continuous and never reversed. Measured in years against the fixed marks, and faster in each of the last four measured periods than in any before them. |
 | **Expansion Effect** | More of the thoroughfare becomes impassable, the air at the face grows heavier, and the diversion lengthens to match. |
-| **Containment** | Measure it, record it, and do not attempt demolition; the structure cannot be demolished and the two attempts on file both ended with the equipment destroyed and the wall unmarked. |
+| **Containment** | Measure it, record it, and do not attempt demolition. The structure cannot be demolished and the two attempts on file both ended with the equipment destroyed and the wall unmarked. |
 
 
 
@@ -181,7 +187,7 @@ Escalation here is length. Record the trigger where one is identifiable, the mar
 | **Manifestation** | Place-Weight|
 | **Primary effect** | Roads close, air grows heavy, and citizens feel the city's conscience. |
 | **Duration / rate** | Continuous; growth measured over years. |
-| **Risk** | Major (γ) Place-Weight producing Weight pressure; the load is carried by anybody at the face and is heaviest against the lowest courses, which are also the oldest. |
+| **Risk** | Major (γ) Place-Weight producing Weight pressure. The load is carried by anybody at the face and is heaviest against the lowest courses, which are also the oldest. |
 | **Management** | Measure, record, maintain the diversion, and do not demolish. The structure cannot be removed and the containment has never been permitted to close the route entirely. |
 
 **Activation reporting order:** growth found → both ends measured against the marks → stretch newly obstructed → households affected → municipal office notified → management condition. Objects and Places are worked with Viderehan and Ferrehan only.
@@ -200,7 +206,7 @@ Escalation here is length. Record the trigger where one is identifiable, the mar
 
 **Appearance:** A massive rectangular slab of reinforced mortared masonry bound in rusted iron bands, fitted with leather shoulder harnesses and handles. The bearer heaves the stone barricade forward, slamming it against the earth to detonate a room-wide seismic tremor.
 
-**Ability:** *Monolithic Impact* — Deals heavy Weight damage across Range 5 (Room). Slams the stone wall-ram into the floor, detonating a shockwave that knocks down all enemies and shatters terrain.
+**Ability:** *Monolithic Impact* — heavy Weight pressure driven into a present debt barrier, never into a person. It cannot demolish debt, decide a claim or open private passage, and it will not rise for advantage. (This profile's name and numbers remain held against the Maul profile below; the barrier-only use limit applies whichever profile is kept.)
 
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)
@@ -213,9 +219,9 @@ Escalation here is length. Record the trigger where one is identifiable, the mar
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Owed's weight signature in the strike.
+**Ability:** *Wall Pressure / Make a Way* — a Weight Skewer into a present debt barrier, not a person. With custodian review and an identified support route it holds one Wall-like surge open long enough for people to reach review, care or transit. Used as advantage, it becomes immovable.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Bearer cost:** The wielder takes the wall's side of the exchange: what the ram holds open for other people, the bearer afterwards cannot move past.
 
 ### M.A.W. Suit — The Mason's Mortar-Crusted Hauberk
 
@@ -234,16 +240,16 @@ The broad backplate records each absorbed Weight impact as a ledger mark readabl
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Absorbs damage and converts it into stored karmic weight.
+**Ability:** *Stored Weight / Discharge Route* — converts direct Weight impact into visible ledger marks on the backplate. One mark releases only when a debt custodian confirms a support or review action; hiding the plate closes it and drops protection to normal.
 
-**Cost:** The shield becomes heavier with every absorbed impact.
+**Bearer cost:** The shield becomes heavier with every absorbed impact.
 
 ### M.A.W. Stigma — The Unpaid Brick Shard
 
 **Category:** Stigma (Stone Relic Shard)
 **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a small black charm cut as a single wall block, dense for its size, its faces blank until a debt pressure begins closing a route.
 
 The block-shaped charm lights toward the obligation closing a current route, not toward a debtor to blame. A persistent glow after action means the review was performative. If it points at everybody at once, the bearer’s anger has entered the reading and it must be set down. Only one Charm is worn.
 
@@ -253,13 +259,13 @@ The block-shaped charm lights toward the obligation closing a current route, not
 
 **Ability:** *Open Review* — with a custodian present and the affected person’s support, reveals the first review or support action that can keep an obligation block from closing a route. It cannot forgive debt, set a judgement or bypass consent.
 
-**Cost:** The bearer moves a little slower.
+**Bearer cost:** The bearer cannot walk a route without reading the obligations on it, and there is no version of that walk in which they are only a person going somewhere.
 
 *The Unpaid Brick Shard is never issued and no one may ask for it. Four times it has gone out, each to a Warden who completed a Viderehan cycle on a block belonging to a household they knew and filed the record unaltered.*
 
 ### M.A.W. Use Notes
 
-Each Sarcophagus piece extends the holding rather than ranking as equipment. It performs as recorded while the bearer works at a marked course and costs more at an unmarked one, the load varying with depth in the structure. The Shard goes out once a work cycle has closed; it is not manufactured, requested or scheduled.
+Every piece works through a custodian and a route, not through the masonry: the Maul's head will not rise until a custodian has identified a way beyond the pressure block, the Hauberk stores only what a custodian can later discharge. And the Shard points at the block closing a route, never at a person to blame. The Shard goes out once a work cycle has closed; it is not manufactured, requested or scheduled.
 
 *Measured Burden* keeps the block, context and route response together. Review every stored backplate mark with the custodian before discharge; the custodian opens the latch during shutdown. Cutting the harness sends stored Weight into the bearer’s next route. For the Shard, record the dispute and response, then cover the block face. Shattering it makes nearby obligations feel physically immediate. Store it beside completed route records, never in a collection file.
 
@@ -274,7 +280,7 @@ An equipment review does not lift the prohibition order over the highway or make
 | **At limit** | Duration, activations, attribute change, rejection signs, final measurements, and whether the operator read any name on the face aloud. |
 | **After use** | Stand-down, injuries, residual load, cooldown, mark condition, reuse authorisation, and the measurement sheet countersigned by the municipal officer where the diversion was affected. |
 
-**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure on this holding. The cost here scales with the age of the course worked, and the oldest courses have never been worked twice by the same person.
+**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure on this holding. The cost here scales with what stays undischarged — stored marks awaiting a custodian, readings ignored — and the oldest courses have never been worked twice by the same person.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -314,7 +320,7 @@ The weight of debt becoming a physical barrier between people and movement.
 Work response — Viderehan: Reveals the history of individual obligations. (Stable); Ferrehan: Tests the worker beneath the city's accumulated weight. (Decrease). A collapse is considered a facility-wide catastrophe.
 
 **Entry 5 — <What It Came to Mean>**
-The wall is measured weekly, and the measurement is the record: every new block budding on its face corresponds to an obligation entered somewhere in the city that day. It has never shrunk. Clerks from the debt offices have been found at the barrier comparing their own ledgers against it, which is prohibited — not because the comparison is unreliable, but because it has never once been wrong, and the clerks who make it do not go back to their desks the same.
+The wall is measured weekly, and the measurement is the record: every new block budding on its face corresponds to an obligation entered somewhere in the city that day. It has never shrunk. Clerks from the debt offices have been found at the barrier comparing their own ledgers against it, which is prohibited — not because the comparison is unreliable. But because it has never once been wrong. And the clerks who make it do not go back to their desks the same.
 
 ## 최종 관찰 (Final Observation)
 
@@ -341,7 +347,7 @@ The Wall rises where a road should be. Dark crystal pulses with the weight of pr
 
 ### Interaction Pattern
 
-The Wall is set beside the district's other instruments and accumulations of obligation. Each relation below has been observed and filed; none is settled; and all three were tested at the face, since the structure cannot be brought to anything.
+The Wall is set beside the district's other instruments and accumulations of obligation. Each relation below has been observed and filed. None is settled; and all three were tested at the face, since the structure cannot be brought to anything.
 
 **Interaction method:** Baseline each party alone over several cycles — measurements, transparent count, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
@@ -353,14 +359,14 @@ The relations below are filed as points of contact, not alliances. None is settl
 | Owed's neighbour | How the two are read together | What the watch logged | What the entry carries |
 |---|---|---|---|
 | **The Debt Scale** | Said to measure what the blocks contain, which is the pairing the Row's residents most expect to be true. | Five co-presences at the face. The Scale gave its ordinary unrequested dish movements and produced no reading of any block; the wall's measurements were unchanged. Nothing passed in either direction. | All five co-presences, the dish series, the measurement sheets, and both flat gauges. |
-| **The Debt Eater** | Said to remove individual obligations but never the total. | Six co-presences. The Eater took what it takes; no block went transparent, no course was lost, no dimension altered, and the transparent count was identical before and after on all six occasions. Whatever it removes is not what this structure is made of. | All six co-presences, the transparent counts, the measurement sheets, and the Eater's intake log. |
+| **The Debt Eater** | Said to remove individual obligations but never the total. | Six co-presences. The Eater took what it takes. No block went transparent, no course was lost, no dimension altered, and the transparent count was identical before and after on all six occasions. Whatever it removes is not what this structure is made of. | All six co-presences, the transparent counts, the measurement sheets, and the Eater's intake log. |
 | **The Inherited Debt** | Said to add family obligation to the structure, which would make it the only identified source of growth. | Four co-presences. No growth was recorded during or after any of the four, against marks read by two people independently. The wall grew in those quarters at its ordinary rate, including in the quarter when the Debt was absent from the district entirely. | All four co-presences, the mark series, and the absent-quarter comparison. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with measurements, transparent count and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo baselines first, across several cycles, with measurements, transparent count and gauge established for each party. Then count the new blocks, take the wall's height and thickness, and record whether the second holding stood on the debt side or the payment side. The wall buds on one of them only.
 
 ## 이야기 (Narratio) — The Tale
 
-The debt grew until it became a wall, and the wall grew until the city could no longer see over what it owed.
+There was a debt that grew until it was a wall, and the wall grew until the city could not see over what it owed.
 
 Somnarak's debt system is not money. It is sorrow — obligation tracked in the Collectors' ledgers, grief borrowed and owed and inherited down the bloodline. Every citizen owes. Most pay, slowly, all their lives, and die still owing, and pass the owing on. The ledgers are vast. They have always been vast. The Collectors carry them from door to door, and the doors pay, and the ledgers do not get smaller, because the city, by design, produces debt faster than any citizen can repay it.
 
@@ -392,19 +398,19 @@ Some sorrows are carried. Owed is a sorrow that, carried too long by too many, s
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). It has injured nobody and is the heaviest single load in the district. It grows continuously, it has never lost a dimension, it has closed a thoroughfare that 30 households open onto, and its collapse is treated in every contingency document as a facility-wide catastrophe. A Moderate grade would not fit that treatment: the contingency documents plan for the wall's collapse as they plan for a facility-wide catastrophe, and the grade follows the planning.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type and the only one that lowers the gauge; Viderehan holds it level and is the only route to the contents of a block.
-- It cannot be removed, demolished, escalated or climbed down the far side; two demolition attempts are on file and both ended with the equipment destroyed and the structure unmarked.
+- Ferrehan is the primary Work Type and the only one that lowers the gauge. Viderehan holds it level and is the only route to the contents of a block.
+- It cannot be removed, demolished, escalated or climbed down the far side. Two demolition attempts are on file and both ended with the equipment destroyed and the structure unmarked.
 - Measure both ends and the three courses every watch against the fixed marks, count transparent blocks on the surveyed face quarterly, and notify the municipal office of any change the same day.
 **Observation Notes:**
 - Formed when the city's unpaid obligations exceeded what its ledgers could reconcile, in the year the last reconciliation was abandoned mid-page.
-- It cuts the Row in half and has done since it appeared; the thoroughfare it stands on remains, in law, a highway, which is the subject of the Warden Record.
-**Cross-References:** Collector's Row · the Collectors · the Debt Chain · the abandoned reconciliation · the fixed marks · the transparency survey · the prohibition order
+- It cuts the Row in half and has done since it appeared. The thoroughfare it stands on remains, in law, a highway, which is the subject of the Warden Record.
+**Cross-References:** Collector's Row · the Collectors · [the Debt Chain](SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬.md) · the abandoned reconciliation · the fixed marks · the transparency survey · the prohibition order
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** Collective and unidentifiable; every citizen of the city whose obligation was never discharged, named on a face that nobody carved.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the expansion behaviour, the diversion arrangement and the highway position are one picture, and the last two are the reason the first three are managed as they are. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the expansion behaviour, the diversion arrangement and the highway position are one picture. And the last two are the reason the first three are managed as they are. A height taken from the wrong side of the wall is entered with the side named. The highway has been diverted twice on the strength of a figure whose side nobody wrote down.
 
 **Review requirement:** Re-verify after any expansion, Tide, Ordeal or unusual interaction: gauge, both end marks, the three measured courses, inscription end, transparent count, diversion condition at both junctions, and the standing of the prohibition order. The commissioning marks are never re-cut.
 ## Warden Record
@@ -443,13 +449,13 @@ The second finding is the one the Row's residents ask about. **No new transparen
 
 The road is still there. That is the whole of the legal position and everything else follows from it.
 
-A public right of way, once dedicated, is not lost by obstruction, and it is not lost by disuse. It does not matter that nobody has walked the obstructed length in a lifetime, or that an immovable object stands on it, or that the municipal office has long since stopped sweeping it. **Once a highway, always a highway.** The public's right of passage over the ground under the structure subsists today exactly as it did before anything appeared on it, undiminished and indefeasible, and nobody — not the adjoining owners, not the municipality, not the facility — can acquire title to that strip or build on it or enclose it.
+A public right of way, once dedicated, is not lost by obstruction, and it is not lost by disuse. It does not matter that nobody has walked the obstructed length in a lifetime, or that an immovable object stands on it, or that the municipal office has long since stopped sweeping it. **Once a highway, always a highway.** The public's right of passage over the ground under the structure subsists today exactly as it did before anything appeared on it, undiminished and indefeasible. And nobody — not the adjoining owners, not the municipality, not the facility — can acquire title to that strip or build on it or enclose it.
 
-It can be stopped up only by a formal procedure, and the procedure cannot be used here. It requires the authority to be satisfied the way is unnecessary or that an adequate substitute has been provided; the adequate substitute would have to be the diversion; and the diversion cannot be dedicated as a highway, because it runs over private forecourts whose owners grant permission annually and have declined, each year, to make it permanent. They have been advised to decline. Their advice is the same as the facility's.
+It can be stopped up only by a formal procedure, and the procedure cannot be used here. It requires the authority to be satisfied the way is unnecessary or that an adequate substitute has been provided. The adequate substitute would have to be the diversion. And the diversion cannot be dedicated as a highway, because it runs over private forecourts whose owners grant permission annually and have declined, each year, to make it permanent. They have been advised to decline. Their advice is the same as the facility's.
 
 The consequence is in the opinion at page four and the senior Warden reads it aloud at every handover. **The highway authority is under an absolute duty to remove an obstruction from a highway.** Absolute means what it says: not a duty to take reasonable steps, not a duty to do what is practicable, not a duty subject to resources. The authority is in event from the moment the obstruction appears, and remains in event for every day it remains, and the defence that the obstruction cannot physically be removed by any means known to anybody **is not a defence that this duty admits of**.
 
-So the ground under the wall is a public road that the public may use and cannot reach, maintained by nobody, owned by nobody, extinguishable by no procedure available to anyone, and the body responsible for clearing it is in continuous and incurable event of a duty it has no way of performing.
+So the ground under the wall is a public road that the public may use and cannot reach, maintained by nobody, owned by nobody, extinguishable by no procedure available to anyone. And the body responsible for clearing it is in continuous and incurable event of a duty it has no way of performing.
 
 ### The Prohibition Order
 
@@ -465,14 +471,14 @@ Thirty households have their registered addresses on the obstructed length. Thei
 
 What follows from that has been itemised three times at review. Deliveries and official correspondence are directed to a road nobody may enter, and the wing's own figures record **two occasions on which an emergency crew went first to the registered address** and lost between nine and fourteen minutes finding the diversion. Rating assessments on the thirty frontages have fallen by between a third and a half, and the appeals were refused on the ground that the assessments correctly reflect the properties' access. No compensation scheme covers any of it, because the order is a safety measure and nothing has been taken from anybody.
 
-The municipal officer has brought that objection to every annual review, and the senior Warden has seconded it. It holds that the facility accepted the office in order to obtain access and exercised its first substantial power to extinguish in practice the one right the residents still had, converting an obstruction they could do nothing about into an exclusion they can be prosecuted for event; that the order's real purpose, which the file does not conceal, was to limit the authority's exposure to claims arising from a duty the authority already knew it could never perform; and that the thirty households were not consulted, are not compensated, and are the only parties to this arrangement who have lost anything, while both institutions have improved their positions by it.
+The municipal officer has brought that objection to every annual review, and the senior Warden has seconded it. It holds that the facility accepted the office in order to obtain access and exercised its first substantial power to extinguish in practice the one right the residents still had, converting an obstruction they could do nothing about into an exclusion they can be prosecuted for event. That the order's real purpose, which the file does not conceal, was to limit the authority's exposure to claims arising from a duty the authority already knew it could never perform. And that the thirty households were not consulted, are not compensated. And are the only parties to this arrangement who have lost anything. While both institutions have improved their positions by it.
 
 The minute holds the objection to be right in each of its three heads. It sets down that a scheme to compulsorily dedicate the diversion as a highway, which would have made the residents' access permanent and ended the annual permissions, was drafted in the seventh year, was within the facility's power as authority, and has not been laid. And the municipal officer's closing sentence, taken down verbatim at his request, follows: *the road is still theirs. We made it a crime to stand on it, and we are the ones who were supposed to clear it.*
 
 ## Trivia
 
 - It grows in quarters when the Collectors record nothing at all, which is the finding that establishes it is not fed by the ledgers.
-- A block goes transparent when the obligation inside it is acknowledged, permanently and irreversibly; 212 have, out of rather more than 18,000 on the surveyed face.
+- A block goes transparent when the obligation inside it is acknowledged, permanently and irreversibly. 212 Have, out of rather more than 18,000 on the surveyed face.
 
 
 

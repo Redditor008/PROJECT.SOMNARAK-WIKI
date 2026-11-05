@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 620/620 |
 | **Han-Energy yield** | 12–16 Han-Energy per calming pass |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 |
+| **Work Damage** | 3–5 Grudge — the cost is working an approach that routes to furnaces and basalt crawlers |
 | **Activation threshold** | Heavy Caravan Steam-Crawler Vibration |
 | **Tool / M.A.W. grade** | Grade γ |
 | **Vessel-Destructible** | Yes |
@@ -62,11 +63,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Sandstorm Flensing* [**Debuff**] } | "A cloud of molten silica blinds the vanguard line." | [The Drifter vents a swirling blast of superheated red glass silt.] | *All targets suffer -20% accuracy and 8 Grudge thermal burn damage.* **[8 Grudge DMG]** | At engagement initiation. |
-| { *Obsidian Caltrops* [**Trap**] } | "The ground turns into an ocean of black razors." | [Sheds razor-sharp vitrified shards across the combat lane.] | *Immobilizes ground units for 1 turn; inflicts 12 Weight damage upon movement.* **[12 Weight DMG]** | When target attempts a flanking sprint. |
+| { *Sandstorm Flensing* [**Debuff**] } | "A cloud of molten silica blinds the vanguard line." | [The Drifter vents a swirling blast of superheated red glass silt.] | *All targets suffer -20% accuracy and 8 Grudge thermal burn damage.* **[8 RED DMG]** | At engagement initiation. |
+| { *Obsidian Caltrops* [**Trap**] } | "The ground turns into an ocean of black razors." | [Sheds razor-sharp vitrified shards across the combat lane.] | *Immobilizes ground units for 1 turn; inflicts 12 Weight damage upon movement.* **[12 BLACK DMG]** | When target attempts a flanking sprint. |
 | { *Vitrified Ramming* [**Attack**] } | "A streak of fused obsidian strikes the crawler hull like an artillery slug." | [Accelerates across the smooth glass sheet, ramming target directly.] | *Deals heavy kinetic blunt damage and knocks target back 5 meters.* **[18-26 Grudge / Weight DMG]** | When distance exceeds 15 meters. |
-| { *Turbine Screech* [**AoE**] } | "The spinning chest core howls with the agony of buried messengers." | [Releases an ultrasonic shockwave of grinding silica sand.] | *All personnel within 10 meters suffer 14 Void Composure erosion.* **[14 Pale DMG]** | When Sorrow Gauge reaches 50%. |
-| { *Fused Mirage* [**Ultimate**] } | "The glass desert reflects ten identical couriers running toward the horizon." | [Splits into three shimmering mirror illusions while superheating the sand.] | *Creates 2 decoy copies; direct strikes deal 24-34 Grudge damage.* **[24-34 Grudge DMG]** | When Sorrow Gauge reaches 80%. |
+| { *Turbine Screech* [**AoE**] } | "The spinning chest core howls with the agony of buried messengers." | [Releases an ultrasonic shockwave of grinding silica sand.] | *All personnel within 10 meters suffer 14 Grudge Composure erosion.* **[14 RED DMG]** | When Sorrow Gauge reaches 50%. |
+| { *Fused Mirage* [**Ultimate**] } | "The glass desert reflects ten identical couriers running toward the horizon." | [Splits into three shimmering mirror illusions while superheating the sand.] | *Creates 2 decoy copies; direct strikes deal 24-34 Grudge damage.* **[24-34 RED DMG]** | When Sorrow Gauge reaches 80%. |
 
 ## Comprehension Levels
 
@@ -100,7 +101,7 @@ The Courier's Edge and Slag Mantle are derived shell pieces, not scaled copies o
 2. **Thermal Suppressant:** If the drifter boards a crawler deck, vanguards must blast it with liquid nitrogen sprays to induce thermal shock fracture.
 3. **Piston Dampening:** When approaching known roosting craters, engineers must throttle steam vents to sub-audible levels to prevent triggering pursuit instincts.
 
-Management: throttle below 38 piston strokes a minute and let it fall back; do not outrun it, do not engage it, and keep the chain live.
+Management: throttle below 38 piston strokes a minute and let it fall back. Do not outrun it, do not engage it, and keep the chain live.
 
 ## Eyewitness Testimony
 
@@ -121,7 +122,7 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 
 ### Escalation Notes
 
-- The copper-chain decoy works because it sparks, not because it is metal; an unelectrified chain was trialled in Year 4,236 and was ignored on all four runs.
+- The copper-chain decoy works because it sparks, not because it is metal. An unelectrified chain was trialled in Year 4,236 and was ignored on all four runs.
 - No pursuit has ended in a boarding where the crew throttled down inside ninety seconds. All three boardings on file followed a decision to outrun it.
 - Nothing it does is directed at people on foot. Walkers have passed within four metres of a pursuing Drifter and been ignored, which the caravans discovered by accident and now rely on.
 
@@ -139,15 +140,25 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 
 **Cost:** The wielder cannot arrive. They reach places and immediately feel they are late for somewhere else, and both wielders have been stood down for walking out of camp at night.
 
-### M.A.W. Armor — The Slag Mantle
+### M.A.W. Suit — The Slag Mantle
 
-**Type:** Armor | **Grade:** γ | **Element:** Weight
+**Type:** Suit | **Grade:** γ | **Element:** Weight
 
 **Appearance:** a shoulder-mantle of layered glass flakes that chimes faintly in wind and does not conduct heat in either direction.
 
 **Ability:** Resistance to thermal friction and silica abrasion; the reason vanguard crews can stand the deck during a pursuit rather than sheltering inside.
 
 **Cost:** The wearer stops noticing distance. Three vanguards have walked a full stage beyond their relief point and reported the stage as short.
+
+### M.A.W. Stigma — The Silt Mark
+
+**Type:** Stigma | **Grade:** γ | **Element:** Weight
+
+**Appearance:** a palm-plate of shell glass cut across the fracture line, worn against the sternum on a copper chain, its face clouded with the silt that was inside the shell when it cooled.
+
+**Ability:** The wearer knows, to the pace, how far they are from wherever they are supposed to be. Not the direction and not the name — only the distance, arriving as a number the way a weight arrives in the hand.
+
+**Cost:** The number never reads zero. Three wearers have turned back inside sight of their own gate, and one has walked a stage in the wrong direction for nine days because the figure was falling.
 
 ### M.A.W. Use Notes
 
@@ -202,7 +213,7 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 
 | Related entity | What it is | What the pursuit did | Required record |
 |---|---|---|---|
-| **The Singing Needle** | The other Sea of Glass holding; an acoustic presence in the Crystal Peaks above the corridor. | Two crossings under the Needle's audible range. The Drifter fell back 40 km early on both, at a stroke rate well above its own threshold. Neither cadre can explain it. | Stroke rate at fall-back, and the Needle's audible range that day. |
+| [**The Singing Needle**](SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md) | The other Sea of Glass holding; an acoustic presence in the Crystal Peaks above the corridor. | Two crossings under the Needle's audible range. The Drifter fell back 40 km early on both, at a stroke rate well above its own threshold. Neither cadre can explain it. | Stroke rate at fall-back, and the Needle's audible range that day. |
 
 The corridor itself is the other half of this record and is not an entity: 41 escorted crossings, three
 boardings, no fatalities and no cargo lost, and no sighting anywhere beyond the vitrified edge. The escort

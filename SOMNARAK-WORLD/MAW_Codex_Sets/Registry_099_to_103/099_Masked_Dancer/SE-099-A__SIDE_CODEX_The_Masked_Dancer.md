@@ -61,10 +61,10 @@ The first reliable marker is not the mask. It is precision without relief: a tur
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Performs a personal dance for the worker. | Down | Accept the performance as witness, not as entertainment or payment. |
-| Pugnahan | Accelerates and forces the worker to keep pace. | Up | End confrontation before a worker loses control of their breathing or legs. |
+| Flerehan | Performs a personal dance for the worker. | Decrease | Accept the performance as witness, not as entertainment or payment. |
+| Pugnahan | Accelerates and forces the worker to keep pace. | Increase | End confrontation before a worker loses control of their breathing or legs. |
 | Viderehan | Steps reveal distinct forms of restraint. | Stable | Record the restraint seen; do not interpret the smile as consent. |
-| Ferrehan | Dances for hours while the worker watches. | Down | Rotate witnesses before fascination becomes exhaustion. |
+| Ferrehan | Dances for hours while the worker watches. | Decrease | Rotate witnesses before fascination becomes exhaustion. |
 
 ### Breach response
 
@@ -85,9 +85,9 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Phantom Dancer's Tri-Daggers | β | Grudge | Short-range response to physical restraint | `SE-099-B__MAW-W_The_Dancing_Fang.md` |
-| Suit | The Performer's Silk Robe & Ghostly Stole | β | Grudge | Moving defense with a mandatory rest cue | `SE-099-C__MAW-S_The_Dancing_Plate.md` |
-| Stigma | The Hollow Porcelain Shard | β | Grudge | Balance and reflex support at the cost of stillness | `SE-099-D__MAW-G_The_Dancing_Mask.md` |
+| Weapon | The Phantom Dancer's Tri-Daggers | β | Grudge | Short-range response to physical restraint | `SE-099-B__MAW-W_The_Phantom_Dancer_s_Tri_Daggers.md` |
+| Suit | The Performer's Silk Robe & Ghostly Stole | β | Grudge | Moving defense with a mandatory rest cue | `SE-099-C__MAW-S_The_Performer_s_Silk_Robe_and_Ghostly_Stole.md` |
+| Stigma | The Hollow Porcelain Shard | β | Grudge | Balance and reflex support at the cost of stillness | `SE-099-D__MAW-G_The_Hollow_Porcelain_Shard.md` |
 
 ---
 
@@ -105,7 +105,7 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 
 **Quick effect:** The short fang follows a committed step and turns the pressure of restraint back toward the barrier or body applying it.
 
-**Weapon profile hold:** The primary first describes the Phantom Dancer's Tri-Daggers as a spectral glove with three orbiting knives: Grudge 4–8 per strike, three strikes, Fast 4, Medium 3, Tri-Blade Flurry / Telekinetic Skewer. The official identity, item Core Statistics, Side set row, and master title/archetype support the Tri-Daggers form; the item Core Statistics align with this first profile. The primary then gives a second unlabeled 5–9 / Normal 2 / Short 2 / Single / 100% profile; its Registrum also lists “the glove's daggers at 5–9.” This card's *Dancing Fang* heading and 5–9 / 2 / 2 / Single line, plus the linked item's Appearance/Combat File, describe one short crimson blade rather than three daggers. The master registry leaves damage variable and speed/range unset; its archetype supports the Tri-Daggers name but assigns Short. Maximum 4 and 25 Echoes agree. No documented transition or base-versus-special split resolves the paired forms/profiles, so no name or statistic is selected. The Master Codex table classifies Entry 115 as Astral/Orrery, while detailed Entry 115 names a spectral silk glove with three telekinetic daggers; the personalization record `W-099` instead lists a Notched Dao / Short. No crosswalk joins those labels or the single-blade record to the first profile. This extends the Batch 80 hold and does not add a Weapon-only disposition.
+**Weapon profile hold:** The primary first describes the Phantom Dancer's Tri-Daggers as a spectral glove with three orbiting knives: Grudge 4–8 per strike, three strikes, Fast 4, Medium 3, Tri-Blade Flurry / Telekinetic Skewer. The official identity, item Core Statistics, Side set row, and master title/archetype support the Tri-Daggers form; the item Core Statistics align with this first profile. The primary then gives a second unlabeled 5–9 / Normal 2 / Short 2 / Single / 100% profile; its Registrum also lists “the glove's daggers at 5–9.” This card's *Dancing Fang* heading and 5–9 / 2 / 2 / Single line, plus the linked item's Appearance/Combat File, describe one short crimson blade rather than three daggers. The master registry leaves damage variable and speed/range unset; its archetype supports the Tri-Daggers name but assigns Short. Maximum 4 and 25 Echoes agree. No documented transition or base-versus-special split resolves the paired forms/profiles, so no name or statistic is selected. The Master Codex table classifies Entry 115 as Astral/Orrery, while detailed Entry 115 names a spectral silk glove with three telekinetic daggers; the personalization record `W-099` instead lists a Notched Dao / Short. No crosswalk joins those labels or the single-blade record to the first profile. This extends the existing hold and does not add a Weapon-only disposition.
 
 ---
 
@@ -172,13 +172,3 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 **Entity links:** The Hollow Choir; The Kind Healer; The Smothering Mother; the Masked Market.
 **Containment distinction:** The Dancer’s source body is a Subject; its M.A.W. is entity-extracted and not Mask Market merchandise.
 **Item links:** `SE-099-B`, `SE-099-C`, and `SE-099-D` hold the individual history and stoppage rules for Borrowed Motion.
-
----
-
-**Document ID:** `SE-099-A`
-**Linked Entity:** `SE-099`
-**Author:** Specialist Kkotlom Lee
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Restricted
-
----

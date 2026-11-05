@@ -60,15 +60,15 @@ Batch155 OPEN 3/5; cumulative No change 0/3. Minimum five; three cumulative No c
   "new_equipment_credit": 0,
   "source_sha256": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-A__SIDE_CODEX_Emberling.md": "0b984eb7f85f18341ff4df33193b12c0aba16dad17602a23111df6fb024ea14f",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-B__MAW-W_The_Ember_Requiem.md": "8b7679ee983b8e7740c65765793854189e1335ce7409bfd8c83c7a390704bd9a",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-C__MAW-S_The_Ember_Shroud.md": "4d128b6d07befa271f48e8e4196e39fb822dc302c7fcec38ad56a48b19268e31",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-D__MAW-G_The_Ember_Cloak.md": "e4ce5c5de155a8a8362e1cf05c40005e3042b10c597a1a1b2f4ad8902bfc73f6",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-B__MAW-W_The_Cinder_Breech_Carbine.md": "8b7679ee983b8e7740c65765793854189e1335ce7409bfd8c83c7a390704bd9a",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-C__MAW-S_The_Hearth_Watcher_s_Ashen_Cloak.md": "4d128b6d07befa271f48e8e4196e39fb822dc302c7fcec38ad56a48b19268e31",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-D__MAW-G_The_Smoldering_Charcoal_Brooch.md": "e4ce5c5de155a8a8362e1cf05c40005e3042b10c597a1a1b2f4ad8902bfc73f6",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": {

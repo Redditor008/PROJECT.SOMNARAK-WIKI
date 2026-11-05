@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVω-001 [GP]` (Contained Place) / `C-IVω-001-B [GS]` (event Subject) |
-| **Entity Type** | **Place (Special Transform Type)** — Non-breaching: manifestation in place; activates on increase in the city's collective sorrow |
+| **Entity Type** | **Place (Special Transform Type)** — Non-breaching: manifestation in place |
 | **Breach Designation Shift** | `C-IVω-001 [GP]` (Place-Tale) → `C-IVω-001-B [GS]` (Breaching Subject-Tale) |
 | **Coherence** | Entity (IV) — Self-aware, ancient, hungry |
 | **Potency** | Catastrophic (ω) — City-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Tale |
-| **Physical Form** | Non-Organic — Not a creature but a district: a wound in Zone B where the buildings lean inward as if to listen, the walls curve toward every voice, and the ground stays soft, as though the black tar that consumed the thousand never fully solidified. The concrete is stained dark and whispers; there is no single body — the place itself is the entity, and it hungers. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone B district — **UNCONTAINED** |
 | **R.D. Comprehension Level** | 5 — Sovereign |
@@ -27,12 +27,12 @@
 |---|---|
 | **Risk tier** | Catastrophic (ω) |
 | **Entity role** | Object/Place (Transforms to event Subject `C-IVω-001-B [GS]` upon event) |
-| **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan strictly N/A) |
-| **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 75–95% |
+| **Primary pressure** | Resilience — the will to keep standing on ground that is still occupied, and to leave when the plan says leave |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 28–40 per cycle, the highest figure in the registry, drawn from the ground the city is standing on. The energy office has never queried it and the Architects' standing note is that the yield is the Cheongula still being spent. |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Sovereign |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 8–10 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is being named: a worker who finishes a cycle can recite eleven of the thousand and cannot say whose, and the eleven do not leave when the shift does. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Third formal refusal of the confession — the transformation is a refusal and not a gauge reading, and the district form runs no activation percentage |
 | **Tool / M.A.W. grade** | — · ω (Catastrophic) |
 | **Vessel-Destructible** | No — ω-grade / Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -44,7 +44,29 @@
 - Work settles the site for a shift. The transformation condition is unaffected by a successful cycle, and no session has removed it.
 - Viderehan and Ferrehan are the valid approaches while it is a place; the event form is not worked, it is responded to.
 - There is no breach counter in the ordinary sense. The transformation is the breach, and the standing order is withdrawal rather than containment.
-- Extraction is authorised separately, never during a negotiation, and never once the designation has shifted to `C-IVω-001-B`. Three pieces exist and all three were taken in the first eleven years, before the shift was understood.
+- Extraction is authorised separately, never during a negotiation, and never once the designation has shifted to `C-IVω-001-B`. Three pieces exist and all three were taken in the first eleven years, before the shift was understood. Side Codex A records extraction as canonically prohibited outright; the two accounts are held side by side, not reconciled (see the appearance note).
+
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **1080** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 1080 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
 
 ## Combat Record
 ### Core Stat Line
@@ -54,25 +76,25 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — the ordinary district has no travel speed; movement of the registered Walking District is a separate event-form record |
-| **Resistance** | 50% against Grudge. The figure is meaningless and is carried because the form requires it: the holding is a district, nothing has ever been struck, and the perimeter is made of Architects' reinforcement rather than of anything that resists. |
-| **Activation threshold** | Sorrow Gauge ≥ 95% |
-| **Sorrow Gauge [HP]** | 1000/1000 |
-| **Han Pressure [ATK]** | 44–111 per hit · Grudge · **Instant Fracture on critical** |
+| **Resistance** | 50% against Grudge, filed on the event form. Nothing has ever been struck in the district: the perimeter is Architects' reinforcement and a survey, not a thing that resists, and the figure describes the Walking District rather than the place. |
+| **Activation threshold** | Third formal refusal of the confession — the transformation is a refusal and not a gauge reading, and the district form runs no activation percentage |
+| **Sorrow Gauge [Pressure]** | **000 of 1080** · ready · six doses · limit 180 s · recharge 10 min |
+| **Han Pressure [ATK]** | 50–111 per event-form strike · Grudge · **Instant Fracture on critical** — event form only. The district has no hands, no eyes and no reach |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
+
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 30 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length** | Long — 30 turns, event form only (`C-IVω-001-B [GS]`). The district form has no turn structure: the clash row was struck from every operational order in Year 4,221 |
+| **Threat Role** | Sovereign encounter — event form only. The place form is managed by perimeter survey and negotiation, and there is no encounter to prepare for |
 | **Coherence** | Entity (IV) — Self-aware, ancient, hungry |
 | **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 75–95% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Extreme · R.D. Comprehension Level 5 — Sovereign |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B district — UNCONTAINED |
 | **Resolution Condition** | No true containment is possible. Architects reinforce the perimeter while Taeho negotiates with the thousand |
 
@@ -80,11 +102,15 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Whispering Walls* [**Debuff**] } | "The walls lean inward, and a thousand voices settle on you at once — each one knowing your name." | [The district itself turns toward the target; the walls darken, curve, and begin to whisper their regrets.] | *Target suffers -10 Resilience and is marked; the Maw always knows where they stand.* **[10 Grudge DMG [Grudge]]** | When a target enters the district or the city's sorrow rises. |
-| { *The Soft Ground* [**Debuff**] } | "The concrete softens to black tar beneath your feet — the thousand, reaching up." | [The ground liquefies to dark Han-tar; the target sinks and is dragged toward the wound at the district's heart.] | *Target loses 10 Resilience and cannot easily break free of the district.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the Maw's territory. |
-| { *The Leaning Buildings* [**Attack**] } | "The buildings lurch inward, merging into one another to close the street around you." | [Adjacent structures fuse and tilt, crushing the corridor where the target stands.] | *Inflicts Grudge pressure and one crushing wound as the architecture itself strikes.* **[14-22 Grudge DMG [Grudge]]** | When the target is cornered or the district is provoked. |
-| { *The First Wound* [**Attack**] } | "The ground opens the way it opened then, and the thousand go down again, and everybody present watches it happen." | [The district re-enacts the Cheongula in full, at the original pace, which took nine hours.] | *Catastrophic Grudge to everyone inside the perimeter; the re-enactment cannot be interrupted and has never been shortened.* **[Catastrophic Grudge DMG [Grudge]]** | Four times in sixty years, each after a Directorate statement denying the Cheongula. |
-| { *The Confession Refused* [**Ultimate**] } | "The thousand speak as one: *say what you did*. Nobody answers, and the district comes out to find somebody who will." | [The Maw expands past the perimeter; markers fall and the wound widens by streets rather than metres.] | *The designation shifts to `C-IVω-001-B` and the holding stops being a place.* **[City-threatening]** | When a confession is formally refused. It has been refused twice and withheld, without refusal, for sixty years. |
+| { *The Whispering Walls* [**Debuff**] } | "The walls lean inward. And a thousand voices settle on you at once — each one knowing your name." | [The walls curve toward whoever is speaking and darken as they close over the street. In the years the district spoke, the thousand answered from them. The current cycle is quiet, and this row records the speaking state, not a new exception to the silence.] | *The party suffers -10 Resilience. Stop talking: voices are kept low inside the district, instructions are given before entry. And problems are resolved by withdrawing to reconvene outside — never by conferring where the walls can lean in.* **[10 Grudge DMG [Grudge]]** | When a party speaks at the line or inside the district during negotiation or survey. |
+| { *The Soft Ground* [**Debuff**] } | "The concrete softens to black tar beneath your feet — the thousand, reaching up." | [The ground never finished setting: it yields underfoot, takes a footprint and holds it. Nothing drags anybody anywhere — there is no heart to be dragged toward. The hazard is familiarity, people standing on occupied ground until leaving stops occurring to them.] | *The worker loses 10 Resilience. Work the written plan agreed at the boundary, keep to the stated duration of the authorization. And leave on the plan rather than on judgement formed inside the district.* **[10 Grudge DMG [Grudge]]** | When an authorized crew remains standing on the unset ground inside the perimeter. |
+| { *The Leaning Buildings* [**Attack**] } | "The buildings lurch inward, merging into one another to close the street around you." | [Buildings incline toward sound — slow, cumulative, measured against where personnel have spoken. They have never struck or crushed anybody. What closes a street is years of leaning arriving at a doorway that has narrowed past use.] | *Heavy Grudge pressure on Resilience. No radio, no raised voices, no conferring in place: withdraw in silence and reconvene outside the perimeter before the lean is given anything further to follow.* **[14-22 Grudge DMG [Grudge]]** | When voices are raised, radio is used, or a crew confers inside the district instead of withdrawing. |
+| { *The First Wound* [**Attack**] } | "The ground opens the way it opened then, and the thousand go down again, and everybody present watches it happen." | [The district re-enacts the Cheongula at the original pace. The file's own accounts do not agree on that pace — nine hours for the taking in this record, seventeen counted minutes of screaming in the Tale — and the row preserves both rather than shortening either. It has happened four times in sixty years.] | *Catastrophic Grudge to everyone inside the perimeter and to the party witnessing from the line; it cannot be interrupted. Withdraw beyond the markers, re-survey all 41, and route any statement denying or qualifying the Cheongula to the Architects before publication — standing since Year 4,197.* **[Catastrophic Grudge DMG [Grudge]]** | After a Directorate statement denying the Cheongula is published. |
+| { *Judgment Claw* [**Attack (secondary)**] } | *"One of the hands comes down, and it is not a swipe. It is a placement, the way a hand is set flat on a table to end an argument — and the street it lands in is a street afterward."* | [The Walking District's clawed hand descends on a measured arc from the mass. Reach is one district-block; the target is whatever the Judgment Sight has already found, and if the Sight has not run, the hand comes down on the last voice it heard.] | *Structural Grudge: the street closes and the footprint becomes part of the figure. Nothing the city owns is built to stop a hand that size. And no cover inside the perimeter is cover.* **[55–90 Grudge DMG [Grudge] · Instant Fracture on a critical]** | **Event form only** — `C-IVω-001-B [GS]`. Fires on a target the Judgment Sight has marked, or on a witness who speaks inside the figure's reach. |
+| { *Judgment Sight* [**Debuff (secondary)**] } | *"It has no eyes. Then a thousand of them open in the hole where its mouth is, and every one is already looking at somebody."* | [The eyes belong to the thousand, not to the figure, and they come from the middle of the mouth. Nothing is aimed and nothing is searched for — the figure finds by voice, and what it has heard the thousand now see. Everyone within earshot is known by name in the instant, including the ones who have not spoken.] | *No damage. Every target in range is marked and the mark does not drop: having been seen, a person stays seen. Silence after the fact is not cover. Grudge pressure on the marked, and no defence roll against the Claw that follows.* **[Mark, no damage · −15 Resilience on the marked]** | **Event form only** — `C-IVω-001-B [GS]`. When a person has been heard inside the figure's reach, or when the thousand wish to be looked at in return. |
+| { *The Confession Refused* [**Ultimate**] } | "The thousand speak as one: *say what you did*. Nobody answers, and the district comes out to find somebody who will." | [The reserved event form: expansion past the containment perimeter gathers the district into the Walking District — whispering walls detach, the soft ground lifts, the thousand voices coalesce into the moving figure described in Appearance States. It is registered and its silhouette is filed. It has never been witnessed walking, and no return condition is established.] | *The designation shifts to `C-IVω-001-B [GS]` and the holding stops being a place. The standing response is withdrawal, not a work session with the moving form. Record which markers fell and what moved, from outside.* **[City-threatening]** | On a third formal refusal of the confession — refused twice, and withheld without refusal for sixty years. |
+
+**Scope of the two secondary moves.** *Judgment Claw* and *Judgment Sight* belong to the event form and to nothing else. The district has no hands, no eyes and no reach: while the designation reads `C-IVω-001 [GP]` neither move exists, and a report that describes the district striking or looking has described the wrong shape. They are entered here because the owner directed them from the filed silhouette — the hands are the two clawed hands, the eyes are the thousand blue eyes in the mouth — and not because the archive observed them. **No one has seen either move used**, the form has never been witnessed walking, and the standing response to a manifested Walking District remains withdrawal rather than engagement.
 
 ### Battle Phases
 
@@ -100,7 +126,7 @@
 - There is no resolution and there is no dissipation. There is a perimeter that is surveyed every quarter, a negotiation that is held every quarter, and a confession that has not been made in sixty years.
 
 ## Appearance
-**Physical Form:** A district rather than a creature. Buildings lean inward, walls curve toward voices, and the ground is soft as if the tar beneath it never finished solidifying.
+**Physical Form:** A district rather than a creature. Buildings lean inward, walls curve toward voices, and the ground is soft, and the tar beneath it has never finished solidifying.
 
 **Notable Features:**
 - Historically, buildings whispered in a thousand overlapping voices; after the current-cycle release, the district is quiet.
@@ -111,7 +137,6 @@
 
 - **Entity Type:** Place (can Transform into event Subject)
 - **Manifestation:** Place-Tale
-- **Primary marker:** A district rather than a creature. Buildings lean inward, walls curve toward voices, and the ground is soft as if the tar beneath it never finished solidifying.
 - **Position / movement:** The district does not move and the perimeter does. Eleven of the original 41 markers have been reset outward since the survey began, none has ever been reset in, and the Architects' chart is the clearest document the city possesses about its own foundation.
 - **Element signature:** Grudge
 - **Registered location:** Zone B district — UNCONTAINED
@@ -120,27 +145,39 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A district rather than a creature. Buildings lean inward, walls curve toward voices, and the ground is soft as if the tar beneath it never finished solidifying. |
 | **Position / movement** | Fixed as a district and expanding as a boundary: 41 markers, eleven of them moved outward, and a chart that only goes one way. |
 | **Material / signature** | A district of leaning buildings, walls that curve toward voices, and ground that gives slightly underfoot as though it never finished setting. Record the marker positions, the voice count, and every statement the Directorate makes about the Cheongula. |
 | **Distinctive markers** | Historically, buildings whispered in a thousand overlapping voices; after the current-cycle release, the district is quiet. Warm tar beneath the district feels like living flesh. The perimeter expands by approximately 2.3 centimeters per year. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Confirm before Work or contact: designation C-IVω-001 `[GP]`, Grudge expression, Place-Tale manifestation, Entity (IV) coherence, Zone B district — UNCONTAINED, against the 41-marker chart. |
 
 ### Appearance States
 
 The Tale records the citizens becoming the district, and the district remains the Place form described above. The Walking District is the event form already recorded under Expansion Behavior. The two descriptions belong to different modes of the same sorrow, not to two bodies that must be made identical. Neither passage supplies a separate origin for the thousand. The Registry holds the event designation in reserve: the table describes that registered event mode, not a witnessed current walking state.
 
+**The event form's silhouette is on file.** It is recorded below as the registered figure, on the registry's own authority, so that a report of the walking form has something to be checked against instead of something to invent. Filing a silhouette is not a sighting: the form has still never been observed walking, and the standing response remains withdrawal.
+
 | Field | District — Place form | Walking District — event form |
 |---|---|---|
 | Mode of presence | Place-Tale, registered as `[GP]`; the streets and their foundations are the entity. | Subject-Tale, registered as `[GS]`; the district becomes a moving being. |
-| Form | Buildings lean inward, walls curve toward voices, and the soft ground remains beneath the streets. | The whispering walls detach and the soft ground lifts; the thousand voices gather into the massive walking figure. Its substance is the district itself. |
+| Form | Buildings lean inward, walls curve toward voices, and the soft ground remains beneath the streets. | The whispering walls detach and the soft ground lifts. The district gathers into a single jaw-shaped mass, monstrous and street-wide, carried on two enormous legs, with two clawed hands. Its substance is the district itself. |
 | Movement | Stationary as a location; expansion is recorded at the perimeter. | Mobile through the city after the Place-to-Subject change. |
 | Measurement | The existing marker chart and the position of the district's buildings. | The position of the detached walls and lifted ground relative to the former perimeter, with any movement distinguished from ordinary boundary expansion. |
 | Work / response | Viderehan and Ferrehan at the district; Taeho negotiates at the edge. | The primary's standing response is withdrawal, not a routine work session with the moving form. |
 | Continuity | The consumed citizens persist in the walls, foundations and Han, asking for acknowledgment. | The walls, ground and voices coalesce; the change of silhouette does not replace the citizens or the Cheongula with another origin. |
 | Transition | The expansion account places the change at the district's containment perimeter; the refusal account is retained in Combat Actions. | Return conditions are not established in this record; do not assume that the forms alternate freely. |
 
-**Appearance protocol:** Establish the mode before describing a body. For the district, record the marker positions, the lean of the buildings and the yielding ground; there is no separate creature standing inside the streets. The current-cycle silence is recorded as silence, not filled with voices remembered from earlier accounts. For the event form, distinguish walls detaching and ground lifting from a marker merely moving outward, and describe how that architecture occupies the walking figure. Use the former perimeter as the reference, so the report identifies what moved rather than substituting an imagined giant's anatomy. Keep the designation shift with the observation and the negotiation transcript with its date; a description of one mode does not cancel the record of the other.
+**The registered silhouette.** What the district becomes, in the order a witness would take it in.
+
+- **The mass.** A jaw the size of the district that made it. Not a head on a body — the streets, the frontages and the lifted ground gathered into one wedge of building-stone and dark concrete, opening forward.
+- **The legs.** Two, enormous, and the ground gives under them the way it gives under a boot: the same unset tar, carrying weight it was never asked to carry.
+- **The hands.** Two, at the front of the mass, and each ends in a claw. They are the only part of the figure that reaches.
+- **No eyes.** There are none anywhere on it, and it sees. It does not need them and never did: the district leaned toward sound for sixty years before it stood up, and the figure finds what it looks for the same way, by voice. A crew that whispers has already been located. A crew that is silent is, for as long as it stays silent, somewhere the figure has not looked.
+- **The mouth.** A hole, and the hole is the whole front of the mass. Its rim is a ring of jagged edges that keep working in and out while nothing is being eaten, the way a sand-worm's mouth works — the district's soil passing through a shape that was never a mouth and has become one.
+- **The thousand.** Inside the hole, at the centre, a thousand blue eyes glow. They are the citizens, and they are the only part of the figure that is looking back.
+
+**Two notes on reading it.** The eyes are blue and the entity's element of record is Grudge, crimson. The archive does not re-element the Maw on the strength of a colour, and the eyes belong to the thousand rather than to the element. And the silhouette supplies a body first: legs and claws are what the field will see. Two moves are filed from it — *Judgment Claw* and *Judgment Sight*, under Combat Actions — and they are the only ones, so a report that finds a third has found something the archive has not authorised.
+
+**Appearance protocol:** Establish the mode before describing a body. For the district, record the marker positions, the lean of the buildings and the yielding ground; there is no separate creature standing inside the streets. The current-cycle silence is recorded as silence, not filled with voices remembered from earlier accounts. For the event form, distinguish walls detaching and ground lifting from a marker merely moving outward, and describe how that architecture occupies the walking figure. Use the former perimeter as the reference, so the report identifies what moved. The figure's silhouette is on file above; describe it against that, and add no anatomy the file does not carry. Keep the designation shift with the observation and the negotiation transcript with its date. A description of one mode does not cancel the record of the other.
 
 ### The foundation, the voices and the registered figure
 
@@ -148,7 +185,7 @@ The earlier citizens are the cause and continuing occupants of this sorrow, not 
 
 The current-cycle quiet recorded above and in the Apex Record is a change in the overlapping voices, not proof that the district vanished, hardened or began walking. Conversely, historical whispering and the event description's gathered voices are not a current observation of the reserved form. The continuing negotiation and voice-count passages still need their own dating relationship to that quiet; the record supplies no universal new speaking exception.
 
-Two origin accounts remain: deliberate relocation-sacrifice in the opening and Origin, and warned-against neglect in the Tale. So do the refusal and perimeter-crossing triggers and the inconsistent expansion intervals. The equipment cannot bridge these gaps: Side Codex A forbids extraction while its linked items, the local kit and Master entries describe incompatible pieces. A blade's jaws are not the district's observed mouth, and a ground-derived harness does not establish a human-shaped resting body. Neither the existing states panel nor these distinctions certifies the unresolved whole as logically complete.
+Two origin accounts remain: deliberate relocation-sacrifice in the opening and Origin, and warned-against neglect in the Tale. So do the refusal and perimeter-crossing triggers and the inconsistent expansion intervals. The equipment cannot bridge these gaps: Side Codex A forbids extraction while its linked items, the local kit and Master entries describe incompatible pieces. A blade's jaws are not the hole that is the district's mouth — the mouth is a working rim of jagged edge, and no piece of equipment supplies one — and a ground-derived harness does not establish a human-shaped resting body. The combat record now observes the same limits: the buildings incline toward sound rather than strike, the unset ground holds footprints rather than dragging anybody toward an invented heart. And the Walking District remains a registered event form whose standing response is withdrawal — with its silhouette on file and two event-form moves — *Judgment Claw* and *Judgment Sight* — filed from it by registry direction, and no others. Neither the existing states panel nor these distinctions certifies the unresolved whole as logically complete.
 
 ## Origin
 - **Formation:** The Maw is the site of the Cheongula, the First Sorrow.
@@ -157,31 +194,28 @@ Two origin accounts remain: deliberate relocation-sacrifice in the opening and O
 - **The People:** One thousand unnamed citizens, still conscious within the district.
 - **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around Zone B district — until the Grudge was dense enough to become a Place. The sorrow is old. The entity is just its current shape.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a district of Zone B that is no longer contained — walls that reveal the thousand, ground that yields, and a negotiation conducted on everybody's behalf by one commander. Presence is the whole of the contact, and presence is not a Work Type.
 
-The Maw responds to presence rather than conventional Work Types.
-
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** (Observation) | Walls reveal impressions of the thousand and the sacrifice. | Stable |
-| **Ferrehan** (Endurance) | The district tests the visitor with layered voices and yielding ground. | Decrease if endured |
-### Special Behaviors
-- Buildings rearrange themselves at night without witnesses.
-- The Maw speaks clearly to Commander Taeho.
-- Personnel hear their own names whispered from every direction.
-
-
+| Stage | What is done |
+|---|---|
+| **Approach** | Reinforce the perimeter before anybody enters, and survey the markers from outside it. Only Commander Taeho goes in to speak with the thousand; nobody else closes to the wall to see whether it can be spoken to. |
+| **Handling** | The negotiation. Everyone not in it holds the line, logs the marker positions and keeps the evacuation route clear, because the district tests a visitor with layered voices and yielding ground and the test is the reading. |
+| **Withdrawal** | There is no containment to withdraw from. Architects keep the perimeter up while the negotiation runs, and the watch ends when the speaking ends rather than when the gauge moves. |
+| **Refusal** | Nobody fights it and nobody comforts it. The third formal refusal of the confession is what transforms it — the transformation is a refusal and not a gauge reading, and this district runs no activation percentage. |
 
 ### Operational Work Notes
 
-The Work Type table applies to a district and measures almost nothing. What the record tracks instead is the voice count and the markers: one thousand voices, individually distinguishable to Taeho and to nobody else, and a perimeter that has moved outward eleven times in sixty years — every time inside a month of an official denial.
+The Maw is a Fragment (IV, ω) Place in Zone B, recorded as **uncontained**. The old table offered two stages towards a district and marked the other two `Negative-Low`, which described the response of a gauge rather than the conduct of a watch. What the record describes is a perimeter and a negotiation, and the only person who has ever conducted the second is named.
 
-**Reading the response:** A falling gauge here means the thousand have been answered, not that they have been satisfied; it rises again by the next quarter. The only reading that has ever stayed down is the one following Year 4,196, when a Director read eleven recovered names aloud at the perimeter. The gauge was eleven points lower for four years.
 ## Expansion Behavior
+
+> **Special activation only — no counter, no gauge.** What sets it off, per the record: *"increase in the city's collective sorrow"*.
+
+
+
+
 
 > **Place → Subject event:** The Maw is a Place-manifestation entity — the district *itself* is the entity. Normally it expands slowly (2.3 cm per cycle). But if the expansion exceeds Zone B's containment perimeter — if the Maw grows beyond the district — it **transforms from a Place entity into a event Subject entity**. In this form, the Maw becomes mobile: the whispering walls detach, the soft ground lifts, the thousand voices coalesce into a single massive figure that walks through the city. This Place→Subject transformation is the rarest and most catastrophic event type in Somnarak — a location becoming a being.
 
@@ -195,7 +229,7 @@ The Work Type table applies to a district and measures almost nothing. What the 
 | **Expansion Effect** | Adjacent buildings merge into the district; walls darken, curve, and begin whispering. Residents may be absorbed. |
 | **Containment** | No true containment is possible. Architects reinforce the perimeter while Taeho negotiates with the thousand. |
 
-**State change:** The Place-to-Subject event gathers the district into the Walking District: walls detach, the soft ground lifts, and the thousand voices coalesce into the moving form. This is the transition represented in Appearance States, not a new history replacing the district's formation.
+**State change:** The Place-to-Subject event gathers the district into the Walking District: walls detach, the soft ground lifts. And the thousand voices coalesce into the moving form — a jaw the size of the district on two enormous legs, two clawed hands at its front, no eyes. And a mouth that is a working hole with a thousand blue eyes at its centre. This is the transition represented in Appearance States, not a new history replacing the district's formation.
 
 **Retained non-breach mechanic:** The thousand remain the conscious citizens of the consumed district, and their demand remains acknowledgment of the Cheongula. The moving walls and lifted ground retain that identity; the change is not permission to substitute an unrelated creature for the place. The primary's event response remains withdrawal.
 
@@ -224,13 +258,13 @@ Escalation is a marker moving. Record which marker, how far, the date, and the D
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
-### M.A.W. Weapon — The First Dawn Stiletto
+### M.A.W. Weapon — The Maw's Grip
 
-**Category:** SHORT BLADE (Micro-Serrated Dawn Stiletto)
+**Category:** HEAVY BLADE (Basalt and Pig-Iron Cleaver)
 
-Appearance : A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy, tapering into a needle point with microscopic diamond serrations along its dual cutting edges.
+**Appearance:** A jagged, broad-bladed cleaver of coarse black basalt and pig iron, bound with thick copper wire that glows dull red. The edge is torn rather than ground, and the flat keeps the tar-sheen of the district it was drawn out of.
 
-The weapon absorbs darkness, emitting a faint warm luminescence that glimmers like early twilight. Piercing strikes discharge concentrated radiant pulses that temporarily blind adjacent hostiles and sear shadow-tainted matter.
+It carries the weight of the First Sorrow and does not light: a strike bypasses physical armour outright and leaves a bleeding Grudge residue that runs for five turns. Each swing takes five points of Composure from the hand that holds it, and at zero the Cheongula comes up through the wielder.
 
 **Damage:** Grudge 22–34
 **Speed:** 2 (Slow)
@@ -243,9 +277,9 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 **Falloff Rule:** Primary takes full catastrophic trauma and bleed; secondary takes blunt crushing spillover.
 **Damage Application:** Direct Grudge trauma to Body (physical form, structural integrity); causes severe mastication bleed and armor destruction.
 
-**Ability:** Catastrophic Grudge against the Body. The Devouring Clamp holds a target in interlocking jaws and converts what it does to them into ground — the Armoury's own description, and the reason the piece has been drawn twice in sixty years and discharged once.
+**Ability:** Catastrophic Grudge against the Body. The linked item record (The Maw's Grip) describes instead a posture-shattering *Cheongula Cleave* that bypasses physical armor and leaves bleeding Grudge residue, draining the wielder's Composure toward meltdown. Neither account makes this an issued weapon: Side Codex A prohibits extraction outright, the piece's own form is disputed between stiletto and cleaver, and no jaws belong to a district whose observed shape is streets and ground. What the Armoury certifies is only that it has been drawn twice in sixty years and discharged once.
 
-**Cost:** The wielder experiences unbearable phantom hunger; prolonged use causes their jaw muscles to spasm and ache, and leaves deep, permanent bruising along the chest and arms.
+**Bearer cost:** The wielder experiences unbearable phantom hunger. Prolonged use causes their jaw muscles to spasm and ache, and leaves deep, permanent bruising along the chest and arms.
 
 ### M.A.W. Suit — The Cheongula — Forbidden Plate
 
@@ -261,9 +295,9 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 **Max Amount:** 1
 **Cost:** 65 Sorrow Echoes
 
-**Ability:** Resistance to Grudge against the Body, and a second property the Armoury did not design: the wearer hears the thousand as individuals rather than as a sound. Three wearers; all three asked to be relieved.
+**Ability:** Resistance to Grudge against the Body, and a second property the Armoury did not design: the wearer hears the thousand as individuals rather than as a sound. Three wearers; all three asked to be relieved. The linked item record (The Maw's Shroud) instead describes a stone cloak anchoring the bearer against knockdown and displacement, at guilt that refuses lament-based healing. Under Side Codex A's prohibition neither version is certified as an issued canonical suit. And the two profiles are not normalized.
 
-**Cost:** The wearer forgets one person they knew. Not a fact about them — the person. It is permanent, it is chosen by the piece, and it is written into the issue form in those words.
+**Bearer cost:** The wearer forgets one person they knew. Not a fact about them — the person. It is permanent, it is chosen by the piece, and it is written into the issue form in those words.
 
 ### M.A.W. Stigma — The Cheongula — Forbidden Extraction
 
@@ -275,9 +309,9 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 **Acquisition Probability:** 3%
 **Effect:** +4 to the working stat at this holding — the largest bonus in the registry, on the only holding where the work is a conversation
 
-**Ability:** Unknown. Extraction would mean wearing the sorrow of the thousand consumed citizens.
+**Ability:** Unknown locally. Extraction would mean wearing the sorrow of the thousand consumed citizens. The linked item record (The Maw's Relic) describes a neck torque projecting municipal authority that quiets low-rank murmurs and fragments, at a permanently multiplied voice. With extraction prohibited by Side Codex A and the slot, rate and effect all in dispute, that description is recorded, not adopted.
 
-**Cost:** Presumed catastrophic identity and emotional collapse; extraction is forbidden by the Director.
+**Bearer cost:** Presumed catastrophic identity and emotional collapse; extraction is forbidden by the Director.
 
 *Four Stigmas in sixty years, each one on the day a name was added to the roll. The Architects report the correlation to the Directorate in every quarterly return and have never once been asked about it.*
 
@@ -318,7 +352,7 @@ These three pieces are the only ω-grade extraction on record and the Armoury ha
 |---|---|
 | **Initial exposure** | The observer stands at the perimeter and looks into a district where the buildings lean inward. Identification is immediate and the file's first line is the only one needed: this is the ground the city is built on, and it is still occupied. |
 | **Sustained observation** | Sixty years of marker surveys and quarterly negotiations. Eleven outward movements, each following a denial; one four-year fall in the gauge, following eleven names read aloud. Those two series are the whole of what the Architects know. |
-| **Activation or escalation** | A marker moved or a confession refused. Record the marker and the distance; for a refusal, record who refused, in what forum, and in what words, because the second refusal is the reason the event designation exists. |
+| **Activation or escalation** | A marker moved or a confession refused. Record the marker and the distance. For a refusal, record who refused, in what forum, and in what words, because the second refusal is the reason the event designation exists. |
 | **Post-contact review** | Marker chart updated, the negotiation transcribed in full, any recovered name entered on the roll, and the Directorate's statements for the quarter attached. A review without the statements is incomplete; they are the variable. |
 
 **Observation method:** Survey the markers, attend the negotiation, transcribe what the thousand say, and record any name recovered. One thousand voices; 61 names recovered in sixty years, all of them from the Whispering Walls, the Orphaned Bell, or the thousand themselves. The roll is kept at the perimeter where it can be read aloud.
@@ -360,7 +394,7 @@ Silence arrives first, heavy enough to erase your footsteps. Then the buildings 
 
 **With continued exposure:** The voices separate. What arrives as a crowd becomes, over an hour, a thousand people talking, and the thing every observer reports is that they are not shouting — they are explaining, patiently, to somebody who has not answered yet.
 
-**When the entity activates:** Activation reshapes the room. The Grudge that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.
+**When the entity activates:** A marker is found moved, the buildings nearest to where somebody spoke lean a measure further in, and the ground takes footprints it does not give back. In the years when the district still spoke, the thousand said the visitor's name together; in the current cycle the same signs arrive in silence.
 
 **After departure:** You find out where you live. Every member of the negotiation party has looked up what stood on their own street before it was their street, and the Architects now include that in the briefing as something people will do anyway.
 
@@ -368,7 +402,7 @@ Silence arrives first, heavy enough to erase your footsteps. Then the buildings 
 
 Five relations, more than any other holding, and the shape of them is the finding: one tolls for it, one guards it, one cannot enter it, one avoids it, and one is warned about by it. Nothing in the archive helps it and nothing in the archive is helped by it.
 
-**Interaction method:** Solo baselines, then approach along the perimeter and never across it. The measures are the marker positions and the voice count; the Architects require both before and after, and a fortnight later, because this district answers on a slow clock.
+**Interaction method:** Solo baselines, then approach along the perimeter and never across it. The measures are the marker positions and the voice count. The Architects require both before and after, and a fortnight later, because this district answers on a slow clock.
 
 
 ### Entity Interaction Record
@@ -377,11 +411,11 @@ This holding is the first sorrow and the archive is arranged around it whether o
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Orphaned Bell** | Tolls whenever a marker moves, before the survey finds it. | Eleven movements, eleven tolls, every one of them hours ahead of the Architects. The Bell is now the district's early warning and the survey party is dispatched on it. | The toll time, the marker found, and the interval between them. |
-| **The Grieving Colossus** | Avoids it; changes route rather than pass the perimeter. | Three attempted approaches, three withdrawals at between 200 and 400 metres. The file records the Colossus's withdrawal distance and declines to interpret it. | The withdrawal distance and the bearing taken instead. |
-| **The Kind Healer** | Cannot enter. Her healing is refused at the line, by the thousand, audibly. | Two attempts, both ended by the thousand rather than by the Healer. The transcript of the second is in the file and is the only occasion the thousand have declined anything offered to them. | The refusal transcribed verbatim. |
-| **The Forgotten Soldier** | Guards the perimeter without having been asked to and has done so for as long as the record runs. | Continuous. No marker has ever moved on a stretch the Soldier was walking, which the Architects note as a correlation across sixty years and have never been able to make into a method. | The Soldier's route logged against the marker chart. |
-| **The Dawn of Mourning** | If it manifests, the thousand rise in warning — the only time they have ever addressed the facility rather than the city. | Modelled, never observed. The Dawn recognises this district as the source of the sorrow that corrupted the chain and mourns it from a distance; the thousand's warning is recorded in the Dawn's own file and in this one, identically. | Cross-referenced; no session is possible or sought. |
+| [**The Orphaned Bell**](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | Tolls whenever a marker moves, before the survey finds it. | Eleven movements, eleven tolls, every one of them hours ahead of the Architects. The Bell is now the district's early warning and the survey party is dispatched on it. | The toll time, the marker found, and the interval between them. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Avoids it; changes route rather than pass the perimeter. | Three attempted approaches, three withdrawals at between 200 and 400 metres. The file records the Colossus's withdrawal distance and declines to interpret it. | The withdrawal distance and the bearing taken instead. |
+| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Cannot enter. Her healing is refused at the line, by the thousand, audibly. | Two attempts, both ended by the thousand rather than by the Healer. The transcript of the second is in the file and is the only occasion the thousand have declined anything offered to them. | The refusal transcribed verbatim. |
+| [**The Forgotten Soldier**](SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) | Guards the perimeter without having been asked to and has done so for as long as the record runs. | Continuous. No marker has ever moved on a stretch the Soldier was walking, which the Architects note as a correlation across sixty years and have never been able to make into a method. | The Soldier's route logged against the marker chart. |
+| [**The Dawn of Mourning**](SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md) | If it manifests, the thousand rise in warning — the only time they have ever addressed the facility rather than the city. | Modelled, never observed. The Dawn recognises this district as the source of the sorrow that corrupted the chain and mourns it from a distance. The thousand's warning is recorded in the Dawn's own file and in this one, identically. | Cross-referenced; no session is possible or sought. |
 
 **Interaction procedure:** Along the perimeter, never across it, with the marker chart surveyed before and after and again a fortnight later. Transcribe everything the thousand say during a pairing; two of the five relations are documented only by what they said about the other party.
 
@@ -401,7 +435,7 @@ The Maw is the consumed district. Place-Tale, Grudge-element: the first sorrow, 
 
 The Maw wants acknowledgment. Not revenge — the thousand, the R.D. has determined, do not want destruction. They want the city to say what it did. They want the Council to confess. They want the truth — that the city was built on a thousand consumed citizens, that the prosperity of Somnarak is powered by their suffering, that the Cheongula was not a disaster but a neglect — to be spoken, aloud, by the city that committed it and has spent four thousand years pretending it did not.
 
-The city has never spoken it. The Maw waits. The Maw grows — the perimeter markers moving, slowly, the district expanding, the thousand spreading, seeking the acknowledgment that would let them rest. And the city, built on the thousand, powered by their sorrow, continues to function, and continues to silence the truth, and continues, every Consolihan, to mourn a natural disaster that was not natural and was not a disaster but a choice — the Council's choice, to let the Han take the poor, and to build, on their consumed bodies, a city that has never, in four thousand years, admitted what it stands on.
+The city has never spoken it. The Maw waits. The Maw grows — the perimeter markers moving, slowly, the district expanding, the thousand spreading, seeking the acknowledgment that would let them rest. And the city, built on the thousand, powered by their sorrow, continues to function. And continues to silence the truth. And continues, every Consolihan, to mourn a natural disaster that was not natural and was not a disaster but a choice — the Council's choice, to let the Han take the poor. And to build, on their consumed bodies, a city that has never, in four thousand years, admitted what it stands on.
 
 This is the first sorrow. This is the wound. This is the thousand, beneath the city, waiting, growing, whispering, for the confession the city owes them and has never given.
 ## 증언 (Testimonium) — The Testimony
@@ -436,14 +470,14 @@ This is the first sorrow. This is the wound. This is the thousand, beneath the c
 
 ### Registry Addendum
 
-**Operational interpretation:** This district asks for one thing and has asked for it for sixty years: say what was done. It is not a containment problem and the Architects' perimeter is not a containment measure; it is a sixty-year holding action against a confession nobody in office has been willing to make. The evidence that the confession would work is in the file — Year 4,196, eleven names read aloud at the line, the gauge eleven points lower for four years — and so is the evidence of what refusal costs, which is eleven markers moved outward and a event designation held in reserve. One thousand people were told they were being relocated. Sixty-one of them have names on the roll.
+**Operational interpretation:** This district asks for one thing and has asked for it for sixty years: say what was done. It is not a containment problem and the Architects' perimeter is not a containment measure. It is a sixty-year holding action against a confession nobody in office has been willing to make. The evidence that the confession would work is in the file — Year 4,196, eleven names read aloud at the line, the gauge eleven points lower for four years — and so is the evidence of what refusal costs, which is eleven markers moved outward and a event designation held in reserve. One thousand people were told they were being relocated. Sixty-one of them have names on the roll.
 
 **Review requirement:** After any event: the marker chart, the negotiation transcript, the voice count, the name roll, and every Directorate statement touching the Cheongula in the preceding quarter, attached in full and not summarised. One further item, standing since Year 4,197: any proposal to issue a statement denying or qualifying the Cheongula is routed to the Architects before it is published, because eleven markers have moved and every one of them moved after a sentence written by somebody who had never been to the perimeter.
 ## Apex Record
 
 ### A District Under Custody
 
-The holding here is not a chamber but a jurisdiction. Streets, frontages, and the ground beneath them are held under a standing instrument that transfers municipal authority over the area to the facility for as long as the instrument runs, and the instrument has been renewed without lapse since it was first executed. Nothing about the arrangement is comfortable for either party. The Directorate acquired responsibility for drainage, structural safety, and the lighting of a district it cannot enter freely; the municipal office surrendered authority over ground it had governed since the city's founding. Both sides have described the arrangement in writing as temporary. Neither has ever proposed the terms on which it would end, and the renewal correspondence has grown shorter every cycle until it now consists of a single countersigned line.
+The holding here is not a chamber but a jurisdiction. Streets, frontages, and the ground beneath them are held under a standing instrument that transfers municipal authority over the area to the facility for as long as the instrument runs, and the instrument has been renewed without lapse since it was first executed. Nothing about the arrangement is comfortable for either party. The Directorate acquired responsibility for drainage, structural safety, and the lighting of a district it cannot enter freely. The municipal office surrendered authority over ground it had governed since the city's founding. Both sides have described the arrangement in writing as temporary. Neither has ever proposed the terms on which it would end, and the renewal correspondence has grown shorter every cycle until it now consists of a single countersigned line.
 
 ### The Thousand
 
@@ -451,7 +485,7 @@ The citizens given to the foundation are named where naming is possible. The reg
 
 ### Entry
 
-Entry is by named authorization for a stated purpose and a stated duration, and the authorization is issued by the commander personally rather than by any deputy. There is no routine patrol. The district is not walked, swept, or inspected on any schedule, and the absence of routine presence is deliberate: every justification the facility has produced for being inside the ground has eventually been found to rest on familiarity rather than need, and familiarity is the condition under which people stop leaving. Authorizations are tallied annually. The tally has fallen in almost every period of the holding's operation, and the commanders have treated the decline as the clearest indicator they have that the protocol is working.
+Entry is by named authorization for a stated purpose and a stated duration, and the authorization is issued by the commander personally rather than by any deputy. There is no routine patrol. The district is not walked, swept, or inspected on any schedule. And the absence of routine presence is deliberate: every justification the facility has produced for being inside the ground has eventually been found to rest on familiarity rather than need. And familiarity is the condition under which people stop leaving. Authorizations are tallied annually. The tally has fallen in almost every period of the holding's operation, and the commanders have treated the decline as the clearest indicator they have that the protocol is working.
 
 ### The Softness
 
@@ -463,7 +497,7 @@ Buildings incline toward sound. The effect is slow, cumulative, and has been mea
 
 ### What Changed and What Did Not
 
-The overlapping whispering that characterized the district historically has not been heard since the release of the current cycle. The wing has recorded the change, has not explained it, and has explicitly declined to treat it as improvement. The operative note on the point is three sentences long and is reproduced at the head of every briefing: the district is quieter than it was, nothing else about it has altered, and a holding that reads silence as progress in a place built out of people who were silenced has learned nothing from the ground it stands on.
+The overlapping whispering that characterized the district historically has not been heard since the release of the current cycle. The wing has recorded the change, has not explained it, and has explicitly declined to treat it as improvement. The operative note on the point is three sentences long and is reproduced at the head of every briefing: the district is quieter than it was, nothing else about it has altered. And a holding that reads silence as progress in a place built out of people who were silenced has learned nothing from the ground it stands on.
 
 ### The Boundary Lighting
 
@@ -472,6 +506,7 @@ The district's edge is lit from outside, by standards mounted on municipal groun
 ## Trivia
 
 - The Maw's one thousand voices remain individually distinguishable to Taeho.
+- The Walking District has no eyes and does not need any: the district leaned toward sound for sixty years, and the figure finds by voice what it would otherwise look for. The thousand are the eyes it looks with — they sit in the middle of its mouth, and *Judgment Sight* is the moment they turn.
 - The district's buildings are not stable architecture; they are changing memories.
 
 
@@ -480,9 +515,9 @@ The district's edge is lit from outside, by standards mounted on municipal groun
 
 - **Classification detail:** The Maw is an Object/Place with Entity (IV) — Self-aware, ancient, hungry coherence and Catastrophic (ω) — City-threatening potency.
 - **Field detail:** Grudge, across a district of Zone B that is marked UNCONTAINED on every map the city prints, bounded by 41 survey markers and reinforced quarterly.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** It is not sealed and never has been. There is a surveyed line, an Architects' contract, a quarterly conversation, and a roll of sixty-one names; that is the entire containment of the first sorrow the city made.
+- **Recognition detail:** Identify it by the survey, not by impression: buildings inclining toward sound, ground that never finished setting and holds a footprint, and a 41-marker chart that only ever moves outward.
+- **Record detail:** Read this file beside the marker chart, the quarterly negotiation transcript and the roll of sixty-one recovered names. The designation `C-IVω-001-B [GS]` is a reserved event form, not a second holding.
+- **Containment detail:** It is not sealed and never has been. There is a surveyed line, an Architects' contract, a quarterly conversation, and a roll of sixty-one names. That is the entire containment of the first sorrow the city made.
 ## Document Information
 
 **Document ID:** SE-C-IVω-001

@@ -24,6 +24,10 @@ The Vanished Plate is a crimson harness carrying the scent of vanished rooms —
 |---:|---:|---:|---:|---:|
 | 1.0 | 0.4 | 1.8 | 1.2 | 4 / 20 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Shadow Vigil:** resists Grudge while the wearer memorializes a removed room. Reflexes dull whenever they attempt to support phantom architecture.
 
 **Incident — The Missing Stair:** Iseulfros leaned against a stair visible only through the Stigma. Plate hardened into a load-bearing column and the stair began returning above her. Stepping onto current pavement dissolved both support and stair.
@@ -33,14 +37,3 @@ The Vanished Plate is a crimson harness carrying the scent of vanished rooms —
 **Emergency shutdown:** a mourner closes the vigil while the wearer moves out of the shadow under their own power.
 
 **Set link:** Plate sustains witness, Floor maps absence, and Fang cuts ongoing deletion.
-
----
-
-**Document ID:** `SE-677-C`  
-**Linked Entity:** `SE-677`  
-**Item Registry Code:** `MAW-S-677-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -73,8 +73,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/920_Once_Upon/SE-920-C__MAW-S_Once_Upon_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/920_Once_Upon/SE-920-D__MAW-G_Once_Upon_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "reasoning": "Complete341-line primary and exact920A–D read. Time-Tale source is an hour; untouchable walking figures, empty-room narrators and aerial endings are manifestations, not physical vessel or travelling source. Forgotten finished/enjoyed stories return; ordinary sequence and recorded simultaneity are supported conditions. Trace includes fixed kilometre, source versus character movement, naming Work, inside-radius risk after fiftieth minute, register and paper-only comparisons, derived gear and third-person bearer costs. Scope: actual escalation, risk role, fixed breach extent, perimeter/naming response, audible narration, duration and concrete temporal/witness/equipment organisation.",
   "history": "Exact920A–D, registry1039–1042, archetype379 and disposition371 read. Primary/B γLament14–22 Normal2 Short2 4/25; C L/G/V/W.3/1/1.2/.8 4/20; DHead5%+1 align. Same Weapon open-book Medium archetype versus primary crystal spine-text Short remains; B generic spirit-of-grief ability versus primary lost-thread account and never-end metaphors versus finished stories should not be normalized. No dedicated Master exact-name match. Archived B43unit2 513376a, B45unit5 quote and B47unit2 4799ab6 prose history read; not unique equipment-credit proof. +0/+0 conservatively withheld.",
@@ -96,8 +96,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/920_Once_Upon/SE-920-C__MAW-S_Once_Upon_s_Veil.md": "0f3c41d89fe277f70a0192c7c8de5b76866205cc89672dd3978ebdf156ebdc48",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/920_Once_Upon/SE-920-D__MAW-G_Once_Upon_s_Token.md": "8fdac0c7f7416326609217f864c5276e66ae3feb2b7b4c95b625555159233b15",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

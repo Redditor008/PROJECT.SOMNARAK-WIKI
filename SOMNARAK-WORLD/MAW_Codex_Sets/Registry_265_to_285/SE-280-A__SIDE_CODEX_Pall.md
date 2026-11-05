@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Lament |
 | Form | A damp tapestry woven from crystallized tears, clinging like wet silk and carrying every face that mourned through it. |
-| Gauge / Pressure | 35–50% / Lament 10–23 |
+| Gauge / Pressure | 000/880; starts 000% / Lament — no attack pattern; the field edge is measured at the floor marks |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Shared Mourning |
 
@@ -44,10 +44,10 @@ The I-Relic remains damp in dry air and leaves salt traces. Wearing it conceals 
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Crying while worn is activation, not Work. |
-| Pugnahan | Not valid; force tightens the wet weave. | N/A | Never pull the Veil from the front. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Crying while worn is activation, not Work. |
+| Pugnahan | Not valid; force tightens the wet weave. | Net-Neutral | Never pull the Veil from the front. |
 | Viderehan | Reveals people whose tears formed the threads. | Stable | Record separate griefs without merging identities. |
-| Ferrehan | Tests wearing grief without hiding. | Down | Name an external remover before contact. |
+| Ferrehan | Tests wearing grief without hiding. | Decrease | Name an external remover before contact. |
 
 **Activation:** Place Pall over the face. It remains active until removed by another person.  
 **Resolution:** External removal, identity confirmation, and Gauge below 25%.  
@@ -63,9 +63,9 @@ An echo forms after an authorized wearer completes Ferrehan, remains identifiabl
 
 | Piece | Name | Grade | Purpose | Individual Codex |
 |---|---|---:|---|---|
-| Weapon | The Weeping Veil-Pavise & Tear Javelin | β | Separates one overwhelming grief current from the shared field. | `SE-280-B__MAW-W_The_Tear_Requiem.md` |
-| Suit | The Pallbearer's Layered Shroud | β | Absorbs emotional attack while displaying the wearer’s grief openly. | `SE-280-C__MAW-S_The_Tear_Veil.md` |
-| Stigma | The Weeping Veil Clip | β | Preserves one personal tear-pattern within collective mourning. | `SE-280-D__MAW-G_The_Tear_Charm.md` |
+| Weapon | The Weeping Veil-Pavise & Tear Javelin | β | Separates one overwhelming grief current from the shared field. | `SE-280-B__MAW-W_The_Weeping_Veil_Pavise_and_Tear_Javelin.md` |
+| Suit | The Pallbearer's Layered Shroud | β | Absorbs emotional attack while displaying the wearer’s grief openly. | `SE-280-C__MAW-S_The_Pallbearer_s_Layered_Shroud.md` |
+| Stigma | The Weeping Veil Clip | β | Preserves one personal tear-pattern within collective mourning. | `SE-280-D__MAW-G_The_Weeping_Veil_Clip.md` |
 
 **Set cost:** The wielder weeps, the Veil displays all grief continuously, and the Stigma bearer cries during sleep.
 
@@ -103,13 +103,3 @@ An echo forms after an authorized wearer completes Ferrehan, remains identifiabl
 **Primary source:** `SE-C-IIβ-280_Pall_눈물의_베일.md`
 
 **Formal-ID note:** `SE-280` is assigned to Pall. The Kind Healer’s Shadow (`N-IIβ-280`) remains deferred for a unique formal ID.
-
----
-
-**Document ID:** `SE-280-A`  
-**Linked Entity:** `SE-280`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -98,8 +98,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_250_The_Extinguished/UNK_250-D__MAW-G_The_Ash_Pin.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/README.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
   ],
   "reasoning": "Complete384-line original and exactUNK250A–D/README read. InnerlostHope→SubjectBody/IVγ→districtgrief/Beareroutline/sealedidentity→gold/crimson/frost/char→roomversusround and selectiveHopeapproach→screening/Ferrehan/word/frost/streets→GentleFlame/BurningHope/Handsituation→derivedβWick/Mantle/Pin traced. R18predeclared7short/5careful: ownmovement, actualmethod, normaldoor/selectivetarget, no forcedPugnahan, body/itemgrade separation, bespokevisualidentity/care. Body and derived item neednotshare shape.",
@@ -121,8 +121,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_250_The_Extinguished/UNK_250-D__MAW-G_The_Ash_Pin.md": "18179a0de84bd71be6de48142c87efa68b707d4049cbc779f13e24285b1c3836",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/README.md": "29d405e976f2bca6fc622adf46ddb81de685dc3f58e32578fc33542d4ff10e71",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
   },
   "final_sha": "1f18def280cf828722c2229c43aaeec7acbec461b9a6a1f5be0e7fbabc343074",

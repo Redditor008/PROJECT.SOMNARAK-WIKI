@@ -20,6 +20,7 @@
 | Grade | γ — Major |
 | Element | Lament |
 | Slot | Tail |
+| **Maximum Amount** | 3 — Standard |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Hollow Choir source record |
 
@@ -38,12 +39,3 @@ Once per encounter, the bearer may play a single line that lowers immediate host
 ### History Record
 
 A Silenced Lyre ended a panic stampede in a Zone C corridor. The crowd became calm enough to evacuate. The bearer later admitted they could not feel fear for three days and entered a second danger zone without hesitation.
-
-**Document ID:** `SE-021-D`  
-**Linked Entity:** `SE-021`  
-**Item Registry Code:** `MAW-G-021-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 2 — Limited |
 | Acquisition probability | 4% after successful Déjà Vu work |
 | Bestowal event | A Seed appeared in the root basin after an observer accepted a returning object as memory rather than proof of restoration. |
 | Acceptance condition | The candidate completes a present-memory inventory with Archive witness and names a person who can recognize the exchange afterward. |
@@ -53,7 +54,7 @@
 
 ### Appearance
 
-The Returning Seed is a small charm of pale grey Han glass shaped like a seed split into two halves, joined at a fine seam and worn on a short cord. It is cold and closed in ordinary air and warms near a lost memory the bearer is seeking. When an Archive witness confirms consent and the bearer names why the recovered memory is needed now, the halves open and return one lost memory with exceptional clarity while temporarily displacing a present memory of equal emotional weight. The seed cannot retrieve a memory for someone who has not consented or restore a whole life, and the present payment is selected by emotional equivalence rather than preference. The two halves are closed together by the witness, and the seed is kept in a paired case with the current-time anchor card. The seed is kept in a paired case with the current-time anchor card, and Archive staff compare the consent record and possible present cost before every activation.
+Pale grey Han glass split into two halves and joined again at a fine seam, the Returning Seed hangs from a short cord. It is cold and closed in ordinary air and warms near a lost memory the bearer is seeking. When an Archive witness confirms consent and the bearer names why the recovered memory is needed now, the halves open and return one lost memory with exceptional clarity while temporarily displacing a present memory of equal emotional weight. The seed cannot retrieve a memory for someone who has not consented or restore a whole life, and the present payment is selected by emotional equivalence rather than preference. The two halves are closed together by the witness, and the seed is kept in a paired case with the current-time anchor card. The seed is kept in a paired case with the current-time anchor card, and Archive staff compare the consent record and possible present cost before every activation.
 
 ### Passive effect— *Weight Match*
 
@@ -85,14 +86,3 @@ Park used the Seed to recover the memory of a forgotten research partner’s fin
 The Seed is the exchange risk within *Present Return*. Lens separates intrusive return pressure and Veil holds the present self; the Seed proves that every recovered past asks something of the life still being lived.
 
 > *“A lost memory is not free merely because it was already lost.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-125-D`  
-**Linked Entity:** `SE-125`  
-**Item Registry Code:** `MAW-G-125-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -67,7 +67,7 @@ Complete final primary read in document order after actual five validators; fing
   ],
   "sources": [
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "scope": "Correct powder endpoint and crossing-specific effect; clarify metaphorical flesh, routine final-observation choice and the distinction between implement, deposited mark, ward and equipment. Preserve actual trigger/protection/extraction uncertainty.",
   "reasoning": "Complete405-line original including WatchRecord/full Tale/equipment read. Inner Object-Void octagonal chalk and erasing sanctuary fit judicial self-annihilation without human anatomy. Stationary object may be carried and deposit marks. Apparent heaviness versus mass is already explicitly unresolved and not a contradiction; attenuation measurements are not exclusive radii. Real conflicts are general Gauge70 versus circle-completion trigger, no-partial-circle handling versus routine partial-arc wording, absolute guilt/harm immunity versus specified Void scope, and exhausted no-extraction versus equipment availability.",
@@ -85,7 +85,7 @@ Complete final primary read in document order after actual five validators; fing
   "after_words": 4832,
   "source_hashes": {
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

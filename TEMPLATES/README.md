@@ -1,91 +1,28 @@
-# SOMNARAK TEMPLATES — Deep-Knowledge-First Generation Kit
+# TEMPLATES — The Authoring Kit
 
-**Archive Sector:** `TEMPLATES/` (Out-of-Universe Authoring Kit — Never In-World Canon)  
-**Authority:** Reverie Directorate Editorial Standards + `GOVERNANCE.md` Tier 2  
-**Temporal Anchor:** Year 4,238 · Dawn Initiative · Cycle 1,778 (Absolvohan Only)  
-**Purpose:** Every file in this directory exists so that **deep canonical knowledge is known BEFORE any generation ever occurs**. No dossier, codex, scenario, or chronicle should be drafted without first reading its template and the Global Primer.
+**Temporal Anchor:** Year 4,238 · Dawn Initiative · Cycle 1,778
 
----
+Every file in this directory exists so that deep canonical knowledge is known **before** anything is generated. No dossier, codex, scenario or chronicle should be drafted without reading its template and the primer first.
 
-## How To Use This Kit
+The kit is branched by category, so a search for "what generates a dossier" does not have to walk a flat list of twenty-five numbers.
 
-1. **Read `00_GLOBAL_DEEP_KNOWLEDGE_PRIMER.md` first — always.** It contains the 9 immutable laws that apply to every generation task.
-2. **Open the specific template for your task** (e.g., `01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` for a new Entity).
-3. **Fill every `{{PLACEHOLDER}}` in order.** Do not delete sections; write `N/A` only where the template explicitly permits it.
-4. **Run the validation checklist at the end of each template** before committing.
-5. **Run linters:** `python3 tools/audit_lore_archive.py` + `python3 tools/check_box_symmetry.py` must PASS.
-
----
-
-## Template Index — 23 Deep-Knowledge Templates
-
-### Global Foundation
-| # | Template File | Generates |
+| Branch | Holds | Start here |
 |---|---|---|
-| 00 | `00_GLOBAL_DEEP_KNOWLEDGE_PRIMER.md` | All documents — mandatory first read |
-| 22 | `22_BOX_AND_TABLE_FORMATTING_TEMPLATE.md` | Any ASCII box or table |
-| 23 | `23_CANONICAL_NAMING_AND_BANNED_STRINGS_TEMPLATE.md` | Names, SECC codes, and vocabulary |
+| [`SE/`](SE/README.md) | The primer, the dossier template, the side codex, and the three M.A.W. piece templates (00–05) | [`SE/00_GLOBAL_DEEP_KNOWLEDGE_PRIMER.md`](SE/00_GLOBAL_DEEP_KNOWLEDGE_PRIMER.md) |
+| [`SE_CATEGORIES/`](TEMPLATES/SE_CATEGORIES/README.md) | The five category definitions and their five category templates: Subject, Non-Subject, I / O / A Relic | [`TEMPLATES/SE_CATEGORIES/README.md`](TEMPLATES/SE_CATEGORIES/README.md) |
+| [`SYSTEMS/`](SYSTEMS/README.md) | One template per world system: Ordeal, Hope Transformation, Unknown Entity, Echo Core, Master Codex, Absolvohan, Katabagil, Katharcheok, Gieok, Jipyeongseondae, Story Canto, Mugenhan (06–17) | [`SYSTEMS/README.md`](SYSTEMS/README.md) |
+| [`GAME/`](GAME/README.md) | Combat engine, battle scenario, boss mechanics, squad archetype (18–21) | [`GAME/README.md`](GAME/README.md) |
+| [`FORMAT/`](FORMAT/README.md) | Boxes and tables, canonical naming and banned strings, wiki-part reference (22–24) | [`FORMAT/README.md`](FORMAT/README.md) |
 
-### Entities & Equipment
-| # | Template File | Generates |
-|---|---|---|
-| 01 | `01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` | `SOMNARAK-WORLD/Sorrow_Entities/SE-*.md` |
-| 02 | `02_MAW_SIDE_CODEX_TEMPLATE.md` | `SOMNARAK-WORLD/MAW_Codex_Sets/.../SE-*-A__SIDE_CODEX_*.md` |
-| 03 | `03_MAW_WEAPON_TEMPLATE.md` | `SOMNARAK-WORLD/MAW_Codex_Sets/.../SE-*-B__MAW-W_*.md` |
-| 04 | `04_MAW_SUIT_TEMPLATE.md` | `SOMNARAK-WORLD/MAW_Codex_Sets/.../SE-*-C__MAW-S_*.md` |
-| 05 | `05_MAW_STIGMA_TEMPLATE.md` | `SOMNARAK-WORLD/MAW_Codex_Sets/.../SE-*-D__MAW-G_*.md` |
-| 06 | `06_ORDEAL_TEMPLATE.md` | `SOMNARAK-WORLD/Ordeals/Ordeal_*.md` |
-| 07 | `07_HOPE_TRANSFORMATION_TEMPLATE.md` | `SOMNARAK-WORLD/Hope_Transformations/HT-*.md` |
-| 08 | `08_UNKNOWN_ENTITY_TEMPLATE.md` | `SOMNARAK-WORLD/Unknown_Entities/SE-*.md` |
+## How To Use The Kit
 
-### Leadership & World Codices
-| # | Template File | Generates |
-|---|---|---|
-| 09 | `09_ECHO_CORE_DOSSIER_TEMPLATE.md` | `SOMNARAK-WORLD/Echo_Cores/THE_*.md` |
-| 10 | `10_MASTER_CODEX_TEMPLATE.md` | `SOMNARAK-WORLD/Master_Codices/**/*.md` |
-| 17 | `17_MUGENHAN_ECOLOGY_TEMPLATE.md` | `SOMNARAK-WORLD/Mugenhan_Ecology/*.md` |
+1. **Read [`SE/00_GLOBAL_DEEP_KNOWLEDGE_PRIMER.md`](SE/00_GLOBAL_DEEP_KNOWLEDGE_PRIMER.md) first — always.** It carries the laws that apply to every generation task.
+2. **Open the template for the document you are writing**, in the branch above.
+3. **Fill every `{{PLACEHOLDER}}` in order.** Do not delete sections; write `N/A` only where the template permits it.
+4. **Run the validation checklist at the end of the template** before committing. Each line names the tool that checks it where a tool exists.
+5. **Run the gate:** `bash tools/gate.sh "<message>"`.
 
-### Narrative Chronicles
-| # | Template File | Generates |
-|---|---|---|
-| 11 | `11_ABSOLOVHAN_DAYLOG_TEMPLATE.md` | `SOMNARAK-WORLD/The_Absolvohan/Part_*.md` |
-| 12 | `12_KATABAGIL_PASSAGE_TEMPLATE.md` | `SOMNARAK-WORLD/Katabagil/Passage_*.md` |
-| 13 | `13_KATHARCHEOK_OPERATION_TEMPLATE.md` | `SOMNARAK-WORLD/Katharcheok/Operation_*.md` |
-| 14 | `14_GIEOK_READING_TEMPLATE.md` | `SOMNARAK-WORLD/Gieok_Jeojangso/Reading_*.md` |
-| 15 | `15_JIPYEONGSEONDAE_ARC_TEMPLATE.md` | `SOMNARAK-WORLD/Jipyeongseondae/Arc_*.md` |
-| 16 | `16_STORY_CANTO_TEMPLATE.md` | `SOMNARAK-WORLD/Story_Cantos/CANTO_*.md` |
+## Two Rules That Outrank The Template
 
-### Tactical Systems
-| # | Template File | Generates |
-|---|---|---|
-| 18 | `18_TACTICAL_COMBAT_ENGINE_TEMPLATE.md` | `SOMNARAK-WORLD/Tactical_Combat_Engine/*.md` |
-| 19 | `19_BATTLE_SCENARIO_DEEP_TEMPLATE.md` | `GAME_BATTLE/SCENARIO_*.md` + `CANONICAL_ENCOUNTER_*.md` |
-| 20 | `20_BOSS_MECHANICS_TEMPLATE.md` | `GAME_BATTLE/BOSS_MECHANICS_*.md` |
-| 21 | `21_SQUAD_ARCHETYPE_TEMPLATE.md` | `GAME_BATTLE/SQUAD_ARCHETYPE_*.md` |
-
----
-
-## Deep Knowledge Guarantee
-
-Each template embeds the same 9 laws plus its domain-specific constraints **inside the template itself**, so a generator never needs to search external files. The laws are written at the top of every template under `## DEEP KNOWLEDGE — READ BEFORE WRITING`.
-
-## File Naming Rule for Templates
-
-Template files themselves are NEVER moved into `SOMNARAK-WORLD/` or `GAME_BATTLE/`. They stay in `TEMPLATES/`. Generated canon files use the naming convention documented inside each template.
-
-## Validation
-
-After filling a template:
-
-```bash
-python3 tools/audit_lore_archive.py
-python3 tools/check_box_symmetry.py
-python3 tools/timeline_lint.py
-python3 tools/seam_lint.py
-```
-
-All four must return `PASS` before push (Rule A0: commit + push in same turn).
-
----
-
-*This kit replaces tribal knowledge with written law. If a rule is not in the primer, it is not a rule — update the primer first.*
+- **Logic Path, Not Template Path.** Where a file's own record contradicts the scaffold — a holding that cannot fight having a Combat Record, a room that never leaves having a breach section — the record wins and the section changes shape. The templates describe the ordinary case; they do not overrule the evidence.
+- **A template artefact is a defect the moment it appears in a finished file.** Placeholders, generic filler, and sentences that could sit in any of forty files are not "to be filled later"; they are the archive's own failure mode, and every checklist in this kit is written against it.

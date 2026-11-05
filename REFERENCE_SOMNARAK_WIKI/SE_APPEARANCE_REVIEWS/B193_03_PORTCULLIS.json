@@ -1,0 +1,156 @@
+{
+  "designation": "O-Iα-794",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-794_Portcullis_무너진_문.md",
+  "words": 8067,
+  "sha256": "49b80d5589f6a87cc152615d3bd0ced4e6fac64686f8b129f635892e3ec3482c",
+  "unit": 3,
+  "name": "Portcullis",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md",
+  "before_words": 8067,
+  "after_words": 8187,
+  "base": "233e4caba53aeb527a4691c39666438960715dc0",
+  "final_sha256": "995425f8f2c985dbe56ab46a2e396ed33023dffe2a4dae3755c9b8b76138aab0",
+  "summary": "Seven source-supported repairs (2 short / 5 careful): a door whose frame has not moved in sixty years of survey stops showering splinters, collapsing on workers and felling every threshold in the building; the stock conduit consequence, a suppression-step observation row and two stitched flavor paragraphs are replaced by the file's actual instruments — a verbatim transcript, a named relief, and a memory that holds eleven, nineteen, twenty-eight seconds while nothing physical alters. First independent full-set source review of SE-794: fresh +1 Types / +1 Weapon; whole design HELD, SE +0.",
+  "commentary": "Portcullis is the rare file whose containment measure is a rule about sentences, so its generic survivals were the paragraphs still describing rubble as though rubble were the hazard. The frame is square, the hinges work, the stone has not settled — the only thing down there that has ever changed is how long a spoken place-name holds. The repairs move every impact onto that measurement. The set underneath has its own quiet split: the weapon is the Ruined Jamb-Knife in the primary, the Registry and its own title line, and the Collapsed Requiem in the Side table and the rest of its item file — unrecorded until now, and left exactly as split.",
+  "reasoning": "Set SE-794 identity resolved from Side A and items carrying 'Source SECC Designation O-Iα-794 [LO]' / MAW-W/S/G-794-01; Registry rows 891–894 (Registry_762_to_801/794_Portcullis). Sentence triage: three combat rows asserted fresh physical collapse against sixty years of survey ('neither has moved by any figure the survey can resolve'; 'the Door does not strike at anyone'); Consequences bullet 1 was the stock conduit line; the Observation Progression activation row stitched a generic suppression sequence onto a speech-keyed trigger; two flavor paragraphs were template (pressure pulse/logic; a pasted Tool-Profile recitation). R-18 split declared before the apply: 2 short / 5 careful. Digits unchanged.",
+  "history": "Fresh-credit proof by negatives: no in-file cross-source/full-set review block or per-piece source holds; Side SE-794-A carries no profile-hold/disposition paragraph; no prior evidence file mentions O-Iα-794; ledger equipment_reviews has no 794 entry; git path history shows only the B179 import (87f1a01). First independent full-set review: Side A (66 lines) and items B/C/D read whole (64/62/61 lines) including Appearance sections; Registry rows 891–894 confirm identity (Weapon Variable; Stigma generic Accessory/5%); machine fields agree (Lament 3–6, 2/2, Single, 5/15; resistances 0.4/1.0/1.6/0.8; Tail/5%/+1). Fresh credit: Types +1, Weapon +1, SE +0. Counters become 284/301, 282/287, 18/301.",
+  "holds": [
+    "Weapon name fork, first recorded here: primary + Registry + item title 'The Ruined Jamb-Knife' vs Side set table, item epigraph, history, maintenance and filename 'The Collapsed Requiem' — byte-identical hinge-knife Appearance and identical figures (Lament 3–6 / 2 / 2 / Single / 5 / 15); no alias stated. Neither name normalized.",
+    "Item terminal corrosion (manifestation uses the bearer as its new site; first-person description; attribution review; benefit reversal) vs the primary's threshold-arrest record closed by a named relief talking the operative out — preserved in their sources, not imported.",
+    "Suit/Stigma figures and costs agree (numbness to minor joys; departure of everyone who waited) vs Registry generic Accessory/5%; item Appearance sections give doctrine without a physical form beyond the primary's one-line silk/key-charm records.",
+    "Which side of the collapse the entity belongs to — those still leaving or those already through and waiting — the file expressly declines to settle; the memory duration's correlation with the Scope Office unattributable-harms return remains a measured pairing, not an explanation.",
+    "The Joint Minute clerks' refused request for a cheap-remedy power, and 611 refused applications by affected persons to attend their own minute, remain open institutional record, untouched."
+  ],
+  "split": [
+    2,
+    5
+  ],
+  "repairs": [
+    {
+      "id": "R1-falling-debris",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Falling Debris* [**Attack**] } | \"The frame gives way further — and the splinters are sharp.\" | [A shower of collapsed door-fragments strikes.] | *Inflicts Lament pressure and one jagged, splintering wound.* **[14-22 Lament DMG [Lament]]** | When the ruin is disturbed. |",
+      "new": "| { *The Falling Debris* [**Attack**] } | \"Nothing falls. Nothing has fallen here in sixty years of measurement, and the survey can resolve a millimetre.\" | [No shower of fragments strikes anybody. What lands is the hearing of it — the tunnel as it was, stone coming down with people still on the far side.] | *Inflicts Lament pressure; the wound is acoustic and memorial, not splintering.* **[14-22 Lament DMG [Lament]]** | When the ruin is disturbed — cleared, tested, or promised something — instead of witnessed. |"
+    },
+    {
+      "id": "R2-crushed-threshold",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Crushed Threshold* [**Attack**] } | \"The whole frame comes down, and with it goes the last chance of getting through.\" | [The full collapse of the leaf buries whoever is standing in the opening.] | *A heavy Deep Blue burial; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the ruin is made to give. |",
+      "new": "| { *The Crushed Threshold* [**Attack**] } | \"The whole frame does not come down. The frame is square, the hinges are seated, and that is the worst of it: the mechanism still works.\" | [Nobody is buried. The leaf came down once, before the record, and the burial this row deals is the operative's own: standing in the opening, inwardly, after the light has gone.] | *A heavy Deep Blue arrest at the threshold; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When a memory is held past its fade and the named relief has to talk the operative back. |"
+    },
+    {
+      "id": "R3-every-door-falls",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *Every Door Falls* [**Ultimate**] } | \"Every threshold in the building comes down, and after that there is no through at all.\" | [The ruin runs from threshold to threshold until it owns every passage.] | *Everyone in range takes Lament pressure for three turns, with nothing left to cross.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |",
+      "new": "| { *Every Door Falls* [**Ultimate**] } | \"No other threshold in the building moves. What spreads is a sentence: somebody in the response has said a place-name aloud, the way people do in emergencies.\" | [The ruin owns no other passage. The frame lights for a second destination the Door was never declared, and everyone in the tunnel is suddenly standing in front of somewhere they would rather be.] | *Everyone in range takes Lament pressure for three turns, with nothing crossed and nobody arrived.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge, on an undeclared destination spoken at the threshold. |"
+    },
+    {
+      "id": "R4-consequences-conduit",
+      "kind": "short consequence correction",
+      "careful": false,
+      "old": "- A worker who gives way under the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.",
+      "new": "- A worker who gives way under the entity's sorrow does not channel anything anywhere; they stay. Clarity erodes by the seconds the memory held — timed by the relief, growing longer every year — and the gauge follows the transcript, not the person."
+    },
+    {
+      "id": "R5-observation-activation-row",
+      "kind": "careful observation correction",
+      "careful": true,
+      "old": "| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching the fallen door while naming a destination. Effect: the memory of the named place opens and holds for a timed interval. Duration: Until the memory fades. Risk: arrest at the threshold after the light goes. Tool Use Profile — I-Relic Operational Rule: At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |",
+      "new": "| **Activation or escalation** | The trigger is contact with the leaf while a destination is spoken aloud, and escalation here means the Door begins to remember a second, undeclared destination. There is no suppression step: the team controls speech before ground — designations and directions only — then establishes who touched the leaf, how long the memory held, and whether it has faded. |"
+    },
+    {
+      "id": "R6-flavor-continued",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "**With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.",
+      "new": "**With continued exposure:** Grief makes people talkative, and the transcript gets longer. What changes across a cycle is rarely the ruin — hinges, alignment, stone depth, all stable — it is the number of place-names the party has had to stop itself saying."
+    },
+    {
+      "id": "R7-flavor-activation",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touching the fallen door while naming a destination. Effect: a timed opening into the memory of whatever place was named. Duration: Until the memory fades. Risk: the operative stays at the threshold inwardly once it closes. Tool Use Profile — I-Relic Operational Rule: The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.",
+      "new": "**When the entity activates:** The frame lights at the spoken word and at nothing else — not at touch, not at pressure, not at silence of any length. For the seconds it holds, the operative stands in the memory of the named place with the tunnel still around them; the relief times it, because the number is longer every year and nothing down here has moved an inch."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-O-Iα-794_Portcullis_무너진_문.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.024  clean   211 grams  Trivia\n 0.020  clean   494 grams  M.A.W. Equipment\n 0.008  clean   393 grams  기록 (Registrum)\n 0.004  clean   687 grams  Combat Record\n 0.003  clean   632 grams  감각 묘사 (Flavor Text)\n 0.002  clean   650 grams  Activation Behavior\n 0.000  clean   700 grams  Threshold Record\n 0.000  clean   344 grams  관찰 기록 (Observation Log)\n 0.000  clean   329 grams  이야기 (Narratio)\n 0.000  clean   301 grams  Appearance\n 0.000  clean   262 grams  Origin\n 0.000  clean   224 grams  Operational Parameters\n 0.000  clean   217 grams  Behavior\n 0.000  clean   167 grams  이야기 보고 (Story Log)\n 0.000  clean    92 grams  최종 관찰 (Final Observation)\n 0.000  clean    43 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  THIN     10 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   85   3  | { *Every Door Falls* [**Ultimate**] } | \"No other threshold in the building moves. What spreads is a sentence: somebody in the r\n  154   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  236   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.\n  254   3  **Appearance:** a key-charm of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.\n  274   1  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Portcullis's known toll: The wielder weeps while \n  355   2  | The Door's neighbour | How the pairing has run | What the threshold logged | What the entry keeps |\n  403   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)\n  441   5  - **Field detail:** Its defining element is Lament, and its registered location is Zone B, deep tunnels.\nGENERIC 0.004  (24 shared shingles)  SE-O-Iα-794_Portcullis_무너진_문.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-A__SIDE_CODEX_Portcullis.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-B__MAW-W_The_Collapsed_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-C__MAW-S_The_Collapsed_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-D__MAW-G_The_Collapsed_Key.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-A__SIDE_CODEX_Portcullis.md": "e259892ae156e950eb1e1d5633cf7a8d5d9dd88b83e298d51958d70ae9d5f02c",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-B__MAW-W_The_Collapsed_Requiem.md": "c3d6a9b25b9f30eade3440bec30baa67d30b730645045f739763d1333e8c69d9",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-C__MAW-S_The_Collapsed_Shroud.md": "6fa9c3a08e136b063f5da99b260bbf08203977bbaa3586680590838bfc7100d2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-D__MAW-G_The_Collapsed_Key.md": "264d99c77e3453d7f96426e155df951e5b00f70c256b7073ac62f70400b60376",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 1,
+    "weapon": 1,
+    "se": 0
+  },
+  "link": "[[SE-O-Iα-794_Portcullis_무너진_문](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-794_Portcullis_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%AC%B8.md \"SE-O-Iα-794_Portcullis_무너진_문.md\")]",
+  "table_link": "[Portcullis](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-794_Portcullis_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%AC%B8.md \"SE-O-Iα-794_Portcullis_무너진_문.md\")",
+  "reading": {
+    "before_lines": 450,
+    "before_bytes": 49072,
+    "final_lines": 450,
+    "final_bytes": 49649
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 57,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

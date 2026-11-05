@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Ruin Astral-Disc
+# M.A.W. WEAPON — The Ruin Requiem
 
-> *“The Ruin Requiem remembers Repose; the bearer must not mistake memory for permission.”*
+> *"The rings turn and wait for you to agree the target has earned it. Agreement arrives before evidence now."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Repose's lament signature in the strike.  
-**Binding rule:** the bearer names Repose's event—An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent.—and accepts this limit: Do not wake it; reduce noise and acknowledge the dead
+**Binding rule:** the bearer names Repose's event — “An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent.” — and accepts this limit: Do not wake it; reduce noise and acknowledge the dead
 
 ## Appearance
 
-Appearance : A floating circular bronze disc forty centimeters wide, etched with astronomical constellations and three concentric revolving calendar rings that hover horizontally before the wielder.
+A floating circular bronze disc forty centimeters wide, etched with astronomical constellations and three concentric revolving calendar rings that hover horizontally before the wielder.
 
 The disc projects blue astral light beams along its orbital edges that illuminate invisible sorrow entities. Aligning the rings creates an impenetrable shield against incoming elemental projectiles.
 
@@ -31,16 +31,20 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 |---:|---:|---:|---|---:|
 | Lament 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Repose's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Disc strikes with the flat of a settled score: each hit asks the wielder to agree the target has earned it, and the agreement is the price. Wielded long, the agreement arrives before any evidence.
 
 ## ITEM-SPECIFIC HISTORY — *The Repose Source-Trace: Weapon Record*
 
-The first The Ruin Requiem field bearer encountered this source response: The dream shifts into a destructive collapse. The weapon uncouples the immediate hazard only after the team attributed it to Repose. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Ruin Requiem encountered this source response: The dream shifts into a destructive collapse. The weapon uncouples the immediate hazard only after the team attributed it to Repose. A wielder agreed a target had earned it before the evidence was heard, and the Astral-Disc’s binding is the verdict sheet from that inquest.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Repose's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the agreement arrives with the target in sight, before the wielder knows what they have done.
 - Terminal state: Repose's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it; reduce noise and acknowledge the dead” reverses the item’s benefit and raises the source Gauge.  
@@ -49,15 +53,4 @@ The first The Ruin Requiem field bearer encountered this source response: The dr
 
 ## SET RELATIONSHIP
 
-Within *Repose — Witnessed Form*, The Ruin Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-844-B`  
-**Linked Entity:** `SE-844`  
-**Item Registry Code:** `MAW-W-844-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Repose — Witnessed Form*, The Ruin Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a strike struck without the wielder’s agreement.

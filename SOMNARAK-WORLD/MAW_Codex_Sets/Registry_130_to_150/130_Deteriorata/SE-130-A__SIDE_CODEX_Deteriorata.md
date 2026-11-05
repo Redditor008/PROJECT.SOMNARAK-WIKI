@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVγ-130 [WS]`  
 **Author:** Handler Soojin  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Zone B shared-burden containment
 
@@ -61,10 +61,10 @@ Fragments peel from the Saint’s body, dissolve before touching the ground, and
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Cracks close briefly when sorrow is shared. | Down | Share only a burden a worker can safely take back; no one may unload their whole life onto the Saint. |
-| Pugnahan | Crumbling accelerates and fragments grow heavy. | Up | Do not demand endurance as proof of strength. |
+| Flerehan | Cracks close briefly when sorrow is shared. | Decrease | Share only a burden a worker can safely take back; no one may unload their whole life onto the Saint. |
+| Pugnahan | Crumbling accelerates and fragments grow heavy. | Increase | Do not demand endurance as proof of strength. |
 | Viderehan | Reveals burdens the Saint accepted for others. | Stable | Record who carried what only with consent; no burden ledger becomes a claim on the person. |
-| Ferrehan | Transfers a portion of its Weight to the worker. | Down | A relief partner must be ready before any transfer begins. |
+| Ferrehan | Transfers a portion of its Weight to the worker. | Decrease | A relief partner must be ready before any transfer begins. |
 
 ### Breach response
 
@@ -169,13 +169,3 @@ The set increases endurance and force. Its failure is believing that endurance p
 **Entity links:** The Hollow Saint; The Kind Healer; The Crumbling Saint.  
 **Care distinction:** No employee may use the Saint’s apparent endurance to justify an unsafe burden transfer or extended contact.  
 **Item links:** `SE-130-B`, `SE-130-C`, and `SE-130-D` contain the individual handoff, corrosion, and bearer histories for Held Together.
-
----
-
-**Document ID:** `SE-130-A`  
-**Linked Entity:** `SE-130`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

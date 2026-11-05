@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Wounded Tree-Censer
+# M.A.W. WEAPON — The Torn Lens
 
-> *“The Torn Lens remembers Yggdrasil Wound; the bearer must not mistake memory for permission.”*
+> *"The censer swings the one memory the wielder is allowed to keep. Every arc spends one of the others."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Yggdrasil Wound's void signature in the strike.  
-**Binding rule:** the bearer names Yggdrasil Wound's event—A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence.—and accepts this limit: Ground the worker and permit both memories to remain
+**Binding rule:** the bearer names Yggdrasil Wound's event — “A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence.” — and accepts this limit: Ground the worker and permit both memories to remain
 
 ## Appearance
 
-Appearance : A spherical censer carved from a hollowed ironwood tree burl, bound with brass hoops and suspended from a dark cord, burning amber resin extracted from sorrow-blighted weeping willows.
+A spherical censer carved from a hollowed ironwood tree burl, bound with brass hoops and suspended from a dark cord, burning amber resin extracted from sorrow-blighted weeping willows.
 
 The burning resin produces a warm, viscous smoke that clings to surfaces and coats airborne particles. Breathing the vapor numbs physical pain and bolsters an Specialist's psychic resolve.
 
@@ -31,33 +31,26 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Yggdrasil Wound's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
+**Operational / binding cost:** The Censer swings the one memory the wielder is allowed to keep: each arc spends one of the others. Wielded long, the wielder's history is a single room and a locked door.
 
 ## ITEM-SPECIFIC HISTORY — *The Yggdrasil Wound Source-Trace: Weapon Record*
 
-The first The Torn Lens field bearer encountered this source response: The tree tears further through the worker's thoughts. The weapon severs the immediate hazard only after the team attributed it to Yggdrasil Wound. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Lens encountered this source response: The tree tears further through the worker's thoughts. The weapon severs the immediate hazard only after the team attributed it to Yggdrasil Wound. A wielder’s history came down to a single room and a locked door in it, and the Censer’s binding is the statement taken at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Yggdrasil Wound's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the one kept memory starts being spent too, and the room loses its furnishings before it loses its door.
 - Terminal state: Yggdrasil Wound's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Ground the worker and permit both memories to remain” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Lens only after attribution review.   <!-- SE-973 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Lens; shutdown preserves the record but does not refund its cost. <!-- SE-973 -->
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Lens only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Lens; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Yggdrasil Wound — Witnessed Form*, The Torn Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-973-B`  
-**Linked Entity:** `SE-973`  
-**Item Registry Code:** `MAW-W-973-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Yggdrasil Wound — Witnessed Form*, The Torn Lens performs the weapon role while the other pieces preserve attribution and survival. The Censer leaves the set on an arc that keeps more than the one memory.

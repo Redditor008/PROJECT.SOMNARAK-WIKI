@@ -74,7 +74,7 @@ The final three-digit segment denotes the chronological order of registration in
 
 ## 6 Ten Concrete Practical Decryption Examples
 
-1. **`SE-C-Iα-071c` (The Apostle Maker):** City origin; Residue rank; Alpha grade; #071c registered.
+1. **`SE-C-IIγ-071c` (The Apostle Maker):** City origin; Echo rank; Gamma grade; #071c registered.
 2. **`SE-C-IIIβ-014` ([The Debt Eater](27-The%20Debt%20Eater.md)):** City origin; Fragment rank; Moderate volatility; #014 registered.
 3. **`SE-C-IIβ-101` (Emberling):** City origin; Echo rank; Beta grade; #101 registered.
 4. **`SE-N-IVδ-005` (The Smothering Mother):** Inner sorrow origin; Entity rank; Delta grade; #005 registered.

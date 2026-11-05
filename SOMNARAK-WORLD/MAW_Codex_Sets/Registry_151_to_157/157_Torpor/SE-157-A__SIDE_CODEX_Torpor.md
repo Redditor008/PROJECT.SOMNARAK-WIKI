@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IVδ-157 [WP]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — guarded-rest border protocol
 
@@ -61,10 +61,10 @@ Torpor has no body. A sharp command becomes a soft breath inside its field. The 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Tears cannot replace a guarded rest plan. |
-| Pugnahan | Invalid for this Place entity. | N/A | Do not force wakefulness or call sleep a failure. |
+| Flerehan | Invalid for this Place entity. | Negative-Low | Tears cannot replace a guarded rest plan. |
+| Pugnahan | Invalid for this Place entity. | Negative-Low | Do not force wakefulness or call sleep a failure. |
 | Viderehan | Reveals the duties that kept people awake. | Stable | Map shifts, alerts, and hidden fatigue without using them to punish staff. |
-| Ferrehan | Tests whether the worker can sleep without abandoning duty. | Down | Establish a real guard, wake protocol, and safe departure before rest begins. |
+| Ferrehan | Tests whether the worker can sleep without abandoning duty. | Decrease | Establish a real guard, wake protocol, and safe departure before rest begins. |
 
 ### Expansion response
 
@@ -85,7 +85,7 @@ The set gives force, protection, and a moment of calm. Its cost is the truth of 
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Exhale Culverin | δ | Weight | Disrupts fatigue-driven Weight pressure only when protected rest or relief is arranged | `SE-157-B__MAW-W_The_Sleeping_Maul.md` |
+| Weapon | The Exhale Culverin | δ | Weight | Disrupts fatigue-driven Weight pressure only when protected rest or relief is arranged | `SE-157-B__MAW-W_The_Exhale_Culverin.md` |
 | Suit | The Sleeping Mantle | δ | Weight | Weight defense during guarded rest and wake transitions | `SE-157-C__MAW-S_The_Sleeping_Mantle.md` |
 | Stigma | The Sleeping Breath | δ | Weight | One restorative calm interval that reveals suppressed camp exhaustion | `SE-157-D__MAW-G_The_Sleeping_Breath.md` |
 
@@ -106,7 +106,7 @@ The set gives force, protection, and a moment of calm. Its cost is the truth of 
 
 **Quick effect:** A Weight strike breaks fatigue-driven pressure only when a safe rest or relief handoff is ready.
 
-**Weapon-title review (2026-10-11):** `N-IVδ-157`’s primary M.A.W. block and stubby naval culverin Appearance, current `SE-157-B` heading/Appearance, Master Registry, Master Codex table row 523, `MAW-W-157` GUN archetype, and same-code title/Appearance revision `3abe5470` support *The Exhale Culverin*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 523, still identify *The Sleeping Maul*; the forms describe a heavy black maul and an active black Weight line. No Maul-to-culverin transition or second form is documented. The archetype’s Room band differs from Range 3 (Medium) in the primary, linked-item, and Side cards; the Master Registry leaves reach unset, and no crosswalk resolves the difference, so leave the profile unchanged. The primary states full / seventy / fifty per cent falloff in words, matching the Side and item’s 100% → 70% → 50%; the comparator’s missing-only falloff notice is not a conflicting value. The old item filename remains only as the link. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `N-IVδ-157`’s primary M.A.W. block and stubby naval culverin Appearance, current `SE-157-B` heading/Appearance, Master Registry, Master Codex table row 523, `MAW-W-157` GUN archetype, and same-code title/Appearance current revision support *The Exhale Culverin*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 523, still identify *The Sleeping Maul*; the forms describe a heavy black maul and an active black Weight line. No Maul-to-culverin transition or second form is documented. The archetype’s Room band differs from Range 3 (Medium) in the primary, linked-item, and Side cards; the Master Registry leaves reach unset, and no crosswalk resolves the difference, so leave the profile unchanged. The primary states full / seventy / fifty per cent falloff in words, matching the Side and item’s 100% → 70% → 50%; the comparator’s missing-only falloff notice is not a conflicting value. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
@@ -171,13 +171,3 @@ The set gives force, protection, and a moment of calm. Its cost is the truth of 
 **Entity links:** The Wandering Sigh; The Sleeping Weight; The Guardian of the Gate.  
 **Current Border Watch rule:** Rest does not reduce accountability; the guard system must make rest possible without turning a worker’s survival into a breach risk.  
 **Item links:** `SE-157-B`, `SE-157-C`, and `SE-157-D` contain individual rest, wake, and fatigue-cost records for Guarded Rest.
-
----
-
-**Document ID:** `SE-157-A`  
-**Linked Entity:** `SE-157`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

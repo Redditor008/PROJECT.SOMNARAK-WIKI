@@ -22,6 +22,10 @@ The Vanished Fang is a crimson fang weeping Han along its edge — extracted aft
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Deletion Cut:** severs one current erasure mechanism at 100%. Striking the absence rematerializes phantom stone. Old wounds ache with each use.
 
 **Incident — Door at Floor Nine:** Durivel cut into the outline to reach a revealed room. A ghost door fell from above and broke his wrist. He instead severed the municipal deletion mark on current pavement; the room became record rather than structure.
@@ -31,14 +35,3 @@ The Vanished Fang is a crimson fang weeping Han along its edge — extracted aft
 **Emergency shutdown:** Minseo names the verified absence while the blade is sheathed in blank memorial cloth.
 
 **Set link:** Floor reveals, Plate protects mourning, and Fang ends continued erasure.
-
----
-
-**Document ID:** `SE-677-B`  
-**Linked Entity:** `SE-677`  
-**Item Registry Code:** `MAW-W-677-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

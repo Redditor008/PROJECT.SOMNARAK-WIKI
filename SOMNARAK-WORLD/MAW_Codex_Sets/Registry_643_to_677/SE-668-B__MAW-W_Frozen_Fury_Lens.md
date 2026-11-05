@@ -22,6 +22,10 @@ The Frozen Fury Lens is a circular weapon of pale glass taken from the corrected
 |---|---:|---|---|---:|
 | δ / Void | 10–15 | 3 / 3 | Skewer 100/70/50% | 2 / 50 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
 **Blame Excision:** pierces false attribution across up to three linked records. Each use removes a small memory; striking ice releases Full Thaw.
 
 **Incident — The Compliant Family:** Durivel cut a clause labeling one family absent from inspection. The next line falsely read “voluntary departure”; his weakened second pierce removed it but also erased his memory of their room number. Yuna preserved the correction and the uncertainty separately.
@@ -31,14 +35,3 @@ The Frozen Fury Lens is a circular weapon of pale glass taken from the corrected
 **Emergency shutdown:** Yuna reads the verified cause while the Lens is turned away from the ruin; one operator memory remains forfeited.
 
 **Set link:** Bracelet bears backlash and Veil keeps the witness present while Lens corrects institutional blame.
-
----
-
-**Document ID:** `SE-668-B`  
-**Linked Entity:** `SE-668`  
-**Item Registry Code:** `MAW-W-668-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

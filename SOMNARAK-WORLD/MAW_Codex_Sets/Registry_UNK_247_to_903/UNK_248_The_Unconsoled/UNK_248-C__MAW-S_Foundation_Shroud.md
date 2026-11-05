@@ -41,14 +41,3 @@ A blue shroud carrying the texture of old foundation cloth.
 **Corrosion:** the hem grows into stone; rest feels like abandonment; terminal state makes the wearer load-bearing.  
 **Maintenance:** air above, never on, Alpha-root stone.  
 **Shutdown:** two staff lift the hem while the wearer names a living support.
-
----
-
-**Document ID:** `UNK-248-C`  
-**Linked Entity:** `UNK-248`  
-**Item Registry Code:** `MAW-S-UNK-248-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

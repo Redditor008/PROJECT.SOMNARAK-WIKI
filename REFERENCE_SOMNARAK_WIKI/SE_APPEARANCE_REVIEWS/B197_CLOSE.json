@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "batch": 197,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 70,
+  "short_repairs": 13,
+  "careful_repairs": 57,
+  "before_words": 41840,
+  "after_words": 43076,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 35,
+  "pending_fingerprints_unchanged": 35,
+  "source_changes": 0,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": "PASS",
+  "final_words": {
+    "C-IIβ-340": 8526,
+    "C-IIβ-102": 8594,
+    "C-Vω-001": 8535,
+    "C-IVδ-668": 8618,
+    "N-IIβ-488": 8803
+  },
+  "counters": {
+    "types": "286/301",
+    "weapon": "284/287",
+    "se_appearance_fix": "18/301"
+  },
+  "fresh_credits": [],
+  "ledger": {
+    "changed": 14,
+    "retained": 4,
+    "held": 246,
+    "blocked": 2,
+    "pending": 35
+  },
+  "next": "Batch 198 opens on a fresh ranking of the 35 pending dossiers; its first four units are reviews 7-10 of this prompt, reaching the ten-review ceiling."
+}

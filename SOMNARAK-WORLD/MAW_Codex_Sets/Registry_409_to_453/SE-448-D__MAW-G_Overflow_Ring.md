@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 2 — Limited
 A cool Grudge Han-iron Tail ring appearing after grief receives a safe place. Bestowal chance is 4%.
 
 ## Appearance
@@ -26,14 +27,3 @@ The Overflow Ring is a cool crimson tail-ring of Han iron that appears only afte
 **Failures:** anger memory erased before lesson is recorded; healing substitutes for mourning; touch applied without consent.
 
 **Care:** Document anger-memory change and present wound separately.
-
----
-
-**Document ID:** `SE-448-D`  
-**Linked Entity:** `SE-448`  
-**Item Registry Code:** `MAW-G-448-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

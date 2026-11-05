@@ -26,7 +26,7 @@
 **Etymology:** Latin *Absolvo* (to acquit, absolve, release, or structurally complete a work) + Korean *Han* (한 / 恨 — accumulated generational trauma, unresolved injustice, and existential grief).  
 **Literal Meaning:** *The Absolute Dissolution of Generational Grief* (해한 / 解恨).
 
-In Somnarak cosmology, sorrow cannot simply be destroyed, denied, or legislated away. The municipal order under the Council of Sighs operates on a doctrine of eternal *containment and management*—storing the city's grief in deep subterranean conduits and extracting its energy to power the Veil. 
+In Somnarak cosmology, sorrow cannot simply be destroyed, denied, or legislated away. The municipal order under the Council of Sighs operates on a doctrine of eternal *containment and management*—storing the city's grief in deep subterranean conduits and extracting its energy to power the Veil.
 
 The **Absolvohan** represents the radical antithesis of municipal fatalism:
 - **Management vs. Release:** The Council manages grief to sustain civic authority; the Absolvohan seeks the absolute release and purification of grief.
@@ -54,7 +54,7 @@ The **Absolvohan** represents the radical antithesis of municipal fatalism:
 ```
 
 ### The Mnemonic Generator's Gravitational Lock
-In Year 4,232, following severe seismic instability along the Maw's fault lines, Director Majin authorized the deployment of the **Mnemonic Generator** beneath Floor 1 to anchor the facility's crystalline foundations. 
+In Year 4,232, following severe seismic instability along the Maw's fault lines, Director Majin authorized the deployment of the **Mnemonic Generator** beneath Floor 1 to anchor the facility's crystalline foundations.
 
 While the device stabilized Facility 01, its high-density gravitational field produced an unforeseen temporal side-effect:
 - **The Han-Flow Trap:** The generator locked the city's ambient Han-currents into an unperceived **365-day repeating loop**.

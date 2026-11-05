@@ -1,0 +1,229 @@
+{
+  "unit": 4,
+  "designation": "C-IVγ-270",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-270_Memory_Lake_기억의_호수.md",
+  "words": 8656,
+  "sha256": "941b15af40be728841200c44d8dcecb34c40565f1169a91b45d046c4e6f1e8d9",
+  "name": "Memory Lake",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_04_MEMORY_LAKE.md",
+  "before_words": 8656,
+  "after_words": 8864,
+  "base": "bdbc941d61f110fb7da1e3ce8e43d0e6fadb117c",
+  "final_sha256": "ed0f83eb0913b28c32a1a1188fc6e76d35c2212630690aca36afa26a42aec9ab",
+  "summary": "Nineteen repairs (4 short / 15 careful). Memory Lake no longer authorises margin extraction, invents a 15% Gauge rise from margin movement, leaves the Returned Weight trigger as a prohibition note, or ends on generic suppression wording. Resistance now names fixed stations, paired conversation, unattributed scenes, recognition rotation and no contact. Exact Lake Shroud and Lake Flask appearances were restored, the Flask changed from indefinite issued storage to witnessed custody/return, and generic Work Notes, Archive Note, activation flavor and proximity-interaction language were replaced with the sounding-book procedure. HELD; no credit because the primary already contains the complete γ set/statistics/costs/Field Use Record and a dated 2026-10-13 full-set source review.",
+  "commentary": "This file's monster is paperwork. A still basin widens when the institution closes its dead with a grade and a date; the countermeasure is not a weapon but two people at fixed stations who keep talking, refuse to name what they saw, and make the Records Office admit one unverifiable human account into the file.",
+  "reasoning": "R-34 audit before editing. Identity is exact SE-270: Side A assigns `SE-270` to Mnemosyne and prints `C-IVγ-270 [LP]`, Object/Place—Place-Lament, IV/γ, Lament, Gauge 45–65%, pressure 18–41, Observation 3—Advanced, and links this exact primary. The primary's local mechanism is internally stronger than its old generic clauses: nothing enters or is recovered, monthly margin displacement from fixed stations is the instrument, the Gauge never predicts movement, silence predicts flattening, recognition causes rotation, and Attested Recollection is the institutional containment condition. Repairs therefore removed margin extraction and the Row 4 Gauge rise, replaced Resistance with those safeguards, and made Resolution equal the table's unrounded soundings/unattributed scenes/honest conversation column. Trigger semantics: looking from a station and recognition were already discrete; the Returned Weight now triggers when an object/instrument is lowered, Eleven Centimetres on >8 cm advance, and the Ultimate when the annual service-death return is read aloud at the stations (its Move), not merely published. No Gauge threshold was invented because the file explicitly records none. Exact C/D supplied the Shroud's dark reflective outer layer/warm pulse line/Current Pulse and the Flask's warm deep-blue empty-looking form and one-memory witnessed custody. All table blocks had equal parsed cell counts before and after; all Trigger cells parse fifth.",
+  "history": "Draft/local history: memories released by Somnarak's dead sink past the Weeping and Archive wells into a stone basin under the Echo Gardens. The primary's measured mechanism is the surveyed margin (-4 to +11 cm/month), whose advances track quarters with the most service-death files closed with only grade/date/cause. It carries the returned sounding weight with reordered markings, paired-station conversation discipline, recognition rotation, and Attested Recollection—389 accounts taken for 412 deaths in Year 4237, 14 contradicting inquiries, two used in proceedings, and one supervisor resigning over an allegation later shown mistaken. Fresh equipment credit BARRED on this HELD result: before repair the primary already had all three γ pieces, exact Weapon/Suit/Stigma statistics and costs, Use Notes, Field Use Record and the dated 2026-10-13 full-set source review. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+  "holds": [
+    "Naming fork: the primary title/common name is Memory Lake, while exact Side A assigns SE-270 to Mnemosyne and uses the same Korean name `기억의 호수`. No source states which is formal name versus common name. Held.",
+    "Reflection fork: Side A says the surface reflects the viewer's whole life/emotional history and entry exposes thousands of stored lives; the primary says scenes belong to unidentifiable dead and no observer in its history has seen themself. Held.",
+    "Weapon fork: primary/archetype record the five-foot Rusted Boundary-Rod with galvanic perimeter pulses; exact Side/item B records The Lake Requiem, a singing deep-blue Han-crystal blade that separates overflow connections. Statistics agree, but no rod-to-blade transition exists. Held.",
+    "Custody/extraction fork: exact set logic permits a voluntarily surfaced, witnessed memory to form/custody equipment and says removed memories evaporate; the primary maintains that nothing has ever been recovered or removed and evaporation is untested. The Flask's four local account-related uses are not reconciled with exact temporary liquid custody. Held.",
+    "Expansion fork: Side A says unrecorded memories overflow through subterranean channels into Gardens and dreams; the primary documents only stone-margin saturation, with no groundwater transfer detected. Held.",
+    "Normalized Gauge fork: Side A gives the 45–65% band and pressure but no maximum; the primary uses Sorrow Gauge 683/683. Held."
+  ],
+  "split": [
+    4,
+    15
+  ],
+  "repairs": [
+    {
+      "id": "R01-entity-activation-wording",
+      "kind": "short field correction",
+      "careful": false,
+      "old": "| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on none isolated |",
+      "new": "| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; no isolated activation trigger has been established |"
+    },
+    {
+      "id": "R02-no-extraction",
+      "kind": "careful containment correction",
+      "careful": true,
+      "old": "- Extraction draws from the saturated margin only, under separate authorization, and never from the water. The entry prohibition covers instrumentation lowered on lines.",
+      "new": "- No liquid, memory or margin sample is extracted under this file. The entry prohibition covers personnel, contact and instrumentation lowered on lines; equipment custody, where separately recorded, is not a sampling route."
+    },
+    {
+      "id": "R03-resistance-safeguards",
+      "kind": "careful stat correction",
+      "careful": true,
+      "old": "| **Resistance** | 40% against Lament pressure, 30% against every other kind |",
+      "new": "| **Resistance** | 40% against Lament pressure, 30% against every other kind. Pressure ratings do not replace the working safeguards: fixed stations only, paired conversation, scenes attributed to nobody, immediate rotation after recognition, and no entry or contact |"
+    },
+    {
+      "id": "R04-returned-weight-trigger",
+      "kind": "short trigger correction",
+      "careful": false,
+      "old": "| Prohibited; recorded here because it happened once. |",
+      "new": "| When any object or instrument is lowered into the water — prohibited; recorded because it happened once. |"
+    },
+    {
+      "id": "R05-margin-no-gauge-rise",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "*Heavy Lament pressure; the gauge rises 15% and the quarter's returns are pulled.*",
+      "new": "*Heavy Lament pressure; both station workers are stood down, a fresh party re-stakes the margin, and the quarter's service-death returns are pulled the same day. No Gauge rise is inferred from the movement.*"
+    },
+    {
+      "id": "R06-ultimate-trigger-read-aloud",
+      "kind": "short trigger correction",
+      "careful": false,
+      "old": "| On publication of the annual return. |",
+      "new": "| When the annual service-death return is read aloud at the stations. |"
+    },
+    {
+      "id": "R07-battle-resolution",
+      "kind": "careful phase correction",
+      "careful": true,
+      "old": "3. **Resolution:** The watch ends the way the file's own rule ends it — containment, retreat or management, or against the documented suppression condition: **Seal access and catalogue memories without claiming them**.",
+      "new": "3. **Resolution:** The watch ends only when the month's soundings are entered unrounded from every station, every scene is recorded without attribution, the conversation column is marked honestly, access remains sealed and no memory has been claimed. **Seal access and catalogue memories without claiming them** is the management condition; suppression is not a route."
+    },
+    {
+      "id": "R08-work-notes-local",
+      "kind": "careful behavior correction",
+      "careful": true,
+      "old": "How the gauge answers depends entirely on what is being answered. Element, coherence and manifestation each shape the way a Work Type meets the sorrow. The record here is an Object/Place with Place-Lament manifestation and Lament as its element, held at SECTOR-D-02 beneath the Echo Gardens, and nothing measured on an entity with a similar name carries over. A steady gauge is not a licence to relax either: a watch can leave the reading flat while the worker is still taking memory, environmental or identity effects away with them.",
+      "new": "Only two Work Types meet the Lake, and both are worked from fixed stations. Viderehan takes the monthly soundings and records any scene in full without assigning it to a person; Ferrehan is the long paired watch in which unrelated conversation is kept aloud and marked honestly. Flerehan does not establish ownership and Pugnahan—striking, draining or lowering anything into the water—is structurally invalid. The load-bearing readings are the surveyed margin, recognition/rotation and the conversation column; the Gauge neither predicts margin movement nor licenses a longer watch."
+    },
+    {
+      "id": "R09-shroud-appearance",
+      "kind": "careful appearance restoration",
+      "careful": true,
+      "old": "**Appearance:** a wrapping shroud of Lament Han-silk, cold against the skin and faintly luminous, that settles tighter the longer it is worn.",
+      "new": "**Appearance:** a wrapping of Lament Han-silk with a dark reflective outer layer and one warm pulse line running inside, so reflected lives cross the cloth while the wearer's current body remains legible along the inner thread."
+    },
+    {
+      "id": "R10-shroud-ability",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Ability:** Wards Lament pressure on the Mind. Required dress at the stations for any watch following a margin advance above eight centimetres.",
+      "new": "**Ability:** *Current Pulse* lets historical lives reflect across the dark outer layer without entering the wearer's identity while the station partner confirms the warm pulse line and two current anchors. Required dress at the stations for any watch following a margin advance above eight centimetres; it is not diving equipment and may not enter the Lake."
+    },
+    {
+      "id": "R11-flask-appearance",
+      "kind": "careful appearance restoration",
+      "careful": true,
+      "old": "**Appearance:** a small flask of Lament Han-crystal that runs cold in the hand and faintly luminous, and warms slowly while it is carried.",
+      "new": "**Appearance:** a warm tail-flask of deep-blue Han crystal that looks empty until held against witnessed Lake memory, when one life moves inside in liquid form."
+    },
+    {
+      "id": "R12-flask-effect-bearers",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Effect:** +2 Clarity during source work against this holding. The flask also holds one memory in liquid form, and the six bearers have between them filled it four times — in each case with an account of a dead colleague that the Records Office had refused to file.",
+      "new": "**Effect:** +2 Clarity during source work against this holding. The Flask can hold one witnessed memory in liquid form for the work that requires it; six recorded bearers have between them used it four times in connection with accounts of dead colleagues the Records Office had refused to file."
+    },
+    {
+      "id": "R13-flask-ability-custody",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Ability:** Holds one memory in liquid form, indefinitely, retrievable whole. Of the six flasks issued, four hold an account of a dead colleague that the Records Office declined to file; the holders have not been asked whose, and the orientation card notes that they will not be.",
+      "new": "**Ability:** Holds one witnessed memory in liquid form as custody, not collection, until it is returned at the witnessed shore; it is not an archive shelf and does not preserve an unwitnessed sample. Four recorded uses concerned accounts of dead colleagues the Records Office declined to file; the bearers have not been asked whose, and the orientation card notes that they will not be."
+    },
+    {
+      "id": "R14-use-notes-set-roles",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "The set is built around keeping something that the record refuses to keep: a rod that draws a line, a shroud that dulls, and a flask that holds one account at full price. The armoury's note observes that the flask is the only piece in the wing whose benefit and whose cost are the same event.",
+      "new": "The set is built around separation without ownership: the locally recorded rod holds the surveyed line, the Shroud's warm pulse line keeps the current wearer distinct from lives crossing its outer cloth, and the Flask gives one witnessed memory temporary custody before return. Their costs remain separate—involuntary weeping, numbed minor joys, and the stored life's death or loss felt in full. The Armoury note observes that the Flask is the only piece in the wing whose benefit and cost arrive as the same event."
+    },
+    {
+      "id": "R15-story-entry6-local",
+      "kind": "careful narrative correction",
+      "careful": true,
+      "old": "There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.",
+      "new": "The orientation case holds the one sounding weight lowered into the Lake. The line came back whole and the weight came back whole; its markings were in a different order. Four explanations are mounted beneath it with the objection that defeated each. New station pairs are shown the weight before the sounding books, then reminded that the file's other instrument is clerical: scenes are written whole, attributed to nobody, and set beside the service-death returns rather than beside a guessed name."
+    },
+    {
+      "id": "R16-flavor-no-activation",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**When the entity activates:** Nothing is directed at anybody. The margin is four centimetres further out than it was last month, and that is the whole of the event.",
+      "new": "**When the margin moves:** Nothing is directed at anybody and no activation is announced. The monthly sounding finds the surveyed line centimetres from where last month staked it, and that discrepancy—not a visible event—is what the response answers."
+    },
+    {
+      "id": "R17-interaction-paper-only",
+      "kind": "careful interaction correction",
+      "careful": true,
+      "old": "Three holdings are entered beside the shore — The Memory Well, The Memory Weaver and The Echo Gardens — and the file keeps them as comparisons, never as friends or enemies. A joint watch states which reading moved when the second one arrived: the sound over the water, the movement of the surface, the temperature at the bank, the memory the observers were left carrying, the gauge, or the containment line, and beside that the range it kept, the time it lasted and what set it off.",
+      "new": "Three holdings are entered beside the Lake — The Memory Well, The Memory Weaver and The Echo Gardens — and the file keeps them as paper comparisons, never as friends or enemies. No joint proximity watch is run. Each comparison asks whether the other record stores, consumes or receives memory, and is answered against the sounding books, entry prohibitions and service-death returns rather than by bringing anything to the water."
+    },
+    {
+      "id": "R18-six-bearers",
+      "kind": "short equipment correction",
+      "careful": false,
+      "old": "*The six flasks were granted at stations where the conversation column was kept unbroken through a full watch, which the counselors regard as the only voluntary act this holding permits.*",
+      "new": "*The Flask has been granted to six recorded bearers at stations where the conversation column was kept unbroken through a full watch, which the counselors regard as the only voluntary act this holding permits.*"
+    },
+    {
+      "id": "R19-stat-no-extraction",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Stat interpretation:** γ across the set, and nothing here has ever been fought, so the grade describes extraction stability only. The human cost on this file is the flattening and, for two of six flask holders, one opening that was enough.",
+      "new": "**Stat interpretation:** γ across the set, and nothing here has ever been fought, so the grade describes custody and station-use stability, not permission to extract from the Lake. The human cost on this file is the flattening and, for two of six Flask bearers, one opening that was enough."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVγ-270_Memory_Lake_기억의_호수.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.020  clean   794 grams  M.A.W. Equipment\n 0.004  clean   570 grams  기록 (Registrum)\n 0.003  clean   366 grams  관찰 기록 (Observation Log)\n 0.002  clean   604 grams  Combat Record\n 0.000  clean  1122 grams  Apex Record\n 0.000  clean   771 grams  이야기 보고 (Story Log)\n 0.000  clean   574 grams  감각 묘사 (Flavor Text)\n 0.000  clean   440 grams  이야기 (Narratio)\n 0.000  clean   313 grams  Expansion Behavior\n 0.000  clean   233 grams  Trivia\n 0.000  clean   215 grams  Appearance\n 0.000  clean   164 grams  Origin\n 0.000  clean   154 grams  Operational Parameters\n 0.000  clean   132 grams  Behavior\n 0.000  clean   106 grams  최종 관찰 (Final Observation)\n 0.000  clean    99 grams  증언 (Testimonium)\n 0.000  clean    47 grams  SECC Classification\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   85   1  | { *Closed With a Grade and a Date* [**Ultimate**] } | \"Read out the year's death files at the stations: an hour and a half of da\n  251  16  **Full-set source review (2026-10-13):** Reviewed the grade overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use R\n  273   1  | **Post-contact review** | Soundings unrounded, scenes unattributed, the conversation column as marked, and the quarter's service\n  400   2  **Operational interpretation:** This file is read with the sounding books and the Records Office service-death returns beside it; \nGENERIC 0.003  (20 shared shingles)  SE-C-IVγ-270_Memory_Lake_기억의_호수.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-A__SIDE_CODEX_Mnemosyne.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-B__MAW-W_The_Lake_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-C__MAW-S_The_Lake_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-D__MAW-G_The_Lake_Flask.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-A__SIDE_CODEX_Mnemosyne.md": "50c4787a98d5649c650831713de2feb370e807446eadcedd01b5726a1d4d1ac2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-B__MAW-W_The_Lake_Requiem.md": "24dcc0c85aa42c31ef096d9f18a90ef364c0f90345fb501066946c13d9faa3b5",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-C__MAW-S_The_Lake_Shroud.md": "5a7fa41f1478852fd49932ac289e2fdc4265f8b15cee52adf101d9151935919a",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-D__MAW-G_The_Lake_Flask.md": "b4de9e45c029a57bf633239d2f89b45b7d5f9d4aa9db952f8e9b42457742369b"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVγ-270_Memory_Lake_기억의_호수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-270_Memory_Lake_%EA%B8%B0%EC%96%B5%EC%9D%98_%ED%98%B8%EC%88%98.md \"SE-C-IVγ-270_Memory_Lake_기억의_호수.md\")]",
+  "table_link": "[[C-IVγ-270 Memory Lake](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-270_Memory_Lake_%EA%B8%B0%EC%96%B5%EC%9D%98_%ED%98%B8%EC%88%98.md \"SE-C-IVγ-270_Memory_Lake_기억의_호수.md\")]",
+  "reading": {
+    "before_lines": 456,
+    "before_bytes": 53361,
+    "final_lines": 456,
+    "final_bytes": 54931
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 20,
+    "physical_form_rows_unchanged": 300,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": "The unsupported `15%` Gauge rise in Eleven Centimetres was removed because the file repeatedly states that the Gauge has never preceded or predicted margin movement; the recorded response is stand-down, re-staking and pulling the quarter's service-death returns."
+  }
+}

@@ -24,9 +24,15 @@ The Melting Veil is a pale veil of Han gossamer with seams that flow upward — 
 
 ## PROTECTION
 
+**Grade / Element:** α / Void
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 5 / 10 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
 
 **Defined Observer:** Resists loss of identity and spatial definition inside upward-melting architecture.
 
@@ -39,14 +45,3 @@ The Melting Veil is a pale veil of Han gossamer with seams that flow upward — 
 - **Void room:** warm emptiness replaces present relationships.
 
 **Maintenance:** Hang over a current-site marker until all seams stop rising. Do not fit it to a phantom room.
-
----
-
-**Document ID:** `SE-329-C`  
-**Linked Entity:** `SE-329`  
-**Item Registry Code:** `MAW-S-329-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

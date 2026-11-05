@@ -70,7 +70,7 @@ Alert Level 5. Echo-Core direct command; all lower-deck staff to high ground bef
 | **Han Pressure [ATK]** | 40–65 per hit · Lament |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It floods, and the concentrated sorrow of an ocean of tears dissolves the will of everyone submerged. 
+**Ability:** It floods, and the concentrated sorrow of an ocean of tears dissolves the will of everyone submerged.
 
 ### The Sorrow Fog (Non-Humanoid, Tide-Spawn-grade)
 

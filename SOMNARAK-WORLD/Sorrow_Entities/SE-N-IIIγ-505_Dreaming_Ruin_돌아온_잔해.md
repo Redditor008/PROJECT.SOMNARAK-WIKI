@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-505 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; clarity drains in everyone present and the partition on the bearing wall opens, neither of which leaves the chamber |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dreamlike figure built from the pieces of a ruined room — broken plaster, splintered wood, a shattered window held in the shape of a person. It rebuilds itself whenever someone remembers it. Bloodless-cold, it smells of ash; forgotten, it falls back to dust. |
-| **Movement** | Mobile within the registered area — logged at eleven distinct points in the Market; the facing at manifestation determines which part of the room it builds. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile within the registered area — logged at eleven distinct points in the Market. The facing at manifestation determines which part of the room it builds. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per completed work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 2 |
+| **Work Damage** | 3–5 Void — the cost is reconstruction rather than demolition, and the distinction governs the session |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -38,6 +39,8 @@
 
 
 ## Combat Record
+> **Why this file keeps combat actions.** It builds a different part of the ruined room at each of eleven logged points in the Market. And R-36's first test is the one it fails: a holding that moves within its area keeps its combat section whatever its attack row says about never having struck a person. The reading here is the panel count, and the repair is the numbers.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
@@ -71,11 +74,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Brick* [**Debuff**] } | "A brick appears where the ruin was — then another — the structure is rebuilding itself." | [The Ruin's reconstruction begins; the target senses the impossible renewal.] | *Target suffers a Void mark; what was destroyed is returning.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Ruin. |
-| { *The Accelerating Build* [**Debuff**] } | "The ruin rebuilds faster and faster — wall rising, arch forming — but the new walls are wrong, angrier." | [The Ruin's reconstruction accelerates; the new structure carries rage.] | *Target loses clarity; the rebuilt ruin is not the same as before.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Falling Stone* [**Attack**] } | "A stone from the rebuilding structure breaks free — heavier than the original, sharper." | [A piece of reconstructed ruin strikes.] | *Inflicts Void damage; the rebuilt material carries void-weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Ruin is disturbed. |
-| { *The Full Cycle* [**Attack**] } | "The ruin completes rebuilding — and immediately begins collapsing again — the cycle releasing all its energy." | [The Ruin's build-and-destroy cycle reaches its peak.] | *A heavy Void detonation of cyclic destruction; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Ruin is interrupted. |
-| { *The Eternal Cycle* [**Ultimate**] } | "Every ruin in the field rebuilds and collapses simultaneously — an endless loop of creation and destruction." | [The Ruin extends its cycle across the whole area.] | *All in range suffer Void erosion for three turns of endless ruin.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Brick* [**Debuff**] } | "It builds a different part of the room every time. And in sixty years it has never built the same part twice." | [The plan sheet comes out first: count the hatched panels and write the number before anything else happens. Sixty-one is baseline; the recorded range is thirty-eight to one hundred and seventy-one.] | *A Void mark on the session, not the worker: whatever the figure builds is hatched live by the sheet officer, and nothing is hatched on inference.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | At manifestation, wherever in the registered area it faces. |
+| { *The Accelerating Build* [**Debuff**] } | "The walls are not angrier. They are furnished — a door where a door would obviously go." | [Composure fails here as furnishing: the worker begins completing the room, and each completion is indistinguishable on the sheet from a genuine memory. Supplied detail is circled, never hatched.] | *Clarity taken in the furnished state: for about four months, the worker cannot say which rooms of their own childhood home they remember and which they have reconstructed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker supplies a part instead of holding one. |
+| { *The Falling Stone* [**Attack**] } | "It has never struck at a person. It builds, and whatever stands on the build bearing stops being a wall where the lost house had a doorway." | [Read the bearing off the last session log and evacuate the holding on that line first; twice, the holding behind the partition stood open for several minutes.] | *Void damage lands on containment, not bodies — numbness takes names and faces first, and in Year 4233 that cost the response eleven minutes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the build bearing crosses a standing partition. |
+| { *The Full Cycle* [**Attack**] } | "There is no cycle of build and collapse. The sheet moves when this facility writes to somebody that what they were given is equivalent to what they lost." | [A gain of twelve panels or more opens a documents search: which notices went out that fortnight, and how many carried the equivalence formula. It has succeeded twenty-six times out of twenty-nine.] | *The surge is ink, not energy: one word in one letter, served weeks after the dust settled by an office acting in good faith.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When notices carrying the equivalence formula are served. |
+| { *The Eternal Cycle* [**Ultimate**] } | "Eleven hundred notices, one word, a hundred and thirty-three panels in two months. Four years of named losses: thirty-eight." | [No loop extends anywhere. The plan has tracked the notice return for seven years and never once tracked the work done at the Market.] | *Void erosion across everyone named in no order, rehoused adequately and within eight weeks, with the parcel number the only identifier carried forward.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the facility substitutes a formula for a named loss at scale. |
 
 ### Battle Phases
 
@@ -100,7 +103,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Dream
 - **Primary marker:** A dreamlike figure made from pieces of a ruined room. It rebuilds itself whenever someone remembers it.
-- **Position / movement:** Not stationary. It manifests anywhere inside the registered area and has been logged at eleven distinct points in the Market; posture, facing, and distance from the plan's reference corner are recorded every time, because the facing determines which panel it is building.
+- **Position / movement:** Not stationary. It manifests anywhere inside the registered area and has been logged at eleven distinct points in the Market. Posture, facing, and distance from the plan's reference corner are recorded every time, because the facing determines which panel it is building.
 - **Element signature:** Void
 - **Registered location:** Zone C, Mask Market
 
@@ -114,7 +117,7 @@
 | **Distinctive markers** | It never restores the same wall twice. No two appearances in sixty years have built the same panel, which is why the sheet is cumulative and why a repeat would be the single most important observation this holding could produce. |
 | **Identification** | Panel count against the last session's sheet. Do not identify on the figure's appearance; it is visually identical across its whole recorded range. |
 
-**Appearance protocol:** Bearing, distance from the reference corner, and the panel being built, hatched onto the sheet while it is being built. Nothing is hatched from memory after the session and nothing is hatched on inference. Blank panels stay blank however obvious the room makes them; the blankness is the most informative feature of the sheet and there are four signed instructions in the folder refusing to let anyone tidy it.
+**Appearance protocol:** Bearing, distance from the reference corner, and the panel being built, hatched onto the sheet while it is being built. Nothing is hatched from memory after the session and nothing is hatched on inference. Blank panels stay blank however obvious the room makes them. The blankness is the most informative feature of the sheet and there are four signed instructions in the folder refusing to let anyone tidy it.
 
 ## Origin
 - **Formation:** The Ruin formed from a home remembered after it was destroyed.
@@ -127,10 +130,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Rebuilds a gentle portion of the remembered room. | Decrease |
-| **Pugnahan** | Collapses and throws dream debris. | Increase |
-| **Viderehan** | Reveals which parts are memory and which are invention. | Stable |
-| **Ferrehan** | Tests whether the worker can leave the ruin. | Decrease |
+| **Flerehan** | Rebuilds a gentle portion of the remembered room. | Decrease · High |
+| **Pugnahan** | Collapses and throws dream debris. | Increase · Low |
+| **Viderehan** | Reveals which parts are memory and which are invention. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can leave the ruin. | Decrease · Common |
 
 
 
@@ -150,7 +153,7 @@ Flerehan lowers the gauge because it rebuilds a part of the room the worker genu
 | **Effect** | Clarity drain in everyone present, and a event in the partition on the build bearing. Two incidents, Year 4229 and Year 4233; in both, the holding behind the partition stood open for several minutes. |
 | **Secondary Effect** | Numbness that takes names and faces first. Personnel who cannot name a colleague cannot report which holding has opened, and in Year 4233 that cost the response eleven minutes. |
 | **First Target** | No target. It builds toward where the lost house had its opening, and the first casualty is whatever containment is standing on that line. |
-| **Escalation** | Clarity drain +5 a turn. Structural risk does not escalate with time; it is decided at the moment of event by the bearing, and the bearing is knowable in advance from the session log. |
+| **Escalation** | Clarity drain +5 a turn. Structural risk does not escalate with time. It is decided at the moment of event by the bearing, and the bearing is knowable in advance from the session log. |
 
 ### Escalation Notes
 
@@ -166,7 +169,7 @@ Flerehan lowers the gauge because it rebuilds a part of the room the worker genu
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A compact siege arbalest mounting high-tensile steel prod arms, a geared bronze cranequin spanning mechanism, and a grooved bone track carved with flight calculations.
+**Appearance:** A compact siege arbalest mounting high-tensile steel prod arms, a geared bronze cranequin spanning mechanism, and a grooved bone track carved with flight calculations.
 
 The weapon launches heavy square-headed bolts attached to microscopic retrieval cables. An internal spring-spool winds the bolt back into the loading groove instantly upon a missed discharge.
 
@@ -183,7 +186,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Ability:** Void damage to the Soul. The target loses the detail they were least sure of — not the strongest memory, the weakest one — and the piece has no setting and no aim beyond that.
 
-**Cost:** The wielder loses small, unnamed things from their own home. They are reported afterwards as a wrongness in a room rather than as a missing object, and no wielder has ever named what went.
+**Bearer cost:** The wielder loses small, unnamed things from their own home. They are reported afterwards as a wrongness in a room rather than as a missing object, and no wielder has ever named what went.
 
 ### M.A.W. Suit — The Ruin Veil
 
@@ -201,7 +204,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Ability:** Resists Void pressure on the Soul. Worn by the officer carrying the plan sheet, since the sheet-holder stands nearest and the record of what was built must survive the session intact.
 
-**Cost:** The wearer feels faintly absent from their own rooms for about a day afterwards. Ten of eleven wearers describe it unprompted in the same three words and the eleventh had not slept at home that week.
+**Bearer cost:** The wearer feels faintly absent from their own rooms for about a day afterwards. Ten of eleven wearers describe it unprompted in the same three words and the eleventh had not slept at home that week.
 
 ### M.A.W. Stigma — The Ruin Shard
 
@@ -215,7 +218,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Ability:** Reconstructs one remembered room for a short time.
 
-**Cost:** The user loses a present detail from their own home.
+**Bearer cost:** The user loses a present detail from their own home.
 
 *The shard has been granted five times, always to a worker who, in the session, declined to hatch a panel they were not certain of. The holding records the pattern, has declined twice to call it a reward, and has never promoted it to a rule, on the ground that a worker performing uncertainty to earn a charm is the furnished state with extra steps.*
 
@@ -235,7 +238,7 @@ Nothing in the set protects the person holding it; each item lengthens this Ruin
 **Stat interpretation:** γ across the set, correctly rated against entities. Against the wielder the whole set works one way — it takes the detail you were least sure of — and the facility has no column for what that does to a person over twenty years of service.
 ## 관찰 기록 (Observation Log)
 
-**Full-set source review (2026-10-12):** Reviewed the overview and every local M.A.W. claim—including the Weapon/Suit/Stigma blocks, Use Notes, Field Use Record, Stat interpretation, and whole-set protection/reach statements—against exact set `SE-1036-A` for `N-IIIγ-505 [VS]`, items `SE-1036-B/C/D`, Registry rows 306–309, Master M.A.W. rows/details 439–441, Entity Codex row 514, Tale 147, and archetype rows `MAW-W-505` and `MAW-W-1036`. The blank overview is now `— · γ`, supported by all three local pieces, Side A/items, and the Master table; no Tool type is supplied. Weapon values agree locally and with Side/item B (Void 7–12, Fast 3, Medium 3, max 3, 40 Echoes, Skewer); identity does not: local/Master-table *The Returning Arbalest* versus Side/item B and detailed Entry 439 *The Ruin Lens*. `MAW-W-505` is a heavy-steel cranequin arbalest / Instant, unlike the local Fast/Medium band; linked-code `MAW-W-1036` is a Cathedral Bell-Maul / Close. The exact suffix sibling `C-IVδ-505` belongs to `SE-505` Cold Burn, whose linked item is *Cold Burn Lens* (`MAW-W-505-01`, Void 5–9 / Normal / Short); this repeated local Arbalest title does not connect it to the selected `SE-1036` *Ruin Lens* (`MAW-W-1036-01`). Suit values align with Side/item C, but the Suit's Void resistance/ability and Side resonance's bearer-protection role conflict with Use Notes saying “Nothing in the set protects the person holding it”; retain both accounts. Master row 440's Living Chitin & Carapace category does not describe the local gossamer veil, and Side/item C has no Appearance crosswalk. Stigma Head / 4% / `+2` agrees locally and with Side/item D; the Registry's generic Accessory/5% and Master row 441's Relic Drops & Seeds category do not establish another slot/chance. Entity Codex/Tale use *The Returning Ruin* where this primary and Side set use *Dreaming Ruin*; that naming difference does not alter the M.A.W. link. All unresolved identity, appearance, slot/chance, and protection claims remain holds; only the supported overview grade changed.
+**Full-set source review (Year 4238):** Reviewed the overview and every local M.A.W. claim—including the Weapon/Suit/Stigma blocks, Use Notes, Field Use Record, Stat interpretation, and whole-set protection/reach statements—against exact set `SE-1036-A` for `N-IIIγ-505 [VS]`, items `SE-1036-B/C/D`, Registry rows 306–309, Master M.A.W. rows/details 439–441, Entity Codex row 514, Tale 147, and archetype rows `MAW-W-505` and `MAW-W-1036`. The blank overview is now `— · γ`, supported by all three local pieces, Side A/items, and the Master table; no Tool type is supplied. Weapon values agree locally and with Side/item B (Void 7–12, Fast 3, Medium 3, max 3, 40 Echoes, Skewer). Identity does not: local/Master-table *The Returning Arbalest* versus Side/item B and detailed Entry 439 *The Ruin Lens*. `MAW-W-505` is a heavy-steel cranequin arbalest / Instant, unlike the local Fast/Medium band; linked-code `MAW-W-1036` is a Cathedral Bell-Maul / Close. The exact suffix sibling `C-IVδ-505` belongs to `SE-505` Cold Burn, whose linked item is *Cold Burn Lens* (`MAW-W-505-01`, Void 5–9 / Normal / Short). This repeated local Arbalest title does not connect it to the selected `SE-1036` *Ruin Lens* (`MAW-W-1036-01`). Suit values align with Side/item C, but the Suit's Void resistance/ability and Side resonance's bearer-protection role conflict with Use Notes saying “Nothing in the set protects the person holding it”; retain both accounts. Master row 440's Living Chitin & Carapace category does not describe the local gossamer veil, and Side/item C has no Appearance crosswalk. Stigma Head / 4% / `+2` agrees locally and with Side/item D. The Registry's generic Accessory/5% and Master row 441's Relic Drops & Seeds category do not establish another slot/chance. Entity Codex/Tale use *The Returning Ruin* where this primary and Side set use *Dreaming Ruin*; that naming difference does not alter the M.A.W. link. All unresolved identity, appearance, slot/chance, and protection claims remain holds; only the supported overview grade changed.
 
 **R.D. Comprehension Level:** 2 — Basic
 
@@ -243,7 +246,7 @@ Nothing in the set protects the person holding it; each item lengthens this Ruin
 - Its architecture changes with each observer.
 - Personnel feel grief after waking.
 
-**Personnel Note:** *"Nobody at the Market is doing anything to it. I worked this holding nine years and the sheet moved on days we never opened the gate. It is reading the post. We gave eleven hundred people a letter that said equivalent and it put a hundred and thirty-three panels on my plan in two months, and I sat there the whole time writing up contact hours like the contact was the point."* — Warden, Mask Market holding
+**Personnel Note:** *"Nobody at the Market is doing anything to it. I worked this holding nine years and the sheet moved on days we never opened the gate. It is reading the post. We gave eleven hundred people a letter that said equivalent and it put a hundred and thirty-three panels on my plan in two months. And I sat there the whole time writing up contact hours like the contact was the point."* — Warden, Mask Market holding
 
 
 
@@ -256,7 +259,7 @@ Nothing in the set protects the person holding it; each item lengthens this Ruin
 | **Activation or escalation** | A gain of twelve panels or more between consecutive sheets opens a documents search rather than a field response: which notices went out that fortnight, and how many carried the equivalence formula. The search has succeeded twenty-six times out of twenty-nine. |
 | **Post-contact review** | Both panel counts, the build bearing, the circled supplied details, and the fortnight's notices attached with the equivalence sentence transcribed in full. Reviews that summarise the sentence are returned; two summaries softened it to nothing. |
 
-**Observation method:** One cumulative plan sheet, one hundred and eighty-four gridded panels, hatched during the session by the officer holding the sheet and by nobody else. Four proposals to infer the blank panels from the parcel's building plans have been refused on the same ground: the entity has never built a room, only the parts of one that someone still holds, and a plan completed from the archive would measure the archive.
+**Observation method:** One cumulative plan sheet, one hundred and eighty-four gridded panels, hatched during the session by the officer holding the sheet and by nobody else. Four proposals to infer the blank panels from the parcel's building plans have been refused on the same ground: the entity has never built a room, only the parts of one that someone still holds. And a plan completed from the archive would measure the archive.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -271,12 +274,12 @@ The first return under the Rule of the Named Loss, Year 4238. This facility issu
 I signed the clearance notices for eleven hundred dwellings and the word on all of them was equivalent. It is a true word in the sense the form means it: comparable floor area, comparable amenity, comparable standard. A man came to the counter with his notice and asked me which part of it was the kitchen his wife died in. I said the form does not record that. He said then it is not equivalent, and he was correct, and the form had no place to put him being correct. I want it recorded that I believed I was doing the decent thing. We rehoused everyone. Nobody slept outdoors. We did it inside eight weeks and I was commended for it. The thing we did badly took one word and it is the word I would have defended hardest.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IIIγ-505 is a plan sheet at the Market and a drafting rule at the housing office. Market: cumulative hatching during the session only, nothing inferred, blank panels left blank; bearing and distance from the reference corner logged at every manifestation; Pugnahan once per session at most, with the withdrawal of that authorisation standing recommended since Year 4234; the build bearing read off the last session log and held at the response desk, because this holding's event opens other holdings and the only warning available is the direction it was facing. Housing office duties, binding on every notice this facility serves: **a notice of relocation, substitution or replacement must name what was lost, in the words the person who lost it used, and may not state or imply that what is provided is equivalent to it.** Adequacy, where it must be certified, is certified on a separate sheet signed by the recipient and is kept out of the notice. Work response — Flerehan: rebuilds a portion the worker genuinely holds (Decrease); Pugnahan: debris, partition risk (Increase); Viderehan: separates memory from invention (Stable); Ferrehan: tests whether the worker can leave the room standing (Decrease).
+Containment of N-IIIγ-505 is a plan sheet at the Market and a drafting rule at the housing office. Market: cumulative hatching during the session only, nothing inferred, blank panels left blank. Bearing and distance from the reference corner logged at every manifestation. Pugnahan once per session at most, with the withdrawal of that authorisation standing recommended since Year 4234. The build bearing read off the last session log and held at the response desk, because this holding's event opens other holdings and the only warning available is the direction it was facing. Housing office duties, binding on every notice this facility serves: **a notice of relocation, substitution or replacement must name what was lost, in the words the person who lost it used, and may not state or imply that what is provided is equivalent to it.** Adequacy, where it must be certified, is certified on a separate sheet signed by the recipient and is kept out of the notice. Work response — Flerehan: rebuilds a portion the worker genuinely holds (Decrease). Pugnahan: debris, partition risk (Increase); Viderehan: separates memory from invention (Stable). Ferrehan: tests whether the worker can leave the room standing (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Named Loss>**
 The housing office opposed this rule and I am putting their case first, because it is not a weak one and because the people who will pay for my decision are not the people who made it.
 
-Their position: the settlement form requires a statement of adequacy, the word *equivalent* is what satisfies it, and without it no claim can be closed. A claim that cannot be closed is a household living on an interim allocation with no security of tenure, sometimes for years. The office's director wrote that I was proposing to make eleven hundred people wait in order to spare them a word, and that she would like it noted that she has rehoused every person this facility has ever displaced and that the plan sheet has never recorded that.
+Their position: the settlement form requires a statement of adequacy, the word *equivalent* is what satisfies it, and without it no claim can be closed. A claim that cannot be closed is a household living on an interim allocation with no security of tenure, sometimes for years. The office's director wrote that I was proposing to make eleven hundred people wait in order to spare them a word. And that she would like it noted that she has rehoused every person this facility has ever displaced and that the plan sheet has never recorded that.
 
 What we have done is narrow. Adequacy is certified on a separate sheet, which the recipient signs, and it stays out of the letter. The letter names what was lost in the claimant's own words. The claim closes on the certificate.
 
@@ -301,9 +304,9 @@ A wall rises from dream-dust. A familiar chair appears, then a door, then the so
 
 **At first contact:** Broken plaster, splintered wood, a shattered window, carried in the shape of a person and holding together with no visible reason to. It is building something. What it is building is always a part of a room and never a room, and the incompleteness is the first thing that asks you for help.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** Over a year the count detaches from the session and attaches to the notice return. Observers holding both columns stop proposing new work at the Market; there is nothing to do there but hatch honestly and send the sheet on.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Void that was merely present becomes active, directed, purposeful — the Subject-Dream was holding back, and now it isn't.
+**When the entity activates:** It was never holding back. It builds on the bearing it was facing, and the protocol exists for what stands on that line: a team that braces the walls is bracing the wrong thing.
 
 **After departure:** You go home and the rooms are slightly wrong, and you cannot say which part. It passes in a day for most people. The counselling wing logs it and does not treat it as exposure.
 
@@ -321,7 +324,7 @@ Three records are grouped with this one because all four concern buildings that 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **The Returning Tree** | Grouped on lost homes. It answers to the ground the home stood on; this one answers to a letter. The shared term is doing all the work and none of it is operational. | No trial and none permitted. The claimed resonance rests on one line of a Year 4211 summary with no measurement behind it. | That the resonance claim is unevidenced, written beside it each time it is repeated. |
-| **The Loom of Unlived Dreams** | Both build rooms, and the difference is the whole file: the Loom builds rooms nobody lived in, this builds parts of a room people did. A Loom room can be completed. A panel here cannot. | Paper only. Reading them together is how the circle-versus-hatch convention on the sheet was arrived at. | The completable-incompletable distinction, on any document placing the two together. |
+| [**The Loom of Unlived Dreams**](SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md) | Both build rooms, and the difference is the whole file: the Loom builds rooms nobody lived in, this builds parts of a room people did. A Loom room can be completed. A panel here cannot. | Paper only. Reading them together is how the circle-versus-hatch convention on the sheet was arrived at. | The completable-incompletable distinction, on any document placing the two together. |
 | **The Vanished Tower** | Erased from the maps; this was cleared with notice and compensation and everything done correctly. The pair is the archive's best demonstration that procedural correctness is not what either holding measures. | A transfer was proposed in Year 4230 to move burden off the Tower. Refused on the partition incidents. | The proposal and its refusal kept together; the refusal has been renewed once. |
 
 **Interaction procedure:** Both records in full, the signed one-sentence answer, and the quarter's plan sheets attached. Refusals on this file are cited rather than re-argued, and the pairing refusal now carries three citations.
@@ -334,7 +337,7 @@ The household was destroyed — a home, a family dwelling, a place where people 
 
 The former residents survived. They moved to new dwellings, new districts, new lives. But they could not stop dreaming of the old house. The rooms returned, nightly, in sleep — the kitchen, the bedroom, the hallway, the window that faced the street, every corner of the lost home reconstructed, perfectly, in the dreaming. The former residents dreamed the house so faithfully, so completely, that the dream-house became more real, in sleep, than the waking dwelling that had replaced it.
 
-The dreaming accumulated. Night after night, year after year, the former residents — and their children, who had never lived in the house but inherited the dreaming — rebuilt the lost home in sleep, and the rebuilding, sustained across generations, reached a density that crossed from dream into form. Dreaming Ruin is that cross: Subject-Dream, Void-element, a house that exists only in the dreaming of its former residents, reconstructed perfectly in their sleep, standing — when the dreams are strong enough — as a visible ruin in the waking world, flickering at the edge of perception, there and not-there, real and unreal.
+The dreaming accumulated. Night after night, year after year, the former residents — and their children, who had never lived in the house but inherited the dreaming — rebuilt the lost home in sleep. And the rebuilding, sustained across generations, reached a density that crossed from dream into form. Dreaming Ruin is that cross: Subject-Dream, Void-element, a house that exists only in the dreaming of its former residents, reconstructed perfectly in their sleep, standing — when the dreams are strong enough — as a visible ruin in the waking world, flickering at the edge of perception, there and not-there, real and unreal.
 
 The Ruin is the grief of a home remembered after destruction — the specific pain of returning, in sleep, to a place that exists only as memory, of walking rooms that are gone, of sitting in a kitchen that was demolished, of living, nightly, in a house the waking world has erased.
 
@@ -358,7 +361,7 @@ Some sorrows mourn a place. Dreaming Ruin mourns the persistence of the place �
 **Common Name:** Dreaming Ruin
 **Containment Status:** Contained — Zone C, Mask Market quarter
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major, and Negative in disposition. The Registrum carried this holding as Echo (II), Moderate (β) and Low against a SECC header of Fragment (III) and Major (γ), a Major encounter role, High difficulty and a 653 gauge, and it recorded the containment in Zone D when every operational section places it in Zone C. Both errors have been corrected. The Negative disposition rests on the Year 4229 and Year 4233 partition incidents, in which reconstruction through a standing wall left a neighbouring holding open; the figure has never attacked a person and that is not the reason for the rating.
+**Threat Assessment:** Major, and Negative in disposition. The Registrum carried this holding as Echo (II), Moderate (β) and Low against a SECC header of Fragment (III) and Major (γ), a Major encounter role, High difficulty and a 653 gauge. And it recorded the containment in Zone D when every operational section places it in Zone C. Both errors have been corrected. The Negative disposition rests on the Year 4229 and Year 4233 partition incidents, in which reconstruction through a standing wall left a neighbouring holding open. The figure has never attacked a person and that is not the reason for the rating.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan lower the gauge. Viderehan holds it level and produces the record. Earlier editions named Viderehan as primary and crews were assigned on that basis.
 - Cumulative plan sheet, 184 panels, hatched live during the session by the sheet officer alone. Nothing inferred. Blank panels stay blank.
@@ -406,9 +409,9 @@ What the entity carries is the pain of going back to somewhere that is no longer
 
 ### Registry Trivia
 
-- **Classification detail:** Subject, Fragment (III), Major (γ), Comprehension Level 2, disposition Negative. The Registrum disagreed with the SECC header on coherence, potency, threat and zone for an unknown period and has been corrected against it.
+- **Classification detail:** Subject, Fragment (III), Major (γ), Comprehension Level 2, disposition Negative.
 - **Field detail:** Void; Mask Market quarter, Zone C. Testimony in this file previously carried Zone D attributions inherited from the Registrum error and has been read against the duty rosters.
-- **Recognition detail:** Identify it by the panel count, not by the figure. The figure looks the same at thirty-eight panels and at a hundred and seventy-one; the plan is the only thing that moves, and three early reports describe an unchanged session on days the sheet gained nine panels.
+- **Recognition detail:** Identify it by the panel count, not by the figure. The figure looks the same at thirty-eight panels and at a hundred and seventy-one. The plan is the only thing that moves, and three early reports describe an unchanged session on days the sheet gained nine panels.
 - **Record detail:** Check the designation and check what the record is about. Homeless Sorrow turns on space reallocated to another use. The Vanished Tower turns on architecture erased from the city's own maps. This one turns on the notice served afterwards and on one word in it. A facility can rehouse every displaced person it has, promptly and in good faith, and still feed this holding with the sentence it writes at the bottom of the letter.
 - **Containment detail:** The figure can be held. The word in the letter cannot, and the letter is written four districts away by people who have never seen the holding and are doing their jobs properly.
 ## Document Information

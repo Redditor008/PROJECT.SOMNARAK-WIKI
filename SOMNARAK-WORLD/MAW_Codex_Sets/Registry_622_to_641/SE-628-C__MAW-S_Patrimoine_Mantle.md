@@ -65,14 +65,3 @@ A dark stitch remains at the seventh hem marker and tightens whenever the wearer
 Vial collects room pressure, Mantle moves it, and Maul prepares the bed. Full-set safety depends on no living carrier being called the endpoint.
 
 > *“I stopped to help and became the place the grief was trying to stop.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-628-C`  
-**Linked Entity:** `SE-628`  
-**Item Registry Code:** `MAW-S-628-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -55,14 +55,3 @@ The Shroud was issued to Old Lament archivists after early recorders developed h
 ## SET RESONANCE
 
 With Requiem and Stone, Clear Channel can preserve one selected whisper without allowing the rest of the wall chorus to follow the bearer outside the building.
-
----
-
-**Document ID:** `SE-011-C`  
-**Linked Entity:** `SE-011`  
-**Item Registry Code:** `MAW-S-011-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

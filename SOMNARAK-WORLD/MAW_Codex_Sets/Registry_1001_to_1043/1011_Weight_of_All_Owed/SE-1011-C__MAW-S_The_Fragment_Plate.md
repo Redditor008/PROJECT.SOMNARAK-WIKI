@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Fragment Plate
 
-> *“The Fragment Plate remembers Weight of All Owed; the bearer must not mistake memory for permission.”*
+> *"The fragments accumulate, and each one is answered as if the wearer had agreed to it."*
 
 ---
 
@@ -17,7 +17,11 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Converts physical impact into resistance.  
-**Binding rule:** the bearer names Weight of All Owed's event—A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Weight of All Owed's event — “A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.” — and accepts this limit: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind.  
+**Gauge:** 000/910; opens at 000%; no attack pattern is filed for this Weight manifestation — the three-dimensional position and station drift are the reading.
+### Appearance
+
+A plated harness of Weight Han-steel, matte and heavy out of proportion to its size, that sets on the shoulders like a carried thing and settles lower the longer it is worn.
 
 ## CORE STATISTICS
 
@@ -25,33 +29,26 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries every obligation represented by the plate. Continued use makes Weight of All Owed's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The wearer carries every obligation represented by the plate, and the fragments accumulate: each one is answered as if the wearer had agreed to it.
 
 ## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Suit Record*
 
-The first The Fragment Plate field bearer encountered this source response: Tests whether the worker can remain beneath its pressure. The suit marks the immediate hazard only after the team attributed it to Weight of All Owed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fragment Plate encountered this source response: Tests whether the worker can remain beneath its pressure. The suit marks the immediate hazard only after the team attributed it to Weight of All Owed. A wearer answered for an obligation that came with a fragment nobody had handed them, and the Plate’s binding is the list kept from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Weight of All Owed's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the fragments accumulate faster than they can be answered, and each one is treated as agreed.
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1011 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Fragment Plate only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Fragment Plate; shutdown preserves the record but does not refund its cost.
+**Failure mode:** violating “viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind.” reverses the item’s benefit and raises the source Gauge — a 000/910 meter that opens at 60–80%.
+**Maintenance:** The Plate is weighed on the shoulders before and after each shift — it settles lower the longer it is worn, and what matters is how far it has settled since the last answer — and every fragment gets one answer in writing on the day it arrives.  
+**Emergency shutdown:** two people lift it at the shoulders while the wearer says, for each fragment still on the harness, whether they agreed to it or only stopped objecting; anything in the second column comes off and goes back to the monument ledger. Obligations already answered stay answered.
 
 ## SET RELATIONSHIP
 
-Within *Weight of All Owed — Witnessed Form*, The Fragment Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1011-C`  
-**Linked Entity:** `SE-1011`  
-**Item Registry Code:** `MAW-S-1011-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Weight of All Owed — Witnessed Form*, The Fragment Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can refuse one fragment’s obligation; the first they cannot, the Plate is out.

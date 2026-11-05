@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Grudge |
 | Form | Broken gray walls, dead timber, and bone-flecked mortar that resolve only when someone remembers the destroyed tenement. |
-| Gauge / Pressure | 35–50% / Grudge 10–23 |
+| Gauge / Pressure | 000/240; starts 000% / Grudge — no attack pattern; the footprint against the old survey is the reading |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Rooms Remembered |
 
@@ -44,10 +44,10 @@ Holdout hazes between dust and architecture. Long-dead timber appears to bleed s
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Mourning occurs through witness, not Subject engagement. |
-| Pugnahan | Not valid; challenge triggers phantom collapse. | N/A | Do not attack an absent structure. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Mourning occurs through witness, not Subject engagement. |
+| Pugnahan | Not valid; challenge triggers phantom collapse. | Net-Neutral | Do not attack an absent structure. |
 | Viderehan | Shows residents and purpose of the rooms. | Stable | Record only corroborated layout. |
-| Ferrehan | Tests remaining in a place that cannot be repaired. | Down | Accept loss without staging a replica. |
+| Ferrehan | Tests remaining in a place that cannot be repaired. | Decrease | Accept loss without staging a replica. |
 
 **Resolution:** Memorialize the structure; do not reconstruct a false version.  
 **Expansion:** Denied or justified destruction spreads phantom instability through Alpha Tree memory spaces.  
@@ -99,13 +99,3 @@ An echo forms where two independent survivor memories agree on one room boundary
 **Primary source:** `SE-C-IIβ-240_Holdout_사라진_잔해.md`
 
 **Formal-ID note:** `SE-240` is assigned to Holdout. Three Forty-Seven and Solace are deferred source-suffix siblings requiring later unique formal IDs.
-
----
-
-**Document ID:** `SE-240-A`  
-**Linked Entity:** `SE-240`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

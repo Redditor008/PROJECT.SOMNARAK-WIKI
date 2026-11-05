@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Somnolent Trench-Rifle
+# M.A.W. WEAPON — The Sleeping Lens
 
-> *“The Sleeping Lens remembers Vanity Asleep; the bearer must not mistake memory for permission.”*
+> *"The rifle puts what it hits to sleep without waking it, and takes a little of the wielder's own alertness for each shot."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Vanity Asleep's void signature in the strike.  
-**Binding rule:** the bearer names Vanity Asleep's event—Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence.—and accepts this limit: Do not wake it by force; look at the reflected self without turning away
+**Binding rule:** the bearer names Vanity Asleep's event — “Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence.” — and accepts this limit: Do not wake it by force; look at the reflected self without turning away
 
 ## Appearance
 
-Appearance : A rugged bolt-action service rifle fitted with a thirty-inch blued barrel, full-length wooden stock, brass butt-plate, and an extended five-round detachable box magazine.
+A rugged bolt-action service rifle fitted with a thirty-inch blued barrel, full-length wooden stock, brass butt-plate, and an extended five-round detachable box magazine.
 
 The weapon cycles low-velocity lead projectiles filled with condensed narcotic vapor. The report is low and throaty, leaving behind a faint lavender fog that dulls the senses of nearby combatants.
 
@@ -31,16 +31,20 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 |---:|---:|---:|---|---:|
 | Void 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Vanity Asleep's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
+**Operational / binding cost:** The Rifle puts what it hits to sleep without waking it: each shot costs the wielder a little of their own alertness. Used long, the wielder is dreaming on their feet.
 
 ## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Weapon Record*
 
-The first The Sleeping Lens field bearer encountered this source response: Its reflection fractures into hostile versions of the worker. The weapon marks the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sleeping Lens encountered this source response: Its reflection fractures into hostile versions of the worker. The weapon marks the immediate hazard only after the team attributed it to Vanity Asleep. A wielder was found dreaming on their feet at a post and could not say when it had started, and the Sleeping Lens’s binding is the report from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Vanity Asleep's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the alertness goes before the shot rather than after it, and the wielders sleep with their eyes on the target.
 - Terminal state: Vanity Asleep's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it by force; look at the reflected self without turning away” reverses the item’s benefit and raises the source Gauge.  
@@ -49,15 +53,4 @@ The first The Sleeping Lens field bearer encountered this source response: Its r
 
 ## SET RELATIONSHIP
 
-Within *Vanity Asleep — Witnessed Form*, The Sleeping Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-954-B`  
-**Linked Entity:** `SE-954`  
-**Item Registry Code:** `MAW-W-954-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Vanity Asleep — Witnessed Form*, The Sleeping Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a shot after which its wielder is awake.

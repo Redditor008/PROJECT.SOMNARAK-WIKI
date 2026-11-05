@@ -19,10 +19,10 @@ The entity formed from a city that stopped listening to its own final words. The
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-965 [N] |
-| Type / Manifestation | Subject — Can breach / Subject-Weight |
+| Type / Manifestation | Subject — Non-breaching: transformation in place / Subject-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Grudge / Zone C, Collector's Row |
-| Gauge / Pressure | 227/227; starts 25–40% / 2–7 per hit · Grudge |
+| Gauge / Pressure | 000/227; starts 000% / 2–7 per hit · Grudge |
 | Observation | 1 — Initial |
 | Formation event | A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained. |
 
@@ -40,7 +40,7 @@ The entity formed from a city that stopped listening to its own final words. The
 
 ## WITNESS RECORD — *The Unheard Source-Trace*
 
-During the The Unheard Source-Trace, the field team preserved this source fact: A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of reaching the end of speech and discovering that no one fought to preserve it.
+During *The Unheard Source-Trace*, the field team preserved this source fact: A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of reaching the end of speech and discovering that no one fought to preserve it.
 
 ## M.A.W. SET — *Unheard — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Unheard Source-Trace, the field team preserved this source fact: 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Unheard's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not force sound into it; listen and record what remains The set cannot heal the originating event. Misuse routes Unheard's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-965-A`  
-**Linked Entity:** `SE-965`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

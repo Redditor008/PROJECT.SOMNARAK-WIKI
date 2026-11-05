@@ -1,5 +1,12 @@
 # Batch169 evidence
 
+> **Historical snapshot — not a statement of the current file.** This is the Batch169 review as it was written, kept unchanged so the record of what that review found survives intact. Its `holds` are open questions **as of Batch169**, in the review's own run-together shorthand; several have since been settled in the dossier by batches 132–134. Read them as the state of the file at that time, not as current defects.
+>
+> The two this file is most often read for are closed. The **material conflict** — *"pliant living-skin/not-crystal versus warm Han-crystal"* below — is settled in the dossier's `## Appearance` under **One body, grown and not cut**: Kind Echo is Han-crystal that *grew*, which is why it has no facet, no chisel-mark and no seam, and its cooled skin yields under a hand like fruit rather than stone. The **gauge/event contradiction** — *"no activation/zero risk versus … 65/80/40 activation series"* — is settled as one ladder stated once: **40%** the zone begins to turn, **65%** where The Fading Out releases, **80%** the activation threshold.
+>
+> The current dossier is the authority in every case. This file is evidence of a review, not a review of today's text.
+
+
 ## Batch169 unit5 — Kind Echo `C-Iα-000`
 
 [[SE-C-Iα-000_Kind_Echo_친절한_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-000_Kind_Echo_%EC%B9%9C%EC%A0%88%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-Iα-000_Kind_Echo_친절한_메아리.md")]
@@ -93,8 +100,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1001_The_Kind_Echo/SE-1001-C__MAW-S_Standard_Training_Vest.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1001_The_Kind_Echo/SE-1001-D__MAW-G_The_Warm_Stone.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
@@ -120,8 +127,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1001_The_Kind_Echo/SE-1001-C__MAW-S_Standard_Training_Vest.md": "7f2d281745a88edbb3168be7214ca67785c39ac8bd4705e1455194312404ec5c",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1001_The_Kind_Echo/SE-1001-D__MAW-G_The_Warm_Stone.md": "52d59c806cdbb8d3a936031673b86ccccbd746acc0825e5e0883d845e26b25df",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"

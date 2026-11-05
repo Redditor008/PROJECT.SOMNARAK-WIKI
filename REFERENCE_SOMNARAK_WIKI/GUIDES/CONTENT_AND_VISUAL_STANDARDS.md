@@ -1,0 +1,282 @@
+# Somnarak Wiki — Content Depth and Visual Identity Standards
+
+**Effective:** 2026-08-31  
+**Authority:** Direct project-owner instruction  
+**Status:** Binding publication gate for every public page and every new or revised visual asset
+
+This document preserves the project-owner rules that were previously given conversationally and could not be found as a durable changelog or specification. These requirements supersede any older instruction that allows a 100-word page, a generic template page, a title-only illustration, a recolored duplicate, or a prohibition against silhouettes.
+
+---
+
+## 1. The 200-word floor
+
+Every public HTML page must contain **at least 200 words of meaningful, page-specific editorial content**. Two hundred words is the floor, never a target and never a ceiling.
+
+The rule applies to every public page type:
+
+- encyclopedia articles;
+- category and list hubs;
+- character and faction records;
+- Sorrow Entity and M.A.W. dossiers;
+- Facility, map, mechanics, operation, and story pages;
+- project, download, error, and utility pages, including the 404 page.
+
+### What counts
+
+Count the meaningful text in the page’s primary content area. Titles, prose, captions, tables, lists, testimony, and page-specific labels may count when they communicate real information.
+
+Do **not** count shared site chrome or repeated scaffolding:
+
+- global header, side rails, and footer;
+- breadcrumbs and article/discussion/source/history tabs;
+- table-of-contents labels;
+- repeated cross-navigation directories;
+- search controls;
+- generic status labels copied across the site;
+- invisible metadata, alt text, CSS, JavaScript, or comments.
+
+### What is forbidden
+
+- Padding a short page with filler, circular phrasing, or repeated paragraphs.
+- Copying unrelated source material merely to cross the threshold.
+- Treating 200 words as a reason to truncate a source-rich page.
+- Publishing a stub now with a promise to complete it later.
+- Counting a large navigation menu as article content.
+
+A page under 200 editorial words fails publication. A page at or above 200 words can still fail if it is generic, repetitive, misplaced, unsupported by source, or visually unfinished. The normal encyclopedia target remains **300+ words whenever the source supports it**, with no upper limit imposed by this rule.
+
+---
+
+## 2. No plain, generic, or swap-template pages
+
+A Somnarak page must never look or read like a generic template whose title, accent color, and nouns were exchanged.
+
+Shared navigation and accessibility behavior may remain consistent across the site, but the page’s editorial composition must be specific to its subject. Page-specific design can come from:
+
+- the subject’s physical structure, material, scale, or movement;
+- its Han type, sorrow logic, containment behavior, or environmental effect;
+- a canonical event, location, relationship, quote, instrument, or ritual;
+- a distinctive diagram, timeline, process, map, evidence plate, or data treatment;
+- typography and layout choices that reinforce the written record rather than decorate it arbitrarily.
+
+A consistent wiki shell is not permission to mass-produce identical article bodies. If two pages remain recognizable as the same design after their titles and colors are removed, at least one requires redesign.
+
+---
+
+## 3. Read the text before designing an SVG
+
+Every public page requires an SVG-led visual treatment specific to that page or subject. A shared favicon, site logo, navigation control, or unrelated registry icon does not satisfy this requirement.
+
+No SVG may be designed from the page title alone. The page title and the actual written content are both mandatory design inputs. Before creating, selecting, or revising an SVG for a page, the designer must read the complete destination page and its canonical source material.
+
+The visual brief must identify at least three subject-specific signals from the text, such as:
+
+1. a physical or environmental motif;
+2. an emotional, historical, or behavioral motif;
+3. a functional, mechanical, or containment motif.
+
+Those signals must influence the composition, silhouette, internal geometry, texture, visual rhythm, or narrative detail. Merely placing the title beside a generic symbol does not satisfy this rule.
+
+When the page text changes the meaning of the title, the text controls the artwork. For example, a “bell” that is fused to a tower, remembers names, and transmits Lament must not be represented as an interchangeable bell pictogram.
+
+---
+
+## 4. SVG means a complete visual language, not only an icon
+
+SVG work may include any page-appropriate combination of:
+
+- navigation or registry icon;
+- article banner;
+- environmental background;
+- profile or dossier plate;
+- silhouette, shape study, or non-facial portrait;
+- containment schematic;
+- equipment drawing;
+- map, floor cutaway, timeline, or process diagram;
+- decorative frame, signal trace, seal, or page-specific data visualization.
+
+An icon alone is not automatically a complete visual treatment. The required asset set must be chosen from the needs of the written page.
+
+A profile does **not** require a face. It may use a silhouette, posture, object, architecture, negative space, fragmented form, shadow, or another canon-supported shape. A non-facial profile must still communicate the subject’s identity and cannot be a generic human outline.
+
+---
+
+## 5. Every SVG must be stylized and personally identifiable
+
+Plain geometric placeholders and generic clip-art symbols are prohibited. Each SVG must have a visual fingerprint tied to its subject.
+
+The following do not qualify as unique artwork:
+
+- the same paths with a different fill or stroke color;
+- the same badge, person, weapon, building, or creature silhouette with a renamed label;
+- one generic composition with a different central pictogram;
+- a recolored template background;
+- a title card that contains no details from the article;
+- an asset whose identity disappears when its text label is hidden.
+
+Color may reinforce identity, but color cannot be the only difference. Distinct assets require meaningful differences in silhouette, geometry, composition, proportion, marks, texture, narrative details, or spatial structure.
+
+---
+
+### Subject shape diversity (owner direction, 2026-10-17)
+
+The Subject collection must represent at least **Human, Monster, Animal and Abstract** shape families. This is a collection-wide visual floor, not four required forms per entity or an equal-share quota. A crystal person, a smoke person and a burning person remain person-shaped; materials and colours alone do not establish different body plans.
+
+The owner's One Sin and Singing Machine examples also call for object-like, mechanical and composite silhouettes, not only humanoids and beasts. Track these explicitly when supported by the source. Do not force a skull/object assembly or machine-body into the human category simply because it contains human parts.
+
+See [`R-32 — Subject Shape Diversity`](REFERENCE_SOMNARAK_WIKI/RULES/R-32_SUBJECT_SHAPE_DIVERSITY.md) for shape assessment, overlapping families, invisible entities, source conflicts and canon safety. The rule does not authorize silently redesigning an existing entity or changing its SECC type to meet a visual target.
+
+
+### Integrity Visual Live Check Rule
+
+[R-33](REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md) requires complete before/after reading of the current dossier and exact sources, tracing classification/manifestation, Tale, body, movement and the rest of the document. Local fixes and passing scripts do not establish whole-design integrity. Actual artwork and preview work additionally requires inspection of the rendered result; written review, rendered inspection, local preview and published verification must never be conflated. Unsupported relationships stay held, with no completed SE appearance credit.
+
+
+## 6. Shared global-chrome consistency
+
+The top bar, left sidebar, and bottom bar are deliberate shared chrome and must be identical in structure, labels, order, and resolved destinations on every public HTML route, including the 404 page and asset gallery. Relative path prefixes and accurate active states may change with route context; the underlying destinations may not.
+
+The canonical archive sequence is:
+
+| Slot | Primary label | Terminal sublabel | Destination |
+| --- | --- | --- | --- |
+| A-00 | Main | Terminal | `index.html` |
+| A-01 | Characters | Echo-Cores | `characters/index.html` |
+| A-02 | Lore | Cycles | `lore/index.html` |
+| A-03 | Atlas | City | `locations/index.html` |
+| A-04 | Factions | Orders | `factions/index.html` |
+| A-05 | Facility | Floors | `departments/index.html` |
+| A-06 | Entities | SECC | `entities/index.html` |
+| A-07 | M.A.W. | Arsenal | `maw/index.html` |
+| A-08 | Mechanics | Systems | `mechanics/index.html` |
+| A-09 | Downloads | Files | `downloads.html` |
+
+Each represented archive marks exactly one link with `aria-current="page"`; project and error routes may correctly have no active archive. Every top bar also uses the same Somnarak brand, Year 4,238 status, search label, search destination, responsive drawer behavior, and shared asset versions.
+
+Every page also uses the homepage-derived canonical left sidebar. It contains the same Somnarak identity, public-network state, nine database hubs, nine Echo-Cores, cartography/download links, release console, labels, order, and resolved destinations. Directory depth and accurate current-page/current-archive states may vary; sidebar content and presentation may not. The asset gallery and Entity Tales anthology are not exceptions.
+
+Every page ends with one canonical bottom bar. It contains the same Somnarak identity and motto, source-led city/Facility/archive topology, eight primary archive gateways, four project resources, release 1.8.31 console, publication metrics, quality protocols, public-access status, and changelog destination. Article-specific categories or previous/next controls belong above this component; they must not turn the global footer into a page-authored variant.
+
+The Directorate-terminal styling of the top bar, left sidebar, and bottom bar is intentionally common navigation and does not count as the page-specific visual treatment required elsewhere in this standard.
+
+Run `python3 tools/sync_global_top_bar.py`, `python3 tools/sync_global_left_sidebar.py`, and `python3 tools/sync_global_bottom_bar.py` to detect drift. Run a corresponding tool with `--write` to regenerate every static copy from its canonical definition. `python3 tools/audit_site_structure.py` enforces all three contracts as publication gates.
+
+---
+
+## 7. Required workflow for pages and visuals
+
+1. **Read the full source and destination page.** Do not design from a filename, heading, or summary alone.
+2. **Confirm nested placement.** Follow `PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md`; do not solve a thin page by dumping unrelated canon into it.
+3. **Write meaningful editorial content.** Reach at least 200 words without padding; retain greater depth when the source provides it.
+4. **Prepare a visual brief.** Record the page-specific physical, emotional/historical, and functional/mechanical signals.
+5. **Choose the asset family.** Decide whether the page needs an icon, banner, background, profile, diagram, or a broader suite.
+6. **Design for unique form, not recolor.** Compare the new silhouette and composition against related assets; run `python3 tools/audit_svg_compositions.py` to catch malformed XML and paint/text-only duplicates in curated page art.
+7. **Integrate the visuals into the page.** Artwork must support reading hierarchy and must not be an unattached gallery ornament.
+8. **Perform visual QA.** Check desktop and mobile layout, legibility, overflow, contrast, file paths, and useful alt text.
+9. **Run content and chrome QA.** Run `python3 tools/audit_page_word_floor.py`, all three global-chrome synchronizer checks, and `python3 tools/audit_site_structure.py` to confirm the 200-word floor after shared chrome is excluded and to check the canonical header, homepage-derived sidebar, footer, links, resources, IDs, anchors, and search indexing.
+10. **Report honestly.** A page or asset that has not passed these checks is incomplete.
+
+---
+
+## 8. Publication checklist
+
+A new or revised public page may be described as complete only when every applicable line passes:
+
+```text
+[ ] Primary editorial content contains at least 200 meaningful words.
+[ ] The page uses the correct nested category and does not contain an unrelated source dump.
+[ ] The prose is page-specific, non-repetitive, and source-supported.
+[ ] The page body is not a title/color swap of another article.
+[ ] The page has an SVG-led visual treatment beyond shared chrome, tied to its title and written subject.
+[ ] The complete page and source were read before visual design began.
+[ ] The visual brief uses physical, emotional/historical, and functional/mechanical details from the text.
+[ ] The chosen visual suite goes beyond an icon when the page calls for banners, backgrounds, profiles, diagrams, or other forms.
+[ ] Profiles use a distinctive canon-supported face, silhouette, object, shape, posture, architecture, or negative-space treatment.
+[ ] No SVG is an identical or recolored copy of another asset.
+[ ] The artwork remains identifiable when its text label and accent color are removed.
+[ ] Desktop and mobile visual QA pass.
+[ ] The canonical top bar, homepage-derived left sidebar, and bottom bar labels, destinations, status text, placement, active states, search path, and responsive layouts pass.
+[ ] Local links, image paths, IDs, anchors, and search records pass.
+```
+
+These standards are a minimum quality gate. Passing them does not cap article length, visual complexity, or the number of meaningful page-specific assets.
+
+The current reproducible baseline and its manual-review limits are recorded in `PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md`.
+
+---
+
+## 9. Non-Wiki Canon Markdown Standards (`NON-WIKI` Branch)
+
+When authoring, auditing, or revising files within the `REFERENCE_SOMNARAK_WIKI/` lore repository on the `NON-WIKI` branch, the following requirements apply:
+
+1. **UTF-8 Cleanliness:** All markdown files must be encoded in standard UTF-8 without byte order marks (BOM). Zero decoding errors permitted.
+2. **SECC Designation Integrity:** Sorrow Entity records must follow canonical notation: `SE-[Manifestation]-[Tier][Subtype]-[Number]`. Tier numerals (I=ZAYIN, II=TETH, III=HE, IV=WAW, V=ALEPH) must match containment parameter tables.
+3. **M.A.W. Quadripartite Completeness:** Equipment sets in `M.A.W. Codex_Set Registry/` must contain all four standardized files (`-A` Side Codex, `-B` Weapon, `-C` Suit, `-D` Stigma) unless a documented lore exception applies (e.g. SE-003 Wilderness Tide).
+4. **Mandatory Sections for Entity Dossiers:** Every entity file in `01_Sorrow_Entities/` must feature:
+   - Header with English codename and Korean designation.
+   - Quotation block capturing the entity's psychological essence.
+   - SECC Classification Table (Designation, Entity Type, Coherence, Potency, Sorrow Category, Element, Manifestation, Physical Form, Movement, Location, R.D. Comprehension Level).
+   - Operational parameters and work-type responses (Ferrehan, Flerehan, Pugnahan, Viderehan).
+   - Narrative Origin / Breach Tale.
+5. **Canon Terminology is Binding:** Retain authentic Somnarak nomenclature: Sorrow Entities, SECC, Han, Absolvohan, Facility 01, Echo-Cores, Ordeals. Generic terminology substitutes are strictly forbidden.
+6. **M.A.W. Dual-Paragraph Appearance Standard:** Every M.A.W. equipment piece (Weapon, Suit, Stigma) must present its visual appearance in two distinct paragraphs separated by a blank line:
+   - Paragraph 1 starts with `Appearance : ` and provides a concise simple visual profile (20 to 48 words).
+   - Paragraph 2 provides the detailed appearance profile (20 to 66 words) focusing on mechanisms, textures, engravings, and sorrow emissions.
+7. **Validation Gate:** All markdown files must pass `python3 tools/audit_lore_archive.py`.
+
+---
+
+## Stock prose is a defect, even where no checker fires
+
+A sentence that could sit in forty files has failed, whatever its grammar. The archive has removed these families one at a time, and each one is now a defect on the day it is written:
+
+| Retired family | Where it came from | What replaces it |
+|---|---|---|
+| *Standard containment protocols apply.* · *See the Origin section for formation details.* · *See the Contact Record for the reading and the close.* | Section scaffolding standing where a finding should be | The finding itself, in the file's own units |
+| *Starts at 40%, rises 10%/turn* | A gauge placeholder | The figure in the file's own `**Escalation**` row, under a label that matches its section |
+| *Permits study; the … pressure becomes legible under sustained observation.* / *Recognizes patience; the … settles gradually under sustained presence.* | Twenty dossiers, one pair — then found in 98 codex files as well: the side-codex work rows, the `source response:` line quoted in every suit and stigma record, and the *source-trace fixed doctrine* sentence. **Retired and cleared, 0 left.** | A Work row written per holding — what a party does, what the endurance is spent on |
+| *a persistent low-grade headache · emotional numbness toward the element · chronic fatigue in the hand · progressively heavier · unwept grief · memory fragmentation* | Six weapon sentences | The Ability, read backwards, per piece |
+| *moves a little slower · temper shortens · weeps in their sleep · forgets a word* | Four stigma sentences shared by forty pieces | The Ability, read backwards, per piece |
+| *Continued use makes {entity}'s source sorrow feel autobiographical.* | 345 item records — **retired and cleared, 0 left** | One-use price and continued-use price, both this item's |
+| *{Item} remembers {Entity}; the bearer must not mistake memory for permission.* | 345 codex epigraphs — **retired and cleared, 0 left** | A line from the item's own record |
+| *source emotion enters the bearer during use.* | Fifteen legacy records in five sets — **retired and cleared, 0 left** | The price this item takes, in this item's own image |
+| *The file is a map and not the territory.* · *Where the entity does something not described here, log it and leave the contradiction standing.* | Editorial instruction printed inside a record | Delete; the record states what it knows and what it does not |
+| *corrected from*, review dates, *the record has been updated* | Filing notes | Nothing. A record does not annotate its own editing |
+
+**The tests that cost nothing:**
+
+- `grep` the finished sentence across `SOMNARAK-WORLD/`. One hit means it is this file's. More than one means it is the archive's.
+- Read the paragraph without its proper nouns. If it still makes sense anywhere, it is not about anything.
+- Read the finished file top to bottom as a stranger. A figure that makes the reader stop and re-read, or a paragraph that sounds like an edit rather than a record, is a defect — and this is the only test on the list that no tool can run.
+
+**Also corrected here:** the M.A.W. appearance label is `**Appearance:**`, in bold, with no space before the colon. The form `Appearance : ` was a drafting artefact and is not a standard — **and it is now gone: 0 occurrences**, corrected in 163 places. Two forms are correct, and which one applies depends on whether the section already has a heading:
+
+- **Where the record carries an `## Appearance` or `### Appearance` heading**, the paragraph under it takes no label at all. The 80 codex records that opened that paragraph with the word *Appearance* were restating their own heading; the label was removed and the description left as written.
+- **Where the label is inline** — inside a dossier's M.A.W. item block, or a compiled codex entry, where `**Category:**` and `**Grade:**` sit above it — it takes the bold form `**Appearance:** `.
+
+## The two codex schemas, and the four ways a legacy record states its price
+
+`MAW_Codex_Sets` holds **852 item records in two layouts**: 345 in the current shape, which carries a single `**Operational / binding cost:**` line, and 507 in the older shapes (175 under `## ITEM IDENTITY`, 332 as stat blocks). The 507 were read, not counted, and the question was whether they are debt.
+
+**They are not. Their price is carried by one of four structures, and all four are legitimate:**
+
+| Carrier | Records using it | Shape |
+|---|---:|---|
+| `**Cost:**` line | 193 | A bold label with the price in one sentence, usually beside `Maximum / Cost` in the stat line |
+| `Operational cost` / `Binding cost` rows | 182 | A small two-row table: what the item takes in use, and what the bearer must accept to keep using it |
+| `### Wielder / Wearer / Bearer Cost` section | 30 | A headed section, sometimes titled *Bearer Psychological Toll* |
+| Prose — *the cost is*, *its cost is*, *the toll*, *the levy*, *fatigue is constant* | remainder | The price stated in the record's own essay rather than under a label |
+
+The four carriers overlap — a record may carry a bold line and an essay sentence — and between them they cover **every one of the 507 except two**, which are described below.
+
+**Two records had no price at all** — `SE-683-B` and `SE-709-B` — and both state the toll in substance without ever naming it: the ache in old wounds, the unfallen tear moving into the wielder, the unpayable debt spent on whoever stands nearest. Each now carries one `**Operational cost:**` line built from its own corrosion chain. **That was the whole of the debt: 2 of 507.**
+
+**Do not convert the 507.** A pass that rewrote them into the modern field would destroy four working conventions to satisfy a form, and would gain a reader nothing — every one of those records already says what it costs, in the place its layout puts it. The standard is *does the record state its price*, not *does it use this label*.
+
+**What the read did find**, and what was fixed:
+
+| Defect | Count | What it was |
+|---|---:|---|
+| Stock cost sentence | 15 | Five sets in `Registry_716_to_757` shared one operational-cost line, *source emotion enters the bearer during use.* — the legacy-record sibling of the 345-record *autobiographical* family. Each now states its own price, from its own sensory clause and corrosion chain. |
+| Duplicated tail | 2 | `SE-1024-C` and `SE-1024-D` carried their failure bullets, set-relationship paragraph and footer block twice. The second copy was the stale one; it also named the suit by a retired name, and one line read *stigma/stigma*. |
+| Label artefact | 163 | `Appearance : `, corrected as described above. |

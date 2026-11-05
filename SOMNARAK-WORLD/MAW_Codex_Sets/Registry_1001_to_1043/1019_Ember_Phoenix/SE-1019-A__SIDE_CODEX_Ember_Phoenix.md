@@ -22,7 +22,7 @@ The Phoenix formed from survival that became another kind of death. The burden o
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Entity (IV) — Self-aware, cyclical, eternal / Critical (δ) |
 | Element / Location | Grudge / The Desolate — mobile |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Grudge |
+| Gauge / Pressure | 000/910; starts 000% / 29–64 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire. |
 
@@ -40,7 +40,7 @@ The Phoenix formed from survival that became another kind of death. The burden o
 
 ## WITNESS RECORD — *The Ember Phoenix Source-Trace*
 
-During the The Ember Phoenix Source-Trace, the field team preserved this source fact: A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of having to rise again when no one asks whether you are ready.
+During *The Ember Phoenix Source-Trace*, the field team preserved this source fact: A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of having to rise again when no one asks whether you are ready.
 
 ## M.A.W. SET — *Ember Phoenix — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Ember Phoenix Source-Trace, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Ember Phoenix's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Allow the cycle to finish; forced extinguishing causes violent rebirth The set cannot heal the originating event. Misuse routes Ember Phoenix's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1019-A`  
-**Linked Entity:** `SE-1019`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

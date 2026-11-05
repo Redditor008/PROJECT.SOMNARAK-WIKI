@@ -21,7 +21,7 @@ The Unconsoled is an ancient translucent elder whose unending tears hold the fir
 |---|---|
 | Coherence / Potency | III / γ |
 | Element / Location | Lament / Old Lament, drifting toward Alpha Tree roots |
-| Gauge / Pressure | 653/653; starts 60–75% / 18–41 Lament |
+| Gauge / Pressure | 000/653; starts 000% / 18–41 Lament |
 | Movement / Resistance | 0.6 m/s / 45% Lament, 35% other |
 | Resolution | Share the grief aloud; it lightens but never empties |
 
@@ -40,7 +40,7 @@ Flerehan synchronizes grief and lowers pressure; Pugnahan forces the Founder’s
 | Location | The Old Lament, Zone B; drifts toward the Alpha Tree's roots |
 | R.D. Comprehension Level | 3 — Elevated |
 | Starting Sorrow Gauge | 60–75% |
-| Activation threshold | 2 |
+| Activation threshold | The founding wall darkens from the base upward, forty minutes to two hours before an expansion; Sorrow Gauge ≥ 80% |
 | Sorrow Gauge [HP] | 653/653 |
 | Han Pressure [ATK] | 18–41 per hit · Lament |
 | Speed | 0.6 m/s |
@@ -61,13 +61,3 @@ Flerehan synchronizes grief and lowers pressure; Pugnahan forces the Founder’s
 The Tear admits another person’s oldest grief, the Shroud keeps both mourners standing, and the blade cuts only pressure produced by isolation. The set halves a shared burden for one cycle but cannot remove the foundation. Cost: involuntary tears, accelerated aging, and one permanent thread of grief in every bearer.
 
 > *“It never asked us to fix the first death. It asked us to stop making it mourn alone.”* — Changwook Hanaris
-
----
-
-**Document ID:** `UNK-248-A`  
-**Linked Entity:** `UNK-248`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-051 [VO]`  
 **Author:** Handler Soojin  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Masked Troupe containment
 
@@ -86,13 +86,3 @@ The Mask’s apparent joy is not deception alone. It is a survival habit that no
 
 ### Observation 4 — Mastered
 The Mask releases only when another person treats the wearer’s sadness as safe to hear.
-
----
-
-**Document ID:** `SE-051-A`  
-**Related Entity:** `SE-051`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -17,7 +17,7 @@ A Mask Market artisan made masks for every role until no unmasked identity remai
 |---|---|
 | Coherence / Potency | II / β |
 | Element / Location | Void / Zone C, Mask Market |
-| Gauge / Pressure | 415/415; 35–50% / 10–23 |
+| Gauge / Pressure | 240/240; 35–50% / 10–23 |
 | Set | One Safe Opening |
 
 Flerehan opens one feeling; Pugnahan thickens the wall; Viderehan reveals what was hidden; Ferrehan remains without hiding. **Resolution:** establish safe contact; do not force the wall open.
@@ -31,12 +31,3 @@ Flerehan opens one feeling; Pugnahan thickens the wall; Viderehan reveals what w
 **Resonance — Consented Opening:** Shard blocks intrusion, Veil preserves identity, and Lens cuts one wall segment chosen by the bearer. Cost: small memories fade. Forced opening transforms corridors into crushing walls.
 
 **Incident:** a therapist ordered every mask removed. The room compressed until Haneulash restored one chosen mask and asked for a single opening. One feeling passed; the breach stopped.
-
----
-**Document ID:** `SE-689-A`  
-**Linked Entity:** `SE-689`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

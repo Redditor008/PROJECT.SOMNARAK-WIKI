@@ -2,7 +2,7 @@
 
 > *“When an Echo-Core forgets its boundaries, the department stops being a room and becomes the director's screaming skull.”*
 
-**Reverberations**  [공명폭주]  (_Gongmyeong Pokju_ — Resonance Meltdowns), also designated as **Core Realizations** and **Stratum Realizations**, are climatic crisis events unlocked after completing all four departmental missions of a given [Echo-Core](14-Echo-Cores.md). 
+**Reverberations**  [공명폭주]  (_Gongmyeong Pokju_ — Resonance Meltdowns), also designated as **Core Realizations** and **Stratum Realizations**, are climatic crisis events unlocked after completing all four departmental missions of a given [Echo-Core](14-Echo-Cores.md).
 
 During a Reverberation, the director's psychological insulation fractures, causing their accumulated grief to flood the physical floor. The department enters an existential emergency: the [Healing Generator](22-Departments.md) shuts down, containment cells undergo spontaneous agitation, and severe cognitive handicaps distort the Warden's command interface until the core is stabilized through direct suppression.
 

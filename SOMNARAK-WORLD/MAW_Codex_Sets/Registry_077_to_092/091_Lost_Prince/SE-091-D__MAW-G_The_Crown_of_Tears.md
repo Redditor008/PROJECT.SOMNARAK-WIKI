@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Lost Prince work |
 | Bestowal event | The Prince placed a tear in Yoon’s palm after accepting an honest answer and watching a visible relief exchange. |
 | Acceptance condition | The candidate agrees not to use the Stigma to locate or compel an absent person. |
@@ -53,7 +54,7 @@
 
 ### Appearance
 
-The Crown of Tears is a small charm of blue Han glass shaped like a single tear inside a thin black frame, no larger than a coin and worn on a short cord. A faint line of light runs through the tear and sharpens when the bearer obtains consent to observe a visible bond. The frame is smooth and cold, and the tear rattles slightly when the bearer begins treating relationships as data points. It reveals bonds, attachment directions, broken links, and emotional proximity, but cannot read memories, prove consent, or decide whether a person should remain in a relationship. The answer is structural rather than moral. After each use the charm is wrapped in blue cloth, and only the bonds relevant to the consented task are recorded. The charm is wrapped in blue cloth after each use, and only the bonds relevant to the consented task are listed in the record. The tear is placed face-down on the blue cloth between readings.
+A single tear of blue Han glass held in a thin black frame, no bigger across than a coin: the Crown of Tears. A faint line of light runs through the tear and sharpens when the bearer obtains consent to observe a visible bond. The frame is smooth and cold, and the tear rattles slightly when the bearer begins treating relationships as data points. It reveals bonds, attachment directions, broken links, and emotional proximity, but cannot read memories, prove consent, or decide whether a person should remain in a relationship. The answer is structural rather than moral. After each use the charm is wrapped in blue cloth, and only the bonds relevant to the consented task are recorded. The charm is wrapped in blue cloth after each use, and only the bonds relevant to the consented task are listed in the record. The tear is placed face-down on the blue cloth between readings.
 
 ### Passive effect— *Thread Sight*
 
@@ -85,14 +86,3 @@ Yoon used *Name the Break* during a Gardens search for a child separated from a 
 The Stigma gives *Honest Company* its map but not its decision. The weapon may face panic, and the Shroud may support a handover; the Crown of Tears refuses to turn attachment into a command.
 
 > *“A visible thread is not a leash.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-091-D`  
-**Linked Entity:** `SE-091`  
-**Item Registry Code:** `MAW-G-091-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

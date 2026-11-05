@@ -32,7 +32,7 @@ The **Sorrow Entity Classification Code (SECC)** is the unique identifier stampe
 
 > Example: `SE-C-IIIβ-014 [VS]` → City-origin Sorrow Entity number 014, Fragment coherence, Moderate potency, Void element, Subject-Body manifestation.
 
-> **Serial-number semantics:** The trailing three-digit serial is a registry slot, not a uniqueness key: it may recur across scopes, ranks, and grades by design. Serial `071` traces the Kind Healer transformation progression (`C-Iα-071` → `C-Iα-071b` → `C-Iα-071c`); serial `000` reserves the primordial Kind Echo (`C-Iα-000`); and high serials (`901` and above) mark late-registered fractures. A retired serial is never reassigned to a new entity.
+> **Serial-number semantics:** The trailing three-digit serial is a registry slot, not a uniqueness key: it may recur across scopes, ranks, and grades by design. Serial `071` traces the Kind Healer transformation progression (`C-Iα-071` → `C-Iβ-071b` → `C-IIγ-071c`), the serial holding the lineage while the rank and grade escalate with it; serial `000` reserves the primordial Kind Echo (`C-Iα-000`); and high serials (`901` and above) mark late-registered fractures. A retired serial is never reassigned to a new entity.
 
 ### Origin (Sorrow Category)
 
@@ -151,7 +151,7 @@ Certain extraordinary Sorrow Entities possess unstable or dual physical classifi
 
 1. **Place → Subject Metamorphosis (The Maw Archetype):**
    - **Baseline Contained Designation:** `C-IVω-001 [GP]` (Place-Tale / Stationary District in Zone B).
-   - **Breaching Subject Designation:** `C-IVω-001-B [GS]` (Breaching Subject-Tale / The Walking District).
+   - **Breaching Subject Designation:** `C-IVω-001-B [GS]` (Breaching Subject-Tale / The Walking District). The event silhouette: a jaw the size of the district on two enormous legs, two clawed hands, no eyes, and a mouth that is a working hole of jagged edge with a thousand blue eyes at its centre. Its two filed moves are event-form only and secondary — *Judgment Claw* and *Judgment Sight* — and neither has been observed in use.
    - **Operational Parameters Shift:** In its contained state (`[GP]`), only **Viderehan** and **Ferrehan** are valid (Two-Work-Type Rule). Upon containment failure, the architectural boundaries, whispering masonry, and tar detach from the bedrock, coalescing into an active, mobile colossal titan. In this breaching state (`[GS]`), all four Work Types become active combat vectors.
 
 2. **Sequential Phase Metamorphosis (Stage Progression):**
@@ -180,7 +180,7 @@ The mechanical summary used for field simulation and balancing. These values sup
 | Parameter | What It Means |
 |-----------|---------------|
 | **Risk tier** | Mirrors Potency (Minor → Catastrophic) |
-| **Starting Sorrow Gauge** | How full the entity's gauge begins (higher = closer to breach) |
+| **Starting Sorrow Gauge** | How full the entity's gauge begins. **000 on a relic** — nothing is being held, so nothing has been laid on. Still a percentage band on a subject, where a session opens with pressure already on the record |
 | **Han-Energy yield** | Energy gained per successful work cycle |
 | **Work difficulty** | Scaled to R.D. Comprehension Level |
 | **Activation threshold** | The gauge % at which the entity activates or breaches |
@@ -201,7 +201,7 @@ The encounter framework. Not all entities fight, but every record carries the co
 |------|---------|
 | **Speed** | Movement rate (N/A for fixed objects/places) |
 | **Resistance** | Damage reduction by pressure type |
-| **Sorrow Gauge [HP]** | The entity's effective health and containment tolerance |
+| **Sorrow Gauge** | The meter a holding carries. **Subjects and possessions** file it as `[HP]` — health and containment tolerance, brought to zero by suppression. **Non-breaching relics** file it as a charge named for their Element — `[Pressure]`, `[Load]`, `[Depth]` or `[Saturation]` — which fills from 000 to the wall its grade fixes and is read by the minute (`R-48`) |
 | **Han Pressure [ATK]** | Damage dealt per hit, by element |
 | **Coherence / Potency modifiers** | How the tier scales behavior complexity and pressure |
 
@@ -356,7 +356,7 @@ This is why work *manages* rather than *destroys*: every cycle reduces immediate
 A complete roster of every catalogued entity — each with its SECC designation, element, and a brief field description. Click any name to open its full record.
 
 ### Sorrow Entities (260)
-> **Tabulation note:** 260 rows (253 Sorrow-dossier rows plus 7 Unknown-Entities cross-references). 39 dossiers indexed in `Sorrow_Entities/` await codex rows: `C-IIIγ-902`, `C-IIIγ-904`, `C-IIIγ-912`, `C-IIIγ-913`, `C-IIIγ-921`, `C-IIIγ-928`, `C-IIIγ-948`, `C-IIβ-901`, `C-IIβ-906`, `C-IIβ-947`, `C-IVγ-946`, `C-IVδ-907`, `C-IVδ-909`, `C-IVδ-915`, `C-IVδ-918`, `C-IVδ-922`, `C-IVδ-923`, `C-Iα-071b`, `C-Iα-071c`, `C-Iα-900`, `C-Vδ-949`, `C-Vω-925`, `N-IIIβ-941`, `N-IIIγ-908`, `N-IIIγ-917`, `N-IIIγ-929`, `N-IIβ-903`, `N-IIβ-910`, `N-IIβ-919`, `N-IVδ-927`, `N-Iα-905`, `O-IIIβ-944`, `O-IIIγ-916`, `O-IIIγ-920`, `O-IIIγ-924`, `O-IIIγ-926`, `O-IIβ-911`, `O-IIβ-914`, `O-IVδ-930`.
+> **Tabulation note:** 260 rows (253 Sorrow-dossier rows plus 7 Unknown-Entities cross-references). 39 dossiers indexed in `Sorrow_Entities/` await codex rows: `C-IIIγ-902`, `C-IIIγ-904`, `C-IIIγ-912`, `C-IIIγ-913`, `C-IIIγ-921`, `C-IIIγ-928`, `C-IIIγ-948`, `C-IIβ-901`, `C-IIβ-906`, `C-IIβ-947`, `C-IVγ-946`, `C-IVδ-907`, `C-IVδ-909`, `C-IVδ-915`, `C-IVδ-918`, `C-IVδ-922`, `C-IVδ-923`, `C-Iβ-071b`, `C-IIγ-071c`, `C-Iα-900`, `C-Vδ-949`, `C-Vω-925`, `N-IIIβ-941`, `N-IIIγ-908`, `N-IIIγ-917`, `N-IIIγ-929`, `N-IIβ-903`, `N-IIβ-910`, `N-IIβ-919`, `N-IVδ-927`, `N-Iα-905`, `O-IIIβ-944`, `O-IIIγ-916`, `O-IIIγ-920`, `O-IIIγ-924`, `O-IIIγ-926`, `O-IIβ-911`, `O-IIβ-914`, `O-IVδ-930`.
 
 
 | Designation | Entity | Element | Description |
@@ -424,7 +424,7 @@ A complete roster of every catalogued entity — each with its SECC designation,
 | `C-IIβ-777 [GS]` | [The Burning Fruit](../../Sorrow_Entities/SE-C-IIβ-777_Last_Fruit_타오르는_열매.md) (타오르는 열매) | Grudge | The entity burns with denied desire. Effect: proximity induces rage from shamed wanting. |
 | `C-IIβ-782 [GS]` | [The Fading Relic](../../Sorrow_Entities/SE-C-IIβ-782_Flotsam_번져가는_유물.md) (번져가는 유물) | Grudge | The Relic fades as its purpose is forgotten. Effect: holders feel the grief of inherited incomprehension. |
 | `C-IIβ-997 [D]` | [Drowned Roots](../../Sorrow_Entities/SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md) (솟구친 나무) | Lament | A tree grown from an unacknowledged sacrifice. Effect: personnel feel the fury of denied recognition. |
-| `C-Iα-071c [LS]` | [The Apostle Maker](../../Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md) (사도 만드는 자) | Mixed | Major and escalating toward Stage 4. The entity cannot be contained during the conversion sequence. |
+| `C-IIγ-071c [LS]` | [The Apostle Maker](../../Sorrow_Entities/SE-C-IIγ-071c_Apostle_Maker_사도_만드는_자.md) (사도 만드는 자) | Mixed | Major and escalating toward Stage 4. The entity cannot be contained during the conversion sequence. |
 | `C-IVβ-041 [LS]` | [The Grieving Maiden](../../Sorrow_Entities/SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md) (슬픔의 처녀) | Lament | The Maiden weeps continuously. She does not attack. |
 | `C-IVβ-042 [GS]` | [The Angry Maiden](../../Sorrow_Entities/SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) (분노의 처녀) | Grudge | The Maiden burns with a steady blue fire. Effect: proximity induces the fury of justice denied. |
 | `C-IVβ-043 [VS]` | [The Silent Maiden](../../Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) (침묵의 처녀) | Void | The Maiden is defined by absence. Effect: proximity induces the chill of being present and never seen. |
@@ -488,7 +488,7 @@ A complete roster of every catalogued entity — each with its SECC designation,
 | `C-Iα-869 [LP]` | [The Returning Tree](../../Sorrow_Entities/SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md) (돌아온 나무) | Lament | A tree grown from the grief of returning to an unrecognized home. Effect: proximity induces the loss of home through change. |
 | `C-Iα-884 [VO]` | [The Frozen Shard](../../Sorrow_Entities/SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md) (얼어붙은 조각) | Void | A tear preserved as a memorial, sealed with rage inside. Effect: proximity induces the cold of sealed anger. |
 | `C-Iα-965 [N]` | [Unheard](../../Sorrow_Entities/SE-C-Iα-965_Unheard_흐르는_침묵.md) (흐르는 침묵) | Grudge | The silence of absorbed protest, flowing through the system. Effect: proximity induces the pressure of unsaid words. |
-| `C-Iα-071b [LS]` | [The Blessing Giver](../../Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md) (축복 주는 자) | Lament | Moderate and escalating. Each blessing brings the chain closer to completion. |
+| `C-Iβ-071b [LS]` | [The Blessing Giver](../../Sorrow_Entities/SE-C-Iβ-071b_Blessing_Giver_축복_주는_자.md) (축복 주는 자) | Lament | Moderate and escalating. Each blessing brings the chain closer to completion. |
 | `C-Vγ-225 [WP]` | [The Sorrow River](../../Sorrow_Entities/SE-C-Vγ-225_Black_River_슬픔의_강.md) (슬픔의 강) | Weight | Catastrophic (potential). The source of all entities. |
 | `C-Vγ-260 [WP]` | [The Sorrow Tide](../../Sorrow_Entities/SE-C-Vγ-260_Sorrow_Tide_한의_조수.md) (한의 조수) | Weight | Low (individually). The Tide is the city’s natural rhythm: grief suppressed by day, released by night. |
 | `C-Vγ-320 [D]` | [The Sorrow Storm](../../Sorrow_Entities/SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md) (슬픔의 폭풍) | Weight | Catastrophic (when it occurs). The Storm is the city’s suppressed grief breaking as weather. |
@@ -543,7 +543,7 @@ A complete roster of every catalogued entity — each with its SECC designation,
 | `N-IVδ-157 [WP]` | [The Sleeping Sigh](../../Sorrow_Entities/SE-N-IVδ-157_Torpor_잠든_한숨.md) (잠든 한숨) | Weight | Per entity classification. See SECC Classification table for details. |
 | `N-IVδ-159 [O]` | [The Frozen Sigh](../../Sorrow_Entities/SE-N-IVδ-159_Apnea_얼어붙은_한숨.md) (얼어붙은 한숨) | Grudge | Per entity classification. See SECC Classification table for details. |
 | `N-IVδ-315 [LO]` | [The Collapsed Seed](../../Sorrow_Entities/SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md) (무너진 씨앗) | Lament | Per entity classification. See SECC Classification table for details. |
-| `N-IVδ-339 [LS]` | [The Collapsed Wall](../../Sorrow_Entities/SE-N-IVδ-339_Breach_무너진_벽.md) (무너진 벽) | Lament | Per entity classification. See SECC Classification table and Combat Record for threat details. |
+| `N-IVδ-339 [LS]` | [The Collapsed Wall](../../Sorrow_Entities/SE-N-IVδ-339_Breach_무너진_벽.md) (무너진 벽) | Lament | Per entity classification. See SECC Classification table and Contact Record for threat details. |
 | `N-IVδ-489 [LS]` | [The Forgotten Silence](../../Sorrow_Entities/SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md) (잊혀진 침묵) | Lament | Per entity classification. See SECC Classification table and Combat Record for threat details. |
 | `N-IVδ-517 [LS]` | [The Broken Tear](../../Sorrow_Entities/SE-N-IVδ-517_Broken_Tear_부서진_눈물.md) (부서진 눈물) | Lament | Per entity classification. See SECC Classification table and Combat Record for threat details. |
 | `N-IVδ-525 [GS]` | [The Flowing Bridge](../../Sorrow_Entities/SE-N-IVδ-525_Cenotaph_흐르는_다리.md) (흐르는 다리) | Grudge | Per entity classification. See SECC Classification table for details. |
@@ -619,20 +619,20 @@ A complete roster of every catalogued entity — each with its SECC designation,
 
 | Designation | Entity | Element | Description |
 |---|---|---|---|
-| `` | [The Burning Hope](../../Hope_Transformations/HT-009_The_Burning_Hope_타오르는_희망.md) (타오르는 희망) |  | A small golden-orange flame with a white center that produces real heat and can burn through obstacles, circling the bearer's weapon arm or resting above the shoulder like a torch in an invisible hand. Warm and fierce, it bends... |
-| `` | [The Defiant Ember](../../Hope_Transformations/HT-005_The_Defiant_Ember_저항의_불씨.md) (저항의 불씨) |  | A small orange-gold coal floating just behind the bearer's sternum or resting between their fingers — never fully extinguished, its surface traced with tiny black veins like the remains of a burned contract. Warm and stubborn,... |
-| `` | [The Eternal Warmth](../../Hope_Transformations/HT-006_The_Eternal_Warmth_영원한_온기.md) (영원한 온기) |  | A small golden radiance with no fixed body — sometimes forming the outline of two hands around a cup, a shoulder, or a sleeping person. Its light is amber and soft, never harsh; warm and quiet, it preserves the feeling of being... |
-| `` | [The Gentle Flame](../../Hope_Transformations/HT-003_The_Gentle_Flame_온화한_불꽃.md) (온화한 불꽃) |  | A small golden flame that floats above an open palm — no smoke, no ordinary heat, amber at the edge and white at the center, a faint blue ring when it tends sorrow-wounds. Warm and gentle, it shifts shape to suit whoever it hel... |
-| `` | [The Guiding Light](../../Hope_Transformations/HT-001_The_Guiding_Light_인도의_빛.md) (인도의 빛) |  | A small golden orb the size of a human heart — neither glass nor crystal but like a drop of dawn suspended in air, thin lines of light moving through it like roads on a living map. Warm and faintly radiant, it floats near its b... |
-| `` | [The Hand of Hope](../../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) (희망의 손) |  | A vast luminous hand formed of gold, amber, white, silver, and orange Hope-crystal — appearing as a single hand above a district, a pair of hands around the Weeping, or a humanoid whose arms extend into networks of light. Warm... |
-| `` | [The Healing Touch](../../Hope_Transformations/HT-008_The_Healing_Touch_치유의_손길.md) (치유의 손길) |  | A small golden hand of soft Hope-crystal, not attached to any body — floating beside its bearer, following their gestures, sometimes laying a translucent hand over theirs. Warm and precise, its five fingers divide into fine thr... |
-| `` | [The Living Memory](../../Hope_Transformations/HT-010_The_Living_Memory_살아_있는_기억.md) (살아 있는 기억) |  | A small golden figure with a porcelain-like body and a face that never settles into one identity, wearing a miniature craftsman's apron and carrying a thread of light between its hands. Warm and gentle, it borrows one harmless... |
-| `` | [The Reuniting Spark](../../Hope_Transformations/HT-004_The_Reuniting_Spark_재회의_불꽃.md) (재회의 불꽃) |  | A bright golden spark moving in short eager arcs, like a firefly made from a fragment of a broken star, trailing light that bends toward the strongest surviving connection. Warm and restless, it glows amber for people, white-go... |
-| `` | [The Shared Glass](../../Hope_Transformations/HT-011_The_Shared_Glass_나눔의_잔.md) (나눔의 잔) |  | A small golden drinking glass with a silver rim, always clean even when filled with liquid Han — unbreakable by ordinary force, though it clouds whenever someone speaks without honesty. Warm and clear; in a group it summons tra... |
-| `` | [The Shield of Dawn](../../Hope_Transformations/HT-002_The_Shield_of_Dawn_새벽의_방패.md) (새벽의 방패) |  | A compact golden shield that rests as a warm luminous mark on the bearer's forearm, unfolding into a broad round shield of layered gold, silver, and translucent Hope-crystal. Its surface bears shifting impressions of hands reac... |
-| `` | [The Silent Vigil](../../Hope_Transformations/HT-007_The_Silent_Vigil_침묵의_경계.md) (침묵의 경계) |  | A small golden light floating above the bearer's shoulder, like a covered lantern with no visible flame — its light falling outward but never into the protected one's eyes. Warm and soundless, it divides into dim lights that st... |
-| `` | [The Standing Witness](../../Hope_Transformations/HT-012_The_Standing_Witness_서_있는_증인.md) (서 있는 증인) |  | A small golden figure about the height of a hand, with no visible mouth, carrying a thin silver tablet against its chest — standing wherever its bearer stands, never sitting. Warm and watchful, its featureless face grows a pair... |
-| `` | [The Trinity of Dawn](../../Hope_Transformations/HT-V-HC-001_The_Trinity_of_Dawn_새벽의_삼위일체.md) (새벽의 삼위일체) |  | A single birdlike body larger than an eagle, with three overlapping necks joining at the chest — one head bearing many eyes, one a luminous balance-mark, one broad protective wings. Its feathers are pale gold and white Hope-cry... |
+|  | [The Burning Hope](../../Hope_Transformations/HT-009_The_Burning_Hope_타오르는_희망.md) (타오르는 희망) |  | A small golden-orange flame with a white center that produces real heat and can burn through obstacles, circling the bearer's weapon arm or resting above the shoulder like a torch in an invisible hand. Warm and fierce, it bends... |
+|  | [The Defiant Ember](../../Hope_Transformations/HT-005_The_Defiant_Ember_저항의_불씨.md) (저항의 불씨) |  | A small orange-gold coal floating just behind the bearer's sternum or resting between their fingers — never fully extinguished, its surface traced with tiny black veins like the remains of a burned contract. Warm and stubborn,... |
+|  | [The Eternal Warmth](../../Hope_Transformations/HT-006_The_Eternal_Warmth_영원한_온기.md) (영원한 온기) |  | A small golden radiance with no fixed body — sometimes forming the outline of two hands around a cup, a shoulder, or a sleeping person. Its light is amber and soft, never harsh; warm and quiet, it preserves the feeling of being... |
+|  | [The Gentle Flame](../../Hope_Transformations/HT-003_The_Gentle_Flame_온화한_불꽃.md) (온화한 불꽃) |  | A small golden flame that floats above an open palm — no smoke, no ordinary heat, amber at the edge and white at the center, a faint blue ring when it tends sorrow-wounds. Warm and gentle, it shifts shape to suit whoever it hel... |
+|  | [The Guiding Light](../../Hope_Transformations/HT-001_The_Guiding_Light_인도의_빛.md) (인도의 빛) |  | A small golden orb the size of a human heart — neither glass nor crystal but like a drop of dawn suspended in air, thin lines of light moving through it like roads on a living map. Warm and faintly radiant, it floats near its b... |
+|  | [The Hand of Hope](../../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) (희망의 손) |  | A vast luminous hand formed of gold, amber, white, silver, and orange Hope-crystal — appearing as a single hand above a district, a pair of hands around the Weeping, or a humanoid whose arms extend into networks of light. Warm... |
+|  | [The Healing Touch](../../Hope_Transformations/HT-008_The_Healing_Touch_치유의_손길.md) (치유의 손길) |  | A small golden hand of soft Hope-crystal, not attached to any body — floating beside its bearer, following their gestures, sometimes laying a translucent hand over theirs. Warm and precise, its five fingers divide into fine thr... |
+|  | [The Living Memory](../../Hope_Transformations/HT-010_The_Living_Memory_살아_있는_기억.md) (살아 있는 기억) |  | A small golden figure with a porcelain-like body and a face that never settles into one identity, wearing a miniature craftsman's apron and carrying a thread of light between its hands. Warm and gentle, it borrows one harmless... |
+|  | [The Reuniting Spark](../../Hope_Transformations/HT-004_The_Reuniting_Spark_재회의_불꽃.md) (재회의 불꽃) |  | A bright golden spark moving in short eager arcs, like a firefly made from a fragment of a broken star, trailing light that bends toward the strongest surviving connection. Warm and restless, it glows amber for people, white-go... |
+|  | [The Shared Glass](../../Hope_Transformations/HT-011_The_Shared_Glass_나눔의_잔.md) (나눔의 잔) |  | A small golden drinking glass with a silver rim, always clean even when filled with liquid Han — unbreakable by ordinary force, though it clouds whenever someone speaks without honesty. Warm and clear; in a group it summons tra... |
+|  | [The Shield of Dawn](../../Hope_Transformations/HT-002_The_Shield_of_Dawn_새벽의_방패.md) (새벽의 방패) |  | A compact golden shield that rests as a warm luminous mark on the bearer's forearm, unfolding into a broad round shield of layered gold, silver, and translucent Hope-crystal. Its surface bears shifting impressions of hands reac... |
+|  | [The Silent Vigil](../../Hope_Transformations/HT-007_The_Silent_Vigil_침묵의_경계.md) (침묵의 경계) |  | A small golden light floating above the bearer's shoulder, like a covered lantern with no visible flame — its light falling outward but never into the protected one's eyes. Warm and soundless, it divides into dim lights that st... |
+|  | [The Standing Witness](../../Hope_Transformations/HT-012_The_Standing_Witness_서_있는_증인.md) (서 있는 증인) |  | A small golden figure about the height of a hand, with no visible mouth, carrying a thin silver tablet against its chest — standing wherever its bearer stands, never sitting. Warm and watchful, its featureless face grows a pair... |
+|  | [The Trinity of Dawn](../../Hope_Transformations/HT-V-HC-001_The_Trinity_of_Dawn_새벽의_삼위일체.md) (새벽의 삼위일체) |  | A single birdlike body larger than an eagle, with three overlapping necks joining at the chest — one head bearing many eyes, one a luminous balance-mark, one broad protective wings. Its feathers are pale gold and white Hope-cry... |
 
 ### Unknown Sorrow Entities (8)
 
@@ -645,7 +645,7 @@ A complete roster of every catalogued entity — each with its SECC designation,
 | `N-IVγ-250 [GS]` | [The Extinguished](../../Unknown_Entities/SE-N-IVγ-250_The_Extinguished_꺼진_자.md) (꺼진 자) | Grudge | Major active threat to Hope Bearers and Hope-signatures; ignores the hopeless. Escalates against Bearers who fear burnout; withdraws from honest, steady presence. |
 | `N-IVδ-901 [MH]` | [The Mewgical Girl](../../Unknown_Entities/SE-N-IVδ-901_The_Mewgical_Girl_야옹_마법소녀.md) (야옹 마법소녀) | Mixed | Two coherent identities share one Subject-Body vessel; high-output combat and support abilities. No Fracture risk to civilians, but severe instability on persona conflict — misfired bombs, uncontrolled beams, self-hit Cartoon S... |
 | `N-IVδ-902 [VS]` | [The Repeated Survivor](../../Unknown_Entities/SE-N-IVδ-902_The_Repeated_Survivor_되풀이의_생존자.md) (되풀이의 생존자) | Void | A loop-aware agent who retains across iterations and stages reality as theatre. Lethal ("Bite Down," "Twist the Plot" restages past deaths), Clarity-destroying, and impossible to permanently suppress — it returns each loop. |
-| `` | [The Book of Regressor](../../Unknown_Entities/Book_of_Regressor_Log_Dramaturgy.md) (A Log of the Loops) |  | — |
+|  | [The Book of Regressor](../../Unknown_Entities/Book_of_Regressor_Log_Dramaturgy.md) (A Log of the Loops) |  | — |
 
 
 *The Codex is the frame; each entity file is the picture. Open any entry and the structure above is what you will find.*

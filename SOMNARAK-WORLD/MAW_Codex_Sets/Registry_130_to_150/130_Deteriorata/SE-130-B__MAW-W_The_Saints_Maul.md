@@ -41,7 +41,7 @@
 
 ## Appearance
 
-The Saint's Maul is a matte black maul with fine stone cracks around the head that dissolve and reform when no one holds it, the surface unpolished and faintly warm where the grip band sits. The cracks fill with black pressure lines aimed at the load the bearer names, but only once the bearer also names who takes responsibility after the strike. The haft is long and wrapped, with a wide case key at the base. It cracks a concentrated Weight field into manageable portions across up to three prepared support points, and the bearer and relief partner identify how the post-strike load will divide before the blow. The bearer grows heavier with use and prolonged use causes slight aging. It is never displayed upright as a testament to endurance. A bearer who cannot name a relief person cannot raise the maul, and anyone who strikes without accepting relief finds the weapon anchor to the floor and pass its full Weight back into their own shoulders. The relief partner grounds the head and opens the grip band during shutdown.
+The Saint's Maul is a matte black maul with fine stone cracks around the head that dissolve and reform when no one holds it, the surface unpolished and faintly warm where the grip band sits. The cracks fill with black pressure lines aimed at the load the bearer names, but only once the bearer also names who takes responsibility after the strike. The haft is long and wrapped, with a wide case key at the base. It cracks a concentrated Weight field into manageable portions across up to three prepared support points, and the bearer and relief partner identify how the post-strike load will divide before the blow. The bearer grows heavier with use and prolonged use causes slight aging. A bearer who cannot name a relief person cannot raise the maul, and anyone who strikes without accepting relief finds the weapon anchor to the floor and pass its full Weight back into their own shoulders. The relief partner grounds the head and opens the grip band during shutdown.
 
 ## CORE STATISTICS
 
@@ -81,7 +81,7 @@ Harin used *Hand It Over* during a containment support collapse. The Maul split 
 | Head becomes lighter after a crisis. | The Maul is baiting overuse. | Ground it and reassess. |
 | Grip binds to one hand. | Relief has been treated as failure. | Welfare witness intervenes. |
 
-**Maintenance:** Bearer and relief partner place the Maul between them, name the prior burden, and exchange the case key. The Maul is never displayed upright as a testament to endurance.
+**Maintenance:** Bearer and relief partner place the Maul between them, name the prior burden, and exchange the case key. The Maul is never stood upright on display.
 
 **Emergency shutdown:** The relief partner grounds the head, states the new load holder, and opens the grip band. Do not yank the Maul free; the recoil turns a transfer into a fresh burden.
 
@@ -90,14 +90,3 @@ Harin used *Hand It Over* during a containment support collapse. The Maul split 
 The Maul is the force component of *Set Down Together*. Saint’s Fragment lets a team endure and Saint’s Charm exposes the handoff; this weapon makes the transfer physically possible without making it solitary.
 
 > *“No weapon should reward a bearer for reaching the point where only collapse can stop them.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-130-B`  
-**Linked Entity:** `SE-130`  
-**Item Registry Code:** `MAW-W-130-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

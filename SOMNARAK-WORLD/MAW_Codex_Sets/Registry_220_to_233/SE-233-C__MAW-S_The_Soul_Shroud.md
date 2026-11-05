@@ -26,9 +26,15 @@ The Soul Shroud is a wrapping suit of cool Lament Han-silk that smells faintly o
 
 ## PROTECTION FILE
 
+**Grade / Element:** γ / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
 **Companion Distance:** The cloth distributes Lament across the measured space beside the figure, letting the wearer accompany rather than absorb it. Falling behind or trying to lead collapses the protection.
 
@@ -45,14 +51,3 @@ Shroud holds the human position in *The Unclaimed Walk*. Thread maintains recogn
 **Maintenance:** Walk the empty route once at ordinary pace with a living partner. Speak no source theory. The cloth clears when it matches two present footsteps instead of one absent figure.
 
 **Removal:** The partner walks level with the wearer and loosens the side fold. Pulling from ahead or behind tears the measured distance.
-
----
-
-**Document ID:** `SE-233-C`  
-**Linked Entity:** `SE-233`  
-**Item Registry Code:** `MAW-S-233-01`  
-**Author:** Specialist Hanul Grey  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

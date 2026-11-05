@@ -22,7 +22,7 @@ The Tower formed from a structure that was never completed. The grief of a futur
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Void / Zone B, Old Lament |
-| Gauge / Pressure | 373/373; starts 35–50% / 8–18 per hit · Void |
+| Gauge / Pressure | 000/373; starts 000% / 8–18 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan. |
 
@@ -40,7 +40,7 @@ The Tower formed from a structure that was never completed. The grief of a futur
 
 ## WITNESS RECORD — *The Cleaved Source-Trace*
 
-During the The Cleaved Source-Trace, the field team preserved this source fact: A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a future promised by architecture but never built.
+During *The Cleaved Source-Trace*, the field team preserved this source fact: A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a future promised by architecture but never built.
 
 ## M.A.W. SET — *Cleaved — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Cleaved Source-Trace, the field team preserved this source fact: 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Cleaved's source condition, the Suit lets a witness bear its Void pressure, and the Weapon opens only the immediate manifestation that violates this rule: Do not complete the structure; document what was intended and lost The set cannot heal the originating event. Misuse routes Cleaved's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-775-A`  
-**Linked Entity:** `SE-775`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

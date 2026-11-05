@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Crying Shroud
 
-> *“The Crying Shroud remembers Keen; the bearer must not mistake memory for permission.”*
+> *"The small joys go out of hearing range first. What is left of the wearer is calm, level, and very hard to interest."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Keen's kind of pressure.  
-**Binding rule:** the bearer names Keen's event—A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.—and accepts this limit: Listen without attempting to identify or silence the cry
+**Binding rule:** the bearer names Keen's event — “A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.” — and accepts this limit: Listen without attempting to identify or silence the cry
+
+
+### Appearance
+
+A shroud of pale blue mourning crepe in three layers, cut long enough to trail, with a band of weighted cord sewn into the hem so that it hangs straight in the Row's standing air. A ribbon of sorrow-mist, pale and blue, has never quite cleared the cloth: it sits in the folds and lifts a hand's width off the hem where the wearer passes a voice that has stopped.
 
 ## CORE STATISTICS
 
@@ -25,16 +30,20 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Keen's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
+**Operational / binding cost:** The Shroud takes the small joys out of hearing range first: worn, the wearer is calm, level and increasingly hard to interest. Worn long, they are the steadiest person in the room and cannot say what they like.
 
 ## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Suit Record*
 
-The first The Crying Shroud field bearer encountered this source response: Follows the worker until they can endure the sound. The suit marks the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crying Shroud encountered this source response: Follows the worker until they can endure the sound. The suit marks the immediate hazard only after the team attributed it to Keen. A wearer was the steadiest person in the room and could not say what they liked, and the Shroud’s binding is the character note filed from that quarter.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Keen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the hard-to-interest spreads to the work, and the wearer is calm through a crisis they should have answered.
 - Terminal state: Keen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen without attempting to identify or silence the cry” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +52,4 @@ The first The Crying Shroud field bearer encountered this source response: Follo
 
 ## SET RELATIONSHIP
 
-Within *Keen — Witnessed Form*, The Crying Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1035-C`  
-**Linked Entity:** `SE-1035`  
-**Item Registry Code:** `MAW-S-1035-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Keen — Witnessed Form*, The Crying Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing still interests the wearer; the first watch nothing does, the Shroud is out.

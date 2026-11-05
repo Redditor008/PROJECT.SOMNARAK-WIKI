@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-219 [LO]`  
 **Author:** Researcher Euncris Park  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active O-Relic — Zone A, Alpha Tree vault
 
@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Lament |
 | Form | A jagged blue memorial crystal rising from the vault floor, wet with warm liquid memories that travel upward against gravity. |
-| Gauge / Pressure | 60–80% / Lament 30–66 |
+| Gauge / Pressure | 000% / Lament 30–66 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Opened Seal |
 
@@ -46,10 +46,10 @@ Splinter is salt-cold and smells of rain, but its runoff is warm. Faces move ben
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears are an activation trigger, not Work. |
-| Pugnahan | Not valid; impact increases liquid output. | N/A | Never strike or shatter the shard. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears are an activation trigger, not Work. |
+| Pugnahan | Not valid; impact increases liquid output. | Negative-Low | Never strike or shatter the shard. |
 | Viderehan | Reveals memories stored in the liquid interior. | Stable | Record without touching the runoff. |
-| Ferrehan | Tests whether the worker can remain while grief flows. | Down | Keep the channel held until it closes deliberately. |
+| Ferrehan | Tests whether the worker can remain while grief flows. | Decrease | Keep the channel held until it closes deliberately. |
 
 **Activation:** Touch or tears on the crystal release one memory as liquid vision. Abandoning the channel compounds residue.  
 **Escalation:** At high Gauge, every wet edge carries Lament; shattering releases the full soak.  
@@ -103,13 +103,3 @@ Extraction occurs only after a released memory is witnessed to completion withou
 **Primary source:** `SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md`
 
 **Restricted note:** No maintenance team is authorized to fill, fuse, cap, or polish over the source crack.
-
----
-
-**Document ID:** `SE-219-A`  
-**Linked Entity:** `SE-219`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

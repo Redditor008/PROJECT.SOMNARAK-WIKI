@@ -14,15 +14,15 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Time at Moderate (β) potency, Weight-aligned, held at SECTOR-O-911. It expands and does not breach; the archive holds a stress record with no beginning attached to it.
 
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIβ-911 [WT] |
-| Type / Manifestation | Time — Can breach via Transform / Time-Body |
+| Type / Manifestation | Time — Non-breaching: expansion only / Time-Body |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-O-911, contained |
-| Gauge / Pressure | 426/426; starts 35–50% / 14–21 per hit · Weight |
+| Gauge / Pressure | 000/420; starts 000% / Weight — no attack pattern; the forty-seven-minute interval read from the corridor is the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 
@@ -30,17 +30,17 @@ Not recorded Not recorded
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
-| Viderehan | Permits study; the body pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral |
+| Viderehan | Read the forty-seven-minute interval from the corridor; two loops taken at that reading show the pattern, and the discharge book is the only page that changes between them. (Decrease) |
+| Ferrehan | Hold the corridor for the full interval and sign the book for the day; the pressure settles with the signature, and the second loop is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-911 -->
+**Resolution:** Two loops watched, the sheet completed, and the discharge book signed for the day. The book is the close of every cycle and has been since Year 4,229.
 
 ## WITNESS RECORD — *The Never Discharged Source-Trace*
 
-During the The Never Discharged Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Never Discharged Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Never Discharged — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Never Discharged Source-Trace, the field team preserved this sour
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Never Discharged's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Never Discharged's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-911-A`  
-**Linked Entity:** `SE-911`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-180 [WP]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Collector’s Row wall-growth accounting
 
@@ -61,10 +61,10 @@ The Wall smells of wet stone and iron. Pressing a hand to it reveals the sound o
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Do not weep at a wall instead of reviewing the systems feeding it. |
-| Pugnahan | Invalid for this Place entity. | N/A | The Wall cannot be demolished safely by force. |
+| Flerehan | Invalid for this Place entity. | Negative-Low | Do not weep at a wall instead of reviewing the systems feeding it. |
+| Pugnahan | Invalid for this Place entity. | Negative-Low | The Wall cannot be demolished safely by force. |
 | Viderehan | Reveals history of individual obligations. | Stable | Read blocks with a debt custodian and preserve dispute fields. |
-| Ferrehan | Tests a worker beneath accumulated Weight. | Down | Set a monitored duration and relief plan before the worker approaches. |
+| Ferrehan | Tests a worker beneath accumulated Weight. | Decrease | Set a monitored duration and relief plan before the worker approaches. |
 
 ### Expansion response
 
@@ -85,9 +85,9 @@ The set can hold, absorb, and reveal Weight from debt fields. It must never make
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Sarcophagus Wall-Ram | γ | Weight | Piercing response to wall-like obligation pressure | `SE-180-B__MAW-W_The_Debt_Maul.md` |
-| Suit | The Mason's Mortar-Crusted Hauberk | γ | Weight | Absorbs Weight without becoming permanent burden storage | `SE-180-C__MAW-S_The_Debt_Shield.md` |
-| Stigma | The Unpaid Brick Shard | γ | Weight | Identifies one block or obligation needing review | `SE-180-D__MAW-G_The_Debt_Charm.md` |
+| Weapon | The Sarcophagus Wall-Ram | γ | Weight | Piercing response to wall-like obligation pressure | `SE-180-B__MAW-W_The_Sarcophagus_Wall_Ram.md` |
+| Suit | The Mason's Mortar-Crusted Hauberk | γ | Weight | Absorbs Weight without becoming permanent burden storage | `SE-180-C__MAW-S_The_Mason_s_Mortar_Crusted_Hauberk.md` |
+| Stigma | The Unpaid Brick Shard | γ | Weight | Identifies one block or obligation needing review | `SE-180-D__MAW-G_The_Unpaid_Brick_Shard.md` |
 
 ---
 
@@ -171,13 +171,3 @@ The set can hold, absorb, and reveal Weight from debt fields. It must never make
 **Entity links:** The Debt Chain; The Debt Wall; Collector’s Row review systems.  
 **Accounting rule:** A temporary pressure passage is not debt forgiveness, enforcement authority, or a reason to hide the Wall’s growth.  
 **Item links:** `SE-180-B`, `SE-180-C`, and `SE-180-D` contain individual absorption, discharge, and custody history for Measured Burden.
-
----
-
-**Document ID:** `SE-180-A`  
-**Linked Entity:** `SE-180`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

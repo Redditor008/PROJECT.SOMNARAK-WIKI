@@ -13,13 +13,13 @@
 | REGIONAL GUIDE  : Hwaran, The Furnace Defector (Cheonbulok)         |
 | CHIEF ENGINEER  : Master Wright Gwan (Chassis & Siphon Specialist)  |
 | CHIEF LEY-SEER  : Sora the Blind (Planetary Resonance Diviner)      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | PLANETARY EXPEDITION THEATER:                                       |
 | - Origin Base   : Somnarak Zone E - The Exile's Gate                |
 | - Intermediate  : The Desolate Interior (The Sea of Glass)          |
 | - Target Alpha  : Cheonbulok - The City of a Thousand Rages         |
 | - Target Beta : Mugeukji - The City of Absolute Silence (Bordered)  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TACTICAL SYSTEM ENGAGEMENT:                                         |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | - Action System : Dynamic Speed / Action Points (AP 2 to 5)         |
@@ -90,7 +90,7 @@ Rather than consuming combustible petrochemicals or depleting municipal battery 
 | GUIDE      : Hwaran (Furnace Defector) - Volcanic Staff / Ash Ward  |
 | ENGINEER   : Master Wright Gwan - Chassis Maintenance & Siphon Lead |
 | NAVIGATOR  : Sora the Blind - Subterranean Acoustic Sonar Array     |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | OUTRIDERS  : Dune Scouts - Sand-Skimmers / Kinetic Rifles           |
 | VANGUARD   : Heavy Dredgers - Class IV Exo-Suits / Pile-Drivers     |
 | FLAGSHIP   : The Drift Throne - 142.5m Tracked Mobile Fortress      |
@@ -121,16 +121,16 @@ A native of Cheonbulok who escaped the city's sacrificial Battle Pits. She posse
 |   diversion.                                                        |
 | - Signature Gear: High-velocity sand-skimmers, acoustic decoy       |
 |   flares.                                                           |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CLAN 02: THE ASH IRON CLAN (HOE-CHEOL BUJOK)                        |
 | - Role: Heavy crawler engineering, armor forging, track             |
 |   maintenance.                                                      |
 | - Signature Gear: Portable slag crucibles, hydraulic tread jacks.   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CLAN 03: THE ACOUSTIC WHISPERERS (MAEKRYU CHEONGCHWI BUJOK)         |
 | - Role: Subterranean seismic divination, weather forecasting.       |
 | - Signature Gear: Resonant ear-trumpets, ground contact geophones.  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CLAN 04: THE HEARTHKEEPERS (HWARO SUHO BUJOK)                       |
 | - Role: Life support stewardship, water purification, refugee       |
 |   triage.                                                           |
@@ -149,7 +149,7 @@ A native of Cheonbulok who escaped the city's sacrificial Battle Pits. She posse
 | WAYSTATION 01-04 (SOMNARAK BORDER ZONE):                            |
 | - Station 01: Exile's Rest (0km) Station 03: Iron Ridge (250km)     |
 | - Station 02: Sand-Gate (120km) Station 04: Black Basalt (400km)    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | WAYSTATION 05-12 (THE SEA OF GLASS CORRIDOR):                       |
 | - Station 05: Glass Mirror (650km) Station 09: Salt Sump (1,400km)  |
 | - Station 06: Whispering Dune (800km) Station 10: Obsidian Fort     |
@@ -158,7 +158,7 @@ A native of Cheonbulok who escaped the city's sacrificial Battle Pits. She posse
 |   (1,900km)                                                         |
 | - Station 08: Halfway Crypt (1,200km) Station 12: Slag Approach     |
 |   (2,100km)                                                         |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | WAYSTATION 13-17 (CHEONBULOK CALDERA APPROACH):                     |
 | - Station 13: Ash Gate (2,250km) Station 16: Iron Foundry (2,380km) |
 | - Station 14: Cinder Gorge (2,300km) Station 17: Caldera Causeway   |
@@ -180,7 +180,7 @@ All overland tactical combat encounters execute across the standardized 10-node 
 | [STAGE NODES 01 TO 10 - OVERLAND EXPEDITION THEATER]                |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 |  [RAMPS]    [OUTRIDERS]    [BARRIER]    [SAND-BASIN]    [APEX-BOSS] |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | - [N02] Skimmer Flank : Rapid sand-skimmer outrider deployment lane |
 | - [N03] Sand Barricade : Fortified dune berms / portable kinetic    |
@@ -197,7 +197,7 @@ All overland tactical combat encounters execute across the standardized 10-node 
 |   hazard)                                                           |
 | - [N10] Command Bridge : Drift Throne bridge & siege railgun        |
 |   battery                                                           |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RANGE BANDS (1 TO 5):                                               |
 | - Band 1 (Nodes 1-2): Melee Greatswords, Hydraulic Pile-Drivers     |
 | - Band 2 (Nodes 3-4): Close Assault Shotguns, Thermal Flamethrowers |
@@ -239,7 +239,7 @@ All overland tactical combat encounters execute across the standardized 10-node 
 |   Speed.                                                            |
 | - Dune Camouflage: Operatives in rear dunes gain +25% Evasion.      |
 | - Slag Absorption: Cheonbulok gear absorbs 30% thermal/fire damage. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P2: PANIC / COMPOSURE (SANDSTORM DELIRIUM & ACOUSTIC GROUNDING)     |
 | - Composure Gauge (0-50 SP): Measures nerve against howling dust    |
 |   winds.                                                            |
@@ -247,14 +247,14 @@ All overland tactical combat encounters execute across the standardized 10-node 
 |   Clash.                                                            |
 | - Acoustic Grounding: Flagship acoustic beacons restore +15 SP      |
 |   squad-wide.                                                       |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P3: PARRY / PROTECTION (KINETIC DEFLECTION & SAND SHIELD)           |
 | - Kinetic Deflection: Heavy cleavers reflect projectile fire back   |
 |   at foe.                                                           |
 | - Sand Shield: Deploys compressed silica dust to absorb blunt       |
 |   trauma.                                                           |
 | - Pylon Quench: Cancels environmental heat and cryogenic hazards.   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P4: POSTURE / POISE (MODULAR PART DISMANTLE & TERMINAL STAGGER)     |
 | - Modular Part Posture: Boss appendages/carapaces possess discrete  |
 |   pools.                                                            |

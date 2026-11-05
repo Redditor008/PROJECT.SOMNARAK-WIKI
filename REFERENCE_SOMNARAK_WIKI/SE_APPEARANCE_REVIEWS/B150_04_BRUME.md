@@ -52,15 +52,15 @@ Written-design logical review only. Rendered artwork, browser preview, interacti
   "original_sha256": "2008c31a7c184e197ff4fbf1598f7b6ad4e800d7f5837c257a2687aa666b6166",
   "source_sha256": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-A__SIDE_CODEX_Brume.md": "94a325c220153a465ee5bcd3e3362c195445ed530dd8ff205377b65e7298e5c9",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-B__MAW-W_The_Hope_Lens.md": "fb926276a11609ebc5dec81cc4cbc5c614f5f8d4abd2c11d367a05c632ada41e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-B__MAW-W_The_Horizon_Blade.md": "fb926276a11609ebc5dec81cc4cbc5c614f5f8d4abd2c11d367a05c632ada41e",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-C__MAW-S_The_Hope_Veil.md": "600344add030c4b11db0e6322201da8ad566bf4112fe3f894748e68db438d228",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-D__MAW-G_The_Hope_Lantern.md": "009991f4386093d80d73bd4e5e9a73cd4d9b2aaf13b79fb67ff4abf65f5edbdf",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "source_base": "5dc4fae8b45e0ab23297b60450b230feee274a02",
   "checks": {

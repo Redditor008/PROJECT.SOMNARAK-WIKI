@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Well Within Plate
 
-> *“Well Within Plate remembers Well Within; the bearer must not mistake memory for permission.”*
+> *"It armours the wearer in their own suppression. The blow stops and the anger underneath has nowhere to go."*
 
 ---
 
@@ -17,7 +17,11 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Well Within's kind of pressure.  
-**Binding rule:** the bearer names Well Within's event—A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants.—and accepts this limit: Do not invent a cause; document the fragments and ground the subject
+**Binding rule:** the bearer names Well Within's event — “A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants.” — and accepts this limit: Do not invent a cause; document the fragments and ground the subject
+
+### Appearance
+
+Plate of dark iron cut in overlapping fang shapes, each lame hooking back over the one beneath it. A thin film beads across the surface as the wearer moves, and the set rings faintly at a note that answers the shaft below.
 
 ## CORE STATISTICS
 
@@ -25,16 +29,20 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Well Within's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Plate armours the wearer in their own suppression: the blow lands on the anger instead of the body, and the anger has nowhere to go but further in. Worn long, the wearer is calm, heavy and impossible to hurry.
 
 ## ITEM-SPECIFIC HISTORY — *The Well Within Source-Trace: Suit Record*
 
-The first Well Within Plate field bearer encountered this source response: Tests whether the worker can hear anger without inheriting it. The suit contains the immediate hazard only after the team attributed it to Well Within. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Well Within Plate field bearer encountered this source response: Tests whether the worker can hear anger without inheriting it. The suit contains the immediate hazard only after the team attributed it to Well Within. A wearer was calm, heavy and impossible to hurry through a shift that should have ended them, and the Plate’s binding is that duty board.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Well Within's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the suppression reaches anger the wearer has never had, and it goes further in with nowhere left to go.
 - Terminal state: Well Within's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not invent a cause; document the fragments and ground the subject” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +51,4 @@ The first Well Within Plate field bearer encountered this source response: Tests
 
 ## SET RELATIONSHIP
 
-Within *Well Within — Witnessed Form*, Well Within Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1037-C`  
-**Linked Entity:** `SE-1037`  
-**Item Registry Code:** `MAW-S-1037-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Well Within — Witnessed Form*, Well Within Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one anger can still come out of the wearer; the first shift none does, the Plate is out.

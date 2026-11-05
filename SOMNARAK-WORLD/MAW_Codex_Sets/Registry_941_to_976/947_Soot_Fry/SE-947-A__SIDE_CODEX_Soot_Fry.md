@@ -22,7 +22,7 @@ A featureless white Han-crystal fish of unknown origin, recorded in the same Zon
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Echo (II) — Hunts the way it always has, remembering nothing of why / Moderate (β) |
 | Element / Location | Weight / The Pale Puddle, SECTOR-B-09, Zone B |
-| Gauge / Pressure | 460/460; starts 40–60% / 8–18 per hit · Weight |
+| Gauge / Pressure | 000/460; starts 000% / 8–18 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record. |
 
@@ -40,14 +40,14 @@ A featureless white Han-crystal fish of unknown origin, recorded in the same Zon
 
 ## WITNESS RECORD — *The Soot Fry Source-Trace*
 
-During the The Soot Fry Source-Trace, the field team preserved this source fact: The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: An appetite without a source. The fish eats endlessly and is never full, and gives every sign of wanting something it cannot name. The hunger is the sorrow; the sorrow is the hunger; neither has an explanation the fish can offer, because the fish, by all measurement, does not remember *why* it is hungry.
+During *The Soot Fry Source-Trace*, the field team preserved this source fact: The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: An appetite without a source. The fish eats endlessly and is never full, and gives every sign of wanting something it cannot name. The hunger is the sorrow; the sorrow is the hunger; neither has an explanation the fish can offer, because the fish, by all measurement, does not remember *why* it is hungry.
 
 ## M.A.W. SET — *The Soot Fry — Witnessed Form*
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Still Current | β Weight 6–11; Speed 2 (Normal); Range 4 (Long); AoE; max 3; 24 Sorrow Echoes | `SE-947-B__MAW-W_The_Still_Current.md` |
-| The White Scale | β; L/G/V/W 1.2 (Weak)/1 (Normal)/1.1 (Weak)/0.3 (Resistant); max 3; 20 Sorrow Echoes | `SE-947-C__MAW-S_The_White_Scale.md` |
+| The Still Current | β Weight 6–11; Speed 2 (Normal); Range 4 (Long); AoE; max 4; 24 Sorrow Echoes | `SE-947-B__MAW-W_The_Still_Current.md` |
+| The White Scale | β; L/G/V/W 1.2 (Weak)/1 (Normal)/1.1 (Weak)/0.3 (Resistant); max 4; 20 Sorrow Echoes | `SE-947-C__MAW-S_The_White_Scale.md` |
 | The Black Drop | β; Hand; 5%; +1 stat bonus when working the source entity | `SE-947-D__MAW-G_The_Black_Drop.md` |
 
 **Weapon-range hold:** The primary and `SE-947-B` identify *The Still Current* as a slender white Han-crystal spear. The primary gives Range 3 (Long); the linked item's core row and this Side set summary give Range 4 (Long). Weight 6–11, Speed 2 (Normal), maximum 3, and 24 Sorrow Echoes agree. The Side row summarizes the linked item, not an independent reach measurement. The item's “long range” prose and sinking-thrust ability give no measured reach; the primary's 20 cm resting silhouette / 2.2 m extended-fish measurements describe Soot Fry, not the spear. The master registry marks damage variable and speed/range unset, with maximum/cost `N/A`; archetype `MAW-W-947` lists PRIMAL / CLOSE (Coiling Muscular Tendril), Short, without an explicit crosswalk to `MAW-W-947-01` or the spear. The item/Side AoE and falloff fields are omitted by the primary; that omission is not a defect finding. The cross-flagged Stormscale Sovereign is a distinct, forbidden composite with its own `MAW-W-949-01` item; no record maps its reach to either constituent weapon. No evidence selects Range 3 versus 4; hold range without changing values.
@@ -55,13 +55,3 @@ During the The Soot Fry Source-Trace, the field team preserved this source fact:
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Soot Fry's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills The set cannot heal the originating event. Misuse routes Soot Fry's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-947-A`  
-**Linked Entity:** `SE-947`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

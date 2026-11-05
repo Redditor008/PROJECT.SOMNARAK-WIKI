@@ -14,6 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
+**Maximum Amount:** 4 — Stocked
 A Void Han-glass Head compass with a needle that points away from one unsafe direction. The source granted it after Yeonhwa put the active A-Relic down rather than follow it. Bestowal chance is 5%.
 
 ## Appearance
@@ -46,14 +47,3 @@ Stigma provides one rejection, Veil preserves the traveler, Lens removes a false
 **Care:** Test only against surveyed hazards. Record what evidence made the direction wrong and leave all other paths unranked.
 
 **Emergency release:** Stop moving, name current location, and return decision authority to an external navigator.
-
----
-
-**Document ID:** `SE-290-D`  
-**Linked Entity:** `SE-290`  
-**Item Registry Code:** `MAW-G-290-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -19,10 +19,10 @@ The Door formed from the anger of being denied an exit. The weight of a threshol
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIβ-922 [O] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Grudge |
+| Gauge / Pressure | 000/420; starts 000% / Grudge — no attack pattern; the handle height against the district bulletin is the reading |
 | Observation | 2 — Basic |
 | Formation event | A resident was trapped during a district lockdown, watching a door rise beyond reach. |
 
@@ -30,17 +30,17 @@ The Door formed from the anger of being denied an exit. The weight of a threshol
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows why the exit was denied. (Stable) |
 | Ferrehan | Tests whether the worker can stand before an opening without using it. (Decrease) |
 
 **Trigger:** Touching the handle while naming a choice.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-922 -->
+**Resolution:** Record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Door to Nowhere Source-Trace*
 
-During the The Door to Nowhere Source-Trace, the field team preserved this source fact: A resident was trapped during a district lockdown, watching a door rise beyond reach. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of a threshold that existed but could not be crossed.
+During *The Door to Nowhere Source-Trace*, the field team preserved this source fact: A resident was trapped during a district lockdown, watching a door rise beyond reach. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of a threshold that existed but could not be crossed.
 
 ## M.A.W. SET — *Door to Nowhere — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Door to Nowhere Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Door to Nowhere's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Door to Nowhere's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-922-A`  
-**Linked Entity:** `SE-922`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Door to Nowhere's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The gauge opens at 000% of its 000/420 meter, and no attack pattern is filed for this Grudge manifestation. The set cannot heal the originating event. Misuse routes Door to Nowhere's wound through the operator and triggers the recorded escalation.

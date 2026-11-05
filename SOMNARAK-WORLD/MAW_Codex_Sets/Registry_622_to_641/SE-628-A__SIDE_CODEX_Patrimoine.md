@@ -22,7 +22,7 @@ Patrimoine appears as a burst seed whose dark root-tendrils drag a moving hollow
 | Coherence / Potency | III / γ |
 | Element | Weight |
 | Location | Zone A, Alpha Tree vault |
-| Gauge / Pressure | 567/567; starts 45–65% / 18–41 Weight |
+| Gauge / Pressure | 000/880; starts 000% / 18–41 Weight |
 | Movement / Resistance | Root-current output; combat speed N/A / 35% Weight, 25% other |
 | Activation threshold | Gauge ≥75%; expansion follows transferred sorrow |
 | Observation | 2 — Basic |
@@ -38,8 +38,8 @@ The primary source calls Patrimoine a Subject, but its main behavior and operati
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid under the entity’s Place work protocol. | N/A |
-| Pugnahan | Invalid; confrontation dams the current. | N/A |
+| Flerehan | Invalid under the entity’s Place work protocol. | Negative-Low |
+| Pugnahan | Invalid; confrontation dams the current. | Negative-Low |
 | Viderehan | Memories erased by the city emerge in the flow. | Stable |
 | Ferrehan | The worker remains beneath constant inherited Weight. | Decrease |
 
@@ -67,13 +67,3 @@ Patrimoine is Major γ, while its canonical pieces are Grade α. Extraction foll
 During the Vault Root Dam, staff sealed a black channel to keep it from reaching the Alpha Tree. Pressure entered the nearest analyst instead. Patrimoine Vial absorbed the room, Mantle moved the burden across a marked path, and Maul opened a stone basin. The first attempt failed because the report called the rage “ownerless.” When Euncris named the unhonored soldier and every later bearer remained separately listed, the current settled.
 
 > *“Inheritance explains movement. It does not make the latest bearer the rightful grave.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-628-A`  
-**Linked Entity:** `SE-628`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

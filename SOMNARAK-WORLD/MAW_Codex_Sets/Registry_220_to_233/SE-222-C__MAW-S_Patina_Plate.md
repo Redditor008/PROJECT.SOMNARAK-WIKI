@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-S-222-01`  
 **Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — two plated harnesses
 
@@ -27,9 +27,15 @@ Patina Plate is a Grudge Han-iron harness of rust-dark plates that breathe apart
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Grudge
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 2 / 45 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
 **Hostility Temper:** Directed anger hardens the outer plates into physical resistance. Void slips through because the armor depends on remembered sides; Weight drags those sides into the body.
 
@@ -46,14 +52,3 @@ Plate stands between present parties during *The Chain Ends Here*. Charm audits 
 **Maintenance:** Open every plate and place a current route map underneath with all family labels removed. Two people from different sides identify present hazards together. The harness clears when it responds to the hazard rather than either speaker.
 
 **Removal:** A neutral partner unhooks plates in the order hostility reached them. Forced front release sends stored anger into the nearest stranger.
-
----
-
-**Document ID:** `SE-222-C`  
-**Linked Entity:** `SE-222`  
-**Item Registry Code:** `MAW-S-222-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

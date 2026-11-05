@@ -22,8 +22,15 @@ The Gatekeeper’s Charm is a small tail-charm in Gate-red metal, shaped like a 
 
 ## STIGMA STATISTICS
 
-**Slot:** Tail · **Chance:** 4% · **Bonus:** +3 source-work. **Effect:** identifies one missing passage responsibility—guard, return record, arrival support, or closure authority. **Cost:** temper shortens when the bearer sees a route held without accountability.
-
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+| Grade | δ |
+| Slot | Tail |
+| Acquisition probability | 4% |
+| Source-work bonus | +3 source-work |
+| Effect | identifies one missing passage responsibility—guard, return record, arrival support, or closure authority |
+| Cost | temper shortens when the bearer sees a route held without accountability |
 ## HISTORY & FUNCTION
 
 Xyan authorized a Charm during a return-route test. It pointed to an absent arrival medic, not an enemy. The route was paused until care coverage arrived. The bearer felt rage at the old pattern of Gate duty but recorded the correction rather than treating the feeling as an order to close the passage.
@@ -35,14 +42,3 @@ The Charm burns near a route treated as one-way by habit. It becomes heavy if us
 ## SET RELATIONSHIP
 
 It completes *Gate Held Open*, making Blade and Plate accountable to actual passage duty rather than inherited exclusion.
-
----
-
-**Document ID:** `SE-200-D`  
-**Linked Entity:** `SE-200`  
-**Item Registry Code:** `MAW-G-200-01`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

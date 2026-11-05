@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "batch": 185,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 23,
+  "short_repairs": 19,
+  "careful_repairs": 4,
+  "before_words": 37159,
+  "after_words": 37905,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 95,
+  "pending_fingerprints_unchanged": 95,
+  "source_changes": 0,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": "PASS",
+  "final_words": {
+    "C-Iα-011": 7395,
+    "C-IVδ-165": 7609,
+    "C-Iα-330": 7643,
+    "N-IVδ-339": 7643,
+    "N-IIα-125": 7615
+  },
+  "counters": {
+    "types": "271/301",
+    "weapon": "269/287",
+    "se_appearance_fix": "18/301"
+  },
+  "ledger": {
+    "changed": 14,
+    "retained": 4,
+    "held": 186,
+    "blocked": 2,
+    "pending": 95
+  },
+  "next": "Batch 186 opens on a fresh C-locale ranking of the 95 pending dossiers, in this prompt (ten-review ceiling)."
+}

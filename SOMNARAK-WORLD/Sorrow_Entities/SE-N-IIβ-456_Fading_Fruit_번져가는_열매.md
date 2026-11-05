@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-456 [N]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: fixed garden |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — Not one body but a place: dark fruit trees whose fruit shrivels and fades the moment before it can be eaten, the ground beneath warm and bitter. Fever-hot, it smells of char and overripe sweetness; nothing here is ever ripe. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -26,76 +26,84 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Primary pressure** | Resilience — desire for a specific entitlement earned but not received |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 1–3 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a garden widening its footprint at a 60 per cent trigger, with no counter. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter; seasonal footprint expansion and withdrawal in place, with no breach recorded |
 | **Tool / M.A.W. grade** | — · α |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Vessel-Destructible** | No — Place manifestation; no vessel or destruction route is recorded |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Only two Work Types answer here: Viderehan from the rows and Ferrehan posted in them. Ferrehan comes first, the gauge falling under it while Viderehan only holds the reading level. Acknowledge what the households want and promise them no meal, since no fruit off these branches has ever been eaten and a promise made at the branch is one the garden cannot keep. Pick nothing. Log the empty stems and take no sample through the gate, because fruit thins away in transit and 31 years of trying have produced no exception to it. Yield is booked against arrivals, and arrivals are never named. The 60 per cent trigger is watched from the marked corner rather than from inside the rows. |
 
 ### Operational Notes
 
 - No breach counter; the gauge trigger is 60 per cent. The garden widens its footprint rather than leaving, and in thirty-one years it has reached a marked corner four times and withdrawn from it four times.
-- Viderehan and Ferrehan only. Ferrehan lowers the gauge and Viderehan holds it level, which makes Ferrehan primary; the Registrum carried no entry at all on the point and now does.
+- Viderehan and Ferrehan only. Ferrehan lowers the gauge and Viderehan holds it level, which makes Ferrehan primary. The Registrum carried no entry at all on the point and now does.
 - Viderehan gives what each household wanted: a meal grown rather than bought, a fruit off a tree they had tended. It has never once given a grievance. Ferrehan is the season spent in the rows without picking anything.
 - Nothing has ever been harvested. Fruit taken from the branch thins to nothing before it reaches a mouth, no sample has survived transit, and the empty stems are the only recoverable material in the holding's history.
 - Yield tracks arrivals rather than cycle length, and arrivals are never named. The ward asked for that before the holding existed and the facility agreed, which is the only concession of its kind in the wing.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 357/357 |
-| **Han Pressure [ATK]** | 7–18 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone C, Collector's Row |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*, and the record's own account of what goes wrong is a hand going out on its own. Nothing in this garden has a reach: the reach is the worker's, which is why the safeguards are an hour with hands kept down and two counts reported side by side.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A garden of heavy fruit at Collector's Row where every fruit set on the branch is matched by an empty stem — four thousand one hundred and nineteen of each in the worst season on file. A lean season shows the finest garden, and the count is what identifies it rather than the look of the trees. |
+| **Perceptible to** | The set count first, taken at the fall against the empty stems, which have always matched it exactly. Then, for a worker standing in the rows, the specific thing they earned and never received, arriving without being looked for. |
+| **Handling** | Hands kept down for the hour, nothing picked, the desire acknowledged aloud with no fulfilment promised, and the set count and the stem count taken and reported side by side rather than as one figure. — see `## Handling Process` |
+| **Activation threshold** | No breach counter; seasonal footprint expansion and withdrawal in place, with no breach recorded |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | The desire acknowledged and no fulfilment promised, nothing picked, the set count and the stem count taken and reported side by side, and the gauge below 25% |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Withering* [**Debuff**] } | "The fruit in your hand is going translucent — losing substance, losing color, losing its reason to exist." | [The Fruit's fading transfers to the target; they feel themselves becoming less real.] | *Target suffers -10 Resilience; they are fading like the fruit.* **[10 Grudge DMG [Grudge]]** | When the target holds the Fruit. |
-| { *The Losing Shape* [**Debuff**] } | "The fruit cannot hold its form — and neither can you, near it. Edges blur. Definition fails." | [The Fruit's dissolution is contagious; the target's boundaries weaken.] | *Target loses 10 Resilience; they are losing their outline.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
-| { *The Final Juice* [**Attack**] } | "You close your hand on it and there is a drop, bitter, warm, and then a wet stem and nothing. Four Wardens have done this. All four reported it." | [The fruit discharges as it goes.] | *Grudge pressure and one wound of concentrated ending.* **[14-22 Grudge DMG [Grudge]]** | When a fruit is picked — which is prohibited, and has happened four times. |
-| { *The Total Fade* [**Attack**] } | "Four thousand one hundred and nineteen set that season, and four thousand one hundred and nineteen stems, and the counter finished both lists." | [The whole season goes at once.] | *A heavy Grudge surge; the target's Sorrow Gauge rises 15%.* **[24-36 Grudge DMG [Grudge]]** | At a set count above two thousand. |
-| { *The Empty Harvest* [**Ultimate**] } | "Every fruit in the field fades — and the orchard becomes a collection of absences, each one shaped like hunger." | [The Fruit extends its fading across the whole area.] | *All in range suffer Grudge pressure for three turns of vanishing harvest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the garden does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Withering* [**Register**] } | Thins the fruit at shoulder height as a worker's hand starts toward it, and puts the specific entitlement they earned and never received into the front of their mind while the hand is still moving. | Logs the stopped reach with the minute, and writes the hand returning to the side as the reading rather than as an incident. | Nothing is taken. The stopped reach is the event, and the minute is what gives it a shape — which is why the standing order is an hour at the marked distance and not a walk among the rows. |
+| { *The Losing Shape* [**Exposure**] } | Blurs the edges of every visible fruit when a desire is promised fulfilment, treated as proof of entitlement, or recorded as debt. Hunger transfers to the operators and the boundary between wanting and being owed goes with it. | Keeps desire, debt, authority and feasible action in four separate fields, and checks the fields against each other before the watch leaves the garden. | Four fields instead of one is the whole method. A worker who cannot hold does not break down — they reach, and the row that catches it is the one that keeps desire apart from entitlement. |
+| { *The Final Juice* [**Attachment**] } | Gives up the fruit entirely when a hand closes on it: a drop, bitter and warm, and then a wet stem and nothing. Four Wardens have done this, and all four reported themselves. | Records the picking against the worker rather than the garden, files the feeding, and pulls that quarter's set-off return. | The fruit does not answer a pick with a blow; it is simply no longer there. That is why the file can afford to leave the rows open and why the count is the only containment that holds. |
+| { *The Total Fade* [**Overload**] } | Completes the season on the branch: every set fruit matched by an empty stem, both lists finished, and the whole fall vanished before anything was taken. | Files both lists whole — four thousand one hundred and nineteen and four thousand one hundred and nineteen — and pulls the quarter's set-off return with them. | No personnel gauge is inferred from the count; the two lists are the record and they match exactly. A worker who cannot hold brings themselves to file the set-off late, and seventeen Wardens came off this rota and were later found handing entitlements over entire. |
 
-1. **Tension:** Recognition comes before anything: the count and the bare stems identify the Fruit, not the look of the trees. A lean season shows the finest garden — heavy blossom, fruit setting early, and nothing in thirty-one years grander than the spring of Year 4230 — and only then are the approach set and the positions taken.
-2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A under the Object/Place Work Rule. The reading is the set count: fruit that formed on the branch across the season, counted at the fall against the empty stems, which have always matched it exactly. Three hundred and forty is baseline. The recorded range is ninety-six to four thousand one hundred and nineteen.
-3. **Resolution:** The watch is filed under containment, retreat, management, or the condition this file registers: **Acknowledge desire without promising fulfillment**.
+### Watch Sequence
+
+1. **What is confirmed:** the set count and the empty-stem count against the last full season, the four fields — desire, debt, authority, feasible action — kept apart, and the hands of everybody on the rota.
+2. **What the watch does:** Viderehan for the rows and the standing desire and Ferrehan for the hour stood with hands down, with nothing picked and no fulfilment promised at any point in the watch.
+3. **How it closes:** **The desire acknowledged and no fulfilment promised, nothing picked, the set count and the stem count taken and reported side by side, and the gauge below 25%** — and a watch that ended with a fruit touched is filed as a feeding, whatever the worker intended.
 
 ### Consequences
 
 - Resilience fails here as reaching. The worker stands in a row of heavy fruit for an hour and the hand goes out on its own, and four have, and all four reported themselves.
 - What long exposure leaves behind is a worker who cannot bring themselves to file a set-off. Seventeen Wardens came off this garden's rota and were later found handing entitlements over entire, and the credit office's complaint against the rule that governs this garden names every one of the seventeen.
-- The set takes feeling, reflex, and temper for different intervals. While the Dagger is drawn the wielder feels none of their own; the following hour arrives all at once, while the Plate dulls reflexes and the Charm shortens temper for about a day each. The Armoury records the charges separately and notes that the Dagger's is the one bearers feel last.
-- No breach has ever been recorded. It widens and withdraws, four times each way in thirty-one years, with no intervention on any of the eight occasions; the escalation model below is a reconstruction and is marked as one.
+- The set takes feeling, reflex, and temper for different intervals. While the Dagger is drawn the wielder feels none of their own. The following hour arrives all at once, while the Plate dulls reflexes and the Charm shortens temper for about a day each. The Armoury records the charges separately and notes that the Dagger's is the one bearers feel last.
+- No breach has ever been recorded. It widens and withdraws, four times each way in thirty-one years, with no intervention on any of the eight occasions. The escalation model below is a reconstruction and is marked as one.
 
 ## Appearance
 **Primary Form:** A planted garden of dark fruit trees between the tenements and the ledger offices, the beds still laid out as the households dug them, the ground warm underfoot and bitter on the air. The trees bear heavily. Nothing on them has ever been eaten.
@@ -131,26 +139,22 @@
 - **The Sorrow:** Not the owing. The interval between earning a thing and holding it, and what can be done to a person inside that interval while everybody involved acts entirely properly.
 - **The Event:** Forty-one households dug a garden between the tenements and the ledger offices, wrote an agreement sharing the work and the harvest equally, signed it, tended four seasons, and ate nothing. The blossom came every year. The fruit set every year.
 - **The People:** Forty-one debtor households of Collector's Row who dug the beds, wrote a planting agreement between themselves, and signed it. The agreement allocated the work and the harvest in equal shares, and the archivist's note records that it is careful, fair, and governs a crop that has never existed.
-- **Expanded origin context:** Nobody took the fruit and no office interfered with the garden; three surveys have confirmed it and the ledger offices across the lane were never implicated in anything. What the file eventually connected it to is a practice nobody has ever called wrong: an entitlement earned by a person who owes money is applied to what they owe on the day it falls due. It is lawful, it is disclosed in every scheme's terms, it has never been disputed by anybody, and it is the reason a debtor's completion bonus is a line in a ledger rather than a thing in a hand. The holding has never responded to the planting, the households, or the four seasons they worked. The set count sat at baseline through all of it. It responds to the set-off column, which this facility did not begin publishing until Year 4207.
+- **Expanded origin context:** Nobody took the fruit and no office interfered with the garden. Three surveys have confirmed it and the ledger offices across the lane were never implicated in anything. What the file eventually connected it to is a practice nobody has ever called wrong: an entitlement earned by a person who owes money is applied to what they owe on the day it falls due. It is lawful, it is disclosed in every scheme's terms, it has never been disputed by anybody, and it is the reason a debtor's completion bonus is a line in a ledger rather than a thing in a hand. The holding has never responded to the planting, the households, or the four seasons they worked. The set count sat at baseline through all of it. It responds to the set-off column, which this facility did not begin publishing until Year 4207.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A garden of heavy fruit at Collector's Row where every fruit set on the branch is matched by an empty stem — four thousand one hundred and nineteen of each in the worst…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | It gives what each household wanted, in their own terms: a meal grown rather than bought, a fruit off a tree they tended, one season's eating that nobody had to be thanked for. It has never once given a grievance, and observers have waited thirty-one years for one. | Stable |
-| **Ferrehan** | The posted hour in the rows at the heaviest point of the season, with the fruit at shoulder height, not picking anything. Primary Work Type for this holding. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the set count and the empty-stem count against the last full season, the four fields — desire, debt, authority, feasible action — kept apart, and the hands of everybody on the rota. |
+| **Handling** | The watch logs the stopped reach with the minute, and writes the hand returning to the side as the reading rather than as an incident. |
+| **Withdrawal** | **The desire acknowledged and no fulfilment promised, nothing picked, the set count and the stem count taken and reported side by side, and the gauge below 25%** — and a watch that ended with a fruit touched is filed as a feeding, whatever the worker intended. |
+| **Refusal** | Hands kept down for the hour, nothing picked, the desire acknowledged aloud with no fulfilment promised, and the set count and the stem count taken and reported side by side rather than as one figure. |
 
-
-### Operational Work Notes
-
-Ferrehan lowers the gauge and Viderehan holds it level; Flerehan and Pugnahan are N/A for a Place. The manifestation is Place-Grudge throughout, and the Detailed Activation Record's entry of Subject-Grudge was drift against the SECC header, the Appearance profile and the Observation Progression, all three of which have always read Place.
-
-**Reading the response:** The gauge measures one worker for one hour. The set count measures how much of what this facility's people earned was taken before they held it. They are kept in separate columns, they have never moved together, and an hour that lowers the gauge in a four-thousand season is written up as a clean hour without qualification.
 ## Expansion Behavior
+
+> **Special activation — no counter.** There is no counter and no switch: the garden's footprint expands and withdraws with the season, in place, and no breach is recorded.
 
 | Field | Detail |
 |---|---|
@@ -165,7 +169,7 @@ Ferrehan lowers the gauge and Viderehan holds it level; Flerehan and Pugnahan ar
 
 There has been no breach and there is no boundary. Escalation here is a season setting more fruit than the last and the beds creeping toward a marked corner, neither of which is visible on any given day. All four approaches were identified at the fall, from the counts, and two of the four were identified only after the figures were set beside the credit office's quarterly return.
 
-**Response sequence:** walk the marked corners, take the ground temperatures, count what has set, pull the quarter's set-off return, and stand the hour. Nonessential personnel are not removed and the garden is not closed; debtors come here unbidden and closing it has been proposed three times and refused three times, on the ground that a holding about people being kept from what is theirs will not be contained by a fence.
+**Response sequence:** walk the marked corners, take the ground temperatures, count what has set, pull the quarter's set-off return, and stand the hour. Nonessential personnel are not removed and the garden is not closed. Debtors come here unbidden and closing it has been proposed three times and refused three times, on the ground that a holding about people being kept from what is theirs will not be contained by a fence.
 
 
 ### Detailed Activation Record
@@ -177,7 +181,7 @@ There has been no breach and there is no boundary. Escalation here is a season s
 | **Primary effect** | A specific want for something already earned and not received. Logged by what the worker names, which is never money in general. |
 | **Duration / rate** | Slow. Four approaches to a marked corner and four withdrawals in thirty-one years. |
 | **Risk** | Moderate (β) Place-Grudge, Grudge pressure. Exposure costs recoveries: seventeen Wardens off this garden now hand entitlements over whole. |
-| **Management** | Acknowledge, promise nothing, pick nothing; both counts at the fall; the Rule of the Delivered Harvest enforced across the credit office and every scheme this facility operates. |
+| **Management** | Acknowledge, promise nothing, pick nothing. Both counts at the fall; the Rule of the Delivered Harvest enforced across the credit office and every scheme this facility operates. |
 
 **Activation reporting order:** trigger → fruit set and empty stems at the fall, counted separately → the marked corners and whether the footprint has reached them → personnel effect → rate → management condition. The two counts are reported side by side even though they have never differed, because the day they differ is the day something has been harvested here.
 ## M.A.W. Equipment
@@ -188,7 +192,7 @@ There has been no breach and there is no boundary. Escalation here is a season s
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a slender dagger of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a crimson dagger of Grudge Han-iron with grief stains visible beneath its surfaces, the discoloration sitting under the metal like bruising under skin—visible, and unreachable.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)
@@ -198,13 +202,13 @@ There has been no breach and there is no boundary. Escalation here is a season s
 
 **Ability:** The dagger shows what a person is owed and has not been given. It shows nothing about what they owe, which the armoury established in Year 4228 by looking for it and recorded as a property rather than a limitation.
 
-**Cost:** The wielder feels nothing of their own while it is drawn, and the hour afterwards arrives all at once. Six wielders have described sitting down for it somewhere out of the way.
+**Bearer cost:** The wielder feels nothing of their own while it is drawn, and the hour afterwards arrives all at once. Six wielders have described sitting down for it somewhere out of the way.
 
 ### M.A.W. Suit — Fading Fruit Plate
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a crimson Han-iron harness patterned with fading fruit—orchards stamped into the metal mid-vanishing, so the harvest is visibly in the act of being withdrawn and is never polished brighter.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -214,15 +218,15 @@ There has been no breach and there is no boundary. Escalation here is a season s
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Wards Grudge pressure on the Body. Worn for the hour in the rows and kept on to the gate, which the counters insisted on after two workers removed it at the bed edge and were found with fruit in their hands.
+**Ability:** *Denied-Hope Guard* protects the Body from Grudge generated by systemic foreclosure without treating that denial as fair or soluble by one person's force. Worn for the hour in the rows and kept on to the gate, which the counters insisted on after two workers removed it at the bed edge and were found with fruit in their hands.
 
-**Cost:** Dulled reflexes for about a day, measured and modest. Wearers describe it as the slowness of a hand that has already been told no.
+**Bearer cost:** Dulled reflexes for about a day, measured and modest. Wearers describe it as the slowness of a hand that has already been told no.
 
 ### M.A.W. Stigma — Fading Fruit Charm
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** a crimson Han-iron Tail charm shaped as a fruit, remaining whole only while desire is recorded without promise. When wanting is inflated into a guarantee, the fruit begins to split.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -230,13 +234,13 @@ There has been no breach and there is no boundary. Escalation here is a season s
 
 **Ability:** The charm goes cold when the bearer is about to apply a set-off to somebody else's entitlement. It confers nothing else and the holding has stopped describing it as a boon.
 
-**Cost:** A shortened temper for about a day, and in every logged instance it goes off at a procedure rather than at a person. Five bearers recorded that separately before anyone compared them.
+**Bearer cost:** A shortened temper for about a day, and in every logged instance it goes off at a procedure rather than at a person. Five bearers recorded that separately before anyone compared them.
 
 *The charm has come up eight times, and each time to a worker who passed an entitlement on before setting it against a balance they had every right to recover. Five of the eight were told their section's recovery numbers had suffered. The pattern is written into the file and is expressly not made a test.*
 
 ### M.A.W. Use Notes
 
-The armoury's note records none of it as designed: the pieces were found one at a time across thirty-one years, and the fourth thing tried here — a scale built to weigh a person's entitlement against their arrears and advise the greater number — did simply what the specification asked, and was broken up at the ward's request.
+The Armoury's note records none of it as designed: the pieces were found one at a time across thirty-one years. And the fourth thing tried here — a scale built to weigh a person's entitlement against their arrears and advise the greater number — did simply what the specification asked. And was broken up at the ward's request. In use, the Dagger reveals, the Plate guards and the Charm marks; every deployment records desire, debt, authority and feasible action in separate fields. No piece may promise a harvest, monetize the fruit, or treat wanting itself as either proof of entitlement or another debt.
 
 ### Field Use Record
 
@@ -249,7 +253,7 @@ The armoury's note records none of it as designed: the pieces were found one at 
 
 **Stat interpretation:** α across the set and correctly rated against entities. Against people it costs an hour of absent feeling that arrives all at once afterwards, a day of reflex, and a day of anger aimed at procedures, and the establishment has a column for the second.
 
-**Full-set source review (2026-10-11):** Reviewed the `— · α` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-456-A` (`N-IIβ-456 [N]`, set `4/4`), items `SE-456-B/C/D` (`MAW-W/S/G-456-01`), Registry rows 679–682, Master Codex table/Entries 490–492, Tale 164, and the Weapon archetype records for `MAW-W-456`. All primary review sections are present. The Side set page has no standalone Appearance section; all three linked item files have Appearance sections, and none has a separately labelled transition block. Master details do not supply item Appearance or a full combat profile; the repository has Weapon archetypes but no Suit/Stigma catalog. The primary's Grudge 3–6, speed 2, range 2, max 5, and 15-Echo Weapon profile and the Suit profile/cost match the Side/item evidence; Single and 1.0 coverage are Side/item-only and remain unstated locally. Tail / 5% and +1 Resilience agree across the primary, Side, and Stigma item, and the primary effect now names Resilience. All three primary item blocks, linked item records, and Master entries give grade α; the M.A.W. half of the overview now reads α. The early cost recap now preserves the Dagger's use-and-following-hour timing separately from the Plate's reflex and Charm's temper costs.
+**Full-set source review (Year 4238):** Reviewed the `— · α` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-456-A` (`N-IIβ-456 [N]`, set `4/4`), items `SE-456-B/C/D` (`MAW-W/S/G-456-01`), Registry rows 679–682, Master Codex table/Entries 490–492, Tale 164, and the Weapon archetype records for `MAW-W-456`. All primary review sections are present. The Side set page has no standalone Appearance section; all three linked item files have Appearance sections, and none has a separately labelled transition block. Master details do not supply item Appearance or a full combat profile; the repository has Weapon archetypes but no Suit/Stigma catalog. The primary's Grudge 3–6, speed 2, range 2, max 5, and 15-Echo Weapon profile and the Suit profile/cost match the Side/item evidence. Single and 1.0 coverage are Side/item-only and remain unstated locally. Tail / 5% and +1 Resilience agree across the primary, Side, and Stigma item, and the primary effect now names Resilience. All three primary item blocks, linked item records, and Master entries give grade α; the M.A.W. half of the overview now reads α. The early cost recap now preserves the Dagger's use-and-following-hour timing separately from the Plate's reflex and Charm's temper costs.
 
 **Holds:** Primary/Master titles (`Fading Fruit Dagger/Plate/Charm`) differ from Side/item titles (`The Indebted Dagger/Plate/Charm`). `MAW-W-456` retains its original `Straight Parallel Dirk` (Short) record and a later full-set similarity-sweep replacement, `Rondel Dagger`, which has no band in that replacement row. Both depictions remain under the same code; no source crosswalk or transition is documented, so neither silhouette is selected. Registry row 682 remains generic Accessory / 5%, while the linked Stigma records specify Tail / 5%. The fourth tested scale in the primary Use Notes is a dismantled trial, not an issued fourth item; the Side set remains `4/4`. Tale 164 was checked for the source account and provides no M.A.W. form crosswalk. No title, silhouette, or Registry classification was normalized; no linked source file changed.
 
@@ -261,7 +265,7 @@ The armoury's note records none of it as designed: the pieces were found one at 
 - The footprint widens and withdraws by season and the beds the households dug are still legible in the ground underneath it.
 - Workers report a specific loss afterwards and name it within the hour, and in every recorded case the thing named was something they had earned and not received rather than something they had wanted and never had.
 
-**Personnel Note:** *"It did not punish wanting. It showed me the completion bonus from my fourth year, which I earned, and which went onto my arrears on the day it fell due, and which I have never once thought of as money that was taken from me until I stood in that row."* — Specialist, Zone C survey
+**Personnel Note:** *"It did not punish wanting. It showed me the completion bonus from my fourth year, which I earned. And which went onto my arrears on the day it fell due. And which I have never once thought of as money that was taken from me until I stood in that row."* — Specialist, Zone C survey
 
 
 
@@ -286,13 +290,13 @@ Fading Fruit (N-IIβ-456 [N]) registers in the ledger as a Place-Grudge form exp
 The first return under the Rule of the Delivered Harvest, Year 4238. Across the nine completed years before this one the facility credited eleven thousand nine hundred and six earned entitlements — hazard pay, leave buy-backs, completion bonuses, retirement grants — to its own staff and to the debtor households of Collector's Row. Nine thousand eight hundred and forty-one were set against outstanding balances the day they fell due and were never held by the person who earned them. Every set-off was lawful, disclosed in the scheme terms, and undisputed. This year two thousand one hundred and four entitlements were handed over in person before any set-off applied. Inside the ninety-day grace one thousand seven hundred and eighty holders signed the set-off of their own accord. Three hundred and twenty-four did not: of those, one hundred and twelve are in arrears now who were not before, and nineteen have gone on to the Collectors. The set count read four thousand one hundred and nineteen in Year 4230, when hazard pay first arrived and was swept against balances in full, and ninety-six in Year 4237. For thirty-one years the count has followed the set-off column and nothing done among the rows.
 
 **Entry 3 — <Statement of a Credit Office Clerk>**
-I have handed money to a woman who owed us four hundred Echoes and watched her hold it for ninety days and then sign it back, and I want it on the record that she was not coerced and that I would have signed it back too. You cannot hold money while you owe. It sits there being the thing you have not done. Eighteen hundred of them signed it back and they were right to, and the three hundred who did not are the ones in my arrears book now, and a hundred and twelve of those were never in it before. So I have a rule that gives people a free choice and almost all of them choose what we used to do to them without asking, and I cannot tell you whether that proves the rule was unnecessary or proves exactly how deep the thing goes.
+I have handed money to a woman who owed us four hundred Echoes and watched her hold it for ninety days and then sign it back. And I want it on the record that she was not coerced and that I would have signed it back too. You cannot hold money while you owe. It sits there being the thing you have not done. Eighteen hundred of them signed it back and they were right to, and the three hundred who did not are the ones in my arrears book now, and a hundred and twelve of those were never in it before. So I have a rule that gives people a free choice and almost all of them choose what we used to do to them without asking. And I cannot tell you whether that proves the rule was unnecessary or proves exactly how deep the thing goes.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IIβ-456 is a garden discipline at Collector's Row and a payment rule in the credit office. Garden: Ferrehan primary, Viderehan secondary, Flerehan and Pugnahan N/A under the Object/Place Work Rule; nothing is picked, the prohibition being absolute and never once challenged; fruit set counted on the branch row by row and initialled, empty stems counted at the fall, both lists filed whole and reported side by side; the marked corners walked and never moved; ground temperatures at the marked points on schedule; the plate worn from the bed edge to the gate and the hands recorded as empty by the relief; arrivals noted and names not taken, at the ward's request and by agreement predating the holding. Credit office duties, binding on every scheme this facility operates: **an entitlement earned by a person is delivered to that person, in their hand, before any set-off is applied against it. Set-off against an earned entitlement requires that person's separate written agreement, given after they have received it, and no enforcement may follow a delivered entitlement for ninety days.** Work response — Viderehan: what each household wanted, never a grievance (Stable); Ferrehan: the hour in the heaviest row, picking nothing (Decrease).
+Containment of N-IIβ-456 is a garden discipline at Collector's Row and a payment rule in the credit office. Garden: Ferrehan primary, Viderehan secondary, Flerehan and Pugnahan Net-Neutral under the Object/Place Work Rule. Nothing is picked, the prohibition being absolute and never once challenged. Fruit set counted on the branch row by row and initialled, empty stems counted at the fall, both lists filed whole and reported side by side. The marked corners walked and never moved. Ground temperatures at the marked points on schedule. The plate worn from the bed edge to the gate and the hands recorded as empty by the relief. Arrivals noted and names not taken, at the ward's request and by agreement predating the holding. Credit office duties, binding on every scheme this facility operates: **an entitlement earned by a person is delivered to that person, in their hand, before any set-off is applied against it. Set-off against an earned entitlement requires that person's separate written agreement, given after they have received it. And no enforcement may follow a delivered entitlement for ninety days.** Work response — Viderehan: what each household wanted, never a grievance (Stable). Ferrehan: the hour in the heaviest row, picking nothing (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Delivered Harvest>**
-The credit office was against this rule from the start, and I have never found an answer to their objection; I have only chosen to live on the far side of it.
+The credit office was against this rule from the start, and I have never found an answer to their objection. I have only chosen to live on the far side of it.
 
 Their case: a set-off is a bookkeeping entry and nobody is hurt by it, but money placed in a debtor's hand is money that will mostly not come back, and the arrears that follow are not an entry. Arrears bar a household from the hardship fund, end a tenancy, and end with a referral to the Collectors. Their chief clerk put it in a line I have not improved on: *you will put it in their hand and then take their house for it.*
 
@@ -327,7 +331,7 @@ Rows of dark trees under heavy fruit, warm ground, bitter air, and beds still la
 
 **When the entity activates:** More fruit, and then more, and the beds are a pace nearer the north corner than they were in the spring. Nothing has happened here. A quarter ago a bonus fell due to somebody who owed money and went where it was always going to go.
 
-**After departure:** You name the thing. Everybody names a thing, and it is never money in general; it is the specific entitlement, with its year and its scheme and its amount, that you earned and did not hold. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** You name the thing. Everybody names a thing, and it is never money in general. It is the specific entitlement, with its year and its scheme and its amount, that you earned and did not hold. The wing asks for the year and the scheme. The worker can always give both, which is the part the file keeps pointing at.
 
 ### Interaction Pattern
 
@@ -342,8 +346,8 @@ Every one of the three records filed beside this one is grouped by debt, and tha
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Debt Wall** | The claim that the Wall's obligations feed this garden is a Year 4214 summary line. No measurement exists and the two have never been read against each other. | Unmeasured. | That the claim is unevidenced, written beside it each time it is repeated. |
-| **The Burning Fruit** | Grouped on fruit, which the file regards as the least defensible pairing it carries. Nothing has been brought near this garden and nothing is scheduled. | Unmeasured. A proposed trial was refused in Year 4225 on the ground that the resemblance was horticultural. | The refusal cited, not re-argued. |
+| [**The Debt Wall**](SE-C-IIIγ-180_Owed_빚의_벽.md) | The claim that the Wall's obligations feed this garden is a Year 4214 summary line. No measurement exists and the two have never been read against each other. | Unmeasured. | That the claim is unevidenced, written beside it each time it is repeated. |
+| [**The Burning Fruit**](SE-C-IIβ-777_Last_Fruit_타오르는_열매.md) | Grouped on fruit, which the file regards as the least defensible pairing it carries. Nothing has been brought near this garden and nothing is scheduled. | Unmeasured. A proposed trial was refused in Year 4225 on the ground that the resemblance was horticultural. | The refusal cited, not re-argued. |
 | **The Debt Clock** | The only measured relationship on this file. The two series were charted together for nine seasons and move independently; the fading does not quicken near a deadline and never has. | A clean negative, the holding's most-cited result, and the reason the Clock and this garden are worked by separate teams. | Both series by season, and the negative recorded as a negative rather than as inconclusive. |
 
 **Interaction procedure:** The Clock series beside the set count every season, unchanged in form. No proximity trial without a stated positive result. The Year 4225 refusal and the nine-season negative are cited rather than re-argued.
@@ -352,15 +356,15 @@ Every one of the three records filed beside this one is grouped by debt, and tha
 
 They planted a garden in Collector's Row, dreaming of the lives the debt had closed, and the fruit, every season, faded before any hungry mouth could taste it.
 
-The debtors of Collector's Row were poor — chronically, systemically, the kind of poor that the city produces and maintains and calls a condition rather than a choice. They owed. They would always owe. And among the owing, they dreamed — not of wealth, but of the ordinary satisfactions the debt foreclosed: a meal grown rather than bought, a fruit picked from a tree they had tended, the small domestic pleasure of eating something that was theirs because they had made it grow.
+The debtors of Collector's Row were poor — chronically, systemically, the kind of poor that the city produces and maintains and calls a condition rather than a choice. They owed. They would always owe. And among the owing, they dreamed — not of wealth. But of the ordinary satisfactions the debt foreclosed: a meal grown rather than bought, a fruit picked from a tree they had tended, the small domestic pleasure of eating something that was theirs because they had made it grow.
 
-They planted a garden. In the marginal soil of Collector's Row, between the tenements and the ledger offices, the debtors dug and planted and tended — fruit trees, vegetable beds, the small agricultural gestures of people reaching for a life the system had labeled unavailable. The garden was an act of defiance, and an act of hope, and an act of the ordinary domesticity the debt was supposed to have foreclosed.
+They planted a garden. In the marginal soil of Collector's Row, between the tenements and the ledger offices, forty-one households dug the beds, set out fruit trees and signed an agreement to share the work and harvest equally. The garden was an act of hope and of ordinary domesticity: a meal grown rather than bought, from trees they themselves had tended.
 
-The fruit faded. Every season, the trees bore — the blossoms came, the fruit formed, the harvest approached. And every season, before the fruit ripened, before any debtor could pick it, before any hungry mouth could taste the thing they had grown — the fruit faded. Withered on the branch. Dissolved. The debt, the debtors came to understand, was not merely financial. It was a condition — a systemic foreclosure on the possibility of satisfaction, on the completion of any cycle of effort and reward. The debtors could plant. The debtors could tend. But the debt ensured that the harvest, the payoff, the taste of the thing they had worked for — these were reserved for those who did not owe.
+The fruit faded. Every season the blossoms came, fruit set and swelled, then thinned on the branch before it could be eaten. Later Wardens have closed a hand on one four times and received a bitter drop and a wet stem; no household harvest followed. The injury was not that an office seized the crop—none did—but that effort could be completed lawfully at every step and still never arrive in the earner's hand.
 
 Fading Fruit is Place-Grudge: the figure of desire made impossible by debt — the garden that grows but cannot feed, the fruit that forms but cannot be tasted, the effort that the system ensures will never arrive at its reward.
 
-To come near the Fading Fruit is to carry the grief of a denial that never lets up — the fury of wanting a better life and being handed, by the ledger, by the scheme and by the fruit itself, the same set of answers: that the wanting is the fault, that the debt is the solution, and that for the indebted the harvest stays exactly one reach away.
+To come near the Fading Fruit is to carry the grief of a denial that never lets up — the fury of wanting a better life and being handed, by the ledger, by the scheme and by the fruit itself, the same set of answers: that the wanting is the fault, that the debt is the solution. And that for the indebted the harvest stays exactly one reach away.
 
 Some sorrows are about hunger. Fading Fruit is about the system that produces hunger — the debt that makes satisfaction impossible, the garden that cannot feed, the fruit that fades because the ledger has already claimed the harvest.
 ## 증언 (Testimonium) — The Testimony
@@ -378,11 +382,11 @@ Some sorrows are about hunger. Fading Fruit is about the system that produces hu
 
 **Classification:** Sorrow Entity — `N-IIβ-456 [N]` · Inner Sorrow (내한) origin · Echo (II) coherence · Moderate (β) potency · Grudge · Place-Grudge manifestation
 **Common Name:** Fading Fruit
-**Containment Status:** Contained — Zone C, Collector's Row, between the tenements and the ledger offices; the garden is open ground and closure has been refused three times
+**Containment Status:** Contained — Zone C, Collector's Row, between the tenements and the ledger offices. The garden is open ground and closure has been refused three times
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It has never breached, has injured nobody, and has widened and withdrawn four times each in thirty-one years with nobody intervening. What makes the holding consequential is the identity of its two counts: fruit set and empty stems have matched in every season on record, so the garden has never yielded anything, and the number has tracked this facility's set-off column for thirty-one years. The Registrum previously carried placeholder text in its classification, threat, procedure, observation, cross-reference and originator fields, all six reading see elsewhere, and attributed the holding to D-territory on a Zone C site; all seven corrected.
 **Containment & Handling Procedures:**
-- Ferrehan lowers the gauge; Viderehan holds it level and returns the account of what the debtor wanted. Flerehan and Pugnahan are N/A under the Object/Place Work Rule.
+- Ferrehan lowers the gauge; Viderehan holds it level and returns the account of what the debtor wanted. Flerehan and Pugnahan are Net-Neutral under the Object/Place Work Rule.
 - Fruit set and empty stems counted separately at the fall and reported side by side, even though they have never differed.
 - Nothing is picked. The prohibition is absolute and is the only standing order in the wing that nobody has ever applied to have relaxed.
 - Names are not taken. Debtors come to the garden unbidden, their arrival is noted and their identity is not, and the ward asked for this before the holding was formally established.
@@ -396,7 +400,7 @@ Some sorrows are about hunger. Fading Fruit is about the system that produces hu
 - Picked fruit gives one bitter drop and then a wet stem. Four occurrences, all self-reported.
 - The nine-season comparison against the Debt Clock is a clean negative and is the file's most-cited result.
 **Cross-References:** Zone C, Collector's Row · the planting agreement of the forty-one households, held in the commissioning file · the set-off return and the nine thousand eight hundred and forty-one entitlements never received · the ninety-day grace and the three hundred and twenty-four who kept their money · the nine-season negative against the Debt Clock
-**Faction Involvement:** SED (C-territory survey) · UCD (Collector-adjacent district) · the credit office, listed on an entity file because the Rule of the Delivered Harvest is a containment condition of this holding and the office opposed it. The earlier D-territory entry was wrong on a Zone C site and has been corrected.
+**Faction Involvement:** SED (C-territory survey) · UCD (Collector-adjacent district) · the credit office, listed on an entity file because the Rule of the Delivered Harvest is a containment condition of this holding and the office opposed it.
 **Originator:** Forty-one debtor households of Collector's Row, named in a planting agreement they wrote between themselves and in nothing else. The agreement allocated the work and the harvest in equal shares and is signed by every one of them.
 
 ### Registry Addendum
@@ -420,11 +424,11 @@ People under obligation come to the garden without being directed to it, and the
 
 ### What the Count Is Actually Measuring
 
-For twenty-eight years the count was read as a measure of the trees' labour. In Year 4235 a counter brought her season's figures and the credit office's quarterly return to one meeting by mistake, and saw that the heavy seasons came after the seasons in which this facility had swept the most earned entitlements against balances before handing anything over. The pairing has since held in twenty-eight of thirty-one years. It fails against a new debt assigned, a tenancy ended, or a referral to the Collectors — all three run against the series, none of them moving it at all.
+For twenty-eight years the count was read as a measure of the trees' labour. In Year 4235 a counter brought her season's figures and the credit office's quarterly return to one meeting by mistake. And saw that the heavy seasons came after the seasons in which this facility had swept the most earned entitlements against balances before handing anything over. The pairing has since held in twenty-eight of thirty-one years. It fails against a new debt assigned, a tenancy ended, or a referral to the Collectors — all three run against the series, none of them moving it at all.
 
 The finding rebuilds the holding, and the wing has worded it with care. This is not grief over poverty and not grief over debt — the series lies flat across both. What is counted here is one particular gap, the one between earning a thing and holding it, and what that gap does to people when the arithmetic is completed correctly and nobody has done anything wrong.
 
-What moves this holding does not happen in the garden. No work done among the rows lowers the number; the one act that has ever moved it is a clerk handing money to somebody who owed it, knowing most of it would return and being entitled to keep it besides. The wing sets that down plainly instead of asserting a containment it has no way to show, and sets beside it the count: of two thousand one hundred and four people given the choice, one thousand seven hundred and eighty returned it inside the ninety days.
+What moves this holding does not happen in the garden. No work done among the rows lowers the number. The one act that has ever moved it is a clerk handing money to somebody who owed it, knowing most of it would return and being entitled to keep it besides. The wing sets that down plainly instead of asserting a containment it has no way to show. And sets beside it the count: of two thousand one hundred and four people given the choice, one thousand seven hundred and eighty returned it inside the ninety days.
 
 ### A Garden Planted in Collector's Row
 
@@ -433,7 +437,7 @@ Debtors put in a garden and every fruit faded before anyone tasted it, and the c
 ## Trivia
 
 - No fruit has ever ripened and no stem has ever gone uncounted. The two figures have matched in every season on record, which is the strongest single fact in the holding and the one that took longest to notice.
-- The garden does not respond to new debts being assigned. That was the file's working theory for twenty-eight years and the series disproved it; the trigger is an entitlement taken before it is received, which is a different event entirely.
+- The garden does not respond to new debts being assigned. That was the file's working theory for twenty-eight years and the series disproved it. The trigger is an entitlement taken before it is received, which is a different event entirely.
 - The rows look their best in the worst seasons. Year 4230 had the heaviest blossom anybody has recorded and the worst reading in the holding's history.
 - Picked fruit yields one bitter drop and then a wet stem. It has happened four times in thirty-one years and every one of the four reported themselves.
 - Names are not taken from the people who come here. The ward asked for it before the holding was established and the facility agreed, which is the only such concession in the wing.

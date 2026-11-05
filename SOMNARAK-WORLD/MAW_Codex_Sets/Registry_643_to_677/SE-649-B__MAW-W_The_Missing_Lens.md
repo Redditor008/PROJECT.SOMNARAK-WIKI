@@ -22,6 +22,10 @@ The Missing Lens is a pale disc of Han glass whose edge appears only around unsu
 |---|---:|---|---|---:|
 | γ / Void | 7–12 | 3 / 3 | Skewer 100/70/50% | 3 / 40 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
 **Possibility Cut:** severs false historical certainty across up to three claims while preserving emotional meaning. Each use takes a small nameless memory.
 
 **Incident — The Excavator’s Childhood:** Durivel cut a vision of a school that never existed. The Lens also removed his memory of learning to read because he called both “childhood.” A corrected record restored attribution, not the lost memory.
@@ -32,14 +36,3 @@ The Missing Lens is a pale disc of Han glass whose edge appears only around unsu
 **Emergency shutdown:** Yeonhwa names present coordinates while the wielder admits one uncertainty; the Lens seals for three cycles.
 
 **Set link:** Charm labels possibility and Column maintains present footing while the Lens corrects the claim.
-
----
-
-**Document ID:** `SE-649-B`  
-**Linked Entity:** `SE-649`  
-**Item Registry Code:** `MAW-W-649-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

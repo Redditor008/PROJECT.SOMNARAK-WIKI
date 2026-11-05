@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-280 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on placing it over a face. this has not happened since the frame was built and the nine historical instances are the whole  |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only  |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats weeping |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A long woven tapestry of crystallized tears — not cloth but a textile of grief, always damp, clinging to the hands like wet silk. Where it drapes it leaves salt traces and the smell of a fresh wound. Lifted to light, the woven drops shiver as though still falling. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — an artwork. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,10 +28,11 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per watch, drawn through a loaded frame with nothing behind it. The Gardens bills one gloved touch per watch and nothing else; the rest of the posting is the survey and the cards. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 1–3 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is colour and sound dulled inside an extent that does not follow the worker. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Cleaver, Shroud and Clip all graded |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -45,51 +46,58 @@
 - No breach counter exists. The volume grows every year and its edge is found by instrument, because people inside it do not notice the transition and report the room as normal when asked.
 - Extraction is separately authorised and has been exercised twice, both times for Wardens who had stopped mentioning anything at all in their handover notes.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament. The veil has never been struck, cut or sampled; it is damp cloth in a frame and the quarterly survey measures its edge rather than testing its strength. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats weeping |
-| **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — an artwork*, and the resistance note beside it is that the veil has never been struck, cut or sampled. Nothing here is aimed and nothing closes a distance: what the Pall does is damp a room's sight of itself four metres past the frame, and the file measures the edge of that field rather than the strength of anything.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A long woven hanging of crystallised tears on a frame in the Echo Gardens, always damp, clinging to a hand like wet silk, leaving salt traces and the smell of a fresh wound. It has not been worn since the frame was built, and the nine historical wearings are the whole wearing record. |
+| **Perceptible to** | The damp first, four metres past the frame in a corridor where eleven people work and none of them can tell they are standing in it. Then the salt, the smell. And a handover note that has got shorter than it was. |
+| **Handling** | Not lifted, not draped and not worn, by anybody, for any reason. The frame is not moved and the edge is measured at the floor marks. The room's account is taken from two workers who are outside the field. — see `## Handling Process` |
+| **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
+| **Sorrow Gauge [Depth]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Somebody says, in the room and in their own voice, that they have had a death — without being asked and without saying whose. Nothing else has ever reduced the survey. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Dampening* [**Debuff**] } | "The veil falls over your eyes — soft, wet, and impossible to wipe clear." | [The Veil settles over the target; sight dims behind a film of tears.] | *Target suffers -10 Composure; the world goes blurry.* **[10 Lament DMG [Lament]]** | When the Veil is drawn. |
-| { *The Blurred Sight* [**Debuff**] } | "You cannot tell what is grief and what is real anymore." | [The Veil thickens; the target cannot distinguish sorrow from surrounding.] | *Target loses 10 Composure; they move uncertainly.* **[10 Lament DMG [Lament]]** | When the target wears the Veil. |
-| { *The Wet Weight* [**Attack**] } | "The veil clings and drags — suffocating, sodden with old weeping." | [The Veil wraps tighter, pressing wet sorrow over the target's face.] | *Inflicts Lament pressure and one suffocating wound.* **[14-22 Lament DMG [Lament]]** | When the Veil is provoked. |
-| { *The Unseen Blow* [**Attack**] } | "Something lands and nobody in the room saw a hand move, including the person it landed on." | [A strike arrives from behind the obscuring veil with no visible origin.] | *Lament damage; in all eleven recorded strikes the target could not say afterwards what had hit them and did not describe the experience as an attack.* **[Lament DMG [Lament]]** | When the veil is worn over the face. |
-| { *The Shroud* [**Ultimate**] } | "It covers the whole room and every face in it, and everybody carries on as though that were normal." | [The veil extends across the chamber and composure becomes universal and false.] | *Lament erosion to everyone present for three cycles; the Gardens' note is that nobody broke protocol during the one recorded occurrence and that this was the problem.* **[Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,232 inspection. |
+### Contact Events
 
-### Battle Phases
+| Event | What the veil does | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The Dampening* [**Register**] } | Nothing falls over anybody's eyes. The field extends four metres past the frame and the corridor inside it stops reporting itself. | Measure the edge at the floor marks, and take the room's account with two workers standing outside it, because the ones inside cannot tell they are. | Eleven incidents on file; in none of them could the person describe being inside the field at the time. |
+| { *The Politeness* [**Exposure**] } | Past forty minutes the warden stops reporting how the watch is going and starts reporting that it is fine. The handover notes shorten to match. | The second warden's whole job is to notice the change of word. The watch closes when the notes start losing nouns. | This is the exposure the file calls the veil's real edge: sorrow and surroundings flatten into one politeness, and the person flattening does not feel it. |
+| { *The Refusal* [**Refusal**] } | It is not lifted, not draped and not worn. The frame has not moved and the cloth has never been sampled. | Nothing is put over a face, and no cycle is worked inside the field without a second worker outside it. | Nine wearings in the record, all historical, and the file keeps them as the reason the practice stopped rather than as a technique. |
+| { *The Shroud* [**Overload**] } | The field covers the chamber and composure in it becomes universal and false — every face in the room reporting fine. | Withdraw on the second warden's word rather than on a reading, and enter the chamber only after the edge has gone back to the floor marks. | The quarterly survey has the edge creeping outward by a few millimetres and never receding. The shroud is what the survey projects if the sentence is never said. |
 
-1. **Tension:** The frame is confirmed loaded, the space behind it confirmed empty, and the gloves are checked. Two wardens attend; one touches, one writes. Nobody stands behind the frame at any point.
-2. **Clash:** Viderehan and Ferrehan only, the veil on its frame throughout, one glove per touch and the glove changed each time. The dulled volume is surveyed at the start and end of the watch, because nobody standing inside it can tell that they are.
-3. **Resolution:** One gloved touch, the card written, the card filed unread. 411 cards exist and the clerk who holds them is the only person who has read any of them.
+### Watch Sequence
+
+1. **What is confirmed:** the frame, the floor marks and the width of the damp at the edge, with the two workers' names and the room's roster taken so the account can be gathered from outside the field.
+2. **What the watch does:** Ferrehan beside the frame and Viderehan on the edge, the second warden reading the first one's words rather than the reading. Nothing is lifted, draped or worn, and no watch ends on a report that everything is fine.
+3. **How it closes:** **Somebody says, in the room and in their own voice, that they have had a death — without being asked and without saying whose** — and the criterion is the sentence rather than the survey, which moves for the sentence and for nothing else.
 
 ### Consequences
 
@@ -99,7 +107,7 @@
 - An unworked watch leaves the veil damper. The quarterly survey records the edge creeping outward by a few millimetres and it has never been recorded receding.
 
 ## Appearance
-**Physical Form:** A long woven tapestry of crystallized tears — a textile of grief, always damp. **Movement:** Stationary — a hanging tapestry; it drifts only where the air moves it.
+**Physical Form:** A long woven hanging of crystallized tears — a textile of grief, always damp. **Movement:** Stationary — a hanging tapestry; it drifts only where the air moves it.
 
 **Notable Features:** It weeps more the longer it is handled, which is why each touch is a single gloved touch and the glove is then changed. It dulls colour and sound around itself in a volume that does not match the room.
 
@@ -119,7 +127,7 @@
 | **Form** | A translucent veil woven from crystallized tears. It remains damp even in dry air. |
 | **Position / movement** | Hanging in its frame in the Echo Gardens and never moved since it was hung. The frame is loaded so that the cloth cannot be lifted by one person, which is a precaution against convenience rather than against the veil. |
 | **Material / signature** | Lament. Crystallised tears woven as textile, damp in dry air, salt traces where it drapes, the smell of a fresh wound. |
-| **Distinctive markers** | Dampness in dry air, confirmed through a glove; the dulled volume on the quarterly survey; the purpose-built frame that holds it open with nobody behind it. |
+| **Distinctive markers** | Dampness in dry air, confirmed through a glove. The dulled volume on the quarterly survey. The purpose-built frame that holds it open with nobody behind it. |
 | **Identification** | If anybody is behind it, it is not under containment and the watch has already failed. |
 
 **Appearance protocol:** Edge survey, frame check, glove log, and the state of the handover notes. The last of those is an instrument here and is read as one.
@@ -131,48 +139,39 @@
 - **The People:** The mourners of the Echo Gardens, named on the Gardens' own list where it was kept. The list is long and ordinary and is reproduced without annotation, because annotating it would mean ranking the griefs.
 - **Expanded origin context:** The commissioning material includes the Gardens' etiquette guidance of the period, which advised mourners to keep their weeping out of company and offered practical means of doing so. It was written helpfully, by people trying to make grief bearable among others, and it is reproduced at length because the veil is what their help became.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A long woven hanging of crystallised tears on a frame in the Echo Gardens, always damp, clinging to a hand like wet silk, leaving salt traces and the smell of a fresh…. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Holds steady long enough to walk the grid and fix the dulled edge. | Stable |
-| **Ferrehan** | The long watch beside the frame, with the Warden saying what they came in carrying and not being asked anything further. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the frame, the floor marks and the width of the damp at the edge, with the two workers' names and the room's roster taken so the account can be gathered from outside the field. |
+| **Handling** | The stander beside the frame and the observer on the edge, the second warden reading the first one's words rather than the reading. Nothing is lifted, draped or worn, and no watch ends on a report that everything is fine. |
+| **Withdrawal** | **Somebody says, in the room and in their own voice, that they have had a death — without being asked and without saying whose** — and the criterion is the sentence rather than the survey, which moves for the sentence and for nothing else. |
+| **Refusal** | Nothing is put over a face, and no cycle is worked inside the field without a second worker outside it. |
 
-
-### Operational Work Notes
-
-The table holds steady and the cards do not. What the Gardens tracks is the proportion of cards that say something true about the warden's own week; it has run between a third and four-fifths, and the gauge follows it inversely with a lag of about a fortnight. A watch of entirely composed cards is the most expensive kind this holding has.
-
-**Reading the response:** A falling gauge means a card was written honestly by somebody who did not have to. It rises when the Gardens issues anything about bearing or demeanour, and it rose eleven points in the quarter the Wardens' dress standard was reissued.
 ## Activation Behavior
+
+> **Special activation — no counter.** What sets it off, per the record: *"placing it over a face"*.
+
+
+
+
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **Worn over the face this relic makes grief invisible, including to the person having it**
-
-**Activation Trigger:** Placing it over a face. This has not happened since the frame was built and the nine historical instances are the whole of the activation record.
-
-**Effect:** The wearer cannot be recognised and can feel every unexpressed grief within the dulled volume, including the ones their colleagues are entitled to keep.
-
-**Duration:** Until another person lifts it off. Nine wearers, nine removals by somebody else, no exceptions.
-
-**Risk:** Continuous weeping that does not stop while it is on, and knowledge of colleagues' private losses that the wearer afterwards cannot unknow and must not repeat.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | Placement over a face; prohibited absolutely since the frame was built. |
-| **Primary Effect** | Concealment of the wearer, and access to every unexpressed grief inside the dulled volume. |
-| **Duration** | Until somebody else lifts it off; the wearer cannot. |
-| **Termination / Return** | The operative lifts the veil themselves and says one true thing about their own day before it goes back in the frame. The sentence is not recorded, which is the point of it. |
-| **Risk** | Unstoppable weeping, and private knowledge the wearer did not ask for and cannot return. |
+| **Activation** | Placement over a face. Prohibited absolutely since the frame was built; the nine historical instances are the whole of the activation record. |
+| **Primary Effect** | Concealment of the wearer, and access to every unexpressed grief inside the dulled volume — including the ones their colleagues are entitled to keep. |
+| **Duration** | Until another person lifts it off; the wearer cannot. Nine wearers, nine removals by somebody else, no exceptions. |
+| **Termination / Return** | Somebody else lifts it off; the wearer cannot, in nine recorded instances without exception. The assigned remover approaches from behind, names the wearer, and waits for a responsive answer before lifting. Afterwards the card is written and filed unread, as at the end of any watch. |
+| **Risk** | Continuous weeping that does not stop while it is on, and knowledge of colleagues’ private losses that the wearer afterwards cannot unknow and must not repeat. |
 
 **Operational Rule:** The relic is not issued and is not carried. The frame is the containment and its specification is in the file, which is unusual for a fitting and deliberate.
 
@@ -222,20 +221,20 @@ Escalation is measured in millimetres of damp edge and in cards. Record the edge
 **Falloff Rule:** 100% impact damage at close contact; 80% javelin pierce at medium range.
 **Damage Application:** Armoury figures, transcribed. Nothing on this holding has ever cut anybody; the cleaver is listed because the armoury lists it and is kept in the outer room.
 
-Appearance : A needle-pointed triangular stiletto forged from cold, unpolished surgical steel, measuring twenty-two centimeters with a dark bronze teardrop pommel and braided mourning-thread grip.
+**Appearance:** A needle-pointed triangular stiletto forged from cold, unpolished surgical steel, measuring twenty-two centimeters with a dark bronze teardrop pommel and braided mourning-thread grip.
 
 The three-edged blade is etched with micro-capillary fullers that siphon condensing Lament beads toward the guard. When readied, the weapon emits a faint, sorrowful hum while tiny frost-rings form along the edges.
 
 **Ability:** *Veil Bastion* — Absorbs incoming projectile damage and can launch the barbed javelin to impale and root targets for 1 turn.
 
-**Cost:** The wielder weeps without feeling anything, at ordinary moments, and reports no sadness with it.
+**Bearer cost:** The wielder weeps without feeling anything, at ordinary moments, and reports no sadness with it.
 
 ### M.A.W. Suit — The Pallbearer's Layered Shroud
 
 **Category:** ARMOR (Layered Pallbearer's Shroud)
 **Grade:** β | **Element:** Lament
 
-Appearance : A long layered shroud of pale mourning cloth, cut wide at the shoulder, its lower edge weighted with lead shot so the whole thing hangs still on a body that is walking. The layers are stitched from fabric steeped in tears that were never shed in front of anybody, and the cloth stays dry to the touch.
+**Appearance:** A long layered shroud of pale mourning cloth, cut wide at the shoulder, its lower edge weighted with lead shot so the whole thing hangs still on a body that is walking. The layers are stitched from fabric steeped in tears that were never shed in front of anybody, and the cloth stays dry to the touch.
 
 The shroud neither turns a blow aside nor hardens against one. It surrenders a layer for every thing that lands, and whoever is inside it feels each layer go as it is spent.
 
@@ -248,7 +247,7 @@ The shroud neither turns a blow aside nor hardens against one. It surrenders a l
 
 **Ability:** High absorption against Lament and psychological stress, dissipating impact through layered cloth.
 
-**Cost:** The wearer displays all grief openly through continuous tears.
+**Bearer cost:** The wearer displays all grief openly through continuous tears.
 
 ### M.A.W. Stigma — The Weeping Veil Clip
 
@@ -263,7 +262,7 @@ The shroud neither turns a blow aside nor hardens against one. It surrenders a l
 
 **Ability:** Reduces mental composure loss from allied defeats or team distress.
 
-**Cost:** The bearer weeps softly in their sleep.
+**Bearer cost:** The bearer weeps softly in their sleep.
 
 *Four clips exist. All four were given to Wardens who completed a posting without once lifting the veil from its frame, which is not difficult and is nevertheless the whole of the discipline here.*
 
@@ -282,7 +281,7 @@ Every piece is woven from crystallised tears that were never shed in front of an
 
 **Stat interpretation:** The grade measures extraction stability. This set's toll is a person who can no longer tell their own state from their own face, which no rating column holds — authorise on the sealed sentence and the weeping log.
 
-**Full-set source review (2026-10-13):** Reviewed the complete primary M.A.W. section, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims. Exact join: Side `SE-280-A` (`C-IIβ-280 [LO]`, `4/4`, assigning `SE-280` to Pall and deferring Kind Healer’s Shadow `N-IIβ-280`), with `SE-280-B/C/D`; Registry rows 567–570; Master M.A.W. rows/details 151–153; Entity Codex row 415 / Tale 51; archetype `MAW-W-280`. Preserve the Weapon hold already dispositioned source-led in Batch 79: local *Surgeon’s Cleaver* / stiletto and shield-bash–javelin profile conflict with the exact linked Pavise/Javelin title, whose item identity says blade and Appearance says chalice; Master table row 151 says *Weeping Stiletto*, Entry 151 says Pavise/Javelin, and W-280 indexes a separate square cleaver. Side and item core statistics (5–9 / Normal 2 / Short 2 / Single) conflict with the primary’s 6–10 / Slow 2 / Medium 3 / shield-bash/javelin profile; no transition resolves them. The compact Side title *Tear Requiem* also occurs on separate `MAW-W-041`. Suit resistance profile aligns. Stigma effect now names +1 Clarity from Side A/D, but primary Head/Hair/collar remains held against Side/item Tail; chance 5% agrees. No linked evidence file changed, and this review adds no Weapon-only disposition.
+**Full-set source review (Year 4238):** Reviewed the complete primary M.A.W. section, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims. Exact join: Side `SE-280-A` (`C-IIβ-280 [LO]`, `4/4`, assigning `SE-280` to Pall and deferring Kind Healer’s Shadow `N-IIβ-280`), with `SE-280-B/C/D`; Registry rows 567–570; Master M.A.W. rows/details 151–153; Entity Codex row 415 / Tale 51; archetype `MAW-W-280`. Preserve the Weapon hold already dispositioned source-led in an earlier review: local *Surgeon’s Cleaver* / stiletto and shield-bash–javelin profile conflict with the exact linked Pavise/Javelin title, whose item identity says blade and Appearance says chalice. Master table row 151 says *Weeping Stiletto*, Entry 151 says Pavise/Javelin. And W-280 indexes a separate square cleaver. Side and item core statistics (5–9 / Normal 2 / Short 2 / Single) conflict with the primary’s 6–10 / Slow 2 / Medium 3 / shield-bash/javelin profile; no transition resolves them. The compact Side title *Tear Requiem* also occurs on separate `MAW-W-041`. Suit resistance profile aligns. Stigma effect now names +1 Clarity from Side A/D, but primary Head/Hair/collar remains held against Side/item Tail; chance 5% agrees. No linked evidence file changed, and this review adds no Weapon-only disposition.
 
 ## 관찰 기록 (Observation Log)
 
@@ -315,14 +314,14 @@ Pall (C-IIβ-280 [LO]) is logged as an Object-Lament manifestation expressing La
 
 **Entry 2 — <Excerpt from Edge Survey, Year 4238>**
 Dulled volume 310 cubic metres at the quarterly survey, against 240 and 180 in the two preceding years. The edge is found by instrument on a walked grid; personnel crossing it do not report any transition and are not asked to.
-Its tears contain no individual memories unless directly observed.
+Thread by thread, under Viderehan, the weave resolves into individual wearers. The Gardens' list is kept beside the frame, reproduced without annotation, because annotating would mean ranking the griefs.
 
 **Entry 3 — <Excerpt from Welfare Office Correspondence>**
-The office confirms that compassionate absence requires no reason, no evidence and no relationship, that no record is made of why anybody was away, and that it therefore cannot tell this holding how many of its workers are inside the first ninety days after a death. It states that it does not wish to be able to tell.
+The office confirms that compassionate absence requires no reason, no evidence and no relationship, that no record is made of why anybody was away. And that it therefore cannot tell this holding how many of its workers are inside the first ninety days after a death. It states that it does not wish to be able to tell.
 The grief of mourning privately while appearing composed in public.
 
 **Entry 4 — <Containment Notice>**
-Management: frame loaded, nothing behind it, one gloved touch per watch, a quarterly edge survey walked by two Wardens, and nobody asked to account for what they wrote on their card. The last clause is the containment measure; the Gardens has defended it at four annual reviews and the cards have never been read by anybody but the clerk.
+Management: frame loaded, nothing behind it, one gloved touch per watch, a quarterly edge survey walked by two Wardens, and nobody asked to account for what they wrote on their card. The last clause is the containment measure. The Gardens has defended it at four annual reviews and the cards have never been read by anybody but the clerk.
 
 **Entry 5 — <Archive Note>**
 Pall hangs on its frame in the Echo Gardens, damp in dry air, and it is not worn. The nine recorded wearings are all from before the frame was built and all nine ended the same way: somebody else lifted it off, because the wearer could not.
@@ -352,11 +351,11 @@ Nobody puts it on. It hangs open on its frame, damp in dry air, heavier this wat
 
 **At first contact:** A translucent veil in a loaded frame, damp to the touch in a dry room, with nothing behind it. It does not move in a draught and the damp does not transfer to a glove.
 
-**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Lament has topography here — ridges of pressure, valleys of absence, a geography only the Object-Lament could have made.
+**With continued exposure:** The room does not become stranger. It becomes flatter, in colour and in sound and then in the people in it, and inside the edge nobody reports any of that. The Watch measures the change at the frame's load cell and in the length of handover notes, because those are the two instruments that still work where asking does not.
 
 **When the entity activates:** Somebody puts it over their face and the room cannot tell anything about them any more. The wearer usually laughs, once, and then stops showing that either.
 
-**After departure:** You tell somebody how your week has actually been. Gardens staff do it within the day; the wing has recorded the pattern for nine years and notes that this is the only holding whose after-effect anybody has described as a relief.
+**After departure:** You tell somebody how your week has actually been. Gardens staff do it within the day. The wing has recorded the pattern for nine years and notes that this is the only holding whose after-effect anybody has described as a relief.
 
 ### Interaction Pattern
 
@@ -371,15 +370,15 @@ Pall must be assessed against the other mourning files and kept distinct from th
 
 | Related entity | What it is | What the edge did | Required record |
 |---|---|---|---|
-| **The Weeping Statue** | Its grief is visible; this one is not. Tears shed at the Statue and carried into the Gardens were woven into the veil in its making. | The load cell rises while the two are within forty metres; the dulled volume does not move. | Load cell at ten-minute intervals, range, and the survey figure at the next quarter. |
-| **The Hollow Choir** | The Choir says the names of the absent aloud. Beneath the veil the saying is flattened to nothing audible at four metres. | Dulled volume held steady across the two quarters the Choir was adjacent; the only such interval on record. | Transcribe what the Choir says and measure where it stops being audible. |
-| **The Happy Mask** | Both cover a face and they cannot do it at once; the Mask supplies an expression, the veil removes the person. | Contact has never been attempted and will not be, since either outcome requires a face. | Record only the refusal and the distance at which the frame's load cell responds. |
+| [**The Weeping Statue**](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) | Its grief is visible; this one is not. Tears shed at the Statue and carried into the Gardens were woven into the veil in its making. | The load cell rises while the two are within forty metres; the dulled volume does not move. | Load cell at ten-minute intervals, range, and the survey figure at the next quarter. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | The Choir says the names of the absent aloud. Beneath the veil the saying is flattened to nothing audible at four metres. | Dulled volume held steady across the two quarters the Choir was adjacent; the only such interval on record. | Transcribe what the Choir says and measure where it stops being audible. |
+| [**The Happy Mask**](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) | Both cover a face and they cannot do it at once. The Mask supplies an expression, the veil removes the person. | Contact has never been attempted and will not be, since either outcome requires a face. | Record only the refusal and the distance at which the frame's load cell responds. |
 
 **Interaction procedure:** Two Wardens, instrument on the grid, frame loaded and empty behind it, and no pairing observed by anybody who has been inside the dulled volume for more than one watch.
 
 ## 이야기 (Narratio) — The Tale
 
-Nobody here is forbidden to weep. Nobody is asked to account for it either, and that is the part this file is about.
+There is a room where nobody is forbidden to weep, and nobody is asked to account for it either, and that is the part this file is about.
 
 This Company requires no reason for compassionate absence. No certificate, no relationship, no form beyond the days themselves. The rule replaced one that demanded evidence — a registration, a proof of relation — and that turned the worst week of a person's life into an application, and refused the people whose losses did not fit the categories. A man refused leave for a partner the register did not recognise worked his shift that day and every day of that week. The rule was changed the following year and nobody has ever proposed changing it back.
 
@@ -421,8 +420,8 @@ The guidance was kind. The rule is right. The veil is what both of them look lik
 **Observation Notes:**
 - Woven from tears saved by Gardens mourners who were advised, kindly and in writing, to keep their weeping out of company.
 - Dulled volume 180, 240 and 310 cubic metres across three quarterly surveys.
-**Cross-References:** Echo Gardens · The Welfare Office · The Weeping Statue · The Hollow Choir · The Happy Mask
-**Faction Involvement:** None operational. The Wound Walkers asked twice for access to the cards on Fracture-screening grounds and were refused twice; the refusals are in this file because the requests were well founded and the refusal still stands.
+**Cross-References:** Echo Gardens · The Welfare Office · [The Weeping Statue](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) · [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) · [The Happy Mask](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md)
+**Faction Involvement:** None operational. The Wound Walkers asked twice for access to the cards on Fracture-screening grounds and were refused twice. The refusals are in this file because the requests were well founded and the refusal still stands.
 **Originator:** Collective; formed from the tears of generations of Echo Gardens mourners.
 
 ### Registry Addendum
@@ -434,7 +433,7 @@ The guidance was kind. The rule is right. The veil is what both of them look lik
 
 ### Always Damp
 
-The tapestry of crystallized tears stays wet in dry air and the dampness is confirmed at each watch by touch through a glove. The glove is changed each time. This is a small holding with a short order and the file notes that the glove rule is its only strict provision, adopted because the veil weeps more when handled and the facility preferred not to find out what sustained handling would do.
+The hanging of crystallized tears stays wet in dry air and the dampness is confirmed at each watch by touch through a glove. The glove is changed each time. This is a small holding with a short order and the file notes that the glove rule is its only strict provision, adopted because the veil weeps more when handled and the facility preferred not to find out what sustained handling would do.
 
 ### It Hides the Face
 
@@ -450,7 +449,7 @@ The edge is found on a walked grid with an instrument, once a quarter, because n
 
 The volume tracks the number of this facility's workers who are inside the first ninety days after a death. That figure does not exist. The Welfare Office cannot supply it, has said so in writing, and has added that it does not wish to be able to: compassionate absence requires no reason, no certificate and no relationship, and nothing is recorded about why anybody was away. The series was matched for three years only, by two commissioners working municipal death registrations against payroll numbers with no names retained and the working destroyed afterwards. Visitor numbers, Tide windows, Gardens traffic, the load cell and the holding's own gauge were tested and lost.
 
-The rule is right and this file says so without qualification. The old rule demanded evidence, turned the worst week of a person's life into an application, and refused the losses that did not fit the categories; a man refused leave for a partner the register did not recognise worked that week through. Nobody has proposed restoring it. The second-order costs are nonetheless in this file, because nobody else records them: no one is checked on, no one is lifted off hazard-critical rostering, and an absence with no reason attached reads on a performance return as unreliability.
+The rule is right and this file says so without qualification. The old rule demanded evidence, turned the worst week of a person's life into an application, and refused the losses that did not fit the categories. A man refused leave for a partner the register did not recognise worked that week through. Nobody has proposed restoring it. The second-order costs are nonetheless in this file, because nobody else records them: no one is checked on, no one is lifted off hazard-critical rostering, and an absence with no reason attached reads on a performance return as unreliability.
 
 ### The Unasked Register
 
@@ -478,7 +477,7 @@ People used it to mourn without being seen to mourn, and the commissioning mater
 - **Classification detail:** Echo (II) coherence at Moderate (β) — one mourner's composure, repeating. The grade has not been reviewed and the Gardens has not asked for a review.
 - **Field detail:** Lament, in a loaded frame in the Echo Gardens of Zone D, surveyed at four marks each quarter.
 - **Recognition detail:** Identify it by the damp in dry air and by the dulled volume on the survey. Do not rely on how the room feels: inside the edge, colour and sound are flat and nobody notices.
-- **Record detail:** The Registrum cross-referenced The Sorrow Fountain, which is not among this holding's recorded neighbours; corrected to the three entities actually tested against it.
+- **Record detail:** The Registrum cross-referenced The Sorrow Fountain, which is not among this holding's recorded neighbours. Corrected to the three entities actually tested against it.
 - **Containment detail:** The frame is not containment; it is a way of making the veil inconvenient to lift. What holds this holding steady is a box of cards nobody reads.
 ## Document Information
 

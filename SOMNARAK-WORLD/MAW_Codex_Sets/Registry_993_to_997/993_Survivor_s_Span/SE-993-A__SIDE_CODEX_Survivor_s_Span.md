@@ -22,7 +22,7 @@ The entity formed from a bridge collapse remembered by one survivor. The burden 
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / Zone B, deep tunnels |
-| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Weight |
+| Gauge / Pressure | 000/415; starts 000% / 10–23 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear. |
 
@@ -40,7 +40,7 @@ The entity formed from a bridge collapse remembered by one survivor. The burden 
 
 ## WITNESS RECORD — *The Survivor s Span Source-Trace*
 
-During the The Survivor s Span Source-Trace, the field team preserved this source fact: A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of carrying everyone who did not make it across.
+During *The Survivor s Span Source-Trace*, the field team preserved this source fact: A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of carrying everyone who did not make it across.
 
 ## M.A.W. SET — *Survivor's Span — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Survivor s Span Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Survivor's Span's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Do not blame the worker; share the names of those lost The set cannot heal the originating event. Misuse routes Survivor's Span's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-993-A`  
-**Linked Entity:** `SE-993`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

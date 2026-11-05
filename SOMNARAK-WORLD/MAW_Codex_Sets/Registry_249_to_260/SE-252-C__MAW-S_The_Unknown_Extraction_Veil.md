@@ -25,9 +25,15 @@ The Unknown Extraction Veil is a near-colorless suit of Han gossamer with thirte
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Void
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 2 / 45 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
 **Thirteen Seams:** Each seam takes one second of identity pressure. At the final seam, protection ends regardless of content or listener readiness.
 
@@ -44,14 +50,3 @@ Charm marks closure and Lens dissipates residue. Veil must never touch the Gate 
 **Maintenance:** Count every seam under neutral light. A partner repeats the pre-contact identity statement without discussing the truth. Any seam that remains dark seals the unit from reuse.
 
 **Removal:** Timekeeper lifts the collar immediately after second thirteen. The wearer does not remove it alone.
-
----
-
-**Document ID:** `SE-252-C`  
-**Linked Entity:** `SE-252`  
-**Item Registry Code:** `MAW-S-252-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

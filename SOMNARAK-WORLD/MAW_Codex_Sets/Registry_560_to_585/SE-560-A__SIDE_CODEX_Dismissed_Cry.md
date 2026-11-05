@@ -22,7 +22,7 @@ A fist-sized crimson crystal hangs near the Scar, torn open like a mouth and rad
 | Coherence / Potency | II / β |
 | Element | Grudge |
 | Location | The Desolate, near the Scar |
-| Gauge / Pressure | 407/407; starts 35–50% / 9–21 Grudge |
+| Gauge / Pressure | 000/420; starts 000% / Grudge — no attack pattern; the floating height and the torn opening's orientation are the reading |
 | Movement / Resistance | Fixed / 25% Grudge, 15% other |
 | Activation threshold | Gauge ≥60%; touch or nearby vocal aggression |
 | Observation | 2 — Basic |
@@ -38,8 +38,8 @@ Only Viderehan and Ferrehan are valid for this Object/Place entity.
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid; the relic does not accept emotional engagement. | N/A |
-| Pugnahan | Invalid; confrontation becomes vocal aggression. | N/A |
+| Flerehan | Invalid; the relic does not accept emotional engagement. | Net-Neutral |
+| Pugnahan | Invalid; confrontation becomes vocal aggression. | Net-Neutral |
 | Viderehan | Reveals the specific injustice behind the cry. | Stable |
 | Ferrehan | Tests whether anger can be held without being repeated. | Decrease |
 
@@ -67,13 +67,3 @@ The first echoes formed after Researcher Euncris Park transcribed pressure pulse
 During the Scar-Edge Countershout, a Warden ordered the mounting team to “drown it out.” The Scream Shard answered by sending his command through every rib cage inside the perimeter. Handler Soojin removed all speaking personnel, stood in Scream Plate, and let the pressure complete one phrase. The phrase named a border seizure omitted from the patrol ledger. Acknowledgment ended activation after eleven minutes.
 
 > *“We had a perfect record of the sound and no record of what it said. That was the entity’s origin repeating inside our procedure.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-560-A`  
-**Linked Entity:** `SE-560`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

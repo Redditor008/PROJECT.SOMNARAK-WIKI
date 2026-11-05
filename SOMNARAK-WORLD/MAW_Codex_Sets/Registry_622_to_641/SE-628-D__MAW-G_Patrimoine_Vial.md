@@ -19,6 +19,7 @@ A matte black steel vial rests at the Head slot and cools near Patrimoine’s so
 | Field | Record |
 |---|---|
 | Grade / Element | α / Weight |
+| **Maximum Amount** | 5 — Abundant |
 | Slot / chance | Head / 5% |
 | Bonus | +1 Resolve while working Patrimoine |
 | Acquisition | Random stigma from the entity |
@@ -57,14 +58,3 @@ The Stigma now clouds whenever “ambient” is used where a source history is a
 The Vial creates evacuation space, Mantle carries what it collected, and Maul opens a nonliving endpoint. None of the pieces makes pressure disappear.
 
 > *“The room became lighter because I had become the room’s unmarked container.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-628-D`  
-**Linked Entity:** `SE-628`  
-**Item Registry Code:** `MAW-G-628-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

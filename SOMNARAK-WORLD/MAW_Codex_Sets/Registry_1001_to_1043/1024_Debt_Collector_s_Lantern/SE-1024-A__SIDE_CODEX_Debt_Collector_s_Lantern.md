@@ -19,10 +19,10 @@ The Lantern formed from the sorrow of collecting from others. The weight of taki
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIβ-250 [WO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Echo (II) — Repeats glowing / Moderate (β) |
 | Element / Location | Weight / Zone C, Collector's Row — ambient |
-| Gauge / Pressure | 386/386; starts 35–50% / 10–23 per hit · Weight |
+| Gauge / Pressure | 000/386; starts 000% · Weight — no attack pattern: fixed to its mount, and what it delivers arrives as a showing rather than a blow (Contact Record, R-36) |
 | Observation | 2 — Basic |
 | Formation event | A Collector carried a lantern through debtors' homes and began seeing their burdens as light. |
 
@@ -30,36 +30,26 @@ The Lantern formed from the sorrow of collecting from others. The weight of taki
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals hidden debts and their origins. (Stable) |
 | Ferrehan | Remains beside the worker while the burden is measured. (Decrease) |
 
 **Trigger:** Carrying the Lantern into a debt-bearing area.
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1024 -->
+**Resolution:** Viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Debt Collector s Lantern Source-Trace*
 
-During the The Debt Collector s Lantern Source-Trace, the field team preserved this source fact: A Collector carried a lantern through debtors' homes and began seeing their burdens as light. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of taking payment while knowing the system is unfair.
+During *The Debt Collector s Lantern Source-Trace*, the field team preserved this source fact: A Collector carried a lantern through debtors' homes and began seeing their burdens as light. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of taking payment while knowing the system is unfair.
 
 ## M.A.W. SET — *Debt-Collector's-Lantern — Witnessed Form*
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Collector's Vigil-Lantern | β Weight 6–10; Speed 3 (Normal); Range 4 (Long); Focused Ray; max 4; 25 Sorrow Echoes | `SE-1024-B__MAW-W_The_Debt_Maul.md` |
-| The Collector's Oilskin Trench-Coat | β; L/G/V/W 1.0 (Normal)/1.0 (Normal)/1.5 (Weak)/0.5 (Warded); max 4; 20 Sorrow Echoes | `SE-1024-C__MAW-S_The_Debt_Mantle.md` |
-| Pale Wick Stigma | β; Eye/Face; 5%; Detection of karmic hazards, +Resolve bonus | `SE-1024-D__MAW-G_The_Debt_Lantern.md` |
+| The Collector's Vigil-Lantern | β Weight 6–10; Speed 3 (Normal); Range 4 (Long); Focused Ray; max 4; 25 Sorrow Echoes | `SE-1024-B__MAW-W_The_Collector_s_Vigil_Lantern.md` |
+| The Collector's Oilskin Trench-Coat | β; L/G/V/W 1.0 (Normal)/1.0 (Normal)/1.5 (Weak)/0.5 (Warded); max 4; 20 Sorrow Echoes | `SE-1024-C__MAW-S_The_Collector_s_Oilskin_Trench_Coat.md` |
+| Pale Wick Stigma | β; Eye/Face; 5%; Detection of karmic hazards, +Resolve bonus | `SE-1024-D__MAW-G_Pale_Wick_Stigma.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Debt-Collector's-Lantern's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Debt-Collector's-Lantern's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1024-A`
-**Linked Entity:** `SE-1024`
-**Author:** Researcher Euncris Park
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----
+The Stigma identifies Debt-Collector's-Lantern's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level. The gauge opens at 000% of its 000/386 meter, and no attack pattern is filed for this Weight manifestation. The set cannot heal the originating event. Misuse routes Debt-Collector's-Lantern's wound through the operator and triggers the recorded escalation.

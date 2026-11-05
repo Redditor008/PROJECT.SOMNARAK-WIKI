@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A small child, perhaps five years old, its body woven from true living tissue and slow-glowing embers — warm ash-skin, ember-veins, a heart of coal. It cradles a single ember that never dies. Fever-warm and faintly smoking, it smells of cold rain on dying coals. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile in breach at a walk — it does not run, hide or force a door — taking the shortest route to wherever people are and holding the ember up in the open. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -30,7 +30,10 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | 3 |
+| **SE Effect** | **On the breach** — The Child's cooling spreads through every source of warmth in reach, the lamp scale included. |
+| **Work Damage** | None — the embers neither go out nor spread, and the warmth they hold stays in the chamber. |
+| **Work Gift** | +5–10 Composure for the rest of the cycle — they warm without spreading, and the memory they are fed from is one the worker will not be able to check. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -79,14 +82,14 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Flicker* [**Debuff**] } | "The child glows — faintly, fadingly — and the warmth it gives is almost gone." | [Emberling's dying warmth touches the target; they feel the impending dark.] | *Target suffers -10 Composure; the cold is coming.* **[10 Lament DMG [Lament]]** | When the target holds the Child. |
-| { *The Cooling* [**Debuff**] } | "The glow dims — and with it, your hope dims too, and you cannot tell which is fading faster." | [The Child's fading heat drains the target's warmth of spirit.] | *Target loses 10 Composure; they are going cold inside.* **[10 Lament DMG [Lament]]** | When the target stays close. |
+| { *The Cooling* [**Debuff**] } | "The glow dims — and with it, your hope dims too. And you cannot tell which is fading faster." | [The Child's fading heat drains the target's warmth of spirit.] | *Target loses 10 Composure; they are going cold inside.* **[10 Lament DMG [Lament]]** | When the target stays close. |
 | { *The Spark* [**Attack**] } | "One last flare — bright, hot, desperate." | [A final ember-flash burns outward.] | *Inflicts Lament pressure and one small, hot wound.* **[14-22 Lament DMG [Lament]]** | When the Child is disturbed. |
 | { *The Final Dark* [**Attack**] } | "The ember goes out — and the dark that follows is the one that stands behind every watch on this path." | [The Child's stored warmth goes at once, and what it leaves is colder than the Gardens at night.] | *A heavy Deep Blue extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Child is extinguished — recorded once, in sixty years of watches. |
 | { *The Cold World* [**Ultimate**] } | "Every ember goes dark — and the cold already in the room turns out to have been the Child's all along." | [The Child's cooling spreads through every source of warmth in reach, the lamp scale included.] | *All in range suffer Lament pressure for three turns in the cold dark.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Emberling is recognised by the carried ember and by a gait that avoids open ground, and by nothing else. Brightness against the lamp scale is the operating reading and is taken before anything else moves; the approach is set seated, at the distance the entity chooses, with the positions fixed before the watch opens.
+1. **Tension:** Identification first — Emberling is recognised by the carried ember and by a gait that avoids open ground, and by nothing else. Brightness against the lamp scale is the operating reading and is taken before anything else moves. The approach is set seated, at the distance the entity chooses, with the positions fixed before the watch opens.
 2. **Clash:** Four turns, seated, at the distance the entity chooses. It approaches slowly and stops short; nothing in the record describes it closing the last pace itself.
 3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: somebody remains beside it until the brightness falls. Refusal does not end a cycle — it extends one.
 
@@ -121,8 +124,8 @@
 | **Form** | A small child, approximately five years old, made of glowing embers. The Child carries one ember that never dies. |
 | **Position / movement** | Walks upright at roughly a third of adult pace. It keeps to a consistent set of routes through the Gardens, avoids open ground, and has never once been recorded running, even during a breach. |
 | **Material / signature** | Ash-pale skin over visible ember-veins, a coal at the chest, faint smoke, and the smell of cold rain on dying fire. Lament expression. It emits light at a measured intensity and heat at none; the thermometer at the standard distance has never deviated from ambient. |
-| **Distinctive markers** | Light without heat; a slow cautious gait that avoids open ground; and one ember carried in both hands that has never gone out, including through the coldest night the holding has recorded. |
-| **Identification** | Confirm designation `C-IIβ-101 [LS]`, Echo (II) coherence, Moderate (β) potency, Subject-Body manifestation, Lament element, SECTOR-D-02. Two other Gardens holdings present as small figures in poor light and neither carries anything; the carried ember is the identifying mark and is confirmed before approach. |
+| **Distinctive markers** | Light without heat. A slow cautious gait that avoids open ground. And one ember carried in both hands that has never gone out, including through the coldest night the holding has recorded. |
+| **Identification** | Confirm designation `C-IIβ-101 [LS]`, Echo (II) coherence, Moderate (β) potency, Subject-Body manifestation, Lament element, SECTOR-D-02. Two other Gardens holdings present as small figures in poor light and neither carries anything. The carried ember is the identifying mark and is confirmed before approach. |
 
 **Appearance protocol:** Log size against the outline card, position on the Gardens grid, stance, brightness against the lamp scale, and the ember confirmed present in both hands. Brightness is the gauge-leading indicator here and is taken first. Write concretely: the entity has measurable features and none of the field words for 'unsettling' belong in the log. Record body brightness and the carried ember's dimming-series reading separately, naming which light each entry measures. The file associates brightening with escalation and with successful attendance; a brighter reading without its source is not a single operational verdict.
 
@@ -137,10 +140,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Reaches toward the worker and stops a pace short; the gauge falls while the worker stays within that pace. | Decrease |
-| **Pugnahan** (Confrontation) | Recoils, raises the ember away from the worker, and brightens. Eleven attempts are logged and all eleven raised the gauge. | Increase |
-| **Viderehan** (Observation) | Watches the observer back, with what the log consistently calls caution rather than interest. Informative; it relieves nothing. | Stable |
-| **Ferrehan** (Endurance) | Sits down near the worker and holds the ember where both can see it. The single most effective Work Type on this holding and the cheapest to perform. | Decrease |
+| **Flerehan** (Tears) | Reaches toward the worker and stops a pace short; the gauge falls while the worker stays within that pace. | Decrease · High |
+| **Pugnahan** (Confrontation) | Recoils, raises the ember away from the worker, and brightens. Eleven attempts are logged and all eleven raised the gauge. | Increase · Low |
+| **Viderehan** (Observation) | Watches the observer back, with what the log consistently calls caution rather than interest. Informative; it relieves nothing. | Stable · Common |
+| **Ferrehan** (Endurance) | Sits down near the worker and holds the ember where both can see it. The single most effective Work Type on this holding and the cheapest to perform. | Decrease · Common |
 
 ### Special Behaviors
 - The Child seeks warmth but cannot generate enough to share it.
@@ -161,16 +164,16 @@ Emberling is a Subject with Subject-Body manifestation and Lament expression, he
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape — on foot, at walking pace, into occupied areas. |
-| **Movement** | It leaves the enclosure and walks. It does not run, does not hide, does not force a door, and takes the shortest route to wherever people are; the three recorded escapes each ended with the entity standing in a corridor, in the open, holding the ember up. |
+| **Movement** | It leaves the enclosure and walks. It does not run, does not hide, does not force a door, and takes the shortest route to wherever people are. The three recorded escapes each ended with the entity standing in a corridor, in the open, holding the ember up. |
 | **Effect** | Audible weeping fills the air and erodes the will to continue. The weeping is not the entity's — its mouth does not move — and personnel describe recognising the voice as their own at a younger age. |
 | **Secondary Effect** | A pooling sorrow in the chest that does not lift on leaving the area and is logged as persisting four to eleven hours. |
-| **First Target** | Adults, and not the nearest person. It reads for whoever it takes to be capable of carrying it and goes to them, passing others on the way; in all three escapes it chose correctly, by the subsequent account of everybody involved. |
+| **First Target** | Adults, and not the nearest person. It reads for whoever it takes to be capable of carrying it and goes to them, passing others on the way. In all three escapes it chose correctly, by the subsequent account of everybody involved. |
 | **Escalation** | Composure drain +5 each turn it is free. The drain is not what ends the event and never has been; the event ends when one person stops and stays. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity leaves containment on foot and walks the facility at a third of adult pace. Nothing is damaged and nothing is pursued.
-- **Containment priority:** Do not evacuate the sector. Nominate one person to accept it and remain; refusal is the mechanism of this breach and an emptied corridor is a refusal performed by everybody at once.
+- **Containment priority:** Do not evacuate the sector. Nominate one person to accept it and remain. Refusal is the mechanism of this breach and an emptied corridor is a refusal performed by everybody at once.
 - **Sorrow Gauge on breach:** Opens at 35% and rises 10% at each refusal — a person who declines, withdraws, or passes it to somebody else. The count is of refusals and not of minutes, which is why the three recorded escapes differ in length by hours and not at all in final gauge.
 
 ## M.A.W. Equipment
@@ -186,6 +189,7 @@ Emberling is a Subject with Subject-Body manifestation and Lament expression, he
 **Range:** 4 (Long: 6–18m standoff)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
+**Bearer cost:** The carbine vents onto the wielder's own gloves: each shot raises their body temperature and singes what they wear, and they stop feeling the heat before they stop taking it.
 
 **Attack Pattern:** Incandescent Cinder Blast / Area Spark Igniter
 **Target Coverage:** Forward cone; up to 3 targets
@@ -196,7 +200,7 @@ Emberling is a Subject with Subject-Body manifestation and Lament expression, he
 The brass firing breech stays perpetually red-hot, venting thin plumes of grey chimney smoke from side louvers. Squeezing the iron lever-action trigger ejects spent slag cartridges, launching three high-velocity embers that detonate on contact to inflict burning Lament trauma across Range 4.
 
 **Special Move Set:**
-- *Primary Kinematics — "Cinder Volley":* Lever-action cycle feeds glowing coals into the firing chamber; a burst of compressed steam-combustion propels incandescent ember pellets across Range 4, igniting target armor with burning Lament damage.
+- *Primary Kinematics — "Cinder Volley":* Lever-action cycle feeds glowing coals into the firing chamber. A burst of compressed steam-combustion propels incandescent ember pellets across Range 4, igniting target armor with burning Lament damage.
 - *Active Special — "Hearth-Break Shrapnel":* The wielder dumps the entire furnace hopper into the superheated chamber and fires directly into a cluster of enemies at Range 4. The detonation unleashes a 5-meter expanding cloud of blinding ash and whistling white-hot coal shrapnel. Afflicts all caught targets with "Cinder-Blindness" and continuous burn for 4 seconds.
 - *Cost & Drawback:* Scorching heat vents from the side louvers, singeing the wielder's gloves and raising their body temperature.
 
@@ -219,7 +223,7 @@ The lower hem is singed into permanent glowing charcoal edges that never burn th
 
 **Ability:** *Insulating Embers* — Grants total immunity to freeze/frost debuffs and converts 15% of absorbed Lament damage into warm SP recovery.
 
-**Cost:** The cloak constantly leaves soot marks on hands and gear.
+**Bearer cost:** The cloak constantly leaves soot marks on hands and gear.
 
 ### M.A.W. Stigma — The Smoldering Charcoal Brooch
 
@@ -232,25 +236,25 @@ A dormant orange ember pulses deep within the fractured black mineral, glowing b
 
 **Slot:** Neck / Collar
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity; the brooch holds a coal that stays faintly warm against the bearer and cools within a day of being set down.
+**Effect:** +1 stat bonus when working the source entity. The brooch holds a coal that stays faintly warm against the bearer and cools within a day of being set down.
 
 **Ability:** *Warmth in Ash* — Bearer regains +1 SP every 5 seconds while in combat; immunity to hypothermia and shivering penalties.
 
-**Cost:** The skin beneath the brooch becomes warm and faintly discolored by fine ash.
+**Bearer cost:** The skin beneath the brooch becomes warm and faintly discolored by fine ash.
 
 *The Smoldering Charcoal Brooch is not manufactured and cannot be requisitioned. It has been conferred five times, in each case on a Warden who stayed past the end of their watch without logging the extra time and without mentioning it afterwards.*
 
 ### M.A.W. Use Notes
 
-Each Emberling piece is an extension of a cold that gives light rather than ordinary equipment. The listed benefit holds for a bearer who can be near distress without trying to fix it; it turns on a bearer who uses it to manage other people, and the recorded cost in each such case has been a flat, unembarrassed inability to be comforted.
+Each Emberling piece is an extension of a cold that gives light rather than ordinary equipment. The listed benefit holds for a bearer who can be near distress without trying to fix it. It turns on a bearer who uses it to manage other people. And the recorded cost in each such case has been a flat, unembarrassed inability to be comforted.
 
 The set is *Unspent Ember*, and its resonance is *Open Door*. A full-set bearer leaves a real place of safety available to another person and accepts named relief before departing. The warmth field lets someone remain without panic; it cannot supply an absent shelter or make the bearer the only possible protector. Its cost is lost sharpness in one happy memory until that memory is revisited with another person, never by forced recollection.
 
 Before drawing the Carbine, name a return place and the person who can verify it. The mote stays dim until the return-chair record is completed. Protection used to make somebody dependent turns it dark and sends the Lament cost to the bearer. The original ember is never a charging source. A return witness closes the hopper and covers the mote with insulated felt; smothering it scatters cold through the bearer’s happy associations.
 
-The Ashen Cloak requires a relief person and a free exit. Its Second Chair holds one incoming cold or abandonment surge only through handover or until the protected person leaves; absent relief at the declared time, Lament resistance returns to 1.0. Air it at an open doorway beside two chairs, one empty, without applied heat or raw Han. Ash at the collar warns of overcommitment; a black lining marks small joys being consumed in imitation of warmth.
+The Ashen Cloak requires a relief person and a free exit. Its Second Chair holds one incoming cold or abandonment surge only through handover or until the protected person leaves. Absent relief at the declared time, Lament resistance returns to 1.0. Air it at an open doorway beside two chairs, one empty, without applied heat or raw Han. Ash at the collar warns of overcommitment; a black lining marks small joys being consumed in imitation of warmth.
 
-The Brooch’s memory companion checks one chosen happy memory after activation, including a sensory detail, in a private record rather than a performance metric. A second clasp remains cold. Concealed loneliness and sensory fading require review even when the physical warmth held. For shutdown the companion names the memory, removes the clasp and leaves it beside an empty chair; breaking the glass drives stored cold into the remaining warm memories.
+The Brooch’s memory companion checks one chosen happy memory after activation, including a sensory detail, in a private record rather than a performance metric. A second clasp remains cold. Concealed loneliness and sensory fading require review even when the physical warmth held. For shutdown the companion names the memory, removes the clasp and leaves it beside an empty chair. Breaking the glass drives stored cold into the remaining warm memories.
 
 ### Field Use Record
 
@@ -281,7 +285,7 @@ The Brooch’s memory companion checks one chosen happy memory after activation,
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Emberling as a Subject with Subject-Body manifestation. Confirm the carried ember and the slow, cautious gait that avoids open ground before approach; Lament signature and SECTOR-D-02, Echo Gardens — contained, complete the registration check. |
+| **Initial exposure** | The observer identifies Emberling as a Subject with Subject-Body manifestation. Confirm the carried ember and the slow, cautious gait that avoids open ground before approach. Lament signature and SECTOR-D-02, Echo Gardens — contained, complete the registration check. |
 | **Sustained observation** | Confirms the three constants: it seeks warmth and cannot make any, personnel near it feel cold regardless of the glow, and it settles for anybody who sits without asking anything of it. Keep the emotional effect and the brightness in separate columns — they move on different clocks and conflating them cost the file two years of usable series. |
 | **Activation or escalation** | Record brightness first, then grid position, then distance of approach, then the gauge. The entity will not change shape or speed; everything observable at this stage is light and distance. |
 | **Post-contact review** | Note what changed in the entity, in the room and in yourself, what held, and what was hardest to name. A report on this holding is incomplete if it logs the hazard and omits that the most effective containment measure available is a person sitting down, and that the facility has never found a way to require it. |
@@ -313,7 +317,7 @@ No crystallisation event is recorded for this entity and none is claimed. It was
 
 | Stay: sit within reach, remain for the stated duration, and leave the ember where it is. | Decline: withdraw early, or pass the watch to somebody else once the entity has approached. |
 |---|---|
-| The ember climbs back to baseline and brightness holds; the gauge falls as it has fallen in every attended watch for sixty years, and the cycle is recorded. | The ember keeps falling toward its floor, the weeping starts somewhere that is not its mouth, and the breach opens at 35% with 10% added at the next refusal. |
+| The ember climbs back to baseline and brightness holds. The gauge falls as it has fallen in every attended watch for sixty years, and the cycle is recorded. | The ember keeps falling toward its floor, the weeping starts somewhere that is not its mouth, and the breach opens at 35% with 10% added at the next refusal. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -343,18 +347,18 @@ The rows below are this holding's whole co-presence record: four entities, seven
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Forgotten Soldier** | Comes to attention and holds it for as long as the Child is in view. | Twenty-two pairings. The salute is consistent and nothing follows from it: no gauge movement on either side, no change in brightness, no change in the Soldier's own recorded behaviour before, during or after. Recognition without consequence. | Record distance, duration, trigger, gauge, brightness, and residue. |
-| **The Grieving Colossus** | Stops and remains stopped while the Child is within its field. | Nineteen pairings. The pause is real and measured in minutes. Neither gauge moves, the ember holds steady, and the Colossus resumes exactly where it left off. It neither suppresses the Child nor is suppressed by it. | Record distance, duration, trigger, gauge, brightness, and residue. |
-| **The Hollow Choir** | Begins singing within a minute of the Child entering its range, every time. | Twenty-one pairings, the only non-null in the file. The ember brightens by a measurable step while the Choir sings and returns to baseline within an hour of separation; the Choir's own gauge is unchanged throughout. The Child is receiving something and the Choir is giving up nothing, which is the one asymmetry recorded here. | Record distance, duration, trigger, gauge, brightness, and residue. |
-| **The Smothering Mother** | Approaches to the limit of her tether and reaches. | Fifteen pairings. The Child stops at its usual pace short and does not close; the Mother cannot reach further. Nothing changes in either gauge, in the ember, or in the Mother's subsequent behaviour. The two have never made contact and the trial is not repeated at closer range. | Record distance, duration, trigger, gauge, brightness, and residue. |
+| [**The Forgotten Soldier**](SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) | Comes to attention and holds it for as long as the Child is in view. | Twenty-two pairings. The salute is consistent and nothing follows from it: no gauge movement on either side, no change in brightness, no change in the Soldier's own recorded behaviour before, during or after. Recognition without consequence. | Record distance, duration, trigger, gauge, brightness, and residue. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Stops and remains stopped while the Child is within its field. | Nineteen pairings. The pause is real and measured in minutes. Neither gauge moves, the ember holds steady, and the Colossus resumes exactly where it left off. It neither suppresses the Child nor is suppressed by it. | Record distance, duration, trigger, gauge, brightness, and residue. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | Begins singing within a minute of the Child entering its range, every time. | Twenty-one pairings, the only non-null in the file. The ember brightens by a measurable step while the Choir sings and returns to baseline within an hour of separation. The Choir's own gauge is unchanged throughout. The Child is receiving something and the Choir is giving up nothing, which is the one asymmetry recorded here. | Record distance, duration, trigger, gauge, brightness, and residue. |
+| [**The Smothering Mother**](SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) | Approaches to the limit of her tether and reaches. | Fifteen pairings. The Child stops at its usual pace short and does not close; the Mother cannot reach further. Nothing changes in either gauge, in the ember, or in the Mother's subsequent behaviour. The two have never made contact and the trial is not repeated at closer range. | Record distance, duration, trigger, gauge, brightness, and residue. |
 
 **Interaction procedure:** Alone first, always, for a full cycle. Then record the first shared change, distance, duration, trigger, gauge movement, brightness, effect on personnel, and whether anything outlasts separation. Across seventy-seven pairings only the Choir's brightening has outlasted separation, and only by the hour it takes to decay.
 
 ## 이야기 (Narratio) — The Tale
 
-It was a story the city forgot, and the forgetting left a child alone in the cold, holding an ember that would not go out.
+There was a story the city forgot, and the forgetting left a child alone in the cold, holding an ember that would not go out.
 
-The tale was an old one, told to children once, before the old stories were crowded out. Three partial versions survive, taken down from three old people in three different streets; what follows is the fullest of them, and the file prints the other two beside it rather than reconciling them, since the second breaks off mid-telling and the third simply stops with the girl still walking and the ember still lit. All three agree that she was looking for something and did not find it. This one goes further. It was about a girl — poor, orphaned, wandering a cold city — who carried a single ember in a cracked cup, searching for someone who would let her warm herself by their fire. She was turned away at every door. She was offered no shelter, no kindness, no warmth. And in the end the ember went out, and the girl froze, and the story ended the way such stories end: with a child dead of a cold the living could have prevented, and did not.
+The tale was an old one, told to children once, before the old stories were crowded out. Three partial versions survive, taken down from three old people in three different streets. What follows is the fullest of them. And the file prints the other two beside it rather than reconciling them, since the second breaks off mid-telling and the third simply stops with the girl still walking and the ember still lit. All three agree that she was looking for something and did not find it. This one goes further. It was about a girl — poor, orphaned, wandering a cold city — who carried a single ember in a cracked cup, searching for someone who would let her warm herself by their fire. She was turned away at every door. She was offered no shelter, no kindness, no warmth. And in the end the ember went out, and the girl froze, and the story ended the way such stories end: with a child dead of a cold the living could have prevented, and did not.
 
 Somnarak forgot the story. The old tales sank into the Weeping with everything else, dissolved, dispersed. But the sorrow at the story's heart — the loneliness of a child who needed comfort and found no one able to give it — did not dissolve. It survived the forgetting the way an ember survives a draft: small, low, persistent. The sorrow sank, and the Weeping could not carry it, because this was a child's sorrow, specific and cold and alone.
 
@@ -385,17 +389,17 @@ Some sorrows are about cruelty. Emberling is about absence — the simple absenc
 **Threat Assessment:** Moderate (β). It has injured nobody in sixty years, moves at a third of adult pace, and can be ended by one person sitting down. It is graded Moderate because it can and does leave containment, because the breach escalates on refusal rather than on time, and because its containment requirement is the one thing the facility has never found a way to oblige anybody to provide.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan lower the gauge; Viderehan is inert; Pugnahan raises it and is prohibited.
-- Personnel frequently stay past the end of a watch. The practice is recorded, is not discouraged, is not rostered, and since Y4243 is not paid; the history of that decision is set out in the Watch Record.
+- Personnel frequently stay past the end of a watch. The practice is recorded, is not discouraged, is not rostered, and since Y4243 is not paid. The history of that decision is set out in the Watch Record.
 **Observation Notes:**
-- Formed from a forgotten fairy tale about a girl with embers; three partial tellers' versions are held, none complete, and none agreeing on what she was looking for. The dimming series has run for 11 years, and the substitutions were tried in 1,406 trials, each one an hour long with the photometer running.
-- The ember never goes out; it warms no one. Left alone it falls to its floor over about 90 minutes, and it climbs back to baseline in about 20 minutes once somebody sits within the last pace — the curve that the 211 off-shift attendances and the 940 hours a year exist to keep alive.
+- Formed from a forgotten fairy tale about a girl with embers. Three partial tellers' versions are held, none complete, and none agreeing on what she was looking for. The dimming series has run for 11 years, and the substitutions were tried in 1,406 trials, each one an hour long with the photometer running.
+- The ember never goes out; it warms no one. Left alone it falls to its floor over about 90 minutes. And it climbs back to baseline in about 20 minutes once somebody sits within the last pace — the curve that the 211 off-shift attendances and the 940 hours a year exist to keep alive.
 **Cross-References:** Echo Gardens · Zone D · The Consolihan · the dimming series · the welfare-jurisdiction opinion of Y4242 · the Y4243 activity review · the presence-allowance proposal
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** A forgotten fairy tale; the girl’s sorrow survived the story.
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the ember can tell freely given attention from every substitute for it, the entity is not a child in law and so is owed nothing by anybody, and the facility responded to both findings by removing the sitting from paid time. Where observation contradicts this record, the record is wrong — preserve the discrepancy and let the file grow.
+**Operational interpretation:** The three sections below are one argument and are read together: the ember can tell freely given attention from every substitute for it, the entity is not a child in law and so is owed nothing by anybody. And the facility responded to both findings by removing the sitting from paid time. What the observation shows and the file does not is entered as an addition to the file. Removing a paid sitting from the record has been tried once already and did not make it unpaid.
 
 **Review requirement:** After any breach, Tide, Ordeal or unusual interaction, confirm gauge, brightness against the lamp scale, ember present, grid position, refusal count, the hours logged by volunteers against the hours rostered, and the standing of the presence-allowance proposal.
 ## Watch Record
@@ -420,7 +424,7 @@ The figure came out of a forgotten story about a girl carrying embers through th
 
 The dimming was noticed in the first year and treated as mood. It became an instrument in the fortieth, when a Keeper put a photometer on a stand at a fixed distance and left it running through the unwatched hours as well as the watched ones.
 
-The carried ember has a baseline and a floor. Left entirely alone it falls to the floor value over about ninety minutes and sits there; it has never gone out and has never, in eleven years of continuous reading, gone below that floor. When somebody sits down within the last pace it climbs back to baseline over roughly twenty minutes. The curve is the same every time, to a tolerance the Keepers describe as embarrassing.
+The carried ember has a baseline and a floor. Left entirely alone it falls to the floor value over about ninety minutes and sits there. It has never gone out and has never, in eleven years of continuous reading, gone below that floor. When somebody sits down within the last pace it climbs back to baseline over roughly twenty minutes. The curve is the same every time, to a tolerance the Keepers describe as embarrassing.
 
 The series became serious when the substitutions were tried. **One thousand four hundred and six trials over eleven years**, each one an hour long, each one with the photometer running.
 
@@ -442,7 +446,7 @@ It attaches to a child. A child, for every purpose of the scheme, is a human bei
 
 The entity is not a human being. Counsel takes four lines over this and treats it as obvious, which it is. It follows that no duty of any kind arises: it cannot be assessed, cannot be placed, cannot have an interest that any body is obliged to consider, and cannot have somebody appointed to speak for it. The opinion notes that the conclusion is unaffected by how exactly it presents, by its evident distress, or by its age in appearance, since none of those is the operative fact.
 
-The second half of the opinion was not asked for and the Keepers have underlined it twice. The staff who sit with it acquire nothing either. They are not carers, not foster parents, not guardians; no status attaches, no recognition, no protection, and nothing they do creates a relationship the law will name. Counsel observes, without apparent discomfort, that this is the ordinary position of a person who is kind to an object.
+The second half of the opinion was not asked for and the Keepers have underlined it twice. The staff who sit with it acquire nothing either. They are not carers, not foster parents, not guardians. No status attaches, no recognition, no protection, and nothing they do creates a relationship the law will name. Counsel observes, without apparent discomfort, that this is the ordinary position of a person who is kind to an object.
 
 The Keeper's annotation runs along the bottom of the page: *we asked what it is owed and the answer is nothing, and then we asked what we become by giving it anyway, and the answer is also nothing.*
 
@@ -450,24 +454,24 @@ The Keeper's annotation runs along the bottom of the page: *we asked what it is 
 
 In the forty-third year the facility conducted an ordinary productivity review of unmeasured staff time across the wing. The Gardens sitting came up because it is the largest single block of such time in the division.
 
-The analysis was competent. Sitting produces no Han-Energy; it is not a Work Type cycle for yield purposes; it generates no record beyond a brightness figure; and it consumes, across the roster, a little over nine hundred paid hours a year. The reviewers noted — correctly, and from this file — that the holding has never breached while the sitting was maintained, and sought a way to retain the benefit at lower cost. None was available: the dimming series had already closed off every substitute an employer can actually buy, and the reviewers cite it.
+The analysis was competent. Sitting produces no Han-Energy; it is not a Work Type cycle for yield purposes. It generates no record beyond a brightness figure. And it consumes, across the roster, a little over nine hundred paid hours a year. The reviewers noted — correctly, and from this file — that the holding has never breached while the sitting was maintained, and sought a way to retain the benefit at lower cost. None was available: the dimming series had already closed off every substitute an employer can actually buy, and the reviewers cite it.
 
-So the recommendation was the remaining one. Remove the sitting from the work schedule. It is not a task, it cannot be specified, and it cannot be required; personnel who wish to do it may do so, as a personal matter, in their own time. The Gardens remain accessible off-shift, as they are to the public.
+So the recommendation was the remaining one. Remove the sitting from the work schedule. It is not a task, it cannot be specified, and it cannot be required. Personnel who wish to do it may do so, as a personal matter, in their own time. The Gardens remain accessible off-shift, as they are to the public.
 
 The decision was lawful and was within the facility's ordinary power to define its own work. It was implemented in the forty-third year and reviewed in the forty-fifth. **The review found no containment impact: brightness unchanged, refusal count unchanged, no escape, no gauge excursion.** On the strength of that finding the same treatment has since been applied to two comparable activities in other wings.
 
 The reason there was no impact is in the attendance book, which the review did not ask for. **Two hundred and eleven people have signed into the Gardens off-shift since the change, for a recorded nine hundred and forty hours a year** — almost exactly the hours removed from the roster. The work did not stop. It moved off the payroll and out of the record.
 
-The objection is minuted at the forty-fifth review and at each of the six since, raised by the Gardens' senior Keeper and supported by the wing's safety officer. It holds, first, that the review measured the removal of a cost and concluded that the activity was unnecessary, when what actually happened is that the staff absorbed it in their own time — so the finding of no impact is an artefact of their generosity and is now cited as precedent in two other wings. Second, that a person sitting in the Gardens off-shift is not at work: the safety officer's note records one Warden hurt on the path in the forty-sixth year whose claim failed on precisely that ground, and observes that the facility is relying for its containment on an activity it has defined itself out of covering. Third, that the facility holds the only instrument in existence capable of proving that this care must be freely given to work at all, and used that proof as the reason to stop paying for it — which the minute calls the most efficient possible misreading of a finding.
+The objection is minuted at the forty-fifth review and at each of the six since, raised by the Gardens' senior Keeper and supported by the wing's safety officer. It holds, first, that the review measured the removal of a cost and concluded that the activity was unnecessary, when what actually happened is that the staff absorbed it in their own time — so the finding of no impact is an artefact of their generosity and is now cited as precedent in two other wings. Second, that a person sitting in the Gardens off-shift is not at work: the safety officer's note records one Warden hurt on the path in the forty-sixth year whose claim failed on precisely that ground. And observes that the facility is relying for its containment on an activity it has defined itself out of covering. Third, that the facility holds the only instrument in existence capable of proving that this care must be freely given to work at all. And used that proof as the reason to stop paying for it — which the minute calls the most efficient possible misreading of a finding.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was drafted in the forty-sixth year and costed at the nine hundred hours already being worked — a presence allowance: rostered time in the Gardens with no specified task, no output, and no record of what is done with it, so that the time is paid and covered without being required — and that it has not been laid before the board in six years. And it records the sentence the senior Keeper asked to have entered verbatim, which is now written on the inside cover of the Gardens attendance book:
+The minute enters the objection as correct part by part, and finds no fault in any of the three. It records that a remedy was drafted in the forty-sixth year and costed at the nine hundred hours already being worked — a presence allowance: rostered time in the Gardens with no specified task, no output. And no record of what is done with it. So that the time is paid and covered without being required — and that it has not been laid before the board in six years. And it records the sentence the senior Keeper asked to have entered verbatim, which is now written on the inside cover of the Gardens attendance book:
 
 *We proved that it only counts when nobody is making you, and then we stopped making anybody, and then we wrote down that it cost us nothing.*
 
 ## Trivia
 
 - The registry title is kept from a tale no current Keeper can reconstruct in full. Three partial versions are held; the Keepers have declined four offers to publish a reconciled text.
-- The ember gives light and no heat at all, and dims only when nobody is there — which means the one thing in this holding that behaves like a measuring instrument is also the only thing in it that can be hurt by an empty room.
+- The ember gives light and no heat at all. And dims only when nobody is there — which means the one thing in this holding that behaves like a measuring instrument is also the only thing in it that can be hurt by an empty room.
 
 
 

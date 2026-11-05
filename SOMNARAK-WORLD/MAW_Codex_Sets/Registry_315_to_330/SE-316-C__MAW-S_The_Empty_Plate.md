@@ -24,9 +24,15 @@ The Empty Plate is a crimson harness of Han iron with an open plate where a seco
 
 ## PROTECTION FILE
 
+**Grade / Element:** α / Grudge
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 5 / 10 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
 
 **Unheld Guard:** The Plate resists anger released when a one-sided bond ends while leaving the empty grip visible.
 
@@ -43,14 +49,3 @@ Knot identifies, Plate guards, Fang cuts self-binding.
 **Maintenance:** Keep the open plate empty while a witness names one relationship fact that remains after release.
 
 **Removal:** The wearer opens the harness from the absent-grip side without reaching for another person.
-
----
-
-**Document ID:** `SE-316-C`  
-**Linked Entity:** `SE-316`  
-**Item Registry Code:** `MAW-S-316-01`  
-**Author:** Specialist Hanul Grey  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

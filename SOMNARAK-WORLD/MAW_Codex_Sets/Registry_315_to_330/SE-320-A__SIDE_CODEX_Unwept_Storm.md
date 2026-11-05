@@ -24,7 +24,7 @@
 | Coherence / Potency | V — Sovereign / γ — Major |
 | Element | Weight |
 | Form | City-wide black Han clouds, dark crystal rain, and pressure that bends structures out of true. |
-| Gauge / Pressure | 45–65% / Weight 13–30 |
+| Gauge / Pressure | 000/880; starts 000% / Weight — no attack pattern; the full-ring pressure read across every station is the instrument |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Shelter That Passes |
 
@@ -48,6 +48,8 @@ Conventional Work does not command the Storm.
 |---|---|---|
 | Viderehan | Tracks formation, grief density, and shelter load. | Observe remotely; do not enter for data. |
 | Ferrehan | Endures the phenomenon from protected shelter. | Rotate personnel and acknowledge grief openly. |
+| Flerehan | **Negative-Low** — an offer of grief to the Storm is read as a claim on it. | Barred; grief is acknowledged from shelter and never offered to the formation. |
+| Pugnahan | **Negative-Low** — force applied here is answered by everything the Storm is carrying. | Barred; no breaching work inside the pressure ring. |
 | Storm arrival | Structures crack; entities agitate. | Shelter immediately. |
 | Storm passage | Ambient pressure drops; damage remains. | Do not confuse clearance with recovery. |
 
@@ -101,13 +103,3 @@ Extraction occurs only from crystallized hail after the Storm has passed and cas
 **Primary source:** `SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md`
 
 **Restricted note:** Post-Storm Han yield is not a reward pool. Recovery and new-entity monitoring take precedence over extraction.
-
----
-
-**Document ID:** `SE-320-A`  
-**Linked Entity:** `SE-320`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

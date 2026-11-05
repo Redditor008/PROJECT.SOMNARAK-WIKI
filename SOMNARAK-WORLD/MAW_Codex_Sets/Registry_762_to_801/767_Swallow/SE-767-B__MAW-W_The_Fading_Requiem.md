@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Fading Requiem
 
-> *“The Fading Requiem remembers Swallow; the bearer must not mistake memory for permission.”*
+> *"Every blow takes something small out of the wielder's outline. Comrades learn to aim around them."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Swallow's lament signature in the strike.  
-**Binding rule:** the bearer names Swallow's event—A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence.—and accepts this limit: Name the source of the grief and return emotional ownership
+**Binding rule:** the bearer names Swallow's event — “A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence.” — and accepts this limit: Name the source of the grief and return emotional ownership
 
 ## Appearance
 
-The Fading Requiem is the weapon record of Swallow’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names Swallow’s event — a memorial beneath the Alpha Tree absorbed generations of visitors’ grief and became a spreading absence — and accepts the set’s limit: name the source of the grief and return emotional ownership. The operational cost is the Lament standard at full weight: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the source sorrow feel autobiographical — generations of strangers’ mourning misfiling itself as the wielder’s own history. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon discharges the immediate hazard only after the team attributes it to Swallow, and treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Fading Requiem is the weapon record of Swallow’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names Swallow’s event — a memorial beneath the Alpha Tree absorbed generations of visitors’ grief and became a spreading absence — and accepts the set’s limit: name the source of the grief and return emotional ownership. The cost is the outline: every blow removes something small the wielder used to have, until comrades learn to aim around them. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon discharges the immediate hazard only after the team attributes it to Swallow, and treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -29,16 +29,20 @@ The Fading Requiem is the weapon record of Swallow’s set, a Lament instrument 
 |---:|---:|---:|---|---:|
 | Lament 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Swallow's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The strike takes a piece of its target and a piece of the wielder's outline: each blow makes the wielder slightly harder to look at directly. Wielded long, comrades aim around them.
 
 ## ITEM-SPECIFIC HISTORY — *The Swallow Source-Trace: Weapon Record*
 
-The first The Fading Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Requiem encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Swallow. A wielder treated the swallowed outline as their own wound, and the strike began taking from the comrades beside them; the binding is the note filed after the third such pass.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Swallow's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: comrades start aiming around the wielder without deciding to, and the gap they leave widens with every blow.
 - Terminal state: Swallow's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Name the source of the grief and return emotional ownership” reverses the item’s benefit and raises the source Gauge.  
@@ -47,15 +51,4 @@ The first The Fading Requiem field bearer encountered this source response: N/A 
 
 ## SET RELATIONSHIP
 
-Within *Swallow — Witnessed Form*, The Fading Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-767-B`  
-**Linked Entity:** `SE-767`  
-**Item Registry Code:** `MAW-W-767-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Swallow — Witnessed Form*, The Fading Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set when a blow takes something the wielder was not carrying.

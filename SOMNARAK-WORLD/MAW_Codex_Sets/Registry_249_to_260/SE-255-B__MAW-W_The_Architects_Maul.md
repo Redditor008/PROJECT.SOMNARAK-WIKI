@@ -28,6 +28,10 @@ The Architect’s Maul is a black two-handed maul of Han steel whose striking fa
 |---|---:|---|---|---:|
 | γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
 **Intent Line:** The Maul sends Weight through up to three connected structural targets matching the plan’s present load path. It cannot create the missing element or make unoccupied design safe.
 
 **Cost:** The wielder grows heavier and ages slightly with prolonged operation.
@@ -43,14 +47,3 @@ Compass reads intent, Mantle permits entry, Maul addresses current failure. The 
 **Maintenance:** Rest the head on a current support outside the phantom plan. Read intended use and present use separately. Leave the missing plan face blank.
 
 **Shutdown:** Ground the Maul before the last required strike becomes a completion impulse.
-
----
-
-**Document ID:** `SE-255-B`  
-**Linked Entity:** `SE-255`  
-**Item Registry Code:** `MAW-W-255-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -1,0 +1,154 @@
+{
+  "designation": "O-Iα-754",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-754_Thralldom_떠도는_사슬.md",
+  "words": 7359,
+  "sha256": "306fe480fa3b5643ca54e6846107926a1766de30878435a7455d63d0a01c391a",
+  "unit": 2,
+  "name": "Thralldom",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md",
+  "before_words": 7359,
+  "after_words": 7516,
+  "base": "3345ce4a99e3fc15574e704eee895b71b50e871c",
+  "final_sha256": "e9e3eeb85e99d238fdd546ace82a14baefab794b932f47e37e520bd530b184a1",
+  "summary": "Eight supported repairs return the leftover monster grammar to a restraint that has never chased anybody: the Valid Work Types row stops offering Pugnahan the file bars absolutely; the Ultimate no longer splits one continuous chain into roaming lengths hunting every ankle — it stays one length closing toward a loop wherever somebody has taken hold; the template Resolution splice gives way to 'Do not bind it; offer an unforced ending'; the breach table's prey-hunting burst, wall-cracking anger and 'wave of pure malice' become the ordinary crawl, bind-don't-wound injury rule and compulsion-that-presents-as-loyalty; and the two stock Observation rows now carry the configuration, the 61-78-96 mark series and the count-from-four. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "The most quietly devastating measurement in this batch: ninety-six marked thresholds, most of them this facility's own doorways, counted against a workforce nobody may legally hold. The Chain's containment — stand still, hands visible, let it through — is the notice-period rule rendered as procedure, and the file knows it: 'Nobody here is held by the Company. The Chain counts the ones held by everything else, and it is longer every year.'",
+  "reasoning": "R-33 chain: Subject / Residue-I / Minor-α / Subject-Grudge, Grudge → a family chained a Fracturing man out of love; the Han took him anyway and the chain did not fall → an open length of fever-hot chain crawling the Old Lament with nothing at either end, leaving red marks where people were kept from leaving → confrontation is force applied to make something stay, the originating act, so work is Flerehan loosening and Ferrehan staying unbound; the threshold counts down from 4 with every detention attempt → breach is the same crawl looking for a wrist, ended by open exits rather than lines held → equipment inherits the holding: a blade that pins, a plate that makes withdrawal deliberate, a link given only to workers who let the Chain leave. Repairs remove the prey/anger/malice and self-splitting grammar the chain cannot carry; the two blade identities and the death-of-the-held strata remain HELD.",
+  "history": "Batch 132 unit 5 (dffccdfc) performed the source-led full-dossier equipment review of exact set 754 — complete primary and SE-754-A–D read before edits, Registry rows 843–846, Master table 727–729 / detail Entries 727–729, Entity Codex row 613, Tale 243, archetype MAW-W-754, disposition row 200 — counted inside the ledger legacy baseline at 7,082→7,359 words, expressly 'no weapon ability combined'. B184 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "The weapon is one statistic line under two identities that were already kept apart at Batch 132 and stay apart: The Pilgrim's Boundary-Blade (primary heading, Master table 727, archetype MAW-W-754) is a thirty-six-inch deed-etched boundary sword that scores a line and halves movement at Long-by-archetype/Range 2 Short; The Wandering Fang (item B, Master Entry 727, Registry row 844) severs restraint clauses from bonds. Whether they are two forms, two issues or one mis-filed blade is nowhere settled, and no ability was combined here.",
+    "How the held man ended differs by stratum: Origin and Registrum say 'a loved one' who 'left anyway' / 'was taken anyway'; the embedded Narratio has the Han take him leaving 'the chain lying on a body that was no longer anybody'; Tale 243 leaves the chain 'holding a body that was no longer a person' and then wandering. Left-in-fear, taken-by-Han and body-left-behind cannot all be the mechanism, and the daughter's account — the in-file primary source — only says 'when it was over'. All stand.",
+    "The codices' shared cost ('source emotion enters the bearer', corrosion attribution→normalised compulsion→reenactment through the operator) remains the item files' doctrine against the primary's equipment record, which runs on bruising along old breaks, withdrawal becoming deliberate, and feeling every bond left behind. Side A's full-set resonance (links tightening violently around the bearer's ribs until renounced) also stands uncorrected in its own file; the primary disputes crushing effects everywhere else ('binds rather than wounds'). Neither was edited into the other.",
+    "Scope of the Link's +1 differs (primary: 'while working the Chain, lost for the rest of the cycle if the bearer ever restrains it'; item D: '+1 Resilience'); thresholds stay parallel (counter 4 counting down, Core ≥ 45%, Ultimate 65%, breach ±10% per restraint/exit). Side A's resolution ('separate care from restraint and preserve an open exit') and the primary's ('Do not bind it; offer an unforced ending') are both kept as the same instruction in two wordings."
+  ],
+  "split": [
+    7,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "valid_work_types",
+      "kind": "short",
+      "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+      "new": "| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan remains in the response table because it was tried; on this holding it is barred absolutely and has raised the gauge on every occasion without exception. |"
+    },
+    {
+      "id": "battle_resolution_splice",
+      "kind": "short",
+      "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not bind it; offer an unforced ending**. Everything the record asks for here follows from that clause — the route stays open, nobody takes hold of the links, and the watch closes when a bond is allowed to end rather than broken.",
+      "new": "3. **Resolution:** There is no suppression condition behind this holding. The watch closes on the documented clause — **Do not bind it; offer an unforced ending** — the route stays open, nobody takes hold of the links, and the cycle ends when a bond is allowed to end rather than broken."
+    },
+    {
+      "id": "ultimate_splitting",
+      "kind": "careful-detail",
+      "old": "| { *The Roaming Iron* [**Ultimate**] } | \"The chain is everywhere now — dragging through every corridor, finding every ankle.\" | [It splits into lengths and crawls every lane of the ground at once.] | *Grudge pressure presses on everyone for three turns while the iron roams.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Roaming Iron* [**Ultimate**] } | \"It does not come for you. It comes past you, and then the end of it is somewhere it was not.\" | [The Chain stays one length and does not divide; what spreads across the ground is its reach — end over end, closing toward a loop wherever somebody has taken hold.] | *Grudge pressure presses on everyone for three turns while the iron roams; it has never taken anybody standing still with their hands visible.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+    },
+    {
+      "id": "breach_movement",
+      "kind": "short",
+      "old": "| **Movement** | Thralldom bursts free and crawls or slithers in search of prey. It binds personnel, dragging them. |",
+      "new": "| **Movement** | It does not burst anywhere. At zero on the count it leaves the Old Lament at its ordinary crawl and looks for a wrist; it does not chase, cannot be outrun in a straight corridor, and has never taken anybody who was standing still with their hands visible. |"
+    },
+    {
+      "id": "breach_effect",
+      "kind": "short",
+      "old": "| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |",
+      "new": "| **Effect** | It binds rather than wounds. Every injury on the record is from a person pulling against it, and the gauge is indexed to restraint: each attempt to hold, bind, cordon or detain it is worth more than any damage figure on this file. |"
+    },
+    {
+      "id": "breach_secondary",
+      "kind": "short",
+      "old": "| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |",
+      "new": "| **Secondary Effect** | Exposed personnel begin to feel compelled to remain in harmful relationships and duties. It does not present as distress; it presents as loyalty, and is measured afterwards by declined leave and refused rotations. |"
+    },
+    {
+      "id": "observation_sustained_template",
+      "kind": "short",
+      "old": "| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |",
+      "new": "| **Sustained observation** | Configuration, direction and the mark series: the length open or closed, the route it is crawling, and the annual threshold count — 61, then 78, then 96 — surveyed by location, because marks fade where a bond has since ended honestly. |"
+    },
+    {
+      "id": "observation_activation_template",
+      "kind": "short",
+      "old": "| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |",
+      "new": "| **Activation or escalation** | The threshold count, which stands at 4 and counts down one for every failed cycle and every attempt to detain it; a clean cycle can return one. Activation is the length closing into a loop, and it is always preceded by somebody taking hold — log who, and on whose order. |"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-O-Iα-754_Thralldom_떠도는_사슬.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.016  clean   193 grams  Operational Parameters\n 0.014  clean   514 grams  Combat Record\n 0.009  clean   822 grams  M.A.W. Equipment\n 0.007  clean   594 grams  감각 묘사 (Flavor Text)\n 0.000  clean   583 grams  Chain Record\n 0.000  clean   400 grams  관찰 기록 (Observation Log)\n 0.000  clean   390 grams  이야기 (Narratio)\n 0.000  clean   373 grams  기록 (Registrum)\n 0.000  clean   293 grams  Appearance\n 0.000  clean   258 grams  Breach Behavior\n 0.000  clean   225 grams  Behavior\n 0.000  clean   175 grams  이야기 보고 (Story Log)\n 0.000  clean   143 grams  Trivia\n 0.000  clean   131 grams  Origin\n 0.000  clean   125 grams  최종 관찰 (Final Observation)\n 0.000  clean    98 grams  증언 (Testimonium)\n 0.000  clean    33 grams  SECC Classification\n 0.000  clean    33 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   3  | **Han-Energy yield** | 10–14 per successful work cycle, taken off the crawl and never off the links |\n   83   3  | { *The Yank* [**Attack**] } | \"The chain pulls — and whatever is on the other end is stronger than you.\" | [The length goes taut\n   84   4  | { *The Roaming Iron* [**Ultimate**] } | \"It does not come for you. It comes past you, and then the end of it is somewhere it was\n  200   6  **Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch on the rack, that settles over the wearer and brea\n  220   3  **Appearance:** a chain-link of Grudge Han-iron, dark and warm to the touch, that takes the light at an angle no honest piece of m\n  245   1  | **After use** | Return the piece, reconcile the baseline, and enter whether the toll has let go — the lag between the wearer's i\n  314   4  Three names sit within the Chain's working range — The Chain of Memories, The Broken Promise and The Smothering Mother — and each \nGENERIC 0.004  (24 shared shingles)  SE-O-Iα-754_Thralldom_떠도는_사슬.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-A__SIDE_CODEX_Thralldom.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-B__MAW-W_The_Wandering_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-C__MAW-S_The_Wandering_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-D__MAW-G_The_Wandering_Link.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-A__SIDE_CODEX_Thralldom.md": "909435bbea9ab6895b32dfc60ad5b4af9ef0f2522366bcd23d5f76f36c4c7595",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-B__MAW-W_The_Wandering_Fang.md": "b084d8d2ce597beb32d4338fa0d65e3cf3957e9cf63c7e7545d67e706503ffcb",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-C__MAW-S_The_Wandering_Plate.md": "4df05d7be0a85db8ee13724fad84ad0fb033abd1ae764d3350105c02641f8d10",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-D__MAW-G_The_Wandering_Link.md": "5e6fb978a9ca178db131e74d49184f126592a71331c5562b1c30fd3a81c4fc37",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-O-Iα-754_Thralldom_떠도는_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-754_Thralldom_%EB%96%A0%EB%8F%84%EB%8A%94_%EC%82%AC%EC%8A%AC.md \"SE-O-Iα-754_Thralldom_떠도는_사슬.md\")]",
+  "table_link": "[Thralldom](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-754_Thralldom_%EB%96%A0%EB%8F%84%EB%8A%94_%EC%82%AC%EC%8A%AC.md \"SE-O-Iα-754_Thralldom_떠도는_사슬.md\")",
+  "reading": {
+    "before_lines": 422,
+    "before_bytes": 44001,
+    "final_lines": 422,
+    "final_bytes": 44711
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 103,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "The following file-own figures are restated in repaired prose: 4 (the activation count), 61, 78, 96 (the marked-threshold survey). No combat or equipment number changed; nothing imported."
+  }
+}

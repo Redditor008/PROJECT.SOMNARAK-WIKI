@@ -88,14 +88,3 @@ Grey used the Mantle during a prolonged Border Watch rotation after a field alar
 The Mantle is the guarded transition of *Wake the Watch*. Sleeping Maul makes rest possible and Sleeping Breath reveals the group fatigue; this suit ensures that recovery has a person who will wake the bearer.
 
 > *“Sleep is safe only when someone has agreed to keep the world from demanding you awake.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-157-C`  
-**Linked Entity:** `SE-157`  
-**Item Registry Code:** `MAW-S-157-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

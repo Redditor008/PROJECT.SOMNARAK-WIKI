@@ -19,10 +19,10 @@ The Trace formed from a grievance carried through places rather than people. The
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-175 [GP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: manifestation in place / Place-Grudge |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Grudge / Zone D, Mantle Commons |
-| Gauge / Pressure | 225/225; starts 25–40% / 2–8 per hit · Grudge |
+| Gauge / Pressure | 000/225; starts 000% · Grudge — no attack pattern: the trace advances and does not travel, and it has injured nobody in a hundred and ten years (Contact Record, R-36) |
 | Observation | 1 — Initial |
 | Formation event | A route through Mantle Commons held years of conflict; the repeated anger marked the ground. |
 
@@ -30,8 +30,8 @@ The Trace formed from a grievance carried through places rather than people. The
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the sequence of events that left it. (Stable) |
 | Ferrehan | Tests whether the worker can walk without adding another mark. (Decrease) |
 
@@ -40,7 +40,7 @@ The Trace formed from a grievance carried through places rather than people. The
 
 ## WITNESS RECORD — *The Anger Underfoot Source-Trace*
 
-During the The Anger Underfoot Source-Trace, the field team preserved this source fact: A route through Mantle Commons held years of conflict; the repeated anger marked the ground. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The exhaustion of anger remaining after every person who caused it has gone.
+During *The Anger Underfoot Source-Trace*, the field team preserved this source fact: A route through Mantle Commons held years of conflict; the repeated anger marked the ground. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The exhaustion of anger remaining after every person who caused it has gone.
 
 ## M.A.W. SET — *Anger Underfoot — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Anger Underfoot Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Anger Underfoot's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Map the trace and stop repeating the grievance The set cannot heal the originating event. Misuse routes Anger Underfoot's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1017-A`  
-**Linked Entity:** `SE-1017`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

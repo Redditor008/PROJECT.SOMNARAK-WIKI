@@ -41,12 +41,3 @@ The Shroud separates the Choir’s emotional pressure from the wearer’s physic
 ### History Record
 
 A Choir researcher wore the Shroud through a full Consolihan swell and left the amphitheater still able to speak. The researcher spent the next month waking at the same time each night to write down a different unfinished song.
-
-**Document ID:** `SE-021-C`  
-**Linked Entity:** `SE-021`  
-**Item Registry Code:** `MAW-S-021-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

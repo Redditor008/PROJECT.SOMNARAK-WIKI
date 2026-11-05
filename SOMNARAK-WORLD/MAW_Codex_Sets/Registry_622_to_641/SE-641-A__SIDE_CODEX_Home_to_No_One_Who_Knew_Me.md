@@ -22,7 +22,7 @@ A black shape-shifting relic appears ambiently in Old Lament after long absences
 | Coherence / Potency | IV / δ |
 | Element | Grudge |
 | Location | Zone B, Old Lament — ambient |
-| Gauge / Pressure | 809/809; starts 60–80% / 28–60 Grudge |
+| Gauge / Pressure | 000/880; starts 000% / Grudge — no attack pattern; the crimson light and the position are the reading |
 | Movement / Resistance | Fixed-returning object / 45% Grudge, 35% other |
 | Activation threshold | Gauge ≥90%; touch or recognition activates return |
 | Observation | 2 — Basic |
@@ -30,7 +30,7 @@ A black shape-shifting relic appears ambiently in Old Lament after long absences
 
 **First marker:** the relic changes object form when unobserved, yet every form carries the same black surface, crimson internal glow, and char scent.  
 **Core wound:** the object returned to its origin after absence only to find belonging had changed beyond mutual recognition.  
-**Resolution:** acknowledge the returned thing and its changed home; lower Gauge below 25% without claiming restoration.
+**Resolution:** The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule.
 
 ## WORK & ACTIVATION READOUT
 
@@ -38,8 +38,8 @@ Only Viderehan and Ferrehan are valid for this Object/Place I-Relic.
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid; the relic does not accept emotional engagement. | N/A |
-| Pugnahan | Invalid; rejection multiplies returning versions. | N/A |
+| Flerehan | Invalid; the relic does not accept emotional engagement. | Negative-Low |
+| Pugnahan | Invalid; rejection multiplies returning versions. | Negative-Low |
 | Viderehan | Routes and hands through which it passed appear. | Stable |
 | Ferrehan | It remains while the worker bears uncertainty. | Decrease |
 
@@ -51,9 +51,9 @@ The Grade δ set formed when Marjuk placed the relic in Old Lament as a returned
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Home to No One Who Knew Me’s Fang | δ Grudge; 10–15; Speed 3; Range 3; Skewer 100/70/50%; max 2; 50 Echoes | `SE-641-B__MAW-W_Home_to_No_One_Who_Knew_Mes_Fang.md` |
-| Home to No One Who Knew Me’s Plate | δ Grudge; L/G/V/W 1.0/0.4/1.8/1.2; max 2; 45 Echoes | `SE-641-C__MAW-S_Home_to_No_One_Who_Knew_Mes_Plate.md` |
-| Home to No One Who Knew Me’s Ember | δ Grudge; Tail; 4%; +3 Resilience; recalls one lost object | `SE-641-D__MAW-G_Home_to_No_One_Who_Knew_Mes_Ember.md` |
+| Home to No One Who Knew Me’s Fang | δ Grudge; 10–15; Speed 3; Range 3; Skewer 100/70/50%; max 2; 50 Echoes | `SE-641-B__MAW-W_Home_to_No_One_Who_Knew_Me_s_Fang.md` |
+| Home to No One Who Knew Me’s Plate | δ Grudge; L/G/V/W 1.0/0.4/1.8/1.2; max 2; 45 Echoes | `SE-641-C__MAW-S_Home_to_No_One_Who_Knew_Me_s_Plate.md` |
+| Home to No One Who Knew Me’s Ember | δ Grudge; Tail; 4%; +3 Resilience; recalls one lost object | `SE-641-D__MAW-G_Home_to_No_One_Who_Knew_Me_s_Ember.md` |
 
 ## FULL-SET RESONANCE — *Received as Changed*
 
@@ -67,13 +67,3 @@ The Grade δ set formed when Marjuk placed the relic in Old Lament as a returned
 During the Old Lament Reinstallation, officials placed the relic on the vanished district’s former ceremonial plinth. The street reshaped around an obsolete plan and returning copies appeared in residents’ hands. Marjuk removed the title “district treasure,” recorded the current neighborhood, and asked residents whether they wished to receive the object now. One said yes. The copies vanished when reception replaced restoration.
 
 > *“Return is an event in the present. Restoration is a claim about the past that may erase everything changed between.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-641-A`  
-**Linked Entity:** `SE-641`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

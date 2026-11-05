@@ -61,7 +61,7 @@ Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight m
 | **Han Pressure [ATK]** | 30–50 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** They charge, and a wall of bone-and-old-rage breaks whatever line they hit. 
+**Ability:** They charge, and a wall of bone-and-old-rage breaks whatever line they hit.
 
 ### The Blade Storm (Non-Humanoid, Elite-grade)
 

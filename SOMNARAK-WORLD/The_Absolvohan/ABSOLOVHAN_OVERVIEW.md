@@ -332,7 +332,7 @@ Containment specialists interact with Sorrow Entities using four standardized Re
 ### 3.2 Acoustic Strain & Meltdown Telemetry
 As containment shifts progress, the facility's harmonic field accumulates **Acoustic Strain**. Every completed work assignment, breached containment cell, or unsuppressed Ordeal adds resonance pressure:
 
-ext{Strain Flux} = (	ext{Work Interactions} 	imes K_{	ext{base}}) + sum (	ext{Breach Time} 	imes H_{	ext{hazard}})
+\text{Strain Flux} = (\text{Work Interactions} \times K_{\text{base}}) + sum (\text{Breach Time} \times H_{\text{hazard}})
 
 When accumulated strain crosses departmental thresholds, an **Acoustic Meltdown Alert** is triggered:
 - **Alert Levels:** Meltdown Levels I through X.
@@ -502,7 +502,7 @@ Speed rolls at the start of each Battle Turn determine both turn order and the a
 |            SPEED-TO-ACTION POINT (AP) CONVERSION ENGINE             |
 +---------------------------------------------------------------------+
 | Speed Roll   | Action Points (AP) | Tactical Capabilities Per Turn  |
-| -------------+--------------------+-------------------------------- |
++--------------+--------------------+---------------------------------+
 | Speed 1 - 2  | 1 Action Point     | 1 Basic Strike OR 1 Node Shift  |
 | Speed 3 - 4  | 2 Action Points    | 1 Move + 1 Attack OR 1 Guard    |
 | Speed 5 - 6  | 3 Action Points    | Move + Resonance Skill + Guard  |

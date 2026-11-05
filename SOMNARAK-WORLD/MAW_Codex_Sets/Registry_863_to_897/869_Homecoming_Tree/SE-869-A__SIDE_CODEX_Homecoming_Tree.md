@@ -22,7 +22,7 @@ The Tree formed from the grief of returning to a place that no longer recognized
 | Type / Manifestation | Subject — Can breach / Place-Lament |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone E, Border region |
-| Gauge / Pressure | 174/174; starts 25–40% / 3–9 per hit · Lament |
+| Gauge / Pressure | 000/174; starts 000% / 3–9 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A displaced community returned to its original border settlement and found it transformed beyond recognition. |
 
@@ -30,8 +30,8 @@ The Tree formed from the grief of returning to a place that no longer recognized
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the settlement before and after abandonment. (Stable) |
 | Ferrehan | Requires the worker to remain beneath it without claiming ownership. (Decrease) |
 
@@ -40,7 +40,7 @@ The Tree formed from the grief of returning to a place that no longer recognized
 
 ## WITNESS RECORD — *The Homecoming Tree Source-Trace*
 
-During the The Homecoming Tree Source-Trace, the field team preserved this source fact: A displaced community returned to its original border settlement and found it transformed beyond recognition. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The loss of home through time, absence, and change.
+During *The Homecoming Tree Source-Trace*, the field team preserved this source fact: A displaced community returned to its original border settlement and found it transformed beyond recognition. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The loss of home through time, absence, and change.
 
 ## M.A.W. SET — *Homecoming Tree — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Homecoming Tree Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Homecoming Tree's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: Mark the place as changed; do not attempt to restore a false past The set cannot heal the originating event. Misuse routes Homecoming Tree's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-869-A`  
-**Linked Entity:** `SE-869`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

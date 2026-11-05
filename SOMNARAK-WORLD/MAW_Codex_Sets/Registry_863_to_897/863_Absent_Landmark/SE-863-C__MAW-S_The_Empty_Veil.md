@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Empty Veil
 
-> *“The Empty Veil remembers Absent Landmark; the bearer must not mistake memory for permission.”*
+> *"The wearer becomes hard to place in their own memories, and goes looking for themselves in rooms that have already been cleared."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Absent Landmark's kind of pressure.  
-**Binding rule:** the bearer names Absent Landmark's event—An Old Lament tower collapsed and was cleared, but the district continued looking for its shape.—and accepts this limit: Record its former location; do not attempt to rebuild it around the entity
+**Binding rule:** the bearer names Absent Landmark's event — “An Old Lament tower collapsed and was cleared, but the district continued looking for its shape.” — and accepts this limit: Record its former location; do not attempt to rebuild it around the entity
 
 ## Appearance
 
-The Empty Veil of Absent Landmark’s set grants resistance to Void damage, protecting the Soul against the pressure of a shape the district cannot stop looking for. Binding is testimonial: the wearer names Absent Landmark’s event — an Old Lament tower collapsed and was cleared, but the district continued looking for its shape — and accepts the set’s limit: record its former location; do not attempt to rebuild it around the entity. The operational cost is the Void standard for armor: the wearer feels faintly absent to themselves, presence thinned by the protection that maintains it, and continued use makes the sorrow feel autobiographical — the missing tower entering the wearer’s own skyline. The source-trace set the doctrine: the suit tests whether the worker can remain before an absence — standing at the cleared site without flinching toward reconstruction — and it redirected the immediate hazard only after attribution to Absent Landmark. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Empty Veil of Absent Landmark’s set grants resistance to Void damage, protecting the Soul against the pressure of a shape the district cannot stop looking for. Binding is testimonial: the wearer names Absent Landmark’s event — an Old Lament tower collapsed and was cleared, but the district continued looking for its shape — and accepts the set’s limit: record its former location; do not attempt to rebuild it around the entity. The cost is the space: a wearer of the Empty Veil is hard to place in their own memories, and a season of wear sends them looking for themselves in rooms they have cleared. The source-trace set the doctrine: the suit tests whether the worker can remain before an absence — standing at the cleared site without flinching toward reconstruction — and it redirected the immediate hazard only after attribution to Absent Landmark. Read as the wearer's own absence, the standing-at-the-cleared-site became a place they lived: they were hard to place in their own memories and went looking in rooms they had emptied. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,16 +29,20 @@ The Empty Veil of Absent Landmark’s set grants resistance to Void damage, prot
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Absent Landmark's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
+**Operational / binding cost:** The Veil protects identity by leaving a space where the wearer used to be: worn, they are hard to place in their own memories. Worn long, they go looking for themselves in rooms they have cleared.
 
 ## ITEM-SPECIFIC HISTORY — *The Absent Landmark Source-Trace: Suit Record*
 
-The first The Empty Veil field bearer encountered this source response: Tests whether the worker can remain before an absence. The suit redirects the immediate hazard only after the team attributed it to Absent Landmark. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Empty Veil encountered this source response: Tests whether the worker can remain before an absence. The suit redirects the immediate hazard only after the team attributed it to Absent Landmark. A wearer searched a cleared room for themselves and found only the clearance mark, and the Empty Veil’s binding is the sweep record left behind.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Absent Landmark's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the space where the wearer used to be starts appearing in other people’s accounts of them.
 - Terminal state: Absent Landmark's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Record its former location; do not attempt to rebuild it around the entity” reverses the item’s benefit and raises the source Gauge.  
@@ -47,15 +51,4 @@ The first The Empty Veil field bearer encountered this source response: Tests wh
 
 ## SET RELATIONSHIP
 
-Within *Absent Landmark — Witnessed Form*, The Empty Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-863-C`  
-**Linked Entity:** `SE-863`  
-**Item Registry Code:** `MAW-S-863-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Absent Landmark — Witnessed Form*, The Empty Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still be placed in one of their own memories; the first sweep with none takes the Veil out.

@@ -37,14 +37,3 @@
 **Corrosion:** phantom melody continues; names detach from faces; terminal state makes the wielder the song’s next verse.  
 **Maintenance:** transcribe melody changes and test name recall in silence.  
 **Shutdown:** every affected person states their own name before the Chord is damped.
-
----
-
-**Document ID:** `UNK-903-B`  
-**Linked Entity:** `UNK-903`  
-**Item Registry Code:** `MAW-W-UNK-903-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

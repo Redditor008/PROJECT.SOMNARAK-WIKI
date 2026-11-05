@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-916 [LT]` |
-| **Entity Type** | **Time** — Recorded breach lengthens the walked line; no body transformation is documented |
+| **Entity Type** | **Time** — Non-breaching: expansion only|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Time-Phantasmal |
-| **Physical Form** | Non-Organic — An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed border event — the figures walk the perimeter; expansion lengthens their route rather than moving the hour to a new site. |
 | **Location** | SECTOR-O-916, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -27,14 +27,15 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Time |
 | **Primary pressure** | Lament / Phantasmal pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 3 |
+| **Work Damage** | 2–4 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is an hour closed with no tally on record. It resets to 20 s the moment the operator is out of the interval — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Count, and do not approach. The gauge falls on occurrences counted independently by both posts and reconciled afterwards; it has never fallen on an occurrence where only one count was taken, including the eleven where the two figures turned out to agree. |
+| **Recommended response** | Count, and do not approach. The gauge falls on occurrences counted independently by both posts and reconciled afterwards. It has never fallen on an occurrence where only one count was taken, including the eleven where the two figures turned out to agree. |
 
 ### Operational Notes
 
@@ -43,51 +44,58 @@
 - Han-Energy comes off the two post-hours and is booked against the exposure those posts carry to earn it.
 - Extraction is done in the interval between hours, never during one and never inside the walked line. The line itself is surveyed and posted; the equipment record names the post number on every entry.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Lament pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 449/449 |
-| **Han Pressure [ATK]** | 17–27 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Major phantasmal/time hazard; not a Sovereign classification |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-O-916 |
-| **Resolution Condition** | The hour ends. It ends at sixty minutes from the first walker, every time, across thirty-four occurrences; the holding is closed out when both counts are in and the difference between them is recorded. Nothing has ever shortened an hour and nothing has ever extended one. |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 20 s, entered — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **120 s** — six doses, and at 120 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
 
-### Combat Actions
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+entered on a 20-second clock, so the six come to **120 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's phantasmal pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
-| { *The Phantasmal Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament phantasmal sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[21 Lament DMG [Lament]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[27 Lament DMG [Lament]]** | When the entity is cornered or starved. |
-| { *The Phantasmal Collapse* [**Ultimate**] } | "The phantasmal breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+The gauge is read at the instrument. The cost is read on the person.
 
-### Battle Phases
+## Contact Record
 
-1. **Tension:** The hour identifies itself — sixty minutes exactly, first walker to last, thirty-four times running, none shorter and none longer. The wing holds no more regular figure, and this posting is built on it. The approach is confirmed and the position is taken before anything else is attempted.
-2. **Clash:** The posts work their tallies with the set drawn only at the line, while the column does what it has done in every hour on record.
-3. **Resolution:** The hour runs out at its sixtieth minute, the last walker is gone, and the border reopens; the two posts turn in their tallies uncompared, and any difference between them is entered as a difference and left standing. The sitting is filed on the documented suppression condition: **Both posts hand in their tallies without conferring, and the difference is written down as a difference**.
+> **Why this file has no combat actions.** The Movement row says *fixed border event — the figures walk the perimeter; expansion lengthens their route rather than moving the hour to a new site*. And the file's own instruction is the whole of the method: count, and do not approach. The dead do not speak, do not stop, and have never turned toward the living in thirty-four occurrences.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | An hour that descends without warning on the Desolate border, during which people who look like the dead walk the perimeter. They do not speak and they do not stop, and at sixty minutes from the first walker they are gone. |
+| **Perceptible to** | The hour itself and the figures on it. Then the pressure, which settles on whoever is standing at the line rather than on whoever the walkers are. The only measurable thing is the count, taken from two posts. |
+| **Handling** | Count, and do not approach. Observation is the tally; endurance is standing the full sixty minutes at a line you may not cross while the dead walk past it. The gauge moves when the counts are reconciled and for nothing that happens to the walkers. — see `## Handling Process` |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 120 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-O-916, contained |
+| **Resolution Condition** | The hour ends. It ends at sixty minutes from the first walker, every time, across thirty-four occurrences. The holding is closed out when both counts are in and the difference between them is recorded. Nothing has ever shortened an hour and nothing has ever extended one. |
+
+
+### Contact Events
+
+| Event | What the hour does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Settles on the border as the hour opens, and the first walker is the mark from which the sixty minutes are counted. | Posts the two counters at the line on separate cycles, and starts the clock at the first walker rather than at the first report. | The hour has one unit and it is the walk. Nothing anywhere on the record gives it a schedule, which is why the clock starts at a body crossing a line and not at a time of day. |
+| { *The Phantasmal Surge* [**Exposure**] } | Sharpens into something the post can feel, and the pressure is heaviest for the counter who can read faces. | Rotates the near column and the far column on separate cycles, and takes the count from whichever post is fresh. | Of nineteen logged cases, fourteen are Wardens who believed they had identified a walker, and every one of the fourteen was on the near column. The rotation exists because recognition, not proximity, is the injury. |
+| { *The Settling* [**Refusal**] } | Concentrates its whole weight on one point at the line and stays there while the walkers continue past it. | Does not approach, does not speak to a walker and does not attempt contact, and holds the post until the hour closes. | Thirty-four occurrences and not one attempt at contact. The prohibition is among the oldest instructions the wing holds, and the refusal is the observation: a counter who leaves the line stops being able to see what they were sent to count. |
+| { *The Phantasmal Collapse* [**Overload**] } | Lets go of everything it was holding in every direction at once, at the end of the hour, as the walkers vanish. | Takes both counts before the release, reconciles them, and records the difference rather than explaining it. | A veteran counter returns a lower figure than a fresh one for the same hour, every time — which is the file's whole reason for two posts. The difference between the columns is the reading, and it is recorded even when it is zero. |
+
+### Watch Sequence
+
+1. **What is confirmed:** the first walker and the clock started from them, the two counter posts on separate rotation, and the line that will not be crossed.
+2. **What the watch does:** Viderehan as the tally and Ferrehan as the full sixty minutes stood at the line, with no approach, no speech and no contact attempted.
+3. **How it closes:** **The hour ends** — at sixty minutes from the first walker, every time, with both counts in and the difference between them recorded.
 
 ### Consequences
 
@@ -106,7 +114,7 @@
 **Primary Form:** An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish.
 
 **Notable Features:**
-- Expresses Lament pressure in a phantasmal register.
+- The hour ends at sixty minutes from the first walker, in all thirty-four occurrences on file, and the column is gone when it does.
 - The shape is settled before the first tally: this is a phantasmal entity, and no general reading survives the hour.
 - It is identified by the gait — a column at walking pace along the border, never quick, never slow, never halting, never turning a head.
 
@@ -123,7 +131,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish. |
-| **Position / movement** | The walkers hold the perimeter course exactly and hold it through anything placed in it. Obstacles have been left in the path four times, by accident and once by design; the column passed through all four without deviation and the obstacles were undisturbed. |
+| **Position / movement** | The walkers hold the perimeter course exactly and hold it through anything placed in it. Obstacles have been left in the path four times, by accident and once by design. The column passed through all four without deviation and the obstacles were undisturbed. |
 | **Material / signature** | They look like the dead and they are silent. No sound of footfall, no voice, no disturbance of dust or standing water along a route that crosses both. Photography records them; nothing else does. |
 | **Distinctive markers** | The exactness of the hour. Sixty minutes from the first walker to the last, thirty-four times, with no occurrence shorter and none longer — the most regular figure anywhere in the wing and the one the whole posting is built around. |
 | **Identification** | Take two counts from two posts and compare them afterwards. Allhallow is the only holding on the register where independent counts of the same event differ by as much as they do: the record spread is sixty-one against three hundred and ninety-eight, on the same hour, from opposite ends of the line. |
@@ -136,26 +144,25 @@ What walks is silent and exact: sixty minutes between first figure and last, thi
 
 Nobody has ever spoken to one of them and nobody has tried. The prohibition on approach is one of the oldest instructions this wing holds, and it has outlived every officer who asked for an exception.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the phantasmal pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
+> **This holding is not worked.** An hour that descends without warning on the Desolate border, during which people who look like the dead walk the perimeter. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the first walker and the clock started from them, the two counter posts on separate rotation, and the line that will not be crossed. |
+| **Handling** | The observer as the tally and the stander as the full sixty minutes stood at the line, with no approach, no speech and no contact attempted. |
+| **Withdrawal** | **The hour ends** — at sixty minutes from the first walker, every time, with both counts in and the difference between them recorded. |
+| **Refusal** | Does not approach, does not speak to a walker and does not attempt contact, and holds the post until the hour closes. |
 
-The pressure is not worked; the hour is counted. Observation is the tally itself, endurance is standing the full sixty minutes at a line you may not cross while people who look like the dead walk past it. The gauge moves when the counts are taken and reconciled, and for nothing that happens to the walkers — because nothing does.
+## Containment Event Behavior
 
-## Breach Behavior
+> **Containment event — no breach counter.** The walked line lengthens and the body does not change. The gauge rises ten per cent per extension, and nothing on the file runs a count.
 
-> *"Allhallow has broken free. The lament phantasmal spreads."*
-
+> *"The Allhallow line has lengthened into the Desolate. The third post stays refused; two counters, one at each end, and nothing on the added ground is entered as casualty ground."*
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The walked line lengthens along the border rather than widening inward. Two extensions in seventeen years, both out into the Desolate, both found when the far post’s count began rising while the near post’s held steady. |
 | **Effect** | The extension takes in border ground, not buildings and not people; there has never been anybody living on the sections added. What it costs is a longer line to mark, a third post considered and refused, and a count that takes two people most of the hour. |
 | **First Target** | Nobody, and the record is explicit about it. In thirty-four occurrences no walker has ever changed course toward a person, and the four obstacle incidents establish that the column does not acknowledge what stands in its way rather than avoiding it. The danger here has always been the approach, and the approach is ours to make or not. |
@@ -164,7 +171,7 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 ### Escalation Notes
 
 - **Containment priority:** Keep both posts behind the marked line, count independently for the whole hour, then reconcile without averaging or correcting either total. Do not approach the walkers or attempt physical suppression.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per extension of the walked line rather than per turn. Two extensions, reading 60%, unchanged for eleven years.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per extension of the walked line rather than per turn. Two extensions, reading 60%, unchanged for eleven years.
 
 ## M.A.W. Equipment
 
@@ -174,11 +181,11 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, with thirty-four tally marks cut into the flat — one for each occurrence, and not one of them annotated.
 
 **Damage:** Lament 14–23 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
-**Cost:** The wielder counts things afterwards — chairs, windows, people in a corridor — and arrives at a figure before deciding to. It fades within a week and is noted on the sheet because the counting is the job and the habit is therefore hard to see.
+**Ability:** *Not On the List* — the strike does its work on the phantasmal register, and a struck body does not show the wound until the hour has ended. The column never turns for it: in thirty-four occurrences nothing has made it change course.
+**Bearer cost:** The wielder counts things afterwards — chairs, windows, people in a corridor — and arrives at a figure before deciding to. It fades within a week and is noted on the sheet because the counting is the job and the habit is therefore hard to see.
 
 **Edge cost distinction:** The linked Weapon records a persistent low-grade headache with each use. This holding separately records involuntary counting afterward; neither observation is proof of the other. Keep both with the bearer record rather than rewriting the unknown formation event or treating the blade as permission to strike a walker.
 
@@ -186,22 +193,23 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a counting-cloak of Lament Han-silk, cool and faintly luminous, with the tally pockets sewn on the outside so that the Warden never has to look away from the line to use them.
+**Appearance:** a counting-cloak of Lament Han-silk, cool and faintly luminous, with the tally pockets sewn on the outside so the Warden never has to look away from the line, and a third pocket sewn inside for the discrepancy.
 
 **Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Bearer cost:** The dead do not fall silent with the room: their grief follows the wearer into quiet moments, and small joys stay remote until the veil comes off.
-**Ability:** Grants resistance to Lament damage, protecting against the phantasmal register of sorrow.
+**Ability:** *Both Counts* — the wearer keeps two counts and cannot lose either to the hour. What the cloak resists is not the Lament but the temptation to make the two figures agree.
 
 ### M.A.W. Stigma — Allhallow's Token
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, its rim stamped with sixty minute-marks, none of which has ever been reached early.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
-**Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
+**Ability:** *Sixty* — it goes cold at the hour's end, measured from the first walker, across every occurrence on file. Bearers describe the cold as the most reliable fact in the district.
+**Bearer cost:** The cold at the hour's end is the most reliable fact in the district, and the bearer trusts it the way other people trust a clock — which is why they are still in the line when it closes.
 *A Token is found at a marker post after an hour in which the two counts came within ten of each other. Three pieces, three close reconciliations; nothing has ever been recovered from an hour the posts disagreed on.*
 
 **Token bearer limit:** The linked Stigma records dreams in tears from the source sorrow and waking with another person's grief. That bearer cost is distinct from finding a token after close tallies, and a source-work bonus does not establish the identity of a face in the column.
@@ -219,7 +227,7 @@ The Allhallow set is cut from the line: the Edge from a marker post, the Veil fr
 | **At limit** | The wielder begins looking at faces instead of counting them. Six cases. All six were in the near column and all six involved somebody the Warden thought they knew. |
 | **After use** | Reconcile, then record the difference as a difference. The two totals are never averaged, never corrected against each other and never discarded; the spread between them is the holding’s principal finding. |
 
-**Full-set source review (2026-10-11):** Reviewed the `— · γ` grade overview, all three local M.A.W. blocks, Use Notes, Field Use Record, and other M.A.W. claims against Side `SE-1042-A` and items `SE-1042-B/C/D` (each explicitly `O-IIIγ-916 [LT]`), Registry rows 330–333, the Master Codex/entity index, and Weapon Archetype rows `MAW-W-916` / `MAW-W-1042`. The M.A.W. grade γ is corroborated by all three items; this dossier has no separate Stat interpretation paragraph. Primary, Side and item records agree on Weapon Lament 14–23 / Normal 2 / Short 2 / Single / max 4 / 25 Echoes, Suit resistances / max 4 / 20 Echoes, and Stigma Head / 5% / +1. Hold `Allhallow's Edge/Veil/Token` against `Hour the Dead Walk's Edge/Veil/Token`; the shared source designation associates the bundle, but does not settle its equipment titles. The primary has a developed origin, while the Side formation/witness fields remain `Not recorded`; the linked item pages provide no separate Appearance or transition, so the Side history was not backfilled. Registry rows 331–333 remain partial/generic. No Master M.A.W. rows or entity Tale for `O-IIIγ-916` were found; the Entity Codex tabulation explicitly lists it among dossiers awaiting a row. No `MAW-W-916` archetype exists; the linked code `MAW-W-1042-01` shares a prefix with an index archetype for a Solar Refraction Monocle / Close, not the primary's Han-crystal blade, and no crosswalk authorizes borrowing it. The prior Suit-only correction in `73560193` removed a duplicated Lament resistance and restored its bearer cost; it was not a Weapon-only or full-set disposition. All differences remain holds; no disputed title, form, category, or value changed.
+**Full-set source review (Year 4232):** Reviewed the `— · γ` grade overview, all three local M.A.W. blocks, Use Notes, Field Use Record, and other M.A.W. claims against Side `SE-1042-A` and items `SE-1042-B/C/D` (each explicitly `O-IIIγ-916 [LT]`), Registry rows 330–333, the Master Codex/entity index, and Weapon Archetype rows `MAW-W-916` / `MAW-W-1042`. The M.A.W. grade γ is corroborated by all three items; this dossier has no separate Stat interpretation paragraph. Primary, Side and item records agree on Weapon Lament 14–23 / Normal 2 / Short 2 / Single / max 4 / 25 Echoes, Suit resistances / max 4 / 20 Echoes, and Stigma Head / 5% / +1. Hold `Allhallow's Edge/Veil/Token` against `Hour the Dead Walk's Edge/Veil/Token`; the shared source designation associates the bundle, but does not settle its equipment titles. The primary has a developed origin, while the Side formation/witness fields remain `Not recorded`. The linked item pages provide no separate Appearance or transition, so the Side history was not backfilled. Registry rows 331–333 remain partial/generic. No Master M.A.W. rows or entity Tale for `O-IIIγ-916` were found; the Entity Codex tabulation explicitly lists it among dossiers awaiting a row. No `MAW-W-916` archetype exists; the linked code `MAW-W-1042-01` shares a prefix with an index archetype for a Solar Refraction Monocle / Close, not the primary's Han-crystal blade, and no crosswalk authorizes borrowing it. The Suit correction removed a duplicated Lament resistance and restored its bearer cost; it was not a Weapon-only or full-set disposition. All differences remain holds; no disputed title, form, category, or value changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -257,7 +265,7 @@ The Allhallow set is cut from the line: the Edge from a marker post, the Veil fr
 
 ## 감각 묘사 (Flavor Text)
 
-The phantasmal register turns lament from a classification into something felt. It is not pressure read off the gauge; it arrives personally and precisely, as if the hour had found the one frequency matching a grief the worker had never examined. An hour descends unannounced at the Desolate border and the dead — or what look like them — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then they are gone.
+The phantasmal register turns lament from a classification into something felt. It is not pressure read off the gauge. It arrives personally and precisely, as if the hour had found the one frequency matching a grief the worker had never examined. An hour descends unannounced at the Desolate border and the dead — or what look like them — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then they are gone.
 
 **At first contact:** They are simply there, already walking, already at pace, as though the hour had started some distance away.
 
@@ -275,11 +283,11 @@ The border is walked on one night a year, and this file has never recorded a sec
 
 | What the border meets | How the pairing has run | What the watch entered | What the tally keeps |
 |---|---|---|---|
-| **Once Upon** `O-IIIγ-920` | Filed together on an hour full of names. That record watches a gauge fall as tellers are named aloud, holding across 94 hours; this one counts walkers by post and never asks who they were. | The naming series and the two tallies sat side by side once and agreed on nothing but the hour. | That the two are filed for the shape of the hour, noted beside the row each time it is read. |
+| **Once Upon** `O-IIIγ-920` | Filed together on an hour full of names. That record watches a gauge fall as tellers are named aloud, holding across 94 hours. This one counts walkers by post and never asks who they were. | The naming series and the two tallies sat side by side once and agreed on nothing but the hour. | That the two are filed for the shape of the hour, noted beside the row each time it is read. |
 | **Never Discharged** `O-IIβ-911` | Grouped on occupants the hour will not release. That record keeps a patient through a second loop; here the walkers are gone at the minute the first of them appeared plus sixty. | One review entry; the discharge count and the tallies were compared and parted at the first mark. | That the parting is the entry, kept in the review's own figures rather than averaged away. |
-| **Dead Air** `N-IIIγ-929` | Grouped on a watch that closes at the hour. That record keeps a six-hour form and reads a barometer at the handover; this one reconciles two independent sheets after the hour without averaging or correcting either total. | Nothing was run. The appendix listed the two together and the review left it there. | That the pairing rests on a filing line with no measurement under it, entered on each repetition. |
+| **Dead Air** `N-IIIγ-929` | Grouped on a watch that closes at the hour. That record keeps a six-hour form and reads a barometer at the handover. This one reconciles two independent sheets after the hour without averaging or correcting either total. | Nothing was run. The appendix listed the two together and the review left it there. | That the pairing rests on a filing line with no measurement under it, entered on each repetition. |
 
-**Interaction procedure:** No co-presence is authorised here. The comparison happens at the annual review, with the two posts' tallies entered first and the other record's series laid beside them untouched; parting, size, trigger and both readings go into the margin.
+**Interaction procedure:** No co-presence is authorised here. The comparison happens at the annual review, with the two posts' tallies entered first and the other record's series laid beside them untouched. Parting, size, trigger and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -314,7 +322,7 @@ Thirty-four hours, counted twice each, no contact, no injury, no interaction, an
 **Containment & Handling Procedures:**
 - Both posts stand, count independently, reconcile after the hour is over, and write the difference down.
 - The hour holds nobody who can be wept with and nothing that can be stood against. The walkers do not stop for anything, and no watch in this wing has ever permitted itself to learn what a person standing in a walker's path would meet.
-- The walked line is re-surveyed each cycle; a far-post figure rising against a steady near-post figure is treated as an extension of the line until something proves otherwise.
+- The walked line is re-surveyed each cycle. A far-post figure rising against a steady near-post figure is treated as an extension of the line until something proves otherwise.
 
 **Cross-References:** Outside Sorrow (외한) · Lament · Time-Phantasmal · Manifestation Classification
 
@@ -328,7 +336,7 @@ Thirty-four hours, counted twice each, no contact, no injury, no interaction, an
 
 ### An Hour of Walking
 
-The dead — or what resemble them — walk the Desolate perimeter for exactly an hour and then are gone; they neither speak nor stop, and the Warden counts them. That count is this holding's principal record and it changes from occurrence to occurrence, which the file reports as a bare series with no running average, having removed the one it used to carry after readers began treating the mean as the number to expect.
+The dead — or what resemble them — walk the Desolate perimeter for exactly an hour and then are gone. They neither speak nor stop, and the Warden counts them. That count is this holding's principal record and it changes from occurrence to occurrence, which the file reports as a bare series with no running average, having removed the one it used to carry after readers began treating the mean as the number to expect.
 
 ### Without Warning
 
@@ -336,7 +344,7 @@ The hour descends with no warning and no precursor has ever been identified, des
 
 ### They Do Not Stop
 
-The column keeps its course through anything put in it, and no interaction has ever been achieved or attempted. The prohibition on approach is absolute and counts among the oldest instructions in the wing; the file records that it was written before the first serious incident rather than after one, and that this is worth knowing.
+The column keeps its course through anything put in it, and no interaction has ever been achieved or attempted. The prohibition on approach is absolute and counts among the oldest instructions in the wing. The file records that it was written before the first serious incident rather than after one, and that this is worth knowing.
 
 ### Older Than Its First Record
 
@@ -345,7 +353,7 @@ The earliest documented occurrence is dated and the phenomenon precedes it, the 
 ## Trivia
 
 - Catalogued among the first **Time-Phantasmal** entities in the wing's records, and the only holding whose entire record is counted rather than observed.
-- Nothing else on the shelf is filed as an hour that walks; the phantasmal descriptor was the wing's word for a shape it had no column for.
+- Nothing else on the shelf is filed as an hour that walks. The phantasmal descriptor was the wing's word for a shape it had no column for.
 - Standard lament registers as a pressure on the worker. This hour registers as a person, which is why the post rotates and why the near column carries its own caution.
 
 ## Document Information

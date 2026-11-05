@@ -84,7 +84,7 @@ The final assault descends through seven fortified subterranean echelons beneath
 
 #### Chapter 1: The Throne of Crystallized Tears
 
-The central briefing auditorium of the Central Warden Citadel was silent. On the master projection array, Auditor Yuna presented the completed operational tapestry of the Katharcheok campaign.
+The central briefing auditorium of the Central Warden Citadel was silent. On the master projection array, Auditor Yuna presented the completed operational picture of the Katharcheok campaign.
 
 Five crimson sector pins were crossed with silver Directorate seals:
 1. *Operation 1: Velumtal* — The Mask Market secured; Boss Gwangseok detained.

@@ -1,0 +1,901 @@
+{
+  "schema_version": 1,
+  "batch": 199,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "N-IIβ-560",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md",
+      "words": 8505,
+      "sha256": "d445d153d7a93d17d05f7e65635fc30fbea16bc976f3e9b302a6c13b33e59952"
+    },
+    {
+      "unit": 2,
+      "designation": "N-IIβ-845",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-845_Perennial_돌아온_꽃.md",
+      "words": 8509,
+      "sha256": "794197092ee012e2341841a893680dde802124bedff38bec9bce7d8324893e27"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVγ-240",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md",
+      "words": 8558,
+      "sha256": "4a83f41f9fc8014d135d4ac125f562ede7a2715c172078eedc471679e9f672fe"
+    },
+    {
+      "unit": 4,
+      "designation": "O-IVδ-168",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-168_Quagmire_무너진_흔적.md",
+      "words": 8579,
+      "sha256": "941a5ce0d84c0cfe027fb4c964aa965f8809f9ae2ece5ee75c0063e627504a37"
+    },
+    {
+      "unit": 5,
+      "designation": "C-Vω-925",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-925_Sorrow_Mass_압살의_한.md",
+      "words": 8581,
+      "sha256": "42dde7584803c20adb58ae83fbf265251502b0084dae60d021f6a0445b046ba6"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 5,
+  "units": [
+    {
+      "designation": "N-IIβ-560",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md",
+      "words": 8505,
+      "sha256": "d445d153d7a93d17d05f7e65635fc30fbea16bc976f3e9b302a6c13b33e59952",
+      "unit": 1,
+      "name": "Dismissed Cry",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_01_DISMISSED_CRY.md",
+      "before_words": 8505,
+      "after_words": 8580,
+      "base": "e211bd7b53484edf771e77ed6a5ee45c3d7551e9",
+      "final_sha256": "bf6b7fa0929d7079306eca1b34f32694e99b2f04654c61a4b5ce6359a3af5755",
+      "summary": "Nine source-supported repairs (2 short / 7 careful): the silent protest stops generating wet screams, floods, splashes, deluges and drowning sound; its five Combat Actions now run on silent heat, teeth/sternum pressure, countershout rebound and report wording. The mounted crystal is no longer called an urn in Tool Use, the Scream Plate and Scream Charm regain their exact visible forms, and Registrum stops pointing elsewhere for observations this file already proves. HELD; no credit because the primary already integrates per-piece item dispositions and a Field Use Record.",
+      "commentary": "Dismissed Cry's local dossier understands its subject beautifully: containment is a records function, and the dangerous act is writing 'disturbance' where a grievance belongs. The combat table was the one place still filing it as a generic noisy water entity. Now even the Ultimate is about paperwork—which, for once, is not bathos but the entity's actual weapon.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-560: Side A carries SECC `N-IIβ-560 [D]`, Related Entity SE-560 and set completion 4/4; B/C/D carry item codes `MAW-W/S/G-560-01`. Supported whole design: a fist-sized crimson crystal near the Scar, torn open like a mouth, radiating silent heat while teeth and sternum vibrate and audio instruments register silence; Gauge 407, start 35–50%, Han Pressure 9–21 Grudge, activation at Gauge ≥60% or touch/vocal aggression; Viderehan Stable reveals the injustice, Ferrehan Decrease holds anger without repeating it; acknowledgement and Gauge below 25% resolve. Each Combat Action was separately audited against that design, Work, activation, Battle Phases and Consequences. All five old rows used a wet/flood template with no water source and contradicted 'no ordinary sound'; rows 4–5 nevertheless contained the file's real bespoke mechanism—summary wording and the 9-point/7-point paperwork effect—so the repairs preserve those triggers while removing waterfall/drowning mechanics. The Countershout row is anchored in Side A's Scar-Edge witness record. Primary Suit/Stigma appearances were generic dark-warm forms despite exact C/D Appearance sections under the same names and statistics, so their defining visible anatomy was restored. The Weapon remains a named form fork (local Protest Relic-Urn versus exact Scream Shard) because the primary expressly says the blade's grounding procedure is not an urn instruction. Every Markdown table block passed parsed cell-count equality before and after repair, with Trigger read in the fifth cell.",
+      "history": "Local/draft history: an unnamed witness screamed against a Desolate border injustice; Complaints Register entry 1,104 recorded neither complainant nor subject and required no action; later filings stand at 19 acoustic anomalies and 11 pressure phenomena against 4 grievances, with readings 9 points higher after dismissal wording and 7 lower after grievance wording. Exact-set history records the Scar-Edge Countershout, Soojin Han's eleven silent minutes, and the omitted-verb Charm incident. Fresh equipment credit BARRED: before repair the primary already contained all three pieces with exact statistics, individual disposition paragraphs (`Protest and retaliation`, `Plate cooling`, `Charm wording`), Use Notes and a four-stage Field Use Record. Ledger `equipment_reviews` has no `N-IIβ-560` entry and none is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Weapon form/history fork: primary-local Protest Relic-Urn (stoneware, wax seal, preserved breath/declarations, acoustic shockwaves) versus SE-560-B's jagged crimson Scream Shard blade and Content Edge. Statistics and the protest-force ability align, and the primary expressly separates blade procedure from urn handling; neither form was normalized. Held.",
+        "Charm function fork: primary audibility ('objections are heard out') versus SE-560-D's One-Breath Interval pause. The primary's Charm wording paragraph acknowledges both layers; appearance was aligned, function was not overwritten. Held.",
+        "Suit function remains locally phrased as turning Grudge aside, while SE-560-C defines Received Without Repetition as pressure converted to heat until another listener can summarize accurately. The primary's cooling/shutdown paragraph already carries item-specific restraints; no functional merger was invented. Held.",
+        "Formation/movement imagery: the Tale repeatedly says the cry sank/soaked into the ground, while the operational Appearance/Watch record says the crystal hangs in air and has never touched a surface during containment. No source resolves whether soaking is formation metaphor, pre-containment state, or a separate ground effect. Held.",
+        "The original injustice remains unrecoverable by the file's own position; Side A's recovered phrase names a border seizure omitted from a patrol ledger, but the primary expressly warns not to complete the original complaint from later material. Held.",
+        "Combat bracket values (10; 10; 14–22; 24–36; 12–20 AoE ×3) remain catalogue action consequences against core Han Pressure 9–21; they were not rescaled without a rule. Held."
+      ],
+      "split": [
+        2,
+        7
+      ],
+      "repairs": [
+        {
+          "id": "R1-the-unreceived-phrase",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Wet Cry* [**Debuff**] } | \"A scream — but wet, waterlogged, heavy with old tears — and each syllable drips with accumulated grief.\" | [The Scream's sorrow-saturated sound lands on the target; they feel the weight.] | *Target suffers -10 Resilience; the scream is heavier than sound should be.* **[10 Grudge DMG [Grudge]]** | When the target hears the Scream. |",
+          "new": "| { *The Unreceived Phrase* [**Debuff**] } | \"No sound reaches the instruments. Your teeth and sternum receive the sentence your ears filed as noise.\" | [Silent heat and pressure make the protest's content felt before it is understood.] | *Target suffers -10 Resilience under silent Grudge pressure; no audible scream is produced.* **[10 Grudge DMG [Grudge]]** | On activation by touch or nearby vocal aggression. |"
+        },
+        {
+          "id": "R2-the-rising-reading",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Rising Flood* [**Debuff**] } | \"The scream does not stop — and the sorrow-water it generates rises, ankle-deep, knee-deep, climbing.\" | [The Scream's runoff accumulates; the target is wading in grief.] | *Target loses 10 Resilience; the scream is generating a flood.* **[10 Grudge DMG [Grudge]]** | When the target remains. |",
+          "new": "| { *The Rising Reading* [**Debuff**] } | \"It does not get louder. The fracture lines darken, and the pressure behind the eyes becomes pressure in the chest.\" | [Stored anger remains present while its content stays unrecorded.] | *Target loses 10 Resilience under sustained silent pressure; the gauge rises through non-reception, not runoff.* **[10 Grudge DMG [Grudge]]** | While the target remains in the field without the grievance being recorded. |"
+        },
+        {
+          "id": "R3-the-countershout",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sonic Splash* [**Attack**] } | \"The scream sharpens — and the concentrated sorrow-water becomes a blade of wet sound.\" | [A focused scream-strike, liquid and sharp.] | *Inflicts Grudge pressure and one wound of waterlogged rage.* **[14-22 Grudge DMG [Grudge]]** | When the Scream is interrupted. |",
+          "new": "| { *The Countershout* [**Attack**] } | \"Drown it out,\" the order said — and every rib cage in the perimeter had to carry the command instead.\" | [Vocal aggression interrupts reception and the stored protest rebounds as a silent pressure wave.] | *Inflicts focused Grudge pressure on the interrupting speaker; no blade or water is formed.* **[14-22 Grudge DMG [Grudge]]** | When a raised voice or countershout interrupts the work. |"
+        },
+        {
+          "id": "R4-the-full-protest",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Deluge* [**Attack**] } | \"Every scream the entity ever held — released at once — a waterfall of sorrow-saturated sound.\" | [The Scream's total release is a flood of grief and rage, and it is heard as pressure rather than as noise — the instruments in the room stay silent through all of it.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%. The 407 HP line is untouched, because nothing has been done to the crystal — the flood is what it was already holding.* **[24-36 Grudge DMG [Grudge]]** | When somebody summarises what the chamber heard as sound. |",
+          "new": "| { *The Full Protest* [**Attack**] } | \"Every unreceived syllable arrives at once — not as sound, but as heat, pressure, and a sentence no one wrote down.\" | [The crystal releases its stored protest while instruments remain silent and the 407 HP line remains the entity's gauge, not damage done by the release.] | *Heavy silent Grudge pressure; the target's Sorrow Gauge surges 15% because the content has again been converted into noise.* **[24-36 Grudge DMG [Grudge]]** | When somebody summarises what the chamber received as mere sound. |"
+        },
+        {
+          "id": "R5-filed-as-noise",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Drowning Din* [**Ultimate**] } | \"The sorrow-water from every scream fills the field — and the screaming does not stop, and the water does not recede.\" | [The Scream extends its soaking across the whole area, and the extension runs along the reports written about it.] | *All in range suffer Grudge pressure for three turns of drowning screams. The pressure rises 9 points higher where the last report called it an acoustic anomaly or a pressure phenomenon, and falls 7 where the last report called it a grievance — the only figure in this file that responds to paperwork.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the chamber's own report wording has not been corrected. |",
+          "new": "| { *Filed as Noise* [**Ultimate**] } | \"The field does not fill with water. It fills with the consequences of calling a grievance a disturbance.\" | [Silent pressure extends through the area along the reports that misfiled the protest, forcing its content on every listener.] | *All in range suffer Grudge pressure for three turns. The reading stands 9 points higher where the last report called it an acoustic anomaly or pressure phenomenon, and 7 lower where it called it a grievance — the only figure in this file that responds to paperwork.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the chamber's report wording remains uncorrected. |"
+        },
+        {
+          "id": "R6-mounted-crystal-rule",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "**Operational Rule:** The urn works only while carried, and it cannot stand in for a scheduled Work Type. Containment of this entity is a records function and is unaffected by what the operative is carrying.",
+          "new": "**Operational Rule:** The mounted crystal works only while borne by a prepared operative, and it cannot stand in for a scheduled Work Type. Containment of this entity is a records function and is unaffected by what the operative is carrying."
+        },
+        {
+          "id": "R7-scream-plate-appearance",
+          "kind": "short appearance correction",
+          "careful": false,
+          "old": "**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries the char-smell of the crystal it came from. It is worn over the chest, where the pressure behind the eyes is felt hardest, and the file's note is that it is the reason a worker can stay in the chamber long enough for the entry in the register to be worth writing.",
+          "new": "**Appearance:** a crimson plated harness of Grudge Han-iron with a sealed throat guard and ribs shaped around an absent mouth. It warms before Grudge pressure arrives and carries the char-smell of the crystal it came from; built for receiving, it lets a worker remain in the chamber long enough for the entry in the register to be worth writing."
+        },
+        {
+          "id": "R8-scream-charm-appearance",
+          "kind": "short appearance correction",
+          "careful": false,
+          "old": "**Appearance:** a small charm of Grudge Han-iron, dark and warm to the touch, that grows briefly hotter when the wearer is contradicted. It is worn at the tail, and it is the one piece in this set that is not manufactured: Dismissed Cry gives one to a worker who wrote the grievance down with a name on it, and has given none to a worker who closed a session by logging a disturbance.",
+          "new": "**Appearance:** a tail-mounted crimson charm of Grudge Han-iron shaped like a closed mouth. It stays dark until pressure reaches it, when a thin line opens without sound. It is not manufactured: Dismissed Cry gives one to a worker who wrote the grievance down with a name on it, and has given none to a worker who closed a session by logging a disturbance."
+        },
+        {
+          "id": "R9-registrum-observations",
+          "kind": "careful registry correction",
+          "careful": true,
+          "old": "**Observation Notes:**\n- See Origin section for formation details.\n- See Combat Record for engagement parameters.\n**Cross-References:** See entity’s interaction record and cross-references in the full file.",
+          "new": "**Observation Notes:**\n- Personnel feel pressure behind the eyes and vibration in teeth and sternum while instruments record silence; the discrepancy is the identification.\n- Tears lower density and soften the surface, but do not replace acknowledgement and a named register entry.\n- The filing arithmetic stands at 19 acoustic anomalies and 11 pressure phenomena against 4 grievances, with readings 9 points higher after the first wording and 7 lower after the last.\n**Cross-References:** Complaints Register entry 1,104; the Scar-Edge Countershout; the interaction record for Aphonia, the Wrath Flame, and the Undersong."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.019  clean   155 grams  Trivia\n 0.009  clean   455 grams  관찰 기록 (Observation Log)\n 0.007  clean   437 grams  기록 (Registrum)\n 0.006  clean   176 grams  Operational Parameters\n 0.004  clean   762 grams  Combat Record\n 0.003  clean   299 grams  이야기 보고 (Story Log)\n 0.002  clean   966 grams  감각 묘사 (Flavor Text)\n 0.001  clean   675 grams  Activation Behavior\n 0.001  clean   863 grams  M.A.W. Equipment\n 0.000  clean   326 grams  Appearance\n 0.000  clean   315 grams  이야기 (Narratio)\n 0.000  clean   230 grams  Origin\n 0.000  clean   202 grams  Watch Record\n 0.000  clean   168 grams  Behavior\n 0.000  clean   102 grams  최종 관찰 (Final Observation)\n 0.000  clean    44 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   43   1  - Viderehan and Ferrehan are the only valid approaches; the scream cannot be consoled or confronted.\n   86   3  | { *Filed as Noise* [**Ultimate**] } | \"The field does not fill with water. It fills with the consequences of calling a grievance\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  281   1  | **Before use** | Wielder, piece, gauge at issue, and the register entry number for the grievance the deployment is for. The know\n  308   4  **Observation method:** Record the first sign, which is heat without a source; the first sensation, which is pressure behind the e\n  323   1  Work response — Viderehan: Reveals the injustice behind the scream. (Stable); Ferrehan: Tests whether the worker can remain with a\n  360   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  415   3  **Review requirement:** Re-verify after any Sorrow Tide, after any incident at the Scar, and after any report on this entity is su\n  446   3  - **Record detail:** Check the designation before approach. More than one Desolate record carries a protest, and they want differe\nGENERIC 0.003  (19 shared shingles)  SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-A__SIDE_CODEX_Dismissed_Cry.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-B__MAW-W_The_Scream_Shard.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-C__MAW-S_The_Scream_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-D__MAW-G_The_Scream_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-A__SIDE_CODEX_Dismissed_Cry.md": "4779dff9b96d1eecae40dc1fade0be14891266a507ada13df2fa964a967b5374",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-B__MAW-W_The_Scream_Shard.md": "d9613b672df734f4dcbf3526c48f0b0c16fda0dd62657130eaf7065a634d2749",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-C__MAW-S_The_Scream_Plate.md": "5494c778a8d16a0f28a1da27a13d9100566339f62b4992d6d29f733d90669fa2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-D__MAW-G_The_Scream_Charm.md": "3282aa8baa7fe1505617f86fd3adeb0ff05e8358c078e45a9e48a1adfd5a371e"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-560_Dismissed_Cry_솟구친_절규](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-560_Dismissed_Cry_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A0%88%EA%B7%9C.md \"SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md\")]",
+      "table_link": "[[N-IIβ-560 Dismissed Cry](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-560_Dismissed_Cry_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A0%88%EA%B7%9C.md \"SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md\")]",
+      "reading": {
+        "before_lines": 452,
+        "before_bytes": 51479,
+        "final_lines": 453,
+        "final_bytes": 52081
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 29,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequence_change": "Existing file numbers were repeated once in Registrum (19, 11, 4, 9, 7 and entry 1,104) when generic pointers were replaced; no new statistic or value was introduced and no digit sequence was removed.",
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4
+      }
+    },
+    {
+      "designation": "N-IIβ-845",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-845_Perennial_돌아온_꽃.md",
+      "words": 8509,
+      "sha256": "794197092ee012e2341841a893680dde802124bedff38bec9bce7d8324893e27",
+      "unit": 2,
+      "name": "Perennial",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_02_PERENNIAL.md",
+      "before_words": 8509,
+      "after_words": 8692,
+      "base": "846a1f700527fe6b4c451be107dd814319b0c577",
+      "final_sha256": "a979743b2bf6ba638fd0763a2fd08196f5b3c548150f17f4a7e8385bddd734a8",
+      "summary": "Eleven source-supported repairs (3 short / 8 careful): Perennial stops regrowing before the blade leaves the stem, generating gravity, aiming stone-weight petals, avalanching every flower ever cut and crushing the world with infinite growth. Its actions now follow the file's days-long clearance arithmetic and layered ground. The mobile patch is no longer a fixed object, Place-Void is consistent, breach spores settle rather than infest, and open-site breach pressure no longer buckles imaginary floors and walls. HELD; no credit because the primary already integrates the full Witnessed Form set, binding/corrosion rules and Field Use Record.",
+      "commentary": "Perennial's best sentence is its petty officer's rule: a neat sheet is a warning. The old combat rows were too eager to make the patch spectacular. It does not need gravity wells or petal artillery; it only needs a competent crew to tidy the site once, then come back next week and find their competence standing in flower.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-845: A–D carry Source SECC `N-IIβ-845 [WP]`, set 4/4 and item codes `MAW-W/S/G-845-01`. Supported core: Echo II/Moderate β, Weight, Desolate-mobile, Gauge 361, start 35–50%, Pressure 8–20, Observation 2; a settlement founded, abandoned, rebuilt and abandoned again left layers of grief in ground; trigger is a person returning to a place they abandoned; Viderehan Stable/Ferrehan Decrease; resolution is to acknowledge history without claiming the place unchanged. The primary's local whole design adds dark walking flowers, four soil occupation layers, singing that stops on stepping onto soil, and a precise clearance log (9 days/+11, 6 days/+14, fortnight/+19). Each Combat Action was audited against movement, Work, Expansion, Breach, Consequences and Flavor: instant regrowth contradicted the days-long log; gravitational pull had no actor; an aimed petal directly contradicted 'Nothing is aimed and nothing pursues'; all historical flowers at once and infinite crushing growth contradicted slow old-path expansion and no injury to crews who leave it standing. Core Speed called the mobile Subject a fixed object, Detailed Activation renamed Place-Void as Place-Weight, and Breach imported infesting spores plus buckling floors/walls into an open surveyed site. Exact B/C/D 'Appearance' sections are functional testimonial records, not physical item descriptions, so the primary's local Maul/Mantle/Petal physical forms were retained rather than replaced. Every table block passed parsed cell-count equality before and after; all Trigger text remains in the fifth Combat Action cell.",
+      "history": "Draft/local history: four occupation layers in a 1.5-metre soil core; land records preserve foundings but no departures and stop mid-survey in the fourth occupation; three facility clearances produced the 9/+11, 6/+14 and fortnight/+19 returns, after which no clearance was authorised and untouched seasons returned only 1–2 points. Fresh equipment credit BARRED. Before repair, the primary already contained all three Returning pieces with exact statistics/costs, a full *Perennial — Witnessed Form / Source Kept Distinct* disposition, testimonial binding, corrosion stages, maintenance/shutdown and a four-stage Field Use Record. Ledger `equipment_reviews` has no `N-IIβ-845` entry and none is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Taxonomy/breach semantics remain hybrid: SECC and Side A file a Subject that can breach with mobile growth, while Work, Entity role and most operations use the Object/Place rule and deny an ordinary breach counter even though a Breach Behavior section exists. The review distinguished the labels but did not choose a new taxonomy. Held.",
+        "SE-845-B/C/D contain functional 'Appearance' sections but no independently physical Maul/Mantle/Petal descriptions. The squared maul head, long belted mantle and veined petal-tile are primary-local appearance records retained without corroboration. Held.",
+        "Walking stem-legs, mouth-like petals, faint singing, spores and the four-layer soil core are richly supported inside the primary but only thinly in Side A (mobile growth and layered abandonment). They remain the local design, not exact-set facts. Held.",
+        "Side A's formation sentence gives one founded/abandoned/rebuilt/abandoned sequence; the primary expands it into four generations and four occupation layers. No source reconciles whether the Side sentence compresses all four or records only the last cycle. Held.",
+        "Story Entry 5 calls the file's designation 'Critical' although the governing potency is Moderate β; no source defines a separate Critical axis here. Left as local archive language. Held.",
+        "Combat bracket values remain catalogue consequences (10; 10; 14–22; 24–36; 12–20 AoE ×3) against core Han Pressure 8–20 and were not rescaled. Held."
+      ],
+      "split": [
+        3,
+        8
+      ],
+      "repairs": [
+        {
+          "id": "R1-the-stubborn-bloom",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Stubborn Bloom* [**Debuff**] } | \"You cut the flower — and it grows back before the blade is away from the stem. Heavier this time.\" | [The Flower's relentless return weighs on the target; they feel the futility of effort.] | *Target suffers -10 Resolve; nothing they do will last.* **[10 Weight DMG [Weight]]** | When the target cuts the Flower. |",
+          "new": "| { *The Stubborn Bloom* [**Debuff**] } | \"You cut the flower. By the next survey it is standing again on the same ground — heavier this time.\" | [Removal becomes another departure layer; the return, not an instant regrowth, weighs on whoever ordered the cut.] | *Target suffers -10 Resolve under the added Weight of a clearance that did not last.* **[10 Weight DMG [Weight]]** | After the patch is cut or crushed and the site is revisited. |"
+        },
+        {
+          "id": "R2-the-compounding-weight",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Compounding Weight* [**Debuff**] } | \"Each return adds mass — the flower heavier, denser — and the ground beneath it is sinking.\" | [The Flower's accumulated returns create gravitational pull.] | *Target loses 10 Resolve; the repeated growth is generating real weight.* **[10 Weight DMG [Weight]]** | When the target lingers. |",
+          "new": "| { *The Compounding Weight* [**Debuff**] } | \"Each return adds a layer — hearth ash, floor stone, drainage cut, then nothing — and the ground takes your weight through all of them.\" | [No pull is generated; the soil itself feels heavier underfoot where four occupations ended.] | *Target loses 10 Resolve beneath accumulated karmic Weight while standing on the layered ground.* **[10 Weight DMG [Weight]]** | While the target remains standing on the patch's ground. |"
+        },
+        {
+          "id": "R3-the-layer-underfoot",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Heavy Petal* [**Attack**] } | \"A petal falls — and it weighs more than a stone, aimed at your head.\" | [ A weighted petal drops with impossible mass.] | *Inflicts Weight pressure and one crushing, botanical impact.* **[14-22 Weight DMG [Weight]]** | When the Flower is shaken. |",
+          "new": "| { *The Layer Underfoot* [**Attack**] } | \"Nothing falls and nothing is aimed. The step you disturbed lands through ash, stone and every departure under them.\" | [Disturbance makes the layered ground report itself at once through the target's stance and Han.] | *Inflicts crushing Weight pressure to sorrow reserves and karmic debt; no petal strikes the target.* **[14-22 Weight DMG [Weight]]** | When the patch or its ground is shaken or disturbed. |"
+        },
+        {
+          "id": "R4-the-full-bloom",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Bloom* [**Attack**] } | \"Every flower that was ever cut returns at once — a mountain of heavy, persistent growth.\" | [The Flower's complete return is a botanical avalanche, and the mass is the soil's: each regrowth weighs what the layer beneath it weighs.] | *A heavy Black overgrowth; the target's Sorrow Gauge surges 15%. The 361 HP line is untouched — nothing has been done to the patch that the ground has not already absorbed four times.* **[24-36 Weight DMG [Weight]]** | When the patch is uprooted or lifted, which are the two heaviest clearance figures on record. |",
+          "new": "| { *The Full Bloom* [**Attack**] } | \"Not every flower ever cut, and not at once: within days the clearance line closes, and the patch is standing where the ground remembers it.\" | [Regrowth follows the occupation layers rather than falling as an avalanche; its mass is the soil's accumulated departures.] | *Heavy Weight pressure; the target's Sorrow Gauge surges 15%. The 361 HP line is untouched — removal has added a layer, not damaged the place that holds the patch.* **[24-36 Weight DMG [Weight]]** | When the patch is uprooted or lifted. |"
+        },
+        {
+          "id": "R5-the-fourth-return",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Eternal Garden* [**Ultimate**] } | \"Every flower in the field returns — and keeps returning — until the weight of infinite growth crushes everything.\" | [The Flower extends its returns across the whole area, and the extension follows the occupation layers rather than the ground surface.] | *All in range suffer Weight pressure for three turns of relentless growth. The three heaviest readings on record all follow removals — full clearance up eleven points and regrown in nine days, burn up fourteen and relocated eleven metres toward the old hearth line, transport off site up nineteen and back inside a fortnight, crate found empty and undamaged.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the site has been tidied since the last survey. |",
+          "new": "| { *The Fourth Return* [**Ultimate**] } | \"The growth is not infinite and it does not crush the field. It comes back along old paths, as it came back for every settlement that thought leaving ended the account.\" | [Returns extend across the surveyed area through occupation layers and old routes, modelled over three turns rather than as a single eruption.] | *All in range suffer Weight pressure for three turns of repeated return. The three heaviest readings on record all follow removals — full clearance up eleven points and regrown in nine days, burn up fourteen and relocated eleven metres toward the old hearth line, transport off site up nineteen and back inside a fortnight, crate found empty and undamaged.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the site has been tidied since the last survey. |"
+        },
+        {
+          "id": "R6-mobile-speed",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | Mobile patch on thin stem-legs; not a pursuit rating — movement is reoccupation measured against survey pins. |"
+        },
+        {
+          "id": "R7-place-void-manifestation",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Manifestation** | Place-Weight|",
+          "new": "| **Manifestation** | Place-Void |"
+        },
+        {
+          "id": "R8-breach-spores",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "> *\"Perennial has broken free. Releases spores that infest personnel.\"*",
+          "new": "> *\"Perennial has broken free. It is walking back along old paths; spores settle along its route.\"*"
+        },
+        {
+          "id": "R9-breach-ground-effect",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |",
+          "new": "| **Effect** | The ground takes weight unevenly underfoot and every step becomes effort; no buckling floor or bowing wall is recorded at the open site. |"
+        },
+        {
+          "id": "R10-registrum-observations",
+          "kind": "careful registry correction",
+          "careful": true,
+          "old": "**Observation Notes:**\n- See Origin section for formation details.\n- See Combat Record for engagement parameters.\n**Cross-References:** See entity’s interaction record and cross-references in the full file.",
+          "new": "**Observation Notes:**\n- Faint singing may precede sight of the patch and stops when anyone steps onto the soil; position against the last survey pin is the primary reading.\n- Removal is followed by return: nine days and +11 after full clearance, six days and +14 after burning, and back inside a fortnight at +19 after transport off site.\n- No injury is recorded against a crew that left the patch standing; an untouched site gives back only 1–2 points per season.\n**Cross-References:** The one-and-a-half-metre soil core; the three-entry clearance log; interaction records for the Sorrow Flower, Drift Fog and Lost Prince."
+        },
+        {
+          "id": "R11-subject-object-place-taxonomy",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "- **Classification detail:** Perennial is an Object/Place with Echo (II) coherence and Moderate (β) potency.",
+          "new": "- **Classification detail:** Perennial is filed as a Subject by entity type and worked under the Object/Place rule operationally, with Echo (II) coherence and Moderate (β) potency."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-845_Perennial_돌아온_꽃.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.018  clean   329 grams  Appearance\n 0.015  clean  1040 grams  M.A.W. Equipment\n 0.015  clean   196 grams  Trivia\n 0.008  clean   500 grams  관찰 기록 (Observation Log)\n 0.006  clean   493 grams  기록 (Registrum)\n 0.005  clean   192 grams  Operational Parameters\n 0.004  clean   831 grams  Combat Record\n 0.002  clean   932 grams  감각 묘사 (Flavor Text)\n 0.000  clean   349 grams  이야기 (Narratio)\n 0.000  clean   331 grams  이야기 보고 (Story Log)\n 0.000  clean   321 grams  Expansion Behavior\n 0.000  clean   227 grams  Origin\n 0.000  clean   209 grams  Watch Record\n 0.000  clean   176 grams  Behavior\n 0.000  clean   122 grams  Breach Behavior\n 0.000  clean   100 grams  최종 관찰 (Final Observation)\n 0.000  clean    48 grams  증언 (Testimonium)\n 0.000  clean    31 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   42   1  - Viderehan and Ferrehan are the only valid approaches despite its mobility; the bloom has no mind to engage or to confront.\n   85   3  | { *The Fourth Return* [**Ultimate**] } | \"The growth is not infinite and it does not crush the field. It comes back along old pa\n  122   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; on this record the ground is\n  206   5  **Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped. The head\n  227   3  **Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element and hangs \n  245   1  **Appearance:** a petal-tile of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its siz\n  271   1  | **Before use** | Wielder, piece, gauge at issue, and the site's occupancy count from the file — the pieces press hardest on anyo\n  273   3  | **At limit** | The cost is continuous rather than occasional: the wearer carries a constant low fatigue, and stops reporting it \n  276   4  **Stat interpretation:** Field performance and human cost are separate axes and diverge sharply here. The maul performs and the ma\n  298   4  **Observation method:** Record the first sign, which is the singing before the patch is in view; the first sensation, which is the\n  350   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  407   3  **Review requirement:** Re-verify after any Sorrow Tide, after any survey of the Desolate interior, and after any clearance of veg\n  438   3  - **Record detail:** Check the designation before approach. More than one Desolate record is a flowering form, and they differ on \nGENERIC 0.006  (39 shared shingles)  SE-N-IIβ-845_Perennial_돌아온_꽃.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-A__SIDE_CODEX_Perennial.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-B__MAW-W_The_Returning_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-C__MAW-S_The_Returning_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-D__MAW-G_The_Returning_Petal.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-A__SIDE_CODEX_Perennial.md": "fe731d5dd5292311a83caaf669e0999ccc27d17803b74156d823912af4128db2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-B__MAW-W_The_Returning_Maul.md": "a3c7e5adab7acbee14bf2b2f69327145983a48f3a1cd97c815811ad3361f414c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-C__MAW-S_The_Returning_Mantle.md": "a6d10746af8ece35688df520948f93b1e1b322cdb63d549dfb65bebbcfe1b563",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-D__MAW-G_The_Returning_Petal.md": "8fe7ad0548d1f7db69b13b6f944ddbea4a95c64bdbd54f8683cc9660713a1aff"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-845_Perennial_돌아온_꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-845_Perennial_%EB%8F%8C%EC%95%84%EC%98%A8_%EA%BD%83.md \"SE-N-IIβ-845_Perennial_돌아온_꽃.md\")]",
+      "table_link": "[[N-IIβ-845 Perennial](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-845_Perennial_%EB%8F%8C%EC%95%84%EC%98%A8_%EA%BD%83.md \"SE-N-IIβ-845_Perennial_돌아온_꽃.md\")]",
+      "reading": {
+        "before_lines": 444,
+        "before_bytes": 51235,
+        "final_lines": 445,
+        "final_bytes": 52265
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 28,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequence_change": "Existing clearance figures were repeated in Registrum (9/+11, 6/+14, +19 and 1–2 per season) when generic pointers were replaced; no new statistic was introduced.",
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4
+      }
+    },
+    {
+      "designation": "C-IVγ-240",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md",
+      "words": 8558,
+      "sha256": "4a83f41f9fc8014d135d4ac125f562ede7a2715c172078eedc471679e9f672fe",
+      "unit": 3,
+      "name": "Broken Clocktower",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_03_BROKEN_CLOCKTOWER.md",
+      "before_words": 8558,
+      "after_words": 8751,
+      "base": "d15d227f2bc764c3726afd6ff1b8121fca3b6ef2",
+      "final_sha256": "61d3658522290c86af16509d4b2e8a8ba4f732e087b8a7b906bf9c7a66f92550",
+      "summary": "Twelve source-supported repairs (2 short / 10 careful): a truncated SECC sentence is completed; resolution no longer demands a finding the inquiry cannot produce; and the Combat Actions stop stopping time, chiming thirteen, dropping cart-wheel gears, ringing every bell at midnight and halting the pendulum. They now use the file's actual six-metre symmetrical lateness, withheld bell stroke, late second instruction and 75% threshold. Generic identity/environment catastrophe and weather-to-weapon flavor were replaced by the second-instruction casualty model. HELD; no credit because the primary carries an explicit full-set source review dated 2026-10-12.",
+      "commentary": "This is a dossier about a correct rule producing an unbearable interval: no rushed finding, therefore no certificate, therefore families wait inside paperwork while witnesses wait inside 3:47. Its combat table kept trying to make the tower dramatic in the wrong way—bells, gears, stopped time. The actual horror is quieter: an instruction given once is still arriving, and someone reasonable gives it again.",
+      "reasoning": "R-34 audit before editing. Identity is exact linked SE-1023, not Arabic 240: A–D carry Source SECC `C-IVγ-240 [WP]`, linked `SE-1023`, set 4/4 and codes `MAW-W/S/G-1023-01`. Supported core: Entity IV/Major γ, Weight, Place-Weight, Zone C near Collector's Row, Gauge 772, start 45–65%, Pressure 14–31, Observation 3; accident at 3:47 trapped tower and witnesses in an unresolved instant; Viderehan Stable/Ferrehan Decrease; Side resolution is to accept the moment cannot be changed and limit exposure. The primary's richer local mechanism is precise: gears turn behind hands fixed at 3:47, sealed carried timepieces drift (means 14/23/31 seconds), bell and free clapper never produce a stroke, a six-metre field makes anything issued arrive about two turns late symmetrically, the pendulum/channel is continuous until deliberately closed, watches end only on an external facility clock, and every incident starts with a second instruction. Each Combat Action contradicted one of those load-bearing facts: total time-stop in a shadow, a thirteen chime, a falling gear on being struck despite Object/Place work, all bells at midnight, and a stopped pendulum triggering at 65% below the file's own 75% activation threshold. The SECC activation sentence was literally truncated at 'the pre'. Consequences imported staged identity loss/environmental corruption and catastrophic outlet-cutting against the Tale's explicit 'It threatens nobody. It has killed nobody.' Flavor used generic presence-to-weapon language. A 30-second Log row also said the field stops when attending stops, contradicting continuous-until-closed Tool Use. All table blocks had equal parsed cell counts before and after; Trigger remains the fifth Combat Action cell.",
+      "history": "Local/draft history: Year 4222 accident at 3:47; inquiry open sixteen years because principal witnesses remain inside the instant; the no-time-limit rule arose from a rushed gallery-collapse finding overturned nine years later; 612 Directorate death inquiries exceed five years; Standing Finding authorised Year 4236/first issued Year 4237, with 441 provisional findings, 388 family releases and seven reversals, while the Year 4222 inquiry remains ineligible for lack of heard evidence. Fresh equipment credit BARRED explicitly: the primary contains a dated **Full-set source review (2026-10-12)** covering Side/item/Registry/Master/Tale/archetype records, all local claims, Use Notes, Field Use and cost separation. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Breach/type fork: SE-1023-A files Object/Place — Can breach via Transform, while the primary files Non-breaching activation only with an O-Relic channel and no breach counter. Neither taxonomy was overwritten. Held.",
+        "Trigger fork: Side A says activation follows attempts to force the frozen moment to end; the primary Tool layer says escapement rotation under protocol or abrupt base pressure opens a continuous channel. Repairs use each only in its own layer and do not declare them the same event. Held.",
+        "Viderehan response fork: Side A/Final Observation language says it shows the event frozen at 3:47, while the Behavior table says it holds the field steady to walk/measure the radius. Both local functions remain. Held.",
+        "Weapon form remains the primary's explicitly held *Mercy Broadsword* against Side/item/Master *The Frozen Maul* and the `MAW-W-1023` acoustic-resonance bell archetype. B/C/D have no Appearance sections; all three physical item forms are primary-local. Held exactly as the 2026-10-12 review records.",
+        "The blanket Consequence claim that every M.A.W. activation charges memories, sensation and years remains distinct from piece-specific heaviness, fatigue, slight ageing and Stigma lifespan loss. Following the in-file source review, costs were not collapsed. Held.",
+        "The drift's correlation with aggregate age of open death inquiries, the witnesses' status/release, and what a bell strike would mean remain unresolved by design. No controlled strike or finding was invented. Held.",
+        "Combat brackets remain catalogue consequences (10; 10; 14–22; 24–36; 12–20 AoE ×3) against core Han Pressure 14–31; only the Ultimate trigger was aligned to the file's stated 75% activation threshold. Held."
+      ],
+      "split": [
+        2,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R1-secc-pressure-completion",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on manual rotation of the escapement wheel, which is performed only under the tool protocol, or an abrupt change in the pre |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on manual rotation of the escapement wheel, which is performed only under the tool protocol, or an abrupt change in the pressure at the tower base. |"
+        },
+        {
+          "id": "R2-resolution-condition",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Say aloud, inside the field, what has been concluded about the accident and by whom. Nothing has been concluded, which is why the watch ends on the clock instead. |",
+          "new": "| **Resolution Condition** | Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded. |"
+        },
+        {
+          "id": "R3-the-stuck-hand",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Stuck Hand* [**Debuff**] } | \"The clocktower's hand freezes — and so does everything beneath its shadow.\" | [The Clocktower stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve; the suspended instant is heavy.* **[10 Weight DMG [Weight]]** | When the target enters the shadow. |",
+          "new": "| { *The Stuck Hand* [**Debuff**] } | \"The hands do not move and the gears do. Inside six metres, your own voice reaches the other person late.\" | [The dilation field does not freeze the target mid-motion; anything issued inside it arrives about two turns late, symmetrically.] | *Target suffers -10 Resolve under the Weight of an instant that will not advance.* **[10 Weight DMG [Weight]]** | When the target enters the six-metre field. |"
+        },
+        {
+          "id": "R4-the-withheld-stroke",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Wrong Chime* [**Debuff**] } | \"The tower chimes thirteen — and the wrong number makes time itself dizzy.\" | [The Clocktower deranges the target's sense of duration.] | *Target loses 10 Resolve; seconds stretch and compress.* **[10 Weight DMG [Weight]]** | When the target hears the chime. |",
+          "new": "| { *The Withheld Stroke* [**Debuff**] } | \"The bell is intact, the clapper is free, and the stroke does not happen. The gear train runs on underneath the silence.\" | [Waiting for a conclusion that never arrives deranges the target's sense of duration while the carried timepiece drifts.] | *Target loses 10 Resolve; elapsed time is misjudged in either direction and cannot be trusted.* **[10 Weight DMG [Weight]]** | While the target remains inside the field waiting for the minute to conclude. |"
+        },
+        {
+          "id": "R5-the-late-instruction",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Falling Gear* [**Attack**] } | \"A gear the size of a cart-wheel breaks free and rolls down.\" | [A massive clockwork component crashes down.] | *Inflicts Weight pressure and one heavy, grinding wound.* **[14-22 Weight DMG [Weight]]** | When the Clocktower is struck. |",
+          "new": "| { *The Late Instruction* [**Attack**] } | \"No gear breaks free. An order given at the foot of the stair is still arriving when somebody, certain it was ignored, gives it again.\" | [The first instruction lands after its context has changed; the second turns delay into incident.] | *Inflicts Weight pressure on the Han through contradictory late action; no component falls and no grinding wound is dealt.* **[14-22 Weight DMG [Weight]]** | When an instruction or action issued inside the field is repeated before the first has arrived. |"
+        },
+        {
+          "id": "R6-the-unfinished-minute",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Midnight Cascade* [**Attack**] } | \"Every bell in the tower rings at once — a stroke the mechanism has been holding back since 3:47, arriving all of it at the same moment.\" | [The tower releases the withheld stroke in the only form it can take.] | *A heavy Weight surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Weight DMG [Weight]]** | When the tower is overloaded inside the field. |",
+          "new": "| { *The Unfinished Minute* [**Attack**] } | \"No bell rings and it is not midnight. It is 3:47, the gears are turning, and the event still has not been allowed to finish.\" | [An attempt to force the frozen moment to end makes the unresolved instant press on everyone holding the channel.] | *A heavy Weight surge; the target's Sorrow Gauge climbs 15% without the bell striking or the hands advancing.* **[24-36 Weight DMG [Weight]]** | When the crew overloads the channel or tries to force the frozen moment to conclude. |"
+        },
+        {
+          "id": "R7-still-347",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Time Stops for Everyone* [**Ultimate**] } | \"The pendulum stops mid-swing — and the whole field holds its breath with it, waiting on a conclusion that is not coming.\" | [The dilation field closes on everything inside it at once.] | *All personnel take Weight pressure for three turns of a moment that will not conclude.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *Still 3:47* [**Ultimate**] } | \"The pendulum does not stop and time is not halted. The hands simply never advance, and everyone inside has to keep waiting with them.\" | [The six-metre dilation holds all personnel in stretched, symmetrical lateness while the external watch has not yet been called.] | *All personnel take Weight pressure for three turns inside a moment that will not conclude; their own estimates of those turns are not usable evidence.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 75% activation threshold inside the field. |"
+        },
+        {
+          "id": "R8-consequence-second-instruction",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Stay past the called watch and the tower brings its whole documented manifestation with it: the emotions erode first, somatic trauma follows, then the identity goes, and last the environment is corrupted beyond repair. That order is the file’s own, and the fourth of them is why the watch length is called out loud instead of left to judgement.",
+          "new": "- Stay past the called watch and the documented failure is narrower and worse for being ordinary: anticipation is held past its natural span, elapsed time can no longer be judged in either direction, and somebody repeats an instruction that has not yet arrived. Identity loss and environmental corruption are not this file's casualty sequence; the second instruction is."
+        },
+        {
+          "id": "R9-consequence-no-outlet",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Left unresolved, the tower falls back on the activation or expansion behavior its dossier documents. Containment refused, grief with no channel to run in cuts an outlet for itself, and the cutting is catastrophic rather than contained.",
+          "new": "- Left unresolved, the tower does not cut itself a catastrophic outlet. The field persists, the drift is entered, the bell remains unstruck, and the inquiry stays open; containment is the repeated procedural act of ending exposure from outside."
+        },
+        {
+          "id": "R10-channel-closure-log",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| 30 Seconds | Thirty seconds on, the channel is carrying the memory the tower is stuck inside: the weight of waiting through an event that never concluded. The accident at 3:47 forged it, leaving the tower and everyone who saw it held in one unresolved instant, and the worker hears that instant still running rather than recalling it. | Range Band 2 sits inside the field's reach, and elemental pressure lands lighter on every allied unit in the sector while the channeler is still attending to the tower. Nothing here runs itself; the field stops the moment the attending stops. |",
+          "new": "| 30 Seconds | Thirty seconds on, the channel is carrying the memory the tower is stuck inside: the weight of waiting through an event that never concluded. The accident at 3:47 forged it, leaving the tower and everyone who saw it held in one unresolved instant, and the worker hears that instant still running rather than recalling it. | Range Band 2 sits inside the field's reach, and elemental pressure lands lighter on every allied unit in the sector while the channeler is still attending to the tower. The field does not end because attention wanders; it remains until the channel is deliberately closed on an outside call. |"
+        },
+        {
+          "id": "R11-flavor-dilation",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Weight presses hardest, where it recedes, where the Place-Weight lets you breathe.\n\n**When the entity activates:** The shift happens between one breath and the next. The Place-Weight crosses from presence to action, and the Weight goes from weather to weapon.",
+          "new": "**With continued exposure:** Minutes pass at a rate nobody inside can state. The gear train stays loud and regular, the sealed piece at the belt drifts against the facility standard, and an instruction given once may still be arriving when the wish to repeat it becomes almost reasonable.\n\n**When the entity activates:** Escapement rotation under protocol, or an abrupt pressure change at the base, opens the six-metre dilation. Nothing crosses from weather to weapon; voices, blows and orders simply arrive late, including your own."
+        },
+        {
+          "id": "R12-registrum-originator",
+          "kind": "short registry correction",
+          "careful": false,
+          "old": "**Originator:** Citizens caught in a time loop, Year 4222.",
+          "new": "**Originator:** The witnesses to the Year 4222 accident, still inside the unresolved instant and not yet examined; no individual originator is named."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.027  clean   184 grams  Trivia\n 0.020  clean   101 grams  최종 관찰 (Final Observation)\n 0.016  clean   124 grams  Operational Parameters\n 0.007  clean   738 grams  Combat Record\n 0.005  clean   832 grams  M.A.W. Equipment\n 0.000  clean  1321 grams  Apex Record\n 0.000  clean   710 grams  Activation Behavior\n 0.000  clean   592 grams  감각 묘사 (Flavor Text)\n 0.000  clean   408 grams  이야기 (Narratio)\n 0.000  clean   344 grams  기록 (Registrum)\n 0.000  clean   301 grams  이야기 보고 (Story Log)\n 0.000  clean   241 grams  관찰 기록 (Observation Log)\n 0.000  clean   156 grams  Origin\n 0.000  clean   145 grams  Appearance\n 0.000  clean   135 grams  증언 (Testimonium)\n 0.000  clean   100 grams  Behavior\n 0.000  clean    37 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 40% against Weight pressure; 30% against other pressure types. The second figure is defensive only: nothing on \n   86   4  | { *Still 3:47* [**Ultimate**] } | \"The pendulum does not stop and time is not halted. The hands simply never advance, and everyo\n  275   1  **Stat interpretation:** The grade records how cleanly the archetype came off the tower, not what it takes from the bearer. A γ pi\n  277   3  **Full-set source review (2026-10-12):** Reviewed the `O-Relic (Offertorium) · γ` overview, all local Weapon/Suit/Stigma claims, U\n  326   2  | Do the thing on file: accept that the moment cannot be changed and limit the exposure — watch called from outside, one instructi\n  467   5  - **Field detail:** Its defining element is Weight, and its registered location is Zone C, near Collector's Row — Old Lament being\nGENERIC 0.003  (18 shared shingles)  SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-A__SIDE_CODEX_Three_Forty_Seven.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-B__MAW-W_The_Frozen_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-C__MAW-S_The_Frozen_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-D__MAW-G_The_Frozen_Minute.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-A__SIDE_CODEX_Three_Forty_Seven.md": "d00b252da4ed979c32c7bb1c77a5d2e6643aeee843a78e0bde394ef98fa95210",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-B__MAW-W_The_Frozen_Maul.md": "b8f241b57fb6b5897c2537ff3c6a942dc998841b196f32b04278456298663fef",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-C__MAW-S_The_Frozen_Mantle.md": "59025edc79a67b7c10dc4159e103c14c5cafe2f14ea9be1aaff3056d585f4cb8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-D__MAW-G_The_Frozen_Minute.md": "70852c70808f33a50ccda256ad95dc32a4ee454eab390a0cbdab2e53756afa4b"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-240_Broken_Clocktower_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%8B%9C%EA%B3%84%ED%83%91.md \"SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md\")]",
+      "table_link": "[[C-IVγ-240 Broken Clocktower](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-240_Broken_Clocktower_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%8B%9C%EA%B3%84%ED%83%91.md \"SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md\")]",
+      "reading": {
+        "before_lines": 476,
+        "before_bytes": 52167,
+        "final_lines": 476,
+        "final_bytes": 53366
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 27,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequence_change": "The Ultimate trigger changed from 65% to the primary Core Stat Line's existing 75% activation threshold; no other new statistic was introduced.",
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4
+      }
+    },
+    {
+      "designation": "O-IVδ-168",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-168_Quagmire_무너진_흔적.md",
+      "words": 8579,
+      "sha256": "941a5ce0d84c0cfe027fb4c964aa965f8809f9ae2ece5ee75c0063e627504a37",
+      "unit": 4,
+      "name": "Quagmire",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_04_QUAGMIRE.md",
+      "before_words": 8579,
+      "after_words": 8834,
+      "base": "2dc84f09f7d2023758f4c023931abdaa7ae9cbd2",
+      "final_sha256": "fd4116858e7733b83bd54457a942b43dbdde756b3499740dc407db40801cedda",
+      "summary": "Thirteen source-supported repairs (2 short / 11 careful): Quagmire's Combat Actions no longer erase the very evidence its resolution requires preserving. They now run on absent footsteps, compass capture, shortcut temptation, unwitnessed route loss registering in mass, and unfinished arrival at the file's 90% threshold. A generic unheard-child Origin, psychological-matrix Consequence, equipped-resonance Activation, truncated Field Use splices and sealed-door flavor were replaced with the survey/head-count/return-line record; exact Shroud and Lantern appearances restored. HELD; no credit because the primary already integrates the three-piece set, costs, Use Notes and a Field Use Record.",
+      "commentary": "Quagmire is one of the archive's best administrative horrors: removing a dead road from the map is correct, necessary, and exactly what makes the crystal heavier. The old rows turned that into a generic erasure monster. The Trace does not delete people; it is what remains when every correct office procedure has made their road impossible to print.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-168: Side A prints `O-IVδ-168 [O]`, set 4/4, Object/Place I-Relic Object-Weight, IV/δ, Lament, Desolate near Scar; B/C/D carry `MAW-W/S/G-168-01`. Supported design: a broken heavy crystal line/footprint that failed to rise, carrying route history and missing travellers; Videre Stable reveals route/names under custody, Ferre Decrease remains at journey's end with a return line; expansion triggers are routes destroyed without witness or treating the trace as a shortcut; compass needles point along the line and every exit feels unfinished; emergency response is stop, restore current map/return line, preserve names and do not chase the collapsed path. The primary's local record adds the decisive survey series (mass 14.2→17.9→22.4t against 2,300 km removed, sixty-one gaits/names, silence of one's own steps, safest footing and one injury from stepping off). All old Combat Actions made the Trace fade/smudge/flare/scrape/unmark evidence—the opposite of map-and-preserve—and used Composure although the file's Primary Pressure is Clarity; the Ultimate triggered at 65% inside the starting band and below the 90% threshold. Origin expanded context was an unrelated unheard-child template. Activation/Detailed Activation used generic equipped perimeter resonance for a fixed open-Desolate line. Field Use contained literal truncations ('and the tea', 'come off the D.'). Flavor put a sealing door and time distortion in open Desolate. Exact C/D Appearance forms were restored; B's Weapon fork was not normalized because its title/Appearance says Vestige Censer thurible while its identity/combat says Trace Requiem blade, and the primary follows the censer layer. Every table block passed parsed cell-count equality before and after, with Trigger in the fifth cell.",
+      "history": "Draft/local history: a Desolate route collapsed under Han; sixty-one gaits match sixty-one names on a complete departure manifest although no name is recoverable from the crystal itself; mass rose 14.2→17.9→22.4 tonnes as 2,300 km of routes were decommissioned; Year 4199 nine travellers died following a dashed former way; Year 4225–4228 four missed Ways Register returns produced +3.1 tonnes and permanent subsidence; Year 4231 marker application was correctly refused in Year 4232. Exact-set history records Yeonhwa's team stopping at the endpoint, returning together, and the Lantern's three named travellers. Fresh equipment credit BARRED: the pre-repair primary already contained all three pieces with exact α statistics/costs, bespoke Use Notes on the α-versus-δ mismatch and a four-stage Field Use Record. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Weapon identity fork inside SE-168-B itself: title and standalone Appearance are *The Vestige Censer*, a brass lavender thurible; Item Identity and Combat File are *The Trace Requiem*, a small blue route-line blade. The primary follows the censer title/appearance and censer ability while using the shared statistics/cost. Neither exact layer was declared the sole form. Held.",
+        "Extraction/Tool fork: SE-168-A says the original I-Relic trace remains unbroken and M.A.W. pieces are released blue route echoes, not fragments; the primary repeatedly schedules cutting a surveyed segment that cannot be put back and its Tool Use/Log layer treats a carried relic segment generically. Activation was returned to the field/return-line mechanism, but the extraction ontology remains unresolved. Held.",
+        "Names fork: Side A leaves open which trace names are recoverable without transferring the journey; the primary says names are known from a complete manifest but established twice as unrecoverable from the crystal and forbids a third attempt. Manifest custody and crystal recovery were kept distinct. Held.",
+        "Stat/label forks: primary Han Pressure 29–64, Sorrow Gauge 910/910 and Comprehension '2 — Basic' versus Side A Lament 29–62, no HP figure, and '2 — Studied.' No stat was rescaled in this appearance pass. Held.",
+        "Full-set scope: SE-168-A/D define *Arrive Together* around team mapping, named return line and refusal of solo deployment; primary Use Notes frame the pieces as an α expedition kit drawn from the Trace and emphasize under-equipment. Field Use now carries the custodian/team rule, but the set ontology remains tied to the extraction fork above. Held.",
+        "Combat bracket values remain catalogue consequences (10; 10; 14–22; 24–36; 12–20 AoE ×3) against the primary's 29–64 core pressure and 'Nothing attacks' Battle Phase; categories are retained as model slots, not observed Trace attacks. Held."
+      ],
+      "split": [
+        2,
+        11
+      ],
+      "repairs": [
+        {
+          "id": "R1-somebody-elses-footsteps",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Fading Mark* [**Debuff**] } | \"The traces on the floor are disappearing — and with them, proof that anyone was ever here.\" | [The Trace's collapse erases evidence; the target feels themselves becoming unproven.] | *Target suffers -10 Composure; they are becoming a trace that is fading.* **[10 Lament DMG [Lament]]** | When the target steps on the traces. |",
+          "new": "| { *Somebody Else's Footsteps* [**Debuff**] } | \"Your own steps make no sound. Somebody else's arrive from the broken section, in more gaits than your party has people.\" | [The Trace carries footsteps and produces none of its own; the target hears the missing party still mid-journey.] | *Target suffers -10 Clarity while trying to separate their own movement from the travellers'.* **[10 Lament DMG [Lament]]** | When the target steps onto the crystal line. |"
+        },
+        {
+          "id": "R2-the-compass-along-the-line",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Smudged History* [**Debuff**] } | \"Everything recorded here is blurring — names, dates, sorrows — all smudging into nothing.\" | [The Trace's breakdown corrupts the record; the target's own history smudges.] | *Target loses 10 Composure; they cannot remember clearly.* **[10 Lament DMG [Lament]]** | When the target reads the traces. |",
+          "new": "| { *The Compass Along the Line* [**Debuff**] } | \"The needle does not spin. It points along the broken line, while every actual exit feels unfinished.\" | [Viderehan reveals route history, but direction fails if the collapsed alignment is mistaken for a current road.] | *Target loses 10 Clarity; they can read where the journey went and still not know how to leave.* **[10 Lament DMG [Lament]]** | When the target tries to navigate by the Trace. |"
+        },
+        {
+          "id": "R3-the-shortcut",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Static Burst* [**Attack**] } | \"The traces flare once — a final, bright moment of evidence — and then they are gone.\" | [The Trace's death-flash strikes the target.] | *Inflicts Lament pressure and one wound of erased certainty.* **[14-22 Lament DMG [Lament]]** | When the Trace is touched. |",
+          "new": "| { *The Shortcut* [**Attack**] } | \"It looks like a road. Every observer wants to follow it. That is the first warning, and it arrives dressed as common sense.\" | [Treating the collapsed route as a shortcut draws the target past the endpoint with the reasonable conviction that they are still mid-journey.] | *Inflicts Lament pressure through unfinished-arrival disorientation; nothing flares, strikes or is erased.* **[14-22 Lament DMG [Lament]]** | When an expedition treats the Trace as a shortcut to safety. |"
+        },
+        {
+          "id": "R4-a-route-gone-elsewhere",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Total Erasure* [**Attack**] } | \"Every trace, every mark, every record goes down together, in one motion.\" | [The Trace comes apart entirely and carries the evidence away with it.] | *A heavy Deep Blue void-of-record; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Trace is scraped off the ground. |",
+          "new": "| { *A Route Gone Elsewhere* [**Attack**] } | \"Nothing happens on the line. Somewhere else, a road has stopped existing with nobody there to write it down. The load cells know first.\" | [An unwitnessed route loss registers as added mass, new subsidence and pressure on the survey party; the Trace itself remains to be mapped.] | *Heavy Lament pressure; the reading jumps 15% while no mark is scraped away.* **[24-36 Lament DMG [Lament]]** | When a new route is destroyed without witness. |"
+        },
+        {
+          "id": "R5-no-arrival",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Unmarked Field* [**Ultimate**] } | \"After this there is nothing to find — no trace, no mark, no proof the field was ever walked.\" | [The erasure widens until it holds every metre of the field.] | *Everyone in range takes Lament pressure for three turns while the field goes unmarked.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |",
+          "new": "| { *No Arrival* [**Ultimate**] } | \"The field is not erased. It is worse than that: every direction remains visible, and none of them feels like having arrived anywhere.\" | [Direction loss widens along the broken alignment until forward movement must stop and a current return line is re-established.] | *Everyone in range takes Lament pressure for three turns of unfinished arrival; names and route history remain the record to preserve, not the thing destroyed.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At the 90% Sorrow Gauge activation threshold. |"
+        },
+        {
+          "id": "R6-expanded-origin",
+          "kind": "careful origin correction",
+          "careful": true,
+          "old": "- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.",
+          "new": "- **Expanded origin context:** The route failed before its travellers arrived. A Desolate path collapsed under Han and left a broken crystal line carrying tracks, route history and the absence of sixty-one people named on a complete departure manifest. The first obligation is therefore mapping and custody of names, not completing the journey on behalf of people who never reached its end."
+        },
+        {
+          "id": "R7-consequence-direction-loss",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.",
+          "new": "- If resistance fails, the worker does not become a fading trace. Clarity goes first as direction: compass and attention align with the broken route, every exit feels unfinished, and the worker may continue in good order past the end unless the off-line partner and head count stop them."
+        },
+        {
+          "id": "R8-activation-return-line",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "**Activation Trigger:** New routes destroyed without witness.\n\n**Effect:** Projects concentrated Lament sorrow resonance across the immediate perimeter.\n\n**Duration:** While equipped, until the removal condition is met.\n\n**Risk:** Misuse increases emotional strain and may destabilize the operator.",
+          "new": "**Activation Trigger:** New routes destroyed without witness, or an expedition treats the Trace as a shortcut to safety.\n\n**Effect:** Compass needles point along the broken line; travellers lose direction and feel they have failed to arrive wherever they stand.\n\n**Duration:** Until forward movement stops, a current route map and return line are re-established, and discovered names are preserved.\n\n**Risk:** A worker may keep walking past the endpoint in the reasonable conviction that they are still mid-journey, or hear unfinished footsteps as their own."
+        },
+        {
+          "id": "R9-detailed-activation-return-line",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Primary effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |\n| **Duration / rate** | While equipped, until the removal condition is met. |\n| **Risk** | Critical (δ) Object-Weight producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |",
+          "new": "| **Primary effect** | Direction fails along the broken alignment; compass needles follow the collapsed line and every exit feels unfinished. |\n| **Duration / rate** | Until the party stops, restores a current map/return line, counts every member and preserves any names recovered. |\n| **Risk** | Critical (δ) Object-Weight producing Lament pressure; personnel may walk past the line's end while believing the journey continues. |"
+        },
+        {
+          "id": "R10-trace-shroud-appearance",
+          "kind": "short appearance correction",
+          "careful": false,
+          "old": "**Appearance:** a wrapping shroud of Lament Han-silk, cold on the skin, stitched so finely that the seams disappear when it is worn.",
+          "new": "**Appearance:** a blue wrapping shroud of Lament Han-silk, cold on the skin, with a faint crystal route line running from collar to hem and ending before the floor; in use the line becomes a visible return thread toward the current camp marker."
+        },
+        {
+          "id": "R11-trace-Lantern-appearance",
+          "kind": "short appearance correction",
+          "careful": false,
+          "old": "**Appearance:** a small lantern of Lament Han-crystal, cold in the hand, that throws its light the wrong way for its size.",
+          "new": "**Appearance:** a tiny blue lantern of Lament Han-crystal, cold in the hand, showing no flame until a route is named aloud; thin blue lines then reveal a hidden path together with the unfinished traveller names attached to it."
+        },
+        {
+          "id": "R12-field-use-splice",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "| **Before use** | Wielder, piece, gauge, and one pre-check, Quagmire's toll being that the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea. |\n| **During use** | Every occurrence of what Quagmire takes (the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea), timed. One is noted; a pattern across a shift ends the use. |\n| **At limit** | The cost is paid steadily and not in bursts: the shroud works by filtering out everything under a set weight, and it cannot tell a small grief from a small pleasure. Wearers come off the Trace light in the head and last on the sheet. The second worker's judgement overrides the wielder's, on paper and in the field. |\n| **After use** | Return the piece, then ask a colleague rather than the wielder whether Quagmire's cost is still showing — the shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the D. |",
+          "new": "| **Before use** | Wielder, piece, gauge, map custodian, team count and a physical return line. No piece is issued for solo travel beyond the agreed map boundary; the pre-check records which names, if any, the survey has already recovered. |\n| **During use** | Log every cost by piece: weeping for unnamed travellers, numbness to minor joys, or route voices/names revealed. A route line pointing forward without a map, footprints without names, or lantern light without a stated map purpose suspends travel. |\n| **At limit** | The custodian's return order overrides the bearer's judgement. If any team member is unaccounted for, route protection stops and search protocol replaces exploration; endurance on the line is not permission to continue alone. |\n| **After use** | Return together, enter every revealed name and route into custody, and review whether voices, weeping or flattened pleasure persist. A piece is not reissued while its route line remains forward-facing or its name record is incomplete. |"
+        },
+        {
+          "id": "R13-flavor-open-Desolate",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Weight is teaching you its sorrow.\n\n**When the entity activates:** Once the gauge tips, the Lament stops behaving like grief and starts behaving like weather. The Object-Weight was holding the ground still; then it lets go of it.\n\n**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.",
+          "new": "**With continued exposure:** The survey becomes five numbers repeated against the same stakes: mass, breaks, bearing, subsidence and footsteps. Somewhere inside that discipline the wish to simply keep walking presents itself as efficiency, which is why the head count comes before the instruments.\n\n**When the entity activates:** The cause may be nowhere near the Scar. A route has been destroyed without witness, or somebody has decided the broken line is a shortcut; compass needles settle along it, the mass forecast fails, and every exit begins to feel unfinished.\n\n**After departure:** There is no door to seal in open Desolate. The party leaves by its current return line with the names entered and the second head count complete; what remains is the line, heavier or not, and the knowledge that arriving back is not the same as finishing somebody else's journey."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IVδ-168_Quagmire_무너진_흔적.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.002  clean   545 grams  Activation Behavior\n 0.002  clean   638 grams  Combat Record\n 0.000  clean  1443 grams  Apex Record\n 0.000  clean   649 grams  감각 묘사 (Flavor Text)\n 0.000  clean   582 grams  M.A.W. Equipment\n 0.000  clean   388 grams  이야기 보고 (Story Log)\n 0.000  clean   376 grams  기록 (Registrum)\n 0.000  clean   351 grams  이야기 (Narratio)\n 0.000  clean   306 grams  Appearance\n 0.000  clean   274 grams  관찰 기록 (Observation Log)\n 0.000  clean   219 grams  Behavior\n 0.000  clean   182 grams  Trivia\n 0.000  clean   178 grams  Operational Parameters\n 0.000  clean   123 grams  Origin\n 0.000  clean    95 grams  최종 관찰 (Final Observation)\n 0.000  clean    41 grams  증언 (Testimonium)\n 0.000  clean    37 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   55   1  | **Resistance** | 45% against Lament pressure; 35% against other pressure types |\n  154   1  > **This Relic Extracts Personal Resilience upon Extended Use**\nGENERIC 0.000  (2 shared shingles)  SE-O-IVδ-168_Quagmire_무너진_흔적.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-A__SIDE_CODEX_Quagmire.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-B__MAW-W_The_Trace_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-C__MAW-S_The_Trace_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-D__MAW-G_The_Trace_Lantern.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-A__SIDE_CODEX_Quagmire.md": "9a6d72fecb2d19889ae61bf5168b864e1a9096b64d91aa70db19d6389813c121",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-B__MAW-W_The_Trace_Requiem.md": "84513e12aa6662795c47c9a7bffe983686658105cccccdeff247e1b0d9bdb9f5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-C__MAW-S_The_Trace_Shroud.md": "4f101f728259150f0bdcd167476277d1f6e1fb9e3f82ea54dfeadb58281e1820",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-D__MAW-G_The_Trace_Lantern.md": "5ba4da5e346f575e6e0204a6a3033a5cbed791a4100e442cb5ff9cad5824b843"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IVδ-168_Quagmire_무너진_흔적](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-168_Quagmire_%EB%AC%B4%EB%84%88%EC%A7%84_%ED%9D%94%EC%A0%81.md \"SE-O-IVδ-168_Quagmire_무너진_흔적.md\")]",
+      "table_link": "[[O-IVδ-168 Quagmire](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-168_Quagmire_%EB%AC%B4%EB%84%88%EC%A7%84_%ED%9D%94%EC%A0%81.md \"SE-O-IVδ-168_Quagmire_무너진_흔적.md\")]",
+      "reading": {
+        "before_lines": 496,
+        "before_bytes": 52025,
+        "final_lines": 496,
+        "final_bytes": 53579
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 26,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequence_change": "The Ultimate trigger replaced 65% with the primary Core Stat Line's existing 90% activation threshold, and the Origin repeats the file's existing sixty-one manifest count in digits; no new statistic was introduced.",
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4
+      }
+    },
+    {
+      "designation": "C-Vω-925",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-925_Sorrow_Mass_압살의_한.md",
+      "words": 8581,
+      "sha256": "42dde7584803c20adb58ae83fbf265251502b0084dae60d021f6a0445b046ba6",
+      "unit": 5,
+      "name": "Sorrow Mass",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_05_SORROW_MASS.md",
+      "before_words": 8581,
+      "after_words": 8632,
+      "base": "b4eb18484aaf26e960d6b5833bf95f3b3443e8b0",
+      "final_sha256": "0da058e94433a137f56b897b4bf13931ca78c0aab4850053a36e2bfc21319b87",
+      "summary": "Eight repairs (5 short / 3 careful) in an unusually strong Sovereign file. The first three Combat Actions were retained because they already encode the foundation→stairwell→living-floor sequence, instrument-first detection and upheld false-positive evacuations; only the first row's area scope was made explicit. The Ultimate no longer discharges the whole district at 65%: it is the uncleared third stage reaching structural failure. Breach text now rises by storey rather than turn and forbids the physical suppression the rest of the file says has never existed; registry status no longer says Contained and UNCONTAINED in one breath. HELD; no credit because the primary already integrates the Edge, Veil, Token, structural Use Notes and gauge-round Field Use Record.",
+      "commentary": "This is bureaucratic horror at geological speed. The monster is a deflection reading; the heroism is clearing a perfectly ordinary-feeling floor because adjacent gauges disagree, then being proved unnecessary and upheld anyway. Any version that makes the Mass leap, speak, target a hero or explode has missed the entire terror of millimetres.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-925: Side A prints `C-Vω-925 [WH]`, Hazard/Hazard-Weight, V/ω, Weight, SECTOR-C-925 UNCONTAINED, Gauge 521/521, starts 35–50%, Han Pressure 11–20, Observation 5—Sovereign; B/C/D carry `MAW-W/S/G-925-01`. Exact Work agrees with the primary (Videre Decrease by legibility; Ferre Decrease by sustained presence; Flere/Pugna N/A), but Side A's formation/event fields are literally 'Not recorded' and its resolution is the generic reduce-until-contained sentence, while the primary's operational record is much more specific: no scheduled work, no resolution condition, architectural survey/evacuation, seventeen events in old unacknowledged places, foundation→stairwell→living floor without skipping, three unnecessary evacuations upheld, crushed wards bowed eleven months after two years of fatigue complaints. Combat rows 1–3 already follow that record and were retained after separate audit; row 1 needed only its stated all-person scope marked. Row 4 contradicted it with an at-once district discharge at 65%, before the file's sole >80% reading after failure. Breach Escalation said +5 per turn until suppressed while its own note says +10% per confirmed storey rather than per turn and Battle/Consequences say nothing is ever fought or suppressed. Registrum printed both Contained and UNCONTAINED. Flavor made the Mass find a personal grief frequency although Appearance, Breach and Chronicle define indifference/no apparition/no voice. Exact B/C/D Appearance prose supplies functions/costs but no concrete object form, so the primary's structural-material Edge/Veil/Token forms were retained. Every table block passed parsed cell-count equality before and after, and all four Trigger cells parse fifth.",
+      "history": "Draft/local history: first recorded recognition began as unexplained exhaustion; survey found years—Chronicle extrapolates a decade—of seep already in foundations. Seventeen major events, never where grief was fresh; three evacuations on single readings later found unnecessary and upheld; crushed wards bowed eleven months, complaints read as fatigue for two years, stabilised twice and retained for training; Director entered and returned without writing the cost. Exact SE-925 history is deliberately thin: formation/event 'Not recorded'; B/C/D preserve only the attribution rule that treating the response as autobiography reproduced the wound. Fresh equipment credit BARRED: before repair the primary already contained all three ω pieces with exact statistics, two exact costs, structural Use Notes and a bespoke Field Use Record keyed to gauge rounds/deflection. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Origin/resolution fork: SE-925-A leaves formation and event 'Not recorded' and prescribes reducing the Gauge through Viderehan/Ferrehan until containment; the primary states there is no resolution condition, remains UNCONTAINED, and records no event ended by facility action—only floors cleared and four stable watches for site close-out. Neither layer was overwritten. Held.",
+        "Physical-scale fork: Physical Form places a gravity anomaly beneath the Alpha Tree where actual weight doubles/triples and only the Director entered/returned; the operational record treats a centreless volume seeping through many structures where crews work, and the Chronicle says localized gravity is unchanged while structural loads climb. Which description governs which volume is unresolved. Held.",
+        "Doctrine fork inside the primary: the front record says no work is scheduled, gauge falls when the survey is current, and no event ended by anything the facility did; the Sovereign Chronicle calls scheduled lightening rites the only mechanism that lifts the Mass and says the first incident closed as rite gauges fell. The Interaction Record itself says crew gauges fell while the vault interval did not move. Held.",
+        "Acute-event fork: the Sovereign Manifestation Log gives shift-scale events ending in one collective exhalation/pressure wave and normal weight, with wardens kneeling; Appearance/Battle give millimetres per month, permanent deflection, no voice/apparition and structural failure before casualties. No chronology reconciles acute release with slow seep. Held.",
+        "Stigma fork: equipment and SE-925-D give Sorrow Mass's Token, a heavy crystallized grain whose bearer carries an invisible load heavier near unresolved debt; the Chronicle calls the Stigma the *Unburdened Step*, granting lightness and loaded-stair climbing. Both records retained. Held.",
+        "Weapon-use fork: SE-925-B lets the Edge sever an attributed immediate manifestation and the primary Ability describes strikes, while Consequences/Field Use say the set is survey-only and nothing in this holding has ever been fought. Held.",
+        "Generic personal testimonies ('something that knew me', 'Work it once') remain as attributed subjective statements, not doctrine, against the file's indifferent-mass/no-scheduled-work record. Held."
+      ],
+      "split": [
+        5,
+        3
+      ],
+      "repairs": [
+        {
+          "id": "R1-first-weight-area-scope",
+          "kind": "short combat correction",
+          "careful": false,
+          "old": "| { *The First Weight* [**Debuff**] } | \"It arrives as a habit, not as a load: the long way round the stairs, and nobody has reported it.\" | [The volume settles over a working floor, and the gauges disagree with their neighbours before any single series begins to trend.] | *10 Weight to every person inside, logged by instrument ahead of any account from the people themselves.* **[10 Weight DMG [Weight]]** | On the first shift inside the volume, and on every shift after it until the survey reads stable. |",
+          "new": "| { *The First Weight* [**Debuff**] } | \"It arrives as a habit, not as a load: the long way round the stairs, and nobody has reported it.\" | [The volume settles over a working floor, and the gauges disagree with their neighbours before any single series begins to trend.] | *10 Weight to every person inside, logged by instrument ahead of any account from the people themselves.* **[10 Weight DMG [Weight] (AoE)]** | On the first shift inside the volume, and on every shift after it until the survey reads stable. |"
+        },
+        {
+          "id": "R2-weight-collapse-structural-failure",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Weight Collapse* [**Ultimate**] } | \"The weight breaks, and everything it held comes loose: the crushed wards were loaded past endurance before the doctrine existed.\" | [The volume's full load is released through the structure at once, and the structures that carry it worst are the ones built longest ago.] | *17 Weight per turn for three turns to everyone in the district. The ledger's only reading above 80% was taken after the floors had already gone.* **[17 Weight DMG [Weight] (AoE, x3 turns)]** | At 65% gauge; once, and only in a district where the mourning has stopped. |",
+          "new": "| { *The Weight Collapse* [**Ultimate**] } | \"Nothing is released. The members have been bowing for months; failure is only the moment the deflection stops being recoverable.\" | [After the foundation and stairwell stages, an uncleared load reaches the living floor and structural members pass endurance; floors and wards fail in sequence rather than discharging across a district at once.] | *17 Weight per turn for three turns to everyone remaining in the affected structure. The ledger's only reading above 80% was taken after the floors had already gone.* **[17 Weight DMG [Weight] (AoE, x3 turns)]** | When the third-stage living floor is left uncleared until its load-bearing members fail. |"
+        },
+        {
+          "id": "R3-escalation-per-storey",
+          "kind": "short breach correction",
+          "careful": false,
+          "old": "| **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |",
+          "new": "| **Escalation** | Pressure rises by confirmed storey of seep—foundation, stairwell, living floor—rather than by turn; it is not suppressed, only surveyed, cleared and structurally carried. |"
+        },
+        {
+          "id": "R4-no-physical-suppression",
+          "kind": "short breach correction",
+          "careful": false,
+          "old": "- **Containment priority:** Physical suppression required.",
+          "new": "- **Containment priority:** No physical suppression. Read adjacent foundation gauges, keep the deflection survey unbroken, and clear the floor on the first confirmed thickening."
+        },
+        {
+          "id": "R5-Veil-name",
+          "kind": "short equipment correction",
+          "careful": false,
+          "old": "**Bearer cost:** No blow is needed for the mantle to weigh on its bearer; a persistent tiredness gathers under the suit as the mass presses without aiming.",
+          "new": "**Bearer cost:** No blow is needed for the Veil to weigh on its bearer; a persistent tiredness gathers under the suit as the mass presses without aiming."
+        },
+        {
+          "id": "R6-flavor-instrument-before-body",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "The weight register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your weight — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.",
+          "new": "Nothing in the weight register is personal. A gauge disagrees with its neighbours, a dropped tool arrives too soon, and a floor plate carries load that no inventory can account for; the body reports the change later and less accurately than the instruments. A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned."
+        },
+        {
+          "id": "R7-uncontained-status",
+          "kind": "short registry correction",
+          "careful": false,
+          "old": "**Containment Status:** Contained — SECTOR-C-925 · UNCONTAINED",
+          "new": "**Containment Status:** UNCONTAINED — SECTOR-C-925"
+        },
+        {
+          "id": "R8-threat-assessment-load-ledger",
+          "kind": "careful registry correction",
+          "careful": true,
+          "old": "**Threat Assessment:** Catastrophic. A Hazard-Weight entity — the weight register is its defining characteristic. Risk: prolonged exposure to the weight pressure may produce effects not seen in standard weight entities.",
+          "new": "**Threat Assessment:** Catastrophic (ω). Seventeen major pressure events are on the Directorate ledger, none where grief was fresh and none skipping the foundation–stairwell–living-floor sequence. The primary casualty is structural: complaints are filed as fatigue while members deflect, and the crushed wards remain the standing measure of an uncleared third stage."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Vω-925_Sorrow_Mass_압살의_한.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.019  clean   104 grams  Operational Parameters\n 0.013  clean   155 grams  Breach Behavior\n 0.005  clean   383 grams  M.A.W. Equipment\n 0.004  clean   511 grams  기록 (Registrum)\n 0.003  clean   602 grams  Combat Record\n 0.000  clean  3609 grams  Sovereign Chronicle\n 0.000  clean   200 grams  이야기 보고 (Story Log)\n 0.000  clean   187 grams  Appearance\n 0.000  clean   184 grams  감각 묘사 (Flavor Text)\n 0.000  clean   146 grams  관찰 기록 (Observation Log)\n 0.000  clean   144 grams  이야기 (Narratio)\n 0.000  clean   120 grams  Sovereign Manifestation Log\n 0.000  clean   107 grams  Origin\n 0.000  clean    97 grams  Behavior\n 0.000  clean    81 grams  City-Scale Impact & Directorate Posture\n 0.000  clean    54 grams  최종 관찰 (Final Observation)\n 0.000  clean    39 grams  증언 (Testimonium)\n 0.000  clean    35 grams  SECC Classification\n 0.000  clean    15 grams  Trivia\n 0.000  THIN     11 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Weight pressure; 18% against other pressure types |\n   85   1  | { *The Weight Collapse* [**Ultimate**] } | \"Nothing is released. The members have been bowing for months; failure is only the mo\n  164   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per confirmed storey of seep rather than per turn. The crushed wards even\n  198   2  **Effect:** +1 to the working stat on this holding's rounds; the bearer's gauge readings are trusted by one grade, which is the on\n  308   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.002  (10 shared shingles)  SE-C-Vω-925_Sorrow_Mass_압살의_한.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-A__SIDE_CODEX_Sorrow_Mass.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-B__MAW-W_Sorrow_Mass_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-C__MAW-S_Sorrow_Mass_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-D__MAW-G_Sorrow_Mass_s_Token.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-A__SIDE_CODEX_Sorrow_Mass.md": "cf49da21a7cd52c7f31eca6a6b6bbcdfb26e56ab6182f0ad4e7d5efe651c6b58",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-B__MAW-W_Sorrow_Mass_s_Edge.md": "fc409e8575006d6ac056853812637eca4f09653fd880f7fb9a8a88ce4fe377ab",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-C__MAW-S_Sorrow_Mass_s_Veil.md": "5c2b56e3ba80292b1c33be51ea238d4528c3f00a26e260560e8777856461d7b2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-D__MAW-G_Sorrow_Mass_s_Token.md": "a250f5dab2577b4c9679326251fe840ff935e878171188049085d2d246237136"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Vω-925_Sorrow_Mass_압살의_한](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CF%89-925_Sorrow_Mass_%EC%95%95%EC%82%B4%EC%9D%98_%ED%95%9C.md \"SE-C-Vω-925_Sorrow_Mass_압살의_한.md\")]",
+      "table_link": "[[C-Vω-925 Sorrow Mass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CF%89-925_Sorrow_Mass_%EC%95%95%EC%82%B4%EC%9D%98_%ED%95%9C.md \"SE-C-Vω-925_Sorrow_Mass_압살의_한.md\")]",
+      "reading": {
+        "before_lines": 421,
+        "before_bytes": 54094,
+        "final_lines": 421,
+        "final_bytes": 54509
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 25,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequence_change": "The Ultimate's unsupported 65% trigger was replaced by the primary's existing third-stage structural-failure condition; the 10/15/20/17 values and the sole >80% ledger reading were retained. No new statistic was introduced.",
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4
+      }
+    }
+  ]
+}

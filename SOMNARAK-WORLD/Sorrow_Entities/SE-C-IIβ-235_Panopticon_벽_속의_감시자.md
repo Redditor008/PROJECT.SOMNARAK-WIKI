@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-235 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. The affected zone loses definition — colour drains, sound goes, and personnel lose confidence about which corridor they are in. Nothing leaves the occupied fabric. |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Echo (II) — Repeats watching |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Non-Organic — Eyes embedded in walls, ceilings and doorframes, ordinarily open and unblinking. Under Flerehan the section blinks once together; a translucent watcher-figure may coalesce only when the observer accepts being seen. Bloodless-cold walls and an ash smell mark the occupied fabric, not a body walking the rounds. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per watch, drawn from the fabric of a district rather than from a chamber. The Old Lament station's return records it as the cheapest yield in the zone and the only one collected while standing in a corridor being looked at. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **SE Effect** | **On the completion** — Density follows the old Warden rounds exactly, including two corridors bricked up for forty years, where the tally is highest. |
+| **Work Damage** | 1–4 Void — the cost is being ambiently watched from a fabric with no cell and no door |
+| **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -45,13 +47,15 @@
 - Extraction is separately authorised and is cut from plaster around a closed position, never from an open eye.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The Reach is exactly what a Contact Record cannot describe: a limb comes out of the plaster and takes hold of a person. Eleven reaches are on file and four of those were swallowed, and nothing in the dossier denies a single one of them.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.45 m/s |
+| **Speed** | 0 m/s — a place; the watching spreads and the structure does not move |
 | **Resistance** | 25% against Void. There is nothing to resist: the entity is in the plaster, the stone and the shadow of every surface on the old rounds, and the wing has never proposed a measure against the walls of its own building. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 445/445 |
@@ -78,7 +82,7 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Eyes Open* [**Debuff**] } | "You realise the walls have been watching the whole time, and that you had already adjusted to it." | [The watching becomes legible to the worker, who has been inside it since entering.] | *Void pressure; the realisation is the effect, and the gauge records it whether or not it is reported.* **[Void DMG [Void]]** | Within the first half-hour of any watch. |
+| { *The Eyes Open* [**Debuff**] } | "You realise the walls have been watching the whole time. And that you had already adjusted to it." | [The watching becomes legible to the worker, who has been inside it since entering.] | *Void pressure; the realisation is the effect, and the gauge records it whether or not it is reported.* **[Void DMG [Void]]** | Within the first half-hour of any watch. |
 | { *The Whispered Name* [**Debuff**] } | "The walls say your name and there is no mouth to have said it." | [The entity addresses one worker by name through the fabric.] | *Void pressure to that worker; 61 occurrences, and in 54 the name used was one only family would use.* **[Void DMG [Void]]** | When a worker has been on the rounds more than a month. |
 | { *The Reach* [**Attack**] } | "A hand comes out of the plaster, slowly, as though it did not want to startle anybody." | [A limb extends from the wall and takes hold.] | *Void damage to the Soul; eleven recorded reaches, all of them toward somebody who had stopped moving, and none has ever taken hold of anybody who kept walking.* **[Void DMG [Void]]** | When a worker stands still on the rounds for more than a few minutes. |
 | { *The Swallowed* [**Attack**] } | "The wall opens and you understand, late, that it was never solid." | [The worker is drawn partway into the fabric.] | *Heavy Void damage; four occurrences, all four recovered within the hour, and all four workers afterwards described the inside as a corridor they recognised.* **[Void DMG [Void]]** | When somebody is taken hold of and pulls back rather than looking at the wall. |
@@ -87,8 +91,8 @@
 ### Battle Phases
 
 1. **Tension:** The observer walks the old rounds at a steady pace, with the route and the times written before entering. Standing still is the hazard; the whole of the preparation is knowing where you are going next.
-2. **Clash:** There is nothing to close with. The crew works the corridor it is in, acknowledges the gaze aloud at intervals, and keeps the tally; covering an eye raises the gauge and has never once lowered it.
-3. **Resolution:** Look back. The watch closes when the observer has stood in front of a watched surface, looked at it deliberately, and accepted being seen; the gauge falls on that and on nothing else, measured across 211 watches.
+2. **Clash:** There is nothing to close with. The crew works the corridor it is in, acknowledges the gaze aloud at intervals, and keeps the tally. Covering an eye raises the gauge and has never once lowered it.
+3. **Resolution:** Look back. The watch closes when the observer has stood in front of a watched surface, looked at it deliberately, and accepted being seen. The gauge falls on that and on nothing else, measured across eleven years of the watch log.
 
 ### Consequences
 
@@ -137,16 +141,16 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Every eye in the section blinks once, together, which is the only movement the holding has ever made. | Decrease |
-| **Pugnahan** | Nothing. It goes on looking at you throughout, and the gauge does not move by a point. | Stable |
-| **Viderehan** | What the walls have held: the rounds, the entries, the harms recorded as they happened. Gauge holds. | Stable |
-| **Ferrehan** | Standing in it until you stop minding, which takes most Wardens several attempts and cannot be faked. | Decrease |
+| **Flerehan** | Every eye in the section blinks once, together, which is the only movement the holding has ever made. | Decrease · High |
+| **Pugnahan** | Nothing. It goes on looking at you throughout, and the gauge does not move by a point. | Stable · Common |
+| **Viderehan** | What the walls have held: the rounds, the entries, the harms recorded as they happened. Gauge holds. | Stable · Common |
+| **Ferrehan** | Standing in it until you stop minding, which takes most Wardens several attempts and cannot be faked. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-All four Work Types are available and the useful one is Flerehan, which is unusual for a Void holding: weeping where it can see you lowers the gauge by nine to fourteen points, reliably, across 211 watches. The table cannot carry the condition attached to that — it only works if the worker is not performing it, and the wing has no way to measure the difference except the gauge itself.
+All four Work Types are available and the useful one is Flerehan, which is unusual for a Void holding: weeping where it can see you lowers the gauge by nine to fourteen points, reliably, across eleven years of the watch log. The table cannot carry the condition attached to that — it only works if the worker is not performing it, and the wing has no way to measure the difference except the gauge itself.
 
 **Reading the response:** A falling gauge means somebody was seen and let themselves be. It rises on concealment of any kind, including justified concealment, and it rose eleven points in the quarter the wing introduced unannounced inspections of the rounds.
 ## Containment Event Behavior
@@ -176,7 +180,7 @@ All four Work Types are available and the useful one is Flerehan, which is unusu
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : A delicate white porcelain funerary vessel thirty centimeters tall, decorated with cracked blue willow patterns and covered by a loose pewter lid that rattles with internal steam.
+**Appearance:** A delicate white porcelain funerary vessel thirty centimeters tall, decorated with cracked blue willow patterns and covered by a loose pewter lid that rattles with internal steam.
 
 The urn continuously condenses cold sorrow-dew on its exterior surface, which trickles down into a collection tray. Splashing this condensation onto berserk entities pacifies their aggressive hostility.
 
@@ -193,9 +197,9 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Ability:** Void against the Soul. The struck target becomes certain they are being watched and is correct, which fourteen targets have reported as the worst part of it.
 
-**Cost:** Small nameless memories, and specifically the unwitnessed ones — hours the wielder spent alone and can no longer produce.
+**Bearer cost:** Small nameless memories, and specifically the unwitnessed ones — hours the wielder spent alone and can no longer produce.
 
-**Urn custody:** Keep the porcelain vessel and its collected condensation attributed to this local record; neither is an eye cut from the wall or the short-handled Weapon Lens in the separate item file. The Single strike does not turn pacification into unrecorded area coverage, and no Tick interval is supplied here. Before issue seal the bearer’s account of an unwitnessed hour; review it at return and end use when they cannot produce such an hour. Record the missing memory rather than fill it from a wall’s perspective. The separate Lens shutdown cannot be silently applied to the urn as proof of identical form or function.
+**Urn custody:** Keep the porcelain vessel and its collected condensation attributed to this local record. Neither is an eye cut from the wall or the short-handled Weapon Lens in the separate item file. The Single strike does not turn pacification into unrecorded area coverage, and no Tick interval is supplied here. Before issue seal the bearer’s account of an unwitnessed hour; review it at return and end use when they cannot produce such an hour. Record the missing memory rather than fill it from a wall’s perspective. The separate Lens shutdown cannot be silently applied to the urn as proof of identical form or function.
 
 ### M.A.W. Suit — The Watcher's Veil
 
@@ -213,7 +217,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Ability:** Resistance to Void against the Soul, and the only reason a Warden can work a full set of rounds without the name-calling starting.
 
-**Cost:** The wearer feels faintly absent to themselves and checks mirrors more than they used to.
+**Bearer cost:** The wearer feels faintly absent to themselves and checks mirrors more than they used to.
 
 **Veil custody:** A shared Void rating does not make observation into consent. Record the wearer’s absence and any performance freeze separately from the ability to complete the rounds. For care, hang the Veil without recording devices and let the wearer keep the undisclosed fact private rather than turn maintenance into another surveillance return. The helped person or assigned partner addresses the wearer by name, not role, for removal. The linked record’s declared-intervention condition remains attached to that record; a protective piece does not grant the observer an authority the Standing Hand rule withholds.
 
@@ -229,11 +233,11 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Ability:** Reveals what a structure has witnessed.
 
-**Cost:** The wearer cannot forget anything they observe through it.
+**Bearer cost:** The wearer cannot forget anything they observe through it.
 
 *Twelve lenses exist. Each formed at the moment a Warden acknowledged the gaze aloud for the first time, and the wing issues them without ceremony because a presentation would require an audience.*
 
-**Stigma Lens custody:** This Head-slot glass is distinct from the Weapon Lens despite the shared title. Record the structure’s viewing position and the blind areas with another witness; what a wall could see is not the whole event and does not pick a culprit. If old scenes overlay present walls, rest the Lens against an unwitnessing surface until the current room is primary again. In emergency cover the bearer’s sight with neutral cloth and move beyond the recorded structure. Do not shatter the lens: the linked failure projects its permanent scene to nearby people rather than releasing the bearer from the memory.
+**Stigma Lens custody:** This Head-slot glass is distinct from the Weapon Lens despite the shared title. Record the structure’s viewing position and the blind areas with another witness. What a wall could see is not the whole event and does not pick a culprit. If old scenes overlay present walls, rest the Lens against an unwitnessing surface until the current room is primary again. In emergency cover the bearer’s sight with neutral cloth and move beyond the recorded structure. Do not shatter the lens: the linked failure projects its permanent scene to nearby people rather than releasing the bearer from the memory.
 
 ### M.A.W. Use Notes
 
@@ -250,7 +254,7 @@ Every piece was taken out of a wall that was watching, and the set hands that ca
 
 **Stat interpretation:** The grade measures extraction stability and misses the trade entirely: this set buys sight through walls and is paid for in the parts of a life nobody else saw. Authorise on the sealed hour.
 
-**Full-set source review (2026-10-13):** Reviewed the `— · β` overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side `SE-235-A` (`C-IIβ-235 [VS]`, `4/4`), items `SE-235-B/C/D` (`MAW-W/S/G-235-01`), Master Registry rows 518–521, Master M.A.W. rows/details 139–141, Entity Codex row 411 / Tale 47, and archetype `MAW-W-235`. The overview grade is supported by all three local pieces and linked records. Weapon core values (Void 5–9 / Normal 2 / Short 2 / max 4 / 25 Echoes) align locally and with Side A/B; hold the local porcelain *Torn Spirit-Urn* and W-235 reliquary index against Side/item B and Master Entry 139’s short-handled *Watcher’s Lens* disc. No transition or numeric-prefix crosswalk resolves the form. Suit values align. Stigma Head / 5% align and its effect now names +1 Composure from Side A/D; the Registry’s generic Accessory category does not override the explicit slot. Side A assigns `SE-235` to Panopticon and explicitly defers Myrmidon `O-IIβ-235`; its repeated local urn title is not this item. Weapon and Stigma *Watcher’s Lens* remain distinct B/D records. No linked evidence was changed.
+**Full-set source review (Year 4238):** Reviewed the `— · β` overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side `SE-235-A` (`C-IIβ-235 [VS]`, `4/4`), items `SE-235-B/C/D` (`MAW-W/S/G-235-01`), Master Registry rows 518–521, Master M.A.W. rows/details 139–141, Entity Codex row 411 / Tale 47, and archetype `MAW-W-235`. The overview grade is supported by all three local pieces and linked records. Weapon core values (Void 5–9 / Normal 2 / Short 2 / max 4 / 25 Echoes) align locally and with Side A/B. Hold the local porcelain *Torn Spirit-Urn* and W-235 reliquary index against Side/item B and Master Entry 139’s short-handled *Watcher’s Lens* disc. No transition or numeric-prefix crosswalk resolves the form. Suit values align. Stigma Head / 5% align and its effect now names +1 Composure from Side A/D. The Registry’s generic Accessory category does not override the explicit slot. Side A assigns `SE-235` to Panopticon and explicitly defers Myrmidon `O-IIβ-235`; its repeated local urn title is not this item. Weapon and Stigma *Watcher’s Lens* remain distinct B/D records. No linked evidence was changed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -285,7 +289,7 @@ Tally 2,431 eyes across the mapped frontage, after 1,886 and 1,402. Plan redrawn
 Eyes appear throughout connected structures. Personnel feel exposed and unable to keep secrets. They record actions but do not produce verdicts.
 
 **Entry 3 — <Inspectorate Office, standing rule>**
-An observer does not act. A person assigned to watch records what they see and reports it; the power to stop, order, remove or remedy belongs to the acting office and to no one else. No observer may intervene in any circumstance.
+An observer does not act. A person assigned to watch records what they see and reports it. The power to stop, order, remove or remedy belongs to the acting office and to no one else. No observer may intervene in any circumstance.
 The grief of being observed by systems that never helped.
 
 **Entry 4 — <Containment Notice>**
@@ -330,15 +334,15 @@ Panopticon must be distinguished from the holdings it is filed near. The Observi
 
 | Related entity | What it is | What the boundary did | Required record |
 |---|---|---|---|
-| **The Observing Bird** | The Bird works the ground the walls do not cover and will not remain in a section where the tally is high; it leaves within the hour, every time. | No change in the tally. The Bird's withdrawal distance has been consistent across six pairings. | Record the withdrawal. Do not force it; the Bird's own gauge climbs when held in place. |
-| **The Whispering Walls** | The Walls supply sound to a holding that has never made any. Personnel in the section report hearing their own recorded conduct described back to them, flatly and without judgement. | Severe identity pressure; four withdrawals from a single pairing. | Not to be repeated. The prohibition is in the rotation standing orders, not merely in this file. |
-| **The Weighting Bird** | The Bird treats what the walls hold as material and weighs it. This is the only recorded instance of anything whatever being done with this holding's observations. | Tally unchanged; the Bird's own gauge falls sharply and stays down. | Record both gauges. The Research wing's standing request to repeat it is refused each year on welfare grounds. |
+| [**The Observing Bird**](SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | The Bird works the ground the walls do not cover and will not remain in a section where the tally is high. It leaves within the hour, every time. | No change in the tally. The Bird's withdrawal distance has been consistent across six pairings. | Record the withdrawal. Do not force it; the Bird's own gauge climbs when held in place. |
+| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | The Walls supply sound to a holding that has never made any. Personnel in the section report hearing their own recorded conduct described back to them, flatly and without judgement. | Severe identity pressure; four withdrawals from a single pairing. | Not to be repeated. The prohibition is in the rotation standing orders, not merely in this file. |
+| [**The Weighting Bird**](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) | The Bird treats what the walls hold as material and weighs it. This is the only recorded instance of anything whatever being done with this holding's observations. | Tally unchanged; the Bird's own gauge falls sharply and stays down. | Record both gauges. The Research wing's standing request to repeat it is refused each year on welfare grounds. |
 
 **Interaction procedure:** Tally before and after by the same two counters, the plan to hand, acknowledgements logged throughout, and an immediate withdrawal order on any Warden who stops speaking.
 
 ## 이야기 (Narratio) — The Tale
 
-They watched, and recorded, and never helped, and the watching became eyes in the walls that watch still.
+There were people who watched, and recorded, and never helped, and the watching became eyes in the walls that watch still.
 
 The Wardens are the city's observers. They patrol. They record. They log every danger, every Fracture-risk, every unstable citizen, every gathering the Council might want to know about. The Wardens are thorough. And the Wardens, by long standing order, do not intervene. They watch. They document. They file. The prevention of the dangers they record is someone else's responsibility — usually no one's — and the Wardens, over generations, became a vast network of eyes that saw everything and stopped nothing.
 
@@ -368,14 +372,14 @@ Some sorrows are about what was done. The Watcher's sorrow is about what was see
 **Common Name:** Panopticon
 **Containment Status:** Ambient — Zone B, Old Lament (fixed in the fabric; spreads, does not travel)
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It has never acted against anybody and it does not need to; the hazard is identity, and the casualties are Wardens who began performing for it. Effect: being seen by something that will never do anything about what it sees.
+**Threat Assessment:** Moderate (β). It has never acted against anybody and it does not need to. The hazard is identity, and the casualties are Wardens who began performing for it. Effect: being seen by something that will never do anything about what it sees.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type and Ferrehan the alternate; Viderehan is run for the record and Pugnahan is inert against plaster.
 - It cannot be contained and is not meant to be. The containment is a mapped frontage, a tally and a rotation limit.
 **Observation Notes:**
 - Formed from generations of Wardens who watched accurately and were forbidden to intervene, which is not the same thing and is the whole of the file.
 - The eyes do not blink, and the observation books they came from are complete, legible and correct in every particular.
-**Cross-References:** Zone B, Old Lament · The Wardens · The Veil · The Weighting Bird · the Inspectorate rule on non-intervention · the Standing Hand rounds
+**Cross-References:** Zone B, Old Lament · The Wardens · The Veil · [The Weighting Bird](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) · the Inspectorate rule on non-intervention · the Standing Hand rounds
 **Faction Involvement:** UCD hold the Old Lament as Fray-adjacent and have asked three times for the watching to be used — as surveillance, formally proposed, with a costed scheme. Refused three times. The proposals are in this file and the last of them was competent enough that the wing's refusal runs to two pages.
 **Originator:** Generations of Wardens who observed without acting.
 
@@ -406,15 +410,15 @@ Wardens observed citizens for generations and recorded danger without acting on 
 
 Two thousand four hundred and thirty-one eyes, after 1,886 and 1,402. Two counters work from opposite ends of the mapped frontage and meet in the middle, and the figure goes in the book with the plan amendments beside it. Nothing else about the holding has changed: the distribution still follows the old Warden rounds, the eyes still do not blink, nothing has ever been done about anything they have seen. The tally does not follow the Tide, the works programme or the rotation. It follows one line in the Inspectorate's annual return: recorded observations in which the hazard caused the harm before the acting office reached it.
 
-An observer at this Company does not act. A person assigned to watch — safety watch, audit, the Old Lament rounds — records what they see and reports it, and the power to stop a line, remove a man, order a repair or seize a thing belongs to the acting office alone. The separation is deliberate and it is not stupid. When the eye and the hand were the same person, that person was an inspectorate of one: he could fine you where you stood, stop your shift on his own view of the matter, or decline to, and the difference was the relationship you had with him. The 4186 inquiry found 47 inspectors taking money for not acting and a further 19 acting where no fault existed, and it found that neither could be proved either way, because the man who decided what had happened was the man who decided what to do about it. Splitting them ended on-the-spot discretion in a single stroke. Nobody serious wants it back.
+An observer at this Company does not act. A person assigned to watch — safety watch, audit, the Old Lament rounds — records what they see and reports it, and the power to stop a line, remove a man, order a repair or seize a thing belongs to the acting office alone. The separation is deliberate and it is not stupid. When the eye and the hand were the same person, that person was an inspectorate of one: he could fine you where you stood, stop your shift on his own view of the matter, or decline to. And the difference was the relationship you had with him. The 4186 inquiry found 47 inspectors taking money for not acting and a further 19 acting where no fault existed. And it found that neither could be proved either way, because the man who decided what had happened was the man who decided what to do about it. Splitting them ended on-the-spot discretion in a single stroke. Nobody serious wants it back.
 
-Its consequence is a corridor in which the only person present is the one person forbidden to help. He sees the hazard. He is competent; he is often the most competent person in the building about exactly this; he writes it down accurately, in good handwriting, with the time, and he reports it, and then he stands there. The acting office comes when it comes. The Old Lament books are full of entries where the outcome has been added underneath afterwards in the same hand, which means the man who wrote the warning was still on the round when it happened and wrote that down too. Four generations of those books are in the commissioning file. The facility has kept them because the holding is made of them.
+Its consequence is a corridor in which the only person present is the one person forbidden to help. He sees the hazard. He is competent; he is often the most competent person in the building about exactly this. He writes it down accurately, in good handwriting, with the time, and he reports it, and then he stands there. The acting office comes when it comes. The Old Lament books are full of entries where the outcome has been added underneath afterwards in the same hand, which means the man who wrote the warning was still on the round when it happened and wrote that down too. Four generations of those books are in the commissioning file. The facility has kept them because the holding is made of them.
 
 ### The Standing Hand
 
 Instituted Year 4225. On rounds graded high-risk, an officer of the acting office walks with the observer. The hand is there to act and the eye is there to see, and the moment the observer hands over a written note the hand may do whatever the note supports, on the spot.
 
-Year 4237: 3,988 notes handed over; 2,104 acted on; forty minutes' median interval between the sighting and the act, most of it spent writing; 341 recorded observations in which the harm arrived first, which is the figure the Old Lament watch sets the tally against; and the establishment covering roughly one round in nine, because an acting officer walking a corridor is an acting officer not doing the work of the acting office.
+Year 4237: 3,988 notes handed over. 2,104 Acted on; forty minutes' median interval between the sighting and the act, most of it spent writing. 341 Recorded observations in which the harm arrived first, which is the figure the Old Lament watch sets the tally against. And the establishment covering roughly one round in nine, because an acting officer walking a corridor is an acting officer not doing the work of the acting office.
 
 The costs are in the scheme's own standing note and they are not softened. The note must be written: a spoken warning is an observer intervening, and the whole scheme fails the moment the eye's voice can move the hand, so a man who can see the stay giving way spends two minutes writing about it. The hand may not act on anything they see themselves, only on what the note says, because a hand that uses its own eyes is an inspector and the inspector is what 4186 abolished. And eight rounds in nine have no hand at all, so for most of the establishment the arrangement is a thing other people have.
 
@@ -433,7 +437,7 @@ The observers asked for one power: immediate stoppage where life is at risk, exe
 - **Field detail:** Void, ambient through the fabric of eleven corridors in Old Lament, Zone B, bounded in chalk on the floor.
 - **Recognition detail:** Eyes set in plaster, ceiling and doorframe, open and unblinking, cold to stand near, with ash on the air. A translucent figure appears only to somebody who has stopped minding.
 - **Record detail:** The Registrum placed this holding in Zone D against a Zone B header and attributed the personnel note to a Zone D Warden who has never worked it. Both errors are on the file, reported twice, and uncorrected; they are retained here so that nobody re-discovers them as findings.
-- **Containment detail:** There is nothing to contain. The holding is the building's own fabric on eleven corridors; the only boundary the wing maintains is a chalk line on the floor, redrawn quarterly, which records where the watching has reached rather than limiting it.
+- **Containment detail:** There is nothing to contain. The holding is the building's own fabric on eleven corridors. The only boundary the wing maintains is a chalk line on the floor, redrawn quarterly, which records where the watching has reached rather than limiting it.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-235

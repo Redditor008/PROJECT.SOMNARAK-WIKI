@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-145 [GP]`  
 **Author:** Researcher Euncris Park  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — memorial-thicket injury acknowledgment protocol
 
@@ -61,10 +61,10 @@ Every flower is turned toward a visitor like an eye. The thorns respond more to 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Tears without acknowledgment do not disarm the thorns. |
-| Pugnahan | Invalid for this Place entity. | N/A | Do not cut vines or force a path open. |
+| Flerehan | Works, and loosens nothing: grief offered plainly slows the reach for a watch, and the thicket stops advancing without softening. | Decrease | Tears without acknowledgment do not disarm the thorns. |
+| Pugnahan | Not authorised. Force is the thing the garden grew in answer to, and every recorded attempt has extended the reach along the bearing it was applied from. | Increase | Do not cut vines or force a path open. |
 | Viderehan | Shows the grievance behind each flower. | Stable | Name the injury only with the affected person’s consent or source record authority. |
-| Ferrehan | Allows passage if the worker endures the thorns. | Down | Use protected clothing and accept that a path cannot be demanded without cost. |
+| Ferrehan | Allows passage if the worker endures the thorns. | Decrease | Use protected clothing and accept that a path cannot be demanded without cost. |
 
 ### Expansion response
 
@@ -85,9 +85,9 @@ The set turns emotional pain into defense. Its cost is proximity: when grief is 
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Briar-Spool Needle Gun | γ | Grudge | Skewer response to repeated harm and active coercion | `SE-145-B__MAW-W_The_Thorn_Fang.md` |
+| Weapon | The Briar-Spool Needle Gun | γ | Grudge | Skewer response to repeated harm and active coercion | `SE-145-B__MAW-W_The_Briar_Spool_Needle_Gun.md` |
 | Suit | The Thorny Bramble Hauberk | γ | Grudge | Grudge defense with a boundary-respecting cost | `SE-145-C__MAW-S_The_Thorn_Plate.md` |
-| Stigma | The Piercing Briar Coronet | γ | Grudge | Converts emotional pain into defensive thorns | `SE-145-D__MAW-G_The_Thorn_Crown.md` |
+| Stigma | The Piercing Briar Coronet | γ | Grudge | Converts emotional pain into defensive thorns | `SE-145-D__MAW-G_The_Piercing_Briar_Coronet.md` |
 
 ---
 
@@ -171,13 +171,3 @@ The set turns emotional pain into defense. Its cost is proximity: when grief is 
 **Entity links:** The Sorrow Flower; The Angry Maiden; The Grieving Fountain.  
 **Garden rule:** A memorial flower is never trimmed for extraction, beautification, or path clearance.  
 **Item links:** `SE-145-B`, `SE-145-C`, and `SE-145-D` contain the individual injury, boundary, and corrosion histories for Protected Bloom.
-
----
-
-**Document ID:** `SE-145-A`  
-**Linked Entity:** `SE-145`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

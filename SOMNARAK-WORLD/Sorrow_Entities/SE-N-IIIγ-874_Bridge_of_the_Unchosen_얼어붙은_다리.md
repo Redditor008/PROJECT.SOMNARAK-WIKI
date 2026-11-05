@@ -7,15 +7,15 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-874 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on regret focused on an unchosen path |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A bridge of pale crystal frozen suspended above the ground with no river beneath it, its far end lost in frost. Bloodless-cold, it smells of ash; it leads somewhere, but the frost hides where. |
-| **Movement** | Stationary — a structure or location. |
+| **Physical Form** | Non-Organic |
+| **Movement** | Fixed; annual survey, no variance in sixty years. Span and clearance are measured each session and both figures are known to mean nothing. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -28,13 +28,15 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **SE Effect** | **On the wall** — Unresolved, the survey is retaken; nothing moves, nothing breaks and nothing leaves, and the record continues without a single variance. |
+| **Work Damage** | 3–5 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a crossing that carries only those who did not choose it. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 75%, reached on regret focused on an unchosen path. No count is listed |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
+| **Vessel-Destructible** | No — the deck has never shed a stone in sixty years of record, and nobody goes past the third stone. |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | On Bridge of the Unchosen: hold the probe series unbroken and enforce the Counterfactual Rule across every board of this facility that issues a finding. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
@@ -45,58 +47,64 @@
 - There is no breach counter. Crossing is not used for access under standing order, and the deck is treated as a structural load only.
 - Residue is recovered from the deck under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 699/699 |
-| **Han Pressure [ATK]** | 17–39 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Bridge is fixed, surveyed annually, and has not varied in sixty years. Its own rows say the rest: *no shard has ever broken free, the deck has not shed a stone, and the span is never struck*. What it does is stand where an unchosen path would have gone, and what it does to a crew is make a possibility look like a history.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A frozen span in the Echo Gardens, measured every session, with a deck that has held its shape since before the survey began |
+| **Perceptible to** | The deck first — a foot set on it does not continue — and then the regret of whoever is standing on it |
+| **Activation threshold** | Sorrow Gauge ≥ 75%, reached on regret focused on an unchosen path. No count is listed |
+| **Sorrow Gauge [Saturation]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Acknowledge possibility without treating it as history |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Iced Span* [**Debuff**] } | "The bridge is sealed in permafrost — every plank, every cable, frozen solid and impossible to cross." | [The Bridge's ice-lock denies passage; the target is trapped on one side.] | *Target suffers a Void mark; the crossing is impossible.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Bridge. |
-| { *The Deepening Cold* [**Debuff**] } | "The ice thickens — and the cold extends outward, freezing the air itself." | [The Bridge's permafrost spreads; the target is being sealed in.] | *Target loses clarity; the cold is everywhere.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Ice-Lance* [**Attack**] } | "A shard of the frozen bridge breaks free — ancient, sharp, and colder than anything natural." | [An ice-splinter from the Bridge strikes.] | *Inflicts Void damage; the ancient cold erodes warmth.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bridge is struck. |
-| { *The Full Shatter* [**Attack**] } | "The entire frozen bridge detonates — ice and wood and void, in every direction." | [The Bridge's permafrost fails catastrophically.] | *A heavy Void ice-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Bridge is broken. |
-| { *The Frozen Crossing* [**Ultimate**] } | "The ice spreads to every bridge in the field — and without crossings, every side is cut off." | [The Bridge extends its freeze across the whole area.] | *All in range suffer Void erosion for three turns of frozen crossings.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Bridge does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Iced Span* [**Register**] } | Takes a step and does not continue it: the foot stays where it was set, and the prohibition is three stones wide. | The end of the walk, at a place where the deck visibly goes on. | The span and the clearance are measured every session and both are known to mean nothing. |
+| { *The Deepening Cold* [**Exposure**] } | Frosts to four millimetres and to ninety-six and looks the same either way. Three early reports describe the deck as unchanged under both readings. | A cold that gives no reading by eye, and a survey that has to be trusted over the senses. | The instrument is the record. The file's own warning is that the frost is not a gauge. |
+| { *The Finding* [**Exposure**] } | Nothing physical. What breaks in a bad session is a finding: twenty-two of the surveyed crossings turn out to have been read from the wrong station. | A corrected survey, and a crew that has to re-enter what it already concluded on the deck. | The span is never struck and never sheds. The failure mode is arithmetic. |
+| { *The Five Bridges* [**Refusal**] } | Does not travel to the other bridges. Five are held in this wing, they behave nothing alike, and none of them has ever moved. | The temptation to generalise from this span to another, which the file refuses in a row of its own. | The frozen crossing is not a spreading event. What spreads is the inclination to compare. |
 
-1. **Tension:** The frost probe goes into the deck at the third stone and the depth is written before anything else. Thirty millimetres is baseline; the recorded range is four to ninety-six. The probe point is fixed, marked, and has not moved in sixty years, because a depth taken somewhere else is not a reading, it is a number.
-2. **Clash:** Viderehan and Ferrehan from the near end only. Nobody goes past the first three stones; the prohibition is absolute, it was imposed before the first incident rather than after one, and the file notes that as unusual. Steps taken on the deck do not continue — the foot stays where it was set — and that has only ever been confirmed at the near end because nobody has been allowed further.
-3. **Resolution:** The session closes on a second probe and the documented condition: **Acknowledge possibility without treating it as history.** The worker may say that the crossing was available. The worker may not say what would have happened on the other side of it. The distinction is the whole holding and it is harder to keep than it reads.
+### Watch Sequence
+
+1. **What is confirmed:** the span, the clearance, and the station the readings are taken from — with last year's figures beside the instrument, because the deck has no variance to show by eye.
+2. **What the watch does:** two probes at the documented stations and a worker who may say the crossing was available. The worker may not say what would have happened on it.
+3. **How it closes:** against the file's documented suppression condition: **Acknowledge possibility without treating it as history** — with the second probe entered beside the first and the disagreement, if there is one, recorded rather than argued.
 
 ### Consequences
 
-- Composure fails here in the direction of certainty. The worker becomes sure of what the other path held — not wistful, sure — and begins describing it in the past tense as something that was taken from them. The gauge rises with every such sentence and the worker is not aware of having said one.
-- Long exposure produces a reviewer who writes conclusions the evidence does not carry. Three Wardens rotated off this holding were afterwards found to have issued findings stating what would have happened had a different order been given, and all three findings had to be withdrawn.
-- The ring shows a target the option they did not take, standing open, at the moment it was open. It does not show them the outcome of it. That restraint is designed into the piece and is the only reason it is still issued.
-- An unresolved session leaves the frost deeper at the next reading and the holding does not treat that as an escalation. The deck has never extended, never shed a stone, and never reached past its own abutments in sixty years of record.
+- A worker who treats the crossing as a history takes the regret with them: the file records it as a grief for a life they did not lead, carried out of the Echo Gardens and into the shift.
+- Long attendance produces the wing's own state: crews who cannot stop comparing the five bridges, and who begin to read the span as a moral question rather than a survey.
+- The set is cut from a span that has never been crossed and carries that: the veil keeps the cold off, the lens shows the deck as measured rather than as remembered. And the weapon is heavy in a way that has nothing to do with its weight.
+- Unresolved, the survey is retaken. Nothing moves, nothing breaks and nothing leaves, and the sixty-year record continues without a single variance.
 
 ## Appearance
 **Physical Form:** A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost.
@@ -107,8 +115,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost.
-- **Position / movement:** Fixed, surveyed annually, and the survey has never found a variance. Span and clearance are measured every session and both figures are meaningless; they are taken because a holding that produces no numbers stops being watched, and the file says so in one sentence rather than defending it at length.
+- **Position / movement:** Fixed, surveyed annually, and the survey has never found a variance. Span and clearance are measured every session and both figures are meaningless. They are taken because a holding that produces no numbers stops being watched, and the file says so in one sentence rather than defending it at length.
 - **Element signature:** Void
 - **Registered location:** Zone D, Echo Gardens
 
@@ -116,13 +123,12 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost. |
 | **Position / movement** | Fixed; annual survey, no variance in sixty years. Span and clearance measured each session and both figures are known to mean nothing. |
 | **Material / signature** | Void. Pale crystal, bloodless-cold, smelling of ash, carrying a frost that does not answer to temperature and has never melted at any air reading taken on the site. |
-| **Distinctive markers** | The marked probe point at the third stone; the far end lost in frost at every angle ever tried; the absence of any river, channel or watercourse in the record of the ground beneath. |
+| **Distinctive markers** | The marked probe point at the third stone. The far end lost in frost at every angle ever tried. The absence of any river, channel or watercourse in the record of the ground beneath. |
 | **Identification** | Probe depth against the last session's. Do not identify on the look of the frost; it is visually identical across its whole recorded range. |
 
-**Appearance protocol:** Depth at the third stone, to the millimetre, before anything else. Then the span, the clearance, and the state of the far end. Written impressions of what lies beyond the frost are logged and are never acted on; there are two hundred of them in the folder, they disagree with each other entirely, and each describes something the observer wanted.
+**Appearance protocol:** Depth at the third stone, to the millimetre, before anything else. Then the span, the clearance, and the state of the far end. Written impressions of what lies beyond the frost are logged and are never acted on. There are two hundred of them in the folder, they disagree with each other entirely, and each describes something the observer wanted.
 
 ## Origin
 - **Formation:** The Bridge formed from a crossing that was never taken.
@@ -131,37 +137,28 @@
 - **The People:** One man, named in the commissioning file, and the people on the far side he was trying to reach, who are named in the district roll and not in this record. The file holds the preparations he made for the crossing — the arrangements, the provisions, itemised in the quantities in which they were bought — and nothing at all about what the far side would have been if he had gone.
 - **Expanded origin context:** The commissioning file holds everything about the crossing except the crossing. The arrangements, the preparations, the provisions bought and still in storage and itemised to the quantity — all of it ordinary, all of it done. What it does not hold, and what no inquiry has supplied, is any account of what the far side would have been. That absence is the entity. The frost does not thicken because a man turned back; it has never once responded to anything done or not done by any individual. It thickens when this facility writes down what would have happened on a road nobody took, and it does so whether the sentence is cruel or kind, whether it blames or forgives, and whether or not the person who wrote it believed it. The Tale section of this very file is written in the forbidden register throughout. It has been retained unaltered, with this note attached, because the wing decided that the clearest available example of the harm should not be hidden inside the record of it.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A frozen span in the Echo Gardens, measured every session, with a deck that has held its shape since before the survey began. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows the choice at the center of the crossing. | Stable |
-| **Ferrehan** | Tests whether the worker can cross without claiming the alternative life. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the span, the clearance, and the station the readings are taken from — with last year's figures beside the instrument, because the deck has no variance to show by eye. |
+| **Handling** | Two probes at the documented stations and a worker who may say the crossing was available. The worker may not say what would have happened on it. — see `## Handling Process` |
+| **Withdrawal** | Against the file's documented suppression condition: **Acknowledge possibility without treating it as history** — with the second probe entered beside the first and the disagreement, if there is one, recorded rather than argued. |
+| **Refusal** | The temptation to generalise from this span to another, which the file refuses in a row of its own. |
 
-
-### Operational Work Notes
-
-Viderehan holds steady and shows the worker the choice itself — the moment, open, with both ways still available — and it shows nothing beyond it, ever, to anyone. Ferrehan lowers the gauge and the test it sets is precise: can the worker stand on the first three stones without claiming the other life. Workers who say the crossing was possible pass. Workers who say what the crossing would have given them do not, and the gauge records the difference immediately and without ambiguity. Neither Work Type touches the probe depth, which answers to the Review Board.
-
-**Reading the response:** The gauge measures one worker's grammar for the length of one session. The probe measures what the facility has published. They are kept in separate columns and have never moved together, and the standing instruction to supervisors is that a session which lowers the gauge and leaves the frost deeper has been worked correctly and should be written up as a success without qualification.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **Special activation — no counter.** Filed trigger: *"regret focused on an unchosen path"*.
 
-**Activation Trigger:** Regret focused on an unchosen path.
 
-**Effect:** The frost advances past the third stone and the far end becomes marginally clearer — never clear, marginally clearer — and every operative present afterwards reports a different thing resolving out of it.
 
-**Duration:** While equipped. The relic will not release from a bearer who has an unwithdrawn finding of their own stating an outcome for a course not taken. There is no injury in the refusal and no warning; it simply stays on.
 
-**Risk:** The bearer becomes certain. Of the six long-term bearers, four afterwards wrote findings that had to be withdrawn, and in each case the withdrawn sentence was the only one in the document stating a result rather than an option.
 
+> **A finding may state what was done, what was not done, what was available, and what was known at the time.**
+> **It may not state what would have happened had another course been taken.**
+> **You have found a principled reason to stop apologising. — family representative, at the consultation**
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -169,10 +166,10 @@ Viderehan holds steady and shows the worker the choice itself — the moment, op
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Regret focused on an unchosen path. |
-| **Primary Effect** | Frost advances past the third stone; the far end clarifies slightly and differently for every observer present. |
-| **Duration** | While equipped; will not release from a bearer holding an unwithdrawn counterfactual finding. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
-| **Risk** | Progressive certainty about unexamined outcomes. Four of six long-term bearers issued findings that were later withdrawn. |
+| **Primary Effect** | Frost advances past the third stone and the far end becomes marginally clearer — never clear, marginally clearer — and every operative present afterwards reports a different thing resolving out of it. |
+| **Duration** | While equipped. The relic will not release from a bearer holding an unwithdrawn finding of their own that states an outcome for a course not taken. There is no injury in the refusal and no warning, it simply stays on. |
+| **Termination / Return** | Returned the same evening unless the bearer holds an unwithdrawn finding stating an outcome for a course not taken, in which case it simply stays on. There is no injury in the refusal and no warning. |
+| **Risk** | The bearer becomes certain. Of the six long-term bearers, four afterwards wrote findings that had to be withdrawn, and in each case the withdrawn sentence was the only one in the document stating a result rather than an option. |
 
 **Operational Rule:** The relic is carried by the officer presenting a finding to a hearing, on the day they present it, and returned the same evening. It has no field application, has never been issued for one, and the three requests to take it past the Gardens perimeter are all in the folder with their refusals.
 
@@ -182,12 +179,12 @@ Viderehan holds steady and shows the worker the choice itself — the moment, op
 |---|---|---|
 | 10 Seconds | The seven chalices stop orbiting and hang still, aligned on one person in the room. | Alignment is the bearer's only aiming control. It cannot be overridden and twice it has chosen the bearer. |
 | 30 Seconds | The aligned person sees an option they genuinely had, at the moment they had it, open. They do not see where it went. | Composure drifts in both of them. Ask the bearer to state what they do not know about the situation under review, and log the answer. |
-| 1 Minute | The bearer begins to supply the ending. It is confident and it is theirs, not the ring's. | 5 Void damage every 15 seconds past the minute. Stop the bearer talking. The piece has never produced an outcome and the bearer will insist that it did. |
+| 1 Minute | The bearer begins to supply the ending. It is confident and it is theirs, not the ring's. | Stop the bearer talking; nothing is metered here except sentences, and the first one in which they supply an ending is timed and transcribed. The piece has never produced an outcome and the bearer will insist that it did. |
 | 2 Minutes | The bearer can no longer distinguish the option they were shown from an account of what followed it. | Remove the ring and read them their own pre-use statement of what they do not know. It works, it is humiliating, and no substitute has been found in forty years. |
 
 ### Escalation Notes
 
-Nothing escalates at the Gardens. The deck has not moved, not lengthened, not shed a stone, and not harmed anyone in sixty years of continuous record, and the holding states that plainly rather than implying a danger it cannot evidence. What escalates is the depth, and the depth escalates in a hearing room. A team that treats a deep reading as a containment event will stand on the near end in the cold and find nothing; the event happened when a finding was signed.
+Nothing escalates at the Gardens. The deck has not moved, not lengthened, not shed a stone, and not harmed anyone in sixty years of continuous record, and the holding states that plainly rather than implying a danger it cannot evidence. What escalates is the depth, and the depth escalates in a hearing room. A team that treats a deep reading as a containment event will stand on the near end in the cold and find nothing. The event happened when a finding was signed.
 
 **Response sequence:** Probe the frost, photograph the near end, and pull every finding issued by this facility in the preceding week. Read each for a sentence beginning *had we* or *would have*. There is no perimeter to establish; the deck has never moved and the hazard is not at the Gardens.
 
@@ -211,9 +208,9 @@ Nothing escalates at the Gardens. The deck has not moved, not lengthened, not sh
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : A floating halo ring of seven small frosted crystal goblets orbiting at eye level, each vessel filled with a bead of luminous blue starlight that never evaporates.
+**Appearance:** A floating halo ring of seven small frosted crystal goblets orbiting at eye level, each vessel filled with a bead of luminous blue starlight that never evaporates.
 
-The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapping any chalice releases a chime that freezes moisture in the air into falling geometric snowflake blades.
+The chalices rotate in a smooth horizontal circle sixty centimeters across. Their chime is addressed to one person — a second person standing in the same room hears bells — and nothing falls from it but an option, shown open at the moment it was open and never one step beyond.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -228,7 +225,7 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 **Ability:** Deals Void damage to the Soul. The ring shows the target one option that was genuinely available to them, at the moment it was available, standing open. It does not show them where it led. The armoury's note is that every attempt to extend the piece to show outcomes has failed, and that the failures are the reason it is trusted.
 
-**Cost:** The wielder loses the ability to let a question stay open. Decisions get made faster and earlier, and colleagues report the change as decisiveness for about a year before anyone calls it what it is.
+**Bearer cost:** The wielder loses the ability to let a question stay open. Decisions get made faster and earlier, and colleagues report the change as decisiveness for about a year before anyone calls it what it is.
 
 ### M.A.W. Suit — Bridge of the Unchosen Shield
 
@@ -236,7 +233,7 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 **Appearance:** a shield-backed harness of Void Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
-It is fitted only under a spoken event: the wearer names the crossing that was abandoned and accepts the limit that comes with the naming — acknowledge possibility without treating it as history — and the harness will carry them across an obstruction once the second half of that sentence is on the record. Transit is permitted and tenancy refused; a wearer who begins describing the abandoned crossing as a life that was owed finds the glass clouding at the shoulders and the weight of every road not taken arriving at once instead of by degrees. The piece is rested only when a Warden signs the attribution entry, and a violation of the limit reverses the benefit and raises the source's gauge.
+It is fitted only under a spoken event: the wearer names the crossing that was abandoned and accepts the limit that comes with the naming — acknowledge possibility without treating it as history — and the harness will carry them across an obstruction once the second half of that sentence is on the record. Transit is permitted and tenancy refused. A wearer who begins describing the abandoned crossing as a life that was owed finds the glass clouding at the shoulders and the weight of every road not taken arriving at once instead of by degrees. The piece is rested only when a Warden signs the attribution entry, and a violation of the limit reverses the benefit and raises the source's gauge.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -248,7 +245,7 @@ It is fitted only under a spoken event: the wearer names the crossing that was a
 
 **Ability:** Allows a brief crossing through emotional obstruction.
 
-**Cost:** The wearer feels the weight of every road not taken.
+**Bearer cost:** The wearer feels the weight of every road not taken.
 
 ### M.A.W. Stigma — Bridge of the Unchosen Charm
 
@@ -256,7 +253,7 @@ It is fitted only under a spoken event: the wearer names the crossing that was a
 
 **Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
-It is a head-slot charm and it reads the decision rather than the life beyond it — the moment of turning back, not the country the other choice might have reached, which is the only fact this set recognises. Bestowal follows a quarter in which the bearer withdrew or rewrote a finding of their own that stated an outcome for a course never taken, and the holding has twice refused to let the grant be described as a reward. Worn past its limit it takes words, one at a time and without notice, so a sentence loses its subject mid-clause; the charm comes off at the first gap and not at the second, and the sign is entered by whoever heard the sentence rather than by the bearer.
+It is a head-slot charm and it reads the decision rather than the life beyond it — the moment of turning back, not the country the other choice might have reached, which is the only fact this set recognises. Bestowal follows a quarter in which the bearer withdrew or rewrote a finding of their own that stated an outcome for a course never taken, and the holding has twice refused to let the grant be described as a reward. Worn past its limit it takes words, one at a time and without notice. So a sentence loses its subject mid-clause. The charm comes off at the first gap and not at the second. And the sign is entered by whoever heard the sentence rather than by the bearer.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -264,7 +261,7 @@ It is a head-slot charm and it reads the decision rather than the life beyond it
 
 **Ability:** The charm goes cold in the hand when the wearer is about to assert something they do not know. It has no other function, it cannot be aimed, and four Wardens have described it as the single most unpleasant object in the wing.
 
-**Cost:** The bearer occasionally forgets a word.
+**Bearer cost:** The bearer feels the cold a half-second before they assert something they do not know, and that half-second has no other use.
 
 *The charm has been granted six times. Each recipient had, in the preceding quarter, withdrawn or rewritten a finding of their own that stated an outcome for a course not taken. The holding records the pattern and has refused, twice, to let it be described as a reward.*
 
@@ -274,7 +271,7 @@ The three pieces are built around one restraint and it is worth stating because 
 
 Each piece pays in its own coin. The ring takes small, nameless memories and returns an unnerving readiness to decide, which colleagues read as a virtue for about a year. The harness takes the alternative roads: the wearer carries the ones not taken as a weight that settles rather than lifts. The charm takes words. The three losses arrive at different hours and are compared by different people, so the ledger keeps them in separate columns and the set is never authorised as a whole on one officer's read.
 
-One ladder governs all three, and it is entered in order: the bearer begins describing the abandoned crossing in the first person; the piece then repeats the source response outside contact — chimes where there is no bridge to chime over; and at the terminal state the manifestation uses the bearer as its new site. A named witness states the source title and the event aloud while the bearer relinquishes the piece; the shutdown preserves the record, refunds none of the cost, and stands as the only closure the armoury recognises on this set.
+One ladder governs all three, and it is entered in order: the bearer begins describing the abandoned crossing in the first person. The piece then repeats the source response outside contact — chimes where there is no bridge to chime over. And at the terminal state the manifestation uses the bearer as its new site. A named witness states the source title and the event aloud while the bearer relinquishes the piece. The shutdown preserves the record, refunds none of the cost, and stands as the only closure the armoury recognises on this set.
 
 ### Field Use Record
 
@@ -282,7 +279,7 @@ One ladder governs all three, and it is entered in order: the bearer begins desc
 |---|---|
 | **Before use** | Operator, piece, the day's probe depth, and a written statement of what the operator does not know about the matter under review. The statement is read back at the limit and after use. The bearer's own naming of the abandoned crossing, and their acceptance of the set's limit, are entered with it, because the harness and the charm are issued under that sentence alone. |
 | **During use** | Who the chalices aligned on, the option shown, whether the subject recognised it as genuinely having been available, and the seconds it persisted after the chime. The first sentence in which the bearer supplies an ending for the option is timed here rather than left to the after-use entry. |
-| **At limit** | Total engagement and the first sentence in which the bearer supplied an ending. Transcribe it. It will be presented back to them. The second limit is a word the bearer cannot find and does not notice losing; whether the call is made on the ending or on the gap, it is the second worker's and it stands. |
+| **At limit** | Total engagement and the first sentence in which the bearer supplied an ending. Transcribe it. It will be presented back to them. The second limit is a word the bearer cannot find and does not notice losing. Whether the call is made on the ending or on the gap, it is the second worker's and it stands. |
 | **After use** | The pre-use statement read aloud to the bearer by someone else. Every finding the bearer issues in the following quarter is read by a second officer before signature. A shutdown under a named witness is entered with the source title and the event restated while the piece is relinquished, and the piece returns to the rack only once a Warden signs the attribution entry. |
 
 **Stat interpretation:** β-grade, correctly rated, and the rating describes what these pieces do to an entity, which is very little. What they do to a wielder is make them certain, and a facility that runs on written findings has no column anywhere for the cost of certainty in the people who sign them.
@@ -292,7 +289,7 @@ One ladder governs all three, and it is entered in order: the bearer begins desc
 
 - Frost never melts through temperature.
 - The destination changes according to the observer's regret.
-- It becomes stable when the worker accepts the present path.
+- A worker's acceptance lowers the gauge; the depth does not answer to it. The probe tracks the facility's review returns and has never once responded to anything done or not done by an individual at the span — the two columns have never moved together. And a session that drops the gauge into deeper frost is written up as a success without qualification.
 
 **Personnel Note:** *"It is not waiting for anything. I spent four years saying it was and the probe never agreed with me once. It freezes when we tell people what the other road would have given them. That is all it does. We built a shrine out of one man's bad minute and the thing has been reporting on our own paperwork the entire time."* — Warden, Echo Gardens span
 
@@ -307,7 +304,7 @@ One ladder governs all three, and it is entered in order: the bearer begins desc
 | **Activation or escalation** | A swing of twenty millimetres or more between consecutive readings opens a documents search rather than a field response: which board reported that week, and what did it say would have happened. The search has succeeded on thirty-one occasions out of thirty-four. |
 | **Post-contact review** | Two depths with their hours, the far-end note, and the week's findings attached with any counterfactual sentence transcribed in full. A review that attaches the findings without quoting the sentence is returned; summaries of the sentence have twice softened it out of existence. |
 
-**Observation method:** A graduated probe, by hand, at one marked stone, twice a session, to the millimetre. The point was fixed in the holding's first year and has survived four proposals to average across several points, all refused on the same ground: an average can be adjusted by choosing where to stand, and this instrument exists to tell the facility something it would rather not hear.
+**Observation method:** A graduated probe, by hand, at one marked stone, twice a session, to the millimetre. The point was fixed in the holding's first year and has survived four proposals to average across several points, all refused on the same ground: an average can be adjusted by choosing where to stand. And this instrument exists to tell the facility something it would rather not hear.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -322,10 +319,10 @@ The first return under the Counterfactual Rule, Year 4238. Ninety-four findings 
 I wrote that if the second crew had gone out at four in the morning the family would have been alive. I believed it then and I am not certain I have stopped believing it. It was in the summary, which is the part people read, and the daughter read it, and she wrote to me, and what she wrote was: so you killed them. I did not have an answer because the sentence I had written says yes. Nobody knows what four in the morning would have produced. The surge data is incomplete for those hours and I knew that when I wrote it. I wrote it because it felt like honesty and because refusing to write it felt like hiding, and I would like it recorded that those are not the same thing and that it took a girl of nineteen to show me the difference.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IIIγ-874 is a probe at the Gardens and a drafting rule everywhere else. Span: two probe readings a session at the marked stone, the series unbroken; the near-end prohibition absolute, three stones, no exceptions and none ever granted; the list of failed attempts on the far end kept at the front of the folder rather than in an appendix, so that the first thing any reader learns is what this facility has failed to see. Board duties, owned by the Review Board and binding on every finding this facility issues: **a finding may state what was done, what was not done, what was available, and what was known at the time. It may not state what would have happened had another course been taken.** Where a board wishes to convey that, it lists the options that were open, in full, and stops. Work response — Viderehan: shows the choice at the centre of the crossing and nothing past it (Stable); Ferrehan: tests whether the worker can stand there without claiming the other life (Decrease).
+Containment of N-IIIγ-874 is a probe at the Gardens and a drafting rule everywhere else. Span: two probe readings a session at the marked stone, the series unbroken. The near-end prohibition absolute, three stones, no exceptions and none ever granted. The list of failed attempts on the far end kept at the front of the folder rather than in an appendix. So that the first thing any reader learns is what this facility has failed to see. Board duties, owned by the Review Board and binding on every finding this facility issues: **a finding may state what was done, what was not done, what was available, and what was known at the time. It may not state what would have happened had another course been taken.** Where a board wishes to convey that, it lists the options that were open, in full, and stops. Work response — Viderehan: shows the choice at the centre of the crossing and nothing past it (Stable). Ferrehan: tests whether the worker can stand there without claiming the other life (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: What We May Not Say Would Have Happened>**
-This rule was opposed by the Review Board itself and by two of the three family representatives who sat on the consultation, and I want their objection at the top rather than buried, because it is the strongest objection ever raised against anything in this folder.
+This rule was opposed by the Review Board itself and by two of the three family representatives who sat on the consultation. And I want their objection at the top rather than buried, because it is the strongest objection ever raised against anything in this folder.
 
 A review that will not say *they would have lived* is a review that will not accept blame. That is how it reads and that is how it will be read, and the people reading it are the bereaved, who are owed an answer and who did not ask for a lesson in epistemology. One representative put it in a sentence I have not been able to get around: *you have found a principled reason to stop apologising.*
 
@@ -362,7 +359,7 @@ The bridge extends across the Garden, frost covering every stone. Halfway across
 
 Three records are grouped with this one and the grouping is by furniture: two of them are bridges and one points at roads. None has been brought to the Gardens and none can be, since the probe series cannot survive an interruption and the near-end prohibition would have to be lifted to stage anything at all. What follows is paper comparison, stated as such.
 
-**Interaction method:** On paper, and on one question: of the crossing each record holds, was it attempted and failed, refused, or never offered. Write the answer in a sentence and sign it. This wing holds five bridges and has spent decades comparing them by their decks; the three-way division is the only cut that has ever predicted anything, and it predicts the containment condition in every case.
+**Interaction method:** On paper, and on one question: of the crossing each record holds, was it attempted and failed, refused, or never offered. Write the answer in a sentence and sign it. This wing holds five bridges and has spent decades comparing them by their decks. The three-way division is the only cut that has ever predicted anything, and it predicts the containment condition in every case.
 
 
 ### Entity Interaction Record
@@ -373,7 +370,7 @@ Three records are grouped with this one because all four involve a crossing, whi
 |---|---|---|---|
 | **The Rising Bridge** | Grouped as a shared preservation of crossings, which is a description of both decks and not of either holding. On the question that matters the two are opposites and the files should say so at the top. | No trial. The claimed shared resonance rests on a single line in a Year 4208 summary and no measurement has ever supported it. | That the resonance claim is unevidenced, written beside it, every time it is repeated. |
 | **The Sunken Bridge** | A crossing attempted and failed, against a crossing refused. The useful contrast in the wing: that record is about what people did and this one is about what we have written since. | Paper only. Reading them together is what established that this holding's instrument answers to the Review Board and not to the Gardens. | The attempted-refused-never-offered sentence, on any document placing the two together. |
-| **The Broken Compass** | Points toward a path not taken, which sounds identical and is the opposite: it names a direction and this holding is defined by refusing to name what lay down one. A proposal to use the Compass to resolve the far end was made in Year 4231. | Refused, on the ground that an instrument which answers the question would destroy the only thing the span is good for. The refusal is quoted in the Director's memo. | The proposal and the refusal kept together; the proposal has been renewed once since and will be again. |
+| [**The Broken Compass**](SE-C-IIβ-290_Broken_Compass_부서진_나침반.md) | Points toward a path not taken, which sounds identical and is the opposite: it names a direction and this holding is defined by refusing to name what lay down one. A proposal to use the Compass to resolve the far end was made in Year 4231. | Refused, on the ground that an instrument which answers the question would destroy the only thing the span is good for. The refusal is quoted in the Director's memo. | The proposal and the refusal kept together; the proposal has been renewed once since and will be again. |
 
 **Interaction procedure:** Both records in full, the one-sentence answer written and signed, and the quarter's probe log attached. Refusals on this file are cited rather than re-argued, and the Compass refusal now carries two citations.
 
@@ -387,7 +384,7 @@ He turned back. The reason is the man's own — fear, perhaps, or the Han's cont
 
 The bridge froze. Not the physical bridge — the Han-saturated span did, literally, crystallize at the moment of his refusal, the sorrow of the decision so concentrated that the structure solidified, locked, became permanent ice. But the freezing was also metaphorical: the crossing, refused, became permanent. The man who turned back could never, after that moment, cross. The bridge held, frozen, the shape of every life he did not cross to — every person on the far side he failed to reach, every future that existed across the channel and that his refusal made impossible.
 
-Bridge of the Unchosen is Object-Weight: the figure of a crossing never taken, the path frozen around a decision, carrying the accumulated grief of every what-could-have-been. Those who come near it feel the specific weight of the road not taken — not regret, exactly, but the heavier thing: the knowledge that the crossing was possible, that the far side was reachable, that one more step would have changed everything, and that the step was not taken.
+Bridge of the Unchosen is Object-Weight: the figure of a crossing never taken, the path frozen around a decision, carrying the accumulated grief of every what-could-have-been. Those who come near it feel the specific weight of the road not taken — not regret, exactly. But the heavier thing: the knowledge that the crossing was possible, that the far side was reachable, that one more step would have changed everything. And that the step was not taken.
 
 Some sorrows are about what was lost. Bridge of the Unchosen is about what was never attempted — the crossing refused, the path frozen, the lives on the far side unreachable, preserved as a bridge of ice that holds every future the crosser's failure of nerve made impossible.
 ## 증언 (Testimonium) — The Testimony
@@ -407,9 +404,9 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 **Common Name:** Bridge of the Unchosen
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major. The Registrum recorded this holding as Residue (I), Minor (α) and Low against a SECC header of Fragment (III) and Major (γ), a Major encounter role, High difficulty and a 699 gauge, and the error stood because the span has never hurt anybody standing next to it. It does its damage through the people who write about it. The rating has been corrected and assessments drawn from the old figures should be re-read.
+**Threat Assessment:** Major. The span has never hurt anybody standing next to it, which is how a Residue (I), Minor (α), Low filing stood against a SECC header of Fragment (III) and Major (γ), a Major encounter role, High difficulty and a 699 gauge. It does its damage through the people who write about it.
 **Containment & Handling Procedures:**
-- Ferrehan is the Work Type that lowers the gauge. Viderehan holds it level and is run for the record; earlier editions of this entry named Viderehan as primary and personnel were assigned on that basis.
+- Ferrehan is the Work Type that lowers the gauge. Viderehan holds it level and is run for the record. Earlier editions of this entry named Viderehan as primary and personnel were assigned on that basis.
 - Two probe readings a session at the marked third stone, by hand, to the millimetre, series unbroken.
 - Near-end prohibition: three stones, absolute, imposed before the first incident and never relaxed.
 - Do not attempt to resolve the far end. The list of failed attempts stays at the front of the folder.
@@ -418,7 +415,7 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 - A man reached a crossing during a surge with the far side visible and turned back. The deck set hard in the same hour. What waited there is not recorded and has never been established.
 - Frost depth 30 mm baseline, range 4 to 96. Depth tracks the facility's review returns and has never responded to work done at the span.
 - The Tale section of this file is written throughout in the register the Counterfactual Rule forbids, and is retained unaltered as the clearest example on hand.
-**Cross-References:** Zone D · The Sunken Bridge · I Alone Crossed
+**Cross-References:** Zone D · The Sunken Bridge · [I Alone Crossed](SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md)
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the Review Board, which is listed on an entity file for the only time in the archive because the Counterfactual Rule is a containment condition of this holding and the Board owns it.
 **Originator:** A citizen who turned back from a crossing at the last moment, named in the commissioning file. No finding of this facility has ever stated what would have happened had he gone, and none may.
 
@@ -455,9 +452,9 @@ Someone turned back at the last moment and the path set around the decision, and
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Fragment (III), Major (γ), Comprehension Level 2. The Registrum disagreed with the SECC header on coherence, potency and threat for an unknown period and has been corrected against it.
+- **Classification detail:** Object/Place, Fragment (III), Major (γ), Comprehension Level 2.
 - **Field detail:** Void, Zone D, Echo Gardens, above open ground with no watercourse beneath it in any survey of the site, before or since.
-- **Recognition detail:** Identify it by the probe depth and the fixed point, not by the frost's appearance. The frost looks the same at four millimetres and at ninety-six; it is the depth that moves and it moves without any change a standing observer can see. Three early reports describe the deck as unchanged on days the probe recorded a forty-millimetre swing.
+- **Recognition detail:** Identify it by the probe depth and the fixed point, not by the frost's appearance. The frost looks the same at four millimetres and at ninety-six. It is the depth that moves and it moves without any change a standing observer can see. Three early reports describe the deck as unchanged on days the probe recorded a forty-millimetre swing.
 - **Record detail:** Check the designation, and check what the record is actually about. The Door to Nowhere turns on closures written up as unavoidable, which is a claim about necessity. This turns on findings that state what the other course would have produced, which is a claim about knowledge. A facility can be scrupulously honest about having had a choice and still ruin somebody by telling them which way it would have gone.
 - **Containment detail:** Nothing at this site has ever had to be contained. The containment is a sentence that boards of this facility are forbidden to write, enforced in rooms the span will never see.
 ## Document Information

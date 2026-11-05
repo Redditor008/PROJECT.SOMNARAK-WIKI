@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Well Within Stone
 
-> *“Well Within Stone remembers Well Within; the bearer must not mistake memory for permission.”*
+> *"The wearer hears anger in every silence, and the quiet ones are the loudest."*
 
 ---
 
@@ -17,23 +17,28 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Reveals suppressed anger and its emotional depth.  
-**Binding rule:** the bearer names Well Within's event—A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants.—and accepts this limit: Do not invent a cause; document the fragments and ground the subject
+**Binding rule:** the bearer names Well Within's event — “A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants.” — and accepts this limit: Do not invent a cause; document the fragments and ground the subject
+
+### Appearance
+
+A fang-curved sliver of dark iron an inch long, threaded on a cord and worn at the throat. It weeps a thin film even in warm air, and it rings faintly with the note the shaft below still sings.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer hears anger in every silence. Continued use makes Well Within's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer hears anger in every silence, and the quiet ones are the loudest: after a season they cannot be in a still room without answering somebody.
 
 ## ITEM-SPECIFIC HISTORY — *The Well Within Source-Trace: Stigma Record*
 
-The first Well Within Stone field bearer encountered this source response: Reveals echoes of the forgotten event. The stigma discharges the immediate hazard only after the team attributed it to Well Within. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Well Within Stone field bearer encountered this source response: Reveals echoes of the forgotten event. The stigma discharges the immediate hazard only after the team attributed it to Well Within. A bearer answered somebody in a still room where nobody had spoken, and the Stone’s binding is the incident note from that hour.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Well Within's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the silence gets louder than the speech, and the bearer answers rooms that have been quiet for years.
 - Terminal state: Well Within's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not invent a cause; document the fragments and ground the subject” reverses the item’s benefit and raises the source Gauge.  
@@ -42,15 +47,4 @@ The first Well Within Stone field bearer encountered this source response: Revea
 
 ## SET RELATIONSHIP
 
-Within *Well Within — Witnessed Form*, Well Within Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1037-D`  
-**Linked Entity:** `SE-1037`  
-**Item Registry Code:** `MAW-G-1037-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Well Within — Witnessed Form*, Well Within Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone drops out of the set in a silence the bearer lets stand unanswered.

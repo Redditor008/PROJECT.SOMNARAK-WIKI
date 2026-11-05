@@ -65,14 +65,3 @@ The weapon now shows a hairline fracture whenever an operator’s remembered map
 Ruin Fragment supplies one bounded memory, Ruin Shroud protects the listener, and Requiem marks the route that memory supports. In full resonance, the blade is the first piece to fracture when anyone embellishes the account.
 
 > *“It cuts rubble cleanly. It cuts certainty more cleanly.”* — Specialist Durivel Cho
-
----
-
-**Document ID:** `SE-559-B`  
-**Linked Entity:** `SE-559`  
-**Item Registry Code:** `MAW-W-559-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

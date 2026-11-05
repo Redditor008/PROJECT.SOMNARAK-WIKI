@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-W-230-01`  
 **Author:** Extraction Lead Zyrak  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Status:** Active — two vault-bound lenses
 
@@ -31,6 +31,10 @@ The Final Lens is a lens-ground disc of nearly colorless Han-glass mounted on a 
 |---|---:|---|---|---:|
 | δ / Void | 10–15 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 2 / 50 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
 **Blank-After Line:** Once a final frame completes, the Lens focuses the Void immediately following it through up to three targets. It attacks Soul continuity. Firing before the moment ends pierces the memory and removes evidence from every witness.
 
 **Cost:** Each shot takes a small unnamed memory while leaving indexed facts intact.
@@ -46,14 +50,3 @@ Final Veil preserves the living observer; Final Hour fixes timing; the Lens acts
 **Maintenance:** Place the Lens between two sealed witness accounts. Read only the shared sensory facts, then the disagreements. The disc clears when it shows a transparent interval after both accounts—not when one version wins.
 
 **Shutdown:** Rotate the frame away from all faces and wait for its borrowed heartbeat to stop naturally. Breaking it releases every retained Blank After.
-
----
-
-**Document ID:** `SE-230-B`  
-**Linked Entity:** `SE-230`  
-**Item Registry Code:** `MAW-W-230-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

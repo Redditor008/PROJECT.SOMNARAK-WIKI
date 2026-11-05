@@ -56,7 +56,7 @@ The Veil formed from the quiet surface wake left after an Archive viewer finishe
 
 ### Appearance
 
-The Memory Veil is a pale, near-transparent veil of fine Han gossamer drawn from the crown to the collar in a single straight fold, with a removable collar strip where a name witness writes the bearer's name and one personal fact. The fabric is cool and almost weightless, and the collar text is written in the wearer's own hand. The Veil strongly resists Void pressure by preventing the bearer's identity from being overwritten by memories that do not belong to them. When the name witness says the bearer's name, current task, and personal fact in that order, it rejects one external memory surge and returns self-recognition for the immediate encounter. If the bearer refuses the call, the Veil begins treating the bearer as an unremembered reflection. The collar strip is read aloud and destroyed in private after use. The collar strip is read aloud and destroyed in private after every use, and it is never added to a general dossier or personnel file.
+The Memory Veil is woven from fine Han gossamer so thin that it reads as a haze, drawn from the crown to the collar in a single straight fold, with a removable collar strip where a name witness writes the bearer's name and one personal fact. The fabric is cool and almost weightless, and the collar text is written in the wearer's own hand. Nothing in the weave advertises that resistance: the gossamer keeps the same cool, near-weightless haze whether a foreign memory has pressed against it or not, and the rule is read under *Own Name* at the collar strip. When the name witness says the bearer's name, current task, and personal fact in that order, it rejects one external memory surge and returns self-recognition for the immediate encounter. If the bearer refuses the call, the Veil begins treating the bearer as an unremembered reflection. The collar strip is read aloud and destroyed in private after use. The collar strip is read aloud and destroyed in private after every use, and it is never added to a general dossier or personnel file.
 
 ### Passive effect— *Own Name*
 
@@ -88,14 +88,3 @@ Minseo wore the Veil during a controlled Well review while cataloguing a memory 
 The Veil is the identity safeguard in *Witness Without Possession*. The Lens can separate an echo and the Flask can preserve a permitted one; this suit ensures the bearer remains a witness rather than becoming another vessel.
 
 > *“Memory work fails when the person doing it disappears from their own record.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-115-C`  
-**Linked Entity:** `SE-115`  
-**Item Registry Code:** `MAW-S-115-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

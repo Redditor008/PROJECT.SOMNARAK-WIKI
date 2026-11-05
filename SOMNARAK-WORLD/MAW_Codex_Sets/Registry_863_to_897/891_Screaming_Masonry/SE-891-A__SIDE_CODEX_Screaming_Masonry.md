@@ -19,10 +19,10 @@ The Scream formed from obligations that were never fulfilled. The pressure of pr
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIIγ-891 [D] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Lament |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Weight / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 607/607; starts 45–65% / 14–33 per hit · Weight |
+| Gauge / Pressure | 000/660; starts 000% / 14–33 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls. |
 
@@ -30,8 +30,8 @@ The Scream formed from obligations that were never fulfilled. The pressure of pr
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the obligations behind the cry. (Stable) |
 | Ferrehan | Weighs the worker's resolve. (Decrease) |
 
@@ -40,7 +40,7 @@ The Scream formed from obligations that were never fulfilled. The pressure of pr
 
 ## WITNESS RECORD — *The Screaming Masonry Source-Trace*
 
-During the The Screaming Masonry Source-Trace, the field team preserved this source fact: Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pressure of promises and duties accumulating until the body could no longer carry them.
+During *The Screaming Masonry Source-Trace*, the field team preserved this source fact: Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pressure of promises and duties accumulating until the body could no longer carry them.
 
 ## M.A.W. SET — *Screaming Masonry — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Screaming Masonry Source-Trace, the field team preserved this sou
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Screaming Masonry's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Acknowledge duties without accepting impossible blame The set cannot heal the originating event. Misuse routes Screaming Masonry's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-891-A`  
-**Linked Entity:** `SE-891`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

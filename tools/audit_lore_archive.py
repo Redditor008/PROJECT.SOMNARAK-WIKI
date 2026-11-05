@@ -5,7 +5,7 @@ Project Somnarak (NON-WIKI Branch)
 
 Standard library only. Performs structural, encoding, and integrity audits across:
 1. UTF-8 file integrity across all markdown files.
-2. The Macro-Canon Master Codices in SOMNARAK-WORLD/Master_Codices/ and REFERENCE_SOMNARAK_WIKI/.
+2. The Macro-Canon Master Codices in SOMNARAK-WORLD/Master_Codices/ and REFERENCE_SOMNARAK_WIKI/REGISTRY/.
 3. Sorrow Entity dossiers in SOMNARAK-WORLD/Sorrow_Entities/.
 4. M.A.W. quadripartite equipment sets (A/B/C/D) in SOMNARAK-WORLD/MAW_Codex_Sets/.
 5. The Absolvohan serial narrative volumes in SOMNARAK-WORLD/The_Absolvohan/.
@@ -64,7 +64,12 @@ def audit_utf8_files():
 
 
 def audit_macro_canon():
-    """Audit the 52 foundational reference codices (49 in-world Master_Codices + 3 developer standards)."""
+    """Audit the 47 foundational reference codices (44 in-world Master_Codices + 3 developer standards).
+
+    The in-world count fell from 49 to 44 on 2026-10-31 when the ten other-verse comparison,
+    conversion, and vocabulary documents were moved out of SOMNARAK-WORLD/ to
+    PROJECT_MOON_RESEARCH/CROSS_VERSE/. Master_Codices now holds Somnarak canon only.
+    """
     folder = os.path.join(WORLD_DIR, "Master_Codices")
     if not os.path.exists(folder):
         return {"status": "FAIL", "error": "Master_Codices folder missing"}
@@ -75,16 +80,16 @@ def audit_macro_canon():
             if f.endswith(".md") and f != "README.md":
                 files.append(f)
 
-    dev_files = ["SOMNARAK_DOCUMENT_RULES.md", "SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md", "SOMNARAK_NAME_REGISTRY.md"]
+    dev_files = ["GUIDES/SOMNARAK_DOCUMENT_RULES.md", "REGISTRY/SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md", "REGISTRY/SOMNARAK_NAME_REGISTRY.md"]
     found_dev = [f for f in dev_files if os.path.exists(os.path.join(REF_DIR, f))]
 
     total_canon = len(files) + len(found_dev)
     return {
-        "status": "PASS" if total_canon >= 52 else "WARNING",
+        "status": "PASS" if total_canon >= 47 else "WARNING",
         "found_in_world": len(files),
         "found_editorial": len(found_dev),
         "found_codices": total_canon,
-        "expected_codices": 52,
+        "expected_codices": 47,
         "codices": sorted(files),
     }
 

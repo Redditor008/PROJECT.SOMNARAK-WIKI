@@ -9,7 +9,7 @@
 **SECC Designation:** `O-IVδ-168 [O]`  
 **Author:** Cartographer Yeonhwa  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Scar route-memory preservation protocol
 
@@ -26,7 +26,7 @@
 | Element | Lament |
 | Location | The Desolate, near the Scar |
 | Form | A broken line of heavy crystal dragged across the ground: a collapsed route frozen mid-stride with the names of missing travelers held in its trace. |
-| Gauge / pressure | 60–80% / Lament 29–62 |
+| Gauge / pressure | 910/910; starts 60–80% / Lament — no attack pattern; the load cells and the head count are the reading |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Witnessed Route |
 
@@ -61,10 +61,10 @@ Quagmire looks like a footprint that failed to rise. Its crystal line is not a r
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Do not mourn over the trace in place of preserving its route history. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not attempt to force the crystal line into a path. |
+| Flerehan | Invalid for this Object/Place entity. | Negative-Low | Do not mourn over the trace in place of preserving its route history. |
+| Pugnahan | Invalid for this Object/Place entity. | Negative-Low | Do not attempt to force the crystal line into a path. |
 | Viderehan | Reveals the route and missing travelers. | Stable | Map the trace and preserve names with custody protection. |
-| Ferrehan | Tests whether a worker can remain at the journey’s end. | Down | No one continues beyond the trace alone; establish a return line first. |
+| Ferrehan | Tests whether a worker can remain at the journey’s end. | Decrease | No one continues beyond the trace alone; establish a return line first. |
 
 ### Expansion response
 
@@ -168,13 +168,3 @@ The set reveals hidden routes and supports orientation. It cannot complete anoth
 **Entity links:** The Scar; route-collapse records; Desolate Han currents.  
 **Source distinction:** Quagmire remains an I-Relic trace. Its individual M.A.W. items are released echoes, not fragments removed from the names it carries.  
 **Item links:** `SE-168-B`, `SE-168-C`, and `SE-168-D` contain individual mapping, return, and lantern-cost records for Witnessed Route.
-
----
-
-**Document ID:** `SE-168-A`  
-**Linked Entity:** `SE-168`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

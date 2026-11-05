@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "batch": 207,
+  "status": "CLOSED",
+  "programme": "R-34 recheck — one oldest pre-R-34 HELD dossier per SE document shape (third batch), under the owner appearance lens of 2026-10-30: current body, material, movement and position cross-checked against Combat Record, Behavior/Activation, Story/Tale, equipment and extraction; a human origin never defaults to a humanoid current body",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 75,
+  "short_repairs": 22,
+  "careful_repairs": 53,
+  "before_words": 38956,
+  "after_words": 41888,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 231,
+  "pending_fingerprints_unchanged": 231,
+  "source_changes": 0,
+  "cited_sources_checked": 27,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": {
+    "tests": "PASS",
+    "lore": "PASS",
+    "timeline": "PASS",
+    "seam": "PASS",
+    "box": "PASS",
+    "progress": "PASS"
+  },
+  "table_blocks_equal_cell_counts": "5/5 primaries",
+  "combat_trigger_cells_parsed": "25/25",
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-565",
+      "name": "Broken Well",
+      "repairs": 19,
+      "split": [
+        7,
+        12
+      ],
+      "before_words": 7933,
+      "after_words": 8373,
+      "final_sha256": "a93420ab2058f298fd450a94181ba48f69c2f491ce77b036e0228880bd923e90",
+      "triggers": [
+        "When a worker leans over the rim and looks down.",
+        "When a worker remains at the rim listening while a name is returned from the opening.",
+        "When force is used against the rim or figure.",
+        "When the spread between reported depths passes four metres during transformation in place.",
+        "When the Sorrow Gauge reaches the ≥60% activation threshold during transformation in place."
+      ],
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_01_BROKEN_WELL.md",
+      "prior": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_01_BROKEN_WELL.md"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVω-001",
+      "name": "The Maw",
+      "repairs": 14,
+      "split": [
+        5,
+        9
+      ],
+      "before_words": 7820,
+      "after_words": 8357,
+      "final_sha256": "7ce7582325995ca70b18afa8f98ff9545a9b5fe913c5a5fcce9d48916486a8d0",
+      "triggers": [
+        "When a party speaks at the line or inside the district during negotiation or survey.",
+        "When an authorized crew remains standing on the unset ground inside the perimeter.",
+        "When voices are raised, radio is used, or a crew confers inside the district instead of withdrawing.",
+        "After a Directorate statement denying the Cheongula is published.",
+        "On a third formal refusal of the confession — refused twice, and withheld without refusal for sixty years."
+      ],
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_02_THE_MAW.md",
+      "prior": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_02_THE_MAW.md"
+    },
+    {
+      "unit": 3,
+      "designation": "N-IVδ-852",
+      "name": "Conservatory",
+      "repairs": 15,
+      "split": [
+        4,
+        11
+      ],
+      "before_words": 10095,
+      "after_words": 10695,
+      "final_sha256": "ecaaa193a78a5962f46fc9b2aba97184ac86cc5740a07dbaf3c629fcd9ba1b1b",
+      "triggers": [
+        "When a worker on the permitted path begins seeing the house rather than the shape of it.",
+        "When a plan, object or recollection resembling the house is introduced into the radius.",
+        "When something in the radius is built, braced, shored, tidied or shifted to resemble the house.",
+        "When a reconstruction attempt is sustained until one room completes.",
+        "When the Sorrow Gauge reaches the ≥90% activation threshold during a reconstruction attempt."
+      ],
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_03_CONSERVATORY.md",
+      "prior": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_03_CONSERVATORY.md"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-195",
+      "name": "Learned Your Face",
+      "repairs": 14,
+      "split": [
+        3,
+        11
+      ],
+      "before_words": 8351,
+      "after_words": 9045,
+      "final_sha256": "f37c4b4618eb41335b8a4406b53dfbfe7a5ad23b11b481a11cc6a5077ec9d525",
+      "triggers": [
+        "When the nominated channeller opens the channel with a direct gaze.",
+        "When a gaze is sustained while the reflection sharpens beyond what the channeller supplied.",
+        "When a channel is abandoned or its channeller relieved instead of closing it deliberately.",
+        "When a channel is sustained into the two-minute overload described in the Log and Method.",
+        "When the Sorrow Gauge reaches the ≥75% activation threshold with a channel open."
+      ],
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_04_LEARNED_YOUR_FACE.md",
+      "prior": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_04_LEARNED_YOUR_FACE.md"
+    },
+    {
+      "unit": 5,
+      "designation": "O-IIIγ-412",
+      "name": "The Wedge That Held",
+      "repairs": 13,
+      "split": [
+        3,
+        10
+      ],
+      "before_words": 4757,
+      "after_words": 5418,
+      "final_sha256": "2054e47dc9cd7c6a0e19215d2ae74c57e78163b8d5662439b539ba0d55e02dff",
+      "triggers": [
+        "When approached within heat reach without tongs or heat-resistant leather.",
+        "When the wedge is dropped or handled roughly.",
+        "When a widening runs through the iron during handling or a work cycle.",
+        "When separation from The Crucible, The Rage Forge or another thermal holding is allowed to lapse.",
+        "When a deployment order is executed with a heavy driving strike (hammer, maul or breaching ram) at Sorrow Gauge ≥ 70%."
+      ],
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_05_WEDGE_THAT_HELD.md",
+      "prior": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_05_WEDGE_THAT_HELD.md"
+    }
+  ]
+}

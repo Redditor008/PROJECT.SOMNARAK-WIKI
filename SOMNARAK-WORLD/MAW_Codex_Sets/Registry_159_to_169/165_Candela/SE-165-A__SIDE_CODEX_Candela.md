@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-165 [LS]`  
 **Author:** Handler Soojin  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Zone B present-moment compassion protocol
 
@@ -61,10 +61,10 @@ Wax runs from Candela but never pools. Its face alters into griefs that may neve
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Melting slows when sorrow is shared. | Down | Share present grief, not a demand to solve every future. |
-| Pugnahan | Body collapses faster and floor becomes slippery with grief. | Up | Do not force a prediction into a command. |
+| Flerehan | Melting slows when sorrow is shared. | Decrease | Share present grief, not a demand to solve every future. |
+| Pugnahan | Body collapses faster and floor becomes slippery with grief. | Increase | Do not force a prediction into a command. |
 | Viderehan | Shows possible future losses. | Stable | Label every vision possible, not certain. |
-| Ferrehan | Tests whether a worker can endure knowing without intervening. | Down | Pair observer with a present-care partner who protects current consent. |
+| Ferrehan | Tests whether a worker can endure knowing without intervening. | Decrease | Pair observer with a present-care partner who protects current consent. |
 
 ### Breach response
 
@@ -169,13 +169,3 @@ The set reveals approaching emotional danger and protects against Lament. It mus
 **Entity links:** The Hollow Saint; The Kind Healer; The Crumbling Saint.  
 **Care rule:** Possible-future information is not a basis for coercive intervention or certainty language in a current record.  
 **Item links:** `SE-165-B`, `SE-165-C`, and `SE-165-D` contain individual prediction-limit and corrosion history for Present Mercy.
-
----
-
-**Document ID:** `SE-165-A`  
-**Linked Entity:** `SE-165`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -19,10 +19,10 @@ The Bridge formed from the dream of a connection that could not be repaired. The
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIIγ-915 [VS] |
-| Type / Manifestation | Subject — Can breach / Subject-Dream |
+| Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / Zone D, Forge District |
-| Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Void |
+| Gauge / Pressure | 000/880; starts 000% / 18–41 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion. |
 
@@ -40,7 +40,7 @@ The Bridge formed from the dream of a connection that could not be repaired. The
 
 ## WITNESS RECORD — *The Corrosion Dream Source-Trace*
 
-During the The Corrosion Dream Source-Trace, the field team preserved this source fact: A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness of reaching the other side and finding no one waiting.
+During *The Corrosion Dream Source-Trace*, the field team preserved this source fact: A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness of reaching the other side and finding no one waiting.
 
 ## M.A.W. SET — *Corrosion Dream — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Corrosion Dream Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Corrosion Dream's source condition, the Suit lets a witness bear its Void pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Do not promise reunion; name both the crossing and the loss The set cannot heal the originating event. Misuse routes Corrosion Dream's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-915-A`  
-**Linked Entity:** `SE-915`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

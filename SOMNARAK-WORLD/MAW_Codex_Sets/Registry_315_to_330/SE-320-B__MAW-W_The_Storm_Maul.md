@@ -28,6 +28,10 @@ The Storm Maul is a black maul of Han steel shaped from post-Storm hail, its hea
 |---|---:|---|---|---:|
 | γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
 **Evacuation Line:** The Maul moves fallen sorrow-load through up to three connected obstructions away from a marked shelter route.
 
 **Cost:** Progressive heaviness and slight aging.
@@ -43,14 +47,3 @@ Charm chooses lower pressure, Shield covers people, Maul clears debris.
 **Maintenance:** Lay the Maul along the completed evacuation route and map where every displaced burden ended. No residue remains unassigned.
 
 **Shutdown:** Ground after the route clears; do not keep swinging for lower weather pressure.
-
----
-
-**Document ID:** `SE-320-B`  
-**Linked Entity:** `SE-320`  
-**Item Registry Code:** `MAW-W-320-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

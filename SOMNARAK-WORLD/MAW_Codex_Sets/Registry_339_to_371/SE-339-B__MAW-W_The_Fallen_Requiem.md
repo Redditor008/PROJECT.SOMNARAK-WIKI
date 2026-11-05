@@ -22,7 +22,11 @@ The Fallen Requiem is a blade of deep-blue Han crystal patterned with wall crack
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Lament | 10–15 | 3 / 3 | Skewer; 100% → 70% → 50% | 2 / 50 |
+| δ / Lament | 10–15 | 3 / 3 | Skewer; 100% → 70% → 50% | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
 **Cascade Cut:** Separates up to three failure paths from one realistic anchor. Striking the memory of failure destroys the lesson and repeats the breach.
 
@@ -31,14 +35,3 @@ The Fallen Requiem is a blade of deep-blue Han crystal patterned with wall crack
 **Failures:** anchor treated as perfect; evidence cut with cascade; repeated use makes every barrier feel doomed.
 
 **Maintenance:** Align the blade with a current emergency route and record exactly what the route cannot protect against.
-
----
-
-**Document ID:** `SE-339-B`  
-**Linked Entity:** `SE-339`  
-**Item Registry Code:** `MAW-W-339-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

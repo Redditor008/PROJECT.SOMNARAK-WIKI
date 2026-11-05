@@ -22,7 +22,7 @@ Banyan is a drowned tree-beast moving beneath the Mask Market’s translucent fl
 | Coherence / Potency | IV / δ |
 | Element | Lament |
 | Location | Zone C, Mask Market |
-| Gauge / Pressure | 781/781; starts 60–80% / 25–55 Lament |
+| Gauge / Pressure | 000/660; starts 000% / 25–55 Lament |
 | Movement / Resistance | Subfloor manifestation; combat speed N/A / 45% Lament, 35% other |
 | Activation threshold | Gauge ≥90%; drowned-grove ultimate begins at 65% |
 | Observation | 2 — Basic |
@@ -38,8 +38,8 @@ Although the primary SECC entry calls Banyan a Subject, the canonical behavior t
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid under the Object/Place work protocol. | N/A |
-| Pugnahan | Invalid; confrontation treats the floor as an opponent. | N/A |
+| Flerehan | Invalid under the Object/Place work protocol. | Negative-Low |
+| Pugnahan | Invalid; confrontation treats the floor as an opponent. | Negative-Low |
 | Viderehan | Hidden lives beneath the district become visible. | Stable |
 | Ferrehan | The worker remains above submerged roots until the pressure passes. | Decrease |
 
@@ -67,13 +67,3 @@ Stable extraction required two conditions at once: an owner voluntarily read one
 During the Bright-Mask Gala, Sunken Root showed a performer’s grief branching beneath her smile. An auditor projected the pattern onto the stage as proof of Banyan activity. Every mask in the hall cracked and repeated a private sentence from its wearer. Euncris evacuated the audience, destroyed the projection, and let the performer choose one witness. The root stopped only when privacy—not silence—was restored.
 
 > *“Expression is not honest when the Market decides who must perform it and who gets to watch.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-606-A`  
-**Linked Entity:** `SE-606`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

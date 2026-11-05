@@ -43,10 +43,10 @@ The faceless portraits lean toward a listener. Four portraits now have features,
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Invalid | N/A | Tears do not replace names. |
-| Pugnahan | Invalid | N/A | Do not strike or repaint a portrait. |
+| Flerehan | Invalid | Net-Neutral | Tears do not replace names. |
+| Pugnahan | Invalid | Net-Neutral | Do not strike or repaint a portrait. |
 | Viderehan | Reveals history behind a frame. | Stable | Mark known, unknown, and inferred separately. |
-| Ferrehan | Requires a full walk past every voice. | Down | Listen without answering every whisper. |
+| Ferrehan | Requires a full walk past every voice. | Decrease | Listen without answering every whisper. |
 
 **Expansion trigger:** New memorials without names or witnesses. **Response:** Restore verified names and preserve gaps rather than adding invented detail.
 
@@ -100,13 +100,3 @@ The faceless portraits lean toward a listener. Four portraits now have features,
 
 **Related material:** Memorial record policy; forgotten-name custody; Zone B history.  
 **Item links:** `SE-185-B`, `SE-185-C`, `SE-185-D`.
-
----
-
-**Document ID:** `SE-185-A`  
-**Linked Entity:** `SE-185`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

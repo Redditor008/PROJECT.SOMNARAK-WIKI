@@ -24,19 +24,12 @@ The Torn Fang is a crimson fang of Han iron with an empty central channel — a 
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Narrative Severance:** Strikes one imposed identity or emotional manipulation.
 
 **Failures:** missing history treated as enemy; plausible story carved into hollow; present anger given fabricated target.
 
 **Maintenance:** Keep central channel empty beside current identity anchors.
-
----
-
-**Document ID:** `SE-426-B`  
-**Linked Entity:** `SE-426`  
-**Item Registry Code:** `MAW-W-426-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

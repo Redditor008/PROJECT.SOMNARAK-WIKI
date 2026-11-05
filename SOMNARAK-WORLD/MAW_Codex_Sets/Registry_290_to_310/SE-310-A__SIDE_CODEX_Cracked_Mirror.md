@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Void |
 | Form | An ash-cold ancient mirror cracked across every reflection, showing truths the viewer did not ask to see. |
-| Gauge / Pressure | 35–50% / Void 10–24 |
+| Gauge / Pressure | 000/660; starts 000% / Void — no attack pattern; the influence edge and the fracture count are the reading |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Unflattering Glass |
 
@@ -44,10 +44,10 @@ Direct gaze activates the I-Relic until the viewer looks away. Each crack shows 
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears do not make one reflection complete. |
-| Pugnahan | Not valid; force widens fracture blades. | N/A | Never strike or demand a kinder image. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Tears do not make one reflection complete. |
+| Pugnahan | Not valid; force widens fracture blades. | Net-Neutral | Never strike or demand a kinder image. |
 | Viderehan | Displays truth behind the cracks. | Stable | Record viewpoint and limit. |
-| Ferrehan | Tests looking without flinching. | Down | Assign a partner who can end gaze. |
+| Ferrehan | Tests looking without flinching. | Decrease | Assign a partner who can end gaze. |
 
 **Activation:** Direct gaze shows the viewer without social masks until they look away.  
 **Resolution:** End gaze voluntarily or with partner support and lower Gauge below 25%.  
@@ -99,13 +99,3 @@ An echo forms after a viewer accepts one truthful reflection, names its limits, 
 **Primary source:** `SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md`
 
 **Restricted note:** The Mirror’s truth is situated and partial. It is not an objective total psychological assessment.
-
----
-
-**Document ID:** `SE-310-A`  
-**Linked Entity:** `SE-310`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

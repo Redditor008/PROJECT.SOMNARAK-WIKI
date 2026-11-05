@@ -9,7 +9,7 @@
 **SECC Designation:** `O-Vγ-003 [WP]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `1/1`
 **Record Status:** Active — Zone E border phenomenon
 
@@ -71,8 +71,8 @@ Residue depth is the official after-action measure. Warden reports must record m
 |---|---|---|
 | **Viderehan** | Watchtower mapping, flow tracking, residue comparison | Predicts route and intensity; does not calm the Tide. |
 | **Ferrehan** | Warden endurance at the wall | Holds operational line; reduces local pressure response. |
-| **Flerehan** | Invalid | The Tide has no individual grief to engage. |
-| **Pugnahan** | Invalid | Force can redirect a wave but cannot confront a personality that does not exist. |
+| **Flerehan** | Invalid | **Negative-Low** — the Tide has no individual grief to engage, and the offer is charged in full rather than refused. |
+| **Pugnahan** | Invalid | **Negative-Low** — force can redirect a wave but cannot confront a personality that does not exist, and the wave comes back down the bearing it was turned. |
 
 ### Non-Negotiable Rules
 
@@ -130,13 +130,3 @@ Mastery means recognizing patterns, not controlling the source. The Wardens can 
 - **The Sorrow Tide:** simultaneous surge event is a Double Tide.
 - **The Maw:** suspected but unconfirmed resonance with wilderness Han.
 - **No Individual M.A.W. History Codices:** no extractable equipment exists.
-
----
-
-**Document ID:** `SE-003-A`  
-**Related Entity:** `SE-003`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

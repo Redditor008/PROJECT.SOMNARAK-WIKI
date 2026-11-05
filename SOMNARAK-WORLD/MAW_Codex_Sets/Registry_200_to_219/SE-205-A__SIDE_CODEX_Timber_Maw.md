@@ -58,10 +58,10 @@ Stripped bark hangs from a broad, lead-cold trunk. Bare limbs spread above expos
 
 | Work Type | Response | Gauge | Operational rule |
 |---|---|---|---|
-| Flerehan | The inner bark warms and accepts grief spoken without correction. | Down | Share what was postponed or never lived; do not promise replacement. |
-| Pugnahan | Roots cinch around the floor and the hollow deepens. | Up | Reserved for directed breach suppression after corridors are cleared. |
+| Flerehan | The inner bark warms and accepts grief spoken without correction. | Decrease | Share what was postponed or never lived; do not promise replacement. |
+| Pugnahan | Roots cinch around the floor and the hollow deepens. | Increase | Reserved for directed breach suppression after corridors are cleared. |
 | Viderehan | Shows a life and purpose that should have filled the tree. | Stable | Limit viewing time; “stable” does not prevent Resolve loss. |
-| Ferrehan | Permits the worker to sit inside or beside the empty trunk. | Down | One worker sits; one observer remains outside and keeps the space unfilled. |
+| Ferrehan | Permits the worker to sit inside or beside the empty trunk. | Decrease | One worker sits; one observer remains outside and keeps the space unfilled. |
 
 **Containment rule:** Keep the trunk’s interior free of equipment, offerings, storage, markers, and improvised supports. Personnel may sit within or beside it; they may not furnish it. Do not strike, split, or deliberately fell the trunk.
 
@@ -82,9 +82,9 @@ The three pieces do not fill Timber Maw’s absence. They make personnel capable
 
 | Piece | Name | Grade | Element | Main purpose | Individual Codex |
 |---|---|---:|---|---|---|
-| Weapon | The Ravenous Timber-Jaw | γ | Weight | Draws environmental Han into an empty core and directs it along a line. | `SE-205-B__MAW-W_The_Hollow_Staff.md` |
-| Suit | The Hollow Bark-Carapace | γ | Weight | Lets a wearer endure crushing burden by leaving an unoccupied fold within the armor. | `SE-205-C__MAW-S_The_Hollow_Mantle.md` |
-| Stigma | The Splintered Gullet | γ | Weight | Identifies the place where presence was intended but never arrived. | `SE-205-D__MAW-G_The_Hollow_Charm.md` |
+| Weapon | The Ravenous Timber-Jaw | γ | Weight | Draws environmental Han into an empty core and directs it along a line. | `SE-205-B__MAW-W_The_Ravenous_Timber_Jaw.md` |
+| Suit | The Hollow Bark-Carapace | γ | Weight | Lets a wearer endure crushing burden by leaving an unoccupied fold within the armor. | `SE-205-C__MAW-S_The_Hollow_Bark_Carapace.md` |
+| Stigma | The Splintered Gullet | γ | Weight | Identifies the place where presence was intended but never arrived. | `SE-205-D__MAW-G_The_Splintered_Gullet.md` |
 
 **Set cost:** The operator must leave one useful-looking space deliberately empty and acknowledge why. Treating that vacancy as wasted capacity turns the set’s protection back into Weight pressure.
 
@@ -161,13 +161,3 @@ The Charm hangs or roots at the crown with a weight greater than its size. It ti
 **Individual files:** `SE-205-B`, `SE-205-C`, `SE-205-D`
 
 **Restricted note:** The M.A.W. set is approved for containment and environmental pressure relief. It is not approved for clearing inhabited districts, emptying shelters, or increasing Han-Energy yield. The distinction between removing dangerous pressure and removing a place’s felt meaning remains under Research Lead Ayshuk’s review.
-
----
-
-**Document ID:** `SE-205-A`
-**Linked Entity:** `SE-205`
-**Author:** Specialist Haneulash Yoon, Zone D Containment Specialist
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

@@ -14,6 +14,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | γ — Major |
 | Damage | Void 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
 | Pattern | Skewer — up to 3 targets |
@@ -23,7 +24,7 @@
 
 ### Appearance
 
-The Denial Lens is a pale, slightly convex Han-glass disc mounted on a short black handle, its surface clear in ordinary light and faintly warm when touched. A thin grey ring runs just inside the rim and brightens when the Lens severs a coercive identity, debt, or command mark from a target. The disc is small enough to hold in one hand, with a shallow thumb rest and a tether ring at the pommel. It follows linked marks through a short Skewer line but cannot remove an obligation the target still freely chooses; an attempted cut against voluntary connection rebounds as Void disorientation. The glass stays cool during the cut and grey for a short time afterward, and each use takes one small personal association from the bearer, a familiar route, a favorite meal, a remembered reason for staying. The lens is returned to its case face-up after a cut, and the grey ring fades only after the bearer writes down what the severed mark had held.
+The Denial Lens is a hand-held disc of smoked Han glass no wider than a palm, set into a short black grip that ends in a drilled lug for a cord. The glass is darker than it looks in daylight, and a hairline of silver runs just inside its rim: the hairline lights when the Lens finds a coercive identity, debt, or command mark, and goes out when the mark does. It is a close instrument — the mark has to be visible through the glass — though a short Skewer line will carry a cut to a linked mark. The glass stays cold through the work and clouds over for a while afterwards. The Lens goes back into its case face-up, and the clouding clears only when the bearer has written down what the severed mark had held.
 
 ### Ability— Refuse the Claim
 
@@ -36,12 +37,3 @@ The Lens severs one coercive identity, debt, or command mark from a target and f
 ### History Record
 
 A Denial Lens freed three workers from forged debt marks. The bearer later could not remember why the workers had trusted the R.D. enough to ask for help.
-
-**Document ID:** `SE-063-B`  
-**Linked Entity:** `SE-063`  
-**Item Registry Code:** `MAW-W-063-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

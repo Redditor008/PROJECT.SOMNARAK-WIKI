@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Screaming Masonry Ring
 
-> *“Screaming Masonry Ring remembers Screaming Masonry; the bearer must not mistake memory for permission.”*
+> *"It makes every hidden obligation legible and puts the wearer on the hook for it. The debts are all theirs now."*
 
 ---
 
@@ -17,27 +17,28 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Reveals lies and hidden obligations.  
-**Binding rule:** the bearer names Screaming Masonry's event—Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.—and accepts this limit: Acknowledge duties without accepting impossible blame
+**Binding rule:** the bearer names Screaming Masonry's event — “Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.” — and accepts this limit: Acknowledge duties without accepting impossible blame
 
 ## Appearance
 
-The Screaming Masonry Ring is the stigma record of its source’s set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is forensic: it reveals lies and hidden obligations, the concealed debts generations of failure taught the walls to hold. Binding names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. The cost accompanies every disclosure: the wearer feels the burden behind every deception, each revealed lie arriving with the weight that made someone tell it, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the obligations behind the cry — the scream parsed into specific unfulfilled duties, grievance given its itemized bill — and it witnessed the immediate hazard only after attribution to Screaming Masonry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Screaming Masonry Ring is the stigma record of its source’s set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is forensic: it reveals lies and hidden obligations, the concealed debts generations of failure taught the walls to hold. Binding names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. The cost is the hook: every hidden obligation it makes legible becomes the bearer's, and a season of wear leaves them everywhere the debts are. The source-trace fixed doctrine: the stigma reveals the obligations behind the cry — the scream parsed into specific unfulfilled duties, grievance given its itemized bill — and it witnessed the immediate hazard only after attribution to Screaming Masonry. An itemized bill was the gift and the invoice was the hook: every duty the Ring made legible was entered against the one who read it, until they stood wherever the debts were. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels the burden behind every deception. Continued use makes Screaming Masonry's source sorrow feel autobiographical.
+**Operational / binding cost:** The Ring makes every hidden obligation legible and puts the wearer on the hook for it. Worn long, the wearer is everywhere the debts are.
 
 ## ITEM-SPECIFIC HISTORY — *The Screaming Masonry Source-Trace: Stigma Record*
 
-The first Screaming Masonry Ring field bearer encountered this source response: Reveals the obligations behind the cry. The stigma witnesses the immediate hazard only after the team attributed it to Screaming Masonry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Screaming Masonry Ring field bearer encountered this source response: Reveals the obligations behind the cry. The stigma witnesses the immediate hazard only after the team attributed it to Screaming Masonry. A bearer turned up at every outstanding debt in the ward for a month and could not say who had asked them, and the Ring’s binding is the register kept that month.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Screaming Masonry's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the obligations become legible at a distance, and the bearer is already walking before they have read them.
 - Terminal state: Screaming Masonry's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge duties without accepting impossible blame” reverses the item’s benefit and raises the source Gauge.  
@@ -46,15 +47,4 @@ The first Screaming Masonry Ring field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Ring performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-891-D`  
-**Linked Entity:** `SE-891`  
-**Item Registry Code:** `MAW-G-891-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Ring performs the stigma role while the other pieces preserve attribution and survival. The Ring drops out of the set when a debt is settled without the bearer being present.

@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVγ-073 [GS]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Zone B duty-continuity containment
 
@@ -86,13 +86,3 @@ The Knight is not ignorant of loss. It is trapped in the form duty took after pu
 
 ### Observation 4 — Pending
 Mastery requires a post to be ended without treating the guardian’s loyalty as a defect.
-
----
-
-**Document ID:** `SE-073-A`  
-**Related Entity:** `SE-073`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

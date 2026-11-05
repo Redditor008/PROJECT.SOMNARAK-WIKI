@@ -20,7 +20,7 @@ A fever-hot humanoid carrying nothing while the air behind it bends under invisi
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Grudge |
-| Gauge / Pressure | 35–50% / 10–23 |
+| Gauge / Pressure | 000% / 10–23 |
 | Observation | 2 — Basic |
 | Set | The Missing Weight |
 
@@ -47,13 +47,3 @@ Stigma makes pressure measurable, Plate carries it temporarily, and Fang cuts on
 **Formal-ID note:** `SE-357` is assigned to Carrying Nothing. Unreleased Beam (`C-IVδ-357`) remains deferred.
 
 **Source:** `SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md`
-
----
-
-**Document ID:** `SE-357-A`  
-**Linked Entity:** `SE-357`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -60,7 +60,7 @@ Complete final primary read in document order after actual five validators; fing
   "sources": [
     "SOMNARAK-WORLD/Unknown_Entities/SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md",
     "SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "scope": "Add concrete source/history/image/equipment appearance boundaries and align the recommended convoy response with the explicit non-engagement order; distinguish recovered pebbles from impact-active shards. No new anatomy, speed, thermal state or permission.",
   "reasoning": "Complete209-line original read. OutsideSubject, silica-bound wandering construct expresses urgency through glass/slag biped and moving chest sand. Human couriers in formation do not imply a humanoid flesh phase. Body mobility and derived equipment can differ. However the escort record never off glass/matching speed and non-engagement conflicts with sand speed, closing ramming and attack/boarding advice without a documented operational distinction.",
@@ -79,7 +79,7 @@ Complete final primary read in document order after actual five validators; fing
   "source_hashes": {
     "SOMNARAK-WORLD/Unknown_Entities/SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md": "836b39a0598bdf066f11b5a2e7c450964e3e6f5caef253676170b2f6037e5e41",
     "SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md": "cb7bf669d6dc3b678fd03b8023b783fee958b4260ddec774e05ec746fe32385d",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

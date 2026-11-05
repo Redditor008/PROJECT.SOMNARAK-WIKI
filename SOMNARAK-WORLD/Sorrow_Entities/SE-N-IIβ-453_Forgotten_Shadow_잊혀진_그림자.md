@@ -13,8 +13,8 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Non-Organic — A humanoid shadow with no face, drifting through the Desolate and singing softly — a low wandering song. It understands anyone who watches it, though it cannot be understood in turn. Salt-damp, it smells of cold rain; the shade of someone the world forgot. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Non-Organic |
+| **Movement** | Mobile — walks disused ways at an even pace; in breach it follows one worker at a fixed distance and never closes. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **Work Damage** | 2–4 Lament — the cost is Threshold 3, with failed cycles leaving it following the worker |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | β — Sabre, Shroud and Song all graded |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -70,7 +71,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for record; Pugnahan has a recorded adverse response and is barred |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | A worker walks its route beside it, to the end of the disused way, without naming it and without claiming to know who it was. Nothing taken from it has ever reduced the shade; walking has. |
 
@@ -78,29 +79,29 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unseen* [**Debuff**] } | "The shadow stretches behind you — and no one looks at it, ever, and the not-looking is its power." | [The Shadow's invisibility infects the target; they feel unseen.] | *Target suffers -10 Composure; they are being overlooked.* **[10 Lament DMG [Lament]]** | When the Shadow attaches. |
-| { *The Growing Dark* [**Debuff**] } | "The shadow grows — fed by neglect — until it is larger than you, and darker, and no one notices that either." | [The Shadow's overlooked growth makes it enormous; the target is dwarfed.] | *Target loses 10 Composure; they are nothing next to their shadow.* **[10 Lament DMG [Lament]]** | When the target ignores it. |
-| { *The Sudden Notice* [**Attack**] } | "The shadow strikes — and the blow comes from the direction no one was watching." | [An unseen shadow-blow lands.] | *Inflicts Lament pressure and one wound from an angle that should not exist.* **[14-22 Lament DMG [Lament]]** | When the Shadow is finally looked at. |
-| { *The Full Visibility* [**Attack**] } | "The shadow steps out of the shade all at once — every metre of it seen at the same time — and being seen is the blow." | [The shadow's withheld whole appears at once.] | *A heavy Lament surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the shadow is forced into the light. |
-| { *Every Shadow Sees* [**Ultimate**] } | "Every forgotten shade on the way stands up at once — enormous, patient, and offended in a way that has no words in it." | [The shadow's neglect spreads to every unkept route in range.] | *All in range take Lament pressure for three turns of rising shades.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unseen* [**Debuff**] } | "The shadow stretches behind you — and no one looks at it, ever. And the not-looking is its power." | [It passes at walking pace; attention slides off the target as if they had never been entered in the room.] | *Target suffers -10 Composure; they are being overlooked.* **[10 Lament DMG [Lament]]** | When the Shadow begins following at a fixed distance. |
+| { *The Growing Dark* [**Debuff**] } | "The shade deepens as it passes. And the card is the only thing that notices." | [Its grade darkens near people nobody is holding in mind; nobody nearby is named in the log.] | *Target loses 10 Composure; they are certain they have forgotten something important.* **[10 Lament DMG [Lament]]** | When the target is overlooked. |
+| { *The Sudden Notice* [**Attack**] } | "It is clearest at the moment somebody says aloud that they do not know its name." | [The faceless route-walker becomes distinct; no blow lands and nobody is named.] | *Inflicts Lament pressure as the certainty of an important thing forgotten.* **[14-22 Lament DMG [Lament]]** | When a worker admits they do not know who it was. |
+| { *The Full Visibility* [**Attack**] } | "Four complete registers. And no line in any of them." | [The whole route and its absences are perceived together while the shade keeps to the disused way.] | *A heavy Lament surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the route is blocked or an identity is claimed for it. |
+| { *Every Shadow Sees* [**Ultimate**] } | "Tokens issued, tokens never presented: a count nobody can turn into names." | [The silent song is understood along the route; everybody present feels unentered.] | *All in range take Lament pressure for three turns of unrecorded presence.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification is by instrument, not by ear: the shade card grades its depth against the nine-step card and the disused-ways survey fixes where it is walking, while the song it sings is understood rather than heard and cannot be recorded by anything the wing owns. One Warden grades, a second agrees, and nobody writes down who was standing near it.
+1. **Tension:** Identification is by instrument, not by ear: the shade card grades its depth against the nine-step card and the disused-ways survey fixes where it is walking. While the song it sings is understood rather than heard and cannot be recorded by anything the wing owns. One Warden grades, a second agrees, and nobody writes down who was standing near it.
 2. **Clash:** The worker walks beside it and sings, or does not sing and keeps walking. Nobody blocks its route, nobody names it, and nobody stands between it and the disused way it is following.
 3. **Resolution:** The session ends when a Warden has walked its route beside it to the end of the disused way without naming it and without claiming to know who it was, and the grade and the track are entered. Nothing taken from the shadow has ever reduced it; walking has, and the file is explicit that the walking is the whole of the method.
 
 ### Consequences
 
-- A worker who cannot hold against the entity's sorrow becomes a conduit: the pressure erodes their **Clarity**, and what comes back into the Sorrow Gauge is the worker's instability rather than the shadow's, which is why a followed worker is rotated out rather than pressed.
+- A worker who cannot hold against the entity's sorrow becomes a conduit: the pressure erodes their **Clarity**. And what comes back into the Sorrow Gauge is the worker's instability rather than the shadow's, which is why a followed worker is rotated out rather than pressed.
 - The documented effects intensify with duration, and the duration that matters here is the walk: what a brief cycle carries becomes, over a long route, a certainty the worker cannot put down — that they have forgotten something important and cannot say what.
-- Each M.A.W. activation takes from the wielder something the standard grade ledgers cannot enter: composure, personal memories and a portion of bodily strength, recorded against the wearer because there is nowhere else to record it.
-- Without a resolution the sorrow does not dissipate; it leaves the disused ways and walks into occupied districts behind one worker at nine metres, which is the breach behaviour this file keeps its rotation rule for.
+- Each M.A.W. piece prices accompaniment differently: unaccountable weeping, numbness to minor joys, and becoming easier for other people to forget. No piece supplies the wanderer's name or turns being overlooked into a safe tactical invisibility.
+- Without a resolution the sorrow does not dissipate. It leaves the disused ways and walks into occupied districts behind one worker at nine metres, which is the breach behaviour this file keeps its rotation rule for.
 
 ## Appearance
 **Primary Form:** A faceless humanoid shadow walking the Desolate at an even pace, singing something that is understood rather than heard. **Movement:** Mobile on disused ways only; it follows, at a fixed distance, and has never been recorded closing on anybody.
 
-**Notable Features:** It deepens in colour near people nobody is holding in mind, graded against a nine-step card; it keeps to ways nobody maintains; and its singing is understood rather than heard.
+**Notable Features:** It deepens in colour near people nobody is holding in mind, graded against a nine-step card. It keeps to ways nobody maintains. And its singing is understood rather than heard.
 
 **Identification Profile**
 
@@ -116,12 +117,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid shadow that sings softly while moving through the Desolate. It has no face, but understands anyone who watches it. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. The Forgotten Shadow file carries the series rather than a single reading. |
+| **Position / movement** | Walks unenclosed Desolate routes at an even pace. If it follows, it keeps a fixed distance behind one worker and does not take the replacement. Plot each position against the disused-ways survey. |
 | **Material / signature** | Lament. Salt-damp, cold rain, and a depth of shade that reads on the card and on nothing else. |
 | **Distinctive markers** | Shade grade against the card, position against the disused-ways survey, and whether singing occurred and for how long. |
 | **Identification** | If it is on a maintained road, it is not this entity. It has never once been recorded on one. |
 
-**Appearance protocol:** Card grade, survey position, duration of singing. There is no field for melody or words; the field existed and was removed after entries in it became descriptions of music the Wardens already knew.
+**Appearance protocol:** Card grade, survey position, duration of singing. There is no field for melody or words. The field existed and was removed after entries in it became descriptions of music the Wardens already knew.
 
 ## Origin
 - **Formation:** From a man who was never entered anywhere, under rules that were right not to enter him.
@@ -134,18 +135,18 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It closes and the verse softens. Yield runs with the length of the sung verse and not with the number of cycles. | Decrease |
-| **Pugnahan** | Barred. It goes heavy and follows, and a shadow that has begun following cannot be settled during the same shift. | Increase |
-| **Viderehan** | Shows the route and who was along it. The gradings are logged without naming anybody, and no exception has ever been granted. | Stable |
-| **Ferrehan** | Walking its whole route beside it without naming it and without claiming to know who it was. | Decrease |
+| **Flerehan** | It closes and the verse softens. Yield runs with the length of the sung verse and not with the number of cycles. | Decrease · High |
+| **Pugnahan** | Barred. It goes heavy and follows, and a shadow that has begun following cannot be settled during the same shift. | Increase · Low |
+| **Viderehan** | Shows the route and who was along it. The gradings are logged without naming anybody, and no exception has ever been granted. | Stable · Common |
+| **Ferrehan** | Walking its whole route beside it without naming it and without claiming to know who it was. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-Read the gauge against the classification. Forgotten Shadow is a Subject with a Subject-Weight manifestation and a Lament expression, and each of those words is doing work: a Subject walks and can breach, a Weight is graded rather than fought, and Lament means the verse is the instrument. Flerehan, sung, is the primary work — it closes and the verse softens, and the yield runs with how long the verse lasts rather than how many cycles were attempted. Ferrehan is the walk itself: the whole route, beside it, without naming it and without claiming to know who it was. Pugnahan is available against a Subject and barred here: it goes heavier and follows, and a shadow that has begun following cannot be settled in the same shift. Viderehan shows the route and who was along it, and the gradings are logged without naming anybody. A stable gauge is not a quiet session; on this file the song is understood rather than heard, and the only thing the log can hold about it is whether it occurred and for how long.
+Read the gauge against the classification. Forgotten Shadow is a Subject with a Subject-Weight manifestation and a Lament expression, and each of those words is doing work: a Subject walks and can breach, a Weight is graded rather than fought, and Lament means the verse is the instrument. Flerehan, sung, is the primary work — it closes and the verse softens, and the yield runs with how long the verse lasts rather than how many cycles were attempted. Ferrehan is the walk itself: the whole route, beside it, without naming it and without claiming to know who it was. Pugnahan is available against a Subject and barred here: it goes heavier and follows, and a shadow that has begun following cannot be settled in the same shift. Viderehan shows the route and who was along it, and the gradings are logged without naming anybody. A stable gauge is not a quiet session. On this file the song is understood rather than heard, and the only thing the log can hold about it is whether it occurred and for how long.
 
-**Reading the response:** A falling gauge means the verse is being carried and the walking is being done; the shade itself is unchanged, and the registers behind it are as complete as they were. A rising gauge means the work has made it heavier — somebody interposed, blocked a route, or claimed to know who it was — and the following that results ends when the worker is withdrawn, not when the shadow is contained. Log the card grade, the survey position and the singing duration before the gauge; this file deliberately has no field for melody, for words, or for who was standing nearby.
+**Reading the response:** A falling gauge means the verse is being carried and the walking is being done. The shade itself is unchanged, and the registers behind it are as complete as they were. A rising gauge means the work has made it heavier — somebody interposed, blocked a route, or claimed to know who it was — and the following that results ends when the worker is withdrawn, not when the shadow is contained. Log the card grade, the survey position and the singing duration before the gauge. This file deliberately has no field for melody, for words, or for who was standing nearby.
 ## Breach Behavior
 
 > *"It is off the survey and walking the Mantle road behind Oren. It has not come nearer than nine metres in two hours. Rotate him out."*
@@ -162,7 +163,7 @@ Read the gauge against the classification. Forgotten Shadow is a Subject with a 
 ### Escalation Notes
 
 - **Breach type:** Escape. It leaves the surveyed routes and walks into occupied districts. It follows; it has never struck, cornered or ambushed anybody, and the older line describing it as stalking personnel from their own shadows was not supported by any incident in the file.
-- **Containment priority:** Do not block the route and do not force it back; Pugnahan is barred and the bar is the whole of the doctrine here. Withdraw the followed worker, clear the way ahead of it, and let it settle.
+- **Containment priority:** Do not block the route and do not force it back. Pugnahan is barred and the bar is the whole of the doctrine here. Withdraw the followed worker, clear the way ahead of it, and let it settle.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn while it is still following somebody. Rotating the followed worker out ends it; the entity settles within the shift on its own and has never pursued the replacement.
 
 ## M.A.W. Equipment
@@ -173,7 +174,7 @@ Read the gauge against the classification. Forgotten Shadow is a Subject with a 
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : An eleven-inch circular navigational planisphere crafted from blackened silver and pale ivory, floating horizontally above the bearer's forearm with revolving coordinate discs.
+**Appearance:** An eleven-inch circular navigational planisphere crafted from blackened silver and pale ivory, floating horizontally above the bearer's forearm with revolving coordinate discs.
 
 The etched celestial coordinates point toward lost stars outside recorded cartography. Channeled during combat, the astrolabe bends ambient light into localized darkness, cloaking the bearer from ranged sight.
 
@@ -185,13 +186,13 @@ The etched celestial coordinates point toward lost stars outside recorded cartog
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — the way the shadow itself works: not by striking, but by being overlooked until the target's own certainty begins to come apart.
 
-**Cost:** The wielder carries the holding's unwept grief — weeping arrives unbidden and out of proportion, the intervals are logged by the second worker, and prolonged use lengthens them.
+**Bearer cost:** The wielder carries the holding's unwept grief — weeping arrives unbidden and out of proportion, the intervals are logged by the second worker, and prolonged use lengthens them.
 
 ### M.A.W. Suit — The Shadow Shroud
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-Appearance : A shroud of blue Han-silk carrying a nameless route line and one current identity mark — the path of someone unknown and the name of someone present, woven so neither absorbs the other.
+**Appearance:** A shroud of blue Han-silk carrying a nameless route line and one current identity mark — the path of someone unknown and the name of someone present, woven so neither absorbs the other.
 
 The route line follows the overlooked trace; the identity mark keeps the wearer anchored to the present, so accompaniment does not become ownership.
 
@@ -204,13 +205,13 @@ The route line follows the overlooked trace; the identity mark keeps the wearer 
 
 **Ability:** Wards the Mind against Lament pressure and nothing else: the shroud is cut for the shadow's kind of pressure, and the file records no other use for it.
 
-**Cost:** the wearer goes numb to minor joys, and because the loss is quiet the second worker logs it rather than the wearer.
+**Bearer cost:** the wearer goes numb to minor joys, and because the loss is quiet the second worker logs it rather than the wearer.
 
 ### M.A.W. Stigma — The Shadow Song
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a song-charm of Lament Han-crystal, cool to the touch and faintly luminous, that runs briefly warm when sorrow is near and is carried at the throat as the holding's own token.
+**Appearance:** a warm blue Han-crystal tail song-charm vibrating below audible range; the song is carried as sensation rather than sound.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -218,26 +219,26 @@ The route line follows the overlooked trace; the identity mark keeps the wearer 
 
 **Ability:** Allows the wearer to perceive people or places erased from ordinary awareness.
 
-**Cost:** The wearer becomes easier for others to forget.
+**Bearer cost:** The wearer becomes easier for others to forget.
 
 *Fourteen songs exist. The file notes that every holder was granted one after a cycle in which they sang badly and kept going, and declines to draw a conclusion from it.*
 
 ### M.A.W. Use Notes
 
-The set is the holding in three pieces. What it gives is listed above; what it takes is the toll this file records for the source — weeping without a nameable cause, and a numbness to small pleasures the wearer stops reporting — and the Armoury enters it against the wielder, not against the piece. The issue is one rotation at a time for that reason.
+The set is the holding in three pieces. What it gives is listed above. What it takes is the toll this file records for the source — weeping without a nameable cause. And a numbness to small pleasures the wearer stops reporting — and the Armoury enters it against the wielder, not against the piece. The issue is one rotation at a time for that reason.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against the toll this file records for the source: weeping the wearer cannot account for, sealed and held by the second worker. |
-| **During use** | Every occurrence is timed: the wearer's eyes filling without a cause they can name. One is noted; a pattern across a shift ends the use, and the second worker keeps the times. |
-| **At limit** | The wearer is numb to minor joys and has stopped reporting it, which on this piece is the limit rather than a settling-in. The observer calls the limit, and the call stands. |
-| **After use** | Return the piece and open the sealed baseline: has the flatness outlasted the rotation? The entry is made either way, and where it has not lifted, the piece is not reissued to that wearer. |
+| **Before use** | Wielder, piece, and a dated baseline held by the second worker: unaccountable weeping for the Sabre, response to minor joys for the Shroud, and whether colleagues reliably notice and remember the bearer for the Song. |
+| **During use** | Time the piece's own sign: eyes filling without a nameable cause, small pleasures going flat without being reported, or the bearer being overlooked in ordinary exchanges. One occurrence is noted; a pattern ends the use. |
+| **At limit** | The relevant sign persists, or the bearer begins claiming the route or an identity for the Shadow. The observer calls the limit, and the call stands. |
+| **After use** | Return the piece and open the sealed baseline: has the weeping interval, flatness or forgettability outlasted the rotation? The entry is made either way, and where it has not lifted, the piece is not reissued to that wearer. |
 
 **Stat interpretation:** Field performance and what a person pays for it are different axes. A β set that performs to specification can still return a wearer who weeps without a cause and cannot taste small pleasures, and on this holding the rotation is set from the cost column rather than from the grade.
 
-**Full-set source review (2026-10-13):** Audited all M.A.W. fields and claims against exact `SE-453-A` (`N-IIβ-453 [LS]`, `SE-453`, `4/4`), B/C/D, Registry 675–678, Master M.A.W. 487–489, Entity Codex row 531 / Tale 163, and `MAW-W-453`. Side A and all pieces grade β; item D supports `+1 Clarity`. The Suit Appearance now follows exact item C's blue silk route-shroud, supported by the matching local Suit title/type and Master Entry 488; the table's Hauberk/Chain-Mail classification remains unaligned. Hold Weapon: local heading/archetype *Lamentation Sabre* (Medium) and planisphere / Master-table *Umbral Astrolabe* conflict with linked item B and Master Entry 487 *Shadow Requiem* blade. Lament 5–9 / Speed 2 / Range 2 / max 4 / 25 Echoes agrees; Side-only Single / 100% and the archetype Medium band were not imported as item fields. The distinct `O-Iα-453` / `SE-1035-B` Floating Fragment pair was not used; this exact join is `N-IIβ-453 → SE-453-B` / `MAW-W-453-01`. Local/Side Tail / 5% Stigma align; the Master table's Pendant/Choker class and Registry's generic Accessory label do not change the slot. Commit `7356019` only restored Suit resistances; it was not a Weapon review. No linked evidence changed. First source-led pair: `SE-453-B`.
+**Full-set source review (Year 4238):** Audited all M.A.W. fields and claims against exact `SE-453-A` (`N-IIβ-453 [LS]`, `SE-453`, `4/4`), B/C/D, Registry 675–678, Master M.A.W. 487–489, Entity Codex row 531 / Tale 163, and `MAW-W-453`. Side A and all pieces grade β; item D supports `+1 Clarity`. The Suit Appearance now follows exact item C's blue silk route-shroud, supported by the matching local Suit title/type and Master Entry 488. The table's Hauberk/Chain-Mail classification remains unaligned. Hold Weapon: local heading/archetype *Lamentation Sabre* (Medium) and planisphere / Master-table *Umbral Astrolabe* conflict with linked item B and Master Entry 487 *Shadow Requiem* blade. Lament 5–9 / Speed 2 / Range 2 / max 4 / 25 Echoes agrees. Side-only Single / 100% and the archetype Medium band were not imported as item fields. The distinct `O-Iα-453` / `SE-1035-B` Floating Fragment pair was not used; this exact join is `N-IIβ-453 → SE-453-B` / `MAW-W-453-01`. Local/Side Tail / 5% Stigma align; the Master table's Pendant/Choker class and Registry's generic Accessory label do not change the slot. The Suit resistances were restored as a component edit; that was not a Weapon review. No linked evidence changed. First source-led pair: `SE-453-B`.
 
 ## 관찰 기록 (Observation Log)
 
@@ -273,22 +274,22 @@ Mean shade 5.6 on the nine-step card across the watch, against 4.4 and 3.1 in th
 Wanders through the Desolate along abandoned routes. Personnel feel the weight of being forgotten. It becomes clearer when someone admits they do not know its name.
 
 **Entry 3 — <Excerpt from Gate Office Correspondence>**
-The office confirms that this Company keeps no register of persons who are not employees, that the gate book was abolished for cause, and that in consequence it cannot say who has worked on its premises or how often, and does not wish to be able to.
+The office confirms that this Company keeps no register of persons who are not employees, that the gate book was abolished for cause. And that in consequence it cannot say who has worked on its premises or how often. And does not wish to be able to.
 The weight of being overlooked until existence becomes uncertain.
 
 **Entry 4 — <Containment Notice>**
-Management: walk its route beside it, grade the shade against the card, name nobody in the log, and withdraw any worker it begins to follow. Work response — Flerehan: sung, the verse softens (Decrease); Pugnahan: barred, it goes heavy and follows (Increase); Viderehan: the route and who was along it (Stable); Ferrehan: the walk itself (Decrease).
+Management: walk its route beside it, grade the shade against the card, name nobody in the log, and withdraw any worker it begins to follow. Work response — Flerehan: sung, the verse softens (Decrease). Pugnahan: barred, it goes heavy and follows (Increase). Viderehan: the route and who was along it (Stable); Ferrehan: the walk itself (Decrease).
 
 **Entry 5 — <Archive Note>**
 Four settlement registers are bound into the commissioning file, complete for their periods, with the absences marked in pencil at the places where he is not. Nothing has been struck out of them and none of them is damaged. Each settlement recorded only people who asked it for something — a licence, a bed, a payment — and he never asked, and so each register is both accurate and empty of him. His track passes through all four. The archivist's note sets the two facts side by side and offers no reconciliation, which is the correct treatment.
 
 ## 최종 관찰 (Final Observation)
 
-> What the observing worker is asked to do at the close of contact: walk beside it and record what it shows, or substitute their own judgement.
+> Close by walking the route beside it and entering only grade, track and singing duration. Do not turn accompaniment into a name, a biography or a register of nearby forgotten people.
 
-| Walk beside it and record what it shows — its whole route, without naming it and without claiming to know who it was. | Substitute your own judgement, which on Forgotten Shadow has never yet cost less than the condition. |
+| Walk beside it and record what it shows — its whole route, without naming it and without claiming to know who it was. | Block the route, force it back, claim an identity for it, or log who was standing nearby when it darkened. |
 |---|---|
-| Moves closer and sings a softer verse. The sorrow is witnessed; Forgotten Shadow is fully recorded. | Grows heavy and follows aggressively. The gauge climbs and Forgotten Shadow withdraws without revelation. |
+| The verse softens; card grades, survey track and duration enter the record while the identity remains blank. | It grows heavier and follows the worker at a fixed distance until that worker is rotated out. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -307,7 +308,7 @@ A shadow on a cart way that has not carried a cart in thirty years, singing some
 
 ### Interaction Pattern
 
-Forgotten Shadow is filed beside three holdings and shares no mechanism with any of them: a soul whose name was taken out of a record, a trace that carries the song past the limit of sight, and a fog in which nobody who has not already looked can see it. When one is brought near, the watch records what changes in the shade grade, the survey track and the duration of the singing — one card between two Wardens — and no person present is named in any of it.
+Forgotten Shadow is filed beside three holdings and shares no mechanism with any of them: a soul whose name was taken out of a record, a trace that carries the song past the limit of sight. And a fog in which nobody who has not already looked can see it. When one is brought near, the watch records what changes in the shade grade, the survey track and the duration of the singing — one card between two Wardens — and no person present is named in any of it.
 
 **Interaction method:** Card grades before, during and after, taken by the same Warden with the same card, and both tracks plotted on the disused-ways survey. Nobody present is named in any of it.
 
@@ -318,7 +319,7 @@ Forgotten Shadow must be kept distinct from the other absences on the register. 
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
-| **The Forgotten Soul** | That one had a name taken out of a record. This one was never put into one, and the distinction holds in the field: the Soul darkens at archives, the Shadow does not. | Shade grades rise in both while within sight of each other; the tracks do not converge and never have. | Both tracks on one survey sheet, with grades timed together. |
+| [**The Forgotten Soul**](SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md) | That one had a name taken out of a record. This one was never put into one, and the distinction holds in the field: the Soul darkens at archives, the Shadow does not. | Shade grades rise in both while within sight of each other; the tracks do not converge and never have. | Both tracks on one survey sheet, with grades timed together. |
 | **The Wandering Trace** | The Trace carries the silent song along the old ways past the limit of sight, and people miles off have reported understanding it. | Range of comprehension extends roughly fourfold; shade grade unchanged. | Furthest point at which the song was understood, and by whom, with no names recorded. |
 | **The Drift Fog** | In Fog it cannot be seen by anybody who has not already looked at it directly, which has twice left a Warden walking beside something they could no longer find. | Grading becomes impossible; the survey track is the only remaining measure. | Time the Fog closed, last grade taken, and the point at which visual contact was lost. |
 
@@ -326,19 +327,61 @@ Forgotten Shadow must be kept distinct from the other absences on the register. 
 
 ## 이야기 (Narratio) — The Tale
 
-This Company keeps no register of persons who are not its employees. No gate book, no list of casuals, no record of who waited at the yard and was not taken on. The rule is absolute and it was written for a reason that has never been seriously challenged: the old gate book was handed to a constabulary in a bad winter and eleven men were lifted off it, four of whom had done nothing beyond standing where work was given out. The book was burned by order and nothing has replaced it.
+> **Transcript of:** the gate interview, Wing Three yard, taken at the hiring hour.
+> **Recorded:** Year 4,229, the eleventh of the month.
+> **Kept by:** Gate Supervisor Cora Ahn. Taken down because he had no paper, and taking
+> it down was the only thing I could do with him.
 
-The eleven were released within the month and the Company paid their lost time without being asked, which is in the minute and is not the point. The point is in the paragraph underneath it: a list of people who are not your employees is a list you will one day be made to hand over, and the only safe version of it is the one that does not exist. Nothing has replaced the book in twenty-two years.
+**AHN:** Name.
 
-What it costs is paid by the men at the gate. Day work here is heavy, intermittent and taken by people with no other claim on anybody, and none of them exists in a Company document. A man can work this yard for twelve years and have nothing to show that he was ever on the premises — no file, no log, no ledger line — because every mechanism that would have shown it is a register of persons under another name. When he is hurt, the Company is not lying when it says it cannot identify him. When he dies, his family can prove nothing, and the people who refuse the claim are not acting in bad faith; there is simply nothing in front of them.
+**THE MAN:** Sef. Just Sef. Second settlement sends me.
 
-The man at the root of this holding was in that position everywhere at once. Four settlements, four complete registers, and no line for him in any of them, because each of them recorded only the people who asked it for something and he never asked. He traded, slept, ate, spoke to people, and was present by every measure except the one that is kept in writing. Nobody erased him. There was never anything to erase.
+**AHN:** I need a surname for the day sheet.
 
-What is left walks his route and nothing else. It keeps to ways no map shows, it will not set foot on a maintained road, and it sings something that everybody present understands and no instrument in the wing can take down. The walking is the only assertion it makes, and it is the same assertion a token stub makes: somebody was here on this day.
+**THE MAN:** I have not got one that will help you.
 
-The shade grade tracks the count of people who worked here in the quarter and appear in no Company document: tokens issued less tokens ever presented. 3.1, then 4.4, then 5.6. The darkest readings on record were all taken within sight of the yard gate at the hour work is given out.
+**AHN:** Then I cannot put you on the sheet.
 
-The rule is right. The burned book was right. The shadow is what the right answer looks like from underneath, graded on a nine-step card by two people who must agree.
+**THE MAN:** I will work the first day and you can put me on after.
+
+**AHN:** That is not how it runs.
+
+**THE MAN:** It is how it ran the last four times I stood here.
+
+*— there is no last four times. I have been on this gate eleven years and I had never seen
+him. He carried a token stub, worn smooth, no name and no number cut into it. The stubs are
+issued against a roll. I looked for the roll that would have issued it and the roll goes back
+to 4,179 and has no gap in it and no Sef.*
+
+**AHN:** What work do you do?
+
+**THE MAN:** Drainage. I can do the pumps.
+
+**AHN:** Pumps want a certificate.
+
+**THE MAN:** I know. That is why I have come down from the second.
+
+**AHN:** Where did you work before that?
+
+**THE MAN:** Everywhere you are about to look.
+
+*— I took this down by hand and read it back to him and he said it was right, and then he
+signed the bottom with a cross, and the cross went through the paper. That is in the
+conservator's report and it is the only reason this transcript is in a file at all. The
+signature mark did not rest on the page.*
+
+*He came back the next morning and the morning after that and I put him off the sheet on
+eleven consecutive days and on the twelfth I put him on it. The sheet is destroyed every
+quarter. I have copied this transcript into the file in my own hand and I have not told
+anybody, because a list of people who are not employees is a list somebody will ask for.*
+
+*He sings at the gate before the work is given out. Everybody understands it. Nobody has ever
+written down what it says, and I have tried for two years, and the words do not stay in my
+hand long enough to reach the paper.*
+
+*— C.A., Gate Supervisor, Wing Three. Copy held outside the register at my own risk.*
+
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“Eighteen thousand four hundred tokens out, two thousand two hundred and ten ever came back. The rest is the number I grade against the card.”* — Researcher, R.D.
@@ -362,13 +405,13 @@ The rule is right. The burned book was right. The shadow is what the right answe
 - It keeps to disused ways and has never been plotted on a maintained road. Clear the route ahead; never block it.
 **Observation Notes:**
 - Mean shade grades 3.1, 4.4 and 5.6 across three quarterly series, on the same card and by agreement of two Wardens per reading.
-**Cross-References:** The Desolate · The Forgotten Soul · The Wandering Trace · The Drift Fog · the Gate Office
+**Cross-References:** The Desolate · The [Forgotten Soul](SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md) · The Wandering Trace · The Drift Fog · the Gate Office
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** A Desolate wanderer erased from all records.
+**Originator:** A Desolate wanderer who was never entered in any record.
 
 ### Registry Addendum
 
-**Operational interpretation:** Two figures govern this record and only one of them can be held at all. The shade grade can: 3.1, then 4.4, then 5.6 across the quarterly series, graded against a nine-step card by two Wardens who must agree. The quantity behind it cannot: the grade tracks the number of people who did paid work on Company premises in the quarter and appear in no Company document, obtained as tokens issued less tokens ever presented, because there is by design no way to count persons at all. Read the grade against the Day Token return rather than against the weather or the Tide, and read the track against the disused-ways survey; where a reading and a register disagree, the register is not corrected, because the absences in it are the finding. Never add a field for who was standing near it: the card, the survey and the duration are the whole of the log, deliberately.
+**Operational interpretation:** Two figures govern this record and only one of them can be held at all. The shade grade can: 3.1, then 4.4, then 5.6 across the quarterly series, graded against a nine-step card by two Wardens who must agree. The quantity behind it cannot: the grade tracks the number of people who did paid work on Company premises in the quarter and appear in no Company document, obtained as tokens issued less tokens ever presented, because there is by design no way to count persons at all. Read the grade against the Day Token return rather than against the weather or the Tide, and read the track against the disused-ways survey. Where a reading and a register disagree, the register is not corrected, because the absences in it are the finding. Never add a field for who was standing near it: the card, the survey and the duration are the whole of the log, deliberately.
 
 **Review requirement:** At every watch: the card grade at each half-hour with two Wardens agreeing, the track plotted on the disused-ways survey, the duration of the singing, and whether the worker was followed off the route. Any climb above the quarterly mean, or a track leaving the survey, clears the way ahead, withdraws the followed worker, and bars any attempt to interpose. The review records grades and routes and no names, and it closes nothing: the registers are complete and the absences are the point.
 ## Watch Record
@@ -391,19 +434,19 @@ Depth of colour is graded against a nine-step card by two Wardens who must agree
 
 The grade tracks the number of people who did paid work on these premises in the quarter and appear in no Company document of any kind. The figure is obtained as tokens issued less tokens ever presented, and it is the only quantity here that can be had at all, since the Company has by design no way to count persons. Weather, Tide windows, traffic on the old ways and the holding's own gauge were tested and lost.
 
-No register of non-employees is kept anywhere in this Company, and none may be started without an order of the Board. No gate book, no casual list, no note of who waited at the yard and was not taken on. The old book was handed to a constabulary in a bad winter and eleven men were lifted off it, four of them for nothing but standing where work was given out; it was burned by order and nothing replaced it. The rule is right and this file does not propose touching it.
+No register of non-employees is kept anywhere in this Company, and none may be started without an order of the Board. No gate book, no casual list, no note of who waited at the yard and was not taken on. The old book was handed to a constabulary in a bad winter and eleven men were lifted off it, four of them for nothing but standing where work was given out. It was burned by order and nothing replaced it. The rule is right and this file does not propose touching it.
 
-What follows is that the men who do the heaviest intermittent work here do not exist on paper. A man can take day work in this yard for twelve years and leave no trace he can use. When one is hurt, there is no document saying he was ever on the site; when one dies, his family can prove nothing at all, and the Company is not lying when it says it does not know who he was.
+What follows is that the men who do the heaviest intermittent work here do not exist on paper. A man can take day work in this yard for twelve years and leave no trace he can use. When one is hurt, there is no document saying he was ever on the site. When one dies, his family can prove nothing at all, and the Company is not lying when it says it does not know who he was.
 
 ### The Day Token
 
 Authorised Year 4233. Anybody who does a day's work on site is handed a numbered token, torn in two. The worker keeps the stub, the gate keeps the counterfoil, and neither half carries a name, a mark, a trade or a description. Attendance can therefore be proved — token 4,412 was on site on the eleventh — while no register of persons comes into existence anywhere.
 
-18,400 tokens were issued in Year 4237. 2,210 were later presented in support of a claim; 1,860 of those were paid, and 350 were refused because the stub had been lost, which is the commonest way for twelve years of work to vanish. 31 were presented after a death. Two were presented by people who were not the holder, and nothing in the scheme can tell the difference, since a token with a name on it is a register and a register is what was burned.
+18,400 tokens were issued in Year 4237. 2,210 were later presented in support of a claim. 1,860 Of those were paid, and 350 were refused because the stub had been lost, which is the commonest way for twelve years of work to vanish. 31 were presented after a death. Two were presented by people who were not the holder, and nothing in the scheme can tell the difference, since a token with a name on it is a register and a register is what was burned.
 
-One widow produced her husband's stubs and was paid. Eleven months later another family produced stubs for several of the same dates, and the office's own note records that both accounts may be true, that the tokens cannot distinguish them, and that it paid the second claim as well because the alternative was to call somebody a liar on no evidence.
+One widow produced her husband's stubs and was paid. Eleven months later another family produced stubs for several of the same dates. And the office's own note records that both accounts may be true, that the tokens cannot distinguish them. And that it paid the second claim as well because the alternative was to call somebody a liar on no evidence.
 
-The gate clerks asked to be allowed one mark against each counterfoil — a height, a trade, anything to make a lost stub recoverable. The request was refused: a description is an identification, and an identification kept in a book is the book that was burned. The refusal is correct. The clerks' objection — that the scheme knowingly loses three hundred and fifty men's evidence a year in order to protect all of them, and that the three hundred and fifty are never the same men who make the rules — stands in the scheme's first volume, recorded as correct and unanswered.
+The gate clerks asked to be allowed one mark against each counterfoil — a height, a trade, anything to make a lost stub recoverable. The request was refused: a description is an identification, and an identification kept in a book is the book that was burned. The refusal is correct. The clerks' objection — that the scheme knowingly loses three hundred and fifty men's evidence a year in order to protect all of them. And that the three hundred and fifty are never the same men who make the rules — stands in the scheme's first volume, recorded as correct and unanswered.
 
 ### A Wanderer Who Left No Entry
 

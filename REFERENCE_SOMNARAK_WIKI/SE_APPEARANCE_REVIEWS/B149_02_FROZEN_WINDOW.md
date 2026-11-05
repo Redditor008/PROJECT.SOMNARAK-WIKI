@@ -46,15 +46,15 @@ Waiting becoming compulsory walking is a strong inversion, not a reason to repla
   "original_sha256": "4cc97fdb3337cbe4564562bb46ab50b79fde1edba505bae716d433d42b7faed9",
   "source_sha256": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-A__SIDE_CODEX_Sitting_Boundary.md": "a8ee2f47a73ba22cadf5c876c6494f9cdf31c5b3e80cab6e96ed38d880b4afd2",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-B__MAW-W_The_Frozen_Maul.md": "f97a646a932b8b327f9f682499dd1182b612b95aa4882f139cca6794efcc5f0f",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-C__MAW-S_The_Frozen_Pane.md": "08b579923d223eae13963b19c02c48ba888ba63f9871293af5653c45ad8800a0",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-D__MAW-G_The_Frozen_Charm.md": "a86f396324561ee0d492a7620cec7abd88b3d157d44f022b0a97cd8c3e5f495e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-B__MAW-W_The_Glazed_Mullion_Pike.md": "f97a646a932b8b327f9f682499dd1182b612b95aa4882f139cca6794efcc5f0f",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-C__MAW-S_The_Shuttered_Window_Plate.md": "08b579923d223eae13963b19c02c48ba888ba63f9871293af5653c45ad8800a0",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-D__MAW-G_The_Rime_Pane_Monocle.md": "a86f396324561ee0d492a7620cec7abd88b3d157d44f022b0a97cd8c3e5f495e",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399"
   },
   "logical_outcome": "held",
   "no_change": false,

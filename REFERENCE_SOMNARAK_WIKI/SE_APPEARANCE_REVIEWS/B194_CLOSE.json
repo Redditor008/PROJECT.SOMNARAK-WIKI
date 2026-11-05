@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "batch": 194,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 35,
+  "short_repairs": 17,
+  "careful_repairs": 18,
+  "before_words": 40697,
+  "after_words": 41359,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 50,
+  "pending_fingerprints_unchanged": 50,
+  "source_changes": 0,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": "PASS",
+  "final_words": {
+    "C-IIIγ-300": 8262,
+    "C-IIβ-947": 8185,
+    "O-IIIγ-374": 8298,
+    "C-IIIγ-609": 8265,
+    "O-IIβ-833": 8349
+  },
+  "counters": {
+    "types": "285/301",
+    "weapon": "283/287",
+    "se_appearance_fix": "18/301"
+  },
+  "fresh_credits": [],
+  "ledger": {
+    "changed": 14,
+    "retained": 4,
+    "held": 231,
+    "blocked": 2,
+    "pending": 50
+  },
+  "next": "Batch 195 opens on a fresh ranking of the 50 pending dossiers in this same prompt; its units continue toward the ten-review ceiling."
+}

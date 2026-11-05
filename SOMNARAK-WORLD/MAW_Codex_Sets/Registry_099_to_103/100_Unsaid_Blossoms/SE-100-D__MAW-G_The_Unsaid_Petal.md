@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Unsaid Blossoms work |
 | Bestowal event | A petal settled in Park’s open hand after Park spoke a current truth to a living colleague and left the grave without taking a blossom. |
 | Acceptance condition | The bearer states that the intended listener is a memory, not a captive audience. |
@@ -53,7 +54,7 @@
 
 ### Appearance
 
-The Unsaid Petal is a small charm of blue Han crystal shaped like a single petal, no larger than a fingertip, with a fine central vein and a short chain. It is cold and nearly transparent in ordinary light and holds a soft grey glow when a withheld sentence has been chosen. When the bearer speaks that sentence aloud in the presence of a welfare witness, the petal lights once and carries the sentence to a memory of the intended listener with complete emotional clarity; no answer returns. The glass then becomes clear again. If a second sentence is added, the first glow dissolves and leaves only the bearer's unaltered memory of what was said. The petal rests on an unmarked blue cloth between uses, and its central vein darkens when the bearer begins rehearsing the sentence for an imagined reply. The petal rests on an unmarked blue cloth between uses, and the sentence written once on paper is stored in the bearer's private consequence file rather than used as evidence.
+One petal of blue Han crystal, veined down the centre and no longer than a fingertip, the Unsaid Petal hangs from a short chain. It is cold and nearly transparent in ordinary light and holds a soft grey glow when a withheld sentence has been chosen. When the bearer speaks that sentence aloud in the presence of a welfare witness, the petal lights once and carries the sentence to a memory of the intended listener with complete emotional clarity; no answer returns. The glass then becomes clear again. If a second sentence is added, the first glow dissolves and leaves only the bearer's unaltered memory of what was said. The petal rests on an unmarked blue cloth between uses, and its central vein darkens when the bearer begins rehearsing the sentence for an imagined reply. The petal rests on an unmarked blue cloth between uses, and the sentence written once on paper is stored in the bearer's private consequence file rather than used as evidence.
 
 ### Passive effect— *Listener’s Shape*
 
@@ -85,14 +86,3 @@ Park used the Petal during a private archive-witness session to say a farewell t
 The Petal is the irreversible piece of *Sentence Finished*. The weapon makes a pause possible; the Shroud protects a boundary; the Petal makes clear that a truth does not become less true because its listener cannot respond.
 
 > *“The dead may be remembered. They must not be drafted into saying what we need them to say.”* — Chronicler Minseo
-
----
-
-**Document ID:** `SE-100-D`  
-**Linked Entity:** `SE-100`  
-**Item Registry Code:** `MAW-G-100-01`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

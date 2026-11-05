@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IIIβ-155 [WS]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Collector’s Row ambient dread monitoring
 
@@ -61,10 +61,10 @@ Harbinger appears most clearly when a person is trying not to look at a ledger. 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Remains close and acknowledges shared burden. | Down | Do not make a debtor confess beyond what they choose to state. |
-| Pugnahan | Becomes denser and harder to escape. | Up | Chasing the shadow feeds avoidance and dread. |
+| Flerehan | Remains close and acknowledges shared burden. | Decrease | Do not make a debtor confess beyond what they choose to state. |
+| Pugnahan | Becomes denser and harder to escape. | Increase | Chasing the shadow feeds avoidance and dread. |
 | Viderehan | Reveals debt balance and origin. | Stable | Verify any result against accountable records; the entity is not an infallible ledger. |
-| Ferrehan | Follows while the worker performs daily duties. | Down | Pair endurance with a real balance review and rest, not endless labor. |
+| Ferrehan | Follows while the worker performs daily duties. | Decrease | Pair endurance with a real balance review and rest, not endless labor. |
 
 ### Transform response
 
@@ -168,13 +168,3 @@ The set provides force, concealment, and deadline awareness around debt pressure
 **Entity links:** The Inherited Debt; The Debt Eater; The Debt Clock.  
 **Debt distinction:** Harbinger is not a Collector and does not certify a claim; all displayed balances require accountable review.  
 **Item links:** `SE-155-B`, `SE-155-C`, and `SE-155-D` contain individual balance, concealment, and corrosion records for Known Balance.
-
----
-
-**Document ID:** `SE-155-A`  
-**Linked Entity:** `SE-155`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

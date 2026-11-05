@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Myrmidon's Fang
 
-> *“Myrmidon's Fang remembers Myrmidon; the bearer must not mistake memory for permission.”*
+> *"Each blow follows a command the wielder did not give, and they cannot say whose it was. Wielded long, they are certain they chose this."*
 
 ---
 
@@ -17,7 +17,11 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Myrmidon's grudge signature in the strike.  
-**Binding rule:** the bearer names Myrmidon's event—A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart.—and accepts this limit: Separate the person from the institution they represent; do not defend the institution
+**Binding rule:** the bearer names Myrmidon's event — “A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart.” — and accepts this limit: Separate the person from the institution they represent; do not defend the institution
+
+### Appearance
+
+A white porcelain funerary vessel, thirty centimetres tall, its blue willow pattern cracked through at the shoulder where it was dropped once and kept. The pewter lid does not fit; it sits loose and knocks continuously, because whatever is inside is still steaming.
 
 ## CORE STATISTICS
 
@@ -25,16 +29,20 @@
 |---:|---:|---:|---|---:|
 | Grudge 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Myrmidon's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
+**Operational / binding cost:** The Fang strikes on somebody's order: each blow makes the wielder follow a command they did not give, and they cannot say whose it was. Wielded long, they are certain they chose this.
 
 ## ITEM-SPECIFIC HISTORY — *The Myrmidon Source-Trace: Weapon Record*
 
-The first Myrmidon's Fang field bearer encountered this source response: Attacks symbols of authority and perceived representation. The weapon severs the immediate hazard only after the team attributed it to Myrmidon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Myrmidon's Fang field bearer encountered this source response: Attacks symbols of authority and perceived representation. The weapon severs the immediate hazard only after the team attributed it to Myrmidon. A wielder followed a command they had not given and could not say whose it had been, and the Fang’s binding is the order book from that deployment.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Myrmidon's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the commands arrive without an issuer, and the wielder is certain they chose this when the record shows they did not.
 - Terminal state: Myrmidon's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Separate the person from the institution they represent; do not defend the institution” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +51,4 @@ The first Myrmidon's Fang field bearer encountered this source response: Attacks
 
 ## SET RELATIONSHIP
 
-Within *Myrmidon — Witnessed Form*, Myrmidon's Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1021-B`  
-**Linked Entity:** `SE-1021`  
-**Item Registry Code:** `MAW-W-1021-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Myrmidon — Witnessed Form*, Myrmidon's Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow its wielder decided to throw.

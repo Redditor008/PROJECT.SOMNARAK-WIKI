@@ -77,3 +77,76 @@ clearing `tpl.py` and `verify.py` is necessary but not sufficient — Chain of M
 4. **This applies to my own writing too.** The bespoke sections added during Workstream 1 —
    `Warden Record` 0.62, `Watch Record` 0.45, `Apex Record` 0.42 — are not at the standard either.
    They are original per entity but have acquired a house tic, and they are in scope.
+
+## Dialogue is prose too — the performance standard
+
+**Stated by the archive owner, 2026-11-01:** *"you only used plain text for dialogue and not at all used any styling on how the dialogue should feel … when I read through it I can see or feel what happening. Is Majin screaming, shouting, OR scared I can't see it because there no flare … uneven writing, asymmetrical structure, OR any kind of dramatic text style."*
+
+This rule has always measured whether the **narration** is this file's own. It did not measure whether a **spoken line** is performed, and a file could pass the whole measure above with every command, whisper and silence set in identical roman text. That is now a defect of the same class as mad-libbed prose: the reader has to reconstruct volume, panic and silence from plot, because the page did not carry them.
+
+The full statement is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1c (weights, marks, beats)** and **§XII.1d (lettering and asymmetry)**. It binds every story-bearing file in the archive, not only the Echo-Core backstories.
+
+### Weights
+
+| Weight | Form | Means |
+|---|---|---|
+| Roman | `> **[Majin]** "Hold your boundary."` | ordinary speech at ordinary volume; the default, and most lines are this |
+| Italic | `> **[Majin]** *"Noted."*` | dropped volume — a whisper, a threat said quietly, exhaustion, a line not meant to be carried |
+| Bold | `> **[Mellda]** **"OPEN GATE 05."**` | raised volume — a command over noise, alarm, fury, the point where control slips |
+
+### Lettering
+
+| Device | Means | Cap |
+|---|---|---|
+| **Caps** | carried by volume alone; only inside bold, only where the room is louder than the speaker | one per scene |
+| **Uneven set** — `S e i y o n.` | the word is assembled rather than said | once per file |
+| **Shaky** — `I— I— it was already inside.` | the letters break under fear, cold, blood loss | twice per file |
+| **Broken** — `read—`, `S I G — NAL` | the word arrives in pieces: channel, machinery, entity speech, a body failing | twice per file |
+| **Asymmetry** | unequal paragraph masses carry the scene | mandatory |
+
+### Names, ranks, and what the page calls people
+
+**Stated by the archive owner, 2026-11-01:** *"IF THE TITLE IS IMPORTANT IN THE STORY THAN THAT WILL BE NEEDED AS A TITLE … THE MIX STYLE OF GIVING TITLE OR NAMING."*
+
+The dialogue rule banned the profession as a label and over-corrected. A scene about an office — the Head Keeper's authority, the Director's order, the Archive Lead's signature — in which the page calls the speaker `[she]` has deleted the thing the scene is about. The office is not a shift.
+
+| Form | Label | When it is required |
+|---|---|---|
+| **Name** | `[Marjuk]` | the person is the subject and the office is not doing work — the default |
+| **Title alone** | `[the Head Keeper]` | the record holds no name, and the office is the character |
+| **Name and title** | `[Marjuk, the Archive Lead]` | the scene turns on the difference between the man and the office |
+
+- **The mixed form is the dossier's own title pattern.** Name, comma, `the`, office in lower case — `Marjuk, the Archive Lead`, exactly as the file is titled.
+- **The strike test.** Remove the titles: label, address, narration. If the scene stops working, the title was load-bearing and must appear in at least two of the three places. A title that lives only in a label is a costume.
+- **A post is not an office.** Medic, cook, engineer, clerk, specialist, warden and envoy keep `[she]`, `[him]` or `[unknown]`. The test is whether the world is organised by the office.
+- **A title never replaces a name the corpus holds,** one form holds at a time for each speaker with any change of standing marked in the narration, and the mixed form is capped at one per file.
+
+**Composite titles.** Where a post is shared and no name exists to hang on it, the title may be welded to a bound classifier and set in full caps: `[DOCTOR-NAMH]` (masculine end), `[DOCTOR-YEOH]` (feminine end). The plain forms `-NAM` and `-YEO` are not used — they read as names, and the archive already files *Seo* as a surname, *Yeo Do-Hee* as a person and *Yeoul* as a given name. The classifier takes the house's archaic terminal `-h` (as in *Consolihan*, *Ferrehan*, *Nareumhan*), never stands alone, is never spoken to a person's face, and never appears in narration. A unique office needs no classifier. A record that files no sex writes the office alone.
+
+### The Somnarak rule — how a name is made
+
+*"In Somnarak, names are not given. They are earned — through sorrow, through survival, through service."*
+
+That doctrine, the seven laws of an earned title, the six mixed-name patterns and the ten tests that keep a name from sounding manufactured all live in `REFERENCE_SOMNARAK_WIKI/REGISTRY/SOMNARAK_NAME_REGISTRY.md`. They are not style advice; they are the world's naming grammar, and a story file that violates them has written a name no citizen could carry.
+
+| System | Source of its words | Never |
+|---|---|---|
+| Personal names | the registry's English, Korean, Somnarak Special and sanctioned mixes | coin one outside the six patterns |
+| Earned titles | the seven laws — earned, Korean + English description, evoking, weighted, replacing, non-transferable, sometimes whispered | invent one for a canon figure, or use one before the event that earns it |
+| Echo-Core Names | the Doorspeech, transcribed in hangul | translate, gloss, or coin one |
+| Bureau labels | §XII.1e and §XII.1f | confuse them with any of the three above |
+
+- **Law 5 says the world forgets the name; this rule says the record does not.** In the street a titled citizen is addressed by the title. On the page the label follows what the corpus holds. The gap between those two facts is what the strike test is for.
+- **No glory titles.** The city names people after what it cost them. A triumphant epithet on a suffering character is a misreading of the world, not a flourish.
+
+The full statement, with the worked examples and the hard limits, is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1e** (name, rank, form of address), **§XII.1f** (composite titles) and **§XII.1g** (the Somnarak rule).
+
+### Measured, not asserted
+
+1. **No two consecutive lines in one exchange carry the same weight,** unless the flattening is the point and the narration says so.
+2. **No three consecutive paragraphs may fall within fifteen percent of each other in length,** anywhere in the file.
+3. **Device caps** in the table above are hard; a device used everywhere stops being a device.
+4. **A verbatim source quote is never re-spaced.** Case is rendering, so caps may sit on a quote; uneven set and broken insert or separate characters and may therefore only touch narration, documents, and transcription. Strip `>`, `**`, `*` and the wrapping quotes and the body must still match its source.
+5. **Silence is a weight.** A character who says nothing while another speaks must be visible in a physical beat; a `"..."` line is not a beat.
+
+**A file that passes the 8-gram measure and fails this one is not finished.** The two measures are independent, and both are binding.

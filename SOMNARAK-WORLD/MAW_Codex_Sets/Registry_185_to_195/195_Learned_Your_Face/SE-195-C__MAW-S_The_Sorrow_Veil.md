@@ -22,6 +22,8 @@ The Sorrow Veil is a suit of pale, half-reflective weave that formed after a com
 
 ## PROTECTION STATISTICS
 
+**Grade / Element:** γ / Void
+
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak |
@@ -39,14 +41,3 @@ The collar fades when the bearer refuses companionship; a threadless Veil is sea
 ## SET RELATIONSHIP
 
 The Veil is the identity layer of *Mirror With Company*, allowing Lens and Stigma insight only while a real person remains present.
-
----
-
-**Document ID:** `SE-195-C`  
-**Linked Entity:** `SE-195`  
-**Item Registry Code:** `MAW-S-195-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -14,6 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
+**Maximum Amount:** 5 — Abundant
 A nearly colorless Han-glass vial rests at the Head slot, hot for one breath near manipulated sorrow. The fluid visible in dreams has no waking volume. An accepted work cycle may prompt random bestowal; recorded chance is 5%.
 
 | Field | Record |
@@ -57,14 +58,3 @@ The dream-fluid now rises whenever a bearer treats suppression as recovery.
 Vial removes coercive direction, Veil holds identity, and Lens excises the external disturbance. Full-set use makes no claim on Somnalith’s sleeping cause.
 
 > *“I lost the words, not the care that taught them. I will not make the sleeper repay me.”* — Dreamer Sora
-
----
-
-**Document ID:** `SE-611-D`  
-**Linked Entity:** `SE-611`  
-**Item Registry Code:** `MAW-G-611-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

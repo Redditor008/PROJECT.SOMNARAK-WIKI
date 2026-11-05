@@ -17,8 +17,8 @@ Sanctioned furniture (a *label* may repeat; a *value* may not):
     "Progressive declassified records"),
   - rows whose value is derived from the SECC code itself (potency and
     coherence modifiers, entity role/type, sorrow category, valid work types,
-    work difficulty, comprehension level, vessel-destructible, the N/A work-type
-    rows forced by the Object/Place rule, the fixed-object Speed row, the
+    work difficulty, comprehension level, vessel-destructible, the barred work-type
+    rows read off the Threat Score, the fixed-object Speed row, the
     "no breach counter" activation row, and the Stationary/Mobile movement row),
   - the two global combat rules (Falloff Rule, Damage Application).
 
@@ -35,6 +35,13 @@ import collections
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WINGS = ['SOMNARAK-WORLD/Sorrow_Entities', 'SOMNARAK-WORLD/Unknown_Entities']
 THRESHOLD = 10
+
+# A dossier is a file that carries an SECC designation. The wings also hold a
+# README each and one long-form log; counting those as dossiers made this census
+# report 302 where every auditor reports 301, and the two numbers were quoted
+# against each other for three batches.
+DESIGNATION = re.compile(r'(?:\*\*Designation\*\*|SECC Designation):?\*{0,2}\s*\|?\s*`?'
+                         r'([CNO])-(I{1,3}|IV|V)([\u03b1\u03b2\u03b3\u03b4\u03c9])-(\d+[a-z]?)')
 
 FURNITURE = [
     r'^\|\s*Name / Category\s*\|',
@@ -58,7 +65,10 @@ FURNITURE = [
     r'^\|\s*\*\*Work difficulty\*\*\s*\|',
     r'^\|\s*\*\*R\.D\. Comprehension Level\*\*\s*\|',
     r'^\|\s*\*\*Vessel-Destructible\*\*\s*\|',
-    r'^\|\s*\*\*(Flerehan|Pugnahan)\*\*[^|]*\|\s*N/A',
+    # The barred pair reads off the Threat Score (R-41). The legacy tokens stay
+    # in the pattern so a half-migrated file is exempted here and reported by
+    # check_work_preference, rather than being filed as a copied value.
+    r'^\|\s*\*\*(Flerehan|Pugnahan)\*\*[^|]*\|\s*\*{0,2}(?:N/A|0%|-100%|Net-Neutral|Negative-Low)',
     r'^\|\s*\*\*Speed\*\*\s*\|\s*N/A',
     r'^\|\s*\*\*Activation threshold\*\*\s*\|\s*Activation / expansion trigger',
     r'^\|\s*\*\*Movement\*\*\s*\|\s*(Stationary|Mobile)\b',
@@ -69,12 +79,17 @@ FURNITURE = [re.compile(p) for p in FURNITURE]
 
 
 def dossiers():
-    out = []
+    """Every file in the wings that is a dossier, and every file that is not."""
+    out, other = [], []
     for d in WINGS:
         for f in sorted(os.listdir(os.path.join(ROOT, d))):
-            if f.endswith('.md') and f != 'README.md':
-                out.append(os.path.join(ROOT, d, f))
-    return out
+            if not f.endswith('.md') or f == 'README.md':
+                continue
+            p = os.path.join(ROOT, d, f)
+            with open(p, encoding='utf-8') as fh:
+                text = fh.read()
+            (out if DESIGNATION.search(text) else other).append(p)
+    return out, other
 
 
 def candidate(s):
@@ -87,7 +102,7 @@ def candidate(s):
 
 
 def census():
-    files = dossiers()
+    files, other = dossiers()
     owner = collections.defaultdict(set)
     for p in files:
         with open(p, encoding='utf-8') as fh:
@@ -96,13 +111,13 @@ def census():
                 if candidate(s):
                     owner[s].add(p)
     shared = {s: v for s, v in owner.items() if len(v) >= THRESHOLD}
-    return files, shared
+    return files, shared, other
 
 
 def main():
     args = sys.argv[1:]
     paths = [a for a in args if not a.startswith('-') and not a.isdigit()]
-    files, shared = census()
+    files, shared, other = census()
     if paths:
         for p in paths:
             ap = p if p.startswith('/') else os.path.join(ROOT, p)
@@ -119,7 +134,8 @@ def main():
     dirty = set()
     for v in shared.values():
         dirty |= v
-    print('dossiers                      %d' % len(files))
+    print('dossiers                      %d  (%d file%s with no SECC designation)'
+          % (len(files), len(other), '' if len(other) == 1 else 's'))
     print('distinct residue lines        %d  (shared by >= %d dossiers)'
           % (len(shared), THRESHOLD))
     print('residue instances             %d' % inst)

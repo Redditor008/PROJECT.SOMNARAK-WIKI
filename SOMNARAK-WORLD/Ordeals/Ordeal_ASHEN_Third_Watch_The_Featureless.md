@@ -61,7 +61,7 @@ Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight; 
 | **Han Pressure [ATK]** | 30–50 per hit · Void |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It engulfs, and the erasure-peel strips a piece of the self away with every pass. 
+**Ability:** It engulfs, and the erasure-peel strips a piece of the self away with every pass.
 
 ### The Geometric Void (Non-Humanoid, Elite-grade)
 

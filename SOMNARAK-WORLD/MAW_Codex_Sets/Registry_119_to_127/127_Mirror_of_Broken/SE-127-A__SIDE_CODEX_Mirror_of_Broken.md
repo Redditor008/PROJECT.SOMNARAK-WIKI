@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IIIγ-127 [WS]`  
 **Author:** Gate Watch Commander Xyan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Gate vicinity dream-boundary observation
 
@@ -61,10 +61,10 @@ No two observations give the same body shape. One shard may show the person befo
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Shards turn toward the worker’s grief. | Down | Let each acknowledged loss remain distinct; do not demand integration on command. |
-| Pugnahan | Dream fractures into hostile reflections. | Up | Never force a worker to choose a “real” self under pressure. |
+| Flerehan | Shards turn toward the worker’s grief. | Decrease | Let each acknowledged loss remain distinct; do not demand integration on command. |
+| Pugnahan | Dream fractures into hostile reflections. | Increase | Never force a worker to choose a “real” self under pressure. |
 | Viderehan | Shows selves the worker abandoned. | Stable | Record change without treating past identity as evidence against current survival. |
-| Ferrehan | Tests whether the worker can remain without choosing one self. | Down | Maintain a Gate Watch partner outside the dream field. |
+| Ferrehan | Tests whether the worker can remain without choosing one self. | Decrease | Maintain a Gate Watch partner outside the dream field. |
 
 ### Corrupt response
 
@@ -85,7 +85,7 @@ The set anchors conflicting identities without asking a bearer to discard one fo
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Fractured Celestial Prism | γ | Weight | Disrupts forced identity selection without deciding which self-history is real | `SE-127-B__MAW-W_The_Broken_Maul.md` |
+| Weapon | The Fractured Celestial Prism | γ | Weight | Disrupts forced identity selection without deciding which self-history is real | `SE-127-B__MAW-W_The_Fractured_Celestial_Prism.md` |
 | Suit | The Broken Mantle | γ | Weight | Weight protection while carrying multiple self-histories | `SE-127-C__MAW-S_The_Broken_Mantle.md` |
 | Stigma | The Broken Reflection | γ | Weight | Anchors a bearer between conflicting identities | `SE-127-D__MAW-G_The_Broken_Reflection.md` |
 
@@ -106,7 +106,7 @@ The set anchors conflicting identities without asking a bearer to discard one fo
 
 **Quick effect:** A Weight Skewer disrupts pressure formed by forced identity selection without deciding which self-history was real.
 
-**Weapon-title review (2026-10-11):** `N-IIIγ-127`’s primary M.A.W. block and floating twelve-faced silvered-mirror prism Appearance, current `SE-127-B` heading/Appearance, Master Registry row, Master Codex table row 415, `MAW-W-127` archetype, and same-code title/Appearance revision `3abe5470` support *The Fractured Celestial Prism*. The linked item’s Official name and Resting/Active forms, plus detailed Master Codex Entry 415, still identify *The Broken Maul* and describe a mirrored maul head whose fractures open into black impact paths. No Maul-to-prism transition or second form is documented. The old item filename remains only as the link. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `N-IIIγ-127`’s primary M.A.W. block and floating twelve-faced silvered-mirror prism Appearance, current `SE-127-B` heading/Appearance, Master Registry row, Master Codex table row 415, `MAW-W-127` archetype, and same-code title/Appearance current revision support *The Fractured Celestial Prism*. The linked item’s Official name and Resting/Active forms, plus detailed Master Codex Entry 415, still identify *The Broken Maul* and describe a mirrored maul head whose fractures open into black impact paths. No Maul-to-prism transition or second form is documented. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
@@ -171,13 +171,3 @@ The set anchors conflicting identities without asking a bearer to discard one fo
 **Entity links:** The Exile’s Gate; The Empty Mask; Silence We Forgot We Made.  
 **Current Gate Watch note:** Xyan’s current command does not turn the entity’s unnamed source exile into a biography of the commander.  
 **Item links:** `SE-127-B`, `SE-127-C`, and `SE-127-D` contain the individual boundary, cost, and resonance histories for Whole Fragments.
-
----
-
-**Document ID:** `SE-127-A`  
-**Linked Entity:** `SE-127`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

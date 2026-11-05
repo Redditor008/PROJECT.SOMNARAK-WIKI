@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Vigilance Sceptre
+# M.A.W. WEAPON — The Listening Requiem
 
-> *“The Listening Requiem remembers Well of Unfinished Words; the bearer must not mistake memory for permission.”*
+> *"Every blow interrupts the wielder's own sentence. They have not finished a thought since they took it up."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Well of Unfinished Words's lament signature in the strike.  
-**Binding rule:** the bearer names Well of Unfinished Words's event—Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground.—and accepts this limit: Allow testimony to finish; do not drain the Well
+**Binding rule:** the bearer names Well of Unfinished Words's event — “Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground.” — and accepts this limit: Allow testimony to finish; do not drain the Well
 
 ## Appearance
 
-Appearance : A six-foot command standard topped with a gilded bronze finial shaped like an open, watchful eye, fitted onto a dark mahogany staff with brass reinforcement sleeves.
+A six-foot command standard topped with a gilded bronze finial shaped like an open, watchful eye, fitted onto a dark mahogany staff with brass reinforcement sleeves.
 
 The open eye finial rotates autonomously to track fast-moving entities within twenty paces. Striking the shaft against the floor bolsters the morale and psychic composure of nearby allies.
 
@@ -31,16 +31,20 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Well of Unfinished Words's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
+**Operational / binding cost:** The Sceptre strikes in the middle of things: each blow interrupts the wielder's own sentence. Wielded long, they have not finished a thought since they took it up.
 
 ## ITEM-SPECIFIC HISTORY — *The Well of Unfinished Words Source-Trace: Weapon Record*
 
-The first The Listening Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Well of Unfinished Words. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Listening Requiem encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Well of Unfinished Words. A wielder finished the sentence the Sceptre had cut in half, the strikes stopped landing mid-word, and the bind was written from that bout.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Well of Unfinished Words's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the interruption moves into the wielding itself, and the record of each strike ends in the middle.
 - Terminal state: Well of Unfinished Words's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Allow testimony to finish; do not drain the Well” reverses the item’s benefit and raises the source Gauge.  
@@ -49,15 +53,4 @@ The first The Listening Requiem field bearer encountered this source response: N
 
 ## SET RELATIONSHIP
 
-Within *Well of Unfinished Words — Witnessed Form*, The Listening Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-778-B`  
-**Linked Entity:** `SE-778`  
-**Item Registry Code:** `MAW-W-778-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Well of Unfinished Words — Witnessed Form*, The Listening Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set once the wielder finishes a sentence before the blow lands.

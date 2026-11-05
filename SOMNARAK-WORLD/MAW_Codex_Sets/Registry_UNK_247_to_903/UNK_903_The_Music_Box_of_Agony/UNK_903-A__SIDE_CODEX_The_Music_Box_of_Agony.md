@@ -21,7 +21,7 @@ A black-and-white music box with pink lining loops the same comfort song until l
 |---|---|
 | Coherence / Potency | II / γ |
 | Element / Location | Void with Lament surface / Echo Gardens acoustic vault |
-| Gauge | Starts 45–65% |
+| Gauge / Pressure | 000/420; starts 000% · Void — no attack pattern: the case is stationary and its hazard is the lullaby, heard rather than struck (Contact Record, R-36) |
 | Trigger | Lid opened or one full recitation heard |
 | Valid Work | Viderehan and Ferrehan only |
 | Resolution | Endure one recitation and speak the listener’s own name at its close |
@@ -39,7 +39,9 @@ A black-and-white music box with pink lining loops the same comfort song until l
 | Manifestation | Object-Void — a music box |
 | Location | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |
 | R.D. Comprehension Level | 3 — Elevated |
-| Starting Sorrow Gauge | 45–65% |
+| Starting Sorrow Gauge | 000 — settled |
+| Sorrow Gauge [Depth] | 000 of 420 — rests at nothing, fills to the wall in sixty seconds (`R-48`) |
+| Han Pressure [ATK] | 12–20 per note · Void |
 | Activation threshold | The lid is opened, or the lullaby is listened to beyond one full recitation |
 
 ## M.A.W. SET — *Name After the Lullaby*
@@ -53,13 +55,3 @@ A black-and-white music box with pink lining loops the same comfort song until l
 ## RESONANCE — *The Song Ends With a Name*
 
 The Crier preserves empathy, the Case muffles identity erosion, and the Chord interrupts the carousel after one complete recitation. Each operator must speak their name. Repeating the melody beyond closure removes one remembered name from the team and restarts the loop.
-
----
-
-**Document ID:** `UNK-903-A`  
-**Linked Entity:** `UNK-903`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

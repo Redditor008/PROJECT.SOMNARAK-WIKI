@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 3 — Standard
 A cold Weight Han-steel Head shard that rises only after mourning without touch. Bestowal chance is 4%.
 
 ## Appearance
@@ -26,14 +27,3 @@ The Sehnsucht Shard is a cold black head-shard of Han steel that rises only afte
 **Failures:** anchor becomes refusal to feel; grief mistaken for personal memory; bearer cannot leave site.
 
 **Care:** Discharge through witnessed rest away from The Scar.
-
----
-
-**Document ID:** `SE-476-D`  
-**Linked Entity:** `SE-476`  
-**Item Registry Code:** `MAW-G-476-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

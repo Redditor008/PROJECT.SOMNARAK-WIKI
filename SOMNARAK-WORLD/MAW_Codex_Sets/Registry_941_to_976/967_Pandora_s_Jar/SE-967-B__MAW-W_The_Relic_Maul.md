@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Pandora War-Cleaver
+# M.A.W. WEAPON — The Relic Maul
 
-> *“The Relic Maul remembers Pandora's Jar; the bearer must not mistake memory for permission.”*
+> *"It opens what was sealed and puts the record of the opening somewhere the wielder cannot reach. Many battles, no memory of them."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Pandora's Jar's weight signature in the strike.  
-**Binding rule:** the bearer names Pandora's Jar's event—A treasured artifact disappeared during a Desolate expedition; records of it were later removed.—and accepts this limit: Bear the heat and name what was lost
+**Binding rule:** the bearer names Pandora's Jar's event — “A treasured artifact disappeared during a Desolate expedition; records of it were later removed.” — and accepts this limit: Bear the heat and name what was lost
 
 ## Appearance
 
-Appearance : A colossal four-foot war cleaver forged from dark bell-bronze, bound along the spine with soldered bronze bands and lead seals that keep the split halves of the blade clamped shut.
+A colossal four-foot war cleaver forged from dark bell-bronze, bound along the spine with soldered bronze bands and lead seals that keep the split halves of the blade clamped shut.
 
 Deep impact notches along the cutting bevel reveal simmering orange embers within the core. Striking hard armor strains the lead seals, venting bursts of pressurized retaliatory heat.
 
@@ -31,16 +31,20 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Pandora's Jar's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
-## ITEM-SPECIFIC HISTORY — *The Pandora s Jar Source-Trace: Weapon Record*
+**Operational / binding cost:** The Cleaver opens what was sealed and puts the record of it where the wielder cannot reach: each blow removes a line about the fight from the wielder's memory. Wielded long, the wielder has fought many battles and remembers none of them.
 
-The first The Relic Maul field bearer encountered this source response: Burns with retaliatory fury. The weapon opens the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+## ITEM-SPECIFIC HISTORY — *The Pandora's Jar Source-Trace: Weapon Record*
+
+The first bearer of The Relic Maul encountered this source response: Burns with retaliatory fury. The weapon opens the immediate hazard only after the team attributed it to Pandora's Jar. A wielder came out of a fight with no memory of having fought it and the Cleaver was still open in their hand, and the Maul’s binding is the incident note from that return.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Pandora's Jar's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the line about the fight is removed before the fight, and the wielder arrives at the field already unable to say why.
 - Terminal state: Pandora's Jar's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Bear the heat and name what was lost” reverses the item’s benefit and raises the source Gauge.  
@@ -49,15 +53,4 @@ The first The Relic Maul field bearer encountered this source response: Burns wi
 
 ## SET RELATIONSHIP
 
-Within *Pandora's Jar — Witnessed Form*, The Relic Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-967-B`  
-**Linked Entity:** `SE-967`  
-**Item Registry Code:** `MAW-W-967-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Pandora's Jar — Witnessed Form*, The Relic Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow its wielder can remember.

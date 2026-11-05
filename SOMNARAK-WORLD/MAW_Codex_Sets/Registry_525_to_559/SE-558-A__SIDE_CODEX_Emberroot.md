@@ -22,7 +22,7 @@ Emberroot is a humanoid knot of ember-branches whose planted feet travel through
 | Coherence / Potency | III / γ |
 | Element | Weight |
 | Location | Zone C, Collector’s Row |
-| Gauge / Pressure | 673/673; starts 45–65% / 16–36 Weight |
+| Gauge / Pressure | 000/673; starts 000% / 16–36 Weight |
 | Movement / Resistance | 1.95 m/s / 35% Weight, 25% other |
 | Breach threshold | Gauge ≥75%; source ultimate begins at 65% |
 | Observation | 2 — Basic |
@@ -65,13 +65,3 @@ Extraction Lead Durivel Cho recovered the first stable echoes only after Auditor
 During the Ledger-Floor Subsidence, Auditor Yuna refused to burn the debt books even as roots traveled through their ink. She named the obligation, then named the living family separately. Three roots went dark. The fourth remained warm beneath the youngest descendant, who said that freedom felt like leaving home. That sentence, not the suppression, authorized the set’s present warning.
 
 > *“The chain stopped hurting long before it stopped consuming them.”* — Auditor Yuna
-
----
-
-**Document ID:** `SE-558-A`  
-**Linked Entity:** `SE-558`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -22,7 +22,7 @@ The entity formed from desire denied until it became anger. The grief of wanting
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge / Zone C, Mask Market |
-| Gauge / Pressure | 382/382; starts 35–50% / 10–23 per hit · Grudge |
+| Gauge / Pressure | 000/382; starts 000% / 10–23 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure. |
 
@@ -40,7 +40,7 @@ The entity formed from desire denied until it became anger. The grief of wanting
 
 ## WITNESS RECORD — *The Last Fruit Source-Trace*
 
-During the The Last Fruit Source-Trace, the field team preserved this source fact: A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of wanting something simple and being taught that wanting was shameful.
+During *The Last Fruit Source-Trace*, the field team preserved this source fact: A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of wanting something simple and being taught that wanting was shameful.
 
 ## M.A.W. SET — *Last Fruit — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Last Fruit Source-Trace, the field team preserved this source fac
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Last Fruit's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Name the desire; do not promise to fulfill it The set cannot heal the originating event. Misuse routes Last Fruit's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-777-A`  
-**Linked Entity:** `SE-777`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Tide Maul
 
-> *“The Tide Maul remembers The Sorrow Tide; the bearer must not mistake memory for permission.”*
+> *"Each blow lands a little later than the wielder swung it, and the delay lengthens. They swing at where the fight used to be."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Sorrow Tide's weight signature in the strike.  
-**Binding rule:** the bearer names The Sorrow Tide's event—Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.—and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
+**Binding rule:** the bearer names The Sorrow Tide's event — “Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.” — and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
+
+
+### Appearance
+
+A two-handed maul that is heavier at night, by a measurable amount, which the Armoury weighs twice a day and has never been able to stop recording.
 
 ## CORE STATISTICS
 
@@ -25,16 +30,20 @@
 |---:|---:|---:|---|---:|
 | Weight 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes The Sorrow Tide's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Weapon Record*
+**Operational / binding cost:** The Maul comes in with the water: each blow lands a little later than the wielder swung it, and the delay lengthens. Wielded long, the wielder is swinging at where the fight used to be.
 
-The first The Tide Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+## ITEM-SPECIFIC HISTORY — *The Sorrow Tide Source-Trace: Weapon Record*
+
+The first bearer of The Tide Maul encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to The Sorrow Tide. A wielder was swinging at where the fight used to be and could not tell when the delay had started, and the Tide Maul’s binding is the gunnery log from that action.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Sorrow Tide's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the delay outlasts the engagement, and the blow lands after the room has emptied.
 - Terminal state: The Sorrow Tide's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Impossible; use Tide shelters and shared mourning protocols” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +52,4 @@ The first The Tide Maul field bearer encountered this source response: N/A — O
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Tide — Witnessed Form*, The Tide Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1027-B`  
-**Linked Entity:** `SE-1027`  
-**Item Registry Code:** `MAW-W-1027-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *The Sorrow Tide — Witnessed Form*, The Tide Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that lands when its wielder swings it.

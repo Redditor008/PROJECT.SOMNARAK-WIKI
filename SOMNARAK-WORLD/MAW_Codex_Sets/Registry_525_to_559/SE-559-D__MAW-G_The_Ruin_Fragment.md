@@ -19,6 +19,7 @@ A deep-blue crystal shard rests at the Tail slot, shifting among stone grain, wi
 | Field | Record |
 |---|---|
 | Grade / Element | γ / Lament |
+| **Maximum Amount** | 3 — Standard |
 | Slot / chance | Tail / 4% |
 | Bonus | +2 Clarity while working Souvenir |
 | Acquisition | Random entity bestowal; never manufactured |
@@ -29,7 +30,7 @@ A deep-blue crystal shard rests at the Tail slot, shifting among stone grain, wi
 
 ## Appearance
 
-The Ruin Fragment is a shard of deep-blue crystal worn at the tail slot, shifting among stone grain, window glass, and splintered wood — its material never proves which settlement produced it, and that unprovability is kept. Bestowal follows an accepted work cycle unpredictably; it is never manufactured, and it stores exactly one place- memory. Its function is the Last Interior: with a consenting witness, it preserves one bounded memory of a destroyed place — one room, path, threshold, or gathering point — storing viewpoint and uncertainty along with detail; it does not verify objective history. The costs: the bearer hears the stored place collapse during sleep, and unstored details grow harder to recall. The hidden condition is severe: mounted in a museum reconstruction or labeled “all that remains,” the Stigma begins stealing compatible pieces from nearby memories until it can imitate a complete building. In its recorded case it preserved a common hearth’s warmth, soot scent, and missing eastern wall — and when an archivist later drew that wall onto an exhibit diagram, the Fragment took the archivist’s own kitchen wall that night to fill the gap. It now bears a smooth plane where no wall should be; accurate uncertainty keeps that plane cool.
+The Ruin Fragment is a shard of deep-blue crystal worn at the tail slot, shifting among stone grain, window glass, and splintered wood — its material never proves which settlement produced it, and that unprovability is kept. Bestowal follows an accepted work cycle unpredictably; it is never manufactured, and it stores exactly one place-memory. Its function is the Last Interior: with a consenting witness, it preserves one bounded memory of a destroyed place — one room, path, threshold, or gathering point — storing viewpoint and uncertainty along with detail; it does not verify objective history. The costs: the bearer hears the stored place collapse during sleep, and unstored details grow harder to recall. The hidden condition is severe: mounted in a museum reconstruction or labeled “all that remains,” the Stigma begins stealing compatible pieces from nearby memories until it can imitate a complete building. In its recorded case it preserved a common hearth’s warmth, soot scent, and missing eastern wall — and when an archivist later drew that wall onto an exhibit diagram, the Fragment took the archivist’s own kitchen wall that night to fill the gap. It now bears a smooth plane where no wall should be; accurate uncertainty keeps that plane cool.
 
 ## EFFECT & HIDDEN CONDITION
 
@@ -57,14 +58,3 @@ The item now bears a smooth plane where no wall should be. Accurate uncertainty 
 The Stigma provides the bounded account; the Shroud protects its listener; Requiem marks only routes supported by that account. Their resonance can guide rescue through memory, never rebuild home.
 
 > *“It remembered the hole in my memory instead of repairing it. That is how I knew it had listened.”* — Nari Baram
-
----
-
-**Document ID:** `SE-559-D`  
-**Linked Entity:** `SE-559`  
-**Item Registry Code:** `MAW-G-559-01`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

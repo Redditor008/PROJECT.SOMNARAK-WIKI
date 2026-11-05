@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-135 [LO]`  
 **Author:** Dreamer Sora  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Dream Gate waking-anchor protocol
 
@@ -26,7 +26,7 @@
 | Element | Lament |
 | Location | SECTOR-A-01, near Dream Gates |
 | Form | A flickering Dream shard shifting between a room, a face, and one warm tear that cannot settle into waking form. |
-| Gauge / pressure | 35–50% / Lament 8–20 |
+| Gauge / pressure | 357/357; starts 35–50% / Lament — no attack pattern; the sheets collected before conferring are the reading, and agreement between accounts is the one result the holding cannot give |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Wake With It |
 
@@ -61,10 +61,10 @@ No two observers receive the same image. A room becomes a face, a face becomes a
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Tears are recorded as aftermath, not used to feed the fragment. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not challenge an unfinished dream to prove waking superiority. |
+| Flerehan | Invalid for this Object/Place entity. | Net-Neutral | Tears are recorded as aftermath, not used to feed the fragment. |
+| Pugnahan | Invalid for this Object/Place entity. | Net-Neutral | Do not challenge an unfinished dream to prove waking superiority. |
 | Viderehan | Reveals the dream’s incomplete structure. | Stable | Map the dream’s edges, never write an ending for the source. |
-| Ferrehan | Holds the worker inside a repeating dream image. | Down | A waking-anchor observer stays outside the Dream layer and ends contact on schedule. |
+| Ferrehan | Holds the worker inside a repeating dream image. | Decrease | A waking-anchor observer stays outside the Dream layer and ends contact on schedule. |
 
 ### Activation response
 
@@ -85,9 +85,9 @@ The set allows controlled Dream contact. Its cost is the slow fading of waking d
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Levitating Oneiric Prisms | β | Lament | Interruption of a Dream’s grief surge | `SE-135-B__MAW-W_The_Warm_Requiem.md` |
-| Suit | The Somnolent Gossamer Shroud | β | Lament | Protection during controlled Dream observation | `SE-135-C__MAW-S_The_Warm_Shroud.md` |
-| Stigma | The Floating Dream Catcher Orb | β | Lament | Controlled dream-state entry with waking-memory cost | `SE-135-D__MAW-G_The_Warm_Shard.md` |
+| Weapon | The Levitating Oneiric Prisms | β | Lament | Interruption of a Dream’s grief surge | `SE-135-B__MAW-W_The_Levitating_Oneiric_Prisms.md` |
+| Suit | The Somnolent Gossamer Shroud | β | Lament | Protection during controlled Dream observation | `SE-135-C__MAW-S_The_Somnolent_Gossamer_Shroud.md` |
+| Stigma | The Floating Dream Catcher Orb | β | Lament | Controlled dream-state entry with waking-memory cost | `SE-135-D__MAW-G_The_Floating_Dream_Catcher_Orb.md` |
 
 ---
 
@@ -170,13 +170,3 @@ The set allows controlled Dream contact. Its cost is the slow fading of waking d
 **Entity links:** The Dream Gates; The Memory Weaver; other Dream-bound fragments.  
 **Safety distinction:** A waking anchor is a person and protocol, not a device that can replace consent or observation.  
 **Item links:** `SE-135-B`, `SE-135-C`, and `SE-135-D` contain the individual wake-cue and memory-cost records for Wake With It.
-
----
-
-**Document ID:** `SE-135-A`  
-**Linked Entity:** `SE-135`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

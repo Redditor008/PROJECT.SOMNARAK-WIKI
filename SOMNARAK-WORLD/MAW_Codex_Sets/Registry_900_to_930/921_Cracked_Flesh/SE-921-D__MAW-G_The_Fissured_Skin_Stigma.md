@@ -1,0 +1,50 @@
+# M.A.W. STIGMA — The Fissured Skin Stigma
+
+> *"Old injuries and old resentments sharpen together and neither closes while the bearer is standing."*
+
+---
+
+**Document ID:** `SE-921-D`
+**Linked Entity:** `SE-921` — Cracked Flesh
+**Source SECC Designation:** `C-IIIγ-921 [GH]`
+**Item Registry Code:** `MAW-G-921-01`
+**Author:** Dreamer Sora
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
+**Codex Set Completion:** `4/4`
+
+## IDENTITY & BINDING
+
+**Grade / Element:** γ / Grudge
+**Canonical ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
+**Binding rule:** the bearer names Cracked Flesh's event — an event the registry has not set down — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+
+## Appearance
+
+The Fissured Skin Stigma is the stigma record of the Cracked Flesh set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's body sorrow, crystallized into wearable form, one shard of the broken surface carried whole. Binding names Cracked Flesh's event — Not recorded, the wound outlasting every account of the blow — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the crack: old injuries and old resentments sharpen together and neither closes while the bearer is standing, and a season of it leaves them sitting whenever they can. The source-trace fixed doctrine: the marks read as a figure from above, and the Token interrupts the hazard only after attribution to Cracked Flesh. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
+## CORE STATISTICS
+
+**Maximum Amount:** 3 — Standard
+**Slot / Chance:** Head / 5%
+**Bonus:** +1 stat bonus when working the source entity.
+
+**Operational / binding cost:** The Token is a flake of cracked ground: carried, it sharpens old injuries and old resentments together and neither closes while the bearer is standing.
+
+## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Stigma Record*
+
+The first bearer of The Fissured Skin Stigma encountered this source response: Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. The stigma interrupts the immediate hazard only after the team attributed it to Cracked Flesh. A bearer’s old injury and old grievance sharpened in the same hour and neither closed while they were upright, and the Token’s binding is the note from that examination.
+
+## FAILURE, CORROSION & CARE
+
+- First sign: the bearer describes Cracked Flesh's event in first person.
+- Escalation: the two stay open through sleep and close only when the bearer is lying flat.
+- Terminal state: Cracked Flesh's manifestation uses the bearer as its new site.
+
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Fissured Skin Stigma only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Fissured Skin Stigma; shutdown preserves the record but does not refund its cost.
+
+## SET RELATIONSHIP
+
+Within *Cracked Flesh — Witnessed Form*, The Fissured Skin Stigma performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a day the bearer stands with nothing open.

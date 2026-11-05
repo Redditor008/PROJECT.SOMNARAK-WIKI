@@ -22,9 +22,12 @@ The Gatekeeper’s Blade is a long crimson blade formed from the red echo Aegis 
 
 ## CORE STATISTICS
 
+**Grade / Element:** δ / Grudge
+
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
 | Grudge 10–15 | 3 — Fast / 3 — Medium | Skewer, 3 targets, 100% → 70% → 50% | 2 / 50 |
+**Maximum Amount:** 2 — Limited
 
 ## SOURCE-SPECIFIC MECHANIC
 
@@ -41,14 +44,3 @@ The blade heats when a bearer calls a person “unauthorized” without a curren
 ## SET RELATIONSHIP
 
 With Plate and Charm, the Blade is part of *Gate Held Open*: defense exists only while an accountable return route remains.
-
----
-
-**Document ID:** `SE-200-B`  
-**Linked Entity:** `SE-200`  
-**Item Registry Code:** `MAW-W-200-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

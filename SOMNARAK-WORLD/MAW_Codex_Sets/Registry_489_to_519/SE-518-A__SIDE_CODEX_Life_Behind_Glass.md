@@ -20,7 +20,7 @@ A warm wet window fixed in deep tunnels shows falling sorrow and memories of liv
 |---|---|
 | Coherence / Potency | I / α |
 | Element | Lament |
-| Gauge / Pressure | 25–40% / 3–9 |
+| Gauge / Pressure | 000/240; starts 000% / Lament — no attack pattern; the first-look time and the length of the gaze are the reading |
 | Observation | 1 |
 | Set | The Returned Gaze |
 
@@ -41,13 +41,3 @@ An echo forms after a viewer witnesses the other life and returns to present anc
 ## RESONANCE — *View Without Replacement*
 
 Shard frames one distant event, Shroud anchors the viewer, and Requiem severs fixation. The life can be witnessed without replacing present obligations or being claimed as alternate destiny.
-
----
-
-**Document ID:** `SE-518-A`  
-**Linked Entity:** `SE-518`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

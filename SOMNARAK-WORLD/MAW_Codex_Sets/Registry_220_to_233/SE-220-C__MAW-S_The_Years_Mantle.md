@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-S-220-01`  
 **Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — two mantles
 
@@ -27,9 +27,15 @@ The Years Mantle is a draped Weight Han-weave garment that smells of dust and we
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Weight
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 2 / 45 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
 **Stratigraphic Guard:** Weight pressure separates into historical layers across the cloth, preventing centuries from landing on the body at once. The wearer can read the age and repair sequence of touched material.
 
@@ -46,14 +52,3 @@ The Mantle supplies the material chronology for *The Unabridged Years*. The Char
 **Maintenance:** Hang the garment in the current archive room, not deep storage. Touch each hem mark with one object made this year until the current date returns to the hand. Do not repair old tears with antique fabric; that confuses the sequence.
 
 **Removal:** A partner asks three present-tense questions. The wearer answers before the mantle is lifted from the newest layer outward. Cutting from an old date traps the wearer’s awareness there.
-
----
-
-**Document ID:** `SE-220-C`  
-**Linked Entity:** `SE-220`  
-**Item Registry Code:** `MAW-S-220-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

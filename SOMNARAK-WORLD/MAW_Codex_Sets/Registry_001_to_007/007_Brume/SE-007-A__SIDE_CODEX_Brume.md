@@ -9,7 +9,7 @@
 **SECC Designation:** `O-IIγ-007 [VP]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — mobile Desolate phenomenon
 
@@ -60,8 +60,8 @@ No map alone exits Brume. A route team must name the person, camp, or home the w
 
 | Work Type | Response | Gauge Result | Use |
 |---|---|---|---|
-| **Flerehan** | No direct response. | N/A | Use only after exit to mourn the named loss. |
-| **Pugnahan** | No direct response. | N/A | Prohibited; force thickens the fog. |
+| **Flerehan** | No direct response. | Net-Neutral | Use only after exit to mourn the named loss. |
+| **Pugnahan** | No direct response. | Net-Neutral | Prohibited; force thickens the fog. |
 | **Viderehan** | Reveals old route lines and nomad silhouettes. | Stable | Primary mapping method. |
 | **Ferrehan** | Tests whether the team keeps moving without abandoning one another. | Decrease | Primary survival method. |
 
@@ -75,7 +75,7 @@ Every Brume team must carry a physical route anchor, a Memory Anchor, and a manu
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Horizon Blade | γ | Void | Cuts a false directional layer; cannot create a destination | `SE-007-B__MAW-W_The_Hope_Lens.md` |
+| **Weapon** | The Horizon Blade | γ | Void | Cuts a false directional layer; cannot create a destination | `SE-007-B__MAW-W_The_Horizon_Blade.md` |
 | **Suit** | The Hope Veil | γ | Void | Protects a bearer from fog-induced self-loss | `SE-007-C__MAW-S_The_Hope_Veil.md` |
 | **Stigma** | The Hope Lantern | γ | Void | Gives a directional anchor against despair fields | `SE-007-D__MAW-G_The_Hope_Lantern.md` |
 
@@ -91,7 +91,7 @@ The Hope Set is not hope as comfort. It is hope as an operational decision: a re
 
 **Cost:** If the named destination is false, abandoned, or deliberately fabricated, the route line leads back to the bearer’s starting point and the Lantern goes dark for seven days.
 
-**Weapon-title review (2026-10-11):** The set row and compact-card heading now use *The Horizon Blade*. Primary `SE-O-IIγ-007`, the current `SE-007-B` heading and 34-inch arming-sword Appearance, the Master Registry, the master Codex table row, and `MAW-W-007` archetype support the title and form. Revision `3abe5470` retitled the same item code `MAW-W-007-01` and replaced its earlier pale Han-glass lens-disc Appearance with the sword. The master M.A.W. Codex detailed Entry 655 and the linked item’s Type, Bearer Requirement, Ability, Limit, and History still use “Hope Lens” / “Lens”; retain these as unresolved terminology, with no second Lens form inferred. The linked filename `SE-007-B__MAW-W_The_Hope_Lens.md` remains a path. The revised purpose describes the documented cut through a false directional layer without implying that the weapon creates a destination. Existing compact-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** The set row and compact-card heading now use *The Horizon Blade*. Primary `SE-O-IIγ-007`, the current `SE-007-B` heading and 34-inch arming-sword Appearance, the Master Registry, the master Codex table row, and `MAW-W-007` archetype support the title and form. The current revision retitled the same item code `MAW-W-007-01` and replaced its earlier pale Han-glass lens-disc Appearance with the sword. The master M.A.W. Codex detailed Entry 655 and the linked item’s Type, Bearer Requirement, Ability, Limit, and History still use “Hope Lens” / “Lens”; retain these as unresolved terminology, with no second Lens form inferred. The linked filename `SE-007-B__MAW-W_The_Horizon_Blade.md` remains a path. The revised purpose describes the documented cut through a false directional layer without implying that the weapon creates a destination. Existing compact-card numbers are unchanged.
 
 ---
 
@@ -148,13 +148,3 @@ No claim about the original nomad community is final until a route survivor or a
 ### Observation 4 — Pending
 
 The fog cannot be called mastered until a team enters, names a destination, and returns with proof that the lost route remains real.
-
----
-
-**Document ID:** `SE-007-A`  
-**Related Entity:** `SE-007`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

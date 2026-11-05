@@ -13,8 +13,8 @@
 | **Sorrow Category** | Inner Sorrow (내한) with city-wide Hope resonance |
 | **Element** | Mixed — Light, Warmth, Spark, Flame, and Grudge expressions |
 | **Manifestation** | Hybrid `[H]` — Subject-Body / Subject-Spirit composite |
-| **Physical Form** | Mixed — A two-meter magical-girl doll with a humanoid body, cat ears on both sides of the head, and a long cat tail — the body visibly artificial, jointed, painted in pinks and golds over a core of two souls (the body MIMI, the soul MadMew). Warm and bright against the grey, it smells of nothing sorrowful at all. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile in breach on foot toward the bearer of an unspoken wish, both voices agreeing on the person and disagreeing about what to do. |
 | **Location** | Zone B — mobile; last observed near the Maw perimeter |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -32,7 +32,8 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Sorrow Gauge ≥ 75% or forced persona conflict |
+| **Work Damage** | 4–7 Grudge — the cost is two assessments before a session begins: Mimi and Shu Shu are read separately or not at all |
+| **Activation threshold** | Sorrow Gauge ≥ 85% or forced persona conflict |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -54,9 +55,9 @@
 |---|---|
 | **Speed** | 2.35 m/s; 3.10 m/s during synchronized movement |
 | **Resistance** | 35% against Mixed pressure; 20% against single-element pressure |
-| **Activation threshold** | Sorrow Gauge ≥ 75% or three control conflicts |
+| **Activation threshold** | Sorrow Gauge ≥ 85% or three control conflicts |
 | **Sorrow Gauge [HP]** | 837/837 |
-| **Han Pressure [ATK]** | 27–59 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–62 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -78,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Rapid Bombaa.* [**Shu Shu · Multi-Bomb Volley**] } | "Ahuhuhu... have an appetizer, dearies!" — and five to eight cheap pirated fuse bombs come rattling out of the Star-Staff." | [Shu Shu looses a volley of small cartoon fuse-bombs that fly, bounce, roll, and scatter across the field.] | *Repeated small explosions pressure the whole area; if the personas fight mid-volley, some bombs bounce back toward the Mewgical Girl.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | At battle open, or whenever Shu Shu seizes control. |
-| { *Heart Burst* [**Mimi · Healing Heart**] } | "Mimi fires a three-meter pink 2D heart — doki-doki, warm, the kind of light that makes everything feel like it might be okay." | [Mimi projects a flat pink heart of magical energy that washes over allies and foes together.] | *Mends one ally (+12), calms panic, and soothes distress; deals only light Mixed pressure to enemies caught in the glow.* **[+12 Heal (allies) / 8 Mixed cycle (foes) | 8s, 2s per type]** | When Mimi leads, or an ally is wounded. |
-| { *BURST SHAAAAW* [**Both · Spiral Beam**] } | "Both voices align for a single scream — and a pink-and-gray spiral beam tears forward from the Star-Staff." | [Mimi and Shu Shu combine healing light and destructive spirit force into a spiraling beam that pierces in a straight line.] | *A combined beam carrying both harm and restoration; whose influence is stronger decides whether it mends or ruins.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When the two personas briefly synchronize. |
-| { *Catty Bomb* [**Shu Shu · Cat-Face Bomb**] } | "A one-meter bomb shaped like a crude bootleg cat face — ears, fangs, bent fuse — grins an instant before it pops." | [A cat-head fuse-bomb detonates, then fires lasers in four directions across the field.] | *Explosion plus a four-direction cross of lasers; bad placement can catch the Mewgical Girl in her own pattern.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When the entity funnels a target into a corner. |
-| { *SHU SHU BOMB* [**Shu Shu · Giant Bomb**] } | "Shu Shu drags an eight-meter pirated fuse-bomb into being — unstable, pink-gray, fuse already lit." | [A gigantic cartoon fuse-bomb materializes and detonates in a massive pink-gray explosion.] | *Enormous Mixed-pressure blast with a huge radius; so large it can backfire and engulf the Mewgical Girl herself.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP) | 8s, 2s per type]** | When the entity is cornered, enraged, or a persona conflict peaks. |
+| { *Rapid Bombaa.* [**Shu Shu · Multi-Bomb Volley**] } | "Ahuhuhu... have an appetizer, dearies!" — and five to eight cheap pirated fuse bombs come rattling out of the Star-Staff." | [Shu Shu looses a volley of small cartoon fuse-bombs that fly, bounce, roll, and scatter across the field.] | *Repeated small explosions pressure the whole area; if the personas fight mid-volley, some bombs bounce back toward the Mewgical Girl.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | At battle open, or whenever Shu Shu seizes control. |
+| { *Heart Burst* [**Mimi · Healing Heart**] } | "Mimi fires a three-meter pink 2D heart — doki-doki, warm, the kind of light that makes everything feel like it might be okay." | [Mimi projects a flat pink heart of magical energy that washes over allies and foes together.] | *Mends one ally (+12), calms panic, and soothes distress; deals only light Mixed pressure to enemies caught in the glow.* **[+12 Heal (allies) / 8 Mixed cycle (foes) \| 8s, 2s per type]** | When Mimi leads, or an ally is wounded. |
+| { *BURST SHAAAAW* [**Both · Spiral Beam**] } | "Both voices align for a single scream — and a pink-and-gray spiral beam tears forward from the Star-Staff." | [Mimi and Shu Shu combine healing light and destructive spirit force into a spiraling beam that pierces in a straight line.] | *A combined beam carrying both harm and restoration; whose influence is stronger decides whether it mends or ruins.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the two personas briefly synchronize. |
+| { *Catty Bomb* [**Shu Shu · Cat-Face Bomb**] } | "A one-meter bomb shaped like a crude bootleg cat face — ears, fangs, bent fuse — grins an instant before it pops." | [A cat-head fuse-bomb detonates, then fires lasers in four directions across the field.] | *Explosion plus a four-direction cross of lasers; bad placement can catch the Mewgical Girl in her own pattern.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the entity funnels a target into a corner. |
+| { *SHU SHU BOMB* [**Shu Shu · Giant Bomb**] } | "Shu Shu drags an eight-meter pirated fuse-bomb into being — unstable, pink-gray, fuse already lit." | [A gigantic cartoon fuse-bomb materializes and detonates in a massive pink-gray explosion.] | *Enormous Mixed-pressure blast with a huge radius; so large it can backfire and engulf the Mewgical Girl herself.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP) \| 8s, 2s per type]** | When the entity is cornered, enraged, or a persona conflict peaks. |
 
 ### Charge Special Attacks
 
@@ -90,7 +91,7 @@ These require the Mewgical Girl to charge (5-10s), during which Mimi and Shu Shu
 
 | Special | Charge | Effect |
 |---|---|---|
-| **MEW SPECIAL <3** | 5-8s | Creates four 3-meter Catty Bombs at once and throws them together; each detonates into a four-direction laser burst, blanketing the field in overlapping cross-patterns. |
+| **MEW SPECIAL <3** | 5-8s | Creates four 3-meter Catty Bombs at once and throws them together. Each detonates into a four-direction laser burst, blanketing the field in overlapping cross-patterns. |
 | **MEW LIGHT BEAAAAAM** | 10s | A "Sure Hit" golden-and-blue beam from the Star-Staff — selectively heals/stabilizes allies while striking enemies with its full destructive force. Almost impossible to avoid once released. |
 | **MEWTASTICAL TRANSFORM** | 5s | A synchronized transformation merging both personas' outfits and traits: **3x boost** to combat, magic, movement, attack and healing; clumsiness reduced 45%. Ends early if they argue. |
 
@@ -118,6 +119,7 @@ After the opening line (*"Ahuhuhu... alright, dearies!"*), the track **MAGICAL M
 - Bomb or beam backlash can stun the body and interrupt the next action.
 - Forced separation attempts risk injury to both Mimi and Shu Shu.
 - A stable resolution requires both identities to remain present and responsive.
+- She is mobile and has been observed at the Maw perimeter, so the facility patrols a boundary it did not draw, and the patrol is added to the district's route rather than the wing's.
 
 ## Appearance
 
@@ -162,19 +164,19 @@ After the opening line (*"Ahuhuhu... alright, dearies!"*), the track **MAGICAL M
 ## Origin
 
 - **Formation:** The Mewgical Girl formed when a collective wish for rescue, affection, and impossible heroism entered a magical-doll vessel and bonded with a separate protective spirit.
-- **The Sorrow:** The body (Mimi) carries the loneliness of a doll made to perform happiness; the soul (Shu Shu) carries fear, suspicion, and the need to protect before being hurt.
+- **The Sorrow:** The body (Mimi) carries the loneliness of a doll made to perform happiness. The soul (Shu Shu) carries fear, suspicion, and the need to protect before being hurt.
 - **The Event:** Mimi and Shu Shu became joined through the same magical core. The body could not move without a soul; the soul could not affect the physical world without a body. Their incompatibility became a permanent two-person existence.
-- **The People:** The citizens who wanted someone to save them; the children who wanted a perfect magical hero; and the frightened inner voice that expected every promise of rescue to fail.
+- **The People:** The citizens who wanted someone to save them. The children who wanted a perfect magical hero. And the frightened inner voice that expected every promise of rescue to fail.
 - **Expanded origin context:** The Mewgical Girl's cheerfulness is not proof the sorrow disappeared. Mimi performs hope through color, healing, rhythm, and affection; Shu Shu turns the same pressure into bombs, beams, suspicion, and violent defense. Their bond remains stable only when both identities are acknowledged — which is, the R.D. notes, exactly the lesson the Hand of Hope was meant to teach the city.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Mimi responds to affection and reassurance; Shu Shu becomes suspicious unless the worker acknowledges both identities. | Decrease (if both are addressed) |
-| **Pugnahan** (Confrontation) | Shu Shu answers with bombs and destructive spirit force; Mimi may interrupt to protect the target. | Increase (during persona conflict) |
-| **Viderehan** (Observation) | Reveals which persona is leading and how control changes the body's color, voice, and staff output. | Stable |
-| **Ferrehan** (Endurance) | Tests whether the worker can remain present through overlapping voices, misfires, jokes, and sudden aggression without forcing a choice. | Decrease (if the worker does not force a choice) |
+| **Flerehan** (Tears) | Mimi responds to affection and reassurance; Shu Shu becomes suspicious unless the worker acknowledges both identities. | Decrease (if both are addressed) · High |
+| **Pugnahan** (Confrontation) | Shu Shu answers with bombs and destructive spirit force; Mimi may interrupt to protect the target. | Increase (during persona conflict) · Low |
+| **Viderehan** (Observation) | Reveals which persona is leading and how control changes the body's color, voice, and staff output. | Stable · Common |
+| **Ferrehan** (Endurance) | Tests whether the worker can remain present through overlapping voices, misfires, jokes, and sudden aggression without forcing a choice. | Decrease (if the worker does not force a choice) · Common |
 
 ### Operational Work Notes
 
@@ -197,8 +199,8 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 ### Escalation Notes
 
 - **Breach type:** Escape on foot, and the file is careful about the word: she is not running from the unit, she is looking for the person the wish was about, and both voices are looking for the same one.
-- **Containment priority:** Address both voices before intervention. Follow the Management row’s conditional suppression authorization; Pugnahan provokes Shu Shu’s bombs and may draw Mimi into protecting the target, so it is not a guaranteed route back to control.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Address both voices before intervention. Follow the Management row’s conditional suppression authorization. Pugnahan provokes Shu Shu’s bombs and may draw Mimi into protecting the target, so it is not a guaranteed route back to control.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn while the two identities are in conflict. Forcing them apart does not address the gauge; it is the documented failure condition.
 - **Containment priority:** Get the unaddressed away first. The drain falls on whoever she is speaking to rather than on the room, and both voices agree about the choice of person — the disagreement is only ever about what to do with them.
 - **What ends it:** Nothing in the record ends a roam except both voices being answered by the same worker in the same conversation. The two recorded attempts to end one by forcing a single identity are the reason the file says so, and both closed with the body in soot and the drain still climbing.
 
@@ -226,7 +228,7 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 - Weight: 0.8 (Warded)
 **Max Amount:** 2 | **Echo Cost:** 45 Sorrow Echoes
 **Ability:** Grants resistance to Mixed and sorrow pressure; the costume's glow can stabilize one persona's control for a short window.
-**Cost:** The wearer is pulled into performing a happiness they do not feel; prolonged wear blurs the line between the wearer's own voice and the costume's.
+**Cost:** The wearer is pulled into performing a happiness they do not feel. Prolonged wear blurs the line between the wearer's own voice and the costume's.
 
 ### M.A.W. Stigma — The Cat-Paw Bell
 
@@ -243,7 +245,7 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece carries both voices and must be treated as a conditional extension of the two-identity entity, not ordinary equipment. The Star-Staff's full output requires Mimi and Shu Shu to agree; if the voices desynchronize, the staff may split healing and destructive output, misfire, or force Cartoon Soot. The Suit's toll is the one the Armoury watches: the wearer is pulled into performing a happiness they do not feel, and the performance holds right up to the moment they are alone. The Bell is the only piece in the set that cannot be asked for, and the file notes that this is not a precaution but a description — the entity gives one, occasionally, to workers who have answered both voices in one sentence. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation.
+Each M.A.W. piece carries both voices and must be treated as a conditional extension of the two-identity entity, not ordinary equipment. The Star-Staff's full output requires Mimi and Shu Shu to agree. If the voices desynchronize, the staff may split healing and destructive output, misfire, or force Cartoon Soot. The Suit's toll is the one the Armoury watches: the wearer is pulled into performing a happiness they do not feel, and the performance holds right up to the moment they are alone. The Bell is the only piece in the set that cannot be asked for, and the file notes that this is not a precaution but a description — the entity gives one, occasionally, to workers who have answered both voices in one sentence. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation.
 
 ### Field Use Record
 
@@ -252,7 +254,7 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 | **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; Mimi/Shu Shu control state, equipment color. |
 | **During use** | Activation time, voice overlap, charge time, beam color, bomb count, healing output. |
 | **At limit** | Duration, persona conflict, self-hit, Cartoon Soot, staff instability. |
-| **After use** | Record the selected piece’s toll now and at the delayed review. For the Staff, obtain both voices’ “no target” before closure; for the Costume, debrief in the wearer’s natural voice without transformation music and record the wearer, Mimi and Shu Shu naming themselves before unclasping; for the Bell, keep separate voice samples and record both personas acknowledging the bearer as neither of them. A delayed Costume cost is not evidence that every piece is symptom-free on the day. |
+| **After use** | Record the selected piece’s toll now and at the delayed review. For the Staff, obtain both voices’ “no target” before closure. For the Costume, debrief in the wearer’s natural voice without transformation music and record the wearer, Mimi and Shu Shu naming themselves before unclasping. For the Bell, keep separate voice samples and record both personas acknowledging the bearer as neither of them. A delayed Costume cost is not evidence that every piece is symptom-free on the day. |
 
 **Stat interpretation:** The set's grade measures how cleanly the archetype was drawn off; it says nothing about the two voices the wearer will be carrying. A δ-grade focus that performs to specification can still leave a bearer who answers in two tones without noticing, and on this set the Armoury reads the second column before it reads the first.
 
@@ -274,9 +276,9 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Identify the two voices, current color state, staff glow, and control persona. The first reliable markers are the dual voice and the flickering color state near the Maw perimeter. |
-| **Sustained observation** | Record whether Mimi and Shu Shu cooperate, interrupt, or compete; distinguish the emotional effect from the combat behavior, as they do not always escalate together. |
+| **Sustained observation** | Record whether Mimi and Shu Shu cooperate, interrupt, or compete. Distinguish the emotional effect from the combat behavior, as they do not always escalate together. |
 | **Activation or escalation** | Watch for voice overlap, color flicker, independent tail movement, and staff charge; record charge duration before any response. |
-| **Post-contact review** | Record which persona remembers the encounter and whether the other disagrees; the report is incomplete if it records only the explosions and not the two voices inside them. |
+| **Post-contact review** | Record which persona remembers the encounter and whether the other disagrees. The report is incomplete if it records only the explosions and not the two voices inside them. |
 | **State change** | Control shifts mid-sentence: the palette flickers between the three states, the tail moves on its own, and a voice overlaps itself. Record the trigger and the second voice's first word. |
 | **Transition** | A charge or transformation entered and abandoned — the staff glowing without a charge, soot arriving without a bomb. Both are entered as persona conflict rather than equipment failure. |
 
@@ -316,7 +318,7 @@ The battlefield fills with chanting, pink light, and a second voice arguing from
 
 **At first contact:** The first identifiable detail is a cheerful song undercut by a hiss of bomb fuses. The cat-paw staff flashes pink, then blue, then grey. The air smells faintly of caramel and gunpowder.
 
-**With continued exposure:** The cute rhythm becomes difficult to follow; every cheerful beat may hide a fuse, a beam charge, or a sudden change in control.
+**With continued exposure:** The cute rhythm becomes difficult to follow. Every cheerful beat may hide a fuse, a beam charge, or a sudden change in control.
 
 **When the entity activates:** The staff blazes gold, blue, pink, and grey as the body and soul synchronize — or fail to.
 
@@ -341,10 +343,10 @@ The Mewgical Girl must be assessed as a two-identity network inside one body. Th
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hand of Hope** | Strengthens Mimi's healing and shared Hope output. | Healing becomes stronger, but shared emotion can make the two voices overlap. | Record control state, color, healing strength, and post-contact memory. |
-| **The Defiant Ember** | Resonates with Shu Shu's refusal to surrender control. | Bomb output and resistance increase while negotiation becomes harder. | Record aggression, staff color, and Sorrow Gauge movement. |
-| **The Trinity of Dawn** | Can harmonize with both voices, but may overload the bond. | All voices may sing together; synchronization becomes powerful and unstable. | Record voice count, charge interruption, and identity separation afterward. |
-| **The Kind Healer** | Mimi responds warmly; Shu Shu distrusts the blessing chain. | Healing can calm Mimi while increasing Shu Shu's protective suspicion. | Record which persona received the contact and whether control shifted. |
+| [**The Hand of Hope**](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) | Strengthens Mimi's healing and shared Hope output. | Healing becomes stronger, but shared emotion can make the two voices overlap. | Record control state, color, healing strength, and post-contact memory. |
+| [**The Defiant Ember**](../Hope_Transformations/HT-005_The_Defiant_Ember_저항의_불씨.md) | Resonates with Shu Shu's refusal to surrender control. | Bomb output and resistance increase while negotiation becomes harder. | Record aggression, staff color, and Sorrow Gauge movement. |
+| [**The Trinity of Dawn**](../Hope_Transformations/HT-V-HC-001_The_Trinity_of_Dawn_새벽의_삼위일체.md) | Can harmonize with both voices, but may overload the bond. | All voices may sing together; synchronization becomes powerful and unstable. | Record voice count, charge interruption, and identity separation afterward. |
+| [**The Kind Healer**](../Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Mimi responds warmly; Shu Shu distrusts the blessing chain. | Healing can calm Mimi while increasing Shu Shu's protective suspicion. | Record which persona received the contact and whether control shifted. |
 
 **Interaction procedure:** Never treat the two identities as a single emotional response. Record the speaker, body state, color state, trigger, effect, and whether the second identity accepted or resisted the interaction.
 
@@ -405,15 +407,15 @@ They still argue. They still interrupt each other's songs. Mimi calls Shu Shu pa
 - Self-hit bomb damage produces Cartoon Soot, not ordinary injury.
 - The entity apologizes in two voices; both apologies are sincere.
 - Readings on file, all of them already in this record: body 2.0 m, staff 1.7 m, paw 60 cm, gauge 837 / 837, opening 60–80 %, yield 20–28, resistance 35 / 20 %, endurance 20+ turns, synchronized speed 3.10 m/s.
-**Cross-References:** The Hand of Hope · The Defiant Ember · The Trinity of Dawn · The Kind Healer · the wish-born · the Maw perimeter · Zone B · the Consolihan
+**Cross-References:** [The Hand of Hope](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) · [The Defiant Ember](../Hope_Transformations/HT-005_The_Defiant_Ember_저항의_불씨.md) · [The Trinity of Dawn](../Hope_Transformations/HT-V-HC-001_The_Trinity_of_Dawn_새벽의_삼위일체.md) · [The Kind Healer](../Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · the wish-born · [the Maw](../Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md) perimeter · Zone B · the Consolihan
 **Faction Involvement:** SED (B-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
 **Originator:** The collective wish *"someone save us"* (body, Mimi) bonded to a protective spirit (soul, Shu Shu) through the Hand of Hope's opening, Year 4238.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity's behavior, dual-persona Work Type response, breach condition, M.A.W. instability, and interaction pattern must be read together. The Mewgical Girl is two identities sharing one vessel; a stable gauge does not prove a stable bond. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity's behavior, dual-persona Work Type response, breach condition, M.A.W. instability, and interaction pattern must be read together. The Mewgical Girl is two identities sharing one vessel; a stable gauge does not prove a stable bond. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room. Personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Recheck the body-soul bond, persona-control balance, and Sorrow Gauge after every failed synchronization, charge interruption, self-hit, or forced control shift. The Unknown Sorrow Entity registry describes a living, wish-born phenomenon — not a permanently complete classification.
+**Review requirement:** Recheck the body-soul bond, persona-control balance, and Sorrow Gauge after every failed synchronization, charge interruption, self-hit, or forced control shift. Both identities are checked separately and neither is treated as the fault in the other: the misfires, the beams and the self-hits are all persona-conflict findings, and a review that explains them by one half alone has explained nothing.
 
 ## Trivia
 
@@ -424,7 +426,7 @@ They still argue. They still interrupt each other's songs. Mimi calls Shu Shu pa
 - Joint singing produces the strongest and least stable attacks.
 - The entity apologizes after almost every attack — twice, once per voice, and both times sincerely.
 - The staff's colour is not a state indicator but a state record: it shows the palette the body was in a half-second before, which is why R.D. observation is timed against it rather than read from it.
-- The two voices have never both been heard singing and arguing at the same time; the file notes this as the closest thing to a tell the entity has.
+- The two voices have never both been heard singing and arguing at the same time. The file notes this as the closest thing to a tell the entity has.
 
 ### Registry Trivia
 

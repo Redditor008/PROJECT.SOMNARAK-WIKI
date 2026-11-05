@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-088 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on approaching the fountain while suppressing tears or uncompleted mourning |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Endlessly sad |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A broad, low basin of worn grey stone, ringed with moss that should be dead but is alive, weeping a slow dark liquid thicker than water — closer to tears, or to lymph. The pool has no visible bottom and reflects no face; its surface moves with the grief of whoever stands nearest. The liquid is warm, faintly saline, and smells of rain on old cloth. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — the basin has never moved. What moves is the damp, outward across the Gardens, and the moss line behind it. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,78 +28,88 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 per successful work cycle, read off the rim markers rather than the flow itself |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the wall** — The Gardens' beds take the overflow and thrive on it; the moss around the basin is alive in conditions that should have killed it. |
+| **Work Damage** | 3–5 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the water recovered from the basin, which is not water. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Share the burden through witness and leave the pool as deep as it was found. Viderehan and Ferrehan are the authorised approaches to this ground, and no third Work Type has ever been cleared over it. |
+| **Recommended response** | Share the burden through witness and leave the pool as deep as it was found. The handling procedure is the only approach to this ground and no work type has ever been cleared over it. |
 
 ### Operational Notes
 
 - The Fountain runs without a source, and the water recovered from its basin is not water once it leaves the Gardens.
 - Work slows the flow for a shift. The basin refills regardless of outcome, and the entity is not altered by a good cycle.
-- Only Viderehan and Ferrehan apply to the site; both are logged as calming.
+- The site is handled and not worked; the procedure is logged as calming.
 - There is no breach counter. The Fountain expands its reach across the Echo Gardens, and the wet boundary must be marked at every session.
 - Residue drawn from the basin is the extraction source and is authorized separately.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Lament pressure and 25% against other types — water that takes pressure and gives none of it back |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 |
-| **Han Pressure [ATK]** | 18–41 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Endlessly sad |
-| **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-D-02, Echo Gardens |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 30 s, stood at for an offering — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+stood at for an offering on a 30-second clock, so the six come to **180 seconds**. A worn piece
+gets a minute and a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The basin has never moved, and the file says of its own attack rows that *nothing lashes out and nothing stings — nobody has ever been attacked here*. What it does is fill, and what moves is the damp: outward across the path stones, with the moss line following it four to seven weeks later. A thing whose escalation is measured in metres of garden has a contact record.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A basin in the Gardens that has never moved, holding every grief the district has put in it. The damp is its footprint and the moss line is where the footprint was |
+| **Perceptible to** | Anyone approaching the water while suppressing tears or an unfinished mourning — which is the activation and not a warning of it |
+| **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Handling** | No Work Types (`R-40`) — witness at the rim and the chalk survey. No other approach is authorised, and the file says a third one is not being withheld but absent |
+| **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): nothing is returned and the attempt is charged in full. Reading the drops holds the gauge; remaining at the rim brings it down. |
+| **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Share the burden through witness; do not drain the pool |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Welling* [**Debuff**] } | "The water rises without a source — every grief in the district feeding it." | [The Fountain's basin fills; sorrow pools around the target's feet.] | *Target suffers -10 Composure as the grief seeps in.* **[10 Lament DMG [Lament]]** | When the Fountain is approached. |
-| { *The First Overflow* [**Debuff**] } | "The basin tips, and the sorrow spills outward in every direction." | [The Fountain overflows; the spreading water carries old lament.] | *Target loses 10 Composure; their footing slips in the grief.* **[10 Lament DMG [Lament]]** | When the target lingers at the basin. |
-| { *The Bitter Spray* [**Attack**] } | "The spray rises — each droplet a remembered loss, and they sting." | [A spray of sorrow-water lashes out, sharp as needles.] | *Inflicts Lament pressure and one stinging wound.* **[14-22 Lament DMG [Lament]]** | When the Fountain is disturbed. |
-| { *The Drowning* [**Attack**] } | "The fountain floods the whole square — and grief is heavier than water." | [A surge goes over the rim and across the square, carrying the weight of every grief the district ever put into it.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Fountain is struck or overwhelmed. |
-| { *The Flood of All Grief* [**Ultimate**] } | "Every tear ever shed here rises at once." | [The pool stands up past its rim all at once and comes out over the whole ring of ground it can reach.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Fountain does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Welling* [**Register**] } | Fills without a source, and the water is every grief the district has fed it. Nothing about the basin changes shape. | The recognition that there is no inflow to find and no bottom to the account. | The depth at the rim is the measurement, taken at the open and at the close. The pool is not drained to make a figure. |
+| { *The Damp* [**Exposure**] } | Moves outward across the path stones, and the moss line follows four to seven weeks behind it. It does not tip, spill or flood a square. | Wet ground where the Gardens' own drainage says there should be none, and a boundary that has to be walked to be known. | The spread is the finding and the terrace sets the figure rather than the crew. |
+| { *The Calm* [**Exposure**] } | Sends the mist out across the lawns, and everybody standing in it is calmed, whether they consented to it or not. Nothing stings and nothing is thrown. | A quiet they did not ask for, and the difficulty of doing a grieving watch while being calmed out of it. | This is the row that refuses the combat frame: the file records no attack here in its own words, and the harm is the calm arriving before the account is finished. |
+| { *The Advance* [**Contagion**] } | Escalates spatially and quietly: eleven point four metres of irreversible advance from a basin that has never moved. | A boundary that will not come back, and next quarter's ground measured against this one. | Nothing goes over the rim into the squares; what does go over goes into the Gardens' beds, which take it and thrive on it. |
 
-1. **Tension:** The team identifies The Sorrow Fountain by the absent reflection, the living moss, and the smell of rain on old cloth; never by the atmosphere, which is the pleasantest in Zone D and tells an observer nothing at all. The approach is confirmed and positions are taken before anything else is attempted.
-2. **Clash:** Twelve turns, Viderehan and Ferrehan only, worked from the stone rim and never from inside the basin. The pool is not drained, decanted, sampled beyond the authorised residue draw, or diverted. The damp boundary and the moss line are both marked before the cycle opens and again when it closes.
-3. **Resolution:** The cycle closes with the burden shared and witnessed and the pool left standing at the depth it was read at when the watch opened. The registration carries the file's documented suppression condition: **share the burden through witness; do not drain the pool** — short to say and easy to break, because a pool that answers a worker's own grief invites the belief that emptying it would be a mercy.
+### Watch Sequence
+
+1. **What is confirmed:** the depth at the rim, the damp line and the moss line against last quarter's survey, and the approach recorded as Viderehan or Ferrehan before anyone walks the path.
+2. **What the watch does:** the burden is shared and witnessed, not lifted. The pool is left exactly as deep as it was found, and nothing is drained, sampled or baled to make the reading easier.
+3. **How it closes:** against the file's documented suppression condition: **share the burden through witness; do not drain the pool** — and the pool stands at the depth it was read at when the watch opened.
 
 ### Consequences
 
-- Nobody is injured here and nothing attacks. What the long watches produce is a slow flattening — workers describe feeling levelled rather than distressed, agreeable to everything and interested in nothing, and the Gardens' medical office treats it as exposure rather than as mood.
-- The mist is the hazard and it is also the benefit. It calms whoever is standing in it, reliably and without consent being asked, and prolonged exposure deepens that into a melancholy heavy enough to slow people physically. Both effects come from the same thing and cannot be separated.
-- The pieces from this source give relief and charge for it afterwards. Each wielder reports the same sequence — steadiness during use, then a flat week — and the armoury's rule is that nobody wears this set twice inside a month, regardless of how well the first use went.
-- Unaddressed, it does not event; it expands. The damp reaches further into the Echo Gardens, the moss follows it, and the Gardens quietly become a larger place for sitting in than they were, which is the whole of the escalation and is the reason the boundary is marked at every session.
+- A worker who cannot hold the weight of the account does not break loudly: they stop at the rim, agree with everything said to them, and leave before the witness is finished. The gauge follows the unfinished witness rather than the time spent.
+- Long attendance produces the Gardens' own fatigue: personnel report dreams of water they cannot place and are rotated rather than reassured.
+- The set takes the basin's patience and gives none of it back: the veil keeps the damp off, the charm holds a grief at the depth it was found, and the weapon carries the weight of what was never said.
+- Unresolved, the advance continues at the recorded rate and the moss records it. The basin stays where it is, which is the condition it has held since the Gardens were laid out.
 
 ## Appearance
-**Physical Form:** A fountain flowing with liquid sorrow. Its pool changes depth according to the grief of visitors.
+**Physical Form:** A fountain of worn grey stone, four metres across the basin, with a low rim and a carved spout at the centre that has not been dry in the record. The stone is grey and the moss on it is alive in a place where moss should be dead. What comes out of the spout is not water: it is thicker, dark, warm, faintly saline, and it smells of rain on hot stone. The pool has no visible bottom and the instrument finds none either. It returns no human face. Objects reflect in it normally — a dropped ring is seen where the ring is — and the record keeps those two facts beside each other because they are the whole of the difficulty.
 
 **Notable Features:** It weeps without stopping, reflects no face, and calms when someone listens.
 
@@ -107,8 +117,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
-- **Primary marker:** A fountain flowing with liquid sorrow. Its pool changes depth according to the grief of visitors.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The basin has never moved. What moves is the damp outward across the Gardens and the moss line behind it — two boundaries, marked separately, which have never coincided.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-D-02, Echo Gardens
 
@@ -116,11 +125,10 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A fountain flowing with liquid sorrow. Its pool changes depth according to the grief of visitors. |
 | **Position / movement** | Fixed. Record the water level against the graduated mark cut into the basin, the position of the damp boundary, and the position of the moss line, which are not the same boundary and must be marked separately. |
 | **Material / signature** | Lament. Worn grey stone, living moss where moss should be dead, and a slow dark liquid thicker than water — warm, faintly saline, smelling of rain on old cloth. |
 | **Distinctive markers** | A pool with no visible bottom that returns no human face while reflecting objects normally. |
-| **Identification** | Check the three markers above against the SECC code before initiating Work, and check them again at the rim rather than from the path: the wrong entity is the wrong sorrow, and nothing in the Gardens corrects a mis-identification for the crew that made it. |
+| **Identification** | Check the three markers above against the SECC code before initiating Work. And check them again at the rim rather than from the path: the wrong entity is the wrong sorrow. And nothing in the Gardens corrects a mis-identification for the crew that made it. |
 
 **Appearance protocol:** Read the level first, against the cut graduation, and sign the reading with your own name — the pairing is deliberate, because depth follows the grief of whoever is present and the number is therefore partly a measurement of the person taking it. Then mark the damp boundary in chalk on the path stones, then mark the moss line separately, because the two have never coincided. Record the colour and the smell of the liquid, and whether the surface is moving in the absence of wind. Do not test the reflection; the tests are done, they are in the file, and they are not repeated.
 
@@ -128,40 +136,36 @@
 - **Formation:** The Fountain formed from grief that needed a place to flow.
 - **The Sorrow:** The city's accumulated mourning, gathered into a single visible stream.
 - **The Event:** Tears from memorials and grieving citizens collected beneath the Echo Gardens until the Fountain rose.
-- **The People:** Collective and unnamed — the mourners who wept in the Echo Gardens across centuries. No individual is identifiable and the file is clear that none should be sought; the commissioning material is the Gardens' own attendance, which was never recorded, and the only evidence that any of it happened is the basin.
-- **Expanded origin context:** Nothing was built here. The Gardens had a drainage sump at the low point of the Echo lawns, and at some point in the last century the sump stopped being a sump. There is no construction record, no commissioning, no decision and no decider; the earliest document naming a fountain is a gardener's requisition for a longer hose, filed because the water had begun arriving faster than the lawn could take it. The archivist's note observes that this is the most ordinary origin in the registry and that it is the reason the holding has never been treated with proper suspicion.
+- **The People:** Collective and unnamed — the mourners who wept in the Echo Gardens across centuries. No individual is identifiable and the file is clear that none should be sought. The commissioning material is the Gardens' own attendance, which was never recorded, and the only evidence that any of it happened is the basin.
+- **Expanded origin context:** Nothing was built here. The Gardens had a drainage sump at the low point of the Echo lawns, and at some point in the last century the sump stopped being a sump. There is no construction record, no commissioning, no decision and no decider. The earliest document naming a fountain is a gardener's requisition for a longer hose, filed because the water had begun arriving faster than the lawn could take it. The archivist's note observes that this is the most ordinary origin in the registry and that it is the reason the holding has never been treated with proper suspicion.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a basin that grief drains into and fills again. There is nothing here to work, and the file's contact is a set of things done at the rim with chalk, a graduated scale and a name.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Each drop reveals a different grief. | Stable |
-| **Ferrehan** | Tests whether the worker can remain in the pool without breaking. | Decrease |
-
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Read the level against the cut graduation first and sign the reading with your own name, because depth follows the grief of whoever is present and the number is partly a measurement of the taker. Then mark the damp boundary in chalk on the path stones, and mark the moss line separately, because the two have never coincided. | One Warden on the scale and chalk; the name is entered, not initialled. | The approach spends a watch and exposes whoever is present: the basin answers the person, and the reading is therefore partly about them. |
+| **Handling** | Witness at the stone rim and share the burden aloud. Nobody goes inside the basin, and no instrument is put into it. Each drop lifted off the surface shows a different grief, and the level holds while they are lifted. | The duty Warden, from the path stones; two on an authorisation for an overnight watch. | The watch is whether a worker can remain at the rim without coming apart. The level falls while they do, and the pressure eases without anything being resolved. |
+| **Withdrawal** | Leave the pool as deep as it was found. Record the colour and the smell of the liquid, and whether the surface is moving in the absence of wind. Survey the damp line and the moss line against last quarter before the next assignment. | The outgoing Warden; the incoming one signs the comparison. | The basin refills regardless. No handling on record has ever altered the entity, and the file says so twice. |
+| **Refusal** | Do not test the reflection. Do not drain the pool. Nothing is taken out of the basin, and no third approach is cleared over this ground. | The Standing Order; the tests are done and are not repeated. | The record holds the older entry naming Flerehan as the primary approach as an error of long standing, corrected here and not elsewhere. |
 
 ### Operational Work Notes
 
-The Sorrow Fountain is an Object/Place with Place-Lament manifestation and Lament expression, at the low point of the Echo Gardens in Zone D. Viderehan opens the individual griefs in the drops and moves the gauge not at all. Ferrehan — remaining at the rim without breaking — is the only Work Type that lowers it. Flerehan and Pugnahan are not available and have never been attempted, and the entry in the Registrum naming Flerehan as the primary approach is an error of long standing, corrected here and not elsewhere.
+The Sorrow Fountain is an Object/Place with Place-Lament manifestation and Lament expression, at the low point of the Echo Gardens in Zone D. It is not worked and no Work Type is available to it. Reading the drops opens the individual griefs and moves the gauge not at all; remaining at the rim without breaking is what lowers it. The entry in the Registrum naming Flerehan as the primary approach is an error of long standing, corrected here and not elsewhere.
 
-**Reading the response:** Read it in the level and in the flow rate together. A falling gauge presents as a slower, quieter pour and a level that settles; the pressure eases and nothing is resolved, because the basin refills regardless and no cycle has ever altered the entity. A rising gauge presents as volume — the pour thickening, the level climbing against the graduation, the damp pushing out past its chalk mark within the same watch. Record deviations before the next assignment, and record the name of whoever was standing closest.
+**Reading the response:** Read it in the level and in the flow rate together. A falling gauge presents as a slower, quieter pour and a level that settles. The pressure eases and nothing is resolved, because the basin refills regardless and no cycle has ever altered the entity. A rising gauge presents as volume — the pour thickening, the level climbing against the graduation, the damp pushing out past its chalk mark within the same watch. Record deviations before the next assignment, and record the name of whoever was standing closest.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **Special activation — no counter.** Filed trigger: *"approaching the fountain while suppressing tears or uncompleted mourning"*.
 
-**Activation Trigger:** Approaching the fountain while suppressing tears or uncompleted mourning.
 
-**Effect:** Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%.
 
-**Duration:** Continuous while the mourning conduit remains unblocked.
 
-**Risk:** Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed.
 
+> **This Relic calms whoever stands in its mist, without asking.**
+> **This Relic alters the Gardens at walking pace: damp first, moss after, eleven point four metres so far.**
+> **This Relic's cost arrives days later, as flatness, and is charged to the bearer alone.**
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -169,27 +173,27 @@ The Sorrow Fountain is an Object/Place with Place-Lament manifestation and Lamen
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
 | **Activation** | Approaching the fountain while suppressing tears or uncompleted mourning. |
-| **Primary Effect** | Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. |
-| **Duration** | Continuous while the mourning conduit remains unblocked. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
-| **Risk** | Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed. |
+| **Primary Effect** | The mist, and the calm it imposes on whoever is inside it — the hazard and the benefit are the same thing and cannot be separated. It comes out across the lawns and calms whoever is standing in it, reliably and without consent being asked. What settles is people and not a gauge, and what it costs them arrives days later. |
+| **Duration** | For the length of the approach, while the mourner remains at the rim. The flow itself is not switched, channelled or concluded by anybody, and the Fountain has never once stopped — including through two Sorrow Tides and the drought year. |
+| **Termination / Return** | The worker leaves the mist and the level is read again at the rim; nothing vents, because nothing was contained. The pool is left standing at the depth it was read at when the watch opened. |
+| **Risk** | The bearer has stopped wanting the effect to end — entered when the second worker sees it, not when the bearer admits it. Prolonged exposure deepens the calm into a flattening, agreeable to everything and interested in nothing, which the Gardens' medical office treats as exposure rather than as mood: nothing is paralysed, no speed is docked, and people simply stop needing to be anywhere. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** There is no channel and no conduit. Work is from the rim, the pool is not drained, decanted or diverted, and both boundaries — damp in chalk, moss separately — are marked before the cycle opens and again when it closes.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The Fountain starts thrumming the moment the channel opens, and the thrum is loud enough that every gauge in the room moves with it. | Opening the channel draws the mist up out of the basin. It settles the people standing in it the way water settles a crowd, and while the draw is running the sector Sorrow Gauges come down by -15%. Units in the neighbouring bays hold steady for the same reason, which is that they are standing in the same weather. |
-| 30 Seconds | The conduit widens and what comes up is the city's mourning made visible — a single stream of it, gathered from the tears shed at the memorials and by the people who grieved under the Echo Gardens, until there was enough collected to rise. | The mist spreads to the second range band and stays there while the channeler holds it. Everyone inside it is harder to hurt while the hold lasts; the effect belongs to the mist rather than to the people standing in it, and it goes when the mist does. |
-| 1 Minute | The pressure wants more than mechanical effort — whoever is channelling feels the Fountain's unfulfilled purpose settle on their lungs. | Past 60 seconds the channel costs 4 Composure for each 10 seconds it is held. Whoever is running it is meant to close it before that starts to matter, and the manual states it in exactly those words — disengage before the overload, not after it. |
-| 2 Minutes | The flow threatens to turn back on the site; once the accumulated grief overtops the channel it goes looking for living vessels. | An overload, or walking out on the channel, vents the whole basin at once — and what comes out is not the calming mist. It stops people where they stand and takes 2 from Movement Speed, and everyone in the sector is hurt badly. |
+| 10 Seconds | It is pleasant, and that is the first thing recorded: the air is easier at the rim than on the path, and the grief a worker brought in becomes bearable within a minute or two. | Read the level against the cut graduation and sign the reading with your own name — depth follows the grief of whoever is present, so the number is partly a measurement of the person taking it. No gauge anywhere moves by a percentage. |
+| 30 Seconds | The conduit widens and what comes up is the city's mourning made visible — a single stream of it, gathered from the tears shed at the memorials and by the people who grieved under the Echo Gardens, until there was enough collected to rise. | The mist reaches who it reaches and calms them without being asked; nobody inside it is harder to hurt, because nothing here hurts anybody. Record who was standing in it, staff or not. |
+| 1 Minute | The pressure wants more than mechanical effort — whoever is channelling feels the Fountain's unfulfilled purpose settle on their lungs. | Nobody is channelling anything. Workers lose track of the time they have been there, consistently and by large margins, and the discrepancy between logged and actual watch length is the commonest defect in this holding's paperwork. The second worker keeps the hour. |
+| 2 Minutes | Past this point the ease has stopped being noticeable and become the baseline, which is the state the welfare check at seven days is set to catch. | Nothing overloads and nothing vents. The watch closes with the level read and signed at both ends and the pool left as deep as it was found. The flat week, when it comes, is entered against the use, not the day. |
 
 ### Escalation Notes
 
 Escalation here is spatial and slow. Record the flow at onset, the level against the graduation, the distance the damp advances and how fast, whether the moss follows and after how long, and the point at which the advance stops. Lament pressure on personnel must be logged beside the physical measurements, because on this holding the two have repeatedly moved at different rates and the file treats that discrepancy as the finding rather than as noise.
 
-**Response sequence:** Set a secure perimeter, establish whether what is happening is an activation, a channel surge or an expansion, clear unshielded personnel off the rim stones, and hold the recorded containment protocol throughout. No unlisted Work Type may be applied here as an improvised countermeasure, and an attempt at one is entered as a breach in its own right.
+**Response sequence:** Chalk the damp boundary, time the advance, note whether the mist has reached any part of the Gardens open to the public, and record who was standing in it. No perimeter holds this and none is set; the pool is not drained under any circumstances, including as a response to expansion.
 
 ### Detailed Activation Record
 
@@ -197,10 +201,10 @@ Escalation here is spatial and slow. Record the flow at onset, the level against
 |---|---|
 | **Trigger** | Approaching the fountain while suppressing tears or uncompleted mourning. |
 | **Manifestation** | Place-Lament |
-| **Primary effect** | Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. |
-| **Duration / rate** | Continuous while the mourning conduit remains unblocked. |
-| **Risk** | Major (γ) Place-Lament producing Lament pressure; Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed. |
-| **Management** | Share the burden through witness; do not drain the pool. Enforced by the station rather than by the schedule. |
+| **Primary effect** | Mist across the lawns; calm imposed without consent; depth following the grief of whoever stands nearest. |
+| **Duration / rate** | The flow has never stopped. Advance is read as damp metres per session, with the moss four to seven weeks behind it. |
+| **Risk** | Major (γ) Place-Lament producing Lament pressure. The danger is that people want to be in it, and that the relief is repaid in flatness over the following week. |
+| **Management** | Share the burden through witness; do not drain the pool. |
 
 **Activation reporting order:** trigger → flow rate and level at onset → damp boundary before and after, with the chalk marks dated → moss line before and after → personnel effect, including anybody present who was not staff → duration → management condition. Viderehan and Ferrehan only; the pool is not drained under any circumstances, including as a response to expansion.
 ## M.A.W. Equipment
@@ -216,18 +220,19 @@ Escalation here is spatial and slow. Record the flow at onset, the level against
 **Range:** 4 (Long: 4–7m spray)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+**Bearer cost:** The basin condenses sorrow into the wielder's hands: sustained use induces weeping and blurs their sight, so the last thing they see clearly in a fight is the first thing they will regret.
 
 **Attack Pattern:** Conical Torrent / Hydro-Erosion
 **Target Coverage:** 60-degree forward cone; up to 4 targets
 **Falloff Rule:** Primary center line 100% → peripheral cone targets 75%.
 **Damage Application:** Direct Lament impact + lingering Grief-Soaked debuff.
 
-Appearance : A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble with a hollow core for pressurized fluid delivery. Its grip is wrapped in water-resistant indigo suede, terminating in a flared bronze drainage turncock at the base.
+**Appearance:** A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble with a hollow core for pressurized fluid delivery. Its grip is wrapped in water-resistant indigo suede, terminating in a flared bronze drainage turncock at the base.
 
 The striking head consists of a 24cm spherical marble cistern carved into four weeping cherubic faces with open mouth vents and twelve drilled spray apertures. Luminescent cerulean Lament fluid seeps constantly from the eyes and mouths, condensing into cold blue vapor that trails during swings.
 
 **Special Move Set:**
-- *Primary Kinematics — "Lachrymose Arc":* Horizontal sweeping stroke; centrifugal force flings an arc of pressurized weeping sorrow-water across Range 3, inflicting Lament splash damage while the dense stone head bludgeons nearby targets.
+- *Primary Kinematics — "Lachrymose Arc":* Horizontal sweeping stroke. Centrifugal force flings an arc of pressurized weeping sorrow-water across Range 3, inflicting Lament splash damage while the dense stone head bludgeons nearby targets.
 - *Active Special — "Fountainhead Deluge":* The wielder plants both feet, rotates the base valve 90 degrees counter-clockwise with their off-hand, and thrusts the marble head forward at chest height. All four cherubic mouths erupt simultaneously, firing a high-pressure 60-degree conical torrent of cerulean Lament fluid reaching Range 4 (7m). Targets caught in the deluge suffer continuous Lament erosion and gain the "Grief-Soaked" debuff (+30% Lament vulnerability for 4 seconds).
 - *Cost & Drawback:* Condensing sorrow water soaks the wielder's hands; sustained usage induces involuntary weeping and momentary visual blur.
 
@@ -236,7 +241,7 @@ The striking head consists of a 24cm spherical marble cistern carved into four w
 **Category:** Protective Attire (Waterlogged Fluted Chiton & Stone-Trimmed Mantle)
 **Grade:** γ | **Element:** Lament
 
-Appearance : An ankle-length pleated chiton of waterproofed white linen worn beneath a cowl-hooded charcoal wool mantle. Twin sculpted marble fountain-basin gorget plates clasp the shoulders, anchoring the flowing fabric during rapid motion.
+**Appearance:** An ankle-length pleated chiton of waterproofed white linen worn beneath a cowl-hooded charcoal wool mantle. Twin sculpted marble fountain-basin gorget plates clasp the shoulders, anchoring the flowing fabric during rapid motion.
 
 Carved stone drainage channels trace across the shoulder plates, continually venting a thin trickle of glowing blue sorrow water down the pleated folds. The damp linen fabric absorbs shockwaves by dispersing kinetic force into weeping liquid runoff.
 
@@ -250,14 +255,14 @@ Carved stone drainage channels trace across the shoulder plates, continually ven
 
 **Ability:** *Aqueous Dissipation* — Converts 20% of incoming direct physical and Lament impacts into weeping liquid runoff, dispersing force across the damp pleated linen.
 
-**Cost:** The wearer feels permanently chilled to the bone; minor joy feels emotionally muffled.
+**Bearer cost:** The wearer feels permanently chilled to the bone; minor joy feels emotionally muffled.
 
 ### M.A.W. Stigma — The Weeping Gargoyle Brooch
 
 **Category:** Stigma (Chest Stone Fastener)
 **Grade:** γ | **Element:** Lament
 
-Appearance : A six-centimeter brooch carved from pale grey fountain stone depicting a horned gargoyle face with downturned lips. An iron safety pin is anchored directly into the rear stone backing.
+**Appearance:** A six-centimeter brooch carved from pale grey fountain stone depicting a horned gargoyle face with downturned lips. An iron safety pin is anchored directly into the rear stone backing.
 
 A droplet of glowing blue sorrow water continuously beads at the lower lip of the gargoyle, solidifying into a brittle glass bead every ten seconds before dissolving into cool mist that calms the bearer’s heart.
 
@@ -267,7 +272,7 @@ A droplet of glowing blue sorrow water continuously beads at the lower lip of th
 
 **Ability:** *Shared Wellspring* — Restores 2 SP to the bearer whenever an adjacent ally suffers Lament damage.
 
-**Cost:** The brooch slowly dampens the bearer's shirt with cold, salt-scented water.
+**Bearer cost:** The brooch slowly dampens the bearer's shirt with cold, salt-scented water.
 
 *The Weeping Gargoyle Brooch is not manufactured and is not issued; the Fountain gives it, rarely, and in every recorded case to somebody who had sat with it off duty.*
 
@@ -286,7 +291,7 @@ All three pieces do what the Fountain does: they take pressure off whoever is ne
 
 **Stat interpretation:** The grade says how strongly a piece works; it says nothing whatever about the debt. This is a γ set that has never hurt a body and has still sent more people to stand-down than any δ kit in the wing — always the same reason, and never in the first week. Read both columns, authorise off the second, and schedule the check late.
 
-**Full-set source review (2026-10-11):** Reviewed the Weapon, Suit and Stigma blocks, γ grade overview, Use Notes and Field Use Record against all pages of Side `SE-088-A`, linked `SE-088-B/C/D`, Master Registry, Master Codex Entries 43–45, and `MAW-W-088`. The Weapon title *The Weeping Basin-Aspergillum* is shared by the primary, item identity, Side set table and Master Entry 43, but its repeated wand-mace Appearance conflicts with the item's Resting/Active blade and Side blade card; primary 10–16 / Normal 3 / Long 4 / cone / 100%→75% also conflicts with item/Side 7–12 / Fast 3 / Medium 3 / Skewer / 100%→70%→50%. The Master entry supplies no combat profile, the Registry is variable, and the archetype says Close; no transition or mode split resolves this. Suit resistance, amount and cost agree locally; the Side set table/primary/item use *The Cistern-Keeper's Chiton & Mantle*, while its stat card calls it *The Sorrow Shroud*, and the primary's *Aqueous Dissipation* versus item *Layered Water* / *Witness Fold* lacks a mode crosswalk. Stigma remains held across all three sources: primary/item official name *The Weeping Gargoyle Brooch*, Side card *The Sorrow Vial*, primary chest/brooch versus Side Tail and item identity Tail-vial versus its own brooch Appearance, and Registry 5% versus the local 4%. The primary +2 and item +2 agree, but primary *Shared Wellspring* differs from item *Shared Breath* and Master Entry 45's calming wave. The Use Notes now distinguish non-compellable bestowal from repeatable protocol. The Registrum Addendum's pool-edge summary separately repeats Weapon 10–16 / 40 Echoes, Suit 35 Echoes, and Stigma 4% / “Max 3 pieces”; this is an internal recap, not independent item-record corroboration, and its Weapon line repeats the disputed primary profile. No disputed profile, slot, chance or ability was selected.
+**Full-set source review (Year 4238):** Reviewed the Weapon, Suit and Stigma blocks, γ grade overview, Use Notes and Field Use Record against all pages of Side `SE-088-A`, linked `SE-088-B/C/D`, Master Registry, Master Codex Entries 43–45, and `MAW-W-088`. The Weapon title *The Weeping Basin-Aspergillum* is shared by the primary, item identity, Side set table and Master Entry 43. But its repeated wand-mace Appearance conflicts with the item's Resting/Active blade and Side blade card. Primary 10–16 / Normal 3 / Long 4 / cone / 100%→75% also conflicts with item/Side 7–12 / Fast 3 / Medium 3 / Skewer / 100%→70%→50%. The Master entry supplies no combat profile, the Registry is variable, and the archetype says Close; no transition or mode split resolves this. Suit resistance, amount and cost agree locally. The Side set table/primary/item use *The Cistern-Keeper's Chiton & Mantle*, while its stat card calls it *The Sorrow Shroud*, and the primary's *Aqueous Dissipation* versus item *Layered Water* / *Witness Fold* lacks a mode crosswalk. Stigma remains held across all three sources: primary/item official name *The Weeping Gargoyle Brooch*, Side card *The Sorrow Vial*, primary chest/brooch versus Side Tail and item identity Tail-vial versus its own brooch Appearance, and Registry 5% versus the local 4%. The primary +2 and item +2 agree, but primary *Shared Wellspring* differs from item *Shared Breath* and Master Entry 45's calming wave. The Use Notes now distinguish non-compellable bestowal from repeatable protocol. The Registrum Addendum's pool-edge summary separately repeats Weapon 10–16 / 40 Echoes, Suit 35 Echoes, and Stigma 4% / “Max 3 pieces”. This is an internal recap, not independent item-record corroboration, and its Weapon line repeats the disputed primary profile. No disputed profile, slot, chance or ability was selected.
 
 ## 관찰 기록 (Observation Log)
 
@@ -324,10 +329,10 @@ It contains no ordinary water.
 The city's accumulated mourning, gathered into a single visible stream.
 
 **Entry 4 — <Standing in the Pool>**
-Work response — Viderehan: every drop lifted off the surface shows a different grief, and the level holds while they are lifted (Stable). Ferrehan: the watch is whether a worker can stand in the pool without coming apart, and the level falls while they do (Decrease). The Echo Gardens' flowers draw from its overflow.
+Handling — Approach: level read against the graduation and signed, damp line and moss line marked separately (no movement). Handling: every drop lifted off the surface shows a different grief and the level holds while they are lifted (no movement). The watch is whether a worker can remain at the rim without coming apart, never from inside the basin. And the level falls while they do (falling). The Echo Gardens' flowers draw from its overflow.
 
 **Entry 5 — <The Architect Who Built Too High>**
-The Architect who built too high is kept here as the pool's history rather than as a tale. The tower went up first and the mourning came after it: everyone the work had cost was remembered at its foot, and the district let the remembering collect where the ground was lowest, because there was nowhere else willing to hold it. The Fountain is where it collected. It has no bottom because the grieving did not have one; it returns no face because the district was never asked for names; and it grows in the memorial seasons because that is when the remembering is done in public.
+The Architect who built too high is kept here as the pool's history rather than as a tale. The tower went up first and the mourning came after it: everyone the work had cost was remembered at its foot, and the district let the remembering collect where the ground was lowest, because there was nowhere else willing to hold it. The Fountain is where it collected. It has no bottom because the grieving did not have one. It returns no face because the district was never asked for names. And it grows in the memorial seasons because that is when the remembering is done in public.
 
 ## 최종 관찰 (Final Observation)
 
@@ -369,23 +374,23 @@ This pool is read against the other standing water and against the Gardens. Each
 | **The Weeping Statue** | The Statue's tears reach the pool by way of the same low ground. | No measurable effect in either direction across eleven co-presences. The Statue's rate did not change and the Fountain's level moved no more than it moves on an ordinary day. | The eleven co-presences, with the level series for each. |
 | **The Echo Gardens** | The beds take the overflow and are visibly healthier for it. | The only interaction on file with a positive sign, and it is horticultural rather than resonant: the flowers do better, the moss lives where it should not, and no entity-level reading in either direction has ever moved. | The bed survey, the moss line series, and the gardeners' own notes, which predate the registry. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record whether the basin's own level moved. The Fountain has never moved and nothing has ever lowered its level, so a change there is the only result a pairing can produce that a solo watch cannot.
 
 ## 이야기 (Narratio) — The Tale
 
-The Echo Gardens were built for weeping, and the ground beneath them listened.
+In the Echo Gardens there was a place where people were allowed to weep, and the ground under it kept what they shed.
 
-For centuries, mourners came to the Gardens to do what the city's Veil would not quite allow elsewhere — to grieve openly, beside the memorials, the crystal trees, the small shrines to children and parents and friends taken by the Han. They wept for the Fractured. They wept for the lost. They wept for the thousand, on the Consolihan, though they did not know the thousand's true name. And every tear they shed sank. Down through the moss, through the soil, through the old stone, into the channels where the Weeping flows.
+They came for centuries, beside the memorials and the crystal trees and the small shrines to children and to parents and to friends the Han had taken. They wept for the Fractured and for the lost and for the thousand, whose true name none of them knew. And every tear went down. Down through the moss, down through the soil, down through the old stone, into the channels where the Weeping runs.
 
-The Weeping carries sorrow the way a river carries silt. But tears are heavier than sorrow alone — they are sorrow that has been felt, named, and released, and they sink faster and gather thicker. Beneath the Echo Gardens, over generations, they pooled. A reservoir of pure, shed grief, pressing upward against the Gardens' roots, with nowhere left to go but up.
+A river carries silt. The Weeping carries sorrow, and does it the same way — the plain griefs go on downstream and are diluted and reach the sea. But a tear someone has already felt and named and let go of is heavier than the grief it came from, and it sinks, and it gathers, and it does not travel. Under the Gardens it gathered for four hundred years, and the pressure went up into the roots, and there was nowhere left for it to be.
 
-One Consolihan morning, the ground gave way — gently, the way grief gives way when it has been held too long. A fountain rose in the center of the Gardens, not of water but of the collected tears of centuries, blue and luminous and impossibly cold. It did not spray or splash. It flowed — a single steady stream upward, falling outward, feeding back into itself, a closed loop of all the mourning the city had ever brought to this place and left in the earth.
+On a Consolihan morning the ground gave way. Not a collapse — the way a held thing gives way when it is finally set down. A fountain came up in the middle of the Gardens, and what came out of it was not water. It was blue and it was cold and it did not splash, and it has not stopped since. People who drink from it weep for a grief that is not theirs and cannot name it afterwards, which is the only honest thing the Gardens have ever done to anyone.
 
-The Sorrow Fountain has flowed ever since. It is a Place entity — not a creature but a feature of the Gardens, as much a part of them as the crystal trees. It does not demand anything. It simply is: the city's accumulated mourning, given at last a single visible shape, a stream that anyone may stand beside and add their own grief to.
+The Wardens' Office has capped the basin twice and the cap has come off twice, not violently, just no longer there.
 
-On the Consolihan it surges. On ordinary days it murmurs. Mourners who come to the Fountain find, strangely, that they weep less beside it — not because their grief is smaller, but because the Fountain carries so much of the city's grief already that their own feels, for a moment, shared. Held. Part of a stream older and larger than any single sorrow.
+It is the collected tears of centuries and it is still collecting. If you go at dawn you can hear the fall of it, and it sounds like a room full of people being careful.
 
-Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens when a city has wept in one place for so long that the ground can no longer keep it hidden — and gives it back, at last, as water.
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“I sat beside the pool and cried. The water rose, then lowered. Nothing was cured. But the grief was moving.”* — Citizen, Echo Gardens
@@ -405,7 +410,7 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ) by potency, low by incident. It has never injured anybody and nobody has ever been attacked here. Its effect is shared mourning, and its danger is that people want to be in it.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan and nothing else: this holding is an Object/Place, which cannot be wept with or confronted, and the older entry that names Flerehan is an error to be read past rather than followed.
+- Handling and nothing else: this holding is an Object/Place, which cannot be wept with or confronted, and the older entry that names Flerehan as a work type is an error to be read past rather than followed.
 - No barrier contains it. Containment here means marking the damp boundary and the moss line at every session and not draining the pool.
 - Flow rises during the Consolihan and through memorial seasons; staffing is increased in those weeks for the visitors rather than for the entity.
 **Observation Notes:**
@@ -449,7 +454,7 @@ The damp boundary is chalked on the path stones at every session. It advances in
 
 The moss line is the other edge, and the moss should be dead. It is not; it follows the damp outward, slowly, with a lag the file puts at **four to seven weeks** — and **it has never once retreated.** Not in the drought year, not in the two dry summers, not when the damp pulled back more than four metres and stayed back for a season. Where the moss has reached, it stays alive.
 
-So the wing holds a reversible instrument and an irreversible one, measuring the same advance, disagreeing constantly. **It reports both and averages neither**, and the standing note says why: averaging them would produce a single tidy figure that is true of nothing, and the whole value of the pair is that one of them cannot be talked out of what it has recorded. Total irreversible advance to date: **eleven point four metres**, from a basin that has not moved at all.
+So the wing holds a reversible instrument and an irreversible one, measuring the same advance, disagreeing constantly. **It reports both and averages neither**. And the standing note says why: averaging them would produce a single tidy figure that is true of nothing. And the whole value of the pair is that one of them cannot be talked out of what it has recorded. Total irreversible advance to date: **eleven point four metres**, from a basin that has not moved at all.
 
 ### Nobody Decided to Open It
 
@@ -457,7 +462,7 @@ The Echo Gardens are a public garden and the Fountain is at the bottom of them, 
 
 What happened is that nobody stopped them. The mist calms people, people found that out, and for the better part of a decade the wing has watched mourners arrive, sit on the stones, and leave steadier than they came. **There is no policy. There is no authorisation. There is no document anywhere in the file in which the wing agrees to provide anything.**
 
-That turns out not to matter. A practice settled, consistent and relied upon becomes something people are entitled to expect — not because it was promised but because it was done, visibly, for years, to people who arranged their mourning around it. **Closing the Gardens now would require notice, consultation, reasons, and some account of what is being provided instead**, and the wing has none of those things available to it, because what it would be withdrawing is an effect produced by a Major-potency entity it does not control and cannot replicate.
+That turns out not to matter. A practice settled, consistent and relied upon becomes something people are entitled to expect — not because it was promised but because it was done, visibly, for years, to people who arranged their mourning around it. **Closing the Gardens now would require notice, consultation, reasons, and some account of what is being provided instead**. And the wing has none of those things available to it, because what it would be withdrawing is an effect produced by a Major-potency entity it does not control and cannot replicate.
 
 The position is recorded without self-pity: *we never offered this, we cannot stop offering it, and the people with the strongest claim on it are the ones we would least like to explain ourselves to.*
 
@@ -467,11 +472,11 @@ What the wing could do was formalise the thing it had not chosen, and it did, in
 
 The Gardens now have **published hours, benches, a limit of forty persons at the lower lawns, and a rostered attendant on every opening**. The attendant is containment staff. Their written duties are to count visitors, watch the damp boundary, and close the lawns at the stated hour.
 
-Their actual duties are obvious to everyone. People come there to grieve and they talk to whoever is standing nearby, and the attendant is always the person standing nearby. **The wing does not call this counselling, and the refusal is deliberate and documented**: calling it counselling would make it a service, a service carries a duty of care, and a duty of care would require trained practitioners, supervision, records, and a standard of provision the wing cannot fund and would therefore fail. So the instruction says *visitor management*, the attendants are not trained, and the thing they are actually doing has no name in any document.
+Their actual duties are obvious to everyone. People come there to grieve and they talk to whoever is standing nearby, and the attendant is always the person standing nearby. **The wing does not call this counselling, and the refusal is deliberate and documented**: calling it counselling would make it a service, a service carries a duty of care. And a duty of care would require trained practitioners, supervision, records. And a standard of provision the wing cannot fund and would therefore fail. So the instruction says *visitor management*, the attendants are not trained, and the thing they are actually doing has no name in any document.
 
 They do it anyway, at a rate of roughly **nine hundred conversations a year**, and the wing's only concession is that attendant watches are capped at three hours and that nobody is rostered there in the week after a bereavement of their own.
 
-The welfare office's objection is minuted at every review. The naming is the only thing standing between the wing and a duty it would discharge badly; the people absorbing the work are unqualified, unsupervised and unrecognised; and a service that cannot be named cannot be improved, because nothing can be requested for it. The minute records all three points as **correct**, records that no better draft has been produced in four attempts, and answers only: *the alternative is to close the lawns.*
+The welfare office's objection is minuted at every review. The naming is the only thing standing between the wing and a duty it would discharge badly. The people absorbing the work are unqualified, unsupervised and unrecognised. And a service that cannot be named cannot be improved, because nothing can be requested for it. The minute records all three points as **correct**, records that no better draft has been produced in four attempts, and answers only: *the alternative is to close the lawns.*
 
 ## Trivia
 
@@ -484,9 +489,9 @@ The welfare office's objection is minuted at every review. The naming is the onl
 
 - **Classification detail:** The Sorrow Fountain is an Object/Place with Fragment (III) — Endlessly sad coherence and Major (γ) potency.
 - **Field detail:** Lament is its element and the rim at SECTOR-D-02 in the Echo Gardens is its registered ground — read from the stones, signed at both ends of the watch.
-- **Recognition detail:** Identify it by the absent reflection, the living moss, and the smell of rain on old cloth; never by the atmosphere, which is the pleasantest in Zone D and tells an observer nothing.
+- **Recognition detail:** Identify it by the absent reflection, the living moss, and the smell of rain on old cloth. Never by the atmosphere, which is the pleasantest in Zone D and tells an observer nothing.
 - **Record detail:** This file should be read with the Gardens' opening instruction and attendance figures beside it, because most of what the holding now costs the wing is not containment and does not appear in this document under that name.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** No barrier contains it and none is pretended to. Containment here means marking the damp boundary and the moss line at every session, keeping published hours and an attendant on the lawns, and not draining the pool.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-088

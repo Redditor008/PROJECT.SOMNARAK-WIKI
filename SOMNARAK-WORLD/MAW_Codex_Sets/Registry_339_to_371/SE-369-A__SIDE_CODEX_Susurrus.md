@@ -20,7 +20,7 @@ Susurrus is a fractured salt-cold crystal floating in Zone B tunnels, shedding h
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Lament |
-| Gauge / Pressure | 45–65% / 18–41 |
+| Gauge / Pressure | 000% / 18–41 |
 | Observation | 2 |
 | Set | The Partial Message |
 
@@ -34,22 +34,12 @@ An echo forms after two listeners independently preserve matching emotional cont
 
 | Piece | Summary | File |
 |---|---|---|
-| Susurrus’s Requiem | Lament 7–12; Speed 3; Range 3; Skewer; max 3; 40 Echoes. Separates dangerous fragment collapse. | `SE-369-B__MAW-W_Susurruss_Requiem.md` |
-| Susurrus’s Shroud | 0.4 / 1.0 / 1.6 / 0.8; max 3; 35 Echoes. Protects the listener from identity merger. | `SE-369-C__MAW-S_Susurruss_Shroud.md` |
-| Susurrus’s Bell | Tail; 4%; +2 Clarity. Carries a message through tunnels; ordinary whispers fade temporarily. | `SE-369-D__MAW-G_Susurruss_Bell.md` |
+| Susurrus’s Requiem | Lament 7–12; Speed 3; Range 3; Skewer; max 3; 40 Echoes. Separates dangerous fragment collapse. | `SE-369-B__MAW-W_Susurrus_s_Requiem.md` |
+| Susurrus’s Shroud | 0.4 / 1.0 / 1.6 / 0.8; max 3; 35 Echoes. Protects the listener from identity merger. | `SE-369-C__MAW-S_Susurrus_s_Shroud.md` |
+| Susurrus’s Bell | Tail; 4%; +2 Clarity. Carries a message through tunnels; ordinary whispers fade temporarily. | `SE-369-D__MAW-G_Susurrus_s_Bell.md` |
 
 ## RESONANCE — *Message Without Ownership*
 
 Bell carries a verified emotional fragment, Shroud preserves the recipient, and Requiem cuts only collapse debris. The message can reach a witness without becoming the witness’s memory or a reconstructed quotation. Supplying missing words causes the set to repeat the invention in the dead workers’ voices.
 
 **Source:** `SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md`
-
----
-
-**Document ID:** `SE-369-A`  
-**Linked Entity:** `SE-369`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

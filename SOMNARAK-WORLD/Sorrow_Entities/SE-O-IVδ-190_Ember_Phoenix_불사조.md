@@ -9,12 +9,12 @@
 | **Designation** | `O-IVδ-190 [GS]` |
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) — Self-aware, and aware of the watching: the cycle it runs is the sign of it, and it has never once been recorded as surprised to find itself alive again. |
-| **Potency** | Critical (δ) — graded on the return rather than the kill; every rising it completes is logged as an event with a date. |
+| **Potency** | Critical (δ) — graded on the return rather than the kill. Every rising it completes is logged as an event with a date. |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — the shape it stands up in: dark crimson fire that is not fire, beating like an exposed heart, cased in charred metal and fused growth. Its heat reads as held anger, and it weighs a different amount each time it is set on a scale. |
-| **Movement** | Mobile — wings while it is whole, a walk once the fire has settled, and a crawl out of its own ash; the crawl is the leg of the cycle the observers clock. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile — wings while it is whole, a walk once the fire has settled, and a crawl out of its own ash. The crawl is the leg of the cycle the observers clock. |
 | **Location** | The Desolate — it keeps no territory and does not stay where it fell; the next report is wherever it stands up. |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -30,16 +30,18 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, counted across whole cycles rather than by the hour |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **SE Effect** | **On the breach** — It keeps no territory and roams, so the facility's fire response is permanently staffed rather than called up, and the staffing is carried as a standing cost. |
+| **Work Damage** | 4–7 Grudge — the cost is one burning let to run its course while the sequence continues |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | δ · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | All four Work Types are valid; Flerehan and Ferrehan lower the gauge, Pugnahan raises it, and nothing may be extinguished at any point. |
+| **Recommended response** | All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Pugnahan raises it, and nothing may be extinguished at any point. |
 
 ### Operational Notes
 
 - A successful cycle lets one burning run its course and end. It does not end the sequence. The next ignition follows on its own schedule carrying every death before it, and a team that has worked this holding well has bought the entity a rest, not a release.
-- The listed threshold is 1 and that is not a typographical thinness — it is the whole statement of this holding. One failed or refused cycle brings the count to zero. Nothing here has any margin left; the entity has been required to rise more times than the record can number, and what tolerance it had was spent long before this facility existed.
+- The listed threshold is 1 and that is not a typographical thinness — it is the whole statement of this holding. One failed or refused cycle brings the count to zero. Nothing here has any margin left. The entity has been required to rise more times than the record can number, and what tolerance it had was spent long before this facility existed.
 - The 20–28 Han-Energy yield is high and comes from a cycle that was going to happen regardless of whether anyone was present to harvest it. The wing has never been comfortable with that arrangement and the discomfort is minuted: this is the only holding whose yield is produced by the entity's suffering continuing on its own terms rather than by any work performed on it.
 - Taking M.A.W. stock is an event with its own authorisation and never a reward hung on a clean cycle. What comes away here is a piece of an endurance that outlasted the willingness behind it, and the pieces act the way it did: they go on working after the bearer has stopped wanting them to.
 
@@ -54,7 +56,7 @@
 | **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–65 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -77,7 +79,7 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Spark* [**Debuff**] } | "An ember ignites — barely, weakly — and from it, wings unfold, made of dying fire and old fury." | [The Phoenix's rebirth from near-extinction radiates desperate energy.] | *Target suffers -10 Resilience; the fury of not-quite-dead is palpable.* **[10 Grudge DMG [Grudge]]** | When the Phoenix ignites. |
+| { *The First Spark* [**Debuff**] } | "An ember ignites — barely, weakly — and from it, wings unfold, made of dying fire and old fury." | [The Phoenix's rebirth from near-extinction radiates desperate energy.] | *Target suffers -10 Resilience; the fury of not-quite-dead has a temperature the instrument reads.* **[10 Grudge DMG [Grudge]]** | When the Phoenix ignites. |
 | { *The Burning Wings* [**Debuff**] } | "The phoenix's wings spread — embers falling like rain — and each ember carries a resentment that refuses to die." | [The Phoenix's ember-fall contaminates the area; the target is scorched by old anger.] | *Target loses 10 Resilience; the fire is fueled by grudge.* **[10 Grudge DMG [Grudge]]** | When the target stands in the ember-fall. |
 | { *The Talon Strike* [**Attack**] } | "The phoenix dives — talons of dying fire, aimed at the heart of whoever tried to put it out." | [A burning raptor-strike from the ember Phoenix.] | *Inflicts Grudge pressure and one searing, furious wound.* **[14-22 Grudge DMG [Grudge]]** | When the Phoenix is challenged. |
 | { *The Full Rebirth* [**Attack**] } | "She comes up out of her own ashes — every death she has ever had, fuel for one more burning return." | [A complete rebirth lets go of every scrap of fire she has stored.] | *A heavy Crimson conflagration; the reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Phoenix is put out. |
@@ -95,6 +97,7 @@
 - Extended contact invites the full documented cycle: the deaths and returns compressing into each other until the whole engagement area is burning and reigniting at once. Personnel caught in that condition report their own exhaustion arriving as rage, and the two are difficult to separate afterwards.
 - Every draw on the kit is priced in recollection, sensation and years, set out in the equipment file, and paid in the field. The pieces out of this source charge in one currency above all: the bearer's capacity to stop, to rest, or to say out loud that they have had enough.
 - With no resolution the Phoenix leaves and ranges, which is the breach type entered on the classification. It looks for nobody. It goes, burning, through whatever stands where it goes, since remaining still is the one thing it has never been allowed.
+- It keeps no territory and roams, so the facility's fire response is permanently staffed rather than called up, and the staffing is carried as a standing cost.
 
 ## Appearance
 **Primary Form:** A massive bird made of crimson flame and black ash. It burns, dies, and reforms from its own remains.
@@ -106,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A massive bird made of crimson flame and black ash. It burns, dies, and reforms from its own remains.
-- **Position / movement:** Mobile across the Desolate and not held to any boundary; record the bearing, the rate, and which stage of the cycle it is in when sighted.
+- **Position / movement:** Mobile across the Desolate and not held to any boundary. Record the bearing, the rate, and which stage of the cycle it is in when sighted.
 - **Element signature:** Grudge
 - **Registered location:** The Desolate — mobile
 
@@ -115,10 +118,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive bird made of crimson flame and black ash. It burns, dies, and reforms from its own remains. |
-| **Position / movement** | Mobile across the Desolate and not held to any boundary; record the bearing, the rate, and which stage of the cycle it is in when sighted. |
+| **Position / movement** | Mobile across the Desolate and not held to any boundary. Record the bearing, the rate, and which stage of the cycle it is in when sighted. |
 | **Material / signature** | Grudge. Crimson flame over black ash, with a core that beats slowly like an exposed heart and reads on instruments as held anger rather than as heat. |
 | **Distinctive markers** | The collapse and the return. Confirm the stage of the cycle before anything else, since the instruction changes with the stage. |
-| **Identification** | Verify the designation, the manifestation and the cycle stage against the file before Work begins; the wrong entity is the wrong sorrow, and on this holding the wrong stage is the wrong instruction. |
+| **Identification** | Verify the designation, the manifestation and the cycle stage against the file before Work begins. The wrong entity is the wrong sorrow, and on this holding the wrong stage is the wrong instruction. |
 
 **Appearance protocol:** Record the cycle rather than the shape, because the shape is only ever a moment of it. Each sighting is timed and placed within the sequence: ember, ignition, full wing, collapse, ash, re-ignition. Log the interval between the last collapse and the next spark to the second — that interval is the only measurement this holding provides that has ever shortened, and the shortening is the finding. Take the core separately: dark crimson fire that is not fire, beating slowly like an exposed heart, ringed in charred metal and fused growth, heavier than its size accounts for and heavier still when nobody is watching. The heat does not read as heat on an instrument. It reads as held anger, and that is the phrase the file uses because no better one has been proposed in eleven years. Do not write 'burning'. Write which burning, and how long since the last.
 
@@ -126,35 +129,34 @@
 - **Formation:** The Phoenix formed from survival that became another kind of death.
 - **The Sorrow:** The burden of having to rise again when no one asks whether you are ready.
 - **The Event:** A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.
-- **The People:** One survivor of the Desolate who got out of catastrophe after catastrophe, and was praised for it each time. The record keeps the escapes and keeps nothing about rest. Nobody in it ever asks her whether she wants to go on; the question does not appear in any surviving testimony, and its absence is the whole of the sorrow.
-- **Expanded origin context:** The Desolate offices that recorded each of her escapes kept good records, and those records are the origin material: a sequence of survivals, each one entered as a success, none of them followed by any note of what the survival cost or any question about whether she wished to attempt the next. The absence is uniform across every surviving register. The file's position, contested at review and retained, is that the uniformity is the evidence — nobody omitted the question, because nobody thought of it.
+- **The People:** One survivor of the Desolate who got out of catastrophe after catastrophe, and was praised for it each time. The record keeps the escapes and keeps nothing about rest. Nobody in it ever asks her whether she wants to go on. The question does not appear in any surviving testimony, and its absence is the whole of the sorrow.
+- **Expanded origin context:** The Desolate offices that recorded each of her escapes kept good records. And those records are the origin material: a sequence of survivals, each one entered as a success, none of them followed by any note of what the survival cost or any question about whether she wished to attempt the next. The absence is uniform across every surviving register. The file's position, contested at review and retained, is that the uniformity is the evidence — nobody omitted the question, because nobody thought of it.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The flames lower and the Phoenix delays rebirth. | Decrease |
-| **Pugnahan** | It attacks in a blazing dive. | Increase |
-| **Viderehan** | Shows memories from previous cycles. | Stable |
-| **Ferrehan** | Tests whether the worker can witness death without demanding resurrection. | Decrease |
+| **Flerehan** | The flames lower and the Phoenix delays rebirth. | Decrease · High |
+| **Pugnahan** | It attacks in a blazing dive. | Increase · Low |
+| **Viderehan** | Shows memories from previous cycles. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can witness death without demanding resurrection. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-The file carries a Subject-Body manifestation expressing Grudge, mobile across the Desolate, held by a perimeter and not a cell. All four Types apply: Flerehan brings the flame down and delays the return; Ferrehan puts the worker in front of a death and asks them not to ask for a resurrection; Viderehan opens the earlier cycles and moves nothing; Pugnahan raises the gauge every time it has been tried. The gauge figure runs second here — the interval is the measurement.
+The file carries a Subject-Body manifestation expressing Grudge, mobile across the Desolate, held by a perimeter and not a cell. All four Types apply: Flerehan brings the flame down and delays the return. Ferrehan puts the worker in front of a death and asks them not to ask for a resurrection. Viderehan opens the earlier cycles and moves nothing. Pugnahan raises the gauge every time it has been tried. The gauge figure runs second here — the interval is the measurement.
 
 **Reading the response:** Read it in the interval between collapse and re-ignition. A falling gauge presents as lengthening — the ash lying longer, the spark slower to come, the fire smaller when it does. The pressure is absorbed and the source is untouched; she is resting, not finished, and the next ignition is already on its way. A rising gauge presents as vigour. The returns come faster and bigger, the wings carry further, and the thing looks magnificent and unkillable in exactly the way the old stories describe. That is the failure state. Magnificence here is the measure of how little recovery she has been allowed. If the entity responds differently from the record, write it down before acting on it, and resist the particular temptation this holding produces, which is to read a strong return as a good outcome.
 ## Breach Behavior
 
-> *"Ember Phoenix has broken free. Ignites everything."*
-
+> *"Ember Phoenix has broken free and is alight. It goes to the nearest body or to the one whose sorrow matches its origin. The heat is the attack, and anything left standing in the room is fuel."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | Ember Phoenix breaks loose and charges, thrashing. It ignites everything. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
+| **Secondary Effect** | The fire settles into a walk once it has burned, and what it walks through is the cordon. The ash is the part that gets up. |
 | **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
 | **Escalation** | Each turn free, Resilience drain +5 until suppressed. |
 
@@ -172,7 +174,7 @@ The file carries a Subject-Body manifestation expressing Grudge, mobile across t
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : An ornate bronze hand-culverin with a flared muzzle cast in the shape of a screaming phoenix head, featuring red copper filigree and a heavy cherry-wood tiller stock.
+**Appearance:** An ornate bronze hand-culverin with a flared muzzle cast in the shape of a screaming phoenix head, featuring red copper filigree and a heavy cherry-wood tiller stock.
 
 The culverin discharges volcanic fire-slugs wrapped in dense black soot that explode into roaring fireballs upon contact. The barrel vents billowing ember clouds after each shot, requiring careful handling.
 
@@ -184,7 +186,7 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 **Ability:** Deals Grudge damage against the Body — structural integrity and the physical capacity to continue. The strike carries the source's signature, and those hit describe the wound as something they have had before.
 
-**Cost:** The wielder's old injuries ache, every one of them, in the order they were received. Prolonged use leaves faint bruising over scars that healed years ago.
+**Bearer cost:** The wielder's old injuries ache, every one of them, in the order they were received. Prolonged use leaves faint bruising over scars that healed years ago.
 
 ### M.A.W. Suit — The Rebirth Plate
 
@@ -202,7 +204,7 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against the kind of force that expects you to get up again. Rated highly for sustained engagements, which is the only kind this source produces.
 
-**Cost:** The wearer's reflexes dull and their sense of their own limits dulls with them. Wearers work past exhaustion without registering it and are poor judges of their own fitness to continue; the medical hold on this piece exists for that reason.
+**Bearer cost:** The wearer's reflexes dull and their sense of their own limits dulls with them. Wearers work past exhaustion without registering it and are poor judges of their own fitness to continue. The medical hold on this piece exists for that reason.
 
 ### M.A.W. Stigma — The Rebirth Ember
 
@@ -216,13 +218,13 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 **Ability:** Revives the wearer once after fatal injury.
 
-**Cost:** The wearer returns carrying the emotional memory of dying.
+**Bearer cost:** The wearer returns carrying the emotional memory of dying.
 
 *The Stigma here is a gift rather than a manufacture. One arrives when a cycle has succeeded, on the entity's own initiative, unbidden as the next ignition, and no procedure, however correctly run, has ever called one up.*
 
 ### M.A.W. Use Notes
 
-Nothing in the set is built against the Phoenix; each piece extends it. The benefit holds inside the pattern this file records; outside it the bill is old injuries, every one of them, made to ache again in the order they were taken, and bruising that comes up over scars which closed years ago — it arrives early and does not settle when the watch does.
+Nothing in the set is built against the Phoenix; each piece extends it. The benefit holds inside the pattern this file records. Outside it the bill is old injuries, every one of them, made to ache again in the order they were taken. And bruising that comes up over scars which closed years ago — it arrives early and does not settle when the watch does.
 
 ### Field Use Record
 
@@ -235,7 +237,7 @@ Nothing in the set is built against the Phoenix; each piece extends it. The bene
 
 **Stat interpretation:** Grade measures output and says nothing about what a piece takes. A flawless performer from this source can still hollow its wielder's memory or bind them to the sorrow it came from, and the costs in this set are unusually hard to self-report, since the thing eroded is the faculty that would notice. Read both columns and authorise on the second, then ask the wielder's team rather than the wielder.
 
-**Full-set source review (2026-10-12):** Reviewed the δ overview, all local Weapon/Suit/Stigma claims, the stock-authorization statement, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1019-A` (`O-IVδ-190 [GS]`, `4/4`), items `SE-1019-B/C/D`, Registry rows 238–241, Master M.A.W. entries 667–669, Entity Codex row 592, Tale 223, and archetypes `MAW-W-190/1019`. Side A has no standalone Appearance heading; none of the linked items has an Appearance section or separately labelled transition. Hold the primary/Master-table *Ash-Phoenix Culverin* and its bronze hand-culverin Appearance against Side/item *The Rebirth Fang* and detailed Entry 667's Fang title. `MAW-W-190` lists a dragon-mouthed ember-venting GUN/Culverin at Close; linked-code `MAW-W-1019` lists a cenotaph stone cleaver at Medium. The local Range 3 (Medium) matches the latter band but does not identify the linked item's physical form. The Culverin title/Appearance was copied into Rage Statue's linked item and corrected there during B78; no transfer to that separate source is documented. Core Weapon values and Suit resistance/maximum/cost data agree with the Side/items; Side/item Skewer/falloff details are not stated in the primary and were not imported. The primary/Side/item Stigma chance is 4%, while Registry row 241 gives 5%; retain the probability conflict and the local Tail wording against the Registry's generic Accessory slot. Tale 223 supports the Phoenix's endurance context, not an equipment crosswalk. No disputed form, profile, or chance was normalized.
+**Full-set source review (Year 4238):** Reviewed the δ overview, all local Weapon/Suit/Stigma claims, the stock-authorization statement, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1019-A` (`O-IVδ-190 [GS]`, `4/4`), items `SE-1019-B/C/D`, Registry rows 238–241, Master M.A.W. entries 667–669, Entity Codex row 592, Tale 223, and archetypes `MAW-W-190/1019`. Side A has no standalone Appearance heading; none of the linked items has an Appearance section or separately labelled transition. Hold the primary/Master-table *Ash-Phoenix Culverin* and its bronze hand-culverin Appearance against Side/item *The Rebirth Fang* and detailed Entry 667's Fang title. `MAW-W-190` lists a dragon-mouthed ember-venting GUN/Culverin at Close; linked-code `MAW-W-1019` lists a cenotaph stone cleaver at Medium. The local Range 3 (Medium) matches the latter band but does not identify the linked item's physical form. The Culverin title/Appearance was copied into Rage Statue's linked item and corrected there during B78; no transfer to that separate source is documented. Core Weapon values and Suit resistance/maximum/cost data agree with the Side/items; Side/item Skewer/falloff details are not stated in the primary and were not imported. The primary/Side/item Stigma chance is 4%, while Registry row 241 gives 5%. Retain the probability conflict and the local Tail wording against the Registry's generic Accessory slot. Tale 223 supports the Phoenix's endurance context, not an equipment crosswalk. No disputed form, profile, or chance was normalized.
 
 ## 관찰 기록 (Observation Log)
 
@@ -258,7 +260,7 @@ Nothing in the set is built against the Phoenix; each piece extends it. The bene
 | **Activation or escalation** | Escalation presents as vigour — faster, larger, further-carrying returns — and is the failure state. Record what the team did in the hour before it, since interference is the only input the gauge has ever answered. |
 | **Post-contact review** | Interval series, stage log, the descriptive movement notes, every intervention with the name of the person who called it, and any worker who has begun describing their own tiredness in the entity's terms. |
 
-**Observation method:** Observe across at least one complete cycle; a single-stage sighting is of limited value here and has repeatedly produced identifications of the wrong stage as the whole entity. Record the first visible sign, the first emotional response in the observer and what prompted it, the first instrument-measurable change in the surrounding air, and the condition that ended the encounter. The entity's form is its sorrow rather than its strategy — a thing that burns, dies and returns is what survival looks like once nobody has asked the survivor whether she wants to keep going — and it forecasts nothing about behaviour.
+**Observation method:** Observe across at least one complete cycle. A single-stage sighting is of limited value here and has repeatedly produced identifications of the wrong stage as the whole entity. Record the first visible sign, the first emotional response in the observer and what prompted it, the first instrument-measurable change in the surrounding air, and the condition that ended the encounter. The entity's form is its sorrow rather than its strategy — a thing that burns, dies and returns is what survival looks like once nobody has asked the survivor whether she wants to keep going — and it forecasts nothing about behaviour.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -316,11 +318,11 @@ Ember Phoenix is read among the sorrows that renew rather than as a lone fire cr
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Vanished Flame** | Both are fire that came out of a loss, and the resemblance ends at the source. | Three authorised approaches. The interval shortened on all three, by an average of eleven minutes, and recovered within two cycles of separation; no other measure moved on either side. | The three approaches, both interval series, and the recovery curve. |
-| **The Grieving Colossus** | The Colossus is recorded as mourning each of her deaths. | The Colossus's own readings change and hers do not. The interval was unaffected across five co-incidences, which the file states plainly: whatever is happening is happening to the Colossus. | Five co-incidences, her unchanged interval, and the Colossus's readings referred to its own file. |
-| **The Wrath Flame** | Both are old fire carrying a grievance, and they do not combine. | Held apart by standing order after one unplanned proximity in which neither altered and the ground between them did — scorched in a band neither entity crossed. No further approach has been authorised. | The single event, the ground survey of the band, and the standing order. |
+| **The Vanished Flame** | Both are fire that came out of a loss, and the resemblance ends at the source. | Three authorised approaches. The interval shortened on all three, by an average of eleven minutes, and recovered within two cycles of separation. No other measure moved on either side. | The three approaches, both interval series, and the recovery curve. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | The Colossus is recorded as mourning each of her deaths. | The Colossus's own readings change and hers do not. The interval was unaffected across five co-incidences, which the file states plainly: whatever is happening is happening to the Colossus. | Five co-incidences, her unchanged interval, and the Colossus's readings referred to its own file. |
+| [**The Wrath Flame**](SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md) | Both are old fire carrying a grievance, and they do not combine. | Held apart by standing order after one unplanned proximity in which neither altered and the ground between them did — scorched in a band neither entity crossed. No further approach has been authorised. | The single event, the ground survey of the band, and the standing order. |
 
-**Interaction procedure:** Baseline both parties alone, bring them into range at the start of an ash phase rather than mid-burn, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on the ground between them, and whatever persists after separation. The field this holding adds is the interval, measured before and after, since that is where this entity records a relationship.
+**Interaction procedure:** Baseline both parties alone, bring them into range at the start of an ash phase rather than mid-burn. And log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on the ground between them, and whatever persists after separation. The field this holding adds is the interval, measured before and after, since that is where this entity records a relationship.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -332,9 +334,9 @@ The endurance ignited. The accumulated survival — the repeated, compulsory ris
 
 The Phoenix burns. The Phoenix rises. And the rising, each time, is the sorrow — because no one asks the Phoenix whether she is ready. The city, the Desolate, the catastrophe — none of them consult the survivor before inflicting the next disaster. None of them ask: are you ready to rise again? Have you rested? Have you grieved? The Phoenix rises because the Phoenix must, and the must is the burden, and the burden is the fire that burns, eternally, with the rage of a survivor who was never given the option to stay down.
 
-Coming near the Ember Phoenix brings the weight of survival made compulsory — the fatigue of rising when nobody asks whether you are ready, the fury of surviving because stopping is not permitted, and an endurance that was never volunteered and that an indifferent world keeps asking for.
+Coming near the Ember Phoenix brings the weight of survival made compulsory — the fatigue of rising when nobody asks whether you are ready, the fury of surviving because stopping is not permitted. And an endurance that was never volunteered and that an indifferent world keeps asking for.
 
-Some sorrows mourn the dead. This one mourns the ones who keep rising — a fire that will not go out, a survivor who endures because endurance is the only item on offer, and who carries, inside the burning, the fury of never once being asked whether she wants to rise again.
+Some sorrows mourn the dead. This one mourns the ones who keep rising — a fire that will not go out, a survivor who endures because endurance is the only item on offer. And who carries, inside the burning, the fury of never once being asked whether she wants to rise again.
 ## 증언 (Testimonium) — The Testimony
 
 > *“She survives every catastrophe. The survival is compulsory. No one asks if she is ready.”* — Keeper, Archive
@@ -356,25 +358,25 @@ Some sorrows mourn the dead. This one mourns the ones who keep rising — a fire
 **Containment & Handling Procedures:**
 - All 4 Work Types valid. Flerehan and Ferrehan bring the gauge down; Pugnahan lifts it and has never done anything else.
 - Suppress movement only. Barriers, corridor denial and evacuation are authorised; extinguishing is prohibited at every stage, including the stages at which it would obviously work.
-- On breach the gauge opens at 40% and moves on interference rather than time; a complete unattended cycle takes ten per cent back off it.
+- On breach the gauge opens at 40% and moves on interference rather than time. A complete unattended cycle takes ten per cent back off it.
 **Observation Notes:**
 - A Desolate survivor escaped catastrophe after catastrophe, was praised each time, and was never once asked whether she wanted to go on.
 - Engagements run long — twenty-four turns is typical — and end with nothing visible having been achieved, which is the correct outcome and the hardest one to report.
-- The pieces charge in the wielder's ability to stop; nobody is issued one twice in a rotation and the authorising officer records whether to offer it again.
+- The pieces charge in the wielder's ability to stop. Nobody is issued one twice in a rotation and the authorising officer records whether to offer it again.
 **Cross-References:** The Desolate survival registers · the bound interval volume · the three declined suppressant proposals
 **Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat) · Giltong (Taboo-adjacent)
-**Originator:** One survivor of the Desolate, unnamed in every register that recorded her escapes; the offices that kept those registers are named in the Apex Record, and the naming was retained at review.
+**Originator:** One survivor of the Desolate, unnamed in every register that recorded her escapes. The offices that kept those registers are named in the Apex Record, and the naming was retained at review.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before acting on any single entry, and notice what the suppression condition asks of the organisation holding it. Allow the cycle to finish. The containment measure is institutional patience, which is the resource this facility has least of: it requires a standing order that no team may improve on, a shift clock that tolerates a twenty-four-turn engagement ending in nothing visible, and supervisors who will not ask why the fire is still burning. Three separate proposals to develop a suppressant for this holding are on file. All three were declined, and the minute attached to the last one is quoted in the Story Log because it is the clearest statement the wing has produced on the matter: the thing that would make her stop has never been a stronger measure, and we have no mechanism for the thing it actually is. Where the entity contradicts this file, trust the entity and log the contradiction rather than resolving it.
+**Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before acting on any single entry, and notice what the suppression condition asks of the organisation holding it. Allow the cycle to finish. The containment measure is institutional patience, which is the resource this facility has least of: it requires a standing order that no team may improve on, a shift clock that tolerates a twenty-four-turn engagement ending in nothing visible. And supervisors who will not ask why the fire is still burning. Three separate proposals to develop a suppressant for this holding are on file. All three were declined, and the minute attached to the last one is quoted in the Story Log because it is the clearest statement the wing has produced on the matter: the thing that would make her stop has never been a stronger measure. And we have no mechanism for the thing it actually is. Anything that would make her stop, other than what the file already names, is logged unresolved. There is no mechanism on this holding for the thing it actually is, and a stronger measure is not a substitute for one.
 
 **Review requirement:** After any breach, escape, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify the gauge, the exposure log, the entity's position and the cycle interval before operations resume. Two further items are required here. Every intervention is logged with the name of the person who made the call, not to apportion blame but because the wing needs to know how often the prohibition fails under pressure, and the figure is used to revise the briefing rather than the roster. And any worker who has begun describing their own fatigue in the entity's terms is stood down for a cycle, with that stand-down recorded as a routine rotation.
 ## Apex Record
 
 ### The Cycle
 
-It burns, dies, and reforms, and the interval between deaths is logged with more precision than anything else in the holding. The series shows the interval shortening. It has shortened steadily across the whole of the record, by a small amount each time, and the projection has been run repeatedly by analysts who each arrive at the same uncomfortable figure and each append the same caveat about extrapolating from a curve nobody understands. The projections are kept together at the back of the file. The wing's operative position is that the trend is real, the endpoint is not knowable, and the holding plans on the interval it has rather than the one it expects.
+It burns, dies, and reforms, and the interval between deaths is logged with more precision than anything else in the holding. The series shows the interval shortening. It has shortened steadily across the whole of the record, by a small amount each time. And the projection has been run repeatedly by analysts who each arrive at the same uncomfortable figure and each append the same caveat about extrapolating from a curve nobody understands. The projections are kept together at the back of the file. The wing's operative position is that the trend is real, the endpoint is not knowable, and the holding plans on the interval it has rather than the one it expects.
 
 ### Accumulated Memory
 
@@ -406,9 +408,9 @@ The prepared volume is kept beside the current one in the same unlocked drawer, 
 
 The bound volume gives a running total and the total is written with an inequality in front of it, which is the most careful thing in the file.
 
-Every death since the chamber opened is entered by hand, and the series is complete. What the series cannot supply is its own beginning. The holding was already cycling when the Desolate survey found it, had been cycling for an unknown period before that, and carries memory of deaths that predate every register the Company holds — so the figure on the current page reads **n ≥ 9,418**, and the convention is enforced: no document produced by this wing states a cycle count without the inequality, and no rate derived from it is published as a rate.
+Every death since the chamber opened is entered by hand, and the series is complete. What the series cannot supply is its own beginning. The holding was already cycling when the Desolate survey found it, had been cycling for an unknown period before that. And carries memory of deaths that predate every register the Company holds — so the figure on the current page reads **n ≥ 9,418**. And the convention is enforced: no document produced by this wing states a cycle count without the inequality. And no rate derived from it is published as a rate.
 
-The practical consequence is that the one trend the file believes in cannot be anchored. The interval is shortening, measurably and steadily; the shortening is real in the observed window; and because there is no first term, nobody can say whether the curve is a late stage of something long or an early stage of something new. **Four analysts have run the projection and all four produced the same endpoint and the same caveat**, which is reproduced in full each time rather than summarised.
+The practical consequence is that the one trend the file believes in cannot be anchored. The interval is shortening, measurably and steadily. The shortening is real in the observed window. And because there is no first term, nobody can say whether the curve is a late stage of something long or an early stage of something new. **Four analysts have run the projection and all four produced the same endpoint and the same caveat**, which is reproduced in full each time rather than summarised.
 
 The wing's operating line, written at the front of the volume, is three sentences long. *We know how long she has been doing this only as a lower bound. Every figure in this file is a floor. Plan on the interval we have.*
 
@@ -416,7 +418,7 @@ The wing's operating line, written at the front of the volume, is three sentence
 
 The uncomfortable fact about this holding is that it pays, and that the payment is involuntary on both sides.
 
-Han-Energy here is not produced by work. The cycle runs whether or not a team is present; if a team is present, twenty to twenty-eight Han-Energy is recovered from it, and if no team is present, the same cycle runs and the yield disperses. That makes attendance pure profit — and that is exactly what creates the problem, because **a yield-bearing holding that is left unattended is recorded as uncollected production, and uncollected production is waste**. The régime is sound everywhere else in the facility: resources are scarce, a wing that lets a harvest disperse because it did not feel like turning up is a wing failing an obligation to everybody downstream of it, and no provision exists for declining a benefit on grounds of taste. There is no form for *we would prefer not to take this*.
+Han-Energy here is not produced by work. The cycle runs whether or not a team is present. If a team is present, twenty to twenty-eight Han-Energy is recovered from it, and if no team is present, the same cycle runs and the yield disperses. That makes attendance pure profit — and that is exactly what creates the problem, because **a yield-bearing holding that is left unattended is recorded as uncollected production, and uncollected production is waste**. The régime is sound everywhere else in the facility: resources are scarce, a wing that lets a harvest disperse because it did not feel like turning up is a wing failing an obligation to everybody downstream of it. And no provision exists for declining a benefit on grounds of taste. There is no form for *we would prefer not to take this*.
 
 So the wing cannot simply stop. The one act of restraint the holding seems to call for — leaving her alone — is, to the system that governs every other holding, a wing throwing away energy the region is short of. The file states the position without complaint: **the rules that make this intolerable are the rules that keep the facility supplied, and nobody here is arguing for an exception on principle.**
 
@@ -426,13 +428,13 @@ What the wing could do was decide how often it turns up, and it decided to turn 
 
 The holding completes roughly **one hundred and ten cycles a year**. The wing attends **twenty-six**, by standing cap, and attends none during the dark period that follows a reformation. The remaining eighty-four cycles run unattended and their yield disperses. The cap is not justified in the file on containment grounds, because it cannot be: the interval does not respond to attendance and the gauge does not either. The justification entered against it is one line — *she is not a seam, and we are not entitled to be present for all of it.*
 
-The cost is not borne by the facility, which has simply reduced this wing's expected contribution and made it up elsewhere. It is borne by the watch. Establishment and the δ-attendance uplift are both calculated on attended hours, so the cap holds the posting permanently below the staffing its tier would otherwise carry and costs each member of the watch the uplift on **eighty-four cycles a year** — a figure the payroll office has calculated twice, on request, and which the watch has twice declined to appeal.
+The cost is not borne by the facility, which has simply reduced this wing's expected contribution and made it up elsewhere. It is borne by the watch. Establishment and the δ-attendance uplift are both calculated on attended hours. So the cap holds the posting permanently below the staffing its tier would otherwise carry and costs each member of the watch the uplift on **eighty-four cycles a year** — a figure the payroll office has calculated twice, on request. And which the watch has twice declined to appeal.
 
 The minute enters this objection as **correct on every count**, notes that the wing has nothing to answer it with, and leaves the cap where it stands, at twenty-six.
 
 ## Trivia
 
-- The ash goes back into her at the return and leaves nothing behind; what the chamber collects is taken after the reformation or not at all.
+- The ash goes back into her at the return and leaves nothing behind. What the chamber collects is taken after the reformation or not at all.
 - The body resets and the memory does not, which is why the early part of each cycle is slower than the early part of the last one.
 - No one has watched a return from the inside and described it afterwards. The three workers who watched one closely all gave the same account in the same order, which the file sets down and does not explain.
 - The chamber floor is swept after each return. What comes off the floor is finer than what went in, and the difference has been logged every cycle since Year 4231 without once being entered as a loss.
@@ -444,9 +446,9 @@ The minute enters this objection as **correct on every count**, notes that the w
 
 - **Classification detail:** Ember Phoenix is a Subject with Entity (IV) — Self-aware, cyclical, eternal coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Identify it by the cycle and never by the silhouette. A great many things burn in the Desolate; this is the one that collapses into its own ash and comes back out of it, and the return is the identifying feature.
+- **Recognition detail:** Identify it by the cycle and never by the silhouette. A great many things burn in the Desolate. This is the one that collapses into its own ash and comes back out of it, and the return is the identifying feature.
 - **Record detail:** Fire-form entities are common in the archive and at least four are logged as mobile in the Desolate. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at the decisive point — whether the fire may be put out, and here it may not.
-- **Containment detail:** There is no cell. This entity is mobile across open country and what is called containment is a moving perimeter and an evacuation order travelling ahead of it. Personnel downwind report warmth, old aches, and an unwillingness to sit down; those reports are collected with the holding and treated as exposure data rather than as morale.
+- **Containment detail:** There is no cell. This entity is mobile across open country and what is called containment is a moving perimeter and an evacuation order travelling ahead of it. Personnel downwind report warmth, old aches, and an unwillingness to sit down. Those reports are collected with the holding and treated as exposure data rather than as morale.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-190

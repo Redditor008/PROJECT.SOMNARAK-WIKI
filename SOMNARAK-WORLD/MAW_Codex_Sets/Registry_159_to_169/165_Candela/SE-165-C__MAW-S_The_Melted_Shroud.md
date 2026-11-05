@@ -88,14 +88,3 @@ Grey wore the Shroud after Candela showed a possible loss involving a medical te
 The Shroud is the uncertainty boundary of *Compassion Without Prophecy*. Requiem interrupts a loop and Halo signals risk; this suit keeps the set’s care rooted in the living present.
 
 > *“Prepared is not the same as pre-grieved.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-165-C`  
-**Linked Entity:** `SE-165`  
-**Item Registry Code:** `MAW-S-165-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

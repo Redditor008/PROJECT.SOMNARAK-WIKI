@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-190 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; resilience burns off everyone inside the corrupted zone, fastest for those nearest the raised fist, and continues while the wrong goes unnamed. |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Fragment (III) — Furious and frozen |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A colossal figure frozen mid-strike, fist raised and jaw locked; its outer skin is grey pitted stone cracked in long fissures through which something dark and organic pulses, as if flesh were trying to break out of the rock. The stone is warm. Stare long enough and the raised fist seems to tremble — a blow held for centuries. |
+| **Physical Form** | Mixed |
 | **Movement** | Remains in the chamber; posture changes are found between watches, not witnessed as locomotion. The corrupted zone expands around the figure rather than the figure pursuing personnel. |
 | **Location** | SECTOR-B-01, Zone B |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,11 +30,13 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, taken off the naming and never off the statue |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 2 |
+| **SE Effect** | **On the counter** — The Statue radiates petrified wrath; the target's temper kindles in answer. |
+| **Work Damage** | 3–5 Grudge — the cost is a posture that changes only when unobserved, forty-one times in nine years |
+| **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Brand, the Apron and Cuirass, and the Knuckle Stigma are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Flerehan or Ferrehan. This is a Subject and all four Work Types are available to it, but Pugnahan raises the gauge and is prohibited; the Object/Place restriction does not apply here and earlier copies of this line were wrong to imply it. |
+| **Recommended response** | Flerehan or Ferrehan. This is a Subject and all four Work Types are available to it, but Pugnahan raises the gauge and is prohibited. The Object/Place restriction does not apply here and earlier copies of this line were wrong to imply it. |
 
 ### Operational Notes
 
@@ -45,6 +47,8 @@
 - Recovery of anything left inside the five-metre line is separately authorised and is carried out by a second Warden, never by the person who dropped it.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The Stone Fist comes down. The statue is stationary and Pugnahan is prohibited at it, but the file records the fist arriving on whoever is standing in front of it, and a blow that lands is a blow whatever the rest of the body is doing.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
@@ -134,16 +138,16 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The jaw loosens and the raised arm drops a few degrees; the only approach that visibly changes the face. | Decrease |
-| **Pugnahan** | Heat gathers in the fist and the fissures widen. Prohibited; it is the one approach that raises the gauge here. | Increase |
-| **Viderehan** | Shows the specific wrong behind the pose, in the complainant's own words where the complaint survives. | Stable |
-| **Ferrehan** | Tests whether the worker can stand in front of justified anger without taking it up; lowers the gauge most reliably of the four. | Decrease |
+| **Flerehan** | The jaw loosens and the raised arm drops a few degrees; the only approach that visibly changes the face. | Decrease · High |
+| **Pugnahan** | Heat gathers in the fist and the fissures widen. Prohibited; it is the one approach that raises the gauge here. | Increase · Low |
+| **Viderehan** | Shows the specific wrong behind the pose, in the complainant's own words where the complaint survives. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can stand in front of justified anger without taking it up. Lowers the gauge most reliably of the four. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-The Rage Statue is a Fragment (III) Subject with Subject-Grudge manifestation and Grudge expression, held at SECTOR-B-01 in Zone B. All four Work responses are recorded for this Subject; Pugnahan is not available as an authorised approach, since the Behavior table shows it raising the gauge every time it has been logged. Flerehan and Ferrehan lower it; Viderehan holds it level and produced most of this file.
+The Rage Statue is a Fragment (III) Subject with Subject-Grudge manifestation and Grudge expression, held at SECTOR-B-01 in Zone B. All four Work responses are recorded for this Subject. Pugnahan is not available as an authorised approach, since the Behavior table shows it raising the gauge every time it has been logged. Flerehan and Ferrehan lower it; Viderehan holds it level and produced most of this file.
 
 **Reading the response:** Read it in the arm and in the worker's writing. A falling gauge presents as the arm dropping a few degrees and the fissure-warmth receding; a rising one presents as heat in the fist. The other indicator is the Warden's own logbook: when a watch begins producing long, precise, well-argued grievances about the roster, that watch is over.
 ## Containment Event Behavior
@@ -178,27 +182,28 @@ The Rage Statue is a Fragment (III) Subject with Subject-Grudge manifestation an
 **Range:** 2 (Short: 1.5m reach)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+**Bearer cost:** The heat travels up the iron haft: two consecutive slams demand a pause to vent or the wielder takes the burn themselves, and the pause is where their anger goes.
 
 **Attack Pattern:** Overhand Crush / Thermal Eruption
 **Target Coverage:** Designated primary target + 3m outward ground starburst
 **Falloff Rule:** 100% direct kinetic impact; 70% thermal ground wave to adjacent enemies.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-Appearance : A 120cm brutal brand featuring a forged black iron shaft wrapped in twin copper heat coils. The striking head is formed from the severed marble forearm and clenched fist of an ancient neoclassical statue.
+**Appearance:** A 120cm brutal brand featuring a forged black iron shaft wrapped in twin copper heat coils. The striking head is formed from the severed marble forearm and clenched fist of an ancient neoclassical statue.
 
 The clenched stone fingers clasp the broken stump of an iron sculptor’s chisel, while deep crimson thermal fissures spiderweb across the knuckles and palm. Incandescent red Grudge heat pulses from within the stone, creating a shimmering thermal distortion wave whenever swung.
 
 **Special Move Set:**
-- *Primary Kinematics — "Petrified Wrath":* Heavy diagonal bludgeoning strike; upon impact, the molten marble knuckles discharge an explosive blast of Grudge heat that incinerates armor plating and leaves blistered scorch wounds.
+- *Primary Kinematics — "Petrified Wrath":* Heavy diagonal bludgeoning strike. Upon impact, the molten marble knuckles discharge an explosive blast of Grudge heat that incinerates armor plating and leaves blistered scorch wounds.
 - *Active Special — "Furnace Ground-Slam":* The wielder hoists the brand high with both hands and drives the clenched marble fist straight into the earth with full downward body weight. The chisel stump punctures the floor, detonating the molten Grudge fissures in an outward starburst pattern of flaming red cracks across a 3-meter radius (Range 2). Erupting geysers of superheated stone splinters and red Grudge fire launch caught targets into the air, inflicting heavy Grudge burn and "Armor-Crumble" (-20% target defense for 5s).
-- *Cost & Drawback:* Extreme thermal bleed radiates up the iron haft; two consecutive special slams require a 1-turn pause to vent heat or cause thermal self-burn.
+- *Cost & Drawback:* Extreme thermal bleed radiates up the iron haft. Two consecutive special slams require a 1-turn pause to vent heat or cause thermal self-burn.
 
 ### M.A.W. Suit — The Sculptor's Flame-Hardened Apron & Cuirass
 
 **Category:** Protective Attire (Thick Bison Leather Apron & Slag-Infused Iron Breastplate)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A heavy split-leg stonemason’s apron of vulcanized black bison leather fitted over a slag-encrusted iron cuirass. Its left shoulder is guarded by a thick anvil-shaped pauldron bolted with forged square rivets.
+**Appearance:** A heavy split-leg stonemason’s apron of vulcanized black bison leather fitted over a slag-encrusted iron cuirass. Its left shoulder is guarded by a thick anvil-shaped pauldron bolted with forged square rivets.
 
 The breastplate is embedded with jagged chips of white marble and cooled red slag that absorb kinetic impacts. Internal heat channels radiate warmth across the torso, converting absorbed physical trauma into explosive forward momentum for the wearer.
 
@@ -212,14 +217,14 @@ The breastplate is embedded with jagged chips of white marble and cooled red sla
 
 **Ability:** *Pyric Tempering* — Absorbs incoming Grudge and heat damage, converting stored thermal energy into kinetic speed (+10% attack speed when bearer is below 50% HP).
 
-**Cost:** The wearer's thoughts run hot; small grievances feel immediately personal and urgent.
+**Bearer cost:** The wearer's thoughts run hot; small grievances feel immediately personal and urgent.
 
 ### M.A.W. Stigma — The Chiseled Knuckle Stigma
 
 **Category:** Stigma (Hand / Knuckle Calcification)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A cluster of calcified white marble nodules fused directly over the knuckles of the wielder’s primary striking hand. The skin along the finger joints appears chiseled and petrified like weathered stone.
+**Appearance:** A cluster of calcified white marble nodules fused directly over the knuckles of the wielder’s primary striking hand. The skin along the finger joints appears chiseled and petrified like weathered stone.
 
 Thin crimson capillaries glow between the stone plates, pulsing in sync with the bearer’s heartbeat. When the fist is clenched, faint embers flare beneath the calcified knuckles, adding searing Grudge heat to every physical impact.
 
@@ -231,24 +236,24 @@ Thin crimson capillaries glow between the stone plates, pulsing in sync with the
 
 **Ability:** *Stonefist Resolve* — Unarmed strikes deal +4 Grudge damage; bearer gains +1 Resilience and cannot have weapons knocked from their grip. This additional combat effect is recorded only in the primary.
 
-**Cost:** The bearer's fingers become stiff and cold during periods of calm.
+**Bearer cost:** The bearer's fingers become stiff and cold during periods of calm.
 
 *The Chiseled Knuckle is not manufactured and is not issued on request. It has gone out twice, in both cases to a Warden who named the wrong over the channel while standing inside the corrupted radius and got it right first time.*
 
 ### M.A.W. Use Notes
 
-Each piece extends the Statue; none grants permission for personal revenge. Keep the costs separate: the primary's Brand bleeds heat and can burn the bearer without a vent pause, while item B reports aching old wounds and immediate anger; the Apron & Cuirass heats thoughts and makes small grievances urgent, while item C describes difficulty distinguishing justice from retaliation; the Knuckle Stigma leaves fingers stiff and cold in calm, while Side A and item D describe a shortened temper. The Side set's *Lower the Fist* requires a named injustice, an accountability route, and a witness allowed to challenge retaliation; it bounds a Grudge surge into a demand for response, and the bearer feels every suppressed blow until that response is recorded. Keep this set condition distinct from primary-only *Stonefist Resolve* and from the still-disputed Brand combat profiles.
+Each piece extends the Statue; none grants permission for personal revenge. Keep the costs separate: the primary's Brand bleeds heat and can burn the bearer without a vent pause. While item B reports aching old wounds and immediate anger. The Apron & Cuirass heats thoughts and makes small grievances urgent. While item C describes difficulty distinguishing justice from retaliation. The Knuckle Stigma leaves fingers stiff and cold in calm. While Side A and item D describe a shortened temper. The Side set's *Lower the Fist* requires a named injustice, an accountability route, and a witness allowed to challenge retaliation. It bounds a Grudge surge into a demand for response, and the bearer feels every suppressed blow until that response is recorded. Keep this set condition distinct from primary-only *Stonefist Resolve* and from the still-disputed Brand combat profiles.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, exact piece(s), current Gauge, baseline for known injuries, anger, and finger effects, and the present injustice with its accountability route. For full-set *Lower the Fist* use, name the witness allowed to challenge retaliation. |
-| **During use** | Time, action, and effect; distinguish the primary's *Petrified Wrath* / *Furnace Ground-Slam* from the linked Brand's *Held Strike*. Record heat buildup and the required vent pause separately from item B's aching-old-wounds / immediate-anger cost; also keep the Suit's hot-thought and retaliation-confusion reports and the Stigma's finger-stiffness and shortened-temper reports distinct. |
-| **At limit** | Stop when the accountable route is cleared and the response is recorded; after two consecutive primary special slams, require the one-turn heat vent, and shut down if the Brand's closed red ridge appears or anger shifts toward personal revenge or a new target. For *Lower the Fist*, track the suppressed-blow burden until the response is entered; do not extend it to an unrelated grievance. |
+| **During use** | Time, action, and effect; distinguish the primary's *Petrified Wrath* / *Furnace Ground-Slam* from the linked Brand's *Held Strike*. Record heat buildup and the required vent pause separately from item B's aching-old-wounds / immediate-anger cost. Also keep the Suit's hot-thought and retaliation-confusion reports and the Stigma's finger-stiffness and shortened-temper reports distinct. |
+| **At limit** | Stop when the accountable route is cleared and the response is recorded. After two consecutive primary special slams, require the one-turn heat vent. And shut down if the Brand's closed red ridge appears or anger shifts toward personal revenge or a new target. For *Lower the Fist*, track the suppressed-blow burden until the response is entered; do not extend it to an unrelated grievance. |
 | **After use** | The witness records the remedy and stop point and checks each piece’s distinct aftereffect. Maintain the Brand against present harm and remedy, not a list of enemies. The exact Stigma record calls for witness covering after action; its fused-knuckle appearance is not permission to peel stone from the hand. The Suit’s palm-seam shutdown remains unresolved against its apron-and-cuirass form rather than becoming an invented removal procedure. Preserve both finger-stiffness and shortened-temper reports without merging them into a set-wide cost. |
 
-**Stat interpretation:** The γ grade does not settle the contested Weapon profile or grant permission to retaliate. The primary records 12–19 / Slow 2 / Short 2 / Overhand Crush–Thermal Eruption; Side A and item B agree on 7–12 / Fast 3 / Medium 3 / Skewer with 100% → 70% → 50%, and no third profile adjudicates the difference. The +2 Stigma bonus is source-work only and names no specific statistic; keep the Brand, Suit, Stigma, and *Lower the Fist* costs distinct.
+**Stat interpretation:** The γ grade does not settle the contested Weapon profile or grant permission to retaliate. The primary records 12–19 / Slow 2 / Short 2 / Overhand Crush–Thermal Eruption. Side A and item B agree on 7–12 / Fast 3 / Medium 3 / Skewer with 100% → 70% → 50%, and no third profile adjudicates the difference. The +2 Stigma bonus is source-work only and names no specific statistic; keep the Brand, Suit, Stigma, and *Lower the Fist* costs distinct.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -267,7 +272,7 @@ Each piece extends the Statue; none grants permission for personal revenge. Keep
 |---|---|
 | **Initial exposure** | The observer places the holding from the fissures and the warmth — posture is not an identifier here, and the 4 reference plates exist because of that. Confirmed against the classification table before entry; SECTOR-B-01, Zone B. |
 | **Sustained observation** | Posture against the 4 reference plates, the fist-tip coordinate, the warmth at the fissures, the floor-plate reading and the gauge. Note whether a change was witnessed or found — the distinction is the point of the record. |
-| **Activation or escalation** | Escalation is the gauge and the plate. At 55% or on any floor-plate deflection beyond the set figure the chamber is cleared and the naming procedure is readied; the threshold is numeric and the watch lead applies it. |
+| **Activation or escalation** | Escalation is the gauge and the plate. At 55% or on any floor-plate deflection beyond the set figure the chamber is cleared and the naming procedure is readied. The threshold is numeric and the watch lead applies it. |
 | **Post-contact review** | Posture before and after, the gauge, which wrong was named and whether it contracted the radius, and a reading of the Warden's own logbook for grievance language at 7 days and again at 28. |
 
 **Observation method:** Observe from outside the 5-metre line, in pairs, with the naming list to hand. Record posture, fist-tip, warmth, plate and gauge, and the condition that ended the watch. The form here is the sorrow and not a strategy: the blow is raised and will not land, because the people it belonged to were forbidden to throw it and did the permitted thing instead.
@@ -292,11 +297,11 @@ The statue has never completed the blow. The fissures in its stone widen by a me
 
 ## 최종 관찰 (Final Observation)
 
-> The statue watch offers two endings, and the record draws the line between them by what the observer does when the fist does not come down: one leaves it where it is and names the wrong exactly, and the other reaches for the arm — reasonably, urgently, and to the holding's advantage.
+> The statue watch offers two endings. And the record draws the line between them by what the observer does when the fist does not come down: one leaves it where it is and names the wrong exactly. And the other reaches for the arm — reasonably, urgently, and to the holding's advantage.
 
 | Leave the fist where it has always been and name the wrong exactly as the list gives it. | Depart from the condition for good reasons — take the arm, force the fist open, correct the record first — as this file shows people doing. |
 |---|---|
-| The wrong is named exactly and the radius contracts; the entry closes with the holding recorded whole. | Forcing the arm is prohibited. A true naming can also fail to contract the radius when it is not the relevant wrong; record the actual gauge, naming and exposure, preserve the failed name on the list, and follow the event procedure. |
+| The wrong is named exactly and the radius contracts; the entry closes with the holding recorded whole. | Forcing the arm is prohibited. A true naming can also fail to contract the radius when it is not the relevant wrong. Record the actual gauge, naming and exposure, preserve the failed name on the list, and follow the event procedure. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -315,7 +320,7 @@ The fist remains raised; the recorded blow has not arrived. That is an observati
 
 ### Interaction Pattern
 
-The Statue is filed alongside the wing's other things made out of anger nobody was permitted to act on. Each relation below has been observed and filed; none of them is closed; and all three were run from outside the 5-metre line with the naming list present.
+The Statue is filed alongside the wing's other things made out of anger nobody was permitted to act on. Each relation below has been observed and filed. None of them is closed; and all three were run from outside the 5-metre line with the naming list present.
 
 **Interaction method:** Take each party alone across several watches before any paired approach, with posture, plate and gauge logged throughout. The onset of a shared change is entered with its range, duration and trigger, both gauges, and whatever remains once the parties are apart. Re-verify every cycle, since two angers in one room have never once behaved like cooperation.
 
@@ -334,7 +339,7 @@ The three relations below stand as contacts, not alliances; none of them is clos
 
 ## 이야기 (Narratio) — The Tale
 
-They were not allowed to fight back. So the fight turned to stone.
+There were people who were not allowed to fight back, and the fight went into the stone, and the stone has kept it.
 
 Zone B has always absorbed the city's indifference, and the citizens who lived there absorbed its injustices — the debts invented by Collectors, the arrests made for convenience, the laws enforced only against the poor. In a just city, the wronged respond. In Somnarak, the wronged were forbidden to. The Giltong enforced the Taboos, and among the unspoken Taboos was this: the powerless do not raise their hands. Resistance, for a Zone B citizen, was itself a crime — a debt incurred by the act of objecting to debt.
 
@@ -368,9 +373,9 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 **Common Name:** The Rage Statue
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It does not walk, but it produces containment events: four Corrupt events are on file, the gauge opens at 55%, and the zone expands outward while the wrong goes unnamed. The earlier entry describing the threat as moderate with no event, on the ground that the statue is static, is an error and is corrected here — the entity's immobility is not the same thing as its containment.
+**Threat Assessment:** Major (γ). It does not walk, but it produces containment events: four Corrupt events are on file, the gauge opens at 55%, and the zone expands outward while the wrong goes unnamed.
 **Containment & Handling Procedures:**
-- Pugnahan is prohibited. Flerehan and Ferrehan lower the gauge and Viderehan holds it level; the earlier entry naming Pugnahan as primary contradicts the Behavior table, which records it raising the gauge on every occasion, and is corrected here.
+- Pugnahan is prohibited. Flerehan and Ferrehan lower the gauge and Viderehan holds it level.
 - Hold the five-metre line. Grudge pressure rises steeply inside it and the floor-plate gradient is measurable from the line outward.
 - The fist has not opened in any record the archive holds, through forty-one changes of posture and four events.
 **Observation Notes:**
@@ -411,7 +416,7 @@ The complaint run recovered from the Zone B ward office holds **3,188 petitions*
 
 Every one of them bears a receipt stamp. The office that could not act on them was scrupulous about acknowledging them.
 
-The run is not kept out of sentiment. It is the operational basis of the only suppression method this holding has. The event procedure requires a Warden to name the wrong aloud over the sector channel, and the radius contracts on an accurate naming and on nothing else — so the wing maintains a **naming list**, drawn from the run, of wrongs that might be the one.
+The run is not kept out of sentiment. It is the operational basis of the only suppression method this holding has. The event procedure requires a Warden to name the wrong aloud over the sector channel. And the radius contracts on an accurate naming and on nothing else — so the wing maintains a **naming list**, drawn from the run, of wrongs that might be the one.
 
 The list cannot be ordered. The complaints carry no priority, no outcome, and nothing that distinguishes the grievance that became a statue from the three thousand that did not. Wardens are trained to read for severity, recency and specificity, and the file is blunt that this is a heuristic with no evidence behind it.
 
@@ -443,7 +448,7 @@ During the third event a Warden inside the chamber judged that her partner had b
 
 She had no decision. The instrument deemed it not taken. What remained was a Warden who had left a naming procedure incomplete and removed a colleague from a post, with no authority on record for either, because the authority she had exercised was defined out of existence by the document that was supposed to protect her. A disciplinary file was opened. It ran four months, was closed with no finding, and **is not expunged**, because the scheme has no provision for expunging a file opened over a decision that was never taken.
 
-The watch supervisor who signed the incident review has put it in the minute at every annual review since. It holds that the deeming provision was written to void agreements and was applied to an emergency act, which nobody drafting it had considered and which the drafting notes do not mention; that the wing has known since the seventh year that the rule leaves a Warden acting correctly in an emergency with no authority to point to, and has made no amendment in two years of review cycles; and that the practical consequence is already visible in the training, where new Wardens are now taught to call the corridor before acting, which adds a delay the third event shows cannot always be afforded. The minute, entered without dissent, holds every part of the objection good. It sets down that an amendment carving out emergency acts was drafted, circulated, and not laid, for reasons the minute does not give. The supervisor's closing line follows, minuted at her request: *she did the right thing and the file says she did nothing at all. Both of those are now permanent.*
+The watch supervisor who signed the incident review has put it in the minute at every annual review since. It holds that the deeming provision was written to void agreements and was applied to an emergency act, which nobody drafting it had considered and which the drafting notes do not mention. That the wing has known since the seventh year that the rule leaves a Warden acting correctly in an emergency with no authority to point to. And has made no amendment in two years of review cycles. And that the practical consequence is already visible in the training, where new Wardens are now taught to call the corridor before acting, which adds a delay the third event shows cannot always be afforded. The minute, entered without dissent, holds every part of the objection good. It sets down that an amendment carving out emergency acts was drafted, circulated, and not laid, for reasons the minute does not give. The supervisor's closing line follows, minuted at her request: *she did the right thing and the file says she did nothing at all. Both of those are now permanent.*
 
 ## Trivia
 

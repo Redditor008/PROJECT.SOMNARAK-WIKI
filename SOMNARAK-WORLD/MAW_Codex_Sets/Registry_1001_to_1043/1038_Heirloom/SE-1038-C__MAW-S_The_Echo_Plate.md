@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Echo Plate
 
-> *“The Echo Plate remembers Heirloom; the bearer must not mistake memory for permission.”*
+> *"A family grudge worn as armour: the blow stops, and the wearer is slow to forgive anything nobody told them about."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Heirloom's kind of pressure.  
-**Binding rule:** the bearer names Heirloom's event—A grievance was repeated through generations until the words became an empty fire.—and accepts this limit: Stop repetition and identify the original voice
+**Binding rule:** the bearer names Heirloom's event — “A grievance was repeated through generations until the words became an empty fire.” — and accepts this limit: Stop repetition and identify the original voice
+
+
+### Appearance
+
+A full plated harness hung at the shoulders and flanks with long resonance rings, tuned like chimes and deliberately tuned apart, so that they cannot sound a chord and cannot repeat one another.
 
 ## CORE STATISTICS
 
@@ -25,16 +30,20 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Heirloom's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Plate is a family grudge worn as armour: the blow lands and the wearer answers it with a quarrel older than they are, and nothing said to them now gets past the inherited charge. Worn long, they inherit quarrels wholesale.
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Suit Record*
 
-The first The Echo Plate field bearer encountered this source response: Tests whether the worker can remain while the sound burns away. The suit witnesses the immediate hazard only after the team attributed it to Heirloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Plate encountered this source response: Tests whether the worker can remain while the sound burns away. The suit witnesses the immediate hazard only after the team attributed it to Heirloom. A wearer answered a present quarrel with one older than they were, and the Plate’s binding is the family case file from that hearing.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Heirloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the inherited charge arrives before anything is said, and nothing the wearer hears now gets past it.
 - Terminal state: Heirloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Stop repetition and identify the original voice” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +52,4 @@ The first The Echo Plate field bearer encountered this source response: Tests wh
 
 ## SET RELATIONSHIP
 
-Within *Heirloom — Witnessed Form*, The Echo Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1038-C`  
-**Linked Entity:** `SE-1038`  
-**Item Registry Code:** `MAW-S-1038-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Heirloom — Witnessed Form*, The Echo Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing said to the wearer today can still reach them; the first it cannot, the Plate is out.

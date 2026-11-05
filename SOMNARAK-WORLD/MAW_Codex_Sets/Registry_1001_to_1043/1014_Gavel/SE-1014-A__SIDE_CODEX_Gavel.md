@@ -22,7 +22,7 @@ The Judge formed from the sorrow of people subjected to impartial systems that w
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Entity (IV) — Rigid and absolute / Critical (δ) |
 | Element / Location | Grudge / SECTOR-C-01, Collector's Row |
-| Gauge / Pressure | 820/820; starts 60–80% / 23–51 per hit · Grudge |
+| Gauge / Pressure | 000/820; starts 000% / 23–51 per hit · Grudge |
 | Observation | 3 — Advanced |
 | Formation event | Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person. |
 
@@ -40,7 +40,7 @@ The Judge formed from the sorrow of people subjected to impartial systems that w
 
 ## WITNESS RECORD — *The Gavel Source-Trace*
 
-During the The Gavel Source-Trace, the field team preserved this source fact: Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being measured by rules that refused to understand circumstances.
+During *The Gavel Source-Trace*, the field team preserved this source fact: Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being measured by rules that refused to understand circumstances.
 
 ## M.A.W. SET — *Gavel — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Gavel Source-Trace, the field team preserved this source fact: Co
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Gavel's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon marks only the immediate manifestation that violates this rule: Present context and evidence; do not appeal with status or force The set cannot heal the originating event. Misuse routes Gavel's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1014-A`  
-**Linked Entity:** `SE-1014`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

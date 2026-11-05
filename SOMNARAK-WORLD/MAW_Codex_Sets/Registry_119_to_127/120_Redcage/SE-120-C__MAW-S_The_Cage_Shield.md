@@ -56,7 +56,7 @@ The Shield formed from a released bar echo after a Cage observation team acknowl
 
 ### Appearance
 
-The Cage Shield is a back plate of crimson Han iron fitted over the spine and shoulders with narrow black straps, and a grid of vertical ridges that close into a solid surface when a barrier is active. A single gap remains in the lower backplate while an exit route is open, and the metal is unpolished and warm near the ridges. The shield absorbs direct Grudge attacks into its backplate and disperses the impact only if the wearer maintains an open route for those affected by the conflict. When a release observer confirms the exit remains open, the grid reflects one rage-based strike away from protected people and into an unoccupied pressure field. If the wearer blocks the route after activation, the reflected force returns and leaves the wearer convinced they are trapped. An open route is drawn on the shield case before every issue. Before every issue the wearer draws an open route on the shield case, and a release observer checks the route against the actual site rather than the diagram alone.
+The Cage Shield is a back plate of crimson Han iron fitted over the spine and shoulders with narrow black straps, and a grid of vertical ridges that close into a solid surface when a barrier is active. A single gap remains in the lower backplate while an exit route is open, and the metal is unpolished and warm near the ridges. Nothing on the outside shows a blow being taken: the ridges close into their solid surface on their own schedule and the metal stays unpolished and warm at the same points, so the catch is read under *Rage Catch* rather than from the iron. When a release observer confirms the exit remains open, the grid reflects one rage-based strike away from protected people and into an unoccupied pressure field. If the wearer blocks the route after activation, the reflected force returns and leaves the wearer convinced they are trapped. An open route is drawn on the shield case before every issue. Before every issue the wearer draws an open route on the shield case, and a release observer checks the route against the actual site rather than the diagram alone.
 
 ### Passive effect— *Rage Catch*
 
@@ -88,14 +88,3 @@ Ashford used the Shield during a Collector dispute that had drawn a Grudge flare
 The Shield is the restraint of *Open Bar*. Fang can cut a coercive barrier and Charm can identify it; this suit ensures a bearer does not reproduce the cage while protecting against its rage.
 
 > *“Armor is not neutral when someone is trapped on the wrong side of it.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-120-C`  
-**Linked Entity:** `SE-120`  
-**Item Registry Code:** `MAW-S-120-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

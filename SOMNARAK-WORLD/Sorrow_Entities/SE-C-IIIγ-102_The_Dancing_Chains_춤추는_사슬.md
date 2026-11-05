@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-102 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct contact or deliberate binding to a worker |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Personality compelled to dance |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Non-Organic — A pair of dark chains of crystallized rage, their links fused and grown rather than forged, cold and ridged like clenched vertebrae. Bound to a person they move on their own, forcing the wearer to dance until collapse. They are fever-hot where they grip, and smell of char. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary when nobody is bound to it; the links move continuously in a repeating figure and have never been recorded at rest. |
 | **Location** | SECTOR-B-01, Zone B — contained |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,14 +28,15 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical and structural pressure, read off the anchor points and the repeating figure rather than off the links |
-| **Starting Sorrow Gauge** | 45–65% on the wall clock before the cycle, since the pattern is what the session actually measures |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 in a cycle that slows the figure, which is as far as any session has ever taken it |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a figure that repeats, and the repetition is the containment problem. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Direct contact or deliberate binding to a worker; no breach counter. The cycle is read on the pattern's period against the logged baseline. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ); the links have never been recorded at rest, so the band stands as the (γ) table’s estimate |
-| **Recommended response** | The two approaches the object answers to on record, with the anchor inspections kept on their fixed schedule; nothing slows the figure faster than patience does |
+| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ). The links have never been recorded at rest, so the band stands as the (γ) table’s estimate |
+| **Recommended response** | The two approaches the object answers to on record, with the anchor inspections kept on their fixed schedule. Nothing slows the figure faster than patience does |
 
 ### Operational Notes
 
@@ -45,61 +46,71 @@
 - Structural pressure is literal here. Anchor points in Zone B are inspected on a fixed schedule, not on suspicion.
 - Extraction is a distinct exposure with its own authorization.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 686/686 |
-| **Han Pressure [ATK]** | 19–43 per hit · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Personality compelled to dance |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-B-01, Zone B — contained |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
 
-### Combat Actions
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Link* [**Debuff**] } | "One link finds your wrist — and it is warm, almost eager." | [A single chain loops the target; the iron hums with old resentment.] | *Target suffers -10 Resilience; the chain has chosen them.* **[10 Grudge DMG [Grudge]]** | When the Chains begin to move. |
-| { *The Rattling* [**Debuff**] } | "More links join the first — and the rattling is the sound of every grudge that ever bound someone." | [The Chains multiply; the binding tightens with accumulated anger.] | *Target loses 10 Resilience; the weight of old resentment pins them.* **[10 Grudge DMG [Grudge]]** | When the target struggles. |
-| { *The Whip* [**Attack**] } | "One chain snaps taut and lashes — fast, and glad to." | [A chain whips across the target, biting deep.] | *Inflicts Grudge pressure and one biting wound.* **[14-22 Grudge DMG [Grudge]]** | When the target resists the Chains. |
-| { *The Binding* [**Attack**] } | "The chains wrap tight — and every link is a promise that you will not leave." | [The Chains constrict, binding the target in furious iron.] | *A heavy Crimson crush; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Chains are commanded or enraged. |
-| { *The Whole Coil* [**Ultimate**] } | "Every chain in the place comes alive at once — and they want everyone." | [The Chains uncoil across the entire field, binding all within reach.] | *All personnel suffer Grudge pressure for three turns in the iron.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+The gauge is read at the instrument. The cost is read on the person.
 
-### Battle Phases
+## Contact Record
 
-1. **Tension:** The team identifies The Dancing Chains by the repeating figure and by the fused, grown links; never by stillness, which it has never exhibited, and never by sound, of which it makes almost none, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** Twelve turns, Viderehan and Ferrehan only, and never by one person. The two-person rule admits no exception for brevity, both names are written by two different hands, and the second Warden stands outside the working distance throughout so that there is always somebody whose hands are free.
-3. **Resolution:** Containment, management, retreat, or the documented condition: **the pattern is slowed to the logged baseline and the gauge falls below 25%**. If a worker is bound at any point, the cycle is over and the only remaining task is removal.
+> **Why this file has no combat actions.** The links are fused and grown rather than forged, and have never been recorded at rest. The pair is stationary in SECTOR-B-01 and nothing in the record reaches beyond the body it has closed on. The file says it in its own words: *nobody is attacked here*. What happens after contact happens inside one worker, at a pace they did not choose and cannot set down.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | Two dark chains of crystallised rage, links fused and grown rather than forged, cold and ridged like clenched vertebrae, moving continuously in a repeating figure and never once recorded at rest. Fever-hot where they grip. |
+| **Perceptible to** | The repeating figure first, and then how little sound they make — the bound worker's own breathing falling out of step with their feet is the loudest thing in the cell. Contact is warm and almost eager at the wrist, and that is the last reliable sensation the wearer reports. |
+| **Handling** | Worn, never carried, and never worn by the person leading a withdrawal. Fitted by a named second person who stays outside the working distance with their hands free. The bearer cannot remove the piece, cannot be talked through the removal, and cannot authorise it on their own behalf. Attempting removal alone is a procedural failure whether or not it succeeds. |
+| **Activation threshold** | Direct contact or deliberate binding to a worker; no breach counter. The cycle is read on the pattern's period against the logged baseline. |
+| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Work preference** | No Work Types (`R-40`) — worn, never carried, and never worn by the person leading a withdrawal. Fitted by a named second person whose hands stay free. The two-person rule admits no exception for brevity. |
+| **Location** | SECTOR-B-01, Zone B — contained |
+| **Resolution Condition** | The pattern is slowed to the logged baseline and the gauge falls below 25%. If a worker is bound at any point, the cycle is over and the only remaining task is removal. |
+
+
+### Contact Events
+
+| Event | What the Chains do | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The First Link* [**Register**] } | One link finds a wrist — warm, almost eager — and the iron hums with old resentment. The chain has chosen the person who touched it, not the person it was aimed at. | Nothing is done for the wearer by the wearer. The second Warden keeps their hands free; a rescue attempted by the bound worker is the one move that ends the cycle early. | There is no targeting here. Every binding on file began with contact somebody made, deliberate or otherwise. |
+| { *The Rattling* [**Exposure**] } | Almost no sound, and what the bound worker hears is their own breathing falling out of step with their feet, because the figure's period has begun to shorten. | The second Warden reads the period aloud against the logged baseline, because the dancer cannot: struggling is one more kind of movement, and it speeds the figure. | The compulsion is a rate, not a weight. Nothing multiplies and nothing tightens of itself; what changes is how fast the pair is moving. |
+| { *The Refusal* [**Refusal**] } | The piece will not come off. Removal is not a thing the bound worker can do, be talked through, or authorise on their own behalf. | A named second person takes it off. The attempt is not negotiated with the wearer and their consent is not the instrument of it. | The failure is procedural rather than moral: the wearer is the subject of the cycle and is no longer a participant in it, so their agreement cannot be the thing that releases them. |
+| { *The Whole Coil* [**Overload**] } | Above 65 per cent the period shortens past the logged baseline, and the anchor loads across Zone B rise with it. Every chain in the place is still the same two chains, still in the cell. | Withdraw the team, move the structural inspection forward, and attempt no removal during the surge. There is no new wearer to reach for and nobody is sent to be one. | The escalation is carried by the building rather than by anybody in it. Nothing spreads out of the cell and nothing gets out of the cell. |
+
+### Watch Sequence
+
+1. **What is confirmed:** the repeating figure and the fused, grown links — never stillness, which the pair has never exhibited. And never sound, of which it makes almost none. The logged baseline period; the anchor loads in Zone B. And which two wardens are on the cycle and who is standing outside the working distance.
+2. **What the watch does:** Viderehan and Ferrehan, two names in two different hands, with the second Warden outside the working distance and their hands free throughout. Contact is never used to test the holding: the period is read and called aloud, not felt. If a worker is bound at any point, the cycle is over and the work becomes removal.
+3. **How it closes:** the close is the file's documented suppression condition — **The pattern is slowed to the logged baseline and the gauge falls below 25%; if a worker is bound at any point, the cycle is over and the only remaining task is removal.** Nothing is forced and nothing is coaxed. The figure is read down against a number taken on a day when nothing was bound to it.
 
 ### Consequences
 
-- Nobody is attacked here. The failure is contact, and after contact the worker is no longer a participant in the cycle; they are the subject of it, moving faster than they can think and unable to be the one who stops.
+- Nobody is attacked here. The failure is contact, and after contact the worker is no longer a participant in the cycle. They are the subject of it, moving faster than they can think and unable to be the one who stops.
 - The long-exposure effect outlasts the binding. Stillness becomes difficult: workers report that sitting, queueing or standing at a counter produces an urgency they cannot explain, and the medical office treats it as exposure and not as restlessness.
 - The set makes its wearer faster than anything in the sector and takes the ability to decide when to stop. The armoury's rule is that it is never worn by the person leading a withdrawal, since the wearer will reliably be the last one moving and will not notice.
-- Unresolved, the figure does not spread and nothing escapes. The pattern speeds, the anchor loads rise, and Zone B's structural inspections move forward; the escalation is carried by the building rather than by anybody in it.
+- Unresolved, the figure does not spread and nothing escapes. The pattern speeds, the anchor loads rise, and Zone B's structural inspections move forward. The escalation is carried by the building rather than by anybody in it.
 
 ## Appearance
-**Physical Form:** A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse.
+**Physical Form:** Two lengths of chain, each a little over two metres and stopped at both ends with a closed ring the size of a fist, laid slack on the floor mount of the registered cell. The links are thumb-sized and not forged but crystallised: dull iron-black, with the seam blooming red where the strike of the maker fell, so the red runs the length of the chain like a lit fuse that never advances. The pair weighs about eleven kilos.
+
+That is more than iron of the volume should weigh, and the facility reads the excess as the first sign that the Grudge is in the metal and not in the wearer. In a cold room the chains sit grey as ash. In a room where the mood has soured the red comes up to the colour of a coal someone has just breathed on, and the links begin to move: continuous, repeating, drawing the same figure of eight on the floor with nobody touching them.
 
 **Notable Features:**
 - The wearer cannot remove themself from the chains.
@@ -110,8 +121,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed slack on its floor mount in the registered cell, links moving continuously in a repeating figure and never recorded at rest. The object has never left the cell except on a bound wearer.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, Zone B — contained
 
@@ -119,13 +129,12 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse. |
-| **Position / movement** | Fixed in the registered cell. The links move constantly in a figure that repeats; record the period over ten full cycles and the brightness on the three-step scale at every watch. |
+| **Position / movement** | Fixed in the registered cell. The links move constantly in a figure that repeats. Record the period over ten full cycles and the brightness on the three-step scale at every watch. |
 | **Material / signature** | Grudge. Dark crystallised links, fused and grown rather than forged, cold and ridged like clenched vertebrae, smelling of char, fever-hot at any point where they have gripped. |
 | **Distinctive markers** | The wearer cannot remove themself from the chains. The chains pulse near strong emotions. They brighten near sorrow and dim near joy. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Confirm designation C-IIIγ-102 `[GO]`, Object-Grudge manifestation and the repeating figure before Work or contact; the wrong entity is the wrong sorrow. |
 
-**Appearance protocol:** Time the figure first — ten complete repetitions, to the second, by a Warden who is not handling anything — because the period is the holding's only stable quantity and a drift in it is the earliest sign there is. Then the brightness, on the crude three-step scale and not on a finer one; the finer scale was tried and varied more with the Warden than with the chains. Record the anchor-point condition, the temperature at every point of contact, and whether any link is warm with nobody present. Nothing is handled by one person, including for a measurement that plainly needs one pair of hands.
+**Appearance protocol:** Time the figure first — ten complete repetitions, to the second, by a Warden who is not handling anything — because the period is the holding's only stable quantity and a drift in it is the earliest sign there is. Then the brightness, on the crude three-step scale and not on a finer one. The finer scale was tried and varied more with the Warden than with the chains. Record the anchor-point condition, the temperature at every point of contact, and whether any link is warm with nobody present. Nothing is handled by one person, including for a measurement that plainly needs one pair of hands.
 
 ## Origin
 - **Formation:** The Chains formed from a fairy tale about cursed shoes and the terror of being compelled to continue.
@@ -134,42 +143,33 @@
 - **The People:** None identifiable. There is no victim here and no originating person: the chains came out of a story, and the story's dancer was never a citizen of anywhere. The file is firm that this is the rarest entry in the registry — a sorrow with no one behind it — and that it has misled two inquiries into treating the holding as harmless.
 - **Expanded origin context:** The archivists hold what survives of the tale: fragments, variants, and two incompatible endings. In neither ending does the dancer stop. That was checked carefully, and the note recording the check says, in terms, that it was checked in the hope that one of them did. What survived into the object is not the plot, the curse, the names or the moral — all of those are gone — but the compulsion, which is the part of a story that needs no telling to keep working.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a set of chains that is worn, and the wearing is the whole of the contact. There is nothing in it to observe into agreement; the file owes the reader a fitting, a second pair of hands, and a rule about who may take it off.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** (Observation) | Become still, allowing safe study. | Stable |
-| **Ferrehan** (Endurance) | Bind the worker temporarily and test their ability to endure motion. | Decrease |
-### Special Behaviors
-- Compulsion continues through injury. A fractured ankle has been recorded as slowing the figure and not as interrupting it.
-- Stillness becomes difficult afterwards, for weeks, in situations with nothing to do with the holding.
-- Removal requires a second pair of hands. The bound worker cannot do it, cannot be talked through it, and cannot authorise it on their own behalf.
-
-
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Name the bearer and name the fitter, and write both names in two different hands. The fitter stays outside the working distance with their hands free for the whole cycle. The piece is brought to the bearer; it is never carried by them. | Two people minimum; the fitter is the one who can act and the bearer is the one who cannot. | A watch, and the second person's whole attention. The fitter's hands are free and stay free, which means the fitter does nothing else for the length of the cycle. |
+| **Handling** | The chains are fitted by the fitter and worn by the bearer. The motion begins and the period is read from outside. The bearer cannot remove the piece, cannot be talked through the removal, and cannot authorise it on their own behalf. | The fitter, from outside the working distance; the bearer inside it under authorisation. | Binding a worker briefly under authorisation and testing whether they can endure the motion is the only thing that lowers the gauge, which is to say the only effective handling here puts somebody inside the hazard. |
+| **Withdrawal** | The fitter removes the piece. The bearer does not lead the withdrawal and does not wear it out of the working distance. The period is logged, not the impression. | The fitter leads the removal; the duty Warden signs the period. | The bearer's own account becomes unreliable exactly when the gauge starts to rise — they report feeling capable, efficient and unusually well. That is the reading to distrust, and it is the one they will offer. |
+| **Refusal** | Do not let the bearer attempt removal alone, whether or not it succeeds. Do not let the person leading a withdrawal wear the piece. Do not run the cycle with one person. Do not accept the bearer's account of their own state in place of the period. | Standing Order. Attempting removal alone is a procedural failure whether or not it works, and that has been written into the rule rather than left to judgement. | The Registrum entry naming confrontation as the primary approach is an error and is corrected here: force on a worn binding is not an approach, it is a way to hurt the person wearing it. |
 
 ### Operational Work Notes
 
-The Dancing Chains is an Object/Place with Object-Grudge manifestation and Grudge expression, held in Zone B. Viderehan opens the compulsion's shape and moves the gauge not at all. Ferrehan binds a worker briefly under authorisation and tests whether they can endure the motion, and it is the only Work Type that lowers the gauge — which is to say that the only effective work on this holding is the one that puts somebody inside the hazard. The Registrum entry naming Pugnahan as primary is an error and is corrected here.
+The Dancing Chains is an Object/Place with Object-Grudge manifestation and Grudge expression, held in Zone B. It is not worked and no Work Type is available to it. Observation opens the compulsion's shape and moves the gauge not at all; endurance binds a worker briefly under authorisation and is the only thing that lowers it. What the file actually describes is a two-person procedure in which the only effective act puts somebody inside the hazard, and the rule that follows from that is about who may take the piece off.
 
 **Reading the response:** Read it in the period. A falling gauge presents as a longer, heavier figure — the same shape, slower, with the links settling fractionally between repetitions. A rising gauge presents as speed, and speed is the only reading that matters, because the bound worker's own account becomes unreliable at exactly the point it starts to rise: they report feeling capable, efficient and unusually well. Log deviations before the next assignment and log the period, not the impression.
 ## Activation Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"direct contact or deliberate binding to a worker"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Removes the Bearer's Ability to Call a Halt**
-
-**Activation Trigger:** Direct contact or deliberate binding to a worker.
-
-**Effect:** The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory.
-
-**Duration:** Until an outside person removes the chains or the entity's gauge is reduced.
-
-**Risk:** The worker may lose the ability to remain still and dance until physical collapse.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -179,7 +179,7 @@ The Dancing Chains is an Object/Place with Object-Grudge manifestation and Grudg
 | **Activation** | Direct contact or deliberate binding to a worker. |
 | **Primary Effect** | The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory. |
 | **Duration** | Until an outside person removes the chains or the entity's gauge is reduced. |
-| **Termination / Return** | The piece comes off when a named second person takes it off; the bearer cannot remove it, cannot be talked through the removal, and cannot authorise it on their own behalf. Attempting a removal alone is a procedural failure whether or not it succeeds. |
+| **Termination / Return** | The piece comes off when a named second person takes it off. The bearer cannot remove it, cannot be talked through the removal, and cannot authorise it on their own behalf. Attempting a removal alone is a procedural failure whether or not it succeeds. |
 | **Risk** | The worker may lose the ability to remain still and dance until physical collapse. |
 
 **Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
@@ -188,9 +188,9 @@ The Dancing Chains is an Object/Place with Object-Grudge manifestation and Grudg
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The mount is checked at the start of every shift because the chains shorten — a link at a time, over weeks — and the check comes before the piece is taken up. | The primary resonance engages: movement speed rises sharply, all of it dance-like, and +10% Grudge resistance holds while the piece is on. |
-| 30 Seconds | The bearer begins keeping time with the figure without having decided to, which is the earliest sign the file records and the one the watch is told to call. | Benefit continues and composure begins to pay for it; the removal partner watches for the moment the bearer stops noticing the rhythm as something external. |
-| 1 Minute | The compulsion stops being something the bearer is doing and becomes something that is happening: the pace is no longer theirs to set. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds, and the period on the watch is logged at two-minute intervals from here. |
+| 10 Seconds | The mount is checked at the start of every shift because the chains shorten — a link at a time, over weeks — and the check comes before the piece is taken up. | Movement speed rises sharply, all of it dance-like, and the named remover is already in the room. Nothing here grants resistance, and the period is taken over ten repetitions before anything else. |
+| 30 Seconds | The bearer begins keeping time with the figure without having decided to, which is the earliest sign the file records and the one the watch is told to call. | Benefit continues and composure begins to pay for it. The removal partner watches for the moment the bearer stops noticing the rhythm as something external. |
+| 1 Minute | The compulsion stops being something the bearer is doing and becomes something that is happening: the pace is no longer theirs to set. | The period is logged at two-minute intervals and the bearer's account is recorded verbatim and marked unreliable. The instrument that matters is the second Warden's watch, because the emotional indicator and the physical one diverge from here. |
 | 2 Minutes | Past two minutes the bearer reports feeling capable, efficient and unusually well — the account that is recorded verbatim and marked unreliable, because the period is shortening fastest at exactly this point. | Forced removal past two minutes, or any removal attempted alone, risks the collapse series: the fourteen recorded times-to-collapse run from nine minutes forty to thirty-one minutes and nothing predicts which end a given person falls on. |
 
 ### Escalation Notes
@@ -207,10 +207,10 @@ Escalation here is rate. Record the period at onset, the brightness, whether any
 | **Manifestation** | Object-Grudge |
 | **Primary effect** | The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory. |
 | **Duration / rate** | Until an outside person removes the chains or the entity's gauge is reduced. |
-| **Risk** | Major (γ) — High danger Object-Grudge producing Grudge pressure; The worker may lose the ability to remain still and dance until physical collapse. |
-| **Management** | Two Wardens at every task, one of them handling nothing, with a named remover present before any binding; Viderehan and Ferrehan only, binding solely as authorised Ferrehan, and removal always by a second person because there is no self-release and none has ever been achieved. |
+| **Risk** | Major (γ) — High danger Object-Grudge producing Grudge pressure. The worker may lose the ability to remain still and dance until physical collapse. |
+| **Management** | Two Wardens at every task, one of them handling nothing, with a named remover present before any binding. Viderehan and Ferrehan only, binding solely as authorised Ferrehan. And removal always by a second person because there is no self-release and none has ever been achieved. |
 
-**Activation reporting order:** trigger → who was bound, by what contact, and at what time → period at onset and at two-minute intervals thereafter → brightness → the bound worker's own reported state, recorded verbatim and marked unreliable → who performed the removal and how long it took → medical outcome → anchor-point inspection. Viderehan and Ferrehan only, and nobody attempts a removal alone.
+**Activation reporting order:** trigger → who was bound, by what contact. And at what time → period at onset and at two-minute intervals thereafter → brightness → the bound worker's own reported state, recorded verbatim and marked unreliable → who performed the removal and how long it took → medical outcome → anchor-point inspection. Viderehan and Ferrehan only, and nobody attempts a removal alone.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -234,7 +234,7 @@ Escalation here is rate. Record the period at onset, the brightness, whether any
 
 **Ability:** Deals Grudge damage against the Body (physical form, structural integrity), and the strike carries the compulsion rather than the rage: the target's own next movement arrives faster than they meant it to.
 
-**Cost:** The wielder's old wounds ache and their pace stops being theirs to set, which the armoury enters as one cost with two signs rather than two costs.
+**Bearer cost:** The wielder's old wounds ache and their pace stops being theirs to set, which the armoury enters as one cost with two signs rather than two costs.
 
 ### M.A.W. Suit — The Dancing Plate
 
@@ -252,7 +252,7 @@ Escalation here is rate. Record the period at onset, the brightness, whether any
 
 **Ability:** Wards the Body — physical form, structural integrity — against Grudge damage of the kind this cell produces, so that the wearer stays standing through what the figure asks of them.
 
-**Cost:** The wearer's reflexes dull, as if the plate were deciding when they move, and the dulling is how every stand-down on this set has presented.
+**Bearer cost:** The wearer's reflexes dull, as if the plate were deciding when they move, and the dulling is how every stand-down on this set has presented.
 
 ### M.A.W. Stigma — The Dancing Shoes
 
@@ -266,7 +266,7 @@ Escalation here is rate. Record the period at onset, the brightness, whether any
 
 **Ability:** Greatly increases movement speed and evasive reflexes.
 
-**Cost:** The shoes want to dance; resisting the urge to move requires constant effort.
+**Bearer cost:** The shoes want to dance; resisting the urge to move requires constant effort.
 
 *The Dancing Shoes are not manufactured and are not requested; the chains confer them, rarely, and in every recorded instance on somebody who had performed a removal rather than on somebody who had been bound.*
 
@@ -274,7 +274,7 @@ Escalation here is rate. Record the period at onset, the brightness, whether any
 
 All three pieces carry the compulsion rather than the rage: they are fast, tireless and entirely reliable, and they make stopping into a decision the wearer has to keep making. The listed benefit holds inside the intended pattern, and forcing a piece against its design shortens the interval at which the decision comes round. No protocol produces a Stigma here.
 
-### M.A.W. Cross-Source Review — Batch 111
+### M.A.W. Cross-Source Review
 
 - **Weapon hold:** This dossier describes a fang-curved Han-iron blade; `SE-102-B` and the personalization record describe a rope dart with a cord and fang-shaped head. The primary and item profile state Range 3 / Medium, while `MAW-W-102` assigns Room. Master Codex Entry 46 labels it PRIMAL / Bio / Marrow, which does not explain the local Han-iron description. No source crosswalk joins these shapes, bands, or material labels.
 - **Stigma acquisition hold:** This dossier says no protocol produces the Stigma and that the Chains rarely confer it after a removal. `SE-102-D` records a 4% bestowal after successful work, while `SE-102-A` says M.A.W. may be formed from released shed echo. No source establishes whether that extraction rule includes or excludes the Stigma; retain all three statements.
@@ -287,15 +287,15 @@ All three pieces carry the compulsion rather than the rage: they are fast, tirel
 | **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and the name of the person authorised to remove it from them. The last field is mandatory and that person must be physically present. |
 | **During use** | Activation time, movement rate, the ground covered, whether the wielder has stopped voluntarily at any point, and the first cost noticed by the removal partner. |
 | **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has begun giving reasons to continue — the last field being the file's own end point, because a wielder who argues for more time is already past the decision. |
-| **After use** | Removal, by whom, injuries, lingering effects, cooldown, repair need, reuse authorisation, and the stillness check at seven days; the check is entered even when the worker reports nothing, and a refusal of the check is entered as a refusal. |
+| **After use** | Removal, by whom, injuries, lingering effects, cooldown, repair need, reuse authorisation, and the stillness check at seven days. The check is entered even when the worker reports nothing, and a refusal of the check is entered as a refusal. |
 
-**Stat interpretation:** Grade states speed and output and says nothing about what the set actually takes, which is the capacity to be the one who calls a halt. A wielder from this source performs excellently and must never be the person holding authority to withdraw; the file's own instruction is to read both columns, authorise on the second, and name the stopper before the piece is issued. The shoes are the only stigma on record that the object is known to confer rather than the armoury issuing it, and every recorded conferral went to somebody who had performed a removal.
+**Stat interpretation:** Grade states speed and output and says nothing about what the set actually takes, which is the capacity to be the one who calls a halt. A wielder from this source performs excellently and must never be the person holding authority to withdraw. The file's own instruction is to read both columns, authorise on the second, and name the stopper before the piece is issued. The shoes are the only stigma on record that the object is known to confer rather than the armoury issuing it, and every recorded conferral went to somebody who had performed a removal.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- Its Han-signature matches the Weeping closely enough that the two were confused on first survey; the match has no operational consequence that anybody has been able to find.
+- Its Han-signature matches the Weeping closely enough that the two were confused on first survey. The match has no operational consequence that anybody has been able to find.
 - It has never left the cell under its own power. Every recorded movement of the object is a movement of the person it was attached to.
 - Brightness rises near sorrow and falls near joy, which makes the reading a usable indicator of the room and a poor indicator of the object.
 - Removal requires somebody outside the compulsion and willing to take hold of the thing causing it.
@@ -346,13 +346,13 @@ The chains are kept slack on a floor mount, and the mount is checked at the star
 
 ## 감각 묘사 (Flavor Text)
 
-The chains lie still until you touch them. Then the first link closes, and your body remembers a rhythm you never learned. Your feet move faster than thought. The room becomes a stage, the walls become an audience, and stopping feels more frightening than falling. Somewhere beneath the rage is grief: the sorrow of being ordered onward when all you wanted was rest.
+The chains are already moving when you come in — they have never been recorded at rest — and then the first link closes, and your body remembers a rhythm you never learned. Your feet move faster than thought. The room becomes a stage, the walls become an audience, and stopping feels more frightening than falling. Somewhere beneath the rage is grief: the sorrow of being ordered onward when all you wanted was rest.
 
 
 
-**At first contact:** They lie still until touched, and then the first link closes and the body finds a rhythm it never learned. The room becomes a stage and the walls become an audience, and stopping begins to feel more frightening than falling.
+**At first contact:** The figure is already repeating when the hand arrives, and then the first link closes and the body finds a rhythm it never learned. The room becomes a stage and the walls become an audience, and stopping begins to feel more frightening than falling.
 
-**With continued exposure:** The bound worker gets better at it. The movement smooths out, the effort drops away, and they begin to feel efficient — which is the point at which the period on the Warden's watch is shortening fastest, and the point at which nothing the worker says about their own state can be used.
+**With continued exposure:** The bound worker gets better at it. The movement smooths out, the effort drops away. And they begin to feel efficient — which is the point at which the period on the Warden's watch is shortening fastest. And the point at which nothing the worker says about their own state can be used.
 
 **When the entity activates:** Somebody is attached and is now moving faster than thought. It continues through exhaustion, continues through injury, and ends when a second person takes hold of the chains and removes them — not when the worker decides to stop, which is not a thing the worker can decide.
 
@@ -360,26 +360,26 @@ The chains lie still until you touch them. Then the first link closes, and your 
 
 ### Interaction Pattern
 
-The three relations on file for the Chains — The Hollow Choir, The Maw and The Kind Healer — are read against the things that sound, recognise or mend, and none of them is settled. The brightness reading responds to anybody present, which makes these pairings unusually easy to over-read; the period is the field that counts, and the file's standing caution is that a perceived synchrony is the most persistent false reading on this holding. A result obtained once carries no authority during a Sorrow Tide, an Ordeal or a transformation event.
+The three relations on file for the Chains — The Hollow Choir, The Maw and The Kind Healer — are read against the things that sound, recognise or mend, and none of them is settled. The brightness reading responds to anybody present, which makes these pairings unusually easy to over-read. The period is the field that counts, and the file's standing caution is that a perceived synchrony is the most persistent false reading on this holding. A result obtained once carries no authority during a Sorrow Tide, an Ordeal or a transformation event.
 
 **Interaction method:** Solo baselines first, over a long series, because the period here varies with the feeling in the room and a single paired reading cannot be attributed to the other holding. Then the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on period and brightness taken separately, and whatever persists after separation.
 
 
 ### Entity Interaction Record
 
-This holding is read against the things that sound, recognise or mend, and what follows is the whole of its co-presence record: three holdings, none of them arranged by the wing, none of them settled, and one of them proposed again by new staff every year.
+This holding is read against the things that sound, recognise or mend. And what follows is the whole of its co-presence record: three holdings, none of them arranged by the wing, none of them settled. And one of them proposed again by new staff every year.
 
 | Related entity | The relation as filed | What was measured | What is carried forward |
 |---|---|---|---|
-| **The Hollow Choir** | The Choir sings while the chains are active, which personnel consistently describe as the two being in time with each other. | They are not. The period was measured against the Choir across five co-presences and the two rates are unrelated; the impression of synchrony is produced by the listener and is recorded as the most persistent false reading on this holding. | The five co-presences with both rate series, and the standing caution about perceived synchrony. |
-| **The Maw** | The chains pulse near the First Sorrow as though recognising where they came from, which they did not. | Three co-presences, no measurable effect on period, brightness or gauge in either direction. The pairing is retained because it is proposed by new staff every year. | The three co-presences and the null result. |
-| **The Kind Healer** | The Healer can do nothing here, and the file's phrasing is that the chains are waiting rather than wounded. | Attempted twice under authorisation. No gauge movement on either occasion; the Healer's own readings were unaffected. The wing has not sought a third attempt. | The two attempts and both unchanged series. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | The Choir sings while the chains are active, which personnel consistently describe as the two being in time with each other. | They are not. The period was measured against the Choir across five co-presences and the two rates are unrelated. The impression of synchrony is produced by the listener and is recorded as the most persistent false reading on this holding. | The five co-presences with both rate series, and the standing caution about perceived synchrony. |
+| [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | The chains pulse near the First Sorrow as though recognising where they came from, which they did not. | Three co-presences, no measurable effect on period, brightness or gauge in either direction. The pairing is retained because it is proposed by new staff every year. | The three co-presences and the null result. |
+| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | The Healer can do nothing here, and the file's phrasing is that the chains are waiting rather than wounded. | Attempted twice under authorisation. No gauge movement on either occasion; the Healer's own readings were unaffected. The wing has not sought a third attempt. | The two attempts and both unchanged series. |
 
-**Interaction procedure:** Each holding is studied alone first, because interaction data means nothing without the solo baseline to compare it against and the brightness reading reacts to the observers. Then the first shared change with its distance, duration and trigger, the gauge on both sides, the effect within the cell, and whether anything outlasts separation — with the period timed before and after, since a shortened period is the one outcome this file cannot afford to miss.
+**Interaction procedure:** Each holding is studied alone first, because interaction data means nothing without the solo baseline to compare it against and the brightness reading reacts to the observers. Then the first shared change with its distance, duration and trigger, the gauge on both sides, the effect within the cell. And whether anything outlasts separation — with the period timed before and after, since a shortened period is the one outcome this file cannot afford to miss.
 
 ## 이야기 (Narratio) — The Tale
 
-It was a story told to children, once, and then the story was forgotten, and the forgetting did not undo the curse.
+There was a story once that was told to children, and then the story was forgotten, and the forgetting did not undo the curse.
 
 The tale was simple, as the old tales were. A girl puts on a pair of shoes. The shoes will not let her stop. She dances, and dances, and cannot rest, cannot sit, cannot sleep — the shoes compel her onward until her feet are gone and still she dances, because the curse was never about the feet. The curse was about the not-stopping. The story was a warning: beware the thing that will not let you rest.
 
@@ -415,7 +415,7 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 - Binding occurs only as authorised Ferrehan, with a named remover present and the collapse-series instruction observed in full.
 - Removal is always by a second person. There is no self-release and none has ever been achieved.
 **Observation Notes:**
-- Formed out of a lost tale about cursed shoes; the fragments survive, the two endings survive, and in neither of them does the dancer stop. The holding's whole operational standard rests on 14 collapse series run in the first two years — the shortest 9 minutes 40, the longest 31 minutes, no useful relation to anything about the person — and the ethics board closed the series in the third year because the experiment and the harm are the same act. 9 conduct entries have been generated in 9 years by workers who could not comply with an order to stop, 3 single-signature entries have been self-reported, and 2 petitions for a compelled-non-compliance category have been refused.
+- Formed out of a lost tale about cursed shoes. The fragments survive, the two endings survive, and in neither of them does the dancer stop. The holding's whole operational standard rests on 14 collapse series run in the first two years — the shortest 9 minutes 40, the longest 31 minutes, no useful relation to anything about the person — and the ethics board closed the series in the third year because the experiment and the harm are the same act. 9 conduct entries have been generated in 9 years by workers who could not comply with an order to stop, 3 single-signature entries have been self-reported, and 2 petitions for a compelled-non-compliance category have been refused.
 - The compulsion outlived the story, the names, and the moral; it is the only part of the tale that still functions. The dataset stays at 14 points by ruling rather than by accident, and the file prints the gap rather than smoothing it.
 **Cross-References:** Zone B · the anchor-point inspection schedule · the collapse series · the two-person rule in the Zone B standing order
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · the ethics board (collapse-series ruling) · the Zone B conduct review · the staff association
@@ -423,9 +423,9 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this file as one arrangement rather than as a set of sections: the period is the holding's only stable quantity, the two-person rule is the whole of the containment, and the most consequential thing the holding does to people is done to their record rather than to their body. The classification, the Work Type restriction and the M.A.W. note belong to that arrangement, and where the entity behaves in a way this record does not describe, log the deviation and leave it standing — nine conduct entries exist because the wing could not bring itself to reconcile exactly that contradiction.
+**Operational interpretation:** Read this file as one arrangement rather than as a set of sections: the period is the holding's only stable quantity, the two-person rule is the whole of the containment. And the most consequential thing the holding does to people is done to their record rather than to their body. The classification, the Work Type restriction and the M.A.W. note belong to that arrangement, and where the entity behaves in a way this record does not describe, log the deviation and leave it standing — nine conduct entries exist because the wing could not bring itself to reconcile exactly that contradiction.
 
-**Review requirement:** Every review re-times the figure over ten repetitions against the logged baseline, re-reads the brightness, the anchor-point condition and the mount check, and confirms the three standing items: that the collapse series has not been reopened, that the fourteen points are unchanged, and that every conduct entry still carries its cross-reference and every carrier of one has been offered the transfer review. Personnel exposure and location are entered after every activation or removal.
+**Review requirement:** Every review re-times the figure over ten repetitions against the logged baseline, re-reads the brightness, the anchor-point condition and the mount check. And confirms the three standing items: that the collapse series has not been reopened, that the fourteen points are unchanged. And that every conduct entry still carries its cross-reference and every carrier of one has been offered the transfer review. Personnel exposure and location are entered after every activation or removal.
 ## Warden Record
 
 ### Binding
@@ -450,9 +450,9 @@ Reviews of single-signature entries are conducted by a Warden from outside the c
 
 Everything the wing knows about how long a person can be bound comes from **fourteen numbers**, and there will never be a fifteenth.
 
-Time-to-collapse is the only quantity that matters operationally — it sets the removal standard, the escort distances, the staffing of every task in the cell — and it can be obtained in exactly one way, which is by letting somebody go to collapse while a Warden holds a watch. Fourteen such series were run in the containment's first two years, under authorisation, with volunteers, medical cover, and a removal partner standing by who was instructed not to intervene. All fourteen volunteers collapsed. All fourteen recovered. The shortest was **nine minutes forty**; the longest was **thirty-one minutes**; there is no useful relationship between the figure and anything about the person, which was the finding, and it is the finding on which the standard still rests.
+Time-to-collapse is the only quantity that matters operationally — it sets the removal standard, the escort distances, the staffing of every task in the cell — and it can be obtained in exactly one way, which is by letting somebody go to collapse while a Warden holds a watch. Fourteen such series were run in the containment's first two years, under authorisation, with volunteers, medical cover, and a removal partner standing by who was instructed not to intervene. All fourteen volunteers collapsed. All fourteen recovered. The shortest was **nine minutes forty**. The longest was **thirty-one minutes**; there is no useful relationship between the figure and anything about the person, which was the finding, and it is the finding on which the standard still rests.
 
-The ethics board closed the series in the third year and the ruling has been upheld at every review since: **the experiment and the harm are the same act**, and no consent given by a volunteer standing beside this object can be relied on for a procedure whose endpoint is defined as collapse.
+The ethics board closed the series in the third year and the ruling has been upheld at every review since: **the experiment and the harm are the same act**. And no consent given by a volunteer standing beside this object can be relied on for a procedure whose endpoint is defined as collapse.
 
 So the dataset is frozen. **Fourteen points, none of them recent, none of them repeatable, carrying every decision the wing makes about this holding** — and the file prints the gap in full rather than smoothing it, including the detail that two of the fourteen series were run before the brightness scale existed and therefore cannot be matched to a room condition at all.
 
@@ -464,11 +464,11 @@ A worker who keeps working after being ordered to stop is in event of the conduc
 
 A bound worker keeps working after being ordered to stop. Every time. That is the entity.
 
-**The conduct scheme has no category for involuntary non-compliance.** It distinguishes deliberate refusal from honest mistake, and it treats incapacity as a medical matter handled elsewhere — but it has no entry for a worker who heard the order, understood it, agreed with it, and continued, because continuing was not theirs to stop. The supervisor who logs the refusal is recording what happened and is doing their job correctly. The entry is accurate in every particular.
+**The conduct scheme has no category for involuntary non-compliance.** It distinguishes deliberate refusal from honest mistake. And it treats incapacity as a medical matter handled elsewhere — but it has no entry for a worker who heard the order, understood it, agreed with it. And continued, because continuing was not theirs to stop. The supervisor who logs the refusal is recording what happened and is doing their job correctly. The entry is accurate in every particular.
 
 It is also the single most damaging thing this holding produces. **Nine entries in nine years.** They cannot be expunged, because expunction requires an error, and there was no error: the order was given, the order was not obeyed, and the record says so.
 
-The wing has twice petitioned for a new conduct category covering compelled non-compliance. Both petitions were refused, on grounds the file reproduces in full and does not dispute: any such category would have to be adjudicated case by case, by people who were not present, on evidence the worker alone can give, and the obvious result would be that it swallowed ordinary refusals. **The rule is right and the nine entries are wrong, and both of those statements survive scrutiny.**
+The wing has twice petitioned for a new conduct category covering compelled non-compliance. Both petitions were refused, on grounds the file reproduces in full and does not dispute: any such category would have to be adjudicated case by case, by people who were not present, on evidence the worker alone can give. And the obvious result would be that it swallowed ordinary refusals. **The rule is right and the nine entries are wrong, and both of those statements survive scrutiny.**
 
 ### The Cross-Reference
 
@@ -476,11 +476,11 @@ What the wing could do was annotate, and what it chose is the thing it likes lea
 
 Every one of the nine conduct entries now carries, appended, the file reference of this containment. Nothing else — no explanation, no medical detail, no narrative. **Anybody reading the entry can see that the refusal happened at `C-IIIγ-102` and can look up what that is.**
 
-The wing is clear about what this is. It is a containment exposure, recorded against a conduct file, which is not where exposures belong; it is information about what happened to a person's body sitting in a document about that person's character; and it was done without any of the nine being able to decline, since an uncross-referenced entry would read as a bare refusal and the wing judged that worse. **Five of the nine said they would have preferred the annotation. Two said they would not. Two were never asked, having left the facility before the practice began.**
+The wing is clear about what this is. It is a containment exposure, recorded against a conduct file, which is not where exposures belong. It is information about what happened to a person's body sitting in a document about that person's character. And it was done without any of the nine being able to decline, since an uncross-referenced entry would read as a bare refusal and the wing judged that worse. **Five of the nine said they would have preferred the annotation. Two said they would not. Two were never asked, having left the facility before the practice began.**
 
 Two of the nine have been refused transfers since. In neither case did the receiving wing give the entry as a reason, and in neither case has it been possible to establish that it was not. The wing has written to both receiving panels and received the answer it expected, which is that selection reasons are not disclosed.
 
-The staff association's objection is minuted at every review and has never been withdrawn. The annotation discloses a medical event in a disciplinary document; it was adopted without the consent of the people it describes; and it has not been shown to help any of them, while it has demonstrably travelled. The minute records the objection as **correct in all three parts**, records that the wing has no better instrument and has stopped looking for one, and gives the only answer there is: *the alternative is nine files that say a worker was told to stop and did not.*
+The staff association's objection is minuted at every review and has never been withdrawn. The annotation discloses a medical event in a disciplinary document. It was adopted without the consent of the people it describes. And it has not been shown to help any of them, while it has demonstrably travelled. The minute records the objection as **correct in all three parts**, records that the wing has no better instrument and has stopped looking for one. And gives the only answer there is: *the alternative is nine files that say a worker was told to stop and did not.*
 
 ## Trivia
 
@@ -493,9 +493,9 @@ The staff association's objection is minuted at every review and has never been 
 
 - **Classification detail:** The Dancing Chains is an Object/Place with Fragment (III) — Personality compelled to dance coherence and Major (γ) — High danger potency.
 - **Field detail:** Element Grudge, registered to SECTOR-B-01 in Zone B, where the figure is timed over ten repetitions at every watch and the mount is checked at the start of every shift because the chains shorten.
-- **Recognition detail:** Identify it by the repeating figure and by the fused, grown links; never by stillness, which it has never exhibited, and never by sound, of which it makes almost none.
+- **Recognition detail:** Identify it by the repeating figure and by the fused, grown links. Never by stillness, which it has never exhibited, and never by sound, of which it makes almost none.
 - **Record detail:** This file should be read with the conduct instruction beside it, because the most consequential thing this holding does to people is done to their record rather than to their body.
-- **Containment detail:** Containment here is the two-person rule and the anchor-point schedule rather than a door: the links move continuously, the pattern never stops, and the only thing the wing can actually hold is who is allowed to touch them and with whose hands present.
+- **Containment detail:** Containment here is the two-person rule and the anchor-point schedule rather than a door: the links move continuously, the pattern never stops. And the only thing the wing can actually hold is who is allowed to touch them and with whose hands present.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-102

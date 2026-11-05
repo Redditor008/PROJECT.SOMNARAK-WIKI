@@ -33,14 +33,3 @@ A Hand stone granted at **5%**: **β Void; +1 Clarity.** It lets two estranged p
 **Corrosion:** the bearer hoards other people’s unsaid words; every meeting demands confession; terminal state turns contact into compulsory disclosure.  
 **Maintenance:** erase the prior sentence before another pair binds.  
 **Removal:** both speakers confirm the Stone carries no promise of agreement.
-
----
-
-**Document ID:** `UNK-251-D`  
-**Linked Entity:** `UNK-251`  
-**Item Registry Code:** `MAW-G-UNK-251-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

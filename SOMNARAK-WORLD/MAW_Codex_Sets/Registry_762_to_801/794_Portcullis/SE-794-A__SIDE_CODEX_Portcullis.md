@@ -19,10 +19,10 @@ The Door formed from a passage closed before someone could leave. The burden of 
 | Field | Canonical record |
 |---|---|
 | Source designation | O-Iα-794 [LO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone B, deep tunnels |
-| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Lament |
+| Gauge / Pressure | 000/240; starts 000% · Lament — no attack pattern: the door does not strike at anyone, and the exposure is the route it shows and the name somebody says (Contact Record, R-36) |
 | Observation | 1 — Initial |
 | Formation event | A tunnel collapse sealed a door while people were still on both sides of it. |
 
@@ -30,17 +30,17 @@ The Door formed from a passage closed before someone could leave. The burden of 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the people and route beyond the door. (Stable) |
 | Ferrehan | Tests whether the worker can remain at a blocked threshold. (Decrease) |
 
 **Trigger:** Touching the fallen door while naming a destination.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-794 -->
+**Resolution:** Viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Portcullis Source-Trace*
 
-During the The Portcullis Source-Trace, the field team preserved this source fact: A tunnel collapse sealed a door while people were still on both sides of it. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of being trapped at the moment of departure.
+During *The Portcullis Source-Trace*, the field team preserved this source fact: A tunnel collapse sealed a door while people were still on both sides of it. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of being trapped at the moment of departure.
 
 ## M.A.W. SET — *Portcullis — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Portcullis Source-Trace, the field team preserved this source fac
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Portcullis's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Portcullis's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-794-A`  
-**Linked Entity:** `SE-794`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Portcullis's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim. The gauge opens at 000% of its 000/240 meter, and no attack pattern is filed for this Lament manifestation. The set cannot heal the originating event. Misuse routes Portcullis's wound through the operator and triggers the recorded escalation.

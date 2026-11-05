@@ -28,6 +28,10 @@ The Lost Lens is a pale disc of Han glass whose surface rejects one direction at
 |---|---:|---|---|---:|
 | β / Void | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Wrong-Way Mark:** The Lens attacks one verified false route or directional illusion. It cannot select the remaining path as correct.
 
 **Cost:** One small nameless memory disappears per use.
@@ -43,14 +47,3 @@ Stigma rejects direction, Veil anchors identity, Lens removes the false route.
 **Maintenance:** Face the Lens toward a current map containing marked unknowns. Clear only routes disproven by evidence.
 
 **Shutdown:** Lower after one rejection and return navigation to an external map or guide.
-
----
-
-**Document ID:** `SE-290-B`  
-**Linked Entity:** `SE-290`  
-**Item Registry Code:** `MAW-W-290-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

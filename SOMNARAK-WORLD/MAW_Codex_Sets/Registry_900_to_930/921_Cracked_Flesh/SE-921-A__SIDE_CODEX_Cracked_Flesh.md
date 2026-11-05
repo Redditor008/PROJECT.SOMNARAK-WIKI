@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Hazard at Major (γ) potency, Grudge-aligned, body-manifesting, held at SECTOR-C-921 in Zone B. It can breach by transforming; what cracked first is not recorded.
 
 | Field | Canonical record |
 |---|---|
@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Body |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Grudge / SECTOR-C-921, contained |
-| Gauge / Pressure | 423/423; starts 35–50% / 17–23 per hit · Grudge |
+| Gauge / Pressure | 000/500; starts 000% / 17–23 per hit · Grudge |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 
@@ -30,36 +30,26 @@ Not recorded Not recorded
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
-| Viderehan | Permits study; the body pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the grudge pressure settles gradually under sustained presence. (Decrease) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
+| Viderehan | Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. (Decrease) |
+| Ferrehan | Keep the party moving for the whole cycle and do not shorten it; the pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-921 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Cracked Flesh Source-Trace*
 
-During the The Cracked Flesh Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Cracked Flesh Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Cracked Flesh — Witnessed Form*
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Awakened Marrow-Spike & Tendril | γ Grudge 14–19; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-921-B__MAW-W_Cracked_Flesh_s_Edge.md` |
-| The Suture-Cracked Hauberk | γ; L/G/V/W 1 (Normal)/0.3 (Resistant)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-921-C__MAW-S_Cracked_Flesh_s_Veil.md` |
-| The Fissured Skin Stigma | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-921-D__MAW-G_Cracked_Flesh_s_Token.md` |
+| The Awakened Marrow-Spike & Tendril | γ Grudge 14–19; Speed 2 (Normal); Range 2 (Short); Single; max 3; 25 Sorrow Echoes | `SE-921-B__MAW-W_The_Awakened_Marrow_Spike_and_Tendril.md` |
+| The Suture-Cracked Hauberk | γ; L/G/V/W 1 (Normal)/0.3 (Resistant)/1.2 (Weak)/0.8 (Warded); max 3; 20 Sorrow Echoes | `SE-921-C__MAW-S_The_Suture_Cracked_Hauberk.md` |
+| The Fissured Skin Stigma | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-921-D__MAW-G_The_Fissured_Skin_Stigma.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Cracked Flesh's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Cracked Flesh's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-921-A`
-**Linked Entity:** `SE-921`
-**Author:** Researcher Euncris Park
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

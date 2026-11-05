@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Mixed — A ghostly root-creature built of pale trailing roots, lower half fading, upper reaching with root-fingers — a grasping beast of root. Lead-cold, it smells of wet stone. |
+| **Physical Form** | Mixed |
 | **Movement** | Surfaces through floors, reaches, then sinks again. The recorded breaches descend through floors; ordinary crawling, walking and pursuit are not established by those records. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -30,16 +30,17 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, flat across nine years and unaffected by anything the wing has tried: Work Type, time of day, the fade line, the number of people in the room. It is the most boring column in the file and the only one that has never once surprised anybody. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | 4 |
+| **Work Damage** | None — the Weight it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Name the place you live now, out loud, and stay. Ferrehan and Flerehan both work and both reduce to that; what fails, reliably and sharply, is any attempt to speak to the root about where it came from. |
+| **Recommended response** | Name the place you live now, out loud, and stay. Ferrehan and Flerehan both work and both reduce to that. What fails, reliably and sharply, is any attempt to speak to the root about where it came from. |
 
 ### Operational Notes
 
 - A successful cycle settles the reaching and the root withdraws below the floor for a while. It is not resettled by this. The family it came from was moved on before the new place could become theirs, and no work cycle gives anybody anywhere to be from.
-- Both readings are live. The listed threshold is 4, a count that runs down one step per failed or refused cycle and the most forgiving margin in this wing; the Combat Record separately sets activation at a Sorrow Gauge of 45%, and that figure fires the entity whatever the count still stands at. The generous count is the reason this holding is run by junior personnel, and the reason its cycle sheets are checked by someone senior anyway.
+- Both readings are live. The listed threshold is 4, a count that runs down one step per failed or refused cycle and the most forgiving margin in this wing. The Combat Record separately sets activation at a Sorrow Gauge of 45%. And that figure fires the entity whatever the count still stands at. The generous count is the reason this holding is run by junior personnel, and the reason its cycle sheets are checked by someone senior anyway.
 - The exposure risk does not scale with the yield here, it scales with the worker. Nine years of cycle sheets show the same thing each time: the root reaches for the newest person in the room, and a worker in their first six months at this facility is reached for about four times as often as one past three years.
 - Extraction here takes a length of something that never attached to anything, and the pieces behave accordingly: they hold well, briefly, to whatever they are first fitted to, and then they let go — a median of nineteen minutes, unchanged in nine years.
 
@@ -51,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
-| **Resistance** | 15% against Weight and effectively nothing else, which matters less than the file's other resistance note: it does not resist being watched, approached, touched, or walked away from, and in nine years no worker has ever had to disengage from it by force. |
+| **Resistance** | 15% against Weight and effectively nothing else, which matters less than the file's other resistance note: it does not resist being watched, approached, touched, or walked away from. And in nine years no worker has ever had to disengage from it by force. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Weight |
@@ -81,20 +82,20 @@
 | { *The Severed End* [**Debuff**] } | "Where the root was cut, the wound never healed — and now it bleeds into you." | [The stump of the vanished root leaks its stored weight.] | *Target loses 10 Resolve; they are absorbing a severed thing's grief.* **[10 Weight DMG [Weight]]** | When the target lingers at the cut. |
 | { *The Phantom Grip* [**Attack**] } | "A root that is not there anymore closes around your ankle." | [The absent root's ghost-memory seizes the target.] | *Inflicts Weight pressure and one phantom crushing wound.* **[14-22 Weight DMG [Weight]]** | When the channel is disturbed. |
 | { *The Uprooting in Reverse* [**Attack**] } | "It comes up through the floor under the person who said the name of an old address." | [The root returns to the exact spot it faded from, and anything standing there is in the way.] | *24–36 Weight and a 15% Gauge surge to whoever is over the fade point; everyone else in the room is untouched.* **[24-36 Weight DMG [Weight]]** | When a worker names a place they used to live and then does not move. |
-| { *The Dead Network* [**Ultimate**] } | "The floor of the Mask Market lifts a hand's width across the whole hall and sets itself back down wrong." | [The whole buried length surfaces at once; the market's stalls end up a few centimetres from where their owners left them.] | *12–20 Weight per cycle for three cycles to everyone standing on the affected floor.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, recorded twice, both times within a week of a mass relocation order in Zone C. |
+| { *The Dead Network* [**Exhaustion**] } | "The floor lifts a hand's width under one pair of boots and sets itself back down wrong." | [The buried length surfaces under one stall, and the stall moves.] | *The affected floor takes one person's weight and holds it.* **[12-20 Weight DMG [Weight], single target]** | Above 65%, recorded twice, both times within a week of a mass relocation order in Zone C. |
 
 ### Battle Phases
 
 1. **Tension:** The team marks the fade line against the wall gauge, states aloud how long each of them has been posted to this facility, and agrees who will speak. The second of those is not a formality; the wing collects it as an environmental variable and the root behaves differently depending on the answer.
 2. **Clash:** Ten turns is typical and the engagement is short by design. All four Work Types are available; the root reaches, is endured or observed, and the cycle closes. The single prohibition is that nobody offers it a place. No soil, no origin, no suggestion of where it ought to go back to.
-3. **Resolution:** A worker names where they live now and stays where they are standing. The root lowers, the fade line rises a few centimetres, and the cycle closes. It has never been necessary to do anything else, and the one occasion on which a team tried — Year 4,233, an attempt to walk it back toward the family's registered first address — cost the wing a floor section and is the reason the forbidden action is printed on the booking form.
+3. **Resolution:** A worker names where they live now and stays where they are standing. The root lowers, the fade line rises a few centimetres, and the cycle closes. It has never been necessary to do anything else. And the one occasion on which a team tried — Year 4,233, an attempt to walk it back toward the family's registered first address — cost the wing a floor section and is the reason the forbidden action is printed on the booking form.
 
 ### Consequences
 
 - The failure here is a worker who answers the wrong question. Asked where they live, they say where they are from; the root reaches for them within the minute, every time, in all eleven logged instances. The wing considers this the single most reproducible result in the holding's record.
-- Extended contact invites the full manifestation, which at this potency is less dramatic than it is persistent: the root takes hold of the worker rather than the floor, and the hold registers as a slow conviction that the worker does not really live where they live.
-- Every M.A.W. activation extracts a real price — recollection, sensation, years — catalogued in the equipment file and paid in the field. From this source the charge is made in attachment: wielders find their own address, their own neighbourhood, their own history increasingly difficult to feel strongly about.
-- Without resolution the entity can escape downward through floors. Both recorded breaches ended with it motionless in an unpacked storage room in the sub-levels; they do not establish a roaming circuit or a hunt toward an exit.
+- Extended contact invites the full manifestation, which at this potency is less dramatic than it is persistent: the root takes hold of the worker rather than the floor. And the hold registers as a slow conviction that the worker does not really live where they live.
+- The equipment file records what each activation takes before anybody picks the piece up. From this source the charge is made in attachment: From this source the charge is made in attachment: wielders find their own address, their own neighbourhood, their own history increasingly difficult to feel strongly about.
+- Without resolution the entity can escape downward through floors. Both recorded breaches ended with it motionless in an unpacked storage room in the sub-levels. They do not establish a roaming circuit or a hunt toward an exit.
 
 ## Appearance
 **Physical Form:** A ghostly root-creature of pale trailing roots, lower half fading, upper reaching with root-fingers. **Movement:** It waits, then grasps; it sinks through floors to reappear elsewhere.
@@ -106,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A ghostly root system shaped like a person, with its lower half fading into empty air. It waits beneath floors and masks.
-- **Position / movement:** Waits beneath floors and surfaces without warning; record where it emerged, what it reached for, and how long it stayed before sinking again.
+- **Position / movement:** Waits beneath floors and surfaces without warning. Record where it emerged, what it reached for, and how long it stayed before sinking again.
 - **Element signature:** Weight
 - **Registered location:** Zone C, Mask Market
 
@@ -115,46 +116,45 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ghostly root system shaped like a person, with its lower half fading into empty air. It waits beneath floors and masks. |
-| **Position / movement** | Waits beneath floors and surfaces without warning; record where it emerged, what it reached for, and how long it stayed before sinking again. |
-| **Material / signature** | Pale trailing root-matter, lead-cold, smelling of wet stone, with no soil on it anywhere — nine years of swabs and not one grain. Record the fade line in centimetres from the floor and the number of root-fingers extended; both are stable within a session and both drift between them. |
+| **Position / movement** | Waits beneath floors and surfaces without warning. Record where it emerged, what it reached for, and how long it stayed before sinking again. |
+| **Material / signature** | Pale trailing root-matter, lead-cold, smelling of wet stone, with no soil on it anywhere — nine years of swabs and not one grain. Record the fade line in centimetres from the floor and the number of root-fingers extended. Both are stable within a session and both drift between them. |
 | **Distinctive markers** | A root system in the shape of a person that stops existing at about the waist, with nothing above it that it belongs to. Nothing else in the wing is incomplete in that direction; the other root-form holdings all have a tree. |
-| **Identification** | Verify the designation, the manifestation and the fade line against the file before Work begins; the wrong entity is the wrong sorrow, and several things in this wing look like roots. |
+| **Identification** | Verify the designation, the manifestation and the fade line against the file before Work begins. The wrong entity is the wrong sorrow, and this wing is nothing but roots. |
 
-**Appearance protocol:** Record the upper half in the ordinary way — the reach of the root-fingers, the pallor, the lead-cold and the smell of wet stone — and then record the lower half, which is the whole point of this entity and is not there. State the height at which the body stops being a body and becomes nothing, measured from the floor, every cycle; that figure varies and the variation is the holding's only responsive measurement. There is no tree. No trunk, no crown, nothing above it that it is the root of, and the file says so in the briefing because observers keep looking for one. Record what it reached toward and who was standing there. It reaches for people who feel ungrounded, which means the appearance log is quietly also a record of how the team is doing, and personnel are told that outright rather than discovering it later.
+**Appearance protocol:** Record the upper half in the ordinary way — the reach of the root-fingers, the pallor, the lead-cold and the smell of wet stone — and then record the lower half, which is the whole point of this entity and is not there. State the height at which the body stops being a body and becomes nothing, measured from the floor, every cycle. That figure varies and the variation is the holding's only responsive measurement. There is no tree. No trunk, no crown, nothing above it that it is the root of, and the file says so in the briefing because observers keep looking for one. Record what it reached toward and who was standing there. It reaches for people who feel ungrounded, which means the appearance log is quietly also a record of how the team is doing, and personnel are told that outright rather than discovering it later.
 
 ## Origin
 - **Formation:** The Root formed from belonging severed before it could take hold.
 - **The Sorrow:** The grief of losing one's origin and being unable to return to any ground.
 - **The Event:** A family was displaced before their new home could become theirs; the unfinished belonging became a wandering root.
 - **The People:** One family, displaced twice — once from the ground they grew out of and once again from the place that was going to replace it, before it had finished becoming theirs. The record keeps the second removal in detail and the first hardly at all, which is the usual shape of such records and is noted here rather than corrected.
-- **Expanded origin context:** The wing has the second removal on paper and not the first, which the archivist flagged and did not fix. What that means in practice is that nobody knows what ground this holding is actually looking for, and the two serious attempts to find out — a records search in Year 4,232 and the walked-back attempt in Year 4,233 — produced, respectively, nothing and a damaged floor. The file's position since is that the question is not answerable and not necessary: the root does not need its old ground, it needs somebody to have current ground and to say so.
+- **Expanded origin context:** The wing has the second removal on paper and not the first, which the archivist flagged and did not fix. What that means in practice is that nobody knows what ground this holding is actually looking for. And the two serious attempts to find out — a records search in Year 4,232 and the walked-back attempt in Year 4,233 — produced, respectively, nothing and a damaged floor. The file's position since is that the question is not answerable and not necessary: the root does not need its old ground, it needs somebody to have current ground and to say so.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Reaches gently and steadies. | Decrease |
-| **Pugnahan** | Retracts into the floor. | Stable |
-| **Viderehan** | Shows places the worker once called home. | Stable |
-| **Ferrehan** | Tests whether the worker can remain without roots. | Decrease |
+| **Flerehan** | Reaches gently and steadies. | Decrease · High |
+| **Pugnahan** | Retracts into the floor. | Stable · Common |
+| **Viderehan** | Shows places the worker once called home. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain without roots. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-The table is accurate and incomplete in a way the wing has stopped trying to fix on the form. Both decreasing Work Types decrease because of the same thing — a person who stays — and Viderehan reads Stable only because showing a worker the places they used to live is neither calming nor provoking to the root; it is simply what it does while nothing else is happening. The variable that predicts the session is not in the table at all. It is the length of time the people in the room have been posted here.
+The table is accurate and incomplete in a way the wing has stopped trying to fix on the form. Both decreasing Work Types decrease because of the same thing — a person who stays — and Viderehan reads Stable only because showing a worker the places they used to live is neither calming nor provoking to the root. It is simply what it does while nothing else is happening. The variable that predicts the session is not in the table at all. It is the length of time the people in the room have been posted here.
 
 **Reading the response:** Read it in the reaching. A falling gauge presents as withdrawal — the root-fingers curling in, the fade line rising, the thing sinking back below the floor without having taken hold of anyone. The pressure drops and nothing is settled; it is still from nowhere. A rising gauge presents as **welcome**. The root reaches more readily, finds a worker more quickly, and the worker in question usually reports that it seems to know them. It does not. It has found somebody who is not sure where they belong, which at this facility is most people in their first year, and that is precisely why the cheapest holding in the wing is the one most often worked by the least settled staff.
 ## Breach Behavior
 
-> *"Errant has broken free. Grasps at ankles, dragging personnel down."*
-
+> *"Errant has broken free. It reaches for the person with the shortest posting in the room, in thirty-four of thirty-seven logged reaches. Put the long-service crew in front and keep the newest warden out of it."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | Errant descends through floors rather than hunting along corridors. Its reaching and downward drag remain hazards; record the affected floor and the lowest unoccupied storage level. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
-| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
+| **Secondary Effect** | It comes up through the floor and goes back down, and whatever it reached for stays heavy. The weight is the ground's, and the ground is the part of the district that was removed twice. |
 | **First Target** | The person in the room who has been posted to this facility for the shortest time, in 34 of 37 logged reaches. The three exceptions were all workers who had transferred in from another district that month and whose posting length, on paper, was long. |
 | **Escalation** | +5 Resolve drain per cycle while it is loose, and a steady descent: in both breaches it went downward through floors rather than along corridors, and both ended in the sub-levels with the root motionless in a storage room nobody had unpacked. |
 
@@ -172,7 +172,7 @@ The table is accurate and incomplete in a way the wing has stopped trying to fix
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-Appearance : A monstrous three-foot chopping cleaver forged from rough-cut iron plate, hafted onto a naturally curved gnarled tree root that provides a secure, two-handed shock-absorbing grip.
+**Appearance:** A monstrous three-foot chopping cleaver forged from rough-cut iron plate, hafted onto a naturally curved gnarled tree root that provides a secure, two-handed shock-absorbing grip.
 
 Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mass to split through heavy shields and bone carapaces. The rough iron bevel is ground with aggressive serrations.
 
@@ -185,11 +185,11 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** 100% to the single designated target; the cleaver takes one person's footing and leaves everybody beside them standing.
-**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the blow and the subsequent loosening are tracked apart.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation. The blow and the subsequent loosening are tracked apart.
 
 **Ability:** Weight damage against the Han, and a specific after-effect that the Armoury has logged on every one of the nineteen recorded strikes: the target cannot, for some minutes afterward, remember the name of the street they currently live on. It returns. Nobody has yet been struck twice.
 
-**Cost:** The wielder grows heavier by degrees and prolonged use ages them slightly — a small charge by the wing's standards, and one that has never been observed to reverse between postings.
+**Bearer cost:** The wielder grows heavier by degrees and prolonged use ages them slightly — a small charge by the wing's standards, and one that has never been observed to reverse between postings.
 
 ### M.A.W. Suit — The Rootless Mantle
 
@@ -207,7 +207,7 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 **Ability:** Resistance to Weight against the Han. The wing's note is that it protects best in the room it was issued in and measurably less well elsewhere in the facility, which the Armoury has tested three times and cannot explain.
 
-**Cost:** The wearer stops unpacking. It presents as fatigue and it is not: lockers stay packed, quarters stay bare, and the first two wielders both had their belongings still in crates when the set was recalled for review.
+**Bearer cost:** The wearer stops unpacking. It presents as fatigue and it is not: lockers stay packed, quarters stay bare, and the first two wielders both had their belongings still in crates when the set was recalled for review.
 
 ### M.A.W. Stigma — The Rootless Charm
 
@@ -221,13 +221,13 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 **Ability:** Prevents forced displacement and spatial confusion.
 
-**Cost:** The wearer feels every place they have lost.
+**Bearer cost:** The wearer feels every place they have lost.
 
 *One Stigma in nine years, to a warden in her eleventh year at this facility who had worked the holding twice. The wing records it as the only occasion on which the root has given anything to the person it was least interested in.*
 
 ### M.A.W. Use Notes
 
-The local review records three pieces cut from the same reach in Year 4,230, their temporary hold, and a failure to unpack. Those observations are not a shared cost specification. The disputed Weapon source requires a chosen current anchor and its holder’s consent, charges increasing mass and slight aging, and forbids use as a stake to make that anchor permanent. The Mantle bears displacement Weight for named people, task and duration; fatigue and difficult rest are recorded costs, and its threads seeking floor cracks signal an expired anchor. The Charm blocks forced displacement, not chosen departure or all current danger; it charges the felt loss of former places and must not be stacked. A companion asks for release rather than orders it. The local one-rotation issue limit and end-of-rotation quarters inspections remain; four inspections have failed. Neither those inspections nor the set can choose where someone belongs.
+The local review records three pieces cut from the same reach in Year 4,230, their temporary hold, and a failure to unpack. Those observations are not a shared cost specification. The disputed Weapon source requires a chosen current anchor and its holder’s consent, charges increasing mass and slight aging, and forbids use as a stake to make that anchor permanent. The Mantle bears displacement Weight for named people, task and duration. Fatigue and difficult rest are recorded costs, and its threads seeking floor cracks signal an expired anchor. The Charm blocks forced displacement, not chosen departure or all current danger; it charges the felt loss of former places and must not be stacked. A companion asks for release rather than orders it. The local one-rotation issue limit and end-of-rotation quarters inspections remain; four inspections have failed. Neither those inspections nor the set can choose where someone belongs.
 
 ### Field Use Record
 
@@ -260,7 +260,7 @@ The local review records three pieces cut from the same reach in Year 4,230, the
 | **Activation or escalation** | The reach. Record who it reached for, their posting length, what had just been said and by whom, the fade line before and after, and whether the person moved. Thirty-seven reaches are on file with all six fields complete; it is the best-documented behaviour of any Minor holding in the wing. |
 | **Post-contact review** | Two fields and nothing else is required: the fade line at close, and whether anyone in the room answered a question about where they live with the name of somewhere they used to. A report missing the second is returned, because that answer is the whole mechanism. |
 
-**Observation method:** Fade line, postings, reaches. Three columns, taken every session for nine years, and the wing has not needed a fourth. The posting figure is collected as an environmental variable and is explicitly not part of any worker's record; the standing note from the Warden who introduced it says that a root reaching for the newest person in the room is a fact about the root.
+**Observation method:** Fade line, postings, reaches. Three columns, taken every session for nine years, and the wing has not needed a fourth. The posting figure is collected as an environmental variable and is explicitly not part of any worker's record. The standing note from the Warden who introduced it says that a root reaching for the newest person in the room is a fact about the root.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -278,7 +278,7 @@ The grief of losing one's origin and being unable to return to any ground.
 Management: say where you live now and stay standing; never walk it toward an old address. It is one instruction and one prohibition. The second half is in force because of Year 4,233, when a team tried it and lost a floor section, and because the first address in this holding's origin was never properly recorded and so cannot be verified even if anyone wanted to try again.
 
 **Entry 5 — <Archive Note>**
-The Mask Market traders know it is down there and have for years. They do not want it moved. The stallholders' petition of Year 4,234, which the wing keeps in the file, gives their reason in one line: the market is where people go when they have just arrived in Zone C and have nowhere else to be, and a thing underneath it that reaches for the newest person is, in their words, the only welcome some of them get.
+The Mask Market traders know it is down there and have for years. They do not want it moved. The stallholders' petition of Year 4,234, which the wing keeps in the file, gives their reason in one line: the market is where people go when they have just arrived in Zone C and have nowhere else to be. And a thing underneath it that reaches for the newest person is, in their words, the only welcome some of them get.
 
 ## 최종 관찰 (Final Observation)
 
@@ -317,8 +317,8 @@ Eleven supervised pairings across three entities, all of them chosen because the
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **The Spreading Tree** | Offers ground: a place in its own system where this root would fit. | Five pairings, no reach, no measurable change in the fade line in any of them. The Tree's offer is not refused so much as not registered, and the wing's note is that this holding does not appear to want ground at all. | The fade line at ten-minute intervals and the distance at closest approach. |
-| **Banyan** | Its buried system reacts to this one — the only recorded case of another entity initiating here. | Four pairings. Banyan's roots moved toward the surveyed section on all four; Errant's fade line did not change and it did not reach. The asymmetry is the finding and is logged as such. | Which party moved first, by how much, and the fade line throughout. |
-| **The Empty Mask** | Filed together as identity without belonging, which the wing now treats as a cataloguing resemblance rather than a relationship. | Two pairings, nothing in either, and no third scheduled. The entry is kept so that the next archivist does not propose the experiment again believing it to be new. | Nothing further required; the pairing is closed. |
+| [**Banyan**](SE-N-IVδ-606_Banyan_가라앉은_나무.md) | Its buried system reacts to this one — the only recorded case of another entity initiating here. | Four pairings. Banyan's roots moved toward the surveyed section on all four; Errant's fade line did not change and it did not reach. The asymmetry is the finding and is logged as such. | Which party moved first, by how much, and the fade line throughout. |
+| [**The Empty Mask**](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) | Filed together as identity without belonging, which the wing now treats as a cataloguing resemblance rather than a relationship. | Two pairings, nothing in either, and no third scheduled. The entry is kept so that the next archivist does not propose the experiment again believing it to be new. | Nothing further required; the pairing is closed. |
 
 **Interaction procedure:** Over the surveyed section, never over open ground, with the wall gauge visible to both observers. Fade line every ten minutes on both parties where both have one, and the posting lengths of everyone present written at the top of the sheet.
 
@@ -330,7 +330,7 @@ The family had moved — displaced from their original home by the Han or the Co
 
 The displacement came before the belonging took hold. The new home — the place that was becoming theirs, the dwelling that was in the process of transforming from residence to home — was taken. The Han, or the Collectors, or the city's restructuring removed the family from the new dwelling before the rooting was complete. The family had not yet belonged. The belonging was unfinished. And the unfinished, in Somnarak, did not dissolve.
 
-Errant is Subject-Phantasmal, Weight-element: the figure of belonging severed before it could take hold — the family's unfinished rooting, pulled from the ground before the roots were established, wandering, searching for any earth that will receive it. The Root searches because the belonging was started and not completed — the family began to root and was pulled up, and the pulling-up, repeated, produced a root that no longer trusts the ground, that wanders, that searches, that cannot settle because every previous settling was interrupted before it became permanent.
+Errant is Subject-Phantasmal, Weight-element: the figure of belonging severed before it could take hold — the family's unfinished rooting, pulled from the ground before the roots were established, wandering, searching for any earth that will receive it. The Root searches because the belonging was started and not completed — the family began to root and was pulled up. And the pulling-up, repeated, produced a root that no longer trusts the ground, that wanders, that searches, that cannot settle because every previous settling was interrupted before it became permanent.
 
 Those who come near the Errant feel the specific grief of the perpetually un-belonging — the sorrow of starting to root and being pulled up, of beginning to belong and being displaced, of carrying a root that searches for ground and that has learned, through repeated uprooting, that the ground will not hold.
 
@@ -352,18 +352,18 @@ Some sorrows mourn a home. Errant mourns the un-rooting — the belonging starte
 **Common Name:** Errant
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Minor and correctly graded. Nine years, nineteen strikes, no fatalities and no lasting injuries; the serious damage on record is a floor section the wing broke itself by walking the holding somewhere it should not have been walked.
+**Threat Assessment:** Minor and correctly graded. Nine years, nineteen strikes, no fatalities and no lasting injuries. The serious damage on record is a floor section the wing broke itself by walking the holding somewhere it should not have been walked.
 **Containment & Handling Procedures:**
 - The Work Type table is accurate and does not predict the session; the postings in the room do.
-- Standard R.D. containment protocols apply.
+- The anchor is current or the work does not start. The Root is not returned to an old home. A warden who offers one is forcing it, and forcing it is the one thing the file forbids.
 - It breaches downward and stops. Go to the lowest unoccupied storage level and wait.
 **Observation Notes:**
 - The first removal was never recorded, so the ground this holding came from cannot be identified and the file does not pretend otherwise.
-- See Combat Record for engagement history.
+- The engagement history is downward. Both breaches went through floors rather than along corridors and ended in the sub-levels, and the drain is five Resolve a cycle while it is loose.
 - Three pieces, one rotation each, quarters inspected afterward; four inspections failed.
-**Cross-References:** The Spreading Tree, Banyan, The Empty Mask (closed), and the Year 4,234 stallholders' petition.
+**Cross-References:** The Spreading Tree, Banyan, [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) (closed), and the Year 4,234 stallholders' petition.
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** One family, displaced twice — from the ground they grew out of, and again from the place that was to replace it before it had finished becoming theirs. The second removal is kept in detail and the first hardly at all.
 
 ### Registry Addendum
 
@@ -383,7 +383,7 @@ Some sorrows mourn a home. Errant mourns the un-rooting — the belonging starte
 - **Field detail:** Weight, beneath the surveyed floor section of the Mask Market in Zone C, with the seal specified downward as well as sideways.
 - **Recognition detail:** Identify it by the absence below and the absence above: a root system shaped like a person, fading at the waist, with no tree anywhere that it belongs to.
 - **Record detail:** The wing holds several root-form entities and at least two of them are managed by being returned to their original ground, which is exactly the action forbidden here. Check the designation on the booking form before the cycle, not at the door.
-- **Containment detail:** The seal governs a thing that travels through floors, so the boundary is as much below as beside. Personnel in the rooms underneath report a pulling sensation at the ankles and a reluctance to unpack their lockers; those reports are collected with the holding and are the reason the lower rooms are not used for long-term storage.
+- **Containment detail:** The seal governs a thing that travels through floors, so the boundary is as much below as beside. Personnel in the rooms underneath report a pulling sensation at the ankles and a reluctance to unpack their lockers. Those reports are collected with the holding and are the reason the lower rooms are not used for long-term storage.
 ## Document Information
 
 **Document ID:** SE-O-Iα-631

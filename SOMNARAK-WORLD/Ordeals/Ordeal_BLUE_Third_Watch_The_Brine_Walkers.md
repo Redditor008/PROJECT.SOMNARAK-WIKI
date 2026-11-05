@@ -61,7 +61,7 @@ Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight; 
 | **Han Pressure [ATK]** | 30–50 per hit · Lament |
 | **Spawn Count** | 2–3 |
 
-**Ability:** They reach, and the cold weight of their drowned grief drags the mind under. 
+**Ability:** They reach, and the cold weight of their drowned grief drags the mind under.
 
 ### The Sorrow Fog (Non-Humanoid, Elite-grade)
 

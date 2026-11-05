@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-048 [LO]`  
 **Author:** Chronicler Minseo  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Echo Gardens open display
 
@@ -40,11 +40,10 @@ The grief of songs that outlived every person who knew how to continue them.
 
 | Stage | Exact Trigger | Stone Response | Operational Result |
 |---|---|---|---|
-| **Still Air** | Local air movement falls below active garden threshold. | **First Note** begins. | One low tone identifies the nearest emotionally resonant listener. |
-| **Deliberate Listening** | Listener holds the Stone and remains silent through one full phrase. | **Resonance** begins. | Song links to a dead singer or lost memory. |
-| **Interruption** | Stone is shaken, struck, covered, or the listener attempts to stop the song. | **Sharp Chord**. | Lament pressure cuts through the interruption. |
-| **Overload** | Multiple people demand different songs or attempt to extract separate melodies. | **Deep Tone**. | Subsonic Lament pressure expands through the garden chamber. |
-| **Full Archive Wake** | Gauge reaches 65% after three distinct songs are interrupted. | **Full Symphony**. | Three-turn choral field; Archive recorder must stay present. |
+| **Still Air** | Local air movement falls below the active garden threshold. | **The Warmth** is the confirmation that this is the singing stone and not another display piece. | No tone yet; the room's noise floor and the number of people present are logged beside it. |
+| **Deliberate Listening** | One listener stays silent through a full phrase. | **The One Listener**: a single low tone, addressed to one person, linking them to the singer the song came from. | Clarity goes first and the song stays intact until somebody can sing it. A second listener is not addressed and never has been. |
+| **Interruption** | The stone is covered, shaken, or the listener tries to stop the song. | **The Interrupted Phrase**: the phrase is cut and the chord ends in a breath. | The interrupted phrase is not counted as learned and the session does not close. |
+| **Overload** | Multiple people demand different songs, or separate melodies are extracted. | **The Register**: the chamber-wide subsonic field, every unlifted song sounding at once. | 281 songs heard, 44 with a living carrier. The gallery is cleared to one listener before this stage is reached. |
 
 ### Listening Rule
 
@@ -86,13 +85,3 @@ The Stone preserves music rather than the people who sang it. That distinction i
 
 ### Observation 4 — Pending
 Mastery would require a song to be continued by the living without being turned into property.
-
----
-
-**Document ID:** `SE-048-A`  
-**Related Entity:** `SE-048`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

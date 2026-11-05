@@ -60,14 +60,3 @@ A Hope Veil prevented the loss of a three-person survey crew during a fog retrea
 ## SET RESONANCE
 
 With Lens and Lantern, the Veil extends the homeward line to all five members of an authorized route team. The bearer becomes the visible center of the line and cannot conceal themself until the team exits Brume.
-
----
-
-**Document ID:** `SE-007-C`  
-**Linked Entity:** `SE-007`  
-**Item Registry Code:** `MAW-S-007-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

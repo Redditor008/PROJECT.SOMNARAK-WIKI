@@ -22,7 +22,7 @@ Errant is a pale phantasmal root-creature with reaching fingers and a lower body
 | Coherence / Potency | I / α |
 | Element | Weight |
 | Location | Zone C, Mask Market |
-| Gauge / Pressure | 198/198; starts 25–40% / 3–10 Weight |
+| Gauge / Pressure | 000/880; starts 000% / 3–10 Weight |
 | Movement / Resistance | 0.95 m/s / 15% Weight, 5% other |
 | Breach threshold | Gauge ≥45%; dead-network ultimate begins at 65% |
 | Observation | 1 — Initial |
@@ -65,13 +65,3 @@ The Grade α echoes formed when Haneulash offered a temporary seat, a named comp
 At the Borrowed Stall Incident, Market officials assigned an empty stall as Errant’s “new home” and locked its shutters. The root filled the stall, then tore through three adjacent floors when vendors returned. Haneulash opened every shutter, called the stall a current shelter, and asked those inside whether they wished to stay. The source steadied only after one person chose to leave.
 
 > *“Belonging offered without exit is another displacement waiting to happen.”* — Specialist Haneulash Yoon
-
----
-
-**Document ID:** `SE-631-A`  
-**Linked Entity:** `SE-631`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

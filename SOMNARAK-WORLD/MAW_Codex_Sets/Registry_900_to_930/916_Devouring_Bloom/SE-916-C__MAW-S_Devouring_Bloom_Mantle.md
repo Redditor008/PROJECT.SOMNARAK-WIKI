@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Devouring Bloom Mantle
 
-> *“Devouring Bloom Mantle remembers Devouring Bloom; the bearer must not mistake memory for permission.”*
+> *"It holds the line and eats what holds it. Its wearers stay steady, unhurt, and lighter than they were."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Devouring Bloom's kind of pressure.  
-**Binding rule:** the bearer names Devouring Bloom's event—Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading.—and accepts this limit: Witness the memories and prevent unauthorized petal collection
+**Binding rule:** the bearer names Devouring Bloom's event — “Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading.” — and accepts this limit: Witness the memories and prevent unauthorized petal collection
 
 ## Appearance
 
-The Devouring Bloom Mantle is the suit record of the Devouring Bloom set — δ-grade, Weight-aligned, resistant to Weight at 0.5 while running weak to Void at 1.5, worn at 45 Sorrow Echoes a deployment — and its canonical ability grants resistance to Weight damage, protecting the Han, sorrow reserves and karmic debt, worn against exactly the Bloom's kind of pressure. Binding names the source event — tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading — and accepts the set's limit: witness the memories and prevent unauthorized petal collection. The cost is a constant low fatigue, the memorial's mass distributed across the wearer's shift. The source-trace fixed doctrine: the Bloom tests whether the worker can bear its growing weight, and the Mantle opens the hazard only after attribution to Devouring Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Devouring Bloom Mantle is the suit record of the Devouring Bloom set — δ-grade, Weight-aligned, resistant to Weight at 0.5 while running weak to Void at 1.5, worn at 45 Sorrow Echoes a deployment — and its canonical ability grants resistance to Weight damage, protecting the Han, sorrow reserves and karmic debt, worn against exactly the Bloom's kind of pressure. Binding names the source event — tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading — and accepts the set's limit: witness the memories and prevent unauthorized petal collection. The cost is the feeding: the Mantle holds the line and eats what holds it, and a season of wear leaves the wearer steady, unhurt and lighter than they were. The source-trace fixed doctrine: the Bloom tests whether the worker can bear its growing weight, and the Mantle opens the hazard only after attribution to Devouring Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,16 +29,20 @@ The Devouring Bloom Mantle is the suit record of the Devouring Bloom set — δ-
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes Devouring Bloom's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Mantle feeds the wearer to the bloom a little at a time: it holds the line and eats what holds it. Worn long, the wearer is steady, unhurt, and lighter than they were.
 
 ## ITEM-SPECIFIC HISTORY — *The Devouring Bloom Source-Trace: Suit Record*
 
-The first Devouring Bloom Mantle field bearer encountered this source response: Tests whether the worker can bear its growing weight. The suit opens the immediate hazard only after the team attributed it to Devouring Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Devouring Bloom Mantle field bearer encountered this source response: Tests whether the worker can bear its growing weight. The suit opens the immediate hazard only after the team attributed it to Devouring Bloom. A wearer held a line for six hours, was unhurt throughout it, and was lighter at the end than at the start, and the Mantle’s binding is that muster form.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Devouring Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the feeding starts arriving between watches, and the wearer reports steady health while the weight comes off.
 - Terminal state: Devouring Bloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Witness the memories and prevent unauthorized petal collection” reverses the item’s benefit and raises the source Gauge.  
@@ -47,15 +51,4 @@ The first Devouring Bloom Mantle field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-916-C`  
-**Linked Entity:** `SE-916`  
-**Item Registry Code:** `MAW-S-916-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still eats and keeps it; the first watch they do not, the Mantle is out.

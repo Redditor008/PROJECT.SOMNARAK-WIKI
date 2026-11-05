@@ -46,15 +46,15 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_01_OBSERVING_BIRD.md",
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-A__SIDE_CODEX_The_Observing_Bird.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-B__MAW-W_The_Witness_Requiem.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-C__MAW-S_The_Witness_Shroud.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-D__MAW-G_The_Witness_Eye.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-B__MAW-W_The_Watcher_s_Unblinking_Eye.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-C__MAW-S_The_Feathered_Shroud_of_Scrutiny.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-D__MAW-G_The_Third_Sclera.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "sources_read": "Complete original461 lines; all exact031A–D read including each Appearance, limits and history. Master inventory59–61/detail1003–1035; Entity371; complete Tale7 365–422; Registry58–61; archetype70; disposition123. CurrentWIP2076–2097 and CHANGELOG2084–2110 prior Batch143unit3 identify exact previously counted set/pair. Full legal/decode/internal-proceedings and short-watch appendices read, not just appearance.",
   "history": "Batch143unit3 already counted exact031A–D and SE031B/MAW-W-031-01. Its holds specifically cover blade/implant and no-attack/action differences; no fresh equipment identity or coverage credit. Earlier32/50/66 prose history does not erase that later exact review.",
@@ -103,15 +103,15 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "after_words": 8781,
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-A__SIDE_CODEX_The_Observing_Bird.md": "4e95135722bc0be008de99d0c9e79f8b42a03405099bd467dee2f98d3652c0a7",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-B__MAW-W_The_Witness_Requiem.md": "cadf316c9494061db6d852e9488a214fbd16a39e8dee9de6d823d90099702523",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-C__MAW-S_The_Witness_Shroud.md": "60ce57f62814f189d4ad831fa7da341fcb50d18ff8ff02d71b88c8344e2f6f51",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-D__MAW-G_The_Witness_Eye.md": "6538d377d81e8272a4fc16845ec2bb4850d6369fdcbaf36326cde7107451d7e1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-B__MAW-W_The_Watcher_s_Unblinking_Eye.md": "cadf316c9494061db6d852e9488a214fbd16a39e8dee9de6d823d90099702523",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-C__MAW-S_The_Feathered_Shroud_of_Scrutiny.md": "60ce57f62814f189d4ad831fa7da341fcb50d18ff8ff02d71b88c8344e2f6f51",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-D__MAW-G_The_Third_Sclera.md": "6538d377d81e8272a4fc16845ec2bb4850d6369fdcbaf36326cde7107451d7e1",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "validation": {
     "verify": {

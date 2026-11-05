@@ -1,0 +1,155 @@
+{
+  "designation": "C-IIβ-997",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md",
+  "words": 7072,
+  "sha256": "1d8ae500db20820477f023b59989f57a348884fc057cb60efc496210abf6d071",
+  "unit": 5,
+  "name": "Drowned Roots",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_05_DROWNED_ROOTS.md",
+  "before_words": 7072,
+  "after_words": 7338,
+  "base": "ead556580dd617c3c7542f8e96d8340ff4a57cc6",
+  "final_sha256": "d04467ebdd25c7ec170bfbab2117332c035d42347ee4b9dc4c1551fb8ff8e231",
+  "summary": "Seven supported repairs replace generic exposure and extraction boilerplate with the fury-then-emptiness course and one-way piece tolls, give both movement fields the file's own four-root-limb walk, scope breach movement to covered faces, replace slamming-door flavor with the reaching tell and reopened market, separate face, struck name, limbs and growing count in Appearance, and split the field-use first signs by piece. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "The Fourth Column is this archive's coldest invention: a place to write the act down that was engineered, for defensible reasons, to change nothing. The branch count set against a Service Office line works because the arithmetic never quite closes — you can feel the file refusing to turn a man into a rate. And 'confirm the name is present, never transcribe it' is the one archival rule here that sounds like mercy.",
+  "reasoning": "R-33 chain: Subject / Subject-Phantasmal Lament → an indispensable act outside assigned duty struck by a lawful rule → walking tree-beast with unchanging bark face, struck name beneath it, phantasmal roots through an undisplaced floor and a branch count that only grows → work priced by uncovered faces (Flerehan/Ferrehan lower, Viderehan record, Pugnahan prohibited because anger becomes growth) → Escape breach selecting coverings, not people → two-position counts, shadow check, Service Office returns and Market neighbours → pieces cut from still branches carrying grief, numbness and being forgotten. Repairs stay on seams where template movement, boilerplate or merged first signs fought that chain; the lawful-amendment versus deliberate-concealment origins, Timer identity and growth arithmetic remain HELD.",
+  "history": "Batch 139 unit 4 (commit d597633c381a921ab57a01a9b14ee85bdb06b515) read the full primary and exact SE-997-A–D with Registry, Master, Entity Codex, Tale 62 and archetype, repaired the γ overview, prohibited-work line and first-contact fragment, and incremented both the inherited full-set stream (214/301) and Weapon (218/287, stated Weapon+1). That disposition sits inside the ledger's legacy 240/240 baseline, so this unit earns +0 Types / +0 Weapon; ledger absence from post-baseline equipment_reviews was not used as proof. Batch 139's refusal to force the source Skewer pattern/falloff into the primary is respected. HELD earns +0 SE.",
+  "holds": [
+    "Two origins remain contradictory evidence: Origin, Watch Record and Story Entry 5 give a lawful duty-based amendment by a correct clerk with no malice, while the Tale and Tale 62 give a deliberate Council/Keepers concealment of a dirty action, an honoured-then-erased family, and a tree that 'does not attack, it stands'. No motive, family, or standing/walking bridge was chosen.",
+    "Weapon form: primary and item B give a singing, weeping resonant blade at Medium; Master classes it REQUIEM — Resonant Blade; archetype MAW-W-997 is 'Timer (different angle)' at Short. No timer-to-blade transition exists and none was invented.",
+    "Pattern scope preserved from Batch 139: Side A and item B carry Skewer 100% → 70% → 50%, while the primary weapon block states no attack pattern or falloff. The omission was previously reviewed and deliberately not forced in.",
+    "Registry/Master accessory records against source tail: CSV reads generic Accessory at 5% and Master classes the Lantern under Brooches & Fasteners, while primary, Side A and item D agree Tail at 4% with +2 when working the source. Values unchanged.",
+    "Lantern double office: canonical ability heals minor wounds through warm light, primary effect reads struck-out record lines for about a day, and eleven physical lanterns were each taken from a branch that had stopped moving with an unentered soldier's name inside the housing. Healing, record-reading, bestowal and branch manufacture are not crosswalked.",
+    "Stillness scopes: the Forgotten Soldier pairing is called the only recorded stillness in the file, yet extraction and the Full Deluge trigger both depend on individual branches that stop moving and eleven lanterns came from such branches. Branch-local stillness and whole-canopy stillness are not joined in the sources.",
+    "Master Tale 62 Registrum places containment in Zone B at Low threat with Desolate-territory SED interest, against the primary's corrected Zone C Mask Market at Moderate (β); the primary's Record-detail trivia documents the correction, but the Master copy remains stale and was not edited from this unit.",
+    "Threshold and breach arithmetic unjoined: activation threshold 3, combat activation at 60%, ultimate at 65%, breach opening at 40% and rising per masked worker reached coexist without one sequence; all numbers unchanged.",
+    "Growth arithmetic: the count rises 31 → 47 → 66 and is set against 1,398 deaths recorded with nothing in any column and the Fourth Column's refused filings, but no source states how line items become branches or why the increments differ. Tracked, not solved.",
+    "Visibility gradient: sharpest near military masks and barely visible at the far trade-mask end, against a warm mobile body walked and counted from fixed positions; no mechanism joins solidity to mask kind, and the face that reads differently to each viewer while never altering is kept as the file states it."
+  ],
+  "split": [
+    5,
+    2
+  ],
+  "repairs": [
+    {
+      "id": "u5-r1-consequences",
+      "kind": "short",
+      "old": "- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.\n- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.",
+      "new": "- Past the timed interval the exposure changes kind rather than degree: the fury burns off and the emptiness remains, and the counsellors screen for the second state because workers report the first and do not report the second at all.\n- Extraction is taken only from a branch that has ceased moving, and what the pieces then take is priced in this file's own terms and runs one way: grief carried unwept, minor joys gone numb, and a bearer other people begin to have difficulty remembering."
+    },
+    {
+      "id": "u5-r2-classification-movement",
+      "kind": "short",
+      "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+      "new": "| **Movement** | Mobile — walks the Market on four root-limbs, phantasmal roots rising through a floor they have never displaced. |"
+    },
+    {
+      "id": "u5-r3-detailed-movement",
+      "kind": "short",
+      "old": "| **Position / movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). Recorded at every Drowned Roots cycle against the previous reading. |",
+      "new": "| **Position / movement** | Walks on four root-limbs among the stalls and reaches upward toward covered faces; escalation shows as height, so ceiling clearance is part of the posture record. Log branch count and limb posture at every cycle against the previous reading. |"
+    },
+    {
+      "id": "u5-r4-breach-movement",
+      "kind": "short",
+      "old": "| **Movement** | It walks the Market thrashing, putting roots up through floors that remain undamaged, and entangles whoever is standing in them. |",
+      "new": "| **Movement** | It walks the Market thrashing, putting roots up through floors that remain undamaged, and reaches through them for covered faces; the uncovered are passed by, in breach as in work. |"
+    },
+    {
+      "id": "u5-r5-flavor-activation",
+      "kind": "short",
+      "old": "**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Lament pressure spikes — not gradually but like a door slamming open. The Subject-Phantasmal shifts from presence to action.\n\n**After departure:** The door seals and the pressure comes off the suits by degrees, but what goes home with the watch is Lament in the suit fibres, in the memory, and in the space between thoughts where Fracture begins. The fury passes off first; the counsellors screen for what is left after it, which is the emptiness, and which is the part that stays.",
+      "new": "**When the entity activates:** The tell is not speed but direction: branches that were moving generally begin reaching specifically, and the first check is never the gauge — it is the section walked for a covered face, a wrap, a mask, a respirator somebody forgot they were wearing.\n\n**After departure:** The hall reopens as a market and the stalls go back up around the route. What goes home with the watch is not the fury, which passes off first; the counsellors screen for what is left after it, which is the emptiness, and which is the part that stays."
+    },
+    {
+      "id": "u5-r6-reading-count",
+      "kind": "careful",
+      "old": "**Appearance protocol:** Count the branches against the last return, log the posture of each root-limb, record burning and weeping separately because they do not always coincide, and note every covered face in the section.",
+      "new": "**Appearance protocol:** Count the branches against the last return, log the posture of each root-limb, record burning and weeping separately because they do not always coincide, and note every covered face in the section.\n\n**Reading the count:** Keep the unchanging parts and the growing part apart. The howling face in the bark is the constant and is logged once; beneath it is the name the record struck out, legible only to somebody who has read the surviving original — confirm it is present, never transcribe it into a watch return and never speak it as a shortcut, because this file's condition is the act said aloud, not a restored name. The limbs and route repeat; the branches are the variable, counted from the fixed positions against ceiling clearance, with their shadows checked because the shadows do not follow the movement. Burning and weeping are two tallies, not one mood: either can run without the other, and a dry, bright canopy reaching at a new range is a different picture from a weeping one standing in its usual ground."
+    },
+    {
+      "id": "u5-r7-field-use-during",
+      "kind": "careful",
+      "old": "| **During use** | Watch for the weeping starting in the bearer, which is the first sign on this set and is entered by the second worker with the hour; the wearer's own account is taken separately, afterwards, and is never the record. |",
+      "new": "| **During use** | Watch by piece: on the Requiem, weeping starting in the bearer; on the Shroud, minor joys going unreported rather than unfelt, which the second worker tests instead of asking about; on the Lantern, colleagues hesitating over the bearer's name or face. Each first sign is entered by the second worker with the hour. The shared stop on all three pieces is the bearer beginning to tell the stair as their own post; the wearer's account is taken separately, afterwards, and is never the record. |"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.021  clean    95 grams  Operational Parameters\n 0.020  clean    99 grams  Breach Behavior\n 0.012  clean   509 grams  M.A.W. Equipment\n 0.011  clean   551 grams  Combat Record\n 0.004  clean   931 grams  Watch Record\n 0.003  clean   304 grams  이야기 보고 (Story Log)\n 0.000  clean   574 grams  감각 묘사 (Flavor Text)\n 0.000  clean   447 grams  이야기 (Narratio)\n 0.000  clean   358 grams  Appearance\n 0.000  clean   343 grams  기록 (Registrum)\n 0.000  clean   259 grams  Trivia\n 0.000  clean   236 grams  Origin\n 0.000  clean   198 grams  Behavior\n 0.000  clean   190 grams  관찰 기록 (Observation Log)\n 0.000  clean   130 grams  최종 관찰 (Final Observation)\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types — and the second figure is arithmetic, since this\n   84   1  | { *The Full Deluge* [**Attack**] } | “Every drop it has taken up since the stair — sixty years of it, one release.” | [The weepi\n   85   4  | { *The Drowned Forest* [**Ultimate**] } | “The whole hall goes under, and not one board of it moves.” | [The roots come up throu\n  168   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per masked worker it reaches.\n  178   1  **Appearance:** a slender blade of Lament Han-crystal that sings faintly when it is at rest and weeps a thin film of Han down its \n  186   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — the way the source holding delivers it: no\n  237   1  **Stat interpretation:** The grade records how cleanly the grief came off the holding, not what a bearer takes home. This set's co\n  277   1  Management: say what he did, out loud, in the Market, without inventing a duty to hang it on and without supplying a name the reco\n  406   4  The service clerks asked for one thing: that where a fourth-column entry exists and the person died in the act, the entry be allow\nGENERIC 0.004  (21 shared shingles)  SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-A__SIDE_CODEX_Drowned_Roots.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-B__MAW-W_Drowned_Roots_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-C__MAW-S_Drowned_Roots_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-D__MAW-G_Drowned_Roots_Lantern.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/README.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-A__SIDE_CODEX_Drowned_Roots.md": "e7f752c1489130467dec725942e2f8d24b439311e6afb9bca327e1bbded5b793",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-B__MAW-W_Drowned_Roots_Requiem.md": "fbf80fa18d482c94de0afb09211aa621e6e569b7931f3539e0724dcda8506326",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-C__MAW-S_Drowned_Roots_Shroud.md": "0bfcc008b443cfa136285f3a6cac9e7f47cc785a28e16c258295983958cb4027",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-D__MAW-G_Drowned_Roots_Lantern.md": "8e05239bf66bfd65538e92865c63439e5965ed757a4e1999bfcd8caa337ce481",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/README.md": "5e394470f74268d79a205c9e101e199be5f31a819936c66c7a28a0ab904c51d4",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIβ-997_Drowned_Roots_솟구친_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-997_Drowned_Roots_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%82%98%EB%AC%B4.md \"SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md\")]",
+  "table_link": "[Drowned_Roots](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-997_Drowned_Roots_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%82%98%EB%AC%B4.md \"SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md\")",
+  "reading": {
+    "before_lines": 425,
+    "before_bytes": 41890,
+    "final_lines": 427,
+    "final_bytes": 43316
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 125,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 11
+  }
+}

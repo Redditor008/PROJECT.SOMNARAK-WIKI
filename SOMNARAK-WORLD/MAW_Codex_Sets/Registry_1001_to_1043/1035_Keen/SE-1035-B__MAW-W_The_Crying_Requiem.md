@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Crying Requiem
 
-> *“The Crying Requiem remembers Keen; the bearer must not mistake memory for permission.”*
+> *"Every strike carries a grief with a pitch to it, and the pitch stays in the wielder's ears after the fight is over."*
 
 ---
 
@@ -17,7 +17,11 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Keen's lament signature in the strike.  
-**Binding rule:** the bearer names Keen's event—A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.—and accepts this limit: Listen without attempting to identify or silence the cry
+**Binding rule:** the bearer names Keen's event — “A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.” — and accepts this limit: Listen without attempting to identify or silence the cry
+
+### Appearance
+
+An eleven-inch circular planisphere of blackened silver and pale ivory, floating level above the bearer's forearm with its coordinate discs turning on their own. Rain gathers on the underside of it before any weather arrives.
 
 ## CORE STATISTICS
 
@@ -25,16 +29,20 @@
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Keen's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
+**Operational / binding cost:** The Requiem keens: each strike carries a grief that has a pitch, and the pitch stays in the wielder's ears after the fight. Wielded long, they hear the note in quiet rooms.
 
 ## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Weapon Record*
 
-The first The Crying Requiem field bearer encountered this source response: Spins and emits a sharper cry. The weapon interrupts the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crying Requiem encountered this source response: Spins and emits a sharper cry. The weapon interrupts the immediate hazard only after the team attributed it to Keen. A wielder heard the note in a quiet room three weeks after the fight, and the Requiem’s binding is the audiometric note from that examination.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Keen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the pitch stays through sleep and arrives in rooms where nothing has been struck.
 - Terminal state: Keen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen without attempting to identify or silence the cry” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +51,4 @@ The first The Crying Requiem field bearer encountered this source response: Spin
 
 ## SET RELATIONSHIP
 
-Within *Keen — Witnessed Form*, The Crying Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1035-B`  
-**Linked Entity:** `SE-1035`  
-**Item Registry Code:** `MAW-W-1035-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Keen — Witnessed Form*, The Crying Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow after which the note stops.

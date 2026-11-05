@@ -81,8 +81,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-C__MAW-S_Dawn_That_Forgot_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-D__MAW-G_Dawn_That_Forgot_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "reasoning": "Complete357-line primary and exact917A–D read. Time-Dream is daylight without waking, no source form/figure/voice, not Organic anatomy. Whole chain includes recognized ambient history, residents versus phenomenon, lit fixed territory/widenings between episodes, onset/shutter timing, perimeter Work, stalled-clock combat versus sunrise, exposure privacy, paper-only comparisons and apparatus-derived gear. Scope: temporal label/actual expansion/Major risk; replace missing-night/restored-interval claims with delayed waking; measurable times versus uninstrumented dream state; repair comparison confidentiality; concrete observer/extent/gear organisation.",
   "history": "Exact917A–D, registry1027–1030, archetype376 and disposition345 read; no dedicated Master exact-name entry established. Primary/B γVoid14–25 Normal2 Short2 4/25; C L/G/V/W1/1/.3/.8 4/20; DHead5%+1 align. Same Weapon DawnHorizonLens Instant versus Short glassblade remains. B numbness versus primary week delayed-waking already explicit in Edge exposure account, not invented equivalent. B135unit4 cf1859d72b95526dbf45d004e01f0b58a94b7065 full evidence/history paragraph read: prior exact Weapon increment to204/287 and FullSE194/301. Prior coverage is not fresh SE body completion. Archived B45unit3 and B59unit8 also inspected. Equipment+0/+0, no duplication.",
@@ -104,8 +104,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-C__MAW-S_Dawn_That_Forgot_s_Veil.md": "b6e1cd142ca65a0d0420d7f01d573e2e94389d2c8d4b7adbfd5490d63c241474",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-D__MAW-G_Dawn_That_Forgot_s_Token.md": "b7f3391502efef1e59737bcca0e5cd3c8772f06b697b93c905c311f67f5a2462",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

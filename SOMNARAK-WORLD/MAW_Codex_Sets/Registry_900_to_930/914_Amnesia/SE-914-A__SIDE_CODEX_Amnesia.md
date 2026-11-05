@@ -14,15 +14,15 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Time at Moderate (β) potency, Void-aligned, held at SECTOR-O-914. It expands and does not breach, and the formation event is missing from a record whose subject is missing things.
 
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIβ-914 [VT] |
-| Type / Manifestation | Time — Can breach via Transform / Time-Void |
+| Type / Manifestation | Time — Non-breaching: expansion only / Time-Void |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Void / SECTOR-O-914, contained |
-| Gauge / Pressure | 496/496; starts 35–50% / 14–26 per hit · Void |
+| Gauge / Pressure | 000/420; starts 000% / Void — no attack pattern; the roll call completed at the line and the surveyed radius are the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 
@@ -30,17 +30,17 @@ Not recorded Not recorded
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
-| Viderehan | Permits study; the void pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral |
+| Viderehan | Complete the roll call at the line and survey the radius; the two together are the reading, and the roll is the only record of who was inside the minute. (Decrease) |
+| Ferrehan | Stay on the line through the full minute without prompting anybody; the pressure settles at the roll call, and the silence until it is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-914 -->
+**Resolution:** The minute ends by itself at 1200 and the roll call is completed at the line; the cycle closes when every name on the board has been matched to a person.
 
 ## WITNESS RECORD — *The Amnesia Source-Trace*
 
-During the The Amnesia Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Amnesia Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Amnesia — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Amnesia Source-Trace, the field team preserved this source fact: 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Amnesia's source condition, the Suit lets a witness bear its Void pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Amnesia's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-914-A`  
-**Linked Entity:** `SE-914`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

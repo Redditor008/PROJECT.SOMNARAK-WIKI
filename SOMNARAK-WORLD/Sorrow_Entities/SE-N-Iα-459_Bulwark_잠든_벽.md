@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-459 [VP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Mixed — A wall lying flat across an empty Forge lot — ordinary stone at a glance, but its surface bears the low relief of a sleeping figure, eyes closed, breathing in the grain of the rock. Bloodless-cold, it smells of ash; a wall that once was, or still is, a person. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone D, Forge District — the empty lot behind the fourth barrack |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -27,10 +27,12 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the caliper line rather than the lot |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the counter** — It takes in ordinary noise and does not take in a person who is simply present, which is the only asymmetry in its behaviour and has held for thirty years. |
+| **Work Damage** | 1–2 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a recession held for the day it is kept, and no longer. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -43,51 +45,58 @@
 - Yield is 10 to 14 per cycle, the lowest band in the wing, and the exposure is the quietest. The infirmary's note records that this holding produces fewer incidents and more resignations than any other in Zone D.
 - Extraction needs its own authorisation and is never paid out as a prize for an uneventful watch. No worker carrying an open welfare indicator against their name is issued the charm.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Void pressure, 5% against every other kind |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 198/198 |
-| **Han Pressure [ATK]** | 3–10 per hit · Void |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Forge District |
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — a device, internal parts may move*, and its two terminal rows are marked in the file itself as modelled only: in thirty years it has not woken. What the wall does when it turns over is crack mortar along four feet of its own face, and nothing follows it.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A wall squatting in the empty lot behind the fourth barrack, asleep, giving off a deep structural hum — the sound a stone makes while it dreams. The quiet reaches out from it across the lot and into the barrack yard, and six expansions are on file. |
+| **Perceptible to** | The hum first, then the settling: the wall drops a fraction in its sleep and the floor cracks where it settles. The sleep-twitch cracks mortar along four feet of the face, once, and nothing follows it. |
+| **Handling** | Presence offered and entry not forced: the full hour sat beside it, nothing asked and nothing knocked, with the gauge taken below twenty-five per cent before anybody approaches the face. — see `## Handling Process` |
+| **Activation threshold** | No breach counter. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
+| **Sorrow Gauge [Saturation]** | **000 of 240** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone D, Forge District — the empty lot behind the fourth barrack |
 | **Resolution Condition** | Presence offered and entry not forced: the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25% |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Snore* [**Debuff**] } | "The wall gives off a deep structural hum, the sound a stone makes while it dreams." | [The dormant resonance passes into the target and settles there.] | *The target takes a Void mark; the wall's sleep passes to them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Leaning on the Wall. |
-| { *The Settling* [**Debuff**] } | "The wall drops a fraction in its sleep, and the floor cracks where it settles." | [The settling in the Wall's dream leaves the ground unsteady.] | *The target's clarity slips; the ground is moving under them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Lingering near the face. |
-| { *The Sleep-Twitch* [**Attack**] } | "The mortar cracks along four feet of the face, once, and nothing follows it. It has not woken. It has turned over." | [An involuntary structural convulsion.] | *Inflicts Void damage; the crack warps space.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a watch is cut short before the hour. |
-| { *The Full Awakening* [**Attack**] } | "Modelled only. In thirty years it has not woken, and the first thing a barrier would do on waking is decide what to keep out." | [Reconstruction; never observed.] | *A heavy Void activation; the target's Sorrow Gauge rises 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | Modelled at a recession below one millimetre. Not recorded. |
-| { *Every Wall Wakes* [**Ultimate**] } | "Every wall in the field starts to stir, and all of them are working out at once who belongs inside." | [The Wall carries its waking out across the whole area.] | *Everyone in range takes Void erosion for three turns among waking barriers.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the wall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Snore* [**Register**] } | Gives off a deep structural hum that passes into whoever is standing near and settles there, the way a low note does in a room with hard walls. | Takes the gauge before approaching the face, and stands the hour at the chalk line rather than at the wall. | The register is the hum and the chalk line, and the figure is the gauge. Nothing here has ever approached anybody: the quiet reaches across the lot, and the lot is where it stops. |
+| { *The Settling* [**Exposure**] } | Drops a fraction in its sleep, and the floor cracks where it settles — the ground going unsteady under a visitor who has stayed too close for too long. | Records the crack width against the last survey, and moves the chalk line out if the ground has moved with it. | The wall's movement is downward and inward and stops there. What the file measures is the floor, and the settling is a survey change rather than an event that can be answered. |
+| { *The Sleep-Twitch* [**Refusal**] } | Cracks the mortar along four feet of its face, once, and nothing follows it. It has not woken; it has turned over. Nothing is thrown, nothing falls, and the crack is the whole of it. | Does not knock, call or test the crack while the wall is under. Notes the four-foot run and repairs it on the next maintenance rotation. | This is the row that would read as a blow in any other file. Here the file says plainly where it lands: on the wall's own mortar, once, and nothing follows it — which is why the response is a repair order and not a withdrawal. |
+| { *Every Wall Wakes* [**Overload**] } | Nothing. The row is modelled only, and the file says so in the row above it: in thirty years the wall has never woken, and what rises past the chalk in the meantime is not barriers but the quiet. | Records an expansion of the quiet past the chalk, and re-marks the line rather than reinforcing it. | Six expansions are on file and not one of them is a wall standing up. The holding's growth is in the reach of the quiet, which is why the containment work here is a chalk line maintained and not a barrier built. |
 
-1. **Tension:** The caliper reading is checked, never the figure. At the lowest recessions the relief is obvious and at the highest it is nearly invisible, which means the wall most resembles a sleeping person on the very days the reading is best. Bulwark is confirmed against the designation on that basis; positions are taken and the cycle is opened.
-2. **Clash:** Viderehan and Ferrehan are the whole of the work; Flerehan and Pugnahan do not apply under the Object/Place Work Rule. What is read is the recession — how far the carved brow sits below the plane of the wall face, in millimetres, taken with the fixed caliper bridge at the close of the hour. Baseline is 11 millimetres and the recorded range runs from 0 to 96.
-3. **Resolution:** The cycle is over when the offered thing has been taken, refused, or left standing — or under this lot's own suppression condition: **Offer presence without forcing entry**.
+### Watch Sequence
+
+1. **What is confirmed:** the gauge below twenty-five per cent, the chalk line as last surveyed, and the crack widths against the previous reading.
+2. **What the watch does:** Viderehan for what was available and not asked for and Ferrehan for the full hour sat beside it without knocking, with nothing asked and the face left untested.
+3. **How it closes:** **Presence offered and entry not forced** — the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25%.
 
 ### Consequences
 
@@ -131,23 +140,17 @@
 - **The People:** One Forge worker, named in the barrack roll and in nothing else. No complaint, no incident, no counselling record, no application for anything. The file's note states that this is the entire documentary trace of him and that the absence is the point rather than a gap.
 - **Expanded origin context:** Nothing was withheld from him. The Forge barracks ran a hardship fund, a rest rotation and a counselling hour, all three of them well administered, none of them ever refused to anybody, every one of them available on a single-page application he never submitted. Three later reviews have confirmed that the provisions were adequate, that they were advertised, and that no officer failed in any duty. The holding has never responded to the reviews: the caliper sat at baseline through all three. It responds to the gap between the people who meet the indicators and the people who apply, a figure this facility did not begin computing until Year 4208.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A wall squatting in the empty lot behind the fourth barrack, asleep, giving off a deep structural hum — the sound a stone makes while it dreams. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | It shows what was available and not asked for: the fund, the rotation, the open door, the one-page form. It has never shown a refusal, and observers have looked for one for thirty years. | Stable |
-| **Ferrehan** | The full hour sat beside it without knocking, without speaking, and without asking it for anything. Primary Work Type for this holding. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the gauge below twenty-five per cent, the chalk line as last surveyed, and the crack widths against the previous reading. |
+| **Handling** | The watch takes the gauge before approaching the face, and stands the hour at the chalk line rather than at the wall. |
+| **Withdrawal** | **Presence offered and entry not forced** — the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25%. |
+| **Refusal** | Does not knock, call or test the crack while the wall is under. Notes the four-foot run and repairs it on the next maintenance rotation. |
 
-
-### Operational Work Notes
-
-Ferrehan lowers the gauge and Viderehan holds it level, which makes Ferrehan the primary Work Type here; the Registrum named Viderehan and has been reconciled against this table. Flerehan and Pugnahan are N/A under the Object/Place Work Rule, and an earlier note in this section discussed why Flerehan calms this holding, which is a sentence about work that cannot be performed on it. The manifestation is Place-Void, matching the [VP] designation and the Void element; the Place-Lament entries were the drift and have been corrected.
-
-**Reading the response:** The gauge reports one worker across one hour. The caliper reports how far this facility's provisions sit from the people who qualify for them. Those two numbers stay in separate columns and have not moved in step once; an hour that lowers the gauge and reads deep goes into the record as a good watch with no qualification attached.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -175,9 +178,9 @@ There has been no breach and there is no boundary to breach. Escalation here is 
 | **Primary effect** | The quiet reaches further and people inside it stop raising things. Logged by the chalk lines and, twice, by a blank complaint book. |
 | **Duration / rate** | Slow. Six expansions and six withdrawals in thirty years, none intervened in. |
 | **Risk** | Minor (α) Place-Void, Void pressure. Exposure costs applications: twenty-two Wardens off this lot carry open indicators and have submitted nothing. |
-| **Management** | Sit the hour, ask nothing, knock on nothing; caliper and chalk every watch; the Rule of the Unrequested Offer enforced across the welfare office and every barrack. |
+| **Management** | Sit the hour, ask nothing, knock on nothing. Caliper and chalk every watch; the Rule of the Unrequested Offer enforced across the welfare office and every barrack. |
 
-**Activation reporting order:** trigger → recession at the caliper before and after → the edge of the quiet, paced and marked → effect on personnel → rate → management condition. Nobody knocks, nobody speaks, and nobody asks the wall anything; the order ends with the watch sitting down, which is the management condition written as an instruction.
+**Activation reporting order:** trigger → recession at the caliper before and after → the edge of the quiet, paced and marked → effect on personnel → rate → management condition. Nobody knocks, nobody speaks, and nobody asks the wall anything. The order ends with the watch sitting down, which is the management condition written as an instruction.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -186,7 +189,7 @@ There has been no breach and there is no boundary to breach. Escalation here is 
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : A massive five-foot fortress wall-gun with an octagonal iron barrel and heavy swivel pivot, stocked in dark ash and firing two-ounce lead balls ignited by a percussion cap.
+**Appearance:** A massive five-foot fortress wall-gun with an octagonal iron barrel and heavy swivel pivot, stocked in dark ash and firing two-ounce lead balls ignited by a percussion cap.
 
 The weapon is intended to be rested on parapets or barricades to manage its ferocious recoil. Its construction suggests a shot through a straight file of targets; every recorded firing is single-target and stops there. The armoury has never explained this departure.
 
@@ -203,7 +206,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Ability:** Void damage to the Soul. Built as a fortress piece meant to fire through a file of targets and it does not; it strikes one and stops. The armoury recorded the departure in Year 4209 and has not explained it.
 
-**Cost:** Small nameless memories, for about a day — never a face or a name, always a thing somebody once offered them. Six wielders have described the same category independently.
+**Bearer cost:** Small nameless memories, for about a day — never a face or a name, always a thing somebody once offered them. Six wielders have described the same category independently.
 
 ### M.A.W. Suit — Bulwark Plate
 
@@ -221,7 +224,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Ability:** Dampens emotional intrusion, which on this holding means the wearer can sit the hour without the quiet getting into them. It is issued for the watch and taken back at the gate, and the taking back is a rule rather than a procedure.
 
-**Cost:** The wearer becomes hard to reach for about a day. It is the only cost in the wing that the person paying it does not report, and the holding therefore requires the relief to report it instead.
+**Bearer cost:** The wearer becomes hard to reach for about a day. It is the only cost in the wing that the person paying it does not report, and the holding therefore requires the relief to report it instead.
 
 ### M.A.W. Stigma — Bulwark Charm
 
@@ -231,11 +234,11 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 Composure against this entity, and the bearer is barred from approving their own leave; that second clause went in after a bearer worked 11 watches here in a row and signed off every one of them himself.
+**Effect:** +1 Composure against this entity, and the bearer is barred from approving their own leave. That second clause went in after a bearer worked 11 watches here in a row and signed off every one of them himself.
 
 **Ability:** The charm goes cold against the head when the bearer is about to say that they are fine. It confers nothing else and the holding has stopped describing it as a boon.
 
-**Cost:** The bearer loses a word now and then, and in every logged instance it was a word they were about to use to decline something. Four bearers recorded the pattern separately before anyone compared them.
+**Bearer cost:** The bearer loses a word now and then, and in every logged instance it was a word they were about to use to decline something. Four bearers recorded the pattern separately before anyone compared them.
 
 *The charm has gone out seven times, each to a worker who took a thing nobody had offered them by request. Four of the seven had turned the same provision down twice when the form was in their own hands. The holding keeps the count and refuses to turn it into a rule.*
 
@@ -253,11 +256,11 @@ Nothing here was made to be carried out: a gun that refuses to fire through a ro
 | **After use** | Plate handed to the relief at the gate, reachability check at one day reported by the relief and not by the wearer, memory check at one day. No operative has ever asked for their declaration to be destroyed. |
 
 **Stat interpretation:** α across the set and correctly rated against entities. Against people it costs a day of small memories, a day of being unreachable and the occasional word of refusal, and the establishment has a column for the first and the third.
-**Full-set source review (2026-10-13):** Read every local M.A.W. claim against exact Side A `SE-459-A` (`N-Iα-459 [VP]`, `4/4`), B/C/D, Registry rows 683–686, Master M.A.W. table/details 571–573, Entity Codex row 559 / Tale 191, and `MAW-W-459`. The grade overview now distinguishes no Tool grade from the α M.A.W. set; the Charm bonus is named `+1 Composure`. The local Weapon text records a straight-file construction but single-target fire; the unexplained departure is now stated without contradiction. Hold primary/table/archetype *Slumbering Wall-Gun* vs Side B *Bulwark Lens* and Master Entry 571 *Sleeping Wall Lens*: Void 3–6 / Speed 2 / Range 2 / Single / max 5 / 15 Echoes align, but no form transition exists. Archetype Instant is not item Range 2 Short. Suit appearance now follows exact item C; Master `Sleeping Wall Plate` and Hauberk/Chain-Mail taxonomy remain apart from the linked harness. Local/Side Stigma Head / 5% agree and `+1 Composure` is named; the local cold-trigger ability and Side warmth/consent function remain distinct. Master Brooch taxonomy and generic Registry Accessory do not resolve the slot. Earlier R-29/personalization passes were not linked-source review. No linked evidence changed. First exact-pair Weapon disposition: `SE-459-B` (`MAW-W-459-01`).
+**Full-set source review (Year 4238):** Read every local M.A.W. claim against exact Side A `SE-459-A` (`N-Iα-459 [VP]`, `4/4`), B/C/D, Registry rows 683–686, Master M.A.W. table/details 571–573, Entity Codex row 559 / Tale 191, and `MAW-W-459`. The grade overview now distinguishes no Tool grade from the α M.A.W. set; the Charm bonus is named `+1 Composure`. The local Weapon text records a straight-file construction but single-target fire; the unexplained departure is now stated without contradiction. Hold primary/table/archetype *Slumbering Wall-Gun* vs Side B *Bulwark Lens* and Master Entry 571 *Sleeping Wall Lens*: Void 3–6 / Speed 2 / Range 2 / Single / max 5 / 15 Echoes align, but no form transition exists. Archetype Instant is not item Range 2 Short. Suit appearance now follows exact item C; Master `Sleeping Wall Plate` and Hauberk/Chain-Mail taxonomy remain apart from the linked harness. Local/Side Stigma Head / 5% agree and `+1 Composure` is named; the local cold-trigger ability and Side warmth/consent function remain distinct. Master Brooch taxonomy and generic Registry Accessory do not resolve the slot. Earlier R-29/personalization passes were not linked-source review. No linked evidence changed. First exact-pair Weapon disposition: `SE-459-B` (`MAW-W-459-01`).
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial, and the Registrum's entry of Level 2 has been corrected against this line and the SECC header. Thirty years of watches have produced one instrument and no theory, which is the honest reason the level has never risen.
+**R.D. Comprehension Level:** 1 — Initial. Thirty years of watches have produced one instrument and no theory, which is the honest reason the level has never risen.
 
 - It takes in ordinary noise and does not take in a person who is simply present, which is the only asymmetry in its behaviour and has held for thirty years.
 - It warms under a patient visitor by a fraction of a degree, measured and real, and the warming has never once coincided with the brow coming back out. The two series were charted together for eleven years to be certain.
@@ -272,7 +275,7 @@ Nothing here was made to be carried out: a gun that refuses to fire through a ro
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Caliper, chalk, and the hour. The observer is told at the gate that the holding will not respond to them, will not acknowledge them, and will read better on days they feel they have done nothing. |
-| **Sustained observation** | Over a year the recession detaches from the lot and attaches to the welfare return. Observers holding both columns stop proposing new work here; there is nothing to do in the lot but sit the hour honestly and send the millimetres on. |
+| **Sustained observation** | Over a year the recession detaches from the lot and attaches to the welfare return. Observers holding both columns stop proposing new work here. There is nothing to do in the lot but sit the hour honestly and send the millimetres on. |
 | **Activation or escalation** | A recession ten millimetres deeper than the last watch opens a documents search rather than a lot response: how many people met a welfare indicator in the preceding quarter and how many were approached by a named officer rather than left to apply. The search has succeeded on twenty-six occasions out of twenty-nine. |
 | **Post-contact review** | Three caliper readings, the chalk lines with their bearings, the sealed declaration, and the quarter's welfare return attached with the unapproached cases listed by staff number. Totals only are returned: a review reporting 5,212 is not a review anybody can act on. |
 
@@ -291,7 +294,7 @@ Taken from the first return entered under the Rule of the Unrequested Offer, in 
 Everything we have is there for the asking and I have never once believed that sentence does the work people think it does. The form is one page. The office is open. Nobody is refused. And the man who most needs the rest rotation is the man who has decided that needing it is a debt, and he will not write his name on a one-page form to say so, and we call that his choice and go home. I have sat across from people who were three weeks from going under and who answered, politely, that they were fine and that others needed it more, and I filed that answer because the answer was theirs to give. I have filed four hundred of them. It is the most correct thing I do and I do not know how to defend it any more.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-Iα-459 is a lot discipline in the Forge District and an offer rule in the welfare office. Lot: Ferrehan primary, Viderehan secondary, Flerehan and Pugnahan N/A under the Object/Place Work Rule; the full hour sat beside it, nothing knocked on, nothing asked of it, nothing said; recession at the brow taken with the fixed caliper bridge at the end of the hour, three readings, deepest reported; the four cardinal chalk lines paced and marked; the plate handed to the relief at the gate and the reachability check reported by the relief; the lot left open, closure having been proposed and refused twice. Welfare duties, binding on every provision this facility operates: **a provision that is available on application is additionally offered, by name, in person, by a named officer, to every person the published indicators identify, whether or not they have asked. A refusal is recorded with the date and the provision is offered again at the stated interval. A person may record a single formal opt-out from further approaches, and the opt-out is honoured.** Work response — Viderehan: it shows what was available and never asked for, and has never shown a refusal (Stable); Ferrehan: the hour, unasked and unspeaking (Decrease).
+Containment of N-Iα-459 is a lot discipline in the Forge District and an offer rule in the welfare office. Lot: Ferrehan primary, Viderehan secondary, Flerehan and Pugnahan Net-Neutral under the Object/Place Work Rule. The full hour sat beside it, nothing knocked on, nothing asked of it, nothing said. Recession at the brow taken with the fixed caliper bridge at the end of the hour, three readings, deepest reported. The four cardinal chalk lines paced and marked. The plate handed to the relief at the gate and the reachability check reported by the relief. The lot left open, closure having been proposed and refused twice. Welfare duties, binding on every provision this facility operates: **a provision that is available on application is additionally offered, by name, in person, by a named officer, to every person the published indicators identify, whether or not they have asked. A refusal is recorded with the date and the provision is offered again at the stated interval. A person may record a single formal opt-out from further approaches, and the opt-out is honoured.** Work response — Viderehan: it shows what was available and never asked for, and has never shown a refusal (Stable). Ferrehan: the hour, unasked and unspeaking (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Unrequested Offer>**
 The counselling wing fought this rule, and I have never found an answer to their objection — only a decision to keep working on the far side of it.
@@ -308,7 +311,7 @@ The ground is the caliper. The year we publicised the hardship fund by poster al
 
 ## 최종 관찰 (Final Observation)
 
-> The hour closes on one decision, and the file keeps its two endings on it: sit it out and let the wall be what it is, or speak to it — kindly, by name — because an hour of silence is more than most people can hold.
+> The hour closes on one decision. And the file keeps its two endings on it: sit it out and let the wall be what it is, or speak to it — kindly, by name — because an hour of silence is more than most people can hold.
 
 | Do the file's way: presence offered, entry never forced. | Leave the condition behind for good reasons, the way this record says people do. |
 |---|---|
@@ -377,11 +380,11 @@ Some sorrows are about rejection. Bulwark is about the failure to ask — the co
 
 **Classification:** Sorrow Entity — `N-Iα-459 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Place-Void manifestation
 **Common Name:** Bulwark
-**Containment Status:** Contained — Zone D, Forge District, the empty lot behind the fourth barrack; the lot is open ground and closure has been refused twice
+**Containment Status:** Contained — Zone D, Forge District, the empty lot behind the fourth barrack. The lot is open ground and closure has been refused twice
 **Comprehension Level:** 1 — Initial, corrected against the SECC header and the Observation Log
-**Threat Assessment:** Minor (α). It has never moved, opened, woken or injured anybody in thirty years, and the lot stands open behind a working barrack. What makes the holding consequential is the series: the recession at the brow has tracked the gap between the people who qualify for this facility's welfare provisions and the people who apply for them, and the twenty-two Wardens rotated off this lot who hold open indicators and have submitted nothing are the clearest demonstration in the wing of what the holding does to the people who work it. The Registrum previously gave Comprehension Level 2 against a Level 1 header, named Viderehan as primary against its own Behavior table, recorded the manifestation as Place-Lament against a Void element and a [VP] designation, and located the holding by zone alone; all four corrected.
+**Threat Assessment:** Minor (α). It has never moved, opened, woken or injured anybody in thirty years, and the lot stands open behind a working barrack. What makes the holding consequential is the series: the recession at the brow has tracked the gap between the people who qualify for this facility's welfare provisions and the people who apply for them. And the twenty-two Wardens rotated off this lot who hold open indicators and have submitted nothing are the clearest demonstration in the wing of what the holding does to the people who work it. The Registrum previously gave Comprehension Level 2 against a Level 1 header, named Viderehan as primary against its own Behavior table, recorded the manifestation as Place-Lament against a Void element and a [VP] designation, and located the holding by zone alone; all four corrected.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type; Viderehan is secondary and holds the gauge level. Flerehan and Pugnahan are N/A under the Object/Place Work Rule.
+- Ferrehan is the primary Work Type; Viderehan is secondary and holds the gauge level. Flerehan and Pugnahan are Net-Neutral under the Object/Place Work Rule.
 - The hour is sat in silence. Nothing is knocked on, nothing is said, and nothing is asked of it.
 - Recession at the brow with the fixed caliper bridge, end of the hour, three readings, deepest reported. Never judged from how much the relief looks like a man.
 - Four cardinal chalk lines paced and marked each watch; the barrack complaint book read alongside them.

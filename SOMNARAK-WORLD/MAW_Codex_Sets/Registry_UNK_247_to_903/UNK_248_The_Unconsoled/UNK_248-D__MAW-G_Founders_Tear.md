@@ -33,14 +33,3 @@ A deep-blue Neck tear granted at **4%** after successful work. **Grade γ; +2 Co
 **Corrosion:** borrowed grief loses attribution; the bearer volunteers as universal mourner; terminal state merges every witnessed loss.  
 **Maintenance:** one grief, one owner, one release time per ledger entry.  
 **Removal:** both mourners confirm the burden returns to neither person alone.
-
----
-
-**Document ID:** `UNK-248-D`  
-**Linked Entity:** `UNK-248`  
-**Item Registry Code:** `MAW-G-UNK-248-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

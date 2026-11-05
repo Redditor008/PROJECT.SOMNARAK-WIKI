@@ -9,7 +9,7 @@
 **SECC Designation:** `O-IIβ-119 [VP]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Old Lament witnessed-location protocol
 
@@ -61,10 +61,10 @@ The shape moves like a creature, but its pressure occupies rooms rather than ter
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Tears alone do not provide an address. |
-| Pugnahan | Invalid for this Place entity. | N/A | Do not pursue the shape from room to room. |
+| Flerehan | Invalid for this Place entity. | Net-Neutral | Tears alone do not provide an address. |
+| Pugnahan | Invalid for this Place entity. | Net-Neutral | Do not pursue the shape from room to room. |
 | Viderehan | Reveals traces of people who passed through. | Stable | Record the room’s history with consent; do not turn displaced lives into a spectacle. |
-| Ferrehan | Follows the worker until they can remain in darkness. | Down | Assign a witness who stays after the worker leaves. |
+| Ferrehan | Follows the worker until they can remain in darkness. | Decrease | Assign a witness who stays after the worker leaves. |
 
 ### Expansion response
 
@@ -85,7 +85,7 @@ The set makes a temporary place where displaced sorrow can settle. The danger is
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Shadow-Cast Kukri | β | Void | Single-target relief from unplaced Void pressure; no permanent shelter is promised | `SE-119-B__MAW-W_The_Shadow_Lens.md` |
+| Weapon | The Shadow-Cast Kukri | β | Void | Single-target relief from unplaced Void pressure; no permanent shelter is promised | `SE-119-B__MAW-W_The_Shadow_Cast_Kukri.md` |
 | Suit | The Shadow Veil | β | Void | Protects a bearer while holding a witnessed dark space | `SE-119-C__MAW-S_The_Shadow_Veil.md` |
 | Stigma | The Shadow Hearth | β | Void | Makes a small consent-bound place for sorrow to settle | `SE-119-D__MAW-G_The_Shadow_Hearth.md` |
 
@@ -105,7 +105,7 @@ The set makes a temporary place where displaced sorrow can settle. The danger is
 
 **Quick effect:** One Void strike loosens unplaced pressure and leaves the target feeling like a guest even at their own desk; it cannot promise permanent shelter.
 
-**Weapon-title review (2026-10-11):** `O-IIβ-119`’s primary M.A.W. block and eleven-inch inward-curving kukri Appearance, the current `SE-119-B` heading/Appearance, Master Registry, master Codex table row 625, `MAW-W-119` archetype, and same-code title/Appearance revision `3abe5470` support *The Shadow-Cast Kukri*. Master detailed Entry 625 and the linked item’s Official name, Resting/Active forms, and older attack/use wording still identify *The Shadow Lens* and describe a disc/outline. Keep that legacy identity/form conflict held; no Lens-to-kukri transition or second form is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `O-IIβ-119`’s primary M.A.W. block and eleven-inch inward-curving kukri Appearance, the current `SE-119-B` heading/Appearance, Master Registry, master Codex table row 625, `MAW-W-119` archetype, and same-code title/Appearance current revision support *The Shadow-Cast Kukri*. Master detailed Entry 625 and the linked item’s Official name, Resting/Active forms, and older attack/use wording still identify *The Shadow Lens* and describe a disc/outline. Keep that legacy identity/form conflict held; no Lens-to-kukri transition or second form is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 
@@ -170,13 +170,3 @@ The set makes a temporary place where displaced sorrow can settle. The danger is
 **Entity links:** The Vanished Tower; The Whispering Walls; The Drift Fog.  
 **Containment distinction:** An empty cell is not a witnessed location; formal containment must not imitate the displacement that formed the source.  
 **Item links:** `SE-119-B`, `SE-119-C`, and `SE-119-D` contain the individual boundaries and bearer costs for Witnessed Shelter.
-
----
-
-**Document ID:** `SE-119-A`  
-**Linked Entity:** `SE-119`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

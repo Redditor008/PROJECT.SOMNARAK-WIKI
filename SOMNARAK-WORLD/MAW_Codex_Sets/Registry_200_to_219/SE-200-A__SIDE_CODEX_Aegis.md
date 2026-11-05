@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-200 [GS]`  
 **Author:** Gate Watch Commander Xyan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Gate Watch passage-accountability protocol
 
@@ -46,10 +46,10 @@ Aegis recognizes posture before words. An armed person rushing the Gate heats th
 
 | Work Type | Response | Gauge | Operational rule |
 |---|---|---|---|
-| Flerehan | Weapon lowers; grief of departures becomes visible. | Down | Name the departure and current route responsibility. |
-| Pugnahan | Attacks attempted unauthorized crossing. | Up | Never test the Gate guard by provoking an intrusion. |
+| Flerehan | Weapon lowers; grief of departures becomes visible. | Decrease | Name the departure and current route responsibility. |
+| Pugnahan | Attacks attempted unauthorized crossing. | Increase | Never test the Gate guard by provoking an intrusion. |
 | Viderehan | Reveals an exile passage history. | Stable | Mark historical departure separately from current return status. |
-| Ferrehan | Stands with the worker in silence. | Down | Maintain a second Gate Watch observer and a clear end time. |
+| Ferrehan | Stands with the worker in silence. | Decrease | Maintain a second Gate Watch observer and a clear end time. |
 
 **Corrupt trigger:** a route is treated as permanently one-way, or a person is stopped without a current threat record.  
 **Response:** suspend weapon authority, establish passage review with Xyan and Border Watch, and distinguish hostile crossing from authorized arrival.
@@ -98,13 +98,3 @@ Aegis is not a relic of permanent exclusion. In the current era, it is a witness
 
 **Links:** Gate Watch; Border Watch; historical Gate departure records; current route-review doctrine.  
 **Individual Files:** `SE-200-B`, `SE-200-C`, `SE-200-D`.
-
----
-
-**Document ID:** `SE-200-A`  
-**Linked Entity:** `SE-200`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

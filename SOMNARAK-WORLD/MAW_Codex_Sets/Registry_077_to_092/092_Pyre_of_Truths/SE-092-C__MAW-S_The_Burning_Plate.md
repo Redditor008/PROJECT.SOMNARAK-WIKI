@@ -56,7 +56,7 @@ The Plate formed when the Pyre’s fire parted around a blank preservation page 
 
 ### Appearance
 
-The Burning Plate is a crimson chest harness of overlapping Han-iron plates, fitted tight with black straps and a single front clasp. Across the chest plate, crimson script grows brighter whenever the wearer defends a named person, testimony, or record. The inner lining is smooth and cool, and the outer metal is unpolished so that the lettering stays readable. The plate provides strong protection from direct Grudge pressure while the wearer holds a declared preservation target with a proportional end condition. If the wearer pursues a retreating opponent after the threat has ended, the script fades and the barrier turns inward, reducing all resistance to normal. A blank chest plate means the wearer has forgotten the record they claimed to protect. The plate is set before a non-classified record before each use, and the wearer states the proportional end condition aloud before the closure is sealed. The letters are read under ordinary light, never heat, because shine can hide the text that needs to be seen.
+The Burning Plate is a crimson harness of Han-iron platelets, strapped tight with black webbing and closed at the front with a single clasp. Across the chest plate, crimson script grows brighter whenever the wearer defends a named person, testimony, or record. The lining is smooth cool leather, and the metal outside is left rough so that the lettering stays readable. The plate provides strong protection from direct Grudge pressure while the wearer holds a declared preservation target with a proportional end condition. If the wearer pursues a retreating opponent after the threat has ended, the script fades and the barrier turns inward, reducing all resistance to normal. A blank chest plate means the wearer has forgotten the record they claimed to protect. The plate is set before a non-classified record before each use, and the wearer states the proportional end condition aloud before the closure is sealed. The letters are read under ordinary light, never heat, because shine can hide the text that needs to be seen.
 
 ### Passive effect— *Archive Stance*
 
@@ -88,14 +88,3 @@ During a controlled archive transfer, the Plate was tested against a recorded Cr
 The Plate is the restraint inside *Open Record*. The Fang can answer an attack; the Burning Page can reveal a truth; this suit forces the bearer to protect without turning preservation into captivity.
 
 > *“A resistance multiplier is a physical fact. The decision to remain in the line of fire is still a moral one.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-092-C`  
-**Linked Entity:** `SE-092`  
-**Item Registry Code:** `MAW-S-092-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

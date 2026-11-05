@@ -19,10 +19,10 @@ The Pillar formed from responsibility that became a permanent mental structure. 
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IVδ-909 [N] |
-| Type / Manifestation | Subject — Can breach / Subject-Mind |
+| Type / Manifestation | Subject — Non-breaching: possession only; the Pillar stands in one more mind and nothing crosses the walls / Subject-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / Zone E, Border region |
-| Gauge / Pressure | 950/950; starts 60–80% / 28–60 per hit · Void |
+| Gauge / Pressure | 000/880; starts 000% / no hit band — the pressure is a duty transferring into the worker |
 | Observation | 2 — Basic |
 | Formation event | A border worker carried family and community obligations until the mind became a sleeping pillar. |
 
@@ -40,7 +40,7 @@ The Pillar formed from responsibility that became a permanent mental structure. 
 
 ## WITNESS RECORD — *The Dormant Monolith Source-Trace*
 
-During the The Dormant Monolith Source-Trace, the field team preserved this source fact: A border worker carried family and community obligations until the mind became a sleeping pillar. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being held in place by duties no one else remembers.
+During *The Dormant Monolith Source-Trace*, the field team preserved this source fact: A border worker carried family and community obligations until the mind became a sleeping pillar. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being held in place by duties no one else remembers.
 
 ## M.A.W. SET — *Dormant Monolith — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Dormant Monolith Source-Trace, the field team preserved this sour
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Dormant Monolith's source condition, the Suit lets a witness bear its Void pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Ground the worker and establish a rotation of duty The set cannot heal the originating event. Misuse routes Dormant Monolith's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-909-A`  
-**Linked Entity:** `SE-909`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

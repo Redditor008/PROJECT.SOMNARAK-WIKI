@@ -62,14 +62,3 @@ The wearer carries a constant low fatigue. At rest, the Mantle makes sleep heavy
 ## SET RESONANCE
 
 With the Maul and Shell, the Mantle allows one marked procession to pass beneath the Colossus’s shadow without triggering Slow Steps pressure. The Colossus does not stop; it simply alters its footfall around the line.
-
----
-
-**Document ID:** `SE-002-C`  
-**Linked Entity:** `SE-002`  
-**Item Registry Code:** `MAW-S-002-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

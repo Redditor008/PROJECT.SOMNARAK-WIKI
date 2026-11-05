@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVγ-175 [LS]`  
 **Author:** Dreamer Sora  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Dream Gate desire-and-waking protocol
 
@@ -61,10 +61,10 @@ Somnium never shows the same face twice because it mirrors desire, not truth. It
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Weaves a comforting dream around the worker. | Down | Receive comfort without promising the dream it will become reality. |
-| Pugnahan | Turns the dream into a hostile maze. | Up | Do not attack or force a dreamer to wake by terror. |
+| Flerehan | Weaves a comforting dream around the worker. | Decrease | Receive comfort without promising the dream it will become reality. |
+| Pugnahan | Turns the dream into a hostile maze. | Increase | Do not attack or force a dreamer to wake by terror. |
 | Viderehan | Mirrors the worker’s hidden desire. | Stable | Record the wish as a signal, never as diagnosis or demand. |
-| Ferrehan | Holds the worker inside an unfinished dream. | Down | Use a waking anchor with authority to end the Dream entry. |
+| Ferrehan | Holds the worker inside an unfinished dream. | Decrease | Use a waking anchor with authority to end the Dream entry. |
 
 ### Breach response
 
@@ -169,13 +169,3 @@ The set supports controlled Dream contact and creative imagining. Its cost is th
 **Entity links:** Loom of Unlived Dreams; Rem; The Memory Weaver.  
 **Dream rule:** Desire mirrors are never used as personnel orders, predictive evidence, or consent substitutes.  
 **Item links:** `SE-175-B`, `SE-175-C`, and `SE-175-D` contain individual entry, anchor, and emotional-fragment histories for Unlived Thread.
-
----
-
-**Document ID:** `SE-175-A`  
-**Linked Entity:** `SE-175`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

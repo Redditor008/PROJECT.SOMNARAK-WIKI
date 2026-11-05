@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Voice Veil
 
-> *“The Voice Veil remembers Aphonia; the bearer must not mistake memory for permission.”*
+> *"Nothing the wearer says rises above a murmur, and after a while they stop being able to tell whether they were heard."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Aphonia's kind of pressure.  
-**Binding rule:** the bearer names Aphonia's event—Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed.—and accepts this limit: Say, “I hear you,” and remain present
+**Binding rule:** the bearer names Aphonia's event — “Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed.” — and accepts this limit: Say, “I hear you,” and remain present
+
+
+### Appearance
+
+A flowing veil of Void Han-gossamer, all but colourless, that carries whatever was last said to it: held up in a quiet room, the fabric shows a faint line of light where a voice has crossed it, and the line fades over about an hour.
 
 ## CORE STATISTICS
 
@@ -25,16 +30,20 @@
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Aphonia's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
+**Operational / binding cost:** The Veil holds the wearer's voice inside: while worn, nothing they say rises above a murmur, and they stop being able to tell whether they were heard. Worn long, they stop trying.
 
 ## ITEM-SPECIFIC HISTORY — *The Aphonia Source-Trace: Suit Record*
 
-The first The Voice Veil field bearer encountered this source response: Tests whether the worker can hear without sound. The suit discharges the immediate hazard only after the team attributed it to Aphonia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Voice Veil encountered this source response: Tests whether the worker can hear without sound. The suit discharges the immediate hazard only after the team attributed it to Aphonia. A wearer spoke at a murmur for a season and stopped being able to tell whether they had been heard, and the Veil’s binding is the relay note from that deployment.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Aphonia's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the murmur goes below the level of a room, and the wearer stops being answered at all and stops expecting to be.
 - Terminal state: Aphonia's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Say, “I hear you,” and remain present” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +52,4 @@ The first The Voice Veil field bearer encountered this source response: Tests wh
 
 ## SET RELATIONSHIP
 
-Within *Aphonia — Witnessed Form*, The Voice Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1016-C`  
-**Linked Entity:** `SE-1016`  
-**Item Registry Code:** `MAW-S-1016-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Aphonia — Witnessed Form*, The Voice Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still raises their voice once a watch; the first watch they do not, the Veil is out.

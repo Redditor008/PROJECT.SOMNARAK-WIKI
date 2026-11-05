@@ -12,8 +12,8 @@
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
-| **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — A predatory thicket of mobile thorned vines that crawls and lashes like a nest of serpents — a hunting creature of braided crimson creeper that grips and drags. Warm where it bleeds sap, it smells of char and crushed green. |
+| **Manifestation** | Subject-Grudge |
+| **Physical Form** | Mixed |
 | **Movement** | Creeping and surging thorn coils grip what brushes them; reach is surveyed on the memorial ground. In the recorded escape the thicket comes off that ground and tracks motion. |
 | **Location** | SECTOR-D-02, near Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,11 +30,13 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, read at the margin tape rather than from the blooms |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the breach** — The blooms turn toward people and track them across the margin, which is the detail first-time observers find hardest to look away from. |
+| **Work Damage** | 3–5 Grudge — the cost is a growth toward people rather than light, invisible across one shift |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | All four Work Types are valid and the header files the holding as a Subject. Ferrehan and Flerehan bring the gauge down; Pugnahan is barred here by standing order, cutting being the thing the thorns grew out of; and nothing that hangs is carried into the approach. |
+| **Recommended response** | All four Work Types are valid and the header files the holding as a Subject. Ferrehan and Flerehan bring the gauge down. Pugnahan is barred here by standing order, cutting being the thing the thorns grew out of. And nothing that hangs is carried into the approach. |
 
 ### Operational Notes
 
@@ -70,7 +72,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Viderehan and Ferrehan are available under the primary record; Pugnahan has a recorded response but is prohibited by standing order. |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan are available under the primary record. Pugnahan has a recorded response but is prohibited by standing order. |
 | **Battlefield** | SECTOR-D-02, near Echo Gardens |
 | **Resolution Condition** | Acknowledge the injury; do not cut the flowers |
 
@@ -82,7 +84,7 @@
 | { *The Tangled Vines* [**Debuff**] } | "The thorns grow toward you — slow, patient, certain of the harvest." | [Vines creep and twine; the thorns close in around the target.] | *Target loses 10 Resilience; they cannot move without being cut.* **[10 Grudge DMG [Grudge]]** | When the target stays in the Garden. |
 | { *The Cutting Edge* [**Attack**] } | "A branch whips across — and every thorn on it is a recorded resentment." | [A thorned lash strikes, each point a stored grievance.] | *Inflicts Grudge pressure and many small, stinging wounds.* **[14-22 Grudge DMG [Grudge]]** | When the Garden is disturbed. |
 | { *The Deep Root* [**Attack**] } | "The garden's heart, underground, sends up one massive thorned stalk." | [One stalk comes up out of the memorial ground at speed, thorned the whole way, aimed by nothing anybody present can see.] | *A heavy Crimson impalement; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Garden is struck or burned. |
-| { *The Overgrowth* [**Ultimate**] } | "The thorns consume everything — wall, floor, and person alike." | [The thicket stops respecting the fence line and the margin tape together, and the growth takes the whole field inside a minute.] | *All personnel suffer Grudge pressure for three turns as it grows.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Overgrowth* [**Ultimate**] } | "The thorns consume everything — wall, floor. And person alike." | [The thicket stops respecting the fence line and the margin tape together, and the growth takes the whole field inside a minute.] | *All personnel suffer Grudge pressure for three turns as it grows.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -105,7 +107,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Grudge
+- **Manifestation:** Subject-Grudge
 - **Primary marker:** A garden of crimson crystal flowers whose stems are covered in thorns. Its paths rearrange around visitors.
 - **Position / movement:** Record the reach on each of the four survey bearings, the distance from the nearest marked path, and whether the thicket has crossed the dedication line since the last measure.
 - **Element signature:** Grudge
@@ -135,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Valid and seldom used. Grief offered plainly slows the reach for a watch; the thicket does not soften, but it stops advancing. | Decrease |
-| **Pugnahan** (Confrontation) | Valid and never authorised. Force is the thing the garden grew in answer to, and every recorded attempt has extended the reach along the bearing it was applied from. | Increase |
-| **Viderehan** | Shows the grievance standing behind a bloom, without naming it or the person it belongs to. | Stable |
-| **Ferrehan** | Allows passage to a worker who takes the thorns without answering them, and to nobody who flinches into temper. | Decrease |
+| **Flerehan** (Tears) | Valid and seldom used. Grief offered plainly slows the reach for a watch; the thicket does not soften, but it stops advancing. | Decrease · High |
+| **Pugnahan** (Confrontation) | Valid and never authorised. Force is the thing the garden grew in answer to, and every recorded attempt has extended the reach along the bearing it was applied from. | Increase · Low |
+| **Viderehan** | Shows the grievance standing behind a bloom, without naming it or the person it belongs to. | Stable · Common |
+| **Ferrehan** | Allows passage to a worker who takes the thorns without answering them, and to nobody who flinches into temper. | Decrease · Common |
 
 
 ### Operational Work Notes
@@ -169,7 +171,7 @@ Escalation here is growth and not transformation. Record the trigger, the bearin
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New injustice or unacknowledged rage. |
-| **Manifestation** | Place-Grudge|
+| **Manifestation** | Subject-Grudge|
 | **Primary effect** | Nearby personnel feel anger beneath their grief. |
 | **Duration / rate** | Slow, through cracks and memorial soil. |
 | **Risk** | Major (γ). Mechanical injury from gripping and dragging, with thorn wounds that find prior injuries, against a pressure that raises anger beneath grief in anybody within the margin. |
@@ -184,7 +186,7 @@ Escalation here is growth and not transformation. Record the trigger, the bearin
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It comes off its ground and moves on its own limbs, tracking motion rather than people. It does not hunt indiscriminately: a worker who stops moving is passed over, and the record holds no exception. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
+| **Effect** | Briar closes on whatever stands inside the boundary, and the wall is only the first thing it has to reach across. Nothing in the record shows it choosing between a person and a structure; that distinction arrives later, in the casualty list. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
 | **First Target** | Whoever moves fastest. The vines track motion, and a worker who stops moving is passed over entirely. |
 | **Escalation** | While it is unopposed the pressure grows and the Resilience drain climbs by 5 a turn until the holding is suppressed. The growth is not a pursuit; it is the ground getting deeper. |
@@ -208,17 +210,18 @@ Escalation here is growth and not transformation. Record the trigger, the bearin
 **Range:** 4 (Long: 5–20m pneumatic harpoon)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+**Bearer cost:** The cable pulls both ways: the pneumatic kick wrenches the shoulder, and every spooled line takes a little of the wielder's reach home with it.
 
 **Attack Pattern:** Skewer / Harpoon Puncture with Tensile Wire Tether
 **Target Coverage:** Up to three targets along one designated line
 **Falloff Rule:** Primary target 100% → second target 70% → third target 50%.
 
-Appearance : A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
+**Appearance:** A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
 
 Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through the muzzle with a sharp mechanical hiss, trailing high-tensile briar wire from the spinning brass spool. The barbed tip impales flesh or armor, allowing the wielder to yank targets into close range.
 
 **Special Move Set:**
-- *Primary Kinematics — "Harpoon Puncture":* Pneumatic valve release propels a 30cm fluted iron thorn harpoon across Range 4; barbed teeth bury deep into target flesh or armor plating, dealing heavy Grudge puncture damage.
+- *Primary Kinematics — "Harpoon Puncture":* Pneumatic valve release propels a 30cm fluted iron thorn harpoon across Range 4. Barbed teeth bury deep into target flesh or armor plating, dealing heavy Grudge puncture damage.
 - *Active Special — "Winch & Lacerate":* After impaling an enemy, the wielder engages the rotary brass spool lock with a foot press. The spool spins backward with a screaming gear whine, rapidly retracting high-tensile briar wire to drag the impaled target 6 meters toward the wielder while tearing open wounds for 160% Grudge damage and inflicting "Crippled Tendon".
 - *Cost & Drawback:* High pneumatic kickback wrenches the wielder's shoulder; briar cable friction can snap stray wire sparks.
 
@@ -227,7 +230,7 @@ Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through t
 **Category:** Protective Attire (Interlocking Iron Wire & Flexible Briar Vine Mail)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
+**Appearance:** A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
 
 Petrified rose briars spiral across the iron chain links, reinforcing key impact zones along the shoulders and ribcage. Striking the armor causes briar thorns to snap outward violently, deflecting blades and lacerating melee attackers with reciprocal Grudge trauma.
 
@@ -241,14 +244,14 @@ Petrified rose briars spiral across the iron chain links, reinforcing key impact
 
 **Ability:** *Reciprocal Barbs* — Reflects 30% of incoming melee physical damage back to the attacker as skewer Grudge laceration.
 
-**Cost:** The wearer experiences continuous minor prickling against their ribs and shoulders.
+**Bearer cost:** The wearer experiences continuous minor prickling against their ribs and shoulders.
 
 ### M.A.W. Stigma — The Piercing Briar Coronet
 
 **Category:** Stigma (Head / Brow Inward-Facing Thorn Circlet)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A circular brow circlet fashioned from three entwined strands of blackened bronze briar, bearing twenty inward-facing thorn barbs that rest against the temple skin.
+**Appearance:** A circular brow circlet fashioned from three entwined strands of blackened bronze briar, bearing twenty inward-facing thorn barbs that rest against the temple skin.
 
 The sharp metallic thorns prick the forehead upon activation, channeling a steady pulse of painful alertness that sharpens tactical focus. The constant minor ache grants the bearer complete immunity to confusion, trance, and sleep inducements.
 
@@ -258,15 +261,15 @@ The sharp metallic thorns prick the forehead upon activation, channeling a stead
 
 **Ability:** *Vigilant Pain* — Total immunity to Sleep, Stun, and Trance effects; grants +2 Resilience during sustained engagements.
 
-**Cost:** The coronet leaves small red puncture dots across the hairline when unequipped.
+**Bearer cost:** The coronet leaves small red puncture dots across the hairline when unequipped.
 
 *The Piercing Briar Coronet is conferred, never issued and never requested. It has gone out three times, and every time to a worker who was gripped and did not pull free.*
 
 ### M.A.W. Use Notes
 
-The set is not permission to cut the hedge or harvest a living vine. The exact Side record describes a naturally shed thorn becoming an echo after uncut passage; that is distinct from the local prohibition on removal from the site, which is not lifted by this equipment record.
+The set is not permission to cut the hedge or harvest a living vine. The exact Side record describes a naturally shed thorn becoming an echo after uncut passage. That is distinct from the local prohibition on removal from the site, which is not lifted by this equipment record.
 
-Keep each piece’s toll separately. The Weapon’s local shoulder kick and wire risk coexist with the item’s old-wound ache, bruising and refusal of retaliation; its safe person stays outside the threat line. The Hauberk’s local prickling is not everybody’s cost: its item record also warns of dulled reflexes and requires a marked approach gap that the safe person can ask to lower. The Coronet’s local punctures and alertness do not cancel the exact Stigma’s proximity hazard, agreed approach word or prohibition on stacking circlets.
+Keep each piece’s toll separately. The Weapon’s local shoulder kick and wire risk coexist with the item’s old-wound ache, bruising and refusal of retaliation. Its safe person stays outside the threat line. The Hauberk’s local prickling is not everybody’s cost: its item record also warns of dulled reflexes and requires a marked approach gap that the safe person can ask to lower. The Coronet’s local punctures and alertness do not cancel the exact Stigma’s proximity hazard, agreed approach word or prohibition on stacking circlets.
 
 In Named Thorn, the full-set bearer names the protected injury, a safe person and a boundary before striking. A marked opening remains for trusted approach; old injuries remain felt during the barrier. Reuse requires accepted contact from the named person or an explicit acknowledgement of why that cannot happen. None of this documents a rifle-to-Fang or mail-to-plate transformation.
 
@@ -279,8 +282,8 @@ In Named Thorn, the full-set bearer names the protected injury, a safe person an
 | **At limit** | Record Coronet punctures when it is removed, but do not wait for removal marks to identify every piece’s limit. A lost safe-person boundary, inward-pointing thorns or a fully closed approach gap requires the piece’s own review and shutdown. The local bodily marks and the source’s rejection signs remain separate. |
 | **After use** | Check the bearer on return and again a week later; delayed irritability does not postpone immediate injury or boundary review. The safe person or boundary witness follows the exact piece’s shutdown rather than breaking it. Review the agreed approach and exit, remove the Weapon’s mission card after use, and store the Crown with its gate mark open. |
 
-**Stat interpretation:** A grade is not a guarantee. A γ-grade kit can perform exactly as rated and still bind its bearer to the holding's grievance or dull them to their own; a low-rated piece can carry a severe personal cost. The cost column is the one that decides issue.
-**Full-set source review (2026-10-13):** Reviewed the overview, every Weapon/Suit/Stigma claim, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against exact `SE-145-A` for `C-IIIγ-145 [GP]`, items `SE-145-B/C/D`, Master Registry rows 390–393, Master M.A.W. rows 61–63 and the detailed Garden of Thorns entries, Entity Codex row 385 / Tale 21, and archetype record `MAW-W-145`. The existing `γ · γ` overview is supported. This is a new full-SE disposition; Briar's Weapon pair was already source-led in Batch 79 (`1acf773d`) and is not counted again in the Weapon-only ledger. Weapon conflicts remain held: the local formal block, Side card, and item core agree on Grudge 7–12 and Speed 3 Fast, but the primary says Range 4 Long while Side A and item core say Range 3 Medium; the primary Registry Addendum and Master detail instead say 11–17 damage, and the Master detail says Speed 3 Normal. The primary and Master detailed Appearance repeat the 105-cm pneumatic rifle description, and item B repeats that description, but B's Resting/Active fields describe a crimson fang blade and defensive thorn-line; no transition reconciles those forms or the primary's *Winch & Lacerate* attack with item B's *Do Not Pluck* defensive effect. `MAW-W-145` is indexed as GUN / RANGE with an `Instant` band; that distinct band record does not settle the 3-versus-4 Range or damage conflict. The Master Registry leaves Weapon damage/speed/range variable or unset. Suit values in the primary and exact Side/item agree (Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2), but Master detail gives Grudge 0.5, Void 1.3, and Weight 1.0; no values were normalized. The Suit's primary, Side A, item identity, and Master title is *The Thorny Bramble Hauberk*, while the Master Registry/file heading says *The Thorn Plate*. Stigma probability 4% and +2 effect agree; primary, item D, and Master detail say Head / Brow, while Side A's stat card says Tail. That slot conflict remains explicit; the primary was not changed. No overview or equipment value changed; all disputed Weapon, Suit, Registry-title, and Stigma-slot claims remain holds.
+**Stat interpretation:** A grade is not a guarantee. A γ-grade kit can perform exactly as rated and still bind its bearer to the holding's grievance or dull them to their own. A low-rated piece can carry a severe personal cost. The cost column is the one that decides issue.
+**Full-set source review (Year 4238):** Reviewed the overview, every Weapon/Suit/Stigma claim, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against exact `SE-145-A` for `C-IIIγ-145 [GP]`, items `SE-145-B/C/D`, Master Registry rows 390–393, Master M.A.W. rows 61–63 and the detailed Garden of Thorns entries, Entity Codex row 385 / Tale 21, and archetype record `MAW-W-145`. The existing `γ · γ` overview is supported. This is a new full-SE disposition; Briar's Weapon pair was already source-led in an earlier review and is not counted again in the Weapon-only ledger. Weapon conflicts remain held: the local formal block, Side card. And item core agree on Grudge 7–12 and Speed 3 Fast. But the primary says Range 4 Long while Side A and item core say Range 3 Medium. The primary Registry Addendum and Master detail instead say 11–17 damage. And the Master detail says Speed 3 Normal. The primary and Master detailed Appearance repeat the 105-cm pneumatic rifle description. And item B repeats that description. But B's Resting/Active fields describe a crimson fang blade and defensive thorn-line. No transition reconciles those forms or the primary's *Winch & Lacerate* attack with item B's *Do Not Pluck* defensive effect. `MAW-W-145` is indexed as GUN / RANGE with an `Instant` band; that distinct band record does not settle the 3-versus-4 Range or damage conflict. The Master Registry leaves Weapon damage/speed/range variable or unset. Suit values in the primary and exact Side/item agree (Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2), but Master detail gives Grudge 0.5, Void 1.3, and Weight 1.0; no values were normalized. The Suit's primary, Side A, item identity, and Master title is *The Thorny Bramble Hauberk*, while the Master Registry/file heading says *The Thorn Plate*. Stigma probability 4% and +2 effect agree; primary, item D, and Master detail say Head / Brow, while Side A's stat card says Tail. That slot conflict remains explicit; the primary was not changed. No overview or equipment value changed; all disputed Weapon, Suit, Registry-title, and Stigma-slot claims remain holds.
 
 ## 관찰 기록 (Observation Log)
 
@@ -320,8 +323,8 @@ The pain of being hurt repeatedly and discovering that gentleness did not preven
 **Entry 4 — <Passage Through the Thorns>**
 Work response — Viderehan: Shows the grievance behind each flower. (Stable); Ferrehan: Allows passage only if the worker endures the thorns. (Decrease). It expands during the Sorrow Tide.
 
-**Entry 5 — <Sorrow Woven Into the Fabric>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <The Margin Is the Holding>**
+Briar is not a plant standing on the margin; the margin is what it is made of. The ground on either side of it carries the same grievance, which is why this file measures growth in frontage and never in metres from a centre, and why the margin survey predates the containment order by four years.
 
 ## 최종 관찰 (Final Observation)
 
@@ -329,7 +332,7 @@ The archive cross-references this entity with its registered location — the so
 
 | Acknowledge the injury aloud in the record and leave every bloom standing — no cutting, no clearing, no path made for convenience, however long the approach takes. | Try Pugnahan, as the record shows people doing: cut a way through, burn the thicket back, or answer the reach with force — the one response this ground has never tolerated once. |
 |---|---|
-| The worker endures the thorns without cutting any of them, the reach is read and taped at both ends, and the entry closes with the holding named in full. | Force extends the recorded reach and can close the path. Withdraw under the response procedure and record gauge, bearings, exposure and any injury; a failed watch does not erase its evidence or identify every bloom’s grievance. |
+| The worker endures the thorns without cutting any of them, the reach is read and taped at both ends, and the entry closes with the holding named in full. | Force extends the recorded reach and can close the path. Withdraw under the response procedure and record gauge, bearings, exposure and any injury. A failed watch does not erase its evidence or identify every bloom’s grievance. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -363,11 +366,11 @@ The relations below are points of contact and not alliances. None is closed, and
 | **The Angry Maiden** | The blooms brighten in the Maiden's presence, the only effect on this file with a consistent direction. | Four co-presences. Brightness rose on all four and the reach did not move on any of them. Nothing passed to the Maiden that the wing could measure, and her own series was flat. The effect is recorded as real, one-directional and operationally useless. | The four co-presences, the brightness records, and the Maiden's flat series held beside them. |
 | **The Grieving Fountain** | The Fountain is said to soften the paths, a claim resting on two early accounts by the same Warden. | Six co-presences. The paths opened on one and closed on two. The wing records the claim as unsupported and keeps the Warden's accounts in full with the later data attached. | The six co-presences, the path records, and the two original accounts with their author named. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record which way the blooms were facing at the first shared change and at the last: the tracking is the whole of the response, and its bearing is entered against the ground rather than against the party.
 
 ## 이야기 (Narratio) — The Tale
 
-The citizens planted the garden out of grief, and the grief, hurt too often, learned to bite.
+There was a garden the citizens planted out of grief, and the grief, hurt too often, learned to bite.
 
 It began as a memorial. Citizens who had lost people to violence — to the Frays, to the Collectors' seizures, to the casual brutality Zone B endured — planted flowers in a vacant lot, one bloom for each loss. It was a gentle act, the kind the city does not price and cannot ledger: a red flower for a brother taken in a Fray raid, a blue one for a mother who died of a Collector's invented debt, a white one for a child the Han consumed. The garden grew. It was beautiful, in the way memorials are beautiful — full of loss, but also full of the love that remembered the loss.
 
@@ -375,7 +378,7 @@ The citizens tended it gently. They were gentle people, or tried to be. They wat
 
 Then the violence came again. And again. The Frays raided the district a second time. A Collector seized another neighbor. A child was taken. And the citizens, tending their gentle garden, watched the same losses repeat — and discovered what gentle people discover, eventually, in a city like Somnarak: that gentleness does not prevent harm. That the flowers did not bring the dead back. That remembering without anger, in a place that keeps killing the remembered, is not peace. It is surrender.
 
-The grief in the garden changed. The same sorrow that had bloomed as a gentle flower — love for the lost — turned, hurt once too often, and grew thorns. Not because the love died. Because the love, attacked repeatedly, learned to defend itself. Each new loss planted a flower sharper than the last, until the memorial garden was no longer a place of gentle remembrance but a thicket of protected grief — beautiful, yes, and flowering, but armed now, every bloom guarded by spikes that draw the blood of anyone who reaches for it carelessly.
+The grief in the garden changed. The same sorrow that had bloomed as a gentle flower — love for the lost — turned, hurt once too often, and grew thorns. Not because the love died. Because the love, attacked repeatedly, learned to defend itself. Each new loss planted a flower sharper than the last, until the memorial garden was no longer a place of gentle remembrance but a thicket of protected grief — beautiful, yes. And flowering, but armed now, every bloom guarded by spikes that draw the blood of anyone who reaches for it carelessly.
 
 Briar is that thicket: a Place-Grudge entity, grief that learned to defend itself as anger because gentleness did not keep it safe. It does not attack. It protects — the names of the dead, the memory of the lost, the love that could not afford to stay soft in a city that kept wounding it. Those who enter the Garden feel, under the beauty, the hard lesson the flowers learned: that in Somnarak, some sorrows must grow thorns, because the gentle ones are the ones that get picked.
 
@@ -399,7 +402,7 @@ Some sorrows stay soft. Briar is what sorrow becomes when softness becomes too c
 **Common Name:** Briar
 **Containment Status:** Contained — near Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). A thicket of armed memorial planting that grips, drags and draws blood, and that comes off its ground entirely in an escape event. The older entry describing the threat as moderate understates it and is corrected here.
+**Threat Assessment:** Major (γ). A thicket of armed memorial planting that grips, drags and draws blood, and that comes off its ground entirely in an escape event. Its moderate grading described the ground it stands on and not the thing that comes off it.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; Ferrehan is the working approach, and Pugnahan is prohibited by standing order despite being valid.
 - Nothing is touched and nothing is cut, including dead growth, including growth across the fence line.
@@ -443,7 +446,7 @@ The bloom count is the only number this holding produces, and it is a number abo
 
 It is taken from the margin with a tally, by two Wardens who count independently and do not confer, and it is entered as a range with both names against it. The practice replaced single counts after the early figures were found drifting toward whatever the previous watch had written. The spread has narrowed over the years without anybody being told to be more careful.
 
-The count rises. It has never fallen. **One thousand four hundred and six blooms** stood on the last paired count, against thirty-one at the dedication, and the rate tracks something real: on fifty-eight occasions a new bloom was recorded within a fortnight of a violent death in Zone D that the wing had no knowledge of at the time of counting.
+The count rises. It has never fallen. **One thousand four hundred and six blooms** stood on the last paired count, against thirty-one at the dedication. And the rate tracks something real: on fifty-eight occasions a new bloom was recorded within a fortnight of a violent death in Zone D that the wing had no knowledge of at the time of counting.
 
 **On thirty-one occasions a bloom appeared and nothing was ever found.** No death, no report, no complaint, no name. The wing's position on those thirty-one is set out in a single paragraph and has not changed: a bloom is evidence that the garden registered a wrong and is evidence of nothing else. It carries no location, no date, no injured party and no perpetrator. It cannot be acted on, cannot be referred anywhere, and cannot be discounted either, because the fifty-eight say the mechanism works.
 
@@ -469,13 +472,13 @@ The three have written to the wing twice. Both letters say the same thing, and t
 
 The facility could end this. It has a power to extinguish a dedication over land required for containment, the power has been used elsewhere in the district, and counsel's advice — obtained in the fourth year, held in the file, three pages — is that an application here would succeed.
 
-**The facility resolved not to make it.** The resolution runs to two sentences and gives one reason: the ground was dedicated to forty people killed in Zone D by a violence the district never stopped, and the facility will not be the body that sets that aside to put a fence up.
+**The facility resolved not to make it.** The resolution runs to two sentences and gives one reason: the ground was dedicated to forty people killed in Zone D by a violence the district never stopped. And the facility will not be the body that sets that aside to put a fence up.
 
 The consequence is that the fence stands on the only line available to it, which is outside the dedication and inside the thicket's reach. It has been inside the reach for six years. The margin is marked in paint rather than in steel over that stretch, the approach discipline exists to compensate, and the discipline is good.
 
 It is not good enough to have prevented everything. **Four workers have been gripped in nine years and three of those four were on the painted stretch.** Two required the infirmary. One was held by a shoulder strap and freed by cutting it, and is the reason nothing that hangs is carried here. Nobody has been killed and the wing does not claim that as a vindication.
 
-The staff association's objection is minuted at every annual review and is minuted in full. It holds that a decision to leave a working fence line inside a known reach is a decision to accept injuries, and should be recorded in those words rather than as a point of principle; that the people being protected by the resolution are dead and the people paying for it are on the roster; and that counsel's advice has never been tested, so the facility is honouring a dedication that might well be extinguishable with a letter. The minute records the objection as **correct in all three parts**. It records that the resolution has been reaffirmed four times, most recently with the three surviving committee members' letters read into the minute, and it prints the line the chair asked to be entered beside the vote: *we are keeping a promise that nobody alive is in a position to release us from, and we are keeping it at somebody else's cost, and we are going to keep it anyway.*
+The staff association's objection is minuted at every annual review and is minuted in full. It holds that a decision to leave a working fence line inside a known reach is a decision to accept injuries. And should be recorded in those words rather than as a point of principle. That the people being protected by the resolution are dead and the people paying for it are on the roster. And that counsel's advice has never been tested. So the facility is honouring a dedication that might well be extinguishable with a letter. Nothing in the three parts is disputed; the minute adopts them as written and moves to remedies. It records that the resolution has been reaffirmed four times, most recently with the three surviving committee members' letters read into the minute. And it prints the line the chair asked to be entered beside the vote: *we are keeping a promise that nobody alive is in a position to release us from, and we are keeping it at somebody else's cost, and we are going to keep it anyway.*
 
 ## Trivia
 

@@ -22,7 +22,7 @@ Thousand Hands is an unshaped mass of pale-blue Han-crystal crowded with fossil-
 | Coherence / Potency | III / γ |
 | Element | Lament |
 | Location | The Desolate, near the Scar |
-| Gauge / Pressure | 561/561; starts 45–65% / 14–33 Lament |
+| Gauge / Pressure | 000/660; starts 000% / Lament — no attack pattern; the field edge is chalked and measured |
 | Movement / Resistance | Fixed / 35% Lament, 25% other |
 | Activation threshold | Gauge ≥75%; physical touch activates history projection |
 | Observation | 2 — Basic |
@@ -38,8 +38,8 @@ For this I-Relic, approved work is limited to Viderehan and Ferrehan.
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid; the object does not accept emotional engagement. | N/A |
-| Pugnahan | Invalid; confrontation fractures frozen histories. | N/A |
+| Flerehan | Invalid; the object does not accept emotional engagement. | Negative-Low |
+| Pugnahan | Invalid; confrontation fractures frozen histories. | Negative-Low |
 | Viderehan | The chain of former owners is revealed. | Stable |
 | Ferrehan | The worker carries history without claiming possession. | Decrease |
 
@@ -67,13 +67,3 @@ Extraction followed a complete ownership-chain reading in which every unknown ho
 During the Forty-Seventh Hand transit, a carrier began speaking as a dead scavenger and claimed the scavenger’s daughter. Thousand Hands Shield preserved the emotional force but not attribution. A Tail Charm cooled only after Marjuk said, “This grief is true, and it is not yours.” Requiem then severed the possessive loop. The carrier retained the account but stopped searching for a child he had never fathered.
 
 > *“Respecting another life requires more than believing it. It requires refusing to occupy it.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-609-A`  
-**Linked Entity:** `SE-609`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

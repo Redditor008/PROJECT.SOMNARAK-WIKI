@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Fading Charm
 
-> *“The Fading Charm remembers Swallow; the bearer must not mistake memory for permission.”*
+> *"Each kindness spends an introduction. Carried long enough, the bearer is known by everyone and remembered by none."*
 
 ---
 
@@ -17,27 +17,28 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Grants a minor boon tied to Swallow's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Swallow's event—A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence.—and accepts this limit: Name the source of the grief and return emotional ownership
+**Binding rule:** the bearer names Swallow's event — “A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence.” — and accepts this limit: Name the source of the grief and return emotional ownership
 
 ## Appearance
 
-The Fading Charm is the stigma record of Swallow’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — its ability mirroring the entity: a minor boon tied to Swallow’s sorrow, the absence returning a measure of what it took. Binding is testimonial: the bearer names Swallow’s event — a memorial beneath the Alpha Tree absorbed generations of visitors’ grief and became a spreading absence — and accepts the set’s limit: name the source of the grief and return emotional ownership. The operational cost arrives at night: the bearer weeps in their sleep, grief draining on its own schedule, and continued use makes the source sorrow feel autobiographical. The source-trace fixed the doctrine: the stigma reveals the people whose sorrow feeds it, and it stayed the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Fading Charm is the stigma record of Swallow’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — its ability mirroring the entity: a minor boon tied to Swallow’s sorrow, the absence returning a measure of what it took. Binding is testimonial: the bearer names Swallow’s event — a memorial beneath the Alpha Tree absorbed generations of visitors’ grief and became a spreading absence — and accepts the set’s limit: name the source of the grief and return emotional ownership. The cost is the introduction: each kindness spends one, and a season of carrying it leaves the bearer known by everyone and remembered by none. The source-trace fixed the doctrine: the stigma reveals the people whose sorrow feeds it, and it stayed the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer weeps in their sleep. Continued use makes Swallow's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm makes the bearer forgettable in proportion to what they give: each kindness costs them an introduction. Carried long, they are known by everyone and remembered by no one.
 
 ## ITEM-SPECIFIC HISTORY — *The Swallow Source-Trace: Stigma Record*
 
-The first The Fading Charm field bearer encountered this source response: Reveals the people whose sorrow feeds it. The stigma stays the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Charm encountered this source response: Reveals the people whose sorrow feeds it. The stigma stays the immediate hazard only after the team attributed it to Swallow. A bearer gave until nobody could place them, and the Charm's binding is written from an introduction that was never returned.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Swallow's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the forgetting spreads past the bearer to everyone who has their name in writing.
 - Terminal state: Swallow's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Name the source of the grief and return emotional ownership” reverses the item’s benefit and raises the source Gauge.  
@@ -46,15 +47,4 @@ The first The Fading Charm field bearer encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Swallow — Witnessed Form*, The Fading Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-767-D`  
-**Linked Entity:** `SE-767`  
-**Item Registry Code:** `MAW-G-767-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Swallow — Witnessed Form*, The Fading Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set the moment somebody remembers the bearer without being reminded to.

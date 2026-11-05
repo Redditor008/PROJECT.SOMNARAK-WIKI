@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Neglect Learned to Listen's Bell
 
-> *“Neglect Learned to Listen's Bell remembers Neglect Learned to Listen; the bearer must not mistake memory for permission.”*
+> *"The bearer hears every message that fails to arrive, in their own name, and answers letters nobody sent."*
 
 ---
 
@@ -17,23 +17,28 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Carries a quiet message through walls.  
-**Binding rule:** the bearer names Neglect Learned to Listen's event—Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.—and accepts this limit: Preserve and acknowledge what was discarded; do not simply remove the rust
+**Binding rule:** the bearer names Neglect Learned to Listen's event — “Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.” — and accepts this limit: Preserve and acknowledge what was discarded; do not simply remove the rust
+
+### Appearance
+
+A bronze bell the size of a clenched fist, square-shouldered and wrapped at its crown in oxidised copper wire. Its clapper is a short length of hexagonal iron bar, and the rim carries distance notches cut by hand.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The user hears every message that fails to arrive. Continued use makes Neglect Learned to Listen's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer hears every message that fails to arrive, and hears it in their own name: carried long, they answer letters nobody sent.
 
 ## ITEM-SPECIFIC HISTORY — *The Neglect Learned to Listen Source-Trace: Stigma Record*
 
-The first Neglect Learned to Listen's Bell field bearer encountered this source response: Reveals what the city discarded. The stigma redirects the immediate hazard only after the team attributed it to Neglect Learned to Listen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Neglect Learned to Listen's Bell field bearer encountered this source response: Reveals what the city discarded. The stigma redirects the immediate hazard only after the team attributed it to Neglect Learned to Listen. A bearer answered a letter nobody had sent and could not afterwards find it in the post book, and the Bell’s binding is the reply filed at that desk.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Neglect Learned to Listen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the messages arrive in the bearer’s own name, and they answer correspondence addressed to people who do not exist.
 - Terminal state: Neglect Learned to Listen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Preserve and acknowledge what was discarded; do not simply remove the rust” reverses the item’s benefit and raises the source Gauge.  
@@ -42,15 +47,4 @@ The first Neglect Learned to Listen's Bell field bearer encountered this source 
 
 ## SET RELATIONSHIP
 
-Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Bell performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1028-D`  
-**Linked Entity:** `SE-1028`  
-**Item Registry Code:** `MAW-G-1028-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Bell performs the stigma role while the other pieces preserve attribution and survival. The Bell drops out of the set on a message the bearer lets go unanswered.

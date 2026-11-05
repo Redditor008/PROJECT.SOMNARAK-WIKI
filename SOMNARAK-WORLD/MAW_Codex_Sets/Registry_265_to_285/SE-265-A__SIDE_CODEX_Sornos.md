@@ -24,7 +24,7 @@
 | Coherence / Potency | V — Sovereign / δ — Critical |
 | Elements | All four — Lament, Grudge, Void, Weight |
 | Form | A massive layered Han-crystal humanoid sleeping beneath the Tree, threaded with prayer-light, fire, ash, stone, and root-shaped crown crystal. |
-| Gauge / Pressure | 60–80% / mixed cyclic pressure |
+| Gauge / Pressure | 000% / mixed cyclic pressure |
 | Observation | 4 — Mastered |
 | Individual M.A.W. Codices | Prohibited — none created |
 
@@ -46,10 +46,10 @@ Dream leakage reaches the city as prayer and nightmare. The Burning Library cont
 
 | Work Type | Recorded response | Gauge | Current rule |
 |---|---|---|---|
-| Flerehan | Dreams of ancient prayer become gentler. | Down | Remote monitoring only; no direct invocation. |
-| Pugnahan | Vault fills with divine pressure. | Up | Absolutely prohibited. |
+| Flerehan | Dreams of ancient prayer become gentler. | Decrease | Remote monitoring only; no direct invocation. |
+| Pugnahan | Vault fills with divine pressure. | Increase | Absolutely prohibited. |
 | Viderehan | Reveals fragments of first-settler faith. | Stable | Passive sealed observation only. |
-| Ferrehan | Tests endurance of a God’s dream. | Down | No worker enters the sleep boundary. |
+| Ferrehan | Tests endurance of a God’s dream. | Decrease | No worker enters the sleep boundary. |
 
 **Resolution:** Do not wake, address, or attempt extraction. Maintain the sealed vault.  
 **Activation threshold:** Gauge at or above 90%.  
@@ -97,13 +97,3 @@ Mastery here means recognizing the limit and preserving it.
 **Primary source:** `SE-C-Vδ-265_Forgotten_God_잊혀진_신.md`
 
 **Restricted note:** Any future request for an individual Sornos M.A.W. codex must first resolve the direct source prohibition through explicit user-approved canon revision. Template architecture cannot overrule it.
-
----
-
-**Document ID:** `SE-265-A`  
-**Linked Entity:** `SE-265`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

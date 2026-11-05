@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A humanoid figure in the shape of a tower, half-submerged in the ground as though it sank while still standing, its body ringed with empty windows looking out on nothing. Bloodless-cold, it smells of ash; from its buried floors a faint light still climbs. |
-| **Movement** | Mobile — follows the line of the old street, including through the corridors built across it; it walks to the former corner rather than pursuing personnel. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile — follows the line of the old street, including through the corridors built across it. It walks to the former corner rather than pursuing personnel. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | 4 |
+| **Work Damage** | None — the Void it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
+| **Activation threshold** | 4 ignored conditions |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -78,27 +79,27 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Sinking* [**Debuff**] } | "The ground gives under the figure the way it gave under the tower, and the reading goes down with it." | [The figure settles, and the target's sense of where the floor is settles with it.] | *Target suffers a Void mark; their footing stops being something they can trust.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
+| { *The Sinking* [**Debuff**] } | "The ground gives under the figure the way it gave under the tower. And the reading goes down with it." | [The figure settles, and the target's sense of where the floor is settles with it.] | *Target suffers a Void mark; their footing stops being something they can trust.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
 | { *The Drowned Bell* [**Debuff**] } | "A bell sounds from under the street, muffled, as though the building took its bell down with it." | [The noise rises from buried floors that no longer exist.] | *Target loses clarity; they hear the depth and cannot place it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target descends. |
-| { *The Pull Down* [**Attack**] } | "Something under the pavement has hold of your ankle, and it knows the way down." | [The foundation reaches up for the target the way it reaches for the figure.] | *Inflicts Void damage; part of the target is drawn under the line of the old street.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target resists the descent. |
-| { *The Foundations* [**Attack**] } | "Everything the tower was built on comes up at once, and none of it is rubble." | [The buried base of the structure arrives in the open air.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%, and the ground stops being a fixed reference.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tower is struck or undermined. |
-| { *The Deep* [**Ultimate**] } | "The descent finishes, the street closes over it, and the district forgets there was ever a junction here." | [The figure completes the sinking and takes the ground down with it.] | *All in range suffer Void erosion for three turns with nothing left to orient by.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Pull Down* [**Attack**] } | "Something under the pavement has hold of your ankle. And it knows the way down." | [The foundation reaches up for the target the way it reaches for the figure.] | *Inflicts Void damage; part of the target is drawn under the line of the old street.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target resists the descent. |
+| { *The Foundations* [**Attack**] } | "Everything the tower was built on comes up at once. And none of it is rubble." | [The buried base of the structure arrives in the open air.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%, and the ground stops being a fixed reference.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tower is struck or undermined. |
+| { *The Deep* [**Exhaustion**] } | "The descent finishes, the street closes over it. And the district forgets there was ever a junction here." | [The figure completes the sinking under one person's feet.] | *Everything a single worker was orienting by goes out at once, and the room becomes undifferentiated.* **[2 Void DMG [Void] [2 = 10% Max HP], single target]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The windows confirm it; the height never does. The ring of openings holds no rooms and never changes, the figure it rings stands in the ground as though it sank upright, and a faint light climbs from the buried floors. Height against the bay datum is taken at the open and again at the close — eleven metres down to one and a half on the record — and positions and withdrawal are fixed before the ring is entered.
-2. **Clash:** The work is naming the corner. Flerehan stops the sinking and raises it in the ground; Ferrehan is standing in front of the gap without filling it; Pugnahan drives it down and is the one approach that has ever cost height. Nobody climbs it. Four attempts, four sinkings, and the lowest reading on record followed the last.
-3. **Resolution:** The watch closes under containment, management or withdrawal, or under the suppression condition on this record: **Record its former location; do not attempt to rebuild it around the entity** — the corner carried in the record and the print, the survey notation kept current, and the figure left to sink on its own feet rather than driven down.
+2. **Clash:** The work is naming the corner. Flerehan stops the sinking and raises it in the ground. Ferrehan is standing in front of the gap without filling it. Pugnahan drives it down and is the one approach that has ever cost height. Nobody climbs it. Four attempts, four sinkings, and the lowest reading on record followed the last.
+3. **Resolution:** The watch closes under containment, management or withdrawal, or under the suppression condition on this record: **Record its former location; do not attempt to rebuild it around the entity** — the corner carried in the record and the print, the survey notation kept current. And the figure left to sink on its own feet rather than driven down.
 
 ### Consequences
 
 - A worker who loses their way inside the spread does not lose the building: they lose the turn at a corner they have taken for years. The loss is entered as an exposure against the holding and never as a fault against the person, and the route they drew before entry is what settles it.
 - Stay in the ring too long and the damage starts in the bearings: a worker’s own routes stop answering, then the body’s sense of level goes, then the ground around the junction ceases to be a reliable reference. Short-cycle briefings distinguish loss of direction from loss of balance and record both against exposure time, rather than waiting for a worker who cannot place themselves to decide they have stayed too long.
-- The set is not carried for free: sorrow flows back through the equipment to its bearer, and the Armoury records that price against the person rather than the set. Routes remembered without effort become uncertain; the observer keeps the paper route and the return drawing together, because a piece back on the rack does not mean the bearer has recovered the familiar street.
+- The set is not carried for free: sorrow flows back through the equipment to its bearer, and the Armoury records that price against the person rather than the set. Routes remembered without effort become uncertain. The observer keeps the paper route and the return drawing together, because a piece back on the rack does not mean the bearer has recovered the familiar street.
 - A watch that fails to resolve does not close the incident: the claim widens toward the junction, and crews disagree about where the tower stands. Each position is entered as that crew’s report, never made into a surveyed location by repetition. The old street remains the route to follow, and the corner is named there while the figure is allowed to sink without being driven down.
 
 ## Appearance
-**Primary Form:** A humanoid tower-shaped figure, half-submerged in the ground and surrounded by empty windows.
+**Primary Form:** A tower shaped like a standing man, twenty metres or so, half-submerged in the ground at the chest and going down further than the survey has followed. The windows start at the buried shoulder and run up in even courses, every one of them empty, and the pattern of the empties has not changed in nine years of survey. It is bloodless-cold and smells of ash. A faint light climbs from the buried floors — not lamp light, and not from the windows, but from the stone itself, working its way up from wherever the lower rooms are.
 
 **Notable Features:** It sinks a little further whenever someone tries to climb it and watches through windows that contain no rooms.
 
@@ -116,12 +117,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid tower-shaped figure, half-submerged in the ground and surrounded by empty windows. |
-| **Position / movement** | Walks the line of the old street only; exposed height above grade varies between eleven metres and one and a half. |
+| **Position / movement** | Walks the line of the old street only. Exposed height above grade varies between eleven metres and one and a half. |
 | **Material / signature** | Void. Bloodless-cold with a smell of ash; a faint light climbs from the buried floors. Match the unchanged empty-window pattern separately from the changing exposed height. |
 | **Distinctive markers** | Identify it by the windows. It is a tower-shaped figure standing in the ground as though it sank upright, ringed with windows that have no rooms behind them, and a faint light climbs from the buried floors. The height varies between observations; the window pattern does not and is the reliable marker. |
-| **Identification** | Match what you see to the file before you act; the reliable marker is the ring of windows with no rooms behind them, since the height varies between observations. |
+| **Identification** | Match what you see to the file before you act. The reliable marker is the ring of windows with no rooms behind them, since the height varies between observations. |
 
-**Appearance protocol:** Measure the exposed height against the bay datum at the start and end of the cycle; a single reading is worthless because it sinks and rises within a session. Count and photograph the windows, which do not change, and note whether light is climbing from the buried floors. Concrete terms only — it is not 'looming', it is at four point two metres and falling.
+**Appearance protocol:** Measure the exposed height against the bay datum at the start and end of the cycle. A single reading is worthless because it sinks and rises within a session. Count and photograph the windows, which do not change, and note whether light is climbing from the buried floors. Concrete terms only — it is not 'looming', it is at four point two metres and falling.
 
 ## Origin
 - **Formation:** The Tower formed from a structure that became a person only after it was lost.
@@ -134,16 +135,16 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Stops sinking and reveals former occupants. | Decrease |
-| **Pugnahan** | The ground pulls it downward. | Increase |
-| **Viderehan** | Shows the lives that once filled its rooms. | Stable |
-| **Ferrehan** | Tests whether the worker can remain before an absence. | Decrease |
+| **Flerehan** | Stops sinking and reveals former occupants. | Decrease · High |
+| **Pugnahan** | The ground pulls it downward. | Increase · Low |
+| **Viderehan** | Shows the lives that once filled its rooms. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain before an absence. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-**The behaviour table is a single variable and the variable is print.** Heights logged in 4238 ran from seven point one metres at the first measurement of the year to four point two at the last, and the year's one sustained rise followed a tram timetable that restored the stop name; the clerk responsible was reprimanded in writing and both documents are in the file. Viderehan is stable and correctly so — it opens the lives the rooms held without moving the height, and a flat reading here still costs the observer a session of turning toward things that are not there. Pugnahan is the one approach that has ever cost metres rather than centimetres and is never authorised twice by the same officer. What the table cannot show is the mechanism, which is printing: of the forty-four items issued for the junction last year, nine named the tower and thirty-five drew it accurately with four streets and nothing else, and the height tracked the nine.
+**The behaviour table is a single variable and the variable is print.** Heights logged in 4238 ran from seven point one metres at the first measurement of the year to four point two at the last. And the year's one sustained rise followed a tram timetable that restored the stop name. The clerk responsible was reprimanded in writing and both documents are in the file. Viderehan is stable and correctly so — it opens the lives the rooms held without moving the height, and a flat reading here still costs the observer a session of turning toward things that are not there. Pugnahan is the one approach that has ever cost metres rather than centimetres and is never authorised twice by the same officer. What the table cannot show is the mechanism, which is printing: of the forty-four items issued for the junction last year, nine named the tower and thirty-five drew it accurately with four streets and nothing else, and the height tracked the nine.
 
 **Reading the response:** Height gained means the corner was named somewhere in print that week. Stability under Viderehan is correct. It sinks on accurate maps that show the junction as it now is, on address lists reissued without the old name, and on any attempt to climb it, which is the only action that has ever cost metres rather than centimetres.
 ## Breach Behavior
@@ -155,7 +156,7 @@
 | **Breach Type** | Escape |
 | **Movement** | It walks the course of the old street, through whatever has since been built across it, at the pace of someone going somewhere familiar. It has never deviated from that line. |
 | **Effect** | Within about six metres, personnel lose track of which way they are facing and recover it the moment they look at a sign. |
-| **Secondary Effect** | Printed matter in the room loses its place names for the duration; three charts were returned to the map office blank at the corners and were reissued without comment. |
+| **Secondary Effect** | Printed matter in the room loses its place names for the duration. Three charts were returned to the map office blank at the corners and were reissued without comment. |
 | **First Target** | Nobody. It walks to the corner, stands there for between two and nine minutes, and starts sinking. |
 | **Escalation** | It sinks a further half-metre each turn it stands at the corner unaddressed, and stops sinking the turn somebody says where it used to be. |
 
@@ -186,11 +187,11 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** 100% to the selected target only. The weapon has no spread, and the holding notes that it cannot be used to clear a street, which was tested.
-**Damage Application:** Apply the multiplier to direct and Tick damage separately; the Tick here is slow and is felt as a growing uncertainty about where one is standing.
+**Damage Application:** Apply the multiplier to direct and Tick damage separately. The Tick here is slow and is felt as a growing uncertainty about where one is standing.
 
 **Ability:** Void damage to the soul. What it takes from a target is their sense of where they are, so that familiar ground must be navigated by reading signs like a stranger.
 
-**Cost:** The wielder loses small, nameless memories, beginning with the routes they used to walk without thinking.
+**Bearer cost:** The wielder loses small, nameless memories, beginning with the routes they used to walk without thinking.
 
 ### M.A.W. Suit — The Empty Veil
 
@@ -208,7 +209,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 **Ability:** Turns Void aside from the soul. The suit is what lets a worker stand at the corner for a full cycle without the vertigo of turning toward something that is not there.
 
-**Cost:** The wearer loses the habit of the corner — the unthinking turn — and finds they need the printed map in districts they have lived in for years. The Armoury records that as the piece working and not as the wearer failing.
+**Bearer cost:** The wearer loses the habit of the corner — the unthinking turn — and finds they need the printed map in districts they have lived in for years. The Armoury records that as the piece working and not as the wearer failing.
 
 ### M.A.W. Stigma — The Empty Window
 
@@ -222,7 +223,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 **Ability:** Reveals spaces removed from a structure.
 
-**Cost:** The wearer sees every empty room as occupied by memory.
+**Bearer cost:** The wearer sees every empty room as occupied by memory.
 
 *Nothing manufactures the stigma. It goes to a worker who gave directions by the tower in a written report; nobody who climbed it has ever received one.*
 
@@ -232,7 +233,7 @@ The three pieces are the Landmark in miniature, and they take the same faculty i
 
 *Absent Landmark — Witnessed Form* binds the bearer to the tower’s event: it collapsed and was cleared, but the district kept looking for its shape. Issue requires that attribution and the acceptance of a precise limit — record the former location without rebuilding around the entity. A map in another person’s hands remains necessary even when the Void resistance holds. Protection from the corner’s pressure does not preserve the unthinking turn the bearer is spending to stand there.
 
-Under *Source Kept Distinct*, the Window identifies the source condition, the Veil lets a witness remain before the absence, and the weapon discharges an immediate hazard. The originating event is not healed. Former occupants shown in a reading are testimony, not permission to construct rooms around the figure or to treat the vacant site as inhabited again. The head-slot Window shows removed space while charging its wearer the sight of memory in every empty room; remembering what occupied a room cannot establish that it is occupied now.
+Under *Source Kept Distinct*, the Window identifies the source condition, the Veil lets a witness remain before the absence, and the weapon discharges an immediate hazard. The originating event is not healed. Former occupants shown in a reading are testimony, not permission to construct rooms around the figure or to treat the vacant site as inhabited again. The head-slot Window shows removed space while charging its wearer the sight of memory in every empty room. Remembering what occupied a room cannot establish that it is occupied now.
 
 A bearer beginning to tell the tower’s event as their own history has reached the first corrosion sign. The next is a piece repeating its source response away from contact; the last is the Landmark using the bearer as its new site. Breaching the recorded-location/no-rebuilding limit reverses the benefit and raises the Gauge. Maintenance follows attribution review, with bearer, trigger, response, cost and unresolved detail entered before cleaning or rest. Emergency relinquishment is witnessed by name: that witness states Absent Landmark and the collapse-and-clearance event as the piece leaves the bearer. The entry survives; the spent memories do not return with the equipment.
 
@@ -243,7 +244,7 @@ A bearer beginning to tell the tower’s event as their own history has reached 
 | **Before use** | Wielder, piece, the day's height reading, and a route drawn on paper by the wielder and held by somebody else. The toll on this set is a habit of navigation, so the benchmark is a route the wielder can still draw from memory without help. Name the source event and former location before issue, without proposing a reconstructed tower as the remedy. |
 | **During use** | Watch for the first wrong turn rather than for a complaint: on this set the wielder quietly stops taking the short way through districts they know and does not notice doing it. The second worker logs the hour and the place, and the wielder's account is taken separately and afterwards so the two can be read against each other. |
 | **At limit** | The wearer asks for the map in a district they have lived in for years, or stands at a corner waiting to remember which way they usually go. The observer calls the limit at that request, and the piece comes off whether or not the wielder agrees. |
-| **After use** | Return the piece, have the route re-drawn, and re-assess a week later rather than on the day — the habits return slowly if they return at all, and the piece is not reissued to a wielder whose route does not come back. Record the named witness and attribution with the return; the week-later route check measures recovery rather than presuming a refund. |
+| **After use** | Return the piece, have the route re-drawn. And re-assess a week later rather than on the day — the habits return slowly if they return at all. And the piece is not reissued to a wielder whose route does not come back. Record the named witness and attribution with the return; the week-later route check measures recovery rather than presuming a refund. |
 
 **Stat interpretation:** The grade says what a piece does to entities and nothing about what it takes from the person holding it. All three pieces in this set are α-grade and all three take the same kind of thing — the unthinking knowledge of a familiar route — so the cost here is not inversely proportional to anything and cannot be read off the rating. Authorise on the cost column, take the drawn route before the issue and after the return, and remember that a minor-grade piece issued to a worker who has lived in the district all their life is not a minor issue.
 ## 관찰 기록 (Observation Log)
@@ -264,8 +265,8 @@ A bearer beginning to tell the tower’s event as their own history has reached 
 |---|---|
 | **Initial exposure** | Arrival height against the bay datum, with the window count and pattern, the direction of travel along the old street line, and the week's printed items for the junction counted as they stand. On the 4238 series that reading ran from seven point one metres at the first measurement to four point two at the last, with nine items naming the tower out of forty-four issued. Establish the withdrawal next, because the entity walks its own line and does not follow anybody. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | Activation is measured in metres and is never inferred. A sustained rise follows a named item of print — a tram timetable restored the stop name and raised it, and the written reprimand to the clerk is filed beside the timetable — while accurate maps, address lists reissued without the old name and every attempt to climb it cost height, the lowest reading on record following the last such attempt. On a breach it walks the line of the old street through the four corridors built across it, stands at the corner for between two and nine minutes, and sinks half a metre a turn until somebody says where it used to be. |
-| **Post-contact review** | Compare the entry and exit heights and the window count, and record whether light was climbing from the buried floors; enter the printed items issued for the junction that week and mark which of them named the tower; note the duration of any breach walk and the minute the sinking stopped. Anything that drove the figure down is entered against the officer who ordered it, with the metres it cost, and anything that named the corner in print is entered as the finding it is — on this holding the containment costs nothing, which is precisely why sixty years of refusing it are worth recording. |
+| **Activation or escalation** | Activation is measured in metres and is never inferred. A sustained rise follows a named item of print — a tram timetable restored the stop name and raised it. And the written reprimand to the clerk is filed beside the timetable — while accurate maps, address lists reissued without the old name and every attempt to climb it cost height, the lowest reading on record following the last such attempt. On a breach it walks the line of the old street through the four corridors built across it, stands at the corner for between two and nine minutes, and sinks half a metre a turn until somebody says where it used to be. |
+| **Post-contact review** | Compare the entry and exit heights and the window count. And record whether light was climbing from the buried floors. Enter the printed items issued for the junction that week and mark which of them named the tower. Note the duration of any breach walk and the minute the sinking stopped. Anything that drove the figure down is entered against the officer who ordered it, with the metres it cost. And anything that named the corner in print is entered as the finding it is — on this holding the containment costs nothing, which is precisely why sixty years of refusing it are worth recording. |
 
 **Observation method:** Record the exposed height on arrival and on leaving, the direction of travel along the old street line, the window count, and the week's map, timetable and address-list issues from the district. The condition that ends the encounter is the entity sinking below the floor, which it does on its own. Appearance is diagnosis, not prediction.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -285,7 +286,7 @@ Printed items issued for the district in 4238 that cover the junction: forty-fou
 Management: Record its former location; do not attempt to rebuild it around the entity. Work response — Flerehan: Stops sinking and reveals former occupants. (Decrease); Pugnahan: The ground pulls it downward. (Increase); Viderehan: Shows the lives that once filled its rooms. (Stable); Ferrehan: Tests whether the worker can remain before an absence. (Decrease). Personnel report emptiness after viewing it.
 
 **Entry 5 — <Archive Note: The Notation for an Absent Feature>**
-This facility prints the tower. Every map, floor plan, route card and address list it issues for the district carries the junction marked as the site of the former tower, by name, and the practice is now written into the survey standard. The map office objected and its objection is the only one in this holding's file that the archive considers genuinely difficult: a map that carries a feature which is not there is a defective map, surveyors are required to sign for accuracy, and the wing is asking them to certify a drawing that would misdirect a stranger in an emergency. The compromise reached is the one in force — the tower is marked as absent, named, and dated, in a notation invented for it and since used for nine other sites. Nobody pretends the tower is standing. The reading has not fallen below four metres since the standard was adopted, and the archive notes that the containment condition here costs no money at all, which is precisely why its refusal for sixty years is worth recording.
+This facility prints the tower. Every map, floor plan, route card and address list it issues for the district carries the junction marked as the site of the former tower, by name, and the practice is now written into the survey standard. The map office objected and its objection is the only one in this holding's file that the archive considers genuinely difficult: a map that carries a feature which is not there is a defective map, surveyors are required to sign for accuracy. And the wing is asking them to certify a drawing that would misdirect a stranger in an emergency. The compromise reached is the one in force — the tower is marked as absent, named, and dated, in a notation invented for it and since used for nine other sites. Nobody pretends the tower is standing. The reading has not fallen below four metres since the standard was adopted, and the archive notes that the containment condition here costs no money at all, which is precisely why its refusal for sixty years is worth recording.
 
 ## 최종 관찰 (Final Observation)
 
@@ -312,22 +313,22 @@ A tower-shaped figure rises from the street and looks down through windows with 
 
 ### Interaction Pattern
 
-The archive shelves four other holdings beside this one, and none of them is an ally. The Vanished Tower preserves absent architecture; Breach failed as a structure rather than as an argument; The Whispering Gallery carries the memories of its former occupants; and the Broken Clocktower has twice been logged rising in the same week, both of them sinking again by morning. Four relations, measured on one variable — height against the bay datum — and entered with the week's print return beside them, because on this holding a rise is evidence of printing before it is evidence of company.
+The archive shelves four other holdings beside this one, and none of them is an ally. The Vanished Tower preserves absent architecture. Breach failed as a structure rather than as an argument. The Whispering Gallery carries the memories of its former occupants. And the Broken Clocktower has twice been logged rising in the same week, both of them sinking again by morning. Four relations, measured on one variable — height against the bay datum — and entered with the week's print return beside them, because on this holding a rise is evidence of printing before it is evidence of company.
 
-**Interaction method:** Document it alone first, with the district's printed matter alongside, since that is the variable. In shared conditions log the height before and after; with the Broken Clocktower both rise and both sink again by morning, and the holding records that the two have never been observed at height on the same day twice.
+**Interaction method:** Document it alone first, with the district's printed matter alongside, since that is the variable. In shared conditions log the height before and after. With the Broken Clocktower both rise and both sink again by morning, and the holding records that the two have never been observed at height on the same day twice.
 
 
 ### Entity Interaction Record
 
-It is filed with the Old Lament records of things the district still orients by, and the three rows below are the entries detailed in this section. None of them is an alliance; each is a structure the city removed and kept using, and each recognises the others as that and nothing more. In proximity this one rises slightly and sinks again inside the day, which the file reads as the second structure's presence doing what a named item of print does and no more than that.
+It is filed with the Old Lament records of things the district still orients by, and the three rows below are the entries detailed in this section. None of them is an alliance. Each is a structure the city removed and kept using, and each recognises the others as that and nothing more. In proximity this one rises slightly and sinks again inside the day, which the file reads as the second structure's presence doing what a named item of print does and no more than that.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **The Vanished Tower** | Both preserve absent architecture, which the file enters as a resemblance and not as a relation. | Two co-presences, years apart, both logged at distance. Entry and exit heights moved no more than the holding's own movement inside a day, and no measurement was transferred between the two stands. | Entry and exit heights with the times, the week's print return for both holds, and the reason each pairing was proposed. |
-| **Breach** | It failed as a structure rather than as an argument, which is the whole of the resemblance the archive will support. | No co-presence on file. The comparison rests on the filing and is entered as unmeasured, which is the commonest honest entry on this holding. | The filing note, the reason no pairing has been sought, and the name of any officer who declines to seek one. |
-| **The Whispering Gallery** | It carries the memories of its former occupants; this holding does not — the windows contain no rooms and have returned nothing but light. | Observed at distance once. Entry and exit heights differed by less than the ordinary movement inside a day, and the pairing is recorded as unmeasured rather than as null or as a result. | The Gallery's row as filed, the entry and exit heights with times, and the print items issued that week. |
+| [**Breach**](SE-N-IVδ-339_Breach_무너진_벽.md) | It failed as a structure rather than as an argument, which is the whole of the resemblance the archive will support. | No co-presence on file. The comparison rests on the filing and is entered as unmeasured, which is the commonest honest entry on this holding. | The filing note, the reason no pairing has been sought, and the name of any officer who declines to seek one. |
+| [**The Whispering Gallery**](SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md) | It carries the memories of its former occupants. This holding does not — the windows contain no rooms and have returned nothing but light. | Observed at distance once. Entry and exit heights differed by less than the ordinary movement inside a day, and the pairing is recorded as unmeasured rather than as null or as a result. | The Gallery's row as filed, the entry and exit heights with times, and the print items issued that week. |
 
-**Interaction procedure:** Establish this holding alone first, with the district's printed matter for the same week collected alongside, because print is the variable and company is not. In shared conditions log the height at entry, at the first change and at exit; note whether the other structure's record returned a second time; and put the week's print return beside the measurement, so that a rise can be attributed to the nine items that named the corner rather than to the meeting. The other holding's own sorrow, and any resemblance between two removed structures, is filed as a reading and never as a finding.
+**Interaction procedure:** Establish this holding alone first, with the district's printed matter for the same week collected alongside, because print is the variable and company is not. In shared conditions log the height at entry, at the first change and at exit. Note whether the other structure's record returned a second time. And put the week's print return beside the measurement. So that a rise can be attributed to the nine items that named the corner rather than to the meeting. The other holding's own sorrow, and any resemblance between two removed structures, is filed as a reading and never as a finding.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -367,15 +368,15 @@ Some sorrows mourn a building. Absent Landmark mourns the orientation — the ha
 - The turning is habitual and is not to be corrected; the containment is to supply it with something to turn toward in print.
 **Observation Notes:**
 - A landmark collapsed and cleared; the district’s orientation persists.
-**Cross-References:** Old Lament · The Torn Tower · The Broken Clocktower
+**Cross-References:** Old Lament · The Torn Tower · The [Broken Clocktower](SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md)
 **Faction Involvement:** SED, on the D-territory survey whose standard now carries the absent-feature notation this holding forced into existence · UCD, on the Fray-adjacent reach of Zone B, where the line of the old street runs beneath four facility corridors.
 **Originator:** Citizens of a district that lost its landmark and went on giving directions by it for sixty years, whose written directions are held in the commissioning file.
 
 ### Registry Addendum
 
-**Operational interpretation:** The whole file reduces to one measurable thing: height above grade, taken against the bay datum at the start and at the end of a cycle, because a single reading is worthless on a holding that sinks and rises inside a session. What moves it is print. Eleven storeys came down at a junction and were cleared inside a fortnight with nobody hurt, and the district went on giving directions by it for sixty years; the entity is first recorded eleven years after the map edition that drew the junction correctly, and the commissioning file keeps three map editions on either side of the demolition. The picture turns on two numbers: forty-four printed items issued for the junction in 4238, of which nine named the tower and thirty-five drew it accurately and were silent, and the height series those nine carried — seven point one metres at the first measurement, four point two at the last. The approach record is the other half: Pugnahan costs height, climbing has never been sustained, and the window pattern never moves while the height does. Where the print return and this section disagree, the measurement is right, and the disagreement is preserved as evidence rather than normalised.
+**Operational interpretation:** The whole file reduces to one measurable thing: height above grade, taken against the bay datum at the start and at the end of a cycle, because a single reading is worthless on a holding that sinks and rises inside a session. What moves it is print. Eleven storeys came down at a junction and were cleared inside a fortnight with nobody hurt. And the district went on giving directions by it for sixty years. The entity is first recorded eleven years after the map edition that drew the junction correctly. And the commissioning file keeps three map editions on either side of the demolition. The picture turns on two numbers: forty-four printed items issued for the junction in 4238, of which nine named the tower and thirty-five drew it accurately and were silent. And the height series those nine carried — seven point one metres at the first measurement, four point two at the last. The approach record is the other half: Pugnahan costs height, climbing has never been sustained, and the window pattern never moves while the height does. Where the print return and this section disagree, the measurement is right, and the disagreement is preserved as evidence rather than normalised.
 
-**Review requirement:** Re-take the measurements before the next cycle and after any breach: exposed height against the bay datum at entry and at exit, direction of travel along the old street line, the window count and pattern, light from the buried floors, and the week's map, timetable and address-list issues for the district. Confirm the absent-feature notation is current on everything the facility prints for the junction, that nothing has been climbed since the last review, and that any rise is matched to a named item of print rather than to the holding's own mood. The Year 4238 timetable reissue belongs with the reissue and its written reprimand, not in a personnel file; the four Pugnahan attempts and the nine metres they cost justify the rule the file enforces. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-take the measurements before the next cycle and after any breach: exposed height against the bay datum at entry and at exit, direction of travel along the old street line, the window count and pattern, light from the buried floors. And the week's map, timetable and address-list issues for the district. Confirm the absent-feature notation is current on everything the facility prints for the junction, that nothing has been climbed since the last review, and that any rise is matched to a named item of print rather than to the holding's own mood. The Year 4238 timetable reissue belongs with the reissue and its written reprimand, not in a personnel file. The four Pugnahan attempts and the nine metres they cost justify the rule the file enforces.
 ## Trivia
 
 - It is taller in memories than in physical appearance.
@@ -385,11 +386,11 @@ Some sorrows mourn a building. Absent Landmark mourns the orientation — the ha
 
 ### Registry Trivia
 
-- **Classification detail:** Absent Landmark is a Subject with Residue (I) coherence and Minor (α) potency, and the minor grade is not a low hazard: the reading is height above grade, the only reliable marker is the window pattern, and the approach that reliably costs metres is the one the file forbids.
+- **Classification detail:** Absent Landmark is a Subject with Residue (I) coherence and Minor (α) potency. And the minor grade is not a low hazard: the reading is height above grade, the only reliable marker is the window pattern. And the approach that reliably costs metres is the one the file forbids.
 - **Field detail:** Element Void, registered to Zone B at Old Lament, where it walks the line of the old street and no other line. The reading is the exposed height above grade, which has ranged from eleven metres down to one and a half, and the height moves while the windows do not.
 - **Recognition detail:** Identify it by the windows. It is a tower-shaped figure standing in the ground as though it sank upright, ringed with windows that have no rooms behind them, and a faint light climbs from the buried floors. The height varies between observations; the window pattern does not and is the reliable marker.
-- **Record detail:** Check the designation before approach. The archive holds other records about places the city stopped using and they ask different things of personnel — the Torn Window requires that disused ground keep being walked, while this one requires only that a vanished corner keep being named in print, which costs nothing and has been refused for sixty years. The facility's own survey standard now carries the notation invented here, and nine other sites use it.
-- **Containment detail:** A contained entity is not dormant, and this one proves the rule without needing to move far: it walks four corridors under the line of a street built over sixty years ago, affects the orientation of anyone within about six metres, and takes the place names off printed matter in the room. The containment is print and has been since the standard was adopted; the height has not fallen below four metres since.
+- **Record detail:** Check the designation before approach. The archive holds other records about places the city stopped using and they ask different things of personnel — the Torn Window requires that disused ground keep being walked. While this one requires only that a vanished corner keep being named in print, which costs nothing and has been refused for sixty years. The facility's own survey standard now carries the notation invented here, and nine other sites use it.
+- **Containment detail:** A contained entity is not dormant. And this one proves the rule without needing to move far: it walks four corridors under the line of a street built over sixty years ago, affects the orientation of anyone within about six metres. And takes the place names off printed matter in the room. The containment is print and has been since the standard was adopted; the height has not fallen below four metres since.
 ## Document Information
 
 **Document ID:** SE-C-Iα-863

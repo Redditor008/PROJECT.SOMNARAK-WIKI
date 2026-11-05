@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-915 [WT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — Non-breaching: expansion only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Time-Weight |
-| **Physical Form** | Non-Organic — A work shift in the Zone D Forge District that never ends for the personnel assigned to it. They continue working — smelting, forging, shaping — for what feels like days, though only hours pass outside the affected area. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-915, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
@@ -27,10 +27,11 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Time |
 | **Primary pressure** | Weight / Weight pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle of elapsed time, which is not the figure the crew would give you. Measured against hours worked as the crew experienced them, the yield is between 2 and 4, and the energy office has never agreed to record it that way. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Activation threshold** | 3 |
+| **Work Damage** | 5–8 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a rotation relieved by the worker themselves. It resets to 20 s the moment the operator is out of the interval — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
@@ -44,64 +45,71 @@
 - Crews are relieved against the facility clock at the door and never against their own sense of elapsed time.
 - Extraction is separately authorised and is costed in subjective hours rather than in elapsed ones, which is the only line in the Armoury's ledger that uses the crew's own clock.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight. There is nothing in the sector to strike; the figure is carried from the schedule and the station has asked twice for the subjective-hour column to replace it. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 472/472 |
-| **Han Pressure [ATK]** | 14–23 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-915 |
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across **six doses** of 20 s, entered — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **120 s** — six doses, and at 120 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+entered on a 20-second clock, so the six come to **120 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the escalation note says it in as many words: there is nothing in the sector to strike. The holding is an hour that runs heavier than the clock, and the whole of the work is a sealed timepiece and a handover taken at the door.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A rostered shift in the Zone D Forge District that does not end for the crew on it. There is no body, no apparition and no sound. The crew works correctly, the clock on the wall is removed, and the hour the worker believes they have worked stops agreeing with the hour the station is paying for. |
+| **Perceptible to** | The sealed timepiece, and nothing else that can be trusted. The first sign is that a worker stops looking at the clock — in 611 shifts, on every worker, without exception — and after that the only reading that survives is the pair of timepieces read aloud at the door. |
+| **Handling** | Timepieces sealed at the door by the relief warden, who also writes the hour. Relief taken in person at the door with both timepieces read aloud. No unsealed clock carried in and none on the sector's walls. A worker who states their elapsed time aloud has made it worse for everybody in earshot. — see `## Handling Process` |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 120 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-C-915, contained |
 | **Resolution Condition** | The rostered hour elapses and the crew leaves. 611 shifts; the elapsed hour has never varied by a second and the subjective span has run from four hours to just under nine. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "You have been here a while. The clock on the wall disagrees and you stop looking at it." | [Subjective time begins outrunning elapsed time within the first minutes.] | *10 Weight. Every worker, every shift, without exception in 611.* **[10 Weight DMG [Weight]]** | On entry. |
-| { *The Weight Surge* [**Attack**] } | "Somebody says how long they have been on, and they are wrong, and they are certain." | [A worker states their own elapsed time aloud and the error compounds for everyone who heard it.] | *18 Weight to everybody in the sector.* **[18 Weight DMG [Weight]]** | When elapsed time is discussed inside the boundary. Prohibited for this reason. |
-| { *The Settling* [**Attack**] } | "The shift does not end. The relief arrives and you keep working, and it seems correct." | [A worker fails to leave at the end of the rostered hour and does not register the handover.] | *26 Weight. Nine occurrences; the longest was eleven elapsed hours and the worker reported it as a long day.* **[26 Weight DMG [Weight]]** | When relief is not taken at the door. |
-| { *The Weight Collapse* [**Ultimate**] } | "Every crew in the wing works through their relief at the same moment and none of them notices." | [The subjective span propagates to adjacent sectors.] | *20 Weight per cycle for three cycles to everybody on shift.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, twice, both during quarters when the wing was short-handed. |
+### Contact Events
 
-### Battle Phases
+| Event | What the hour does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Begins outrunning the clock within the first minutes of every shift, so that the worker has been here a while and the clock on the wall disagrees and gets looked at less and less. | Seals the crew's timepieces at the door and records the hour before anybody steps in, with an outside warden holding the sealed pair. | It happens to every worker on every shift, all 611 of them, which is why the sealed timepiece exists and the worker's own sense of the hour is entered as an account rather than a reading. |
+| { *The Weight Surge* [**Exposure**] } | Compounds the error the moment a worker states their elapsed time aloud: the figure is wrong, they are certain of it, and everybody who heard it now carries it too. | Forbids the subject, and treats a worker who discusses time inside the boundary as having contaminated the room rather than having made a mistake. | Discussing elapsed time inside the boundary is prohibited for exactly this reason. The row is not about the telling; it is about the hour being wrong in a voice the crew trusts. |
+| { *The Settling* [**Attachment**] } | Runs on past the rostered hour for a worker whose relief was not taken at the door. They do not stop working, they do not register the handover, and they report afterwards that they were relieved on time. | Takes relief in person, by name, at the door — an outside extraction crew collects workers individually and is forbidden from picking up a tool or helping with a task inside. | Nine occurrences, the longest eleven elapsed hours, and the worker's own account of it afterwards was a long day. All nine were failures of the handover and not of anything the sector did. |
+| { *The Weight Collapse* [**Overload**] } | Carries the subjective span into adjacent sectors at sixty-five per cent, so that every crew in the wing works through their relief at the same moment and none of them notices. | Reconciles the sealed readings against the station log and the foreman's register afterwards, by name, and enters the hours retrospectively. | Recorded twice, both during quarters when the wing was short-handed — which is the only condition under which the handover at the door was skipped. The station has reconciled 94 hours from sealed readings alone. |
 
-1. **Tension:** The crew's timepieces are sealed at the door by the relief warden, who also records the hour. Nobody carries an unsealed clock inside and the sector has none on its walls.
-2. **Clash:** None. There is a sector in which time is heavier than it should be and a crew working a rostered hour in it; the row is retained because the form requires one.
-3. **Resolution:** Relief is taken at the door, in person, with both timepieces read aloud. The handover is the containment measure and the nine failures are all failures of the handover rather than of anything the sector did. It closes against the documented suppression condition: **Relief is taken at the door, in person, with both timepieces read aloud**.
+### Watch Sequence
+
+1. **What is confirmed:** the sealed timepieces and the hour written at the door, the names on the relief roster, and the foreman's register open beside the station log for the reconciliation afterwards.
+2. **What the watch does:** Viderehan to make the weight legible and Ferrehan to sit the hour at the marked distance, with the crew carrying no unsealed clock, nobody stating their elapsed time aloud, and relief taken in person at the door by an outside warden.
+3. **How it closes:** **Relief is taken at the door, in person, with both timepieces read aloud** — and the rostered hour has elapsed on every one of 611 shifts without varying by a second. So a shift that closed on the crew's own account of the hour is entered as unclosed.
 
 ### Consequences
 
 - A worker who cannot hold does not panic and does not stop working. They keep working, correctly and to standard, past the point at which they should have been relieved, and they are certain afterwards that they were relieved on time.
 - Prolonged exposure produces physical exhaustion out of all proportion to the hours on the station log, and the exhaustion is genuine: it is what a body looks like after the hours the worker actually worked.
-- The Endless Shift equipment lends the bearer the capacity to work far past their own endurance without noticing, and charges for it in the manner recorded in the equipment section: the bearer's sense of how long anything has taken stops being usable, permanently, in and out of the district.
+- The Endless Shift equipment lends the bearer the capacity to work far past their own endurance without noticing. And charges for it in the manner recorded in the equipment section: the bearer's sense of how long anything has taken stops being usable, permanently, in and out of the district.
 
 ## Appearance
 
 **Primary Form:** A work shift in the Zone D Forge District that never ends for the personnel assigned to it. They continue working — smelting, forging, shaping — for what feels like days, though only hours pass outside the affected area.
 
 **Notable Features:**
-- Expresses Weight pressure in a weight register.
+- The only physical trace it leaves is tool wear: hammers and files worn disproportionately to the hours on the log, on a shop floor that otherwise looks like the district's own.
 - The forge looks and sounds ordinary. Identify the affected shift by its surveyed painted boundary, sealed timepiece and independent registers, then compare reported subjective hours with elapsed time after exit. The familiar workplace is not a visible creature or a self-identifying temporal effect.
 - Confirm the painted boundary line, the sealed timepiece, the station log entry and the foreman's register entry before entry. There is no visible phenomenon to identify. The holding is identified by paperwork, which the briefing states as a hazard in itself.
 
@@ -120,7 +128,7 @@
 | **Form** | A work shift in the Zone D Forge District that never ends for the personnel assigned to it. They continue working — smelting, forging, shaping — for what feels like days, though only hours pass outside the affected area. |
 | **Position / movement** | A fixed district of the Zone D Forge, bounded by a painted line fixed by survey and not adjusted since, including on the two occasions when the measured effect was found slightly inside it. It does not move. |
 | **Material / signature** | Nothing visible, nothing audible, nothing registering on any instrument carried in. Weight expression. The signature is a ratio: subjective hours against elapsed hours, taken at the boundary on exit, which has never been below three to one and has never exceeded eleven to one. |
-| **Distinctive markers** | Workers who complete a full rotation and are relieved by themselves; exhaustion disproportionate to the log; and the tool wear, which is the only physical trace this holding leaves anywhere and is discussed in the first section below. |
+| **Distinctive markers** | Workers who complete a full rotation and are relieved by themselves. Exhaustion disproportionate to the log; and the tool wear, which is the only physical trace this holding leaves anywhere and is discussed in the first section below. |
 | **Identification** | Confirm designation `C-IVδ-915 [WT]`, Entity (IV) coherence, Critical (δ) potency, Time-Weight manifestation, Weight element, SECTOR-C-915. Identification is by boundary survey and station clock. Nobody identifies this holding from inside it. |
 
 **Temporal footprint:** This Time manifestation has no separate body to stand beside the furnaces. The workers, tools and correctly finished metal are the ordinary subjects through which its excess labour is measured, not limbs of a forge-creature. Keep the surveyed line separate from the measured influence: the two conservative inside-line findings do not justify moving the paint, and an adjacent-sector expansion is not bodily locomotion. Compare exposure, tool wear, output and the outside clock without treating a worn hammer as the entity’s destructible vessel.
@@ -133,35 +141,32 @@ The sorrow here is specific and is not the ambient Weight that saturates the cit
 
 It does not rage and does not weep. It persists, and the persistence is the whole mechanism: a shift that will not end, in a district whose output the facility requires.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the weight pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+> **This holding is not worked.** A rostered shift in the Zone D Forge District that does not end for the crew on it. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the sealed timepieces and the hour written at the door, the names on the relief roster, and the foreman's register open beside the station log for the reconciliation afterwards. |
+| **Handling** | The observer is to make the weight legible and the stander is to sit the hour at the marked distance, with the crew carrying no unsealed clock, nobody stating their elapsed time aloud, and relief taken in person at the door by an outside warden. |
+| **Withdrawal** | **Relief is taken at the door, in person, with both timepieces read aloud** — and the rostered hour has elapsed on every one of 611 shifts without varying by a second. So a shift that closed on the crew's own account of the hour is entered as unclosed. |
+| **Refusal** | Timepieces sealed at the door by the relief warden, who also writes the hour. Relief taken in person at the door with both timepieces read aloud. No unsealed clock carried in and none on the sector's walls. A worker who states their elapsed time aloud has made it worse for everybody in earshot. |
 
-Endless Shift is a Time holding with Time-Weight manifestation and Weight expression at SECTOR-C-915. Flerehan and Pugnahan are unavailable. Both valid Work Types shorten the subjective span without altering the elapsed duration, and no cycle in the holding's history has produced a handover. The district's output is needed, the work proceeds correctly, and that is the difficulty rather than the reassurance.
+## Expansion Behavior
 
-## Breach Behavior
-
-> *"Endless Shift has broken free. The weight weight spreads."*
+> *"Endless Shift is running long. It goes by the shift a person believes they have worked, not by the roster. Anybody who thinks they are due relief is already standing inside it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The entity's weight influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Weight pressure radiates — the weight register makes it personal, targeted, unavoidable. |
-| **First Target** | Whoever has been on longest, by their own reckoning rather than by the roster. It has never selected by seniority, posting or proximity in 611 shifts. |
-| **Escalation** | +5 Weight drain per cycle while a worker remains past relief. It does not pursue and does not spread to anybody who has left; stepping through the door ends it within the minute. |
+| **Expansion Trigger** | Three ignored conditions, and the first of them happens on every shift: within the first minutes the hour begins outrunning the clock, and the worker stops looking at it. Nothing announces the start. |
+| **Expansion Rate** | Nothing is added to the sector and nothing leaves it. The span lengthens inside the same four walls while the elapsed hour does not move at all — 611 shifts, never a second's variance, with the subjective span running from four hours to just under nine. |
+| **Expansion Effect** | Weight in the time register: the shift gets longer, the worker keeps working correctly, and the error compounds out loud whenever somebody states their elapsed time to somebody who believes them. |
+| **Containment** | Relief taken in person at the door with both timepieces read aloud, the sealed pair reconciled against the station log and the foreman's register, and an outside extraction crew collecting workers by name and taking up no tool inside. |
 
 ### Escalation Notes
 
-- **Containment priority:** Take relief in person at the door and reconcile the sealed timepieces with the station log and foreman’s register. An outside extraction crew collects workers by name and must not help with any task or pick up a tool inside; there is nothing in the sector to strike.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% for each hour worked in the wing beyond a rostered shift without being entered on a timesheet. It falls 10% for each such hour entered retrospectively, which the station has done 94 times from the sealed readings alone.
+- **Containment priority:** Take relief in person at the door and reconcile the sealed timepieces with the station log and foreman’s register. An outside extraction crew collects workers by name and must not help with any task or pick up a tool inside. There is nothing in the sector to strike.
+- **Sorrow Gauge on expansion:** Starts at 40% and rises 10% for each hour worked in the wing beyond a rostered shift without being entered on a timesheet. It falls 10% for each such hour entered retrospectively, which the station has done 94 times from the sealed readings alone.
 
 ## M.A.W. Equipment
 
@@ -171,13 +176,13 @@ Endless Shift is a Time holding with Time-Weight manifestation and Weight expres
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-Appearance : A curved naval hanger with a broad twenty-eight inch single-edged blade showing deep rust pitting, protected by an ornate pierced brass basket hilt lined with sharkskin.
+**Appearance:** A curved naval hanger with a broad twenty-eight inch single-edged blade showing deep rust pitting, protected by an ornate pierced brass basket hilt lined with sharkskin.
 
 Despite its corroded appearance, the cutting edge is polished to razor sharpness. The cutlass thrives in close-quarters skirmishing, deflecting enemy blows easily with its sturdy basket.
 
 **Damage:** Weight 11–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Weight against the Han. Struck targets lose their sense of how long the engagement lasted and will defend a figure that is out by half, which has twice complicated an incident report into uselessness.
-**Cost:** The wielder experiences chronic fatigue in the dominant hand with each use.
+**Bearer cost:** The wielder's own account of how long the shift lasted is out by half, and the cutlass does not say in which direction.
 
 ### M.A.W. Suit — Endless Shift's Veil
 
@@ -199,9 +204,10 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles, which is to say during one rostered hour that will not feel like one
 **Ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
+**Bearer cost:** The Token adds every finished task to the shoulders: worn, the bearer is bent under a list that only grows, and rest does not shorten it.
 *The Shift's Stigma is not manufactured and cannot be requisitioned. It has been conferred six times, in every case on an extraction crew member who was asked for help inside the district and refused.*
 
-**Equipment and clock:** The Veil’s turning shoulder gears and the Token’s impossible stamped hour are equipment markers, not visible anatomy of the Time holding. The exact linked Edge records dominant-hand fatigue, the Veil shoulder fatigue, and the Token an increasing invisible load near unresolved debt; continued use makes source sorrow feel autobiographical. Keep these costs beside, not instead of, the local set-wide loss of usable time arithmetic. The named Edge and crystal-reticle archetype do not establish a transformation from the local naval Cutlass. Their unresolved form gives no authority to substitute Corrosion Dream’s same-suffix equipment.
+**Equipment and clock:** The Veil’s turning shoulder gears and the Token’s impossible stamped hour are equipment markers, not visible anatomy of the Time holding. The exact linked Edge records the shift lengthening by an hour per blow, the Veil putting the wearer on shift permanently, and the Token adding each finished task to a list that only grows. Keep these costs beside, not instead of, the local set-wide loss of usable time arithmetic. The named Edge and crystal-reticle archetype do not establish a transformation from the local naval Cutlass. Their unresolved form gives no authority to substitute Corrosion Dream’s same-suffix equipment.
 
 ### M.A.W. Use Notes
 
@@ -211,12 +217,12 @@ Each piece is an extension of labour that was performed and never recorded, and 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator and grade; gauge; the operator's own state in their words; piece condition; objective; the sealed timepiece set and witnessed at the boundary; the station log entry; and the foreman's independent register entry, which is reconciled against the station log at the end of the working period. |
+| **Before use** | Operator and grade. Gauge; the operator's own state in their words. Piece condition; objective; the sealed timepiece set and witnessed at the boundary. The station log entry; and the foreman's independent register entry, which is reconciled against the station log at the end of the working period. |
 | **During use** | Elapsed time from the station clock only, the operator's self-reported subjective span taken at intervals from outside, output against the piece count, and the first cost. |
 | **At limit** | The wielder's stated hours and the sealed reading differ by more than half. Both over-runs reached this, and in both the wielder argued for the lower figure. |
 | **After use** | Read the sealed timepiece against the timesheet, enter the true hours, and have the wielder sign the corrected figure. Four hundred and eleven hours have been recovered onto timesheets this way, all of them already worked. |
 
-**Full-set source review (2026-10-13):** Reviewed the overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, and other M.A.W. statements against exact `SE-1041-A` for `C-IVδ-915 [WT]`, items `SE-1041-B/C/D`, Master Registry rows 326–329, the Master M.A.W. and Entity Codices, the Tale index, and archetype records `MAW-W-915` and `MAW-W-1041`. No `Stat interpretation` heading is present. The existing `— · δ` overview is supported by the three local pieces and exact Side set; no Tool type was inferred. Local Weapon values Weight 11–19, Normal 2, Short 2, maximum 4, and 25 Echoes agree with Side A and item B; the primary does not specify pattern/coverage, so Side/item `Single` was not backfilled. The identity/form remains held: the local *Corrosion Cutlass* and curved naval-hanger appearance match the separate `MAW-W-915` entry and `SE-915` Corrosion Dream record (`O-IIIγ-915 [VS]`), while this exact `C-IVδ-915 [WT]` join is `SE-1041` and its linked Weapon is *Endless Shift's Edge* (`MAW-W-1041-01`). The selected item has no standalone Appearance or transition section; the separate `MAW-W-1041` archetype row describes a crystal-reticle projector / Long, so neither the repeated suffix/title nor the shared numeric code stem resolves the form. Master M.A.W. row 616 and detailed Entry 616 (*The Corrosion Cutlass* / *The Rusted Lens*) belong to Corrosion Dream, not this source. The local Suit resistances/cost and Head / 5% / +1 Stigma agree with the exact Side/items. Side A leaves its Subject and formation event `Not recorded`; the Entity Codex has no row for this designation and the Tale index has no exact `C-IVδ-915` entry. No primary value changed; the Weapon identity and physical-form conflicts remain holds.
+**Full-set source review (Year 4232):** Reviewed the overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, and other M.A.W. statements against exact `SE-1041-A` for `C-IVδ-915 [WT]`, items `SE-1041-B/C/D`, Master Registry rows 326–329, the Master M.A.W. and Entity Codices, the Tale index, and archetype records `MAW-W-915` and `MAW-W-1041`. No `Stat interpretation` heading is present. The existing `— · δ` overview is supported by the three local pieces and exact Side set; no Tool type was inferred. Local Weapon values Weight 11–19, Normal 2, Short 2, maximum 4, and 25 Echoes agree with Side A and item B. The primary does not specify pattern/coverage, so Side/item `Single` was not backfilled. The identity/form remains held: the local *Corrosion Cutlass* and curved naval-hanger appearance match the separate `MAW-W-915` entry and `SE-915` Corrosion Dream record (`O-IIIγ-915 [VS]`), while this exact `C-IVδ-915 [WT]` join is `SE-1041` and its linked Weapon is *Endless Shift's Edge* (`MAW-W-1041-01`). The selected item has no standalone Appearance or transition section. The separate `MAW-W-1041` archetype row describes a crystal-reticle projector / Long, so neither the repeated suffix/title nor the shared numeric code stem resolves the form. Master M.A.W. row 616 and detailed Entry 616 (*The Corrosion Cutlass* / *The Rusted Lens*) belong to Corrosion Dream, not this source. The local Suit resistances/cost and Head / 5% / +1 Stigma agree with the exact Side/items. Side A leaves its Subject and formation event `Not recorded`. The Entity Codex has no row for this designation and the Tale index has no exact `C-IVδ-915` entry. No primary value changed; the Weapon identity and physical-form conflicts remain holds.
 
 ## 관찰 기록 (Observation Log)
 
@@ -224,8 +230,8 @@ Each piece is an extension of labour that was performed and never recorded, and 
 
 **Key Observations:**
 - Weight signature recorded at SECTOR-C-915; subjective-to-elapsed ratios logged at the boundary on every exit since the district was identified.
-- Both usable Work Types lower the gauge and neither shortens the subjective span, which no action on record has ever shortened.
-- Contact runs through the weight register and is dosed by presence in the district. There is no gradient, no near field and no safe distance inside the line; a worker two paces past the paint is in the shift exactly as much as one at the furnace.
+- Viderehan raises the gauge; Ferrehan lowers it. Neither shortens the subjective span, which no action on record has ever shortened.
+- Contact runs through the weight register and is dosed by presence in the district. There is no gradient, no near field and no safe distance inside the line. A worker two paces past the paint is in the shift exactly as much as one at the furnace.
 
 **Personnel Note:**
 
@@ -272,11 +278,11 @@ The sector has never been worked with a second holding posted alongside it. Ever
 
 | What shares the roster | How the pairing has run | What the sector entered | What the log retains |
 |---|---|---|---|
-| **Breathing Stone** `C-IVδ-907` | Filed together on a rate that will not be argued with. That record holds one breath a minute and has never varied; this one holds a sixty-minute hour that runs from four hours to just under nine. | The two series were set side by side once and shared nothing but their precision, which the review noted and moved past. | That the two are compared on precision alone, with the note standing beside the row each time it is read. |
+| **Breathing Stone** `C-IVδ-907` | Filed together on a rate that will not be argued with. That record holds one breath a minute and has never varied. This one holds a sixty-minute hour that runs from four hours to just under nine. | The two series were set side by side once and shared nothing but their precision, which the review noted and moved past. | That the two are compared on precision alone, with the note standing beside the row each time it is read. |
 | **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Grouped on interiors that hold people past their term. That record keeps a walker past the room count; this one keeps a crew past its hour. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement, entered beside the row on each repetition. |
 | **Ninety Seconds** `C-IVδ-918` | Grouped on loops: a thought that comes back, an hour that comes back. Both holdings put a person through the same interval twice and neither can say why. | One review entry; the loop counts were compared across 2 quarters and diverged at the first mark. | That the divergence is the finding, kept un-smoothed in the review's own numbers. |
 
-**Interaction procedure:** Observe separately, always, and record distance, duration, the trigger, both readings and whatever outlasts separation. No co-presence trial is authorised on this holding; the comparisons stay on paper at the annual review, with the shift's two timepieces and the other record's series kept in separate columns.
+**Interaction procedure:** Observe separately, always, and record distance, duration, the trigger, both readings and whatever outlasts separation. No co-presence trial is authorised on this holding. The comparisons stay on paper at the annual review, with the shift's two timepieces and the other record's series kept in separate columns.
 
 
 ## 이야기 (Narratio) — The Tale
@@ -285,7 +291,7 @@ The inspector's two accounts are kept together because the floor's archivist arg
 
 What the holding does is not an illusion and this is the single most important sentence in the file. The hours are worked. The metal is moved. The tools wear. The three sections below set out how that was established, what the law makes of it, and what the facility did once it knew.
 
-It does not rage and does not weep, and it does not hold anybody. Every worker in the district may walk out across the painted line at any moment, and the reason they do not is that they are not tired, and the reason they are not tired is that the tiredness is waiting on the other side of the line for them.
+It does not rage and does not weep, and it does not hold anybody. Every worker in the district may walk out across the painted line at any moment. And the reason they do not is that they are not tired. And the reason they are not tired is that the tiredness is waiting on the other side of the line for them.
 
 Endless Shift is not the loudest holding in Somnarak and it is the most expensive. It takes nothing, breaks nothing, and kills nobody. What it does is produce labour that the agreed instrument does not measure, in a district the facility has since made larger.
 
@@ -310,7 +316,7 @@ Endless Shift is not the loudest holding in Somnarak and it is the most expensiv
 **Threat Assessment:** Critical (δ), carried for the span rather than for any injury. Fifty-one years, 611 shifts, nine failures to take relief, no fatalities — and 411 hours of unrecorded labour recovered onto timesheets from sealed readings.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types. Both lower the gauge; neither has ever shortened the subjective span or altered the elapsed hour.
+- Viderehan and Ferrehan are the valid Work Types. Viderehan raises the gauge and Ferrehan lowers it; neither has ever shortened the subjective span or altered the elapsed hour.
 - Flerehan and Pugnahan are unavailable to a Time holding and are not to be improvised.
 - Monitor by sealed timepiece, station log, foreman's independent register and the boundary reconciliation. Do not monitor by anybody's judgement of elapsed time, including the warden's.
 
@@ -320,7 +326,7 @@ Endless Shift is not the loudest holding in Somnarak and it is the most expensiv
 
 **Operational interpretation:** The three sections below are one argument. The subjective hours are real labour: people come out of a rostered hour having worked four, and the wing pays them for one. The sealed timepiece was introduced to prove the discrepancy and it did; the Apex Record's objection is what the wing did with the proof. Nothing in this file suggests the sector can be changed. The 411 recovered hours were recovered on paper, after the fact, by a station that cannot shorten a single shift and can at least make the ledger say what happened.
 
-**Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the boundary survey, the subjective-to-elapsed ratios, the tool-wear series, the district headcount, and the standing of the conversion proposal, which is to be reported as outstanding for as long as it is outstanding.
+**Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the boundary survey, the subjective-to-elapsed ratios, the tool-wear series, the district headcount. And the standing of the conversion proposal, which is to be reported as outstanding for as long as it is outstanding.
 
 ## Apex Record
 
@@ -334,7 +340,7 @@ Rostered time in the district is set well below what the work would otherwise re
 
 ### The Forge That Does Not Stop
 
-Work continues in the district because the district's output is needed and because the entity does not prevent it — the smelting, the forging, and the shaping all proceed, correctly and to standard, for as long as anyone is willing to remain. This is the difficulty rather than the reassurance. A hazard that halted production would be removed from the schedule by the schedule's own logic; one that improves on the hours worked will be defended by people who do not know what it is. The district's foremen are briefed personally by the commander rather than through the ordinary notice system, and the briefing is repeated annually whether or not the foremen have changed.
+Work continues in the district because the district's output is needed and because the entity does not prevent it — the smelting, the forging, and the shaping all proceed, correctly and to standard, for as long as anyone is willing to remain. This is the difficulty rather than the reassurance. A hazard that halted production would be removed from the schedule by the schedule's own logic. One that improves on the hours worked will be defended by people who do not know what it is. The district's foremen are briefed personally by the commander rather than through the ordinary notice system, and the briefing is repeated annually whether or not the foremen have changed.
 
 ### Withdrawal
 
@@ -342,7 +348,7 @@ Extraction is performed by a crew from outside the district who do not work whil
 
 ### The Accumulated Hours
 
-Subjective hours are logged, by self-report, against the elapsed figure from the station clock. The series has no operational use and the file says so. It is maintained because the difference between what a person worked and what the record says they worked is the whole of what the entity does to them, and because the wing concluded that a worker who has lost days inside hours is entitled to have the loss written down somewhere official even if nothing can be done about it. The log is theirs to request at any time. A standing instruction requires that the request be met within the shift.
+Subjective hours are logged, by self-report, against the elapsed figure from the station clock. The series has no operational use and the file says so. It is maintained because the difference between what a person worked and what the record says they worked is the whole of what the entity does to them. And because the wing concluded that a worker who has lost days inside hours is entitled to have the loss written down somewhere official even if nothing can be done about it. The log is theirs to request at any time. A standing instruction requires that the request be met within the shift.
 
 ### The Boundary Marking
 
@@ -360,7 +366,7 @@ The tools proved it.
 
 A hammer face wears by strikes. So does a swage block, a tong jaw, a crucible lining. None of them wears by the clock, and none of them can be persuaded of anything. In the forty-sixth year the floor's metallurgist began measuring the district's tooling against identical tooling in two forges outside the line, matched for work type, output and operator skill.
 
-**The district's tools wear at the subjective rate.** Not at the elapsed rate, not at some intermediate figure, and not within any margin that could be argued about: a hammer logged as having worked four hundred elapsed hours in the district shows the face of a hammer that has worked three thousand. Across eleven years and four hundred and six matched tool pairs, the wear ratio and the subjective-to-elapsed ratio track each other at 0.94.
+**The district's tools wear at the subjective rate.** Not at the elapsed rate, not at some intermediate figure. And not within any margin that could be argued about: a hammer logged as having worked four hundred elapsed hours in the district shows the face of a hammer that has worked three thousand. Across eleven years and four hundred and six matched tool pairs, the wear ratio and the subjective-to-elapsed ratio track each other at 0.94.
 
 Two controls close it. Identical tools stored inside the district and never used show no excess wear whatever, so this is not ambient decay and not a property of the air. And consumables tell the same story from the other end: coke, flux and quenching oil are drawn at the subjective rate, which the district's stores clerk had been querying for nine years and filing under wastage.
 
@@ -378,7 +384,7 @@ So the question is not whether the labour occurred. Counsel accepts that it did,
 
 Counsel states the consequence in a single sentence the file prints in bold: **the subjective hours are not unpaid hours; they are not hours.**
 
-There is a final paragraph counsel marks as not legal advice. It observes that the analysis would be identical if the ratio were a hundred to one, that nothing in the law supplies a point at which the measure becomes unconscionable, and that the commander might wish to consider that the protection in this district is entirely a matter of what the facility chooses to roster rather than of anything a worker could enforce.
+There is a final paragraph counsel marks as not legal advice. It observes that the analysis would be identical if the ratio were a hundred to one, that nothing in the law supplies a point at which the measure becomes unconscionable. And that the commander might wish to consider that the protection in this district is entirely a matter of what the facility chooses to roster rather than of anything a worker could enforce.
 
 ### Sixty to Two Hundred and Eleven
 
@@ -390,9 +396,9 @@ The throughput case is unanswerable on its own terms. Output per paid hour in th
 
 **District headcount went from sixty to two hundred and eleven.**
 
-The objection is minuted at the forty-ninth review and at each of the five since, raised by the Zone D commander and supported by the floor's metallurgist and by two of the four foremen. It holds, first, that every protection on this holding is framed per person, that the consolidation left all of them intact, and that the harm is per person *exposed* — so the facility satisfied every safeguard it had written and tripled the quantity of the thing the safeguards exist to limit, without any provision anywhere being breached or even strained. Second, that the tool-wear series is the facility's own proof that the labour is real, and that it has been used once, in the consolidation paper, as evidence of throughput, and has never been put before anybody considering what the district's workers are paid. Third, that the Accumulated Hours log exists, in the wing's own words, so that a worker who has lost days inside hours can have the loss written down somewhere official — and that the log now appears as an appendix to the consolidation submission, where it functions as a productivity exhibit.
+The objection is minuted at the forty-ninth review and at each of the five since, raised by the Zone D commander and supported by the floor's metallurgist and by two of the four foremen. It holds, first, that every protection on this holding is framed per person, that the consolidation left all of them intact. And that the harm is per person *exposed* — so the facility satisfied every safeguard it had written and tripled the quantity of the thing the safeguards exist to limit, without any provision anywhere being breached or even strained. Second, that the tool-wear series is the facility's own proof that the labour is real, and that it has been used once, in the consolidation paper, as evidence of throughput, and has never been put before anybody considering what the district's workers are paid. Third, that the Accumulated Hours log exists, in the wing's own words. So that a worker who has lost days inside hours can have the loss written down somewhere official — and that the log now appears as an appendix to the consolidation submission, where it functions as a productivity exhibit.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the fiftieth year — a negotiated conversion of subjective hours to paid hours, at a rate the actuaries put at one to two point four — and that the cost was found to be a little under a tenth of the wing's annual establishment. It was not adopted. The minute does not say it was rejected; it says the item was carried forward, and it has been carried forward in every annual minute since, eleven times, in the same words.
+The minute agrees on all three parts and enters the objection as read into the record rather than summarised. It records that a remedy was costed in the fiftieth year — a negotiated conversion of subjective hours to paid hours, at a rate the actuaries put at one to two point four — and that the cost was found to be a little under a tenth of the wing's annual establishment. It was not adopted. The minute does not say it was rejected. It says the item was carried forward, and it has been carried forward in every annual minute since, eleven times, in the same words.
 
 *They worked the hours and the hammers can prove it, and the hours are not hours, and we read that opinion and then we sent a hundred and fifty more people in.*
 

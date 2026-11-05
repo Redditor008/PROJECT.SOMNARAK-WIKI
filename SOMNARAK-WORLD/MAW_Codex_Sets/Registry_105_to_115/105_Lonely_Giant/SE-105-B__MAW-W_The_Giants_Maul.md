@@ -90,14 +90,3 @@ Harin used *Shared Lift* to stabilize a collapsing Zone D transit support while 
 With the Giant’s Mantle and Ring, the Maul forms *Enough Space*. The set grants force only when strength remains shared, bounded, and allowed to rest.
 
 > *“A heavy weapon that has no ending is only another way to ask a person to break.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-105-B`  
-**Linked Entity:** `SE-105`  
-**Item Registry Code:** `MAW-W-105-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

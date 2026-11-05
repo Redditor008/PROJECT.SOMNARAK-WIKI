@@ -68,7 +68,7 @@ Complete final primary read in document order after actual five validators; fing
   ],
   "sources": [
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "scope": "Clarify current envelope versus humans/frost/aftermath; correct inert-husk return to envelope-specific grey ash; distinguish decision from physical trigger; remove uncorroborated hostile element-stripping assertion; disambiguate numbered protocol rows from multiple uses.",
   "reasoning": "Entire389-line original including embedded Tale and all relic/equipment sections read. Object-Lament A-Relic, soot pulp paper/indigo wax and stationary local frost fit undelivered apology. Stationary does not prohibit trembling; thermal field is not locomotion. Current seal remains unbroken, yet generic LogAndMethod calls repeat uses and physical return mineral/metal instead of specified ash. Source currently claims fixed surface -3.2C while Bell condition below-5C lacks a transition or distinct measurement context.",
@@ -87,7 +87,7 @@ Complete final primary read in document order after actual five validators; fing
   "after_words": 4725,
   "source_hashes": {
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

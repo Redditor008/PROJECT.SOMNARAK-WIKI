@@ -19,10 +19,10 @@ The Stall formed from the grief of merchants whose livelihoods vanished as the c
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIα-062 [VO] |
-| Type / Manifestation | Object/Place — Can breach via Transform; appears and disappears / Object-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only; appears and disappears / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats appearing overnight / Minor (α) — Low danger |
 | Element / Location | Void / Zone B, Forgotten Market — mobile manifestation |
-| Gauge / Pressure | 184/184; starts 25–40% / 2–8 per hit · Void |
+| Gauge / Pressure | 000/184; starts 000% / 2–8 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost. |
 
@@ -30,17 +30,17 @@ The Stall formed from the grief of merchants whose livelihoods vanished as the c
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Goods reveal hidden histories and former owners. (Stable) |
 | Ferrehan | Offers increasingly tempting goods; resisting tests the worker. (Decrease) |
 
 **Trigger:** Nightfall in the Forgotten Market and concentrated nostalgia or grief.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1006 -->
+**Resolution:** Viderehan and Ferrehan only, worked from the public side of the table; copy the labels and take nothing up. End the watch at dawn, enter the bearing from the market gate to the nearest metre, and log the stock at first sight and at the close. A purchase — coin, button or memory — ends the cycle, and the buyer is entered. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Night Peddler Source-Trace*
 
-During the The Night Peddler Source-Trace, the field team preserved this source fact: The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The loss of commerce, community, and the ordinary exchanges that made a life feel real.
+During *The Night Peddler Source-Trace*, the field team preserved this source fact: The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The loss of commerce, community, and the ordinary exchanges that made a life feel real.
 
 ## M.A.W. SET — *Night Peddler — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Night Peddler Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Night Peddler's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Night Peddler's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1006-A`  
-**Linked Entity:** `SE-1006`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Night Peddler's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: viderehan and Ferrehan only, worked from the public side of the table; copy the labels and take nothing up. End the watch at dawn, enter the bearing from the market gate to the nearest metre, and log the stock at first sight and at the close. A purchase — coin, button or memory — ends the cycle, and the buyer is entered. The gauge opens at 000% of its 000/184 meter, and 2–8 per landed Void hit. The set cannot heal the originating event. Misuse routes Night Peddler's wound through the operator and triggers the recorded escalation.

@@ -90,14 +90,3 @@ Hanul Grey deployed the Lens during a Void resonance incident that had made thre
 The Cold Lens is the cutting edge of *Proof of Warmth*. Cold Veil protects the bearer against Void; Cold Heart blocks manipulation entirely; the Lens exists to preserve the difference between hostile influence and real feeling.
 
 > *“We record every memory it takes. The record is not a refund; it is evidence that no one gets to call the cost negligible.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-103-B`  
-**Linked Entity:** `SE-103`  
-**Item Registry Code:** `MAW-W-103-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

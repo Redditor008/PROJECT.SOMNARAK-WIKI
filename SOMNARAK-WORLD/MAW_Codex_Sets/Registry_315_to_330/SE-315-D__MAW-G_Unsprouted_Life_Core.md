@@ -14,6 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
+**Maximum Amount:** 2 — Limited
 A cool Lament Han-crystal Tail core containing root-light but no seed. Unsprouted Life granted it after a worker completed Ferrehan without planting or watering. Bestowal chance is 4%.
 
 ## Appearance
@@ -46,14 +47,3 @@ Core builds outside Shroud while Requiem removes hostile roots. It is not a surr
 **Care:** Record each future-memory loss without inventing replacement hope. Let growth dry completely outside any soil.
 
 **Emergency release:** Stop feeding possibilities, open one present exit, and allow the barrier to wither naturally.
-
----
-
-**Document ID:** `SE-315-D`  
-**Linked Entity:** `SE-315`  
-**Item Registry Code:** `MAW-G-315-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

@@ -13,8 +13,8 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A burning humanoid clad in fragments of a shattered wall — stone shards fused to a body of fire and flesh, dragging itself along border lines. Fever-hot, it smells of char; a wall that fell, got up, and now walks the edge. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile in breach at a walking pace along the line, shutting each corridor behind it. Nothing in the record has it running or doubling back. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -30,16 +30,18 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken off the border walk and never off the standing fragments |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · δ (Critical) |
+| **Work Damage** | None — the walls come down and the room is survivable. |
+| **Work Gift** | +5–10 Resilience for the rest of the cycle — the flames lower and the broken pieces become visible, and the debt for the shelter is entered against the worker's name. |
+| **Activation threshold** | 1 failed cycle |
+| **Tool / M.A.W. grade** | None issued · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Flerehan or Ferrehan, in the open, unshielded, with the failure stated aloud by the senior officer present. Build nothing. |
 
 ### Operational Notes
 
-- A completed cycle lowers the flames and makes the broken pieces visible, and that is the whole of what can be achieved. The wall is not repaired by work, cannot be repaired at all, and its own fragments will not go back into the original barrier; personnel who approach this as a restoration problem have misread the file.
-- The activation threshold is 1. One failed cycle is a breach — there is no margin, no second attempt, and no partial credit — and the facility should be clear-eyed that it has written the entity's own grievance into the mechanics: a thing that failed to hold once is not granted a second chance either.
+- A completed cycle lowers the flames and makes the broken pieces visible, and that is the whole of what can be achieved. The wall is not repaired by work, cannot be repaired at all, and its own fragments will not go back into the original barrier. Personnel who approach this as a restoration problem have misread the file.
+- The activation threshold is 1. One failed cycle is a breach — there is no margin, no second attempt. And no partial credit — and the facility should be clear-eyed that it has written the entity's own grievance into the mechanics: a thing that failed to hold once is not granted a second chance either.
 - A yield of 20–28 against Severe difficulty and a threshold of 1 is the worst exposure ratio in the Zone E holdings. Personnel assigned here should be experienced, briefed on the admission protocol, and rotated on a schedule set before the cycle rather than during it.
 - Extraction means taking stone from a wall that is still angry about having fallen. It is scheduled as its own operation, under the same admission protocol, and never attempted in the same cycle as a work assignment.
 
@@ -54,7 +56,7 @@
 | **Resistance** | 45% against Grudge pressure and 35% against everything else — a wall that still holds better than the promise that put it there |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–65 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -77,23 +79,23 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Loose Stone* [**Debuff**] } | "A stone falls from the wall — and the gap it leaves is exactly the shape of your weakest defense." | [The Wall crumbles; the target's defenses crack in sympathy.] | *Target suffers -10 Resilience; their own walls are failing.* **[10 Grudge DMG [Grudge]]** | When the target leans on the Wall. |
-| { *The Spreading Crack* [**Debuff**] } | "The crack widens — through the wall, through you, through everything you thought was solid." | [The Wall's fracture propagates; the target's composure splinters.] | *Target loses 10 Resilience; nothing holds.* **[10 Grudge DMG [Grudge]]** | When the target stays near the break. |
-| { *The Falling Masonry* [**Attack**] } | "A section of wall gives way — heavy, final, aimed." | [A mass of broken wall collapses on the target.] | *Inflicts Grudge pressure and one crushing, structural wound.* **[14-22 Grudge DMG [Grudge]]** | When the Wall is struck. |
-| { *The Full Breach* [**Attack**] } | "The whole wall comes down — and everything it was holding back floods through." | [The courses come apart at once and everything they were holding back comes through the gap.] | *A heavy Crimson breach; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Wall is demolished. |
-| { *Every Wall Falls* [**Ultimate**] } | "The wall is contagious — now every barrier in the place is crumbling." | [The collapse propagates outward, and every standing surface along the line starts to fail with it.] | *All personnel suffer Grudge pressure for three turns as everything collapses.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Loose Stone* [**Debuff**] } | "A stone falls from the wall — and the gap it leaves is exactly the shape of your weakest defense." | [A fused stone sheds as the target takes shelter behind a barrier; the fragment is logged by position.] | *Target suffers -10 Resilience; the barrier they relied on is treated as failed shelter, not cover.* **[10 Grudge DMG [Grudge]]** | When a target shelters behind or leans on a barrier. |
+| { *The Spreading Crack* [**Debuff**] } | "Every assurance finds the same crack. It widens by exactly the width of the promise." | [The fracture line brightens through the fused courses as somebody present is told they are safe.] | *Target loses 10 Resilience; each safety assurance also raises the source Gauge by 10% under the breach accounting.* **[10 Grudge DMG [Grudge]]** | When anyone assures a person present that they are safe, or promises perfect protection. |
+| { *The Falling Masonry* [**Attack**] } | "Force arrived after the wall fell. It answers with the pieces." | [It throws burning fragments of its own fused stonework at the striker.] | *Inflicts Grudge pressure and one crushing fragment wound on the person using force.* **[14-22 Grudge DMG [Grudge]]** | When Welcome Haven is struck or Pugnahan is attempted. |
+| { *The Full Breach* [**Attack**] } | "Build it in front of the thing that died of being built. And see which of you it believes." | [The figure turns from personnel to the new representation of safety and brings its fused courses down through it.] | *Heavy Grudge pressure on personnel sheltering behind the barrier; the source Gauge rises 10% for that barrier.* **[24-36 Grudge DMG [Grudge]]** | When a barrier, cordon or shield wall is erected against it. |
+| { *Every Wall Falls* [**Ultimate**] } | "Not every wall. Every wall somebody is hiding behind instead of telling the truth." | [Along the patrol line it takes each erected shelter in turn; nobody is pursued into open ground.] | *All personnel relying on barriers or safety assurances suffer Grudge pressure for three turns as those representations fail.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90%. |
 
 ### Battle Phases
 
 1. **Tension:** The team sights the burning figure moving along a former wall line, confirms the route it is patrolling, and — before contact — agrees the specific failure each of them is prepared to state aloud. Nobody approaches this entity carrying an assurance they intend to offer.
 2. **Clash:** Twenty-four turns against 910 points of structural grievance at 45% resistance to its own element, with 29 to 64 pressure per strike. The engagement is physically winnable by a well-equipped party, and that is the trap: every turn spent winning it is a turn spent proving that force was available all along and was not there when the wall came down.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Admit the wall failed; do not promise perfect protection**. The rest of the record follows from that clause — the watch closes with the failure said out loud, and it is reopened by anybody who promises safety on the facility's behalf.
+3. **Resolution:** A senior person answerable for the record states the specific wall, date and people behind it, admits the wall failed, and promises no perfect protection. If nobody present can make that admission, sections are abandoned in sequence toward open ground beyond the line. The watch is reopened by anybody who builds against it or promises safety on the facility's behalf; suppression is not a resolution route.
 
 ### Consequences
 
-- A resistance that fails is paid for twice over: the worker takes the raw pressure on **Resilience**, and what the destabilization does afterwards is what the entity uses to raise the gauge.
+- The Gauge is indexed to conduct around shelter: it rises for barriers erected and safety assurances given, and falls when a specific failure is named by someone answerable for it. Representations of protection are attacked first; people are usually injured incidentally to the thing they were sheltering behind.
 - Prolonged exposure produces a specific and corrosive effect: personnel begin to feel betrayed by the institutions meant to protect them. It does not present as fear or injury. It presents as an accurate, well-evidenced loss of faith in the facility's own undertakings, and the worst cases are workers who were already owed something.
-- Every piece taken from this entity charges in protection that does not arrive. The pike breaches barriers and leaves the wielder's old injuries aching; the Broken Barrier absorbs exactly one impact and then remembers every person it failed to protect; the charm grants its boon and shortens the bearer's temper until they are hard to be near.
+- Every piece taken from this entity charges in protection that does not arrive. The pike breaches barriers and leaves the wielder's old injuries aching. The Broken Barrier absorbs exactly one impact and then remembers every person it failed to protect. The charm grants its boon and shortens the bearer's temper until they are hard to be near.
 - Unresolved, it does not merely escape. It expands and crushes corridors shut — the recorded breach is a wall doing to the facility what was done to the people behind it, which is to say sealing them in with no way through and no warning that it was coming.
 
 ## Appearance
@@ -115,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A walking figure of fire and flesh with wall courses set into it, following the border line. |
-| **Position / movement** | Walks upright and patrols the former wall lines and watchtower positions of the Zone E border, dragging itself along routes that no longer have a wall on them; record which line it is following and in which direction. |
+| **Position / movement** | Walks upright and patrols the former wall lines and watchtower positions of the Zone E border, dragging itself along routes that no longer have a wall on them. Record which line it is following and in which direction. |
 | **Material / signature** | Grudge. Fever heat that no instrument registers, char on the air, and dressed stone that is cold to the touch while the body is not. |
 | **Distinctive markers** | Fragments still fused, fragments shed on this circuit, which line it is walking, and whether anybody present has promised anybody anything. |
 | **Identification** | Read the stone. These courses match a wall that has not existed for thirty years and nothing else in Zone E carries them. |
@@ -127,22 +129,22 @@
 - **The Sorrow:** Not the collapse. The discovery afterwards that the promise had no author, so that there is nobody to be angry at and nobody able to say sorry.
 - **The Event:** The Zone E border wall folded in an Outside Sorrow surge, at a load it was built to carry and had been maintained below for nine years.
 - **The People:** The people who were told they would be safe behind this wall and who were still behind it when the surge folded it. The record names the promise and the wall. It does not name whoever gave the promise, and the omission has been queried twice.
-- **Expanded origin context:** The inquiry papers are complete and they name an office. The works office held the maintenance standard and let it fall; the surge office issued the assurance that the line would hold; the district office passed the assurance on to the people living behind it. Every one of those entries is correct and none of them is a person, because no record at this Company names an officer — a decision belongs to the post that made it and is signed by the post. So there is a promise in the file with no one at the end of it. The people behind the wall were told they were safe by a post. The post is still there, occupied by somebody who was eleven years old at the time.
+- **Expanded origin context:** The inquiry papers are complete and they name an office. The works office held the maintenance standard and let it fall. The surge office issued the assurance that the line would hold. The district office passed the assurance on to the people living behind it. Every one of those entries is correct and none of them is a person, because no record at this Company names an officer — a decision belongs to the post that made it and is signed by the post. So there is a promise in the file with no one at the end of it. The people behind the wall were told they were safe by a post. The post is still there, occupied by somebody who was eleven years old at the time.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The fire drops away and the stonework shows — the holding permitting itself to be seen as rubble rather than as a fire. | Decrease |
-| **Pugnahan** | It throws its own stone. Prohibited: force arriving at a wall that has already fallen is the whole of its grievance. | Increase |
-| **Viderehan** | The households, the list, the distinction between the killed and the displaced. Gauge holds; it has never been in doubt about any of it. | Stable |
-| **Ferrehan** | Standing in front of failed safety for the interval without flinching from it and without explaining it away. | Decrease |
+| **Flerehan** | The fire drops away and the stonework shows — the holding permitting itself to be seen as rubble rather than as a fire. | Decrease · High |
+| **Pugnahan** | It throws its own stone. Prohibited: force arriving at a wall that has already fallen is the whole of its grievance. | Increase · Low |
+| **Viderehan** | The households, the list, the distinction between the killed and the displaced. Gauge holds; it has never been in doubt about any of it. | Stable · Common |
+| **Ferrehan** | Standing in front of failed safety for the interval without flinching from it and without explaining it away. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-The table above is one input among several, and it is the SECC code with the coherence level that tells a reader what a steady gauge means on the border. Welcome Haven stands as a Subject with Subject-Grudge manifestation and Grudge in its element, filed at Zone E on the border line. Two cautions travel with the entry. Nothing is inherited from a holding with a similar name; its neighbours are listed in their own section and none of them is this. And a flat gauge is no proof of a harmless watch: the figure can sit level while the worker is being reached through memory, ground or identity, and the price of that hour surfaces off the page.
+The table above is one input among several. On this holding a work reading is incomplete unless it also records the patrol section and direction, fused and shed fragment counts, every barrier erected, every safety assurance given, and every specific admission made with the speaker's authority. A steady Viderehan gauge is not proof of a harmless watch: the figure can hold level while the worker leaves with a well-evidenced loss of faith in the facility's undertakings, which is logged both as exposure and as a grievance.
 
 **Reading the response:** Flerehan brings the gauge down — the flames lower and the broken pieces become visible, which is the entity permitting itself to be seen as rubble rather than as a fire. Ferrehan brings it down by the harder route: the test is whether the worker can stand before failed safety without flinching from it and without explaining it away. Viderehan holds level, revealing what the wall failed to protect, and that revelation changes nothing because the entity has never been in any doubt about it. Pugnahan raises the gauge and draws burning fragments, because confrontation is force arriving at the wall after it has already fallen. One instruction governs everything above and is stated in the Behavior table without qualification: admit the wall failed, and do not promise perfect protection.
 ## Breach Behavior
@@ -152,16 +154,16 @@ The table above is one input among several, and it is the SECC code with the coh
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | It leaves at a walking pace and follows the line, shutting each corridor behind it; nothing in the record has it running or doubling back. |
+| **Movement** | It leaves at a walking pace and follows the line, shutting each corridor behind it. Nothing in the record has it running or doubling back. |
 | **Effect** | Resilience burns out of everybody in the section, at a distance, through walls, with no heat registering on any instrument. |
 | **Secondary Effect** | A grudge that eats barriers specifically: anything erected to shelter personnel degrades faster than the structure around it. |
 | **First Target** | Whatever claims to protect. Barriers, cordons and shield walls go first and people are injured incidentally to them. |
-| **Escalation** | Resilience drain rises by 5 each interval and by a further 10% for every barrier put up against it. |
+| **Escalation** | Indexed to promises: the Gauge rises 10% for each barrier, shield wall or cordon erected against it and 10% for each assurance that somebody present is safe. It falls 10% when a specific failure is named aloud by someone answerable for it. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape. It leaves the holding at a walking pace, follows the old line, and shuts the corridors behind it as it goes.
-- **Containment priority:** Do not barricade and do not reassure. Every element of the standard suppression response is counter-indicated here: Pugnahan is a logged gauge increase, a hastily erected barrier is a representation of false security and this entity attacks those in preference to individuals, and sealing corridors invites the one thing it does on breach, which is to crush corridors shut. Stand personnel in the open, unshielded and visible, and have the senior officer present state aloud which protection failed and when. Containment here is an admission, delivered by someone with the authority to make it.
+- **Containment priority:** Do not barricade and do not reassure. Every element of the standard suppression response is counter-indicated here: Pugnahan is a logged gauge increase, a hastily erected barrier is a representation of false security and this entity attacks those in preference to individuals. And sealing corridors invites the one thing it does on breach, which is to crush corridors shut. Stand personnel in the open, unshielded and visible, and have the senior officer present state aloud which protection failed and when. Containment here is an admission, delivered by someone with the authority to make it.
 - **Sorrow Gauge on breach:** Indexed to promises. Rises 10% for each barrier, shield wall or cordon erected against it, and a further 10% each time a member of personnel assures anyone present that they are safe. Falls 10% each time a specific failure is named aloud by someone answerable for it — not a general admission that mistakes were made, but a wall, a date, and the people who were behind it. The vault record is unambiguous that it has never attacked anyone who admitted the wall failed.
 
 ## M.A.W. Equipment
@@ -172,7 +174,7 @@ The table above is one input among several, and it is the SECC code with the coh
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : An eight-foot industrial breaching pike made from octagonal manganese steel, featuring a reinforced four-inch crowbar chisel tip and a sliding pneumatic hammer sleeve along the shaft.
+**Appearance:** An eight-foot industrial breaching pike made from octagonal manganese steel, featuring a reinforced four-inch crowbar chisel tip and a sliding pneumatic hammer sleeve along the shaft.
 
 Designed to breach barricaded doors and dislodge armored sorrow carapaces, the tool delivers tremendous prying leverage. The pneumatic sleeve slides forward to strike the chisel with jackhammer force.
 
@@ -185,11 +187,11 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 **Attack Pattern:** Skewer
 **Target Coverage:** A single driven line through up to three targets, the pneumatic sleeve slamming the chisel through each in turn.
 **Falloff Rule:** 100% at the point of entry, 70% through the second and 50% through the third, as the hammer's stored force is spent along the line.
-**Damage Application:** Score the breach once, then score the structural failure again on each following turn as the prised joint continues to give way; the two resolve as separate events against the same resistance.
+**Damage Application:** Applied per pierced target in the listed order at 100% → 70% → 50%. No second structural-failure score is taken on following turns; an opened barrier remains open as terrain and record, not as recurring damage.
 
 **Ability:** An eight-foot breaching tool that opens barricaded doors and splits armoured sorrow carapaces — leverage first, then the pneumatic hammer, which is to say it takes walls apart for a living.
 
-**Cost:** Old injuries ache and faint bruising rises along the lines of them. Nothing new is broken; the body simply reopens every complaint it had already settled, which is the pike's entire argument in miniature.
+**Bearer cost:** Old injuries ache and faint bruising rises along the lines of them. Nothing new is broken; the body simply reopens every complaint it had already settled, which is the pike's entire argument in miniature.
 
 **Binding and return:** The individual Weapon record requires the bearer to name the collapse that left residents exposed and accept the admission condition. A first-person account of that event is a corrosion sign, not authority to speak for the households. Record the trigger, response, cost and unresolved detail before attribution review and rest. At shutdown a named witness states Welcome Haven’s title and event while the bearer relinquishes the pike. Its capacity to dismantle a barricade never authorizes Pugnahan against this holding or makes a replacement wall a containment measure.
 
@@ -209,7 +211,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Ability:** Absorbs one breach impact.
 
-**Cost:** The shield remembers every person it failed to protect.
+**Bearer cost:** The shield remembers every person it failed to protect.
 
 **Spent protection:** Enter whether the Barrier has already taken its one breach impact before issue; the resistance figures do not renew that absorption. The individual suit record calls for attribution review and witness-led relinquishment, but neither cleaning, rest nor shutdown clears the remembered failures or supplies a second impact. The wearer’s account becoming autobiographical is a separate corrosion sign from the plate’s memory. Keep both on the return sheet rather than interpreting a quiet bearer as a restored shield.
 
@@ -223,9 +225,9 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 **Acquisition Probability:** 4%
 **Effect:** +3 to the bearer's rating while working the entity, lost for the rest of the cycle if the bearer promises anybody present that they will be safe
 
-**Ability:** The charm warns its bearer when a structure they are relying on will not hold — reliably, early, and about structures nobody has the authority or the budget to fix.
+**Ability:** The charm reveals what a relied-on structure would leave exposed—the people and rooms behind it—rather than certifying another structure safe. Bearers experience that revelation as early warning, often about failures nobody present has the authority or budget to fix.
 
-**Cost:** The bearer's temper shortens.
+**Bearer cost:** The bearer sees the people behind the structure they are standing behind and stops being able to promise anybody that it will hold.
 
 *The Broken Charm is given, not taken. It has appeared only on workers who stood before this entity unshielded and named a failure they were personally answerable for, and no procedure has produced one deliberately.*
 
@@ -233,16 +235,16 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 ### M.A.W. Use Notes
 
-Each piece remains part of the wall, and the set is organised around a single bitter idea: protection that is offered once and cannot be offered again. The Broken Barrier absorbs one breach impact. Not one per cycle, not one per repair — one, and afterwards it is a plate of warm iron that remembers every person it failed to protect, which operatives describe as the single worst cost in the δ catalogue and which cannot be discharged, transferred or cleaned. The pike, meanwhile, is a tool for destroying barriers, and the charm announces which structures are about to fail. Taken together the set does not defend anything. It tells its bearer the truth about defences, charges them one absorbed blow for the privilege, and leaves them holding the memory of everyone the plate did not save.
+Each piece remains part of the wall, and the set is organised around a single bitter idea: protection that is offered once and cannot be offered again. The Broken Barrier absorbs one breach impact. Not one per cycle, not one per repair — one. And afterwards it is a plate of warm iron that remembers every person it failed to protect, which operatives describe as the single worst cost in the δ catalogue and which cannot be discharged, transferred or cleaned. The pike, meanwhile, is a tool for destroying barriers, and the charm announces which structures are about to fail. Taken together the set does not defend anything. It tells its bearer the truth about defences, charges them one absorbed blow for the privilege, and leaves them holding the memory of everyone the plate did not save.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the issue-day gauge, and a sealed baseline taken before the piece leaves the rack. On this set old injuries ache and bruising returns along the old lines with nothing new broken, so the baseline is opened at the end of the rotation rather than the beginning of it. |
-| **During use** | From the first charge the old injuries ache and the bruising comes back along the same lines with nothing fresh having struck the body. The hour entered is the hour it was first seen by the second worker, not the hour it was first mentioned by anybody. |
-| **At limit** | The limit arrives when the bearer goes quiet about the shield's memory of everybody it failed to protect — that silence, rather than any figure on the sheet, is where a Welcome Haven piece ends, and the observer calls it. |
-| **After use** | Return the piece, open the sealed baseline, and enter whether the shield's cost outlasted the rotation. The answer goes down whether or not the bearer agrees with it. |
+| **Before use** | Wielder, piece, issue-day gauge, sealed injury baseline, and—for the Broken Barrier—whether its one breach impact is already spent. The bearer names the collapsed-wall event and accepts the limit in writing; no piece is issued as a promise that its bearer will be safe. |
+| **During use** | Log patrol section, fused/shed fragments, every barrier erected, safety assurance given and specific admission made, with speakers named. Enter old-injury ache/bruising, temper change, the Barrier's spent state and any first-person retelling of the source event as separate lines. |
+| **At limit** | The observer calls the limit on a first-person source account, a repeated source response outside contact, a safety promise by the bearer, or silence about the shield's remembered failures. The piece is relinquished; it is not argued back into service. |
+| **After use** | A named witness states Welcome Haven's title and event while the bearer relinquishes the piece. Attribution review records trigger, response, cost and unresolved detail before cleaning or rest. The sealed baseline is opened, but it does not replace the promise/admission log. |
 
 **Stat interpretation:** The δ grades are high and honestly earned — ten to fifteen damage, a one-use absorption, a +3 Stigma. The sheet nonetheless omits the governing fact about this set, which is that its protective item has a quantity of one. Read the Cost lines as the specification and treat the Broken Barrier's resistance table as describing the state of the plate rather than the state of the wearer.
 ## 관찰 기록 (Observation Log)
@@ -264,9 +266,9 @@ Each piece remains part of the wall, and the set is organised around a single bi
 | **Initial exposure** | Fused fragment count, section of line, direction of travel, and confirmation that nothing has been built, blocked or promised on the approach. |
 | **Sustained observation** | Shed stone is recovered, logged by position and counted at each return: 310, 540, 806. The circuit, the pace and the conduct are unchanged across the whole series. |
 | **Activation or escalation** | A flare without an official present, or a shed count above the series. Check first whether anybody has promised anybody safety within earshot. |
-| **Post-contact review** | Enter the delta — what was different afterwards, what held, and what the vocabulary would not carry. On this file the sheet is incomplete if it sets the danger down alone; the sorrow the entity preserves is the part the entry exists to carry. |
+| **Post-contact review** | Enter patrol position/direction, fused and shed fragment counts, every barrier erected, every assurance or specific admission with its speaker, and the resulting gauge movement. Forward personnel reports of institutional betrayal both as exposure findings and as grievances; a danger-only sheet is incomplete. |
 
-**Observation method:** Record the stonework, the patrol line, and the admissions. The third of these is the part teams omit: log who said what, in whose hearing, and whether it was specific. The entity's documented tolerance is not for contrition in general but for a named failure, and a cycle in which the party offered sincere regret and no specifics will read as a success in the gauge column and a failure in the transcript. Then take the personnel record. Workers exposed here report betrayal by the institutions meant to protect them, and that report is often correct on the facts; it is logged as an exposure finding and forwarded as a grievance, both, and the file should not pretend those are the same process.
+**Observation method:** Record the stonework, the patrol line, and the admissions. The third of these is the part teams omit: log who said what, in whose hearing, and whether it was specific. The entity's documented tolerance is not for contrition in general but for a named failure, and a cycle in which the party offered sincere regret and no specifics will read as a success in the gauge column and a failure in the transcript. Then take the personnel record. Workers exposed here report betrayal by the institutions meant to protect them, and that report is often correct on the facts. It is logged as an exposure finding and forwarded as a grievance, both, and the file should not pretend those are the same process.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -281,16 +283,16 @@ Moves along the Zone E border and watchtowers. Personnel feel betrayal by instit
 The fury of discovering that safety was promised but never delivered.
 
 **Entry 4 — <Containment Notice>**
-Management: Admit the wall failed; do not promise perfect protection. Work response — Flerehan: the flames drop and the broken courses stand visible (Decrease); Pugnahan: it answers with burning fragments (Increase); Viderehan: what the wall failed to protect is shown (Stable); Ferrehan: it tests whether a worker can stand in front of failed safety (Decrease). Its fire is emotional rather than physical.
+Management: Admit the wall failed; do not promise perfect protection. Work response — Flerehan: the flames drop and the broken courses stand visible (Decrease). Pugnahan: it answers with burning fragments (Increase). Viderehan: what the wall failed to protect is shown (Stable). Ferrehan: it tests whether a worker can stand in front of failed safety (Decrease). Its fire is emotional rather than physical.
 
 **Entry 5 — <Finding of the Wall Line Inquiry, Unpublished>**
-The finding was never published. It establishes that the structure was built to an adequate standard, maintained below it for nine years, and failed at a load it should have carried; that an assurance of safety was issued and repeated; and that no person can be identified as having given it, every entry in the chain being the act of a post. The inquiry's last paragraph states that it is unable to recommend an apology, there being no one competent to make one, and that this is a defect in the records rather than in the facts.
+The finding was never published. It establishes that the structure was built to an adequate standard, maintained below it for nine years. And failed at a load it should have carried. That an assurance of safety was issued and repeated. And that no person can be identified as having given it, every entry in the chain being the act of a post. The inquiry's last paragraph states that it is unable to recommend an apology, there being no one competent to make one, and that this is a defect in the records rather than in the facts.
 
 **Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 
-> The border watch on the wall can close in either of two ways, and the file tells the two endings apart by what the observer does once the failure has been said out loud: one admits it and promises nothing, and the other reaches for comfort the record cannot support.
+> The border watch on the wall can close in either of two ways. And the file tells the two endings apart by what the observer does once the failure has been said out loud: one admits it and promises nothing. And the other reaches for comfort the record cannot support.
 
 | Admit the wall failed, say it plainly, and promise nobody present that they will be safe. | Improvise something kinder — give the comfort anyway, or promise protection on the facility's behalf, which is how every failure on this file has begun. |
 |---|---|
@@ -303,24 +305,24 @@ A wall breaks across the horizon and a figure steps from the gap. Fire runs thro
 
 
 
-**At first contact:** Contact begins at the threshold, and the first thing that fails there is reassurance. What stands in the gap is a burning humanoid figure carrying fragments of the shattered wall, and it moves along border lines rather than toward anybody. It flares at a person arriving in an official capacity and has never once pursued somebody who agreed with it. None of that is an attack. What it wants is the failure said out loud, and the gauge is indexed to precisely that: down ten per cent each time a specific failure is named aloud by somebody answerable for it, and up ten per cent for every barrier, shield wall or cordon put up against it.
+**At first contact:** Contact begins at the threshold, and the first thing that fails there is reassurance. What stands in the gap is a burning humanoid figure carrying fragments of the shattered wall, and it moves along border lines rather than toward anybody. It flares at a person arriving in an official capacity and has never once pursued somebody who agreed with it. None of that is an attack. What it wants is the failure said out loud. And the gauge is indexed to precisely that: down ten per cent each time a specific failure is named aloud by somebody answerable for it. And up ten per cent for every barrier, shield wall or cordon put up against it.
 
 **With continued exposure:** The fire stops being the subject. Under Flerehan the flames drop away and the stonework shows, which is the holding permitting itself to be seen as rubble rather than as a burning thing, and that visibility is all the work here achieves. The wall is not repaired by it and cannot be repaired at all, and its own fragments will not go back into the original barrier. What builds up across a long session is the list: the households, and the line this file draws between the killed and the displaced.
 
-**When the entity activates:** The threshold is 1, so activation and breach are the same event — one failed cycle, no margin, no second attempt, no partial credit. The change is physical: the air goes wrong, the Han-lamps flicker, and the Grudge acquires a taste. What has been crossed is the line between the entity containing its grievance and becoming it. The gauge rises ten per cent for each barrier, shield wall or cordon erected against it, and ten per cent more each time a member of personnel assures anybody present that they are safe. Do not barricade and do not reassure.
+**When the entity activates:** The threshold is 1, so activation and breach are the same event — one failed cycle, no margin, no second attempt, no partial credit. No lamp or thermometer changes: the fire still registers on no instrument. What changes is conduct in the section—hands go toward barriers and comforting words, which are the two inputs the Gauge is indexed to punish. It rises ten per cent for each barrier, shield wall or cordon erected against it, and ten per cent more each time a member of personnel assures anybody present that they are safe. Do not barricade and do not reassure.
 
 **After departure:** Leaving does not end it. What follows a worker out is not residue carried in the hands or the chest but the question the figure asked, which was whether anybody would admit that the promise was false. The corridor afterwards is quiet in a particular way. The admission protocol governs the next visit and governs extraction, which is scheduled as a separate operation and never run in the same cycle as a work assignment: the stone is taken from a wall still angry about having fallen.
 
 ### Interaction Pattern
 
-Three holdings sit within the wall's working range — The Rusted Wall, The Guardian of the Gate and The Outside Sorrow — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter what the answer did in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger beside it.
+Three holdings sit within the wall's working range — The Rusted Wall, The Guardian of the Gate and The Outside Sorrow — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter patrol section and direction, separation and duration, gauge movement, fused/shed fragments, every barrier or assurance introduced by personnel, and above all whether the other presence constitutes a representation of safety.
 
 **Interaction method:** Establish the patrol alone first — route, pace, which wall lines it favours, what it does at the watchtowers — across several cycles in which nothing is built, blocked or promised. Then introduce a second entity and attend to the variable peculiar to this holding: whether the other presence constitutes a representation of safety. Anything that shelters, encloses, guards or claims to guard is a candidate target in a way that merely proximate entities are not, and the record is explicit that this entity attacks such representations in preference to individuals. Log the separation, the duration, the gauge movement, the direction of approach, and whether the other holding was damaged in a manner the entity has never used against personnel.
 
 
 ### Entity Interaction Record
 
-This entity walks the Zone E border, which it shares with other holdings concerned with lines, exclusion and belonging, and unlike most of them it is mobile and actively patrolling. The interactions below are canonical but each was recorded on a particular wall line at a particular point in its circuit; personnel must re-establish the current patrol before relying on any of them.
+This entity walks the Zone E border, which it shares with other holdings concerned with lines, exclusion and belonging, and unlike most of them it is mobile and actively patrolling. The interactions below are canonical but each was recorded on a particular wall line at a particular point in its circuit. Personnel must re-establish the current patrol before relying on any of them.
 
 | The wall's neighbour | How the pairing has run | What the border watch measured | What the entry carries |
 |---|---|---|---|
@@ -356,9 +358,9 @@ Some sorrows mourn a collapse. Welcome Haven mourns the broken promise — the w
 > *“The specific, permanent anger of people promised safety and given exposure.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-897 [GS]` · Grudge · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IVδ-897 [GS]` · Outside Sorrow (외한) origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Grudge manifestation
 **Common Name:** Welcome Haven
-**Containment Status:** Contained — Zone E, Border region
+**Containment Status:** Accompanied on patrol — Zone E, Border region; no cell has been built, and personnel work under the admission protocol without promising protection
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). A threshold of 1, the worst exposure ratio in the Zone E holdings, and a breach profile that closes sections behind it. It has never attacked anybody who said aloud that the wall failed.
 **Containment & Handling Procedures:**
@@ -390,7 +392,7 @@ What it wants is recognition that the protection failed, not retribution against
 
 ### The Wall
 
-The collapsed border wall is documented from the construction record, the maintenance history, and the surge report, and the three together establish a specific and unflattering sequence: the structure was built to a standard that was adequate, was maintained below that standard for years, and failed at a load it should have carried. The maintenance shortfall is attributed in the file to the office responsible, by name. Two attempts have been made to remove the attribution. Both were refused, the second with a note observing that the entity in the chamber is made of exactly this and that the file would be a strange place to continue the omission.
+The collapsed border wall is documented from the construction record, the maintenance history. And the surge report, and the three together establish a specific and unflattering sequence: the structure was built to a standard that was adequate, was maintained below that standard for years. And failed at a load it should have carried. The maintenance shortfall is attributed in the file to the office responsible, by name. Two attempts have been made to remove the attribution. Both were refused, the second with a note observing that the entity in the chamber is made of exactly this and that the file would be a strange place to continue the omission.
 
 ### The Residents
 
@@ -414,21 +416,21 @@ The comparison between the entity's path and the current municipal boundary surv
 
 ### What the Shed Count Is Measuring
 
-Eight hundred and six stones recovered off the circuit, after 540 and 310. Every fragment is picked up where it falls, logged by position, and kept; none may be issued to anybody intending to rebuild anything, and the count is the only durable physical record the holding produces. Nothing else about it moves. The circuit is the circuit, the pace is a walk, the flaring keys on function and not on rank, the conduct toward anybody who agrees with it has never varied. The count does not follow the Tide or the surge season, both of which have been set against it. It follows one line in the Record Office's annual return: matters closed because no person answerable for the decision could be identified.
+Eight hundred and six stones recovered off the circuit, after 540 and 310. Every fragment is picked up where it falls, logged by position, and kept. None may be issued to anybody intending to rebuild anything, and the count is the only durable physical record the holding produces. Nothing else about it moves. The circuit is the circuit, the pace is a walk, the flaring keys on function and not on rank, the conduct toward anybody who agrees with it has never varied. The count does not follow the Tide or the surge season, both of which have been set against it. It follows one line in the Record Office's annual return: matters closed because no person answerable for the decision could be identified.
 
-No document at this Company names an officer. A decision is the act of the post that made it, signed by the post, and recorded against the post; the individual who held it on the day does not appear and cannot be looked up. The rule was made for the best of reasons and the Office's first volume is blunt about them. When signatures were personal, the signatory was the target: after the 4192 clearances the clerks who had signed the orders were hunted in their own districts, two were killed, and the families of four others were driven out. Personal attribution also made the signature worth buying, which it duly was. A post cannot be intimidated, cannot be bribed and cannot be hunted home. The people doing the work are protected absolutely, and nobody at the bottom of the building has ever had to choose between signing and being safe.
+No document at this Company names an officer. A decision is the act of the post that made it, signed by the post, and recorded against the post. The individual who held it on the day does not appear and cannot be looked up. The rule was made for the best of reasons and the Office's first volume is blunt about them. When signatures were personal, the signatory was the target: after the 4192 clearances the clerks who had signed the orders were hunted in their own districts, two were killed, and the families of four others were driven out. Personal attribution also made the signature worth buying, which it duly was. A post cannot be intimidated, cannot be bribed and cannot be hunted home. The people doing the work are protected absolutely, and nobody at the bottom of the building has ever had to choose between signing and being safe.
 
-Its consequence is that a promise can be made and kept by nobody. The assurance to the households behind the Zone E wall was issued by the surge office, repeated by the district office, and relied upon by everyone; all three entries are correct and none of them is a person. There is accordingly nobody who can admit it. An admission requires somebody competent to make it about their own act, and at this Company no act is anybody's own. The inquiry's unpublished finding says so in its last paragraph and calls it a defect in the records rather than in the facts. The holding's gauge, meanwhile, falls only when a specific failure is named aloud by somebody answerable for it — which is the one transaction the archive is built to make impossible. It is still walking the line. It picked up the wall and it is still carrying most of it.
+Its consequence is that a promise can be made and kept by nobody. The assurance to the households behind the Zone E wall was issued by the surge office, repeated by the district office, and relied upon by everyone. All three entries are correct and none of them is a person. There is accordingly nobody who can admit it. An admission requires somebody competent to make it about their own act, and at this Company no act is anybody's own. The inquiry's unpublished finding says so in its last paragraph and calls it a defect in the records rather than in the facts. The holding's gauge, meanwhile, falls only when a specific failure is named aloud by somebody answerable for it — which is the one transaction the archive is built to make impossible. It is still walking the line. It picked up the wall and it is still carrying most of it.
 
 ### The Post Holder's Word
 
 Instituted Year 4220. Where a decision of a post has been found to have caused harm, the person currently holding that post attends a sitting and states aloud what the post decided, on what date, and what followed. The affected may attend. The statement is minuted and the minute is sent to them.
 
-Year 4237: 1,140 sittings held; 14 years' median interval between the decision and the words; 0 personal admissions, the speaker being forbidden the first person; 0 apologies, an apology requiring an actor; 0 findings of fault; 611 sittings at which no affected person attended; and 2,077 matters closed for want of an identifiable person answerable, which is the figure the Zone E watch sets the shed count against.
+Year 4237: 1,140 sittings held; 14 years' median interval between the decision and the words. 0 Personal admissions, the speaker being forbidden the first person. 0 Apologies, an apology requiring an actor. 0 Findings of fault; 611 sittings at which no affected person attended. And 2,077 matters closed for want of an identifiable person answerable, which is the figure the Zone E watch sets the shed count against.
 
-The costs are printed on the summons. The speaker is almost never the decider and usually was not born into the grade when it happened; they read what the post did, in the third person, to people who wanted the other thing. They may not say *I*, may not say *we were wrong*, and may not apologise, because every one of those is a personal attribution and personal attribution is the 4192 clearances with names attached. Questions are not taken, since a question is addressed to a person. The affected are entitled to be present and to hear the post described, and the Office's own return records that more than half of them stop coming after the first one.
+The costs are printed on the summons. The speaker is almost never the decider and usually was not born into the grade when it happened. They read what the post did, in the third person, to people who wanted the other thing. They may not say *I*, may not say *we were wrong*, and may not apologise, because every one of those is a personal attribution and personal attribution is the 4192 clearances with names attached. Questions are not taken, since a question is addressed to a person. The affected are entitled to be present and to hear the post described, and the Office's own return records that more than half of them stop coming after the first one.
 
-The Zone E watch asked for a single exception. Where the deciding officer is known, is alive, and volunteers, let them speak as themselves. Refused, and the reasoning is as sound as the rest and as useless here: once one officer may volunteer, every officer who does not is identified by their silence, and identification by silence is naming with the protection stripped off — which puts the clerks of 4192 back in their own streets. The submission stands in the Year 4229 return, recorded as correct and unanswered. The border posts keep it in the shed-stone ledger, under the running count: we stopped naming our own people so that nobody could come for them, and there is a wall out on the line tonight that will put itself down the day one person stands in front of it and says *I told them they were safe*.
+The Zone E watch asked for a single exception. Where the deciding officer is known, is alive, and volunteers, let them speak as themselves. Refused, and the reasoning is as sound as the rest and as useless here: once one officer may volunteer, every officer who does not is identified by their silence. And identification by silence is naming with the protection stripped off — which puts the clerks of 4192 back in their own streets. The submission stands in the Year 4229 return, recorded as correct and unanswered. The border posts keep it in the shed-stone ledger, under the running count: we stopped naming our own people so that nobody could come for them. And there is a wall out on the line tonight that will put itself down the day one person stands in front of it and says *I told them they were safe*.
 
 ## Trivia
 
@@ -442,7 +444,7 @@ The Zone E watch asked for a single exception. Where the deciding officer is kno
 - **Classification detail:** A Subject with Entity (IV) coherence and Critical (δ) potency, graded for the failure it stands for rather than for the wall it once was.
 - **Field detail:** Its element is Grudge, and the register keeps it on the Zone E border line.
 - **Recognition detail:** Identify by the courses. Dressed stone fragments from a single shattered wall, fused into a burning body, carried along a border line where no wall now stands.
-- **Record detail:** The Zone E border holds more than one Grudge entity formed from a failed boundary; confirm the designation O-IVδ-897 and the Subject-Grudge manifestation before applying this file to any of them.
+- **Record detail:** The Zone E border holds more than one Grudge entity formed from a failed boundary. Confirm the designation O-IVδ-897 and the Subject-Grudge manifestation before applying this file to any of them.
 - **Containment detail:** No cell has been built for this entity and the decision was deliberate rather than a shortfall of resources: a wall around a wall that failed is the provocation in its purest form. It is contained by being accompanied along its patrol, under an admission protocol, by personnel who do not promise anything. Whether that constitutes containment is a fair question and the file does not claim otherwise.
 ## Document Information
 

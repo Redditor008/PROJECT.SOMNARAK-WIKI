@@ -33,14 +33,3 @@ A Head pin granted at **5%**: **β Grudge; +1 Composure.** It makes burnout fear
 **Corrosion:** ash spreads over every new hope; fear becomes prophecy; terminal state prevents the bearer from beginning care.  
 **Maintenance:** log fear, capacity, relief staff, and end time.  
 **Removal:** bearer speaks the fear to someone who can share—not deny—the risk.
-
----
-
-**Document ID:** `UNK-250-D`  
-**Linked Entity:** `UNK-250`  
-**Item Registry Code:** `MAW-G-UNK-250-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

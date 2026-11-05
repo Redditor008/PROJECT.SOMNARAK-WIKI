@@ -21,7 +21,7 @@ A Mask Market chamber bends inward around an unseen dormant relic. Its masked ar
 | Coherence / Potency | III / γ |
 | Element | Void |
 | Location | Zone C, Mask Market |
-| Gauge / Pressure | 653/653; 45–65% / 18–41 |
+| Gauge / Pressure | 000/240; starts 000% · Void — no attack pattern: the relic is asleep in a fixed chamber and its discharge is aimed at nothing (Contact Record, R-36) |
 | Threshold / Resistance | 75% / 35% Void, 25% other |
 | Set | Purpose Without Claim |
 
@@ -39,20 +39,10 @@ Grade γ echoes emerged after Sora copied one visible symbol, labeled its meanin
 
 ## FULL-SET RESONANCE — *The Instruction Remains Unfinished*
 
-Charm preserves one symbol without translation, Cover prevents observers from forcing attention, and Lens cuts a speculative command before it reaches the relic. The chamber quiets for one cycle. Cost: each bearer forgets a word and Cover blocks asking for help. Assigning a purpose triggers Full Awakening through every leaning wall.
+Charm preserves one symbol without translation, Cover prevents observers from forcing attention, and Lens cuts a speculative command before it reaches the relic. The chamber quiets for one cycle. Cost: each bearer forgets a word and Cover blocks asking for help. Assigning a purpose leans every wall in the chamber at once.
 
 ## INCIDENT — THE HEALER INTERPRETATION
 
 A researcher declared the relic a healing device and spoke an activation phrase assembled from three symbols. The chamber pulsed; nearby staff lost identity anchors. Sora accepted responsibility for the phrase, Maker’s Lens cut the command, and the record returned to “purpose unknown.”
 
 > *“Uncertainty is not neglect when certainty would wake the wrong thing.”* — Dreamer Sora
-
----
-
-**Document ID:** `SE-651-A`  
-**Linked Entity:** `SE-651`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

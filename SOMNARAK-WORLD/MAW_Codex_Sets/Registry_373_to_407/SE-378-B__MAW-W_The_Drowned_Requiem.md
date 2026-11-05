@@ -24,19 +24,12 @@ The Drowned Requiem is a diving bell of deep-blue Han crystal that sounds like a
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Pressure Separation:** Removes drowning pressure from one voice path while preserving the call.
 
 **Failures:** call simplified; shouting treated as amplification; rescue promise offered to the dead.
 
 **Maintenance:** Suspend over dry air while the original pressure trace is preserved.
-
----
-
-**Document ID:** `SE-378-B`  
-**Linked Entity:** `SE-378`  
-**Item Registry Code:** `MAW-W-378-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

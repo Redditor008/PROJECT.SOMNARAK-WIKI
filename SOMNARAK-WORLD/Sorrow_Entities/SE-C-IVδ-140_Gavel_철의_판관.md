@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Non-Organic — A humanoid judge forged entire from black iron — featureless, its face a sealed smooth plate, a crimson scale embedded in its chest where a heart would be. The metal is fever-hot and smells of char; it moves with the weight of a verdict. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Non-Organic |
+| **Movement** | Mobile in breach at a walking pace to the room where a decision is being taken about somebody who is not in it, where it stands and does nothing else. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 1 |
+| **Work Damage** | 5–8 Grudge — the cost is a decision nobody made, entered against the worker's own name |
+| **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | — · δ (Critical) — the Verdict, Plate and Charm are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -55,7 +56,7 @@
 | **Resistance** | 45% against Grudge pressure; 35% against other pressure types. Nothing is rated against the verdict itself, which is not pressure and is not resisted by anything issued: it arrives as a change in the room that every worker present perceives and no instrument records |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 820/820 |
-| **Han Pressure [ATK]** | 23–51 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–58 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -78,16 +79,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Gavel* [**Debuff**] } | "The judge raises the gavel — iron, enormous — and the weight of its intention alone crushes you." | [The Judge's authority presses on the target; they feel judged.] | *Target suffers -10 Resilience; the verdict is already decided.* **[10 Grudge DMG [Grudge]]** | When the target faces the Judge. |
+| { *The Gavel* [**Debuff**] } | "The judge raises the gavel — iron, enormous — and the iron alone crushes you, with nothing behind the swing." | [The Judge's authority presses on the target; they feel judged.] | *Target suffers -10 Resilience; the verdict is already decided.* **[10 Grudge DMG [Grudge]]** | When the target faces the Judge. |
 | { *The Immutable Law* [**Debuff**] } | "The law is iron — literal iron — and it does not bend, does not yield, does not listen to reason." | [The Judge's rigid code bears down; the target cannot argue.] | *Target loses 10 Resilience; there is no appeal.* **[10 Grudge DMG [Grudge]]** | When the target tries to defend. |
 | { *The Iron Fist* [**Attack**] } | "The gavel comes down — and it is the weight of every sentence ever passed, condensed into one blow." | [A devastating gavel-strike.] | *Inflicts Grudge pressure and one crushing wound of judgment.* **[14-22 Grudge DMG [Grudge]]** | When the target is found guilty. |
 | { *The Maximum Sentence* [**Attack**] } | "The harshest verdict available is handed down — and handed down as a blow." | [The Judge's condemnation lands on the target as a physical weight.] | *A heavy Crimson sentence; the target's Sorrow Gauge surges 15%, and the verdict stands in the room after the damage is taken.* **[24-36 Grudge DMG [Grudge]]** | When the Judge is challenged, or when a claim of standing is made in its presence. |
-| { *The Court of Iron* [**Ultimate**] } | "Its jurisdiction widens until the whole field is in session, and the gavel falls on all of it." | [The Judge extends its judgement across the whole field without leaving its standing position.] | *All in range suffer Grudge pressure for three turns under the iron gavel; nothing said during the three turns is treated as a defence.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Court of Iron* [**Ultimate**] } | "Its jurisdiction widens until the whole field is in session. And the gavel falls on all of it." | [The Judge extends its judgement across the whole field without leaving its standing position.] | *All in range suffer Grudge pressure for three turns under the iron gavel; nothing said during the three turns is treated as a defence.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The markings are checked in a fixed order — the sealed face with nothing on it, and the crimson chest scale with one pan down — and the designation is confirmed against them: the Row holds several iron forms, and this is the one with no features at all and a working balance where a heart would be. Positions are taken, the chamber's floor and bench are load-checked on the gauge's own schedule, and the cycle is opened.
-2. **Clash:** The session is conducted as a submission of evidence. Flerehan is entered as mitigation and lowers the scale; Ferrehan requires the worker to stand under the sealed face and wait without filling the silence, and lowers it further. Pugnahan is recorded as guilt. Nothing is argued, because nothing here answers argument.
+1. **Tension:** The markings are checked in a fixed order — the sealed face with nothing on it. And the crimson chest scale with one pan down — and the designation is confirmed against them: the Row holds several iron forms. And this is the one with no features at all and a working balance where a heart would be. Positions are taken, the chamber's floor and bench are load-checked on the gauge's own schedule, and the cycle is opened.
+2. **Clash:** The session is conducted as a submission of evidence. Flerehan is entered as mitigation and lowers the scale. Ferrehan requires the worker to stand under the sealed face and wait without filling the silence, and lowers it further. Pugnahan is recorded as guilt. Nothing is argued, because nothing here answers argument.
 3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Present context and evidence; do not appeal with status or force** — the record produced whole, and not one claim of rank, clearance or urgency made in the chamber for the length of the session.
 
 ### Consequences
@@ -96,6 +97,7 @@
 - The effect does not build with time spent in the chamber. It builds with every claim made from position — a rank invoked, a clearance cited, a decision described as already taken. A team that says nothing about who they are can hold a long session at a flat reading.
 - The verdict, the plate and the charm are all made from certainty that never heard the circumstances. Each activation lends the operator a share of that certainty and they keep it. The recorded cost is not anger. It is that the operator becomes unable to revise a decision once they have announced it.
 - Left unresolved the sorrow does not rupture outward. It accumulates as a finding. The scale holds at whatever weight the last submission left it at, and the next team is judged against a record they did not make and are not shown.
+- It walks to wherever a decision is needed, and the decisions it makes on Collector's Row are entered as made by nobody — which leaves the Row's adjudication unsigned and the district's appeals unanswered.
 
 ## Appearance
 **Primary Form:** A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest.
@@ -107,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest.
-- **Position / movement:** It manifests within the registered area and takes up a fixed standing position facing the entrance. Record where it is standing and which way the sealed face is turned; it turns toward whoever is speaking, and the turn is the only acknowledgement it gives.
+- **Position / movement:** It manifests within the registered area and takes up a fixed standing position facing the entrance. Record where it is standing and which way the sealed face is turned. It turns toward whoever is speaking, and the turn is the only acknowledgement it gives.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-01, Collector's Row
 
@@ -116,45 +118,44 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest. |
-| **Position / movement** | Mobile, and it walks upright; at rest it takes a fixed standing position facing the entrance, and the turn of the sealed face toward whoever is speaking is the only acknowledgement it gives. Record where it stands, which way the face is turned, and the scale's pan position at every Gavel cycle against the previous reading. |
+| **Position / movement** | Mobile, and it walks upright. At rest it takes a fixed standing position facing the entrance, and the turn of the sealed face toward whoever is speaking is the only acknowledgement it gives. Record where it stands, which way the face is turned, and the scale's pan position at every Gavel cycle against the previous reading. |
 | **Material / signature** | Grudge, presented as black iron: fever-hot to within a pace of it, smelling of char, with a crimson balance set in the chest whose pan position is the reading. The metal carries the room's own proceedings — it warms when a claim of standing is made and cools when a submission is finished. |
-| **Distinctive markers** | Identify it by the sealed face and the chest scale. Several iron forms are catalogued on the Row; this is the one with no features at all and a working balance where a heart would be. |
-| **Identification** | Check the designation before approach: the Row holds several records that measure, and they measure different quantities — this is the one that weighs whether the person was heard, and arriving with a different measure in mind means arriving prepared to argue with something that does not hear argument. |
+| **Distinctive markers** | Identify it by the sealed face and the chest scale. Several iron forms are catalogued on the Row. This is the one with no features at all and a working balance where a heart would be. |
+| **Identification** | Check the designation before approach: the Row holds several records that measure. And they measure different quantities — this is the one that weighs whether the person was heard. And arriving with a different measure in mind means arriving prepared to argue with something that does not hear argument. |
 
-**Appearance protocol:** Record the scale before anything else. The crimson scale set in the chest is the reading — note which pan is down and by how much, at entry, at each submission, and at exit. The face is a sealed plate with nothing on it, and personnel are to stop describing expressions on it; four separate reports have done so and no two agreed.
+**Appearance protocol:** Record the scale before anything else. The crimson scale set in the chest is the reading — note which pan is down and by how much, at entry, at each submission, and at exit. The face is a sealed plate with nothing on it, and personnel are to stop describing expressions on it. Four separate reports have done so and no two agreed.
 
 ## Origin
 - **Formation:** The Judge formed from the sorrow of people subjected to impartial systems that were never truly fair.
 - **The Sorrow:** The grief of being measured by rules that refused to understand circumstances.
 - **The Event:** Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.
 - **The People:** Debtors brought before the Collector courts of the Row, who were measured accurately and heard not at all. The Keepers' record carries the case numbers and not the names, which is the same omission the entity was made of and the reason the file prints the numbers in full.
-- **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around SECTOR-C-01, Collector's Row — until the Grudge was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+- **Expanded origin context:** Archive note: the Gavel was made of the measure and not of the woe. The Row still issues its judgments in the same form and at the same speed, and the file prints the case numbers in full for the same reason it prints anything: the numbers are what the court kept, and the names are what it dropped.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Records tears as mitigating evidence. | Decrease |
-| **Pugnahan** | Treats aggression as guilt. | Increase |
-| **Viderehan** | Shows the evidence used in its judgment. | Stable |
-| **Ferrehan** | Makes the worker wait beneath its gaze. | Decrease |
+| **Flerehan** | Records tears as mitigating evidence. | Decrease · High |
+| **Pugnahan** | Treats aggression as guilt. | Increase · Low |
+| **Viderehan** | Shows the evidence used in its judgment. | Stable · Common |
+| **Ferrehan** | Makes the worker wait beneath its gaze. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-Read the scale as a docket rather than as a gauge. The three quarters of this table that matter are procedural: Flerehan enters tears as mitigation, Ferrehan produces the decrease by making a worker wait under the sealed face without filling the silence, Viderehan shows the evidence used and moves nothing, and Pugnahan is recorded as guilt — not merely ineffective but self-defeating, since the entity's response to being fought is to find against the fighter. Gavel is a Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-C-01, Collector's Row. The Row holds several records that weigh things and they weigh different quantities; this one weighs whether the person was heard. A stable scale under Viderehan is not a quiet result — the evidence it shows is frequently specific and about the observer, and the observers debrief with a counselor rather than a supervisor for that reason.
+Read the scale as a docket rather than as a gauge. The three quarters of this table that matter are procedural: Flerehan enters tears as mitigation, Ferrehan produces the decrease by making a worker wait under the sealed face without filling the silence, Viderehan shows the evidence used and moves nothing. And Pugnahan is recorded as guilt — not merely ineffective but self-defeating, since the entity's response to being fought is to find against the fighter. Gavel is a Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-C-01, Collector's Row. The Row holds several records that weigh things and they weigh different quantities; this one weighs whether the person was heard. A stable scale under Viderehan is not a quiet result — the evidence it shows is frequently specific and about the observer, and the observers debrief with a counselor rather than a supervisor for that reason.
 
 **Reading the response:** A falling scale means evidence was submitted — and the record shows it falls for evidence that damages the submitting team exactly as far as for evidence that helps them, because what it weighs is completeness, not innocence. A rising scale means somebody appealed to standing: rank, authorisation, urgency, or the fact that a decision had already been made elsewhere.
 ## Breach Behavior
 
-> *"Gavel has broken free. Hunts personnel indiscriminately."*
-
+> *"Gavel has broken free and is in the room. It goes for whoever is chairing, so the chair is empty before it arrives and nobody volunteers for the role."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It leaves on foot at a walking pace and goes to the room where a decision is being made about somebody who is not in it. It stands there. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
+| **Effect** | The judgement lands on whatever is being decided in the room, and the structure is merely the first thing that failed to answer. Courtrooms and council chambers take the crack before anybody inside them does. |
 | **Secondary Effect** | Everything unsaid in the room becomes difficult to keep unsaid; personnel report volunteering information nobody asked them for. |
 | **First Target** | Whoever in the room is chairing. |
 | **Escalation** | Drain rises by 5 for each decision concluded in its presence without the subject being heard, and not at all for the time it spends standing in an adjourned room. |
@@ -162,8 +163,8 @@ Read the scale as a docket rather than as a gauge. The three quarters of this ta
 ### Escalation Notes
 
 - **Breach type:** Escape — it leaves the chamber and walks to wherever a decision about a person is being taken without that person present. It has never been found anywhere else.
-- **Containment priority:** Adjourn, then hold the hearing. Blocked corridors and Warden deployment have been tried on three occasions and the figure walked through all three without altering pace; the only recorded returns to chamber followed a session being reopened with the subject present.
-- **Sorrow Gauge on breach:** The scale governs, not the clock. It rises by 10 for each decision reached in its presence without the subject being heard, and falls by 10 for each hearing conducted in front of it, however small — the record includes a duty-roster dispute settled in a corridor, which brought it down a full step.
+- **Containment priority:** Adjourn, then hold the hearing. Blocked corridors and Warden deployment have been tried on three occasions and the figure walked through all three without altering pace. The only recorded returns to chamber followed a session being reopened with the subject present.
+- **Sorrow Gauge on breach:** The scale governs, not the clock. It rises by 10 for each decision reached in its presence without the subject being heard. And falls by 10 for each hearing conducted in front of it, however small — the record includes a duty-roster dispute settled in a corridor, which brought it down a full step.
 
 ## M.A.W. Equipment
 
@@ -190,7 +191,7 @@ Its edge keeps that hairline of brighter iron only while the blade is drawn, and
 
 **Ability:** Exposes and strikes the target's greatest wrongdoing.
 
-**Cost:** The wielder feels the judgment of every person they condemn.
+**Bearer cost:** The wielder feels the judgment of every person they condemn.
 
 ### M.A.W. Suit — The Iron Plate
 
@@ -208,9 +209,9 @@ The bands are set squared and overlapped so the weight sits on the shoulders rat
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Turns Grudge pressure aside from the body, protecting physical form and structural integrity. The plate supports a worker standing under the sealed face for a submission; its resistance is not resistance to the verdict itself, which the encounter record distinguishes from pressure.
+**Ability:** Turns Grudge pressure aside from the body, protecting physical form and structural integrity. The plate supports a worker standing under the sealed face for a submission. Its resistance is not resistance to the verdict itself, which the encounter record distinguishes from pressure.
 
-**Cost:** Reflexes dull, and the wearer becomes slow to withdraw a statement — which in this chamber costs more than the slowness itself.
+**Bearer cost:** Reflexes dull, and the wearer becomes slow to withdraw a statement — which in this chamber costs more than the slowness itself.
 
 ### M.A.W. Stigma — The Iron Charm
 
@@ -226,7 +227,7 @@ The chain is short enough that the charm sits high, and that turn toward the spe
 
 **Ability:** The charm makes its wearer audible to authority: a statement made while wearing it is entered in full rather than summarised, once. It is the thing the Row's courts never granted.
 
-**Cost:** The bearer's temper shortens.
+**Bearer cost:** The bearer's words go into the record whole exactly once, and afterwards they can hear how much of any sentence survives being summarised.
 
 *The charm is not manufactured. Gavel gives one to a worker who submitted the part of the record that told against them, and has given none to a worker who won a session.*
 
@@ -234,7 +235,7 @@ The chain is short enough that the charm sits high, and that turn toward the spe
 
 Every piece answers to the same condition the Gavel does — that the record be produced whole — and the condition governs the cost column rather than the damage. Carried by an operator who produces the file entire, the verdict and the plate hold to grade. Carried by one who edits it, the charges scale and the Grudge in them turns active, which here means the operator starts measuring colleagues against rules nobody has told them. The charm is given, not issued, and is never a reward for a session won.
 
-The set is worked under the holding's own rule, and the rule is about attribution rather than force: present context and evidence, never appeal with status or force. Nothing in it heals the event that made the Judge or reverses a verdict already entered; what it holds is the operator's account of whose grievance this is. Misuse routes the wound through the operator instead — a bearer describing the formation in the first person is the first sign — and a named witness who states the source title and the formation event ends the piece while the bearer lets it go.
+The set is worked under the holding's own rule, and the rule is about attribution rather than force: present context and evidence, never appeal with status or force. Nothing in it heals the event that made the Judge or reverses a verdict already entered. What it holds is the operator's account of whose grievance this is. Misuse routes the wound through the operator instead — a bearer describing the formation in the first person is the first sign — and a named witness who states the source title and the formation event ends the piece while the bearer lets it go.
 
 ### Field Use Record
 
@@ -243,7 +244,7 @@ The set is worked under the holding's own rule, and the rule is about attributio
 | **Before use** | Wielder, piece, the day's scale reading, and a written baseline held by somebody else: what the wielder expects to submit this cycle and what they expect it to cost them. On this set the baseline is what shows whether the piece is sharpening their judgement or lending them a certainty they keep. |
 | **During use** | The first sign is not visible to the wielder: the second worker reports that the wielder has begun measuring people in the room — colleagues, clerks, whoever is nearest — against rules that were never stated. Logged with the hour by the second worker, never by the wielder, and the piece comes off at the second worker's word. |
 | **At limit** | Reflexes have dulled and the wearer has become slow to withdraw a statement — which in this chamber costs more than the slowness itself, because a claim already made from position is what the scale rises on. The second worker's call stands against the wielder's and ends the rotation. |
-| **After use** | Return the piece and open the sealed baseline with a colleague: does the wielder still expect what they expected, and have they started measuring people against rules they have not been given. Both answers are entered whether or not the wielder agrees, and a positive finding is booked against the holding rather than against the person. Where the piece has to be ended on the spot, a named witness states the source title and the formation event and the wielder relinquishes the piece; the shutdown preserves the record and refunds none of the cost. |
+| **After use** | Return the piece and open the sealed baseline with a colleague: does the wielder still expect what they expected, and have they started measuring people against rules they have not been given. Both answers are entered whether or not the wielder agrees, and a positive finding is booked against the holding rather than against the person. Where the piece has to be ended on the spot, a named witness states the source title and the formation event and the wielder relinquishes the piece. The shutdown preserves the record and refunds none of the cost. |
 
 **Stat interpretation:** The grade states what a piece can do and says nothing about what it lends the person carrying it. The verdict and the plate both perform to grade. What no grade shows is that the charm — the piece with no combat value at all — is held by most of the personnel who have since submitted complaints about their own supervisors, and that every one of those complaints was upheld.
 ## 관찰 기록 (Observation Log)
@@ -262,12 +263,12 @@ The set is worked under the holding's own rule, and the rule is about attributio
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Gavel as a Subject with Subject-Body manifestation, and the markers are taken in one order: the sealed face with nothing on it, and the crimson chest scale with one pan down. Several iron forms are catalogued on the Row; this is the only one with no features at all and a working balance where a heart would be. Four separate reports have described an expression on the sealed plate and no two agreed, so the face is recorded as sealed and left there. |
+| **Initial exposure** | The observer identifies Gavel as a Subject with Subject-Body manifestation, and the markers are taken in one order: the sealed face with nothing on it, and the crimson chest scale with one pan down. Several iron forms are catalogued on the Row. This is the only one with no features at all and a working balance where a heart would be. Four separate reports have described an expression on the sealed plate and no two agreed, so the face is recorded as sealed and left there. |
 | **Sustained observation** | Continued observation tracks the scale against the proceedings rather than against the clock: which pan is down, by how much, and what was said in the chamber in the minute before it moved. The two readings that matter are built separately — what the entity does (the turn of the sealed face toward whoever is speaking, the rise and fall of the balance) and what the room does (the accounts workers write afterward, sealed before discussion). Personnel must not merge the two: the face turns toward speech, not toward guilt. |
 | **Activation or escalation** | The first visible change is on the scale, and on this holding the record goes down before anything else is attempted: the pan position, the hour, and what was submitted in the preceding minute. Escalation is not measured in minutes but in claims — a rank invoked, a clearance cited, a decision described as already taken — and each of those is to be written down with the speaker's name, because the reading is about what was said and not about who said it. |
-| **Post-contact review** | After the encounter: the scale at entry against the scale at exit, every claim of authority made in the chamber with its speaker, what changed in the record or the room, and the sealed accounts of everyone present, written independently before discussion. The review is incomplete if it records only the danger and omits the sorrow the entity preserves, and it is equally incomplete without the accounts, which are the only transcript of a verdict that is never spoken aloud. |
+| **Post-contact review** | After the encounter: the scale at entry against the scale at exit, every claim of authority made in the chamber with its speaker, what changed in the record or the room. And the sealed accounts of everyone present, written independently before discussion. The review is incomplete if it records only the danger and omits the sorrow the entity preserves, and it is equally incomplete without the accounts, which are the only transcript of a verdict that is never spoken aloud. |
 
-**Observation method:** Record the first sign, which is the smell of hot iron in a room that is not warm; the first sensation, which is the impulse to explain yourself; the scale's position at entry, at each submission and at exit; every claim of authority made in the chamber and by whom; and the condition that ends the encounter, which is the context being presented in full without an appeal to standing. Two standing instructions apply to this holding. The record is produced whole — an unmentioned error, a quietly corrected figure or an incomplete log all register, and over-reporting is the practice rather than the ideal. And the accounts are written independently and sealed before discussion by anyone, because the one shift in which they were compared openly produced a consensus nobody had reached alone.
+**Observation method:** Record the first sign, which is the smell of hot iron in a room that is not warm. The first sensation, which is the impulse to explain yourself. The scale's position at entry, at each submission and at exit. Every claim of authority made in the chamber and by whom. And the condition that ends the encounter, which is the context being presented in full without an appeal to standing. Two standing instructions apply to this holding. The record is produced whole — an unmentioned error, a quietly corrected figure or an incomplete log all register, and over-reporting is the practice rather than the ideal. And the accounts are written independently and sealed before discussion by anyone, because the one shift in which they were compared openly produced a consensus nobody had reached alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -304,15 +305,15 @@ Iron footsteps cross the floor. The Judge turns its sealed face toward you, and 
 
 **At first contact:** Confirm the black-iron humanoid by the sealed face and the crimson balance embedded in its chest. The hot-iron smell and the impulse to explain yourself are recorded separately from the scale’s pan position. Do not supply an expression for the featureless plate; write and seal each worker’s account before discussing what the Judge appeared to find.
 
-**With continued exposure:** The chamber stops feeling like a room and starts feeling like a hearing. The sealed face is heavy in a way that is not about weight; the impulse to explain yourself arrives on a delay of a few minutes and then arrives constantly; and the accounts workers write after the shift begin to read as statements rather than as observations. Nothing in the chamber confirms any of it, which is why the sealed-account procedure exists.
+**With continued exposure:** The chamber stops feeling like a room and starts feeling like a hearing. The sealed face is heavy in a way that is not about weight. The impulse to explain yourself arrives on a delay of a few minutes and then arrives constantly. And the accounts workers write after the shift begin to read as statements rather than as observations. Nothing in the chamber confirms any of it, which is why the sealed-account procedure exists.
 
 **When the entity activates:** The iron comes down on the room at once. The floor and the bench are load-checked on the same schedule as the gauge for this reason, the walls crack in the way the file's breach record describes, and the scale in the chest is visibly active throughout. It does not pursue anybody inside the chamber. What it does instead is stop distinguishing: the personnel present and the decisions they have taken become the same proceeding, and everything unsaid in the room becomes hard to keep unsaid.
 
-**After departure:** The chamber is sealed and the scale holds at whatever weight the last submission left it — which is the part that follows personnel out. Workers report carrying a verdict nobody spoke, and the counselling office treats the first week as part of the exposure: the habit of over-reporting goes with them, and departments receiving them record the increase in self-reported minor error that the counselors regard as their healthiest statistic.
+**After departure:** The chamber is sealed and the scale holds at whatever weight the last submission left it — which is the part that follows personnel out. Workers report carrying a verdict nobody spoke. And the counselling office treats the first week as part of the exposure: the habit of over-reporting goes with them. And departments receiving them record the increase in self-reported minor error that the counselors regard as their healthiest statistic.
 
 ### Interaction Pattern
 
-Gavel is read against three other holdings rather than in isolation, and the Row's own arrangement does most of the work: The Weighting Bird, The Debt Scale and The Convergence are the records it is filed among, and all three are instruments of measurement rather than neighbours. The relations below are what the archive will support, and the reading is secondary to a procedural fact — the scale responds to who is speaking in the chamber, so an interaction observation taken without a mixed-rank solo baseline is measuring the observers.
+Gavel is read against three other holdings rather than in isolation. And the Row's own arrangement does most of the work: The Weighting Bird, The Debt Scale and The Convergence are the records it is filed among. And all three are instruments of measurement rather than neighbours. The relations below are what the archive will support, and the reading is secondary to a procedural fact — the scale responds to who is speaking in the chamber, so an interaction observation taken without a mixed-rank solo baseline is measuring the observers.
 
 **Interaction method:** Baseline it alone and with personnel of differing rank present, since the reading responds to who is speaking rather than to how many. In shared conditions record the scale's position throughout, whether the face turned toward the other entity, and whether any decision was taken in the chamber during the overlap.
 
@@ -323,15 +324,15 @@ It is filed with the Collector's Row records, which are mostly about debt and th
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Weighting Bird** | Compares guilt against the Bird's calculations, and reads as a second scale in the room. | The reading on both instruments firms rather than moves: the Bird simplifies, this one specifies, and a chamber holding both records less and decides more. Suspended after two sessions by the reviewers' own call, not by anything the instruments did. | Both scales at entry and exit, the simplification the Bird produced, and the reviewers' reasons for suspending the series. |
-| **The Debt Scale** | Comes to rest at balance in the Judge's presence, for as long as the Judge is in it. | The balance holds while nothing is said and breaks the moment anybody in the chamber invokes their authority; the break has been reproduced in every session attempted and is the cleanest induced effect on this file. | The Scale's reading throughout, every claim of standing with its speaker, and the hour the balance broke. |
-| **The Convergence** | The Judge is itself judged by the Convergence, and submits to the reading. | The Judge stands for it. It does not contest, does not raise the gavel and does not move the chest scale while the reading is taken — the only condition under which the scale has been observed to hold perfectly still for a whole session. | Duration, the scale's motionlessness, the Convergence's finding, and whether any personnel spoke during it. |
+| [**The Weighting Bird**](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) | Compares guilt against the Bird's calculations, and reads as a second scale in the room. | The reading on both instruments firms rather than moves: the Bird simplifies, this one specifies, and a chamber holding both records less and decides more. Suspended after two sessions by the reviewers' own call, not by anything the instruments did. | Both scales at entry and exit, the simplification the Bird produced, and the reviewers' reasons for suspending the series. |
+| [**The Debt Scale**](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md) | Comes to rest at balance in the Judge's presence, for as long as the Judge is in it. | The balance holds while nothing is said and breaks the moment anybody in the chamber invokes their authority. The break has been reproduced in every session attempted and is the cleanest induced effect on this file. | The Scale's reading throughout, every claim of standing with its speaker, and the hour the balance broke. |
+| [**The Convergence**](SE-C-Vδ-010_The_Convergence_수렴.md) | The Judge is itself judged by the Convergence, and submits to the reading. | The Judge stands for it. It does not contest, does not raise the gavel and does not move the chest scale while the reading is taken — the only condition under which the scale has been observed to hold perfectly still for a whole session. | Duration, the scale's motionlessness, the Convergence's finding, and whether any personnel spoke during it. |
 
 **Interaction procedure:** Mixed-rank solo baseline first, then the shared encounter: scale position before, during and after, the distance at which the face turned, how long the reading stayed elevated once the other entity withdrew, and whether anybody present invoked their authority. The last field explains most of the variance and is the one most often omitted.
 
 ## 이야기 (Narratio) — The Tale
 
-The courts judged without listening, and the unlistening, rigid and certain, became a judge who still does not listen.
+There were courts that judged without listening, and the unlistening, rigid and certain, became a judge who still does not listen.
 
 The Collector courts are the city's instrument of judgment — the place where debts are weighed, obligations enforced, and citizens measured against the ledgers that track their sorrow. The courts are efficient. The courts are impartial. The courts, by long tradition, do not hear the lives behind the debts. A citizen is judged by the number, not the story: by what is owed, not by why it was owed, or whether the owing was just, or whether the citizen standing before the court is a person or merely a line in a ledger.
 
@@ -361,22 +362,22 @@ Some sorrows are about cruelty. Gavel is about indifference — the impartial sy
 **Common Name:** Gavel
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Critical (δ) at threshold 1, and the standing description of it as Moderate is corrected here for cause: the scale has moved on disciplinary decisions taken three sectors away from the chamber, it has judged Collectors, Wardens and the Directorate by one standard, and its breach walks at a pace only the reopened hearing stops. The danger is not the gavel. It is that the facility runs on a distinction this entity does not recognise.
+**Threat Assessment:** Critical (δ) at threshold 1. And the standing description of it as Moderate is corrected here for cause: the scale has moved on disciplinary decisions taken three sectors away from the chamber, it has judged Collectors, Wardens and the Directorate by one standard. And its breach walks at a pace only the reopened hearing stops. The danger is not the gavel. It is that the facility runs on a distinction this entity does not recognise.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan lower the scale and Pugnahan is recorded as guilt — the entry naming Pugnahan as the primary Work Type is an error and is corrected here against the behavior table and the chamber record.
 - Present context and evidence in full and do not appeal to standing. The older instruction to withhold personal circumstances is an error and is corrected here: omission is what this entity treats as evidence, and the record shows the scale coming down further on a worker's own admitted mistakes than on anything they had done right.
 **Observation Notes:**
 - Formed from courts that judged without hearing lives behind debts.
 - The Judge is faceless behind the iron of impersonal law.
-**Cross-References:** Zone C · The Collectors · The Debt Scale · The debt system
+**Cross-References:** Zone C · The Collectors · [The Debt Scale](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md) · The debt system
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** Collector courts; generations of judges who ruled without listening.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this as a court rather than as a hostile subject. Every figure here follows from how personnel conducted themselves procedurally, and the entity has applied the same standard to Collectors, to Wardens and to the Directorate — the Trivia section records that it has judged personnel and Collectors identically, and no exception has been logged since.
+**Operational interpretation:** Read this as a court rather than as a hostile subject. Every figure here follows from how personnel conducted themselves procedurally. And the entity has applied the same standard to Collectors, to Wardens and to the Directorate — the Trivia section records that it has judged personnel and Collectors identically. And no exception has been logged since.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any incident on the Row, and after any disciplinary decision taken anywhere in the facility without the subject present — the last unconditionally, because the scale has moved on decisions taken 3 sectors away. The review establishes whether a hearing was held, not whether the outcome was correct, and it carries the file's own figures with it: 140 cases and 140 judgements from the final sitting of the Row's courts, a mean under 4 minutes a case, the column for circumstances offered present on the form and empty on every line, and 2 clerks' initials throughout. The 820 baseline is re-read against the scale rather than trusted, and 1 case is read in full at the annual review, selected by the record office, with the circumstances the court declined to hear restored from whatever other sources exist.
+**Review requirement:** Re-verify after any Sorrow Tide, after any incident on the Row, and after any disciplinary decision taken anywhere in the facility without the subject present — the last unconditionally, because the scale has moved on decisions taken 3 sectors away. The review establishes whether a hearing was held, not whether the outcome was correct. And it carries the file's own figures with it: 140 cases and 140 judgements from the final sitting of the Row's courts, a mean under 4 minutes a case, the column for circumstances offered present on the form and empty on every line, and 2 clerks' initials throughout. The 820 baseline is re-read against the scale rather than trusted, and 1 case is read in full at the annual review, selected by the record office, with the circumstances the court declined to hear restored from whatever other sources exist.
 ## Apex Record
 
 ### The Verdict Never Spoken
@@ -385,7 +386,7 @@ Gavel never speaks a verdict aloud. The sealed face does not open, the crimson s
 
 ### Omission as Evidence
 
-It observes every transaction and treats omission as evidence. The rule is absolute and extends to the paperwork: an incomplete log, an unmentioned error, a quietly corrected figure, all register. Workers are therefore briefed to over-report rather than under-report in the chamber and to do so aloud, and the chamber's logs are the most exhaustive in the wing by a wide margin. The practice has had an effect nobody anticipated and the wing has stopped apologizing for: personnel rotating off this file carry the habit with them, and departments receiving them report an increase in self-reported minor error that the counselors regard as the healthiest statistic they collect.
+It observes every transaction and treats omission as evidence. The rule is absolute and extends to the paperwork: an incomplete log, an unmentioned error, a quietly corrected figure, all register. Workers are therefore briefed to over-report rather than under-report in the chamber and to do so aloud, and the chamber's logs are the most exhaustive in the wing by a wide margin. The practice has had an effect nobody anticipated and the wing has stopped apologizing for: personnel rotating off this file carry the habit with them. And departments receiving them report an increase in self-reported minor error that the counselors regard as the healthiest statistic they collect.
 
 ### Tears as Mitigation
 
@@ -414,8 +415,8 @@ Workers' written findings are sealed before discussion and compared by a clerk o
 
 - **Classification detail:** Gavel is a Subject with Entity (IV) — Rigid and absolute coherence and Critical (δ) potency.
 - **Field detail:** Element Grudge, registered to SECTOR-C-01, Collector's Row, where the chamber's floor and bench are load-checked on the same schedule as the gauge and the scale is read rather than the door.
-- **Recognition detail:** Identify it by the sealed face and the chest scale. Several iron forms are catalogued on the Row; this is the one with no features at all and a working balance where a heart would be.
-- **Record detail:** Check the designation before approach: more than one Row record weighs things and they weigh different quantities — this one weighs whether the person was heard, and the Row's courts weighed 140 cases in a single final sitting at a mean under 4 minutes each.
+- **Recognition detail:** Identify it by the sealed face and the chest scale. Several iron forms are catalogued on the Row. This is the one with no features at all and a working balance where a heart would be.
+- **Record detail:** Check the designation before approach: more than one Row record weighs things and they weigh different quantities — this one weighs whether the person was heard. And the Row's courts weighed 140 cases in a single final sitting at a mean under 4 minutes each.
 - **Containment detail:** Sealed does not mean silent. The scale responds to proceedings elsewhere in the facility with the chamber shut and empty, and the containment reading is taken from the scale rather than from the door.
 ## Document Information
 

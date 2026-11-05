@@ -78,8 +78,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/911_Never_Discharged/SE-911-C__MAW-S_Never_Discharged_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/911_Never_Discharged/SE-911-D__MAW-G_Never_Discharged_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "reasoning": "Complete341-line primary and exact911A–D read. Time-Body is unfinished medical scene, not living Organic source: body-content and temporal-medium distinction is explicit in Tale. Snapshot, recurrence, window/door/clock position, subjective scream versus recorded silence, normal versus one contracted/expanded regime, second-loop Work, examinations, paper-only pairings and materialised gear traced. Scope: temporal tableau label, actual contraction/extent, Moderate rather than Sovereign, no physical suppression, qualify universal safe-corridor and fixed-interval claims, concrete scene and witness organisation.",
   "history": "Exact911A–D, registry1003–1006, archetype364 and disposition369 read; no dedicated Master exact-name match. Primary/B βWeight11–17 Normal2 Short2 4/25; C L/G/V/W1/1/1.2/.3 4/20; DHead5%+1 align. Primary surgical Short blade versus Medium sheathed service blade archetype is same-item conflict, not a source-silhouette obligation. Archived B43unit4 f7b6f72, B46unit4 quote and B47unit3 b19127e prose history read; none proves unique equipment credit, +0/+0 conservatively withheld.",
@@ -102,8 +102,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/911_Never_Discharged/SE-911-C__MAW-S_Never_Discharged_s_Veil.md": "fe8ed55d3acf657c193bd3534c91091c07c4a2a8e0090831f9a2b603dc61c307",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/911_Never_Discharged/SE-911-D__MAW-G_Never_Discharged_s_Token.md": "9be067ff96ddf803e6d759a5d61fb9e1c7dbbf0626abbc597edd86fa0e9efd4f",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

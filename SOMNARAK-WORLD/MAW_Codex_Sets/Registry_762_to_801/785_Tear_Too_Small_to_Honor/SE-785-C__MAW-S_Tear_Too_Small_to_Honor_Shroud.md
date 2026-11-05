@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Tear Too Small to Honor Shroud
 
-> *“Tear Too Small to Honor Shroud remembers Tear Too Small to Honor; the bearer must not mistake memory for permission.”*
+> *"Grief is pressed flat enough to carry. A season of it means it cannot be found when it is needed, and returns all at once."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Tear Too Small to Honor's kind of pressure.  
-**Binding rule:** the bearer names Tear Too Small to Honor's event—A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
-
+**Binding rule:** the bearer names Tear Too Small to Honor's event — “A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object.” — and accepts this limit: the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised.  
+**Gauge:** 000/240; opens at 000%; no attack pattern is filed for this Lament manifestation — the height above the soil, in tenths of a millimetre, is the reading.
 ## Appearance
 
-The Tear Too Small to Honor Shroud is the suit record of its source’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a grief so small it was hidden rather than mourned. Binding is testimonial: the wearer names the source event — a visitor hid a single tear beneath a Garden stone, and the grief flattened into a collapsed object — and accepts the registry’s limit: the entity- specific management condition must be satisfied and the Sorrow Gauge held below 25%. The operational cost is numbness to minor joys — an exact echo of the source’s minor sorrow denied minor honor — and continued use makes the sorrow feel autobiographical. The source-trace set the doctrine: the suit tests whether the worker can hold grief without dismissing it — smallness respected, not triaged away — and it contained the immediate hazard only after the team attributed it to the source. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Tear Too Small to Honor Shroud is the suit record of its source’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a grief so small it was hidden rather than mourned. Binding is testimonial: the wearer names the source event — a visitor hid a single tear beneath a Garden stone, and the grief flattened into a collapsed object — and accepts the registry’s limit: the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised. The cost is the fold: the wearer's grief is pressed flat enough to carry, and a season of it means they cannot find it when it is needed and it returns all at once. The source-trace set the doctrine: the suit tests whether the worker can hold grief without dismissing it — smallness respected, not triaged away — and it contained the immediate hazard only after the team attributed it to the source. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,33 +29,26 @@ The Tear Too Small to Honor Shroud is the suit record of its source’s set, gra
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Tear Too Small to Honor's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
+**Operational / binding cost:** The Shroud shelters the mind by pressing the feeling flat: worn, the wearer's grief is folded small enough to carry. Worn long, they cannot find it when they need it, and it comes back all at once.
 
 ## ITEM-SPECIFIC HISTORY — *The Tear Too Small to Honor Source-Trace: Suit Record*
 
-The first Tear Too Small to Honor Shroud field bearer encountered this source response: Tests whether the worker can hold grief without dismissing it. The suit contains the immediate hazard only after the team attributed it to Tear Too Small to Honor. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Tear Too Small to Honor Shroud field bearer encountered this source response: Tests whether the worker can hold grief without dismissing it. The suit contains the immediate hazard only after the team attributed it to Tear Too Small to Honor. A wearer could not find their grief when the funeral came, and the Shroud’s binding is the note made at that graveside.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Tear Too Small to Honor's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the folded grief arrives all at once, in rooms where nothing has happened.
 - Terminal state: Tear Too Small to Honor's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-785 -->
+**Failure mode:** violating “the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised.” reverses the item’s benefit and raises the source Gauge — a 000/227 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Tear Too Small to Honor Shroud only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Tear Too Small to Honor Shroud; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-785-C`  
-**Linked Entity:** `SE-785`  
-**Item Registry Code:** `MAW-S-785-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still find what they folded; the first search that fails takes the Shroud out.

@@ -2,7 +2,7 @@
 
 > *“Research is not idle curiosity; it is the boundary between containment and annihilation.”*
 
-**Research**  [연구 개발]  (_Yeongu Gaebal_) represents the permanent technological and administrative advancements unlocked by the Warden within Facility 01. 
+**Research**  [연구 개발]  (_Yeongu Gaebal_) represents the permanent technological and administrative advancements unlocked by the Warden within Facility 01.
 
 By completing departmental missions issued by the [Echo-Cores](14-Echo-Cores.md), the Directorate unlocks specialized upgrades from the nine research laboratories. These upgrades permanently enhance specialist survivability, increase [Lumen](33-Lumen.md) harvesting efficiency, and unlock advanced containment visualization.
 

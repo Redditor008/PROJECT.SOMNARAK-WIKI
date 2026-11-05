@@ -65,14 +65,3 @@ One central plate now stays absent by design; replacing it is a shutdown-level f
 Ring distinguishes hostility, Plate protects without governing, and Fang cuts one coercive brace. Together they establish a route whose authority ends when the traveler passes.
 
 > *“Standing between two pressures did not make me neutral when my body still occupied her path.”* — Gate Watch Commander Xyan
-
----
-
-**Document ID:** `SE-617-C`  
-**Linked Entity:** `SE-617`  
-**Item Registry Code:** `MAW-S-617-01`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
