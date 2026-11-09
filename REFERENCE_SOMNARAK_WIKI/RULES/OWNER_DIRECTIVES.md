@@ -512,3 +512,23 @@ And Some Is From The DONE List Because I Think There Is Still Things Not Done."*
   fails the build that forgot it.
 - **A citation is not evidence.** *"Enforced by a gate"* means the gate runs on every push, not that a
   file with that name exists.
+
+---
+
+### O-38 · A command ends in a file
+
+**The owner's instruction, 2026-11-05:** *"Did You Ever Written Down Or Read The Rule For Example If I
+Give you Command Or Commanding Tone You Should Have Added It To Rule Or WIP Isnt There A RULE Like
+That"*
+
+- **Three destinations, and a command is finished when it reaches one.** A *rule* if it outlives the
+  files it touches, an *order* if it is permanent law about the method, an entry in *the record* if
+  it is a correction or a sweep. A question that names a missing standard — *"isn't there a rule like
+  that"* — is an instruction to write the rule, not to answer the question.
+- **Quote the words.** A paraphrase is a second author's opinion of the instruction; the file keeps
+  the instruction.
+- **Unclassified means the record, not silence.** An entry can be promoted to a rule later. A
+  sentence left in the conversation cannot be recovered later at all.
+- **Checked by** `check_command_capture.py` (gate 94): every rule named in the register, every order
+  a row of its Part II table, every batch inside a declared era, and the declared span reaching the
+  highest batch on record.

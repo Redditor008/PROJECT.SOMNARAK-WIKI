@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 207.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 209.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -30,7 +30,7 @@ lines → push, then say what is still open.
 
 # Part I — The named reformations
 
-Sixteen programmes, in the order they were opened. Each entry gives **what you said**, **what it
+Seventeen programmes, in the order they were opened. Each entry gives **what you said**, **what it
 meant**, **what changed**, **where it lives**, **what checks it**, and **where it stands today**.
 
 ---
@@ -354,7 +354,36 @@ cross-checked, **0** cells off contract.
 
 ---
 
-# Part II — The thirty-seven standing orders
+## 17. The Capture Reformation — `R-52` / `O-38`, batches 206–209
+
+**What you said.** *"Did You Ever Written Down Or Read The Rule For Example If I Give you Command Or
+Commanding Tone You Should Have Added It To Rule Or WIP Isnt There A RULE Like That"*
+
+**What it changed.** The answer was no. The archive had said it three times in prose — *"a rule that
+lives only in a conversation will be broken by whoever reads the file next"* (`RULES/README.md`),
+*"an order that is only in a chat log is not a standard — it is a memory"* (`OWNER_DIRECTIVES.md`),
+*"no command lives only in a chat log"* (this register) — and none of the three was a rule, an order,
+or a check. They were preambles, and a preamble describes a habit where a rule binds.
+
+**What the absence cost, measured.** The SECC Refinement was given and was not in this register for
+four batches (§16). Three gates were written, tested, indexed, cited, and never added to the build
+(`O-37`). Both are the same failure: the command was obeyed and never filed.
+
+**What it now is.** Three destinations — a rule, an order, the record — and a command is finished
+when it reaches one. A question that names a missing standard (*"isn't there a rule like that"*) is
+an instruction to write the rule, not to answer the question. Unclassified instructions default to
+the record rather than to silence, because an entry can be promoted and a lost sentence cannot be
+recovered.
+
+**Where it lives.** `R-52`; `O-38`; this §17.
+**Checks it.** `check_command_capture.py` (gate 94): every rule named in this register, every order a
+row of Part II, every batch inside a declared era, and the declared span reaching the highest batch
+on record.
+**Status.** **DONE and gated.**
+
+---
+
+# Part II — The thirty-eight standing orders
 
 The permanent law, each with your words where they survive verbatim. Full text in
 `OWNER_DIRECTIVES.md`.
@@ -398,12 +427,13 @@ The permanent law, each with your words where they survive verbatim. Full text i
 | **O-35** | A work can cost, cost nothing, or give | 203 | DONE |
 | **O-36** | Some holdings have one thing they do | 204 | DONE |
 | **O-37** | A gate cited is a gate wired — an auditor named by `how_finished.py` must be invoked by `tools/gate.sh` | 207 | DONE |
+| **O-38** | A command ends in a file — a rule, an order, or the register; never only in the conversation | 209 | DONE |
 
 ---
 
 # Part III — The rule index
 
-Every command that became law has a file. **51 rules**, `R-01`–`R-51`.
+Every command that became law has a file. **52 rules**, `R-01`–`R-52`.
 
 `R-01` no edit-meta · `R-02` growth-only · `R-03` no label decoration · `R-04` bespoke per entity ·
 `R-05` no threshold gaming · `R-06` the threshold is the counter · `R-07` percentage where no
@@ -423,15 +453,15 @@ chain · **`R-40` a relic is handled, not worked** · **`R-41` the barred cells 
 session** · `R-45` write every section to its contract · **`R-46` the Tale has four registers** ·
 **`R-47` a relic charges by the second** · **`R-48` the charge** · **`R-49` a work can cost, cost
 nothing, or give** · **`R-50` some holdings have one thing they do** · **`R-51` a table row
-answers one question**.
+answers one question** · **`R-52` a command ends in a file**.
 
-*(Bold = the eight reform laws of batches 193–207.)*
+*(Bold = the nine reform laws of batches 193–209.)*
 
 ---
 
 # Part IV — The batch record, by era
 
-**207 batches, 613 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
+**209 batches, 615 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
 
 | era | batches | what it was for |
 |---|---|---|
@@ -448,13 +478,13 @@ answers one question**.
 | **The Tale** | 188–189 | four registers; the first Dialogue Stories in the archive |
 | **The charge** | 190–202 | `R-40` closed, `R-47`/`R-48` drafted five times, six doses and the minutes |
 | **The effects** | 203–205 | three work verdicts, individual SE effects, the Tale measured |
-| **The gate audit** | 206–207 | the register itself; three gates the build never ran; SECC given one question per row |
+| **The gate audit** | 206–209 | the register itself; three gates the build never ran; SECC given one question per row; a command made to end in a file |
 
 ---
 
 # Part V — Where the commands stand
 
-**24 standards are measured every batch** (`tools/auditors/how_finished.py`). **18 are DONE, 6
+**25 standards are measured every batch** (`tools/auditors/how_finished.py`). **19 are DONE, 6
 OPEN, 0 unknown:**
 
 | OPEN standard | remainder |

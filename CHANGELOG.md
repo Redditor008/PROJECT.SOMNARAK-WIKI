@@ -2,6 +2,34 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the rule that was missing, because nothing made it a rule
+
+**You asked whether the archive had a rule saying an instruction must be written down. It did not.**
+It had the sentence three times — *"a rule that lives only in a conversation will be broken by
+whoever reads the file next"* in `RULES/README.md`, *"an order that is only in a chat log is not a
+standard — it is a memory"* in `OWNER_DIRECTIVES.md`, *"no command lives only in a chat log"* in the
+register — and all three were preambles. A preamble describes a habit; a rule binds.
+
+That absence is what the last three batches were finding the debris of: the SECC Refinement given and
+absent from the register for four batches, and three gates written, tested, indexed, cited and never
+added to the build. In both cases the command was **obeyed and never filed**, and nothing could
+notice.
+
+- **`R-52` — A Command Ends In A File.** Three destinations: a rule if it outlives the files it
+  touches, an order if it is permanent law about the method, the record if it is a correction or a
+  sweep. A command may reach more than one. A question that names a missing standard — *"isn't there
+  a rule like that"* — is an instruction to write the rule, not to answer the question. Unclassified
+  instructions go to the record, because an entry can be promoted later and a lost sentence cannot.
+- **`O-38`** carries the same as standing law, and **§17 The Capture Reformation** records it in the
+  register with the words that asked for it.
+- **`check_command_capture.py` (gate 94)** reads the three registers against each other and fails if
+  any command ends nowhere: a rule on disk the register never names, an order with no row in its
+  Part II table, a batch outside every declared era, or a declared span that stops short of the
+  highest batch on record.
+
+It found three real gaps on its first run — `R-52` itself unregistered, batch 208 in no era, and a
+declared span of 207 — all closed in the same unit. That is the gate working, not the gate failing.
+
 ## Unreleased — read as a reader, section by section
 
 **A pass over every section of every dossier, read the way a reader reads it** rather than audited

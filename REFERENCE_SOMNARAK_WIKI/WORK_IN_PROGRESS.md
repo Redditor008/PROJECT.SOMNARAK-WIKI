@@ -1,5 +1,40 @@
 # Work In Progress
 
+## Batch 209 — the rule that was never a rule (2026-11-05)
+
+### 1. What you asked
+
+*"Did You Ever Written Down Or Read The Rule For Example If I Give you Command Or Commanding Tone You
+Should Have Added It To Rule Or WIP Isnt There A RULE Like That"* — a question with a command inside
+it, which is the exact shape the answer needed to cover.
+
+### 2. The answer was no
+
+The archive stated the duty three times and never bound it:
+
+| where | what it says | was it a rule? |
+|---|---|---|
+| `RULES/README.md` line 3 | *"a rule that lives only in a conversation will be broken by whoever reads the file next"* | preamble |
+| `OWNER_DIRECTIVES.md` line 6 | *"an order that is only in a chat log is not a standard — it is a memory"* | preamble |
+| `COMMAND_REGISTER.md` line 7 | *"no command lives only in a chat log"* | preamble |
+
+Three sentences, three files, no rule number, no gate. Which is why batches 207 and 208 kept turning
+up commands that had been obeyed and never filed.
+
+### 3. What was built
+
+`R-52` · `O-38` · register §17 · `check_command_capture.py` (gate 94) · 14 tests.
+
+The gate compares the three registers: every `R-nn` named in the register, every `O-nn` a row of its
+Part II table, every WIP batch inside a declared era, and the declared span reaching the highest batch
+on record. **It failed on its first run with three real gaps** — its own rule unregistered, batch 208
+in no era, and a span that stopped at 207 — and all three are closed in this unit.
+
+### 4. Where it stands
+
+**25 standards**, 19 DONE, 6 OPEN. The capture duty is the nineteenth: a command cannot now end in a
+conversation without the build saying so.
+
 ## Batch 208 — read every section as a reader (2026-11-05)
 
 ### 1. What you asked for
