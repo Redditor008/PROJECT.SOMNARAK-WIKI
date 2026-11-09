@@ -384,6 +384,20 @@ The day after the Dawn That Was is the most commemorated date the Directorate ma
 
 The morning-after doctrine is the Directorate's closing answer to the Dawn: restore the partial, honor the ordinary, and count. Rebuild the compartments grace dissolved. Bless the routines transcendence scorned. Log every mercy, weigh every dawn, and stand the watches — blessing, sky, eleventh-hour — as if the next completion were always one mercy away. Because it is. The Healer's successors still show mercy. The blessings still count upward. And every cycle the city arrives, sooner or later, at the eleventh blessing, the eleventh hour, the held breath before the twelfth — and counts, and steers, and endures. The Dawn That Was rose once. The Directorate exists to ensure the grammar holds: was, not is. Mourning, with a u, for the morning that broke the city — and vigilance, without end, for every morning after.
 
+## Apex Record
+
+### The Line It Ends
+
+Dawn of Mourning is not filed as a holding but as the end of one. The Kind Healer, its Blessing Giver successor and the Apostle Maker form a single line, and the twelfth blessing is where the line stops being an atrocity of scale and becomes a verdict. Nothing in the register crosses a wider span: the weakest record in the codex, carried far enough, is the only Catastrophic-grade form that can be made out of a Residue. The Hand of Hope is its counterpart, born of the same chain and filed against it.
+
+### The Limit
+
+The count runs to twelve and then begins again at one. Between the eleventh and the twelfth there is an interval in which the trajectory can still be bent, and everything the institution holds about this record is held about that interval and nothing else. The contingency register is preserved at eleven of twelve, which is the only reading anybody has. Past twelve, the blessing-watch keeps a question it has never been able to close, and the sealed orders that answer it are held by three Wardens who have not written down what is in them.
+
+### The Standing Arrangement
+
+Nothing is contained, because nothing is currently formed. The register is reviewed quarterly rather than weekly, and eleventh-hour command is drawn by lot from the senior Wardens, on the theory that the eleventh hour belongs to the institution and not to any officer's career. Beyond that the doctrine is the morning after: restore what grace dissolved, honour the ordinary it scorned, and count. A cycle in which the blessings refuse to reset is the only case the sealed orders cover, and no arrangement exists for what happens after that cycle ends.
+
 ## Trivia
 
 - The Dawn's wings contain twelve voices, one for each blessing.

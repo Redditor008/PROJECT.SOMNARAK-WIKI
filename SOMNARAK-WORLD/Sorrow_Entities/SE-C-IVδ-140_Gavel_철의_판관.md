@@ -164,7 +164,7 @@ Read the scale as a docket rather than as a gauge. The three quarters of this ta
 
 - **Breach type:** Escape — it leaves the chamber and walks to wherever a decision about a person is being taken without that person present. It has never been found anywhere else.
 - **Containment priority:** Adjourn, then hold the hearing. Blocked corridors and Warden deployment have been tried on three occasions and the figure walked through all three without altering pace. The only recorded returns to chamber followed a session being reopened with the subject present.
-- **Sorrow Gauge on breach:** The scale governs, not the clock. It rises by 10 for each decision reached in its presence without the subject being heard. And falls by 10 for each hearing conducted in front of it, however small — the record includes a duty-roster dispute settled in a corridor, which brought it down a full step.
+- **Sorrow Gauge on breach:** The scale governs, not the clock. It rises by 5 for each decision reached in its presence without the subject being heard. And falls by 5 for each hearing conducted in front of it, however small — the record includes a duty-roster dispute settled in a corridor, which brought it down a full step.
 
 ## M.A.W. Equipment
 

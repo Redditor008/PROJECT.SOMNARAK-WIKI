@@ -223,6 +223,20 @@ What the vault asks for is not a payment. The acknowledgement is enough — the 
 
 At the end of an audit the floor yields six hundred to nine hundred kilos of petrified ink. It is swept, weighed and budgeted for. The vault's purse has a line for it, and the line has grown every period for eleven years.
 
+## Apex Record
+
+### The Ledger Line
+
+Ancestral Guilt is the debt register made into a body, and its line runs back through the Collector Bureau's attempt to purge a hundred and twenty thousand records — the act that produced it, and the reason its first victim is always the heaviest lineage in the room rather than the nearest person. It audits four centuries at a pass, one line of script for every generation of a family that died owing, and it has come to nine audit periods on the same bell, in the same hour, without once being early.
+
+### The Limit
+
+There is no containment here and no plan for one. The vessel cannot be destroyed because it is a legal structure rather than a body: the only subtraction the vault permits is shovelling the slag, six point two tonnes of it across nine audits, and no keeper can say why paper is debt and petrified ink is not. Tearing or burning a page doubles its mass, demonstrated once by accident when a slab deflected three millimetres before a margin page was torn and six after; whether a second tear doubles again is unknown, and every clearance procedure in the department is written so that nobody finds out.
+
+### The Standing Arrangement
+
+The cadre's standing recommendation rests on a single observation from the third level: naming the fault aloud drops the pressure by eighty per cent. So nothing in the vault is burned, nothing is torn, the slag is shovelled, and the audit is allowed to finish its column. The failure itself is genealogical and cannot be cleared or reissued — a keeper who feels the weight is removed from the descent, and their cousins with them, the Chief of Staff signing both removals. The Bureau that made the thing has been asked three times, once a year, to reopen the records and read them out, and has declined three times.
+
 ## Trivia
 
 - Nine audits have come on the same bell and begun in the same hour. The Registry's calendar has not moved in twenty-seven months, and the entity has not once been early.

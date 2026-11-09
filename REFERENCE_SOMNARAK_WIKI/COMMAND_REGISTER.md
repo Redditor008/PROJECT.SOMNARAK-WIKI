@@ -295,7 +295,10 @@ must carry a colour, a material or a number.
 
 **Where it lives.** `R-45` (§0 voice, §0.1 banned, §0.2 essayist, §2 form line, §3 sections).
 **Checks it.** `check_banned_ai.py`, `check_form_line.py`, `check_section_contract.py`.
-**Status.** **PARTIAL** — AI constructions 0, but thin form lines 134 and marker repeats 86 remain.
+**Status.** **PARTIAL** — AI constructions 0, but thin form lines 134 and marker repeats 86 remain,
+and batch 208's reader pass found **29 sections missing across 16 dossiers**: 13 Rank IV–V records
+with no `Apex Record`, and 4 dossiers with no closing tail at all. Five of the 13 were written in
+that batch; the rest are counted, not estimated (`check_section_registry.py`, gate 93).
 
 ---
 
@@ -451,7 +454,7 @@ answers one question**.
 
 # Part V — Where the commands stand
 
-**23 standards are measured every batch** (`tools/auditors/how_finished.py`). **18 are DONE, 5
+**24 standards are measured every batch** (`tools/auditors/how_finished.py`). **18 are DONE, 6
 OPEN, 0 unknown:**
 
 | OPEN standard | remainder |
@@ -461,6 +464,7 @@ OPEN, 0 unknown:**
 | Form line repeats its marker | **86** |
 | Essayist constructions | **308** of openers |
 | Stat bands over ceiling | **7** |
+| Required section missing (gate 93) | **29** in 16 dossiers |
 
 **What that means, honestly.** *"Every law is enforced by a gate and the gate is green"* was not true
 when this paragraph was first written, and batch 207 is what found it out. `how_finished.py`
@@ -471,6 +475,6 @@ written, tested, indexed, cited in the changelog, and **never added to the build
 (gate 92) now make an unwired gate a failure in its own right, so a citation cannot stand in for an
 invocation again.
 
-The five OPEN standards remain **prose volume**, not unbuilt machinery: 181 Tales to re-voice,
+The six OPEN standards remain **prose volume and missing sections**, not unbuilt machinery: 181 Tales to re-voice,
 220 form lines to deepen, and 308 essayist constructions to rewrite. None of them can be closed by
 adding a byline, and none of them should be listed as DONE until the counter above them reads zero.

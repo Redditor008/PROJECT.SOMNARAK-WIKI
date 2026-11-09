@@ -381,6 +381,20 @@ The perch crews maintain a heresy the Directorate tolerates because it comforts 
 
 The sightline maps are updated daily from the perch log — a plain ledger, kept by the closest watch, recording only position, hour, and posture. Perched. Preening. Tripartite stillness. The log's most frequent entry, across every year it has been kept, is a single word: watching. The Directorate preserves the log verbatim and permanently. It is the shortest continuous record in the institution, and the perch crews call it the most honest: no interpretation, no verdict, no guardianship. Only the fact, logged daily, that the sky has eyes — and that the eyes, on every day of the record, were open.
 
+## Apex Record
+
+### The Line It Ends
+
+The Convergence is the terminus of the Three Birds — the Observing Bird, the Weighting Bird and the Guarding Bird — and it is a Special Abnormality in the strict sense: it is not acquired, not contained and not extracted, because it exists only while all three are breached together and stops existing when they are parted. It is the only record in the archive whose survival condition is a coincidence of three others.
+
+### The Limit
+
+Twelve seconds. That is the whole of the arrangement and the reason every figure in this file is a figure about a window rather than about a fight. The fused form has existed for thirty-six seconds in eleven years, across three occasions, and all of those seconds were spent pulling it apart. There is no work loop on a form that only exists while its three parts are out, and a separation drill yields a time rather than Han-Energy. Extraction has never been attempted, and the Armoury's entry says it will not be.
+
+### The Standing Arrangement
+
+Separate the three inside twelve seconds, and read the conditions before any of them is worked: the printed list has nine items, has not changed since the second formation, and is read aloud by two people rather than one. Crews who have previously worked any of the three Birds are excluded from the rotation by screening, because the record has not established whether familiarity with one part makes the fused form easier or harder to part. The holding is filed with the line it terminates and never beside it.
+
 ## Trivia
 
 - The Convergence has formed seven times.

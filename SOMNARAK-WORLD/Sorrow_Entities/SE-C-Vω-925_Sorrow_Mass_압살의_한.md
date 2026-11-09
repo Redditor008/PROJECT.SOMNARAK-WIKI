@@ -415,6 +415,20 @@ The lightening rites are called by the roster bell — a plain bronze bell in ev
 
 After every full lightening comes the unloaded hour — sixty minutes of mandated rest, observed across the lightened district: no operations, no briefings, no duties. Personnel sit, breathe, and feel the absence of weight the way the living feel sunshine after illness. The counselors prescribe the hour as recovery. The crews observe it as sacrament. And the Directorate enforces it absolutely — the only rest period in the institution that cannot be suspended for any urgency, on the grounds the load-bearing doctrine states plainly: the roster that is not permitted to feel the lifting will stop believing the mourning works. So the hour holds, inviolate, after every rite: the district still, the gauges normal, the personnel unloaded. Then the watches resume, the monitoring continues, and the city stands back up — lighter, witnessed, and ready — into the permanent rhythm. Load and lighten. Press and stand. The Mass below, the city above, and the unloaded hour between: proof, renewed rite by rite, that the mourning holds and the standing lasts.
 
+## Apex Record
+
+### The Accumulation
+
+Weight grief is the catalogue's most physical sorrow and its least visible, and Sorrow Mass is what it becomes when it is carried long enough by enough people at once. It is older than its first dated incident, and the incident ledger holds seventeen major pressure events in which corridors, cells and open wards simply grew heavier across a shift. It does not gather where grief is fresh. It gathers where sorrow has been carried longest without anybody saying so aloud, which is why the Deep Vault aisles and the stairwells the night shift avoids are the places it is measured.
+
+### The Limit
+
+Walls do not stop it, seals do not hold it, and distance attenuates it only gradually. The one mechanism that lifts it is joint mourning performed on schedule and borne by the roster together — the lightening rites — and nothing else in the record has ever moved it down. What cannot be lifted can at least be sounded: past saturation the structure reads dull, the way the sealed station under the bore reads dull, and the crews bring trainees to hear the difference between a building carrying weight and a building that has become weight.
+
+### The Standing Arrangement
+
+Every structure in the city's range is built to the load-bearing doctrine, and the doctrine concedes from its first line that the range is everywhere: build for weight, monitor for seepage, mourn on schedule. Structure wardens file load reports on the watch, weighing crews certify gauges on rotation, and rite-keepers carry the schedule structure by structure without missing one. The Mass is the only Sovereign the Directorate manages without ever scheduling a work against it, because it has never been held and therefore has nothing to break. The light day is announced by the crews, gauge trace in hand, and not by the Directorate, which does not declare it.
+
 ## Trivia
 
 - The ledger records no event ended by anything the facility did. The holding is filed uncontained, and its gauge is a survey figure rather than a containment figure.

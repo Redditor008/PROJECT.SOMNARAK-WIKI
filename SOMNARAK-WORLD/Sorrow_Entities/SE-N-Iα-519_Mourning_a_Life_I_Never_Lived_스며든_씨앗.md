@@ -195,7 +195,7 @@ Escalation here is measured in centimetres of floor. The file's own log runs thi
 
 - **Breach type:** Escape — recorded as such because the net leaves the vault, though it does not travel to anywhere in particular. It extends along the corridor in the direction of the roster office.
 - **Containment priority:** Close things out. Corridor blocks do not hold a net that is three centimetres high, and Pugnahan is unavailable against an Object/Place record. What has ended every incident is the shift's open items being completed or cancelled in writing, after which the edge stops advancing within the hour.
-- **Sorrow Gauge on breach:** Governed by percentage and by open intentions rather than by any count. It rises by 10 for each plan spoken about and left open while the net is loose, and falls by 10 for each plan either carried out or entered as cancelled, with a date, in the shift record. Two incidents have been closed by the roster office working through its own backlog.
+- **Sorrow Gauge on breach:** Governed by percentage and by open intentions rather than by any count. It rises by 5 for each plan spoken about and left open while the net is loose, and falls by 5 for each plan either carried out or entered as cancelled, with a date, in the shift record. Two incidents have been closed by the roster office working through its own backlog.
 
 ## M.A.W. Equipment
 

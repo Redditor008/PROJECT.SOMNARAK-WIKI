@@ -97,6 +97,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_rule_index.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_secc_shape.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_gate_wiring.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_section_registry.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q

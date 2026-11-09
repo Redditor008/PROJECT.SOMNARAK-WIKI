@@ -319,6 +319,20 @@ Every Sovereign in the catalog was born from grief compounded. The Stormscale So
 
 Stormscale doctrine begins where every other Sovereign doctrine ends: with trust, verified. The Sovereign keeps the flood-lines the way other Sovereigns keep their wounds — visibly, deliberately, as warning and promise both. Its scales carry the high-water marks of every flood it has ever permitted, and its crews read them the way sailors read charts. Work near the Sovereign favors the honest: personnel who report their own griefs plainly are steadied, and personnel who conceal them are found out — gently, but completely. The Sovereign's Stigma, the Receded Mark, grants exactly this: the steadiness of someone with nothing hidden. Its cost is transparency — bearers cannot dissemble, even kindly, even when mercy asks it. They accept the cost. The flood taught the city what hidden waters do.
 
+## Apex Record
+
+### The Line It Ends
+
+The Stormscale Sovereign is the apex of a trio, produced only by the reunion of the Soot Fry and the Foam Flood, and never otherwise. It is a Special Abnormality in the same sense as the other transformation-termini: it is never acquired as itself, never separately contained, and the file exists to keep its two halves from being in the same room. It is the only form in the trio that is neither fixed nor bound.
+
+### The Limit
+
+It is held non-manifest by separation, and separation is the only thing standing between the catalogue and a Sovereign in the open. Its element cycles all four sorrows at once, so it has no single-element weakness and no single-element strength. It was whole for the length of one selfless wish and no Sovereign has held a stable form for longer, and the models of an uncontained, un-self-suppressed Sovereign stop at a number the Archive refuses to publish. Seeing it would mean the reunion had already occurred, which is why the record's recognition detail and its warning are the same sentence.
+
+### The Standing Arrangement
+
+The reunion is forbidden as a survival condition rather than as a precaution, and the doctrine built on it begins where every other Sovereign doctrine ends: with trust, verified. The Sovereign keeps the flood-lines visibly — the high-water marks of every flood it has ever refused to cause — and the keeping is read as warning and promise at once. The file is held latent, the comprehension level is Mastered from a single historical transformation, and no re-trigger has ever been attempted or authorised.
+
 ## Trivia
 
 - The Sovereign is the only entity in the registry with a Mixed element that cycles all four sorrows simultaneously. It has no single-element weakness and no single-element strength.

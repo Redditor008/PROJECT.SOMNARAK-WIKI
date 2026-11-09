@@ -169,7 +169,7 @@ The four responses split two and two, which is unusual for a Grudge subject and 
 
 - **Breach type:** Escape — it leaves the chamber on foot and takes up a span somewhere else in the facility, generally across a route people are using.
 - **Containment priority:** Close the crossing rather than the entity. Post the alternate route, mark the span out of service, and ensure nobody is asking it to carry anyone — it has stood down every recorded time this was done, and has pushed through every barricade it was given instead.
-- **Sorrow Gauge on breach:** The gauge tracks crossings, not turns. Each person who goes over the span alone raises it by 10. Each crossing made by two people together, or signed for by somebody who is not the one crossing, lowers it by the same. A breach has twice been ended by sending personnel back over in pairs.
+- **Sorrow Gauge on breach:** The gauge tracks crossings, not turns. Each person who goes over the span alone raises it by 5. Each crossing made by two people together, or signed for by somebody who is not the one crossing, lowers it by the same. A breach has twice been ended by sending personnel back over in pairs.
 
 ## M.A.W. Equipment
 

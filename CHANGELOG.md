@@ -2,6 +2,33 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — read as a reader, section by section
+
+**A pass over every section of every dossier, read the way a reader reads it** rather than audited
+the way a linter scans it. Three classes of fault came out of it.
+
+**The same dial moved by two different amounts.** Three dossiers stated the breach drain twice — the
+`Escalation` row said `5` for a trigger and the `Sorrow Gauge on breach` note under it said `10` for
+the same trigger. Cenotaph, Gavel and Mourning a Life now agree with their own rows; the row is the
+field, and the note was repeating a number it had changed.
+
+**Eighteen of the archive's most dangerous records had no `Apex Record`.** The template scopes that
+section to Rank IV–V, and thirteen were missing it outright. **Five are written** — Dawn of Mourning,
+Sorrow Mass, The Ancestral Guilt, The Convergence and the Stormscale Sovereign — each answering the
+section's three questions from the dossier's own material: the series, the limit, and the standing
+arrangement. Nothing was invented; every figure in them was already in the file.
+
+**Four dossiers have no closing tail at all** — `N-IIIβ-1056`, `N-Vω-1055`, `O-IIIγ-1052`,
+`O-IVγ-1053` carry no `최종 관찰`, no `증언`, no `기록` and no `Document Information`. They are the
+same four batch 205 had to give Tales to, which is what a file built without the scaffold looks
+like. They are counted and recorded, not closed.
+
+**New gate.** `check_section_registry.py` (93) asks every dossier for the sections its template
+requires, honouring the category alternates the template itself allows — `Behavior` for a subject,
+`Handling Process` for a relic, `Combat` or `Contact Record` — and `Apex Record` on Rank IV–V only.
+Its debt list is a dated snapshot of the 29 gaps, so the count can only fall; a *new* missing
+section fails the build.
+
 ## Unreleased — three batches shipped gates the build never ran
 
 **The missing reformation.** `SECC Refinement` was named on 2026-11-05 and was not in the register;
