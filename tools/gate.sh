@@ -90,6 +90,13 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_threat_form.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_consequence_register.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_work_damage.py
+# batch 203/204/206 shipped these three; none of them was ever added here, so the build
+# could not fail on them. Gate 92 now makes an unwired gate a failure in its own right.
+check "RESULT: PASS"                                    python3 tools/auditors/check_work_effect.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_se_effect.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_rule_index.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_secc_shape.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_gate_wiring.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q

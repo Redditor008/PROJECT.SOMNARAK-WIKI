@@ -8,8 +8,8 @@
 |---|---|
 | **Designation** | `N-IVδ-901 [MH]` |
 | **Entity Type** | **Subject** — Can breach or independently manifest |
-| **Coherence** | IV — Entity; two coherent identities sharing one vessel |
-| **Potency** | δ — Critical; high-output combat and support abilities |
+| **Coherence** | Entity (IV) — Two coherent identities sharing one vessel |
+| **Potency** | Critical (δ) — High-output combat and support abilities |
 | **Sorrow Category** | Inner Sorrow (내한) with city-wide Hope resonance |
 | **Element** | Mixed — Light, Warmth, Spark, Flame, and Grudge expressions |
 | **Manifestation** | Hybrid `[H]` — Subject-Body / Subject-Spirit composite |

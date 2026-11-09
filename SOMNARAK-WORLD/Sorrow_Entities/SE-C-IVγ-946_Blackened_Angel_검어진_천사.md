@@ -9,7 +9,7 @@
 | **Designation** | `C-IVγ-946 [WO]` |
 | **Entity Type** | **Object** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Officium)** — Channeled Use (a wish spoken before it) |
-| **Coherence** | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt |
+| **Coherence** | Entity (IV) — Grants every wish it cannot refuse, and remembers each |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
 | **Element** | Weight |

@@ -1,5 +1,38 @@
 # Work In Progress
 
+## Batch 207 — the reformation that was not in the register (2026-11-05)
+
+### 1. What was built
+
+`R-51` — **A Table Row Answers One Question** — and **§16 The SECC Reformation** in
+`COMMAND_REGISTER.md`, which had indexed fifteen reformations and not this one. `SECC` now states
+one question per row: `Rank (Numeral)` and `Grade (Greek)`, each with at most one twelve-word
+descriptor, each cross-checked against the dossier's own `Designation` code.
+
+### 2. What it found
+
+The two rows were governed by two documents that disagreed. The template asks
+`{{Rank Written}} ({{I-V}}) — {{Behaviour descriptor}}`; `R-45` §3 said *"values only, read off the
+code"*. No gate read either, so the archive split along the seam: **7 dossiers wrote the pair
+backwards**, **5 let the descriptor grow into a sentence**. Both repaired — 19 cells, exact
+replacements, no clause deleted that did not already survive in the file's own prose.
+
+### 3. What it found about the DONE list
+
+`how_finished.py` measured fifteen auditors. `tools/gate.sh` invoked twelve. The three missing ones
+were the gates of batches **203, 204 and 206** — each written, tested, indexed, cited, and never
+added to the build. A gate that is not invoked cannot fail a push; the citation stood in for the
+invocation and no one noticed because both printed `RESULT: PASS`.
+
+**Fixed:** all three wired. **New gates:** `check_secc_shape.py` (91) and `check_gate_wiring.py` (92).
+**New order:** `O-37` — a gate cited is a gate wired. **Standards:** 21 → **23**, DONE 16 → **18**.
+
+### 4. Where it stands
+
+`R-45` amended rather than overruled; `R-51` filed and indexed (51 of 51); the Dossier and
+Consequence reformations demoted to **PARTIAL** with the numbers that were always in the dashboard
+and never in the sentence. 358 tests. Five standards remain OPEN and they are all prose volume.
+
 ## Batch 206 — every command in one register (2026-11-05)
 
 ### 1. What was built

@@ -8,8 +8,8 @@
 |---|---|
 | **Designation** | `C-IIγ-071c [LS]` |
 | **Entity Type** | **Subject** — Can breach via Escape |
-| **Coherence** | II — Echo (the original healer is nearly gone; something else is driving) |
-| **Potency** | γ — Major (the chain is accelerating toward completion) |
+| **Coherence** | Echo (II) — The original healer is nearly gone; something else is driving |
+| **Potency** | Major (γ) — The chain is accelerating toward completion |
 | **Sorrow Category** | City Sorrow (도한) with strong Hope resonance |
 | **Element** | Mixed — Lament base with strong Hope emergence |
 | **Manifestation** | Subject-Body — the form has changed significantly from the Kind Healer |

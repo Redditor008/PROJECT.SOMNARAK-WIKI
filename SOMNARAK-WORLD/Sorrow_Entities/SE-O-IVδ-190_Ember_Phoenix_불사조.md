@@ -8,8 +8,8 @@
 |---|---|
 | **Designation** | `O-IVδ-190 [GS]` |
 | **Entity Type** | **Subject** — Can breach |
-| **Coherence** | Entity (IV) — Self-aware, and aware of the watching: the cycle it runs is the sign of it, and it has never once been recorded as surprised to find itself alive again. |
-| **Potency** | Critical (δ) — graded on the return rather than the kill. Every rising it completes is logged as an event with a date. |
+| **Coherence** | Entity (IV) — Self-aware, and aware of the watching |
+| **Potency** | Critical (δ) — Graded on the return, not the kill |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |

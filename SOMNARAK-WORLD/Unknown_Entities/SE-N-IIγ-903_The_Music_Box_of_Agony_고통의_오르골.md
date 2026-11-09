@@ -9,8 +9,8 @@
 | **Designation** | `N-IIγ-903 [VO]` |
 | **Entity Type** | **Object / Place** — Music-box device and acoustic hazard |
 | **Tool Type** | O-Relic · Channeled Use |
-| **Coherence** | II — Echo (repeats a single lullaby without variation, forever) |
-| **Potency** | γ — Major |
+| **Coherence** | Echo (II) — Repeats a single lullaby without variation, forever |
+| **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) — personal agony, self-vanishing |
 | **Element** | Void — the emptying of the self; a Lament surface (the crying figurine) |
 | **Manifestation** | Object-Void — a music box |

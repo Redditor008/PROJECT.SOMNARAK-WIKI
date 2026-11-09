@@ -495,3 +495,20 @@ This register is itself an order — batch 192, 2026-11-04:
 
 It is maintained as the project's single source of truth for what was asked. A new instruction
 becomes an entry here before it becomes a change to a dossier.
+
+---
+
+### O-37 · A gate cited is a gate wired
+
+**The owner's instruction, 2026-11-05:** *"I Think There Is Something Missing Example SECC Refinement
+And Some Is From The DONE List Because I Think There Is Still Things Not Done."*
+
+- **A gate that is not invoked is a document, not a gate.** Batch 207 found three of them — the gates
+  of batches 203, 204 and 206 — each written, tested, indexed and cited, and each absent from
+  `tools/gate.sh`. Every one printed `RESULT: PASS` when run by hand, and not one of them could fail
+  a push.
+- **The build is the only place a gate is real.** `check_gate_wiring.py` (gate 92) reads the standards
+  `how_finished.py` measures and requires each auditor to appear in `tools/gate.sh`. An unwired gate
+  fails the build that forgot it.
+- **A citation is not evidence.** *"Enforced by a gate"* means the gate runs on every push, not that a
+  file with that name exists.

@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 205.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 207.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -30,7 +30,7 @@ lines → push, then say what is still open.
 
 # Part I — The named reformations
 
-Fifteen programmes, in the order they were opened. Each entry gives **what you said**, **what it
+Sixteen programmes, in the order they were opened. Each entry gives **what you said**, **what it
 meant**, **what changed**, **where it lives**, **what checks it**, and **where it stands today**.
 
 ---
@@ -47,7 +47,12 @@ prose benchmark (`R-24`), and the first stock-clause sweeps.
 
 **Where it lives.** `R-03` · `R-04` · `R-23` · `R-24` · `R-29`.
 **Checks it.** `check_stock_clauses.py`, `section_logic.py`, `check_slot_templates.py`.
-**Status.** DONE for structure; the prose standard has since been raised twice (§8, §2).
+**Status.** **PARTIAL.** The structure is done — nine parity sections, four work types in fixed
+order, a Tale slot in every file. The prose standard has since been raised twice (§8, §13) and the
+remainder is measured, not estimated: **308** essayist openers, **181** dossiers with no Tale,
+**134** thin form lines, **86** form lines repeating their own marker, **7** dossiers over their
+rank's stat ceiling. Calling this DONE was the archive's oldest overstatement; the numbers were
+always in `how_finished.py`, and nobody read past the PASS line.
 
 ---
 
@@ -190,7 +195,10 @@ the world document.
 
 **Where it lives.** `R-43`.
 **Checks it.** `check_consequence_register.py` (gate 86).
-**Status.** **DONE**, with 14 measured exceptions left *for you to rule on* rather than edited to
+**Status.** **PARTIAL — failures 0, reported 14.** `check_consequence_register.py` (gate 86) prints
+`RESULT: PASS` above **14** dossiers whose consequence cell it reports but does not fail — HE
+consequences claiming city scale, **HE=10 · TETH=4**. A pass over a non-zero count is a ratchet,
+not a finish: those 14 are open, and they are open *for you to rule on* rather than to be edited to
 suit a regex.
 
 ---
@@ -319,7 +327,31 @@ Write It As A Must Follow RULE"* · that links must open the file on GitHub, not
 
 ---
 
-# Part II — The thirty-six standing orders
+## 16. The SECC Reformation — `R-51`, batches 179–207
+
+**What you said.** *"I Think There Is Something Missing Example SECC Refinement"* — named after the
+register had already indexed fifteen reformations without it.
+
+**What it changed.** The two classification rows were given one question each. `Coherence` reads
+`Rank (Numeral)`, `Potency` reads `Grade (Greek)`; either may carry a single descriptor of twelve
+words or less, and nothing longer. The value is read off the code and cross-checked against the
+dossier's own `Designation` field, so a cell cannot disagree with the file it lives in.
+
+The fault was not in the dossiers, mostly — it was between two documents. The template asked for
+`{{Rank Written}} ({{I-V}}) — {{Behaviour descriptor}}`; `R-45` §3 said *"values only"*; and no gate
+read either, so **7 files had written the pair backwards** (`I — Residue (barely formed)`) and
+**5 had let the descriptor become a sentence** — a clause of behaviour with its own verb, exactly
+what `R-45` was objecting to. Both are now repaired, and `R-45`'s row points at `R-51` instead of
+contradicting it.
+
+**Where it lives.** `R-51`; `R-45` §3 row amended; template lines 70–71 unchanged and now enforced.
+**Checks it.** `check_secc_shape.py` (gate 91) — 301 dossiers, 301 `Designation` codes
+cross-checked, **0** cells off contract.
+**Status.** **DONE** — and gated, which is the distinction this batch was about.
+
+---
+
+# Part II — The thirty-seven standing orders
 
 The permanent law, each with your words where they survive verbatim. Full text in
 `OWNER_DIRECTIVES.md`.
@@ -362,12 +394,13 @@ The permanent law, each with your words where they survive verbatim. Full text i
 | **O-34** | The charge: punishment and limit in one number | 197–201 | DONE |
 | **O-35** | A work can cost, cost nothing, or give | 203 | DONE |
 | **O-36** | Some holdings have one thing they do | 204 | DONE |
+| **O-37** | A gate cited is a gate wired — an auditor named by `how_finished.py` must be invoked by `tools/gate.sh` | 207 | DONE |
 
 ---
 
 # Part III — The rule index
 
-Every command that became law has a file. **50 rules**, `R-01`–`R-50`.
+Every command that became law has a file. **51 rules**, `R-01`–`R-51`.
 
 `R-01` no edit-meta · `R-02` growth-only · `R-03` no label decoration · `R-04` bespoke per entity ·
 `R-05` no threshold gaming · `R-06` the threshold is the counter · `R-07` percentage where no
@@ -386,15 +419,16 @@ chain · **`R-40` a relic is handled, not worked** · **`R-41` the barred cells 
 `R-42` threat is read off the form · `R-43` the consequence register · **`R-44` the cost of the
 session** · `R-45` write every section to its contract · **`R-46` the Tale has four registers** ·
 **`R-47` a relic charges by the second** · **`R-48` the charge** · **`R-49` a work can cost, cost
-nothing, or give** · **`R-50` some holdings have one thing they do**.
+nothing, or give** · **`R-50` some holdings have one thing they do** · **`R-51` a table row
+answers one question**.
 
-*(Bold = the seven reform laws of batches 193–205.)*
+*(Bold = the eight reform laws of batches 193–207.)*
 
 ---
 
 # Part IV — The batch record, by era
 
-**205 batches, 611 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
+**207 batches, 613 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
 
 | era | batches | what it was for |
 |---|---|---|
@@ -411,12 +445,13 @@ nothing, or give** · **`R-50` some holdings have one thing they do**.
 | **The Tale** | 188–189 | four registers; the first Dialogue Stories in the archive |
 | **The charge** | 190–202 | `R-40` closed, `R-47`/`R-48` drafted five times, six doses and the minutes |
 | **The effects** | 203–205 | three work verdicts, individual SE effects, the Tale measured |
+| **The gate audit** | 206–207 | the register itself; three gates the build never ran; SECC given one question per row |
 
 ---
 
 # Part V — Where the commands stand
 
-**19 standards are measured every batch** (`tools/auditors/how_finished.py`). **15 are DONE, 5
+**23 standards are measured every batch** (`tools/auditors/how_finished.py`). **18 are DONE, 5
 OPEN, 0 unknown:**
 
 | OPEN standard | remainder |
@@ -427,7 +462,15 @@ OPEN, 0 unknown:**
 | Essayist constructions | **308** of openers |
 | Stat bands over ceiling | **7** |
 
-**What that means, honestly.** Every *law* you have given is now enforced by a gate and the gate is
-green. What remains is **prose volume**, not unbuilt machinery: 181 Tales to re-voice, 220 form
-lines to deepen, and 308 essayist constructions to rewrite. Those are the three things standing
-between the archive and a clean sheet, and none of them can be closed by adding a byline.
+**What that means, honestly.** *"Every law is enforced by a gate and the gate is green"* was not true
+when this paragraph was first written, and batch 207 is what found it out. `how_finished.py`
+measured **fifteen** auditors; `tools/gate.sh` invoked **twelve**. The three batches immediately
+before this one — 203's work-effect gate, 204's SE-effect gate, 206's rule-index gate — were
+written, tested, indexed, cited in the changelog, and **never added to the build.** Each printed
+`RESULT: PASS` on demand and none of them could fail a push. `O-37` and `check_gate_wiring.py`
+(gate 92) now make an unwired gate a failure in its own right, so a citation cannot stand in for an
+invocation again.
+
+The five OPEN standards remain **prose volume**, not unbuilt machinery: 181 Tales to re-voice,
+220 form lines to deepen, and 308 essayist constructions to rewrite. None of them can be closed by
+adding a byline, and none of them should be listed as DONE until the counter above them reads zero.

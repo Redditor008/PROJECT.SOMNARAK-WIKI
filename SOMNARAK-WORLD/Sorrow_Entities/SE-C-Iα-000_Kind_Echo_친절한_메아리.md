@@ -8,8 +8,8 @@
 |---|---|
 | **Designation** | `C-Iα-000 [LS]` |
 | **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
-| **Coherence** | I — Residue (barely formed; a faint, kind emotional imprint) |
-| **Potency** | α — Minor |
+| **Coherence** | Residue (I) — Barely formed; a faint, kind emotional imprint |
+| **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |

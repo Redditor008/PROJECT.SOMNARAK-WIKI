@@ -9,7 +9,7 @@
 | **Designation** | `C-Vδ-949 [MS]` |
 | **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Special Class** | **Special Abnormality** — the terminus of the Soot Fry (`C-IIβ-947`) and Foam Flood (`C-IIIγ-948`) line. Never acquired, never separately contained, produced only by their reunion (`R-35`). |
-| **Coherence** | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself |
+| **Coherence** | Sovereign (V) — Held the sky and the river; could not hold itself |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
 | **Element** | Mixed |
@@ -68,7 +68,7 @@
 |---|---|
 | **Battle Length** | Long — 20+ turns |
 | **Threat Role** | Boss encounter |
-| **Coherence** | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself |
+| **Coherence** | Sovereign (V) — Held the sky and the river; could not hold itself |
 | **Primary Pressure** | All (cycles) |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Extreme — event encounter. No work session, no approach procedure and no comprehension ladder apply. |

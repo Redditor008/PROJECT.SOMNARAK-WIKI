@@ -56,6 +56,7 @@ reformation, sweep and correction, with its batches and its status — is [`../C
 | [`R-48`](R-48_A_GAUGE_MUST_CHANGE_AN_INSTRUCTION.md) | The Charge — the gauge fills 000 → wall, six doses of the holding's own clock |
 | [`R-49`](R-49_A_WORK_CAN_COST_OR_GIVE.md) | A Work Can Cost, Cost Nothing, or Give — Damage 101 · Neutral 39 · Gift 15 |
 | [`R-50`](R-50_SOME_HOLDINGS_HAVE_ONE_THING_THEY_DO.md) | Some Holdings Have One Thing They Do — `**SE Effect**` on 135 of 301 |
+| [`R-51`](R-51_A_TABLE_ROW_ANSWERS_ONE_QUESTION.md) | A Table Row Answers One Question — `SECC` carries `Value (Symbol)` and at most one twelve-word descriptor; 301 cross-checked, 0 off contract |
 | [`R-35`](R-35_SPECIAL_ABNORMALITY.md) | The Special Abnormality — the terminus of a transformation line is never acquired, worked, metered or extracted as itself; filed under its line with a `Special Class` row, its completion as an Activation condition in words, and no counter — Apocalypse Bird and WhiteNight there, the Stormscale Sovereign, the Dawn of Mourning and the Walking District here |
 
 ## Precedence

@@ -176,7 +176,7 @@ question it answers, and the voice it answers in.
 
 | Section | The one question | Voice | Must not |
 |---|---|---|---|
-| `SECC Classification` | What is this classified as? | filing. Values only, read off the code | hold a description, a clause of behaviour, or an explanation |
+| `SECC Classification` | What is this classified as? | filing. The value read off the code, and at most one descriptor (`R-51`) | explain the value, hold a sentence, or answer a second question |
 | `Operational Parameters` | What does a session with it cost and yield? | bookkeeping. Numbers and short clauses | restate a `SECC` value in different words |
 | `Combat Record` / `Contact Record` | What happens when it is engaged, step by step? | procedural. Phases, clocks, who does what | describe the body again, or explain the theme |
 | `Appearance` | What is in front of the eye? | observation, in the order of meeting | give a mechanic, a consequence, or an interpretation |

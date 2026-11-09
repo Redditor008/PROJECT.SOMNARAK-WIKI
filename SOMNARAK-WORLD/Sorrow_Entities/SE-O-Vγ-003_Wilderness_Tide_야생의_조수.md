@@ -8,8 +8,8 @@
 |---|---|
 | **Designation** | `O-Vγ-003 [WP]` |
 | **Entity Type** | **Object/Place** — Can breach via Corrupt independently |
-| **Coherence** | V — Sovereign (a force rather than a being) |
-| **Potency** | γ — Major |
+| **Coherence** | Sovereign (V) — A force rather than a being |
+| **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
@@ -274,7 +274,7 @@ It can wait.
 | **SECC Designation** | `O-Vγ-003 [WP]` |
 | **Origin** | Outside Sorrow — raw wilderness Han |
 | **Coherence** | V — Sovereign (force, not being) |
-| **Potency** | γ — Major |
+| **Potency** | Major (γ) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **First Recorded** | Year 4150 (first documented major surge) |

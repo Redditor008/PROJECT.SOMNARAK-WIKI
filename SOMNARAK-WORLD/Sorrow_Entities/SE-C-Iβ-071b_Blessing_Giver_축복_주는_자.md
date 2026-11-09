@@ -8,8 +8,8 @@
 |---|---|
 | **Designation** | `C-Iβ-071b [LS]` |
 | **Entity Type** | **Subject** — Can breach via Escape |
-| **Coherence** | I — Residue (the healer's original self is fading) |
-| **Potency** | β — Moderate (escalating from α) |
+| **Coherence** | Residue (I) — The healer's original self is fading |
+| **Potency** | Moderate (β) — Escalating from α |
 | **Sorrow Category** | City Sorrow (도한) with Hope resonance |
 | **Element** | Lament with emerging Hope |
 | **Manifestation** | Subject-Lament |

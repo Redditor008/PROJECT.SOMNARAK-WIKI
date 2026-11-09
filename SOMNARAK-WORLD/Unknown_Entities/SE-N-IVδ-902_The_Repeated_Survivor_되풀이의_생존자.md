@@ -10,8 +10,8 @@
 |---|---|
 | **Designation** | `N-IVδ-902 [VS]` |
 | **Entity Type** | **Subject** — Can breach |
-| **Coherence** | IV — Entity (paradoxical: loop-awareness grants retention no other entity possesses, yet that retention has dissolved the self it retained) |
-| **Potency** | δ — Critical |
+| **Coherence** | Entity (IV) — Paradoxical loop-awareness; the retention dissolved the self |
+| **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한), born of the Cycle |
 | **Element** | Void — the emptying of a self that remembered too much; Weight and Grudge undertones |
 | **Manifestation** | Subject-Body — a body that performs; nobody left inside it |

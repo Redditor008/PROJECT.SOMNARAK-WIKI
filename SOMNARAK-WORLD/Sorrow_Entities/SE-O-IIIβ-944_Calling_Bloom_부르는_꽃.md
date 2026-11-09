@@ -8,7 +8,7 @@
 |---|---|
 | **Designation** | `O-IIIβ-944 [LS]` |
 | **Entity Type** | **Subject** — Can breach |
-| **Coherence** | Fragment (III) — Wanders the wood, calling a name that was used to lure her there |
+| **Coherence** | Fragment (III) — Wanders the wood, calling a name |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한 — Oehan) |
 | **Element** | Lament |
@@ -65,7 +65,7 @@
 |---|---|
 | **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Wanders the wood, calling a name that was used to lure her there |
+| **Coherence** | Fragment (III) — Wanders the wood, calling a name |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |

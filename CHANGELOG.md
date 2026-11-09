@@ -2,6 +2,31 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — three batches shipped gates the build never ran
+
+**The missing reformation.** `SECC Refinement` was named on 2026-11-05 and was not in the register;
+Part I listed fifteen reformations and none of them was this one. It is §16 now, with `R-51`.
+
+**The fault was between two documents, not in the dossiers.** The template asks for
+`{{Rank Written}} ({{I-V}}) — {{Behaviour descriptor}}`; `R-45` §3 said *"values only"*. Neither was
+wrong on its own and no gate read either, so the archive split along the seam: **7 dossiers wrote
+the pair backwards** (`I — Residue (barely formed)`), and **5 let the descriptor become a sentence**
+— a clause of behaviour with its own verb, which is the thing the rule was objecting to. All twelve
+cells are repaired; `R-45`'s row now points at `R-51` instead of contradicting it; and
+`check_secc_shape.py` (gate 91) cross-checks all 301 rows against each dossier's own `Designation`
+code. **301 codes read, 0 cells off contract.**
+
+**And the DONE list was overstated in a way nobody had checked.** `how_finished.py` measured
+**fifteen** auditors; `tools/gate.sh` invoked **twelve**. Batches 203, 204 and 206 each added a gate,
+tested it, indexed it, cited it — and never added it to the build, so **none of the three could fail
+a push.** They are wired now, and `check_gate_wiring.py` (gate 92, order `O-37`) makes an unwired
+gate a failure in its own right.
+
+**Statuses corrected where the counter disagreed with the word.** The Dossier Reformation is
+**PARTIAL** — 308 essayist openers, 181 Tales absent, 134 thin form lines, 86 marker repeats, 7
+stat-band overruns — not *"DONE for structure"*. The Consequence Reformation is **PARTIAL** — gate
+86 passes above 14 reported dossiers claiming city scale at a grade that cannot reach it.
+
 ## Unreleased — every command, in one register
 
 **`COMMAND_REGISTER.md` — the whole instruction history, indexed.** Fifteen named reformations,
