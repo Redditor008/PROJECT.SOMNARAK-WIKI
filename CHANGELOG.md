@@ -2,6 +2,22 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — four dossiers get their closing tail
+
+**Four dossiers had no ending.** `N-IIIβ-1056` The Unbroken Pledge, `N-Vω-1055` The Ancestral Guilt,
+`O-IIIγ-1052` The Glass Silt Drifter and `O-IVγ-1053` The Singing Needle carried no
+`최종 관찰 (Final Observation)`, no `증언 (Testimonium)` and no `기록 (Registrum)` — and their
+`Document Information` block sat at the end of the file with no heading over it, which is why a gate
+reading headings could not see it either. They are the same four dossiers batch 205 had to give Tales
+to: a file built without the scaffold, found one section at a time.
+
+All four now carry the full tail, written from their own material — the bell-rope and the fourteen
+cords, the thirty-eight piston strokes on the glass, the moss that falls silent for the length of
+every song, the nine audits on the same bell. **No figure in them is new.**
+
+**The section debt falls from 29 to 13.** Every remaining gap is a missing `Apex Record` on a Rank
+IV–V record, and the gate's debt list is pruned to match — a debt that cannot shrink is a policy.
+
 ## Unreleased — the rule that was missing, because nothing made it a rule
 
 **You asked whether the archive had a rule saying an instruction must be written down. It did not.**

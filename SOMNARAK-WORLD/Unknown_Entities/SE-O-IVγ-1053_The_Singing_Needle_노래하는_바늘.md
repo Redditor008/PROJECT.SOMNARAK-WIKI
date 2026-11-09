@@ -199,6 +199,15 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 
 **Entry 5 — Division Return** Year 4,238. The Needle sings only when the wind is at its highest, and the song ends the wind. In nine songs none has followed another within six hours, which means the Needle spends the gale it sings with, and the ridge is quietest in the hour after its worst. The division has no theory for why a spire that kills in a gale also leaves the pass still behind it, and has declined to publish one.
 
+## 최종 관찰 (Final Observation)
+
+> The choice at the end of a session is about the wind: the survey either reads the ridge while the wind is under forty knots and leaves before the shear arrives, or stays to finish the measurement and lets the Needle take the reading out of their hands.
+
+| Withdraw under forty knots and leave the resonant node unmeasured until the next calm. | Hold the ridge through the shear to finish the node in one pass. |
+|---|---|
+| The spire surfaces, sings to an empty ridge, and goes back under having been counted by the pickets and not answered. | The aura closes over the surveying party, the pickets lose a diaphragm, and nobody inside it finishes the city's name. |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+
 ## 감각 묘사 (Flavor Text)
 
 **At first contact:** Your molars buzz first, a sound felt in the jaw before the ears have agreed that it is a sound.
@@ -221,6 +230,43 @@ The Architects want the spire. Raw crystal of that grade does not occur elsewher
 
 After every song the transect is walked and surveyed, and the survey is entered in the ledger, and the ledger has an entry for every year since the Peaks were opened.
 
+## 증언 (Testimonium) — The Testimony
+
+> *“You cannot shout over it. You cannot even finish your own city's name inside the aura. The nearest anyone has come is two syllables.”* — Picket Sergeant, Northern Ridge
+
+> *“It moved a hundred and forty metres in twenty-eight months. The falcons moved their nests four times further than that.”* — Telemetry Officer, Frontier Division
+
+> *“The moss falls silent for the whole song. That is the confirmation we trust — not the instruments, the moss.”* — Surveyor, Crystal Peaks
+
+> *“It is not calling to us. It is singing to the ridge, and the ridge is answering out of our chests.”* — Researcher, R.D.
+
+> *“Forty spare diaphragms in the lower gate. We have never run short, and we have never once not needed them.”* — Quartermaster, Northern Gate
+
+## 기록 (Registrum) — The Record
+
+**Classification:** Sorrow Entity — `O-IVγ-1053 [VS]` · Outside Sorrow origin · Entity (IV) coherence · Major (γ) potency · Void / Lament · Subject / Phenomenon manifestation
+**Common Name:** The Singing Needle
+**Containment Status:** Uncontained — the Crystal Peaks, the northern ridge border
+**Comprehension Level:** 3 — Advanced
+**Threat Assessment:** Major (γ), and the grade is carried by the aura rather than by the spire. Nothing in the ridge is safe to measure while it is singing, and it sings when the wind is worth singing to.
+**Containment & Handling Procedures:**
+- Viderehan to identify the resonant node, Ferrehan for acoustic dampening under the cranial seals. Pugnahan shatters the needles into secondaries and is not authorised.
+- Withdrawal under forty knots of shear. The activation threshold is the wind, and the wind is predictable in a way the entity is not.
+- The Soprano Needle-Moss beds are the second confirmation. They fall silent for the length of every song, because there is no wind left to sound them.
+**Observation Notes:**
+- In twenty-eight months the Needle has moved a hundred and forty metres at most between songs. The falcons have moved their nests four times that distance.
+- Nobody has finished the city's name inside the aura. The nearest on file is two syllables.
+- The pickets lose a diaphragm about every five weeks. The division keeps forty spares and has never run short.
+**Cross-References:** Outside Sorrow, Crystal Peaks. The pairings are recorded in the Entity Interaction Record; none is a co-presence, and the ridge is not worked beside another holding.
+**Faction Involvement:** Northern Frontier Telemetry Division · Crystal Peaks pickets
+**Originator:** The survey party the ridge answered first, named in the division's telemetry log and not in this file.
+
+### Registry Addendum
+
+**Operational interpretation:** Read this as a listening post that answered back, not as a creature that hunts. The spire bores, surfaces, sings to the ridge, and goes under again. Everything that has gone wrong out there went wrong because somebody stayed to finish a measurement.
+
+**Review requirement:** Re-verify after any shear event above forty knots, after any change to the picket rotation, and after any session in which a party reported the aura closing before the song began.
+
 ## Trivia
 
 - The pickets lose a diaphragm about every five weeks. The division keeps forty spares in the lower-gate store and has never run short.
@@ -239,6 +285,9 @@ The ridge and the birds on it are the other half of this record and are not enti
 **Interaction procedure:** None is arranged. The Needle is never approached by a second holding, the quarterly exchange of dates with the Survey Cadre is the whole of it, and the picket line is not extended past the ridge.
 
 ---
+
+
+## Document Information
 
 **Document ID:** `SE-O-IVγ-1053`
 **Classification:** Outside Sorrow Anomaly Dossier

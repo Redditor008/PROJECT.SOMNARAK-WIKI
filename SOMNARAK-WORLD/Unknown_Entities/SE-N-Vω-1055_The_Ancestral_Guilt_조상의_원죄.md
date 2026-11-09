@@ -201,6 +201,15 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 
 **Entry 5 — Trainee's Report** Year 4,237. Trainee Ji-Hun steadied himself against a ledger stack on the fourth day of an audit and tore a margin page. The thirty hands stopped for four seconds and then wrote faster. He finished the descent with the torn corner shut in his fist because nobody would take it from him, and at the wash-down he asked whether the new line on his arm was for the page. It was not. It was for his great-grandfather, and the page had gone into the weight instead. He is the reason the vault has no blades, buckles or pins.
 
+## 최종 관찰 (Final Observation)
+
+> The choice at the end of a session is about the line: the keeper either names a fault that belongs to their family and lets the vault record it, or keeps the line closed and carries the weight out of the hall in their own body.
+
+| Name the fault aloud in the hall, let the ledger enter it, and take the descent out of the rotation. | Keep the line closed, deny the entry, and stand under the audit with the weight still on the shoulders. |
+|---|---|
+| The hands write the line and move on, the pressure drops, and the keeper leaves lighter than they arrived and cleared for nothing. | The column does not close, the ink seeps at the pores, and the knees give before the audit period ends. |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+
 ## 감각 묘사 (Flavor Text)
 
 **At first contact:** Wet lampblack and old paper at the stair-head, and under it the small dry sound of thirty pens that never need dipping.
@@ -237,6 +246,43 @@ There is no containment here and no plan for one. The vessel cannot be destroyed
 
 The cadre's standing recommendation rests on a single observation from the third level: naming the fault aloud drops the pressure by eighty per cent. So nothing in the vault is burned, nothing is torn, the slag is shovelled, and the audit is allowed to finish its column. The failure itself is genealogical and cannot be cleared or reissued — a keeper who feels the weight is removed from the descent, and their cousins with them, the Chief of Staff signing both removals. The Bureau that made the thing has been asked three times, once a year, to reopen the records and read them out, and has declined three times.
 
+## 증언 (Testimonium) — The Testimony
+
+> *“Naming the fault is the whole of it. Say what your family did and the column closes. Say nothing and it writes you into the page.”* — Keeper, Deep Vault
+
+> *“Eleven lines took nineteen days to fade. The keeper with one line was clear in three. The arithmetic is the family's, not the person's.”* — Auditor, Sovereign Containment Bureau
+
+> *“We were told to purge a hundred and twenty thousand records. We did it in a week. It has been reading them back ever since.”* — Former Clerk, Collector Bureau
+
+> *“Do not tear a page. It has been demonstrated once, and every procedure in this department is written so it is not demonstrated twice.”* — Containment Lead, R.D.
+
+> *“Nine audits, the same bell, the same hour. Twenty-seven months of the Registry calendar and it has never once been early.”* — Registry Overseer, Municipal Ledger Crypt
+
+## 기록 (Registrum) — The Record
+
+**Classification:** Sorrow Entity — `N-Vω-1055 [WO]` · Inner Sorrow origin · Sovereign (V) coherence · Catastrophic (ω) potency · Weight · Subject-Ancestral manifestation
+**Common Name:** The Ancestral Guilt
+**Containment Status:** Uncontained — the Deep Vault beneath Facility 01, the Municipal Central Ledger Crypt
+**Comprehension Level:** 4 — Sovereign Archival Oversight
+**Threat Assessment:** Catastrophic (ω) and entirely local. It has not been recorded outside the vault in nine audit periods, and it does not need to leave: the debt it audits is carried by the people who come down to it.
+**Containment & Handling Procedures:**
+- Ferrehan and Viderehan. Pugnahan multiplies the ledger entries exponentially and is not authorised.
+- Name the fault aloud. The cadre's standing recommendation rests on that single observation, and it is the only subtraction the vault has ever confirmed.
+- Nothing in the vault is burned and nothing is torn. The slag is shovelled, the audit is allowed to finish its column, and the clearance procedures are written so that the second demonstration never happens.
+**Observation Notes:**
+- Nine audits on the same bell, in the same hour, across twenty-seven months of a Registry calendar that has not moved.
+- Six point two tonnes of petrified ink slag shovelled out across those nine audits, none of which doubled anything, and no keeper can say why paper is a debt and slag is not.
+- The aprons come back with an ink line at the hem. On four of them the line stood above the knee, and all four belonged to keepers who reached five.
+**Cross-References:** Inner Sorrow, Deep Vault. The entity was made by the Collector Bureau's purge of a hundred and twenty thousand records; the Bureau has been asked three times, once a year, to reopen them and read them out, and has declined three times.
+**Faction Involvement:** R.D. Sovereign Containment Bureau · Collector Bureau · Municipal Ledger Crypt
+**Originator:** The Bureau that made it, named in the purge order and not in this file.
+
+### Registry Addendum
+
+**Operational interpretation:** Read this as a debt register that learned to collect in person. The figure on the gauge is not aggression; it is the accumulated weight of four centuries of unpaid obligation, and it is held down by people saying out loud what their families did.
+
+**Review requirement:** Re-verify after every audit period, after any change to the Registry calendar, and after any descent in which a keeper reached five lines — the last whether or not the pressure was named.
+
 ## Trivia
 
 - Nine audits have come on the same bell and begun in the same hour. The Registry's calendar has not moved in twenty-seven months, and the entity has not once been early.
@@ -255,6 +301,9 @@ The Registry's audit calendar and the stair-head wash-down book are the two docu
 **Interaction procedure:** None is arranged. No second holding is taken to the vault, and the cadre's standing answer to every proposal to do so has been that the vault already holds the heaviest thing in the building.
 
 ---
+
+
+## Document Information
 
 **Document ID:** `SE-N-Vω-1055`
 **Classification:** Inner Sorrow Sovereign Dossier

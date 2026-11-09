@@ -94,9 +94,14 @@ class TheDebt(unittest.TestCase):
         self.assertEqual([s for _, s in new], ['증언 (Testimonium)'])
         self.assertEqual(len(known), 1)
 
-    def test_the_debt_covers_the_tail_files(self):
+    def test_the_closed_tails_are_no_longer_debt(self):
+        """Batch 210 wrote four closing tails; their debt entries must be gone, not remembered."""
         for code in ('N-IIIβ-1056', 'N-Vω-1055', 'O-IIIγ-1052'):
-            self.assertIn('Document Information', gate.DEBT[code])
+            self.assertNotIn(code, gate.DEBT)
+
+    def test_the_debt_shrank_when_the_work_was_done(self):
+        """29 recorded in batch 208, 13 remain. A debt that cannot shrink is a policy."""
+        self.assertEqual(sum(len(v) for v in gate.DEBT.values()), 13)
 
 
 class TheArchive(unittest.TestCase):

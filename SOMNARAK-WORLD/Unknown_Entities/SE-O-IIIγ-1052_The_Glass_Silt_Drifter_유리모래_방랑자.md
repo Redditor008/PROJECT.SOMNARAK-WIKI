@@ -192,6 +192,15 @@ Management: throttle below 38 piston strokes a minute and let it fall back. Do n
 
 **Entry 5 — Cadre Note** The couriers it formed from were carrying dispatches that were never delivered. The cadre has recovered nine message cylinders from the glass in four years, all sealed, none opened, and has lodged all nine with the Archive unread.
 
+## 최종 관찰 (Final Observation)
+
+> The choice at the end of a session is about the engine: the convoy either throttles down and lets the Drifter fall back on the glass, or holds speed and treats the crossing as a race it intends to win.
+
+| Throttle down under thirty-eight piston strokes, keep the copper chain live, and let it fall back. | Hold speed through the corridor and try to outrun it on the glass. |
+|---|---|
+| The footsteps stop landing ahead of the crawler, the caltrops fall behind, and the glass closes over them cold. | The glass shears a tread, the furnace goes down on its side, and the shrapnel comes up incandescent. |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+
 ## 감각 묘사 (Flavor Text)
 
 **At first contact:** A red shimmer on a mirror horizon, keeping exact pace. Then, over the boilers, a high dry hiss like hot iron quenched in vinegar.
@@ -214,6 +223,42 @@ The Convoy Office wrote the order in the plainest words it had. Keep the copper 
 
 The corridor stays open. The crossing is the only one, and the Council's ledger says what it would cost to close it, and the ledger is right.
 
+## 증언 (Testimonium) — The Testimony
+
+> *“It has never once looked at a walker. Four hours beside it on foot and it did not turn a plate.”* — Caravan Master, Horizon Route
+
+> *“Thirty-eight strokes and it falls back. Every crew on the glass will tell you thirty-eight without looking it up.”* — Engine Driver, Corner 2 Depot
+
+> *“The apes do not shatter it. They shatter *at* it, and the shards come back hot enough to cook a seal-gasket.”* — Surveyor, Caravan Cadre
+
+> *“Nine cylinders in four years, all sealed, all unread. We asked for them to be lodged and not opened, and the Archive agreed.”* — Archivist, Horizon Caravan
+
+> *“The glass is not empty country. Somebody crossed it once and left footsteps in it, and the footsteps kept walking.”* — Elder, Corner 1
+
+## 기록 (Registrum) — The Record
+
+**Classification:** Sorrow Entity — `O-IIIγ-1052 [GS]` · Outside Sorrow origin · Fragment (III) coherence · Major (γ) potency · Grudge / Weight · Subject manifestation
+**Common Name:** The Glass Silt Drifter
+**Containment Status:** Uncontained — the Sea of Glass, the transit corridor between Corner 1 and Corner 2
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Major (γ) to engines and to nothing else. Its whole known range is inside the corridor, and its whole behaviour is aimed at the furnaces that cross it.
+**Containment & Handling Procedures:**
+- The standing convoy order is non-engagement: keep the copper chain live, throttle down, and let it fall back.
+- Thirty-eight piston strokes per minute is the fall-back threshold, and it is the only figure in this file four separate crews have independently reproduced.
+- Thermal blast aprons are worn on every crossing. The apes do not shatter the entity; they shatter at it, and the shards came back hot enough to cook a seal-gasket.
+**Observation Notes:**
+- Walkers are ignored entirely. A broken-down crew walked four hours beside it and it did not turn a plate.
+- Nine sealed message cylinders have been recovered from the glass in four years. All nine are lodged unread with the Archive at the cadre's own request.
+**Cross-References:** Outside Sorrow, the vitrified corridor. The pursuit pairings are recorded in the Entity Interaction Record and none of them is a co-presence.
+**Faction Involvement:** Horizon Caravan Survey Cadre · Corner 1 and Corner 2 depots
+**Originator:** The caravan that burned on the glass, named in the Horizon route book and not in this file.
+
+### Registry Addendum
+
+**Operational interpretation:** Read this as a road hazard with a memory, not as a marauder. It chases engines because engines are what took the convoy, and it has never followed anything that walked.
+
+**Review requirement:** Re-verify after any change to the convoy route, after any crossing that reports more than nine cylinders, and after any engine that reports the caltrops landing ahead of the treads rather than behind.
+
 ## Trivia
 
 - It has never been recorded off the glass. The vitrified corridor is 2,400 km long and the Drifter's whole known range is inside it.
@@ -234,6 +279,9 @@ log is the primary source for this dossier.
 **Interaction procedure:** Record stroke rate and fall-back distance for every crossing, whether or not anything else is present. There is no way to bring a second party to a 2,400 km corridor and the cadre has stopped proposing it.
 
 ---
+
+
+## Document Information
 
 **Document ID:** `SE-O-IIIγ-1052`
 **Classification:** Outside Sorrow Anomaly Dossier

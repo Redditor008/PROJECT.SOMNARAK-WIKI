@@ -1,5 +1,37 @@
 # Work In Progress
 
+## Batch 210 — the four dossiers that had no ending (2026-11-05)
+
+### 1. Where the work stands
+
+Six standards are OPEN. This unit took the only one that is finite and structural: **29 missing
+sections**, recorded by gate 93 in batch 208. Sixteen of them were four dossiers with no closing tail
+at all.
+
+### 2. What was missing
+
+`N-IIIβ-1056`, `N-Vω-1055`, `O-IIIγ-1052`, `O-IVγ-1053` ended at `Trivia` with a `Document Information`
+block that had **no heading over it** — which is exactly why a gate reading `##` headings reported the
+section missing while a reader could see the block. A file built without the scaffold, found one
+section at a time.
+
+### 3. What was written
+
+For each: `최종 관찰` (the choice at the end of a session, in the two-column success/fail idiom the
+archive already uses), `증언` (five voices from that dossier's own world), `기록` (classification,
+containment status, threat assessment, procedures, cross-references, factions, originator, addendum),
+and the `Document Information` heading over the existing block.
+
+Every figure is the file's own: the two-metre cords checked against one bell-rope, the thirty-eight
+piston strokes four crews independently reproduced, the moss that falls silent, the nine audits on the
+same bell and the six point two tonnes of slag.
+
+### 4. Where it stands
+
+**Sections missing 29 → 13.** All thirteen are `Apex Record` on a Rank IV–V record. Gate 93's debt
+list is pruned to those thirteen and its test now asserts the debt *shrank*, so a debt that only ever
+grows fails the suite.
+
 ## Batch 209 — the rule that was never a rule (2026-11-05)
 
 ### 1. What you asked

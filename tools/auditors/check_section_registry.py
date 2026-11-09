@@ -52,7 +52,8 @@ ALWAYS = [
 EITHER = ['Combat Record', 'Contact Record']
 HIGH_RANK = ('IV', 'V')
 
-# Measured 2026-11-05 (batch 208). 16 gaps across 16 dossiers. These may only fall.
+# Measured 2026-11-05. Batch 208 recorded 29 gaps; batch 210 closed 16 of them (the four dossiers
+# with no closing tail). These 13 may only fall.
 DEBT = {
     'C-Vγ-225': {'Apex Record'},
     'C-Vγ-260': {'Apex Record'},
@@ -61,19 +62,12 @@ DEBT = {
     'C-Vδ-111': {'Apex Record'},
     'C-Vδ-265': {'Apex Record'},
     'C-Vδ-290': {'Apex Record'},
-    'C-IVδ-251': {'Apex Record'},
     'O-Vγ-003': {'Apex Record'},
+    'C-IVδ-251': {'Apex Record'},
     'N-IVγ-250': {'Apex Record'},
     'N-IVδ-901': {'Apex Record'},
     'N-IVδ-902': {'Apex Record'},
-    'O-IVγ-1053': {'Apex Record', '최종 관찰 (Final Observation)', '증언 (Testimonium)',
-                   '기록 (Registrum)', 'Document Information'},
-    'N-IIIβ-1056': {'최종 관찰 (Final Observation)', '증언 (Testimonium)',
-                    '기록 (Registrum)', 'Document Information'},
-    'N-Vω-1055': {'최종 관찰 (Final Observation)', '증언 (Testimonium)',
-                  '기록 (Registrum)', 'Document Information'},
-    'O-IIIγ-1052': {'최종 관찰 (Final Observation)', '증언 (Testimonium)',
-                    '기록 (Registrum)', 'Document Information'},
+    'O-IVγ-1053': {'Apex Record'},
 }
 
 
@@ -142,7 +136,7 @@ def main(argv):
     total = len(new) + len(known)
     print('dossiers read %d' % len(dossier_files()))
     print('sections missing: %d' % total)
-    print('  recorded debt (batch 208): %d' % len(known))
+    print('  recorded debt: %d' % len(known))
     print('  not in the recorded debt: %d' % len(new))
     if new:
         for code, section in new:

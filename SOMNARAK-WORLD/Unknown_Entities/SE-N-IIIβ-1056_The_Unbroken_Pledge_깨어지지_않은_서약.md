@@ -199,6 +199,15 @@ Management: have the bearer say the partner's full name and the pact's three ten
 
 **Entry 5 — Cemetery Witness Report** Year 4,238, the third burial. The half-coin went into the plot at twenty past eleven and the braid stayed taut, which no one on the ward had expected. It went slack at eleven forty-two, when Witness Gwang-Su wrote the name into the register of the Cemetery of the First Dawn. The book had been left at the lodge by the far gate and took twenty-two minutes to bring. The ward had treated the burial as the cure for two years. The cure is the entry: the oath was to bring a name back to the city, and the city has no name until a witness writes it.
 
+## 최종 관찰 (Final Observation)
+
+> The choice at the end of a session is about the partner who is not in the room: the bearer either keeps the vow in the form the dead man would recognise, or takes the easier reading and calls the debt settled, and the cord knows which one was chosen before the bearer does.
+
+| Keep the vow: name the partner, keep the morning recitation, and refuse the order that would have abandoned him. | Settle the debt by declaration — say the oath is discharged, and take the posting that makes the saying true. |
+|---|---|
+| The cord goes slack at the collar, the hum starts on the second line of the recitation, and Posture recovers while it sounds. | The cord tightens until the windpipe closes, and the ward has to open it by hand. |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+
 ## 감각 묘사 (Flavor Text)
 
 **At first contact:** The smell of tarnished copper arrives before the bearer does. Then a red braid lifting off the right shoulder, slowly, the way a hand lifts to ask for quiet.
@@ -223,6 +232,42 @@ When the operative does the thing the oath asked for, the cord hums, and the hum
 
 The Office has tried, twice, to have the entity struck from the Roll. Both clerks who raised the motion are listed, in the next year's column, as having died at their desks.
 
+## 증언 (Testimonium) — The Testimony
+
+> *“It does not want an apology. It wants the name said in the morning, the way he used to say it.”* — Ward Sister, Cemetery of the First Dawn
+
+> *“I kept the recitation for eleven years and the cord never once rose above my collar.”* — Bearer, Veteran Quarters
+
+> *“The men it takes are not cowards. They are the ones who came home and could not say why.”* — Cadre Interviewer, R.D.
+
+> *“Half a coin each, bitten by the one who kept it. That is how they made a promise that could not be spent.”* — Keeper, Archive
+
+> *“When the hum starts, stop talking and listen to the second line. It is the only time it sounds pleased.”* — Containment Lead, R.D.
+
+## 기록 (Registrum) — The Record
+
+**Classification:** Sorrow Entity — `N-IIIβ-1056 [LO]` · Inner Sorrow origin · Fragment (III) coherence · Moderate (β) potency · Lament / Void · Subject manifestation
+**Common Name:** The Unbroken Pledge
+**Containment Status:** Held — Veteran Quarters, Ward of the First Dawn, Zone D
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Moderate (β) by mechanism rather than by reach: it selects from a population the city has already set aside, and it kills by closing a windpipe it has spent fourteen years holding open.
+**Containment & Handling Procedures:**
+- Flerehan and Ferrehan only. Pugnahan constricts the cord fatally and is not authorised, and no session has ever been written up as a Pugnahan success.
+- Every bearer is measured against the bell-rope on intake. The cords are all two metres and none has been found longer or shorter.
+- Nothing is done to the cord. The ward works around it, at the collar, under its reach, and the wrists are held inside that reach by staff rather than by the bearer.
+**Observation Notes:**
+- The register of the Cemetery of the First Dawn and the ward turn book are the two documents this dossier stands on, and neither is an entity.
+- The hum that honourable conduct draws out of the cord has been heard four times on the ward, and each time it began on the second line of a morning recitation.
+**Cross-References:** Inner Sorrow, Zone D. Filed beside the [Forgotten Soldier](../Sorrow_Entities/SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) and [Broken Promise](../Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) by shared subject rather than by observed contact; the pairings are recorded in the Entity Interaction Record and no second holding is ever brought to a bearer.
+**Faction Involvement:** R.D. Psychological Containment Cadre · Cemetery of the First Dawn
+**Originator:** The surviving partner of a sworn pair, named in the cemetery register and not in this file.
+
+### Registry Addendum
+
+**Operational interpretation:** Read this as a ward record about survivors, not as a hazard about a cord. Every name on the book came home and could not say why, and the holding is the shape that failure left behind.
+
+**Review requirement:** Re-verify after any death in the bearer population, after any change to the ward's recitation schedule, and after any session in which a bearer asked to be released from the vow — the last whether or not the cord moved.
+
 ## Trivia
 
 - The braid is two metres long on all fourteen cords. The ward sister checked each against the same bell-rope and has not found one longer or shorter by a finger's breadth.
@@ -242,6 +287,9 @@ The register of the Cemetery of the First Dawn and the ward turn book are the tw
 **Interaction procedure:** None is arranged. No second holding is brought to a bearer. Once a quarter the ward sister reads the Office's replies against the turn book, and that is the whole of the procedure.
 
 ---
+
+
+## Document Information
 
 **Document ID:** `SE-N-IIIβ-1056`
 **Classification:** Inner Sorrow Anomaly Dossier
