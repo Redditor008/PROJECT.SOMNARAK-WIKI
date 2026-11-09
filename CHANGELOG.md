@@ -2,6 +2,19 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — every command, in one register
+
+**`COMMAND_REGISTER.md` — the whole instruction history, indexed.** Fifteen named reformations,
+the thirty-six standing orders, the fifty rules, and the batch record by era, with each entry
+carrying what you said, what it built, and where it stands today. It exists because an instruction
+that lives only in a chat log is a memory, not a standard.
+
+**The register found a real defect while being written.** `RULES/README.md` ended at `R-35` — the
+five rules filed in batches 193–205 were on disk and **not in the index**, so a reader opening the
+folder's front page could not see that `R-46`–`R-50` existed. All five are now listed, and
+`check_rule_index.py` (gate 90) reads the folder rather than a list, so the next rule cannot be
+filed without being indexed.
+
 ## Unreleased — four dossiers had no Tale
 
 **The tale reformation, measured.** 120 of 301 Tales declare a register — **Story 20 · Fairy 92 ·

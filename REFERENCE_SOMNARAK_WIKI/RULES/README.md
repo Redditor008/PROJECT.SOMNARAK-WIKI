@@ -2,7 +2,8 @@
 
 > *"A rule that lives only in a conversation is a rule that will be broken by whoever reads the file next."*
 
-Standing rules for this project, one file per rule. These are binding on all work in this repository. Where a rule governs the archive's text rather than the working method, it says so.
+Standing rules for this project, one file per rule. The full history of what was commanded — every
+reformation, sweep and correction, with its batches and its status — is [`../COMMAND_REGISTER.md`](../COMMAND_REGISTER.md). These are binding on all work in this repository. Where a rule governs the archive's text rather than the working method, it says so.
 
 | Rule | Title |
 |---|---|
@@ -50,6 +51,11 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-43`](R-43_THE_CONSEQUENCE_REGISTER.md) | The Consequence Register — consequence is read across three registers (personnel, peer, institution) and must reach as far as the band does. A Low holding has no finisher. |
 | [`R-44`](R-44_THE_COST_OF_THE_SESSION.md) | The Cost of the Session — a `Work Damage` row: type and amount, banded by tier, written from what the holding does to the person working on it. A terminus has none. |
 | [`R-45`](R-45_WRITE_EVERY_SECTION_TO_ITS_CONTRACT.md) | Write Every Section To Its Contract — the writing standard, taken from the SCP Description order rule and Project Moon's Abnormality register. Binds every section, not only Appearance. |
+| [`R-46`](R-46_THE_TALE_HAS_FOUR_REGISTERS.md) | The Tale Has Four Registers — every Narratio is written in exactly one of Story, Fairy, Dialogue or Hybrid, and the essay is a defect |
+| [`R-47`](R-47_A_RELIC_CHARGES_BY_THE_SECOND.md) | A Relic Charges By The Second — its Work Damage is a dose, not a session, clocked by category |
+| [`R-48`](R-48_A_GAUGE_MUST_CHANGE_AN_INSTRUCTION.md) | The Charge — the gauge fills 000 → wall, six doses of the holding's own clock |
+| [`R-49`](R-49_A_WORK_CAN_COST_OR_GIVE.md) | A Work Can Cost, Cost Nothing, or Give — Damage 101 · Neutral 39 · Gift 15 |
+| [`R-50`](R-50_SOME_HOLDINGS_HAVE_ONE_THING_THEY_DO.md) | Some Holdings Have One Thing They Do — `**SE Effect**` on 135 of 301 |
 | [`R-35`](R-35_SPECIAL_ABNORMALITY.md) | The Special Abnormality — the terminus of a transformation line is never acquired, worked, metered or extracted as itself; filed under its line with a `Special Class` row, its completion as an Activation condition in words, and no counter — Apocalypse Bird and WhiteNight there, the Stormscale Sovereign, the Dawn of Mourning and the Walking District here |
 
 ## Precedence
@@ -58,4 +64,4 @@ Standing rules for this project, one file per rule. These are binding on all wor
 
 `R-31` governs how any of it is reported in the chatroom. It is a must-follow rule and is read first, at every session open and again before every report is written.
 
-A rule is added here the moment it is stated. Nothing is kept only in conversation.
+A rule is added here the moment it is stated — and `check_rule_index.py` fails the build if a rule file on disk is missing from this table. Nothing is kept only in conversation.

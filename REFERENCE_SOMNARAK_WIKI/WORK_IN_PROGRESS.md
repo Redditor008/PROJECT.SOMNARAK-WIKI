@@ -1,5 +1,29 @@
 # Work In Progress
 
+## Batch 206 — every command in one register (2026-11-05)
+
+### 1. What was built
+
+`REFERENCE_SOMNARAK_WIKI/COMMAND_REGISTER.md` — **15 named reformations**, **36 standing orders**,
+**50 rules**, and the **205-batch record by era**, each entry carrying the words that started it,
+what it changed, and where it stands.
+
+### 2. What it found
+
+`RULES/README.md` listed **45 of 50** rules. `R-46`–`R-50` — the Tale registers, the relic charge,
+the gauge, the three work verdicts, the individual effect — were on disk and absent from the index.
+The README's own last line says *"a rule is added here the moment it is stated"*, so the index was
+breaking its own law for five rules across four batches.
+
+**Fixed:** all five indexed. **New gate:** `check_rule_index.py` (90) reads the folder and compares
+it to the table, so the next rule cannot be filed unindexed.
+
+### 3. What the register shows
+
+Every law you have given is enforced by a gate, and every gate is green. What remains is **prose
+volume, not machinery**: 181 Tales undeclared, 134 thin form lines, 86 marker repeats, 308 essayist
+constructions, 7 stat bands.
+
 ## Batch 205 — the tale reformation, measured (2026-11-05)
 
 ### 1. Where it stands
