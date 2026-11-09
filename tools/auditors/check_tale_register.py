@@ -41,6 +41,8 @@ WHAT FAILS
   * a Tale with no register marker at all — the essay
   * a Tale carrying an essay construction anywhere in it, whatever its opening
 
+    python3 tools/auditors/check_tale_register.py --next 20   # what to convert next
+
 WHAT IS REPORTED
   * the split between the two registers, and the Tales whose opening is neither but whose
     body is clean (reported so the count is visible; a Tale needs an opening to be read).
@@ -183,12 +185,78 @@ def classify(body):
     return 'none', (story, fairy)
 
 
+
+def markers(body):
+    """Every register marker this Tale already carries, and what each is short of."""
+    head = body.strip()[:700]
+    have = {
+        'filing header': bool(FILING.search(head)),
+        'year': bool(YEAR.search(head)),
+        'institution': bool(INSTITUTION.search(head)),
+        'post': bool(POST.search(head)),
+        'fairy opening': bool(FAIRY_OPEN.search(head[:200])),
+        'roles not names': bool(ROLE.search(head)),
+        'folk and-chain': bool(FOLK_CHAIN.search(head)),
+        'closing turn': bool(CLOSING_TURN.search(body)),
+    }
+    return have
+
+
+NEEDS = {
+    'story': ['filing header', 'year', 'institution', 'post'],
+    'fairy': ['fairy opening', 'roles not names', 'folk and-chain', 'closing turn'],
+}
+
+
+def next_tranche(limit=20):
+    """The plain Tales closest to a register, and the one thing each still needs.
+
+    Story needs `filing header` plus one of the other three; fairy needs the opening plus
+    two of the other three. Anything on this list is a rewrite of an opening and a closing
+    turn, not a new Tale.
+    """
+    out = []
+    for path in dossiers():
+        with open(path, encoding='utf-8') as fh:
+            text = fh.read()
+        m = NARRATIO.search(text)
+        if not m:
+            # A dossier with no Tale is not a plain Tale; it is a hole in the file.
+            no_tale.append(path)
+            continue
+        kind, _marks = classify(m.group(1))
+        if kind != 'none':
+            continue
+        have = markers(m.group(1))
+        best = None
+        for reg, keys in NEEDS.items():
+            missing = [k for k in keys if not have[k]]
+            if reg == 'story':
+                need = len([k for k in missing if k != 'filing header']) + (2 if 'filing header' in missing else 0)
+            else:
+                need = len(missing) + (1 if 'fairy opening' in missing else 0)
+            if best is None or need < best[0]:
+                best = (need, reg, missing)
+        out.append((best[0], best[1], best[2], path))
+    out.sort(key=lambda r: (r[0], r[3]))
+    print('NEXT TRANCHE — the plain Tales closest to a register')
+    for need, reg, missing, path in out[:limit]:
+        print('  -%d  %-7s %-58s  needs: %s'
+              % (need, reg, os.path.basename(path)[:56], ', '.join(missing) or '—'))
+    return out
+
+
 def main():
+    if '--next' in sys.argv:
+        next_tranche(int(sys.argv[sys.argv.index('--next') + 1])
+                     if len(sys.argv) > sys.argv.index('--next') + 1 else 20)
+        return 0
     files = dossiers()
     counts = {'story': 0, 'fairy': 0, 'dialogue': 0, 'hybrid': 0}
     fails = []
     soft = []
     plain = []
+    no_tale = []
 
     for path in files:
         with open(path, encoding='utf-8') as fh:
@@ -234,7 +302,14 @@ def main():
     print('    essay construction inside a Tale   %3d' % len(soft))
     print()
     print('  THE ESSAY, in neither register       %3d   FAIL above zero' % len(fails))
+    print('  NO TALE AT ALL                       %3d   FAIL above zero' % len(no_tale))
     print()
+
+    if no_tale:
+        print('  no Tale at all (%d):' % len(no_tale))
+        for path in no_tale:
+            print('    %s' % os.path.basename(path))
+        print()
 
     if fails:
         print('  the essay (%d):' % len(fails))
@@ -246,6 +321,9 @@ def main():
             print('    … and %d more' % (len(fails) - 12))
         print()
         print('RESULT: FAIL — %d Tales in neither register' % len(fails))
+        return 1
+    if no_tale:
+        print('RESULT: FAIL — %d dossiers carry no Tale at all' % len(no_tale))
         return 1
     print('RESULT: PASS')
     return 0

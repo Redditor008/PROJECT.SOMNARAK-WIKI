@@ -123,6 +123,20 @@ story they have just been shown. Delete it and end on the event.
 | batch 188, after the 21 essays were rewritten | 16 | 25 | 0 | 0 | 256 | **0** |
 | batch 188, pushed `78fd01db` | 19 | 53 | 0 | 0 | 225 | **0** |
 | batch 189, four registers adopted | 13 | 52 | **5** | **3** | 224 | **0** |
+| batch 205, measured | **20** | **92** | **5** | **3** | **181** | **0** |
+
+**120 of 301 Tales now declare a register — 39.9 %.** The 181 that do not are the backlog, not
+a defect; the essay has been at zero since batch 188. What is left is a rewrite of an aperture
+and a closing turn per file, which is why it has moved 120 files in six batches while the
+mechanical rules moved ten times that in three.
+
+**Four dossiers had no Tale at all** (`N-IIIβ-1056`, `N-Vω-1055`, `O-IIIγ-1052`, `O-IVγ-1053`) —
+they were filed without a `## 이야기 (Narratio)` section and were invisible to this standard
+because a gate that skips missing sections reads as a gate that passes them. All four now carry
+a Story Tale, and the gate reports `NO TALE AT ALL` and fails above zero.
+
+**`--next N` prints the closest N.** For each plain Tale it names the register it is nearest
+and the markers it is short of, so the next tranche is picked off a list rather than guessed.
 
 The first Dialogue Stories in the archive's history, and what they are each the record of:
 

@@ -209,6 +209,20 @@ Management: have the bearer say the partner's full name and the pact's three ten
 
 **After departure:** A flat green taste at the back of the tongue for about a day. Six of the nine counselors asked said it came with a name they had not thought of in years.
 
+## 이야기 (Narratio) — The Tale
+
+> **Filed by:** the Veterans' Office, Zone D — Year 4,238, third reconciliation of the Memorial Roll
+
+The first of them was a woman who had outlived her partner by nineteen years, and who came to the Quarters every spring to sign a form that said she had not forgotten him. The clerk at the desk knew her. The clerk signed the form. Then the clerk, being new, asked her what she owed a dead man.
+
+She did not answer, and the room hummed.
+
+The Unbroken Pledge does not come to the young and it does not come to the bereaved who have made their peace with it. It comes to the ones who outlived a vow — the veteran whose partner did not come back from the Pass, the warden who was transferred the week before the collapse, the survivor who has kept the promise and cannot say why. It settles on them the way a cord settles on a neck, and from then on it keeps the account.
+
+When the operative does the thing the oath asked for, the cord hums, and the hum is the kindest sound in Zone D — it steadies a hand that has begun to shake, and the roll records the Posture and moves on. When the operative turns away, or denies the partner's death to a room that already knows, the cord draws tight without a sound and does not let go until the room has finished with the body.
+
+The Office has tried, twice, to have the entity struck from the Roll. Both clerks who raised the motion are listed, in the next year's column, as having died at their desks.
+
 ## Trivia
 
 - The braid is two metres long on all fourteen cords. The ward sister checked each against the same bell-rope and has not found one longer or shorter by a finger's breadth.

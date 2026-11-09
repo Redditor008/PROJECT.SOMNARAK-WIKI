@@ -1,5 +1,42 @@
 # Work In Progress
 
+## Batch 205 — the tale reformation, measured (2026-11-05)
+
+### 1. Where it stands
+
+| register | declared | share |
+|---|---|---|
+| Story Tale | **20** | 6.6 % |
+| Fairy Tale | **92** | 30.6 % |
+| Dialogue Story | **5** | 1.7 % |
+| Hybrid | **3** | 1.0 % |
+| **plain, no register yet** | **181** | 60.1 % |
+| the essay | **0** | — |
+| no Tale at all | **0** | — |
+
+**120 of 301 — 39.9 %.** Growth: 25 at the first run of batch 188, 120 now.
+
+### 2. What was actually wrong, and is now fixed
+
+Four dossiers in the newest registries had **no Tale at all**. They were not counted as plain,
+because the gate skipped them, and they were not counted as anything else either. Written this
+batch, all four as Story Tales: The Unbroken Pledge, The Ancestral Guilt, The Glass Silt Drifter,
+The Singing Needle. The gate now prints `NO TALE AT ALL` and fails above zero.
+
+### 3. Why the remaining 181 have not moved faster
+
+A register is a voice, not a header. The two cheap conversions in `R-46` — a folk aperture, a
+filing byline — are legitimate only where the narration already reads as a filed account or a
+folktale. **A byline added to a plain narrative would satisfy the gate and change nothing**, which
+is the inflation this archive keeps refusing. So the 181 are a per-file rewrite, and the honest rate
+is a tranche at a time.
+
+### 4. The tool that makes the next tranche pickable
+
+`python3 tools/auditors/check_tale_register.py --next 20` prints each plain Tale with the register it
+is nearest and the markers it is missing — `filing header`, `year`, `post` for a Story Tale;
+`fairy opening`, `roles not names`, `closing turn` for a Fairy Tale.
+
 ## Batch 204 — some holdings have one thing they do (2026-11-05)
 
 ### 1. What was missing

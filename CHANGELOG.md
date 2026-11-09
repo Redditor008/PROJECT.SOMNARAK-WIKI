@@ -2,6 +2,20 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — four dossiers had no Tale
+
+**The tale reformation, measured.** 120 of 301 Tales declare a register — **Story 20 · Fairy 92 ·
+Dialogue 5 · Hybrid 3** — and **181 remain plain**, with the essay at zero since batch 188.
+
+- **Four dossiers carried no `## 이야기 (Narratio)` section at all** — `N-IIIβ-1056` The Unbroken
+  Pledge, `N-Vω-1055` The Ancestral Guilt, `O-IIIγ-1052` The Glass Silt Drifter, `O-IVγ-1053` The
+  Singing Needle. They were invisible to the standard, because a gate that skips a missing section
+  reads like a gate that passed it. All four now carry a Story Tale, filed in the form the archive
+  already uses.
+- **The gate reports `NO TALE AT ALL` and fails above zero**, so the hole cannot reopen silently.
+- **`check_tale_register.py --next N`** prints the closest N plain Tales with the register each is
+  nearest and the markers it is short of. The next tranche is picked off a list, not guessed.
+
 ## Unreleased — some holdings have one thing they do
 
 **`R-50` — `**SE Effect**`, on 45 % of the archive.** Three rows described a holding from the

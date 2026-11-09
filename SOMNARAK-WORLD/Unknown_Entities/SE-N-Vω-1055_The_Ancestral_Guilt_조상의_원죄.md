@@ -211,6 +211,18 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 
 **After departure:** The lines stay on the skin for days and the weight stays longer. Nine of the thirteen keepers asked had written to a relative before the lines faded.
 
+## 이야기 (Narratio) — The Tale
+
+> **Report of:** the Municipal Central Ledger Crypt, Deep Vault, Facility 01 — Year 4,235 audit period
+
+Four centuries of unpaid loans are kept in one room beneath the city, and the room has been getting heavier every year since the Council stopped writing off what the dead could not pay.
+
+The clerks call it the burden. The Crypt's own inventory calls it a stock. Either way, the room is entered once a generation by an auditor with a lantern and a family, because the Guilt reads the family and not the man: it takes a keeper's lineage, lays it against the ledgers, and weighs it. A keeper from a family with a clean column walks in upright. A keeper whose great-grandmother took a loan from the Weeping and defaulted on it feels the gravity arrive at the knees first, then the ribs, and then the ink, which comes out of the pores and pools in the seams of the coat.
+
+What the vault asks for is not a payment. The acknowledgement is enough — the fault named aloud, in the family's name, in front of the ledger that carries it. Whatever is owed is then entered as owed and the room eases, which is why the audit period exists and why the Council keeps voting to hold one.
+
+At the end of an audit the floor yields six hundred to nine hundred kilos of petrified ink. It is swept, weighed and budgeted for. The vault's purse has a line for it, and the line has grown every period for eleven years.
+
 ## Trivia
 
 - Nine audits have come on the same bell and begun in the same hour. The Registry's calendar has not moved in twenty-seven months, and the entity has not once been early.

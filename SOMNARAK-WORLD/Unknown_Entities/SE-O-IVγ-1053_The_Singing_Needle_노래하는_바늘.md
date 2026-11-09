@@ -209,6 +209,18 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 
 **After departure:** A ringing a half-tone off from whatever you hear, for about a day. Seven of the twelve scouts asked could not hum a tune for a week.
 
+## 이야기 (Narratio) — The Tale
+
+> **Record of:** the Northern Ridge Survey, Crystal Peaks transect — Year 4,237, fourth refusal
+
+The Needle stands on the razor ridgeline where the northern wind is funnelled into a single throat, and it does what a spire of raw crystal does to wind: it sings.
+
+The song carries further than the wind does. A survey party on the transect hears it as a note without a source, and the note goes through the ear and not around it, and the men who are issued the cranial seals come back with their hearing and the men who are not do not come back at all. The ridge itself is unmoved. The wind drops while it sings — the record is explicit, the anemometer at post three reads nothing for the length of the song — and everything with a lung inside a hundred metres is turned to liquid marrow without a mark on the skin.
+
+The Architects want the spire. Raw crystal of that grade does not occur elsewhere on the ridge, the division has petitioned the Council twice, in Year 4,236 and again in Year 4,237, and has been refused twice, because the pass is a Directive road and the road is open. A blunt strike is projected, from tests on fragments, to shatter the harmonic alignment. No maul has reached the base node. The projection is filed with the word projected in it.
+
+After every song the transect is walked and surveyed, and the survey is entered in the ledger, and the ledger has an entry for every year since the Peaks were opened.
+
 ## Trivia
 
 - The pickets lose a diaphragm about every five weeks. The division keeps forty spares in the lower-gate store and has never run short.

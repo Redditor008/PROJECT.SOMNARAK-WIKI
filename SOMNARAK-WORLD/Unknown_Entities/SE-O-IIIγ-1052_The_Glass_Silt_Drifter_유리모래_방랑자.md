@@ -202,6 +202,18 @@ Management: throttle below 38 piston strokes a minute and let it fall back. Do n
 
 **After departure:** You think about a message you have not sent. Nine of the eleven vanguards interviewed had one in mind, and four sent it from the next stage post.
 
+## 이야기 (Narratio) — The Tale
+
+> **Entry of:** the Convoy Office, Sea of Glass Transit — Year 4,233, standing order 11
+
+The corridor between Corner 1 and Corner 2 is two thousand four hundred kilometres of glass, and the Steam-Crawlers cross it because there is no other crossing and no other grade.
+
+The Drifter walks it with them. It does not hunt and it does not keep pace; it comes at the sound, and the sound is a heavy furnace pushing a reinforced tread across a surface that rings. Somewhere behind a crawler a shape the height of a trestle comes out of the glare, and the footprints it leaves are caltrops — razor obsidian, black against the white, laid in a line that shears through iron rims and seal-gaskets on the second or third pass.
+
+The Convoy Office wrote the order in the plainest words it had. Keep the copper chain live. Throttle down. Let it fall back. Nothing in the order asks a driver to fight it, and the two boarding procedures that did are kept in the archive with the names attached to them, because the glass a shattered fragment throws is not glass for long — it detonates, and the fire it throws is Grudge, and thermal aprons are issued at Corner 1 and inspected at Corner 1 and have never once been the reason a driver lived.
+
+The corridor stays open. The crossing is the only one, and the Council's ledger says what it would cost to close it, and the ledger is right.
+
 ## Trivia
 
 - It has never been recorded off the glass. The vitrified corridor is 2,400 km long and the Drifter's whole known range is inside it.
