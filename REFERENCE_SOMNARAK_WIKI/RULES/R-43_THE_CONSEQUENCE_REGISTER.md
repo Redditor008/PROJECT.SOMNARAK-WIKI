@@ -85,7 +85,7 @@ ruleâ€™s own Top row says *a wing; the loss is counted in staff and in rooms* â€
 `registry`, `archive`, `directorate`, `perimeter` and `quarter` all count as a payer. What does
 not count is a cost that never leaves one person.
 
-`tools/auditors/check_consequence_register.py` (gate 86) enforces the two ends:
+`tools/auditors/check_consequence_register.py` (gate 40) enforces the two ends:
 
 - a **High or SPECIAL** file must name an institution-scale payer in its `### Consequences`
   (district, city, perimeter, registry, facility, archive, or an order signed above the wing);

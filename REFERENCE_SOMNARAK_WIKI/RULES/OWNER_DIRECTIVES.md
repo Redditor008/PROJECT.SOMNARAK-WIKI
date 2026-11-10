@@ -115,8 +115,11 @@ Will Match With Our Current SE 'TEMPLATE'."*
 **What it means.** A subject has `## Behavior` with four work rows. A relic has
 `## Handling Process` with stages — approach, handling, withdrawal, refusal — and a
 `**Handling**` row instead of `**Valid Work Types**`. There is nothing in a relic to work.
-**Lives in:** `R-40`. **Checked by:** `check_relic_work_types.py` (ratchet 131).
-**Status:** **OPEN — 131 of 143 relic dossiers still carry Work Types.**
+**Lives in:** `R-40`. **Checked by:** `check_relic_work_types.py` (gate 32), ratchet 0.
+**Status:** **DONE — 143 of 143 relic dossiers.** Closed by batch 202 and left stated as OPEN here
+for ten batches: the order claimed 131 dossiers still carried Work Types when the gate had been
+reading 0 since the batch that finished it. A status is a claim, and this one was ten batches
+stale — which is what `O-38` exists to stop.
 
 ### O-09 · Consequence means the cost of working on it
 **Your words:** *"The meaning of consequence to all SE is: there will be a cost on working on
@@ -166,7 +169,12 @@ Type Of Shape At Minimum Four Human, Monster, Animal, And Abstract … Example O
 Machine."*
 
 **What it means.** At minimum four shapes across the subjects; not every holding is a humanoid.
-**Lives in:** `R-32`. **Checked by:** — **Status:** PARTIAL.
+**Lives in:** `R-32`. **Checked by:** — **Status:** **PARTIAL, and it cannot be closed by a gate as
+the file stands.** The four shapes — Human, Monster, Animal, Abstract — are not a recorded field.
+The nearest one, `**Physical Form**`, is Mixed on 104 of 158 subjects and carries free prose on the
+other four, so there is nothing to classify without inventing a keyword scorer, and batch 213
+refused to do that. Closing this order needs a `**Shape**` row added to the schema and filled for
+158 dossiers — a schema change, not a sweep.
 
 ---
 
@@ -278,7 +286,7 @@ The clocks, from the category: **Indumentum 10 s** (worn) · **Officium 15 s** (
 **Arcanum 20 s** (a reading) · **Offertorium 30 s** (standing in its reach). Relics with no Tool
 Type — Places, Times, Hazards, 61 of them — read the clock off `Entity Type` instead.
 
-**Lives in:** `R-47`. **Checked by:** `check_relic_interaction_damage.py` (gate 92).
+**Lives in:** `R-47`. **Checked by:** `check_relic_interaction_damage.py` (gate 33).
 **Status:** DONE — **143 of 143 relic dossiers** carry a per-second dose with a tightening clock
 and a reset.
 
@@ -366,7 +374,7 @@ learns it once. *The Work Damage row* still answers *what does it cost per secon
 **Also fixed this batch:** 286 `Starting Sorrow Gauge` rows on the retired 35–50% band → **000**;
 12 duplicate row labels; the three relic templates and two guides that still generated `[HP]`.
 
-**Lives in:** `R-48`. **Checked by:** `check_relic_gauge.py` (gate 93).
+**Lives in:** `R-48`. **Checked by:** `check_relic_gauge.py` (gate 34).
 **Status:** DONE — 134 at five tier walls · 9 keeping `[HP]` · ratchet 0.
 
 ---
@@ -507,7 +515,7 @@ And Some Is From The DONE List Because I Think There Is Still Things Not Done."*
   of batches 203, 204 and 206 — each written, tested, indexed and cited, and each absent from
   `tools/gate.sh`. Every one printed `RESULT: PASS` when run by hand, and not one of them could fail
   a push.
-- **The build is the only place a gate is real.** `check_gate_wiring.py` (gate 92) reads the standards
+- **The build is the only place a gate is real.** `check_gate_wiring.py` (gate 46) reads the standards
   `how_finished.py` measures and requires each auditor to appear in `tools/gate.sh`. An unwired gate
   fails the build that forgot it.
 - **A citation is not evidence.** *"Enforced by a gate"* means the gate runs on every push, not that a
@@ -529,6 +537,24 @@ That"*
   the instruction.
 - **Unclassified means the record, not silence.** An entry can be promoted to a rule later. A
   sentence left in the conversation cannot be recovered later at all.
-- **Checked by** `check_command_capture.py` (gate 94): every rule named in the register, every order
+- **Checked by** `check_command_capture.py` (gate 48): every rule named in the register, every order
   a row of its Part II table, every batch inside a declared era, and the declared span reaching the
   highest batch on record.
+
+---
+
+### O-39 · A number names one gate, and a status is a claim
+
+**The owner's instruction, 2026-11-05:** *"If You can find other Command That You Forgotten/Ignore"*
+
+- **One number, one script.** `REFERENCE_SOMNARAK_WIKI/GATES.md` numbers every gate by its position in
+  `tools/gate.sh` — derived, not chosen. Before that table existed, `gate 92` was claimed by two
+  scripts and `gate 93` by two more.
+- **Cite the script.** The filename is the identity; a number is correct only if it matches the
+  register.
+- **A status is measured, not remembered.** When a gate reaches zero the order reaches DONE in the
+  same unit. `O-08` claimed 131 relic dossiers still carried Work Types for ten batches after the
+  gate had been reading 0.
+- **A PARTIAL that explains itself is a finding; a PARTIAL with no number is a shrug.** Where an order
+  cannot be measured yet, it says why — `O-14` needs a `**Shape**` field that does not exist.
+- **Checked by** `check_gate_numbers.py` (gate 49).

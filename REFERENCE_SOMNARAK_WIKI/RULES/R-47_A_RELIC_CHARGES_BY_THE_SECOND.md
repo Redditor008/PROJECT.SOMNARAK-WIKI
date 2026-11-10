@@ -144,7 +144,7 @@ charge you the same way.
 
 ## 7. The gate
 
-`tools/auditors/check_relic_interaction_damage.py` (gate 92) reads every non-subject dossier's
+`tools/auditors/check_relic_interaction_damage.py` (gate 33) reads every non-subject dossier's
 `**Work Damage**` row and requires three things:
 
 1. **a clock** — `/ N s` or `/ N s`-equivalent (`per N s`, `every N s`);

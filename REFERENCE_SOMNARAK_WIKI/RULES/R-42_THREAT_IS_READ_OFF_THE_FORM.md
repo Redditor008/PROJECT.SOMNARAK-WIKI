@@ -66,7 +66,7 @@ was already inside the band.
 
 ## 4. What the gate does
 
-`tools/auditors/check_threat_form.py` (gate 85):
+`tools/auditors/check_threat_form.py` (gate 39):
 
 - every **Top or High** dossier that carries a `Han Pressure [ATK]` row must open at or above the
   band floor;

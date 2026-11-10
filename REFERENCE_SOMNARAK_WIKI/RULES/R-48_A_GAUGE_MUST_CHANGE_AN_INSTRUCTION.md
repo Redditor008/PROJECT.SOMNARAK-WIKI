@@ -259,7 +259,7 @@ not less: **nothing may be used at 000.**
 
 ## 10. The gate
 
-`tools/auditors/check_relic_gauge.py` (gate 93) fails a non-breaching, non-possession relic when:
+`tools/auditors/check_relic_gauge.py` (gate 34) fails a non-breaching, non-possession relic when:
 
 - the label is `[HP]`, is not one of the four measures, or disagrees with the `Element` row;
 - the ceiling is not the figure its **tier** dictates;

@@ -1,5 +1,37 @@
 # Work In Progress
 
+## Batch 213 — the hunt for forgotten commands (2026-11-05)
+
+### 1. What you asked
+
+*"If You can find other Command That You Forgotten/Ignore"* — an audit, not a guess.
+
+### 2. What the hunt found
+
+Nothing missing. **Three mis-stated**, which is worse, because a mis-statement looks like work:
+
+| what | what it claimed | what is true |
+|---|---|---|
+| `O-08` relic handling | OPEN — 131 of 143 still carry Work Types | **0** since batch 202 |
+| `O-14` shape diversity | PARTIAL, unchecked | the four shapes are **not a recorded field** |
+| gate numbers | `gate 92`, `gate 93` | each claimed by **two different scripts** |
+
+The gate-number collision is the serious one: four documents cited two scripts by the same number and
+none of them could be followed. The numbers had been assigned batch by batch by whoever was writing.
+
+### 3. What was built
+
+- **`GATES.md`** — 49 gates, numbered by position in `tools/gate.sh`. Derived, so it cannot drift.
+- **`check_gate_numbers.py`** (gate 49) — reconciles register against build, both directions, and fails
+  on any citation whose number belongs to another script. It corrected **24 citations across 10 files**.
+- **`R-53` / `O-39`** — a number names one gate; a status is a claim, measured not remembered; a
+  PARTIAL that explains itself is a finding, a PARTIAL with no number is a shrug.
+- **`O-08`** closed to DONE. **`O-14`** rewritten to say what it would take to close.
+
+### 4. Where it stands
+
+**26 standards**, 21 DONE, 5 OPEN. The five that remain are all prose volume.
+
 ## Batch 212 — the section standard closes (2026-11-05)
 
 ### 1. What was done
@@ -104,7 +136,7 @@ up commands that had been obeyed and never filed.
 
 ### 3. What was built
 
-`R-52` · `O-38` · register §17 · `check_command_capture.py` (gate 94) · 14 tests.
+`R-52` · `O-38` · register §17 · `check_command_capture.py` (gate 48) · 14 tests.
 
 The gate compares the three registers: every `R-nn` named in the register, every `O-nn` a row of its
 Part II table, every WIP batch inside a declared era, and the declared span reaching the highest batch
@@ -824,7 +856,7 @@ Batch 159 put the barred word on the dossiers; batch 160 put it on the Side Code
 
 ### 2. The rule is a gate, and it can fail
 
-Fifth rule in `tools/auditors/check_work_preference.py` (gate 81), ratcheted at **0**: bar status and word must agree across the two files; the word must be the one the **page's own** designation wants; no compound; no `N/A`. It runs on **223 pages**, reports **0**, and prints the count of pages citing a code no dossier files — **0** — separately, because a rule that passes by measuring nothing is the failure this batch exists to prevent. Eight tests pin it, one of them running the real tree.
+Fifth rule in `tools/auditors/check_work_preference.py` (gate 35), ratcheted at **0**: bar status and word must agree across the two files; the word must be the one the **page's own** designation wants; no compound; no `N/A`. It runs on **223 pages**, reports **0**, and prints the count of pages citing a code no dossier files — **0** — separately, because a rule that passes by measuring nothing is the failure this batch exists to prevent. Eight tests pin it, one of them running the real tree.
 
 **A hole closed on the way.** Pair equality — the two barred cells are one reading — had only ever been checked on relics, where the Two-Work-Type Rule bars the two cells. **Thirteen Subject dossiers** bar both cells on their own record, and nothing compared their two words. It does now, for every dossier and every A-page; there were none to fix.
 

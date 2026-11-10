@@ -70,7 +70,7 @@ it is kept in the section that owns it; the table is not an overflow.
 
 ## 4. Where the fault is measured
 
-`check_secc_shape.py` (gate 91) reads the `SECC Classification` table of all 301 dossiers, matches
+`check_secc_shape.py` (gate 45) reads the `SECC Classification` table of all 301 dossiers, matches
 both rows against the template's shape, cross-checks each symbol against the dossier's own
 `Designation` code, and counts descriptors that have grown into sentences. It reports the number of
 codes it cross-checked, so a check that matched nothing is visible rather than green.

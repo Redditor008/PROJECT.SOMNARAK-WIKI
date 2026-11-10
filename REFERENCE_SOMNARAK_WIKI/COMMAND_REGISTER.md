@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 212.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 213.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -30,7 +30,7 @@ lines → push, then say what is still open.
 
 # Part I — The named reformations
 
-Seventeen programmes, in the order they were opened. Each entry gives **what you said**, **what it
+Eighteen programmes, in the order they were opened. Each entry gives **what you said**, **what it
 meant**, **what changed**, **where it lives**, **what checks it**, and **where it stands today**.
 
 ---
@@ -194,8 +194,8 @@ a Common one may not. Batch 177 finished the last 52 Top records and batched the
 the world document.
 
 **Where it lives.** `R-43`.
-**Checks it.** `check_consequence_register.py` (gate 86).
-**Status.** **PARTIAL — failures 0, reported 14.** `check_consequence_register.py` (gate 86) prints
+**Checks it.** `check_consequence_register.py` (gate 40).
+**Status.** **PARTIAL — failures 0, reported 14.** `check_consequence_register.py` (gate 40) prints
 `RESULT: PASS` above **14** dossiers whose consequence cell it reports but does not fail — HE
 consequences claiming city scale, **HE=10 · TETH=4**. A pass over a non-zero count is a ratchet,
 not a finish: those 14 are open, and they are open *for you to rule on* rather than to be edited to
@@ -348,7 +348,7 @@ what `R-45` was objecting to. Both are now repaired, and `R-45`'s row points at 
 contradicting it.
 
 **Where it lives.** `R-51`; `R-45` §3 row amended; template lines 70–71 unchanged and now enforced.
-**Checks it.** `check_secc_shape.py` (gate 91) — 301 dossiers, 301 `Designation` codes
+**Checks it.** `check_secc_shape.py` (gate 45) — 301 dossiers, 301 `Designation` codes
 cross-checked, **0** cells off contract.
 **Status.** **DONE** — and gated, which is the distinction this batch was about.
 
@@ -376,14 +376,38 @@ the record rather than to silence, because an entry can be promoted and a lost s
 recovered.
 
 **Where it lives.** `R-52`; `O-38`; this §17.
-**Checks it.** `check_command_capture.py` (gate 94): every rule named in this register, every order a
+**Checks it.** `check_command_capture.py` (gate 48): every rule named in this register, every order a
 row of Part II, every batch inside a declared era, and the declared span reaching the highest batch
 on record.
 **Status.** **DONE and gated.**
 
 ---
 
-# Part II — The thirty-eight standing orders
+## 18. The Hunt Reformation — `R-53` / `O-39`, batch 213
+
+**What you said.** *"If You can find other Command That You Forgotten/Ignore"*
+
+**What it changed.** Three commands were not missing but **mis-stated**, which is harder to see than
+an absence:
+
+- **`O-08` claimed undone work.** It read *"OPEN — 131 of 143 relic dossiers still carry Work Types"*.
+  The gate had been reading **0** since batch 202. Ten batches of a status that under-claimed.
+- **`O-14` claimed a partial no gate can reach.** The four shapes — Human, Monster, Animal, Abstract —
+  are not a recorded field; `**Physical Form**` is `Mixed` on 104 of 158 subjects. Classifying them
+  would mean a keyword scorer, which `R-15` forbids.
+- **Gate numbers named more than one gate.** `gate 92` was cited for both
+  `check_relic_interaction_damage.py` and `check_gate_wiring.py`; `gate 93` for both
+  `check_relic_gauge.py` and `check_section_registry.py`. No register defined what a number meant.
+
+**Where it lives.** `R-53`; `O-39`; `GATES.md` — every gate numbered by its position in `tools/gate.sh`,
+which is derived and cannot drift.
+**Checks it.** `check_gate_numbers.py` (gate 49) reconciles the register with the build and fails on a
+citation that disagrees. `O-08` is DONE; `O-14` states why it needs a schema change rather than a sweep.
+**Status.** **DONE and gated.**
+
+---
+
+# Part II — The thirty-nine standing orders
 
 The permanent law, each with your words where they survive verbatim. Full text in
 `OWNER_DIRECTIVES.md`.
@@ -428,12 +452,13 @@ The permanent law, each with your words where they survive verbatim. Full text i
 | **O-36** | Some holdings have one thing they do | 204 | DONE |
 | **O-37** | A gate cited is a gate wired — an auditor named by `how_finished.py` must be invoked by `tools/gate.sh` | 207 | DONE |
 | **O-38** | A command ends in a file — a rule, an order, or the register; never only in the conversation | 209 | DONE |
+| **O-39** | A number names one gate, and a status is a claim — `GATES.md` derives every number from its position in the build | 213 | DONE |
 
 ---
 
 # Part III — The rule index
 
-Every command that became law has a file. **52 rules**, `R-01`–`R-52`.
+Every command that became law has a file. **53 rules**, `R-01`–`R-53`.
 
 `R-01` no edit-meta · `R-02` growth-only · `R-03` no label decoration · `R-04` bespoke per entity ·
 `R-05` no threshold gaming · `R-06` the threshold is the counter · `R-07` percentage where no
@@ -453,15 +478,15 @@ chain · **`R-40` a relic is handled, not worked** · **`R-41` the barred cells 
 session** · `R-45` write every section to its contract · **`R-46` the Tale has four registers** ·
 **`R-47` a relic charges by the second** · **`R-48` the charge** · **`R-49` a work can cost, cost
 nothing, or give** · **`R-50` some holdings have one thing they do** · **`R-51` a table row
-answers one question** · **`R-52` a command ends in a file**.
+answers one question** · **`R-52` a command ends in a file** · **`R-53` a number names one gate**.
 
-*(Bold = the nine reform laws of batches 193–209.)*
+*(Bold = the ten reform laws of batches 193–213.)*
 
 ---
 
 # Part IV — The batch record, by era
 
-**212 batches, 618 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
+**213 batches, 619 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
 
 | era | batches | what it was for |
 |---|---|---|
@@ -478,13 +503,13 @@ answers one question** · **`R-52` a command ends in a file**.
 | **The Tale** | 188–189 | four registers; the first Dialogue Stories in the archive |
 | **The charge** | 190–202 | `R-40` closed, `R-47`/`R-48` drafted five times, six doses and the minutes |
 | **The effects** | 203–205 | three work verdicts, individual SE effects, the Tale measured |
-| **The gate audit** | 206–212 | the register itself; three gates the build never ran; SECC given one question per row; a command made to end in a file |
+| **The gate audit** | 206–213 | the register itself; three gates the build never ran; SECC given one question per row; a command made to end in a file |
 
 ---
 
 # Part V — Where the commands stand
 
-**25 standards are measured every batch** (`tools/auditors/how_finished.py`). **20 are DONE, 5
+**26 standards are measured every batch** (`tools/auditors/how_finished.py`). **21 are DONE, 5
 OPEN, 0 unknown:**
 
 | OPEN standard | remainder |
@@ -500,8 +525,7 @@ when this paragraph was first written, and batch 207 is what found it out. `how_
 measured **fifteen** auditors; `tools/gate.sh` invoked **twelve**. The three batches immediately
 before this one — 203's work-effect gate, 204's SE-effect gate, 206's rule-index gate — were
 written, tested, indexed, cited in the changelog, and **never added to the build.** Each printed
-`RESULT: PASS` on demand and none of them could fail a push. `O-37` and `check_gate_wiring.py`
-(gate 92) now make an unwired gate a failure in its own right, so a citation cannot stand in for an
+`RESULT: PASS` on demand and none of them could fail a push. `O-37` and `check_gate_wiring.py` (gate 46) now make an unwired gate a failure in its own right, so a citation cannot stand in for an
 invocation again.
 
 The five OPEN standards are now **prose volume only** — no section is missing anywhere in the archive. 181 Tales to re-voice,

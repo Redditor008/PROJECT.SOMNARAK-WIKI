@@ -70,13 +70,13 @@ bind the next batch. A standard recorded only in WIP is a standard that the next
 consult, because the next reader opens the rules folder.
 
 **A rule with no index row.** Filed and invisible is the same defect as unfiled — this is what
-`check_rule_index.py` (gate 90) exists to catch, and it caught five of them.
+`check_rule_index.py` (gate 44) exists to catch, and it caught five of them.
 
 **A gate that is not in the build.** Written and cited is not enforced. `O-37`, gate 92.
 
 ## 5. What is checked
 
-`check_command_capture.py` (gate 94) reads the three registers against each other and fails on any
+`check_command_capture.py` (gate 48) reads the three registers against each other and fails on any
 command that ends nowhere:
 
 - every `R-nn` file on disk is named in `COMMAND_REGISTER.md`;

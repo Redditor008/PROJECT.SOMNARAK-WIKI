@@ -2,6 +2,30 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — three commands were not missing, they were mis-stated
+
+**A hunt for forgotten commands found none missing and three lying.** That is the harder failure,
+because an absent command leaves a hole and a mis-stated one leaves a claim.
+
+- **`O-08` claimed undone work.** *"OPEN — 131 of 143 relic dossiers still carry Work Types"* — the
+  gate has read **0** since batch 202. Ten batches of an order under-claiming its own progress.
+  It is **DONE** now, with the reading it actually has.
+- **`O-14` claimed a partial no gate can reach.** Subject shape diversity asks for Human, Monster,
+  Animal and Abstract; none of those is a recorded field. `**Physical Form**` is `Mixed` on 104 of
+  158 subjects and free prose on the rest, so a gate would have to invent a keyword scorer — which
+  `R-15` forbids and this batch refused. The order now says what closing it would take: a `**Shape**`
+  row, a schema change, not a sweep.
+- **Gate numbers named more than one gate.** `gate 92` was cited for both
+  `check_relic_interaction_damage.py` and `check_gate_wiring.py`; `gate 93` for both
+  `check_relic_gauge.py` and `check_section_registry.py`. The numbers had been assigned batch by batch
+  and no two agreed, because nothing defined what a number meant.
+
+**`GATES.md` now defines it**: every gate numbered by **its position in `tools/gate.sh`** — derived
+from the build, so it cannot drift. `check_gate_numbers.py` (gate 49) reconciles the register with the
+build in both directions and fails on any prose citation whose number belongs to another script.
+
+`R-53` and `O-39` carry the rule. It closed 24 wrong citations across 10 files.
+
 ## Unreleased — every dossier carries every section its template asks for
 
 **The section standard closes at zero.** Batch 208 found 29 sections missing across 16 dossiers. Three

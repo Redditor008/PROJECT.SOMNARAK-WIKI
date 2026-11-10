@@ -103,7 +103,7 @@ row already opens with `—`.
 
 ## 4. What is enforced now, and what is measured
 
-`tools/auditors/check_work_damage.py` (gate 87):
+`tools/auditors/check_work_damage.py` (gate 41):
 
 - **fails** any holding whose `Work Damage` amount falls outside its band, or whose type does not
   match its own `Element` row;
