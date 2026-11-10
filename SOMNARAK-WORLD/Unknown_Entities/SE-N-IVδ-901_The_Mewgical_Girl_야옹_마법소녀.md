@@ -155,6 +155,7 @@ After the opening line (*"Ahuhuhu... alright, dearies!"*), the track **MAGICAL M
 |---|---|
 | **Form** | Two-meter magical-girl doll with cat ears, cat tail, pink costume, and humanoid movement. |
 | **Weapon focus** | 1.7-meter golden staff with a pink cat-paw head approximately 60 centimeters wide. |
+| **Material / signature** | Mixed — Light, Warmth, Spark, Flame, Grudge. A hollow performer's shell under a painted stage finish; the pink uniform is cloth repaired many times, the cat ears are later replacements, and the staff is polished gold. |
 | **Persona color state** | Mimi: pink, gold, white. Shu Shu: grey, red, pale blue. Both: all colors flicker together. |
 | **Distinctive markers** | Two voices; external grey spirit during Mimi control; pink/blue staff glow during Shu Shu control; Cartoon Soot after self-hit. |
 | **Identification** | Confirm the body-soul composite and current control state before engagement. |

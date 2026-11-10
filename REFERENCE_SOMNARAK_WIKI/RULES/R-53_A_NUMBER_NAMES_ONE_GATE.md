@@ -18,6 +18,12 @@ exist across the subjects; the four shapes are not a recorded field. `**Physical
 104 of 158 subjects and free prose on the other four, so classifying them would mean inventing a
 keyword scorer — the thing `R-15` forbids and batch 213 refused to do.
 
+> **Corrected in `R-54` (batch 214).** This paragraph is wrong. The category was never in
+> `Physical Form`; it is in the `## Appearance` section every dossier already carries, and
+> `check_appearance_contract.py` (gate 50) reads it: 301 of 301 resolve. `O-14` is reopened and is now
+> measured, not explained. The `R-53` rule below stands unchanged — a status is still a claim; the
+> claim this paragraph made was simply false.
+
 **Gate numbers named more than one gate.** Between batches 202 and 212 the archive began citing gates
 by number with no register defining what a number meant. Four documents cited two different scripts
 by the same number:
@@ -55,6 +61,11 @@ When a gate reaches zero, the order reaches **DONE** in the same unit — as `O-
 Where an order genuinely cannot be measured yet, it says so and says why: `O-14` states that the four
 shapes are not a recorded field and that closing it needs a schema change, not a sweep. **A PARTIAL
 that explains itself is a finding. A PARTIAL with no number is a shrug.**
+
+> **Corrected in `R-54` (batch 214).** `O-14` was not unmeasurable — it was measured in the wrong
+> place. `check_appearance_contract.py` (gate 50) reads 301 of 301, and the order is PARTIAL with a
+> number now. The lesson survives the correction: *this* PARTIAL explained itself and was still wrong,
+> because the explanation was never tested against the files.
 
 ## 4. What is checked
 

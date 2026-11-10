@@ -2,6 +2,46 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the appearance is a category and a way of writing
+
+**Every SE now resolves to a shape, and the shape was never in the column we were looking at.**
+
+Batch 213 recorded that subject shape diversity could not be gated, because Human / Monster / Animal
+/ Abstract is not a recorded field and `**Physical Form**` is `Mixed` on most subjects. That was a
+search in the wrong place. The body plan is the dossier's **own form statement** in `## Appearance` —
+a `**Form**` row, a `**Physical Form:**` line, a `**Primary Form:**` line — and every file has one.
+
+| family | dossiers |
+|---|---|
+| humanoid | 117 |
+| place | 82 |
+| object | 51 |
+| abstract | 25 |
+| animal | 19 |
+| mechanical | 4 |
+| monster | 3 |
+
+**301 of 301 resolve.** Seven families present where `R-32` asks for four. `O-14` is reopened and is
+**PARTIAL with a number** for the first time: the thin end is mechanical 4 and monster 3 — the two
+shapes the owner named as the exception, and the two rarest in the archive.
+
+**The second axis is voice.** Appearance is either a ledger of the observer's four readings or a
+prose observation that states its body in its opening sentence — both are L Corp's way, and requiring
+a table of the 12 well-written prose sections would be asking the archive to write worse. What
+neither may do is explain. *A bloom stands for a wrong* is the essayist `R-45` §0.2 names; the same
+fact in record register — **corresponds to** — belongs, and was already in these files.
+
+**The gate measured itself before it measured the archive.** Its first run reported 92 dossiers
+missing a reading and 33 interpretation tells. The real defects were **one missing reading and three
+tells in two files**. The other 91 were the checker's: `\bwall\b` does not match *walls*; the first
+version never read `**Physical Form:**`; 12 prose sections were being scored for missing table rows;
+and *stands for more than three minutes* is a duration, not a symbol. The archive number fell from 92
+to 4 before a single dossier changed.
+
+- **`check_appearance_contract.py`** — gate 50.
+- **`R-54` / `O-40`** — the appearance is a category and a way of writing.
+- **`R-53` corrected in place**, carrying a dated withdrawal rather than a quiet edit.
+
 ## Unreleased — three commands were not missing, they were mis-stated
 
 **A hunt for forgotten commands found none missing and three lying.** That is the harder failure,

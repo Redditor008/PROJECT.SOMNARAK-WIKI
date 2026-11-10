@@ -109,7 +109,7 @@ The figure is projected from the Dawn-branch accounts, because there is no curre
 **Notable Features:**
 - Judges all who enter its sight.
 - Sentences the judged through sorrow-crucifixion.
-- Each feather represents the grief of a blessed person.
+- Each feather corresponds to the grief of a blessed person.
 
 **Identification Profile**
 
@@ -127,7 +127,7 @@ The figure is projected from the Dawn-branch accounts, because there is no curre
 | **Form** | Five pairs of salt-crystal wings, a thorned sorrow-crystal crown grown into the brow, and a white metal collar carrying three thousand and eleven engraved names. |
 | **Position / movement** | Unformed in the current cycle. The historical/projected form stands where the twelfth blessing completed. Its anatomy comes from Dawn accounts and the Tale, not from reversing the Hand of Hope's body. Only its function — accumulation and judgment rather than distribution — is inverse. |
 | **Material / signature** | Projected: five pairs of wings of crystallised tears, a crown of thorned sorrow-crystal, a collar carrying every name the Kind Healer could not save. The collar's estimated count is the only figure in this section anybody has checked — three thousand and eleven, from the Healer's own blessing records. The same older records give the figure's stature and dress, which the wing carries as projections like the rest: about three metres tall, in funeral vestments that never settle and shift between white, pale violet and grey, with wings that hang unmoving like the windows of a cathedral and eyes that are two wells of violet so dark they read as black. They add that the gaze makes the unhealed wounds of whoever meets it audible. |
-| **Distinctive markers** | Judges all who enter its sight. Sentences the judged through sorrow-crucifixion. Each feather represents the grief of a blessed person. |
+| **Distinctive markers** | Judges all who enter its sight. Sentences the judged through sorrow-crucifixion. Each feather corresponds to the grief of a blessed person. |
 | **Identification** | There is no current form to identify. This file's preserved contingency register reads eleven of twelve, reviewed quarterly. The Kind Healer's own current-cycle record instead reports twelve completed and the Hand of Hope. Those counts are not reconciled here as one simultaneous state. |
 
 **Appearance protocol:** None is possible; there is no appearance to take. What is logged quarterly in its place is the apparatus of not-having-formed: the blessing count against the Healer's file, the charm's temperature, the list of four re-confirmed, and one line preserved verbatim from the eleventh-hour commanders — twelve was averted; the sun rose ordinary.

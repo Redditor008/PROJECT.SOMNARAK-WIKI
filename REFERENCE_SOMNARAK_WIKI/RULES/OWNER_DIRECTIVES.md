@@ -169,12 +169,30 @@ Type Of Shape At Minimum Four Human, Monster, Animal, And Abstract … Example O
 Machine."*
 
 **What it means.** At minimum four shapes across the subjects; not every holding is a humanoid.
-**Lives in:** `R-32`. **Checked by:** — **Status:** **PARTIAL, and it cannot be closed by a gate as
-the file stands.** The four shapes — Human, Monster, Animal, Abstract — are not a recorded field.
-The nearest one, `**Physical Form**`, is Mixed on 104 of 158 subjects and carries free prose on the
-other four, so there is nothing to classify without inventing a keyword scorer, and batch 213
-refused to do that. Closing this order needs a `**Shape**` row added to the schema and filled for
-158 dossiers — a schema change, not a sweep.
+**Lives in:** `R-32`, `R-54`. **Checked by:** `check_appearance_contract.py` (gate 50).
+**Status:** **PARTIAL — reopened in batch 214, and it turns on the thin families.**
+
+Batch 213 recorded this order as unmeasurable, because the four shapes are not a recorded field and
+`**Physical Form**` is `Mixed` on most subjects. That reasoning looked for the category in the wrong
+place; `R-54` overturns it. The category is the dossier's own form statement in `## Appearance`, and
+gate 50 reads all 301 files: **0 unfiled.**
+
+The axis `R-32` actually asks about is distribution, and the gate prints it:
+
+| family | dossiers |
+|---|---|
+| humanoid | 117 |
+| place | 82 |
+| object | 51 |
+| abstract | 25 |
+| animal | 19 |
+| mechanical | 4 |
+| monster | 3 |
+
+Seven families are present and the four-family minimum is met, so the order no longer fails on
+absence. It stays PARTIAL because **mechanical 4 and monster 3** are the thin end: 39% of dossiers are
+humanoids, and the shapes the owner named as the exception — One Sin, the Singing Machine — are the
+rarest in the archive. Closing it means the thin families grow, not that the count is re-explained.
 
 ---
 
@@ -485,7 +503,7 @@ These are the orders that are **not** satisfied today. This is the honest state 
 | — | relic gauge | **0** | Done batch 197: fills to the tier wall, 000 at rest, 60 s, 110-char cells, 9 keeping [HP]. |
 | **O-21** | concrete, not vague | unmeasured | No checker exists. Held by reading only. |
 | **O-22** | section contracts | partial | Form lines: **0 over 130** (floor removed — short is the form, `R-45` §2) · 134 thin, ratcheted · 86 repeat their own marker. |
-| **O-14** | subject shape diversity | partial | Not audited. |
+| **O-14** | subject shape diversity | partial | gate 50: 0 unfiled, 7 families, mechanical 4 / monster 3 thin |
 | — | duplicated sections | **2,269 pairs** | `Appearance`↔`Detailed Appearance Profile` in 233 files. |
 | — | A-page titles | **41** | A-page carries a title its dossier does not. |
 | — | The Maw | 1 conflict | Stat line 22–34 against `SE-1003-B` 14–24; A-page forbids extraction while three records exist. |
@@ -556,5 +574,30 @@ That"*
   same unit. `O-08` claimed 131 relic dossiers still carried Work Types for ten batches after the
   gate had been reading 0.
 - **A PARTIAL that explains itself is a finding; a PARTIAL with no number is a shrug.** Where an order
-  cannot be measured yet, it says why — `O-14` needs a `**Shape**` field that does not exist.
+  cannot be measured yet, it says why. That explanation is itself a claim, and it can be wrong:
+  `O-14` explained itself for a batch and the explanation was false (`R-54`).
 - **Checked by** `check_gate_numbers.py` (gate 49).
+
+---
+
+### O-40 · Appearance is a category and a way of writing
+
+**The owner's instruction, 2026-10-25:** *"On Appearance Things The Things You Mention Mean For You
+To Check If Every SE Minimum Fall Onto That Category and More And Also The Appearance Things Is Two
+Things The Category Things And The Following How L corp Write Them Things"*
+
+- **Two axes, both checkable.** Every dossier's `## Appearance` must (a) resolve to one of the `R-32`
+  families from its own form statement, and (b) be written the way L Corp writes it — what is seen, in
+  the order it is met, never what it means.
+- **The category is read off Appearance, not off `Physical Form`.** The column is a classification;
+  the section is the description. `R-53`'s claim that `O-14` could not be measured is withdrawn and
+  corrected in place.
+- **Two shapes, both L Corp.** A ledger of the four observer's readings, or continuous prose of at
+  least 120 words that states its body in the opening sentence. Requiring a table of a well-written
+  prose section would be asking the archive to write worse.
+- **Interpretation is the tell.** *Stands for*, *represents*, *embodies*, *is the point* — the
+  essayist `R-45` §0.2 names. The same fact in record register (*corresponds to*) belongs.
+- **A gate's first reading measures the gate.** The first run said 92 dossiers were missing a
+  reading; the real number was 1, plus 3 tells in 2 files. The other 91 were plurals, an unread field
+  name, and prose being scored as a table.
+- **Checked by** `check_appearance_contract.py` (gate 50).

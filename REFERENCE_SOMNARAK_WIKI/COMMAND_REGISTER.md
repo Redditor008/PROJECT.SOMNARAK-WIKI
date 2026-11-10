@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 213.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 214.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -453,12 +453,13 @@ The permanent law, each with your words where they survive verbatim. Full text i
 | **O-37** | A gate cited is a gate wired — an auditor named by `how_finished.py` must be invoked by `tools/gate.sh` | 207 | DONE |
 | **O-38** | A command ends in a file — a rule, an order, or the register; never only in the conversation | 209 | DONE |
 | **O-39** | A number names one gate, and a status is a claim — `GATES.md` derives every number from its position in the build | 213 | DONE |
+| **O-40** | Appearance is a category and a way of writing — the shape from the dossier's own form statement, the voice from what is seen rather than what it means | 214 | PARTIAL |
 
 ---
 
 # Part III — The rule index
 
-Every command that became law has a file. **53 rules**, `R-01`–`R-53`.
+Every command that became law has a file. **54 rules**, `R-01`–`R-54`.
 
 `R-01` no edit-meta · `R-02` growth-only · `R-03` no label decoration · `R-04` bespoke per entity ·
 `R-05` no threshold gaming · `R-06` the threshold is the counter · `R-07` percentage where no
@@ -478,15 +479,16 @@ chain · **`R-40` a relic is handled, not worked** · **`R-41` the barred cells 
 session** · `R-45` write every section to its contract · **`R-46` the Tale has four registers** ·
 **`R-47` a relic charges by the second** · **`R-48` the charge** · **`R-49` a work can cost, cost
 nothing, or give** · **`R-50` some holdings have one thing they do** · **`R-51` a table row
-answers one question** · **`R-52` a command ends in a file** · **`R-53` a number names one gate**.
+answers one question** · **`R-52` a command ends in a file** · **`R-53` a number names one gate** · **`R-54` the appearance is a
+category and a way of writing**.
 
-*(Bold = the ten reform laws of batches 193–213.)*
+*(Bold = the eleven reform laws of batches 193–214.)*
 
 ---
 
 # Part IV — The batch record, by era
 
-**213 batches, 619 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
+**214 batches, 620 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
 
 | era | batches | what it was for |
 |---|---|---|
@@ -504,20 +506,23 @@ answers one question** · **`R-52` a command ends in a file** · **`R-53` a numb
 | **The charge** | 190–202 | `R-40` closed, `R-47`/`R-48` drafted five times, six doses and the minutes |
 | **The effects** | 203–205 | three work verdicts, individual SE effects, the Tale measured |
 | **The gate audit** | 206–213 | the register itself; three gates the build never ran; SECC given one question per row; a command made to end in a file |
+| **The appearance** | 214 | the category read off the section instead of the column; 301 of 301 resolve; prose accepted as a shape; interpretation told from correspondence |
 
 ---
 
 # Part V — Where the commands stand
 
-**26 standards are measured every batch** (`tools/auditors/how_finished.py`). **21 are DONE, 5
+**29 standards are measured every batch** (`tools/auditors/how_finished.py`). **22 are DONE, 7
 OPEN, 0 unknown:**
 
 | OPEN standard | remainder |
 |---|---|
+| Every rule on disk is indexed (O-30) | **1** rule, transient — the one filed this batch |
+| Every command ends in a file (R-52) | **2**, this batch's filings |
 | Tale declared in a register | **181** of 301 |
 | Form line thin (no colour, material or number) | **134** |
 | Form line repeats its marker | **86** |
-| Essayist constructions | **308** of openers |
+| Essayist constructions | **310** of openers |
 | Stat bands over ceiling | **7** |
 
 **What that means, honestly.** *"Every law is enforced by a gate and the gate is green"* was not true
@@ -528,6 +533,8 @@ written, tested, indexed, cited in the changelog, and **never added to the build
 `RESULT: PASS` on demand and none of them could fail a push. `O-37` and `check_gate_wiring.py` (gate 46) now make an unwired gate a failure in its own right, so a citation cannot stand in for an
 invocation again.
 
-The five OPEN standards are now **prose volume only** — no section is missing anywhere in the archive. 181 Tales to re-voice,
-220 form lines to deepen, and 308 essayist constructions to rewrite. None of them can be closed by
-adding a byline, and none of them should be listed as DONE until the counter above them reads zero.
+The seven OPEN standards are now **prose volume only** — no section is missing anywhere in the
+archive, and since batch 214 no dossier is without a shape family either. 181 Tales to re-voice, 220
+form lines to deepen, 310 essayist constructions to rewrite, 7 stat bands to bring under the ceiling.
+None of them can be closed by adding a byline, and none of them should be listed as DONE until the
+counter above them reads zero.

@@ -102,7 +102,7 @@
 ## Appearance
 **Physical Form:** A predatory thicket of mobile thorned vines that crawls and lashes like a nest of serpents, gripping and dragging whatever brushes it. **Movement:** It creeps and surges across the ground in slow seeking coils.
 
-**Notable Features:** Every bloom stands for a wrong. The paths rearrange around whoever is walking them. It is beautiful from the margin, which is the only place anybody is permitted to admire it from.
+**Notable Features:** Every bloom corresponds to a wrong, and the blooms are counted at each watch. The paths rearrange around whoever is walking them. It is beautiful from the margin, which is the only place anybody is permitted to admire it from.
 
 **Identification Profile**
 

@@ -1,5 +1,70 @@
 # Work In Progress
 
+## Batch 214 — the appearance is two things (2026-10-25)
+
+### 1. What you asked
+
+*"On Appearance Things … Check If Every SE Minimum Fall Onto That Category … And Also The Appearance
+Things Is Two Things The Category Things And The Following How L corp Write Them Things"*
+
+Two axes: every SE must resolve to a shape family, and the section must be written the way L Corp
+writes it. This reverses batch 213's conclusion that `O-14` was ungatable, so the batch opens by
+withdrawing that conclusion in place — `R-53` carries a dated correction rather than a quiet edit.
+
+### 2. Where the category actually was
+
+In the section, not the column. `**Physical Form**` is a classification (`Mixed` on most subjects);
+the body plan is the dossier's own form statement — `**Form**` row, `**Physical Form:**`,
+`**Primary Form:**`, `**Primary marker:**` — and every dossier has one.
+
+**301 of 301 resolve.** humanoid 117 · place 82 · object 51 · abstract 25 · animal 19 ·
+mechanical 4 · monster 3. Seven families present; `R-32` asks for four.
+
+`O-14` stays **PARTIAL**, but with a number now: the thin end is mechanical 4 and monster 3, the
+shapes the owner named as the exception. Closing it means those grow.
+
+### 3. The gate measured itself first
+
+| run | unfiled | readings missing | tells |
+|---|---|---|---|
+| 1 | 34 | 127 | 7 |
+| 2 | 16 | 127 | 7 |
+| 3 | 3 | 99 | 3 |
+| 4 | 2 | 5 | 3 |
+| 5 | **0** | **1** | **3** |
+| 6 | **0** | **0** | **0** |
+
+Four of the five defects in runs 1–4 were the checker's: `\bwall\b` does not match *walls*;
+`**Physical Form:**` is a form statement the first version never read; 12 dossiers write Appearance as
+prose and were scored for missing table rows; *stands for more than three minutes* is a duration, not
+a symbol. The archive number fell from 92 to 4 before a single dossier changed.
+
+### 4. What was actually wrong
+
+Four files, four defects:
+
+- `SE-N-IVδ-901` had no material reading — a row added naming the shell, the cloth, the gold.
+- `SE-C-IIIγ-145` — *every bloom stands for a wrong* → **corresponds to**, the register the same
+  dossier already uses for its bloom count.
+- `SE-C-Vω-001` — *each feather represents a grief* → **corresponds to**, twice.
+
+No meaning was invented. The archive's own wording was already in the files.
+
+### 5. Built
+
+- **`check_appearance_contract.py`** (gate 50) — 7-family priority lexicon with plurals and explicit
+  negatives first, two accepted writing shapes, a tell list that can tell a symbol from a stance.
+- **`R-54` / `O-40`** — the appearance is a category and a way of writing.
+- **`O-14` reopened** and corrected in `R-53`.
+- **`R-53` corrected in place** — the paragraph that declared `O-14` unmeasurable now carries the
+  withdrawal.
+- **20 tests**, including two that measure the whole archive rather than a fixture.
+
+### 6. Where it stands
+
+**29 standards**, 22 DONE, 7 OPEN. All three appearance standards read 0. The OPEN remainder is
+prose volume: 181 Tales · 310 essayist openers · 134 thin form lines · 86 marker repeats · 7 stat bands.
+
 ## Batch 213 — the hunt for forgotten commands (2026-11-05)
 
 ### 1. What you asked
