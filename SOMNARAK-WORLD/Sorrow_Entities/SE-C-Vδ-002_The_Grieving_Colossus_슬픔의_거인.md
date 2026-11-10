@@ -482,6 +482,20 @@ The objection is minuted at every annual review, raised by the ward officer and 
 
 The minute records all three parts as correct, and the entry is longer than the objection itself. It records that a compensation scheme, costed against the valuation evidence and well within the wing's own budget, was drafted in the eleventh year and has not been laid. And it records what one of the sixty-one said to the officer who came back to explain the refusal, which the clerk entered verbatim because the officer asked her to: *we would have moved the cart. You only ever had to ask us on the day.*
 
+## Apex Record
+
+### Where the Line Begins
+
+The Colossus was counted before it was seen. A records audit of early Zone D — undertaken for land title, of all things — found the discrepancy first: thousands more dead than mourned. It is assembled from the unmourned of that district and carries every forgotten name it has ever collected, which makes it the largest sorrow in the catalogue and the gentlest, and those two facts are the same fact.
+
+### The Limit
+
+It cannot be stopped and is not held. There is no containment to break and no suppression that has ever been attempted against the whole of it; equipment derives from authorised tears and never from containing the Sovereign. It walks one route through Zone D at its own occasion, placing thirty-metre feet between bodies with millimetres to spare, and its footfalls carry through stone as a slow double beat — which is how the posts identify a march before any sighting. Every test, every observation and every contact confirms the one thing that surprises everyone who meets it: it is not angry.
+
+### The Standing Arrangement
+
+It is managed as a landmark rather than an inmate. Nothing here is a response in the containment sense — Flerehan and Ferrehan are how a crew survives an approach, not how the Colossus is stopped. Its tears leave structures that are sound, habitable and carry the weight of the dead who made them; two are occupied, both at a reduced rate the municipality set. Zone D routing bends around its occasion, the posts log the double beat, and the standing grief is neither answered nor interrupted.
+
 ## Trivia
 
 - Its footfalls carry through stone as a slow double beat, which is how the posts identify a march before any sighting.

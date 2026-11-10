@@ -52,17 +52,13 @@ ALWAYS = [
 EITHER = ['Combat Record', 'Contact Record']
 HIGH_RANK = ('IV', 'V')
 
-# Measured 2026-11-05. Batch 208 recorded 29 gaps; batch 210 closed 16 of them (the four dossiers
-# with no closing tail). These 13 may only fall.
+# Measured 2026-11-05. Batch 208 recorded 29 gaps; batch 210 closed 16 (four dossiers with no
+# closing tail) and batch 211 closed 5 more (the periodic Sovereigns and the Colossus). These 8
+# may only fall.
 DEBT = {
-    'C-Vγ-225': {'Apex Record'},
-    'C-Vγ-260': {'Apex Record'},
-    'C-Vγ-320': {'Apex Record'},
-    'C-Vδ-002': {'Apex Record'},
     'C-Vδ-111': {'Apex Record'},
     'C-Vδ-265': {'Apex Record'},
     'C-Vδ-290': {'Apex Record'},
-    'O-Vγ-003': {'Apex Record'},
     'C-IVδ-251': {'Apex Record'},
     'N-IVγ-250': {'Apex Record'},
     'N-IVδ-901': {'Apex Record'},

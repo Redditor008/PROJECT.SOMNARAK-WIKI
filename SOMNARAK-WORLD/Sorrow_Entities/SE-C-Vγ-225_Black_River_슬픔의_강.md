@@ -487,6 +487,20 @@ The readers say it before every descent of the line, and the Directorate — whi
 
 The sounding lines wear out. Lowered and raised through stone and black water for years, they fray, they thin, they come up shorter than they went down — and the readers retire them with honors, coiling each worn line into the archive with its service record: shafts sounded, tributaries found, vigils weathered. The oldest retired line in the holding served forty cycles. Its final reading was normal depth, normal tone, nothing to report. The readers mounted it anyway, with an inscription the new candidates memorize: the line held. The River kept its counsel. The city stands. Every sounding ends. The vigil does not.
 
+## Apex Record
+
+### Where the Line Begins
+
+Every Sorrow Entity in the archive is a tributary of this water, which makes the Black River the one record that is not a terminus but a **source** — the ground the rest of the catalogue stands on. It may predate the city, the Consolihan and the first recorded grief, and nothing in the register contradicts that. The survey office maps its feeders the way it maps everything else: streams, soundings, and the deep gauge network that rings the oldest districts.
+
+### The Limit
+
+It is sounded, never reached. No expedition has come back from its banks with anything but depth readings, and the readings agree on a single fact — that the River is deeper than the instruments. The grief-line is the operational ceiling: the elevation above which no foundation, shaft or cellar is dug, and the sealed vaults beneath the old districts are the line's open secret, built before the city understood what it was building over. Pumping is forbidden, and the one doctrine the Directorate has never amended says why: what is drawn at the source is drawn from the whole city at once.
+
+### The Standing Arrangement
+
+Absolute non-interference, and the only doctrine no Director has ever amended. The Extraction Hall taps the flows far downstream and never at the source. Senior Wardens carry the Drowned Coin as honor and warning both, and the rule for every crew is one sentence long, learned before the first descent: work the River only from the banks. The dowsing rite remains the readers' oldest tool and the Directorate's least explicable authorization, and it has never been withdrawn.
+
 ## Trivia
 
 - The River's current changes during the Sorrow Tide.

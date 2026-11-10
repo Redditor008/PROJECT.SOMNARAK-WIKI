@@ -2,6 +2,31 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — five Sovereigns get their Apex Record
+
+**The section debt falls 13 to 8.** Five Rank IV–V records carried no `Apex Record`: Black River,
+Sorrow Tide, Sorrow Storm, the Grieving Colossus and Wilderness Tide. Each now answers the section's
+three questions — where the line begins, the limit, and the standing arrangement — from its own file.
+
+- **Black River** — not a terminus but a source; every Sorrow Entity in the archive is a tributary of
+  it. The limit is the grief-line, the elevation above which the city does not dig; the arrangement
+  is the one doctrine no Director has ever amended, and the rule learned before the first descent:
+  work the River only from the banks.
+- **Sorrow Tide** — the city's breathing made visible. It cannot be fought and is not meant to be;
+  comprehension is scheduling, and high-risk work is set against the ebb. The Long Night is recorded
+  as the one occasion the rhythm broke and did not close on its own.
+- **Sorrow Storm** — every other Sovereign is a presence, the Storm is an accumulation. It does not
+  pass, it attends, and the founding lesson of the first wall is that evacuation outward is
+  everything.
+- **The Grieving Colossus** — counted before it was seen, by a land-title audit that found thousands
+  more dead than mourned. It cannot be stopped, so it is managed as a landmark: two of its structures
+  are inhabited at a rate the municipality set.
+- **Wilderness Tide** — UnWiHan pressing on the border, the largest and least usable yield in the
+  register because raw grief cannot be harvested. The border is the Directorate's longest standing
+  work, and no Ranger walks into the wild alone.
+
+No figure in any of the five is new.
+
 ## Unreleased — four dossiers get their closing tail
 
 **Four dossiers had no ending.** `N-IIIβ-1056` The Unbroken Pledge, `N-Vω-1055` The Ancestral Guilt,

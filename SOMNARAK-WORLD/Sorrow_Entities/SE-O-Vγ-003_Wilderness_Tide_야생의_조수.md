@@ -374,6 +374,20 @@ Where the border cuts through old ground, the engineers exposed the cut bank —
 
 Rangers walk new personnel along the bank the way crews walk memorials: read the layers, the veterans say. Every stratum is a season someone stood. Your season goes up there too — not in the bank, which is closed history, but in the logs, which are open. The bank teaches what the line requires: patience past seasons, attention past years, witness as a permanent condition rather than an emergency response. The wild accumulated these layers over ages. The city will witness the next layers over ages more. The bank stands exposed, read and honored, the wild's autobiography in strata — and the Rangers stand before it, generation after generation, learning the oldest lesson the border teaches: the leaning never ends, the watching never ends, and the line holds by never ending either.
 
+## Apex Record
+
+### Where the Line Begins
+
+Wilderness Tide is not born from a single sorrow or a specific event. It is the wilderness itself pressing against the city: UnWiHan, the Untapped Wild Han Land — grief without witness, sorrow without structure, Han that has never been mourned, measured or named. The survey office maps it the way sailors map deep water — routes, soundings, warnings, and vast blank regions marked only with the standing annotation *unwitnessed, unattested*.
+
+### The Limit
+
+It can breach independently and does not need to be inside anything to do it, and its Han-Energy yield is the largest in the register and the least usable, because raw and unstructured grief cannot be harvested. Expeditions return with one finding above all others: the green silence. The wild Han is not empty — the probes confirm depth, mass and movement — but it is unwitnessed, and that is a quality no instrument has been built to read.
+
+### The Standing Arrangement
+
+The border is the Directorate's longest standing work: a perimeter of walls, listening posts, gauge lines and ranger stations ringing the entire city, maintained without interruption since the first recorded pressing. Border doctrine is the oldest the institution keeps and the simplest — hold the line, log the pressure, yield nothing unwitnessed. Rangers do not fight the Tide; they measure it. Expedition protocol is the strictest special-duty procedure on the books: tethered probes, timed exposure, mandatory debrief, and the standing rule that no Ranger walks into UnWiHan alone.
+
 ## Trivia
 
 - Wilderness Tide is one of only two Sovereign-grade Outside Sorrow entities (the other being unknown — possibly the source the Exile discovered).

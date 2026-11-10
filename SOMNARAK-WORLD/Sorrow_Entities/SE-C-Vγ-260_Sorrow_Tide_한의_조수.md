@@ -457,6 +457,20 @@ Every night facility keeps one wall unpainted — bare concrete, marked by hand 
 
 The lamp rule requires one more lamp than the crew needs, lit all watch — and the night crews have made the spare a sacrament. It is lit first, before the crew's own lights, and extinguished last, after the Dawn Bell. It is carried by the newest crew member, who is told only this: the spare is for the one who gets lost. No crew has ever needed it for that purpose. Every crew carries it anyway, trimmed and fueled and lit, through every flood. The flood dims lights without touching them. The spare burns through every watch it has ever been carried, and the crews have stopped calling this luck. They call it the litany's promise: no one walks the flood alone, no light goes out unwitnessed, and the spare stays lit until the bell. So far — every watch, every flood, every Long Night the walls record — it has.
 
+## Apex Record
+
+### Where the Line Begins
+
+The Sorrow Tide is the city's breathing made visible — grief suppressed by daylight and released by night, in a rhythm regular enough that the Directorate sets its clocks by it. It is the earliest of the periodic Sovereigns and the reason the almanac exists: before the tide-charts there was only folk knowledge, that nights are worse, and the Directorate's first doctrine was written against that fact rather than against an entity.
+
+### The Limit
+
+It cannot be fought and is not meant to be. Comprehension of the Tide is comprehension of scheduling as a survival discipline: the entity does not need to be opposed, it needs to be timed, and high-risk work is scheduled against the ebb and never against the flood. Once the rhythm broke worst — the tide came in on schedule and did not go out, dawn arrived thin and unconvincing, and the gauges kept rising through three flood-watches. What ended the Long Night is still disputed; the official record credits staggered mourning conducted at every shelter, facility and crew.
+
+### The Standing Arrangement
+
+Publish the almanac, open the shelters, keep the night watch at the nine gauge stations. Viderehan and Ferrehan only, and neither of them works the Tide so much as reads it. The Ebb Rites are kept on the same schedule as the gauges, the spare lamp is posted at every station, and the flood mark on the wall is repainted from the record rather than from memory. It is the only holding in the registry that yields passively, and the yield is collected by the stations rather than worked for.
+
 ## Trivia
 
 - The Tide's peak varies with city-wide events.

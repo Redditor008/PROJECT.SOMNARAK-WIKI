@@ -1,5 +1,30 @@
 # Work In Progress
 
+## Batch 211 — five Sovereigns given their Apex Record (2026-11-05)
+
+### 1. What was done
+
+Five of the eight remaining section gaps, all `Apex Record` on a Rank IV–V record: Black River,
+Sorrow Tide, Sorrow Storm, the Grieving Colossus, Wilderness Tide.
+
+Each answers the section's three questions from its own file — where the line begins, the limit, the
+standing arrangement — with the file's own figures. The grief-line, the nine gauge stations, the
+three flood-watches of the Long Night, the thirty-metre feet with millimetres to spare, the standing
+annotation *unwitnessed, unattested*.
+
+### 2. What the reading decided
+
+The five split two ways, and the section had to be written differently for each. The three place-Sovereigns
+(River, Tide, Storm, Wilderness) have no body to break, so their "limit" is a ceiling on what the
+Directorate may do rather than on what the entity can survive. The Colossus alone is a subject, and its
+limit is the plainest fact in its file: it cannot be stopped, and it is not angry.
+
+### 3. Where it stands
+
+**Sections missing 13 → 8.** Every remaining gap is the same section on the same rank band. The debt
+list is pruned, and a new test asserts that every outstanding gap is an `Apex Record` — so the tail
+being closed stays closed.
+
 ## Batch 210 — the four dossiers that had no ending (2026-11-05)
 
 ### 1. Where the work stands

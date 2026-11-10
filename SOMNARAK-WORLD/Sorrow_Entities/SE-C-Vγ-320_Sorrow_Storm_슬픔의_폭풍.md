@@ -476,6 +476,20 @@ The oldest pressure observatory keeps a shrine the engineers built without permi
 
 The barometer shrine reserves one empty mount — finished wood, polished glass, no instrument — and every reader knows what it is for. It is for the last dial: the instrument that will fail on the Storm's final wall, whenever the sky finishes its accounts and clears for good. The readers speak of it the way soldiers speak of the last battle — longed for, half-believed, prepared for without expectation. When a season passes with lower peaks and longer clears, the crews nod toward the empty mount and say the wall grows lighter. When the pressure lies and the ring disagrees, they say nothing at all, and check the towers twice. The mount waits. The shrine grows around it. And the sky keeps its accounts overhead — collecting in weather, easing after every siren practice, clearing a little longer each cycle — while below, in lamplight, the readers log the quarter-hour pressure and keep faith with the empty frame: one day, no more walls. One day, the last dial. One day, clear.
 
+## Apex Record
+
+### Where the Line Begins
+
+Every other Sovereign is a presence; the Storm is an accumulation — grief the city could not release, compressed past weather into judgment. It was seen before it was understood: lookouts on the outer wall reported a front that did not move with the wind but against it, a dark mass advancing on the city with the steadiness of something that had made up its mind.
+
+### The Limit
+
+The Storm does not pass. It attends. It does not travel as a body — it forms over the city and runs the connected Han flows — so there is no vessel to break and nothing to contain. The first wall taught the founding lesson and every doctrine since has obeyed it: evacuation upward is useless, evacuation outward is everything, because you cannot shelter from a sky that has decided to grieve. The worst season on record lasted long enough to be given a name, and the name is still spoken carefully.
+
+### The Standing Arrangement
+
+Shelter, account for personnel, keep the channels running. Viderehan from the ring and Ferrehan under ballast, and nothing else has ever been attempted against it. The Clear-Day Compact governs the interval between Storms, the Schedule of Recognised Loss fixes when the city mourns so the pressure has somewhere to go, and the Open Observance is held whether or not a Storm is forming. The barometer shrine and the last dial are read on the watch, and a new entity frequently forms after a Storm passes, which is why the register is opened before the sky clears.
+
 ## Trivia
 
 - Storm intensity reflects unprocessed grief rather than physical pressure alone.
