@@ -80,7 +80,7 @@ class TheDebt(unittest.TestCase):
     """A recorded gap passes; an unrecorded one fails. The count may only fall."""
 
     def test_a_recorded_gap_is_not_new(self):
-        new, known = gate.split_debt([('C-Vδ-111', ['Apex Record'])])
+        new, known = gate.split_debt([('C-Vδ-111', ['Apex Record'])], {'C-Vδ-111': {'Apex Record'}})
         self.assertEqual((new, len(known)), ([], 1))
 
     def test_an_unrecorded_gap_is_new(self):
@@ -90,18 +90,19 @@ class TheDebt(unittest.TestCase):
 
     def test_a_second_gap_in_a_recorded_dossier_is_still_new(self):
         """Recorded for Apex only; losing a closing section is a fresh fault."""
-        new, known = gate.split_debt([('C-Vδ-111', ['Apex Record', '증언 (Testimonium)'])])
+        new, known = gate.split_debt([('C-Vδ-111', ['Apex Record', '증언 (Testimonium)'])],
+                                     {'C-Vδ-111': {'Apex Record'}})
         self.assertEqual([s for _, s in new], ['증언 (Testimonium)'])
         self.assertEqual(len(known), 1)
 
     def test_the_closed_tails_are_no_longer_debt(self):
         """Batch 210 wrote four closing tails; their debt entries must be gone, not remembered."""
-        for code in ('N-IIIβ-1056', 'N-Vω-1055', 'O-IIIγ-1052'):
+        for code in ('N-IIIβ-1056', 'N-Vω-1055', 'O-IIIγ-1052', 'C-Vγ-225', 'C-Vδ-111'):
             self.assertNotIn(code, gate.DEBT)
 
-    def test_the_debt_shrank_when_the_work_was_done(self):
-        """29 recorded in batch 208; 8 remain. A debt that cannot shrink is a policy."""
-        self.assertEqual(sum(len(v) for v in gate.DEBT.values()), 8)
+    def test_the_debt_is_paid_off(self):
+        """29 recorded in batch 208, 0 remain in batch 212. A debt that cannot shrink is a policy."""
+        self.assertEqual(sum(len(v) for v in gate.DEBT.values()), 0)
 
     def test_every_remaining_gap_is_an_apex_record(self):
         """The tail debt is closed; what is left is one section on eight high-rank records."""

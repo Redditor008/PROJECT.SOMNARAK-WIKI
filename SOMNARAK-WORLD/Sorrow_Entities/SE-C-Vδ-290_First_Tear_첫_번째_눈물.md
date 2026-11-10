@@ -446,6 +446,20 @@ The archive's second-oldest sorrow fragment is a lament for the first — grief 
 
 Pilgrims never see the Tear directly. Between the viewing chamber and the reliquary hangs the veil — crystal, flawless, a handspan thick — and the Tear is glimpsed only through it: the first sorrow, refracted, softened, made survivable by the medium. The route wardens call the veil the kindest instrument in the Directorate. It does not diminish the Tear. It translates it — beginning into approachability, original into witnessable, the unbearable first into the endurable glimpse. Pilgrims weep before the veil all the same. The wardens let them. The tear they shed there, offered and witnessed and placed, joins the succession the crystal guards: the first tear holding them all, the veil rendering them bearable, the pilgrims carrying home what the beginning, mercifully refracted, allowed them to survive.
 
+## Apex Record
+
+### Where the Line Begins
+
+The First Tear is believed to be the first sorrow ever felt — the original moment when someone lost something they loved, preserved past all reason into the present. Every grief in the catalogue descends from it, which makes it not the greatest of the Sovereigns but the smallest, and the file says so plainly: the smallest known entity and potentially the most powerful. No one knows what the first loss was. The archive's oldest strata offer a name without context, an object without owner, a lament in a language the translators have never placed.
+
+### The Limit
+
+Nothing touches it, nothing hurries it, and nothing explains it. Touch is forbidden and has never been carried out, so the activation record is a record of what could happen rather than of what has. The Directorate holds the moment in reverent agnosticism, formally maintained: it guards the Tear, studies the Tear, and declines absolutely and permanently to investigate what the Tear remembers.
+
+### The Standing Arrangement
+
+The reliquary doctrine, threefold and unamended, and the pilgrimage programme — the only Sovereign the Directorate permits civilians to approach, along sealed routes, under escort, on schedule, in silence. Route wardens are drawn from the counseling office and trained in silence as a discipline; they do not explain the Tear and do not interpret the people it reduces. Reliquary guards serve the shortest rotations and the longest debriefs in the institution. Before any major operation the commanding Warden reviews the succession chart and traces each sorrow back toward the Tear, and when a grief resists classification the doctrine is two words long: begin there.
+
 ## Trivia
 
 - It is the smallest known entity and potentially the most powerful.

@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 211.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 212.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -461,7 +461,7 @@ answers one question** · **`R-52` a command ends in a file**.
 
 # Part IV — The batch record, by era
 
-**211 batches, 617 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
+**212 batches, 618 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
 
 | era | batches | what it was for |
 |---|---|---|
@@ -478,13 +478,13 @@ answers one question** · **`R-52` a command ends in a file**.
 | **The Tale** | 188–189 | four registers; the first Dialogue Stories in the archive |
 | **The charge** | 190–202 | `R-40` closed, `R-47`/`R-48` drafted five times, six doses and the minutes |
 | **The effects** | 203–205 | three work verdicts, individual SE effects, the Tale measured |
-| **The gate audit** | 206–211 | the register itself; three gates the build never ran; SECC given one question per row; a command made to end in a file |
+| **The gate audit** | 206–212 | the register itself; three gates the build never ran; SECC given one question per row; a command made to end in a file |
 
 ---
 
 # Part V — Where the commands stand
 
-**25 standards are measured every batch** (`tools/auditors/how_finished.py`). **19 are DONE, 6
+**25 standards are measured every batch** (`tools/auditors/how_finished.py`). **20 are DONE, 5
 OPEN, 0 unknown:**
 
 | OPEN standard | remainder |
@@ -494,7 +494,6 @@ OPEN, 0 unknown:**
 | Form line repeats its marker | **86** |
 | Essayist constructions | **308** of openers |
 | Stat bands over ceiling | **7** |
-| Required section missing (gate 93) | **8** in 8 dossiers |
 
 **What that means, honestly.** *"Every law is enforced by a gate and the gate is green"* was not true
 when this paragraph was first written, and batch 207 is what found it out. `how_finished.py`
@@ -505,6 +504,6 @@ written, tested, indexed, cited in the changelog, and **never added to the build
 (gate 92) now make an unwired gate a failure in its own right, so a citation cannot stand in for an
 invocation again.
 
-The six OPEN standards remain **prose volume and missing sections**, not unbuilt machinery: 181 Tales to re-voice,
+The five OPEN standards are now **prose volume only** — no section is missing anywhere in the archive. 181 Tales to re-voice,
 220 form lines to deepen, and 308 essayist constructions to rewrite. None of them can be closed by
 adding a byline, and none of them should be listed as DONE until the counter above them reads zero.

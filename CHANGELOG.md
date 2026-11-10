@@ -2,6 +2,31 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — every dossier carries every section its template asks for
+
+**The section standard closes at zero.** Batch 208 found 29 sections missing across 16 dossiers. Three
+batches later the count is **0**, and the debt list that recorded them is empty.
+
+The last eight `Apex Record`s — three Sovereign vault records and five Rank IV entities:
+
+- **The Final Door** — three expeditions, seven words returned once, and a fourth rule that governs
+  description: *describe, do not interpret*.
+- **The Forgotten God** — the only Sovereign contained custodially rather than adversarially, and
+  the only one the city pays. Four hundred and six years of lamp ledger, forty-one units a year.
+- **The First Tear** — the smallest entity in the catalogue and the root of every other; the
+  doctrine for a grief that resists classification is two words: *begin there*.
+- **The Unspoken Line** — critical by erosion, not violence; the medicine is a fountain and market
+  hours, not a Work Type, and the healing rate implies a century.
+- **The Extinguished** — a dead Hope Bearer walking her old round; the only sorrow that attacks hope
+  and ignores despair, and its one word is a genuine question.
+- **The Mewgical Girl** — two coherent identities, one vessel; more dangerous when they agree.
+- **The Repeated Survivor** — loop-aware, staging deaths so they need not be grieved; empathy buys
+  ten seconds of the person underneath.
+- **The Singing Needle** — the aura carries the grade; nobody has finished the city's name inside it.
+
+**The debt mechanism stays and is now empty**, so the next missing section fails the build on the
+dossier it appears in with no ratchet to absorb it.
+
 ## Unreleased — five Sovereigns get their Apex Record
 
 **The section debt falls 13 to 8.** Five Rank IV–V records carried no `Apex Record`: Black River,

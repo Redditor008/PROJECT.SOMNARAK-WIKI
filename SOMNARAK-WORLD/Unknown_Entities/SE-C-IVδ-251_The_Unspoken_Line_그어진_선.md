@@ -368,6 +368,20 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 **Operational interpretation:** This dossier documents an entity the R.D. cannot work, in a district the R.D. does not administer, by a method the R.D. did not invent. Eleven point four metres have been closed in five years by residents talking to each other, and the facility's contribution has been a tape measure, a protected fountain and a board on a wall. Personnel are asked to read that as the finding it is and not as a shortfall in the file.
 
 **Review requirement:** Re-measure the seam and re-count the Tuesday crossings after every Sorrow Tide and after any change to the market's trading hours. The second clause is not decorative: the shortening of the afternoon market in Year 4,237 cost four months of progress and is the largest single reversal in the register.
+## Apex Record
+
+### Where the Line Begins
+
+The Unspoken Line is not a monster in a junction; it is the junction. It appeared in Year 4238, five years after Absolvohan, with no single triggering incident — the oldest kind of fault, one that opens because two sides stopped speaking and neither side can point to the day they stopped. Two faded shop signs mark the friendship underneath it: Uri and Park.
+
+### The Limit
+
+Critical by erosion rather than by violence. It widens when division is fed and contracts when contact occurs, and it erodes social memory and clarity rather than bodies — the Void takes the shared thing first, so a district can lose a street's whole history and never notice it went quiet. The contraction is real and it is slow: roughly three metres since first logging, and the measured healing rate implies a century to full closure.
+
+### The Standing Arrangement
+
+Open and managed. A Ferrehan anchor is kept at the seam, contact is never forced, and the fountain, the market hours and the board are the primary intervention — none of them a Work Type, all of them the actual medicine. The Shared Glass enables the shared-cup contact that is the fastest documented contractor of the line, and the dry fountain is protected because both sides still recognise it as the same memory. This is the one dossier where the fighting methods are secondary and the civic ones are the treatment.
+
 ## Trivia
 
 - The only entity healed by small talk and a shared cup of tea.

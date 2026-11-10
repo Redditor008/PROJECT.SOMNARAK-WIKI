@@ -387,6 +387,20 @@ The Door's Stigma — the Unturned Key — is carried only by the sealed review'
 
 The third expedition returned with seven words, delivered once, never repeated — and the Directorate's sealed review has spent every cycle since debating whether the seventh word was a warning or a mercy. The first six establish the facts: beyond is real, the Door is the way. The seventh forecloses them. Review members who have heard the debrief describe the seventh word as the heaviest syllable in the institution — the word that keeps the Door shut, the threshold held, the review convened. This chronicle will not record it. The threshold doctrine's fifth rule, unwritten and absolute, is that the seven words belong to the expedition, the way the first loss belongs to the first griever. The Door waits. The review waits longer. Six words say what lies beyond. The seventh says: do not follow.
 
+## Apex Record
+
+### Where the Line Begins
+
+The Final Door is the sorrow of the unknown — the need to know what lies beyond, set against the fear that the knowing is worse than the not knowing. It was found the way forbidden things are always found: behind a wall that should not have had a room behind it, in a basement surveyed three times and mapped twice, where no door was drawn.
+
+### The Limit
+
+Three expeditions have gone through it. That sentence is the whole of what the Directorate officially confirms, and every word of it is load-bearing. What came back through the Door is held in the deepest containment the institution maintains, and the third expedition returned with seven words delivered once and never repeated — the sealed review has spent every cycle since debating whether the seventh was a warning or a mercy. The carvings, if carvings they are, are the archive's most contested holding: every watcher describes them differently and no two sketches agree.
+
+### The Standing Arrangement
+
+The threshold doctrine governs the ground before it — a marked perimeter, a posted watch, and rules enforced with unusual severity. No one crosses the inner line without written authority, and the personnel chosen for the watch are selected for incuriosity, a term the Directorate defends in three separate policy reviews. The fourth rule was added after the third expedition and is the only one that governs description: describe, do not interpret. Watchers log lines, shapes and arrangements, and stop there. The Stigma, the Unturned Key, is carried only by the sealed review's standing members, and it grants perfect recall of every threshold log and perfect resistance to the urge to open.
+
 ## Trivia
 
 - The Door has no handle, lock, or hinges.

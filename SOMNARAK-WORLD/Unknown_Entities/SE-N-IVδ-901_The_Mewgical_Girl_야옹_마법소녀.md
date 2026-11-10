@@ -417,6 +417,20 @@ They still argue. They still interrupt each other's songs. Mimi calls Shu Shu pa
 
 **Review requirement:** Recheck the body-soul bond, persona-control balance, and Sorrow Gauge after every failed synchronization, charge interruption, self-hit, or forced control shift. Both identities are checked separately and neither is treated as the fault in the other: the misfires, the beams and the self-hits are all persona-conflict findings, and a review that explains them by one half alone has explained nothing.
 
+## Apex Record
+
+### Where the Line Begins
+
+Mimi is the body and Shu Shu is the soul, and neither is a phase of the other. They were joined through the Hand of Hope's opening in Year 4238 — the collective wish *someone save us*, spoken by everyone and by no one, bonded to a protective spirit that answered it. Two coherent identities share one vessel and the file treats that as the fact it is: a girl and a guardian who both want the other one to be happy.
+
+### The Limit
+
+Extraction of the set is permitted but the Star-Staff is δ-grade and stability-dependent; forced separation has been attempted twice and both attempts produced synchronised attack and a Cartoon Soot cascade. Joint control yields the strongest attacks and the highest instability, which is the equilibrium the whole file is built around — the entity is more dangerous when its two halves agree than when they do not. Joint singing is the strongest and least stable thing either of them does.
+
+### The Standing Arrangement
+
+Address Mimi and Shu Shu by name before every interaction, and never treat them as one personality. Match the active Work Type to the leading persona; Ferrehan is valid only if the worker refuses to choose between them. Record the controlling persona, colour state and charge duration during any escalation — Mimi produces pink, gold and white, Shu Shu grey, red and pale blue — because the persona is the read. The entity apologises after almost every attack, twice, once per voice, and both apologies are sincere.
+
 ## Trivia
 
 - Mimi is the body-primary persona; Shu Shu is the soul/spirit persona.

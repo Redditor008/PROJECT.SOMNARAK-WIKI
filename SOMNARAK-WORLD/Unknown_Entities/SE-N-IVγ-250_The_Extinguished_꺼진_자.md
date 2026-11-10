@@ -363,6 +363,20 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 **Operational interpretation:** This file is read by the Dawn Initiative as doctrine rather than as a dossier, and the Zone D office is uneasy about that. The entity is a dead colleague, a sealed name, and an argument the Initiative uses about staffing policy, and those three things are not the same document. Personnel are asked to work the entity in front of them and leave the doctrine to the Initiative.
 
 **Review requirement:** Re-walk the round after every Initiative deployment anywhere in Zone D, not after every incident here. The round has only ever lengthened in the weeks following a new Hope posting in the district, which is a correlation the Initiative has acknowledged in writing and not yet acted on.
+## Apex Record
+
+### Where the Line Begins
+
+The Extinguished is a dead colleague. The district that relied on a stationed Hope Bearer burned her out, and the sorrow of that dependency took her shape and walks the round she used to walk — a fixed circuit of the shelter and four streets, at a tired pace, upright. The Bearer's name is sealed, and the Archive's stated reason is the most unsettling line in the file: it fears what happens if the entity remembers being her.
+
+### The Limit
+
+It ignores the hopeless entirely and engages only Hope signatures, which makes it the only sorrow in the catalogue that attacks hope and leaves despair alone. It escalates against Bearers who show fear of burnout and withdraws from honest, steady presence — so the counter is not strength but the absence of fear and the refusal to promise permanence. Its only speech is one word, and it is a genuine question: *again?*
+
+### The Standing Arrangement
+
+Ferrehan is the only valid primary, held steady without promising permanence; Flerehan's insincere comfort triggers the Remembered Warmth and must never be offered. Any Bearer the entity is actively testing who shows burnout-fear is withdrawn. It has retreated exactly once — from the Gentle Flame, without escalating. The Dawn Initiative's dependency doctrine was written because of this file, and the round is re-walked after every deployment anywhere in Zone D rather than after every incident here, because the round has only ever lengthened in the weeks following a new Hope posting.
+
 ## Trivia
 
 - The only sorrow that attacks hope and ignores the hopeless.

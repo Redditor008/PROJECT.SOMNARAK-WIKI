@@ -400,6 +400,20 @@ None ever did. The survivor walks the Hand of Change still, an ordinary agent wi
 
 **Review requirement:** Recheck the entity's iteration count, staging patterns, restaged variations, and any personnel loop-memory retention after every cycle reset and every "Twist the Plot" event. The iteration count is written down between resets rather than after them, because whoever carries it through a reset is the only reliable witness that the reset happened at all.
 
+## Apex Record
+
+### Where the Line Begins
+
+One R.D. field agent began to remember the loops on Day 1 of Loop +20, and the remembering is what emptied her. What walks now retains across iterations and stages reality as theatre, because if the deaths are staged they are not grieved — the dramaturgy is the last coping structure it has left. She addresses personnel by role — *the one who runs*, *the one who dies first* — and never by name.
+
+### The Limit
+
+It cannot be destroyed inside a loop and returns each iteration with its coat tidied, so "resolution" here means enduring the scene until it concludes or the cycle resets. Its movements precede its intent, which is the most reliable field identifier. Sincere empathy surfaces the buried original for roughly ten seconds before the grief re-seals over her, and that window is the entire recoverable extent of a person the log otherwise records as lost.
+
+### The Standing Arrangement
+
+Echo-Core eyes only; nothing is discussed outside Director clearance. Viderehan maps the restaged event and Ferrehan outlasts it without performing; Pugnahan feeds it and Flerehan is dangerous but reaches the buried original. No one takes a mark or plays a role the entity assigns, and nonessential personnel are withdrawn before staging begins. It will not stage Director Majin, and no one knows whether that is deference or fear.
+
 ## Trivia
 
 - The entity's movements precede its intent — the most reliable field identifier.

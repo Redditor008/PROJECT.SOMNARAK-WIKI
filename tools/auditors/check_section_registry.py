@@ -27,9 +27,10 @@ WHAT IS REPORTED
   * the total number missing, so `how_finished.py` can call the standard OPEN rather than DONE;
   * the number that are *new* — those are what fail the build.
 
-`DEBT` is a dated snapshot, not a policy. It names the gaps that batch 208 measured and could not
-close in one unit, so the count can only fall. Paying a debt does not require editing this file: the
-missing count drops on its own. Adding to it does.
+`DEBT` is a dated snapshot, not a policy. Batch 208 recorded 29 gaps and three batches paid every
+one of them; the list is now **empty**, which is the state it should stay in. The mechanism is kept
+deliberately: a missing section now fails the build on the first dossier it appears in, with no
+ratchet to absorb it.
 
     python3 tools/auditors/check_section_registry.py
     python3 tools/auditors/check_section_registry.py -v
@@ -52,19 +53,10 @@ ALWAYS = [
 EITHER = ['Combat Record', 'Contact Record']
 HIGH_RANK = ('IV', 'V')
 
-# Measured 2026-11-05. Batch 208 recorded 29 gaps; batch 210 closed 16 (four dossiers with no
-# closing tail) and batch 211 closed 5 more (the periodic Sovereigns and the Colossus). These 8
-# may only fall.
-DEBT = {
-    'C-Vδ-111': {'Apex Record'},
-    'C-Vδ-265': {'Apex Record'},
-    'C-Vδ-290': {'Apex Record'},
-    'C-IVδ-251': {'Apex Record'},
-    'N-IVγ-250': {'Apex Record'},
-    'N-IVδ-901': {'Apex Record'},
-    'N-IVδ-902': {'Apex Record'},
-    'O-IVγ-1053': {'Apex Record'},
-}
+# Measured 2026-11-05. Batch 208 recorded 29 gaps; 210 closed 16, 211 closed 5, 212 closed the last
+# 8. **The debt is empty** — the mechanism stays so that the next missing section fails immediately
+# instead of being ratcheted.
+DEBT = {}
 
 
 def dossier_files():

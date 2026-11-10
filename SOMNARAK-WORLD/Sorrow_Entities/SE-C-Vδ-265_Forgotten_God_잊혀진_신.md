@@ -448,6 +448,20 @@ One refused. The post was left vacant for seven months because the wing would no
 
 The records office objection is minuted at every revision: a register that is wrong in one particular is a register that is wrong. And the practice of leaving this holding off the circulated inventory — adopted to limit how many people know what is in the vault — has produced a situation where six people know. The minute records the objection as correct and the practice as unchanged.
 
+## Apex Record
+
+### Where the Line Begins
+
+The Forgotten God predates the current city and was once worshipped as a deity of sorrow — prayers offered, rites performed, faith placed. The worship ended the way old things end: not in crisis but in drift. Attendance thinned, the festivals shortened, the shared lament that required an evening, a sanctuary and the willingness to sit in it stopped being held. What the abandonment cost the city is measurable — the grief-balance tilted and the unmourned dead accumulated — and what it cost the God is the reason the file exists.
+
+### The Limit
+
+It does not breach. It waits. The sanctuary stands as found — sealed, watched, maintained — the only Sovereign containment the Directorate describes as custodial rather than adversarial, and the single rule the institution reverses its whole method to keep: every other Sovereign is managed by reduction, and this one is managed by payment.
+
+### The Standing Arrangement
+
+The city owes it worship, by the once-in-a-generation ruling of the Directorate's theologians. The payment is real and it is small: a line in every sealed memorial program, a duty in every counselor's training, and the maintenance lament — rostered, shortened, formally insufficient — performed by custodial crews who have nonetheless built a new liturgy around it in the long watches. Their attendance log has read *one* in the congregation column for generations. The Han-lamps in the sanctuary dim and brighten with the figure's breathing, and the supply ledger that records them is the longest unbroken measurement the facility holds on anything: four hundred and six years, forty-one units a year, and eleven hundred and four compatible units in stock.
+
 ## Trivia
 
 - The God has never spoken while awake.

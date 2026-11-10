@@ -267,6 +267,20 @@ After every song the transect is walked and surveyed, and the survey is entered 
 
 **Review requirement:** Re-verify after any shear event above forty knots, after any change to the picket rotation, and after any session in which a party reported the aura closing before the song began.
 
+## Apex Record
+
+### Where the Line Begins
+
+The Singing Needle is a spire with a chorus above it, native to the Crystal Peaks, and the file is careful about which part is the entity: the spire bores beneath bedrock and surfaces to sing, and the needles hover around its apex. No free-flying spire is recorded. It roosts on the razor-sharp ridges and turns the northern winds into an acoustic amplifier, which is the closest thing to intent the record will grant it.
+
+### The Limit
+
+The aura, not the spire, carries the grade. Nothing on the ridge is safe to measure while it is singing, and it sings when the wind is worth singing to — shear above forty knots is the activation, and the wind is predictable in a way the entity is not. The song has never been finished to: the city's own name has three syllables and nobody has completed it inside the aura. The nearest on file is two.
+
+### The Standing Arrangement
+
+Withdrawal under forty knots, cranially sealed dampening, and Viderehan to find the resonant node; Pugnahan shatters the needles into secondaries and is not authorised. The Soprano Needle-Moss beds are the second confirmation — they fall silent for the length of every song, because there is no wind left to sound them. In twenty-eight months the Needle has moved a hundred and forty metres at most between songs, the pickets lose a diaphragm about every five weeks, and the division keeps forty spares and has never once not needed them.
+
 ## Trivia
 
 - The pickets lose a diaphragm about every five weeks. The division keeps forty spares in the lower-gate store and has never run short.

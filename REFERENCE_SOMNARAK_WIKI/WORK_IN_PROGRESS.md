@@ -1,5 +1,29 @@
 # Work In Progress
 
+## Batch 212 — the section standard closes (2026-11-05)
+
+### 1. What was done
+
+The last eight `Apex Record`s: the three Alpha Tree vault records (The Final Door, The Forgotten God,
+The First Tear) and five Rank IV entities (The Unspoken Line, The Extinguished, The Mewgical Girl,
+The Repeated Survivor, The Singing Needle).
+
+**Sections missing 8 → 0.** The debt list that has tracked this since batch 208 is now empty.
+
+### 2. Why it took three batches
+
+Because the section asks three different questions and each band answers them differently. A vault
+Sovereign's "limit" is a ceiling on what the Directorate may do — three expeditions, three syllables
+of the city's own name, one century of contraction. A Rank IV subject's limit is a boundary on its
+behaviour — one word, ten seconds, forty knots. Writing one shape and repeating it eight times would
+have produced eight files that said the same thing.
+
+### 3. What the mechanism becomes
+
+`DEBT = {}` — kept, not deleted. A missing section now fails the build on the first dossier it
+appears in, with no ratchet to absorb it. That is the difference between a standard that is *done*
+and a standard that is *set aside*.
+
 ## Batch 211 — five Sovereigns given their Apex Record (2026-11-05)
 
 ### 1. What was done
