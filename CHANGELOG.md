@@ -2,6 +2,30 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — built from the dossier
+
+**Majin's extended backstory ran 14,700 words without ever showing the man it was about. It now shows
+him, and the measure is the dossier's own Appearance section.**
+
+- **The fusion has a body.** The left arm first; black up the inside of the upper arm, across the
+  elbow, to a scythe-shaped mark at the wrist; the hand unchanged, its tube scars still there; three
+  hooked lines opening temple to cheek. Insu asks whether he can feel anything else. *"It is still my
+  arm."*
+- **The loss has a place.** It happened during the Consolihan — lamps down, a thousand names read, the
+  floor warming under a rite he had heard since childhood. The choice at the Consolihan is the next one.
+- **The arithmetic closes.** The cycle is the operational year, closed 23:59:58 on the last night of
+  Year 4,232, and a one-year cycle returns to the first morning of the year. The duplicated
+  *"four days"* claim is gone.
+- **The reserve reads as a motive.** Thirty-six tons is the projection; 49.88 is the actual; Abyssal
+  surges fed it.
+- **The dossier's Solidification is disambiguated.** The founding freezing of 234–245 grew the Alpha
+  Tree; his was a second freezing of the same substance, some four thousand years later. The year of
+  his loss stays unstated.
+- **New gate 53** (`check_backstory_appearance.py`) measures every extended file against its dossier's
+  Appearance vocabulary, 50 % floor, remainder printed as debt. Seven of the nine files are below it and
+  say so on every build.
+- **New rule `R-57` and order `O-43`**: an extended file is built from its dossier, not beside it.
+
 ## Unreleased — what made him, him
 
 **Majin's own page carried a 365-word backstory. It now carries a 1,529-word one, and the reason it

@@ -344,7 +344,7 @@ The record is careful here and thin, and says so. It establishes that she worked
 
 ### The Solidification
 
-The event that took her is called the Solidification: the class of catastrophe in which Han stops behaving as something a city can hold at arm's length and freezes into structure. It is the event that, at the founding, grew the Alpha Tree.
+The event that took her is called the Solidification: a class of catastrophe in which Han stops behaving as something a city can hold at arm's length and freezes into structure. The founding one, four thousand years earlier, grew the Alpha Tree. **His was not that one.** The same substance, a second freezing, and nobody in the building on the night it happened had any word for it but the old word.
 
 He survived the event that killed her. The manner of his surviving is not in the record — the first of several silences in this file, all of them in his favour and none of them his doing.
 

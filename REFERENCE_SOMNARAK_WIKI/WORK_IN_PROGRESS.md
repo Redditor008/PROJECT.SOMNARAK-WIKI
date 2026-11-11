@@ -1,5 +1,81 @@
 # Work In Progress
 
+## Batch 217 — built from the dossier (2026-10-25)
+
+### 1. What you asked
+
+*"NO I MEAN WHAT YOU WROTE IN THE BACKSTORY AS THE EXTENDED VERSION OF HIS DOSSIER ONE … YOU SHOULD
+HAVE READ THE DOSSIER FIRST THAN MAKE THE BACKSTORY EXTENDED VERSION AND IF YOU ALREADY FORGET WE USED
+L CORP STYLE OF WHAT IT LOOK IT LOOK LIKE AND THE GUIDE STYLE HOW ITS READ"*
+
+Last batch fixed the wrong file. The complaint was against
+`Backstory_Extended/01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md`, not `THE_DIRECTOR.md` § Backstory.
+
+### 2. What was there
+
+**14,700 words and it never once shows the man.**
+
+The fusion is the most visual event in his life. The Extended wrote it as:
+
+> *"he remembers heat, and the smell of the lamp, and the ceiling"*
+
+His dossier devotes a whole `## Appearance` section to what that night did to him: black veins up the
+inside of the left upper arm, across the elbow, down to a scythe-shaped mark between wrist and
+forearm; three hooked scars upper-left; deep blue eyes; silver at the temples; a left sleeve cut open
+so the mark can be checked. The Extended used **two of twenty-three**, and both inside a HOLD table
+saying they were *not* being used.
+
+That is *"not at all make logical sense"* as a measurement: the file was written as a story that
+happened to be about a man instead of the dossier's man given a life.
+
+### 3. What was actually wrong, by complaint
+
+| what you said | what it was |
+|---|---|
+| **doesn't make sense** | The loss that ended his old life was placed nowhere. The dossier says *"that life ended during the Consolihan"*; the Extended had him at a rite with the loss unnamed. |
+| **not logical** | The field closed *"four days early"* twice, in two scenes, with no arithmetic that could produce it. A projection of thirty-six tons sat beside an actual 49.88 with no relationship stated. |
+| **L Corp style — what it looks like** | No body. The arm, the veins, the scythe mark, the scars, the eyes, the coat — absent from 14,700 words. |
+| **guide style — how it's read** | `SOURCE_Unified_Narrative_Writing_Rules_for_AI.md` § 1: show the thing. The fusing was told as remembered heat and a lamp smell. |
+
+### 4. What it is now
+
+| scene | what the reader now sees |
+|---|---|
+| **The Consolihan** | The loss happens *during it* — lamps down, a thousand names read, the floor warming under a rite he has heard since childhood. |
+| **The next one** | The selection is a year later. Three lines not faded. Deep blue eyes. Silver reached his ears. Nobody asks. |
+| **The Fusing** | The left arm first; black up the inner arm, across the elbow, to the wrist; *"a blade on its side"* — the Directorate has called it a scythe since the first medic's report. The hand unchanged, with its old tube scars. Insu: *"Can you feel anything else?" / "It is still my arm."* Three lines opening temple to cheek, nothing bled, deeper by morning. |
+| **The Arithmetic** | The cycle is the operational year, closed 23:59:58 on the last night of Year 4,232. A one-year cycle *"finishes by beginning again"* — it returns to the first morning of the year. The duplicated *"four days"* sentence is gone. |
+| **The reserve** | Seiyon's thirty-six tons is now explicitly **the projection**; 49.88 is the actual, and Abyssal surges fed it. *"It reads as a method. It reads as a motive."* |
+| **Day 160 / the ledger / the close** | The left hand at the wheel with the sleeve open; the ledger written with the marked hand; *"The marks had not faded. He had not got any younger."* |
+
+### 5. The dossier, amended where it contradicted itself
+
+The dossier called his loss *"the event that, at the founding, grew the Alpha Tree"* — Year 234–245 —
+while he is 126 in the final Cycle. Resolution, **by class and not by date**: the founding Solidification
+(234–245) grew the Tree; his was a **second freezing of the same substance** some four thousand years
+later. The year of his loss stays unstated. It is not averaged and not invented.
+
+### 6. The gate
+
+`tools/auditors/check_backstory_appearance.py` (gate 53). For each Extended file it finds its dossier,
+takes the physical descriptors from that dossier's `## Appearance`, and counts how many the Extended
+uses — **in the narrative body only**, because the old file named *three hooked scars* and *scythe mark*
+in its own HOLD table while never showing either in a scene.
+
+| file | before | after |
+|---|---|---|
+| `01_MAJIN` | 8 of 22 (36 %) | **19 of 22 (86 %)** |
+| `06_MELLDA` | — | 17 of 29 (59 %) |
+| `04_ZYRAK` · `08_ISHALL` · `03_DEKAN` | — | 46 % · 43 % · 42 % — **debt** |
+| `05_AYSHUK` · `09_XYAN` · `02_SEIYON` · `07_MARJUK` | — | 33 % · 32 % · 29 % · 25 % — **debt** |
+
+Seven files carry recorded debt and it is printed on every build. The gate cannot tell a shown word
+from a named one; that is the reader's pass (`O-29`, `R-38`).
+
+**57 rules · 43 orders · 53 gates · 32 standards · 27 DONE / 5 OPEN.**
+
+---
+
 ## Batch 216 — what made him, him (2026-10-25)
 
 ### 1. What you asked

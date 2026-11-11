@@ -645,3 +645,31 @@ That It Confusing And Not At All LOOK LIKE HIS BACK STORY"*
   a building whose halls are warm.
 - **Checked by** `check_echo_backstory.py` (gate 52), which holds an 800-word floor — a floor, not a
   target (`O-16`).
+
+### O-43 · Build the extended file from the dossier
+
+**The owner's instruction, 2026-10-25:** *"YOU SHOULD HAVE READ THE DOSSIER FIRST THAN MAKE THE
+BACKSTORY EXTENDED VERSION AND IF YOU ALREADY FORGET WE USED L CORP STYLE OF WHAT IT LOOK IT LOOK
+LIKE AND THE GUIDE STYLE HOW ITS READ"*
+
+- **The unit is the Extended file.** The complaint was against
+  `Backstory_Extended/01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md`, not the dossier's § Backstory.
+  When the owner says *"his backstory"*, that is the file meant.
+- **The dossier is read first and is the source.** Every physical fact in the Extended traces to the
+  dossier's own words. If the Extended needs a fact the dossier lacks, the dossier is amended; the two
+  may not disagree (`R-57` A).
+- **§ Appearance is a writing brief.** What it lists is what the reader must be able to see. The
+  Extended ran 14,700 words and showed none of it: the fusion was *"heat, and the smell of the lamp,
+  and the ceiling"* while the dossier specifies black veins up the left inner arm to a scythe mark at
+  the wrist, three hooked scars, deep blue eyes, silver at the temples. Two of twenty-three descriptors
+  were used, both inside a table declining to use them (`R-57` B, C).
+- **The appendix does not count.** A HOLD row reading *"not dramatized"* is an admission, not a use.
+- **L Corp style is the look** — the history is inseparable from the body shown.
+  **The guide style is the reading** — `SOURCE_Unified_Narrative_Writing_Rules_for_AI.md` § 1: show
+  the thing, facts over adjectives, humans are not narrators.
+- **A dossier contradiction is settled by class, once.** Two Solidifications, one class; his year stays
+  unstated. Never averaged, never invented (`R-57` D).
+- **Arithmetic is reconciled on the page**, with the cause named — not by editing one figure (`R-57` E).
+- **Checked by** `check_backstory_appearance.py` (gate 53), floor 50 % of the dossier's physical
+  vocabulary present in the narrative body, remainder carried as printed debt. The gate cannot tell a
+  shown word from a named one; that is the reader's pass (`O-29`, `R-38`).

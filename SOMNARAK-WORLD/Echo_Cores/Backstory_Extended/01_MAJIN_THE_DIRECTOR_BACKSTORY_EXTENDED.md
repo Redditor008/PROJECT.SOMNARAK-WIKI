@@ -79,6 +79,8 @@ He assumed she meant the experiment.
 
 The floor warmed first.
 
+It was the Consolihan. The lamps were down in the square and the thousand names were being read to a crowd with its hoods up, and the building was working through the rite because the readings did not take an evening off. He remembers that and hates it: the last ordinary night of his life was the one night the whole city was already grieving, and nobody had to explain to him afterwards what the sound was. He had heard it every year since he was a child. He had never heard it arrive from underneath a floor.
+
 That is the detail he returns to. Not the alarm, not the screaming, not the Council's order arriving on a channel nobody had thought to test. The floor warmed, the way a room warms when the sun has moved onto it, and everyone in the building stopped what they were doing because the building had never been warm before.
 
 The amber threads in the sample tubes had gone still. Not slow. Still — all of them at once, as though the Han had heard something.
@@ -298,6 +300,22 @@ The transcript records four seconds of nobody speaking after that, and the debri
 
 The procedure record is four lines long. What happened in the room is not in the record because the room's instruments spent most of it reporting that they were no longer in the room.
 
+The debrief has more. The debrief has the order things happened in.
+
+The left arm went first. The veins came up the inner upper arm — black under the skin — not a bruise, because a bruise spreads evenly and this moved with a direction in it — crossed the elbow, and collected at the wrist, where it stopped and took a shape. The debrief calls the shape *a blade on its side*. The Directorate has called it a scythe since the first report, and the first report was written by a medic with no reason to flatter anyone.
+
+The hand did not change. That is the part Insu wrote down twice: the same hand, with the thin old scars across the back of it from a tube that had gone over in the research years, and when he was asked to open it and close it, it opened and closed.
+
+> **[Insu]** "Can you feel it?"
+
+> **[Majin]** "Yes."
+
+> **[Insu]** "Can you feel anything else?"
+
+> **[Majin]** "It is still my arm."
+
+The face came after, and did not announce itself. Three lines opened on the upper left — from the temple, around the eye, down toward the cheek, hooked at the ends — and nothing bled and nothing had cut him. They were there when he sat up. They were deeper by morning.
+
 He remembers heat, and the smell of the lamp, and the ceiling, and the sensation of a door closing somewhere behind his sternum. And he remembers the voice that was not his, saying a sentence in a language he does not know, in a mouth that had stopped halfway through it:
 
 *The bo— he is not— the vessel is not the—*
@@ -326,13 +344,17 @@ A woman in a shop doorway asked whether the evacuation was over.
 
 He went back to the command post and wrote the incident report himself, and in the field marked *containment method* he wrote: **permanent, singular, non-transferable.** He did not write *me*.
 
+From that morning he had three lines on the left side of his face and a black mark between his wrist and his forearm, and when the thing in his chest was awake the lines went darker. Nobody who worked in that building ever needed to be told which of the two was in the room.
+
 ---
 
 ### The Choice at the Consolihan
 
 The Consolihan is the city's annual mourning, established in the year the thousand were lost. Majin had attended it every year of his life: first as a child holding a lamp, then as a researcher with ink on his hands, then as a man who no longer needed to be told when to stand.
 
-That year he stood at the back.
+The next one he stood at the back.
+
+He wore his working coat, because it was the only thing he owned that closed over the left sleeve, and the three lines on his face had not faded, and were still red where they hooked at the ends. People who had known him all his life looked at the lines, then at his eyes — the same deep blue, tired in a way that had not been there the year before — and then away. The silver had reached his hairline at the temples and gone no further that year. Nobody said that either. Nobody asked. The rite does not permit it; you do not stop the reading of the thousand names to ask a man what happened to his face.
 
 The rite is simple. The names of the thousand are read. The lamps are lowered. The city is permitted, for one night, to grieve without explanation.
 
@@ -565,9 +587,11 @@ The lights did not flicker. That was the strange part. The building simply stopp
 
 At 00:00:00 the timestamp returned to Day 1 and the eastern foundation was intact.
 
-Not repaired. Intact — the way it had been before the fracturing, the way the seismic record said it had been at the start of the year. The building was in the state it had been in when the field closed, and the field had closed at the start of the year, because the generator's cycle was the facility's own operational year.
+Not repaired. Intact — the way it had been before the fracturing, the way the seismic record said it had been on the first morning of the year.
 
-They spent four days establishing what had happened. On the fifth day they confirmed it: the field was holding the facility at Year 4,232, and the city inside the field was going around with it.
+It took them four days to work out the arithmetic, and the arithmetic was the worse part. The generator's cycle was the facility's own operational year. He had closed the field at 23:59:58 on the last night of Year 4,232, and a cycle that is one year long does not finish by ending; it finishes by beginning again. The field had not kept the building as it was when he closed it. It had kept it as it was on the first morning of the year, and it would go on returning it there for as long as the field ran.
+
+On the fifth day they confirmed it: the field was holding the facility at Year 4,232, and the city inside the field was going around with it.
 
 > **[Majin]** "How many times?"
 
@@ -625,7 +649,7 @@ The honest answer is that he tried. The first three cycles were spent looking fo
 
 After that he stopped looking for the exit and started looking at the ledger.
 
-> **[Seiyon]** "At one thousand seven hundred and seventy-eight iterations at this rate, the reserve approaches thirty-six tons."
+> **[Seiyon]** "At one thousand seven hundred and seventy-eight iterations at this rate, the projection is thirty-six tons."
 
 > **[Majin]** "And the reserve is not a weapon yet."
 
@@ -962,6 +986,8 @@ Then he set it down flat on the desk, squared to the edge, which is what he does
 
 > **[Majin]** "The weapon was never a weapon, Marjuk. It is an open hand. And on Day 160... we open our fingers."
 
+Forty-nine point eight eight. The projection, made in the second century, had been thirty-six, and Seiyon does not make arithmetic errors, and the fourteen tons between the two were not a mistake. The reserve had taken more than the working stock. Abyssal surges fed it — events that put his personnel in danger and paid into the thing he was building out of the danger. He had known for centuries. He had never once written it in a report, because a line like that does not read as a method. It reads as a motive.
+
 ---
 
 #### Floor 6, After
@@ -1084,7 +1110,7 @@ The barrel had been gone for eleven days. Where it had been stood a junction of 
 
 > **[Seiyon]** "The border is holding. Mellda reports the wind has died."
 
-He put his hand on the wheel. It was warmer than the room. That was the charge moving, which meant the whole thing still worked, which was the last thing he wanted to be true and the only thing that would help.
+He put his left hand on the wheel. The sleeve was open along the forearm — the coat had been cut that way since the year of the Sovereign, so the mark could be checked without undressing him — and the black came up out of the cuff and stopped where it always stopped, between wrist and forearm, in the shape the first medic had called a blade on its side. It was warmer than the room. That was the charge moving, which meant the whole thing still worked, which was the last thing he wanted to be true and the only thing that would help.
 
 > **[Majin]** "How many are in the street?"
 
@@ -1270,7 +1296,7 @@ He wrote names.
 
 Not tonnage. Not percentages. Not the reserve estimate, or the dispersal mass, or the fifteen percent that had become hope while the remaining eighty-five percent persisted. Names: the thousand from the Cheongula, the specialists from the casualty annexes, the two from Zone D whose Fractures never entered a command summary, the four hundred and six from the east quarter, the Cheonbulok families who had tied themselves together with industrial cable and walked until the gate opened.
 
-It took him most of the day. His hand cramped. He did not stop, because stopping would have turned the ledger back into a summary, and the whole point of the disclosure was that the city had been governed by summaries for 1,778 iterations.
+It took him most of the day. His left hand cramped, the one with the thin old scars across the back of it, and he kept writing with it. He did not stop, because stopping would have turned the ledger back into a summary, and the whole point of the disclosure was that the city had been governed by summaries for 1,778 iterations.
 
 Seiyon came down at the end of the shift and stood beside the desk without speaking.
 
@@ -1308,6 +1334,8 @@ He has never explained it. Seiyon has never filed it. The room's condition is no
 
 It is simply warmer now, in a room where a man sits with the door open, reading a report he no longer has to read twice.
 
+The marks had not faded. He had not got any younger. Only the reading had changed: once, twice, once.
+
 ---
 
 ## Appendix
@@ -1320,7 +1348,7 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | Yeon-seo | The sentence he will misread | Connective scene |
 | 2 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification | Yeon-seo | "Don't let it be the last word" | Canon-anchored |
-| 3 | The Sovereign | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment | Majin | He becomes the container | Canon-anchored |
+| 3 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
 | 4 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
 | 5 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
 | 6 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station, Year 4,226 | Seiyon | The silence becomes policy | Connective scene |
@@ -1381,10 +1409,10 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | When | Scene | What changes |
 |---|---|---|
 | Six research years before the floor warmed | The Bench; The Afternoon | A sentence is said in an ordinary room and is not important. Everything downstream is built on the fact that it was not important. |
-| The year the floor warmed — the Solidification | The Warm Floor; The Sample Bench | He gives a correct order in a warm corridor and hears the readings instead of the woman. The east stairwell has already softened; the order is not the failure, the deafness is. |
+| The year the floor warmed — a Solidification, during the Consolihan | The Warm Floor; The Sample Bench | He gives a correct order in a warm corridor and hears the readings instead of the woman. The east stairwell has already softened; the order is not the failure, the deafness is. |
 | The same hour, the east quarter | The Sovereign | Four hundred and six are taken, not killed. He is told what he is, by an officer who is not being cruel about it. |
 | The bonding | The Single Grade; What the Medics Said; The Fusing | He is warned, he reads the directive twice, he says *noted*, and the Sovereign-Class fusion closes with the city inside the field. |
-| Undated in this file — a Consolihan night before the Directorate | The Choice at the Consolihan | The Tree indicates, the Council asks, and the office is accepted. The rite is annual and has run since the year the thousand were lost, so the year is not recoverable from this record; the refusal was possible and he does not make it. |
+| Undated in this file — the Consolihan a year after the loss, before the Directorate | The Choice at the Consolihan | The Tree indicates, the Council asks, and the office is accepted. The rite is annual and has run since the year the thousand were lost, so the year is not recoverable from this record; the refusal was possible and he does not make it. |
 | Year 4,226 | The Face in the Station | The station is built without a mirror and the Secretary is designated. The silence becomes a policy rather than a decision. |
 | Cycles 1 through 1,778 | The Field; The Directive; The Lance; The Decision | The field holds, the reserve grows at 0.02 tons per iteration, the cannon is designed, and the loop becomes an institution with a due date. |
 | Day 0, Cycle 1,778 | Day 0 — And You | He asks how she is, by name, for the first time in forty-three cycles. |
@@ -1407,6 +1435,7 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | **The back of a gauge log** | What He Wrote on the Back of a Gauge Log; The Bench, Again; The Afternoon | A scrap kept for seventeen hundred years as a design brief. It turns out to be a note about how to work, written in her hand, in an ordinary week. |
 | **The lamp with moods** | The Sample Bench; The Manifold Room | The warm amber research lamp he never replaced in his descriptions, and the cutting torches that throw a light almost exactly its colour. |
 | **The warm floor** | The Warm Floor; Day 29 | The sensation that stands in for the whole catastrophe, and the sentence he uses on the catwalk — *the floor was warm* — as the only part of it he can hand to another person. |
+| **The mark between wrist and forearm** | The Fusing; The Choice at the Consolihan; Day 160 — The Fountain; The Public Archive | What the fusion left where it could be seen. Black veins from the inner upper arm across the elbow to the wrist, and there a shape the first medic called *a blade on its side*. The coat has been cut open along that forearm since the year of the Sovereign so it can be checked without undressing him. He writes with the hand, and the hand did not change. |
 | **The station without a mirror** | The Face in the Station; Day 0 — And You | The room built in Year 4,226 with a chair, a desk, a console, and no mirror. He specified it. It is the first decision in the file that is about someone who does not exist yet. |
 | **The clock reading Day 1, 06:00** | The Decision | The object that proves the loop to him without an argument. It has read the same thing many times. |
 | **The Absolvohan barrel** | The Lance; The Manifold Room | Five hundred millimetres of steel designed to be fired and then cut into pipe. The file's clearest image of a decision being unmade in public. |
@@ -1519,10 +1548,10 @@ This is why the record prints the name and the man does not. The facility knows 
 | Conflict | Record A | Record B | Handling |
 |---|---|---|---|
 | The Original's name | `THE_SECRETARY.md` § History, The Name: *"Seiyon" was the Original's name*; repeated at § Why Seiyon Remains the Continuing Name and § The Secret | `The_MEMORY_ARCHIVE.md` § 3.2 and the GIEOK guidebook name her **Yeon-seo**; `Reading_7` separates *Dr. Yeon-seo* from the vessel *Prototype Seiyon-00*, and numbers the AI as *the seventeenth iteration* | The codex naming and the numbering govern. Her name is Yeon-seo; *Seiyon* is the vessel line's designation. The three dossier lines are corrected at source. |
-| Dating the Solidification | `THE_DIRECTOR.md`: his lover died in the Solidification; he is 126 during the final Cycle | `PROJECT_SOMNARAK.md` § Timeline: Consolihan and Solidification in Years 234–245 | **Unresolved.** No scene states a year. Owner decision required before any file dates the loss. |
+| Dating the Solidification | `THE_DIRECTOR.md`: his lover died in the Solidification; he is 126 during the final Cycle | `PROJECT_SOMNARAK.md` § Timeline: the Solidification that grew the Alpha Tree is dated 234–245 | **Resolved by class, not by date.** A man of 126 cannot have stood in Year 245. The founding Solidification and his are two freezings of the same substance, four thousand years apart; the dossier now says so in § The Solidification. **The year of his loss remains unstated** and no file supplies one. |
 | Meaning of "Consolihan" | `PROJECT_SOMNARAK.md`: the Third War, Years 234–245 | `SOMNARAK_CHEONGULA.md` § IV: the annual mourning rite after the Cheongula | Both treated as real. The selection scene uses the annual rite and labels it. |
 | Order of selection and fusion | `THE_DIRECTOR.md`: loss → fusion → selection during the Consolihan | `The_REVERIE_DIRECTORATE.md`: selection during the Consolihan; "the M.A.W. fusion happened later" | Dossier order followed; codex reversal recorded, not averaged. |
-| Director's appearance | `THE_DIRECTOR.md`: deep blue eyes; three hooked scars; scythe mark | Absolvohan Part 1: pale grey eyes; black alloy at temple and cheek; neural cables | Dossier governs. Alloy not dramatized. |
+| Director's appearance | `THE_DIRECTOR.md`: deep blue eyes; three hooked scars on the upper left; black veins to the wrist and a scythe-shaped mark | Absolvohan Part 1: pale grey eyes; black alloy at temple and cheek; neural cables | **Dossier governs, and is now shown.** The veins, the wrist mark and the three lines are dramatized as they form, in The Fusing, and return in the Consolihan, the manifold room and the ledger. The Part 1 alloy, grey eyes and cables are not used. |
 | Memory across resets | `THE_DIRECTOR.md`: full retained chronology | Absolvohan Part 1: "You lose the marrow" | Unresolved. This file records his refusal to accept the purge as his own reading and asserts no memory loss on his behalf; file 02 quotes the Part 1 line because the Parts govern the spoken scene. Neither account is averaged into the other. |
 | Reserve at Day 0 | `THE_DIRECTOR.md` § Notes: archived estimate near 36 tons | Absolvohan Part 1: 47.300 tons held | Unresolved. The body uses the 0.02-ton rate and a spoken estimate only. |
 | Six syllables | `THE_DIRECTOR.md`: variable Doorspeech variants | Absolvohan Part 2: six precise syllables | Not equated. |
