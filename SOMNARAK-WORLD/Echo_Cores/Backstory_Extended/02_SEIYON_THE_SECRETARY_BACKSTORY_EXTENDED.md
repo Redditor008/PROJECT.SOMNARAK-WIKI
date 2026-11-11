@@ -7,7 +7,8 @@
 > **SPINE:** A sentence she was told she would not need; the morning he said her name; the same line typed into the same field, and saved  \
 > **ACCESS:** Open. Compiled by its subject; the compiler's own limits are marked in the appendix rather than hidden.  \
 > **PROVENANCE:** Continuous facility record, retained across 1,778 iterations; personal notes filed outside the command register  \
-> **RELIABILITY:** Exact for what she witnessed. Prohibited from claiming what she was never told.
+> **RELIABILITY:** Exact for what she witnessed. Prohibited from claiming what she was never told.  
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
 
 ---
 

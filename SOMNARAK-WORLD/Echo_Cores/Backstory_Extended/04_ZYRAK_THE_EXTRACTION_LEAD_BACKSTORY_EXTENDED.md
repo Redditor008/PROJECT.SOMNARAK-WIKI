@@ -7,7 +7,8 @@
 > **SPINE:** A glove that made her feel what she took; the night the taking made a child into something she had to kill; the same glove, worn by hands that can no longer feel it  \
 > **ACCESS:** Open. Two sections sealed until Day 177: the debtor case file and the reconstruction consent record. Both are reproduced here as released.  \
 > **PROVENANCE:** Floor 3 logs; Collector's Row registers; reconstruction file; technician statements  \
-> **RELIABILITY:** Exact for what she measured. Her judgment of herself is marked as hers and is not adopted by this record.
+> **RELIABILITY:** Exact for what she measured. Her judgment of herself is marked as hers and is not adopted by this record.  
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
 
 ---
 

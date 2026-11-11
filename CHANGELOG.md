@@ -2,6 +2,26 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — a name keeps its costume
+
+**Every name in the extended backstories is now marked by what it is, and every file tells the reader so
+in its own header.**
+
+- **Three marks, held.** A **designation** is full caps (`THE ORIGINAL`); a **named thing** is italic at
+  its coining and roman after (`*Reaper Hungered*`); an **office** is plain and lower case after *the*
+  (`the Director`). The same designation had been written four ways in one file, which reads as four
+  unrelated things.
+- **A name is coined before it is used.** *the Hand* used to be met in a movement heading, five hundred
+  lines before anything explained it. It is now coined in the room it names: *the Hand of Change — five
+  spires set around a palm-shaped court, one for each finger, taller than the district wall.*
+- **The legend is printed in every file's record header**, so a reader is told the convention once.
+- **The arithmetic of the man.** He is 126 and has lived 1,778 iterations of a year, which the file never
+  reconciled. New scene: the field does not distinguish, and it keeps him as it keeps the building. He
+  proves it with a galley knife, a cut to the bone, and a date on the wall that does not survive the
+  first morning. *"That I am in the field."*
+- **New rule `R-61` and gate 55** (`check_title_register.py`), 11 tests. The dossier carries the same
+  convention note, and its designation now matches the Extended.
+
 ## Unreleased — clearer, and not plain
 
 **Majin's extended backstory now explains its own vocabulary, and stops summarizing the two beats it

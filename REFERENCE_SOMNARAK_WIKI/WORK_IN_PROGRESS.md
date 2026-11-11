@@ -1,5 +1,70 @@
 # Work In Progress
 
+## Batch 220 — a name keeps its costume (2026-10-25)
+
+### 1. What you asked
+
+*"SOME IN THE STORY NEED HIGHLIGHTING LIKE P.S. SPECIFIC TITLE AND SUCH SO IT ABLE TO BE KNOW BY READER
+THAT IT WAS A TITLE OR ELSE AND NOT JUST NONSENSE … RECHECK MAJIN STORY AGAIN ON BOTH DOSSIER AND
+EXTENDED"*
+
+### 2. The name problem, exactly
+
+One designation was written four ways in one file — `**THE ORIGINAL**` at its coining, `*the Original*` at
+three later uses, `the Original` in the appendix, `THE ORIGINAL` in a record quote. Four costumes read as
+four things.
+
+And four names had **no mark at all**. The worst was *the Hand*: a reader met it in a movement heading,
+`## Before the Hand Opened`, five hundred lines before anything in the file said what it was. It could
+have been a structure, a person, or a body part. That is the *"nonsense"* — not ugly words, but **a page
+that has not told the reader what kind of thing each word is.**
+
+### 3. The register (R-61 / O-46)
+
+| class | mark | example |
+|---|---|---|
+| **Designation** — a label where a name should be | full caps, always | `THE ORIGINAL` |
+| **Named thing** — an entity, weapon, account, structure | italic at its coining, roman after | `*Reaper Hungered*` → `Reaper Hungered` |
+| **Office** — a post, not a person | plain, lower case after *the* | `the Director` |
+
+Plus: **a name is coined before it is used**, and **every file prints the legend** in its record header,
+because the convention only works if the reader is told it once. All nine extended files now carry it.
+
+The Hand is now coined standing in it: *the Hand of Change — five spires set around a palm-shaped court,
+one for each finger, taller than the district wall.*
+
+### 4. The recheck — and what it caught
+
+Reading the dossier against the Extended for arithmetic this time, not for appearance:
+
+**He is 126 years old and he has lived 1,778 iterations of a year.** Nothing in the file reconciled those
+two facts. A reader does the multiplication and arrives at 1,900 years and a contradiction.
+
+The resolution was already in the file and had never been used: *the field does not distinguish. What it
+closes over, it keeps.* So the field keeps him too. **The Arithmetic of the Man** is now a scene — he is
+126 when the field closes and 126 at the seventeen hundred and seventy-eighth return, and the number is
+not an error. He proves it twice: once by accident, when a lift gate takes the top of a finger and the
+finger is whole on the first morning; and once on purpose, on the seventeenth return, with a galley
+knife, a cut to the bone, and the date written on the wall beside him. He waits three hundred and
+forty-eight days. The wall reads Day 1. He washes the knife and puts it back.
+
+Seiyon says the thing the scene is for:
+
+> *"The reading was of your own body."*
+>
+> *"Yes."*
+>
+> *"And the result?"*
+>
+> *"That I am in the field."*
+
+### 5. Filed
+
+`R-61` with gate 55 (`check_title_register.py`) — 1 designation, 10 named things and 1 short form held on
+`01_MAJIN` at **0 defects**; 11 tests. **61 rules · 46 orders · 55 gates · 34 standards.**
+
+---
+
 ## Batch 219 — clearer, and not plain (2026-10-25)
 
 ### 1. What you asked

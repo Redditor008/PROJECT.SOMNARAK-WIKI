@@ -7,7 +7,8 @@
 > **SPINE:** A route in with no route out; the second map drawn by the person who was sent without one; the same second map handed to somebody else  \
 > **ACCESS:** Open. One item is sealed: the Council's denial of service, which the record holds as a document and not as an opinion.  \
 > **PROVENANCE:** Council service record (denied, then partially recovered); R.D. capture and reconstruction file; Floor 7 standing-orders book, entries 1–17; Intelligence Processing map archive; Han-wave reception logs, Days 55, 97, 127 and 355; `THE_OUTSIDER.md`; Absolvohan Parts 2, 4, 5, 7 and 9 anchor scenes; one debriefing-room statement, Year 4,238  \
-> **RELIABILITY:** Exact for routes, times, and the wording of messages received. She cannot explain why the Secretary stopped in the corridor, and this record does not explain it for her.
+> **RELIABILITY:** Exact for routes, times, and the wording of messages received. She cannot explain why the Secretary stopped in the corridor, and this record does not explain it for her.  
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
 
 ---
 

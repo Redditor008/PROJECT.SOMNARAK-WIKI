@@ -722,3 +722,20 @@ UNDERSTANDABLE AND MORE DRAMATIC AND EMOTIONAL NOT PLAIN, GENERIC AND STALE"*
   designation and copies it by hand.
 - **Status.** `R-59` carries a counter (gate 54). `R-60` does not and says so — a build that measures
   whether prose has weight measures word counts and calls it craft.
+
+### O-46 · A name keeps its costume
+
+**The owner's instruction, 2026-10-25:** *"SOME IN THE STORY NEED HIGHLIGHTING LIKE P.S. SPECIFIC TITLE
+AND SUCH SO IT ABLE TO BE KNOW BY READER THAT IT WAS A TITLE OR ELSE AND NOT JUST NONSENSE"*
+
+- **P.S. means Project Somnarak** — the house style, not a postscript. The marks are the archive's own.
+- **One designation, one costume.** `THE ORIGINAL` was written four ways in one file — bold caps at its
+  coining, italics at three later uses, roman in the appendix. Four costumes read as four things.
+- **Three classes, three marks** (`R-61`): a **designation** is full caps; a **named thing** is italic at
+  its coining and roman after; an **office** is plain, lower case after *the*.
+- **A name is coined before it is used.** *the Hand* was first met in a movement heading 500 lines before
+  anything explained it. It is now coined in the room it belongs to: *the Hand of Change — five spires set
+  around a palm-shaped court, one for each finger, taller than the district wall.*
+- **The legend is printed in every file**, in the record header, so a reader is told the convention once.
+- **Checked by** `check_title_register.py` (gate 55). It cannot judge whether a name is good — only that
+  it keeps its costume.

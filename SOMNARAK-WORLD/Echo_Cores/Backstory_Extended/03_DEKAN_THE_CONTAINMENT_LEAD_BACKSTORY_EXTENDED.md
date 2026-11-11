@@ -7,7 +7,8 @@
 > **SPINE:** Three sentences a Warden taught her son at a wall; the night the wall answered with a request; the same three sentences, with no one left behind it  \
 > **ACCESS:** Open. Released under the disclosure order of Day 177.  \
 > **PROVENANCE:** Field reports; perimeter instrumentation; the buried seventeen-minute index; one sealed review annex  \
-> **RELIABILITY:** Exact for what he measured. Where he says *I don't know*, this record does not improve on him.
+> **RELIABILITY:** Exact for what he measured. Where he says *I don't know*, this record does not improve on him.  
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
 
 ---
 

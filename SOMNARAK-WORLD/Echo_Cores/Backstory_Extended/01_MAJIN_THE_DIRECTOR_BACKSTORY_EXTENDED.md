@@ -7,7 +7,8 @@
 > **SPINE:** One sentence, heard wrong; the year the meaning of it broke; the same sentence, heard again  
 > **ACCESS:** Open. Released under the disclosure order of Day 177.  
 > **PROVENANCE:** Director's dictation; sealed command register; Floor 6 vault extracts; witness statements  
-> **RELIABILITY:** High for events he witnessed. His interpretation is marked as his. Where sources conflict the conflict is kept.
+> **RELIABILITY:** High for events he witnessed. His interpretation is marked as his. Where sources conflict the conflict is kept.  
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
 
 ---
 
@@ -27,7 +28,7 @@ It had been repaired four times by a man who no longer worked in the building, a
 
 > **[Yeon-seo]** "The lamp is a lamp. It has moods."
 
-They had been in that room for six years by then. Han — the substance the whole city sat on and had never once agreed about — came up through the floor in thin amber threads, slow enough that a patient person could watch one thread climb the inside of a glass tube over the course of an afternoon. Everyone in the building agreed this was remarkable. Nobody could agree what it was.
+They had been in that room for six years by then. *Han* — the substance the whole city sat on and had never once agreed about — came up through the floor in thin amber threads, slow enough that a patient person could watch one thread climb the inside of a glass tube over the course of an afternoon. Everyone in the building agreed this was remarkable. Nobody could agree what it was.
 
 The Endurers said it was grief with nowhere to go. The Converters said it was grief that could be made useful. The Council, which had inherited both schools and believed neither, called it a resource and taxed it.
 
@@ -77,9 +78,11 @@ He assumed she meant the experiment.
 
 ### The Warm Floor
 
+The building had a name before it had a purpose: *the Hand of Change* — five spires set around a palm-shaped court, one for each finger, the whole of it taller than the district wall. Nobody in the research years used the full name. They said the building, or Floor 3, or, when they were tired and the lamps were low, *the Hand*.
+
 The floor warmed first.
 
-It was the Consolihan. The lamps were down in the square and the thousand names were being read to a crowd with its hoods up — the names of the people the Cheongula took, which the city calls a disaster and the record calls a neglect: a thousand citizens in a district the Council had decided was not worth the cost of moving.
+It was the Consolihan. The lamps were down in the square and the thousand names were being read to a crowd with its hoods up — the names of the people *the Cheongula* took, which the city calls a disaster and the record calls a neglect: a thousand citizens in a district the Council had decided was not worth the cost of moving.
 
 The building was working through the rite because the readings did not take an evening off. He remembers that and hates it: the last ordinary night of his life was the one night the whole city was already grieving, and nobody had to explain to him afterwards what the sound was. He had heard it every year since he was a child. He had never heard it arrive from underneath a floor.
 
@@ -256,7 +259,7 @@ The registrar read it. She did not stamp it. She copied it out by hand onto the 
 
 That is the heading's whole provenance. It is not a title the city gave her, or the Council, or the Tree. It is what a man wrote in a box on the fourteenth day, to avoid writing something else.
 
-Box nine asks only for a reference. He had put *the Original* in box one. In box nine he put *source material* — which was accurate, because the Directorate would later build a woman from her voice and her face and the shape of her hands, and none of that would have been possible if he had written her name and closed the file.
+Box nine asks only for a reference. He had put THE ORIGINAL in box one. In box nine he put *source material* — which was accurate, because the Directorate would later build a woman from her voice and her face and the shape of her hands, and none of that would have been possible if he had written her name and closed the file.
 
 Then he signed it, with the hand that has the thin scars across the back of it.
 
@@ -273,6 +276,10 @@ She stamped it. Then she said, without looking up, the thing that is in no regis
 He took the copy, and left, and did not correct it.
 
 ### The Sovereign
+
+> **R.D. INCIDENT REGISTER — ZONE B, FIRST ENTRY**  
+> *Class: aggregate sorrow manifestation. Grade: unclassified at time of filing.*  
+> *Field designation, assigned by the containment office and used by everyone afterward: **the Sovereign**.*
 
 The entity formed in Zone B nine weeks after the floor warmed.
 
@@ -324,7 +331,7 @@ Two words have to be explained before the register can be read.
 
 **Ω** is the top of its five grades. It is not the word for *powerful*; it is the word for *cannot be put back.*
 
-**Reaper Hungered** was not his name for it either. A records clerk needed a noun before the end of a shift, had read the witness statements out of the east quarter, and wrote down the only two words in them that fit.
+*Reaper Hungered* was not his name for it either. A records clerk needed a noun before the end of a shift, had read the witness statements out of the east quarter, and wrote down the only two words in them that fit.
 
 > **R.D. MATERIAL EXTRACTION REGISTER — SOLE ENTRY, Ω CLASS**  
 > *Asset: Reaper Hungered.*  
@@ -557,7 +564,11 @@ The voice did the thing where it started in the system and ended in the person. 
 
 > **[Majin]** "...Report."
 
-She gave it in five nouns: envelope, Veil, conduits, gauges, Maw — the envelope being how much the building could hold at once, the Veil the suppression net laid over the districts that made them livable and numbed them, the Maw the fault line the city had been built across and did not talk about. Clean, complete, correctly ordered. He had written the specification for four of those five words and could still not hear the list without checking it against the numbers. He signed the staffing order. He said *Noted*. He left.
+She gave it in five nouns.
+
+*the envelope* — how much the building could hold at once. *the Veil* — the suppression net laid over the districts, the thing that made them livable and numbed them. *the conduits.* *the gauges* — zeroed and recalibrated to the baseline hum. *the Maw* — the fault line the city had been built across and did not talk about.
+
+Clean, complete, correctly ordered. He had written the specification for four of those five words and could still not hear the list without checking it against the numbers.
 
 He got as far as the lift and stood with his hand on the call button for a length of time he has never disclosed, and then he went back up and stood in the doorway again and looked at her.
 
@@ -621,7 +632,7 @@ Year 4,232 began with the ground moving.
 
 It was not an Ordeal. Ordeals announce themselves with a color and a time. This was the Maw fault line deciding, after four thousand years, that it had had enough. The seismic record shows eleven minutes of fracturing along the eastern foundation that would have taken the lower city down within the hour.
 
-They had one system that could hold the strata together. It was not a containment system. It was a stabilization generator, built into the structure of the Hand itself, designed to keep the facility's own foundations from walking.
+They had one system that could hold the strata together. It was not a containment system. It was a stabilization generator, built into the structure of the thing the city calls *the Hand* — the five-spired shell the whole facility stands inside, and the only reason Facility 01 has a floor at all — designed to keep the facility's own foundations from walking.
 
 > **[him]** "Director. If we activate it at full field, it will hold the fault. It will also hold everything inside the field."
 
@@ -677,6 +688,36 @@ Not repaired. Intact — the way it had been before the fracturing, the way the 
 It took them four days to work out the arithmetic, and the arithmetic was the worse part. The generator's cycle was the facility's own operational year. He had closed the field at 23:59:58 on the last night of Year 4,232, and a cycle that is one year long does not finish by ending; it finishes by beginning again. The field had not kept the building as it was when he closed it. It had kept it as it was on the first morning of the year, and it would go on returning it there for as long as the field ran.
 
 On the fifth day they confirmed it: the field was holding the facility at Year 4,232, and the city inside the field was going around with it.
+
+---
+
+#### The Arithmetic of the Man
+
+The field does not distinguish. He had written that into the directive himself, in the line he signed without reading twice, and it took him another eleven days to understand that it applied to him.
+
+He was 126 years old when the field closed. He would be 126 years old at the end of the thousandth return and the same at the end of the seventeen hundred and seventy-eighth, and the number would not be a mistake in the record.
+
+The first proof was an accident. On the ninth return a lift gate came down on his left hand and took the top of one finger. He had it dressed, and he did the year's work with a dressing on it, and on the first morning of the next return he woke with a whole hand and the sheet unstained.
+
+The second proof, on the seventeenth return, was not an accident. He took a knife from the galley, sat on the edge of the operations floor where the light was good, and cut the same finger open to the bone. Then he wrote the date on the wall beside him and waited three hundred and forty-eight days.
+
+On the first morning of the next return the wall read Day 1, and his finger was whole, and the blood was not on the floor. He washed the knife and put it back.
+
+> **[Seiyon]** "Director. You have been on the floor since 05:00."
+
+> **[Majin]** "I was testing a reading."
+
+> **[Seiyon]** "The reading was of your own body."
+
+> **[Majin]** "Yes."
+
+> **[Seiyon]** "And the result?"
+
+> **[Majin]** "That I am in the field."
+
+He was not relieved, and he was careful, afterwards, about how often he stood near the heavy doors.
+
+The record has an age for him, and the age is 126, and the age has been 126 since Year 4,232. The years he has actually lived forward are inside that number and are not larger than it. What he has is not longevity. It is 1,778 copies of one year, and a body the field keeps handing back, and a memory the field does not touch — which is the whole of the arrangement, and the reason nobody in the building envies him.
 
 > **[Majin]** "How many times?"
 
@@ -985,7 +1026,7 @@ Below the rail the singing went on, small and patient, the way it must have gone
 
 > **[Majin]** **"What am I supposed to file that under?"**
 
-Dekan did not answer. He was not, in that moment, being asked a question. He was being used as a wall to say something to.
+Dekan did not answer. He was not, just then, being asked a question. He was being used as a wall to say something to.
 
 > **[Majin]** "I stood in a corridor once and watched a floor take everything, and the only thing I thought was that I would need a number. Not her name. A number."
 
@@ -1061,11 +1102,13 @@ Dekan looked at the growth markers on the screen, then at the Director, and did 
 
 ### Day 145 — The Hidden Entry
 
+The barrel had a name before it had a shape. *The Absolvohan* began as a line on a requisition slip in Year 4,231 — one word, no gloss, approved by a clerk who assumed it was a supplier — and by the time the first five hundred millimetres of it were cast it had come to mean the weapon, the account that fed it, and the day it was due.
+
 > **[Marjuk]** "Archive report. The Founder's journal — I found a hidden entry."
 
 > **[Majin]** "Hidden?"
 
-> **[Marjuk]** "Between the pages. Written in microscopic Han-crystal ink. It only fluoresces when held near the Weeping's raw current."
+> **[Marjuk]** "Between the pages. Written in microscopic Han-crystal ink. It only fluoresces when held near *the Weeping*'s raw current."
 
 The Weeping runs under the whole city — a river of liquid Han, raw and unstructured, with the Archive built above it and drawing its lights off it. It is why the vault can hold what it holds and cannot be moved.
 
@@ -1385,7 +1428,7 @@ He did not answer that. He stood at the window with his hands behind his back an
 
 #### The Public Archive
 
-The disclosure took most of the year. The Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, the Cycle. Anyone who has read the volumes knows what is in them; what the volumes do not hold is the first week.
+The disclosure took most of the year. The Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, and *the Cycle* — the plainest of the words and the one the city could not make fit in its mouth: that the same year had already happened one thousand seven hundred and seventy-eight times, and that every person reading the volume had died in it before. Anyone who has read the volumes knows what is in them; what the volumes do not hold is the first week.
 
 The first thing the city did was count. It had been told the same year had happened 1,778 times, and it did the arithmetic on its own dead, and then it did the arithmetic again, and the number stopped being a number.
 
@@ -1395,13 +1438,13 @@ The third thing it did was ask about a word.
 
 The volumes were indexed by the Public Record Office, and the index had been built by people who worked from the vault, and one of them had taken a heading at face value. So on the eleventh day a woman stood up in the east quarter — in the street where the paving had once begun to breathe — and asked the question the whole city had been circling:
 
-> **[she]** "Who was the Original?"
+> **[she]** "Who was THE ORIGINAL?"
 
 The answer was in the appendix, on the same page as the designation. It was two words long, it was a name, and it had been sitting in the vault for four thousand years and in his mouth for none of them.
 
 He was told about the question that evening. He said *noted*, and then he sat in the cold office with the door open and did not read the report he was holding, and at some point after midnight he turned the lamp round so that it lit the wall instead of the page.
 
-The record prints her name. He still says *the Original.* Four thousand years of archives have gone on copying a box he filled in on the fourteenth day, and the city has gone on reading it correctly.
+The record prints her name. He still says THE ORIGINAL. Four thousand years of archives have gone on copying a box he filled in on the fourteenth day, and the city has gone on reading it correctly.
 
 On the morning after the year closed he went down to the public archive with the first volume of the disclosure ledger and did the thing he had been avoiding since the fusion.
 
@@ -1463,25 +1506,25 @@ The marks had not faded. He had not got any younger. Only the reading had change
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | Yeon-seo | The sentence he will misread | Connective scene |
 | 2 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification; `The_MEMORY_ARCHIVE.md` § 3.2, for the seals and the sacrifice | Yeon-seo | "Don't let the sorrow win" — said twice, once about the experiment | Canon-anchored |
-| 3 | The Filing | PAST | TPV camera | The woman in the east quarter, the disclosure | Backstory-only, unnamed | `[she]` (1) | The Public Archive. She asks the question the whole city has been circling, in the street where the paving once began to breathe, and the answer is two words on a page. | — *not separately recorded* | — *not separately recorded* | — *not separately recorded* | — *not separately recorded* | — *not separately recorded* |
-| The registrar, the civil register | — | DIALOGUE | Document | C/R | Civil register of Facility 01; `The_MEMORY_ARCHIVE.md` § 3.2 for the heading *The Original* | Yeon-seo | The designation four thousand years of records copy, and the man who wrote it | Canon-anchored | — *not separately recorded* | — *not separately recorded* | — *not separately recorded* | — *not separately recorded* |
-| 4 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
-| 5 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
-| 6 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
-| 7 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station, Year 4,226 | Seiyon | The silence becomes policy | Connective scene |
-| 8 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
-| 9 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
-| 10 | Day 0 — And You | FLASHBACK | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
-| 11 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
-| 12 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
-| 13 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
-| 14 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
-| 15 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
-| 16 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
-| 17 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
-| 18 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
-| 19 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
-| 20 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
+| 3 | The Arithmetic of the Man | PAST | TPV | Majin | — | BOTH | Document | C | Dossier Profile, Age 126 and Operational Age | Majin | The one body the field returns with the building | Connective scene |
+| 4 | The Filing | PAST | TPV camera | The registrar, the civil register | — | DIALOGUE | Document | C/R | Civil register of Facility 01; `The_MEMORY_ARCHIVE.md` § 3.2 for the heading THE ORIGINAL | Yeon-seo | The designation four thousand years of records copy, and the man who wrote it | Canon-anchored |
+| 5 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
+| 6 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
+| 7 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
+| 8 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station, Year 4,226 | Seiyon | The silence becomes policy | Connective scene |
+| 9 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
+| 10 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
+| 11 | Day 0 — And You | FLASHBACK | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
+| 12 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
+| 13 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
+| 14 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
+| 15 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
+| 16 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
+| 17 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
+| 18 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
+| 19 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
+| 20 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
+| 21 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
 
 ---
 
@@ -1551,6 +1594,8 @@ The marks had not faded. He had not got any younger. Only the reading had change
 |---|---|---|
 | **The sample bench** | The Sample Bench; The Afternoon; Willingness | The place where the sentence was said. She does not turn round, and she does not stop working in order to make a point, and those are the two things he can still see. The bench itself was not damaged and is still in the building. |
 | **The death certificate** | The Filing | Nine boxes, four of them filled. Box three reads *seal schedule, item four*, in a smaller hand than the rest of the page. Box one reads **THE ORIGINAL** because a designation was easier to write than a name, and box eight — *recoverable material* — is empty, which the form does not require and the Directorate later found inconvenient. |
+| **The galley knife** | The Arithmetic of the Man | An ordinary knife taken from an ordinary drawer, and the only object in this file he has ever used to test himself. He cut to the bone on the seventeenth return, wrote the date on the wall, waited out the year, and washed the knife afterwards. |
+| **The wall that reads Day 1** | The Arithmetic of the Man | The date, written by hand where the light was good, that survived three hundred and forty-eight days and did not survive the first morning. |
 | **The leaning *i*** | The Filing | In the vault copy of the heading, halfway through the word, in the hand of a registrar with a bad wrist. It is the only part of the designation that is not his. |
 | **The failure schedule** | The Sample Bench; What He Wrote on the Back of a Gauge Log | Six years of tolerances in her hand, and four written refusals kept in the same drawer. The line she points at is item four. It is the only document in the file that predicted the catastrophe, and it was filed and taxed and unread. |
 | **The amber sarcophagus** | Seventeen Minutes; The Public Archive | What the seal made of her, at the roots of the Alpha Tree, forty metres under the courtyard. It cannot be cut without opening the seal, which is why it is still there and why the chamber around it is the first containment unit in the city. He ordered the chamber on the eleventh day. He has never ordered the cut. |
@@ -1618,6 +1663,7 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 | Her body rests in an amber stasis sarcophagus at the physical roots of the Alpha Tree; the chamber is later the Memory Archive's Floor 07 | `The_MEMORY_ARCHIVE.md` §§ 3.2, 4 (Floor 07: Origin) and the GIEOK overview § 5.1 |
 | The seals, the maintenance schedule and the load-test refusals are this file's reconstruction; the codex supplies that the containment systems were hers and that she died using them | `The_MEMORY_ARCHIVE.md` § 3.2, read against `THE_DIRECTOR.md` § The Solidification, which leaves the manner of his surviving unrecorded |
 | Ω-grade M.A.W. fusion contained a Sovereign-class manifestation threatening Zone B; conventional containment had failed | `THE_DIRECTOR.md` § Backstory, The Sovereign-Class Containment |
+| Age 126 in the final Cycle; operational age 1,778 iterations; the body is kept by the field and the memory is not | `THE_DIRECTOR.md` § Profile, Age and Operational Age; reconciled in The Arithmetic of the Man |
 | Alpha Tree selected him during the Consolihan; the Council accepted; "the first command he was never allowed to refuse" | `THE_DIRECTOR.md` § Backstory, Chosen by the Alpha Tree |
 | Directorate formed around him; the other eight specialized | `THE_DIRECTOR.md` § Backstory, Formation of the R.D. |
 | The Director was a researcher, a lover, a dreamer; lost everything during the Consolihan; the name is buried | `The_REVERIE_DIRECTORATE.md` § Echo-Core 1, Origin and The Director's Tale |
@@ -1643,7 +1689,7 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 
 ### The name she is filed under
 
-She is called *the Original* (원형 — the archetype, the first form) in Directorate records, in Majin's speech, and in Seiyon's. It is a designation, not a name.
+She is filed as THE ORIGINAL (원형 — the archetype, the first form) in Directorate records, in Majin's speech, and in Seiyon's. It is a designation, not a name.
 
 Her name is **Yeon-seo** (연서; the Archive's own heading prints 然瑞).
 
@@ -1655,7 +1701,7 @@ The name **Seiyon** is not hers. It is the designation of the vessel line built 
 
 Three passages in `THE_SECRETARY.md` state the opposite — that the name was Yeon-seo's and passed to the AI as an inheritance. They are corrected to match the records above; the old wording is preserved in the HOLD table. The correction does not soften the Secretary's fear. It sharpens it: her name is not a dead lover's, it is the serial of a machine that failed sixteen times before it produced her.
 
-This is why the record prints the name and the man does not. The facility knows exactly who she was; he calls her *the Original* to everyone, including Seiyon, including in his own reports, and has done since the Solidification.
+This is why the record prints the name and the man does not. The facility knows exactly who she was; he calls her THE ORIGINAL to everyone, including Seiyon, including in his own reports, and has done since the Solidification.
 
 ---
 

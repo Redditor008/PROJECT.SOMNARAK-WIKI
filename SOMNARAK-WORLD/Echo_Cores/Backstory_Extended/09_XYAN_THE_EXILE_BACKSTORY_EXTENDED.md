@@ -7,7 +7,8 @@
 > **SPINE:** A question the city closed; the one-way walk that reopened it; a route marked for nobody, then walked by twelve thousand  \
 > **ACCESS:** Open. One item is withheld: the Council's prohibition is held as a document, not as an opinion, and no member's name is attached to it because none survived.  \
 > **PROVENANCE:** Directorate service file; Council prohibition (recovered, unsigned); Gate Watch reception log, 1,778 entries; boundary post survey books; `THE_EXILE.md`; Absolvohan Parts 2, 4, 5, 7, 8 and 9 anchor scenes; one handover statement, Year 4,238  \
-> **RELIABILITY:** Exact for routes, dates and the wording of warnings sent and received. He has never said what he thought on the day he stepped through, and this record does not say it for him.
+> **RELIABILITY:** Exact for routes, dates and the wording of warnings sent and received. He has never said what he thought on the day he stepped through, and this record does not say it for him.  
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
 
 ---
 

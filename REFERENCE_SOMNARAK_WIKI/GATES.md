@@ -69,3 +69,4 @@ and are superseded by this table. Where a rule or an order cites one, it now cit
 | **52** | `tools/auditors/check_echo_backstory.py` | `RESULT: PASS` |
 | **53** | `tools/auditors/check_backstory_appearance.py` | `RESULT: PASS` |
 | **54** | `tools/auditors/check_backstory_gloss.py` | `RESULT: PASS` |
+| **55** | `tools/auditors/check_title_register.py` | `RESULT: PASS` |

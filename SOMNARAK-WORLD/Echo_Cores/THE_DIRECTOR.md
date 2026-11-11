@@ -14,6 +14,8 @@ Majin is the only Echo-Core who remains fully biological, and the only person kn
 
 ---
 
+**How names are set in this file.** A **designation** — a label standing where a name should be — is set in full caps: **THE ORIGINAL**. A **named thing** — an entity, weapon, account or structure the record has named — is italic at its coining and roman thereafter: *Reaper Hungered*, then Reaper Hungered. An **office** is plain and lower case after *the*: the Director, the Archive Lead. Read the marks; none of them are decoration and none of them are noise.
+
 ## Contents
 
 1. [Profile](#profile)
@@ -338,7 +340,7 @@ The conviction is correct, or near enough that seventeen hundred years of work h
 
 ### Yeon-seo
 
-He shared his research and his private life with another scientist, **Yeon-seo** — filed in the Archive as **the Original**, the woman whose face and memory-pattern the Secretary carries without being her. The designation is not a name and was never meant to be one; it is what an institution writes when it has decided that the person is now a precedent.
+He shared his research and his private life with another scientist, **Yeon-seo** — filed in the Archive as **THE ORIGINAL**, the woman whose face and memory-pattern the Secretary carries without being her. The designation is not a name and was never meant to be one; it is what an institution writes when it has decided that the person is now a precedent.
 
 The record is careful here and thin, and says so. It establishes that she worked beside him and that he shared with her both his research and his private life — two separate disclosures, from a man who would later file everything under a heading with a due date. It does not describe her character, her work, or the shape of the partnership, because nobody wrote those down while they were still happening, and afterwards the only person who could have written them was the person least able to.
 

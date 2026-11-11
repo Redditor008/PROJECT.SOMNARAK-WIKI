@@ -7,7 +7,8 @@
 > **SPINE:** A thing taken before he could notice; a key turned to keep something in and later to walk in; the same want, stated once at the end of it  \
 > **ACCESS:** Open. The childhood section is not recalled — it is reconstructed from the Directorate's assessment and stated as such at the point where it matters.  \
 > **PROVENANCE:** Floor 4 ledgers; Chamber 15 research file; Absolvohan Parts 2–9 anchor scenes; one witness statement  \
-> **RELIABILITY:** Exact for what he measured. He cannot verify the one fact the record most needs, and says so in the margin.
+> **RELIABILITY:** Exact for what he measured. He cannot verify the one fact the record most needs, and says so in the margin.  
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
 
 ---
 
