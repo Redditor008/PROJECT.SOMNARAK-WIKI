@@ -623,3 +623,25 @@ Not At All Make Sense When Read Example Majin If You Read It With Reader Logic"*
 - **Fifteen "four thousand years" corrected.** A Core's span is 1,778 iterations; four thousand is
   the city's age.
 - **Checked by** `check_backstory_reader.py` (gate 51).
+
+---
+
+### O-42 · The backstory is a story
+
+**The owner's instruction, 2026-10-25:** *"I Mean Majin Main Back Story … It Doesnt Make Sense, Two
+That It Confusing And Not At All LOOK LIKE HIS BACK STORY"*
+
+- **Majin's page ran 365 words** in five stub paragraphs while his eight colleagues ran 1,099–4,932.
+  The central character had the shortest backstory in the set and it was not a story.
+- **Cause shown, not named.** *He interpreted it as a duty to defeat sorrow* was asserted and never
+  explained. The mishearing is the character; it owes the reader a mechanism.
+- **Every proper term glossed at first use.** `Consolihan` was used for two different things — the war
+  of Years 234–245 and the annual rite — and for neither of them plainly. `the Original` was a
+  designation with no referent in a file that also contains the Secretary built from her.
+- **What the record cannot settle goes in one section, once.** Word, date and order, under
+  § Where the Record Is Unsettled. Not scattered, not silently resolved.
+- **The last beat is the present.** The owner's phrasing is the specification: the one that shows
+  what made him, HIM. It ends on why he says *Noted*, why he does not sleep, why his office is cold in
+  a building whose halls are warm.
+- **Checked by** `check_echo_backstory.py` (gate 52), which holds an 800-word floor — a floor, not a
+  target (`O-16`).

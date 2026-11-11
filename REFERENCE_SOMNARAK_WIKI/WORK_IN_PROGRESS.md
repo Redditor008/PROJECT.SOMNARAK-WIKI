@@ -1,5 +1,68 @@
 # Work In Progress
 
+## Batch 216 — what made him, him (2026-10-25)
+
+### 1. What you asked
+
+*"I Mean Majin Main Back Story … First It Doesnt Make Sense, Two That It Confusing And Not At All
+LOOK LIKE HIS BACK STORY"* — not the Extended file read last batch. **His own page.**
+
+### 2. What was there
+
+`THE_DIRECTOR.md` § Backstory, **365 words**, five stub paragraphs:
+
+> *Origins. The Solidification. The Sovereign-Class Containment. Chosen by the Alpha Tree. Formation
+> of the R.D.*
+
+Each answers a question an encyclopaedia would ask. None tells a story. His eight colleagues run
+**1,099 to 4,932 words** — the central character of the setting had the shortest life story in the
+set, by a factor of three, and it was not a life story.
+
+### 3. The three complaints, and what each one was
+
+| what you said | what it was |
+|---|---|
+| **doesn't make sense** | *"He interpreted it as a duty to defeat sorrow"* — the misreading his whole life turns on, asserted and never explained. Why does a researcher hear *don't let the sorrow win* and conclude *erase sorrow*? The file never says. |
+| **confusing** | `Consolihan` used for two different things (the war of 234–245 and the annual rite) without saying so; `the Original` a designation with no referent in a file that also contains the Secretary built from her; the fusion followed by *"his pulse entered resonance with the Alpha Tree"* with nothing connecting them. |
+| **not his back story** | It is a classification with the dates missing. There is no person in it — no work, no habit, no reason, and no connection to the man the Profile describes. |
+
+### 4. What it is now
+
+**1,529 words**, nine beats, in the order a life happens:
+
+**The Researcher** → **Yeon-seo** → **The Solidification** → **What He Heard** → **The Sovereign** →
+**The Indication** → **The Directorate** → **Where the Record Is Unsettled** → **What It Made of Him**
+
+- **The mishearing has a mechanism.** *A finding is not comfort. A finding is a commission.* He was a
+  researcher; the sentence arrived as a finding. Then the four steps he took from it — contain,
+  endure, accumulate, erase — and the line that makes the whole file legible: *he was not wrong that
+  she had asked him for something; he was wrong about which thing.*
+- **`Consolihan` is glossed at first use** as the annual mourning, and the two meanings are named
+  once in § Where the Record Is Unsettled.
+- **`the Original` is defined** — the woman whose face and memory-pattern the Secretary carries
+  without being her.
+- **The immortality is a design requirement**, not a gift: a container has to stay intact while it is
+  containing.
+- **The last beat is the present.** Why he asks for the report before the explanation, why he says
+  *Noted*, why he does not sleep — and the observation, without comment, that the halls of Floor 1
+  are warm and his office is always cold.
+
+**Nothing was resolved that the record cannot settle.** The date of the loss stays undated; the order
+of the fusion and the Tree's indication is filed as contested rather than argued.
+
+### 5. Built
+
+- **`check_echo_backstory.py`** (gate 52) — an 800-word floor across all nine, set below the shortest
+  sibling. **It reads 363 words on the old text** and PASS on the new.
+- **`R-56` / `O-42`** — the backstory is a story.
+- **8 tests**, including the old text as a fixture and a check that Majin no longer has the shortest
+  backstory in the set.
+
+### 6. Where it stands
+
+**31 standards**, 25 DONE, 6 OPEN. The floor is a floor, not a target — `O-16` still binds, and the
+gate cannot tell 900 words of story from 900 words of weather.
+
 ## Batch 215 — the backstory read as a reader (2026-10-25)
 
 ### 1. What you asked

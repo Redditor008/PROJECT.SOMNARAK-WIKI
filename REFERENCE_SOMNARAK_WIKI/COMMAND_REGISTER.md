@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 215.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 216.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -455,12 +455,13 @@ The permanent law, each with your words where they survive verbatim. Full text i
 | **O-39** | A number names one gate, and a status is a claim — `GATES.md` derives every number from its position in the build | 213 | DONE |
 | **O-40** | Appearance is a category and a way of writing — the shape from the dossier's own form statement, the voice from what is seen rather than what it means | 214 | PARTIAL |
 | **O-41** | A file is read once, in order — anchors follow the reader's walk, a skipped scene gets written, and a 1,778-iteration life is not four thousand years | 215 | STANDING |
+| **O-42** | The backstory is a story — a person in it, cause shown not named, every proper term glossed, and the last beat belongs to the man the reader met in the Profile | 216 | DONE |
 
 ---
 
 # Part III — The rule index
 
-Every command that became law has a file. **55 rules**, `R-01`–`R-55`.
+Every command that became law has a file. **56 rules**, `R-01`–`R-56`.
 
 `R-01` no edit-meta · `R-02` growth-only · `R-03` no label decoration · `R-04` bespoke per entity ·
 `R-05` no threshold gaming · `R-06` the threshold is the counter · `R-07` percentage where no
@@ -481,15 +482,15 @@ session** · `R-45` write every section to its contract · **`R-46` the Tale has
 **`R-47` a relic charges by the second** · **`R-48` the charge** · **`R-49` a work can cost, cost
 nothing, or give** · **`R-50` some holdings have one thing they do** · **`R-51` a table row
 answers one question** · **`R-52` a command ends in a file** · **`R-53` a number names one gate** · **`R-54` the appearance is a
-category and a way of writing** · **`R-55` a file is read once, in order**.
+category and a way of writing** · **`R-55` a file is read once, in order** · **`R-56` the backstory is a story**.
 
-*(Bold = the twelve reform laws of batches 193–215.)*
+*(Bold = the thirteen reform laws of batches 193–216.)*
 
 ---
 
 # Part IV — The batch record, by era
 
-**215 batches, 621 commits, 2026-10-22 → 2026-11-05.** What each stretch of the record was for:
+**216 batches, 622 commits, 2026-10-22 → 2026-10-25.** What each stretch of the record was for:
 
 | era | batches | what it was for |
 |---|---|---|
@@ -509,12 +510,13 @@ category and a way of writing** · **`R-55` a file is read once, in order**.
 | **The gate audit** | 206–213 | the register itself; three gates the build never ran; SECC given one question per row; a command made to end in a file |
 | **The appearance** | 214 | the category read off the section instead of the column; 301 of 301 resolve; prose accepted as a shape; interpretation told from correspondence |
 | **The reading** | 215 | the owner read the backstories as a reader; Majin's break found and fixed; the missing climax written; a file now has to be read in the order it states |
+| **The person** | 216 | Majin's own page rebuilt: a 365-word classification replaced by a life story, the mishearing given a mechanism, and the present explained by the past |
 
 ---
 
 # Part V — Where the commands stand
 
-**30 standards are measured every batch** (`tools/auditors/how_finished.py`). **24 are DONE, 6
+**31 standards are measured every batch** (`tools/auditors/how_finished.py`). **25 are DONE, 6
 OPEN, 0 unknown:**
 
 | OPEN standard | remainder |

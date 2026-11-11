@@ -326,33 +326,87 @@ Majin does not forget the people who reset. The records describe this as both th
 
 ## Backstory
 
-### Origins
+The Archive's record of what made this man is three documents wearing one coat: his own testimony, the city's chronology, and the Directorate's founding instrument. None of them is whole, and they do not wholly agree. This file states the disagreements rather than smoothing them.
 
-Majin was a researcher, a lover, and an idealist before he became a title. He worked beneath the Alpha Tree on early Han studies and shared both his research and his private life with another scientist, **Yeon-seo** — filed in the Archive's records as *the Original*. The Reverie Directorate did not yet exist in formal shape — there were no Echo-Cores, no Hand of Change, and no Absolvohan.
+### The Researcher
 
-That life ended during the Consolihan.
+Majin was a Han researcher beneath the Alpha Tree before the Alpha Tree was an authority. In those years there were no Echo-Cores, no Hand of Change and no Absolvohan; there was a city that had built four thousand years of walls against a substance it could not describe, and there were people whose work was to describe it.
+
+He was not a wall-builder. He spent his working life on the question the walls had been built to avoid: what Han **is**. The position he argued — patiently, in reports the Council taxed rather than read — was that the substance is not weather. Weather happens to a place. Han is what a place has *felt*, and a record of feeling can be read, and what can be read can be predicted, and what can be predicted can be met.
+
+The conviction is correct, or near enough that seventeen hundred years of work have not overturned it. It is the origin of everything else in this file, and it is the reason he was standing in the building on the day it happened. He was also, in the way of men who believe a thing can be measured, an idealist.
+
+### Yeon-seo
+
+He shared his research and his private life with another scientist, **Yeon-seo** — filed in the Archive as **the Original**, the woman whose face and memory-pattern the Secretary carries without being her. The designation is not a name and was never meant to be one; it is what an institution writes when it has decided that the person is now a precedent.
+
+The record is careful here and thin, and says so. It establishes that she worked beside him and that he shared with her both his research and his private life — two separate disclosures, from a man who would later file everything under a heading with a due date. It does not describe her character, her work, or the shape of the partnership, because nobody wrote those down while they were still happening, and afterwards the only person who could have written them was the person least able to.
 
 ### The Solidification
 
-The Solidification consumed Yeon-seo in the same Han catastrophe that transformed the Alpha Tree. Her final instruction — *"Don't let the sorrow win"* — became the promise around which he organized the rest of his existence.
+The event that took her is called the Solidification: the class of catastrophe in which Han stops behaving as something a city can hold at arm's length and freezes into structure. It is the event that, at the founding, grew the Alpha Tree.
 
-He interpreted it as a duty to defeat sorrow: contain it, endure it, accumulate it, and eventually erase it. The final Cycle establishes that the interpretation was incomplete.
+He survived the event that killed her. The manner of his surviving is not in the record — the first of several silences in this file, all of them in his favour and none of them his doing.
 
-### The Sovereign-Class Containment
+She did not survive. Her last recorded words are the sentence the rest of his life is built on:
 
-In immediate grief, Majin moved to stop a Sovereign-class Sorrow Entity formed from collective loss and threatening Zone B. Conventional containment had already failed. He used the only Ω-grade M.A.W. ever extracted and sealed the manifestation within himself.
+> *"Don't let the sorrow win."*
 
-The M.A.W. fused rather than bonded. Majin became the entity's living containment, the sealed sorrow became permanently inseparable from his own, and the fusion prevented the death of the body maintaining the seal. His pulse entered resonance with the Alpha Tree.
+### What He Heard
 
-### Chosen by the Alpha Tree
+Here the file stops being a record of events and becomes a record of one mishearing.
 
-Majin was not appointed by the Council. The Alpha Tree selected him during the Consolihan, and the Council accepted the choice because challenging it risked the stability of both the Tree and the city.
+*Don't let the sorrow win* admits two readings. In the first, a dying woman is telling a man who is going to have to live with a loss that the loss does not get to be the final entry — go on, carry it, do not let grief become the whole account. In the second, she is issuing an instruction: sorrow is a party in a contest, and the contest has to be won.
 
-The Tree did not choose him for absence of fear or grief. It chose a person capable of continuing while afraid and grieving. Majin has described this as the first command he was never allowed to refuse.
+He took the second. He was a researcher; the sentence arrived as a finding, and a finding is not comfort. A finding is a commission. Something had to be established first, and then something had to be finished.
 
-### Formation of the R.D.
+The course he set is recorded in four steps and he held to all four: **contain** it, **endure** it, **accumulate** it, and at the end of the accounting, **erase** it. Every institution he built afterwards is one of those four steps wearing a different coat.
 
-Majin became Echo-Core 1, and the remaining Echo-Cores were organized around him. The other eight could specialize — administration, containment, extraction, research, border watch, archives, intelligence, and the Gate — because he served as the point at which all information and consequence converged. To the Nine he became less a colleague than a ceiling.
+He was not wrong that she had asked him for something. He was wrong about which thing.
+
+### The Sovereign
+
+Grief did not make him withdraw. It made him faster.
+
+A Sovereign-class entity formed from collective loss and threatened to take Zone B entire. Conventional containment had already failed against it. In immediate grief he did what he would do for the next seventeen hundred years: he treated a loss as a problem with a solution, and then made himself the solution.
+
+Only one Ω-grade M.A.W. has ever been successfully extracted, and it was extracted then. It did not bond. Bonding is an arrangement between a bearer and a weapon; this was a fusion, and it closed. Majin became the entity's living container, and the sealed sorrow became permanently inseparable from his own.
+
+It also ended his ability to die. That is not a reward and not a punishment; it is a design requirement. A container has to stay intact while it is containing. The M.A.W. will not let him die because the M.A.W. needs him alive.
+
+From that day his pulse has read in resonance with the Alpha Tree. The Directorate measures it. The Directorate does not explain it.
+
+### The Indication
+
+He did not apply to be Director. There was no Directorate to apply to.
+
+At the Consolihan — the city's annual mourning — the Alpha Tree indicated him. The indication was not a nomination and was not subject to review. The Council of Sighs accepted it rather than test it, and their own instrument gives their reason: challenging the Tree risked the stability of both the Tree and the city.
+
+The Tree did not select for courage, or for the absence of fear, or for grief. It selected a person capable of continuing while afraid and grieving. He has described the day as *the first command I was never allowed to refuse.* He does not claim to know why the Tree chose him. The Council has never asked.
+
+### The Directorate
+
+He became Echo-Core 1, and the other eight were organized around him: administration, containment, extraction, research, border watch, archives, intelligence and the Gate. The arrangement is efficient and it is not a brotherhood. The eight specialize because he is the point at which every piece of information and every consequence converge, and a point of convergence is not a colleague. To the Nine he became less a man than a ceiling.
+
+Then he did what he had decided in the first year, and did it for seventeen hundred years. The Cycle held. The surplus came out of the working stock. The reserve grew by a weight that could be entered in a ledger. And the instrument that would discharge it was kept where nobody who might object could reach it — because a conclusion he had reached alone was the only kind he trusted.
+
+It had a price, and the price was paid by other people. Seiyon's record of the final iteration holds three hours in which the Veil generators in Zone D failed, twelve citizens were exposed to raw Han and two Fractured — and holds that the surplus went to the reserve, and that the two Fractures did not appear in the command summary. That is the shape of the whole era. Not a decision to hurt anyone. A decision about where the numbers went.
+
+### Where the Record Is Unsettled
+
+**The word.** *Consolihan* names two different things in this city: the war of Years 234–245, and the annual mourning rite established in the year the thousand were lost. This file uses it only for the rite.
+
+**The date.** The Solidification that took Yeon-seo is undated. The city's chronology places a Solidification at the end of that war; this record places his loss inside his own lifetime, and he is 126 during the final Cycle. The two are not reconciled here and the gap is recorded rather than closed. No account in the Archive states a year, and this file will not supply one.
+
+**The order.** The Directorate's own chronicle places the Tree's indication first and the fusion after it. This file has given the fusion first, following his testimony. Both readings are filed against him and neither is corrected here.
+
+### What It Made of Him
+
+Everything in his manner of working is one of those four steps wearing a different coat.
+
+He asks for the report before the explanation because a report can be acted on and an explanation cannot. He says *Noted* because a thing that has been registered does not require the room to stop for it — and because the one time the room did stop, he was the one who kept moving. He does not sleep, and he does not put anything down; the man who was told not to let sorrow win has spent seventeen hundred years making certain that nothing reaches the end of the account unwritten.
+
+The record notes, without comment, that the halls of Floor 1 are warm and the Director's office is always cold.
 
 ---
 

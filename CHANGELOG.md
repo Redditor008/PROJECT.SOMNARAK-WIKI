@@ -2,6 +2,41 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — what made him, him
+
+**Majin's own page carried a 365-word backstory. It now carries a 1,529-word one, and the reason it
+was 365 is the reason it did not make sense.**
+
+The section was five stub paragraphs — *Origins. The Solidification. The Sovereign-Class Containment.
+Chosen by the Alpha Tree. Formation of the R.D.* — each answering a question an encyclopaedia would
+ask. His eight colleagues run 1,099 to 4,932 words. **The central character of the setting had the
+shortest life story in the set**, and it was not a life story.
+
+Three defects, one per complaint:
+
+- **It did not make sense.** *"He interpreted it as a duty to defeat sorrow"* — the misreading the
+  whole character turns on — was asserted and never explained. Why does a researcher hear *don't let
+  the sorrow win* and conclude *erase sorrow*? The file never said. It does now: a finding is not
+  comfort, a finding is a commission, and the four steps that followed from it.
+- **It was confusing.** `Consolihan` was used for two different things — the war of Years 234–245 and
+  the annual mourning — without saying so. `the Original` was a designation with no referent in a
+  file that also contains the Secretary built from her. The fusion was followed by *"his pulse
+  entered resonance with the Alpha Tree"* with nothing connecting them.
+- **It was not his back story.** There was no person in it: no work, no habit, no reason, and no
+  connection to the man the Profile describes.
+
+**The rewritten section ends where the owner said it should** — on what made him *HIM*: why he asks
+for the report before the explanation, why he says *Noted*, why he does not sleep, and the
+observation, without comment, that the halls of Floor 1 are warm and his office is always cold.
+
+**Nothing was smoothed.** The loss stays undated. The order of the fusion and the Tree's indication is
+filed as contested rather than argued, because the dossier and the R.D. chronicle disagree and both
+are on record.
+
+- **`check_echo_backstory.py`** — gate 52, an 800-word floor across all nine. **Reads 363 on the old
+  text**, PASS on the new.
+- **`R-56` / `O-42`** — the backstory is a story.
+
 ## Unreleased — the backstory read as a reader
 
 **The owner read the nine Echo-Core backstories and reported that some do not make sense. He named
