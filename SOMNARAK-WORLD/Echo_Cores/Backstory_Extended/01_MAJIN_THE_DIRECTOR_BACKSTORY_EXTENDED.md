@@ -141,6 +141,8 @@ She had not turned round. That was the thing he could not make her do, in six ye
 
 She was lying. He worked that out about four seconds later, standing at a hatch with his hands on a wheel, watching her walk away from him down the length of a room that was already the wrong colour. She had never needed two hands. She had written the override herself and she had written it for one.
 
+---
+
 #### Seventeen Minutes
 
 The seal took seventeen minutes to close. The alarm log is exact about that and about nothing else, because the instruments in the core stopped reporting at 23:24 and the log has kept the hole ever since.
@@ -167,6 +169,8 @@ The short record says only that he survived the event that killed her. The manne
 
 The bench was not damaged. The lamp was even — she had replaced the shade — the readings were easy to take, and there was nobody left in the building who put a small tick beside an average.
 
+---
+
 #### What He Took From It
 
 She said it twice.
@@ -191,13 +195,13 @@ He did not hear *do not let the grief be the only thing left.*
 
 He heard *finish this.*
 
-And that is the error, and it is not a translation problem. She had asked him to hold something — that was her whole discipline, the reason the clamps were hers and the schedule was hers and the sentence in the doorway was *don't let it win* and not *end it.* He built an institution that was extremely good at holding things, and then spent seventeen hundred years aiming it at the one thing she had asked him to keep.
+And that is the error, and it is not a translation problem. She had asked him to hold something — that was her whole discipline, the reason the clamps were hers and the schedule was hers and the sentence in the doorway was *don't let the sorrow win* and not *end it.* He built an institution that was extremely good at holding things, and then spent seventeen hundred years aiming it at the one thing she had asked him to keep.
 
 Every containment standard in this building is dated from the year after. She had asked four times for a load test and been refused four times on the grounds that the building was in use; the fifth request was granted by the man who now owned the building, and the test he funded destroyed the wing it was run in and passed.
 
 He never put it in a report that he had done it for her. He does not write her name in reports.
 
-That only became a sentence he could say out loud much later, in a cold room on Floor 6, with a brittle book open on the desk.
+*Don't let the sorrow win* did not become two sentences instead of one until much later, in a cold room on Floor 6, with a brittle book open on the desk.
 
 ### The Sovereign
 
