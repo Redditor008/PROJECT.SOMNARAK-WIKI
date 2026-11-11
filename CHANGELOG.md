@@ -2,6 +2,35 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — a death belongs to the person who dies
+
+**Yeon-seo's death was written as an accident that happened near her. It is now the sacrifice canon
+already had, and the containment standard of the whole city dates from it.**
+
+- **The seals were hers.** Canon: *"the intellectual architect of the original containment systems."*
+  He had the theory; she had the tolerances, and the maintenance schedule he signed eleven times and
+  read none of. She asked four times for a load test and was refused four times; the refusals are in
+  the bench drawer, and the line she points at when the floor warms is item four.
+- **She dies of her own discipline, and of her own flaw.** *"There is one handle and it takes two
+  hands, so somebody has to hold the door."* She was lying — she wrote the override for one hand. She
+  did not wait for permission, which is the exact flaw he then repeats for seventeen hundred years.
+- **She is not erased.** The amber sets around her and holds; cutting it opens the seal, so he orders a
+  chamber built at the roots of the Alpha Tree instead. It is the first containment unit in the city
+  and the only order he has never countermanded. Four times in seventeen hundred years he has gone down
+  the stair, and never as far as the door.
+- **The world is different because she lived.** Every containment standard in the building dates from
+  the year after. The fifth load test destroys the wing it is run in and passes.
+- **The mishearing is restored.** *Sorrow* names both the substance and the feeling in this city. She
+  said the same five words twice — in a doorway about the experiment, at a seal about everything else —
+  and *"do not let it have the last word"* is his paraphrase in a report that night, never corrected.
+  The old draft's reveal of what she "actually said" is gone: it was the bug, not the fix.
+- **The silence has a source.** The short record says only that he survived the event that killed her.
+  It is in this file because a medic wrote it down in a debrief nobody asked him to take.
+- **New rule `R-58` and order `O-44`**, with the research behind them: Project Moon's own structure
+  (Carmen's kept body as the Corporation's origin; Elijah dying of her own experiment) and the craft
+  literature on character death. **Status PARTIAL — no counter exists, and that is stated rather than
+  faked.**
+
 ## Unreleased — built from the dossier
 
 **Majin's extended backstory ran 14,700 words without ever showing the man it was about. It now shows

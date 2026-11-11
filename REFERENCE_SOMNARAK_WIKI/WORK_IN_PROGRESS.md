@@ -1,5 +1,92 @@
 # Work In Progress
 
+## Batch 218 — a death belongs to the person who dies (2026-10-25)
+
+### 1. What you asked
+
+*"WHEN YOU WRITE HOW YEON-SEO DEATH DOESNT MAKE SENSE … YOU RUSH IT WITHOUT USING THINKING AND LOGIC AT
+ALL … HER DEATH IF READ DONT GIVE ANY WEIGH AS A PLOT AT ALL DONT YOU RESEARCH OTHER VERSE"*
+
+You were right on every count. Read as a reader, the scene I wrote was this:
+
+> *"Her hand on his chest, and then her hand not on his chest. […] Then the amber reached the bench and
+> the bench was not there anymore."*
+
+### 2. Why it has no weight
+
+| the fault | what it looked like |
+|---|---|
+| **she does nothing** | She stands at a bench. She refuses to turn round. The room kills her. Nothing she has ever done is why she is in it. |
+| **the death explains him, not the world** | Her only consequence is that he becomes institutional. The Directorate would be identical without her. |
+| **the body is missing** | She is erased by a floor. There is nothing to visit, protect, or lie about. |
+| **the sentence was made unambiguous** | I revealed what she *"actually said"* — *don't let it be the last word* — which is only comfort, and cannot be misheard as a commission. **That reveal destroyed the mishearing the whole character is built on.** |
+
+### 3. What the research said
+
+**Project Moon's own structure.** Carmen is the founder's dead woman and the Corporation exists because
+of her — the body is kept, and it is a *place in the facility*. Every Sephirah's Core Suppression gives
+the past life and the death in the same beat as a mechanic. And Malkuth's prototype Elijah dies of her
+own unauthorised experiment: the death is the natural progression of her characterisation.
+
+**The craft literature.** The dead character must matter beyond being dead; must **leave a hole in the
+plot** (mine left a hole in him and none anywhere else); needs 2–3 scenes acting for themselves; needs a
+flaw of their own; and a legacy tied to an active thread rather than a vow spoken and forgotten.
+
+### 4. What canon already had, and I had ignored
+
+`The_MEMORY_ARCHIVE.md` § 3.2:
+
+> *"A brilliant structural theorist and empathetic philosopher, Yeon-seo was the intellectual architect
+> of the original containment systems. During the catastrophic First Breach of Cycle 0001, she
+> sacrificed her physical body to seal the breach core, shielding Majin from terminal psychic
+> dissolution."*
+
+**She built the containment systems and died using them.** And § 4: her body is in an **amber stasis
+sarcophagus at the physical roots of the Alpha Tree** — later the Memory Archive's Floor 07, the
+*Sarcophagus Seal* of the boss encounter. The file ran 16,625 words and the word *sarcophagus* did not
+appear once.
+
+### 5. What it is now
+
+- **The seals are hers.** He has the theory on one side of a page; she has the tolerances — every clamp,
+  every gasket, every sealed cell. He signed off on her maintenance schedule eleven times and read none
+  of them.
+- **She asked four times for a load test and was refused four times.** The building was in use. The
+  refusals are in the bench drawer with the gauge logs. The line she points at when the floor warms is
+  *item four*.
+- **Her flaw is the mechanism.** *"The override is behind the core. There is one handle and it takes two
+  hands, so somebody has to hold the door."* She was lying. She wrote the override herself and she wrote
+  it for one hand. **She did not wait for permission** — which is the exact flaw he then repeats for
+  seventeen hundred years, alone, trusting a conclusion he reached by himself.
+- **The shield.** He was three metres from the vent. *"The distance between him and it was the width of
+  a woman with both hands on a ring, holding it shut."*
+- **The object.** The amber cannot be cut without opening the seal, so on the eleventh day he stops
+  asking for the cut and orders a chamber built around it at the roots of the Alpha Tree. It is the
+  first containment unit in the city and the only order he has never countermanded. Four times in
+  seventeen hundred years he has gone down the stair, and never as far as the door.
+- **The world changed.** Every containment standard in the building dates from the year after. The
+  fifth load test — the one she was refused — is granted by him, destroys the wing it is run in, and
+  passes.
+- **The ambiguity is restored and it is in the language.** *Sorrow* does two jobs in this city: to the
+  Endurers it is Han, the substance; to everyone else it is the feeling. She said the same five words
+  in a doorway about the experiment and at a seal about everything else, and the woman who could have
+  said which meaning she meant was inside a seal by the time he thought to ask. *"Do not let it have
+  the last word"* is **his paraphrase in a report that night**, and he has never corrected it.
+- **The silence has a source.** The short record says only that he survived the event that killed her.
+  The manner of his surviving appears in no document he signed — it is here because a medic wrote it
+  down in a debrief nobody asked him to take.
+
+### 6. The lesson, filed as law
+
+`R-58` — a death belongs to the person who dies: they act first, their own flaw is the mechanism, the
+death leaves an object, the world is different because they lived, a mishearing needs a two-sided
+sentence, and an omission in the record is shown with its source named.
+
+**Status PARTIAL, on purpose.** There is no counter. Gate 52 already proves what a bad counter is worth:
+it passes 801 junk words. **58 rules · 44 orders · 53 gates · 32 standards · 27 DONE / 5 OPEN.**
+
+---
+
 ## Batch 217 — built from the dossier (2026-10-25)
 
 ### 1. What you asked

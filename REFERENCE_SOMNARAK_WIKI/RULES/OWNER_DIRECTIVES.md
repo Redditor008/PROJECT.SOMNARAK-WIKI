@@ -673,3 +673,29 @@ LIKE AND THE GUIDE STYLE HOW ITS READ"*
 - **Checked by** `check_backstory_appearance.py` (gate 53), floor 50 % of the dossier's physical
   vocabulary present in the narrative body, remainder carried as printed debt. The gate cannot tell a
   shown word from a named one; that is the reader's pass (`O-29`, `R-38`).
+
+### O-44 · A death belongs to the person who dies
+
+**The owner's instruction, 2026-10-25:** *"WHEN YOU WRITE HOW YEON-SEO DEATH DOESNT MAKE SENSE … YOU
+RUSH IT WITHOUT USING THINKING AND LOGIC AT ALL … HER DEATH IF READ DONT GIVE ANY WEIGH AS A PLOT …
+DONT YOU RESEARCH OTHER VERSE TO SEE HOW THEIR BACK STORY STRUCTURE AND LOOK AT ALL"*
+
+- **Weight is not sadness.** The draft killed her with the floor under her bench. She had no work of
+  her own in the scene, no decision, nothing she chose to spend. A death that can be moved to another
+  character is a staffing change (`R-58` A).
+- **Her death must be her discipline.** It is: canon says she was the intellectual architect of the
+  containment systems and that she sealed the breach core with her own body, shielding him. She is
+  killed by the thing she built, which is the only death worth giving an engineer.
+- **The world must be different because she lived.** Every containment standard in the building dates
+  from the year after. The fifth load test — the one she was refused four times — is granted by him and
+  destroys the wing it is run in and passes.
+- **Leave an object.** The amber sarcophagus at the roots of the Alpha Tree is canon, is the first
+  containment unit in the city, and is the one order he has never countermanded. He has been down the
+  stair four times and never as far as the door.
+- **Research other verses.** Read Project Moon's own structure before writing this kind of scene, and
+  the craft literature on character death (`R-58` § 3, § 5). L Corp's rule: the death is the origin of
+  the institution and the body is kept — a place in the facility, not an absence.
+- **Never resolve a deliberate ambiguity.** *Don't let the sorrow win* admits both readings because
+  *sorrow* names both the substance and the feeling. A later reveal of what she "actually said" is the
+  same error as explaining a joke (`R-58` E).
+- **Status: PARTIAL.** No counter exists yet; this is a reading standard (`R-58` § 7).

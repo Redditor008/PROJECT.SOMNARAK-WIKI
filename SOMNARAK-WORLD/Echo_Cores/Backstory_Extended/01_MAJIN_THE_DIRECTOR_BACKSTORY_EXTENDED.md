@@ -103,93 +103,101 @@ He went up.
 
 #### The Sample Bench
 
-The upper floor was where the samples were, which meant it was where the oldest Han in the district was, which meant it was the last place anyone sensible would go.
+The seals were hers.
 
-He was not being sensible. He was being a researcher who had spent six years learning that the readings came from there.
+He had the theory — that Han is what a place has felt, that a record of feeling can be read — and it fit on one side of a page, which was one of its attractions. She had the other half, the half with tolerances in it: every clamp in that building, every gasket rated for a pressure nobody had ever measured, every sealed cell from the sample bench down to the cold store. Six years of her handwriting in a maintenance schedule he had signed off on eleven times and read, he would later have to admit, none of them.
 
-The corridor lights had gone amber. Everything looked like the inside of the lamp.
+She had asked for the seals to be tested at load. She asked in writing, four times, in four years. The building was in use. The test would mean emptying a wing. The Council taxed her designs the way it taxed his reports: it took the money and did not read them.
 
-She was at the sample bench with her coat still on and one hand flat on the glass.
+She kept the four refusals in the bench drawer with the gauge logs.
 
-> **[Yeon-seo]** *"It is not rising. It is **arriving**."*
+So when the floor warmed, she did not have to work out what it was.
 
-> **[Majin]** **"Then leave it and come!"**
+> **[Yeon-seo]** "That is item four."
 
-> **[Yeon-seo]** *"It is arriving from underneath."*
+> **[Majin]** "What?"
+
+> **[Yeon-seo]** "On the schedule. The one I said would happen."
+
+She had the drawer open before he had crossed the room. She read her own line and said a thing he did not understand, and never afterwards asked anyone to explain, because by the time he wanted to, the only person who could have told him was in a room he had ordered built.
+
+> **[Yeon-seo]** "It is not a leak, Majin. A leak has an outside."
+
+He told her to come. She said the readings were still good, and then she stopped writing and looked at the door, which was the first time in six years he had seen her look at a door.
+
+He told her again, louder. She said — quietly, without heat, the way she said things she had already decided — that he had a building to clear and she had a seal to close, and that the second one was hers.
+
+> **[Majin]** "Then tell me how to use it."
+
+> **[Yeon-seo]** "You would have to have read the schedule."
 
 She had not turned round. That was the thing he could not make her do, in six years or in that minute: turn round.
 
-> **[Yeon-seo]** *"There is nowhere to come to."*
+> **[Yeon-seo]** "The override is behind the core. There is one handle and it takes two hands, so somebody has to hold the door."
 
-He looked at the floor and saw that she was right: the amber was in the seams of the tiles, moving upward in slow threads, the way it moved up the tubes.
+> **[Majin]** "Then I hold the door."
 
-She took her hand off the glass and put it flat on his chest instead, the way she did when she was checking whether he was listening.
+> **[Yeon-seo]** "You hold the door."
 
-> **[Yeon-seo]** "The readings are still good."
-
-> **[Majin]** **"What?"**
-
-> **[Yeon-seo]** "The bench. I wrote them down."
-
-> **[Yeon-seo]** *"If someone looks later, they will know what it did on the way in."*
-
-She was writing while she said it, which was the whole of her: she did not stop working in order to make a point.
-
-> **[Majin]** *"I don't care about the readings."*
-
-He said it quietly. He has never been able to explain, afterward, why he said that quietly.
-
-> **[Yeon-seo]** "You will. You are going to be very angry in a minute—"
-
-> **[Majin]** "—I'm not—"
-
-> **[Yeon-seo]** "—and then you are going to want a number."
-
-She was right about that too. He wanted a number for the rest of his life.
-
----
+She was lying. He worked that out about four seconds later, standing at a hatch with his hands on a wheel, watching her walk away from him down the length of a room that was already the wrong colour. She had never needed two hands. She had written the override herself and she had written it for one.
 
 #### Seventeen Minutes
 
-The evacuation record gives a figure for the clear, and the figure is a lie of arithmetic: it counts the part that worked — the stairwells that held, the teams that reached the east wing, the wards that got their people out, all of it timed and entered. It does not count the four hours before it, which were spent arguing about whether to evacuate at all. No record ever counts those.
+The seal took seventeen minutes to close. The alarm log is exact about that and about nothing else, because the instruments in the core stopped reporting at 23:24 and the log has kept the hole ever since.
 
-What Majin remembers is a sequence.
+She was inside for sixteen of them.
 
-The stairwell giving under two people.
+He was at the outer hatch when the core vented. What came out of it was not fire and not smoke; the crews that cleaned the room afterwards described a grey that did not move in any direction, and two of them were retired and one of them did not speak again. He was three metres from it. He is standing in this record.
 
-The sound the building made when it took them, which was not a collapse but a swallow.
+The distance between him and it was the width of a woman with both hands on a ring, holding it shut.
 
-Her hand on his chest, and then her hand not on his chest.
+She did not shout. He remembers that she did not shout, and he has never been sure whether that is a memory or a decision.
 
-The floor, warm, and then hot, and then something that was neither.
+The amber had been coming up the seams of the tiles the way it came up the tubes. Where it reached her it did not cover her. It set. The core stopped, the floor stopped, and the seal read closed at 23:41.
 
-And the last thing she said. The record keeps one version of it. She said another.
+They could not get her out. The amber could be cut — a crew proved it inside the first week, on a corner of the east stairwell — but every cut into that particular amber opened the seal behind it, and the gauge would climb, and the room would be cleared, and the amber would close again over the cut. It had one job and it was doing it.
 
-The record: *Don't let the sorrow win.*
+On the eleventh day he stopped asking for the cut.
 
-What she actually said, with her coat still on and her hand still out and her voice doing the thing it did when a reading was wrong:
+He gave the order to build a chamber around it instead: at the roots of the Alpha Tree, forty metres under the courtyard, where the roots come up through the rock. The chamber is a containment unit. It is the first one.
 
-> **[Yeon-seo]** "Don't let it *win*, Majin. **Don't let it be the last word.**"
+It is also the first order he ever gave that has not been countermanded.
 
-Then the amber reached the bench and the bench was not there anymore.
+The short record says only that he survived the event that killed her. The manner of his surviving appears in no document he signed. It is here because a medic wrote it down in a debrief nobody had asked him to take, and because the disclosure order opened the vault he had put that debrief in.
 
----
+The bench was not damaged. The lamp was even — she had replaced the shade — the readings were easy to take, and there was nobody left in the building who put a small tick beside an average.
 
 #### What He Took From It
+
+She said it twice.
+
+The first time she was in a doorway with her coat half on, at the end of an ordinary shift, and she said: *whatever happens, don't let the sorrow win.* He assumed she meant the experiment. He was tired, the lamp was new, and he said something back that he cannot now remember, and that was the last thing they said to each other that was not about the seal.
+
+The second time she was holding a ring shut. She said the same five words. She did not add anything to them and she did not have the breath to.
+
+*Sorrow* does two jobs in this city and always has. To the Endurers it is Han — the substance, grief with nowhere to go, the thing that eats a district when nothing is holding it. To everyone else it is the feeling. She was a structural theorist; she had spent six years telling anyone who would sit still that the two were one substance and that this was the whole point. The Council taxed that too.
+
+So the sentence is not ambiguous because she was a mystic. It is ambiguous because the language is, and because the woman who could have said which meaning she meant was inside a seal by the time he thought to ask.
 
 He has been asked, since the disclosure, why he did not hear it as comfort.
 
 The honest answer is that he was a researcher standing in a room that had just taken everything, and a researcher does not receive comfort. A researcher receives a finding.
 
-*Don't let it be the last word.* Put that in a report and it becomes a commission. Something must be written after. Something must be built. Something must be finished that she had started.
+He wrote it down that night, in a report, as *do not let it have the last word.* He has never corrected it. The paraphrase is his, and it is the only sentence of hers he has ever let himself repeat.
+
+*Don't let it win.* Put that in a report and it becomes a commission. Something must be written after. Something must be built. Something must be finished that she had started.
 
 He did not hear *do not let the grief be the only thing left.*
 
 He heard *finish this.*
 
-That only became a different sentence much later, in a cold room on Floor 6, with a brittle book open on the desk.
+And that is the error, and it is not a translation problem. She had asked him to hold something — that was her whole discipline, the reason the clamps were hers and the schedule was hers and the sentence in the doorway was *don't let it win* and not *end it.* He built an institution that was extremely good at holding things, and then spent seventeen hundred years aiming it at the one thing she had asked him to keep.
 
----
+Every containment standard in this building is dated from the year after. She had asked four times for a load test and been refused four times on the grounds that the building was in use; the fifth request was granted by the man who now owned the building, and the test he funded destroyed the wing it was run in and passed.
+
+He never put it in a report that he had done it for her. He does not write her name in reports.
+
+That only became a sentence he could say out loud much later, in a cold room on Floor 6, with a brittle book open on the desk.
 
 ### The Sovereign
 
@@ -322,7 +330,7 @@ He remembers heat, and the smell of the lamp, and the ceiling, and the sensation
 
 The transcription is his own, taken afterward, and he has never been able to finish the last word of it.
 
-He remembers thinking, with the clarity that arrives at the worst moments: *she said don't let it be the last word.*
+He remembers thinking, with the clarity that arrives at the worst moments: *don't let it win.*
 
 Then he remembers standing up.
 
@@ -1090,7 +1098,7 @@ Shared is not something you send.
 
 He sat with that in a cold office at 04:00 and understood, with the particular clarity of a man who has been wrong for a very long time and is only now being told by a stranger's handwriting, that he had been arguing with a woman who was already dead.
 
-She had said *don't let it be the last word* and he had spent seventeen hundred years making sure *he* had the last word.
+She had said *don't let it win*, and he had put it in a report as *do not let it have the last word*, and he had spent seventeen hundred years making sure the last word was his.
 
 ---
 
@@ -1318,6 +1326,8 @@ He set the pen down and looked at the page, which was a list of people rather th
 
 He closed the ledger and left it in the public archive, where anyone could open it.
 
+On the way up he passed the head of the service stair that goes down to the roots. He has been down it four times since the eleventh day. He has never gone as far as the door.
+
 ---
 
 #### Willingness
@@ -1347,7 +1357,7 @@ The marks had not faded. He had not got any younger. Only the reading had change
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | Yeon-seo | The sentence he will misread | Connective scene |
-| 2 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification | Yeon-seo | "Don't let it be the last word" | Canon-anchored |
+| 2 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification; `The_MEMORY_ARCHIVE.md` § 3.2, for the seals and the sacrifice | Yeon-seo | "Don't let the sorrow win" — said twice, once about the experiment | Canon-anchored |
 | 3 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
 | 4 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
 | 5 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
@@ -1373,7 +1383,7 @@ The marks had not faded. He had not got any younger. Only the reading had change
 | Speaker | Kind | Labels used | Bounds |
 |---|---|---|---|
 | **Majin** | Canon; POV bearer in eighteen of the nineteen scenes (the nineteenth is Insu's debrief) | `[Majin]` (128) | The whole file. Nothing is claimed as his interior that the record cannot support, and the appendix marks where it cannot. |
-| **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 and the GIEOK origin-core line | `[Yeon-seo]` (14) | Two scenes only: the sample bench, and the afternoon he remembers while holding the paper. She never appears in the loop, never speaks after the floor warms, and is never quoted saying anything the record has not already filed. |
+| **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 and the GIEOK origin-core line | `[Yeon-seo]` (14) | Three scenes: the bench, the doorway with her coat half on, and the seal. She is the author of the containment discipline the Directorate inherits and she does not survive it, and the file does not let her be a witness to her own ending — the account of the vent comes from a medic's debrief, not from her. She never appears in the loop. |
 | **Seiyon** | Canon | `[Seiyon]` (59) | The station, from Year 4,226 onward. She is in scenes where a log exists; she is absent from the catwalk, because no channel there was recorded. |
 | **Dekan** | Canon | `[Dekan]` (23) | Day 1, Day 29 (debrief and catwalk), Day 53. He never explains Majin to himself: everything he says is a report, a question, or the wall he is being used as. |
 | **Marjuk** | Canon | `[Marjuk]` (10) | Day 145 and Floor 6. He answers what is asked of the archive and volunteers no theory about the Founder. |
@@ -1396,7 +1406,7 @@ The marks had not faded. He had not got any younger. Only the reading had change
 
 | Element | First exposure | Second exposure |
 |---|---|---|
-| **The sentence** | *"Don't let it be the last word"*, spoken in a warm corridor and recorded in the file as *"Don't let the sorrow win"* | *"Something that can be told to put it down"*, read on the back of a gauge log in a cold vault |
+| **The sentence** | *"Don't let the sorrow win"*, said twice — in a doorway about the experiment, and at a seal about everything else — and recorded in his own report that night as *"do not let it have the last word"* | *"Something that can be told to put it down"*, read on the back of a gauge log in a cold vault |
 | **What he hears** | A commission: finish what she started, end the sorrow | An afternoon: a person in a room, saying an ordinary thing |
 | **What he builds from it** | A fusion, a Directorate, a stabilization field, a cannon | A public ledger of names, and a manifold that waters a district |
 | **What changes** | Nothing. The sentence is identical. | Everything. The meaning is not. |
@@ -1431,7 +1441,9 @@ The marks had not faded. He had not got any younger. Only the reading had change
 
 | Object | Where it appears | What it carries |
 |---|---|---|
-| **The sample bench** | The Sample Bench; The Afternoon; Willingness | The place where the sentence was said. She stands with one hand flat on the glass and does not turn round, and this is the detail the file keeps because it is the only thing he can still see. |
+| **The sample bench** | The Sample Bench; The Afternoon; Willingness | The place where the sentence was said. She does not turn round, and she does not stop working in order to make a point, and those are the two things he can still see. The bench itself was not damaged and is still in the building. |
+| **The failure schedule** | The Sample Bench; What He Wrote on the Back of a Gauge Log | Six years of tolerances in her hand, and four written refusals kept in the same drawer. The line she points at is item four. It is the only document in the file that predicted the catastrophe, and it was filed and taxed and unread. |
+| **The amber sarcophagus** | Seventeen Minutes; The Public Archive | What the seal made of her, at the roots of the Alpha Tree, forty metres under the courtyard. It cannot be cut without opening the seal, which is why it is still there and why the chamber around it is the first containment unit in the city. He ordered the chamber on the eleventh day. He has never ordered the cut. |
 | **The back of a gauge log** | What He Wrote on the Back of a Gauge Log; The Bench, Again; The Afternoon | A scrap kept for seventeen hundred years as a design brief. It turns out to be a note about how to work, written in her hand, in an ordinary week. |
 | **The lamp with moods** | The Sample Bench; The Manifold Room | The warm amber research lamp he never replaced in his descriptions, and the cutting torches that throw a light almost exactly its colour. |
 | **The warm floor** | The Warm Floor; Day 29 | The sensation that stands in for the whole catastrophe, and the sentence he uses on the catwalk — *the floor was warm* — as the only part of it he can hand to another person. |
@@ -1490,7 +1502,10 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 | Fact or line | Source |
 |---|---|
 | Researcher beneath the Alpha Tree on early Han studies; shared work and private life with another scientist | `THE_DIRECTOR.md` § Backstory, Origins |
-| Lover consumed in the Solidification; final instruction "Don't let the sorrow win" | `THE_DIRECTOR.md` § Backstory, The Solidification |
+| Lover killed in the Solidification; final instruction "Don't let the sorrow win" | `THE_DIRECTOR.md` § Backstory, The Solidification |
+| Yeon-seo was the intellectual architect of the original containment systems; during the breach she sacrificed her physical body to seal the breach core, shielding Majin from terminal psychic dissolution | `The_MEMORY_ARCHIVE.md` § 3.2, The Original: Yeon-seo |
+| Her body rests in an amber stasis sarcophagus at the physical roots of the Alpha Tree; the chamber is later the Memory Archive's Floor 07 | `The_MEMORY_ARCHIVE.md` §§ 3.2, 4 (Floor 07: Origin) and the GIEOK overview § 5.1 |
+| The seals, the maintenance schedule and the load-test refusals are this file's reconstruction; the codex supplies that the containment systems were hers and that she died using them | `The_MEMORY_ARCHIVE.md` § 3.2, read against `THE_DIRECTOR.md` § The Solidification, which leaves the manner of his surviving unrecorded |
 | Ω-grade M.A.W. fusion contained a Sovereign-class manifestation threatening Zone B; conventional containment had failed | `THE_DIRECTOR.md` § Backstory, The Sovereign-Class Containment |
 | Alpha Tree selected him during the Consolihan; the Council accepted; "the first command he was never allowed to refuse" | `THE_DIRECTOR.md` § Backstory, Chosen by the Alpha Tree |
 | Directorate formed around him; the other eight specialized | `THE_DIRECTOR.md` § Backstory, Formation of the R.D. |
@@ -1549,6 +1564,7 @@ This is why the record prints the name and the man does not. The facility knows 
 |---|---|---|---|
 | The Original's name | `THE_SECRETARY.md` § History, The Name: *"Seiyon" was the Original's name*; repeated at § Why Seiyon Remains the Continuing Name and § The Secret | `The_MEMORY_ARCHIVE.md` § 3.2 and the GIEOK guidebook name her **Yeon-seo**; `Reading_7` separates *Dr. Yeon-seo* from the vessel *Prototype Seiyon-00*, and numbers the AI as *the seventeenth iteration* | The codex naming and the numbering govern. Her name is Yeon-seo; *Seiyon* is the vessel line's designation. The three dossier lines are corrected at source. |
 | Dating the Solidification | `THE_DIRECTOR.md`: his lover died in the Solidification; he is 126 during the final Cycle | `PROJECT_SOMNARAK.md` § Timeline: the Solidification that grew the Alpha Tree is dated 234–245 | **Resolved by class, not by date.** A man of 126 cannot have stood in Year 245. The founding Solidification and his are two freezings of the same substance, four thousand years apart; the dossier now says so in § The Solidification. **The year of his loss remains unstated** and no file supplies one. |
+| The name and number of the event | `THE_DIRECTOR.md` § The Solidification: the class is the Solidification; the record supplies no year | `The_MEMORY_ARCHIVE.md`: *First Cell Breach, Cycle 0001* — *"Yeon-seo mortally wounded"* | **The class, the act and the object are taken; the date and cycle number are not.** The file calls it a Solidification because the substance froze into structure, and shows that the structure is her — the class of catastrophe and her death are the same event. Whether that event is *Cycle 0001* depends on a cycle count this era does not use, so no number is asserted. **The year remains unstated.** |
 | Meaning of "Consolihan" | `PROJECT_SOMNARAK.md`: the Third War, Years 234–245 | `SOMNARAK_CHEONGULA.md` § IV: the annual mourning rite after the Cheongula | Both treated as real. The selection scene uses the annual rite and labels it. |
 | Order of selection and fusion | `THE_DIRECTOR.md`: loss → fusion → selection during the Consolihan | `The_REVERIE_DIRECTORATE.md`: selection during the Consolihan; "the M.A.W. fusion happened later" | Dossier order followed; codex reversal recorded, not averaged. |
 | Director's appearance | `THE_DIRECTOR.md`: deep blue eyes; three hooked scars on the upper left; black veins to the wrist and a scythe-shaped mark | Absolvohan Part 1: pale grey eyes; black alloy at temple and cheek; neural cables | **Dossier governs, and is now shown.** The veins, the wrist mark and the three lines are dramatized as they form, in The Fusing, and return in the Consolihan, the manifold room and the ledger. The Part 1 alloy, grey eyes and cables are not used. |

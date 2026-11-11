@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 217.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 218.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -457,12 +457,13 @@ The permanent law, each with your words where they survive verbatim. Full text i
 | **O-41** | A file is read once, in order — anchors follow the reader's walk, a skipped scene gets written, and a 1,778-iteration life is not four thousand years | 215 | STANDING |
 | **O-42** | The backstory is a story — a person in it, cause shown not named, every proper term glossed, and the last beat belongs to the man the reader met in the Profile | 216 | DONE |
 | **O-43** | Build the extended file from the dossier — read the dossier first, § Appearance is a writing brief, the appendix is not the story, L Corp for the look and the guide for the reading | 217 | DONE |
+| **O-44** | A death belongs to the person who dies — caused by their own discipline, leaving an object and a changed world; research other verse before writing one; never resolve a deliberate ambiguity | 218 | PARTIAL |
 
 ---
 
 # Part III — The rule index
 
-Every command that became law has a file. **57 rules**, `R-01`–`R-57`.
+Every command that became law has a file. **58 rules**, `R-01`–`R-58`.
 
 `R-01` no edit-meta · `R-02` growth-only · `R-03` no label decoration · `R-04` bespoke per entity ·
 `R-05` no threshold gaming · `R-06` the threshold is the counter · `R-07` percentage where no
@@ -483,7 +484,7 @@ session** · `R-45` write every section to its contract · **`R-46` the Tale has
 **`R-47` a relic charges by the second** · **`R-48` the charge** · **`R-49` a work can cost, cost
 nothing, or give** · **`R-50` some holdings have one thing they do** · **`R-51` a table row
 answers one question** · **`R-52` a command ends in a file** · **`R-53` a number names one gate** · **`R-54` the appearance is a
-category and a way of writing** · **`R-55` a file is read once, in order** · **`R-56` the backstory is a story** · **`R-57` build the extended file from the dossier**.
+category and a way of writing** · **`R-55` a file is read once, in order** · **`R-56` the backstory is a story** · **`R-57` build the extended file from the dossier** · **`R-58` a death belongs to the person who dies**.
 
 *(Bold = the thirteen reform laws of batches 193–216.)*
 
@@ -512,6 +513,7 @@ category and a way of writing** · **`R-55` a file is read once, in order** · *
 | **The appearance** | 214 | the category read off the section instead of the column; 301 of 301 resolve; prose accepted as a shape; interpretation told from correspondence |
 | **The reading** | 215 | the owner read the backstories as a reader; Majin's break found and fixed; the missing climax written; a file now has to be read in the order it states |
 | **The person** | 216 | Majin's own page rebuilt: a 365-word classification replaced by a life story, the mishearing given a mechanism, and the present explained by the past |
+| **The death** | 218 | Yeon-seo's death rebuilt as the sacrifice canon already had: her own discipline kills her, the seal she wrote is the object she leaves, and the containment standard of the whole city dates from the year after |
 | **The dossier read first** | 217 | the extended file built from the dossier instead of beside it: the fusion given a body, the loss a place, the arithmetic a closure, and a gate that measures appearance in the narrative body only |
 
 ---
