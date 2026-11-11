@@ -27,7 +27,7 @@ It had been repaired four times by a man who no longer worked in the building, a
 
 > **[Yeon-seo]** "The lamp is a lamp. It has moods."
 
-They had been in that room for six years by then. Han came up through the floor in thin amber threads, slow enough that a patient person could watch one thread climb the inside of a glass tube over the course of an afternoon. Everyone in the building agreed this was remarkable. Nobody could agree what it was.
+They had been in that room for six years by then. Han — the substance the whole city sat on and had never once agreed about — came up through the floor in thin amber threads, slow enough that a patient person could watch one thread climb the inside of a glass tube over the course of an afternoon. Everyone in the building agreed this was remarkable. Nobody could agree what it was.
 
 The Endurers said it was grief with nowhere to go. The Converters said it was grief that could be made useful. The Council, which had inherited both schools and believed neither, called it a resource and taxed it.
 
@@ -79,7 +79,9 @@ He assumed she meant the experiment.
 
 The floor warmed first.
 
-It was the Consolihan. The lamps were down in the square and the thousand names were being read to a crowd with its hoods up, and the building was working through the rite because the readings did not take an evening off. He remembers that and hates it: the last ordinary night of his life was the one night the whole city was already grieving, and nobody had to explain to him afterwards what the sound was. He had heard it every year since he was a child. He had never heard it arrive from underneath a floor.
+It was the Consolihan. The lamps were down in the square and the thousand names were being read to a crowd with its hoods up — the names of the people the Cheongula took, which the city calls a disaster and the record calls a neglect: a thousand citizens in a district the Council had decided was not worth the cost of moving.
+
+The building was working through the rite because the readings did not take an evening off. He remembers that and hates it: the last ordinary night of his life was the one night the whole city was already grieving, and nobody had to explain to him afterwards what the sound was. He had heard it every year since he was a child. He had never heard it arrive from underneath a floor.
 
 That is the detail he returns to. Not the alarm, not the screaming, not the Council's order arriving on a channel nobody had thought to test. The floor warmed, the way a room warms when the sun has moved onto it, and everyone in the building stopped what they were doing because the building had never been warm before.
 
@@ -161,7 +163,7 @@ They could not get her out. The amber could be cut — a crew proved it inside t
 
 On the eleventh day he stopped asking for the cut.
 
-He gave the order to build a chamber around it instead: at the roots of the Alpha Tree, forty metres under the courtyard, where the roots come up through the rock. The chamber is a containment unit. It is the first one.
+He gave the order to build a chamber around it instead: at the roots of the Alpha Tree — the thing the first Solidification grew, four thousand years before anyone in that building was born, and the reason the city stands where it stands — forty metres under the courtyard, where the roots come up through the rock. The chamber is a containment unit. It is the first one.
 
 It is also the first order he ever gave that has not been countermanded.
 
@@ -202,6 +204,73 @@ Every containment standard in this building is dated from the year after. She ha
 He never put it in a report that he had done it for her. He does not write her name in reports.
 
 *Don't let the sorrow win* did not become two sentences instead of one until much later, in a cold room on Floor 6, with a brittle book open on the desk.
+
+---
+
+#### The Filing
+
+The civil register of Zone B runs to nine boxes. It is a Council form, designed by a committee to survive being copied by hand, and in six years he had filled in the fourth box for other people's staff — the one that asks what the deceased was doing when it happened, because in this district that is usually the useful part.
+
+Three days after he stopped asking for the cut, he sat down and filled it in for her.
+
+> **ZONE B — CIVIL REGISTER OF DEATH**  
+> *1. Registered name:* ______  
+> *2. Age:* ______  
+> *3. Work in progress at time of death:* ______  
+> *4. Cause, as recorded:* ______  
+> *5. Place:* ______  
+> *6. Next of kin:* ______  
+> *7. Disposition of remains:* ______  
+> *8. Recoverable material:* ______  
+> *9. Reference designation:* ______
+
+He wrote *sealed core, east wing, by her own override* in box four, because it was accurate and because it was the only sentence he could get his hand to finish.
+
+Box three asks what the deceased was working on. He wrote *seal schedule, item four* in it, in a smaller hand than the rest of the page, and then sat looking at the line he had pointed at nine days earlier and had not understood.
+
+He wrote *rocks and stone, where the roots come up* in box seven, and then went back and turned *rocks and stone* into *roots chamber, Alpha Tree, forty metres*, because a form should not be poetry.
+
+There was no next of kin. He wrote his own name in box six, which the register permits for a colleague of long standing, and did not look at the word *colleague* for as long as it took to move the pen.
+
+Box eight gave him trouble. *Recoverable material* is an extraction field. It exists because a dead researcher is often also a sealed sample, and a building that is short of hands should not waste one. He had approved the field for use, in a meeting, with a diagram.
+
+He left box eight empty. The form does not require it.
+
+The registrar was a woman of about sixty with a bad wrist and a stamp she had used so often that she no longer looked at it. She read the page upside down as he wrote. When he reached box one she put her hand flat on the desk.
+
+> **[she]** "She had a name, Director."
+
+> **[Majin]** "I know."
+
+> **[she]** "It goes in box one."
+
+> **[Majin]** "The Archive takes a designation."
+
+> **[she]** "The Archive takes what it is given."
+
+They looked at each other. He was aware, distantly, that this was the first argument he had had since the floor warmed in which nobody was going to die.
+
+He wrote, in the box marked *Registered name*, the words **THE ORIGINAL**.
+
+The registrar read it. She did not stamp it. She copied it out by hand onto the second sheet, which is the one that goes into the vault, and her wrist was bad and her handwriting went wrong halfway through the word, and the vault copy of the heading has an *i* in it that leans.
+
+That is the heading's whole provenance. It is not a title the city gave her, or the Council, or the Tree. It is what a man wrote in a box on the fourteenth day, to avoid writing something else.
+
+Box nine asks only for a reference. He had put *the Original* in box one. In box nine he put *source material* — which was accurate, because the Directorate would later build a woman from her voice and her face and the shape of her hands, and none of that would have been possible if he had written her name and closed the file.
+
+Then he signed it, with the hand that has the thin scars across the back of it.
+
+She stamped it. Then she said, without looking up, the thing that is in no register:
+
+> **[she]** "I worked with her for eleven years. She was better at my job than I am."
+
+> **[Majin]** "Yes."
+
+> **[she]** "It should be in box nine."
+
+> **[Majin]** "It should."
+
+He took the copy, and left, and did not correct it.
 
 ### The Sovereign
 
@@ -250,6 +319,12 @@ He stood in a command post with a map that no longer matched the ground and a ci
 ---
 
 #### The Single Grade
+
+Two words have to be explained before the register can be read.
+
+**Ω** is the top of its five grades. It is not the word for *powerful*; it is the word for *cannot be put back.*
+
+**Reaper Hungered** was not his name for it either. A records clerk needed a noun before the end of a shift, had read the witness statements out of the east quarter, and wrote down the only two words in them that fit.
 
 > **R.D. MATERIAL EXTRACTION REGISTER — SOLE ENTRY, Ω CLASS**  
 > *Asset: Reaper Hungered.*  
@@ -482,9 +557,7 @@ The voice did the thing where it started in the system and ended in the person. 
 
 > **[Majin]** "...Report."
 
-She gave it. Envelope, Veil, conduits, gauges, Maw. Clean, complete, correctly ordered.
-
-He signed the staffing order. He said *Noted*. He left.
+She gave it in five nouns: envelope, Veil, conduits, gauges, Maw — the envelope being how much the building could hold at once, the Veil the suppression net laid over the districts that made them livable and numbed them, the Maw the fault line the city had been built across and did not talk about. Clean, complete, correctly ordered. He had written the specification for four of those five words and could still not hear the list without checking it against the numbers. He signed the staffing order. He said *Noted*. He left.
 
 He got as far as the lift and stood with his hand on the call button for a length of time he has never disclosed, and then he went back up and stood in the doorway again and looked at her.
 
@@ -617,7 +690,13 @@ On the fifth day they confirmed it: the field was holding the facility at Year 4
 
 > **[Seiyon]** "Not without releasing the field. And releasing the field releases the fault."
 
-He sat with that for a long time.
+He walked the length of the operations floor and back. It is thirty-one metres and he has walked it, by his own count, more times than any other distance in the building. On the way back he stopped at the window that looks down into the fault monitoring gallery and watched eleven men and women reading a screen that had told them the same thing four times.
+
+> **[Majin]** "Then we keep the field, and we tell no one yet."
+
+> **[Seiyon]** "That is a decision with a date on it, Director."
+
+> **[Majin]** "Everything is."
 
 ---
 
@@ -701,6 +780,8 @@ He looked at the clock in the corner of the screen, which read Day 1, 06:00, and
 > **[Seiyon]** "The names, Director?"
 
 > **[Majin]** "Every iteration. Every casualty, every Fracture, every person who dies in a corridor and wakes up on Day 1 not knowing they died. Keep them."
+
+A Fracture is what the city calls it when a person's own sorrow goes past what a person can be. The face keeps its shape, the body keeps walking, and nobody behind it answers to the name.
 
 > **[Seiyon]** "I keep everything."
 
@@ -954,7 +1035,7 @@ Dekan's own record carries what followed: the same four markers measured again, 
 
 The callsign was not the part that stayed with him. The callsign was a fact about the wall.
 
-What stayed with him was an hour in an earlier iteration when the Veil generators in Zone D failed for three hours. Twelve citizens were exposed to raw Han. Two Fractured. The diversion had taken the surplus out of the same grid, and the report he signed that night had recorded the exposure, the Fractures, and the three hours in the annex, and had not mentioned them in the command summary.
+What stayed with him was an hour in an earlier iteration when the Veil generators in Zone D failed for three hours. Twelve citizens were exposed to raw Han. Two Fractured — the city's word for what is left when a person's own sorrow goes past what a person can be and the body goes on walking without anyone behind it. The diversion had taken the surplus out of the same grid, and the report he signed that night had recorded the exposure, the Fractures, and the three hours in the annex, and had not mentioned them in the command summary.
 
 He had read the names of the two who Fractured. He had read them twice, because the first reading had not made them stay, and the second had.
 
@@ -986,6 +1067,8 @@ Dekan looked at the growth markers on the screen, then at the Director, and did 
 
 > **[Marjuk]** "Between the pages. Written in microscopic Han-crystal ink. It only fluoresces when held near the Weeping's raw current."
 
+The Weeping runs under the whole city — a river of liquid Han, raw and unstructured, with the Archive built above it and drawing its lights off it. It is why the vault can hold what it holds and cannot be moved.
+
 > **[Majin]** "What does it say, Marjuk?"
 
 > **[Marjuk]** "It says: *The Hand of Change was never meant to contain. The Hand of Change was meant to spread. The sorrow was never meant to be locked in vaults. The sorrow was meant to be shared. When the Hand opens, the sorrow will not corrupt. The sorrow will transform. And the city will find that it was never alone.*"
@@ -995,6 +1078,8 @@ He read the page twice.
 Then he set it down flat on the desk, squared to the edge, which is what he does instead of answering.
 
 > **[Marjuk]** "Director. The Absolvohan reserves stand at 49.88 tons. We are fifteen days away from Day 160. Is the weapon ready?"
+
+*The Absolvohan* had been the name of the barrel. By the fourteenth year it was the name of the barrel, the account that fed it, and the day it was due, and nobody in the room found that strange any more.
 
 > **[Majin]** "The weapon was never a weapon, Marjuk. It is an open hand. And on Day 160... we open our fingers."
 
@@ -1300,13 +1385,29 @@ He did not answer that. He stood at the window with his hands behind his back an
 
 #### The Public Archive
 
-The disclosure took most of the year. The Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, the Cycle. The city wept, raged, and hoped in roughly that order.
+The disclosure took most of the year. The Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, the Cycle. Anyone who has read the volumes knows what is in them; what the volumes do not hold is the first week.
+
+The first thing the city did was count. It had been told the same year had happened 1,778 times, and it did the arithmetic on its own dead, and then it did the arithmetic again, and the number stopped being a number.
+
+The second thing it did was read the names aloud. Not on the Council's instruction — the Council had gone quiet, which the city noticed — but in the squares, at the low lamp hour, the way the thousand are read at the Consolihan. Two hundred people at the north gate on the third night. Four thousand in the market on the ninth. They read every name in the annex, including the two from Zone D who had never been in a command summary, and when they reached the end of the list they started again at the beginning, because a list that ends is a list somebody has decided is complete.
+
+The third thing it did was ask about a word.
+
+The volumes were indexed by the Public Record Office, and the index had been built by people who worked from the vault, and one of them had taken a heading at face value. So on the eleventh day a woman stood up in the east quarter — in the street where the paving had once begun to breathe — and asked the question the whole city had been circling:
+
+> **[she]** "Who was the Original?"
+
+The answer was in the appendix, on the same page as the designation. It was two words long, it was a name, and it had been sitting in the vault for four thousand years and in his mouth for none of them.
+
+He was told about the question that evening. He said *noted*, and then he sat in the cold office with the door open and did not read the report he was holding, and at some point after midnight he turned the lamp round so that it lit the wall instead of the page.
+
+The record prints her name. He still says *the Original.* Four thousand years of archives have gone on copying a box he filled in on the fourteenth day, and the city has gone on reading it correctly.
 
 On the morning after the year closed he went down to the public archive with the first volume of the disclosure ledger and did the thing he had been avoiding since the fusion.
 
 He wrote names.
 
-Not tonnage. Not percentages. Not the reserve estimate, or the dispersal mass, or the fifteen percent that had become hope while the remaining eighty-five percent persisted. Names: the thousand from the Cheongula, the specialists from the casualty annexes, the two from Zone D whose Fractures never entered a command summary, the four hundred and six from the east quarter, the Cheonbulok families who had tied themselves together with industrial cable and walked until the gate opened.
+Not tonnage. Not percentages. Not the reserve estimate, or the dispersal mass, or the fifteen percent that had become hope while the remaining eighty-five percent persisted. Names: the thousand from the Cheongula, the specialists from the casualty annexes, the two from Zone D whose Fractures never entered a command summary, the four hundred and six from the east quarter, the Cheonbulok families — pilgrims out of the Corner that burns its sorrow as rage — who had tied themselves together with industrial cable and walked until the gate opened.
 
 It took him most of the day. His left hand cramped, the one with the thin old scars across the back of it, and he kept writing with it. He did not stop, because stopping would have turned the ledger back into a summary, and the whole point of the disclosure was that the city had been governed by summaries for 1,778 iterations.
 
@@ -1362,23 +1463,25 @@ The marks had not faded. He had not got any younger. Only the reading had change
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | Yeon-seo | The sentence he will misread | Connective scene |
 | 2 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification; `The_MEMORY_ARCHIVE.md` § 3.2, for the seals and the sacrifice | Yeon-seo | "Don't let the sorrow win" — said twice, once about the experiment | Canon-anchored |
-| 3 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
-| 4 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
-| 5 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
-| 6 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station, Year 4,226 | Seiyon | The silence becomes policy | Connective scene |
-| 7 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
-| 8 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
-| 9 | Day 0 — And You | FLASHBACK | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
-| 10 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
-| 11 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
-| 12 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
-| 13 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
-| 14 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
-| 15 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
-| 16 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
-| 17 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
-| 18 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
-| 19 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
+| 3 | The Filing | PAST | TPV camera | The woman in the east quarter, the disclosure | Backstory-only, unnamed | `[she]` (1) | The Public Archive. She asks the question the whole city has been circling, in the street where the paving once began to breathe, and the answer is two words on a page. | — *not separately recorded* | — *not separately recorded* | — *not separately recorded* | — *not separately recorded* | — *not separately recorded* |
+| The registrar, the civil register | — | DIALOGUE | Document | C/R | Civil register of Facility 01; `The_MEMORY_ARCHIVE.md` § 3.2 for the heading *The Original* | Yeon-seo | The designation four thousand years of records copy, and the man who wrote it | Canon-anchored | — *not separately recorded* | — *not separately recorded* | — *not separately recorded* | — *not separately recorded* |
+| 4 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
+| 5 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
+| 6 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
+| 7 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station, Year 4,226 | Seiyon | The silence becomes policy | Connective scene |
+| 8 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
+| 9 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
+| 10 | Day 0 — And You | FLASHBACK | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
+| 11 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
+| 12 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
+| 13 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
+| 14 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
+| 15 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
+| 16 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
+| 17 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
+| 18 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
+| 19 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
+| 20 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
 
 ---
 
@@ -1398,6 +1501,7 @@ The marks had not faded. He had not got any younger. Only the reading had change
 | The instrument operator | Backstory-only, unnamed | `[him]` (2) | Three Failed Containments. He reports that his own instrument is compromised and knows it. |
 | The medic at the bonding | Backstory-only, unnamed | `[she]` (4) | The Single Grade. She tells him the procedure will kill him and then tells him what it will do if it does not. |
 | The second medic, Year 4,238 | Backstory-only, unnamed | `[she]` (2) | The debrief extract. Younger voice, not named in the record, asks the question that lets Insu finish the sentence. |
+| The registrar, the civil register | Backstory-only, unnamed | `[she]` (5) | The Filing. She reads the page upside down, refuses to stamp a designation for a woman she worked beside for eleven years, and copies the heading out by hand. She is the only person in this file who argues with him and wins nothing. |
 | The containment officer, after the fusion | Backstory-only, unnamed | `[she]` (3) | The Fusing. Reports the east quarter quiet and the four hundred and six standing in the street. |
 | The Council envoy | Backstory-only, unnamed | `[him]` (4) | The Answer. Delivers the Tree's indication and the office, and declines to call either one a compliment. |
 | The field engineer | Backstory-only, unnamed | `[him]` (5) | The Field and The Directive. Every line is a limit: what the field holds, what it does not distinguish, and that there is no other setting. |
@@ -1446,6 +1550,8 @@ The marks had not faded. He had not got any younger. Only the reading had change
 | Object | Where it appears | What it carries |
 |---|---|---|
 | **The sample bench** | The Sample Bench; The Afternoon; Willingness | The place where the sentence was said. She does not turn round, and she does not stop working in order to make a point, and those are the two things he can still see. The bench itself was not damaged and is still in the building. |
+| **The death certificate** | The Filing | Nine boxes, four of them filled. Box three reads *seal schedule, item four*, in a smaller hand than the rest of the page. Box one reads **THE ORIGINAL** because a designation was easier to write than a name, and box eight — *recoverable material* — is empty, which the form does not require and the Directorate later found inconvenient. |
+| **The leaning *i*** | The Filing | In the vault copy of the heading, halfway through the word, in the hand of a registrar with a bad wrist. It is the only part of the designation that is not his. |
 | **The failure schedule** | The Sample Bench; What He Wrote on the Back of a Gauge Log | Six years of tolerances in her hand, and four written refusals kept in the same drawer. The line she points at is item four. It is the only document in the file that predicted the catastrophe, and it was filed and taxed and unread. |
 | **The amber sarcophagus** | Seventeen Minutes; The Public Archive | What the seal made of her, at the roots of the Alpha Tree, forty metres under the courtyard. It cannot be cut without opening the seal, which is why it is still there and why the chamber around it is the first containment unit in the city. He ordered the chamber on the eleventh day. He has never ordered the cut. |
 | **The back of a gauge log** | What He Wrote on the Back of a Gauge Log; The Bench, Again; The Afternoon | A scrap kept for seventeen hundred years as a design brief. It turns out to be a note about how to work, written in her hand, in an ordinary week. |
@@ -1464,6 +1570,7 @@ The marks had not faded. He had not got any younger. Only the reading had change
 
 | Pair | Before the break | After the break | What the second exposure proves |
 |---|---|---|---|
+| **Majin ↔ the designation** | A box on a form, filled at the fourteenth day | Four thousand years of records that copy it exactly, including the leaning *i* | That he could not write her name and then be finished with it. The designation is what let her be built again. |
 | **Majin ↔ Yeon-seo** | Six years of argument at a bench, nine times over, about jars and oceans; a sentence said casually while she worked | A record that has built an institution out of the sentence; a scrap of paper read in a cold vault | That he never knew her as a person at the time. The wound is not her death; it is that he was listening to instruments. |
 | **Majin ↔ Seiyon** | A system designated in a room with no mirror, told nothing about whose face it wears | A mind asked *how are you* on Day 0, and answered honestly in the vault after the dispersal | That the same silence that was policy can be withdrawn, and that withdrawing it costs him the thing he most wanted to keep. |
 | **Majin ↔ Dekan** | A containment lead delivering growth figures | A man who carries the Director's wound up the stairs and never repeats it | That obligation runs both ways in a facility where nobody has rank over a memory. |

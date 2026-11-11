@@ -1,5 +1,65 @@
 # Work In Progress
 
+## Batch 219 — clearer, and not plain (2026-10-25)
+
+### 1. What you asked
+
+*"DO MORE AND ALSO MAKE EVERYTHING MORE CLEARER AND UNDERSTANDABLE AND MORE DRAMATIC AND EMOTIONAL NOT
+PLAIN, GENERIC AND STALE"*
+
+Two different defects, so two different rules.
+
+### 2. Clearer — thirteen words were live with no explanation
+
+The clearest single example in the file was this line, in the Secretary's first report:
+
+> *"She gave it. Envelope, Veil, conduits, gauges, Maw."*
+
+Four of those five words name a system in a city the reader has not been shown. The file explained the
+**Consolihan twice**, in two different scenes, and the **Veil** never. Everything else on the list was
+the same: **Cheongula** first appeared as a place a man's sister died in, **Cheonbulok** as families with
+a cable, **Ω** as a letter in a header, **Reaper Hungered** as an asset with no account of its name.
+
+All thirteen are now glossed where the reader first meets them, in one clause, in the voice of the file:
+
+| term | the gloss |
+|---|---|
+| **Han** | *the substance the whole city sat on and had never once agreed about* |
+| **the Cheongula** | *the names of the people the Cheongula took, which the city calls a disaster and the record calls a neglect: a thousand citizens in a district the Council had decided was not worth the cost of moving* |
+| **the Veil · envelope · the Maw** | glossed in the same breath as her report: the suppression net, the figure for what the building can hold, the fault line the city was built across |
+| **a Fracture** | *what is left when a person's own sorrow goes past what a person can be and the body goes on walking without anyone behind it* |
+| **Ω** | *the top of its five grades. It is not the word for* powerful*; it is the word for* cannot be put back |
+| **Reaper Hungered** | *a records clerk needed a noun before the end of a shift, and wrote down the only two words in the witness statements that fit* |
+| **the Alpha Tree** | *the thing the first Solidification grew, four thousand years before anyone in that building was born* |
+| **the Weeping · the Absolvohan · Cheonbulok** | the river of liquid Han under the Archive; the barrel, the account and the day; the Corner that burns its sorrow as rage |
+
+Measured: **`01_MAJIN` 0 cold of 13.** The other eight files carry **34 cold terms** between them and
+that number is printed on every build.
+
+### 3. Not plain — the biggest beats were summaries
+
+| what was there | what it is now |
+|---|---|
+| *"The city wept, raged, and hoped in roughly that order."* — the entire disclosure of 1,778 iterations, in one tricolon | **Three movements.** The city counts, then does the arithmetic again and the number stops being a number. The city reads the names aloud in the squares — two hundred at the north gate on the third night, four thousand in the market on the ninth — and starts again at the beginning, because a list that ends is a list somebody has decided is complete. Then a woman stands up in the east quarter and asks who the Original was. |
+| *"He sat with that for a long time."* — the moment he learns the field can never be released | A walk of thirty-one metres, a window over the fault gallery, eleven people reading a screen that has told them the same thing four times, and *"that is a decision with a date on it, Director."* |
+| **Her designation was an appendix row.** The coldest thing he ever does — filing the woman he loved as *the Original* — was explained in a table and never written. | **The Filing.** Nine boxes on the Zone B civil register. Box three: *seal schedule, item four*, in a smaller hand. Box six: his own name, and he does not look at the word *colleague*. Box eight, *recoverable material*: left empty, and the form does not require it. A registrar with a bad wrist refuses to stamp a designation for a woman she worked beside for eleven years, copies it by hand instead, and the vault copy has a leaning *i* in it. |
+
+### 4. The test the rules are written against
+
+**The generic sentence is the one that would survive being moved to another book.** *The city wept,
+raged, and hoped in roughly that order* would survive. *A woman stood up in the east quarter and asked
+who the Original was* would not.
+
+And emotion is never a label. Nobody is said to feel anything. He turns the lamp round so that it lights
+the wall instead of the page.
+
+### 5. Filed
+
+`R-59` (gate 54 — a proper noun is not a password) and `R-60` (the turning point is a scene, **no
+counter**, and it says so). **60 rules · 45 orders · 54 gates · 33 standards.**
+
+---
+
 ## Batch 218 — a death belongs to the person who dies (2026-10-25)
 
 ### 1. What you asked

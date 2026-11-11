@@ -2,6 +2,27 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — clearer, and not plain
+
+**Majin's extended backstory now explains its own vocabulary, and stops summarizing the two beats it
+turned on.**
+
+- **Thirteen corpus terms were live with no explanation** — the Veil, the Cheongula, a Fracture, Ω,
+  *Reaper Hungered*, the Alpha Tree, Cheonbulok, the Weeping. All thirteen are glossed where the reader
+  first meets them, in one clause, in the voice of the file. Measured by new gate 54: **0 cold of 13.**
+- **The disclosure is a scene now.** It used to be *"The city wept, raged, and hoped in roughly that
+  order."* It is now three movements: the city counts, the city reads the names aloud in the squares and
+  starts again at the beginning, and a woman in the east quarter asks who *the Original* was.
+- **The Filing — new scene.** Her death certificate, nine boxes on the Zone B civil register. Box three
+  reads *seal schedule, item four*, in a smaller hand. Box eight is left empty. Box one reads **THE
+  ORIGINAL**, and a registrar with a bad wrist copies it by hand, and the vault copy has a leaning *i*
+  in it that four thousand years of records have gone on reproducing.
+- **The lamp turned round.** Nobody in the file is said to feel anything; the grief is what he does —
+  lighting the wall instead of the page, after the city asks her name.
+- **New rule `R-59` and gate 54** (a proper noun is not a password); **new rule `R-60`** (the turning
+  point is a scene — no counter, and it says so). The other eight extended files carry 34 cold terms as
+  printed debt.
+
 ## Unreleased — a death belongs to the person who dies
 
 **Yeon-seo's death was written as an accident that happened near her. It is now the sacrifice canon

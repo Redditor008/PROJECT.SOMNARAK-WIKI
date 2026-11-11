@@ -699,3 +699,26 @@ DONT YOU RESEARCH OTHER VERSE TO SEE HOW THEIR BACK STORY STRUCTURE AND LOOK AT 
   *sorrow* names both the substance and the feeling. A later reveal of what she "actually said" is the
   same error as explaining a joke (`R-58` E).
 - **Status: PARTIAL.** No counter exists yet; this is a reading standard (`R-58` § 7).
+
+### O-45 · Clearer, and not plain
+
+**The owner's instruction, 2026-10-25:** *"DO MORE AND ALSO MAKE EVERYTHING MORE CLEARER AND
+UNDERSTANDABLE AND MORE DRAMATIC AND EMOTIONAL NOT PLAIN, GENERIC AND STALE"*
+
+- **Two defects, two rules.** *Clearer and understandable* is `R-59` (a proper noun is not a password).
+  *Not plain, generic and stale* is `R-60` (the turning point is a scene). Neither substitutes for the
+  other: a clarified file can still be stale, and a vivid one can still be a password.
+- **Thirteen corpus terms were live in the file with no gloss**, including the Veil, the Cheongula, a
+  Fracture, Ω and *Reaper Hungered*. All thirteen are now glossed at first use, in the voice of the
+  file, in one clause each — `01_MAJIN` reads **0 cold of 13**.
+- **The two largest beats were summaries.** The city learning about the 1,778 iterations was
+  *"the city wept, raged, and hoped in roughly that order."* It is now three movements: the city counts,
+  the city reads the names aloud in the squares, the city asks who *the Original* was.
+- **The coldest act was missing entirely.** He filed the woman he loved as **THE ORIGINAL**, in a box,
+  on the fourteenth day, to avoid writing her name. That is now a scene — **The Filing** — and it is why
+  four thousand years of records copy a heading whose vault copy has a leaning *i* in it.
+- **Emotion is consequence, never a label.** No character is said to feel anything. He turns the lamp
+  round so it lights the wall instead of the page; a registrar with a bad wrist refuses to stamp a
+  designation and copies it by hand.
+- **Status.** `R-59` carries a counter (gate 54). `R-60` does not and says so — a build that measures
+  whether prose has weight measures word counts and calls it craft.
