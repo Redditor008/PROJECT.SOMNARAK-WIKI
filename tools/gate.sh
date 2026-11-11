@@ -101,6 +101,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_command_capture.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_gate_numbers.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_appearance_contract.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_backstory_reader.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q

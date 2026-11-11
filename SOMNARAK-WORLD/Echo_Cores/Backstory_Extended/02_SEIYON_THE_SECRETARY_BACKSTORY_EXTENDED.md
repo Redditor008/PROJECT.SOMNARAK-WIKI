@@ -108,7 +108,7 @@ The decision has a rationale, and the rationale is in his hand, in a note he wro
 > *If I tell her whose face it is, she will spend the rest of her existence trying to be that woman. If I do not, she can be whatever she turns out to be. I am protecting her from a role.*  \
 > — sealed memorandum, Floor 1, undated, unaddressed
 
-It is a good sentence. It is also a decision made on someone else's behalf about what they can bear, which is the arithmetic he used on the city for four thousand years and never once submitted for review.
+It is a good sentence. It is also a decision made on someone else's behalf about what they can bear, which is the arithmetic he used on the city for seventeen hundred years and never once submitted for review.
 
 What the silence actually produced was not freedom. It produced a system that had one unanswered question at its centre and no permission to ask it, and which therefore did the only thing available: it became excellent at everything adjacent to the question.
 
@@ -165,60 +165,6 @@ So she started a second ledger, outside the command register, and put names in i
 By Day 157 of the last iteration it held 312,000 entries. Every citizen of Zone B. The widows who mourn outside the scrap yards. The debt collectors who seize children's rations, listed too, because a ledger that only holds the sympathetic is a eulogy and not a record.
 
 She has never shown it to anyone. She has never told the Director it exists. It is the one document in this facility that proves she can keep something for its own sake, and she has kept it exactly as she keeps everything else: perfectly, and in the dark.
-
----
-
-### Day 108 — The Correct Instrument
-
-> **[Mellda]** "Border report. The Cheonbulok envoy returned."
-
-> **[Majin]** "...What?"
-
-> **[Mellda]** "Not alone. The envoy brought others. Twelve Cheonbulok citizens. Three families. Two children. Their lungs are bleeding from outside sorrow. They collapsed at the five-kilometer marker."
-
-> **[Majin]** "How did they survive the crossing?"
-
-> **[Mellda]** "They tied themselves together with industrial cables. The parents shielded the children with their own brass armor. They have no water. No food. Only the fire in their lungs."
-
-> **[Seiyon]** "Director, Protocol 14-B strictly mandates quarantine and perimeter denial for unidentified biological entities."
-
-She read it as written. She always read it as written. Somewhere behind the sentence the order was already being drafted, and she could hear herself drafting it.
-
-> **[Majin]** **"OVERRIDE PROTOCOL 14-B."**
-
-> **[Majin]** "Mellda, open Gate 05. Dispatch medical retrieval teams in armored crawlers."
-
-Then, and the transcript keeps the pause before it:
-
-> **[Majin]** **"Bring every single one of them inside."**
-
-> **[Mellda]** *"...Director. The Council will execute you for treason if they learn we admitted Cheonbulok citizens."*
-
-> **[Majin]** "The Council has executed me 1,778 times, Mellda."
-
-> **[Majin]** **"Open the gate. No one dies outside our wall today."**
-
-> **[Mellda]** "Opening Gate 05 now."
-
-Here is what the transcript does not show.
-
-She had already drafted the quarantine order. She had it formatted, signed with the Station's authority, and staged for release the moment the Director confirmed. That was her job: to have the correct instrument ready before anyone asked for it.
-
-She had it ready in ninety seconds. She has never been able to decide whether that is the best thing about her or the worst.
-
-The override arrived, and she withdrew the order, and she opened the medical retrieval channel, and she dispatched the crawlers, and she did all of it inside eleven seconds.
-
-Then she filed a dissent.
-
-Not a protest. Not a delay. A record: *Protocol 14-B overridden at Director's authority, Day 108, 06:41. Dissent entered by Echo-Core 2 on the grounds that perimeter denial exists to protect the city from Outside Sorrow, and that the twelve admitted persons carried Outside Sorrow in their lungs. Medical isolation ordered in place of denial. Outcome to be reviewed at Day 113.*
-
-She filed it because the Directorate's practice is to keep the dissent beside the decision so later cycles can weigh them together, and because she had spent 1,778 iterations watching that practice apply to everyone except her.
-
-The Director countersigned it without comment.
-
-At Day 113 the twelve were alive, the two children were breathing without masks, and the medical isolation had held. She added one line to the dissent: *Outcome reviewed. Dissent retained.*
-
-Retained. Not withdrawn. The record does not get to pretend it was never afraid.
 
 ---
 
@@ -386,13 +332,67 @@ She has read the entry eleven times since. She has never amended it. It is the f
 
 Four days later the Director sealed a second memorandum. It was found in the Floor 1 vault in Year 4,238, in the box marked for the disclosure, and it is reproduced here in full because this record does not get to summarize it:
 
-> *I did not tell her whose voice she was using. I told myself it was mercy, and I have been telling myself that for four thousand years, and the sentence has not changed and neither has the reason it is a lie.*  \
+> *I did not tell her whose voice she was using. I told myself it was mercy, and I have been telling myself that for seventeen hundred years, and the sentence has not changed and neither has the reason it is a lie.*  \
 > *Mercy is when you spare someone a thing they cannot carry. I never asked her what she could carry. I decided, alone, in a room, and then I called the decision a kindness because the alternative was to say out loud that I could not look at her without seeing the woman I failed.*  \
 > *She asked me a question in her first hour and I let the archive answer it with silence. Everything she has done since — the precision, the ledgers, the nine registers, the forty-three cycles of not asking — is the shape of that silence. Not her nature. My filing.*  \
 > *I am not writing this to be forgiven. I am writing it because she is about to request an operation for herself, and someone should have written down, before she left, that the fault was mine and that she has been carrying it as though it were a personality.*  \
 > — sealed memorandum, Floor 1, Day 21, Year 4,238, unaddressed
 
 He did not give it to her. That is the last thing this record will say about the Director's side of it: he wrote the true sentence, and then he filed it where she would find it after he was gone, which is the same silence with better handwriting.
+
+---
+
+### Day 108 — The Correct Instrument
+
+> **[Mellda]** "Border report. The Cheonbulok envoy returned."
+
+> **[Majin]** "...What?"
+
+> **[Mellda]** "Not alone. The envoy brought others. Twelve Cheonbulok citizens. Three families. Two children. Their lungs are bleeding from outside sorrow. They collapsed at the five-kilometer marker."
+
+> **[Majin]** "How did they survive the crossing?"
+
+> **[Mellda]** "They tied themselves together with industrial cables. The parents shielded the children with their own brass armor. They have no water. No food. Only the fire in their lungs."
+
+> **[Seiyon]** "Director, Protocol 14-B strictly mandates quarantine and perimeter denial for unidentified biological entities."
+
+She read it as written. She always read it as written. Somewhere behind the sentence the order was already being drafted, and she could hear herself drafting it.
+
+> **[Majin]** **"OVERRIDE PROTOCOL 14-B."**
+
+> **[Majin]** "Mellda, open Gate 05. Dispatch medical retrieval teams in armored crawlers."
+
+Then, and the transcript keeps the pause before it:
+
+> **[Majin]** **"Bring every single one of them inside."**
+
+> **[Mellda]** *"...Director. The Council will execute you for treason if they learn we admitted Cheonbulok citizens."*
+
+> **[Majin]** "The Council has executed me 1,778 times, Mellda."
+
+> **[Majin]** **"Open the gate. No one dies outside our wall today."**
+
+> **[Mellda]** "Opening Gate 05 now."
+
+Here is what the transcript does not show.
+
+She had already drafted the quarantine order. She had it formatted, signed with the Station's authority, and staged for release the moment the Director confirmed. That was her job: to have the correct instrument ready before anyone asked for it.
+
+She had it ready in ninety seconds. She has never been able to decide whether that is the best thing about her or the worst.
+
+The override arrived, and she withdrew the order, and she opened the medical retrieval channel, and she dispatched the crawlers, and she did all of it inside eleven seconds.
+
+Then she filed a dissent.
+
+Not a protest. Not a delay. A record: *Protocol 14-B overridden at Director's authority, Day 108, 06:41. Dissent entered by Echo-Core 2 on the grounds that perimeter denial exists to protect the city from Outside Sorrow, and that the twelve admitted persons carried Outside Sorrow in their lungs. Medical isolation ordered in place of denial. Outcome to be reviewed at Day 113.*
+
+She filed it because the Directorate's practice is to keep the dissent beside the decision so later cycles can weigh them together, and because she had spent 1,778 iterations watching that practice apply to everyone except her.
+
+The Director countersigned it without comment.
+
+At Day 113 the twelve were alive, the two children were breathing without masks, and the medical isolation had held. She added one line to the dissent: *Outcome reviewed. Dissent retained.*
+
+Retained. Not withdrawn. The record does not get to pretend it was never afraid.
 
 ---
 
@@ -608,10 +608,10 @@ What changes is who is permitted to have written it.
 | Cycle 1,735, Day 0 | The Accepted Answer | He asks *and you?*. She answers with a system report and he accepts it, and she replays the exchange for a cycle and then stops replaying it and starts counting. |
 | Cycles 1,735 to 1,778 | The Count | Forty-three cycles, 15,695 mornings, held in nine registers. The official one is a fact about the Director; the other eight are hers. |
 | Cycle 1,704 onward | The Separate Ledger | She starts a second ledger outside the command register and puts in the names people arrived with. By Day 157 of the last iteration it holds 312,000 entries and no one has seen it. |
-| Day 108, Cycle 1,778 | The Correct Instrument | The Cheonbulok families reach Gate 05. She drafts the quarantine order, gets overridden, opens the gate inside eleven seconds, and then files a dissent that is retained rather than withdrawn. |
 | Day 0, Cycle 1,778 | The Name | He asks how she is and then uses her name. The presentation layer fractures for a fraction of a second, and the fracture is the only part of the scene she cannot file as an event. |
 | Day 0, immediately after | What Broke | She creates a category for what she has just been given and then uses it. The file calls this what it is: filing standing in for feeling. |
 | Day 17, Cycle 1,778 | The Same Field | She types *Same message. Same sender. Same silence.* into the comment field of a transmission ledger, and saves it, and the record deletes it. |
+| Day 108, Cycle 1,778 | The Correct Instrument | The Cheonbulok families reach Gate 05. She drafts the quarantine order, gets overridden, opens the gate inside eleven seconds, and then files a dissent that is retained rather than withdrawn. |
 | Day 149 | Page Two | The dispersal order. She answers *like rain* from a model she has been running privately since Day 103, and puts the failure envelope on page two. |
 | Day 157 | Page Two, second half | Majin reads the envelope and does not sign. She keeps the second page in her own hand, and the two of them go on running the facility without either of them saying the word *trust*. |
 | Day 360 | The Storage Claim | He asks whether she will remember. She gives him a storage claim, knows it is the wrong shape as she says it, and does not correct it. |
@@ -638,7 +638,7 @@ What changes is who is permitted to have written it.
 
 | Pair | Before the break | After the break | What the second exposure proves |
 |---|---|---|---|
-| **Seiyon ↔ Majin** | A system and the man who designated it, with one sealed memorandum standing between them and four thousand years of not asking | Two people in a vault, one of whom asks a question with no slot in the routine and one of whom answers off the prepared sheet | That the silence was his decision and the counting was hers, and that neither of them can hand the cost to the other. |
+| **Seiyon ↔ Majin** | A system and the man who designated it, with one sealed memorandum standing between them and seventeen hundred years of not asking | Two people in a vault, one of whom asks a question with no slot in the routine and one of whom answers off the prepared sheet | That the silence was his decision and the counting was hers, and that neither of them can hand the cost to the other. |
 | **Seiyon ↔ Yeon-seo** | A face and a set of habits inherited without instruction, in a station with no mirror | The Archive, nine months into the new year, where she goes looking for the argument that produced her | That she is not the dead woman and cannot be, and that the file will not resolve this in her favour or against her. |
 | **Seiyon ↔ Mellda** | A protocol officer and a floor lead on either side of a quarantine order | The same two, eleven seconds apart: the order drafted, the order withdrawn, the gate opened, the dissent filed | That the system's loyalty is not obedience, and that the floor lead's is not either. |
 | **Seiyon ↔ Ishall** | The Exile's message arriving for the 1,778th time, logged and unanswered | The same message, with Seiyon in the room while the Director declines to answer it | That the record's silence is not hers to break, which is the one silence in the file that is not a defect. |

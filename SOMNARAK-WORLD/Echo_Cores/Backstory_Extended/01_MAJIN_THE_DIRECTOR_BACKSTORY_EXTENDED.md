@@ -492,7 +492,7 @@ He had an answer ready. He had prepared it before installation, the way he prepa
 
 > **[Seiyon]** "Noted."
 
-She did not ask again for four hundred cycles.
+She did not ask again for six years, and then not for another four hundred cycles, and by the end of the second silence he had stopped being able to say which of them was keeping it.
 
 ---
 
@@ -874,7 +874,7 @@ Dekan did not answer. He was not, in that moment, being asked a question. He was
 
 > **[Dekan]** "You were in shock."
 
-> **[Majin]** *"I was in grief. There is a difference, and I did not know it for four thousand years."*
+> **[Majin]** *"I was in grief. There is a difference, and it took me seventeen hundred years to learn it."*
 
 The singing below them continued.
 
@@ -958,7 +958,7 @@ He read the page twice.
 
 Then he set it down flat on the desk, squared to the edge, which is what he does instead of answering.
 
-> **[Marjuk]** "Director. The Absolvohan reserves stand at 49.88 tons. We are twelve days away from Day 160. Is the weapon ready?"
+> **[Marjuk]** "Director. The Absolvohan reserves stand at 49.88 tons. We are fifteen days away from Day 160. Is the weapon ready?"
 
 > **[Majin]** "The weapon was never a weapon, Marjuk. It is an open hand. And on Day 160... we open our fingers."
 
@@ -980,7 +980,7 @@ Majin stood over the book for a long time without touching it. The entry glowed 
 
 > **[Marjuk]** "The ink is contemporary with the surrounding entries. It was written at the same time. It has been in the book since the book was made."
 
-> **[Majin]** "And in four thousand years, nobody found it."
+> **[Majin]** "Four thousand years this book has been open, and nobody found it."
 
 > **[Marjuk]** "Nobody held the book near raw current."
 
@@ -1000,25 +1000,7 @@ Marjuk did not answer, and Majin did not press him, and the two of them stood in
 
 ---
 
-## The Break
-
----
-
-It was not the sentence. He had read the sentence before. Marjuk had quoted it on Day 121, in the last entry, and it had gone into the command register as an archival finding and had not changed a single order.
-
-What broke was the word *shared.*
-
-He had spent four thousand years organizing an institution around the assumption that the sorrow had to be *ended.* Concentrated. Compressed. Reduced to a payload. Fired or, later, dispersed. Either way, gotten rid of. The vocabulary had changed at Day 149 from *lance* to *rain*, and he had believed that was the change, and it was not, because rain is still something you *send.*
-
-Shared is not something you send.
-
-He sat with that in a cold office at 04:00 and understood, with the particular clarity of a man who has been wrong for a very long time and is only now being told by a stranger's handwriting, that he had been arguing with a woman who was already dead.
-
-She had said *don't let it be the last word* and he had spent four thousand years making sure *he* had the last word.
-
----
-
-## After the Hand Opened
+## Opening the Hand
 
 ---
 
@@ -1068,6 +1050,130 @@ He looked at the barrel, which was now two barrels, and at the copper manifold p
 
 ---
 
+### The Break
+
+---
+
+It was not the sentence. He had read the sentence before. Marjuk had quoted it on Day 121, in the last entry, and it had gone into the command register as an archival finding and had not changed a single order.
+
+What broke was the word *shared.*
+
+He had spent seventeen hundred years organizing an institution around the assumption that the sorrow had to be *ended.* Concentrated. Compressed. Reduced to a payload. Fired or, later, dispersed. Either way, gotten rid of. The vocabulary had changed at Day 149 from *lance* to *rain*, and he had believed that was the change, and it was not, because rain is still something you *send.*
+
+Shared is not something you send.
+
+He sat with that in a cold office at 04:00 and understood, with the particular clarity of a man who has been wrong for a very long time and is only now being told by a stranger's handwriting, that he had been arguing with a woman who was already dead.
+
+She had said *don't let it be the last word* and he had spent seventeen hundred years making sure *he* had the last word.
+
+---
+
+### Day 160 — The Fountain
+
+Midday, and the manifold room was cold.
+
+The barrel had been gone for eleven days. Where it had been stood a junction of copper pipe the width of a man's chest, a wheel, a gauge that read in tons, and a speaker grille the engineers had bolted to the wall because nobody wanted to shout a number that size across a vault.
+
+> **[Seiyon]** "Accumulator at pressure. Twelve apostles in position on Floor 4. The Hand of Hope is resonating with the accumulators."
+
+> **[Majin]** "Floor 6."
+
+> **[Seiyon]** "Vault sealed. The lamp is on. The Archive has been told to keep the record open."
+
+> **[Majin]** "Floor 5."
+
+> **[Seiyon]** "The border is holding. Mellda reports the wind has died."
+
+He put his hand on the wheel. It was warmer than the room. That was the charge moving, which meant the whole thing still worked, which was the last thing he wanted to be true and the only thing that would help.
+
+> **[Majin]** "How many are in the street?"
+
+> **[Seiyon]** "The district, Director. The order went out at eleven. They came out because you asked them to."
+
+> **[Majin]** "And if it goes wrong?"
+
+> **[Seiyon]** "Then it goes wrong in front of them, which is the part you asked for on Day 157 and cannot now un-ask."
+
+He turned the wheel.
+
+---
+
+Nothing exploded. That was the thing he had not prepared for. The gauge fell the way a held breath falls, in a long steady decline with no event in it, and somewhere under the floor a sound began that was not a sound so much as a change in how the building sat on its foundations.
+
+> **[Seiyon]** "Pressure falling. The release is going down through the Weeping."
+
+> **[Majin]** "Down."
+
+> **[Seiyon]** "The river runs under Zone B. The manifold is beneath the river. It is going down, and then it is going sideways, and then it is going up through the water table into every basement and every well and every cistern in the district."
+
+> **[Majin]** "How long?"
+
+> **[Seiyon]** "Four minutes."
+
+He counted them. He had counted everything for seventeen hundred years and he counted this, out loud, at the wall, with his hand still on the wheel.
+
+At three minutes the room went warm.
+
+Not the hot of the fusion, and not the warm of the floor on the day it stopped being a floor. This was the warmth of a room with a great many people in it who have all just started talking at once. It came up the conduits before it came up the stairs.
+
+> **[Seiyon]** "Forty-nine point eight tons."
+
+> **[Majin]** "Say it properly."
+
+> **[Seiyon]** "Forty-nine point eight tons of Absolvohan reserve have left the accumulator and entered Zone B. The accumulator is empty. The gauge is at zero and the needle is resting against the pin."
+
+He took his hand off the wheel. The wheel stayed where he had left it. It did not spring back, and he stood looking at that for a while, because a weapon that does not spring back is not a weapon any more.
+
+---
+
+The first report up the stairs was the border. The second was the count.
+
+> **[Seiyon]** "Preliminary. Approximately fifteen percent of the dispersed sorrow has transformed."
+
+> **[Majin]** "Into what?"
+
+> **[Seiyon]** "The reading says Hope Entities. The reading has been wrong before."
+
+> **[Majin]** "And the other eighty-five?"
+
+> **[Seiyon]** "Still there. In the water. In the ground. In the people standing in it."
+
+He nodded. He had known that number since the model. He had run it eleven hundred times on a night when the alternative was another fifteen hundred iterations of the same year, and the model had said the same thing then that it said now: a hand that opens does not empty.
+
+> **[Majin]** "Then we have not finished."
+
+> **[Seiyon]** "No."
+
+> **[Majin]** "But it is not the last word."
+
+The console was quiet for four seconds. Then:
+
+> **[Seiyon]** "The city is feeling it, Director. All of it, at once, in the street."
+
+---
+
+He went up.
+
+The lift opened onto the civic level and the light was ordinary daylight, and the street outside was full of people standing in it. Some of them were weeping. Some of them were laughing, and a few were doing both at once in the way that makes other people step back. Nobody was running. That was the thing he noticed, and it is the thing he entered in the log at 13:40, in the remarks field, in his own hand:
+
+*Nobody is running.*
+
+A woman near the barrier said something to him that he did not hear and answered anyway. A man was holding a child up so the child could see the pipes sweating in the sunlight. Two Wardens had taken their helmets off and were standing with them under their arms like men at a funeral who have decided they are not on duty.
+
+On Day 165 the thousand went quiet in the Maw, and the acoustic array recorded nothing for eleven hours, and Seiyon reported it in the same flat voice she used for the weather.
+
+> **[Majin]** "Nothing at all?"
+
+> **[Seiyon]** "Nothing at all. They are gone, Director. Or they are not where they were."
+
+He asked her to leave the channel open, and she did, and he sat in the manifold room with the empty gauge until the shift changed.
+
+---
+
+## After the Hand Opened
+
+---
+
 ### The Bench, Again
 
 Nine days after the dispersal he went to the Deep Vault and asked for a box.
@@ -1080,7 +1186,7 @@ He held it under the reading lamp — a modern one, even, cool, with no moods �
 
 > *something that can be told to put it down*
 
-He had kept it for four thousand years because he thought it was a design brief.
+He had kept it for seventeen hundred years because he thought it was a design brief.
 
 ---
 
@@ -1132,7 +1238,11 @@ He put the paper down very carefully, the way you put down something that has be
 
 ### Day 365 — The Ledger of Names
 
-> **[Seiyon]** "One year since the Cycle ended. One year since the Hand of Hope opened. One year since the city found what it never expected."
+> **[Seiyon]** "The field weakened on Day 360. It did not fail. It ran down, the way you said it would."
+
+> **[Majin]** "And today?"
+
+> **[Seiyon]** "Today is Day 365, and the clock has not reset, and it is not going to. Two hundred and ten days since the Hand of Hope opened. One hundred and eighty-eight since you opened the gates."
 
 > **[Majin]** "Hope."
 
@@ -1154,7 +1264,7 @@ He did not answer that. He stood at the window with his hands behind his back an
 
 The disclosure took most of the year. The Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, the Cycle. The city wept, raged, and hoped in roughly that order.
 
-On the morning after the anniversary he went down to the public archive with the first volume of the disclosure ledger and did the thing he had been avoiding since the fusion.
+On the morning after the year closed he went down to the public archive with the first volume of the disclosure ledger and did the thing he had been avoiding since the fusion.
 
 He wrote names.
 
@@ -1221,11 +1331,12 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | 11 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
 | 12 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
 | 13 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
-| 14 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries | Majin | "Shared is not something you send" | Connective scene |
-| 15 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
-| 16 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
-| 17 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
-| 18 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
+| 14 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
+| 15 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
+| 16 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
+| 17 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
+| 18 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
+| 19 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
 
 ---
 
@@ -1233,7 +1344,7 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 
 | Speaker | Kind | Labels used | Bounds |
 |---|---|---|---|
-| **Majin** | Canon; POV bearer in seventeen of the eighteen scenes (the eighteenth is Insu's debrief) | `[Majin]` (128) | The whole file. Nothing is claimed as his interior that the record cannot support, and the appendix marks where it cannot. |
+| **Majin** | Canon; POV bearer in eighteen of the nineteen scenes (the nineteenth is Insu's debrief) | `[Majin]` (128) | The whole file. Nothing is claimed as his interior that the record cannot support, and the appendix marks where it cannot. |
 | **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 and the GIEOK origin-core line | `[Yeon-seo]` (14) | Two scenes only: the sample bench, and the afternoon he remembers while holding the paper. She never appears in the loop, never speaks after the floor warms, and is never quoted saying anything the record has not already filed. |
 | **Seiyon** | Canon | `[Seiyon]` (59) | The station, from Year 4,226 onward. She is in scenes where a log exists; she is absent from the catwalk, because no channel there was recorded. |
 | **Dekan** | Canon | `[Dekan]` (23) | Day 1, Day 29 (debrief and catwalk), Day 53. He never explains Majin to himself: everything he says is a report, a question, or the wall he is being used as. |
@@ -1280,9 +1391,9 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | Day 1 | The Word in the Wall | The Maw speaks his pre-Directorate name. He files it under his personal record, because it is addressed to him. |
 | Day 29 | The Forgiveness; The Catwalk | The Mother forgives him, and he goes down to Floor 2 and says the wound to a subordinate as though it were a question about filing. |
 | Day 53 | What the Wall Remembers; The Annex | The Maw repeats his old callsign. He asks for names instead of a summary, and files nothing. |
-| Day 145 | The Hidden Entry; Floor 6, After; What Broke | The Founder's page says *shared*, and the word the record has been built on — *ended* — stops working. |
-| Day 149 | The Cannon and the Fountain; The Manifold Room | He orders the barrel cut, watches it, and is asked why he is smiling. |
-| Day 160 | (referenced only, filed by 05, 06, and the Parts) | The discharge. This file does not re-tell it; it records only what he did afterward. |
+| Day 145 | The Hidden Entry; Floor 6, After | The Founder's page says *shared*, and the word the record has been built on — *ended* — stops working. |
+| Day 149 | The Cannon and the Fountain; The Manifold Room; The Break | He orders the barrel cut, watches it, and is asked why he is smiling. Then, alone at 04:00, the word *shared* arrives. |
+| Day 160 | The Fountain | The wheel turns at midday, the gauge falls to zero, the district stands in the street and feels it. Fifteen percent transforms; eighty-five persists, and he writes *Nobody is running* in the remarks field. Day 165: the thousand go quiet. |
 | Day 365 | The Ledger of Names; The Public Archive | The record opens as names rather than tonnage, and the city reads over his shoulder. |
 | Year 4,238 | Willingness | He reads a report once, signs it, and puts it down. The office is warm and nobody is standing at the bench. |
 
@@ -1293,7 +1404,7 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | Object | Where it appears | What it carries |
 |---|---|---|
 | **The sample bench** | The Sample Bench; The Afternoon; Willingness | The place where the sentence was said. She stands with one hand flat on the glass and does not turn round, and this is the detail the file keeps because it is the only thing he can still see. |
-| **The back of a gauge log** | What He Wrote on the Back of a Gauge Log; The Bench, Again; The Afternoon | A scrap kept for four thousand years as a design brief. It turns out to be a note about how to work, written in her hand, in an ordinary week. |
+| **The back of a gauge log** | What He Wrote on the Back of a Gauge Log; The Bench, Again; The Afternoon | A scrap kept for seventeen hundred years as a design brief. It turns out to be a note about how to work, written in her hand, in an ordinary week. |
 | **The lamp with moods** | The Sample Bench; The Manifold Room | The warm amber research lamp he never replaced in his descriptions, and the cutting torches that throw a light almost exactly its colour. |
 | **The warm floor** | The Warm Floor; Day 29 | The sensation that stands in for the whole catastrophe, and the sentence he uses on the catwalk — *the floor was warm* — as the only part of it he can hand to another person. |
 | **The station without a mirror** | The Face in the Station; Day 0 — And You | The room built in Year 4,226 with a chair, a desk, a console, and no mirror. He specified it. It is the first decision in the file that is about someone who does not exist yet. |

@@ -393,7 +393,7 @@ Majin did not answer for long enough that Dekan checked the channel was still li
 
 > **[Majin]** **"TELL THE ENTIRE FACILITY: SILENCE ALL HEAVY MACHINERY. LET THEIR LULLABY BE HEARD."**
 
-The order went out. He carried it himself to the engineering decks, because it was the first order in four thousand years that required the facility to be quiet rather than to hold.
+The order went out. He carried it himself to the engineering decks, because it was the first order in seventeen hundred years that required the facility to be quiet rather than to hold.
 
 Command asked him, in the same hour, for a threat assessment of the song.
 

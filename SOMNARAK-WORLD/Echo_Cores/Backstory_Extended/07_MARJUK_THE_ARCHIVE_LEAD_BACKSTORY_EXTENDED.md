@@ -65,7 +65,7 @@ Jieun takes her photograph back. She does not put it away; she holds it against 
 
 > **[Jieun]** "Then why isn't she in it?"
 
-He has an answer to that. He has had the answer for four thousand years and he has given it in three languages, and this is the first time in a very long time that he hears how it sounds in a room with a stove in it.
+He has an answer to that. He has had the answer for seventeen hundred years and he has given it in three languages, and this is the first time in a very long time that he hears how it sounds in a room with a stove in it.
 
 > **[Marjuk]** *"Because no one wrote her down."*
 
@@ -339,36 +339,6 @@ Then he filed the tablet with everything else, unread, because the archive is th
 
 ---
 
-### Year 4,235 — The Door Opens
-
-The Final Door opened partially in Year 4,235. Seventeen Fractures. Forty-three incapacitations. The Director sealed it again by means the record does not describe and the archive does not hold.
-
-What the archive holds is Marjuk's incident file, which is four pages long and contains no theory.
-
-He was not at the Door when it opened. He was two rooms away with a specialist whose face had begun to come apart along a line that was not a wound, and he did the only procedure the floor has for that. He said the specialist's name out loud.
-
-> **[Marjuk]** "Your name is Youngsoo. Say it with me."
-
-> **[Youngsoo]** *"I can't— I can't hold it, Keeper, it keeps— it's coming through the—"*
-
-> **[unknown]** "Central, this is Floor 6, we have sev— seven— seventeen on the east st—"
-
-The intercom died on the word *stair*, and when the channel came back nine seconds later the alarm was already running, so that every line after it had to be shouted to be heard at all.
-
-> **[Marjuk]** **"YOUR NAME IS YOUNGSOO. SAY IT BACK TO ME."**
-
-His own voice in the room was smaller than the alarm and he did not try to make it bigger, and Youngsoo's mouth tried to make the shape of the last syllable three times before it found it.
-
-> **[Youngsoo]** "Y-youngsoo."
-
-> **[Marjuk]** "Again."
-
-> **[Youngsoo]** "Youngsoo. Youngsoo. All right. All right."
-
-He filed the incident. He filed the seventeen and the forty-three. He did not file the sentence he wanted to file, which was that a door which takes seventeen people apart to say *mercy* has not said anything the city can use.
-
----
-
 ### Day 77 — The Journal
 
 > **[Marjuk]** "Archive report. I found the Founder's journal."
@@ -415,7 +385,7 @@ The last page of the journal ends in the middle of a stroke, which is what a han
 
 > **[Majin]** "..."
 
-> **[Marjuk]** "Director. The Absolvohan reserves stand at 49.74 tons. We have never reached this number in 1,778 cycles. Are we the seed, Majin?"
+> **[Marjuk]** "Director. The Absolvohan reserves stand at 49.84 tons. We have never reached this number in 1,778 cycles. Are we the seed, Majin?"
 
 > **[Majin]** "We are the soil, Marjuk. And on Day 160, we break open so the flower can bloom."
 
@@ -508,6 +478,56 @@ He filled that case for eleven months. It contains the weeping, and the rage, an
 
 ---
 
+### Day 365 — And Us?
+
+The anniversary meeting is in the Directorate's minute book. Five questions were asked around the table and each of the four others belongs to another file; this one belongs here.
+
+Dekan asked what they do now. Zyrak asked about the Absolvohan. Ayshuk asked about the entities. Mellda asked about the city.
+
+Marjuk asked:
+
+> **[Marjuk]** "And us?"
+
+The word is small and the room was warm and the lamps were on, and he had been holding the question since Day 177, in the way he holds everything, which is to say: filed, dated, and unread.
+
+Majin answered that they were the Hand of Hope — the ones who carry the weight, open the gates, and choose to feel — and the answer is in the minute book and is not reproduced here, because this file is about the question and the question took eleven seconds to be understood.
+
+Marjuk wrote it down. That is all he did. He wrote the question and the answer in the minute book in the normal way and did not annotate it, and then he went down to Floor 6 and opened a case with no routing code and no addressee and no subject, and wrote on the first line:
+
+> *An institution can give the city a future and leave its own people holding their former functions. Check this every year.*
+
+---
+
+### Year 4,235 — The Door Opens
+
+The Final Door opened partially in Year 4,235. Seventeen Fractures. Forty-three incapacitations. The Director sealed it again by means the record does not describe and the archive does not hold.
+
+What the archive holds is Marjuk's incident file, which is four pages long and contains no theory.
+
+He was not at the Door when it opened. He was two rooms away with a specialist whose face had begun to come apart along a line that was not a wound, and he did the only procedure the floor has for that. He said the specialist's name out loud.
+
+> **[Marjuk]** "Your name is Youngsoo. Say it with me."
+
+> **[Youngsoo]** *"I can't— I can't hold it, Keeper, it keeps— it's coming through the—"*
+
+> **[unknown]** "Central, this is Floor 6, we have sev— seven— seventeen on the east st—"
+
+The intercom died on the word *stair*, and when the channel came back nine seconds later the alarm was already running, so that every line after it had to be shouted to be heard at all.
+
+> **[Marjuk]** **"YOUR NAME IS YOUNGSOO. SAY IT BACK TO ME."**
+
+His own voice in the room was smaller than the alarm and he did not try to make it bigger, and Youngsoo's mouth tried to make the shape of the last syllable three times before it found it.
+
+> **[Youngsoo]** "Y-youngsoo."
+
+> **[Marjuk]** "Again."
+
+> **[Youngsoo]** "Youngsoo. Youngsoo. All right. All right."
+
+He filed the incident. He filed the seventeen and the forty-three. He did not file the sentence he wanted to file, which was that a door which takes seventeen people apart to say *mercy* has not said anything the city can use.
+
+---
+
 ### Year 4,238 — What the Archive Owes
 
 Jieun came back.
@@ -534,7 +554,7 @@ He had the correction form open. He had had it open since before she arrived.
 
 > **[Marjuk]** "It is a way of saying *yes, beside it*."
 
-She did not leave. She stood with the photograph against her chest and looked at the counter, and then she asked the question nobody in four thousand years had asked him in this room.
+She did not leave. She stood with the photograph against her chest and looked at the counter, and then she asked the question nobody in seventeen hundred years had asked him in this room.
 
 > **[Jieun]** "I don't know what to call you."
 
@@ -550,27 +570,7 @@ So the third rule took its proper shape for the first time in his working life: 
 
 > *One thousand. Named in this office: one so far.*
 
-That line is the whole of the answer, and it took four thousand years and a laundress with a bad hip who might have had a bad knee.
-
----
-
-### Day 365 — And Us?
-
-The anniversary meeting is in the Directorate's minute book. Five questions were asked around the table and each of the four others belongs to another file; this one belongs here.
-
-Dekan asked what they do now. Zyrak asked about the Absolvohan. Ayshuk asked about the entities. Mellda asked about the city.
-
-Marjuk asked:
-
-> **[Marjuk]** "And us?"
-
-The word is small and the room was warm and the lamps were on, and he had been holding the question since Day 177, in the way he holds everything, which is to say: filed, dated, and unread.
-
-Majin answered that they were the Hand of Hope — the ones who carry the weight, open the gates, and choose to feel — and the answer is in the minute book and is not reproduced here, because this file is about the question and the question took eleven seconds to be understood.
-
-Marjuk wrote it down. That is all he did. He wrote the question and the answer in the minute book in the normal way and did not annotate it, and then he went down to Floor 6 and opened a case with no routing code and no addressee and no subject, and wrote on the first line:
-
-> *An institution can give the city a future and leave its own people holding their former functions. Check this every year.*
+That line is the whole of the answer, and it took seventeen hundred years and a laundress with a bad hip who might have had a bad knee.
 
 ---
 
@@ -621,14 +621,14 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 | 9 | Cycle one | LOOP-PAST | FPV | Marjuk | Majin | DIALOGUE | Cycle event | C/R | R.D. cycle record | Majin | *I have known since the first one.* | Canon-anchored |
 | 10 | Day 12 — the Furnace fragment | FLASHBACK | FPV | Marjuk | Majin | DIALOGUE | Document | C | Absolvohan Part 2, Day 12 | Marjuk | "Understood." | Canon-anchored |
 | 11 | Day 49 — the word | FLASHBACK | FPV | Marjuk | Majin | DIALOGUE | Entity speech | C | Absolvohan Part 3, Day 49 | Marjuk | *Racham* | Canon-anchored |
-| 12 | Year 4,235 — the Door opens | FLASHBACK | FPV | Marjuk | Youngsoo | BOTH | Body signal | C | Final Door incident record | Youngsoo | A name said until the face agrees | Connective scene |
-| 13 | Day 77 — the journal | FLASHBACK | FPV | Marjuk | Majin | DIALOGUE | Document | C/R | Absolvohan Part 5, Day 77 | Marjuk | "Understood.", and the reading after it | Canon-anchored |
-| 14 | Day 121 — the last visible entry | FLASHBACK | FPV | Marjuk | Majin | DIALOGUE | Document | C | Absolvohan Part 6, Day 121; private-line coda | Marjuk | *Are we the seed, Majin?* | Canon-anchored |
-| 15 | Day 145 — between the pages | FLASHBACK | FPV | Marjuk | — | FULL STORY | Object | C/R | Absolvohan Part 7, Day 145; handling log | Marjuk | The ink under the current | Canon-anchored |
-| 16 | Day 160 — the recognition | FLASHBACK | FPV | Marjuk | — | BOTH | Institutional event | C | Absolvohan Part 8, Day 160; Floor 6 duty log | Zone B | *The sorrow is transforming.* | HOLD |
-| 17 | Day 177 — the public account | FLASHBACK | FPV | Marjuk | Seiyon | DIALOGUE | Institutional event | C/R | Public Record Office disclosure file | Marjuk | The blank tablet beside a record that is not his | Connective scene |
-| 18 | Year 4,238 — what the archive owes | RE-EXPOSURE | FPV | Marjuk | Jieun | DIALOGUE | Person | C/R | Reading Room counter; testimony record | Jieun | *Named in this office: one so far* | Connective scene |
-| 19 | Day 365 — and us | FLASHBACK | TPV | Marjuk | The table | DIALOGUE | Ritual | C | Directorate minute book; dossier Day 365 | Marjuk | The question, filed unread | HOLD |
+| 12 | Day 77 — the journal | FLASHBACK | FPV | Marjuk | Majin | DIALOGUE | Document | C/R | Absolvohan Part 5, Day 77 | Marjuk | "Understood.", and the reading after it | Canon-anchored |
+| 13 | Day 121 — the last visible entry | FLASHBACK | FPV | Marjuk | Majin | DIALOGUE | Document | C | Absolvohan Part 6, Day 121; private-line coda | Marjuk | *Are we the seed, Majin?* | Canon-anchored |
+| 14 | Day 145 — between the pages | FLASHBACK | FPV | Marjuk | — | FULL STORY | Object | C/R | Absolvohan Part 7, Day 145; handling log | Marjuk | The ink under the current | Canon-anchored |
+| 15 | Day 160 — the recognition | FLASHBACK | FPV | Marjuk | — | BOTH | Institutional event | C | Absolvohan Part 8, Day 160; Floor 6 duty log | Zone B | *The sorrow is transforming.* | HOLD |
+| 16 | Day 177 — the public account | FLASHBACK | FPV | Marjuk | Seiyon | DIALOGUE | Institutional event | C/R | Public Record Office disclosure file | Marjuk | The blank tablet beside a record that is not his | Connective scene |
+| 17 | Day 365 — and us | FLASHBACK | TPV | Marjuk | The table | DIALOGUE | Ritual | C | Directorate minute book; dossier Day 365 | Marjuk | The question, filed unread | HOLD |
+| 18 | Year 4,235 — the Door opens | FLASHBACK | FPV | Marjuk | Youngsoo | BOTH | Body signal | C | Final Door incident record | Youngsoo | A name said until the face agrees | Connective scene |
+| 19 | Year 4,238 — what the archive owes | RE-EXPOSURE | FPV | Marjuk | Jieun | DIALOGUE | Person | C/R | Reading Room counter; testimony record | Jieun | *Named in this office: one so far* | Connective scene |
 | 20 | The first unwritten year | FLASHBACK | FPV | Marjuk | — | FULL STORY | Document | C/R | Floor 6 procedure book, Year 4,238 | Marjuk | The no-precedent clause | Connective scene |
 
 ---
@@ -677,14 +677,14 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 | Cycle 1 | Cycle one | The vault survives the reset. He tries to tell people for three iterations and stops in the fourth, and Majin says *I have known since the first one.* |
 | Day 12, Cycle 1,778 | The Furnace fragment | A Before-Time fragment mentions the Furnace. He gives provenance before interpretation and answers *Understood* to a classification order, and logs the order beside the item. |
 | Day 49 | The word | One syllable, `Racham` — mercy, or womb. He reports the word and not the fact that it fits the eighth fragment like an uncut key. |
-| Year 4,235 | The Door opens | Seventeen Fractures, forty-three incapacitations, sealed by means the record does not describe. He files four pages with no theory and holds a specialist's name in front of him until the face agrees to be a face. |
 | Day 77 | The journal | The Founder's journal is found. Majin orders it archived; Marjuk archives it and keeps reading, which is the behaviour that decides the story. |
 | Day 121 | The last visible entry | The journal's visible ending promises a thing it does not name. He asks *don't you want to know?* and gets the answer that wanting has never changed the day. |
 | Day 145 | Between the pages | He carries the journal to a Weeping conduit and the hidden entry comes up in Han-crystal ink. He transcribes by hand, reports at 09:00, and the office exchange belongs to file 01. |
 | Day 160 | The recognition | He says the Founder was right, and then goes to look at the people rather than the gauges. |
 | Day 177 | The public account | The archive supplies twelve checkable documents. That night he opens a case for the city's responses and sets a blank tablet beside it. |
-| Year 4,238 | What the archive owes | Jieun returns with three things her mother told her, all of them wrong in their dates. He files them beside the count and not inside it. |
 | Day 365, the first unlooped year | And us? | He asks the fifth question at the anniversary table, and files it unread until he can write it down. |
+| Year 4,235 | The Door opens | Seventeen Fractures, forty-three incapacitations, sealed by means the record does not describe. He files four pages with no theory and holds a specialist's name in front of him until the face agrees to be a face. |
+| Year 4,238 | What the archive owes | Jieun returns with three things her mother told her, all of them wrong in their dates. He files them beside the count and not inside it. |
 | Year 4,238 onward | The first unwritten year | He writes the office's first no-precedent clause and learns that being right once is a different skill from being right again. |
 
 ---
@@ -695,7 +695,7 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 |---|---|---|
 | **The blank tablet** | The blank tablet; Day 145; Day 177; The count; What the archive owes | The Keeper's instrument for preserving the order of discovery. Its second use — recording what the city said — is the whole arc of the file in one object. |
 | **The nine-page finding** | What he did with it; The second reading | An excellent document that made the truth easy to put down. The file's indictment is not that it was wrong. |
-| **The Council receipt line** | What he did with it | `Noted. No action required.` One sentence, eleven words, four thousand years of consequence. |
+| **The Council receipt line** | What he did with it | `Noted. No action required.` One sentence, eleven words, seventeen hundred years of consequence. |
 | **The Founder's journal** | Day 77; Day 121; Day 145 | Bound in hide gone the colour of weak tea, with sewing he is not allowed to correct. The visible entry promises; the hidden entry instructs. |
 | **The Weeping conduit, nine metres from the Sealed Room** | Between the pages | The environmental condition the archive would never permit, which is why the Founder wrote there. Truth requires both the object and the weather. |
 | **The Deep Vault's cold** | Provenance; Cycle one; And us? | Preservation climate, and the thing Place-Lament turns into visible grief: condensation in vertical lines on the near shelf, like a written hand. |
@@ -710,7 +710,7 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 
 | Pair | Before the break | After the break | What the second exposure proves |
 |---|---|---|---|
-| **Marjuk ↔ the Head Keeper** | An apprentice who is told he has done a thing correctly, and told that correctly is not the same as well | The same sentence, re-heard four thousand years later, in his own mouth, to a technician who is asking what will be preserved | That the institution's praise was accurate and insufficient, and that he inherited both. |
+| **Marjuk ↔ the Head Keeper** | An apprentice who is told he has done a thing correctly, and told that correctly is not the same as well | The same sentence, re-heard seventeen hundred years later, in his own mouth, to a technician who is asking what will be preserved | That the institution's praise was accurate and insufficient, and that he inherited both. |
 | **Marjuk ↔ Majin** | A Director who receives findings and answers with classification orders | A Director who admits, once, in the vault, that knowing has never changed what the day required | That command and custody are two different burdens, and that neither man can hand his to the other. |
 | **Marjuk ↔ Seiyon** | Two record-keepers with different domains: operations and provenance | A Secretary who asks *you are still working* at 23:40, and an Archive Lead who says the city's anger is the most important thing in the building | That the same silence can be a duty in one office and a defect in another. |
 | **Marjuk ↔ Jieun** | A citizen asking the archive for a name it does not have | A citizen offering testimony the archive cannot check, and having it filed beside the count rather than inside it | That the counter-memory is not an argument he wins or loses. She was not there; she was downstream of it. |

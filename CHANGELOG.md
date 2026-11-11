@@ -2,6 +2,52 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the backstory read as a reader
+
+**The owner read the nine Echo-Core backstories and reported that some do not make sense. He named
+Majin, and he was right — not about the prose, about the order.**
+
+`01_MAJIN_THE_DIRECTOR_` breaks its own chronology three ways a single pass cannot miss:
+
+- **`## The Break` is printed before the Day 149 scene it describes.** A man at 04:00 works out what
+  the word *shared* means, and says so in terms of an event the reader has not reached.
+- **Day 160 was never written.** The record builds a cannon, spends eleven hundred years on it, cuts
+  it into a fountain — and the moment the fountain opens is a subordinate clause: *"nine days after
+  the dispersal"*. **That is why it reads plain.** The climax of the Director's story happens
+  off-page.
+- **Day 365 claims three anniversaries that have not happened.** The Cycle ends *that night*, and the
+  Hand of Hope opened 210 days earlier.
+
+**Day 160 is now a scene** — 950 words from the command room, agreeing with what files 05 and 06
+already establish about that day. `The Break` moved where it belongs and the part renamed **Opening
+the Hand** (Day 149–160).
+
+**Two more files walked backwards.** `02_SEIYON_` ended Part One on **Day 108** and opened Part Two
+on **Day 0**. `07_MARJUK_` filed a post-Cycle **Year 4,235** scene between Day 49 and Day 77, and put
+the Day 365 anniversary after Year 4,238. Both reordered, ledgers renumbered.
+
+**Fifteen "four thousand years" corrected.** Every Echo-Core's span is the **1,778-Cycle era**; four
+thousand years is the *city's* age, read off the calendar. The phrase was being used for both, and a
+reader told *"1,778 mornings"* and *"four thousand years"* three paragraphs apart has been told two
+things about one life. The seven attached to the Maw, the thousand and the city were left alone.
+
+Also: a station built in Year 4,226 that *"did not ask again for four hundred cycles"* — before any
+cycle existed; Day 145 saying *"twelve days away from Day 160"*; and a reserve that **fell** from 49.8
+to 49.74 tons in 44 days.
+
+- **`check_backstory_reader.py`** — gate 51, from the audit.
+- **`R-55` / `O-41`** — a file is read once, in order.
+- **`BACKSTORY_READER_LOGIC_AUDIT.md`** — the nine-file record, including what was **not** fixed.
+
+**The gate fails Seiyon and Marjuk on their old text and passes Majin on its broken text** — Majin's
+ledger and spine were wrong in the same way as its body, so the file agreed with itself while
+disagreeing with time. A gate checks that a file agrees with itself; only a reader checks that it
+agrees with the world. That is why `O-41` is STANDING and not DONE.
+
+**Not fixed, and filed instead:** the Absolvohan reserve is 35.56 tons by its stated rate and 47.3 to
+50.92 by the files, with `THE_DIRECTOR` saying 0 remain and file 02 saying 1.82. Filed as a HOLD,
+not averaged into one smooth number.
+
 ## Unreleased — the appearance is a category and a way of writing
 
 **Every SE now resolves to a shape, and the shape was never in the column we were looking at.**

@@ -1,5 +1,77 @@
 # Work In Progress
 
+## Batch 215 — the backstory read as a reader (2026-10-25)
+
+### 1. What you asked
+
+*"Echo Core Back Story Some Of Them Is Really Plain And Not At All Make Sense When Read. Example
+Majin If You Read It With Reader Logic."*
+
+Nine files, 91,818 words, read top to bottom once with no appendix consulted first.
+
+### 2. Majin was the right example
+
+The file is the longest in the set and the most dialogue-heavy — it is not thin. It breaks its own
+order three ways a single pass cannot miss:
+
+- **`## The Break` printed before the Day 149 scene it describes** — a reflection on an event the
+  reader has not reached.
+- **Day 160 was never written.** The record builds a cannon for eleven hundred words, spends eleven
+  hundred years on it, cuts it into a fountain — and the moment the fountain opens is a subordinate
+  clause: *"nine days after the dispersal"*. **This is why it reads plain.** The climax happens
+  off-page.
+- **Day 365 claimed three anniversaries that had not happened** — the Cycle ends that night, and the
+  Hand of Hope was 210 days earlier, not a year.
+
+### 3. What was written
+
+`### Day 160 — The Fountain`, 950 words, from the command room: the wheel, the gauge falling to zero,
+the district standing in the street, 49.8 tons dispersed, fifteen percent transformed and
+eighty-five percent still there. It agrees with what files 05 and 06 already establish for that day.
+
+`## The Break` moved after Day 149 and the part renamed **Opening the Hand** (Day 149–160), with
+**After the Hand Opened** for the aftermath. Scene ledger 18 → 19.
+
+### 4. Two more files walked backwards
+
+- `02_SEIYON_` — Part One ended on **Day 108**, Part Two opened on **Day 0**. Day 108 moved into Part
+  Three between Day 17 and Day 149.
+- `07_MARJUK_` — a post-Cycle **Year 4,235** scene filed between Day 49 and Day 77, and the Day 365
+  anniversary filed after Year 4,238. Both moved; ledger renumbered 12–20.
+
+Plus: a station built Year 4,226 that *"did not ask again for four hundred cycles"*; Day 145 saying
+*"twelve days away from Day 160"*; and a reserve that **fell** from 49.8 to 49.74 between Day 77 and
+Day 121.
+
+### 5. Fifteen "four thousand years"
+
+Every Core's span is the 1,778-Cycle era. Four thousand is the **city's** age, read off the calendar.
+The phrase was being used for both. Fifteen occurrences corrected across four files; the seven
+attached to the Maw, the thousand and the city were left alone. The one about the Founder's book was
+kept at four thousand and reattached to the book.
+
+### 6. The gate, and what it will not do
+
+`check_backstory_reader.py` (gate 51) — **fails Seiyon and Marjuk on their old text; passes Majin on
+its broken text.** Majin's ledger and spine were wrong in the same way as its body, so the file
+agreed with itself while disagreeing with time.
+
+> A gate checks that a file agrees with itself. Only a reader checks that it agrees with the world.
+
+That is why **O-41 is STANDING, not DONE**. The mechanical half is now enforced; the reader's half
+never closes.
+
+### 7. Filed, not fixed
+
+The Absolvohan reserve: 0.02 tons/iteration × 1,778 = **35.56 tons**, against 47.3 (Parts), 49.80 /
+49.84 / 49.88 / 50.92 (the files), and **0 remaining** in `THE_DIRECTOR` vs 1.82 in file 02. Filed as
+a HOLD in the audit, not averaged into one smooth number. It needs an owner decision.
+
+### 8. Where it stands
+
+**30 standards**, 24 DONE, 6 OPEN. The set now reads **in order** and the Director's story has its
+climax. Whether it reads *well* is the next reading, not this one.
+
 ## Batch 214 — the appearance is two things (2026-10-25)
 
 ### 1. What you asked

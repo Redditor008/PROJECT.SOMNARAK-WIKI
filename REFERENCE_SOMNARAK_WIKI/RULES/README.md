@@ -60,6 +60,7 @@ reformation, sweep and correction, with its batches and its status — is [`../C
 | [`R-52`](R-52_A_COMMAND_ENDS_IN_A_FILE.md) | A Command Ends In A File — every instruction reaches a rule, an order, or the register, and the three indexes are checked against each other (gate 48) |
 | [`R-53`](R-53_A_NUMBER_NAMES_ONE_GATE.md) | A Number Names One Gate — `GATES.md` derives every number from its position in `tools/gate.sh`, and an order's status is read off its gate, not remembered (gate 49) |
 | [`R-54`](R-54_THE_APPEARANCE_IS_A_CATEGORY_AND_A_WAY_OF_WRITING.md) | The Appearance Is a Category, and a Way of Writing — every dossier's form statement resolves to one of the `R-32` families (301 of 301), and the section is either a ledger of four readings or a prose observation that states its body first; interpretation is the tell (gate 50) |
+| [`R-55`](R-55_A_FILE_IS_READ_ONCE_IN_ORDER.md) | A File Is Read Once, in Order — day and era anchors must follow the order a reader walks them, every anchored day must be accounted for in the appendix, and a life of 1,778 iterations is not four thousand years (gate 51) |
 | [`R-35`](R-35_SPECIAL_ABNORMALITY.md) | The Special Abnormality — the terminus of a transformation line is never acquired, worked, metered or extracted as itself; filed under its line with a `Special Class` row, its completion as an Activation condition in words, and no counter — Apocalypse Bird and WhiteNight there, the Stormscale Sovereign, the Dawn of Mourning and the Walking District here |
 
 ## Precedence

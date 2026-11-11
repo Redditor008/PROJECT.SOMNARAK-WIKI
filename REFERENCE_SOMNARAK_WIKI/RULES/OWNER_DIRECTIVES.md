@@ -601,3 +601,25 @@ Things The Category Things And The Following How L corp Write Them Things"*
   reading; the real number was 1, plus 3 tells in 2 files. The other 91 were plurals, an unread field
   name, and prose being scored as a table.
 - **Checked by** `check_appearance_contract.py` (gate 50).
+
+---
+
+### O-41 · A file is read once, in order
+
+**The owner's instruction, 2026-10-25:** *"Also Echo Core Back Story Some Of Them Is Really Plain And
+Not At All Make Sense When Read Example Majin If You Read It With Reader Logic"*
+
+- **The reader's walk is the standard.** Anchors in order; a scene the file skipped gets written, not
+  explained; an anniversary is not claimed before it happens.
+- **Majin was the example and was right to be.** `## The Break` printed before the Day 149 it
+  describes; Day 160 — the climax of the whole record — never written; Day 365 claiming three
+  anniversaries that had not occurred.
+- **Two more files walked backwards.** `02_SEIYON_` ran Day 108 → Day 0; `07_MARJUK_` filed a
+  post-Cycle Year 4,235 between Day 49 and Day 77.
+- **A gate cannot do all of this.** `check_backstory_reader.py` (gate 51) fails Seiyon and Marjuk on
+  their old text and **passes Majin on its broken text**. A gate checks that a file agrees with
+  itself; only a reader checks that it agrees with the world. This order is STANDING because the
+  second half never closes.
+- **Fifteen "four thousand years" corrected.** A Core's span is 1,778 iterations; four thousand is
+  the city's age.
+- **Checked by** `check_backstory_reader.py` (gate 51).
