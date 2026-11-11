@@ -348,7 +348,11 @@ The record is careful here and thin, and says so. It establishes that she worked
 
 The event that took her is called the Solidification: a class of catastrophe in which Han stops behaving as something a city can hold at arm's length and freezes into structure. The founding one, four thousand years earlier, grew the Alpha Tree. **His was not that one.** The same substance, a second freezing, and nobody in the building on the night it happened had any word for it but the old word.
 
-He survived the event that killed her. The manner of his surviving is not in the record — the first of several silences in this file, all of them in his favour and none of them his doing.
+The Memory Archive holds the manner of her death, and holds it plainly: she was the intellectual architect of the original containment systems, and when the breach opened she sealed the core with her own body, **shielding him from terminal psychic dissolution** (`The_MEMORY_ARCHIVE.md` § 3.2). The seals were hers. The hand on the override was hers. The city's containment standard dates from the year after, and the man who funded the load test she had been refused four times did it after she was dead.
+
+Her remains were not recovered. The amber would not be cut without opening the seal behind it, so a chamber was built around it at the roots of the Alpha Tree — the first containment unit in Somnarak, and the one order of his that has never been countermanded. The Archive's later Floor 07 rests inside it.
+
+**How he got out is not in the record** — the first of several silences in this file, all of them in his favour and none of them his doing. What the record does say is that he walked out of a room she did not walk out of, and that he has never once described the walk.
 
 She did not survive. Her last recorded words are the sentence the rest of his life is built on:
 
