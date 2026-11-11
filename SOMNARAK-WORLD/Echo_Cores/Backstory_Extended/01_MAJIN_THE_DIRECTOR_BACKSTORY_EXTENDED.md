@@ -8,7 +8,7 @@
 > **ACCESS:** Open. Released under the disclosure order of Day 177.  
 > **PROVENANCE:** Director's dictation; sealed command register; Floor 6 vault extracts; witness statements  
 > **RELIABILITY:** High for events he witnessed. His interpretation is marked as his. Where sources conflict the conflict is kept.  
-> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); a **body** — a faction, school, order or council — takes a capital article (The Endurers, The Council of Sighs); an **office** is plain and lower case after *the* (the Director). A mark that only ever falls at the start of a sentence is not a mark, so each name is coined mid-line. Names in this file are not decoration and are not noise.
 
 ---
 
@@ -28,9 +28,7 @@ It had been repaired four times by a man who no longer worked in the building, a
 
 > **[Yeon-seo]** "The lamp is a lamp. It has moods."
 
-They had been in that room for six years by then. *Han* — the substance the whole city sat on and had never once agreed about — came up through the floor in thin amber threads, slow enough that a patient person could watch one thread climb the inside of a glass tube over the course of an afternoon. Everyone in the building agreed this was remarkable. Nobody could agree what it was.
-
-The Endurers said it was grief with nowhere to go. The Converters said it was grief that could be made useful. The Council, which had inherited both schools and believed neither, called it a resource and taxed it.
+They had been in that room for six years by then. *Han* — the substance the whole city sat on and had never once agreed about — came up through the floor in thin amber threads, slow enough that a patient person could watch one thread climb the inside of a glass tube over the course of an afternoon. Everyone in the building agreed this was remarkable. Nobody could agree what it was, and the city had already spent a war on the question. Six schools argued it through the Occlusihan and the war settled nothing. Two of them survived as schools: The Endurers, who held that Han was grief with nowhere to go and that a city should learn to live inside it; and The Converters, who held that grief could be made useful if it were changed. Both schools had been inherited, and neither was believed: the body that did the inheriting was The Council of Sighs, which called the thing a resource, and taxed it.
 
 Majin called it a language. That was the first mistake, and he made it with the enthusiasm of a man who has found work worth a whole life.
 
@@ -112,7 +110,7 @@ The seals were hers.
 
 He had the theory — that Han is what a place has felt, that a record of feeling can be read — and it fit on one side of a page, which was one of its attractions. She had the other half, the half with tolerances in it: every clamp in that building, every gasket rated for a pressure nobody had ever measured, every sealed cell from the sample bench down to the cold store. Six years of her handwriting in a maintenance schedule he had signed off on eleven times and read, he would later have to admit, none of them.
 
-She had asked for the seals to be tested at load. She asked in writing, four times, in four years. The building was in use. The test would mean emptying a wing. The Council taxed her designs the way it taxed his reports: it took the money and did not read them.
+She had asked for the seals to be tested at load. She asked in writing, four times, in four years. The building was in use. The test would mean emptying a wing. the Council taxed her designs the way it taxed his reports: it took the money and did not read them.
 
 She kept the four refusals in the bench drawer with the gauge logs.
 
@@ -184,7 +182,7 @@ The first time she was in a doorway with her coat half on, at the end of an ordi
 
 The second time she was holding a ring shut. She said the same five words. She did not add anything to them and she did not have the breath to.
 
-*Sorrow* does two jobs in this city and always has. To the Endurers it is Han — the substance, grief with nowhere to go, the thing that eats a district when nothing is holding it. To everyone else it is the feeling. She was a structural theorist; she had spent six years telling anyone who would sit still that the two were one substance and that this was the whole point. The Council taxed that too.
+*Sorrow* does two jobs in this city and always has. To the Endurers it is Han — the substance, grief with nowhere to go, the thing that eats a district when nothing is holding it. To everyone else it is the feeling. She was a structural theorist; she had spent six years telling anyone who would sit still that the two were one substance and that this was the whole point. the Council taxed that too.
 
 So the sentence is not ambiguous because she was a mystic. It is ambiguous because the language is, and because the woman who could have said which meaning she meant was inside a seal by the time he thought to ask.
 
@@ -466,7 +464,7 @@ Every person in the square felt it. Most knelt, because kneeling was what the ri
 
 Majin did not kneel. He stood at the back with his hands at his sides and felt the attention of the thing under the square arrive on him like a hand on the chest — the same gesture, in the same place, that she had used to check whether he was listening.
 
-> **[him]** "Director. The Council is asking for you."
+> **[him]** "Director. the Council is asking for you."
 
 > **[Majin]** "I know."
 
@@ -485,7 +483,7 @@ He had not heard them. He had, in the way that later became familiar to everyone
 > *The Tree has indicated you. The indication is not a nomination and is not subject to review.*  
 > *You are to accept the office of Director of the Reverie Directorate, to be established by your hand, with authority over containment, extraction, research, and the gates.*  
 > *You will not be replaced while the Tree holds you. You will not be permitted to resign into death while the fusion holds you.*  
-> *You are aware of what you carry. The Council is aware of what you carry. Neither of us will speak of it in public.*  
+> *You are aware of what you carry. the Council is aware of what you carry. Neither of us will speak of it in public.*  
 > *Acknowledge.*
 
 He read it twice. The second reading was the one that mattered.

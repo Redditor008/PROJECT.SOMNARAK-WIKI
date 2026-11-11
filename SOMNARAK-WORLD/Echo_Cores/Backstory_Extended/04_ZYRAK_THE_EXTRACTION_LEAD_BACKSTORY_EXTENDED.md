@@ -8,7 +8,7 @@
 > **ACCESS:** Open. Two sections sealed until Day 177: the debtor case file and the reconstruction consent record. Both are reproduced here as released.  \
 > **PROVENANCE:** Floor 3 logs; Collector's Row registers; reconstruction file; technician statements  \
 > **RELIABILITY:** Exact for what she measured. Her judgment of herself is marked as hers and is not adopted by this record.  
-> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); a **body** — a faction, school, order or council — takes a capital article (The Endurers, The Council of Sighs); an **office** is plain and lower case after *the* (the Director). A mark that only ever falls at the start of a sentence is not a mark, so each name is coined mid-line. Names in this file are not decoration and are not noise.
 
 ---
 

@@ -2,6 +2,25 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — a mark you can see
+
+**Faction and school names now read as titles, and the reason they did not is that every one of them
+opened a sentence.**
+
+- **New class: a body.** A faction, school, order or council takes a **capital article** at its coining —
+  *The Endurers*, *The Council of Sighs* — because a capital article is how English says *this is part of
+  the name*.
+- **A mark must be visible.** In *"The Endurers said it was grief with nowhere to go"* the capital proves
+  nothing: every sentence opens with a capital. The same applies to headings. Names are now coined
+  mid-sentence, in prose, where the typography is doing work.
+- **The sentence says what they are a body of.** Canon has them as two of the **Six Factions of the
+  Occlusihan**; the file had them as two opinions. It now names the six schools, the war that settled
+  nothing, and the two that survived as schools.
+- **The capital article is a coining mark, not a costume.** Held through every possessive it reads as a
+  typo (*"not on The Council's instruction"*), so it is used once and dropped.
+- **Gate 55 now fails a sentence-initial coining**, and 18 tests hold it. The legend in all nine extended
+  files names the fourth class.
+
 ## Unreleased — a name keeps its costume
 
 **Every name in the extended backstories is now marked by what it is, and every file tells the reader so

@@ -8,7 +8,7 @@
 > **ACCESS:** Open. Two items are held under triple lock: the Year 195 Mender projection and the Founder's journal. Both are quoted here; neither leaves the vault.  \
 > **PROVENANCE:** Keeper apprenticeship record; Grand Archive catalogue; Year 195 Mender projection; Year 202 Wardens' log; Council instrument of receipt; Cryogen taxonomy; `THE_ARCHIVE_LEAD.md`; Absolvohan Parts 2, 3, 5, 6, 7, 8 and 9 anchor scenes; one Reading Room counter entry, Year 4,238  \
 > **RELIABILITY:** Exact for provenance, quotation and catalogue order. He cannot verify what the Final Door wants, and this record does not verify it for him.  
-> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); a **body** — a faction, school, order or council — takes a capital article (The Endurers, The Council of Sighs); an **office** is plain and lower case after *the* (the Director). A mark that only ever falls at the start of a sentence is not a mark, so each name is coined mid-line. Names in this file are not decoration and are not noise.
 
 ---
 

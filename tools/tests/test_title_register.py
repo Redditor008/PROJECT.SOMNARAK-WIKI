@@ -51,6 +51,40 @@ class TheCoining(unittest.TestCase):
         self.assertTrue(gate.audit_named_thing(text2, 'the Absolvohan'))
 
 
+class TheBody(unittest.TestCase):
+    def test_a_capital_article_mid_line_is_the_mark(self):
+        text = HEAD + 'The room was silent, and The Endurers said nothing.'
+        ok, why = gate.audit_body(text, 'The Endurers')
+        self.assertTrue(ok, why)
+
+    def test_a_sentence_initial_name_has_no_mark(self):
+        """At the start of a sentence every word is capitalised, so the capital proves nothing."""
+        text = HEAD + 'The Endurers said it was grief with nowhere to go.'
+        ok, why = gate.audit_body(text, 'The Endurers')
+        self.assertFalse(ok)
+        self.assertIn('sentence-initial', why)
+
+    def test_a_lower_case_article_fails(self):
+        text = HEAD + 'The room was silent, and the endurers said nothing.'
+        ok, why = gate.audit_body(text, 'The Endurers')
+        self.assertFalse(ok)
+
+    def test_a_body_is_found_by_its_core_not_its_article(self):
+        text = HEAD + 'By Majin\'s century only two schools remained, and one of them was The Converters.'
+        ok, _ = gate.audit_body(text, 'The Converters')
+        self.assertTrue(ok)
+
+    def test_an_unused_body_is_reported(self):
+        ok, why = gate.audit_body(HEAD + 'Nothing here.', 'The Endurers')
+        self.assertIsNone(ok)
+        self.assertEqual(why, 'never used')
+
+    def test_a_paragraph_start_is_sentence_initial(self):
+        text = HEAD + 'Text.\n\nThe Endurers said nothing.'
+        ok, _ = gate.audit_body(text, 'The Endurers')
+        self.assertFalse(ok)
+
+
 class TheArchive(unittest.TestCase):
     def test_every_file_explains_its_marks(self):
         import glob
@@ -68,6 +102,13 @@ class TheArchive(unittest.TestCase):
         self.assertGreater(uses, 0)
         for name in gate.NAMED_THINGS['01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md']:
             self.assertTrue(gate.audit_named_thing(text, name), name)
+
+    def test_majin_bodies_carry_a_visible_mark(self):
+        path = os.path.join(gate.DIR, '01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md')
+        text = gate.read(path)
+        for name in gate.BODIES['01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md']:
+            ok, why = gate.audit_body(text, name)
+            self.assertTrue(ok, '%s: %s' % (name, why))
 
 
 if __name__ == '__main__':

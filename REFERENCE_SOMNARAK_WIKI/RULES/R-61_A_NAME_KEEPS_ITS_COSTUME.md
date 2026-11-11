@@ -9,6 +9,18 @@
 marking a name, used everywhere, so that a reader meeting a word for the first time can tell a title
 from a typo.
 
+**Amended the same day, second instruction:**
+
+> *"I ALSO MEAN LIKE THIS EXAMPLE 'The Endurers said it was grief with nowhere to go. The Converters said
+> it was grief that could be made useful. The Council, which had inherited both schools and believed
+> neither, called it a resource and taxed it.' BECAUSE FROM OUTSIDE PERSPECTIVE IT SOUND LIKE IT WAS NOT
+> A TITLE"*
+
+He is right, and the reason is exact. **Every one of those three names opened a sentence.** At the start
+of a sentence every word is capitalised, so the capital carried no information, and an outside reader
+parsed *Endurers* and *Converters* as ordinary plurals — people who endure, people who convert — rather
+than as the names of schools. The mark was there and it was invisible. That produced § 2b and § 2c.
+
 ## 1. What was wrong
 
 The same designation was written four ways inside one file:
@@ -36,6 +48,7 @@ given the reader no way to know what kind of thing each word is.**
 |---|---|---|---|
 | **Designation** | full caps, always | `THE ORIGINAL` | A label standing where a name should be. Caps say *this is a filing, not a description of her.* |
 | **Named thing** | italic at its coining, roman after | `*Reaper Hungered*` → `Reaper Hungered` | An entity, weapon, account or structure the record has named. Marked **once**, at the moment the reader needs to know it is a name; after that the capital letters carry it. |
+| **Body** | capital article | `The Endurers`, `The Council of Sighs` | A faction, school, order or council. A capital article is how English says *this is part of the name*. |
 | **Office** | plain, lower case after *the* | `the Director`, `the Archive Lead` | A post, not a person, and never a name. |
 
 Four things follow:
@@ -50,6 +63,21 @@ each finger*.
 
 **C. A short form needs a long form first.** `the Hand` is legal because `*the Hand of Change*` was
 coined; `the Cycle` is legal because the disclosure names it in full. Never the reverse.
+
+**C2. A mark must be visible.** A mark that falls only where convention forces a capital has no
+meaning. At the start of a sentence, *The Endurers* and *the endurers* look identical on the page; in a
+heading, every word is capitalised and nothing is marked. **A name is coined mid-sentence**, in prose,
+where the reader can see what the typography is doing.
+
+**C2b. The capital article is a coining mark, not a permanent costume.** `The Endurers` at the moment the
+reader is told what they are; `the Endurers` afterwards, exactly as a named thing goes roman after its
+italics. A capital article held through every possessive — *not on The Council's instruction* — stops
+reading as a title and starts reading as a typo, which is the failure in the other direction.
+
+**C3. A body must be shown to be a body.** `The Endurers` is only a title if the page says what they are
+a body *of*. The sentence above was rebuilt to do that: six schools argued it through the Occlusihan, two
+survived as schools, and *the body that did the inheriting was The Council of Sighs*. A capitalised word
+does not become an institution because it is capitalised; it becomes one because the sentence says so.
 
 **D. The legend is printed in the file.** Every Extended file carries a `REGISTER` line in its record
 header stating the three marks, because the convention only works if a reader is told it once. That line
@@ -71,7 +99,8 @@ with the casings that are wrong for it, each named thing with its coining, each 
 form it depends on — and fails on any of them drifting, on a name used before it is coined, and on a file
 carrying no `REGISTER` line at all.
 
-Measured 2026-10-25: **`01_MAJIN` holds 1 designation, 10 named things and 1 short form, at 0 defects**;
-all nine extended files carry the legend.
+Measured 2026-10-25: **`01_MAJIN` holds 1 designation, 10 named things, 3 bodies and 1 short form, at 0
+defects**; all nine extended files carry the legend. The gate fails a body whose first use is
+sentence-initial, which is how the original tricolon is now caught.
 
 What it cannot do is decide whether a name is *worth* having. That is the reader's pass (`O-29`, `R-38`).

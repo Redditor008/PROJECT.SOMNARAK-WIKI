@@ -75,6 +75,16 @@ NAMED_THINGS = {
     ),
 }
 
+# Bodies: a faction, school, order or council. The mark is a CAPITAL ARTICLE — `The Endurers`,
+# `The Council of Sighs` — because a capital article is how English says "this is part of the name".
+# The mark only works where it can be seen: at the start of a sentence every word is capitalised, so a
+# body whose first appearance is sentence-initial has no mark at all. That is the defect this checks.
+BODIES = {
+    '01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md': (
+        'The Endurers', 'The Converters', 'The Council of Sighs',
+    ),
+}
+
 # A short form is legal only after the long form has been coined. The reader was told what the Hand
 # was; `the Hand` after that is the reader's own shorthand, not a second unexplained name.
 SHORT_FORMS = {
@@ -144,6 +154,33 @@ def _pattern(name):
     return re.escape(name)
 
 
+def sentence_start(body, pos):
+    """True if `pos` opens a sentence or a paragraph."""
+    line_start = body.rfind('\n', 0, pos) + 1
+    if body[line_start:pos].strip() == '':
+        return True
+    return bool(re.search(r'[.!?]\s+$', body[max(0, pos - 4):pos]))
+
+
+def audit_body(text, name):
+    """(visible, reason) for a body's coining. Pure."""
+    body = prose_only(text)
+    core = name[4:] if name.startswith('The ') else name
+    m = re.search(r'(?<![A-Za-z])' + re.escape(core) + r'(?![A-Za-z])', body)
+    if not m:
+        return None, 'never used'
+    article = body[max(0, m.start() - 4):m.start()]
+    if article.lower().endswith('the '):
+        capital = article[-4:] == 'The '
+    else:
+        capital = True          # no article: nothing to mark, nothing to fail
+    if not capital:
+        return False, 'written with a lower-case article'
+    if sentence_start(body, m.start() - (4 if article.lower().endswith('the ') else 0)):
+        return False, 'first use is sentence-initial, where capitalisation is not a mark'
+    return True, ''
+
+
 def audit_named_thing(text, name):
     """True if the first use carries the italic coinage mark. Pure."""
     body = prose_only(text)
@@ -211,6 +248,20 @@ def main(argv):
         for name in DESIGNATIONS:
             if re.search(r'(?<![A-Za-z*])' + re.escape(name) + r'(?![A-Za-z*])', body):
                 issues.append('%s: uses %r without declaring it' % (base, name))
+
+    for where, names in BODIES.items():
+        path = os.path.join(DIR, where)
+        if not os.path.exists(path):
+            continue
+        text = read(path)
+        for n in names:
+            ok, why = audit_body(text, n)
+            if ok is None:
+                issues.append('%s: body %r is never used' % (where, n))
+            elif not ok:
+                issues.append('%s: body %r — %s' % (where, n, why))
+            elif verbose:
+                print('  %-46s %-24s body, mark visible' % (where[:44], n))
 
     # every file must tell its own reader what the marks mean
     for path in sorted(glob.glob(os.path.join(DIR, '*.md'))):

@@ -8,7 +8,7 @@
 > **ACCESS:** Open. One item is withheld: the Council's prohibition is held as a document, not as an opinion, and no member's name is attached to it because none survived.  \
 > **PROVENANCE:** Directorate service file; Council prohibition (recovered, unsigned); Gate Watch reception log, 1,778 entries; boundary post survey books; `THE_EXILE.md`; Absolvohan Parts 2, 4, 5, 7, 8 and 9 anchor scenes; one handover statement, Year 4,238  \
 > **RELIABILITY:** Exact for routes, dates and the wording of warnings sent and received. He has never said what he thought on the day he stepped through, and this record does not say it for him.  
-> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); a **body** — a faction, school, order or council — takes a capital article (The Endurers, The Council of Sighs); an **office** is plain and lower case after *the* (the Director). A mark that only ever falls at the start of a sentence is not a mark, so each name is coined mid-line. Names in this file are not decoration and are not noise.
 
 ---
 

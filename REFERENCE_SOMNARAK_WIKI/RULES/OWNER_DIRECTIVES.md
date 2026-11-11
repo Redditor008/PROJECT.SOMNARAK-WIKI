@@ -739,3 +739,21 @@ AND SUCH SO IT ABLE TO BE KNOW BY READER THAT IT WAS A TITLE OR ELSE AND NOT JUS
 - **The legend is printed in every file**, in the record header, so a reader is told the convention once.
 - **Checked by** `check_title_register.py` (gate 55). It cannot judge whether a name is good — only that
   it keeps its costume.
+
+**Amendment, same day — a mark must be visible.** *"I ALSO MEAN LIKE THIS EXAMPLE 'The Endurers said it
+was grief with nowhere to go. The Converters said it was grief that could be made useful. The Council,
+which had inherited both schools and believed neither, called it a resource and taxed it.' BECAUSE FROM
+OUTSIDE PERSPECTIVE IT SOUND LIKE IT WAS NOT A TITLE"*
+
+- **The three names all opened sentences**, and at the start of a sentence every word is capitalised.
+  The mark existed and carried no information, so an outside reader parsed *Endurers* and *Converters* as
+  ordinary plurals. **A mark that only ever falls where capitalisation is forced is not a mark.**
+- **New class: a body.** A faction, school, order or council takes a **capital article** — *The
+  Endurers*, *The Council of Sighs* — because a capital article is how English says *this is part of the
+  name*.
+- **A body must be shown to be a body.** *The Endurers* is only a title if the page says what they are a
+  body *of*. **Canon supplies it**: they are two of the **Six Factions of the Occlusihan**
+  (`PROJECT_SOMNARAK.md`). The sentence now says so — six schools argued it through the Occlusihan, two
+  survived as schools, and *the body that did the inheriting was The Council of Sighs*.
+- **Gate 55 fails a body whose first use is sentence-initial**, which is how the original tricolon is now
+  caught. 18 tests.

@@ -8,7 +8,7 @@
 > **ACCESS:** Open. Compiled by its subject; the compiler's own limits are marked in the appendix rather than hidden.  \
 > **PROVENANCE:** Continuous facility record, retained across 1,778 iterations; personal notes filed outside the command register  \
 > **RELIABILITY:** Exact for what she witnessed. Prohibited from claiming what she was never told.  
-> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); an **office** is plain and lower case after *the* (the Director). Names in this file are not decoration and are not noise.
+> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); a **body** — a faction, school, order or council — takes a capital article (The Endurers, The Council of Sighs); an **office** is plain and lower case after *the* (the Director). A mark that only ever falls at the start of a sentence is not a mark, so each name is coined mid-line. Names in this file are not decoration and are not noise.
 
 ---
 

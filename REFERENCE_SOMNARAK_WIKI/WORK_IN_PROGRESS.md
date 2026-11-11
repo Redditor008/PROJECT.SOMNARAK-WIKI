@@ -1,5 +1,66 @@
 # Work In Progress
 
+## Batch 221 — a name that only ever opens a sentence is not marked (2026-10-25)
+
+### 1. What you asked
+
+*"I ALSO MEAN LIKE THIS EXAMPLE 'The Endurers said it was grief with nowhere to go. The Converters said it
+was grief that could be made useful. The Council, which had inherited both schools and believed neither,
+called it a resource and taxed it.' BECAUSE FROM OUTSIDE PERSPECTIVE IT SOUND LIKE IT WAS NOT A TITLE"*
+
+### 2. Why he is right, exactly
+
+**All three names open a sentence.** At the start of a sentence every word is capitalised, so the capital
+carried no information at all — and an outside reader parsed *Endurers* and *Converters* as ordinary
+plurals: people who endure, people who convert. The mark existed, and it was invisible. Worse, in a
+heading every word is capitalised too, so the heading `## Before the Hand Opened` was marked in the same
+way as a title and marked nothing.
+
+And there was a second fault underneath the first: **the sentence never said they were bodies.** Canon has
+them as two of the **Six Factions of the Occlusihan** (`PROJECT_SOMNARAK.md`), a formal, numbered set with
+a named war. The file presented two of six schools as though they were two opinions.
+
+### 3. What it says now
+
+> Six schools argued it through the Occlusihan and the war settled nothing. Two of them survived as
+> schools: The Endurers, who held that Han was grief with nowhere to go and that a city should learn to
+> live inside it; and The Converters, who held that grief could be made useful if it were changed. Both
+> schools had been inherited, and neither was believed: the body that did the inheriting was The Council
+> of Sighs, which called the thing a resource, and taxed it.
+
+Three changes, each doing a different job:
+
+- **the coining is mid-sentence**, where a capital article is visible as a mark;
+- **they are named as schools of a named war**, so the word is a title because the sentence says what it
+  is a title *of*;
+- **"the body that did the inheriting"** — the sentence says *body*, so the reader does not have to infer
+  that a council is an institution.
+
+### 4. The fourth class
+
+`R-61` now has **four** marks, not three:
+
+| class | mark | example |
+|---|---|---|
+| **Designation** | full caps, always | `THE ORIGINAL` |
+| **Named thing** | italic at its coining, roman after | `*Reaper Hungered*` |
+| **Body** — faction, school, order, council | **capital article at its coining only** | `The Endurers` |
+| **Office** | plain, lower case after *the* | `the Director` |
+
+Plus the principle the whole batch turns on: **a mark must be visible.** A mark that only ever falls where
+capitalisation is forced — a sentence start, a heading, a table cell — is not a mark.
+
+And its counterweight, learned by trying it: the capital article is **not** permanent. Holding it through
+every possessive gives *"not on The Council's instruction"*, which reads as a typo. Coining mark only.
+
+### 5. Filed
+
+`check_title_register.py` (gate 55) now fails a body whose first use is sentence-initial, and fails a
+sentence-initial coining generally. **18 tests.** The legend in all nine extended files names the fourth
+class.
+
+---
+
 ## Batch 220 — a name keeps its costume (2026-10-25)
 
 ### 1. What you asked
