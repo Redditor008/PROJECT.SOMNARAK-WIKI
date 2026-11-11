@@ -107,7 +107,7 @@ By her ninth year she had a reputation of the narrow kind that does not travel: 
 
 The overflow came at the end of a shift in the eleventh month of her tenth year.
 
-It did not come as an attack. It came up through the floor of the eastern post, the way it always comes, out of the seam where the district's Han-handling lines met the old municipal conduit that nobody had mapped since the district was rebuilt. The instruments on the wall read nominal for four minutes while the room filled.
+It did not come as an attack. It came up through the floor of the eastern post, the way it always comes, out of the seam where the district's Han-handling lines — the pipes that move the substance out of the streets and into a ledger — met the old municipal conduit that nobody had mapped since the district was rebuilt. The instruments on the wall read nominal for four minutes while the room filled.
 
 She was at the far end, checking the seal on the west door, and that is the whole of the reason she is alive to be asked about it.
 
@@ -322,6 +322,8 @@ The office line written above it reads: *Passenger response at fourth hour. Cont
 > **[Mellda]** *"The planet is... rearranging itself."*
 
 > **[Majin]** "What about the drift lines?"
+
+Cheonbulok is the Corner at the far end of the salt: a basin with a furnace in the middle of it that has burned for four hundred years, and what it burns is sorrow, and what it breathes out is weather.
 
 > **[Mellda]** "The lines that lead to Cheonbulok are pulsing faster. It's like the Furnace is pulling the planet's sorrow inward. Like an inhale."
 

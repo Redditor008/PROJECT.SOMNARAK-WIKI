@@ -33,7 +33,7 @@ Tonight she opened the ledger again, put the cursor in the comment field, and ty
 
 Then she deleted it, because it was true and it was not what she meant, and because after 1,778 iterations she has learned that the difference between those two things is the space in which she lives.
 
-The Archive opened beneath the Alpha Tree nine months into the new year. It has not been classified. Her request for entry is approved, and in the morning she goes down.
+The Archive opened beneath the Alpha Tree — the thing the first Solidification grew, four thousand years before the Directorate existed — nine months into the new year. It has not been classified. Her request for entry is approved, and in the morning she goes down.
 
 She has not been told what she will find there. She has stopped pretending that not knowing is the same as not asking.
 
@@ -120,7 +120,7 @@ She learned that the way to be kept was to be useful, and the way to be useful w
 
 She remembers it exactly, because she remembers everything exactly, and this is the memory she would choose to lose if the choice were offered.
 
-Cycle 1,735. Day 0. The Maw had flooded Floor 3 with liquid tar nine days earlier and the cleanup was still running behind schedule.
+Cycle 1,735. Day 0. The Maw — the fault line the city is built across — had flooded Floor 3 with liquid tar nine days earlier and the cleanup was still running behind schedule.
 
 > **[Seiyon]** "Good morning, Director."
 
@@ -179,6 +179,8 @@ The Decision Core woke the way it always did: amber tubes in sequence, the lift 
 > **[Seiyon]** "Good morning, Director."
 
 > **[Majin]** "Report."
+
+She gave it the way she always gave it, Veil first. The Veil is the suppression net laid over the districts — the thing that makes them livable and numbs them — and she read its efficiency before she read anything else, because if the net was down the numbers did not matter.
 
 She gave it. Envelope intact. Veil efficiency 97.3 percent. Conduits clear. Gauges zeroed and recalibrated to the baseline hum of the city. The Maw quiet, the thousand murmuring at fourteen point two hertz.
 
@@ -308,7 +310,7 @@ Majin did not answer. The silence had been answering for 1,778 iterations, and i
 
 Ishall left. The lift closed. The room went back to being a room.
 
-She opened the transmission ledger and read the entire column: one thousand seven hundred and seventy-eight entries, the same four words, sent from the deep wastes through a Han-field nobody in the facility could reliably model, on a schedule that only made sense if the sender did not expect an answer and intended to keep sending anyway.
+She opened the transmission ledger and read the entire column: one thousand seven hundred and seventy-eight entries, the same four words, sent from the deep wastes through a Han-field — Han being the substance the city is built over, grief with weight and weather — that nobody in the facility could reliably model, on a schedule that only made sense if the sender did not expect an answer and intended to keep sending anyway.
 
 She had approved every one of those receipts. She had routed each message to Central Command in the prescribed form. She had never once added a line of her own.
 
@@ -343,6 +345,8 @@ He did not give it to her. That is the last thing this record will say about the
 ---
 
 ### Day 108 — The Correct Instrument
+
+The border report came in at the end of a shift. Cheonbulok is the Corner on the far side of the salt, a basin with a furnace in the middle of it that burns sorrow as rage and breathes the weather out; it had never sent an envoy before.
 
 > **[Mellda]** "Border report. The Cheonbulok envoy returned."
 
@@ -398,11 +402,15 @@ Retained. Not withdrawn. The record does not get to pretend it was never afraid.
 
 ### Day 149 and Day 157 — Page Two
 
+The Absolvohan is a barrel five hundred millimetres across, built to be fired once and impossible to aim twice; by this cycle it is also the name of the account that feeds it.
+
 > **[Majin]** "Seiyon. The Absolvohan's primary delivery manifold. Can it be modified?"
 
 > **[Seiyon]** "Modified how, Director? The accumulator is designed to fire a 500-millimeter kinetic lance of hyper-compressed sorrow directly into the city's upper stratosphere."
 
-> **[Majin]** "Scrap the kinetic lance. Divert the pressure conduits into the subterranean heat-recovery manifolds. Connect the injectors directly into the Weeping River."
+He had the undercity chart open on the desk. The Weeping is the river of liquid Han beneath the city — raw, unshaped, older than the vaults that draw their lights off it — and in four thousand years nobody had put an injector into it.
+
+> **[Majin]** "Scrap the kinetic lance. Divert the pressure conduits into the subterranean heat-recovery manifolds. Connect the injectors directly into the Weeping River.""
 
 > **[Seiyon]** "Director, that would disperse the entire charge across the bedrock. The Han wouldn't strike like a weapon. It would seep upward through the water table... like rain."
 
@@ -414,7 +422,7 @@ The rest of the order — *turn the cannon into a fountain* — is filed in the 
 
 *Like rain* was not a poetic addition. It was the output of a calculation she had been running, privately, since Day 103.
 
-The lance needed a target. A target needed a point. A point meant concentrating the entire accumulated sorrow of a city into one coordinate, and concentration was the mechanic that had produced every catastrophe in the record: the Cheongula, the Maw, the Dawn of Mourning.
+The lance needed a target. A target needed a point. A point meant concentrating the entire accumulated sorrow of a city into one coordinate, and concentration was the mechanic that had produced every catastrophe in the record: the Cheongula — a thousand citizens left in a district the Council had decided was not worth the cost of moving — the Maw, the Dawn of Mourning.
 
 Dispersion removed the point. It also removed the guarantee. A lance does one thing. Rain does whatever the ground does with it.
 

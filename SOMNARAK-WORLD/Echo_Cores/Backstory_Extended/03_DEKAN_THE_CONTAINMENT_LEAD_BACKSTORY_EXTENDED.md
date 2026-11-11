@@ -27,7 +27,7 @@ The new specialist assigned to Floor 2 follows him with a tablet and a look of c
 
 > **[him]** "What are we doing out here?"
 
-He crouches at marker nineteen. The stake is warm. It has been warm since the Cheongula and it will be warm after everyone currently alive in Zone B has been filed, and warmth is not a reading, it is a property of the ground.
+He crouches at marker nineteen. The stake is warm. It has been warm since the Cheongula — the year a thousand citizens were left in a district the Council had decided was not worth the cost of moving — and it will be warm after everyone currently alive in Zone B has been filed, and warmth is not a reading, it is a property of the ground.
 
 > **[Dekan]** "Three rules. Count the markers. State the observation before the interpretation. Repeat your name."
 
@@ -61,7 +61,7 @@ Her work was not heroic in the ceremonial sense.
 
 She walked a route. She measured stakes. She maintained barriers, ran evacuation drills, and treated a two-centimetre shift with the seriousness another officer would give to a visible breach. She came home with ash in the seams of her uniform and she did not talk about the district as though it were a person, and she did not talk about the people inside it as though they were the district.
 
-In Year 195, the Menders had projected that at the existing rate of Han growth, Zone B would be consumed within a decade. The projection was received and filed. In Year 202 the forecast arrived, and liquid Han rose through the foundations and softened the district around exactly one thousand people, and the Warden record measures seventeen minutes of screaming. Patrols were not absent. They were positioned around the event under orders to contain the area, not to enter it, and not to attempt rescue.
+In Year 195, the Menders had projected that at the existing rate of Han growth — the substance itself, rising out of the ground wherever a district holds too much grief — Zone B would be consumed within a decade. The projection was received and filed. In Year 202 the forecast arrived, and liquid Han rose through the foundations and softened the district around exactly one thousand people, and the Warden record measures seventeen minutes of screaming. Patrols were not absent. They were positioned around the event under orders to contain the area, not to enter it, and not to attempt rescue.
 
 The Warden record is a count. It says the screaming lasted seventeen minutes, and it says the Wardens counted, recorded, and documented — in that order — because a Warden's first duty during a catastrophe is to keep the numbers honest while other people decide what the numbers mean. Seventeen minutes is not, in that record, a duration. It is a count of breaths.
 
@@ -83,7 +83,7 @@ He learned them as household procedure, the way other children learn to check a 
 
 ### The Night the Wall Folded
 
-The records say only that the Maw claimed his mother when he was seven. There is no body, no confirmed final statement, and no agreed account of how the wall reached her.
+The records say only that the Maw — the fault line under the city — claimed his mother when he was seven. There is no body, no confirmed final statement, and no agreed account of how the wall reached her.
 
 What the record does have is the instrument sweep. During a heavy Sorrow Tide several markers changed at once, and the first sweep classified the change as tolerable drift. It was, by the numbers, correct: the displacement was within the band the instruments had learned to accept.
 
@@ -383,7 +383,7 @@ He had rehearsed it on the way up and it still came out wrong. You do not put th
 
 > **[Majin]** "Do we know it?"
 
-> **[Dekan]** "The acoustic lexicons matched the melody within three seconds. It's the *Sleep Under the Willow* lullaby from the First Consolihan colony. The mothers used to sing it to their infants during the dust storms."
+> **[Dekan]** "The acoustic lexicons matched the melody within three seconds. It's the *Sleep Under the Willow* lullaby from the First Consolihan colony — the settlement the record keeps from before the rite had a name. The mothers used to sing it to their infants during the dust storms."
 
 Majin did not answer for long enough that Dekan checked the channel was still live.
 

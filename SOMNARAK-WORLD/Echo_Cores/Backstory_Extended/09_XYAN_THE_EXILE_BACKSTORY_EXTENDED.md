@@ -241,7 +241,7 @@ He writes the entry left-handed, and the hand is not steady now, and he keeps th
 
 It takes him two years to follow the dust to its source, and the source is not a wound in the world. It is a chimney.
 
-Cheonbulok sits in a basin with a furnace at the middle of it, and the furnace is four hundred years old and still working, and what it makes is heat, and what it makes as a by-product is the weather that grinds the Desolate.
+Cheonbulok is a basin with a furnace at the middle of it, and the furnace is four hundred years old and still working, and what it makes is heat, and what it makes as a by-product is the weather that grinds the Desolate.
 
 He stands on the rim for a day and a half. Then he goes down and asks to see the ledgers, and the ledgers are open, because Cheonbulok has never had a reason to hide what it does.
 

@@ -95,7 +95,7 @@ It was a procedure. It was just not hers.
 
 The Reverie Directorate came up in a file that was not about the Reverie Directorate.
 
-The Council's interest began with a shipment and ended with a building, because the shipment contained refined Han that the Directorate's own records said it had not sold, and the building was where the arithmetic stopped working. By the time the order was written, the Council knew three things: that the facility was moving toward truths connected to the Cheongula, that the movement was accelerating, and that no official body could be seen to stop it.
+The Council's interest began with a shipment and ended with a building, because the shipment contained refined Han — the substance, cooked down and made saleable — that the Directorate's own records said it had not sold, and the building was where the arithmetic stopped working. By the time the order was written, the Council knew three things: that the facility was moving toward truths connected to the Cheongula — the thousand the Council had let die rather than move — that the movement was accelerating, and that no official body could be seen to stop it.
 
 So the order was not written. It was spoken, in a room with the door open onto a corridor, by people who had learned that an open door is the best seal a secret can have.
 
@@ -310,6 +310,8 @@ She read both objections. She kept the order. She has signed the return line of 
 
 > **[Majin]** "From where?"
 
+Cheonbulok is the Corner across the salt, a furnace city that burns its sorrow as rage and sends out what it cannot hold.
+
 > **[Ishall]** "Cheonbulok. The Furnace is sending scouts."
 
 > **[Majin]** "Let them scout. Strengthen the Floor 7 seal. You take the vanguard today."
@@ -329,6 +331,8 @@ It came through the deep gate, on the facility's own bedrock channel, and the tr
 > **[Xyan]** "Telemetry from the deep gate. The Silence is breaking."
 
 > **[Majin]** "Report, Xyan. What do the bedrock sensors show?"
+
+The Maw is the fault line the whole city is built across, and the Directorate had been drilling into it for seventeen hundred years.
 
 > **[Xyan]** "Floor 8 foundation pylons are registering upward displacement. The Maw is no longer waiting for our extraction drills. It has begun to climb."
 

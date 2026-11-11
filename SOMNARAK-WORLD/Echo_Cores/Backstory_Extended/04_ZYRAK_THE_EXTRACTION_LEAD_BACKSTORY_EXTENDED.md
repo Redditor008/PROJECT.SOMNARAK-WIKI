@@ -241,7 +241,7 @@ Zyrak asked for a job and a body, in that order, and the Directorate gave her bo
 
 The reconstruction file is nine pages and one consent form. The consent form is signed twice, once by her and once by a Cast Effigy engineer who wrote, in the margin, *subject requests removal of tactile sensation. Advised against. Request reiterated.*
 
-The body is 0% organic tissue. Han-crystal and sorrow-forged metal, a soul fused into a humanoid frame, an artificial face, artificial hair, and hands of dark metal with five long fingers and ports at the wrists. It is 160 centimetres tall and built to hold position beside an active extraction rig. It does not age.
+The body is 0% organic tissue. Han-crystal — the substance, set hard — and sorrow-forged metal, a soul fused into a humanoid frame, an artificial face, artificial hair, and hands of dark metal with five long fingers and ports at the wrists. It is 160 centimetres tall and built to hold position beside an active extraction rig. It does not age.
 
 She woke in it at 06:00 and the first thing she did was ask for the glove.
 
@@ -354,6 +354,8 @@ She looked at the glass when she said the second half, not at the channel.
 > **[Zyrak]** "He smiled. A little boy's smile. Then he went back to his stool and started crying black oil again."
 
 > **[Zyrak]** *"Director... can we bring them out? Any of them?"*
+
+*The Absolvohan* is a barrel five hundred millimetres across, designed to be fired once and to end an argument, and by this cycle the word means three things at once: the barrel, the account that feeds it, and the day it is due.
 
 > **[Majin]** "We finish the Absolvohan, Zyrak. That is the only promise I have kept for 1,778 cycles."
 

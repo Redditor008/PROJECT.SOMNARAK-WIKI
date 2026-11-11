@@ -20,8 +20,8 @@ turned on.**
 - **The lamp turned round.** Nobody in the file is said to feel anything; the grief is what he does —
   lighting the wall instead of the page, after the city asks her name.
 - **New rule `R-59` and gate 54** (a proper noun is not a password); **new rule `R-60`** (the turning
-  point is a scene — no counter, and it says so). The other eight extended files carry 34 cold terms as
-  printed debt.
+  point is a scene — no counter, and it says so). All nine extended files now read **zero cold terms**;
+  the eight besides Majin carried 34 between them when the gate was written, and all 34 are glossed.
 
 ## Unreleased — a death belongs to the person who dies
 

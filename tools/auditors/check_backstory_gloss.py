@@ -83,10 +83,20 @@ def read(path):
         return fh.read()
 
 
+META = re.compile(r'^> \*\*(PROVENANCE|COMPILER|HOLDER|ERA|SPINE|ACCESS|RELIABILITY|RECORD CLASS'
+                  r'|TOTAL|SOURCE|WITNESS):.*$', re.M)
+
+
 def narrative(text):
-    """The story only. The appendix is the file talking about the story."""
+    """The story only.
+
+    Two things are removed, for the same reason: neither is where a reader meets a word.
+    The appendix is the file explaining itself to an archivist, and the record header is the
+    file cataloguing itself. `Absolvohan Parts 2-9 anchor scenes` is a citation, not a use.
+    """
     i = text.find('\n## Appendix')
-    return text if i < 0 else text[:i]
+    body = text if i < 0 else text[:i]
+    return META.sub('', body)
 
 
 def first_use(text, term):
@@ -131,18 +141,9 @@ def audit(text):
     return missing, used
 
 
-# Measured 2026-10-25, batch 219. Count of cold terms. `01_MAJIN` is at zero and is not listed.
-# The other eight were written before this rule existed; each count is printed on every build.
-DEBT = {
-    '02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md': 9,
-    '03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md': 3,
-    '04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md': 2,
-    '05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md': 5,
-    '06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md': 3,
-    '07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md': 5,
-    '08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md': 5,
-    '09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md': 2,
-}
+# Empty on purpose. Batch 219 glossed all thirteen terms in all nine files rather than banking debt;
+# the table stays because the next unglossed term must be recorded here and printed, not absorbed.
+DEBT = {}
 
 
 def main(argv):

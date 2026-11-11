@@ -84,7 +84,7 @@ He has read that notice more times than any other document in his life, and it h
 
 He grew up able to see the structure of things.
 
-That is the plain description, and it is more useful than the grander ones. An Architect looks at a wall and reads how it is holding; Ayshuk looked at a wall and read what it was holding — the Han-shaped geometry of a building's grief, the emotional load in a district's beams, the place where a person's weight sits. It was structural perception, not mind-reading and not memory theft. He knew the shape of what a person carried. He did not know the contents.
+That is the plain description, and it is more useful than the grander ones. An Architect looks at a wall and reads how it is holding; Ayshuk looked at a wall and read what it was holding — the Han-shaped geometry of a building's grief — Han being what a place has felt, come up through it and given load —, the emotional load in a district's beams, the place where a person's weight sits. It was structural perception, not mind-reading and not memory theft. He knew the shape of what a person carried. He did not know the contents.
 
 The profession's belief was that if sorrow has structure, it can be shaped; if it can be shaped, the future can be built differently. Ayshuk was good at the work, and the work was good for him, because a man who cannot feel the load can still measure it.
 
@@ -124,7 +124,7 @@ He was in a shaping hall when the conduits failed. The exposure hit the room in 
 
 Ayshuk stood in the centre of it and felt nothing.
 
-He understood what was happening. He understood that the screaming was pain and that the twisting was Fracture and that the people were dying in a way that had a name and a mechanism. He understood all of it, and the understanding arrived without any of the weight that makes understanding into an emergency.
+He understood what was happening. He understood that the screaming was pain and that the twisting was Fracture — the city's word for a person's own sorrow going past what a person can be — and that the people were dying in a way that had a name and a mechanism. He understood all of it, and the understanding arrived without any of the weight that makes understanding into an emergency.
 
 He tried to Fracture. He could not. There was nothing in him for the exposure to pull on.
 
@@ -244,6 +244,8 @@ He wrote in the margin: *Subject appears to hold a theory about me. Obtain the t
 
 ### Day 65 — The River
 
+He came in with the deep survey and did not sit down. The Weeping is the river of liquid Han under the city, and the river had begun to move faster than the rock around it could account for.
+
 > **[Ayshuk]** "Research report. The Weeping's flow rate has increased."
 
 > **[Majin]** "By how much?"
@@ -263,6 +265,8 @@ He wrote in the margin: *Subject appears to hold a theory about me. Obtain the t
 > **[Majin]** "In Cycle 1,400, did we have fifty tons of Han in the ballast?"
 
 > **[Ayshuk]** *"...No."*
+
+Cheonbulok is the Corner on the far side of the salt, a furnace city that burns its sorrow as rage, and its scouts cross the Desolate only when the Furnace leans. Nobody had crossed it in eleven hundred cycles.
 
 > **[Majin]** "In Cycle 1,650, did Cheonbulok scouts walk across the salt to find us?"
 

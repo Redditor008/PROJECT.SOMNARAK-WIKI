@@ -33,8 +33,9 @@ All thirteen are now glossed where the reader first meets them, in one clause, i
 | **the Alpha Tree** | *the thing the first Solidification grew, four thousand years before anyone in that building was born* |
 | **the Weeping · the Absolvohan · Cheonbulok** | the river of liquid Han under the Archive; the barrel, the account and the day; the Corner that burns its sorrow as rage |
 
-Measured: **`01_MAJIN` 0 cold of 13.** The other eight files carry **34 cold terms** between them and
-that number is printed on every build.
+Measured: **all nine files at zero cold terms.** `01_MAJIN` was the first; the other eight carried **34
+between them** when the gate was written, and all 34 were glossed in the same batch. The debt table that
+would have printed them is empty.
 
 ### 3. Not plain — the biggest beats were summaries
 

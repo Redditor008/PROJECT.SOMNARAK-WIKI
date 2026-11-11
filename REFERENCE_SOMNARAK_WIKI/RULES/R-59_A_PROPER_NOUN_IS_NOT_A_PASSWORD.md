@@ -60,8 +60,9 @@ Adjacency is the whole design. An em-dash anywhere in a two-sentence window matc
 in this corpus and would certify nothing; the first draft of the gate did exactly that and passed all
 nine files while the Veil was still unexplained.
 
-Measured 2026-10-25, after the pass: **`01_MAJIN` 0 cold of 13.** The other eight carry **34 cold terms
-between them**, printed on every build as debt.
+Measured 2026-10-25 after the pass: **all nine extended files at zero cold terms.** The other eight were
+not glossed when this gate was written — they carried 34 between them — and the table that would have
+recorded them is now empty, which is a better state than a debt of zero.
 
 **What it cannot check:** whether the gloss is true, or good, or short enough not to stop the scene.
 That is the reader's pass (`O-29`, `R-38`).

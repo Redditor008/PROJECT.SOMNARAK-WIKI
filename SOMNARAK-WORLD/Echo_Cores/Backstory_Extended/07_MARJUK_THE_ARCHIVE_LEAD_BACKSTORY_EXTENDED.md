@@ -23,6 +23,8 @@ A woman is standing at the counter with her hands flat on it, which is what peop
 
 Her name is Jieun. She is sixty-one. She has come up from Zone B on the municipal lift with a paper slip from her district office and a photograph that has been folded and unfolded so many times that the crease has taken the face.
 
+The Cheongula is the city's founding wound: a thousand citizens left in a district the Council had decided was not worth the cost of moving. The city says the word the way it says a year.
+
 > **[Jieun]** "My grandmother died in the Cheongula."
 
 Marjuk does not answer immediately. The archive does not have an entry for *the Cheongula* under that name; it has one under `Year 202 — Zone B — total loss`, and the two entries are the same event described by two different offices.
@@ -140,12 +142,12 @@ The understanding arrived in the least dramatic way possible. He was writing the
 > **CH-202 — ORDER OF DEPOSIT, AS THE FILE HAS IT**  \
 > *Year 195: Mender projection, Zone B consumed within a decade at the observed growth rate. Received. Filed.*  \
 > *Year 195–202: Warden reports, Architect surveys, citizen petitions. Received. Filed.*  \
-> *Year 202, Day 1: Han rises through the district. Duration of active loss: seventeen minutes.*  \
+> *Year 202, Day 1: Han — the substance, the thing the district is built over — rises through it. Duration of active loss: seventeen minutes.*  \
 > *Year 202, Day 1: Council instrument — contain, deny entry, allow the course.*  \
 > *Year 202, Day 2: public account issued. Cause: unforeseeable natural overflow.*  \
 > *Names of the lost: not held by this office.*
 
-That last line is his, in the margin of a file that predates the Consolihan. He added it after the ninth day, because the form had no field for it and because he had begun to suspect that he was looking at a document that had been *completed* rather than written.
+That last line is his, in the margin of a file that predates the Consolihan — the annual mourning, and before it the war that gave the mourning its name. He added it after the ninth day, because the form had no field for it and because he had begun to suspect that he was looking at a document that had been *completed* rather than written.
 
 He took it to the Head Keeper.
 
@@ -274,6 +276,8 @@ So the vault became a job about comparison. He kept everything, in every iterati
 > **[Marjuk]** "A memory fragment from Before-Time. Pre-Consolihan. It mentions... the Furnace."
 
 He had it on the Reading Room table with the case open and the blank slate beside it, and his hands were not shaking, because the hands are artificial and the shaking does not reach them, which is one of the small mercies of the body he was given.
+
+Cheonbulok is the Corner across the salt: a furnace in a basin, four hundred years old, and what it burns is sorrow.
 
 > **[Seiyon]** "The Furnace of Cheonbulok?"
 
