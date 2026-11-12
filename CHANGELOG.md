@@ -2,6 +2,33 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the dossier points at the world
+
+**A record may cite a record, never a shelf. Four leaks, and a new gate with a zero ceiling.**
+
+- **The Director's dossier printed a filename mid-story** — *"…shielding him from terminal psychic
+  dissolution (`The_MEMORY_ARCHIVE.md` § 3.2)"*. The sentence already names the Memory Archive as its
+  source, so the parenthesis was carrying the filing cabinet, not the attribution. Removed.
+- **A Sorrow-Entity dossier's Archival Note gave a full folder path** where the registry ID `SE-1001`
+  was already in the sentence.
+- **Three backstory files opened with a filename in PROVENANCE** — `THE_ARCHIVE_LEAD.md`,
+  `THE_EXILE.md`, `THE_OUTSIDER.md` — on the first screen a reader meets, while the other six named
+  records in-world. Now *the Echo-Core 7 / 8 / 9 dossier*.
+- **`R-63` states the rule and gate 57 enforces it**, ceiling 0, no debt register: a dossier's *visible*
+  text may contain no filename, folder path or bare section number.
+- **2,276 markdown links are untouched, deliberately.** A link renders as its label — *The Debt Scale*,
+  never the filename — so the archive navigates without describing the shelf. The rule is about what a
+  reader can see, and the test is applied after link destinations are replaced by their labels. The
+  backstory appendix keeps its citations for the same reason: it is archive apparatus, and §X.3
+  requires it.
+
+**The checker's first version could not see the defect that created it** — a negative lookbehind
+excluded a backtick, so a filename inside a code span passed. It was fed the founding example, watched
+print PASS, and fixed. A checker is not finished until it has been shown to fail.
+
+**Verified:** 310 dossiers + 9 backstory story bodies, 0 visible pointers · 63 rules indexed · 57 gates
+registered · 27 standards wired · 0 broken links · gate PASS.
+
 ## Unreleased — stacked dialogue and the M.A.W. named
 
 **Three faults: dialogue that rendered in one block, speech reduced to mentions of speech, and the M.A.W.

@@ -6,7 +6,7 @@
 > **ERA:** Keeper apprenticeship through the first unlooped year  \
 > **SPINE:** A blank tablet set beside every opened record; the archive that survived while the people in it did not; the same tablet set beside a record that is not his  \
 > **ACCESS:** Open. Two items are held under triple lock: the Year 195 Mender projection and the Founder's journal. Both are quoted here; neither leaves the vault.  \
-> **PROVENANCE:** Keeper apprenticeship record; Grand Archive catalogue; Year 195 Mender projection; Year 202 Wardens' log; Council instrument of receipt; Cryogen taxonomy; `THE_ARCHIVE_LEAD.md`; Absolvohan Parts 2, 3, 5, 6, 7, 8 and 9 anchor scenes; one Reading Room counter entry, Year 4,238  \
+> **PROVENANCE:** Keeper apprenticeship record; Grand Archive catalogue; Year 195 Mender projection; Year 202 Wardens' log; Council instrument of receipt; Cryogen taxonomy; the Echo-Core 7 dossier; Absolvohan Parts 2, 3, 5, 6, 7, 8 and 9 anchor scenes; one Reading Room counter entry, Year 4,238  \
 > **RELIABILITY:** Exact for provenance, quotation and catalogue order. He cannot verify what the Final Door wants, and this record does not verify it for him.  
 
 ---

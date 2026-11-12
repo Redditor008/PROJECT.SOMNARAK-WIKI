@@ -99,6 +99,84 @@ dating, the *"four thousand years"* recount. SEIYON remains gated on your sign-o
 
 ---
 
+## Batch 232 — the dossier points at the world (2026-10-25)
+
+### 1. What you asked
+
+*"Also in the dossier there should never be a `.md` mention used other way to point other file, in a
+dossier that should act as if it was a dossier."*
+
+### 2. What was wrong
+
+One line, and it was the kind that is invisible because it is *correct*:
+
+> The Memory Archive holds the manner of her death… she sealed the core with her own body,
+> **shielding him from terminal psychic dissolution** (`` `The_MEMORY_ARCHIVE.md` § 3.2 ``).
+
+The sentence names its source in its own subject — *the Memory Archive holds it* — so the parenthesis
+was not carrying the attribution. It was carrying the filing cabinet. A dossier a reader is holding
+cannot contain a filename or a section number: those are facts about the shelf, not the city.
+
+**The gate found two more before it was finished.** A Sorrow-Entity dossier's own Archival Note gave a
+whole folder path — `` `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1001_The_Kind_Echo/` `` —
+where the registry ID `SE-1001` was already in the sentence. And three backstory files opened with a
+**PROVENANCE** line naming `` `THE_ARCHIVE_LEAD.md` ``, `` `THE_EXILE.md` `` and `` `THE_OUTSIDER.md` ``
+on the first screen a reader meets, while the other six files in the same set named records in-world.
+
+### 3. What was measured, and what was deliberately left
+
+The population was counted before anything was touched, because "the dossier" could have meant 3 files
+or 2,276 links:
+
+| corpus | files | visible `.md` before | after |
+|---|---:|---:|---:|
+| Echo-Core dossiers | 9 | **1** | 0 |
+| Sorrow-Entity dossiers | 290 | 0 | 0 |
+| Unknown-Entity dossiers | 11 | 0 | 0 |
+| backstory story bodies | 9 | **3** | 0 |
+| `Pages/` (wiki navigation, not dossiers) | 44 | 6 | 6 — out of scope |
+
+**2,276 markdown links were left alone, and the reason matters.** A link renders as its label:
+`[The Debt Scale](SE-C-IIIβ-015_….md)` shows *The Debt Scale* and never the filename. The archive
+cannot navigate without them and every one of them reads in-world. **The rule is about what a reader
+can see, not about bytes**, so the test is applied to the text *after* link destinations are replaced by
+their labels. What follows from that is the rule's whole shape: point at a record by what it is, reach
+it by a link, never print the shelf.
+
+The backstory **appendix** is also untouched — the source ledger ties each claim to the file that
+carries it, which the structure standard (§X.3) requires. The story body above it is held to the rule
+in full, which is where three files were failing.
+
+### 4. The rule, and the checker
+
+`R-63 — The Dossier Points In-World` (third of the in-world family, after `R-01`'s no-edit-meta and
+`R-59`'s gloss rule). Gate 57, `check_dossier_world_pointer.py`, ceiling **zero**, no debt register.
+
+**The checker's first version could not see its own founding example.** The negative lookbehind
+excluded a backtick — so a filename inside a code span, which is exactly what the owner pointed at, was
+invisible to it. It passed the dirty tree. I fed it the defect that produced the rule, watched it print
+PASS, and fixed the regex. Then it caught three classes at once: filename, folder path, section number.
+**A checker is not finished until it has been shown to fail on the thing that made it necessary.**
+
+It also had to be taught the corpus before it was useful: `the file` and `in this file` are a dossier
+describing itself (`R-01` permits it), and `filed` / `filing` / `case file` are the world's vocabulary.
+Without those exemptions the first run would have flagged the whole archive and been switched off.
+
+### 5. Auditors
+
+`check_dossier_world_pointer` PASS (310 dossiers + 9 story bodies, 0 visible) · `check_rule_index` PASS
+(63 rules filed, 63 indexed) · `check_gate_numbers` PASS (57 gates, register agrees) ·
+`check_gate_wiring` PASS (27 cited standards, 27 wired) · `check_links` PASS (0 broken) ·
+`how_finished` reads the new standard **DONE, 0 of pointers** · gate PASS · pushed.
+
+### 6. What is still open
+
+Unchanged: the Cheongula sister impossibility at Parts level, the 140-scene stamp debt on 02–09, the
+Year 4,226 / cycle-year 4,232 station dating, the *"four thousand years"* recount, and the
+mention-compression audit of the other eight Echo-Core dossiers. SEIYON remains gated on your sign-off.
+
+---
+
 ## Batch 231 — dialogue stacked, dialogues unsquashed, the M.A.W. named (2026-10-25)
 
 ### 1. What you asked
