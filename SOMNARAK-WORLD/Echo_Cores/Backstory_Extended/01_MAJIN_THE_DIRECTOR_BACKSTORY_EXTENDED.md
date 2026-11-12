@@ -178,7 +178,7 @@ He went up.
 
 The seals were hers.
 
-He had the theory. It fit on one side of a page, which was one of its attractions, and she had read it and said so. She had the other half, the half with tolerances in it: every clamp in that building, every gasket rated for a pressure nobody had ever measured, every sealed cell from the sample bench down to the cold store. Six years of her handwriting in a maintenance schedule he had signed off on eleven times and read, he would later have to admit, none of them.
+He had the theory, and it was short enough to argue with in a corridor, which she had done. She had the other half, the half with tolerances in it: every clamp in that building, every gasket rated for a pressure nobody had ever measured, every sealed cell from the sample bench down to the cold store. Six years of her handwriting in a maintenance schedule he had signed off on eleven times and read, he would later have to admit, none of them.
 
 Four times in four years she had asked, in writing, for them to be tested at load. The building was in use. The test would mean emptying a wing. The Council taxed her designs the way it taxed his reports: it took the money and did not read them.
 
@@ -1265,7 +1265,7 @@ Dekan's own record carries what followed: the same four markers measured again, 
 
 The syllables were not the part that stayed with him. The syllables were a fact about the wall.
 
-What stayed with him was an hour in an earlier iteration when the Veil generators in Zone D failed for three hours. Twelve citizens were exposed to raw Han. Two Fractured — what the record writes when a person's own sorrow has gone past them and the body keeps the appointment anyway. The diversion had taken the surplus out of the same grid, and the report he signed that night had recorded the exposure, the Fractures, and the three hours in the annex, and had not mentioned them in the command summary.
+What stayed with him was three hours of this iteration, when the Veil generators in Zone D failed. Twelve citizens were exposed to raw Han. Two Fractured — what the record writes when a person's own sorrow has gone past them and the body keeps the appointment anyway. The diversion had taken the surplus out of the same grid, and the report he signed that night had recorded the exposure, the Fractures, and the three hours in the annex, and had not mentioned them in the command summary.
 
 He had read the names of the two who Fractured. He had read them twice, because the first reading had not made them stay, and the second had.
 
@@ -1863,14 +1863,14 @@ Then he let her go.
 
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | Yeon-seo | The sentence he will misread | Connective scene |
-| 2 | The Doorway | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier The Solidification; Dossier Origin, for the last ordinary day. Nine days before the floor warms | Yeon-seo | The five words, said twice | Canon-anchored |
+| 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier The Researcher; Project Somnarak Consolihan | Yeon-seo | The sentence he will misread | Connective scene |
+| 2 | The Doorway | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier The Solidification; Dossier The Researcher, for the last ordinary day. Nine days before the floor warms | Yeon-seo | The five words, said twice | Canon-anchored |
 | 3 | The Room | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, Year 4,238 and after | Majin | The sheet with forty-one questions, and the refusal of the first date | ON THE PAGE |
 | 4 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification; `The_MEMORY_ARCHIVE.md` § 3.2, for the seals and the sacrifice | Yeon-seo | "Don't let the sorrow win" — said twice, once about the experiment | Canon-anchored |
 | 5 | The Filing | PAST | TPV camera | The registrar, the civil register | — | DIALOGUE | Document | C/R | Civil register of Facility 01; `The_MEMORY_ARCHIVE.md` § 3.2 for the heading THE ORIGINAL | Yeon-seo | The designation an archive copy, and the man who wrote it | Canon-anchored |
-| 6 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
+| 6 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
 | 7 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
-| 8 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
+| 8 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier The Indication | Majin | The office he cannot refuse | Canon-anchored |
 | 9 | The Eight | PAST | TPV camera | The Council envoy; Majin | — | DIALOGUE | Institutional event | C/R | Dossier The Directorate; `The_REVERIE_DIRECTORATE.md` § Echo-Core 1 | Majin | The charters, and the desk everything converges on | Connective scene |
 | 10 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station, Year 4,226 | Seiyon | The silence becomes policy | Connective scene |
 | 11 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
@@ -1884,10 +1884,10 @@ Then he let her go.
 | 19 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
 | 20 | The Room — The Word | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, after Day 145 | The Founder | He chooses the page over the record he signed | ON THE PAGE |
 | 21 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
-| 22 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | the Day 121 visible entry, the Day 145 hidden one; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
+| 22 | The Break | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | the Day 121 visible entry, the Day 145 hidden one; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
 | 23 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
 | 24 | The Room — The Names | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, after Day 160 | The four hundred and six | A clerk reads names that are mostly wrong, and he lets her | ON THE PAGE |
-| 25 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
+| 25 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier The Researcher | Yeon-seo | The same afternoon, re-heard | Connective scene |
 | 26 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
 | 27 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
 | 28 | The Room — The Signature | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, eleventh month, eleventh day | Yeon-seo | The declaration signed after one reading, and the doorway left open | ON THE PAGE |
@@ -1898,9 +1898,9 @@ Then he let her go.
 
 | Speaker | Kind | Labels used | Bounds |
 |---|---|---|---|
-| **Majin** | Canon; POV bearer in twenty of the twenty-eight scenes | `[Majin]` (180) | The whole file |
-| **Seiyon** | Canon | `[Seiyon]` (83) | The station, from Year 4,226 onward. She appears where a log exists and is absent from the catwalk, because no channel there was recorded. |
-| **Dekan** | Canon | `[Dekan]` (23) | Day 1, Day 29, Day 53. Everything he says is a report, a question, or the wall he is being used as. |
+| **Majin** | Canon; POV bearer in twenty of the twenty-eight scenes | `[Majin]` (184) | The whole file |
+| **Seiyon** | Canon | `[Seiyon]` (84) | The station, from Year 4,226 onward. She appears where a log exists and is absent from the catwalk, because no channel there was recorded. |
+| **Dekan** | Canon | `[Dekan]` (25) | Day 1, Day 29, Day 53. Everything he says is a report, a question, or the wall he is being used as. |
 | **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 | `[Yeon-seo]` (11) | Three scenes: the bench, the doorway, the seal. She is the author of the containment discipline the Directorate later inherits and never credits. |
 | **Marjuk** | Canon | `[Marjuk]` (10) | Day 145 and Floor 6. He answers what the archive is asked and offers no theory about the Founder. |
 | **Insu** | Backstory-only, named in the debrief preamble | `[Insu]` (7) | The Year 4,238 debrief. He was on the table's other side, and he is the one who remembers the word *noted*. |
@@ -2042,22 +2042,22 @@ PB (C/R) — THE ROOM: a clerk, a printed sheet of forty-one questions, and a ma
 | **The file itself** — its order, its turns, its forward references, and its habit of answering a question eleven months after it is asked | The Public Record Office, eleven monthly sessions beginning in the year of the warm floor and closing in Year 4,238. The clerk's compiled transcript, checked back against nothing. It is the only document in the archive that is a voice rather than a record, and it is the reason the scenes can be out of order and still be true. |
 | The declaration at the back, four lines, signed after one reading | The declaration sheet, Public Record Office, Year 4,238 |
 | Four hundred and six names in the appendix, marked unverified | The Room — The Names. Supplied by the clerk, invented where memory failed, and never checked against a census. |
-| Researcher beneath the Alpha Tree on early Han studies; shared work and private life with another scientist | `THE_DIRECTOR.md` § Backstory, Origins |
+| Researcher beneath the Alpha Tree on early Han studies; shared work and private life with another scientist | `THE_DIRECTOR.md` § Backstory, The Researcher and Yeon-seo |
 | Lover killed in the Solidification; final instruction "Don't let the sorrow win" | `THE_DIRECTOR.md` § Backstory, The Solidification |
 | Yeon-seo was the intellectual architect of the original containment systems; during the breach she sacrificed her physical body to seal the breach core, shielding Majin from terminal psychic dissolution | `The_MEMORY_ARCHIVE.md` § 3.2, The Original: Yeon-seo |
 | Her body rests in an amber stasis sarcophagus at the physical roots of the Alpha Tree; the chamber is later the Memory Archive's Floor 07 | `The_MEMORY_ARCHIVE.md` §§ 3.2, 4 (Floor 07: Origin) and the GIEOK overview § 5.1 |
 | The seals, the maintenance schedule and the load-test refusals are this file's reconstruction; the codex supplies that the containment systems were hers and that she died using them | `The_MEMORY_ARCHIVE.md` § 3.2, read against `THE_DIRECTOR.md` § The Solidification, which leaves the manner of his surviving unrecorded |
-| Ω-grade M.A.W. fusion contained a Sovereign-class manifestation threatening Zone B; conventional containment had failed | `THE_DIRECTOR.md` § Backstory, The Sovereign-Class Containment |
+| Ω-grade M.A.W. fusion contained a Sovereign-class manifestation threatening Zone B; conventional containment had failed | `THE_DIRECTOR.md` § Backstory, The Sovereign |
 | Age 126 in the final Cycle; operational age 1,778 iterations; the body is kept by the field and the memory is not | `THE_DIRECTOR.md` § Profile, Age and Operational Age; reconciled in The Arithmetic of the Man |
-| Alpha Tree selected him during the Consolihan; the Council accepted; "the first command he was never allowed to refuse" | `THE_DIRECTOR.md` § Backstory, Chosen by the Alpha Tree |
-| Directorate formed around him; the other eight specialized — the file gives the founding no year, because dating it would date the loss, which the HOLDs forbid | `THE_DIRECTOR.md` § Backstory, Formation of the R.D. |
-| **The four steps** — contain, endure, accumulate, erase — and "every institution he built afterwards was one of them wearing a different coat" | `THE_DIRECTOR.md` § Backstory, What He Heard and What It Made of Him |
+| Alpha Tree selected him during the Consolihan; the Council accepted; "the first command he was never allowed to refuse" | `THE_DIRECTOR.md` § Backstory, The Indication |
+| Directorate formed around him; the other eight specialized — the file gives the founding no year, because dating it would date the loss, which the HOLDs forbid | `THE_DIRECTOR.md` § Backstory, The Directorate |
+| **The four steps** — contain, endure, accumulate, erase — and "every institution he built afterwards was one of them wearing a different coat" | `THE_DIRECTOR.md` § Backstory, What He Heard and § What It Made of Him |
 | His pulse runs in resonance with the Alpha Tree; the Directorate measures it and never explains it | `THE_DIRECTOR.md` § Backstory, The Sovereign |
 | He does not sleep — the file keeps the dossier's flat statement and never shows him sleeping | `THE_DIRECTOR.md` § Personality and § Notes, On sleep |
 | The Director was a researcher, a lover, a dreamer; lost everything during the Consolihan; the name is buried | `The_REVERIE_DIRECTORATE.md` § Echo-Core 1, Origin and The Director's Tale |
 | The fusion happened when he tried to contain a Sovereign-class entity; the M.A.W. needs him alive | `The_REVERIE_DIRECTORATE.md` § Echo-Core 1, The M.A.W. Fusion |
 | Mnemonic Generator built into the Hand; stabilizes the facility and creates the Cycle | `The_REVERIE_DIRECTORATE.md` § Secretary's secret |
-| Year 4,232 seismic fracturing along the Maw fault; generator deployed; 365-day cycle; 1,778 iterations | `The_REVERIE_DIRECTORATE.md` § Cycle chronology |
+| Year 4,232 seismic fracturing along the Maw fault; generator deployed; 365-day cycle; 1,778 iterations | `The_REVERIE_DIRECTORATE.md` § Phase 2: The Mnemonic Loop Dilation, and § R.D. Classified — The Cycle |
 | 1,778 internal cycles dilated across roughly six external municipal years; no linear Cycle-to-Year conversion exists | `CANON_TIMELINE.md` § Loop-semantics mapping and the 4,232–4,238 row; `The_REVERIE_DIRECTORATE.md` § Phase 2, Duration |
 | Majin designed the stabilization field; the temporal echo was unintended; 0.02 tons per iteration persists | `THE_DIRECTOR.md` § The Cycle |
 | The Directorate was chartered in the shadow of the Tree — recorded without a year, for the reason given above | `PROJECT_SOMNARAK.md` § Timeline; `Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md` § Founding |
@@ -2143,7 +2143,7 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 | Device | Presence in this file | Evidence |
 |---|---|---|
 | **The object** | The scrap of gauge log in her handwriting | Prologue (written, kept); The Bench, Again (held, re-read) |
-| **The withheld sentence** | *Shared is not something you send* — written in micro-ink on Day 145 and never said aloud | What the Founder Wrote; What Broke |
+| **The withheld sentence** | *Shared is not something you send* — written in micro-ink on Day 145 and never said aloud | What the Founder Wrote; The Break |
 | **The counter-witness** | Insu, the senior medic, on the fusion directive: he read it twice, then said "noted" | What the Medics Said; Day 365 |
 | **The permanent symptom** | He reads reports twice, and reads names twice, because once does not make them stay | The Lance; Day 29; Day 365; Willingness |
 | **The oblique speech** | The catwalk, Day 29: the warm floor, the readings he heard instead of her, "what am I supposed to file that under" | Day 29 — The Forgiveness |
@@ -2154,20 +2154,22 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 
 ### Validation record
 
-- Whole canonical dossier read: `THE_DIRECTOR.md` (746 lines).
-- Directly linked records read: `THE_SECRETARY.md`; `The_REVERIE_DIRECTORATE.md` §§ Echo-Core 1 and Cycle chronology; `PROJECT_SOMNARAK.md` §§ Consolihan and Timeline; `SOMNARAK_CHEONGULA.md` §§III–V; `Gieok_Jeojangso/Reading_3_Forgotten_Soldier.md`; Absolvohan Parts 1, 2, 3, 4, 7, 8, 9.
+- Whole canonical dossier read end to end, every section, top to bottom: `THE_DIRECTOR.md`. The
+  line count is deliberately not printed here; it went stale three times, and a reader who wants it can
+  count.
+- Directly linked records read: `THE_SECRETARY.md`; `The_REVERIE_DIRECTORATE.md` §§ Echo-Core 1 and R.D. Classified — The Cycle; `PROJECT_SOMNARAK.md` §§ Consolihan and Timeline; `SOMNARAK_CHEONGULA.md` §§III–V; `Gieok_Jeojangso/Reading_3_Forgotten_Soldier.md`; Absolvohan Parts 1, 2, 3, 4, 7, 8, 9.
 - Anchors verified in the Parts, not only in dossier summaries.
 - Every module answers where, when, who perceives, what changes, and what is said.
 - No Act, Chapter, or Part labels; the three section headings are thematic, not structural.
 - Canonical dossier unchanged.
 - Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
-- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 269 dialogue lines, of which 24 are at dropped volume (italic) and 6 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
+- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 381 dialogue lines, of which 19 are at dropped volume (italic) and 4 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ---
 
 ### Dossier comparison
 
-The dossier is the shorter record and this file is its expanded account, so the test is not whether the two agree in wording. It is whether every fact the dossier asserts survives here, and where it does not, whether the divergence is deliberate and declared.
+The dossier is the shorter record and this file is its expanded account, so the test is not whether the two agree in wording. It is whether the dossier's account of the man survives here, claim by claim — and where it does not, whether the divergence is deliberate and declared. This file is a personnel history, not a chronicle of the year: the events the dossier records that happen to other people, and the ones another Echo-Core's file already owns, are not re-narrated here.
 
 | Dossier | In this file | State |
 |---|---|---|

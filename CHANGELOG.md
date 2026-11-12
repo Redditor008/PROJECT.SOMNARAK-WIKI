@@ -2,6 +2,39 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the whole
+
+**A third pass, with a different question: is the file true about itself? Every count, ledger row,
+citation and cross-reference it prints about its own body was measured against that body. Eight things
+were wrong.**
+
+- **Five citations pointed at dossier sections that do not exist.** The source ledger cited
+  *Origins*, *The Sovereign-Class Containment*, *Chosen by the Alpha Tree* and *Formation of the R.D.* —
+  names from the dossier **before batch 216 rebuilt it**. The real headings are *The Researcher*, *The
+  Sovereign*, *The Indication* and *The Directorate*. A sixth, `§ Cycle chronology`, exists nowhere in
+  the codex; the real locations are *Phase 2: The Mnemonic Loop Dilation* and *R.D. Classified — The
+  Cycle*. The scene ledger carried the same dead names in five cells, and a scene the body calls
+  **The Break** was filed as **What Broke**.
+- **The Zone D Veil failure was dated to the wrong iteration.** *The Annex* said *"an earlier
+  iteration"*; the dossier says twice it was the **final** one. The *Dossier comparison* row had been
+  claiming **Kept** for a fact that was not kept.
+- **The dialogue census described a file that no longer existed** — *269 lines, 24 italic, 6 bold*.
+  True when written in `df99fc21`; measured today, **381 / 19 / 4**. The neighbouring claim that no two
+  consecutive lines share a weight was re-measured and survives.
+- **Three cast counts were stale** — Majin 180 → **184**, Seiyon 83 → **84**, Dekan 23 → **25** — two of
+  them made stale by my own last two batches. The other fourteen were exact.
+- **The dossier's Story was out of date order.** Phase II ran 53, 73, **82, 77, 92, 55**, 97, 65. Every
+  fact kept; the paragraphs re-cut so the whole Story now reads Day 1 → Day 365 with no step backwards.
+- **The comparison overclaimed** *"every fact the dossier asserts"*, which no personnel history can
+  carry. It now says what it tests and states that other files' scenes are not re-narrated here.
+- **A residue of my own last fix** — the clause *"which was one of its attractions"* still stood
+  verbatim in two scenes 140 lines apart.
+- **One recurring trap removed.** The validation record printed the dossier's line count, stale three
+  times running (689 → 748 → 746 → 750). It now prints none.
+
+All sixty auditors, `seam_lint.py` and 494 unit tests pass; cast counts, ledger names and the dossier's
+Story order re-measured clean after the edits.
+
 ## Unreleased — the readable pass
 
 **The same two files read again, this time for whether a reader can follow them. Six places did not.**

@@ -1,5 +1,104 @@
 # Work In Progress
 
+## Batch 229 — the whole (2026-10-25)
+
+### 1. What you asked
+
+*"DO IT AGAIN AS A WHOLE AGAIN"*
+
+### 2. The lens this time
+
+227 tested whether the file was **true**; 228 tested whether it was **readable**. This pass tested
+whether it is true **about itself**: every count, ledger row, citation and cross-reference the file
+prints about its own body was measured against that body. A file that misdescribes itself is not a
+story with a typo — it is a witness whose testimony has been quietly amended.
+
+The narrative body was also re-read top to bottom a third time, and the dossier's Story was tested for
+the one thing a dated chronicle must have: dates in order.
+
+### 3. What was found
+
+**Three cast counts were stale, and two of them were my own doing.**
+
+| Speaker | Printed | Actual |
+|---|---|---|
+| Majin | 180 | **184** |
+| Seiyon | 83 | **84** |
+| Dekan | 23 | **25** |
+
+227 measured `[Majin]` at 180 and then added three lines in the same batch; 228 added another. The
+cast table was updated in 227 and never again. The other fourteen speakers were exact. This is the
+argument for measuring the appendix last, after the prose is finished, not first.
+
+**The dialogue census described a file that no longer existed.** The validation record printed *"269
+dialogue lines, of which 24 are at dropped volume (italic) and 6 at raised volume (bold)."* It was true
+when it was written (`df99fc21`); the file was at 370 by batch 225 and is at **381** now. Measured:
+**381 lines, 19 italic, 4 bold.** The claim beside it — *"no two consecutive lines share a weight"* —
+was re-measured and is still true, which is why it stays.
+
+**Five citations pointed at dossier sections that do not exist.** The source ledger cited
+`§ Backstory, Origins`, `§ Backstory, The Sovereign-Class Containment`, `§ Backstory, Chosen by the
+Alpha Tree` and `§ Backstory, Formation of the R.D.` The dossier's actual headings are **The
+Researcher**, **The Sovereign**, **The Indication** and **The Directorate** — the citation names are
+from the dossier *before* batch 216 rebuilt it. A sixth, `§ Cycle chronology`, exists nowhere in
+`The_REVERIE_DIRECTORATE.md`; the real locations are **Phase 2: The Mnemonic Loop Dilation** and **R.D.
+Classified — The Cycle**. Two more were merged into one name — *"What He Heard and What It Made of
+Him"* is two sections.
+
+This is the defect class 226 fixed for a stale path, and it matters more than a path: the source ledger
+is the table that proves the file is sourced, and a reader who checks a citation was landing nowhere.
+The scene ledger carried the same dead names in five cells, and the §IV.1c table named a scene
+**What Broke** that the body calls **The Break**.
+
+**The Zone D Veil failure was dated to the wrong iteration.** *The Annex* said it happened *"in an
+earlier iteration."* `THE_DIRECTOR.md` says twice — § The Directorate and § The Secret — that it was
+the **final** iteration: *"Seiyon's record of the final iteration holds three hours in which the Veil
+generators in Zone D failed."* The file now says *"three hours of this iteration."* The *Dossier
+comparison* row that already claimed **Kept** was, until now, claiming something false.
+
+**The comparison overclaimed.** Its opening line said the test is *"whether every fact the dossier
+asserts survives here."* It is not, and cannot be: this is a personnel history, not a chronicle of the
+year. The dossier's Day 155, Day 355, the Three Birds and the Kind Healer's twelve blessings belong to
+other files. The line now says what the table actually tests — the dossier's account of **the man**,
+claim by claim — and states plainly that other people's events and other Echo-Cores' scenes are not
+re-narrated here.
+
+**A residue of my own 228 fix.** Cutting the repeated theory sentence left the clause *"which was one
+of its attractions"* standing verbatim in both scenes, 140 lines apart. The second is rewritten so the
+echo is gone rather than halved.
+
+**The dossier's Story was not in date order.** Phase II (Days 53–97) ran **53, 73, 82, 77, 92, 55, 97,
+65** — the paragraph was grouped by thread, not by time, so a reader pinning dates hit Day 82 before
+Day 77 and Day 92 before Day 55. Every fact is kept; the paragraphs are re-cut into strict ascending
+order. The whole Story now reads **Day 1 → Day 365 with no step backwards**, verified by script.
+
+**One recurring trap removed.** The validation record printed the dossier's line count. It has gone
+stale three times — 689, 748, 746, 750 — because the dossier is edited every batch. It now says the
+dossier was read end to end and deliberately prints no number.
+
+### 4. Measured and left alone
+
+- **"I have not been able to die since the floor warmed."** The fusion is what made it literal, and the
+  next clause — *"This just makes it official"* — is the tell that the line is his reading, not the
+  record's. Left as written.
+- **"whose sister died in the Cheongula"** (Day 29, Dekan). The Cheongula is Year 202; the speaker is a
+  living specialist in Year 4,232. It is **verbatim from `Part_3`**, and this file's rule is that no
+  line the Parts word for word is touched. Logged below as a Parts-level item, not fixed here.
+- **"the fourth return" in Day-0 dialogue** — previously ruled deliberate; unchanged.
+
+### 5. Auditors
+
+All sixty auditors, `seam_lint.py`, 494 unit tests, gates 56. Re-measured after the edits: cast counts
+**all exact**, ledger names **all resolve**, dossier Story **monotonic**, 56 stamps, 28 scenes.
+
+### 6. What is still open
+
+**New:** the Parts-level chronology slip above — a living specialist cannot have lost a sister in the
+Cheongula. Unchanged: the 140-scene stamp debt on 02–09, the Year 4,226 / cycle-year 4,232 station
+dating, the *"four thousand years"* recount. SEIYON remains gated on your sign-off.
+
+---
+
 ## Batch 228 — the readable pass (2026-10-25)
 
 ### 1. What you asked

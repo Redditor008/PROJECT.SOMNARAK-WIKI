@@ -221,11 +221,15 @@ On **Day 29** the Smothering Mother tells him she understands and forgives him. 
 
 On **Day 53** the Maw asks, through Dekan, whether the thousand are remembered. Majin admits the city remembers the ritual of mourning but not the truth of the sacrifice.
 
-On **Day 73** a Cheonbulok envoy kneels outside Somnarak and begs for help. Majin watches and does not answer. On **Day 82** the Orphaned Bell tolls softly for the rejected envoy — the mourning the Director declined to express.
+Xyan's second message arrives on **Day 55** — *"The Vaults are leaking."* Majin does not answer it.
 
-On **Day 77** Marjuk locates the Founder's journal, which opens: *"We built a city on sorrow."* On **Day 92** the Kind Healer reaches ten blessings. Xyan's second and third messages arrive on **Day 55** and **Day 97** — *"The Vaults are leaking"* and *"The Silence is breaking."*
+On **Day 65**, to the Weeping's accelerating growth, his response is to accelerate extraction rather than reconsider the premise.
 
-Majin's response to the Weeping's accelerating growth on **Day 65** is to accelerate extraction rather than reconsider the premise.
+On **Day 73** a Cheonbulok envoy kneels outside Somnarak and begs for help. Majin watches and does not answer.
+
+On **Day 77** Marjuk locates the Founder's journal, which opens: *"We built a city on sorrow."*
+
+On **Day 82** the Orphaned Bell tolls softly for the rejected envoy — the mourning the Director declined to express. On **Day 92** the Kind Healer reaches ten blessings. Xyan's third message arrives on **Day 97** — *"The Silence is breaking."*
 
 ### Phase III — Contact and Possibility (Days 101–145)
 
