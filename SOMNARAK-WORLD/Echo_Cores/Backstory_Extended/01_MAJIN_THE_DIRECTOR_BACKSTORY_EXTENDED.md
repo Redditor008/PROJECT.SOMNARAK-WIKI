@@ -174,7 +174,7 @@ He went up.
 
 #### The Sample Bench
 
-> **STAMP — 26 minutes into the Solidification · 23:26 · Floor 3, the sample bench**
+> **STAMP — 2 minutes into the Solidification · 23:26 · Floor 3, the sample bench**
 
 The seals were hers.
 
@@ -220,7 +220,7 @@ She had never needed two hands. She had written the override herself, and she ha
 
 #### Seventeen Minutes
 
-> **STAMP — 17 minutes into the Solidification, then Day 11 · 23:24 · the east core**
+> **STAMP — the Solidification, 17 minutes in, then Day 11 · 23:41 · the east core**
 
 The seal took seventeen minutes to close. The alarm log is exact about that and about nothing else, because the instruments in the core stopped reporting at 23:24 and the log has kept the hole ever since.
 
@@ -763,9 +763,9 @@ That was the part he could not forgive himself for later: not that he had done i
 
 ### The Field
 
-> **STAMP — Year 4,232 · 02:40 · the operations floor, sub-Level 1**
+> **STAMP — Year 4,232, the last night of the year · 23:40 · the operations floor, sub-Level 1**
 
-Year 4,232 began with the ground moving.
+Year 4,232 ended with the ground moving.
 
 It was not an Ordeal. Ordeals announce themselves with a color and a time. This was the Maw fault line deciding, after four thousand years, that it had had enough. The seismic record shows eleven minutes of fracturing along the eastern foundation that would have taken the lower city down within the hour.
 
@@ -1109,15 +1109,15 @@ Dekan waited. Majin did not give him anything else to carry, so he saluted and l
 
 #### The Night
 
-> **STAMP — Cycle 1,778, Day 1, that night · 02:00 · the corridor outside the office**
+> **STAMP — Cycle 1,778, Day 1, that night · 23:45 · the corridor outside the office**
 
 At 23:45 the facility dropped to nocturnal lighting. Majin sat with the Maw's telemetry open: six precise syllables, repeated at intervals, logged by the acoustic array as a *named-address event, unresolved*.
 
-It was the name he had carried before the Directorate. Before the floors, before the title, before anyone in this building had needed to call him anything at all.
+He had spent a long time trying to place it. It was not the personal name, and it was not the office, and it was not the designation, and it had come back on the same day of every iteration in the same six syllables, and by now he had stopped being able to tell whether that made it more likely to be his or less.
 
 He had not heard it spoken in a voice that was not his own in a very long time, and the voice in the wall was not a voice. It was a pressure with edges.
 
-The same six syllables had come through in an earlier iteration, on the same day, at the same hour, while he was signing a diversion order. He had read the transcript. He had entered *Noted.* He had not gone down to hear it himself, because going down would have meant standing at the Maw's edge and listening to a name he could not answer, and there had been a facility to run.
+The same six syllables had come through in every iteration, on the same day, at the same hour, while he was signing a diversion order. He had read the transcript. He had entered *Noted.* He had not gone down to hear it himself, because going down would have meant standing at the Maw's edge and listening to a name he could not answer, and there had been a facility to run.
 
 The log records the exchange as routine acoustics. The log is correct. It was routine. That is the part he keeps.
 
@@ -1235,7 +1235,17 @@ He went back up. Dekan has said, in a statement taken for this record, that the 
 
 > **[Dekan]** "*He carries the weight. He will carry the stone.*"
 
-> **[Dekan]** *"They were repeating your old operational callsign, Director. The one from the first century of the Before-Time."*
+> **[Dekan]** *"And under it, the six syllables from Day 1. The ones the array files as your name. Director — it asked something."*
+
+> **[Majin]** "Then say it."
+
+> **[Dekan]** "*Do they remember us?*"
+
+> **[Majin]** "The city remembers the rite. A thousand lamps, one night a year, the squares quiet. It does not remember what the lamps are for."
+
+> **[Dekan]** "That is not an answer."
+
+> **[Majin]** "It is the answer."
 
 > **[Majin]** "Increase the magnetic dampeners by 15 percent. Deploy four additional anchor pins into the granite bed."
 
@@ -1253,7 +1263,7 @@ Dekan's own record carries what followed: the same four markers measured again, 
 
 > **STAMP — Cycle 1,778, Day 53, later · 16:00 · the annex**
 
-The callsign was not the part that stayed with him. The callsign was a fact about the wall.
+The syllables were not the part that stayed with him. The syllables were a fact about the wall.
 
 What stayed with him was an hour in an earlier iteration when the Veil generators in Zone D failed for three hours. Twelve citizens were exposed to raw Han. Two Fractured — the city's word for what is left when a person's own sorrow goes past what a person can be and the body goes on walking without anyone behind it. The diversion had taken the surplus out of the same grid, and the report he signed that night had recorded the exposure, the Fractures, and the three hours in the annex, and had not mentioned them in the command summary.
 
@@ -1481,9 +1491,9 @@ He looked at the barrel, which was now two barrels, and at the copper manifold p
 
 ---
 
-> **STAMP — Cycle 1,778, Day 149, after the cut · 04:00 · a cold office**
+> **STAMP — Cycle 1,778, Day 150 · 04:00 · a cold office**
 
-It was not the sentence. He had read the sentence before. Marjuk had quoted it on Day 121, in the last entry, and it had gone into the command register as an archival finding and had not changed a single order.
+It was not the sentence. He had read the sentence before — on Day 121 Marjuk had brought him the journal's last visible entry, which promised a thing it did not name, and it had gone into the command register as an archival finding and had not changed a single order.
 
 What broke was the word *shared.*
 
@@ -1647,7 +1657,7 @@ She did not ask what he meant. She read out four hundred and six names, most of 
 
 > **STAMP — Cycle 1,778, Day 365 · 06:00 · Floor 3, the sample bench**
 
-Nine days after the dispersal he went to the Deep Vault and asked for a box.
+Two hundred and five days after the dispersal he went to the Deep Vault and asked for a box.
 
 It came up from *pre-institutional research, unsorted*: eleven items in a crate that smelled of old paper and the inside of a locked cabinet. Nine were his. Two were hers.
 
@@ -1663,7 +1673,7 @@ He had kept it for seventeen hundred years because he thought it was a design br
 
 #### The Afternoon
 
-> **STAMP — Cycle 1,778, Day 365, remembering the sixth research year · 15:00 · Floor 3, the bench**
+> **STAMP — Cycle 1,778, Day 365, remembering the sixth research year · 13:00 · Floor 3, the bench**
 
 It was not a design brief. It was an afternoon.
 
@@ -1717,7 +1727,7 @@ He put the paper down very carefully, the way you put down something that has be
 
 > **[Majin]** "And today?"
 
-> **[Seiyon]** "Today is Day 365, and the clock has not reset, and it is not going to. Two hundred and five days since the Hand of Hope opened. One hundred and eighty-eight since you opened the gates."
+> **[Seiyon]** "Today is Day 365, and the clock has not reset, and it is not going to. Two hundred and five days since the Hand of Hope opened. One hundred and eighty-eight since you opened the facility and the archives."
 
 > **[Majin]** "Hope."
 
@@ -1739,7 +1749,7 @@ He did not answer that. He stood at the window with his hands behind his back an
 
 > **STAMP — Cycle 1,778, the morning after Day 365 · 09:00 · the public archive**
 
-The disclosure took most of the year. The Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, and *the Cycle* — the plainest of the words and the one the city could not make fit in its mouth: that the same year had already happened one thousand seven hundred and seventy-eight times, and that every person reading the volume had died in it before. Anyone who has read the volumes knows what is in them; what the volumes do not hold is the first week.
+The disclosure took the second half of the year. The Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, and *the Cycle* — the plainest of the words and the one the city could not make fit in its mouth: that the same year had already happened one thousand seven hundred and seventy-eight times, and that every person reading the volume had died in it before. Anyone who has read the volumes knows what is in them; what the volumes do not hold is the first week.
 
 The first thing the city did was count. It had been told the same year had happened 1,778 times, and it did the arithmetic on its own dead, and then it did the arithmetic again, and the number stopped being a number.
 
@@ -1863,14 +1873,14 @@ Then he let her go.
 | 12 | The Arithmetic of the Man | PAST | TPV | Majin | — | BOTH | Document | C | Dossier Profile, Age 126 and Operational Age | Majin | The one body the field returns with the building | Connective scene |
 | 13 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
 | 14 | Day 0 — And You | FLASHBACK | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
-| 15 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
+| 15 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address event, not the syllables | Canon-anchored |
 | 16 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
 | 17 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
 | 18 | The Room — The Date | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, eleventh month, year of the warm floor | Yeon-seo | He writes the first date himself, in her hand | ON THE PAGE |
 | 19 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
 | 20 | The Room — The Word | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, after Day 145 | The Founder | He chooses the page over the record he signed | ON THE PAGE |
 | 21 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
-| 22 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
+| 22 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | the Day 121 visible entry, the Day 145 hidden one; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
 | 23 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
 | 24 | The Room — The Names | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, after Day 160 | The four hundred and six | A clerk reads names that are mostly wrong, and he lets her | ON THE PAGE |
 | 25 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
@@ -1884,7 +1894,7 @@ Then he let her go.
 
 | Speaker | Kind | Labels used | Bounds |
 |---|---|---|---|
-| **Majin** | Canon; POV bearer in seventeen of the twenty-seven scenes | `[Majin]` (178) | The whole file |
+| **Majin** | Canon; POV bearer in twenty of the twenty-eight scenes | `[Majin]` (180) | The whole file |
 | **Seiyon** | Canon | `[Seiyon]` (83) | The station, from Year 4,226 onward. She appears where a log exists and is absent from the catwalk, because no channel there was recorded. |
 | **Dekan** | Canon | `[Dekan]` (23) | Day 1, Day 29, Day 53. Everything he says is a report, a question, or the wall he is being used as. |
 | **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 | `[Yeon-seo]` (11) | Three scenes: the bench, the doorway, the seal. She is the author of the containment discipline the Directorate later inherits and never credits. |
@@ -1936,11 +1946,11 @@ Then he let her go.
 | Year 4,226 | The Face in the Station; The First Morning; The Second Morning; What He Did Not Say | The station is built without a mirror and comes online at 06:00. The silence becomes policy. |
 | Year 4,232 — Cycles 1 through 1,778 | The Field; The Directive; The First Repeat; The Arithmetic of the Man; The Arithmetic; The Decision; The Lance | The field closes over the district. The reserve grows at 0.02 tons per iteration. The body is handed back and the memory is not. |
 | Cycle 1,778, **Day 0** | Day 0 — And You | He asks how she is, by name, for the first time in forty-three cycles. |
-| Day 1 | The Word in the Wall | The Maw speaks his pre-Directorate name. |
+| Day 1 | The Word in the Wall | The Maw speaks six syllables the array files as his name, and none of his own names fit them. |
 | Day 29 | The Forgiveness; The Catwalk | The Mother forgives him. He goes down to Floor 2 and says the wound to a subordinate as though it were a question about filing. |
-| Day 53 | What the Wall Remembers; The Annex | The Maw repeats his old callsign. He asks for names instead of a summary, and files nothing. |
+| Day 53 | What the Wall Remembers; The Annex | The Maw asks whether the thousand are remembered, and he answers with the rite. He asks for names instead of a summary, and files nothing. |
 | Day 145 | The Hidden Entry; Floor 6, After | The Founder's page says *shared*, and the word the record has been built on — *ended* — stops working. |
-| Day 149 | The Cannon and the Fountain; The Manifold Room; The Break | He orders the barrel cut and watches it. Alone at 04:00, the word *shared* arrives. |
+| Day 149–150 | The Cannon and the Fountain; The Manifold Room; The Break | He orders the barrel cut and watches it. Alone at 04:00 the next morning, the word *shared* arrives. |
 | Day 160 | The Fountain | The wheel turns at midday, the gauge falls to zero, and fifteen percent transforms while eighty-five persists. |
 | Day 365 | The Ledger of Names; The Public Archive | The record opens as names rather than tonnage, and the city reads over his shoulder. |
 | Year 4,238 | Willingness | He reads a report once, signs it, and puts it down. |
@@ -2002,7 +2012,7 @@ PB (C/R) — THE ROOM: a clerk, a printed sheet of forty-one questions, and a ma
 → T (C): the lance — the misreading becomes a design
 → T (C/R): the station — he builds her from grief and calls it infrastructure
 → T (C): Day 0 — "And you?"; the first crack
-→ T (C): Day 1 — the wall says his name
+→ T (C): Day 1 — the wall says six syllables that fit none of his names
 → T (C): Day 29 — the forgiveness he cannot file
 → T (C/R): Day 53 — the annex names
 
@@ -2053,7 +2063,7 @@ PB (C/R) — THE ROOM: a clerk, a printed sheet of forty-one questions, and a ma
 | "And you?" / forty-three cycles / "operational" | Absolvohan Part 1, Day 0 |
 | Day 1: the Bell tolls; the Maw whispers the Director's name | Absolvohan Part 2, Day 1 |
 | Day 29: the Smothering Mother's message, "I understand. I forgive." | Absolvohan Part 3, Day 29 |
-| Day 53: the Maw speaks the old callsign; "He carries the weight" | Absolvohan Part 4, Day 53 |
+| Day 53: the Maw asks whether the thousand are remembered; "He carries the weight" | Absolvohan Part 4, Day 53; `THE_DIRECTOR.md` § Story, Day 53 |
 | Zone D Veil failure, three hours, twelve exposed, two Fractured, not mentioned | `THE_DIRECTOR.md` § The Secret |
 | Day 149: the manifold modification; "like rain"; "Turn the cannon into a fountain." | Absolvohan Part 8, Day 149 |
 | Day 365: sunrise on yesterday's work | Absolvohan Part 9, Day 365 |
@@ -2082,7 +2092,7 @@ This is why the record prints the name and the man does not. The facility knows 
 
 ### Knowledge boundaries
 
-- Majin does not know the Maw is using a Doorspeech fragment rather than his ordinary name. He recognises the syllables as a name he carried; he does not know position two of the Doorspeech varies, or that the Archive Lead keeps 1,778 variants. `THE_DIRECTOR.md` § The Echo-Core Name.
+- Majin does not know the Maw is using a Doorspeech fragment rather than his ordinary name. He hears six syllables the array files as his name, tries the personal name, the office and the designation against them, and finds none of them; he does not know position two of the Doorspeech varies, or that the Archive Lead keeps 1,778 variants. `THE_DIRECTOR.md` § The Echo-Core Name.
 - Majin knows her name. He does not use it, and the record prints it anyway. *The Original* is the designation he and the Directorate use in speech and in reports; it is not a statement that her name is unknown.
 - Majin never enters Seiyon's interior. Her silence in the station scene is observed behavior; her answer in the bench scene is her own filed speech.
 - Majin does not know what the Sovereign entity was, whether the eighteen were nine, or whether the four hundred and six who came out were the four hundred and six who went in. The file says so.
@@ -2103,7 +2113,7 @@ This is why the record prints the name and the man does not. The facility knows 
 | Memory across resets | `THE_DIRECTOR.md`: full retained chronology | Absolvohan Part 1: "You lose the marrow" | Unresolved. This file records his refusal to accept the purge as his own reading and asserts no memory loss on his behalf; file 02 quotes the Part 1 line because the Parts govern the spoken scene. Neither account is averaged into the other. |
 | Reserve at Day 0 | `THE_DIRECTOR.md` § Notes: archived estimate near 36 tons | Absolvohan Part 1: 47.300 tons held | Unresolved. The body uses the 0.02-ton rate and a spoken estimate only. |
 | The sentence said twice | `THE_DIRECTOR.md` § The Solidification: *"Her last recorded words"* — one saying, at the seal | This file: the doorway on Day −9 and the seal on Day 0 | **Both are hers, and the second is the last.** The dossier's line is honoured as the record's last words; the earlier saying is this file's addition and is flagged here rather than merged into the dossier. |
-| Six syllables | `THE_DIRECTOR.md`: variable Doorspeech variants | Absolvohan Part 2: six precise syllables | Not equated. |
+| Six syllables | `THE_DIRECTOR.md` § The Echo-Core Name: position two of the Doorspeech is variable and never recorded twice, and the Maw surfaces the Door's fragment **오누스도** — not Majin | Absolvohan Part 2, through Dekan: six precise syllables, filed by the array as the Director's name | **The Part governs what is heard; the dossier governs what it is.** The file keeps the six fixed syllables and no longer calls them his: he tries the personal name, the office and the designation against them and finds none. Dekan's report calls it the Director's name because that is how the array files it, not because anyone in the building knows. He is never told. |
 
 ---
 
@@ -2139,7 +2149,7 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 
 ### Validation record
 
-- Whole canonical dossier read: `THE_DIRECTOR.md` (689 lines).
+- Whole canonical dossier read: `THE_DIRECTOR.md` (746 lines).
 - Directly linked records read: `THE_SECRETARY.md`; `The_REVERIE_DIRECTORATE.md` §§ Echo-Core 1 and Cycle chronology; `PROJECT_SOMNARAK.md` §§ Consolihan and Timeline; `SOMNARAK_CHEONGULA.md` §§III–V; `Gieok_Jeojangso/Reading_3_Forgotten_Soldier.md`; Absolvohan Parts 1, 2, 3, 4, 7, 8, 9.
 - Anchors verified in the Parts, not only in dossier summaries.
 - Every module answers where, when, who perceives, what changes, and what is said.
@@ -2175,9 +2185,12 @@ The dossier is the shorter record and this file is its expanded account, so the 
 | Seiyon's memory is complete across the iterations | Day 0; Day 365 | **Kept** |
 | He does not sleep | Corrected in What He Understood in the Square | **Contradicted, then fixed.** The file had him going home and sleeping. It is his own flat statement in three places in the dossier; he now lies in the dark and does not spend the hours. |
 | The office is always cold | Willingness | **Kept**, and then deliberately broken on the twelfth day |
+| The Maw surfaces the Door's fragment 오누스도, and he is never told | Day 1 — The Word in the Wall; Day 53 | **Was wrong; now corrected.** The file had called the whisper a name he carried before the Directorate. It is not his and nobody explains it to him. |
+| The Maw asks whether the thousand are remembered | Day 53 — What the Wall Remembers | **Was missing; now restored.** The file had the whisper and not the question. |
+| He opens the facility, the gates and the archives | Day 365 — The Ledger of Names; The Public Archive | **Kept, and split from Day 108.** The gates are Day 108's; the facility and the archives are the last year's, which is why the count is 188 days and not 257. |
 | Where the record is unsettled: the date, the order, the word | HOLDs; The name she is filed under | **Kept** |
 
-**Nothing is silently changed.** Every divergence is declared in the HOLDs. Three omissions were found in this pass and restored; one contradiction, one arithmetic error, one impossible date and one iteration count were found and fixed. The two calendars and the undated loss are the dossier's own rule, not a gap invented here.
+**Nothing is silently changed.** Every divergence is declared in the HOLDs. Across the two comparison passes, four omissions were restored; one forbidden provenance, one cross-file date, one impossible deployment window, four clocks, two counts and one stale line count were corrected. The clocks were the file's own logs disagreeing with its own headers, which is why they are fixed rather than declared. The two calendars and the undated loss are the dossier's own rule, not a gap invented here.
 
 ### Continuity note
 

@@ -14,8 +14,6 @@ Majin is the only Echo-Core who remains fully biological, and the only person kn
 
 ---
 
-**How names are set in this file.** A **designation** — a label standing where a name should be — is set in full caps: **THE ORIGINAL**. A **named thing** — an entity, weapon, account or structure the record has named — is italic at its coining and roman thereafter: *Reaper Hungered*, then Reaper Hungered. An **office** is plain and lower case after *the*: the Director, the Archive Lead. Read the marks; none of them are decoration and none of them are noise.
-
 ## Contents
 
 1. [Profile](#profile)

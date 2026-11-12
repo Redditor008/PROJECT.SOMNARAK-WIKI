@@ -1,5 +1,118 @@
 # Work In Progress
 
+## Batch 227 — the full read (2026-10-25)
+
+### 1. What you asked
+
+*"DO IT ALL OVER AGAIN BUT THIS TIME ON MUCH LARGER SCALE AND MUCH LARGER READING SO PROOFREAD IT
+CAREFULLY WITHOUT GLANCING ANY OF BOTH FILE SO DONT JUST JUMP OVER THINGS THAT YOU THOUGH NOT MATTER
+YOU READ THE FILE 100% THROUGH"*
+
+### 2. The method
+
+Both files, in order, nothing skipped. The dossier (748 lines, 746 after the legend came out) and the
+extended (2,184 lines as read, 2,197 after the Day 53 restoration) were read
+**front to back in sequence** — not searched, not sampled, not indexed by claim — and every defect went
+into a running list before a single edit was made. 226 was claim-by-claim; this was line-by-line.
+
+**Read this pass:** `THE_DIRECTOR.md` 1–748 (all of it) and `01_MAJIN` 1–2,184 (all of it).
+
+### 3. What the read found — fifteen provable defects
+
+**One the dossier forbids outright.**
+
+- **The Maw's whisper was given a false origin.** *Day 1* said the syllables were *"the name he had
+  carried before the Directorate"*, and *Day 53* had Dekan call them *"your old operational callsign…
+  from the first century of the Before-Time."* `THE_DIRECTOR.md` § The Echo-Core Name is explicit: the
+  Maw surfaces the Door's fragment **오누스도** (*onus*, burden · 道, the way); *"The Maw is not using
+  Majin"*; and *"Majin has never been informed."* Both passages are rewritten. He now tries the personal
+  name, the office and the designation against the six syllables and finds none of them — he is not
+  told, and the reader is not told through him. The HOLD row that said only *"Not equated"* now says
+  what diverges and which source governs which half.
+
+**Four clocks the file's own logs contradicted.**
+
+- **The Solidification, twice.** The header read *"26 minutes into the Solidification · 23:26"*; the
+  alarm log in the same scene pins the anchor at **23:24**, which makes 23:26 **two** minutes in. And
+  *"17 minutes into the Solidification · 23:24"* — seventeen minutes in is **23:41**, the minute the
+  seal reads closed, which the scene states twice. Both headers now agree with the log.
+- **Day 1, that night.** The stamp said **02:00**; the first line said the lights dropped at **23:45**.
+  Now 23:45.
+- **Day 365, twice.** Two different rooms were both stamped **15:00** — the bench and the office. The
+  afternoon at the bench is now 13:00.
+- **The Break.** Stamped *Day 149, after the cut · 04:00* — four o'clock is not after an eleven o'clock
+  cut on the same day. It is now Day 150, and the spine row reads Day 149–150.
+
+**One impossible window.**
+
+- **The Field.** The fracture was stamped **02:40** and the prose said the lower city would have come
+  down *"within the hour"* — but the directive that closes the field is stamped **23:59** and the
+  timestamp stops at **23:59:58**. That is twenty-one hours in which the city could have been
+  evacuated, against a directive that says it cannot be. The fracture now happens at **23:40 on the
+  last night of the year**, which is also what the closure requires: the field has to close on the year
+  it is going to repeat. *"Year 4,232 began with the ground moving"* is now *ended*.
+
+**Two dates that pointed at the wrong scene.**
+
+- **Day 121.** *The Break* said Marjuk had quoted the sentence on Day 121. `07_MARJUK`'s Day 121 is
+  **The Last Visible Entry** — *"the journal's visible ending promises a thing it does not name."* It
+  cannot have carried the word *shared*, which is what breaks him on Day 145. The line now says what
+  Day 121 actually did: promised, and did not name.
+- **Day 177.** Seiyon's *"one hundred and eighty-eight since you opened the gates"* computes correctly
+  to Day 177 — but **Day 108** is the famous order, the reversal of his containment doctrine, and it
+  owns the gates. Day 177 owns the facility and the archives. The number is kept; the noun is fixed.
+  The disclosure span follows: *"most of the year"* was 188 days, which is the second half.
+
+**Two counts and a line count.**
+
+- The Cast table still read `[Majin]` **(178)**; the file contains **180**. It also said *"POV bearer in
+  seventeen of the twenty-seven scenes"* against a **28-row** ledger in which he bears the POV in
+  **twenty**.
+- The validation record still claimed the dossier had been read at **689 lines**. It is **748**.
+
+**One arithmetic slip and one gap.**
+
+- *"Nine days after the dispersal"* sat under a **Day 365** stamp. The dispersal is Day 160. It is now
+  two hundred and five days, which is the number Seiyon gives in the same file.
+- **The dossier's Day 53 question was missing.** *"The Maw asks, through Dekan, whether the thousand
+  are remembered. Majin admits the city remembers the ritual of mourning but not the truth of the
+  sacrifice."* The file had the whisper and not the question. Restored in **What the Wall Remembers**.
+
+**The dossier.**
+
+- **The names legend is gone.** *"How names are set in this file"* was an out-of-world style manual in
+  the front matter of a record — the same defect 223 deleted from all nine extended files and gate 55
+  now fails on. The dossier had kept it. It reads from the record designation straight to the contents.
+
+### 4. What the read deliberately did not change
+
+- **"He does not sleep. He does not rest."** The Notes section already qualifies it — *"no examination
+  has established that natural sleep is medically impossible for him"* — and the extended now conforms
+  by showing him not spending the hours. Nothing to fix. This was carried as open from an earlier
+  session and is now closed as **not a defect**.
+- **"188 days since the gates"** — the arithmetic is right to the day.
+- **The sentence said twice** — declared HOLD, still held.
+- **"Fourth return" in dialogue** — a character's approximation, not the record's count.
+- **The two calendars** — the dossier's own rule, printed before the first row of the spine.
+
+### 5. What the file now says that it did not
+
+`### Dossier comparison` gains three rows — the Maw's fragment, the Day 53 question, and the split
+between Day 108's gates and Day 177's facility. Its closing claim is rewritten to cover both passes
+rather than reporting the 226 count as current.
+
+### 6. Auditors
+
+All sixty auditors, `seam_lint.py`, and 494 unit tests. `check_scene_stamps.py`: 56 stamps over 28
+scenes, format PASS, the 140-scene debt on files 02–09 unchanged and still printed as debt.
+
+### 7. What is still open
+
+The stamp debt on 02–09 (140 scenes), the Year 4,226 / cycle-year 4,232 station dating, and the
+*"four thousand years"* recount. SEIYON is still gated on the owner's sign-off, not on a gate PASS.
+
+---
+
 ## Batch 226 — the comparison (2026-10-25)
 
 ### 1. What you asked

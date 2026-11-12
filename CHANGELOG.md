@@ -2,6 +2,42 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the full read
+
+**Both files were read end to end in order — the dossier all 748 lines as it then stood, the extended all
+2,184 — and
+fifteen defects came out of it. One of them was a fact the dossier forbids.**
+
+- **The Maw was given a false origin.** *Day 1* called the six syllables *"the name he had carried
+  before the Directorate"*; *Day 53* had Dekan call them *"your old operational callsign… from the first
+  century of the Before-Time."* The dossier is unambiguous — the Maw surfaces the Door's fragment
+  **오누스도** (*onus* · 道), *"The Maw is not using Majin"*, and *"Majin has never been informed."*
+  Both passages rewritten. He tests the personal name, the office and the designation against the
+  syllables and none of them fit; the file no longer tells the reader, through him, a thing he does not
+  know.
+- **Four clocks disagreed with the logs that printed them.** *"26 minutes into the Solidification ·
+  23:26"* is two minutes in when the anchor is 23:24; *"17 minutes into the Solidification · 23:24"* is
+  23:41; *Day 1, that night* was stamped 02:00 against a 23:45 first line; and two rooms were both
+  stamped Day 365, 15:00.
+- **The Field could have been evacuated.** The fracture was at **02:40** and the lower city was going
+  to fall *"within the hour"* — but the directive that closes the field is stamped **23:59** and the
+  timestamp stops at **23:59:58**. The fracture is now **23:40 on the last night**, which is also the
+  only reading in which closing the field on the year it repeats makes sense.
+- **Two dates pointed at scenes that could not carry them.** *The Break* had Marjuk quoting *shared* on
+  **Day 121**, which is the visible entry that *"promises a thing it does not name"*; and Seiyon's
+  **188 days** was attached to *the gates*, which are **Day 108's** order, not Day 177's facility and
+  archives. The numbers were right both times; the referents were not.
+- **The dossier's Day 53 question was missing** — *"Do they remember us?"* — along with the answer the
+  dossier records: the city remembers the rite and not what the lamps are for.
+- **Counts.** `[Majin]` **178 → 180**; *"seventeen of the twenty-seven"* → **twenty of the
+  twenty-eight**; the validation record's **689 lines** → **748**; *"nine days after the dispersal"* →
+  **two hundred and five**, under a Day 365 stamp.
+- **The names legend left the dossier.** *"How names are set in this file"* was an out-of-world style
+  manual in the front matter of a record. It survived 223 because 223 only swept the extended files.
+
+`### Dossier comparison` gains three rows and a closing claim that covers both passes. All sixty
+auditors, `seam_lint.py` and 494 unit tests pass.
+
 ## Unreleased — the comparison
 
 **The extended file was checked claim by claim against the dossier before closing, and three things the
