@@ -2,6 +2,39 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — stacked dialogue and the M.A.W. named
+
+**Three faults: dialogue that rendered in one block, speech reduced to mentions of speech, and the M.A.W.
+event present but never named.**
+
+- **117 squished dialogue lines across all nine Echo-Core dossiers.** Lines like `> **Majin:** …` and
+  `> **Seiyon:** …` had no blank line between them, so every renderer joined them into a single paragraph —
+  speaker names running together. The raw file *looks* stacked, which is why nine batches of reading walked
+  past it. `THE_DIRECTOR` had six runs of them, `THE_OUTSIDER` eight. All fixed; identity plates and
+  multi-line documents keep one block and now carry hard line breaks so they stack vertically instead of
+  running on.
+- **Thirteen compressed dialogue lines in the dossier's Story**, six in the extended. *"Seiyon states that
+  the facility is stable…"* is now the report spoken; *"the Smothering Mother tells him she understands"* is
+  Dekan reading it off the cell door; *"She states that the Absolvohan is no longer a weapon"* is the
+  argument as speech.
+- **My first Day 108 exchange contradicted `Part_6`.** I gave four hundred and six refugees — the Sovereign
+  event's figure — and put Zyrak at a gate she is not recorded at. `Part_6` files twelve citizens, three
+  families, two children, Gate 05, and Mellda. Canon first, dialogue second.
+- **`R-60`'s own example was still in the dossier** — *"The city weeps, rages, and hopes"*. Replaced with
+  the count and the reading of the names, in the year after Day 365, where it happens.
+- **The Absolvohan's defining line had no speaker.** It is Seiyon's, at Day 177, and now says so.
+- **The M.A.W. was never named in the extended's story.** The event is fully dramatized — extraction,
+  *bonding not attempted*, the container that does not come off, the inability to die, the pulse in
+  resonance — but a reader met an Ω-grade register without being told what was registered. Now glossed at
+  first use: *a Materialized Agony Wear is an entity's sorrow given a shape it can be carried in*, with the
+  working list of hundreds against the Ω row's single entry.
+- **One dossier clause the body never carried:** the sealed sorrow became permanently inseparable from his
+  own. Added in *The Fusing*. Two comparison rows record both restorations; the **Kept** verdict on *"it
+  ended his ability to die"* cited a scene that does not carry it and now cites the two that do.
+
+**Verified:** all seven backstory auditors PASS · citations PASS · no new gloss debt · gate PASS. Dossier
+750 → 797 lines; extended 2,204 → 2,211.
+
 ## Unreleased — integrity, timeline and standard
 
 **A fourth pass, against three written standards rather than a taste: is the file true about its own

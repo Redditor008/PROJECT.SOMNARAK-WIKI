@@ -99,6 +99,114 @@ dating, the *"four thousand years"* recount. SEIYON remains gated on your sign-o
 
 ---
 
+## Batch 231 — dialogue stacked, dialogues unsquashed, the M.A.W. named (2026-10-25)
+
+### 1. What you asked
+
+*"In the Dossier of Echo Core for Story section the dialogue is not stack vertically instead it was squish in one line. Also I find it strange that a lot of dialogue is shorten into a mention when it can be used normally and you could make sure the M.A.W. event is in Majin back story extended version based from the dossier version."*
+
+Three faults, one file each, and one of them was mine to answer for.
+
+### 2. Dialogue was not stacked — it was **one paragraph**, and it was archive-wide
+
+Lines like
+
+```
+> **Majin:** *"And you?"*
+> **Seiyon:** *"...Director?"*
+```
+
+have no blank line between them, so a Markdown renderer joins them into a single paragraph and the speaker
+names run together in one block. In the raw file each line *looks* stacked, which is why nine batches of
+reading walked past it. It is only visible in the render.
+
+**The measurement that made it a batch and not a spot fix:** I counted multi-line blockquote runs across
+all nine Echo-Core dossiers. Every one of them had them. `THE_DIRECTOR` had six dialogue runs (26 lines);
+`THE_OUTSIDER` eight; `THE_SECRETARY` three. **117 squished lines across nine files**, all of it dialogue.
+This was not a Director-dossier defect; it was the house form.
+
+Fixed everywhere: every dialogue line is now its own block, separated by a blank line.
+
+**What was not touched:** the two other kinds of multi-line blockquote — the identity plate at the top of
+each file, and genuine multi-line documents (Marjuk's sealed note, the Doorspeech fragment and its
+translation, the final-entry quote and its attribution). Those are *not* dialogue and must stay one block;
+they now carry hard line breaks (`  `) so they stack vertically inside a single quote instead of joining
+into a run-on. In the first pass my script split the identity plate into four separate blockquotes; I
+restored it as one plate with four hard-broken lines, which is what a record plate is.
+
+### 3. Dialogue shortened into a mention
+
+The complaint is the same one `R-60` makes, one register down: a line of speech reduced to a clause about
+the speech. Thirteen such lines in the dossier; six in the extended; the extended was nearly clean.
+
+| Where | Was | Now |
+|---|---|---|
+| Day 0 | *"Seiyon states that the facility is stable, that the Veil generators are at 97.3%…"* | four spoken lines: the report, *"The Maw."*, and the answer |
+| Day 0 | *"Seiyon replies that she understands why he does not…"* | the arithmetic stays narration; the close is spoken — *"Is that a complaint?" / "It is a confession."* |
+| Day 0 | *"Seiyon asks whether to alert the teams."* | the question is asked aloud |
+| Day 29 | *"the Smothering Mother tells him she understands and forgives him."* | Dekan reads it off the cell door: *"Tell the Director I understand. Tell the Director I forgive."* |
+| Day 108 | the order was three words, *"Open the gates."* | the exchange `Part_6` files: Seiyon citing Protocol 14-B, Majin overriding it, Mellda saying the Council will call it treason, and *"The Council has executed me 1,778 times. No one dies outside our wall today."* |
+| Day 177 | *"She states that the Absolvohan is no longer a weapon…"* | the argument as speech, ending on *"When it is shared."* |
+
+**I invented that Day 108 exchange before checking `Part_6`, and it was wrong** — I gave the count as four
+hundred and six refugees, a figure that belongs to the Sovereign event and would have collided with it,
+and I put Zyrak at a gate she is not recorded at. `Part_6` files the scene: twelve citizens, three
+families, two children, the five-kilometer marker, Gate 05, and Mellda on the channel. The dossier now
+carries that, not my version. **The lesson is the one from 229 in a new coat: canon first, dialogue second.**
+
+### 4. Two more compression defects found while reading
+
+- **`R-60`'s own named example was still standing in the dossier.** *"The city weeps, rages, and hopes"* is
+  the tricolon `R-60` quotes as the sentence that would survive being moved to another book. Replaced with
+  what the extended's *Public Archive* already files: the city counts first, on its own dead, and then
+  reads the names aloud at the low lamp hour. It is placed in the year **after** Day 365, because that is
+  when it happens — the first placement put it before the Days 350–365 phase, which read as though the
+  city had counted before the year it was counting.
+- **The Absolvohan's defining line had no speaker.** *"The Absolvohan is not a weapon… a hand needs to
+  hold"* stood as an unattributed quote at the end of the Story. The Day 177 scene names Seiyon. It is now
+  attributed, with one line saying why it matters that it is hers.
+
+### 5. The M.A.W. — the event was there, the **name** was not
+
+Checked against the dossier claim by claim. The event is fully dramatized in *The Single Grade* and *The
+Fusing*: the Ω-grade extraction, *"Bonding status: not attempted"*, the medic's *"If it fuses instead of
+bonding, you become the container, and the container does not come off"*, *"You will not be able to die"*,
+the marks, the pulse in resonance with the Alpha Tree. What the body never carried:
+
+- **The word.** A reader met an Ω-grade extraction register without ever being told what class of object
+  was being extracted; `M.A.W.` appeared in the appendix tables and nowhere in the story. Now glossed at
+  first use beside the register — *"a Materialized Agony Wear is an entity's sorrow given a shape it can be
+  carried in"* — with the singularity the form exists to state: the working list has hundreds of entries,
+  the Ω row has one.
+- **The dossier's clause that the sealed sorrow became *permanently inseparable from his own*.** The body
+  had *"the container does not come off"* — a procedural warning — and not the fact. Added in *The Fusing*,
+  two sentences, in place of any explanation of what it felt like.
+- **A source ledger row for the expansion**, citing `PROJECT_SOMNARAK.md` § M.A.W. — Materialized Agony
+  Wear, because I introduced the expansion and an introduced claim needs a file behind it.
+- **Two comparison rows**, because the proof table is the file's promise that claims are checked:
+  *The object has a class name* (**was missing; now restored**) and *the sealed sorrow became permanently
+  inseparable* (**was missing; now restored**). The **Kept** verdict on *"It ended his ability to die"*
+  cited *The Fusing*, which does not carry it; it now cites *The Single Grade* and *The Choice at the
+  Consolihan*, where the Council's instrument says it from the other side.
+
+The dossier itself was given the expansion once, in the Profile row and at first prose use, so the two
+files agree about what the letters mean.
+
+### 6. Auditors
+
+`check_scene_stamps` PASS · `check_md_tables` PASS · `check_backstory_reader` PASS · `check_backstory_gloss`
+PASS (no new debt) · `check_title_register` PASS · `check_backstory_appearance` PASS · `check_citations`
+PASS · gate PASS · pushed.
+
+### 7. What is still open
+
+Unchanged: the Cheongula sister impossibility at Parts level, the 140-scene stamp debt on 02–09, the Year
+4,226 / cycle-year 4,232 station dating, the *"four thousand years"* recount. SEIYON remains gated on your
+sign-off. The other eight dossiers were fixed for stacking only; their own mention-compression has not been
+audited line by line, and that is now a named debt rather than an assumption.
+
+---
+
 ## Batch 230 — integrity, timeline and standard (2026-10-25)
 
 ### 1. What you asked

@@ -1,11 +1,11 @@
 # Echo-Core 9 — The Exile [Echo-Core]
 
-> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
-> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
-> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER  
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE  
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL  
 > Official historical record, behavioral assessment, and resonance profile for Xyan.
 
-> _“A wall may call the world beyond it empty. The world does not become empty for the wall's convenience.”_
+> _“A wall may call the world beyond it empty. The world does not become empty for the wall's convenience.”_  
 > — **Xyan, the Exile**
 
 **The Exile** (추방자, _chubangja_) — personal name **Xyan** (시안) — is Echo-Core 9 of the Nine and the boundary commander of **Floor 8: the Gate Watch**. He is a man, a Desolate-changed Cyborg, and a Directorate member who crossed the one-way Exile's Gate after the Council of Sighs prohibited his investigation beyond Somnarak.
@@ -691,7 +691,7 @@ The conflation runs one way and has a plain explanation. His reports reached tho
 
 ## The Echo-Core Name
 
-> **Sotogil** · 소토길
+> **Sotogil** · 소토길  
 > *the outside road*
 
 **Sotogil** is the fragment of the **Doorspeech** that answers to Echo-Core 9. It is not a title, a rank or a form of address. Nobody in Somnarak uses it, and its bearer has never been told it exists.

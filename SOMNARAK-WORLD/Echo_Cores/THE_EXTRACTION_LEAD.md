@@ -1,11 +1,11 @@
 # Echo-Core 4 — The Extraction Lead [Echo-Core]
 
-> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
-> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
-> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER  
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE  
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL  
 > Official historical record, behavioral assessment, and resonance profile for Zyrak.
 
-> _“The gauge says the extraction succeeded. The entity disagrees.”_
+> _“The gauge says the extraction succeeded. The entity disagrees.”_  
 > — **Zyrak, the Extraction Lead**
 
 **The Extraction Lead** (추출 책임자, _chuchul chaegimja_)—personal name **Zyrak** (지락)—is Echo-Core 4 of the Nine and commander of **Floor 3: the Extraction Hall**. She is the Reverie Directorate's senior authority on drawing M.A.W. from Sorrow Entities and directs resonance scans, extraction attempts, equipment testing, registry handoff, and the separation of unstable entity combinations.
@@ -1373,7 +1373,7 @@ Zyrak's future depends on whether Floor 3 can make those requirements real.
 
 ## The Echo-Core Name
 
-> **Nukimanus** · 누키마누스
+> **Nukimanus** · 누키마누스  
 > *the extracting hand*
 
 **Nukimanus** is the fragment of the **Doorspeech** that answers to Echo-Core 4. It is not a title, rank, or form of address. No one in Somnarak uses it, and its bearer has never been told it exists.

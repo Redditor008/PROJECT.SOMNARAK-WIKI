@@ -1,11 +1,11 @@
 # Echo-Core 1 — The Director [Echo-Core]
 
-> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
-> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
-> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER  
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE  
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL  
 > Official historical record, behavioral assessment, and resonance profile for Majin.
 
-> _“I remember every choice that brought us here. Knowing why I made them does not make them right.”_
+> _“I remember every choice that brought us here. Knowing why I made them does not make them right.”_  
 > — **Majin, the Director**
 
 **Majin** (마진) is **Echo-Core 1** of the Nine and the supreme authority of the **Reverie Directorate**, known throughout Somnarak by his office rather than his name — **The Director** (관장, *gwanjang*). He commands the Hand of Change, the five-spired facility beneath the Alpha Tree, and coordinates the Directorate's eight operational floors from Floor 1.
@@ -52,7 +52,7 @@ Majin is the only Echo-Core who remains fully biological, and the only person kn
 | **Sorrow** | City Sorrow (도한) |
 | **Signature** | Weight |
 | **Manifestation** | Subject-Body — Reaper Hungered manifests through the fused left-arm mark |
-| **M.A.W.** | Reaper Hungered — Ω-grade, singular |
+| **M.A.W.** | Materialized Agony Wear — Reaper Hungered, Ω-grade, singular |
 | **Age** | 126 during the final Cycle; continues to age |
 | **Operational Age** | Active across 1,778 Cycle iterations plus the unlooped years |
 | **Archive Progression** | Stratum Realization 3 — the weight is not a burden; it is a gift |
@@ -173,17 +173,31 @@ Seiyon greets the Director. He does not look up; he is reading a report he has b
 
 > **Majin:** *"Report."*
 
-Seiyon states that the facility is stable, that the Veil generators are at 97.3% efficiency, and that the Han-conduits are clear. Majin asks after the Maw. She answers that it is quiet, that the thousand are whispering, and that this is the same as every day.
+> **Seiyon:** *"Facility stable. Veil generators at 97.3 percent efficiency. Han-conduits clear."*
+
+> **Majin:** *"The Maw."*
+
+> **Seiyon:** *"Quiet. The thousand are whispering. It is the same as every day."*
 
 The Director looks up. He asks a question outside the report.
 
 > **Majin:** *"And you?"*
+
 > **Seiyon:** *"...Director?"*
+
 > **Majin:** *"How are you, Seiyon?"*
+
 > **Seiyon:** *"I am... functional. Thank you for asking. You haven't asked in... a while."*
+
 > **Majin:** *"I know. I should ask more often."*
 
-Seiyon replies that she understands why he does not — that asking means caring, caring means feeling, and feeling means carrying more weight. When Majin observes that she knows him too well, she notes she has watched him make the same decisions 1,778 times and knows him better than he knows himself. He asks whether that is a complaint. She answers that it is a confession.
+Seiyon does not answer at once. When she does, she gives him the arithmetic of it: asking means caring, caring means feeling, and feeling means carrying more weight than the report already carries.
+
+> **Seiyon:** *"I have watched you make the same decisions 1,778 times. I know you better than you do."*
+
+> **Majin:** *"Is that a complaint?"*
+
+> **Seiyon:** *"It is a confession."*
 
 He walks to the Central Command window, looks down over the Hand of Change, and orders the day to begin.
 
@@ -192,19 +206,27 @@ He walks to the Central Command window, looks down over the Hand of Change, and 
 During morning assignments the Director changes one posting. Specialist Lee is moved off Entity 001, the Orphaned Bell.
 
 > **Seiyon:** *"Specialist Lee has been assigned to The Orphaned Bell for 47 consecutive days. Why the change?"*
+
 > **Majin:** *"Specialist Lee has been hearing the Bell's toll in their sleep. The Bell is getting inside them. They need distance."*
+
 > **Seiyon:** *"Noted. Reassignment logged."*
 
-A Breach Ordeal is forecast for the evening. Seiyon asks whether to alert the teams.
+By the afternoon the forecast has firmed. A Breach Ordeal is due that evening.
+
+> **Seiyon:** *"Do I alert the teams?"*
 
 > **Majin:** *"Alert them. But don't alarm them. The Ordeal is routine. We've survived 1,778 of them."*
+
 > **Seiyon:** *"We've survived 1,778 of everything, Director."*
 
 Three Desolate entities breach the Zone E perimeter and are suppressed without casualties. The Director closes the day's report.
 
 > **Majin:** *"Same as yesterday."*
+
 > **Seiyon:** *"Same as every day."*
+
 > **Majin:** *"How many more?"*
+
 > **Seiyon:** *"...As many as it takes."*
 
 ### Phase I — Repetition Under Strain (Days 1–49)
@@ -215,7 +237,11 @@ Through this phase he treats every deviation as a containment problem. He keeps 
 
 On **Day 17** Xyan's first message reaches Central Command — *"The Furnace is burning."* Majin does not answer it.
 
-On **Day 29** the Smothering Mother tells him she understands and forgives him. On **Day 31** the Three Birds again approach Convergence, and he again refuses to destroy any one of them to simplify containment. On **Day 36** the Kind Healer attempts a tenth blessing; he declines to blame Ayshuk. On **Day 41** the entity inside Mellda signals that it wants to go home. On **Day 49** the Final Door whispers a pre-human word that Marjuk interprets as *mercy*.
+On **Day 29** the Smothering Mother escapes, holds a specialist for six hours, and leaves a message carved into the cell door with her fingernails.
+
+> **Dekan:** *"She says: tell the Director I understand. Tell the Director I forgive."*
+
+Nothing comes back over the channel. The recording holds eleven seconds of it. On **Day 31** the Three Birds again approach Convergence, and he again refuses to destroy any one of them to simplify containment. On **Day 36** the Kind Healer attempts a tenth blessing; he declines to blame Ayshuk. On **Day 41** the entity inside Mellda signals that it wants to go home. On **Day 49** the Final Door whispers a pre-human word that Marjuk interprets as *mercy*.
 
 ### Phase II — The World Outside the Plan (Days 53–97)
 
@@ -237,9 +263,19 @@ On **Day 101** the Maw stops whispering and speaks clearly: *"We are tired. We w
 
 On **Day 103** Zyrak reports a vision that does not match any prior iteration — an Absolvohan that does not fire but spreads, gently, like rain.
 
-On **Day 108** the Cheonbulok envoy returns with families and children. The Director gives the order that reverses his doctrine.
+On **Day 108** the Cheonbulok envoy returns, and does not come alone: twelve citizens, three families, two children, collapsed at the five-kilometer marker with their lungs bleeding from outside sorrow. They crossed by tying themselves together with industrial cable.
 
-> **Majin:** *"Open the gates."*
+> **Seiyon:** *"Protocol 14-B mandates quarantine and perimeter denial for unidentified biological entities."*
+
+> **Majin:** *"Override 14-B. Open Gate 05. Retrieval teams in armored crawlers. Bring every one of them inside."*
+
+> **Mellda:** *"The Council will call that treason, Director."*
+
+> **Majin:** *"The Council has executed me 1,778 times. No one dies outside our wall today."*
+
+> **Mellda:** *"Opening Gate 05 now."*
+
+The order reverses his doctrine in a single sentence, and the two people who hear it — a border lead and a secretary — each understand that the sentence has a date on it.
 
 On **Day 113** the Kind Healer blesses a refugee and the refugee's rage becomes hope; the count reaches eleven. On **Day 125** the Maw shifts from Grudge to Lament. On **Day 132** the Three Birds decline to attempt Convergence and watch the refugees instead. On **Day 137** the Healer refuses available opportunities to give a twelfth blessing, and Majin concludes it may be waiting for a choice rather than following a sequence.
 
@@ -260,23 +296,36 @@ On **Day 165** the thousand vanish from the Maw, leaving it peaceful and empty.
 On **Day 177** Majin asks Seiyon for the reserve figure.
 
 > **Seiyon:** *"49.8 tons were released in the demonstration. The remaining reserves are... insufficient for a full release."*
+
 > **Majin:** *"How much do we need?"*
+
 > **Seiyon:** *"For a full city-wide release? 100 tons. We have... 0."*
+
 > **Majin:** *"...Then we collect more."*
 
-Seiyon does not comply. She states that the Absolvohan is no longer a weapon, that it is a hand, and that a hand does not need 100 tons — it needs contact. Majin repeats the word back as a question. She answers that the sorrow transforms when it is shared, not when it is concentrated and not when it is released.
+Seiyon does not comply.
+
+> **Seiyon:** *"The Absolvohan is not a weapon. It is a hand. A hand does not need 100 tons. It needs contact."*
+
+> **Majin:** *"Contact."*
+
+> **Seiyon:** *"The sorrow transforms when it is shared. Not when it is concentrated. Not when it is released. When it is shared."*
 
 > **Majin:** *"...We don't need the Absolvohan. We need each other."*
 
-The Director opens the facility, the gates, and the archives. The R.D. discloses the Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, and the Cycle. The city weeps, rages, and hopes.
+The Director opens the facility, the gates, and the archives. The R.D. discloses the Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, and the Cycle.
 
 ### Phase V — The First Unlooped Year (Days 350–365)
 
 Entities move through the facility as visitors rather than prisoners. On **Day 355** Xyan returns with **Kael**, Cheonbulok refugees, and Mugeukji Feelers, after Majin opens passage from inside. On **Day 360** Seiyon confirms the Mnemonic Generator's field is weakening. On **Day 365** the year closes without recurrence.
 
+In the year that follows, the city does two things. It counts — it has been told the same year happened 1,778 times, so it does the arithmetic on its own dead, and then does it again, and the number stops being a number. Then it reads the names aloud in the squares at the low lamp hour, the way the thousand are read at the Consolihan.
+
 The R.D. is not dismantled. The Echo-Cores are not erased. Majin is not executed or exiled — the city thanks and honors them while inheriting the truths they had monopolized. He remains Director.
 
-> *"The Absolvohan is not a weapon. The Absolvohan is a hand. And a hand does not need to shoot. A hand needs to hold."*
+> **Seiyon:** *"The Absolvohan is not a weapon. The Absolvohan is a hand. And a hand does not need to shoot. A hand needs to hold."*
+
+It is the sentence he carries into the last year, and it is hers.
 
 ### The Memory Archive
 
@@ -378,7 +427,7 @@ Grief did not make him withdraw. It made him faster.
 
 A Sovereign-class entity formed from collective loss and threatened to take Zone B entire. Conventional containment had already failed against it. In immediate grief he did what he would do for the next seventeen hundred years: he treated a loss as a problem with a solution, and then made himself the solution.
 
-Only one Ω-grade M.A.W. has ever been successfully extracted, and it was extracted then. It did not bond. Bonding is an arrangement between a bearer and a weapon; this was a fusion, and it closed. Majin became the entity's living container, and the sealed sorrow became permanently inseparable from his own.
+A M.A.W. — a Materialized Agony Wear — is an entity's sorrow given a shape it can be carried in. Only one Ω-grade has ever been successfully extracted, and it was extracted then. It did not bond. Bonding is an arrangement between a bearer and a weapon; this was a fusion, and it closed. Majin became the entity's living container, and the sealed sorrow became permanently inseparable from his own.
 
 It also ended his ability to die. That is not a reward and not a punishment; it is a design requirement. A container has to stay intact while it is containing. The M.A.W. will not let him die because the M.A.W. needs him alive.
 
@@ -639,7 +688,7 @@ The Hand of Hope does not resolve either layer by treating the actions as harmle
 
 ### Final Entry
 
-> *"The planet has four corners. One is our city. One is the wild. One burns. One is silent. And we — we are the ones who chose to feel. Whether that is a blessing or a curse, I cannot say. But I can say this: it is ours. And we will carry it — together — into whatever comes next."*
+> *"The planet has four corners. One is our city. One is the wild. One burns. One is silent. And we — we are the ones who chose to feel. Whether that is a blessing or a curse, I cannot say. But I can say this: it is ours. And we will carry it — together — into whatever comes next."*  
 > — Director Majin, final entry, Year 4,238
 
 ---

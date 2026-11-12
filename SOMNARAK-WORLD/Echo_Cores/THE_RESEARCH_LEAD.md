@@ -1,11 +1,11 @@
 # Echo-Core 5 — The Research Lead [Echo-Core]
 
-> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
-> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
-> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER  
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE  
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL  
 > Official historical record, behavioral assessment, and resonance profile for Ayshuk.
 
-> _“The model is consistent. The evidence is not. Follow the evidence.”_
+> _“The model is consistent. The evidence is not. Follow the evidence.”_  
 > — **Ayshuk, the Research Lead**
 
 **The Research Lead** (연구 책임자, _yeongu chaegimja_)—personal name **Ayshuk** (아이숙)—is Echo-Core 5 of the Nine and commander of **Floor 4: the Insight Forge**. He is the Reverie Directorate's senior authority on Han research, Sorrow Entity classification, and the Three Sorrows.
@@ -1234,7 +1234,7 @@ Similar floor numbering and thematic overlap do not constitute an appearance.
 
 ## The Echo-Core Name
 
-> **Kenopathos** · 케노파토스
+> **Kenopathos** · 케노파토스  
 > *empty of feeling*
 
 **Kenopathos** is the fragment of the **Doorspeech** that answers to Echo-Core 5. It is not a title, rank, or form of address. No one in Somnarak uses it, and its bearer has never been told it exists.

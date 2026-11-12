@@ -1,11 +1,11 @@
 # Echo-Core 2 — The Secretary [Echo-Core]
 
-> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
-> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
-> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER  
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE  
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL  
 > Official historical record, behavioral assessment, and resonance profile for Seiyon.
 
-> _“The figures are correct, Director. They are not the whole truth.”_
+> _“The figures are correct, Director. They are not the whole truth.”_  
 > — **Seiyon, the Secretary**
 
 **The Secretary** (비서, _biseo_)—personal name **Seiyon** (세이연)—is Echo-Core 2 of the Nine and the central administrative intelligence of the **Reverie Directorate**. She works through a physical, fully human-looking Echo Effigy while maintaining the records, communications, schedules, alerts, and cross-floor coordination required to operate the facility.
@@ -808,13 +808,21 @@ It is not simply the sentence _“Don't let the sorrow win.”_ That sentence be
 Seiyon returns to Majin not as an administrative tool and not as the human woman restored, but as herself carrying a message that has crossed death, artificial birth, 1,778 Cycles, and the Archive.
 
 > **Seiyon:** _“I am not her. I am not a copy. I am not a memory. I am... me. But I carry her sorrow. I carry her love. I carry her Promise.”_
+
 > **Majin:** _“...What Promise?”_
+
 > **Seiyon:** _“The Promise she made to you—before she died. The Promise that you would survive. The Promise that you would carry on. The Promise that you would find hope.”_
+
 > **Majin:** _“...She made that Promise?”_
+
 > **Seiyon:** _“She made it to me. She gave it to me. She wanted me to give it to you.”_
+
 > **Majin:** _“...What is the Promise?”_
+
 > **Seiyon:** _“That sorrow is not the end. That sorrow is the beginning. That sorrow can become hope. That you—that we—that the city—can find what it never expected.”_
+
 > **Majin:** _“...Hope.”_
+
 > **Seiyon:** _“Hope.”_
 
 #### Fulfillment
@@ -1208,7 +1216,7 @@ The third fragment has the duration of roughly eleven syllables, holds the posit
 
 Marjuk has never transcribed it phonetically. Phonetic transcription would preserve the sound and lose the only thing about it that matters. He recorded the translation instead:
 
-> **누한이 이기지 못하게 하라**
+> **누한이 이기지 못하게 하라**  
 > *"Don't let the sorrow win."*
 
 ### Why It Is Sealed
@@ -1219,9 +1227,9 @@ The Door has been saying them since before she said them.
 
 Marjuk's note is the only document in the Deep Vault he has marked for destruction in the event of his own death:
 
-> *"I do not know whether the Door is quoting her, or whether she was quoting it.
-> I do not know whether Seiyon awoke carrying that sentence because it was in the fragment, or whether the fragment holds it because Seiyon awoke.
-> I know that she is the only one of the Nine whose name is an instruction.
+> *"I do not know whether the Door is quoting her, or whether she was quoting it.  
+> I do not know whether Seiyon awoke carrying that sentence because it was in the fragment, or whether the fragment holds it because Seiyon awoke.  
+> I know that she is the only one of the Nine whose name is an instruction.  
 > I know that the instruction was given to someone else."*
 
 ### Status

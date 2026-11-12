@@ -431,6 +431,8 @@ Nobody had named the thing. A records clerk had a stack of witness statements, a
 > *Bonding status: not attempted.*  
 > *Note: an Ω-grade extraction cannot be repeated. There is one. There will not be a second.*
 
+A M.A.W. — a Materialized Agony Wear — is an entity's sorrow given a shape it can be carried in. The extraction register is a working list: coats, blades, instruments, hundreds of them, each one graded. The Ω row has a single entry, and this is the page it is written on.
+
 > **[medic]** "The bonding will kill you."
 
 > **[Majin]** "The bonding will hold it."
@@ -532,6 +534,8 @@ A woman in a shop doorway asked whether the evacuation was over.
 > **[Majin]** "It is over."
 
 He went back to the command post and wrote the incident report himself, and in the field marked *containment method* he wrote: **permanent, singular, non-transferable.** He did not write *me*.
+
+The sealed sorrow did not sit in him like something swallowed and kept. It closed over the seam where he ended, and after that morning there was no reading to be taken of him alone.
 
 From that morning he had three lines on the left side of his face and a black mark between his wrist and his forearm, and when the thing in his chest was awake the lines went darker. Nobody who worked in that building ever needed to be told which of the two was in the room.
 
@@ -2048,6 +2052,7 @@ PB (C/R) — THE ROOM: a clerk, a printed sheet of forty-one questions, and a ma
 | Her body rests in an amber stasis sarcophagus at the physical roots of the Alpha Tree; the chamber is later the Memory Archive's Floor 07 | `The_MEMORY_ARCHIVE.md` §§ 3.2, 4 (Floor 07: Origin) and the GIEOK overview § 5.1 |
 | The seals, the maintenance schedule and the load-test refusals are this file's reconstruction; the codex supplies that the containment systems were hers and that she died using them | `The_MEMORY_ARCHIVE.md` § 3.2, read against `THE_DIRECTOR.md` § The Solidification, which leaves the manner of his surviving unrecorded |
 | Ω-grade M.A.W. fusion contained a Sovereign-class manifestation threatening Zone B; conventional containment had failed | `THE_DIRECTOR.md` § Backstory, The Sovereign |
+| M.A.W. stands for **Materialized Agony Wear** — an entity's sorrow given a shape it can be carried in; Reaper Hungered is Ω-grade and singular | `PROJECT_SOMNARAK.md` § M.A.W. — Materialized Agony Wear; `THE_DIRECTOR.md` § Profile |
 | Age 126 in the final Cycle; operational age 1,778 iterations; the body is kept by the field and the memory is not | `THE_DIRECTOR.md` § Profile, Age and Operational Age; reconciled in The Arithmetic of the Man |
 | Alpha Tree selected him during the Consolihan; the Council accepted; "the first command he was never allowed to refuse" | `THE_DIRECTOR.md` § Backstory, The Indication |
 | Directorate formed around him; the other eight specialized — the file gives the founding no year, because dating it would date the loss, which the HOLDs forbid | `THE_DIRECTOR.md` § Backstory, The Directorate |
@@ -2182,7 +2187,9 @@ The dossier is the shorter record and this file is its expanded account, so the 
 | Last words, said once | Said **twice** — the doorway and the seal | **Extended, not altered.** The seal is still the last recorded saying; the earlier one is flagged in the HOLDs. |
 | What he heard; the four steps *contain, endure, accumulate, erase* | What He Took From It | **Was missing; now restored.** The dossier calls this the spine of everything he built and the file had only the verb *hold*. |
 | Only one Ω-grade extraction; it did not bond; a fusion | The Single Grade; The Fusing | **Kept** |
-| It ended his ability to die | The Single Grade; The Fusing | **Kept** |
+| The object has a class name: a M.A.W., Materialized Agony Wear; his is singular and Ω-grade | The Single Grade | **Was missing; now restored.** The body had the extraction, the grade and the asset's name, and never the word for what was extracted — a reader met an Ω-grade register without being told what it was registering. |
+| The sealed sorrow became permanently inseparable from his own | The Fusing | **Was missing; now restored.** |
+| It ended his ability to die | The Single Grade; The Choice at the Consolihan | **Kept.** The medic says it outright; the Council's instrument says it again from the other side — *you will not be permitted to resign into death while the fusion holds you.* |
 | His pulse runs in resonance with the Alpha Tree; measured and unexplained | The Fusing | **Was missing; now restored** in three sentences. |
 | The Tree indicated him; the Council accepted rather than test it | The Choice at the Consolihan; The Instrument | **Kept** |
 | "The first command I was never allowed to refuse" | What He Understood in the Square | **Kept** |
