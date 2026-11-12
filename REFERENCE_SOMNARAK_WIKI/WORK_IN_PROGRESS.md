@@ -1,5 +1,57 @@
 # Work In Progress
 
+## Batch 224 — the pin (2026-10-25)
+
+### 1. What you asked
+
+*"GIVE ME EXPLANATION OF THE ORDER OF ALL THE EVENTS SO IT MAKES SENSE … WHEN EXACTLY IS THE DOORWAY
+IN CHRONOLOGY OF THE PROLOGUE … PIN."*
+
+### 2. The answer, and why the file did not give it
+
+**The Doorway is nine days before the floor warms.** Not the same night. The file had the arithmetic in
+three separate places and contradicted it in two others.
+
+- *"What he did not do, then or in the **nine days after**, was add anything up."* — The Doorway
+- *"five words, said twice, **nine days apart** … a doorway and a fire."* — What He Took From It
+- *"the ninth day before the floor warmed"* — now pinned in the spine
+
+But *The Doorway* opened by calling itself **"the last ordinary day"**, and *The Warm Floor* said **"the
+last ordinary night of his life was the one night the whole city was already grieving."** Both cannot
+be true if nine ordinary days follow the doorway. A reader who takes the prose at its word concludes
+the doorway happened that evening, and then the two references to a nine-day gap make no sense.
+
+### 3. What was changed
+
+- **The Doorway's opening now states the gap.** *"Nobody knew to keep one. The nine days between the
+  lamp and the floor left nothing in any log, including the one he kept himself … So this is not that
+  day. It is the day he can still see."*
+- **"She had spent her last ordinary afternoon"** → *"Whatever the last ordinary afternoon turned out
+  to be, she spent this one making his readings accurate."*
+- **"The last ordinary night of his life"** → *"the world ended on the one night the whole city was
+  already grieving."*
+- **The Filing said "the line he had pointed at nine days earlier."** The filing is the fourteenth day
+  and the line was read out on the night of the loss, so the gap is fourteen days, and it was she who
+  read it. Now: *"the line she had read out on the night the floor warmed."*
+
+### 4. The spine, rebuilt
+
+`### Chronological spine` now carries a two-calendar preface — **loss days** (from 23:24–23:41 on the
+Consolihan) and **cycle days** (from Day 0 of Cycle 1,778) — because the file has two Day 0s and the
+reader was being handed both without a word of warning. Every row now carries its offset, including
+three that had none: **Day −9** The Doorway · **Day 11** he stops asking for the cut · **Day 14** The
+Filing.
+
+And one row was simply wrong: **"The same hour, the east quarter."** The Sovereign forms *nine weeks*
+after the floor warms, and the file says so in three places. It is now **Day 63**.
+
+The **Scene ledger was missing *The Doorway* altogether** — the hinge of the file, absent from its own
+inventory. Added at row 2 and the table renumbered.
+
+### 5. Auditors
+
+All six auditors and `seam_lint` **PASS**.
+
 ## Batch 223 — the key belongs in the rulebook (2026-10-25)
 
 ### 1. What you asked

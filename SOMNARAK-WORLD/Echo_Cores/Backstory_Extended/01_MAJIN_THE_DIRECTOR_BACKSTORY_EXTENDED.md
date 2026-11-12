@@ -60,7 +60,9 @@ He has never found the thing.
 
 There is no record of the last ordinary day.
 
-No duty log survives from that shift. No instrument record, no witness statement, no entry in any ledger. What follows is his, given under the disclosure order, and he has given it in almost the same words every time it has been asked for — which, in a man who revises everything, is its own kind of document.
+Nobody knew to keep one. The nine days between the lamp and the floor left nothing in any log, including the one he kept himself, and he has never been able to say which of the nine was the last. No duty log survives from that shift. No instrument record, no witness statement, no entry in any ledger.
+
+So this is not that day. It is the day he can still see, which is a different thing, and he has given it in almost the same words every time it has been asked for — which, in a man who revises everything, is its own kind of document.
 
 They argued about the lamp, which by then was the argument they had instead of a holiday.
 
@@ -86,7 +88,7 @@ What he did not do, then or in the nine days after, was add anything up.
 
 She had asked four times, in writing, for the seals to be tested at load. She had been refused four times. The refusals were in the bench drawer and she had never once asked him to overrule the Council and get them granted, which — for a woman who argued about a lamp for six years — was the only thing she ever let go.
 
-She had spent her last ordinary afternoon making his readings accurate.
+Whatever the last ordinary afternoon turned out to be, she spent this one making his readings accurate.
 
 A woman expecting twenty more years does not spend the afternoon on a man's lamp.
 
@@ -136,7 +138,7 @@ The floor warmed first.
 
 It was the Consolihan. The lamps were down in the square and the thousand names were being read to a crowd with its hoods up — the names of the people *the Cheongula* took, which the city calls a disaster and the record calls a neglect: a thousand citizens in a district the Council had decided was not worth the cost of moving.
 
-The building was working through the rite because the work did not stop for it. He remembers that and hates it: the last ordinary night of his life was the one night the whole city was already grieving, and nobody had to explain to him afterwards what the sound was. He had heard it every year since he was a child. He had never heard it arrive from underneath a floor.
+The building was working through the rite because the work did not stop for it. He remembers that and hates it: the world ended on the one night the whole city was already grieving, and nobody had to explain to him afterwards what the sound was. He had heard it every year since he was a child. He had never heard it arrive from underneath a floor.
 
 That is the detail he returns to. Not the alarm, not the screaming, not the Council's order arriving on a channel nobody had thought to test. The floor warmed, the way a room warms when the sun has moved onto it, and everyone in the building stopped what they were doing because the building had never been warm before.
 
@@ -283,7 +285,7 @@ Three days after he stopped asking for the cut, he sat down and filled it in for
 
 He wrote *sealed core, east wing, by her own override* in box four, because it was accurate and because it was the only sentence he could get his hand to finish.
 
-Box three asks what the deceased was working on. He wrote *seal schedule, item four* in it, in a smaller hand than the rest of the page, and then sat looking at the line he had pointed at nine days earlier and had not understood.
+Box three asks what the deceased was working on. He wrote *seal schedule, item four* in it, in a smaller hand than the rest of the page, and then sat looking at the line she had read out on the night the floor warmed, and had not understood.
 
 He wrote *rocks and stone, where the roots come up* in box seven, and then went back and turned *rocks and stone* into *roots chamber, Alpha Tree, forty metres*, because a form should not be poetry.
 
@@ -1702,31 +1704,32 @@ Then he let her go.
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | Yeon-seo | The sentence he will misread | Connective scene |
-| 2 | The Room | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, Year 4,238 and after | Majin | The sheet with forty-one questions, and the refusal of the first date | ON THE PAGE |
-| 3 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification; `The_MEMORY_ARCHIVE.md` § 3.2, for the seals and the sacrifice | Yeon-seo | "Don't let the sorrow win" — said twice, once about the experiment | Canon-anchored |
-| 4 | The Filing | PAST | TPV camera | The registrar, the civil register | — | DIALOGUE | Document | C/R | Civil register of Facility 01; `The_MEMORY_ARCHIVE.md` § 3.2 for the heading THE ORIGINAL | Yeon-seo | The designation four thousand years of records copy, and the man who wrote it | Canon-anchored |
-| 5 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
-| 6 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
-| 7 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
-| 8 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station, Year 4,226 | Seiyon | The silence becomes policy | Connective scene |
-| 9 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
-| 10 | The Arithmetic of the Man | PAST | TPV | Majin | — | BOTH | Document | C | Dossier Profile, Age 126 and Operational Age | Majin | The one body the field returns with the building | Connective scene |
-| 11 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
-| 12 | Day 0 — And You | FLASHBACK | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
-| 13 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
-| 14 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
-| 15 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
-| 16 | The Room — The Date | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, eleventh month, year of the warm floor | Yeon-seo | He writes the first date himself, in her hand | ON THE PAGE |
-| 17 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
-| 18 | The Room — The Word | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, after Day 145 | The Founder | He chooses the page over the record he signed | ON THE PAGE |
-| 19 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
-| 20 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
-| 21 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
-| 22 | The Room — The Names | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, after Day 160 | The four hundred and six | A clerk reads names that are mostly wrong, and he lets her | ON THE PAGE |
-| 23 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
-| 24 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
-| 25 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
-| 26 | The Room — The Signature | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, eleventh month, eleventh day | Yeon-seo | The declaration signed after one reading, and the doorway left open | ON THE PAGE |
+| 2 | The Doorway | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier The Solidification; Dossier Origin, for the last ordinary day. Nine days before the floor warms | Yeon-seo | The five words, said twice | Canon-anchored |
+| 3 | The Room | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, Year 4,238 and after | Majin | The sheet with forty-one questions, and the refusal of the first date | ON THE PAGE |
+| 4 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification; `The_MEMORY_ARCHIVE.md` § 3.2, for the seals and the sacrifice | Yeon-seo | "Don't let the sorrow win" — said twice, once about the experiment | Canon-anchored |
+| 5 | The Filing | PAST | TPV camera | The registrar, the civil register | — | DIALOGUE | Document | C/R | Civil register of Facility 01; `The_MEMORY_ARCHIVE.md` § 3.2 for the heading THE ORIGINAL | Yeon-seo | The designation an archive copy, and the man who wrote it | Canon-anchored |
+| 6 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
+| 7 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
+| 8 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
+| 9 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station, Year 4,226 | Seiyon | The silence becomes policy | Connective scene |
+| 10 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
+| 11 | The Arithmetic of the Man | PAST | TPV | Majin | — | BOTH | Document | C | Dossier Profile, Age 126 and Operational Age | Majin | The one body the field returns with the building | Connective scene |
+| 12 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
+| 13 | Day 0 — And You | FLASHBACK | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
+| 14 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
+| 15 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
+| 16 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
+| 17 | The Room — The Date | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, eleventh month, year of the warm floor | Yeon-seo | He writes the first date himself, in her hand | ON THE PAGE |
+| 18 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
+| 19 | The Room — The Word | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, after Day 145 | The Founder | He chooses the page over the record he signed | ON THE PAGE |
+| 20 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
+| 21 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
+| 22 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
+| 23 | The Room — The Names | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, after Day 160 | The four hundred and six | A clerk reads names that are mostly wrong, and he lets her | ON THE PAGE |
+| 24 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
+| 25 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
+| 26 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
+| 27 | The Room — The Signature | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, eleventh month, eleventh day | Yeon-seo | The declaration signed after one reading, and the doorway left open | ON THE PAGE |
 
 ---
 
@@ -1734,7 +1737,7 @@ Then he let her go.
 
 | Speaker | Kind | Labels used | Bounds |
 |---|---|---|---|
-| **Majin** | Canon; POV bearer in sixteen of the twenty-six scenes | `[Majin]` (178) | The whole file |
+| **Majin** | Canon; POV bearer in seventeen of the twenty-seven scenes | `[Majin]` (178) | The whole file |
 | **Seiyon** | Canon | `[Seiyon]` (83) | The station, from Year 4,226 onward. She appears where a log exists and is absent from the catwalk, because no channel there was recorded. |
 | **Dekan** | Canon | `[Dekan]` (23) | Day 1, Day 29, Day 53. Everything he says is a report, a question, or the wall he is being used as. |
 | **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 | `[Yeon-seo]` (11) | Three scenes: the bench, the doorway, the seal. She is the author of the containment discipline the Directorate later inherits and never credits. |
@@ -1768,27 +1771,32 @@ Then he let her go.
 
 ### Chronological spine
 
+**Two calendars run through this table and they are not the same calendar.**
+
+**Loss days** count from the night the floor warmed — 23:24 to 23:41 on the Consolihan. They cover the nine days before it, the eleven days of asking, and the fourteenth day. **Cycle days** count inside the Absolvohan from Day 0 of Cycle 1,778, and every Day 1 to Day 365 below belongs to that calendar. Nothing converts one into the other. The Cycles dilate; the city does not.
+
 | When | Scene | What changes |
 |---|---|---|
-| Six research years before the floor warmed | The Bench; The Afternoon | A sentence is said in an ordinary room and is not important. Everything downstream is built on the fact that it was not important. |
-| The year the floor warmed — a Solidification, during the Consolihan | The Warm Floor; The Sample Bench | He gives a correct order in a warm corridor and hears the readings instead of the woman. The east stairwell has already softened; the order is not the failure, the deafness is. |
-| The same hour, the east quarter | The Sovereign | Four hundred and six are taken, not killed. He is told what he is, by an officer who is not being cruel about it. |
-| The bonding | The Single Grade; What the Medics Said; The Fusing | He is warned, he reads the directive twice, he says *noted*, and the Sovereign-Class fusion closes with the city inside the field. |
-| Undated in this file — the Consolihan a year after the loss, before the Directorate | The Choice at the Consolihan | The Tree indicates, the Council asks, and the office is accepted. The rite is annual and has run since the year the thousand were lost, so the year is not recoverable from this record; the refusal was possible and he does not make it. |
-| Year 4,226 | The Face in the Station | The station is built without a mirror and the Secretary is designated. The silence becomes a policy rather than a decision. |
-| Cycles 1 through 1,778 | The Field; The Directive; The Lance; The Decision | The field holds, the reserve grows at 0.02 tons per iteration, the cannon is designed, and the loop becomes an institution with a due date. |
-| Day 0, Cycle 1,778 | Day 0 — And You | He asks how she is, by name, for the first time in forty-three cycles. |
-| Day 1 | The Word in the Wall | The Maw speaks his pre-Directorate name. He files it under his personal record, because it is addressed to him. |
-| Day 29 | The Forgiveness; The Catwalk | The Mother forgives him, and he goes down to Floor 2 and says the wound to a subordinate as though it were a question about filing. |
+| Six research years before the floor warmed | The Bench; What He Wrote on the Back of a Gauge Log | The standing argument over a lamp, and the sentence on the back of a scrap that he will spend everything trying to obey. |
+| **Day −9** — nine days before the floor warmed | The Doorway | She fits a new shade, says the five words in the doorway, and takes the lift. He does not add anything up. |
+| **Day 0**, 23:24–23:41, during the Consolihan | The Warm Floor; The Sample Bench; Seventeen Minutes; What He Took From It | The floor warms. She lies about the override and shuts him out. The seal closes at 23:41 with her inside it. |
+| **Day 11** | Seventeen Minutes | He stops asking for the cut, and orders the chamber built around her instead. |
+| **Day 14** | The Filing | THE ORIGINAL goes into box one. The leaning *i* enters the vault. |
+| **Day 63** — nine weeks after the loss | The Sovereign; Three Failed Containments | Four hundred and six are taken and not killed. Eighteen men come back as two teams of nine, and both are telling the truth. |
+| **Day 63**, later that day | The Single Grade; What the Medics Said; The Fusing | He is warned, he says *noted*, and the fusion closes with the city inside the room. |
+| The Consolihan, a year after the loss | The Choice at the Consolihan; The Answer; The Instrument; What He Understood in the Square | The Tree indicates, the Council asks, and he signs the first document in the founding ledger. |
+| Year 4,226 | The Face in the Station; The First Morning; The Second Morning; What He Did Not Say | The station is built without a mirror and comes online at 06:00. The silence becomes policy. |
+| Year 4,232 — Cycles 1 through 1,778 | The Field; The Directive; The First Repeat; The Arithmetic of the Man; The Arithmetic; The Decision; The Lance | The field closes over the district. The reserve grows at 0.02 tons per iteration. The body is handed back and the memory is not. |
+| Cycle 1,778, **Day 0** | Day 0 — And You | He asks how she is, by name, for the first time in forty-three cycles. |
+| Day 1 | The Word in the Wall | The Maw speaks his pre-Directorate name. |
+| Day 29 | The Forgiveness; The Catwalk | The Mother forgives him. He goes down to Floor 2 and says the wound to a subordinate as though it were a question about filing. |
 | Day 53 | What the Wall Remembers; The Annex | The Maw repeats his old callsign. He asks for names instead of a summary, and files nothing. |
 | Day 145 | The Hidden Entry; Floor 6, After | The Founder's page says *shared*, and the word the record has been built on — *ended* — stops working. |
-| Day 149 | The Cannon and the Fountain; The Manifold Room; The Break | He orders the barrel cut, watches it, and is asked why he is smiling. Then, alone at 04:00, the word *shared* arrives. |
-| Day 160 | The Fountain | The wheel turns at midday, the gauge falls to zero, the district stands in the street and feels it. Fifteen percent transforms; eighty-five persists, and he writes *Nobody is running* in the remarks field. Day 165: the thousand go quiet. |
+| Day 149 | The Cannon and the Fountain; The Manifold Room; The Break | He orders the barrel cut and watches it. Alone at 04:00, the word *shared* arrives. |
+| Day 160 | The Fountain | The wheel turns at midday, the gauge falls to zero, and fifteen percent transforms while eighty-five persists. |
 | Day 365 | The Ledger of Names; The Public Archive | The record opens as names rather than tonnage, and the city reads over his shoulder. |
-| Year 4,238 | Willingness | He reads a report once, signs it, and puts it down. The office is warm and nobody is standing at the bench. |
-| Year 4,238 and after — eleven monthly sessions | The Room; The Room — The Date; The Room — The Word; The Room — The Names; The Room — The Signature | He narrates the whole of it to a clerk, out of order, and signs the declaration. The frame is present at both ends, which is why the file reads as testimony and not as a record. |
-
----
+| Year 4,238 | Willingness | He reads a report once, signs it, and puts it down. |
+| Year 4,238 and after — eleven monthly sessions | The Room; The Room — The Date; The Room — The Word; The Room — The Names; The Room — The Signature | He tells the whole of it to a clerk, out of order, and signs the declaration after reading it once. |
 
 ### Objects, rooms, and symbols
 

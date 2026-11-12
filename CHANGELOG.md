@@ -2,6 +2,23 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the pin
+
+**The Doorway is nine days before the floor warms, and the file said so three times and denied it twice.**
+
+- **"The last ordinary day" was false.** The doorway is Day −9; nine ordinary days follow it. Both
+  claims that it was the last — the doorway's opening and the Warm Floor's *"last ordinary night of
+  his life"* — are corrected.
+- **The Filing's "nine days earlier"** pointed at the wrong gap. The line was read out on the night of
+  the loss, fourteen days before the filing, and by her, not him.
+- **The spine is pinned.** It now opens with the two calendars the file runs at once — loss days from
+  23:24–23:41 on the Consolihan, cycle days from Day 0 of Cycle 1,778 — and every row carries its
+  offset.
+- **The Sovereign was on the wrong day.** The spine had it in "the same hour" as the floor warming; it
+  forms nine weeks later, which the prose says in three places.
+- **The Doorway was missing from the Scene ledger** — the hinge of the file, absent from its own
+  inventory. Added and the table renumbered.
+
 ## Unreleased — the key belongs in the rulebook
 
 **The register legend was a style manual sitting in the front matter of a story, and five passages in
