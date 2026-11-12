@@ -47,7 +47,21 @@ The convention the appendix used silently is now something he does on the page.
 - **"Four thousand years."** Twice claimed of an archive that had been copying the box since the
   fourteenth day. Replaced with the archive itself, not a number the HOLDs table forbids.
 
-### 5. Auditors
+### 5. Day 149 — the scene that was a requisition form
+
+The read also found that the *turn the cannon into a fountain* scene — one of the largest decisions in
+the file — was 319 words of unbroken dialogue with no room, no body and nobody watching. It is
+canon-anchored to Absolvohan Part 8, so its lines could not be touched.
+
+The fix is not padding. The scene now says **why** it is dry: it survives only as Seiyon's channel
+transcript, *"which is why the exchange reads like a requisition form: she logged what was said, in
+order, with the speakers named, and did not log the thirty-one hours or the standing."* A dry scene
+that knows it is dry stops being thin and becomes a document. Around the canon lines: the thirty-one
+hours, the reports still in his hand, the wait after *rain*, and the note Seiyon writes against her own
+advice, which is the closest the record comes to admitting the decision was made by an exhausted man
+on the strength of a word a machine used by accident.
+
+### 6. Auditors
 
 `check_ai_prose` · `check_backstory_gloss` · `check_backstory_appearance` · `check_section_registry` ·
 `check_title_register` · `check_md_tables` · `seam_lint` — **all PASS**.

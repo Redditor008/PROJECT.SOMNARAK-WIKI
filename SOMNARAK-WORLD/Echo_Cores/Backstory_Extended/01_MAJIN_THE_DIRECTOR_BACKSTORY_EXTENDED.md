@@ -1302,6 +1302,10 @@ She wrote it. He gave the sheet back, and she saw that his hand had left a mark 
 
 ### Day 149 — The Cannon and the Fountain
 
+The order was given standing up, in the manifold room, with the day's reports still in his hand and the shift change going on two floors above him. He had been awake for thirty-one hours. He had come down at the end of the night because there was nothing left to do with the idea and he wanted to look at the thing it applied to.
+
+There is no recording of it. What survives is Seiyon's transcript of the channel, which is why the exchange reads like a requisition form: she logged what was said, in order, with the speakers named, and did not log the thirty-one hours or the standing or the reports still in his hand. The file has to take the room from somewhere else.
+
 > **[Majin]** "Seiyon. The Absolvohan's primary delivery manifold. Can it be modified?"
 
 > **[Seiyon]** "Modified how, Director? The accumulator is designed to fire a 500-millimeter kinetic lance of hyper-compressed sorrow directly into the city's upper stratosphere."
@@ -1310,11 +1314,19 @@ She wrote it. He gave the sheet back, and she saw that his hand had left a mark 
 
 > **[Seiyon]** "Director, that would disperse the entire charge across the bedrock. The Han wouldn't strike like a weapon. It would seep upward through the water table... like rain."
 
+He did not answer at once. The word had come from her, which meant it had not come from him, and he had learned to wait for that — for the word that arrives from outside the sentence you have been building for seventeen hundred years.
+
 > **[Majin]** "That is the design, Seiyon. The Founder never wanted an execution. The Founder wanted an open hand. How long to re-route the valves?"
 
 > **[Seiyon]** "With Zyrak's extraction crews and Mellda's hydraulic engineers working around the clock... eleven days. Exactly in time for Day 160."
 
+> **[Seiyon]** "I will note that the instruction was given without a written order and that I advised the pressure profile be re-read."
+
+> **[Majin]** "Note it."
+
 > **[Majin]** **"Begin the modifications. Turn the cannon into a fountain."**
+
+She noted it. It is the only entry in the command register for that day that contains the word *fountain*, and it is written in her log, not in his hand — which is the closest the record ever comes to admitting that the largest decision of his directorship was made in a room with no minutes, by a man who had been awake for thirty-one hours, on the strength of a word the machine had used by accident.
 
 ---
 

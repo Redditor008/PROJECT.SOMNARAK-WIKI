@@ -22,6 +22,10 @@ PAST or FLASHBACK, so 21,000 words of grief arrived with nobody to tell it to.**
   they came out standing, and he cannot tell whether they are the same people. He loses the census.
 - **A gesture restored.** The Consolihan compared the Tree's attention to her hand on his chest. The
   gesture was gone from the file. It is back in the doorway, three steps, warm from the corridor.
+- **Day 149 stopped being a transcript.** The *turn the cannon into a fountain* order was 319 words of
+  bare dialogue, canon-locked to Absolvohan Part 8. It now says why: it survives only as Seiyon's channel
+  log, which recorded the words and not the thirty-one hours. Around the locked lines — the reports still
+  in his hand, the wait after *rain*, and the note Seiyon files against her own advice.
 - **Ledger rebuilt against the file's real order** — 26 rows, 10 PAST · 10 FLASHBACK · 5 PRESENT ·
   1 RE-EXPOSURE. *The Arithmetic of the Man* was filed in the wrong era; *the clerk* and *the
   containment officer* were both `[she]`.
