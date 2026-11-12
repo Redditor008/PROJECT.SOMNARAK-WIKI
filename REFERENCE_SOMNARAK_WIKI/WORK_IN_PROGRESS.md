@@ -185,7 +185,7 @@ had finished. Cut to *"the original pass, then Cycles 1 through 1,777"* — whic
 the field was set at 4,232, and Cycle 1,778 is the one that broke.
 
 **13. Three division stamps described spans their parts do not have.** The part *Before the Hand Opened*
-was stamped "the research years through the first year after the Solidification"; it runs to **Day 53 of
+was stamped "the research years through the first year after the Solidification"; it opens at the Solidification itself and runs to **Day 53 of
 Cycle 1,778**, with the Room frame inside it. *Opening the Hand* said "the fifth month, four days later" —
 true of its first scene, Day 149, and false of Day 160, which is the sixth month. *After the Hand Opened*
 said "the twelfth month" for a part that runs from Day 365 to Year 4,238. All three spans corrected.

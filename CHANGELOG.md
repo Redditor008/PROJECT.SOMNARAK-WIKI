@@ -42,7 +42,8 @@ and the worst was in the page that certifies the file.**
 - **The spine's largest row swallowed the one beneath it** — *"Cycles 1 through 1,778"* ran past the next
   row's *Cycle 1,778, Day 0*. Cut to *the original pass, then Cycles 1 through 1,777*.
 - **Three division stamps described spans their parts do not have.** *Before the Hand Opened* claimed to
-  end in the first year after the Solidification and runs to **Day 53 of Cycle 1,778**; *Opening the Hand*
+  begin in the research years and end in the first year after the Solidification, where it opens at the
+  Solidification and runs to **Day 53 of Cycle 1,778**; *Opening the Hand*
   said "the fifth month, four days later", true of Day 149 and false of Day 160; *After the Hand Opened*
   said "the twelfth month" for a part running from Day 365 to Year 4,238. Spans corrected.
 - **The Public Archive was stamped inside the cycle it ends** — *"Cycle 1,778, the morning after Day 365"*.

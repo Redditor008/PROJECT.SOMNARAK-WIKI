@@ -106,7 +106,7 @@ He walked her to the lift. The lift came. She got in, and the doors closed on a 
 
 ---
 
-> **STAMP — the research years through Day 53 of Cycle 1,778, and the Room frame · 23:24 · Floor 3, the east core, the square**
+> **STAMP — the Solidification through Day 53 of Cycle 1,778, and the Room frame · 23:24 · Floor 3, the east core, the square**
 
 ### The Room
 
