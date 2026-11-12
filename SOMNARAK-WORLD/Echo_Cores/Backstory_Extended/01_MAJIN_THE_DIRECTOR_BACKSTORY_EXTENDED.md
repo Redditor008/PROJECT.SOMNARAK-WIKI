@@ -146,7 +146,7 @@ The amber threads in the sample tubes had gone still. Not slow. Still — all of
 
 Nobody argued with the volume. They argued with the order, which is a different thing, and they did it while moving.
 
-> **[him]** "Director — the protocol says we hold the sector until the gauges read."
+> **[protocol officer]** "Director — the protocol says we hold the sector until the gauges read."
 
 > **[Majin]** **"The gauges are reading NOTHING. That is the problem. Move!"**
 
@@ -295,15 +295,15 @@ He left box eight empty. The form does not require it.
 
 The registrar was a woman of about sixty with a bad wrist and a stamp she had used so often that she no longer looked at it. She read the page upside down as he wrote. When he reached box one she put her hand flat on the desk.
 
-> **[she]** "She had a name, Director."
+> **[registrar]** "She had a name, Director."
 
 > **[Majin]** "I know."
 
-> **[she]** "It goes in box one."
+> **[registrar]** "It goes in box one."
 
 > **[Majin]** "The Archive takes a designation."
 
-> **[she]** "The Archive takes what it is given."
+> **[registrar]** "The Archive takes what it is given."
 
 They looked at each other. He was aware, distantly, that this was the first argument he had had since the floor warmed in which nobody was going to die.
 
@@ -319,11 +319,11 @@ Then he signed it, with the hand that has the thin scars across the back of it.
 
 She stamped it. Then she said, without looking up, the thing that is in no register:
 
-> **[she]** "I worked with her for eleven years. She was better at my job than I am."
+> **[registrar]** "I worked with her for eleven years. She was better at my job than I am."
 
 > **[Majin]** "Yes."
 
-> **[she]** "It should be in box nine."
+> **[registrar]** "It should be in box nine."
 
 > **[Majin]** "It should."
 
@@ -341,19 +341,19 @@ It did not look like a monster. That was the first thing the containment teams r
 
 The second thing they reported was that it was not attacking. It was *gathering*.
 
-> **[she]** *"Director — I — I can't get the second team to ans—"*
+> **[officer]** *"Director — I — I can't get the second team to ans—"*
 
 The channel cleared. When it came back it was the same officer, and she had put the tremor somewhere behind her voice where it would keep:
 
-> **[she]** "It has taken the east quarter. Not damaged. Taken. The walls are still there."
+> **[officer]** "It has taken the east quarter. Not damaged. Taken. The walls are still there."
 
 > **[Majin]** "How many people inside?"
 
-> **[she]** "Four hundred and six, by the census. We cannot raise a single one of them on any channel."
+> **[officer]** "Four hundred and six, by the census. We cannot raise a single one of them on any channel."
 
 > **[Majin]** "Then it is a rescue."
 
-> **[she]** "Director. The first team that went in came out as a first team of nine and a second team of nine. Both of them said they were the original. Both were telling the truth as far as the instruments could see."
+> **[officer]** "Director. The first team that went in came out as a first team of nine and a second team of nine. Both of them said they were the original. Both were telling the truth as far as the instruments could see."
 
 He put both teams in separate rooms and interviewed each of the eighteen. Afterward he could not say which nine had gone in. He has never been able to say. That is the part of the Sovereign event he does not discuss.
 
@@ -369,11 +369,11 @@ Then the perimeter itself began to disagree with the map.
 
 > **[Majin]** "Pull everyone back to the second line."
 
-> **[him]** "Director, the second line is inside the effect."
+> **[instrument operator]** "Director, the second line is inside the effect."
 
 > **[Majin]** "Since when?"
 
-> **[him]** "Since about four minutes ago. We are measuring it from here and getting a clean reading, which is how we know the instrument is compromised."
+> **[instrument operator]** "Since about four minutes ago. We are measuring it from here and getting a clean reading, which is how we know the instrument is compromised."
 
 He stood in a command post with a map that no longer matched the ground and a city that could not be evacuated because the evacuation route kept arriving somewhere else.
 
@@ -381,28 +381,25 @@ He stood in a command post with a map that no longer matched the ground and a ci
 
 #### The Single Grade
 
-Two words have to be explained before the register can be read.
-
-**Ω** is the top of its five grades. It is not the word for *powerful*; it is the word for *cannot be put back.*
-
-*Reaper Hungered* was not his name for it either. A records clerk needed a noun before the end of a shift, had read the witness statements out of the east quarter, and wrote down the only two words in them that fit.
+Nobody had named the thing. A records clerk had a stack of witness statements, a form that required a noun, and no time; he took the two words the witnesses used most, and wrote *Reaper Hungered* in the field.
 
 > **R.D. MATERIAL EXTRACTION REGISTER — SOLE ENTRY, Ω CLASS**  
+> *Grade note: Ω is the top of five. It is not the word for powerful. It is the word for cannot be put back.*  
 > *Asset: Reaper Hungered.*  
 > *Source: aggregate sorrow manifestation, unclassified, Zone B east quarter.*  
 > *Extraction status: complete.*  
 > *Bonding status: not attempted.*  
 > *Note: an Ω-grade extraction cannot be repeated. There is one. There will not be a second.*
 
-> **[she]** "The bonding will kill you."
+> **[medic]** "The bonding will kill you."
 
 > **[Majin]** "The bonding will hold it."
 
-> **[she]** "Those are not alternatives. You understand that. If it fuses instead of bonding, you become the container, and the container does not come off."
+> **[medic]** "Those are not alternatives. You understand that. If it fuses instead of bonding, you become the container, and the container does not come off."
 
 > **[Majin]** "Then it holds."
 
-> **[she]** "Director —"
+> **[medic]** "Director —"
 
 > **[Majin]** "Four hundred and six people are standing in a street that has stopped agreeing with the sky. I have one instrument that might be able to tell it to stop. Put it in my arm."
 
@@ -410,7 +407,7 @@ The medic looked at the extraction team.
 
 The extraction team looked at the floor.
 
-> **[she]** "You will not be able to die."
+> **[medic]** "You will not be able to die."
 
 > **[Majin]** "I have not been able to die since the floor warmed. This just makes it official."
 
@@ -422,13 +419,13 @@ The extraction team looked at the floor.
 
 > **[Insu]** "He read the directive before he signed it. I want that in the record, because the version that circulated afterward had him signing it blind. He sat on the table with his sleeve cut open and read the whole page, twice, and then he said —"
 
-> **[she]** "He said 'noted.'"
+> **[second medic]** "He said 'noted.'"
 
 > **[Insu]** "He said 'noted.' That is the sentence nobody put in the report. Not 'I accept,' not 'for the city.'"
 
 > **[Insu]** "Noted. Like it was a shift change."
 
-> **[she]** *"Then he lay back and asked how long it would take."*
+> **[second medic]** *"Then he lay back and asked how long it would take."*
 
 Insu did not answer that one.
 
@@ -474,15 +471,15 @@ He remembers thinking, with the clarity that arrives at the worst moments: *don'
 
 Then he remembers standing up.
 
-> **[she]** "...Director."
+> **[officer]** "...Director."
 
 > **[Majin]** "Report."
 
-> **[she]** "The east quarter is quiet."
+> **[officer]** "The east quarter is quiet."
 
 > **[Majin]** "The people?"
 
-> **[she]** "Four hundred and six. They are standing in the street. They are asking what happened."
+> **[officer]** "Four hundred and six. They are standing in the street. They are asking what happened."
 
 He walked out into the district. The paving was paving. The sky was the sky. The market square had a floor the color of ordinary stone, and the water was gone, and the reflection was gone, and the buildings contained only the rooms they had always contained.
 
@@ -520,11 +517,11 @@ Every person in the square felt it. Most knelt, because kneeling was what the ri
 
 Majin did not kneel. He stood at the back with his hands at his sides and felt the attention of the thing under the square arrive on him like a hand on the chest — the same gesture, in the same place, that she had used to check whether he was listening.
 
-> **[him]** "Director. The Council is asking for you."
+> **[envoy]** "Director. The Council is asking for you."
 
 > **[Majin]** "I know."
 
-> **[him]** "They are saying the Tree has chosen."
+> **[envoy]** "They are saying the Tree has chosen."
 
 > **[Majin]** "I heard them."
 
@@ -546,15 +543,15 @@ He read it twice. The second reading was the one that mattered.
 
 > **[Majin]** "And if I refuse?"
 
-> **[him]** "Then the Tree will indicate again, and the next indication may be less convenient for the city. You are the one it chose. That is not a compliment. It is a load-bearing assessment."
+> **[envoy]** "Then the Tree will indicate again, and the next indication may be less convenient for the city. You are the one it chose. That is not a compliment. It is a load-bearing assessment."
 
 > **[Majin]** "I am a researcher."
 
-> **[him]** "You were. The city requires a container that can also give orders. You have demonstrated both capacities. The Tree does not select for temperament."
+> **[envoy]** "You were. The city requires a container that can also give orders. You have demonstrated both capacities. The Tree does not select for temperament."
 
 > **[Majin]** "I did not ask for this."
 
-> **[him]** "No. That is the qualification."
+> **[envoy]** "No. That is the qualification."
 
 ---
 
@@ -690,15 +687,15 @@ It was not an Ordeal. Ordeals announce themselves with a color and a time. This 
 
 They had one system that could hold the strata together. It was not a containment system. It was a stabilization generator, built into the structure of the thing the city calls *the Hand* — the five-spired shell the whole facility stands inside, and the only reason Facility 01 has a floor at all — designed to keep the facility's own foundations from walking.
 
-> **[him]** "Director. If we activate it at full field, it will hold the fault. It will also hold everything inside the field."
+> **[engineer]** "Director. If we activate it at full field, it will hold the fault. It will also hold everything inside the field."
 
 > **[Majin]** "Everything?"
 
-> **[him]** "Everything. The field does not distinguish. Whatever state the facility is in when the field closes is the state the field will keep."
+> **[engineer]** "Everything. The field does not distinguish. Whatever state the facility is in when the field closes is the state the field will keep."
 
 > **[Majin]** "For how long?"
 
-> **[him]** "We do not have a number for that. The generator was not built for this load."
+> **[engineer]** "We do not have a number for that. The generator was not built for this load."
 
 ---
 
@@ -715,11 +712,11 @@ They had one system that could hold the strata together. It was not a containmen
 
 > **[Majin]** "Field perimeter."
 
-> **[him]** "Facility 01 and the adjacent civic envelope."
+> **[engineer]** "Facility 01 and the adjacent civic envelope."
 
 > **[Majin]** "Duration."
 
-> **[him]** "Indefinite. That is the setting. There is no other setting."
+> **[engineer]** "Indefinite. That is the setting. There is no other setting."
 
 > **[Majin]** "Activate."
 
@@ -1610,7 +1607,7 @@ The third thing it did was ask about a word.
 
 The volumes were indexed by the Public Record Office, and the index had been built by people who worked from the vault, and one of them had taken a heading at face value. So on the eleventh day a woman stood up in the east quarter — in the street where the paving had once begun to breathe — and asked the question the whole city had been circling:
 
-> **[she]** "Who was THE ORIGINAL?"
+> **[citizen]** "Who was THE ORIGINAL?"
 
 The answer was in the appendix, on the same page as the designation. It was two words long, it was a name, and it had been sitting in the vault since the day he filled the box in, and in his mouth for none of that.
 
@@ -1739,27 +1736,25 @@ Then he let her go.
 
 | Speaker | Kind | Labels used | Bounds |
 |---|---|---|---|
-| **Majin** | Canon; POV bearer in sixteen of the twenty-six scenes (the others are the clerk's five, the registrar's one, Insu's debrief, the Council instrument's one, the generator directive's one, and the record's own one) | `[Majin]` (128) | The whole file. Nothing is claimed as his interior that the record cannot support, and the appendix marks where it cannot. |
-| **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 and the GIEOK origin-core line | `[Yeon-seo]` (14) | Three scenes: the bench, the doorway with her coat half on, and the seal. She is the author of the containment discipline the Directorate inherits and she does not survive it, and the file does not let her be a witness to her own ending — the account of the vent comes from a medic's debrief, not from her. She never appears in the loop. |
-| **Seiyon** | Canon | `[Seiyon]` (59) | The station, from Year 4,226 onward. She is in scenes where a log exists; she is absent from the catwalk, because no channel there was recorded. |
-| **Dekan** | Canon | `[Dekan]` (23) | Day 1, Day 29 (debrief and catwalk), Day 53. He never explains Majin to himself: everything he says is a report, a question, or the wall he is being used as. |
-| **Marjuk** | Canon | `[Marjuk]` (10) | Day 145 and Floor 6. He answers what is asked of the archive and volunteers no theory about the Founder. |
+| **Majin** | Canon; POV bearer in sixteen of the twenty-six scenes | `[Majin]` (178) | The whole file |
+| **Seiyon** | Canon | `[Seiyon]` (83) | The station, from Year 4,226 onward. She appears where a log exists and is absent from the catwalk, because no channel there was recorded. |
+| **Dekan** | Canon | `[Dekan]` (23) | Day 1, Day 29, Day 53. Everything he says is a report, a question, or the wall he is being used as. |
+| **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 | `[Yeon-seo]` (11) | Three scenes: the bench, the doorway, the seal. She is the author of the containment discipline the Directorate later inherits and never credits. |
+| **Marjuk** | Canon | `[Marjuk]` (10) | Day 145 and Floor 6. He answers what the archive is asked and offers no theory about the Founder. |
+| **Insu** | Backstory-only, named in the debrief preamble | `[Insu]` (7) | The Year 4,238 debrief. He was on the table's other side, and he is the one who remembers the word *noted*. |
 | **Zyrak** | Canon | `[Zyrak]` (4) | The manifold room, Day 149. Four lines, all of them about the object she is cutting. |
-| **The clerk of the Public Record Office** | Backstory-only, unnamed; the frame of the whole file | `[clerk]` (21) | The Room, five scenes across eleven monthly sessions in Year 4,238 and after. She is the only person in the file who asks him a question he has not prepared an answer for, and she does it by accident, from a printed sheet. |
-| **Insu** | Backstory-only, named in the debrief preamble | `[Insu]` (5) | The Year 4,238 debrief extract and nothing else. He is the counter-witness and he is not a friend: he was on the table's other side, and he is the one who remembers the word *noted*. |
-| The protocol officer, the warm floor | Backstory-only, unnamed | `[him]` (1) | One line, in the corridor, before the evacuation order is obeyed. He cites the protocol correctly; he is not a fool. |
-| The containment officer, the east quarter | Backstory-only, unnamed | `[she]` (3) | The Sovereign scene. She delivers the census figure and the doubling report, and she is the one who says *taken* rather than *damaged*. |
-| The instrument operator | Backstory-only, unnamed | `[him]` (2) | Three Failed Containments. He reports that his own instrument is compromised and knows it. |
-| The medic at the bonding | Backstory-only, unnamed | `[she]` (4) | The Single Grade. She tells him the procedure will kill him and then tells him what it will do if it does not. |
-| The second medic, Year 4,238 | Backstory-only, unnamed | `[she]` (2) | The debrief extract. Younger voice, not named in the record, asks the question that lets Insu finish the sentence. |
-| The registrar, the civil register | Backstory-only, unnamed | `[she]` (5) | The Filing. She reads the page upside down, refuses to stamp a designation for a woman she worked beside for eleven years, and copies the heading out by hand. She is the only person in this file who argues with him and wins nothing. |
-| The containment officer, after the fusion | Backstory-only, unnamed | `[she]` (3) | The Fusing. Reports the east quarter quiet and the four hundred and six standing in the street. |
-| The Council envoy | Backstory-only, unnamed | `[him]` (4) | The Answer. Delivers the Tree's indication and the office, and declines to call either one a compliment. |
-| The field engineer | Backstory-only, unnamed | `[him]` (5) | The Field and The Directive. Every line is a limit: what the field holds, what it does not distinguish, and that there is no other setting. |
+| **The clerk of the Public Record Office** | Backstory-only, unnamed; the frame of the whole file | `[clerk]` (22) | The Room, five scenes across eleven monthly sessions. She is the only person in the file who asks him something he has not prepared an answer for, and she does it by accident, from a printed sheet. |
+| The containment officer, the east quarter | Backstory-only, unnamed | `[officer]` (7) | The Sovereign and the minutes after the fusion. She delivers the census, the two teams of nine, and the sentence *the east quarter is quiet*. |
+| The registrar, civil register, Zone B | Backstory-only, unnamed | `[registrar]` (5) | The Filing. Sixty, a bad wrist, and a stamp she no longer looks at. She argues him out of a box and loses. |
+| The field engineer | Backstory-only, unnamed | `[engineer]` (5) | The Field and The Directive. Every line is a limit: what it holds, what it does not distinguish, and that there is no other setting. |
+| The Council envoy | Backstory-only, unnamed | `[envoy]` (5) | The Answer and The Instrument. Delivers the Tree's indication and the office, and declines to call either a compliment. |
+| The duty medic, the fusion room | Backstory-only, unnamed | `[medic]` (4) | The Single Grade. Reads the kill warning aloud and puts the thing in his arm anyway, because he has ordered it. |
+| The instrument operator | Backstory-only, unnamed | `[instrument operator]` (2) | Three Failed Containments. Reports that his own instrument is compromised, and knows it. |
+| The second medic, the Year 4,238 debrief | Backstory-only, unnamed | `[second medic]` (2) | What the Medics Said. Two lines, both quotes of other people. Stops writing when Insu says *the sitting down was administration.* |
+| The protocol officer, the warm floor | Backstory-only, unnamed | `[protocol officer]` (1) | One line, in the corridor, before the evacuation order is obeyed. He cites the protocol correctly and is not a fool. |
+| The woman in the east quarter | Backstory-only, unnamed | `[citizen]` (1) | The Public Archive, the eleventh day. She asks the question the whole city is asking, in a queue, out loud. |
 
-**No two `[she]` figures share a scene,** and no `[she]` or `[him]` is ever given a profession as a label. Where a figure is named later in the corpus under a dossier, this file still uses the pronoun, because the record at that moment did not have a name to use.
-
----
+**Every unnamed speaker carries a role, never a pronoun.** Six of them once shared two labels — `[she]` and `[him]` — and no reader could tell the registrar from the medic from the woman in the queue.
 
 ### The one wound, twice
 

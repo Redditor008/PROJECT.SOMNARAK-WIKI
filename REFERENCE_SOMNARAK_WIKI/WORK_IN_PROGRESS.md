@@ -53,7 +53,24 @@ Read from the top, as asked, prologue first, then each chapter in order. Faults 
   full-caps class — now *"field name"*, coined in prose: *"a name for the register and for the men who
   had to walk toward it."*
 
-### 4. Auditors
+### 4. Six women, one label
+
+The Cast table was partly fiction. `[she]` covered the registrar, the containment officer, the duty
+medic, the second medic, and a woman in a queue — and the table listed three of them twice, so the
+whole page had stopped meaning anything. `[him]` covered four different men similarly.
+
+**Every unnamed speaker now carries a role.** `[registrar]` · `[officer]` · `[medic]` ·
+`[second medic]` · `[instrument operator]` · `[envoy]` · `[engineer]` · `[protocol officer]` ·
+`[citizen]`. The counts in the table were regenerated from the file, not from memory.
+
+### 5. Also found
+
+- *The Single Grade* opened with **"Two words have to be explained before the register can be read"**
+  — the narrator explaining itself. The gloss now lives inside the register block where a grade note
+  belongs, and the naming of *Reaper Hungered* happens in prose, in the clerk's hands, at the moment
+  he had no time.
+
+### 6. Auditors
 
 All six auditors and `seam_lint` **PASS**; `test_title_register` **18 tests OK** (the inverted legend test replaces
 the "every file explains its marks" test).

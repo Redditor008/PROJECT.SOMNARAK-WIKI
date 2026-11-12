@@ -16,6 +16,10 @@ the prose explained their own mechanism to the reader.**
 - **Five self-explanations cut**, including *"which is why the exchange reads like a requisition form
   … The file has to take the room from somewhere else"* and *"the closest the record ever comes to
   admitting"*. A scene that explains what it is doing reads as the author behind the page.
+- **Six unnamed women shared one label.** `[she]` covered the registrar, the containment officer, the
+  duty medic, the second medic, and a woman in a queue; the Cast table listed three of them twice.
+  `[him]` covered four men. Every unnamed speaker now carries a role and the counts were regenerated
+  from the file.
 - **Re-read from the prologue onward.** Fixed: the lamp taught twice; a pronoun that flipped subject
   mid-sentence; a man's coat on a woman; box four confused with box three in the death certificate;
   the Absolvohan's name explained twice; a cleaning crew's report four thousand years old; and *the
