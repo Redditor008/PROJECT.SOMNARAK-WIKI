@@ -178,9 +178,9 @@ He went up.
 
 The seals were hers.
 
-He had the theory — that Han is what a place has felt, that a record of feeling can be read — and it fit on one side of a page, which was one of its attractions. She had the other half, the half with tolerances in it: every clamp in that building, every gasket rated for a pressure nobody had ever measured, every sealed cell from the sample bench down to the cold store. Six years of her handwriting in a maintenance schedule he had signed off on eleven times and read, he would later have to admit, none of them.
+He had the theory. It fit on one side of a page, which was one of its attractions, and she had read it and said so. She had the other half, the half with tolerances in it: every clamp in that building, every gasket rated for a pressure nobody had ever measured, every sealed cell from the sample bench down to the cold store. Six years of her handwriting in a maintenance schedule he had signed off on eleven times and read, he would later have to admit, none of them.
 
-She had asked for the seals to be tested at load. She asked in writing, four times, in four years. The building was in use. The test would mean emptying a wing. The Council taxed her designs the way it taxed his reports: it took the money and did not read them.
+Four times in four years she had asked, in writing, for them to be tested at load. The building was in use. The test would mean emptying a wing. The Council taxed her designs the way it taxed his reports: it took the money and did not read them.
 
 She kept the four refusals in the bench drawer with the gauge logs.
 
@@ -220,7 +220,7 @@ She had never needed two hands. She had written the override herself, and she ha
 
 #### Seventeen Minutes
 
-> **STAMP — the Solidification, 17 minutes in, then Day 11 · 23:41 · the east core**
+> **STAMP — 17 minutes into the Solidification, then Day 11 · 23:41 · the east core**
 
 The seal took seventeen minutes to close. The alarm log is exact about that and about nothing else, because the instruments in the core stopped reporting at 23:24 and the log has kept the hole ever since.
 
@@ -1265,7 +1265,7 @@ Dekan's own record carries what followed: the same four markers measured again, 
 
 The syllables were not the part that stayed with him. The syllables were a fact about the wall.
 
-What stayed with him was an hour in an earlier iteration when the Veil generators in Zone D failed for three hours. Twelve citizens were exposed to raw Han. Two Fractured — the city's word for what is left when a person's own sorrow goes past what a person can be and the body goes on walking without anyone behind it. The diversion had taken the surplus out of the same grid, and the report he signed that night had recorded the exposure, the Fractures, and the three hours in the annex, and had not mentioned them in the command summary.
+What stayed with him was an hour in an earlier iteration when the Veil generators in Zone D failed for three hours. Twelve citizens were exposed to raw Han. Two Fractured — what the record writes when a person's own sorrow has gone past them and the body keeps the appointment anyway. The diversion had taken the surplus out of the same grid, and the report he signed that night had recorded the exposure, the Fractures, and the three hours in the annex, and had not mentioned them in the command summary.
 
 He had read the names of the two who Fractured. He had read them twice, because the first reading had not made them stay, and the second had.
 
@@ -1515,7 +1515,7 @@ Midday, and the manifold room was cold.
 
 The barrel had been gone for eleven days. Where it had been stood a junction of copper pipe the width of a man's chest, a wheel, a gauge that read in tons, and a speaker grille the engineers had bolted to the wall because nobody wanted to shout a number that size across a vault.
 
-> **[Seiyon]** "Accumulator at pressure. Twelve apostles in position on Floor 4. The Hand of Hope is resonating with the accumulators."
+> **[Seiyon]** "Accumulator at pressure."
 
 > **[Majin]** "Floor 6."
 
@@ -1524,6 +1524,10 @@ The barrel had been gone for eleven days. Where it had been stood a junction of 
 > **[Majin]** "Floor 5."
 
 > **[Seiyon]** "The border is holding. Mellda reports the wind has died."
+
+> **[Majin]** "Floor 4."
+
+> **[Seiyon]** "Twelve in position. The Hand of Hope is resonating with the accumulators."
 
 He put his left hand on the wheel. The sleeve was open along the forearm — the coat had been cut that way since the year of the Sovereign, so the mark could be checked without undressing him — and the black came up out of the cuff and stopped where it always stopped, between wrist and forearm, in the shape the first medic had called a blade on its side. It was warmer than the room. That was the charge moving, which meant the whole thing still worked, which was the last thing he wanted to be true and the only thing that would help.
 
@@ -2112,6 +2116,7 @@ This is why the record prints the name and the man does not. The facility knows 
 | Director's appearance | `THE_DIRECTOR.md`: deep blue eyes; three hooked scars on the upper left; black veins to the wrist and a scythe-shaped mark | Absolvohan Part 1: pale grey eyes; black alloy at temple and cheek; neural cables | **Dossier governs, and is now shown.** The veins, the wrist mark and the three lines are dramatized as they form, in The Fusing, and return in the Consolihan, the manifold room and the ledger. The Part 1 alloy, grey eyes and cables are not used. |
 | Memory across resets | `THE_DIRECTOR.md`: full retained chronology | Absolvohan Part 1: "You lose the marrow" | Unresolved. This file records his refusal to accept the purge as his own reading and asserts no memory loss on his behalf; file 02 quotes the Part 1 line because the Parts govern the spoken scene. Neither account is averaged into the other. |
 | Reserve at Day 0 | `THE_DIRECTOR.md` § Notes: archived estimate near 36 tons | Absolvohan Part 1: 47.300 tons held | Unresolved. The body uses the 0.02-ton rate and a spoken estimate only. |
+| Day 160, the Floor 4 report | `Part_8` and `05_AYSHUK`: Ayshuk reports the twelve and the Hand of Hope | This file: Seiyon reports both | **The information is kept; the voice is not.** Ayshuk does not appear in this file, whose channel is the console, so the report is carried by the voice that owns the console. The count, the name and the resonance are unchanged. |
 | The sentence said twice | `THE_DIRECTOR.md` § The Solidification: *"Her last recorded words"* — one saying, at the seal | This file: the doorway on Day −9 and the seal on Day 0 | **Both are hers, and the second is the last.** The dossier's line is honoured as the record's last words; the earlier saying is this file's addition and is flagged here rather than merged into the dossier. |
 | Six syllables | `THE_DIRECTOR.md` § The Echo-Core Name: position two of the Doorspeech is variable and never recorded twice, and the Maw surfaces the Door's fragment **오누스도** — not Majin | Absolvohan Part 2, through Dekan: six precise syllables, filed by the array as the Director's name | **The Part governs what is heard; the dossier governs what it is.** The file keeps the six fixed syllables and no longer calls them his: he tries the personal name, the office and the designation against them and finds none. Dekan's report calls it the Director's name because that is how the array files it, not because anyone in the building knows. He is never told. |
 

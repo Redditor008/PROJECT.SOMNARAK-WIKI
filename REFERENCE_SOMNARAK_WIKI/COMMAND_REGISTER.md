@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 227.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 228.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -516,6 +516,7 @@ category and a way of writing** · **`R-55` a file is read once, in order** · *
 | **The reading** | 215 | the owner read the backstories as a reader; Majin's break found and fixed; the missing climax written; a file now has to be read in the order it states |
 | **The person** | 216 | Majin's own page rebuilt: a 365-word classification replaced by a life story, the mishearing given a mechanism, and the present explained by the past |
 | **The names** | 220 | every title marked by what it is; the legend printed in all nine files; the Hand of Change coined where a reader stands in it; and the arithmetic of a 126-year-old man who has lived 1,778 years |
+| **The readable pass** | 228 | read again, for whether a reader can follow. The dossier opened on *the Hand of Change* and *Doorspeech* before either was defined. Day 160 answered Floor 4 before it was called and then ran 6, 5 — a descending check with nowhere left to go; now 6, 5, 4. That line is Ayshuk's in the Parts and stays with Seiyon because she owns the console, and the HOLD now says so. Three repetitions cut. Long sentences measured and left: they are the voice. |
 | **The full read** | 227 | both files read end to end, in order, nothing skipped. The Maw was given a provenance the dossier forbids — the Door's fragment 오누스도, *"the Maw is not using Majin"*, *"never been informed"* — and both passages were rewritten to keep him ignorant. Four clocks disagreed with their own logs (23:26 at 23:24; 23:41 at 23:24; 02:00 against 23:45; two rooms at 15:00). The Field's 02:40 fracture became 23:40 on the last night, because the directive closes at 23:59:58 and the city cannot be evacuated in twenty-one hours. Day 121 cannot have quoted *shared*; the 188 days belong to the facility, not the gates. Day 53's question restored. 178 → 180, twenty-seven → twenty-eight, 689 → 748, nine days → 205. The names legend left the dossier. |
 | **The comparison** | 226 | claim-by-claim against the dossier. Three assertions had never made it in — the four steps, the Eight, the pulse — each already cited in the source ledger. Four provable errors: he slept; the directive stamped 04:00 against a 23:59:58 closure; the Absolvohan named in Year 4,231, before its own program; Day 365 counting 210 back to a Day 160. The check is now a table in the file. |
 | **The stamp** | 225 | every scene opens with a STAMP line — offset, clock, place. The anchor is `[REDACTED]` until 00:00 on the day of it, where the bracket lifts once and is never used again. Units chosen by distance: years, months, days, hours, minutes. R-62, § IV.6, gate 56. 51 stamps in `01_MAJIN`, 140 scenes of debt in files 02–09. |

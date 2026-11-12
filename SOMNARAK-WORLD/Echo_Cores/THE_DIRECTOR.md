@@ -8,7 +8,7 @@
 > _“I remember every choice that brought us here. Knowing why I made them does not make them right.”_
 > — **Majin, the Director**
 
-**Majin** (마진) is **Echo-Core 1** of the Nine and the supreme authority of the **Reverie Directorate**, known throughout Somnarak by his office rather than his name — **The Director** (관장, *gwanjang*). He commands the Hand of Change beneath the Alpha Tree and coordinates the Directorate's eight operational floors from Floor 1.
+**Majin** (마진) is **Echo-Core 1** of the Nine and the supreme authority of the **Reverie Directorate**, known throughout Somnarak by his office rather than his name — **The Director** (관장, *gwanjang*). He commands the Hand of Change, the five-spired facility beneath the Alpha Tree, and coordinates the Directorate's eight operational floors from Floor 1.
 
 Majin is the only Echo-Core who remains fully biological, and the only person known to have survived an Ω-grade M.A.W. fusion. He is the central figure of *Absolvohan*, which opens on Day 0 with his morning report and follows him through the final iteration of the Cycle he designed.
 
@@ -44,7 +44,7 @@ Majin is the only Echo-Core who remains fully biological, and the only person kn
 | **Real Name** | Majin (마진) |
 | **Title** | The Director (관장 — *gwanjang*) |
 | **Designation** | Echo-Core 1 |
-| **Echo-Core Name** | **Variable** — Doorspeech fragment, second position; never recorded twice |
+| **Echo-Core Name** | **Variable** — a fragment of the Doorspeech, the whisper of the Final Door; second position; never recorded twice |
 | **Gender** | Man |
 | **Station** | A — Alpha Tree; Floor 1 (Neutral) |
 | **Role** | Supreme authority of the Reverie Directorate |

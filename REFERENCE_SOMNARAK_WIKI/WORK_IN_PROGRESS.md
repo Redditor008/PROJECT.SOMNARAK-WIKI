@@ -1,5 +1,88 @@
 # Work In Progress
 
+## Batch 228 — the readable pass (2026-10-25)
+
+### 1. What you asked
+
+*"AGAIN AND READ THEM SO THEY ALL READABLE AND UNDERSTANDABLE"*
+
+### 2. What "readable" was measured against
+
+Not taste. The audit asked three questions of every page and wrote down the answer:
+
+1. **Does a term arrive before the reader has been told what it is?** Every world term's first use was
+   located by line number. A term that first appears inside a table cell, a bullet, or a line of
+   dialogue, and is explained three hundred lines later, is a cold open.
+2. **Can the reader follow the order of a scene?** Every exchange was checked for a run of instructions
+   whose answers arrive in the wrong order or answer a different floor.
+3. **Is the same thing said twice?** Paragraphs were compared by shared eight-word runs.
+
+Sentence length was measured and **deliberately left alone** — 43 sentences over forty-five words, and
+they are the voice: a man who speaks in long flat clauses because he has said the same thing 1,778
+times. Cutting them would be shortening the book, not clarifying it.
+
+### 3. What the audit found
+
+**Two terms were used before the reader could know them, in the dossier's opening paragraphs.**
+
+- *"He commands the **Hand of Change** beneath the Alpha Tree"* was the second sentence of the page.
+  The building is not described until § The Field, hundreds of lines later. It is now *"the five-spired
+  facility beneath the Alpha Tree"* — the description already in the extended, moved to where the
+  reader needs it.
+- The Profile's **Echo-Core Name** row said *"Doorspeech fragment, second position"* — against a term
+  the page defines only in § The Echo-Core Name. The row now carries the definition in six words: *"a
+  fragment of the Doorspeech, the whisper of the Final Door."*
+
+**One scene could not be followed.** In *Day 160 — The Fountain* Seiyon answered *"Floor 4"* before the
+floor was called, because the Floor 4 line had been moved into her opening report. Majin then called
+Floor 6 and Floor 5 — descending — and the check had already been used. The exchange now runs in the
+order a check runs: **Floor 6, Floor 5, Floor 4.**
+
+**One attribution.** That Floor 4 line is **Ayshuk's** in `Part_8` and in `05_AYSHUK`, word for word.
+This file's channel is the console, Seiyon owns the console, and Ayshuk never appears in it. The line
+stays with Seiyon and is now declared in the HOLDs rather than passed off as a coincidence — the
+information is kept, the voice is not, and the HOLD says so.
+
+**Two repetitions cut, and one cut reversed by my own gate.** Each repeat was already said once, in
+better words, nearby:
+
+- *"The theory fit on one side of a page"* — stated twice in forty lines, the second time in full. The
+  second is now one sentence: he had the theory, she had read it and said so.
+- *"She asked for the seals to be tested at load"* — then the same fact again with the number. Now once,
+  with the number.
+- **The definition of a Fracture** — given in *The Field*, then given again in full at Day 53. I cut the
+  second to two words. **Gate 54 failed the build for it**, and it was right to: R-59 exists because you
+  read this file cold and said it was not clear enough, and `Fractured` is on the list of words no
+  reader can infer. The gloss is back at the first use of *Fractured*, shortened and re-worded so it is
+  a reminder rather than a repeat — *"what the record writes when a person's own sorrow has gone past
+  them and the body keeps the appointment anyway."* The lesson is recorded here rather than smoothed
+  over: on this file, a gloss is not padding, and I should not have cut one.
+
+### 4. What was checked and left
+
+- **The same wound, twice** — the doorway sentence and the gauge-log sentence. The file states this as
+  its own structure in `### The one wound, twice`; removing it would remove the book.
+- **"He has been asked, since the disclosure, why…"** — repeated at two different scenes, about two
+  different failures. The repetition is the record's habit, not the prose's.
+- **The thousand · the Cheongula · THE ORIGINAL · the Absolvohan** in the extended — each is glossed
+  where it lands. *"the names of the people the Cheongula took… a thousand citizens in a district the
+  Council had decided was not worth the cost of moving"* is a definition inside a sentence. Nothing to
+  add.
+- **Section order, stamps, the appendix.** Read as a reader would: the stamps now do the signposting
+  the old chapter labels did, and the appendix is reference, not narrative.
+
+### 5. Auditors
+
+All sixty auditors, `seam_lint.py`, 494 unit tests, gates 56. `check_title_register.py` re-read the
+dossier's designation/named-thing declarations after the opening was rewritten.
+
+### 6. What is still open
+
+Unchanged: the 140-scene stamp debt on 02–09, the Year 4,226 / cycle-year 4,232 station dating, and the
+*"four thousand years"* recount. SEIYON remains gated on your sign-off.
+
+---
+
 ## Batch 227 — the full read (2026-10-25)
 
 ### 1. What you asked

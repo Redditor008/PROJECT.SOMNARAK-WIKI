@@ -2,6 +2,34 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the readable pass
+
+**The same two files read again, this time for whether a reader can follow them. Six places did not.**
+
+- **The dossier opened on two terms it had not defined.** Its second sentence put the **Hand of
+  Change** in front of a reader who does not meet the building until hundreds of lines later; it is now
+  described where it is named — *the five-spired facility beneath the Alpha Tree*. The Profile's
+  **Echo-Core Name** row said *"Doorspeech fragment"* against a term defined only at the end of the
+  page; the row now defines it.
+- **Day 160 answered a floor that had not been called.** Seiyon reported Floor 4 first, Majin then
+  called Floor 6 and Floor 5, and a descending check had nowhere left to go. The order is now the order
+  of a check: 6, 5, 4.
+- **The Floor 4 line is Ayshuk's in the Parts**, word for word. This file's channel is the console and
+  Seiyon owns it, so the line stays with her — now declared in the HOLDs instead of left to look like a
+  coincidence.
+- **Two repetitions cut**, each already said once and better nearby: the theory that fit on one side of
+  a page, and the seals asked to be tested at load.
+- **One cut reverted by the build.** The second definition of *Fracture* at Day 53 was trimmed to two
+  words and **gate 54 failed the push** — R-59 exists because this file was once not clear enough, and
+  `Fractured` is on the list no reader can infer. The gloss is back, shortened and re-worded so it
+  reads as a reminder rather than a repeat.
+
+**Measured and deliberately left:** 43 sentences over forty-five words. They are the voice — a man
+who has said the same thing 1,778 times — and shortening them would shorten the book, not clarify it.
+Also left: *the one wound, twice*, which the file declares as its own structure.
+
+All sixty auditors, `seam_lint.py` and 494 unit tests pass.
+
 ## Unreleased — the full read
 
 **Both files were read end to end in order — the dossier all 748 lines as it then stood, the extended all
