@@ -499,7 +499,7 @@ The Consolihan is the city's annual mourning, established in the year the thousa
 
 The next one he stood at the back.
 
-He wore his working coat, because it was the only thing he owned that closed over the left sleeve, and the three lines on his face had not faded, and were still red where they hooked at the ends. People who had known him all his life looked at the lines, then at his eyes — the same deep blue, tired in a way that had not been there the year before — and then away. The silver had reached his hairline at the temples and gone no further that year. Nobody said that either. Nobody asked. The rite does not permit it; you do not stop the reading of the thousand names to ask a man what happened to his face.
+He wore his working coat, because it was the only thing he owned that closed over the left sleeve, and the three lines on his face had not faded, and were still red where they hooked at the ends. People who had known him all his life looked at the lines, then at his eyes — the same deep blue, tired in a way that had not been there the year before — and then away. The silver had reached his hairline at the temples and gone no further that year. Nobody said that. Nobody asked. The rite does not permit it; you do not stop the reading of the thousand names to ask a man what happened to his face.
 
 The rite is simple. The names of the thousand are read. The lamps are lowered. The city is permitted, for one night, to grieve without explanation.
 
@@ -561,7 +561,7 @@ He signed that night, in a room off the square, with the lamps still lowered out
 
 He has described the moment many times since, always in the same words: *the first command I was never allowed to refuse.*
 
-What he has not described, and what this record takes from his own private notes, is why he signed without arguing.
+What he has not described, and what his private notes contain, is why he signed without arguing.
 
 He had spent nine weeks watching a district disagree with the sky. He had put a door in his chest and called it a method. He had watched eighteen people insist they were nine, and he had been unable to tell them apart, and he had gone home and slept, because he could not die and the body still demanded rest even when the mind refused it.
 
@@ -582,8 +582,6 @@ The Directorate was the biggest jar he could build.
 ### The Face in the Station
 
 The station was built in Year 4,226, in a room that had previously held a filing cabinet, and Majin specified it himself: a chair, a desk, a console, and no mirror.
-
-He specified the mirror's absence carefully.
 
 The specification says *no reflective surface facing the operator position*, which any auditor would read as an ergonomic provision.
 

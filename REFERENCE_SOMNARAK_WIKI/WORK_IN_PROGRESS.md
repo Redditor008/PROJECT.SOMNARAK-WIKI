@@ -70,7 +70,19 @@ whole page had stopped meaning anything. `[him]` covered four different men simi
   belongs, and the naming of *Reaper Hungered* happens in prose, in the clerk's hands, at the moment
   he had no time.
 
-### 6. Auditors
+### 6. Chapters read so far
+
+Prologue · *What He Wrote on the Back of a Gauge Log* · *The Doorway* · *The Warm Floor* · *The Sample
+Bench* · *Seventeen Minutes* · *What He Took From It* · *The Filing* · *The Sovereign* · *The Single
+Grade* · *What the Medics Said* · *The Fusing* · *The Choice at the Consolihan* · *The Answer* · *The
+Instrument* · *What He Understood in the Square* · *The Face in the Station* · *The First Morning*.
+
+**Still unread:** *The Second Morning* · *What He Did Not Say* · *The Field* · *The Directive* · *The
+First Repeat* · *The Arithmetic of the Man* · *The Arithmetic* · *The Decision* · *The Lance* ·
+Day 0 · Day 1 · Day 29 · Day 53 · Day 145 · Day 149 · *The Break* · Day 160 · *The Bench, Again* ·
+Day 365 · *Willingness*.
+
+### 7. Auditors
 
 All six auditors and `seam_lint` **PASS**; `test_title_register` **18 tests OK** (the inverted legend test replaces
 the "every file explains its marks" test).
