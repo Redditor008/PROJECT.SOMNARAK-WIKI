@@ -2,6 +2,25 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the comparison
+
+**The extended file was checked claim by claim against the dossier before closing, and three things the
+dossier asserts had never made it in.**
+
+- **The four steps** — *contain, endure, accumulate, erase*. The dossier calls this the spine of
+  everything he built; the file had only the verb *hold*. It is now the programme he writes three
+  nights after the doorway.
+- **The Eight** — his Echo-Core number, the eight offices, seven charters in his own hand. The file had
+  jumped from the founding signature to Year 4,226 with no Directorate in between. New scene.
+- **The pulse** — resonance with the Alpha Tree, measured and never explained. Restored at the fusion.
+- **Four provable errors fixed.** He had gone home and slept, against a dossier that says three times
+  that he does not. The directive was stamped 04:00 against prose that closes the field at 23:59:58 and
+  turns the whole loop on that last second. The Absolvohan's name began in Year 4,231 — a year before
+  the field closed and two before its own program was ordered. And Day 365 was counted at *two hundred
+  and ten* days back to a Day 160 that is two hundred and five.
+- **A table in the file**, `### Dossier comparison`, so the check can be repeated instead of believed —
+  and a HOLD row for the one deliberate divergence, the sentence said twice.
+
 ## Unreleased — the stamp
 
 **Every scene now opens with a timestamp a reader can pin: how far it sits from the event it is

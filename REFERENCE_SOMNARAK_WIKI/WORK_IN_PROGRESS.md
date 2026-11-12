@@ -1,5 +1,66 @@
 # Work In Progress
 
+## Batch 226 — the comparison (2026-10-25)
+
+### 1. What you asked
+
+*"DO A WHOLE COMPARISON + PROOF READING BEFORE TRULY CLOSING THIS EXTENDED FILE SO COMPARE THE
+DOSSIER WITH THE FILE THAN PROOF READ IT WITHOUT BIAS"*
+
+### 2. The method
+
+Every factual assertion in `THE_DIRECTOR.md` was listed and then looked for in the extended file. Not
+"does the tone match" — does the claim survive, word for claim. The result is now a table in the file
+itself, `### Dossier comparison`, so the check can be repeated rather than believed.
+
+### 3. What the comparison found
+
+**Three things the dossier asserts and the file never delivered** — each one already cited in the
+source ledger, which made every omission a promise the file had broken:
+
+- **The four steps.** The dossier calls *contain · endure · accumulate · erase* the spine of
+  everything he built and says every institution is one of them wearing a different coat. The file had
+  the verb *hold* and nothing else. Now written as the four-line programme he sets down three nights
+  after the doorway.
+- **The Eight.** The dossier devotes a section to the founding — nine offices, seven charters in his
+  hand. The file jumped from the signature in the square to Year 4,226 with no Directorate in between.
+  New scene, *The Eight*, placed where the gap was.
+- **The pulse.** *"His pulse has read in resonance with the Alpha Tree. The Directorate measures it.
+  The Directorate does not explain it."* Three sentences in the dossier, absent here. Restored at the
+  end of the fusion.
+
+### 4. What the proofread found — four errors, all provable
+
+- **He slept.** The dossier says *"He does not sleep. He does not rest."* in three places, including a
+  Notes entry. The file had him *"gone home and slept."* Fixed; he now lies in the dark and does not
+  spend the hours.
+- **The clock.** *The Directive* was stamped **04:00** and the prose says twice that he closed the
+  field at **23:59:58 on the last night** — and the whole loop turns on that last second. The stamp was
+  wrong; it now reads 23:59.
+- **Year 4,231.** *Day 145* said the Absolvohan's name began on a requisition slip in Year 4,231 — a
+  year before the field closed, and two years before the program that named it was ordered. Now the
+  third pass of the same year.
+- **Two hundred and ten.** At Day 365 Seiyon counts back: the gates on Day 177 is 188 days, correct.
+  The Hand of Hope on Day 160 is **205**, not 210. Also *"another fifteen hundred iterations"* at the
+  fourth pass should be seventeen hundred.
+
+### 5. What the proofread found good
+
+The Zone D annex (twelve exposed, two Fractured, unmentioned) is the dossier's *"shape of the whole
+era"* and the file earns it. The Day 0 arithmetic is exact — *forty-three cycles* → cycle 1,735 of
+1,778. The office is cold *"as it had always been"* and then warm on the twelfth day, which keeps the
+dossier and pays it off.
+
+### 6. Declared, not merged
+
+The sentence is said twice in this file and once in the dossier. The HOLDs now carry a row for it:
+both sayings are hers, the seal is still the last recorded one, and the earlier saying is this file's
+addition rather than a rewrite of the dossier.
+
+### 7. Auditors
+
+All seven auditors, `seam_lint`, and **494 tests** PASS.
+
 ## Batch 225 — the stamp (2026-10-25)
 
 ### 1. What you asked
