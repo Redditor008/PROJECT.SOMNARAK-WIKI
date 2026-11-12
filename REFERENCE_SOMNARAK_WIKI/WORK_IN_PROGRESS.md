@@ -1,5 +1,58 @@
 # Work In Progress
 
+## Batch 225 — the stamp (2026-10-25)
+
+### 1. What you asked
+
+> *"YOU SHOULD USED xxx Time[Can Be Days/Month/Years/Just Hour/Minute] BEFORE [REDACTED] Happened The
+> Redacted Will Only Be Shown On The 00:00 Before XXX Happened Instead Of [REDACTED] So There Is A
+> Clear Time Stamp For Easier Pinning"*
+
+### 2. The line
+
+Every scene in `01_MAJIN` now opens with one, directly under the heading, before any prose:
+
+```text
+> **STAMP — 9 days before [REDACTED] happened · 17:40 · Floor 3, the bench**
+```
+
+**Three fields: offset · clock · place.** The unit is chosen by distance, never by taste — years for
+an era, months for an appointment, days for a death, hours for a night, minutes for a seal closing.
+All five units are in use in the file, because the file spans six research years and seventeen
+minutes.
+
+### 3. The bracket and the lift
+
+The anchor — the floor warming — has no canonical date. That is a standing HOLD: *resolved by class,
+not by date.* So the anchor is written `[REDACTED]`, and it is not a placeholder: it is the honest
+state of the record.
+
+**It lifts exactly once, at 00:00 on the day of it**, which is what you asked for:
+
+```text
+> **STAMP — 00:00 to 23:41, the day of the Solidification. The redaction lifts here · 23:24 · Floor 3**
+```
+
+Before that line, every scene counts **toward** the bracket. After it, every scene counts **from** the
+named event, and the bracket does not appear again — not in a stamp, not in a sentence. Gate 56
+enforces both directions.
+
+### 4. Coverage
+
+**51 stamps**: 4 chapter divisions, 47 scene units. The chapters carry the era, the parts carry the
+hour, so a reader can pin at either level — which is what you meant by *"divided by chapter than
+part."*
+
+### 5. The rule, and the debt
+
+`R-62 — The Stamp` (new), § IV.6 of `00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`, gate 56
+(`check_scene_stamps.py`), 11 tests. The gate is scoped like the register gate was: **enforced on
+01_MAJIN now, 140 scenes of counted debt in 02–09** rather than a silent failure.
+
+### 6. Auditors
+
+All seven auditors, `seam_lint`, and **494 tests** PASS.
+
 ## Batch 224 — the pin (2026-10-25)
 
 ### 1. What you asked

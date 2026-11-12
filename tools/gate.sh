@@ -106,6 +106,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_backstory_appearance.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_backstory_gloss.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_title_register.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_scene_stamps.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q

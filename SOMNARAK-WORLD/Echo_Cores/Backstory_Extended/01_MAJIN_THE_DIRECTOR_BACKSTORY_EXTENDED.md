@@ -14,6 +14,8 @@
 
 ---
 
+> **STAMP — the sixth research year before [REDACTED] happened · 14:20 · Floor 3, the sample bench**
+
 There was a lamp over the bench that ran too hot.
 
 It had been repaired four times by a man who no longer worked in the building, and each repair had made it brighter and less even, so the left side of every sample read warm and the right side read cold. Majin learned to subtract the difference. Yeon-seo refused to, and read every sample twice instead, once on each side, and averaged the two numbers in her head, and put a small tick beside the average so that she would know later that it had been averaged.
@@ -36,6 +38,8 @@ Majin called it a language. That was the first mistake, and he made it with the 
 
 ### What He Wrote on the Back of a Gauge Log
 
+> **STAMP — the same research years, before [REDACTED] happened · 20:10 · Floor 3, the bench**
+
 The theory fit on one side of a page, which was one of its attractions:
 
 > Han behaves like a fluid under pressure and like a memory under load. A place that holds too much of it does not flood. It *remembers* — it begins to behave as though the grief belongs to it.
@@ -57,6 +61,8 @@ He has never found the thing.
 ---
 
 ### The Doorway
+
+> **STAMP — 9 days before [REDACTED] happened · 17:40 · Floor 3, the bench, then the lift**
 
 There is no record of the last ordinary day.
 
@@ -100,7 +106,11 @@ He walked her to the lift. The lift came. She got in, and the doors closed on a 
 
 ---
 
+> **STAMP — the research years through the first year after the Solidification · 23:24 · Floor 3, the east core, the square**
+
 ### The Room
+
+> **STAMP — Year 4,238, and every eleventh of the month after it · 10:00 · the Public Record Office**
 
 The Public Record Office is the part of the Public Archive that is not open to the public. It is on the second floor of a building that used to be a customs house, and the room they gave him has two windows, a table, and a chair that is better than the one the clerks get.
 
@@ -132,6 +142,8 @@ By the fourth session she had stopped expecting the order to hold. She would ask
 
 ### The Warm Floor
 
+> **STAMP — 00:00 to 23:41, the day of the Solidification. The redaction lifts here · 23:24 · Floor 3, then the east core**
+
 The building had a name before it had a purpose: *the Hand of Change* — five spires set around a palm-shaped court, one for each finger, the whole of it taller than the district wall. Nobody in the research years used the full name. They said the building, or Floor 3, or, when they were tired and the lamps were low, *the Hand*.
 
 The floor warmed first.
@@ -161,6 +173,8 @@ He went up.
 ---
 
 #### The Sample Bench
+
+> **STAMP — 26 minutes into the Solidification · 23:26 · Floor 3, the sample bench**
 
 The seals were hers.
 
@@ -206,6 +220,8 @@ She had never needed two hands. She had written the override herself, and she ha
 
 #### Seventeen Minutes
 
+> **STAMP — 17 minutes into the Solidification, then Day 11 · 23:24 · the east core**
+
 The seal took seventeen minutes to close. The alarm log is exact about that and about nothing else, because the instruments in the core stopped reporting at 23:24 and the log has kept the hole ever since.
 
 She was inside for sixteen of them.
@@ -238,6 +254,8 @@ The bench was not damaged. The lamp was even — she had replaced the shade — 
 
 #### What He Took From It
 
+> **STAMP — the Solidification at 23:41, then 9 days after it · 23:41 · a doorway and a fire**
+
 She said it twice.
 
 The second time she was holding a ring shut with both hands and the room behind her had stopped being a room. She said the same five words. She did not add anything to them, and she did not have the breath to.
@@ -267,6 +285,8 @@ He never put it in a report that he had done it for her. He does not write her n
 ---
 
 #### The Filing
+
+> **STAMP — 14 days after the Solidification · 09:15 · the civil register office, Zone B**
 
 The civil register of Zone B runs to nine boxes. It is a Council form, designed by a committee to survive being copied by hand, and in six years he had filled in the third box for other people's staff — the one that asks what the deceased was doing when it happened, because in this district that is usually the useful part.
 
@@ -333,6 +353,8 @@ He took the copy, and left, and did not correct it.
 
 ### The Sovereign
 
+> **STAMP — 63 days after the Solidification · 04:50 · the containment office, east quarter**
+
 > **R.D. INCIDENT REGISTER — ZONE B, FIRST ENTRY**  
 > *Class: aggregate sorrow manifestation. Grade: unclassified at time of filing.*  
 > *Field name: assigned by the containment office nine weeks later.*
@@ -363,6 +385,8 @@ He put both teams in separate rooms and interviewed each of the eighteen. Afterw
 
 #### Three Failed Containments
 
+> **STAMP — 63 days after the Solidification · 05:20 · the containment office**
+
 The ward seals held for six hours.
 
 Then the seals began to hold *retroactively* — the district behaved as though the breach had not happened, the gauges agreed, and the people inside the perimeter began to forget what they had seen from outside.
@@ -382,6 +406,8 @@ He stood in a command post with a map that no longer matched the ground and a ci
 ---
 
 #### The Single Grade
+
+> **STAMP — 63 days after the Solidification · 21:00 · the extraction theatre, anteroom**
 
 Nobody had named the thing. A records clerk had a stack of witness statements, a form that required a noun, and no time; he took the two words the witnesses used most, and wrote *Reaper Hungered* in the field.
 
@@ -417,6 +443,8 @@ The extraction team looked at the floor.
 
 #### What the Medics Said
 
+> **STAMP — Year 4,238, at the disclosure inquiry · 11:00 · a debrief room, Floor 1**
+
 *Extract from the extraction-team debrief, taken in Year 4,238 during the disclosure inquiry. Three members present. The senior medic, Insu, speaks first; the second medic is the younger voice and is not named in the record.*
 
 > **[Insu]** "He read the directive before he signed it. I want that in the record, because the version that circulated afterward had him signing it blind. He sat on the table with his sleeve cut open and read the whole page, twice, and then he said —"
@@ -444,6 +472,8 @@ The transcript records four seconds of nobody speaking after that, and the debri
 ---
 
 #### The Fusing
+
+> **STAMP — 63 days after the Solidification · 23:10 · the extraction theatre**
 
 The procedure record is four lines long. What happened in the room is not in the record because the room's instruments spent most of it reporting that they were no longer in the room.
 
@@ -497,6 +527,8 @@ From that morning he had three lines on the left side of his face and a black ma
 
 ### The Choice at the Consolihan
 
+> **STAMP — 1 year after the Solidification · 21:00 · the Consolihan square**
+
 The Consolihan is the city's annual mourning, established in the year the thousand were lost. Majin had attended it every year of his life: first as a child holding a lamp, then as a researcher with ink on his hands, then as a man who no longer needed to be told when to stand.
 
 The next one he stood at the back.
@@ -512,6 +544,8 @@ Then the tree answered.
 ---
 
 #### The Answer
+
+> **STAMP — 1 year after the Solidification, 40 minutes later · 21:40 · the square, under the Tree**
 
 It did not speak. The founding record is clear on that, and so is every witness statement taken afterward. There was no voice, no light, no column of anything. The lamps simply leaned — all of them, in a direction the air was not moving.
 
@@ -532,6 +566,8 @@ He had not heard them. He had, in the way that later became familiar to everyone
 ---
 
 #### The Instrument
+
+> **STAMP — 1 year after the Solidification · 22:30 · a room off the square**
 
 > **COUNCIL OF SIGHS — INSTRUMENT OF SELECTION**  
 > *To: the person standing at the rear of the Consolihan square.*  
@@ -559,6 +595,8 @@ He read it twice. The second reading was the one that mattered.
 
 #### What He Understood in the Square
 
+> **STAMP — 1 year after the Solidification · 23:50 · the square, after the signing**
+
 He signed that night, in a room off the square, with the lamps still lowered outside. The signature is the first document in the Directorate's founding ledger.
 
 He has described the moment many times since, always in the same words: *the first command I was never allowed to refuse.*
@@ -583,6 +621,8 @@ The Directorate was the biggest jar he could build.
 
 ### The Face in the Station
 
+> **STAMP — Year 4,226 · 08:00 · a room that held a filing cabinet**
+
 The station was built in Year 4,226, in a room that had previously held a filing cabinet, and Majin specified it himself: a chair, a desk, a console, and no mirror.
 
 The specification says *no reflective surface facing the operator position*, which any auditor would read as an ergonomic provision.
@@ -592,6 +632,8 @@ He knew what he was doing. He did it anyway, because he could not think of a way
 ---
 
 #### The First Morning
+
+> **STAMP — Year 4,226 · 06:00 · the Secretary's Station, Floor 1**
 
 She came online at 06:00.
 
@@ -647,6 +689,8 @@ He did not. He said:
 
 #### The Second Morning
 
+> **STAMP — Year 4,226, the next morning · 06:00 · the Secretary's Station**
+
 The second morning was easier. That was the trouble with it. The second morning he came in, took the report, signed the order, and did not look up, and the not-looking-up became a habit so quickly that by the end of the first month he could not have said what color her eyes were, though he knew, and had always known.
 
 > **[Majin]** "Seiyon. If you have questions that are not in the reporting protocol, ask them."
@@ -669,6 +713,8 @@ She did not ask again for six years, and then not for another four hundred cycle
 
 #### What He Did Not Say
 
+> **STAMP — Year 4,226, the end of the first week · 18:00 · the Secretary's Station**
+
 The rest of it was this.
 
 He had built her because the building was too quiet. He had built her because the lamp in the research room had been replaced with an even one, and he could never take a reading under it without hearing her say *the lamp is a lamp, it has moods.* He had built her because he was the only person in Somnarak who could not die and the only person in Somnarak who could not put anything down.
@@ -680,6 +726,8 @@ That was the part he could not forgive himself for later: not that he had done i
 ---
 
 ### The Field
+
+> **STAMP — Year 4,232 · 02:40 · the operations floor, sub-Level 1**
 
 Year 4,232 began with the ground moving.
 
@@ -700,6 +748,8 @@ They had one system that could hold the strata together. It was not a containmen
 ---
 
 #### The Directive
+
+> **STAMP — Year 4,232, the same night · 04:00 · the Director's office**
 
 > **FACILITY DIRECTIVE — MNEMONIC GENERATOR, EMERGENCY DEPLOYMENT**  
 > *You are about to close a field around a city that cannot be evacuated in time.*  
@@ -734,6 +784,8 @@ The lights did not flicker. That was the strange part. The building simply stopp
 
 #### The First Repeat
 
+> **STAMP — Cycle 1, Day 1, the first return · 06:00 · the operations floor**
+
 At 00:00:00 the timestamp returned to Day 1 and the eastern foundation was intact.
 
 Not repaired. Intact — the way it had been before the fracturing, the way the seismic record said it had been on the first morning of the year.
@@ -761,6 +813,8 @@ Which meant, and he wrote this on a card and kept it in the desk: the whole of w
 ---
 
 #### The Arithmetic of the Man
+
+> **STAMP — Cycle 1, the ninth and seventeenth return years · 05:00 · the operations floor**
 
 The field does not distinguish. He had written that into the directive himself, in the line he signed without reading twice, and it took him another eleven days to understand that it applied to him.
 
@@ -812,6 +866,8 @@ He walked the length of the operations floor and back. It is thirty-one metres a
 
 #### The Arithmetic
 
+> **STAMP — the return years, counting · 05:00 · the operations floor**
+
 > **[Seiyon]** "Director. There is something in the reclamation ledger."
 
 > **[Majin]** "Show me."
@@ -843,6 +899,8 @@ He looked at the number on the screen for a while.
 ---
 
 #### The Decision
+
+> **STAMP — the return years · 05:00 · the Director's office**
 
 He has been asked, since the disclosure, why he did not stop at the first return.
 
@@ -901,6 +959,8 @@ A Fracture is what the city calls it when a person's own sorrow goes past what a
 
 ### The Lance
 
+> **STAMP — the return years, before Day 0 · 05:00 · the design floor**
+
 The release system had to point somewhere.
 
 He designed it in the fourth iteration, in three nights, with the fault still muttering under the eastern foundation and a district of forty thousand people sleeping above it.
@@ -940,6 +1000,8 @@ He did not revise the design. He has said, since, that this was the clearest evi
 ---
 
 ### Day 0 — And You
+
+> **STAMP — Cycle 1,778, Day 0 · 06:00 · the Director's office**
 
 The Decision Core woke the way it always did: amber tubes lighting in sequence, the lift engaging, the report already on the blotter.
 
@@ -987,6 +1049,8 @@ He stood, walked to the window, and gave the morning order, and the facility mov
 
 ### Day 1 — The Word in the Wall
 
+> **STAMP — Cycle 1,778, Day 1 · 07:30 · the Maw wall, Floor 1**
+
 > **[Dekan]** "Morning report. Entity 001 tolled at midnight. Again."
 
 > **[Seiyon]** "Noted. The tolling frequency has increased by 0.3 percent since last cycle."
@@ -1009,6 +1073,8 @@ Dekan waited. Majin did not give him anything else to carry, so he saluted and l
 
 #### The Night
 
+> **STAMP — Cycle 1,778, Day 1, that night · 02:00 · the corridor outside the office**
+
 At 23:45 the facility dropped to nocturnal lighting. Majin sat with the Maw's telemetry open: six precise syllables, repeated at intervals, logged by the acoustic array as a *named-address event, unresolved*.
 
 It was the name he had carried before the Directorate. Before the floors, before the title, before anyone in this building had needed to call him anything at all.
@@ -1030,6 +1096,8 @@ He closed the telemetry window and opened the day's casualty summary. Then he re
 ---
 
 ### Day 29 — The Forgiveness
+
+> **STAMP — Cycle 1,778, Day 29 · 09:00 · the Director's office**
 
 > **[Dekan]** "Containment report. Entity 006, the Smothering Mother, escaped last night."
 
@@ -1056,6 +1124,8 @@ Nothing came back over the channel. The recording holds eleven seconds of it. Th
 ---
 
 #### The Catwalk
+
+> **STAMP — Cycle 1,778, Day 29, later · 14:00 · Floor 2, the catwalk**
 
 The debrief ends with the order. This record continues one hour later, on the Floor 2 catwalk, where the containment lead and the Director were both recorded by the corridor capture system and neither of them filed a report.
 
@@ -1117,6 +1187,8 @@ He went back up. Dekan has said, in a statement taken for this record, that the 
 
 ### Day 53 — What the Wall Remembers
 
+> **STAMP — Cycle 1,778, Day 53 · 07:30 · the Maw wall**
+
 > **[Dekan]** "Containment report. The Maw grew last night."
 
 > **[Majin]** "How much?"
@@ -1143,6 +1215,8 @@ Dekan's own record carries what followed: the same four markers measured again, 
 
 #### The Annex
 
+> **STAMP — Cycle 1,778, Day 53, later · 16:00 · the annex**
+
 The callsign was not the part that stayed with him. The callsign was a fact about the wall.
 
 What stayed with him was an hour in an earlier iteration when the Veil generators in Zone D failed for three hours. Twelve citizens were exposed to raw Han. Two Fractured — the city's word for what is left when a person's own sorrow goes past what a person can be and the body goes on walking without anyone behind it. The diversion had taken the surplus out of the same grid, and the report he signed that night had recorded the exposure, the Fractures, and the three hours in the annex, and had not mentioned them in the command summary.
@@ -1164,6 +1238,8 @@ Dekan looked at the growth markers on the screen, then at the Director, and did 
 > **[Dekan]** "Understood."
 
 ### The Room — The Date
+
+> **STAMP — Year 4,238, second month · 10:00 · the Public Record Office**
 
 She had got to question twenty-two, which is the one about the woman.
 
@@ -1193,7 +1269,11 @@ He did not write a year number. He wrote the event, because the event was the on
 
 ---
 
+> **STAMP — Cycle 1,778, the fifth month · 08:00 · Floor 6 and the Director's office**
+
 ### Day 145 — The Hidden Entry
+
+> **STAMP — Cycle 1,778, Day 145 · 08:00 · the Director's office**
 
 The barrel had a name before it had a shape. *The Absolvohan* began as a line on a requisition slip in Year 4,231 — one word, no gloss, approved by a clerk who assumed it was a supplier — and by the time the first five hundred millimetres of it were cast it had come to mean the weapon, the account that fed it, and the day it was due.
 
@@ -1222,6 +1302,8 @@ Forty-nine point eight eight. The projection, made in the second century, had be
 ---
 
 #### Floor 6, After
+
+> **STAMP — Cycle 1,778, Day 145, that night · 23:00 · Floor 6, the vault door**
 
 The order was simple: do not move the journal. Do not copy the page. Leave the vault open and leave the lamp on.
 
@@ -1256,6 +1338,8 @@ Marjuk did not answer, and Majin did not press him, and the two of them stood in
 > **[Majin]** "Then it is a family tradition."
 
 ### The Room — The Word
+
+> **STAMP — Year 4,238, a later month · 10:00 · the Public Record Office**
 
 She came in that month with two sheets instead of one, and put the second one down and did not sit.
 
@@ -1293,7 +1377,11 @@ She wrote it. He gave the sheet back, and she saw that his hand had left a mark 
 
 ---
 
+> **STAMP — Cycle 1,778, the fifth month, four days later · 05:00 · the manifold room**
+
 ### Day 149 — The Cannon and the Fountain
+
+> **STAMP — Cycle 1,778, Day 149 · 05:00 · the manifold room**
 
 The order was given standing up, in the manifold room, with the day's reports still in his hand and the shift change going on two floors above him. He had been awake for thirty-one hours. He had come down at the end of the night because there was nothing left to do with the idea and he wanted to look at the thing it applied to.
 
@@ -1325,6 +1413,8 @@ She noted it. It is the only entry in the command register for that day that con
 
 #### The Manifold Room
 
+> **STAMP — Cycle 1,778, Day 149, later · 11:00 · the manifold room**
+
 He went down to watch them cut the barrel.
 
 The cutting torches threw the room into a light that was almost exactly the color of the research lamp, and he stood at the back of the vault with his hands at his sides while a 500-millimeter steel tube that had taken him three nights to design came apart in four hours.
@@ -1355,6 +1445,8 @@ He looked at the barrel, which was now two barrels, and at the copper manifold p
 
 ---
 
+> **STAMP — Cycle 1,778, Day 149, after the cut · 04:00 · a cold office**
+
 It was not the sentence. He had read the sentence before. Marjuk had quoted it on Day 121, in the last entry, and it had gone into the command register as an archival finding and had not changed a single order.
 
 What broke was the word *shared.*
@@ -1370,6 +1462,8 @@ She had said *don't let it win*, and he had put it in a report as *do not let it
 ---
 
 ### Day 160 — The Fountain
+
+> **STAMP — Cycle 1,778, Day 160 · 12:00 · the wheel room, then the district**
 
 Midday, and the manifold room was cold.
 
@@ -1471,6 +1565,8 @@ He asked her to leave the channel open, and she did, and he sat in the manifold 
 
 ### The Room — The Names
 
+> **STAMP — Year 4,238, a later month · 10:00 · the Public Record Office**
+
 She read the count back to him the way she had been taught to read figures: slowly, in a level voice, with the unit named once.
 
 > **[clerk]** "Four hundred and six out. Eighteen in. Two teams of nine."
@@ -1509,7 +1605,11 @@ She did not ask what he meant. She read out four hundred and six names, most of 
 
 ---
 
+> **STAMP — Cycle 1,778, the twelfth month · 06:00 · Floor 3 and the public archive**
+
 ### The Bench, Again
+
+> **STAMP — Cycle 1,778, Day 365 · 06:00 · Floor 3, the sample bench**
 
 Nine days after the dispersal he went to the Deep Vault and asked for a box.
 
@@ -1526,6 +1626,8 @@ He had kept it for seventeen hundred years because he thought it was a design br
 ---
 
 #### The Afternoon
+
+> **STAMP — Cycle 1,778, Day 365, remembering the sixth research year · 15:00 · Floor 3, the bench**
 
 It was not a design brief. It was an afternoon.
 
@@ -1573,6 +1675,8 @@ He put the paper down very carefully, the way you put down something that has be
 
 ### Day 365 — The Ledger of Names
 
+> **STAMP — Cycle 1,778, Day 365 · 15:00 · the Director's office**
+
 > **[Seiyon]** "The field weakened on Day 360. It did not fail. It ran down, the way you said it would."
 
 > **[Majin]** "And today?"
@@ -1596,6 +1700,8 @@ He did not answer that. He stood at the window with his hands behind his back an
 ---
 
 #### The Public Archive
+
+> **STAMP — Cycle 1,778, the morning after Day 365 · 09:00 · the public archive**
 
 The disclosure took most of the year. The Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, and *the Cycle* — the plainest of the words and the one the city could not make fit in its mouth: that the same year had already happened one thousand seven hundred and seventy-eight times, and that every person reading the volume had died in it before. Anyone who has read the volumes knows what is in them; what the volumes do not hold is the first week.
 
@@ -1649,6 +1755,8 @@ On the way up he passed the head of the service stair that goes down to the root
 
 #### Willingness
 
+> **STAMP — Year 4,238, the year the Hand of Change opened · 09:00 · the Director's office**
+
 That is where the record would normally end.
 
 It does not, because there is one last thing, and it is small, and it is the only item in this file that Majin did not report and did not confirm.
@@ -1664,6 +1772,8 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 The marks had not faded. He had not got any younger. Only the reading had changed: once, twice, once.
 
 ### The Room — The Signature
+
+> **STAMP — Year 4,238, the eleventh month, the eleventh day · 10:00 · the Public Record Office**
 
 The last session was in the eleventh month, on the eleventh, and she brought the whole file in a box because she thought he would want to see it whole.
 

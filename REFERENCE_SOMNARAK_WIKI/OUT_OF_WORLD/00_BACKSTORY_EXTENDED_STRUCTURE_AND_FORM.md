@@ -181,6 +181,46 @@ For characters without retained loop memory, the strongest form is:
 
 The access route must be legal at that anchor. A sealed record does not open because the plot needs it.
 
+### IV.6 The Stamp — a timestamp a reader can pin
+
+Every scene unit carries one **STAMP** line directly under its heading, before the first line of
+prose. It is the only fixed furniture in the file.
+
+```text
+> **STAMP — 9 days before [REDACTED] happened · 17:40 · Floor 3, the bench**
+```
+
+**Four fields, in this order, separated by ` · `:**
+
+| field | what it holds | example |
+|---|---|---|
+| **offset** | how far the scene sits from its anchor, in the largest honest unit — years, months, days, hours, minutes | `9 days before [REDACTED] happened` |
+| **clock** | the time of day, to the minute, when the scene has one | `17:40` |
+| **place** | where the scene is | `Floor 3, the bench` |
+| **qualifier** | only when the scene moves inside itself | `then Day 11 in the same room` |
+
+**The unit is chosen by distance, never by taste.** Years for eras, months for appointments, days for
+a death, minutes for a seal. A scene six years away is not stamped in days, and a scene forty minutes
+away is not stamped in years.
+
+**The anchor may be redacted.** When the reference event has no canonical date, it is written
+`[REDACTED]` and every scene counts toward it. `[REDACTED]` is not a placeholder to be filled in
+later: it is the honest state of the record, and it stays redacted for as long as the corpus refuses
+to date the event.
+
+**The redaction lifts exactly once, at 00:00 on the day of the anchor.** The anchor scene is stamped
+from midnight, and in that stamp the bracket is replaced by the event itself:
+
+```text
+> **STAMP — 00:00, the day of the Solidification. The redaction lifts here. · 23:24 the floor warms**
+```
+
+Every scene after that point counts *from* the named event rather than toward a redaction. No scene
+carries the old bracket after the lift, and no scene carries the name before it.
+
+**A stamp is not a line of prose.** It takes no italic, no dialogue, no gloss, and it never explains
+itself. If a reader needs the key, the key is this section.
+
 ---
 
 ## V. Point of view

@@ -2,6 +2,27 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the stamp
+
+**Every scene now opens with a timestamp a reader can pin: how far it sits from the event it is
+counting toward, the clock, and the place.**
+
+```text
+> **STAMP — 9 days before [REDACTED] happened · 17:40 · Floor 3, the bench**
+```
+
+- **Three fields — offset · clock · place**, and the unit is chosen by distance: years for an era,
+  months for an appointment, days for a death, hours for a night, minutes for a seal closing.
+- **The anchor is `[REDACTED]`** where the record has refused to date an event. That is the honest
+  state of the file, not a placeholder to be filled in later.
+- **The bracket lifts exactly once — at 00:00 on the day of the anchor** — and never returns:
+  *"00:00 to 23:41, the day of the Solidification. The redaction lifts here."* Before that line every
+  scene counts toward it; after it, every scene counts from it.
+- **51 stamps in the Majin file** — 4 chapter divisions and 47 scene units, so the file can be pinned
+  at chapter level or at part level.
+- **R-62** is the rule, **§ IV.6** is the standard, **gate 56** is the enforcement, with 11 tests.
+  Files 02–09 carry 140 counted scenes of debt and are not yet converted.
+
 ## Unreleased — the pin
 
 **The Doorway is nine days before the floor warms, and the file said so three times and denied it twice.**

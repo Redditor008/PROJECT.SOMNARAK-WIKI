@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 224.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 225.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -465,7 +465,7 @@ The permanent law, each with your words where they survive verbatim. Full text i
 
 # Part III — The rule index
 
-Every command that became law has a file. **61 rules**, `R-01`–`R-61`.
+Every command that became law has a file. **62 rules**, `R-01`–`R-62`.
 
 `R-01` no edit-meta · `R-02` growth-only · `R-03` no label decoration · `R-04` bespoke per entity ·
 `R-05` no threshold gaming · `R-06` the threshold is the counter · `R-07` percentage where no
@@ -516,6 +516,7 @@ category and a way of writing** · **`R-55` a file is read once, in order** · *
 | **The reading** | 215 | the owner read the backstories as a reader; Majin's break found and fixed; the missing climax written; a file now has to be read in the order it states |
 | **The person** | 216 | Majin's own page rebuilt: a 365-word classification replaced by a life story, the mishearing given a mechanism, and the present explained by the past |
 | **The names** | 220 | every title marked by what it is; the legend printed in all nine files; the Hand of Change coined where a reader stands in it; and the arithmetic of a 126-year-old man who has lived 1,778 years |
+| **The stamp** | 225 | every scene opens with a STAMP line — offset, clock, place. The anchor is `[REDACTED]` until 00:00 on the day of it, where the bracket lifts once and is never used again. Units chosen by distance: years, months, days, hours, minutes. R-62, § IV.6, gate 56. 51 stamps in `01_MAJIN`, 140 scenes of debt in files 02–09. |
 | **The pin** | 224 | the chronology was stated three times and denied twice. The Doorway is Day −9, not the same night; the two "last ordinary" claims are corrected. The spine now carries both calendars — loss days and cycle days — with an offset on every row, and The Sovereign moves from "the same hour" to Day 63. The Doorway was missing from the Scene ledger. |
 | **Six women, one label** | 223b | `[she]` was five different women and `[him]` four different men, and the Cast table listed three of them twice. Every unnamed speaker now carries a role; the counts were regenerated from the file. Chapter read continues: the Consolihan, the station. |
 | **The key belongs in the rulebook** | 223 | the register legend was a style manual in the front matter of a story. Deleted from all nine files; gate 55 inverted to fail a file that carries one. Five passages that explained their own mechanism cut. Re-read from the prologue: the lamp taught twice, a pronoun that flipped subject, a man's coat on a woman, box four confused with box three, and the Sovereign wearing bold. |
