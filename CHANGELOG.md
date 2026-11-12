@@ -2,6 +2,25 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the key belongs in the rulebook
+
+**The register legend was a style manual sitting in the front matter of a story, and five passages in
+the prose explained their own mechanism to the reader.**
+
+- **The `REGISTER:` paragraph is deleted from all nine Extended files.** It defined *designation*,
+  *named thing*, *body* and *office* inside the fiction. The key belongs in `R-61`, where a writer
+  looks for it, not where a reader does.
+- **Gate 55 is inverted** — it used to fail a file for *not* carrying the legend; it now fails a file
+  for carrying one.
+- **The header is seven fields, not nine.** No more `PROVENANCE`, no more `REGISTER`.
+- **Five self-explanations cut**, including *"which is why the exchange reads like a requisition form
+  … The file has to take the room from somewhere else"* and *"the closest the record ever comes to
+  admitting"*. A scene that explains what it is doing reads as the author behind the page.
+- **Re-read from the prologue onward.** Fixed: the lamp taught twice; a pronoun that flipped subject
+  mid-sentence; a man's coat on a woman; box four confused with box three in the death certificate;
+  the Absolvohan's name explained twice; a cleaning crew's report four thousand years old; and *the
+  Sovereign* wearing bold, which in this file means shouting.
+
 ## Unreleased — the order it hurt
 
 **Read chronologically, the Majin file had no present tense. Every one of its twenty-one scenes was

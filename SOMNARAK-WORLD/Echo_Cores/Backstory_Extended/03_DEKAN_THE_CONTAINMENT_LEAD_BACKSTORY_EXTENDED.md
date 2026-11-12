@@ -8,7 +8,6 @@
 > **ACCESS:** Open. Released under the disclosure order of Day 177.  \
 > **PROVENANCE:** Field reports; perimeter instrumentation; the buried seventeen-minute index; one sealed review annex  \
 > **RELIABILITY:** Exact for what he measured. Where he says *I don't know*, this record does not improve on him.  
-> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); a **body** — a faction, school, order or council — takes a capital article (The Endurers, The Council of Sighs); an **office** is plain and lower case after *the* (the Director). A mark that only ever falls at the start of a sentence is not a mark, so each name is coined mid-line. Names in this file are not decoration and are not noise.
 
 ---
 

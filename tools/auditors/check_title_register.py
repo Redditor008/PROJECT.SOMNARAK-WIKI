@@ -34,7 +34,7 @@ Three classes, one mark each, and the mark is decided by what the thing *is*:
 WHAT FAILS
 
   * a designation written in more than one casing inside one file;
-  * a declaration in `REGISTER` whose mark does not match the file;
+  * a REGISTER legend left in the file (the key belongs in R-61);
   * a file using a declared designation without declaring it.
 
 WHAT IT DOES NOT DO
@@ -263,14 +263,16 @@ def main(argv):
             elif verbose:
                 print('  %-46s %-24s body, mark visible' % (where[:44], n))
 
-    # every file must tell its own reader what the marks mean
+    # the register is a rule, not a preamble. A story that explains its own typography to the
+    # reader is doing the wiki's job in the fiction. The legend lives in R-61 and nowhere else.
     for path in sorted(glob.glob(os.path.join(DIR, '*.md'))):
         base = os.path.basename(path)
         head = read(path)[:2500]
-        if '**REGISTER:**' not in head:
-            issues.append('%s: carries no REGISTER line, so its marks are unexplained' % base)
+        if '**REGISTER:**' in head:
+            issues.append('%s: carries a REGISTER legend in the file — the key belongs in R-61, '
+                          'not in the story' % base)
         elif verbose:
-            print('  %-46s register line present' % base[:44])
+            print('  %-46s no legend in file, as required' % base[:44])
 
     print('designations declared %d · named things declared %d across %d files'
           % (len(DESIGNATIONS), sum(len(v) for v in NAMED_THINGS.values()), len(NAMED_THINGS)))

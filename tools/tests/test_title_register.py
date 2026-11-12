@@ -5,7 +5,7 @@ import unittest
 
 from tools.auditors import check_title_register as gate
 
-HEAD = '> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL).\n\n'
+HEAD = '# Echo-Core 1 — Majin, the Director\n\n> **ERA:** the research years to the first unlooped year  \n\n'
 
 
 class TheDesignation(unittest.TestCase):
@@ -86,13 +86,15 @@ class TheBody(unittest.TestCase):
 
 
 class TheArchive(unittest.TestCase):
-    def test_every_file_explains_its_marks(self):
+    def test_no_file_explains_its_own_marks(self):
+        """The register is a rule, not a preamble. A story that glosses its own typography
+        is doing the wiki's job inside the fiction; the key lives in R-61 alone."""
         import glob
-        missing = []
+        offenders = []
         for path in glob.glob(os.path.join(gate.DIR, '*.md')):
-            if '**REGISTER:**' not in gate.read(path)[:2500]:
-                missing.append(os.path.basename(path))
-        self.assertEqual(missing, [])
+            if '**REGISTER:**' in gate.read(path)[:2500]:
+                offenders.append(os.path.basename(path))
+        self.assertEqual(offenders, [])
 
     def test_majin_holds_the_register(self):
         path = os.path.join(gate.DIR, '01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md')

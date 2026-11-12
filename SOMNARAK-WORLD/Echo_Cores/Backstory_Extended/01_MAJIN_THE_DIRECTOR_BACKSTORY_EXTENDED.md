@@ -2,13 +2,11 @@
 
 > **RECORD CLASS:** Extended personnel history, archival framed mini-story  
 > **HOLDER:** Reverie Directorate, Floor 1 Central Command archive  
-> **COMPILER:** Public Record Office, Year 4,238, working from the Director's own testimony, Seiyon's ledgers, extraction-team debriefs, and the Deep Vault files opened on Day 177  
+> **COMPILER:** Public Record Office, Year 4,238 — from his own dictation, Seiyon's ledgers, extraction-team debriefs, and the Deep Vault files opened on Day 177  
 > **ERA:** The research years through the first unlooped year  
 > **SPINE:** One sentence, heard wrong; the year the meaning of it broke; the same sentence, heard again  
-> **ACCESS:** Open. Released under the disclosure order of Day 177.  
-> **PROVENANCE:** Director's dictation; sealed command register; Floor 6 vault extracts; witness statements  
-> **RELIABILITY:** High for events he witnessed. His interpretation is marked as his. Where sources conflict the conflict is kept.  
-> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); a **body** — a faction, school, order or council — takes a capital article (The Endurers, The Council of Sighs); an **office** is plain and lower case after *the* (the Director). A mark that only ever falls at the start of a sentence is not a mark, so each name is coined mid-line. Names in this file are not decoration and are not noise.
+> **ACCESS:** Released under the disclosure order of Day 177  
+> **RELIABILITY:** High for what he witnessed. His reading is marked as his; where sources conflict, the conflict is kept.
 
 ---
 
@@ -28,7 +26,9 @@ It had been repaired four times by a man who no longer worked in the building, a
 
 > **[Yeon-seo]** "The lamp is a lamp. It has moods."
 
-They had been in that room for six years by then. *Han* — the substance the whole city sat on and had never once agreed about — came up through the floor in thin amber threads, slow enough that a patient person could watch one thread climb the inside of a glass tube over the course of an afternoon. Everyone in the building agreed this was remarkable. Nobody could agree what it was, and the city had already spent a war on the question. Six schools argued it through the Occlusihan and the war settled nothing. Two of them survived as schools: The Endurers, who held that Han was grief with nowhere to go and that a city should learn to live inside it; and The Converters, who held that grief could be made useful if it were changed. Both schools had been inherited, and neither was believed: the body that did the inheriting was The Council of Sighs, which called the thing a resource, and taxed it.
+They had been in that room for six years by then. *Han* — the substance the whole city sat on and had never once agreed about — came up through the floor in thin amber threads, slow enough that a patient person could watch one thread climb the inside of a glass tube over the course of an afternoon. Everyone in the building agreed this was remarkable. Nobody could agree what it was, and the city had already spent a war on the question: six factions had argued it through the Occlusihan, and two of them survived as schools of thought — The Endurers, who held that grief had nowhere to go and that a city should learn to live inside it; The Converters, who held that grief could be made useful if it were changed; and The Council of Sighs, which inherited both, believed neither, and called the thing a resource and taxed it.
+
+By method he was a Converter, and would have denied it. By temperament she was an Endurer, and would have been insulted to be told so.
 
 Majin called it a language. That was the first mistake, and he made it with the enthusiasm of a man who has found work worth a whole life.
 
@@ -60,11 +60,9 @@ He has never found the thing.
 
 There is no record of the last ordinary day.
 
-That is the first thing to say about it, because every other hour in this file is sourced and this one is not. No duty log survives from that shift. No instrument record, no witness statement, no entry in any ledger. What follows is his, given under the disclosure order, and he has given it in almost the same words every time it has been asked for — which, in a man who revises everything, is its own kind of document.
+No duty log survives from that shift. No instrument record, no witness statement, no entry in any ledger. What follows is his, given under the disclosure order, and he has given it in almost the same words every time it has been asked for — which, in a man who revises everything, is its own kind of document.
 
-They argued about the lamp. They had been arguing about the lamp for six years.
-
-The lamp sat over the bench and ran too hot, and a man who no longer worked in the building had repaired it four times, and each repair had made it brighter and less even, so the left side of every sample read warm and the right side read cold. Majin subtracted the difference. Yeon-seo would not, because she did not believe a number that had been corrected by hand, and she read every plate twice instead — once against the warm side, once against the cold — and averaged the two in her head, and put a small tick beside the average so that later she would know it had been averaged.
+They argued about the lamp, which by then was the argument they had instead of a holiday.
 
 That afternoon she did something she had never done. She went out at the midday break and came back with a replacement shade she had bought at the market with her own money, and she fitted it while he was reading, standing on the stool in her coat, and the light came up even.
 
@@ -86,7 +84,7 @@ He was tired, the light was new, and the sentence arrived in the register of eve
 
 What he did not do, then or in the nine days after, was add anything up.
 
-She had asked four times, in writing, for the seals to be tested at load. She had been refused four times. The refusals were in the bench drawer and she had never once asked him to overrule the Council and get them granted, which — for a woman who argued about a lamp for six years — was the only thing in the file she ever let go.
+She had asked four times, in writing, for the seals to be tested at load. She had been refused four times. The refusals were in the bench drawer and she had never once asked him to overrule the Council and get them granted, which — for a woman who argued about a lamp for six years — was the only thing she ever let go.
 
 She had spent her last ordinary afternoon making his readings accurate.
 
@@ -126,9 +124,9 @@ He looked at the window for a while. Outside, on the far side of the square, the
 
 > **[Majin]** "Then write that the floor warmed first, and leave the date until I have found one."
 
-She wrote it down. It is the first line of the file, and every arrangement in it — the years put in order, the scenes separated, the appendix at the back — is hers, made afterwards, because the man in the chair did not tell it in order and could not be persuaded to.
+She wrote it down, and it is the first line of the file, because she had nothing to put above it and would not invent a heading.
 
-He told it in the order it hurt.
+By the fourth session she had stopped expecting the order to hold. She would ask about the station and he would answer about a doorway; she would ask about the doorway and he would answer about a coat with one sleeve empty. She began keeping a second sheet for the things he said out of turn. The second sheet is longer than the first.
 
 ### The Warm Floor
 
@@ -138,7 +136,7 @@ The floor warmed first.
 
 It was the Consolihan. The lamps were down in the square and the thousand names were being read to a crowd with its hoods up — the names of the people *the Cheongula* took, which the city calls a disaster and the record calls a neglect: a thousand citizens in a district the Council had decided was not worth the cost of moving.
 
-The building was working through the rite because the readings did not take an evening off. He remembers that and hates it: the last ordinary night of his life was the one night the whole city was already grieving, and nobody had to explain to him afterwards what the sound was. He had heard it every year since he was a child. He had never heard it arrive from underneath a floor.
+The building was working through the rite because the work did not stop for it. He remembers that and hates it: the last ordinary night of his life was the one night the whole city was already grieving, and nobody had to explain to him afterwards what the sound was. He had heard it every year since he was a child. He had never heard it arrive from underneath a floor.
 
 That is the detail he returns to. Not the alarm, not the screaming, not the Council's order arriving on a channel nobody had thought to test. The floor warmed, the way a room warms when the sun has moved onto it, and everyone in the building stopped what they were doing because the building had never been warm before.
 
@@ -178,7 +176,7 @@ So when the floor warmed, she did not have to work out what it was.
 
 > **[Yeon-seo]** "On the schedule. The one I said would happen."
 
-She had the drawer open before he had crossed the room. She read her own line and said a thing he did not understand, and never afterwards asked anyone to explain, because by the time he wanted to, the only person who could have told him was in a room he had ordered built.
+She had the drawer open before he had crossed the room. She read her own line and said a thing he did not understand. He never afterwards asked anyone to explain it, because by the time he wanted to, the only person who could have told him was in a room he had ordered built.
 
 > **[Yeon-seo]** "It is not a leak, Majin. A leak has an outside."
 
@@ -210,7 +208,7 @@ The seal took seventeen minutes to close. The alarm log is exact about that and 
 
 She was inside for sixteen of them.
 
-He was at the outer hatch when the core vented. What came out of it was not fire and not smoke; the crews that cleaned the room afterwards described a grey that did not move in any direction, and two of them were retired and one of them did not speak again. He was three metres from it. He is standing in this record.
+He was at the outer hatch when the core vented. What came out of it was not fire and not smoke; the crews that cleaned the room afterwards described a grey that did not move in any direction, and two of them were retired and one of them did not speak again. He was three metres from it, and he is in this record.
 
 The distance between him and it was the width of a woman with both hands on a ring, holding it shut.
 
@@ -226,9 +224,9 @@ He gave the order to build a chamber around it instead: at the roots of the Alph
 
 It is also the first order he ever gave that has not been countermanded.
 
-What is in this section comes from three places and it is worth saying which is which.
+Three sources, and it is worth saying which is which.
 
-The times are the alarm log's, and the log is exact about them. The grey is not his: it is the cleaning crew's, taken by a medic who went down the corridor afterward with a notebook nobody had asked him to bring, and it is in this file because the disclosure order opened the vault that man's report had been sitting in for four thousand years.
+The times are the alarm log's, and the log is exact about them. The grey is not his: it is the cleaning crew's, taken by a medic who went down the corridor afterward with a notebook nobody had asked him to bring, and it is in this file because the disclosure order opened a vault that man's report had been sitting in since before the Directorate had a name to file it under.
 
 The rest is his testimony, and he has never let anyone check it against the vault copy of his own statement, which is the only place in this file where he has refused a comparison. He says what he saw. He does not say what the room was doing while he held the wheel, because he kept his eyes on the far door and he has never described it any other way.
 
@@ -248,7 +246,7 @@ He has been asked, since the disclosure, why he did not hear it as comfort.
 
 The honest answer is that he was a researcher standing in a room that had just taken everything, and a researcher does not receive comfort. A researcher receives a finding.
 
-He wrote it down that night, in a report, as *do not let it have the last word.* He has never corrected it. The substitution is his and it is not a slip: he was a man whose whole trade was the sentence that comes after the evidence, so *win* arrived in his hand as *last word*, because in his world winning a thing and writing the final line about it were the same act. That is the only sentence of hers he has ever let himself repeat.
+He wrote it down that night, in a report, as *do not let it have the last word.* He has never corrected it. The substitution is his and it is not a slip: he was a man whose whole trade was the sentence that comes after the evidence, so *win* arrived in his hand as *last word*, because in his world winning a thing and writing the final line about it were the same act. It is the only sentence of hers he has ever altered, and he has never corrected the alteration.
 
 *Don't let it win.* Put that in a report and it becomes a commission. Something must be written after. Something must be built. Something must be finished that she had started.
 
@@ -268,7 +266,7 @@ He never put it in a report that he had done it for her. He does not write her n
 
 #### The Filing
 
-The civil register of Zone B runs to nine boxes. It is a Council form, designed by a committee to survive being copied by hand, and in six years he had filled in the fourth box for other people's staff — the one that asks what the deceased was doing when it happened, because in this district that is usually the useful part.
+The civil register of Zone B runs to nine boxes. It is a Council form, designed by a committee to survive being copied by hand, and in six years he had filled in the third box for other people's staff — the one that asks what the deceased was doing when it happened, because in this district that is usually the useful part.
 
 Three days after he stopped asking for the cut, he sat down and filled it in for her.
 
@@ -335,9 +333,9 @@ He took the copy, and left, and did not correct it.
 
 > **R.D. INCIDENT REGISTER — ZONE B, FIRST ENTRY**  
 > *Class: aggregate sorrow manifestation. Grade: unclassified at time of filing.*  
-> *Field designation, assigned by the containment office and used by everyone afterward: **the Sovereign**.*
+> *Field name: assigned by the containment office nine weeks later.*
 
-The entity formed in Zone B nine weeks after the floor warmed.
+The entity formed in Zone B nine weeks after the floor warmed, and the containment office gave it a name for the register and for the men who had to walk toward it: *the Sovereign*. It was not a title. It was a label on a folder.
 
 It did not look like a monster. That was the first thing the containment teams reported and the last thing anyone believed: it looked like a district remembering itself. Streets where the paving had begun to breathe. A market square that had acquired a floor of standing water reflecting a sky that was not the sky above it. Windows showing rooms the buildings did not contain.
 
@@ -1188,7 +1186,7 @@ He was quiet long enough that she began to be afraid she had done something that
 
 She wrote it down and spelled it correctly. He watched her write it, and then he took the pen out of her hand, which surprised them both, and wrote the date at the top of the first page himself: the year the floor warmed, and the month, and the day. He wrote it in the space above her line, not instead of it, so that what she had written stayed the first thing on the page and the date sat over it the way a date sits over a grave.
 
-He did not write a year number. He wrote the event, because the event was the only calendar he had ever been able to keep, and every date in this file is relative to it for that reason.
+He did not write a year number. He wrote the event, because the event was the only calendar he had ever been able to keep.
 
 > **[Majin]** "There. Now question one is answered."
 
@@ -1219,8 +1217,6 @@ He read the page twice.
 Then he set it down flat on the desk, squared to the edge, which is what he does instead of answering.
 
 > **[Marjuk]** "Director. The Absolvohan reserves stand at 49.88 tons. We are fifteen days away from Day 160. Is the weapon ready?"
-
-*The Absolvohan* had been the name of the barrel. By the fourteenth year it was the name of the barrel, the account that fed it, and the day it was due, and nobody in the room found that strange any more.
 
 > **[Majin]** "The weapon was never a weapon, Marjuk. It is an open hand. And on Day 160... we open our fingers."
 
@@ -1304,7 +1300,7 @@ She wrote it. He gave the sheet back, and she saw that his hand had left a mark 
 
 The order was given standing up, in the manifold room, with the day's reports still in his hand and the shift change going on two floors above him. He had been awake for thirty-one hours. He had come down at the end of the night because there was nothing left to do with the idea and he wanted to look at the thing it applied to.
 
-There is no recording of it. What survives is Seiyon's transcript of the channel, which is why the exchange reads like a requisition form: she logged what was said, in order, with the speakers named, and did not log the thirty-one hours or the standing or the reports still in his hand. The file has to take the room from somewhere else.
+There is no recording of it. What survives is Seiyon's transcript of the channel: the words, in order, with the speakers named, and no note of the thirty-one hours, or the standing, or the reports still in his hand.
 
 > **[Majin]** "Seiyon. The Absolvohan's primary delivery manifold. Can it be modified?"
 
@@ -1326,7 +1322,7 @@ He did not answer at once. The word had come from her, which meant it had not co
 
 > **[Majin]** **"Begin the modifications. Turn the cannon into a fountain."**
 
-She noted it. It is the only entry in the command register for that day that contains the word *fountain*, and it is written in her log, not in his hand — which is the closest the record ever comes to admitting that the largest decision of his directorship was made in a room with no minutes, by a man who had been awake for thirty-one hours, on the strength of a word the machine had used by accident.
+She noted it. It is the only entry in the command register for that day that contains the word *fountain*, and it is written in her log, not in his hand.
 
 ---
 

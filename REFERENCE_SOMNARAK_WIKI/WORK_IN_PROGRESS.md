@@ -1,5 +1,63 @@
 # Work In Progress
 
+## Batch 223 — the key belongs in the rulebook (2026-10-25)
+
+### 1. What you asked
+
+*"DO A CLEAN UP THERE IS AN OVER EXPLANATION IN THE TOP OF THE FILE"* — the `REGISTER:` paragraph —
+and *"YOU START DOING AI THING IN THE FILE LIKE EXPLAINING WHAT WRONG AND WHY IT WRONG ... INSTEAD IN
+THE CHANGELOG SOMEWHERE LIKE YOU TRYING COVER UP YOUR MISTAKE BY DOING OVER EXPLANATION."*
+
+### 2. Both are the same fault
+
+A story that explains its own typography, or explains why a passage is the way it is, is doing the
+wiki's job inside the fiction. The reader is being handed the author's notes.
+
+- **The REGISTER legend is deleted from all nine Extended files.** It was a style manual in the
+  front matter of a narrative. The key now lives in `R-61` and `RULES/README.md` only.
+- **Gate 55 is inverted.** It used to *require* the legend in every file (`carries no REGISTER line,
+  so its marks are unexplained`). It now **fails any file that carries one**. The rule moved; the
+  gate moved with it.
+- **The header is seven fields, not nine.** `PROVENANCE` and `REGISTER` are gone; the remaining seven
+  are the ones that describe the document rather than the writing.
+- **Five self-explanations removed from the prose.** The worst were: *"which is why the exchange reads
+  like a requisition form … The file has to take the room from somewhere else"*; *"the closest the
+  record ever comes to admitting"*; *"every arrangement in it — the years put in order, the scenes
+  separated — is hers"*; *"that is the first thing to say about it, because every other hour in this
+  file is sourced"*; *"and every date in this file is relative to it for that reason."* Each one
+  explained the mechanism instead of trusting the scene.
+
+### 3. The re-read, chapter by chapter
+
+Read from the top, as asked, prologue first, then each chapter in order. Faults found and fixed:
+
+- **The lamp was taught twice** — in the prologue and again, at length, in *The Doorway*, 40 lines
+  later. The Doorway now says only *"They argued about the lamp, which by then was the argument they
+  had instead of a holiday."*
+- **A pronoun flipped subject mid-sentence** — *"she read her own line and said a thing he did not
+  understand, and never afterwards asked anyone to explain"* — she is the one who never asked, and he
+  is the one who wanted to. Split into two sentences.
+- **A man's coat on a woman.** The Room's clerk said he would *"answer about a man's coat half on"* —
+  it is her coat, and there is no man in it.
+- **Box four is not box three.** *The Filing* opened by saying he had filled in box four for other
+  people's staff, *"the one that asks what the deceased was doing"* — but box four is **cause**;
+  box three is **work in progress**. Corrected, which also makes the later *"I know exactly what I
+  wrote in a box"* land on the right box.
+- **The name of the Absolvohan was explained twice**, fifteen lines apart, in *Day 145*. The second
+  telling is gone.
+- **A medic's notebook four thousand years old.** *Seventeen Minutes* said the crew's report had been
+  *"sitting in [the vault] for four thousand years"*. It is now *"since before the Directorate had a
+  name to file it under."* (The Alpha Tree's own four thousand years is correct and stays.)
+- **The Sovereign wore bold.** It is a declared **named thing**, so its mark is italic at coining;
+  bold in this file means shouting. The register also called it a *"field designation"*, which is the
+  full-caps class — now *"field name"*, coined in prose: *"a name for the register and for the men who
+  had to walk toward it."*
+
+### 4. Auditors
+
+All six auditors and `seam_lint` **PASS**; `test_title_register` **18 tests OK** (the inverted legend test replaces
+the "every file explains its marks" test).
+
 ## Batch 222 — the order it hurt (2026-10-25)
 
 ### 1. What you asked

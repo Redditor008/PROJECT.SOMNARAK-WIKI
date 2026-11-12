@@ -8,7 +8,6 @@
 > **ACCESS:** Open. The childhood section is not recalled — it is reconstructed from the Directorate's assessment and stated as such at the point where it matters.  \
 > **PROVENANCE:** Floor 4 ledgers; Chamber 15 research file; Absolvohan Parts 2–9 anchor scenes; one witness statement  \
 > **RELIABILITY:** Exact for what he measured. He cannot verify the one fact the record most needs, and says so in the margin.  
-> **REGISTER:** a **designation** is set in full caps (THE ORIGINAL); a **named thing** is italic at its coining and roman thereafter (*Reaper Hungered*); a **body** — a faction, school, order or council — takes a capital article (The Endurers, The Council of Sighs); an **office** is plain and lower case after *the* (the Director). A mark that only ever falls at the start of a sentence is not a mark, so each name is coined mid-line. Names in this file are not decoration and are not noise.
 
 ---
 
