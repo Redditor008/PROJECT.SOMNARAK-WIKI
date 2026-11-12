@@ -35,10 +35,12 @@ and the worst was in the page that certifies the file.**
   months one through eleven of Year 4,238.
 - **The doorway stamp ran the two events backwards** — *"then 9 days after it"*, where the spine has said
   **Day −9** since 224. The file contradicted itself and each half was plausible.
-- **A fourth-return conversation was printed after the seventeenth return.** *The Arithmetic of the Man*
-  answered *"How many times?"* with *"This is the fourth return"* on a page that had already shown the
-  seventeenth. The block is moved to the fourth return; the offset now reads *the fourth return year, then
-  the ninth and the seventeenth*.
+- **The return years ran backwards.** *The Arithmetic of the Man* answered *"How many times?"* with *"This
+  is the fourth return"* on a page that had already shown the seventeenth; and the two scenes after it —
+  the ledger discovery and the signed order, on *a morning that had already happened four times* — sat at
+  the fourth return as well. The run is now **The Arithmetic → The Decision → The Arithmetic of the Man**:
+  loophole, decision, then the proofs at the ninth and the seventeenth. The dialogue moved into *The
+  Decision*, where it answers the question that scene already asks.
 - **The spine's largest row swallowed the one beneath it** — *"Cycles 1 through 1,778"* ran past the next
   row's *Cycle 1,778, Day 0*. Cut to *the original pass, then Cycles 1 through 1,777*.
 - **Three division stamps described spans their parts do not have.** *Before the Hand Opened* claimed to

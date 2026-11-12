@@ -848,58 +848,6 @@ Which meant, and he wrote this on a card and kept it in the desk: the whole of w
 
 ---
 
-#### The Arithmetic of the Man
-
-> **STAMP — Cycle 1, the fourth return year, then the ninth and the seventeenth · 05:00 · the operations floor**
-
-The field does not distinguish. He had written that into the directive himself, in the line he signed without reading twice, and it took him another eleven days to understand that it applied to him.
-
-He was 126 years old when the field closed. He would be 126 years old at the end of the thousandth return and the same at the end of the seventeen hundred and seventy-eighth, and the number would not be a mistake in the record.
-
-> **[Majin]** "How many times?"
-
-> **[Seiyon]** "This is the fourth return. The field is stable. The fault is not moving. The city is not falling."
-
-> **[Majin]** "The city is repeating."
-
-> **[Seiyon]** "Yes."
-
-> **[Majin]** "Can we stop it?"
-
-> **[Seiyon]** "Not without releasing the field. And releasing the field releases the fault."
-
-He walked the length of the operations floor and back. It is thirty-one metres and he has walked it, by his own count, more times than any other distance in the building. On the way back he stopped at the window that looks down into the fault monitoring gallery and watched eleven men and women reading a screen that had told them the same thing four times.
-
-> **[Majin]** "Then we keep the field, and we tell no one yet."
-
-> **[Seiyon]** "That is a decision with a date on it, Director."
-
-> **[Majin]** "Everything is."
-
-The first proof was an accident. On the ninth return a lift gate came down on his left hand and took the top of one finger. He had it dressed, and he did the year's work with a dressing on it, and on the first morning of the next return he woke with a whole hand and the sheet unstained.
-
-The second proof, on the seventeenth return, was not an accident. He took a knife from the galley, sat on the edge of the operations floor where the light was good, and cut the same finger open to the bone. Then he wrote the date on the wall beside him and waited three hundred and forty-eight days.
-
-On the first morning of the next return the wall read Day 1, and his finger was whole, and the blood was not on the floor. He washed the knife and put it back.
-
-> **[Seiyon]** "Director. You have been on the floor since 05:00."
-
-> **[Majin]** "I was testing a reading."
-
-> **[Seiyon]** "The reading was of your own body."
-
-> **[Majin]** "Yes."
-
-> **[Seiyon]** "And the result?"
-
-> **[Majin]** "That I am in the field."
-
-He was not relieved, and he was careful, afterwards, about how often he stood near the heavy doors.
-
-The record has an age for him, and the age is 126, and the age has been 126 since Year 4,232. The years he has actually lived forward are inside that number and are not larger than it. What he has is not longevity. It is 1,778 copies of one year, and a body the field keeps handing back, and a memory the field does not touch — which is the whole of the arrangement, and the reason nobody in the building envies him.
-
----
-
 #### The Arithmetic
 
 > **STAMP — the return years, counting · 05:00 · the operations floor**
@@ -941,6 +889,26 @@ He looked at the number on the screen for a while.
 He has been asked, since the disclosure, why he did not stop at the first return.
 
 The honest answer is that he tried. The first three cycles were spent looking for an exit: reducing the field, damping the generator, testing whether the loop could be opened without dropping the fault. None of it worked. On the fourth attempt the eastern foundation moved three centimeters and the evacuation order went out to a district of forty thousand people, and he withdrew the field and watched the clock reset and the district come back.
+
+> **[Majin]** "How many times?"
+
+> **[Seiyon]** "This is the fourth return. The field is stable. The fault is not moving. The city is not falling."
+
+> **[Majin]** "The city is repeating."
+
+> **[Seiyon]** "Yes."
+
+> **[Majin]** "Can we stop it?"
+
+> **[Seiyon]** "Not without releasing the field. And releasing the field releases the fault."
+
+He walked the length of the operations floor and back. It is thirty-one metres and he has walked it, by his own count, more times than any other distance in the building. On the way back he stopped at the window that looks down into the fault monitoring gallery and watched eleven men and women reading a screen that had told them the same thing four times.
+
+> **[Majin]** "Then we keep the field, and we tell no one yet."
+
+> **[Seiyon]** "That is a decision with a date on it, Director."
+
+> **[Majin]** "Everything is."
 
 After that he stopped looking for the exit and started looking at the ledger.
 
@@ -990,6 +958,38 @@ A Fracture is what the city calls it when a person's own sorrow goes past what a
 > **[Seiyon]** "I keep everything."
 
 > **[Majin]** "I know. I am asking you to keep it as names."
+
+---
+
+#### The Arithmetic of the Man
+
+> **STAMP — the ninth and seventeenth return years · 05:00 · the operations floor**
+
+The field does not distinguish. He had written that into the directive himself, in the line he signed without reading twice, and it took him another eleven days to understand that it applied to him.
+
+He was 126 years old when the field closed. He would be 126 years old at the end of the thousandth return and the same at the end of the seventeen hundred and seventy-eighth, and the number would not be a mistake in the record.
+
+The first proof was an accident. On the ninth return a lift gate came down on his left hand and took the top of one finger. He had it dressed, and he did the year's work with a dressing on it, and on the first morning of the next return he woke with a whole hand and the sheet unstained.
+
+The second proof, on the seventeenth return, was not an accident. He took a knife from the galley, sat on the edge of the operations floor where the light was good, and cut the same finger open to the bone. Then he wrote the date on the wall beside him and waited three hundred and forty-eight days.
+
+On the first morning of the next return the wall read Day 1, and his finger was whole, and the blood was not on the floor. He washed the knife and put it back.
+
+> **[Seiyon]** "Director. You have been on the floor since 05:00."
+
+> **[Majin]** "I was testing a reading."
+
+> **[Seiyon]** "The reading was of your own body."
+
+> **[Majin]** "Yes."
+
+> **[Seiyon]** "And the result?"
+
+> **[Majin]** "That I am in the field."
+
+He was not relieved, and he was careful, afterwards, about how often he stood near the heavy doors.
+
+The record has an age for him, and the age is 126, and the age has been 126 since Year 4,232. The years he has actually lived forward are inside that number and are not larger than it. What he has is not longevity. It is 1,778 copies of one year, and a body the field keeps handing back, and a memory the field does not touch — which is the whole of the arrangement, and the reason nobody in the building envies him.
 
 ---
 
@@ -1948,7 +1948,7 @@ Then he let her go.
 | The Consolihan, a year after the loss | The Choice at the Consolihan; The Answer; The Instrument; What He Understood in the Square | The Tree indicates, the Council asks, and he signs the first document in the founding ledger. |
 | The first year of the Directorate | The Eight | Nine offices, seven of the charters in his hand, and an arrangement that is efficient and is not a brotherhood. |
 | Year 4,226 | The Face in the Station; The First Morning; The Second Morning; What He Did Not Say | The station is built without a mirror and comes online at 06:00. The silence becomes policy. |
-| Year 4,232 — the original pass, then Cycles 1 through 1,777 | The Field; The Directive; The First Repeat; The Arithmetic of the Man; The Arithmetic; The Decision; The Lance | The field closes over the district. The reserve grows at 0.02 tons per iteration. The body is handed back and the memory is not. |
+| Year 4,232 — the original pass, then Cycles 1 through 1,777 | The Field; The Directive; The First Repeat; The Arithmetic; The Decision; The Arithmetic of the Man; The Lance | The field closes over the district. The reserve grows at 0.02 tons per iteration. The body is handed back and the memory is not. |
 | Cycle 1,778, **Day 0** | Day 0 — And You | He asks how she is, by name, for the first time in forty-three cycles. |
 | Day 1 | The Word in the Wall | The Maw speaks six syllables the array files as his name, and none of his own names fit them. |
 | Day 29 | The Forgiveness; The Catwalk | The Mother forgives him. He goes down to Floor 2 and says the wound to a subordinate as though it were a question about filing. |

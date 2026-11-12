@@ -170,14 +170,21 @@ has said **Day −9** since 224; the stamp attached to *What He Took From It* ra
 The stamp now matches the spine. This is the defect class worth remembering: the file contradicted
 itself, and both halves were individually plausible.
 
-**11. The fourth-return conversation was printed after the seventeenth return.** *The Arithmetic of the
-Man* runs three proofs in order — the accident at the ninth, the deliberate cut at the seventeenth — and
-between them sat a dialogue that begins *"How many times?"* and answers *"This is the fourth return."*
-*The Decision* fits the same conversation chronologically, but here it was not merely out of order: it
-answered a question about a return that had not happened yet, on a page that had already shown the
-seventeenth. The block (nine dialogue lines and the walk between them) is moved to immediately after the age paragraph, before the ninth
-return, its natural place; the stamp offset now reads *the fourth return year, then the ninth and the
-seventeenth*.
+**11. The return years ran backwards in the middle of the file, and the first fix only moved the fault.**
+*The Arithmetic of the Man* opens with a question — *"How many times?"* — answered *"This is the fourth
+return"*, then goes on to the ninth and the seventeenth. The dialogue sat at the **end** of the scene, so
+the reader met the fourth return after the seventeenth. Moving it to the head made the scene read 4 → 9 →
+17 and left the two scenes that followed — *The Arithmetic* (the ledger discovery) and *The Decision* (he
+signed it on a morning that had already happened four times) — still at the fourth return. The backstep
+had not been removed; it had been pushed one scene downstream.
+
+The final order is **The Arithmetic → The Decision → The Arithmetic of the Man**, which is the order the
+facts have: the loophole found, the decision taken and signed on the fourth return, then the proofs at the
+ninth and the seventeenth that the body is handed back. The fourth-return dialogue now hangs inside *The
+Decision*, where the scene already opened by asking why he did not stop at the first return — so the
+question is asked and answered on the same page, and *"After that he stopped looking for the exit and
+started looking at the ledger"* closes the exchange instead of interrupting it. The stamp went back to
+*the ninth and seventeenth return years*, and the spine row now lists the scenes in reading order.
 
 **12. The spine's biggest row swallowed the row beneath it.** *"Year 4,232 — Cycles 1 through 1,778"* ran
 to the end of the last cycle, and the next row began *Cycle 1,778, Day 0*. One row began before the other
@@ -14422,6 +14429,9 @@ Not repaired, because history is not rewritten (`R-17`).
 - **Gate 56 requires a STAMP on every `##` division, and the structure standard's "scene unit" does not.**
   Removing the four division stamps to satisfy a literal `R-62` fails `check_scene_stamps` at once. The gate is
   the operative reading; a "standard fix" that breaks the gate is a misreading of the standard.
+- **A fix that satisfies the scene it was aimed at can push the defect into the next one.** Moving a
+  dialogue from the end of a scene to its head made that scene monotonic and left the two scenes after it
+  at an earlier date. Read the run of scenes, not the scene.
 - **A restore puts `HEAD` at an old commit while the worktree holds the tip.** `git status`
   then shows the whole history as "modified / deleted / untracked" (1,655 / 182 / 538 in batch
   150). Check `git ls-remote origin <branch>` against `git rev-parse HEAD` before concluding
