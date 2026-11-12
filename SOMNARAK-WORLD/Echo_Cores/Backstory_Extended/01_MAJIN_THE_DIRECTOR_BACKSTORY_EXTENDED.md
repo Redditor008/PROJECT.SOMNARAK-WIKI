@@ -106,7 +106,7 @@ He walked her to the lift. The lift came. She got in, and the doors closed on a 
 
 ---
 
-> **STAMP — the research years through Year 4,232 and the return years · 23:24 · Floor 3, the east core, the square**
+> **STAMP — the research years through Day 53 of Cycle 1,778, and the Room frame · 23:24 · Floor 3, the east core, the square**
 
 ### The Room
 
@@ -1751,7 +1751,7 @@ He did not answer that. He stood at the window with his hands behind his back an
 
 #### The Public Archive
 
-> **STAMP — Cycle 1,778, the morning after Day 365 · 09:00 · the public archive**
+> **STAMP — the first morning after Day 365 · 09:00 · the public archive**
 
 The disclosure took the second half of the year. The Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, and *the Cycle* — the plainest of the words and the one the city could not make fit in its mouth: that the same year had already happened one thousand seven hundred and seventy-eight times, and that every person reading the volume had died in it before. Anyone who has read the volumes knows what is in them; what the volumes do not hold is the first week.
 
@@ -1956,7 +1956,7 @@ Then he let her go.
 | Day 145 | The Hidden Entry; Floor 6, After | The Founder's page says *shared*, and the word the record has been built on — *ended* — stops working. |
 | Day 149–150 | The Cannon and the Fountain; The Manifold Room; The Break | He orders the barrel cut and watches it. Alone at 04:00 the next morning, the word *shared* arrives. |
 | Day 160 | The Fountain | The wheel turns at midday, the gauge falls to zero, and fifteen percent transforms while eighty-five persists. |
-| Day 365 | The Ledger of Names; The Public Archive | The record opens as names rather than tonnage, and the city reads over his shoulder. |
+| Day 365, and the first morning after it | The Ledger of Names; The Public Archive | The record opens as names rather than tonnage, and the city reads over his shoulder. |
 | Year 4,238 | Willingness | He reads a report once, signs it, and puts it down. |
 | Year 4,238 and after — eleven monthly sessions | The Room; The Room — The Date; The Room — The Word; The Room — The Names; The Room — The Signature | He tells the whole of it to a clerk, out of order, and signs the declaration after reading it once. |
 

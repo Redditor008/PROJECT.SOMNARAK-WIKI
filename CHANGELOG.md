@@ -2,6 +2,61 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — integrity, timeline and standard
+
+**A fourth pass, against three written standards rather than a taste: is the file true about its own
+ledger, does its timeline move forward, and does it satisfy the structure standard. Fourteen defects,
+and the worst was in the page that certifies the file.**
+
+- **Five ledger rows used a status the standard does not have.** §X.4 permits four — Canon-anchored,
+  Connective scene, HOLD, Promotion Check. Rows 3, 18, 20, 24 and 28 said **ON THE PAGE**, a phrase from
+  my working vocabulary that never entered the standard. All five are Connective scene.
+- **The validation record said "the three section headings".** There are **five** `##` headings. The
+  sentence was written when there were three and never revised.
+- **The withheld sentence was given to the wrong person, and the wrong medium.** *Shared is not something
+  you send* is never written and never said — the file says so twice. The micro-ink on Day 145 is the
+  Founder's *the sorrow was meant to be shared*, lifted by raw current. The compliance row now separates
+  the two silences.
+- **The counter-witness row invented its evidence** — *"Insu … he read it twice, then said 'noted'"*. The
+  body gives the reading and the word to the **Director**; Insu is the one who refuses *brave*, and he is
+  not in the Day 365 scene the row cited.
+- **The permanent symptom cited three scenes that do not carry it** — *The Lance*, *Day 29*, *Day 365*.
+  It lives in *The Instrument*, *The Annex*, *Day 145* and *Willingness*, which now cite it.
+- **The HOLD row misdescribed its own body and left standing a difference the dossier explains.** It said
+  the file uses only the 0.02-ton rate; the body uses 49.88 at Day 145 and 49.8 at Day 160. And 36 tons is
+  the dossier's **archived estimate** against 47.300 held, with the dossier's own note — *an Abyssal surge
+  could feed the concealed Absolvohan reserve* — supplying the surplus. Reconciled by cause, quoted in the
+  dossier's words, not averaged.
+- **"The fourteen tons" is thirteen point eight eight.** 49.88 − 36. Now *nearly fourteen*.
+- **The ledger dated a Year 4,238 scene by the warm floor.** Row 18 said *"eleventh month, year of the warm
+  floor"*; the scene's stamp says **Year 4,238, second month**, and the spine already agreed with the
+  stamp. All 27 other date cells were checked; this was the only one wrong.
+- **The provenance table opened the eleven sessions in the warm-floor year.** They run on the eleventh of
+  months one through eleven of Year 4,238.
+- **The doorway stamp ran the two events backwards** — *"then 9 days after it"*, where the spine has said
+  **Day −9** since 224. The file contradicted itself and each half was plausible.
+- **A fourth-return conversation was printed after the seventeenth return.** *The Arithmetic of the Man*
+  answered *"How many times?"* with *"This is the fourth return"* on a page that had already shown the
+  seventeenth. The block is moved to the fourth return; the offset now reads *the fourth return year, then
+  the ninth and the seventeenth*.
+- **The spine's largest row swallowed the one beneath it** — *"Cycles 1 through 1,778"* ran past the next
+  row's *Cycle 1,778, Day 0*. Cut to *the original pass, then Cycles 1 through 1,777*.
+- **Three division stamps described spans their parts do not have.** *Before the Hand Opened* claimed to
+  end in the first year after the Solidification and runs to **Day 53 of Cycle 1,778**; *Opening the Hand*
+  said "the fifth month, four days later", true of Day 149 and false of Day 160; *After the Hand Opened*
+  said "the twelfth month" for a part running from Day 365 to Year 4,238. Spans corrected.
+- **The Public Archive was stamped inside the cycle it ends** — *"Cycle 1,778, the morning after Day 365"*.
+  It is the first morning after, and the year numbering is an open HOLD, so the offset asserts no year.
+
+**One misstep, recorded:** removing the four division stamps to satisfy a literal reading of `R-62`
+("a stamp belongs to a scene unit") failed `check_scene_stamps` at once — the gate requires a stamp on
+every division, and the file has carried them since the stamp pass. They were restored the same hour with
+the false spans fixed. A "standard fix" that breaks the gate is a misreading of the standard.
+
+**Verified after the edit:** 56 stamps, 51/51 scenes plus 5 divisions · 28 ledger rows, 13 columns, every
+row ends with a pipe, statuses 13 Canon-anchored / 15 Connective · cast exact at 17 speakers · 0 dead
+citations · §X.3's seven required sections all present · every auditor PASS · gate PASS.
+
 ## Unreleased — the whole
 
 **A third pass, with a different question: is the file true about itself? Every count, ledger row,

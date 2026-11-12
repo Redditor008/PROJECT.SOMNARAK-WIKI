@@ -99,6 +99,137 @@ dating, the *"four thousand years"* recount. SEIYON remains gated on your sign-o
 
 ---
 
+## Batch 230 — integrity, timeline and standard (2026-10-25)
+
+### 1. What you asked
+
+*"NOW DO INTEGRITY CHECK + STRUCTURAL OF STORY AND TIMELINE AND STANDARD CHECK"*
+
+### 2. The lens this time
+
+229 asked whether the file was true about itself. This pass asked three different questions of the same
+body, each against a written standard rather than a taste: **integrity** — is every number, citation and
+ledger cell true of the thing it points at; **timeline** — does the file move forward, and does each
+anchor agree with the file's own spine; **standard** — does it satisfy `00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`
+§IV.6, §X.3, §X.4 and `R-62`.
+
+### 3. What was found
+
+**Fourteen defects, and the gravest was in the compliance table — the page that certifies the file.**
+
+**1. Five ledger rows used a status that does not exist.** §X.4 permits four: Canon-anchored, Connective
+scene, HOLD, Promotion Check. Rows 3, 18, 20, 24 and 28 said **ON THE PAGE**, a phrase from my own
+working vocabulary that never entered the standard. All five are Connective scene — invented staging in
+the frame, adding no canonical fact. The ledger now reads 13 Canon-anchored, 15 Connective, and no third
+thing.
+
+**2. The validation record counted three section headings. There are five.** `##` headings in the body:
+*Prologue Record — The Bench*, *Before the Hand Opened*, *What the Founder Wrote*, *Opening the Hand*,
+*After the Hand Opened*. The claim "the three section headings are thematic, not structural" was written
+when the file had three and never revised. It now says five and names what they are.
+
+**3. The withheld sentence was attributed to the wrong person.** The §IV.1c row said *Shared is not
+something you send* was "written in micro-ink on Day 145". It is not written anywhere; the file says so
+twice. The micro-ink on Day 145 is the Founder's line, *the sorrow was meant to be shared*, lifted by raw
+current and read aloud for the first time in four thousand years. The row now separates the two
+withholdings, because they are the file's two different silences.
+
+**4. The counter-witness row invented its evidence.** It read *"Insu … he read it twice, then said
+'noted'"*, citing *What the Medics Said; Day 365*. The body says the **Director** read the directive
+before signing it and said *noted*; Insu is the one who refuses the word *brave*, and he is not in the Day
+365 scene at all. Corrected to the body, and the Day 365 citation dropped.
+
+**5. The permanent symptom cited three scenes that do not carry it.** *The Lance*, *Day 29* and *Day 365*
+were named; the two-readings symptom is not in them. It is in *The Instrument* (*he read it twice*), *The
+Annex* (*he had read them twice*), *Day 145* (*he read the page twice*) and *Willingness*, where the final
+line releases it. The row now cites the four scenes that earn it.
+
+**6. The HOLD row misdescribed the body it was holding.** It claimed the file "uses the 0.02-ton rate and
+a spoken estimate only". The body uses 49.88 tons at Day 145 and 49.8 released at Day 160, in digits. It
+also left as *Unresolved* a difference the dossier itself explains: 36 tons is the dossier's **archived
+estimate**, the Part files 47.300 held, and the dossier's own note says *an Abyssal surge could feed the
+concealed Absolvohan reserve*. The row is now reconciled **by cause, not by averaging** — the projection
+was low because surges fed the thing, which is the dossier's claim, not mine — and the dossier sentence is
+quoted in its own words.
+
+**7. "The fourteen tons" was thirteen point eight eight.** 49.88 − 36 = 13.88. The sentence now says
+*nearly fourteen*, which is true, rather than a rounded number presented as a measured one.
+
+**8. The ledger dated a Year 4,238 scene by the warm floor.** Row 18, *The Room — The Date*, read *"The
+Room, eleventh month, year of the warm floor"*. The scene's own stamp at 1288 reads **Year 4,238, second
+month**, and the spine row already said 4,238. The ledger cell now agrees with both. The other 27 date
+cells were checked against their stamps; this was the only one wrong.
+
+**9. The provenance table opened the sessions a thousand years early.** It said the eleven sessions began
+"in the year of the warm floor". They run on the eleventh of months one through eleven of Year 4,238 —
+eleven sessions, first of the first month, last on the eleventh of the eleventh — which is exactly the
+arithmetic the stamps give, and it is now what the table says.
+
+**10. The doorway stamp said "then 9 days after it". The doorway is nine days before.** The spine table
+has said **Day −9** since 224; the stamp attached to *What He Took From It* ran the two events backwards.
+The stamp now matches the spine. This is the defect class worth remembering: the file contradicted
+itself, and both halves were individually plausible.
+
+**11. The fourth-return conversation was printed after the seventeenth return.** *The Arithmetic of the
+Man* runs three proofs in order — the accident at the ninth, the deliberate cut at the seventeenth — and
+between them sat a dialogue that begins *"How many times?"* and answers *"This is the fourth return."*
+*The Decision* fits the same conversation chronologically, but here it was not merely out of order: it
+answered a question about a return that had not happened yet, on a page that had already shown the
+seventeenth. The block (nine dialogue lines and the walk between them) is moved to immediately after the age paragraph, before the ninth
+return, its natural place; the stamp offset now reads *the fourth return year, then the ninth and the
+seventeenth*.
+
+**12. The spine's biggest row swallowed the row beneath it.** *"Year 4,232 — Cycles 1 through 1,778"* ran
+to the end of the last cycle, and the next row began *Cycle 1,778, Day 0*. One row began before the other
+had finished. Cut to *"the original pass, then Cycles 1 through 1,777"* — which is also the true account:
+the field was set at 4,232, and Cycle 1,778 is the one that broke.
+
+**13. Three division stamps described spans their parts do not have.** The part *Before the Hand Opened*
+was stamped "the research years through the first year after the Solidification"; it runs to **Day 53 of
+Cycle 1,778**, with the Room frame inside it. *Opening the Hand* said "the fifth month, four days later" —
+true of its first scene, Day 149, and false of Day 160, which is the sixth month. *After the Hand Opened*
+said "the twelfth month" for a part that runs from Day 365 to Year 4,238. All three spans corrected.
+*What the Founder Wrote* was already true and is unchanged.
+
+**14. The Public Archive was still in the cycle it ends.** Its stamp read *"Cycle 1,778, the morning after
+Day 365"*. The morning after the last day of the cycle is not that cycle; the body's own first sentence
+says the disclosure took the second half of the year. The offset is now *the first morning after Day 365*
+— asserting no year number, because the year-numbering is itself an open HOLD — and the spine row reads
+*Day 365, and the first morning after it*.
+
+### 4. Measured and left alone
+
+- **The Room frame does not violate `R-55`.** The frame (Year 4,238) is interleaved with the teller's past
+  (Years 4,226–4,233) at five points. It is declared four separate ways: the *The file itself* row, the
+  clerk's ledger row, the spine's closing row, and the Prologue's own statement that the clerk is writing
+  a voice. `R-55` forbids a story that runs backwards; a frame is the present tense telling it. Recorded as
+  a designed exemption, not a defect.
+- **49.88 is not a corruption of 49.8.** They are two measurements: the reserve on Day 145, and what
+  dispersed on Day 160. The comparison row now says which is which instead of implying a conflict.
+- **§X.3 is complete.** Seven required sections, all present and substantive: Scene ledger, Source ledger,
+  Knowledge boundaries, Connection string, HOLDs, Promotion Check, Validation record. No edit.
+- **Division stamps stay.** They are not in the standard's narrow "scene unit", but gate 56 requires a
+  stamp on every division and the file has carried them since the stamp pass. Removing all four to satisfy a literal
+  reading of `R-62` failed `check_scene_stamps` immediately; they were restored within the hour, with the
+  false spans fixed. **The lesson: the gate is the operative reading of the standard, and a "standard fix"
+  that breaks the gate is a misreading.**
+
+### 5. Auditors
+
+`check_scene_stamps` PASS (56 stamps, every scene and every division) · `check_md_tables` PASS ·
+`check_backstory_reader` PASS · `check_title_register` PASS · `check_backstory_gloss` PASS ·
+`check_echo_backstory` PASS · cast exact (17 speakers) · 28 ledger rows, 13 columns, every row ends with a
+pipe · 0 dead citations · gate PASS · pushed.
+
+### 6. What is still open
+
+Unchanged: the Parts-level chronology slip (a living specialist cannot have lost a sister in the
+Cheongula), the 140-scene stamp debt on 02–09, the Year 4,226 / cycle-year 4,232 station dating, the
+*"four thousand years"* recount. SEIYON remains gated on your sign-off. The month in which the Room
+sessions begin is now stated as the first; the file does not name it, and this file does not invent one.
+
+---
+
 ## Batch 228 — the readable pass (2026-10-25)
 
 ### 1. What you asked
@@ -14288,6 +14419,9 @@ Not repaired, because history is not rewritten (`R-17`).
 
 ## Traps that have cost time
 
+- **Gate 56 requires a STAMP on every `##` division, and the structure standard's "scene unit" does not.**
+  Removing the four division stamps to satisfy a literal `R-62` fails `check_scene_stamps` at once. The gate is
+  the operative reading; a "standard fix" that breaks the gate is a misreading of the standard.
 - **A restore puts `HEAD` at an old commit while the worktree holds the tip.** `git status`
   then shows the whole history as "modified / deleted / untracked" (1,655 / 182 / 538 in batch
   150). Check `git ls-remote origin <branch>` against `git rev-parse HEAD` before concluding
