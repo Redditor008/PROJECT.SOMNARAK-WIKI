@@ -106,7 +106,7 @@ He walked her to the lift. The lift came. She got in, and the doors closed on a 
 
 ---
 
-> **STAMP — the research years through the first year after the Solidification · 23:24 · Floor 3, the east core, the square**
+> **STAMP — the research years through Year 4,232 and the return years · 23:24 · Floor 3, the east core, the square**
 
 ### The Room
 
@@ -254,7 +254,7 @@ The bench was not damaged. The lamp was even — she had replaced the shade — 
 
 #### What He Took From It
 
-> **STAMP — the Solidification at 23:41, then 9 days after it · 23:41 · a doorway and a fire**
+> **STAMP — the Solidification at 23:41, and the doorway 9 days before it · 23:41 · a doorway and a fire**
 
 She said it twice.
 
@@ -850,11 +850,31 @@ Which meant, and he wrote this on a card and kept it in the desk: the whole of w
 
 #### The Arithmetic of the Man
 
-> **STAMP — Cycle 1, the ninth and seventeenth return years · 05:00 · the operations floor**
+> **STAMP — Cycle 1, the fourth return year, then the ninth and the seventeenth · 05:00 · the operations floor**
 
 The field does not distinguish. He had written that into the directive himself, in the line he signed without reading twice, and it took him another eleven days to understand that it applied to him.
 
 He was 126 years old when the field closed. He would be 126 years old at the end of the thousandth return and the same at the end of the seventeen hundred and seventy-eighth, and the number would not be a mistake in the record.
+
+> **[Majin]** "How many times?"
+
+> **[Seiyon]** "This is the fourth return. The field is stable. The fault is not moving. The city is not falling."
+
+> **[Majin]** "The city is repeating."
+
+> **[Seiyon]** "Yes."
+
+> **[Majin]** "Can we stop it?"
+
+> **[Seiyon]** "Not without releasing the field. And releasing the field releases the fault."
+
+He walked the length of the operations floor and back. It is thirty-one metres and he has walked it, by his own count, more times than any other distance in the building. On the way back he stopped at the window that looks down into the fault monitoring gallery and watched eleven men and women reading a screen that had told them the same thing four times.
+
+> **[Majin]** "Then we keep the field, and we tell no one yet."
+
+> **[Seiyon]** "That is a decision with a date on it, Director."
+
+> **[Majin]** "Everything is."
 
 The first proof was an accident. On the ninth return a lift gate came down on his left hand and took the top of one finger. He had it dressed, and he did the year's work with a dressing on it, and on the first morning of the next return he woke with a whole hand and the sheet unstained.
 
@@ -877,26 +897,6 @@ On the first morning of the next return the wall read Day 1, and his finger was 
 He was not relieved, and he was careful, afterwards, about how often he stood near the heavy doors.
 
 The record has an age for him, and the age is 126, and the age has been 126 since Year 4,232. The years he has actually lived forward are inside that number and are not larger than it. What he has is not longevity. It is 1,778 copies of one year, and a body the field keeps handing back, and a memory the field does not touch — which is the whole of the arrangement, and the reason nobody in the building envies him.
-
-> **[Majin]** "How many times?"
-
-> **[Seiyon]** "This is the fourth return. The field is stable. The fault is not moving. The city is not falling."
-
-> **[Majin]** "The city is repeating."
-
-> **[Seiyon]** "Yes."
-
-> **[Majin]** "Can we stop it?"
-
-> **[Seiyon]** "Not without releasing the field. And releasing the field releases the fault."
-
-He walked the length of the operations floor and back. It is thirty-one metres and he has walked it, by his own count, more times than any other distance in the building. On the way back he stopped at the window that looks down into the fault monitoring gallery and watched eleven men and women reading a screen that had told them the same thing four times.
-
-> **[Majin]** "Then we keep the field, and we tell no one yet."
-
-> **[Seiyon]** "That is a decision with a date on it, Director."
-
-> **[Majin]** "Everything is."
 
 ---
 
@@ -1343,7 +1343,7 @@ Then he set it down flat on the desk, squared to the edge, which is what he does
 
 > **[Majin]** "The weapon was never a weapon, Marjuk. It is an open hand. And on Day 160... we open our fingers."
 
-Forty-nine point eight eight. The projection, made in the second century, had been thirty-six, and Seiyon does not make arithmetic errors, and the fourteen tons between the two were not a mistake. The reserve had taken more than the working stock. Abyssal surges fed it — events that put his personnel in danger and paid into the thing he was building out of the danger. He had known for centuries. He had never once written it in a report, because a line like that does not read as a method. It reads as a motive.
+Forty-nine point eight eight. The projection, made in the second century, had been thirty-six, and Seiyon does not make arithmetic errors, and the nearly fourteen tons between the two were not a mistake. The reserve had taken more than the working stock. Abyssal surges fed it — events that put his personnel in danger and paid into the thing he was building out of the danger. He had known for centuries. He had never once written it in a report, because a line like that does not read as a method. It reads as a motive.
 
 ---
 
@@ -1423,7 +1423,7 @@ She wrote it. He gave the sheet back, and she saw that his hand had left a mark 
 
 ---
 
-> **STAMP — Cycle 1,778, the fifth month, four days later · 05:00 · the manifold room**
+> **STAMP — Cycle 1,778, the fifth month into the sixth · 05:00 · the manifold room**
 
 ### Day 149 — The Cannon and the Fountain
 
@@ -1655,7 +1655,7 @@ She did not ask what he meant. She read out four hundred and six names, most of 
 
 ---
 
-> **STAMP — Cycle 1,778, the twelfth month · 06:00 · Floor 3 and the public archive**
+> **STAMP — Cycle 1,778, the twelfth month, then Year 4,238 · 06:00 · Floor 3 and the public archive**
 
 ### The Bench, Again
 
@@ -1865,7 +1865,7 @@ Then he let her go.
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier The Researcher; Project Somnarak Consolihan | Yeon-seo | The sentence he will misread | Connective scene |
 | 2 | The Doorway | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier The Solidification; Dossier The Researcher, for the last ordinary day. Nine days before the floor warms | Yeon-seo | The five words, said twice | Canon-anchored |
-| 3 | The Room | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, Year 4,238 and after | Majin | The sheet with forty-one questions, and the refusal of the first date | ON THE PAGE |
+| 3 | The Room | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, Year 4,238 and after | Majin | The sheet with forty-one questions, and the refusal of the first date | Connective scene |
 | 4 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification; `The_MEMORY_ARCHIVE.md` § 3.2, for the seals and the sacrifice | Yeon-seo | "Don't let the sorrow win" — said twice, once about the experiment | Canon-anchored |
 | 5 | The Filing | PAST | TPV camera | The registrar, the civil register | — | DIALOGUE | Document | C/R | Civil register of Facility 01; `The_MEMORY_ARCHIVE.md` § 3.2 for the heading THE ORIGINAL | Yeon-seo | The designation an archive copy, and the man who wrote it | Canon-anchored |
 | 6 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
@@ -1880,17 +1880,17 @@ Then he let her go.
 | 15 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address event, not the syllables | Canon-anchored |
 | 16 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
 | 17 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
-| 18 | The Room — The Date | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, eleventh month, year of the warm floor | Yeon-seo | He writes the first date himself, in her hand | ON THE PAGE |
+| 18 | The Room — The Date | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, Year 4,238, the second month | Yeon-seo | He writes the first date himself, in her hand | Connective scene |
 | 19 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
-| 20 | The Room — The Word | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, after Day 145 | The Founder | He chooses the page over the record he signed | ON THE PAGE |
+| 20 | The Room — The Word | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, after Day 145 | The Founder | He chooses the page over the record he signed | Connective scene |
 | 21 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
 | 22 | The Break | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | the Day 121 visible entry, the Day 145 hidden one; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
 | 23 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
-| 24 | The Room — The Names | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, after Day 160 | The four hundred and six | A clerk reads names that are mostly wrong, and he lets her | ON THE PAGE |
+| 24 | The Room — The Names | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, after Day 160 | The four hundred and six | A clerk reads names that are mostly wrong, and he lets her | Connective scene |
 | 25 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier The Researcher | Yeon-seo | The same afternoon, re-heard | Connective scene |
 | 26 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
 | 27 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
-| 28 | The Room — The Signature | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, eleventh month, eleventh day | Yeon-seo | The declaration signed after one reading, and the doorway left open | ON THE PAGE |
+| 28 | The Room — The Signature | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, eleventh month, eleventh day | Yeon-seo | The declaration signed after one reading, and the doorway left open | Connective scene |
 
 ---
 
@@ -1948,7 +1948,7 @@ Then he let her go.
 | The Consolihan, a year after the loss | The Choice at the Consolihan; The Answer; The Instrument; What He Understood in the Square | The Tree indicates, the Council asks, and he signs the first document in the founding ledger. |
 | The first year of the Directorate | The Eight | Nine offices, seven of the charters in his hand, and an arrangement that is efficient and is not a brotherhood. |
 | Year 4,226 | The Face in the Station; The First Morning; The Second Morning; What He Did Not Say | The station is built without a mirror and comes online at 06:00. The silence becomes policy. |
-| Year 4,232 — Cycles 1 through 1,778 | The Field; The Directive; The First Repeat; The Arithmetic of the Man; The Arithmetic; The Decision; The Lance | The field closes over the district. The reserve grows at 0.02 tons per iteration. The body is handed back and the memory is not. |
+| Year 4,232 — the original pass, then Cycles 1 through 1,777 | The Field; The Directive; The First Repeat; The Arithmetic of the Man; The Arithmetic; The Decision; The Lance | The field closes over the district. The reserve grows at 0.02 tons per iteration. The body is handed back and the memory is not. |
 | Cycle 1,778, **Day 0** | Day 0 — And You | He asks how she is, by name, for the first time in forty-three cycles. |
 | Day 1 | The Word in the Wall | The Maw speaks six syllables the array files as his name, and none of his own names fit them. |
 | Day 29 | The Forgiveness; The Catwalk | The Mother forgives him. He goes down to Floor 2 and says the wound to a subordinate as though it were a question about filing. |
@@ -2039,7 +2039,7 @@ PB (C/R) — THE ROOM: a clerk, a printed sheet of forty-one questions, and a ma
 
 | Fact or line | Source |
 |---|---|
-| **The file itself** — its order, its turns, its forward references, and its habit of answering a question eleven months after it is asked | The Public Record Office, eleven monthly sessions beginning in the year of the warm floor and closing in Year 4,238. The clerk's compiled transcript, checked back against nothing. It is the only document in the archive that is a voice rather than a record, and it is the reason the scenes can be out of order and still be true. |
+| **The file itself** — its order, its turns, its forward references, and its habit of answering a question eleven months after it is asked | The Public Record Office, eleven monthly sessions, the first in the opening month of Year 4,238 and the last on the eleventh of the eleventh. The clerk's compiled transcript, checked back against nothing. It is the only document in the archive that is a voice rather than a record, and it is the reason the scenes can be out of order and still be true. |
 | The declaration at the back, four lines, signed after one reading | The declaration sheet, Public Record Office, Year 4,238 |
 | Four hundred and six names in the appendix, marked unverified | The Room — The Names. Supplied by the clerk, invented where memory failed, and never checked against a census. |
 | Researcher beneath the Alpha Tree on early Han studies; shared work and private life with another scientist | `THE_DIRECTOR.md` § Backstory, The Researcher and Yeon-seo |
@@ -2115,7 +2115,7 @@ This is why the record prints the name and the man does not. The facility knows 
 | Order of selection and fusion | `THE_DIRECTOR.md`: loss → fusion → selection during the Consolihan | `The_REVERIE_DIRECTORATE.md`: selection during the Consolihan; "the M.A.W. fusion happened later" | Dossier order followed; codex reversal recorded, not averaged. |
 | Director's appearance | `THE_DIRECTOR.md`: deep blue eyes; three hooked scars on the upper left; black veins to the wrist and a scythe-shaped mark | Absolvohan Part 1: pale grey eyes; black alloy at temple and cheek; neural cables | **Dossier governs, and is now shown.** The veins, the wrist mark and the three lines are dramatized as they form, in The Fusing, and return in the Consolihan, the manifold room and the ledger. The Part 1 alloy, grey eyes and cables are not used. |
 | Memory across resets | `THE_DIRECTOR.md`: full retained chronology | Absolvohan Part 1: "You lose the marrow" | Unresolved. This file records his refusal to accept the purge as his own reading and asserts no memory loss on his behalf; file 02 quotes the Part 1 line because the Parts govern the spoken scene. Neither account is averaged into the other. |
-| Reserve at Day 0 | `THE_DIRECTOR.md` § Notes: archived estimate near 36 tons | Absolvohan Part 1: 47.300 tons held | Unresolved. The body uses the 0.02-ton rate and a spoken estimate only. |
+| The size of the reserve | `THE_DIRECTOR.md` § Notes: the archived estimate near 36 tons, and premature 100-ton readings that do not match the chronology | Absolvohan Part 1: 47.300 tons held; this file: 49.88 tons at Day 145, 49.8 released at Day 160 | **Reconciled by cause, not by averaging.** The 0.02-ton rate gives 35.56 over 1,778 iterations, and the dossier's own note supplies the rest, in its own words: *an Abyssal surge could feed the concealed Absolvohan reserve.* The body uses the Part's figure, names Abyssal surges as the source of the surplus, and does not re-derive 36. |
 | Day 160, the Floor 4 report | `Part_8` and `05_AYSHUK`: Ayshuk reports the twelve and the Hand of Hope | This file: Seiyon reports both | **The information is kept; the voice is not.** Ayshuk does not appear in this file, whose channel is the console, so the report is carried by the voice that owns the console. The count, the name and the resonance are unchanged. |
 | The sentence said twice | `THE_DIRECTOR.md` § The Solidification: *"Her last recorded words"* — one saying, at the seal | This file: the doorway on Day −9 and the seal on Day 0 | **Both are hers, and the second is the last.** The dossier's line is honoured as the record's last words; the earlier saying is this file's addition and is flagged here rather than merged into the dossier. |
 | Six syllables | `THE_DIRECTOR.md` § The Echo-Core Name: position two of the Doorspeech is variable and never recorded twice, and the Maw surfaces the Door's fragment **오누스도** — not Majin | Absolvohan Part 2, through Dekan: six precise syllables, filed by the array as the Director's name | **The Part governs what is heard; the dossier governs what it is.** The file keeps the six fixed syllables and no longer calls them his: he tries the personal name, the office and the designation against them and finds none. Dekan's report calls it the Director's name because that is how the array files it, not because anyone in the building knows. He is never told. |
@@ -2143,9 +2143,9 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 | Device | Presence in this file | Evidence |
 |---|---|---|
 | **The object** | The scrap of gauge log in her handwriting | Prologue (written, kept); The Bench, Again (held, re-read) |
-| **The withheld sentence** | *Shared is not something you send* — written in micro-ink on Day 145 and never said aloud | What the Founder Wrote; The Break |
-| **The counter-witness** | Insu, the senior medic, on the fusion directive: he read it twice, then said "noted" | What the Medics Said; Day 365 |
-| **The permanent symptom** | He reads reports twice, and reads names twice, because once does not make them stay | The Lance; Day 29; Day 365; Willingness |
+| **The withheld sentence** | Two sentences, one withheld by the archive and one by the man. The Founder's — *the sorrow was meant to be shared* — is written in micro-ink that only raw current lifts, and is read aloud for the first time in four thousand years on Day 145. The Director's — *Shared is not something you send* — is never written and never said. | What the Founder Wrote; The Break |
+| **The counter-witness** | Insu, the senior medic, on the fusion directive: the Director read it before signing, said *noted*, and lay back. Insu refuses the word *brave* and the file does not correct him. | What the Medics Said |
+| **The permanent symptom** | He reads reports twice, and reads names twice, because once does not make them stay | The Instrument (*he read it twice*); The Annex (*he had read them twice*); Day 145 (*he read the page twice*); Willingness (*no longer has to read twice*) |
 | **The oblique speech** | The catwalk, Day 29: the warm floor, the readings he heard instead of her, "what am I supposed to file that under" | Day 29 — The Forgiveness |
 | **The stance** | Willingness | Willingness |
 | **Routine-voice check** | Before: a report read once and signed. After: the same report, read once, and put down | Willingness, final line |
@@ -2160,7 +2160,7 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 - Directly linked records read: `THE_SECRETARY.md`; `The_REVERIE_DIRECTORATE.md` §§ Echo-Core 1 and R.D. Classified — The Cycle; `PROJECT_SOMNARAK.md` §§ Consolihan and Timeline; `SOMNARAK_CHEONGULA.md` §§III–V; `Gieok_Jeojangso/Reading_3_Forgotten_Soldier.md`; Absolvohan Parts 1, 2, 3, 4, 7, 8, 9.
 - Anchors verified in the Parts, not only in dossier summaries.
 - Every module answers where, when, who perceives, what changes, and what is said.
-- No Act, Chapter, or Part labels; the three section headings are thematic, not structural.
+- No Act, Chapter, or Part labels; the five section headings — one prologue record and four parts — are thematic, not structural.
 - Canonical dossier unchanged.
 - Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 381 dialogue lines, of which 19 are at dropped volume (italic) and 4 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
