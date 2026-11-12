@@ -533,9 +533,9 @@ A woman in a shop doorway asked whether the evacuation was over.
 
 He went back to the command post and wrote the incident report himself, and in the field marked *containment method* he wrote: **permanent, singular, non-transferable.** He did not write *me*.
 
-From that morning he had three lines on the left side of his face and a black mark between his wrist and his forearm, and when the thing in his chest was awake the lines went darker.
+From that morning he had three lines on the left side of his face and a black mark between his wrist and his forearm, and when the thing in his chest was awake the lines went darker. Nobody who worked in that building ever needed to be told which of the two was in the room.
 
-There was one more thing, and it was not visible. His pulse no longer kept its own time. It ran in resonance with the Alpha Tree, and the Directorate measured it, because the Directorate measured everything, and no report ever explained it, because nobody could. Nobody who worked in that building ever needed to be told which of the two was in the room.
+There was one more thing, and it was not visible. His pulse no longer kept its own time. It ran in resonance with the Alpha Tree, and the Directorate measured it, because the Directorate measured everything, and no report ever explained it, because nobody could.
 
 ---
 

@@ -6,7 +6,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 **Both files were read end to end in order — the dossier all 748 lines as it then stood, the extended all
 2,184 — and
-fifteen defects came out of it. One of them was a fact the dossier forbids.**
+sixteen defects came out of it. One of them was a fact the dossier forbids.**
 
 - **The Maw was given a false origin.** *Day 1* called the six syllables *"the name he had carried
   before the Directorate"*; *Day 53* had Dekan call them *"your old operational callsign… from the first
@@ -27,6 +27,9 @@ fifteen defects came out of it. One of them was a fact the dossier forbids.**
   **Day 121**, which is the visible entry that *"promises a thing it does not name"*; and Seiyon's
   **188 days** was attached to *the gates*, which are **Day 108's** order, not Day 177's facility and
   archives. The numbers were right both times; the referents were not.
+- **A sentence lost its subject.** *"which of the two was in the room"* had drifted behind the pulse
+  paragraph, where there is no pair; it is back with the three lines and the wrist mark, where the two
+  are the man and the thing.
 - **The dossier's Day 53 question was missing** — *"Do they remember us?"* — along with the answer the
   dossier records: the city remembers the rite and not what the lamps are for.
 - **Counts.** `[Majin]` **178 → 180**; *"seventeen of the twenty-seven"* → **twenty of the

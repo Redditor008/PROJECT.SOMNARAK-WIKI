@@ -17,7 +17,7 @@ into a running list before a single edit was made. 226 was claim-by-claim; this 
 
 **Read this pass:** `THE_DIRECTOR.md` 1–748 (all of it) and `01_MAJIN` 1–2,184 (all of it).
 
-### 3. What the read found — fifteen provable defects
+### 3. What the read found — sixteen provable defects
 
 **One the dossier forbids outright.**
 
@@ -69,6 +69,13 @@ into a running list before a single edit was made. 226 was claim-by-claim; this 
   seventeen of the twenty-seven scenes"* against a **28-row** ledger in which he bears the POV in
   **twenty**.
 - The validation record still claimed the dossier had been read at **689 lines**. It is **748**.
+
+**One sentence that lost the thing it was about.**
+
+- *"Nobody who worked in that building ever needed to be told which of the two was in the room"* had
+  been moved behind the pulse-resonance paragraph, where *"the two"* has no antecedent — the pulse and
+  the Tree are not two things in a room. It belongs with the three lines and the wrist mark, where the
+  two are the man and the thing. That is where it is again.
 
 **One arithmetic slip and one gap.**
 
