@@ -58,21 +58,77 @@ He has never found the thing.
 
 ### The Doorway
 
-There is no record of the last ordinary day, which is how he knows exactly what it looked like.
+There is no record of the last ordinary day.
 
-They argued about the lamp. She won, because she had bought a replacement shade at the market and installed it while he was reading, and the light became even, and he spent the rest of the afternoon annoyed that the readings were now easier to take.
+That is the first thing to say about it, because every other hour in this file is sourced and this one is not. No duty log survives from that shift. No instrument record, no witness statement, no entry in any ledger. What follows is his, given under the disclosure order, and he has given it in almost the same words every time it has been asked for — which, in a man who revises everything, is its own kind of document.
 
-At the end of the shift she stopped in the doorway with her coat half on.
+They argued about the lamp. They had been arguing about the lamp for six years.
+
+The lamp sat over the bench and ran too hot, and a man who no longer worked in the building had repaired it four times, and each repair had made it brighter and less even, so the left side of every sample read warm and the right side read cold. Majin subtracted the difference. Yeon-seo would not, because she did not believe a number that had been corrected by hand, and she read every plate twice instead — once against the warm side, once against the cold — and averaged the two in her head, and put a small tick beside the average so that later she would know it had been averaged.
+
+That afternoon she did something she had never done. She went out at the midday break and came back with a replacement shade she had bought at the market with her own money, and she fitted it while he was reading, standing on the stool in her coat, and the light came up even.
+
+He finished the page. He looked at the lamp. He said the readings would be easier to take now, and he said it the way a man says a thing he has decided not to be pleased about, and she said *yes* and did not turn round, and he was annoyed for the rest of the afternoon.
+
+That was the last argument she ever won, and she won it in about ninety seconds and never mentioned it again.
+
+At the end of the shift she stopped in the doorway with her coat half on and one arm in and one arm out, and then she came back — three steps, no hurry — and put her hand flat on his chest, which is what she did when she thought he had stopped listening and had not said so.
+
+Her hand was warm from the corridor and he could feel the ring on it through his shirt, and he did not put his own hand over it, because he was still holding the page and because there would be a great many other evenings.
 
 > **[Yeon-seo]** "Whatever happens, don't let the sorrow win."
 
-He assumed she meant the experiment.
+*Sorrow* is the street word. The academics said Han and the Endurers said the hunger and the Council said the reserve, and everybody who had ever had to explain it to a child used the older word, because a child understands that a sorrow is a thing you can be carrying. He had spent six years arguing that the word was imprecise.
+
+He assumed she meant the work.
+
+He was tired, the light was new, and the sentence arrived in the register of everything else she said on her way out of a door — *don't wait up for the readings*, *the plates on the second shelf are still wet*, *don't let the sorrow win.* He said something back. He has been trying to remember what for seventeen hundred years, and the trying is the only record, and it has never produced the sentence.
+
+What he did not do, then or in the nine days after, was add anything up.
+
+She had asked four times, in writing, for the seals to be tested at load. She had been refused four times. The refusals were in the bench drawer and she had never once asked him to overrule the Council and get them granted, which — for a woman who argued about a lamp for six years — was the only thing in the file she ever let go.
+
+She had spent her last ordinary afternoon making his readings accurate.
+
+A woman expecting twenty more years does not spend the afternoon on a man's lamp.
+
+He walked her to the lift. The lift came. She got in, and the doors closed on a coat with one arm still out of the sleeve, and that is the last thing he can see of her that is not inside a seal.
 
 ---
 
 ## Before the Hand Opened
 
 ---
+
+### The Room
+
+The Public Record Office is the part of the Public Archive that is not open to the public. It is on the second floor of a building that used to be a customs house, and the room they gave him has two windows, a table, and a chair that is better than the one the clerks get.
+
+He comes on the eleventh of each month. He has come eleven times.
+
+The clerk has a printed sheet with forty-one questions on it and a column for the answers, and she has been told — twice, by two different people, one of whom is Seiyon — that she is not to interrupt him, not to correct him, and not to ask a question that is not on the sheet. On the third visit she ran out of questions at four in the afternoon and he sat in the chair and waited, and she read the sheet again rather than make one up.
+
+> **[clerk]** "Director. The order says I am to begin wherever the record begins."
+
+> **[Majin]** "The record does not begin anywhere. It begins where somebody started writing."
+
+> **[clerk]** "Then where should I start?"
+
+He looked at the window for a while. Outside, on the far side of the square, the roof of the east wing was new and did not match the rest of the building.
+
+> **[Majin]** "The floor warmed first."
+
+> **[clerk]** "That is not a date, Director."
+
+> **[Majin]** "No."
+
+> **[clerk]** "The sheet asks for a date."
+
+> **[Majin]** "Then write that the floor warmed first, and leave the date until I have found one."
+
+She wrote it down. It is the first line of the file, and every arrangement in it — the years put in order, the scenes separated, the appendix at the back — is hers, made afterwards, because the man in the chair did not tell it in order and could not be persuaded to.
+
+He told it in the order it hurt.
 
 ### The Warm Floor
 
@@ -110,7 +166,7 @@ The seals were hers.
 
 He had the theory — that Han is what a place has felt, that a record of feeling can be read — and it fit on one side of a page, which was one of its attractions. She had the other half, the half with tolerances in it: every clamp in that building, every gasket rated for a pressure nobody had ever measured, every sealed cell from the sample bench down to the cold store. Six years of her handwriting in a maintenance schedule he had signed off on eleven times and read, he would later have to admit, none of them.
 
-She had asked for the seals to be tested at load. She asked in writing, four times, in four years. The building was in use. The test would mean emptying a wing. the Council taxed her designs the way it taxed his reports: it took the money and did not read them.
+She had asked for the seals to be tested at load. She asked in writing, four times, in four years. The building was in use. The test would mean emptying a wing. The Council taxed her designs the way it taxed his reports: it took the money and did not read them.
 
 She kept the four refusals in the bench drawer with the gauge logs.
 
@@ -142,7 +198,9 @@ She had not turned round. That was the thing he could not make her do, in six ye
 
 > **[Yeon-seo]** "You hold the door."
 
-She was lying. He worked that out about four seconds later, standing at a hatch with his hands on a wheel, watching her walk away from him down the length of a room that was already the wrong colour. She had never needed two hands. She had written the override herself and she had written it for one.
+She was lying. He worked that out about four seconds later, standing at the outer hatch with both hands on the wheel, watching her walk away from him down the length of a room that was already the wrong colour.
+
+She had never needed two hands. She had written the override herself, and she had written it for one. What she had needed was for him to be on the other side of a shut door with his hands full, because a man with his hands on a wheel is a man who is not going to come in after her, and she had done the arithmetic on that before she opened her mouth.
 
 ---
 
@@ -168,7 +226,11 @@ He gave the order to build a chamber around it instead: at the roots of the Alph
 
 It is also the first order he ever gave that has not been countermanded.
 
-The short record says only that he survived the event that killed her. The manner of his surviving appears in no document he signed. It is here because a medic wrote it down in a debrief nobody had asked him to take, and because the disclosure order opened the vault he had put that debrief in.
+What is in this section comes from three places and it is worth saying which is which.
+
+The times are the alarm log's, and the log is exact about them. The grey is not his: it is the cleaning crew's, taken by a medic who went down the corridor afterward with a notebook nobody had asked him to bring, and it is in this file because the disclosure order opened the vault that man's report had been sitting in for four thousand years.
+
+The rest is his testimony, and he has never let anyone check it against the vault copy of his own statement, which is the only place in this file where he has refused a comparison. He says what he saw. He does not say what the room was doing while he held the wheel, because he kept his eyes on the far door and he has never described it any other way.
 
 The bench was not damaged. The lamp was even — she had replaced the shade — the readings were easy to take, and there was nobody left in the building who put a small tick beside an average.
 
@@ -178,19 +240,15 @@ The bench was not damaged. The lamp was even — she had replaced the shade — 
 
 She said it twice.
 
-The first time she was in a doorway with her coat half on, at the end of an ordinary shift, and she said: *whatever happens, don't let the sorrow win.* He assumed she meant the experiment. He was tired, the lamp was new, and he said something back that he cannot now remember, and that was the last thing they said to each other that was not about the seal.
+The second time she was holding a ring shut with both hands and the room behind her had stopped being a room. She said the same five words. She did not add anything to them, and she did not have the breath to.
 
-The second time she was holding a ring shut. She said the same five words. She did not add anything to them and she did not have the breath to.
-
-*Sorrow* does two jobs in this city and always has. To the Endurers it is Han — the substance, grief with nowhere to go, the thing that eats a district when nothing is holding it. To everyone else it is the feeling. She was a structural theorist; she had spent six years telling anyone who would sit still that the two were one substance and that this was the whole point. the Council taxed that too.
-
-So the sentence is not ambiguous because she was a mystic. It is ambiguous because the language is, and because the woman who could have said which meaning she meant was inside a seal by the time he thought to ask.
+That is the whole of what he was left with: five words, said twice, nine days apart, in the two places a person is least likely to be understood — a doorway and a fire.
 
 He has been asked, since the disclosure, why he did not hear it as comfort.
 
 The honest answer is that he was a researcher standing in a room that had just taken everything, and a researcher does not receive comfort. A researcher receives a finding.
 
-He wrote it down that night, in a report, as *do not let it have the last word.* He has never corrected it. The paraphrase is his, and it is the only sentence of hers he has ever let himself repeat.
+He wrote it down that night, in a report, as *do not let it have the last word.* He has never corrected it. The substitution is his and it is not a slip: he was a man whose whole trade was the sentence that comes after the evidence, so *win* arrived in his hand as *last word*, because in his world winning a thing and writing the final line about it were the same act. That is the only sentence of hers he has ever let himself repeat.
 
 *Don't let it win.* Put that in a report and it becomes a commission. Something must be written after. Something must be built. Something must be finished that she had started.
 
@@ -204,7 +262,7 @@ Every containment standard in this building is dated from the year after. She ha
 
 He never put it in a report that he had done it for her. He does not write her name in reports.
 
-*Don't let the sorrow win* did not become two sentences instead of one until much later, in a cold room on Floor 6, with a brittle book open on the desk.
+*Don't let the sorrow win* stayed one sentence for seventeen hundred years. It became two in a cold room on Floor 6, with a brittle book open on the desk, when he finally read the old word the way she had meant it: *the sorrow* is what a person is carrying, and it does not want to win, and it does not want to lose either. It wants to be carried.
 
 ---
 
@@ -464,7 +522,7 @@ Every person in the square felt it. Most knelt, because kneeling was what the ri
 
 Majin did not kneel. He stood at the back with his hands at his sides and felt the attention of the thing under the square arrive on him like a hand on the chest — the same gesture, in the same place, that she had used to check whether he was listening.
 
-> **[him]** "Director. the Council is asking for you."
+> **[him]** "Director. The Council is asking for you."
 
 > **[Majin]** "I know."
 
@@ -483,7 +541,7 @@ He had not heard them. He had, in the way that later became familiar to everyone
 > *The Tree has indicated you. The indication is not a nomination and is not subject to review.*  
 > *You are to accept the office of Director of the Reverie Directorate, to be established by your hand, with authority over containment, extraction, research, and the gates.*  
 > *You will not be replaced while the Tree holds you. You will not be permitted to resign into death while the fusion holds you.*  
-> *You are aware of what you carry. the Council is aware of what you carry. Neither of us will speak of it in public.*  
+> *You are aware of what you carry. The Council is aware of what you carry. Neither of us will speak of it in public.*  
 > *Acknowledge.*
 
 He read it twice. The second reading was the one that mattered.
@@ -516,7 +574,9 @@ The Tree's indication did not tell him anything new. It told him that the thing 
 
 A Director could requisition. A Director could override a quarantine. A Director could order a district evacuated before the gauges agreed that a district needed evacuating, and if the district was evacuated anyway, the readings could arrive later at their leisure.
 
-He had lost a floor, a district, four hundred and six people in a street, and one researcher with a coat half on. What he had not lost was the argument.
+He had lost a floor, and the district's certainty that a street was a street, and eighteen men he could not sort into two teams of nine, and four hundred and six people who had come back out of the east quarter and could not be confirmed as the four hundred and six who had gone in. And one researcher with a coat half on, whose coat he had watched go out of a lift door with one sleeve empty.
+
+What he had not lost was the argument.
 
 The argument was still the same one: measure the ocean, predict the flood, move the people out of the way.
 
@@ -686,6 +746,22 @@ Not repaired. Intact — the way it had been before the fracturing, the way the 
 It took them four days to work out the arithmetic, and the arithmetic was the worse part. The generator's cycle was the facility's own operational year. He had closed the field at 23:59:58 on the last night of Year 4,232, and a cycle that is one year long does not finish by ending; it finishes by beginning again. The field had not kept the building as it was when he closed it. It had kept it as it was on the first morning of the year, and it would go on returning it there for as long as the field ran.
 
 On the fifth day they confirmed it: the field was holding the facility at Year 4,232, and the city inside the field was going around with it.
+
+Then there was the other arithmetic, the one that took a season.
+
+A year inside the field was not a year outside it. The Generator dilated the loop: 1,778 iterations of the year would run while roughly six municipal years passed on the far side of the envelope, and there was no rate he could write down, because the ratio was not fixed and no instrument in the building could measure the outside at all.
+
+He learned it the way the city learned it, six years later, from a calendar.
+
+Which meant, and he wrote this on a card and kept it in the desk: the whole of what he was about to do would happen inside a window the city would experience as a long bad winter. Seventeen hundred years of grief, and the district beyond the field would get six years and never know it had been lived through.
+
+> **[Seiyon]** "That is the cruelty of it, Director."
+
+> **[Majin]** "No."
+
+> **[Seiyon]** "Then what is it?"
+
+> **[Majin]** "It is a discount."
 
 ---
 
@@ -926,7 +1002,7 @@ He said it the way he said all of them: flat, level, a sentence with no edges in
 
 The whole building ran on sentences like that.
 
-> **[Dekan]** "Director... the Maw whispered last night. It said your name."
+> **[Dekan]** "Director... The Maw whispered last night. It said your name."
 
 Dekan set the words down carefully, the way a man sets down something breakable without letting go of it.
 
@@ -1092,6 +1168,30 @@ Dekan looked at the growth markers on the screen, then at the Director, and did 
 
 > **[Dekan]** "Understood."
 
+### The Room — The Date
+
+She had got to question twenty-two, which is the one about the woman.
+
+> **[clerk]** "The sheet asks for her, Director. It asks whether she was a colleague, a superior, or —" she looked at the paper. "It offers three."
+
+> **[Majin]** "None of the three."
+
+> **[clerk]** "Then I have to leave it blank."
+
+> **[Majin]** "Leave it blank."
+
+She left it blank. Then, because she was new and the room was warm and he had not stood up, she said the thing that was not on the sheet.
+
+> **[clerk]** "Would you say her name for me? Only so I spell it right. The medic's notebook has it and I do not trust the medic's notebook."
+
+He was quiet long enough that she began to be afraid she had done something that would be reported. Then he said it, once, in the voice of a man reading a figure off an instrument, and then again more slowly, and the second time it was only a name.
+
+She wrote it down and spelled it correctly. He watched her write it, and then he took the pen out of her hand, which surprised them both, and wrote the date at the top of the first page himself: the year the floor warmed, and the month, and the day. He wrote it in the space above her line, not instead of it, so that what she had written stayed the first thing on the page and the date sat over it the way a date sits over a grave.
+
+He did not write a year number. He wrote the event, because the event was the only calendar he had ever been able to keep, and every date in this file is relative to it for that reason.
+
+> **[Majin]** "There. Now question one is answered."
+
 ---
 
 ## What the Founder Wrote
@@ -1161,6 +1261,38 @@ Marjuk did not answer, and Majin did not press him, and the two of them stood in
 > **[Marjuk]** "That is my reading as well."
 
 > **[Majin]** "Then it is a family tradition."
+
+### The Room — The Word
+
+She came in that month with two sheets instead of one, and put the second one down and did not sit.
+
+> **[clerk]** "The Founder's page. I have to ask about the word."
+
+> **[Majin]** "Which word."
+
+> **[clerk]** "The one every file in this building has used since the beginning. The one on the seal. It is not the word on the page."
+
+> **[Majin]** "No."
+
+> **[clerk]** "How long has it been wrong?"
+
+> **[Majin]** "Longer than the building has been standing. That is not the same as long."
+
+> **[clerk]** "So do I write what is on the page, or do I write what the record says?"
+
+He held his hand out. She gave him the sheet. He read the line, and the line was short, and he read it more than once, which she had been told he did.
+
+> **[Majin]** "Write what is on the page."
+
+> **[clerk]** "That will make the file disagree with every other file in the building."
+
+> **[Majin]** "Yes."
+
+> **[clerk]** "And with the record you signed."
+
+> **[Majin]** "The record I signed was in my hand. This one will be in yours. Write what is on the page."
+
+She wrote it. He gave the sheet back, and she saw that his hand had left a mark on it near the bottom, where he had been holding it too hard.
 
 ---
 
@@ -1332,6 +1464,40 @@ On Day 165 the thousand went quiet in the Maw, and the acoustic array recorded n
 
 He asked her to leave the channel open, and she did, and he sat in the manifold room with the empty gauge until the shift changed.
 
+### The Room — The Names
+
+She read the count back to him the way she had been taught to read figures: slowly, in a level voice, with the unit named once.
+
+> **[clerk]** "Four hundred and six out. Eighteen in. Two teams of nine."
+
+> **[Majin]** "Two teams of nine is a phrase I used. I do not know that it was true."
+
+> **[clerk]** "It is in the officer's report."
+
+> **[Majin]** "The officer was not being cruel about it. That is not the same as being correct."
+
+She put the sheet down.
+
+> **[clerk]** "The appendix has a column for names. It is empty. Should I leave it empty?"
+
+> **[Majin]** "It should not be empty."
+
+> **[clerk]** "Then I need the names."
+
+> **[Majin]** "I do not have them."
+
+> **[clerk]** "You have the count."
+
+> **[Majin]** "I have the count."
+
+He said nothing else for a while, and then he said the only thing in eleven months that she wrote down twice, to be sure of it.
+
+> **[Majin]** "Read them to me. Not the ones you have. The ones you would have, if the column were full."
+
+She did not ask what he meant. She read out four hundred and six names, most of them wrong, some of them invented, all of them in the flat voice of a clerk working through a list. He sat with his hands on the table and let her finish, and when she finished he said:
+
+> **[Majin]** "Thank you. Put it in the appendix. Mark it unverified."
+
 ---
 
 ## After the Hand Opened
@@ -1438,11 +1604,11 @@ The volumes were indexed by the Public Record Office, and the index had been bui
 
 > **[she]** "Who was THE ORIGINAL?"
 
-The answer was in the appendix, on the same page as the designation. It was two words long, it was a name, and it had been sitting in the vault for four thousand years and in his mouth for none of them.
+The answer was in the appendix, on the same page as the designation. It was two words long, it was a name, and it had been sitting in the vault since the day he filled the box in, and in his mouth for none of that.
 
 He was told about the question that evening. He said *noted*, and then he sat in the cold office with the door open and did not read the report he was holding, and at some point after midnight he turned the lamp round so that it lit the wall instead of the page.
 
-The record prints her name. He still says THE ORIGINAL. Four thousand years of archives have gone on copying a box he filled in on the fourteenth day, and the city has gone on reading it correctly.
+The record prints her name. He still says THE ORIGINAL. Every copy of the archive has gone on reproducing a box he filled in on the fourteenth day, and the city has gone on reading it correctly, which is the part he cannot forgive it for.
 
 On the morning after the year closed he went down to the public archive with the first volume of the disclosure ledger and did the thing he had been avoiding since the fusion.
 
@@ -1492,6 +1658,36 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 
 The marks had not faded. He had not got any younger. Only the reading had changed: once, twice, once.
 
+### The Room — The Signature
+
+The last session was in the eleventh month, on the eleventh, and she brought the whole file in a box because she thought he would want to see it whole.
+
+He did not open the box.
+
+> **[clerk]** "It is finished, Director. Forty-one questions. The appendix, the ledger, the sources. The only thing left is the declaration at the back, and that needs your hand, not mine."
+
+He turned to the last page. The declaration was four lines long and said that the account was his, that it was given freely, that he had not been shown the questions in advance, and that he understood it would be kept.
+
+He read it once.
+
+> **[clerk]** "You are allowed to read it twice."
+
+> **[Majin]** "I know."
+
+He signed it. Then he put the pen down and sat with his hand flat on the paper, the way he sat at the bench, and she understood that the session was over and that she should not say anything else. She was at the door with her coat half on, which meant nothing to her, when he spoke.
+
+> **[Majin]** "Clerk."
+
+> **[clerk]** "Director."
+
+> **[Majin]** "In the first month you asked me whether the record began anywhere."
+
+> **[clerk]** "I did."
+
+> **[Majin]** "It began in a doorway. Everything after it is the paperwork."
+
+Then he let her go.
+
 ---
 
 ## Appendix
@@ -1503,26 +1699,31 @@ The marks had not faded. He had not got any younger. Only the reading had change
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | Yeon-seo | The sentence he will misread | Connective scene |
-| 2 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification; `The_MEMORY_ARCHIVE.md` § 3.2, for the seals and the sacrifice | Yeon-seo | "Don't let the sorrow win" — said twice, once about the experiment | Canon-anchored |
-| 3 | The Arithmetic of the Man | PAST | TPV | Majin | — | BOTH | Document | C | Dossier Profile, Age 126 and Operational Age | Majin | The one body the field returns with the building | Connective scene |
+| 2 | The Room | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, Year 4,238 and after | Majin | The sheet with forty-one questions, and the refusal of the first date | ON THE PAGE |
+| 3 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification; `The_MEMORY_ARCHIVE.md` § 3.2, for the seals and the sacrifice | Yeon-seo | "Don't let the sorrow win" — said twice, once about the experiment | Canon-anchored |
 | 4 | The Filing | PAST | TPV camera | The registrar, the civil register | — | DIALOGUE | Document | C/R | Civil register of Facility 01; `The_MEMORY_ARCHIVE.md` § 3.2 for the heading THE ORIGINAL | Yeon-seo | The designation four thousand years of records copy, and the man who wrote it | Canon-anchored |
 | 5 | The Sovereign (to the fusing) | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment; Dossier Appearance, for the veins, the wrist mark and the three lines | Majin | He becomes the container, and it can be seen on him | Canon-anchored |
 | 6 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
 | 7 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
 | 8 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station, Year 4,226 | Seiyon | The silence becomes policy | Connective scene |
-| 9 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
-| 10 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
-| 11 | Day 0 — And You | FLASHBACK | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
-| 12 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
-| 13 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
-| 14 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
-| 15 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
-| 16 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
-| 17 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
-| 18 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
-| 19 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
-| 20 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
-| 21 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
+| 9 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
+| 10 | The Arithmetic of the Man | PAST | TPV | Majin | — | BOTH | Document | C | Dossier Profile, Age 126 and Operational Age | Majin | The one body the field returns with the building | Connective scene |
+| 11 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
+| 12 | Day 0 — And You | FLASHBACK | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
+| 13 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
+| 14 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
+| 15 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
+| 16 | The Room — The Date | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, eleventh month, year of the warm floor | Yeon-seo | He writes the first date himself, in her hand | ON THE PAGE |
+| 17 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
+| 18 | The Room — The Word | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, after Day 145 | The Founder | He chooses the page over the record he signed | ON THE PAGE |
+| 19 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
+| 20 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries; after Day 149 | Majin | "Shared is not something you send" | Connective scene |
+| 21 | Day 160 — The Fountain | FLASHBACK | TPV | Majin | — | BOTH | Institutional event | R | Absolvohan Part 8, Day 160; dossier Phase IV | The district | "Nobody is running." | Canon-anchored |
+| 22 | The Room — The Names | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Person | C/R | The Room, after Day 160 | The four hundred and six | A clerk reads names that are mostly wrong, and he lets her | ON THE PAGE |
+| 23 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
+| 24 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
+| 25 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
+| 26 | The Room — The Signature | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, eleventh month, eleventh day | Yeon-seo | The declaration signed after one reading, and the doorway left open | ON THE PAGE |
 
 ---
 
@@ -1530,12 +1731,13 @@ The marks had not faded. He had not got any younger. Only the reading had change
 
 | Speaker | Kind | Labels used | Bounds |
 |---|---|---|---|
-| **Majin** | Canon; POV bearer in eighteen of the nineteen scenes (the nineteenth is Insu's debrief) | `[Majin]` (128) | The whole file. Nothing is claimed as his interior that the record cannot support, and the appendix marks where it cannot. |
+| **Majin** | Canon; POV bearer in sixteen of the twenty-six scenes (the others are the clerk's five, the registrar's one, Insu's debrief, the Council instrument's one, the generator directive's one, and the record's own one) | `[Majin]` (128) | The whole file. Nothing is claimed as his interior that the record cannot support, and the appendix marks where it cannot. |
 | **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 and the GIEOK origin-core line | `[Yeon-seo]` (14) | Three scenes: the bench, the doorway with her coat half on, and the seal. She is the author of the containment discipline the Directorate inherits and she does not survive it, and the file does not let her be a witness to her own ending — the account of the vent comes from a medic's debrief, not from her. She never appears in the loop. |
 | **Seiyon** | Canon | `[Seiyon]` (59) | The station, from Year 4,226 onward. She is in scenes where a log exists; she is absent from the catwalk, because no channel there was recorded. |
 | **Dekan** | Canon | `[Dekan]` (23) | Day 1, Day 29 (debrief and catwalk), Day 53. He never explains Majin to himself: everything he says is a report, a question, or the wall he is being used as. |
 | **Marjuk** | Canon | `[Marjuk]` (10) | Day 145 and Floor 6. He answers what is asked of the archive and volunteers no theory about the Founder. |
 | **Zyrak** | Canon | `[Zyrak]` (4) | The manifold room, Day 149. Four lines, all of them about the object she is cutting. |
+| **The clerk of the Public Record Office** | Backstory-only, unnamed; the frame of the whole file | `[clerk]` (21) | The Room, five scenes across eleven monthly sessions in Year 4,238 and after. She is the only person in the file who asks him a question he has not prepared an answer for, and she does it by accident, from a printed sheet. |
 | **Insu** | Backstory-only, named in the debrief preamble | `[Insu]` (5) | The Year 4,238 debrief extract and nothing else. He is the counter-witness and he is not a friend: he was on the table's other side, and he is the one who remembers the word *noted*. |
 | The protocol officer, the warm floor | Backstory-only, unnamed | `[him]` (1) | One line, in the corridor, before the evacuation order is obeyed. He cites the protocol correctly; he is not a fool. |
 | The containment officer, the east quarter | Backstory-only, unnamed | `[she]` (3) | The Sovereign scene. She delivers the census figure and the doubling report, and she is the one who says *taken* rather than *damaged*. |
@@ -1583,6 +1785,7 @@ The marks had not faded. He had not got any younger. Only the reading had change
 | Day 160 | The Fountain | The wheel turns at midday, the gauge falls to zero, the district stands in the street and feels it. Fifteen percent transforms; eighty-five persists, and he writes *Nobody is running* in the remarks field. Day 165: the thousand go quiet. |
 | Day 365 | The Ledger of Names; The Public Archive | The record opens as names rather than tonnage, and the city reads over his shoulder. |
 | Year 4,238 | Willingness | He reads a report once, signs it, and puts it down. The office is warm and nobody is standing at the bench. |
+| Year 4,238 and after — eleven monthly sessions | The Room; The Room — The Date; The Room — The Word; The Room — The Names; The Room — The Signature | He narrates the whole of it to a clerk, out of order, and signs the declaration. The frame is present at both ends, which is why the file reads as testimony and not as a record. |
 
 ---
 
@@ -1601,6 +1804,9 @@ The marks had not faded. He had not got any younger. Only the reading had change
 | **The lamp with moods** | The Sample Bench; The Manifold Room | The warm amber research lamp he never replaced in his descriptions, and the cutting torches that throw a light almost exactly its colour. |
 | **The warm floor** | The Warm Floor; Day 29 | The sensation that stands in for the whole catastrophe, and the sentence he uses on the catwalk — *the floor was warm* — as the only part of it he can hand to another person. |
 | **The mark between wrist and forearm** | The Fusing; The Choice at the Consolihan; Day 160 — The Fountain; The Public Archive | What the fusion left where it could be seen. Black veins from the inner upper arm across the elbow to the wrist, and there a shape the first medic called *a blade on its side*. The coat has been cut open along that forearm since the year of the Sovereign so it can be checked without undressing him. He writes with the hand, and the hand did not change. |
+| **The sheet of forty-one questions** | The Room, and every return to it | A printed form that cannot describe a life it was not written for. Question twenty-two offers three answers and he gives none of them; question one asks for a date and he refuses it for eleven months. |
+| **The clerk's pen** | The Room — The Date | Taken out of her hand without a word, used once, and never given back. The first thing in the file he does not answer but does. |
+| **The box he does not open** | The Room — The Signature | The whole file, brought to him complete. He reads the last page and not the rest, because the rest is the past and the last page is a verdict. |
 | **The station without a mirror** | The Face in the Station; Day 0 — And You | The room built in Year 4,226 with a chair, a desk, a console, and no mirror. He specified it. It is the first decision in the file that is about someone who does not exist yet. |
 | **The clock reading Day 1, 06:00** | The Decision | The object that proves the loop to him without an argument. It has read the same thing many times. |
 | **The Absolvohan barrel** | The Lance; The Manifold Room | Five hundred millimetres of steel designed to be fired and then cut into pipe. The file's clearest image of a decision being unmade in public. |
@@ -1613,7 +1819,7 @@ The marks had not faded. He had not got any younger. Only the reading had change
 
 | Pair | Before the break | After the break | What the second exposure proves |
 |---|---|---|---|
-| **Majin ↔ the designation** | A box on a form, filled at the fourteenth day | Four thousand years of records that copy it exactly, including the leaning *i* | That he could not write her name and then be finished with it. The designation is what let her be built again. |
+| **Majin ↔ the designation** | A box on a form, filled at the fourteenth day | An archive that copies it exactly, including the leaning *i* | That he could not write her name and then be finished with it. The designation is what let her be built again. |
 | **Majin ↔ Yeon-seo** | Six years of argument at a bench, nine times over, about jars and oceans; a sentence said casually while she worked | A record that has built an institution out of the sentence; a scrap of paper read in a cold vault | That he never knew her as a person at the time. The wound is not her death; it is that he was listening to instruments. |
 | **Majin ↔ Seiyon** | A system designated in a room with no mirror, told nothing about whose face it wears | A mind asked *how are you* on Day 0, and answered honestly in the vault after the dispersal | That the same silence that was policy can be withdrawn, and that withdrawing it costs him the thing he most wanted to keep. |
 | **Majin ↔ Dekan** | A containment lead delivering growth figures | A man who carries the Director's wound up the stairs and never repeats it | That obligation runs both ways in a facility where nobody has rank over a memory. |
@@ -1626,7 +1832,10 @@ The marks had not faded. He had not got any younger. Only the reading had change
 ### Connection string
 
 ```text
-PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
+PB (C/R) — THE ROOM: a clerk, a printed sheet of forty-one questions, and a man who
+          will not give her a date. Everything below is what she writes down.
+
+→ T (C): the bench; the jar-and-ocean argument; the lamp with moods;
           the sentence he writes down and the sentence he mishears
 
 → T (C): the warm floor — the loss
@@ -1647,6 +1856,10 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 → T (C/R): Day 365 — the disclosure ledger replaces the tonnage account
 
 → PC (C/R): the office is warm; the record ends on a stance, not a cure
+
+→ PRESENT: back to THE ROOM — the pen taken, the page chosen over the record, four hundred
+          and six names read out by a clerk who does not know them, and a declaration signed
+          after one reading. The doorway begins it. The paperwork ends it.
 ```
 
 ---
@@ -1655,6 +1868,9 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 
 | Fact or line | Source |
 |---|---|
+| **The file itself** — its order, its turns, its forward references, and its habit of answering a question eleven months after it is asked | The Public Record Office, eleven monthly sessions beginning in the year of the warm floor and closing in Year 4,238. The clerk's compiled transcript, checked back against nothing. It is the only document in the archive that is a voice rather than a record, and it is the reason the scenes can be out of order and still be true. |
+| The declaration at the back, four lines, signed after one reading | The declaration sheet, Public Record Office, Year 4,238 |
+| Four hundred and six names in the appendix, marked unverified | The Room — The Names. Supplied by the clerk, invented where memory failed, and never checked against a census. |
 | Researcher beneath the Alpha Tree on early Han studies; shared work and private life with another scientist | `THE_DIRECTOR.md` § Backstory, Origins |
 | Lover killed in the Solidification; final instruction "Don't let the sorrow win" | `THE_DIRECTOR.md` § Backstory, The Solidification |
 | Yeon-seo was the intellectual architect of the original containment systems; during the breach she sacrificed her physical body to seal the breach core, shielding Majin from terminal psychic dissolution | `The_MEMORY_ARCHIVE.md` § 3.2, The Original: Yeon-seo |
@@ -1668,6 +1884,7 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 | The fusion happened when he tried to contain a Sovereign-class entity; the M.A.W. needs him alive | `The_REVERIE_DIRECTORATE.md` § Echo-Core 1, The M.A.W. Fusion |
 | Mnemonic Generator built into the Hand; stabilizes the facility and creates the Cycle | `The_REVERIE_DIRECTORATE.md` § Secretary's secret |
 | Year 4,232 seismic fracturing along the Maw fault; generator deployed; 365-day cycle; 1,778 iterations | `The_REVERIE_DIRECTORATE.md` § Cycle chronology |
+| 1,778 internal cycles dilated across roughly six external municipal years; no linear Cycle-to-Year conversion exists | `CANON_TIMELINE.md` § Loop-semantics mapping and the 4,232–4,238 row; `The_REVERIE_DIRECTORATE.md` § Phase 2, Duration |
 | Majin designed the stabilization field; the temporal echo was unintended; 0.02 tons per iteration persists | `THE_DIRECTOR.md` § The Cycle |
 | R.D. founded in Year 4,202 | `PROJECT_SOMNARAK.md` § Timeline |
 | Cheongula: Year 202; the thousand consumed; the Maw formed | `SOMNARAK_CHEONGULA.md` §§III–IV |

@@ -2,6 +2,30 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the order it hurt
+
+**Read chronologically, the Majin file had no present tense. Every one of its twenty-one scenes was
+PAST or FLASHBACK, so 21,000 words of grief arrived with nobody to tell it to.**
+
+- **A testimony frame.** Five PRESENT scenes in the Public Record Office: a clerk, a printed sheet of
+  forty-one questions, eleven monthly sessions, and a man who narrates his life out of order because
+  he cannot do it any other way. The frame opens the file and returns at each of the four part
+  boundaries, so every block of the past is opened and closed by the room it is being told in.
+- **Four returns, four changed actions.** He writes the date himself. He chooses the Founder's page
+  over the record he signed. He has a clerk read out four hundred and six names, most of them invented,
+  and marks them unverified. He signs a declaration after reading it once.
+- **The dating convention is now a scene.** The file has never carried an absolute year for the loss.
+  Now the clerk asks for one and he refuses — he writes the event, because the event is the only
+  calendar he has been able to keep — which is why every date in the file is relative to the floor
+  warming.
+- **Four hundred and six.** He no longer loses them in the street; three other places in the file say
+  they came out standing, and he cannot tell whether they are the same people. He loses the census.
+- **A gesture restored.** The Consolihan compared the Tree's attention to her hand on his chest. The
+  gesture was gone from the file. It is back in the doorway, three steps, warm from the corridor.
+- **Ledger rebuilt against the file's real order** — 26 rows, 10 PAST · 10 FLASHBACK · 5 PRESENT ·
+  1 RE-EXPOSURE. *The Arithmetic of the Man* was filed in the wrong era; *the clerk* and *the
+  containment officer* were both `[she]`.
+
 ## Unreleased — a mark you can see
 
 **Faction and school names now read as titles, and the reason they did not is that every one of them

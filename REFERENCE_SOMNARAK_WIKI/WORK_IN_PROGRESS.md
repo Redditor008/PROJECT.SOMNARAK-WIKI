@@ -1,5 +1,57 @@
 # Work In Progress
 
+## Batch 222 — the order it hurt (2026-10-25)
+
+### 1. What you asked
+
+*"TRY TO READ MAJIN STORY IN CHRONOLOGICAL ORDER AND YOU WILL SEE THAT IT DOESNT MAKE SENSE ... TRY TO
+READ IT AS A WHOLE NOT JUST GLANCE OR HOVER OVER IT BUT TRULY READ IT 100% THROUGH."*
+
+### 2. The fault the read found
+
+Not a scene. **The file had no present tense.** All twenty-one scenes were PAST, LOOP-PAST or FLASHBACK,
+which is what the ledger said and what nobody had checked against the standard. `00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`
+§ IV.1 defines FLASHBACK as *"a present trigger opens PAST … then returns to the present with a changed
+action."* There was no trigger and no return. Read in order, 21,000 words of grief arrived with nobody
+to tell it to — which is why it read as a dossier being recited rather than a man being asked.
+
+### 3. What was built
+
+**The Room.** The Public Record Office — *"the part of the Public Archive that is not open to the public"*
+— on the second floor of a former customs house, on the eleventh of each month, eleven times. A clerk
+with a printed sheet of **forty-one questions**, told by two people, one of them Seiyon, not to interrupt
+him. Five PRESENT scenes: *The Room*, and four returns — *The Date*, *The Word*, *The Names*, *The
+Signature* — placed at the four part boundaries so each part of the past is opened and closed by the
+room it is being told in.
+
+**The dating discipline, explained in-story.** The file has never carried an absolute year for the loss,
+and the HOLDs table calls that *"resolved by class, not by date."* That is now a scene: she asks for a
+date, he says the floor warmed first, she says that is not a date, and in the second month he writes the
+event instead of the year — *"because the event was the only calendar he had ever been able to keep."*
+The convention the appendix used silently is now something he does on the page.
+
+### 4. What the read also found and fixed
+
+- **Four hundred and six.** Line 545 said he had *lost* them; three other places said they came out
+  standing and he could not tell whether they were the same people. He no longer loses them; he loses
+  the census.
+- **A gesture with no antecedent.** The Consolihan compares the Tree's attention to *"a hand on the
+  chest — the same gesture, in the same place, that she had used"*. The rewrite had cut the gesture.
+  It is now in the doorway, three steps back, warm from the corridor, with the ring felt through his
+  shirt, and he does not cover it with his own hand because there will be many other evenings.
+- **A scene filed in the wrong year.** *The Arithmetic of the Man* sat at ledger row 3, between the
+  warm floor and the filing; it happens in the field era, after the first repeat. Reordered, and the
+  ledger rebuilt from the file's actual sequence — 26 rows, 10 PAST · 10 FLASHBACK · 5 PRESENT · 1 RE-EXPOSURE.
+- **A label collision.** The clerk and the containment officer were both `[she]`. The clerk is now
+  `[clerk]`, 21 lines, and has a Cast row.
+- **"Four thousand years."** Twice claimed of an archive that had been copying the box since the
+  fourteenth day. Replaced with the archive itself, not a number the HOLDs table forbids.
+
+### 5. Auditors
+
+`check_ai_prose` · `check_backstory_gloss` · `check_backstory_appearance` · `check_section_registry` ·
+`check_title_register` · `check_md_tables` · `seam_lint` — **all PASS**.
+
 ## Batch 221 — a name that only ever opens a sentence is not marked (2026-10-25)
 
 ### 1. What you asked
