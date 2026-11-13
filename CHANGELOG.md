@@ -2,25 +2,56 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the voice in the dialogue
+
+**§9 could make a line quiet. It could not make it sound like anything.**
+
+Volume (§9.6) and lettering (§9.7) were covered; **what the voice does to the sentence** was not — and
+that is where emotion actually is. §9.8 now names the three dials: volume, vocalization, lettering, and
+says plainly that the marks cannot carry the middle one.
+
+- **§9.9 What emotion does to a voice** — grief **flattens**; fury **slows and drops** (shouting is what
+  people do when they have lost); fear speeds up and over-specifies; relief lengthens; shame changes the
+  subject mid-line; contempt shortens; exhaustion omits; hope hedges its own grammar. With two guards:
+  it is **a palette, not a checklist**, and **the flat voice is not the absent voice** — flatness is a
+  choice, and it only reads as one if the reader has been shown what it is holding.
+- **§9.10 Stress lands on one word** — the five readings of *"I didn't say that"*, marked once in
+  italics, used rarely.
+- **§9.11 Where the breath is** — the break in the wrong place, the restart as a confession, the breath
+  before the hard word, the word that never arrives. Held by punctuation, never by *"she paused."*
+- **§9.12 The sound that isn't a word** — describe what the laugh did, never spell it; never phonetically
+  spell an accent; and the sharpest device in the section, **two voices at once** — the line straight,
+  the body disagreeing with it.
+
+Every one of these was already in the archive and unnamed: `"The stock is *renewable*."` ·
+`"Seiy— Seiyon. My name is — my name is Seiyon."` · *"the flat voice she used for the weather."*
+
+**Consequences:** §21 gained a tenth defect class, **the flat page** · the dialogue read-back gained
+*read it aloud — is the feeling in the voice, or in an adverb?* · §20 asks whether a stranger would know
+what a speaker sounds like · the tail of §9 renumbered to seat the block, 0 dangling references.
+
+**Verified:** md tables PASS · box symmetry PASSED · links 0 broken · **95 rules across 25 sections** ·
+gate PASS.
+
 ## Unreleased — the dialogue standard completed
 
 **§9 of the universal rules was eight rules short of the standard it was supposed to carry.**
 
-- **§9.9 The two ways dialogue dies** — the **stacked block** (six speeches in one slab, no bodies, no
+- **§9.14 The two ways dialogue dies** — the **stacked block** (six speeches in one slab, no bodies, no
   beats) and the **mention** (*"she said that the director had agreed"* — a report of a scene the reader
   was not allowed to attend), each with its cure, plus the third deletion, *"they discussed it."* These
   are the two failures the dialogue standard was written for, and the guide did not name them.
-- **§9.10** — every exchange must move the balance; a conversation that ends where it began is a
+- **§9.15** — every exchange must move the balance; a conversation that ends where it began is a
   transcript of nothing.
-- **§9.11** — the body is in the room: one action beat per exchange (not per line), three jobs it does,
+- **§9.16** — the body is in the room: one action beat per exchange (not per line), three jobs it does,
   and the deletion test.
-- **§9.12** — the share: the **interview** and the **chorus** as opposite failures, and dominance as
+- **§9.17** — the share: the **interview** and the **chorus** as opposite failures, and dominance as
   evidence about power.
-- **§9.13** — a shared post with no name gets a welded classifier, capped and never spoken to a face,
+- **§9.18** — a shared post with no name gets a welded classifier, capped and never spoken to a face,
   with the test that stops it becoming a name.
 - **The dialogue read-back** — six questions before a scene ships.
 
-§9 now runs 13 rules. The document runs **90 rules across 25 sections**.
+90 rules across 25 sections at that point in the record; §9 reached 18 rules and the document 95 in batch 238.
 
 **Verified:** md tables PASS · box symmetry PASSED · links **0 broken** · 0 dangling `§` references ·
 gate PASS.

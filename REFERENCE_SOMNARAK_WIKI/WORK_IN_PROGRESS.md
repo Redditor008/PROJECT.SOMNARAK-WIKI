@@ -99,6 +99,69 @@ dating, the *"four thousand years"* recount. SEIYON remains gated on your sign-o
 
 ---
 
+## Batch 238 — the voice in the dialogue (2026-10-25)
+
+### 1. What you asked
+
+*"what about the things about dialogue that is the vocalization of dialogue you know so it easier to see
+emotion in dialogue"*
+
+### 2. The gap this found
+
+§9 had **volume** (§9.6 — roman, italic, bold) and **lettering** (§9.7 — caps, uneven, shaky, broken).
+It had nothing about **what the voice does to the sentence**, which is where emotion actually lives.
+The marks can make a line quiet. They cannot make it sound like grief.
+
+That is the middle dial, and it was missing. §9.8 now names all three.
+
+### 3. What was added — five rules
+
+| Added | What it settles |
+|---|---|
+| **§9.8 The voice is the third dial** | volume · vocalization · lettering as three independent controls, and the note that the marks cannot carry the middle one |
+| **§9.9 What emotion does to a voice** | the palette — grief flattens, fury slows *and drops*, fear speeds and over-specifies, relief lengthens, shame changes the subject, contempt shortens, exhaustion omits, hope hedges — with two warnings |
+| **§9.10 Stress lands on one word** | the five readings of *"I didn't say that"*, marked once, in italics, rarely |
+| **§9.11 Where the breath is** | the break in the wrong place, the restart as a confession, the breath before the hard word, the word that does not arrive — held by punctuation, not narration |
+| **§9.12 The sound that isn't a word** | the laugh in two pieces, the hum, the swallowed word; describe what the sound did, never spell it; never phonetically spell an accent; and two voices at once as the sharpest form |
+
+### 4. Grounded in the corpus, not invented
+
+Every device in §9.9–§9.12 is already in the archive, unnamed:
+
+- **stress inside a line** — `"The stock is *renewable*. Every cycle produces the same yield."` · `"I have been signing *nothing new* for eighteen hundred years."`
+- **the restart** — `"Seiy— Seiyon. My name is — my name is Seiyon."` · `"D-Dekan. Dekan. Dek— Dekan."`
+- **the failing channel** — `"Director — I — I can't get the second team to ans—"`
+- **flatness as the house voice** — *"flat, level, a sentence with no edges in it"* · *"the flat voice she used for the weather"* · *"the flat voice of a clerk working through a list"*
+- **the laugh recorded as an event** — *"the first time anyone had laughed in the room in four hours"*
+
+The rule now says what the corpus was already doing, which is the point of a standard.
+
+### 5. The two warnings that stop it becoming a tic
+
+**It is a palette, not a checklist.** Applied mechanically, §9.9's table produces eight stock
+characters. The rule underneath is: *find what this person does with their voice when they feel this,
+and let it be slightly wrong.*
+
+**The flat voice is not the absent voice.** Flatness is a *choice* — usually someone refusing to break
+in front of another person. Written deliberately it is the loudest line on the page; written by
+accident it is furniture. **The difference is whether the reader has been shown what the flatness is
+holding.**
+
+### 6. Consequences
+
+- **§21's taxonomy gained its tenth class: "the flat page"** — every speaker at one volume, no breath, no stress, nothing the voice does. Caught by reading aloud.
+- **The dialogue read-back gained a seventh question:** *read it aloud — is the feeling coming from the voice, or from an adverb telling me how to hear?*
+- **§20 question 10** now asks whether a stranger would know what the speaker **sounds like**.
+- **The tail of §9 was renumbered 9.8–9.13 → 9.13–9.18** to seat the block after lettering. Every citation in this log and the changelog updated to the new numbers; 0 dangling references.
+
+### 7. Verified
+
+`check_md_tables` PASS · `text_box_double_checker` PASSED · `check_links` 0 broken · every `§` and
+`§n.n` reference resolves — **0 dangling** · §9 now **18 rules**, the document **95 rules across 25
+sections**, 11,272 words · gate PASS · pushed.
+
+---
+
 ## Batch 237 — the dialogue standard, finished (2026-10-25)
 
 ### 1. What you asked
@@ -117,16 +180,16 @@ with no name.
 
 | Added | What it settles |
 |---|---|
-| **§9.9 The two ways dialogue dies** | the stacked block and the mention compression, each with its cure, plus the third deletion — *"they discussed it"* |
-| **§9.10 Every exchange moves the balance** | a conversation that ends where it began is a transcript of nothing; name what each party wants and who leaves with more |
-| **§9.11 The body is in the room** | the action beat's three jobs, the one-per-exchange cap, and the deletion test |
-| **§9.12 The share — who speaks and who doesn't** | the interview and the chorus as opposite failures; dominance as evidence about power |
-| **§9.13 A shared post, a welded name** | the welded classifier, its four limits, and the test that stops it becoming a name |
+| **§9.14 The two ways dialogue dies** | the stacked block and the mention compression, each with its cure, plus the third deletion — *"they discussed it"* |
+| **§9.15 Every exchange moves the balance** | a conversation that ends where it began is a transcript of nothing; name what each party wants and who leaves with more |
+| **§9.16 The body is in the room** | the action beat's three jobs, the one-per-exchange cap, and the deletion test |
+| **§9.17 The share — who speaks and who doesn't** | the interview and the chorus as opposite failures; dominance as evidence about power |
+| **§9.18 A shared post, a welded name** | the welded classifier, its four limits, and the test that stops it becoming a name |
 | **The dialogue read-back** | six questions before a scene ships |
 
-§9 now runs **13 rules and 199 lines**. 90 rules in the document overall.
+§9 now runs 13 rules at this point in the record; the tail of §9 was renumbered in batch 238, where §9 reached 18. 90 rules in the document at that point.
 
-### 4. Why §9.9 matters most
+### 4. Why §9.14 matters most
 
 The two defects it names are the only two dialogue failures the owner has ever had to report, and both
 were **compressions** — the text did the reader's hearing for them.

@@ -23,9 +23,9 @@ system to a specific project in six steps.
 **What this edition adds** over 1.0: the writing rules are unchanged and now organised into four
 parts that match how work actually gets made — the sentence, the format, the voice, the world's
 ledger. Added: how a telling announces itself (§7), how dialogue is *performed* rather than reported
-(§9.5–9.13), the time contract (§13), names (§14), deaths (§15), turning points (§16), in-world
+(§9.5–9.18), the time contract (§13), names (§14), deaths (§15), turning points (§16), in-world
 citation (§17), number consistency (§18), how to add to a long work without repeating it (§19), and
-the two audits — a twelve-question cold read and a nine-class defect taxonomy (§20–§21). The
+the two audits — a twelve-question cold read and a ten-class defect taxonomy (§20–§21). The
 delivery rules in §0 lost roughly a third of their words and none of their content.
 
 ---
@@ -771,7 +771,109 @@ A page where every line is stylised has no stylisation. Flatness is what makes a
 
 ---
 
-### RULE 9.8: THE LABEL IS A PERSON OR AN OFFICE — NEVER A COSTUME
+### RULE 9.8: THE VOICE IS THE THIRD DIAL
+
+A spoken line has three independent controls, and confusing them is why dialogue reads flat.
+
+| Dial | Controls | Set with |
+|---|---|---|
+| **Volume** | how loud the line is | roman · italic · bold (§9.6) |
+| **Vocalization** | what the voice does to the sentence — stress, breath, restart, the non-word | the writing itself (§9.9–§9.12) |
+| **Lettering** | how the type breaks | caps · uneven · shaky · broken (§9.7) |
+
+**The marks can only carry the first and the third.** Volume without vocalization is a line shouted in a
+vacuum; a broken typeface cannot make a sentence sound like grief. The emotion is in the middle dial,
+and the middle dial is words.
+
+---
+
+### RULE 9.9: WHAT EMOTION DOES TO A VOICE
+
+Emotion is audible before it is nameable. These are the shapes it takes, and almost none of them look
+like the emotion is called.
+
+| The feeling | What the voice does |
+|---|---|
+| **grief** | **flattens.** Short, functional sentences. The ordinary noun for the terrible thing. No image. |
+| **fury** | **slows and sharpens.** Precise words, and the volume *drops* — shouting is what people do when they have lost. |
+| **fear** | speeds up, over-specifies, and does not finish the sentence. Too much information, in the wrong order. |
+| **relief** | the sentence gets **longer**; the voice returns to a register it had abandoned. |
+| **shame** | drops, and **changes the subject** — mid-line, to something small and nearby. |
+| **contempt** | the line gets **shorter than it needs to be.** |
+| **exhaustion** | omits. Articles, names, courtesies. |
+| **hope** | hedges its own grammar — *"might", "if", "probably"* — in a voice that does not normally hedge. |
+
+**Two warnings.**
+
+**It is a palette, not a checklist.** Applied mechanically, this table produces eight stock characters.
+The rule underneath it is the one that matters: *find what this person does with their voice when they
+are feeling this, and let it be slightly wrong.*
+
+**The flat voice is not the absent voice.** Flatness is a **choice** a voice makes — usually a person
+refusing to break in front of someone. Written deliberately, a flat line is the loudest thing on the
+page. Written by accident, it is a page of furniture. **The difference is whether the reader has been
+shown what the flatness is holding.**
+
+---
+
+### RULE 9.10: STRESS LANDS ON ONE WORD
+
+English lets you move the emphasis anywhere in a sentence, and the sentence changes meaning each time.
+The same six words, five different accusations:
+
+> ***I** didn't say that.* — someone else did.
+> *I **didn't** say that.* — you have misheard me.
+> *I didn't **say** that.* — I meant it; I simply never said it.
+> *I didn't say **that**.* — I said something adjacent, and you know it.
+> *I didn't say that **to you**.* — I said it where it would do damage.
+
+**Mark it, once.** The stressed word takes italics inside the line — `"The stock is *renewable*."` — and
+that is the whole device. **Two stressed words in one line means neither is stressed.**
+
+The device is worth using because it is the cheapest way to write subtext (§9.3) that a reader can
+hear. It is worth using *rarely* because a page of italicised words is a page read in a shout.
+
+---
+
+### RULE 9.11: WHERE THE BREATH IS
+
+A calm person breathes where the punctuation is. A person who is not well does not.
+
+- **The break in the wrong place:** *"I'm fine. I'm — I'm fine."*
+- **The restart, which is a confession:** the sentence that begins, stops, and begins again is a person choosing a different sentence. The first one was true. *"Seiy— Seiyon. My name is — my name is Seiyon."*
+- **The breath before the word:** when the hard thing is a single word, the reader should feel the cost of getting to it, not the word.
+- **The word that does not arrive:** a line that stops where the noun should be is stronger than any description of being unable to say it.
+
+Write the breath as **punctuation and broken syntax**, not as narration. *"She paused"* tells the reader
+a pause happened; *"I'm — I'm fine"* makes them hear it. If the pause requires narration, it is the body in the room (§9.16), not a caption.
+
+**Cap it.** One restart per scene. A voice that breaks in every line has no register left to break
+*from*.
+
+---
+
+### RULE 9.12: THE SOUND THAT ISN'T A WORD
+
+Between and around the words: the exhale, the hum of assent, the click of a throat, the laugh that
+arrives in two pieces, the sound of someone deciding not to answer.
+
+**These are the body leaking**, and they frequently carry more than the line does. Two rules keep them
+from becoming noise:
+
+- **Describe what the sound did, never spell how it sounded.** *"The laugh came out in two pieces"* is a
+  sound. *"Hah. Hah."* is a puzzle the reader has to decode. *"Hnnngh"* is not a word in any language.
+- **Do not phonetically spell an accent or a dialect.** *"Wha' d'ye mean"* is caricature, and it slows
+  every reader down to the speed of the spelling. Register does the work: word choice, sentence shape,
+  what the character bothers to say.
+
+**And the sharpest version of the whole section — two voices at once.** The voice says the steady
+thing; the hands are not steady; the sentence is perfectly formed and the person is holding it
+together with both arms. Write the line straight and let the body disagree with it. **That gap is where
+the reader leans in**, and no adverb can build it.
+
+---
+
+### RULE 9.13: THE LABEL IS A PERSON OR AN OFFICE — NEVER A COSTUME
 
 | Form | Label | When |
 |---|---|---|
@@ -786,7 +888,7 @@ A page where every line is stylised has no stylisation. Flatness is what makes a
 
 ---
 
-### RULE 9.9: THE TWO WAYS DIALOGUE DIES
+### RULE 9.14: THE TWO WAYS DIALOGUE DIES
 
 Both are compressions, and both have been found in finished, published work.
 
@@ -809,7 +911,7 @@ matters enough to mention, it matters enough to write. If it does not, cut the m
 
 ---
 
-### RULE 9.10: EVERY EXCHANGE MOVES THE BALANCE
+### RULE 9.15: EVERY EXCHANGE MOVES THE BALANCE
 
 A conversation that ends where it began — same volume, same knowledge, both parties unchanged — is a
 transcript of nothing. Before writing a scene of dialogue, know **what each party wants from the
@@ -826,7 +928,7 @@ The movement can be small — a shift in who is now waiting on whom. It cannot b
 
 ---
 
-### RULE 9.11: THE BODY IS IN THE ROOM
+### RULE 9.16: THE BODY IS IN THE ROOM
 
 Dialogue is not heads talking in a void. Between the lines, a body does something: puts a hand flat on
 the table, caps a pen, looks at its own hand as though the hand had been asked a question.
@@ -842,7 +944,7 @@ the whole temperature of the room, they were the scene.
 
 ---
 
-### RULE 9.12: THE SHARE — WHO SPEAKS, AND WHO DOESN'T
+### RULE 9.17: THE SHARE — WHO SPEAKS, AND WHO DOESN'T
 
 Count who speaks. Two failures, and they are opposites:
 
@@ -859,7 +961,7 @@ the work, the characters are not distinct. The room is.
 
 ---
 
-### RULE 9.13: A SHARED POST, A WELDED NAME
+### RULE 9.18: A SHARED POST, A WELDED NAME
 
 Where an office is held by more than one person and the record gives no name, the title may be welded
 to a bound classifier and set in caps — `[DOCTOR-NAMH]`, `[DOCTOR-YEOH]` — the classifier marking
@@ -887,6 +989,7 @@ classifier — and you have quietly named a person the world deliberately left u
 | 4 | Is any speech summarised that the reader should have **heard**? |
 | 5 | What can a reader **act on** — an offer, a refusal, a price? |
 | 6 | What does the body do between the lines, and does deleting it cost anything? |
+| 7 | **Read it aloud.** Can I hear it — and is the feeling coming from the voice, or from an adverb telling me how to hear? |
 
 ---
 
@@ -1327,7 +1430,7 @@ Twelve questions. An answer you cannot give is a defect, whatever the counts say
 | 7 | Does the frame explain why the telling exists? | eleven interviews and nobody saying why he agreed |
 | 8 | Does any later scene re-tell an ending the work already gave? | §19.2 |
 | 9 | Is anything written twice in different words, and does the second earn it? | a deliberate echo vs. a forgotten repeat |
-| 10 | Would a stranger know who is speaking, where they are, and what year it is? | local knowledge assumed |
+| 10 | Would a stranger know who is speaking, where they are, and **what it sounds like**? | local knowledge assumed; and a flat page (§21) |
 | 11 | Is anything stated that only the author could know? | the shelf in the middle of the world (§17) |
 | 12 | Put it down and summarise it in three sentences. Can you? | a work that does not hold |
 
@@ -1353,6 +1456,7 @@ is why they survive so long.
 | **7. Stacked block** | six speeches in one slab, no body, no beat | read the shape of the page |
 | **8. Shelf reference** | a filename inside the world | read one sentence as an inhabitant |
 | **9. Frame with no motive** | the telling exists because the book exists | ask why the narrator is talking at all |
+| **10. The flat page** | every speaker at the same volume, no breath, no stress, nothing the voice does | read it aloud; if you cannot hear a difference between two characters, there isn't one |
 
 **The maintenance rule:** when a new class of defect is found, it gets **a rule, a check, and an
 entry in the project's log**. A defect that is fixed but not recorded will be reintroduced by the next
@@ -1425,8 +1529,9 @@ The local grammar for names and titles (§14). If names are awarded by an instit
 rule is the setting's rule.
 
 ### STEP 5 — Fix the labels
-How speech is marked (§9.6–9.8, §9.13): the label format, which weights are in use, which lettering
-devices exist and their caps, and how a shared office with no name is labelled.
+How speech is marked: the label format (§9.13), the weights in use (§9.6), the lettering devices
+and their caps (§9.7), what the voice does to a line (§9.8–§9.12), and the label for a shared office
+with no name (§9.18).
 
 ### STEP 6 — Fix the failure list
 Copy §21's table and add the project's own historical defects. Every project develops its own; the
@@ -1459,6 +1564,7 @@ ones that are written down stop recurring.
 | 9 | Does the time, the count, and the name agree with every other place they appear? |
 | 10 | If the character reads it, does the reader read it too? |
 | 11 | Can I tell who is speaking with my eyes shut — and is any of it summarised instead of said? |
+| 12 | Read aloud: is the feeling in the voice, or in an adverb telling me how to hear it? |
 
 ### Before delivering:
 

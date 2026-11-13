@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 237.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 238.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -516,6 +516,7 @@ category and a way of writing** · **`R-55` a file is read once, in order** · *
 | **The reading** | 215 | the owner read the backstories as a reader; Majin's break found and fixed; the missing climax written; a file now has to be read in the order it states |
 | **The person** | 216 | Majin's own page rebuilt: a 365-word classification replaced by a life story, the mishearing given a mechanism, and the present explained by the past |
 | **The names** | 220 | every title marked by what it is; the legend printed in all nine files; the Hand of Change coined where a reader stands in it; and the arithmetic of a 126-year-old man who has lived 1,778 years |
+| **Put the voice in the dialogue** | 238 | §9 could set volume and break type, and could not make a line sound like anything. Added **the third dial** — volume, vocalization, lettering — and the four rules under it: what emotion does to a voice, stress landing on one word, where the breath is, and the sound that isn't a word. All of it was already in the corpus and unnamed. Added the tenth defect class, **the flat page**, and a read-aloud question to the read-back. |
 | **Finish the dialogue standard** | 237 | §9 carried eight dialogue rules and neither of the two failures it exists for. Added the **stacked block** and the **mention compression** as named defects with cures, the balance rule, the body in the room, the share (interview vs. chorus), the welded classifier for a shared office with no name, and a six-question read-back. §9 is now 13 rules; the document is 90 across 25 sections. |
 | **Make the writing rules portable** | 236 | The owner's guideline rewritten as a universal edition: 85 rules, 24 sections, eight parts, no setting. Its own numbering ran backwards and its addendum duplicated its delivery rules; both fixed. Added the ledger half it never had — time, names, deaths, turning points, in-world citation, numbers, extending an existing work — plus a twelve-question cold read, a nine-class defect taxonomy, and a six-step procedure for binding it to any project. §1 and §2 kept by number because four documents and one gate cite them. |
 | **Update the story writing guide** | 235 | The guide was 151 lines and five counts short of true. It taught a **M.A.W. pendant** — a fourth equipment kind that the codex says does not exist — because *quadripartite* counts the four **files** of a set, not four objects. Counts corrected (290 dossiers, 45 codices, 285 M.A.W. sets), two dead pointers repaired, and three sections added: the Echo-Core backstories, how a scene is written here, and the six traps this session found in its own prose. `R-24`'s dangling path fixed. |
