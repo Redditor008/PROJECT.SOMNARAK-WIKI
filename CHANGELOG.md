@@ -2,6 +2,37 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — read as a reader
+
+**Seven things a reader trips on. One of them was written by me last batch.**
+
+- **The file was deathless 63 days too early.** *"a man who could not die could afford to wait"* and *"I
+  have not been able to die since the floor warmed"* both put his immortality before the fusion — while
+  the dossier and the codex say five times that **the M.A.W. fusion** made him deathless, *"a design
+  requirement"*. As written, a reader reaches the fusion and finds the medic warning a man who already
+  cannot die, and the scene loses its cost. Both lines corrected; his answer is now *"I have not been
+  able to stop since the floor warmed"* — the same bitterness, and true.
+- **Two scenes four hours apart were called one hour.** Day 29's debrief is stamped 09:00, *The Catwalk*
+  14:00, and the text said *"one hour later"*.
+- **The frame never said why he agreed to be questioned.** Eleven sessions, forty-one questions, a man
+  who concealed everything for seventeen hundred years — and no reason on the page. Two sentences added,
+  in his own register: he refused everything else that year and came to this room, and never said why.
+- **I repeated his resolution — my own batch 233.** 233 claimed his Archive resolution had no scene.
+  **That was wrong**: *The Public Archive* already staged it (*"I used to think the weight was the
+  proof… it is not the bill. It is the carrying"*). What was really missing was one word — *gift* — and
+  his refusal of it. The new scene is cut from 24 dialogue lines to **14** and now carries only that; its
+  comparison row is rewritten from *"was missing; now restored"* to *half kept, and now whole*.
+- **The officer was a woman, and the file counted her as a man** — *"eighteen men"* where the channel
+  officer is *she* and the same event is *eighteen people* a page earlier.
+- **One night, two counts of what remained** — *seventeen hundred iterations* at the lance, *fifteen
+  hundred* when Day 160 remembers the same night.
+- **A slip that made him ignorant of what he already knew** — *"He learned it… six years later"* two
+  sentences after he worked it out in a season and wrote it on a card. Reversed: the city would learn it
+  six years later and not believe the calendar.
+
+**Verified:** nine auditors PASS · 57 stamps · 29 ledger rows · cast exact (Majin 192, clerk 28) · 395
+dialogue lines, 19 italic, 4 bold, 0 consecutive repeats · gate PASS.
+
 ## Unreleased — the yardstick read backwards
 
 **The dossier is what the extended exists to expand. Turned around, it found his ending missing.**

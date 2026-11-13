@@ -99,98 +99,93 @@ dating, the *"four thousand years"* recount. SEIYON remains gated on your sign-o
 
 ---
 
-## Batch 233 — the yardstick read backwards (2026-10-25)
+## Batch 234 — read as a reader (2026-10-25)
 
 ### 1. What you asked
 
-*"again do another round"*
+*"DO A LOGICAL READING AS IF YOU ARE A READER BOTH ON DOSSIER AND EXTENDED BackStory"*
 
 ### 2. The lens this time
 
-Batches 227–232 all read the extended and asked whether it was true. This round turned the yardstick
-around and asked the opposite question: **the dossier is the record the extended exists to expand, so
-every claim in it must have an answer somewhere in the extended.** `R-57` states it; nobody had ever run
-it in that direction.
-
-**Method.** Every number, quoted line and bold name in the dossier's §Story and §Backstory was extracted
-and searched for in the extended's **story body** (appendix excluded). Most of the returns were noise —
-the dossier's own table labels, and numbers written in words in one file and digits in the other. Three
-things survived the noise, and two of them were real omissions.
+Every earlier pass measured. This one **read**, with a reader's question and not an auditor's: does each
+beat follow from the one before, does a person do a thing for a reason, and does the story keep its own
+promises? Seven things a reader would trip on. One of them was **mine, from the last batch.**
 
 ### 3. What was found
 
-**1. His ending was not in his own backstory.** The dossier's §The Memory Archive — *Stratum Realization
-3*, *"I carry the weight"*, the weight as proof of failure, *"the weight is not a burden — it is a gift"*,
-*he leaves changed rather than lightened* — is his resolution, and it had **no scene**. Worse, the
-**source ledger already cited it**: a claim in the appendix that the body did not keep. That is the
-third time this exact fault shape has appeared in this file (the four steps, the Eight, the pulse), so
-it is now written down as its own class of defect rather than a coincidence.
+**1. The file was deathless in the wrong place — 63 days too early.** Twice the body said his
+deathlessness predates the fusion: *"a man who could not die could afford to wait"* (three nights after
+the Solidification) and *"I have not been able to die since the floor warmed. This just makes it
+official."* Canon is emphatic and says it five ways — the dossier twice (*"It also ended his ability to
+die… it is a design requirement"*, *"The fusion grants functional immortality while the seal holds"*),
+and the codex three times (*"The M.A.W. fusion made them immortal"*, *"immortal — not through technology,
+but through M.A.W. fusion"*). **A reader who believed the file would arrive at the fusion and find the
+whole scene redundant** — the medic warns *"you will not be able to die"* about a man who, on the page,
+already cannot. Both lines corrected: the endurance passage no longer rests on it, and his answer is now
+*"I have not been able to stop since the floor warmed"* — still bitter, still in his voice, and true.
 
-**Written: `The Room — The Weight`** — the tenth monthly session, Year 4,238. He is not restaged into the
-descent, because canon says *"Seiyon enters the Memory Archive alone"* and his Realization *appears
-within* her descent. The floor is built from his ledger; she faces it; **he is its subject, not a
-participant.** So the scene is the telling — nine months of the sheet with one line empty, and the
-sentence given away and taken back:
+**2. Two scenes four hours apart were described as one hour.** The Day 29 debrief is stamped **09:00**;
+*The Catwalk* is stamped **14:00**; the text said *"This record continues one hour later."* Now five.
 
-> *"It is true, and it was the wrong sentence to be true in. A man who says he carries the weight is a
-> man saying the weight is a thing put on him."*
+**3. The frame never said why he was there.** Eleven sessions, forty-one questions, a man who concealed
+everything for seventeen hundred years — and nothing on the page explaining why he agreed. A reader
+either invents a reason or stops believing the frame. Two sentences in *The Room*, in his own register,
+and no reason given beyond the fact that he refused everything else that year and came to this room.
 
-and the harder half, which the dossier does not carry but `THE_SECRETARY.md` does — *his care still
-caused harm when it denied others agency* — put in his own mouth, with no absolution attached: *"It did
-not say that caring had never cost anybody anything. I decided where Seiyon was born. I decided what she
-was told about it."* The change is staged as arithmetic rather than feeling: same weight, same chair,
-one sentence that changed hands.
+**4. I wrote the same resolution twice, last batch.** 233 added *The Room — The Weight* on the finding
+that his Archive resolution had no scene. **That finding was wrong.** *The Public Archive* already staged
+it, in one exchange: *"I used to think the weight was the proof… It is not the bill. It is the
+carrying."* What the file genuinely lacked was smaller and more exact: the dossier's **word**, *gift*, and
+his refusal of it. So the scene is cut from **24 dialogue lines to 14** and now carries only what the
+file did not have. The comparison row that claimed *"was missing; now restored"* has been rewritten to
+say what is actually true — *half kept, and now whole* — and the HOLD row now points at *The Public
+Archive* as the place the arc is staged.
 
-**2. The file called one event by a name that belongs to two.** The dossier says, of the night she died:
-*the founding one, four thousand years earlier, grew the Alpha Tree. **His was not that one.** The same
-substance, a second freezing, and nobody in the building had any word for it but the old word.* The
-extended used **"the Solidification"** from its first stamp onward as though there had only ever been
-one, and kept the distinction in the HOLDs where no reader would meet it. Added at the moment the class
-begins — *"The floor warmed first"* — in four sentences, bold on the sentence that carries it. The
-later passage that repeated *four thousand years … grew the Alpha Tree* at the chamber was trimmed, so
-the fact is stated once and where it is needed.
+**5. The officer was a woman; the file counted her as a man.** *"eighteen men he could not sort into two
+teams of nine"* — in a scene where the officer on the channel is *she*, and the same event is called
+*eighteen people* a page earlier. Now *people*.
 
-**3. The cross-file conflict that fix exposed, now declared.** The dossier says Majin *appears* in
-Stratum Realization 3 and *leaves* changed; the Secretary's file says Seiyon goes in alone. Both are
-keepable and neither was being reconciled out loud. New **HOLD** row: *whether he was inside the Memory
-Archive* — both records quoted, and the reading stated (the floor addresses him in the third person;
-*leaves changed* is the man after the telling, which is the scene just written).
+**6. The same night had two different counts of what was left.** *The Lance*: *"the alternative was
+another seventeen hundred iterations."* At Day 160, remembering that same night: *"another fifteen
+hundred."* One number, two values. Now seventeen hundred in both — it is the fourth iteration, so 1,774
+remain and *seventeen hundred* is the honest rounding.
 
-### 4. Measured and left alone
+**7. A time-slip that made him ignorant of something he already knew.** *"He learned it the way the city
+learned it, six years later, from a calendar"* sits two sentences after he has worked the arithmetic out
+in a season and written it on a card for his desk. Reversed: the city would get the same arithmetic six
+years later and would not believe the calendar.
 
-- **`4,200 years` and `four thousand years` are not a contradiction, and the carried item is closed.**
-  `PROJECT_SOMNARAK.md` § Timeline dates the founding Solidification **234–245**; from Year 4,232 that
-  is 3,987–3,998 years — *four thousand* to the freezing, *4,200* to the city's own age in his mouth.
-  Two objects, two roundings, both true. No edit to either figure.
-- **The dossier's standing days are not gaps.** Days 7, 12, 17, 31, 36, 41, 49, 55, 65, 73, 77, 82, 92,
-  97, 101, 103, 113, 125, 132, 137, 151, 153, 155, 157, 165 and 355 are not restaged in the extended
-  because it is a personnel history and those beats belong to other people's files — which the file
-  already declares in its own validation record. Checked, not assumed: the declaration is accurate.
+### 4. Read and left alone
 
-### 5. The census, again, and for the third time
+- **The dossier needed no edit for logic.** Its Story holds: every day-number is monotonic, every order
+  has a stated reason, and the two things a reader might challenge — that he files her as THE ORIGINAL,
+  and that he asks a clerk to read him invented names — are both given their motive in the scene.
+- **The three places where the file repeats itself by design** — the doorway sentence twice, the
+  *shared* discovery in three registers, the weight in the Archive and again at the ledger — are the
+  spine, not padding. Checked each against the others; only the fourth (the new scene) was redundant.
+- **Willingness sits before two later Room sessions and still reads as an ending**, because it says it
+  does: *"That is where the record would normally end. It does not."*
 
-The validation record's dialogue count was **stale again**: it read 381, measured 405. Batch 231 added
-twenty-four lines and updated nothing. This is the third time a printed count has rotted in this file
-(269 → 381 → 405), and it is now the standing argument for measuring the appendix **last**, after the
-prose is finished. Italics and bold were also re-measured — 19 and 4, unchanged — and *no two
-consecutive lines share a weight* survives, at 0 violations.
+### 5. Auditors
 
-### 6. Auditors
+Nine PASS: scene stamps (57) · md tables · backstory reader · gloss (no new debt) · echo backstory ·
+title register · backstory appearance · world pointer (0 visible) · citations. Cast exact at 17
+(Majin **192**, clerk **28**). 29 ledger rows. Dialogue re-measured: **395** lines, 19 italic, 4 bold,
+0 consecutive repeats. Gate PASS · pushed.
 
-Nine auditors PASS: scene stamps (57 stamps, 51 scenes + 5 divisions + the new one) · md tables ·
-backstory reader · gloss (no new debt) · echo backstory (9 files above floor) · title register ·
-backstory appearance · **dossier world pointer, 0 visible** · citations. Cast exact at 17 speakers
-(Majin 198, clerk 32). Ledger 29 rows, numbered 1–29, 11 piped columns. Gate PASS · pushed.
-
-### 7. What is still open
+### 6. What is still open
 
 The Cheongula sister impossibility at Parts level, the 140-scene stamp debt on 02–09, the Year 4,226 /
-cycle-year 4,232 station dating, the mention-compression audit of the other eight Echo-Core dossiers.
-SEIYON remains gated on your sign-off. **New:** the Memory Archive descent is now staged in *this* file
-only as his telling of it — Seiyon's own file (02) still has no Floor 3 scene, and the descent is
-arguably hers to write.
+cycle-year 4,232 station dating, the mention-compression audit of the other eight dossiers. SEIYON
+remains gated on your sign-off.
 
 ---
+
+## Batch 233 — the yardstick read backwards (2026-10-25)
+
+> **Correction, batch 234.** The claim below that his resolution *had no scene* is **wrong** —
+> *The Public Archive* already staged it. What was actually missing was one word, *gift*, and his
+> refusal of it. The scene added in 233 was cut from 24 lines to 14 in 234 to carry only that.
 
 ## Batch 232 — the dossier points at the world (2026-10-25)
 

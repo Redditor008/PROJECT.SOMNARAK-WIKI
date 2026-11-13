@@ -116,6 +116,8 @@ The Public Record Office is the part of the Public Archive that is not open to t
 
 He comes on the eleventh of each month. He has come eleven times.
 
+Nobody made him. That year he refused the interviews, the commendation and the statement to the Council, and came to this room instead, and never said why.
+
 The clerk has a printed sheet with forty-one questions on it and a column for the answers, and she has been told — twice, by two different people, one of whom is Seiyon — that she is not to interrupt him, not to correct him, and not to ask a question that is not on the sheet. On the third visit she ran out of questions at four in the afternoon and he sat in the chair and waited, and she read the sheet again rather than make one up.
 
 > **[clerk]** "Director. The order says I am to begin wherever the record begins."
@@ -280,7 +282,7 @@ Three nights later he wrote down what *finish* would require, and it came out as
 
 *Contain it.* The field, the seals, the standards, the wards — every wall in the building would date from the year after, and he would sign each one.
 
-*Endure it.* Not a virtue. A holding pattern: a man who could not die could afford to wait, and waiting is cheaper than deciding, and a thing that is endured has not been answered.
+*Endure it.* Not a virtue. A holding pattern: waiting is cheaper than deciding on the day it is chosen, and a thing that is endured has not been answered.
 
 *Accumulate it.* The reserve, at two hundredths of a ton an iteration, entered in a ledger and never once explained in one.
 
@@ -453,7 +455,7 @@ The extraction team looked at the floor.
 
 > **[medic]** "You will not be able to die."
 
-> **[Majin]** "I have not been able to die since the floor warmed. This just makes it official."
+> **[Majin]** "I have not been able to stop since the floor warmed. This just makes it official."
 
 ---
 
@@ -629,7 +631,7 @@ The Tree's indication did not tell him anything new. It told him that the thing 
 
 A Director could requisition. A Director could override a quarantine. A Director could order a district evacuated before the gauges agreed that a district needed evacuating, and if the district was evacuated anyway, the readings could arrive later at their leisure.
 
-He had lost a floor, and the district's certainty that a street was a street, and eighteen men he could not sort into two teams of nine, and four hundred and six people who had come back out of the east quarter and could not be confirmed as the four hundred and six who had gone in. And one researcher with a coat half on, whose coat he had watched go out of a lift door with one sleeve empty.
+He had lost a floor, and the district's certainty that a street was a street, and eighteen people he could not sort into two teams of nine, and four hundred and six people who had come back out of the east quarter and could not be confirmed as the four hundred and six who had gone in. And one researcher with a coat half on, whose coat he had watched go out of a lift door with one sleeve empty.
 
 What he had not lost was the argument.
 
@@ -840,7 +842,7 @@ Then there was the other arithmetic, the one that took a season.
 
 A year inside the field was not a year outside it. The Generator dilated the loop: 1,778 iterations of the year would run while roughly six municipal years passed on the far side of the envelope, and there was no rate he could write down, because the ratio was not fixed and no instrument in the building could measure the outside at all.
 
-He learned it the way the city learned it, six years later, from a calendar.
+The city would get the same arithmetic six years later, from a calendar, and would not believe the calendar.
 
 Which meant, and he wrote this on a card and kept it in the desk: the whole of what he was about to do would happen inside a window the city would experience as a long bad winter. Seventeen hundred years of grief, and the district beyond the field would get six years and never know it had been lived through.
 
@@ -1169,7 +1171,7 @@ Nothing came back over the channel. The recording holds eleven seconds of it. Th
 
 > **STAMP — Cycle 1,778, Day 29, later · 14:00 · Floor 2, the catwalk**
 
-The debrief ends with the order. This record continues one hour later, on the Floor 2 catwalk, where the containment lead and the Director were both recorded by the corridor capture system and neither of them filed a report.
+The debrief ends with the order. This record continues five hours later, on the Floor 2 catwalk, where the containment lead and the Director were both recorded by the corridor capture system and neither of them filed a report.
 
 > **[Dekan]** "You came down."
 
@@ -1589,7 +1591,7 @@ The first report up the stairs was the border. The second was the count.
 
 > **[Seiyon]** "Still there. In the water. In the ground. In the people standing in it."
 
-He nodded. He had known that number since the model. He had run it eleven hundred times on a night when the alternative was another fifteen hundred iterations of the same year, and the model had said the same thing then that it said now: a hand that opens does not empty.
+He nodded. He had known that number since the model. He had run it eleven hundred times on a night when the alternative was another seventeen hundred iterations of the same year, and the model had said the same thing then that it said now: a hand that opens does not empty.
 
 > **[Majin]** "Then we have not finished."
 
@@ -1831,7 +1833,7 @@ The marks had not faded. He had not got any younger. Only the reading had change
 
 > **STAMP — Year 4,238, the tenth month · 10:00 · the Public Record Office**
 
-The tenth month, and one line on the sheet had stayed empty since the first session. She had not known how to ask it, and she had spent nine months deciding that there was no better way than the plain one.
+The tenth month, and one line on the sheet had stayed empty since the first session. She had not known how to ask it, and she had spent nine months deciding there was no better way than the plain one.
 
 > **[clerk]** "The Archive, Director. The descent. What was on the third floor?"
 
@@ -1841,63 +1843,33 @@ He was quiet long enough that she wrote the silence down, and then drew a line t
 
 > **[clerk]** "You were not in the Archive."
 
-> **[Majin]** "No. But it had my ledger. It had seventeen hundred years of my ledger, in my hand, and a written thing does not need the man who wrote it in the room to say what he is made of."
+> **[Majin]** "No. It had my ledger. Seventeen hundred years of my ledger, in my hand, and a written thing does not need the man who wrote it in the room to say what he is made of."
 
 > **[clerk]** "What did it say?"
 
-> **[Majin]** "It said the sentence I have been saying since I was a researcher with ink on my hands."
+> **[Majin]** "The sentence I have been saying since I was a researcher with ink on my hands."
 
 He put his left hand flat on the table and looked at it as though it had been asked a question in a language it did not speak.
 
 > **[Majin]** "I carry the weight."
 
-She wrote it down, and then she asked the thing under it, which the sheet had no line for.
-
 > **[clerk]** "And that is true?"
 
-> **[Majin]** "It is true, and it was the wrong sentence to be true in. A man who says he carries the weight is a man saying the weight is a thing put on him. Something done to him. A wall carries a stain."
+> **[Majin]** "It is true. It is the word the account puts after it that I have never once used."
 
-> **[clerk]** "What did you think it was?"
+> **[clerk]** "Which word?"
 
-> **[Majin]** "For seventeen hundred years it was a verdict. Every name in that ledger was a thing I had failed to prevent, and the carrying was the sentence, and the sentence was just."
+> **[Majin]** "The record calls it a gift."
 
-> **[clerk]** "And now?"
+> **[clerk]** "Is it not one?"
 
-> **[Majin]** "Now the number is the same and it is not a verdict. It is a list of people I have not stopped missing."
+> **[Majin]** "A gift is given. What I have, I built, and it cost what it cost, and I would build it again. That is not the same thing, and the difference matters to whoever reads this after me."
 
-> **[clerk]** "Did it let you off?"
+She wrote the answer down. Then, because the sheet had a column for it and she had been told not to leave a line without one, she asked what she should put.
 
-> **[Majin]** "No. That is the part the record will not like. It said the carrying was proof that I still cared, and it did not say that caring had never cost anybody anything. I decided where Seiyon was born. I decided what she was told about it. I called that protecting her, and it was a decision taken about a person who was not in the room."
-
-He turned the page over and turned it back.
-
-> **[Majin]** "So the floor did not acquit me. It told me the weight was evidence, and then it left the evidence standing."
-
-> **[clerk]** "Evidence of what?"
-
-> **[Majin]** "That the thing still works."
-
-She had one more line. It was the word the account uses, and she had never once heard him say it.
-
-> **[clerk]** "The record calls it a gift."
-
-> **[Majin]** "It is not a word I would choose. A gift is given. What I have, I built, and it cost what it cost, and I would build it again."
-
-He looked at the window, which was the thing he did when the answer was on the other side of the room.
-
-> **[Majin]** "But it is the only place they still are. Every name in it is in me because I would not put it down. If I put it down I would be lighter, and they would be nowhere."
-
-He said the rest of it flatly, the way he said the daily figures.
-
-> **[Majin]** "So it is not a burden. It is the last thing I have of theirs, and it is mine to carry, and I will carry it."
-
-> **[clerk]** "That is the same sentence you said half an hour ago."
-
-> **[Majin]** "It is the same five words. It is not the same sentence."
+> **[Majin]** "Put that it is the last thing I have of theirs. If I put it down I would be lighter, and they would be nowhere."
 
 He did not leave at once, which he had done in every other month. He sat while she finished the line and read it back to herself, and then he stood, and the chair scraped, and he was at the door before she had capped the pen.
-
-He was not lighter. She had watched him for ten months and would have said, if anyone had asked her, that he was the same weight in the same chair. But he had given her the sentence and she had written it down, and it had stopped being a thing done to him and become a thing he had chosen, in a room, out loud, to a clerk, on a form.
 
 ---
 
@@ -1970,7 +1942,7 @@ Then he let her go.
 | 25 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier The Researcher | Yeon-seo | The same afternoon, re-heard | Connective scene |
 | 26 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
 | 27 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
-| 28 | The Room — The Weight | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, Year 4,238, the tenth month | Majin | The sentence he gives away and takes back | Connective scene |
+| 28 | The Room — The Weight | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, Year 4,238, the tenth month | Majin | The one word of the account he refuses | Connective scene |
 | 29 | The Room — The Signature | PRESENT | TPV camera | The clerk of the Public Record Office | Majin | DIALOGUE | Document | C/R | The Room, eleventh month, eleventh day | Yeon-seo | The declaration signed after one reading, and the doorway left open | Connective scene |
 
 ---
@@ -1979,14 +1951,14 @@ Then he let her go.
 
 | Speaker | Kind | Labels used | Bounds |
 |---|---|---|---|
-| **Majin** | Canon; POV bearer in twenty-one of the twenty-nine scenes | `[Majin]` (198) | The whole file |
+| **Majin** | Canon; POV bearer in twenty-one of the twenty-nine scenes | `[Majin]` (192) | The whole file |
 | **Seiyon** | Canon | `[Seiyon]` (84) | The station, from Year 4,226 onward. She appears where a log exists and is absent from the catwalk, because no channel there was recorded. |
 | **Dekan** | Canon | `[Dekan]` (25) | Day 1, Day 29, Day 53. Everything he says is a report, a question, or the wall he is being used as. |
 | **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 | `[Yeon-seo]` (11) | Three scenes: the bench, the doorway, the seal. She is the author of the containment discipline the Directorate later inherits and never credits. |
 | **Marjuk** | Canon | `[Marjuk]` (10) | Day 145 and Floor 6. He answers what the archive is asked and offers no theory about the Founder. |
 | **Insu** | Backstory-only, named in the debrief preamble | `[Insu]` (7) | The Year 4,238 debrief. He was on the table's other side, and he is the one who remembers the word *noted*. |
 | **Zyrak** | Canon | `[Zyrak]` (4) | The manifold room, Day 149. Four lines, all of them about the object she is cutting. |
-| **The clerk of the Public Record Office** | Backstory-only, unnamed; the frame of the whole file | `[clerk]` (32) | The Room, six scenes across eleven monthly sessions. She is the only person in the file who asks him something he has not prepared an answer for, and she does it by accident, from a printed sheet. |
+| **The clerk of the Public Record Office** | Backstory-only, unnamed; the frame of the whole file | `[clerk]` (28) | The Room, six scenes across eleven monthly sessions. She is the only person in the file who asks him something he has not prepared an answer for, and she does it by accident, from a printed sheet. |
 | The containment officer, the east quarter | Backstory-only, unnamed | `[officer]` (7) | The Sovereign and the minutes after the fusion. She delivers the census, the two teams of nine, and the sentence *the east quarter is quiet*. |
 | The registrar, civil register, Zone B | Backstory-only, unnamed | `[registrar]` (5) | The Filing. Sixty, a bad wrist, and a stamp she no longer looks at. She argues him out of a box and loses. |
 | The field engineer | Backstory-only, unnamed | `[engineer]` (5) | The Field and The Directive. Every line is a limit: what it holds, what it does not distinguish, and that there is no other setting. |
@@ -2198,7 +2170,7 @@ This is why the record prints the name and the man does not. The facility knows 
 | Order of selection and fusion | `THE_DIRECTOR.md`: loss → fusion → selection during the Consolihan | `The_REVERIE_DIRECTORATE.md`: selection during the Consolihan; "the M.A.W. fusion happened later" | Dossier order followed; codex reversal recorded, not averaged. |
 | Director's appearance | `THE_DIRECTOR.md`: deep blue eyes; three hooked scars on the upper left; black veins to the wrist and a scythe-shaped mark | Absolvohan Part 1: pale grey eyes; black alloy at temple and cheek; neural cables | **Dossier governs, and is now shown.** The veins, the wrist mark and the three lines are dramatized as they form, in The Fusing, and return in the Consolihan, the manifold room and the ledger. The Part 1 alloy, grey eyes and cables are not used. |
 | Memory across resets | `THE_DIRECTOR.md`: full retained chronology | Absolvohan Part 1: "You lose the marrow" | Unresolved. This file records his refusal to accept the purge as his own reading and asserts no memory loss on his behalf; file 02 quotes the Part 1 line because the Parts govern the spoken scene. Neither account is averaged into the other. |
-| Whether he was inside the Memory Archive | `THE_DIRECTOR.md` § The Memory Archive: he *"appears in Stratum Realization 3"* and *"leaves changed rather than lightened"* | `THE_SECRETARY.md` § Stratum Realizations and § Story — Seiyon's Descent: *"Seiyon enters the Memory Archive alone"*; his Realization *appears within* her descent | **Both kept.** The third floor is built out of his record and is addressed to him in the third person while she faces it; he is its subject, not a participant. *Leaves changed* is read as the man after the telling, which is where **The Room — The Weight** stages it. |
+| Whether he was inside the Memory Archive | `THE_DIRECTOR.md` § The Memory Archive: he *"appears in Stratum Realization 3"* and *"leaves changed rather than lightened"* | `THE_SECRETARY.md` § Stratum Realizations and § Story — Seiyon's Descent: *"Seiyon enters the Memory Archive alone"*; his Realization *appears within* her descent | **Both kept.** The third floor is built out of his record and is addressed to him in the third person while she faces it; he is its subject, not a participant. *Leaves changed* is read as the man after the telling, which is where *The Public Archive* stages it, at the ledger of names. |
 | The size of the reserve | `THE_DIRECTOR.md` § Notes: the archived estimate near 36 tons, and premature 100-ton readings that do not match the chronology | Absolvohan Part 1: 47.300 tons held; this file: 49.88 tons at Day 145, 49.8 released at Day 160 | **Reconciled by cause, not by averaging.** The 0.02-ton rate gives 35.56 over 1,778 iterations, and the dossier's own note supplies the rest, in its own words: *an Abyssal surge could feed the concealed Absolvohan reserve.* The body uses the Part's figure, names Abyssal surges as the source of the surplus, and does not re-derive 36. |
 | Day 160, the Floor 4 report | `Part_8` and `05_AYSHUK`: Ayshuk reports the twelve and the Hand of Hope | This file: Seiyon reports both | **The information is kept; the voice is not.** Ayshuk does not appear in this file, whose channel is the console, so the report is carried by the voice that owns the console. The count, the name and the resonance are unchanged. |
 | The sentence said twice | `THE_DIRECTOR.md` § The Solidification: *"Her last recorded words"* — one saying, at the seal | This file: the doorway on Day −9 and the seal on Day 0 | **Both are hers, and the second is the last.** The dossier's line is honoured as the record's last words; the earlier saying is this file's addition and is flagged here rather than merged into the dossier. |
@@ -2247,7 +2219,7 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 - No Act, Chapter, or Part labels; the five section headings — one prologue record and four parts — are thematic, not structural.
 - Canonical dossier unchanged.
 - Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
-- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 405 dialogue lines, of which 19 are at dropped volume (italic) and 4 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
+- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 395 dialogue lines, of which 19 are at dropped volume (italic) and 4 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ---
 
@@ -2281,7 +2253,7 @@ The dossier is the shorter record and this file is its expanded account, so the 
 | The Maw surfaces the Door's fragment 오누스도, and he is never told | Day 1 — The Word in the Wall; Day 53 | **Was wrong; now corrected.** The file had called the whisper a name he carried before the Directorate. It is not his and nobody explains it to him. |
 | The Maw asks whether the thousand are remembered | Day 53 — What the Wall Remembers | **Was missing; now restored.** The file had the whisper and not the question. |
 | He opens the facility, the gates and the archives | Day 365 — The Ledger of Names; The Public Archive | **Kept, and split from Day 108.** The gates are Day 108's; the facility and the archives are the last year's, which is why the count is 188 days and not 257. |
-| The Archive's third floor: *"I carry the weight"*, the weight as proof of failure, and the resolution that it is a gift | The Room — The Weight | **Was missing; now restored.** The dossier's last beat for him — his Archive Progression — had no scene, while the source ledger already cited it: a promise the file had not kept. Seiyon descends alone in her own file; here he is the *subject* of the floor, and the change happens in the telling. |
+| The Archive's third floor: *"I carry the weight"*, and the word the account puts after it — *gift* | The Room — The Weight | **Half kept, and now whole.** The arc was already on the page — *The Public Archive* stages it on the morning after Day 365 (*"I used to think the weight was the proof… it is not the bill. It is the carrying"*). What the file never carried was the dossier's actual word, *gift*, or his refusal of it. That is now the whole of the tenth session, and it does not re-walk the arc. |
 | Where the record is unsettled: the date, the order, the word | HOLDs; The name she is filed under | **Kept** |
 
 **Nothing is silently changed.** Every divergence is declared in the HOLDs. Across the two comparison passes, four omissions were restored; one forbidden provenance, one cross-file date, one impossible deployment window, four clocks, two counts and one stale line count were corrected. The clocks were the file's own logs disagreeing with its own headers, which is why they are fixed rather than declared. The two calendars and the undated loss are the dossier's own rule, not a gap invented here.
