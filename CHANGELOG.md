@@ -2,6 +2,32 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the writing rules, made portable
+
+**`SOURCE_Unified_Narrative_Writing_Rules_for_AI.md` rewritten as a universal edition: 85 rules, 24
+sections, eight parts, no setting.**
+
+- **Its own numbering walked backwards.** §0 ran 0.1, 0.2, 0.3, 0.5, 0.6, 0.7, **0.13, 0.14, 0.12,
+  0.10, 0.11, 0.8, 0.9, 0.4**. Renumbered in order.
+- **§13 repeated §0.** The 1.1 addendum restated 0.12, 0.13 and 0.14 almost verbatim, and 0.1 twice.
+  The duplicate is gone; the rules are not.
+- **It explained before it specified** — the guide that bans over-explanation opened by explaining
+  screen sizes for a paragraph. §0 lost about a third of its words and none of its content.
+- **It stopped at craft.** New **Part V — The World's Ledger**: the time contract and the stamp, names
+  and costume, deaths that belong to the dying, turning points as scenes, records that cite records
+  and not shelves, number consistency, and how to extend a work that already exists. New **Part VI —
+  The Reader**: a twelve-question cold read and a nine-class defect taxonomy. New **Part VIII** binds
+  the whole thing to any project in six steps.
+- **Knowledge rules promoted.** *No sudden seers*, *no fourth wall* and *if the character reads it the
+  reader reads it* were delivery rules in §0. They are now §12, where a writer can find them.
+
+**Preserved on purpose:** §1 and §2 keep their numbers and their text, because `R-45`, `R-57`,
+`OWNER_DIRECTIVES` and `check_ai_prose.py` cite them by number; all twelve banned constructions are
+verbatim and in order.
+
+**Verified:** md tables PASS · links **0 broken / 5,098 checked** · every `§` reference resolves, 0
+dangling · 85 rule blocks · gate PASS.
+
 ## Unreleased — the story writing guide, brought up to the archive
 
 **The guide had five wrong counts, a dead file pointer, and one piece of equipment that does not exist.**

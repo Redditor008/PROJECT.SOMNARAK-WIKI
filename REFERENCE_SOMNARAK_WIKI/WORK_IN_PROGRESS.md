@@ -99,6 +99,72 @@ dating, the *"four thousand years"* recount. SEIYON remains gated on your sign-o
 
 ---
 
+## Batch 236 — the writing rules, made portable (2026-10-25)
+
+### 1. What you asked
+
+*"I Mean This [Unified-Narrative-Writing-Rules-for-AI-updated] The One You Used On Both Dossier And
+Extended Story But Do It For Neutral Project So I Can Used It Anywhere So Super Update IT"*
+
+### 2. What the file was
+
+`RULES/SOURCE_Unified_Narrative_Writing_Rules_for_AI.md`, 1,158 lines, 7,652 words, last version
+1.0 plus a 1.1 addendum bolted to the end. It was already free of Somnarak words — the problem was
+not contamination. **It was incomplete and it argued with itself.**
+
+### 3. What was wrong, structurally
+
+- **Rule 0 numbered out of order** — 0.1, 0.2, 0.3, 0.5, 0.6, 0.7, **0.13, 0.14, 0.12, 0.10, 0.11, 0.8, 0.9, 0.4.** A reader following the numbering walked backwards through it.
+- **§13 duplicated §0.** The 1.1 addendum restated rules 0.13, 0.14 and 0.12 almost word for word, and 0.1 twice. Two versions of the same rule in one document is how a document starts disagreeing with itself.
+- **No table of contents entry for §0**, and the TOC pointed at sections the body rendered differently.
+- **Over-explanation at the top.** Rule 0.1 spent a paragraph explaining screen sizes before saying anything. The user's own standing complaint — *"OVER EXPLANATION IN THE TOP OF THE FILE"* — was true of the guide itself.
+- **It stopped at craft.** Nothing about time, naming, deaths, numbers, canon, citation, or how to extend a work that already exists — every one of which is a defect class this project has hit repeatedly and written into `R-01`–`R-63`.
+
+### 4. What it is now
+
+**85 rules across 24 sections in eight parts** — Delivery · The Sentence · Format · Voice · The
+World's Ledger · The Reader · Genre · Binding. 8,500 words: about 12% longer than before and
+carrying roughly twice the content, because §0 lost a third of its words and Parts V and VI are new.
+
+**Added, and where each came from:**
+
+| Addition | Source |
+|---|---|
+| **§7 The Four Registers** — filed account · folk telling · transcript · hybrid | `R-46` |
+| **§9.5–9.8** — stack the lines, volume as a mark, lettering with caps, label vs. costume | `R-24`, `R-46` |
+| **§12 Knowledge & Information** — sudden seers, the fourth wall, *if the character reads it the reader reads it*, crossover knowledge | the old 0.13/0.14/0.12, promoted to their own part instead of buried in delivery |
+| **§13 The Time Contract** — the stamp, the joins, one unit one meaning, monotonic by default | `R-62`, and batch 234's "one hour later" |
+| **§14 Names, Titles, and Costume** — earned names, titles never replacing names, no drift | `R-59`, `R-61`, `R-24` |
+| **§15 A Death Belongs to the Dying** — the three-trait test, the hole, no fake legacy | `R-58` |
+| **§16 The Turning Point Is a Scene** | `R-60` |
+| **§17 A Record Cites a Record** — a document points at the world, not the shelf | `R-63` |
+| **§18 Numbers, Counts, and the Sweep** | batch 234's 1,500/1,700 and "eighteen men" |
+| **§19 Adding to a Work That Already Exists** — the yardstick, what the work already did, the backwards leak, the record correction | `R-57` + batch 233's double resolution and batch 234's premature deathlessness |
+| **§20 The Cold Read** — twelve questions, each naming the defect it catches | batch 234's method |
+| **§21 The Defect Taxonomy** — nine classes, with how each is caught | this project's whole error log |
+| **§23 Binding This Document to a Project** — six steps, for any setting | new; this is what makes it usable anywhere |
+
+### 5. Kept deliberately
+
+- **§1 and §2 keep their numbers and their content.** Three documents in this repo cite them by number (`R-45`, `R-57`, `OWNER_DIRECTIVES`) and `check_ai_prose.py` quotes §2's twelve banned constructions. Renumbering those two would have broken every citation and the gate's stated source.
+- **All twelve banned constructions**, unchanged in wording, order and example.
+- **Both scenes' worth of format rules** — novel, narrative, document, narrative document, the seven openers and the seven bans.
+
+### 6. Verified
+
+`check_md_tables` PASS (0 broken blocks) · `check_links` **0 broken across 5,098 links / 2,386 files** ·
+`check_ai_prose` PASS (the gate's own source is still intact) · every `§` reference resolves to a real
+heading — **0 dangling**, checked by script · every `§n.n` sub-reference resolves to a real rule ·
+85 rule blocks present · full gate PASS · pushed.
+
+### 7. A note on the split
+
+The document is deliberately worldless. **World-specific law stays in `R-01`–`R-63`**; this file is
+the craft layer they were all built on, and `§23` is the procedure for binding it to whatever project
+comes next.
+
+---
+
 ## Batch 235 — the story writing guide, brought up to the archive (2026-10-25)
 
 ### 1. What you asked
