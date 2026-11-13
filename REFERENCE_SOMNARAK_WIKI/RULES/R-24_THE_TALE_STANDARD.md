@@ -84,7 +84,7 @@ clearing `tpl.py` and `verify.py` is necessary but not sufficient — Chain of M
 
 This rule has always measured whether the **narration** is this file's own. It did not measure whether a **spoken line** is performed, and a file could pass the whole measure above with every command, whisper and silence set in identical roman text. That is now a defect of the same class as mad-libbed prose: the reader has to reconstruct volume, panic and silence from plot, because the page did not carry them.
 
-The full statement is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1c (weights, marks, beats)** and **§XII.1d (lettering and asymmetry)**. It binds every story-bearing file in the archive, not only the Echo-Core backstories.
+The full statement is `REFERENCE_SOMNARAK_WIKI/OUT_OF_WORLD/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1c (weights, marks, beats)** and **§XII.1d (lettering and asymmetry)**. It binds every story-bearing file in the archive, not only the Echo-Core backstories.
 
 ### Weights
 
@@ -139,7 +139,7 @@ That doctrine, the seven laws of an earned title, the six mixed-name patterns an
 - **Law 5 says the world forgets the name; this rule says the record does not.** In the street a titled citizen is addressed by the title. On the page the label follows what the corpus holds. The gap between those two facts is what the strike test is for.
 - **No glory titles.** The city names people after what it cost them. A triumphant epithet on a suffering character is a misreading of the world, not a flourish.
 
-The full statement, with the worked examples and the hard limits, is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1e** (name, rank, form of address), **§XII.1f** (composite titles) and **§XII.1g** (the Somnarak rule).
+The full statement, with the worked examples and the hard limits, is `REFERENCE_SOMNARAK_WIKI/OUT_OF_WORLD/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1e** (name, rank, form of address), **§XII.1f** (composite titles) and **§XII.1g** (the Somnarak rule).
 
 ### Measured, not asserted
 

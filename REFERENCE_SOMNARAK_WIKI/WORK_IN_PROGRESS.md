@@ -99,6 +99,73 @@ dating, the *"four thousand years"* recount. SEIYON remains gated on your sign-o
 
 ---
 
+## Batch 235 — the story writing guide, brought up to the archive (2026-10-25)
+
+### 1. What you asked
+
+*"Can You Update The Story Writing Guide And Link It For Me So I Can Download It From Github"*
+
+### 2. What the guide was
+
+`REFERENCE_SOMNARAK_WIKI/GUIDES/README_STORY_REFERENCE_GUIDE.md`, 151 lines, last substantively touched
+before the Echo-Core work. `CANON/INTEGRITY_AND_LORE_REVIEW.md` `V7-4` had already logged it as still
+stale and never closed the item. **Five of its counts were wrong and one of its laws does not exist.**
+
+### 3. What was wrong, measured
+
+| Claim in the guide | Reality | How it was checked |
+|---|---|---|
+| "301 Sorrow Entity dossiers" | **290** | `ls SOMNARAK-WORLD/Sorrow_Entities/SE-*.md` |
+| "the 292 canonical files" | **290** | same; agrees with `CANONICAL_METRICS.md` |
+| "47 Master Codices" | **45** | `find SOMNARAK-WORLD/Master_Codices -name '*.md'` |
+| "198 quadripartite MAW armory sets" | **285 sets, 279 complete** | set-ID parse of `SE-…-A/B/C/D__` |
+| "Scenarios 01-06", `SCENARIO_01_TO_06.md` | no such file; 01 is `CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md`, then 02–06 | `ls GAME_BATTLE/` |
+| `SOMNARAK_SECTOR_WINGS_ARCHITECTURE.md` | **does not exist**; sectors live in `The_REVERIE_DIRECTORATE.md` | `find` — the guide was its only citation |
+| Equipment **"Quadrilogy"** with a fourth kind, **Pendant / Token (`MAW-P`)** | **three kinds.** Weapon, Suit, Stigma — *"no set has a fourth kind"* (`SOMNARAK_MAW_CODEX.md`). The fourth **file** of a set is the Side Codex (`SE-…-A`) | file-name parse: 286 W, 286 S, 286 G, **0 P** |
+| "Five Zone Corporations" | the corpus says **Five Sovereign Institutions** (the Wings) | `Zone Corporation` ×3 in 2 files vs `Five Sovereign Institutions` throughout |
+
+The last one is the serious one. A writer following the guide would have issued a M.A.W. **pendant**
+that nothing in the archive can produce — the four-part set is four *files*, not four *objects*.
+
+### 4. What was added
+
+The guide described the archive but never said how its stories are written, and never mentioned the
+files the last forty batches were about.
+
+- **§2F — Echo-Cores & the Extended Backstory.** Nine core dossiers, nine extended backstories, the
+  governing structure standard, and `R-57`'s working law that the dossier is the yardstick.
+- **§4 — How a Scene Is Written Here.** The four registers (`R-46`) as a table; dialogue performed
+  rather than reported (`R-24`: three weights, five lettering devices with caps, stack every line,
+  the strike test for titles); the stamp (`R-62`) and the rule that **prose time must agree with the
+  stamps it sits between**; a death belongs to the dying and a turning point is a scene (`R-58`, `R-60`).
+- **§4.5 — The reader's test, six traps.** Every one of them is a defect this session found in its
+  own work: the premature deathlessness, the one-hour gap that was five, the same night counted twice
+  at different numbers, eighteen men among a woman officer's squad, a late scene re-telling an ending
+  the file already had, and a dossier citing a shelf instead of a record.
+- All counts corrected to what the repository contains; the archive-package link points at the real
+  zip in `ARCHIVE/artifacts/`.
+
+### 5. One repair outside the guide
+
+`R-24` cited the extended-backstory structure standard twice at
+`SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_…`, **a path that does not exist**. The file lives at
+`REFERENCE_SOMNARAK_WIKI/OUT_OF_WORLD/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`. Both citations
+corrected; the guide's new §2F points at the same, real file.
+
+### 6. Verified
+
+`check_box_symmetry` **PASSED** (100%, both boxes held at 74 columns) · `check_md_tables` PASS ·
+`check_links` **0 broken** · full gate PASS · pushed.
+
+### 7. Opened, not closed
+
+**The M.A.W. set count is a live contradiction.** `tools/generate_canonical_metrics_registry.py:78` and
+`:129` **hard-code** "198 / 198 complete quadripartite sets"; the tree holds **285 set IDs, 279 complete**.
+The guide now states the measured figure. The generator is next — it is typed, not counted, and it will
+keep re-asserting 198 every time metrics regenerate.
+
+---
+
 ## Batch 234 — read as a reader (2026-10-25)
 
 ### 1. What you asked

@@ -2,6 +2,36 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the story writing guide, brought up to the archive
+
+**The guide had five wrong counts, a dead file pointer, and one piece of equipment that does not exist.**
+
+- **It taught a M.A.W. *pendant*.** The guide described a "quadripartite" set as four kinds of
+  equipment — Weapon, Suit, Stigma and a **Pendant / Token (`MAW-P`)**. There is no `MAW-P` anywhere in
+  the tree: 286 weapons, 286 suits, 286 stigmas, zero pendants, and the codex is explicit — *"Three is
+  the number of kinds ... no set has a fourth kind."* The four parts are four **files**: the Side Codex
+  (`SE-…-A`) plus the three pieces. A writer following the old text would have issued equipment the
+  facility cannot produce.
+- **Counts corrected to what the tree holds.** 301 dossiers → **290**; "292 canonical files" → **290**;
+  47 Master Codices → **45**; 198 M.A.W. sets → **285 sets, 279 complete**.
+- **Two pointers repaired.** `SOMNARAK_SECTOR_WINGS_ARCHITECTURE.md` does not exist — sector topography
+  lives in `The_REVERIE_DIRECTORATE.md`. `SCENARIO_01_TO_06.md` does not exist either: encounter 01 is
+  `CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md`, then `SCENARIO_02`–`06`.
+- **"Five Zone Corporations" → the Five Sovereign Institutions**, which is what the corpus calls them.
+- **Three sections added.** §2F indexes the nine Echo-Core dossiers and the nine extended backstories,
+  with the structure standard and `R-57`'s yardstick law. §4 states how a scene is written here — the
+  four registers, dialogue performed rather than reported, the stamp, a death that belongs to the dying.
+  §4.5 lists the six traps this session caught in its own work, so the next writer does not have to
+  rediscover them.
+- **`R-24` cited a path that does not exist.** Both references to the extended-backstory structure
+  standard pointed into `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/`; the file is in
+  `REFERENCE_SOMNARAK_WIKI/OUT_OF_WORLD/`. Corrected.
+
+**Verified:** box symmetry PASSED (74 columns, both boxes) · md tables PASS · links 0 broken · gate PASS.
+
+**Opened:** `generate_canonical_metrics_registry.py` **hard-codes** "198 / 198 complete quadripartite
+sets" — the tree holds 285. Typed, not counted; to be fixed with the generator.
+
 ## Unreleased — read as a reader
 
 **Seven things a reader trips on. One of them was written by me last batch.**
