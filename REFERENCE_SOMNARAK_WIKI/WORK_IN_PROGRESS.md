@@ -99,6 +99,53 @@ dating, the *"four thousand years"* recount. SEIYON remains gated on your sign-o
 
 ---
 
+## Batch 237 — the dialogue standard, finished (2026-10-25)
+
+### 1. What you asked
+
+*"You Also Update It With Rule On Dialogue Stuff Right"*
+
+### 2. The honest answer at the time
+
+**Partly.** §9 carried eight rules — no paragraphs, invisible tags, subtext, interruption, stacked
+lines, volume as a mark, lettering with caps, label vs. costume. It did **not** carry the two failures
+that produced `R-24` in the first place: the **stacked block** and the **mention compression** — the
+owner's own two complaints, word for word, from batches 231. It also had nothing on a shared office
+with no name.
+
+### 3. Five rules added, and one read-back
+
+| Added | What it settles |
+|---|---|
+| **§9.9 The two ways dialogue dies** | the stacked block and the mention compression, each with its cure, plus the third deletion — *"they discussed it"* |
+| **§9.10 Every exchange moves the balance** | a conversation that ends where it began is a transcript of nothing; name what each party wants and who leaves with more |
+| **§9.11 The body is in the room** | the action beat's three jobs, the one-per-exchange cap, and the deletion test |
+| **§9.12 The share — who speaks and who doesn't** | the interview and the chorus as opposite failures; dominance as evidence about power |
+| **§9.13 A shared post, a welded name** | the welded classifier, its four limits, and the test that stops it becoming a name |
+| **The dialogue read-back** | six questions before a scene ships |
+
+§9 now runs **13 rules and 199 lines**. 90 rules in the document overall.
+
+### 4. Why §9.9 matters most
+
+The two defects it names are the only two dialogue failures the owner has ever had to report, and both
+were **compressions** — the text did the reader's hearing for them.
+
+- The **stacked block** compresses bodies out of a conversation. Nobody can see who is winning.
+- The **mention** compresses voices out of a conversation. *"She said that the director had agreed and
+  asked whether it would be filed"* is a report **of** a scene, not a scene.
+
+Both read fine, one line at a time. That is why they survived every measurement and only fell to a
+reader.
+
+### 5. Verified
+
+`check_md_tables` PASS · `text_box_double_checker` PASSED · `check_links` **0 broken** · every `§` and
+every `§n.n` reference resolves — **0 dangling**, checked by script · 25 sections, 90 rules · gate
+PASS · pushed.
+
+---
+
 ## Batch 236 — the writing rules, made portable (2026-10-25)
 
 ### 1. What you asked

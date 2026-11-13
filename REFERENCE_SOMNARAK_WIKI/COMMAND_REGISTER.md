@@ -6,7 +6,7 @@ the **standing orders** — the ones that became permanent law. This file holds 
 the reformations, the sweeps, the audits, and the one-off corrections, indexed so that no command
 lives only in a chat log.
 
-**Batches run 1 to 236.** The numbered record is complete from batch 52; batches 1–51 are recorded
+**Batches run 1 to 237.** The numbered record is complete from batch 52; batches 1–51 are recorded
 by subject in `WORK_IN_PROGRESS_VOL_01.md`, `VOL_02.md` and the earliest `CHANGELOG` entries, before
 numbering settled.
 
@@ -516,6 +516,7 @@ category and a way of writing** · **`R-55` a file is read once, in order** · *
 | **The reading** | 215 | the owner read the backstories as a reader; Majin's break found and fixed; the missing climax written; a file now has to be read in the order it states |
 | **The person** | 216 | Majin's own page rebuilt: a 365-word classification replaced by a life story, the mishearing given a mechanism, and the present explained by the past |
 | **The names** | 220 | every title marked by what it is; the legend printed in all nine files; the Hand of Change coined where a reader stands in it; and the arithmetic of a 126-year-old man who has lived 1,778 years |
+| **Finish the dialogue standard** | 237 | §9 carried eight dialogue rules and neither of the two failures it exists for. Added the **stacked block** and the **mention compression** as named defects with cures, the balance rule, the body in the room, the share (interview vs. chorus), the welded classifier for a shared office with no name, and a six-question read-back. §9 is now 13 rules; the document is 90 across 25 sections. |
 | **Make the writing rules portable** | 236 | The owner's guideline rewritten as a universal edition: 85 rules, 24 sections, eight parts, no setting. Its own numbering ran backwards and its addendum duplicated its delivery rules; both fixed. Added the ledger half it never had — time, names, deaths, turning points, in-world citation, numbers, extending an existing work — plus a twelve-question cold read, a nine-class defect taxonomy, and a six-step procedure for binding it to any project. §1 and §2 kept by number because four documents and one gate cite them. |
 | **Update the story writing guide** | 235 | The guide was 151 lines and five counts short of true. It taught a **M.A.W. pendant** — a fourth equipment kind that the codex says does not exist — because *quadripartite* counts the four **files** of a set, not four objects. Counts corrected (290 dossiers, 45 codices, 285 M.A.W. sets), two dead pointers repaired, and three sections added: the Echo-Core backstories, how a scene is written here, and the six traps this session found in its own prose. `R-24`'s dangling path fixed. |
 | **Read as a reader** | 234 | not measured — read. His deathlessness was dated **63 days early**, before the fusion that canon says made him immortal, so the fusion scene warned a man who already could not die. A Day 29 debrief stamped 09:00 and a catwalk stamped 14:00 were called *one hour apart*. The frame never said **why he submitted to forty-one questions**. And 233's own new scene re-told a resolution *The Public Archive* already carried — cut from 24 dialogue lines to 14, and the comparison row corrected. |

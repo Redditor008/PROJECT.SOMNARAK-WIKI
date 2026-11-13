@@ -2,6 +2,29 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the dialogue standard completed
+
+**§9 of the universal rules was eight rules short of the standard it was supposed to carry.**
+
+- **§9.9 The two ways dialogue dies** — the **stacked block** (six speeches in one slab, no bodies, no
+  beats) and the **mention** (*"she said that the director had agreed"* — a report of a scene the reader
+  was not allowed to attend), each with its cure, plus the third deletion, *"they discussed it."* These
+  are the two failures the dialogue standard was written for, and the guide did not name them.
+- **§9.10** — every exchange must move the balance; a conversation that ends where it began is a
+  transcript of nothing.
+- **§9.11** — the body is in the room: one action beat per exchange (not per line), three jobs it does,
+  and the deletion test.
+- **§9.12** — the share: the **interview** and the **chorus** as opposite failures, and dominance as
+  evidence about power.
+- **§9.13** — a shared post with no name gets a welded classifier, capped and never spoken to a face,
+  with the test that stops it becoming a name.
+- **The dialogue read-back** — six questions before a scene ships.
+
+§9 now runs 13 rules. The document runs **90 rules across 25 sections**.
+
+**Verified:** md tables PASS · box symmetry PASSED · links **0 broken** · 0 dangling `§` references ·
+gate PASS.
+
 ## Unreleased — the writing rules, made portable
 
 **`SOURCE_Unified_Narrative_Writing_Rules_for_AI.md` rewritten as a universal edition: 85 rules, 24

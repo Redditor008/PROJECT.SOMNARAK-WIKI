@@ -23,7 +23,7 @@ system to a specific project in six steps.
 **What this edition adds** over 1.0: the writing rules are unchanged and now organised into four
 parts that match how work actually gets made — the sentence, the format, the voice, the world's
 ledger. Added: how a telling announces itself (§7), how dialogue is *performed* rather than reported
-(§9.5–9.8), the time contract (§13), names (§14), deaths (§15), turning points (§16), in-world
+(§9.5–9.13), the time contract (§13), names (§14), deaths (§15), turning points (§16), in-world
 citation (§17), number consistency (§18), how to add to a long work without repeating it (§19), and
 the two audits — a twelve-question cold read and a nine-class defect taxonomy (§20–§21). The
 delivery rules in §0 lost roughly a third of their words and none of their content.
@@ -786,6 +786,110 @@ A page where every line is stylised has no stylisation. Flatness is what makes a
 
 ---
 
+### RULE 9.9: THE TWO WAYS DIALOGUE DIES
+
+Both are compressions, and both have been found in finished, published work.
+
+**1. The stacked block.** Six speeches in one slab — no bodies, no beats, no silence, no interruption,
+no room. Nobody can tell who is winning, because nobody can see anyone. **The cure:** one speaker, one
+line, one paragraph, and something between them.
+
+**2. The mention.** Speech folded into narration:
+
+> *She said that the director had agreed, and asked whether it would be filed.*
+
+The reader is told that a conversation happened. They were not allowed to attend it. **The cure:** if
+two people are in a room and one of them says something, the reader hears it said.
+
+**The test:** read the page and count the lines a reader could *act* — could answer, refuse, wince at.
+If a character's line can only be summarised, you summarised a line that should exist.
+
+**And the third, which is not a compression but a deletion:** *they discussed it.* If the discussion
+matters enough to mention, it matters enough to write. If it does not, cut the mention too.
+
+---
+
+### RULE 9.10: EVERY EXCHANGE MOVES THE BALANCE
+
+A conversation that ends where it began — same volume, same knowledge, both parties unchanged — is a
+transcript of nothing. Before writing a scene of dialogue, know **what each party wants from the
+other**, and which of them leaves with more than they came in with.
+
+Something must move:
+
+- someone concedes, or refuses and the refusal costs them
+- an offer is made, refused, or left hanging somewhere it hurts
+- a lie is planted that will have to be serviced later
+- information changes hands and a price is extracted
+
+The movement can be small — a shift in who is now waiting on whom. It cannot be nothing.
+
+---
+
+### RULE 9.11: THE BODY IS IN THE ROOM
+
+Dialogue is not heads talking in a void. Between the lines, a body does something: puts a hand flat on
+the table, caps a pen, looks at its own hand as though the hand had been asked a question.
+
+The beat does three jobs: it **times the silence**, it **shows what the speaker will not say**, and it
+lets the reader *see* a person instead of only hearing one.
+
+**But restraint.** One action beat per exchange, not one per line. A page where every line carries a
+gesture reads as stage direction, and stage direction is a script, not a story.
+
+**The test:** delete every action beat. If the scene loses nothing, they were decoration. If it loses
+the whole temperature of the room, they were the scene.
+
+---
+
+### RULE 9.12: THE SHARE — WHO SPEAKS, AND WHO DOESN'T
+
+Count who speaks. Two failures, and they are opposites:
+
+| Failure | Looks like | Why it fails |
+|---|---|---|
+| **The interview** | one character asks six words, the other delivers four paragraphs | fine for one scene; over a chapter the questioner is furniture with a microphone |
+| **The chorus** | everyone speaks equally, in the same register | if everyone has a turn, nobody has a position |
+
+Every scene has a **dominant** speaker, and who dominates is evidence about power. The one who says
+least in the room often decides what the room is about — **if the writer lets them.**
+
+**The test:** block out who speaks, scene by scene. If the pattern is identical all the way through
+the work, the characters are not distinct. The room is.
+
+---
+
+### RULE 9.13: A SHARED POST, A WELDED NAME
+
+Where an office is held by more than one person and the record gives no name, the title may be welded
+to a bound classifier and set in caps — `[DOCTOR-NAMH]`, `[DOCTOR-YEOH]` — the classifier marking
+*which* holder, never standing in for a given name.
+
+Four rules keep it a system instead of an ornament:
+
+- the classifier **never stands alone**, and is **never spoken to the speaker's face**
+- the welded form lives in **labels only** — never in narration
+- a **unique** office needs no classifier
+- a record that files no sex writes the **office alone**
+
+**The test:** if a reader could mistake the welded form for somebody's name, it is a name and not a
+classifier — and you have quietly named a person the world deliberately left unnamed.
+
+---
+
+### THE DIALOGUE READ-BACK — six questions before the scene ships
+
+| # | Question |
+|---|---|
+| 1 | With my eyes shut, can I tell who is speaking? |
+| 2 | At what volume — and is the volume **marked**, or explained in an adverb? |
+| 3 | Does every line get a paragraph of its own? |
+| 4 | Is any speech summarised that the reader should have **heard**? |
+| 5 | What can a reader **act on** — an offer, a refusal, a price? |
+| 6 | What does the body do between the lines, and does deleting it cost anything? |
+
+---
+
 ## §10 EMOTION & ATMOSPHERE
 
 ### RULE 10.1: EMOTION IS BEHAVIOUR
@@ -1321,8 +1425,8 @@ The local grammar for names and titles (§14). If names are awarded by an instit
 rule is the setting's rule.
 
 ### STEP 5 — Fix the labels
-How speech is marked (§9.6–9.8): the label format, which weights are in use, which lettering devices
-exist, and their caps.
+How speech is marked (§9.6–9.8, §9.13): the label format, which weights are in use, which lettering
+devices exist and their caps, and how a shared office with no name is labelled.
 
 ### STEP 6 — Fix the failure list
 Copy §21's table and add the project's own historical defects. Every project develops its own; the
@@ -1354,6 +1458,7 @@ ones that are written down stop recurring.
 | 8 | Is anyone about to know something they have not learned? |
 | 9 | Does the time, the count, and the name agree with every other place they appear? |
 | 10 | If the character reads it, does the reader read it too? |
+| 11 | Can I tell who is speaking with my eyes shut — and is any of it summarised instead of said? |
 
 ### Before delivering:
 
