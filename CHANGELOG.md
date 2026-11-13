@@ -2,6 +2,33 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the yardstick read backwards
+
+**The dossier is what the extended exists to expand. Turned around, it found his ending missing.**
+
+- **His resolution had no scene.** The dossier's §The Memory Archive — Stratum Realization 3, *"I carry
+  the weight"*, the weight as proof of failure, *"not a burden — a gift"*, changed rather than lightened —
+  was absent from the extended, while the **source ledger already cited it**. Written as **The Room — The
+  Weight**, the tenth session, Year 4,238: nine months of the sheet with one line empty, the sentence
+  given away and taken back, and the harder half the dossier omits but `THE_SECRETARY.md` carries — that
+  his care still cost people their agency, said in his own mouth with no absolution attached.
+- **He is not put inside the descent.** Canon says Seiyon enters the Archive alone and his Realization
+  *appears within* her descent, so the scene is the telling, not the battle. The new HOLD row declares
+  the cross-file tension instead of quietly resolving it.
+- **The file used one name for two events.** The dossier: *the founding one grew the Alpha Tree… **His was
+  not that one.** The same substance, a second freezing.* The extended said "the Solidification" from its
+  first stamp as though there had only been one, keeping the distinction in the HOLDs where no reader
+  meets it. Now stated where the class begins, in four sentences.
+- **The dialogue census was stale again — the third time.** 381 printed, **405** measured; batch 231 added
+  twenty-four lines and updated nothing. Italics 19 and bold 4 re-measured unchanged; *no two consecutive
+  lines share a weight* still holds at 0 violations.
+- **`4,200 years` vs `four thousand years` is closed, not fixed.** `PROJECT_SOMNARAK.md` dates the
+  founding Solidification 234–245; from Year 4,232 that is ~3,990 years to the freezing and ~4,200 to the
+  city's age. Two objects, two roundings, both true.
+
+**Verified:** nine auditors PASS · 57 stamps · 29 ledger rows numbered 1–29, 11 columns, every row piped ·
+cast exact at 17 (Majin 198, clerk 32) · 0 visible out-of-world pointers · gate PASS.
+
 ## Unreleased — the dossier points at the world
 
 **A record may cite a record, never a shelf. Four leaks, and a new gate with a zero ceiling.**

@@ -99,6 +99,99 @@ dating, the *"four thousand years"* recount. SEIYON remains gated on your sign-o
 
 ---
 
+## Batch 233 — the yardstick read backwards (2026-10-25)
+
+### 1. What you asked
+
+*"again do another round"*
+
+### 2. The lens this time
+
+Batches 227–232 all read the extended and asked whether it was true. This round turned the yardstick
+around and asked the opposite question: **the dossier is the record the extended exists to expand, so
+every claim in it must have an answer somewhere in the extended.** `R-57` states it; nobody had ever run
+it in that direction.
+
+**Method.** Every number, quoted line and bold name in the dossier's §Story and §Backstory was extracted
+and searched for in the extended's **story body** (appendix excluded). Most of the returns were noise —
+the dossier's own table labels, and numbers written in words in one file and digits in the other. Three
+things survived the noise, and two of them were real omissions.
+
+### 3. What was found
+
+**1. His ending was not in his own backstory.** The dossier's §The Memory Archive — *Stratum Realization
+3*, *"I carry the weight"*, the weight as proof of failure, *"the weight is not a burden — it is a gift"*,
+*he leaves changed rather than lightened* — is his resolution, and it had **no scene**. Worse, the
+**source ledger already cited it**: a claim in the appendix that the body did not keep. That is the
+third time this exact fault shape has appeared in this file (the four steps, the Eight, the pulse), so
+it is now written down as its own class of defect rather than a coincidence.
+
+**Written: `The Room — The Weight`** — the tenth monthly session, Year 4,238. He is not restaged into the
+descent, because canon says *"Seiyon enters the Memory Archive alone"* and his Realization *appears
+within* her descent. The floor is built from his ledger; she faces it; **he is its subject, not a
+participant.** So the scene is the telling — nine months of the sheet with one line empty, and the
+sentence given away and taken back:
+
+> *"It is true, and it was the wrong sentence to be true in. A man who says he carries the weight is a
+> man saying the weight is a thing put on him."*
+
+and the harder half, which the dossier does not carry but `THE_SECRETARY.md` does — *his care still
+caused harm when it denied others agency* — put in his own mouth, with no absolution attached: *"It did
+not say that caring had never cost anybody anything. I decided where Seiyon was born. I decided what she
+was told about it."* The change is staged as arithmetic rather than feeling: same weight, same chair,
+one sentence that changed hands.
+
+**2. The file called one event by a name that belongs to two.** The dossier says, of the night she died:
+*the founding one, four thousand years earlier, grew the Alpha Tree. **His was not that one.** The same
+substance, a second freezing, and nobody in the building had any word for it but the old word.* The
+extended used **"the Solidification"** from its first stamp onward as though there had only ever been
+one, and kept the distinction in the HOLDs where no reader would meet it. Added at the moment the class
+begins — *"The floor warmed first"* — in four sentences, bold on the sentence that carries it. The
+later passage that repeated *four thousand years … grew the Alpha Tree* at the chamber was trimmed, so
+the fact is stated once and where it is needed.
+
+**3. The cross-file conflict that fix exposed, now declared.** The dossier says Majin *appears* in
+Stratum Realization 3 and *leaves* changed; the Secretary's file says Seiyon goes in alone. Both are
+keepable and neither was being reconciled out loud. New **HOLD** row: *whether he was inside the Memory
+Archive* — both records quoted, and the reading stated (the floor addresses him in the third person;
+*leaves changed* is the man after the telling, which is the scene just written).
+
+### 4. Measured and left alone
+
+- **`4,200 years` and `four thousand years` are not a contradiction, and the carried item is closed.**
+  `PROJECT_SOMNARAK.md` § Timeline dates the founding Solidification **234–245**; from Year 4,232 that
+  is 3,987–3,998 years — *four thousand* to the freezing, *4,200* to the city's own age in his mouth.
+  Two objects, two roundings, both true. No edit to either figure.
+- **The dossier's standing days are not gaps.** Days 7, 12, 17, 31, 36, 41, 49, 55, 65, 73, 77, 82, 92,
+  97, 101, 103, 113, 125, 132, 137, 151, 153, 155, 157, 165 and 355 are not restaged in the extended
+  because it is a personnel history and those beats belong to other people's files — which the file
+  already declares in its own validation record. Checked, not assumed: the declaration is accurate.
+
+### 5. The census, again, and for the third time
+
+The validation record's dialogue count was **stale again**: it read 381, measured 405. Batch 231 added
+twenty-four lines and updated nothing. This is the third time a printed count has rotted in this file
+(269 → 381 → 405), and it is now the standing argument for measuring the appendix **last**, after the
+prose is finished. Italics and bold were also re-measured — 19 and 4, unchanged — and *no two
+consecutive lines share a weight* survives, at 0 violations.
+
+### 6. Auditors
+
+Nine auditors PASS: scene stamps (57 stamps, 51 scenes + 5 divisions + the new one) · md tables ·
+backstory reader · gloss (no new debt) · echo backstory (9 files above floor) · title register ·
+backstory appearance · **dossier world pointer, 0 visible** · citations. Cast exact at 17 speakers
+(Majin 198, clerk 32). Ledger 29 rows, numbered 1–29, 11 piped columns. Gate PASS · pushed.
+
+### 7. What is still open
+
+The Cheongula sister impossibility at Parts level, the 140-scene stamp debt on 02–09, the Year 4,226 /
+cycle-year 4,232 station dating, the mention-compression audit of the other eight Echo-Core dossiers.
+SEIYON remains gated on your sign-off. **New:** the Memory Archive descent is now staged in *this* file
+only as his telling of it — Seiyon's own file (02) still has no Floor 3 scene, and the descent is
+arguably hers to write.
+
+---
+
 ## Batch 232 — the dossier points at the world (2026-10-25)
 
 ### 1. What you asked
