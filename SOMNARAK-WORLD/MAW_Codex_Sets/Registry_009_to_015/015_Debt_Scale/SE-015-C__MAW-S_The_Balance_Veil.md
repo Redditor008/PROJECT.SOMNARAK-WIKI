@@ -55,14 +55,3 @@ A Balance Veil was issued to a court observer during a mass debt audit. The obse
 ## SET RESONANCE
 
 With Lens and Pendant, Separate Account lets two consenting parties compare their burdens without either person receiving the other’s full emotional impact until the reading is complete.
-
----
-
-**Document ID:** `SE-015-C`  
-**Linked Entity:** `SE-015`  
-**Item Registry Code:** `MAW-S-015-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

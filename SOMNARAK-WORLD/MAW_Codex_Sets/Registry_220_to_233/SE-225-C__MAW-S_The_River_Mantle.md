@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-S-225-01`  
 **Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Status:** Active — three monitoring-level mantles
 
@@ -27,9 +27,15 @@ The River Mantle is a breathing drape of matte Weight Han-weave whose hem flows 
 
 ## PROTECTION FILE
 
+**Grade / Element:** γ / Weight
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
 **Banked Passage:** Moving Weight divides around the wearer and rejoins behind them. The effect provides no protection if both sides are sealed. Void is weak because an absent current leaves the cloth without direction.
 
@@ -46,14 +52,3 @@ The Mantle defines the safe edge of *Everything Returns Downstream*. The Maul mo
 **Maintenance:** Spread the Mantle along—not across—the return trench. Let clean monitoring condensate travel the entire hem. It is cleared only when the fabric lifts downstream at every point.
 
 **Removal:** Walk with the flow until the collar loosens. Pulling it off while facing upstream transfers the current into the chest.
-
----
-
-**Document ID:** `SE-225-C`  
-**Linked Entity:** `SE-225`  
-**Item Registry Code:** `MAW-S-225-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

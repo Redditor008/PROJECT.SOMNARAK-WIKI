@@ -17,13 +17,13 @@ This batch continues the individualized current-era codex archive after `SE-150`
 ```text
 151_Border_Tree/
   SE-151-A__SIDE_CODEX_Border_Tree.md
-  SE-151-B__MAW-W_The_Border_Root.md
+  SE-151-B__MAW-W_The_Bramble_Tanto.md
   SE-151-C__MAW-S_The_Border_Plate.md
   SE-151-D__MAW-G_The_Border_Charm.md
 
 152_Doorway_to_Nowhere/
   SE-152-A__SIDE_CODEX_Doorway_to_Nowhere.md
-  SE-152-B__MAW-W_The_Wandering_Requiem.md
+  SE-152-B__MAW-W_The_Wayfarer_s_Censer.md
   SE-152-C__MAW-S_The_Wandering_Shroud.md
   SE-152-D__MAW-G_The_Wandering_Key.md
 
@@ -41,7 +41,7 @@ This batch continues the individualized current-era codex archive after `SE-150`
 
 157_Torpor/
   SE-157-A__SIDE_CODEX_Torpor.md
-  SE-157-B__MAW-W_The_Sleeping_Maul.md
+  SE-157-B__MAW-W_The_Exhale_Culverin.md
   SE-157-C__MAW-S_The_Sleeping_Mantle.md
   SE-157-D__MAW-G_The_Sleeping_Breath.md
 ```

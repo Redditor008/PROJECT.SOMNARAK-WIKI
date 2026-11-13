@@ -9,7 +9,7 @@
 
 ## I. Executive Biological Foundation
 
-Planet **Mugenhan** (무한한 / 無限恨) possesses a planetary biosphere fundamentally linked to the metaphysical and physical presence of **Han** (한 / 恨 — unrefined, pressurized sorrow). While surface urban authorities traditionally viewed Han exclusively as an industrial fuel or a catastrophic cognitive hazard requiring strict containment, exploration across the seven subterranean geological strata has revealed a complex, flourishing, and ancient ecological tapestry.
+Planet **Mugenhan** (무한한 / 無限恨) possesses a planetary biosphere fundamentally linked to the metaphysical and physical presence of **Han** (한 / 恨 — unrefined, pressurized sorrow). While surface urban authorities traditionally viewed Han exclusively as an industrial fuel or a catastrophic cognitive hazard requiring strict containment, exploration across the seven subterranean geological strata has revealed a complex, flourishing ecology older than the city above it.
 
 The biosphere of Mugenhan is organized into three distinct, universally recognized evolutionary tiers, with every tier possessing symmetrical **Fauna** (animal life) and **Flora** (plant, fungal, and vegetative life) counterparts.
 

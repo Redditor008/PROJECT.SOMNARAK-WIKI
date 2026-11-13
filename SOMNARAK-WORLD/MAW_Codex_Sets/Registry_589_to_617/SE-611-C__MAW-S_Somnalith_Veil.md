@@ -65,14 +65,3 @@ The inner hem now requires anchors to be active relationships or decisions, not 
 Vial quiets manipulation, Veil preserves the anchor-bearer, and Lens removes a disturbing influence. Combined use protects sleep only while the operator’s identity remains deliberately outside it.
 
 > *“The ring proved where my hand had been. My answer proved that the hand was still mine.”* — Dreamer Sora
-
----
-
-**Document ID:** `SE-611-C`  
-**Linked Entity:** `SE-611`  
-**Item Registry Code:** `MAW-S-611-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

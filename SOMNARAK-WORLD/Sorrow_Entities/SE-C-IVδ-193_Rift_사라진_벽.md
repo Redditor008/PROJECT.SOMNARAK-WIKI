@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-193 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on any assertion, in public or in a municipal document, that there was never a division here |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Non-Organic — A wall-shaped absence in the Old Lament — not a wall, but the place where one should be, felt as pressure and seen as a faint vertical distortion in the air. Lead-cold, it smells of wet stone; you walk around it though nothing is there. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed to its line, which widens rather than travels; two surveyed shifts of position in 132 years. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -27,10 +27,11 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 per cycle, drawn along a line in the Old Lament where a party wall used to run. The yield is the highest ambient figure in Zone B and the station has never been able to say what it is being drawn from. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 4–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an onset five metres out of step with the quarterly survey. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter. Activates on any assertion, in public or in a municipal document, that there was never a division here |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -38,64 +39,71 @@
 
 ### Operational Notes
 
-- The line itself is exact and quarterly surveyed; what is inconsistent is its onset, which is 5.2 metres on a perpendicular approach and effectively absent along its length.
+- The line itself is exact and quarterly surveyed. What is inconsistent is its onset, which is 5.2 metres on a perpendicular approach and effectively absent along its length.
 - A good session narrows the onset for a shift. It returns to the logged figure by the next survey, and no session in 132 years has shortened the line by a metre.
 - Viderehan and Ferrehan only, and both are worked from one side; paired work across the line is prohibited rather than discouraged.
 - There is no breach counter. Crews lay physical line from the marked station on a perpendicular bearing, and any route off it is outside containment, because a crew that loses the perpendicular stops being able to find the holding.
 - Nothing may be constructed on, across or within the stated distance of the line, and the municipal office is bound by the same instruction by agreement rather than by authority.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Weight. There is nothing to resist; the holding is an absence on a line, and the four attempts to mark it physically have all been removed overnight — pegs, paint and a chalked string. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 25–55 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, Old Lament — ambient |
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *fixed to its line, which widens rather than travels; two surveyed shifts of position in 132 years*. And the record's own combat move says it outright: nobody has been struck by anything here in 132 years. And the Armoury keeps the row only because the pressure is real even though the wall is not.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | The absence of a party wall along a line in Old Lament, with two sides that differ in temperature and a gap that is measured rather than seen. The line widens; it has moved twice in 132 years and both shifts were surveyed. |
+| **Perceptible to** | The temperature difference across the line first — the two sides are walked with the old ward plan and marked where they differ — then the gap width, which narrows four to eleven centimetres after a full naming and not at all after a partial one. |
+| **Handling** | Name the history of the boundary before anything is said about the present: which two communities, when they were made one, and by whose order. The line is walked with the old ward plan and nothing is pegged, because pegs do not last the night. — see `## Handling Process` |
+| **Activation threshold** | No breach counter. Activates on any assertion, in public or in a municipal document, that there was never a division here |
+| **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Name the history of the boundary before crossing |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Missing Barrier* [**Debuff**] } | "The wall is gone — and the space where it was aches with the weight of everything it held back." | [The Wall's absence presses on the target; they feel exposed.] | *Target suffers -10 Resolve; they are unprotected where they should be safe.* **[10 Weight DMG [Weight]]** | When the target crosses where the Wall was. |
-| { *The Phantom Barrier* [**Debuff**] } | "You still feel it — solid, cold, pressing — but it is not there." | [The ghost-weight of the vanished Wall settles on the target.] | *Target loses 10 Resolve; they brace against nothing.* **[10 Weight DMG [Weight]]** | When the target leans on the absence. |
-| { *The Returned Slam* [**Attack**] } | "The wall comes back for one instant — and slams into you with all its missing mass." | [The Wall briefly manifests at full weight, then vanishes.] | *Inflicts Weight pressure and one crushing, ghostly wound.* **[14-22 Weight DMG [Weight]]** | When the absence is probed. |
-| { *The Held-Back Flood* [**Attack**] } | "Everything the wall was holding back arrives through the gap at once." | [The absence releases what the boundary had been keeping apart — noise, weather, people, obligation.] | *24–36 Weight to anybody on the line; the three occurrences each coincided with a formal merger of two administrative areas.* **[24-36 Weight DMG [Weight]]** | When a boundary elsewhere in the city is abolished on paper. |
-| { *Every Wall Gone* [**Ultimate**] } | "For a few minutes there are no partitions anywhere in the district and everyone can hear everyone." | [Interior boundaries across the zone stop functioning as separations.] | *12–20 Weight per cycle for three cycles to everyone indoors.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once; the district's complaints office received ninety-four submissions that week and none of them was about the entity. |
+### Contact Events
 
-### Battle Phases
+| Event | What the absence does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Missing Barrier* [**Register**] } | Presses on whoever crosses where the wall was, so that the space aches with the weight of everything it held back and the walker feels exposed where they should be safe. | Walks the line with the old ward plan, marks where the two sides differ in temperature, and takes the gap width before anybody crosses. | The gap is the instrument: nothing is pegged, because pegs do not last the night, and the line has moved twice in 132 years both times by survey rather than by sighting. |
+| { *The Phantom Barrier* [**Exposure**] } | Leaves the ghost-weight of the wall on anybody who leans on the absence, so that they brace against nothing and lose track of which side they started on. | Keeps the approach perpendicular and from the marked station, and records which side each worker started on before the cycle rather than after. | Past about half an hour on the line a worker loses the side they came from. Three wardens have walked out of the wrong end of the street and filed from the wrong ward office, which is why the plan is carried and not remembered. |
+| { *The Returned Slam* [**Refusal**] } | Arrives as one step rather than a gradient at the distance the station predicted — and nobody has been struck by anything here in 132 years, because there is nothing in front of them to be struck by. | Notes where the onset stood at the last survey, and turns back a worker who declines the naming rather than walking them through it. | A worker who declines the naming turns back at about four metres, which is where the onset stood two surveys ago. That figure is the record's whole account of the pressure: it has a distance and it has no author. |
+| { *The Held-Back Flood* [**Overload**] } | Releases what the boundary was keeping apart when a boundary elsewhere in the city is abolished on paper — noise, weather, people, obligation, arriving through the gap at once. | Records the municipal event that coincided with the onset, and holds the line until the three or four hours of pressure have passed. | The three recorded occurrences each coincided with a formal merger of two administrative areas. The holding has no interest in the district's paperwork; the district's paperwork is simply the same event written down twice. |
 
-1. **Tension:** The team walks the line with the old ward plan, marks where the two sides differ in temperature, and notes the gap width. Nothing is pegged; pegs do not last the night.
-2. **Clash:** There is nothing to clash with. The crew holds the perpendicular approach from the marked station, states the history at the line, and reads the onset distance; the only way to make this holding worse in a session is to work across the line instead of along one side of it.
-3. **Resolution:** Name the history of the boundary before anything is said about the present — which two communities, when they were made one, and by whose order. 188 cycles; the gap narrows four to eleven centimetres after a full naming and not at all after a partial one.
+### Watch Sequence
+
+1. **What is confirmed:** the two sides walked against the old ward plan and their temperature difference, the gap width, and which side each worker started the cycle on.
+2. **What the watch does:** Viderehan for what the wall separated and what it protected and Ferrehan for the crossing made after the naming, with the history of the boundary stated before anything is said about the present.
+3. **How it closes:** **Name the history of the boundary before crossing** — nine years of boundary crossings, the gap narrowing four to eleven centimetres after a full naming and not at all after a partial one.
 
 ### Consequences
 
 - The failure here is describing the two sides as having always been one place. It is the standard courtesy of the district's own literature and it widens the gap every time.
 - Past about half an hour on the line the worker loses track of which side they started on. It sounds trivial and is the reason the plan is carried: three wardens have walked out of the wrong end of the street and filed from the wrong ward office.
 - The set's cost is sortition: wielders stop being able to tell which of two similar things is theirs — coats, lockers, reports — and all three have been returned other people's work without noticing.
-- An unnamed quarter widens the gap. It was 1.1 metres at the first survey and is 2.9 now; the only reductions on record follow a naming, and they are measured in centimetres.
+- An unnamed quarter widens the gap. It was 1.1 metres at the first survey and is 2.9 now. The only reductions on record follow a naming, and they are measured in centimetres.
 
 ## Appearance
 **Physical Form:** A wall-shaped absence along a surveyed line in the Old Lament — pressure on a perpendicular approach, a faint vertical bend in the air, and nothing on the floor. **Extent:** onset at 5.2 metres and rising at every review.
@@ -128,26 +136,26 @@
 - **The Sorrow:** Not the wall. The discovery that the division survived it, and that the law which ended the division also ended the possibility of measuring what survived.
 - **The Event:** The wall stood from Year 3972 and came down in Year 4106 with the amalgamation instrument. The halves became one district in law the same day. Nothing else about them changed, and nothing may be recorded as having failed to change.
 - **The People:** Both halves of one district, amalgamated in Year 4106, legally a single community since and demonstrably not one. The survey that shows this is lawful only because an outsider draws the old line on it.
-- **Expanded origin context:** The division cannot be recorded, and the rule that forbids recording it is the right rule. On amalgamation the former halves ceased to exist in law: no municipal record may classify a resident by which side they come from, no service may be allocated by former side, and no claim may be founded on it. That is how you stop a division — you stop administering it, because a category that is counted is a category that is funded, staffed, complained about and inherited, and the Year 4098 re-registration showed exactly that, with 14,000 people declaring a side on a form that merely asked. So the Office may not measure what persists, and what persists is everything: where people shop, who they marry, which school they choose, which side of a street with no sides they walk on. The wall is unrecordable and undeniable at once, and the line in the Old Lament is where those two facts meet.
+- **Expanded origin context:** The division cannot be recorded, and the rule that forbids recording it is the right rule. On amalgamation the former halves ceased to exist in law: no municipal record may classify a resident by which side they come from, no service may be allocated by former side, and no claim may be founded on it. That is how you stop a division — you stop administering it, because a category that is counted is a category that is funded, staffed, complained about and inherited. And the Year 4098 re-registration showed exactly that, with 14,000 people declaring a side on a form that merely asked. So the Office may not measure what persists, and what persists is everything: where people shop, who they marry, which school they choose, which side of a street with no sides they walk on. The wall is unrecordable and undeniable at once, and the line in the Old Lament is where those two facts meet.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** The absence of a party wall along a line in Old Lament, with two sides that differ in temperature and a gap that is measured rather than seen. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows what the wall separated and what it protected; the two lists are different and the difference is the holding's most-cited record. | Stable |
-| **Ferrehan** | The worker crosses having stated the history, which is the only crossing the gauge responds to. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the two sides walked against the old ward plan and their temperature difference, the gap width, and which side each worker started the cycle on. |
+| **Handling** | The watch walks the line with the old ward plan, marks where the two sides differ in temperature, and takes the gap width before anybody crosses. |
+| **Withdrawal** | **Name the history of the boundary before crossing** — nine years of boundary crossings, the gap narrowing four to eleven centimetres after a full naming and not at all after a partial one. |
+| **Refusal** | Notes where the onset stood at the last survey, and turns back a worker who declines the naming rather than walking them through it. |
 
-
-### Operational Work Notes
-
-The table applies and the measurement is the gap: the distance across the line at which the two sides stop matching — temperature, sound, the way dust settles. 1.1 metres to 2.9 in nine years. It widens when an administrative boundary is abolished anywhere in the city and narrows only when somebody stands on the line and says which two places these were.
-
-**Reading the response:** A falling reading means the two former wards were named with their dates and the order that merged them. It rises on mergers elsewhere, on literature describing the district as one community, and on anniversaries of the amalgamation.
 ## Expansion Behavior
+
+> **Special activation — no counter.** Its starting condition, as written: *"any assertion, in public or in a municipal document, that there was never a division here"*.
+
+
+
+
 
 | Field | Detail |
 |---|---|
@@ -162,7 +170,7 @@ The table applies and the measurement is the gap: the distance across the line a
 
 Escalation is width. Record the gap at the three marked stations, the difference in temperature across it, any administrative merger in the city that fortnight, and whether the naming was complete. A partial naming counts as none and the series shows why.
 
-**Response sequence:** stop work across the line and move both parties to one side, read the onset distance from the marked station, withdraw anybody not needed, and state the history at the line — built in Year 3972, demolished in Year 4106, two halves, one district. Nothing is to be built on the line, and no unlisted Work Type is to be improvised here; there is nobody in this holding for Flerehan or Pugnahan to reach.
+**Response sequence:** stop work across the line and move both parties to one side, read the onset distance from the marked station, withdraw anybody not needed. And state the history at the line — built in Year 3972, demolished in Year 4106, two halves, one district. Nothing is to be built on the line, and no unlisted Work Type is to be improvised here. There is nobody in this holding for Flerehan or Pugnahan to reach.
 
 
 ### Detailed Activation Record
@@ -196,11 +204,11 @@ Escalation is width. Record the gap at the three marked stations, the difference
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Direct and Tick are scored separately against the same resistance. Neither is the real cost here; the maul exists for the wing's own reassurance and has been drawn on this holding twice, both times by people who later wrote that they had nothing to swing it at.
+**Damage Application:** Direct and Tick are scored separately against the same resistance. Neither is the real cost here. The maul exists for the wing's own reassurance and has been drawn on this holding twice, both times by people who later wrote that they had nothing to swing it at.
 
-**Ability:** Weight against the Han. Struck targets cannot tell, for some hours, which of two rooms they were in; fourteen strikes, fourteen reports, and in nine of them the two rooms were in different buildings.
+**Ability:** Weight against the Han. Struck targets cannot tell, for some hours, which of two rooms they were in. Fourteen strikes, fourteen reports, and in nine of them the two rooms were in different buildings.
 
-**Cost:** The wielder ages slightly, and begins mixing up which of two similar things belongs to them.
+**Bearer cost:** The wielder ages slightly, and begins mixing up which of two similar things belongs to them.
 
 ### M.A.W. Suit — The Wall's Absence
 
@@ -218,7 +226,7 @@ Escalation is width. Record the gap at the three marked stations, the difference
 
 **Ability:** Creates a temporary boundary against hostile force.
 
-**Cost:** The wearer feels everyone kept on the other side.
+**Bearer cost:** The wearer feels everyone kept on the other side.
 
 ### M.A.W. Stigma — The Wall's Charm
 
@@ -232,7 +240,7 @@ Escalation is width. Record the gap at the three marked stations, the difference
 
 **Ability:** The bearer can feel where a boundary used to be — a filled doorway, a removed fence, a merged ward line — and has been used four times to recover plans the mapping office had lost.
 
-**Cost:** The bearer moves a little slower.
+**Bearer cost:** The bearer keeps finding the old lines — walls taken down, doors filled in, a ward boundary moved a metre — and the charm never says which were removed by order and which quietly.
 
 *The Wall's Charm is not issued. It is found after a session in which the history was stated in full and the crossing was made anyway, and never after a session in which the line was merely surveyed.*
 
@@ -240,9 +248,9 @@ Escalation is width. Record the gap at the three marked stations, the difference
 
 Every piece is made from a join, and the set gives its wielder a sense for boundaries that no longer exist and takes away their sense of which side of one they belong on. It is useful — four lost ward plans recovered — and the cost shows up in a locker room: three wielders, all three wearing somebody else's coat home at least once, none of them able to see the error when it was pointed out.
 
-### M.A.W. Cross-Source Review — Batch 113
+### M.A.W. Cross-Source Review
 
-- **Identity and exact set:** Primary `C-IVδ-193 [WP]` matches `SE-193-A` and Related Entity `SE-193`; the Side set is `4/4` and is titled *After the Wall*. The Entity Codex, Tale 84, and Master Entries 250–252 use *The Vanished Wall*, while the primary and Side A say *Rift*; retain the code-linked names without renaming either record.
+- **Identity and exact set:** Primary `C-IVδ-193 [WP]` matches `SE-193-A` and Related Entity `SE-193`; the Side set is `4/4` and is titled *After the Wall*. The Entity Codex, Tale 84, and Master Entries 250–252 use *The Vanished Wall*, while the primary and Side A say *Rift*. Retain the code-linked names without renaming either record.
 - **Weapon:** Primary, `SE-193-B` (`MAW-W-193-01`), and Master Entry 250 agree on *The Wall's Maul* and Weight 10–15 / Speed 3 / Range 3 Medium / maximum 2 / 50 Echoes. Archetype `MAW-W-193` assigns Room reach; the personalization note depicts a two-grip monolith and lists Medium as the recorded range. Keep the archetype label distinct from the linked item's Medium band.
 - **Suit and Stigma holds:** Primary and `SE-193-C` agree on resistances, but the local translucent veil differs from the item's black absence-veil, and Master Entry 251's Hauberk / Chain-Mail taxonomy does not resolve the material. Primary and `SE-193-D` agree on Head / 4% / +3, while the warm joined-halves charm, the item's small black line-charm, and generic Registry Accessory / 5% remain separate descriptions.
 
@@ -292,7 +300,7 @@ Perpendicular onset distance, measured from the marked station: 2.1 metres, then
 Transactions, marriages and school enrolments remaining within the former half: 94 per cent at amalgamation, 93 per cent at the last survey, 132 years apart. The researcher who draws the old line onto the data is not a municipal officer, which is the only reason the figure may lawfully exist at all.
 
 **Entry 4 — <Containment Notice>**
-Management: state the history at the marked station before crossing — built Year 3972, demolished Year 4106, two halves, one district — and do not work across the line. Work response — Viderehan: shows what the wall separated and what it protected, which are not the same list. (Stable); Ferrehan: the worker crosses without denying that there was a division. (Decrease). Flerehan and Pugnahan are unavailable; there is no subject here.
+Management: state the history at the marked station before crossing — built Year 3972, demolished Year 4106, two halves, one district — and do not work across the line. Work response — Viderehan: shows what the wall separated and what it protected, which are not the same list, and the reader's own division goes on the second one. (Increase); Ferrehan: the worker crosses without denying that there was a division. (Decrease). Flerehan and Pugnahan are unavailable; there is no subject here.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 We are keeping the crossing statements. The Office has asked us twice to stop, politely, and the Office is right in law: our log records what people say about the old sides, and a record of the old sides is the thing the amalgamation exists to prevent. I have read their letter and I cannot fault a line of it. We are keeping them anyway, they are held outside the municipal series, no copy goes to the district, and the responsibility for that decision is mine and is minuted here so that it is not anybody else's.
@@ -314,7 +322,7 @@ You enter a room and stop at a line no one drew. Air presses against your chest.
 
 
 
-**At first contact:** You stop before you know why. There is a vertical bend in the air over a floor with nothing on it, and your chest meets pressure at a distance the station will have predicted to within a few centimetres. Approach perpendicular or you will not find it at all; crews walking the line's length have missed it entirely and written the holding up as quiet.
+**At first contact:** You stop before you know why. There is a vertical bend in the air over a floor with nothing on it, and your chest meets pressure at a distance the station will have predicted to within a few centimetres. Approach perpendicular or you will not find it at all. Crews walking the line's length have missed it entirely and written the holding up as quiet.
 
 **With continued exposure:** You stop being able to say which side you came in from. It is not disorientation — the street is legible and the buildings are where they were — it is that the question of which half you are standing in stops having an answer.
 
@@ -337,15 +345,15 @@ Each row below is kept with its survey sheets, because the only reliable evidenc
 |---|---|---|---|
 | **The Rusted Wall** | Both preserve divided communities. | Untested and refused. The Rusted Wall still stands; bringing a wall that exists to a line that cannot be built on is a question the wing has declined twice to ask. | The refusals and their reasons, in the chamber order. |
 | **Event** | Shares the grief of failed protection. | Observed at distance during an unrelated Old Lament event: onset here rose 0.4 metres for two days and did not return to its previous figure. The only recorded instance of another holding costing this one ground. | Onset at twelve-hour intervals, both holdings' survey sheets, and the figure it settled at. |
-| **The Vanished Tower** | The old structure once stood beside the boundary. | Historical adjacency only. Both are absences on the same pre-amalgamation map and neither has ever registered the other; the row is kept because removing it would cost the archive the map reference. | The map, and the fact of no observed effect, restated at each annual review. |
+| **The Vanished Tower** | The old structure once stood beside the boundary. | Historical adjacency only. Both are absences on the same pre-amalgamation map and neither has ever registered the other. The row is kept because removing it would cost the archive the map reference. | The map, and the fact of no observed effect, restated at each annual review. |
 
 **Interaction procedure:** Onset and bearing before and after, which side every person stood on throughout, the statements made, any attempt at cross-line work and its result, and the survey re-shot the following quarter rather than the same day. The line has moved twice and both movements were found by survey weeks later.
 
 ## 이야기 (Narratio) — The Tale
 
-They took the wall down, and they made it unlawful to count the two sides, and the second of those is why the line is still there.
+There was a wall through the middle of a district, and they took it down, and they made it unlawful to count the two sides, and the second of those is why the line is still there.
 
-The wall had stood for generations — a boundary through the middle of a district, built in some forgotten conflict, maintained through habit, dividing neighbor from neighbor for so long that neither side remembered why the wall was there, only that it was, and that the people on the other side were, by tradition, the other side. The wall was ugly. The wall was inconvenient. The wall made the district smaller for everyone. And so, in a rare act of civic improvement, the Council ordered it demolished.
+The wall had stood for generations — a boundary through the middle of a district, built in some forgotten conflict, maintained through habit, dividing neighbor from neighbor for so long that neither side remembered why the wall was there, only that it was. And that the people on the other side were, by tradition, the other side. The wall was ugly. The wall was inconvenient. The wall made the district smaller for everyone. And so, in a rare act of civic improvement, the Council ordered it demolished.
 
 The wall came down. The boundary was removed. The two halves of the district were, physically, one again. Citizens could walk where the wall had been. The streets connected. The division, on the map, was healed.
 
@@ -404,11 +412,11 @@ The wall cannot be rebuilt. The attempt has been made — by the municipal offic
 
 ### Observation and Endurance
 
-As an Object/Place it admits only Viderehan and Ferrehan, and the Viderehan work is the strange part. There is nothing to observe except an absence and the behaviour of people near it, and the holding's observation record is accordingly mostly a record of the staff: how they move around a line that is not there, which routes they take without being told to, how long it takes a new worker to stop walking through it. Every new worker walks through it at least once. The file notes this without comment and the orientation officers do not warn them, because the experience is the briefing and no description has ever substituted for it.
+As an Object/Place it admits only Viderehan and Ferrehan, and the Viderehan work is the strange part. There is nothing to observe except an absence and the behaviour of people near it. And the holding's observation record is accordingly mostly a record of the staff: how they move around a line that is not there, which routes they take without being told to, how long it takes a new worker to stop walking through it. Every new worker walks through it at least once. The file notes this without comment and the orientation officers do not warn them, because the experience is the briefing and no description has ever substituted for it.
 
 ### The Separation That Outlived the Wall
 
-Its sorrow is the discovery that removing a barrier does not reunite the people it divided. The district on either side of the line is one district administratively and has been for generations, and the municipal office's own community survey continues to show the old division in the places such things show: where people shop, who marries whom, which school a family chooses. The wing includes the survey in the holding's annual review at the district's request. Neither party claims the entity causes the pattern. Both parties have declined, repeatedly, to state in writing that it does not.
+Its sorrow is the discovery that removing a barrier does not reunite the people it divided. The district on either side of the line is one district administratively and has been for generations. And the municipal office's own community survey continues to show the old division in the places such things show: where people shop, who marries whom, which school a family chooses. The wing includes the survey in the holding's annual review at the district's request. Neither party claims the entity causes the pattern. Both parties have declined, repeatedly, to state in writing that it does not.
 
 ### Walking Through It
 
@@ -430,7 +438,7 @@ It made the halves one district, which they are. It abolished the former halves 
 
 The reasoning is not administrative convenience. A category that is recorded is a category that is administered: funded, staffed, complained about, defended, and inherited by people who were born after the thing that made it. The Year 4098 re-registration is the archive's proof — a form that merely *asked*, with no consequence attached, and 14,000 residents declared a side, several thousand of them for the first time in their lives. The instrument's drafters had that episode in front of them. They concluded that the only way to stop administering a division is to stop recording it, and nothing in 132 years has shown them to be wrong about the mechanism.
 
-What it costs is the remedy. The poorer half is still the poorer half; the Office cannot say so in a document, cannot allocate against it, and cannot commission the survey that would demonstrate it. Allocation runs on street-level need, which is lawful, honest, and incapable of being aimed at a pattern it may not name. In 132 years there have been **no remedial allocations** directed at the division, because there is no lawful way to direct one.
+What it costs is the remedy. The poorer half is still the poorer half. The Office cannot say so in a document, cannot allocate against it, and cannot commission the survey that would demonstrate it. Allocation runs on street-level need, which is lawful, honest, and incapable of being aimed at a pattern it may not name. In 132 years there have been **no remedial allocations** directed at the division, because there is no lawful way to direct one.
 
 In Year 4231 the district community board applied for a time-limited exception: a historic-division dataset, collected for ten years, for the single purpose of measuring the gap. Refused, and the refusal is correct — a dataset that defines people by the old sides re-creates the categories, the 4098 episode shows people will fill it in, and ten years of lawful counting produces a constituency for an eleventh. The application sits in the Year 4232 return, marked *correct in principle, no action*. The board has not withdrawn it and has not been answered.
 

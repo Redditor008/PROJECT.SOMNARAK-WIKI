@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Lament |
 | Form | A pale-blue heart-flame inside consciousness, ringed by charred metal and fused growth, melting between comfort and cold grief. |
-| Gauge / Pressure | 35–50% / Lament 10–23 |
+| Gauge / Pressure | 000% / Lament 10–23 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Cooling Hearth |
 
@@ -44,10 +44,10 @@ Feu Follet burns without physical heat and appears most readily in masked minds.
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Flame steadies and reveals remembered warmth. | Down | Accept what the memory can no longer provide. |
-| Pugnahan | Melts through the worker’s thoughts. | Up | Do not force proof that the fire was real. |
+| Flerehan | Flame steadies and reveals remembered warmth. | Decrease | Accept what the memory can no longer provide. |
+| Pugnahan | Melts through the worker’s thoughts. | Increase | Do not force proof that the fire was real. |
 | Viderehan | Shows whether the fire is present or remembered. | Stable | Record sensory contradictions. |
-| Ferrehan | Tests remaining as comfort changes. | Down | Maintain current bodily anchors. |
+| Ferrehan | Tests remaining as comfort changes. | Decrease | Maintain current bodily anchors. |
 
 **Resolution:** Anchor the worker in present sensations.  
 **Breach:** At 60% Gauge sorrow-fire spreads through masks and minds, burning cold and draining Composure.  
@@ -99,13 +99,3 @@ An echo forms after the source steadies during Flerehan and the worker identifie
 **Primary source:** `SE-O-IIβ-301_Feu_Follet_녹아내린_불꽃.md`
 
 **Restricted note:** Memory preservation must not turn a past rescue into a present safety assessment.
-
----
-
-**Document ID:** `SE-301-A`  
-**Linked Entity:** `SE-301`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

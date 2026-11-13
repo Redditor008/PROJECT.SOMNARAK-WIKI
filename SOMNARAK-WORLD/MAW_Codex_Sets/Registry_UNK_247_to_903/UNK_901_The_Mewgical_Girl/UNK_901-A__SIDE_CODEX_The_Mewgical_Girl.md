@@ -21,7 +21,7 @@ Mimi, a doll-body made to perform rescue and happiness, shares one vessel with S
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element / Location | Mixed / Zone B, mobile near Maw perimeter |
-| Gauge / Pressure | 837/837; starts 60–80% / 27–59 Grudge |
+| Gauge / Pressure | 000/837; starts 000% / 27–59 Grudge |
 | Movement / Resistance | 2.35 m/s; 3.10 synchronized / 35% Mixed, 20% single |
 | Resolution | Acknowledge both identities without forcing separation |
 
@@ -40,7 +40,7 @@ Flerehan succeeds only when both are addressed. Pugnahan provokes Shu Shu’s bo
 | Location | Zone B — mobile; last observed near the Maw perimeter |
 | R.D. Comprehension Level | 1 — Initial |
 | Starting Sorrow Gauge | 60–80% |
-| Activation threshold | Sorrow Gauge ≥ 75% or forced persona conflict |
+| Activation threshold | Sorrow Gauge ≥ 85% or forced persona conflict |
 | Sorrow Gauge [HP] | 837/837 |
 | Han Pressure [ATK] | 27–59 per hit · Grudge |
 | Speed | 2.35 m/s; 3.10 m/s during synchronized movement |
@@ -59,13 +59,3 @@ Flerehan succeeds only when both are addressed. Pugnahan provokes Shu Shu’s bo
 ## RESONANCE — *Agreed Transformation*
 
 Bell keeps both tones audible, Costume prevents one persona from erasing the other, and Staff reaches full room-scale output only when Mimi and Shu Shu agree on target and purpose. Disagreement splits healing and destruction through the operator.
-
----
-
-**Document ID:** `UNK-901-A`  
-**Linked Entity:** `UNK-901`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

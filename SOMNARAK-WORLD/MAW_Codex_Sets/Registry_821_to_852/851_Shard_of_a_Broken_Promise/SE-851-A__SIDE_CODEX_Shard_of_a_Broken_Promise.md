@@ -19,10 +19,10 @@ The Shard formed from a promise broken while the promised object remained intact
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IVδ-851 [LO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone A, Alpha Tree vault |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 000/880; starts 000% / Lament — no attack pattern; the pitch against its 112-hertz resting value is the reading |
 | Observation | 2 — Basic |
 | Formation event | An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. |
 
@@ -30,17 +30,17 @@ The Shard formed from a promise broken while the promised object remained intact
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the promise and the moment it failed. (Stable) |
 | Ferrehan | Tests whether the worker can remain without repairing it. (Decrease) |
 
 **Trigger:** Touch while repeating the original promise.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-851 -->
+**Resolution:** Declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Shard of a Broken Promise Source-Trace*
 
-During the The Shard of a Broken Promise Source-Trace, the field team preserved this source fact: An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of trusting words more than circumstances.
+During *The Shard of a Broken Promise Source-Trace*, the field team preserved this source fact: An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of trusting words more than circumstances.
 
 ## M.A.W. SET — *Shard of a Broken Promise — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Shard of a Broken Promise Source-Trace, the field team preserved 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Shard of a Broken Promise's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Shard of a Broken Promise's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-851-A`  
-**Linked Entity:** `SE-851`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Shard of a Broken Promise's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have. The gauge opens at 000% of its 000/880 meter, and no attack pattern is filed for this Lament manifestation. The set cannot heal the originating event. Misuse routes Shard of a Broken Promise's wound through the operator and triggers the recorded escalation.

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-120 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touching or attempting to open the cage |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Furious and trapped |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Mixed — An empty cage of vertical bars that are not uniform metal: dark crimson, ridged, fused in places with what looks like calcified sinew and clenched-finger bone. The bars pulse together in a slow, angered rhythm. There is no door and no prisoner; the cage itself is what is furious. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — the frame has never moved from its marks. It does not travel; it enlarges, outward, against cut floor marks that are never moved back. |
 | **Location** | SECTOR-B-01, Zone B |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,10 +28,11 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, a range that has not moved in nine years while the bar count has gone from 361 to 409. The yield is flat; the holding is not. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is work at an empty cage with no door, reading an inner face of bars. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Touching the cage or attempting to open it — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -41,55 +42,62 @@
 
 - The cage is empty, has always been empty, and has no door. The inner face of the bars is warmer than the outer face by a consistent margin, which is the only asymmetry on the object and the only reason anybody ever thought there was an inside.
 - Work cools the frame for a shift and changes nothing else. The bars return to temperature within a day, the dimension never comes back in, and no cycle in the record has reduced the count.
-- Viderehan and Ferrehan are the valid approaches; nothing is reached through the bars, and the older entry naming Pugnahan is wrong and has been wrong for years. A raised voice is the fastest way to make the count irrelevant.
+- Viderehan and Ferrehan are the valid approaches. Nothing is reached through the bars, and the older entry naming Pugnahan is wrong and has been wrong for years. A raised voice is the fastest way to make the count irrelevant.
 - Grudge expression reaches the operative through the metal; gloves are mandatory and are replaced after each session.
 - Extraction is separate from work and never issued as a reward for a clean shift.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | Reads 35% against Grudge pressure and 25% against everything else; the bars take nothing themselves, and both figures are taken off the wave the Cage throws when a case is argued in front of it. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 — counted twice from the gap photographs at each watch, and it does not fall while the case is still being argued. |
-| **Han Pressure [ATK]** | 18–41 per hit · Grudge — the low end belongs to a worker the reasoning has not reached yet, the high end to one whose case has got good. |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns; no activation on record has ended on distance, force or time. |
-| **Threat Role** | Major encounter — the encounter is with the case the worker brings in, and the Cage only supplies the bars to argue it against. |
-| **Coherence** | Fragment (III) — Furious and trapped |
-| **Primary Pressure** | Resilience — tested against whether the worker can stand near rage without feeding it the argument it wants. |
-| **Starting Sorrow Gauge** | 45–65% — the low end belongs to watches where nobody has brought a grievance of their own into the hall. |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-B-01, Zone B — the hall around the enclosure; the instruction not to reach for the bars is given at its threshold. |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — the frame has never moved from its marks*, and that it does not travel but enlarges outward against those marks. Nothing here strikes: the cage makes an injustice felt as confinement, and the record's harm is fury and the conviction of being held, both of which are taken by standing near it.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | An empty cage of vertical bars at SECTOR-B-01 — dark crimson, ridged, fused in places with calcified sinew and clenched-finger bone, pulsing together in a slow rhythm. The frame has never moved from its floor marks, and the marks are cut rather than chalked, so they are never moved back. |
+| **Perceptible to** | The pulse first, which the ward hears before anybody tells it what it is. Then the warmth of the bars and the smell of a room that has been shut for a long time. The reading is the gap photographs. |
+| **Handling** | Not entered and not opened. The bars are not touched and nothing is reached through them. The gap photographs are taken from the same mark at every watch, and the count is made twice. — see `## Handling Process` |
+| **Activation threshold** | Touching the cage or attempting to open it — no breach counter. |
+| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | the injustice is read aloud — named, by somebody with no part in it — and the Sorrow Gauge falls below 25%. Nothing is reached through the bars. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Closed Door* [**Debuff**] } | "The bars fall into place — and you understand, slowly, that you are inside." | [The Cage seals around the target; the contained fury presses in.] | *Target suffers -10 Resilience; the cage has closed.* **[10 Grudge DMG [Grudge]]** | When the target enters the Cage. |
-| { *The Confined Fury* [**Debuff**] } | "The rage inside the bars has nowhere to go but through you." | [The Cage's trapped anger radiates; the target basks in stifled wrath.] | *Target loses 10 Resilience; the pressure of caged fury builds.* **[10 Grudge DMG [Grudge]]** | When the target remains caged. |
-| { *The Barred Wall* [**Attack**] } | "The bars themselves strike — the cage does not like being touched." | [The Cage's bars lash outward, punishing the confined.] | *Inflicts Grudge pressure and one bruising wound.* **[14-22 Grudge DMG [Grudge]]** | When the Cage is shaken. |
-| { *The Breaking Out* [**Attack**] } | "Something inside the cage breaks free — and it is furious at having been held." | [The contained rage erupts outward in a blast of released fury.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Cage is struck or overloaded. |
-| { *The Prison Falls* [**Ultimate**] } | "The cage collapses inward — and the bars become the weapon." | [The Cage implodes, dragging everyone into its fury.] | *All personnel suffer Grudge pressure for three turns as the prison falls.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the cage does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Gap* [**Register**] } | It registers as a gap between bars and a pulse in the frame. The bar that formed from a particular injustice is the bar Viderehan opens. | The gap photographs are taken from the same mark as last time and the count is made twice, because a single count has been wrong on this holding before. | The gap count is the register, and the reading is taken from outside the marks rather than from the bars. |
+| { *The Tally* [**Exposure**] } | A worker who holds against it becomes furious, and the fury is coherent rather than wild: it attaches to a real grievance the worker already had, argues it well, and does not feel contaminated from the inside. | The watch is capped and rotated; anybody leaving it is asked about a grievance they already had rather than about the cage. | The long exposure is specific — the worker becomes convinced they are confined, in open ground, and it presents as grievance rather than fear. |
+| { *The Bars* [**Refusal**] } | Nothing is reached through them. The cage does not open, does not answer, and does not take anything that is offered to it. | Nothing is put through the bars and no attempt is made to open the door. The door is not the containment and the file says so. | The refusal is structural: the cage has no inside that anybody has ever been in, and the record keeps that as a finding rather than a gap. |
+| { *The Enlargement* [**Overload**] } | Above the cap the frame enlarges outward against the cut floor marks, and the ground it takes stays taken. | The marks are re-photographed and never reset. The watch withdraws on the enlargement rather than on the gauge, and the ward is told before the new line is cut. | The cage does not travel and does not chase: what moves is the frame's edge, and it has never been moved back. |
 
-1. **Tension:** Identification first — Redcage is recognised by the absence of a door and by the dated marks cut into the floor around it; never by size, which is different from the last time anybody looked — then the approach is set and the positions are taken.
-2. **Clash:** Twelve turns, Viderehan and Ferrehan only, worked from outside the bars with gloves on. Nobody reaches between the bars, nobody attempts to open what has no door, and nobody argues with it — the gauge rises on resistance of any kind, including verbal.
-3. **Resolution:** Containment, management, retreat, or the documented condition: **the injustice is acknowledged aloud, in specific terms, by someone who had no part in it, and the gauge falls below 25%**.
+### Watch Sequence
+
+1. **What is confirmed:** the cut floor marks against last watch's photographs, the gap count taken twice, and the particular injustice that formed the bar Viderehan means to open.
+2. **What the watch does:** Viderehan opens the bar's injustice from outside the marks and Ferrehan stands near the rage without feeding it. Nobody touches the cage, nothing is passed through the bars, and the session is capped on the watch clock.
+3. **How it closes:** **the injustice is read aloud — named, by somebody with no part in it — and the Sorrow Gauge falls below 25%** — and nothing is reached through the bars at any point in the cycle.
 
 ### Consequences
 
@@ -107,7 +115,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A large cage made from dark red crystallized rage. It is empty, but the bars pulse like a heartbeat.
 - **Position / movement:** The frame remains fixed at its marks; activation releases pressure and expansion takes more floor outward. Neither is travel or a prisoner escaping.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, Zone B
@@ -116,10 +123,9 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A large cage made from dark red crystallized rage. It is empty, but the bars pulse like a heartbeat. |
 | **Position / movement** | Fixed in position, growing in dimension. Record the frame against every cut floor mark at each watch and speak the current dimension aloud at handover. |
 | **Material / signature** | Grudge. Dark crimson bars, ridged, fused in places with what resembles calcified sinew and clenched-finger bone, pulsing together in a slow angered rhythm; warm on the inner face. |
-| **Distinctive markers** | Vertical bars with no door, no hinge, no lock and no gap wide enough to pass a hand; an enclosure that cannot be entered or opened, and never held anybody. |
+| **Distinctive markers** | Vertical bars with no door, no hinge, no lock and no gap wide enough to pass a hand. An enclosure that cannot be entered or opened, and never held anybody. |
 | **Identification** | Match the code, the manifestation and the physical markers at the threshold, before anyone crosses the first floor mark. The bars are read from the gaps rather than from the outline, and the count is taken twice — a disagreement between the two counters is itself a reportable event. |
 
 **Appearance protocol:** Count the bars. That is the first field and it is counted rather than estimated, twice, by two people, because the count is the holding's primary series and a disagreement between the two counters is itself a reportable event. Then take the dimension against each cut floor mark, the inner and outer face temperatures at the three fixed points, and the pulse interval timed over a full minute. Photograph the gaps rather than the bars; a new bar appears in a gap, and the gap record is what makes an addition provable. Write concretely enough that another agent could identify the object from the words alone.
@@ -128,40 +134,31 @@
 - **Formation:** The Cage formed from people imprisoned without cause.
 - **The Sorrow:** The fury of being trapped by a system that refuses to admit error.
 - **The Event:** Citizens were jailed for debts and crimes they did not commit; their rage became the bars of an empty cage.
-- **The People:** Citizens of Zone B imprisoned for debts they did not owe and crimes they did not commit. Where the court records permit, they are named; the list is long, incomplete, and deliberately held open, and additions arrive from families and are entered without verification where verification is impossible.
+- **The People:** Citizens of Zone B imprisoned for debts they did not owe and crimes they did not commit. Where the court records permit, they are named. The list is long, incomplete, and deliberately held open, and additions arrive from families and are entered without verification where verification is impossible.
 - **Expanded origin context:** The debts were real debts in the sense that somebody was owed something, and the proceedings were regular in the sense that every step was taken in the right order. That is what the file keeps returning to. Nobody in the chain did anything that would be identified today as misconduct: the Collectors filed, the clerks listed, the court heard what was put in front of it, and the people in the cells were the ones who could not afford to be represented. The archivist's note says the thing plainly — *this was not a failure of the system, it was the system working at the speed it was funded to work at* — and observes that the bars went on appearing long after the particular practice was abolished.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** An empty cage of vertical bars at SECTOR-B-01 — dark crimson, ridged, fused in places with calcified sinew and clenched-finger bone, pulsing together in a slow rhythm. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the injustices that formed each bar. | Stable |
-| **Ferrehan** | Tests whether the worker can remain near rage without feeding it. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the cut floor marks against last watch's photographs, the gap count taken twice, and the particular injustice that formed the bar the observer means to open. |
+| **Handling** | The observer opens the bar's injustice from outside the marks and the stander stands near the rage without feeding it. Nobody touches the cage, nothing is passed through the bars, and the session is capped on the watch clock. |
+| **Withdrawal** | **the injustice is read aloud — named, by somebody with no part in it — and the Sorrow Gauge falls below 25%** — and nothing is reached through the bars at any point in the cycle. |
+| **Refusal** | Nothing is put through the bars and no attempt is made to open the door. The door is not the containment and the file says so. |
 
-
-### Operational Work Notes
-
-Redcage is an Object/Place with Object-Grudge manifestation and Grudge expression, in Zone B. Viderehan opens the particular injustice that formed each bar and moves the gauge not at all. Ferrehan — standing near sustained rage without feeding it — is the only Work Type that lowers it. Flerehan and Pugnahan are unavailable, and the Registrum entry naming Pugnahan is an error of long standing, corrected here and nowhere else in the archive.
-
-**Reading the response:** Read it in the pulse and in the temperature gap. A falling gauge presents as a slower pulse and a narrowing gap between the inner and outer faces; the pressure drops, nothing is resolved, and the dimension stays exactly where it was. A rising gauge presents as argument. The worker begins making a case — a good one, about something real — and the pulse comes up with their voice. Log the deviation and log what the worker was arguing about, because on this holding that has twice been the useful field.
 ## Activation Behavior
+
+> **Special activation — no counter.** Filed trigger: *"touching or attempting to open the cage"*.
+
+
+
+
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Touching or attempting to open the Cage.
-
-**Effect:** Releases a wave of anger and memories of unjust imprisonment.
-
-**Duration:** Until the attempt stops and the injustice is acknowledged aloud. Nothing is closed, because there is nothing to close.
-
-**Risk:** The user may become convinced they are imprisoned even in open space.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -174,7 +171,7 @@ Redcage is an Object/Place with Object-Grudge manifestation and Grudge expressio
 | **Termination / Return** | The local wearer record calls for a second worker when counts diverge and records costs or discharge on removal. It does not identify a removable part of the original cage or authorise taking the frame off anybody. Keep that wearer report separate from source activation, which ends only on the recorded stop-and-acknowledgement condition. |
 | **Risk** | The user may become convinced they are imprisoned even in open space. |
 
-**Operational Rule:** The original cage is not wearable equipment: the exact Side record distinguishes it from released Grudge echoes and forbids wearing or issuing the cage itself. The timed wearer rows below do not identify which released piece was used; preserve them as an unresolved wearer record, not instructions to carry the source. They cannot replace scheduled Viderehan or Ferrehan.
+**Operational Rule:** The original cage is not wearable equipment: the exact Side record distinguishes it from released Grudge echoes and forbids wearing or issuing the cage itself. The timed wearer rows below do not identify which released piece was used. Preserve them as an unresolved wearer record, not instructions to carry the source. They cannot replace scheduled Viderehan or Ferrehan.
 
 ### Log and Method
 
@@ -198,7 +195,7 @@ Escalation here is dimensional. Record the pulse rate at onset, the temperature 
 | **Trigger** | Touching or attempting to open the Cage. |
 | **Manifestation** | Object-Grudge |
 | **Primary effect** | Releases a wave of anger and memories of unjust imprisonment. |
-| **Duration / rate** | Until the attempt stops and the injustice is acknowledged aloud; there is no door to close and no mechanism by which the frame contracts. |
+| **Duration / rate** | Until the attempt stops and the injustice is acknowledged aloud. There is no door to close and no mechanism by which the frame contracts. |
 | **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The user may become convinced they are imprisoned even in open space. |
 | **Management** | Count the bars twice from the gap photographs, take the dimension against every dated floor mark at each watch, and close the session by reading the particular injustice aloud — named, by somebody with no part in it. No unlisted Work Type is applied and nothing is reached through the bars. |
 
@@ -211,7 +208,7 @@ Escalation here is dimensional. Record the pulse rate at onset, the temperature 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-Appearance : A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
+**Appearance:** A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
 
 The thurible vents continuous streams of scalding sulfurous steam that burn organic flesh. In close melee, swinging the spiked iron censer inflicts severe bludgeoning and thermal trauma.
 
@@ -228,7 +225,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Ability:** Grudge damage against the Body, delivered as heat and weight. The censer carries the Cage's anger rather than channeling it: the steam is the holding's own store, and it does not distinguish between the person who was wronged and the person holding the chain.
 
-**Cost:** The bearer's old injuries ache in the order they were received, and the chain leaves a bruise across the palm that the armoury has learned to expect. Prolonged use leaves both, and the file records the pairing rather than treating either as a complaint.
+**Bearer cost:** The bearer's old injuries ache in the order they were received, and the chain leaves a bruise across the palm that the armoury has learned to expect. Prolonged use leaves both, and the file records the pairing rather than treating either as a complaint.
 
 **Release discipline:** The exact Weapon record requires a known person to be released, a real safe route and an authority or support group ready to receive them. It cannot determine legal innocence or turn retaliation into liberation. Without a safe route it refuses the release and returns pressure to the bearer; every claimed release remains subject to external review. Keep that limit without pretending the unresolved Fang and Censer descriptions document a transformation.
 
@@ -238,7 +235,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Appearance:** a shield-backed harness of Grudge Han-iron, dark and faintly warm, that tightens a notch while the wearer is being argued with and slackens when the argument stops. The armoury has measured the notch and has no explanation for it on file.
 
-Its case carries one condition in the wearer's own hand: the plate may never be used to block an exit from somebody who has a right to leave, and before every issue the route is drawn on the case and checked against the actual site by a release observer rather than against the drawing. Used to pen people in, the grid turns inward and the wearer feels every unjust confinement the source is carrying until the route is reopened; the overload condition is the grid forming with no visible gap, which the armoury enters as a fault in the bearer and not in the plate. Deployed to grade it catches one rage-based strike and puts it into unoccupied ground, and it is not signed back in until the exit is confirmed still open.
+Its case carries one condition in the wearer's own hand: the plate may never be used to block an exit from somebody who has a right to leave. And before every issue the route is drawn on the case and checked against the actual site by a release observer rather than against the drawing. Used to pen people in, the grid turns inward and the wearer feels every unjust confinement the source is carrying until the route is reopened. The overload condition is the grid forming with no visible gap, which the armoury enters as a fault in the bearer and not in the plate. Deployed to grade it catches one rage-based strike and puts it into unoccupied ground, and it is not signed back in until the exit is confirmed still open.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -250,7 +247,7 @@ Its case carries one condition in the wearer's own hand: the plate may never be 
 
 **Ability:** Absorbs and reflects rage-based attacks.
 
-**Cost:** The wearer feels every unjust confinement represented by the shield.
+**Bearer cost:** The wearer feels every unjust confinement represented by the shield.
 
 ### M.A.W. Stigma — The Cage Charm
 
@@ -258,7 +255,7 @@ Its case carries one condition in the wearer's own hand: the plate may never be 
 
 **Appearance:** a small charm of Grudge Han-iron that weighs more than its size accounts for, and grows heavier in a room where somebody is being blamed for something they did not do. The weight returns to its resting figure within an hour of leaving the room.
 
-It is issued with a partner and never alone: a candidate accepts an oversight partner who can reject a use motivated by retaliation, and the charm comes off when that partner unhooks it — after the barrier report carries a concrete follow-up rather than a promise of one. It is read one barrier at a time, and a second charm on the same bearer produces two conflicting bars, neither of them reliable. What it will not do is what the wing keeps asking of it: it cannot establish legal guilt, prove intent, or let a bearer override a restriction they merely dislike, and its hidden cost is that the bearer's anger sharpens in proportion to how plainly the barrier shows.
+It is issued with a partner and never alone: a candidate accepts an oversight partner who can reject a use motivated by retaliation. And the charm comes off when that partner unhooks it — after the barrier report carries a concrete follow-up rather than a promise of one. It is read one barrier at a time, and a second charm on the same bearer produces two conflicting bars, neither of them reliable. What it will not do is what the wing keeps asking of it: it cannot establish legal guilt, prove intent, or let a bearer override a restriction they merely dislike. And its hidden cost is that the bearer's anger sharpens in proportion to how plainly the barrier shows.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -266,7 +263,7 @@ It is issued with a partner and never alone: a candidate accepts an oversight pa
 
 **Ability:** A minor boon borrowed from the holding's patience: the charm holds one grievance for the bearer without letting it harden and gives it back when asked. It cannot hold two.
 
-**Cost:** The bearer's temper shortens.
+**Bearer cost:** The bearer can set one grievance down for a while. The second one the charm will not take, and it is always the second one that follows them home.
 
 *The Cage Charm is not manufactured and cannot be requested; the object confers it rarely, and the armoury has never identified what distinguishes the sessions that produce one.*
 
@@ -276,7 +273,7 @@ The pieces form from released Grudge echoes, not pried bars or a wearable versio
 
 Each piece keeps its own account of that grievance. The censer takes the body first: old injuries ache in the order they were received, and the chain leaves a bruise across the palm. Log that injury and the old-wound pain separately; an expected toll is not an unrecorded or harmless one. The shield takes the wearer's sense of the room — the first sentence in which somebody describes a room as smaller than it measures is the limit and is entered as one. The charm takes the temper, and the oversight partner exists because that cost arrives before the bearer notices it.
 
-The set is extracted rather than issued. A worker finishes Viderehan without touching the bars, then names a documented injustice and the limit of the current record; if the cage's pulse slows without anyone attempting to open it, one crimson echo may form beyond the outer bar, and pried fragments are not M.A.W. Worn complete, the resonance is called the Open Bar and it runs on three things at once — a real barrier, a safe route out, and somebody besides the bearer who can acknowledge the harm. Its cost is that every injustice named through the set stays emotionally present until a follow-up action rather than a report is entered, and retaliatory use locks the set into a closed-bar state. The source reaction it draws is a single bar slowing and not vanishing, which the file states plainly, because acknowledgment is not erasure.
+The set is extracted rather than issued. A worker finishes Viderehan without touching the bars, then names a documented injustice and the limit of the current record. If the cage's pulse slows without anyone attempting to open it, one crimson echo may form beyond the outer bar. And pried fragments are not M.A.W. Worn complete, the resonance is called the Open Bar and it runs on three things at once — a real barrier, a safe route out, and somebody besides the bearer who can acknowledge the harm. Its cost is that every injustice named through the set stays emotionally present until a follow-up action rather than a report is entered, and retaliatory use locks the set into a closed-bar state. The source reaction it draws is a single bar slowing and not vanishing, which the file states plainly, because acknowledgment is not erasure.
 
 ### Field Use Record
 
@@ -287,7 +284,7 @@ The set is extracted rather than issued. A worker finishes Viderehan without tou
 | **At limit** | Hours worn, activations, the wearer's own count against the second worker's, and the first sentence in which the wearer describes a room as smaller than it measures. That sentence is the limit and is entered as one. A charm bearer's temper is the second limit and is called by the oversight partner rather than by the bearer, and the partner's call does not require the bearer's agreement. |
 | **After use** | Removal, injuries, and whether the wearer left the room without checking the door. The last field has been recorded at every issue since the set was struck, and the armoury reads it before any other. The barrier report is closed with a follow-up action and not with an intention, and routine Charm return follows that recorded action and partner review. This does not postpone its emergency shutdown: the partner closes the case clasp over the bars, states the release route and removes the Charm under its individual record. |
 
-**Stat interpretation:** Grade does not guarantee an open route, faultless protection or a safe bearer. Authorise against each piece’s release, oversight and shutdown conditions as well as its effect. The armoury records harder-to-settle arguments after a season of use; that cost remains alongside the documented recoil and closed-grid failures, not behind a claim that the set has never failed.
+**Stat interpretation:** Grade does not guarantee an open route, faultless protection or a safe bearer. Authorise against each piece’s release, oversight and shutdown conditions as well as its effect. The armoury records harder-to-settle arguments after a season of use. That cost remains alongside the documented recoil and closed-grid failures, not behind a claim that the set has never failed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -315,7 +312,7 @@ The set is extracted rather than issued. A worker finishes Viderehan without tou
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Containment description for C-IIIγ-120 [GO], the holding called Redcage: an Object/Place with an Object-Grudge manifestation of Grudge, formed from people imprisoned without cause and held at SECTOR-B-01, Zone B. The frame has no door, no prisoner and no voice; the bars pulse together whether or not anyone is in the room, and the count stands at 409 against 361 at commissioning.
+Containment description for C-IIIγ-120 [GO], the holding called Redcage: an Object/Place with an Object-Grudge manifestation of Grudge, formed from people imprisoned without cause and held at SECTOR-B-01, Zone B. The frame has no door, no prisoner and no voice. The bars pulse together whether or not anyone is in the room, and the count stands at 409 against 361 at commissioning.
 
 **Entry 2 — <One Bar per Injustice>**
 New injustice adds a bar.
@@ -335,7 +332,7 @@ The cage has no door, and that is the whole of it: it was not built to hold anyt
 
 | Do the thing on file: Viderehan and Ferrehan only, worked from outside the bars, with the count taken twice by two people. | Answer it — make the case, in the room, at the bars, where the argument will be heard and agreed with. |
 |---|---|
-| Tests whether the worker can remain near rage without feeding it. The sorrow is named; Redcage is fully recorded. | The worker’s argument feeds the recorded rise in pressure and gauge. Withdraw the worker under the response procedure; the frame does not retreat, and a failed session is not proof that every bar’s source has been identified. |
+| Tests whether the worker can remain near rage without feeding it. The sorrow is named; Redcage is fully recorded. | The worker’s argument feeds the recorded rise in pressure and gauge. Withdraw the worker under the response procedure. The frame does not retreat, and a failed session is not proof that every bar’s source has been identified. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -348,7 +345,7 @@ The Cage stands empty, pulsing with the anger of people who were locked away for
 
 **With continued exposure:** The anger arrives as reasoning. A worker finds themselves with a complete and well-ordered case about something genuinely unfair in their own life, and the case gets better the longer they stand there. Understanding what is happening does not weaken it at all.
 
-**When the entity activates:** Somebody has touched the bars, or tried to open a thing with no door, and the anger comes out as a wave carrying other people's imprisonments. It does not stop when the worker lets go. It stops when the injustice is said out loud, specifically, by somebody who had no part in it, and nothing else has ever ended an activation early — not distance, not force, not time, and not an apology offered on behalf of an office rather than in a person's own name.
+**When the entity activates:** Somebody has touched the bars, or tried to open a thing with no door, and the anger comes out as a wave carrying other people's imprisonments. It does not stop when the worker lets go. It stops when the injustice is said out loud, specifically, by somebody who had no part in it. And nothing else has ever ended an activation early — not distance, not force, not time. And not an apology offered on behalf of an office rather than in a person's own name.
 
 **After departure:** The grievance travels out with the worker and attaches to whatever is nearest — a roster, a refusal, an old decision. The medical office logs the pattern specifically and the wing does not accept complaints filed within forty-eight hours of a watch here, a rule the staff association agreed to and reviews annually.
 
@@ -361,19 +358,19 @@ Three holdings are filed beside this one because the debt system built them in t
 
 ### Entity Interaction Record
 
-This holding is read against the other things the debt system left behind. None of the three relationships below is settled, and two are hard to measure at all, because the object's own series rises on events nobody in the facility can see: a bar appears for an injustice that happened somewhere else, and no pair of readings taken here can attribute it.
+This holding is read against the other things the debt system left behind. None of the three relationships below is settled. And two are hard to measure at all, because the object's own series rises on events nobody in the facility can see: a bar appears for an injustice that happened somewhere else. And no pair of readings taken here can attribute it.
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
 | **The Iron Judge** | The Judge holds the record of each proceeding, which makes it the only external source against which a bar could in principle be dated. | Attempted three times under authorisation and abandoned. No bar has ever been matched to a proceeding: the Judge's record is complete and the cage's additions carry nothing that could be matched against it. | The three attempts, the method used, and the reason each was abandoned. |
-| **The Debt Wall** | Both grew out of institutional obligation and both keep a total that only rises. | Six co-presences. Neither total moved in response to the other, and the wing's note is that the resemblance is thematic rather than operational and has misled two separate inquiries. | The six co-presences and the standing caution against reading the pairing as a mechanism. |
-| **The Angry Maiden** | The only pairing on file with a measurable effect: her presence raises the pulse rate and the inner-face temperature. | Measured across four approaches. The pulse rose on all four and returned to baseline within a day of separation; the bar count did not change on any of them, which is the part the file emphasises. | All four approaches, with pulse and temperature series and the unchanged count. |
+| [**The Debt Wall**](SE-C-IIIγ-180_Owed_빚의_벽.md) | Both grew out of institutional obligation and both keep a total that only rises. | Six co-presences. Neither total moved in response to the other, and the wing's note is that the resemblance is thematic rather than operational and has misled two separate inquiries. | The six co-presences and the standing caution against reading the pairing as a mechanism. |
+| [**The Angry Maiden**](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) | The only pairing on file with a measurable effect: her presence raises the pulse rate and the inner-face temperature. | Measured across four approaches. The pulse rose on all four and returned to baseline within a day of separation. The bar count did not change on any of them, which is the part the file emphasises. | All four approaches, with pulse and temperature series and the unchanged count. |
 
-**Interaction procedure:** Work each party alone first and only then in sight of the other, approaching along the marked floor and never across it. Enter the first shared change with its distance, duration and trigger, the gauge movement on both sides, and anything still measurable a week after separation. The count is taken before, at once after, and on the seventh day; a rise that appears in all three is the only kind this file will name as an effect.
+**Interaction procedure:** Work each party alone first and only then in sight of the other, approaching along the marked floor and never across it. Enter the first shared change with its distance, duration and trigger, the gauge movement on both sides, and anything still measurable a week after separation. The count is taken before, at once after, and on the seventh day. A rise that appears in all three is the only kind this file will name as an effect.
 
 ## 이야기 (Narratio) — The Tale
 
-Zone B has always been where the city puts the people it does not want to look at — and where it puts them when it wants to punish them for being there.
+Before the city kept a map, Zone B was where the city put the people it did not want to look at — and where it puts them when it wants to punish them for being there.
 
 The cage was built for debtors. The Collectors needed somewhere to hold citizens whose obligations had fallen so far behind that even the ledgers lost patience — and somewhere, too, for the convenient arrests, the citizens jailed for crimes they had not committed, the troublemakers whose only real offense was being poor and visible in a district the city preferred to keep invisible. The cage filled. The cage stayed full. The system that filled it did not, as a matter of policy, admit error. To empty the cage would have been to acknowledge that some of those inside should never have been put there, and the system did not acknowledge such things.
 
@@ -403,7 +400,7 @@ Some sorrows mourn freedom lost. Redcage mourns the particular freedom of being 
 **Common Name:** Redcage
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). An empty frame with articulate fury, a lasting conviction of confinement on long exposure, and outward growth. The no-physical-injury claim elsewhere in the archive is not a safety guarantee against the pressure and combat responses in this file; physical entry, bar-strike and collapse accounts still require reconciliation with the doorless fixed frame.
+**Threat Assessment:** Major (γ). An empty frame with articulate fury, a lasting conviction of confinement on long exposure, and outward growth. The no-physical-injury claim elsewhere in the archive is not a safety guarantee against the pressure and combat responses in this file. Physical entry, bar-strike and collapse accounts still require reconciliation with the doorless fixed frame.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only; the older entry naming Pugnahan is an error and should not be relied on. The object is not confronted.
 - Do not enter the Cage. The bars carry the rage of the wrongly imprisoned.
@@ -412,14 +409,14 @@ Some sorrows mourn freedom lost. Redcage mourns the particular freedom of being 
 - Formed from the accumulated rage of citizens jailed without cause.
 - The Cage is empty. The rage is not.
 **Cross-References:** Zone B · The Collectors · the debt system · the Giltong · the cut-mark authorisation register
-**Faction Involvement:** SED (C-territory exploration) holds the floor-mark survey and the cut-mark authorisation register; Wound Walkers (Fracture-relevant) are the office of record for the Fracture cases on the list. Neither has an operational role against the object itself.
+**Faction Involvement:** SED (C-territory exploration) holds the floor-mark survey and the cut-mark authorisation register. Wound Walkers (Fracture-relevant) are the office of record for the Fracture cases on the list. Neither has an operational role against the object itself.
 **Originator:** Collective; citizens of Zone B imprisoned for debts they did not owe, named where the court records permit and listed incompletely on purpose.
 
 ### Registry Addendum
 
-**Operational interpretation:** The instrument here is the count, and the count is not a threat reading. Read the file as three series side by side — bars, quashed convictions, compensation payments — and note that only the first has ever risen: 409 against 361 at commissioning, 37 quashed, 3 paid. Record what the frame does on the day and enter it against the floor marks rather than against the previous watch's mood; where the room and the paper disagree, the room is entered first.
+**Operational interpretation:** The instrument here is the count, and the count is not a threat reading. Read the file as three series side by side — bars, quashed convictions, compensation payments — and note that only the first has ever risen: 409 against 361 at commissioning, 37 quashed, 3 paid. Record what the frame does on the day and enter it against the floor marks rather than against the previous watch's mood. Where the room and the paper disagree, the room is entered first.
 
-**Review requirement:** At every watch: the count twice from the gap photographs, the dimension against each dated floor mark, the pulse and the temperature gap, and the outer mark's distance spoken aloud at handover. A new mark is reviewed on its own and needs the senior Warden's authorisation before it is cut; the review records the distance in centimetres and the date, and appends the cut-mark register's latest entry.
+**Review requirement:** At every watch: the count twice from the gap photographs, the dimension against each dated floor mark, the pulse and the temperature gap, and the outer mark's distance spoken aloud at handover. A new mark is reviewed on its own and needs the senior Warden's authorisation before it is cut. The review records the distance in centimetres and the date, and appends the cut-mark register's latest entry.
 ## Warden Record
 
 ### Empty
@@ -444,19 +441,19 @@ Entries in the register give the date, the authorising Warden, and the distance 
 
 The count is the holding's instrument and it is the cleanest number in the wing: taken twice, by two people, from photographs of the gaps rather than of the bars, at every watch for nine years. **Four hundred and nine.** It was three hundred and sixty-one at commissioning.
 
-It is also, as a measurement, almost entirely useless, and the file is at pains to say so in the same paragraph. A new bar tells the wing that an injustice has occurred. It does not say what was done, or to whom, or by whom, or where, or when beyond the interval since the last count. **It cannot be disaggregated, cannot be dated, and cannot be acted on.** Three attempts were made to match additions against the Iron Judge's complete record of proceedings; all three were abandoned, because an addition carries nothing a record could be matched against.
+It is also, as a measurement, almost entirely useless, and the file is at pains to say so in the same paragraph. A new bar tells the wing that an injustice has occurred. It does not say what was done, or to whom, or by whom, or where, or when beyond the interval since the last count. **It cannot be disaggregated, cannot be dated, and cannot be acted on.** Three attempts were made to match additions against the Iron Judge's complete record of proceedings. All three were abandoned, because an addition carries nothing a record could be matched against.
 
 What the series does carry is one fact nobody has been able to argue away. **No bar has ever been removed.** In the same nine years, the courts have quashed **thirty-seven** convictions of the kind that formed this object — quashed them properly, on the record, with the convictions struck out and the names cleared.
 
 The count did not move. Not on the day, not in the following quarter, not at all.
 
-The file sets out the two possible readings and declines to choose between them. Either the object does not register a quashing, in which case it is a worse instrument than it appears; or a quashing does not undo the thing the object is counting, in which case it is a better one. **Both readings are printed. Neither is adopted.** The standing note adds only that the wing would prefer the first and has no evidence for it.
+The file sets out the two possible readings and declines to choose between them. Either the object does not register a quashing, in which case it is a worse instrument than it appears. Or a quashing does not undo the thing the object is counting, in which case it is a better one. **Both readings are printed. Neither is adopted.** The standing note adds only that the wing would prefer the first and has no evidence for it.
 
 ### Quashed Is Not Innocent
 
 Thirty-seven convictions quashed; **three compensation payments made.** The gap is not an administrative failure and nobody involved in it did anything wrong.
 
-A quashed conviction means the case against a person has failed. It does not mean the person has been shown not to have done it, and compensation for wrongful imprisonment is paid on the second thing rather than the first — the applicant must establish their innocence, affirmatively, to a standard the original proceedings never required of anybody. **The burden that was never on them when they were convicted is on them when they ask to be paid.**
+A quashed conviction means the case against a person has failed. It does not mean the person has been shown not to have done it. And compensation for wrongful imprisonment is paid on the second thing rather than the first — the applicant must establish their innocence, affirmatively, to a standard the original proceedings never required of anybody. **The burden that was never on them when they were convicted is on them when they ask to be paid.**
 
 The rule has a defensible purpose, and the file states it fairly: public money should not be paid out merely because a prosecution was imperfect, and a system that paid on every quashing would pay on technicalities as readily as on injustices. Nobody in the wing argues for its abolition.
 
@@ -468,13 +465,13 @@ Those thirty-four are not compensable by the wing, not addressable by it, and no
 
 What the wing could decide was what it would stop doing, and it has gone further than any comparable holding in the facility.
 
-**There is no detention capability within two kilometres of this object.** The wing closed its own Zone B holding cells, surrendered the authorisation, and had the rooms converted to stores — not reduced, not restricted, closed, with the instruction drafted so that it cannot be reopened by a local decision. Anybody in Zone B who must be detained, staff or public, is transported to Sector C, which takes **forty minutes each way**.
+**There is no detention capability within two kilometres of this object.** The wing closed its own Zone B holding cells, surrendered the authorisation. And had the rooms converted to stores — not reduced, not restricted, closed, with the instruction drafted so that it cannot be reopened by a local decision. Anybody in Zone B who must be detained, staff or public, is transported to Sector C, which takes **forty minutes each way**.
 
-The cost is not hypothetical and the file does not present it as a clean choice. Twice in nine years somebody who should have been held was released instead, because the escort was not available and the alternative was holding a person in a corridor with no lawful authority; one of those two went on to injure somebody, and the file names neither the released man nor the person he hurt, but records the injury and records that the wing's decision was a contributing cause. Once, a worker in acute crisis was physically restrained for the length of the journey by colleagues who had no training in it, because there was nowhere within forty minutes to put him safely. He returned to duty. He did not stay.
+The cost is not hypothetical and the file does not present it as a clean choice. Twice in nine years somebody who should have been held was released instead, because the escort was not available and the alternative was holding a person in a corridor with no lawful authority. One of those two went on to injure somebody. And the file names neither the released man nor the person he hurt. But records the injury and records that the wing's decision was a contributing cause. Once, a worker in acute crisis was physically restrained for the length of the journey by colleagues who had no training in it, because there was nowhere within forty minutes to put him safely. He returned to duty. He did not stay.
 
 **None of those three people can be compensated by the wing**, and the wing has not approached any of them, on legal advice it quotes without defending.
 
-The security office's objection is minuted at every annual review and has never been withdrawn. A wing that cannot detain cannot discharge its duty of protection; the forty minutes falls hardest on the people least able to wait; and the policy was adopted on the strength of a correlation the wing itself describes as unproven. The minute records the objection as **correct in all three parts**, records that the count rose through the two most recent reviews anyway, and gives the only answer on file: *every cell we keep inside the ring is a bar we are offering it.*
+The security office's objection is minuted at every annual review and has never been withdrawn. A wing that cannot detain cannot discharge its duty of protection. The forty minutes falls hardest on the people least able to wait. And the policy was adopted on the strength of a correlation the wing itself describes as unproven. The minute records the objection as **correct in all three parts**, records that the count rose through the two most recent reviews anyway, and gives the only answer on file: *every cell we keep inside the ring is a bar we are offering it.*
 
 ## Trivia
 
@@ -487,9 +484,9 @@ The security office's objection is minuted at every annual review and has never 
 
 - **Classification detail:** Redcage is an Object/Place with Fragment (III) — Furious and trapped coherence and Major (γ) potency.
 - **Field detail:** Grudge is the defining element and SECTOR-B-01, Zone B, the location. The series this file runs on is the bar count — 409 now against 361 at commissioning, taken twice by two people from photographs of the gaps — with 37 convictions quashed in the same nine years, 3 compensated, and 34 owed nothing through any channel the wing holds.
-- **Recognition detail:** Identify it by the absence of a door and by the dated marks cut into the floor around it; never by size, which is different from the last time anybody looked.
-- **Record detail:** This file should be read with the cut-mark authorisation register and the Zone B detention instruction beside it; most of what this holding costs the wing is recorded in those two documents and not in this one.
-- **Containment detail:** Sealed does not mean silent, and the boundary here is the outermost cut mark rather than the bars: influence crosses the floor without being carried, and the frame is monitored as a live holding because a fixed object can still gain a bar. The chalk-and-mark discipline exists for that reason and not for tidiness.
+- **Recognition detail:** Identify it by the absence of a door and by the dated marks cut into the floor around it. Never by size, which is different from the last time anybody looked.
+- **Record detail:** This file should be read with the cut-mark authorisation register and the Zone B detention instruction beside it. Most of what this holding costs the wing is recorded in those two documents and not in this one.
+- **Containment detail:** Sealed does not mean silent. And the boundary here is the outermost cut mark rather than the bars: influence crosses the floor without being carried. And the frame is monitored as a live holding because a fixed object can still gain a bar. The chalk-and-mark discipline exists for that reason and not for tidiness.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-120

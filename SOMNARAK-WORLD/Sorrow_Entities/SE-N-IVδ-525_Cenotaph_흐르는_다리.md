@@ -13,8 +13,8 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A humanoid figure whose body flows like a bridge over moving water — its torso a span, its arms reaching to shelter people who are already gone. Fever-cold, it smells of char; it carries the lost across a river that is not there. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile by span — it leaves on foot and re-spans busy corridors. It does not chase, and follows only whoever still holds the crossing's responsibility. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle, drawn from the dark water under the span rather than from the stone, and reachable only while the body stays arched |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **SE Effect** | **On the breach** — it takes up a span on foot and the Gardens' routes are rerouted around it by works order rather than by wing decision, and the detour outlives the breach. |
+| **Work Damage** | 4–7 Grudge — the cost is Threshold 1 on a body already spanning corridors |
+| **Activation threshold** | 1 failed cycle |
 | **Tool / M.A.W. grade** | — · α (Minor) — the extracted pieces, not the δ source |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -52,10 +54,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Grudge, the element of the oath it is carrying; 35% against everything else — a bridge that lets traffic cross offers very little to strike at |
+| **Resistance** | 45% against Grudge, the element of the oath it is carrying. 35% Against everything else — a bridge that lets traffic cross offers very little to strike at |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–65 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -70,7 +72,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan and Ferrehan move the gauge. Viderehan runs for record; Pugnahan has a recorded adverse response and is not authorised |
 | **Battlefield** | Zone D, Echo Gardens |
 | **Resolution Condition** | Controlled acknowledgment and team support |
 
@@ -78,11 +80,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Liquid Span* [**Debuff**] } | "The bridge is not solid — it flows, like a river pretending to be a road — and your footing is never sure." | [The Bridge's liquid form destabilizes the target; they cannot find purchase.] | *Target suffers -10 Resilience; the ground is moving.* **[10 Grudge DMG [Grudge]]** | When the target steps on the Bridge. |
-| { *The Current* [**Debuff**] } | "The bridge-flow speeds up — carrying you toward the far side, or the far drop." | [The Bridge's current accelerates; the target is being carried.] | *Target loses 10 Resilience; they cannot stop moving.* **[10 Grudge DMG [Grudge]]** | When the target is mid-crossing. |
-| { *The Wave-Span* [**Attack**] } | "The liquid bridge surges — a wave rising from the path itself." | [A bridge-wave crests and crashes.] | *Inflicts Grudge pressure and one wound of liquid impact.* **[14-22 Grudge DMG [Grudge]]** | When the Bridge is overloaded. |
-| { *The Full Rush* [**Attack**] } | "The bridge becomes water, and the water remembers every crossing it was never able to hold." | [The span gives up its shape at once and the whole of its load arrives at the target.] | *A heavy Crimson torrent; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the crossing is blocked or the span is dammed. |
-| { *The Flooded Crossing* [**Ultimate**] } | "Every crossing in the sector goes to water — and the water is still on duty." | [The span spreads along the routes it can reach, liquefying each one it covers.] | *All in range suffer Grudge pressure for three turns; nothing underfoot reads as holding.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with solo crossings still being logged. |
+| { *The Liquid Span* [**Debuff**] } | "Stone while it holds, water while it does not — the transition is the only warning it gives." | [The surface goes from stone to moving water above the walking line; nobody is on the span, and footing beneath it stops feeling assigned.] | *Target suffers -10 Resilience; the load is looking for a carrier.* **[10 Grudge DMG [Grudge]]** | When the surface transitions while a worker passes beneath alone. |
+| { *The Current* [**Debuff**] } | "Four hundred and six crossings. Ninety-one of them shared." | [The current of old promises quickens along the body; the solo worker is counted before they are reached.] | *Target loses 10 Resilience; the crossing keeps accumulating on one person.* **[10 Grudge DMG [Grudge]]** | When a crossing is made by one person with nobody sharing it. |
+| { *The Wave-Span* [**Attack**] } | "The one recorded attempt to go over ended with the span giving way — and the collapse felt like an apology." | [The arch lowers and offers itself; under a solo load it gives way into water that is not there.] | *Inflicts Grudge pressure as weight, not impact; the fall is recorded separately from the strike.* **[14-22 Grudge DMG [Grudge]]** | When somebody goes over the span alone or treats it as a road. |
+| { *The Full Rush* [**Attack**] } | "Close the crossing rather than the entity." | [Barricaded or dammed, the body pushes through and re-spans across the route people are using.] | *A heavy Grudge surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the route is barricaded instead of the crossing being closed and re-routed. |
+| { *The Flooded Crossing* [**Ultimate**] } | "It is closed not because it is unsafe. But because it is still on duty." | [The span spreads along the corridors it already grips; every surface it holds reads as moving water.] | *All in range suffer Grudge pressure for three turns; nothing underfoot reads as holding.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with solo crossings still being logged. |
 
 ### Battle Phases
 
@@ -92,15 +94,16 @@
 
 ### Consequences
 
-- A worker who holds against the span is a double loss: **Resilience** goes at the point they brace, and the entity takes the failure as a load — the gauge it feeds is the one their resistance filled.
+- A worker who braces against the span turns themselves into structure: **Resilience** goes at the point of bracing, because standing still on this record is participation and the load accepts whoever offers to carry it.
 - Time alone does nothing here. What accumulates is crossings: each person who goes over the span unaccompanied adds to the load it believes it is carrying, and a shift of heavy single traffic does more than a day of standing idle.
 - The shrine, the plate and the ring are all made from a promise that outlived the person it was given to. Each activation borrows that refusal to let go, and the operator keeps a share of it. What the record prices this at is not pain; it is that the operator stops being able to hand a task over.
 - An encounter that ends without the responsibility being placed somewhere does not end; it is carried out of the chamber. Cenotaph does not pursue the team. It follows the one who left still holding it, and the file notes that this is usually the person who spoke least.
+- It takes up a span on foot, and the Gardens' routes were rerouted around it — the rerouting is a facility works order, not a wing decision.
 
 ## Appearance
 **Primary Form:** A long serpentine creature of flowing stone and dark water, its body arching and coiling like a living bridge across corridors.
 
-**Material and Surface:** Living stone-water — the central span undulates with the current of old promises; stone pilings serve as the limbs that grip walls and floor.
+**Material and Surface:** Living stone-water — the central span undulates with the current of old promises. Stone pilings serve as the limbs that grip walls and floor.
 
 **Movement and Posture:** It undulates and coils, arching over gaps, protecting the spaces where people have already gone by curling defensively around the absent.
 
@@ -121,9 +124,9 @@
 |---|---|
 | **Form** | A humanoid figure whose body flows like a bridge over moving water. Its arms protect people who are already gone. |
 | **Position / movement** | Mobile, but the file records it by span rather than by position: the two points the body bridges, how much corridor it occupies, and whether the arch rose or fell during the observation. A lowered span is not the entity settling — it is making itself easier to walk on. |
-| **Material / signature** | Grudge presentation in living stone-water: record the surface state at each hour — stone while it holds, water while it does not — the one transition between them, the direction the arms are reaching, and the char-smell in a corridor with nothing burning. |
+| **Material / signature** | Grudge presentation in living stone-water: record the surface state at each hour — stone while it holds, water while it does not — the one transition between them, the direction the arms are reaching. And the char-smell in a corridor with nothing burning. |
 | **Distinctive markers** | The span and the surface together: the one record in Zone D that arches between two fixed points and makes itself walkable. Confirm the designation before contact — the registry holds more than one record of this form, and they do not want the same things from a worker. |
-| **Identification** | Match the SECC code before work or contact. Several Echo Gardens records share the surge that produced this one, and the wrong identification here means arriving with the wrong idea of what it is trying to do — this is the one that is still trying to carry people, not the one that stops them. |
+| **Identification** | Match the SECC code before work or contact. Several Echo Gardens records share the surge that produced this one. And the wrong identification here means arriving with the wrong idea of what it is trying to do — this is the one that is still trying to carry people, not the one that stops them. |
 
 **Appearance protocol:** Record the surface before anything else — stone when it is holding, moving water when it is not, and the transition between them is the only reliable warning this entity gives. Note the arms, which reach for people who are not in the corridor, and the direction they are reaching. They have twice pointed at a door before anybody came through it.
 
@@ -132,16 +135,16 @@
 - **The Sorrow:** The grief of defending the dead while blaming oneself for their absence.
 - **The Event:** A guardian promised to keep a crossing safe, but an Outside Sorrow surge destroyed it before help arrived.
 - **The People:** A guardian of a river crossing in the Echo Gardens, and the people who were on the crossing when the surge took it. The Keepers' record names the guardian and does not name the lost, because the guardian's own account of that day never managed to list them.
-- **Expanded origin context:** The duty assignment survives, and it looks administrative: a roster, a schedule, a signature. The wing includes it because the plainness is the point — the oath this entity is made of exists in the archive as a line on a shift sheet, which is what most promises look like before they are broken. The crossing itself was withdrawn from service by order rather than by containment, and the order gives its reason in one sentence: the span is closed not because it is unsafe but because it is still on duty, and it cannot be relieved of a duty the facility keeps asking it to perform. Responsibility for movement across the Gardens now sits with the routing office, under a name, so that it is never left with whichever worker crosses alone.
+- **Expanded origin context:** The duty assignment survives, and it looks administrative: a roster, a schedule, a signature. The wing includes it because the plainness is the point — the oath this entity is made of exists in the archive as a line on a shift sheet, which is what most promises look like before they are broken. The crossing itself was withdrawn from service by order rather than by containment. And the order gives its reason in one sentence: the span is closed not because it is unsafe but because it is still on duty. And it cannot be relieved of a duty the facility keeps asking it to perform. Responsibility for movement across the Gardens now sits with the routing office, under a name, so that it is never left with whichever worker crosses alone.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Reaches for the worker and lowers its anger. | Decrease |
-| **Pugnahan** | Retaliates with flowing force. | Increase |
-| **Viderehan** | Shows the promise and the failed crossing. | Stable |
-| **Ferrehan** | Weighs the worker's resolve beneath moving pressure. | Decrease |
+| **Flerehan** | Reaches for the worker and lowers its anger. | Decrease · High |
+| **Pugnahan** | Retaliates with flowing force. | Increase · Low |
+| **Viderehan** | Shows the promise and the failed crossing. | Stable · Common |
+| **Ferrehan** | Weighs the worker's resolve beneath moving pressure. | Decrease · Common |
 
 
 
@@ -149,16 +152,15 @@
 
 The four responses split two and two, which is unusual for a Grudge subject and is the whole of the mechanism. Flerehan reaches for the worker and lowers its anger; Ferrehan lowers the gauge by weighing resolve beneath moving pressure. Viderehan holds the reading flat and shows the promise together with the failed crossing. Pugnahan meets flowing force and raises it, and is entered on the log as the one approach that has put personnel into water that is not there. Cenotaph is filed as a Subject with a Subject-Body manifestation at Zone D in the Echo Gardens, and nothing about a similarly-named record transfers. A flat gauge is not a safe session either: standing still on the span is participation and stepping off it is not, which is the distinction crews most often get wrong.
 
-**Reading the response:** A falling gauge under Flerehan means the reaching was answered rather than avoided; a falling gauge under Ferrehan means the worker stayed on a surface that was moving. Rising means the entity was treated as an obstruction in the corridor. The distinction personnel most often get wrong is that standing still on the span is participation, and stepping off it is not.
+**Reading the response:** A falling gauge under Flerehan means the reaching was answered rather than avoided. A falling gauge under Ferrehan means the worker stayed on a surface that was moving. Rising means the entity was treated as an obstruction in the corridor. The distinction personnel most often get wrong is that standing still on the span is participation, and stepping off it is not.
 ## Breach Behavior
 
-> *"Cenotaph has broken free. Collapses under anyone who crosses."*
-
+> *"Cenotaph has broken free and the span is giving way. Nobody crosses alone and nobody steps on without the rest of the team. A paired, signed-for crossing is the only one that has ever lowered the drain."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It leaves on foot and re-spans the first busy corridor it reaches. It does not chase; it lies across the route and gives way under whoever crosses alone. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
+| **Effect** | The span gives way under whoever crosses alone; paired and signed-for crossings lower the drain instead. |
 | **Secondary Effect** | The span gives way under load, into water that is not there and from which personnel are nonetheless recovered wet. |
 | **First Target** | Whoever steps onto the span first, and by preference whoever stepped on without waiting for the rest of their team. |
 | **Escalation** | Drain rises by 5 for each solo crossing made while it is free, and falls by 5 for each crossing made in pairs. Time off the span changes nothing either way. |
@@ -167,7 +169,7 @@ The four responses split two and two, which is unusual for a Grudge subject and 
 
 - **Breach type:** Escape — it leaves the chamber on foot and takes up a span somewhere else in the facility, generally across a route people are using.
 - **Containment priority:** Close the crossing rather than the entity. Post the alternate route, mark the span out of service, and ensure nobody is asking it to carry anyone — it has stood down every recorded time this was done, and has pushed through every barricade it was given instead.
-- **Sorrow Gauge on breach:** The gauge tracks crossings, not turns. Each person who goes over the span alone raises it by 10; each crossing made by two people together, or signed for by somebody who is not the one crossing, lowers it by the same. A breach has twice been ended by sending personnel back over in pairs.
+- **Sorrow Gauge on breach:** The gauge tracks crossings, not turns. Each person who goes over the span alone raises it by 5. Each crossing made by two people together, or signed for by somebody who is not the one crossing, lowers it by the same. A breach has twice been ended by sending personnel back over in pairs.
 
 ## M.A.W. Equipment
 
@@ -194,7 +196,7 @@ The clear water trickling within the shrine never overflows its drainage trough.
 
 **Ability:** Grudge damage to the body, delivered as weight rather than as a blow. The shrine carries the entity's self-blame into the strike and falls hardest on anyone it has already decided to shelter.
 
-**Cost:** Old wounds ache and faint bruising rises, in the pattern of a load carried across the shoulders.
+**Bearer cost:** Old wounds ache and faint bruising rises, in the pattern of a load carried across the shoulders.
 
 ### M.A.W. Suit — Cenotaph Plate
 
@@ -214,7 +216,7 @@ Shared load channels run shoulder to shoulder, each traced to a named team membe
 
 **Ability:** Turns Grudge aside from the body, which is the only damage this entity delivers. The plate is what permits a worker to be standing on the span when it gives way.
 
-**Cost:** Reflexes dull and the wearer becomes slow to step off a surface that has started to move, which on this post is the exact hesitation the entity punishes.
+**Bearer cost:** Reflexes dull and the wearer becomes slow to step off a surface that has started to move, which on this post is the exact hesitation the entity punishes.
 
 ### M.A.W. Stigma — Cenotaph Ring
 
@@ -230,13 +232,13 @@ The Ring holds manipulation aside without holding true loss away. Treating real 
 
 **Ability:** Prevents emotional manipulation during rescue work.
 
-**Cost:** The wearer feels every person they cannot save.
+**Bearer cost:** The wearer feels every person they cannot save.
 
 *The ring is never manufactured. It goes to a worker who said out loud whose responsibility the crossing was, and none has ever gone to a worker who took the whole of it onto themselves.*
 
 ### M.A.W. Use Notes
 
-The three pieces extend this holding only as far as the duty is shared. In a team that has named who is accountable, the shrine and the plate hold to grade; in the hands of one worker on their own the cost scales and the Grudge in them becomes active, which here means the operator cannot set the equipment down at the end of the shift. The ring is the exception in every respect, and the exception is the whole of its value.
+The three pieces extend this holding only as far as the duty is shared. In a team that has named who is accountable, the shrine and the plate hold to grade. In the hands of one worker on their own the cost scales and the Grudge in them becomes active, which here means the operator cannot set the equipment down at the end of the shift. The ring is the exception in every respect, and the exception is the whole of its value.
 
 *Shared Protection* requires names and consent rather than an assurance that somebody will help. Before issue, compare the current assignment with what the team could actually control; the impossible promise is released, not transferred to a quieter colleague. Neither the Plate nor the Ring returns the withdrawn Gardens span to service. The routing office retains the movement duty under its recorded name, even after the equipment has been returned.
 
@@ -245,9 +247,9 @@ The three pieces extend this holding only as far as the duty is shared. In a tea
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the day's reading, and the name of the second person carrying this crossing — on this set the cost falls on anyone working alone, so the roster entry is the instrument and the baseline is taken against it. |
-| **During use** | Watch for the toll's first sign — old wounds aching, faint bruising in the pattern of a load carried across the shoulders — and enter the hour the second worker saw it rather than the hour the wielder mentioned it. |
-| **At limit** | The wielder stops noticing the toll: reflexes dull and they become slow to step off a surface that has begun to move, which on this post is the exact hesitation the entity punishes. Every stand-down on this set has been called by the second worker on that sign. |
-| **After use** | Return the piece and re-assess a week later: what this set takes — dulled reflexes, the slow step off a moving surface — does not present on the day. The second worker answers for the wielder, and the answer is entered whether or not the wielder agrees. Attach the shared review before cleaning, retaining who was present, what was known and what was possible beside the later reflex assessment. |
+| **During use** | Watch the piece's own first sign: shoulder-pattern bruising for the Shrine, a slow step off a moving surface for the Plate, and the bearer counting people beyond reach for the Ring. Enter the hour the second worker saw it rather than the hour the wielder mentioned it. |
+| **At limit** | The wielder stops noticing the toll, a Plate channel is found assigned to “whoever is available”, or the Ring-bearer begins treating real grief as tactics. Every stand-down on this set has been called by the second worker on that sign. |
+| **After use** | Return the piece and re-assess a week later: what this set takes — dulled reflexes, the slow step off a moving surface, volunteering for every crossing — does not present on the day. The second worker answers for the wielder, and the answer is entered whether or not the wielder agrees. Attach the shared review before cleaning, retaining who was present, what was known and what was possible beside the later reflex assessment. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and on this post the two diverge sharply. The plate is dependable and the shrine is unremarkable. What no grade records is that the ring, which costs nothing measurable, leaves its wearer volunteering for every crossing on the roster.
 ## 관찰 기록 (Observation Log)
@@ -267,11 +269,11 @@ The three pieces extend this holding only as far as the duty is shared. In a tea
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Read the traffic register before entering the chamber. Two things are taken first: the two points the body is bridging, with the span measured between them, and the shift's crossing count split into solo and shared — the second figure is what the gauge will follow. |
-| **Sustained observation** | The pattern is the load rather than the entity. Flerehan reaches for the worker and lowers its anger; Ferrehan weighs resolve under moving pressure and lowers it again; Viderehan keeps the reading flat and shows the promise with the failed crossing. The gauge rises when the span is treated as an obstruction, and the file's own quarter — 406 crossings, 91 of them shared — is the series it is read against. |
+| **Sustained observation** | The pattern is the load rather than the entity. Flerehan reaches for the worker and lowers its anger. Ferrehan weighs resolve under moving pressure and lowers it again. Viderehan keeps the reading flat and shows the promise with the failed crossing. The gauge rises when the span is treated as an obstruction, and the file's own quarter — 406 crossings, 91 of them shared — is the series it is read against. |
 | **Activation or escalation** | Nothing about this record announces itself; the crossings count it up. Log each crossing with the number of people on it, the surface state at the time, and whether the worker stepped on alone — single crossings accumulate below the reporting threshold, which is why the register rather than the incident log is the file's instrument. |
-| **Post-contact review** | The report is incomplete without the shift's crossing count split solo and shared, the two points of the span, and the name of the person who accepted part of the responsibility aloud. The worker's own account goes in afterwards, in a column of its own; the file reads those accounts against the register rather than instead of it. |
+| **Post-contact review** | The report is incomplete without the shift's crossing count split solo and shared, the two points of the span, and the name of the person who accepted part of the responsibility aloud. The worker's own account goes in afterwards, in a column of its own. The file reads those accounts against the register rather than instead of it. |
 
-**Observation method:** Cold arriving before the span is visible is the first sign. Take the two points the body is bridging, the surface state at each hour, and the number of crossings with the solo count separated out. The encounter ends when responsibility for the crossing has been said aloud and somebody else present has accepted a share of it; a shift that ends with the load still on one person is open, and is entered as open.
+**Observation method:** Cold arriving before the span is visible is the first sign. Take the two points the body is bridging, the surface state at each hour, and the number of crossings with the solo count separated out. The encounter ends when responsibility for the crossing has been said aloud and somebody else present has accepted a share of it. A shift that ends with the load still on one person is open, and is entered as open.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -310,9 +312,9 @@ A bridge flows through the Garden without water beneath it. Its surface carries 
 
 **At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Body resolves: a long form of flowing stone and dark water, its body arching and coiling like a span thrown across a river, its torso the bridge and its arms reaching out to shelter people who are no longer there. The river it crosses is not there either.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** The watch learns to read the surface before anything else — stone when it is holding, moving water when it is not — and to note which way the arms are reaching. They have twice pointed at a door before anybody came through it.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Grudge becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** Nothing announces itself. The transition from stone to water is the warning, the current feels wrong to the observer standing under it, and the crossings already logged solo are what it is counted by.
 
 **After departure:** The span stays where it is; what travels out is the load. Workers leave still holding a crossing they were never assigned, and the standing instruction is that somebody else takes a share of it before the shift ends — the ones who leave alone are the ones the entity follows.
 
@@ -325,13 +327,13 @@ Three records are filed against this one because each concerns a promise kept pa
 
 ### Entity Interaction Record
 
-The Gardens hold several records produced by the same surge that took this crossing, and the three below are filed alongside this one for that reason. None of the three counts as an ally or an enemy; what pairs them is a shared event, and no co-presence has been logged with both holdings' readings attached except where the row says otherwise.
+The Gardens hold several records produced by the same surge that took this crossing, and the three below are filed alongside this one for that reason. None of the three counts as an ally or an enemy. What pairs them is a shared event, and no co-presence has been logged with both holdings' readings attached except where the row says otherwise.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **The Sunken Bridge** | Both are crossings that failed; the Bridge went under and this one is still trying to carry. | Entered as a shared subject: no co-presence has been logged with both holdings' readings attached, so the resonance is a filing reason rather than a measurement. | Log the Bridge's own readings and this record's span and traffic count on the same date, and whether either moved. |
-| **The Grieving Colossus** | Both mourn people they could not reach, and both withdraw from thanks. | One co-presence is on file and it produced no gauge movement on either side; both readings were flat and the session is retained as a null result. | Record both readings before, during and after, and whether either record withdrew when thanked. |
-| **The Guardian of the Gate** | Shares the subject of protective duty and a goodbye that could not be delivered. | Entered as a pairing of subject; no co-presence has been logged with both holdings' readings attached, and neither record's handling notes assume the other's presence. | Record the span and the direction of the arms, and whether the other record's own boundary shifted while both were present. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Both mourn people they could not reach, and both withdraw from thanks. | One co-presence is on file and it produced no gauge movement on either side. Both readings were flat and the session is retained as a null result. | Record both readings before, during and after, and whether either record withdrew when thanked. |
+| **The Guardian of the Gate** | Shares the subject of protective duty and a goodbye that could not be delivered. | Entered as a pairing of subject. No co-presence has been logged with both holdings' readings attached, and neither record's handling notes assume the other's presence. | Record the span and the direction of the arms, and whether the other record's own boundary shifted while both were present. |
 
 **Interaction procedure:** Full-cycle baseline first, then the shared encounter: the distance at which the span began to extend, which way the arms reached, how long the surface stayed solid, and where the body had settled an hour after the other entity withdrew. The last field is what shows whether the crossing was transferred.
 
@@ -367,12 +369,12 @@ Some sorrows are about loss. Cenotaph is about the failed protection — the pro
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ) by consequence rather than by aggression: 910 gauge, 45 per cent against Grudge, 24 turns, and a breach whose escalation is counted in solo crossings rather than in elapsed time.
 **Containment & Handling Procedures:**
-- Refer to the Work Type responses in the Behavior section, and note that two of the four lower the gauge here, which is unusual for a Grudge subject.
-- Standard containment protocols apply.
+- Close the crossing rather than the entity: post the alternate route and mark the span out of service. Passage is beneath the span on the walking line without stopping; going over it is forbidden.
+- Flerehan and Ferrehan lower the gauge, Viderehan holds it flat and shows the promise; Pugnahan is not authorised. Responsibility for Gardens movement sits with the routing office under a name, never with whoever crosses alone.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Combat Record for engagement parameters.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+- The register is the instrument: crossings split solo and shared (406 in the file's quarter, 91 shared), the two bridged points, and the surface state each hour.
+- Gratitude is discouraged in the chamber: the span withdraws from anyone who thanks it.
+**Cross-References:** The crossing register is the file's instrument and is held with the Gardens' routing office. The two bridged points are named in the Contact Record.
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** The guardian of the crossing, named in the Keepers' record and not in this file.
 
@@ -380,7 +382,7 @@ Some sorrows are about loss. Cenotaph is about the failed protection — the pro
 
 **Operational interpretation:** Read this as a record of a duty that was never discharged rather than of an aggressive subject. Every number here was generated by people walking somewhere, and the entity's figures move with the traffic plan more than with anything the containment team does.
 
-**Review requirement:** Re-verify after any Outside Sorrow event, after any change to corridor routing in Zone D, and after any incident in which a worker crossed the span alone — the last whether or not the gauge moved, because single crossings accumulate below the reporting threshold. A review is not an instrument for finding who should have gone with them.
+**Review requirement:** Re-verify after any Outside Sorrow event, after any change to corridor routing in Zone D. And after any incident in which a worker crossed the span alone — the last whether or not the gauge moved, because single crossings accumulate below the reporting threshold. A review is not an instrument for finding who should have gone with them.
 ## Apex Record
 
 ### The Span Across Corridors
@@ -389,11 +391,11 @@ The creature arches between walls and grips them with stone pilings, and the gri
 
 ### The Promise
 
-The guardian's undertaking is documented in the file from the crossing's own records, which were administrative rather than ceremonial — a duty assignment, a schedule, and a signature. The plainness of these documents is the point of including them. The file's note observes that the entity is built out of a promise and that the promise, in its only surviving form, looks exactly like a shift roster, and that personnel who come to the chamber expecting something more solemn should understand that this is what most promises look like before they are broken.
+The guardian's undertaking is documented in the file from the crossing's own records, which were administrative rather than ceremonial — a duty assignment, a schedule, and a signature. The plainness of these documents is the point of including them. The file's note observes that the entity is built out of a promise and that the promise, in its only surviving form, looks exactly like a shift roster. And that personnel who come to the chamber expecting something more solemn should understand that this is what most promises look like before they are broken.
 
 ### Crossing Under It
 
-Personnel pass beneath the span daily and the passage is routine, controlled by nothing more than a walking line and a prohibition on stopping. What is forbidden is going over. The distinction is absolute in the protocol and is drilled because the entity's form invites the error: the arch reads as a bridge, the surface would bear a person, and the one recorded attempt — made in good faith during an obstruction, by a worker who judged it the safer route — ended with the span giving way beneath them from a height that should have been fatal. Their account is in the file and ends with the observation that the collapse felt like an apology.
+Personnel pass beneath the span daily and the passage is routine, controlled by nothing more than a walking line and a prohibition on stopping. What is forbidden is going over. The distinction is absolute in the protocol and is drilled because the entity's form invites the error: the arch reads as a bridge, the surface would bear a person. And the one recorded attempt — made in good faith during an obstruction, by a worker who judged it the safer route — ended with the span giving way beneath them from a height that should have been fatal. Their account is in the file and ends with the observation that the collapse felt like an apology.
 
 ### Old Promises in the Current
 
@@ -401,11 +403,11 @@ The body undulates with a current that the observers log as motion and that the 
 
 ### Water Handling
 
-Dark water sheds from the body continuously and runs to a dedicated channel. It is not drained to the facility system. The channel discharges to sealed carriage and the carriage goes to the Memory Archive, an arrangement adopted because the water was found to carry trace content rather than because it was ever shown to be hazardous, and retained because the alternative involves a promise-bearing fluid passing beneath occupied floors. The volume is considerable. The handling cost appears as its own line in the wing's return and has never been questioned by anyone who has read the assay.
+Dark water sheds from the body continuously and runs to a dedicated channel. It is not drained to the facility system. The channel discharges to sealed carriage and the carriage goes to the Memory Archive, an arrangement adopted because the water was found to carry trace content rather than because it was ever shown to be hazardous. And retained because the alternative involves a promise-bearing fluid passing beneath occupied floors. The volume is considerable. The handling cost appears as its own line in the wing's return and has never been questioned by anyone who has read the assay.
 
 ### Self-Blame
 
-The entity defends the dead and holds itself responsible for their absence, and both halves of that are visible in its conduct toward personnel: it positions itself between workers and open space, and it withdraws from anyone who thanks it. The withdrawal is the operationally significant half. Expressions of gratitude are therefore discouraged in the chamber, not prohibited, and the material explains why rather than simply instructing — a worker who thanks the span is addressing a guardian who believes it failed, and the protocol's drafters concluded that the facility should not require its people to be unkind but should at least tell them what kindness does here.
+The entity defends the dead and holds itself responsible for their absence, and both halves of that are visible in its conduct toward personnel: it positions itself between workers and open space, and it withdraws from anyone who thanks it. The withdrawal is the operationally significant half. Expressions of gratitude are therefore discouraged in the chamber, not prohibited. And the material explains why rather than simply instructing — a worker who thanks the span is addressing a guardian who believes it failed. And the protocol's drafters concluded that the facility should not require its people to be unkind but should at least tell them what kindness does here.
 
 ### The Staged Materials
 
@@ -420,10 +422,10 @@ The shoring timber and jacks staged beside the affected runs are rotated out bef
 
 ### Registry Trivia
 
-- **Classification detail:** Cenotaph files as a Subject; its coherence is Entity (IV) at Critical (δ) potency, and the potency rests on what it does while being helpful: a span that gives way under a single walker is not an assault, and the file still counts the crossings.
+- **Classification detail:** Cenotaph files as a Subject. Its coherence is Entity (IV) at Critical (δ) potency. And the potency rests on what it does while being helpful: a span that gives way under a single walker is not an assault. And the file still counts the crossings.
 - **Field detail:** Grudge is the whole of its element and Zone D, Echo Gardens, the whole of its ground. The register restates the file's own figures — 910 gauge, 45 per cent against Grudge and 35 against anything else, 24 turns, 20–28 Han-Energy a cycle, 406 crossings in a quarter with 91 of them shared — so that the vault log and the dossier cannot drift apart.
 - **Recognition detail:** Identify it by the span and the surface. Other flowing-form entities are catalogued in Zone D; this is the one that arches between two fixed points and offers to be walked on.
-- **Record detail:** Check the designation before approach. More than one record in the Gardens carries the surge and they want different things from a worker; this is the one that wants the crossing taken off it — thank it and it withdraws, share the load and the gauge falls.
+- **Record detail:** Check the designation before approach. More than one record in the Gardens carries the surge and they want different things from a worker. This is the one that wants the crossing taken off it — thank it and it withdraws, share the load and the gauge falls.
 - **Containment detail:** A sealed Cenotaph is not an idle one. It continues to hold a span nobody is using, and the load it reports is unchanged. Containment here is measured on the traffic register rather than on the door.
 ## Document Information
 

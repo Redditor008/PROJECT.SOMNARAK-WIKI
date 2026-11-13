@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Crossing Shroud
 
-> *“The Crossing Shroud remembers Stranded Between Two Shores; the bearer must not mistake memory for permission.”*
+> *"A room full of grief can be crossed without being moved by anyone in it. Nothing crosses back."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Stranded Between Two Shores's kind of pressure.  
-**Binding rule:** the bearer names Stranded Between Two Shores's event—A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return.—and accepts this limit: Listen between the sobs and name both shores
+**Binding rule:** the bearer names Stranded Between Two Shores's event — “A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return.” — and accepts this limit: Listen between the sobs and name both shores
 
 ## Appearance
 
-The Crossing Shroud is the suit record of Stranded Between Two Shores’ set, granting resistance to Lament damage and protecting the Mind against the pressure of a separation that no crossing can repair. Binding is testimonial: the wearer names the source event — a tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return — and accepts the set’s limit: listen between the sobs and name both shores. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the survivors’ stranded vigil installing itself in the wearer’s own geography. The source-trace set the doctrine: the suit requires the worker to remain while the sobs subside — protection conditioned on staying through the weeping rather than past it — and it stabilized the immediate hazard only after the team attributed it to the source. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Crossing Shroud is the suit record of Stranded Between Two Shores’ set, granting resistance to Lament damage and protecting the Mind against the pressure of a separation that no crossing can repair. Binding is testimonial: the wearer names the source event — a tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return — and accepts the set’s limit: listen between the sobs and name both shores. The cost is the corridor it makes of the wearer: a room full of grief can be crossed without being moved by anyone in it, and after a season of wear nothing crosses back. The source-trace set the doctrine: the suit requires the worker to remain while the sobs subside — protection conditioned on staying through the weeping rather than past it — and it stabilized the immediate hazard only after the team attributed it to the source. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -29,16 +29,20 @@ The Crossing Shroud is the suit record of Stranded Between Two Shores’ set, gr
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Stranded Between Two Shores's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Shroud holds Lament off by standing between the wearer and every feeling worth having: worn, the wearer can cross a room full of grief without being moved by anyone in it. Worn long, people pass through them and leave nothing behind.
 
 ## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Suit Record*
 
-The first The Crossing Shroud field bearer encountered this source response: Requires the worker to remain while the sobs subside. The suit stabilizes the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crossing Shroud encountered this source response: Requires the worker to remain while the sobs subside. The suit stabilizes the immediate hazard only after the team attributed it to Stranded Between Two Shores. A wearer walked a ward of mourners and was described, accurately, as not having been in it, and the Shroud’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Stranded Between Two Shores's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: people stop noticing the wearer has passed, and the room closes behind them like water.
 - Terminal state: Stranded Between Two Shores's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen between the sobs and name both shores” reverses the item’s benefit and raises the source Gauge.  
@@ -47,15 +51,4 @@ The first The Crossing Shroud field bearer encountered this source response: Req
 
 ## SET RELATIONSHIP
 
-Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-823-C`  
-**Linked Entity:** `SE-823`  
-**Item Registry Code:** `MAW-S-823-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer is still moved by somebody in the room; the first crossing without it takes the Shroud out.

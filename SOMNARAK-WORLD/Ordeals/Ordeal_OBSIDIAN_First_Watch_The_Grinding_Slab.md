@@ -61,7 +61,7 @@ Standard response team, Level 2+ personnel. Standard response team, Level 2+ per
 | **Han Pressure [ATK]** | 13–23 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It rolls over a target, and the sheer tonnage of packed flesh drives the breath from the body. 
+**Ability:** It rolls over a target, and the sheer tonnage of packed flesh drives the breath from the body.
 
 ### The Living Avalanche (Non-Humanoid, Fragment-grade)
 

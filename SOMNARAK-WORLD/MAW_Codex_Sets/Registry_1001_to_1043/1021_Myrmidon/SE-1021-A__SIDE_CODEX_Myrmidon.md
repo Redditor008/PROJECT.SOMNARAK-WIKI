@@ -19,10 +19,10 @@ The Soul formed from a person divided by betrayal. The grief of loving someone o
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIβ-235 [GS] |
-| Type / Manifestation | Subject — Can breach / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge / Zone A, Alpha Tree |
-| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Grudge |
+| Gauge / Pressure | 000/415; starts 000% / 10–23 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart. |
 
@@ -40,7 +40,7 @@ The Soul formed from a person divided by betrayal. The grief of loving someone o
 
 ## WITNESS RECORD — *The Myrmidon Source-Trace*
 
-During the The Myrmidon Source-Trace, the field team preserved this source fact: A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of loving someone or something that became the instrument of one's harm.
+During *The Myrmidon Source-Trace*, the field team preserved this source fact: A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of loving someone or something that became the instrument of one's harm.
 
 ## M.A.W. SET — *Myrmidon — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Myrmidon Source-Trace, the field team preserved this source fact:
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Myrmidon's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon severs only the immediate manifestation that violates this rule: Separate the person from the institution they represent; do not defend the institution The set cannot heal the originating event. Misuse routes Myrmidon's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1021-A`  
-**Linked Entity:** `SE-1021`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

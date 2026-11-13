@@ -20,7 +20,7 @@ A frozen shadow caretaker guards an empty Mask Market vault. Its edges burn when
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element | Void |
-| Gauge / Pressure | 60–80% / 25–55 |
+| Gauge / Pressure | 000% / 25–55 |
 | Observation | 2 |
 | Set | The Relieved Watch |
 
@@ -43,13 +43,3 @@ The source is δ; its listed M.A.W. equipment is β and remains so. Echoes form 
 Ring identifies the duty, Veil preserves the former guard, and Lens cuts the obligation after symbolic completion. The role ends without declaring the original service meaningless. Assigning a new empty vault or praising endless vigilance refreezes the Shadow.
 
 **Formal-ID note:** `SE-505` is assigned to Cold Burn. Dreaming Ruin (`N-IIIγ-505`) remains deferred.
-
----
-
-**Document ID:** `SE-505-A`  
-**Linked Entity:** `SE-505`  
-**Author:** Commander Taeho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

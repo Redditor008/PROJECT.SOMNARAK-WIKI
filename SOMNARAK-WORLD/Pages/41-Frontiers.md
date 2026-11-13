@@ -2,7 +2,7 @@
 
 > *“Beyond the walls of Facility 01, the world is not empty; it is wild with unharvested sorrow.”*
 
-**Frontiers**  [외곽 개척 지대]  (_Oegwak Gaecheok Jidae_) details the vast external geography, subterranean descents, and industrial frontiers that surround Facility 01 in [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
+**Frontiers**  [외곽 개척 지대]  (_Oegwak Gaecheok Jidae_) details the vast external geography, subterranean descents, and industrial frontiers that surround Facility 01 in [SOMNARAK-WORLD](../README.md).
 
 While the Warden's daily duties are focused within the fortified wings of Facility 01, the Directorate maintains extensive logistical and exploratory operations across six major external frontiers: dredging the abyss, sweeping syndicate ruins, and trading along distant horizon caravan routes.
 

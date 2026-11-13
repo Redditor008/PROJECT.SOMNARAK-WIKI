@@ -24,9 +24,15 @@ The Secret Veil is a near-colorless suit of Han gossamer with a single opaque se
 
 ## PROTECTION FILE
 
+**Grade / Element:** γ / Void
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
 **Bounded Listener:** The Veil keeps one whisper from replacing identity or expanding into unapproved memory access.
 
@@ -43,14 +49,3 @@ Veil protects, Key exchanges, Lens severs obsession.
 **Maintenance:** External reviewer repeats the pre-contact identity statement and one fact unrelated to the secret. The opaque seam must remain closed without hardening.
 
 **Removal:** Reviewer opens the collar after the wearer gives a present-tense response unrelated to vault content.
-
----
-
-**Document ID:** `SE-300-C`  
-**Linked Entity:** `SE-300`  
-**Item Registry Code:** `MAW-S-300-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

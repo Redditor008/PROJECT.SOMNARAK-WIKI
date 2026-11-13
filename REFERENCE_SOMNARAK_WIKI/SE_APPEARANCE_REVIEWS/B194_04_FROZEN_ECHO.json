@@ -1,0 +1,149 @@
+{
+  "designation": "C-IIIγ-609",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md",
+  "words": 8146,
+  "sha256": "4ab87b7e8dbb32c5ef195d4cf3eaa53baf82f0cb9748ff108cf547ac2d2b0062",
+  "unit": 4,
+  "name": "Frozen Echo",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md",
+  "before_words": 8146,
+  "after_words": 8265,
+  "base": "3ff04db3eac69fef100e4950c6984a21ea505d75",
+  "final_sha256": "3d0c813f21f7f27e835c857d93015c06a0ee4eb346f569755e002c7eddaef73a",
+  "summary": "Six source-supported repairs (2 short / 4 careful): a Trivia look-up that contradicted its own equipment blocks (10–15/50, harness 45) now quotes them (7–12/40, 35); an object whose surface carries no chip stops shedding flying shards; an unmet condition stops triggering a 'destructive activation protocol' in a mass that takes no interest; and the handling log loses pulse-sync and damage-tick template. HELD; no credit (in-file full-set source review dated 2026-10-11).",
+  "commentary": "The mine/not-mine discipline runs this entire file — pronoun as instrument, imprint as currency, a reconciliation printed on the front sheet because it will never close — and the defects were the usual imports: an aggressive object that the record says sits still, and a trivia row quoting figures from some other set. The equipment already had its reviewer (the 2026-10-11 full-set review, which keeps *Frozen Echo* and *Thousand Hands* unmerged); this pass only made the rest of the file as careful as that review was.",
+  "reasoning": "Set SE-609 identity resolved from Side A (C-IIIγ-609 [D]) and items carrying SE-609 / MAW-W/S/G-609-01; Registry rows 759–762 (Registry_589_to_617 direct files). Sentence triage: The Ice Shard shed a flying splinter off a surface the file documents as chipless; the final Consequence gave an uninterested object a destructive protocol and a seeking will; the Log's 10-second/1-minute Methods imported a pulse-sync resistance grant and a damage tick against the two-minute clock-holder regime; the Observation Initial row cited 'the primary visual marker' as a placeholder; the Trivia look-up contradicted the aligned equipment figures. R-18 split declared before the apply: 2 short / 4 careful.",
+  "history": "No credit — the primary carries a dated 'Full-set source review (2026-10-11)' comparing all three local item blocks against Side SE-609-A, items SE-609-B/C/D, Registry rows 760–762, Master Codex Entries 85–87, Tale 29 and archetype MAW-W-609, confirming the numeric alignment used for the Trivia correction and ordering name/subtype/slot/chance differences held. That is the coverage event; equipment_reviews has no 609 entry and none was added. Side A (80 lines) and items B/C/D read whole (79/79/71 lines) including Appearance sections confirm the disposition; git path history shows only the B179 import. +0 all counters.",
+  "holds": [
+    "Entity-name fork as held by the in-file review: *Frozen Echo* (primary, Master table/Entries, Tale 29) vs *Thousand Hands* (Side, items, archetype) for the same C-IIIγ-609 — no alias crosswalk; names not merged. Set names likewise: primary piece names (Frozen Echo Requiem/Shield/Charm) vs Side *Borrowed, Not Mine*.",
+    "Weapon: figures align (Lament 7–12 / 3 / 3 / 3 / 40); Side/item Skewer, three-target coverage and 100/70/50 falloff unstated locally and not added, exactly as the in-file review left them; primary rim-cut blade vs item palm-lined singing blade whose edge glows in owner order.",
+    "Suit: figures align (0.4/1.0/1.6/0.8; 3/35); primary shield-backed harness cut for one-handed removal vs item breathing hand-impressions needing an attribution witness; Master subtype *Living Chitin & Carapace* has no crosswalk to either.",
+    "Stigma Tail / 4% / +2 Clarity agree vs Registry generic Accessory / 5%; primary's vague 'minor boon' line left as written under the in-file review, against item D's Not-Mine Mark and closing-hand record; primary 3 conferrals (each for setting the object down at the call) vs item's unforced bestowal.",
+    "Item terminal corrosion regimes (Shield assigning a permanent borrowed identity; Requiem cutting owners out) vs the primary's pronoun/clock-holder handling regime; the six unreconciled imprints, the bailment with no bailor and asset-register line 412 remain open record, untouched."
+  ],
+  "split": [
+    2,
+    4
+  ],
+  "repairs": [
+    {
+      "id": "R1-ice-shard",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Ice Shard* [**Attack**] } | \"A shard of frozen sound breaks off — and it cuts where it is heard.\" | [A splinter of the frozen echo flies, sharp as crystal.] | *Inflicts Lament pressure and one cold, clean cut.* **[14-22 Lament DMG [Lament]]** | When the Echo is struck. |",
+      "new": "| { *The Ice Shard* [**Attack**] } | \"Nothing breaks off. The surface carries imprints and no wear — no scratch, no chip — and what cuts is a stranger's last minute arriving edgewise in the mind.\" | [No splinter flies. The struck acquire the last minute of somebody else's life and have nowhere to put it, which is the wound.] | *Inflicts Lament pressure; the cut is a borrowed minute, carried for about a week.* **[14-22 Lament DMG [Lament]]** | On handling — the only contact the object has ever answered. |"
+    },
+    {
+      "id": "R2-consequences",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- If the resolution condition is not fulfilled, Frozen Echo reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.",
+      "new": "- If the condition is not met the object does nothing at all: it sits still and takes no interest, the field edge stays advanced, and the handler takes somebody else's last minute home with them, where it thins over about a week and never fully clears."
+    },
+    {
+      "id": "R3-log-10s",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 10 Seconds | Frozen Echo rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Frozen Echo activates its primary resonance: Projects the emotional history of one former owner. Grants +10% resistance to Lament damage while equipped. |",
+      "new": "| 10 Seconds | Cold through the gloves, then weight, then somebody else's hand — rough, small, trembling, old; it is never the same hand twice for the same person. | One named handler, fresh gloves, clock held by somebody else. No resistance is granted by anything: what has to be borne is the weight of a life that is not the handler's, and the second worker starts the pronoun watch at once. |"
+    },
+    {
+      "id": "R4-log-1min",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 1 Minute | The sorrow within Frozen Echo begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |",
+      "new": "| 1 Minute | Past a minute the borrowed life starts arriving with its own opinions: handlers describe it as remembering rather than imagining, which is the distinction the briefing spends most of its time on. | The clock-holder keeps the verbal checks at the marks and records the handler's grammar verbatim. The pronoun is the reading; at the first person, the call ends the watch and is not discussed at the stand. |"
+    },
+    {
+      "id": "R5-observation-stub",
+      "kind": "short observation completion",
+      "careful": false,
+      "old": "| **Initial exposure** | The observer identifies Frozen Echo as an Object/Place with Object-Weight manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at The Desolate, near The Scar. |",
+      "new": "| **Initial exposure** | The observer identifies Frozen Echo as an Object/Place with Object-Weight manifestation. The first reliable markers are its Lament signature, the fossil-like hand imprints in pale-blue crystal, the cold that does not equalise, and its presence at The Desolate, near The Scar. |"
+    },
+    {
+      "id": "R6-trivia-figures",
+      "kind": "short factual correction",
+      "careful": false,
+      "old": "- Kept to hand as digits, for this file's look-up: resistance 35 / 25 per cent, the set's blade at 10–15 damage and 50 Echoes, the harness at 45, the charm's line at 4 per cent, and 3 conferrals on the Charm.",
+      "new": "- Kept to hand as digits, for this file's look-up: resistance 35 / 25 per cent, the set's blade at 7–12 damage and 40 Echoes, the harness at 35, the charm's line at 4 per cent, and 3 conferrals on the Charm."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.041  clean   790 grams  M.A.W. Equipment\n 0.033  clean   150 grams  Trivia\n 0.016  clean   127 grams  Behavior\n 0.014  clean   147 grams  Operational Parameters\n 0.007  clean   567 grams  감각 묘사 (Flavor Text)\n 0.007  clean  1285 grams  Warden Record\n 0.007  clean   307 grams  기록 (Registrum)\n 0.006  clean   616 grams  Combat Record\n 0.004  clean   239 grams  Appearance\n 0.003  clean   288 grams  관찰 기록 (Observation Log)\n 0.002  clean   526 grams  Activation Behavior\n 0.000  clean   430 grams  이야기 (Narratio)\n 0.000  clean   174 grams  이야기 보고 (Story Log)\n 0.000  clean   147 grams  최종 관찰 (Final Observation)\n 0.000  clean   136 grams  Origin\n 0.000  clean    50 grams  SECC Classification\n 0.000  clean    47 grams  증언 (Testimonium)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   86   4  | { *The Deep Freeze* [**Ultimate**] } | \"Everything goes still — and cold — and nothing will ever move or feel again.\" | [The who\n  123   1  | **Identification** | Confirm before Work or contact: designation C-IIIγ-609, Lament expression, Object-Weight manifestation, I-R\n  148   2  Frozen Echo is an Object/Place with Object-Weight manifestation and Lament expression, held at the Desolate near the Scar and clas\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  222   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the object's signature: the s\n  252   1  **Effect:** +2 Clarity while this holding is the subject of the cycle and nothing anywhere else: the charm answers the imprints' o\n  269   5  | **During use** | The charge shows as a life arriving edgewise: the bearer grows careful with objects, protective of strangers, a\n  271   1  | **After use** | Take the piece back and put the question to a colleague: is the bearer still dreaming of other people's minutes,\n  275  21  **Full-set source review (2026-10-11):** Reviewed the I-Relic/M.A.W. grade overview, all three local item blocks, Use Notes, Field\n  300   1  **Observation method:** Observe from the field edge, handle once, and let the clock-holder end it. Record the first impression rep\n  347   4  **Interaction method:** Baseline each party alone over a long series before any pairing, and count the cost in imprints before aut\n  408   2  **Review requirement:** Every activation, Sorrow Tide and transformation attempt invalidates the current baseline, and on this fil\n  467   9  The objection is minuted at every annual review, raised by the legal officer rather than by the association. It holds that the fac\n  481   5  - **Field detail:** Its defining element is Lament, and its registered location is The Desolate, near The Scar.\nGENERIC 0.011  (63 shared shingles)  SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-A__SIDE_CODEX_Thousand_Hands.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-B__MAW-W_Thousand_Hands_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-C__MAW-S_Thousand_Hands_Shield.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-D__MAW-G_Thousand_Hands_Charm.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-A__SIDE_CODEX_Thousand_Hands.md": "9582cdf96cb82fc6fc9f9c74a5c3acebd9f29543d51cb845010ce002f89bbfff",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-B__MAW-W_Thousand_Hands_Requiem.md": "8ac30efc36d754ed16cf77bd26f849f378f567e13550705159cf103631d039f7",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-C__MAW-S_Thousand_Hands_Shield.md": "4f2e180623d6845ffa76821a1974c84d34765a6837060c4795e22160821e31f1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-D__MAW-G_Thousand_Hands_Charm.md": "c4bf65936676c1edd24b2210ce425759d570382df4c52ce17808c74758f491bf",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-609_Frozen_Echo_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md\")]",
+  "table_link": "[Frozen Echo](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-609_Frozen_Echo_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md\")",
+  "reading": {
+    "before_lines": 490,
+    "before_bytes": 49051,
+    "final_lines": 490,
+    "final_bytes": 49637
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 51,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "Digit changes are the repairs themselves, documented: the Trivia look-up is corrected to the equipment blocks it summarizes (blade 10–15/50 → 7–12/40, harness 45 → 35; these are the figures the in-file review confirmed align), and the deleted template's +10% resistance and 5-per-15-seconds-past-60 damage tick disappear with the sentences they belonged to. No other figure, date, score or count was altered."
+  }
+}

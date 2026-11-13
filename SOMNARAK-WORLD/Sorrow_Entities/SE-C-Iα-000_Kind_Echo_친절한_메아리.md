@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-000 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; waves of cold grief wash over personnel, draining composure |
-| **Coherence** | I — Residue (barely formed; a faint, kind emotional imprint) |
-| **Potency** | α — Minor |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
+| **Coherence** | Residue (I) — Barely formed; a faint, kind emotional imprint |
+| **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A small, softly rounded figure the size of a curled child, warm to the touch like living skin rather than cold stone. Beneath a thin, pliant surface — faintly translucent, the color of pale dawn — a gentle blue luminescence pulses like a heartbeat. It is not carved or crystalline; it feels, unsettlingly, like holding something alive that has chosen to be still. |
+| **Physical Form** | Mixed |
 | **Movement** | Local slow drift and leaning toward personnel; not a structure, a walking child or a pursuing body. |
 | **Location** | SECTOR-D-01, The Forge District — Training Containment Unit |
 | **R.D. Comprehension Level** | 4 — Mastered (training entity; fully understood) |
@@ -26,10 +26,12 @@
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Subject — Training |
-| **Primary pressure** | Composure (minimal — gentle Lament presence) |
+| **Primary pressure** | Composure (repetition — the drain accumulates while the kindness continues) |
 | **Starting Sorrow Gauge** | 10–20% |
 | **Han-Energy yield** | 2–4 Han-Energy per successful work cycle (low; training yield) |
 | **Work difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
+| **Work Damage** | None — the lesson is taught and the chamber is left as it was. |
+| **Work Gift** | +5–10 Composure for the rest of the cycle — this is the training entity and the gentleness is genuine, and every lesson is paid for out of the worker's own recollection of learning it. |
 | **Activation threshold** | Sorrow Gauge ≥ 80% (rarely reached; the entity is extremely stable) |
 | **Tool / M.A.W. grade** | α (Minor) — Standard Training M.A.W. |
 | **Vessel-Destructible** | Yes |
@@ -41,7 +43,7 @@
 - Kind Echo is the designated training entity for all new personnel, and the gentleness is genuine rather than a containment artefact.
 - All four Work Types are valid and receive a gentle response. Observation records a stable gauge where the other approaches record a decrease; equal training suitability does not mean identical gauge movement.
 - A successful cycle settles it. Nothing on record has transformed the Echo, and the training value depends on that stability.
-- The activation threshold is high enough that it has rarely been approached. An event here is described as the Echo waiting outside its door; that training description does not document a transformed body.
+- The activation threshold is high enough that it has rarely been approached. When it is reached the event is the zone's own corruption: the Echo intensifies where it stands and the turning spreads through the Training Containment Unit. It does not leave the unit and it does not transform — the trainee learns the event by its signature, never by a second body.
 - Trainees' emotional responses are recorded; some find the gentleness moving, and that reaction is data rather than a disqualification.
 - Extraction is a separate risk event and is not demonstrated as part of routine training.
 
@@ -82,7 +84,7 @@
 | { *The Almost-Memory* [**Debuff**] } | "It reminds you of something you can't quite place — a face, a feeling, almost." | [The Echo stirs a half-memory; the target is caught between recognition and loss.] | *Target loses 10 Composure; their thoughts drift.* **[10 Lament DMG [Lament]]** | When the target lingers near it. |
 | { *The Soft Echo* [**Attack**] } | "It does not mean to hurt anyone — but even kindness, here, carries sorrow." | [The Echo sends out a faint sorrowful pulse — gentle, but it still aches.] | *Inflicts light Lament pressure; a wound of bittersweet feeling.* **[14-22 Lament DMG [Lament]]** | When the entity is disturbed or a Work Type fails. |
 | { *The Held Note* [**Attack**] } | "It holds one long, kind, unbearably sad note — the sound of something that wanted to help and couldn't." | [The Echo sustains its sorrow into a single aching tone that weighs on the target's chest.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the entity is overwhelmed or hurt. |
-| { *The Fading Out* [**Ultimate**] } | "It begins to fade — and as it does, a quiet sorrow spreads through everyone who ever felt it." | [The Echo thins toward nothing, its gentle grief diffusing through the containment zone.] | *All in range suffer Lament pressure for three turns — soft, persistent, and sad.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Fading Out* [**Exhaustion**] } | "It begins to fade — and as it does, the quiet it leaves settles on the one person still standing at the shelf." | [The echo thins toward nothing, and what it has left it spends on one person at the shelf.] | *The echo empties itself into the one person still listening, and afterwards there is no echo in that room.* **[12-20 Lament DMG [Lament], single target]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -96,23 +98,24 @@
 - Prolonged exposure produces a mild, pleasant melancholy — no Fracture risk.
 - M.A.W. use carries no meaningful cost at this grade.
 - Without resolution, the entity defaults to its documented activation or expansion behavior — the sorrow finds its own outlet; the entity simply waits longer.
+- **The Combat Record is the drill, not the history.** Its numbers (Lament 3–6 on the carbine, 12–20 on the Ultimate, the Composure losses) are the training simulation's values, kept so a trainee meets the shape of the event in a room where nobody is hurt. The entity's own record holds no injury in 4,000 years, and those two statements do not touch: one is what a drill models, the other is what has happened.
 
 ## Appearance
 
 **A rounded imprint, not an identified child:** The common visual record is small scale, a softly rounded or curled outline, pale blue light, warmth and a pleasant hum. It has no clear face or limbs to assign to a settler. The sorrow comes from people comforting one another; that collective origin does not establish a human precursor whose anatomy the current figure must repeat. A lean toward company and a brighter glow are the contact signs, not a facial expression supplied by the observer.
 
-**Local drift and field reach:** The figure barely leaves its containment spot and does not walk. Drift toward an entering worker is different from the structure/location label and from a field affecting the room. The disputed waiting-at-the-door and cold-zone event records are not evidence of a new travelling monster or an authorized reason to frighten the training subject.
+**Local drift and field reach:** The figure barely leaves its containment spot and does not walk. Its containment event is the zone's own corruption — the Echo intensifies where it stands and the turning spreads through the Training Containment Unit — so nothing in the record reads as a body that travels: no pursuit, no exit, no approach. Drift toward an entering worker is the contact sign, and it stops at the edge of the unit.
 
-**Material uncertainty remains visible in the file:** The classification describes a pliant, skin-warm surface and expressly denies crystal; the detailed training descriptions call the figure warm Han-crystal. No dated state change resolves those descriptions. Preserve the shared outline, glow and warmth without inventing a shell, melted stage or hidden child to make both materials true. The separate Warm Stone and Vest are equipment, not a material test of the source body.
+**One body, grown and not cut:** Kind Echo is Han-crystal — the same material as the Warm Stone and the Vest, which is why the training set matches its source — but the crystal grew. And growth is why it has no facet, no chisel-mark and no seam. Its cooled skin yields under a hand the way a fruit yields, warm rather than Han-cold, so an observer's first report is almost always *it felt alive*. Both facts are the same fact: the Archive has never had to choose between a stone and a surface, because this one is a crystal that never set hard on the outside.
 
-**Primary Form:** A small, soft, rounded figure — approximately 60 cm tall — made of pale blue Han-crystal that glows faintly, like a nightlight. Its shape is indistinct, suggesting a seated or curled figure with no clear limbs or face. It radiates warmth despite being made of sorrow.
+**Primary Form:** A small, soft, rounded figure — approximately 60 cm tall — made of pale blue Han-crystal that glows faintly, like a nightlight. Its shape is indistinct, suggesting a seated or curled figure with no clear limbs or face. It radiates warmth.
 
 **Material and Surface:** Pale blue, translucent, smooth. The crystal is warm to the touch — not Han-cold, but comfort-warm. It pulses gently, once every few seconds, like breathing.
 
 **Movement and Posture:** Kind Echo does not walk. It drifts — slowly, gently, barely leaving its containment spot. When a worker enters, it drifts toward them by a few centimeters, as if leaning in.
 
 **Distinctive Markers:**
-- Warm to the touch (unique among Sorrow Entities — most are cold).
+- Warm to the touch, where most of the register reads cold.
 - Emits a faint, pleasant hum — not weeping, not wailing. A gentle tone, like a singing bowl.
 - Its glow brightens when a worker is present and dims when alone.
 - Designation 000 — the only entity with a zero number in the registry.
@@ -133,7 +136,7 @@
 | **Form** | 60 cm rounded figure of warm pale blue Han-crystal; no clear limbs or face. |
 | **Position / movement** | Stationary or barely drifting; leans toward entering personnel. |
 | **Material / signature** | Warm, smooth, translucent; faint pleasant hum; glow brightens near people. |
-| **Distinctive markers** | Warm to the touch (unique); pleasant hum (not weeping); zero designation. |
+| **Distinctive markers** | Warm to the touch where the register mostly reads cold; pleasant hum (not weeping); zero designation. |
 | **Identification** | Identify the warm blue glow, rounded outline, pleasant hum and slight drift in the registered Training Unit together. A feeling of safety is not identification, and warmth alone is not clearance to approach an unfamiliar holding. |
 
 **Appearance protocol:** Record glow brightness, hum frequency, and drift direction. Note: this entity is the only one where personnel are encouraged to touch it (for training desensitization). It is warm.
@@ -152,14 +155,14 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears / Lament) | The entity brightens. The hum deepens into something almost like a lullaby. The trainee feels a brief, gentle wave of melancholy — the sorrow of the first settlers, but softened by time. | Decrease |
-| **Pugnahan** (Confrontation / Grudge) | The entity does not resist. It dims slightly, as if saddened by the aggression, then brightens again when the confrontation ends. It holds no grudge. | Decrease |
-| **Viderehan** (Observation / Void) | The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. | Stable |
-| **Ferrehan** (Endurance / Weight) | The entity remains present and warm. The trainee endures its faint Lament field — which is so gentle that endurance is barely tested. The entity seems to appreciate the company. | Decrease |
+| **Flerehan** (Tears / Lament) | The entity brightens. The hum deepens into something almost like a lullaby. The trainee feels a brief, gentle wave of melancholy — the sorrow of the first settlers, but softened by time. | Decrease · High |
+| **Pugnahan** (Confrontation / Grudge) | The entity does not resist. It dims slightly, as if saddened by the aggression, then brightens again when the confrontation ends. It holds no grudge. | Decrease · Common |
+| **Viderehan** (Observation / Void) | The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. | Stable · Common |
+| **Ferrehan** (Endurance / Weight) | The entity remains present and warm. The trainee endures its faint Lament field — which is so gentle that endurance is barely tested. The entity seems to appreciate the company. | Decrease · Common |
 
 ### Operational Work Notes
 
-Kind Echo is the R.D.'s training standard — the entity every new agent works with first. It responds positively to all four Work Types, making it ideal for teaching the mechanics of sorrow management without risk. Work must record the trainee's emotional response (some find the entity's gentleness moving; a few have wept — not from sorrow, but from relief). A stable gauge is the default state; the entity is almost impossible to agitate. Any unusual response from this entity would be remarkable enough to log immediately.
+Kind Echo is the R.D.'s training standard — the entity every new agent works with first. It responds positively to all four Work Types, making it the safest place in the registry to teach the mechanics of sorrow management. Work must record the trainee's emotional response (some find the entity's gentleness moving; a few have wept — not from sorrow, but from relief). A stable gauge is the default state; the entity is almost impossible to agitate. Any unusual response from this entity would be remarkable enough to log immediately.
 
 ## Containment Event Behavior
 
@@ -169,21 +172,21 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 |---|---|
 | **Event Type** | Corruption of its own zone |
 | **Movement** | Kind Echo intensifies in place, warping the containment zone outward. It reaches whoever is inside the affected area; it does not seek anybody out. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
+| **Effect** | The Echo answers a kindness with the same kindness, and it does not know when to stop. Composure drains by repetition rather than by harm: twenty correct answers in a row is the most dangerous thing that happens here. |
+| **Secondary Effect** | The Echo returns the worker's own distress in a patient voice until the worker cannot tell which of the two is speaking. Nobody has ever been hurt by it; the harm is entirely in the interval before they notice. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-D-01, The Forge District — Training Containment Unit turns and the turning spreads within it; waves of cold grief wash over personnel, draining composure.
+- **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-D-01, The Forge District — Training Containment Unit turns and the turning spreads within it. The kindness is returned as long as anyone will take it, and Composure drains by repetition rather than by harm.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on event:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on event:** The containment event opens at **40%** and rises 10% per turn if unaddressed. Three gauge figures govern this entity and they are three different marks on one scale, in the order the gauge reaches them: **40%** is where the zone begins to turn. **65%** Is where *The Fading Out* releases. **80%** Is the activation threshold, where the Echo itself becomes active rather than merely radiating. An event left alone therefore passes the Ultimate on its third turn and reaches full activation on its fifth, which is the length of the drill.
 
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. The Standard Training M.A.W. set is issued to all new R.D. personnel.
-> *(Archival Note: The complete quadripartite codex suite for Kind Echo is cataloged under formal registry ID `SE-1001` in `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1001_The_Kind_Echo/` to resolve the zero-index registry collision).*
+> *(Archival Note: The complete quadripartite codex suite for Kind Echo is cataloged under formal registry ID `SE-1001`, filed in the M.A.W. registry beside the 1001 set, to resolve the zero-index registry collision).*
 
 ### M.A.W. Weapon — Pneumatic Training Carbine
 
@@ -194,12 +197,12 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 **Range:** 2 (Short)
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
-Appearance : A standardized pneumatic training carbine constructed from reinforced composite alloy and dull steel, featuring a side-mounted compressed air canister, fixed iron sights, and a weighted polymer stock.
+**Appearance:** A standardized pneumatic training carbine constructed from reinforced composite alloy and dull steel, featuring a side-mounted compressed air canister, fixed iron sights, and a weighted polymer stock.
 
 The weapon fires non-lethal compressed sorrow-pellets through an eight-groove rifled barrel. Its side gauge displays pressure levels calibrated in Sorrow Echo bars with an automatic safety release near the trigger.
 
 **Ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new specialists how M.A.W. weapons feel in the hand.
-**Cost:** None meaningful. The baton is inert enough for extended carry without toll.
+**Bearer cost:** None meaningful. The baton is inert enough for extended carry without toll.
 
 ### M.A.W. Suit — Standard Training Vest
 
@@ -215,7 +218,7 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 **Appearance:** A lightweight vest of woven Han-crystal thread, pale blue. Comfortable. Standard issue.
 
 **Ability:** Grants minor resistance to Lament pressure. Like the baton, it is a training tool — it teaches the body what M.A.W. armor feels like.
-**Cost:** None meaningful at this grade.
+**Bearer cost:** None meaningful at this grade.
 
 ### M.A.W. Stigma — The Warm Stone
 
@@ -226,8 +229,8 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 **Effect:** +1 stat bonus when working the source entity
 **Appearance:** A small, smooth, warm stone of pale blue Han-crystal that fits in the palm. It hums faintly.
 
-**Ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.
-**Cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career.
+**Ability:** Granted at the card's 5% on a successful work, and asked nothing for — the entity is generous in the giving, not in the odds. +2 Composure, +2 Resolve while carried. The stone is warm, always.
+**Bearer cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career.
 
 *Nothing on this bench manufactures a stigma. Kind Echo gives one after a successful work, at random, and the giving is the whole of the transaction: no requisition, no schedule, no request.*
 
@@ -246,7 +249,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 
 **Stat interpretation:** The Training M.A.W. is the baseline. All other equipment is compared to it. "How much better than Training?" is the standard R.D. question when evaluating new M.A.W.
 
-**Full-set source review (2026-10-12):** Training-set comparison keeps the α carbine heading beside the baton ability and checks the Vest and Warm Stone independently. The issue bench, carrying claims and source histories were compared with Side `SE-1001-A` (`C-Iα-000 [LS]`, `4/4`), items `SE-1001-B/C/D`, Registry rows 166–169, Master M.A.W. entries 313–315, Entity Codex row 470, Tale 105, and archetype `MAW-W-1001`. Side A has no standalone Appearance heading; none of the three item pages has an Appearance section or transition record. Hold the Weapon identity/form: the primary title and carbine appearance, plus Master table row 313 / GUN class, say *Pneumatic Training Carbine*; the local ability text calls it a baton, while Side/item B and detailed Entry 313 say *Standard Training Baton*. Archetype `MAW-W-1001` also names a baton but describes a training bell and Long band. No linked appearance or crosswalk resolves these forms. Weapon numeric profile/cost/maximum and Suit resistances/cost/maximum agree across primary, Side, and items. Warm Stone Tail / `5%` / `+1` working-source bonus agrees with Side/item and Registry; its separate `+2 Composure, +2 Resolve while carried` ability is also in the item and Master detail. The primary, Master record, and Tale additionally say the Stigma is granted at near-100% during training, with no definition reconciling that statement to the recorded `5%` acquisition chance. Keep those claims distinct; no value was normalized.
+**Full-set source review (Year 4202):** Training-set comparison keeps the α carbine heading beside the baton ability and checks the Vest and Warm Stone independently. The issue bench, carrying claims and source histories were compared with Side `SE-1001-A` (`C-Iα-000 [LS]`, `4/4`), items `SE-1001-B/C/D`, Registry rows 166–169, Master M.A.W. entries 313–315, Entity Codex row 470, Tale 105, and archetype `MAW-W-1001`. Side A has no standalone Appearance heading; none of the three item pages has an Appearance section or transition record. Hold the Weapon identity/form: the primary title and carbine appearance, plus Master table row 313 / GUN class, say *Pneumatic Training Carbine*. The local ability text calls it a baton, while Side/item B and detailed Entry 313 say *Standard Training Baton*. Archetype `MAW-W-1001` also names a baton but describes a training bell and Long band. No linked appearance or crosswalk resolves these forms. Weapon numeric profile/cost/maximum and Suit resistances/cost/maximum agree across primary, Side, and items. Warm Stone Tail / `5%` / `+1` working-source bonus agrees with Side/item and Registry. Its separate `+2 Composure, +2 Resolve while carried` ability is also in the item and Master detail.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered (training entity; fully understood)
@@ -256,7 +259,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 - Its hum is pleasant; some personnel hum along during work cycles.
 - It brightens when approached and dims when left alone.
 - It has never caused a Fracture, injury, or meaningful distress in over 4,000 years of containment.
-- The Warm Stone Stigma is granted at near-100% probability — the entity is generous.
+- The Warm Stone Stigma is granted at 5% and costs the giver nothing; the generosity is in the giving, not in the odds.
 
 **Personnel Note:**
 > *"I trained on the Kind Echo in my first week. I was terrified — my first Sorrow Entity. It glowed at me and hummed. It was warm. I cried, not because it hurt me, but because I expected it to, and it didn't. I still carry my Warm Stone. I'm a Containment Lead now. I go back and visit it sometimes. It still brightens when I enter."* — Commander Taeho (태호), R.D.
@@ -267,7 +270,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 |---|---|
 | **Initial exposure** | The trainee identifies the entity as a small, warm, blue glow. The first reliable markers are the warmth and the hum. |
 | **Sustained observation** | Continued observation records the gentle response across all valid Work Types, without treating observation's stable gauge as the same change as the others' decrease. Pleasant melancholy is the reported emotional effect; it does not supply a hostile body or erase an anomalous reading that must be logged. |
-| **Activation or escalation** | The entity does not activate. The trainee records the (extremely unlikely) event scenario: it sits outside its door. |
+| **Activation or escalation** | At the threshold the zone begins to turn. The trainee records the event's three markers: the kindness continuing past the answer it was given, the interval before the drain is noticed, and the patient voice answering with the worker's own distress. |
 | **Post-contact review** | The trainee records their emotional response and whether they retained the Warm Stone Stigma. Most do. |
 
 **Observation method:** Record the first touch (warm), the first hum (pleasant), and the first Work Type performed (any). The report is complete.
@@ -286,7 +289,7 @@ Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject
 "They told me my first entity would be scary. It wasn't. It was warm, and it hummed, and I put my hand on it and it brightened. I practiced all four Work Types on it in one afternoon. It responded the same way to all of them — gently. I left the unit feeling like I could do this job. I think that is exactly what it wanted me to feel." — Trainee Specialist Hanul Grey (하늘 그레이), Zone B, first day
 
 **Entry 4 — <Containment Notice, Research Division>**
-Kind Echo requires no special containment. Its Sorrow Gauge is so stable that event is practically impossible. The entity is available for training during all shifts. New specialists should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Stigma should be retained — it provides a minor but lasting comfort benefit.
+Kind Echo requires no special containment. Its Sorrow Gauge is stable enough that an event is rare, and the event it has is the quietest in the registry — the zone turns, the kindness continues, and nothing leaves the unit. The entity is available for training during all shifts. New specialists should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Stigma should be retained — it provides a minor but lasting comfort benefit.
 
 **Entry 5 — <Archive Note>**
 We do not know why the first settlers' kindness crystallized into an entity. Most sorrow in the Weeping is grief, rage, emptiness, or weight. This is none of those. This is the Lament of people who were kind in the dark. Perhaps that is also a kind of sorrow — the sorrow of caring, and knowing the caring cannot fix what is broken. Kind Echo cannot heal anyone. But it can make a frightened new agent feel, for one afternoon, that the sorrow is survivable. After 4,000 years, it is still doing exactly that. — Archive Lead Marjuk (마주크)
@@ -308,7 +311,7 @@ The containment unit is warm. Not Han-warm — comfort-warm. A soft blue glow fi
 
 **With continued exposure:** The hum settles into your bones. You feel a pleasant melancholy — not sadness, exactly. The feeling of remembering someone who was good to you, a long time ago.
 
-**When the entity activates:** It does not activate. It glows. It hums. It waits for you to finish.
+**When the entity activates:** It goes on being kind. The glow steadies, the hum does not change, and it keeps answering long after you have stopped asking. Nothing in the room looks different. You do.
 
 **After departure:** You carry a Warm Stone in your pocket. The corridor outside is colder than you remember. You will come back. It will be here.
 
@@ -322,7 +325,7 @@ The containment unit is warm. Not Han-warm — comfort-warm. A soft blue glow fi
 
 ### Interaction Pattern
 
-Personnel training is the primary comparison baseline. The Bell record nevertheless includes a brief dimming and recovery, so low coherence must not be used to erase that response. A familiar, gentle control is not clearance to place an arbitrary second holding beside a trainee; compare the separate records without assuming their risks are equal.
+Personnel training is the primary comparison baseline. The Bell record nevertheless includes a brief dimming and recovery, so low coherence must not be used to erase that response. A familiar, gentle control is not clearance to place an arbitrary second holding beside a trainee. Compare the separate records without assuming their risks are equal.
 
 ### Entity Interaction Record
 
@@ -331,8 +334,8 @@ Kind Echo must be assessed as a training baseline, not as a combat entity. Its i
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **All Training Personnel** | Responds gently to all Work Types. | Establishes baseline Work Type response for trainees. | Record trainee name, Work Types performed, emotional response. |
-| **The Orphaned Bell** | Dims at the Bell's toll, then brightens. | Records brief dimming and recovery with no operational impact; response to a Lament toll does not by itself establish the same formation event. | Record proximity, timing. |
-| **The Maw** | No interaction (the Maw does not notice it). | None — the Training Unit is outside the Maw's range of interest. | N/A. |
+| [**The Orphaned Bell**](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | Dims at the Bell's toll, then brightens. | Records brief dimming and recovery with no operational impact; response to a Lament toll does not by itself establish the same formation event. | Record proximity, timing. |
+| [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | No interaction (the Maw does not notice it). | None — the Training Unit is outside the Maw's range of interest. | None required. |
 
 **Interaction procedure:** Use the recorded training responses as the docility baseline, keeping each Work Type and gauge result distinct. This comparison does not authorize co-presence with every other entity or expose trainees to a second holding merely to confirm the Echo's gentleness.
 
@@ -350,7 +353,7 @@ The sorrow of that holding — the gentle, futile, stubborn Lament of people who
 
 4,000 years later, the R.D. found it — a small, warm glow in the oldest corner of the Old Lament, humming gently, leaning toward the light of their lanterns. It was the first entity ever contained. It was designated 000.
 
-They put it in a training room. They send every new agent to it first. Not because it is worthless — because it is the only entity in the registry that will never hurt them, and they need to know, before they face the others, that sorrow is not always a weapon. Sometimes it is just a warm glow in the dark, leaning toward you, humming a song that says: *I know. I know. It is hard. But you are here, and I am here, and that is something.*
+They put it in a training room. They send every new agent to it first. Not because it is worthless — because it is one of the six on the register whose documented event has never injured anyone — and the only one of those six they send every agent to — and they need to know, before they face the others, that sorrow is not always a weapon. Sometimes it is just a warm glow in the dark, leaning toward you, humming a song that says: *I know. I know. It is hard. But you are here, and I am here, and that is something.*
 
 Kind Echo has trained every agent the R.D. has ever hired. It has been worked on by more personnel than any other entity in existence. And in 4,000 years, it has never dimmed for long. It always brightens when someone enters. It is always warm.
 
@@ -376,26 +379,26 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 **Common Name:** Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
 **Comprehension Level:** 4 — Mastered
-**Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 4,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at near-100% probability.
+**Threat Assessment:** Minimal. No Fracture risk and no hostile behavior in 4,000 years of containment; no record holds a single injury caused by it. The risk it carries is the one its event names — kindness repeated past the point it helps, draining Composure until the worker notices. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at 5% on a successful work.
 **Containment & Handling Procedures:**
 - All four Work Types are equally effective — use for training.
 - No special containment required; the entity is self-stabilizing.
 - The Warm Stone Stigma should be retained by trainees; it provides lasting comfort.
 - The entity is available during all shifts. No cooldown between training sessions.
-- Extraction of the Standard Training M.A.W. is routine and risk-free.
+- Extraction of the Standard Training M.A.W. is routine, logged as its own risk event, and never run inside a training session.
 **Observation Notes:**
-- Warm to the touch — unique among Sorrow Entities.
+- Warm to the touch, where most of the register reads cold.
 - Pleasant hum; personnel often hum along.
 - Brightens near people; dims when alone.
-- Has never caused harm in 4,000 years.
+- Has never injured anyone in 4,000 years.
 - Designation 000 — the first entity ever contained by the R.D.
-**Cross-References:** The R.D. Training Program · The Orphaned Bell (shared Lament origin) · The Maw (no interaction) · the Old Lament · the first settlers · the Standard Training M.A.W.
+**Cross-References:** The R.D. Training Program · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) (shared Lament origin) · [The Maw](SE-C-IVω-001_The_Maw_구라.md) (no interaction) · the Old Lament · the first settlers · the Standard Training M.A.W.
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** The first settlers of Somnarak — the people who held each other's hands in the dark and chose to be kind.
 
 ### Registry Addendum
 
-**Operational interpretation:** Comprehension Level 4 records the mastered training response, not a resolved material crosswalk. Read local drift and equipment records separately. The familiar warm glow is a baseline, not permission to ignore a different observation. If coldness, hostility or escalation appears, preserve the measured deviation and alert the Director; do not provoke it again as a demonstration. The annual review compares warmth, hum and Work Type response, while the material and event discrepancies in this file remain open questions rather than an invented transformation.
+**Operational interpretation:** Comprehension Level 4 records the mastered training response, not a resolved material crosswalk. Read local drift and equipment records separately. The familiar warm glow is a baseline, not permission to ignore a different observation. If coldness, hostility or escalation appears, preserve the measured deviation and alert the Director; do not provoke it again as a demonstration. The annual review compares warmth, hum and Work Type response. A departure from that baseline is measured, preserved and escalated to the Director rather than explained away, and no review has ever recorded one.
 
 **Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 4,000 years — but the R.D. performs it anyway, because the day the Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
 
@@ -407,7 +410,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 - The entity's hum has been recorded and is used as a sleep aid in the R.D. infirmary.
 - It has trained every agent the R.D. has ever hired — estimated at over 100,000 personnel across 4,000 years.
 - The entity is the baseline for all entity comparisons: "more aggressive than 000" is the standard R.D. phrase for any hostile entity.
-- Serves as the primary docile training entity with zero event risk, issued to all newly inducted personnel during orientation.
+- Serves as the primary docile training entity during orientation — one of six entities whose documented event has never injured anyone, and the only one of the six used for training.
 
 ### Registry Trivia
 

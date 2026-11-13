@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Wanderer Without a Destination Shroud
 
-> *“Wanderer Without a Destination Shroud remembers Wanderer Without a Destination; the bearer must not mistake memory for permission.”*
+> *"It takes the small joys at every stop and returns them nowhere, so the wearer cannot settle long enough to notice."*
 
 ---
 
@@ -17,7 +17,11 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Wanderer Without a Destination's kind of pressure.  
-**Binding rule:** the bearer names Wanderer Without a Destination's event—A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.—and accepts this limit: Provide a memory anchor; do not force a destination
+**Binding rule:** the bearer names Wanderer Without a Destination's event — “A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.” — and accepts this limit: Provide a memory anchor; do not force a destination
+
+### Appearance
+
+A long shroud of waxed sailcloth stiff with salt, the colour of driftwood above the tideline, with sea-smoothed green glass stitched at the shoulders and pinned through with brass.
 
 ## CORE STATISTICS
 
@@ -25,16 +29,20 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Wanderer Without a Destination's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
+**Operational / binding cost:** The Shroud takes the small joys at every stop and gives them back nowhere: worn, the wearer cannot settle long enough to notice. Worn long, they have been everywhere and liked none of it.
 
 ## ITEM-SPECIFIC HISTORY — *The Wanderer Without a Destination Source-Trace: Suit Record*
 
-The first Wanderer Without a Destination Shroud field bearer encountered this source response: Tests whether the worker can remain with a wanderer. The suit discharges the immediate hazard only after the team attributed it to Wanderer Without a Destination. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Wanderer Without a Destination Shroud field bearer encountered this source response: Tests whether the worker can remain with a wanderer. The suit discharges the immediate hazard only after the team attributed it to Wanderer Without a Destination. A wearer had been everywhere and liked none of it and could not say when that had started, and the Shroud’s binding is the posting record from that year.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Wanderer Without a Destination's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the stops get shorter than the walking between them, and the wearer cannot settle long enough to be briefed.
 - Terminal state: Wanderer Without a Destination's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Provide a memory anchor; do not force a destination” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +51,4 @@ The first Wanderer Without a Destination Shroud field bearer encountered this so
 
 ## SET RELATIONSHIP
 
-Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1040-C`  
-**Linked Entity:** `SE-1040`  
-**Item Registry Code:** `MAW-S-1040-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one place still reaches the wearer; the first posting where none does, the Shroud is out.

@@ -82,9 +82,9 @@
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
-    "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/AUDITS/MAW_PERSONALIZE_PROGRESS.md"
   ],
   "reasoning": "Complete426-line original/full967A–D/README read; InnerWeight/IVδSubjectGrudge→lostidentityrelic/retentiondeletion→burninghumanoid/emptycuppedhands/thermalmarkers→unfixedDesolatemovement/archivevisit→descriptivewitnessversusexpertguess→registerbaseline/cycle→Apexcommunity/fragments/surfaces→δderivedcleaver/mantle/charm traced. R18predeclared2short/5careful; no sourceform forcedfrom titleJar or derivative.",
   "history": "FullMaster562–564index602–604/details7073–7104, Entity556, completeTale18810505–10563, CSV1119–1122, archetype447Medium, disposition378Neutral read. EarlierB56unit10 2cde667 is seriesrestatement6555→6555, not full/exactWeaponcoverage; B20itemexpansion/Bmaulartvariety not primarydisposition. LegacyTheRelicMaul retained inA/filename/Masterdetail; matchingBbody/heading/primary/archetypecleaver. Priorartvesselhead/spikedstopper533 historicaldistinctitemdesign not a source-body requirement or priorcredit; fresh+1/+1. δ10–15/3/3Skewer2/50; Suit1/1/1.5/.5,2/45; Head4%+3 matches itemset; Registrygeneric5%conflict retained.",
@@ -109,9 +109,9 @@
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
-    "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md": "7364aea671b14a2ccf59db20c2c49f5419c0c5685818fb0a2a8632afccd8d49b"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/AUDITS/MAW_PERSONALIZE_PROGRESS.md": "7364aea671b14a2ccf59db20c2c49f5419c0c5685818fb0a2a8632afccd8d49b"
   },
   "final_sha": "2c3bab6ee1537962730bbe3f89dc719f93106f44c7b9390c7d43f646050add85",
   "before_words": 6445,

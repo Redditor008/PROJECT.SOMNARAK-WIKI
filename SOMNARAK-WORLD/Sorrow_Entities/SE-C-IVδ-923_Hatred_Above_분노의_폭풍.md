@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-923 [GH]` |
-| **Entity Type** | **Hazard** — Stationary overhead influence; breach widens the footprint while the anomaly remains fixed |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only|
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Hazard-Grudge |
-| **Physical Form** | Non-Organic — A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-923, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
@@ -27,14 +27,15 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Hazard |
 | **Primary pressure** | Grudge / Grudge pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Activation threshold** | 3 |
+| **Work Damage** | 4–7 Grudge / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a hazard that is overhead and does not descend, held at a constant height across the record. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
-| **Recommended response** | Keep the footprint empty and keep people out of each other’s reach inside it. The gauge falls on days when the crossing interval was held; it has never fallen on a day when two people were under the anomaly at once, whatever else was done. |
+| **Recommended response** | Keep the footprint empty and keep people out of each other’s reach inside it. The gauge falls on days when the crossing interval was held. It has never fallen on a day when two people were under the anomaly at once, whatever else was done. |
 
 ### Operational Notes
 
@@ -44,71 +45,79 @@
 - Crews work in sight of one another and are withdrawn as a unit if any dispute is logged.
 - Extraction is authorized apart from the work cycle.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Grudge pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 482/482 |
-| **Han Pressure [ATK]** | 14–26 per hit · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Critical Grudge hazard; not a Sovereign classification |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-923 |
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across **six doses** of 15 s, shared — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **90 s** — six doses, and at 90 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+shared on a 15-second clock, so the six come to **90 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only*, its terminal row describes the pressure let go across a marked rectangle rather than at a body. And the fourth word of its own text is the denial: the grudge pressure settles over a target *without ever descending*.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A colder, brighter rectangle of floor eighteen metres by eleven, under a corridor where nothing visible or audible hangs above it. The grudge pressure is measured from the sides, at an angle, by instruments that cannot be placed where the readings would be best. |
+| **Perceptible to** | The weight of a grudge that has no subject in it, settling over whoever is standing nearest. Then the pressure acquiring a direction — onto one point of the floor. And onto the person who answered rather than the person who shouted. |
+| **Handling** | Get distance, stop shouting, and do not answer. Opening distance is the response across the sixty-three incidents on file. The mean is under two minutes and is not an upper bound, because the one answered incident lasted four and a half. — see `## Handling Process` |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [Pressure]** | **000 of 880** · ready · six doses · limit 90 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-C-923, contained |
 | **Resolution Condition** | The affected worker is at distance, has stopped shouting, and has not been answered. Opening distance is the response across the 63 incidents on file. Mean duration is under two minutes, not an upper bound: an answered incident lasted four and a half. Keep silence while the affected worker recovers; the longer record does not authorize subdual. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It arrives empty, and then it arrives at somebody." | [The anomaly's grudge pressure settles over the target from above, without ever descending.] | *Target feels the weight of grudge sorrow, and the weight has no subject in it yet.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
-| { *The Grudge Surge* [**Attack**] } | "The sorrow sharpens and takes the nearest body." | [A concentrated burst of grudge pressure out of the anomaly, aimed at whoever is standing closest to it.] | *Grudge damage strikes the target and the gauge spikes. The target is chosen by distance and by nothing at all besides distance.* **[18 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once the pressure has a direction in it." | [The anomaly focuses its full grudge weight on one point of the floor and picks the person who answered, not the one who shouted.] | *A devastating Grudge strike; the target's Sorrow Gauge surges, and the composure loss is booked to whoever replied.* **[26 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
-| { *The Grudge Collapse* [**Ultimate**] } | "The grudge breaks, and what it had been holding comes loose all at once." | [The anomaly's full grudge sorrow let go in every direction across the marked rectangle, eighteen metres by eleven.] | *All personnel suffer Grudge erosion for three turns, whether they stood under it or only near somebody who did.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the pressure does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Settles over whoever is under it from above, without ever descending, carrying a weight of grudge sorrow that has no subject in it yet. | Confirms the rectangle and the overhead absence before anything is said, and notes who is standing inside the marked floor and who is only near it. | The register is the rectangle, not the sky. What is read is a colder, brighter patch of floor and an overhead that cannot be looked at, because there is nothing there to look at. |
+| { *The Grudge Surge* [**Exposure**] } | Concentrates into a burst that takes the nearest body — chosen by distance and by nothing at all besides distance. | Brings everybody out of the rectangle, and does not ask who was closest, because the file says proximity is the only selection criterion the holding has. | Composure loss belongs to the person who answered, not the person who shouted. That sentence is the whole of the operational method here, and it is why the response to a surge is distance rather than argument. |
+| { *The Settling* [**Refusal**] } | Puts the pressure's full weight on one point of the floor and picks the person who answered, not the person who shouted — the selection arriving, not a blow. | Keeps silence through the recovery, and records what the affected worker said while under it rather than asking them afterwards. | Prolonged exposure produces nothing physical. What it produces is remembered speech: people recall with great precision what they said while they were under it, which is why the reconciliation is left entirely to them. |
+| { *The Grudge Collapse* [**Overload**] } | Lets the full grudge sorrow go in every direction across the marked rectangle, so that a person near somebody under it is eroded as well as the person standing in it. | Clears the footprint to the marked edges and past them, closes the corridor until the pressure reads back at baseline, and books the erosion to everybody who was within the rectangle or beside somebody who was. | The expansion is the footprint and the anomaly does not move to make it. Four incidents over ninety seconds are in the file and every one of them involved a colleague replying, which is why silence during recovery is written as a rule and not a courtesy. |
 
-1. **Tension:** The team identifies Hatred Above by a directionless fury that arrives after nine to fourteen seconds beneath the footprint and then settles on whoever is nearest. The interval supports the crossing rule. Confirm the posted approach and take the watch position outside the footprint before attempting observation; do not wait beneath it to reproduce the anger for identification.
-2. **Clash:** Both valid Work Types are performed outside the line: inward-angled observation and waiting for the crossing interval. The separate equipment crossing record is not a work station beneath the anomaly. If anger appears, open distance and do not answer; no contest with an overhead body is documented.
-3. **Resolution:** Distance, a barrier if one is to hand, and silence from everybody else. The worker comes back on their own. The team does not debrief them at the spot and does not require them to say anything about it afterwards. It closes against the documented suppression condition: **open the distance, hold the silence, and let the range do the rest**.
+### Watch Sequence
+
+1. **What is confirmed:** the marked rectangle, the overhead absence, and who is standing inside it as against who is near it.
+2. **What the watch does:** Viderehan for the inward-angled watch and Ferrehan for the interval stood from outside the rectangle, with distance opened and no reply given.
+3. **How it closes:** **The affected worker is at distance, has stopped shouting, and has not been answered** — and silence is kept through the recovery, because the longer record does not authorize subdual.
 
 ### Consequences
 
 - Composure loss belongs to the person who answered, not the person who shouted. Every prolonged incident in the file — all four over ninety seconds — involved a colleague replying, and the training material says so in those words.
 - Prolonged exposure produces nothing physical. What it produces is remembered speech: people recall with great precision what they said while they were under it, which is the reason the reconciliation afterwards is left entirely to them.
 - No piece in this set may be carried across the footprint by two people. The custody rule is the movement rule: singly, at intervals, never in company.
+- Separation and silence are now wing procedure rather than this holding's file, and every affected worker is re-surveyed against a schedule the facility sets.
 
 ## Appearance
 
 **An invisible overhead source, a marked floor:** Nothing visible or audible hangs above the corridor. The colder, brighter rectangle is the facility's lighting and marking system, not a luminous skin or cloud belonging to the entity. Side-mounted instruments look inward because the footprint is kept clear. The visible containment arrangement makes a fixed, otherwise unseen hazard recognizable without inventing a face, a storm front or a body to strike.
 
-**Pressure in a person, not a borrowed body:** Fury begins without a grievance and then takes the nearest other person as its subject. A worker stopping beneath the light or turning toward a colleague is a contact sign; that worker has not become the anatomical form of Hatred Above. The unknown first formation is not established by the date of the first incident, and no quarrel between current colleagues supplies the missing origin.
+**Pressure in a person, not a borrowed body:** Fury begins without a grievance and then takes the nearest other person as its subject. A worker stopping beneath the light or turning toward a colleague is a contact sign. That worker has not become the anatomical form of Hatred Above. The unknown first formation is not established by the date of the first incident, and no quarrel between current colleagues supplies the missing origin.
 
 **Expansion and portable pieces:** The footprint can widen while the overhead anomaly stays in place. The line and waiting places must then be moved; this is altered exposure geometry, not the hazard descending or walking. Blade, Veil and Token are derived equipment with separate bearer costs. Their reported marking-material extraction does not make the instrument mounts, lamps or angered workers parts of a source body.
 
 **Primary Form:** A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person.
 
 **Notable Features:**
-- Expresses Grudge pressure in a grudge register.
-- The hazard form is unmistakable — this is a grudge entity, not a general one.
+- Nothing hangs in the air to be seen. The anomaly is read from the ground, by what the people standing beneath it begin to do.
+- The anger has no target at first and then has exactly one: whoever is standing nearest, every time, across 63 incidents.
 - Identification is by the floor: a marked rectangle of corridor lit brighter and colder than anything around it, with nothing stored on it and nothing standing on it.
 
 **Identification Profile**
@@ -125,47 +134,46 @@
 |---|---|
 | **Form** | A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person. |
 | **Position / movement** | Stationary and overhead. The hazard is the floor area beneath it — eighteen metres by eleven, marked out, lit differently, and crossed rather than occupied. The anomaly itself has not moved since the first survey. |
-| **Material / signature** | Nothing visible overhead and nothing audible. Instruments are mounted on the surrounding structure and angled inward, since nothing may be suspended beneath the anomaly or placed on the floor within the footprint; the engineers describe the arrangement as awkward and the readings as adequate rather than good. |
+| **Material / signature** | Nothing visible overhead and nothing audible. Instruments are mounted on the surrounding structure and angled inward, since nothing may be suspended beneath the anomaly or placed on the floor within the footprint. The engineers describe the arrangement as awkward and the readings as adequate rather than good. |
 | **Distinctive markers** | A directionless fury that arrives after nine to fourteen seconds beneath the footprint and then settles on whoever is nearest. The interval is the most reliable figure in the file and the movement rule is built on it. |
 | **Identification** | Use the inward-angled instruments, posted footprint and crossing record. The documented anger fastens on the closest person rather than an absent grievance, but identification must not elicit an answer from the affected worker or require the words shouted beneath the light to be recorded. |
 
 ## Origin
 
-The first incident has a date. The anomaly does not. Zone C had been routing crews around a particular stretch of corridor for years before anybody wrote down why, and when the file was finally opened it found a habit older than any of the people practising it — a corridor that everyone crossed quickly, alone, without having been told to.
+The first incident has a date. The anomaly does not. Zone C had been routing crews around a particular stretch of corridor for years before anybody wrote down why. And when the file was finally opened it found a habit older than any of the people practising it — a corridor that everyone crossed quickly, alone, without having been told to.
 
 The anger it makes has no subject. That is the whole of the danger. It arrives empty, nine to fourteen seconds in, and then it fastens on whoever is standing closest, and the person it fastens on is not a cause, a rival, or anybody with a history — only the nearest body. Sixty-three times, with no exceptions.
 
 So the containment is spacing. Eighteen metres by eleven, marked on the floor, lit cold, crossed one at a time.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the grudge pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
+> **This holding is not worked.** A colder, brighter rectangle of floor eighteen metres by eleven, under a corridor where nothing visible or audible hangs above it. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the marked rectangle, the overhead absence, and who is standing inside it as against who is near it. |
+| **Handling** | The watch confirms the rectangle and the overhead absence before anything is said, and notes who is standing inside the marked floor and who is only near it. |
+| **Withdrawal** | **The affected worker is at distance, has stopped shouting, and has not been answered** — and silence is kept through the recovery, because the longer record does not authorize subdual. |
+| **Refusal** | Keeps silence through the recovery, and records what the affected worker said while under it rather than asking them afterwards. |
 
-The pressure is measured from the sides, at an angle, by instruments that cannot be placed where the readings would be best. Both valid approaches are performed from outside the marked rectangle: observation is the inward-angled watch, endurance is the discipline of the interval — standing and waiting your turn to cross when nothing appears to be wrong. The gauge answers to the interval being kept.
+## Containment Event Behavior
 
-## Breach Behavior
+> **Containment event — no breach counter.** The footprint widens while the anomaly stays fixed overhead. The gauge rises ten points per metre the marked line is out of date.
 
-> *"Hatred Above has broken free. The grudge grudge spreads."*
-
+> *"The footprint under Hatred Above has widened again. The hazard at the new edge is the nearest other person; separate the crews and hold the old line where it was."*
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The footprint widens on the floor while the anomaly overhead stays where it is, as though the cone had opened. Both recorded expansions were found by the marked line no longer matching where people started to stop walking, and both were re-marked rather than contested. |
-| **Effect** | The widened edge takes in whatever was sited just outside it — in Y4244, a relief point where two crews habitually waited together. Three incidents in nine days before the line was redrawn; all three involved people who were standing in company at a spot that had been safe the week before. |
+| **Effect** | The widened edge takes in whatever was sited just outside it — in Y4244, a relief point where two crews habitually waited together. Three incidents in nine days before the line was redrawn. All three involved people who were standing in company at a spot that had been safe the week before. |
 | **First Target** | The nearest other person, with no further criterion. Not the newest, not the most fatigued, not anyone with a history: the closest body. 63 incidents, 63 times the nearest colleague, and the file notes that this is the only thing about the holding that has never once varied. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Grudge drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Containment priority:** Separate affected workers, keep silence and re-survey the marked footprint. The field record specifies separation rather than subdual; neither an enlarged line nor a prolonged exchange authorizes physical suppression of an unseen overhead body.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per metre the marked line is found to be out of date, not per turn. The Y4244 widening took it to 70% in nine days and it returned to 40% within a shift of the re-marking.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per metre the marked line is found to be out of date, not per turn. The Y4244 widening took it to 70% in nine days and it returned to 40% within a shift of the re-marking.
 
 ## M.A.W. Equipment
 
@@ -175,7 +183,7 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a single-edged blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** a single-edged blade of Grudge Han-iron, dark and warm along the flat, its edge widened at the last hand's width so it takes whatever stands beside the target as readily as the target.
 
 **Damage:** Grudge 11–22
 **Speed:** 2 (Normal)
@@ -187,32 +195,32 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 **Target Coverage:** 1 selected target
 **Falloff Rule:** None; 100% damage to the selected target only.
 **Damage Application:** Direct Grudge damage; the overhead anomaly’s spread does not add targets to the Edge’s strike.
-**Ability:** Channels Grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
-**Cost:** The wielder experiences chronic fatigue in the dominant hand with each use.
+**Ability:** *Nearest Body* — the strike goes to the closest body and cannot be aimed past it. The bearer's own colleague, standing where colleagues stand, is on the list by geometry and not by intent: sixty-three incidents, sixty-three times the nearest colleague.
+**Bearer cost:** The wielder's own anger arrives without a subject — nine to fourteen seconds into an argument, in a room where nothing has happened — and the blade does not name who it is for.
 
 ### M.A.W. Suit — Hatred Above's Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that tightens near its source element.
+**Appearance:** a flowing veil of Grudge Han-cloth, dark and warm the way a wall is warm after a fire on the far side of it, cut to hang between the wearer's mouth and the room.
 
 The shelter does not remove the bodily record of small insults. Stiffening reflexes and anger reaching the voice before judgement are costs to record, not evidence that a grievance has been established. A worker’s own past and the source of pressure remain separate even when both feel personal.
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 0.3 (Resistant) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Bearer cost:** The suit stores each small insult in the body; the wearer's reflexes grow rigid, and anger reaches the voice before judgment can intervene.
-**Ability:** Grants resistance to Grudge damage, protecting against the grudge register of sorrow.
+**Ability:** *Unanswered* — the wearer's anger finds no reply in the weave. Grudge pressure runs off it unanswered, which is the file's own resolution condition worn as a garment.
 
 ### M.A.W. Stigma — Hatred Above's Token
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, stamped on one face with the number of incidents and on the other with nothing at all.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
-**Ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.
-**Cost:** Old injuries and old resentments sharpen whenever the Token is used.
+**Ability:** *Step Back* — it goes cold the moment somebody within reach has answered back. That is the only warning the piece gives, and the only one that has ever ended an incident.
+**Bearer cost:** Old injuries and old resentments sharpen whenever the Token is used.
 
 The source event remains unidentified. Carrying the Token does not supply its missing history or make the nearest colleague responsible for it. First-person ownership of that unknown history is a warning sign; the return review keeps uncertainty rather than completing the account for the bearer.
 *A Token is found at the far edge of the footprint, on the outward side of the line, by the next person to cross alone. It has never been recovered by a pair and has never been found inside the marked rectangle.*
@@ -281,7 +289,7 @@ Contact is disorienting. The grudge pressure is familiar — every agent in Somn
 
 ## 상호작용 (Entity Interactions)
 
-Nothing here is addressed and nothing here has an author. The anomaly manufactures its anger inside whoever stands beneath it and hands it to the nearest body, so the three records kept beside it in the appendix are all holdings that put fury somewhere: a statue holding a strike it never threw, a judge that turns anger into a ruling, and a library whose fire keeps the pages it burns. What follows is read from this holding's own instruments — the perimeter-mounted sensors angled inward at the footprint, the crossing log, and the line re-surveyed each cycle.
+Nothing here is addressed and nothing here has an author. The anomaly manufactures its anger inside whoever stands beneath it and hands it to the nearest body. So the three records kept beside it in the appendix are all holdings that put fury somewhere: a statue holding a strike it never threw, a judge that turns anger into a ruling. And a library whose fire keeps the pages it burns. What follows is read from this holding's own instruments — the perimeter-mounted sensors angled inward at the footprint, the crossing log, and the line re-surveyed each cycle.
 
 **Interaction method:** Set this holding's own figures first: the 63 incidents, the posted crossing interval of 20 seconds, and the gauge ladder from the Y4244 widening. Then read the other record's figures beside them, enter whether either moved, and re-survey at the next cycle.
 
@@ -289,15 +297,15 @@ Nothing here is addressed and nothing here has an author. The anomaly manufactur
 |---|---|---|---|
 | **The Rage Statue** `C-IIIγ-190` | Both keep fury with nobody to spend it on. That record holds a fist that never unclenched; this anomaly's anger always lands, and always on the closest body rather than the right one. | Nothing was run. The appendix grouped the two on anger without an owner, and the review left the entry as an arrangement. | The grouping is a filing line, entered as such and read as one. |
 | **Gavel** `C-IVδ-140` | Both take anger and give it a direction. That record rules; this one hands over something personal and accurate, and none of it is recorded anywhere. | The pair was read against the footprint sensors only. No reading moved, and the recording prohibition was noted rather than tested. | That a verdict is the one thing this holding is built never to produce. |
-| **Pyre of Truths** `C-IVδ-092` | Both are fed by what people would rather be rid of. That record's fire keeps every page it burns; this one keeps nothing, and interviews agree there was nothing underneath — no grievance, no content, only the response. | Entered as read-only on both sides: the fire has burned for years without consuming a page here or there, and the light under the anomaly has never failed to get somebody moving. | That a resemblance is the reason for the shelf, not a finding that came out of it. |
+| **Pyre of Truths** `C-IVδ-092` | Both are fed by what people would rather be rid of. That record's fire keeps every page it burns. This one keeps nothing, and interviews agree there was nothing underneath — no grievance, no content, only the response. | Entered as read-only on both sides: the fire has burned for years without consuming a page here or there, and the light under the anomaly has never failed to get somebody moving. | That a resemblance is the reason for the shelf, not a finding that came out of it. |
 
 ## 이야기 (Narratio) — The Tale
 
-The lighting was chosen out of a trial. Floor texture was tried, and sound, and colour, and all three worked less well than making the light under the anomaly brighter and colder than the corridor around it — because a person who has stopped walking sees the light on their own hands before they see anything else, and the seeing is what gets them moving again.
+The lighting was chosen out of a trial. Floor texture was tried, and sound. And colour, and all three worked less well than making the light under the anomaly brighter and colder than the corridor around it — because a person who has stopped walking sees the light on their own hands before they see anything else. And the seeing is what gets them moving again.
 
 Two pieces of fixed equipment stand at the edges of the footprint and nothing stands within it. No stores, no station, no relief point, no place where two people might reasonably find themselves waiting together. The Y4244 incidents happened because the line moved and a waiting place that had been outside it was not any more.
 
-The reconciliations are not recorded anywhere. That is deliberate and it is written down as deliberate, which is the nearest thing this folder has to a philosophy: the facility will mark a floor, post an interval and train people not to answer, and it will not stand between two colleagues sorting out something that one of them did not choose to say.
+The reconciliations are not recorded anywhere. That is deliberate and it is written down as deliberate, which is the nearest thing this folder has to a philosophy: the facility will mark a floor, post an interval and train people not to answer. And it will not stand between two colleagues sorting out something that one of them did not choose to say.
 
 Sixty-three incidents, no injuries, no lasting estrangements on record, and an anomaly that has not moved in seventeen years of being measured from the side. The only thing that has ever changed here is the line on the floor.
 
@@ -307,7 +315,7 @@ Sixty-three incidents, no injuries, no lasting estrangements on record, and an a
 *"Six years on grudge holdings, and never once before this one has the anger turned up with nobody in it to be angry at. It fastens on the nearest body and then behaves as though it had a reason for choosing."* — Handler
 *"Containment holds, and containment is nothing but spacing: the rectangle marked on the floor, lit cold, crossed singly and at intervals. What needs rewriting is every protocol that assumed a hazard would aim at you."* — Containment Lead
 *"After contact I could not stop thinking in the register for three days. What stays is not the anger. It is the sentence I said while I was under it, which I remember word for word and cannot hand to anybody else to settle."* — Specialist, Recovery
-*"Hazard-Grudge is a classification we are still filling in from this end. Sixty-three fastenings on record, none of them on a person with any history behind it; that finding is what made us stop looking for a subject."* — Researcher, Floor 4
+*"Hazard-Grudge is a classification we are still filling in from this end. Sixty-three fastenings on record, none of them on a person with any history behind it. That finding is what made us stop looking for a subject."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
@@ -332,13 +340,13 @@ Sixty-three incidents, no injuries, no lasting estrangements on record, and an a
 
 **Operational interpretation:** Hazard-Grudge is correct, and the operational content is a geometry problem rather than a sorrow one: an anomaly that cannot be reached, a floor that can be marked, and a nine-to-fourteen second delay long enough to walk eighteen metres in. Everything expensive about this holding — the inward-angled instruments, the cold lighting, the twenty-second interval — follows from refusing to put anything or anyone underneath it.
 
-**Review requirement:** Re-measure the footprint every cycle and re-run the marking trial whenever the corridor lighting is changed. Floor texture, sound and colour were all tried and all worked less well than light; the comparison is in the folder and is to be repeated rather than cited.
+**Review requirement:** Re-measure the footprint every cycle and re-run the marking trial whenever the corridor lighting is changed. Floor texture, sound and colour were all tried and all worked less well than light. The comparison is in the folder and is to be repeated rather than cited.
 
 ## Apex Record
 
 ### Beneath It
 
-The anomaly is stationary and overhead, which means the hazard is defined entirely by the floor area under it and the floor area under it is marked, lit differently from the surrounding space, and crossed rather than occupied. Nothing is stored there, no station is sited there, and the two pieces of fixed equipment that were originally installed under the footprint were relocated at considerable cost once the pattern was understood. The relocation file is kept with the protocol because it is the clearest statement the holding has of the principle involved: the area is not dangerous to pass through, it is dangerous to have a reason to linger in, and the remedy was to remove the reasons.
+The anomaly is stationary and overhead, which means the hazard is defined entirely by the floor area under it and the floor area under it is marked, lit differently from the surrounding space, and crossed rather than occupied. Nothing is stored there, no station is sited there, and the two pieces of fixed equipment that were originally installed under the footprint were relocated at considerable cost once the pattern was understood. The relocation file is kept with the protocol because it is the clearest statement the holding has of the principle involved: the area is not dangerous to pass through, it is dangerous to have a reason to linger in. And the remedy was to remove the reasons.
 
 ### The Nearest Person
 
@@ -346,7 +354,7 @@ Fury generated beneath the footprint is directionless for a short interval and t
 
 ### Measurement From Outside
 
-Instruments monitoring the anomaly are mounted on the surrounding structure and angled inward; nothing is suspended beneath it and nothing is placed on the floor within the footprint. The constraint has produced a monitoring arrangement the engineers describe as awkward and the readings as adequate rather than good. The wing has accepted the degradation deliberately. The file's note explains that a better instrument under the anomaly would require a technician under the anomaly to service it, that servicing takes time, and that time beneath the footprint is the one commodity the protocol is designed to eliminate.
+Instruments monitoring the anomaly are mounted on the surrounding structure and angled inward. Nothing is suspended beneath it and nothing is placed on the floor within the footprint. The constraint has produced a monitoring arrangement the engineers describe as awkward and the readings as adequate rather than good. The wing has accepted the degradation deliberately. The file's note explains that a better instrument under the anomaly would require a technician under the anomaly to service it, that servicing takes time, and that time beneath the footprint is the one commodity the protocol is designed to eliminate.
 
 ### Response to Fury
 
@@ -354,7 +362,7 @@ An affected worker is separated rather than subdued. Response procedure is to op
 
 ### Afterward
 
-Workers reconcile. The procedure for it is deliberately unofficial — there is no form, no mediated session, and no requirement to report that it has happened — because the wing's assessment, written early and never revised, is that a facility-administered apology for words the facility knows were not freely chosen would be worse than nothing. What the holding provides is time: both parties are stood down together for the remainder of the shift and are left to it. The arrangement has worked in every case but one, and the exception is recorded, with both parties transferred at their own request and without prejudice.
+Workers reconcile. The procedure for it is deliberately unofficial — there is no form, no mediated session. And no requirement to report that it has happened — because the wing's assessment, written early and never revised, is that a facility-administered apology for words the facility knows were not freely chosen would be worse than nothing. What the holding provides is time: both parties are stood down together for the remainder of the shift and are left to it. The arrangement has worked in every case but one, and the exception is recorded, with both parties transferred at their own request and without prejudice.
 
 ### The Age of It
 
@@ -366,9 +374,9 @@ Lighting beneath the footprint is brighter and colder than the surrounding corri
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Grudge** entities in Somnarak.
-- Its grudge descriptor makes it structurally unique among hazard entities.
-- The grudge pressure in the grudge register feels different from standard grudge — more specific, more personal.
+- Across those 63 incidents the response that closed them was the same: open the distance. The nearest colleague is named in the record on all 63.
+- The footprint widens while the anomaly itself does not move. The Y4244 widening took the gauge to 70 per cent in nine days, and it fell back to 40 within a shift of the line being re-marked.
+- A worker who has stopped shouting and has not been answered is the file's definition of resolved. The ground stays marked; the anomaly stays overhead.
 
 ## Document Information
 

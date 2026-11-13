@@ -64,14 +64,3 @@ The weapon now refuses to glow until its patient is addressed by a name they acc
 The Charm distinguishes names, the Shroud receives the failed homecoming, and the Blade repairs only current flesh. Full resonance collapses when physical healing is presented as proof that the old life has been restored.
 
 > *“The cut was easy. Feeling the person behind it again was the recovery.”* — Specialist Haneulash Yoon
-
----
-
-**Document ID:** `SE-589-B`  
-**Linked Entity:** `SE-589`  
-**Item Registry Code:** `MAW-W-589-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

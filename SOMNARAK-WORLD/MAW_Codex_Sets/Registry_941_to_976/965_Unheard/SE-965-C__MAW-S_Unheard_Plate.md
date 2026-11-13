@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Unheard Plate
 
-> *“Unheard Plate remembers Unheard; the bearer must not mistake memory for permission.”*
+> *"The wearer is entirely unhurt and cannot describe what happened to them. No account of any fight survives."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Unheard's kind of pressure.  
-**Binding rule:** the bearer names Unheard's event—A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained.—and accepts this limit: Do not force sound into it; listen and record what remains
+**Binding rule:** the bearer names Unheard's event — “A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained.” — and accepts this limit: Do not force sound into it; listen and record what remains
 
 ## Appearance
 
-The Unheard Plate is the suit record of the Unheard set — α-grade, Grudge-aligned, resistant to Grudge at 0.4 while running weak to Void at 1.8 and Weight at 1.2, worn at 10 Sorrow Echoes a deployment — and its canonical ability grants resistance to Grudge damage, protecting the Body against the pressure of a struggle whose words were deleted. Binding names the source event — a citizen's final protest was absorbed by the Collector's system, the words gone, the pressure remaining — and accepts the set's limit: do not force sound into it; listen and record what remains. The cost is dulling: the wearer's reflexes slow, as if armored by resentment. The source-trace fixed doctrine: the entity tests whether the worker can remain inside complete silence, and the Plate contains the hazard only after attribution to Unheard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Unheard Plate is the suit record of the Unheard set — α-grade, Grudge-aligned, resistant to Grudge at 0.4 while running weak to Void at 1.8 and Weight at 1.2, worn at 10 Sorrow Echoes a deployment — and its canonical ability grants resistance to Grudge damage, protecting the Body against the pressure of a struggle whose words were deleted. Binding names the source event — a citizen's final protest was absorbed by the Collector's system, the words gone, the pressure remaining — and accepts the set's limit: do not force sound into it; listen and record what remains. The cost is the account: the wearer is unhurt and cannot describe what happened to them, and a season of it leaves them with no account of any fight. The source-trace fixed doctrine: the entity tests whether the worker can remain inside complete silence, and the Plate contains the hazard only after attribution to Unheard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,16 +29,20 @@ The Unheard Plate is the suit record of the Unheard set — α-grade, Grudge-ali
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Unheard's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
+**Operational / binding cost:** The Plate stops the blow and stops the complaint with it: worn, the wearer cannot describe what happened to them. Worn long, the wearer is entirely unhurt and has no account of any fight.
 
 ## ITEM-SPECIFIC HISTORY — *The Unheard Source-Trace: Suit Record*
 
-The first Unheard Plate field bearer encountered this source response: Tests whether the worker can remain inside complete silence. The suit contains the immediate hazard only after the team attributed it to Unheard. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Unheard Plate field bearer encountered this source response: Tests whether the worker can remain inside complete silence. The suit contains the immediate hazard only after the team attributed it to Unheard. A wearer came through a fight entirely unhurt and could give no account of any of it, and the Plate’s binding is the blank incident form.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Unheard's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the complaint goes before the blow does, and injuries are treated without anybody being told how they happened.
 - Terminal state: Unheard's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not force sound into it; listen and record what remains” reverses the item’s benefit and raises the source Gauge.  
@@ -47,15 +51,4 @@ The first Unheard Plate field bearer encountered this source response: Tests whe
 
 ## SET RELATIONSHIP
 
-Within *Unheard — Witnessed Form*, Unheard Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-965-C`  
-**Linked Entity:** `SE-965`  
-**Item Registry Code:** `MAW-S-965-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Unheard — Witnessed Form*, Unheard Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still describe one thing that happened to them; the first fight they cannot, the Plate is out.

@@ -14,6 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
+**Maximum Amount:** 5 — Abundant
 A warm Weight Han-steel Head token that makes external sound recede while unspoken burden appears as pressure, never content. The entity granted it after a worker offered safe listening without demanding response. Bestowal chance is 5%.
 
 ## Appearance
@@ -46,14 +47,3 @@ Stigma detects burden, Mantle makes optional quiet, and Maul acts on one offered
 **Care:** Record only location, intensity, and consent status. Spend equal time listening to ordinary chosen sound after the work cycle.
 
 **Emergency release:** Leave the group’s private boundary, restore external sound gradually, and speak none of the guessed content.
-
----
-
-**Document ID:** `SE-285-D`  
-**Linked Entity:** `SE-285`  
-**Item Registry Code:** `MAW-G-285-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

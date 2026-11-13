@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Vδ-111 [VO]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `1/1`
 **Record Status:** Sealed — deepest Alpha Tree vault
 
@@ -62,6 +62,8 @@ The Door is colder than the vault by every instrument and warmer than the vault 
 |---|---|---|
 | Distant Viderehan | Ancient whisper residue may be detected. | Record only duration, direction, and observer condition. |
 | Ferrehan wait | The Door tests willingness to wait without yielding an answer. | No lone endurance observation. |
+| Flerehan | **Negative-Low** — an offer of grief to a door is read as a claim on what is behind it. | Barred; the offer is not made at the seal. |
+| Pugnahan | **Negative-Low** — force applied here is answered by everything the Door is carrying. | Barred; no breaching work at the seal. |
 | Touch or sustained listening | A buried truth may whisper for exactly thirteen seconds. | Unauthorized. Retreat, log, and notify Archive Lead. |
 | Abandoned O-Relic channel | Residue compounds rather than closing cleanly. | Security containment and Echo-Core review. |
 | Any opening attempt | Unknown threshold event. | Prohibited; no exception in current operating authority. |
@@ -118,13 +120,3 @@ A Door whisper is exactly thirteen seconds in recorded instances. The listener m
 **No individual M.A.W. codices:** the absence is deliberate and source-mandated, not an unfinished catalog task.
 
 > *“Some records are safest when they record the limit of what we are allowed to know.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-111-A`  
-**Linked Entity:** `SE-111`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

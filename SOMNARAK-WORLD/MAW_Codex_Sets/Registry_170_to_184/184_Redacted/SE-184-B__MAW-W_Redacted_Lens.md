@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Arboretum Lance
+# M.A.W. WEAPON — Redacted Lens
 
 > *“It can stop absence from spreading. It cannot invent the person the absence once held.”*
 
@@ -28,7 +28,7 @@ Formed from a pale leaf echo dropped after a worker recorded an absence without 
 
 ## Appearance
 
-Appearance : A nine-foot jousting lance grown from hardened petrified ash, tapering smoothly to an iron-capped thorn head and protected by a broad circular hand-guard carved with intertwined leaf veins.
+A nine-foot jousting lance grown from hardened petrified ash, tapering smoothly to an iron-capped thorn head and protected by a broad circular hand-guard carved with intertwined leaf veins.
 
 The lance's grain is dense and completely knot-free, polished with botanical lacquer. Thrusting impacts generate concussive forward shockwaves that splinter wooden defenses and pin heavy opponents.
 
@@ -61,14 +61,3 @@ A field worker began replacing a missing colleague with invented memories during
 ## SET RELATIONSHIP
 
 The Lens is the preservation edge of *Keep the Blank*, with Redacted Veil protection and Redacted Ring’s missing-element reading.
-
----
-
-**Document ID:** `SE-184-B`  
-**Linked Entity:** `SE-184`  
-**Item Registry Code:** `MAW-W-184-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

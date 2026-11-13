@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Lament |
 | Form | Slow glassy tear-drops containing faces, hair, skin, visible voices, places, and feelings that dissolve into memory on contact. |
-| Gauge / Pressure | 35–50% / Lament 10–23 |
+| Gauge / Pressure | 000/420; starts 000% / Lament — no attack pattern; the rate, extent and duration of the fall are the instrument |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Anchored Downpour |
 
@@ -46,10 +46,10 @@ The drops drift from clear skies and smell faintly of rain on old flowers. They 
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Personal tears do not identify a drop. |
-| Pugnahan | Not valid; disturbance hardens falling memories. | N/A | Never strike the rain. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Personal tears do not identify a drop. |
+| Pugnahan | Not valid; disturbance hardens falling memories. | Net-Neutral | Never strike the rain. |
 | Viderehan | Each drop can be catalogued as a memory record. | Stable | Record provenance confidence separately. |
-| Ferrehan | Tests remaining beneath the rain without losing identity. | Down | Use two personal identity anchors. |
+| Ferrehan | Tests remaining beneath the rain without losing identity. | Decrease | Use two personal identity anchors. |
 
 **Resolution:** Collect drops carefully and provide identity anchors.  
 **Expansion:** Excess city memory increases rainfall until personnel experience countless lives at once.  
@@ -101,13 +101,3 @@ A drop may be shaped only after it lands, crystallizes, and is catalogued withou
 **Primary source:** `SE-C-IIβ-250_Memory_Rain_기억의_비.md`
 
 **Formal-ID note:** `SE-250` is assigned to Memory Rain. Restless Gap and Debt-Collector’s-Lantern remain deferred source-suffix siblings requiring unique formal IDs.
-
----
-
-**Document ID:** `SE-250-A`  
-**Linked Entity:** `SE-250`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

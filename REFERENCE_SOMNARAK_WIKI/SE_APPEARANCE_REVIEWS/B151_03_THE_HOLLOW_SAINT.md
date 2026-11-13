@@ -52,15 +52,15 @@ Written-design logical review only. Rendered artwork, browser preview, interacti
   "original_sha256": "d21193102d2da74be1d613510156b8c19c1e347100fca9fc50b366cdf468bec6",
   "source_sha256": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-A__SIDE_CODEX_The_Hollow_Saint.md": "8c6c691cc3a6557e43cc7a4c2b897c3d0284cec74e5fd1dbfa7803a7983a1114",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-B__MAW-W_The_Hollow_Lens.md": "351c04b49d503135bbb31d67e7e8c17d464ae253bac59a0002979f144dd51fea",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-B__MAW-W_The_Hollow_Sceptre.md": "351c04b49d503135bbb31d67e7e8c17d464ae253bac59a0002979f144dd51fea",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-C__MAW-S_The_Hollow_Veil.md": "532aff10645736c79a3908cbb1a692066bf65aaa34c91d5f635531748999cea6",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-D__MAW-G_The_Hollow_Chalice.md": "7ac2258a5c02823698e56796805c3e95cdd82b43d63821f59cfdfb609fa82491",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "source_base": "67bc958f6d316c79fd560037114f59c53cb27583",
   "checks": {

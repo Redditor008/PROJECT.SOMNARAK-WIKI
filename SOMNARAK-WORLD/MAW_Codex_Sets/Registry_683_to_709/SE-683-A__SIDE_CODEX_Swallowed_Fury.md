@@ -17,7 +17,7 @@ A faint tear-shaped ghost burns around the Forge District: grief was ordered inv
 |---|---|
 | Coherence / Potency | I / α |
 | Element / Location | Grudge / Zone D, Forge District |
-| Gauge / Pressure | 216/216; 25–40% / 2–8 |
+| Gauge / Pressure | 240/240; 25–40% / 2–8 |
 | Set | The Tear Permitted |
 
 Flerehan clarifies and calms; Pugnahan feeds borrowed fury; Viderehan reveals the loss; Ferrehan waits beside it. **Resolution:** permit tears and name the loss; do not suppress anger.
@@ -33,12 +33,3 @@ Flerehan clarifies and calms; Pugnahan feeds borrowed fury; Viderehan reveals th
 **Resonance — Grief Becomes Visible:** Ember releases one suppressed feeling, Plate contains the surge, and Fang cuts the order forbidding expression. Cost: concealment becomes impossible for the cycle. Calling tears weakness makes the Fang redirect at the speaker.
 
 **Incident:** at Forge Shift Nine, a foreman ordered a bereaved worker composed. Plate locked the foreman’s jaw, Ember exposed his own grief, and Fang severed the written no-cry rule. The source became clear enough to identify the loss.
-
----
-**Document ID:** `SE-683-A`  
-**Linked Entity:** `SE-683`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -24,6 +24,10 @@ The Indebted Dagger is a crimson dagger of Han iron showing grief stains beneath
 |---|---:|---|---|---:|
 | α / Grudge | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
 **Hidden Grief:** Reveals emotional harm concealed in a person, object, or ledger action.
 
 **Cost:** The wielder cannot feel genuine emotion while active.
@@ -31,14 +35,3 @@ The Indebted Dagger is a crimson dagger of Han iron showing grief stains beneath
 **Failures:** private grief exposed without consent; desire treated as proof of entitlement; debt records attacked instead of reviewed.
 
 **Maintenance:** Restore ordinary feeling before interpreting the revealed grief.
-
----
-
-**Document ID:** `SE-456-B`  
-**Linked Entity:** `SE-456`  
-**Item Registry Code:** `MAW-W-456-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

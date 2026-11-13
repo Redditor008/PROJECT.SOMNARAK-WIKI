@@ -1,0 +1,1555 @@
+{
+  "schema_version": 1,
+  "batch": 205,
+  "status": "OPEN",
+  "date": "2026-10-29",
+  "parent_head": "5a6095426349d472faccc2ae2d14a95a7cb512d3",
+  "programme": "R-34 recheck of dossiers first reviewed before R-34 (evidence batches 145-197); pending pool is 0",
+  "ranking_method": "One oldest pre-R-34 HELD dossier per SE document shape (SE_DOC_STRUCTURES method: last Tool Use Profile heading, else Entity role), prior batch ascending then LC_ALL=C wc -w ascending; shapes ordered Subject, Non-Subject, I-Relic, O-Relic, A-Relic",
+  "shape_measurement_at_open": {
+    "Subject": 142,
+    "Non-Subject": 71,
+    "I-Relic": 53,
+    "O-Relic": 28,
+    "A-Relic": 7,
+    "total": 301,
+    "leaf_shapes": 5,
+    "top_categories": [
+      "Subject",
+      "Non-Subject",
+      "Relic"
+    ],
+    "relic_subclasses": [
+      "I-Relic (Indumentum)",
+      "O-Relic (Offertorium)",
+      "A-Relic (Arcanum)"
+    ]
+  },
+  "pending_at_open": 0,
+  "recheck_pool_at_open": 246,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "N-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md",
+      "words": 7943,
+      "sha256": "31331e091c47a11d550bd070669d600b3cabb82dfd62066ba443fbaaf333c472",
+      "prior_batch": 147,
+      "shape": "Subject"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIβ-119",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md",
+      "words": 6946,
+      "sha256": "ca580a496f224b42ee76762b21876f7434680f3ee754bee2b0421356e6d57c28",
+      "prior_batch": 148,
+      "shape": "Non-Subject"
+    },
+    {
+      "unit": 3,
+      "designation": "N-Iα-518",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md",
+      "words": 8458,
+      "sha256": "8612840b0c64042e6665619162e550671cbccbc5b621fbd8808cf095098486b5",
+      "prior_batch": 148,
+      "shape": "I-Relic"
+    },
+    {
+      "unit": 4,
+      "designation": "C-Iα-884",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md",
+      "words": 6379,
+      "sha256": "ac9ee1354ef580bd963ab9be57c0759cd49e29b741c99c25851214e654a6aa82",
+      "prior_batch": 146,
+      "shape": "O-Relic"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IIβ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-290_Broken_Compass_부서진_나침반.md",
+      "words": 7668,
+      "sha256": "6b89745a045aba4bfae9edf6ac5bc1838c62ca7f46cefe73123a0934248c587d",
+      "prior_batch": 155,
+      "shape": "A-Relic"
+    }
+  ],
+  "pending_fingerprints": [
+    {
+      "designation": "C-Iα-884",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md",
+      "words": 6379,
+      "sha256": "ac9ee1354ef580bd963ab9be57c0759cd49e29b741c99c25851214e654a6aa82"
+    },
+    {
+      "designation": "N-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md",
+      "words": 7943,
+      "sha256": "31331e091c47a11d550bd070669d600b3cabb82dfd62066ba443fbaaf333c472"
+    },
+    {
+      "designation": "O-IIβ-119",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md",
+      "words": 6946,
+      "sha256": "ca580a496f224b42ee76762b21876f7434680f3ee754bee2b0421356e6d57c28"
+    },
+    {
+      "designation": "C-IVδ-103",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md",
+      "words": 7886,
+      "sha256": "ba094c207fd07ea65c62a8ff6426ca4d239529f9112b790aa289b79ee23a8e76"
+    },
+    {
+      "designation": "N-Iα-518",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md",
+      "words": 8458,
+      "sha256": "8612840b0c64042e6665619162e550671cbccbc5b621fbd8808cf095098486b5"
+    },
+    {
+      "designation": "C-Vδ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md",
+      "words": 9190,
+      "sha256": "96755ffc07648a402ab5bbf0d9f70c274460b701ca550670eab9b56fe83ae826"
+    },
+    {
+      "designation": "N-IVδ-852",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-852_Conservatory_잊혀진_잔해.md",
+      "words": 10095,
+      "sha256": "e5fb17d8f9e181c1db6196fa56d8207392beb6f2433cf264bc968afd1c911b12"
+    },
+    {
+      "designation": "C-IIIγ-180",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-180_Owed_빚의_벽.md",
+      "words": 7674,
+      "sha256": "635d35a62849b8d1e3ac9b90b000024929ca80b2e9aa25c288773f220a5a7432"
+    },
+    {
+      "designation": "C-IVω-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md",
+      "words": 7820,
+      "sha256": "6acb7ec5ff6ff5841bdd1babd9f2bae1446b0b2459a3757e572856fb11584498"
+    },
+    {
+      "designation": "C-IIβ-565",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-565_Broken_Well_부서진_우물.md",
+      "words": 7933,
+      "sha256": "8440b3414abfa47307ef7edcc8603cc1308a32cd07589e9b0112c4a4cb40c65c"
+    },
+    {
+      "designation": "N-IIIγ-585",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md",
+      "words": 7949,
+      "sha256": "1f3f98ed001a8b05a8f128a1ffda8a5ab371c032e94778a3452e5940a77e5704"
+    },
+    {
+      "designation": "C-IIβ-330",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md",
+      "words": 8207,
+      "sha256": "0c925d6151acfe094cebb96b1f023a9f7d176260d52100fb70a43b37e5518eb9"
+    },
+    {
+      "designation": "O-IIIδ-011",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md",
+      "words": 6452,
+      "sha256": "38c1dda18e455d0b214125257511a562c447cd820a366bbf5678111d81705644"
+    },
+    {
+      "designation": "O-IIγ-007",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIγ-007_Brume_안개.md",
+      "words": 8060,
+      "sha256": "a4128ee3f7b86a4e9c640dec1c24ef39e2f114b9f46370ba1230b2e93cfcf211"
+    },
+    {
+      "designation": "N-IIβ-270",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-270_Neglect_Learned_to_Listen_녹슨_속삭임.md",
+      "words": 8138,
+      "sha256": "41c30c33eca5889cffe86942dcf3f5d47bc3160aa28667ee67befe054ba0c0ac"
+    },
+    {
+      "designation": "O-IVδ-895",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-895_Survivors'_Breath_떠도는_한숨.md",
+      "words": 9696,
+      "sha256": "8f4d9d75bf196a4a7e25f0bdaa0a9b437eff0dc7f858c9bb8f5bb79120647d06"
+    },
+    {
+      "designation": "N-IVβ-019",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md",
+      "words": 9755,
+      "sha256": "d02acd59e222bc3266fd7f13e2c4fa9d62936abb7ac339fd8aed6330aee80ad1"
+    },
+    {
+      "designation": "O-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-909_Heirloom_스며든_메아리.md",
+      "words": 7467,
+      "sha256": "105df6915d01bff6f3475b1c517138e12f5da0f877161e4e259997d5f1a1377b"
+    },
+    {
+      "designation": "C-IIIγ-558",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md",
+      "words": 7490,
+      "sha256": "c448210ca6b1af4b9d95017e4826474b951bb204ed52091761cd1d4ad70798f8"
+    },
+    {
+      "designation": "O-IVδ-190",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-190_Ember_Phoenix_불사조.md",
+      "words": 8006,
+      "sha256": "f05b0d5ed04d8683d48c3fd3ce78348e1f5ecf56d43c8f77361338b9f93b9788"
+    },
+    {
+      "designation": "C-IIIγ-081",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md",
+      "words": 8073,
+      "sha256": "d21193102d2da74be1d613510156b8c19c1e347100fca9fc50b366cdf468bec6"
+    },
+    {
+      "designation": "C-IVβ-041",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md",
+      "words": 8325,
+      "sha256": "e9903877b997746daa68e91ab4da1838147ef6bddf6dbea1ef304d7048dffc30"
+    },
+    {
+      "designation": "C-IVδ-251",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md",
+      "words": 6760,
+      "sha256": "c837fb3da330361121ab0fd9697017dbaac7b545f64d5f497d430d91ef9dbfb4"
+    },
+    {
+      "designation": "C-Vδ-949",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-949_Stormscale_Sovereign.md",
+      "words": 7177,
+      "sha256": "17fdbab32c0bbed4dbb5852a341acaf3891c0ab5274995a27dcc4e58cb9f2af0"
+    },
+    {
+      "designation": "C-IVδ-976",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-976_Willing_Chains_스며든_사슬.md",
+      "words": 7664,
+      "sha256": "2c1820f98a2ca3a1cb92efc4772d25f29a05dfee66d5963e7c054e0f17f787e8"
+    },
+    {
+      "designation": "N-IIβ-689",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md",
+      "words": 7851,
+      "sha256": "04fa94c62ae38044876c7019a8bd29a967a3091b15c66b9449f2bc61d0ddcacb"
+    },
+    {
+      "designation": "N-IIIγ-308",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md",
+      "words": 8427,
+      "sha256": "575eb3e3141fa97bfb269523502f14befe55dd6c49369851e1776bbd7159caf1"
+    },
+    {
+      "designation": "O-Iα-189",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-189_Ephemera_번져가는_잔해.md",
+      "words": 6946,
+      "sha256": "92fdf1709e55446a1b015b3525892286706fc4177f2b36d3e1a812fbc05747ee"
+    },
+    {
+      "designation": "N-IIβ-801",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울.md",
+      "words": 7017,
+      "sha256": "1208bc5671cdd63331cbfb850439d27ff95b5039b18a753e39bd50fb0abb55e5"
+    },
+    {
+      "designation": "O-IIIγ-617",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-617_Exiles'_Wall_솟구친_벽.md",
+      "words": 7030,
+      "sha256": "e95988c5076095f453816c57264c8f88ff61e87f9b9f24665d57506dc4450ed0"
+    },
+    {
+      "designation": "O-IIIγ-476",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-476_Sehnsucht_가라앉은_눈물.md",
+      "words": 8218,
+      "sha256": "8e3d27d540c2c6b5412ba754ae9773302fa93bf6b8e9341f4eb0e39ad417d771"
+    },
+    {
+      "designation": "N-IVδ-821",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-821_Pent_사라진_한숨.md",
+      "words": 8584,
+      "sha256": "b3b2094fbd1afeb7edf07a8e898df32131bf2d94e0399185377b05d52186a772"
+    },
+    {
+      "designation": "O-Iα-709",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-709_Forgotten_Tear_잊혀진_눈물.md",
+      "words": 7049,
+      "sha256": "a29e674d00077ba286fb6438c07587d06b01aef8c2a820e8607278f98891c000"
+    },
+    {
+      "designation": "C-IIIγ-061",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-061_The_Debtor_빚진_자.md",
+      "words": 7547,
+      "sha256": "b28a2f22f26f10ff3058ba7d7d7c616af12c7c17cc93fd9211d33a589fce9cad"
+    },
+    {
+      "designation": "C-IIIβ-015",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md",
+      "words": 7782,
+      "sha256": "9b923cbad0e75ab52cd57ff55bba804f6738208e7596972db04686977202345b"
+    },
+    {
+      "designation": "C-IIIγ-063",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-063_The_Rejector_거부하는_자.md",
+      "words": 8115,
+      "sha256": "d306488f6f645e5ca9ff4d9693444e8a9a51b64a599bb207e6b4dadbe50829b9"
+    },
+    {
+      "designation": "C-IIIβ-014",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md",
+      "words": 8243,
+      "sha256": "bed8b8a3008d496adb69d7d917e161be40a92d22393c8995813a6b4e6a0ccbba"
+    },
+    {
+      "designation": "C-IIβ-210",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-210_Laughing_Mask_웃는_가면.md",
+      "words": 6288,
+      "sha256": "0aa5424a0c522900db960535c82bb007f8eb66fc40bf99e69776f55979b3a944"
+    },
+    {
+      "designation": "C-IIβ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-290_Broken_Compass_부서진_나침반.md",
+      "words": 7668,
+      "sha256": "6b89745a045aba4bfae9edf6ac5bc1838c62ca7f46cefe73123a0934248c587d"
+    },
+    {
+      "designation": "C-IIIγ-373",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-373_Spreading_Well_스며든_우물.md",
+      "words": 8240,
+      "sha256": "087976e814107e7d0c74e921d04ba3f1d07d72b77e5b143f08c837f5e634a7e0"
+    },
+    {
+      "designation": "C-IIIγ-195",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md",
+      "words": 8351,
+      "sha256": "ae6c4afd973950e8d730167d36f4887713b0876f7332ba6aeb5451b8faaea43e"
+    },
+    {
+      "designation": "C-IIβ-101",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-101_Emberling_embers_의_아이.md",
+      "words": 8558,
+      "sha256": "d2c55bdcffa6f7647355412ff9956f878c24ad21418287c3ea217d2557097016"
+    },
+    {
+      "designation": "C-IVγ-180",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로.md",
+      "words": 7576,
+      "sha256": "21d3d3c71f27f4a959097b80e37314a744fefcda8bdd1c191539a4ecacfe2933"
+    },
+    {
+      "designation": "C-IVδ-140",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-140_Gavel_철의_판관.md",
+      "words": 7676,
+      "sha256": "1560436b7ab371d1dd125d8306fafc11d595930919d9cdaed3b82c62935d8a41"
+    },
+    {
+      "designation": "C-IVδ-255",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-255_Rising_Wall_솟아오른_벽.md",
+      "words": 8358,
+      "sha256": "f6ee7e84147760f1652af95fc751ac40e1628f1c9ff7345610fc80499b347add"
+    },
+    {
+      "designation": "C-IVδ-767",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-767_Swallow_번져가는_그림자.md",
+      "words": 8364,
+      "sha256": "da05dd844dcbab4eb617f5c1ead6335538e021a4c9780288af029927c7c34667"
+    },
+    {
+      "designation": "C-IVγ-946",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-946_Blackened_Angel_검어진_천사.md",
+      "words": 9785,
+      "sha256": "33f54b05f5cd1aaf77d31a252eab893d82649543129155eb2276f7812dbd04ef"
+    },
+    {
+      "designation": "C-Iα-247",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-247_Torn_Flower_찢어진_꽃.md",
+      "words": 7139,
+      "sha256": "9c9897fb1f53e6561719f1a3300bfce44e9acc34e078e45b7ed1989b5492d517"
+    },
+    {
+      "designation": "C-Iα-863",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md",
+      "words": 7215,
+      "sha256": "814747ce41fde76046663d6f685a4f29b540fa598784de38e259f5b2fd4648ef"
+    },
+    {
+      "designation": "C-IVδ-869",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-869_Rising_Well_솟아오른_우물.md",
+      "words": 7484,
+      "sha256": "82728f75386656a40d7f1c537b6004d536f29e53572238178a5d913f9b123069"
+    },
+    {
+      "designation": "C-Iα-071",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md",
+      "words": 7721,
+      "sha256": "7aee8d316b5cde48dbbbf52a2dba492d9f954702cae0ce1256f48dfe0a1bd474"
+    },
+    {
+      "designation": "C-Iα-392",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-392_Mirror_of_Rising_솟아오른_거울.md",
+      "words": 8501,
+      "sha256": "0786c05b35b4d071c326243dd0b7332e6f2ae1cf5ea67866973562a28b7b3a33"
+    },
+    {
+      "designation": "N-IIIγ-628",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-628_Flowing_Seed_흐르는_씨앗.md",
+      "words": 7399,
+      "sha256": "362b888b30e66a7eaca2158de3b2edbba58b2fd2e6b17e442b46eb550f8b2474"
+    },
+    {
+      "designation": "N-IIIγ-409",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-409_Floating_Pillar_떠다니는_기둥.md",
+      "words": 7757,
+      "sha256": "15653c8c457093d4604fee5658fbee62387a07251ec58626e1073aba1fe3b00b"
+    },
+    {
+      "designation": "C-Vδ-265",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-265_Forgotten_God_잊혀진_신.md",
+      "words": 8124,
+      "sha256": "66ebf8d0e8f9ab3291fca9aa66bb819138a9e6580f26548e91f83a782e285e5b"
+    },
+    {
+      "designation": "N-IIIγ-407",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md",
+      "words": 8165,
+      "sha256": "d50cd7236a276713af82be752074d2f6bd890a05e92e8644ddc3cd3c3b106313"
+    },
+    {
+      "designation": "N-IIIβ-160",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬.md",
+      "words": 9439,
+      "sha256": "7bae7602485ddc10c0031769aef6429bdaeec4fdf3e18f8e9c3d99e9471b1d13"
+    },
+    {
+      "designation": "N-IVδ-901",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IVδ-901_The_Mewgical_Girl_야옹_마법소녀.md",
+      "words": 6316,
+      "sha256": "17b71cc6c98593a4269a9a424b1120123922051c552c7ed7add9e38f43ef4f55"
+    },
+    {
+      "designation": "N-IIβ-778",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-778_Well_of_Unfinished_Words_솟구친_우물.md",
+      "words": 7136,
+      "sha256": "50ee6c67212b6252eef967e56b85983591e5c3de0cdbde56d28b4534e70c9815"
+    },
+    {
+      "designation": "N-IVδ-489",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md",
+      "words": 8234,
+      "sha256": "c850a57eecb48d911ac826d36424601ee4841a2a9b1bf686f65d64b2f1a01be4"
+    },
+    {
+      "designation": "N-IVδ-005",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md",
+      "words": 8557,
+      "sha256": "07213992978285735a51f1e2602a5ef6eba1d08df1df9e16b1213096fa27eccb"
+    },
+    {
+      "designation": "N-IVδ-517",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-517_Broken_Tear_부서진_눈물.md",
+      "words": 8709,
+      "sha256": "0b1fd59431a7e2f26a7fe6e24f0759e2bebfa54cdbed5cafab4d534d0bcee525"
+    },
+    {
+      "designation": "N-IVδ-902",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IVδ-902_The_Repeated_Survivor_되풀이의_생존자.md",
+      "words": 6069,
+      "sha256": "a67af79aa93b6941b64ed32d9ea32e2a898d8cb484cb619a36f863608555cd7f"
+    },
+    {
+      "designation": "O-IIIγ-559",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-559_Broken_Ruin_부서진_잔해.md",
+      "words": 6850,
+      "sha256": "1f9c955c4c2026b32a535933274eed26cce19dfc8b957bef87b9fa86f46d72e3"
+    },
+    {
+      "designation": "O-IIβ-235",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-235_Myrmidon_찢어진_영혼.md",
+      "words": 7434,
+      "sha256": "abeca78f147feb25cb48d1481ce8cff9560066655f49eca543696f790325c321"
+    },
+    {
+      "designation": "O-IIIβ-944",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIβ-944_Calling_Bloom_부르는_꽃.md",
+      "words": 7485,
+      "sha256": "419d605a7edd68057a1768b5e3056ffc8be4ac33cb6caceb5f6967e17841b337"
+    },
+    {
+      "designation": "O-IIβ-301",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-301_Feu_Follet_녹아내린_불꽃.md",
+      "words": 7852,
+      "sha256": "8706969ba9977162882c07afde8f956acf3c7962079df7f83b4a085f4345f3ba"
+    },
+    {
+      "designation": "O-Iα-631",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-631_Errant_사라진_뿌리.md",
+      "words": 6438,
+      "sha256": "31ba2f7f0bf56293798d8a87ad7a4ae9c1cd4c4115d91448b95b596b2b5b2301"
+    },
+    {
+      "designation": "O-IIβ-467",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-467_Memory_Chain_솟구친_사슬.md",
+      "words": 6761,
+      "sha256": "01e046a8496056295b8dc9b4bf5e251aed0debaf45ec52d01ab93ad42921ec7c"
+    },
+    {
+      "designation": "O-IVδ-762",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-762_Grasp_타오르는_다리.md",
+      "words": 7185,
+      "sha256": "195b997b92ac0843038abd7710dd0c76e4b963f95d1133a5b27e4293f3dc3e00"
+    },
+    {
+      "designation": "C-IIIβ-275",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-275_Crucible_분노의_용광로.md",
+      "words": 8047,
+      "sha256": "2c865a9dbfcd7753974a57784ff37ca7f486c9e81a046be0cc1a32793a942f38"
+    },
+    {
+      "designation": "O-Iα-973",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무.md",
+      "words": 8393,
+      "sha256": "c829733c45dae4493f020551d7ab66d655de89a43bafe3f95c488f3ee3c0438b"
+    },
+    {
+      "designation": "C-IIIγ-033",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md",
+      "words": 7122,
+      "sha256": "f2cba28b260a50a519320cb443d6776bcffeb8998a4a6b1d6cd4532de61db984"
+    },
+    {
+      "designation": "C-IIIγ-032",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-032_Weighting_Bird_재는_새.md",
+      "words": 8080,
+      "sha256": "6ad91e5d5dc7f8cf66b196d7576d17d55e1a620d62ff137495c68e173cda3026"
+    },
+    {
+      "designation": "C-IIIγ-044",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-044_Broken_Clock_부서진_시계.md",
+      "words": 8408,
+      "sha256": "f385a790eedd824e01e3d8e7a518d745d6017d9855d477762e6879be93d14a1b"
+    },
+    {
+      "designation": "C-IIIγ-031",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md",
+      "words": 8781,
+      "sha256": "8e7265b33de6fcc17fbd11e641dbe11c42e4cd447087410d88a31e04a0285d82"
+    },
+    {
+      "designation": "C-IIIγ-120",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-120_Redcage_분노의_감옥.md",
+      "words": 8962,
+      "sha256": "f30a916487d9c77b8abb214739f2be048379e1e27d4e48db7b9235a0dc0c858a"
+    },
+    {
+      "designation": "C-IIIγ-248",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-C-IIIγ-248_The_Unconsoled_위로받지_못한_자.md",
+      "words": 6499,
+      "sha256": "952839f4f5ca091aa82e069e43f70f0358f683a9d5b094b3dbd739606b19b19b"
+    },
+    {
+      "designation": "C-IIIγ-190",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md",
+      "words": 7611,
+      "sha256": "89f142081d1ddc8488ada0dbd43b8f85e719f9224b82e580dbc5171d6353c592"
+    },
+    {
+      "designation": "C-IIIγ-649",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md",
+      "words": 7855,
+      "sha256": "2b7021e380d098bfd51c8a81fa88f86cbbbd6252eff47febf399dd16a4c9cbe8"
+    },
+    {
+      "designation": "C-IIIγ-145",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-145_Briar_가시의_정원.md",
+      "words": 8207,
+      "sha256": "5806368453a7cf3a609eeaadef174e5be9114691ff11a5220669a7e014fa89e5"
+    },
+    {
+      "designation": "C-IIIγ-891",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-891_Screaming_Masonry_스며든_절규.md",
+      "words": 8436,
+      "sha256": "556eb06e20670ef1ab7a15c234279fd288511a9cd35578dcd7105e6d9ad5d726"
+    },
+    {
+      "designation": "C-IIα-081",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIα-081_Broken_Mirror_거울의_조각.md",
+      "words": 7922,
+      "sha256": "cb401d61dfad6896effe5790c1152474dbff1290118832d762d074ef6c92cbfe"
+    },
+    {
+      "designation": "C-IIβ-055",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-055_Weeping_Statue_우는_조상.md",
+      "words": 8222,
+      "sha256": "c852fa53e3b6bae628764414834389b0a6266e7320e586f2a8ed12b220d4b2b0"
+    },
+    {
+      "designation": "C-IIIγ-916",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md",
+      "words": 8282,
+      "sha256": "4000193eb0342ce430c3e8f2b8ad60ed81dc59f3d7b6bb932c5338fe6a26f341"
+    },
+    {
+      "designation": "C-IIIγ-948",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-948_Foam_Flood.md",
+      "words": 9337,
+      "sha256": "5069c89de8e5200afd427163b9ebe3701113b62b412faa9eb5ebdc565a4ccdeb"
+    },
+    {
+      "designation": "O-IIIγ-1052",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md",
+      "words": 2732,
+      "sha256": "8607750a2835db62a6f034a708045dc371f21cc890501f3937341702aacbe95d"
+    },
+    {
+      "designation": "C-IIγ-071c",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md",
+      "words": 4288,
+      "sha256": "25d42f208f1702d74600036d2cad97b2964a5c6bebbe96d112ac712281b4c2a4"
+    },
+    {
+      "designation": "C-Iα-114",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md",
+      "words": 4725,
+      "sha256": "51eac02db5a0ade833cd2d5aaec204c0ce2a8b9e6c4f74dee0c201582ae17dc2"
+    },
+    {
+      "designation": "O-IIIγ-412",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md",
+      "words": 4757,
+      "sha256": "62ef61e34389878e6b7a64e77d36a12941612d17398e54228993a3235d973de6"
+    },
+    {
+      "designation": "N-IIβ-319",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md",
+      "words": 4832,
+      "sha256": "d4daeb8dc1db312ced9b7937a807dcb57d68564c1698b660d4fb79af3f37d505"
+    },
+    {
+      "designation": "C-Iα-900",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md",
+      "words": 4953,
+      "sha256": "248c9f8eab917a00022d2b539fe9328b048d38f5e2c9be11d5fc9509229d4c66"
+    },
+    {
+      "designation": "N-IIβ-919",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-919_Passing_Bell_조상의_시간.md",
+      "words": 5010,
+      "sha256": "289389c1a6f6795d81be88490215c45921ac26f550c12c07406004d5235d6753"
+    },
+    {
+      "designation": "N-IIIγ-929",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-929_Dead_Air_유령의_압력.md",
+      "words": 4973,
+      "sha256": "886ed0675fd9cc3344ff179aafeb5555ef289521da508359f799de866aa66201"
+    },
+    {
+      "designation": "N-IIIγ-908",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md",
+      "words": 5036,
+      "sha256": "8354c256ae85f3d8474408be99971130fa2bcd4e192bd2728e96edf80cafb574"
+    },
+    {
+      "designation": "O-IIIγ-920",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-920_Once_Upon_이야기의_시간.md",
+      "words": 5079,
+      "sha256": "975ab65610440c84bf1a6e465d6479854cdb5ef92d2bdd75949170f652f1979d"
+    },
+    {
+      "designation": "O-IIIγ-924",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md",
+      "words": 5097,
+      "sha256": "19fdd4f0ceb864871c7deef1f8d5044d928b400f2ee40f15dd88a2c825f61743"
+    },
+    {
+      "designation": "O-IIβ-911",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-911_Never_Discharged_영원한_환자.md",
+      "words": 5149,
+      "sha256": "034fe3c5e4dd9cc9f68cb6d80d89fd8fa451c888f527dbc77a650c50ce1d4892"
+    },
+    {
+      "designation": "N-IIIγ-917",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md",
+      "words": 5176,
+      "sha256": "cb812ba2f94a3124d92b1556966465861490963b807dc8506663b804c59ff6cc"
+    },
+    {
+      "designation": "O-IIIγ-916",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-916_Allhallow_유령의_시간.md",
+      "words": 5302,
+      "sha256": "60e3f988c45ae3cf915e0512db58835befa9664c7301b6e3aec702738d913a4b"
+    },
+    {
+      "designation": "C-IIIβ-072",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md",
+      "words": 5313,
+      "sha256": "f6cc7064f43b5f2ef89d99cf987b9f03f0ede38dbd72829a4cb385363f25775d"
+    },
+    {
+      "designation": "O-IIβ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-914_Amnesia_잊혀진_일분.md",
+      "words": 5469,
+      "sha256": "b1b6ab2eb47cbc18f38417b8b09864595b66d3b7f9989d14cfc67f5e478d40b8"
+    },
+    {
+      "designation": "O-IVδ-515",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md",
+      "words": 5519,
+      "sha256": "71cc582217a285637227bf4b1f94eda054783a525edd86943087bd0e6eb218c5"
+    },
+    {
+      "designation": "N-IIβ-910",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-910_Moktak_조상의_전당.md",
+      "words": 5521,
+      "sha256": "44d844652492e78af70908d0a3923f6fbf3321645af22eef0c2b46252d952073"
+    },
+    {
+      "designation": "O-IVδ-930",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-930_Once_Told_살아_있는_서사.md",
+      "words": 5544,
+      "sha256": "240e568c6284db3186c9188d2ee6c05b79b61ce551411bc2ce2a7c2739c43a4e"
+    },
+    {
+      "designation": "N-IIγ-903",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골.md",
+      "words": 5589,
+      "sha256": "79dbf2ba05e60db3ed5bbfb7c0942083e28c54ff0e1a67534611127d0bfa0a60"
+    },
+    {
+      "designation": "C-IVδ-923",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-923_Hatred_Above_분노의_폭풍.md",
+      "words": 5769,
+      "sha256": "1d7e4d3434f0ba5f9cb25b0e3ed43f66e5c5baa35a24c6975f5590139d0a598d"
+    },
+    {
+      "designation": "C-Iα-000",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-000_Kind_Echo_친절한_메아리.md",
+      "words": 5834,
+      "sha256": "c20db28ad6d643725a0e39eb70f01a7a6639454f8bd2bbe512ff485e63fd32f1"
+    },
+    {
+      "designation": "N-IVδ-927",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md",
+      "words": 5863,
+      "sha256": "f74ef0befa37936e23b8367607fe5d890f02d7d78aa11cbc3b3eb9e10b358361"
+    },
+    {
+      "designation": "C-IVδ-922",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-922_Miasma_우는_안개.md",
+      "words": 6007,
+      "sha256": "03809685cc665e31c8fa799b478f0af1a0dd38c302607e966d7fdcef4499c2d6"
+    },
+    {
+      "designation": "N-IIβ-993",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-993_Survivors_Span_무너진_다리.md",
+      "words": 6319,
+      "sha256": "adaca26db15aaeeb698fb91b028602028fd7d3f6377c4e12ba36e592706c140e"
+    },
+    {
+      "designation": "O-IIβ-378",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-378_Drowned_Echo_침몰한_메아리.md",
+      "words": 6482,
+      "sha256": "4e4eeeb3f06565928f10b197fcedf84b656e5ce5a43b6a1f37f66522f2c46c06"
+    },
+    {
+      "designation": "C-IIIγ-913",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md",
+      "words": 6514,
+      "sha256": "54c2bda809e9122bdac8d7ac81a19b309bc24f017fe23e983bb776ec7aff26ce"
+    },
+    {
+      "designation": "C-IIIγ-912",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md",
+      "words": 6491,
+      "sha256": "03b6757d410c64dcb6fd1a5a4ac62088ad6d499780a7c03100d25b78e41f83eb"
+    },
+    {
+      "designation": "C-Iβ-071b",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md",
+      "words": 6611,
+      "sha256": "dfa3ae9a2cf2c08cc3bac13f6c61c869238829955d0742e97aa2976f9bc84cfa"
+    },
+    {
+      "designation": "N-IIIβ-247",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md",
+      "words": 6638,
+      "sha256": "cc2a01805e91e28ed8a311de58b0aa3fd32aecafdc819a959aece8823c3b7fb8"
+    },
+    {
+      "designation": "O-Iα-453",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md",
+      "words": 6655,
+      "sha256": "3400eca023d2e8c936ea621b16aad9b2b1c79bb5b6f0dc7516d55d92117a6fe8"
+    },
+    {
+      "designation": "C-IIIγ-928",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-928_Lethe_혼란의_독기.md",
+      "words": 6690,
+      "sha256": "a4df341d2e742d08c5b9ee09362e7c478224f9885b31335652f54d67e110c363"
+    },
+    {
+      "designation": "C-IIIγ-921",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md",
+      "words": 6576,
+      "sha256": "e9791d3711aa0147e07c5e465c4f2377936683153e402b7ca4187fb2beef9003"
+    },
+    {
+      "designation": "C-IIβ-777",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-777_Last_Fruit_타오르는_열매.md",
+      "words": 6595,
+      "sha256": "3d61687b151eca1c28164a13955384c5dd40e42c116fd941facfd54edd3d2cd0"
+    },
+    {
+      "designation": "O-IIIγ-233",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md",
+      "words": 6795,
+      "sha256": "6d3c71b8015349ca65e60432a6655498ba305fe718ed177a8a422df6a7d6ba71"
+    },
+    {
+      "designation": "O-Iα-554",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-554_Fallow_녹슨_씨앗.md",
+      "words": 6853,
+      "sha256": "3e84e304c44db3e3a2c1bba54e121b65ce2742ae971683810c6f4c1304a7c175"
+    },
+    {
+      "designation": "C-Iα-622",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-622_Vanished_Tree_사라진_나무.md",
+      "words": 6948,
+      "sha256": "84710a51ef82eda55acb641354372c2e0ba8f8c1b8ff96c8cb07443207d8b59e"
+    },
+    {
+      "designation": "O-IIβ-922",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문.md",
+      "words": 6804,
+      "sha256": "3d583483ee26a46686e47f3c01a578dd4a01e4161bd99859408b340188b4996f"
+    },
+    {
+      "designation": "C-Iα-683",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md",
+      "words": 6849,
+      "sha256": "1ce412e93b759a96adb9d6edba3365477b9c9cf685fade972e3e8c8042bb2233"
+    },
+    {
+      "designation": "N-IVδ-967",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md",
+      "words": 6880,
+      "sha256": "2c3bab6ee1537962730bbe3f89dc719f93106f44c7b9390c7d43f646050add85"
+    },
+    {
+      "designation": "N-IIα-285",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-285_Weight_of_Silence_침묵의_무게.md",
+      "words": 6885,
+      "sha256": "e0c06d5b5523009b4495d9c6c80ca07998d0a11c3846216eb6863de3021bdf44"
+    },
+    {
+      "designation": "N-IVγ-250",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IVγ-250_The_Extinguished_꺼진_자.md",
+      "words": 6943,
+      "sha256": "1f18def280cf828722c2229c43aaeec7acbec461b9a6a1f5be0e7fbabc343074"
+    },
+    {
+      "designation": "N-IIIγ-127",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md",
+      "words": 6967,
+      "sha256": "71726eaf4ae10d910c7978f66d7d2dc8b2c5c1cb16ba7794976aec599866754a"
+    },
+    {
+      "designation": "C-IVδ-918",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md",
+      "words": 7037,
+      "sha256": "50b207e71fa6db10522ce47ab1cef6945be1d18eba81722c509bd769cb5ff461"
+    },
+    {
+      "designation": "N-IIIβ-200",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md",
+      "words": 7040,
+      "sha256": "b06051f6b51268461d5f093500bbe771e67145332b9b145e35f3b824418a45b5"
+    },
+    {
+      "designation": "O-IIβ-677",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑.md",
+      "words": 7023,
+      "sha256": "b9ffea2d58beba4434581e53e87e41b344fae067b76c9c06aeba97b56089a90d"
+    },
+    {
+      "designation": "N-IIβ-903",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md",
+      "words": 7043,
+      "sha256": "baf7cf764212af33849ad8204a5f0d3ebc34cf50670a490f4d84fd2db8c667f3"
+    },
+    {
+      "designation": "C-IIIγ-902",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md",
+      "words": 7044,
+      "sha256": "66c38ce078ec7f2c6cc682c078a631f5c4bd1101a4b533f61dd9e2af130b5fa5"
+    },
+    {
+      "designation": "C-IIβ-235",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-235_Panopticon_벽_속의_감시자.md",
+      "words": 7045,
+      "sha256": "7e0be43d0832f56f14af8a0c95e46921d55d67e0312f794d445ad348308c863d"
+    },
+    {
+      "designation": "C-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md",
+      "words": 7145,
+      "sha256": "8d8dd046e5dd278b794895f6bf017202efd7c1e909505366b803f7c93b4bc3ad"
+    },
+    {
+      "designation": "C-IIβ-240",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-240_Holdout_사라진_잔해.md",
+      "words": 7108,
+      "sha256": "b5ff9500aeca463a6ff65bda66dd0a93adb18d9016c5c48e142060562c5764ff"
+    },
+    {
+      "designation": "C-IIIγ-904",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md",
+      "words": 7115,
+      "sha256": "d258ec835242600facd1a57dfaf4cdc0e1651351644bdc6587abf6036485f3a2"
+    },
+    {
+      "designation": "N-Iα-686",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-686_Torn_Window_찢어진_창.md",
+      "words": 7177,
+      "sha256": "e6d03ea890899680e1e3e6dcf3b9481627a1918e6494d32ee88a7340ff94a212"
+    },
+    {
+      "designation": "C-IIβ-782",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-782_Flotsam_번져가는_유물.md",
+      "words": 7299,
+      "sha256": "682d2c83f04a092eb9904f86e199133a7d32ef9706024545ad607442da41eb98"
+    },
+    {
+      "designation": "N-Iα-905",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-905_Lacrima_영혼의_그릇.md",
+      "words": 7378,
+      "sha256": "55e7743a67f6a8ea810b4e0cf9027da73d4887efda801d34b2ffbacdf9cd9dff"
+    },
+    {
+      "designation": "N-IVδ-606",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-606_Banyan_가라앉은_나무.md",
+      "words": 7100,
+      "sha256": "09c81383ec389bbaecec8cd4b17ed733bdb1ee3f93f04f98f74c29db116cda20"
+    },
+    {
+      "designation": "O-Iα-643",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-643_Frozen_Mirror_얼어붙은_거울.md",
+      "words": 7137,
+      "sha256": "c69d22336dff5291335da02676d6eaafadf61fa941a6d0d5dcd17dc4868cb836"
+    },
+    {
+      "designation": "C-IIβ-250",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-250_Memory_Rain_기억의_비.md",
+      "words": 7139,
+      "sha256": "1c3ca3da2eff93447fbf53a36785cde584f31e8c4a73bb8a493fcb6f87028ec2"
+    },
+    {
+      "designation": "C-IVδ-915",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-915_Endless_Shift_끝없는_교대.md",
+      "words": 7155,
+      "sha256": "2cd3c7f7d336f4f72dd2d1f9edbd7689c8854d14f82ef7ae288a39ed663065fd"
+    },
+    {
+      "designation": "C-IIIγ-115",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-115_Remembrance_기억의_우물.md",
+      "words": 7252,
+      "sha256": "01f54b089533a84b69d578cc1bbd32278f1a03fa1f06e8826ee5f45871125d2c"
+    },
+    {
+      "designation": "C-Iα-723",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md",
+      "words": 7136,
+      "sha256": "796a52d010f538244386d9aa3847d4dca12272c68ae48d0942e53f7cdd1ea06b"
+    },
+    {
+      "designation": "N-IIIγ-283",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md",
+      "words": 7154,
+      "sha256": "bf8ea3addff3040d96ba7ea733e76cc8aeb90b6b7a12bc4e4923762ed4935c1d"
+    },
+    {
+      "designation": "N-IIIβ-941",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md",
+      "words": 7162,
+      "sha256": "f4c31d30b1f9a12b4f6d703c538583e44bc8366c287c376abc7fc89a54a8a542"
+    },
+    {
+      "designation": "N-IIIγ-589",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-589_Nemo_돌아온_영혼.md",
+      "words": 7249,
+      "sha256": "545c44aef43cedc0fbd50f14eae4be683774ba53b59e7278fc7e8400b47e8a93"
+    },
+    {
+      "designation": "C-IIβ-901",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-901_Duri's_Heart_보존된_심장.md",
+      "words": 7323,
+      "sha256": "aa69f42077883904bc10865680692c5511679de87a184e8ecf0f34c77125446a"
+    },
+    {
+      "designation": "C-IIβ-997",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md",
+      "words": 7338,
+      "sha256": "d04467ebdd25c7ec170bfbab2117332c035d42347ee4b9dc4c1551fb8ff8e231"
+    },
+    {
+      "designation": "N-Iα-519",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md",
+      "words": 7350,
+      "sha256": "b7051e63a758d2f3bcc7b281b4b03adb9890796f3b6beea3320cdeebb6a82663"
+    },
+    {
+      "designation": "O-IIIβ-120",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md",
+      "words": 7414,
+      "sha256": "79f141174bf3dc298ace4f5ba36f7422d4d7c90e8897cfacfc541f86795e4c9c"
+    },
+    {
+      "designation": "O-Vγ-003",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md",
+      "words": 7445,
+      "sha256": "54b5072c1917c77fb50277c7c16eb489314e138de5286dad810d3fa07e115ba8"
+    },
+    {
+      "designation": "C-IVγ-205",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-205_Hollow_Tree_빈_나무.md",
+      "words": 7493,
+      "sha256": "6184134592f384542456461b5283b65578f1964517693e9ec77c2304fb9698b0"
+    },
+    {
+      "designation": "N-Iα-316",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md",
+      "words": 7089,
+      "sha256": "1a4f1b406623de8889943ca916bc765300712baa87a9640fe072fa1e7cd0f7b9"
+    },
+    {
+      "designation": "C-Iα-965",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-965_Unheard_흐르는_침묵.md",
+      "words": 7111,
+      "sha256": "acea152b24cb36a553513e2eb79b0faa388b2ca42bfe2fbbb57d6bdc1ab74e38"
+    },
+    {
+      "designation": "N-IIIγ-954",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md",
+      "words": 7128,
+      "sha256": "8e9ca027a14b8e68150df43657b366100042296ca08c4818b8b1e4973871d443"
+    },
+    {
+      "designation": "O-IVδ-693",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md",
+      "words": 7145,
+      "sha256": "f7e39eaadca4b6352c1fe6ce06125d66263401516062f9da2d09ec2579f1a9e1"
+    },
+    {
+      "designation": "N-IIβ-453",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md",
+      "words": 7216,
+      "sha256": "a2426a251d3e8da286ca193da613bd98f6ebde9e7c22c59d8f474feaa2551523"
+    },
+    {
+      "designation": "C-Iα-869",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md",
+      "words": 7323,
+      "sha256": "a5e3c5b706fd3d9ca7379cc0c9e6b6c08642d79b2ba6a9867f904c00decac28b"
+    },
+    {
+      "designation": "C-IIβ-906",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md",
+      "words": 7351,
+      "sha256": "4c379666fae0c44d7bf354f243d866937551a10d8f3558b37caaad6c8b17a6b7"
+    },
+    {
+      "designation": "O-IIIγ-926",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md",
+      "words": 7363,
+      "sha256": "26ce9c995ecb88a82bde4416fe59a7001d4537fba51ef43ee4e751f016e808ce"
+    },
+    {
+      "designation": "N-IIIβ-155",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-155_Harbinger_추징관의_그림자.md",
+      "words": 7375,
+      "sha256": "cad6c14d652d14d48e95d986f0ac8d497c7a43d1ad05a9f8a27c9e0a756a18f3"
+    },
+    {
+      "designation": "C-IIIβ-016",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md",
+      "words": 7390,
+      "sha256": "686348a9193414dd186e0beb9a02c795eb456a3f7db4e82207408445f38fdb04"
+    },
+    {
+      "designation": "C-IIβ-716",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md",
+      "words": 7363,
+      "sha256": "0097c67186b388543da4f524c2d648cb753dd08e0d281a9273b839c02b2bac83"
+    },
+    {
+      "designation": "C-IIβ-357",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md",
+      "words": 7376,
+      "sha256": "5a5d68990260091c410b20749ffe4cf51c7a5d31e17e5d30e85e4cc706f41f40"
+    },
+    {
+      "designation": "C-Vδ-111",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-111_The_Final_Door_마지막_문.md",
+      "words": 7384,
+      "sha256": "1b2d36ae57b0f05f2e47004b5a2cf1110c6eac635e61a4b6ffc4361ffbfc4caf"
+    },
+    {
+      "designation": "N-IIβ-280",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md",
+      "words": 7427,
+      "sha256": "787ea6efde96862b291b748ca6260a32d06bdad4d556848879abe1f11de8d93f"
+    },
+    {
+      "designation": "N-IVδ-525",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-525_Cenotaph_흐르는_다리.md",
+      "words": 7433,
+      "sha256": "d00a9871b8b9ace0d3ff0251a21417ed53ec622d03bd5069cdc1562f8ebcd542"
+    },
+    {
+      "designation": "C-Iα-240",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-240_Echo_of_Kindness_친절의_메아리.md",
+      "words": 7373,
+      "sha256": "a088d3ab55d333c05f45521e758a2725dda66e7ccb5206cc67aa9421dc71be85"
+    },
+    {
+      "designation": "C-IVδ-823",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md",
+      "words": 7423,
+      "sha256": "219a51dc15199394a16f8f15413e07ff4f737535821a05c18259a71f4f4ac041"
+    },
+    {
+      "designation": "C-IVδ-260",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md",
+      "words": 7427,
+      "sha256": "18b85a489e0e1bea49c4b25ed173c92d6460e5e71a253d0090c95573ea04c29e"
+    },
+    {
+      "designation": "C-IIβ-775",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-775_Cleaved_찢어진_탑.md",
+      "words": 7499,
+      "sha256": "08fe72c328b1a5467858868f7641fe1f1d292f8eff7e08c2da81f9d0bf3ab1ee"
+    },
+    {
+      "designation": "C-IIβ-310",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md",
+      "words": 7524,
+      "sha256": "9bfca4a6decce3cde4e3667a6fdc2af8d7d0ee654bb4640c9a0a1e2a8271cd87"
+    },
+    {
+      "designation": "O-Iα-754",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-754_Thralldom_떠도는_사슬.md",
+      "words": 7516,
+      "sha256": "e9e3eeb85e99d238fdd546ace82a14baefab794b932f47e37e520bd530b184a1"
+    },
+    {
+      "designation": "O-IVδ-851",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-851_Shard_of_a_Broken_Promise_부서진_조각.md",
+      "words": 7522,
+      "sha256": "b39921f2aa0fa24b85fc6c1da44b472daf1e6411df489d72ac8263ca2026a2a2"
+    },
+    {
+      "designation": "N-IIIγ-447",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-447_Melting_Rope_녹아내린_밧줄.md",
+      "words": 7553,
+      "sha256": "6d6bcb36b6d468dfd6e7c8ee7157fccee3e93c3760edfadb00755b5645709d0d"
+    },
+    {
+      "designation": "C-Vδ-010",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md",
+      "words": 7563,
+      "sha256": "2ada4413353e2ae099a454777e3319038e18d8adbdcf0a639a4a5f41e816b186"
+    },
+    {
+      "designation": "C-IIβ-280",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-280_Pall_눈물의_베일.md",
+      "words": 7572,
+      "sha256": "3a8e08f69c328ce0937afb54798398f2b1bd138d406ba4ebc1d37ae965bea707"
+    },
+    {
+      "designation": "C-Iα-011",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md",
+      "words": 7395,
+      "sha256": "5388abde22ae06194f50e5604cfb1a11092afeafc896085f5fa7bf1476261d64"
+    },
+    {
+      "designation": "C-IVδ-165",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-165_Candela_녹아내리는_성자.md",
+      "words": 7609,
+      "sha256": "abeb18789dee0baff625bc42a762d1f10467a05b0806a127fa9abf2953964256"
+    },
+    {
+      "designation": "N-IIα-125",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-125_Hollow_Echo_빈_메아리.md",
+      "words": 7615,
+      "sha256": "c978eaa393efc74dd802fc1cacba863c00b6b6deebe5693eb00eb9da8bffbf5d"
+    },
+    {
+      "designation": "C-Iα-330",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md",
+      "words": 7643,
+      "sha256": "91b9ec1718c01f2bad425bb053eea81a3e1fcc7ec711d5c0cba1e1e27b4747a4"
+    },
+    {
+      "designation": "N-IVδ-339",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-339_Breach_무너진_벽.md",
+      "words": 7643,
+      "sha256": "cd43e448dc0d96529b6e395af04667cd9f0370a8a7593711c2e9e6e73f529e85"
+    },
+    {
+      "designation": "C-IVγ-091",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md",
+      "words": 7639,
+      "sha256": "3ef25b04902c7713540300afe0cdf56c726f09f534f79fe3118f34be8d7508c6"
+    },
+    {
+      "designation": "C-IIIγ-140",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md",
+      "words": 7647,
+      "sha256": "4c30bae004518f0162a9e342195ac358498497ba3ad05e19bc5391d7c096eff2"
+    },
+    {
+      "designation": "N-IIIβ-077",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md",
+      "words": 7647,
+      "sha256": "cb14ee3f1174d8e8ba4ab0c3576d87bab83a1cd804108779c5c52d1d16c3d0e9"
+    },
+    {
+      "designation": "C-Iα-329",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-329_Folly_녹아내린_탑.md",
+      "words": 7684,
+      "sha256": "a4d965adf0d636927ee4323a7796ef83ef953ee93f99a1f053be04db82ad5e0c"
+    },
+    {
+      "designation": "C-IVδ-222",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-222_Patina_녹슨_무게.md",
+      "words": 7747,
+      "sha256": "ce73c532620d6ba7303366cfdb103cf46e332555693fc16664dbd13e13894932"
+    },
+    {
+      "designation": "N-IVδ-157",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-157_Torpor_잠든_한숨.md",
+      "words": 7672,
+      "sha256": "ab9c392ebde1e1b42183b70faecff6e54f703dff5b449af5004499821afe5ad7"
+    },
+    {
+      "designation": "C-IVγ-255",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-255_Hollow_Architect_빈_건축가.md",
+      "words": 7743,
+      "sha256": "d83b90ffd54705ae9a77168e2f4f04a138fc01ff2664fcc4aa59a73b2c76af4c"
+    },
+    {
+      "designation": "C-Iα-779",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-779_Miscast_찢어진_유물.md",
+      "words": 7762,
+      "sha256": "b85d102f9dd99efb68939896eaca82cac852260cd3515a683f65aebfd1348f2a"
+    },
+    {
+      "designation": "C-Vγ-260",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-260_Sorrow_Tide_한의_조수.md",
+      "words": 7778,
+      "sha256": "68a6b9b835549c132f905fd330cc368f1c48309dce6bc653c76b6a113ec80e38"
+    },
+    {
+      "designation": "O-IIβ-757",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-757_Broken_Door_부서진_문.md",
+      "words": 7816,
+      "sha256": "e77cca6834e87f210879cb0878762ba1c757fded7987f1705cead8b826fd6b6d"
+    },
+    {
+      "designation": "N-IIβ-033",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md",
+      "words": 7705,
+      "sha256": "4692bd586c6cb9f829b93f084ef8125531e5ac3c1d6da381585bc30dcef48b30"
+    },
+    {
+      "designation": "O-IIIγ-915",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md",
+      "words": 7724,
+      "sha256": "05584f4883c050c946291b4974f52a4dbc64e9a2705f726f45b6fed263a1af2e"
+    },
+    {
+      "designation": "C-IIIγ-105",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md",
+      "words": 7753,
+      "sha256": "be07d54621486a5855d3fb7edacfdc1beb835407025b88b6c6902e06ce1d9b23"
+    },
+    {
+      "designation": "C-IVγ-130",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-130_Deteriorata_무너지는_성자.md",
+      "words": 7783,
+      "sha256": "eea8572cc0dc6a624d0f6bf7f7ced1ee1a03cd96d3713fcb4df3c8a8335cfac3"
+    },
+    {
+      "designation": "N-IIIγ-505",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md",
+      "words": 7810,
+      "sha256": "429fde792ef39dbb440bc4bfc460a2195ac682254610bb4cb47c884243b23336"
+    },
+    {
+      "designation": "N-IIβ-170",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-170_Aphonia_침묵의_비명.md",
+      "words": 7622,
+      "sha256": "3c49e088d643af01528cf82e0083f6708cf912fb577eb151a2658102df4ebb6c"
+    },
+    {
+      "designation": "C-IVδ-357",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md",
+      "words": 7624,
+      "sha256": "ec6cde3697b938b585a06b0d3dcc13c1c28ed03d85d92da569d8b2f4859cf7ba"
+    },
+    {
+      "designation": "N-IIIγ-184",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-184_Redacted_잊혀진_나무.md",
+      "words": 7745,
+      "sha256": "47501798e5e79b9aef3ff9a98a0ec7a0f92b39cf732335efc1b70c3d2c7e78b7"
+    },
+    {
+      "designation": "C-IIβ-135",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-135_Rem_꿈의_조각.md",
+      "words": 7763,
+      "sha256": "d149587a5c23480e97d033db98045ba63af900ac75f5ddc4f0d8a4db332523a7"
+    },
+    {
+      "designation": "N-IIβ-627",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md",
+      "words": 7789,
+      "sha256": "b456bbffd720e9d9fed504a23cadec5c23b35c9f97dc0d94c2270b358a1e09d5"
+    },
+    {
+      "designation": "C-IVδ-193",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-193_Rift_사라진_벽.md",
+      "words": 7786,
+      "sha256": "2c9be35ac8a950e9d580ac239fa6729ed88d237cb3caa4d51bd819f62ed8d1d1"
+    },
+    {
+      "designation": "C-IVδ-763",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md",
+      "words": 7839,
+      "sha256": "544d631b379511b491e69c828410fca65016affbdcceef55ed00340102e0cc49"
+    },
+    {
+      "designation": "N-IIIγ-160",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md",
+      "words": 7851,
+      "sha256": "3db4abc7398c143f59e8ee5e72a1ec9081fb8d56cd114cfdebea3751529a1d8e"
+    },
+    {
+      "designation": "C-IVδ-249",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md",
+      "words": 7932,
+      "sha256": "1cc737234e840529b2e3b401066675fbfd4186e8048bb9f7afc7078c15c5f000"
+    },
+    {
+      "designation": "C-IIβ-054",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md",
+      "words": 7972,
+      "sha256": "8ba75055b871a46d422c283e447211a908c9bfed0ab7b8e1e003222d98d711f0"
+    },
+    {
+      "designation": "C-IVγ-175",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-175_Somnium_꿈의_직공.md",
+      "words": 7874,
+      "sha256": "071d4fa1b49b65f1af2c922292a23964f1eed93d698fc4da07425b6bea3c8057"
+    },
+    {
+      "designation": "N-Iα-459",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-459_Bulwark_잠든_벽.md",
+      "words": 7911,
+      "sha256": "0cbc1df6456dfe369cf1abf660fcc622c6c23d52037911469e17d4e25538a9a1"
+    },
+    {
+      "designation": "N-IIβ-250",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불.md",
+      "words": 7959,
+      "sha256": "6453dba2525ade100e4115e071e69687cd772106fe7763d387a27df7b8baca46"
+    },
+    {
+      "designation": "C-IVδ-106",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md",
+      "words": 7998,
+      "sha256": "f47807d215190273b76325024992c64b36f910f866e7264c5de7b27fa73b04cb"
+    },
+    {
+      "designation": "C-IVδ-200",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-200_Aegis_문의_수호자.md",
+      "words": 8293,
+      "sha256": "00a8edd02689c06f5eeaea18318f555c83c460cee21f1e82f1b67fc41eb0bc65"
+    },
+    {
+      "designation": "C-Iα-175",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md",
+      "words": 8019,
+      "sha256": "b0d869817d22ee4a65f393a97e4b13817b22335cdf627208d249a47737dc0dc0"
+    },
+    {
+      "designation": "C-IIβ-100",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤.md",
+      "words": 8052,
+      "sha256": "d8140f2388790f472a970993e82b37f1f35b2ee98fcab450869c807694233c49"
+    },
+    {
+      "designation": "C-IIIγ-021",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md",
+      "words": 8087,
+      "sha256": "10f963e931a9481c04065bc0ad80d2fb7f65d4362949406ebea85b577bbc2043"
+    },
+    {
+      "designation": "O-IIβ-796",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md",
+      "words": 8087,
+      "sha256": "18825e37609bec93cbc0b2010887ac8fa5aad5f02ab52ceb2a12057b4b06c3b7"
+    },
+    {
+      "designation": "C-IIIβ-036",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md",
+      "words": 8091,
+      "sha256": "96ea53e8df458677a60a4248f174cb02631f621012e28a2a361010b6192bd214"
+    },
+    {
+      "designation": "C-IVδ-252",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-252_Sorrow_Gate_슬픔의_문.md",
+      "words": 8134,
+      "sha256": "b2cb470617802f8adce6f0a568b45bece67bcd08ce6a3720098e89160b830b52"
+    },
+    {
+      "designation": "O-Iα-794",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-794_Portcullis_무너진_문.md",
+      "words": 8187,
+      "sha256": "995425f8f2c985dbe56ab46a2e396ed33023dffe2a4dae3755c9b8b76138aab0"
+    },
+    {
+      "designation": "C-IVδ-505",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md",
+      "words": 8196,
+      "sha256": "bb12c12d2697027982fbb8010cd89891992a879db8018a0ade30c4e249a1d3ca"
+    },
+    {
+      "designation": "C-IVγ-073",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md",
+      "words": 8212,
+      "sha256": "735908073a5d75dfdadcd2e3de9a6129997b3d933d5aef4bdc7029e8e546f3d8"
+    },
+    {
+      "designation": "C-IIα-062",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIα-062_Forgotten_Market_Stall_잊혀진_가게.md",
+      "words": 8387,
+      "sha256": "b1dac46c643a8d6aa1f892d24d664c94a32cf6512e322d429b7c2889b69f907c"
+    },
+    {
+      "designation": "C-IIβ-947",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-947_Soot_Fry.md",
+      "words": 8185,
+      "sha256": "cab7d3a91a5b2af531e983dacb2758f6bbc59b7adb76ae5bfbacc24a9beff2cf"
+    },
+    {
+      "designation": "C-IIIγ-300",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md",
+      "words": 8262,
+      "sha256": "7ccb62464f7c9b82982941e7dfe2b6d5b39f02a53bff587730623fddf68e108b"
+    },
+    {
+      "designation": "C-IIIγ-609",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md",
+      "words": 8265,
+      "sha256": "3d0c813f21f7f27e835c857d93015c06a0ee4eb346f569755e002c7eddaef73a"
+    },
+    {
+      "designation": "O-IIIγ-374",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md",
+      "words": 8298,
+      "sha256": "782b951bf5a375ee651c5bf3e86733db01b0f5a47b5b2100ebb5c163e500d104"
+    },
+    {
+      "designation": "O-IIβ-833",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-833_Neverlast_녹슨_영혼.md",
+      "words": 8349,
+      "sha256": "b2df9315e3f2f7a2e92292faa96ca70e8f667114726cfbb6656abda53e93f71b"
+    },
+    {
+      "designation": "C-IVδ-220",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-220_Walking_Calendar_세월의_무게.md",
+      "words": 8358,
+      "sha256": "55f0dec47aaf7b404c5f11a9388ca86cacf054afd6531d5f27696d8a57eea1c7"
+    },
+    {
+      "designation": "O-Iα-340",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-340_Apocrypha_얼어붙은_유물.md",
+      "words": 8411,
+      "sha256": "58c6fabba6d81944f1d7e764b3af2eb2da61a98f4ba9f430d63dff1da38b83ed"
+    },
+    {
+      "designation": "C-IIIγ-102",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬.md",
+      "words": 8420,
+      "sha256": "ab36e2502492f46da9451cf40707fc32b3d95be075868c9149223991764b6cde"
+    },
+    {
+      "designation": "C-IIIγ-448",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md",
+      "words": 8428,
+      "sha256": "363b2016014d63554b9f1c410cfac3b55eaffe2b39fab4c32329cf555a71bc5c"
+    },
+    {
+      "designation": "N-Iα-785",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-785_Tear_Too_Small_to_Honor_무너진_눈물.md",
+      "words": 8482,
+      "sha256": "a42d2ce264dfb7c3d461b1c2ab141a3816b3ce00adee9b89df4359c10f0744a6"
+    },
+    {
+      "designation": "C-IIβ-245",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md",
+      "words": 8316,
+      "sha256": "c06103037f17920f2ccd1f38d2c06d635e0f037a2be9d40c2b9fa0b086b61e85"
+    },
+    {
+      "designation": "O-Iα-126",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-126_Anonym_녹아내린_조각.md",
+      "words": 8411,
+      "sha256": "2be9d8f151415837f920ef296e793a7c364c5266c9211f1bc4662dfc0042035b"
+    },
+    {
+      "designation": "O-IIIγ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-914_Driftglass_떠도는_영혼.md",
+      "words": 8434,
+      "sha256": "d941107019bf3ed5bd737f98b6268de852f5ea29cc18ab8504370ededed1bc5e"
+    },
+    {
+      "designation": "C-IVδ-250",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md",
+      "words": 8477,
+      "sha256": "d4d0b865f06071238c112934e73d0b17fe08a54025253b4af58f71bb76791fa5"
+    },
+    {
+      "designation": "C-IIIγ-088",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md",
+      "words": 8592,
+      "sha256": "d47509636793296218d82ccb6dfa254a03d042f393a7bff8a2e78e81a4a0b8af"
+    },
+    {
+      "designation": "C-IIβ-340",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-340_Clapperless_빈_종.md",
+      "words": 8526,
+      "sha256": "386d6f9285b1314c5c4682f9e79f1d20488b2b101a145b57f54fb33e1c66ff8a"
+    },
+    {
+      "designation": "C-IIβ-102",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md",
+      "words": 8594,
+      "sha256": "89d7c5f8536bf6d94f4d2d16dc59fd4ee0a017010c3397f189a92b6b71d2e615"
+    },
+    {
+      "designation": "C-IVδ-668",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md",
+      "words": 8618,
+      "sha256": "68068e887fbd089613e27df3ff72afa49bf674f883ed47d63915f7101726c8ed"
+    },
+    {
+      "designation": "N-IIβ-488",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md",
+      "words": 8803,
+      "sha256": "cb85e48350b4b7e8dff19caca921812b162059cedf7edefd0e64353071a4910f"
+    },
+    {
+      "designation": "C-Vω-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md",
+      "words": 9267,
+      "sha256": "b135dd618293a48708582b404cfbad3d325e4d66a0270dc29c0d331e9125a715"
+    }
+  ]
+}

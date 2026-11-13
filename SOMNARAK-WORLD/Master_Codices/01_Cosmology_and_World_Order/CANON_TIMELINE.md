@@ -110,9 +110,9 @@ The chronological architecture of the Reverie Directorate operates on two distin
 
 ---
 
-## 4. MATHEMATICAL VERIFICATION RULES FOR AUTOMATED LINTING
+## 4. ARITHMETIC VERIFICATION RULES
 
-All automated scripts (e.g., `tools/timeline_lint.py`) must enforce the following validation constraints:
+Every dated account must satisfy the following constraints:
 - `Current_Year == 4238`
 - `Current_Cycle == 1778` (Valid ONLY inside R.D. / Absolvohan facility context)
 - `Cycle_Delta == Current_Cycle - Historical_Cycle` (Internal R.D. records only)

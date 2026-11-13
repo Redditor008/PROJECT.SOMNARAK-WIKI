@@ -22,7 +22,7 @@ Beyond the Exile’s Gate, dark fruit ripens in heavy clusters and melts into cr
 | Coherence / Potency | II / β |
 | Element | Grudge |
 | Location | Zone E, Exile’s Gate vicinity |
-| Gauge / Pressure | 415/415; starts 35–50% / 10–23 Grudge |
+| Gauge / Pressure | 000/880; starts 000% / Grudge — no attack pattern; the frontage paced from the gate is the reading |
 | Movement / Resistance | Fixed spreading place / 25% Grudge, 15% other |
 | Activation threshold | Gauge ≥60%; expansion follows new exile longing |
 | Observation | 2 — Basic |
@@ -30,7 +30,7 @@ Beyond the Exile’s Gate, dark fruit ripens in heavy clusters and melts into cr
 
 **First marker:** char and overripe sugar fill the air while fruit liquefies without thermal heat and reforms on the same dead branch.  
 **Core wound:** exiles kept planting for a home and future that displacement had made impossible, until longing became anger at the refusing ground.  
-**Resolution:** let the fruit decay naturally; do not promise return.
+**Resolution:** Let the fruit decay naturally; do not promise return. A cycle that ends with a fruit touched is filed as a feeding, whatever the worker intended.
 
 ## WORK & EXPANSION READOUT
 
@@ -38,8 +38,8 @@ The place accepts only Viderehan and Ferrehan.
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid under Object/Place protocol. | N/A |
-| Pugnahan | Invalid; confrontation crushes the fruit into rage. | N/A |
+| Flerehan | Invalid under Object/Place protocol. | Net-Neutral |
+| Pugnahan | Invalid; confrontation crushes the fruit into rage. | Net-Neutral |
 | Viderehan | Reveals the rejected desire inside each fruit. | Stable |
 | Ferrehan | The worker remains beside an impossible return. | Decrease |
 
@@ -67,13 +67,3 @@ The Grade β set formed after Xyan asked an exile what the orchard represented, 
 At Orchard Lane Three, a Gate medic told an exile that one intact fruit could be replanted inside the city. Melting Plate sealed around the medic’s chest as hope turned to pressure, and Fang cut the outward lane instead of the branch. Xyan revoked the promise, asked the exile to name the desire, and let the fruit run through their hands without tasting. The lane reopened when no one called the loss temporary.
 
 > *“Hope is not care when it requires the displaced to believe we can return what we expelled.”* — Gate Watch Commander Xyan
-
----
-
-**Document ID:** `SE-627-A`  
-**Linked Entity:** `SE-627`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

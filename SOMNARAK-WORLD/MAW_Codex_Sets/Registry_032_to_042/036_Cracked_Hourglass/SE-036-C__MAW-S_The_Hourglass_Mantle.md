@@ -28,7 +28,7 @@
 
 ### Appearance
 
-Appearance : A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
+A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
 
 Fine golden sand continuously trickles from hidden shoulder reservoirs down the pleated cloak hem without depleting, forming a protective particulate curtain. The drifting sand grains deflect glancing kinetic blows and disperse localized temporal shockwaves.
 
@@ -43,12 +43,3 @@ Once per encounter, the Mantle slows the wearer’s perceived local time for up 
 ### History Record
 
 A Mantle bearer used Slow Interval to carry a wounded agent across a collapsing corridor. The bearer completed the route in apparent seconds and later aged visibly over the following week. Medical review found no measurable biological explanation.
-
-**Document ID:** `SE-036-C`  
-**Linked Entity:** `SE-036`  
-**Item Registry Code:** `MAW-S-036-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

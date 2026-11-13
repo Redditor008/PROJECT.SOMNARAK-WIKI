@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Resting Breath
 
-> *“The Resting Breath remembers Survivors' Breath; the bearer must not mistake memory for permission.”*
+> *"A calm moment, borrowed from the bearer's next hour. Spend enough and there is no hour left to rest in."*
 
 ---
 
@@ -17,27 +17,28 @@
 
 **Grade / Element:** δ / Void  
 **Canonical ability:** Calms panic and grants one moment of emotional rest.  
-**Binding rule:** the bearer names Survivors' Breath's event—Citizens sighed after repeated crises until the collective breath became a wandering presence.—and accepts this limit: Permit rest; do not force personnel to continue working through it
+**Binding rule:** the bearer names Survivors' Breath's event — “Citizens sighed after repeated crises until the collective breath became a wandering presence.” — and accepts this limit: Permit rest; do not force personnel to continue working through it
 
 ## Appearance
 
-The Resting Breath is the stigma record of Survivors’ Breath’s set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability administers what the source is made of lacking: it calms panic and grants one moment of emotional rest, one sanctioned pause in a city that sighed instead of stopping. Binding names the source event — citizens sighed after repeated crises until the collective breath became a wandering presence — and accepts the set’s limit: permit rest; do not force personnel to continue working through it. The cost arrives after the calm: the wearer feels the exhaustion of everyone nearby afterward, granted rest repaid in ambient fatigue, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the crises that produced each breath — the sighs traced back to their emergencies — and it severed the immediate hazard only after attribution to Survivors’ Breath. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Resting Breath is the stigma record of Survivors’ Breath’s set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability administers what the source is made of lacking: it calms panic and grants one moment of emotional rest, one sanctioned pause in a city that sighed instead of stopping. Binding names the source event — citizens sighed after repeated crises until the collective breath became a wandering presence — and accepts the set’s limit: permit rest; do not force personnel to continue working through it. The cost is the borrowing: every calm moment comes out of the bearer's next hour, until they are calm and have not slept. The source-trace fixed doctrine: the stigma reveals the crises that produced each breath — the sighs traced back to their emergencies — and it severed the immediate hazard only after attribution to Survivors’ Breath. A reserve is what a calm moment looks like from outside: the Breath drafted each pause against the bearer's next hour, and the hours ran out while the pauses kept arriving. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels the exhaustion of everyone nearby afterward. Continued use makes Survivors' Breath's source sorrow feel autobiographical.
+**Operational / binding cost:** The Breath grants a moment of rest and takes it from the bearer's own: each calm borrowed from the next hour. Used long, the bearer is calm and has not slept.
 
-## ITEM-SPECIFIC HISTORY — *The Survivors Breath Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Survivors' Breath Source-Trace: Stigma Record*
 
-The first The Resting Breath field bearer encountered this source response: Reveals the crises that produced each breath. The stigma severs the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Breath encountered this source response: Reveals the crises that produced each breath. The stigma severs the immediate hazard only after the team attributed it to Survivors' Breath. A bearer borrowed three hours of calm in a shift and had not slept by the end of it, and the Breath’s binding is the sleep log for that week.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Survivors' Breath's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the calm is borrowed further ahead, and the bearer stops sleeping in order to pay for it.
 - Terminal state: Survivors' Breath's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Permit rest; do not force personnel to continue working through it” reverses the item’s benefit and raises the source Gauge.  
@@ -46,15 +47,4 @@ The first The Resting Breath field bearer encountered this source response: Reve
 
 ## SET RELATIONSHIP
 
-Within *Survivors' Breath — Witnessed Form*, The Resting Breath performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-895-D`  
-**Linked Entity:** `SE-895`  
-**Item Registry Code:** `MAW-G-895-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Survivors' Breath — Witnessed Form*, The Resting Breath performs the stigma role while the other pieces preserve attribution and survival. The Breath drops out of the set when the bearer sleeps without borrowing.

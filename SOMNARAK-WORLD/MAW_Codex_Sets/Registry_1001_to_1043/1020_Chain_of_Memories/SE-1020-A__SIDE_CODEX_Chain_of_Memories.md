@@ -19,10 +19,10 @@ The Chain formed from memories passed through families and communities. The weig
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIIβ-200 [WO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Fragment (III) — Binding and connecting / Moderate (β) |
 | Element / Location | Weight / SECTOR-C-01, Collector's Row |
-| Gauge / Pressure | 484/484; starts 35–50% / 8–19 per hit · Weight |
+| Gauge / Pressure | 000/484; starts 000% / Weight — no attack pattern; the link count is the reading, and the only figure that has ever predicted the hour |
 | Observation | 2 — Basic |
 | Formation event | Families traded memories to preserve history after records were destroyed; the memories crystallized into links. |
 
@@ -30,17 +30,17 @@ The Chain formed from memories passed through families and communities. The weig
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Displays the relationships between memories. (Stable) |
 | Ferrehan | Tests whether the worker can carry shared history. (Decrease) |
 
 **Trigger:** Touching a link while naming its owner.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1020 -->
+**Resolution:** Two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Chain of Memories Source-Trace*
 
-During the The Chain of Memories Source-Trace, the field team preserved this source fact: Families traded memories to preserve history after records were destroyed; the memories crystallized into links. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of remembering for people who cannot or will not remember themselves.
+During *The Chain of Memories Source-Trace*, the field team preserved this source fact: Families traded memories to preserve history after records were destroyed; the memories crystallized into links. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of remembering for people who cannot or will not remember themselves.
 
 ## M.A.W. SET — *Chain of Memories — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Chain of Memories Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1020-A`  
-**Linked Entity:** `SE-1020`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon isolates only the immediate manifestation that violates this rule: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C. The gauge opens at 000% of its 000/484 meter, and no attack pattern is filed for this Weight manifestation. The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.

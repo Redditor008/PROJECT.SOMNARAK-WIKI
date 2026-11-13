@@ -14,6 +14,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | β — Moderate |
 | Damage | Grudge 5–9 |
 | Speed / Range | 2 — Normal / 2 — Short |
 | Pattern | Single |
@@ -22,7 +23,7 @@
 
 ### Appearance
 
-The Fury Fang is a short, broad crimson blade of Han iron shaped like a hooked tooth, its inner edge sharp and its back thick enough to rest a thumb against. A line of darker red runs along the curve and glows only when the bearer names a specific harm, victim, and responsible action before a strike. The grip is black and wrapped with a deep finger notch, and the pommel is a small open ring that heats as the weapon takes on named anger. If the bearer strikes without a real account, the grip grows hot and the returned Grudge burns the hand instead of the target. At rest the Fang is cold and dull, the red line invisible; once a harm is named, the whole blade seems to tense toward the point. The ring pommel is threaded with a worn red cord, and the blade stays cold until the bearer names the harm that created the anger.
+Short and broad, a hooked tooth of crimson Han iron with its inner edge sharp and a back thick enough to rest a thumb against: the Fury Fang. A line of darker red runs along the curve and glows only when the bearer names a specific harm, victim, and responsible action before a strike. The grip is black and wrapped with a deep finger notch, and the pommel is a small open ring that heats as the weapon takes on named anger. If the bearer strikes without a real account, the grip grows hot and the returned Grudge burns the hand instead of the target. At rest the Fang is cold and dull, the red line invisible; once a harm is named, the whole blade seems to tense toward the point. The ring pommel is threaded with a worn red cord, and the blade stays cold until the bearer names the harm that created the anger.
 
 ### Ability— Named Anger
 
@@ -35,12 +36,3 @@ The Fang gains force when the bearer names a specific harm, victim, and responsi
 ### History Record
 
 A Fury Fang bearer used Named Anger to stop a violent debt collection. The strike broke the collector’s weapon but not the collector’s arm. The bearer later refused to use the Fang against the collector again until a witness account was filed.
-
-**Document ID:** `SE-042-B`  
-**Linked Entity:** `SE-042`  
-**Item Registry Code:** `MAW-W-042-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

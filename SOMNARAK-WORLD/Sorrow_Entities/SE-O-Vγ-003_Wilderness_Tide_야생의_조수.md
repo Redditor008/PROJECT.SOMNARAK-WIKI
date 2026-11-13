@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Vγ-003 [WP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform independently; surges against the border |
-| **Coherence** | V — Sovereign (a force rather than a being) |
-| **Potency** | γ — Major |
+| **Entity Type** | **Object/Place** — Can breach via Corrupt independently |
+| **Coherence** | Sovereign (V) — A force rather than a being |
+| **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — Not a creature but a moving wall of raw, unstructured wilderness Han — a tidal surge of Weight Han-pressure that rises from beyond the Desolate and crashes against Zone E. It has no body to strike; only the wave, the pressure, and the grinding erosion of the border. Lead-cold and immense, it smells of wet stone and iron on a scale that fills the lungs. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile — flows and surges in waves against the Zone E perimeter. |
 | **Location** | Zone E border / the outer Desolate — surges from the wilderness |
 | **R.D. Comprehension Level** | 5 — Maximum (constant border monitoring) |
@@ -24,14 +24,15 @@
 
 | Statistic | Value |
 |---|---|
-| **Risk tier** | Major |
+| **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Resolve |
-| **Starting Sorrow Gauge** | 30–50% (fluctuates with wilderness Han density) |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | Extreme — but unharvestable (raw, unstructured) |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Active border threat |
+| **SE Effect** | **On the breach** — The Tide always returns; it is the wilderness breathing, and the wall is read on the pressure rather than on the sighting. |
+| **Work Damage** | 4–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a border phenomenon rather than a contained holding: a SECTOR cannot hold it and the survey is the containment. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Wilderness Han surges past the Desolate's outer edge |
-| **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan strictly N/A) |
 | **Tool / M.A.W. grade** | N/A — Place-manifestation, Sovereign-grade; no M.A.W. extraction possible |
 | **Vessel-Destructible** | No — Sovereign / Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — (never vessel-destroyed) |
@@ -50,14 +51,14 @@
 
 | Statistic | Value |
 |---|---|
-| **Risk tier** | Major (Vγ) |
+| **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place — border surge |
 | **Primary pressure** | Resolve |
 | **Speed** | 1–3 (Ponderous environmental surge) |
 | **Activation threshold** | Wilderness Han surge detected at outer watchtowers |
 | **Sorrow Gauge [HP]** | 900/900 |
-| **Han Pressure [ATK]** | 25–60 per hit · Weight |
-| **Starting Sorrow Gauge** | 30–50% |
+| **Han Pressure [ATK]** | 30–65 per hit · Weight |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy Yield** | 24–32 per successful containment cycle |
 
 ### Damage Resistances
@@ -74,7 +75,7 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Rising Green* [**Debuff**] } | "Vines creep across the floor — and they are faster than they look." | [The Tide's wild growth encroaches; green swallows the ground.] | *Target suffers -10 Resolve as nature advances.* **[10 Weight DMG [Weight]]** | When the target stands in the Tide's path. |
-| { *The Wild Pressure* [**Debuff**] } | "The wilderness presses inward — patient, inevitable, and stronger than the walls." | [The Tide's raw pressure builds; the target feels the wild at their back.] | *Target loses 10 Resolve; the city is losing ground.* **[10 Weight DMG [Weight]]** | When the target lingers at the edge. |
+| { *The Wild Pressure* [**Debuff**] } | "The wilderness presses inward — patient, inevitable. And stronger than the walls." | [The Tide's raw pressure builds; the target feels the wild at their back.] | *Target loses 10 Resolve; the city is losing ground.* **[10 Weight DMG [Weight]]** | When the target lingers at the edge. |
 | { *The Undertow* [**Attack**] } | "The green drags you under — into the wild, where the city ends." | [A wave of wild growth seizes and pulls the target.] | *Inflicts Weight pressure and one entangling wound.* **[14-22 Weight DMG [Weight]]** | When the Tide is resisted. |
 | { *The Storm Surge* [**Attack**] } | "The tide crests — and when it breaks, it brings the whole wilderness with it." | [A massive surge of raw, weighted nature crashes.] | *A heavy Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Tide is dammed. |
 | { *The Drowned City* [**Ultimate**] } | "The wilderness wins. It always wins, eventually — and today is eventually." | [The Tide engulfs the entire field in reclaiming growth.] | *All personnel suffer Weight pressure for three turns as the wild takes all.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
@@ -82,14 +83,15 @@
 ### Battle Phases
 
 1. **Tension:** Watchtowers detect the surge building beyond the Desolate. Wardens deploy to the wall. Han-suppression gear activated.
-2. **Clash:** The Tide crashes against the wall. Wardens hold the line with barriers and force. The ground trembles. Each wave is heavier than the last.
+2. **Clash:** The Tide crashes against the wall. Wardens hold the line by endurance at the wall under the ballast anchors, while the Watchtowers keep mapping the flow. The ground trembles. Each wave is heavier than the last.
 3. **Resolution:** The Tide recedes — gradually, grudgingly, leaving salt-traces of raw Han on the stone. The wall holds. Or it doesn't.
 
 ### Consequences
 
-- Failed resistance applies massive pressure to **Resolve** and may crack the border wall.
+- A surge that outlasts the wall watch is read afterward in residue depth and the repair survey, not settled in a duel with the wave. The Long Surge held for hours without recession, cost three Wardens to Fracture, and left the wall standing at its lowest catalogued integrity.
 - If the wall breaches, Outside Sorrow floods into Zone E — a catastrophic event requiring full Warden deployment.
 - The Tide always returns. It is the wilderness breathing.
+- The border wall is the containment, and the wall is a district works programme: every surge that outlasts a watch is followed by a repair survey the district pays for.
 
 ## Appearance
 
@@ -100,6 +102,8 @@
 - It carries fragments of wilderness entities within it — broken, unformed, dissolved by the raw Han.
 - After each surge, the border wall is left coated in a dark, salt-like residue that the Wardens must scrub before it erodes the stone.
 - The Tide is most powerful during the Sorrow Tide (nightly) and during seasonal Han-storms in the wilderness.
+
+**Reading the surge:** What reaches the wall is a moving front of compressed wilderness Han, felt first as ground tremor and iron on the air, then seen as a dark rising wall. That front is the current form a watch can report. UnWiHan beyond the Desolate is its source, not a larger body hiding behind the wave, and the vast watching shape in one testimony is a single reported sighting, not a confirmed head or face. Broken wilderness fragments carried inside a surge are contents being dissolved, not limbs of the Tide. The salt left on the stone afterward is the after-record by which intensity is officially read, not a skin the Tide sheds. A night surge that coincides with the city's own Sorrow Tide is a Double Tide by timing, not a second form. Keep front, source, contents and residue in separate entries, or the next watch will aim its endurance at the wrong one.
 
 **Identification Profile**
 - **Entity Type:** Object/Place
@@ -117,37 +121,24 @@ Wilderness Tide is not born from a single sorrow or a specific event. It is the 
 - **Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** The wilderness itself — UnWiHan, the raw Han of the unstructured world.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is the wilderness itself rising — Han accumulating past the Desolate's outer edge and coming against the Zone E wall in waves. There is nothing in it to observe into agreement and nothing to confront; there is a wall, an anchor, and a bound that does not hold.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Macro-environmental wilderness surges do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — The wilderness tide cannot be physically struck through Pugnahan. | N/A |
-| **Viderehan** | Remote acoustic observation and seismic monitoring from the Outer Watchtowers. | Stable |
-| **Ferrehan** | Direct physical endurance holding the outer perimeter wall under heavy ballast anchors. | Decrease |
-
-### Tidal Surge Progression
-
-| Phase | Action | Effect |
-|---|---|---|
-| **Build** | Wilderness Han accumulates beyond the Desolate. | Watchtowers detect rising pressure; Wardens deploy. |
-| **Surge** | The Tide crashes against Zone E's outer wall. | Massive Weight pressure; structural stress; personnel fatigue. |
-| **Recession** | The Tide recedes gradually. | Salt-residue left on the wall; Wardens assess damage and repair. |
-| **Lull** | A period of calm before the next buildup. | Maintenance, recovery, and preparation. |
+| Stage | What is done |
+|---|---|
+| **Approach** | Read it from the Outer Watchtowers: acoustic observation and seismic monitoring from behind the wall, never from the ground in front of it. The build phase is detected by pressure, not by sighting, and the watch deploys on the pressure. |
+| **Handling** | Hold the outer perimeter wall under heavy ballast anchors while the surge runs its phase. Direct physical endurance at the wall is the only stage that comes down with the water, and it is worked in relays because a single shift does not outlast a surge. |
+| **Withdrawal** | The water falls, or the watch is rotated off the wall — one or the other, and never the second while the surge is still building. The anchors are checked before anybody steps away, because the wall is what the withdrawal is made behind. |
+| **Refusal** | Nobody stands in front of the wall and nobody tries to turn the tide. It surges past the Desolate's outer edge on its own schedule; the file records a perimeter and a ballast, not an attempt. |
 
 ### Operational Work Notes
 
-Wilderness Tide is an Object/Place entity — Viderehan (Observation) and Ferrehan (Endurance) are the only valid Work Types. The Wardens endure the surge (Ferrehan) while the Watchtowers observe and predict (Viderehan). There is no sorrow to engage emotionally (Flerehan) or confront with anger (Pugnahan) — the Tide has no personality, no grief, no rage. It is simply pressure.
-
-**Reading the response:** The Tide's intensity is measured by the depth of the salt-residue it leaves. A light dusting means a minor surge; a thick coating means the wall nearly broke. The Wardens log each surge's residue depth as their primary metric.
-
-Management: hold the wall under the ballast anchors through every surge, then scrub the residue off before the salt reaches the stone, and log its depth in millimetres.
+The Wilderness Tide is a Place at the Zone E border, mobile, flowing in waves against the perimeter. The old four-row table treated it as something to be worked from a distance and marked two stages `Negative-Low`; what the file actually describes is a wall held under load by relays until the water falls.
 
 ## Breach Behavior
 
-Wilderness Tide does not breach in the traditional sense — it is always pressing. But when a surge overwhelms the wall:
+Wilderness Tide does not breach in the traditional sense — it is always pressing, and no overwhelmed wall stands in the surge catalogue. The chronicle's closest pressing steadied under full witness and ended in readings. The fields below are the standing contingency for a surge that does overwhelm the wall:
 
 > *"Wilderness Tide has broken through. Outside Sorrow floods Zone E."*
 
@@ -170,6 +161,8 @@ Wilderness Tide does not breach in the traditional sense — it is always pressi
 
 > **Materialized Agony Wear (M.A.W.):** No M.A.W. can be extracted from the Wilderness Tide. It is a Place-manifestation Sovereign with no sorrow-core — there is no crystallized grief to externalize. The Tide is raw, unstructured Han, not the refined sorrow of a contained entity. Attempting extraction would be like trying to forge a sword from the ocean.
 
+**Cross-source record:** The exact Side Codex closes as a Side-only set. Its registry page records three failed proposals — forging the raw Han, bottling the residue, wearing Tide material — and classes Warden shields and conduit barriers as manufactured border equipment, not equipment born from the Tide. Three item files nevertheless stand under the same set numbers claiming a complete set: a salt-slag poleaxe, a bedrock anchoring suit and a brine brooch, each with histories, bearer costs and corrosion. The Sovereign Chronicle separately names a Wild Mark borne only by Rangers who request it. This primary authorises none of those as extracted equipment. Until an authority reconciles the Side-only registry with the item files and the Mark, issue no piece on the strength of this section, treat the residue the Scavengers harvest as unstudied material rather than a Stigma bond. And enter any border gear actually carried under its manufactured record instead.
+
 ## 관찰 기록 (Observation Log)
 
 > **Observation Summary:** Wilderness Tide is monitored continuously from the Outer Watchtowers. Each surge is catalogued by date, duration, intensity (residue depth), and structural damage. The Wardens have 4,000 years of records — and the surges are getting worse.
@@ -185,7 +178,7 @@ Intensity is read from the salt residue a surge leaves on the wall, in millimetr
 | Season 3, Day 17 | moderate | 3 mm | 4 hours | 98% | none |
 | Season 3, Day 58 | the Long Surge | 24 mm | 6 hours, without recession | 52% | 3 Wardens lost to Fracture |
 
-Depth, duration and damage rise together down the table, and the Long Surge is the one entry that breaks away from the rest: 8 times the residue depth of the moderate surge, 1.5 times its duration, and a wall that lost 48 points of integrity where the moderate surge cost 2. The Long Surge fell in a Han-storm season. Those recur roughly every 7 years, the next is predicted for Year 4239, and surge frequency has risen 12% over the past century.
+Depth, duration and damage rise together down the table. And the Long Surge is the one entry that breaks away from the rest: 8 times the residue depth of the moderate surge, 1.5 times its duration. And a wall that lost 48 points of integrity where the moderate surge cost 2. The Long Surge fell in a Han-storm season. Those recur roughly every 7 years, the next is predicted for Year 4239, and surge frequency has risen 12% over the past century.
 
 ### Observation Progression
 
@@ -198,15 +191,25 @@ Depth, duration and damage rise together down the table, and the Long Surge is t
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-1. **Containment Description:** Wilderness Tide is not contained — it is repelled. The border wall of Zone E is the containment, and the Wardens are the mechanism. Each surge tests the wall; each recession proves it held. For 4,000 years, the wall has held. The Wardens intend to keep it that way.
+**Entry 1 — Containment Description**
 
-2. **Field Log:** *"Surge at Year 4232, Season 3, Day 17. Intensity: moderate. Residue depth: 3mm. Duration: 4 hours. Wall integrity: 98%. No casualties. The wilderness tested us today, and we held. It will test us again tomorrow. We will hold again."* — Watchtower Log, Outer Perimeter.
+Wilderness Tide is not contained — it is repelled. The border wall of Zone E is the containment, and the Wardens are the mechanism. Each surge tests the wall; each recession proves it held. For 4,000 years, the wall has held. The Wardens intend to keep it that way.
 
-3. **Counseling Log:** *"I've been posted to the Outer Wall for three years. You get used to it — the shaking, the pressure, the way the air tastes like iron when the Tide comes. What you don't get used to is the lull. The silence after. Because in the silence, you can hear the wilderness breathing. And it sounds patient."* — Warden recruit, Zone E.
+**Entry 2 — Field Log**
 
-4. **Containment Notice:** Wilderness Tide's surges have increased 12% in frequency over the past century. The cause is unknown. The Council has classified the increase data. The Wardens continue to hold.
+*"Surge at Year 4232, Season 3, Day 17. Intensity: moderate. Residue depth: 3mm. Duration: 4 hours. Wall integrity: 98%. No casualties. The wilderness tested us today, and we held. It will test us again tomorrow. We will hold again."* — Watchtower Log, Outer Perimeter.
 
-5. **Director's Memo:** *"Wilderness Tide is not an entity. It is the world reminding us why we built the wall. Every surge is the question: 'What happens if we stop managing sorrow?' The wilderness is the answer. It has always been the answer."* — Director's private note, Year 4232.
+**Entry 3 — Counseling Log**
+
+*"I've been posted to the Outer Wall for three years. You get used to it — the shaking, the pressure, the way the air tastes like iron when the Tide comes. What you don't get used to is the lull. The silence after. Because in the silence, you can hear the wilderness breathing. And it sounds patient."* — Warden recruit, Zone E.
+
+**Entry 4 — Containment Notice**
+
+Wilderness Tide's surges have increased 12% in frequency over the past century. The cause is unknown. The Council has classified the increase data. The Wardens continue to hold.
+
+**Entry 5 — Director's Memo**
+
+*"Wilderness Tide is not an entity. It is the world reminding us why we built the wall. Every surge is the question: 'What happens if we stop managing sorrow?' The wilderness is the answer. It has always been the answer."* — Director's private note, Year 4232.
 
 ## 최종 관찰 (Final Observation)
 
@@ -256,9 +259,9 @@ It can wait.
 
 *"I've served on the Wall for twenty years. Twenty years of surges. You learn the rhythm — the buildup, the tremor, the crash, the recession. After a while, you stop fearing it. You just endure. That's the job.*
 
-*But last season, something changed. The Tide came — same as always — but it didn't recede. It held. For six hours, it pressed against the wall without pulling back. Six hours of constant, crushing pressure. We lost three Wardens to Fracture that night. The wall held, barely.*
+*But last season the Tide came — same as always — but it didn't recede. It held. For six hours, it pressed against the wall without pulling back. Six hours of constant, crushing pressure. We lost three Wardens to Fracture that night. The wall held, barely.*
 
-*When the Tide finally receded, I looked out over the Desolate. And I swear — I swear on the Alpha Tree — I saw something in the wilderness. Not an entity. Not a creature. Just... a shape. Vast. Dark. Watching.*
+*When the Tide finally receded, I looked out over the Desolate. And I swear — I swear on the Alpha Tree — I saw something in the wilderness. Not an entity. Not a creature. Just … a shape. Vast. Dark. Watching.*
 
 *The wilderness has always been patient. But I think it's done waiting."*
 
@@ -271,7 +274,7 @@ It can wait.
 | **SECC Designation** | `O-Vγ-003 [WP]` |
 | **Origin** | Outside Sorrow — raw wilderness Han |
 | **Coherence** | V — Sovereign (force, not being) |
-| **Potency** | γ — Major |
+| **Potency** | Major (γ) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **First Recorded** | Year 4150 (first documented major surge) |
@@ -327,7 +330,7 @@ The closest the Tide has ever come to breaching was a season of record pressure 
 
 ### The Ranger Crews
 
-The Rangers are the Directorate's oldest order and its least decorated — border personnel who stand the longest watches against the least comprehensible pressure, and who maintain, in the listening posts along the line, a culture the institution admires without fully understanding. The Ranger virtues are attention, honesty, and endurance: attention, because the unwitnessed border seeps; honesty, because false readings kill; endurance, because the wild never rests and neither does the line. Ranger selection tests all three — candidates stand trial watches, log trial pressures, and endure the green silence at the margins — and Ranger training never ends. Every Ranger, regardless of seniority, stands the line. Every commander, regardless of rank, logs pressure. The border is maintained by hands, and the hands belong to everyone.
+The Rangers are the Directorate's oldest order and its least decorated — border personnel who stand the longest watches against the least comprehensible pressure, and who maintain, in the listening posts along the line, a culture the institution admires without fully understanding. The Ranger virtues are attention, honesty, and endurance: attention, because the unwitnessed border seeps. Honesty, because false readings kill; endurance, because the wild never rests and neither does the line. Ranger selection tests all three — candidates stand trial watches, log trial pressures, and endure the green silence at the margins — and Ranger training never ends. Every Ranger, regardless of seniority, stands the line. Every commander, regardless of rank, logs pressure. The border is maintained by hands, and the hands belong to everyone.
 
 Post culture is the Rangers' own country: small stations, long watches, plain food, and the log — the post log, kept by hand, recording pressure, weather, wildlife, dreams, and whatever the wild showed the watch. The logs are the archive's most human holding: thousands of volumes of patient attention, funny and bleak and faithful by turns, documenting the wild's indifference and the Rangers' refusal to reciprocate it. New Rangers read the old logs the way novices read scripture. Veterans write the new logs the way witnesses testify. And the border command reads every volume — all of them, cover to cover — because the logs are the line's memory, and the line holds by memory: every pressure remembered, every seepage recorded, every watch witnessed and kept.
 
@@ -341,7 +344,7 @@ The Tide's Stigma — the Wild Mark — is borne only by Rangers who request it,
 
 The standing arrangement between the city and the wild is the Directorate's oldest agreement and its least documented — not a treaty signed but a practice kept: the border offerings. At marked points along the line, the Rangers maintain offering grounds — clearings where the city places what the wild will take: unmournable griefs, sealed and structured, formally witnessed and formally released. The practice descends from the founders' intuition that pressure eases where seepage is permitted — that the wild, given structured offerings at the margins, leans less hard against the center. Whether the wild receives the offerings is unknowable. The gauges show, with comforting regularity, eased pressure downstream of the offering grounds. The Rangers maintain the grounds regardless of theory. The practice holds regardless of mechanism.
 
-The grounds-keeping is the Rangers' most ceremonial duty and their least discussed: the preparation of offerings — griefs too tangled for the rites, losses too strange for the succession, sorrows the city cannot place — sealed in the offering form, witnessed by the post, and placed at the marked points with the grounds-keeper's formula: witnessed, structured, released. What the wild does with the offerings the Rangers do not monitor and the Directorate does not ask. The grounds are found empty. The pressure stays eased. And the treaty of thorns — unwritten, unsigned, unacknowledged by one party and unfailing by the other — holds the way the border holds: by maintenance, by witness, by the patient attention of the Rangers who stand the line between the sorrow that mourns and the sorrow that merely accumulates, keeping faith with both.
+The grounds-keeping is the Rangers' most ceremonial duty and their least discussed: the preparation of offerings — griefs too tangled for the rites, losses too strange for the succession, sorrows the city cannot place — sealed in the offering form, witnessed by the post. And placed at the marked points with the grounds-keeper's formula: witnessed, structured, released. What the wild does with the offerings the Rangers do not monitor and the Directorate does not ask. The grounds are found empty. The pressure stays eased. And the treaty of thorns — unwritten, unsigned, unacknowledged by one party and unfailing by the other — holds the way the border holds: by maintenance, by witness, by the patient attention of the Rangers who stand the line between the sorrow that mourns and the sorrow that merely accumulates, keeping faith with both.
 
 ### The Sounding Gaps
 
@@ -370,6 +373,20 @@ The schedule-keepers are the border command's quiet pride: planners who maintain
 Where the border cuts through old ground, the engineers exposed the cut bank — strata of ancient drifts, layered and compressed, the wild's accumulation fossilized into readable history. The survey office reads the bank the way scholars read archives: this layer the founding pressure, this the record season, this thin dark line the night the wild leaned closest. Every stratum is dated, logged, and correlated with the border logs — and the correlation holds, layer after layer, proof that the wild has always pressed and the line has always witnessed. The cut bank is the border's memory made visible: not paper but pressure, not ink but accumulation, the whole history of the leaning written in the ground itself.
 
 Rangers walk new personnel along the bank the way crews walk memorials: read the layers, the veterans say. Every stratum is a season someone stood. Your season goes up there too — not in the bank, which is closed history, but in the logs, which are open. The bank teaches what the line requires: patience past seasons, attention past years, witness as a permanent condition rather than an emergency response. The wild accumulated these layers over ages. The city will witness the next layers over ages more. The bank stands exposed, read and honored, the wild's autobiography in strata — and the Rangers stand before it, generation after generation, learning the oldest lesson the border teaches: the leaning never ends, the watching never ends, and the line holds by never ending either.
+
+## Apex Record
+
+### Where the Line Begins
+
+Wilderness Tide is not born from a single sorrow or a specific event. It is the wilderness itself pressing against the city: UnWiHan, the Untapped Wild Han Land — grief without witness, sorrow without structure, Han that has never been mourned, measured or named. The survey office maps it the way sailors map deep water — routes, soundings, warnings, and vast blank regions marked only with the standing annotation *unwitnessed, unattested*.
+
+### The Limit
+
+It can breach independently and does not need to be inside anything to do it, and its Han-Energy yield is the largest in the register and the least usable, because raw and unstructured grief cannot be harvested. Expeditions return with one finding above all others: the green silence. The wild Han is not empty — the probes confirm depth, mass and movement — but it is unwitnessed, and that is a quality no instrument has been built to read.
+
+### The Standing Arrangement
+
+The border is the Directorate's longest standing work: a perimeter of walls, listening posts, gauge lines and ranger stations ringing the entire city, maintained without interruption since the first recorded pressing. Border doctrine is the oldest the institution keeps and the simplest — hold the line, log the pressure, yield nothing unwitnessed. Rangers do not fight the Tide; they measure it. Expedition protocol is the strictest special-duty procedure on the books: tethered probes, timed exposure, mandatory debrief, and the standing rule that no Ranger walks into UnWiHan alone.
 
 ## Trivia
 

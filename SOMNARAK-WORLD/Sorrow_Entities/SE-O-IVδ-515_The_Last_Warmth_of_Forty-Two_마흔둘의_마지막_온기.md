@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-515 [LO]` |
-| **Entity Type** | **Object/Place** — Single-use cryogenic burst |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Entity (IV) — Collective frozen farewell |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A slender cylindrical vial of hand-blown leaded quartz glass, sealed at the collar with melted lead solder and wrapped in fraying orange surveyor's emergency webbing. Inside, a swirling vapor of pale blue condensation moves in perpetual circular suspension without settling into frost or liquid. Despite ambient sub-zero temperatures, the quartz remains warm to human touch (36.5°C), vibrating with a quiet, multi-voiced whisper that sounds like dozens of people talking softly around a campfire. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-09, Frozen Depths Cache — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |
@@ -28,9 +28,10 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / cold exposure pressure |
-| **Starting Sorrow Gauge** | 50–70% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken from the cradle's own warmth readings |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
+| **Work Damage** | 4–7 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is immediate pressure reduced and nothing transformed or destroyed. It resets to 20 s the moment the reading is set down — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | Single-use impact trigger — shattered upon thrown detonation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · δ (Critical) |
 | **Vessel-Destructible** | Yes — shatters completely upon deployment |
@@ -44,7 +45,32 @@
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
 - The integrated M.A.W. profiles do not authorize harvesting the expended vial. Its activation record declares the remains inert and forbids extracting them again; the quartz sand and webbing have a memorial destination.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across **six doses** of 20 s, read from — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **120 s** — six doses, and at 120 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+read from on a 20-second clock, so the six come to **120 seconds**. A worn piece gets a minute
+and a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Combat Record
+
+> **Why this file keeps a combat record.** The vessel is stationary and has never pursued anything: what it does, it does where it is put. The one event it has is a rupture, and the rupture is delivered by a hand that throws it — so the record below belongs to the throw rather than to the vial, and the resolution condition is the detonation itself.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
@@ -54,10 +80,11 @@
 | **Speed** | N/A — stationary artifact |
 | **Resistance** | 45% against Lament pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 820/820 |
-| **Han Pressure [ATK]** | 28–55 per hit · Lament |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 120 s · recharge 10 min |
+| **Han Pressure [ATK]** | 30–57 per hit · Lament |
 | **Coherence modifier** | IV — unified choral soul lattice |
 | **Potency modifier** | δ — critical stasis shockwave |
+
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity.
 
@@ -67,37 +94,37 @@
 | **Threat Role** | Emergency Stasis Consumable / Realization Halter |
 | **Coherence** | Entity (IV) — Collective frozen farewell |
 | **Primary Pressure** | Mental / cold exposure pressure |
-| **Starting Sorrow Gauge** | 50–70% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Sector 09 Deep Glacial Rift / Maw Perimeter |
+| **Battlefield** | SECTOR-O-09, Frozen Depths Cache |
 | **Resolution Condition** | The vial is shattered against target or ground, releasing the collective exhalation in an acoustic blizzard |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| {{ *The Warm Rim* [**Debuff**] }} | "The lead-tin solder hums with body temperature despite sub-zero ambient cold." | [The contrast between warmth and frost shakes the operator's senses.] | *Target loses 10 Clarity.* | When picked up from cold storage. |
-| {{ *Forty-Two Whispers* [**Debuff**] }} | "Multiple quiet voices murmur simultaneously from inside the quartz." | [Personnel hear beloved voices calling farewell from across great distances.] | *Target suffers -12 Composure.* | When held near the ear. |
-| {{ *Frost Bloom* [**Attack**] }} | "A sudden rime of blue frost races across the outer glass cylinder." | [The floor around the plinth drops thirty degrees in three seconds.] | *Inflicts 18 Lament damage to nearby units.* | When handled without thermal gloves. |
-| {{ *Trapped Exhalation* [**Attack**] }} | "The vapor inside swirls into the fleeting silhouette of forty-two faces." | [Observers feel an overwhelming wave of shared, loving grief.] | *Sorrow Gauge surges 15%.* | When the vial is jostled. |
-| {{ *Cryogenic Sunder* [**Ultimate**] }} | "The solder seal hair-fractures, releasing an ultra-cold jet of vapor." | [The jet instantly petrifies stone tiles into brittle ice.] | *All units in room take 28 Lament damage.* | When Sorrow Gauge reaches 65%. |
+| *The Warm Rim* [**Debuff**] | "The lead-tin solder hums with body temperature despite sub-zero ambient cold." | [The contrast between warmth and frost shakes the operator's senses.] | *Target loses 10 Clarity.* | When picked up from cold storage. |
+| *Forty-Two Whispers* [**Debuff**] | "Multiple quiet voices murmur simultaneously from inside the quartz." | [Personnel hear beloved voices calling farewell from across great distances.] | *Target suffers -12 Composure.* | When held near the ear. |
+| *Frost Bloom* [**Attack**] | "A sudden rime of blue frost races across the outer glass cylinder." | [The floor around the plinth drops thirty degrees in three seconds.] | *Inflicts 18 Lament damage to nearby units.* | When handled without thermal gloves. |
+| *Trapped Exhalation* [**Attack**] | "The vapor inside swirls into the fleeting silhouette of forty-two faces." | [Observers feel an overwhelming wave of shared, loving grief.] | *Sorrow Gauge surges 15%.* | When the vial is jostled. |
+| *Cryogenic Sunder* [**Ultimate**] | "The solder seal hair-fractures, releasing an ultra-cold jet of vapor." | [The jet instantly petrifies stone tiles into brittle ice.] | *All units in room take 28 Lament damage.* | When Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the single-use A-Relic construct, verify containment integrity, and evaluate emergency tactical need.
-2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.
-3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Wrap the webbing back around the glass and set it in the heated cradle**. Nothing on this ground is cut, drilled or opened to find out what is inside it, and the 42 voices are not asked for anything they have not offered.
+1. **Tension:** Thermal gloves before the cradle is opened, and the webbing checked before the collar: the vial is carried, not approached, and every handling step is a step somebody has to be wearing the right thing to take. The room is read for who is standing in it, because a rupture at this gauge petrifies the room rather than a target.
+2. **Clash:** The webbing goes back around the glass and the vial goes back into the heated cradle, and the rotation is worked from there. Nothing is cut, drilled or opened to find out what is inside, and the forty-two voices are not asked for anything they have not offered.
+3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Wrap the webbing back around the glass and set it in the heated cradle** — and where the vial is shattered instead, the shatter is the resolution and the watch records where it landed, on what. And who was standing in the room.
 
 ### Consequences
 
 Premature rupture releases an uncontrolled flash-freeze wave that petrifies all life within thirty meters. Controlled shatter-strike freezes sovereign nightmares in absolute stasis, allowing the squad to regroup.
+- Premature rupture petrifies everything in the cache, so SECTOR-O-09 is abandoned by order: the site is off the facility's schedule and its contents off the inventory.
 
 ## Appearance
 
 **A vessel for a collective farewell:** The source remains the slender quartz medicine vial, its badge-stamped lead-tin collar and frayed orange webbing, not a fused body made from the outriders. Their names, whispered layers and brief facial profiles locate the collective presence inside an object. The vial can be carried in its supporting cradle; circulation inside the glass is not the source walking or expanding across the cache.
 
-**Contained motion, not a second body:** Pale blue vapor keeps circulating rather than settling against the wall. High-speed images record fleeting crystals and facial profiles; those transient patterns are not a permanent frozen face, a settled sediment or a separate scout emerging from the glass. The routine warmth is the baseline, not by itself proof that the seal has begun to fail. Outer frost, a damaged collar and vented gas have their own contact or rupture conditions in the record.
+**Contained motion, not a second body:** Pale blue vapor keeps circulating rather than settling against the wall. High-speed images record fleeting crystals and facial profiles. Those transient patterns are not a permanent frozen face, a settled sediment or a separate scout emerging from the glass. The routine warmth is the baseline, not by itself proof that the seal has begun to fail. Outer frost, a damaged collar and vented gas have their own contact or rupture conditions in the record.
 
 **Custody and irreversible release:** Support the glass from beneath rather than taking its weight on the fragile original wrap. The collar is not a sampling port. A shatter-strike releases the acoustic blizzard and spends the vial; quartz sand and webbing remnants are memorial remains, not a refillable container. The derived Lance, Parka and throat Badge have independent equipment forms and bearer costs, not new anatomical states of the bottle.
 
@@ -124,35 +151,22 @@ Premature rupture releases an uncontrolled flash-freeze wave that petrifies all 
 - **The Event:** The Great Freeze of Year 4,188 in Sector 09, where an avalanche sealed a crawler beneath forty meters of ice.
 - **The People:** Captain Yeon-Woo and forty-one outriders of the Seventh Division.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Monitors the vortex circulation speed of the trapped blue vapor. | Stable |
-| **Ferrehan** | Demands the operative hold the warm bottle in sub-zero containment, enduring the emotional weight of forty-two farewells. | Decrease |
-
-### Operational Work Notes
-
-Operatives assigned to Ferrehan must possess high Composure ratings. Hearing forty-two voices softly wishing their families goodnight induces uncontrollable weeping; assign rotation shifts of no longer than fifteen minutes.
+| Stage | What is done |
+|---|---|
+| **Approach** | Before approach, know what meets you: Single-use impact trigger — shattered upon thrown detonation. |
+| **Handling** | Safeguard with the observer and the stander; shatter as A-Relic to halt catastrophic boss realization phases. |
+| **Withdrawal** | The vial is shattered against target or ground, releasing the collective exhalation in an acoustic blizzard. |
+| **Refusal** | Objects and Places cannot be emotionally engaged through the mourner or confronted through the confronter. |
 
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
-
-**Activation Trigger:** Throwing or shatter-striking the quartz vial against a solid surface or target core.
-
-**Effect:** Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed.
-
-**Duration:** Cryogenic Stasis lasts 2 full Combat Turns (12 battle rounds).
-
-**Risk:** The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours.
-
 ### Tool Use Profile — A-Relic
 
 | Field | Record |
@@ -165,22 +179,22 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 | **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
 | **Risk** | The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
 
-**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
+**Operational Rule:** A single-use relic is spent, not stored. The vial is quartz and the forty-two breaths are sealed inside it: it is spent by being broken, and the breaking is the only release they will get.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | The Last Warmth of Forty-Two sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Throwing or shatter-striking the quartz vial against a solid surface or target core.) initiates an instantaneous, irreversible discharge across the battlefield. |
-| 3 Uses | Crystallized from the absolute terror of dying alone in freezing darkness, transformed into solidarity by refusing to die in silence. during the great freeze of year 4,188 in sector 09, where an avalanche sealed a crawler beneath forty meters of ice; the relic answers only to complete commitment. | The full discharge completes: Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. All hostile entities in range suffer devastating disruption and elemental debuffs. |
-| 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
-| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
+| 1 Use | The Last Warmth of Forty-Two sits in stasis as an unexploded historical promise. Its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Throwing or shatter-striking the quartz vial against a solid surface or target core.) initiates an instantaneous, irreversible discharge across the battlefield. |
+| 3 Uses | Crystallized from the absolute terror of dying alone in freezing darkness, transformed into solidarity by refusing to die in silence. During the Great Freeze of Year 4,188 in Sector 09, where an avalanche sealed a crawler beneath forty meters of ice. The relic answers only to complete commitment. | The full discharge completes: Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 5 Uses | The grief was so absolute that it could only be settled in a single fire. When the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
+| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The vial is consumed permanently. The user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
 
 ### Escalation Notes
 
 Warmth alone is not an escalation signal: the vial remains warm across ambient conditions. Record changes to the collar, glass and vapor against that baseline rather than treating the normal warm cradle as a new breach. The watch enters the first trigger, the change visible in the Object-Lament form, the distance at which the effect starts, and the line where the resonance settles. Lament is the element and the Frozen Depths Cache at SECTOR-O-09 the post, so emotional and behavioural indicators go in beside the physical telemetry.
 
-**Response sequence:** Keep unshielded personnel clear and establish whether the glass and original collar remain intact. For intact custody, support the vial beneath, preserve the original webbing and return it to its heated cradle; do not cut, drill or sample the seal. A hair-fracture or vent is a rupture hazard, not permission to handle it for analysis. Authorized deployment is the deliberate single shatter-strike under the recorded encounter restriction. After discharge, account for the quartz sand and webbing for memorial interment and provide the operator's recorded grief care; do not refill, repair or extract the remains. Viderehan and Ferrehan remain the only Work Types.
+**Response sequence:** Keep unshielded personnel clear and establish whether the glass and original collar remain intact. For intact custody, support the vial beneath, preserve the original webbing and return it to its heated cradle. Do not cut, drill or sample the seal. A hair-fracture or vent is a rupture hazard, not permission to handle it for analysis. Authorized deployment is the deliberate single shatter-strike under the recorded encounter restriction. After discharge, account for the quartz sand and webbing for memorial interment and provide the operator's recorded grief care. Do not refill, repair or extract the remains. Viderehan and Ferrehan remain the only Work Types.
 
 ### Detailed Activation Record
 
@@ -190,7 +204,7 @@ Warmth alone is not an escalation signal: the vial remains warm across ambient c
 | **Manifestation** | Object-Lament |
 | **Primary effect** | Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. |
 | **Duration / rate** | Cryogenic Stasis lasts 2 full Combat Turns (12 battle rounds). |
-| **Risk** | Critical (δ) Object-Lament producing Lament pressure; The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
+| **Risk** | Critical (δ) Object-Lament producing Lament pressure. The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** the first trigger → the first visible change → the affected boundary → the effect on personnel → the rate or duration → the management condition. Viderehan and Ferrehan are the whole of the work; the Object and Place rule leaves no other approach.
@@ -215,7 +229,7 @@ The translucent crystal blade radiates an intense cryogenic haze. Piercing attac
 
 **Ability:** *Final Breath Skewer* — Deals massive Lament damage. On critical hit, inflicts Freezing (Target loses 2 Speed and 1 Action Slot for 2 turns).
 
-**Cost:** The wielder exhales continuous plumes of white frost vapor, even in desert heat.
+**Bearer cost:** The wielder exhales continuous plumes of white frost vapor, even in desert heat.
 
 ### M.A.W. Suit — The Seventh Division Parka
 
@@ -233,7 +247,7 @@ The translucent crystal blade radiates an intense cryogenic haze. Piercing attac
 
 **Ability:** Supreme resistance against Lament and cryogenic damage. When wearer's HP falls below 25%, releases an automatic frost shield that absorbs 50 damage.
 
-**Cost:** The wearer feels an overwhelming desire to hold hands with nearby allies, terrified of being left behind.
+**Bearer cost:** The wearer feels an overwhelming desire to hold hands with nearby allies, terrified of being left behind.
 
 ### M.A.W. Stigma — The Solder Badge
 
@@ -247,7 +261,7 @@ The translucent crystal blade radiates an intense cryogenic haze. Piercing attac
 
 **Ability:** Emits a constant warming aura that protects the bearer from all environmental freezing and hypothermia effects.
 
-**Cost:** The bearer weeps quietly and involuntarily whenever parting ways with an acquaintance.
+**Bearer cost:** The bearer weeps quietly and involuntarily whenever parting ways with an acquaintance.
 
 ### M.A.W. Use Notes
 
@@ -257,8 +271,8 @@ Equipment derived from this relic embodies supreme collective solidarity. It bec
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator emotional resilience audit, suit insulation and quartz clarity; inspect the Lance and support the relic beneath rather than by its webbing. Record squad separation separately from the vial's custody state. |
-| **During use** | Ambient frost radius, target stasis duration and squad vocal cadence; distinguish Lance frost breath, Parka fear of separation and Badge parting-tears from the vial's quiet chorus. Do not infer that gear use has shattered or refilled the source. |
+| **Before use** | Operator emotional resilience audit, suit insulation and quartz clarity. Inspect the Lance and support the relic beneath rather than by its webbing. Record squad separation separately from the vial's custody state. |
+| **During use** | Ambient frost radius, target stasis duration and squad vocal cadence. Distinguish Lance frost breath, Parka fear of separation and Badge parting-tears from the vial's quiet chorus. Do not infer that gear use has shattered or refilled the source. |
 | **At limit** | Operator core temperature, crying duration and crystal stress; note the Parka shield condition separately from the source's one-use discharge. The Badge's warming protection is not permission to open the collar or rough-handle the vial. |
 | **After use** | Psychological grief debrief, thermal re-warming and tear-duct examination. Record which equipment cost followed use, separately from grief after source deployment; spent source remains go to the Memorial Wall, not the equipment service bench. |
 
@@ -339,7 +353,7 @@ During the Great Freeze of Year 4,188, the Horizon Caravan's Seventh Outrider Di
 
 Knowing rescue was impossible, Captain Yeon-Woo gathered the remaining crew around the command table. Rather than freeze in bitter silence or turn against one another in desperation, Yeon-Woo uncorked a quartz field medicine vial. Passing the bottle from hand to hand, he asked every dying scout to whisper their name, the person they loved most in Somnarak, and a final word of farewell into the open glass before passing it to their comrade.
 
-Forty-two men and women breathed their final warm exhalations into the bottle before the cold claimed them. Captain Yeon-Woo sealed the vial with a lead soldier's badge and a soldering torch using the crawler's last remaining spark of battery power, then lay down beside his soldiers. When salvage teams reached the crawler seventy years later, the crew's bodies were frozen solid like marble statues, but the vial held in the captain's stiff hands was still warm—the trapped breath of forty-two souls who refused to let their final words freeze in the dark. Thrown in battle, the glass breaks and releases their final breath all at once: a blizzard that halts even sovereign nightmares, carried on the warmth of people who died together.
+Forty-two men and women breathed their final warm exhalations into the bottle before the cold claimed them. Captain Yeon-Woo sealed the vial with a lead soldier's badge and a soldering torch using the crawler's last remaining spark of battery power, then lay down beside his soldiers. When salvage teams reached the crawler seventy years later, the crew's bodies were frozen solid like marble statues. But the vial held in the captain's stiff hands was still warm—the trapped breath of forty-two souls who refused to let their final words freeze in the dark. Thrown in battle, the glass breaks and releases their final breath all at once: a blizzard that halts even sovereign nightmares, carried on the warmth of people who died together.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -362,7 +376,7 @@ Forty-two men and women breathed their final warm exhalations into the bottle be
 - Maintain in a specialized heated stasis cradle at 36.5°C.
 - Prohibit rough handling or kinetic shock during transit.
 - Authorize single-use shatter-strike exclusively during Catastrophe / Realization encounters.
-**Cross-References:** Seventh Outrider Glacial Disaster Archive · The Frozen Shard · The Melting Saint
+**Cross-References:** Seventh Outrider Glacial Disaster Archive · The [Frozen Shard](SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md) · The Melting Saint
 **Faction Involvement:** Reverie Directorate (Containment) · Horizon Caravan (Historical Regiment)
 **Originator:** Captain Yeon-Woo and the Seventh Outriders.
 
@@ -374,7 +388,7 @@ Operational Rule: Once shattered, the A-Relic is permanently expended. Collect t
 
 ### The Seal
 
-The lead at the collar is original and is not to be disturbed. This is the holding's only absolute instruction and it covers inspection, sampling, and conservation work of every kind, including the sort of stabilizing intervention a conservator would ordinarily regard as routine for solder of that age. The prohibition has been reviewed by the Memory Archive's own conservation staff, who agreed with it, and whose assessment is bound into the file: the seal is failing slowly, it will continue to fail, and any attempt to arrest the failure requires heat or solvent at the collar. Their report ends by recommending that the vial be allowed to deteriorate on its own schedule, and the wing adopted the recommendation in full.
+The lead at the collar is original and is not to be disturbed. This is the holding's only absolute instruction and it covers inspection, sampling, and conservation work of every kind, including the sort of stabilizing intervention a conservator would ordinarily regard as routine for solder of that age. The prohibition has been reviewed by the Memory Archive's own conservation staff, who agreed with it. And whose assessment is bound into the file: the seal is failing slowly, it will continue to fail. And any attempt to arrest the failure requires heat or solvent at the collar. Their report ends by recommending that the vial be allowed to deteriorate on its own schedule, and the wing adopted the recommendation in full.
 
 ### The Webbing
 
@@ -394,7 +408,7 @@ The object is warm to hold, slightly and consistently, in excess of ambient and 
 
 ### Refusing to Die in Silence
 
-What the file holds about the final hours comes from a single source — a signal log kept at the surface station, recording transmissions received from below until they stopped. The log is reproduced in facsimile. It shows the outriders talking, in turn, by name, for a long time, and the content is almost entirely practical until it is not. The archivist's note beneath it is two sentences. It states that the log is the reason the entity exists and that the wing has never been able to decide whether reproducing it is an act of respect or an intrusion, and that it is reproduced anyway because the alternative is a summary written by somebody who was not there.
+What the file holds about the final hours comes from a single source — a signal log kept at the surface station, recording transmissions received from below until they stopped. The log is reproduced in facsimile. It shows the outriders talking, in turn, by name, for a long time, and the content is almost entirely practical until it is not. The archivist's note beneath it is two sentences. It states that the log is the reason the entity exists and that the wing has never been able to decide whether reproducing it is an act of respect or an intrusion. And that it is reproduced anyway because the alternative is a summary written by somebody who was not there.
 
 ### Custody
 

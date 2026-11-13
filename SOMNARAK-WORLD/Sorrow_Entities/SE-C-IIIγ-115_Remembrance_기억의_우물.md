@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-115 [VP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on breaking the surface with the bronze probe on its winch line |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Deep and patient |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Mixed — A deep stone well, its rim worn and dark, filled not with water but with liquid memory — a slow, viscous surface that reflects the viewer's own past rather than their face. The stone is cold; the liquid is numb and faintly sweet with the smell of ash. A dropped stone rings with a forgotten voice. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, beneath the Grand Archive |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -28,14 +28,16 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 per cycle, drawn at the rim with the cover closed. The Grand Archive takes no share and has twice declined one, on the ground that the well is not the Archive's and the Archive is only standing over it. |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the wall** — The shaft holds recollection from every period the Archive covers and from some it does not. |
+| **Work Damage** | 3–5 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is what the shaft gives back, in the voice of whoever it came from. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Breaking the surface with the bronze probe on its winch line. No breach counter; the level is gauged from the archive floor every watch |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Ferrehan at the rim as the standing work; Viderehan only by a rostered observer, in pairs, with the record written before the chamber is left. Wardens on watch do not look in at all. |
+| **Recommended response** | The holding at the rim as the standing procedure. Observation only by a rostered observer, in pairs, with the record written before the chamber is left. Wardens on watch do not look in at all. |
 
 ### Operational Notes
 
@@ -45,51 +47,59 @@
 - No breach counter. The level is gauged from the archive floor every watch, and the annual rise is the only number this holding reports upward.
 - Residue is lifted from the rim stone under separate authorisation, never from the liquid, and never by anybody who has looked in that month.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Void. The liquid has never been sampled; the two proposals to draw a flask are in the Armoury ledger and the second was refused in one line — *we would be holding somebody's memory in a cupboard.* |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 587/587 |
-| **Han Pressure [ATK]** | 15–34 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — patient; it does not act within an encounter so much as outlast it |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, beneath the Grand Archive |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 30 s, stood at for an offering — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+stood at for an offering on a 30-second clock, so the six come to **180 seconds**. A worn piece
+gets a minute and a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** A well is a structure and the Movement row says so. The shaft has never been entered, nobody descends, and the two attempts to descend were refused before they reached the chamber. What the rim does is give back what settled into it, in the voice of whoever it came from, and what a watch has to survive is looking in.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A deep stone well beneath the Grand Archive, rim worn and dark, filled with something that is not water and reflects the viewer's past rather than their face |
+| **Perceptible to** | The surface first — slow and viscous, blood-warm, numb and faintly sweet, smelling of ash — and then a voice out of it that belongs to somebody, sometimes to nobody the facility can identify |
+| **Activation threshold** | Breaking the surface with the bronze probe on its winch line. No breach counter; the level is gauged from the archive floor every watch |
+| **Sorrow Gauge [Saturation]** | **000 of 660** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Handling** | No Work Types (`R-40`). Four stages in `## Handling Process`, both at the rim, observation never alone and never by the Warden on watch |
+| **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. The past comes back and the gauge does not move; holding at the cover brings it down. |
+| **Location** | SECTOR-A-01, beneath the Grand Archive |
 | **Resolution Condition** | Seal access and permit only supervised viewing |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Surface Ripple* [**Debuff**] } | "Something moves in the water and it is a face you had put out of your mind on purpose." | [A memory the observer had deliberately set aside returns to the surface.] | *Void pressure; the observer can name the memory afterwards and 94 of 188 have declined to.* **[Void DMG [Void]]** | Within the first minutes at the rim. |
-| { *The Long Ago* [**Debuff**] } | "The old grief comes up colder than the liquid and in better order than you left it." | [Older material surfaces, organised and dated.] | *Void pressure; the accuracy is the hazard — observers describe recovered memories as corrected rather than recalled.* **[Void DMG [Void]]** | Past about twenty minutes at the rim. |
-| { *The Drowned Face* [**Attack**] } | "A face surfaces — and it is not glad to be remembered." | [A memory given form rises and strikes.] | *Inflicts Void damage; a forgotten wound reopens.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Well is disturbed. |
-| { *The Bottom of the Well* [**Attack**] } | "The one you built the well over comes up last." | [The oldest held memory surfaces whole.] | *Heavy Void damage to whoever is looking in; four occurrences, all four observers were relieved at the time and none has worked the rim since.* **[Void DMG [Void]]** | When somebody looks directly into the liquid. |
-| { *Every Memory at Once* [**Ultimate**] } | "It overflows, and everything it has ever held comes over the rim together." | [The well floods the chamber with everything in it.] | *Void erosion to everyone present for three cycles; the flood recedes by itself and leaves the floor dry.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once, in the week the Archive's deposit backlog passed four hundred leaves. |
+### Contact Events
 
-### Battle Phases
+| Event | What the well does | What the observer carries out | Reading |
+|---|---|---|---|
+| { *The Surface Ripple* [**Register**] } | Returns, within the first minutes at the rim, something the observer had deliberately put out of mind. | A memory they can name afterwards and would rather not. The record of it is written at the rim before the chamber is left, and the four who wrote theirs afterwards had all four discarded. | Nothing is aimed and nothing is thrown. The well gives back what settled into it, in the voice of whoever it came from. |
+| { *The Long Ago* [**Exposure**] } | Past about twenty minutes at the rim, older material surfaces organised, dated and colder than the liquid. | Material that arrives corrected rather than recalled — better ordered than it was lived, and more flattering to nobody. | The accuracy is the hazard. Observers describe it as being told, and the record it produces is why everything is written in the chamber. |
+| { *The Bottom of the Well* [**Refusal**] } | Brings up last the one the well was built over, whole, to whoever looks directly into the liquid. | Four occurrences, four observers relieved at the time, none of whom has worked the rim since. | This is the refusal in the record: the well will not leave the oldest thing buried. Access is sealed and viewing is supervised because of these four rows and no other reason. |
+| { *Every Memory at Once* [**Overload**] } | Overflows the rim with everything it has ever held, once, above 65 per cent, in the week the Archive's deposit backlog passed four hundred leaves. | Void erosion across the chamber for three cycles, and a floor that is dry again by itself. | The flood recedes and leaves nothing behind. The failure it records is not the water — it is the months the level was allowed to rise. |
 
-1. **Tension:** Two observers take the rim, the cover stays on, and the roles are set at the door: one speaks to the well, one watches the speaker and never looks at the surface. The roles do not swap mid-cycle.
-2. **Clash:** Viderehan at the rim by a rostered worker, never by the Warden on watch, and never alone. Ferrehan is holding position beside an open cover for the stated interval. Everything seen is written down in the chamber before anybody leaves it.
-3. **Resolution:** The record is written in the chamber, at the rim, before anybody leaves. 188 cycles; the four written outside the chamber are the four the Archive has had to discard as unreliable, and all four authors insisted at the time that they remembered perfectly.
+### Watch Sequence
+
+1. **What is confirmed:** the cover, the rim gauge read against the archive floor, the pair on the rim, and the roles set at the door — one speaks to the well, one watches the speaker and never looks at the surface. The roles do not swap mid-cycle.
+2. **What the watch does:** Viderehan at the rim by a rostered worker in pairs, never by the Warden on watch. Ferrehan is holding position beside an open cover for the stated interval. Everything seen is written down in the chamber before anybody leaves it.
+3. **How it closes:** Nine years of the rim record on the file, and **Seal access and permit only supervised viewing** — with the record written at the rim before the chamber is left. The four written outside are the four the Archive has discarded as unreliable, and all four authors insisted at the time that they remembered perfectly.
 
 ### Consequences
 
@@ -99,7 +109,7 @@
 - An unworked month leaves the level higher. The rim gauge has risen eleven centimetres in nine years and has never been recorded falling; the Archive's deposit backlog tracks it within a fortnight.
 
 ## Appearance
-**Physical Form:** A deep well filled with liquid memory rather than water. Its surface reflects the viewer's past.
+**Physical Form:** A well head of cold worn rim stone, a metre and a half across, with no sheen on the stone at all and no rope, no bucket and no windlass — the fittings are gone and the holes they left are there. It smells of ash and faintly sweet. Hold a hand above the opening and the hand goes numb before it touches anything. The well is full, and it is full of memory rather than water: the level rises with no inflow and has never been seen to fall. The surface does not move, and a dropped stone does not splash. It rings, in a voice the wing has not been able to match to any person it has files on.
 
 **Notable Features:** It shows what was done and what was not done with the same weight. The liquid is dark, blood-warm, and has never once been seen to move.
 
@@ -107,7 +117,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
-- **Primary marker:** A deep well filled with liquid memory rather than water. Its surface reflects the viewer's past.
 - **Position / movement:** Fixed in the shaft beneath the Archive. The level is gauged against the shaft scale every watch and has risen 7, 11 and 16 millimetres across three annual series.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, beneath the Grand Archive
@@ -116,13 +125,12 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A deep well filled with liquid memory rather than water. Its surface reflects the viewer's past. |
 | **Position / movement** | A stone well in the floor beneath the Grand Archive, covered, with a winch line and a bronze probe on it. It has not moved; the level has. |
 | **Material / signature** | Void. Cold worn rim stone, a surface with no sheen, ash-sweetness, and numbness in the hand held above it. |
 | **Distinctive markers** | A level that rises without inflow, a surface that does not move, and a dropped stone that rings in a voice rather than a note. |
 | **Identification** | Drop the stone with the cover closed. If it rings, you have the right shaft and you should not open the cover alone. |
 
-**Appearance protocol:** Level, temperature, surface state, and the stone’s ring. Four readings, three of them takeable through a closed cover, which is how the watch is designed. Keep the watching Warden distinct from the rostered viewer and from the person holding the probe line. A spoken ring is an identification sign, not permission to open the shaft alone. The file’s routine stone-drop and the linked Side Codex’s prohibition on throwing objects remain different instructions; do not resolve them by improvising a sample or an unrecorded opening.
+**Appearance protocol:** Level, temperature, surface state, and the stone’s ring. Four readings, three of them takeable through a closed cover, which is how the watch is designed. Keep the watching Warden distinct from the rostered viewer and from the person holding the probe line. A spoken ring is an identification sign, not permission to open the shaft alone. The file’s routine stone-drop and the linked Side Codex’s prohibition on throwing objects remain different instructions. Do not resolve them by improvising a sample or an unrecorded opening.
 
 **Shaft organisation:** Identify the worn stone rim, the deep shaft, the covered liquid-memory surface and the winch-mounted bronze probe as distinct parts of this fixed Place. The Tale’s Han-crystal lining concerns the shaft, not a crystal person inside it. Faces and voices belong to recalled lives and the viewer’s past, not proven inhabitants reaching bodily out of the well. Keep level, temperature, surface motion and a voiced stone-ring separate: the ordinary still surface, probe-thickening and recorded overflow have different observation conditions. None grants descent or turns a risen recollection into an owned sample.
 
@@ -133,16 +141,16 @@
 - **The People:** Nobody in particular, which is the entity. The memories in the shaft belong to people who are not being mourned by any living person and who cannot be assembled into names.
 - **Expanded origin context:** What lies in the shaft is neither remembered nor forgotten. It is recollection with nowhere to be kept, settled in the lowest level of the Archive because that was the lowest place that would take it in. Crews who work near it describe a nostalgia they cannot place — the sense of having met it before, in some other life. The R.D. files the effect as "Sorrow Resonance": what is down there answers to grief the viewer has never spoken of. Rotation is set at 72 hours. Stay longer and the dreams begin — lives that were never lived, losses nobody mourned — and though the dreams go on waking, the weight of them does not.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a well with a cover. The file's contact is a probe on a winch line, an interval, and the rule about who may look down.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | The observer's own past, entire and in order, including the parts they had arranged not to have. Gauge does not move. | Stable |
-| **Ferrehan** | Holding position at an open cover for the stated interval without looking down. The interval is short and nobody has ever asked for it to be longer. | Decrease |
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Read the level from the winch drum before the cover is broken, and enter the reading with the name of the Warden taking it. Rostered observers approach in pairs and never alone. | Two on any observation; the Warden on watch never observes. | The approach spends the reading and enters the name. The well returns the observer's own past, and the record is written before the cover is opened. |
+| **Handling** | Break the surface with the bronze probe on its winch line and hold position at the open cover for the stated interval without looking down. | The rostered observer, with the second pair-member counting. | The interval is short and nobody has ever asked for it to be longer. What surfaces is the observer's own past, entire and in order, including the parts they had arranged not to have. |
+| **Withdrawal** | Close the cover, wind the probe back on the line, and compare the level against the drum reading taken at approach. | The second pair-member; the Warden signs the comparison. | The reading is carried out and written before the cover is opened again. The level does not return for being closed. |
+| **Refusal** | The Warden on watch never looks down. Nobody observes alone, and no record is written after the fact from memory. | No standing authorises a solo observation. | The file records the rule and the pairing; the interval is kept short because of what the last unpaired observer wrote. |
 
 
 ### Operational Work Notes
@@ -152,29 +160,26 @@ The Work Type table is steady and the number the Archive watches is the level at
 **Reading the response:** A falling gauge means a cycle was worked in pairs with the cover on and the record written at the rim. It rises on solitary attendance, on the backlog, and — four times — on a leaf being issued without any note that it had been.
 ## Activation Behavior
 
+> **Special activation only — no counter, no gauge.** What sets it off, per the record: *"breaking the surface with the bronze probe on its winch line"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **Open channel: this relic returns what the Archive has not recorded, accurately, to whoever is holding the line**
 > **An abandoned channel vents into the chamber and the level rises by a centimetre that quarter**
-
-**Activation Trigger:** Breaking the surface with the bronze probe on its winch line.
-
-**Effect:** Raises recollection belonging to the city rather than to the channeler: layouts, routes, names of streets that have been renamed twice, and the weak point of whatever the facility is presently fighting.
-
-**Duration:** While the winch is held open. The line is held by hand and never cleated, so that letting go closes the channel.
-
-**Risk:** It takes a live memory for every one it gives. The channeler loses recent working knowledge first — briefings, orders, the names of people they were told about that morning.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
-| **Activation** | Breaking the surface with the bronze probe. |
-| **Primary Effect** | City recollection raised to the rim: routes, layouts, old names, and present weaknesses. |
-| **Duration** | While the line is held by hand. It is never cleated. |
-| **Termination / Return** | The channeller closes the conduit deliberately and the second observer states what the channeller came down for. Releasing it improperly vents across the sector; it has happened once and the Archive spent a fortnight on claims of recovered memory from three floors away. |
-| **Risk** | A live memory taken for each one given, working knowledge first. |
+| **Activation** | Breaking the surface with the bronze probe on its winch line. |
+| **Primary Effect** | City recollection raised to the rim — layouts, routes, names of streets that have been renamed twice — belonging to the city rather than to the channeler, and carrying the weak point of whatever the facility is presently fighting. |
+| **Duration** | While the winch is held open and the line held by hand. It is never cleated, so that letting go closes the channel. |
+| **Termination / Return** | The channeller closes the conduit deliberately and the second observer states what the channeller came down for. Releasing it improperly vents across the sector. It has happened once and the Archive spent a fortnight on claims of recovered memory from three floors away. |
+| **Risk** | A live memory taken for every one given, working knowledge first: briefings, orders, and the names of people the channeler was told about that morning. |
 
 **Operational Rule:** The channel is held by one person who does nothing else, with a second present whose only duty is to call the time. A channel left untended vents into the chamber within a minute.
 
@@ -213,7 +218,7 @@ Escalation is a level. Record the rim gauge to the centimetre, the Archive's dep
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A suspended brass cable reel thirty centimeters wide hovering beside the wielder, guiding eight razor-edged fragments of mirror glass tethered by invisible filaments of sorrow-light.
+**Appearance:** A suspended brass cable reel thirty centimeters wide hovering beside the wielder, guiding eight razor-edged fragments of mirror glass tethered by invisible filaments of sorrow-light.
 
 The central reel rotates smoothly, directing the floating glass shards in sweeping orbital arcs around the wielder. The shards slash passing hostiles while acting as an autonomous defensive perimeter.
 
@@ -230,7 +235,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Ability:** Void against the Soul. Struck targets recover one memory they had decided not to keep — accurately, with the date — and all fourteen have described the accuracy as the injury.
 
-**Cost:** Small nameless memories, and on this set they are the ones the wielder would have chosen: the Armoury asks in advance which they would least like to lose and those are the ones that go.
+**Bearer cost:** Small nameless memories, and on this set they are the ones the wielder would have chosen: the Armoury asks in advance which they would least like to lose and those are the ones that go.
 
 ### M.A.W. Suit — The Memory Veil
 
@@ -248,7 +253,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Ability:** Resistance to Void against the Soul, and the reason the second observer can stand at the rim for a full cycle without the surface reaching them.
 
-**Cost:** The wearer feels faintly absent to themselves and mislays small belongings at a rate the Armoury has bothered to measure.
+**Bearer cost:** The wearer feels faintly absent to themselves and mislays small belongings at a rate the Armoury has bothered to measure.
 
 ### M.A.W. Stigma — The Memory Flask
 
@@ -262,11 +267,11 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Ability:** Stores one memory for later replay.
 
-**Cost:** The stored memory becomes emotionally heavier each time it is replayed.
+**Bearer cost:** The stored memory becomes emotionally heavier each time it is replayed.
 
-*Four flasks exist. Three were granted to workers who closed a channel early and wrote down why; the fourth to a Warden who went forty years without once looking in, and who did not want it.*
+*Four flasks exist. Three were granted to workers who closed a channel early and wrote down why. The fourth to a Warden who went forty years without once looking in, and who did not want it.*
 
-**Custody and separate pieces:** The linked Reel/Lens record severs invasive memory pressure into approved custody without granting the bearer access to its contents; its two witness roles are identity and custody. That does not reconcile the suspended brass reel with the same item’s pale circular resting Lens. The Veil’s removable collar supports a name witness, while its private destruction rule is not permission to create a general personnel file. The Flask preserves one consent-bound replay and requires an owner or custody authority, purpose, count and release condition. Its source-work bonus does not name a stat beyond the check already specified. Keep memory loss, self-absence and increasing replay weight separate from the local claim that every piece trades the wielder’s memories for recovered lives.
+**Custody and separate pieces:** The linked Reel/Lens record severs invasive memory pressure into approved custody without granting the bearer access to its contents. Its two witness roles are identity and custody. That does not reconcile the suspended brass reel with the same item’s pale circular resting Lens. The Veil’s removable collar supports a name witness, while its private destruction rule is not permission to create a general personnel file. The Flask preserves one consent-bound replay and requires an owner or custody authority, purpose, count and release condition. Its source-work bonus does not name a stat beyond the check already specified. Keep memory loss, self-absence and increasing replay weight separate from the local claim that every piece trades the wielder’s memories for recovered lives.
 
 ### M.A.W. Use Notes
 
@@ -342,13 +347,13 @@ The Well is darker than water and warmer than stone. When you look down, the sur
 
 **With continued exposure:** Past the permitted interval the recovered past feels corrected rather than recalled: better ordered and dated, accurate enough that the observer may resist leaving. Keep the second observer at the clock and cover, not looking down. The shaft remains a well under the Archive; a stranger’s vivid recollection does not establish a newly walkable landscape in the chamber.
 
-**When the entity activates:** The bronze probe breaks the surface on its winch line. The liquid thickens and the chamber smells of ash and something faintly sweet; city recollection becomes available while recent working knowledge is taken from the channeler. Record the deliberate probe contact separately from the gauge threshold and from an observer looking into their own past. A channeled exchange is not permission to take a liquid sample.
+**When the entity activates:** The bronze probe breaks the surface on its winch line. The liquid thickens and the chamber smells of ash and something faintly sweet. City recollection becomes available while recent working knowledge is taken from the channeler. Record the deliberate probe contact separately from the gauge threshold and from an observer looking into their own past. A channeled exchange is not permission to take a liquid sample.
 
 **After departure:** You write something down. Archive staff do it within the day — a note, a date, a name against a face — and the station's briefing records it as the only after-effect in Zone A that improves the archive it came from.
 
 ### Interaction Pattern
 
-Keep the three recorded relations separate: the Memory Weaver removes exposed rim residue without a level change; the Broken Mirror once showed the shaft’s contents through a closed cover and the arrangement is prohibited; Silence We Forgot We Made suppresses the stone’s ring without changing level or temperature. These findings do not identify which pairing produced the separate exceptional fall in level reported by the Registry. Do not assign that fall to a named partner by table order alone.
+Keep the three recorded relations separate: the Memory Weaver removes exposed rim residue without a level change. The Broken Mirror once showed the shaft’s contents through a closed cover and the arrangement is prohibited. Silence We Forgot We Made suppresses the stone’s ring without changing level or temperature. These findings do not identify which pairing produced the separate exceptional fall in level reported by the Registry. Do not assign that fall to a named partner by table order alone.
 
 **Interaction method:** Level and temperature before, during and after, with the cover closed throughout wherever the pairing permits it. No observer who has looked into the shaft that month takes part in a pairing, and the Archive's watchkeeper attends every one.
 
@@ -359,7 +364,7 @@ Remembrance must be kept distinct from the other memory holdings. The Memory Maz
 
 | Related entity | What it is | What the level did | Required record |
 |---|---|---|---|
-| **The Memory Weaver** | It works toward the shaft and will take from the rim residue if the residue is left out. | Level unchanged; residue weight falls measurably between gauges. | Weigh the rim residue at the start and end of every session the Weaver is within the sector. |
+| [**The Memory Weaver**](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | It works toward the shaft and will take from the rim residue if the residue is left out. | Level unchanged; residue weight falls measurably between gauges. | Weigh the rim residue at the start and end of every session the Weaver is within the sector. |
 | **The Broken Mirror** | Brought within the chamber it shows what the shaft holds, to anybody, cover closed. This is the single most dangerous arrangement recorded here and it is prohibited. | One instance, under authority, lasting eleven seconds; three observers present and all three wrote in the chamber. | The prohibition and its date. No further record is to be generated. |
 | **Silence We Forgot We Made** | The dropped stone does not ring while that holding is in the sector. It is the only recorded condition that silences the ring. | Ring absent; level and temperature unaffected. | Drop the stone at fixed intervals and log the ring as present or absent, nothing more. |
 
@@ -367,7 +372,7 @@ Remembrance must be kept distinct from the other memory holdings. The Memory Maz
 
 ## 이야기 (Narratio) — The Tale
 
-Memory in Somnarak falls. The Keepers know this, though they do not say it aloud.
+There is a thing the Keepers know about memory and do not say aloud, and it is that memory falls.
 
 Everything sinks here — sorrow, names, faces, the small confirming details that make a life a life. The Weeping drinks what it can. But memory is heavier than sorrow, and it falls faster, and it falls in a particular direction: toward the Archive. The Keepers built the Archive to preserve what could be preserved, and they have done their work faithfully for four thousand years. But no Archive can hold everything. What the Keepers cannot record — the memories too small to write, too private to speak, too numerous to name — does not vanish. It falls. Down through the Archive's foundations, into the dark beneath, where it gathers.
 
@@ -379,7 +384,7 @@ Those who descend to the Well's edge feel the weight of unremembered life pressi
 
 The Keepers cannot empty the Well. They can only keep it from overflowing — and they fail, a little, every year, as more lives fall and fewer rememberers remain.
 
-Some sorrows mourn the dead. Remembrance mourns the unremembered — the lives that ended not with a death but with the last person who knew them forgetting, and the slow heavy falling of everything they were into a well beneath the Archive, where no one will ever think of them again.
+Some sorrows mourn the dead. Remembrance mourns the unremembered — the lives that ended not with a death but with the last person who knew them forgetting. And the slow heavy falling of everything they were into a well beneath the Archive, where no one will ever think of them again.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The Well holds lives no one remembers. It is the only thing that does.”* — Keeper, Archive
@@ -405,7 +410,7 @@ Some sorrows mourn the dead. Remembrance mourns the unremembered — the lives t
 **Observation Notes:**
 - Temperature and surface motion unchanged across the entire instrument series. Only the level moves.
 - A dropped stone rings in a voice. The voices have never been matched to anybody in the Archive's rolls, and the Archive has looked.
-**Cross-References:** The Grand Archive · the Archive watchkeeper · The Keepers · The Memory Maze · The Memory Weaver · The Broken Mirror · the Registry Office
+**Cross-References:** The Grand Archive · the Archive watchkeeper · The Keepers · The Memory Maze · [The Memory Weaver](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) · The Broken Mirror · the Registry Office
 **Faction Involvement:** Wound Walkers (Fracture-relevant)
 **Originator:** Nobody identifiable · recollection with no surviving claimant
 
@@ -432,7 +437,7 @@ The memories that collected beneath the Archive belong to people nobody is still
 
 The gauge against the shaft scale is the only figure this holding reports upward: 7 millimetres in the first annual series, 11 in the second, 16 in the third, with no inflow found and temperature and surface motion dead flat across the whole run. The rise has been held against the Archive's intake, against burials in the quarter, against the city's register of deaths. It matches none of them. It matches the number of people who ended their service with this Company in that year and left no Service Leaf behind them.
 
-This Company keeps no record indexed by a person. Files are opened for incidents, for machines, for posts and for places, and never for a human being; there is no personnel file, no conduct file, no service file, and a clerk who begins one is dismissed for it. The rule was made for cause and the cause is not disputed. Personal files were used to keep men out of work across the whole district, a supervisor's three-word note followed a fitter for twenty-two years, and the worst of them were accurate — which was the part that could not be argued with. The Registry was rebuilt by subject in Year 4221 and nobody proposes going back.
+This Company keeps no record indexed by a person. Files are opened for incidents, for machines, for posts and for places, and never for a human being. There is no personnel file, no conduct file, no service file, and a clerk who begins one is dismissed for it. The rule was made for cause and the cause is not disputed. Personal files were used to keep men out of work across the whole district, a supervisor's three-word note followed a fitter for twenty-two years, and the worst of them were accurate — which was the part that could not be argued with. The Registry was rebuilt by subject in Year 4221 and nobody proposes going back.
 
 Its consequence is that no working life at this Company exists anywhere as one thing. Forty years of a man's work sits scattered across a thousand subject files, under the name of the machine he tended and the stair he repaired and the fire he put out, and under no name of his own. He cannot be thanked by record, cannot prove he was here, and cannot be remembered by the institution in any form, because the institution has no shape in which a person fits. What is beneath the Archive is that: recollection with no claimant, draining to the lowest place that will hold it.
 
@@ -442,7 +447,7 @@ Authorised Year 4233. On discharge, or on death, one sheet may be compiled for a
 
 Year 4237: 1,702 discharges, 1,203 leaves issued. 499 were not. Of those, 402 could not be compiled at all, because the rosters are kept by crew and not by name and a short-service worker leaves no trace in them that a clerk can follow. 61 leaves were issued for the dead to a nominated person. 12 were refused because no nomination existed and the Company is not permitted to go looking for a relative.
 
-The costs are plain. A document with no retained copy cannot be checked, and two forged leaves are known to have been presented to other employers; the Company was asked to confirm them and could not, which is the system working as designed and did nothing for the honest men standing behind those two in the queue. The compiling clerk must read a worker's whole service across the wards to write the leaf, which is the personal file the rule forbids, assembled by hand for a day and carried out of the office in a clerk's head. And the 402 are exactly the people the scheme was meant for: the casual, the short-served, the ones with nobody to nominate.
+The costs are plain. A document with no retained copy cannot be checked. And two forged leaves are known to have been presented to other employers. The Company was asked to confirm them and could not, which is the system working as designed and did nothing for the honest men standing behind those two in the queue. The compiling clerk must read a worker's whole service across the wards to write the leaf, which is the personal file the rule forbids, assembled by hand for a day and carried out of the office in a clerk's head. And the 402 are exactly the people the scheme was meant for: the casual, the short-served, the ones with nobody to nominate.
 
 The clerks asked for a stub — a line kept in the office recording that a leaf was issued, to whom and when, so that a forgery could be answered. It was refused on the ground that a stub is a record of a record and the Archive does not hold those. The minute notes the request as sensible, the refusal as consistent with policy, and the four unrecorded issues that have since been disputed with nothing to check them against.
 

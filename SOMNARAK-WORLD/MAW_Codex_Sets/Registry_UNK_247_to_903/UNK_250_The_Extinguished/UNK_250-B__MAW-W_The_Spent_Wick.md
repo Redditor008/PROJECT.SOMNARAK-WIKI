@@ -37,14 +37,3 @@
 **Corrosion:** every light looks temporary; the wielder attacks help before it leaves; terminal use extinguishes support preemptively.  
 **Maintenance:** store beside an extinguished lamp whose ending was witnessed.  
 **Shutdown:** the support team states what ends and what remains before sheathing.
-
----
-
-**Document ID:** `UNK-250-B`  
-**Linked Entity:** `UNK-250`  
-**Item Registry Code:** `MAW-W-UNK-250-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Grudge |
 | Form | A half-arriving dream figure made from a warning crushed beneath red static, char scent, and dead signal pressure. |
-| Gauge / Pressure | 60–80% / Grudge 24–52 |
+| Gauge / Pressure | 000% / Grudge 24–52 |
 | Movement | Up to 2.45 m/s through dream-space |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Message That Failed |
@@ -45,10 +45,10 @@ The figure watches from the edge of sleep without stable eyes. Its voice collaps
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Whisper reforms and becomes partly audible. | Down | Repeat only confirmed sounds. |
-| Pugnahan | Dream-space collapses into red static. | Up | Do not force completion. |
+| Flerehan | Whisper reforms and becomes partly audible. | Decrease | Repeat only confirmed sounds. |
+| Pugnahan | Dream-space collapses into red static. | Increase | Do not force completion. |
 | Viderehan | Shows the danger and failed delivery. | Stable | Separate image, sound, timing, and inference. |
-| Ferrehan | Tests listening through distortion. | Down | Keep an awake recorder outside the dream. |
+| Ferrehan | Tests listening through distortion. | Decrease | Keep an awake recorder outside the dream. |
 
 **Resolution:** Capture fragments without inventing the missing message.  
 **Breach:** At 90% Gauge, dream-space spreads and half-heard secrets drive personnel into panic while Grudge pressure attacks Resilience.  
@@ -100,13 +100,3 @@ An echo forms after two dreamers report matching fragments without agreeing on a
 **Primary source:** `SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md`
 
 **Restricted note:** No warning fragment is to be published as a complete recovered sentence.
-
----
-
-**Document ID:** `SE-249-A`  
-**Linked Entity:** `SE-249`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

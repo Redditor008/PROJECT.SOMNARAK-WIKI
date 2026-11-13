@@ -19,10 +19,10 @@ The object formed from a promise that was used as a weapon. Betrayal—the grief
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIIγ-160 [GO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Grudge |
 | Coherence / Potency | Fragment (III) — Bitter and betrayed / Major (γ) |
 | Element / Location | Grudge / SECTOR-C-01, Collector's Row |
-| Gauge / Pressure | 693/693; starts 45–65% / 14–32 per hit · Grudge |
+| Gauge / Pressure | 000/693; starts 000% / 14–32 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A Collector promised debt relief, then used the promise to secure another obligation. |
 
@@ -30,17 +30,17 @@ The object formed from a promise that was used as a weapon. Betrayal—the grief
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the original promise and its betrayal. (Stable) |
 | Ferrehan | Tests whether the worker will make a promise without certainty. (Decrease) |
 
 **Trigger:** Speaking a promise while touching a shard.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1015 -->
+**Resolution:** Viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Facsimile Source-Trace*
 
-During the The Facsimile Source-Trace, the field team preserved this source fact: A Collector promised debt relief, then used the promise to secure another obligation. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Betrayal—the grief of believing words and discovering that they were never intended to hold.
+During *The Facsimile Source-Trace*, the field team preserved this source fact: A Collector promised debt relief, then used the promise to secure another obligation. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Betrayal—the grief of believing words and discovering that they were never intended to hold.
 
 ## M.A.W. SET — *Facsimile — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Facsimile Source-Trace, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Facsimile's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon opens only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Facsimile's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1015-A`  
-**Linked Entity:** `SE-1015`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Facsimile's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon opens only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The gauge opens at 000% of its 000/693 meter, and 14–32 per landed Grudge hit. The set cannot heal the originating event. Misuse routes Facsimile's wound through the operator and triggers the recorded escalation.

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Tide Stone
 
-> *“The Tide Stone remembers The Sorrow Tide; the bearer must not mistake memory for permission.”*
+> *"It becomes heavier and more saturated with every use and releases neither, until the bearer carries a small sea."*
 
 ---
 
@@ -17,23 +17,29 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Absorbs a limited amount of Tide pressure.  
-**Binding rule:** the bearer names The Sorrow Tide's event—Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.—and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
+**Binding rule:** the bearer names The Sorrow Tide's event — “Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.” — and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
+
+
+### Appearance
+
+A small stone, unremarkable by day, which cannot be lifted one-handed between sunset and dawn.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** Becomes heavier and emotionally saturated after each use. Continued use makes The Sorrow Tide's source sorrow feel autobiographical.
+**Operational / binding cost:** It becomes heavier and emotionally saturated after each use and releases neither: used long, the stone is a small saturated sea the bearer has to carry.
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Sorrow Tide Source-Trace: Stigma Record*
 
-The first The Tide Stone field bearer encountered this source response: The Tide reveals grief currents across the city. The stigma severs the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tide Stone encountered this source response: The Tide reveals grief currents across the city. The stigma severs the immediate hazard only after the team attributed it to The Sorrow Tide. A bearer carried a small saturated sea and could not put it down, and the Stone’s binding is the weigh-in from that handover.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Sorrow Tide's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the saturation arrives before the use, and the stone is heavier at the start of a watch than at the end of the last.
 - Terminal state: The Sorrow Tide's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Impossible; use Tide shelters and shared mourning protocols” reverses the item’s benefit and raises the source Gauge.  
@@ -42,15 +48,4 @@ The first The Tide Stone field bearer encountered this source response: The Tide
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Tide — Witnessed Form*, The Tide Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1027-D`  
-**Linked Entity:** `SE-1027`  
-**Item Registry Code:** `MAW-G-1027-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *The Sorrow Tide — Witnessed Form*, The Tide Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone drops out of the set on a day it weighs what it weighed when it was found.

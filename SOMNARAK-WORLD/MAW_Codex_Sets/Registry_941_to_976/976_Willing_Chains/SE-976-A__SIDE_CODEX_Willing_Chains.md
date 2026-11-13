@@ -19,10 +19,10 @@ The Chain formed from bonds that became imprisonment. The grief of being held by
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-976 [O] |
-| Type / Manifestation | Subject — Can breach / Subject-Grudge |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 855/855; starts 60–80% / 24–53 per hit · Void |
+| Gauge / Pressure | 000/855; starts 000% / 24–53 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A district was bound by debt and duty until the obligations became a living chain. |
 
@@ -40,7 +40,7 @@ The Chain formed from bonds that became imprisonment. The grief of being held by
 
 ## WITNESS RECORD — *The Willing Chains Source-Trace*
 
-During the The Willing Chains Source-Trace, the field team preserved this source fact: A district was bound by debt and duty until the obligations became a living chain. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being held by systems, promises, or relationships that no longer protect.
+During *The Willing Chains Source-Trace*, the field team preserved this source fact: A district was bound by debt and duty until the obligations became a living chain. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being held by systems, promises, or relationships that no longer protect.
 
 ## M.A.W. SET — *Willing Chains — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Willing Chains Source-Trace, the field team preserved this source
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Willing Chains's source condition, the Suit lets a witness bear its Void pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not cut blindly; identify what each chain represents The set cannot heal the originating event. Misuse routes Willing Chains's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-976-A`  
-**Linked Entity:** `SE-976`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

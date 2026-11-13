@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "batch": 195,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 51,
+  "short_repairs": 16,
+  "careful_repairs": 35,
+  "before_words": 41014,
+  "after_words": 42099,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 45,
+  "pending_fingerprints_unchanged": 45,
+  "source_changes": 0,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": "PASS",
+  "final_words": {
+    "C-IIIγ-102": 8420,
+    "C-IIIγ-448": 8428,
+    "C-IVδ-220": 8358,
+    "O-Iα-340": 8411,
+    "N-Iα-785": 8482
+  },
+  "counters": {
+    "types": "286/301",
+    "weapon": "284/287",
+    "se_appearance_fix": "18/301"
+  },
+  "fresh_credits": [
+    {
+      "designation": "C-IVδ-220",
+      "types": 1,
+      "weapon": 1,
+      "se": 0
+    }
+  ],
+  "ledger": {
+    "changed": 14,
+    "retained": 4,
+    "held": 236,
+    "blocked": 2,
+    "pending": 45
+  },
+  "next": "Batch 196 opens on a fresh ranking of the 45 pending dossiers in this same prompt; Units 1–4 complete the ten-review ceiling as reviews 7–10."
+}

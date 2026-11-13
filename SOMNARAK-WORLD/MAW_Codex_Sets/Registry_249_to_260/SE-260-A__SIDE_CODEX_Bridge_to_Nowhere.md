@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Lament |
 | Form | A memory-crystal bridge of worn route stones rising over no physical gap and connecting shores that no longer exist. |
-| Gauge / Pressure | 60–80% / Lament 22–48 |
+| Gauge / Pressure | 000/420; starts 000% / Void — no attack pattern; the span measured out and back is the reading |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Remembered Crossing |
 
@@ -44,10 +44,10 @@ The Bridge sings while forming and may rise over flat ground. Its stones are sal
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears do not establish a shore. |
-| Pugnahan | Not valid; shaking loosens memory-planks. | N/A | Never test the span by force. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not establish a shore. |
+| Pugnahan | Not valid; shaking loosens memory-planks. | Negative-Low | Never test the span by force. |
 | Viderehan | Reveals the route and former travelers. | Stable | Map the remembered route as historical. |
-| Ferrehan | Requires crossing without claiming it as present. | Down | Carry a current-location anchor. |
+| Ferrehan | Requires crossing without claiming it as present. | Decrease | Carry a current-location anchor. |
 
 **Resolution:** Mark the crossing as memory and allow the Bridge to settle.  
 **Expansion:** Collective remembrance raises the span; visitors experience another person’s journey as their own.  
@@ -99,13 +99,3 @@ A stable echo remains only after a complete Ferrehan crossing whose entry and ex
 **Primary source:** `SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md`
 
 **Formal-ID note:** `SE-260` is assigned to Bridge to Nowhere. The Sorrow Tide (`C-Vγ-260`) remains deferred for a unique formal ID.
-
----
-
-**Document ID:** `SE-260-A`  
-**Linked Entity:** `SE-260`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

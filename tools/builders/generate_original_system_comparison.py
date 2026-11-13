@@ -130,7 +130,7 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 ### 6.2 The Updated Two-Work-Type Rule (Non-Subject Entities)
 - **In Lobotomy Corporation:** Employees perform all four work types on almost all Abnormalities.
 - **In Project Somnarak:** All **Object (`[O]`)**, **Place (`[P]`)**, **Time (`[T]`)**, and **Hazard (`[H]`)** entities can **ONLY** be worked with **Viderehan and Ferrehan**.
-- **Flerehan and Pugnahan are strictly `N/A`:**
+- **Flerehan and Pugnahan are barred on those classes, and the cell carries a word:** **Net-Neutral** below a Threat Score of 6, **Negative-Low** at 6 or more (`R-41`).**
   * Inanimate objects, rooms, and temporal phenomena have no emotional consciousness to comfort (invalidating Flerehan).
   * Inanimate relics and districts have no biological body or anatomical center to strike (invalidating Pugnahan).
   * Performing Flerehan or Pugnahan on an inanimate SE causes automatic work failure, severe psychic backfire, and an immediate Sorrow Gauge surge.
@@ -178,7 +178,7 @@ Both systems utilize a four-element damage and defense architecture:
 |---|---|---|
 | **Sub-Types** | Single-Use, Equippable, Channeled / Continuous. | **A-Relics** (Consumable), **O-Relics** (Wearable), **I-Relics** (Stationary). |
 | **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Retains identical capability badges in all 82 Relic-Entity dossiers. |
-| **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan strictly N/A. |
+| **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan are barred: **Net-Neutral** below a Threat Score of 6, **Negative-Low** at 6 or more. |
 | **Documentation** | Tiered log entries unlocked by usage count or duration. | **Progressive 4-Tier Log & Method Tables** (Tier I: Appearance → Tier IV: Origin Tale). |
 
 ---

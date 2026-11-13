@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Sky of Borrowed Faces's Token
 
-> *“Sky of Borrowed Faces's Token remembers Sky of Borrowed Faces; the bearer must not mistake memory for permission.”*
+> *"The bearer's grief arrives with somebody else's face on it, and they wake having mourned as a person they never met."*
 
 ---
 
@@ -16,45 +16,35 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Lament  
-**Canonical ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.   <!-- SE-926 -->
-**Binding rule:** the bearer names Sky of Borrowed Faces's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
+**Binding rule:** the bearer names Sky of Borrowed Faces's event — “There was no event. The register was photographed at intake, as it had always been, and the photographs were put to work: recruitment boards, hazard briefings, memorial walls, the induction primer. Every use was approved. Every use was well intended. The surface count began to be kept in Year 4219 because a Warden noticed there was something to count.” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
-Sky of Borrowed Faces's Token is the stigma record of its set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's phantasmal sorrow, crystallized into wearable form, a shard of overcast that still holds the outline of somebody's someone. Binding names Sky of Borrowed Faces's event — Not recorded, every face in it borrowed and none of them returned — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost arrives in sleep: the bearer dreams in tears drawn from the Sky's sorrow and wakes with another person's grief still present, a mourner for faces they never met. The source-trace fixed doctrine: the hazard permits study, its phantasmal pressure becoming legible under sustained observation, and the Token contains the hazard only after attribution to Sky of Borrowed Faces. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Sky of Borrowed Faces's Token is the stigma record of its set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's phantasmal sorrow, crystallized into wearable form, a shard of overcast that still holds the outline of somebody's someone. Binding names Sky of Borrowed Faces's event — Not recorded, every face in it borrowed and none of them returned — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the feature: the bearer's grief arrives with somebody else's face on it, and a season of it leaves them mourning as a person they have never met. The source-trace fixed doctrine: the face count reads as what is being borrowed, and the Token contains the hazard only after attribution to Sky of Borrowed Faces. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer dreams in tears drawn from Sky of Borrowed Faces's sorrow and wakes with another person's grief still present. Continued use makes Sky of Borrowed Faces's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token is a face the bearer did not earn: it fills their sleep with a grief belonging to somebody with their features, and they wake having mourned as that person.
 
 ## ITEM-SPECIFIC HISTORY — *The Sky of Borrowed Faces Source-Trace: Stigma Record*
 
-The first Sky of Borrowed Faces's Token field bearer encountered this source response: Permits study; the phantasmal pressure becomes legible under sustained observation. The stigma contains the immediate hazard only after the team attributed it to Sky of Borrowed Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Sky of Borrowed Faces's Token field bearer encountered this source response: Count the faces at the perimeter and take the band as it opens; what the sky is borrowing is legible in the count, and whose it was is not. The stigma contains the immediate hazard only after the team attributed it to Sky of Borrowed Faces. A bearer woke having mourned as somebody else in a face they were wearing, and the Token’s binding is the dream record from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Sky of Borrowed Faces's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the grief arrives with a household in it the bearer can describe and has never visited.
 - Terminal state: Sky of Borrowed Faces's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-926 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Sky of Borrowed Faces's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Sky of Borrowed Faces's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Sky of Borrowed Faces — Witnessed Form*, Sky of Borrowed Faces's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-926-D`  
-**Linked Entity:** `SE-926`  
-**Item Registry Code:** `MAW-G-926-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Sky of Borrowed Faces — Witnessed Form*, Sky of Borrowed Faces's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a night the bearer dreams in their own face.

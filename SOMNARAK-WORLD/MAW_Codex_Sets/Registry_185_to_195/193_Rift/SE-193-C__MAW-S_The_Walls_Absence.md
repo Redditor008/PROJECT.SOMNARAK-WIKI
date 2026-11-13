@@ -22,6 +22,8 @@ The Wall’s Absence is a black veil-suit that reads less as fabric than as a ga
 
 ## PROTECTION STATISTICS
 
+**Grade / Element:** δ / Weight
+
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded |
@@ -39,14 +41,3 @@ The veil darkens when a passage is closed for convenience and becomes heavy when
 ## SET RELATIONSHIP
 
 It is the containment layer of *Cross With Witness*, preventing Maul force and Charm insight from becoming another wall.
-
----
-
-**Document ID:** `SE-193-C`  
-**Linked Entity:** `SE-193`  
-**Item Registry Code:** `MAW-S-193-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

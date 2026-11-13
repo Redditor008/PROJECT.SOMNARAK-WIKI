@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Reflection Lens
 
-> *“The Reflection Lens remembers Honest Reflection; the bearer must not mistake memory for permission.”*
+> *"It shows a person what they are and charges the wielder for the showing. They end up remembering other people's faces and not what they were looking at."*
 
 ---
 
@@ -17,7 +17,13 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Honest Reflection's void signature in the strike.  
-**Binding rule:** the bearer names Honest Reflection's event—Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Honest Reflection's event — “Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.” — and accepts this limit: viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time.  
+**Gauge:** 000/226; opens at 000%; 3–10 per landed Void hit.
+
+
+### Appearance
+
+A ground glass disc that glows along the edge when readied and shows, on its face, whoever is holding it at the age they most often think about.
 
 ## CORE STATISTICS
 
@@ -25,33 +31,26 @@
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Honest Reflection's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
+**Operational / binding cost:** The Lens shows a person what they are and charges the wielder for the showing in small, nameless memories. Wielded long, the wielder remembers other people's faces and not what they were looking at.
 
 ## ITEM-SPECIFIC HISTORY — *The Honest Reflection Source-Trace: Weapon Record*
 
-The first The Reflection Lens field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon severs the immediate hazard only after the team attributed it to Honest Reflection. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Reflection Lens encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon severs the immediate hazard only after the team attributed it to Honest Reflection. A wielder remembered other people’s faces and not what they had been looking at, and the Lens’s binding is the sitting record from that session.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Honest Reflection's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the showing starts costing memories the wielder is using, and the room they are standing in goes first.
 - Terminal state: Honest Reflection's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1009 -->
+**Failure mode:** violating “viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time.” reverses the item’s benefit and raises the source Gauge — a 000/226 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Reflection Lens only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Reflection Lens; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Honest Reflection — Witnessed Form*, The Reflection Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1009-B`  
-**Linked Entity:** `SE-1009`  
-**Item Registry Code:** `MAW-W-1009-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Honest Reflection — Witnessed Form*, The Reflection Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a showing that costs its wielder nothing.

@@ -20,7 +20,7 @@ An empty-crystal bridge spreads across Collector’s Row ledgers without connect
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Grudge |
-| Gauge / Pressure | 35–50% / 7–17 |
+| Gauge / Pressure | 000/660; starts 000% / Grudge — no attack pattern; how far the span reaches across the ledgers is the reading |
 | Observation | 2 |
 | Set | The Mutual Crossing |
 
@@ -43,13 +43,3 @@ An echo forms when both people independently consent to one temporary connection
 Bracelet verifies reciprocity, Plate distributes only consented load, and Fang removes forced attachment. A mutual connection may stand temporarily; otherwise the Bridge settles without blaming either shore. Pretending consent makes one operator carry the whole span.
 
 **Source:** `SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md`
-
----
-
-**Document ID:** `SE-488-A`  
-**Linked Entity:** `SE-488`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

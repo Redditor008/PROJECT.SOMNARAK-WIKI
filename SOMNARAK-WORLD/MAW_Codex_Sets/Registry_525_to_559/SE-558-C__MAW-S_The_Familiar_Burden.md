@@ -32,7 +32,7 @@ It formed beside Emberroot after Iseulfros endured the creature’s underground 
 
 ## Appearance
 
-The Familiar Burden is a black garment of Han weave with weighted hems and warm root- stitching across the back — active, it settles as if generations of hands pull downward. Only a wearer who arrives without a family ledger may bind it; a written debt record causes the collar to close before deployment, and rejected wearers feel nostalgia for duties never carried. It formed after a wearer endured the creature’s underground fire without claiming the endurance made it meaningful. In the field its Generational Brace spreads repeated physical or emotional strain across the root- stitching rather than letting it accumulate at one body point — the load is not removed, but no recurrence becomes the wearer’s definition, and the protection lasts only while the wearer can state what the burden is for. The gait slows as strain is absorbed, and its long cost is that the mantle’s absence begins to feel unsafe. At three simultaneous recurring loads the hem roots into the floor; a fourth makes the suit classify the wearer as structural support and resist removal. Its recorded case ended when the wearer could name no remaining task and the mantle released — longing for its weight is an overload symptom, not dedication.
+The Familiar Burden is a black garment of Han weave with weighted hems and warm root-stitching across the back — active, it settles as if generations of hands pull downward. Only a wearer who arrives without a family ledger may bind it; a written debt record causes the collar to close before deployment, and rejected wearers feel nostalgia for duties never carried. It formed after a wearer endured the creature’s underground fire without claiming the endurance made it meaningful. In the field its Generational Brace spreads repeated physical or emotional strain across the root-stitching rather than letting it accumulate at one body point — the load is not removed, but no recurrence becomes the wearer’s definition, and the protection lasts only while the wearer can state what the burden is for. The gait slows as strain is absorbed, and its long cost is that the mantle’s absence begins to feel unsafe. At three simultaneous recurring loads the hem roots into the floor; a fourth makes the suit classify the wearer as structural support and resist removal. Its recorded case ended when the wearer could name no remaining task and the mantle released — longing for its weight is an overload symptom, not dedication.
 
 ## PROTECTIVE FUNCTION
 
@@ -65,14 +65,3 @@ The inner lining still carries five cool handprints. A sixth appears whenever a 
 The Maul breaks manifested inheritance, the mantle bears the lawful release shock, and the Charm prevents a name from being entered as collateral. Full-set corruption turns shared support into a new family chain.
 
 > *“I did not fear its weight. I feared how quickly weight became proof that I was needed.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-558-C`  
-**Linked Entity:** `SE-558`  
-**Item Registry Code:** `MAW-S-558-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

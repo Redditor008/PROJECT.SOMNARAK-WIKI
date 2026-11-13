@@ -2,7 +2,7 @@
 
 > *“Speed determines the strike, range dictates the ground, and pressure writes the epitaph.”*
 
-The **Tactical Engine**  [전술 교전 엔진]  (_Jeonsul Gyojeon Enjin_) defines the real-time combat resolution, hitbox mechanics, and attack frame calculations utilized during containment suppressions in [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
+The **Tactical Engine**  [전술 교전 엔진]  (_Jeonsul Gyojeon Enjin_) defines the real-time combat resolution, hitbox mechanics, and attack frame calculations utilized during containment suppressions in [SOMNARAK-WORLD](../README.md).
 
 When a [Sorrow Entity](07-Sorrow%20Entities.md) breaks containment or an [Ordeal](10-Ordeals.md) manifests in a corridor, the game shifts from passive management into intense, real-time tactical combat. Mastering weapon timing, attack ranges, and clash dynamics is essential to preventing squad wipes.
 

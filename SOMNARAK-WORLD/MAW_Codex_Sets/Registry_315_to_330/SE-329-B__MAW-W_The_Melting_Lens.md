@@ -28,6 +28,10 @@ The Melting Lens is a pale disc of Han glass whose edge softens false architectu
 |---|---:|---|---|---:|
 | α / Void | 3–6 | 2 — Normal / 2 — Short | Single; 100% | 5 / 15 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
 **False-Form Melt:** Targets one reconstruction falsely presented as the original plan. It cannot strike the historical outline or prove a current design authentic.
 
 **Cost:** One small nameless memory per use.
@@ -39,14 +43,3 @@ The Melting Lens is a pale disc of Han glass whose edge softens false architectu
 - **Plan possession:** wielder claims authority over intended occupants.
 
 **Maintenance:** Place plan and current-site map on opposite sides. Clear only material unsupported by either historical evidence or current use.
-
----
-
-**Document ID:** `SE-329-B`  
-**Linked Entity:** `SE-329`  
-**Item Registry Code:** `MAW-W-329-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

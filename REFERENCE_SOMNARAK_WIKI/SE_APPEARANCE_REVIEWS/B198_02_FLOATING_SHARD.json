@@ -1,0 +1,158 @@
+{
+  "designation": "C-IVδ-503",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-503_Floating_Shard_떠다니는_조각.md",
+  "words": 8455,
+  "sha256": "f9d1b000de9790fe2eb43059a6fef44273d26a549c9002afb208c51c5e130303",
+  "unit": 2,
+  "name": "Floating Shard",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_02_FLOATING_SHARD.md",
+  "before_words": 8455,
+  "after_words": 8704,
+  "base": "c793689df0eba3b50b54c960dc3b14f865fa1ec1",
+  "final_sha256": "8f26dcd2ca0c4b369d08a7082e660fcef75ad57e907974705bf9ea5fd37a856e",
+  "summary": "Nine source-supported repairs (1 short / 8 careful): one large shard that has never struck first, never descended and never left its bay stops multiplying into orbiting constellations, accelerating at faces, converging inward and raining glass in five combat rows; the rows return to the file's mirrored-injury and brightness doctrine. HELD; no credit (in-file full-set source review dated 2026-10-11; direct SE-503).",
+  "commentary": "The holding's whole ethics hang on a refusal: *we do not make the points* — a calibration curve of twenty-three real injuries, two of them doubted, that the wing will not improve by hurting anyone. Against that, the combat table had the Shard doing the one thing its record is built on never doing: initiating harm, in swarms, at speed, out of the sky. Every injury in this bay is a mirrored one, and the repairs put the mechanism back: what acts now is legibility and return, with the shard aloft exactly where the painted scale says it is.",
+  "reasoning": "Identity is direct: Side A carries SECC Designation `C-IVδ-503 [N]`, Related Entity SE-503, set 4/4 (*The Limited Witness*), and a Source line naming this primary; items B/C/D match the primary's Requiem/Shroud/Lantern cores at α beneath the δ source. R-18 split declared before editing: one short (the Clash phase's sixteen turns against the record's Long — 24 turns) and eight careful (five combat rows making a single aloft shard mesmerize, multiply into an orbiting constellation, accelerate at a face, converge from every bearing and rain down, against 'It has never struck first… has never moved toward a person… never descended to the floor… has never left the bay' and the mirrored-injury rule 'harm done under the Shard returns to the person who did it'; an unmeasured per-turn Composure drain presented as fact beside the file's carefully labelled modelled figures; Story Entry 2 relocating the entity across adjacent facilities; a Registry Trivia Han-field bleed to neighbouring holdings against the event banner 'nothing has left it'). R-33 chain: a Forge worker's helpless compassion crystallised → figure held in aloft crystal, brightening near injury → witnessing that makes suffering legible without spending it → calibration via real reported injuries only → harm in the bay returned to its doer. The 2026-10-11 holds (Floating Shard vs Hover titles, Range 2 vs the Medium Wound-Holding Blade band, unmapped Suit/Stigma subtypes) were preserved exactly; no title, form, band or subtype was normalized.",
+  "history": "Formed from one Forge worker who watched dozens Fracture with neither standing to intervene nor anybody to call; subsequent history includes the two recorded Corrupt events, four refused curve-widening proposals, four declined underwriting approaches, and nine conceded claims across nine years under the external adjudicator. Fresh equipment credit BARRED: the primary contains a dated in-file 'Full-set source review (2026-10-11)' against Side SE-503-A, items SE-503-B/C/D, Registry rows 703-706, Master Codex 286-288, Tale 96 and both MAW-W-503 archetype records, with an explicit Holds paragraph. Ledger `equipment_reviews` has no C-IVδ-503 entry. Therefore Equipment reviewed +0/+0; Types and Weapon unchanged at 286/301 and 284/287.",
+  "holds": [
+    "Title fork: primary/Master *Floating Shard Requiem/Shroud/Lantern* vs Side/item *Hover Requiem/Shroud/Lantern*. Held as the 2026-10-11 review left it; no title normalized.",
+    "Weapon band: primary Range 2 (Short) vs the first `MAW-W-503` Wound-Holding Blade (Medium), with a later similarity-sweep Broken-Back Seax supplying no band or crosswalk. No transition inferred. Held.",
+    "Suit/Stigma subtypes: Master table's 'Hauberks & Chain Mail' and 'Relic Drops & Seeds' against the linked silk Shroud and Tail Lantern; Registry row 706 generic Accessory vs Tail. No crosswalk supplied or invented. Held.",
+    "The calibration curve's two doubted points (claims the wing believes unfounded, irremovable by design): the curve is known to be slightly wrong in an uncorrectable direction and is published as such. Held.",
+    "What the Shard responds to in a distressed entity (brightest reading during a neighbouring suppression, not a personal injury): recorded as observation without mechanism. Held."
+  ],
+  "split": [
+    1,
+    8
+  ],
+  "repairs": [
+    {
+      "id": "R1-lazy-drift",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Lazy Drift* [**Debuff**] } | \"A shard drifts past — slow, spinning, catching the light — and you cannot look away from the break.\" | [The Shard mesmerizes the target; the edge reflects their own fractures.] | *Target suffers -10 Composure; they see themselves in the break.* **[10 Lament DMG [Lament]]** | When the Shard drifts near. |",
+      "new": "| { *The Lazy Drift* [**Debuff**] } | \"It does not mesmerize and it does not catch the light on purpose — one large shard holding height, turning slowly, with the figure inside turning as it turns. People look because the pity is already looking at them.\" | [Brightness is not an identification; the light in this state is a reading about the room, and it rises near whoever is hurt in it.] | *Target suffers -10 Composure; what they see in the break is their own unlogged injury, read back to them.* **[10 Lament DMG [Lament]]** | When the drift crosses the bay. |"
+    },
+    {
+      "id": "R2-the-gathering",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Gathering* [**Debuff**] } | \"More shards appear — orbiting you slowly, a constellation of sharp edges.\" | [The Shard multiplies; the target is ringed by drifting glass.] | *Target loses 10 Composure; every direction has an edge.* **[10 Lament DMG [Lament]]** | When the target remains still. |",
+      "new": "| { *The Gathering* [**Debuff**] } | \"It does not multiply and there is no orbiting constellation of sharp edges — there is one shard, and the fragments it sheds are inert, collected by hand and stored. What gathers is attention, and all of it lands on the person who is hurt.\" | [Eleven times the light has come up with nothing logged; eleven times somebody turned out to be injured.] | *Target loses 10 Composure; every direction they turn, the witnessing is already there.* **[10 Lament DMG [Lament]]** | When the target remains still and unreported. |"
+    },
+    {
+      "id": "R3-sudden-spin",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Sudden Spin* [**Attack**] } | \"The shard stops drifting — and accelerates, straight at your face.\" | [A shard shoots from its orbit at the target.] | *Inflicts Lament pressure and one clean, glassy cut.* **[14-22 Lament DMG [Lament]]** | When the Shard is disturbed. |",
+      "new": "| { *The Sudden Spin* [**Attack**] } | \"It has never accelerated at anybody's face and never struck first — every injury recorded in this bay is a mirrored one. What turns sharply is the figure inside, toward the exact person who has just been hurt.\" | [Harm done under the Shard returns to the person who did it, matched in kind and in place; nothing here needs to move for that.] | *Inflicts Lament pressure — the cut, where one occurs, is the doer's own, returned.* **[14-22 Lament DMG [Lament]]** | When anything inside the bay is cut, struck or dropped. |"
+    },
+    {
+      "id": "R4-full-cluster",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Full Cluster* [**Attack**] } | \"Every fragment goes inward at once — the bay's whole drift turning on one point.\" | [The Shard-cloud closes on the target from every bearing at once.] | *A heavy Deep Blue convergence; the target's Sorrow Gauge surges 15%, and the fragments return to the drift afterward rather than falling.* **[24-36 Lament DMG [Lament]]** | When the Shard is caught, or when anything in the bay is struck. |",
+      "new": "| { *The Full Cluster* [**Attack**] } | \"No cloud closes in; the shard does not converge on a point and has never moved toward a person. What converges is the room's record of itself — every injury in the bay becoming legible at once, to everyone standing in it.\" | [Pugnahan splits fragments away and raises the gauge; the fragments shed are collected within the shift and are never left overnight.] | *A heavy Deep Blue legibility; the target's Sorrow Gauge surges 15% under the weight of what can suddenly be seen and cannot be un-seen.* **[24-36 Lament DMG [Lament]]** | When the Shard is confronted, or when anything in the bay is struck. |"
+    },
+    {
+      "id": "R5-shard-constellation",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Shard Constellation* [**Ultimate**] } | \"The drift stops — every piece of it held still in the air — and then the whole sky of it comes down.\" | [The field is blanketed by fragment-fall that does not stop when the turn does.] | *All in range suffer Lament pressure for three turns in the glass rain; the weeping is audible through the seal for the whole of it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Shard Constellation* [**Ultimate**] } | \"The whole sky of it does not come down — it has never descended to the floor and the net above the heat column has never been contacted. What comes down is the sound: the bay warps in place and the weeping becomes audible across the whole Forge floor.\" | [Seal the bay and endure; the pressure pools in the chest of everyone inside, and stops when the work inside stops.] | *All in range suffer Lament pressure for three turns inside the sealed volume; the weeping is audible through the seal for the whole of it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+    },
+    {
+      "id": "R6-clash-turns",
+      "kind": "short factual correction",
+      "careful": false,
+      "old": "2. **Clash:** Sixteen turns, worked from the marked standing positions at the edge of the bay.",
+      "new": "2. **Clash:** Twenty-four turns, worked from the marked standing positions at the edge of the bay."
+    },
+    {
+      "id": "R7-escalation-drain",
+      "kind": "careful event correction",
+      "careful": true,
+      "old": "| **Escalation** | Each turn the volume holds, the crying rises and Composure drains 5 further; the drain has never been observed to fall while anything is being cut, struck or thrown inside the seal, and it stops when the work inside the bay stops. |",
+      "new": "| **Escalation** | Each turn the volume holds, the crying rises and the will to continue thins further; the effect has never been observed to ease while anything is being cut, struck or thrown inside the seal, and it stops when the work inside the bay stops. No per-turn drain figure has ever been measured from inside a event. |"
+    },
+    {
+      "id": "R8-story-entry-2",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "Floats through Forge District and adjacent facilities. Personnel feel consuming pity and rage at suffering. Its fragments dissolve after an entity or person is acknowledged.",
+      "new": "Holds height over the Forge bay; it has never left it and never descended to the floor. Personnel feel consuming pity and rage at suffering. A shed fragment dissolves once the pain it holds has been acknowledged aloud by anybody at all."
+    },
+    {
+      "id": "R9-trivia-containment",
+      "kind": "careful trivia correction",
+      "careful": true,
+      "old": "- **Containment detail:** Containment holds the volume and not the sorrow: even sealed, the Shard alters the local Han field beside it, and the adjacent holdings report dreams, headaches and gauge drift while it is aloft. The bay's own instrument is the brightness reading, which requires an injury to exist before it will say anything.",
+      "new": "- **Containment detail:** Containment holds the volume and not the sorrow: nothing has left the bay, the net above the heat column has never been contacted, and the floor beneath the volume is simply kept clear. The bay's own instrument is the brightness reading, which requires an injury to exist before it will say anything."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVδ-503_Floating_Shard_떠다니는_조각.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.030  clean   859 grams  M.A.W. Equipment\n 0.016  clean   707 grams  감각 묘사 (Flavor Text)\n 0.015  clean   775 grams  Combat Record\n 0.011  clean   178 grams  Operational Parameters\n 0.011  clean   184 grams  Trivia\n 0.010  clean    96 grams  최종 관찰 (Final Observation)\n 0.009  clean   430 grams  관찰 기록 (Observation Log)\n 0.003  clean  1461 grams  Apex Record\n 0.000  clean   392 grams  이야기 (Narratio)\n 0.000  clean   390 grams  기록 (Registrum)\n 0.000  clean   265 grams  이야기 보고 (Story Log)\n 0.000  clean   254 grams  Appearance\n 0.000  clean   203 grams  Containment Event Behavior\n 0.000  clean   153 grams  Behavior\n 0.000  clean   151 grams  Origin\n 0.000  clean    42 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle, drawn from the compassion the crystal holds rather than from \n   55   4  | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the mirrored injury, wh\n   85   6  | { *The Shard Constellation* [**Ultimate**] } | \"The whole sky of it does not come down — it has never descended to the floor and\n   91   2  3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Do not dismiss the pain or promise\n  176   1  **Appearance:** a slender blade of Lament Han-crystal that stays cold in a bay that runs hot, and that flickers from inside when w\n  184   2  **Ability:** Lament damage against the Mind — emotional stability and willpower — carried in the strike as this holding's own sign\n  235   1  **Stat interpretation:** The grade states what a piece can do and says nothing about what it shows the person wearing it. Nothing \n  237  22  **Full-set source review (2026-10-11):** Reviewed the `δ · α` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Note\n  262   4  **Observation method:** Observe from the marked positions at the bay edge and never from directly beneath; the floor below is clea\n  288   1  | Do the thing on file: stand at the marked position and let the pity be what it is, without dismissing it and without promising a\n  311   3  **Interaction method:** Baseline each holding alone first, on separate shifts where the bay's own brightness series can be read wi\n  316   3  This holding is read against the other things in the district that witness or convert suffering. The three relations below have al\n  318   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  324   6  **Interaction procedure:** Record each holding independently first, with its own series, and treat the paired reading as a compari\n  435   4  The staff association's objection is minuted at every annual review. The adjudicator is independent and is paid by one side; the f\n  446   2  - **Classification detail:** Floating Shard is a Subject with Entity (IV) coherence and Critical (δ) potency, and the standing des\nGENERIC 0.010  (65 shared shingles)  SE-C-IVδ-503_Floating_Shard_떠다니는_조각.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-A__SIDE_CODEX_Hover.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-B__MAW-W_Hover_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-C__MAW-S_Hover_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-D__MAW-G_Hover_Lantern.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-A__SIDE_CODEX_Hover.md": "f5ad4c5bcb4fc67f5d80e508571e610b2bfdf81c6b76bdb7c0d3fb5792d5fd9e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-B__MAW-W_Hover_Requiem.md": "340bf813154f8a60b04691eb739a6d2957d2721126427f6133d1252222244362",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-C__MAW-S_Hover_Shroud.md": "e472641d817c3cb67221555aee6211b89afeaf168c037a489130546f5ed4b8a3",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-D__MAW-G_Hover_Lantern.md": "e7f2bec755dc7f434fb9780403bc97041b45346b71a167a398705afabee605e6"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVδ-503_Floating_Shard_떠다니는_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-503_Floating_Shard_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EC%A1%B0%EA%B0%81.md \"SE-C-IVδ-503_Floating_Shard_떠다니는_조각.md\")]",
+  "table_link": "[[SE-C-IVδ-503 Floating Shard](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-503_Floating_Shard_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EC%A1%B0%EA%B0%81.md \"SE-C-IVδ-503_Floating_Shard_떠다니는_조각.md\")]",
+  "reading": {
+    "before_lines": 456,
+    "before_bytes": 51249,
+    "final_lines": 456,
+    "final_bytes": 52544
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 33,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": "Digits changed by provenance documented inside repairs: the unmeasured 'Composure drains 5 further' per-turn figure (5) was removed; the Clash phase's turn count was aligned in words to the record's 24-turn length. All hard series retained (23 points, 11 unlogged rises, 9 claims, 14-month median)."
+  }
+}

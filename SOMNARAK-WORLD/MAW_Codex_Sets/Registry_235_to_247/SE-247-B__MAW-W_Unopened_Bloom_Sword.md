@@ -28,6 +28,10 @@ The Unopened Bloom Sword is a narrow crimson sword of Han iron whose flat resemb
 |---|---:|---|---|---:|
 | α / Grudge | 3–6 | 2 — Normal / 2 — Short | Single; 100% | 5 / 15 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
 **Petal Contact:** The flat heals one minor current wound. The edge deals Grudge pressure. Healing the source tear, a memorial scar, or a wound the bearer needs hidden causes the blade to cut instead.
 
 **Cost:** The wielder’s touch harms people they love until the weapon is discharged and cleared.
@@ -43,14 +47,3 @@ Charm identifies the original tear; Plate guards; Sword treats only new injury. 
 **Maintenance:** Lay the Sword beside—not on—the damaged memorial. The healed person verifies what was treated, and the witness names what remains torn. The flat cools before the edge.
 
 **Shutdown:** Place the weapon beyond arm’s reach of loved ones and open both hands. Do not pass it hand-to-hand.
-
----
-
-**Document ID:** `SE-247-B`  
-**Linked Entity:** `SE-247`  
-**Item Registry Code:** `MAW-W-247-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

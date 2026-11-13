@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Remembrance work |
 | Bestowal event | The Flask appeared in the Archive basin after a viewer acknowledged an unremembered reflection and left without copying it. |
 | Acceptance condition | The candidate names a memory owner, a custody authority, and a maximum replay count before storage. |
@@ -53,7 +54,7 @@
 
 ### Appearance
 
-The Memory Flask is a small round flask of dark blue Han glass with a narrow neck, a cork stopper, and a short chain worn at the side. The glass is smooth and cold, deepening in colour as a stored memory gains emotional weight. It preserves one memory against immediate decay without making recall perfectly accurate or preventing the owner's feelings about the memory from changing. When an owner or custody authority authorizes a replay and records why it is needed now, the bearer experiences the memory in full emotional and sensory detail. The flask cannot manufacture a memory, replay someone else's life for curiosity, or preserve a second moment while one remains stored. It is kept empty whenever it is not actively preserving a permitted memory, and the custody ledger is reviewed before every replay. The flask is kept empty whenever it is not preserving a permitted memory, and a memory that begins replaying on its own must be returned to Archive custody.
+Dark blue Han glass blown round and drawn to a narrow neck, the Memory Flask is corked and hangs from a short chain at the side. The glass is smooth and cold, deepening in colour as a stored memory gains emotional weight. It preserves one memory against immediate decay without making recall perfectly accurate or preventing the owner's feelings about the memory from changing. When an owner or custody authority authorizes a replay and records why it is needed now, the bearer experiences the memory in full emotional and sensory detail. The flask cannot manufacture a memory, replay someone else's life for curiosity, or preserve a second moment while one remains stored. It is kept empty whenever it is not actively preserving a permitted memory, and the custody ledger is reviewed before every replay. The flask is kept empty whenever it is not preserving a permitted memory, and a memory that begins replaying on its own must be returned to Archive custody.
 
 ### Passive effect— *Held Moment*
 
@@ -85,14 +86,3 @@ Minseo stored a small memory from a living Keeper who feared forgetting the voic
 The Flask is the preservation piece of *Witness Without Possession*. Memory Lens separates invasive echo and Memory Veil holds the bearer’s identity; the Flask proves that preservation must still include consent, limits, and a way to let the moment go.
 
 > *“A memory can be kept with care. It cannot be kept without cost.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-115-D`  
-**Linked Entity:** `SE-115`  
-**Item Registry Code:** `MAW-G-115-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -14,6 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
+**Maximum Amount:** 3 — Standard
 A warm Tail charm of blue Han-crystal containing a single open hand. The source grants it at random after successful work; acquisition probability is 4%. The hand closes whenever the bearer speaks a borrowed memory in first person.
 
 | Field | Record |
@@ -57,14 +58,3 @@ Its hand now closes before the bearer’s voice changes, providing the earliest 
 Charm establishes otherness without rejection; Shield safely carries impact; Requiem cuts the false ownership bond. Together they allow history to pass without occupation.
 
 > *“Two griefs. Both true. One mine.”* — The Silent One
-
----
-
-**Document ID:** `SE-609-D`  
-**Linked Entity:** `SE-609`  
-**Item Registry Code:** `MAW-G-609-01`  
-**Author:** The Silent One  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

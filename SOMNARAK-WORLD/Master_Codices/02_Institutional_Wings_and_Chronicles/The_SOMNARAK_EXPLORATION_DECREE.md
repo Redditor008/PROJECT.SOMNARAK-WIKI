@@ -96,7 +96,7 @@ The Somnarak Exploration Decree executes its municipal mandate through six speci
 | STRUCTURAL SKELETON : Reinforced Ferro-Concrete & Vitrified Basalt  |
 | POPULATION CAPACITY : 2,400 Expedition Personnel & Engineering      |
 | Staff                                                               |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TIER 01 (+150m to 0m) : The Zenith Needle & Atmospheric Sonar Spire |
 | TIER 02 (0m to -200m) : Central Administrative Hub & Dry Docks      |
 | TIER 03 (-200m to -600m): Heavy Machine Shops & Pressure Simulators |
@@ -148,17 +148,17 @@ The rank structure of the Somnarak Exploration Decree reflects its dual nature a
 |   | Main Drill: 12m Diamond Rotary Head                             |
 | - Crew: 45 Specialists                                              |
 |   | Power: Geothermal High-Pressure Steam Reactor                   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | HEAVY MINER: 'BORE-VII GOLEM' (CLASS IV INDUSTRIAL DREDGER)         |
 | - Length: 48.0m | Mass: 3,400 Tons                                  |
 |   | Role: Shaft Excavation & Ballast                                |
 | - Crew: 18 Engineers | Armament: Dual Pneumatic Rock-Splitters      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RECONNAISSANCE: 'MOLE-IV SKIMMER' (CLASS II RAPID SCOUT RIG)        |
 | - Length: 12.5m | Mass: 42 Tons                                     |
 |   | Velocity: 65 km/h across cavern rock                            |
 | - Crew: 3 Scouts | Role: Point mapping, acoustic sensor deployment  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RESEARCH TENDER: 'SONAR-I ECHO' (CLASS III ACOUSTIC LAB TENDER)     |
 | - Length: 36.0m | Mass: 1,800 Tons                                  |
 |   | Role: Real-time seismic analysis                                |
@@ -185,37 +185,37 @@ The underworld of Somnarak is categorized into seven distinct geological and met
 |   silt.                                                             |
 | - Primary Hazard: Supercritical sorrow brine aquifers, rusted       |
 |   rebar.                                                            |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | STRATA 2: THE CALCIFIED BASTIONS (PETROBYEOK / -150m to -450m)      |
 | - Composition: Pre-Calamity adamantine foundations, calcified       |
 |   basalt.                                                           |
 | - Primary Hazard: Instantaneous petrifying vapors, structural       |
 |   collapse.                                                         |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | STRATA 3: THE SEVERED ARTERIES (FURTUGIL / -450m to -900m)          |
 | - Composition: Tectonic fault corridors, abandoned smuggling        |
 |   flumes.                                                           |
 | - Primary Hazard: Rogue Fray weapon caches, unstable gravity        |
 |   pockets.                                                          |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | STRATA 4: THE ECHO-ROOT GARDENS (RADIKKUM / -900m to -1,500m)       |
 | - Composition: Petrified roots of Alpha Tree, bioluminescent fungal |
 |   forests.                                                          |
 | - Primary Hazard: Spore-induced cognitive hallucinations, psychic   |
 |   drift.                                                            |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | STRATA 5: THE PERIMETER FOOTINGS (LIMESTEUM / -1,500m to -2,100m)   |
 | - Composition: Vitrified outside Han-stone, pressurized tectonic    |
 |   plates.                                                           |
 | - Primary Hazard: Outside Sorrow seepage, extreme thermal heat      |
 |   vents.                                                            |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | STRATA 6: THE OCCLUSIHAN RIFT (TRAUMAGOL / -2,100m to -2,800m)      |
 | - Composition: Non-reflective black obsidian glass, non-Euclidean   |
 |   voids.                                                            |
 | - Primary Hazard: Acoustic erasure, spatial dislocation, Scar       |
 |   Walkers.                                                          |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | STRATA 7: THE PRIMORDIAL WELLSPRING (FONTISAEM / -2,800m to Nadir)  |
 | - Composition: Liquid Mugenhan crystal core, pure uncompressed      |
 |   sorrow.                                                           |
@@ -276,7 +276,7 @@ The vanguard of the SED consists of seven sworn specialists who spearhead the hi
 | [STAGE NODES 01 TO 10 — UPPER RIG INGRESS TO PRIMORDIAL CORE]       |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 |   [BOREHOLE-RIG]   [FLOODED-LEDGE]   [CENTRAL-DAIS]   [CORE-RELIC]  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 01: Borehole Rig Staging ('The Iron Mole' Anchor / Heavy     |
 |   Lift)                                                             |
 | - Node 02-03: Bedrock Causeways & Trenches (Harin & Doha Vanguard)  |
@@ -288,7 +288,7 @@ The vanguard of the SED consists of seven sworn specialists who spearhead the hi
 | - Node 09: Sub-Dais Abyssal Chasm (Tectonic Pressure Buffer)        |
 | - Node 10: Strata Descent Sluice / Sovereign Reliquary (The Silent  |
 |   One)                                                              |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RANGE BANDS (1 TO 5):                                               |
 | - Band 1 (Nodes 01-02): Heavy Tower Shields, Pneumatic Rams,        |
 |   Cleavers                                                          |
@@ -311,13 +311,13 @@ The vanguard of the SED consists of seven sworn specialists who spearhead the hi
 | - Sonar Target Lock: Yeonhwa tags part seams, giving +25% Stagger   |
 |   Dmg.                                                              |
 | - Adamantine Bastion: Harin's armor ignores light stagger pushback. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P2: PANIC / COMPOSURE (DEPTH CLAUSTROPHOBIA & SANITY ANCHORS)       |
 | - Composure Gauge (0-50 SP): Measures nerve against depth terror.   |
 | - Depth Claustrophobia (< 15 SP): Operative suffers panic, -2       |
 |   Clash.                                                            |
 | - Harmonic Repose: Sora's Silver cowl restores +15 SP squad-wide.   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P3: PARRY / PROTECTION (KINETIC BULWARK & HARMONIC REPOSE)          |
 | - Bastion Kinetic Lock: Harin reflects physical impact back as      |
 |   tremor.                                                           |
@@ -325,7 +325,7 @@ The vanguard of the SED consists of seven sworn specialists who spearhead the hi
 |   seams.                                                            |
 | - Leaded Damping Dome: Sora vacuum sphere captures rogue sorrow     |
 |   waves.                                                            |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P4: POSTURE / POISE (MODULAR STAGGER & TERMINAL PACIFICATION)       |
 | - Modular Part Posture: Boss weapons/cores possess discrete pools.  |
 | - Stagger 1 Proc (60% Strain): Destroys modular weapon components.  |
@@ -356,7 +356,7 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node verti
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [RIG-01] [HARIN]  [DOHA]   [SORA]                                   |
 | [GATEKP] [YEONH]  [JISOO]  [CHASM]       [CORE]                     |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 02: Sentinel Harin (Speed 6 -> 3 AP | HP 3,800/3,800         |
 |   | SP 50/50)                                                       |
 | - Node 03: Master Mason Doha (Speed 7 -> 4 AP | HP 3,400/3,400      |
@@ -394,7 +394,7 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node verti
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [RIG-01]          [HARIN]  [DOHA]   [GATEKP]                        |
 | [YEONH]  [JISOO]  [CHASM]       [CORE]                              |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 03: Harin (Speed 7 -> 4 AP | HP 3,750/3,800 | SP 48/50)      |
 | - Node 04: Doha (Speed 8 -> 4 AP | HP 3,380/3,400 | SP 50/50)       |
 | - Node 05: The Drowned Gatekeeper (Speed 4 -> 2 AP | HP 5,100/6,400 |
@@ -424,7 +424,7 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node verti
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [RIG-01]                   [HARIN]  [GATEKP]                        |
 | [DOHA]   [SORA]   [CHASM]       [CORE]                              |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 04: Harin (Speed 8 -> 4 AP | HP 3,750/3,800 | SP 50/50)      |
 | - Node 05: The Drowned Gatekeeper (Speed 0 -> 0 AP | HP 340/6,400   |
 |   | Posture 0/400)                                                  |
@@ -478,18 +478,18 @@ The complete operational execution of the Katabagil descent is chronicled in the
 |   grid.                                                             |
 | - Hot pursuit transfers to SED; joint sweeps authorized under       |
 |   Protocol 09.                                                      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TREATY 02: THE RAW ENTITY CUSTODY TREATY (WITH REVERIE DIRECTORATE) |
 | - Mandatory 24-hour transfer of captured entities to R.D. Floor 2.  |
 | - R.D. reimburses SED with Class III MAW defensive suits & power    |
 |   cells.                                                            |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TREATY 03: THE ACOUSTIC TOPOLOGY ACCORD (WITH R.D. FLOOR 4 /        |
 | AYSHUK)                                                             |
 | - Real-time optical sonar telemetry feeds directly into Insight     |
 |   Forge.                                                            |
 | - Floor 4 provides predictive early warning for deep sorrow tides.  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TREATY 04: THE PLANETARY HORIZON COMPACT (WITH HORIZON CARAVAN)     |
 | - Joint salvage protocols where deep sinkholes breach the Desolate. |
 | - Sovereign boundary recognized; subterranean guidance beacons      |
@@ -509,12 +509,12 @@ The complete operational execution of the Katabagil descent is chronicled in the
 | - Location: -420m (Karst Aquifer)                                   |
 |   | Catalyst: Supercritical sorrow brine.                           |
 | - Casualties: 14 Crew drowned; Ultrasonic pre-drilling mandated.    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | DISASTER 02 (YEAR 3,105) : THE CALCIFIED BRIGADE (EXPEDITION 44)    |
 | - Location: -750m (Severed Arteries)                                |
 |   | Catalyst: Petrifying vapor vent.                                |
 | - Casualties: 80 Miners petrified; Hall of Silent Watchers created. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | DISASTER 03 (YEAR 3,988) : THE ABYSSAL SILENCE (EXPEDITION 89)      |
 | - Location: -1,800m (Occlusihan Rift)                               |
 |   | Catalyst: Cyclopean glass ruin.                                 |

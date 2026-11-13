@@ -19,10 +19,10 @@ The Mirror formed from rage that could not be spoken safely. The grief of injust
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIβ-801 [GO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats reflecting anger / Moderate (β) |
 | Element / Location | Grudge / Zone C, Collector's Row |
-| Gauge / Pressure | 403/403; starts 35–50% / 9–21 per hit · Grudge |
+| Gauge / Pressure | 000/420; starts 000% / Grudge — no attack pattern; the height of the surface in centimetres is the reading |
 | Observation | 2 — Basic |
 | Formation event | Citizens swallowed rage under debt and order until suppressed anger became a reflective object. |
 
@@ -30,17 +30,17 @@ The Mirror formed from rage that could not be spoken safely. The grief of injust
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the event that created the anger. (Stable) |
 | Ferrehan | Forces the worker to remain before their own rage. (Decrease) |
 
 **Trigger:** Direct gaze or touching the reflective surface.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-801 -->
+**Resolution:** Written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Mirror of Soaking Source-Trace*
 
-During the The Mirror of Soaking Source-Trace, the field team preserved this source fact: Citizens swallowed rage under debt and order until suppressed anger became a reflective object. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of injustice left unnamed and anger treated as unacceptable.
+During *The Mirror of Soaking Source-Trace*, the field team preserved this source fact: Citizens swallowed rage under debt and order until suppressed anger became a reflective object. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of injustice left unnamed and anger treated as unacceptable.
 
 ## M.A.W. SET — *Mirror of Soaking — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Mirror of Soaking Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Mirror of Soaking's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Mirror of Soaking's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-801-A`  
-**Linked Entity:** `SE-801`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Mirror of Soaking's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it. The gauge opens at 000% of its 000/420 meter, and no attack pattern is filed for this Grudge manifestation. The set cannot heal the originating event. Misuse routes Mirror of Soaking's wound through the operator and triggers the recorded escalation.

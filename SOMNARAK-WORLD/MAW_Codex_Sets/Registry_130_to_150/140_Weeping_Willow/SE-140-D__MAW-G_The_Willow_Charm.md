@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Weeping Willow work |
 | Bestowal event | A leaf echo became a Charm after Park named a blameless ending and allowed the Willow’s branch to keep the original leaf. |
 | Acceptance condition | The candidate names the ending and a witness who accepts that grief may continue afterward. |
@@ -85,14 +86,3 @@ Park used *Mark the Close* when a community garden bed had to be cleared after i
 The Charm completes *Closing Branch*. Requiem carries Lament through action and Cloak protects private grief; this Stigma gives a small ending room without confusing ritual with erasure.
 
 > *“The ending was real. So was what came after it.”* — Specialist Kkotlom Lee
-
----
-
-**Document ID:** `SE-140-D`  
-**Linked Entity:** `SE-140`  
-**Item Registry Code:** `MAW-G-140-01`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

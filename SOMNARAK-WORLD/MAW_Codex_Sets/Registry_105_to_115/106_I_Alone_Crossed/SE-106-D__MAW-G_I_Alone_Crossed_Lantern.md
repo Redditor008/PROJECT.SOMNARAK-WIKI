@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 2 — Limited |
 | Acquisition probability | 4% after successful I Alone Crossed work |
 | Bestowal event | A blue Lantern appeared at the Scar after a team wrote a shared account and returned along the same route together. |
 | Acceptance condition | The candidate names one failed crossing they can witness without claiming it was theirs alone. |
@@ -53,7 +54,7 @@
 
 ### Appearance
 
-The I Alone Crossed Lantern is a small lantern of pale blue Han glass with a narrow top loop, a shutter at the front, and a base that sits flat on any surface. The glass is clear until it fills with blue threads of trust, responsibility, abandonment, and support between people, each thread brightening as a route is mapped. When the bearer asks permission to map a live team's connection, one failed or fragile handoff becomes visible as a dim gap in the threads. The light does not reveal who deserves fault, and every witnessed gap is felt by the bearer as though they were the one who failed to cross it. The lantern is closed only after a next action is recorded rather than a blame finding, and its blue depth must stop moving before storage. The lantern is closed only after a next action is recorded with the people involved, and its blue threads must stop moving before the case is stored.
+Pale blue Han glass built as a lantern, the I Alone Crossed Lantern has a narrow loop at the top, a shutter across the front and a base that sits flat on any surface. The glass is clear until it fills with blue threads of trust, responsibility, abandonment, and support between people, each thread brightening as a route is mapped. When the bearer asks permission to map a live team's connection, one failed or fragile handoff becomes visible as a dim gap in the threads. The light does not reveal who deserves fault, and every witnessed gap is felt by the bearer as though they were the one who failed to cross it. The lantern is closed only after a next action is recorded rather than a blame finding, and its blue depth must stop moving before storage. The lantern is closed only after a next action is recorded with the people involved, and its blue threads must stop moving before the case is stored.
 
 ### Passive effect— *Route Sense*
 
@@ -85,14 +86,3 @@ Yeonhwa used *Mark the Gap* during a field team’s delayed return. The Lantern 
 The Lantern is the map of *Shared Crossing*. Its light is useful only alongside the Requiem’s shared account and the Shroud’s return rule; no visible gap is a license to assign a single cause.
 
 > *“The map shows where a route failed. It does not give us permission to make a person into the bridge that should have been built.”* — Border Lead Mellda
-
----
-
-**Document ID:** `SE-106-D`  
-**Linked Entity:** `SE-106`  
-**Item Registry Code:** `MAW-G-106-01`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

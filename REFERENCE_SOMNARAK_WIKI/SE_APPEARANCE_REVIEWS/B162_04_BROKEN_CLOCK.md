@@ -48,15 +48,15 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_04_BROKEN_CLOCK.md",
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-A__SIDE_CODEX_The_Broken_Clock.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-B__MAW-W_The_Frozen_Maul.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-C__MAW-S_The_Frozen_Mantle.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-D__MAW-G_The_Frozen_Moment.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-B__MAW-W_The_Shattered_Escapement_Cudgel.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-C__MAW-S_The_Pendulum_Weighted_Greatcoat.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-D__MAW-G_The_Frozen_Escapement_Wheel.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "sources_read": "Complete518-line original including census, two judgments and EstablishmentClock. Complete identity-resolved1002A–D, not044Dawn: explicitSourceSECC044WO on all four; Registry170–173/archetype403 versus same-number044Registry86–89/archetype77 and negativecontrol044Asideheader. Mastertable68–70/detail1122–1153; Entity374; fullTale10 536–595; Neutraldisposition308. Current/archivedlogs and prior131unit3 c8dda0e,76unit2 06c5754; read their exactsourcecomparison/holds and current priorindependenttiming/care additions.",
   "history": "Batch76unit2 06c5754 already reviewed exactpolearm primary/1002B conflict. Batch131unit3 c8dda0e repeated fullprimary/1002A–D, bothlogs record duplicateWeapon+0 and earlier sourcecredit. No fresh Types or Weapon credit, and no body credit inferred.",
@@ -119,15 +119,15 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "after_words": 8408,
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-A__SIDE_CODEX_The_Broken_Clock.md": "d3b90451269777a7d14a83640b931c01b2f05d7655fa2df0538e16f9b63ec9ef",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-B__MAW-W_The_Frozen_Maul.md": "917655419c5b6559b55a4485796c534b37a9e793afead8e4341eede16368427b",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-C__MAW-S_The_Frozen_Mantle.md": "304fb6e09219458b6ce99da303784f91fc02996270c7cac680f7eeb92b9094fb",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-D__MAW-G_The_Frozen_Moment.md": "659fd37ba423fb4ee5861a784e78442c1e4766a6b90feeec0578f5d88593eb9d",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-B__MAW-W_The_Shattered_Escapement_Cudgel.md": "917655419c5b6559b55a4485796c534b37a9e793afead8e4341eede16368427b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-C__MAW-S_The_Pendulum_Weighted_Greatcoat.md": "304fb6e09219458b6ce99da303784f91fc02996270c7cac680f7eeb92b9094fb",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-D__MAW-G_The_Frozen_Escapement_Wheel.md": "659fd37ba423fb4ee5861a784e78442c1e4766a6b90feeec0578f5d88593eb9d",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "validation": {
     "verify": {

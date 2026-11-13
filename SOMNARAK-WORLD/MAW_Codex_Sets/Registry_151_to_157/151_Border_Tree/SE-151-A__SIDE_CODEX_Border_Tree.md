@@ -9,7 +9,7 @@
 **SECC Designation:** `O-IVδ-151 [GP]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Border negotiation and shared-ground protocol
 
@@ -61,10 +61,10 @@ The Tree does not grow through soil alone. It follows marker posts, old jurisdic
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for its boundary-place behavior. | N/A | Do not use tears to choose a side of a territorial loss. |
-| Pugnahan | Invalid for its boundary-place behavior. | N/A | Do not cut roots or declare a border defeated. |
+| Flerehan | Invalid for its boundary-place behavior. | Negative-Low | Do not use tears to choose a side of a territorial loss. |
+| Pugnahan | Invalid for its boundary-place behavior. | Negative-Low | Do not cut roots or declare a border defeated. |
 | Viderehan | Shows every boundary that crossed the ground. | Stable | Map both sides, including people displaced by each line. |
-| Ferrehan | Tests whether a worker can remain between territories. | Down | Use two field witnesses with accountability on both sides of the line. |
+| Ferrehan | Tests whether a worker can remain between territories. | Decrease | Use two field witnesses with accountability on both sides of the line. |
 
 ### Expansion response
 
@@ -85,7 +85,7 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Bramble Tanto | δ | Grudge | Raises a negotiated barrier against hostile crossing while preserving the agreed passage | `SE-151-B__MAW-W_The_Border_Root.md` |
+| Weapon | The Bramble Tanto | δ | Grudge | Raises a negotiated barrier against hostile crossing while preserving the agreed passage | `SE-151-B__MAW-W_The_Bramble_Tanto.md` |
 | Suit | The Border Plate | δ | Grudge | Defends a negotiated boundary without erasing both sides | `SE-151-C__MAW-S_The_Border_Plate.md` |
 | Stigma | The Border Charm | δ | Grudge | Reveals one fair passage or boundary harm | `SE-151-D__MAW-G_The_Border_Charm.md` |
 
@@ -106,7 +106,7 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 
 **Quick effect:** The weapon creates a physical, Han-resonant barrier against a defined hostile crossing, leaves the negotiated passage open, and binds the bearer to the same restriction.
 
-**Weapon-title review (2026-10-11):** `O-IVδ-151`’s primary M.A.W. block and nine-inch wild-rose-vine-bound tanto Appearance, current `SE-151-B` heading/Appearance, Master Registry row, Master Codex table row 661, `MAW-W-151` archetype, and same-code title/Appearance revision `3abe5470` support *The Bramble Tanto*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 661, still identify *The Border Root* and describe a root-gripped club and root line. No Root-to-tanto transition or second form is documented. The old item filename remains only as the link. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `O-IVδ-151`’s primary M.A.W. block and nine-inch wild-rose-vine-bound tanto Appearance, current `SE-151-B` heading/Appearance, Master Registry row, Master Codex table row 661, `MAW-W-151` archetype, and same-code title/Appearance current revision support *The Bramble Tanto*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 661, still identify *The Border Root* and describe a root-gripped club and root line. No Root-to-tanto transition or second form is documented. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
@@ -171,13 +171,3 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 **Entity links:** The Returning Tree; The Garden of Thorns; The Maw.  
 **Current border rule:** The Border Tree is not evidence that every approach is hostile; it is evidence that every route needs responsibility on both sides.  
 **Item links:** `SE-151-B`, `SE-151-C`, and `SE-151-D` contain individual barrier, passage, and corrosion history for Shared Ground.
-
----
-
-**Document ID:** `SE-151-A`  
-**Linked Entity:** `SE-151`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

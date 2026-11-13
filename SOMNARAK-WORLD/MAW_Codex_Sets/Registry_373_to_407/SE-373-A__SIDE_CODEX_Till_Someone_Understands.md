@@ -19,7 +19,7 @@ A salt-cold Desolate well whose blue sorrow-water branches through soil and Han 
 | Type | Place-Lament |
 |---|---|
 | Coherence / Potency | III / γ |
-| Gauge / Pressure | 45–65% / Lament 18–42 |
+| Gauge / Pressure | 000/660; starts 000% / Lament — no attack pattern; the stake line and the branch count are the reading |
 | Observation | 2 |
 | Set | The Traveling Grief |
 
@@ -40,13 +40,3 @@ Extraction occurs after a channel reaches a site, is acknowledged by people at b
 Vial links consenting witnesses, Shroud preserves the carrier, and Requiem clears one obstruction. Grief reaches acknowledgment without becoming the witness’s identity. Damming, extracting energy, or appointing one person to absorb both sites causes the channels to flood the set.
 
 **Source:** `SE-C-IIIγ-373_Spreading_Well_스며든_우물.md`
-
----
-
-**Document ID:** `SE-373-A`  
-**Linked Entity:** `SE-373`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

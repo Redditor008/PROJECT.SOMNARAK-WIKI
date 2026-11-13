@@ -61,7 +61,7 @@ Level 3+ with M.A.W. Doctrine requires a shield-wall pair forward and a gauge-re
 | **Han Pressure [ATK]** | 20–35 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It pounds, and bare gristle-and-bone delivers a resentment-heavy blow. 
+**Ability:** It pounds, and bare gristle-and-bone delivers a resentment-heavy blow.
 
 ### The Blade Storm (Non-Humanoid, Greater-grade)
 

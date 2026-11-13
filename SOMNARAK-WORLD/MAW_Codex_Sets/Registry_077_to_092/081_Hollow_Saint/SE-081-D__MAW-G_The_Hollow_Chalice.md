@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after a successful Hollow Saint work cycle |
 | Bestowal event | The Saint released a worker after the worker refused to surrender a personal desire along with their sorrow. The Chalice appeared on the containment floor after the session ended. |
 | Acceptance condition | The candidate names one feeling they will not ask the Stigma to remove. |
@@ -53,7 +54,7 @@
 
 ### Appearance
 
-The Hollow Chalice is a small cup of pale grey Han glass, short and wide, with a rounded band of darkened metal around its rim and a fitted lid. It hangs from a head slot by a thin cord and rests cold against the bearer. Inside, the cup is empty and smooth, with no marking; when a willing person names a specific grief and the bearer repeats whose grief it is, the chalice draws the immediate emotional intensity from that one sorrow and gives the person enough calm to choose a next action. It does not store the removed feeling, and it cannot take trauma histories, memories, identity, or another person's pain by proxy. After use the cup stays covered until a welfare review records what the sorrow still matters for, rather than confirming that it has been removed. The chalice is kept covered and upright after use, and the band is checked for ash marks before it is offered to another willing person.
+The Hollow Chalice is short and wide in pale grey Han glass, banded at the rim with darkened metal and closed under a fitted lid. It hangs from a head slot by a thin cord and rests cold against the bearer. Inside, the cup is empty and smooth, with no marking; when a willing person names a specific grief and the bearer repeats whose grief it is, the chalice draws the immediate emotional intensity from that one sorrow and gives the person enough calm to choose a next action. It does not store the removed feeling, and it cannot take trauma histories, memories, identity, or another person's pain by proxy. After use the cup stays covered until a welfare review records what the sorrow still matters for, rather than confirming that it has been removed. The chalice is kept covered and upright after use, and the band is checked for ash marks before it is offered to another willing person.
 
 ### Passive effect— *Empty Cup*
 
@@ -85,14 +86,3 @@ The Chalice identifies whether a stated sorrow has a clear owner and name. It do
 With Lens and Veil, the Chalice can create a bounded relief interval. The full set must never be offered as a cure for grief, compliance tool, or substitute for voluntary support.
 
 > *“I will not praise an instrument merely because it makes a person stop hurting. I need to know what else it has made them stop being.”* — Handler Soojin
-
----
-
-**Document ID:** `SE-081-D`  
-**Linked Entity:** `SE-081`  
-**Item Registry Code:** `MAW-G-081-01`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

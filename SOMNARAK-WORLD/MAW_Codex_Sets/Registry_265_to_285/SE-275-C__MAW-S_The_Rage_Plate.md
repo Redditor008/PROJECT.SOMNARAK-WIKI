@@ -24,9 +24,15 @@ The Rage Plate is a dark crimson harness of Han iron that runs warm at every joi
 
 ## PROTECTION FILE
 
+**Grade / Element:** β / Grudge
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
 
 **Tempered Worker:** The armor receives directed hostility and forge heat as structural hardening. Protection falls as resentment turns supervision into combat.
 
@@ -43,14 +49,3 @@ Plate protects worker while Charm identifies fuel and Hammer performs one task. 
 **Maintenance:** Open each joint during a cold Forge period and log the emotion present when it stiffened. No plate is reheated while blame remains unnamed.
 
 **Removal:** Supervisor ends the shift aloud before releasing the slowest joint.
-
----
-
-**Document ID:** `SE-275-C`  
-**Linked Entity:** `SE-275`  
-**Item Registry Code:** `MAW-S-275-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

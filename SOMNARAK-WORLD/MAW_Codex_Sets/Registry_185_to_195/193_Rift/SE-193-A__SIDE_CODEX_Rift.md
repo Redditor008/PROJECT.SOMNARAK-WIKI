@@ -37,10 +37,10 @@ Crossing the old line feels heavy even when the road is clear. The source grows 
 
 | Work Type | Response | Gauge |
 |---|---|---|
-| Flerehan | Invalid | N/A |
-| Pugnahan | Invalid | N/A |
+| Flerehan | Invalid | Negative-Low |
+| Pugnahan | Invalid | Negative-Low |
 | Viderehan | Reveals wall and division history. | Stable |
-| Ferrehan | Tests a worker at the former boundary. | Down |
+| Ferrehan | Tests a worker at the former boundary. | Decrease |
 
 **Rule:** Map the division, preserve both histories, and create relationship routes; do not use force to prove a community has reunited.
 
@@ -88,13 +88,3 @@ Removing a structure is not the same as restoring trust. The Rift is evidence th
 
 **Related material:** former boundary records, Old Lament crossing routes, community witness plans.  
 **Item links:** `SE-193-B`, `SE-193-C`, `SE-193-D`.
-
----
-
-**Document ID:** `SE-193-A`  
-**Linked Entity:** `SE-193`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한 — Naehan) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A 1.3 m figure whose upper body is a smooth, translucent blue humanoid torso with the soft, unfinished features of a grieving woman, resolving at the waist into a gelatinous, trembling mass of concentrated Han slime. Her surface is cool to the touch and faintly luminous, as though sorrow were lit from inside her. She has no legs; the slime below is her. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — she drifts and glides on her slime lower body, slow and wobbling, like a mourner wading through her own grief. |
 | **Location** | SECTOR-D-03, Zone D — the Drowned Apothecary |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 12–18 per successful work cycle, read against how long the crew actually stayed in the room |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Sorrow Gauge ≥ 70%, or when offered comfort and then refused |
+| **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
+| **Activation threshold** | Sorrow Gauge ≥ 75%, or when offered comfort and then refused |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -44,7 +45,7 @@
 - Personnel who attempt to comfort her are logged as a protocol breach regardless of outcome, because the response is reliably reciprocated.
 - Extraction of a worker from her reach is a risk event in its own right and needs its own authorization, separate from the work order.
 
-**Comfort and permission:** The Behavior table, the silent-sitting visit schedule and the breach response all prescribe comfort, while the note above records attempts to comfort her as protocol breaches regardless of outcome. Those instructions are not reconciled by a falling Gauge. Keep the conflict with the visit order rather than treating the listed Work Type as blanket contact permission; neither the Film nor a calm response proves that an embrace cannot dissolve the worker. Extraction still requires its separate authorization.
+**Comfort and permission:** The Behavior table, the silent-sitting visit schedule and the breach response all prescribe comfort, while the note above records attempts to comfort her as protocol breaches regardless of outcome. Those instructions are not reconciled by a falling Gauge. Keep the conflict with the visit order rather than treating the listed Work Type as blanket contact permission. Neither the Film nor a calm response proves that an embrace cannot dissolve the worker. Extraction still requires its separate authorization.
 
 ## Combat Record
 ### Core Stat Line
@@ -55,7 +56,7 @@
 |---|---|
 | **Speed** | 0.9 m/s |
 | **Resistance** | 40% against Lament pressure and 20% against other types — a body that gives way rather than fights, which is why pressure alone moves her so little |
-| **Activation threshold** | Sorrow Gauge ≥ 70% |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 540/540 |
 | **Han Pressure [ATK]** | 9–20 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
@@ -83,8 +84,8 @@
 |---|---|---|---|---|
 | { *The Reaching Hand* [**Debuff**] } | "A small, trembling hand of slime lifts toward you — palm up, the way you'd ask someone to stay." | [She extends a translucent blue hand, seeking to be held; the grief in it is contagious.] | *The target is washed in a sorrow that is not theirs — the borrowed loneliness of someone left behind.* **[8 Lament DMG [Lament]]** | When the target enters her reach. |
 | { *The Murmur of His Name* [**Debuff**] } | "She whispers a name over and over, a name no one alive answers to anymore." | [Her lips shape a beloved's name; the sound carries the weight of all the times it went unheard.] | *Targets within earshot feel an aching love for someone they have not yet lost, and the dread of losing them.* **[10 Lament DMG [Lament]]** | When the Sorrow Gauge passes 60%. |
-| { *The Undertow* [**Attack**] } | "The slime at her base surges forward like a slow, sad tide — not to drown you, but to keep you close." | [The stand of slime at her base slides outward in a slow current, taking the nearest pair of boots with it before anybody thinks to step back.] | *The target is drawn inward; composure drains as the slime reaches their ankles and keeps hold of them.* **[14-22 Lament DMG [Lament]]** | When the target tries to leave. |
-| { *The Keeping* [**Attack (heavy)**] } | "She folds the target into herself completely — and for one held breath, they are warm, and held, and gone." | [She envelops the target in her mass, trying to hold them the way she could not hold him.] | *Full envelopment; the target's identity softens at the edges as the cure-that-failed tries to preserve them forever.* **[24-36 Lament DMG [Lament]]** | When comfort is offered, then refused. |
+| { *The Undertow* [**Attack**] } | "The slime at her base surges forward like a slow, sad tide — not to drown you. But to keep you close." | [The stand of slime at her base slides outward in a slow current, taking the nearest pair of boots with it before anybody thinks to step back.] | *The target is drawn inward; composure drains as the slime reaches their ankles and keeps hold of them.* **[14-22 Lament DMG [Lament]]** | When the target tries to leave. |
+| { *The Keeping* [**Attack (heavy)**] } | "She folds the target into herself completely — and for one held breath, they are warm. And held, and gone." | [She envelops the target in her mass, trying to hold them the way she could not hold him.] | *Full envelopment; the target's identity softens at the edges as the cure-that-failed tries to preserve them forever.* **[24-36 Lament DMG [Lament]]** | When comfort is offered, then refused. |
 | { *The Unfinished Cure* [**Ultimate**] } | "The concoction that made her erupts from her chest — a flood of luminous blue grief filling every corner of the room." | [The vat's contents come back up out of her, filling the containment room to the second step with the cure she died distilling.] | *All in range are steeped in grieving Han for three turns and weep for people they still have.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
@@ -133,7 +134,7 @@
 | **Form** | 1.3 m humanoid upper torso of translucent blue slime resolving into a gelatinous lower mass; no legs. |
 | **Position / movement** | Slow drifting glide toward warmth; palms often extended; posture of active grief. |
 | **Material / signature** | Concentrated Han in slime form; Lament; faint herbal scent and a cold, dimming field. |
-| **Distinctive markers** | Continuous weeping whose tears rejoin her slime instead of reaching the floor; the open pleading hand; the slow blue chest-pulse of the unfinished cure. No floor residue does not mean she sheds no tears. |
+| **Distinctive markers** | Continuous weeping whose tears rejoin her slime instead of reaching the floor. The open pleading hand; the slow blue chest-pulse of the unfinished cure. No floor residue does not mean she sheds no tears. |
 | **Identification** | Distinguish from other slime or Lament entities by her fixed grieving posture, her small stature, and the persistent extended palm — she is the only entity that asks to be held. |
 
 **Appearance protocol:** Record scale (1.3 m), the blue translucency, the open hand, and the chest-pulse. Note whether her eyes are open or closed on entry — closed eyes signal low Gauge, open and searching eyes signal escalation. Never describe her as "sad-looking" without recording which grief-posture she holds.
@@ -150,21 +151,20 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears / Lament) | She drifts close and presses her forehead to the worker's chest, weeping silently; the first genuine comfort she has felt since the fall. | Decrease |
-| **Pugnahan** (Confrontation / Grudge) | She flinches and recoils, the slime roiling; aggression reads to her as rejection, the one thing she cannot bear. | Increase |
-| **Viderehan** (Observation / Void) | Studied gently, she grows still and lets the worker see the bright pulse of the cure — and the name she keeps murmuring. | Stable |
-| **Ferrehan** (Endurance / Weight) | The worker endures her cold, clinging field without pulling away; she calms, comforted that someone did not leave. | Decrease |
+| **Flerehan** (Tears / Lament) | She drifts close and presses her forehead to the worker's chest, weeping silently. The first genuine comfort she has felt since the fall. | Decrease · High |
+| **Pugnahan** (Confrontation / Grudge) | She flinches and recoils, the slime roiling; aggression reads to her as rejection, the one thing she cannot bear. | Increase · Low |
+| **Viderehan** (Observation / Void) | Studied gently, she grows still and lets the worker see the bright pulse of the cure — and the name she keeps murmuring. | Stable · Common |
+| **Ferrehan** (Endurance / Weight) | The worker endures her cold, clinging field without pulling away; she calms, comforted that someone did not leave. | Decrease · Common |
 
 ### Operational Work Notes
 
-Read the gauge only against the rest of the sheet. She is a Subject with Subject-Body manifestation and Lament expression, filed at SECTOR-D-03 in Zone D, and no assumption from another holding that looks similar transfers to her. The caution particular to this file is that a flat reading proves nothing: a Viderehan watch can leave the gauge exactly where it started while the worker carries out contagious grief, an intrusive longing for someone absent, and a wish to stay in the room that has to be overruled by the second worker.
+Read the gauge only against the rest of the sheet. She is a Subject with Subject-Body manifestation and Lament expression, filed at SECTOR-D-03 in Zone D, and no assumption from another holding that looks similar transfers to her. The caution particular to this file is that a flat reading proves nothing: a Viderehan watch can leave the gauge exactly where it started while the worker carries out contagious grief, an intrusive longing for someone absent. And a wish to stay in the room that has to be overruled by the second worker.
 
 **Reading the response:** Three things decide whether the work succeeded — how she answered, what state the worker is in afterwards, and what was recovered that was not known before. A fall in the gauge means real comfort was given and accepted, the rarest thing she has ever had. A rise means the work read as refusal, which is the wound from the vat opened again. An embrace begun and then broken off is entered immediately and without exception: of everything in her containment, that is the moment that hurts most and the one the file flags first.
 
 ## Breach Behavior
 
-> *"Grieving Love has broken free. She is looking for someone to hold, and she will find one. Do not let it be you."*
-
+> *"Grieving Love has broken free and is looking to be held. She goes to whoever has been kindest to her that day. Nobody opens their arms and nobody steps in, because the touch is what takes a person apart."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -172,7 +172,7 @@ Read the gauge only against the rest of the sheet. She is a Subject with Subject
 | **Effect** | Composure drains from everyone within her reach, and the drain arrives as an invitation: the urge to step in and hold her is the hazard itself, and from the inside it reads as kindness. |
 | **Secondary Effect** | Whoever she takes hold of comes apart at the touch, and she cannot stop the cure from trying to "preserve" them — the preservation is what takes the parts. |
 | **First Target** | Not the nearest and not the strongest: whoever has been kindest to her that day, which in practice is the worker most likely to open their arms. |
-| **Escalation** | Every turn she goes unheld, the grief-field widens 2 m and the Lament pressure climbs +5, toward *The Unfinished Cure*; nothing about the growth is fast, and that is the difficulty. |
+| **Escalation** | Every turn she goes unheld, the grief-field widens 2 m and the Lament pressure climbs +5, toward *The Unfinished Cure*. Nothing about the growth is fast, and that is the difficulty. |
 
 ### Escalation Notes
 
@@ -198,7 +198,7 @@ Read the gauge only against the rest of the sheet. She is a Subject with Subject
 
 **Ability:** Deals Lament damage, attacking the Mind (composure, peace of mind). A tendril of grief-slime extends from the weapon and gently coils around a target, drawing them close — a weapon that wants to embrace.
 
-**Cost:** The wielder is visited, unbidden, by the faces of everyone they failed to comfort.
+**Bearer cost:** The wielder is visited, unbidden, by the faces of everyone they failed to comfort.
 
 **Coil care:** The Weapon’s individual file warns of Sooah’s source sorrow becoming autobiography, not only the unwanted faces already listed as its cost. Keep bearer, trigger, response, cost and unresolved detail before attribution review and before cleaning or rest. Its witness names the source title and event while the wielder relinquishes the Coil; the loss is not refunded. This is not an instruction to pull somebody out of the entity’s hold with the lash, nor a reason to confront her. Extraction of a worker remains separately authorized, and the existing range disagreement remains open.
 
@@ -218,7 +218,7 @@ Read the gauge only against the rest of the sheet. She is a Subject with Subject
 
 **Ability:** A thin, cool membrane of grief-slime that absorbs Lament pressure and shields the wearer's composure. It is strongest against the very sorrow it is made of.
 
-**Cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up.
+**Bearer cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up.
 
 **Film limit:** The Suit record’s first corrosion sign is claiming the apothecary’s event in first person; repeating the source response away from contact is escalation. Preserve that distinction from ordinary clinginess, which is already sufficient for the second worker’s limit call. Review attribution before resting or cleaning the membrane, and retain the named witness at relinquishment. The delayed check a week later still matters after removal. Composure protection is not protection against dissolution and does not convert a wish to stay into permission for another visit.
 
@@ -234,9 +234,9 @@ Read the gauge only against the rest of the sheet. She is a Subject with Subject
 
 **Ability:** A single suspended tear of grief-slime that grows warm in the presence of unspoken sorrow, warning the bearer when someone near them is grieving in silence.
 
-**Cost:** The bearer weeps without cause at odd hours and cannot always say for whom.
+**Bearer cost:** The bearer weeps without cause at odd hours and cannot always say for whom.
 
-**Pendant attribution:** Warmth near silent sorrow identifies the Stigma’s warning, not the identity of the person being mourned. Its item entry asks for the unresolved detail as well as bearer, trigger, response and cost before maintenance review; leave the cause of unexplained tears unresolved when it is not known. First-person adoption of Sooah’s history is a failure sign rather than evidence that Haneul’s fate has been recovered. Witnessed relinquishment preserves that boundary and does not refund the weeping. The source-work bonus supplies no answer about the unfinished distillate or the last vial.
+**Pendant attribution:** Warmth near silent sorrow identifies the Stigma’s warning, not the identity of the person being mourned. Its item entry asks for the unresolved detail as well as bearer, trigger, response and cost before maintenance review. Leave the cause of unexplained tears unresolved when it is not known. First-person adoption of Sooah’s history is a failure sign rather than evidence that Haneul’s fate has been recovered. Witnessed relinquishment preserves that boundary and does not refund the weeping. The source-work bonus supplies no answer about the unfinished distillate or the last vial.
 
 *Stigmas from this holding are granted, not made: they come at random out of a successful work and cannot be ordered or held back by the crew.*
 
@@ -251,7 +251,7 @@ Nothing in this kit arms anybody against her; every piece carries the pattern fu
 | **Before use** | Name the bearer and the piece on the issue record, with the Gauge and a sealed baseline. For the Coil, record intrusive faces; for the Film, the ability to end conversations and leave rooms; for the Pendant, unexplained weeping. Keep the envelope closed until the rotation ends, not as a substitute for the second worker's immediate observations. |
 | **During use** | Record when unbidden faces appear to the Coil wielder; a pattern across the full shift ends that use. Track the Film wearer's clinginess separately from the Pendant bearer's tears, whose cause may remain unknown. A borrowed first-person account of Sooah's event is an attribution failure, not a recovered biography. |
 | **At limit** | The second worker's call holds against the bearer's. Name the affected piece and actual sign: intrusive faces, inability to end contact, unexplained tears, or the source-history failure described in its care note. The Film's composure protection does not prevent dissolution, and removing equipment is not authorization to extract a worker from her hold. |
-| **After use** | Retain the named witness and the week-later check. Review the Coil's faces, the Film's inability to let contact end, and the Pendant's unexplained weeping separately; the grant is not an issued item with an assumed hand-in or recovery procedure. Relinquishment preserves attribution but does not refund a piece's cost. |
+| **After use** | Retain the named witness and the week-later check. Review the Coil's faces, the Film's inability to let contact end, and the Pendant's unexplained weeping separately. The grant is not an issued item with an assumed hand-in or recovery procedure. Relinquishment preserves attribution but does not refund a piece's cost. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Comforting Coil performs reliably yet can leave the wielder hollowed by old, unsourced grief for days.
 
@@ -283,7 +283,7 @@ Nothing in this kit arms anybody against her; every piece carries the pattern fu
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Grieving Love (N-IIIβ-941 [LS]) is a Subject-Body manifestation expressing Lament, and the file's own account of how she came to be is kept in full: an apothecary named Sooah went into a vat of concentrated Han she was distilling as a cure for her dying beloved, and what rose out of it holds the Apothecary at SECTOR-D-03 in Zone D. She drifts through the room, weeps without wetting the floor, and reaches for any warmth that is offered.
+Grieving Love (N-IIIβ-941 [LS]) is a Subject-Body manifestation expressing Lament. And the file's own account of how she came to be is kept in full: an apothecary named Sooah went into a vat of concentrated Han she was distilling as a cure for her dying beloved. And what rose out of it holds the Apothecary at SECTOR-D-03 in Zone D. She drifts through the room, weeps without wetting the floor, and reaches for any warmth that is offered.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject responsive to Flerehan. On entry, Handler Soojin reports the room dropped several degrees and the lamps dimmed. The entity did not approach until Soojin knelt and stayed still; she then pressed her forehead to Soojin's chest and was silent for eleven minutes. The Handler's composure readings dipped but stabilised. No envelopment occurred. Note: the danger is not that she attacks. The danger is that it feels like kindness.
@@ -292,7 +292,7 @@ Subject responsive to Flerehan. On entry, Handler Soojin reports the room droppe
 "She keeps saying a name. We cross-referenced it against the Apothecary's records. Haneul. A cartographer admitted to the apothecary six days before the incident with late-stage Weeping-wasting. Sooah's notes indicate she believed she was three reagents from a cure. The vat she fell into contained the unfinished distillate. There is no record of what became of Haneul after that night." — R.D. Researcher, Archive
 
 **Entry 4 — <Containment Notice>**
-Management: Do not flee her embrace — sit with her grief until she lets go of her own accord. Work response — Flerehan: she presses close and weeps silently (Decrease); Pugnahan: she recoils, slime roiling (Increase); Viderehan: she grows still and shows the chest-pulse (Stable); Ferrehan: the worker endures her cold field without leaving (Decrease). Two personnel have required counseling after prolonged Viderehan contact reported intrusive longing for people still alive.
+Management: Do not flee her embrace — sit with her grief until she lets go of her own accord. Work response — Flerehan: she presses close and weeps silently (Decrease). Pugnahan: she recoils, slime roiling (Increase). Viderehan: she grows still and shows the chest-pulse (Stable). Ferrehan: the worker endures her cold field without leaving (Decrease). Two personnel have required counseling after prolonged Viderehan contact reported intrusive longing for people still alive.
 
 **Entry 5 — <Sealed Record>**
 We found it in the floor of the apothecary, beneath where the vat stood. A small glass vial, unbroken, labelled in Sooah's hand: *the last reagent — for when the cure is ready.* She never reached it. The cure was, perhaps, finished — and the woman who would have administered it became the thing the cure was made of. She is still reaching for that vial. She is still reaching.
@@ -303,7 +303,7 @@ We found it in the floor of the apothecary, beneath where the vat stood. A small
 
 | Stay — take her weight, let her lean, and do not pull away while she is holding on. | Step back — keep the distance you came in with, and end the work where you stand. |
 |---|---|
-| You hold still through the cold and the reach of it, and she weeps against a person who does not go. The blue pulse behind her ribs slows to rest, and the name she has been murmuring since the vat becomes audible — *Haneul* — and the whole of her opens on the page. The observer writes her up complete. | You take your distance. Her open hand closes over nothing and the pull of *The Keeping* takes the room; the gauge climbs and the failed cure comes up over the floorboards. She has been left again, and being left is the wound she rose from. She draws back into herself and the watch closes with nothing on the sheet. |
+| You hold still through the cold and the reach of it, and she weeps against a person who does not go. The blue pulse behind her ribs slows to rest, and the name she has been murmuring since the vat becomes audible — *Haneul* — and the whole of her opens on the page. The observer writes her up complete. | You take your distance. Her open hand closes over nothing and the pull of *The Keeping* takes the room. The gauge climbs and the failed cure comes up over the floorboards. She has been left again, and being left is the wound she rose from. She draws back into herself and the watch closes with nothing on the sheet. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -320,7 +320,7 @@ We found it in the floor of the apothecary, beneath where the vat stood. A small
 
 ### Interaction Pattern
 
-Three holdings are kept within reach of the Apothecary — The Preserved Heart, The Ember Child and The Lonely Giant — and not one of the three is an ally or an enemy. What the file has seen of her is simpler than a bond: she quiets in the company of other grief-bearers and brightens near warmth, so for each pairing enter whether the answer changed in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration and trigger noted.
+Three holdings are kept within reach of the Apothecary — The Preserved Heart, The Ember Child and The Lonely Giant — and not one of the three is an ally or an enemy. What the file has seen of her is simpler than a bond: she quiets in the company of other grief-bearers and brightens near warmth. So for each pairing enter whether the answer changed in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration and trigger noted.
 
 **Interaction method:** Observe her alone first, establishing her baseline grief-field. Then introduce or observe the second entity and record the first shared response, the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects her reaching. Do not assume a calming interaction is safe to repeat; grief shared between entities can compound into a cascade.
 
@@ -334,7 +334,7 @@ She has to be read as one point in a network rather than as a file on a shelf. E
 | **The Ember Child** | Grief given a small body, and a large one leaning down toward it. | The warmth pulls her in close; her colour brightens and the weeping slows to almost nothing. | How near she came, how long the two stayed, the trigger, both gauges, and the state of the child's light afterwards. |
 | **The Lonely Giant** | Two outstretched reaches — one reaching up for company, one out for comfort. | Longing answers longing; both gauges climb the longer the two are kept in sight of one another. | The separation the watch kept, the hour the climb started, the trigger, both gauges, and what each did once out of view. |
 
-**Interaction procedure:** Observe the two entities separately first. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Observe the two entities separately first. Then record whether the second entity's features resolved further or less far in the pairing than alone, and at what distance the resolving stopped. On this holding the resolution is the reading.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -397,7 +397,7 @@ From the waist up she reads as a woman and below it she is a translucent dome of
 
 ### Weeping Without Losing
 
-Her tears do not fall away; they rejoin her, so she cries continuously and never diminishes, and nothing is ever collected from the floor of the holding. Wardens are told this during the briefing. The file's reason for stating it explicitly is that personnel arriving with the ordinary expectation of a weeping thing look for a residue, find none, and conclude that the weeping is display.
+Her tears do not fall away. They rejoin her, so she cries continuously and never diminishes, and nothing is ever collected from the floor of the holding. Wardens are told this during the briefing. The file's reason for stating it explicitly is that personnel arriving with the ordinary expectation of a weeping thing look for a residue, find none, and conclude that the weeping is display.
 
 ### Sooah
 

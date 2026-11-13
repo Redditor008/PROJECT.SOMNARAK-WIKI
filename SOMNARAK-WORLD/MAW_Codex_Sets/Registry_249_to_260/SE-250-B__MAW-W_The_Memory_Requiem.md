@@ -28,6 +28,10 @@ The Memory Requiem is a short singing blade of deep-blue Han crystal with a sing
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Provenance Cut:** Requiem targets one invasive memory attached to a person and severs the false ownership bond. It damages Mind stability if aimed at the person’s own memory.
 
 **Cost:** The wielder experiences the fragment’s unwept grief and cries involuntarily.
@@ -43,14 +47,3 @@ Charm anchors identity; Umbrella catches the separated drop; Requiem performs th
 **Maintenance:** Suspend the blade beneath an empty Umbrella. Read the crystal’s catalog number, not its story. The drop above the guard must become clear without dissolving.
 
 **Shutdown:** Sheathe after one separation and recheck both identity anchors before reuse.
-
----
-
-**Document ID:** `SE-250-B`  
-**Linked Entity:** `SE-250`  
-**Item Registry Code:** `MAW-W-250-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

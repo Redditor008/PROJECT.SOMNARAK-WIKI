@@ -24,9 +24,15 @@ The Architect’s Mantle is a matte black garment of Han weave with open seams e
 
 ## PROTECTION FILE
 
+**Grade / Element:** γ / Weight
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
 **Unfinished Span:** Weight follows the open seams around the body instead of landing fully on it. Closing a seam with tools, cargo, or another person removes protection.
 
@@ -43,14 +49,3 @@ Compass maps intended purpose, Mantle crosses, Maul repairs current load. The we
 **Maintenance:** Hang the Mantle on an incomplete frame with each open seam unsupported. Remove construction dust but never patch gaps.
 
 **Removal:** Exit the plan boundary and let the garment fall from the missing side first.
-
----
-
-**Document ID:** `SE-255-C`  
-**Linked Entity:** `SE-255`  
-**Item Registry Code:** `MAW-S-255-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

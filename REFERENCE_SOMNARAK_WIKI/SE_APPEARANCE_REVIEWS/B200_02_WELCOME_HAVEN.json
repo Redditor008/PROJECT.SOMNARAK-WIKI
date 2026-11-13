@@ -1,0 +1,214 @@
+{
+  "unit": 2,
+  "designation": "O-IVδ-897",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-897_Welcome_Haven_부서진_벽.md",
+  "words": 8622,
+  "sha256": "948ec560e38347afa8b72dd60255c553fe8f5f9e7279a6eb86d28be5746688e5",
+  "name": "Welcome Haven",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_02_WELCOME_HAVEN.md",
+  "before_words": 8622,
+  "after_words": 8784,
+  "base": "b4febabf7d1a3c31afea2330a68a55c6e0e8027b",
+  "final_sha256": "5365745e702753f245b9e968d19c34315fe53c037e71728ae04270aaba1b7338",
+  "summary": "Seventeen repairs (2 short / 15 careful). The Combat Actions no longer ask a target to lean on a wall, demolish Welcome Haven, assign personnel a Sorrow Gauge, or make collapse contagious at 65%. They now trigger from the file's own conduct: sheltering behind a barrier, assuring somebody they are safe, striking the figure, erecting a representation of protection, and reaching the ≥90% Gauge threshold. Resolution, Consequences, Breach, Work/Observation and Field Use all use the same indexed promise accounting—barriers and assurances raise the Gauge; a specific answerable admission lowers it. The Breach-Pike loses its invented recurring damage score, and the Broken Charm reveals who a structure leaves exposed instead of certifying failure in advance. HELD; no credit because the primary already integrates all three pieces, exact statistics/costs and bespoke binding/custody notes.",
+  "commentary": "This is not really a monster that hates walls. It hates the sentence spoken in front of them. The rebuilt actions make personnel generate the escalation themselves—one more barrier, one more kindly meant assurance—while the only de-escalation is the institutionally impossible act of a person saying, in specifics, that the promise failed.",
+  "reasoning": "R-34 audit before editing. Identity is direct SE-897: Side A and B/C/D print `O-IVδ-897 [GS]`, Subject-Grudge, IV/δ, Grudge, Zone E, Gauge 910/910 starting 60–80%, pressure 29–64 and Observation 2—Basic; item codes are `MAW-W/S/G-897-01`. Exact Work agrees directionally with the primary: Flere lowers flames/shows pieces, Pugna draws burning fragments, Videre reveals what the wall failed to protect, Ferre tests standing before failed safety. The primary then develops a precise local mechanism that the generic Combat table ignored: the burning stone-carrying figure patrols the old line at a walk, sheds logged fragments (310/540/806), attacks representations of safety before people, never pursues a person who agrees with it, and has its Gauge indexed to barriers (+10%), safety assurances (+10%) and specific answerable admissions (−10%). Rows 1–2 previously duplicated leaning/near-break cracking; row 4 required demolition and gave the target a Sorrow Gauge; row 5 used contagious collapse at 65% despite a 60–80% start and Core ≥90% threshold. The rebuilt triggers are discrete and checkable—shelter reliance, assurance, strike/Pugna, barrier erection and ≥90%—while categories and damage bands were retained. Generic suppression, an interval drain, lamp-flicker activation, generic memory/identity work language and a recurring second weapon score were removed because the file's breach and item records give sharper rules. Every table block had equal parsed cell counts before and after; all five Trigger cells parse fifth.",
+  "history": "Draft/local history: the Zone E wall was built adequately, maintained below standard for nine years, assured to residents by offices rather than named officers, and folded in an Outside Sorrow surge at a load it should have carried. The primary's households distinguish killed from displaced; shed-stone returns rise 310→540→806 alongside matters closed for want of an answerable person; the Post Holder's Word permits third-person post statements but no personal admission/apology. Exact SE-897 preserves the collapsed border wall, exposed residents, work responses, resolution sentence and item source-traces, but not the nine-year maintenance/post-attribution history. Fresh equipment credit BARRED on this HELD result: before repair the primary already contained all three δ pieces with exact statistics and costs, pike binding/return, Barrier spent-protection, Charm warning/custody, Use Notes and a Field Use Record. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+  "holds": [
+    "Admission-authority fork: breach reduction requires a specific failure named by someone answerable for it, while the Post Holder system forbids first-person admissions/apologies and records acts against posts, not officers. Flerehan/Ferrehan nevertheless lower the Gauge. Who can make the effective admission, and in what voice, is unresolved. Held.",
+    "Weapon-title fork: the primary and SE-897-B heading/appearance support the eight-foot Breach-Pike; Side A's canonical set table, B's body and the B filename call the same item The Broken Fang. No alias/transition rule is documented. Held.",
+    "Broken Barrier renewal fork: SE-897-C says the suit absorbs one breach impact. The primary interprets that as one lifetime absorption, not renewed by cycle, repair, cleaning, rest or shutdown; the exact record does not state a renewal interval. Held.",
+    "Maintenance-causality fork: the exact linked set records a border wall collapsing during an Outside Sorrow surge. The primary adds adequate original construction, nine years below-standard maintenance, an authorless assurance chain and a failed load it should have carried. Those specifics were retained as local history, not treated as exact-set proof. Held.",
+    "Stigma-scope fork: SE-897-D's canonical boon only mirrors the entity's nature and its source-trace reveals what the wall failed to protect. The primary's bearer experience as early structural warning is retained as local phenomenology; no exact rule says it can certify that a named structure will fail. Held."
+  ],
+  "split": [
+    2,
+    15
+  ],
+  "repairs": [
+    {
+      "id": "R1-tool-grade-none-issued",
+      "kind": "short grade correction",
+      "careful": false,
+      "old": "| **Tool / M.A.W. grade** | — · δ (Critical) |",
+      "new": "| **Tool / M.A.W. grade** | None issued · δ |"
+    },
+    {
+      "id": "R2-loose-stone-barrier-reliance",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Loose Stone* [**Debuff**] } | \"A stone falls from the wall — and the gap it leaves is exactly the shape of your weakest defense.\" | [The Wall crumbles; the target's defenses crack in sympathy.] | *Target suffers -10 Resilience; their own walls are failing.* **[10 Grudge DMG [Grudge]]** | When the target leans on the Wall. |",
+      "new": "| { *The Loose Stone* [**Debuff**] } | \"A stone falls from the wall — and the gap it leaves is exactly the shape of your weakest defense.\" | [A fused stone sheds as the target takes shelter behind a barrier; the fragment is logged by position.] | *Target suffers -10 Resilience; the barrier they relied on is treated as failed shelter, not cover.* **[10 Grudge DMG [Grudge]]** | When a target shelters behind or leans on a barrier. |"
+    },
+    {
+      "id": "R3-spreading-crack-assurance",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Spreading Crack* [**Debuff**] } | \"The crack widens — through the wall, through you, through everything you thought was solid.\" | [The Wall's fracture propagates; the target's composure splinters.] | *Target loses 10 Resilience; nothing holds.* **[10 Grudge DMG [Grudge]]** | When the target stays near the break. |",
+      "new": "| { *The Spreading Crack* [**Debuff**] } | \"Every assurance finds the same crack. It widens by exactly the width of the promise.\" | [The fracture line brightens through the fused courses as somebody present is told they are safe.] | *Target loses 10 Resilience; each safety assurance also raises the source Gauge by 10% under the breach accounting.* **[10 Grudge DMG [Grudge]]** | When anyone assures a person present that they are safe, or promises perfect protection. |"
+    },
+    {
+      "id": "R4-falling-masonry-pugna-fragments",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Falling Masonry* [**Attack**] } | \"A section of wall gives way — heavy, final, aimed.\" | [A mass of broken wall collapses on the target.] | *Inflicts Grudge pressure and one crushing, structural wound.* **[14-22 Grudge DMG [Grudge]]** | When the Wall is struck. |",
+      "new": "| { *The Falling Masonry* [**Attack**] } | \"Force arrived after the wall fell. It answers with the pieces.\" | [It throws burning fragments of its own fused stonework at the striker.] | *Inflicts Grudge pressure and one crushing fragment wound on the person using force.* **[14-22 Grudge DMG [Grudge]]** | When Welcome Haven is struck or Pugnahan is attempted. |"
+    },
+    {
+      "id": "R5-full-breach-erected-barrier",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Full Breach* [**Attack**] } | \"The whole wall comes down — and everything it was holding back floods through.\" | [The courses come apart at once and everything they were holding back comes through the gap.] | *A heavy Crimson breach; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Wall is demolished. |",
+      "new": "| { *The Full Breach* [**Attack**] } | \"Build it in front of the thing that died of being built, and see which of you it believes.\" | [The figure turns from personnel to the new representation of safety and brings its fused courses down through it.] | *Heavy Grudge pressure on personnel sheltering behind the barrier; the source Gauge rises 10% for that barrier.* **[24-36 Grudge DMG [Grudge]]** | When a barrier, cordon or shield wall is erected against it. |"
+    },
+    {
+      "id": "R6-ultimate-ninety-percent-reliance",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *Every Wall Falls* [**Ultimate**] } | \"The wall is contagious — now every barrier in the place is crumbling.\" | [The collapse propagates outward, and every standing surface along the line starts to fail with it.] | *All personnel suffer Grudge pressure for three turns as everything collapses.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *Every Wall Falls* [**Ultimate**] } | \"Not every wall. Every wall somebody is hiding behind instead of telling the truth.\" | [Along the patrol line it takes each erected shelter in turn; nobody is pursued into open ground.] | *All personnel relying on barriers or safety assurances suffer Grudge pressure for three turns as those representations fail.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90%. |"
+    },
+    {
+      "id": "R7-resolution-admission-or-open-ground",
+      "kind": "careful battle correction",
+      "careful": true,
+      "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Admit the wall failed; do not promise perfect protection**. The rest of the record follows from that clause — the watch closes with the failure said out loud, and it is reopened by anybody who promises safety on the facility's behalf.",
+      "new": "3. **Resolution:** A senior person answerable for the record states the specific wall, date and people behind it, admits the wall failed, and promises no perfect protection. If nobody present can make that admission, sections are abandoned in sequence toward open ground beyond the line. The watch is reopened by anybody who builds against it or promises safety on the facility's behalf; suppression is not a resolution route."
+    },
+    {
+      "id": "R8-consequences-indexed-promises",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- A resistance that fails is paid for twice over: the worker takes the raw pressure on **Resilience**, and what the destabilization does afterwards is what the entity uses to raise the gauge.",
+      "new": "- The Gauge is indexed to conduct around shelter: it rises for barriers erected and safety assurances given, and falls when a specific failure is named by someone answerable for it. Representations of protection are attacked first; people are usually injured incidentally to the thing they were sheltering behind."
+    },
+    {
+      "id": "R9-breach-escalation-indexed-promises",
+      "kind": "careful breach correction",
+      "careful": true,
+      "old": "| **Escalation** | Resilience drain rises by 5 each interval and by a further 10% for every barrier put up against it. |",
+      "new": "| **Escalation** | Indexed to promises: the Gauge rises 10% for each barrier, shield wall or cordon erected against it and 10% for each assurance that somebody present is safe; it falls 10% when a specific failure is named aloud by someone answerable for it. |"
+    },
+    {
+      "id": "R10-weapon-no-recurring-score",
+      "kind": "careful weapon correction",
+      "careful": true,
+      "old": "**Damage Application:** Score the breach once, then score the structural failure again on each following turn as the prised joint continues to give way; the two resolve as separate events against the same resistance.",
+      "new": "**Damage Application:** Applied per pierced target in the listed order at 100% → 70% → 50%. No second structural-failure score is taken on following turns; an opened barrier remains open as terrain and record, not as recurring damage."
+    },
+    {
+      "id": "R11-stigma-reveals-exposed",
+      "kind": "careful stigma correction",
+      "careful": true,
+      "old": "**Ability:** The charm warns its bearer when a structure they are relying on will not hold — reliably, early, and about structures nobody has the authority or the budget to fix.",
+      "new": "**Ability:** The charm reveals what a relied-on structure would leave exposed—the people and rooms behind it—rather than certifying another structure safe. Bearers experience that revelation as early warning, often about failures nobody present has the authority or budget to fix."
+    },
+    {
+      "id": "R12-work-notes-promises-fragments",
+      "kind": "careful work correction",
+      "careful": true,
+      "old": "The table above is one input among several, and it is the SECC code with the coherence level that tells a reader what a steady gauge means on the border. Welcome Haven stands as a Subject with Subject-Grudge manifestation and Grudge in its element, filed at Zone E on the border line. Two cautions travel with the entry. Nothing is inherited from a holding with a similar name; its neighbours are listed in their own section and none of them is this. And a flat gauge is no proof of a harmless watch: the figure can sit level while the worker is being reached through memory, ground or identity, and the price of that hour surfaces off the page.",
+      "new": "The table above is one input among several. On this holding a work reading is incomplete unless it also records the patrol section and direction, fused and shed fragment counts, every barrier erected, every safety assurance given, and every specific admission made with the speaker's authority. A steady Viderehan gauge is not proof of a harmless watch: the figure can hold level while the worker leaves with a well-evidenced loss of faith in the facility's undertakings, which is logged both as exposure and as a grievance."
+    },
+    {
+      "id": "R13-field-use-attribution-record",
+      "kind": "careful field-record correction",
+      "careful": true,
+      "old": "| **Before use** | Wielder, piece, the issue-day gauge, and a sealed baseline taken before the piece leaves the rack. On this set old injuries ache and bruising returns along the old lines with nothing new broken, so the baseline is opened at the end of the rotation rather than the beginning of it. |\n| **During use** | From the first charge the old injuries ache and the bruising comes back along the same lines with nothing fresh having struck the body. The hour entered is the hour it was first seen by the second worker, not the hour it was first mentioned by anybody. |\n| **At limit** | The limit arrives when the bearer goes quiet about the shield's memory of everybody it failed to protect — that silence, rather than any figure on the sheet, is where a Welcome Haven piece ends, and the observer calls it. |\n| **After use** | Return the piece, open the sealed baseline, and enter whether the shield's cost outlasted the rotation. The answer goes down whether or not the bearer agrees with it. |",
+      "new": "| **Before use** | Wielder, piece, issue-day gauge, sealed injury baseline, and—for the Broken Barrier—whether its one breach impact is already spent. The bearer names the collapsed-wall event and accepts the limit in writing; no piece is issued as a promise that its bearer will be safe. |\n| **During use** | Log patrol section, fused/shed fragments, every barrier erected, safety assurance given and specific admission made, with speakers named. Enter old-injury ache/bruising, temper change, the Barrier's spent state and any first-person retelling of the source event as separate lines. |\n| **At limit** | The observer calls the limit on a first-person source account, a repeated source response outside contact, a safety promise by the bearer, or silence about the shield's remembered failures. The piece is relinquished; it is not argued back into service. |\n| **After use** | A named witness states Welcome Haven's title and event while the bearer relinquishes the piece. Attribution review records trigger, response, cost and unresolved detail before cleaning or rest; the sealed baseline is opened, but it does not replace the promise/admission log. |"
+    },
+    {
+      "id": "R14-post-contact-review-specific",
+      "kind": "careful observation correction",
+      "careful": true,
+      "old": "| **Post-contact review** | Enter the delta — what was different afterwards, what held, and what the vocabulary would not carry. On this file the sheet is incomplete if it sets the danger down alone; the sorrow the entity preserves is the part the entry exists to carry. |",
+      "new": "| **Post-contact review** | Enter patrol position/direction, fused and shed fragment counts, every barrier erected, every assurance or specific admission with its speaker, and the resulting gauge movement. Forward personnel reports of institutional betrayal both as exposure findings and as grievances; a danger-only sheet is incomplete. |"
+    },
+    {
+      "id": "R15-flavor-activation-no-instrument-change",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**When the entity activates:** The threshold is 1, so activation and breach are the same event — one failed cycle, no margin, no second attempt, no partial credit. The change is physical: the air goes wrong, the Han-lamps flicker, and the Grudge acquires a taste. What has been crossed is the line between the entity containing its grievance and becoming it. The gauge rises ten per cent for each barrier, shield wall or cordon erected against it, and ten per cent more each time a member of personnel assures anybody present that they are safe. Do not barricade and do not reassure.",
+      "new": "**When the entity activates:** The threshold is 1, so activation and breach are the same event — one failed cycle, no margin, no second attempt, no partial credit. No lamp or thermometer changes: the fire still registers on no instrument. What changes is conduct in the section—hands go toward barriers and comforting words, which are the two inputs the Gauge is indexed to punish. It rises ten per cent for each barrier, shield wall or cordon erected against it, and ten per cent more each time a member of personnel assures anybody present that they are safe. Do not barricade and do not reassure."
+    },
+    {
+      "id": "R16-interaction-variables-safety-representation",
+      "kind": "careful interaction correction",
+      "careful": true,
+      "old": "Three holdings sit within the wall's working range — The Rusted Wall, The Guardian of the Gate and The Outside Sorrow — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter what the answer did in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger beside it.",
+      "new": "Three holdings sit within the wall's working range — The Rusted Wall, The Guardian of the Gate and The Outside Sorrow — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter patrol section and direction, separation and duration, gauge movement, fused/shed fragments, every barrier or assurance introduced by personnel, and above all whether the other presence constitutes a representation of safety."
+    },
+    {
+      "id": "R17-registry-classification-accompanied",
+      "kind": "short registry correction",
+      "careful": false,
+      "old": "**Classification:** Sorrow Entity — `O-IVδ-897 [GS]` · Grudge · Subject-Grudge manifestation\n**Common Name:** Welcome Haven\n**Containment Status:** Contained — Zone E, Border region",
+      "new": "**Classification:** Sorrow Entity — `O-IVδ-897 [GS]` · Outside Sorrow (외한) origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Grudge manifestation\n**Common Name:** Welcome Haven\n**Containment Status:** Accompanied on patrol — Zone E, Border region; no cell has been built, and personnel work under the admission protocol without promising protection"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-O-IVδ-897_Welcome_Haven_부서진_벽.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.016  clean   190 grams  Operational Parameters\n 0.014  clean   147 grams  Trivia\n 0.006  clean   642 grams  Combat Record\n 0.003  clean  1441 grams  Apex Record\n 0.002  clean   820 grams  M.A.W. Equipment\n 0.002  clean   870 grams  감각 묘사 (Flavor Text)\n 0.000  clean   420 grams  기록 (Registrum)\n 0.000  clean   359 grams  이야기 (Narratio)\n 0.000  clean   308 grams  관찰 기록 (Observation Log)\n 0.000  clean   292 grams  Appearance\n 0.000  clean   265 grams  Breach Behavior\n 0.000  clean   221 grams  Origin\n 0.000  clean   215 grams  이야기 보고 (Story Log)\n 0.000  clean   207 grams  Behavior\n 0.000  clean   113 grams  최종 관찰 (Final Observation)\n 0.000  clean    38 grams  SECC Classification\n 0.000  clean    34 grams  증언 (Testimonium)\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   3  | **Han-Energy yield** | 20–28 per successful work cycle, taken off the border walk and never off the standing fragments |\n   84   4  | { *Every Wall Falls* [**Ultimate**] } | \"Not every wall. Every wall somebody is hiding behind instead of telling the truth.\" | [\n  194   1  **Binding and return:** The individual Weapon record requires the bearer to name the collapse that left residents exposed and acce\n  220   1  **Appearance:** a small charm of Grudge Han-iron, dark and warm, that takes the light at an angle no sound piece of metal should.\n  245   1  | **After use** | A named witness states Welcome Haven's title and event while the bearer relinquishes the piece. Attribution revi\n  325   2  | The wall's neighbour | How the pairing has run | What the border watch measured | What the entry carries |\n  431   4  The Zone E watch asked for a single exception. Where the deciding officer is known, is alive, and volunteers, let them speak as th\n  442   2  - **Classification detail:** A Subject with Entity (IV) coherence and Critical (δ) potency, graded for the failure it stands for r\nGENERIC 0.003  (18 shared shingles)  SE-O-IVδ-897_Welcome_Haven_부서진_벽.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-A__SIDE_CODEX_Welcome_Haven.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-B__MAW-W_The_Broken_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-C__MAW-S_The_Broken_Barrier.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-D__MAW-G_The_Broken_Charm.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-A__SIDE_CODEX_Welcome_Haven.md": "cae11fa3b27c57b033a0c8ce11fc5d1e7e9ec149eb8c596c27909de1336cafdf",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-B__MAW-W_The_Broken_Fang.md": "d84f783c7138729d67e0a20877e0aff2bdfdc0353deadc90e566c897308ebb83",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-C__MAW-S_The_Broken_Barrier.md": "e5ab8a89576ee63fece3f8f1eb60fce39de97e8d3a795c16be292c5478358679",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-D__MAW-G_The_Broken_Charm.md": "7e95e5cc6b66e5e623f209075ae6b176d7f4407e01243add6ce71e31f7ffafb1"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-O-IVδ-897_Welcome_Haven_부서진_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md \"SE-O-IVδ-897_Welcome_Haven_부서진_벽.md\")]",
+  "table_link": "[[O-IVδ-897 Welcome Haven](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md \"SE-O-IVδ-897_Welcome_Haven_부서진_벽.md\")]",
+  "reading": {
+    "before_lines": 452,
+    "before_bytes": 51840,
+    "final_lines": 452,
+    "final_bytes": 53204
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 20,
+    "physical_form_rows_unchanged": 300,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": "The Full Breach source-Gauge rise was corrected from the target's unsupported 15% to the file's established +10% per erected barrier; a second +10% assurance rule was stated in Row 2. The Ultimate threshold moved from 65% to the Core Stat Line's ≥90% because the entity starts at 60–80%. The unsupported breach drain of 5 per interval was removed. Damage bands were retained."
+  }
+}

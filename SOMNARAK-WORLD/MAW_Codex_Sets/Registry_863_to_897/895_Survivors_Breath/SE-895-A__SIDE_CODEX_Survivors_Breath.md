@@ -22,7 +22,7 @@ The Sigh formed from exhaustion that could not become rest. The grief of survivi
 | Type / Manifestation | Subject — Can breach / Subject-Spirit |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / Zone B, Old Lament |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Void |
+| Gauge / Pressure | 000/910; starts 000% / 29–64 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | Citizens sighed after repeated crises until the collective breath became a wandering presence. |
 
@@ -40,7 +40,7 @@ The Sigh formed from exhaustion that could not become rest. The grief of survivi
 
 ## WITNESS RECORD — *The Survivors Breath Source-Trace*
 
-During the The Survivors Breath Source-Trace, the field team preserved this source fact: Citizens sighed after repeated crises until the collective breath became a wandering presence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of surviving one more day without believing the next will be easier.
+During *The Survivors Breath Source-Trace*, the field team preserved this source fact: Citizens sighed after repeated crises until the collective breath became a wandering presence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of surviving one more day without believing the next will be easier.
 
 ## M.A.W. SET — *Survivors' Breath — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Survivors Breath Source-Trace, the field team preserved this sour
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Survivors' Breath's source condition, the Suit lets a witness bear its Void pressure, and the Weapon opens only the immediate manifestation that violates this rule: Permit rest; do not force personnel to continue working through it The set cannot heal the originating event. Misuse routes Survivors' Breath's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-895-A`  
-**Linked Entity:** `SE-895`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

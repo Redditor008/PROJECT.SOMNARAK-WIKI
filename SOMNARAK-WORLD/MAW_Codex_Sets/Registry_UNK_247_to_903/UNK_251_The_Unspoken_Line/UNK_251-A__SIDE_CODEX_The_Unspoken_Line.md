@@ -21,7 +21,7 @@ A four-way Mantle Commons junction became a Void line after hope-touched and unt
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element / Location | Void / Zone D, Mantle Commons |
-| Gauge / Pressure | 910/910; starts 55–70% / 29–64 Void |
+| Gauge / Pressure | 000/910; starts 000% / Void — no attack pattern; the residents’ own account of where the line runs is the instrument |
 | Movement / Resistance | Fixed / 40% Void, 30% other |
 | Valid Work | Viderehan and Ferrehan only |
 | Resolution | One resident from each side speaks honestly about anything |
@@ -38,9 +38,9 @@ A four-way Mantle Commons junction became a Void line after hope-touched and unt
 | Manifestation | Place-Void |
 | Location | A four-way junction in the Mantle Commons, Zone D |
 | R.D. Comprehension Level | 3 — Elevated |
-| Starting Sorrow Gauge | 55–70% |
-| Activation threshold | 2 |
-| Sorrow Gauge [HP] | 910/910 |
+| Starting Sorrow Gauge | 000 — settled |
+| Activation threshold | Nine days without a board entry, the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
+| Sorrow Gauge [Saturation] | 000 of 880 — rests at nothing, fills to the wall in sixty seconds (`R-48`) |
 | Han Pressure [ATK] | 29–64 per hit · Void |
 | Speed | 0.0 m/s (fixed) |
 | Resistance | 40% against Void pressure; 30% against other pressure types |
@@ -60,13 +60,3 @@ A four-way Mantle Commons junction became a Void line after hope-touched and unt
 The Stone carries one sentence, Mantle balances the two emotional climates, and Edge cuts only the silence sealing the junction. Both speakers feel everything left unsaid. Using the Edge to decide which side is right widens the line through the wearer.
 
 **Incident:** Gaeul Uri said, “Your lamps kept me awake,” and Ongius Park answered, “I thought your darkness meant refusal.” Neither statement solved hope’s inequality; both crossed. The junction narrowed for the first recorded time.
-
----
-
-**Document ID:** `UNK-251-A`  
-**Linked Entity:** `UNK-251`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

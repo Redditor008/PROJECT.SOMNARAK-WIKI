@@ -18,12 +18,13 @@
 | Grade | γ — Major |
 | Element | Void |
 | Slot | Head |
+| **Maximum Amount** | 3 — Standard |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Rejector source record |
 
 ### Appearance
 
-The Denial Shield is a small shield pendant of pale grey Han glass, shaped like a rounded buckle with a raised rim and a short black loop for a cord. It is light and cold and rests flat against the bearer's chest. Once per encounter it rejects one incoming direct attack, mark, or forced movement effect, and the rim glows briefly at the moment of refusal. For the same short interval it also rejects healing, rescue pull, and emotional support, so the bearer cannot accept help until someone offers it again after the effect ends. The glass turns a shade paler after each use and slowly returns to grey. Its protection is absolute for one instant and its refusal is equally absolute, which is why rescue teams keep a second offer ready. The shield is stored on a grey cloth, and a second offer of aid is always carried by the rescue team so the bearer is not left waiting alone.
+The Denial Shield is a disc of pale grey Han glass, a little smaller than a palm, hung on a black cord so that it lies flat over the breastbone. Its face is cut with a shallow concentric step that catches the light only at the moment of refusal, and the eye it hangs from is drilled through a raised boss rather than a loop. The glass is colder than the room and does not warm while it is working. Once spent it goes a shade paler and returns to grey slowly, and it is kept on grey cloth between uses — the rescue team carries a second offer of aid, because the Shield refuses that too.
 
 ### Ability— No Further
 
@@ -36,12 +37,3 @@ Once per encounter, the Stigma rejects one incoming direct attack, mark, or forc
 ### History Record
 
 A Denial Shield saved a bearer from a Void execution mark. The bearer then refused a rescue rope because the Shield was still active and nearly fell into a lower service shaft.
-
-**Document ID:** `SE-063-D`  
-**Linked Entity:** `SE-063`  
-**Item Registry Code:** `MAW-G-063-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

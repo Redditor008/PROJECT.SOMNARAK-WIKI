@@ -64,14 +64,3 @@ Sora used the Requiem when a responder chose to stay inside a dream of a life wi
 ## SET RELATIONSHIP
 
 With Dream Shroud and Dream Thread, the Requiem supports *Return the Thread*: Dream contact remains consented, bounded, and answerable to waking life.
-
----
-
-**Document ID:** `SE-175-B`  
-**Linked Entity:** `SE-175`  
-**Item Registry Code:** `MAW-W-175-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

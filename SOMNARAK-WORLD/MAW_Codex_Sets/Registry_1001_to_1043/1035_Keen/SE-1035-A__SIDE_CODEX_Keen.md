@@ -22,7 +22,7 @@ The Fragment formed from a cry that ended while its sorrow continued. The persis
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone C, Collector's Row |
-| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Lament |
+| Gauge / Pressure | 000/198; starts 000% / 3–10 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared. |
 
@@ -40,7 +40,7 @@ The Fragment formed from a cry that ended while its sorrow continued. The persis
 
 ## WITNESS RECORD — *The Keen Source-Trace*
 
-During the The Keen Source-Trace, the field team preserved this source fact: A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The persistence of grief after the person who expressed it has vanished.
+During *The Keen Source-Trace*, the field team preserved this source fact: A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The persistence of grief after the person who expressed it has vanished.
 
 ## M.A.W. SET — *Keen — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Keen Source-Trace, the field team preserved this source fact: A m
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Keen's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Listen without attempting to identify or silence the cry The set cannot heal the originating event. Misuse routes Keen's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1035-A`  
-**Linked Entity:** `SE-1035`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

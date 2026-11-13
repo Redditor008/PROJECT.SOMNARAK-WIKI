@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A young woman's figure of true flesh and bone, rigid with held fury — skin flushed dark, fists clenched, jaw set, heat radiating from her like a banked fire. She is warm, alive, and coiled to strike; the air around her carries the smell of char and old smoke. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Organic |
+| **Movement** | Mobile — stands, walks the chamber and sits with her sisters. She has never breached, and the modelled breach moves on foot only toward confrontation, passing over the unconfronting. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -26,14 +26,15 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure** | Resilience — holding the watch without answering her in kind; the structural load on the fittings is its literal trace |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 3 |
+| **Work Damage** | 3–5 Grudge — the cost is the object of the anger, which the record names and the worker can read |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Vessel-Destructible** | No — destruction is not an available resolution on a living Subject. Confrontation only feeds the load and leads both Sisters upward |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Flerehan and Ferrehan. Flerehan is the only route by which this holding has ever advanced: the flames drop and the accusatory edge leaves the voice. Ferrehan takes the full watch in the heat, answering when addressed and never agreeing with her about who. Viderehan holds the gauge where it is. Pugnahan is prohibited outright — she was formed out of that exchange and burns hotter the longer it runs. |
 
 ### Operational Notes
@@ -52,9 +53,9 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.15 m/s |
-| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
+| **Resistance** | 35% against Grudge pressure; 25% against other pressure types. Resistance is never a licence to argue: response teams are screened for open grievances, nobody opens or answers in kind, fittings are load-checked on the gauge schedule, and both Sisters are read within the hour of any spike here. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 459/459 |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 10–24 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
@@ -70,35 +71,35 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan and Ferrehan; Viderehan holds the gauge level. Pugnahan is prohibited absolutely. |
 | **Battlefield** | SECTOR-D-02, contained with the Three Sisters |
-| **Resolution Condition** | Validate the anger; do not deny or argue with it |
+| **Resolution Condition** | The worker states plainly that what was done to the boy was wrong, names no person, and demands no forgiveness. Then the cooling hour runs and the thermal settle is confirmed before relief. Validation lowers the flame; argument feeds it. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Clenched Fist* [**Debuff**] } | "She stands shaking with rage — and the shaking transfers to you, and you cannot stop your hands from curling." | [The Maiden's fury infects the target; their own anger rises unbidden.] | *Target suffers -10 Resilience; they are becoming angry without cause.* **[10 Grudge DMG [Grudge]]** | When the target approaches. |
-| { *The Rising Bile* [**Debuff**] } | "Her fury has no target — it is pure, undirected, and enormous. Just being near it makes you furious at everything." | [The Maiden's formless rage envelops the target.] | *Target loses 10 Resilience; everything becomes infuriating.* **[10 Grudge DMG [Grudge]]** | When the target remains near. |
-| { *The Slap* [**Attack**] } | "She strikes — hard, fast, and with the full force of a fury that has been building for centuries." | [A single devastating blow from a fist that has never unclenched.] | *Inflicts Grudge pressure and one heavy, ringing wound.* **[14-22 Grudge DMG [Grudge]]** | When the Maiden is provoked. |
-| { *The Full Eruption* [**Attack**] } | "Every ounce of fury she has ever suppressed — released at once, in one enormous, screaming blow." | [The Maiden detonates with all her accumulated rage.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Maiden is cornered. |
-| { *Everyone Is Furious* [**Ultimate**] } | "Now everyone is as angry as she is — and no one knows why, and no one can stop." | [The Maiden extends her fury across the whole field.] | *All in range suffer Grudge pressure for three turns of universal rage.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Clenched Fist* [**Debuff**] } | "She stands shaking with rage — and the shaking transfers to you. And you cannot stop your hands from curling." | [A worker who enters her fire radius carrying visible unresolved anger gives her load somewhere to gather; their own hands begin to curl.] | *The worker loses Resilience as their anger rises. Do not open and do not answer: the screened relief takes the watch, and the grievance is dealt with outside her hearing.* **[10 Grudge DMG [Grudge]]** | When a person enters the fire radius with visible unresolved anger. |
+| { *The Rising Bile* [**Debuff**] } | "You explain, kindly and accurately, that nobody can be blamed while nobody is known — and the room gets hotter by the minute." | [Her anger has a fixed object, the violence that killed the child; what spreads through the room is the dismissal of it.] | *Personnel lose Resilience and begin answering each other. Stop explaining: state that the act was wrong, name no person, and let the exchange end there.* **[10 Grudge DMG [Grudge]]** | When a person calls her anger irrational, excessive or inconvenient, or explains that nobody can be blamed. |
+| { *The Slap* [**Attack**] } | "She strikes — hard, fast. And with the full force of a fury that has been building for centuries." | [A single Grudge impact delivered to the person confronting her; in three chamber incidents the uninvolved beside them were ignored entirely.] | *Inflicts heavy Grudge pressure on the confronter only. Everybody else holds position and offers nothing. The exchange stops when the answering stops.* **[14-22 Grudge DMG [Grudge]]** | When a person threatens, mocks or physically confronts the Maiden. |
+| { *The Full Eruption* [**Attack**] } | "Every ounce of fury she has ever suppressed — released at once, in one enormous, screaming blow." | [A high-output Crimson blast into the room's structure: the fittings take what the architecture takes, and both Sisters' loads follow within a short interval.] | *Heavy Grudge pressure and structural load. Open the exit path, restore Sister proximity, withdraw every answer, and read all three Sisters within the hour in fixed order.* **[24-36 Grudge DMG [Grudge]]** | When her exit paths are blocked or her proximity to her Sisters is broken. |
+| { *Everyone Is Furious* [**Ultimate**] } | "Now everyone is as angry as she is — and no one knows why. And no one can stop." | [A three-turn group rage field: the wave finds the friction already in the room and widens it until the team is arguing with itself.] | *All in range suffer Grudge pressure for three turns. One screened voice states the violence plainly and that it was wrong. Nobody demands forgiveness, nobody argues. And the watch moves to the cooling hour.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while multiple people in the room are denying the original violence. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — The Angry Maiden is recognised by her by the thermal chart against the last watch, not by the fire. She looks the same at two degrees and at sixty-eight, and five early reports describe a quiet chamber on watches the probe recorded at over forty — then the approach is set and the positions are taken.
+1. **Tension:** Identification first — The Angry Maiden is recognised by the thermal chart against the last watch, not by the fire. She looks the same at two degrees and at sixty-eight, and five early reports describe a quiet chamber on watches the probe recorded at over forty — then the approach is set and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan only. Pugnahan is prohibited on this file and the prohibition is read aloud at shift start rather than assumed. The reading is the peak thermal load of the watch, in degrees above corridor ambient at the fixed wall probe, charted by the thermal crews: eleven point four at baseline, two point one at the floor, sixty-eight at the ceiling.
 3. **Resolution:** The documented suppression condition: **validate the anger; do not deny or argue with it** — then the cooling hour, then the relief. No watch has ever closed without the hour, including through the hardship rotations when every other provision in the wing was shortened.
 
 ### Consequences
 
-- Resilience fails here as argument. She is accusatory, she is loud, and she addresses personnel by the failures they are most defensive about; the worker answers, reasonably and in kind, and the thermal load climbs for as long as the exchange lasts. She does not tire. The room does.
+- Resilience fails here as argument. She is accusatory, she is loud, and she addresses personnel by the failures they are most defensive about. The worker answers, reasonably and in kind, and the thermal load climbs for as long as the exchange lasts. She does not tire. The room does.
 - Long exposure produces a worker who will not sign a finding that records a death and declines to record a wrong. Four Specialists rotated off this holding were afterwards found returning draft findings to the coroner's office with a single question written on them, which was whether the act had been wrongful.
 - The fang aches in the wielder's old injuries and leaves faint bruising where they were hurt years before. The armoury's note records the cost in one line and records, in a second, that no bearer has ever asked for it to be removed.
 - She has never breached in the holding's history and the breach model below is reconstruction rather than record. What is documented is escalation: when her load climbs, the loads of the other two Sisters follow within a short interval, every time, and that is the strongest reason this file exists at all.
 
 ## Appearance
-**Primary Form:** A young woman of flesh and bone beneath a surface of crystallized fire, burning deep red and orange and never going out; her voice carries the heat of accusation.
+**Primary Form:** A young woman of flesh and bone beneath a surface of crystallized fire, burning deep red and orange and never going out. Her voice carries the heat of accusation.
 
 **Notable Features:**
 - Her flames dim around shared grief.
@@ -110,7 +111,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** The burning surface and the held posture — fists closed, jaw set — in a body that four medical examinations record as living flesh, warm, with a pulse. The fire is on her and is not what she is made of, and the archive's two-century habit of writing otherwise is a description that hardened into a classification.
-- **Position / movement:** She stands, walks the chamber, and sits when her mother visits. Distance from the boundary and posture are logged each hour; the posture entry matters because the fists unclenching has preceded every one of the three recorded settles.
+- **Position / movement:** She stands, walks the chamber, and sits when her mother visits. Distance from the boundary and posture are logged each hour. The posture entry matters because the fists unclenching has preceded every one of the three recorded settles.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-D-02, contained with the Three Sisters
 
@@ -118,7 +119,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A young woman of flesh and bone beneath a surface of crystallized fire, burning deep red and orange and never going out; her voice carries the heat of accusation. |
+| **Form** | A young woman of flesh and bone beneath a surface of crystallized fire, burning deep red and orange and never going out. Her voice carries the heat of accusation. |
 | **Position / movement** | Stands, walks the chamber, sits when her mother visits. Posture logged hourly; the unclenching of the fists has preceded all three recorded settles. |
 | **Material / signature** | Grudge. Flesh and bone under a surface that burns — a steady fire that does not spread and does not go out. Four medical examinations record a living body, warm, with a pulse, beneath it. The archive has written her for two centuries as a figure made of fire, and that is a description of her surface and not of her. |
 | **Distinctive markers** | Her flames dim around shared grief. She burns fiercely when confronted. Her anger is directed toward the violence that killed a child. |
@@ -137,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | The flames drop, the accusatory edge goes out of the voice, and the probe falls. It is the most-studied response in the Sisters' shared file and the only route by which this holding has ever advanced. | Decrease |
-| **Pugnahan** (Confrontation) | Prohibited outright. She was formed out of this exchange and burns hotter for as long as it continues; the load climbs, the fittings take it, and she does not tire. | Increase — prohibited |
-| **Viderehan** (Observation) | She describes the act — the hand, the street, the hour — in detail and without heat, and has never once described a person. Four assessors have recorded their frustration at that in nearly identical words. | Stable |
-| **Ferrehan** (Endurance) | The full watch in the heat, answering when addressed and never opening, never agreeing with her about who, never arguing that nobody is to blame. | Decrease |
+| **Flerehan** (Tears) | The flames drop, the accusatory edge goes out of the voice, and the probe falls. It is the most-studied response in the Sisters' shared file and the only route by which this holding has ever advanced. | Decrease · High |
+| **Pugnahan** (Confrontation) | Prohibited outright. She was formed out of this exchange and burns hotter for as long as it continues. The load climbs, the fittings take it, and she does not tire. | Increase — prohibited · Low |
+| **Viderehan** (Observation) | She describes the act — the hand, the street, the hour — in detail and without heat, and has never once described a person. Four assessors have recorded their frustration at that in nearly identical words. | Stable · Common |
+| **Ferrehan** (Endurance) | The full watch in the heat, answering when addressed and never opening, never agreeing with her about who, never arguing that nobody is to blame. | Decrease · Common |
 
 ### Special Behaviors
 - She must remain with her sisters. Separation has been attempted once, in Year 4204, and the attempt is the reason the provision exists.
@@ -151,7 +152,7 @@
 
 ### Operational Work Notes
 
-Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is prohibited. The Registrum named Pugnahan as the primary Work Type for this holding, which is not an inconsistency but a direct instruction to perform the one act the standing order forbids, and it sat in the summary section of this file while watch commanders read the prohibition aloud at every shift start.
+Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is prohibited. The Registrum named Pugnahan as the primary Work Type for this holding, which is not an inconsistency but a direct instruction to perform the one act the standing order forbids. And it sat in the summary section of this file while watch commanders read the prohibition aloud at every shift start.
 
 **Reading the response:** The gauge measures one worker for one watch. The thermal chart measures how this facility has been writing its findings. They are kept in separate columns, they have never moved together, and watch commanders are instructed that a watch which lowers the gauge and peaks high has been worked correctly and is written up as a success without qualification.
 ## Breach Behavior
@@ -161,7 +162,7 @@ Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is pro
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Modelled: on foot, walking, drawn only toward confrontation. The indiscriminate hunting clause contradicted the First Target row directly below it and the Trivia entry at the foot of this file, and has been removed. |
+| **Movement** | Modelled: on foot, walking, drawn only toward confrontation. There is no indiscriminate hunting in the model; the unconfronting are passed over. |
 | **Effect** | Modelled as structural: cracked walls, failed fittings, and personnel taking what the architecture takes. The chamber fittings have twice required work after a hard watch, which is the only evidence underneath the model. |
 | **Secondary Effect** | Modelled: the wave finds the friction in a response team and widens it. Teams are therefore drawn from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly. |
 | **First Target** | Whoever confronts her first. The unconfronting are passed over, and that clause is the only part of this table resting on observation — three chamber incidents in which uninvolved workers were ignored entirely while the argument continued. |
@@ -169,7 +170,7 @@ Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is pro
 
 ### Escalation Notes
 
-- **Breach type:** Escape, modelled and never observed. In the holding's history she has not left the chamber. The model holds that she would walk rather than spread, that confrontation would be the only thing that drew her, and that personnel who did not answer her would be passed over — which is the one part of it that rests on evidence, from three chamber incidents in which uninvolved workers were ignored entirely.
+- **Breach type:** Escape, modelled and never observed. In the holding's history she has not left the chamber. The model holds that she would walk rather than spread, that confrontation would be the only thing that drew her. And that personnel who did not answer her would be passed over — which is the one part of it that rests on evidence, from three chamber incidents in which uninvolved workers were ignored entirely.
 - **Containment priority:** Forbid confrontation, hold the line, and station personnel willing to grieve openly. Wardens deployed in force raise the load rather than lowering it, which has been demonstrated twice and is the reason the response roster is a personnel question before it is a tactical one.
 - **Sorrow Gauge on breach:** Modelled at 45% opening, falling 10% whenever grief is shared aloud in her presence. The falling clause is the only figure in the model drawn from chamber observation rather than from the general breach template.
 
@@ -194,9 +195,9 @@ Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is pro
 **Falloff Rule:** 100% to the one designated target. The fang will not discharge into a group and the armoury has never explained why, recording only that the property is consistent across every piece drawn from this holding.
 **Damage Application:** Multiplier to direct and Tick damage separately. The Tick is the ache the target feels in their own older injuries, logged in seconds, and it has outlasted the fresh wound in every recorded use.
 
-**Ability:** Grudge damage to the Body. The blade carries the archetype and is issued only to bearers who have passed the no-open-grievance screening; the armoury treats that as a property of the piece rather than a precaution around it, having twice watched it fail to discharge for a bearer who had not.
+**Ability:** Grudge damage to the Body. The blade carries the archetype and is issued only to bearers who have passed the no-open-grievance screening. The armoury treats that as a property of the piece rather than a precaution around it, having twice watched it fail to discharge for a bearer who had not.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Bearer cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Fury Plate
 
@@ -214,7 +215,7 @@ Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is pro
 
 **Ability:** Resists Grudge pressure on the Body. Issued for the full watch and worn through the cooling hour, which thermal crews insisted on after two wearers removed it early and were found still carrying the load at the handover.
 
-**Cost:** Dulled reflexes for about two days, measured and found real and modest. Wearers describe it as the slowness of having already decided not to answer.
+**Bearer cost:** Dulled reflexes for about two days, measured and found real and modest. Wearers describe it as the slowness of having already decided not to answer.
 
 ### M.A.W. Stigma — The Fury Blade
 
@@ -228,24 +229,24 @@ Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is pro
 
 **Ability:** The pendant goes cold against the throat when the bearer is about to argue, and warm when they are about to agree with something they do not believe. It has no offensive function and the earlier description of it as dealing fire damage was drawn from the weapon's data sheet.
 
-**Cost:** The bearer carries an anger that is not theirs and that has a clear object and no person at the end of it. It lifts when the pendant comes off, and four bearers have recorded that the lifting is the hardest part.
+**Bearer cost:** The bearer carries an anger that is not theirs and that has a clear object and no person at the end of it. It lifts when the pendant comes off, and four bearers have recorded that the lifting is the hardest part.
 
 *The pendant has been granted five times, each to a worker who recorded in a finding that an act had been wrongful when the easier and equally defensible course was to record only that a person had died. Three of the five were asked by their own office to reconsider. The holding records the pattern and will not make it a criterion.*
 
 ### M.A.W. Use Notes
 
-The primary's “not answering” pattern and shield-prototype account remain primary-specific; that destroyed attempt is not one of the active three pieces in Side A's `4/4` Fury set. The Side-Codex resonance requires the bearer to name a specific injustice without exaggerating it or using it to justify unrelated violence; it directs Grudge toward the recorded act and later requires the bearer to hear a conflicting witness account and remain present. Keep each item's instructions and costs distinct: the primary's Fang screen for an open grievance differs from item B's named harm, victim, and responsible action, and the Fang cannot establish facts. The Plate's primary two-day dulled reflexes differ from item C's retained heat and reflexes sharpened toward confrontation; the primary Blade's no-speaking-first and temperature cues differ from item D's Wrongness Mark, which responds to resemblance rather than legal certainty. The primary says its anger lifts when the pendant is removed; item D instead keeps it warm until the observed harm is written down and records anger at similar remembered acts. The Master M.A.W. Codex's Stigma fire-damage claim also conflicts with the primary and item D; it remains unresolved.
+The primary's “not answering” pattern and shield-prototype account remain primary-specific. That destroyed attempt is not one of the active three pieces in Side A's `4/4` Fury set. The Side-Codex resonance requires the bearer to name a specific injustice without exaggerating it or using it to justify unrelated violence. It directs Grudge toward the recorded act and later requires the bearer to hear a conflicting witness account and remain present. Keep each item's instructions and costs distinct: the primary's Fang screen for an open grievance differs from item B's named harm, victim, and responsible action, and the Fang cannot establish facts. The Plate's primary two-day dulled reflexes differ from item C's retained heat and reflexes sharpened toward confrontation. The primary Blade's no-speaking-first and temperature cues differ from item D's Wrongness Mark, which responds to resemblance rather than legal certainty. The primary says its anger lifts when the pendant is removed. Item D instead keeps it warm until the observed harm is written down and records anger at similar remembered acts. The Master M.A.W. Codex's Stigma fire-damage claim also conflicts with the primary and item D; it remains unresolved.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Record operator, witness, piece or set, opening thermal reading, and confirmed grievance screening. Name the specific injustice, harm, victim, and responsible action; record the claim's verified or contested status without treating the Fang as a fact-finder. Copy any operator-signed finding that records a death without a wrong, seal it, and read it back after the watch. Confirm the Side set's no-exaggeration/no-unrelated-violence condition and schedule the conflicting witness account. |
-| **During use** | Record peak load and its hour, posture hourly, and every chamber statement verbatim with speaker named; preserve the thermal crew's own annotations at each spike (none has been requested for removal). For the Fang, log the named harm/victim/action, any vent-only use or disputed accusation, old-wound ache, and any returned-Grudge warning. For the Plate, record heat retained/released and the cooling protocol separately from the primary's two-day dulled reflexes and item C's confrontation bias. For the Blade, log the primary's no-speaking-first/temperature cues separately from item D's resemblance-triggered light and written record; neither is a legal finding. |
+| **During use** | Record peak load and its hour, posture hourly, and every chamber statement verbatim with speaker named. Preserve the thermal crew's own annotations at each spike (none has been requested for removal). For the Fang, log the named harm/victim/action, any vent-only use or disputed accusation, old-wound ache, and any returned-Grudge warning. For the Plate, record heat retained/released and the cooling protocol separately from the primary's two-day dulled reflexes and item C's confrontation bias. For the Blade, log the primary's no-speaking-first/temperature cues separately from item D's resemblance-triggered light and written record; neither is a legal finding. |
 | **At limit** | Record watch length, peak load, and the operator's sealed declaration in full. The existing outcome log notes nine cases sent to the coroner and four amended findings; those are outcomes, not a threshold. Keep the limits separate: item B warns that an unverified accusation returns Grudge to the bearer, the Plate requires the recorded cooling protocol, and a Stigma signal prompts documentation rather than a verdict. |
-| **After use** | Keep the Plate on through the full cooling hour; thermal crews confirm the settle before relief, and none is cleared early. Check bruising and reflexes at two days per the primary. Record the Fang's old-wound ache and whether borrowed anger ends after another account is heard. When the full set is used, hear the conflicting witness account with the bearer present. Log the Blade's primary removal-based release separately from item D's warmth until the observed harm is written down; attach any amended finding without treating either signal as adjudication. |
+| **After use** | Keep the Plate on through the full cooling hour; thermal crews confirm the settle before relief, and none is cleared early. Check bruising and reflexes at two days per the primary. Record the Fang's old-wound ache and whether borrowed anger ends after another account is heard. When the full set is used, hear the conflicting witness account with the bearer present. Log the Blade's primary removal-based release separately from item D's warmth until the observed harm is written down. Attach any amended finding without treating either signal as adjudication. |
 
-**Stat interpretation:** β and the listed damage/resistance values describe the set's response to entities, not a single operator cost. The primary records old-wound pain and faint bruising, two days of dulled reflexes, and borrowed anger; linked items add returned Grudge and anger until another account is heard, stored heat with confrontation-biased reflexes, and a resemblance-triggered anger mark. Keep those reports separate. The Side resonance directs Grudge at the recorded act, but item D explicitly treats its light as resemblance rather than legal certainty; neither is a finding of culpability.
+**Stat interpretation:** β and the listed damage/resistance values describe the set's response to entities, not a single operator cost. The primary records old-wound pain and faint bruising, two days of dulled reflexes, and borrowed anger. Linked items add returned Grudge and anger until another account is heard, stored heat with confrontation-biased reflexes, and a resemblance-triggered anger mark. Keep those reports separate. The Side resonance directs Grudge at the recorded act, but item D explicitly treats its light as resemblance rather than legal certainty. Neither is a finding of culpability.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced, the highest in the Sisters' shared file, and reached entirely through Flerehan. Every advance in understanding here came from a worker grieving alongside her; not one came from an instrument.
@@ -265,7 +266,7 @@ The primary's “not answering” pattern and shield-prototype account remain pr
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Thermal probe reading, posture, and the prohibition read aloud. The observer is told at the door that she will address them by the failure they are most defensive about and that answering her is the only way to make the watch worse. |
-| **Sustained observation** | Over a year the peak load detaches from the chamber and attaches to the findings return. Observers holding both columns stop proposing new work here; there is nothing to do but hold the prohibition, grieve honestly when it is asked of them, and send the figure on. |
+| **Sustained observation** | Over a year the peak load detaches from the chamber and attaches to the findings return. Observers holding both columns stop proposing new work here. There is nothing to do but hold the prohibition, grieve honestly when it is asked of them, and send the figure on. |
 | **Activation or escalation** | A peak fifteen degrees above the previous watch opens a documents search rather than a chamber response: which deaths by external means were concluded in the preceding fortnight and how many were closed without a finding of wrongfulness. The search has succeeded on twenty-two occasions out of twenty-five. The other two Sisters are read within the hour, because this one leads them. |
 | **Post-contact review** | Peak and settle with their hours, the annotated chart, the verbatim chamber log, the two Sisters' readings, and the fortnight's concluded findings attached with the unrecorded wrongs listed by case number. Totals are returned. A review that reports three hundred and thirty-one is not a review anybody can act on. |
 
@@ -281,15 +282,15 @@ The Angry Maiden (C-IVβ-042 [GS]) stands on the register as a Subject-Body mani
 The first return under the Rule of the Recorded Wrong, Year 4238. Over the nine years the register covers, this facility recorded one thousand and forty-two deaths by external means for which no responsible person was ever identified. Seven hundred and eleven now carry a finding that the act was wrongful, issued separately from any question of who did it. Three hundred and thirty-one still stand as death by external means, person or persons unknown, which states that somebody died and declines to state that anything was done to them. Twenty-nine findings of wrongfulness this year were followed by the departure, ostracism or eviction of a person who was never named in them and against whom nothing was ever alleged. The thermal load peaked at sixty-eight degrees above ambient in Year 4233, in the quarter the Zone B raid inquiry closed one hundred and eighteen deaths in a single tranche, every one of them unknown — an inquiry that was scrupulous and was praised for refusing to point at anybody. It peaked at two point one in Year 4237. The load has tracked the findings return for nine years and has never tracked anything done in the chamber.
 
 **Entry 3 — <Statement of a Coroner's Officer>**
-Death by external means, person or persons unknown. I have written that line nine hundred times and I will defend it until I am carried out. If I write that a wrong was done and I cannot say who did it, then in a district with four men and no evidence I have written something about four men, and three of them are innocent and none of them can stand up and answer me, because I have not accused them of anything they are permitted to deny. That is not caution. That is the whole architecture. And then the mother sat across from me and said: I am not asking you to name him. I am asking you to write down that it was wrong. And I could not do it, and I could not tell her why in a way that sounded like anything other than what it was, which is that the institution will protect a man who may not exist before it will tell her that her son did not merely stop living.
+Death by external means, person or persons unknown. I have written that line nine hundred times and I will defend it until I am carried out. If I write that a wrong was done and I cannot say who did it, then in a district with four men and no evidence I have written something about four men. And three of them are innocent and none of them can stand up and answer me, because I have not accused them of anything they are permitted to deny. That is not caution. That is the whole architecture. And then the mother sat across from me and said: I am not asking you to name him. I am asking you to write down that it was wrong. And I could not do it. And I could not tell her why in a way that sounded like anything other than what it was, which is that the institution will protect a man who may not exist before it will tell her that her son did not merely stop living.
 
 **Entry 4 — <Containment Notice>**
-Containment of C-IVβ-042 is a chamber discipline in the Echo Gardens and a findings rule in the coroner's office. Chamber: Pugnahan prohibited absolutely, the prohibition read aloud at shift start and never assumed known; Flerehan and Ferrehan only; peak thermal load at the fixed wall probe, charted with the crews' spike annotations, never graded by eye; posture logged hourly; fittings load-checked on the gauge schedule; the cooling hour at the close of every watch, thermal settle confirmed before the relief is cleared, no relief ever cleared early; the Three Sisters kept together, separation attempted once in Year 4204 and never again; response teams drawn only from Wardens with no open grievance on record. Coroner's duties, binding on every inquiry this facility conducts: **a finding that an act was wrongful is a finding about the act. It is recorded whenever the evidence supports it, separately from any question of attribution, and is never withheld for want of a name. Attribution is a finding about a person and is recorded, or not recorded, on its own evidence.** Work response — Flerehan: the flames drop and the accusation goes out of the voice (Decrease); Ferrehan: the full watch in the heat, answering when addressed and never opening (Decrease); Viderehan: the act described in detail, never a person (Stable).
+Containment of C-IVβ-042 is a chamber discipline in the Echo Gardens and a findings rule in the coroner's office. Chamber: Pugnahan prohibited absolutely, the prohibition read aloud at shift start and never assumed known. Flerehan and Ferrehan only; peak thermal load at the fixed wall probe, charted with the crews' spike annotations, never graded by eye. Posture logged hourly; fittings load-checked on the gauge schedule. The cooling hour at the close of every watch, thermal settle confirmed before the relief is cleared, no relief ever cleared early. The Three Sisters kept together, separation attempted once in Year 4204 and never again. Response teams drawn only from Wardens with no open grievance on record. Coroner's duties, binding on every inquiry this facility conducts: **a finding that an act was wrongful is a finding about the act. It is recorded whenever the evidence supports it, separately from any question of attribution, and is never withheld for want of a name. Attribution is a finding about a person and is recorded, or not recorded, on its own evidence.** Work response — Flerehan: the flames drop and the accusation goes out of the voice (Decrease). Ferrehan: the full watch in the heat, answering when addressed and never opening (Decrease). Viderehan: the act described in detail, never a person (Stable).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Recorded Wrong>**
-The legal office opposed this rule and I have never been able to get round their objection; I have only decided to live on the other side of it.
+The legal office opposed this rule and I have never been able to get round their objection. I have only decided to live on the other side of it.
 
-Their case: a recorded wrong does not float free. In a district where four men were questioned and released, a finding that something wrongful was done is read by every neighbour as a finding about those four, and three of them are innocent, and none of them can answer a charge that has not been made. The office's head put it to me in one line: *you have invented a way to accuse people without giving them anything to deny.*
+Their case: a recorded wrong does not float free. In a district where four men were questioned and released, a finding that something wrongful was done is read by every neighbour as a finding about those four. And three of them are innocent. And none of them can answer a charge that has not been made. The office's head put it to me in one line: *you have invented a way to accuse people without giving them anything to deny.*
 
 What we have done is issue every finding of wrongfulness with an express statement that no person is implicated and that no inference may be drawn from it.
 
@@ -320,7 +321,7 @@ Heat gathers in the room like a held breath. The Maiden stands inside it, bright
 
 **When the entity activates:** The probe climbs and the fittings take it. There is nothing new to see; she is doing what she has done for two centuries. A fortnight ago an officer wrote that somebody had died by external means and stopped the sentence there because the law would not let him finish it.
 
-**After departure:** You think of something that was done to you, or to somebody of yours, that no document calls wrong. Most people have one and most people name it inside the hour. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** You think of something that was done to you, or to somebody of yours, that no document calls wrong. Most people have one and most people name it inside the hour. The wing does not argue the point. It writes down what was done, in the worker's own words, and files it where the worker can go and read it later.
 
 ### Interaction Pattern
 
@@ -335,11 +336,11 @@ Five records are grouped with this one and two of them are her sisters, which ma
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Smothering Mother** | Grouped on maternal sorrow, which is the weakest grouping in this file: that holding is a mother's act against a child and this is a mother's act forbidden on a child's behalf. | No trial, none permitted. The pairing rests on a Year 4188 summary line and no measurement exists. | That the claim is unevidenced, written beside it each time it is repeated. |
-| **The Hollow Choir** | A proposal was made in Year 4228 to bring the Choir to the enclosure so that her accusation could be heard as something other than an argument. | Refused. She does not need to be heard; she is heard every watch. She needs a sentence written in a file four districts away, and no entity can write it. | The proposal and the refusal kept together. Renewed once. |
-| **The Kind Healer** | Brought once, Year 4221, at the Healer's own holding's request. The load did not move in either direction across four hours. | The only null result in the Sisters' interaction file and the most frequently cited: there is nothing here to heal, because nothing here is a wound. | The null, recorded as a null and not as an inconclusive, on any document proposing a therapeutic approach. |
-| **The Grieving Maiden** | Her sister, same enclosure, same mother, different child. That child was taken by illness and this one by a hand, and the whole difference between the two holdings is in that line. | Permanent proximity. This holding's load leads hers within a short interval, every recorded time, with no instance of the reverse. | Both readings, in fixed order, within the hour of any spike here. |
-| **The Silent Maiden** | Her sister, same enclosure, third child. The claim that she absorbs what this one cannot say calmly is a figure of speech from a Year 4199 summary and no measurement has ever supported it. | Permanent proximity. This holding's load leads hers as well, which is measured; the absorption is not. | Both readings in fixed order; and the absorption claim marked unevidenced wherever it is repeated. |
+| [**The Smothering Mother**](SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) | Grouped on maternal sorrow, which is the weakest grouping in this file: that holding is a mother's act against a child and this is a mother's act forbidden on a child's behalf. | No trial, none permitted. The pairing rests on a Year 4188 summary line and no measurement exists. | That the claim is unevidenced, written beside it each time it is repeated. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | A proposal was made in Year 4228 to bring the Choir to the enclosure so that her accusation could be heard as something other than an argument. | Refused. She does not need to be heard; she is heard every watch. She needs a sentence written in a file four districts away, and no entity can write it. | The proposal and the refusal kept together. Renewed once. |
+| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Brought once, Year 4221, at the Healer's own holding's request. The load did not move in either direction across four hours. | The only null result in the Sisters' interaction file and the most frequently cited: there is nothing here to heal, because nothing here is a wound. | The null, recorded as a null and not as an inconclusive, on any document proposing a therapeutic approach. |
+| [**The Grieving Maiden**](SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md) | Her sister, same enclosure, same mother, different child. That child was taken by illness and this one by a hand, and the whole difference between the two holdings is in that line. | Permanent proximity. This holding's load leads hers within a short interval, every recorded time, with no instance of the reverse. | Both readings, in fixed order, within the hour of any spike here. |
+| [**The Silent Maiden**](SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) | Her sister, same enclosure, third child. The claim that she absorbs what this one cannot say calmly is a figure of speech from a Year 4199 summary and no measurement has ever supported it. | Permanent proximity. This holding's load leads hers as well, which is measured; the absorption is not. | Both readings in fixed order; and the absorption claim marked unevidenced wherever it is repeated. |
 
 **Interaction procedure:** All three Sisters' readings within the hour of any spike here, in fixed order. For the paper relationships, both records in full and the signed one-sentence answer. Refusals and nulls on this file are cited rather than re-argued.
 
@@ -359,7 +360,7 @@ The three sisters are kept together. The mother visits. And the Angry Maiden, wh
 
 Those who come near the Angry Maiden feel the specific fury of justice denied — the rage of a parent who could not protect, who could not avenge, whose grief had a name and a target and was forbidden from reaching either, preserved now in a figure of fire.
 
-Some sorrows weep. The Angry Maiden burns — for the child killed not by sickness but by someone, and for the rage that, having nowhere to land, became a flame, and walks now as the second sister, burning quietly, forever, for the violence the city would not let her answer.
+Some sorrows weep. The Angry Maiden burns — for the child killed not by sickness but by someone. And for the rage that, having nowhere to land, became a flame. And walks now as the second sister, burning quietly, forever, for the violence the city would not let her answer.
 ## 증언 (Testimonium) — The Testimony
 
 > *“She burns. Quietly, contained, a steady deep-red fire that does not go out.”* — Researcher, R.D.
@@ -383,7 +384,7 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 **Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate, and the figure that matters is not hers. She has never breached and has never injured anybody in the chamber. What makes this holding consequential is that her load leads both her sisters within a short interval, in every recorded instance, with no case of the reverse: a bad watch here is a bad week in the enclosure. The Registrum previously gave the designation without its [GS] tag, located the holding without its sector, and named Pugnahan as the primary Work Type on a file carrying an absolute prohibition on confrontation; all three corrected.
 **Containment & Handling Procedures:**
-- Pugnahan is prohibited absolutely and the prohibition is read aloud at shift start rather than assumed known. Flerehan and Ferrehan lower the gauge; Viderehan holds it level. The earlier entry naming Pugnahan as primary instructed watch teams to do the one thing the standing order forbids.
+- Pugnahan is prohibited absolutely and the prohibition is read aloud at shift start rather than assumed known. Flerehan and Ferrehan lower the gauge; Viderehan holds it level.
 - Peak thermal load at the fixed wall probe, in degrees above corridor ambient, charted by the thermal crews with their spike annotations. Never graded by eye; the Year 4212 visual scheme ran eleven years and correlated with nothing.
 - The cooling hour closes every watch. Thermal settle confirmed before the relief is cleared. No relief has ever been cleared early.
 - The fire does not spread and does not go out. Four medical examinations record living flesh beneath it.
@@ -394,7 +395,7 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 - The second of the Three Sisters, and the leading indicator for all three.
 - Peak thermal load 11.4 degrees above ambient at baseline, range 2.1 to 68. It tracks this facility's findings return and has never tracked the inquiry, the reopenings or the Year 4219 re-questioning.
 - In two centuries of Viderehan she has described the act in detail and has never once described a person.
-**Cross-References:** SECTOR-D-02, Echo Gardens · The Grieving Maiden (first sister, illness) · The Silent Maiden (third sister, unheard) · the findings return and the three hundred and thirty-one unrecorded wrongs · the Year 4233 Zone B raid inquiry · the twenty-nine collateral cases
+**Cross-References:** SECTOR-D-02, Echo Gardens · [The Grieving Maiden](SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md) (first sister, illness) · [The Silent Maiden](SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) (third sister, unheard) · the findings return and the three hundred and thirty-one unrecorded wrongs · the Year 4233 Zone B raid inquiry · the twenty-nine collateral cases
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the coroner's office and the legal office, listed on an entity file because the Rule of the Recorded Wrong is a containment condition of this holding and both of them opposed it.
 **Originator:** A mother of three in Zone B who lost her second child to a hand that was never identified, who is living, who visits the enclosure, and who is named in the folder at her own written request. The archivist's note records that the request was made twice before it was granted and that the refusal the first time was made on her behalf.
 
@@ -415,7 +416,7 @@ Flerehan dims her, and the dimming is the most-studied response in the Three Sis
 
 ### When the Anger Becomes Physical
 
-Her breach is the kinetic one among the Sisters. She stalks the corridors on foot and her anger stops being an emotional condition and becomes a structural one: walls crack, fittings fail, and personnel caught in the wave take the same damage the architecture does. The secondary effect — a malice that seeks out unresolved conflict — makes the response roster a personnel question before it is a tactical one. Teams are assembled from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly, because the wave finds the friction in a response team and widens it. The Fury Fang carries the archetype into equipment form and is issued only to bearers who have completed the same screening. Veterans of her breaches describe the experience as being argued with by a building. The doctrine's answer is unglamorous: do not argue back, hold the line at the sealed sections, and let a fire that feeds on response find nothing offered.
+Her modelled breach is the kinetic one among the Sisters — modelled, because she has never breached in the holding's history. In the model she walks the corridors on foot and her anger stops being an emotional condition and becomes a structural one: walls crack, fittings fail, and personnel caught in the wave take the same damage the architecture does. The secondary effect — a malice that seeks out unresolved conflict — makes the response roster a personnel question before it is a tactical one. Teams are assembled from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly, because the wave finds the friction in a response team and widens it. The Fury Fang carries the archetype into equipment form and is issued only to bearers who have completed the same screening. Veterans of her hard watches and chamber incidents describe the experience as being argued with by a building. The doctrine's answer is unglamorous: do not argue back, hold the line at the sealed sections, and let a fire that feeds on response find nothing offered.
 
 ### The Cooling Hour
 
@@ -425,11 +426,11 @@ Thermal crews keep a second record of their own: the peak reading of each watch,
 
 ### What the Chart Is Actually Measuring
 
-The crews' chart was kept for forty years before anybody read it against anything outside the enclosure. The three annotated spikes are chamber events and they are real; what the annotations cannot explain is the rest of the series, which moves in quarters when the chamber was quiet and sits flat in quarters when it was not. In Year 4229 a thermal technician set the chart beside the coroner's quarterly return — not out of theory, but because both were on the same noticeboard — and found that the peaks fell in the fortnights after this facility concluded deaths by external means without recording that a wrong had been done. The match has since been made twenty-two times out of twenty-five. It has never been made against the inquiry into her own child, which has been reopened twice and moved the probe not at all.
+The crews' chart was kept for forty years before anybody read it against anything outside the enclosure. The three annotated spikes are chamber events and they are real. What the annotations cannot explain is the rest of the series, which moves in quarters when the chamber was quiet and sits flat in quarters when it was not. In Year 4229 a thermal technician set the chart beside the coroner's quarterly return — not out of theory. But because both were on the same noticeboard — and found that the peaks fell in the fortnights after this facility concluded deaths by external means without recording that a wrong had been done. The match has since been made twenty-two times out of twenty-five. It has never been made against the inquiry into her own child, which has been reopened twice and moved the probe not at all.
 
-The finding reframes the whole holding and the wing has been careful about how it says so. She is not angry that her boy's killer was never caught; the investigation was competent, four reviews confirm it, and the series says plainly that she does not respond to it. She is angry that the document says he died by external means and does not say that anything was done to him. That is a distinction the chamber has been making for two centuries and that nobody read until it was put next to a quarterly return by accident.
+The finding reframes the whole holding and the wing has been careful about how it says so. She is not angry that her boy's killer was never caught. The investigation was competent, four reviews confirm it, and the series says plainly that she does not respond to it. She is angry that the document says he died by external means and does not say that anything was done to him. That is a distinction the chamber has been making for two centuries and that nobody read until it was put next to a quarterly return by accident.
 
-The operational consequence sits outside this file. Nothing done at the probe lowers the series; the only intervention that has ever moved it is a finding written in an office four districts away, by a careful officer who has every reason in law not to write it. The wing records this plainly rather than claiming a containment it does not have, and the chart hangs where the relief can see it because the relief is entitled to know that the hard watches are not their fault.
+The operational consequence sits outside this file. Nothing done at the probe lowers the series. The only intervention that has ever moved it is a finding written in an office four districts away, by a careful officer who has every reason in law not to write it. The wing records this plainly rather than claiming a containment it does not have, and the chart hangs where the relief can see it because the relief is entitled to know that the hard watches are not their fault.
 
 ## Trivia
 

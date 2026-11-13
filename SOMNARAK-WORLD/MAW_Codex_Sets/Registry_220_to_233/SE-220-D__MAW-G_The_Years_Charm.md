@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-G-220-01`  
 **Author:** Secretary Seiyon  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — bearer-bound to Archive Lead Marjuk
 
@@ -17,6 +17,7 @@
 
 The Years Charm is a small Weight Han-steel calendar weight worn at the Head slot. It is matte, disproportionately heavy, and engraved with a blank square that warms near an omitted date.
 
+**Maximum Amount:** 2 — Limited
 Walking Calendar bestowed it after Marjuk restored a casualty entry with its consequence and authorizing office intact. The Stigma’s chance is 4%; it cannot be scheduled or extracted.
 
 ## Appearance
@@ -51,14 +52,3 @@ In *No Date Removed*, the Charm opens the blank interval. The Years Mantle reads
 **Care:** Seiyon compares the marked interval against original, edited, and public versions. Marjuk states what is known, what was concealed, and what remains uncertain. The Charm lightens only when uncertainty is recorded rather than filled.
 
 **Emergency release:** Speak the current date and transfer one defined archival task to another named person. The Stigma must not be torn free while the bearer is trying to carry the entire record alone.
-
----
-
-**Document ID:** `SE-220-D`  
-**Linked Entity:** `SE-220`  
-**Item Registry Code:** `MAW-G-220-01`  
-**Author:** Secretary Seiyon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

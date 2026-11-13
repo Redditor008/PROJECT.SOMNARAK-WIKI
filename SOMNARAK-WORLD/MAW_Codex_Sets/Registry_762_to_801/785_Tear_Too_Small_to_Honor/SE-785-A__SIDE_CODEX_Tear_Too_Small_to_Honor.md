@@ -19,10 +19,10 @@ The Tear formed from sorrow collapsed beneath shame. The pain of wanting to cry 
 | Field | Canonical record |
 |---|---|
 | Source designation | N-Iα-785 [O] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only. Unworked, it does not escape and does not grow / Object-Void |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone D, Echo Gardens |
-| Gauge / Pressure | 227/227; starts 25–40% / 3–9 per hit · Lament |
+| Gauge / Pressure | 000/240; starts 000% / Lament — no attack pattern; the height above the soil, in tenths of a millimetre, is the reading |
 | Observation | 1 — Initial |
 | Formation event | A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object. |
 
@@ -30,17 +30,17 @@ The Tear formed from sorrow collapsed beneath shame. The pain of wanting to cry 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the small loss that formed it. (Stable) |
 | Ferrehan | Tests whether the worker can hold grief without dismissing it. (Decrease) |
 
 **Trigger:** Touch.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-785 -->
+**Resolution:** The Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Tear Too Small to Honor Source-Trace*
 
-During the The Tear Too Small to Honor Source-Trace, the field team preserved this source fact: A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of wanting to cry but believing the grief is too small or embarrassing to deserve release.
+During *The Tear Too Small to Honor Source-Trace*, the field team preserved this source fact: A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of wanting to cry but believing the grief is too small or embarrassing to deserve release.
 
 ## M.A.W. SET — *Tear Too Small to Honor — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Tear Too Small to Honor Source-Trace, the field team preserved th
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-785-A`  
-**Linked Entity:** `SE-785`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised. The gauge opens at 000% of its 000/240 meter, and no attack pattern is filed for this Lament manifestation. The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.

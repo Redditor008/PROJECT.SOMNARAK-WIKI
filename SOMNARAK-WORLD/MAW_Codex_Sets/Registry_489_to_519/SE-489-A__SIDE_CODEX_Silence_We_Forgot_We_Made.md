@@ -20,7 +20,7 @@ A luminous faceless dream-figure formed from difficult truths suppressed so long
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element | Lament |
-| Gauge / Pressure | 60–80% / 31–67 |
+| Gauge / Pressure | 000% / 31–67 |
 | Observation | 2 |
 | Set | The Remembered Quiet |
 
@@ -43,13 +43,3 @@ An echo forms after one worker names their own withholding while every other per
 Lens identifies the emotional boundary, Shroud preserves the silent person, and Requiem cuts only coercive suppression. A worker may name their own truth without conscripting anyone else. Treating all silence as confession forces the set into endless noise.
 
 **Source:** `SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md`
-
----
-
-**Document ID:** `SE-489-A`  
-**Linked Entity:** `SE-489`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

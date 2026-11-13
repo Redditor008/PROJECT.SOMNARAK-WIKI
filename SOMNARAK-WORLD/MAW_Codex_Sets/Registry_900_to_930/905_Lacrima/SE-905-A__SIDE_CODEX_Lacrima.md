@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Residue (I) Object at Minor (α) potency, Void-aligned, spirit-manifesting, held at SECTOR-N-905. The lid gap at the four rim points is the reading, and there is no record of what was put inside it.
 
 | Field | Canonical record |
 |---|---|
@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Object — Can breach via Transform / Object-Spirit |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void / SECTOR-N-905, contained |
-| Gauge / Pressure | 502/502; starts 35–50% / 11–20 per hit · Void |
+| Gauge / Pressure | 000/240; starts 000% / Void — no attack pattern; the lid gap at the four rim points is the reading |
 | Observation | 1 — Trace |
 | Formation event | Not recorded |
 
@@ -30,36 +30,26 @@ Not recorded Not recorded
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
-| Viderehan | Permits study; the spirit pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral |
+| Viderehan | Read the lid gap at the four rim points; the watch yields the volume that has left the vessel since the last reading, and nothing at all about what was in it. (Decrease) |
+| Ferrehan | Hold the station a full cycle without lifting the lid; the pressure settles around a party that leaves the seal alone for the whole of it. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-905 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Lacrima Source-Trace*
 
-During the The Lacrima Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Lacrima Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Lacrima — Witnessed Form*
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Lacrima's Edge | α Void 8–16; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-905-B__MAW-W_Lacrima_s_Edge.md` |
-| Lacrima's Veil | α; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-905-C__MAW-S_Lacrima_s_Veil.md` |
+| Lacrima's Edge | α Void 8–16; Speed 2 (Normal); Range 2 (Short); Single; max 5; 25 Sorrow Echoes | `SE-905-B__MAW-W_Lacrima_s_Edge.md` |
+| Lacrima's Veil | α; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Warded); max 5; 20 Sorrow Echoes | `SE-905-C__MAW-S_Lacrima_s_Veil.md` |
 | Lacrima's Token | α; Head; 5%; +1 stat bonus when working the source entity. | `SE-905-D__MAW-G_Lacrima_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Lacrima's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Lacrima's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-905-A`  
-**Linked Entity:** `SE-905`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

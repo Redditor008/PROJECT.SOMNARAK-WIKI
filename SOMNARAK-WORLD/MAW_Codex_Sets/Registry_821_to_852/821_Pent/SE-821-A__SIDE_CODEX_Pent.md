@@ -22,7 +22,7 @@ The Sigh formed from a breath erased before it could be released. The grief of e
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 818/818; starts 60–80% / 22–48 per hit · Grudge |
+| Gauge / Pressure | 000/880; starts 000% / 22–48 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness. |
 
@@ -30,8 +30,8 @@ The Sigh formed from a breath erased before it could be released. The grief of e
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the worker and the moment of collapse. (Stable) |
 | Ferrehan | Tests whether personnel can rest without shame. (Decrease) |
 
@@ -40,7 +40,7 @@ The Sigh formed from a breath erased before it could be released. The grief of e
 
 ## WITNESS RECORD — *The Pent Source-Trace*
 
-During the The Pent Source-Trace, the field team preserved this source fact: A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of exhaustion denied until even relief disappears.
+During *The Pent Source-Trace*, the field team preserved this source fact: A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of exhaustion denied until even relief disappears.
 
 ## M.A.W. SET — *Pent — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Pent Source-Trace, the field team preserved this source fact: A w
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Pent's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stays only the immediate manifestation that violates this rule: Permit rest and acknowledge exhaustion as real The set cannot heal the originating event. Misuse routes Pent's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-821-A`  
-**Linked Entity:** `SE-821`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Warm Stone
 
-> *“The Warm Stone remembers The Kind Echo; the bearer must not mistake memory for permission.”*
+> *"It gives freely, which is the cost. A specialist who has carried one a decade trusts the warmth and stops reading the gauge."*
 
 ---
 
@@ -17,23 +17,29 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.  
-**Binding rule:** the bearer names The Kind Echo's event—The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit.—and accepts this limit: Complete one full Work Type cycle. Any work type succeeds.
+**Binding rule:** the bearer names The Kind Echo's event — “The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit.” — and accepts this limit: Complete one full Work Type cycle. Any work type succeeds.
+
+
+### Appearance
+
+A small, smooth, warm stone of pale blue Han-crystal that fits in the palm. It hums faintly.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 5 — Abundant
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career. Continued use makes The Kind Echo's source sorrow feel autobiographical.
+**Operational / binding cost:** None. The entity gives freely, which is the cost: a specialist who has carried one for a decade trusts the warmth and stops reading the gauge.
 
-## ITEM-SPECIFIC HISTORY — *The The Kind Echo Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Kind Echo Source-Trace: Stigma Record*
 
-The first The Warm Stone field bearer encountered this source response: The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. The stigma discharges the immediate hazard only after the team attributed it to The Kind Echo. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Warm Stone encountered this source response: The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. The stigma discharges the immediate hazard only after the team attributed it to The Kind Echo. A specialist carried a Stone for a decade and read the warmth instead of the gauge, and the Stone’s binding is the review that found the readings had been skipped.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Kind Echo's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the warmth arrives before the pressure, and the specialist is reassured by a reading nobody has taken.
 - Terminal state: The Kind Echo's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Complete one full Work Type cycle. Any work type succeeds.” reverses the item’s benefit and raises the source Gauge.  
@@ -42,15 +48,4 @@ The first The Warm Stone field bearer encountered this source response: The enti
 
 ## SET RELATIONSHIP
 
-Within *The Kind Echo — Witnessed Form*, The Warm Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1001-D`  
-**Linked Entity:** `SE-1001`  
-**Item Registry Code:** `MAW-G-1001-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *The Kind Echo — Witnessed Form*, The Warm Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone’s resonance ends the moment its bearer checks the gauge instead of the hand.

@@ -19,10 +19,10 @@ The Ruin formed from a home remembered after it was destroyed. The pain of retur
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIIγ-505 [VS] |
-| Type / Manifestation | Subject — Can breach / Subject-Dream |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / Zone C, Mask Market |
-| Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Void |
+| Gauge / Pressure | 000/653; starts 000% / 18–41 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A household was lost, but its former residents continued dreaming of the rooms. |
 
@@ -40,7 +40,7 @@ The Ruin formed from a home remembered after it was destroyed. The pain of retur
 
 ## WITNESS RECORD — *The Dreaming Ruin Source-Trace*
 
-During the The Dreaming Ruin Source-Trace, the field team preserved this source fact: A household was lost, but its former residents continued dreaming of the rooms. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of returning to a place that exists only as memory.
+During *The Dreaming Ruin Source-Trace*, the field team preserved this source fact: A household was lost, but its former residents continued dreaming of the rooms. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of returning to a place that exists only as memory.
 
 ## M.A.W. SET — *Dreaming Ruin — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Dreaming Ruin Source-Trace, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Dreaming Ruin's source condition, the Suit lets a witness bear its Void pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Wake with an anchor and preserve the memory without rebuilding it The set cannot heal the originating event. Misuse routes Dreaming Ruin's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1036-A`  
-**Linked Entity:** `SE-1036`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-032 [GS]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Three Birds containment
 
@@ -56,9 +56,9 @@ If Observing or Guarding Bird enters breach state, the Weighting Bird stops indi
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| Weapon | The Calibrated Scale-Pistol | γ | Grudge | Piercing judgment against shared responsibility | `SE-032-B__MAW-W_The_Judgment_Fang.md` |
+| Weapon | The Calibrated Scale-Pistol | γ | Grudge | Piercing judgment against shared responsibility | `SE-032-B__MAW-W_The_Calibrated_Scale_Pistol.md` |
 | Suit | The Bailiff's Feathered Greatcoat | γ | Grudge | Resists direct Grudge at the risk of hardening judgment | `SE-032-C__MAW-S_The_Judgment_Plate.md` |
-| Stigma | The Suspended Balance Scale | γ | Grudge | Compares two burdens without declaring either person innocent | `SE-032-D__MAW-G_The_Judgment_Scale.md` |
+| Stigma | The Suspended Balance Scale | γ | Grudge | Compares two burdens without declaring either person innocent | `SE-032-D__MAW-G_The_Suspended_Balance_Scale.md` |
 
 ### Set Resonance — Burden of the Judge
 
@@ -86,13 +86,3 @@ The Bird remains incomplete until a judge sets down a scale without abandoning r
 
 ### Observation 4 — Pending
 Mastery requires a form of accountability that does not manufacture new debt.
-
----
-
-**Document ID:** `SE-032-A`  
-**Related Entity:** `SE-032`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

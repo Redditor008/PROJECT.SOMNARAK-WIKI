@@ -22,21 +22,14 @@ The Sehnsucht Maul is a black maul of Han steel whose head points parallel to th
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Weight | 7–12 | 3 / 3 | Skewer | 3 / 40 |
+| γ / Weight | 7–12 | 3 / 3 | Skewer | 3 / 40 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
 **Surface Release:** Clears up to three lateral pressure paths while preserving burial depth.
 
 **Failures:** downward strike; cause forced into memory; site treated as extraction seam.
 
 **Maintenance:** Store horizontally above undisturbed soil.
-
----
-
-**Document ID:** `SE-476-B`  
-**Linked Entity:** `SE-476`  
-**Item Registry Code:** `MAW-W-476-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

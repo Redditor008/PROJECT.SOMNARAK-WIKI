@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Occlusihan Fang
 
-> *“The Occlusihan Fang remembers The Scar Walker; the bearer must not mistake memory for permission.”*
+> *"It reopens what healed wrong. The wielder's old injuries ache where they were deserved, and cannot be separated from the verdict that made them."*
 
 ---
 
@@ -17,7 +17,11 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Scar Walker's grudge signature in the strike.  
-**Binding rule:** the bearer names The Scar Walker's event—Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate.—and accepts this limit: Show respect, salute its duty, and acknowledge its sacrifice
+**Binding rule:** the bearer names The Scar Walker's event — “Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate.” — and accepts this limit: Show respect, salute its duty, and acknowledge its sacrifice
+
+### Appearance
+
+A carved obsidian blade with a chalice-cut fuller running its length, filled with a pool of liquid shadow that reflects nothing and does not spill when the weapon turns. The grip is unpolished stone, cold enough to ache, and the point hangs a finger's width out of true as though set by something other than the hand.
 
 ## CORE STATISTICS
 
@@ -25,16 +29,20 @@
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes The Scar Walker's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
-## ITEM-SPECIFIC HISTORY — *The The Scar Walker Source-Trace: Weapon Record*
+**Operational / binding cost:** The Fang reopens what healed wrong: every blow it lands splits the wielder's own oldest scar along its first line, and the seam hurts in the place it was ruled on. Wielded long, the wielder cannot separate their wounds from the verdict that made them.
 
-The first The Occlusihan Fang field bearer encountered this source response: Treats aggression as desecration and attacks. The weapon contains the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+## ITEM-SPECIFIC HISTORY — *The Scar Walker Source-Trace: Weapon Record*
+
+The first bearer of The Occlusihan Fang encountered this source response: Treats aggression as desecration and attacks. The weapon contains the immediate hazard only after the team attributed it to The Scar Walker. A wielder’s oldest scar split along its first line in a place that had been ruled on years before, and the Fang’s binding is the judgment entry from that case.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Scar Walker's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wounds and the verdicts stop being separable, and the wielder flinches at the paperwork as much as the knife.
 - Terminal state: The Scar Walker's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Show respect, salute its duty, and acknowledge its sacrifice” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +51,4 @@ The first The Occlusihan Fang field bearer encountered this source response: Tre
 
 ## SET RELATIONSHIP
 
-Within *The Scar Walker — Witnessed Form*, The Occlusihan Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1004-B`  
-**Linked Entity:** `SE-1004`  
-**Item Registry Code:** `MAW-W-1004-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *The Scar Walker — Witnessed Form*, The Occlusihan Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow struck at a wound its wielder has never had ruled on.

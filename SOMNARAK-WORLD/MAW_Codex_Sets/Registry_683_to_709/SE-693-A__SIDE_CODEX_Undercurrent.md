@@ -17,7 +17,7 @@ A phantasmal root rises beneath Old Lament from grief buried under homes, street
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element / Location | Weight / Zone B, Old Lament |
-| Gauge / Pressure | 910/910; 60–80% / 29–64 |
+| Gauge / Pressure | 240/240; 60–80% / 29–64 |
 | Set | History Before Severance |
 
 Flerehan loosens roots; Pugnahan hardens and spreads them; Viderehan shows buried history; Ferrehan bears rising pressure. **Resolution:** listen to the Root’s history; cutting roots causes spread.
@@ -31,12 +31,3 @@ Flerehan loosens roots; Pugnahan hardens and spreads them; Viderehan shows burie
 **Resonance — Buried Route Named:** Staff anchors witness, Mantle bears pressure, and Maul opens soil beside—not through—the root. History surfaces without severance. Cost is age, fatigue, and increasing inability to leave. Cutting any root multiplies the network.
 
 **Incident:** excavation crews severed one black root and six surfaced. Euncris stopped cutting, recorded the erased household under it, and opened a parallel trench; all six loosened.
-
----
-**Document ID:** `SE-693-A`  
-**Linked Entity:** `SE-693`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

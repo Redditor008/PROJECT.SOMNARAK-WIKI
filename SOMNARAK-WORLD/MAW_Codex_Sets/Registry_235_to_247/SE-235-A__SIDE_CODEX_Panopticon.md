@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Void |
 | Form | Unblinking eyes embedded in walls, ceilings, and doorframes; a translucent watcher appears only when an observer accepts being seen. |
-| Gauge / Pressure | 35–50% / Void 7–17 |
+| Gauge / Pressure | 000% / Void 7–17 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Duty After Seeing |
 
@@ -44,10 +44,10 @@ The walls are bloodless-cold and ash-scented. Eyes follow action without verdict
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Eyes blink and acknowledge the worker. | Down | State what was seen and what help was absent. |
+| Flerehan | Eyes blink and acknowledge the worker. | Decrease | State what was seen and what help was absent. |
 | Pugnahan | Stares without blinking. | Stable | Do not confuse resistance to observation with intervention. |
 | Viderehan | Shows what the walls recorded. | Stable | Assign response ownership before playback. |
-| Ferrehan | Watches until the worker accepts the gaze. | Down | Look back; do not blind or cover the walls. |
+| Ferrehan | Watches until the worker accepts the gaze. | Decrease | Look back; do not blind or cover the walls. |
 
 **Resolution:** Look back and accept being witnessed; do not blind the walls.  
 **Breach:** At 60% Gauge, eyes spread, corridors compress, color and sound vanish, and Clarity drains.  
@@ -99,13 +99,3 @@ An echo forms only when an observer accepts the recorded image and performs one 
 **Primary source:** `SE-C-IIβ-235_Panopticon_벽_속의_감시자.md`
 
 **Formal-ID note:** `SE-235` is assigned to Panopticon. The source-suffix sibling Myrmidon is deferred for a later unique formal-ID decision.
-
----
-
-**Document ID:** `SE-235-A`  
-**Linked Entity:** `SE-235`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

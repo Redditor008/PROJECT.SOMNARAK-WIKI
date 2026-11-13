@@ -22,6 +22,7 @@
 | **Grade** | γ — Major |
 | **Element** | Void |
 | **Slot** | Head |
+| **Maximum Amount** | 3 — Standard |
 | **Acquisition Probability** | 4% |
 | **Stat Effect** | +2 when working the Brume source record |
 
@@ -54,14 +55,3 @@ A Hope Lantern was carried by a Warden who became separated from her squad durin
 ## SET RESONANCE
 
 With the Lens and Veil, One More Step can establish the first anchor of the Homeward Mark route. If the bearer names a false destination, the Lantern’s flame extinguishes and cannot be relit until the next natural dawn.
-
----
-
-**Document ID:** `SE-007-D`  
-**Linked Entity:** `SE-007`  
-**Item Registry Code:** `MAW-G-007-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

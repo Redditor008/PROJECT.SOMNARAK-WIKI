@@ -70,7 +70,7 @@ Alert Level 5. Echo-Core direct command; evacuate the advance corridor two block
 | **Han Pressure [ATK]** | 40–65 per hit · Weight |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It settles, and an avalanche of rotting weight buries the floor beneath it. 
+**Ability:** It settles, and an avalanche of rotting weight buries the floor beneath it.
 
 ### The Living Avalanche (Non-Humanoid, Tide-Spawn-grade)
 

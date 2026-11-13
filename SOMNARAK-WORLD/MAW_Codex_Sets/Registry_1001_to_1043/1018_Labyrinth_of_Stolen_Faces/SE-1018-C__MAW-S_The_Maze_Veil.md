@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Maze Veil
 
-> *“The Maze Veil remembers Labyrinth of Stolen Faces; the bearer must not mistake memory for permission.”*
+> *"It hides the self so well that the wearer needs somebody walking toward them in order to get back."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Labyrinth of Stolen Faces's kind of pressure.  
-**Binding rule:** the bearer names Labyrinth of Stolen Faces's event—Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.—and accepts this limit: Maintain a memory anchor and limit exploration time
+**Binding rule:** the bearer names Labyrinth of Stolen Faces's event — “Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.” — and accepts this limit: Maintain a memory anchor and limit exploration time
+
+
+### Appearance
+
+A veil of Void Han-gossamer so thin it reads as a change in the air rather than as cloth. It hangs without weight, and in a corridor it drifts fractionally ahead of the wearer, as though the Maze were reading it before it arrived.
 
 ## CORE STATISTICS
 
@@ -25,16 +30,20 @@
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Labyrinth of Stolen Faces's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
+**Operational / binding cost:** The Veil protects the self by hiding it: worn, the wearer becomes hard to find inside their own mind and gets back only by following whoever is walking toward them. Worn long, they are lost on purpose.
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Suit Record*
 
-The first The Maze Veil field bearer encountered this source response: Tests whether the worker can continue without a stable map. The suit severs the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Maze Veil encountered this source response: Tests whether the worker can continue without a stable map. The suit severs the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. A wearer could not be found inside their own mind and came back by following somebody else in, and the Veil’s binding is the witness note from that recovery.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Labyrinth of Stolen Faces's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the walking-toward is the only way back, and the wearer is lost on purpose in rooms with nobody coming.
 - Terminal state: Labyrinth of Stolen Faces's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Maintain a memory anchor and limit exploration time” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +52,4 @@ The first The Maze Veil field bearer encountered this source response: Tests whe
 
 ## SET RELATIONSHIP
 
-Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1018-C`  
-**Linked Entity:** `SE-1018`  
-**Item Registry Code:** `MAW-S-1018-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can find themselves without a guide; the first time only a guide works, the Veil is out.

@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-G-225-01`  
 **Author:** Research Lead Ayshuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Status:** Active — bearer-bound monitoring Stigma
 
@@ -26,6 +26,7 @@ The River Stone is a smooth Weight Han-steel stone fixed at the head slot. It be
 ## FUNCTION & COST
 
 **Grade / Element:** γ / Weight  
+**Maximum Amount:** 3 — Standard
 **Bonus:** +2 Resolve during source work  
 **Effect:** absorbs sorrow from the immediate environment  
 **Cost:** every absorbed burden increases physical and emotional weight
@@ -49,14 +50,3 @@ The Stone collects only overflow that escapes the Maul’s line and Mantle’s b
 **Care/release:** Seat the bearer above the return trench with the heavy face downstream. Open one monitoring gate at a time until the Stone cools and ordinary head movement returns. No one may measure the released burden as production yield.
 
 **Emergency rule:** Support the bearer’s neck, clear the downstream line, and stop all new absorption. Shattering the Stigma produces a room-wide heavy wave.
-
----
-
-**Document ID:** `SE-225-D`  
-**Linked Entity:** `SE-225`  
-**Item Registry Code:** `MAW-G-225-01`  
-**Author:** Research Lead Ayshuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

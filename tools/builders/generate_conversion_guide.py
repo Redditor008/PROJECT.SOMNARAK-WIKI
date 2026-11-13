@@ -123,7 +123,7 @@ Unlike Project Moon—where employees perform all four work types on nearly ever
 +------------------------------------------------------------------------+
 | CLASSIFICATION: OBJECT [O], PLACE [P], TIME [T], HAZARD [H] ENTITIES   |
 |   Valid Work: Viderehan (Observation) & Ferrehan (Endurance) ONLY      |
-|   Prohibited: Flerehan (Tears) & Pugnahan (Confrontation) [N/A]        |
+|   Prohibited: Flerehan (Tears) & Pugnahan (Confrontation) [barred]     |
 |   Direct Law: Static artifacts, districts, and temporal phenomena      |
 |               have no sentient psyche to comfort nor body to duel.     |
 |   Violation : Triggers immediate work failure and gauge backlash       |
@@ -192,7 +192,7 @@ Follow this exact six-step sequence when converting an external PM Abnormality i
    - Catastrophic / Sovereign (ω): 1,000+ HP (up to 10,000–12,000 HP for macro-sovereigns).
 
 5. **Step 5: Define Work Type Responses & Stagger Profile:**  
-   List exact outcomes for Viderehan, Ferrehan, Flerehan, and Pugnahan (or mark N/A for inanimate types). Assign 60% Partial Stagger and 0% Terminal Meltdown thresholds.
+   List exact outcomes for Viderehan and Ferrehan. On an Object/Place the barred pair is not a percentage: **Net-Neutral** below a Threat Score of 6 and **Negative-Low** at 6 or more (`R-41`). Assign 60% Partial Stagger and 0% Terminal Meltdown thresholds.
 
 6. **Step 6: Extract M.A.W. Triad:**  
    Design the bespoke Weapon (with Range Bands 1–5), Suit (with element resistances), and Gift (accessory buff) with authentic Korean naming conventions.
@@ -215,6 +215,17 @@ Follow this exact six-step sequence when converting an external PM Abnormality i
 """
 
 target_path = "SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md"
+
+# The guide lives at PROJECT_MOON_RESEARCH/CROSS_VERSE/. That directory was the
+# output of an earlier layout; writing here would put a developer document inside
+# SOMNARAK-WORLD, which the folder law forbids, and would not update the guide
+# anyone reads. Refuse rather than create it.
+if not os.path.isdir(os.path.dirname(target_path)):
+    sys.exit("REFUSED: %s does not exist. The live guide is "
+             "PROJECT_MOON_RESEARCH/CROSS_VERSE/"
+             "PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md"
+             % os.path.dirname(target_path))
+
 with open(target_path, "w", encoding="utf-8") as f:
     f.write(content)
 

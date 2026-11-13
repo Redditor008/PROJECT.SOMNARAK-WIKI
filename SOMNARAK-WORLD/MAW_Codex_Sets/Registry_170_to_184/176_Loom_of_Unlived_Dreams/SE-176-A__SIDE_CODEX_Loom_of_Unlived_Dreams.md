@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVγ-176 [LO]`  
 **Author:** Dreamer Sora  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Dream Gate woven-reality protocol
 
@@ -61,10 +61,10 @@ The Loom is never idle, but the cloth it produces does not repeat. Its threads a
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Do not feed the Loom tears as raw dream material. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not cut threads or stop the shuttle by force. |
+| Flerehan | Invalid for this Object/Place entity. | Negative-Low | Do not feed the Loom tears as raw dream material. |
+| Pugnahan | Invalid for this Object/Place entity. | Negative-Low | Do not cut threads or stop the shuttle by force. |
 | Viderehan | Reveals the dreamer’s hidden desire. | Stable | Separate witnessed desire from an instruction to act. |
-| Ferrehan | Holds the worker inside an unfinished dream. | Down | Use two anchors: one in the Dream, one in waking space. |
+| Ferrehan | Holds the worker inside an unfinished dream. | Decrease | Use two anchors: one in the Dream, one in waking space. |
 
 ### Activation response
 
@@ -169,13 +169,3 @@ The original Loom is an O-Relic. Its M.A.W. set comes from self-released dream t
 **Entity links:** Somnium; Dream Fragments; The Memory Weaver.  
 **Source distinction:** Loom remains an O-Relic; its M.A.W. profiles are released threads, not stolen portions of the active cloth.  
 **Item links:** `SE-176-B`, `SE-176-C`, and `SE-176-D` contain individual channel, memory, and corrosion history for Woven Possibility.
-
----
-
-**Document ID:** `SE-176-A`  
-**Linked Entity:** `SE-176`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

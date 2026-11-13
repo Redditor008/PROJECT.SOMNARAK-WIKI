@@ -88,14 +88,3 @@ Lee wore the Cloak after a long-term Garden keeper retired. The cloak allowed a 
 The Cloak is the privacy boundary of *Closing Branch*. Requiem helps a farewell move, Charm creates a closing ritual; this suit ensures privacy does not become permanent isolation.
 
 > *“A private goodbye still needs a way back to the living.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-140-C`  
-**Linked Entity:** `SE-140`  
-**Item Registry Code:** `MAW-S-140-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

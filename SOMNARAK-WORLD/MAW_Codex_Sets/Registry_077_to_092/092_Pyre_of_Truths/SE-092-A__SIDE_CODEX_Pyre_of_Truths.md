@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-092 [GP]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — controlled archival access, Zone B
 
@@ -26,7 +26,7 @@
 | Element | Grudge |
 | Location | SECTOR-B-02, Zone B |
 | Form | A vast wooden library burning in crimson fire; books turn their own pages and survive until their truth is read. |
-| Gauge / pressure | 60–80% / Grudge 29–62 |
+| Gauge / pressure | 846/846; starts 60–80% / Grudge — no attack pattern; the fire line and the pages permitted are the reading |
 | Comprehension Level | 3 — Understood |
 | M.A.W. Set | Cindered Testament |
 
@@ -61,10 +61,10 @@ No shelf blackens while a book is unread. The flame becomes hotter only when a v
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Emotion alone does not grant access to a record. |
-| Pugnahan | Invalid for this Place entity. | N/A | Threatening the shelves is an expansion trigger, not confrontation work. |
+| Flerehan | Invalid for this Place entity. | Negative-Low | Emotion alone does not grant access to a record. |
+| Pugnahan | Invalid for this Place entity. | Negative-Low | Threatening the shelves is an expansion trigger, not confrontation work. |
 | Viderehan | Fire illuminates a book containing needed knowledge. | Stable | State the question and preservation purpose before crossing the first shelf. |
-| Ferrehan | Forces the worker through fire. | Down | The worker carries no weapon raised toward a book and exits with an accountability witness. |
+| Ferrehan | Forces the worker through fire. | Decrease | The worker carries no weapon raised toward a book and exits with an accountability witness. |
 
 ### Expansion response
 
@@ -85,7 +85,7 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Pyre Grimoire & Ash Lance | δ | Grudge | Piercing response to active suppression and structural threat | `SE-092-B__MAW-W_The_Burning_Fang.md` |
+| Weapon | The Pyre Grimoire & Ash Lance | δ | Grudge | Piercing response to active suppression and structural threat | `SE-092-B__MAW-W_The_Pyre_Grimoire_and_Ash_Lance.md` |
 | Suit | The Burning Plate | δ | Grudge | Body protection against Grudge pressure and heat | `SE-092-C__MAW-S_The_Burning_Plate.md` |
 | Stigma | The Burning Page | δ | Grudge | One irreversible reading of a hidden civic truth | `SE-092-D__MAW-G_The_Burning_Page.md` |
 
@@ -107,7 +107,7 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 
 **Quick effect:** The grimoire’s crimson script combusts into incandescent ash, channeled through the cinder-iron lance to fire a linear corridor of white-hot Grudge javelins at up to three targets. The flame sears physical barriers and hostile constructs, but does not ignite mundane paper records.
 
-**Linked-item terminology hold (2026-10-10):** The Side card now follows the grimoire-and-lance identity and channeled ash-burst profile reflected in the current `SE-092-B` heading, identity, resting/active forms, Appearance and Core Statistics, the primary weapon block, registry name and `MAW-W-092` archetype. The item’s Basic Attack (`Margin Cut`) still says “The Fang launches a crimson Skewer line,” and its Signature Ability retains “Fang” and “Skewer line.” Revision `ebcbd249` changed the earlier Burning Fang identity, form and combat profile but left those passages. No separate Fang form or transition is documented; preserve the residual language as an unresolved linked-item hold rather than restoring the superseded Side profile. The old `Burning_Fang` filename remains a path, not the current name.
+**Linked-item terminology hold (Year 4,238):** The Side card now follows the grimoire-and-lance identity and channeled ash-burst profile reflected in the current `SE-092-B` heading, identity, resting/active forms, Appearance and Core Statistics, the primary weapon block, registry name and `MAW-W-092` archetype. The item’s Basic Attack (`Margin Cut`) still says “The Fang launches a crimson Skewer line,” and its Signature Ability retains “Fang” and “Skewer line.” The current revision changed the earlier Burning Fang identity, form and combat profile but left those passages. No separate Fang form or transition is documented; preserve the residual language as an unresolved linked-item hold rather than restoring the superseded Side profile. The old `Burning_Fang` filename remains a path, not the current name.
 
 ---
 
@@ -172,13 +172,3 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 **Entity links:** The Memory Weaver; The Cartographer’s Ghost; The Final Door; Sornos; The Maw.  
 **Restricted history:** Cheongula-related records require Echo-Core authorization even when the Library reveals them.  
 **Item links:** `SE-092-B`, `SE-092-C`, and `SE-092-D` contain individual extraction, bearer, and failure records for Cindered Testament.
-
----
-
-**Document ID:** `SE-092-A`  
-**Linked Entity:** `SE-092`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

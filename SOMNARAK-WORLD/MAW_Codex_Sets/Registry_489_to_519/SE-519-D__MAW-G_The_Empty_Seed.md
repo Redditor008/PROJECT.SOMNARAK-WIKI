@@ -12,6 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 5 — Abundant
 A Void Han-glass Head seed with no viable core. Bestowal follows honest distinction between memory and plan. Chance: 5%.
 
 ## Appearance
@@ -24,14 +25,3 @@ The Empty Seed is a pale head-seed of Han glass with no viable core — a seed b
 **Cost:** one imagined future disappears from memory
 
 **Failures:** possibility treated as worthless; ambiguous evidence forced binary; lost future replaced immediately.
-
----
-
-**Document ID:** `SE-519-D`  
-**Linked Entity:** `SE-519`  
-**Item Registry Code:** `MAW-G-519-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

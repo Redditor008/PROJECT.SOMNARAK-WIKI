@@ -22,12 +22,13 @@
 | **Grade** | α — Minor |
 | **Element** | Lament |
 | **Slot** | Tail |
+| **Maximum Amount** | 5 — Abundant |
 | **Acquisition Probability** | 5% |
 | **Stat Effect** | +1 when working the Whispering Walls source record |
 
 ### Appearance
 
-The Listening Stone is a small deep-blue crystal with one flat face polished smooth and the other left rough and grey. It fits easily inside a closed fist and carries no visible marking. When held against a wall, the flat face warms only where a whisper is ready to be heard; the warm patch is small and precise, no larger than a coin, and it moves along the surface as the bearer shifts the stone. In ordinary air the stone stays cool and gives no reading. If the bearer asks it for a secret directly it remains stubbornly cold, because the wall decides what it can bear to say. After a successful reading the rough face holds a faint pale line until the bearer repeats the sentence into an official record or tells it to the person it was meant for. The rough face of the stone stays grey after any reading, and a line of pale frost gathers along the flat until the sentence is written down.
+One face of the Listening Stone is polished to a flat shine and the other left rough and grey, though the stone runs deep blue through both. It fits easily inside a closed fist and carries no visible marking. When held against a wall, the flat face warms only where a whisper is ready to be heard; the warm patch is small and precise, no larger than a coin, and it moves along the surface as the bearer shifts the stone. In ordinary air the stone stays cool and gives no reading. If the bearer asks it for a secret directly it remains stubbornly cold, because the wall decides what it can bear to say. After a successful reading the rough face holds a faint pale line until the bearer repeats the sentence into an official record or tells it to the person it was meant for. The rough face of the stone stays grey after any reading, and a line of pale frost gathers along the flat until the sentence is written down.
 
 ---
 
@@ -54,14 +55,3 @@ A Listening Stone revealed the location of a sealed evacuation warning in a cond
 ## SET RESONANCE
 
 With Requiem and Shroud, Hear the Seam can open a one-hour archive window in a marked wall. The window closes if anyone alters the wording of the recovered sentence.
-
----
-
-**Document ID:** `SE-011-D`  
-**Linked Entity:** `SE-011`  
-**Item Registry Code:** `MAW-G-011-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

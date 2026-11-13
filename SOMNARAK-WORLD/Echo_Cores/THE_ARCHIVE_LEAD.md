@@ -1,11 +1,11 @@
 # Echo-Core 7 — The Archive Lead [Echo-Core]
 
-> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
-> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
-> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER  
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE  
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL  
 > Official historical record, behavioral assessment, and resonance profile for Marjuk.
 
-> _“A record is not the past. It is the promise that the past will still be there when someone is ready to face it.”_
+> _“A record is not the past. It is the promise that the past will still be there when someone is ready to face it.”_  
 > — **Marjuk, the Archive Lead**
 
 **The Archive Lead** (기록 책임자, _girok chaegimja_)—personal name **Marjuk** (마주크)—is Echo-Core 7 of the Nine and commander of **Floor 6: the Deep Vault**. He is a man and former Keeper responsible for the Reverie Directorate's classified records, preserved Echoes, dangerous memory collections, and the oldest material held beneath the Alpha Tree.
@@ -1358,7 +1358,7 @@ The setting is accessible through the Grand Archive, but the operation belongs t
 
 ## The Echo-Core Name
 
-> **Veniago** · 베니아고
+> **Veniago** · 베니아고  
 > *the vault where mercy is kept*
 
 **Veniago** is the fragment of the **Doorspeech** that answers to Echo-Core 7. It is not a title, rank, or form of address. No one in Somnarak uses it, and its bearer has never been told it exists.

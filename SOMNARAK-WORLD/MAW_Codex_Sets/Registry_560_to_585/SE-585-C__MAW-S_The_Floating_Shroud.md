@@ -65,14 +65,3 @@ One patch at the hem stays colorless whenever rest is quietly becoming settlemen
 The Charm remembers ties, the Shroud keeps people mutually present, and Floating Root severs false anchors. Full resonance supports mobile belonging; a declared permanent home turns the cloth into an exclusion boundary.
 
 > *“The shroud kept us together. At marker six, together began to mean no one else.”* — Uri Hanbaram
-
----
-
-**Document ID:** `SE-585-C`  
-**Linked Entity:** `SE-585`  
-**Item Registry Code:** `MAW-S-585-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

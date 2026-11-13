@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IIIβ-156 [WO]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Collector’s Row deadline-distancing protocol
 
@@ -26,7 +26,7 @@
 | Element | Weight |
 | Location | SECTOR-C-01, Collector’s Row |
 | Form | A battered clock with a cracked face whose hands count personal debt deadlines rather than ordinary time. |
-| Gauge / pressure | 35–50% / Weight 8–20 |
+| Gauge / pressure | 435/435; starts 35–50% / Weight — no attack pattern; each reader's own countdown is the reading |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Time to Act |
 
@@ -61,10 +61,10 @@ The Clock never displays ordinary time. It ticks faster as a debt comes due and 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Do not weep at the clock in place of reviewing a real balance. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not strike, smash, or force the hands backward. |
+| Flerehan | Invalid for this Object/Place entity. | Net-Neutral | Do not weep at the clock in place of reviewing a real balance. |
+| Pugnahan | Invalid for this Object/Place entity. | Net-Neutral | Do not strike, smash, or force the hands backward. |
 | Viderehan | Reveals the origin of the deadline. | Stable | Compare the displayed origin to accountable Collector and Directorate records. |
-| Ferrehan | Tests whether a worker can wait without panic. | Down | Use a financial support partner and a timed exit from the clock room. |
+| Ferrehan | Tests whether a worker can wait without panic. | Decrease | Use a financial support partner and a timed exit from the clock room. |
 
 ### Activation response
 
@@ -168,13 +168,3 @@ The original Clock is an O-Relic. Its M.A.W. set is formed from released deadlin
 **Entity links:** The Shadow at the Door; The Debt Wall; The Debt Scale.  
 **Source distinction:** Deadline remains an O-Relic. Its individual M.A.W. files document released echoes, never the original clock’s channel.  
 **Item links:** `SE-156-B`, `SE-156-C`, and `SE-156-D` contain individual timed-action and corrosion records for Time to Act.
-
----
-
-**Document ID:** `SE-156-A`  
-**Linked Entity:** `SE-156`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

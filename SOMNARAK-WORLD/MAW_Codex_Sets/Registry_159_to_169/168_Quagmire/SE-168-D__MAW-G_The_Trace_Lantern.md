@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 5 — Abundant |
 | Acquisition probability | 5% after successful Quagmire work |
 | Bestowal event | The Lantern formed after a map team preserved trace names and chose the return route over the broken path. |
 | Acceptance condition | The candidate agrees to store all discovered route names under map custody. |
@@ -85,14 +86,3 @@ Yeonhwa used the Lantern to find a buried emergency route after a Desolate storm
 The Lantern completes *Arrive Together*. Requiem turns the team back and Shroud holds the return line; this Stigma makes the cost of every hidden route impossible to erase from the map.
 
 > *“A path is not empty because the people who failed on it are no longer visible.”* — Cartographer Yeonhwa
-
----
-
-**Document ID:** `SE-168-D`  
-**Linked Entity:** `SE-168`  
-**Item Registry Code:** `MAW-G-168-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

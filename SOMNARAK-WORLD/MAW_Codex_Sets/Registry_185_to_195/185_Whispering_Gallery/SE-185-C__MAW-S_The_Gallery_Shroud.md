@@ -22,6 +22,8 @@ The Gallery Shroud is a long wrap of blue silk so fine that portrait light passe
 
 ## PROTECTION STATISTICS
 
+**Grade / Element:** β / Lament
+
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded |
@@ -39,14 +41,3 @@ Whisper lines appear in the hem when the wearer holds names alone; a fully silen
 ## SET RELATIONSHIP
 
 With Gallery Requiem and Gallery Stone, it supports *Frame and Witness*: names can be restored while unknown histories remain honestly blank.
-
----
-
-**Document ID:** `SE-185-C`  
-**Linked Entity:** `SE-185`  
-**Item Registry Code:** `MAW-S-185-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -19,10 +19,10 @@ The Bridge formed from crossings interrupted by catastrophe. The grief of journe
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-823 [LS] |
-| Type / Manifestation | Subject — Can breach / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone B, deep tunnels |
-| Gauge / Pressure | 809/809; starts 60–80% / 25–53 per hit · Lament |
+| Gauge / Pressure | 000/809; starts 000% / Lament — no attack pattern; the two counts said aloud together and the depth at each reading are the instrument |
 | Observation | 2 — Basic |
 | Formation event | A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return. |
 
@@ -40,7 +40,7 @@ The Bridge formed from crossings interrupted by catastrophe. The grief of journe
 
 ## WITNESS RECORD — *The Stranded Between Two Shores Source-Trace*
 
-During the The Stranded Between Two Shores Source-Trace, the field team preserved this source fact: A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of journeys ended between one shore and another.
+During *The Stranded Between Two Shores Source-Trace*, the field team preserved this source fact: A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of journeys ended between one shore and another.
 
 ## M.A.W. SET — *Stranded Between Two Shores — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Stranded Between Two Shores Source-Trace, the field team preserve
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Stranded Between Two Shores's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon opens only the immediate manifestation that violates this rule: Listen between the sobs and name both shores The set cannot heal the originating event. Misuse routes Stranded Between Two Shores's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-823-A`  
-**Linked Entity:** `SE-823`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

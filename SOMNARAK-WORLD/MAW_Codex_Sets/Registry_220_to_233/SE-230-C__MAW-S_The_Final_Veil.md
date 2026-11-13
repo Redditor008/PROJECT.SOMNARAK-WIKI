@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-S-230-01`  
 **Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Status:** Active — two deep-vault veils
 
@@ -27,9 +27,15 @@ The Final Veil is a flowing suit of Void Han-gossamer that shifts like breath af
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Void
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 2 / 45 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
 **Living Margin:** The Veil separates the wearer’s ongoing pulse from incoming final moments, allowing Void to pass over the outer faces without ending personal continuity.
 
@@ -46,14 +52,3 @@ The Veil carries the witness through *Received, Not Rewritten*. Final Hour marks
 **Maintenance:** Hang the Veil beside an active clock and an open task assigned to the last wearer. The wearer completes one living choice unrelated to the witnessed death. The cloth clears only when the inner pulse resumes before the outer faces.
 
 **Removal:** The appointed partner states the unfinished obligation and waits for a present-tense answer. Pulling the suit from an unresponsive wearer leaves their pulse inside it.
-
----
-
-**Document ID:** `SE-230-C`  
-**Linked Entity:** `SE-230`  
-**Item Registry Code:** `MAW-S-230-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

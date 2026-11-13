@@ -22,8 +22,15 @@ The Fading Brick is a single blue brick, light as dried clay, its faces worn smo
 
 ## STIGMA STATISTICS
 
-**Slot:** Tail · **Chance:** 5% · **Bonus:** +1 source-work. **Effect:** preserves one memory of a destroyed place. **Cost:** bearer hears the ruin’s final silence.
-
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+| Grade | α |
+| Slot | Tail |
+| Acquisition probability | 5% |
+| Source-work bonus | +1 source-work |
+| Effect | preserves one memory of a destroyed place |
+| Cost | bearer hears the ruin’s final silence |
 ## HISTORY & FUNCTION
 
 Yeonhwa used a Fading Brick to preserve the layout of a Desolate well before its last witness faded. The Brick carried the final silence in every sleep afterward until the map and witness note reached Archive custody.
@@ -35,14 +42,3 @@ The Brick becomes heavy when used as a souvenir and goes transparent if a place�
 ## SET RELATIONSHIP
 
 The Brick completes *Record Before Dust*, ensuring the set preserves a place-memory without denying the source its right to fade.
-
----
-
-**Document ID:** `SE-189-D`  
-**Linked Entity:** `SE-189`  
-**Item Registry Code:** `MAW-G-189-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

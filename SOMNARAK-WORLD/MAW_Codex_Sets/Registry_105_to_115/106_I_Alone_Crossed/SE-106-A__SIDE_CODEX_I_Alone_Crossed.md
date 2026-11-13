@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-106 [O]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Desolate Scar crossing protocol
 
@@ -26,7 +26,7 @@
 | Element | Lament |
 | Location | The Desolate, near the Scar |
 | Form | A bridge-shaped consciousness perceived as an impossible span beneath the feet and a violent crossing replayed in the mind. |
-| Gauge / pressure | 60–80% / Lament 29–62 |
+| Gauge / pressure | 892/892; starts 60–80% / Lament — no attack pattern; the transcriber’s reply, and where the worker’s own line falls, are the instrument |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Far Shore |
 
@@ -61,10 +61,10 @@ There is no bridge in the terrain. Yet personnel near the Scar feel a span under
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Pauses and acknowledges shared sorrow. | Down | Share grief without assigning the guide sole blame for a force beyond control. |
-| Pugnahan | Resists with pressure and memory-rage. | Up | Never use accusation as a substitute for accountability review. |
+| Flerehan | Pauses and acknowledges shared sorrow. | Decrease | Share grief without assigning the guide sole blame for a force beyond control. |
+| Pugnahan | Resists with pressure and memory-rage. | Increase | Never use accusation as a substitute for accountability review. |
 | Viderehan | Reveals the crossing without assigning total blame. | Stable | Map every role, condition, and decision instead of looking for one guilty survivor. |
-| Ferrehan | Tests whether a worker can bear failure without becoming it. | Down | Endurance pairs must debrief together; no one crosses the Scar alone after exposure. |
+| Ferrehan | Tests whether a worker can bear failure without becoming it. | Decrease | Endurance pairs must debrief together; no one crosses the Scar alone after exposure. |
 
 ### Transform response
 
@@ -85,7 +85,7 @@ The set maps crossings, responsibility, and survival. It fails when a bearer tri
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | I Alone Crossed Requiem | δ | Lament | Piercing interruption of survivor-guilt pressure | `SE-106-B__MAW-W_I_Alone_Crossed_Requiem.md` |
+| Weapon | The Survivor's Span-Cleaver | δ | Lament | Piercing interruption of survivor-guilt pressure | `SE-106-B__MAW-W_The_Survivor_s_Span_Cleaver.md` |
 | Suit | I Alone Crossed Shroud | δ | Lament | Lament protection during shared route recovery | `SE-106-C__MAW-S_I_Alone_Crossed_Shroud.md` |
 | Stigma | I Alone Crossed Lantern | δ | Lament | Reveals emotional routes and failed crossings | `SE-106-D__MAW-G_I_Alone_Crossed_Lantern.md` |
 
@@ -171,13 +171,3 @@ The set maps crossings, responsibility, and survival. It fails when a bearer tri
 **Entity links:** Survivor’s Span; The Burning Bridge; The Scar Walker.  
 **Route doctrine:** A post-Cycle border route requires a return plan and shared authority; no current procedure treats a single survivor as proof of fault.  
 **Item links:** `SE-106-B`, `SE-106-C`, and `SE-106-D` contain the individual operating, release, and debrief histories for Far Shore.
-
----
-
-**Document ID:** `SE-106-A`  
-**Linked Entity:** `SE-106`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

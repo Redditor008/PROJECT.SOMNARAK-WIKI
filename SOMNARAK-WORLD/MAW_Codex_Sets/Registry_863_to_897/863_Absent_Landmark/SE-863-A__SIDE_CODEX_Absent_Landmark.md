@@ -22,7 +22,7 @@ The Tower formed from a structure that became a person only after it was lost. T
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void / Zone B, Old Lament |
-| Gauge / Pressure | 224/224; starts 25–40% / 3–10 per hit · Void |
+| Gauge / Pressure | 000/224; starts 000% / 3–10 per hit · Void |
 | Observation | 1 — Initial |
 | Formation event | An Old Lament tower collapsed and was cleared, but the district continued looking for its shape. |
 
@@ -40,7 +40,7 @@ The Tower formed from a structure that became a person only after it was lost. T
 
 ## WITNESS RECORD — *The Absent Landmark Source-Trace*
 
-During the The Absent Landmark Source-Trace, the field team preserved this source fact: An Old Lament tower collapsed and was cleared, but the district continued looking for its shape. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness left when a familiar landmark disappears.
+During *The Absent Landmark Source-Trace*, the field team preserved this source fact: An Old Lament tower collapsed and was cleared, but the district continued looking for its shape. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness left when a familiar landmark disappears.
 
 ## M.A.W. SET — *Absent Landmark — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Absent Landmark Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Absent Landmark's source condition, the Suit lets a witness bear its Void pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Record its former location; do not attempt to rebuild it around the entity The set cannot heal the originating event. Misuse routes Absent Landmark's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-863-A`  
-**Linked Entity:** `SE-863`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

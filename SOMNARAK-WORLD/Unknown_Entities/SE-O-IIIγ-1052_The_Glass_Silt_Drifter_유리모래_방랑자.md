@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 620/620 |
 | **Han-Energy yield** | 12–16 Han-Energy per calming pass |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 |
+| **Work Damage** | 3–5 Grudge — the cost is working an approach that routes to furnaces and basalt crawlers |
 | **Activation threshold** | Heavy Caravan Steam-Crawler Vibration |
 | **Tool / M.A.W. grade** | Grade γ |
 | **Vessel-Destructible** | Yes |
@@ -62,11 +63,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Sandstorm Flensing* [**Debuff**] } | "A cloud of molten silica blinds the vanguard line." | [The Drifter vents a swirling blast of superheated red glass silt.] | *All targets suffer -20% accuracy and 8 Grudge thermal burn damage.* **[8 Grudge DMG]** | At engagement initiation. |
-| { *Obsidian Caltrops* [**Trap**] } | "The ground turns into an ocean of black razors." | [Sheds razor-sharp vitrified shards across the combat lane.] | *Immobilizes ground units for 1 turn; inflicts 12 Weight damage upon movement.* **[12 Weight DMG]** | When target attempts a flanking sprint. |
+| { *Sandstorm Flensing* [**Debuff**] } | "A cloud of molten silica blinds the vanguard line." | [The Drifter vents a swirling blast of superheated red glass silt.] | *All targets suffer -20% accuracy and 8 Grudge thermal burn damage.* **[8 RED DMG]** | At engagement initiation. |
+| { *Obsidian Caltrops* [**Trap**] } | "The ground turns into an ocean of black razors." | [Sheds razor-sharp vitrified shards across the combat lane.] | *Immobilizes ground units for 1 turn; inflicts 12 Weight damage upon movement.* **[12 BLACK DMG]** | When target attempts a flanking sprint. |
 | { *Vitrified Ramming* [**Attack**] } | "A streak of fused obsidian strikes the crawler hull like an artillery slug." | [Accelerates across the smooth glass sheet, ramming target directly.] | *Deals heavy kinetic blunt damage and knocks target back 5 meters.* **[18-26 Grudge / Weight DMG]** | When distance exceeds 15 meters. |
-| { *Turbine Screech* [**AoE**] } | "The spinning chest core howls with the agony of buried messengers." | [Releases an ultrasonic shockwave of grinding silica sand.] | *All personnel within 10 meters suffer 14 Void Composure erosion.* **[14 Pale DMG]** | When Sorrow Gauge reaches 50%. |
-| { *Fused Mirage* [**Ultimate**] } | "The glass desert reflects ten identical couriers running toward the horizon." | [Splits into three shimmering mirror illusions while superheating the sand.] | *Creates 2 decoy copies; direct strikes deal 24-34 Grudge damage.* **[24-34 Grudge DMG]** | When Sorrow Gauge reaches 80%. |
+| { *Turbine Screech* [**AoE**] } | "The spinning chest core howls with the agony of buried messengers." | [Releases an ultrasonic shockwave of grinding silica sand.] | *All personnel within 10 meters suffer 14 Grudge Composure erosion.* **[14 RED DMG]** | When Sorrow Gauge reaches 50%. |
+| { *Fused Mirage* [**Ultimate**] } | "The glass desert reflects ten identical couriers running toward the horizon." | [Splits into three shimmering mirror illusions while superheating the sand.] | *Creates 2 decoy copies; direct strikes deal 24-34 Grudge damage.* **[24-34 RED DMG]** | When Sorrow Gauge reaches 80%. |
 
 ## Comprehension Levels
 
@@ -100,7 +101,7 @@ The Courier's Edge and Slag Mantle are derived shell pieces, not scaled copies o
 2. **Thermal Suppressant:** If the drifter boards a crawler deck, vanguards must blast it with liquid nitrogen sprays to induce thermal shock fracture.
 3. **Piston Dampening:** When approaching known roosting craters, engineers must throttle steam vents to sub-audible levels to prevent triggering pursuit instincts.
 
-Management: throttle below 38 piston strokes a minute and let it fall back; do not outrun it, do not engage it, and keep the chain live.
+Management: throttle below 38 piston strokes a minute and let it fall back. Do not outrun it, do not engage it, and keep the chain live.
 
 ## Eyewitness Testimony
 
@@ -121,7 +122,7 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 
 ### Escalation Notes
 
-- The copper-chain decoy works because it sparks, not because it is metal; an unelectrified chain was trialled in Year 4,236 and was ignored on all four runs.
+- The copper-chain decoy works because it sparks, not because it is metal. An unelectrified chain was trialled in Year 4,236 and was ignored on all four runs.
 - No pursuit has ended in a boarding where the crew throttled down inside ninety seconds. All three boardings on file followed a decision to outrun it.
 - Nothing it does is directed at people on foot. Walkers have passed within four metres of a pursuing Drifter and been ignored, which the caravans discovered by accident and now rely on.
 
@@ -139,15 +140,25 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 
 **Cost:** The wielder cannot arrive. They reach places and immediately feel they are late for somewhere else, and both wielders have been stood down for walking out of camp at night.
 
-### M.A.W. Armor — The Slag Mantle
+### M.A.W. Suit — The Slag Mantle
 
-**Type:** Armor | **Grade:** γ | **Element:** Weight
+**Type:** Suit | **Grade:** γ | **Element:** Weight
 
 **Appearance:** a shoulder-mantle of layered glass flakes that chimes faintly in wind and does not conduct heat in either direction.
 
 **Ability:** Resistance to thermal friction and silica abrasion; the reason vanguard crews can stand the deck during a pursuit rather than sheltering inside.
 
 **Cost:** The wearer stops noticing distance. Three vanguards have walked a full stage beyond their relief point and reported the stage as short.
+
+### M.A.W. Stigma — The Silt Mark
+
+**Type:** Stigma | **Grade:** γ | **Element:** Weight
+
+**Appearance:** a palm-plate of shell glass cut across the fracture line, worn against the sternum on a copper chain, its face clouded with the silt that was inside the shell when it cooled.
+
+**Ability:** The wearer knows, to the pace, how far they are from wherever they are supposed to be. Not the direction and not the name — only the distance, arriving as a number the way a weight arrives in the hand.
+
+**Cost:** The number never reads zero. Three wearers have turned back inside sight of their own gate, and one has walked a stage in the wrong direction for nine days because the figure was falling.
 
 ### M.A.W. Use Notes
 
@@ -181,6 +192,15 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 
 **Entry 5 — Cadre Note** The couriers it formed from were carrying dispatches that were never delivered. The cadre has recovered nine message cylinders from the glass in four years, all sealed, none opened, and has lodged all nine with the Archive unread.
 
+## 최종 관찰 (Final Observation)
+
+> The choice at the end of a session is about the engine: the convoy either throttles down and lets the Drifter fall back on the glass, or holds speed and treats the crossing as a race it intends to win.
+
+| Throttle down under thirty-eight piston strokes, keep the copper chain live, and let it fall back. | Hold speed through the corridor and try to outrun it on the glass. |
+|---|---|
+| The footsteps stop landing ahead of the crawler, the caltrops fall behind, and the glass closes over them cold. | The glass shears a tread, the furnace goes down on its side, and the shrapnel comes up incandescent. |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+
 ## 감각 묘사 (Flavor Text)
 
 **At first contact:** A red shimmer on a mirror horizon, keeping exact pace. Then, over the boilers, a high dry hiss like hot iron quenched in vinegar.
@@ -190,6 +210,54 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 **When the entity activates:** It comes alongside. There is no charge and no roar — a towering figure of fused glass, chest turbine spinning red, running level with the deck plates at the speed of a hard-worked crawler.
 
 **After departure:** You think about a message you have not sent. Nine of the eleven vanguards interviewed had one in mind, and four sent it from the next stage post.
+
+## 이야기 (Narratio) — The Tale
+
+> **Entry of:** the Convoy Office, Sea of Glass Transit — Year 4,233, standing order 11
+
+The corridor between Corner 1 and Corner 2 is two thousand four hundred kilometres of glass, and the Steam-Crawlers cross it because there is no other crossing and no other grade.
+
+The Drifter walks it with them. It does not hunt and it does not keep pace; it comes at the sound, and the sound is a heavy furnace pushing a reinforced tread across a surface that rings. Somewhere behind a crawler a shape the height of a trestle comes out of the glare, and the footprints it leaves are caltrops — razor obsidian, black against the white, laid in a line that shears through iron rims and seal-gaskets on the second or third pass.
+
+The Convoy Office wrote the order in the plainest words it had. Keep the copper chain live. Throttle down. Let it fall back. Nothing in the order asks a driver to fight it, and the two boarding procedures that did are kept in the archive with the names attached to them, because the glass a shattered fragment throws is not glass for long — it detonates, and the fire it throws is Grudge, and thermal aprons are issued at Corner 1 and inspected at Corner 1 and have never once been the reason a driver lived.
+
+The corridor stays open. The crossing is the only one, and the Council's ledger says what it would cost to close it, and the ledger is right.
+
+## 증언 (Testimonium) — The Testimony
+
+> *“It has never once looked at a walker. Four hours beside it on foot and it did not turn a plate.”* — Caravan Master, Horizon Route
+
+> *“Thirty-eight strokes and it falls back. Every crew on the glass will tell you thirty-eight without looking it up.”* — Engine Driver, Corner 2 Depot
+
+> *“The apes do not shatter it. They shatter *at* it, and the shards come back hot enough to cook a seal-gasket.”* — Surveyor, Caravan Cadre
+
+> *“Nine cylinders in four years, all sealed, all unread. We asked for them to be lodged and not opened, and the Archive agreed.”* — Archivist, Horizon Caravan
+
+> *“The glass is not empty country. Somebody crossed it once and left footsteps in it, and the footsteps kept walking.”* — Elder, Corner 1
+
+## 기록 (Registrum) — The Record
+
+**Classification:** Sorrow Entity — `O-IIIγ-1052 [GS]` · Outside Sorrow origin · Fragment (III) coherence · Major (γ) potency · Grudge / Weight · Subject manifestation
+**Common Name:** The Glass Silt Drifter
+**Containment Status:** Uncontained — the Sea of Glass, the transit corridor between Corner 1 and Corner 2
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Major (γ) to engines and to nothing else. Its whole known range is inside the corridor, and its whole behaviour is aimed at the furnaces that cross it.
+**Containment & Handling Procedures:**
+- The standing convoy order is non-engagement: keep the copper chain live, throttle down, and let it fall back.
+- Thirty-eight piston strokes per minute is the fall-back threshold, and it is the only figure in this file four separate crews have independently reproduced.
+- Thermal blast aprons are worn on every crossing. The apes do not shatter the entity; they shatter at it, and the shards came back hot enough to cook a seal-gasket.
+**Observation Notes:**
+- Walkers are ignored entirely. A broken-down crew walked four hours beside it and it did not turn a plate.
+- Nine sealed message cylinders have been recovered from the glass in four years. All nine are lodged unread with the Archive at the cadre's own request.
+**Cross-References:** Outside Sorrow, the vitrified corridor. The pursuit pairings are recorded in the Entity Interaction Record and none of them is a co-presence.
+**Faction Involvement:** Horizon Caravan Survey Cadre · Corner 1 and Corner 2 depots
+**Originator:** The caravan that burned on the glass, named in the Horizon route book and not in this file.
+
+### Registry Addendum
+
+**Operational interpretation:** Read this as a road hazard with a memory, not as a marauder. It chases engines because engines are what took the convoy, and it has never followed anything that walked.
+
+**Review requirement:** Re-verify after any change to the convoy route, after any crossing that reports more than nine cylinders, and after any engine that reports the caltrops landing ahead of the treads rather than behind.
 
 ## Trivia
 
@@ -202,7 +270,7 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 
 | Related entity | What it is | What the pursuit did | Required record |
 |---|---|---|---|
-| **The Singing Needle** | The other Sea of Glass holding; an acoustic presence in the Crystal Peaks above the corridor. | Two crossings under the Needle's audible range. The Drifter fell back 40 km early on both, at a stroke rate well above its own threshold. Neither cadre can explain it. | Stroke rate at fall-back, and the Needle's audible range that day. |
+| [**The Singing Needle**](SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md) | The other Sea of Glass holding; an acoustic presence in the Crystal Peaks above the corridor. | Two crossings under the Needle's audible range. The Drifter fell back 40 km early on both, at a stroke rate well above its own threshold. Neither cadre can explain it. | Stroke rate at fall-back, and the Needle's audible range that day. |
 
 The corridor itself is the other half of this record and is not an entity: 41 escorted crossings, three
 boardings, no fatalities and no cargo lost, and no sighting anywhere beyond the vitrified edge. The escort
@@ -211,6 +279,9 @@ log is the primary source for this dossier.
 **Interaction procedure:** Record stroke rate and fall-back distance for every crossing, whether or not anything else is present. There is no way to bring a second party to a 2,400 km corridor and the cadre has stopped proposing it.
 
 ---
+
+
+## Document Information
 
 **Document ID:** `SE-O-IIIγ-1052`
 **Classification:** Outside Sorrow Anomaly Dossier

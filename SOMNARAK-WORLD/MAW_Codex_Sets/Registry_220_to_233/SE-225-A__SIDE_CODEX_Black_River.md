@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Vγ-225 [WP]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Record Status:** Uncontained Sovereign Place — access sealed beneath the Alpha Tree
 
@@ -25,7 +25,7 @@
 | Element | Weight |
 | Location | SECTOR-A-01, beneath the Alpha Tree — The Weeping |
 | Form | A vast bankless underground current of black liquid sorrow, lead-cold and sensed through bone rather than ordinary sound. |
-| Gauge / Pressure | 45–65% / Weight 17–39 |
+| Gauge / Pressure | 000% / Weight 17–39 |
 | Observation | 4 — Mastered |
 | M.A.W. Set | The Borrowed Current |
 
@@ -47,10 +47,10 @@ The current changes during Sorrow Tides. No observation has found a source, term
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not applicable to Object/Place entities. | N/A | Human tears do not negotiate with a Sovereign river. |
-| Pugnahan | Not applicable; damming provokes overflow. | N/A | No strike, barrier, or ownership test is authorized. |
+| Flerehan | Not applicable to Object/Place entities. | Negative-Low | Human tears do not negotiate with a Sovereign river. |
+| Pugnahan | Not applicable; damming provokes overflow. | Negative-Low | No strike, barrier, or ownership test is authorized. |
 | Viderehan | Reveals grief moving through the current. | Stable | Observe only from sealed monitoring apertures. |
-| Ferrehan | Tests whether a worker can remain near total sorrow. | Down | Rotate personnel; no exposure beyond authorized duration. |
+| Ferrehan | Tests whether a worker can remain near total sorrow. | Decrease | Rotate personnel; no exposure beyond authorized duration. |
 
 **Resolution:** Impossible. Access remains sealed and the River is monitored.  
 **Expansion:** City-wide grief changes underground channels continuously; overflow feeds structures and entities above.  
@@ -103,13 +103,3 @@ No piece is extracted from direct River contact. During a monitored current shif
 **Primary source:** `SE-C-Vγ-225_Black_River_슬픔의_강.md`
 
 **Restricted note:** “Source of Han” remains a supported hypothesis, not authorization for extraction infrastructure.
-
----
-
-**Document ID:** `SE-225-A`  
-**Linked Entity:** `SE-225`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

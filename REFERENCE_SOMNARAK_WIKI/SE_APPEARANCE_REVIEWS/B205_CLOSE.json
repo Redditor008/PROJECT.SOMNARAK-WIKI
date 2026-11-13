@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "batch": 205,
+  "status": "CLOSED",
+  "programme": "R-34 recheck — one oldest pre-R-34 HELD dossier per SE document shape",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 108,
+  "short_repairs": 43,
+  "careful_repairs": 65,
+  "before_words": 37394,
+  "after_words": 39169,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 241,
+  "pending_fingerprints_unchanged": 241,
+  "source_changes": 0,
+  "cited_sources_checked": 20,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": "PASS",
+  "table_blocks_equal_cell_counts": "5/5 primaries",
+  "combat_trigger_cells_parsed": "25/25",
+  "units": [
+    {
+      "unit": 1,
+      "designation": "N-IVδ-909",
+      "name": "Dormant Monolith",
+      "shape": "Subject",
+      "recheck_of": "B147",
+      "repairs": 18,
+      "split": [
+        8,
+        10
+      ],
+      "words": [
+        7943,
+        8232
+      ],
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_01_DORMANT_MONOLITH.md",
+      "commit": "bd556e1"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIβ-119",
+      "name": "Homeless Sorrow",
+      "shape": "Non-Subject",
+      "recheck_of": "B148",
+      "repairs": 26,
+      "split": [
+        12,
+        14
+      ],
+      "words": [
+        6946,
+        7348
+      ],
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_02_HOMELESS_SORROW.md",
+      "commit": "f19b891"
+    },
+    {
+      "unit": 3,
+      "designation": "N-Iα-518",
+      "name": "Life Behind Glass",
+      "shape": "I-Relic",
+      "recheck_of": "B148",
+      "repairs": 20,
+      "split": [
+        7,
+        13
+      ],
+      "words": [
+        8458,
+        8760
+      ],
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_03_LIFE_BEHIND_GLASS.md",
+      "commit": "ea3cb26"
+    },
+    {
+      "unit": 4,
+      "designation": "C-Iα-884",
+      "name": "Seething Tundra",
+      "shape": "O-Relic",
+      "recheck_of": "B146",
+      "repairs": 23,
+      "split": [
+        8,
+        15
+      ],
+      "words": [
+        6379,
+        6791
+      ],
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_04_SEETHING_TUNDRA.md",
+      "commit": "f7c02a0"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IIβ-290",
+      "name": "Broken Compass",
+      "shape": "A-Relic",
+      "recheck_of": "B155",
+      "repairs": 21,
+      "split": [
+        8,
+        13
+      ],
+      "words": [
+        7668,
+        8038
+      ],
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_05_BROKEN_COMPASS.md",
+      "commit": "b94a00d"
+    }
+  ],
+  "final_words": {
+    "N-IVδ-909": 8232,
+    "O-IIβ-119": 7348,
+    "N-Iα-518": 8760,
+    "C-Iα-884": 6791,
+    "C-IIβ-290": 8038
+  },
+  "appearance_shapes_measured": {
+    "leaf_shapes": 5,
+    "top_categories": [
+      "Subject",
+      "Non-Subject",
+      "Relic"
+    ],
+    "relic_subclasses": [
+      "I-Relic",
+      "O-Relic",
+      "A-Relic"
+    ],
+    "dossiers": {
+      "Subject": 142,
+      "Non-Subject": 71,
+      "I-Relic": 53,
+      "O-Relic": 28,
+      "A-Relic": 7
+    },
+    "method": "SE_DOC_STRUCTURES: last Tool Use Profile heading wins, else Entity role starting with Subject"
+  },
+  "recheck_pool": {
+    "at_open": 246,
+    "rechecked_this_batch": 5,
+    "remaining": 241
+  },
+  "counters": {
+    "types": "286/301",
+    "weapon": "284/287",
+    "se_appearance_fix": "18/301"
+  },
+  "fresh_credits": [],
+  "ledger": {
+    "changed": 14,
+    "retained": 4,
+    "held": 281,
+    "blocked": 2,
+    "pending": 0
+  },
+  "next": "241 pre-R-34 HELD dossiers remain in the recheck pool; none is retroactively R-34-certified. Any Batch 206 needs fresh owner authorisation and ranking. Draft PR #15 remains open under owner control; no merge, artwork or deployment is authorised."
+}

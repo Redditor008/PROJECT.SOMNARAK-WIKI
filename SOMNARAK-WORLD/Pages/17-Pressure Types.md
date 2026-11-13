@@ -2,7 +2,7 @@
 
 > *“Flesh burns under Grudge; the mind drowns in Lament; existence dissolves in Void; the soul is crushed under Weight.”*
 
-**Pressure Types**  [압력 유형]  (_Amnyeok Yuhyeong_) define the elemental and metaphysical damage physics governing all containment interactions, entity attacks, and combat clashes in [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
+**Pressure Types**  [압력 유형]  (_Amnyeok Yuhyeong_) define the elemental and metaphysical damage physics governing all containment interactions, entity attacks, and combat clashes in [SOMNARAK-WORLD](../README.md).
 
 Rather than relying on generic physical injury, damage in Somnarak is classified into **Four Fundamental Pressures**: 🔴 **Grudge**, 🔵 **Lament**, ⚪ **Void**, and ⚫ **Weight**. Each pressure targets a different physiological or psychological layer of the human body, demanding precise defensive preparation.
 

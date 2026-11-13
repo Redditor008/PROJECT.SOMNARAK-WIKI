@@ -64,14 +64,3 @@ The Fang now goes cold whenever its target is loss rather than an erasing agent.
 Pendant reveals erased traces, Plate protects the historian, and Fang cuts ongoing suppression. Full resonance ends when the record is made; continued activation becomes forced return.
 
 > *“The seal was a target. The empty road was testimony, not an enemy.”* — Specialist Durivel Cho
-
----
-
-**Document ID:** `SE-622-B`  
-**Linked Entity:** `SE-622`  
-**Item Registry Code:** `MAW-W-622-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

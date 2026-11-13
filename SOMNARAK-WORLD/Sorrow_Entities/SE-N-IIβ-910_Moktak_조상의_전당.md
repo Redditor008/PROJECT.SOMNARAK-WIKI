@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-910 [WP]` |
-| **Entity Type** | **Place** — Recorded breach expands the seating beyond the room, not a transformed travelling body |
+| **Entity Type** | **Place** — Non-breaching: expansion only|
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -27,68 +27,76 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Place |
 | **Primary pressure** | Weight / Spirit pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **Work Damage** | 2–4 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is Threshold 3 in a hall that rewards patience. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Staff the dusk interval and let it run to its own end. The gauge falls only while the seats are occupied; a sitting broken off early rereads at its opening value the following evening, and the thirty-one minutes do not resume where they stopped. |
+| **Recommended response** | Staff the dusk interval and let it run to its own end. The gauge falls only while the seats are occupied. A sitting broken off early rereads at its opening value the following evening, and the thirty-one minutes do not resume where they stopped. |
 
 ### Operational Notes
 
 - Threshold 3, with both valid approaches lowering the gauge. The hall rewards patience rather than intervention.
-- Pressure combines weight and spirit, and the breach type is Expansion; influence spreads beyond the hall rather than anything leaving it.
+- Pressure combines weight and spirit, and the event type is Expansion; influence spreads beyond the hall rather than anything leaving it.
 - Observation makes the spirit pressure legible. Presence settles the weight pressure, but only if the worker remains through the full dusk interval.
 - The figures appear only at dusk and resume conversations that ended centuries ago. Work scheduled outside that window records no activity and no gauge movement.
 - Yield is available only during the dusk manifestation, which caps extraction at one cycle per day regardless of staffing.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 410/410 |
-| **Han Pressure [ATK]** | 14–21 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Moderate place/spirit hazard; not a Sovereign classification |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-910 |
-| **Resolution Condition** | The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned, not resolved, and reopens unchanged at the next dusk. |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
 
-### Combat Actions
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Seat Offered* [**Debuff**] } | "A chair stands in the circle that was not in the circle when the hour began, and it is turned to face you." | [The hall adds one seat to the ring of forty-one and holds the gap open until it is filled.] | *The worker cannot cross the ring outward while the seat is empty; each refusal costs 10 Weight and one place in the closing order.* **[10 Weight DMG [Weight]]** | On the third exchange after a living person enters the hall. |
-| { *Your Turn in the Conversation* [**Attack**] } | "The hall stops. Forty-one faces hold still in the direction of your chair, waiting for the part of the sentence that belongs to you." | [The exchange passes to the living participant and does not pass on.] | *The worker loses 18 Weight and may take no action for one turn; the silence counts as a spoken turn and is recorded in the log as one.* **[18 Weight DMG [Weight]]** | When a worker speaks aloud inside the hall for any reason. |
-| { *The Household Named* [**Attack**] } | "One of the back three groups says a surname, and it is the surname on your personnel file." | [A household group claims the worker as one of its own and the hall's weight redistributes onto that single chair.] | *21 Weight to the named worker and nothing to anyone else in the room; the figure that named them does not rise at the hour's end.* **[21 Weight DMG [Weight]]** | When a worker's family register matches a household recorded in the seating plan. |
-| { *Dusk Held Open* [**Ultimate**] } | "The light through the lattice has not moved. It is the angle it had an hour ago, and it will be that angle in an hour." | [The interval refuses to close; the conversation begins again from the first exchange without anyone having risen.] | *Every worker inside the hall takes 20 Weight per cycle for three cycles and cannot be extracted until a closing order is completed in full.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | When the hour passes its recorded length by more than four minutes. |
+The gauge is read at the instrument. The cost is read on the person.
 
-### Battle Phases
+## Contact Record
 
-1. **Tension:** The Warden on the door counts the chairs against the seating plan before anyone enters, confirms the figure count at forty-one, and fixes the worker's own seat in the outer ring where the closing order reaches it last. Weight pressure is read from the floor gauge at the threshold, not from inside the circle, because the reading inside the circle has never agreed with the one outside it.
-2. **Clash:** There is no clash in the ordinary sense. The worker sits the interval and the conversation proceeds around them; the whole of the engagement consists of not answering, not standing, and not crossing the ring while a seat is open. The only actions available to the team are the two logged by the Watch — attend, or withdraw before the third exchange.
-3. **Resolution:** The last figure rises and the hall returns to being a building. There is nothing to suppress and nothing to escort out; the team records the closing order, confirms the seats against the plan, and locks the door from the outside as the district requires. It closes against the documented suppression condition: **The last figure rises and the hall returns to being a building**.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the hall's expansion is counted in chairs rather than in metres. Nobody is selected by it: the first measurable change is recorded at the empty chairs along the north wall, which begin to read as occupied, and the seating follows the plan rather than the people.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A seated hall of forty-or-so stone figures in their groups, a ring of chairs at dusk light that has not moved through the lattice since the hour began, and one chair added to the ring when an interval goes uninterrupted. Expansion is measured in chairs: forty-four becomes fifty-one, then sixty-three, appearing along the corridor outside. |
+| **Perceptible to** | The weight first, arriving at the third exchange rather than at the door, and the gap in the ring turned to face whoever has entered. A worker's own surname may be spoken by one of the back three groups, and the weight redistributes onto that single chair. |
+| **Handling** | Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been authorised inside the hall; every piece in the set was extracted afterwards, from the emptied room. Attendance is capped at ten intervals. — see `## Handling Process` |
+| **Activation threshold** | 3 cycles |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-N-910, contained |
+| **Resolution Condition** | The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned. |
+
+
+### Contact Events
+
+| Event | What the hall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Seat Offered* [**Register**] } | Adds one chair to the ring and holds the gap open, turned to face whoever has entered, until the third exchange has passed. The chair is added on the north wall and the ring widens outward into whatever room contains it. | Counts the chairs against the hall plan before entering, and enters the count again at the close against the same plan. | The count is the instrument and the room is the reading: an empty chair that reads as occupied is the first measurable change, and it happens before anybody has been reached by anything. |
+| { *Your Turn in the Conversation* [**Attachment**] } | Stops when a worker speaks aloud and holds forty-one faces still in their direction, waiting for the part of the sentence that belongs to them. Silence counts as a spoken turn and is entered in the log as one. | Keeps the party silent through the sitting, and records any turn taken as taken — including the ones the worker did not intend to take. | Nothing approaches and nothing is thrown. What the hall takes is a turn in a conversation the worker is not party to, which is why the whole method is being present without joining in. |
+| { *The Household Named* [**Exposure**] } | Lets one of the back three groups say a surname that matches a worker's family register, and the weight of the hall redistributes onto that single chair. | Checks the family registers of the party against the seating plan before the watch opens, and does not seat anybody whose household is recorded on it. | The figure that named them does not rise at the hour's end. That is the whole of what the file records about it — the weight moved onto one chair and stayed there, and the party is chosen accordingly. |
+| { *Dusk Held Open* [**Overload**] } | Refuses to close the interval: the light through the lattice is at the angle it had an hour ago, the conversation begins again from the first exchange, and nobody has risen. The seating takes in the corridor outside. | Ends the sitting on the precedence order rather than on the clock — the forty-four seats empty in the order on the hall plan — and logs a hall emptied by withdrawal as abandoned rather than closed. | A hall abandoned early is a hall that gained chairs. The close is the precedence order and nothing else, because the order is the only thing in the room that has ever finished. |
+
+### Watch Sequence
+
+1. **What is confirmed:** the chair count against the hall plan, the family registers of everybody entering, and the precedence order the forty-four will empty in.
+2. **What the watch does:** Viderehan for the weight as a record and Ferrehan for the sitting without joining in, with nobody speaking aloud in the hall and no piece carried inside.
+3. **How it closes:** **The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan** — and a hall emptied by personnel withdrawing early is logged as abandoned. And the chairs it gained are not lost.
 
 ### Consequences
 
@@ -124,7 +132,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ceremonial hall in Zone A where the city’s founding families once gathered. The hall is empty — except at dusk, when translucent figures appear in the seats and resume conversations that ended centuries ago. |
-| **Position / movement** | Fixed to the building and, more narrowly, to the seating. The figures do not cross the floor, do not approach the door, and remain seated until the closing order; movement within the hall is confined to the act of sitting down and the act of rising. |
+| **Position / movement** | Fixed to the building and, more narrowly, to the seating. The figures do not cross the floor, do not approach the door, and remain seated until the closing order. Movement within the hall is confined to the act of sitting down and the act of rising. |
 | **Material / signature** | Translucent to the degree that the carved backs of the seats remain readable through the occupants. No sound carries past the threshold, and the weight is felt in the chest at the doorway before anything is visible from it. |
 | **Distinctive markers** | The seating. Forty-four carved chairs in nine groups, each group a household, worn unevenly — the front two groups polished smooth, the back three barely marked. The wear matches the order of precedence and is the only physical trace the dusk interval leaves. |
 | **Identification** | Count the occupied seats against the hall plan in the folder. Forty-four seats, the same positions every evening, in the founding families’ order of precedence — a match confirms Moktak and rules out the two other Zone A halls on the register. |
@@ -133,30 +141,29 @@
 
 Moktak is the hall the founding families met in, and the matter they met about was never settled. Nine families, forty-four seats, and a single question of precedence that the minutes record being adjourned eleven times and never once resolved. The building outlived the question. The question did not stop being asked.
 
-What crystallised here is narrow, and the archive is careful about saying so. This is not the city’s general ache given a room; it is one unfinished conversation, held by nine households, about an order of seating that mattered enormously to them and to nobody since. The folder is thin because the grief is small and exact. A proposal to widen it into a civic history of Zone A was refused on precisely that ground.
+What crystallised here is narrow, and the archive is careful about saying so. This is not the city’s general ache given a room. It is one unfinished conversation, held by nine households, about an order of seating that mattered enormously to them and to nobody since. The folder is thin because the grief is small and exact. A proposal to widen it into a civic history of Zone A was refused on precisely that ground.
 
-The hall does not mourn the families. It keeps their meeting open. Every evening the seats fill in the order the plan records, the adjourned question is taken up again, and at the end of the interval it is adjourned again — the twelfth time, and the thirteenth, and so on for as long as the roof holds.
+The hall does not mourn the families. It keeps their meeting open. Every evening the seats fill in the order the plan records, the adjourned question is taken up again. And at the end of the interval it is adjourned again — the twelfth time. And the thirteenth, and so on for as long as the roof holds.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the spirit pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+> **This holding is not worked.** A seated hall of forty-or-so stone figures in their groups, a ring of chairs at dusk light that has not moved through the lattice since the hour began, and one chair…. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the chair count against the hall plan, the family registers of everybody entering, and the precedence order the forty-four will empty in. |
+| **Handling** | The watch counts the chairs against the hall plan before entering, and enters the count again at the close against the same plan. |
+| **Withdrawal** | **The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan** — and a hall emptied by personnel withdrawing early is logged as abandoned. And the chairs it gained are not lost. |
+| **Refusal** | Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been authorised inside the hall; every piece in the set was extracted afterwards, from the emptied room. Attendance is capped at ten intervals. |
 
-The weight is real and measurable and it is also, in the strict sense, none of the worker’s business: it belongs to a dispute they are not party to. Both valid approaches work by being present without joining in. Personnel who try to follow the argument report the sharpest gauge readings of the hour, and the standing instruction is to attend the conversation without attending to it.
+## Containment Event Behavior
 
-## Breach Behavior
+> **Containment event — no breach counter.** The seating expands beyond the room and no travelling body is recorded. The gauge climbs ten points an evening the hall is left unattended.
 
-> *"Moktak has broken free. The weight spirit spreads."*
-
+> *"The seating at Moktak has expanded beyond the room. The chairs along the north wall read as occupied from the corridor, and anybody counted present cannot leave before the adjournment."*
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The hall gains seats. Expansion is measured in chairs rather than in metres — forty-four becomes fifty-one, then sixty-three, the new positions appearing along the corridor outside the doors and filling at the next dusk. |
 | **Effect** | Anyone inside the widened seating is counted present. Personnel so counted report afterwards that they were unable to leave before the adjournment, and the duty log for the single recorded instance shows a four-hour sitting rather than thirty-one minutes. |
 | **First Target** | Nobody. The expansion follows the seating rather than the people: the first measurable change is recorded at the empty chairs along the north wall, which begin to read as occupied from the corridor while the hall itself is still shut. |
@@ -165,7 +172,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 ### Escalation Notes
 
 - **Containment priority:** No physical suppression is documented. Retain the district's non-entry order and count against the plan; the attendance instructions elsewhere require review before they can authorize entry during the dusk interval.
-- **Sorrow Gauge on breach:** Opens at 40% and climbs 10% each evening the hall is left unattended, not each turn — the only clock Moktak keeps is dusk, and an unattended week has been logged at 40, 50, 60, 70, 80, 90 and then flat.
+- **Sorrow Gauge in the event:** Opens at 40% and climbs 10% each evening the hall is left unattended, not each turn — the only clock Moktak keeps is dusk. And an unattended week has been logged at 40, 50, 60, 70, 80, 90 and then flat.
 
 ## M.A.W. Equipment
 
@@ -179,7 +186,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 
 **Damage:** Weight 11–17 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** A struck target is given a turn in a conversation it is not part of. The blow lands as an interruption rather than an impact: the target stops mid-action for the length of one exchange, and anything it was about to do is taken by whatever else is in the room. Against entities with no speech register the mallet does nothing at all, which is most of them.
-**Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
+**Bearer cost:** The wielder answers a turn nobody gave them — in an empty room, a conversation nobody in it started.
 
 ### M.A.W. Suit — Moktak's Veil
 
@@ -191,7 +198,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** The wearer is read by the hall as attending rather than intruding. Seats are not added for a robed worker and the closing order skips them, which is the only known method of sitting a full interval without accruing a place in it. The robe does not reduce Weight damage taken outside the hall.
 
-**Veil bearer cost:** The linked Suit records constant low fatigue, as though the hall's burden rests on the shoulders. Record that cost separately from its local seating-status claim and asymmetric warmth. Wearing it does not itself override the file's non-entry order or establish that equipment use inside the hall has been authorized.
+**Bearer cost:** The hall reads the wearer as attending and never as leaving: they can sit a full interval without accruing a place, and they cannot be dismissed from one. The burden of the hall still rests on the shoulders while it is worn. Record that cost separately from its local seating-status claim and asymmetric warmth. Wearing it does not itself override the file's non-entry order or establish that equipment use inside the hall has been authorized.
 
 ### M.A.W. Stigma — Moktak's Token
 
@@ -201,7 +208,8 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 Resolve while the bearer is seated and nothing at all while they are standing. The marker is the only piece in the Moktak set whose benefit can be measured on a worker outside the hall.
-**Ability:** The bearer is counted. In any room with a fixed seating arrangement they are assigned a place without asking and are never the one left standing; in a room with no arrangement the Stigma does nothing. Nine of the eleven recovered markers carry a number from the front eight groups.
+**Ability:** The bearer is counted. In any room with a fixed seating arrangement they are assigned a place without asking and are never the one left standing. In a room with no arrangement the Stigma does nothing. Nine of the eleven recovered markers carry a number from the front eight groups.
+**Bearer cost:** The bearer is counted wherever the seats are fixed: a place is assigned without asking, and there is no way to give it back.
 *A Token appears on a seat, not on a person. It is found after the hour, on the chair the worker occupied, and the Warden who lifts it records which household’s group the seat belongs to — the back three groups have never produced one.*
 
 **Token bearer cost:** The linked Stigma records an invisible load that grows heavier near unresolved debt. This is a bearer effect, not evidence that the source hall has moved or that a household has acknowledged the wearer. Keep that cost distinct from the marker's local seating benefit and from the still-disputed material provenance.
@@ -224,7 +232,7 @@ Moktak’s pieces are made of the hall: the Edge from a seat-rail, the Veil from
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- The hour is fixed to dusk as observed from the hall’s own west window, not to clock time; across the year the sitting has drifted by two hours and eleven minutes, tracking the sunset exactly.
+- The hour is fixed to dusk as observed from the hall’s own west window, not to clock time. Across the year the sitting has drifted by two hours and eleven minutes, tracking the sunset exactly.
 - Both valid approaches work by staying. Observation reads the seating against the plan; endurance outlasts the adjournment. Neither has ever shortened a sitting, and no approach yet tried has lengthened one.
 - Nothing has ever left the hall under its own power. The only recorded expansion moved the seating outward into the corridor; the occupants of those new chairs were still inside the hall when counted.
 
@@ -273,7 +281,7 @@ The hall has never been worked with another holding standing in it, and the clos
 
 | What the hall keeps | How the pairing has run | What the sector entered | What the record holds |
 |---|---|---|---|
-| **Allhallow** `O-IIIγ-916` | Filed together on the returning dead. That record keeps them for one night and lets them go; this one seats a whole line of ancestors and holds them until the last figure has risen. | The two return windows were compared across 2 quarters and did not overlap once. | That the pair is filed on the shape of the return, with the non-overlap entered beside it as the finding. |
+| **Allhallow** `O-IIIγ-916` | Filed together on the returning dead. That record keeps them for one night and lets them go. This one seats a whole line of ancestors and holds them until the last figure has risen. | The two return windows were compared across 2 quarters and did not overlap once. | That the pair is filed on the shape of the return, with the non-overlap entered beside it as the finding. |
 | **Passing Bell** `N-IIβ-919` | Grouped on the ancestors' own hour. That record ends mid-sentence at the bell; the hall here runs to its closing order, which is a sequence rather than a clock. | No trial. Cross-flagged in the manifestation appendix and left there. | That the pairing rests on a classification line with no measurement under it, entered on each repetition. |
 | **Amnesia** `O-IIβ-914` | Grouped on what the sector's mourning does to a place. That record loses what was known; this one keeps what the living city would rather set down. | One review entry; the seat count and the record's own series diverged from the first mark. | That the divergence stands as the finding, kept unsmoothed in the review's figures. |
 
@@ -308,7 +316,7 @@ The hall neither shouts nor weeps. Spirit and weight sit in it the way tenants s
 
 **Comprehension Level:** 2 — Basic
 
-**Threat Assessment:** Moderate, and the moderation is structural rather than merciful. In four thousand recorded dusk intervals the hall has injured no one who sat still and left when the last figure rose; every logged Composure casualty walked out mid-conversation, and three of the four did so in the corridor rather than the room. The hazard is therefore almost entirely a hazard of attendance policy. The one unresolved risk is the seat count, which rose by one in Year 4,231 and has not risen since — the Directorate has no account of what a second expansion would mean, and the hall offers none.
+**Threat Assessment:** Moderate, and the moderation is structural rather than merciful. In four thousand recorded dusk intervals the hall has injured no one who sat still and left when the last figure rose. Every logged Composure casualty walked out mid-conversation, and three of the four did so in the corridor rather than the room. The hazard is therefore almost entirely a hazard of attendance policy. The one unresolved risk is the seat count, which rose by one in Year 4,231 and has not risen since — the Directorate has no account of what a second expansion would mean, and the hall offers none.
 
 **Containment & Handling Procedures:**
 - Attend the full interval or do not attend. The gauge reads only on completed sittings.
@@ -343,8 +351,8 @@ What crystallized here is one specific grief rather than the city's general ache
 
 ## Trivia
 
-- One of the first catalogued **Place-Spirit** entities in Somnarak.
-- The wing files no other place as a spirit first; a hall that answers the hour in the ancestors' own order has no precedent on the shelf.
+- The hall seats forty-four, and at dusk the seats fill in the order of precedence recorded on the hall plan and empty in the same order.
+- The wing files no other place as a spirit first. A hall that answers the hour in the ancestors' own order has no precedent on the shelf.
 - Standard weight belongs to no one in particular. This one is entered against a name: the hall weighs the hour it is given and returns it to the ancestor it belongs to.
 
 ## Document Information

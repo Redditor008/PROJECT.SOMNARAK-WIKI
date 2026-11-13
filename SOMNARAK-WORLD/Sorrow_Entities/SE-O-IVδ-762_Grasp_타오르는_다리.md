@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A humanoid whose body arches like a burning bridge of crystal, weeping warm tears that fall across the Desolate as it stands. Fever-warm, it smells of cold rain and char; a crossing on fire, shaped like a person. |
+| **Physical Form** | Mixed |
 | **Movement** | Holds position over the gap it occupies; breach records place it at successive Desolate gaps. Those relocations do not establish upright walking or pursuit. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, worked from the near lip of a gap by a team on a rope line. The Desolate station's return notes that the figure is high and that the holding has never been worked by anybody who was not already walking the long way round. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **SE Effect** | **On the breach** — It does not distinguish rescue from impossible return; the form multiplies to every break in the ground across the Scar. |
+| **Work Damage** | 3–6 Lament — the cost is a gauge lowered and the far side of the crossing no nearer |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -38,9 +40,9 @@
 
 ### Operational Notes
 
-- A successful cycle lowers the gauge and quiets the calling; it does not reach anybody on the far side, and the figure reforms over the same gap with the same roll of names.
+- A successful cycle lowers the gauge and quiets the calling. It does not reach anybody on the far side, and the figure reforms over the same gap with the same roll of names.
 - Reply is a recorded breach hazard: an answer given to the voice, or a rescue promised within hearing of it, moves the count at once and the threshold here is one. Track the core stat line’s separate gauge condition as well; the count does not erase it.
-- The 20–28 Han-Energy yield is drawn from a Critical-grade figure that holds a conversation. Budget recovery for personnel who have heard their own names in it; an absence of immediate injury does not remove the danger of a crossing attempt.
+- The 20–28 Han-Energy yield is drawn from a Critical-grade figure that holds a conversation. Budget recovery for personnel who have heard their own names in it. An absence of immediate injury does not remove the danger of a crossing attempt.
 - M.A.W. extraction here strips equipment from a rescuer, and the Crown's recorded cost is the rage of every failed rescue. Authorise it as its own event, with its own briefing, never as a reward attached to a good cycle.
 
 ## Combat Record
@@ -51,10 +53,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Lament. The figure has been tested once, in Year 4,229, and the Full Conflagration entry below is the result; nothing has been struck here since and the standing order is that nothing will be. |
+| **Resistance** | 45% against Lament. The figure has been tested once, in Year 4,229, and the Full Conflagration entry below is the result. Nothing has been struck here since and the standing order is that nothing will be. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Lament |
+| **Han Pressure [ATK]** | 30–65 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -77,27 +79,27 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Flame* [**Debuff**] } | "The bridge catches fire — at the far end — and the flames are heading toward you, and there is water below." | [The Bridge's fire traps the target between flame and depth.] | *Target suffers -10 Composure; the crossing is being destroyed.* **[10 Lament DMG [Lament]]** | When the target is mid-bridge. |
+| { *The First Flame* [**Debuff**] } | "The bridge catches fire — at the far end — and the flames are heading toward you. And there is water below." | [The Bridge's fire traps the target between flame and depth.] | *Target suffers -10 Composure; the crossing is being destroyed.* **[10 Lament DMG [Lament]]** | When the target is mid-bridge. |
 | { *The Spreading Blaze* [**Debuff**] } | "The fire runs the span — plank to plank — and the bridge you are standing on is getting shorter." | [The Bridge's fire consumes the path; the target's footing shrinks.] | *Target loses 10 Composure; the safe ground is disappearing.* **[10 Lament DMG [Lament]]** | When the fire approaches. |
 | { *The Falling Plank* [**Attack**] } | "A burning plank drops away — and the gap it leaves is full of fire and falling." | [ A burning section collapses under the target.] | *Inflicts Lament pressure and one searing, plunging wound.* **[14-22 Lament DMG [Lament]]** | When the Bridge is overloaded. |
 | { *The Full Conflagration* [**Attack**] } | "The whole span of it goes up at once and the gap is bridged in fire for about four seconds." | [The figure's arch completes and becomes, briefly, a crossing.] | *24–36 Lament and a 15% Gauge surge to whoever struck it; the burning span holds weight for the duration, which is the hazard.* **[24-36 Lament DMG [Lament]]** | When it is struck. Once, in Year 4,229, and two of the party started across. |
-| { *The Burning Crossing* [**Ultimate**] } | "Every gap within sight has a figure standing at the near lip of it, reaching." | [The form multiplies to every break in the ground across the Scar.] | *12–20 Lament per cycle for three cycles to anyone in the open.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, twice, and on both occasions every figure was facing the same direction: across. |
+| { *The Burning Crossing* [**Ultimate**] } | "Every gap within sight has a figure standing at the near lip of it, reaching." | [The form multiplies to every break in the ground across the Scar.] | *12–20 Lament per cycle for three cycles to anyone in the open.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, twice. And on both occasions every figure was facing the same direction: across. |
 
 ### Battle Phases
 
 1. **Tension:** The team confirms which side of the gap it is working from, fixes the marked detour, and sets the no-crossing line before the figure is in view. Nobody approaches with an open rescue commitment outstanding elsewhere in the district.
 2. **Clash:** Work proceeds across the gap and never over it. The figure calls; the team works through Flerehan and Ferrehan, logs every name the voice uses, and treats each answer given as a gauge event to be recorded rather than as a lapse of discipline to be corrected.
-3. **Resolution:** The roll is read and the sentence is said. It is a short cycle and an unpleasant one; the station's own wording is that the work consists of standing in front of someone who is still trying and telling them it is over, once an hour, for as long as the watch lasts.
+3. **Resolution:** The roll is read and the sentence is said. It is a short cycle and an unpleasant one. The station's own wording is that the work consists of standing in front of someone who is still trying and telling them it is over, once an hour, for as long as the watch lasts.
 
 ### Consequences
 
 - The failure here is a plan. Not panic and not collapse — a worked-out, sequenced, resourced plan to get across, produced by a competent person who has been in earshot too long.
-- The longer the exposure, the deeper the wound, and the wound presents as competence. Those who stay in earshot stop hearing a stranger's voice and begin hearing one that knows them; judgement goes first, so the worker does not panic but instead produces a plan to cross, and the plan is coherent.
+- The longer the exposure, the deeper the wound, and the wound presents as competence. Those who stay in earshot stop hearing a stranger's voice and begin hearing one that knows them. Judgement goes first, so the worker does not panic but instead produces a plan to cross, and the plan is coherent.
 - The M.A.W. is never costless. The Requiem weeps through its wielder, the Shroud takes the small pleasures, and the Crown hands over a rage belonging to a rescue the wearer never attended. All three costs are codified in the equipment file and all three are charged on every use.
 - Failure to reach the resolution condition ends the cycle with the figure unsoftened and the calling louder. Recorded breaches relocate it to another Desolate gap, not a facility corridor; the prohibition on crossing remains even when a span can bear weight.
 
 ## Appearance
-**Primary Form:** A humanoid bridge of burning crystal, weeping warm tears across the Desolate.
+**Primary Form:** An arch of burning crystal in the shape of two people reaching for one another across a gap, the gap about a metre, the meeting never made. The crystal is red and running hot at the surface — fever-warm to within a hand's width and too hot at the arch itself. It weeps. The tears come off the underside of the arch, stay warm where they land, and do not evaporate; the ground under it is wet in a dry part of the Desolate. It stands at gaps that are no longer there, and four of the eleven recorded positions are over ground that has since been filled in.
 
 **Notable Features:** Its tears burn without damaging, its body floats over empty ground, and it carries the rage of failed rescue.
 
@@ -106,7 +108,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A humanoid bridge of burning crystal, weeping warm tears across the Desolate.
-- **Position / movement:** Holds position above a gap in the Desolate terrain, arch surveyed and unmoved; it floats over ground that has no support beneath it.
+- **Position / movement:** Holds position above a gap in the Desolate terrain, arch surveyed and unmoved. It floats over ground that has no support beneath it.
 - **Element signature:** Lament
 - **Registered location:** The Desolate, near The Scar
 
@@ -115,28 +117,28 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid bridge of burning crystal, weeping warm tears across the Desolate. |
-| **Position / movement** | Holds position above a gap in the Desolate terrain, arch surveyed and unmoved; it floats over ground that has no support beneath it. |
+| **Position / movement** | Holds position above a gap in the Desolate terrain, arch surveyed and unmoved. It floats over ground that has no support beneath it. |
 | **Material / signature** | A person-shaped arch of burning crystal, fever-warm, weeping tears that stay warm on the ground and do not evaporate. Record the gap width, the figure's reach across it, and the difference between the two. |
 | **Distinctive markers** | It stands at gaps that are no longer there. Four of the eleven recorded positions are over ground that has been filled, levelled and walked on for years, and it arches over them as though the drop were still open. |
-| **Identification** | Cross-check the arch, the gap beneath it and the Lament signature against the designation before contact; a burning Fragment and a burning Sovereign look alike at distance in blown dust. |
+| **Identification** | Cross-check the arch, the gap beneath it and the Lament signature against the designation before contact. A burning Fragment and a burning Sovereign look alike at distance in blown dust. |
 
-**Appearance protocol:** Record the span before the figure — the width of the gap it stands over, the surveyed position of the arch, and the distance at which the heat is first felt. Then record the two things this holding needs that the standard fields do not ask for. The first is the roster of personnel who heard their own name, pronounced correctly, in a voice they do not know; that is a finding about an encounter rather than a staffing note, and it travels to the counselor with the log. The second is whether the arch has moved, because it has not, and on the day it does the entire approach plan around the gap is void. Describe the fire in measurements — colour, height, whether the tears leave the body as liquid or as light, whether the crystal is translucent at the crown. The figure is not 'eerie' and not 'unsettling'. It is a person-shaped crossing that is on fire, suspended over a drop, and it is addressing you by name.
+**Appearance protocol:** Record the span before the figure — the width of the gap it stands over, the surveyed position of the arch, and the distance at which the heat is first felt. Then record the two things this holding needs that the standard fields do not ask for. The first is the roster of personnel who heard their own name, pronounced correctly, in a voice they do not know. That is a finding about an encounter rather than a staffing note, and it travels to the counselor with the log. The second is whether the arch has moved, because it has not, and on the day it does the entire approach plan around the gap is void. Describe the fire in measurements — colour, height, whether the tears leave the body as liquid or as light, whether the crystal is translucent at the crown. The figure is not 'eerie' and not 'unsettling'. It is a person-shaped crossing that is on fire, suspended over a drop, and it is addressing you by name.
 
 ## Origin
 - **Formation:** The Bridge formed from a crossing destroyed while people were still on it.
 - **The Sorrow:** The grief of trying to rescue people who could no longer be reached.
 - **The Event:** A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure.
-- **The People:** The caravan that was mid-crossing when the Han-storm took the bridge, listed in full in the Apex Record from the departure post's own roll, and the one rescuer who stood on the near side and kept calling after there was nothing left to call across. The record does not name the rescuer. The relief office's review, held in this file, found that the response was prompt, correctly organised, and could not have arrived in the time available.
+- **The People:** The caravan that was mid-crossing when the Han-storm took the bridge, listed in full in the Apex Record from the departure post's own roll. And the one rescuer who stood on the near side and kept calling after there was nothing left to call across. The record does not name the rescuer. The relief office's review, held in this file, found that the response was prompt, correctly organised, and could not have arrived in the time available.
 - **Expanded origin context:** The departure post's roll survives and the Apex Record carries it in full: thirty-one names, of whom twenty-seven were claimed afterward by somebody. The four unclaimed names are read with the rest, every watch, on the instruction of the Archive Lead, whose note says that a roll read short is a roll that has agreed with the storm about who counted. The rescuer is not on the roll. They were on the near side, and the record does not say what became of them either.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Warm tears soften the figure. | Decrease |
-| **Pugnahan** | Fire rises and the Bridge lashes outward. | Increase |
-| **Viderehan** | Reveals the failed rescue and its victims. | Stable |
-| **Ferrehan** | Tests whether the worker can remain near impossible rescue. | Decrease |
+| **Flerehan** | Warm tears soften the figure. | Decrease · High |
+| **Pugnahan** | Fire rises and the Bridge lashes outward. | Increase · Low |
+| **Viderehan** | Reveals the failed rescue and its victims. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain near impossible rescue. | Decrease · Common |
 
 
 
@@ -144,25 +146,24 @@
 
 The table's useful row is Flerehan, which is unusual on a δ-grade holding and which works: weeping with it softens the figure measurably, by three to nine gauge points, inside a minute. The table cannot hold the variable that matters, which is time in earshot. Under forty minutes, nothing; past it, the voice stops sounding like a stranger's and the plans start, and the station's whole roster is built on the forty.
 
-**Reading the response:** Read it in the calling. A decrease sounds like the voice losing its addressee — fewer names, longer gaps, the tone shifting from summons to weeping; the figure is being accompanied rather than answered, which is what Flerehan and Ferrehan are for. An increase sounds like success: the voice becomes specific, urgent and encouraging, as though the crossing were nearly complete. That is what the work having fed it sounds like, and it is pleasant to hear. Record the worker's condition separately from the gauge, because the two diverge here more than the standard form allows — a cycle that ends with the gauge down and the worker quietly convinced that the far side is reachable is a failed cycle and must be written up as one. If the figure says anything this file does not contain, and in particular anything that is true about the person it is speaking to, that is the most important line of the day.
+**Reading the response:** Read it in the calling. A decrease sounds like the voice losing its addressee — fewer names, longer gaps, the tone shifting from summons to weeping. The figure is being accompanied rather than answered, which is what Flerehan and Ferrehan are for. An increase sounds like success: the voice becomes specific, urgent and encouraging, as though the crossing were nearly complete. That is what the work having fed it sounds like, and it is pleasant to hear. Record the worker's condition separately from the gauge, because the two diverge here more than the standard form allows — a cycle that ends with the gauge down and the worker quietly convinced that the far side is reachable is a failed cycle and must be written up as one. If the figure says anything this file does not contain, and in particular anything that is true about the person it is speaking to, that is the most important line of the day.
 ## Breach Behavior
 
-> *"Grasp has broken free. Collapses under anyone who crosses."*
-
+> *"Grasp has broken free and the span is open. Across eleven incidents it has gone to the most experienced person present; the voice is the hazard, so the long-service wardens stay off the crossing."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | Grasp is recorded relocating to another gap in the Desolate, including former gaps since filled in. No recorded position is inside a structure; do not turn those relocations into a facility pursuit route. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
+| **Effect** | The near side hears the caravan and the far side of the bridge is still there to be seen. Workers stay in earshot long after there is anything to hear. |
+| **Secondary Effect** | The voice calls across the gap and the near side answers. It is not the grief that costs the worker. It is that answering is possible, at the top of the throat, for as long as they are in earshot. |
 | **First Target** | Whoever has the longest service. Across eleven incidents the voice has gone to the most experienced person present every time, which the station treats as the single most dangerous fact in this file. |
 | **Escalation** | +5 Composure drain per cycle while a worker remains in earshot. It does not approach, pursue or reach for anybody on the near side; the drain is the cost of staying to listen. |
 
 ### Escalation Notes
 
 - **Breach type:** It relocates to another gap. Eleven positions in nine years, all of them breaks in the ground or places where a break used to be, none of them inside a structure and none within two kilometres of the facility.
-- **Containment priority:** Clear the gap first and the personnel second. No suppression line is ever formed across the span; block the approaches at both ends of the detour, confirm the count of who is on which side before Wardens move, and drive it back with Pugnahan only once nobody is standing anywhere that would make a crossing look sensible.
-- **Sorrow Gauge on breach:** Begins at 40% and is driven by reply rather than by elapsed time. Each answer given to the voice — a name returned, a shout across the gap, a rescue stated as a commitment within hearing of it — adds 10%, and the figure draws no distinction between a promise meant sincerely and one shouted to steady a colleague. Each 10% comes off when the responding team states aloud, on the open channel, the number of people it cannot reach and does not intend to attempt. Silence holds the reading steady; it does not lower it. A large and well-resourced rescue response therefore raises this gauge faster than the entity manages on its own, which is why the suppression condition is addressed to the responders and not to the subject.
+- **Containment priority:** Clear the gap first and the personnel second. No suppression line is ever formed across the span. Block the approaches at both ends of the detour, confirm the count of who is on which side before Wardens move. And drive it back with Pugnahan only once nobody is standing anywhere that would make a crossing look sensible.
+- **Sorrow Gauge on breach:** Begins at 40% and is driven by reply rather than by elapsed time. Each answer given to the voice — a name returned, a shout across the gap, a rescue stated as a commitment within hearing of it — adds 10%. And the figure draws no distinction between a promise meant sincerely and one shouted to steady a colleague. Each 10% comes off when the responding team states aloud, on the open channel, the number of people it cannot reach and does not intend to attempt. Silence holds the reading steady; it does not lower it. A large and well-resourced rescue response therefore raises this gauge faster than the entity manages on its own, which is why the suppression condition is addressed to the responders and not to the subject.
 
 ## M.A.W. Equipment
 
@@ -182,12 +183,12 @@ The table's useful row is Flerehan, which is unusual on a δ-grade holding and w
 
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; the thrust runs out along the span and takes up to 3 targets standing in file
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%; the reach shortens with every body it passes through, as the crossing did.
+**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%. The reach shortens with every body it passes through, as the crossing did.
 **Damage Application:** Resolve the direct hit first, then apply the multiplier to any Tick damage as a separate calculation. The two are never folded into one roll.
 
 **Ability:** Deals Lament damage against the Mind — composure, willpower, and the capacity to decline. The Requiem carries the calling into the strike, and targets cut by it report being briefly addressed.
 
-**Cost:** The wielder inherits the unanswered call. Prolonged use produces involuntary weeping, and operators begin finishing sentences that were spoken to somebody else.
+**Bearer cost:** The wielder inherits the unanswered call. Prolonged use produces involuntary weeping, and operators begin finishing sentences that were spoken to somebody else.
 
 ### M.A.W. Suit — Grasp Shroud
 
@@ -205,7 +206,7 @@ The table's useful row is Flerehan, which is unusual on a δ-grade holding and w
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against the particular weight of a rescue that cannot be completed. The Shroud is rated against the heat as well as the grief; both are listed and neither is removed by the other.
 
-**Cost:** The wearer stops being asked for help. Colleagues cannot say why and the wearer does not notice; the Armoury found it by comparing duty rosters and seeing that two wielders' names had quietly dropped off every informal list in their wing.
+**Bearer cost:** The wearer stops being asked for help. Colleagues cannot say why and the wearer does not notice. The Armoury found it by comparing duty rosters and seeing that two wielders' names had quietly dropped off every informal list in their wing.
 
 ### M.A.W. Stigma — Grasp Crown
 
@@ -219,13 +220,13 @@ The table's useful row is Flerehan, which is unusual on a δ-grade holding and w
 
 **Ability:** Heals minor wounds through warm sorrow.
 
-**Cost:** The wearer feels the rage of every failed rescue.
+**Bearer cost:** The wearer feels the rage of every failed rescue.
 
 *The Crown is given, never made. It is granted during a successful cycle, at the source's discretion, and no procedure or stated probability obliges it to appear.*
 
 ### M.A.W. Use Notes
 
-Each piece binds through the named source event and its limit: do not promise rescue; acknowledge the limits of one person. The Weapon charges unwept grief and involuntary weeping, the Suit source records numb minor joys, and the Crown charges the rage of failed rescue for its minor-wound healing. Continued use can make the source event feel autobiographical; first-person claims, repeated source responses outside contact and the bearer becoming a new site are corrosion signs, not rescue permissions. The local record also follows operators toward sounds — down corridors, out of buildings, across open ground — with coherent reasons afterward. Three wielders in nine years were recovered somewhere they had no business being; none had run, and all three were walking at an ordinary pace when found. The set cannot heal the originating event.
+Each piece binds through the named source event and its limit: do not promise rescue; acknowledge the limits of one person. The Weapon charges the unanswered call — the wielder's voice carried across a gap that returns only the not-answering — the Suit stands the wearer in that gap so everything arrives at one remove. And the Crown spends the bearer's voice for every wound it warms. Continued use can make the source event arrive as the bearer's own. First-person claims, repeated source responses outside contact and the bearer becoming a new site are corrosion signs, not rescue permissions. The local record also follows operators toward sounds — down corridors, out of buildings, across open ground — with coherent reasons afterward. Three wielders in nine years were recovered somewhere they had no business being. None had run, and all three were walking at an ordinary pace when found. The set cannot heal the originating event.
 
 ### Field Use Record
 
@@ -316,8 +317,8 @@ Grasp must be read as one node in a group of crossings rather than as a solitary
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Sunken Bridge** | The same grief from the other side; a crossing that went down with people on it. | Four sessions. Both figures leaned further out and neither reached anything; the resonance is audible at distance and the station has twice had to explain to caravans that the sound is not a person. No change in reach on either side. | Reach and gap for both, and the audible range of the resonance. |
-| **The Scar Walker** | Holds the ground around whatever it is near, this holding included. | Three sessions. The Walker's boundary kept two caravans off the near lip without being asked to, which is the only occasion anything in the Desolate has protected people from this holding. The station records it and does not rely on it. | Who was kept out, by which party, and whether the Walker was present by arrangement. |
+| **The Sunken Bridge** | The same grief from the other side; a crossing that went down with people on it. | Four sessions. Both figures leaned further out and neither reached anything. The resonance is audible at distance and the station has twice had to explain to caravans that the sound is not a person. No change in reach on either side. | Reach and gap for both, and the audible range of the resonance. |
+| [**The Scar Walker**](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md) | Holds the ground around whatever it is near, this holding included. | Three sessions. The Walker's boundary kept two caravans off the near lip without being asked to, which is the only occasion anything in the Desolate has protected people from this holding. The station records it and does not rely on it. | Who was kept out, by which party, and whether the Walker was present by arrangement. |
 | **The Flowing Bridge** | Carries the same anger at an impossible rescue and is the holding this one is most often confused with on a dispatch sheet. | Two sessions at distance. No measurable change to either. Retained in the table as a naming hazard: the Flowing Bridge may be crossed and this one may not. | Designations confirmed in writing before approach. |
 
 **Interaction procedure:** One direction at a time, both baselines first, approach by the short side, everybody on the line. The extra field is the name record — who was addressed, by which presence, and whether the name was right — because with two calling voices in the open it is the only way to tell which of them is driving the exchange.
@@ -330,7 +331,7 @@ The bridge was a crossing. The Han-storm consumed it — the surge taking the st
 
 The calls were unanswered. Not because the people did not hear — because the people could not come. The bridge was consumed. The crossing was gone. The people on the far side were being taken by the storm, and the rescuer, calling across the gap, could not reach them, and the calls, directed at people who could not be reached, kindled. The desperation, the futility, the unbearable sorrow of calling to the un-reachable — the calls combusted.
 
-Grasp is Subject-Lament: the figure of a crossing destroyed while the rescuer was still trying to save — the calls that kindled into flame, the reaching that became fire, the specific grief of trying to rescue people who could no longer be reached. The Bridge burns with the rescuer's unanswered calls — the flame is the desperation, the heat is the futility, the fire is the sorrow of someone who screamed across a gap that the storm had made uncrossable and who watched, screaming, while the people on the other side were consumed.
+Grasp is Subject-Lament: the figure of a crossing destroyed while the rescuer was still trying to save — the calls that kindled into flame, the reaching that became fire, the specific grief of trying to rescue people who could no longer be reached. The Bridge burns with the rescuer's unanswered calls — the flame is the desperation, the heat is the futility, the fire is the sorrow of someone who screamed across a gap that the storm had made uncrossable and who watched, screaming. While the people on the other side were consumed.
 
 Those who come near the Grasp feel the specific agony of the failed rescue — the grief of calling to people who cannot come, of reaching across a gap that cannot be crossed, of watching the un-reachable die while your voice, kindled by the futility, burns.
 
@@ -355,21 +356,21 @@ Some sorrows mourn the dead. Grasp mourns the reaching — the calls across the 
 **Threat Assessment:** Critical (δ). Nine years, 140 watches, one span event, three M.A.W. incidents, nineteen crossing proposals, no fatalities — and the station's own view that the figure has never hurt anybody and has very nearly killed four.
 **Containment & Handling Procedures:**
 - Flerehan softens it, Ferrehan outlasts it, Pugnahan sets the span alight. Forty minutes in earshot is the limit.
-- Standard R.D. containment protocols apply.
+- No promise of rescue is made across the span, by anybody, in any wording. The acknowledgement of one person's limits is the whole condition, and it is a thing the watch settles before it takes the span.
 - It relocates to another gap; eleven positions in nine years, four of them over ground that has been filled in.
 **Observation Notes:**
 - Thirty-one names on the departure roll, twenty-seven claimed, four read anyway every watch.
-- See Combat Record for engagement history.
+- The engagement history is the near side: five Composure a cycle for every worker still within earshot. It has never approached, pursued or reached for anybody, and the drain is the cost of staying to listen.
 - Three pieces; wielders walk toward sounds nobody else hears and give good reasons afterward.
-**Cross-References:** The Sunken Bridge, The Scar Walker (kept two caravans off the lip), The Flowing Bridge (naming hazard — that one may be crossed), the Apex Record roll, and the three refused relaxation proposals.
-**Faction Involvement:** Judexhan hold the δ-grade order and have attended eleven watches. SED route the caravans around it and have authored two of the three relaxation proposals; both were refused and both authors were, on the record, correct about the ground.
-**Originator:** See Origin section — ‘The People’ field.
+**Cross-References:** The Sunken Bridge, [The Scar Walker](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md) (kept two caravans off the lip), The Flowing Bridge (naming hazard — that one may be crossed), the Apex Record roll, and the three refused relaxation proposals.
+**Faction Involvement:** Judexhan hold the δ-grade order and have attended eleven watches. SED route the caravans around it and have authored two of the three relaxation proposals. Both were refused and both authors were, on the record, correct about the ground.
+**Originator:** The caravan that was mid-crossing when the storm took the bridge, listed in full on the departure post's own roll, and the one rescuer who kept calling from the near side after there was nothing left to call across. The rescuer is not named.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this file whole and act on the whole of it, because the part that fails at this holding is not usually the containment procedure. The gap is real, the surface will bear weight, the detour is long, and the prohibition on crossing has been proposed for relaxation three times on technically sound grounds and refused three times. That refusal is the containment measure. It has to be renewed by people who did not witness the event, against a cost paid daily by everyone who walks the long way, and it is therefore the element of this holding most likely to be revised by somebody acting entirely reasonably. Where observation contradicts the file, the file is wrong: record the discrepancy, report it, and let the record grow rather than tidying it away — and route any proposal to shorten the route as an escalation item rather than as a works matter.
+**Operational interpretation:** Read this file whole and act on the whole of it, because the part that fails at this holding is not usually the containment procedure. The gap is real, the surface will bear weight, the detour is long, and the prohibition on crossing has been proposed for relaxation three times on technically sound grounds and refused three times. That refusal is the containment measure. It has to be renewed by people who did not witness the event, against a cost paid daily by everyone who walks the long way, and it is therefore the element of this holding most likely to be revised by somebody acting entirely reasonably. A discrepancy is recorded and reported, and any proposal to shorten the route goes as an escalation item rather than a works matter — this is the element most likely to be revised by somebody acting reasonably.
 
-**Review requirement:** After any breach, Sorrow Tide, Ordeal, crossing attempt, or exchange in which the voice was answered, confirm the gauge reading, the Fracture risk, the surveyed position of the arch, and the integrity of the barriers at both ends of the detour before the next cycle is authorised. The name roster from the encounter is reviewed with the counselor and not with the line supervisor. No part of this review is a disciplinary process: personnel who answered are reporting a property of the entity, and a review that makes them reluctant to say so has destroyed the only instrument this holding owns.
+**Review requirement:** After any breach, Sorrow Tide, Ordeal, crossing attempt, or exchange in which the voice was answered, confirm the gauge reading, the Fracture risk, the surveyed position of the arch. And the integrity of the barriers at both ends of the detour before the next cycle is authorised. The name roster from the encounter is reviewed with the counselor and not with the line supervisor. No part of this review is a disciplinary process: personnel who answered are reporting a property of the entity, and a review that makes them reluctant to say so has destroyed the only instrument this holding owns.
 ## Apex Record
 
 ### Tears That Burn Without Harm
@@ -378,7 +379,7 @@ The fluid it sheds is hot enough to be felt at a distance and does nothing to an
 
 ### Floating Over Nothing
 
-The figure holds position above ground that has no support beneath it, spanning a gap in the Desolate terrain the way the destroyed crossing did. Its position is surveyed and has not changed. The survey matters because the gap is real and the figure is the only thing over it, and the holding's approach plan is built on the understanding that the bridge-shape is not a bridge: the marked path goes around, the detour is substantial, and the one shortcut that exists is the obvious one and is prohibited in the strongest terms the document uses.
+The figure holds position above ground that has no support beneath it, spanning a gap in the Desolate terrain the way the destroyed crossing did. Its position is surveyed and has not changed. The survey matters because the gap is real and the figure is the only thing over it. And the holding's approach plan is built on the understanding that the bridge-shape is not a bridge: the marked path goes around, the detour is substantial. And the one shortcut that exists is the obvious one and is prohibited in the strongest terms the document uses.
 
 ### Calling Across
 
@@ -394,7 +395,7 @@ The rage the entity carries is directed at an outcome rather than at any person,
 
 ### Crossing Prohibition
 
-Nothing crosses. The surface would bear weight — this has been tested with mass rather than with people and the result is in the file — and the prohibition rests instead on what the entity does when a crossing is attempted, which is recorded once, early, and has not been tested again. The account is two pages. It is issued to everyone posted to the district and is the only document in the holding that personnel are required to sign as having read.
+Nothing crosses. The surface would bear weight — this has been tested with mass rather than with people and the result is in the file — and the prohibition rests instead on what the entity does when a crossing is attempted, which is recorded once, early. And has not been tested again. The account is two pages. It is issued to everyone posted to the district and is the only document in the holding that personnel are required to sign as having read.
 
 ### The Detour
 
@@ -402,7 +403,7 @@ The marked path around the gap adds considerably to every traverse and has been 
 
 ### The Signed Account
 
-The two-page record of the one crossing attempt is signed by every person posted to the district, and the signature sheet now runs to many pages of its own. Nobody is asked to sign at the time of their briefing; the sheet is left in the post room and people sign it when they have read the account, which is sometimes days later. One person has declined to sign. Their reason was that they had not finished reading it and did not intend to, and the wing recorded the refusal and posted them to the district anyway, the requirement being to read it rather than to be able to.
+The two-page record of the one crossing attempt is signed by every person posted to the district, and the signature sheet now runs to many pages of its own. Nobody is asked to sign at the time of their briefing. The sheet is left in the post room and people sign it when they have read the account, which is sometimes days later. One person has declined to sign. Their reason was that they had not finished reading it and did not intend to, and the wing recorded the refusal and posted them to the district anyway, the requirement being to read it rather than to be able to.
 
 ## Trivia
 

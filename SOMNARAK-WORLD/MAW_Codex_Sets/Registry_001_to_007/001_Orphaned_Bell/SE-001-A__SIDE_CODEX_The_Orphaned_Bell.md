@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-001 [LO]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — anchored Object-Lament, SECTOR-B-01
 
@@ -68,8 +68,8 @@ The bell cannot be “moved to safety.” The tower is part of the entity. Any p
 
 | Work Type | Response | Gauge Result | Field Use |
 |---|---|---|---|
-| **Flerehan** | Not accepted as direct work; singing or mourning nearby may soften a toll but does not change the Object/Place rule. | N/A / contextual | Use only as supporting memorial response. |
-| **Pugnahan** | Interpreted as another attempt to silence the missing. | Increase | Prohibited. |
+| **Flerehan** | Read as a claim rather than an offer; singing or mourning nearby may soften a toll but does not change the Object/Place rule. | Negative-Low | Use only as supporting memorial response. |
+| **Pugnahan** | Interpreted as another attempt to silence the missing, and answered by the tolling coming down on the worker. | Negative-Low | Prohibited. |
 | **Viderehan** | Bell falls silent long enough for names/faces to be observed. | Stable | Primary research method. |
 | **Ferrehan** | Continuous toll tests whether personnel can remain present without abandoning the names. | Decrease | Primary containment method. |
 
@@ -86,7 +86,7 @@ The bell cannot be “moved to safety.” The tower is part of the entity. Any p
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The First Dawn Stiletto | δ | Lament | Piercing sound-blade for marked grief targets | `SE-001-B__MAW-W_The_Laments_Requiem.md` |
+| **Weapon** | The First Dawn Stiletto | δ | Lament | Piercing sound-blade for marked grief targets | `SE-001-B__MAW-W_The_First_Dawn_Stiletto.md` |
 | **Suit** | The Lament’s Shroud | δ | Lament | Protection against prolonged toll pressure | `SE-001-C__MAW-S_The_Laments_Shroud.md` |
 | **Stigma** | Lament’s Edge | δ | Lament | Carries a fragment of the bell’s remembrance | `SE-001-D__MAW-G_Laments_Edge.md` |
 
@@ -171,14 +171,6 @@ The Bell becomes most dangerous when personnel treat memory as a secondary conce
 
 ---
 
-**Document ID:** `SE-001-A`  
-**Related Entity:** `SE-001`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
-
-## LINKED-ITEM CATEGORY HOLD — 2026-10-10
+## Linked-Item Category
 
 The Side dossier keeps the set-level name **Lament’s Requiem Set**; its `SE-001-B` weapon piece is cross-referenced to the First Dawn Stiletto by the linked item record and master registry. That Item Identity table still calls its category `MELEE (Resonating Greatsword)`, while the item heading and eight-inch needle-point appearance, the primary’s SHORT BLADE category, and archetype `MAW-W-001` identify a stiletto. No separate greatsword form is documented. The category discrepancy remains held; this Side card does not select or invent another form.

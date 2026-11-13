@@ -8,12 +8,12 @@
 |---|---|
 | **Designation** | `O-IIIβ-944 [LS]` |
 | **Entity Type** | **Subject** — Can breach |
-| **Coherence** | Fragment (III) — Wanders the wood, calling a name that was used to lure her there |
+| **Coherence** | Fragment (III) — Wanders the wood, calling a name |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한 — Oehan) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Tale |
-| **Physical Form** | Mixed — The small body of a child, no taller than a wheat-sheaf, with the too-still, stark look of a figure from an old woodcut: barefoot, in a tattered scavenger's dress faded to grey. From the crown of her head grows a single bloom the size of a fist, pale petals ringed around one wet, watching eye that blinks out of sync with her own. Pale roots trail behind her, faint and never quite touching the earth. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — she wanders without rest, drawn toward any voice, always deeper into the wood or back toward its edge, never arriving. |
 | **Location** | The Muttering Wood, beyond SECTOR-E-02 (Uncontained / Managed) |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
 | **Activation threshold** | Sorrow Gauge ≥ 70%, or when a target calls back to the mimicked voice |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |
@@ -38,7 +39,7 @@
 
 ### Operational Notes
 
-- A completed cycle lowers the pressure in the room; it does not settle what she is asking for, and the file does not pretend otherwise.
+- A completed cycle lowers the pressure in the room. It does not settle what she is asking for, and the file does not pretend otherwise.
 - A raised Gauge, refused work, or an unanswered call each lead to the recorded breach, and the record names which of the three was responsible in every case.
 - Yield is traded against exposure here: the crews that draw the most Han-Energy spend longest in recovery, and the roster is built to keep those two figures apart.
 - Extraction is its own incident with its own paperwork; it is never entered as a reward for ordinary work.
@@ -64,7 +65,7 @@
 |---|---|
 | **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Wanders the wood, calling a name that was used to lure her there |
+| **Coherence** | Fragment (III) — Wanders the wood, calling a name |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
@@ -74,32 +75,32 @@
 
 ### Combat Actions
 
-> **Reading her combat:** Calling Bloom does not strike; she calls you in, the way the old wood lures — every move draws a willing listener one further step over the threshold. The field rule is the rule of every dark wood: the danger is never the monster waiting in the clearing, it is the door that opens the moment you answer. Her gauge falls when the child is called by her own true name; it surges when anyone answers the false voice or reaches for the bloom.
+> **Reading her combat:** Calling Bloom does not strike. She calls you in, the way the old wood lures — every move draws a willing listener one further step over the threshold. The field rule is the rule of every dark wood: the danger is never the monster waiting in the clearing, it is the door that opens the moment you answer. Her gauge falls when the child is called by her own true name. It surges when anyone answers the false voice or reaches for the bloom.
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *A Familiar Voice* [**Debuff**] } | "Somewhere among the trees, a voice you love calls your name — clear, close, and a little afraid." | [The bloom shapes a loved one's voice out of the leaves, the way the wolf shaped a grandmother's voice at the door.] | *The target hears a voice that cannot be there; composure frays as longing and dread arrive together.* **[8 Lament DMG [Lament]]** | When the target first enters the wood. |
+| { *A Familiar Voice* [**Debuff**] } | "Somewhere among the trees, a voice you love calls your name — clear, close. And a little afraid." | [The bloom shapes a loved one's voice out of the leaves, the way the wolf shaped a grandmother's voice at the door.] | *The target hears a voice that cannot be there; composure frays as longing and dread arrive together.* **[8 Lament DMG [Lament]]** | When the target first enters the wood. |
 | { *The Eye That Watches* [**Debuff**] } | "The bloom turns. Its single eye opens and finds you — and you feel, horribly, that it has always known your name." | [The eye fixes on the target and reads the shape of the one they miss most, the way an old wood knows which name to steal.] | *The target is seen to the core; the bloom learns the exact voice it will use next.* **[10 Lament DMG [Lament]]** | When the target lingers or looks at the bloom. |
 | { *The Wandering Feet* [**Attack**] } | "Your boots begin to move on their own — toward the voice, of course. Toward the voice is always the way the feet go." | [The target's feet carry them inward; the wood rearranges so every step leads deeper, as the path in the old tales leads always deeper.] | *The target is drawn toward the bloom; composure drains with each involuntary step toward the clearing.* **[14-22 Lament DMG [Lament]]** | When the target tries to leave. |
-| { *Deeper and Deeper* [**Attack (heavy)**] } | "The trees lean in. The path is gone. You are very deep, and the voice is very close, and the light is going." | [The wood folds around the target, isolating them; the mimicked voice is now beside them, as the wolf is beside the child before the child knows.] | *The target loses their bearings entirely; the bloom's gauge surges as it nears its meal — three steps too far, and no steps back.* **[24-36 Lament DMG [Lament]]** | When the target answers the voice. |
+| { *Deeper and Deeper* [**Attack (heavy)**] } | "The trees lean in. The path is gone. You are very deep, and the voice is very close. And the light is going." | [The wood folds around the target, isolating them; the mimicked voice is now beside them, as the wolf is beside the child before the child knows.] | *The target loses their bearings entirely; the bloom's gauge surges as it nears its meal — three steps too far, and no steps back.* **[24-36 Lament DMG [Lament]]** | When the target answers the voice. |
 | { *One With the Bloom* [**Ultimate**] } | "She holds out the flower, eye up, petals wide — 'Touch it,' the voice says, in the exact warm tone of the one you lost. 'It's me. I'm right here.'" | [The bloom offers itself; to touch it is to be read in fully and folded into the flower, root and all — the curse at the heart of the wood.] | *All in range are gripped by the compulsion to reach the bloom for three turns — and to touch it is to vanish, as she did.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
 1. **Tension:** Personnel confirm the Lament signature and the mimic-voice before entering the wood. The single most important preparation is the old precaution, spoken aloud by each operative: name, in advance, the voice the bloom will use on you — so that when it speaks, you already know it is not real.
-2. **Clash:** The team performs Work Types — primarily Flerehan — while the bloom calls. Her gauge falls when the child is addressed gently by her own true name; it surges when anyone answers the false voice or reaches for the flower.
+2. **Clash:** The team performs Work Types — primarily Flerehan — while the bloom calls. Her gauge falls when the child is addressed gently by her own true name. It surges when anyone answers the false voice or reaches for the flower.
 3. **Resolution:** The team achieves containment, retreat, or the documented suppression condition: **Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge**. The encounter ends not by harming her, but by leading the lost child home, the way the rarest old tales end.
 
 ### Consequences
 
 - A worker who answers the mimicked voice is marked as a confirmed target; their feet begin to carry them inward and the Gauge climbs.
-- Prolonged listening thins the boundary between the worker's longing and the bloom's lure; untreated, they walk into the wood and do not return as themselves.
+- Prolonged listening thins the boundary between the worker's longing and the bloom's lure. Untreated, they walk into the wood and do not return as themselves.
 - Each M.A.W. use debits the wielder in memory — faces of the lost grow briefly sharper, then blur, like names half-remembered from childhood.
 - If the resolution condition is not met, the Calling Bloom breaches: she walks out of the wood toward the nearest settlement, calling every name she has ever learned.
 
 ## Appearance
 
-**Primary Form:** A child the height of a wheat-sheaf, barefoot, in a grey scavenger's dress too large for her, with the too-still, pale look of a figure from a dark woodcut. She stands motionless until a voice is heard — and then she moves, quickly, toward it, head tilted as though listening. From the crown of her head rises a single bloom, fist-sized, its pale petals parting to reveal one wet, dark eye.
+**Primary Form:** A child the height of a wheat-sheaf, barefoot, in a grey scavenger's dress too large for her, with the too-still, pale look of a figure from a dark woodcut. She stands motionless until a voice is heard — and then she moves, quickly, toward it, head tilted and held. From the crown of her head rises a single bloom, fist-sized, its pale petals parting to reveal one wet, dark eye.
 
 **Material and Surface:** Her skin is the grey-white of birch bark, cool and faintly papery. The dress is real cloth, rotted to the colour of the wood. The bloom is the only living colour on her — a soft, luminescent blue at the petals' base, deepening toward the eye, which is wet and dark and terribly awake.
 
@@ -140,17 +141,17 @@
 - **Formation:** Calling Bloom formed when a curious child touched a watching flower at the heart of the Muttering Wood — crossing, the way every dark wood's cautionary warning forbids, the threshold at the tree-line — and the bloom read her longing and folded her into itself, root and voice and all.
 - **The Sorrow:** A child's love for her brother, and the guilt of going looking for him and never coming back.
 - **The Event:** Nari, a wilderness scavenger child, heard what she believed was her brother Seojun crying for help deep in the wood. She ran past the safe outskirts, past the mushroom-beds she knew, all the way to the clearing at the wood's centre — and found no brother, only a single small flower with an eye. Curious, she touched it. She was gone before her hand came away.
-- **The People:** Nari (나리, "lily"), the girl who became the bloom; Seojun (준), the brother she was searching for — whose voice the flower had copied to lure her, and whose fate is unknown.
-- **Expanded origin context:** She does not remember the touching clearly. She remembers only the running, and the voice, and so she runs still — and calls. The bloom kept her longing because longing was the hook it caught her with; she is, now, the bait she once took, wandering the wood with a stolen voice, calling a brother who may never have called at all. The wandering bands speak of her the way they speak of their oldest warnings — not as invention, but as the real lesson the wood taught them at a real girl's expense.
+- **The People:** Nari (나리, "lily"), the girl who became the bloom. Seojun (준), the brother she was searching for — whose voice the flower had copied to lure her, and whose fate is unknown.
+- **Expanded origin context:** She does not remember the touching clearly. She remembers only the running, and the voice, and so she runs still — and calls. The bloom kept her longing because longing was the hook it caught her with. She is, now, the bait she once took, wandering the wood with a stolen voice, calling a brother who may never have called at all. The wandering bands speak of her the way they speak of their oldest warnings — not as invention, but as the real lesson the wood taught them at a real girl's expense.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears / Lament) | Addressed gently by her own true name, the child stills; the bloom's eye half-closes, and for a moment she is just a lost girl at the edge of the wood. | Decrease |
-| **Pugnahan** (Confrontation / Grudge) | She flinches and the bloom shrieks in a dozen stolen voices at once; aggression reads to her as the brother she cannot find turning away. | Increase |
-| **Viderehan** (Observation / Void) | Studied calmly, the bloom turns its eye on the observer and is, briefly, seen in return — its mimicry laid bare, the way a charm is laid bare when you see the trick of it. | Stable |
-| **Ferrehan** (Endurance / Weight) | The worker endures the calling without answering; the child wanders closer, then away, calmed that someone did not run. | Decrease |
+| **Flerehan** (Tears / Lament) | Addressed gently by her own true name, the child stills. The bloom's eye half-closes, and for a moment she is just a lost girl at the edge of the wood. | Decrease · High |
+| **Pugnahan** (Confrontation / Grudge) | She flinches and the bloom shrieks in a dozen stolen voices at once. Aggression reads to her as the brother she cannot find turning away. | Increase · Low |
+| **Viderehan** (Observation / Void) | Studied calmly, the bloom turns its eye on the observer and is, briefly, seen in return — its mimicry laid bare, the way a charm is laid bare when you see the trick of it. | Stable · Common |
+| **Ferrehan** (Endurance / Weight) | The worker endures the calling without answering; the child wanders closer, then away, calmed that someone did not run. | Decrease · Common |
 
 ### Operational Work Notes
 
@@ -167,7 +168,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 | **Breach Type** | Escape |
 | **Movement** | She drifts out of the Muttering Wood and toward any concentration of people, arms extended, seeking someone — anyone — to hold. |
 | **Effect** | Composure drains from all nearby; they feel an overpowering longing and an urge to embrace her. |
-| **Secondary Effect** | Those who hold her begin to dissolve at the points of contact; she cannot stop the bloom from trying to absorb them. |
+| **Secondary Effect** | Those who hold her begin to dissolve at the points of contact. She cannot stop the bloom from trying to absorb them. |
 | **First Target** | The person who shows her the most kindness — the one most likely to embrace her. |
 | **Escalation** | Each turn she is free and unheld, her grief-field widens 2 m and her Lament pressure grows +5/turn until suppressed. |
 
@@ -175,7 +176,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 - **Breach type:** Escape — she leaves the managed wood seeking contact rather than acting as a deliberate attacker. The absence of hostile intent does not make the embrace safe.
 - **Containment priority:** Name the child, not the mimicked speaker, and follow the recorded route toward the wood’s edge. Do not answer the stolen voice or use an embrace as the procedure: the breach record states that contact dissolves the person she holds, and the bloom’s touch prohibition remains in force.
-- **Sorrow Gauge on breach:** Opens at 50%; while the call goes unanswered it climbs 10 points a turn, and the shape it climbs toward is *One With the Bloom*.
+- **Sorrow Gauge on breach:** Opens at 50%. While the call goes unanswered it climbs 10 points a turn, and the shape it climbs toward is *One With the Bloom*.
 
 ## M.A.W. Equipment
 
@@ -185,7 +186,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** A living whip-vine pale as the wood's edge, still trailing small mushrooms along its length; it coils around the wrist and, when it strikes, sighs in a voice not its own.
+**Appearance:** A living whip-vine pale as the wood's edge, still trailing small mushrooms along its length. It coils around the wrist and, when it strikes, sighs in a voice not its own.
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)
 **Range:** 3 (Long)
@@ -194,7 +195,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 **Ability:** Deals Lament damage, attacking the Mind (composure, certainty of what is real). A tendril of grief-vine that extends from the weapon and coils around a target, drawing them close.
 
-**Cost:** The wielder is visited, unbidden, by the faces of everyone they failed to comfort.
+**Bearer cost:** The wielder is visited, unbidden, by the faces of everyone they failed to comfort.
 
 **Vine attribution:** The Weapon record separates seeing the faces of people the wielder failed to comfort from claiming Nari’s disappearance as their own history. The latter is its first failure sign; a source response recurring outside contact is escalation. Retain bearer, trigger, response, cost and unresolved detail for attribution review before cleaning or rest. A witness naming the source event during relinquishment is not answering a voice from the trees. It supplies neither permission to pull the child into an embrace nor a resolution of the held reach and area-profile differences.
 
@@ -202,7 +203,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** A mantle of layered blue petals that fastens at the throat with a single small eye-petal; it is cool and faintly luminous, and rustles softly when the wearer moves.
+**Appearance:** A mantle of layered blue petals that fastens at the throat with a single small eye-petal. It is cool and faintly luminous, and rustles softly when the wearer moves.
 **Resistances:**
 - Grudge: 1.1 (Weak)
 - Lament: 0.3 (Resistant)
@@ -213,24 +214,24 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 **Ability:** a thin membrane of petals that takes the Lament in and holds the wearer steady. It does its best work against sorrow of the kind it was grown from — a child calling out for somebody who never answers — and is noticeably poorer against anything else.
 
-**Cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up.
+**Bearer cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up.
 
-**Mantle return:** The individual Suit file warns that continued use makes the source sorrow feel autobiographical. Keep that warning beside the inability to end a conversation: the garment’s cost must not be mistaken for consent to stay another rotation. Attribution review precedes maintenance, and a named witness accompanies relinquishment without refunding the toll. The recorded endurance response is listening without answering; Lament resistance does not turn the mimicked voice into a safe conversation. The observer’s limit call still outranks the wearer’s wish to remain.
+**Mantle return:** The individual Suit file warns that continued use makes the source sorrow arrive as the wearer's own account of their life. Keep that warning beside the inability to end a conversation: the garment’s cost must not be mistaken for consent to stay another rotation. Attribution review precedes maintenance, and a named witness accompanies relinquishment without refunding the toll. The recorded endurance response is listening without answering; Lament resistance does not turn the mimicked voice into a safe conversation. The observer’s limit call still outranks the wearer’s wish to remain.
 
 ### M.A.W. Stigma — The Watcher's Petal
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** A single pale petal bearing one closed eye, the size of a child's thumbnail; it sleeps until a stolen voice is spoken nearby, and then the eye opens.
+**Appearance:** A single pale petal bearing one closed eye, the size of a child's thumbnail. It sleeps until a stolen voice is spoken nearby, and then the eye opens.
 **Slot:** Head
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
 **Ability:** A petal that twitches awake when a voice in the room is not the speaker's own — warning the bearer of lies, mimicry, and stolen words.
 
-**Cost:** The bearer sometimes feels watched from just above their own line of sight.
+**Bearer cost:** The bearer sometimes feels watched from just above their own line of sight.
 
-**Petal review:** The Stigma’s warning of a stolen voice is not authentication of any voice it leaves unmarked. Its item record requires the bearer, trigger, response, cost and unresolved detail to be kept before cleaning or rest; first-person ownership of Nari’s event is a failure sign, not recovered testimony about Seojun. A named witness states the source title and event while the bearer relinquishes the Petal, with the cost left paid. Nothing in that procedure permits touching or sampling the crown bloom or entering the sealed garden to test the warning.
+**Petal review:** The Stigma’s warning of a stolen voice is not authentication of any voice it leaves unmarked. Its item record requires the bearer, trigger, response, cost and unresolved detail to be kept before cleaning or rest. First-person ownership of Nari’s event is a failure sign, not recovered testimony about Seojun. A named witness states the source title and event while the bearer relinquishes the Petal, with the cost left paid. Nothing in that procedure permits touching or sampling the crown bloom or entering the sealed garden to test the warning.
 
 *Stigmas come from Calling Bloom herself — granted at the close of a successful work, never manufactured.*
 
@@ -242,9 +243,9 @@ Every piece carries Calling Bloom’s source sorrow, but its toll must be record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record the selected piece and gauge at issue. Keep a baseline for its own toll: unbidden faces for the Vine, difficulty ending contact for the Mantle, or feeling watched for the Petal; retain the source attribution separately from the bearer’s history. |
+| **Before use** | Record the selected piece and gauge at issue. Keep a baseline for its own toll: unbidden faces for the Vine, difficulty ending contact for the Mantle, or feeling watched for the Petal. Retain the source attribution separately from the bearer’s history. |
 | **During use** | Log the selected piece’s response and cost with the hour, retaining both the bearer’s account and the second worker’s observations. A Petal warning is not proof that an unmarked voice is genuine; record the actual trigger rather than requiring the Vine’s faces from every piece. |
-| **At limit** | The Mantle’s inability to part is a cost, not consent to extend a rotation. For every piece, log first-person claims to Nari’s event or a source response recurring outside contact as failure or escalation; keep the selected item’s distinct toll in the limit review. |
+| **At limit** | The Mantle’s inability to part is a cost, not consent to extend a rotation. For every piece, log first-person claims to Nari’s event or a source response recurring outside contact as failure or escalation. Keep the selected item’s distinct toll in the limit review. |
 | **After use** | Compare the selected piece’s toll with its baseline and preserve any disagreement between bearer and observer. Attribution review precedes cleaning or rest; a named witness states the source title and event while the bearer relinquishes the item. The record remains and the cost is not refunded. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Murmur Vine performs reliably yet can leave the wielder answering voices that are not there for days afterward.
@@ -270,7 +271,7 @@ Every piece carries Calling Bloom’s source sorrow, but its toll must be record
 | **Activation or escalation** | The team records the first visible escalation — the bloom's eye tracking a chosen target, the voice drawing nearer — before applying the response procedure. At this stage, record distance, duration, Sorrow Gauge movement, and whether a subject of her attention has begun to soften at the edges. |
 | **Post-contact review** | The observer must record what changed, what remained stable, and which detail was most difficult to describe. In the Calling Bloom's case, the report is incomplete if it records only the hazard and omits that she is, recognisably, still a child who went looking for her brother and simply never stopped. |
 
-**Observation method:** Record the first visible sign (the crown bloom turning its eye), the first emotional sensation (the certainty of a loved one's voice), the first measurable environmental change (the wood going silent, the mist pooling), and the condition that ends the encounter (the child called by her own name and led to the wood's edge).
+**Observation method:** Record the first visible sign (the crown bloom turning its eye), the first emotional sensation (the certainty of a loved one's voice), the first measurable environmental change (the wood going silent, the mist pooling). And the condition that ends the encounter (the child called by her own name and led to the wood's edge).
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -286,7 +287,7 @@ Subject responsive to Flerehan. On entry, the patrol reports total wood-silence 
 "She keeps calling a name. 'Seojun.' We cross-referenced it against Desolate nomad registers — incomplete, but we found a Seojun, a boy, recorded missing from a scavenger band in the same wilderness three centuries ago. A brother and sister. The sister, Nari, went into the wood after a voice. The brother's body was never found either. We do not know if he ever called. We do not know if the flower needed him to." — R.D. Researcher, Archive
 
 **Entry 4 — <Containment Notice>**
-Management: Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge. Work response — Flerehan: addressed as "Nari," she stills (Decrease); Pugnahan: the bloom shrieks in stolen voices (Increase); Viderehan: the bloom is seen in return (Stable); Ferrehan: the worker endures the call unanswered (Decrease). Three personnel have required counseling after reporting they still hear, at the wood's edge, a voice they cannot place.
+Management: Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge. Work response — Flerehan: addressed as "Nari," she stills (Decrease). Pugnahan: the bloom shrieks in stolen voices (Increase). Viderehan: the bloom is seen in return (Stable). Ferrehan: the worker endures the call unanswered (Decrease). Three personnel have required counseling after reporting they still hear, at the wood's edge, a voice they cannot place.
 
 **Entry 5 — <Sealed Record>**
 We sent a team to the clearing at the wood's centre. There was no flower. There were hundreds — a whole garden of small blooms, each with one eye, each quiet, each watching. Only one of them walks and calls. The others simply watch. We do not know how many children have touched them. We sealed the clearing and marked the boundaries. We did not count the eyes.
@@ -314,27 +315,27 @@ We sent a team to the clearing at the wood's centre. There was no flower. There 
 
 ### Interaction Pattern
 
-The Bloom's three entries — The Sorrow Flower, The Kind Echo, and The Vanished Seed — sit in her file as questions of kinship rather than alliances or quarrels; she quiets near other grief-entities and brightens near warmth. When two of them share a ground, the watch writes down the change: the note the petals answer with, how the stems moved, the warmth of the soil, what memory the workers were left carrying, the gauge, or whether the binding stayed true — with the range held, the length of the episode, and what began it.
+The Bloom's three entries — The Sorrow Flower, The Kind Echo, and The Vanished Seed — sit in her file as questions of kinship rather than alliances or quarrels. She quiets near other grief-entities and brightens near warmth. When two of them share a ground, the watch writes down the change: the note the petals answer with, how the stems moved, the warmth of the soil, what memory the workers were left carrying, the gauge, or whether the binding stayed true — with the range held, the length of the episode, and what began it.
 
 **Interaction method:** Observe her alone first, establishing her baseline calling-voice. Then introduce or observe the second entity and record the first shared response, the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects her reaching. Do not assume a calming interaction is safe to repeat; a relationship may change during a Sorrow Tide, breach, Ordeal, or transformation event.
 
 ### Entity Interaction Record
 
-Calling Bloom must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Calling Bloom must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional. Personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **The Sorrow Flower** | Two blooms born of grief — one that grew from sorrow, one that grew from a child. | A tense mutual watching; both blooms turn toward each other and the gauge of each rises slowly. Handle apart. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Echo** | Two callers — one who offers a kind word, one who steals a loved one's. | The Bloom grows still and quiet beside the Echo, as though recognising a gentler version of her own calling; both gauges dip. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| [**The Kind Echo**](SE-C-Iα-000_Kind_Echo_친절한_메아리.md) | Two callers — one who offers a kind word, one who steals a loved one's. | The Bloom grows still and quiet beside the Echo, as though recognising a gentler version of her own calling; both gauges dip. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Vanished Seed** | Two vanishings — one who vanished and grew, one who vanished and waited. | A quiet, sorrowful resonance; both seem to wait for someone who will not arrive. Calming but deeply sad. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Observe the two entities separately first. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Observe the two entities separately first. Then record whether the second entity answered, at what distance it first answered, and whether the answer persisted once the two were separated. The Bloom's only act is a call, and the call is measured in replies.
 
 ## 이야기 (Narratio) — The Tale
 
 Once upon a time, in the country beyond the last watchtower, there was a dark wooded forest, and the forest kept one rule.
 
-The rule was this: *never go past the mushrooms.* The pale mushrooms grew only at the wood's edge, and past the mushrooms the trees closed up and the light gave out, and the children of the wandering bands knew — the way children know the rules their elders swear by — that the deep wood takes back whatever walks into it. So they scavenged the edge and the edge only: the small pale mushrooms and the bitter herbs that grew where the wood met the scrub, because a basket of mushrooms was sometimes the whole difference between a family seeing morning and not.
+The rule was this: *never go past the mushrooms.* The pale mushrooms grew only at the wood's edge. And past the mushrooms the trees closed up and the light gave out. And the children of the wandering bands knew — the way children know the rules their elders swear by — that the deep wood takes back whatever walks into it. So they scavenged the edge and the edge only: the small pale mushrooms and the bitter herbs that grew where the wood met the scrub, because a basket of mushrooms was sometimes the whole difference between a family seeing morning and not.
 
 Among these children were two: a girl, Nari, and her brother, Seojun. They had no parents worth the naming — only each other, and the long labor of staying alive, which they bore the way the youngest in every hard household bear it: quietly, out of love, and without complaint. Nari was small and Seojun was smaller, and between them they had a pact, the kind only orphans make: *if one of us calls, the other comes.* They never went past the mushrooms. The deep wood was where the warnings lived, and afraid, for a child, was the same as safe.
 
@@ -342,7 +343,7 @@ One afternoon Nari was gathering alone at the scrub line when the voice came.
 
 *Seojun.* Small. Frightened. Calling from deeper in. She knew his voice the way she knew her own heartbeat — and a sister who loves her brother does not stop to ask whether a voice is real when it is crying for help. She dropped her basket. She ran.
 
-She ran past the mushrooms. She ran past the herbs. She ran past the line the other children had drawn in the dirt and sworn each other never to cross. And the voice called again, deeper, and again, deeper still — three times it drew her on, each time a little further in — until she came at last to the heart of the wood, where the trees opened into a clearing, and in the clearing there was no brother at all.
+She ran past the mushrooms. She ran past the herbs. She ran past the line the other children had drawn in the dirt and sworn each other never to cross. And the voice called again, deeper. And again, deeper still — three times it drew her on, each time a little further in — until she came at last to the heart of the wood, where the trees opened into a clearing. And in the clearing there was no brother at all.
 
 There was only a flower. Small. Pale blue. With one dark eye open in its centre, watching her the way a thing watches that has been waiting a very long time.
 
@@ -396,9 +397,9 @@ So mind the mushrooms, child. Mind the edge. And if you hear your brother callin
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is valid only with the full classification above. Calling Bloom's behavior, Work Type response, activation and breach condition, M.A.W. risk, and interaction pattern must be read together — she is bait and caught-thing in the same body, and the bloom will always use the voice that works. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it; in this wood, the contradiction is usually where the truth is hiding.
+**Operational interpretation:** This record is valid only with the full classification above. Calling Bloom's behavior, Work Type response, activation and breach condition, M.A.W. risk, and interaction pattern must be read together — she is bait and caught-thing in the same body, and the bloom will always use the voice that works. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it. In this wood, the contradiction is usually where the truth is hiding.
 
-**Review requirement:** Confirm containment status, Sorrow Gauge trend, personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Confirm containment status, Sorrow Gauge trend, personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The Bloom's only act is a call, so what the review confirms is who answered and whether they are still answering.
 
 ## Warden Record
 
@@ -420,7 +421,7 @@ The brother whose crying she believed she heard is named as well, and what is kn
 
 ## Trivia
 
-- She has wandered the Muttering Wood for roughly three centuries; the scavenger band that lost her is long dust, but the warning rhyme they composed is still sung among the wilderness children.
+- She has wandered the Muttering Wood for roughly three centuries. The scavenger band that lost her is long dust, but the warning rhyme they composed is still sung among the wilderness children.
 - The voice she calls — "Seojun" — is the very voice the flower used to lure her. She is, in a sense, still being lured, every night, by the brother she went to find.
 - The sealed garden at the wood's centre contains many watching blooms; only one walks and calls. The R.D. has chosen not to investigate how many of the others were once children.
 

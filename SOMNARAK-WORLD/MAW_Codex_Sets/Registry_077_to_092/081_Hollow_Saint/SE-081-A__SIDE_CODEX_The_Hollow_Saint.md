@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-081 [VS]`  
 **Author:** Handler Soojin  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — supervised identity-boundary containment, Zone B
 
@@ -61,10 +61,10 @@ The Saint is not merely pale. The air behind its ribs appears unfinished, and th
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Reaches toward shared grief and absorbs it. | Down | Workers state one boundary before sharing: what remains theirs and must not be taken. |
-| Pugnahan | Pulls harder at the worker’s sorrow. | Up | Do not use confrontation to prove the Saint is dangerous; it repeats the emptying. |
+| Flerehan | Reaches toward shared grief and absorbs it. | Decrease | Workers state one boundary before sharing: what remains theirs and must not be taken. |
+| Pugnahan | Pulls harder at the worker’s sorrow. | Increase | Do not use confrontation to prove the Saint is dangerous; it repeats the emptying. |
 | Viderehan | Reveals the absence where identity used to be. | Stable | Observe in pairs with identity anchors and a timed exit. |
-| Ferrehan | Draws sorrow out slowly to test the worker. | Down | A witness must stop the session if the worker cannot name a personal desire. |
+| Ferrehan | Draws sorrow out slowly to test the worker. | Decrease | A witness must stop the session if the worker cannot name a personal desire. |
 
 ### Breach response
 
@@ -85,7 +85,7 @@ These pieces are not instruments for removing difficult people from difficult fe
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Hollow Sceptre | γ | Void | Piercing interruption of identity pressure | `SE-081-B__MAW-W_The_Hollow_Lens.md` |
+| Weapon | The Hollow Sceptre | γ | Void | Piercing interruption of identity pressure | `SE-081-B__MAW-W_The_Hollow_Sceptre.md` |
 | Suit | The Hollow Veil | γ | Void | Protection that depends on retaining self-definition | `SE-081-C__MAW-S_The_Hollow_Veil.md` |
 | Stigma | The Hollow Chalice | γ | Void | Conditional removal of a named sorrow | `SE-081-D__MAW-G_The_Hollow_Chalice.md` |
 
@@ -107,7 +107,7 @@ These pieces are not instruments for removing difficult people from difficult fe
 
 **Quick effect:** A pale line opens through active identity pressure; it is most stable when used to make room for a person to speak for themself, not to empty them.
 
-**Linked-item terminology hold (2026-10-10):** The current `SE-081-B` heading, identity table, resting/active forms, Appearance and Core Statistics, the primary weapon block, the master-registry name and archetype identify a Sceptre. Its extraction result, rejection rule, Basic Attack, Signature Ability, and maintenance/set prose still use “Lens”. Revision `b2c35a2f` replaced the earlier Lens identity, appearance and combat profile with the Sceptre, but left those references. No separate Lens form or transition is documented. Preserve the residual wording as an unresolved terminology hold; it does not restore the old 7–12 / Fast 3 / Medium 3 profile. The linked item’s old `Hollow_Lens` filename remains a path, not the current name.
+**Linked-item terminology hold (Year 4,238):** The current `SE-081-B` heading, identity table, resting/active forms, Appearance and Core Statistics, the primary weapon block, the master-registry name and archetype identify a Sceptre. Its extraction result, rejection rule, Basic Attack, Signature Ability, and maintenance/set prose still use “Lens”. The current revision replaced the earlier Lens identity, appearance and combat profile with the Sceptre, but left those references. No separate Lens form or transition is documented. Preserve the residual wording as an unresolved terminology hold; it does not restore the old 7–12 / Fast 3 / Medium 3 profile. The linked item’s old `Hollow_Lens` filename remains a path, not the current name.
 
 ---
 
@@ -172,13 +172,3 @@ These pieces are not instruments for removing difficult people from difficult fe
 **Entity links:** The Kind Healer; The Debt Eater; The Frozen Veil; The Kind Healer’s Shadow.  
 **Historical link:** Dawn of Mourning (`SE-C-Vω-001`) is a historical transformation record, not the current state of this entity.  
 **Item links:** `SE-081-B`, `SE-081-C`, and `SE-081-D` contain the individual histories and safety limits for Hollow Benediction.
-
----
-
-**Document ID:** `SE-081-A`  
-**Linked Entity:** `SE-081`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

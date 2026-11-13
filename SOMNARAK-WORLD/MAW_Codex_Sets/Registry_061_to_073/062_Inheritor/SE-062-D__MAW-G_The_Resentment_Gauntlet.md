@@ -18,12 +18,13 @@
 | Grade | γ — Major |
 | Element | Grudge |
 | Slot | Tail |
+| **Maximum Amount** | 3 — Standard |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Inheritor source record |
 
 ### Appearance
 
-The Resentment Gauntlet is a small crimson gauntlet charm of polished Han glass, shaped like a closed hand with one finger extended, no larger than a thumb, and worn on a short cord. The glass is smooth and cold, with a faint darker line running along the extended finger. When the bearer marks a target who wronged them or someone under their protection, the line brightens and the gauntlet becomes warm against the chest. Subsequent direct attacks against that specific target gain clarity. The mark cannot determine intent, and it fades only after the bearer hears the target's account or releases the grievance. While the mark is active the bearer cannot forgive, even if forgiveness would be freely chosen, and the glass stays warm until it lifts. The gauntlet is kept on its cord until the mark lifts, and the glass does not cool until the bearer has heard the marked account in full.
+A closed hand in polished crimson Han glass with one finger extended, the Resentment Gauntlet is no bigger than a thumb and hangs on a short cord. The glass is smooth and cold, with a faint darker line running along the extended finger. When the bearer marks a target who wronged them or someone under their protection, the line brightens and the gauntlet becomes warm against the chest. Subsequent direct attacks against that specific target gain clarity. The mark cannot determine intent, and it fades only after the bearer hears the target's account or releases the grievance. While the mark is active the bearer cannot forgive, even if forgiveness would be freely chosen, and the glass stays warm until it lifts. The gauntlet is kept on its cord until the mark lifts, and the glass does not cool until the bearer has heard the marked account in full.
 
 ### Ability— Remember the Cost
 
@@ -36,12 +37,3 @@ The Gauntlet marks a target who wronged the bearer or someone under the bearer�
 ### History Record
 
 A Gauntlet bearer marked a Warden who had enforced a violent evacuation. The later account revealed the Warden had been preventing a worse collapse. The mark did not fade until the bearer sat through the full report.
-
-**Document ID:** `SE-062-D`  
-**Linked Entity:** `SE-062`  
-**Item Registry Code:** `MAW-G-062-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

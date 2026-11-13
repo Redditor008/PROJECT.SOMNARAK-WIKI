@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Vδ-002 [WS]`  
 **Author:** Cartographer Yeonhwa, SED Team Lead  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — uncontained Zone D landmark and migration hazard
 
@@ -75,7 +75,7 @@ Do not call the Colossus “contained.” Zone D lives around it. The R.D. manag
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Mourning Monument | δ | Weight | Room-wide ground shockwave that brings grounded targets to their knees | `SE-002-B__MAW-W_The_Mourning_Maul.md` |
+| **Weapon** | The Mourning Monument | δ | Weight | Room-wide ground shockwave that brings grounded targets to their knees | `SE-002-B__MAW-W_The_Mourning_Monument.md` |
 | **Suit** | The Mourning Mantle | δ | Weight | Lets a bearer endure memorial weight without being pinned by it | `SE-002-C__MAW-S_The_Mourning_Mantle.md` |
 | **Stigma** | The Mourning Shell | δ | Weight | Holds a trace of the unmourned dead’s protection | `SE-002-D__MAW-G_The_Mourning_Shell.md` |
 
@@ -143,13 +143,3 @@ No direct extraction history should be treated as full understanding of a Sovere
 ### Observation 4 — Pending
 
 Do not mark this page complete until the R.D. can name the dead without using the Colossus as their only memorial.
-
----
-
-**Document ID:** `SE-002-A`  
-**Related Entity:** `SE-002`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

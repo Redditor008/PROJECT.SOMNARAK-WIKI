@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-928 [VH]` |
-| **Entity Type** | **Hazard** — An affected air volume pools in sublevels and can extend upward; no mobile occupant or travelling body is recorded |
+| **Entity Type** | **Hazard** — Can breach via Expansion |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Hazard-Mind |
-| **Physical Form** | Non-Organic — Non-bodily hazard; an invisible gas, heavier than air, that settles through the lower levels of Zone C and causes progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed below, variable above. It pools in the lowest available volume and rises as it accumulates; the recorded ceiling has risen by just under two metres across nineteen years. |
 | **Location** | SECTOR-C-928, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -27,10 +27,11 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Hazard |
 | **Primary pressure** | Void / Mind pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, drawn at whichever level the miasma has reached that week. The yield does not vary with the level, which the station has checked at every one of the nine it has occupied. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 3 |
+| **Work Damage** | 2–5 Void / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is air in the Zone C sublevels, bounded below and worked from outside. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
@@ -54,7 +55,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Void. There is nothing to strike; the holding is a density in the air and the only physical barrier that has ever affected it is a closed stair door, which slows the rise by about a fortnight per level. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 458/458 |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 17–26 per hit · Void |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -69,20 +70,19 @@
 | **Threat Role** | Major cognitive exposure; the external reader, not the affected operator, judges withdrawal |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-928 |
-| **Resolution Condition** | The reader outside confirms the operator's errors against the sheet and the operator leaves on the reader's word, not their own. 211 cycles, 211 external calls, and no cycle has ever been ended by the person inside. |
+| **Resolution Condition** | The reader outside confirms the operator's errors against the sheet and the operator leaves on the reader's word, not their own. Nineteen years of operator shifts, an external call on every one of them, and no shift has ever been ended by the person inside. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "You make a small mistake, correct it, and feel entirely clear." | [The first error arrives within minutes and is invisible from inside.] | *10 Void. Across 211 cycles the median time to first error is four minutes and no operator has ever noticed their own.* **[10 Void DMG [Void]]** | On entry. |
+| { *The First Weight* [**Debuff**] } | "You make a small mistake, correct it, and feel entirely clear." | [The first error arrives within minutes and is invisible from inside.] | *10 Void. Across nineteen years of operator shifts the median time to first error is four minutes and no operator has ever noticed their own.* **[10 Void DMG [Void]]** | On entry. |
 | { *The Mind Surge* [**Attack**] } | "The errors stop being small and the confidence does not change." | [Error rate climbs while the operator's certainty holds flat.] | *18 Void; the sheet shows the divergence and the operator disputes the sheet.* **[18 Void DMG [Void]]** | Past about twelve minutes. |
 | { *The Settling* [**Attack**] } | "The operator answers a question that was not asked and the reader hears which one." | [Thought reorganises around an earlier moment in the cycle.] | *26 Void. Nine occurrences; in six the operator was answering the reader's first question of the session, eleven minutes late.* **[26 Void DMG [Void]]** | When the reader's calls are not acknowledged twice running. |
-| { *The Mind Collapse* [**Ultimate**] } | "Every form filed in the wing that hour contains the same class of error." | [The inversion propagates to anybody working at a desk in the sector.] | *20 Void per cycle for three cycles to everyone in the wing.* **[20 Void DMG [Void] (AoE, x3 turns)]** | Above 65%, twice; on both occasions the wing's output for the day was re-done from scratch. |
+| { *The Mind Collapse* [**Ultimate**] } | "Every form filed in the wing that hour contains the same class of error." | [The inversion propagates to anybody working at a desk in the sector.] | *20 Void per cycle for three cycles to everyone in the wing.* **[20 Void DMG [Void] (AoE, x3 turns)]** | Above 65%, twice. On both occasions the wing's output for the day was re-done from scratch. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 
 **An invisible volume, not a mourner:** The sublevel air has no distinct colour, smell, temperature or sound, and sampled air is ordinary on analysis. The measured floor and ceiling locate the holding; they do not outline a hidden creature. The chalk mark and reading station are human apparatus. Lost words and inverted meaning identify exposure through a person, not the appearance of an occupant inside the air.
 
-**A moving boundary without pursuit:** The lower boundary is the available floor and the upper boundary is measured by the watch. Pooling, accumulation and an upward extension explain why elevation matters. A closed stair door has delayed the rise and a sealed floor has not been crossed in the record; neither finding makes a door the source vessel. Keep the competing thinning and ventilation claims for reconciliation rather than converting them into a visible gas cloud.
+**A moving boundary without pursuit:** The lower boundary is the available floor and the upper boundary is measured by the watch. Pooling, accumulation and an upward extension explain why elevation matters. A closed stair door has delayed the rise and a sealed floor has not been crossed in the record. Neither finding makes a door the source vessel. Keep the competing thinning and ventilation claims for reconciliation rather than converting them into a visible gas cloud.
 
 **Read from outside:** The operator carries a pre-signed objective and reads a fixed passage while the nominated outside reader follows the known text and marks errors. Familiarity and confidence are not a clear-air test. Withdrawal records the reader's decision and the remaining discrepancies; it does not restore a lost name. Glass blade, Veil and Token are materialized equipment with their own costs, not physical pieces of a giant or an invisible human body.
 
@@ -126,7 +126,7 @@
 | **Form** | An invisible gas, heavier than air, that settles through the lower levels of Zone C and causes progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
 | **Position / movement** | Fixed below, variable above. It pools in the lowest available volume and rises as it accumulates; the recorded ceiling has risen by just under two metres across nineteen years. |
 | **Material / signature** | Void. No colour, smell, temperature difference, sound or pressure. Air drawn from the volume and analysed is ordinary air, which is in the file as a finding and not as a failure. |
-| **Distinctive markers** | Misplaced words within roughly four minutes; inverted meaning within twelve; at the third stage, accounts delivered with complete confidence and no corresponding events. |
+| **Distinctive markers** | Misplaced words within roughly four minutes. Inverted meaning within twelve; at the third stage, accounts delivered with complete confidence and no corresponding events. |
 | **Identification** | Confirm: designation C-IIIγ-928 `[VH]`, Fragment (III) coherence, Major (γ) potency, Hazard-Mind manifestation, Void element, Zone C sublevels. Confusion with distress, fatigue or intoxication is the common error and the reading page distinguishes all four. |
 
 ## Origin
@@ -135,38 +135,39 @@ What is below Zone C was pumping station, then overflow, then nothing anybody ha
 
 It has been held since the first cycle of this iteration, and the protocol has been rewritten thirty-one times. Each rewrite adds a clause saying that standard Void procedure is insufficient because the mind register changes the nature of the pressure, and each rewrite adds it as though for the first time.
 
-The repetition is not administrative sloppiness and the file says so plainly. Every one of the thirty-one authors had worked the holding; every one of them had read the preceding version; and every one of them wrote the clause as a new discovery. The versions are bound together so that the thirty-one identical paragraphs can be read in sequence.
+The repetition is not administrative sloppiness and the file says so plainly. Every one of the thirty-one authors had worked the holding. Every one of them had read the preceding version. And every one of them wrote the clause as a new discovery. The versions are bound together so that the thirty-one identical paragraphs can be read in sequence.
 
 What does not vary is the shape of the incident that prompts the rewrite: nobody injured, nothing released, and a record afterwards that cannot be reconciled with itself. The archivist's note observes that a holding which erodes institutional memory will produce exactly this history and that recognising the pattern has not, in nineteen years, been enough to break it.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study through the operator’s passage read inside and the nominated reader’s scoring outside; the stage boundaries fall at reproducible dwell times. The two positions and their different jobs are recorded before entry. | Decrease |
-| **Ferrehan** (Endurance) | Recognises patience; the volume thins around a party that completes a full cycle without shortening or extending it. | Decrease |
+> **This holding is not worked.** It is a gas that thins the memory of anyone inside it and keeps them working: a fixed passage, read at both ends of the watch by two people, one of whom is outside.
+
+| Stage | What is done |
+|---|---|
+| **Approach** | Two are posted, never one: the operator who goes through the passage, and the named reader who stays outside and holds the sheet. Objectives are written down and carried on the person, because the operator will not remember agreeing to them by the far end. |
+| **Handling** | Fixed-passage reading at both ends of the watch — the operator walks the marked stations in both directions, the reader scores at each boundary and does not call a correction until the station is passed. The stage boundaries fall at the same places they fell last watch; a boundary that has moved is the first reading. |
+| **Withdrawal** | On the first marked error, out — and on the reader's word, not the operator's. An operator who says they are fine is the one the file warns about; a full cycle at the marked stations is completed or it is abandoned, never shortened and never extended. |
+| **Refusal** | The operator does not judge their own error. Nineteen years of operator shifts and an external call on every one of them: somebody who has breathed the Lethe cannot be asked whether they have. |
 
 ### Operational Work Notes
 
-Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestation, Void expression, at SECTOR-C-928 in the Zone C sublevels. Flerehan and Pugnahan are unavailable to a Hazard. Both valid Work Types lower the gauge and neither returns anything taken, which is the asymmetry every protocol in this file is built around.
+Lethe is a Hazard; nothing in it is observed into agreement and nothing is confronted. The old four-row table offered two stages to a gas and blanked the other two, which is a form with the answer already decided. What the record describes is a relay: one inside, one outside, a sheet and a first marked error.
 
 ## Breach Behavior
 
-> *"Lethe has broken free. The void mind spreads."*
-
+> *"Lethe has broken free and is pooling. It fills the lowest occupied volume first and rises from there. Clear the low levels, and send nobody down to confirm a reading the instruments cannot take."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion — by volume of air, upward from the sublevels. |
-| **Movement** | Nothing is released and nothing travels. The affected volume grows and the ceiling rises; the holding is governed by the building's stairwells and drainage, not by any behaviour of the entity, and it has never risen past a sealed floor. |
+| **Movement** | Nothing is released and nothing travels. The affected volume grows and the ceiling rises. The holding is governed by the building's stairwells and drainage, not by any behaviour of the entity, and it has never risen past a sealed floor. |
 | **Effect** | Void in the mind register: stage by dwell time, identical for everyone in the volume, with no instrument able to confirm presence before a person's speech does. |
-| **First Target** | The lowest occupied level. Exposure order follows elevation and nothing else; it does not select, prefer or pursue, and a person asleep at the bottom of a stair is reached before one working at the top. |
+| **First Target** | The lowest occupied level. Exposure order follows elevation and nothing else. It does not select, prefer or pursue, and a person asleep at the bottom of a stair is reached before one working at the top. |
 | **Escalation** | Pressure grows each turn; Void drain increases by 5 per turn until suppressed. Ventilating from below reverses the ceiling reliably, which is the one mercy in the record. |
 
 ### Escalation Notes
 
-- **Containment priority:** Evacuate upward and ventilate from below. Affected personnel cannot report their own condition and must not be asked to; the external reader's page is the only admissible account of who is at what stage.
+- **Containment priority:** Evacuate upward and ventilate from below. Affected personnel cannot report their own condition and must not be asked to. The external reader's page is the only admissible account of who is at what stage.
 - **Sorrow Gauge on breach:** Opens at 30% and rises 10% per level reached as it fills upward, so the gauge tracks the ceiling and nothing else. It falls 10% for each level the miasma withdraws from, which it has done twice in fifteen years and both times without intervention.
 
 ## M.A.W. Equipment
@@ -192,7 +193,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 **Ability:** Void against the Mind. Struck targets make errors for some hours and remain certain throughout; the Armoury requires a second signature on anything a struck worker writes that day.
 
-**Cost:** The wielder experiences chronic fatigue in the dominant hand with each use.
+**Bearer cost:** The wielder cannot tell afterwards which of their own work was checked and which merely felt checked, which is why the second signature is a procedure rather than a reassurance.
 
 ### M.A.W. Suit — Lethe's Veil
 
@@ -210,7 +211,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
-**Cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
+**Bearer cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
 ### M.A.W. Stigma — Lethe's Token
 
@@ -220,17 +221,17 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat on this holding's cycles. The token's face carries a word the bearer can read and cannot afterwards repeat from memory; nine bearers, nine failures to repeat it, and the Armoury has never written the word down.
+**Effect:** +1 to the working stat on this holding's cycles. The token's face carries a word the bearer can read and cannot afterwards repeat from memory. Nine bearers, nine failures to repeat it, and the Armoury has never written the word down.
 
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 
-**Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
+**Bearer cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
 *Nine in fifteen years, each to a worker who reported their own first mistake to the reader before the reader called it. Four workers have managed that; five of the nine tokens went to the same person.*
 
 ### M.A.W. Use Notes
 
-Each Lethe piece is an extension of the volume rather than ordinary equipment. The grade describes the effect on entities; the cost is separate, is always subtractive, and is paid in material the bearer cannot audit, because the only record of what was removed was held in the person it was removed from.
+Each Lethe piece is an extension of the volume rather than ordinary equipment. The grade describes the effect on entities. The cost is separate, is always subtractive, and is paid in material the bearer cannot audit, because the only record of what was removed was held in the person it was removed from.
 
 ### Field Use Record
 
@@ -238,7 +239,7 @@ Each Lethe piece is an extension of the volume rather than ordinary equipment. T
 |---|---|
 | **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, baseline reading of the fixed passage timed and scored, carried written objective signed, external reader named. |
 | **During use** | Entry time, ceiling measurement, errors marked by the reader with timestamps, stage reached, first cost, and any conflict between a spoken instruction and the carried page. |
-| **At limit** | The point at which the operator's errors stop being corrected by the operator. The reader calls it; the operator has never called it in 211 cycles and the file does not treat that as a failing. |
+| **At limit** | The point at which the operator's errors stop being corrected by the operator. The reader calls it; the operator has never called it in nineteen years and the file does not treat that as a failing. |
 | **After use** | Exit confirmed by the reader, repeat reading scored against baseline, discrepancies listed by word, infirmary notified, cooldown, reuse authorisation. |
 
 **Relinquishment and attribution:** Log the Edge's dominant-hand fatigue, the Veil's difficulty being remembered and the Token's brief lost word or face separately from the source's lasting gaps. Another witness keeps the record where the bearer cannot audit it. Before cleaning or rest, retain bearer, trigger, source response, cost and unresolved detail for attribution review. The witness states the source title during relinquishment and records the originating event as unrecorded; do not invent an autobiographical event to satisfy the form. First-person ownership and recurrence outside contact are item warnings, not grounds to abandon the external reader or to promise restored memory after removal.
@@ -297,15 +298,15 @@ The volume takes what is known and gives nothing back, and the file measures its
 
 | What the volume holds | How the pairing has run | What the reader entered | What the page keeps |
 |---|---|---|---|
-| **Backward Hour** `C-IIIγ-913` | Filed together on the outside check. That record reconciles its clocks after the cycle; this one refuses the witness's own account at every stage, and both put the last word outside the person. | The clock reconciliation and the external score were compared once and matched on the external step alone. | That the one shared step is the finding, kept as the review wrote it down. |
+| **Backward Hour** `C-IIIγ-913` | Filed together on the outside check. That record reconciles its clocks after the cycle. This one refuses the witness's own account at every stage, and both put the last word outside the person. | The clock reconciliation and the external score were compared once and matched on the external step alone. | That the one shared step is the finding, kept as the review wrote it down. |
 | **Amnesia** `O-IIβ-914` | Grouped on losses of the mind and what is done about them. That record gets a name back in a median of nine minutes; nothing has ever come back here, and the file says so plainly. | One review entry; the two series parted at the first mark and neither column was reconciled. | That the parting stands as the entry, carried un-smoothed in the review's numbers. |
-| **Miasma** `C-IVδ-922` | Grouped on an effect that cannot be read from inside. That record's weep is measured while it is happening and judged by the spotters; this one is judged by a reader who stands outside the room, for the same reason. | The dwell figures and the ceiling readings were laid side by side once and shared only the external step. | That the two are filed for the shape of the outside check, noted as a shape and not a link. |
+| **Miasma** `C-IVδ-922` | Grouped on an effect that cannot be read from inside. That record's weep is measured while it is happening and judged by the spotters. This one is judged by a reader who stands outside the room, for the same reason. | The dwell figures and the ceiling readings were laid side by side once and shared only the external step. | That the two are filed for the shape of the outside check, noted as a shape and not a link. |
 
-**Interaction procedure:** Nothing is worn or carried into the volume in company. The comparison stays on paper at the watch's review, with the ceiling readings and the external score entered first and the other record's series laid beside them unchanged; parting, reach, cause and both readings go into the margin.
+**Interaction procedure:** Nothing is worn or carried into the volume in company. The comparison stays on paper at the watch's review, with the ceiling readings and the external score entered first and the other record's series laid beside them unchanged. Parting, reach, cause and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
-The district's account of the sublevels is that they were sealed after the pumping station closed and that the sealing was an ordinary municipal economy, and this agrees with the municipal record in every particular. No testimony collected in nineteen years connects the volume to any event, grievance or death. The file states this positively: there is no story here, and the absence has been looked for carefully enough to be reported as a finding.
+There were sublevels, and the district's account of them is that they were sealed after the pumping station closed and that the sealing was an ordinary municipal economy, and this agrees with the municipal record in every particular. No testimony collected in nineteen years connects the volume to any event, grievance or death. The file states this positively: there is no story here, and the absence has been looked for carefully enough to be reported as a finding.
 
 What the file does hold is the sequence of thirty-one protocols, the reading pages going back to the first watch, and the pattern survey described below. Together they make this one of the best-documented holdings in the wing, which the archivist calls the single most predictable consequence of a hazard that erases things.
 
@@ -390,7 +391,7 @@ A statement has legal effect because the person making it had capacity to make i
 
 The consequences follow mechanically and the second opinion sets them out as a list. A second-stage utterance cannot found a grievance, because a grievance must be raised by someone capable of raising it. It cannot be a protected disclosure, so the protections that attach to a worker who reports a danger do not attach to any of this. It is not evidence and cannot be admitted. It cannot be consent and cannot be refusal. It cannot be withdrawn, because there is nothing there to withdraw.
 
-Both opinions note that the rule is protective in origin and correct in principle. A person robbed of the ability to say what they mean must not be bound by what comes out of them; the alternative is a facility holding its staff to words the facility's own hazard put in their mouths. The registrar's annotation agrees and adds the obvious: the rule protects the speaker from being bound and says nothing at all about whether the listener may listen.
+Both opinions note that the rule is protective in origin and correct in principle. A person robbed of the ability to say what they mean must not be bound by what comes out of them. The alternative is a facility holding its staff to words the facility's own hazard put in their mouths. The registrar's annotation agrees and adds the obvious: the rule protects the speaker from being bound and says nothing at all about whether the listener may listen.
 
 **Eleven hundred and six concerns** have been recorded at second stage across nineteen years. Four hundred and eleven of them name a specific defect, rota, or person. None of them has been raised. In the facility's grievance register, which counts matters raised, this holding's staff have raised four, and all four were about parking.
 
@@ -404,12 +405,12 @@ Two operational changes were made to support it. The withdrawal point on the low
 
 The objection is minuted at the fifteenth, sixteenth, seventeenth and eighteenth annual reviews, raised by the holding's Containment Lead and supported by the infirmary's registrar. It holds, first, that the facility treats the same sentences as reliable enough to found its regulatory assurance and as legally void when the speaker wants something done — the identical material, read two ways, in the same building, by the same committee. Second, that the withdrawal point was moved outward for an administrative purpose and not an operational one, so that the additional erosion of nineteen people's memory is the running cost of a reporting line. Third, that eleven hundred concerns have been heard, themed, tabulated and replied to at nil, and that the people who raised them are not protected, not credited, and not, in law, people who raised anything.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was designed in the fifteenth year and costed in the sixteenth: a second reader per cycle, so that the call to end a session would not rest on one person's hearing. The second post was costed at under a twentieth of the wing's establishment and was not created. The item has appeared in nine annual minutes since, each time with the same costing and each time deferred.
+The minute agrees with the objection on every part it raises, and there are three. It records that a remedy was designed in the fifteenth year and costed in the sixteenth: a second reader per cycle, so that the call to end a session would not rest on one person's hearing. The second post was costed at under a twentieth of the wing's establishment and was not created. The item has appeared in nine annual minutes since, each time with the same costing and each time deferred.
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Mind** entities in Somnarak, and the reason the category distinguishes mind from body at all.
-- Thirty-one protocols, thirty-one identical paragraphs about the mind register, each written as a discovery; they are bound in sequence so that the repetition cannot be missed.
+- The register separates mind from body by what the gas does: first misplaced words, then reversed meanings, then the loss of the line between memory and imagination.
+- Thirty-one protocols, thirty-one identical paragraphs about the mind register, each written as a discovery. They are bound in sequence so that the repetition cannot be missed.
 - It is the only holding in the wing whose hazard has been formally relied upon as a source of management information.
 
 ## Document Information

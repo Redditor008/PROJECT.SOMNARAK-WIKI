@@ -24,9 +24,15 @@ The Seedless Shroud is a cool blue wrapping of Han-silk patterned with roots tha
 
 ## PROTECTION FILE
 
+**Grade / Element:** α / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 5 / 10 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
 
 **Potential Canopy:** Imagined futures spread across the outer fabric instead of taking root in the wearer’s Mind. Void is dangerous because it erases the distinction between unrealized and impossible.
 
@@ -43,14 +49,3 @@ Shroud receives the expansion images while Pod holds one actual beginning and Re
 **Maintenance:** Spread the Shroud over barren ground that is not the source site. Place one current, ordinary object at its center and describe it without metaphor. The root pattern must stop short of it.
 
 **Removal:** Roll inward from the unrealized edges while a partner keeps the present object visible.
-
----
-
-**Document ID:** `SE-236-C`  
-**Linked Entity:** `SE-236`  
-**Item Registry Code:** `MAW-S-236-01`  
-**Author:** Sentinel Harin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

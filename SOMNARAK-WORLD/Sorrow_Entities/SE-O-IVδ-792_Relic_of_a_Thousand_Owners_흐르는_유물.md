@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-792 [O]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Mixed — A ghostly figure carrying a relic that flows like liquid crystal in its hands, its own body shifting between person and object, never settling. Salt-damp, it smells of cold rain; a treasure and its keeper blended into one. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary while present — it holds its ground for the whole of an appearance — and relocates only between appearances, crossing the Gate in both directions on no schedule. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | High on first contact — 60–80% — because the object has already passed through more hands than the wing can count. |
 | **Han-Energy yield** | Twenty to twenty-eight, earned solely when a cycle runs to its end, and counted from the form records rather than from what the figure reports. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **Work Damage** | 3–6 Lament — the cost is an outline steadied for a time and nothing returned |
+| **Activation threshold** | 1 reading |
 | **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | Somewhere between one and ten tons, at the Critical grade. The relic can be destroyed; that was never the same question as whether it can be kept. |
@@ -44,17 +45,19 @@
 - Taking M.A.W. stock is its own authorised event and is never a prize hung on a clean cycle. Here the draw comes off the figure and never off the object in its hands — a distinction the briefing repeats twice, because the object is the one thing in the chamber nobody may put a hand to.
 
 ## Combat Record
+> **Why this file keeps combat actions.** It holds its ground for the whole of an appearance. And that is the only thing it holds: a glob of the flowing relic lifts off it and flies. And the file calls the result a projectile of liquefied relic-matter. The relic does not walk; it throws, and what it throws arrives.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
+| **Speed** | 0 m/s while present; it relocates only between appearances, crossing the Gate on no schedule |
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Lament |
+| **Han Pressure [ATK]** | 30–65 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -67,7 +70,7 @@
 | **Threat Role** | Boss encounter |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | Between 60 and 80 per cent at first contact; the figure belongs to the chain of owners, not to the object. |
+| **Starting Sorrow Gauge** | Between 60 and 80 per cent at first contact. The figure belongs to the chain of owners, not to the object. |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
@@ -78,20 +81,20 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Dripping Surface* [**Debuff**] } | "The relic is sweating — beads of liquid sorrow forming on its surface — and each bead carries the relic's stored power." | [The Relic's liquefaction releases its power in liquid form; the target is splashed.] | *Target suffers -10 Composure; the liquid relic is potent and spreading.* **[10 Lament DMG [Lament]]** | When the target holds the Relic. |
-| { *The Pool* [**Debuff**] } | "The relic has formed a pool at its base — and the pool is growing, and it glows with old power." | [The Relic's runoff accumulates; the target wades in liquid divinity.] | *Target loses 10 Composure; the pooled power is overwhelming.* **[10 Lament DMG [Lament]]** | When the target wades. |
+| { *The Pool* [**Debuff**] } | "The relic has formed a pool at its base — and the pool is growing. And it glows with old power." | [The Relic's runoff accumulates; the target wades in liquid divinity.] | *Target loses 10 Composure; the pooled power is overwhelming.* **[10 Lament DMG [Lament]]** | When the target wades. |
 | { *The Liquid Strike* [**Attack**] } | "A glob of the flowing relic lifts and flies — carrying concentrated, liquid power." | [ A projectile of liquefied relic-matter strikes.] | *Inflicts Lament pressure and one wound of liquid, ancient force.* **[14-22 Lament DMG [Lament]]** | When the Relic is disturbed. |
-| { *The Full Melt* [**Attack**] } | "The relic goes entirely to liquid, a pool of old sorrow, and the pool starts to move." | [A total dissolution lets go of every year the relic was holding.] | *A heavy Lament flood; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Relic is broken open. |
-| { *The Liquid Archive* [**Ultimate**] } | "Every relic on the ground starts to run, and the pooled weight of old objects goes over everything in the field." | [The flow runs outward until the whole ground is under it.] | *Everyone in range takes Lament pressure for three turns of liquid relics.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| { *The Full Melt* [**Attack**] } | "The relic goes entirely to liquid, a pool of old sorrow. And the pool starts to move." | [A total dissolution lets go of every year the relic was holding.] | *A heavy Lament flood; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Relic is broken open. |
+| { *The Liquid Archive* [**Ultimate**] } | "Every relic on the ground starts to run. And the pooled weight of old objects goes over everything in the field." | [The flow runs outward until the whole ground is under it.] | *Everyone in range takes Lament pressure for three turns of liquid relics.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
-1. **Tension:** The team takes a standing distance on the Gate road with nobody between the figure and the Gate, confirms that nothing is to be offered or taken, and fixes in advance that anything the figure sets down stays where it falls until the engagement closes.
+1. **Tension:** The team takes a standing distance on the Gate road with nobody between the figure and the Gate, confirms that nothing is to be offered or taken. And fixes in advance that anything the figure sets down stays where it falls until the engagement closes.
 2. **Clash:** Twenty-four turns, all four Work Types available, worked at a standing distance with no member of the team between the figure and the Gate. Nothing is offered to it and nothing is taken from it. Anything it sets down stays where it fell until the engagement closes.
 3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Do not claim ownership; document its owners**. Nobody in this wing writes the object down as its own property, and every owner named in the record is entered one at a time, by name.
 
 ### Consequences
 
-- The failure here is custody rather than collapse. The worker begins with a reasonable thought about where the object should be kept, arrives at a view about who is qualified to keep it, and finishes explaining calmly why that person is them; the gauge climbs through all three stages and the worker reports feeling clear-headed throughout.
+- The failure here is custody rather than collapse. The worker begins with a reasonable thought about where the object should be kept, arrives at a view about who is qualified to keep it. And finishes explaining calmly why that person is them. The gauge climbs through all three stages and the worker reports feeling clear-headed throughout.
 - Duration favours the entity, and the saturation it produces is specific: the longer a worker stands with it, the more plainly they feel that the object ought to be looked after by somebody, and that nobody present is better placed than they are. That sentence has appeared, in near-identical form, in the recovery statements of four separate operatives.
 - M.A.W. activation is an exchange with no concessions in it: power out, price in, with the parameters catalogued in the equipment registry and the payment taken from the bearer's flesh and memory. This set bills in attachment. Wielders stop being able to give things away, beginning with objects of no value, and they describe the difficulty as inexplicable rather than as distress.
 - An unresolved encounter corrupts rather than ending. The figure intensifies where it stands, the structure around it cracks outward from that point, and the air fills with weeping that erodes the will to keep working. It does not pursue. It simply becomes impossible to remain near.
@@ -106,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A ghostly figure carrying a relic that flows like liquid crystal. Its body shifts between object and person.
-- **Position / movement:** Holds its ground while present, which is why the register records it as stationary, and relocates only between appearances rather than during them. It crosses the Gate in both directions and returns on no schedule; record its position, posture, and the distance it keeps, and record arrivals and departures as separate events rather than as movement.
+- **Position / movement:** Holds its ground while present, which is why the register records it as stationary, and relocates only between appearances rather than during them. It crosses the Gate in both directions and returns on no schedule. Record its position, posture, and the distance it keeps, and record arrivals and departures as separate events rather than as movement.
 - **Element signature:** Lament
 - **Registered location:** Zone E, Exile's Gate vicinity
 
@@ -115,28 +118,28 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ghostly figure carrying a relic that flows like liquid crystal. Its body shifts between object and person. |
-| **Position / movement** | Holds its ground while present, which is why the register records it as stationary, and relocates only between appearances rather than during them. It crosses the Gate in both directions and returns on no schedule; record its position, posture, and the distance it keeps, and record arrivals and departures as separate events rather than as movement. |
+| **Position / movement** | Holds its ground while present, which is why the register records it as stationary, and relocates only between appearances rather than during them. It crosses the Gate in both directions and returns on no schedule. Record its position, posture, and the distance it keeps, and record arrivals and departures as separate events rather than as movement. |
 | **Material / signature** | Lament. A translucent figure that will not settle between a person and the thing it carries, salt-damp, smelling of cold rain, with a relic in its hands that flows like liquid crystal and shows hands, faces and farewells on its surface. |
 | **Distinctive markers** | The posture of carrying, held constantly, and an object that has never twice been documented in the same form. |
-| **Identification** | The designation is the first filter and the observer's own account of the figure is the second; confirm both agree before approaching, and disregard the object entirely for identification purposes. |
+| **Identification** | The designation is the first filter and the observer's own account of the figure is the second. Confirm both agree before approaching, and disregard the object entirely for identification purposes. |
 
-**Appearance protocol:** Describe the bearer and not the burden. The object it carries holds no shape, flows like liquid crystal, and has never twice been documented in the same form, so identification by the relic is impossible and identification by the figure is the only method that works; the briefing opens by saying so. Record the figure's height, the degree to which the outline reads as a person or as an object, how long either reading holds, the distance it keeps, and the posture, which is almost always that of someone carrying. Record the surfaces of the relic as a sequence of separate observations — hands, faces, farewells — without reconciling them. Successive observations are not made to agree with each other. Note any fragments accumulating at its position and leave them where they are until it departs.
+**Appearance protocol:** Describe the bearer and not the burden. The object it carries holds no shape, flows like liquid crystal, and has never twice been documented in the same form, so identification by the relic is impossible and identification by the figure is the only method that works. The briefing opens by saying so. Record the figure's height, the degree to which the outline reads as a person or as an object, how long either reading holds, the distance it keeps, and the posture, which is almost always that of someone carrying. Record the surfaces of the relic as a sequence of separate observations — hands, faces, farewells — without reconciling them. Successive observations are not made to agree with each other. Note any fragments accumulating at its position and leave them where they are until it departs.
 
 ## Origin
 - **Formation:** The Relic formed from an object carried through many exiles.
 - **The Sorrow:** The grief of surviving every owner and belonging to none.
 - **The Event:** A relic passed from one exile to another until its history became a wandering figure.
-- **The People:** Every exile who carried the object, which is the difficulty. The figure gives names, places and circumstances to those who approach it, and in several cases those people can be found in the municipal exile registers; the traceable cases are listed with their register references. The untraceable ones vastly outnumber them and are listed as unverified accounts in a separate schedule, maintained without any expectation that an entry will ever be confirmed.
-- **Expanded origin context:** What exists is a chain of custody with every link dead and a remainder nobody can close. Sixty-one of the names the figure gives have been matched to entries in the municipal exile registers and are listed with their references; the rest are kept in a separate schedule of unverified accounts that the archivist maintains without expecting a single one of them ever to be confirmed. The schedule is not evidence of anything and is not kept as evidence. It is kept because the alternative is to write nothing down about people whose only remaining record is a figure at a gate saying their names aloud.
+- **The People:** Every exile who carried the object, which is the difficulty. The figure gives names, places and circumstances to those who approach it, and in several cases those people can be found in the municipal exile registers. The traceable cases are listed with their register references. The untraceable ones vastly outnumber them and are listed as unverified accounts in a separate schedule, maintained without any expectation that an entry will ever be confirmed.
+- **Expanded origin context:** What exists is a chain of custody with every link dead and a remainder nobody can close. Sixty-one of the names the figure gives have been matched to entries in the municipal exile registers and are listed with their references. The rest are kept in a separate schedule of unverified accounts that the archivist maintains without expecting a single one of them ever to be confirmed. The schedule is not evidence of anything and is not kept as evidence. It is kept because the alternative is to write nothing down about people whose only remaining record is a figure at a gate saying their names aloud.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The figure softens and reveals one owner's grief. | Decrease |
-| **Pugnahan** | It flows around aggression and returns it as force. | Increase |
-| **Viderehan** | Reveals the chain of exiles who carried it. | Stable |
-| **Ferrehan** | Tests whether the worker can hold history without possession. | Decrease |
+| **Flerehan** | The figure softens and reveals one owner's grief. | Decrease · High |
+| **Pugnahan** | It flows around aggression and returns it as force. | Increase · Low |
+| **Viderehan** | Reveals the chain of exiles who carried it. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can hold history without possession. | Decrease · Common |
 
 
 
@@ -145,24 +148,25 @@
 Relic of a Thousand Owners is a Subject with Subject-Phantasmal manifestation and Lament expression, present at the Exile's Gate on no schedule and not contained in any sense the word ordinarily carries. All four Work Types apply. Flerehan softens the figure and opens one owner's grief, Viderehan gives the chain of exiles and moves nothing, Ferrehan tests whether a worker can hold a history without acquiring it, and Pugnahan returns whatever force is offered. The object in its hands is not worked, touched, or used for identification at any stage.
 
 **Reading the response:** Read it in the outline and in the relic's surface. A falling gauge presents as the figure settling — the shift between person and object slowing, one reading holding longer, the relic's flow quieting to a slow movement across its own surface. Nothing is resolved by that. The object still belongs to nobody and the names still outnumber the register. A rising gauge presents as **custody**. The worker begins to feel responsible for the object. It starts as a reasonable thought about where it should be kept, becomes a view about who is qualified to keep it, and ends with the worker explaining, calmly and at length, why they should be the one to carry it out. Nobody in that state believes they are claiming anything. The suppression condition is written against exactly this and is the only guard there is.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Relic of a Thousand Owners has broken free. It intensifies in place and makes the position untenable."*
+> **Containment event — no breach counter.** The gauge is a threshold and the claims on the object are what the watch counts. The figure intensifies where it stands and cracks the structure outward, and it has nowhere to leave to.
 
+> *"Relic of a Thousand Owners has come to rest and gone loud. The weeping carries through the wall and the structure is cracking outward from the position; clear the wing and let it finish."*
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corrupt |
 | **Movement** | Relic of a Thousand Owners pulses with concentrated force, cracking the walls around it. It does not pursue; withdraw radially from the fixed point. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
+| **Effect** | Every previous owner is present and none of them agrees on what the object is for. Whoever holds it inherits the disagreement rather than the history. |
+| **Secondary Effect** | Every owner's grievance is present at once and each of them blames a different party. What pools in the chest is not one sorrow but a room full of them arguing about who is owed. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Every turn the figure stays loose the pressure climbs; Composure drain rises by 5 a turn until something suppresses it. |
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt. The relic holds its ground and the zone around it takes on the claims of every owner at once, widening with each new one.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Opens at 40% and moves on claims rather than on time. It climbs 10% each time somebody present asserts a right to the object — picking it up, naming a keeper for it, proposing a destination, or speaking of it as belonging to the facility — and 10% again for any approach from a party asserting descent from a recorded owner. It falls 10% for each owner newly documented by name during the response, with their register reference attached. Documenting an owner is the only action that lowers it, and the documentation has to be of somebody else.
+- **Sorrow Gauge in the event:** Opens at 40% and moves on claims rather than on time. It climbs 10% each time somebody present asserts a right to the object — picking it up, naming a keeper for it, proposing a destination, or speaking of it as belonging to the facility — and 10% again for any approach from a party asserting descent from a recorded owner. It falls 10% for each owner newly documented by name during the response, with their register reference attached. Documenting an owner is the only action that lowers it, and the documentation has to be of somebody else.
 
 ## M.A.W. Equipment
 
@@ -172,7 +176,7 @@ Relic of a Thousand Owners is a Subject with Subject-Phantasmal manifestation an
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-Appearance : A thirty-inch curved falchion with a heavy flared cutting belly, its steel surface etched with undulating waterfall channels that guide flowing Lament water toward the tip.
+**Appearance:** A thirty-inch curved falchion with a heavy flared cutting belly, its steel surface etched with undulating waterfall channels that guide flowing Lament water toward the tip.
 
 The heavy tip provides devastating chopping power that shears cleanly through reinforced protective garments. The fluid channels ensure the blade never binds or sticks in dense biological matter.
 
@@ -185,11 +189,11 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 **Attack Pattern:** Skewer
 **Target Coverage:** A single line, reaching up to three targets standing in the falchion's arc
 **Falloff Rule:** 100% to the first target, 70% to the second, 50% to the third — the flow along the blade's channels thins as it passes.
-**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the cut and the sorrow that pools afterward are tracked apart.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation. The cut and the sorrow that pools afterward are tracked apart.
 
 **Ability:** Slows hostile emotional momentum.
 
-**Cost:** The wielder feels every exile carried by the weapon.
+**Bearer cost:** The wielder feels every exile carried by the weapon.
 
 ### M.A.W. Suit — The Flowing Shroud
 
@@ -207,7 +211,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against grief that belongs to other people. It holds against the pressure and not against the names, which are not an attack and which every wearer reports hearing as clearly as they did without it.
 
-**Cost:** The wearer stops feeling small pleasures and begins keeping whatever comes their way; handing anything on gets harder with every cycle.
+**Bearer cost:** The wearer stops feeling small pleasures and begins keeping whatever comes their way; handing anything on gets harder with every cycle.
 
 ### M.A.W. Stigma — The Flowing Charm
 
@@ -221,7 +225,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Ability:** Grants a minor boon drawn from the source's own nature — anything the bearer carries for somebody else is never lost, never damaged, and never mislaid, for as long as it remains someone else's.
 
-**Cost:** The bearer weeps in their sleep.
+**Bearer cost:** The bearer carries other people's things perfectly and cannot set any of them down, because the moment a thing becomes theirs the charm stops holding it.
 
 *A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, which is the only transfer anything in this chamber has ever completed cleanly.*
 
@@ -245,7 +249,7 @@ Every piece in this set was taken from the figure and never from the object it c
 
 - The object's form is different at every documented sighting, and the variation is strongest within sight of the Gate.
 - Appearances cluster around departures through the Gate, closely enough that the exile roll is a better predictor of a sighting than any instrument the wing holds.
-- The figure never resolves completely; observers who describe it as solid are recording the moment the outline held longest, not a change in the entity.
+- The figure never resolves completely. Observers who describe it as solid are recording the moment the outline held longest, not a change in the entity.
 
 **Personnel Note:** *"It was glowing. I felt sorrow. The Relic had traveled with so many exiles that it no longer knew whether leaving was escape or inheritance."* — Researcher, R.D.
 
@@ -256,7 +260,7 @@ Every piece in this set was taken from the figure and never from the object it c
 | **Initial exposure** | A translucent figure in the posture of carrying, at a distance it chooses. Record the figure and disregard the relic entirely for identification purposes. |
 | **Sustained observation** | Height, the balance between the person-reading and the object-reading, how long either holds, the distance kept, and the relic's surfaces as a sequence of separate observations that are never reconciled with each other. |
 | **Activation or escalation** | Escalation is claiming. Record every assertion of a right to the object made by anybody present — picking it up, naming a keeper, proposing a destination, calling it the facility's — with who said it and when. |
-| **Post-contact review** | Every name the figure offered, written exactly as given and before the watch ends; the fragments left at its position; the independent form descriptions filed side by side; and the gauge against the claims log. |
+| **Post-contact review** | Every name the figure offered, written exactly as given and before the watch ends. The fragments left at its position. The independent form descriptions filed side by side. And the gauge against the claims log. |
 
 **Observation method:** Record the first visible sign, the first emotional response and what prompted it, the first measurable environmental change, and the condition that ended the encounter. The entity looks the way it does because of what happened to it rather than because of anything it intends toward the observer: a shape that cannot decide between a person and a possession is what a long chain of custody looks like once every link in it has gone. Two instructions are specific to this holding. Successive observations of the form are recorded as they come and are never combined into a single description. And any name the figure offers is written down exactly as given, before the watch ends, whether or not it can be traced.
 
@@ -294,13 +298,13 @@ A figure flows across the Gate's shadow carrying a relic that has no fixed shape
 
 
 
-**At first contact:** Contact begins on the approach rather than at a door, since there is no door here and nothing that opens. The air along the Gate road thickens and cools in the way Lament always changes a space, and then the figure resolves out of it: a ghostly shape carrying a relic that flows like liquid crystal in its hands, its outline moving between a person and the thing it is holding and settling as neither.
+**At first contact:** Contact begins on the approach rather than at a door, since there is no door here and nothing that opens. The air along the Gate road thickens and cools in the way Lament always changes a space. And then the figure resolves out of it: a ghostly shape carrying a relic that flows like liquid crystal in its hands, its outline moving between a person and the thing it is holding and settling as neither.
 
-**With continued exposure:** The names start. They come with places and circumstances, they are specific, and a few of them can afterwards be found in a register — which is the detail that does the damage, because a worker who has verified one name begins treating the rest as a backlog they are personally behind on.
+**With continued exposure:** The names start. They come with places and circumstances, they are specific. And a few of them can afterwards be found in a register — which is the detail that does the damage, because a worker who has verified one name begins treating the rest as a backlog they are personally behind on.
 
 **When the entity activates:** The figure intensifies where it stands and the structure cracks outward from that point. It does not advance. The air fills with weeping that wears down the will to keep working, and the chamber simply becomes impossible to remain in.
 
-**After departure:** What stays is the sense of having been entrusted with something. Staff posted along the exile routes report farewells that are not theirs and a reluctance to unpack; both are collected with the holding as exposure data and neither clears quickly.
+**After departure:** What stays is the sense of having been entrusted with something. Staff posted along the exile routes report farewells that are not theirs and a reluctance to unpack. Both are collected with the holding as exposure data and neither clears quickly.
 ## 상호작용 (Entity Interactions)
 
 | Entity | Interaction |
@@ -315,7 +319,7 @@ A figure flows across the Gate's shadow carrying a relic that has no fixed shape
 
 This holding is read against the Gate and the other records of objects that outlived their keepers, and the question put to every pairing is narrow: does the figure's route or outline change in the other presence. Nothing else has ever produced a measurable result here, and a pairing that produced only atmosphere is filed as producing nothing.
 
-**Interaction method:** Individual observation first, so that what each entity does alone is known before anything is claimed about a pair. The relations on file concern the Gate, its guardian, and other objects that outlived their keepers, so the question worth settling is whether the figure's route changes in another presence and whether its outline steadies or destabilises. Document what draws them together or pushes them apart, the range, the duration, the gauge and environmental effect on each side, and whatever lingers after separation. A result obtained once predicts nothing; a breach, a Sorrow Tide, an Ordeal or a transformation can alter the whole pattern, and the relation is re-verified each cycle.
+**Interaction method:** Individual observation first, so that what each entity does alone is known before anything is claimed about a pair. The relations on file concern the Gate, its guardian, and other objects that outlived their keepers, so the question worth settling is whether the figure's route changes in another presence and whether its outline steadies or destabilises. Document what draws them together or pushes them apart, the range, the duration, the gauge and environmental effect on each side, and whatever lingers after separation. A result obtained once predicts nothing. A containment event, a Sorrow Tide, an Ordeal or a transformation can alter the whole pattern, and the relation is re-verified each cycle.
 
 
 ### Entity Interaction Record
@@ -326,9 +330,9 @@ The Relic belongs among the sorrows that stick to objects outliving the hands th
 |---|---|---|---|
 | **The Exile's Gate** | Its appearances follow the Gate and it crosses in both directions despite the one-way rule. | The clustering is the strongest correlation in the file: sightings track the exile roll. The Gate's own readings do not move, in either direction, on any occasion recorded. | The exile roll against the sighting log, and the Gate's unchanged series. |
 | **The Guardian of the Gate** | The Guardian is said to remember its owners, and has never produced one. | Eleven co-presences. No name has ever passed between them, the figure's outline was unaffected on every occasion, and the Guardian's boundary behaviour was unchanged. The relationship is filed because the negative is worth having. | All eleven events, the name log, and both unchanged series. |
-| **The Returning Relic** | Both preserve an object that outlived its people; one is trying to get home and this one has nowhere to be returned to. | No joint work authorised and none sought. The two management conditions are incompatible — that holding is quieted by restoring an object to a place, and this one worsens the moment anybody proposes a destination. | The two management conditions side by side, and the reasoning recorded for refusing the pairing. |
+| **The Returning Relic** | Both preserve an object that outlived its people. One is trying to get home and this one has nowhere to be returned to. | No joint work authorised and none sought. The two management conditions are incompatible — that holding is quieted by restoring an object to a place, and this one worsens the moment anybody proposes a destination. | The two management conditions side by side, and the reasoning recorded for refusing the pairing. |
 
-**Interaction procedure:** Take each party's baseline on its own; bring the second along the Gate road and never into the line between the figure and the Gate. The first shared change is entered with its distance, its duration and what set it off, the gauge on both sides, and whatever remains changed once they are apart. This file's own extra field is the form record: every observer writes the outline down separately, and the accounts are filed side by side and never reconciled.
+**Interaction procedure:** Take each party's baseline on its own. Bring the second along the Gate road and never into the line between the figure and the Gate. The first shared change is entered with its distance, its duration and what set it off, the gauge on both sides, and whatever remains changed once they are apart. This file's own extra field is the form record: every observer writes the outline down separately, and the accounts are filed side by side and never reconciled.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -360,13 +364,13 @@ Some sorrows mourn an owner. Relic of a Thousand Owners mourns the having-none �
 **Common Name:** Relic of a Thousand Owners
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). It does not pursue. It intensifies where it stands, cracks the structure outward, and makes the position untenable; the standing hazard between breaches is the conviction it produces in competent people that they ought to look after it.
+**Threat Assessment:** Critical (δ). It does not pursue. It intensifies where it stands, cracks the structure outward, and makes the position untenable. The standing hazard between events is the conviction it produces in competent people that they ought to look after it.
 **Containment & Handling Procedures:**
 - All 4 Work Types valid; Flerehan and Ferrehan lower the gauge, Pugnahan gives the force back and lifts it.
 - Do not claim ownership in any form: no handling, no keeper named, no destination proposed, no reference to the object as the facility's.
-- On a Corrupt event, withdraw radially from the fixed point and seal the zone; the only action that lowers the gauge is documenting a further owner by name, with the register reference attached.
+- On a Corrupt event, withdraw radially from the fixed point and seal the zone. The only action that lowers the gauge is documenting a further owner by name, with the register reference attached.
 **Observation Notes:**
-- An object passed from exile to exile until it outlived all of them; what remains is the chain of custody walking about with nothing at the end of it.
+- An object passed from exile to exile until it outlived all of them. What remains is the chain of custody walking about with nothing at the end of it.
 - Engagements run twenty-four turns at a standing distance. Nothing is offered and nothing is taken, and anything the figure sets down stays where it fell.
 - Pieces are taken from the figure, never from the relic, and they bill the wielder in attachment rather than in injury.
 **Cross-References:** The municipal exile registers · the schedule of unverified accounts · the three unresolved descent approaches
@@ -375,9 +379,9 @@ Some sorrows mourn an owner. Relic of a Thousand Owners mourns the having-none �
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification is the frame and this record is the picture; read the Work Type responses, the breach geometry, the equipment charges and the interaction history together before acting on any entry. Then read the suppression condition, which is the whole of the holding's doctrine. Do not claim ownership; document its owners. Both halves are harder than they look. The prohibition binds the facility as much as the operator: this wing does not describe the object as its own in any correspondence, does not nominate a keeper for it, and does not adjudicate between the three parties who have written asserting descent from a recorded owner. All three approaches were acknowledged, none was resolved, and the covering note on the file gives the reason — the wing does not consider itself competent to decide, and the entity has shown no sign of recognising any of them. The positive half is the work. Owners are documented one at a time, by name, with a register reference where one exists and with the account marked unverified where one does not, and the schedule of unverified names grows faster than the traceable list and always will. The second difficulty is stated plainly in the protocol and not softened in any summary leaving this wing: the figure passes the Gate in both directions on no schedule, nothing here prevents it, and this entity is not contained in any meaningful sense. The facility's role is observation and record. Describing the arrangement as containment would be a convenience rather than a fact. Where the entity contradicts this record, trust the entity and preserve the contradiction.
+**Operational interpretation:** The classification is the frame and this record is the picture. Read the Work Type responses, the event geometry, the equipment charges and the interaction history together before acting on any entry. Then read the suppression condition, which is the whole of the holding's doctrine. Do not claim ownership; document its owners. Both halves are harder than they look. The prohibition binds the facility as much as the operator: this wing does not describe the object as its own in any correspondence, does not nominate a keeper for it. And does not adjudicate between the three parties who have written asserting descent from a recorded owner. All three approaches were acknowledged, none was resolved, and the covering note on the file gives the reason — the wing does not consider itself competent to decide, and the entity has shown no sign of recognising any of them. The positive half is the work. Owners are documented one at a time, by name, with a register reference where one exists and with the account marked unverified where one does not, and the schedule of unverified names grows faster than the traceable list and always will. The second difficulty is stated plainly in the protocol and not softened in any summary leaving this wing: the figure passes the Gate in both directions on no schedule, nothing here prevents it, and this entity is not contained in any meaningful sense. The facility's role is observation and record. Describing the arrangement as containment would be a convenience rather than a fact. An observation that contradicts the file is the record of what happened; the file is the record of what was expected. The addendum keeps both, labelled as such.
 
-**Review requirement:** Containment here is a process rather than a state, and after every incident, Sorrow Tide, Ordeal or unusual interaction the gauge, the exposure log, the figure's position and the fragment store are rechecked before work resumes, along with the activation count, which stands at 1 and leaves no margin. Four further items apply. Fragments left at its position are collected after departure and placed in sealed storage, identification is attempted, and the successes are the file's most uncomfortable documents, several items having been matched to people recorded as exiled and never heard from again; every match is notified to the relevant district office, and no notification has ever drawn a reply. The claims correspondence is reviewed without being decided. Any operator who proposed a destination for the object, however reasonably, is stood down the same day and the proposal is logged against the holding rather than against them, since custody is what this entity produces in people. And the radial withdrawal drill is rehearsed once a cycle with the neighbouring holding that shares the same breach geometry, alternating chambers so that each watch practises in a room it does not know — performance in the unfamiliar chamber is consistently worse and is recorded without comment, the two watches keep separate accounts of the exercise, and the accounts are exchanged annually and never combined.
+**Review requirement:** Containment here is a process rather than a state. And after every incident, Sorrow Tide, Ordeal or unusual interaction the gauge, the exposure log, the figure's position and the fragment store are rechecked before work resumes, along with the activation count, which stands at 1 and leaves no margin. Four further items apply. Fragments left at its position are collected after departure and placed in sealed storage, identification is attempted. And the successes are the file's most uncomfortable documents, several items having been matched to people recorded as exiled and never heard from again. Every match is notified to the relevant district office. And no notification has ever drawn a reply. The claims correspondence is reviewed without being decided. Any operator who proposed a destination for the object, however reasonably, is stood down the same day and the proposal is logged against the holding rather than against them, since custody is what this entity produces in people. And the radial withdrawal drill is rehearsed once a cycle with the neighbouring holding that shares the same event geometry, alternating chambers so that each watch practises in a room it does not know — performance in the unfamiliar chamber is consistently worse and is recorded without comment, the two watches keep separate accounts of the exercise. And the accounts are exchanged annually and never combined.
 ## Apex Record
 
 ### The Flowing Relic
@@ -390,11 +394,11 @@ It remembers each exile who held the object, and the remembering is demonstrable
 
 ### Passing the Gate
 
-It moves through the Gate and returns, on no schedule and without any apparent restriction, and the holding has no means of preventing this. The protocol is unusually direct about the consequence, stating that the entity is not contained in any meaningful sense, that the facility's role is observation and record, and that describing the arrangement as containment in correspondence would be a convenience rather than a fact. That wording is not softened in any summary prepared for the Directorate; the instruction to carry it verbatim is attached to the protocol and is signed by the commander of the day.
+It moves through the Gate and returns, on no schedule and without any apparent restriction, and the holding has no means of preventing this. The protocol is unusually direct about the consequence, stating that the entity is not contained in any meaningful sense, that the facility's role is observation and record, and that describing the arrangement as containment in correspondence would be a convenience rather than a fact. That wording is not softened in any summary prepared for the Directorate. The instruction to carry it verbatim is attached to the protocol and is signed by the commander of the day.
 
 ### Belonging to None
 
-The object survived all of its owners and belongs to nobody, and this has produced the file's one genuinely contested question: whether anybody has a claim. Three approaches have been received from parties asserting descent from a recorded owner. All three were acknowledged, none was resolved, and the file holds the correspondence with a covering note explaining that the wing has declined to adjudicate between claimants because it does not consider itself competent to and because the entity has shown no sign of recognizing any of them.
+The object survived all of its owners and belongs to nobody, and this has produced the file's one genuinely contested question: whether anybody has a claim. Three approaches have been received from parties asserting descent from a recorded owner. All three were acknowledged, none was resolved. And the file holds the correspondence with a covering note explaining that the wing has declined to adjudicate between claimants because it does not consider itself competent to and because the entity has shown no sign of recognizing any of them.
 
 ### Fragments of Broken Lives
 
@@ -402,11 +406,11 @@ It gathers pieces — small objects, mostly worthless, occasionally identifiable
 
 ### Shifting Between Forms
 
-The figure moves between a person's outline and an object's and does not hold either, and observers are instructed to record what they saw without attempting to reconcile successive observations. A composite description assembled from reconciled accounts is held in the file and is deliberately kept out of the briefing material, on the commander's standing instruction that it is accurate and unusable — staff who read it find it harder to work with than the raw accounts, and it tells a watch nothing the separate observations do not. New observers are given the accounts and not the composite.
+The figure moves between a person's outline and an object's and does not hold either, and observers are instructed to record what they saw without attempting to reconcile successive observations. A composite description assembled from reconciled accounts is held in the file and is deliberately kept out of the briefing material, on the commander's standing instruction that it is accurate and unusable — staff who read it find it harder to work with than the raw accounts. And it tells a watch nothing the separate observations do not. New observers are given the accounts and not the composite.
 
 ### The Corrupt Event
 
-It intensifies in place and cracks the structure around it rather than moving, and the response is radial withdrawal from a fixed point, drilled from random starting positions. The drill is shared with another holding in the wing that has the same breach geometry, and the two chambers rehearse together once a cycle. The joint exercise was proposed by the watches themselves rather than by operations, on the practical ground that the two teams would otherwise be the only people in the facility who knew how to do it.
+It intensifies in place and cracks the structure around it rather than moving, and the response is radial withdrawal from a fixed point, drilled from random starting positions. The drill is shared with another holding in the wing that has the same event geometry, and the two chambers rehearse together once a cycle. The joint exercise was proposed by the watches themselves rather than by operations, on the practical ground that the two teams would otherwise be the only people in the facility who knew how to do it.
 
 ### The Joint Drill
 
@@ -414,7 +418,7 @@ The shared rehearsal with the neighbouring holding alternates between the two ch
 
 Performance in the unfamiliar chamber is consistently worse and is recorded without comment.
 
-Each watch keeps its own record of the joint exercise and the two records are not reconciled afterward, which was a deliberate omission rather than an oversight. The wing's view, entered when the arrangement was approved, is that a single agreed account of a drill run by two teams in two rooms would be written by whichever of them was better at writing, and that two partial records disagreeing in places are a more useful thing for the next pair of watches to inherit. The records are exchanged annually. Neither watch has ever proposed combining them.
+Each watch keeps its own record of the joint exercise and the two records are not reconciled afterward, which was a deliberate omission rather than an oversight. The wing's view, entered when the arrangement was approved, is that a single agreed account of a drill run by two teams in two rooms would be written by whichever of them was better at writing. And that two partial records disagreeing in places are a more useful thing for the next pair of watches to inherit. The records are exchanged annually. Neither watch has ever proposed combining them.
 
 ### Sixty-One Confirmed, One Thousand Two Hundred and Forty-Seven Not
 
@@ -440,11 +444,11 @@ Worse, the declaration cannot be relied on. Four recovery statements contain the
 
 What the wing could control was exposure, and it took the blunt option.
 
-**No member of staff works this holding more than once in their career.** Not once a year — once. The roster is drawn facility-wide, the name is struck off permanently afterwards, and there are no exceptions for rank, specialism or request; three requests to return have been received and all three were refused in the same terms, with the file noting that a request to return is itself a reportable observation and is logged as one.
+**No member of staff works this holding more than once in their career.** Not once a year — once. The roster is drawn facility-wide, the name is struck off permanently afterwards. And there are no exceptions for rank, specialism or request. Three requests to return have been received and all three were refused in the same terms, with the file noting that a request to return is itself a reportable observation and is logged as one.
 
-The cost is expertise, and the wing has never pretended otherwise. A δ holding with a Corrupt breach geometry is worked, every single time, by people who have never worked it before. Continuity exists only in the written protocol and in the two watch commanders who supervise from the road and have never themselves taken a cycle. **No worker in the facility has more than one cycle's experience of this entity, and no worker ever will.** Nobody accrues the specialism, nobody carries the uplift, and the people who would be best at this are, by rule, the people who are never allowed near it again.
+The cost is expertise, and the wing has never pretended otherwise. A δ holding with a Corrupt event geometry is worked, every single time, by people who have never worked it before. Continuity exists only in the written protocol and in the two watch commanders who supervise from the road and have never themselves taken a cycle. **No worker in the facility has more than one cycle's experience of this entity, and no worker ever will.** Nobody accrues the specialism, nobody carries the uplift. And the people who would be best at this are, by rule, the people who are never allowed near it again.
 
-The operations board's objection is minuted and read at every annual review. Deliberately preventing the accumulation of competence on a Critical holding transfers risk from the object to the staff; the one-cycle rule guarantees that every response is run by novices; and the policy is unfalsifiable, because the absence of a custody incident is read as proof it works and an incident would be read as proof it is needed. The minute records the objection as **correct, including the last point**, records that the wing has no answer to it, and leaves the rule in force.
+The operations board's objection is minuted and read at every annual review. Deliberately preventing the accumulation of competence on a Critical holding transfers risk from the object to the staff. The one-cycle rule guarantees that every response is run by novices. And the policy is unfalsifiable, because the absence of a custody incident is read as proof it works and an incident would be read as proof it is needed. The minute records the objection as **correct, including the last point**, records that the wing has no answer to it, and leaves the rule in force.
 
 ## Trivia
 
@@ -457,8 +461,8 @@ The operations board's objection is minuted and read at every annual review. Del
 
 - **Classification detail:** Relic of a Thousand Owners is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its element is Lament, and the register keeps it in Zone E, in the country of the Exile's Gate.
-- **Recognition detail:** Identify it by the figure, never by what it is carrying. The outline that cannot settle between a person and an object is the constant here; the relic in its hands is different every time it is seen and is worthless as a marker.
-- **Record detail:** Relic-form entities and Gate-adjacent phantasmals both recur in the archive, and Zone E holds several that preserve objects outliving their owners. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, which here is the absolute prohibition on taking possession.
+- **Recognition detail:** Identify it by the figure, never by what it is carrying. The outline that cannot settle between a person and an object is the constant here. The relic in its hands is different every time it is seen and is worthless as a marker.
+- **Record detail:** Relic-form entities and Gate-adjacent phantasmals both recur in the archive, and Zone E holds several that preserve objects outliving their owners. Confirm the designation and the manifestation before a cycle is booked. The instructions diverge at the decisive point, which here is the absolute prohibition on taking possession.
 - **Containment detail:** Nothing here limits its movement, and what the perimeter contains is the paperwork rather than the entity. It crosses the Gate in both directions in defiance of the Gate's one-way rule, returns without notice, and radiates regardless of where it stands. Staff posted along the exile routes report farewells that are not theirs and a reluctance to unpack, and those reports are collected with the holding.
 ## Document Information
 

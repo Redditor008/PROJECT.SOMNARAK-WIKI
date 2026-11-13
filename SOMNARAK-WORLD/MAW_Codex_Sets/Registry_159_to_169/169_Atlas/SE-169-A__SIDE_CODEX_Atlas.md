@@ -9,7 +9,7 @@
 **SECC Designation:** `O-Iα-169 [WO]`  
 **Author:** Environmental Hazard Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Forge shared-support rotation
 
@@ -61,10 +61,10 @@ Atlas supports no visible load, yet never falls. Rust appears after unshared lab
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Tears do not replace an actual labor rotation. |
-| Pugnahan | Invalid for this Place entity. | N/A | Do not strike, brace against, or test the pillar’s load by force. |
+| Flerehan | Invalid for this Place entity. | Net-Neutral | Tears do not replace an actual labor rotation. |
+| Pugnahan | Invalid for this Place entity. | Net-Neutral | Do not strike, brace against, or test the pillar’s load by force. |
 | Viderehan | Reveals the structure it once supported. | Stable | Record the support history without treating the worker as equipment. |
-| Ferrehan | Tests whether a worker can stand without becoming support. | Down | Assign a relief team before the worker bears any Forge Weight. |
+| Ferrehan | Tests whether a worker can stand without becoming support. | Decrease | Assign a relief team before the worker bears any Forge Weight. |
 
 ### Expansion response
 
@@ -168,13 +168,3 @@ The set provides minor structural and Weight support. It must never be issued to
 **Entity links:** The Crumbling Saint; The Hollow Architect; The Sleeping Weight.  
 **Forge rule:** A braced worker is never a substitute for a repair plan, and a structural repair never erases the person who held before it.  
 **Item links:** `SE-169-B`, `SE-169-C`, and `SE-169-D` contain individual support, relief, and corrosion histories for Shared Support.
-
----
-
-**Document ID:** `SE-169-A`  
-**Linked Entity:** `SE-169`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

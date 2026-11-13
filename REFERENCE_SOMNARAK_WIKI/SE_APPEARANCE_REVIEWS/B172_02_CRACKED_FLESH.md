@@ -82,12 +82,12 @@
   "weapon_credit": 0,
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-A__SIDE_CODEX_Cracked_Flesh.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-B__MAW-W_Cracked_Flesh_s_Edge.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-C__MAW-S_Cracked_Flesh_s_Veil.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-D__MAW-G_Cracked_Flesh_s_Token.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-B__MAW-W_The_Awakened_Marrow_Spike_and_Tendril.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-C__MAW-S_The_Suture_Cracked_Hauberk.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-D__MAW-G_The_Fissured_Skin_Stigma.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
   ],
   "reasoning": "Whole412-line primary read, complete exact921A–D read (C/D reread after broad output truncated); fullB134unit4 in both logs. R18predeclared3batch-short/6careful-detail: same-file no-vessel, clock-holder exit and nonambulatory expansion copies; registeredOrganic clarification, concrete field/surface/uncertainprint profile, separate costs, consent-aware return, records-only interactions and no equipment dwell extension. City/Grudge/HazardBody→uncorroboratedtaking/unknownformation→ordinaryground/secondaryprints→fixedexpansion→dwell/timing/privacy/training→derivedSpikeTendril/Hauberk/Stigma traced.",
@@ -108,12 +108,12 @@
   "after_words": 6576,
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-A__SIDE_CODEX_Cracked_Flesh.md": "d607e918864cc5c633b973c3dddd5d269e649781045d9b698ac6ba065048a705",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-B__MAW-W_Cracked_Flesh_s_Edge.md": "afc86b2533b3e780e5dde41db41bff4b01c5d73a97a22d8005718389e035bef1",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-C__MAW-S_Cracked_Flesh_s_Veil.md": "b43b248151ceec3a49e4fdb0d699f9547a444accd346753d265bc5a22efba83b",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-D__MAW-G_Cracked_Flesh_s_Token.md": "501875374462443045addb3a86006e10eb0198d9288e60ac2d01978a6626ebf9",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-B__MAW-W_The_Awakened_Marrow_Spike_and_Tendril.md": "afc86b2533b3e780e5dde41db41bff4b01c5d73a97a22d8005718389e035bef1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-C__MAW-S_The_Suture_Cracked_Hauberk.md": "b43b248151ceec3a49e4fdb0d699f9547a444accd346753d265bc5a22efba83b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-D__MAW-G_The_Fissured_Skin_Stigma.md": "501875374462443045addb3a86006e10eb0198d9288e60ac2d01978a6626ebf9",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
   },
   "outputs": {

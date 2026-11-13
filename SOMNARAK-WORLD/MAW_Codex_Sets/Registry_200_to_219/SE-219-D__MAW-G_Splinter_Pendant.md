@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-G-219-01`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — bearer-bound to Researcher Euncris Park
 
@@ -17,6 +17,7 @@
 
 The Pendant is a Lament Han-crystal drop worn at the Tail slot. It remains cool until an emotional attack arrives, then fills with a tiny moving scene. Its weight bears no relation to its size.
 
+**Maximum Amount:** 2 — Limited
 Splinter bestowed the registered Pendant after Euncris completed Ferrehan beside an evaporating memory without trying to identify the dead by guesswork. Acquisition chance is 4%; no extraction procedure can produce it.
 
 ## Appearance
@@ -55,14 +56,3 @@ Splinter reflects the stored scene on one facet when the Pendant returns. The so
 **Care/release:** Suspend the Pendant over a shallow bowl near, but not under, Splinter. The bearer describes the dream; the person whose attack was stored confirms or corrects it. The scene drains as warm blue water and must evaporate under both witnesses.
 
 **Emergency shutdown:** Keep the bearer awake, isolate further emotional pressure, and expose the Pendant to open air. Never shatter it; the stored attack would strike every sleeper nearby.
-
----
-
-**Document ID:** `SE-219-D`  
-**Linked Entity:** `SE-219`  
-**Item Registry Code:** `MAW-G-219-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

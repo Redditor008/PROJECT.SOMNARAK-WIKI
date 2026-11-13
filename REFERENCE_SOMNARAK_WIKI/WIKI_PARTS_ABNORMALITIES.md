@@ -4,7 +4,7 @@
 **Authority:** Project Moon Wiki.gg + Fandom Mirror — Lobotomy Corporation Canon  
 **Purpose:** Canonical wiki-part index for the **entire `Abnormalities` page** as citable “something” — preserved verbatim in `[[URL](URL)]` form across both mirror domains, and mapped for **P.S. (Project Somnarak)** so Description + Information + Explanation become 1:1 clear. Use this file when you need to cite the page itself; use `WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` when you need §8 or §9 anchors only.  
 **Source Page:** `Abnormalities` — Lobotomy Corporation Wiki — **Whole Page**  
-**P.S. Whole-Universe Companion:** `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md` — the native `[[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")]` whole-universe index with Description + Information + Explanation (native counterpart to this page)
+**P.S. Whole-Universe Companion:** `REFERENCE_SOMNARAK_WIKI/GUIDES/WIKI_PARTS_SOMNARAK_WORLD.md` — the native `[[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")]` whole-universe index with Description + Information + Explanation (native counterpart to this page)
 
 ---
 
@@ -95,15 +95,15 @@ Verified `wiki.gg` Contents (2026-09-29):
 | Lobotomy `Abnormalities` Page | Somnarak (P.S.) Equivalent | Where to Read P.S. |
 |---|---|---|
 | **Abnormalities** (Hwansangche) whole page | **Sorrow Entities** (슬픔체, *Seulpeumche* + individual names) | `SOMNARAK-WORLD/Sorrow_Entities/` (291 dossiers) + `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/` |
-| §2 Behavior / Pairs & Families | **Behavior & Work-Preference** / **Paired Entities** | `TEMPLATES/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` (Work Notes, Paired Fact Sheet) |
-| §3 Origin (River / Bucket / Well / Cogito) | **Primordial River / The Root Grid / Mnemonic Wells / Lumen** | `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` + `CANON_TIMELINE.md` |
+| §2 Behavior / Pairs & Families | **Behavior & Work-Preference** / **Paired Entities** | `TEMPLATES/SE/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` (Work Notes, Paired Fact Sheet) |
+| §3 Origin (River / Bucket / Well / Cogito) | **Primordial River / The Root Grid / Mnemonic Wells / Lumen** | `CANON/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` + `CANON/CANON_TIMELINE.md` |
 | §4 Enkephalin | **Lumen / Resonance** (facility power analogue) | `SOMNARAK-WORLD/Master_Codices/05_Tactical_Systems_and_Operations/` |
 | §5 E.G.O / Stigmas / Corrosion | **M.A.W. (Memoria Armamentarium Weaponry)** Quadripartite: Side Codex + Weapon + Suit + Stigma; Corrosion → **Resonance Overload** | `REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv` + `TEMPLATES/02–05` |
 | §6 Related: Monsters / Ordeals | **Mugenhan Ecology** / **Ordeals (5 Colors × 4 Ranks)** | `SOMNARAK-WORLD/Mugenhan_Ecology/` + `SOMNARAK-WORLD/Ordeals/` |
-| §7 Gameplay | **Tactical Combat Engine** (Initiative, Stress, Resonance) | `SOMNARAK-WORLD/Tactical_Combat_Engine/` + `TEMPLATES/18_TACTICAL_COMBAT_ENGINE_TEMPLATE.md` |
+| §7 Gameplay | **Tactical Combat Engine** (Initiative, Stress, Resonance) | `SOMNARAK-WORLD/Tactical_Combat_Engine/` + `TEMPLATES/GAME/18_TACTICAL_COMBAT_ENGINE_TEMPLATE.md` |
 | **§8 Tool Abnormalities** | **Relic-Entities / Tool-Type Sorrow Entities** (Object/Place/Time → Viderehan+Ferrehan only) | `WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` + `PROJECT_MOON_RESEARCH/13_TOOL_ABNORMALITIES_ENCYCLOPEDIA.md` + `TEMPLATES/01` Two-Work-Type Rule |
-| **§9 Classification Code** | **SECC — Sorrow Entity Classification Code** `SE-[Origin]-[Rank][Potency]-[Number]` e.g., `SE-C-IIIβ-014` | `SOMNARAK-WORLD/Sorrow_Entities/README.md` + `TEMPLATES/23_CANONICAL_NAMING_AND_BANNED_STRINGS_TEMPLATE.md` |
-| §10 Codex / Dissolution | **Master Codices Archivum** | `SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/` |
+| **§9 Classification Code** | **SECC — Sorrow Entity Classification Code** `SE-[Origin]-[Rank][Potency]-[Number]` e.g., `SE-C-IIIβ-014` | `SOMNARAK-WORLD/Sorrow_Entities/README.md` + `TEMPLATES/FORMAT/23_CANONICAL_NAMING_AND_BANNED_STRINGS_TEMPLATE.md` |
+| §10 Codex / Dissolution | **Master Codices Archivum** | `PROJECT_MOON_RESEARCH/CROSS_VERSE/` |
 | §12 External Links | **REFERENCE_SOMNARAK_WIKI/** mirror set | This file + `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` |
 
 **Rule for P.S. writing:** `SOMNARAK-WORLD/` is in-universe and **bans PM terms** (`Abnormality`, `Tool Abnormality`, `E.G.O`). Cite this whole page only via HTML-comment footnote pointing here — never in body. `PROJECT_MOON_RESEARCH/` and `REFERENCE_SOMNARAK_WIKI/` are out-of-universe and may use PM terms freely for comparative research.
@@ -120,7 +120,7 @@ Verified `wiki.gg` Contents (2026-09-29):
 1. **This file** — `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES.md` — the **whole-page** SSOT (you are here) — two verbatim `[[URL](URL)]` links + full TOC description + P.S. mapping.
 2. **Section file** — `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` — section-level SSOT (§§8–9 anchors only) — now linked from here and references back here for whole-page context.
 3. **Volumes** — `PROJECT_MOON_RESEARCH/12_ABNORMALITY_ENCYCLOPEDIA.md` (standard) and `13_TOOL_ABNORMALITIES_ENCYCLOPEDIA.md` (tool) — headers now point to whole-page + section indexes.
-4. **Templates** — `TEMPLATES/24_WIKI_PART_ABNORMALITY_REFERENCE_TEMPLATE.md` (section-level) + this file’s scaffolds (whole-page) for any future `Abnormalities#` citation.
+4. **Templates** — `TEMPLATES/FORMAT/24_WIKI_PART_ABNORMALITY_REFERENCE_TEMPLATE.md` (section-level) + this file’s scaffolds (whole-page) for any future `Abnormalities#` citation.
 
 ---
 

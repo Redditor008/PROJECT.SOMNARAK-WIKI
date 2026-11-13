@@ -19,14 +19,14 @@ Primary anchors: Detailed Appearance Profile describes the bodiless heat-line an
 ### Unchanged source SHA-256 records
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-A__SIDE_CODEX_Animus.md` — `5515ccb32cbb0f7f19b45ecc884e2be2f8098ef29efb5fa2e294e6cd3a190699`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-B__MAW-W_The_Trace_Fang.md` — `ae6d6b9f9be7e206bbfcd9cfbea96cf0250ba65d83918c24f38a758bbbceb6a5`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-B__MAW-W_The_Phantom_Blade_Array.md` — `ae6d6b9f9be7e206bbfcd9cfbea96cf0250ba65d83918c24f38a758bbbceb6a5`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-C__MAW-S_The_Trace_Plate.md` — `11d8df292f274725c8d85eb9cd3dad6cd15e9702f8811dcf52fd0dcd017ac302`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-D__MAW-G_The_Trace_Ember.md` — `ece03e0bf746aea49f2068c726ea2c5e0cafea5dee4c79cd64f2ac58f11cbad4`
 - `SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-108_Animus_떠도는_흔적.md` — `a0dfc12186b74210128577d45e3274f5e1318c2ded88feb33f0bb791563e24cf`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` — `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`
 - `SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md` — `4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782`
-- `REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md` — `4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399`
-- `REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md` — `e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30`
+- `REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md` — `4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399`
+- `REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md` — `e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30`
 
 ## Holds and exclusions
 

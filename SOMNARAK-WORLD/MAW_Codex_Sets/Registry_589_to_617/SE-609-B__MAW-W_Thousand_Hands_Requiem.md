@@ -65,14 +65,3 @@ The weapon’s final palm line remains incomplete, warning that attribution may 
 Charm marks self versus other, Shield holds the projected impact, and Requiem removes possession. Their resonance preserves a life story without appointing a replacement owner.
 
 > *“Unknown is sometimes the only honest name a blade can protect.”* — Specialist Durivel Cho
-
----
-
-**Document ID:** `SE-609-B`  
-**Linked Entity:** `SE-609`  
-**Item Registry Code:** `MAW-W-609-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

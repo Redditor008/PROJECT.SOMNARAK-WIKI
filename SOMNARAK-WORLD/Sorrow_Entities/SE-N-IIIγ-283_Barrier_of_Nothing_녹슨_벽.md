@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dreamlike humanoid formed from rusted wall plates fused together — corroded, bleeding orange, standing beside the Exile's Gate though it blocks no passage. Lead-cold, it smells of wet iron and char; a wall that learned to walk. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — normally stands beside the Gate; in the two recorded escapes it walked out and stood elsewhere. No pursuit or obstruction is recorded. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, read off the transit line and never off the plates |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Weight — the cost is fourteen transits a cycle through a barrier with no substance |
 | **Activation threshold** | Continuous — it stands whether worked or not; there is no count to run down |
 | **Tool / M.A.W. grade** | γ · Halberd, Plate, Charm — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |
@@ -81,8 +82,8 @@
 | { *The Flake* [**Debuff**] } | "Rust flakes from the wall in sheets — and each flake, where it lands, begins to corrode what it touches." | [The Wall's corrosion spreads to the target's defenses.] | *Target suffers -10 Resolve; their own walls are rusting.* **[10 Weight DMG [Weight]]** | When the target stands near the Wall. |
 | { *The Structural Failure* [**Debuff**] } | "The wall groans — a deep, metallic sound — and you can see through it now, the rust has eaten so much." | [The Wall's integrity fails; the target senses the collapse coming.] | *Target loses 10 Resolve; everything is about to give way.* **[10 Weight DMG [Weight]]** | When the target leans on the Wall. |
 | { *The Iron Rain* [**Attack**] } | "A section of rusted wall breaks free — and the rust-hardened shards fall like blades." | [A volley of corroded metal strikes.] | *Inflicts Weight pressure and many thin, oxidized cuts.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck. |
-| { *The Full Collapse* [**Attack**] } | "The whole wall comes down, not struck but rotted through, and the cloud that comes up with it will not let anyone breathe." | [The failure lets go of everything the wall had been holding inside it.] | *A heavy Black implosion; the reading jumps 15%.* **[24-36 Weight DMG [Weight]]** | When the Wall is brought down. |
-| { *The Rusted City* [**Ultimate**] } | "Rust gets into every other wall on the ground, and it does not stop at one." | [The decay runs outward until no standing thing in the field is spared.] | *Everyone in range takes Weight pressure for three turns while the rust runs.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| { *The Full Collapse* [**Attack**] } | "The whole wall comes down, not struck but rotted through. And the cloud that comes up with it will not let anyone breathe." | [The failure lets go of everything the wall had been holding inside it.] | *A heavy Black implosion; the reading jumps 15%.* **[24-36 Weight DMG [Weight]]** | When the Wall is brought down. |
+| { *The Rusted City* [**Ultimate**] } | "Rust gets into every other wall on the ground. And it does not stop at one." | [The decay runs outward until no standing thing in the field is spared.] | *Everyone in range takes Weight pressure for three turns while the rust runs.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
@@ -116,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dreamlike humanoid formed from rusted wall plates. It appears beside the Exile's Gate and blocks no physical passage. |
-| **Position / movement** | Standing square to the old wall line during ordinary observation; it has moved in the two recorded escapes, then stood beside another passage without pursuing anyone or blocking the route. Compare its position, the line and the transit sheet. |
+| **Position / movement** | Standing square to the old wall line during ordinary observation. It has moved in the two recorded escapes, then stood beside another passage without pursuing anyone or blocking the route. Compare its position, the line and the transit sheet. |
 | **Material / signature** | Weight. Rusted plate, bleeding orange, lead-cold; wet iron and char. No sound at any range. |
 | **Distinctive markers** | The accumulating marks on the plates and the fact that people walk through where it is standing. |
 | **Identification** | Subject-Dream, not a structure. If it is not standing in the shape of a man, it is one of the other wall files. |
@@ -129,17 +130,17 @@
 - **Formation:** From a boundary that outlasted its own reason and was never taken down.
 - **The Sorrow:** Not exclusion. The exclusion ended; nobody rescinded it, because there was no one left to rescind it to and no procedure for doing so.
 - **The Event:** The camp built a wall, defined itself by which side it stood on, and then went around it one at a time over some years. Nobody dismantled it. There was no step in anybody's procedure that said to.
-- **The People:** Exiles of the Gate camp, named on the construction roster that survives with days worked against each name; most of those names appear again in the Gate's outward passage records.
+- **The People:** Exiles of the Gate camp, named on the construction roster that survives with days worked against each name. Most of those names appear again in the Gate's outward passage records.
 - **Expanded origin context:** The construction roster survives, names against days worked. Most of those names appear again in the Gate's outward passage records, each at a different date, each alone. The archivist's note sets the two documents side by side and observes that they show a group of people building a barrier and then individually going around it. The wall is the only party to the arrangement that stayed.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The plates loosen and one departure surfaces — a date, a direction, never a name. | Decrease |
-| **Pugnahan** | Plates harden; the dream-space narrows around everyone sleeping on the holding that night. Not used. | Increase |
-| **Viderehan** | It shows who stood on each side and which of them later crossed. | Stable |
-| **Ferrehan** | The long stand on the transit line, between two sides with nobody on either. | Decrease |
+| **Flerehan** | The plates loosen and one departure surfaces — a date, a direction, never a name. | Decrease · High |
+| **Pugnahan** | Plates harden; the dream-space narrows around everyone sleeping on the holding that night. Not used. | Increase · Low |
+| **Viderehan** | It shows who stood on each side and which of them later crossed. | Stable · Common |
+| **Ferrehan** | The long stand on the transit line, between two sides with nobody on either. | Decrease · Common |
 
 
 
@@ -165,7 +166,7 @@ The gauge falls under both Flerehan and Ferrehan and tells the supervisor very l
 
 - **Breach type:** Escape — it leaves the Gate vicinity and stands somewhere else. In both recorded escapes it obstructed nothing and was found square to a doorway it was not blocking.
 - **Containment priority:** Do not force it. Pugnahan hardens it and narrows the dream-space across the whole wing; the two recorded escapes both ended in speech, by a Warden, inside four hours.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while it is left standing; it falls when a worker names, aloud and in front of it, both sides of a separation they are party to.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while it is left standing. It falls when a worker names, aloud and in front of it, both sides of a separation they are party to.
 
 ## M.A.W. Equipment
 
@@ -175,7 +176,7 @@ The gauge falls under both Flerehan and Ferrehan and tells the supervisor very l
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-Appearance : A heavy seven-foot polearm mounting a broad axe blade, a reinforced back-hook, and a four-edged top spike, all heavily coated in dark orange oxidation and secured to an oak haft.
+**Appearance:** A heavy seven-foot polearm mounting a broad axe blade, a reinforced back-hook, and a four-edged top spike, all heavily coated in dark orange oxidation and secured to an oak haft.
 
 The heavy head is reinforced with dual steel langets extending eighteen inches down the haft. The square back-hook allows the bearer to snag shields and demolish reinforced timber palisades.
 
@@ -192,7 +193,7 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 
 **Ability:** Cuts rusted plate and timber. On this holding it is carried for the Gate's own fabric and has never been turned on the entity.
 
-**Cost:** The wielder tires early and keeps tiring early for some weeks after handing it in.
+**Bearer cost:** The wielder tires early and keeps tiring early for some weeks after handing it in.
 
 ### M.A.W. Suit — The Rust Wall Plate
 
@@ -210,7 +211,7 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 
 **Ability:** The wearer cannot be moved off a line they have taken — which is the whole of the Ferrehan stand on this holding.
 
-**Cost:** The wearer is hard to admit into a room. Crews report it before the wearer does.
+**Bearer cost:** The wearer is hard to admit into a room. Crews report it before the wearer does.
 
 ### M.A.W. Stigma — The Rust Wall Charm
 
@@ -224,7 +225,7 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 
 **Ability:** The bearer can tell, without being told, which people in a room are barred from somewhere and which are not.
 
-**Cost:** The bearer moves slower, and stops at thresholds without deciding to.
+**Bearer cost:** The bearer moves slower, and stops at thresholds without deciding to.
 
 *The charm is given, not issued: three exist, all three to Wardens who had stood a full cycle, and the entity has given none since Year 4231.*
 
@@ -236,14 +237,14 @@ The halberd belongs to the Gate's fabric and the plate to the Ferrehan stand. Th
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Name the piece and its bearer. For the halberd, establish fatigue before issue; for the Plate, name the colleague who will notice exclusion from a room; for the Charm, record the bearer's ordinary stride and threshold hesitation. These are different costs, not one shared fatigue scale. |
+| **Before use** | Name the piece and its bearer. For the halberd, establish fatigue before issue. For the Plate, name the colleague who will notice exclusion from a room. For the Charm, record the bearer's ordinary stride and threshold hesitation. These are different costs, not one shared fatigue scale. |
 | **During use** | Keep the halberd directed at the Gate's timber or plate, never at the Subject. Record early tiring for its wielder, failed welcome for the Plate wearer, and slowing or threshold stops for the Charm bearer. The linked Maul's closure-breaking account remains a separate unresolved Weapon record. |
 | **At limit** | The outside observer names the affected piece and the sign actually seen. A Plate wearer no longer noticing exclusion is not evidence that the halberd wielder or Charm bearer has the same symptom. Do not turn the source's non-obstruction into permission to force an equipment wearer across a threshold. |
 | **After use** | Continue the halberd wielder's fatigue record after hand-in. Ask colleagues whether the Plate wearer is still being left outside the room, and record whether the Charm bearer still hesitates at thresholds. The granted Charm is not an issued piece to be returned by copying the Weapon procedure. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 
-**Full-set source review (2026-10-13):** Reviewed the corrected `γ` grade overview, all three local equipment blocks, Use Notes, Field Use Record, Stat interpretation, and the separate M.A.W.-debit claim. Exact join: Side `SE-283-A` (`N-IIIγ-283 [WS]`, `4/4`, `SE-283`), with `SE-283-B/C/D`; Registry rows 571–574; Master M.A.W. rows/details 424–426; Entity Codex row 509 / Tale 142; archetype `MAW-W-283`. Local Weapon’s Weight 7–12 / Fast 3 / Medium 3 / Skewer / max 3 / 40-Echo profile agrees with Side A/B. Keep the local *Rust-Wall Halberd* and W-283 polearm/Room index separate from Side/item B and Master Entry 424’s *Rust Wall Maul*; Master table row 424 still says Halberd, and neither record supplies a transition. The archetype’s Room band is not substituted for the item’s Range statistic. Suit values align. Head / 4% Stigma aligns; the effect now names +2 Resolve from Side A/D. Registry row 574’s generic Accessory / 5% does not replace exact 4%. Tale 142 still classifies this designation as Residue I / Minor α, unlike the corrected primary and Side III / γ; that source conflict remains held. No linked evidence file changed. This is the first source-led disposition for exact `SE-283-B`.
+**Full-set source review (Year 4238):** Reviewed the corrected `γ` grade overview, all three local equipment blocks, Use Notes, Field Use Record, Stat interpretation, and the separate M.A.W.-debit claim. Exact join: Side `SE-283-A` (`N-IIIγ-283 [WS]`, `4/4`, `SE-283`), with `SE-283-B/C/D`; Registry rows 571–574; Master M.A.W. rows/details 424–426; Entity Codex row 509 / Tale 142; archetype `MAW-W-283`. Local Weapon’s Weight 7–12 / Fast 3 / Medium 3 / Skewer / max 3 / 40-Echo profile agrees with Side A/B. Keep the local *Rust-Wall Halberd* and W-283 polearm/Room index separate from Side/item B and Master Entry 424’s *Rust Wall Maul*. Master table row 424 still says Halberd, and neither record supplies a transition. The archetype’s Room band is not substituted for the item’s Range statistic. Suit values align. Head / 4% Stigma aligns; the effect now names +2 Resolve from Side A/D. Registry row 574’s generic Accessory / 5% does not replace exact 4%. Tale 142 still classifies this designation as Residue I / Minor α, unlike the corrected primary and Side III / γ; that source conflict remains held. No linked evidence file changed. This is the first source-led disposition for exact `SE-283-B`.
 
 ## 관찰 기록 (Observation Log)
 
@@ -272,7 +273,7 @@ The halberd belongs to the Gate's fabric and the plate to the Ferrehan stand. Th
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Barrier of Nothing's entry (N-IIIγ-283 [WS]) reads Subject-Dream manifestation, Weight expressed; it stands at Zone E in the Exile's Gate vicinity, behind a transit line and no door. It obstructs nothing. The holding's instruction is that it is worked from the line, that Pugnahan is not applied, and that the marks on its plates are not interpreted.
+Barrier of Nothing's entry (N-IIIγ-283 [WS]) reads Subject-Dream manifestation, Weight expressed. It stands at Zone E in the Exile's Gate vicinity, behind a transit line and no door. It obstructs nothing. The holding's instruction is that it is worked from the line, that Pugnahan is not applied, and that the marks on its plates are not interpreted.
 
 **Entry 2 — <Excerpt from Infirmary Duration Column, Year 4238>**
 Mean dream-rust duration for the cycle, 31 days, against 24 the previous year and 19 the year before. Column printed as it stands, without comment, under the heading that says only how long afterward.
@@ -283,7 +284,7 @@ Fourteen transits, no obstructions. One entry out of order: a worker who came to
 Entry filed by the Warden rather than the counselor, there being no counselor at the Gate. Recommendation: the standing-bar roster for this wing should be read in the supervisors' briefing, since every worker on this holding is on it or knows who is.
 
 **Entry 4 — <Containment Notice>**
-Management: name both sides of a separation you are party to, aloud, in front of it; neutrality is not accepted. Work response — Flerehan: one departure surfaces, date and direction, never a name (Decrease); Pugnahan: plates harden, dream-space narrows across the wing, not used (Increase); Viderehan: it shows who stood on each side and which of them crossed (Stable); Ferrehan: the long stand on the transit line (Decrease). Dream-rust duration opened on every worker who stood the line.
+Management: name both sides of a separation you are party to, aloud, in front of it; neutrality is not accepted. Work response — Flerehan: one departure surfaces, date and direction, never a name (Decrease). Pugnahan: plates harden, dream-space narrows across the wing, not used (Increase). Viderehan: it shows who stood on each side and which of them crossed (Stable). Ferrehan: the long stand on the transit line (Decrease). Dream-rust duration opened on every worker who stood the line.
 
 **Entry 5 — <Archive Note>**
 The construction roster and the Gate's outward passage records are held together in one folder by order of the second Warden, who wrote on the cover that they should not be separated because apart they are two ordinary documents and together they are the file.
@@ -305,15 +306,15 @@ You dream of a wall that has no end. On one side stands the city; on the other, 
 
 **At first contact:** Weight first, lead-cold, wet iron and char, and no sound at all. Then the figure: plate fused into a standing shape beside the Gate, bleeding orange, square to a wall that is not there. Someone walks through the space it occupies while you are still looking at it.
 
-**With continued exposure:** The infirmary counts days of rust in sleep after a watch, not stretched time at the Gate. Its duration column lengthens while the transit count stays steady and nobody is obstructed. Keep the worker's duration beside the standing-bar roster; the Tale tests that relationship against transit count, extent, season and hours stood, without treating the match as proof of a cause.
+**With continued exposure:** The infirmary counts days of rust in sleep after a watch, not stretched time at the Gate. Its duration column lengthens while the transit count stays steady and nobody is obstructed. Keep the worker's duration beside the standing-bar roster. The Tale tests that relationship against transit count, extent, season and hours stood, without treating the match as proof of a cause.
 
-**When the entity activates:** Its standing presence is continuous. The recorded escalation after Pugnahan is harder plate, extension along the old wall line and a narrower dream-space for the wing's sleepers. This is not a finding that the route has closed. Withdraw to the transit line and record who applied what; the action table and linked Side Codex still carry physical attacks and closure claims that the holding's non-obstruction record does not reconcile.
+**When the entity activates:** Its standing presence is continuous. The recorded escalation after Pugnahan is harder plate, extension along the old wall line and a narrower dream-space for the wing's sleepers. This is not a finding that the route has closed. Withdraw to the transit line and record who applied what. The action table and linked Side Codex still carry physical attacks and closure claims that the holding's non-obstruction record does not reconcile.
 
 **After departure:** Departure is not relief. The Subject-Dream is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
 
 ### Interaction Pattern
 
-The Wall is filed beside three others — The Guardian of the Gate, The Forgotten Soldier and The Drift Fog — and none of the three is a friend to it or a declared opponent; the link between them is a question the post has never finished answering. Any pairing is written up as a difference: which sound changed, how the rustline moved, the temperature of the air, the weight on memory, the gauge, and the steadiness of containment, each with the distance over which it showed, how long it persisted, and what set it going.
+The Wall is filed beside three others — The Guardian of the Gate, The Forgotten Soldier and The Drift Fog — and none of the three is a friend to it or a declared opponent. The link between them is a question the post has never finished answering. Any pairing is written up as a difference: which sound changed, how the rustline moved, the temperature of the air, the weight on memory, the gauge. And the steadiness of containment, each with the distance over which it showed, how long it persisted, and what set it going.
 
 **Interaction method:** On this holding the question is never whether the two resonate. It is whether anybody was obstructed while the other file was near, and whether the duration column moved for the workers who slept in the wing that night. The three related files are all boundary files, which is exactly why the Gate keeps them apart on paper: a crew that has read the wrong one arrives expecting something that stops people.
 
@@ -324,7 +325,7 @@ The file sets the Barrier beside the other boundary holdings and keeps each of t
 
 | What the wall holds apart | How the pairing has run | What the post entered | What the file carries |
 |---|---|---|---|
-| **The Guardian of the Gate** | Opposed rather than kindred: the Guardian enforces a boundary that exists; this one observes a boundary nobody is enforcing. | In the single recorded proximity the barrier withdrew along its line to half its extent and the Guardian did not react at all. | Extent before and after, transits, and whether anybody was actually stopped. |
+| **The Guardian of the Gate** | Opposed rather than kindred: the Guardian enforces a boundary that exists. This one observes a boundary nobody is enforcing. | In the single recorded proximity the barrier withdrew along its line to half its extent and the Guardian did not react at all. | Extent before and after, transits, and whether anybody was actually stopped. |
 | **The Forgotten Soldier** | The Soldier takes post against this one's line and holds it, unasked, against nothing. | Transits unaffected; both entities stationary; the duration column ran four days long for the wing that cycle. | Who took post where, how long, and the duration figures for everyone who slept in the wing. |
 | **The Drift Fog** | The Fog settles on one side of the line in dreams and not the other, which is the only evidence on file that the line means anything to anything but the wall. | No operational effect recorded in three proximities; the asymmetry was noted by two sleepers independently. | Which side the Fog took, who reported it, and whether they had been told what to expect. |
 
@@ -356,20 +357,20 @@ Some sorrows are about exclusion. This one is about the exclusion nobody is enfo
 > *“They read my bar out last year without my asking, which is the point of the thing, and it fell. I went back. Nine weeks later a man died on my watch and the inquiry found the restoration proper. I have not worked since.”* — Restored Warden, name withheld
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner Sorrow (내한) origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Dream manifestation. The earlier Residue (I) / Minor (α) entry contradicted the SECC header and has been corrected.
+**Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner Sorrow (내한) origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Dream manifestation.
 **Common Name:** Barrier of Nothing
 **Containment Status:** Contained in place — Zone E, Exile's Gate vicinity, transit line and no door; Pugnahan not applied; panel impressions filed unread. The earlier Gate District entry contradicted the SECC header.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ), corrected from the earlier Low entry. It obstructs nothing, pursues nobody and has never injured a worker. The documented harm is the dream-rust duration, which is measured in days, has lengthened across the life of the holding, and falls heaviest on the workers of this facility who are carrying a bar nobody can lift.
+**Threat Assessment:** Major (γ). It obstructs nothing, pursues nobody and has never injured a worker. The documented harm is the dream-rust duration, which is measured in days, has lengthened across the life of the holding, and falls heaviest on the workers of this facility who are carrying a bar nobody can lift.
 **Containment & Handling Procedures:**
-- Ferrehan is primary — the long stand on the transit line — with Flerehan beside it; Viderehan records who stood on either side. The earlier entry naming Viderehan primary has been corrected against the Behavior table.
+- Ferrehan is primary — the long stand on the transit line — with Flerehan beside it; Viderehan records who stood on either side.
 - Pugnahan is not applied: it hardens the plates and narrows the dream-space across everybody sleeping in the wing.
 - One barrier test per session, by one named worker, recorded.
 - Panel impressions taken each cycle, dated, boxed in order, and not interpreted.
 - The Lapse Review is a condition of this holding's containment, and it binds every standing exclusion the facility holds.
 **Observation Notes:**
-- Dream-rust duration opened on every worker who stands the line and closed when the rust leaves their sleep; cycle mean 31 days, against 24 and 19 in the two years immediately before.
-- Durations lengthen with the count of standing bars whose stated grounds have lapsed; tested against transit count, barrier extent, season and worker hours, none of which fit.
+- Dream-rust duration opened on every worker who stands the line and closed when the rust leaves their sleep. Cycle mean 31 days, against 24 and 19 in the two years immediately before.
+- Durations lengthen with the count of standing bars whose stated grounds have lapsed. Tested against transit count, barrier extent, season and worker hours, none of which fit.
 - Fourteen transits in a standard cycle and no obstruction in ninety years of sheets.
 - Construction roster and outward passage records held in one folder by standing order of the second Warden.
 **Cross-References:** Zone E, Exile's Gate vicinity · the Warden's transit sheets · the boxed panel impressions and the two Wardens' notes on stopping · the infirmary duration column · the construction roster and outward passage folder · the Medical Board submission of Year 4230 · the standing-bar roster · the Y4237 Lapse Review return: 1,312 bars read, 604 lapsed and fell, 41 returns to the originating wing, 9 re-presentations within the year and 2 of those during a breach, 83 opt-out requests refused, one restored Warden now unemployable · The Vanished Wall · The Soaking Wall · The Guardian of the Gate
@@ -399,11 +400,11 @@ Its corrosion spreads in dreams rather than on metal, and personnel who have wor
 
 The duration column was begun by an infirmary clerk who wanted to know when a worker could be put back on the roster, and it was kept for ninety years as a staffing figure. It lengthened. Nobody set it beside anything, because nothing at the Gate was changing: the transits held steady at fourteen a cycle, the barrier held its extent, the panel filled at its own rate. In Year 4234 the Gate's Warden — herself barred from another wing on grounds signed off five years earlier — laid the column against the facility's standing-bar roster and found that the durations rose with the count of bars whose stated grounds had lapsed. It has held in every year tested since, and fails against transit count, barrier extent, season, and the hours the worker actually stood.
 
-Nothing in the existing Record is overturned. The entity still obstructs nothing; the impressions are still filed unread and the restraint still stands; Pugnahan is still not applied; the roster and passage folder still sit together on the second Warden's order. The pairing is two columns of our own, one kept by the infirmary and one by personnel, neither of which has ever been shown to the other before.
+Nothing in the existing Record is overturned. The entity still obstructs nothing; the impressions are still filed unread and the restraint still stands. Pugnahan is still not applied; the roster and passage folder still sit together on the second Warden's order. The pairing is two columns of our own, one kept by the infirmary and one by personnel, neither of which has ever been shown to the other before.
 
 What it costs is the defence of the abolition. Ending the appeals process was right, and the Medical Board's evidence that quarterly reapplication was re-injuring Fractured workers has never been answered by anybody in this wing. The Gate's position is narrower: that the Board abolished the pleading and, with it, the only machinery that ever took a bar down, and that six hundred and four people in this facility are now standing on their side of a wall nobody is manning.
 
-The operational consequence lies outside the Gate entirely. Nothing done on the transit line has ever shortened a duration — not shorter watches, not rotation, not the two years of sleep instrumentation. What has moved with it — the single thing that ever has — is the Lapse Review: every standing exclusion read once a year against its own stated grounds, by the facility and not by the worker, with the bar falling automatically where the grounds have gone, and nobody ever required to ask. In Year 4237 that read 1,312 bars and dropped 604. Forty-one people went back to the wing they came from; nine of them presented again inside the year with the condition the bar had been written for, two of those during a breach; eighty-three workers asked not to be read at all and were refused, because an opt-out rebuilds the limbo the abolition was meant to end; and one Warden, restored on a lapse, fit by every measure, stood a watch in which a man died, was found by inquiry to have been properly restored, and has not worked since. The file sets those beside the duration column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+The operational consequence lies outside the Gate entirely. Nothing done on the transit line has ever shortened a duration — not shorter watches, not rotation, not the two years of sleep instrumentation. What has moved with it — the single thing that ever has — is the Lapse Review: every standing exclusion read once a year against its own stated grounds, by the facility and not by the worker, with the bar falling automatically where the grounds have gone. And nobody ever required to ask. In Year 4237 that read 1,312 bars and dropped 604. Forty-one people went back to the wing they came from. Nine of them presented again inside the year with the condition the bar had been written for, two of those during a breach. Eighty-three workers asked not to be read at all and were refused, because an opt-out rebuilds the limbo the abolition was meant to end. And one Warden, restored on a lapse, fit by every measure, stood a watch in which a man died, was found by inquiry to have been properly restored, and has not worked since. The file sets those beside the duration column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
 
 ### The Wall They Built
 
@@ -420,7 +421,7 @@ Exiles raised a wall near the Gate and then passed through it one at a time unti
 
 - **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, Comprehension Level 2, Subject-Dream. The Registrum previously recorded Residue (I) and Minor (α) against this same header; corrected.
 - **Field detail:** Weight; Zone E, Exile's Gate vicinity. The Operational Parameters line carried the M.A.W. grade as a pair of em dashes against three graded γ pieces and an activation threshold of 2 against an entity that simply stands; both corrected.
-- **Recognition detail:** Identify it by the rusted plate and the transit line, not by posture; the plates carry marks that look like a record and personnel are instructed not to read them.
+- **Recognition detail:** Identify it by the rusted plate and the transit line, not by posture. The plates carry marks that look like a record and personnel are instructed not to read them.
 - **Record detail:** Three wall files sit within sixty codes of this one. Read the designation. The Vanished Wall is an absence, the Soaking Wall is a structure, and only this one walks.
 - **Containment detail:** There is no seal and no door — a transit line, a prohibition on Pugnahan, a box of impressions nobody reads, and an annual reading of this facility's bars in another building.
 ## Document Information

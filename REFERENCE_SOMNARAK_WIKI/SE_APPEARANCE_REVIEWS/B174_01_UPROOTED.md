@@ -123,8 +123,8 @@
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "reasoning": "Complete411-line original and exact959A–D/README read. OutsideLament/FragmentSubjectGrudge→accumulatedsettlementroots/Tale→headlessmany-tendrilledserpent/notburningperson→foundationhauling/nightburial versus triggeredverticalcanopy→route/naming/FlerehanFerrehan→foundation-onlystrikes/blockedpassage→overnightstructuremeasure/threepairedroutes→αderivedrifle/harness/seedcharm traced. R18initial7short/8careful declared before initial primary edits; final reread prompted3additionalbatch-short repairs (primarymarker, Escape-label context and Work-conditional flame observation), predeclared before their writes. Total10short/8careful. Final full reread repeated after all checks. Repairs remove actual humanoid/prey shorthand and unsupported Tick procedure; keep explicit normal/escalated conditions instead ofinventedbodychanges.",
   "history": "Fresh exactSE959 set, not631UprootedGreatCleaver. FullMaster619–621index659–661/details7700–7731, Entity576 and completeTale20711577–11633 Graveweed name; CSV1111–1114; archetype397Shortrifle, disposition373Neutral read. WIP7990–8010/CHANGELOGvol02 1947–1960 record oldR29 one-sectioncleanup, B20itemAppearance expansion not individualwhole/sourceWeapon disposition. Master621FloatingOrbs&Coronets conflicts with specific seedcase/Tail, preserved as equipmenttaxonomyhold.  No earlier full/exactBcredit found across all WIP/CHANGELOGvolumes and ledger; +1Types/+1Weapon. α3–6/2Normal/2ShortSingle100%,5/15; Suit.4/1/1.6/.8,5/10; Tail5%+1unnamedstat align. Sourceγneednotshare derivedαgrade.",
@@ -146,8 +146,8 @@
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "final_sha": "9fa760ce2c45ccca61e5726935c5881e9aa98e081086045a8797171b28886e13",
   "before_words": 6495,

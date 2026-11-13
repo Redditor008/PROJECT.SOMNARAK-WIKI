@@ -99,7 +99,7 @@ The UCD executes its municipal pacification mandate through six specialized divi
 | Masonry                                                             |
 | POPULATION CAPACITY : 1,800 Sworn Officers, Forensic Staff &        |
 | Detainees                                                           |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TIER 01 (+40m to 0m) : Tactical Command Spire & Sonar               |
 | Communications                                                      |
 | TIER 02 (0m to -15m) : Administrative Bureaus & Actuarial Audit     |
@@ -153,12 +153,12 @@ The rank hierarchy of the UCD blends military discipline with civil judicial aut
 |   | Hull: Multi-Layer Adamantine Blast Plates                       |
 | - Crew: 12 Strike Officers                                          |
 |   | Armament: Roof-Mounted Acoustic Cannon (80 dB)                  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RAPID INTERCEPT  : 'STRIKE-INTERCEPTOR MK-II' (FAST RESPONSE VAN)   |
 | - Length: 8.2m | Velocity: 110 km/h                                 |
 |   | Role: High-speed pursuit & cordons                              |
 | - Crew: 4 Officers | Equipment: Automated magnetic tire-spikes      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | PRISON TRANSPORT : 'THE LEADED PADDYWAGON' (CLASS III CASK CARRIER) |
 | - Length: 12.0m | Mass: 28 Tons | Role: Prisoner & entity transport |
 | - Internal: 6 Leaded Basalt Stasis Cells with cryogenic lock rings  |
@@ -185,23 +185,23 @@ The criminal underworld of Somnarak is dominated by five entrenched syndicates, 
 | - Illicit Trade: Black-market counterfeit Veil stones, forged       |
 |   visas.                                                            |
 | - Sovereign Element: False Void | Primary Boss: Master Cho.         |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | FRAY 02: THE MEMORY WASHERS (ZONE B & C INTERIOR WAREHOUSES)        |
 | - Illicit Trade: Illegal neural memory erasure, identity theft.     |
 | - Sovereign Element: Stolen Lament | Primary Boss: Madame Jin.      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | FRAY 03: THE DEBT WEAVERS (ZONE C USURY ROW)                        |
 | - Illicit Trade: Predatory generational debt bonds, organs as       |
 |   collateral.                                                       |
 | - Sovereign Element: Crushing Weight                                |
 |   | Primary Boss: Chairman Barok.                                   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | FRAY 04: THE BLACK PIT BROKERAGE (ZONE D & E LOWER SHAFTS)          |
 | - Illicit Trade: Gladiatorial sorrow creature battles, blood        |
 |   betting.                                                          |
 | - Sovereign Element: Savage Grudge                                  |
 |   | Primary Boss: Pitmaster Therion.                                |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | FRAY 05: THE SHADOW COUNCIL (ZONE B SUNKEN SECTOR)                  |
 | - Illicit Trade: Elite political blackmail, municipal treason.      |
 | - Sovereign Element: Sovereign Corruption                           |
@@ -257,7 +257,7 @@ The apex strike squad of the UCD consists of six elite officers who execute the 
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | |--BREACH CORDON-| |--SLUICE ALLEY--| |--FOUNDRY FLOOR-| |--SANCTUM |
 | DAIS--|                                                             |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 01: Breach Cordon (Entry Ram / Cruiser 'The Iron Vanguard')  |
 | - Node 02-03: Tight Corridors & Sluice Alleys (Taeho & Joon         |
 |   Vanguard)                                                         |
@@ -269,7 +269,7 @@ The apex strike squad of the UCD consists of six elite officers who execute the 
 |   Rescue)                                                           |
 | - Node 10: Syndicate Command Dais / Cask Vault (Boss Core / Echo    |
 |   Strike)                                                           |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RANGE BANDS (1 TO 5):                                               |
 | - Band 1 (Nodes 01-02): Heavy Claymores, Tower Shields, Sapping     |
 |   Rams                                                              |
@@ -291,20 +291,20 @@ The apex strike squad of the UCD consists of six elite officers who execute the 
 |   squad-wide.                                                       |
 | - Asset Seizure: Yuna's audit hits drain 1 AP from the target.      |
 | - Bulwark Protection: Taeho's shield reflects 35% kinetic damage.   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P2: PANIC / COMPOSURE (CIVILIAN RESCUE & RIOT CONTROL)              |
 | - Composure Gauge (0-50 SP): Measures officer morale against        |
 |   terror.                                                           |
 | - Riot Panic (< 15 SP): Hostile syndicates attempt suicidal         |
 |   retreat.                                                          |
 | - Forensic Calming: Soojin's soothing protocols restore +15 SP.     |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P3: PARRY / PROTECTION (MAGNETIC BARRICADE & DAMPING CURTAIN)       |
 | - Magnetic Barricade: Joon deploys steel panels blocking ranged     |
 |   fire.                                                             |
 | - Damping Curtain: Cancels acoustic gunfire echoes above 70 dB.     |
 | - Kinetic Parry: Taeho deflects heavy melee strikes into ground.    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P4: POSTURE / POISE (MODULAR WEAPON DISMANTLE & TERMINAL ARREST)    |
 | - Modular Part Posture: Boss weapons/armor have discrete posture    |
 |   pools.                                                            |
@@ -334,7 +334,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [RAM-01] [TAEHO]  [JOON]   [ECHO]                                   |
 | [BOSS-C] [MINHO]  [YUNA]   [CAGE]        [CORE]                     |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 02: Commander Taeho (Speed 7 -> 4 AP | HP 4,100/4,100        |
 |   | SP 50/50)                                                       |
 | - Node 03: Engineer Joon (Speed 6 -> 3 AP | HP 3,500/3,500          |
@@ -372,7 +372,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [RAM-01]          [TAEHO]  [JOON]   [BOSS-C]                        |
 | [MINHO]  [YUNA]   [CAGE]        [CORE]                              |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 03: Taeho (Speed 8 -> 4 AP | HP 4,020/4,100 | SP 48/50)      |
 | - Node 04: Joon (Speed 7 -> 4 AP | HP 3,450/3,500 | SP 50/50)       |
 | - Node 05: Boss Cho (Speed 4 -> 2 AP | HP 4,400/5,800               |
@@ -402,7 +402,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [RAM-01]                   [TAEHO]  [BOSS-C]                        |
 | [JOON]   [YUNA]   [CAGE]        [CORE]                              |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 04: Taeho (Speed 9 -> 5 AP | HP 4,020/4,100 | SP 50/50)      |
 | - Node 05: Boss Cho (Speed 0 -> 0 AP | HP 280/5,800                 |
 |   | Posture 0/360)                                                  |
@@ -456,18 +456,18 @@ The complete sweep of the six anti-Fray operations is chronicled in the dedicate
 |   grid.                                                             |
 | - Hot pursuit transfers to SED; joint sweeps authorized under       |
 |   Protocol 09.                                                      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TREATY 02: THE RAW ENTITY CUSTODY TREATY (WITH REVERIE DIRECTORATE) |
 | - Mandatory 24-hour transfer of captured sorrow entities to R.D.    |
 |   Floor 2.                                                          |
 | - R.D. provides UCD with Class III MAW riot gear & acoustic         |
 |   dampeners.                                                        |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TREATY 03: THE TABOO RECLAMATION COMPACT (WITH MEMORY ARCHIVE)      |
 | - Seized illegal memory engrams transferred to Floor 01 for         |
 |   decontamination.                                                  |
 | - Prevents resurrected syndicate networks via cloned consciousness. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TREATY 04: THE CIVIL HARBOR PACT (WITH HORIZON CARAVAN)             |
 | - Refugee screening at Zone E gates; amnesty granted to defectors.  |
 +=====================================================================+

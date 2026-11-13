@@ -23,7 +23,7 @@ A translucent commoner remains perpetually mid-bow along the old Dawn routes, ca
 | Coherence / Potency | III / β |
 | Element | Weight |
 | Location | Old Dawn routes; Lantern dock and Echo Gardens, Zone D |
-| Gauge / Pressure | 435/435; starts 40–55% / 10–23 Weight |
+| Gauge / Pressure | 000/435; starts 000% / 10–23 Weight |
 | Movement / Resistance | 0.9 m/s / 30% Weight, 10% other |
 | Observation | 2 — Basic |
 
@@ -51,7 +51,7 @@ A translucent commoner remains perpetually mid-bow along the old Dawn routes, ca
 | Location | Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D |
 | R.D. Comprehension Level | 2 — Basic |
 | Starting Sorrow Gauge | 40–55% |
-| Activation threshold | 1 |
+| Activation threshold | A pause of more than a minute with an unplaceable letter in hand; Sorrow Gauge ≥ 60% |
 | Sorrow Gauge [HP] | 435/435 |
 | Han Pressure [ATK] | 10–23 per hit · Weight |
 | Speed | 0.9 m/s |
@@ -76,13 +76,3 @@ Iseulia carried one stone for nine years after the Bearer who saved her child ag
 ## M.A.W. PROHIBITION
 
 Director standing order forbids extraction. The source lists **The Undelivered Letter**, **Gratitude Mail**, and **The Warm Stone** as theories only. No `UNK-247-B/C/D` files or M.A.W. registry codes are authorized. Weaponizing gratitude would repeat the entity’s wound by making thanks a collectible obligation.
-
----
-
-**Document ID:** `UNK-247-A`  
-**Linked Entity:** `UNK-247`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

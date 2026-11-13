@@ -22,7 +22,7 @@ The Tree formed from the rage of a soldier never honored. The grief of sacrifice
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Lament / Zone C, Mask Market |
-| Gauge / Pressure | 390/390; starts 35–50% / 7–16 per hit · Lament |
+| Gauge / Pressure | 000/390; starts 000% / 7–16 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter. |
 
@@ -40,7 +40,7 @@ The Tree formed from the rage of a soldier never honored. The grief of sacrifice
 
 ## WITNESS RECORD — *The Drowned Roots Source-Trace*
 
-During the The Drowned Roots Source-Trace, the field team preserved this source fact: A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of sacrifice denied recognition and turned into resentment.
+During *The Drowned Roots Source-Trace*, the field team preserved this source fact: A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of sacrifice denied recognition and turned into resentment.
 
 ## M.A.W. SET — *Drowned Roots — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Drowned Roots Source-Trace, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Drowned Roots's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon severs only the immediate manifestation that violates this rule: Speak the soldier's duty without forcing a false name The set cannot heal the originating event. Misuse routes Drowned Roots's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-997-A`  
-**Linked Entity:** `SE-997`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

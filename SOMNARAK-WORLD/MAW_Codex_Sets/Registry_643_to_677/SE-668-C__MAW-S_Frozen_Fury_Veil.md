@@ -24,6 +24,10 @@ The Frozen Fury Veil is a pale gossamer veil smelling faintly of ash — the fir
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 2 / 45 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
 **Present Witness:** resists Void and prevents emotional fixation in the ruin’s final moment. Cost: the wearer feels faintly absent from themself.
 
 **Incident — Notice Repetition:** Iseulfros found an agent endlessly reading an evacuation notice. The Veil restored his current year but substituted a frozen resident’s face for his own until he stated he was witness, not inhabitant.
@@ -33,14 +37,3 @@ The Frozen Fury Veil is a pale gossamer veil smelling faintly of ash — the fir
 **Emergency shutdown:** two present witnesses call name and year while the wearer turns their back on the ruin.
 
 **Set link:** Veil protects current identity, Bracelet absorbs emotional attack, and Lens corrects the record.
-
----
-
-**Document ID:** `SE-668-C`  
-**Linked Entity:** `SE-668`  
-**Item Registry Code:** `MAW-S-668-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

@@ -567,7 +567,7 @@ Combat doctrine across Somnarak is codified into six distinct operational branch
 - **Macro Phase Combat Structure**: Exactly **six (6) Battle Turns compose one (1) Combat Phase**, concluding in systemic Phase-End Environmental Hazard and Equilibrium checks.
 
 ### The Six Branches:
-1. **Generic P.S. Combat Core (The Universal Engine)**: Universal mechanics of Tempo Dice, Clash resolution, SP Composure (-45 to +45), Sorrow Gauges (0–100%), Dual-Threshold Stagger (60% and 25%), and Quadripartite M.A.W. armaments.
+1. **Generic P.S. Combat Core (The Universal Engine)**: Universal mechanics of Tempo Dice, Clash resolution, SP Composure (-45 to +45), Sorrow Gauges (0–100% tactical; the dossier charges are read against the wall, `R-48`), Dual-Threshold Stagger (60% and 25%), and Quadripartite M.A.W. armaments.
 2. **Reverie Directorate (R.D.) Style**: Facility containment operations governed by the **Nine Echo-Cores** (Floors 1 to 8), mid-combat Work Cycle execution (Ferrehan, Flerehan, Pugnahan, Viderehan), emergency sector lockdown gates, and multi-color Ordeal suppression across the 10-node containment vault.
 3. **Underworld Cleanup Descend (UCD) Style**: Urban CQB across The Raw, featuring **Targeted Part Dismantling** (shattering enemy exoskeletons and weapon manifolds), in-combat forensic auditing by Yuna, and non-lethal hostage/foundation preservation behind Taeho's Obsidian Bastion.
 4. **Somnarak Exploration Decree (SED) Style**: Subterranean abyssal descents governed by **Strata Depth Atmospheric Pressure** (-50m to -3,500m), acoustic sonar decibel stealth to prevent awakening dormant behemoths, oxygen/fuel burn timers, and seismic piton anchoring.

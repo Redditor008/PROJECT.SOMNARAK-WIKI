@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 2 — Limited
 A deep-blue Tail charm containing one moving crack. Breach granted it after a worker accepted failed protection and established a limited current anchor. Bestowal chance is 4%.
 
 ## Appearance
@@ -30,14 +31,3 @@ The Charm identified a sealed room whose wall held physical force but not the in
 **Failures:** every imperfection becomes breach; detection is hidden to preserve confidence; marked failure is treated as proof all protection is useless.
 
 **Care:** Record stated limit, actual limit, failure path, and remaining useful protection separately.
-
----
-
-**Document ID:** `SE-339-D`  
-**Linked Entity:** `SE-339`  
-**Item Registry Code:** `MAW-G-339-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

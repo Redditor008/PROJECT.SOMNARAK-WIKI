@@ -2,6 +2,7 @@
 
 ---
 **Document ID:** `SE-689-D`  
+**Maximum Amount:** 4 — Stocked
 **Linked Entity:** `SE-689` — Face Beneath Masks  
 **Item Registry Code:** `MAW-G-689-01`  
 **Author:** Specialist Haneulash Yoon  
@@ -20,13 +21,3 @@ The Wall Shard is a head shard of pale glass — a fragment of the boundary the 
 **Corrosion:** every feeling is marked foreign; safe contact becomes impossible; terminal state walls the bearer from self-recognition.  
 **Maintenance:** log one accepted and one rejected contact.  
 **Removal:** bearer invites a witness to lift it; forced removal counts as intrusion.
-
----
-**Document ID:** `SE-689-D`  
-**Linked Entity:** `SE-689`  
-**Item Registry Code:** `MAW-G-689-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

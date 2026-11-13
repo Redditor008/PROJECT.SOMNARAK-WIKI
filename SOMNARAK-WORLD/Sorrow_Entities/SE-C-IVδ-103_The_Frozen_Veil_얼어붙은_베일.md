@@ -8,13 +8,13 @@
 |---|---|
 | **Designation** | `C-IVδ-103 [VS]` |
 | **Entity Type** | **Subject** — Can breach |
-| **Coherence** | Entity (IV) — Self-aware, cold, distant |
+| **Coherence** | Entity (IV) — cold, distant; self-awareness unresolved in the Side Codex |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Void |
-| **Physical Form** | Mixed — A humanoid figure made of frozen emotion rather than frozen water — beautiful, translucent, its body a shell of still, cold feeling. It radiates an emotional cold that numbs before it chills; bloodless-pale, it smells of ash. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Disputed — operational notes give no movement since placement; chamber and Escape accounts give unhurried walking. Held, not averaged. |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
@@ -26,14 +26,16 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Composure — emotional capacity and attachment, which drains while presenting as efficiency |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Activation threshold** | 1 |
+| **SE Effect** | **On the breach** — The Kind Healer refuses to approach; warmth cannot penetrate the Veil. |
+| **Work Damage** | 3–6 Void — the cost is storage work on a thing that has not moved and reads as though it might |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Vessel-Destructible** | No — physical force is ineffective; the shell cracks only under genuine, unarranged feeling |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Hold the condition and arrange nothing: genuine feeling thins the shell, force moves nothing, and Pugnahan is stable because it is irrelevant rather than resisted. The roster is drawn by lot from the qualified list and every substitution is written down with its reason. |
 
 ### Operational Notes
@@ -41,7 +43,7 @@
 - The Veil is held in deep storage and has not moved since it was placed there.
 - A cycle settles it further. Nothing on record has lifted the Veil, and the stillness is its stable state rather than a containment success.
 - A single ignored condition is enough to escalate it. There is no margin here, and conditions are confirmed by two operatives before any session begins.
-- Identity pressure acts on recall of what the Veil covers; personnel are debriefed at the storage door while the detail survives.
+- The drain acts on the feeling attached to a memory while its facts survive. Personnel are debriefed at the storage door in their own words while that feeling is still theirs to give.
 - Extraction is a separate risk event under its own authorization, and on this file that authorization sits above the chamber's own because every piece in the set borrows the same distance the room produces.
 
 ## Combat Record
@@ -51,11 +53,11 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Void pressure; 35% against other pressure types |
+| **Speed** | Not established — chamber accounts give unhurried perimeter walking while operational notes give no movement since placement. The dispute is held, not averaged |
+| **Resistance** | 45% against Void pressure; 35% against other pressure types as formal ratings — force is not resisted here, it is irrelevant. Working protection is the five-meter line: a named spotter outside it with absolute withdrawal authority, living-attachment checks every five minutes, and work inside the line timed in minutes. Drain rises by 5 for each attempt to provoke feeling while it is loose. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 947/947 |
-| **Han Pressure [ATK]** | 24–52 per hit · Void |
+| **Han Pressure [ATK]** | 30–58 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -66,11 +68,11 @@
 |---|---|
 | **Battle Length** | Long — 24 turns |
 | **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — Self-aware, cold, distant |
+| **Coherence** | Entity (IV) — cold, distant; self-awareness unresolved |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Viderehan and Ferrehan; Flerehan only when genuine and unscheduled. Pugnahan is recorded Stable because force is irrelevant here, not because it is a response; do not deploy against it. |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep storage — contained |
 | **Resolution Condition** | Tears and sincere emotional expression crack the Veil. Physical force is ineffective |
 
@@ -78,11 +80,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Ice Curtain* [**Debuff**] } | "The veil forms — a wall of translucent ice between you and everything you were reaching for." | [The Veil's barrier cuts the target off; isolation sets in.] | *Target suffers a Void mark; they are sealed away.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Veil descends. |
-| { *The Frost Spread* [**Debuff**] } | "The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute." | [The Veil's permafrost extends; the target's space shrinks.] | *Target loses clarity; the cold is consuming thought.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains behind the Veil. |
-| { *The Ice Spear* [**Attack**] } | "A spike of the frozen veil breaks free — and it is aimed at whatever was trying to get through." | [An ice-lance launches from the Veil.] | *Inflicts Void damage; the cold pierces through identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Veil is probed. |
-| { *The Full Shatter* [**Attack**] } | "The shell cracks across the sternum — the station the quarterly series measures — and everything the Veil was holding back comes through at once." | [A measured thinning rather than a blow; what was behind the shell arrives unimpeded.] | *A heavy Void surge; the target's Sorrow Gauge rises 15% and the shell reading drops for the turn.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the shell is thinned by genuine feeling. |
-| { *The Permafrost* [**Ultimate**] } | "Five meters is not a rule any more — the line painted on the floor is under the ice, and there is nobody outside it left to call a withdrawal." | [The drain goes past the marked line and out to the walls.] | *All in range lose emotional capacity for three turns; the spotter's authority to call a withdrawal survives the effect and is exercised in writing.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Ice Curtain* [**Debuff**] } | "The veil forms — a wall of translucent ice between you and everything you were reaching for." | [No wall forms. Inside five meters the cold arrives as numbness before temperature, and the worker is cut off while every instrument reads normal.] | *The worker suffers a Void mark to Composure. The spotter outside the line runs the living-attachment check every five minutes. Factual answers do not pass it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker crosses the five-meter line into the drain radius. |
+| { *The Frost Spread* [**Debuff**] } | "The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute." | [Nothing freezes over. What spreads is the loss of emotional meaning: the facts of affection remain available while the experience of why they mattered goes.] | *The worker loses Composure. The spotter watches what the worker does, not what they say — colleagues referred to by function instead of name is the call to withdraw.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker remains inside the line toward ten minutes, where the recorded loss of emotional capacity begins. |
+| { *The Ice Spear* [**Attack**] } | "Nothing breaks free and nothing is aimed. The shell simply gets thicker where you reached for it." | [The Veil does not attack. An attempt to force warmth or produce feeling is answered the only way the record shows: the shell thickens and the drain deepens.] | *Heavy Void pressure on Composure. Stop the prompt, withdraw, and enter the preparation beside the reading as its cause. Never send warmth in to force a cure.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When warmth is forced or feeling is deliberately provoked in its presence. |
+| { *The Full Shatter* [**Attack**] } | "The shell cracks across the sternum — the station the quarterly series measures — and everything the Veil was holding back comes through at once." | [A measured thinning rather than a blow; what was behind the shell arrives unimpeded.] | *A heavy Void wave. And the feeling that returns to exposed workers arrives together, as a delayed burden rather than relief. The shell reading drops for the turn. Do not try to repeat the moment — a staged second attempt thickens it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the shell is thinned by genuine, unplanned feeling. |
+| { *The Permafrost* [**Ultimate**] } | "Five meters is not a rule any more — the line painted on the floor is under the ice. And there is nobody outside it left to call a withdrawal." | [The drain goes past the marked line and out to the walls.] | *All in range lose emotional capacity for three turns; the spotter's authority to call a withdrawal survives the effect and is exercised in writing.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold after feeling has been arranged in its presence. |
 
 ### Battle Phases
 
@@ -94,8 +96,8 @@
 
 - A worker who cannot hold the cold does not become violent or panicked; they become efficient. The drain presents as composure — the reports written inside the line are the most orderly in the wing — and the counselors read that orderliness as the injury rather than as evidence against it.
 - The effect does not intensify with duration. It intensifies with staging. Every attempt to produce tears deliberately in the chamber — rehearsed recollections, bereavement material read aloud, the three sanctioned exercises of 4219 — has thickened the shell, and none has ever thinned it.
-- The lens, the veil and the heart are all made from a century of people declining to feel anything. Each activation borrows a measure of that distance and the operator keeps it. The recorded cost is not numbness in general. It is that the operator finds other people's grief informative rather than affecting, and does not notice the change.
-- Left unresolved the sorrow does not rupture. The shell gains thickness and the chamber's ambient temperature falls another fraction, and the archive notes that in eighty years of records the shell has thinned on nineteen occasions, all nineteen unplanned.
+- The lens, the veil and the heart are all made from a century of people declining to feel anything. But they do not charge the same price: the lens takes nameless memories and the feeling attached to large ones, the veil leaves its wearer performing warmth accurately. And the heart suspends genuine emotion outright while it holds. None of the three is noticed arriving by the person paying it.
+- Left unresolved the sorrow does not rupture. The shell gains thickness and the perceived cold deepens while every thermometer stays normal, and the archive notes that in eighty years of records the shell has thinned on nineteen occasions, all nineteen unplanned.
 
 ## Appearance
 **Primary Form:** A humanoid figure made of frozen emotion rather than frozen water. It is beautiful, translucent, and radiates emotional cold.
@@ -124,7 +126,7 @@
 | **Distinctive markers** | Ambient temperature reads normal despite a perceived -40°C cold. Within five meters, emotional capacity drains rapidly. Tears create small cracks in its surface. |
 | **Identification** | Check the designation before approach. Two holdings in this archive sit on opposite sides of one error: the other is fed by stopping people from weeping, and this one is fed by making them. |
 
-**Appearance protocol:** Record the shell thickness in millimetres at the shoulder and the sternum, the clarity of the translucency, and the ambient cold at the line. Observers consistently describe it as beautiful; that word is permitted in the log and is the only subjective term that is, because its absence from a sheet has twice indicated an observer in difficulty.
+**Appearance protocol:** Record the shell thickness in millimetres at the shoulder and the sternum, the clarity of the translucency, and the ambient cold at the line. Observers consistently describe it as beautiful. That word is permitted in the log and is the only subjective term that is, because its absence from a sheet has twice indicated an observer in difficulty.
 
 ### Shell, sorrow and recorded movement
 
@@ -134,23 +136,23 @@ The translucent shell is frozen feeling. Shoulder and sternum readings describe 
 
 The movement record is not settled by the body's humanoid shape. Chamber observations describe perimeter walks and the Escape account describes unhurried following, whereas Operational Notes state that it has not moved since placement. The Tale's approach toward warmth and the breach table's nearest-person selection also lack a stated common selection rule. Keep those limits visible rather than inventing a stationary, walking and hunting sequence. Likewise, the ice curtain, outward frost and launched spear in the combat table are not explained by the nonphysical-cold account as either literal water or purely metaphorical weapons.
 
-The Record marks the entity destroyed and identifies the pre-Dawn logs as earlier evidence. That permits an earlier observed form; it does not authorize a surviving current body. The Dawn-dated Side Codex's active holding and extraction claims still need reconciliation with that fate. Canto IV records a towering ice-curtain silhouette, glacial heart, tendrils and measurable thermal destruction; no source here supplies the transition from the chamber's frozen-feeling humanoid to that anatomy. Those accounts remain distinct, not a newly certified breach form.
+The Record marks the entity destroyed and identifies the pre-Dawn logs as earlier evidence. That permits an earlier observed form; it does not authorize a surviving current body. The Dawn-dated Side Codex's active holding and extraction claims still need reconciliation with that fate. Canto IV records a towering ice-curtain silhouette, glacial heart, tendrils and measurable thermal destruction. No source here supplies the transition from the chamber's frozen-feeling humanoid to that anatomy. Those accounts remain distinct, not a newly certified breach form.
 
 ## Origin
 - **Formation:** The Veil crystallized from the city's collective emotional distance.
 - **The Sorrow:** The isolation of people who cannot connect, feel warmth, or risk genuine attachment.
 - **The Event:** Generations of suppressed emotion accumulated until distance became a presence that could drain feeling from others.
 - **The People:** Citizens who learned to survive by becoming unreachable.
-- **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around SECTOR-A-01, Alpha Tree deep storage — until the Void was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+- **Expanded origin context:** Archive note: the bulk of it is in the storage bays and not in the streets it came off. A city's accumulated distance was drawn into a place where distance is already a filing matter, and it has stayed there, dense enough to hold a Subject's shape, because nothing in the bay has ever needed to be near anything.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Genuine tears crack and melt a small part of the ice. | Decrease |
-| **Pugnahan** (Confrontation) | Remains unmoved; coldness cannot be fought. | Stable |
-| **Viderehan** (Observation) | Reveals how emotional distance forms. | Stable |
-| **Ferrehan** (Endurance) | Drains the worker's emotions; enduring the emptiness reduces its gauge. | Decrease |
+| **Flerehan** (Tears) | Genuine tears crack and melt a small part of the ice. | Decrease · High |
+| **Pugnahan** (Confrontation) | Remains unmoved; coldness cannot be fought. | Stable · Common |
+| **Viderehan** (Observation) | Reveals how emotional distance forms. | Stable · Common |
+| **Ferrehan** (Endurance) | Drains the worker's emotions; enduring the emptiness reduces its gauge. | Decrease · Common |
 
 ### Special Behaviors
 - The Veil does not attack; it simply radiates emotional absence.
@@ -161,7 +163,7 @@ The Record marks the entity destroyed and identifies the pre-Dawn logs as earlie
 
 ### Operational Work Notes
 
-The table is read against the shell rather than against the gauge, because on this holding the two move separately: the gauge is what this hour is doing, and the shell is what eighty-one years of quarterly measurement have recorded. The Frozen Veil is a Subject with a Subject-Void manifestation and a Void expression, held in Alpha Tree deep storage, and the four responses do four distinct things — Flerehan thins the shell and cannot be scheduled, Pugnahan moves nothing at all, Viderehan shows how the distance forms without changing it, and Ferrehan tests whether a worker can stand in the cold without becoming it. A stable gauge is not a safe cycle: Viderehan holds it flat for a full session and still costs the observer a measure of their own warmth.
+The table is read against the shell rather than against the gauge, because on this holding the two move separately: the gauge is what this hour is doing, and the shell is what eighty-one years of quarterly measurement have recorded. The Frozen Veil is a Subject with a Subject-Void manifestation and a Void expression, held in Alpha Tree deep storage. And the four responses do four distinct things — Flerehan thins the shell and cannot be scheduled, Pugnahan moves nothing at all, Viderehan shows how the distance forms without changing it. And Ferrehan tests whether a worker can stand in the cold without becoming it. A stable gauge is not a safe cycle: Viderehan holds it flat for a full session and still costs the observer a measure of their own warmth.
 
 **Reading the response:** A falling reading means somebody in the chamber wept for a reason of their own. Stability under Viderehan and Pugnahan is expected and is not a result. The reading rises on anything arranged: exercises, prompts, a colleague encouraged to talk about a loss, or a worker rostered here because the office knew they were grieving.
 ## Breach Behavior
@@ -172,7 +174,7 @@ The table is read against the shell rather than against the gauge, because on th
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It walks out at an unhurried pace and follows whoever is nearest, without preference and without ever breaking into a run. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
+| **Effect** | The distance the Veil is made of comes off the room first: colours go flat, sound arrives late, and the walls stop being a boundary and become a preference. |
 | **Secondary Effect** | Everyone in the corridor stops minding what happens next, and reports it afterwards as having been calm at the time. |
 | **First Target** | The nearest person, chosen by distance only; it has never shown a preference. |
 | **Escalation** | Drain rises by 5 for each attempt to provoke feeling while it is loose, and not at all for the time it spends walking. |
@@ -200,13 +202,13 @@ The table is read against the shell rather than against the gauge, because on th
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** A line of up to three. The cold travels along a corridor and reaches everybody in it at once, which is how a withdrawing team is usually affected.
+**Target Coverage:** A Skewer line of up to three, cut only where the anchor has confirmed the pull is an external intrusion rather than grief, anger or consent.
 **Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is duration rather than depth: the third is themselves again within the hour.
 **Damage Application:** Record the strike and the flatness separately. The Void lands once; the inability to care about the outcome of the shift continues afterwards and is what the duty officer actually has to manage.
 
 **Ability:** Void damage to the soul — to identity and the capacity for attachment rather than the body. The lens carries the Veil's signature, which is a century of distance, and what it opens in a target is the suspicion that they never felt as much as they claimed to.
 
-**Cost:** The wielder loses small nameless memories with each use, and loses the feeling attached to large ones while retaining the facts.
+**Bearer cost:** The wielder loses small nameless memories with each use, and loses the feeling attached to large ones while retaining the facts.
 
 ### M.A.W. Suit — The Cold Veil
 
@@ -222,9 +224,9 @@ The table is read against the shell rather than against the gauge, because on th
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Turns Void aside from the soul, which is the only pressure here. The cold veil is what allows a worker to stand at the line for a full session and still mind about things afterwards.
+**Ability:** *Quiet Perimeter* — strongly resists Void by creating a contained emotional distance. It holds only inside the anchor protocol: one living attachment named, two anchors chosen, and termination authority held outside the wearer. The suit is not what makes standing at the line safe; the anchors are.
 
-**Cost:** The wearer feels faintly absent to themselves, and reports their own warmth toward others as something they are performing accurately.
+**Bearer cost:** The wearer feels faintly absent to themselves, and reports their own warmth toward others as something they are performing accurately.
 
 ### M.A.W. Stigma — The Cold Heart
 
@@ -236,32 +238,32 @@ The table is read against the shell rather than against the gauge, because on th
 **Acquisition Probability:** 4%
 **Effect:** +3 to work against the Frozen Veil itself, and nothing elsewhere in Alpha Tree deep storage.
 
-**Ability:** Makes the wearer immune to emotional manipulation.
+**Ability:** *Cold Shelter* — for one authorized emergency interval, makes the wearer immune to emotional manipulation. It is released only by the paired sequence (welfare authority plus relationship anchor) after the threat ends; it is never left active past the threat.
 
-**Cost:** Also prevents genuine emotion; the wearer cannot feel anything while its protection holds.
+**Bearer cost:** Also prevents genuine emotion; the wearer cannot feel anything while its protection holds.
 
 *The cold heart is not manufactured. The Veil gives one to a worker who cried in its chamber about something that had nothing to do with it, and has given none to any participant in a sanctioned exercise.*
 
 ### M.A.W. Use Notes
 
-Nothing in this set can be warmed. The lens opens the suspicion that a target never felt as much as they claimed, the veil turns aside the only pressure the chamber produces, and the heart stops emotional manipulation by stopping feeling altogether. All three are cut from a century of people declining to feel anything, and each activation borrows a measure of that distance and leaves it with the operator: the cost is not numbness in general but the discovery that other people's grief has become informative rather than affecting, which no wearer has yet reported noticing on their own.
+Nothing in this set can be warmed. The lens opens the suspicion that a target never felt as much as they claimed, the veil turns aside the only pressure the chamber produces, and the heart stops emotional manipulation by stopping feeling altogether. All three are cut from a century of people declining to feel anything. But the borrowed distance settles differently in each — memories thinned of feeling, warmth performed accurately, or feeling suspended entire — and the spotter logs which one arrived, because no wearer has yet reported noticing any of them on their own.
 
-### M.A.W. Cross-Source Review — Batch 112
+### M.A.W. Cross-Source Review
 
-- **Weapon hold:** The primary and exact Side A/B stat cards agree on Void 10–15, Speed 3, Medium range, maximum 2, and 50 Echoes; Master Codex Entry 235 confirms the Cold Lens's δ/Void source profile and 50-Echo cost. Weapon-reference records disagree on range: the archetype and one personalization index say Instant, while the primary, Side cards, and a separate personalization description say Medium. Canto IV uses the same code, `MAW-W-103-01`, for a rifle with a reported 3 km shot. The shared code does not document a change from the hand-held lens/disc to a rifle or reconcile the range labels, so the form and range conflict remains open.
-- **Suit hold:** Exact Side A/C and the primary agree on Lament 1.2, Grudge 0.8, Void 0.3, Weight 1.1, maximum 2, and 45 Echoes; Master Codex Entry 236 confirms the Void Suit and its cost. The primary's flowing, heavy veil and Side C's near-transparent, stiff-fold appearance remain unreconciled; no change of form is documented.
+- **Weapon hold:** The primary and exact Side A/B stat cards agree on Void 10–15, Speed 3, Medium range, maximum 2, and 50 Echoes. Master Codex Entry 235 confirms the Cold Lens's δ/Void source profile and 50-Echo cost. Weapon-reference records disagree on range: the archetype and one personalization index say Instant, while the primary, Side cards, and a separate personalization description say Medium. Canto IV uses the same code, `MAW-W-103-01`, for a rifle with a reported 3 km shot. The shared code does not document a change from the hand-held lens/disc to a rifle or reconcile the range labels, so the form and range conflict remains open.
+- **Suit hold:** Exact Side A/C and the primary agree on Lament 1.2, Grudge 0.8, Void 0.3, Weight 1.1, maximum 2, and 45 Echoes. Master Codex Entry 236 confirms the Void Suit and its cost. The primary's flowing, heavy veil and Side C's near-transparent, stiff-fold appearance remain unreconciled; no change of form is documented.
 - **Stigma and set:** The exact Side A/D and primary agree on Head, 4%, +3, and emotional-manipulation immunity. The Master Registry's generic Accessory / 5% row does not override that item-specific record. Side A labels the set *Warmth at Risk* and the full-set resonance *Proof of Warmth*; those names remain attached to their separate roles.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against a specific class of loss. The baseline is held by the spotter, sealed at issue and opened only at the end of the rotation; on this set the comparison is the whole instrument, because the wielder cannot feel the cost arriving. |
-| **During use** | The first sign is not distress; it is competence — shorter reports, cleaner order, colleagues referred to by function rather than by name. The second worker enters the hour it is first seen, never the hour it is first mentioned, and never takes the wielder's account as the record. |
+| **Before use** | Wielder, piece, and a dated baseline against a specific class of loss. The baseline is held by the spotter, sealed at issue and opened only at the end of the rotation. On this set the comparison is the whole instrument, because the wielder cannot feel the cost arriving. |
+| **During use** | The first sign is not distress. It is competence — shorter reports, cleaner order, colleagues referred to by function rather than by name. The second worker enters the hour it is first seen, never the hour it is first mentioned, and never takes the wielder's account as the record. |
 | **At limit** | The wearer stops reporting the cost at all, and their own warmth toward others reads to them as something they are performing accurately. On this set the observer calls the limit and the call is entered against the observer's name, because by that stage the wielder is the one instrument on the file that has gone quiet. |
 | **After use** | The sealed baseline comes out and both columns are written: what the wielder remembers of the week and what the spotter recorded at the time. The answer is entered whether or not the wielder agrees, and the span inside the line is taken as the wielder's own estimate first, since those estimates run short uniformly. |
 
-**Stat interpretation:** Field performance and human cost are separate axes, and on this file the cost lands on the roster rather than on the individual. What the grades cannot show is that the office has twice selected observers by who had recently suffered a loss, both times informally and in good faith, and that the shell thickened on both occasions; the response was to draw the rota by lot in front of two witnesses.
+**Stat interpretation:** Field performance and human cost are separate axes, and on this file the cost lands on the roster rather than on the individual. What the grades cannot show is that the office has twice selected observers by who had recently suffered a loss, both times informally and in good faith. And that the shell thickened on both occasions. The response was to draw the rota by lot in front of two witnesses.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered
@@ -284,9 +286,9 @@ Nothing in this set can be warmed. The lens opens the suspicion that a target ne
 | **Initial exposure** | A Subject with a Subject-Void manifestation. The reliable markers are the Void signature, the humanoid figure of frozen feeling and the chamber at SECTOR-A-01. The first sign is not visual: the cold arrives as numbness before it arrives as temperature, and every instrument in the room reads normal while it does. |
 | **Sustained observation** | Shell thickness in millimetres at the shoulder and the sternum, the perceived cold at each worker's distance against the instrument log, and the five-meter line marked on the floor. The paired record is the point of the watch — the cold is real to everybody in the room and absent from the room's own measurements — and both columns are kept on purpose. |
 | **Activation or escalation** | Anything arranged. The shell thins only on genuine, unplanned feeling — nineteen times in eighty-one years, never once on an item that appeared on a schedule — and it thickens on every attempt to produce feeling deliberately. A session that has been prepared in any way moves the reading up, and the preparation is entered as the cause. |
-| **Post-contact review** | The shell series beside the session, the worker's own estimate of how long they were inside the line, and the paired subjective-objective record. The estimate is entered before the instrument log is consulted, because the estimates run short uniformly and the gap widens with exposure; the clerk who noticed it thought the column might be interesting, and it is now the file's most sensitive early indicator. |
+| **Post-contact review** | The shell series beside the session, the worker's own estimate of how long they were inside the line, and the paired subjective-objective record. The estimate is entered before the instrument log is consulted, because the estimates run short uniformly and the gap widens with exposure. The clerk who noticed it thought the column might be interesting, and it is now the file's most sensitive early indicator. |
 
-**Observation method:** Record the first sign, which is the cold arriving as numbness before it arrives as temperature; the first sensation, which is a reduction in how much anything matters; the shell thickness at entry and exit; everything said in the chamber about anybody's losses; and the condition that ends the encounter, which is the scheduled end of the session. Nothing else is waited for, and nothing is arranged beforehand — the roster is drawn by lot from the qualified list in front of two witnesses, and any substitution is recorded in writing with its reason.
+**Observation method:** Record the first sign, which is the cold arriving as numbness before it arrives as temperature. The first sensation, which is a reduction in how much anything matters. The shell thickness at entry and exit. Everything said in the chamber about anybody's losses. And the condition that ends the encounter, which is the scheduled end of the session. Nothing else is waited for, and nothing is arranged beforehand — the roster is drawn by lot from the qualified list in front of two witnesses, and any substitution is recorded in writing with its reason.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -298,13 +300,13 @@ The Frozen Veil (C-IVδ-103 [VS]) is carried on the wing's register as a Subject
 Shell thickness at the shoulder, measured quarterly for eighty-one years: a slow rise of about a millimetre a decade, interrupted nineteen times. Each of the nineteen thinnings is annotated with what happened in the chamber that day. Four are a death in an observer's family, learned of elsewhere and brought in unintentionally. Six are arguments between personnel. Three are a worker who was told her transfer had been refused. Two are unexplained. The remaining four are entered as personal and sealed at the observer's request. Not one of the nineteen is an item that appeared on a schedule beforehand.
 
 **Entry 3 — <The Sanctioned Exercises of 4219, and Their Results>**
-Three were authorised, on the reasoning that if genuine feeling thins the shell then feeling ought to be produced. The first used recorded testimony from a bereavement register; the second, a counsellor working with volunteers in the chamber; the third, personnel reading their own letters aloud. Measured outcomes: plus 0.4 millimetres, plus 0.6, plus 1.1 — the largest single increase in the series, from the exercise in which people read their own words about their own dead. The programme was ended after the third. The file's conclusion has not been revised since: it does not want sorrow. It wants sorrow that was not asked for.
+Three were authorised, on the reasoning that if genuine feeling thins the shell then feeling ought to be produced. The first used recorded testimony from a bereavement register. The second, a counsellor working with volunteers in the chamber. The third, personnel reading their own letters aloud. Measured outcomes: plus 0.4 millimetres, plus 0.6, plus 1.1 — the largest single increase in the series, from the exercise in which people read their own words about their own dead. The programme was ended after the third. The file's conclusion has not been revised since: it does not want sorrow. It wants sorrow that was not asked for.
 
 **Entry 4 — <Containment Notice>**
 Management: Tears and sincere emotional expression crack the Veil. Physical force is ineffective.  The Kind Healer refuses to approach; warmth cannot penetrate the Veil.
 
 **Entry 5 — <Director's Memo, Eyes Only: On Not Rostering the Bereaved>**
-Twice this office has staffed the observation line with people it knew to be recently bereaved. Neither decision was written down, neither was malicious, and both were made by supervisors who would have said, correctly, that they were choosing someone likely to do well. The shell thickened on both occasions, which is the operational objection, and there is a second objection that does not require instruments. If we select our people for this duty by what they have lost, we have begun to hold a register of our staff's griefs and to deploy it. From this quarter the observation rota is drawn by lot from the qualified list, the lot is drawn in front of two witnesses, and any supervisor who wishes to substitute a name must record the reason in writing and will be asked for it at review.
+Twice this office has staffed the observation line with people it knew to be recently bereaved. Neither decision was written down, neither was malicious, and both were made by supervisors who would have said, correctly, that they were choosing someone likely to do well. The shell thickened on both occasions, which is the operational objection, and there is a second objection that does not require instruments. If we select our people for this duty by what they have lost, we have begun to hold a register of our staff's griefs and to deploy it. From this quarter the observation rota is drawn by lot from the qualified list, the lot is drawn in front of two witnesses. And any supervisor who wishes to substitute a name must record the reason in writing and will be asked for it at review.
 
 ## 최종 관찰 (Final Observation)
 
@@ -325,7 +327,7 @@ The cold forms in your chest first. Joy fades, then sorrow, anger, and love. The
 
 **With continued exposure:** The chamber's edges soften. Observers lose the ability to say how long they have been inside the line, and their estimates afterwards run short — uniformly and substantially, the gap widening with exposure. The figure becomes more distinct while the observer becomes less so, and the file treats that divergence, rather than the cold, as the reading that matters.
 
-**When the entity activates:** The gauge climbs on anything arranged. Activation has never followed from time in the chamber, from pressure, or from an approach the team chose; it follows from a prompt, an exercise, a colleague encouraged to speak about a loss, or a supervisor who put somebody on the line knowing what they had lost. The shell thickens throughout, and the spotter stands at the five-meter line on the floor.
+**When the entity activates:** The gauge climbs on anything arranged. Activation has never followed from time in the chamber, from pressure, or from an approach the team chose. It follows from a prompt, an exercise, a colleague encouraged to speak about a loss, or a supervisor who put somebody on the line knowing what they had lost. The shell thickens throughout, and the spotter stands at the five-meter line on the floor.
 
 **After departure:** What leaves with you is absence rather than cold. Workers come out composed and efficient and cannot, for some hours, say whether anything matters to them, and the counselors treat the composure as the symptom rather than as evidence against it. Feeling returns within a day or three, which is long enough for somebody who was in the room to write the paired record.
 
@@ -342,17 +344,17 @@ The Veil is filed with the Alpha Tree deep storage records, which are the archiv
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Kind Healer** | Refuses to approach; warmth cannot penetrate the Veil. | One attempt, at the chamber mouth, ended with the Healer withdrawn and reporting nothing to work on, and the wing has not sought a second. It is the only recorded instance of the Healer declining a holding, and the file keeps it as a finding about the Veil rather than about the Healer. | The single attempt, the withdrawal, and the Healer's own note; re-read at every annual review. |
-| **The Smothering Mother** | Her embrace cannot warm it. | Brought to the line twice. The perimeter held and the shell did not move on either occasion, which is the only time her proximity has left a reading unchanged. Both sessions were ended by the spotter rather than by the gauge. | Both sessions, the two spotter calls, and the shell figures at entry and exit. |
-| **The Frozen Tear** | Both are made of frozen sorrow, and the wing keeps them apart for that reason. | Never co-located. Two holdings cut from the same grief would invite a comparison, and on this file a comparison invites somebody to arrange a session to test it, which is the one act known to thicken the shell. | The prohibition and its reasoning, restated at each annual review; no co-presence file exists. |
-| **The Hollow Choir** | The Choir falls silent nearby. | Observed once from outside the line: the Choir stopped mid-phrase and did not resume until the chamber was sealed again, with no gauge movement and no thinning of the shell. Stopping is unremarkable for the Choir, whose reasons are not published, so the file records the co-presence without claiming a cause. | The single co-presence, both gauge series, the shell figures, and the Choir's explanation if one is ever offered. |
-| **Risus** | Laughter fades in the Veil's radius. | Filed, not arranged. Risus is the nearest thing in the archive to the warmth this holding drains, and the wing's objection is on record: running the pair to see what a laugh does to a five-meter line would be arranging feeling, which is the one act this file knows thickens the shell. | The objection and its reasoning; no co-presence file exists. |
+| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Refuses to approach; warmth cannot penetrate the Veil. | One attempt, at the chamber mouth, ended with the Healer withdrawn and reporting nothing to work on, and the wing has not sought a second. It is the only recorded instance of the Healer declining a holding, and the file keeps it as a finding about the Veil rather than about the Healer. | The single attempt, the withdrawal, and the Healer's own note; re-read at every annual review. |
+| [**The Smothering Mother**](SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) | Her embrace cannot warm it. | Brought to the line twice. The perimeter held and the shell did not move on either occasion, which is the only time her proximity has left a reading unchanged. Both sessions were ended by the spotter rather than by the gauge. | Both sessions, the two spotter calls, and the shell figures at entry and exit. |
+| [**The Frozen Tear**](SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md) | Both are made of frozen sorrow, and the wing keeps them apart for that reason. | Never co-located. Two holdings cut from the same grief would invite a comparison, and on this file a comparison invites somebody to arrange a session to test it, which is the one act known to thicken the shell. | The prohibition and its reasoning, restated at each annual review; no co-presence file exists. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | The Choir falls silent nearby. | Observed once from outside the line: the Choir stopped mid-phrase and did not resume until the chamber was sealed again, with no gauge movement and no thinning of the shell. Stopping is unremarkable for the Choir, whose reasons are not published, so the file records the co-presence without claiming a cause. | The single co-presence, both gauge series, the shell figures, and the Choir's explanation if one is ever offered. |
+| [**Risus**](SE-C-Iα-150_Risus_웃음의_메아리.md) | Laughter fades in the Veil's radius. | Filed, not arranged. Risus is the nearest thing in the archive to the warmth this holding drains. And the wing's objection is on record: running the pair to see what a laugh does to a five-meter line would be arranging feeling, which is the one act this file knows thickens the shell. | The objection and its reasoning; no co-presence file exists. |
 
 **Interaction procedure:** Solo baseline first, then the shared encounter: shell thickness before, during and after, ambient temperature, how long any thinning persisted once the other entity withdrew, and whether the session was preceded by any emotional preparation of the team. Prepared sessions are logged and excluded from the series.
 
 ## 이야기 (Narratio) — The Tale
 
-The city suppressed feeling for generations, and the suppression, accumulated, became a cold that drains the warmth from anyone near it.
+In those years the city suppressed feeling, and the suppression, accumulated, became a cold that drains the warmth from anyone near it.
 
 The Veil — the city's great mechanism for managing sorrow — does not eliminate feeling. It mutes it. It smooths the citizens' emotions down to a manageable hum, so that grief does not crest, joy does not spike, and the Alpha Tree, which feeds on regulated sorrow, is not destabilized by the wild fluctuations of unmanaged feeling. The Veil is, in its way, a mercy — it prevents the Fractures that unchecked emotion would cause. But it is also, over generations, a slow freezing.
 
@@ -382,15 +384,15 @@ Some sorrows are about loss. The Frozen Veil is about suppression — the genera
 **Common Name:** The Frozen Veil
 **Containment Status:** Semi-contained — Zone D (drifts)
 **Fate:** Destroyed. Post-destruction records reference this entity in the past tense only; pre-Dawn logs (e.g., Canto IV, Cycle 1,778) predate its destruction and remain valid.
-**Comprehension Level:** 4 — Mastered, as the classification block records; the figure of 3 carried in the earlier register was written before the shell series existed and does not survive the quarterly record.
-**Threat Assessment:** Critical (δ) — facility-threatening, as the classification block records; the older word *moderate* described what the Veil looked like to instruments, which read normal temperature in a room that numbs whoever stands in it.
+**Comprehension Level:** 4 — Mastered, as the classification block records. The figure of 3 carried in the earlier register was written before the shell series existed and does not survive the quarterly record.
+**Threat Assessment:** Critical (δ) — facility-threatening, as the classification block records. The older word *moderate* described what the Veil looked like to instruments, which read normal temperature in a room that numbs whoever stands in it.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
 - Track drift; redirect away from populated areas.
 **Observation Notes:**
 - Formed from generations of suppressed emotion.
 - The Veil drifts toward the warm.
-**Cross-References:** Zone D · The Veil (the city’s system) · The Happy Mask
+**Cross-References:** Zone D · The Veil (the city’s system) · [The Happy Mask](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md)
 **Faction Involvement:** SED (A-territory deep storage) · UCD (Fray-adjacent zone) · the deep storage directorate (δ-grade holding) · the observation rota and the drawn lot · the counselors' channel
 **Originator:** Generations of citizens conditioned against feeling.
 
@@ -398,7 +400,7 @@ Some sorrows are about loss. The Frozen Veil is about suppression — the genera
 
 **Operational interpretation:** Treat this as a record of distance rather than of cold. Every figure here follows from whether feeling in its presence was genuine or arranged. The counter is 1: the first staged attempt is the breach, which is why the 4219 exercises are described in this file at all.
 
-**Review requirement:** Re-verify after any breach, any Sorrow Tide, and any roster assignment to this chamber made with knowledge of a worker's recent loss — the last unconditionally, whether or not the knowledge influenced the decision, and the review examines who made the assignment rather than who received it.
+**Review requirement:** Re-verify after any breach, any Sorrow Tide. And any roster assignment to this chamber made with knowledge of a worker's recent loss — the last unconditionally, whether or not the knowledge influenced the decision. And the review examines who made the assignment rather than who received it.
 ## Apex Record
 
 ### Cold Without Temperature
@@ -411,7 +413,7 @@ Within five meters, emotional capacity drains rapidly. The radius is sharp, repe
 
 ### Tears Crack It
 
-Genuine tears crack and melt a small part of its surface, and this is the only input that reduces the gauge from its 947 baseline. The requirement that the tears be genuine is not a stylistic note in the protocol; the response does not occur otherwise, and the file records several good-faith attempts to produce the effect deliberately, none successful. Flerehan work on the file is therefore never scheduled. It is permitted — a worker who finds themselves grieving in the chamber is not required to suppress it and is covered by the protocol if the response follows — and the wing's briefing is careful to say that nobody is expected to supply this and nobody will be assessed on failing to. Confrontation does nothing at all. Coldness cannot be fought, the gauge does not move, and the attempt costs the worker the minutes they spent making it.
+Genuine tears crack and melt a small part of its surface, and this is the only input that reduces the gauge from its 947 baseline. The requirement that the tears be genuine is not a stylistic note in the protocol. The response does not occur otherwise, and the file records several good-faith attempts to produce the effect deliberately, none successful. Flerehan work on the file is therefore never scheduled. It is permitted — a worker who finds themselves grieving in the chamber is not required to suppress it and is covered by the protocol if the response follows — and the wing's briefing is careful to say that nobody is expected to supply this and nobody will be assessed on failing to. Confrontation does nothing at all. Coldness cannot be fought, the gauge does not move, and the attempt costs the worker the minutes they spent making it.
 
 ### The City's Distance
 
@@ -434,9 +436,9 @@ The subjective-objective series is maintained by a clerk who never enters the ch
 
 ### Registry Trivia
 
-- **Classification detail:** The Frozen Veil is a Subject with Entity (IV) — Self-aware, cold, distant coherence and Critical (δ) — Facility-threatening potency.
+- **Classification detail:** The Frozen Veil is a Subject with Entity (IV) coherence — cold and distant, its self-awareness unresolved — and Critical (δ) — Facility-threatening potency.
 - **Field detail:** Element Void, registered to SECTOR-A-01 in Alpha Tree deep storage, where the shell is measured quarterly at the shoulder and the sternum and the five-meter line is marked on the floor.
-- **Recognition detail:** Identify it by the cold and the clarity. Several figures are held in deep storage; this is the translucent one made of frozen feeling, which numbs before it chills and is always described as beautiful.
+- **Recognition detail:** Identify it by the cold and the clarity. Several figures are held in deep storage. This is the translucent one made of frozen feeling, which numbs before it chills and is always described as beautiful.
 - **Record detail:** Check the designation before approach. This archive holds records on both sides of the same error — one is fed by stopping people from weeping, and this one is fed by making them.
 - **Containment detail:** Sealed does not mean silent. The shell thickens in a closed chamber whenever the facility arranges feeling anywhere in deep storage, and the containment reading is the thickness at the shoulder rather than the state of the door.
 ## Document Information

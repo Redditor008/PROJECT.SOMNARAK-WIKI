@@ -24,9 +24,15 @@ The Vault of Unspoken Spites Veil is a warm crimson veil of Han cloth with one d
 
 ## PROTECTION FILE
 
+**Grade / Element:** γ / Grudge
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
 **Witnessed Holding:** The Veil receives one hostile emotional effect for bounded transport to release review.
 
@@ -43,14 +49,3 @@ Charm identifies, Veil carries, Fang separates. The suit is not long-term storag
 **Maintenance:** Open the dark pocket before the named witness and describe feeling, source confidence, and uncertainty. Release before sleep.
 
 **Removal:** Witness lifts the cloth only after discharge responsibility transfers to a real process.
-
----
-
-**Document ID:** `SE-308-C`  
-**Linked Entity:** `SE-308`  
-**Item Registry Code:** `MAW-S-308-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

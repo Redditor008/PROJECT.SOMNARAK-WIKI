@@ -89,7 +89,7 @@ All combat engagements within the Memory Archive take place across the standardi
 | [STAGE NODES 01 TO 10 — READING HALL INGRESS TO KEY RELIQUARY]      |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 |  [READING-HALL]   [MEMORY-AISLE]   [CENTRAL-LECTERN]   [CORE-DAIS]  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 01: Ingress Stasis Portal / Memory Reading Hall Vestibule    |
 | - Node 02-03: Crystallized Memory Aisles (Seiyon Vanguard           |
 |   Frontline)                                                        |
@@ -101,7 +101,7 @@ All combat engagements within the Memory Archive take place across the standardi
 |   Sump)                                                             |
 | - Node 09: Catenary Bookbinders & Resonant Weaving Cranes           |
 | - Node 10: Floor Core Reliquary / Memory Leaf Dais (Climax Union)   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RANGE BANDS (1 TO 5):                                               |
 | - Band 1 (Nodes 01-02): Heavy Memory Greatswords, Kinetic           |
 |   Towershields                                                      |
@@ -145,21 +145,21 @@ Equipped M.A.W. suits alter cognitive friction within the Archive's dream stratu
 |   Stagger.                                                             |
 | - Emotional Clarity: Maintaining Composure > 40 SP gives +20% Void     |
 |   DMG.                                                                 |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | P2: PANIC / COMPOSURE (COGNITIVE DRIFT & RECALL PROTOCOLS)             |
 | - Composure Gauge (0-50 SP): Measures cognitive cohesion against       |
 |   void.                                                                |
 | - Cognitive Drift (< 15 SP): Operative suffers hallucinations, -2      |
 |   Clash.                                                               |
 | - Recall Protocols: Seiyon needles inject +15 to +20 SP instantly.     |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | P3: PARRY / PROTECTION (PRISMATIC DEFLECTION & CRYSTALLINE ECHO)       |
 | - Prismatic Deflection: Nullifies projectile damage, reflects 30%      |
 |   tremor.                                                              |
 | - Memory Absorption: Absorbs incoming grief to charge Memory Leaf      |
 |   burst.                                                               |
 | - Null-Acoustic Veil: Neutralizes ambient weeping from floor books.    |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | P4: POSTURE / POISE (MODULAR ANCHORS & DUAL-THRESHOLD STAGGER)         |
 | - Modular Part Posture: Boss weapons/cores possess discrete pools.     |
 | - Stagger 1 Proc (60% Strain): Destroys modular weapon components.     |
@@ -185,24 +185,24 @@ Engagements within the Archive feature a sophisticated two-tier stagger system:
 +---------------------------------------------------------------------+
 | MEMORY LEAF 01: THE ARCHIVIST (Grade Alpha / Floor 01: History)     |
 | - Core Passive: Prevents all allied Composure drain below 20 SP.    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 02: THE SHADOW (Grade Beta / Floor 02: Identity)        |
 | - Core Passive: Winning a clash strips 1 positive buff from target. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 03: THE GUARDIAN (Grade Gamma / Floor 03: Duty)         |
 | - Core Passive: Absorbs 100% of single-target damage directed at    |
 |   ally.                                                             |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 04: THE MOURNER (Grade Gamma / Floor 04: Grief)         |
 | - Core Passive: Quenches target heat; inflicts +30% Posture Strain. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 05: THE TRUTH-SEEKER (Grade Delta / Floor 05: Truth)    |
 | - Core Passive: Pierces 40% of enemy armor; strikes critical seams. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 06: THE HEALER (Grade Delta / Floor 06: Compassion)     |
 | - Core Passive: Converts 50% of absorbed damage into squad HP       |
 |   healing.                                                          |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 07: THE PROMISE (Grade Omega / Floor 07: Origin)        |
 | - Core Passive: Transmutes all negative mental and physical         |
 |   statuses into pure Hope.                                          |

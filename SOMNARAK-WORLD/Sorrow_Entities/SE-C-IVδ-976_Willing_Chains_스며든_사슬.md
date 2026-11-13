@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-976 [O]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; identity and memory begin to dissolve, draining clarity |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A figure wreathed in slow fire, covered head to foot in black chains that spread across walls and floors on their own while the body stays perfectly still. Fever-hot and bloodless-cold at once, it smells of char and ash; the chains rattle without wind. |
+| **Physical Form** | Mixed |
 | **Movement** | The body has never moved. The chains travel across surfaces on their own, and the registered extent is ambient rather than a point. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful cycle, taken off the slack rather than off the figure: the chains are what the room is made of, and the yield tracks how much of the grip was eased. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **Work Damage** | 4–7 Void — the cost is chains fastened to nothing, closed by the holding's own effort |
+| **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | δ (Critical) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -45,6 +46,8 @@
 - Extraction is its own risk event under its own authorisation, granted per cycle and never folded into a normal approach: the set is drawn out of the links, and the Armoury's standing instruction is to open with everything closed and take nothing out.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The body has never moved, and the chains have: they travel across surfaces under their own account and the registered extent is ambient rather than a point. What a party meets is the binding closing on a worker and holding them where they stand. And the strike rows are that — the file says in terms that nothing here pursues or aims. And it is right about that, which is why the rows read as hold and tension rather than as approach.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
@@ -55,7 +58,7 @@
 | **Resistance** | 45 per cent against Void pressure and 35 against anything else, with a standing note that the chains are not what a worker resists: they are unfastened, and the figure is the only thing keeping them closed. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 855/855 |
-| **Han Pressure [ATK]** | 24–53 per hit · Void |
+| **Han Pressure [ATK]** | 30–59 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -88,7 +91,7 @@
 
 1. **Tension:** Identify it first, by the stillness and the slack: a motionless burning figure, chains lying unfastened over every surface, is this holding and no other. The approach is then set and the positions taken.
 2. **Clash:** The figure does nothing. The chains do the work, the crew holds the mapped standoff, and the only live decision is whether a worker who has started to find the room comfortable is sent out.
-3. **Resolution:** The cycle closes under containment, management, withdrawal, or the documented suppression condition: **Do not cut blindly; identify what each chain represents**. The condition is met when every link in reach has been named before anything is touched; a cycle that ends with a cut taken on a guess is filed as the holding having been handed a link it can tighten.
+3. **Resolution:** The cycle closes under containment, management, withdrawal, or the documented suppression condition: **Do not cut blindly; identify what each chain represents**. The condition is met when every link in reach has been named before anything is touched. A cycle that ends with a cut taken on a guess is filed as the holding having been handed a link it can tighten.
 
 ### Consequences
 
@@ -96,6 +99,7 @@
 - Duration is what makes these effects worse: what a short cycle can hold turns lethal if the exposure runs long, and what it dissolves — emotionally, physically, identitarily, environmentally — is severe.
 - Every activation draws a personal debit out of the wielder — composure, memories, the body's own strength — past anything the grade ledgers are built to record.
 - With no resolution the sorrow does not dissipate; it turns inward on its own ground and starts the escalations this file already records.
+- The zone itself is altered, so the district's map of Old Lament has been re-issued with a boundary drawn around a place that is still there.
 
 ## Appearance
 **Primary Form:** A burning figure covered in black chains that spread across walls and floors. Its body remains motionless while the chains move.
@@ -134,16 +138,16 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The grip slackens and the fire goes low; the chains stay exactly where they lie. | Decrease |
-| **Pugnahan** | The chains lash out and the extent jumps, permanently. Never authorised. | Increase |
-| **Viderehan** | Shows what each chain is attached to, which is in every case an undertaking rather than an object. The gauge does not move. | Stable |
-| **Ferrehan** | The worker stands the watch in a room that feels like safety and does not accept the feeling. The gauge falls, and this is the only work here that costs anybody anything. | Decrease |
+| **Flerehan** | The grip slackens and the fire goes low; the chains stay exactly where they lie. | Decrease · High |
+| **Pugnahan** | The chains lash out and the extent jumps, permanently. Never authorised. | Increase · Low |
+| **Viderehan** | Shows what each chain is attached to, which is in every case an undertaking rather than an object. The gauge does not move. | Stable · Common |
+| **Ferrehan** | The worker stands the watch in a room that feels like safety and does not accept the feeling. The gauge falls, and this is the only work here that costs anybody anything. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-Willing Chains is a Subject with Subject-Grudge manifestation and Void expression, registered as ambient in Old Lament. Four Work Types are open in principle; three get used. Flerehan and Ferrehan both bring the gauge down, differently: Flerehan loosens the grip for a shift; Ferrehan asks a worker to stand in a warmth that is lying, and not to settle into it.
+Willing Chains is a Subject with Subject-Grudge manifestation and Void expression, registered as ambient in Old Lament. Four Work Types are open in principle; three get used. Flerehan and Ferrehan both bring the gauge down, differently: Flerehan loosens the grip for a shift. Ferrehan asks a worker to stand in a warmth that is lying, and not to settle into it.
 
 **Reading the response:** A falling gauge presents as slack — links lying looser, the fire low, the extent unchanged at the next survey. Nothing is released; the entity has never let go of anything. A rising gauge presents as reach: new surface crossed between surveys, usually after a confrontation or after a worker has spent a long shift in the room feeling comfortable. Log the extent before anything else, because the metres do not come back.
 ## Containment Event Behavior
@@ -154,8 +158,8 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 |---|---|
 | **Event Type** | Corruption of its own zone |
 | **Movement** | The figure stays where it is. What expands is the bound volume around it, which warps outward and takes in whatever surfaces it reaches. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
+| **Effect** | The chains hold and the held stop being able to name the room. Nothing is taken; what goes out of reach is the vocabulary for wanting to leave it. |
+| **Secondary Effect** | The chains fasten on whatever is inside the warped volume and hold it in place. Nothing is erased; what goes is the wish to be anywhere else, and with it the names of the places one wanted to be. |
 | **First Target** | Nobody is chosen and nothing is pursued. The binding takes whoever is inside the warped volume, and personnel are bound in place rather than dragged anywhere. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
@@ -163,7 +167,7 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 
 - **Event type (non-breach):** Corrupt. The zone itself is altered; the entity does not leave the position it has held throughout the record.
 - **Containment priority:** Seal the affected volume, hold Viderehan and Ferrehan at the edge until the pressure recedes, and plan every route around the chains rather than through them.
-- **Sorrow Gauge on event:** Opens at 40% and adds 10% a turn until the volume is sealed; it keeps climbing while anybody inside is still being extracted.
+- **Sorrow Gauge on event:** Opens at 40% and adds 10% a turn until the volume is sealed. It keeps climbing while anybody inside is still being extracted.
 
 ## M.A.W. Equipment
 
@@ -188,7 +192,7 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 
 **Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and channels the holding's own signature: the target is left certain of a duty nobody has been able to name, which is the condition the chains impose on the room.
 
-**Cost:** Small nameless memories go with each use — a room without a door, a day that will not account for itself — and the loss is permanent, filed against the bearer rather than the piece.
+**Bearer cost:** Small nameless memories go with each use — a room without a door, a day that will not account for itself — and the loss is permanent, filed against the bearer rather than the piece.
 
 **Lens authority boundary:** The Weapon’s source-trace describes attribution before uncoupling an immediate hazard. That language supplies no new power to cut the chamber’s chains. Naming every link leaves the withdrawal of cutting authority exactly where the Apex record puts it; the obstructed corridor still requires the long route. Keep the bearer’s lost small memories on their own return sheet, not among the municipal undertakings used to identify a link. The named-witness shutdown in the item record preserves that distinction while the Lens is relinquished. It does not restore the missing hours or remove a metre from the survey.
 
@@ -206,9 +210,9 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage and protects the Soul — identity, memory and sense of self — worn against this holding's particular pressure: nothing here strikes the body, and what the veil actually buys is a worker who can stand in the room without taking on a duty the chains have been holding for them.
+**Ability:** Grants resistance to Void damage and protects the Soul — identity, memory and sense of self — worn against this holding's particular pressure: nothing here strikes the body. And what the veil actually buys is a worker who can stand in the room without taking on a duty the chains have been holding for them.
 
-**Cost:** The wearer thins against their own account: not forgotten, not changed, simply fainter to themselves in a way colleagues notice before the bearer does.
+**Bearer cost:** The wearer thins against their own account: not forgotten, not changed, simply fainter to themselves in a way colleagues notice before the bearer does.
 
 **Veil watch comparison:** Compare two different accounts at withdrawal: whether the room felt comfortably safe, and whether the wearer still feels present in their own week. The first belongs to this holding’s comfort screen; the second is the Suit’s cost. A heavy hem may locate the ambient line but answers neither question. Preserve a first-person account of the district’s source event as the individual Suit’s corrosion warning, rather than correcting the speaker’s words into an ordinary recollection. Relinquishing the Veil does not justify extending the watch or skipping the route that avoids the links.
 
@@ -216,7 +220,7 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a tiny lantern of Void Han-glass, near-translucent and all but colourless, heavier in the hand than its size accounts for; wardens on the Old Lament line use it as the room's only fixed reading, because the chains do not answer light any other way.
+**Appearance:** a tiny lantern of Void Han-glass, near-translucent and all but colourless, heavier in the hand than its size accounts for. Wardens on the Old Lament line use it as the room's only fixed reading, because the chains do not answer light any other way.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -224,7 +228,7 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 
 **Ability:** Reveals invisible bonds and restraints.
 
-**Cost:** The wielder feels every bond they cannot escape.
+**Bearer cost:** The wielder feels every bond they cannot escape.
 
 **Lantern reading:** This piece reveals bonds while making the bearer feel the ones they cannot escape. Keep what was seen beside what was felt, with the undertaking named where it is known and left unknown where it is not. Neither account substitutes for the outside surveyor’s extent in metres or makes an open link a lock. A bearer who starts speaking the district’s history as their own has reached the warning in the individual Stigma record, not gained a better claim to interpret every obligation in the room. Record the unresolved bond without testing it by severance.
 
@@ -286,7 +290,7 @@ Management: Do not cut blindly; identify what each chain represents. Work respon
 The Director's note: *"Every link in that room is open. Nothing is locked, nothing is fastened, and the district it came from was held by instruments that every party signed. I would like the file to stop short of a moral and it never quite does."*
 The Director's own note runs shorter than any story: every link in the room is open, nothing is fastened, and the district the thing came out of was held together by instruments that every party had signed. That is the finding the file is built around, and the memo asks the record to stop short of calling the arrangement a prison — because nobody in it was ever locked in.
 
-**Threat rating:** Critical (δ). Proximity dissolves clarity and installs the sense of a bond that cannot be left; on event the bound volume warps outward and anybody inside it is held in place.
+**Threat rating:** Critical (δ). Proximity dissolves clarity and installs the sense of a bond that cannot be left. On event the bound volume warps outward and anybody inside it is held in place.
 
 ## 최종 관찰 (Final Observation)
 
@@ -325,7 +329,7 @@ Among the registry's obligation holdings this one is set apart by what it binds.
 | Record set beside it | Where the resemblance comes from | What has actually been observed | Entry the file requires |
 |---|---|---|---|
 | **The Wandering Chain** | One carries its links from place to place; this one lays them down and never lifts them. | Logged twice in the same quarter of Old Lament, never arranged. The Wandering Chain passed through the surveyed extent on both occasions and the extent was unchanged at the following survey; neither gauge moved. | Both transits with the survey lines either side, and the unchanged link counts. |
-| **The Debt Wall** | Both were made by the same municipal instruments and they did different things with them. | Never paired and formally excluded. The Wall holds obligations as a boundary; this one holds them as a grip, and the wing's note is that putting the two together would be an experiment about the Collectors rather than about either entity. | The exclusion, its reasoning, and the review minute that last restated it. |
+| **The Debt Wall** | Both were made by the same municipal instruments and they did different things with them. | Never paired and formally excluded. The Wall holds obligations as a boundary. This one holds them as a grip, and the wing's note is that putting the two together would be an experiment about the Collectors rather than about either entity. | The exclusion, its reasoning, and the review minute that last restated it. |
 | **The Frozen Veil** | The Veil makes a bond feel necessary; this one makes it feel warm. | Paired once at distance. Workers in the overlap reported both effects simultaneously and were withdrawn early; both gauges were unchanged and the extent did not move. Not scheduled again, on the welfare finding rather than on a containment one. | The single pairing, the withdrawal note, and the medical office's recommendation against repeating it. |
 
 **Interaction procedure:** Solo baselines first, because every interaction on this file is read against the control: know what Willing Chains does in an empty corridor before watching it with company. Then enter the first shared change — distance, duration, trigger, both gauges, the effect on the room's surfaces, and whether anything survived separation. On this file the slack is part of every entry, and a pairing logged without it is void.
@@ -334,7 +338,7 @@ Among the registry's obligation holdings this one is set apart by what it binds.
 
 The district was bound together by debt and duty, and the binding, meant to hold them, became a chain that holds them still.
 
-The district was poor, and cohesive, and the cohesion was maintained by obligation — the debts the citizens owed one another, the duties they performed for neighbors, the bonds of mutual reliance that hold a community together when the city will not. The binding was, originally, a mercy. A citizen who needed help received it; a citizen who gave help was owed a return; the web of obligation ensured no one was abandoned, because abandoning someone meant breaking a chain you yourself depended on.
+The district was poor, and cohesive, and the cohesion was maintained by obligation — the debts the citizens owed one another, the duties they performed for neighbors, the bonds of mutual reliance that hold a community together when the city will not. The binding was, originally, a mercy. A citizen who needed help received it. A citizen who gave help was owed a return. The web of obligation ensured no one was abandoned, because abandoning someone meant breaking a chain you yourself depended on.
 
 The city changed. The Collectors formalized the obligations — turning the informal debts of neighborliness into ledger entries, the duties of community into enforceable contracts. The binding that had held the district together became, under the city's management, a chain. The debts that were once mutual became hierarchical. The duties that were once freely given became compulsory. And the citizens, bound by a system that had once been their protection, discovered that the binding no longer protected them — it imprisoned.
 
@@ -360,20 +364,20 @@ Some sorrows are about freedom lost. Willing Chains is about protection perverte
 **Common Name:** Willing Chains
 **Containment Status:** Semi-contained — ambient in Old Lament, Zone B; the chamber bounds the figure and the surveyed extent bounds nothing.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). The binding spreads along undertakings and cannot be removed once laid; proximity erodes clarity while presenting as comfort, which is the feature that has caused the chamber's only serious incident.
+**Threat Assessment:** Critical (δ). The binding spreads along undertakings and cannot be removed once laid. Proximity erodes clarity while presenting as comfort, which is the feature that has caused the chamber's only serious incident.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan are the working types; Viderehan for the survey; Pugnahan is never authorised.
 - Survey the extent, sample the links, and never cut, part or move a chain for any reason.
 **Observation Notes:**
 - Mutual obligations formalized by Collectors into a living chain.
 - The Chain binds; it does not protect.
-**Cross-References:** Old Lament, Zone B · The Collectors · the district debt instruments · The Debt Wall
+**Cross-References:** Old Lament, Zone B · The Collectors · the district debt instruments · The [Debt Wall](SE-C-IIIγ-180_Owed_빚의_벽.md)
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** A district bound by debt and duty.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read the extent series, the link counts and the comfort answers together. The first says the binding only ever grows, the second says nothing in it is fastened, and the third is the only early warning the holding has. The hardest fact in the file is the second: a room full of chains that hold because the entity holds them, in a district that was bound by agreements everybody signed. Where the entity does something not described here, log it and leave the contradiction standing.
+**Operational interpretation:** Read the extent series, the link counts and the comfort answers together. The first says the binding only ever grows, the second says nothing in it is fastened, and the third is the only early warning the holding has. The hardest fact in the file is the second: a room full of chains that hold because the entity holds them, in a district that was bound by agreements everybody signed. A chain that fastens without being asked is recorded as it happened and not as it should have. Nobody has seen one yet, and the file is written so that the first sighting is not lost inside a correction.
 
 **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the extent against the survey line, the link sample, the exposure log and the gauge. Three further items apply here. The comfort answers are reconciled against the withdrawal count. The displacement map and the alternative routes are walked, not read. And the field office's objection to the reported response time is re-read in full, unaltered.
 ## Apex Record
@@ -392,7 +396,7 @@ The emptiness the entity carries registers as warm, and the warmth is the chambe
 
 ### Where It Spreads
 
-Propagation follows people who feel trapped. The holding cannot measure that condition and has not pretended otherwise; what it does instead is roster the chamber away from anyone currently under administrative process, in dispute, or serving out a posting they have asked to leave. The criteria are blunt and the file says they are blunt. They are also the only predictors the wing has found that correlate with anything, having been derived from the chamber's own incident record rather than from any theory about the entity, and they are reviewed against that record every year.
+Propagation follows people who feel trapped. The holding cannot measure that condition and has not pretended otherwise. What it does instead is roster the chamber away from anyone currently under administrative process, in dispute, or serving out a posting they have asked to leave. The criteria are blunt and the file says they are blunt. They are also the only predictors the wing has found that correlate with anything, having been derived from the chamber's own incident record rather than from any theory about the entity, and they are reviewed against that record every year.
 
 ### The Bound District
 
@@ -420,7 +424,7 @@ The file prints both halves together and refuses to draw the obvious moral. What
 
 The chains were cut once, lawfully, and the regrowth took more ground and kept it. Afterwards the authorisation to cut was withdrawn — and that is the part that cannot be undone.
 
-A power is conferred from above. A body that surrenders one cannot restore it to itself, because granting yourself an authority is the same act as not having it; only a higher body can confer it, and for this holding there is no higher body that has ever claimed the competence. The wing therefore sits in a position it put itself in deliberately and correctly: it knows exactly what it would do if cutting were ever the right answer, and there is no person alive who could sign for it.
+A power is conferred from above. A body that surrenders one cannot restore it to itself, because granting yourself an authority is the same act as not having it. Only a higher body can confer it, and for this holding there is no higher body that has ever claimed the competence. The wing therefore sits in a position it put itself in deliberately and correctly: it knows exactly what it would do if cutting were ever the right answer, and there is no person alive who could sign for it.
 
 The cost is specific and recurring. **A chain crossed the direct corridor to the neighbouring holding eleven years ago and has lain there since.** The route is abandoned, as the protocol requires. Response to that holding now goes the long way, every time, for everybody.
 
@@ -430,11 +434,11 @@ The wing's assessment is that the withdrawal was right, that it would withdraw t
 
 What the wing can control is what it reports about itself, and it chose the unflattering version.
 
-The detour costs **about nine minutes**. It would be entirely defensible to publish response times for the neighbouring holding against the direct route, note the chain as an environmental factor, and footnote the difference — several wings do the equivalent. This one does not. The nine minutes are carried in the headline figure, so the published response time for that holding reads **fourteen and a half minutes rather than five and a half**, and the wing has let that number stand in every return it has made since the chain settled.
+The detour costs **about nine minutes**. It would be entirely defensible to publish response times for the neighbouring holding against the direct route, note the chain as an environmental factor, and footnote the difference — several wings do the equivalent. This one does not. The nine minutes are carried in the headline figure. So the published response time for that holding reads **fourteen and a half minutes rather than five and a half**. And the wing has let that number stand in every return it has made since the chain settled.
 
 It has cost. **Three annual reviews have marked the wing down on response performance**, two of them citing the figure directly, and one resourcing request was refused with the figure quoted back in the refusal. The drills are run the long way at full frequency, on the stated ground that a route you only walk on paper is not a route.
 
-The field office's objection is on the file and unanswered. Telling the truth about the number has bought nothing — three markdowns, one refused request, no extra resourcing — and the nine minutes are not paid by the people who chose to publish them; the runner in the long corridor pays, on the day it counts. The minute records the objection as **correct, and the figure continues to be reported as it is**, and adds, in the commander's own hand, that the alternative is a number that would make the long corridor easier to live with.
+The field office's objection is on the file and unanswered. Telling the truth about the number has bought nothing — three markdowns, one refused request, no extra resourcing — and the nine minutes are not paid by the people who chose to publish them. The runner in the long corridor pays, on the day it counts. The minute records the objection as **correct, and the figure continues to be reported as it is**, and adds, in the commander's own hand, that the alternative is a number that would make the long corridor easier to live with.
 
 ## Trivia
 
@@ -447,7 +451,7 @@ The field office's objection is on the file and unanswered. Telling the truth ab
 ### Registry Trivia
 
 - **Classification detail:** A Subject of Entity (IV) coherence — the record treats the holding as one arrangement rather than one figure — with Critical (δ) potency, held manageable on the strength of a condition a reader can meet: name each link before touching it, and cut nothing blind.
-- **Field detail:** Element Void, registered to Zone B on the Old Lament line with an ambient extent, where containment is a line on a map and a habit of reading: the body never moves, the chains cross every surface, and the only absolute in the handling procedure is the prohibition on cutting.
+- **Field detail:** Element Void, registered to Zone B on the Old Lament line with an ambient extent, where containment is a line on a map and a habit of reading: the body never moves, the chains cross every surface. And the only absolute in the handling procedure is the prohibition on cutting.
 - The register keeps its own figures in numerals for look-up: speed 2.45 m/s, gauge 855/855, activation at 90 per cent, vessel-destruction yield of about 1–10 tons, and +1 from the third piece.
 - **Recognition detail:** Identify it by the stillness and the slack. A motionless burning figure with chains lying unfastened across every surface is this holding and no other.
 - **Record detail:** The registry's other chain holdings restrain, follow or secure. This one binds a room and holds the links shut itself, and the distinction matters operationally: there is nothing here to unlock, nothing to release, and no procedure anywhere in the file that ends with the chains gone.

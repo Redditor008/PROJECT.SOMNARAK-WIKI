@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Drowned Roots Shroud
 
-> *“Drowned Roots Shroud remembers Drowned Roots; the bearer must not mistake memory for permission.”*
+> *"Nothing reaches you sharply in it. A grief takes an hour to arrive; a season takes you out of reach entirely."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Drowned Roots's kind of pressure.  
-**Binding rule:** the bearer names Drowned Roots's event—A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter.—and accepts this limit: Speak the soldier's duty without forcing a false name
+**Binding rule:** the bearer names Drowned Roots's event — “A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter.” — and accepts this limit: Speak the soldier's duty without forcing a false name
 
 ## Appearance
 
-The Drowned Roots Shroud is the suit record of the Drowned Roots set — γ-grade, Lament-aligned, resistant to Lament at 0.4 while enduring Weight at 0.8 and running weak to Void at 1.6, worn at 35 Sorrow Echoes a deployment — and its canonical ability grants resistance to Lament damage, protecting the Mind beneath branches grown from a duty nobody recorded. Binding names the source event — a soldier's name was erased from the war record, the forgotten duty growing into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is anhedonia: the wearer becomes numb to minor joys while the Shroud is worn. The source-trace fixed doctrine: the specter tests whether the worker can remain beneath its branches, and the Shroud uncouples the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+A shroud of root-fibre the colour of river silt, woven with the grain of a tree that grew in the wrong direction, its hem trailing like something still rooted. It will not sit straight on a bearer who has forced a name onto the erased; the hem lifts instead of settling. Around the wearer the air goes quiet in a way that is not silence — sound arrives, but it arrives late, and the wearer learns to read faces before they hear the sentence. Left on through a season of them, the delay stops being something the wearer notices at all.
 
 ## CORE STATISTICS
 
@@ -29,33 +29,26 @@ The Drowned Roots Shroud is the suit record of the Drowned Roots set — γ-grad
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Drowned Roots's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
+**Operational / binding cost:** The Shroud shields the mind by sinking it: worn, the wearer feels nothing sharply and every grief takes an hour to reach them. Worn long, they are unreachable even to themselves.
 
 ## ITEM-SPECIFIC HISTORY — *The Drowned Roots Source-Trace: Suit Record*
 
-The first Drowned Roots Shroud field bearer encountered this source response: Tests whether the worker can remain beneath its branches. The suit uncouples the immediate hazard only after the team attributed it to Drowned Roots. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Drowned Roots Shroud field bearer encountered this source response: Tests whether the worker can remain beneath its branches. The suit uncouples the immediate hazard only after the team attributed it to Drowned Roots. A wearer took an hour to register a grief told to them directly and did not notice the delay, and the Shroud’s binding is the note made at that review.
 
 ## FAILURE, CORROSION & CARE
 
-- First sign: the bearer describes Drowned Roots's event in first person.
-- Escalation: the item repeats the source response outside contact.
-- Terminal state: Drowned Roots's manifestation uses the bearer as its new site.
+- First sign: the bearer hears about their own loss secondhand and is not surprised by it.
+- Escalation: the delay lengthens past the shift, and the wearer is told about their own losses days after them.
+- Terminal state: the specter roots the bearer where they stand, and the grief that finally reaches them is not theirs to have.
 
 **Failure mode:** violating “Speak the soldier's duty without forcing a false name” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Drowned Roots Shroud only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Drowned Roots Shroud; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Shroud comes off before bad news is spoken — deliberately, and before, never after — and what was felt is named on the day it was felt, so the delay never becomes the habit.  
+**Emergency shutdown:** a witness takes the Shroud off before the news is spoken, so the grief lands at the speed it was told, and the wearer names the loss on the day it happened. What was already banked does not come back to normal speed.
 
 ## SET RELATIONSHIP
 
-Within *Drowned Roots — Witnessed Form*, Drowned Roots Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-997-C`  
-**Linked Entity:** `SE-997`  
-**Item Registry Code:** `MAW-S-997-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Drowned Roots — Witnessed Form*, Drowned Roots Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing in the room reaches the wearer sharply; the first shift where nothing does, the Shroud is out.

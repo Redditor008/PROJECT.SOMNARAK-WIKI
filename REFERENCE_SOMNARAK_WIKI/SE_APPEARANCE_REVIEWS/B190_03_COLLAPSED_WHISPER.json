@@ -1,0 +1,135 @@
+{
+  "designation": "C-IVδ-249",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md",
+  "words": 7805,
+  "sha256": "d51d48a8df5c22f302eb9ed994a7f33c0aacf9891d76980ab23106ee63cb2935",
+  "unit": 3,
+  "name": "Collapsed Whisper",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md",
+  "before_words": 7805,
+  "after_words": 7932,
+  "base": "0c2f884959d4fc7438223411e633765531ce7c57",
+  "final_sha256": "1cc737234e840529b2e3b401066675fbfd4186e8048bb9f7afc7078c15c5f000",
+  "summary": "Four source-supported repairs (2 short / 2 careful): the Flavor opening loses its template containment door — this holding is worked asleep, from monitored bays — and the after-departure paragraph becomes the residue statement the protocol actually runs; the two Consequences bullets stop promising a collapse that spreads 'through the fittings of the station' and an entity that 'walks out its event pattern', and record instead the surfacing pairing that has worked four times and a bearing series that proves the holding never comes looking for anybody. First independent full-set source review of SE-249: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
+  "commentary": "Collapsed Whisper is a dossier built on two series that can be trusted — a break at a second and a half across 840 sessions, a bearing that never comes closer — so its defects were the places where it stopped trusting them: a Flavor opening with a containment door that does not exist on a holding worked entirely in sleep, and two consequence lines borrowing the catalogue language of spreading collapse and outbound entities. The repairs put the file's own instruments back in those sentences. The equipment side needed no invention either: Fang, Plate and Thread agree across primary, item and Side cards, nothing anywhere shows an earlier disposition, and the one live contradiction — an item history in which a fragment reached a patrol, against the primary's absolute rule that no fragment may be passed on — is held exactly as found.",
+  "reasoning": "Set SE-249 identity resolved from Side A (SECC Designation C-IVδ-249 [GS], set 'The Message That Failed') and item codes MAW-W/S/G-249-01; all four flat set files read whole, including a check for any Side-side disposition paragraph (none — Side A is subject/management/set cards only). Sentence triage: the Flavor first-contact template ('The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room') contradicts the file's worked-asleep protocol and 'Nothing is sealed' containment detail; after-departure was generic pursuit language against the Residue Log; Consequences bullet 2's 'psychological first, then somatic, then through the fittings of the station' is the escalation catalogue against the documented pairing record (needed four times, worked four times); bullet 4's 'holding walks out its event pattern' contradicts the bearing series (never closer to an occupied position in nineteen years; 'this holding does not come looking for anybody'). R-18 split declared before the apply: 2 short / 2 careful. All replacements from file-documented facts only.",
+  "history": "Fresh-credit proof by negatives: no in-file cross-source/full-set review block in the primary (the per-piece care paragraphs are equipment records, not a disposition); Side A carries no Weapon-profile hold or equivalent review text; no prior evidence file mentions C-IVδ-249; ledger equipment_reviews has no 249 entry; git path history shows only the B179 import (87f1a01). First independent exact-pair/full-set review: Side A (113 lines) and items B/C/D read whole including Appearance sections; primary machine fields agree with item/Side cards (Grudge 10–15, 3/3, Skewer 100→70→50, 2/50; resistances; Tail/4%/+3 Resilience); Registry rows 538–541 confirm identity (Weapon Variable/-/-; Stigma generic Accessory/5%). Fresh credit: Types +1, Weapon +1, SE +0. Counters become 278/301, 276/287, 18/301.",
+  "holds": [
+    "Fragment-use contradiction held: item SE-249-D records the Thread carrying 'east—ground—' to an awake patrol who avoided a subsidence zone, against the primary's absolute rule that no fragment may be passed to a field crew in any form (with the Tuesday-fragment review finding the rule correctly applied). Neither record amends the other.",
+    "Suit appearance fork: primary harness 'dark and warm to the touch, that settles over the wearer and breathes as they do' vs item plates flickering between sleeping body and red-static silhouette — both stand.",
+    "Stigma Tail / 4% / +3 Resilience (primary, item, Side agree) vs Registry's generic Accessory / 5% — never imported.",
+    "Side A breach line (dream-space spreading at 90% Gauge) vs the primary's non-breaching Transform classification with no breach counter — primary governs itself; Side A untouched.",
+    "Break-time/bearing series and the terrain-word-count arrangement (23 counts, 23 surveys, two finds) remain the file's own findings, with the survey office's correct-and-continuing complaint unreconciled."
+  ],
+  "split": [
+    2,
+    2
+  ],
+  "repairs": [
+    {
+      "id": "R1-flavor-first-contact",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Dream resolves: A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep.",
+      "new": "**At first contact:** Nobody works this file awake. Contact begins when the sleeper goes under in a monitored bay and the layer takes them: static and red light first, fever-cold, smelling of char and dead signals — and at the edge of it a dream-figure formed from a whisper crushed beneath the layers, watching, never fully arriving. The monitor starts the clock at the first sound, because the sentence is already on its way to the break."
+    },
+    {
+      "id": "R2-flavor-after-departure",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "**After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.",
+      "new": "**After departure:** You surface with the conviction that something vital was almost said to you, and it does not lift at the bay door. The debrief gives it somewhere to go: the residue statement, in your own words, logged verbatim and then left alone — by the counsellors, by the archivists, and by you."
+    },
+    {
+      "id": "R3-consequences-held-past-clock",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and the collapse that follows — psychological first, then somatic, then through the fittings of the station — is the outcome the whole protocol exists to stop.",
+      "new": "- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and what follows is why two workers go down together and never one: the second sleeper is there to be surfaced if the first cannot be. The pairing has been needed four times in the holding's history and worked on all four occasions, which is the record the fixed clock is protecting."
+    },
+    {
+      "id": "R4-consequences-unresolved-bay",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- A bay that closes without closing does not stop at the rail: the holding walks out its event pattern, and the sentence nobody resolved takes the exit the session failed to give it.",
+      "new": "- A bay that closes without resolution puts nothing at the rail and sends nothing after anybody: the bearing series states flatly that this holding does not come looking for anybody, and has not once been found closer to an occupied position in nineteen years. What leaves the session is carried out in the worker's head, and it has a name in this wing — the residue — and a destination, the log, and a rule, which is that nobody works on it afterwards."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.025  clean   122 grams  Operational Parameters\n 0.020  clean   557 grams  Combat Record\n 0.015  clean   776 grams  M.A.W. Equipment\n 0.011  clean   188 grams  Trivia\n 0.005  clean   207 grams  기록 (Registrum)\n 0.003  clean   704 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1400 grams  Apex Record\n 0.000  clean   429 grams  이야기 (Narratio)\n 0.000  clean   303 grams  이야기 보고 (Story Log)\n 0.000  clean   275 grams  관찰 기록 (Observation Log)\n 0.000  clean   210 grams  Appearance\n 0.000  clean   153 grams  Behavior\n 0.000  clean   122 grams  Origin\n 0.000  clean   110 grams  최종 관찰 (Final Observation)\n 0.000  clean    99 grams  Containment Event Behavior\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   3  | **Han-Energy yield** | 20–28 per successful work cycle, taken off the break series and never off the voice |\n   84   4  | { *The Total Breakdown* [**Attack**] } | \"The entire whisper gives way — every word, every letter, collapsing at once.\" | [The w\n   85   7  | { *Every Voice Falls Apart* [**Ultimate**] } | \"No one can finish a sentence — every word collapses before it arrives — and the \n  176   2  **Appearance:** a fang-curved blade of Grudge Han-iron, finished dark and warm on the rack, that pulses with the source sorrow the\n  197   6  **Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch, that settles over the wearer and breathes as they\n  221   1  **Effect:** +3 Resilience while working the source holding, entered at issue and struck the day the bearer leaves the Desolate pos\n  241   1  | **Before use** | Wielder, piece, and a dated baseline taken before issue against what this holding takes — old hurts waking in t\n  243   1  | **At limit** | The cost runs continuously rather than in bursts — the reflexes dull, as though resentment had armoured them — an\n  244   1  | **After use** | Return the piece, reconcile the baseline, and enter whether the toll has lifted: the dulled reflexes have to hav\n  326   2  | The Whisper's neighbour | How the pairing has run | What the break series showed | What the entry carries |\n  380   1  **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the break series, t\n  446   2  - **Classification detail:** A Subject with Entity (IV) coherence and Critical (δ) potency, graded for what the gap does in a work\nGENERIC 0.005  (31 shared shingles)  SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-A__SIDE_CODEX_The_Collapsed_Whisper.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-B__MAW-W_The_Warning_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-C__MAW-S_The_Warning_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-D__MAW-G_The_Warning_Thread.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-A__SIDE_CODEX_The_Collapsed_Whisper.md": "98472637686f2d86556c3c55806fbd08807fe2e778c2c8013f36196c66626e34",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-B__MAW-W_The_Warning_Fang.md": "ce688670d69a6b0b037ae5c6f97d9f86957df8f3767b18fce5c21fdac8879998",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-C__MAW-S_The_Warning_Plate.md": "807ba140f805c112ed3822663624e7be7fdd4f8ac83f3dfcaaa090316e9a4ec1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-D__MAW-G_The_Warning_Thread.md": "b54a0e3cd6fa01b2ae9e8545b9afcc459b76ebb9344a02ecdf2f7e244fb80cda",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 1,
+    "weapon": 1,
+    "se": 0
+  },
+  "link": "[[SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\")]",
+  "table_link": "[Collapsed Whisper](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\")",
+  "reading": {
+    "before_lines": 456,
+    "before_bytes": 46765,
+    "final_lines": 456,
+    "final_bytes": 47425
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 72,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 2 — Limited |
 | Acquisition probability | 4% after successful Apnea work |
 | Bestowal event | The Charm appeared after a border worker was formally relieved before a Ferrehan fatigue transfer became collapse. |
 | Acceptance condition | The candidate agrees to report fatigue readings even when the result disrupts a mission plan. |
@@ -85,14 +86,3 @@ Park wore the Charm during a long border logistics run. It marked a driver who h
 The Charm is the warning conscience of *Exhale*. Fang clears a continuation loop and Breath protects the withdrawal; this Stigma ensures the set is used to relieve people rather than study their breakdown.
 
 > *“A warning is only mercy when someone is allowed to act on it.”* — Border Lead Mellda
-
----
-
-**Document ID:** `SE-159-D`  
-**Linked Entity:** `SE-159`  
-**Item Registry Code:** `MAW-G-159-01`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

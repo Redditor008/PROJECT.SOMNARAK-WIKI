@@ -1,0 +1,153 @@
+{
+  "designation": "C-Vω-925",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-925_Sorrow_Mass_압살의_한.md",
+  "words": 8581,
+  "sha256": "42dde7584803c20adb58ae83fbf265251502b0084dae60d021f6a0445b046ba6",
+  "unit": 5,
+  "name": "Sorrow Mass",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_05_SORROW_MASS.md",
+  "before_words": 8581,
+  "after_words": 8632,
+  "base": "b4eb18484aaf26e960d6b5833bf95f3b3443e8b0",
+  "final_sha256": "0da058e94433a137f56b897b4bf13931ca78c0aab4850053a36e2bfc21319b87",
+  "summary": "Eight repairs (5 short / 3 careful) in an unusually strong Sovereign file. The first three Combat Actions were retained because they already encode the foundation→stairwell→living-floor sequence, instrument-first detection and upheld false-positive evacuations; only the first row's area scope was made explicit. The Ultimate no longer discharges the whole district at 65%: it is the uncleared third stage reaching structural failure. Breach text now rises by storey rather than turn and forbids the physical suppression the rest of the file says has never existed; registry status no longer says Contained and UNCONTAINED in one breath. HELD; no credit because the primary already integrates the Edge, Veil, Token, structural Use Notes and gauge-round Field Use Record.",
+  "commentary": "This is bureaucratic horror at geological speed. The monster is a deflection reading; the heroism is clearing a perfectly ordinary-feeling floor because adjacent gauges disagree, then being proved unnecessary and upheld anyway. Any version that makes the Mass leap, speak, target a hero or explode has missed the entire terror of millimetres.",
+  "reasoning": "R-34 audit before editing. Identity is direct SE-925: Side A prints `C-Vω-925 [WH]`, Hazard/Hazard-Weight, V/ω, Weight, SECTOR-C-925 UNCONTAINED, Gauge 521/521, starts 35–50%, Han Pressure 11–20, Observation 5—Sovereign; B/C/D carry `MAW-W/S/G-925-01`. Exact Work agrees with the primary (Videre Decrease by legibility; Ferre Decrease by sustained presence; Flere/Pugna N/A), but Side A's formation/event fields are literally 'Not recorded' and its resolution is the generic reduce-until-contained sentence, while the primary's operational record is much more specific: no scheduled work, no resolution condition, architectural survey/evacuation, seventeen events in old unacknowledged places, foundation→stairwell→living floor without skipping, three unnecessary evacuations upheld, crushed wards bowed eleven months after two years of fatigue complaints. Combat rows 1–3 already follow that record and were retained after separate audit; row 1 needed only its stated all-person scope marked. Row 4 contradicted it with an at-once district discharge at 65%, before the file's sole >80% reading after failure. Breach Escalation said +5 per turn until suppressed while its own note says +10% per confirmed storey rather than per turn and Battle/Consequences say nothing is ever fought or suppressed. Registrum printed both Contained and UNCONTAINED. Flavor made the Mass find a personal grief frequency although Appearance, Breach and Chronicle define indifference/no apparition/no voice. Exact B/C/D Appearance prose supplies functions/costs but no concrete object form, so the primary's structural-material Edge/Veil/Token forms were retained. Every table block passed parsed cell-count equality before and after, and all four Trigger cells parse fifth.",
+  "history": "Draft/local history: first recorded recognition began as unexplained exhaustion; survey found years—Chronicle extrapolates a decade—of seep already in foundations. Seventeen major events, never where grief was fresh; three evacuations on single readings later found unnecessary and upheld; crushed wards bowed eleven months, complaints read as fatigue for two years, stabilised twice and retained for training; Director entered and returned without writing the cost. Exact SE-925 history is deliberately thin: formation/event 'Not recorded'; B/C/D preserve only the attribution rule that treating the response as autobiography reproduced the wound. Fresh equipment credit BARRED: before repair the primary already contained all three ω pieces with exact statistics, two exact costs, structural Use Notes and a bespoke Field Use Record keyed to gauge rounds/deflection. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+  "holds": [
+    "Origin/resolution fork: SE-925-A leaves formation and event 'Not recorded' and prescribes reducing the Gauge through Viderehan/Ferrehan until containment; the primary states there is no resolution condition, remains UNCONTAINED, and records no event ended by facility action—only floors cleared and four stable watches for site close-out. Neither layer was overwritten. Held.",
+    "Physical-scale fork: Physical Form places a gravity anomaly beneath the Alpha Tree where actual weight doubles/triples and only the Director entered/returned; the operational record treats a centreless volume seeping through many structures where crews work, and the Chronicle says localized gravity is unchanged while structural loads climb. Which description governs which volume is unresolved. Held.",
+    "Doctrine fork inside the primary: the front record says no work is scheduled, gauge falls when the survey is current, and no event ended by anything the facility did; the Sovereign Chronicle calls scheduled lightening rites the only mechanism that lifts the Mass and says the first incident closed as rite gauges fell. The Interaction Record itself says crew gauges fell while the vault interval did not move. Held.",
+    "Acute-event fork: the Sovereign Manifestation Log gives shift-scale events ending in one collective exhalation/pressure wave and normal weight, with wardens kneeling; Appearance/Battle give millimetres per month, permanent deflection, no voice/apparition and structural failure before casualties. No chronology reconciles acute release with slow seep. Held.",
+    "Stigma fork: equipment and SE-925-D give Sorrow Mass's Token, a heavy crystallized grain whose bearer carries an invisible load heavier near unresolved debt; the Chronicle calls the Stigma the *Unburdened Step*, granting lightness and loaded-stair climbing. Both records retained. Held.",
+    "Weapon-use fork: SE-925-B lets the Edge sever an attributed immediate manifestation and the primary Ability describes strikes, while Consequences/Field Use say the set is survey-only and nothing in this holding has ever been fought. Held.",
+    "Generic personal testimonies ('something that knew me', 'Work it once') remain as attributed subjective statements, not doctrine, against the file's indifferent-mass/no-scheduled-work record. Held."
+  ],
+  "split": [
+    5,
+    3
+  ],
+  "repairs": [
+    {
+      "id": "R1-first-weight-area-scope",
+      "kind": "short combat correction",
+      "careful": false,
+      "old": "| { *The First Weight* [**Debuff**] } | \"It arrives as a habit, not as a load: the long way round the stairs, and nobody has reported it.\" | [The volume settles over a working floor, and the gauges disagree with their neighbours before any single series begins to trend.] | *10 Weight to every person inside, logged by instrument ahead of any account from the people themselves.* **[10 Weight DMG [Weight]]** | On the first shift inside the volume, and on every shift after it until the survey reads stable. |",
+      "new": "| { *The First Weight* [**Debuff**] } | \"It arrives as a habit, not as a load: the long way round the stairs, and nobody has reported it.\" | [The volume settles over a working floor, and the gauges disagree with their neighbours before any single series begins to trend.] | *10 Weight to every person inside, logged by instrument ahead of any account from the people themselves.* **[10 Weight DMG [Weight] (AoE)]** | On the first shift inside the volume, and on every shift after it until the survey reads stable. |"
+    },
+    {
+      "id": "R2-weight-collapse-structural-failure",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Weight Collapse* [**Ultimate**] } | \"The weight breaks, and everything it held comes loose: the crushed wards were loaded past endurance before the doctrine existed.\" | [The volume's full load is released through the structure at once, and the structures that carry it worst are the ones built longest ago.] | *17 Weight per turn for three turns to everyone in the district. The ledger's only reading above 80% was taken after the floors had already gone.* **[17 Weight DMG [Weight] (AoE, x3 turns)]** | At 65% gauge; once, and only in a district where the mourning has stopped. |",
+      "new": "| { *The Weight Collapse* [**Ultimate**] } | \"Nothing is released. The members have been bowing for months; failure is only the moment the deflection stops being recoverable.\" | [After the foundation and stairwell stages, an uncleared load reaches the living floor and structural members pass endurance; floors and wards fail in sequence rather than discharging across a district at once.] | *17 Weight per turn for three turns to everyone remaining in the affected structure. The ledger's only reading above 80% was taken after the floors had already gone.* **[17 Weight DMG [Weight] (AoE, x3 turns)]** | When the third-stage living floor is left uncleared until its load-bearing members fail. |"
+    },
+    {
+      "id": "R3-escalation-per-storey",
+      "kind": "short breach correction",
+      "careful": false,
+      "old": "| **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |",
+      "new": "| **Escalation** | Pressure rises by confirmed storey of seep—foundation, stairwell, living floor—rather than by turn; it is not suppressed, only surveyed, cleared and structurally carried. |"
+    },
+    {
+      "id": "R4-no-physical-suppression",
+      "kind": "short breach correction",
+      "careful": false,
+      "old": "- **Containment priority:** Physical suppression required.",
+      "new": "- **Containment priority:** No physical suppression. Read adjacent foundation gauges, keep the deflection survey unbroken, and clear the floor on the first confirmed thickening."
+    },
+    {
+      "id": "R5-Veil-name",
+      "kind": "short equipment correction",
+      "careful": false,
+      "old": "**Bearer cost:** No blow is needed for the mantle to weigh on its bearer; a persistent tiredness gathers under the suit as the mass presses without aiming.",
+      "new": "**Bearer cost:** No blow is needed for the Veil to weigh on its bearer; a persistent tiredness gathers under the suit as the mass presses without aiming."
+    },
+    {
+      "id": "R6-flavor-instrument-before-body",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "The weight register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your weight — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.",
+      "new": "Nothing in the weight register is personal. A gauge disagrees with its neighbours, a dropped tool arrives too soon, and a floor plate carries load that no inventory can account for; the body reports the change later and less accurately than the instruments. A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned."
+    },
+    {
+      "id": "R7-uncontained-status",
+      "kind": "short registry correction",
+      "careful": false,
+      "old": "**Containment Status:** Contained — SECTOR-C-925 · UNCONTAINED",
+      "new": "**Containment Status:** UNCONTAINED — SECTOR-C-925"
+    },
+    {
+      "id": "R8-threat-assessment-load-ledger",
+      "kind": "careful registry correction",
+      "careful": true,
+      "old": "**Threat Assessment:** Catastrophic. A Hazard-Weight entity — the weight register is its defining characteristic. Risk: prolonged exposure to the weight pressure may produce effects not seen in standard weight entities.",
+      "new": "**Threat Assessment:** Catastrophic (ω). Seventeen major pressure events are on the Directorate ledger, none where grief was fresh and none skipping the foundation–stairwell–living-floor sequence. The primary casualty is structural: complaints are filed as fatigue while members deflect, and the crushed wards remain the standing measure of an uncleared third stage."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-Vω-925_Sorrow_Mass_압살의_한.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.019  clean   104 grams  Operational Parameters\n 0.013  clean   155 grams  Breach Behavior\n 0.005  clean   383 grams  M.A.W. Equipment\n 0.004  clean   511 grams  기록 (Registrum)\n 0.003  clean   602 grams  Combat Record\n 0.000  clean  3609 grams  Sovereign Chronicle\n 0.000  clean   200 grams  이야기 보고 (Story Log)\n 0.000  clean   187 grams  Appearance\n 0.000  clean   184 grams  감각 묘사 (Flavor Text)\n 0.000  clean   146 grams  관찰 기록 (Observation Log)\n 0.000  clean   144 grams  이야기 (Narratio)\n 0.000  clean   120 grams  Sovereign Manifestation Log\n 0.000  clean   107 grams  Origin\n 0.000  clean    97 grams  Behavior\n 0.000  clean    81 grams  City-Scale Impact & Directorate Posture\n 0.000  clean    54 grams  최종 관찰 (Final Observation)\n 0.000  clean    39 grams  증언 (Testimonium)\n 0.000  clean    35 grams  SECC Classification\n 0.000  clean    15 grams  Trivia\n 0.000  THIN     11 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Weight pressure; 18% against other pressure types |\n   85   1  | { *The Weight Collapse* [**Ultimate**] } | \"Nothing is released. The members have been bowing for months; failure is only the mo\n  164   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per confirmed storey of seep rather than per turn. The crushed wards even\n  198   2  **Effect:** +1 to the working stat on this holding's rounds; the bearer's gauge readings are trusted by one grade, which is the on\n  308   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.002  (10 shared shingles)  SE-C-Vω-925_Sorrow_Mass_압살의_한.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-A__SIDE_CODEX_Sorrow_Mass.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-B__MAW-W_Sorrow_Mass_s_Edge.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-C__MAW-S_Sorrow_Mass_s_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-D__MAW-G_Sorrow_Mass_s_Token.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-A__SIDE_CODEX_Sorrow_Mass.md": "cf49da21a7cd52c7f31eca6a6b6bbcdfb26e56ab6182f0ad4e7d5efe651c6b58",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-B__MAW-W_Sorrow_Mass_s_Edge.md": "fc409e8575006d6ac056853812637eca4f09653fd880f7fb9a8a88ce4fe377ab",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-C__MAW-S_Sorrow_Mass_s_Veil.md": "5c2b56e3ba80292b1c33be51ea238d4528c3f00a26e260560e8777856461d7b2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-D__MAW-G_Sorrow_Mass_s_Token.md": "a250f5dab2577b4c9679326251fe840ff935e878171188049085d2d246237136"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-Vω-925_Sorrow_Mass_압살의_한](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CF%89-925_Sorrow_Mass_%EC%95%95%EC%82%B4%EC%9D%98_%ED%95%9C.md \"SE-C-Vω-925_Sorrow_Mass_압살의_한.md\")]",
+  "table_link": "[[C-Vω-925 Sorrow Mass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CF%89-925_Sorrow_Mass_%EC%95%95%EC%82%B4%EC%9D%98_%ED%95%9C.md \"SE-C-Vω-925_Sorrow_Mass_압살의_한.md\")]",
+  "reading": {
+    "before_lines": 421,
+    "before_bytes": 54094,
+    "final_lines": 421,
+    "final_bytes": 54509
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 25,
+    "physical_form_rows_unchanged": 300,
+    "tale_unchanged": true,
+    "digit_sequence_change": "The Ultimate's unsupported 65% trigger was replaced by the primary's existing third-stage structural-failure condition; the 10/15/20/17 values and the sole >80% ledger reading were retained. No new statistic was introduced.",
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4
+  }
+}

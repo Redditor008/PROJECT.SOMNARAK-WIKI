@@ -47,7 +47,7 @@ Each Cadre operates as both a specialized guild and a municipal defense associat
 |          THE UNIVERSAL SECTION HIERARCHY (SECTIONS 1 TO 6)          |
 +---------------------------------------------------------------------+
 | SECTION | DESIGNATION    | OPERATIONAL JURISDICTION & MANDATE       |
-| --------+----------------+-----------------------------------       |
++---------+----------------+------------------------------------------+
 | Sec 01  | Directorate                                               |
 |   | Sovereign Command, Council Contracts, Existential Threats       |
 | Sec 02  | High Master                                               |
@@ -93,7 +93,7 @@ The intake hub of the Cadre, staffed by contract triage scribes, forensic evalua
 +---------------------------------------------------------------------+
 | CADRE NAME  | MUNICIPAL MONOPOLY       | SPEED | AP                 |
 |   | PRIMARY WORKSHOP                                                |
-| ------------+--------------------------+-------+----+-------------- |
++-------------+--------------------------+-------+----+---------------+
 | Giltong     | Doorspeech & Taboo Audit |  4-7  |  2                 |
 |   | Chim-Mok (Silence)                                              |
 | Su-Ho       | Bastion Aegis & Shields  |  1-3  |  2                 |
@@ -389,7 +389,7 @@ The **Gyeo-Tu Cadre** proves that the human body itself can be forged into a let
 |             CADRE TACTICAL SYNERGIES & STRIKE FORMATIONS            |
 +---------------------------------------------------------------------+
 | FORMATION NAME   | COMPOSITION (CADRES)        | TACTICAL DOCTRINE  |
-| -----------------+-----------------------------+------------------- |
++------------------+-----------------------------+--------------------+
 | Iron Triangle    | Su-Ho + Il-Gwang + Ui-Ryo                        |
 |   | Bastion frontline, heavy shock strike, sustained healing        |
 | Silent Inquest                                                      |

@@ -2,7 +2,7 @@
 
 > *“A number on a badge, a coat woven from nightmares, and an oath to hold the line until evening.”*
 
-**Personnel Dossiers**  [인사 기록부]  (_Insa Girokbu_) document the human workforce operating within Facility 01. 
+**Personnel Dossiers**  [인사 기록부]  (_Insa Girokbu_) document the human workforce operating within Facility 01.
 
 From frontline [Specialists](12-Specialists.md) who confront eldritch sorrow within containment chambers to the unarmored [Auxiliaries](12-Specialists.md) who maintain administrative ledgers, human personnel form the lifeblood of the Reverie Directorate's containment apparatus.
 

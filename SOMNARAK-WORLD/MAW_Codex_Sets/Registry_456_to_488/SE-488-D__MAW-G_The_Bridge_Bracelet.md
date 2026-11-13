@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 4 — Stocked
 A warm Grudge Han-iron Tail bracelet with two lights that activate independently. Bestowal chance is 5%.
 
 ## Appearance
@@ -26,14 +27,3 @@ The Bridge Bracelet is a warm crimson tail-bracelet of Han iron with two lights 
 **Failures:** one light forced on; debt mistaken for consent; repeated checking becomes coercion.
 
 **Care:** Confirm reciprocal acknowledgment without demanding equal expression.
-
----
-
-**Document ID:** `SE-488-D`  
-**Linked Entity:** `SE-488`  
-**Item Registry Code:** `MAW-G-488-01`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

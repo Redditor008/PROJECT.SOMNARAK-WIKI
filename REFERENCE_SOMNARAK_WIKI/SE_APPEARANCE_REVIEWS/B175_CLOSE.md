@@ -53,8 +53,8 @@ Fresh closing checks passed25/25, all54 tests and four archive-wide audits PASS.
 - [SE-903-D__MAW-G_Glass_Elsewhere_s_Token.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/903_Glass_Elsewhere/SE-903-D__MAW-G_Glass_Elsewhere_s_Token.md)
 - [README.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md)
 - [MAW_EQUIPMENT_MASTER_REGISTRY.csv](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv)
-- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md)
-- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md)
+- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md)
+- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md)
 
 [Individual raw evidence](B175_01_GLASS_ELSEWHERE.md). [39bd62367a43f6c205186ea210fcd81e8145afcb](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/39bd62367a43f6c205186ea210fcd81e8145afcb) — PUSH VERIFIED.
 
@@ -86,8 +86,8 @@ Fresh closing checks passed25/25, all54 tests and four archive-wide audits PASS.
 - [SE-677-D__MAW-G_The_Vanished_Floor.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-677-D__MAW-G_The_Vanished_Floor.md)
 - [README.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/README.md)
 - [MAW_EQUIPMENT_MASTER_REGISTRY.csv](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv)
-- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md)
-- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md)
+- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md)
+- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md)
 - [SOMNARAK_MAW_CODEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md)
 - [SOMNARAK_ENTITY_TALES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md)
 - [SOMNARAK_ENTITY_CODEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md)
@@ -124,8 +124,8 @@ Fresh closing checks passed25/25, all54 tests and four archive-wide audits PASS.
 - [SE-235-D__MAW-G_The_Watchers_Lens.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-235-D__MAW-G_The_Watchers_Lens.md)
 - [README.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/README.md)
 - [MAW_EQUIPMENT_MASTER_REGISTRY.csv](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv)
-- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md)
-- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md)
+- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md)
+- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md)
 - [SOMNARAK_MAW_CODEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md)
 - [SOMNARAK_ENTITY_TALES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md)
 - [SOMNARAK_ENTITY_CODEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md)
@@ -161,8 +161,8 @@ Fresh closing checks passed25/25, all54 tests and four archive-wide audits PASS.
 - [SE-902-D__MAW-G_Goru_s_Fist_s_Token.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/902_Goru_s_Fist/SE-902-D__MAW-G_Goru_s_Fist_s_Token.md)
 - [README.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md)
 - [MAW_EQUIPMENT_MASTER_REGISTRY.csv](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv)
-- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md)
-- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md)
+- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md)
+- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md)
 
 [Individual raw evidence](B175_04_BEATING_RELIC.md). [9f794fde5a05a73ba6f1e300ffb36b126b013668](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/9f794fde5a05a73ba6f1e300ffb36b126b013668) — PUSH VERIFIED.
 
@@ -196,8 +196,8 @@ Fresh closing checks passed25/25, all54 tests and four archive-wide audits PASS.
 - [SE-1039-D__MAW-G_Labyrinth_of_the_Unfinished_Mind_s_Token.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1039_Labyrinth_of_the_Unfinished_Mind/SE-1039-D__MAW-G_Labyrinth_of_the_Unfinished_Mind_s_Token.md)
 - [README.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md)
 - [MAW_EQUIPMENT_MASTER_REGISTRY.csv](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv)
-- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md)
-- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md)
+- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md)
+- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md)
 - [SOMNARAK_MAW_CODEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md)
 - [SOMNARAK_ENTITY_TALES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md)
 - [SOMNARAK_ENTITY_CODEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md)

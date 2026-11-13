@@ -2,7 +2,7 @@
 
 > *“Wiki look for our universe — structured by authentic encyclopedic design.”*
 
-**Pages** is the wiki-look encyclopedia for [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")]. Rather than spreading disconnected research notes, articles are structured according to the authentic architectural standards of major encyclopedias: **Three Main Ways**, **Two Sub Ways**, and **Individual Specimen Dossiers** (non-tool subjects and the three tool sub-types).
+**Pages** is the wiki-look encyclopedia for [SOMNARAK-WORLD](../README.md). Rather than spreading disconnected research notes, articles are structured according to the authentic architectural standards of major encyclopedias: **Three Main Ways**, **Two Sub Ways**, and **Individual Specimen Dossiers** (non-tool subjects and the three tool sub-types).
 
 ```text
 +========================================================================+
@@ -77,5 +77,4 @@
 
 ## See also
 
-- [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] — the full in-universe lore archive
-- `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md` — citable universe index
+- [SOMNARAK-WORLD](../README.md) — the full in-universe lore archive

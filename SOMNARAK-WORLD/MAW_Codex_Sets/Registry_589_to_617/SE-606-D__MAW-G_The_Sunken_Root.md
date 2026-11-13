@@ -19,6 +19,7 @@ A deep-blue crystal root curls around the Tail slot, carrying more weight than i
 | Field | Record |
 |---|---|
 | Grade / Element | δ / Lament |
+| **Maximum Amount** | 2 — Limited |
 | Slot / chance | Tail / 4% |
 | Bonus | +3 Clarity while working Banyan |
 | Acquisition | Voluntary random bestowal by the entity |
@@ -57,14 +58,3 @@ The Stigma has since been barred from unsupervised interviews, auditions, and de
 The Stigma locates buried pressure, Shroud grants a private place of expression, and Requiem cuts the structure enforcing concealment. The set never grants ownership of another person’s sorrow.
 
 > *“A root is evidence that something grows below. It is not permission to name the tree.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-606-D`  
-**Linked Entity:** `SE-606`  
-**Item Registry Code:** `MAW-G-606-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

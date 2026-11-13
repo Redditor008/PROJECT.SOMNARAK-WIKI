@@ -30,6 +30,10 @@ The Watcher’s Lens is a short-handled disc of almost colorless Han-glass. One 
 |---|---:|---|---|---:|
 | β / Void | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Actionable Sight:** The Lens attacks one documented present danger. It cannot target a person merely because surveillance marked them. Delay after designation drains the wielder’s nameless memories without producing a shot.
 
 ## SET, FAILURE & CARE
@@ -43,14 +47,3 @@ Stigma Lens provides the scene; Veil moves the responder; Weapon Lens acts. Pano
 **Maintenance:** Place the disc against the repaired site, not the report archive. The responder states what changed and what remains unsafe. The blank side clears only after real-world verification.
 
 **Shutdown:** Lower the Lens and transfer responsibility aloud to a named qualified person. Unassigned closure is another form of watching.
-
----
-
-**Document ID:** `SE-235-B`  
-**Linked Entity:** `SE-235`  
-**Item Registry Code:** `MAW-W-235-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

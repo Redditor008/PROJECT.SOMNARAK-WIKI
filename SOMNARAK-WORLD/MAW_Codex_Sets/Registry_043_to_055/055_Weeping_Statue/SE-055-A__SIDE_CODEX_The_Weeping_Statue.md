@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-055 [LS]`  
 **Author:** Chronicler Minseo  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Echo Gardens memorial chamber
 
@@ -56,8 +56,8 @@ Do not drain, bottle, or destroy tears without an Archive memorial protocol. The
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| Weapon | The Travertine Blind-Stiletto | β | Lament | Directs acknowledged grief into a controlled strike | `SE-055-B__MAW-W_The_Tear_Requiem.md` |
-| Suit | The Mourner's Pleated Peplos | β | Lament | Lets a bearer remain present in deep mourning | `SE-055-C__MAW-S_The_Tear_Shroud.md` |
+| Weapon | The Travertine Blind-Stiletto | β | Lament | Directs acknowledged grief into a controlled strike | `SE-055-B__MAW-W_The_Travertine_Blind_Stiletto.md` |
+| Suit | The Mourner's Pleated Peplos | β | Lament | Lets a bearer remain present in deep mourning | `SE-055-C__MAW-S_The_Mourner_s_Pleated_Peplos.md` |
 | Stigma | The Obsidian Tear Drop Earring | β | Lament | Turns visible tears into a source of short-term strength | `SE-055-D__MAW-G_The_Tear_Earring.md` |
 
 ### Set Resonance — Tears Given Room
@@ -86,13 +86,3 @@ Understanding requires a city record of the grief it told citizens to swallow fo
 
 ### Observation 4 — Pending
 Mastery requires the Statue to be unnecessary as the only place grief is permitted to appear.
-
----
-
-**Document ID:** `SE-055-A`  
-**Related Entity:** `SE-055`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

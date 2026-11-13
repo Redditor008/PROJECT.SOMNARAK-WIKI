@@ -14,7 +14,7 @@ Thralldom formed from a family chain used to restrain a loved one after love had
 | Type | Subject / Subject-Grudge |
 |---|---|
 | Element / Location | Grudge / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 198/198 / 3–10 |
+| Gauge / Pressure | 420/420 / 3–10 |
 | Work | Flerehan loosens links; Pugnahan provokes lashing; Viderehan reveals the relationship; Ferrehan remains without being bound |
 | Resolution | separate care from restraint and preserve an open exit |
 
@@ -29,12 +29,3 @@ Thralldom formed from a family chain used to restrain a loved one after love had
 **Full-set resonance — The Unbound Hearth:** *Care Without Captivity* harmonizes the delicate boundary where fierce devotion ceases to be a prison. The Wandering Fang cuts through parasitic bonds and manipulative vows; the Wandering Plate absorbs crushing domestic Grudge without hardening into an iron cage; and the Wandering Link monitors relational tension while guaranteeing an open exit. Misuse—wielding the set to subjugate, manipulate, or possess another operative under the guise of protection—causes the links to tighten violently around the bearer's ribs, inflicting crushing somatic pressure until the restraint is unconditionally renounced.
 
 **Recorded incidents:** the Loving Lock cut, where Fang severed the restraint clause; the Open-Door Plate test, where armor released only after the wearer could leave; the Wandering Link stigma, which identified obligation without fastening it to a body.
-
----
-**Document ID:** `SE-754-A`  
-**Linked Entity:** `SE-754`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

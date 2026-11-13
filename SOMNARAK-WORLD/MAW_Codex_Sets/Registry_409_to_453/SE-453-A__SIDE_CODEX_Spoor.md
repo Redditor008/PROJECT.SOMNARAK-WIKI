@@ -20,7 +20,7 @@ A faceless singing shadow walks abandoned Desolate routes, the last trace of a l
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Lament |
-| Gauge / Pressure | 35–50% / 10–23 |
+| Gauge / Pressure | 000% / 10–23 |
 | Observation | 2 |
 | Set | The Walked Record |
 
@@ -43,13 +43,3 @@ An echo forms after a full accompanied route is documented while identity remain
 Song reveals the overlooked route, Shroud preserves the companion, and Requiem cuts active erasure. The journey becomes evidence that a person existed without assigning identity. Naming the Shadow by guess transfers the false name and erases the bearer from ordinary attention.
 
 **Formal-ID note:** `SE-453` is assigned to Spoor. Keen (`O-Iα-453`) remains deferred.
-
----
-
-**Document ID:** `SE-453-A`  
-**Linked Entity:** `SE-453`  
-**Author:** Sentinel Harin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -21,7 +21,7 @@ A red-black ice mirror drifts through the Desolate, reflecting suppressed grief 
 | Coherence / Potency | I / α |
 | Element | Grudge |
 | Location | The Desolate — mobile |
-| Gauge / Pressure | 198/198; 25–40% / 3–10 |
+| Gauge / Pressure | 240/240; 25–40% / 3–10 |
 | Threshold / Resistance | 45% / 15% Grudge, 5% other |
 | Set | Reflection Without Verdict |
 
@@ -46,13 +46,3 @@ Reflection identifies whose anger is visible, Plate contains its Grudge, and Fan
 A patrol viewer saw murder in Vanity and drew Frozen Fang against his escort. Frozen Reflection showed the rage belonged to a displaced stranger whose grief the mirror had caught earlier. Euncris ordered the viewer to look away; Plate held the recoil until the stranger named anger without violent intent. The source thawed one crack.
 
 > *“Emotion can be evidence without becoming an order.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-643-A`  
-**Linked Entity:** `SE-643`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

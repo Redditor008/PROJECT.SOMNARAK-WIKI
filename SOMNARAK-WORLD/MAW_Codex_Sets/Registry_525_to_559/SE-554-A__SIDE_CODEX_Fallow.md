@@ -20,7 +20,7 @@ A rusted seed-creature crawls across the Desolate on root-spines, waiting for a 
 |---|---|
 | Coherence / Potency | I / α |
 | Element | Lament |
-| Gauge / Pressure | 25–40% / 3–10 |
+| Gauge / Pressure | 000% / 3–10 |
 | Observation | 1 |
 | Set | The Untended Promise |
 
@@ -41,13 +41,3 @@ An echo forms after Ferrehan accompanies the moving Seed without planting or exc
 ## RESONANCE — *Shelter Without Germination*
 
 Core grows a temporary shelter outside the source path, Shroud keeps grief from becoming identity, and Requiem removes invasive roots. The source remains unplanted. Using it as seed or promising a garden triggers uncontrollable growth through the operators.
-
----
-
-**Document ID:** `SE-554-A`  
-**Linked Entity:** `SE-554`  
-**Author:** Sentinel Harin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

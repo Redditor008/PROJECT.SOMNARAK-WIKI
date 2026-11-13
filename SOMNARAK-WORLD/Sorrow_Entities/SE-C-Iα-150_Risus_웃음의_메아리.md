@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-150 [LO]` |
-| **Entity Type** | **Object/Place** — Can spread |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
-| **Manifestation** | Subject-Lament |
-| **Physical Form** | Non-Organic — Not a body but a sound — distant laughter that arrives warm and bright, then thins until it is quietly, unbearably sad. Nothing to see; only the laughter and its slow turning to grief. Salt-damp, it smells of cold rain. |
+| **Manifestation** | Object-Lament |
+| **Physical Form** | Non-Organic |
 | **Movement** | Ambient and drifting in the Commons: record where the laughter is loudest, where it thins, and whether that region has moved since the last survey. There is no body or source for a listener to follow. |
 | **Location** | Zone D, Mantle Commons — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -27,10 +27,12 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the wall** — The Echo's laughter carries old, empty happiness; the target absorbs it. |
+| **Work Damage** | 1–2 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is laughter in the Commons with no source and no answer to address. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α (Minor) — the Requiem, Shroud and Bell are all α, and the benefit holds only against this holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -44,6 +46,28 @@
 - There is no breach counter. The audible field widens through the Commons. Mark listener positions at the approaches and use the second observer’s full-turn account; audio instruments record silence, not an acoustic boundary to pursue.
 - Extraction is a separate authorization and carries the same auditory exposure.
 
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
 ## Combat Record
 ### Core Stat Line
 
@@ -52,12 +76,13 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Lament pressure, 5% against other pressure types — a standing figure read at the Commons edge; nothing here has struck anybody and no instrument has registered a vibration from it. |
+| **Resistance** | 15% against Lament pressure, 5% against other pressure types — a standing figure read at the Commons edge. Nothing here has struck anybody and no instrument has registered a vibration from it. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 196/196 |
+| **Sorrow Gauge [Depth]** | **000 of 240** · ready · six doses · limit 180 s · recharge 10 min |
 | **Han Pressure [ATK]** | 3–9 per hit · Lament |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | α — affects pressure, durability, and escalation severity |
+
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
@@ -68,9 +93,8 @@
 | **Threat Role** | Minor encounter |
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Mantle Commons — ambient |
 | **Resolution Condition** | Let the laughter and grief coexist; do not suppress the sound |
 
@@ -81,8 +105,8 @@
 | { *The Distant Chuckle* [**Debuff**] } | "Laughter echoes — from very far away, from very long ago — and the joy in it has been hollow for centuries." | [The Echo's laughter carries old, empty happiness; the target absorbs it.] | *Target suffers -10 Composure; the hollow joy is worse than sorrow.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
 | { *The Wrong Humor* [**Debuff**] } | "The laughter is wrong — too loud, too bright, too long — like a mask glued to a scream." | [The Echo's distorted mirth unsettles; the target cannot distinguish joy from grief.] | *Target loses 10 Composure; every smile feels like a wound.* **[10 Lament DMG [Lament]]** | When the target remains. |
 | { *The Sonic Grin* [**Attack**] } | "The echo sharpens — and the concentrated laughter becomes a cutting wave." | [A focused blast of hollow laughter.] | *Inflicts Lament pressure and one wound of shattered composure.* **[14-22 Lament DMG [Lament]]** | When the Echo is disturbed. |
-| { *The Full Crescendo* [**Attack**] } | "Every laugh the loop has ever kept — forty to sixty voices, and eleven of ours — released at once, still bright." | [The Echo's complete release arrives as company that is not there.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Echo is silenced. |
-| { *The Laughing Chorus* [**Ultimate**] } | "Everyone hears it now — the laughter of a community four thousand years gone — and nobody can tell whether they are laughing or weeping." | [The Echo extends the loop across the whole field, personnel voices included.] | *All in range suffer Lament pressure for three turns of echoing laughter.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Crescendo* [**Attack**] } | "Every laugh the loop has ever kept — forty to sixty voices. And eleven of ours — released at once, still bright." | [The Echo's complete release arrives as company that is not there.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Echo is silenced. |
+| { *The Laughing Chorus* [**Exhaustion**] } | "The laughter reaches one set of ears and stops there — and whoever is hearing it cannot tell whether they are laughing or weeping." | [The loop closes on whoever is still in earshot, and stops at the door of the room.] | *The laughter spends itself on whoever is still in earshot, and then the room is quiet, and the quiet is worse.* **[12-20 Lament DMG [Lament], single target]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -101,7 +125,7 @@
 
 **A preserved sound, not its laughers:** No member of the vanished community stands inside the field. What persists is their joy heard after its makers are gone, so the arrival can be bright while the listener’s recognition becomes grief. Track the drifting loud region and the time to the turn without drawing a face, mouth or walking source for it. The Commons entrances are the access perimeter, not the edges of a creature. Work can lower volume for a shift; the unchanged volume through the joy-to-grief turn is a different observation. A blade, garment or bell made from a released sound-echo is derived equipment, not a newly revealed body of Risus.
 
-**Physical Form:** A sound rather than a body: distant laughter that arrives warm, then becomes quietly sad.
+**Physical Form:** There is no body. What is present is laughter, at a distance the ear cannot fix, arriving warm and round as laughter in a room two houses away. It is heard with the chest before the ear. Through a session it does not get quieter: it thins, losing everything that made it warm and keeping the volume, until what is left is the same sound with the joy taken out of it, and then it stops where the next breath would be.
 
 **Notable Features:** It repeats laughter from people who are no longer joyful and fades when directly pursued.
 
@@ -109,8 +133,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Lament
-- **Primary marker:** A sound rather than a body: distant laughter that arrives warm, then becomes quietly sad.
-- **Position / movement:** Ambient and drifting; there is no source to locate and the attempt to locate one is the commonest error on this post. Record where the sound is loudest, where it thins, and whether the loud region has moved since the last survey. Directional equipment has produced four contradictory bearings in one session.
+- **Position / movement:** Ambient and drifting. There is no source to locate and the attempt to locate one is the commonest error on this post. Record where the sound is loudest, where it thins, and whether the loud region has moved since the last survey. Directional equipment has produced four contradictory bearings in one session.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Mantle Commons — ambient
 
@@ -118,11 +141,10 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A sound rather than a body: distant laughter that arrives warm, then becomes quietly sad. |
 | **Position / movement** | Mobile — drifts or flows through the area. Recorded at every Risus cycle against the previous reading. |
 | **Material / signature** | No visible body or physical vibration: laughter arrives warm and bright, then thins into grief without a volume change through the turn. Record the listener’s account and the silent instrument reading separately; cold-rain and salt-damp impressions are not a visible material shell. |
-| **Distinctive markers** | Identify it by the turn. Several ambient records are catalogued in Zone D; this is the one that arrives as laughter and becomes grief without changing volume, and instruments register no vibration at any point. Confirm it against the designation before contact; the registry holds more than one record of this form. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; Zone D holds more than one ambient record, and this is the one where locating the source is itself the error. |
+| **Distinctive markers** | Identify it by the turn. Several ambient records are catalogued in Zone D. This is the one that arrives as laughter and becomes grief without changing volume, and instruments register no vibration at any point. Confirm it against the designation before contact; the registry holds more than one record of this form. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins. Zone D holds more than one ambient record, and this is the one where locating the source is itself the error. |
 
 **Appearance protocol:** There is nothing to see and the entry is the sound itself. Record how the laughter arrives — warm, bright, at conversational distance — and how long it takes to thin into grief, which is the only timing in this file that matters. Note how many distinct voices can be separated out, and whether any of them is recognised by anyone present.
 
@@ -133,23 +155,17 @@
 - **The People:** A community of the Mantle Commons who are not otherwise recorded. Nothing of them survives except the laughter, which means the Keepers' record has their voices and not their names — the inverse of almost every other file in this wing, and the reason Viderehan is worked here at all.
 - **Expanded origin context:** The Commons were a gathering place — a market square where a community met, traded and laughed — and the laughter was real rather than the performed kind the city trains. Nothing else about them survives, which is why the first survey set out to count what was left: forty to sixty voices were separable at that first reading, the same range as at the most recent, and no voice has ever left the loop. Eleven of them are facility personnel, distinguished by the wing's own survey rather than by any difference in the sound, and four of those eleven are still employed here. The file is the inverse of almost every other in this wing: the Keepers hold the voices and not the names. What the survey measures is therefore not the count, which has not moved, but the eleven, which is the only part of this entity the facility answers for.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the people and moment behind the laughter. | Stable |
-| **Ferrehan** | Continues around the worker until they can hear sadness in joy. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | On Risus: let the laughter and grief coexist; do not suppress the sound. |
+| **Handling** | The carry the cycle; the condition decides it. — see `## Handling Process` |
+| **Withdrawal** | Let the laughter and grief coexist; do not suppress the sound. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 45% — is done on purpose. |
 
-
-### Operational Work Notes
-
-Work Type data is one input among many, and the check that matters here is the one the smoke test has no field for: the Commons holds a sound and the people who made it are four thousand years dead, so there is nobody to weep with through Flerehan and nothing to confront through Pugnahan. Viderehan and Ferrehan are the whole of the work. Risus is an Object/Place with Lament manifestation and Lament elemental expression, ambient in the Commons, and no assumption transfers from another entity with a similar name — the wing holds more than one Commons record that is a sound, and they are managed oppositely. A stable gauge is not a safe encounter: Viderehan leaves the reading exactly where it was and still shows the worker a moment they will not be able to put down.
-
-**Reading the response:** A falling reading under Ferrehan means a worker stayed until the sound turned and did not treat the turn as the unpleasant part. Stability under Viderehan is correct and complete. The reading rises when the sound is pursued, recorded for identification, suppressed, or talked over — and it rises most when somebody laughs along with it.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -163,7 +179,7 @@ Work Type data is one input among many, and the check that matters here is the o
 
 ### Escalation Notes
 
-Escalation here is not a breach event and has no force in it: what spreads is the audible field, and what feeds it is anybody laughing in the Commons, on duty or off. Record the first trigger, how many voices were separable, whether any was recognised and by whom, the interval between the laughter arriving and turning, and how much laughter the personnel present contributed — the last field is the one the wing actually manages against, and a session in which somebody laughed along is not a null.
+Escalation here is not a breach event and has no force in it: what spreads is the audible field, and what feeds it is anybody laughing in the Commons, on duty or off. Record the first trigger, how many voices were separable, whether any was recognised and by whom, the interval between the laughter arriving and turning. And how much laughter the personnel present contributed — the last field is the one the wing actually manages against. And a session in which somebody laughed along is not a null.
 
 **Response sequence:** put the perimeter at the Commons entrances, establish whether the event is an expansion rather than an activation, and withdraw everybody who is not rostered to listen — off-duty staff first, because they are the likeliest to laugh. Then apply the condition: let the laughter and grief coexist; do not suppress the sound. No unlisted Work Type is improvised, and nothing is chased.
 
@@ -173,7 +189,7 @@ Escalation here is not a breach event and has no force in it: what spreads is th
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Shared laughter followed by unacknowledged loss. |
-| **Manifestation** | Subject-Lament |
+| **Manifestation** | Object-Lament |
 | **Primary effect** | Personnel hear laughter that does not belong to the present. |
 | **Duration / rate** | Slowly spreads through the Commons. |
 | **Risk** | Minor (α) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
@@ -190,7 +206,7 @@ Escalation here is not a breach event and has no force in it: what spreads is th
 
 **Appearance:** A slender deep-blue Han-crystal blade, cool and faintly luminous, that pulses in time with whatever the Echo is doing rather than with the wielder's hand.
 
-A bright tonal shimmer lies across the flat and fades into sorrow as the hilt is gripped; the grip is short and cord-wrapped in blue, and the guard carries a tiny hollow that sounds a brief laugh-like chime before the edge releases its Lament line. The blade stays silent until the bearer names one present joy and one loss connected to it.
+A bright tonal shimmer lies across the flat and fades into sorrow as the hilt is gripped. The grip is short and cord-wrapped in blue, and the guard carries a tiny hollow that sounds a brief laugh-like chime before the edge releases its Lament line. The blade stays silent until the bearer names one present joy and one loss connected to it.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)
@@ -200,14 +216,14 @@ A bright tonal shimmer lies across the flat and fades into sorrow as the hilt is
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** The Requiem delivers its full Single strike to the designated target only. That equipment coverage does not restrict the ambient Commons loop to one listener; group exposure, contributed personnel laughter and the field-wide Chorus are separate source effects.
+**Falloff Rule:** The Requiem delivers its full Single strike to the designated target only. That equipment coverage does not restrict the ambient Commons loop to one listener. Group exposure, contributed personnel laughter and the field-wide Chorus are separate source effects.
 **Damage Application:** Record the strike and the aftertone separately. The lament lands once; the inability to enjoy company persists for the rest of the shift, and reports that merge them understate how long the worker stays apart from the team.
 
 **Ability:** Lament damage to the mind, carrying the Echo's own signature — joy heard from outside, after the fact — and what it opens in a target is the sense that the good hour they are standing in is already over.
 
-**Cost:** The wielder carries the Echo's unwept grief and weeps involuntarily, most often immediately after laughing.
+**Bearer cost:** The wielder carries the Echo's unwept grief and weeps involuntarily, most often immediately after laughing.
 
-**Requiem care:** A willing witness names the connected joy and absence with the bearer. Mocking grief or forcing cheer silences the blade and turns its output into an internal ache; that is a rejection, not a reason to strike again for a tone. Store the Requiem in a sound-damp case rather than a recording vault. For shutdown the witness covers the hilt chime, names the loss and sheathes it. Snapping the blade spreads a laugh-to-grief loop among nearby listeners, so destruction is not the recorded return procedure.
+**Requiem care:** A willing witness names the connected joy and absence with the bearer. Mocking grief or forcing cheer silences the blade and turns its output into an internal ache. That is a rejection, not a reason to strike again for a tone. Store the Requiem in a sound-damp case rather than a recording vault. For shutdown the witness covers the hilt chime, names the loss and sheathes it. Snapping the blade spreads a laugh-to-grief loop among nearby listeners, so destruction is not the recorded return procedure.
 
 ### M.A.W. Suit — The Laughter Shroud
 
@@ -215,7 +231,7 @@ A bright tonal shimmer lies across the flat and fades into sorrow as the hilt is
 
 **Appearance:** A wrapping shroud of deep-blue Han cloth, cool and faintly luminous, cut long enough that a worker can sit in it and let the sound go around rather than through.
 
-Small bell-like folds run the hem, each holding a slightly different curve; the lining stays cold while the folds take in a laugh, an exhale or a tear and give it back as a softer shared tone. The folds go quiet the moment the wearer performs happiness for an audience.
+Small bell-like folds run the hem, each holding a slightly different curve. The lining stays cold while the folds take in a laugh, an exhale or a tear and give it back as a softer shared tone. The folds go quiet the moment the wearer performs happiness for an audience.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -227,7 +243,7 @@ Small bell-like folds run the hem, each holding a slightly different curve; the 
 
 **Ability:** Lament is turned aside from the mind rather than from the body, and the mind is the only place this holding presses: a worker in the shroud can sit a whole turn of the sound without standing up at the moment it turns.
 
-**Cost:** The wearer goes numb to small pleasures and reports it first as other people's jokes arriving as information.
+**Bearer cost:** The wearer goes numb to small pleasures and reports it first as other people's jokes arriving as information.
 
 **Shroud care:** The cloth holds resonance, not ownership of the community’s actual laughter. Choose a communal witness who can distinguish relief from emotional shutdown. Flat folds mark the attempt to avoid sadness and loss of Lament protection; they are not evidence that the source loop has fallen silent. After use, acknowledge an actual happy memory and a loss-memory, then hang the garment in its open Commons case. For shutdown the witness folds the hem inward, names the final note and removes it; cutting the folds releases a scattered laugh-loop.
 
@@ -237,7 +253,7 @@ Small bell-like folds run the hem, each holding a slightly different curve; the 
 
 **Appearance:** A deep-blue bell of Han metal, small enough to sit between two palms, cool to the eye and warm in the palm, worn at the tail of a belt.
 
-The surface is smooth and carries no visible clapper, and the bell stays silent unless two people hold it between them; it rings without vibration and opens a brief warmth for a few breaths. When the field ends the same warm metal turns cool as the closing memory arrives.
+The surface is smooth and carries no visible clapper, and the bell stays silent unless two people hold it between them. It rings without vibration and opens a brief warmth for a few breaths. When the field ends the same warm metal turns cool as the closing memory arrives.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -245,7 +261,7 @@ The surface is smooth and carries no visible clapper, and the bell stays silent 
 
 **Ability:** Creates a brief field of genuine emotional relief.
 
-**Cost:** The relief ends by replaying a memory of what has been lost.
+**Bearer cost:** The relief ends by replaying a memory of what has been lost.
 
 *The bell is not manufactured. Risus gives one to a worker who heard their own laugh in the loop and stayed in the room, and has given none to anyone who went looking for the source.*
 
@@ -263,12 +279,12 @@ The set's price is remembrance, and its working rule is on the file: relief ends
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Name the wielder, the piece and the gauge at issue, and seal a baseline of what this person laughs at without meaning to; the toll on file is the weeping that follows laughter, and the baseline opens at the end of the rotation. The bearer names a witness who can remind them that joy is not a betrayal of the loss, and that witness is the one who ends the use if relief has become avoidance. |
+| **Before use** | Name the wielder, the piece and the gauge at issue. And seal a baseline of what this person laughs at without meaning to. The toll on file is the weeping that follows laughter. And the baseline opens at the end of the rotation. The bearer names a witness who can remind them that joy is not a betrayal of the loss, and that witness is the one who ends the use if relief has become avoidance. |
 | **During use** | Charging presents as the toll itself: weeping after laughing. The wielder's own account is taken separately and afterwards, by the second worker, and nobody asks what they heard in the loop. |
 | **At limit** | The wearer goes numb to small pleasures and reports it first as other people's jokes arriving as information — and then stops reporting it, which is the usual end point for a Risus piece. The observer calls the limit. |
 | **After use** | Return the piece and open the sealed baseline: if the numbness outlasted the rotation, the entry stands and the piece is not reissued to that wielder, whether or not they agree. For the bell, bearer and witness state what brought the relief and what the closing memory recalled before the piece is covered and put away. |
 
-**Stat interpretation:** The grades describe extraction stability and say nothing about what the piece does to the person carrying it; on this set both figures are marginal, and nothing on this post is settled by equipment. The table cannot show what the Keepers watch for: the bell rings faintly whenever its wearer laughs, anywhere in the facility, and most wearers stop within a month.
+**Stat interpretation:** The grades describe extraction stability and say nothing about what the piece does to the person carrying it. On this set both figures are marginal, and nothing on this post is settled by equipment. The table cannot show what the Keepers watch for: the bell rings faintly whenever its wearer laughs, anywhere in the facility, and most wearers stop within a month.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -286,11 +302,11 @@ The set's price is remembrance, and its working rule is on the file: relief ends
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Confirm the designation and the manifestation before the listen, and check it again if the sound fails to resolve on approach: Zone D holds more than one ambient record and the register manages them in opposite directions. The first reliable markers are the Lament signature, the arrival at conversational distance, and the Commons at dusk. |
-| **Sustained observation** | Full turns rather than fixed intervals, because a sample taken during the bright phase describes a different entity: record where the sound is loudest, how long it lasts before the turn, and how many voices can be separated — the eleven in the loop are personnel, and they are the only part of it the facility answers for. |
+| **Sustained observation** | Full turns rather than fixed intervals, because a sample taken during the bright phase describes a different entity: record where the sound is loudest, how long it lasts before the turn. And how many voices can be separated — the eleven in the loop are personnel. And they are the only part of it the facility answers for. |
 | **Activation or escalation** | Shared laughter followed by unacknowledged loss. Everything else in this row is secondary to getting that one fact written down accurately. |
-| **Post-contact review** | What was different in the sound, in the Commons and in the listener; whether any voice was recognised and by whom; every laugh the team contributed; and the interval before the turn, in minutes. A review that records only the hazard is incomplete here, because what this file preserves is somebody else's happiness rather than anybody's grief. |
+| **Post-contact review** | What was different in the sound, in the Commons and in the listener. Whether any voice was recognised and by whom. Every laugh the team contributed; and the interval before the turn, in minutes. A review that records only the hazard is incomplete here, because what this file preserves is somebody else's happiness rather than anybody's grief. |
 
-**Observation method:** Laughter at a distance that does not resolve on approach; the first sensation, which is pleasure; the interval before the turn, in minutes; every laugh the team contributed; and the condition that ends the session — a worker hearing the grief inside the sound without needing it explained. The last two move the file, and both are entered by the second worker rather than by the listener.
+**Observation method:** Laughter at a distance that does not resolve on approach. The first sensation, which is pleasure. The interval before the turn, in minutes. Every laugh the team contributed; and the condition that ends the session — a worker hearing the grief inside the sound without needing it explained. The last two move the file, and both are entered by the second worker rather than by the listener.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -302,7 +318,7 @@ Risus (C-Iα-150 [LO]) is carried on the wing's register as a Lament manifestati
 Voices separable at the first survey: between forty and sixty, the range reflecting the limits of the method rather than any change in the sound. Voices separable at the most recent: between forty and sixty, plus eleven identified as facility personnel, of whom four are still employed here. No voice has ever left the loop. The survey's standing note is that the count is not the measurement — the eleven are, and they are the only part of this entity the facility is responsible for.
 
 **Entry 3 — <Statement of a Worker Who Heard Herself>**
-"It was the laugh I do when something is not funny and I am being kind about it. I knew it straight away. What I was not ready for is that it is in there with all of them, so it goes bright and then it goes sad with the rest, and that is going to keep happening in that room for as long as the room is there. I stayed. The shroud helps. I would not describe it as distressing, exactly. I have just stopped being casual about where I laugh, and so has everyone I told."
+"It was the laugh I do when something is not funny and I am being kind about it. I knew it straight away. What I was not ready for is that it is in there with all of them. So it goes bright and then it goes sad with the rest. And that is going to keep happening in that room for as long as the room is there. I stayed. The shroud helps. I would not describe it as distressing, exactly. I have just stopped being casual about where I laugh, and so has everyone I told."
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the people and moment behind the laughter. (Stable); Ferrehan: Continues around the worker until they can hear sadness in joy. (Decrease). Personnel report rage when they expect joy and hear sorrow instead.
@@ -314,7 +330,7 @@ What arrives is laughter — warm, bright, somebody enjoying themselves at a dis
 
 > What the listen comes down to: let the laughter and the grief stand in the same room, or reach out to change the sound — quiet it, chase it, or join it.
 
-| Do the thing on file: let the laughter and grief coexist; do not suppress, chase, record or talk over the sound, and do not laugh along with it. | Choose the kinder-looking alternative — silence the source, or answer the laughter with your own — which is how every recorded rise on this post began. |
+| Do the thing on file: let the laughter and grief coexist. Do not suppress, chase, record or talk over the sound, and do not laugh along with it. | Choose the kinder-looking alternative — silence the source, or answer the laughter with your own — which is how every recorded rise on this post began. |
 |---|---|
 | Continues around the worker until they can hear sadness in joy. The sorrow is witnessed; Risus is fully recorded. | Reveals the people and moment behind the laughter. The gauge climbs and Risus withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -325,17 +341,17 @@ You hear laughter around the corner. It is warm, familiar, and impossible. When 
 
 
 
-**At first contact:** Laughter arrives at conversational distance and stays warm, and nothing under it resolves on approach; the instruments read silence throughout, which is the detail to enter rather than the anomaly to investigate. Note how long the bright part lasts before it thins, and how many voices can be separated out.
+**At first contact:** Laughter arrives at conversational distance and stays warm, and nothing under it resolves on approach. The instruments read silence throughout, which is the detail to enter rather than the anomaly to investigate. Note how long the bright part lasts before it thins, and how many voices can be separated out.
 
 **With continued exposure:** The brightness thins without a physical vibration appearing on the instruments. A listener can separate a familiar laugh from the chorus and recognise that it is now part of the preserved loop. Record that recognition and any laugh the current team contributed; do not mistake the feeling of company for people standing among the stalls. Stay with a second observer through the turn rather than chase the place from which it seems to come.
 
-**When the entity activates:** Shared laughter followed by unacknowledged loss widens the audible field. Listeners hear joy that does not belong to the present; the record is the trigger, the turn and the laughter contributed, not a figure remembering or deciding to attack. Withdraw those not rostered to listen, keep the paired observation, and let the laughter and grief coexist without silencing or answering the loop.
+**When the entity activates:** Shared laughter followed by unacknowledged loss widens the audible field. Listeners hear joy that does not belong to the present. The record is the trigger, the turn and the laughter contributed, not a figure remembering or deciding to attack. Withdraw those not rostered to listen, keep the paired observation, and let the laughter and grief coexist without silencing or answering the loop.
 
 **After departure:** The corridor is quiet and your hearing is fine, and something in the chest stays where the second part of the sound put it. Nobody on this post has yet described that residue the same way twice, which is why nobody listens alone.
 
 ### Interaction Pattern
 
-The three relations on file for Risus — The Hollow Choir, The Kind Healer and Silence We Forgot We Made — are co-presences in the Commons rather than alliances, and the Commons is what makes them: all three are made of leftovers, and in proximity each makes the others sound more like company than they are. Record whether the laughter thinned sooner, whether a new voice entered the loop, and whether the other holding showed any response at all; two of the three have, and neither response has been explained.
+The three relations on file for Risus — The Hollow Choir, The Kind Healer and Silence We Forgot We Made — are co-presences in the Commons rather than alliances. And the Commons is what makes them: all three are made of leftovers. And in proximity each makes the others sound more like company than they are. Record whether the laughter thinned sooner, whether a new voice entered the loop, and whether the other holding showed any response at all. Two of the three have, and neither response has been explained.
 
 **Interaction method:** Baseline it across a full turn of the sound rather than a fixed interval, because a sample taken during the bright phase describes a different entity. In shared conditions record whether the laughter thinned sooner, whether any new voice entered the loop, and whether the other entity produced any response at all — two have, and neither response has been explained.
 
@@ -346,9 +362,9 @@ Risus is filed with the Zone D records that are made of leftovers rather than of
 
 | Related entity | The co-presence, as observed | What the Commons did | What is carried forward |
 |---|---|---|---|
-| **The Hollow Choir** | Its harmony comes in under the laughter and stays there; the loop's bright phase lasts longer with the Choir present and the turn, when it arrives, arrives slower. | No change to the voice count and none to the Gauge on either side; the Choir's own record is flat throughout. | The pairing times, both Gauge series, and the voice count before and after. |
-| **The Kind Healer** | Something in the room is briefly and genuinely warm — the only record on this post of the first phase without the turn behind it — and it ends when the Healer leaves. | The Gauge does not move and neither does the loop; the warmth is in the listeners rather than in the sound. | The co-presence times, both Gauges, and the listeners' own accounts, held as their statements. |
-| **Silence We Forgot We Made** | Where the two meet, the loop takes the silence and gives nothing back: the bright phase shortens and the second part holds longer than the file records for either holding alone. | This pairing shortens the bright phase and lengthens the grief phase, unlike the Choir’s longer bright phase. It is the one the wing has declined to repeat on purpose; keep each timing series distinct rather than claim the Choir left the loop’s timing unchanged. | The pairing times, the shortened bright phase, the extended second part, and the decision not to arrange a third. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | Its harmony comes in under the laughter and stays there. The loop's bright phase lasts longer with the Choir present and the turn, when it arrives, arrives slower. | No change to the voice count and none to the Gauge on either side; the Choir's own record is flat throughout. | The pairing times, both Gauge series, and the voice count before and after. |
+| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Something in the room is briefly and genuinely warm — the only record on this post of the first phase without the turn behind it — and it ends when the Healer leaves. | The Gauge does not move and neither does the loop; the warmth is in the listeners rather than in the sound. | The co-presence times, both Gauges, and the listeners' own accounts, held as their statements. |
+| **Silence We Forgot We Made** | Where the two meet, the loop takes the silence and gives nothing back: the bright phase shortens and the second part holds longer than the file records for either holding alone. | This pairing shortens the bright phase and lengthens the grief phase, unlike the Choir’s longer bright phase. It is the one the wing has declined to repeat on purpose. Keep each timing series distinct rather than claim the Choir left the loop’s timing unchanged. | The pairing times, the shortened bright phase, the extended second part, and the decision not to arrange a third. |
 
 **Interaction procedure:** Full-turn solo baseline first, then the shared encounter: voice count before and after, the interval to the turn, how long the loop stayed altered once the other entity withdrew, and whether any personnel laughed during the overlap. The last field invalidates the measurement if it is not recorded, because a contributed laugh changes the loop permanently.
 
@@ -380,16 +396,16 @@ Some sorrows mourn the dead. Risus mourns the happy — the community that was, 
 > *“I heard it and wept. Not from sadness. From the knowledge that the happiness was real and is over.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-150 [LO]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Subject-Lament manifestation. The previous line carried Entity (IV) coherence, Major (γ) potency and a Place-Lament manifestation against a designation of `C-Iα-150`; a Minor-residue designation governs and the three fields are corrected to it.
+**Classification:** Sorrow Entity — `C-Iα-150 [LO]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Subject-Lament manifestation. The previous line carried Entity (IV) coherence, Major (γ) potency and a Place-Lament manifestation against a designation of `C-Iα-150`. A Minor-residue designation governs and the three fields are corrected to it.
 **Common Name:** Risus
 **Containment Status:** Ambient — Zone D, Mantle Commons
 **Comprehension Level:** 1 — Initial. The header, the operational parameters and the combat record all hold Level 1, and the sound is better catalogued than the community that made it.
 **Threat Assessment:** Minor (α). Nothing here has struck or spread beyond the Commons in the holding's record, and the grade is carried by the audible field and by what the file cannot do: remove anything from the loop. Effect: hearing it induces the grief of joy remembered after its source is gone.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only. The earlier line naming Flerehan as the sole valid Work Type contradicted the behaviour table, which marks it N/A on an Object/Place, and is corrected here.
+- Viderehan and Ferrehan only. The earlier line naming Flerehan as the sole valid Work Type contradicted the behaviour table, which files it Net-Neutral on an Object/Place, and is corrected here.
 - The laughter is ambient and cannot be contained.
 **Observation Notes:**
-- Formed from a vanished community’s real joy, which the Weeping could not dissolve. The loop holds 40 to 60 separable voices, the same range at the most recent survey as at the first; 11 of them are personnel voices, four still employed here; the first recognised staff laugh entered 19 years ago and no voice has ever left. The turn takes between 40 minutes and two hours and cannot be hurried.
+- Formed from a vanished community’s real joy, which the Weeping could not dissolve. The loop holds 40 to 60 separable voices, the same range at the most recent survey as at the first. 11 Of them are personnel voices, four still employed here. The first recognised staff laugh entered 19 years ago and no voice has ever left. The turn takes between 40 minutes and two hours and cannot be hurried.
 **Cross-References:** Zone D · The Consolihan
 **Faction Involvement:** SED, whose Zone D survey covers the Commons approaches, and UCD, who hold the Fray-adjacent reports in which the laughter was first logged as a hazard rather than as a remnant.
 **Originator:** A vanished community of the Commons.
@@ -398,7 +414,7 @@ Some sorrows mourn the dead. Risus mourns the happy — the community that was, 
 
 **Operational interpretation:** Read this as a collection rather than as an entity with intentions. Every figure follows from what has been put into the loop. The percentage is the whole mechanism; there is no counter to exhaust, and an empty Commons produces no movement in either direction.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any change to Commons access, and after any session in which a worker recognised a voice — the last unconditionally, and with the recognising worker's rotation reviewed, because the recognitions have clustered in a small number of people and nobody has established why.
+**Review requirement:** Re-verify after any Sorrow Tide, after any change to Commons access. And after any session in which a worker recognised a voice — the last unconditionally. And with the recognising worker's rotation reviewed, because the recognitions have clustered in a small number of people and nobody has established why.
 ## Trivia
 
 - Audio instruments record silence even while personnel hear laughter.
@@ -410,7 +426,7 @@ Some sorrows mourn the dead. Risus mourns the happy — the community that was, 
 
 - **Classification detail:** Risus is an Object/Place with Residue (I) — Barely formed, ambient coherence and Minor (α) potency.
 - **Field detail:** Element Lament, registered ambient in the Mantle Commons, where the sound is strongest at dusk and the voice count — not the access doors — is the containment reading.
-- **Recognition detail:** Identify it by the turn. Several ambient records are catalogued in Zone D; this is the one that arrives as laughter and becomes grief without changing volume, and instruments register no vibration at any point.
+- **Recognition detail:** Identify it by the turn. Several ambient records are catalogued in Zone D. This is the one that arrives as laughter and becomes grief without changing volume, and instruments register no vibration at any point.
 - **Record detail:** Check the designation before entry. More than one Commons record is a sound, and they are managed oppositely — this one is not to be chased, suppressed, or joined.
 - **Containment detail:** The entity does not need to breach to grow. The loop lengthens whenever anybody laughs in the Commons, including personnel passing through off duty, and the containment reading is the voice count rather than the state of the access doors.
 ## Document Information

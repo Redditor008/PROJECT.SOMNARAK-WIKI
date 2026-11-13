@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Bridge Charm
 
-> *“The Bridge Charm remembers Survivor's Span; the bearer must not mistake memory for permission.”*
+> *"You cross at the speed of the slowest person on the bridge, and after a season you stop arriving anywhere first."*
 
 ---
 
@@ -16,45 +16,35 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Weight  
-**Canonical ability:** Grants a minor boon tied to Survivor's Span's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Survivor's Span's event—A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear.—and accepts this limit: Do not blame the worker; share the names of those lost
+**Canonical ability:** Slows the bearer to the pace of whoever they are carrying, and returns the names of the travellers lost on the crossing.  
+**Binding rule:** the bearer names Survivor's Span's event — “A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear.” — and accepts this limit: Do not blame the worker; share the names of those lost
 
 ## Appearance
 
-The Bridge Charm is the stigma record of the Survivor's Span set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability grants a minor boon tied to the Span's sorrow, the effect mirroring the entity's nature: survival reframed as testimony rather than debt. Binding names the source event — a tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear — and accepts the set's limit: do not blame the worker; share the names of those lost. The cost is a slowing: the bearer moves a little heavier, pallbearer's pace in ordinary corridors. The source-trace fixed doctrine: the Charm reveals the travelers lost in the collapse, the survivor's private weight converted into shared names, and it interrupts the hazard only after attribution to Survivor's Span. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+A flat slate charm worn at the crown, incised with a span and a row of figures crossing it who never quite reach the far rail. It cannot be made: it surfaces on a survivor who has stopped counting their own survival as a debt owed. Set on the head it does not so much slow the bearer as fix their arrival to whoever they are carrying — a pace that cannot be hurried by decision, only by walking alone. The slate stays cool while the bearer waits and warms when they resent the waiting. Kept a season without that practice, the warmth stops going out of it.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer moves a little slower. Continued use makes Survivor's Span's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm ties the bearer's pace to whoever they are helping: they cross at the speed of the slowest person on the bridge. Carried long, they stop arriving anywhere first and stop minding.
 
-## ITEM-SPECIFIC HISTORY — *The Survivor s Span Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Survivor's Span Source-Trace: Stigma Record*
 
-The first The Bridge Charm field bearer encountered this source response: Reveals the travelers lost in the collapse. The stigma interrupts the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Bridge Charm encountered this source response: Reveals the travelers lost in the collapse. The stigma interrupts the immediate hazard only after the team attributed it to Survivor's Span. A bearer crossed at the pace of the slowest person on the span and arrived last for the fourth time, and the Charm’s binding is the crossing log from that relief.
 
 ## FAILURE, CORROSION & CARE
 
-- First sign: the bearer describes Survivor's Span's event in first person.
-- Escalation: the item repeats the source response outside contact.
-- Terminal state: Survivor's Span's manifestation uses the bearer as its new site.
+- First sign: the bearer says “I came through” about a collapse they did not come through — a survivor’s voice borrowed for a crossing that was not theirs.
+- Escalation: the pace is set by whoever is furthest behind, including people not on the bridge.
+- Terminal state: the Span walks the bearer’s body at the pace of everyone it has lost, and the bearer arrives nowhere again.
 
 **Failure mode:** violating “Do not blame the worker; share the names of those lost” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Bridge Charm only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Bridge Charm; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Charm is walked — one route, at someone else’s speed, on purpose — and the name of whoever was slowest is written down that evening, so patience stays a practice and not an effect.  
+**Emergency shutdown:** the bearer crosses a doorway alone at their own speed while a witness holds the Charm; it comes off the crown and goes cold in the hand. The pace already set stays with the bearer.
 
 ## SET RELATIONSHIP
 
-Within *Survivor's Span — Witnessed Form*, The Bridge Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-993-D`  
-**Linked Entity:** `SE-993`  
-**Item Registry Code:** `MAW-G-993-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Survivor's Span — Witnessed Form*, The Bridge Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set on a crossing the bearer makes at their own speed.

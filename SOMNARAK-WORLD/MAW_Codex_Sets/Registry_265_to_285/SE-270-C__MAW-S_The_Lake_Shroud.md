@@ -24,9 +24,15 @@ The Lake Shroud is a wrapping of Lament Han-silk with a dark reflective outer la
 
 ## PROTECTION FILE
 
+**Grade / Element:** γ / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
 **Current Pulse:** The Shroud lets historical lives reflect outside without entering the wearer’s identity. Void can erase the pulse; deep Weight can submerge it.
 
@@ -43,14 +49,3 @@ Shroud holds witness, Flask isolates one memory, Requiem separates overflow. It 
 **Maintenance:** Hang the Shroud facing ordinary still water. The wearer states two current anchors while the shore partner confirms the pulse line.
 
 **Removal:** Step beyond all memory water and open from the warm inner seam.
-
----
-
-**Document ID:** `SE-270-C`  
-**Linked Entity:** `SE-270`  
-**Item Registry Code:** `MAW-S-270-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

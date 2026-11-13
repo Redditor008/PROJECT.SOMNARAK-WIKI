@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-175 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on a conduct grievance closed without a named respondent |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Non-Organic — A thin crimson trace spreading slowly across floors, walls, and empty surfaces — the shape of a footprint with no walker making it. Fever-cold, it smells of char; follow it and it leads to no one. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -27,10 +27,11 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the station circuit log rather than the site |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 1–3 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is anger in the Commons floor rather than above it, detected through the boots. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | A conduct grievance closed against a department, a post or a rotation rather than a named respondent. No counter and no gauge threshold on the file |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -44,51 +45,57 @@
 - No breach counter applies. The affected area spreads underfoot, and its edge is marked on the floor at every session.
 - Residue is recovered from the floor surface under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 225/225 |
-| **Han Pressure [ATK]** | 2–8 per hit · Grudge |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Mantle Commons |
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The trace is a route, not a body: the Movement row calls it a structure or location, and the file says plainly that *it advances; it does not travel*. Nothing here burns, nothing has been injured in a hundred and ten years, and its one documented response to personnel is to thicken where an argument is conducted over it. What a watch has to survive is standing on ground that is still angry at nobody.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A thin crimson trace spreading across cobbles, floors, walls and empty surfaces — a footprint with no walker — chalked at twelve fixed radial stations |
+| **Perceptible to** | Instrument first: the advance past last session's chalk, in centimetres. Felt afterwards as a fever-cold anger with no object in it, which the counselling wing distinguishes from anger because it cannot be discharged |
+| **Activation threshold** | A conduct grievance closed against a department, a post or a rotation rather than a named respondent. No counter and no gauge threshold on the file |
+| **Sorrow Gauge [Pressure]** | **000 of 240** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone D, Mantle Commons |
 | **Resolution Condition** | Map the trace and stop repeating the grievance |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Mark* [**Debuff**] } | "A stain appears on your hand — and it is shaped like a grudge you have been holding." | [The Trace marks the target; the stain is their own resentment.] | *Target suffers -10 Resilience; the mark is from within.* **[10 Grudge DMG [Grudge]]** | When the target is touched by the Trace. |
-| { *The Bleed* [**Debuff**] } | "The mark spreads — from hand to arm to chest — and it does not wash off." | [The Trace extends across the target; the resentment grows.] | *Target loses 10 Resilience; the stain covers more of them.* **[10 Grudge DMG [Grudge]]** | When the target fails to clean the mark. |
-| { *The Branding* [**Attack**] } | "The trace burns — the mark sears deeper, becoming permanent." | [The Trace burns itself into the target.] | *Inflicts Grudge pressure and one burning, indelible wound.* **[14-22 Grudge DMG [Grudge]]** | When the Trace is heated. |
-| { *The Full Contamination* [**Attack**] } | "The mark has come over the whole of you, and what is left standing is the grudge itself." | [The Trace takes the target over and the resentment becomes what they are.] | *A heavy Crimson takeover; the reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Trace has fully developed. |
-| { *The Contagion* [**Ultimate**] } | "It hops — person to person, wall to wall — until the whole of it is marked." | [The Trace goes out over every surface and every person in the field.] | *Everyone in range takes Grudge pressure for three turns while the marks spread.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+### Contact Events
 
-### Battle Phases
+| Event | What the trace does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The First Mark* [**Register**] } | Marks a hand with a stain shaped like a grievance the person has been holding, and the stain has no author but them. | Recognition that the thing on the skin is their own resentment, itemised. | Nothing reaches out. The mark is described in the file as being from within, which is why the counselling wing reads it before the site does. |
+| { *The Bleed* [**Exposure**] } | Extends from hand to arm to chest and does not wash off while the carrying continues. | A mark that widens with the resentment rather than with the exposure, and a worker who cannot clean it off by scrubbing. | The remedy is not cleaning. It is the circuit, walked alone, with nothing carried onto the route. |
+| { *The Thickening* [**Refusal**] } | Thickens where it is argued over — the one documented response to personnel, logged nineteen times, none sanctioned. | A site that reads hotter at the same session it was argued on, and a station circuit voided from that point. | The file's own line: nothing here burns, and in a hundred and ten years it has injured nobody. What deepens is the fury, and it still has nothing in it. |
+| { *The Contagion* [**Contagion**] } | Advances surface to surface eleven to twenty days behind a closure taken at the complaints office, and has never left the Commons or crossed a dwelling threshold. | A fortnight's grievances to pull and case numbers to read, because the event is a signature in an office and not anything on the cobbles. | The lag was established in Year 4231 and is the strongest evidence in the folder. A crew that treats the advance as a field event will stand watching a red line that does nothing. |
 
-1. **Tension:** What confirms this one is the advance against the chalk, never the trace itself. The crimson reads the same at a still quarter as it does at 94 centimetres, and 7 early reports describe a site that never changed across quarters in which the edge crossed a street. Position and withdrawal are both settled before the cycle opens.
-2. **Clash:** The reading is the advance of the crimson edge past the previous session's chalk line, in centimetres, at twelve fixed radial stations set into the cobbles, reported as the largest single advance. Seven at baseline, zero at the floor, ninety-four at the ceiling.
-3. **Resolution:** Second circuit of the twelve stations, the new line chalked, and the documented condition: **Map the trace and stop repeating the grievance.** The second half of that sentence was treated as decoration for ninety years and is the operative half.
+### Watch Sequence
+
+1. **What is confirmed:** the twelve chalked stations, last session's line, and the fortnight's closed conduct grievances — before anybody walks the route.
+2. **What the watch does:** one worker walks the twelve stations in fixed order and in silence. Viderehan reads the trace as a sequence of who stood where and for how long. Ferrehan is the full circuit with no argument, no grievance of the worker's own and no conversation carried onto it.
+3. **How it closes:** second circuit of the twelve stations with the new line chalked, against the file's documented suppression condition: **Map the trace and stop repeating the grievance**. The second clause is the containment; the first is only how it is measured.
 
 ### Consequences
 
@@ -106,7 +113,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A thin crimson trace spreading across floors, walls, and empty surfaces. It resembles a footprint without a walker.
 - **Position / movement:** Fixed to the route and spreading outward from it across the cobbles, floors, walls and empty surfaces of the Commons. It advances; it does not travel. The twelve stations are the reference and the chalk line is the record.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Mantle Commons
@@ -115,11 +121,10 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A thin crimson trace spreading across floors, walls, and empty surfaces. It resembles a footprint without a walker. |
 | **Position / movement** | Fixed to the route; spreads outward across cobbles, floors, walls and empty surfaces. Twelve fixed radial stations, chalk line renewed each session. |
-| **Material / signature** | Grudge. A thin crimson trace, fever-cold to the hand, smelling of char, lying in the surface rather than on it; it cannot be lifted, scrubbed, sealed or paved over, and all four have been attempted. |
-| **Distinctive markers** | The footprint shape with no walker in it; the edge, which is the instrument; the thinning that follows observation made without judgement, which is the only recorded response to anything a person does here. |
-| **Identification** | Advance against the chalk at the twelve stations. There is nothing else to identify; the trace is a red line in a floor and has looked that way for a hundred and ten years. |
+| **Material / signature** | Grudge. A thin crimson trace, fever-cold to the hand, smelling of char, lying in the surface rather than on it. It cannot be lifted, scrubbed, sealed or paved over, and all four have been attempted. |
+| **Distinctive markers** | The footprint shape with no walker in it. The edge, which is the instrument. The thinning that follows observation made without judgement, which is the only recorded response to anything a person does here. |
+| **Identification** | Advance against the chalk at the twelve stations. There is nothing else to identify. The trace is a red line in a floor and has looked that way for a hundred and ten years. |
 
 **Appearance protocol:** Walk the twelve stations in fixed order, measure the advance past the chalk at each, chalk the new edge, and report the largest single figure. Walk alone and in silence. The requirement is not ceremonial: nineteen logged circuits were ruined by two workers arguing on the route, and the entity's one documented response to personnel is to thicken where an argument is conducted over it.
 
@@ -128,26 +133,26 @@
 - **The Sorrow:** Anger with no one to be angry at — not forgiven, not satisfied, not spent, simply never given a person to land on.
 - **The Event:** Generations of a feud on one stretch of street: fights, shouting, and the quiet seething confrontations that leave no mark on a body. It ended by attrition rather than by any settlement. Nobody was ever answered, nobody was ever named, and no surviving document records what it was about.
 - **The People:** Not identified, and the holding will not invent them. Generations of a feud whose cause no surviving document records, whose groups died out or moved on, and not one of whom is named anywhere in the folder. The absence is the entity's subject and is not a gap in the research.
-- **Expanded origin context:** The feud is over and this holding does not answer to it. Four reviews have confirmed as much: the edge sat at its baseline through the Commons rebuilding, through the repaving of the contested street, and through the exhumation and reburial of the burial ground at its northern end, which was undertaken partly in the hope of settling the site and settled nothing. It answers to grievances this facility closes without a respondent — to a complaint about a person's conduct answered by a department, a post or a rotation, which is a practice adopted deliberately, on good evidence, to stop the organisation hanging individuals out to dry. The correlation with the grievance return has held for nine years. The correlation with anything in the Commons has never held for one.
+- **Expanded origin context:** The feud is over and this holding does not answer to it. Four reviews have confirmed as much: the edge sat at its baseline through the Commons rebuilding, through the repaving of the contested street. And through the exhumation and reburial of the burial ground at its northern end, which was undertaken partly in the hope of settling the site and settled nothing. It answers to grievances this facility closes without a respondent — to a complaint about a person's conduct answered by a department, a post or a rotation, which is a practice adopted deliberately, on good evidence, to stop the organisation hanging individuals out to dry. The correlation with the grievance return has held for nine years. The correlation with anything in the Commons has never held for one.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A thin crimson trace spreading across cobbles, floors, walls and empty surfaces — a footprint with no walker — chalked at twelve fixed radial stations. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | The sequence of events that left it, read off the shape of the trace: who stood where, for how long, facing whom. It never shows a face and never gives a name, and four assessors have recorded their frustration at that in almost identical words. | Stable |
-| **Ferrehan** | The full circuit walked alone and in silence, with nothing carried onto the route — no argument, no grievance of the worker's own, no conversation. It is harder than it reads and the failure rate is the highest of any endurance cycle in this zone. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the twelve chalked stations, last session's line, and the fortnight's closed conduct grievances — before anybody walks the route. |
+| **Handling** | One worker walks the twelve stations in fixed order and in silence. The observer reads the trace as a sequence of who stood where and for how long. The stander is the full circuit with no argument, no grievance of the worker's own and no conversation carried onto it. — see `## Handling Process` |
+| **Withdrawal** | Second circuit of the twelve stations with the new line chalked, against the file's documented suppression condition: **Map the trace and stop repeating the grievance**. The second clause is the containment; the first is only how it is measured. |
+| **Refusal** | A site that reads hotter at the same session it was argued on, and a station circuit voided from that point. |
 
-
-### Operational Work Notes
-
-Ferrehan lowers the gauge and Viderehan holds it level. Flerehan and Pugnahan are N/A against a Place and Pugnahan is not merely invalid but impossible. The Registrum named Pugnahan as the primary Work Type for this holding for forty years, which is not a difference of emphasis but an instruction to do something the Work Rule forbids; crews were briefed on it, and the Commons circuit was carried in the rosters as a confrontation task until this revision.
-
-**Reading the response:** What the gauge reports is one worker's silent circuit. What the edge reports is the way this facility has been answering its complaints. The two sit in separate columns, they have never once moved together, and supervisors are told plainly that a session which drops the gauge while returning a longer advance has been worked right and goes into the record as a success with nothing added.
 ## Expansion Behavior
+
+> **Special activation only — no counter, no gauge.** The listed condition: *"a conduct grievance closed without a named respondent"*.
+
+
+
+
 
 | Field | Detail |
 |---|---|
@@ -160,9 +165,9 @@ Ferrehan lowers the gauge and Viderehan holds it level. Flerehan and Pugnahan ar
 
 ### Escalation Notes
 
-Nothing escalates on the cobbles. The trace has advanced for a hundred and ten years at a rate that has never once accelerated during a session, has never crossed a dwelling threshold, and has injured nobody. What escalates is the edge, eleven to twenty days after a letter goes out. A team that treats a long advance as a field event will stand in the Commons looking at a red line, and the line will not do anything; the event was a signature in the complaints office.
+Nothing escalates on the cobbles. The trace has advanced for a hundred and ten years at a rate that has never once accelerated during a session, has never crossed a dwelling threshold, and has injured nobody. What escalates is the edge, eleven to twenty days after a letter goes out. A team that treats a long advance as a field event will stand in the Commons looking at a red line, and the line will not do anything. The event was a signature in the complaints office.
 
-**Response sequence:** Re-walk the twelve stations alone, chalk the edge, and pull the fortnight's closed conduct grievances. There is no perimeter and nobody to clear. Do not scrub, seal, pave or burn the trace; all four have been attempted, two of them twice, and the attempts are logged with the advances that followed them.
+**Response sequence:** Re-walk the twelve stations alone, chalk the edge, and pull the fortnight's closed conduct grievances. There is no perimeter and nobody to clear. Do not scrub, seal, pave or burn the trace. All four have been attempted, two of them twice, and the attempts are logged with the advances that followed them.
 
 
 ### Detailed Activation Record
@@ -198,9 +203,9 @@ Nothing escalates on the cobbles. The trace has advanced for a hundred and ten y
 **Falloff Rule:** 100% to the one designated target. The fang cannot be swung at a group, and the armoury has recorded that limitation on the data sheet in the same terms for two hundred years without ever explaining it.
 **Damage Application:** Multiplier to direct and Tick damage separately. The Tick is the ache in the target's own older injuries, logged in seconds, and it outlasts the wound that caused it in every recorded use.
 
-**Ability:** Grudge damage to the Body. The blade will not release its charge until the wielder has fixed on one target and is looking at them; swung at a crowd or at nothing it does ordinary blade damage and nothing else, which the armoury has documented and never explained.
+**Ability:** Grudge damage to the Body. The blade will not release its charge until the wielder has fixed on one target and is looking at them. Swung at a crowd or at nothing it does ordinary blade damage and nothing else, which the armoury has documented and never explained.
 
-**Cost:** Old wounds ache and faint bruising appears where the wielder was injured years before. It fades in a week. Two wielders have asked in writing that the effect be left alone.
+**Bearer cost:** Old wounds ache and faint bruising appears where the wielder was injured years before. It fades in a week. Two wielders have asked in writing that the effect be left alone.
 
 **Binding check:** The Fang’s individual record requires the bearer to name the conflict route and accept “Map the trace and stop repeating the grievance.” It records first-person identification with that history as the first failure sign, not as improved attribution. Record the wielder, trigger, source response, cost and unresolved detail before cleaning or resting the blade. A named witness states the source title and event while the wielder relinquishes it; that shutdown does not refund the old pain. These item controls do not make Pugnahan valid against the Place.
 
@@ -220,7 +225,7 @@ Nothing escalates on the cobbles. The trace has advanced for a hundred and ten y
 
 **Ability:** Resists Grudge pressure on the Body. Issued to the circuit walker, who is alone on the route for the length of the measurement and has nobody to hand the plate to if it becomes intolerable.
 
-**Cost:** Dulled reflexes for about two days, which the medical wing has measured and found to be real and modest. Wearers describe it as the slowness of having already decided not to react.
+**Bearer cost:** Dulled reflexes for about two days, which the medical wing has measured and found to be real and modest. Wearers describe it as the slowness of having already decided not to react.
 
 **Attribution review:** The Plate’s individual record distinguishes protection of the Body from accepting the source event as the wearer’s own. Describing the feud in first person is its warning sign; repeating the source response away from contact is its recorded escalation. Cleaning or rest follows attribution review, not merely the end of the circuit. For removal, a named witness states Anger Underfoot’s title and formation event while the wearer relinquishes the Plate. The item record does not promise that removal cancels the measured reflex cost.
 
@@ -236,15 +241,15 @@ Nothing escalates on the cobbles. The trace has advanced for a hundred and ten y
 
 **Ability:** Shows who walked a route angry and in what order. It does not show why and it does not show faces, and the armoury's note records that this is a property of the holding and not a defect of the piece.
 
-**Cost:** The bearer carries the anger of everyone who walked the route, with no sense of what any of it was about. It lifts when the token comes off and three bearers have said the lifting is worse than the carrying.
+**Bearer cost:** The bearer carries the anger of everyone who walked the route, with no sense of what any of it was about. It lifts when the token comes off and three bearers have said the lifting is worse than the carrying.
 
 *The mark has been granted 5 times, every one of them to a worker who put their own name to an answer they could have sent out under a department's. 2 of them were told by their supervisors that they had exposed themselves for nothing, and both agreed, and both went and did it again. The holding writes the pattern down and will not turn it into a criterion.*
 
-**Borrowed-history limit:** The Mark’s individual record requires the same named source and mapping limit as the other pieces. A bearer who begins narrating the feud as personal history has reached its first warning, even if the route reading remains useful. Keep the source response, carrying cost and unresolved detail with the bearer’s record. A named witness states the title and event while the token is relinquished. The recorded source-history risk is distinct from the primary account’s immediate lifting of borrowed anger when the token comes off; neither supplies missing faces or names.
+**Borrowed-history limit:** The Mark’s individual record requires the same named source and mapping limit as the other pieces. A bearer who begins narrating the feud as personal history has reached its first warning, even if the route reading remains useful. Keep the source response, carrying cost and unresolved detail with the bearer’s record. A named witness states the title and event while the token is relinquished. The recorded source-history risk is distinct from the primary account’s immediate lifting of borrowed anger when the token comes off. Neither supplies missing faces or names.
 
 ### M.A.W. Use Notes
 
-The set insists on a particular person and the armoury says so on the data sheet: the fang will not discharge without one target in the wielder's eye, the plate is issued to the one walker and cannot be passed, and the token gives an order of footsteps and never a face. The note records that a wide-arc variant of the fang was built in Year 4214, worked perfectly against three test targets at once, and was withdrawn after the Commons wardens refused to carry it and gave their reason in one sentence, which is quoted in the ledger.
+The set insists on a particular person and the armoury says so on the data sheet: the fang will not discharge without one target in the wielder's eye, the plate is issued to the one walker and cannot be passed. And the token gives an order of footsteps and never a face. The note records that a wide-arc variant of the fang was built in Year 4214, worked perfectly against three test targets at once. And was withdrawn after the Commons wardens refused to carry it and gave their reason in one sentence, which is quoted in the ledger.
 
 ### Field Use Record
 
@@ -255,10 +260,10 @@ The set insists on a particular person and the armoury says so on the data sheet
 | **At limit** | Circuit time, largest single advance, and the operator's sealed declaration transcribed in full. Six have gone to the complaints office and two produced a named answer to a case already closed. |
 | **After use** | Chalk renewed, bruising and reflex check at two days, sealed declaration read back by somebody else. Operators who argued on the route walk the next circuit anyway; the holding's position is that excluding them would make the record useless. |
 
-**Stat interpretation:** α holds across the set and the rating against entities is right. In people it costs old pain, a measurable loss of reaction time, and a borrowed anger with nothing waiting at the end of it; the establishment keeps a column for the second of those.
+**Stat interpretation:** α holds across the set and the rating against entities is right. In people it costs old pain, a measurable loss of reaction time, and a borrowed anger with nothing waiting at the end of it. The establishment keeps a column for the second of those.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial. The Registrum carried Level 2 against this header for forty years; the level has never advanced, because the only thing anybody has learned about this site in a century was learned from the complaints office and not from the Commons.
+**R.D. Comprehension Level:** 1 — Initial. The Registrum carried Level 2 against this header for forty years. The level has never advanced, because the only thing anybody has learned about this site in a century was learned from the complaints office and not from the Commons.
 
 - It spreads along repeated paths and ignores cracks, joints, drains and the grain of the stone entirely. Three structural surveys have confirmed that the advance bears no relation to the fabric it is advancing through.
 - Its origin has not been identified and will not be. No name from the feud survives in any document, and the holding has twice refused to adopt the names offered by the Mantle Commons elders on the ground that they are family tradition and are offered as such.
@@ -273,7 +278,7 @@ The set insists on a particular person and the armoury says so on the data sheet
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Twelve stations walked in fixed order, alone and silent, advance measured and the edge chalked. The observer is told at the first station that they will want to talk and that everybody does. |
-| **Sustained observation** | Over a year the advance detaches from the Commons entirely and attaches to the grievance return, eleven to twenty days in arrears. Observers holding both columns stop proposing new work on the route; there is nothing to do here but walk it honestly and send the figure on. |
+| **Sustained observation** | Over a year the advance detaches from the Commons entirely and attaches to the grievance return, eleven to twenty days in arrears. Observers holding both columns stop proposing new work on the route. There is nothing to do here but walk it honestly and send the figure on. |
 | **Activation or escalation** | An advance of twenty centimetres or more at any station between consecutive circuits opens a documents search rather than a field response: which conduct grievances were closed in the preceding three weeks and how many carry no named respondent. The search has succeeded on thirty-one occasions out of thirty-four. |
 | **Post-contact review** | Both circuits with their station figures, anything spoken on the route, and the three weeks' closures attached with the unnamed cases listed by case number. Totals are returned. A review that reports two hundred and twenty-three unnamed has told the reader nothing they can answer. |
 
@@ -289,10 +294,10 @@ Anger Underfoot (C-Iα-175 [GP]) stands on the register as a Place-Grudge manife
 The first return under the Rule of the Named Respondent, Year 4238. This facility received one thousand three hundred and nine grievances in the period, of which six hundred and twelve concerned the conduct of a person rather than a decision or a delay. Three hundred and eighty-nine have been answered in writing by the person whose conduct it was, signed by them. One hundred and eighty have been answered by naming the person and stating that they have left the service or are dead and that no answer can be given. Forty-three remain unresolved. Forty-four cases sat on the boundary between a public grievance and a self-reported error and were handled as grievances, and self-reporting in the departments concerned has fallen by thirty-one per cent. The edge advanced ninety-four centimetres in Year 4226, in the quarter of the Commons policing review, when nine hundred complaints were closed in a single tranche against the Commons duty rotation — a review praised at the time for refusing to scapegoat individuals. It advanced nothing at all in Year 4237, the first still quarter in the series. The edge has tracked the grievance return for nine years and has never tracked anything done on the cobbles.
 
 **Entry 3 — <Statement of a Complaints Officer>**
-I wrote nine hundred of those replies and I was proud of them. You do not hang a constable out to dry for a systemic failure. The rotation was under-strength, the briefings were wrong, the equipment was wrong, and if you name the man on the corner you have punished the one person in the chain who had no say in any of it, and the next man will lie to you. So I wrote that the Commons duty rotation had fallen below the standard, and I meant it, and it was true. What I did not think about once in nine hundred letters is what a person does with that. You cannot forgive a rotation. You cannot be answered by a rotation. The woman whose son was handled the way he was handled wrote back three times asking who, and I sent her the finding again each time, more fully, and she stopped writing, and her anger did not stop. It had nowhere to go, so it stayed where it happened.
+I wrote nine hundred of those replies and I was proud of them. You do not hang a constable out to dry for a systemic failure. The rotation was under-strength, the briefings were wrong, the equipment was wrong. And if you name the man on the corner you have punished the one person in the chain who had no say in any of it. And the next man will lie to you. So I wrote that the Commons duty rotation had fallen below the standard, and I meant it, and it was true. What I did not think about once in nine hundred letters is what a person does with that. You cannot forgive a rotation. You cannot be answered by a rotation. The woman whose son was handled the way he was handled wrote back three times asking who, and I sent her the finding again each time, more fully, and she stopped writing, and her anger did not stop. It had nowhere to go, so it stayed where it happened.
 
 **Entry 4 — <Containment Notice>**
-The site is uncontained and the holding is a measurement discipline and a complaints rule. Route: twelve fixed radial stations walked in order, alone and in silence, advance measured against the previous chalk, edge re-chalked, largest single figure reported; no paired circuits, two proposals refused; nothing carried onto the route — no argument, no conversation, no grievance of the walker's own; no scrubbing, sealing, paving or burning, all four attempted and all four logged with the advances that followed. Complaints duties, binding on every channel this facility operates: **a grievance about the conduct of a person is answered by that person, by name, in writing, over their own signature. A systemic finding may be added to a named answer and may never replace one. Where the person has left the service or died, the record names them and states that no answer can be given.** Work response — Viderehan: the order of events read off the trace, never a face and never a name (Stable); Ferrehan: the full circuit alone and silent, carrying nothing onto the route (Decrease).
+The site is uncontained and the holding is a measurement discipline and a complaints rule. Route: twelve fixed radial stations walked in order, alone and in silence, advance measured against the previous chalk, edge re-chalked, largest single figure reported. No paired circuits, two proposals refused. Nothing carried onto the route — no argument, no conversation, no grievance of the walker's own. No scrubbing, sealing, paving or burning, all four attempted and all four logged with the advances that followed. Complaints duties, binding on every channel this facility operates: **a grievance about the conduct of a person is answered by that person, by name, in writing, over their own signature. A systemic finding may be added to a named answer and may never replace one. Where the person has left the service or died, the record names them and states that no answer can be given.** Work response — Viderehan: the order of events read off the trace, never a face and never a name (Stable). Ferrehan: the full circuit alone and silent, carrying nothing onto the route (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Named Respondent>**
 The staff association opposed this rule and theirs is the objection I have the least to say to, because it is supported by data and mine is supported by a chalk line.
@@ -324,7 +329,7 @@ A red line appears beneath your feet. It follows the path you took, then the pat
 
 **At first contact:** A red line in the cobbles, thin as a pencil mark and the wrong temperature — cold in a way that suggests fever rather than frost. It is shaped, if you follow it far enough, like a footprint, and it smells faintly of char. Following it leads nowhere and to nobody, and everyone follows it once.
 
-**With continued exposure:** The fury arrives and has nothing in it. That is what the counselling wing insists on in the briefing and what nobody believes until it happens: not anger at a person or a thing or a memory, but the physical sensation of fury with the target removed, which cannot be discharged and does not fade by being understood.
+**With continued exposure:** The fury arrives and has nothing in it. That is what the counselling wing insists on in the briefing and what nobody believes until it happens: not anger at a person or a thing or a memory. But the physical sensation of fury with the target removed, which cannot be discharged and does not fade by being understood.
 
 **When the entity activates:** A red edge is a hand's width further across a quiet street than it was a fortnight ago. Nobody sees it move. Three weeks earlier a careful officer closed a file in a way that protected a constable who had done nothing wrong.
 
@@ -387,14 +392,14 @@ Some sorrows are about a wound. Anger Underfoot is about the scar the wound left
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Low, and accurately so. The Registrum carried this holding as Entity (IV) coherence and Major (γ) potency against a Residue (I) / Minor (α) header, and at Comprehension Level 2 against a Level 1 header; all three corrected. In a hundred and ten years the trace has injured nobody, has crossed no dwelling threshold, and has never left the Commons. Crossing it produces a fury with no object, which the counselling wing distinguishes from anger and which resolves within hours.
 **Containment & Handling Procedures:**
-- Ferrehan lowers the gauge; Viderehan holds it level; Flerehan and Pugnahan are N/A against a Place. The Registrum named Pugnahan as primary for forty years on an entity the Work Rule forbids confronting, and crews were briefed and rostered on that instruction.
+- Ferrehan lowers the gauge; Viderehan holds it level; Flerehan and Pugnahan are Net-Neutral against a Place. The Registrum named Pugnahan as primary for forty years on an entity the Work Rule forbids confronting, and crews were briefed and rostered on that instruction.
 - Twelve fixed radial stations, walked alone and in silence, advance measured against the previous chalk in centimetres, twice a session, series unbroken. No paired circuits.
 - Do not scrub, seal, pave or burn. All four attempted, two of them twice; the attempts and the advances that followed them are logged together.
 - The trace spreads and cannot be contained. The grievance practice can be.
 - The Rule of the Named Respondent binds every complaints channel this facility runs, and it stands as a containment condition of the holding rather than a house practice.
 **Observation Notes:**
 - Formed in the cobbles of one Commons street in the decades after a generational feud ended by attrition. No name from it survives in any document and the holding has twice refused the names offered by the Mantle Commons elders.
-- Edge advance 7 cm at baseline, range 0 to 94, eleven to twenty days behind a closure. It tracks this facility's grievance return and has never tracked the fabric of the street; three structural surveys confirm it ignores cracks, joints, drains and the grain of the stone.
+- Edge advance 7 cm at baseline, range 0 to 94, eleven to twenty days behind a closure. It tracks this facility's grievance return and has never tracked the fabric of the street. Three structural surveys confirm it ignores cracks, joints, drains and the grain of the stone.
 - The exhumation and reburial at the northern end, undertaken partly to settle the site, changed nothing in the series.
 **Cross-References:** Mantle Commons, Zone D · Patina (paper contrast: a surface worn by use) · The Rusted Soul (dead owner versus no owner) · the grievance return and the two hundred and twenty-three unnamed closures · the Year 4226 Commons policing review
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the complaints office, which appears on an entity file here because the Rule of the Named Respondent binds the holding and the office both carries it and opposed it.

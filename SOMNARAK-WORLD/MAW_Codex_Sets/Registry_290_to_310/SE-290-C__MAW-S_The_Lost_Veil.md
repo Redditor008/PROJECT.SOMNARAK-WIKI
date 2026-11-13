@@ -24,9 +24,15 @@ The Lost Veil is a near-colorless suit of Han gossamer with one warm present-loc
 
 ## PROTECTION FILE
 
+**Grade / Element:** β / Void
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
 
 **Located Self:** The thread preserves current identity when spatial direction collapses. It does not show a route.
 
@@ -43,14 +49,3 @@ Stigma rejects, Veil anchors, Lens removes. The suit cannot replace an external 
 **Maintenance:** Hang the Veil at a surveyed fixed point. Navigator names coordinates while wearer describes present sensations.
 
 **Removal:** External navigator confirms location before opening the warm thread.
-
----
-
-**Document ID:** `SE-290-C`  
-**Linked Entity:** `SE-290`  
-**Item Registry Code:** `MAW-S-290-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

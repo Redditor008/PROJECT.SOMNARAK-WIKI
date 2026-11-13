@@ -1,0 +1,181 @@
+{
+  "designation": "C-IVγ-240",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md",
+  "words": 8558,
+  "sha256": "4a83f41f9fc8014d135d4ac125f562ede7a2715c172078eedc471679e9f672fe",
+  "unit": 3,
+  "name": "Broken Clocktower",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_03_BROKEN_CLOCKTOWER.md",
+  "before_words": 8558,
+  "after_words": 8751,
+  "base": "d15d227f2bc764c3726afd6ff1b8121fca3b6ef2",
+  "final_sha256": "61d3658522290c86af16509d4b2e8a8ba4f732e087b8a7b906bf9c7a66f92550",
+  "summary": "Twelve source-supported repairs (2 short / 10 careful): a truncated SECC sentence is completed; resolution no longer demands a finding the inquiry cannot produce; and the Combat Actions stop stopping time, chiming thirteen, dropping cart-wheel gears, ringing every bell at midnight and halting the pendulum. They now use the file's actual six-metre symmetrical lateness, withheld bell stroke, late second instruction and 75% threshold. Generic identity/environment catastrophe and weather-to-weapon flavor were replaced by the second-instruction casualty model. HELD; no credit because the primary carries an explicit full-set source review dated 2026-10-12.",
+  "commentary": "This is a dossier about a correct rule producing an unbearable interval: no rushed finding, therefore no certificate, therefore families wait inside paperwork while witnesses wait inside 3:47. Its combat table kept trying to make the tower dramatic in the wrong way—bells, gears, stopped time. The actual horror is quieter: an instruction given once is still arriving, and someone reasonable gives it again.",
+  "reasoning": "R-34 audit before editing. Identity is exact linked SE-1023, not Arabic 240: A–D carry Source SECC `C-IVγ-240 [WP]`, linked `SE-1023`, set 4/4 and codes `MAW-W/S/G-1023-01`. Supported core: Entity IV/Major γ, Weight, Place-Weight, Zone C near Collector's Row, Gauge 772, start 45–65%, Pressure 14–31, Observation 3; accident at 3:47 trapped tower and witnesses in an unresolved instant; Viderehan Stable/Ferrehan Decrease; Side resolution is to accept the moment cannot be changed and limit exposure. The primary's richer local mechanism is precise: gears turn behind hands fixed at 3:47, sealed carried timepieces drift (means 14/23/31 seconds), bell and free clapper never produce a stroke, a six-metre field makes anything issued arrive about two turns late symmetrically, the pendulum/channel is continuous until deliberately closed, watches end only on an external facility clock, and every incident starts with a second instruction. Each Combat Action contradicted one of those load-bearing facts: total time-stop in a shadow, a thirteen chime, a falling gear on being struck despite Object/Place work, all bells at midnight, and a stopped pendulum triggering at 65% below the file's own 75% activation threshold. The SECC activation sentence was literally truncated at 'the pre'. Consequences imported staged identity loss/environmental corruption and catastrophic outlet-cutting against the Tale's explicit 'It threatens nobody. It has killed nobody.' Flavor used generic presence-to-weapon language. A 30-second Log row also said the field stops when attending stops, contradicting continuous-until-closed Tool Use. All table blocks had equal parsed cell counts before and after; Trigger remains the fifth Combat Action cell.",
+  "history": "Local/draft history: Year 4222 accident at 3:47; inquiry open sixteen years because principal witnesses remain inside the instant; the no-time-limit rule arose from a rushed gallery-collapse finding overturned nine years later; 612 Directorate death inquiries exceed five years; Standing Finding authorised Year 4236/first issued Year 4237, with 441 provisional findings, 388 family releases and seven reversals, while the Year 4222 inquiry remains ineligible for lack of heard evidence. Fresh equipment credit BARRED explicitly: the primary contains a dated **Full-set source review (2026-10-12)** covering Side/item/Registry/Master/Tale/archetype records, all local claims, Use Notes, Field Use and cost separation. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+  "holds": [
+    "Breach/type fork: SE-1023-A files Object/Place — Can breach via Transform, while the primary files Non-breaching activation only with an O-Relic channel and no breach counter. Neither taxonomy was overwritten. Held.",
+    "Trigger fork: Side A says activation follows attempts to force the frozen moment to end; the primary Tool layer says escapement rotation under protocol or abrupt base pressure opens a continuous channel. Repairs use each only in its own layer and do not declare them the same event. Held.",
+    "Viderehan response fork: Side A/Final Observation language says it shows the event frozen at 3:47, while the Behavior table says it holds the field steady to walk/measure the radius. Both local functions remain. Held.",
+    "Weapon form remains the primary's explicitly held *Mercy Broadsword* against Side/item/Master *The Frozen Maul* and the `MAW-W-1023` acoustic-resonance bell archetype. B/C/D have no Appearance sections; all three physical item forms are primary-local. Held exactly as the 2026-10-12 review records.",
+    "The blanket Consequence claim that every M.A.W. activation charges memories, sensation and years remains distinct from piece-specific heaviness, fatigue, slight ageing and Stigma lifespan loss. Following the in-file source review, costs were not collapsed. Held.",
+    "The drift's correlation with aggregate age of open death inquiries, the witnesses' status/release, and what a bell strike would mean remain unresolved by design. No controlled strike or finding was invented. Held.",
+    "Combat brackets remain catalogue consequences (10; 10; 14–22; 24–36; 12–20 AoE ×3) against core Han Pressure 14–31; only the Ultimate trigger was aligned to the file's stated 75% activation threshold. Held."
+  ],
+  "split": [
+    2,
+    10
+  ],
+  "repairs": [
+    {
+      "id": "R1-secc-pressure-completion",
+      "kind": "short classification correction",
+      "careful": false,
+      "old": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on manual rotation of the escapement wheel, which is performed only under the tool protocol, or an abrupt change in the pre |",
+      "new": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on manual rotation of the escapement wheel, which is performed only under the tool protocol, or an abrupt change in the pressure at the tower base. |"
+    },
+    {
+      "id": "R2-resolution-condition",
+      "kind": "careful operational correction",
+      "careful": true,
+      "old": "| **Resolution Condition** | Say aloud, inside the field, what has been concluded about the accident and by whom. Nothing has been concluded, which is why the watch ends on the clock instead. |",
+      "new": "| **Resolution Condition** | Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded. |"
+    },
+    {
+      "id": "R3-the-stuck-hand",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Stuck Hand* [**Debuff**] } | \"The clocktower's hand freezes — and so does everything beneath its shadow.\" | [The Clocktower stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve; the suspended instant is heavy.* **[10 Weight DMG [Weight]]** | When the target enters the shadow. |",
+      "new": "| { *The Stuck Hand* [**Debuff**] } | \"The hands do not move and the gears do. Inside six metres, your own voice reaches the other person late.\" | [The dilation field does not freeze the target mid-motion; anything issued inside it arrives about two turns late, symmetrically.] | *Target suffers -10 Resolve under the Weight of an instant that will not advance.* **[10 Weight DMG [Weight]]** | When the target enters the six-metre field. |"
+    },
+    {
+      "id": "R4-the-withheld-stroke",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Wrong Chime* [**Debuff**] } | \"The tower chimes thirteen — and the wrong number makes time itself dizzy.\" | [The Clocktower deranges the target's sense of duration.] | *Target loses 10 Resolve; seconds stretch and compress.* **[10 Weight DMG [Weight]]** | When the target hears the chime. |",
+      "new": "| { *The Withheld Stroke* [**Debuff**] } | \"The bell is intact, the clapper is free, and the stroke does not happen. The gear train runs on underneath the silence.\" | [Waiting for a conclusion that never arrives deranges the target's sense of duration while the carried timepiece drifts.] | *Target loses 10 Resolve; elapsed time is misjudged in either direction and cannot be trusted.* **[10 Weight DMG [Weight]]** | While the target remains inside the field waiting for the minute to conclude. |"
+    },
+    {
+      "id": "R5-the-late-instruction",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Falling Gear* [**Attack**] } | \"A gear the size of a cart-wheel breaks free and rolls down.\" | [A massive clockwork component crashes down.] | *Inflicts Weight pressure and one heavy, grinding wound.* **[14-22 Weight DMG [Weight]]** | When the Clocktower is struck. |",
+      "new": "| { *The Late Instruction* [**Attack**] } | \"No gear breaks free. An order given at the foot of the stair is still arriving when somebody, certain it was ignored, gives it again.\" | [The first instruction lands after its context has changed; the second turns delay into incident.] | *Inflicts Weight pressure on the Han through contradictory late action; no component falls and no grinding wound is dealt.* **[14-22 Weight DMG [Weight]]** | When an instruction or action issued inside the field is repeated before the first has arrived. |"
+    },
+    {
+      "id": "R6-the-unfinished-minute",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Midnight Cascade* [**Attack**] } | \"Every bell in the tower rings at once — a stroke the mechanism has been holding back since 3:47, arriving all of it at the same moment.\" | [The tower releases the withheld stroke in the only form it can take.] | *A heavy Weight surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Weight DMG [Weight]]** | When the tower is overloaded inside the field. |",
+      "new": "| { *The Unfinished Minute* [**Attack**] } | \"No bell rings and it is not midnight. It is 3:47, the gears are turning, and the event still has not been allowed to finish.\" | [An attempt to force the frozen moment to end makes the unresolved instant press on everyone holding the channel.] | *A heavy Weight surge; the target's Sorrow Gauge climbs 15% without the bell striking or the hands advancing.* **[24-36 Weight DMG [Weight]]** | When the crew overloads the channel or tries to force the frozen moment to conclude. |"
+    },
+    {
+      "id": "R7-still-347",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *Time Stops for Everyone* [**Ultimate**] } | \"The pendulum stops mid-swing — and the whole field holds its breath with it, waiting on a conclusion that is not coming.\" | [The dilation field closes on everything inside it at once.] | *All personnel take Weight pressure for three turns of a moment that will not conclude.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *Still 3:47* [**Ultimate**] } | \"The pendulum does not stop and time is not halted. The hands simply never advance, and everyone inside has to keep waiting with them.\" | [The six-metre dilation holds all personnel in stretched, symmetrical lateness while the external watch has not yet been called.] | *All personnel take Weight pressure for three turns inside a moment that will not conclude; their own estimates of those turns are not usable evidence.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 75% activation threshold inside the field. |"
+    },
+    {
+      "id": "R8-consequence-second-instruction",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- Stay past the called watch and the tower brings its whole documented manifestation with it: the emotions erode first, somatic trauma follows, then the identity goes, and last the environment is corrupted beyond repair. That order is the file’s own, and the fourth of them is why the watch length is called out loud instead of left to judgement.",
+      "new": "- Stay past the called watch and the documented failure is narrower and worse for being ordinary: anticipation is held past its natural span, elapsed time can no longer be judged in either direction, and somebody repeats an instruction that has not yet arrived. Identity loss and environmental corruption are not this file's casualty sequence; the second instruction is."
+    },
+    {
+      "id": "R9-consequence-no-outlet",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- Left unresolved, the tower falls back on the activation or expansion behavior its dossier documents. Containment refused, grief with no channel to run in cuts an outlet for itself, and the cutting is catastrophic rather than contained.",
+      "new": "- Left unresolved, the tower does not cut itself a catastrophic outlet. The field persists, the drift is entered, the bell remains unstruck, and the inquiry stays open; containment is the repeated procedural act of ending exposure from outside."
+    },
+    {
+      "id": "R10-channel-closure-log",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| 30 Seconds | Thirty seconds on, the channel is carrying the memory the tower is stuck inside: the weight of waiting through an event that never concluded. The accident at 3:47 forged it, leaving the tower and everyone who saw it held in one unresolved instant, and the worker hears that instant still running rather than recalling it. | Range Band 2 sits inside the field's reach, and elemental pressure lands lighter on every allied unit in the sector while the channeler is still attending to the tower. Nothing here runs itself; the field stops the moment the attending stops. |",
+      "new": "| 30 Seconds | Thirty seconds on, the channel is carrying the memory the tower is stuck inside: the weight of waiting through an event that never concluded. The accident at 3:47 forged it, leaving the tower and everyone who saw it held in one unresolved instant, and the worker hears that instant still running rather than recalling it. | Range Band 2 sits inside the field's reach, and elemental pressure lands lighter on every allied unit in the sector while the channeler is still attending to the tower. The field does not end because attention wanders; it remains until the channel is deliberately closed on an outside call. |"
+    },
+    {
+      "id": "R11-flavor-dilation",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Weight presses hardest, where it recedes, where the Place-Weight lets you breathe.\n\n**When the entity activates:** The shift happens between one breath and the next. The Place-Weight crosses from presence to action, and the Weight goes from weather to weapon.",
+      "new": "**With continued exposure:** Minutes pass at a rate nobody inside can state. The gear train stays loud and regular, the sealed piece at the belt drifts against the facility standard, and an instruction given once may still be arriving when the wish to repeat it becomes almost reasonable.\n\n**When the entity activates:** Escapement rotation under protocol, or an abrupt pressure change at the base, opens the six-metre dilation. Nothing crosses from weather to weapon; voices, blows and orders simply arrive late, including your own."
+    },
+    {
+      "id": "R12-registrum-originator",
+      "kind": "short registry correction",
+      "careful": false,
+      "old": "**Originator:** Citizens caught in a time loop, Year 4222.",
+      "new": "**Originator:** The witnesses to the Year 4222 accident, still inside the unresolved instant and not yet examined; no individual originator is named."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.027  clean   184 grams  Trivia\n 0.020  clean   101 grams  최종 관찰 (Final Observation)\n 0.016  clean   124 grams  Operational Parameters\n 0.007  clean   738 grams  Combat Record\n 0.005  clean   832 grams  M.A.W. Equipment\n 0.000  clean  1321 grams  Apex Record\n 0.000  clean   710 grams  Activation Behavior\n 0.000  clean   592 grams  감각 묘사 (Flavor Text)\n 0.000  clean   408 grams  이야기 (Narratio)\n 0.000  clean   344 grams  기록 (Registrum)\n 0.000  clean   301 grams  이야기 보고 (Story Log)\n 0.000  clean   241 grams  관찰 기록 (Observation Log)\n 0.000  clean   156 grams  Origin\n 0.000  clean   145 grams  Appearance\n 0.000  clean   135 grams  증언 (Testimonium)\n 0.000  clean   100 grams  Behavior\n 0.000  clean    37 grams  SECC Classification\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 40% against Weight pressure; 30% against other pressure types. The second figure is defensive only: nothing on \n   86   4  | { *Still 3:47* [**Ultimate**] } | \"The pendulum does not stop and time is not halted. The hands simply never advance, and everyo\n  275   1  **Stat interpretation:** The grade records how cleanly the archetype came off the tower, not what it takes from the bearer. A γ pi\n  277   3  **Full-set source review (2026-10-12):** Reviewed the `O-Relic (Offertorium) · γ` overview, all local Weapon/Suit/Stigma claims, U\n  326   2  | Do the thing on file: accept that the moment cannot be changed and limit the exposure — watch called from outside, one instructi\n  467   5  - **Field detail:** Its defining element is Weight, and its registered location is Zone C, near Collector's Row — Old Lament being\nGENERIC 0.003  (18 shared shingles)  SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-A__SIDE_CODEX_Three_Forty_Seven.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-B__MAW-W_The_Frozen_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-C__MAW-S_The_Frozen_Mantle.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-D__MAW-G_The_Frozen_Minute.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-A__SIDE_CODEX_Three_Forty_Seven.md": "d00b252da4ed979c32c7bb1c77a5d2e6643aeee843a78e0bde394ef98fa95210",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-B__MAW-W_The_Frozen_Maul.md": "b8f241b57fb6b5897c2537ff3c6a942dc998841b196f32b04278456298663fef",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-C__MAW-S_The_Frozen_Mantle.md": "59025edc79a67b7c10dc4159e103c14c5cafe2f14ea9be1aaff3056d585f4cb8",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-D__MAW-G_The_Frozen_Minute.md": "70852c70808f33a50ccda256ad95dc32a4ee454eab390a0cbdab2e53756afa4b"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-240_Broken_Clocktower_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%8B%9C%EA%B3%84%ED%83%91.md \"SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md\")]",
+  "table_link": "[[C-IVγ-240 Broken Clocktower](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-240_Broken_Clocktower_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%8B%9C%EA%B3%84%ED%83%91.md \"SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md\")]",
+  "reading": {
+    "before_lines": 476,
+    "before_bytes": 52167,
+    "final_lines": 476,
+    "final_bytes": 53366
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 27,
+    "physical_form_rows_unchanged": 300,
+    "tale_unchanged": true,
+    "digit_sequence_change": "The Ultimate trigger changed from 65% to the primary Core Stat Line's existing 75% activation threshold; no other new statistic was introduced.",
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4
+  }
+}

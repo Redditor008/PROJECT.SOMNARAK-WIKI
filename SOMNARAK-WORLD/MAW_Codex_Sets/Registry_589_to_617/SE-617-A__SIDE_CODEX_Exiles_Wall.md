@@ -22,7 +22,7 @@ Exiles’ Wall is a stationary barrier of dark wet crystal beside the Exile’s 
 | Coherence / Potency | III / γ |
 | Element | Grudge |
 | Location | Zone E, Exile’s Gate vicinity |
-| Gauge / Pressure | 653/653; starts 45–65% / 18–41 Grudge |
+| Gauge / Pressure | 000/660; starts 000% · Grudge — no attack pattern: the wall is fixed, nothing has been swung at it, and it comes apart in its own grief rather than striking (Contact Record, R-36) |
 | Movement / Resistance | Fixed / 35% Grudge, 25% other |
 | Activation threshold | Gauge ≥75%; expansion follows new exile mourning |
 | Observation | 2 — Basic |
@@ -38,8 +38,8 @@ This fixed Object/Place permits just two work modes: Viderehan and Ferrehan.
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid; the Wall does not accept emotional engagement. | N/A |
-| Pugnahan | Invalid; confrontation feeds the physical boundary. | N/A |
+| Flerehan | Invalid; the Wall does not accept emotional engagement. | Negative-Low |
+| Pugnahan | Invalid; confrontation feeds the physical boundary. | Negative-Low |
 | Viderehan | Homes and people left beyond the Gate become visible. | Stable |
 | Ferrehan | The worker stands at the border without claiming either side. | Decrease |
 
@@ -67,13 +67,3 @@ The source is Major γ, but its canonical pieces are Grade α. Stable echoes for
 At Half-Room Twelve, Gate workers added a roof to protect waiting exiles from a storm. The Wall accepted the improvement, sealed both exits, and began filling the room with hot grief. Xyan ordered the roof dismantled before opening either side. Exiles’ Wall Ring identified the city-facing pressure as hostile, Plate held the escort at the midpoint, and Fang cut the coercive brace. Seven travelers crossed to destinations they named themselves.
 
 > *“A protected passage serves the traveler. A completed border room serves the boundary.”* — Gate Watch Commander Xyan
-
----
-
-**Document ID:** `SE-617-A`  
-**Linked Entity:** `SE-617`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

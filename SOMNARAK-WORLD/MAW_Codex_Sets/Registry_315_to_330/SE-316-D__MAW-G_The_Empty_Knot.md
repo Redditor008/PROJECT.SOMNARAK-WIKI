@@ -14,6 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
+**Maximum Amount:** 5 — Abundant
 A warm Grudge Han-iron Tail knot with one loop and no second line. Tether granted it after Haneulash helped a worker end waiting without offering a substitute return. Bestowal chance is 5%.
 
 ## Appearance
@@ -46,14 +47,3 @@ Knot establishes nonreciprocity, Plate protects release, Fang cuts self-binding.
 **Care:** Verify last contact, current consent, uncertainty, and the waiting person’s own goal. The Knot loosens only when it stops claiming motive.
 
 **Emergency release:** Withdraw from the relationship decision and return authority to the person holding the line.
-
----
-
-**Document ID:** `SE-316-D`  
-**Linked Entity:** `SE-316`  
-**Item Registry Code:** `MAW-G-316-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

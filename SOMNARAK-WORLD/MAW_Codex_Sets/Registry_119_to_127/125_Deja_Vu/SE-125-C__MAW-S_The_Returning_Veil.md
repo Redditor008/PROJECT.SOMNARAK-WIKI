@@ -88,14 +88,3 @@ Minseo wore the Veil during a memory archive review when an old home interior be
 The Veil is the present anchor of *Present Return*. Lens makes a safe separation and Seed permits a costly recall; this suit makes sure the bearer can come back from both.
 
 > *“Memory is not the enemy. The danger begins when memory claims the right to replace the living room around it.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-125-C`  
-**Linked Entity:** `SE-125`  
-**Item Registry Code:** `MAW-S-125-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

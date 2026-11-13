@@ -22,7 +22,7 @@ The Wall formed from love that was never returned. The burden of remembering som
 | Type / Manifestation | Subject — Can breach / Subject-Weight |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone D, Mantle Commons |
-| Gauge / Pressure | 919/919; starts 60–80% / 23–50 per hit · Lament |
+| Gauge / Pressure | 000/919; starts 000% / 23–50 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A citizen waited for a love that never answered; the waiting became a rising wall. |
 
@@ -38,9 +38,9 @@ The Wall formed from love that was never returned. The burden of remembering som
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Patient endurance and honest acknowledgment
 
-## WITNESS RECORD — *The The Rising Wall Source-Trace*
+## WITNESS RECORD — *The Rising Wall Source-Trace*
 
-During the The The Rising Wall Source-Trace, the field team preserved this source fact: A citizen waited for a love that never answered; the waiting became a rising wall. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of remembering someone who did not remember you.
+During *The Rising Wall Source-Trace*, the field team preserved this source fact: A citizen waited for a love that never answered; the waiting became a rising wall. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of remembering someone who did not remember you.
 
 ## M.A.W. SET — *The Rising Wall — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The The Rising Wall Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Rising Wall's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon marks only the immediate manifestation that violates this rule: Patient endurance and honest acknowledgment The set cannot heal the originating event. Misuse routes The Rising Wall's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1026-A`  
-**Linked Entity:** `SE-1026`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

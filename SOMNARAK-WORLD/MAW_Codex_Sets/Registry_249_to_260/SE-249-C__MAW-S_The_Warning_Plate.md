@@ -24,9 +24,15 @@ The Warning Plate is a crimson harness of Han iron whose plates flicker between 
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Grudge
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 2 / 45 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
 **Signal Brace:** The harness maintains physical continuity while Grudge tears dream-space apart. Protection does not preserve interpretation or response speed.
 
@@ -43,14 +49,3 @@ Plate keeps the dream listener available while Thread transmits and Fang acts. U
 **Maintenance:** Keep the wearer awake while each plate is tapped in fragment order. Unknown intervals receive silence, not filler tones.
 
 **Removal:** The waking recorder states current location and confirmed danger before releasing the slowest joint last.
-
----
-
-**Document ID:** `SE-249-C`  
-**Linked Entity:** `SE-249`  
-**Item Registry Code:** `MAW-S-249-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

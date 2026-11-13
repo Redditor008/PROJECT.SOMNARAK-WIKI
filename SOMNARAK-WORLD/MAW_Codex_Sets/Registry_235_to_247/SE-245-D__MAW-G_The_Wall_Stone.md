@@ -26,6 +26,7 @@ The Wall Stone is a small deep-blue tail-stone of Han crystal that vibrates with
 ## FUNCTION & COST
 
 **Grade / Element:** β / Lament  
+**Maximum Amount:** 4 — Stocked
 **Bonus:** +1 Clarity during source work  
 **Effect:** calms nearby people through one remembered song fragment  
 **Cost:** unfinished songs become audible whenever the bearer is near walls
@@ -49,14 +50,3 @@ Stone fixes the confirmed phrase in *The Unfinished Verse*. Shroud keeps the lis
 **Care:** At the originating wall, Minseo recites provenance, confirmed words, and the exact interruption. The Stone must stop where the record stops.
 
 **Emergency release:** Move into open space without walls and let the fragment finish only as far as known. Do not smash it; every nearby surface would inherit the loop.
-
----
-
-**Document ID:** `SE-245-D`  
-**Linked Entity:** `SE-245`  
-**Item Registry Code:** `MAW-G-245-01`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

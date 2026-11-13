@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Covenant Arbalest
+# M.A.W. WEAPON — The Promise Requiem
 
-> *“The Promise Requiem remembers Shard of a Broken Promise; the bearer must not mistake memory for permission.”*
+> *"The magazine is full and not one bolt will leave for a target you have not sworn against."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Shard of a Broken Promise's lament signature in the strike.  
-**Binding rule:** the bearer names Shard of a Broken Promise's event—An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
-
+**Binding rule:** the bearer names Shard of a Broken Promise's event — “An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.” — and accepts this limit: declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.  
+**Gauge:** 000/880; opens at 000%; no attack pattern is filed for this Lament manifestation — the pitch against its 112-hertz resting value is the reading.
 ## Appearance
 
-Appearance : A repeating crossbow incorporating a top-mounted wooden magazine holding eight bone bolts, powered by recurved steel prod arms and operated by a smooth under-lever mechanism.
+A repeating crossbow incorporating a top-mounted wooden magazine holding eight bone bolts, powered by recurved steel prod arms and operated by a smooth under-lever mechanism.
 
 Cycling the lever draws the bowstring and drops a fresh bolt into the firing channel in under one second. The weapon fires high-velocity quarrels that pin targets to walls with terrifying rapidity.
 
@@ -31,33 +31,26 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 |---:|---:|---:|---|---:|
 | Lament 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Shard of a Broken Promise's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Arbalest only fires at what the wielder has promised to end: to aim it, they must first bind themselves to the target in words. Each promise kept with it is one they now have to keep.
 
 ## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Weapon Record*
 
-The first The Promise Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Requiem encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Shard of a Broken Promise. A wielder promised a room they would end something and found the promise had been logged against their name, and the Arbalest’s binding is the entry kept from that day.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Shard of a Broken Promise's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the promises start being made in the past tense, and the Arbalest fires at things the wielder cannot remember binding.
 - Terminal state: Shard of a Broken Promise's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-851 -->
+**Failure mode:** violating “declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.” reverses the item’s benefit and raises the source Gauge — a 000/910 meter that opens at 60–80%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Requiem only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Requiem; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Shard of a Broken Promise — Witnessed Form*, The Promise Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-851-B`  
-**Linked Entity:** `SE-851`  
-**Item Registry Code:** `MAW-W-851-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Shard of a Broken Promise — Witnessed Form*, The Promise Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a promise the wielder has already kept.

@@ -1,0 +1,202 @@
+{
+  "batch": 182,
+  "status": "CLOSED",
+  "reviewed": 5,
+  "required": 5,
+  "no_change": 0,
+  "repairs": 41,
+  "r18": {
+    "short": 26,
+    "careful": 15
+  },
+  "words_before": 36385,
+  "words_after": 36983,
+  "base": "8a5326d",
+  "opening_commit": "71a8ec219436c3942b5ca8a60b9d800b8d055b4c",
+  "preclosing_head": "0d4339126a8db0c5ebdf0c3b4721de31f5ef9bb2",
+  "units": [
+    {
+      "unit": 1,
+      "designation": "N-IVδ-525",
+      "name": "Cenotaph",
+      "status": "held",
+      "repairs": 8,
+      "split": [
+        5,
+        3
+      ],
+      "words": [
+        7261,
+        7433
+      ],
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_01_CENOTAPH.md",
+      "final_sha256": "d00a9871b8b9ace0d3ff0251a21417ed53ec622d03bd5069cdc1562f8ebcd542"
+    },
+    {
+      "unit": 2,
+      "designation": "N-IIβ-280",
+      "name": "Kind Healer's Shadow",
+      "status": "held",
+      "repairs": 8,
+      "split": [
+        6,
+        2
+      ],
+      "words": [
+        7266,
+        7427
+      ],
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_02_KIND_HEALERS_SHADOW.md",
+      "final_sha256": "787ea6efde96862b291b748ca6260a32d06bdad4d556848879abe1f11de8d93f"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IIβ-716",
+      "name": "Double Mouth",
+      "status": "held",
+      "repairs": 7,
+      "split": [
+        4,
+        3
+      ],
+      "words": [
+        7277,
+        7363
+      ],
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_03_DOUBLE_MOUTH.md",
+      "final_sha256": "0097c67186b388543da4f524c2d648cb753dd08e0d281a9273b839c02b2bac83"
+    },
+    {
+      "unit": 4,
+      "designation": "C-Vδ-111",
+      "name": "The Final Door",
+      "status": "held",
+      "repairs": 10,
+      "split": [
+        6,
+        4
+      ],
+      "words": [
+        7277,
+        7384
+      ],
+      "credits": {
+        "types": 1,
+        "weapon": 1,
+        "se": 0
+      },
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_04_THE_FINAL_DOOR.md",
+      "final_sha256": "1b2d36ae57b0f05f2e47004b5a2cf1110c6eac635e61a4b6ffc4361ffbfc4caf"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IIβ-357",
+      "name": "Carrying Nothing",
+      "status": "held",
+      "repairs": 8,
+      "split": [
+        5,
+        3
+      ],
+      "words": [
+        7304,
+        7376
+      ],
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_05_CARRYING_NOTHING.md",
+      "final_sha256": "5a5d68990260091c410b20749ffe4cf51c7a5d31e17e5d30e85e4cc706f41f40"
+    }
+  ],
+  "unit_commits": [
+    "bd1e193",
+    "ce42fb0",
+    "0ebf749",
+    "7b1b27f",
+    "0d43391"
+  ],
+  "closure_validators": "25/25 PASS",
+  "tests": "54/54 PASS",
+  "preclosing_gate_audits": {
+    "audit_lore_archive": "PASS",
+    "timeline_lint": "PASS",
+    "seam_lint": "PASS",
+    "check_box_symmetry": "PASS"
+  },
+  "audit": {
+    "exact_reconstruction": "5/5 from pre-edit copies",
+    "pending_fingerprints_unchanged": 110,
+    "tales_byte_identical": true,
+    "sources_unchanged": true
+  },
+  "next_candidates_unselected_unauthorized": [
+    {
+      "designation": "C-IVδ-260",
+      "words": 7308
+    },
+    {
+      "designation": "C-Iα-240",
+      "words": 7313
+    },
+    {
+      "designation": "C-IVδ-823",
+      "words": 7315
+    },
+    {
+      "designation": "C-IIβ-775",
+      "words": 7327
+    },
+    {
+      "designation": "C-IIβ-310",
+      "words": 7328
+    }
+  ],
+  "logical": "Five reviewed whole designs HELD; 41 supported repairs shipped, essential relationships still unresolved. Equipment coverage +1 Types / +1 Weapon from The Final Door (first whole-set disposition); Batches 127, 103, 136 and 120 already counted the other four sets inside the legacy baseline; SE Appearance Fix +0. Technical PASS is not logical completion.",
+  "authorization": "Owner p p after CLOSED 180, applied in this session to Batch 182 only after syncbranch leveling found Batch 181 closed by another session at 8a5326d. Five required and completed. Cumulative No change 0/5, so no ladder extension; reserves unused. No Batch 183, merge, artwork or deployment authorized.",
+  "disclosures": [
+    "Unit 3 digit addition: file-own 38/52/61 restated once.",
+    "Unit 5 digit addition: file-own 11/17 restated once.",
+    "Unit 4 digit removal: one 01 token inside deleted boilerplate SECTOR-A-01.",
+    "No combat or equipment number changed in any unit.",
+    "WIP heading counter lagged at 3/5 during unit 4 (edit failure); corrected at unit 5. U3 log word figure 7275 corrected to 7277 at closure against the pre-edit copy."
+  ],
+  "counters": {
+    "types": [
+      270,
+      301
+    ],
+    "weapon": [
+      268,
+      287
+    ],
+    "se": [
+      18,
+      301
+    ]
+  },
+  "ledger_counts": {
+    "changed": 14,
+    "retained": 4,
+    "held": 171,
+    "blocked": 2,
+    "pending": 110
+  }
+}

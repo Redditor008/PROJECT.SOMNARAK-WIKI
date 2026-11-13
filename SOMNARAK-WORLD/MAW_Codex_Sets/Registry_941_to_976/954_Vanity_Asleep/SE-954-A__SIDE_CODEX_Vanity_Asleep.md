@@ -19,10 +19,10 @@ The Mirror formed from self-knowledge that people were too exhausted to face. Th
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIIγ-954 [VS] |
-| Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / Zone A, Alpha Tree |
-| Gauge / Pressure | 739/739; starts 45–65% / 17–39 per hit · Void |
+| Gauge / Pressure | 000/739; starts 000% / Void — no attack pattern; the template displacement between sessions is the instrument |
 | Observation | 2 — Basic |
 | Formation event | Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence. |
 
@@ -40,7 +40,7 @@ The Mirror formed from self-knowledge that people were too exhausted to face. Th
 
 ## WITNESS RECORD — *The Vanity Asleep Source-Trace*
 
-During the The Vanity Asleep Source-Trace, the field team preserved this source fact: Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of seeing oneself clearly and still being unable to change.
+During *The Vanity Asleep Source-Trace*, the field team preserved this source fact: Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of seeing oneself clearly and still being unable to change.
 
 ## M.A.W. SET — *Vanity Asleep — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Vanity Asleep Source-Trace, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Vanity Asleep's source condition, the Suit lets a witness bear its Void pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not wake it by force; look at the reflected self without turning away The set cannot heal the originating event. Misuse routes Vanity Asleep's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-954-A`  
-**Linked Entity:** `SE-954`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

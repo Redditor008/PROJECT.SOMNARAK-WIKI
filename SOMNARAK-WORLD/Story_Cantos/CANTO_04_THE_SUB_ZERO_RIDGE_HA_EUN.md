@@ -274,7 +274,7 @@ The suppression of `SE-C-IVδ-103 The Frozen Veil` was executed across six tacti
 |   Flare]                                                            |
 | anchoring his shield at Node 4. Flare aura grants +30 Frost Resist. |
 | - Min-Jae Posture: 145/195 | Composure: 78/110.                     |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 2: TECTONIC SHATTER & ICE BREACH (PILLAR: PRESENCE)            |
 | - Taeho rolls Speed 5: Spends 3 AP on [Thermal Maul Smash] at Node  |
 |   5.                                                                |
@@ -286,14 +286,14 @@ The suppression of `SE-C-IVδ-103 The Frozen Veil` was executed across six tacti
 | the perimeter for her. Realizes she is anchored by their living     |
 | warmth.                                                             |
 | - Ha-Eun Composure stabilizes: 42 -> 88/105. Posture: 150/170.      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 3: ALIGNING THE CRYOGENIC APERTURE                             |
 | - Ha-Eun at Node 6 spends 2 AP on [Aperture Focus]:                 |
 |   Racks Cold Lens rifle chamber. Locks onto entity's frozen heart.  |
 | - The Frozen Veil prepares lethal skill [Whiteout Memory Theft]     |
 |   (Spd 6)                                                           |
 | - Target: Ha-Eun at Node 6. Lethal mental drain charging.           |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 4: THE SUB-ZERO PRECIPICE (PILLAR: PRECIPICE)                  |
 | - The Frozen Veil projects spectral frost tentacles into the tower. |
 | - Tendrils coil around Ha-Eun's rifle, attempting to freeze her     |
@@ -301,7 +301,7 @@ The suppression of `SE-C-IVδ-103 The Frozen Veil` was executed across six tacti
 | - Precipice reached: Instead of retreating into numbness, Ha-Eun    |
 |   embraces the physical pain of the freezing metal to maintain aim. |
 | - Pain validates life! Composure holds firm at 85/105.              |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 5: SIGNATURE ACTIVATION — BREAK THE PULL (PILLAR: PURPOSE)     |
 | - Anchor Check Executed: Min-Jae confirms anchor bond over radio:   |
 |   'I name Marksman Ha-Eun of the Iron Quad. Return to our warmth!'  |
@@ -309,7 +309,7 @@ The suppression of `SE-C-IVδ-103 The Frozen Veil` was executed across six tacti
 |   Pull].                                                            |
 | - A brilliant, pure white laser line cuts across the optic disc,    |
 | severing the entity's emotional drain without consuming her memory! |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 6: CRITICAL SNIPER SUPPRESSION (PILLAR: PACT)                  |
 | - Ha-Eun pulls the trigger at Node 6: [Piercing White Silence]!     |
 | - Clash Power: 44 vs 32! CRITICAL CLASH OVERWHELM!                  |

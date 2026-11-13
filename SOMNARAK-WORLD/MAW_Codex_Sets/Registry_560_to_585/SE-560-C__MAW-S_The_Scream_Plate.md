@@ -65,14 +65,3 @@ A narrow red seam remains across the left knee. It hardens whenever the wearer p
 The Plate makes reception survivable, the Charm tempers the bearer’s immediate reaction, and the Shard removes a physical obstruction. Full-set corruption converts listening into restrained resentment and eventually explosive repetition.
 
 > *“Silence was work, not passivity. The suit punished me the moment I used silence to hide my answer.”* — Handler Soojin
-
----
-
-**Document ID:** `SE-560-C`  
-**Linked Entity:** `SE-560`  
-**Item Registry Code:** `MAW-S-560-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

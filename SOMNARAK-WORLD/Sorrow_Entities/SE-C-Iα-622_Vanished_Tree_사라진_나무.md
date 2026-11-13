@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A tree-beast forever half-fading, trunk and branch-arms blinking in and out as it lurches on vanishing root-legs — a ghost-creature of pale wood. Fever-cold, it smells of char. |
+| **Physical Form** | Mixed |
 | **Movement** | It lurches a few metres along the old canopy line on root-legs that are not there for most of each step. It has never left the plot it grew on and the plot is not on any current map. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, taken on open border ground from a thing the survey maps do not carry. The Border station books it against a grid reference that the mapping office has twice asked it to stop using. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | 4 |
+| **SE Effect** | **On the breach** — The Tree's phantom shadow marks the target; they feel the absence. |
+| **Work Damage** | None — the Grudge it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | α — Fang, Plate and Pendant all graded |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -82,13 +84,13 @@
 | { *The Hollow Ring* [**Debuff**] } | "Where the trunk was, a circle in the dirt — and the circle is deeper than it should be." | [The Tree's stump-absence pulls at the target; they sense the severed roots.] | *Target loses 10 Resilience; the ground is unstable where the tree was.* **[10 Grudge DMG [Grudge]]** | When the target stands in the ring. |
 | { *The Phantom Branch* [**Attack**] } | "A branch that is not there sweeps down — and despite not existing, it connects." | [The vanished Tree's ghost-limb strikes.] | *Inflicts Grudge pressure and one wound from a branch that is not real.* **[14-22 Grudge DMG [Grudge]]** | When the shadow is disturbed. |
 | { *The Full Return* [**Attack**] } | "It comes back whole, all at once, in the place the stake went in." | [The tree reconstitutes completely for a few seconds, rooted where it originally stood.] | *24–36 Grudge to anybody inside the old canopy line; the three occurrences all happened within a day of a boundary stake being driven.* **[24-36 Grudge DMG [Grudge]]** | When the plot is re-staked over its outline. |
-| { *The Vanished Forest* [**Ultimate**] } | "Every tree along the border goes faint at once and the shade stays where the trees were." | [The fading generalises across the frontier planting.] | *12–20 Grudge per cycle for three cycles to anyone on the line; the shade is cold and nothing has grown in it since.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, in the week the resettlement maps were reissued. |
+| { *The Vanished Forest* [**Exhaustion**] } | "Every tree along the border goes faint at once and the shade stays where the trees were." | [The fading takes one planting at the frontier and stops.] | *The shade falls on one person, and the cold in it is the whole of what the tree has left.* **[12-20 Grudge DMG [Grudge], single target]** | Above 65%, once, in the week the resettlement maps were reissued. |
 
 ### Battle Phases
 
 1. **Tension:** The warden walks the old canopy line, counts the seconds the tree is visible in each pass, and checks the week's mapping amendments before anything else. The visibility count is the cycle.
 2. **Clash:** The outline is staked before anything else happens, and no worker who declared the Border district on their own application is on the party. The shade is worked from outside its edge; nobody stands in it to argue with it.
-3. **Resolution:** Read one entry from the settlement's own account book aloud on the plot and stake nothing. 188 cycles; the visible seconds rise by two to nine after a reading, which on this holding is the good direction.
+3. **Resolution:** Read one entry from the settlement's own account book aloud on the plot and stake nothing. Nine years of the plot's record; the visible seconds rise by two to nine after a reading, which on this holding is the good direction.
 
 ### Consequences
 
@@ -101,7 +103,7 @@
 
 **Shade before wood:** The lasting marker is the sun-independent outline, with cold at its edge and char on the air. Pale trunk, branch-arms and root-legs are intermittently seen there; an observer’s empty view is not evidence that a colleague’s sighting was false. Keep visible seconds for each observer beside the measured shade area. The figure going faint and the ground’s outline widening are different readings, not opposite conclusions from a single gauge.
 
-**The brief return is not restored ground:** Full Return records a whole tree appearing briefly around a driven stake. That conditional appearance is not proof that the lost street or floor can now carry a person. The fading root-legged figure, the shade and an erased settlement route must remain distinct in a drawing or field description. This sorrow is about a place removed from the record; it does not require a human silhouette, an occupant hiding above the shade, or a tree physically rebuilt from the map.
+**The brief return is not restored ground:** Full Return records a whole tree appearing briefly around a driven stake. That conditional appearance is not proof that the lost street or floor can now carry a person. The fading root-legged figure, the shade and an erased settlement route must remain distinct in a drawing or field description. This sorrow is about a place removed from the record. It does not require a human silhouette, an occupant hiding above the shade, or a tree physically rebuilt from the map.
 
 **Physical Form:** A tree-beast forever half-fading, trunk and branch-arms blinking in and out as it lurches on vanishing root-legs. **Movement:** It lurches unsteadily, parts of it winking out as it goes.
 
@@ -112,7 +114,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A fading tree-shaped figure that weeps while its branches disappear.
-- **Position / movement:** Mobile and unlocated. The shade stands at the Border site and the tree casting it does not; no survey in eleven years has found the body that belongs to the outline.
+- **Position / movement:** Mobile and unlocated. The shade stands at the Border site and the tree casting it does not. No survey in eleven years has found the body that belongs to the outline.
 - **Element signature:** Grudge
 - **Registered location:** Zone E, Border region
 
@@ -139,10 +141,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Branches return while an account of the place is read aloud, and go again when the reading stops. | Decrease |
-| **Pugnahan** | Barred. It burns along the roots and the outline is larger at the next stake, every time it has been tried. | Increase |
-| **Viderehan** | Streets, plots and doorways of the settlement, visible to whoever is actively looking for them. | Stable |
-| **Ferrehan** | Holding the edge of the shade for a full session while the figure thins, without stepping in and without calling it back. | Decrease |
+| **Flerehan** | Branches return while an account of the place is read aloud, and go again when the reading stops. | Decrease · High |
+| **Pugnahan** | Barred. It burns along the roots and the outline is larger at the next stake, every time it has been tried. | Increase · Low |
+| **Viderehan** | Streets, plots and doorways of the settlement, visible to whoever is actively looking for them. | Stable · Common |
+| **Ferrehan** | Holding the edge of the shade for a full session while the figure thins, without stepping in and without calling it back. | Decrease · Common |
 
 
 
@@ -166,7 +168,7 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 ### Escalation Notes
 
-- **Breach type:** Escape. The shade extends past its staked outline and travels; the entity itself has never been seen to pursue anybody, and the older line describing it as hunting prey and entangling personnel is contradicted by every incident in the file.
+- **Breach type:** Escape. The shade extends past its staked outline and travels. The entity itself has never been seen to pursue anybody, and the older line describing it as hunting prey and entangling personnel is contradicted by every incident in the file.
 - **Containment priority:** Do not suppress and do not force it back; Pugnahan widens the outline. Stake the new edge, clear the resettlement road, and get an account read aloud at the boundary.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn while the outline is being re-staked over the entity's objection. Reading an account aloud on the plot is the only recorded means of bringing it down, and it brings it down ten points a reading.
 
@@ -188,9 +190,9 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 **Ability:** Grudge against the Body. Struck targets cannot be photographed clearly for about a day; eleven attempts on file, eleven exposures showing the person's outline and not their face.
 
-**Cost:** Old wounds ache, and documents the wielder has handled go astray — not destroyed, simply never found again.
+**Bearer cost:** Old wounds ache, and documents the wielder has handled go astray — not destroyed, simply never found again.
 
-**Fang target and care:** The linked Fang distinguishes an active erasing mechanism from a finished loss; the local photographed-target effect does not establish that distinction by itself. In the item record, striking empty ground to keep a revealed road present injured the bearer. Its maintenance uses decommissioned seal material and a blank contemporary map without drawing the missing roads onto it. Shutdown states what is proven and what is gone while the blade is laid outside the phantom shadow, reopening an old wound rather than refunding the cost. None of this is permission to strike the Tree or backfill a new attack pattern.
+**Fang target and care:** The linked Fang distinguishes an active erasing mechanism from a finished loss. The local photographed-target effect does not establish that distinction by itself. In the item record, striking empty ground to keep a revealed road present injured the bearer. Its maintenance uses decommissioned seal material and a blank contemporary map without drawing the missing roads onto it. Shutdown states what is proven and what is gone while the blade is laid outside the phantom shadow, reopening an old wound rather than refunding the cost. None of this is permission to strike the Tree or backfill a new attack pattern.
 
 ### M.A.W. Suit — Vanished Tree Plate
 
@@ -208,9 +210,9 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 **Ability:** Resistance to Grudge against the Body. The linked Shadow Stand supports a recorder’s body but does not make an erased floor load-bearing. A report of protection during Return is not an entry authorisation: the holding’s ordinary work instruction remains outside the shade, without trying to hold the Tree in place.
 
-**Cost:** Reflexes dull, and the wearer's name stops appearing on circulation lists it used to be on.
+**Bearer cost:** Reflexes dull, and the wearer's name stops appearing on circulation lists it used to be on.
 
-**Plate return:** Keep the carrying medium distinct from a containment stake. Assemble the plates on current stone with a deliberate gap, and do not replace a vanished part without physical verification. Refusing to leave an incomplete entry is a warning, not dedication. To shut down the linked harness, close the field note and name a present landmark, opening it from the missing-plate side; never pull a wearer toward the hollow ring or brace phantom architecture to keep the record open.
+**Plate return:** Keep the carrying medium distinct from a containment stake. Assemble the plates on current stone with a deliberate gap, and do not replace a vanished part without physical verification. Refusing to leave an incomplete entry is a warning, not dedication. To shut down the linked harness, close the field note and name a present landmark, opening it from the missing-plate side. Never pull a wearer toward the hollow ring or brace phantom architecture to keep the record open.
 
 ### M.A.W. Stigma — Vanished Tree Pendant
 
@@ -224,11 +226,11 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 **Ability:** Reveals erased routes and settlements.
 
-**Cost:** The wearer feels every place they cannot restore.
+**Bearer cost:** The wearer feels every place they cannot restore.
 
 *Nine pendants exist. Each was granted after a session in which the Warden recorded the shade as larger than the previous stake and said so, which has not always been the comfortable thing to write.*
 
-**Pendant record, not navigation:** Put a revealed course on a removable historical layer, dated with uncertainty and current obstructions, stored apart from live charts. The route once crossing a clinic was real without being a safe passage through its walls. Do not stack another Pendant to recover a clearer road. Emergency removal keeps a current-site resident naming present landmarks while the archive layer closes; the temporary inability to recognise old maps remains a cost to record. A local leaf-shaped keepsake is not permission to paint the old route onto an occupied floor.
+**Pendant record, not navigation:** Put a revealed course on a removable historical layer, dated with uncertainty and current obstructions, stored apart from live charts. The route once crossing a clinic was real without being a safe passage through its walls. Do not stack another Pendant to recover a clearer road. Emergency removal keeps a current-site resident naming present landmarks while the archive layer closes. The temporary inability to recognise old maps remains a cost to record. A local leaf-shaped keepsake is not permission to paint the old route onto an occupied floor.
 
 ### M.A.W. Use Notes
 
@@ -245,7 +247,7 @@ The set materializes a witness to erased ground; it is not evidence that the fad
 
 **Stat interpretation:** The grade says how hard it hits and nothing about a set that erases its wielder's administrative trail. Authorise on the certified copies; the rating is irrelevant here.
 
-**Full-set source review (2026-10-12):** Reviewed the α grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and every other M.A.W. claim against Side `SE-622-A` (`C-Iα-622 [D]`, set `4/4`), items `SE-622-B/C/D` (`MAW-W/S/G-622-01`), Registry rows 771–774, Master M.A.W. entries 349–351, Entity Codex row 483, Tale 117, and Weapon Archetype `MAW-W-622`. Side A has no standalone Appearance section; all three item pages have Appearance sections, and none has a separately labelled transition block. The Stigma effect now names `+1 Resilience`, supported by Side D and item D. Hold the primary/Master `The Vanished Tree` title against Side/item `Vestige`; the local Weapon's body/photo effect against the linked Fang's active-seal Erasure Cut; and the archetype's Medium band against primary/Side/item Range 2 (Short). The archetype's Map-Mirror Fang description and the item's Grudge Han-iron form lack a crosswalk to the Master index's PRIMAL—Bio/Marrow class. Tail remains local/Side/item against the Registry's generic Accessory label. Side/item Single pattern and the item-only 100% coverage were not added to the primary.
+**Full-set source review (Year 4238):** Reviewed the α grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and every other M.A.W. claim against Side `SE-622-A` (`C-Iα-622 [D]`, set `4/4`), items `SE-622-B/C/D` (`MAW-W/S/G-622-01`), Registry rows 771–774, Master M.A.W. entries 349–351, Entity Codex row 483, Tale 117, and Weapon Archetype `MAW-W-622`. Side A has no standalone Appearance section; all three item pages have Appearance sections, and none has a separately labelled transition block. The Stigma effect now names `+1 Resilience`, supported by Side D and item D. Hold the primary/Master `The Vanished Tree` title against Side/item `Vestige`. The local Weapon's body/photo effect against the linked Fang's active-seal Erasure Cut. And the archetype's Medium band against primary/Side/item Range 2 (Short). The archetype's Map-Mirror Fang description and the item's Grudge Han-iron form lack a crosswalk to the Master index's PRIMAL—Bio/Marrow class. Tail remains local/Side/item against the Registry's generic Accessory label. Side/item Single pattern and the item-only 100% coverage were not added to the primary.
 
 ## 관찰 기록 (Observation Log)
 
@@ -281,11 +283,11 @@ Shaded area 690 square metres at the annual stake, against 530 and 410 in the tw
 Wanders along the Border and old settlement paths. Personnel feel rage at deliberate forgetting. It becomes clearer near old maps.
 
 **Entry 3 — <Excerpt from Survey Office Correspondence>**
-The office confirms that no worker may be assigned to a site they have a personal connection to, that the rule admits no exception and is not waivable by a manager, and that in consequence no survey party sent to the Border region has ever contained a person who could name what stood on it.
+The office confirms that no worker may be assigned to a site they have a personal connection to, that the rule admits no exception and is not waivable by a manager. And that in consequence no survey party sent to the Border region has ever contained a person who could name what stood on it.
 The grief of losing a home so completely that even the land denies it existed.
 
 **Entry 4 — <Containment Notice>**
-Management: stake the outline every session and date the stakes, work from outside the edge, read an account aloud when the shade crosses the line, and never attempt to hold the figure in place. Work response — Flerehan: reading aloud (Decrease); Pugnahan: barred, it burns the roots (Increase); Viderehan: the streets become legible (Stable); Ferrehan: holding the edge while it thins (Decrease).
+Management: stake the outline every session and date the stakes, work from outside the edge, read an account aloud when the shade crosses the line, and never attempt to hold the figure in place. Work response — Flerehan: reading aloud (Decrease). Pugnahan: barred, it burns the roots (Increase). Viderehan: the streets become legible (Stable). Ferrehan: holding the edge while it thins (Decrease).
 
 **Entry 5 — <Archive Note>**
 The bundle in the commissioning file is complete and correct: a resettlement schedule, four hundred compensation receipts signed and witnessed, and a revised survey sheet showing open ground. Every document in it is accurate. Taken together they record a lawful clearance of a place and contain no statement that the place existed, because none of them is the kind of document that says such a thing. The archivist's note sets out that nobody falsified anything, and that the erasure was accomplished entirely by correct paperwork.
@@ -315,7 +317,7 @@ There is no tree. There are stakes in a field, six hundred and ninety square met
 
 ### Interaction Pattern
 
-The three rows do not measure the same thing. Forgotten Tree compares outline growth, Returning Tree changes who can see the figure, and Whispering Walls returns street names with the shade area unchanged. Keep area, visibility and information in separate columns; none of those results establishes a common cause or allows a remembered street to replace a current survey. Returning Tree’s whole-party visibility is an observed condition, not a correction of colleagues who could not see it alone.
+The three rows do not measure the same thing. Forgotten Tree compares outline growth, Returning Tree changes who can see the figure, and Whispering Walls returns street names with the shade area unchanged. Keep area, visibility and information in separate columns. None of those results establishes a common cause or allows a remembered street to replace a current survey. Returning Tree’s whole-party visibility is an observed condition, not a correction of colleagues who could not see it alone.
 
 **Interaction method:** Stake both outlines on the same sheet, measure both areas in the same session, and record which members of the party can see which figure. Visibility differs by person here and that difference is data.
 
@@ -326,9 +328,9 @@ Vanished Tree must be kept distinct from the erasure files that concern people. 
 
 | Related entity | What it is | What the visible seconds did | Required record |
 |---|---|---|---|
-| **The Forgotten Tree** | Both stand over ground that is no longer written down; that one keeps its body and loses its place, this one keeps its place and has lost its body. | Both outlines grow faster in the seasons the two are surveyed together; neither shade has ever reached the other. | Both areas on one sheet, with the gap between the outlines measured each year. |
+| [**The Forgotten Tree**](SE-N-IIIγ-184_Redacted_잊혀진_나무.md) | Both stand over ground that is no longer written down. That one keeps its body and loses its place, this one keeps its place and has lost its body. | Both outlines grow faster in the seasons the two are surveyed together; neither shade has ever reached the other. | Both areas on one sheet, with the gap between the outlines measured each year. |
 | **The Returning Tree** | It holds places that came back altered. This one holds a place that did not come back, and the figure is at its most solid in its presence. | Visibility rises to the whole party, the only condition under which that has happened. | Who could see the figure, before and during, by name and without interpretation. |
-| **The Whispering Walls** | The Walls give back street names, in voices that are not the Warden's, and three of those names have since been confirmed against a private account. | Shade area unchanged; the only recorded information gain at this holding. | Transcribe the names as heard and send them to the clerk, never to the survey office. |
+| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | The Walls give back street names, in voices that are not the Warden's, and three of those names have since been confirmed against a private account. | Shade area unchanged; the only recorded information gain at this holding. | Transcribe the names as heard and send them to the clerk, never to the survey office. |
 
 **Interaction procedure:** Two Wardens, one tape between them, stakes dated and left standing, and no pairing arranged on a day when the resettlement road is in use.
 
@@ -368,24 +370,24 @@ The rule protects people from being made to unmake their own lives. The shade is
 - Stake the outline every session and date the stakes. The stake store is the only continuous record of this ground.
 **Observation Notes:**
 - Shaded area 410, 530 and 690 square metres across three annual stakes, with nothing standing above it in any of them.
-**Cross-References:** Zone E, Border region · The Forgotten Tree · The Returning Tree · The Whispering Walls · the Survey Office
+**Cross-References:** Zone E, Border region · The [Forgotten Tree](SE-N-IIIγ-184_Redacted_잊혀진_나무.md) · The Returning Tree · [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) · the Survey Office
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A settlement removed from every record and map.
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding is going out. Nineteen visible seconds to four in nine years, falling with every reissue of the frontier sheets and rising only when somebody reads the settlement's own account book aloud on the plot. There is no containment problem here and the station has stopped using the word: what there is, is a question about whether a thing that the maps have stopped admitting should be helped to stay, and a mapping office that has twice asked the station to stop citing a grid reference for ground it says is empty.
+**Operational interpretation:** This holding is going out. Nineteen visible seconds to four in nine years, falling with every reissue of the frontier sheets and rising only when somebody reads the settlement's own account book aloud on the plot. There is no containment problem here and the station has stopped using the word: what there is, is a question about whether a thing that the maps have stopped admitting should be helped to stay. And a mapping office that has twice asked the station to stop citing a grid reference for ground it says is empty.
 
-**Review requirement:** After every cycle: visible seconds from both counters, unreconciled; the week's mapping amendments; any stake driven on or near the outline, with the authorising instruction attached; and the entry read aloud. One standing item — the settlement's account book is copied annually, because it is the only document that mentions the plot and the station does not own the original.
+**Review requirement:** After every cycle: visible seconds from both counters, unreconciled. The week's mapping amendments; any stake driven on or near the outline, with the authorising instruction attached; and the entry read aloud. One standing item — the settlement's account book is copied annually, because it is the only document that mentions the plot and the station does not own the original.
 ## Survey Record
 
 ### What the Staked Area Is Measuring
 
-Two Wardens drive the stakes, measure the shade between them, and date every stake they leave standing. Annual figures: 410 square metres, then 530, then 690. Nothing stands above any of it. The outline does not follow the sun, does not thin with cloud, and has never contracted; on four occasions it has stopped growing for a season, each time after an account of the place was read aloud at its edge.
+Two Wardens drive the stakes, measure the shade between them, and date every stake they leave standing. Annual figures: 410 square metres, then 530, then 690. Nothing stands above any of it. The outline does not follow the sun, does not thin with cloud, and has never contracted. On four occasions it has stopped growing for a season, each time after an account of the place was read aloud at its edge.
 
 The area tracks the number of worked sites in the quarter from which every person with direct knowledge of the ground was barred. The survey office derives the figure by matching crew lists against the district each worker declared on their own application — self-declared, never checked, and the only basis available. The match has held for six years. Sun angle, soil condition, weather, traffic on the resettlement road and the holding's own gauge were all tested against the series and lost.
 
-Assignment to a site a worker has a personal connection to is prohibited outright, and no manager holds a power to waive it. It was written after a clearance in which local men were set to pull down the street they grew up on, because they knew the ground and it was convenient; two of them never worked again. Nobody now has to demolish their own district or dig a neighbour out of a shaft they played in as a child. The rule is right and nothing in this file argues otherwise.
+Assignment to a site a worker has a personal connection to is prohibited outright, and no manager holds a power to waive it. It was written after a clearance in which local men were set to pull down the street they grew up on, because they knew the ground and it was convenient. Two of them never worked again. Nobody now has to demolish their own district or dig a neighbour out of a shaft they played in as a child. The rule is right and nothing in this file argues otherwise.
 
 Its consequence is that the only people who can say what stood on a site are the only people forbidden to be on it. Every party sent to the Border region consists of people who cannot name one thing that was there. Their sheets are accurate. They show open ground, which is what is in front of them, and they are the only sheets the Company has or will ever have.
 
@@ -395,13 +397,13 @@ Authorised Year 4234. A clerk from another district — never from the one in qu
 
 2,400 invitations were issued in Year 4237 and 611 accounts were taken. 180 of them name a structure that appears on no map the Company holds. 12 contradict one another about the same street, and all 12 are kept as given, uncorrected, since the scheme has no mechanism for deciding between two people's memories and no business acquiring one. 3 accounts identified a burial ground; work on that parcel stopped the same week and has not resumed.
 
-The costs are real and were not all foreseen. Giving an account puts a person's name on a list of former residents, which is a list, and two accounts were later produced in a compensation hearing against the interests of the people who gave them — the rule binds the Company and not a tribunal. The parcel where the burial ground was found is now fenced, and nine families who told the clerk about it cannot get onto the ground they told her about. And the clerk's standing instruction is to say, to each person's face, that nothing on any map will change because of what they have just said.
+The costs are real and were not all foreseen. Giving an account puts a person's name on a list of former residents, which is a list. And two accounts were later produced in a compensation hearing against the interests of the people who gave them — the rule binds the Company and not a tribunal. The parcel where the burial ground was found is now fenced, and nine families who told the clerk about it cannot get onto the ground they told her about. And the clerk's standing instruction is to say, to each person's face, that nothing on any map will change because of what they have just said.
 
 The clerks asked that one former resident be permitted to accompany each survey party as a guide. It was refused, and correctly: that is the precise thing the connection rule forbids, and an exception would be operated by a manager deciding who counts as connected enough, which restores the discretion the rule exists to remove. The clerks' objection — that the Company has built a careful, honest machine for collecting what people know and a second, equally careful machine for ensuring it can never be written down — stands in the scheme's first volume, recorded as correct and unanswered.
 
 ## Trivia
 
-- Branches return while an account is read aloud and go again when the reading stops; there is no entry anybody can make that keeps them.
+- Branches return while an account is read aloud and go again when the reading stops. There is no entry anybody can make that keeps them.
 - Reading a copied account produces nothing. It has only ever responded to an account taken down from somebody who lived there.
 
 

@@ -21,7 +21,7 @@ Breach is a wall-shaped presence inside consciousness: cracked, leaning, and col
 | Type / Manifestation | Subject — Subject-Mind |
 | Coherence / Potency | IV / δ |
 | Element | Lament |
-| Gauge / Pressure | 60–80% / 28–62 |
+| Gauge / Pressure | 000% / 28–62 |
 | Observation | 2 — Basic |
 | Set | The Honest Safeguard |
 
@@ -31,10 +31,10 @@ Breach is a wall-shaped presence inside consciousness: cracked, leaning, and col
 
 | Work | Response | Gauge |
 |---|---|---|
-| Flerehan | Cracks reveal fear beneath. | Down |
-| Pugnahan | Wall collapses into thought. | Up |
+| Flerehan | Cracks reveal fear beneath. | Decrease |
+| Pugnahan | Wall collapses into thought. | Increase |
 | Viderehan | Shows protection and failure moment. | Stable |
-| Ferrehan | Tests remaining after safety disappears. | Down |
+| Ferrehan | Tests remaining after safety disappears. | Decrease |
 
 **Resolution:** Establish realistic anchors; do not promise perfect safety. At 90% Gauge, boundaries collapse through the local Mind field and false shelter becomes active danger.
 
@@ -54,13 +54,3 @@ Charm identifies the failed limit, Barrier absorbs one current impact, and Requi
 
 **Links:** The Rusted Wall; The Frozen Veil; The Crumbling Saint.  
 **Source:** `SE-N-IVδ-339_Breach_무너진_벽.md`
-
----
-
-**Document ID:** `SE-339-A`  
-**Linked Entity:** `SE-339`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

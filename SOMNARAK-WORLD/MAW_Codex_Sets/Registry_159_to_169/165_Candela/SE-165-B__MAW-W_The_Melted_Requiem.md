@@ -90,14 +90,3 @@ Park used *Stay With Now* when a field vision caused a team to plan an unauthori
 The Requiem is the present-action edge of *Compassion Without Prophecy*. Melted Shroud contains Lament and Melted Halo signals risk; the weapon prevents preparation from becoming control.
 
 > *“Compassion becomes coercion the moment a possibility is treated as someone else’s destiny.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-165-B`  
-**Linked Entity:** `SE-165`  
-**Item Registry Code:** `MAW-W-165-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

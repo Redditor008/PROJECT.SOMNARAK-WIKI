@@ -28,6 +28,10 @@ The Secret Lens is a pale lens of Han glass set in a dark frame, its center perm
 |---|---:|---|---|---:|
 | γ / Void | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
 **Compulsion Severance:** The Lens pierces up to three access tethers produced by one sealed-memory whisper. Aiming through the Lock strikes the memory and widens the breach.
 
 **Cost:** Small nameless memories disappear with each use.
@@ -43,14 +47,3 @@ Key opens one bounded memory, Veil protects listener, Lens ends obsession.
 **Maintenance:** Store facing the closed Lock while oversight records why the last tether—not the truth—was severed.
 
 **Shutdown:** Rotate away from the vault and ground after the whisper ends.
-
----
-
-**Document ID:** `SE-300-B`  
-**Linked Entity:** `SE-300`  
-**Item Registry Code:** `MAW-W-300-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

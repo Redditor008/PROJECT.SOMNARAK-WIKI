@@ -7,14 +7,15 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-010 [WS]` |
-| **Entity Type** | **Subject** — Breach-event manifestation |
+| **Entity Type** | **Subject** — Non-breaching: manifestation only |
+| **Special Class** | **Special Abnormality** — terminus of the Three Birds line (`C-IIIγ-031`, `C-IIIγ-032`, `C-IIIγ-033`). It exists only while all three are breached together, and parting them ends it. Never acquired as itself. |
 | **Coherence** | Sovereign (V) — Autonomous and absolute |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body — fusion of the Three Birds |
-| **Physical Form** | Mixed — A floating fusion of the Observing, Weighting, and Guarding Birds — three bodies merged into one Sovereign form, wings layered over wings, the three beaks closed into a single mask, markings braided blue-crimson-white. It radiates all three sorrows at once; lead-heavy and cold, it smells of cold rain, char, and ash together. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Physical Form** | Mixed |
+| **Movement** | Floating and stationary: it comes into existence where the three Birds already are, has never moved during a formation, and ceases when they are parted. |
 | **Location** | Forms only when Entities 031–033 breach simultaneously |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -28,9 +29,9 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 per cycle, and the cycle is a drill rather than a contact: the Three Birds' station runs the separation against a clock and bills the drill, there being no other way to work a holding that exists for twelve seconds at a time. |
+| **Han-Energy yield** | — · nothing is collected. There is no work loop on a form that exists only while all three Birds are out, and a separation drill yields a time, not Han-Energy. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 1 |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -54,8 +55,8 @@
 | **Speed** | 2.80 m/s |
 | **Resistance** | 50% against Weight. Untested and untestable — nothing has been struck in any of the three formations, because every second available was spent on the separation. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 977/977 |
-| **Han Pressure [ATK]** | 25–53 per hit · Weight |
+| **Sorrow Gauge [HP]** | 1000/1000 |
+| **Han Pressure [ATK]** | 50–80 per adjudication · Weight · the third judgement reads resistance and then disregards it — the finding is against the person, not the body |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -64,25 +65,31 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
+| **Battle Length** | Twelve seconds — the window is the whole fight. No exchange on record has run past eleven, and the twenty-four-turn row it used to carry was the template's, not the formation's |
+| **Threat Role** | Sovereign encounter — the wing is the battlefield, and three teams are inside it |
 | **Coherence** | Sovereign (V) — Autonomous and absolute |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty** | Extreme · R.D. Comprehension Level 3 — Advanced |
+| **Valid Work Types** | None against the fused form: there is no Work Type for it and none has ever been attempted. The four responses below belong to the three component Birds and are retained for them. |
 | **Battlefield** | Forms only when Entities 031–033 breach simultaneously |
 | **Resolution Condition** | Separate Entities 031, 032, and 033 within twelve seconds |
 
 ### Combat Actions
 
+> **What these five are.** No exchange with the fused form has ever run past eleven seconds, so
+> none of this is a record of a fight. It is the contingency model the station adopted for the
+> drill after its 188th practice run — one of the three the offices produced, and the only one
+> that fits the separations actually achieved. The basis is stated here once and not again in
+> every cell.
+
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Gathering Point* [**Debuff**] } | "Everything is being pulled here — every sorrow, every grief, every weight — toward a single, unbearable point." | [The Convergence draws all nearby sorrow toward the target.] | *Target suffers -10 Resolve; they are becoming the center of all grief.* **[10 Weight DMG [Weight]]** | When the target enters the Convergence. |
-| { *The Compression* [**Debuff**] } | "The sorrow compresses — denser, heavier — until the weight of a city's grief fits in the space of one heart." | [The Convergence's pressure intensifies exponentially.] | *Target loses 10 Resolve; the concentrated grief is staggering.* **[10 Weight DMG [Weight]]** | When the target remains at the center. |
-| { *The Gravitational Pull* [**Attack**] } | "The convergence pulls — hard — dragging everything and everyone toward the singularity of sorrow." | [A massive inward pull seizes the target.] | *Inflicts Weight pressure and one wound of crushing convergence.* **[14-22 Weight DMG [Weight]]** | When the Convergence is disturbed. |
-| { *The Singularity* [**Attack**] } | "All three judgements arrive at once and agree, and the agreement is the thing that cannot be survived." | [The fused verdict resolves; sight, weight and enforcement deliver one finding.] | *Facility-threatening. Never reached. Both times the window ran past ten seconds the separation came in at eleven.* **[Projected]** | At the end of the twelve seconds, if the Birds are still fused. |
-| { *The Collapsed World* [**Ultimate**] } | "Everything in the wing is drawn to one point and the point is a judgement." | [The convergence extends past the chamber.] | *Projected as facility-ending; modelled from the three formations and not observed.* **[Projected]** | Beyond the window. The entry exists so the drill has a reason printed on it. |
+| { *The Gathering Point* [**Debuff**] } | "At three seconds there were three trajectories bending inward. This is what the bending is for." | [The three flight paths close on one address before the bodies do. The fusion's first act is to choose who is being looked at.] | *The target is marked, and every judgement that follows lands on that person first.* **[18 Weight DMG [Weight]]** | When anybody stands at the centre radius instead of a Bird post. |
+| { *The Compression* [**Debuff**] } | "Witnessed. Weighed. Kept." | [Sight, weight and enforcement arrive in turn and agree. The station's own term for what the target feels is *being filed*.] | *Target loses 15 Resolve and cannot be pulled free for one full second: a separation team's grip fails on a person who has been weighed.* **[22 Weight DMG [Weight]]** | At the count's second half, on anybody still in the field. |
+| { *The Gravitational Pull* [**Attack**] } | "You do not attack the centre. The centre is three teams failing slowly." | [The pull is not physical. A striker is held where they stand by the judgement being read to them, and the reading does not stop for a blow.] | *Weight on the bone, 34–51 per judgement. Anyone who strikes the mass instead of pulling a Bird is held for the remainder of the window.* **[34–51 Weight DMG [Weight]]** | When a team strikes at the fused mass instead of pulling its own Bird. |
+| { *The Singularity* [**Attack**] } | "All three judgements arrive at once and agree. And the agreement is the thing that cannot be survived." | [The verdict resolves: the gaze finds, the weight sets, the guard enforces, with no interval between the three.] | *Facility-threatening. Delivered at the twelfth second as one finding on one person.* **[50–80 Weight DMG [Weight], ignores resistance]** | At the end of the twelve seconds, if the Birds are still fused. |
+| { *The Collapsed World* [**Ultimate**] } | "Everything in the wing is drawn to one point and the point is a judgement." | [The fusion stops being local: the wing is taken as a single defendant and the finding is already written.] | *Wing-scale. The figure is the adopted model and not a measurement — 12,000 distributed across the wing by proximity to the centre.* **[Projected wing-scale]** | Past the twelfth second. |
 
 ### Battle Phases
 
@@ -92,25 +99,30 @@
 
 ### Consequences
 
-- The failure mode here is arithmetic rather than courage. Three teams, three Birds, twelve seconds; if any one team is short-handed the separation cannot be made and the station has refused to run the wing below strength four times on that ground.
-- Nobody has been in contact with the fused form for longer than eleven seconds and the file cannot say what longer exposure does. That absence is the honest state of the record and is why the projected entries above are marked as projections.
-- No M.A.W. piece exists. The Armoury's entry is four words long — *nothing has been extracted* — and it is the only such entry in the registry.
-- Without the separation the window closes, and what is on the other side of a closed window has been modelled three times by three different offices with three different answers. None of them is in this file; the station holds that a projection is not a finding.
+- The failure mode here is arithmetic rather than courage. Three teams, three Birds, twelve seconds. If any one team is short-handed the separation cannot be made, and the station has refused to run the wing below strength four times on that ground. What the fourth person buys is not speed. It is the second the count needs in order to stay under ten.
+- The fusion does not pursue, and it has never needed to. It is stationary in every formation on record, and that is the most frightening line in the file: nothing about it has ever had to move. Everything inside the wing comes to it, because everything inside the wing is being judged, and the two things are the same thing.
+- Twelve seconds is the whole budget and it has never been spent. The drill's target of eight seconds has been met in practice 188 times and in a formation never. The two real separations came in at eleven. The model above exists because the wing's officers stopped answering *what happens at thirteen* with *we do not know*.
+- The handlers are not exempt. The Weighting Bird's handler is looked at first in both recorded formations, and the station's own rule — pull your own Bird, never the centre — is written for the person who has just been told they are guilty and wants to argue.
+- No M.A.W. piece exists, and the Armoury's entry is four words long: *nothing has been extracted*. It is the only such entry in the registry, and it is not modesty. Nothing can be drawn off a form that is never held.
 
 ## Appearance
-**Primary Form:** A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze.
+**Primary Form:** Three eagle-sized bodies fused where they touch, and not blended: the Observing Bird’s deep-water plumage laid wing over wing with the Weighting Bird’s dark crimson, the Guarding Bird’s pale hard shield-feathers riding outermost as plate. Tip to tip they run a little over eleven metres. The three beaks close against one another into a mask of dark horn the size of two flat hands, with no mouth. Where the mouth should be there is one eye: the Observing Bird’s hundred and forty-four collapsed into a single wet lens the colour of deep water. Two small balance scales turn where the Weighting Bird’s eyes were. The whole of it runs dry and fever-hot, and smells of char, old smoke and wet feather at once.
+
+The span runs wider than SECTOR-B-01, the room the three are kept in, so no formation has ever been seen whole and every record is a partial view from one corner of one room. The balance scales keep turning after the rest of it settles.
 
 **Notable Features:**
-- Exists only after the Three Birds breach together.
-- Its judgment is always “Guilty.”
-- It does not distinguish between personnel, entities, or innocence.
+- Exists only after the Three Birds breach together, and for twelve seconds at the outside.
+- Its judgment is always “Guilty.” The three functions have never disagreed in any formation on record, and the file treats the agreement as the mechanism rather than as a coincidence.
+- It does not distinguish between personnel, entities, or innocence — nor between the Birds’ own handlers and the people sent to separate them.
+- It has never moved. Every formation on record has it exactly where the three converged, and everything that has ever mattered has happened within sight of that point.
+- It is audible before it is visible. The gaze arriving reads as one choral word in the wing’s corridors, which is how the station knows the count has started on the occasions the alarms have been cut.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body — fusion of the Three Birds
-- **Primary marker:** A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze.
-- **Position / movement:** It forms where the three Birds are and floats; it has never moved during a formation, which the station attributes to all three of its components being, individually, things that stay where they are put.
+- **Primary marker:** One mask where three beaks were, and a single eye where its mouth should be. There is no intermediate state to mistake for it.
+- **Position / movement:** It forms where the three Birds are and floats. It has never moved during a formation, which the station attributes to all three of its components being, individually, things that stay where they are put.
 - **Element signature:** Weight
 - **Registered location:** Forms only when Entities 031–033 breach simultaneously
 
@@ -118,33 +130,28 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze. |
+| **Form** | Feather, horn and wet lens. Eleven metres of layered wing over a mask with no mouth, floating a metre off the floor and never closing that gap. |
 | **Position / movement** | Floating, stationary, and brief. Thirty-six seconds of existence in eleven years. |
 | **Material / signature** | Three bodies merged: wings layered over wings, three beaks closed into one mask, markings braided blue, crimson and white. Record the formation time, the separation time, and which team was last to break contact. |
 | **Distinctive markers** | Exists only after the Three Birds breach together. Its judgment is always “Guilty.”. It does not distinguish between personnel, entities, or innocence. |
 | **Identification** | If the Three Birds are in one place and there is one mask, it has formed. There is no ambiguity and no gradual onset; the twelve-second count starts at the sight of it. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Note the formation time, the separation time per team, and which team broke contact last. There is no posture or proportion reading to take: thirty-six seconds of observation across eleven years were recorded by people who were pulling at the time.
 
 ## Origin
 - **Formation:** The Convergence is not born from one sorrow. It is the completed shape of witnessing, judgment, and protection without mercy.
 - **The Sorrow:** The belief that every existence carries an unavoidable sentence.
 - **The Event:** When the Three Birds breach at the same time, they have twelve seconds to be separated before they merge.
 - **The People:** All witnesses, judges, and defenders whose burdens formed the three component entities.
-- **Expanded origin context:** The archive cross-references this entity's sorrow with Forms only when Entities 031–033 breach simultaneously — the same Han density, the same Weight signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
+- **Expanded origin context:** There is no incident of its own to consult. The archive keeps three origins — a sorrow of witnessing, a sorrow of verdicts, a sorrow of protection — and this file is the shape of the three agreeing: the Witness finds the suffering, the Judge pronounces on it, the Guardian executes. And the horror every witness reports is that they never disagreed. The merging changed nothing about the process; it made the body match the mind.
 
 ## Behavior
 
-| Condition | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | Registers tears as evidence, not innocence. | Stable |
-| **Pugnahan** (Confrontation) | Sentences aggression immediately. | Increase |
-| **Viderehan** (Observation) | Sees the observer completely and prepares judgment. | Stable |
-| **Ferrehan** (Endurance) | Forces the worker to bear accumulated sorrow. | Increase unless separated |
+**No Work Type applies to the fused form.** There is no session, no assignment and no yield: a worker sent at it is not working, they are inside a twelve-second separation problem. The responses filed for the three components are kept under each component, not here.
 
 ### Special Behaviors
 - Formation produces a twelve-second emergency window.
-- Most sentenced personnel Fracture within three seconds.
+- No personnel have been sentenced on this record. The sentences that appear in the Tale and the Chronicle are held by the station as projections beside the thirty-six seconds it can verify.
 - After suppression, the three Birds remain docile for 72 hours.
 
 
@@ -154,106 +161,28 @@
 No Work Type has ever been applied to the fused form and the table is retained for the three components. What the station tracks instead is the drill: 188 timed separations in eleven years, median eight seconds, and three live formations at nine, eleven and eleven. The margin has never been more than three seconds and twice it was one.
 
 **Reading the response:** Success is a separation time under twelve seconds. There is no gauge reading during a formation — nobody is reading instruments — and the station records the drill times instead, weekly, as the only measure that has ever predicted anything.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Convergence has broken free. Unleashes all sorrows at once."*
-
+> *"Convergence has formed and every sorrow is in it at once. It turns toward whoever is holding the Weighting Bird first. Move the rest of the wing out from behind that Team, because the order of everything else has not mattered yet."*
 | Field | Detail |
 |---|---|
-| **Breach Type** | Escape |
-| **Movement** | The Convergence rampages on its limbs, crashing through walls. It unleashes all sorrows at once. |
+| **Event Type** | Formation. Three Birds held at one station and parted again; nothing here escapes and nothing has ever attempted to. |
+| **Movement** | Floating and stationary. It has never moved during a formation and has never attempted to escape. It comes into existence where the three Birds already are and ceases when they are parted. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
+| **Secondary Effect** | Three Birds in one formation and the district's grief is the field they keep it in. What presses is the weather being made of what people owe each other. |
 | **First Target** | Whoever is holding the Weighting Bird. In all three formations the fused mask turned toward that team first, and the station has rotated the post monthly since the second. |
-| **Escalation** | Each turn free, Resolve drain +5 until suppressed. |
+| **Escalation** | Each turn the formation holds, Resolve drain +5. Parting the three Birds ends it; nothing struck at the fused mask has ever shortened an event. |
 
 ### Escalation Notes
 
 - **Event type:** Formation. It does not escape and has never attempted to; it comes into existence where the three Birds already are and ceases when they are parted.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Containment priority:** Separation, not suppression. Three teams pull three Birds apart against the twelve-second clock; nothing is struck, because every second spent on anything else is taken from the window.
+- **Sorrow Gauge on formation:** Opens at 40% and rises five points for each turn the three Birds are held in the same station. Parting them ends the formation and the reading with it. Nothing done to the fused mask moves either number, which is why the procedure is three teams and a twelve-second clock.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+**No extraction line, and nothing filed.** Nothing is produced from a form that is never held, and no bearer has ever carried a piece off it. There is no Weapon, Suit or Stigma record for The Convergence and there is nothing for one to describe: the only bodies present during a formation are the three Birds, and each of them already has a set of its own.
 
-### M.A.W. Weapon — The Singularity Orrery
-
-**Category:** FANTASY (Dark-Matter Spherical Orrery)
-
-Appearance : A compact spherical astrolabe constructed from dark meteoric silver and three interlocking gimbal hoops, cradling an immovable two-inch sphere of compressed, light-swallowing black glass.
-
-The planetary hoops spin along multiple axes with zero friction, warping background lines into curved ripples. Clenching the focus ring projects a high-density gravitational pulse that pulls nearby airborne debris toward the center.
-
-**Damage:** Weight 18–28
-**Speed:** 1 (Very Slow)
-**Range:** 5 (Room)
-**Max Amount:** 2
-**Cost:** 50 Sorrow Echoes
-
-**Attack Pattern:** Gravitational Inversion / Collapsing Shockwave
-**Target Coverage:** Room-wide vacuum and shockwave; drags all targets in the chamber toward the strike point before detonating
-**Falloff Rule:** Epicenter 100% → perimeter 70%; completely obliterates physical barriers and energy shielding.
-**Damage Application:** Direct Weight trauma to Han (sorrow reserves, karmic debt); collapses posture and pins entities to the ground.
-
-**Ability:** Extreme Weight against the Han. No Appeal compresses the space around a target into one point; it has been drawn in drill, never in a formation, and the Armoury's note records that drawing it in a formation would mean somebody had stopped pulling.
-
-**Cost:** The wielder feels progressively heavier; after each discharge, the bearer experiences every nearby person’s self-accusation as their own, causing excruciating mental and spinal strain.
-
-### M.A.W. Suit — The Absolute Mantle
-
-**Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
-
-**Appearance:** a draped mantle braided in three colours, lead-heavy, which the Armoury assembled from the three Birds' own sets rather than extracting anything from the fused form.
-
-**Resistances:**
-- Grudge: 1.0 (Normal)
-- Lament: 1.0 (Normal)
-- Weight: 0.5 (Warded)
-- Void: 1.5 (Weak)
-**Max Amount:** 2
-**Cost:** 45 Sorrow Echoes
-
-**Ability:** Resistance to Weight against the Han. Worn by the separation teams, all three of them, and the only equipment issued for this holding.
-
-**Cost:** A constant low fatigue, and the habit of counting — under the breath, to twelve, at odd moments. Every separation-team member reports it and the station treats it as training rather than as an effect.
-
-### M.A.W. Stigma — The Absolute Verdict
-
-**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
-
-**Appearance:** a warm steel charm cast as three rings that do not interlock, which the Armoury made deliberately and which is the only piece in the registry designed as a warning rather than a tool.
-
-**Slot:** Head
-**Acquisition Probability:** 4%
-**Effect:** +3 to the working stat during a separation drill, which is the only circumstance in which this holding can be worked at all
-
-**Ability:** Forces a target to experience their full karmic debt at once.
-
-**Cost:** The wielder experiences the weight of every sentence delivered.
-
-*None, and none is expected. A Stigma comes from a source to a worker who has completed a cycle with it; nothing has ever completed a cycle with this one, and the thirty-six seconds on record were spent taking it apart.*
-
-### M.A.W. Use Notes
-
-There is no extension of this entity, because nothing has been taken from it. The three pieces listed here were assembled out of the Birds' own sets so that the separation teams would have something rated for the work, and the Armoury's note says plainly that they are equipment for a drill and not relics of a source. It is the only honest way to issue anything for a holding that has existed for thirty-six seconds.
-
-### M.A.W. Cross-Source Review — Batch 113
-
-- **Identity and provenance hold:** Primary `C-Vδ-010 [WS]` matches Side A `SE-010-A`, Related Entity `SE-010`, and a complete `4/4` set. The primary says no pieces were taken from the Convergence and that its gear was assembled from the Three Birds' sets; Side A instead records sealed artifacts recovered after Convergence separation or suppression. The Bird Suit appearances were checked separately, but no item-level crosswalk joins them to `SE-010-C`.
-- **Weapon-name hold:** The primary and Side B item (`SE-010-B`, `MAW-W-010-01`) share a compact three-hoop astrolabe around light-swallowing black glass; the Master table and current archetype also use *The Singularity Orrery*. Side A's registry table and the B filename say *The Absolute Maul*, detailed Entry 385 says *The Gravitational Singularity-Hammer*, and the early W-010 personalization list says *War Sledge*. No source documents the naming or design transitions; the exact `SE-010-B` pair is newly dispositioned as a hold.
-- **Suit, Stigma, and history holds:** The primary's three-colour braided Mantle differs from Side C's dense black anchoring mantle, and its warm three-ring Verdict differs from Side D's cold square pendant marked with an eye, scale, and wing. Head / 4% / +3 and Suit resistances are retained, but generic Registry Accessory / 5% does not settle the specific record; the primary's no-completed-cycle account also remains beside Side D's recorded field use.
-
-### Field Use Record
-
-| Stage | Required record |
-|---|---|
-| **Before use** | Team, piece, the nine-item condition list read aloud by two people, and confirmation that all three Bird posts are manned. The last item has stopped four cycles. |
-| **During use** | The clock. One person on each team does nothing else, and the three times are compared afterwards rather than called out during. |
-| **At limit** | Ten seconds. The station's own order is that at ten the teams keep pulling and nobody says the number aloud, because in the second formation somebody did and two people looked up. |
-| **After use** | Three separation times, the last team to break contact, and a written note from each team leader on what slowed them. The notes are read at the next drill and not filed against anybody. |
-
-**Stat interpretation:** Grade is irrelevant here; nothing is being fought. The numbers that matter are three clocks and a nine-item list, and the only authorisation worth giving is whether all three posts are manned.
 
 ## 관찰 기록 (Observation Log)
 
@@ -297,8 +226,8 @@ The belief that every existence carries an unavoidable sentence.
 **Entry 4 — <Containment Notice>**
 Management: Separate Entities 031, 032, and 033 within twelve seconds.  Judgment is always “Guilty,” regardless of conduct or history.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <— Formed of What Is Already There>**
+The Convergence is not in the zone so much as made of what is already in it: three Birds, one formation, thirty-six seconds in total across three occurrences. It has no location of its own to add to a map, which is why the station redraws the sector after every formation instead of plotting the entity.
 
 ## 최종 관찰 (Final Observation)
 
@@ -336,11 +265,11 @@ This holding is a property of three others. It cannot be assessed on its own and
 
 | Related entity | What it contributes | What the drill requires | Required record |
 |---|---|---|---|
-| **The Observing Bird** | Supplies the sight; the mask's single eye-line is its. | Its team breaks contact first in the drill, every time, because releasing the sight costs the fused form its aim. | Separation time, and whether the eye-line had fixed before release. |
-| **The Weighting Bird** | Supplies the scales and the judgement. | Its handler is addressed first in every formation and the post is rotated monthly for that reason. | The handler's account, taken alone, immediately. |
-| **The Guarding Bird** | Supplies the armour and the enforcement. | Its team is the slowest in every drill — median eleven seconds — because what they are pulling does not want to leave a post. | Separation time, and the doorway it was standing in. |
-| **The Maw** | Will not be judged and keeps its distance. | Nothing. The Architects record that the thousand fall silent during a formation and resume afterwards. | The thousand's transcript for the day, searched for the gap. |
-| **The Dawn of Mourning** | Simultaneous manifestation is the archive's single worst projection. | Nothing is scheduled and nothing will be. | Cross-referenced in both files, identically, and left there. |
+| [**The Observing Bird**](SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | Supplies the sight; the mask's single eye-line is its. | Its team breaks contact first in the drill, every time, because releasing the sight costs the fused form its aim. | Separation time, and whether the eye-line had fixed before release. |
+| [**The Weighting Bird**](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) | Supplies the scales and the judgement. | Its handler is addressed first in every formation and the post is rotated monthly for that reason. | The handler's account, taken alone, immediately. |
+| [**The Guarding Bird**](SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) | Supplies the armour and the enforcement. | Its team is the slowest in every drill — median eleven seconds — because what they are pulling does not want to leave a post. | Separation time, and the doorway it was standing in. |
+| [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | Will not be judged and keeps its distance. | Nothing. The Architects record that the thousand fall silent during a formation and resume afterwards. | The thousand's transcript for the day, searched for the gap. |
+| [**The Dawn of Mourning**](SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md) | Simultaneous manifestation is the archive's single worst projection. | Nothing is scheduled and nothing will be. | Cross-referenced in both files, identically, and left there. |
 
 **Interaction procedure:** Keep them apart. That is the procedure in full, and the drill is how it is rehearsed.
 
@@ -387,7 +316,7 @@ Some sorrows are partial. The Convergence is total — the Three Birds merged in
 **Observation Notes:**
 - The completed shape of witnessing, judgment, and guarding without mercy.
 - Exists in historical breach records.
-**Cross-References:** The Three Birds · The Observing Bird · The Weighting Bird · The Guarding Bird
+**Cross-References:** The Three Birds · [The Observing Bird](SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) · [The Weighting Bird](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) · [The Guarding Bird](SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md)
 **Faction Involvement:** Judexhan hold the δ-grade order and attend every drill. The Wound Walkers requested the three handlers for Fracture screening after the second formation and the station agreed, which is the only external request in this file that was granted on the day it was made.
 **Originator:** The Three Birds, merged (historical); born from the Forgotten Market fire.
 
@@ -420,7 +349,7 @@ What made the three catastrophic in combination was not their merging but their 
 
 No one witnessed the merging itself. Three containment operations were running simultaneously — three birds, three facilities, three sets of precautions — and on the same watch, in the same hour, all three birds went silent. Not breached. Not calm. Silent: instruments flat, cells empty, no trace of departure. The alarm had barely propagated when the new readings began — a single signature, incomprehensibly dense, manifesting at the point equidistant from all three facilities. By the time response teams arrived, the Convergence was perched above the city, all three natures visible in the one body, and the Directorate understood that its three problems had solved themselves into one catastrophe.
 
-The doctrine written that night is the shortest Sovereign doctrine on record: do not be witnessed. The Convergence observes everything in its range continuously, judges everything it observes instantly, and protects its charges — a category it defines itself, without consultation — absolutely. There is no appeal from its verdicts and no limit to its guardianship. Personnel in its range are instructed to be still, be plain, and be doing nothing that requires mercy — because the entity that watches has none to give, and the entity that judges has never once reversed itself, and the entity that protects will destroy the city to save whoever it has chosen. All three are the same entity now. The merging only made it official.
+The doctrine written that night is the shortest Sovereign doctrine on record: do not be witnessed. The Convergence observes everything in its range continuously, judges everything it observes instantly, and protects its charges — a category it defines itself, without consultation — absolutely. There is no appeal from its verdicts and no limit to its guardianship. Personnel in its range are instructed to be still, be plain. And be doing nothing that requires mercy — because the entity that watches has none to give. And the entity that judges has never once reversed itself. And the entity that protects will destroy the city to save whoever it has chosen. All three are the same entity now. The merging only made it official.
 
 ### The Verdict Without Mercy
 
@@ -436,7 +365,7 @@ Perch crews — the personnel who monitor the entity at closest range — are se
 
 ### Warden's Marginalia
 
-Never give it a charge. This is the whole doctrine in four words. The Convergence protects whoever it chooses to protect with absolute, unlimited, uncalibrated ferocity — and its choice of charges has never once aligned with the Directorate's. A worker once caught its guardianship by weeping openly in its sightline; the entity shielded her through three subsequent breaches, destroying two response teams' equipment and one facility wing in the process of keeping her unharmed. She survived every incident without a scratch and requested transfer to duties as far from the perch as the institution could arrange. The Directorate granted it instantly. Being protected by the Convergence is statistically more dangerous than being judged by it, and the doctrine is explicit: do not attract the Guardian. Grieve privately. Bleed quietly. Be unremarkable under the sky it watches.
+Never give it a charge. This is the whole doctrine in four words. The Convergence protects whoever it chooses to protect with absolute, unlimited, uncalibrated ferocity — and its choice of charges has never once aligned with the Directorate's. A worker once caught its guardianship by weeping openly in its sightline. The entity shielded her through three subsequent breaches, destroying two response teams' equipment and one facility wing in the process of keeping her unharmed. She survived every incident without a scratch and requested transfer to duties as far from the perch as the institution could arrange. The Directorate granted it instantly. Being protected by the Convergence is statistically more dangerous than being judged by it, and the doctrine is explicit: do not attract the Guardian. Grieve privately. Bleed quietly. Be unremarkable under the sky it watches.
 
 The Convergence's Stigma — the Unblinking Eye — is the most refused honor in the Directorate. It grants perfect recall of everything witnessed and perfect certainty in every judgment, and it exacts the obvious cost: bearers lose the capacity for mercy, gradually and then completely. The Directorate maintains a sealed roll of bearers and a standing protocol for their care: monitored, counseled, retired the moment the certainty hardens past recall. Most bearers serve less than a year before requesting removal. The few who serve longer are the institution's most accurate diagnosticians and its least trusted commanders — right about everything, merciful about nothing, exactly like the entity that marked them.
 
@@ -446,11 +375,25 @@ Once per cycle, by no schedule and for no reason the archive has ever establishe
 
 ### The Missing Fourth
 
-The perch crews maintain a heresy the Directorate tolerates because it comforts no one and harms nothing: that there should have been a fourth bird. Witnessing, judgment, protection — and mercy. The three that merged perform their functions perfectly and terribly, and every veteran of the perch has felt, at least once, the shape of the absence: the verdict pronounced correctly and unbearably, the sentence executed precisely and mercilessly, and the hollow afterwards where something should have spoken for the sentenced and did not. The crews call it the missing fourth. They do not expect it to arrive. They name it the way sailors name drowned lights — as navigation, not hope: whatever you do under the perch, do it knowing no mercy watches. Be merciful yourselves, the veterans tell the new crews, because the sky will not be. Show the sentenced what the birds cannot. Carry, in your own conduct, the function the Convergence lacks. The Directorate's counselors have adopted the heresy as therapy: judgment survivors are told, explicitly and officially, that the verdict lacked mercy because the entity lacks it — not because the survivor deserved none. The verdict was correct. The absence of mercy was the entity's lack, not the survivor's. Begin there. The three birds will never learn the fourth function. The city, which watches them the way they watch it, learns it for them — practicing, under a merciless sky, the one virtue the sky cannot comprehend. Perhaps, the perch crews say in the small hours, that is why the three merged without the fourth: mercy cannot be witnessed, judged, or protected into existence. It can only be chosen — freely, knowingly, under open sky — by the watched, for each other, in full view of the birds that will never understand what they are seeing.
+The perch crews maintain a heresy the Directorate tolerates because it comforts no one and harms nothing: that there should have been a fourth bird. Witnessing, judgment, protection — and mercy. The three that merged perform their functions perfectly and terribly. And every veteran of the perch has felt, at least once, the shape of the absence: the verdict pronounced correctly and unbearably, the sentence executed precisely and mercilessly. And the hollow afterwards where something should have spoken for the sentenced and did not. The crews call it the missing fourth. They do not expect it to arrive. They name it the way sailors name drowned lights — as navigation, not hope: whatever you do under the perch, do it knowing no mercy watches. Be merciful yourselves, the veterans tell the new crews, because the sky will not be. Show the sentenced what the birds cannot. Carry, in your own conduct, the function the Convergence lacks. The Directorate's counselors have adopted the heresy as therapy: judgment survivors are told, explicitly and officially, that the verdict lacked mercy because the entity lacks it — not because the survivor deserved none. The verdict was correct. The absence of mercy was the entity's lack, not the survivor's. Begin there. The three birds will never learn the fourth function. The city, which watches them the way they watch it, learns it for them — practicing, under a merciless sky, the one virtue the sky cannot comprehend. Perhaps, the perch crews say in the small hours, that is why the three merged without the fourth: mercy cannot be witnessed, judged, or protected into existence. It can only be chosen — freely, knowingly, under open sky — by the watched, for each other, in full view of the birds that will never understand what they are seeing.
 
 ### The Perch Log
 
 The sightline maps are updated daily from the perch log — a plain ledger, kept by the closest watch, recording only position, hour, and posture. Perched. Preening. Tripartite stillness. The log's most frequent entry, across every year it has been kept, is a single word: watching. The Directorate preserves the log verbatim and permanently. It is the shortest continuous record in the institution, and the perch crews call it the most honest: no interpretation, no verdict, no guardianship. Only the fact, logged daily, that the sky has eyes — and that the eyes, on every day of the record, were open.
+
+## Apex Record
+
+### The Line It Ends
+
+The Convergence is the terminus of the Three Birds — the Observing Bird, the Weighting Bird and the Guarding Bird — and it is a Special Abnormality in the strict sense: it is not acquired, not contained and not extracted, because it exists only while all three are breached together and stops existing when they are parted. It is the only record in the archive whose survival condition is a coincidence of three others.
+
+### The Limit
+
+Twelve seconds. That is the whole of the arrangement and the reason every figure in this file is a figure about a window rather than about a fight. The fused form has existed for thirty-six seconds in eleven years, across three occasions, and all of those seconds were spent pulling it apart. There is no work loop on a form that only exists while its three parts are out, and a separation drill yields a time rather than Han-Energy. Extraction has never been attempted, and the Armoury's entry says it will not be.
+
+### The Standing Arrangement
+
+Separate the three inside twelve seconds, and read the conditions before any of them is worked: the printed list has nine items, has not changed since the second formation, and is read aloud by two people rather than one. Crews who have previously worked any of the three Birds are excluded from the rotation by screening, because the record has not established whether familiarity with one part makes the fused form easier or harder to part. The holding is filed with the line it terminates and never beside it.
 
 ## Trivia
 
@@ -463,8 +406,8 @@ The sightline maps are updated daily from the perch log — a plain ledger, kept
 
 - **Classification detail:** The Convergence is a Subject with Sovereign (V) — Autonomous and absolute coherence and Critical (δ) — Facility-threatening potency.
 - **Field detail:** Weight, and no location of its own: it forms wherever Entities `031`, `032` and `033` are when all three are active at once.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by the three-part silhouette — wing over wing, scale over scale, guard behind guard — and by the verdict it gives before anything has been asked.
+- **Record detail:** The Convergence forms only when 031, 032 and 033 breach at once, so its name and manifestation describe a state rather than a place. Both are confirmed against the three source files, and a sighting that matches one but not the others is not a Convergence.
 - **Containment detail:** There is nothing to contain. The containment of this holding is the separate containment of three others, and a weekly drill with a stopwatch.
 ## Document Information
 

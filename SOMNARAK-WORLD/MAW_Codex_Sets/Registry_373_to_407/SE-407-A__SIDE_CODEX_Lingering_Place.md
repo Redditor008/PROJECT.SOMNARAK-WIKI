@@ -20,7 +20,7 @@ A fever-cold burning figure whispers while fading at the edges. It guards the ga
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Void |
-| Gauge / Pressure | 45–65% / 14–32 |
+| Gauge / Pressure | 000% / 14–32 |
 | Observation | 2 |
 | Set | The Guarded Gap |
 
@@ -43,13 +43,3 @@ An echo forms after matching fragments are recorded and every unsupported featur
 Key opens one bounded fragment, Veil protects the witness, and Lens cuts active erasure. The missing place may remain guarded without reconstruction. Filling the gap with invented geography makes the set protect a false place and erase the current room.
 
 **Source:** `SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md`
-
----
-
-**Document ID:** `SE-407-A`  
-**Linked Entity:** `SE-407`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

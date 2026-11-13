@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-230 [VS]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Record Status:** Contained — SECTOR-A-01, Alpha Tree deep vault
 
@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Void |
 | Form | A translucent figure woven from thousands of final faces, thoughts, fears, regrets, loves, and moments of peace. |
-| Gauge / Pressure | 60–80% / Void 22–48 |
+| Gauge / Pressure | 000/880; starts 000% / Void — no attack pattern; the register of endings already shown is the reading |
 | Observation | 4 — Mastered |
 | M.A.W. Set | The Undelivered Farewell |
 
@@ -46,10 +46,10 @@ It has never shown the same final moment twice to one observer and retains endin
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Shows endings of love, acceptance, or peace. | Down | Witness without converting the moment into comfort it did not contain. |
-| Pugnahan | Releases fear and regret. | Up | Never force a final memory to answer the living. |
+| Flerehan | Shows endings of love, acceptance, or peace. | Decrease | Witness without converting the moment into comfort it did not contain. |
+| Pugnahan | Releases fear and regret. | Increase | Never force a final memory to answer the living. |
 | Viderehan | Reveals one selected dead person’s final moment. | Stable | Selection requires identity and clearance; record exactly what appears. |
-| Ferrehan | Makes the worker experience the approach of their own ending. | Down | Post-contact existential review is mandatory. |
+| Ferrehan | Makes the worker experience the approach of their own ending. | Decrease | Post-contact existential review is mandatory. |
 
 **Resolution:** Do not erase a final moment; acknowledge and record it.  
 **Corrupt breach:** Vault definition collapses, color and sound vanish, and the entity steals memories while moving at up to 2.45 m/s.  
@@ -102,13 +102,3 @@ A M.A.W. echo may be taken only after a final moment is witnessed, accurately re
 **Primary source:** `SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md`
 
 **Restricted note:** Final moments are not testimony from beyond death and must not be edited into commands, absolution, accusation, or prophecy.
-
----
-
-**Document ID:** `SE-230-A`  
-**Linked Entity:** `SE-230`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

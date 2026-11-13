@@ -10,7 +10,7 @@
 **Author:** Researcher Euncris Park  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
-**Codex Set Completion:** `4/4`
+**Codex Set Completion:** `1/1` — Side Codex only; no extractable M.A.W. exists
 
 ## SUBJECT
 
@@ -30,36 +30,28 @@ The Dawn is the catastrophic historical form of the Kind Healer. In the current 
 
 | Work | Source response |
 |---|---|
-| Flerehan | Recognizes genuine sorrow but does not cease judgment. (Stable) |
-| Pugnahan | Sentences aggression immediately. (Increase) |
-| Viderehan | Sees every hidden guilt in the observer. (Stable) |
-| Ferrehan | Pins the worker beneath accumulated sorrow. (Increase) |
+| — | **No Work Type.** A Special Abnormality is never worked: there is no session, no gauge response and no yield. The four approaches are held on the dossier as a projection written before the exchange, and none of them has been performed. |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Genuine confession before the twelfth blessing; no reliable post-formation method exists
 
 ## WITNESS RECORD — *The Dawn of Mourning Source-Trace*
 
-During the The Dawn of Mourning Source-Trace, the field team preserved this source fact: In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Compassion transformed into judgment after absorbing twelve complete burdens.
+During *The Dawn of Mourning Source-Trace*, the field team preserved this source fact: In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Compassion transformed into judgment after absorbing twelve complete burdens.
 
-## M.A.W. SET — *Dawn of Mourning — Witnessed Form*
+## PAGE 03 — NO M.A.W. REGISTRY
 
-| Piece | Canonical statistics | Individual history |
-|---|---|---|
-| The Dawn of Requiem | ω Lament 13-20; Speed 4 (Very Fast); Range 4 (Long); —; max 1; 70 Sorrow Echoes | `SE-044-B__MAW-W_The_Dawn_of_Requiem.md` |
-| The Dawn of Shroud | ω; L/G/V/W 0.4 (Resistant)/1.0 (Normal)/1.6 (Weak)/0.8 (Warded); max 1; 65 Sorrow Echoes | `SE-044-C__MAW-S_The_Dawn_of_Shroud.md` |
-| The Dawn of Charm | ω; Tail; 3%; +4 stat bonus when working the source entity | `SE-044-D__MAW-G_The_Dawn_of_Charm.md` |
+The Dawn of Mourning has no Weapon, Suit, or Stigma file because nothing can be extracted from it.
+It is the terminus of the Kind Healer chain and has never formed in the current cycle. Its anatomy
+comes from the Tale and from Dawn accounts, not from a body that was ever present, and the twelfth
+blessing that would complete the line is the one thing the record exists to prevent.
 
-## FULL-SET RESONANCE — *Source Kept Distinct*
+| Proposed Extraction Attempt | Result |
+|---|---|
+| Draw a Lament weapon off the Dawn | The chain's own Lament weapon is `SE-071-B`, the Kind Healer's. There is no fourth stage to draw a second one from. |
+| Wear the chain's Lament resistance | The resistance belongs to the shroud the Kind Healer's line already files. Nothing new is produced at the terminus. |
+| Take a boon from its sorrow | The boon is the blessing. Taking it is the completion the whole record is written against. |
 
-The Stigma identifies Dawn of Mourning's source condition, the Suit lets a witness bear its All four — Lament, Grudge, Void, Weight pressure, and the Weapon marks only the immediate manifestation that violates this rule: Genuine confession before the twelfth blessing; no reliable post-formation method exists The set cannot heal the originating event. Misuse routes Dawn of Mourning's wound through the operator and triggers the recorded escalation.
+## SET RESONANCE
 
----
-
-**Document ID:** `SE-044-A`  
-**Linked Entity:** `SE-C-Vω-001`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+There is no set to resonate. No Weapon, Suit, or Stigma was ever produced from this entity, so there is nothing to say about how three pieces read together — and no bearer has carried one.

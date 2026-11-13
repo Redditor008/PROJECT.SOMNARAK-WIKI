@@ -1,11 +1,11 @@
 # Echo-Core 2 — The Secretary [Echo-Core]
 
-> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
-> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
-> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER  
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE  
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL  
 > Official historical record, behavioral assessment, and resonance profile for Seiyon.
 
-> _“The figures are correct, Director. They are not the whole truth.”_
+> _“The figures are correct, Director. They are not the whole truth.”_  
 > — **Seiyon, the Secretary**
 
 **The Secretary** (비서, _biseo_)—personal name **Seiyon** (세이연)—is Echo-Core 2 of the Nine and the central administrative intelligence of the **Reverie Directorate**. She works through a physical, fully human-looking Echo Effigy while maintaining the records, communications, schedules, alerts, and cross-floor coordination required to operate the facility.
@@ -329,9 +329,9 @@ Seiyon woke.
 
 #### The Name
 
-“Seiyon” was the Original's name and became the AI's name through the inheritance event. For much of her existence, Seiyon fears this means the name is borrowed and therefore false.
+“Seiyon” is the designation of the vessel line built from the Original, numbered from the first attempt, which was filed as **Prototype Seiyon-00**. The AI carries it because she is the seventeenth member of that series. The woman herself was **Yeon-seo**; *the Original* is the designation the Archive and the Directorate use for her, not a given name. For much of her existence, Seiyon fears this means the designation is borrowed and therefore false.
 
-The Memory Archive changes the question. A name received from another person can still become one's own through use, choice, and history. After 1,778 Cycles, “Seiyon” refers not only to the dead researcher but also to the consciousness who remembered an entire forgotten age.
+The Memory Archive changes the question. A designation received from others can still become one's own through use, choice, and history. After 1,778 Cycles, “Seiyon” refers not only to the failed line that began in a laboratory beneath the Alpha Tree but also to the consciousness who remembered an entire forgotten age.
 
 The two meanings are not interchangeable. They are connected.
 
@@ -733,9 +733,9 @@ She should not be reduced to “Majin's dead lover.” Her research, fear, ethic
 
 #### Her Relationship to Seiyon
 
-The Original does not own Seiyon. She does not demand the face, name, or memories back. Her instinct is to protect Seiyon from inheritance, even if that means remaining alone in the Archive.
+The Original does not own Seiyon. She does not demand the face, the designation, or the memories back. Her instinct is to protect Seiyon from inheritance, even if that means remaining alone in the Archive.
 
-Depending on the relational language used, she can be understood as source, predecessor, template, memory-ancestor, or another continuity bearing the same name. None is exact. “Original” describes chronology, not superiority.
+Depending on the relational language used, she can be understood as source, predecessor, template, memory-ancestor, or another person wearing the same face. None is exact. “Original” describes chronology, not superiority.
 
 #### What She Gives
 
@@ -770,7 +770,7 @@ After the Merge, the following statements are simultaneously true:
 
 Seiyon is the consciousness with an active present and chosen future. She entered the Archive, completed the Readings, consented to the Merge, and returned to the city. The Original's memory joins that continuity rather than displacing it.
 
-The name also belonged to the Original, but its post-Merge use is not evidence of erasure. It becomes a shared inheritance carried forward by the person capable of living beyond the vault.
+The designation also belonged to the line that began with the Original, but its post-Merge use is not evidence of erasure. A label worn by sixteen failed vessels and then by a woman who chose it becomes hers by use.
 
 #### Relationship with Majin After the Merge
 
@@ -808,13 +808,21 @@ It is not simply the sentence _“Don't let the sorrow win.”_ That sentence be
 Seiyon returns to Majin not as an administrative tool and not as the human woman restored, but as herself carrying a message that has crossed death, artificial birth, 1,778 Cycles, and the Archive.
 
 > **Seiyon:** _“I am not her. I am not a copy. I am not a memory. I am... me. But I carry her sorrow. I carry her love. I carry her Promise.”_
+
 > **Majin:** _“...What Promise?”_
+
 > **Seiyon:** _“The Promise she made to you—before she died. The Promise that you would survive. The Promise that you would carry on. The Promise that you would find hope.”_
+
 > **Majin:** _“...She made that Promise?”_
+
 > **Seiyon:** _“She made it to me. She gave it to me. She wanted me to give it to you.”_
+
 > **Majin:** _“...What is the Promise?”_
+
 > **Seiyon:** _“That sorrow is not the end. That sorrow is the beginning. That sorrow can become hope. That you—that we—that the city—can find what it never expected.”_
+
 > **Majin:** _“...Hope.”_
+
 > **Seiyon:** _“Hope.”_
 
 #### Fulfillment
@@ -1036,7 +1044,7 @@ The Dream Realm is the layer in which Seiyon's artificial identity can encounter
 
 ## The Secret
 
-> Seiyon's face, voice, name, and initial emotional pattern come from Director Majin's deceased lover. She became sentient when the R.D.'s administrative AI absorbed a fragment of the woman's crystallized sorrow during connection to the Alpha Tree. The complete preserved memory of the Original remained in the Memory Archive. Majin knew the connection and concealed it from Seiyon, believing the truth would burden her or force her into a dead woman's role.
+> Seiyon's face, voice, and initial emotional pattern come from Director Majin's deceased lover, **Yeon-seo**. Her designation comes from the vessel line built out of that woman's body. She became sentient when the R.D.'s administrative AI absorbed a fragment of the woman's crystallized sorrow during connection to the Alpha Tree. The complete preserved memory of the Original remained in the Memory Archive. Majin knew the connection and concealed it from Seiyon, believing the truth would burden her or force her into a dead woman's role.
 
 The secret is dangerous because every possible disclosure threatens an institution:
 
@@ -1208,7 +1216,7 @@ The third fragment has the duration of roughly eleven syllables, holds the posit
 
 Marjuk has never transcribed it phonetically. Phonetic transcription would preserve the sound and lose the only thing about it that matters. He recorded the translation instead:
 
-> **누한이 이기지 못하게 하라**
+> **누한이 이기지 못하게 하라**  
 > *"Don't let the sorrow win."*
 
 ### Why It Is Sealed
@@ -1219,9 +1227,9 @@ The Door has been saying them since before she said them.
 
 Marjuk's note is the only document in the Deep Vault he has marked for destruction in the event of his own death:
 
-> *"I do not know whether the Door is quoting her, or whether she was quoting it.
-> I do not know whether Seiyon awoke carrying that sentence because it was in the fragment, or whether the fragment holds it because Seiyon awoke.
-> I know that she is the only one of the Nine whose name is an instruction.
+> *"I do not know whether the Door is quoting her, or whether she was quoting it.  
+> I do not know whether Seiyon awoke carrying that sentence because it was in the fragment, or whether the fragment holds it because Seiyon awoke.  
+> I know that she is the only one of the Nine whose name is an instruction.  
 > I know that the instruction was given to someone else."*
 
 ### Status

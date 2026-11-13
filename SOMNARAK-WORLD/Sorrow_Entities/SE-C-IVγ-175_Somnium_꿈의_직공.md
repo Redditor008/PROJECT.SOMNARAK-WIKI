@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A humanoid figure woven from thousands of luminous dream-threads rather than flesh — translucent, shifting, its face rearranging to match whoever dreams of it. Weightless and salt-warm, it smells of cold rain and sleep; the threads hum faintly. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile in breach on foot, and it hunts: the selection is the most tired person in the corridor, every recorded time. |
 | **Location** | SECTOR-A-01, near Dream Gates |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, counted from the session sheets rather than from the weave |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 2 |
+| **SE Effect** | **On the breach** — Its dreams can be beautiful enough to overcome the will to wake. |
+| **Work Damage** | 4–7 Lament — the cost is sleep arriving as a schedule item. The worker wakes on the floor of the Gates |
+| **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -55,7 +57,7 @@
 | **Resistance** | 40% against Lament pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 779/779 |
-| **Han Pressure [ATK]** | 15–35 per hit · Lament |
+| **Han Pressure [ATK]** | 30–50 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
@@ -79,14 +81,14 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The First Thread* [**Debuff**] } | "A single gossamer strand brushes your skin — and it is softer than it should be." | [The Weaver trails one dream-thread across the target; it clings.] | *Target suffers -10 Composure; sleep tugs at them.* **[10 Lament DMG [Lament]]** | When the Weaver begins to work. |
-| { *The Loom Tightens* [**Debuff**] } | "The thread becomes a web, and the web becomes a cage of gossamer." | [More threads bind the target; the weave closes around them.] | *Target loses 10 Composure; they cannot move without tangling.* **[10 Lament DMG [Lament]]** | When the target stays in the Weaver's reach. |
-| { *The Snare* [**Attack**] } | "The threads pull taut — and dream-stuff cuts sharper than wire." | [The woven threads snap tight, slicing through the target.] | *Inflicts Lament pressure and one slicing wound.* **[14-22 Lament DMG [Lament]]** | When the target struggles against the weave. |
+| { *The Loom Tightens* [**Debuff**] } | "The thread becomes a web. And the web becomes a cage of gossamer." | [More threads bind the target; the weave closes around them.] | *Target loses 10 Composure; they cannot move without tangling.* **[10 Lament DMG [Lament]]** | When the target stays in the Weaver's reach. |
+| { *The Snare* [**Attack**] } | "The threads pull taut — and the harder you pull back, the more of the offered life you agree to." | [The woven threads tighten around the struggle itself. Nothing here cuts, and nobody on this file has ever been wounded; what tightens is the offer.] | *Inflicts Lament pressure. The harm is the addition accepted while struggling, and its first sign is an unheld posting spoken of in the past tense.* **[14-22 Lament DMG [Lament]]** | When the target struggles against the weave. |
 | { *The Waking Nightmare* [**Attack**] } | "The Weaver holds up what it has made out of your own sleeping mind." | [Something the target dreamed is standing in front of them, and it moves.] | *A heavy Deep Blue blow; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Weaver is disturbed or given an order. |
-| { *The Whole Tapestry* [**Ultimate**] } | "There is a thread to every sleeper in the building, and the Weaver draws them all in." | [The whole tapestry pulls tight and takes everybody in the room into the weave.] | *Everyone takes Lament pressure for three turns inside the web.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| { *The Whole Tapestry* [**Ultimate**] } | "There is a thread to every sleeper in the building. And the Weaver draws them all in." | [The whole tapestry pulls tight and takes everybody in the room into the weave.] | *Everyone takes Lament pressure for three turns inside the web.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
-1. **Tension:** The thread-count survey is run before anything else and the figure is entered against the previous survey's. Visual confirmation is not accepted on this file and has not been since Year 4219; the count is the only statement about this entity that two people can make and agree on.
+1. **Tension:** The thread-count survey is run before anything else and the figure is entered against the previous survey's. Visual confirmation is not accepted on this file and has not been since Year 4219. The count is the only statement about this entity that two people can make and agree on.
 2. **Clash:** Flerehan and Ferrehan lower the gauge; Pugnahan raises it every time and has never once done otherwise in the holding's history. The team works in pairs on a timed check, and a pair that misses a check ends the session for the whole rotation rather than for themselves, because the worker who has already drifted is the worker least able to say so.
 3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Identify the dream's false promise, name it aloud, and wake without violence**. The clause is what ends contact here and what the file is practised on: the promise is always a future the worker actually wanted, and saying it out loud is the ending.
 
@@ -96,6 +98,7 @@
 - Sustained proximity leaves additions rather than damage. They are warm, small, plausible, and the worker has no reason to report them, which is why screening here is comparison against the service record and not an interview.
 - The Dream Requiem is carried by the rotation supervisor and not by the advance. It is the only M.A.W. in the wing issued to the person holding the clock, and the reason is in the Apex Record.
 - An unresolved session does not end in a breach. It ends in a crew that wants to go back, individually, on their own time, and the holding has lost two Wardens that way, neither of them to injury.
+- The Gates' shift rota is built around the sleep rather than against it, and the facility hires to that rota.
 
 ## Appearance
 **Primary Form:** A humanoid figure made from thousands of luminous dream-threads. Its face changes according to the dreamer observing it.
@@ -119,7 +122,7 @@
 | **Position / movement** | Mobile; can breach and pursue. Position is not recorded because it cannot be agreed. Count 41,906 at last survey; range 38,440 to 47,310. |
 | **Material / signature** | Lament. Luminous thread, weightless, salt-warm, faintly humming, smelling of cold rain and sleep. The threads are enumerable and that is the single most useful fact in this file. |
 | **Distinctive markers** | None that survive between observers. The face is the observer's; so, increasingly, is the build, the voice and the clothing. Report what you saw and understand that the report is about you. |
-| **Identification** | Thread count, surveyed, against the last survey. Stable to within forty threads inside a single session, which is what makes it usable as an occupancy check; it moves between quarters, and that movement is the other half of this record. |
+| **Identification** | Thread count, surveyed, against the last survey. Stable to within forty threads inside a single session, which is what makes it usable as an occupancy check. It moves between quarters, and that movement is the other half of this record. |
 
 **Appearance protocol:** Count first, describe second, and sign the description with your own name and the name of the face you saw. The wing wants the descriptions and keeps every one of them, but it does not treat them as observations of the entity. A description here is a disclosure, and personnel are told so before their first session rather than after it.
 
@@ -127,17 +130,17 @@
 - **Formation:** The Weaver formed from dreams abandoned before they could be lived.
 - **The Sorrow:** The grief of imagined lives that felt possible but never became real.
 - **The Event:** No event. Dreamers died, or woke, or gave up, one at a time, over an unknown period, and the residue drifted to the Gates and accumulated until it could hold a shape. This is the only holding in the wing with no incident date, and the absence is not a gap in the record.
-- **The People:** Citizens who imagined a life, said so once, and did not live it. They are not identifiable individually and the file does not pretend otherwise; what is identifiable, and what the holding has had to admit, is that a measurable share of the threads are the facility's own staff.
+- **The People:** Citizens who imagined a life, said so once, and did not live it. They are not identifiable individually and the file does not pretend otherwise. What is identifiable, and what the holding has had to admit, is that a measurable share of the threads are the facility's own staff.
 - **Expanded origin context:** Nothing was done to anyone here. That is the difficulty of the file and the reason it took the wing nineteen years to write a containment condition for it. There is no originating cruelty, no clearance, no erasure, no decision taken against a named person. There are only futures that people imagined, told somebody about once, and did not get, in a city that consumes futures faster than it builds them. The threads accumulate because wanting something and saying so leaves a residue, and because in Somnarak the saying is almost never written down. What the quarterly survey measures is therefore not the entity's appetite. It is the facility's own filing practice, read back at us by something that keeps better records of what we were asked for than we do.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Weaves a comforting dream around the worker. | Decrease |
-| **Pugnahan** | Turns the dream into a hostile maze. | Increase |
-| **Viderehan** | Mirrors the worker's hidden desire. | Stable |
-| **Ferrehan** | Keeps the worker inside an unfinished dream. | Decrease |
+| **Flerehan** | Weaves a comforting dream around the worker. | Decrease · High |
+| **Pugnahan** | Turns the dream into a hostile maze. | Increase · Low |
+| **Viderehan** | Mirrors the worker's hidden desire. | Stable · Common |
+| **Ferrehan** | Keeps the worker inside an unfinished dream. | Decrease · Common |
 
 
 
@@ -145,16 +148,15 @@
 
 Viderehan holds the gauge level and is the most dangerous Work Type on the table, which is the opposite of the usual arrangement and must be stated to every cohort. Observing this entity means being shown your own hidden desire, accurately, and a worker can complete a flawless observation session, file a clean sheet, and carry the thing home. Flerehan and Ferrehan both reduce the gauge and are the assignable routes. Pugnahan raises it without exception across the whole recorded history of the holding and is not an emergency option either.
 
-**Reading the response:** The gauge reports the session. The thread count reports the quarter, and it answers to the Personnel Directorate rather than to the team. A crew can work this holding perfectly for three months and find the count higher at the end of it, and that is not their failure; somewhere in the facility, people asked for things and were answered in conversation. The two figures are kept in separate columns on the sheet for exactly this reason, and a supervisor who merges them is corrected.
+**Reading the response:** The gauge reports the session. The thread count reports the quarter, and it answers to the Personnel Directorate rather than to the team. A crew can work this holding perfectly for three months and find the count higher at the end of it, and that is not their failure. Somewhere in the facility, people asked for things and were answered in conversation. The two figures are kept in separate columns on the sheet for exactly this reason, and a supervisor who merges them is corrected.
 ## Breach Behavior
 
-> *"Somnium has broken free. Hunts personnel indiscriminately."*
-
+> *"Somnium has broken free. It takes the most tired person in the corridor, every recorded time. Send the rested half of the rotation and stand the tired half down before they meet it."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Somnium breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
-| **Effect** | The air fills with audible weeping. Responders describe it afterwards as the sound of someone being told no kindly, which is not a figure of speech anyone chose; four independent statements use close to the same words. |
+| **Movement** | Somnium breaks free and stalks the corridors on foot. It hunts personnel, and the selection is not indiscriminate: see First Target. |
+| **Effect** | The air fills with audible weeping. Responders describe it afterwards as the sound of someone being told no kindly, which is not a figure of speech anyone chose. Four independent statements use close to the same words. |
 | **Secondary Effect** | An overwhelming and specific sorrow, located in the chest, concerning one particular thing the responder wanted. It is never a general grief and responders can always name it. |
 | **First Target** | The most tired person in the corridor, every recorded time. Not the nearest, not the most grieving, not the most senior. Rotation discipline is therefore the suppression doctrine and not a welfare provision. |
 | **Escalation** | Clarity drain increases by 5 per turn. The drain is survivable; what escalates dangerously is agreeableness. Responders stop objecting to things, and the incident command is required to log the first unopposed order. |
@@ -162,7 +164,7 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 ### Escalation Notes
 
 - **Breach type:** Escape, on foot, through corridors, with the weeping that every other Lament holding produces. Nothing about the breach is distinctive. The handling is, and the difference is set out below.
-- **Containment priority:** Rotate responders *before* fatigue, not at it. A tired responder is a drowsy one and the threads reach a drowsy mind faster than a grieving one, so the clock is deliberately set shorter than the measured pressure justifies and is enforced against people who feel fine. Pugnahan raises the gauge here and is not a suppression route; earlier editions of this entry recommended forcing it back through Pugnahan and that instruction stood, wrongly, for eleven years.
+- **Containment priority:** Rotate responders *before* fatigue, not at it. A tired responder is a drowsy one and the threads reach a drowsy mind faster than a grieving one, so the clock is deliberately set shorter than the measured pressure justifies and is enforced against people who feel fine. Pugnahan raises the gauge here and is not a suppression route. Earlier editions of this entry recommended forcing it back through Pugnahan and that instruction stood, wrongly, for eleven years.
 - **Sorrow Gauge on breach:** Opens at 40% and climbs 10% a turn, and the climb is not what closes the incident. What closes it is the question put aloud to every responder — what are you looking forward to — followed by an answer from each.
 
 ## M.A.W. Equipment
@@ -184,11 +186,11 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second 50%. The blade is a line weapon and the holding's note is that it was never meant to be used in a corridor with your own people behind the target.
-**Damage Application:** Apply the multiplier to direct and Tick damage separately. The Tick here is the dream continuing after the strike; log how long the target kept dreaming, because that figure has been more useful than the damage figure.
+**Damage Application:** Apply the multiplier to direct and Tick damage separately. The Tick here is the dream continuing after the strike. Log how long the target kept dreaming, because that figure has been more useful than the damage figure.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Somnium's lament signature in the strike.
 
-**Cost:** The wielder begins to dream, waking, about the things they have not done. The weeping is incidental and is not the cost; the cost is that the dreams are accurate, specific, and still available.
+**Bearer cost:** The wielder begins to dream, waking, about the things they have not done. The weeping is incidental and is not the cost; the cost is that the dreams are accurate, specific, and still available.
 
 ### M.A.W. Suit — The Dream Shroud
 
@@ -206,7 +208,7 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 
 **Ability:** Grants resistance to Lament damage. The shroud does not block the dream. It keeps the wearer able to tell that they are being offered one, which is the whole of the protection available here.
 
-**Cost:** The wearer stops wanting things. Not painfully — they simply find that they no longer make requests, and the quarterly comparison picks it up as an absence rather than as an addition.
+**Bearer cost:** The wearer stops wanting things. Not painfully — they simply find that they no longer make requests, and the quarterly comparison picks it up as an absence rather than as an addition.
 
 ### M.A.W. Stigma — The Dream Thread
 
@@ -220,13 +222,13 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 
 **Ability:** Allows controlled entry into another person's dream.
 
-**Cost:** The wearer carries an emotional fragment from every dream entered.
+**Bearer cost:** The wearer carries an emotional fragment from every dream entered.
 
 *The thread-band is neither issued nor asked for. It has appeared 9 times, and on every one of those occasions the recipient had put in a formal request that quarter which came back refused in writing, with a ground given. No recipient has ever explained the pattern, and the holding does not claim to have either.*
 
 ### M.A.W. Use Notes
 
-The three pieces divide the mechanism cleanly. The blade reaches a dreaming mind and makes the dream stop; the shroud does not stop the dream but keeps the wearer able to recognise it as one; the band lets an operative enter another person's dream deliberately and brings something back each time. The costs are correspondingly different in kind, and the holding's armoury note is that no operative should carry two of them in the same quarter. That rule was written after the only occasion on which someone did.
+The three pieces divide the mechanism cleanly. The blade reaches a dreaming mind and makes the dream stop. The shroud does not stop the dream but keeps the wearer able to recognise it as one. The band lets an operative enter another person's dream deliberately and brings something back each time. The costs are correspondingly different in kind, and the holding's armoury note is that no operative should carry two of them in the same quarter. That rule was written after the only occasion on which someone did.
 
 ### Field Use Record
 
@@ -255,11 +257,11 @@ The three pieces divide the mechanism cleanly. The blade reaches a dreaming mind
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer runs the count and records the face they saw beside their own name. Both go in the log. The second is not evidence about the entity and the observer is told so at the time. |
-| **Sustained observation** | Across a quarter the count separates from the work and attaches to the Directorate's register returns. Observers who hold both columns for a year stop describing this entity as capricious; it is the most predictable holding in the wing once you are reading the right instrument. |
+| **Sustained observation** | Across a quarter the count separates from the work and attaches to the Directorate's register returns. Observers who hold both columns for a year stop describing this entity as capricious. It is the most predictable holding in the wing once you are reading the right instrument. |
 | **Activation or escalation** | Two ignored conditions open it, and the counter is not advisory. Escalation presents as a shortening of the onset interval rather than as an advance: nothing comes closer, sleep simply arrives sooner, and it arrives reasonably. |
 | **Post-contact review** | Two counts, the quarter's register return attached, and every crew member asked in turn what they are looking forward to. A session that produces no answer from someone is referred the same day. |
 
-**Observation method:** Enumerate the threads. The survey is slow, it is done in pairs on a timed check, and it has been proposed for replacement by instrument four times and refused four times, on the ground that an instrument would produce a number nobody in the room had counted. A figure that a Warden has personally counted is a figure that Warden will defend; this holding has needed that more than it has needed precision.
+**Observation method:** Enumerate the threads. The survey is slow, it is done in pairs on a timed check, and it has been proposed for replacement by instrument four times and refused four times, on the ground that an instrument would produce a number nobody in the room had counted. A figure that a Warden has personally counted is a figure that Warden will defend. This holding has needed that more than it has needed precision.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -271,17 +273,17 @@ Somnium (C-IVγ-175 [LS]) stands on the register as a Subject-Dream manifestatio
 The first full return under the Register of Requests, Year 4238. Four thousand two hundred and seventeen requests were identified as having been made by facility personnel that year — for a posting, a transfer, training, study leave, a change of rotation, a move closer to family. The identification was reconstructed from supervisors' diaries and rotation notes, because the requests themselves were mostly not written down anywhere. Nine hundred and twelve were recorded in the requester's own file with an outcome against them. Three thousand three hundred and five were not recorded at all: made, heard, answered in conversation, and gone. The thread count stood at 47,310 at the Year 4231 peak, in the quarter a hiring freeze cancelled three hundred advertised postings without any of the applicants being told in writing. It reached its recorded floor of 38,440 in Year 4236, the quarter the register opened and four years of refusals were back-filled into the files of the people who had made them. It has never gone below that floor, and the Research wing's standing view is that the floor is made of requests nobody ever said out loud.
 
 **Entry 3 — <Statement of a Counselor Who Conducts the Comparison>**
-I sit with the Warden and their own service record and we read it against what they believe. Most of what I find is small and warm. A posting in the coastal wing that they did not hold. A colleague they remember well who was never on that roster. I am required to tell them, in full, which memories the record cannot support, and I do, and it is the worst part of the work, because the thing I am taking away is almost always the only version of their life in which they got what they asked for. One of them said to me, and I have written it down because I think it is the whole file: *you are not correcting my memory, you are telling me again that it was refused.* He was right. The entity had not invented anything. It had given him the outcome of a request this facility heard and never wrote down.
+I sit with the Warden and their own service record and we read it against what they believe. Most of what I find is small and warm. A posting in the coastal wing that they did not hold. A colleague they remember well who was never on that roster. I am required to tell them, in full, which memories the record cannot support. And I do, and it is the worst part of the work, because the thing I am taking away is almost always the only version of their life in which they got what they asked for. One of them said to me, and I have written it down because I think it is the whole file: *you are not correcting my memory, you are telling me again that it was refused.* He was right. The entity had not invented anything. It had given him the outcome of a request this facility heard and never wrote down.
 
 **Entry 4 — <Containment Notice>**
-Containment of C-IVγ-175 has two halves and only one of them is at the Gates. Site duties: quarterly thread survey in pairs on a timed check, off-site sleep for all rostered personnel without exception, and the ninety-day comparison of each Warden's belief against their own service record, findings filed as medical and nowhere else. Facility duties, owned by the Personnel Directorate and binding on every supervisor in the building: **a request made by any member of staff — for a posting, a transfer, training, leave, a rotation, a move — shall be entered in the requester's own file with its outcome, the ground where refused, the name of the officer refusing, and a copy to the requester.** Work response — Flerehan: weaves a comforting dream (Decrease); Pugnahan: turns the dream into a hostile maze (Increase, without exception); Viderehan: mirrors the worker's hidden desire accurately (Stable, and the most dangerous route on the table); Ferrehan: holds the worker inside an unfinished dream (Decrease). Management: identify the dream's false promise and wake without violence. The false promise is always something the worker genuinely wanted.
+Containment of C-IVγ-175 has two halves and only one of them is at the Gates. Site duties: quarterly thread survey in pairs on a timed check, off-site sleep for all rostered personnel without exception, and the ninety-day comparison of each Warden's belief against their own service record, findings filed as medical and nowhere else. Facility duties, owned by the Personnel Directorate and binding on every supervisor in the building: **a request made by any member of staff — for a posting, a transfer, training, leave, a rotation, a move — shall be entered in the requester's own file with its outcome, the ground where refused, the name of the officer refusing, and a copy to the requester.** Work response — Flerehan: weaves a comforting dream (Decrease). Pugnahan: turns the dream into a hostile maze (Increase, without exception). Viderehan: mirrors the worker's hidden desire accurately (Stable, and the most dangerous route on the table). Ferrehan: holds the worker inside an unfinished dream (Decrease). Management: identify the dream's false promise and wake without violence. The false promise is always something the worker genuinely wanted.
 
 **Entry 5 — <Director's Memo, Eyes Only: Recording What People Asked For>**
 The Personnel Directorate opposed the register and I am recording the objection in full because it is the better-argued of the two papers on my desk.
 
-A permanent record of every refusal, they wrote, is a permanent record of a person being told no. Boards read files. A worker with eleven refused requests in their file will be read as difficult, or as unrealistic, or as unhappy, whatever the grounds say, and the people most damaged will be the ones who asked most often — which is to say the ones with the least. And supervisors who know that hearing a request creates a document will stop hearing requests. They will keep the conversation informal, or they will not have it, and we will have made the facility quieter and called it transparency.
+A permanent record of every refusal, they wrote, is a permanent record of a person being told no. Boards read files. A worker with eleven refused requests in their file will be read as difficult, or as unrealistic, or as unhappy, whatever the grounds say. And the people most damaged will be the ones who asked most often — which is to say the ones with the least. And supervisors who know that hearing a request creates a document will stop hearing requests. They will keep the conversation informal, or they will not have it, and we will have made the facility quieter and called it transparency.
 
-Both of those are true. We answered the first by barring a refused request from being treated as adverse by any board and requiring the ground and the refusing officer's name on every entry, so that what the file records is a decision taken by somebody rather than a failure in the person asking. We have not answered the second and I do not know how to. Nothing in this instruction requires a supervisor to listen. The thread count has a floor of 38,440 that four years of back-filling never moved, and the Research wing believes that floor is made of requests nobody ever said out loud. If they are right, then the register has reached the limit of what it can reach, and the rest of it is people in this building who have stopped asking.
+Both of those are true. We answered the first by barring a refused request from being treated as adverse by any board and requiring the ground and the refusing officer's name on every entry. So that what the file records is a decision taken by somebody rather than a failure in the person asking. We have not answered the second and I do not know how to. Nothing in this instruction requires a supervisor to listen. The thread count has a floor of 38,440 that four years of back-filling never moved, and the Research wing believes that floor is made of requests nobody ever said out loud. If they are right, then the register has reached the limit of what it can reach, and the rest of it is people in this building who have stopped asking.
 
 I am signing it anyway, on one ground. For nine years a Warden on that rotation carried a posting he had applied for and been refused in conversation, and the only place that refusal existed was inside him, until the entity found it and handed it back to him furnished. We cannot give people the lives they asked for. We can stop being the only party to the conversation that did not write it down.
 
@@ -291,7 +293,7 @@ I am signing it anyway, on one ground. For nine years a Warden on that rotation 
 
 | Answer the question aloud, in the present tense, and admit what was not given. | Keep the face steady and give the Weaver something that does not matter. |
 |---|---|
-| The worker says what they wanted, out loud and in the present tense, and says plainly that they never got it; the dream ends on its own and the session closes clean. | The worker keeps the answer back or names something they do not care about; the weave turns, the reading climbs, and the entity leaves holding the true answer. |
+| The worker says what they wanted, out loud and in the present tense, and says plainly that they never got it. The dream ends on its own and the session closes clean. | The worker keeps the answer back or names something they do not care about. The weave turns, the reading climbs, and the entity leaves holding the true answer. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -312,7 +314,7 @@ Threads hang in the air like rain that forgot to fall. The Weaver touches one, a
 
 Three records sit near this one and none of the three has ever been brought to the Gates. Two are grouped with it by subject matter, which is weak grounds, and one is grouped with it by an incompatibility that is at least measured. Comparison on this file is done on paper and the reason is in the Interaction method below.
 
-**Interaction method:** Paper only. A proximity trial here requires an observer who is both present and awake for its whole duration, and this holding cannot guarantee either; a trial that produced a result nobody could swear to having witnessed would be worse than no trial. Read the other record in full, state in one sentence what each entity does to a person, and record whether the two sentences describe the same act done to the same part of them. Where a trial is nevertheless proposed, it goes to the Sentinel of record with the thread count of that quarter attached.
+**Interaction method:** Paper only. A proximity trial here requires an observer who is both present and awake for its whole duration, and this holding cannot guarantee either. A trial that produced a result nobody could swear to having witnessed would be worse than no trial. Read the other record in full, state in one sentence what each entity does to a person, and record whether the two sentences describe the same act done to the same part of them. Where a trial is nevertheless proposed, it goes to the Sentinel of record with the thread count of that quarter attached.
 
 
 ### Entity Interaction Record
@@ -322,10 +324,10 @@ Three records are read alongside this one and all three concern dreaming, which 
 | What shares the weaving | How the pairing has run | What the post entered | What the sheet keeps |
 |---|---|---|---|
 | **The Memory Weaver** | Grouped by subject and separated by direction. That record takes memory from a person; this one adds to a person, from material the person supplied years earlier. | Untested and proposed three times. All three proposals were refused on the ground that a worker exposed to both could not afterwards say which record had done what. | The refusal, with its date, on every renewed proposal, so the ground does not have to be re-argued each time. |
-| **The Dream Fragment** | The nearest relation and the clearest contrast. A fragment is a piece of one dream; this entity holds the residue of thousands and gives back a whole one, finished, to the person it belonged to. | Paper comparison only. Reading them together is how the wing established that completeness, not dreaming, is the hazard here. | Whether the dream offered was partial or whole, on every exposure sheet. It is the single most predictive field on the form. |
+| **The Dream Fragment** | The nearest relation and the clearest contrast. A fragment is a piece of one dream. This entity holds the residue of thousands and gives back a whole one, finished, to the person it belonged to. | Paper comparison only. Reading them together is how the wing established that completeness, not dreaming, is the hazard here. | Whether the dream offered was partial or whole, on every exposure sheet. It is the single most predictive field on the form. |
 | **The Frozen Veil** | A measured incompatibility rather than a thematic one, and the only entry in this table with evidence behind it. Staged feeling gives this entity nothing to work from; it needs a want that is actually the person's. | Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding. | That the incompatibility is recorded as absence of effect, so it is not later cited as suppression. |
 
-**Interaction procedure:** Both records in full, the two sentences written out and signed by the reader, and the quarter's thread count attached. Refusals of proposed trials are kept with their grounds and are cited rather than re-argued; three of the four refusals on this file have now been cited twice.
+**Interaction procedure:** Both records in full, the two sentences written out and signed by the reader, and the quarter's thread count attached. Refusals of proposed trials are kept with their grounds and are cited rather than re-argued. Three of the four refusals on this file have now been cited twice.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -337,7 +339,7 @@ The dreamers die. Or they wake — which is to say, they abandon the dream, the 
 
 Somnium is what they accumulate into. Subject-Dream, Lament-element: not a person but a function, a presence that gathers the city's abandoned futures and weaves them — not into fabric but into being, briefly, half-real. The Weaver takes the dream of the home by water and gives it, for a moment, walls. Takes the dream of the thriving child and gives it, for a moment, a laugh. Takes the dream of the unburdened self and gives it, for a moment, a face. The futures become, in the Weaver's hands, almost real — almost lived — and then dissolve, because they were not, in the end, the dreamer's to live.
 
-This is the Weaver's sorrow: the grief of imagined lives that felt possible but never became real. The Weaver holds every beautiful future Somnarak's citizens abandoned, and gives each one, briefly, the shape of a life, and watches each one fade, because the city that produced the dreamers also consumed them, and the futures they dreamed were never going to be allowed to happen.
+This is the Weaver's sorrow: the grief of imagined lives that felt possible but never became real. The Weaver holds every beautiful future Somnarak's citizens abandoned. And gives each one, briefly, the shape of a life. And watches each one fade, because the city that produced the dreamers also consumed them. And the futures they dreamed were never going to be allowed to happen.
 
 Those who come near the Somnium see their own abandoned futures given form — the life they imagined and let go, briefly real, briefly reachable, and then gone. And they feel the specific grief of the possible: the sorrow not of what was lost but of what was never allowed to be, preserved by a Weaver who gathers the city's unlived lives and weaves them, over and over, into shapes that almost exist.
 
@@ -361,7 +363,7 @@ Some sorrows mourn what was. Somnium mourns what might have been — the futures
 **Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Major. Earlier editions recorded this holding as Low, against its own Major (γ) potency, its Entity (IV) coherence, its Major encounter role and a breach profile that hunts personnel through corridors, and the error stood because nobody here is ever hurt. The assessment was corrected in the same review that opened the register. Nothing about this entity is gentle except the experience of it.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan are the Work Types that lower the gauge. Viderehan holds it level and is the most dangerous route on the table; Pugnahan raises it without exception and is not a suppression option, including during a breach.
+- Flerehan and Ferrehan are the Work Types that lower the gauge. Viderehan holds it level and is the most dangerous route on the table. Pugnahan raises it without exception and is not a suppression option, including during a breach.
 - Quarterly thread survey, in pairs, on a timed check. Off-site sleep for all rostered personnel, without exception.
 - Ninety-day comparison of belief against service record. Findings are medical, never disciplinary, and are explained to the Warden in full.
 - Counselors conducting comparisons are barred from the operational roster for the duration of their appointment, at the staff's own request.
@@ -371,7 +373,7 @@ Some sorrows mourn what was. Somnium mourns what might have been — the futures
 - Formed from abandoned dreams near the Dream Gates. No incident date; the accumulation has no event behind it.
 - Thread count 41,906 at last survey. Peak 47,310 (Year 4231, the hiring freeze). Floor 38,440 (Year 4236, the register's first back-fill), never passed.
 - Count movement tracks the facility's own unrecorded refusals, not the holding's work.
-**Cross-References:** Dream Gates · The Dream Fragment · The Dream Weaver’s Loom
+**Cross-References:** Dream Gates · The [Dream Fragment](SE-C-IIβ-135_Rem_꿈의_조각.md) · The Dream Weaver’s Loom
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Personnel Directorate, which is unusual on an entity file and is listed because the Register of Requests is a containment condition of this holding and the Directorate owns it.
 **Originator:** Citizens who died, woke, or gave up before completing their futures. No individual is identifiable and none is claimed. A proportion of the current count is known to be facility staff, and that proportion has never been estimated in writing.
 
@@ -384,11 +386,11 @@ Some sorrows mourn what was. Somnium mourns what might have been — the futures
 
 ### The Face You Bring
 
-Somnium's face changes according to the dreamer observing it, and no two personnel have ever described it the same way. This is not a perceptual curiosity; it is the holding's identification problem. Visual confirmation is worthless on this file, because every Warden confirms a different entity, and the Subject-Dream manifestation means the thing being confirmed is not reliably in the room in the sense the word normally carries. Occupancy is therefore established by thread-count survey — the luminous dream-threads are enumerable, their total is stable to within forty threads across a single session, and the survey is the only measurement the wing trusts. Between quarters the total moves, and the movement is a separate subject with a separate instruction behind it; within a session it does not, which is what makes it an occupancy check at all. Personnel are trained to report what they saw and to understand that the report is about themselves. The observation logs reflect this honestly: each entry records the observer's name beside the face described, and the Research wing reads the collected entries as a study of the staff at least as much as a study of the entity.
+Somnium's face changes according to the dreamer observing it, and no two personnel have ever described it the same way. This is not a perceptual curiosity; it is the holding's identification problem. Visual confirmation is worthless on this file, because every Warden confirms a different entity, and the Subject-Dream manifestation means the thing being confirmed is not reliably in the room in the sense the word normally carries. Occupancy is therefore established by thread-count survey — the luminous dream-threads are enumerable, their total is stable to within forty threads across a single session, and the survey is the only measurement the wing trusts. Between quarters the total moves, and the movement is a separate subject with a separate instruction behind it. Within a session it does not, which is what makes it an occupancy check at all. Personnel are trained to report what they saw and to understand that the report is about themselves. The observation logs reflect this honestly: each entry records the observer's name beside the face described, and the Research wing reads the collected entries as a study of the staff at least as much as a study of the entity.
 
 ### Beautiful False Memories
 
-It weaves sleeping minds together and creates false memories that are, by every account, lovely. That is the hazard stated plainly. The entity does not deceive maliciously and does not appear to deceive deliberately; it offers the dreamer the life the dreamer wanted, assembled from threads of dreams abandoned before they could be lived. Personnel rostered to the holding sleep off-site, without exception, and the off-site requirement is the most expensive single provision in the wing's budget. It has survived every review. The reasoning is in the counselors' standing note: a false memory that is pleasant is not experienced as an intrusion, and a worker carrying one has no reason to report it. Screening is accordingly performed by comparison against the personnel record rather than by interview — the wing checks what Wardens believe about their own histories against what the files say, quarterly, and treats divergence as a medical finding rather than a disciplinary one.
+It weaves sleeping minds together and creates false memories that are, by every account, lovely. That is the hazard stated plainly. The entity does not deceive maliciously and does not appear to deceive deliberately. It offers the dreamer the life the dreamer wanted, assembled from threads of dreams abandoned before they could be lived. Personnel rostered to the holding sleep off-site, without exception, and the off-site requirement is the most expensive single provision in the wing's budget. It has survived every review. The reasoning is in the counselors' standing note: a false memory that is pleasant is not experienced as an intrusion, and a worker carrying one has no reason to report it. Screening is accordingly performed by comparison against the personnel record rather than by interview — the wing checks what Wardens believe about their own histories against what the files say, quarterly, and treats divergence as a medical finding rather than a disciplinary one.
 
 ### The Weeping Escape
 
@@ -410,7 +412,7 @@ Comparison findings are filed in the medical record and nowhere else, and the co
 
 ### Registry Trivia
 
-- **Classification detail:** Subject, Entity (IV) — self-aware, creative, manipulative — and Major (γ). The Registrum carried a Threat Assessment of Low against all four of those figures for an unknown period and has been corrected; assessments resting on the old line should be re-read.
+- **Classification detail:** Subject, Entity (IV) — self-aware, creative, manipulative — and Major (γ).
 - **Field detail:** Lament, SECTOR-A-01, near the Dream Gates. Mobile and capable of pursuit, which is why the holding's physical measures exist at all; everything else in this file is about the staff.
 - **Recognition detail:** Do not identify it by sight. Every Warden who has confirmed this entity has confirmed a different face, and the observation logs are read by the Research wing as a study of the staff at least as much as of the entity. Identification is the thread count, surveyed, against the last survey.
 - **Record detail:** Check the designation, and check which grief you are working. The archive holds several records about lives not lived and they are not interchangeable. Mourning a Life I Never Lived turns on intentions a person speaks aloud on shift and is about the moment of speaking. This turns on requests a person made formally to an institution that heard them and left them out of the file, and is about the record afterwards. One is a conversation. The other is a filing decision.

@@ -256,7 +256,7 @@ The suppression of `SE-N-IVβ-019 The Inherited Debt` was executed across six ta
 | - Min-Jae rolls Speed 2 (Heavy Bastion): Spends 2 AP on             |
 |   [Immovable Citadel Anchor] at Node 3, taking 55 Weight damage.    |
 | - Min-Jae Posture: 85/195 | Composure: 65/110. Shield holds!        |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 2: SUTURE & FLANKING MANEUVER (PILLAR: PRESENCE)               |
 | - Seol-A rolls Speed 8 (Flanker): Spends 3 AP on [Piercing Siphon]. |
 | - Seol-A advances to Node 5, thrusting crystalline needle into      |
@@ -264,7 +264,7 @@ The suppression of `SE-N-IVβ-019 The Inherited Debt` was executed across six ta
 | - Presence Trigger: Taeho witnesses Min-Jae and Seol-A holding      |
 |   the crushing field for him. He reclaims his will to strike.       |
 | - Taeho Composure rises: 38 -> 72/110. Posture: 145/195.            |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 3: THE KINETIC SPRINT THROUGH THE SUMP                         |
 | - Taeho spends 3 AP on [Hydraulic Shackle Overdrive]:               |
 |   Ankle clamp vents pressurized steam, propelling him Node 3 -> 7.  |
@@ -272,14 +272,14 @@ The suppression of `SE-N-IVβ-019 The Inherited Debt` was executed across six ta
 |   24)                                                               |
 | - Taeho executes [Dissonance Sweep]: Clash Power 25 vs 24!          |
 | - CLASH VICTORY! Two ancestral chain anchors shattered into slag.   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 4: THE ANCESTRAL PRECIPICE (PILLAR: PRECIPICE)                 |
 | - Taeho steps into Node 8, directly facing the Gravitational Core.  |
 | - The entity unleashes [Total Inheritance]: 4 generations of        |
 |   unpaid usury manifest as a crushing 40-ton iron ledger phantom.   |
 | - Taeho's left collarbone cracks under the immense downforce.       |
 | - Precipice reached: Taeho refuses to yield or pass the blow.       |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 5: ACTIVATION OF OLD ACCOUNT (PILLAR: PURPOSE)                 |
 | - Taeho activates MAW-W-019-01 unique trait [Old Account].          |
 | - Instead of rejecting the debt, he absorbs the entire generational |
@@ -287,7 +287,7 @@ The suppression of `SE-N-IVβ-019 The Inherited Debt` was executed across six ta
 | - Hundreds of ancestral names on the hammer face ignite with grey   |
 |   fire.                                                             |
 | - Taeho speaks the vow: 'The account ends with me!'                 |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 6: GENERATIONAL SUNDER & SUPPRESSION (PILLAR: PACT)            |
 | - Taeho vaults from Node 8 -> Node 9 with [Generational Sunder]!    |
 | - Clash Power: 42 vs 30! CRITICAL CLASH OVERWHELM!                  |

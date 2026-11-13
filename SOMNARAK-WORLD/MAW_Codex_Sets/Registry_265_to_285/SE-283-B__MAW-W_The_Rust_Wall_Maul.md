@@ -28,6 +28,10 @@ The Rust Wall Maul is a black maul of Han steel whose head is built from overlap
 |---|---:|---|---|---:|
 | γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
 **Open Seam:** The Maul carries Weight through up to three current closure points. Striking the historic dream-boundary erases one side’s departure evidence and transfers it to the wielder.
 
 **Cost:** Progressive heaviness and slight aging.
@@ -43,14 +47,3 @@ Charm names sides, Plate holds position, Maul opens only the active blockage.
 **Maintenance:** Rest the head across an open route. Read one account from each side without combining them. Brush only rust shed at the passable seam.
 
 **Shutdown:** Ground the Maul after passage reopens; do not demolish the remaining dream image.
-
----
-
-**Document ID:** `SE-283-B`  
-**Linked Entity:** `SE-283`  
-**Item Registry Code:** `MAW-W-283-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

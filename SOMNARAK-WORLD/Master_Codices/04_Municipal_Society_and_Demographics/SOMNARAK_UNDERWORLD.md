@@ -5,7 +5,7 @@
 
 ---
 
-## I. Menders (수선자 — Suseonja) 
+## I. Menders (수선자 — Suseonja)
 
 **What they are:** Independent operators who work in the Raw — where the Wardens won't go, where the R.D. doesn't reach, where the Collectors are too slow. Menders fix things. They repair, heal, mediate, contain, and sometimes enforce.
 

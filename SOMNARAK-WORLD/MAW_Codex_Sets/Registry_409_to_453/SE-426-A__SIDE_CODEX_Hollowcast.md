@@ -20,7 +20,7 @@ A person-shaped emptiness split like torn fruit, leaking crimson light. Trauma m
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Grudge |
-| Gauge / Pressure | 35–50% / 9–21 |
+| Gauge / Pressure | 000% / 9–21 |
 | Observation | 2 |
 | Set | The Unfabricated Self |
 
@@ -43,13 +43,3 @@ An echo forms when current identity anchors stabilize Hollowcast without supplyi
 Bracelet resists imposed narratives, Plate anchors body, and Fang cuts emotional manipulation. The current person-shape can remain without invented biography. Adding fabricated memories gives the rage a false cause and teaches the set to defend it.
 
 **Source:** `SE-N-IIβ-426_Hollowcast_찢어진_열매.md`
-
----
-
-**Document ID:** `SE-426-A`  
-**Linked Entity:** `SE-426`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -24,7 +24,7 @@
 | Coherence / Potency | I — Residue / α — Minor |
 | Element | Lament |
 | Form | A seed-shaped hollow in lifeless soil, ringed by dead black roots; visible only when rain or Han crosses it. |
-| Gauge / Pressure | 25–40% / Lament 3–10 |
+| Gauge / Pressure | 000/240; starts 000% / Lament — no attack pattern; the outline survey and the seven-day logger trace are the reading |
 | Observation | 1 — Initial |
 | M.A.W. Set | The First Mark |
 
@@ -44,10 +44,10 @@ The hollow is ash-cold and damp. Fingers return wet after touching the absence, 
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears may reveal the outline but do not constitute Work. |
-| Pugnahan | Not valid; disturbance manifests husks. | N/A | Do not excavate. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Tears may reveal the outline but do not constitute Work. |
+| Pugnahan | Not valid; disturbance manifests husks. | Net-Neutral | Do not excavate. |
 | Viderehan | Shows the plant and future it might have become. | Stable | Record possibility as possibility. |
-| Ferrehan | Tests waiting for something that will not grow. | Down | Keep the marked hollow empty. |
+| Ferrehan | Tests waiting for something that will not grow. | Decrease | Keep the marked hollow empty. |
 
 **Resolution:** Mark the absence; do not excavate or plant into it.  
 **Expansion:** New unrealized beginnings let the field travel slowly through Han-rich soil, preventing nearby germination while displaying imagined futures.  
@@ -99,13 +99,3 @@ Rain or Han crossing the hollow can leave blue residue outside its edge after a 
 **Primary source:** `SE-C-Iα-236_Unwitnessed_사라진_씨앗.md`
 
 **Restricted note:** No physical seed has been recovered. The M.A.W. set protects beginnings elsewhere; it does not restore the source’s lost object.
-
----
-
-**Document ID:** `SE-236-A`  
-**Linked Entity:** `SE-236`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

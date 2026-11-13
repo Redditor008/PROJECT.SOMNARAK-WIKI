@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / γ — Major |
 | Element | Weight |
 | Form | A hollow humanoid carrying dark-crystal blueprints and building unfinished structures for people who never arrived. |
-| Gauge / Pressure | 45–65% / Weight 14–32 |
+| Gauge / Pressure | 000% / Weight 14–32 |
 | Movement | 2.30 m/s while building or breaching |
 | Observation | 3 — Advanced |
 | M.A.W. Set | The Unoccupied Plan |
@@ -45,10 +45,10 @@ The Architect is lead-cold, damp, and empty inside. Its plans change under obser
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Pauses and accepts shared grief. | Down | Name the vanished occupants, not only the labor. |
-| Pugnahan | Builds defensive walls around the worker. | Up | Do not challenge the design through completion or demolition. |
+| Flerehan | Pauses and accepts shared grief. | Decrease | Name the vanished occupants, not only the labor. |
+| Pugnahan | Builds defensive walls around the worker. | Increase | Do not challenge the design through completion or demolition. |
 | Viderehan | Shows each structure’s intended future. | Stable | Record purpose separately from feasibility. |
-| Ferrehan | Tests remaining in unfinished space. | Down | Leave the missing element missing. |
+| Ferrehan | Tests remaining in unfinished space. | Decrease | Leave the missing element missing. |
 
 **Resolution:** Do not complete or destroy the structures; document their purpose.  
 **Breach:** At 75% Gauge the Architect pursues personnel and raises hollow towers whose load-bearing emptiness attacks Resolve.  
@@ -100,13 +100,3 @@ A stable echo forms after a structure’s intended occupants and use are documen
 **Primary source:** `SE-C-IVγ-255_Hollow_Architect_빈_건축가.md`
 
 **Formal-ID note:** `SE-255` is assigned to The Hollow Architect. The Rising Wall remains a deferred source-suffix sibling requiring a unique formal ID.
-
----
-
-**Document ID:** `SE-255-A`  
-**Linked Entity:** `SE-255`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

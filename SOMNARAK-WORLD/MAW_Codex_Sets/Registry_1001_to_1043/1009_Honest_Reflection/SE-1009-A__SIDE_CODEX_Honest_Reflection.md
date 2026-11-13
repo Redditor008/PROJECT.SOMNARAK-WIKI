@@ -19,10 +19,10 @@ The Mirror formed from memories that citizens asked the Keepers to seal away. De
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIα-081 [VO] |
-| Type / Manifestation | Object/Place — Can breach via Transform; activation possible / Object-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats showing reflections / Minor (α) — Low danger |
 | Element / Location | Void / SECTOR-A-01, Alpha Tree Archive — contained |
-| Gauge / Pressure | 226/226; starts 25–40% / 3–10 per hit · Void |
+| Gauge / Pressure | 000/226; starts 000% / 3–10 per hit · Void |
 | Observation | 4 — Mastered |
 | Formation event | Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror. |
 
@@ -30,17 +30,17 @@ The Mirror formed from memories that citizens asked the Keepers to seal away. De
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals patterns in the viewer's history. (Stable) |
 | Ferrehan | Shows the viewer's worst memory; facing it reduces distress. (Decrease) |
 
 **Trigger:** Direct gaze or physical contact.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1009 -->
+**Resolution:** Viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Honest Reflection Source-Trace*
 
-During the The Honest Reflection Source-Trace, the field team preserved this source fact: Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Denial—the grief of truths too painful to preserve and too persistent to destroy.
+During *The Honest Reflection Source-Trace*, the field team preserved this source fact: Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Denial—the grief of truths too painful to preserve and too persistent to destroy.
 
 ## M.A.W. SET — *Honest Reflection — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Honest Reflection Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Honest Reflection's source condition, the Suit lets a witness bear its Void pressure, and the Weapon severs only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Honest Reflection's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1009-A`  
-**Linked Entity:** `SE-1009`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Honest Reflection's source condition, the Suit lets a witness bear its Void pressure, and the Weapon severs only the immediate manifestation that violates this rule: viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. The gauge opens at 000% of its 000/226 meter, and 3–10 per landed Void hit. The set cannot heal the originating event. Misuse routes Honest Reflection's wound through the operator and triggers the recorded escalation.

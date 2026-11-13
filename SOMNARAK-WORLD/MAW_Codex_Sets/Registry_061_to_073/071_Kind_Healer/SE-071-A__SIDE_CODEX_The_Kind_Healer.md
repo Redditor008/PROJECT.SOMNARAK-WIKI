@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Iα-071 [LS]`  
 **Author:** Research Lead Ayshuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Record Status:** Historical chain origin; current outcome recorded as Hand of Hope
 
@@ -86,13 +86,3 @@ The Healer’s failure is not lack of compassion. It is compassion trapped in a 
 
 ### Observation 4 — Mastered
 The final Cycle changed the chain by distributing sorrow. The historical Dawn branch remains a warning, not the current outcome.
-
----
-
-**Document ID:** `SE-071-A`  
-**Related Entity:** `SE-071`  
-**Author:** Research Lead Ayshuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

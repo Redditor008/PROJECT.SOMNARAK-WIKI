@@ -881,7 +881,7 @@ Below them, the city bells begin to chime—not for an emergency, not for a melt
 
 They are ringing for the dawn.
 
-Majin turns to his family, taking Seiyon's hand in his right and Xyan's in his left. 
+Majin turns to his family, taking Seiyon's hand in his right and Xyan's in his left.
 
 He smiles: *"Come. Let's go down and meet the people."*
 

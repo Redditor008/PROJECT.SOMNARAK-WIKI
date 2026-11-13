@@ -422,7 +422,7 @@ The Glass Burrower utilized terrifying speed and mass to breach from beneath the
 
 Within the volcanic caldera of Waystation 07, the mobile fortress dropped anchor for twenty-four hours of maintenance and replenishment. The crew gathered around the central maintenance bay as Wright Gwan and the Ash Iron smiths hoisted the shed leviathan chitin plates into the crawler's hydraulic presses. The green glass armor was cut into reinforced panels and welded along the crawler's forward bogies, replacing the dented steel plates with material that could withstand volcanic heat.
 
-In the observation cupola, Chief Ley-Seer Sora poured boiling chicory tea into metal cups for Kael and Hwaran. Outside, the night sky over the Sea of Glass was a tapestry of cold, unblinking stars, untouched by the smoke of Somnarak.
+In the observation cupola, Chief Ley-Seer Sora poured boiling chicory tea into metal cups for Kael and Hwaran. Outside, the night sky over the Sea of Glass was a field of cold, unblinking stars, untouched by the smoke of Somnarak.
 
 "Five hundred kilometers behind us," Hwaran murmured, holding the warm tin between her soot-stained palms. "Another four hundred and fifty to the Ash Citadel of Cheonbulok. My former masters will have received word of our approach by now."
 

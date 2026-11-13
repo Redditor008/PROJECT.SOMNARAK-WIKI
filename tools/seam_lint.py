@@ -63,8 +63,9 @@ for f in files:
             if fl != want:
                 errors.append(f"{f}:{line_num} -> [EC_FLOOR] Echo-Core {n} paired with Floor {fl} (canon: EC-N commands Floor N-1; EC1 holds Floor 1)")
 
-        # Check retired rank names (V5-9); the codex deprecation note is whitelisted
-        if not ("SOMNARAK_ENTITY_CODEX.md" in f and "Archival variants" in line):
+        # Check retired rank names (V5-9); the codex deprecation note is whitelisted,
+        # and "The Torn Whisper" (SE-716) is a proper entity name, not a rank usage
+        if not (("SOMNARAK_ENTITY_CODEX.md" in f and "Archival variants" in line) or "Torn Whisper" in line):
             for m in p_old_rank.finditer(line):
                 errors.append(f"{f}:{line_num} -> [OLD_RANK] Retired rank usage: '{m.group(0).strip()[:50]}'")
 

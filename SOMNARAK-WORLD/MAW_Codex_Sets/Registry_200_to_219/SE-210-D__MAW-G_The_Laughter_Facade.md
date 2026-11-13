@@ -10,7 +10,7 @@
 **Entity Designation:** `C-IIβ-210 [VO]`  
 **Author:** Specialist Hanul Grey, Junior Containment Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — bearer-bound; mandatory removal partner
 
@@ -18,9 +18,13 @@
 
 ## ITEM IDENTITY & BESTOWAL
 
+### Appearance
+
 The Laughter Facade is a small curve of Void Han-glass fixed at the bearer’s temple. It is nearly transparent when no one is watching. Under social attention, light spreads from it across the face and produces a convincing smile supported by the bearer’s own preferred laugh. The dark reflection of two wet eyeholes remains visible only from behind.
 
 A genuine Facade has no painted features. Asked to perform on command, it repeats the requester’s laugh rather than the bearer’s.
+
+### Bestowal
 
 The Stigma cannot be extracted or manufactured. Levity grants it at random after successful work; the registered probability is 5%. Bestowal does not authorize activation.
 
@@ -37,6 +41,7 @@ The Facade binds only when a second person agrees to remove it. It gives no resp
 | Type | Accessory — bearer-bound Stigma |
 | Grade / element | β — Moderate / Void |
 | Slot | Head |
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful source work |
 | Bonus | +1 Composure during work with Levity |
 | Passive function | Conceals emotional distress behind credible laughter |
@@ -108,14 +113,3 @@ Levity copies the Facade more accurately than it copies an uncovered person. The
 The Facade is not therapeutic and does not create happiness. It is an emergency concealment effect derived from the exact behavior that formed Levity: continuing to entertain after grief had made entertainment hollow. Any policy requiring its use to preserve public confidence repeats the source wound.
 
 > *“If I sound cheerful, check the route. If I sound exactly like myself, check me.”* — Specialist Hanul Grey
-
----
-
-**Document ID:** `SE-210-D`  
-**Linked Entity:** `SE-210`  
-**Item Registry Code:** `MAW-G-210-01`  
-**Author:** Specialist Hanul Grey, Junior Containment Specialist  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

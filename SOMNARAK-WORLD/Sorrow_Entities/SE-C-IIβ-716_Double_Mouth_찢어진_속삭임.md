@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-716 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; everyone in hearing becomes certain of something they cannot support, and says it |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Spirit |
-| **Physical Form** | Mixed — A figure only half-present: a smear of cold smoke and grey ash vaguely shaped like a hooded torso, legless, its face two mouths pulling in opposite directions — one whispering, one burning. Where it passes, the air tastes of char and old apologies, and the smoke clings to the skin like a damp handprint. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — incorporeal; it arrives from several bearings at once and is recorded by bearing rather than by position. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken across both channels rather than the louder one |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **SE Effect** | **On the completion** — One tone states the account; the other names what was done with it. The count of which is speaking is taken at fixed hours. |
+| **Work Damage** | 2–4 Grudge — the cost is two channel sheets disagreeing about one voice |
+| **Activation threshold** | 3 conditions |
 | **Tool / M.A.W. grade** | β · Fang, Plate, Voice — all three graded; the Voice is given and twice has been handed back |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -70,7 +72,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan is listed and is not applied here. |
+| **Valid Work Types** | Flerehan and Ferrehan move the gauge. Viderehan runs for the tone count. Pugnahan is contradiction by another name and is forbidden |
 | **Battlefield** | Zone D, Mantle Commons |
 | **Resolution Condition** | Both channels filed unreconciled, in full, with both recorders' names. Choosing the tidier version has ended more sessions here than any other error. |
 
@@ -78,11 +80,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Broken Word* [**Debuff**] } | "A whisper reaches you — but it is cut in half, and the missing half is the worst part." | [The Whisper delivers a fragmented message; the target hears half a secret.] | *Target suffers -10 Resilience; the incomplete sentence is maddening.* **[10 Grudge DMG [Grudge]]** | When the target hears the Whisper. |
-| { *The Repeating* [**Debuff**] } | "The torn fragment loops — the same half-sentence, over and over, wearing a groove in your mind." | [The Whisper repeats its broken phrase; the target cannot stop hearing it.] | *Target loses 10 Resilience; the incomplete word is consuming.* **[10 Grudge DMG [Grudge]]** | When the target fails to block it out. |
-| { *The Cutting Edge* [**Attack**] } | "The torn edge of the whisper is sharp — and it slices where it is heard." | [The fragmented whisper strikes as a sonic blade.] | *Inflicts Grudge pressure and one thin, ringing cut.* **[14-22 Grudge DMG [Grudge]]** | When the Whisper is interrupted. |
-| { *The Full Sentence* [**Attack**] } | "The missing half arrives — all at once — and the completed sentence is devastating." | [The half-sentence closes on its own and the finished line lands with the weight of everything it was holding back.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is forced whole. |
-| { *A Thousand Half-Whispers* [**Ultimate**] } | "Every torn whisper in the place speaks at once — and none of them are complete." | [The torn voice comes apart into a hundred incomplete ones and every listener gets a different ending.] | *All in range suffer Grudge pressure for three turns of incomplete words.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Broken Word* [**Debuff**] } | "The whisper is giving dates. The other one is not giving dates." | [Two finished accounts arrive from different bearings at once; the listener hears a phrase end and finishes it themselves.] | *Target suffers -10 Resilience; the completion feels like their own thought.* **[10 Grudge DMG [Grudge]]** | When a listener finishes a half-heard phrase on the holding's behalf. |
+| { *The Repeating* [**Debuff**] } | "Sixty-one in a hundred this year." | [The burning share of the count rises through the watch; both sheets keep filling and neither agrees.] | *Target loses 10 Resilience; certainty without support is consuming.* **[10 Grudge DMG [Grudge]]** | When the tone count climbs across consecutive fixed hours. |
+| { *The Cutting Edge* [**Attack**] } | "No physical attacks in twenty years of record." | [Nothing cuts. Contradiction is offered — aloud, in the room — and the burning tone takes it.] | *Inflicts Grudge pressure as testimony contradicted; no injury is produced.* **[14-22 Grudge DMG [Grudge]]** | When the holding is contradicted or told it is wrong. |
+| { *The Full Sentence* [**Attack**] } | "Convergence is the third condition. And it ends the session." | [Both tones arrive on the same words at the same moment; the words, the hour and who was present are recorded as the room empties.] | *A heavy Grudge surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the two tones converge on one statement. |
+| { *A Thousand Half-Whispers* [**Ultimate**] } | "Everyone in hearing becomes certain of something they cannot support. And says it." | [The account spreads into Commons conversation already happening; old complaints are re-lodged across the sector in a single day.] | *All in range suffer Grudge pressure for three turns of unsupported certainty.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -92,15 +94,15 @@
 
 ### Consequences
 
-- Resistance that fails lets the murmur in directly: **Resilience** pays for it and the gauge is lifted on the payment.
-- Time in the Commons deepens the wound: the sorrow gets past the protocol's terms and into the operative's cognition, and the breakdown it leaves — emotional, bodily, identitary — does not reverse.
-- The kit is not free, and the rate is on file: body, mind and recollection each settle a share of it on every swing.
-- A watch left unresolved fires the event protocol: the gauge peaks, the fail-safes give, and the sorrow settles deeper into ground it already holds until the zone cannot be worked at all.
+- Resistance that fails presents as certainty: **Resilience** pays while the listener finishes half-heard phrases and later reports the completed sentence as a thought of their own.
+- The recorder-side failures are quiet ones — answering the burning tone (the one authorised extraction on file), becoming certain of something unsupportable, or making the two sheets match at the desk. Tidying, not panic, is how sessions are lost here.
+- Each piece prices listening differently: old wounds registering again, reflexes plating over until only slowness shows, and every conversation heard as two sides that do not meet. None of the three separates truth for the bearer; on this file that separation has never been establishable.
+- Left unresolved it transforms in place: complaints are re-lodged across the sector, each accurate and none provable, until both channels are taken again by two recorders, unreconciled.
 
 ## Appearance
-**Primary Form:** An ethereal voice divided into two tones, one whispering and one burning with anger.
+**Primary Form:** No body. What is present is a voice in two tones at once — one a whisper pitched low enough to be felt in the teeth rather than heard, one a burn with anger still in it — and the two never separate into words that can be written down. Cold smoke stands at chest height where it speaks, and grey ash settles out of that smoke onto whatever is underneath. The smell is char and old apologies. Anything that stays through a full exchange comes away with a damp handprint on the skin that will not dry.
 
-**Notable Features:** Two tones, counted at fixed hours; several bearings and no resolvable source; and a reliable increase under contradiction that this facility is forbidden to induce.
+**Notable Features:** Two tones, counted at fixed hours. Several bearings and no resolvable source. And a reliable increase under contradiction that this facility is forbidden to induce.
 
 **Identification Profile**
 
@@ -134,16 +136,16 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Both tones are heard out without either being preferred, and the overlap eases. | Decrease |
-| **Pugnahan** | Contradiction. The burning tone takes the room. Not used, and not tested. | Increase |
-| **Viderehan** | Holds it steady long enough for the tone count and the bearing grid. | Stable |
-| **Ferrehan** | The long listen to two accounts that do not agree, with no attempt to make them. | Decrease |
+| **Flerehan** | Both tones are heard out without either being preferred, and the overlap eases. | Decrease · High |
+| **Pugnahan** | Contradiction. The burning tone takes the room. Not used, and not tested. | Increase · Low |
+| **Viderehan** | Holds it steady long enough for the tone count and the bearing grid. | Stable · Common |
+| **Ferrehan** | The long listen to two accounts that do not agree, with no attempt to make them. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-The gauge moves here and tells you very little. The figure the watch keeps is the tone count — how many observations in a hundred, taken at fixed hours, carry the burning tone instead of the whisper: 38, then 52, then 61 across three years. For two decades the Watch Record refused to call that a trend, rightly, since the sampling was uneven; the sampling was regularised in Year 4235, and the refusal no longer stands.
+The gauge moves here and tells you very little. The figure the watch keeps is the tone count — how many observations in a hundred, taken at fixed hours, carry the burning tone instead of the whisper: 38, then 52, then 61 across three years. For two decades the Watch Record refused to call that a trend, rightly, since the sampling was uneven. The sampling was regularised in Year 4235, and the refusal no longer stands.
 
 **Reading the response:** A good cycle leaves two sheets that disagree and nobody in the room who tried to fix that. The failure mode is not panic; it is a recorder who, at the desk afterwards, quietly makes the sheets match.
 ## Containment Event Behavior
@@ -161,7 +163,7 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. Double Mouth alters what is around it at Zone D, Mantle Commons and stays inside it; everyone in hearing becomes certain of something they cannot support, and says it.
+- **Event type (non-breach):** Transformation in place. Double Mouth alters what is around it at Zone D, Mantle Commons and stays inside it. Everyone in hearing becomes certain of something they cannot support, and says it.
 - **Containment priority:** Rotate previously exposed personnel out of the sector. No suppression and no contradiction: the one reliable way to make this holding worse is to tell it that it is wrong.
 - **Sorrow Gauge on event:** Starts at 40% and climbs 10% for every half-phrase a listener finishes on the holding's behalf. Nobody catches themselves doing it, and every one of them reports the completed sentence later as a thought of their own.
 
@@ -188,7 +190,7 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 **Ability:** The fang's damage is Grudge, booked against the Body on the armoury's own figures, which the sheet defines as physical form and structural integrity, with Double Mouth's grudge signature carried into the strike rather than any force the wielder brings to it. Those figures are transcribed and not observed. This holding has never produced a physical injury and the Threat Assessment's line that it makes no physical attacks is accurate, so what the fang does in a fight is a number on a sheet and nothing anybody has witnessed. Instead of that it does the second tone's work: a wielder carrying it into a room where two accounts disagree reports the disagreement arriving already answered, from the wrong side, and the answer is not giving dates.
 
-**Cost:** The wielder's old wounds ache; each of them registers again in a room where nothing has touched them, and long use leaves faint bruising sitting exactly where those old injuries sit. The toll is dated and baselined before the piece goes out on the sheet and entered hour by hour while it is out, and a rhythm across the shift ends the use: one entry is a note, a pattern is a stand-down. The fang has been drawn here twice, both times at the hands of workers under instruction to leave it racked, and both entries stand in the field record with the hour written against them.
+**Bearer cost:** The wielder's old wounds ache. Each of them registers again in a room where nothing has touched them, and long use leaves faint bruising sitting exactly where those old injuries sit. The toll is dated and baselined before the piece goes out on the sheet and entered hour by hour while it is out, and a rhythm across the shift ends the use: one entry is a note, a pattern is a stand-down. The fang has been drawn here twice, both times at the hands of workers under instruction to leave it racked, and both entries stand in the field record with the hour written against them.
 
 ### M.A.W. Suit — The Twofold Plate
 
@@ -206,7 +208,7 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 **Ability:** The plate resists Grudge damage, and the thing it protects is the Body in the sheet's sense of that word, form and integrity alike, worn against Double Mouth's kind of pressure rather than against any impact. In practice the plate does what the long listen does: it lets the wearer stay where two accounts do not agree and come out of the shift less damaged by it. Agreement between those two accounts is not something the plate produces, and nobody has ever issued it on that basis. The resistances on the sheet belong to the wing, while the piece's own disposition is the dulling on the next line, and that is the reason the rating covers what the kit does to a holding and nothing else.
 
-**Cost:** The wearer's reflexes dull, plated over the way a held grudge plates them, and that dullness is how every stand-down on this set has been caught. It is not pain, and nobody wearing the plate notices it arriving. At the limit the bearer stops registering the toll altogether and only the slowness shows, so the piece is taken back and a second worker judges it, not the bearer: is the dullness still in their hands, and do they still catch a dropped thing. The bearer cannot answer for themselves on this. The collar going cold where the plate rests is the one sign wearers report without being asked.
+**Bearer cost:** The wearer's reflexes dull, plated over the way a held grudge plates them, and that dullness is how every stand-down on this set has been caught. It is not pain, and nobody wearing the plate notices it arriving. At the limit the bearer stops registering the toll altogether and only the slowness shows, so the piece is taken back and a second worker judges it, not the bearer: is the dullness still in their hands, and do they still catch a dropped thing. The bearer cannot answer for themselves on this. The collar going cold where the plate rests is the one sign wearers report without being asked.
 
 ### M.A.W. Stigma — The Twofold Voice
 
@@ -220,24 +222,24 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 **Ability:** Separates truth from emotional distortion in a spoken account.
 
-**Cost:** The wearer hears contradictions in every conversation.
+**Bearer cost:** The wearer hears contradictions in every conversation.
 
 *Seven charms exist and two are worn. The acquisition note records that the holding does not consider the charm a reward and has said so in writing twice.*
 
 ### M.A.W. Use Notes
 
-Every piece in the set was cut from the Commons holding itself and carries its disposition: the bearer's old injuries ache, and long wear leaves faint bruises exactly where those injuries sit. How cleanly the fragment came away is the grade; the price is in the next column, and it is the reason the set leaves the rack one rotation at a time.
+Every piece in the set was cut from the Commons holding itself and carries its disposition: the bearer's old injuries ache, and long wear leaves faint bruises exactly where those injuries sit. How cleanly the fragment came away is the grade. The price is in the next column, and it is the reason the set leaves the rack one rotation at a time.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline written against the recorded toll — every old wound on the bearer registering again. |
-| **During use** | Each occurrence is entered with its hour — old wounds aching in a room where nothing has touched them. One is a note; a rhythm across the shift ends the use. |
-| **At limit** | The bearer stops registering the toll, and what shows instead is slowness: reflexes plated over the way a held grudge plates them. That sign is how every stand-down on this set has been caught. |
-| **After use** | Take the piece back and let the second worker judge, not the bearer: is the dullness still in their hands, and do they still catch a dropped thing? The bearer cannot answer for themselves on this. |
+| **Before use** | Wielder, piece, and a dated baseline held by a second worker: old-wound map for the Fang, catch-and-response check for the Plate, and ordinary conversation for the Voice. |
+| **During use** | Each occurrence is entered with its hour: old wounds aching where nothing touched them, the collar going cold and the hands slowing, or two sides heard in a conversation that had one. One is a note; a rhythm across the shift ends the use. |
+| **At limit** | The bearer stops registering the toll, and what shows instead is slowness — or, on the Voice, the bearer asking that it not be reissued. That sign is how every stand-down on this set has been caught. |
+| **After use** | Take the piece back and let the second worker judge, not the bearer: is the dullness still in their hands, do they still catch a dropped thing, and has ordinary speech gone back to one side? The bearer cannot answer for themselves on this. |
 
-**Stat interpretation:** The rating covers what the kit does to a holding, and nothing else. What it does to its bearer stands on a separate line and is routinely the heavier figure; a low-rated piece can carry a severe personal cost.
+**Stat interpretation:** The rating covers what the kit does to a holding, and nothing else. What it does to its bearer stands on a separate line and is routinely the heavier figure. A low-rated piece can carry a severe personal cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -246,7 +248,7 @@ Every piece in the set was cut from the Commons holding itself and carries its d
 - The burning share has risen every year since the sampling was regularised: 38, 52, 61 in a hundred.
 - Recorders who hear both channels report weight; recorders who hear one report nothing unusual, which is why the two-channel method was adopted.
 
-**Personnel Note:** *"Sixty-one in a hundred this year. I asked the Complaints Office how many allegations they close unsubstantiated and they told me the number — eleven thousand — and then I asked how many of those were about someone who had been complained of before, and the clerk said that is exactly the question we are built not to answer. She was not being obstructive. She was explaining the rule, and the rule is right, and I went back and counted tones."* — Recorder, Mantle Commons
+**Personnel Note:** *"Sixty-one in a hundred this year. I asked the Complaints Office how many allegations they close unsubstantiated and they told me the number — eleven thousand — and then I asked how many of those were about someone who had been complained of before. And the clerk said that is exactly the question we are built not to answer. She was not being obstructive. She was explaining the rule, and the rule is right, and I went back and counted tones."* — Recorder, Mantle Commons
 
 
 
@@ -272,14 +274,14 @@ Burning tone on 61 observations in 100 against 52 and 38 in the two preceding ye
 Carried forward from the tone count. Sampling regularised in Year 4235; three full years now stand on the same basis and the series is comparable with the gallery holding's by design.
 
 **Entry 3 — <Excerpt from Complaints Office Correspondence>**
-The office confirms that it holds no record of any allegation closed unsubstantiated, that this is the rule and not an oversight, and that it therefore cannot answer the question this holding has now asked four times: whether any subject of a closed complaint has been the subject of another.
+The office confirms that it holds no record of any allegation closed unsubstantiated, that this is the rule and not an oversight. And that it therefore cannot answer the question this holding has now asked four times: whether any subject of a closed complaint has been the subject of another.
 Filed by the holding rather than a counselor. Recommendation, fourth quarter running: recorders should be told at briefing that no pattern of complaints can be shown to exist about anybody, because the ones who work it out alone take it badly, and two have resigned over it.
 
 **Entry 4 — <Containment Notice>**
-Management: both channels recorded separately, filed unreconciled, reconciled only at the desk. No contradiction offered in any form. Work response — Flerehan: both tones heard out, neither preferred (Decrease); Pugnahan: contradiction, the burning tone takes the room, not used (Increase); Viderehan: steady enough to count and take bearings (Stable); Ferrehan: the long listen to an account that does not agree with itself (Decrease).
+Management: both channels recorded separately, filed unreconciled, reconciled only at the desk. No contradiction offered in any form. Work response — Flerehan: both tones heard out, neither preferred (Decrease). Pugnahan: contradiction, the burning tone takes the room, not used (Increase). Viderehan: steady enough to count and take bearings (Stable). Ferrehan: the long listen to an account that does not agree with itself (Decrease).
 
 **Entry 5 — <Archive Note>**
-This Company destroys an allegation it cannot substantiate. Every copy, the complaint, the statements, the investigator's notes; nothing is retained, nothing is noted on the subject's file, and no officer may be told that an enquiry ever took place. The rule is sixty years old and it was written over a rigger named in an unproven accusation that was left on his file 'for information'. He was never charged and never cleared, because there was nothing to clear. He was passed over for nineteen years, moved to the postings nobody wanted, and died in one of them at fifty-one. The rule that followed him is the right rule. I have read the arguments against it and they are worse.
+This Company destroys an allegation it cannot substantiate. Every copy, the complaint, the statements, the investigator's notes. Nothing is retained, nothing is noted on the subject's file, and no officer may be told that an enquiry ever took place. The rule is sixty years old and it was written over a rigger named in an unproven accusation that was left on his file 'for information'. He was never charged and never cleared, because there was nothing to clear. He was passed over for nineteen years, moved to the postings nobody wanted, and died in one of them at fifty-one. The rule that followed him is the right rule. I have read the arguments against it and they are worse.
 
 What the rule also destroys is the second complaint's inheritance. Each allegation arrives alone, is weighed alone, and dies alone, and the office that weighs it is prohibited — correctly — from knowing that it is the fourth of its kind about the same person. A complainant who asks whether anyone else has said this is told, truthfully, that there is no record. There is no record because we made sure there would not be one. The witness is not disbelieved. She is simply, permanently, the only one.
 
@@ -291,7 +293,7 @@ That is what is in the Commons air at Mantle, saying two things at once in a voi
 
 | Hold to the condition: both channels recorded, filed unreconciled, and no convenient version chosen anywhere in the entry — the desk does the reconciling, never the room. | Do the obvious, decent thing instead, as the record shows people doing: make the two sheets agree in the room, pick the version that makes sense, or say the sentence it is waiting for. |
 |---|---|
-| Both tones are taken down as spoken, the sheets go to the desk still disagreeing, and the watch closes with the holding entered whole and the room quiet. | The two channels are forced into one account, and the room fills with the burning tone; the gauge climbs and the holding goes silent behind whatever was written down in a hurry. |
+| Both tones are taken down as spoken, the sheets go to the desk still disagreeing, and the watch closes with the holding entered whole and the room quiet. | The two channels are forced into one account, and the room fills with the burning tone. The gauge climbs and the holding goes silent behind whatever was written down in a hurry. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -302,11 +304,11 @@ A whisper enters from the left, giving evidence in order, dates and all. Somethi
 
 **At first contact:** You hear it before anything else and from the wrong side — left, then right, then both, with no source anywhere on the grid. The whisper is giving dates. The other one is not giving dates. Your partner is writing a sheet you will not be allowed to read until the desk.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Grudge that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** The count does the changing, not the voices: 38, then 52, then 61 burning tones in a hundred at fixed hours. Recorders who hear both channels report weight; recorders who hear one report nothing unusual, which is why there are always two.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Grudge that was merely present becomes active, directed, purposeful — the Subject-Spirit was holding back, and now it isn't.
+**When the entity activates:** Convergence — both tones on the same words. Record the words, the hour, and who was in the room, and end the session. In event the Commons fills with people saying things they cannot support, accurately.
 
-**After departure:** The containment boundary holds the Subject-Spirit, but not the memory. Grudge residue settles into the bones like Han into the city's foundations.
+**After departure:** Both sheets go to the desk still disagreeing, with a separate note from each recorder of anything they became certain of. The certainties are kept. They are not compared in front of the recorders.
 
 ### Interaction Pattern
 
@@ -322,16 +324,16 @@ This file is read beside the other testimony holdings and kept apart from them. 
 | Holding within earshot | How the encounter has run | What the Commons watch recorded | What the entry must state |
 |---|---|---|---|
 | **The Broken Whisper** | An account that was never finished, beside an account that was finished and could not be used. Adjacent, not alike. | Four proximities. No transfer and no completion: the Broken Whisper did not take up this holding's dates, and the burning share stayed at 59–62 throughout. | Tone counts at five-minute intervals on both holdings, bearings, both channel sheets. |
-| **The Whispering Gallery** | The Gallery carries whatever is put into it, including both tones at once, which is the only recorded way to hear them without a second recorder. | Two proximities. Amplification as expected, no change in the share, and the Gallery was carrying both tones faithfully within forty seconds. The grid method used here was borrowed from that holding and the borrowing is credited. | Tone counts, gallery transcript, verification that no new content entered either file. |
+| **The Whispering Gallery** | The Gallery carries whatever is put into it, including both tones at once, which is the only recorded way to hear them without a second recorder. | Two proximities. The Gallery amplified both tones by its usual margin, the burning share did not move from 59–62, and both tones were being carried faithfully within forty seconds. The grid method used here was borrowed from that holding and the borrowing is credited. | Tone counts, gallery transcript, verification that no new content entered either file. |
 | **The Iron Judge** | The Judge requires evidence. This holding's evidence was destroyed lawfully and cannot be produced, which makes the pairing the wing's clearest illustration and its most dangerous. | One proximity, discontinued at eleven minutes. The Judge's demand functions as contradiction; the burning share went to 94 in the hour following and took nine days to return. Not repeated. | Tone counts at one-minute intervals, two recorders, and nine days of follow-up counts. |
 
 **Interaction procedure:** Four clean weeks of fixed-hour counts before a trial and four after, or the result is void. One trial has been voided on that ground and one — the Iron Judge — produced a result the wing has recorded and will not repeat.
 
 ## 이야기 (Narratio) — The Tale
 
-She saw it, she said so in the proper place, it could not be proved, and the papers were destroyed — correctly, on a rule written to protect people exactly like the man she was complaining about.
+There was a woman who saw it, and she said so in the proper place, and it could not be proved, and the papers were destroyed — correctly, on a rule written to protect people exactly like the man she was complaining about.
 
-The rule is sixty years old and this file will not be read as an argument against it. An unproven accusation was once left on a rigger's record 'for information'. He was never charged, so he could never be cleared; he was passed over for nineteen years, worked the postings nobody else would take, and died in one of them at fifty-one. Since then an allegation closed unsubstantiated is destroyed entire — complaint, statements, notes, every copy — and no mark of it is left on any file.
+The rule is sixty years old and this file will not be read as an argument against it. An unproven accusation was once left on a rigger's record 'for information'. He was never charged, so he could never be cleared. He was passed over for nineteen years, worked the postings nobody else would take, and died in one of them at fifty-one. Since then an allegation closed unsubstantiated is destroyed entire — complaint, statements, notes, every copy — and no mark of it is left on any file.
 
 Nothing was lost. That is the part the Commons has always got wrong about her. Her complaint was received, investigated by someone competent, and closed because it could not be substantiated, and then it was destroyed because the rule required destruction. When she came back and was told there was no record, she was told the truth. When she asked whether anyone else had ever said the same thing about the same man, the office could not answer, and could not have answered, because answering is the one thing the rule exists to prevent.
 
@@ -369,15 +371,15 @@ Those who hear both channels feel the specific vertigo of a system working as de
 **Observation Notes:**
 - Formed from a complaint properly investigated, closed unsubstantiated, and destroyed under the retention rule.
 - Burning-tone share: 38, 52 and 61 in a hundred across three years of regularised sampling.
-**Cross-References:** Mantle Commons · The Complaints Office · The Broken Whisper · The Whispering Gallery · The Iron Judge
+**Cross-References:** Mantle Commons · The Complaints Office · The [Broken Whisper](SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md) · [The Whispering Gallery](SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md) · The Iron Judge
 **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · the Complaints Office, standing correspondent to this file and the recipient of four enquiries it has never been able to answer
 **Originator:** Unnamed citizen of Zone D; testimony filed and erased by the system.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file carries the holding on its own. The classification, the Work Type responses and the containment-event terms are one picture and are acted on together, with the behaviour, the activation term, the kit risk and the interaction table read alongside them. Where observation contradicts what is written here, the file is what is wrong: the discrepancy is preserved and reported, and the record is allowed to grow around it rather than shrink to fit.
+**Operational interpretation:** No single section of this file carries the holding on its own. The classification, the Work Type responses and the containment-event terms are one picture and are acted on together, with the behaviour, the activation term, the kit risk and the interaction table read alongside them. The behaviour, the activation term, the kit risk and the interaction table are re-read together whenever one of them moves, and the file is allowed to grow rather than made to fit.
 
-**Review requirement:** After any transformation in place, Sorrow Tide, Ordeal or interaction event, confirm the gauge reading, the Fracture risk and the integrity of containment before the next cycle, and re-check exposure and position after anything that does not read like the events on file. What this sheet describes is a living pattern of sorrow; it does not close.
+**Review requirement:** After any transformation in place or convergence: the tone count and its three-year basis, both unreconciled sheets, each recorder's certainty note, and rotation of anyone the holding has already heard. Confirm no reconciliation was attempted in the room; the desk copy is the only tidy record this file allows.
 ## Watch Record
 
 ### Two Tones
@@ -394,7 +396,7 @@ Contradiction increases it, reliably, and this is the one behaviour personnel ar
 
 ### What the Tone Count Is Counting
 
-The burning share has been taken at fixed hours since Year 4235, which is the first year this holding's sampling can bear a trend: 38 in a hundred, then 52, then 61. The Watch Record's earlier refusal to draw a slope across two decades of uneven sampling was correct and is left standing above; it is no longer an obstacle.
+The burning share has been taken at fixed hours since Year 4235, which is the first year this holding's sampling can bear a trend: 38 in a hundred, then 52, then 61. The Watch Record's earlier refusal to draw a slope across two decades of uneven sampling was correct and is left standing above. It is no longer an obstacle.
 
 The share follows the count, each quarter, of allegations closed unsubstantiated against somebody who had already carried a closed allegation. Nobody holds that quantity. It was put together once, covering three years, by two commissioners working from destruction warrants that carry a quarter and a department and no names at all — and the reconstruction was destroyed as soon as it was finished. Tide windows, footfall in the Commons, session counts, recorder identity and the holding's own gauge were each set against the series and each lost.
 
@@ -408,11 +410,11 @@ The first year took 11,000 closures. 1,870 subjects carried one mark; 214 carrie
 
 Two audits leaked anyway, as the Advocacy Office said they would. In one of them a supervisor was cleared on every count examined and left the service within the quarter, because his mark count had been read aloud in a corridor and a number cannot be un-heard. The Office's objection is recorded in the scheme's first volume and is correct: a mark records nothing, and a thing that records nothing cannot be disproved by the person it is kept against. It has not been answered.
 
-The commissioner who signed the scheme has written her own note beneath it. It says that twelve patterns were found, that four people were audited who should not have been, that one man who did nothing is gone, and that the rigger who died at fifty-one is the reason the destruction rule exists and is not available to be weighed against any of them.
+The commissioner who signed the scheme has written her own note beneath it. It says that twelve patterns were found, that four people were audited who should not have been, that one man who did nothing is gone. And that the rigger who died at fifty-one is the reason the destruction rule exists and is not available to be weighed against any of them.
 
 ### A Witness Who Was Dismissed
 
-Someone reported an injustice and was not believed, and the memory tore in two; the commissioning folder holds the original complaint and the answer it drew. The answer is courteous and final. The two documents are short and printed facing each other, and the note filed between them observes that the folder cannot establish whether the complaint was true — and that the entity exists either way.
+Someone reported an injustice and was not believed, and the memory tore in two. The commissioning folder holds the original complaint and the answer it drew. The answer is courteous and final. The two documents are short and printed facing each other, and the note filed between them observes that the folder cannot establish whether the complaint was true — and that the entity exists either way.
 
 ## Trivia
 
@@ -427,7 +429,7 @@ Someone reported an injustice and was not believed, and the memory tore in two; 
 - **Field detail:** Grudge is its element and Mantle Commons in Zone D is its registered ground — two channels, one desk, and a tone count read at fixed hours.
 - **Recognition detail:** Identify it by the two tones and the bearing spread. Do not identify it by content: both voices say true things and the truth of what they say has never been establishable.
 - **Record detail:** Two channels, recorded separately, reconciled at the Commons desk and not in the room. A reconciliation performed in the entity's hearing has escalated it on every occasion it has been attempted, which is three.
-- **Containment detail:** Containment is not silence. Even with no event on the board, the sorrow bleeds through walls, through the Veil and through personnel in the adjacent cells, so the watch treats the holding as inactive on paper only — a fixed thing may still activate, expand, resonate, or alter the people posted near it.
+- **Containment detail:** The two channels are the containment: separate recorders, separate sheets, reconciliation only at the Commons desk, and rotation of anyone it has heard before. Nothing here is silenced, and nothing is contradicted.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-716

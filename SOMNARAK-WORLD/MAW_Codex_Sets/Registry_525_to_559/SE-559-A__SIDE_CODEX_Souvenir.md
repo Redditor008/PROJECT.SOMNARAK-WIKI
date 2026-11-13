@@ -22,7 +22,7 @@ Souvenir walks the Mask Market as a weeping figure assembled from stone, dust, s
 | Coherence / Potency | III / γ |
 | Element | Lament |
 | Location | Zone C, Mask Market |
-| Gauge / Pressure | 653/653; starts 45–65% / 18–41 Lament |
+| Gauge / Pressure | 000/653; starts 000% / 18–41 Lament |
 | Movement / Resistance | 1.95 m/s / 35% Lament, 25% other |
 | Breach threshold | Gauge ≥75%; dust-field ultimate begins at 65% |
 | Observation | 2 — Basic |
@@ -65,13 +65,3 @@ The first stable set appeared after Former Resident Nari Baram described the set
 At the Mask-Market False Shelter, Requiem projected a remembered doorway and Shroud kept the evacuation team coherent. A auxiliary extended the outline into an unremembered stair so more people could enter. The false stair became stone, failed, and took the auxiliary’s left hand. Nari ended the cascade by saying, “That stair was never ours.” The set has since required a survivor’s right to correct the reconstruction.
 
 > *“A fragment can testify. The moment it pretends to be the whole home, it becomes the collapse again.”* — Chronicler Minseo
-
----
-
-**Document ID:** `SE-559-A`  
-**Linked Entity:** `SE-559`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

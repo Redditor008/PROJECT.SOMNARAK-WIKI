@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Miasma's Veil
 
-> *“Miasma's Veil remembers Miasma; the bearer must not mistake memory for permission.”*
+> *"The wearer cannot tell a strange grief from the one they came in with, and starts asking the cape which is which."*
 
 ---
 
@@ -16,42 +16,39 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Lament  
-**Canonical ability:** Grants resistance to Lament damage, protecting against the lament register of sorrow.   <!-- SE-1043 -->
-**Binding rule:** the bearer names Miasma's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Own Face* — the wearer walks a weeping corridor and comes out with their own grief and their own face. The bank's Lament runs off the short cape into the door gap the cape was cut short to keep clear, which is the whole of the design.
+**Binding rule:** the bearer names Miasma's event — an event the registry has not set down — and accepts this limit: The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.
+
+### Appearance
+
+A veil and long coat in the grey-green of weathered white-oak bark, cut wide enough to wrap twice and close at the shoulder. A four-toothed bronze keyhead fastens it at the collar, and the cloth keeps the smell of rain on old wood.
 
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 2 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries Miasma's grief into every quiet moment; small joys feel distant until the suit is removed. Continued use makes Miasma's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The wearer cannot tell a strange grief from the one they came in with, and starts asking the cape which is which. Continued use leaves the wearer weeping on the shift after the bank has gone.
 
 ## ITEM-SPECIFIC HISTORY — *The Miasma Source-Trace: Suit Record*
 
-The first Miasma's Veil field bearer encountered this source response: Recognizes patience; the lament pressure settles gradually under sustained presence. The suit redirects the immediate hazard only after the team attributed it to Miasma. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Miasma's Veil field bearer encountered this source response: Stay the full shift without shortening it; the pressure settles around a party that keeps to the marked pace. The suit redirects the immediate hazard only after the team attributed it to Miasma. A wearer could not tell a strange grief from the one they had come in with and started asking the cape which was which, and the Veil’s binding is that exchange.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Miasma's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cape is asked before the wearer has a grief of their own to compare it to.
 - Terminal state: Miasma's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1043 -->
+**Failure mode:** violating “The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Miasma's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Miasma's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Miasma — Witnessed Form*, Miasma's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1043-C`  
-**Linked Entity:** `SE-1043`  
-**Item Registry Code:** `MAW-S-1043-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Miasma — Witnessed Form*, Miasma's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can name one grief as theirs without asking; the first they cannot, the Veil is out.

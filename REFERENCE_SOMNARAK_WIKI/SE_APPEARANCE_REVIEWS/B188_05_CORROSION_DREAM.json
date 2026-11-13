@@ -1,0 +1,140 @@
+{
+  "designation": "O-IIIγ-915",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md",
+  "words": 7611,
+  "sha256": "82031b638890dec05ea2e0aeee96c77334a8505638616e7bc80027aece3dd98a",
+  "unit": 5,
+  "name": "Corrosion Dream",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_05_CORROSION_DREAM.md",
+  "before_words": 7611,
+  "after_words": 7724,
+  "base": "e3ea6fa8ba91e606f34bed67d1eb8c4c2049657b",
+  "final_sha256": "05584f4883c050c946291b4974f52a4dbc64e9a2705f726f45b6fed263a1af2e",
+  "summary": "Five supported repairs (4 short / 1 careful) stop anything falling on anyone. Rows 3–5 drop the dropping rust sheet, the struck-bridge dissolution and the district-wide collapse: the first target is now the plan chest, escalation stops on a signature, and the Ultimate reads the works ledger — nine proposed, two built, six refunded. The template breach line, a generic Material row and two stock Flavor blocks give way to the works yard, plate-to-water quarters, and 'Sign something.' HELD; +0/+0/+0.",
+  "commentary": "The community asked for one thing — that the money be recorded as having been raised — and nobody granted it at the time. The published ledger of attempted repairs, three of the last five failed, is the nearest thing to granting it that exists.",
+  "reasoning": "R-33 chain: Subject / Fragment-III / Major-γ / Outside Sorrow → a rebuilding funded in full, correctly refused on failing ground, and refunded after seven years → a wandering figure of bridge plate and dark water, sung only to those who crossed a boundary that broke behind them, read in quarters → work is naming both the crossing and the loss and promising nothing; Ferrehan admits distance rather than closing it; Pugnahan turns plates to edges → failure is a rising water fraction tracking the district's refunds, and breach is a walk to the plan chest that ends on a signature. Rows may not drop anything on a person or fail every span at once; forks stay HELD.",
+  "history": "Batch 121 unit 3 (60c471c) performed the review — restoring the missing pattern rows (Skewer, coverage, 100→70→50), adding the Span and Charm paragraphs with communal cost and lost words, Use Notes with the no-reunion-promise limit and named-witness shutdown — and newly dispositioned SE-915-B/MAW-W-915-01, explicitly distinct from Endless Shift's same-suffix set (B105 control). Both are in the baseline: Batch 188 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "Weapon identity fork stays: primary/Registry *The Corrosion Cutlass* versus item file *The Rusted Lens*; archetype Short band versus local Medium range; Registry disposes no numbers (Variable / - / -). The Tool / M.A.W. grade row still reads '— · —' against three γ pieces — left, as no record read here authoritatively fills it.",
+    "Stigma slot fork: primary/item Head / 4% / +2 versus Registry row 1022 Accessory / 5%; the generic '+2 stat bonus' phrasing Batch 121 preserved stands.",
+    "The water-fraction/refund correlation is the file's own ledger reading — two co-presences only for the Dream Weaver result, which the file itself trusts least. Held as stated, with the objection that the annual repair is deliberate waste unwithdrawn beside it."
+  ],
+  "split": [
+    4,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "combat_rows_3_5",
+      "kind": "careful",
+      "careful": true,
+      "old": "| { *The Falling Flake* [**Attack**] } | \"A sheet of rust breaks from the bridge — heavy, oxidized, sharp — and falls.\" | [A massive rust-flake drops onto the target.] | *Inflicts Void damage; the corrosion carries void-weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bridge is shaken. |\n| { *The Full Corrosion* [**Attack**] } | \"Everything the span was built on goes to powder at once, and the crossing stops existing in the middle of being used.\" | [The whole structure oxidises in a single movement.] | *A heavy Void dissolution; the target's Sorrow Gauge surges 15%, and the ledger of what they meant to build goes with it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Bridge is struck. |\n| { *The Rusted Field* [**Ultimate**] } | \"Every crossing in the district goes at once, and every side is left with what it could not get to.\" | [The corrosion extends to every span in range, as the district's own works do when the money is returned.] | *All in range suffer Void erosion for three turns with no way across to anybody.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Falling Flake* [**Attack**] } | \"Nothing falls on anybody. Four breach events, four arrivals at the same works yard, and nothing has ever collapsed under anyone.\" | [The first target is the plan chest: drawings oxidise at the folds and the figures become unreadable before the drawing does.] | *Void damage lands on the estimates, not the estimators; personnel lose the recollection of one thing they meant to do and never did, and generally do not notice.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the figure stands over the drawings unaddressed. |\n| { *The Full Corrosion* [**Attack**] } | \"It does not need to be struck. The fraction rises by a fifth each turn, and stops the turn a works order is signed in the room.\" | [Four events ended on a signature, not on suppression; the one removal of the drawings on record took the figure to the records office instead, which is worse.] | *A heavy Void settling; the gauge falls for each repair actually attempted and recorded as failed, with costs — a failure on paper has never once raised it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When nobody in the room will sign anything. |\n| { *The Rusted Field* [**Ultimate**] } | \"Nine proposed, two built, one abandoned, six refunded — and the fraction followed each return inside the fortnight.\" | [No span fails anywhere. What goes is the district's willingness to begin, measured in quarters of plate to standing water by the same coarse series every week.] | *Void erosion across everybody whose plan is still in the drawer, looking like a plan; the annual attempted repair, failures published, has kept it at or below a half.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | In a year of refunds. |"
+    },
+    {
+      "id": "consequence_template_line",
+      "kind": "short",
+      "careful": false,
+      "old": "- A cycle that fails to resolve fires the breach protocol: the gauge runs to its ceiling, the fail-safes give, and the sorrow comes out through the corridors.",
+      "new": "- A cycle that fails to resolve does not come out through any corridors: it walks, slowly, to wherever the district's unbuilt works are drawn or stored, and stands over the plan chest until somebody signs something."
+    },
+    {
+      "id": "material_signature_row",
+      "kind": "short",
+      "careful": false,
+      "old": "| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |",
+      "new": "| **Material / signature** | Void. Rusted bridge plate and dark standing water in the proportions that are the holding's only instrument; ash and wet iron on the air; a song with one permanently missing note, heard only by people who have crossed a boundary that broke behind them. |"
+    },
+    {
+      "id": "flavor_first_contact",
+      "kind": "short",
+      "careful": false,
+      "old": "**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Dream resolve into something you can name. A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary.",
+      "new": "**At first contact:** It is never in the same bay twice running, and you may not hear it at all: the song reaches only people who have crossed a boundary that broke behind them. Estimate the plate-to-water fraction in quarters before anything else, and notice whether the hands are raised."
+    },
+    {
+      "id": "flavor_activates",
+      "kind": "short",
+      "careful": false,
+      "old": "**When the entity activates:** the reason the containment protocols exist becomes plain. What had only been present turns directed and purposeful — the Subject-Dream had been keeping something in reserve, and now it is spent.",
+      "new": "**When the entity activates:** It is in the works yard, standing over the drawings. Do not seal the yard and do not remove the plans. Sign something."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.020  clean   101 grams  Operational Parameters\n 0.020  clean   152 grams  Breach Behavior\n 0.010  clean   289 grams  Trivia\n 0.009  clean   455 grams  기록 (Registrum)\n 0.008  clean   724 grams  Combat Record\n 0.008  clean   907 grams  M.A.W. Equipment\n 0.008  clean   262 grams  Appearance\n 0.003  clean   780 grams  감각 묘사 (Flavor Text)\n 0.000  clean   455 grams  이야기 보고 (Story Log)\n 0.000  clean   376 grams  관찰 기록 (Observation Log)\n 0.000  clean   307 grams  이야기 (Narratio)\n 0.000  clean   286 grams  Warden Record\n 0.000  clean   192 grams  Origin\n 0.000  clean   178 grams  Behavior\n 0.000  clean   126 grams  최종 관찰 (Final Observation)\n 0.000  clean    41 grams  증언 (Testimonium)\n 0.000  clean    39 grams  SECC Classification\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   54   4  | **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the corrosion of the work\n   80   1  | { *The Corroded Span* [**Debuff**] } | \"The plates come away under the boot in flakes, and each flake is a piece of a plan that \n   81   1  | { *The Sagging Cable* [**Debuff**] } | \"The cables are down to threads and they sing in the wind, and the note they sing is the \n   84   1  | { *The Rusted Field* [**Ultimate**] } | \"Nine proposed, two built, one abandoned, six refunded — and the fraction followed each \n  121   2  | **Identification** | Verify against the SECC code before work or contact begins; the shape varies between appearances and the pl\n  165   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each works subscription or repair allocation in the district returned\n  241   6  | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline taken against this set's known toll — the names of pl\n  244   2  | **After use** | The piece is returned and a colleague is asked, not the wielder, whether the weight of the people who cannot fol\n  323   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  378   4  **Review requirement:** Re-take the standing measurements after any breach, Tide, Ordeal or joint session and before the next work\n  409   3  - **Record detail:** Check the designation before approach. The archive holds four bridge records and they are not interchangeable\nGENERIC 0.005  (31 shared shingles)  SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-A__SIDE_CODEX_Corrosion_Dream.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-B__MAW-W_The_Rusted_Lens.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-C__MAW-S_The_Rusted_Span.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-D__MAW-G_The_Rusted_Charm.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-A__SIDE_CODEX_Corrosion_Dream.md": "eb82e123762a622fcb277ea95f55fea12221e445b2ec0da28599d4c6be3374a0",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-B__MAW-W_The_Rusted_Lens.md": "4bbf4405d2f1007390d4077e279aba6abe75379d6f2a6ae9da690dcdac39a235",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-C__MAW-S_The_Rusted_Span.md": "810263f3d96e48ce5b39df296f0b0ba837eef883f63031f70e15cc5a92dc66bd",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-D__MAW-G_The_Rusted_Charm.md": "96951c6d2ff3bbdce113c3125be56a59c367111826e23d6a9cd2eb7ed0eaa1f6",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-915_Corrosion_Dream_%EB%85%B9%EC%8A%A8_%EB%8B%A4%EB%A6%AC.md \"SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md\")]",
+  "table_link": "[Corrosion Dream](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-915_Corrosion_Dream_%EB%85%B9%EC%8A%A8_%EB%8B%A4%EB%A6%AC.md \"SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md\")",
+  "reading": {
+    "before_lines": 416,
+    "before_bytes": 45417,
+    "final_lines": 416,
+    "final_bytes": 46022
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 80,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-063 [VS]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Debt Triplets containment
 
@@ -86,13 +86,3 @@ The Rejector’s freedom and isolation cannot be separated from its family histo
 
 ### Observation 4 — Pending
 Mastery requires a refusal that preserves connection rather than erasing it.
-
----
-
-**Document ID:** `SE-063-A`  
-**Related Entity:** `SE-063`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

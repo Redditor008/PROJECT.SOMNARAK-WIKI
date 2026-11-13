@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A young woman's figure of true flesh and bone, weeping without cease — skin pale and damp, hair plastered, dress soaked as though she has stood in the rain for years. She is warm, alive, and unbearably sad; tears track her cheeks, and the air smells of cold rain on old cloth. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Organic |
+| **Movement** | Mobile in breach on a route to her sisters, making no distinction between persons: she goes through whatever is in the way and toward nothing else. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | 3 |
+| **Work Damage** | 2–4 Lament — the cost is sixty years of weeping taken no notice of, and a worker who is not noticed either |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -78,17 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Sob* [**Debuff**] } | "She begins to weep — and the sound is so pure, so complete, that your own grief answers." | [The Maiden's mourning resonates with the target's buried sorrow.] | *Target suffers -10 Composure; their grief is stirred.* **[10 Lament DMG [Lament]]** | When the target hears the Maiden. |
+| { *The First Sob* [**Debuff**] } | "She begins to weep — and the sound is so pure. So complete, that your own grief answers." | [The Maiden's mourning resonates with the target's buried sorrow.] | *Target suffers -10 Composure; their grief is stirred.* **[10 Lament DMG [Lament]]** | When the target hears the Maiden. |
 | { *The Deepening Sorrow* [**Debuff**] } | "Her weeping grows — and with it, yours, until you cannot tell whose tears are whose." | [The Maiden's grief deepens; the target's and hers merge.] | *Target loses 10 Composure; the boundaries of grief dissolve.* **[10 Lament DMG [Lament]]** | When the target remains near. |
 | { *The Tear-Strike* [**Attack**] } | "One of her tears falls — and where it lands, the sorrow is concentrated into a wound." | [A grief-saturated tear strikes the target.] | *Inflicts Lament pressure and one wound of shared anguish.* **[14-22 Lament DMG [Lament]]** | When the Maiden is addressed. |
 | { *The Full Lament* [**Attack**] } | "She gives voice to her entire grief — a wail that carries centuries of mourning." | [Everything she has kept behind the weeping comes out in one note, and the room takes the weight of all of it.] | *The wail lands as weight rather than sound; the gauge jumps 15 at a stroke.* **[24-36 Lament DMG [Lament]]** | When the Maiden is cornered. |
-| { *The Universal Mourning* [**Ultimate**] } | "Now everyone is weeping — and no one can stop, and no one can remember why they started." | [The weeping escapes the boundary and takes the whole floor: every worker present is crying, and none of them can say for what.] | *The floor grieves for three turns, and no one can name the loss.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Universal Mourning* [**Ultimate**] } | "Now everyone is weeping — and no one can stop. And no one can remember why they started." | [The weeping escapes the boundary and takes the whole floor: every worker present is crying, and none of them can say for what.] | *The floor grieves for three turns, and no one can name the loss.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** Confirmation first, and the sump is checked before the door: a young woman crying without a pause, warm to stand near, hair and dress soaked to the hem, rain-on-old-cloth in the air, and a gauge outside reading anything but zero. Withdrawal is set before the approach is made, and no one is posted where she cannot see them.
 2. **Clash:** Nothing is struck. The crew works in counted pairs, answers the three-minute verbal check, and reads the sump figure before the chamber gauge, because the sump moves first.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share her grief and acknowledge the loss; never command her to stop**. That condition is satisfied when someone has taken a chair, let the weeping run its own length, named the loss in plain words, and left without asking her for quiet; a watch that ends in a request for quiet is logged as the loss having been carried further, not lifted.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share her grief and acknowledge the loss; never command her to stop**. That condition is satisfied when someone has taken a chair, let the weeping run its own length, named the loss in plain words. And left without asking her for quiet. A watch that ends in a request for quiet is logged as the loss having been carried further, not lifted.
 
 ### Consequences
 
@@ -98,7 +99,7 @@
 - An encounter left unresolved does not stop; it changes shape. She runs the breach pattern the dossier documents for her, and sorrow nobody pacified takes the violent way out of the room that the containment work was supposed to have given it.
 
 ## Appearance
-**Primary Form:** A young woman, warm and alive to every field test, hair plastered and dress soaked as though she has stood out in years of rain. **Assay:** the Research wing's term for the body is crystallized tear-matter, which is what it analyses as and not what it feels like; the header records the field presentation and both descriptions stand.
+**Primary Form:** A young woman, warm and alive to every field test, hair plastered and dress soaked, and the water in the cloth is drinkable and never dries. **Assay:** the Research wing's term for the body is crystallized tear-matter, which is what it analyses as and not what it feels like. The header records the field presentation and both descriptions stand.
 
 **Notable Features:**
 - She is held with the other two Sisters and the arrangement is not negotiable.
@@ -119,7 +120,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A woman's figure, soaked through, moving slowly and only toward her sisters' side of the corridor. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Grieving Maiden cycle against the previous reading. |
+| **Position / movement** | Mobile in breach on a route to her sisters, going through whatever is in the way. Recorded at every Grieving Maiden cycle against the previous reading. |
 | **Material / signature** | Lament. Warm damp skin, cold rain on old cloth, continuous low weeping, and standing water that has to be drained. |
 | **Distinctive markers** | Sister-distance, sump volume, and whether the story she is telling has reached the illness yet. |
 | **Identification** | Check the corridor. If the other two are not within sister-range, whatever you are looking at has already been moved and the ledger will show it by evening. |
@@ -137,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | She weeps with the worker, and the worker carries the weight of it out of the chamber afterwards — a transfer the counsellors measure and the roster respects. | Decrease |
-| **Pugnahan** (Confrontation) | She recoils and nothing moves. Prohibited: it is cruel and it is useless, in that order. | Stable |
-| **Viderehan** (Observation) | The illness, the weeks of it, the name, in the same words every time and told as if for the first time. Gauge holds. | Stable |
-| **Ferrehan** (Endurance) | She sits beside the worker and says nothing for the whole interval. Most Wardens find this the harder of the two. | Decrease |
+| **Flerehan** (Tears) | She weeps with the worker, and the worker carries the weight of it out of the chamber afterwards — a transfer the counsellors measure and the roster respects. | Decrease · High |
+| **Pugnahan** (Confrontation) | She recoils and nothing moves. Prohibited: it is cruel and it is useless, in that order. | Stable · Common |
+| **Viderehan** (Observation) | The illness, the weeks of it, the name, in the same words every time and told as if for the first time. Gauge holds. | Stable · Common |
+| **Ferrehan** (Endurance) | She sits beside the worker and says nothing for the whole interval. Most Wardens find this the harder of the two. | Decrease · Common |
 
 ### Group Behavior
 - Sister-range is maintained at all times and any order that would breach it needs three watch commanders' signatures.
@@ -150,19 +151,18 @@
 
 ### Operational Work Notes
 
-The table is one input among many, and on this file the code and the coherence level decide what a stable gauge is worth in the room. The Grieving Maiden is a Subject with a Subject-Body manifestation and Lament elemental expression, contained at SECTOR-D-02 with the Three Sisters. She weeps without pause, the rain on the air does not stop, and the sump outside the door is the instrument the wardens actually read; nothing here transfers to another grieving holding, and observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
+The table is one input among many, and on this file the code and the coherence level decide what a stable gauge is worth in the room. The Grieving Maiden is a Subject with a Subject-Body manifestation and Lament elemental expression, contained at SECTOR-D-02 with the Three Sisters. She weeps without pause, the rain on the air does not stop. And the sump outside the door is the instrument the wardens actually read. Nothing here transfers to another grieving holding. And observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
 
-**Reading the response:** A lower gauge is a window and not a door — the pressure returns unless the cycle is sustained, so what is achieved is stabilisation and not the end of the weeping. A rising gauge means the approach has asked her to stop, or has found the nerve of the origin; pull back and reassess before the work feeds the sorrow. Unusual responses precede events: log, flag, and adjust before the next assignment.
+**Reading the response:** A lower gauge is a window and not a door — the pressure returns unless the cycle is sustained, so what is achieved is stabilisation and not the end of the weeping. A rising gauge means the approach has asked her to stop, or has found the nerve of the origin. Pull back and reassess before the work feeds the sorrow. Unusual responses precede events: log, flag, and adjust before the next assignment.
 ## Breach Behavior
 
-> *"The Grieving Maiden has broken free. Hunts personnel indiscriminately."*
-
+> *"The Grieving Maiden has broken free and is walking for her sisters. Get out from between her and them; she has never gone for personnel directly, and that is the only reason to move."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | She breaks the chamber and moves through the facility toward her sisters. The archive's *indiscriminate* means she makes no distinction between persons, not that she is looking for any: she goes through what is in the way. |
 | **Effect** | The weeping fills the sealed sections and the will to keep working goes out of people who are nowhere near her. |
-| **Secondary Effect** | Sorrow settling in the chest as physical weight; responders describe stopping as a reasonable idea rather than a failure, which is the dangerous part. |
+| **Secondary Effect** | Sorrow settling in the chest as physical weight. Responders describe stopping as a reasonable idea rather than a failure, which is the dangerous part. |
 | **First Target** | Whoever stands between her and her sisters. She moves toward them, not toward personnel. |
 | **Escalation** | Composure drain rises by 5 each interval and the sump in her chamber runs over within the hour. |
 
@@ -195,7 +195,7 @@ The table is one input among many, and on this file the code and the coherence l
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels her signature in the strike: the target is left weeping for a loss they cannot name and cannot stop locating.
 
-**Cost:** The bearer takes on the grief she has not yet wept and weeps without being able to place why; prolonged use makes the weeping ordinary. Unlike hers, this charge does end — the file records it reversing on the return, which is the one asymmetry between the piece and the woman.
+**Bearer cost:** The bearer takes on the grief she has not yet wept and weeps without being able to place why. Prolonged use makes the weeping ordinary. Unlike hers, this charge does end — the file records it reversing on the return, which is the one asymmetry between the piece and the woman.
 
 **Requiem return check:** The individual Weapon records a bearer crying after a full strike until someone stays nearby without trying to stop it. Keep that account beside the primary’s return-of-piece reversal rather than treating either as a promise of immediate recovery. Record the bearer’s unexplained weeping separately from the loss named in the chamber. A cold blade or a display of sadness is not authority to demand another person’s grief. Carry it in the pale cloth the item specifies; no inspection requires drawing anything from the Maiden’s body.
 
@@ -203,7 +203,7 @@ The table is one input among many, and on this file the code and the coherence l
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a Lament Han-silk shroud, cool to the hand and faintly luminous, that draws in near the source element; inside the room's boundary the weave clings, and the bearer's first warning of how deep they have walked is the cloth.
+**Appearance:** a Lament Han-silk shroud, cool to the hand and faintly luminous, that draws in near the source element. Inside the room's boundary the weave clings, and the bearer's first warning of how deep they have walked is the cloth.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,9 +213,9 @@ The table is one input among many, and on this file the code and the coherence l
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — worn against this particular pressure: nothing here is aimed and nothing can be argued with, and what the piece buys is the ability to sit in the room without taking the weeping home.
+**Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — worn against this particular pressure: nothing here is aimed and nothing can be argued with. And what the piece buys is the ability to sit in the room without taking the weeping home.
 
-**Cost:** Minor joys go flat in the wearer, and the onset is not announced: the second worker checks at the return of the piece, because the bearer is the last to notice an absence.
+**Bearer cost:** Minor joys go flat in the wearer, and the onset is not announced: the second worker checks at the return of the piece, because the bearer is the last to notice an absence.
 
 **Shroud rest:** Air the Shroud after the vigil and note the darker hem patches described in its item record. Their fading follows the wearer’s quiet rest, not an instruction to stop grieving. The medic’s nineteen-day inability to laugh is a recorded case, not a recovery deadline for the next wearer. At return, the second worker checks the loss of minor joys even if the bearer calls relief disloyalty. Neither resistance nor a cloth inspection extends the timed rotation, changes sister-distance or makes silence a sufficient discharge record.
 
@@ -223,7 +223,7 @@ The table is one input among many, and on this file the code and the coherence l
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a veil-clasp of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is issued to the workers who will be sitting with her face to face, and it is the smallest piece in the set because it has to be.
+**Appearance:** a veil-clasp of Lament Han-crystal, cool and faintly luminous, warm to the touch. It is issued to the workers who will be sitting with her face to face, and it is the smallest piece in the set because it has to be.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -231,7 +231,7 @@ The table is one input among many, and on this file the code and the coherence l
 
 **Ability:** Absorbs sorrow and protects the wearer from emotional damage.
 
-**Cost:** The veil weeps constantly, keeping the wearer's face wet and grief visible.
+**Bearer cost:** The veil weeps constantly, keeping the wearer's face wet and grief visible.
 
 **Veil consent:** The Stigma’s individual limit requires the grieving person to be present and open to the connection. Tears on the bearer show a cost; they do not establish that the other person consented or that their loss is now resolved. Its account allows grief to be spoken, written or shared, without making any one route compulsory. Do not ask for the child’s name merely to dry the bearer’s face: the Side record permits saying it only after it has been offered. The source-work bonus supplies no exception to that restraint.
 
@@ -246,14 +246,14 @@ All 3 pieces extend the Maiden rather than arm anybody against her. The benefit 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the day's reading, and a baseline written down and held by a second person: what in the bearer's own week is still unmourned? The charge on this set does not present on the day, and the sheet is kept by somebody who is not going to be in the room. |
-| **During use** | The charge announces itself as weeping the bearer cannot account for. The second worker logs the hour it is first seen; the bearer's account is taken afterwards and set beside the log rather than used to complete it. |
+| **During use** | The charge announces itself as weeping the bearer cannot account for. The second worker logs the hour it is first seen. The bearer's account is taken afterwards and set beside the log rather than used to complete it. |
 | **At limit** | The limit arrives as silence: minor joys flat, weeping continuing, and nothing reported. That is the usual end point for a Maiden piece, and the observer calls it rather than the bearer. |
 | **After use** | Take the piece back and set the sheet against the person: has the weeping outlasted the rotation, and has the bearer stopped mentioning it? Either answer is entered whether or not the bearer agrees, and where the weeping has not reversed the piece is not reissued to them. |
 
 **Stat interpretation:** Grades describe extraction stability and nothing about human safety: a well-graded piece can still exact a toll no rating accounts for, and on this set the toll is the bearer weeping for a loss that is not theirs. Authorise on the cost column, and treat a low-rated piece carrying that charge as the ordinary case.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial. The grade is low and the holding is well understood; what keeps it at 1 is that nobody has accounted for the volume, and a wing that cannot say where the water comes from does not claim a higher grade.
+**R.D. Comprehension Level:** 1 — Initial. The grade is low and the holding is well understood. What keeps it at 1 is that nobody has accounted for the volume, and a wing that cannot say where the water comes from does not claim a higher grade.
 
 **Key Observations:**
 - Separation from the other two produces distress within minutes and standing water within hours.
@@ -322,14 +322,14 @@ The air grows heavy with unshed tears. A young woman appears, translucent and pa
 
 ### Interaction Pattern
 
-This file reads her against 5 others — The Smothering Mother, The Kind Healer, The Grieving Colossus, The Angry Maiden, The Silent Maiden — and treats every one as a resonance candidate and never as an alliance or a quarrel, filed rather than settled. A shared event is logged by asking whether the weeping, the sump, the air or the Three Sisters' readings moved at all; a resemblance prompted the pairing, and nothing more was ever established by it.
+This file reads her against 5 others — The Smothering Mother, The Kind Healer, The Grieving Colossus, The Angry Maiden, The Silent Maiden — and treats every one as a resonance candidate and never as an alliance or a quarrel, filed rather than settled. A shared event is logged by asking whether the weeping, the sump, the air or the Three Sisters' readings moved at all. A resemblance prompted the pairing, and nothing more was ever established by it.
 
 **Interaction method:** Sump and sister-distance before, hourly during and after, with the other two Sisters' watches logging in parallel and no pairing permitted that requires any of the three to leave the corridor.
 
 
 ### Entity Interaction Record
 
-The Grieving Maiden must be read as one address of a three-address problem, and distinguished from the sister she is most often confused with. The Silent Maiden keeps a loss nobody may ask after; this one keeps a loss that was asked after, provided for, and closed on schedule, which is why her instrument is a volume and hers is a radius.
+The Grieving Maiden must be read as one address of a three-address problem, and distinguished from the sister she is most often confused with. The Silent Maiden keeps a loss nobody may ask after. This one keeps a loss that was asked after, provided for, and closed on schedule, which is why her instrument is a volume and hers is a radius.
 
 | Related record | Where the resemblance comes from | What was observed in company | Entry owed |
 |---|---|---|---|
@@ -355,7 +355,7 @@ The Three Sisters are kept together — they share a containment, and they distr
 
 Those who come near the Grieving Maiden feel the specific helplessness of a parent's love defeated by biology — the grief that comes from doing everything and losing the child anyway, the tears that fall because there is nothing else left for them to do.
 
-Some sorrows are about injustice. The Grieving Maiden's sorrow is about helplessness — the love that could not save, the tears that could not be stopped, preserved in a figure who weeps forever for the child she could not keep alive, and who weeps more softly only when the mother who lost her comes, at last, to sit beside her.
+Some sorrows are about injustice. The Grieving Maiden's sorrow is about helplessness — the love that could not save, the tears that could not be stopped, preserved in a figure who weeps forever for the child she could not keep alive. And who weeps more softly only when the mother who lost her comes, at last, to sit beside her.
 ## 증언 (Testimonium) — The Testimony
 
 > *“She weeps. She has wept for centuries. The tears do not stop.”* — Keeper, Archive
@@ -381,20 +381,20 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 **Observation Notes:**
 - Born from a mother whose grief file was granted in full, concluded on its proper date, and reopened eleven times without success.
 - First of the Three Sisters: the loss that was mourned, against one that was blamed and one that was never asked after.
-**Cross-References:** The Angry Maiden · The Silent Maiden · The Echo Gardens · the drainage ledger · the schedule's closing date · the Continued Entry series
+**Cross-References:** [The Angry Maiden](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) · [The Silent Maiden](SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) · The Echo Gardens · the drainage ledger · the schedule's closing date · the Continued Entry series
 **Faction Involvement:** SED, on the D-territory watch that keeps the sump reading · UCD, on the Fray-adjacent zone. Neither holds authority to quiet her, and both wings' standing orders say so in the same words.
 **Originator:** A mother who lost a child to illness.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification frames the case and this record draws it, and neither of them stands in for sitting in the chamber. What governs the work is small and literal: she weeps without a break, the sump beyond the door has never once read zero, the loss gets named aloud and never ordered down, and the equipment side of the file records that the weeping a bearer carries away does reverse — hers does not. Where behaviour departs from this file, that departure is the most valuable data the holding produces, and it is preserved as evidence rather than tidied away.
+**Operational interpretation:** The classification frames the case and this record draws it, and neither of them stands in for sitting in the chamber. What governs the work is small and literal: she weeps without a break, the sump beyond the door has never once read zero, the loss gets named aloud and never ordered down. And the equipment side of the file records that the weeping a bearer carries away does reverse — hers does not. Where behaviour departs from this file, that departure is the most valuable data the holding produces, and it is preserved as evidence rather than tidied away.
 
-**Review requirement:** After any incident, 4 things are rechecked — the gauge, the field, the personnel, the location — and on this holding the sump is read first, because the figure outside the door is what tells the wardens whether the week's visits helped or cost. What held true yesterday may not hold today; what the R.D. record describes is a living sorrow pattern and never a finished explanation.
+**Review requirement:** After any incident, 4 things are rechecked — the gauge, the field, the personnel, the location — and on this holding the sump is read first, because the figure outside the door is what tells the wardens whether the week's visits helped or cost. The sump is read at the same hour each week for that reason: a figure taken at a different hour is not the same figure.
 ## Apex Record
 
 ### The Sister Distance
 
-Everything hard about containing the Grieving Maiden follows from one measurement: how far she is from her two sisters. The crystallized-tear body is stable at close separation and degrades predictably past it, and the degradation is not structural but emotional — the weeping intensifies, the gauge climbs from its 515 baseline, and the chamber's humidity load rises until the drainage crews notice before the instruments do. Containment therefore treats the Three Sisters as one problem with three addresses. The standing arrangement keeps all three on the same corridor, within the distance the archive calls sister-range, and any work order that would move one requires sign-off from the watch commanders of the other two. The provision exists because it was once skipped. A single maintenance transfer, authorized correctly and executed competently, moved her four doors further than the arrangement permits, and the weeping that followed cost the wing a shift and the drainage crews a week.
+Everything hard about containing the Grieving Maiden follows from one measurement: how far she is from her two sisters. The crystallized-tear body is stable at close separation and degrades predictably past it. And the degradation is not structural but emotional — the weeping intensifies, the gauge climbs from its 515 baseline. And the chamber's humidity load rises until the drainage crews notice before the instruments do. Containment therefore treats the Three Sisters as one problem with three addresses. The standing arrangement keeps all three on the same corridor, within the distance the archive calls sister-range, and any work order that would move one requires sign-off from the watch commanders of the other two. The provision exists because it was once skipped. A single maintenance transfer, authorized correctly and executed competently, moved her four doors further than the arrangement permits, and the weeping that followed cost the wing a shift and the drainage crews a week.
 
 ### Working the Tears
 
@@ -412,7 +412,7 @@ The weeping produces volume, and the volume is measured. Her chamber drains into
 
 Seventy-seven litres a day, after fifty-eight and forty-one. The ledger is kept twice daily by the drainage crews, signed by the watch commander, and set beside the sister-distance reading on the same page. Nothing else about the holding has moved: the sisters have not been parted since the maintenance transfer, the body is the body, the story is the same story in the same words. The volume does not track the Tide, the rota or the chamber humidity, all three of which have been tested against it. It tracks one line in the Observance Office's annual return: applications in respect of a loss whose file has already been concluded, refused as the schedule requires.
 
-Grief here is provided for generously and it ends on a date. Notification the same day, the full established period without anybody having to ask for it, counselling hours, the observance, the visit to the grounds, the position held open and returned to. Then the closing date arrives, the file is marked concluded, and the matter is not reopened. The closing date is not meanness. It is the thing that makes the rest of it safe to accept. When provision ran open-ended, it ran at an officer's discretion, and discretion meant *she is still grieving* written in a margin and read out at every promotion board for nine years; it meant leave with no return date and a post quietly filled; it meant 1,740 documented cases, in one decade, of people who took what they were offered and never worked again. A fixed period cannot be stretched to manage somebody out of the establishment. Everybody who has read the margin notes agrees it had to go.
+Grief here is provided for generously and it ends on a date. Notification the same day, the full established period without anybody having to ask for it, counselling hours, the observance, the visit to the grounds, the position held open and returned to. Then the closing date arrives, the file is marked concluded, and the matter is not reopened. The closing date is not meanness. It is the thing that makes the rest of it safe to accept. When provision ran open-ended, it ran at an officer's discretion. And discretion meant *she is still grieving* written in a margin and read out at every promotion board for nine years. It meant leave with no return date and a post quietly filled. It meant 1,740 documented cases, in one decade, of people who took what they were offered and never worked again. A fixed period cannot be stretched to manage somebody out of the establishment. Everybody who has read the margin notes agrees it had to go.
 
 Its consequence is that the system has no category for *still*. After the date, the loss is a concluded matter, and a concluded matter cannot be grieved at the Company — not because anybody forbids the feeling, but because every channel through which grief reaches this institution runs off a live file. A woman may be treated impeccably, take every provision in the schedule, return to her post on the appointed day, and then stand for nineteen years in a condition the record has no field for. Eleven times she asked. Eleven times the clerk was right to refuse. Somewhere in those nineteen years the Lament in SECTOR-D-02 reached the density at which it stops being a feeling and starts being a thing with a chamber and a sump gauge.
 
@@ -420,11 +420,11 @@ Its consequence is that the system has no category for *still*. After the date, 
 
 Instituted Year 4229. Once a year, on a date of their own choosing fixed at the outset and never changed, a person whose grief file has been concluded may add one line to it. One line, in their own hand, about the loss. It is stamped received, bound into the closed series, and that is the whole of it: it reopens nothing, triggers nothing, entitles the writer to nothing, and is read by no one.
 
-Year 4237: 4,312 entries received; 0 read; 0 files reopened; 0 entitlements conferred; 1,986 further applications refused in respect of concluded losses, which is the figure the Sisters' watch sets the sump against; 740 people who missed their fixed date and lost the year, there being no substitute date, because a date that moves is a matter that is still live and a matter that is still live is the margin note all over again.
+Year 4237: 4,312 entries received; 0 read. 0 Case files reopened; 0 entitlements conferred. 1,986 Further applications refused in respect of concluded losses, which is the figure the Sisters' watch sets the sump against. 740 People who missed their fixed date and lost the year, there being no substitute date, because a date that moves is a matter that is still live and a matter that is still live is the margin note all over again.
 
 The costs are printed on the form. The clerk may not acknowledge the entry beyond stamping it, may not comment, and may not read it in the writer's presence, so the transaction is a person handing a stranger the most important sentence of their year and watching it go into a box. The series is sealed by the same rule that keeps it safe: unread means unusable, and unusable means it can never be produced at a board to show that somebody has not got over something. And nothing accumulates. A person may write nineteen lines across nineteen years and there is no point at which nineteen lines becomes a case, because the files they are bound into are closed, and closed is the protection.
 
-The registry clerks asked to be allowed to read them. Not to act — only to read, and to report themes in aggregate, numbers only, no names, on the ground that four thousand sentences a year is the best evidence the Office will ever hold about what the schedule does not cover. Refused, and the refusal is correct in the way these refusals always are: a read entry is correspondence, correspondence is a live matter, and a live matter is exactly the thing that was once written in a margin and used against people for nine years at a time. Their submission stands in the Year 4232 return, recorded as correct and unanswered, filed by a clerk who stamps the entries and has written nineteen of her own. The last line of it is the one the drainage crews have pinned above the sump gauge: we closed the files so that nobody could be held open, and the water has to go somewhere.
+The registry clerks asked to be allowed to read them. Not to act — only to read, and to report themes in aggregate, numbers only, no names, on the ground that four thousand sentences a year is the best evidence the Office will ever hold about what the schedule does not cover. Refused, and the refusal is correct in the way these refusals always are: a read entry is correspondence, correspondence is a live matter. And a live matter is exactly the thing that was once written in a margin and used against people for nine years at a time. Their submission stands in the Year 4232 return, recorded as correct and unanswered, filed by a clerk who stamps the entries and has written nineteen of her own. The last line of it is the one the drainage crews have pinned above the sump gauge: we closed the files so that nobody could be held open, and the water has to go somewhere.
 
 ## Trivia
 
@@ -435,10 +435,10 @@ The registry clerks asked to be allowed to read them. Not to act — only to rea
 
 ### Registry Trivia
 
-- **Classification detail:** A Subject of Entity (IV) coherence — self-aware, gentle and sad — with Moderate (β) potency that the file calls manageable, on the strength of a condition a worker can actually meet: sit down, share the grief, name the loss, and do not tell her to stop.
-- **Field detail:** Element Lament, registered to SECTOR-D-02, contained with the Three Sisters, where the instrument is a sump gauge and the reading is never zero: she weeps without pause, the air stays rain-cold, and the door is shut on a room that is not to be quietened.
+- **Classification detail:** A Subject of Entity (IV) coherence — self-aware, gentle and sad — with Moderate (β) potency that the file calls manageable, on the strength of a condition a worker can actually meet: sit down, share the grief, name the loss. And do not tell her to stop.
+- **Field detail:** Element Lament, registered to SECTOR-D-02, contained with the Three Sisters, where the instrument is a sump gauge and the reading is never zero: she weeps without pause, the air stays rain-cold. And the door is shut on a room that is not to be quietened.
 - **Recognition detail:** A young woman weeping without pause, warm to stand near, hair and dress soaked through, cold rain on old cloth in the air, and a sump gauge outside the door that is never at zero.
-- **Record detail:** The Registrum gave Comprehension Level 3 against a header of 1 — Initial, named Flerehan the only valid Work Type where Ferrehan also lowers the gauge, and carried a handling line stating that the mother's presence calms the Maiden — she is the mother. The Appearance block described a translucent figure of crystallized tears against a header reading Organic, warm and alive; both are now stated as what they are, the field presentation and the assay. The breach quotation's *indiscriminate* is reconciled against the First Target row rather than deleted. All corrected. The Apex Record, the 515 baseline and the containment priority on reuniting the three are untouched; the disposition index quotes that line and it stands word for word.
+- **Record detail:** The Registrum gave Comprehension Level 3 against a header of 1 — Initial, named Flerehan the only valid Work Type where Ferrehan also lowers the gauge. And carried a handling line stating that the mother's presence calms the Maiden — she is the mother. The Appearance block described a translucent figure of crystallized tears against a header reading Organic, warm and alive. Both are now stated as what they are, the field presentation and the assay. The breach quotation's *indiscriminate* is reconciled against the First Target row rather than deleted. All corrected. The Apex Record, the 515 baseline and the containment priority on reuniting the three are untouched. The disposition index quotes that line and it stands word for word.
 - **Containment detail:** She does not need to breach to be dangerous, and containment here limits movement rather than influence — the weeping crosses the door with whoever sat closest. The file's whole management is a manner of sitting: the loss is named, the grief is shared, and nobody in the room ever asks her to stop, because the one certain way to make the sorrow heavier is to make her carry it quietly.
 ## Document Information
 

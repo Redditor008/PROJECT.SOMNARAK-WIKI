@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-G-230-01`  
 **Author:** Dreamer Sora  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Status:** Sealed — bearer assignment requires Echo-Core review
 
@@ -17,6 +17,7 @@
 
 The Final Hour is a Void Han-glass hour-token worn at the Head slot. It has no hands or numerals. Near imminent death, a thin white line circles the rim and stops at the instant immediately before the target’s ending.
 
+**Maximum Amount:** 2 — Limited
 Every Last Goodbye bestowed it after a Flerehan worker witnessed a peaceful final moment without asking the entity to change or deliver it. Acquisition chance is 4%. The current token is unassigned because every full stop also shows the bearer’s own final moment.
 
 ## Appearance
@@ -51,14 +52,3 @@ Every Last Goodbye turns one face toward the token each time the rim stops, but 
 **Care:** Record the image as sensory data, list at least three unknowns, and make one proportionate safety change without declaring the death prevented. The token remains sealed until its rim resumes blank movement.
 
 **Emergency release:** Remove the selected target from view, cover no part of the token, and ask the bearer to describe the current room before the final image. Shattering it projects every possible ending stored during the session.
-
----
-
-**Document ID:** `SE-230-D`  
-**Linked Entity:** `SE-230`  
-**Item Registry Code:** `MAW-G-230-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

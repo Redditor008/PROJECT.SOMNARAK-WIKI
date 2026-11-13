@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-140 [LP]`  
 **Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Echo Gardens ending-witness protocol
 
@@ -26,7 +26,7 @@
 | Element | Lament |
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A massive living willow whose long branches carry pale crystal tear-leaves that shatter silently when they fall. |
-| Gauge / pressure | 45–65% / Lament 18–41 |
+| Gauge / pressure | 653/653; starts 45–65% · Lament — no attack pattern: rooted, and no branch lashes; the spread is the root line and the saturated boundary (Contact Record, R-36) |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Gentle Endings |
 
@@ -61,10 +61,10 @@ The Willow is alive in a way no stone memorial is alive: dark sap runs warm and 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Do not feed the tree tears to make an ending feel more legitimate. |
-| Pugnahan | Invalid for this Place entity. | N/A | Do not cut, strip, or strike branches. |
+| Flerehan | Invalid for this Place entity. | Negative-Low | Do not feed the tree tears to make an ending feel more legitimate. |
+| Pugnahan | Invalid for this Place entity. | Negative-Low | Do not cut, strip, or strike branches. |
 | Viderehan | Reveals endings carried by each branch. | Stable | Observe the ending without demanding a culprit or reversal. |
-| Ferrehan | Shelters the worker while they endure grief. | Down | Sit beneath the branches with a departure plan and a witness for afterward. |
+| Ferrehan | Shelters the worker while they endure grief. | Decrease | Sit beneath the branches with a departure plan and a witness for afterward. |
 
 ### Expansion response
 
@@ -85,7 +85,7 @@ The set protects a bearer through grief that has no villain. Its cost is the emo
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Willow Requiem | γ | Lament | Piercing response to grief that needs acknowledgment | `SE-140-B__MAW-W_The_Willow_Requiem.md` |
+| Weapon | The Weeping Willow War-Scythe | γ | Lament | Piercing response to grief that needs acknowledgment | `SE-140-B__MAW-W_The_Weeping_Willow_War_Scythe.md` |
 | Suit | The Willow Cloak | γ | Lament | Concealment from emotional scrutiny during private mourning | `SE-140-C__MAW-S_The_Willow_Cloak.md` |
 | Stigma | The Willow Charm | γ | Lament | Grants a closing ritual for one completed emotional task | `SE-140-D__MAW-G_The_Willow_Charm.md` |
 
@@ -171,13 +171,3 @@ The set protects a bearer through grief that has no villain. Its cost is the emo
 **Entity links:** The Sorrow Fountain; The Weeping Statue; The Returning Tree.  
 **Garden rule:** Crystal leaves are entity expressions, not memorial souvenirs or crafting materials.  
 **Item links:** `SE-140-B`, `SE-140-C`, and `SE-140-D` contain individual ritual, cost, and maintenance history for Gentle Endings.
-
----
-
-**Document ID:** `SE-140-A`  
-**Linked Entity:** `SE-140`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

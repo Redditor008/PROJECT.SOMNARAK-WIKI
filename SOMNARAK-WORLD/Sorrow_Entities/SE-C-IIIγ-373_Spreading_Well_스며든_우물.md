@@ -7,15 +7,15 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-373 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A stone well whose rim will not stay put: it spreads across the ground in thin branching channels of blue sorrow, its water seeping far from the opening to places it should not reach. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |
-| **Movement** | Stationary — a structure or location. |
+| **Physical Form** | Mixed |
+| **Movement** | Stationary rim; the channels extend and have never withdrawn from ground reached. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -27,11 +27,13 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Primary pressure** | Clarity — a specific grief arriving unattributed, understood but not one's own |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the counter** — It puts out a new branch of blue water across ground the stake line did not hold, and the branch is the register. |
+| **Work Damage** | 2–4 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is water branching beyond a rim that does not move. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels — no breach counter. |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -45,57 +47,64 @@
 - No breach counter: it does not leave its bed. It arrives somewhere by running there along the ground, and the stake lines are reset and dated at every session rather than merely inspected.
 - Rim residue is the extraction source under separate authorisation. The sluice function is a different matter entirely and is governed by the safety case described in the Warden Record.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Lament pressure; 25% against other pressure types — untested here, since the Well injures nobody and has never been hostile to anything. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 561/561 |
-| **Han Pressure [ATK]** | 18–42 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Desolate, near The Scar |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 30 s, stood at for an offering — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+stood at for an offering on a 30-second clock, so the six come to **180 seconds**. A worn piece
+gets a minute and a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary rim; the channels extend and have never withdrawn from ground reached*. Nothing here is aimed and nothing is pursued: the water goes where the ground takes it, and the hazard on the record is a worker following a channel outward without noticing the distance.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A fixed stone rim in the Desolate near the Scar, its water never where it is put: thin branching channels of blue sorrow creeping away from a mouth that does not move. The stone is damp and salt-white, and the stake line is re-set at every survey. |
+| **Perceptible to** | The water first, then the cold coming off it, and then the branches, which are the reading and are staked and measured rather than followed. |
+| **Handling** | Not dammed and not bailed. The stake line is walked and renewed, the channels are never cut, and no worker follows a branch past the perimeter. — see `## Handling Process` |
+| **Activation threshold** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels — no breach counter. |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Acknowledge each linked site; do not dam the channels |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Seep* [**Debuff**] } | "Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward." | [The Well's sorrow-water permeates the ground; the target's feet are wet.] | *Target suffers -10 Composure; the grief is in the ground itself.* **[10 Lament DMG [Lament]]** | When the target stands near the Well. |
-| { *The Rising Pool* [**Debuff**] } | "The water spreads — a widening pool, ankle-deep, then knee-deep, and always cold." | [The Well's sorrow expands; the pool grows toward the target.] | *Target loses 10 Composure; the water is rising.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Geyser* [**Attack**] } | "The well erupts — a column of sorrow-water, straight up, then raining down." | [A geyser of well-water blasts upward and cascades.] | *Inflicts Lament pressure and one soaking, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Well is struck. |
-| { *The Full Disgorgement* [**Attack**] } | “The well empties in one rush — every drop it has ever carried, and every end it was carrying them to.” | [The complete network discharges at the point of overload rather than along its channels.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Well is overloaded. |
-| { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [The network turns from one-directional carriage into a flood across the field.] | *All in range take Lament pressure for three turns in the sorrow sea.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Well does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Branch* [**Register**] } | It puts out a new branch of blue water across ground the stake line did not hold, and the branch is the register. | The stake line is walked at the start of every survey, the new ground is measured against the last survey, and the branch is never cut to see where it goes. | The branches are counted and staked. A stable gauge with a new branch on the ground is the reading the file treats as a bad cycle. |
+| { *The Walk* [**Exposure**] } | A worker who cannot hold begins following a channel — outward, past the stake line, past the perimeter, without urgency and without noticing the distance. | Somebody takes their arm, and the watch enters the distance walked rather than the distance the channel runs. | The walk stops when a person is touched, which is the only intervention on this file that has ever worked. |
+| { *The Refusal* [**Refusal**] } | It has never withdrawn from ground reached. The water is not bailed, not dammed and not turned, and the rim does not move. | Nothing is lifted out of the channels and nothing is built across them; the site is acknowledged and left where it is. | The refusal is the ground: what the Well takes it keeps, and the record has no case of a channel retreating. |
+| { *The Linked Site* [**Overload**] } | Past the cap a channel ends at a building, and the building's grief arrives in the worker standing nearest the branch — six such reports are held and none has been matched to a person. | The site is acknowledged on the record, the branch is staked, and no attempt is made to identify the grief or to find its owner. | Six reports, none matched: the file keeps the number of unmatched reports rather than a count of possessions, because that is what the Well produces. |
 
-1. **Tension:** Confirm on the water and the ground rather than on the smell: a thin channel crossing dry dust, running uphill along the Han current instead of down the gradient, carrying no reflection, with the sound beneath it audible when nobody is trying to hear it. Desolate groundwater has a reflection, runs downhill and is silent. Re-stake the line, sound the rim, and list the ends reached since the last session before anything else is done.
-2. **Clash:** Four turns on the stake line, observation and endurance only. No channel is dammed, diverted or stepped in, and the ends reached since the last session are listed before anything else is done.
-3. **Resolution:** The watch closes on the file's own condition — **Acknowledge each linked site; do not dam the channels** — which means the line is re-staked outward only, every new end is traced and named, the district it lies in is notified before the watch closes, and nothing is diverted or stepped in. Both dam attempts are in the Warden Record; in the second the channel reappeared in a street inside a day, and there is no procedure for a third.
+### Watch Sequence
+
+1. **What is confirmed:** the stake line against last survey, the count of branches, and the buildings any branch runs toward, all taken before the ground is walked.
+2. **What the watch does:** Viderehan shows the worker whose house a channel ends at and Ferrehan holds the stake line. The walk is capped at the perimeter and every person on the survey is paired for the walk back.
+3. **How it closes:** **Acknowledge each linked site; do not dam the channels** — and the acknowledgement is entered against the site rather than against the worker, because the grief is the site's and not theirs.
 
 ### Consequences
 
 - A worker who cannot hold begins following a channel. They walk it outward, past the stake line, past the perimeter, without urgency and without noticing the distance, and they stop when somebody takes their arm.
 - Sustained proximity produces the characteristic effect of this site: the worker acquires a grief that is not theirs and knows it is not theirs, describes it in detail, and cannot say whose it is. Six such reports are held and none has been matched to a person.
-- The Well equipment gives the bearer the capacity to carry a sorrow to someone who will understand it, and charges them the grief at both ends of the journey — the one they are carrying and the one waiting to receive it.
+- The Well equipment does not hand its bearer a sorrow to dispose of: the blade only clears a consented route, the shroud only preserves its carrier between two named witnesses. And the vial only delivers to someone who agreed to receive it — and each charges the grief at both ends of the journey regardless.
 - Unresolved, nothing breaks out. The channels simply reach further, and the reaching is reported to the facility by the districts the water arrives in.
 
 ## Appearance
@@ -107,7 +116,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
-- **Primary marker:** A fixed stone rim with thin channels of blue sorrow spreading across the ground. Its water reaches places far from the opening.
 - **Position / movement:** The rim is fixed; the channels extend. Record the stake line, every new channel end, and whether the end is a memorial or an occupied address.
 - **Element signature:** Lament
 - **Registered location:** The Desolate, near The Scar
@@ -116,7 +124,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A fixed stone rim with thin channels of blue sorrow spreading across the ground. Its water reaches places far from the opening. |
 | **Position / movement** | A fixed stone rim with a spreading network. The water weeps rather than flows, moves uphill along the sorrow rather than the gradient, and has never withdrawn from any ground it has reached. |
 | **Material / signature** | Lament. Damp salt-cold stone, thin branching channels of blue sorrow carrying no reflection, faces beneath the surface, and the smell of cold rain on old cloth. |
 | **Distinctive markers** | Channels crossing dry dust toward ground that should be dry, water running uphill, the reflectionless surface, and the low sound beneath the soil audible to anyone standing over a channel. |
@@ -129,39 +136,30 @@
 - **The Sorrow:** The need for grief to travel until it finds another person able to understand it.
 - **The Event:** Desolate mourners poured their tears into the ground, creating channels that merged into a spreading well.
 - **The People:** The scattered mourners of the Desolate, over generations, following an ordinary funerary custom that nobody recorded as remarkable at the time.
-- **Expanded origin context:** The Desolate buries nobody near anybody. Its settlements are far apart, its dead are seen to alone, and its funerary custom was accordingly a custom of the solitary: the mourner poured their tears into the ground at the graveside, which was understood as sending them to whoever else was grieving that season. It was a figure of speech. It was performed by a great many people across a great many years at a great many separate places, and at some point the figure of speech stopped being one. What the channels do now is what the custom said they did, and the district has never once treated that as a horror. The Well is what happens when an ordinary thing is done often enough and nobody is nearby to see the total.
+- **Expanded origin context:** The Desolate buries nobody near anybody. Its settlements are far apart, its dead are seen to alone. And its funerary custom was accordingly a custom of the solitary: the mourner poured their tears into the ground at the graveside, which was understood as sending them to whoever else was grieving that season. It was a figure of speech. It was performed by a great many people across a great many years at a great many separate places, and at some point the figure of speech stopped being one. What the channels do now is what the custom said they did, and the district has never once treated that as a horror. The Well is what happens when an ordinary thing is done often enough and nobody is nearby to see the total.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A fixed stone rim in the Desolate near the Scar, its water never where it is put: thin branching channels of blue sorrow creeping away from a mouth that does not move. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reads a channel: the grief it is carrying, the site it left, and the end it is running toward. | Stable |
-| **Ferrehan** | Tests whether the worker can follow a grief to its destination without walking there; lowers the gauge, and is the only approach that does. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the stake line against last survey, the count of branches, and the buildings any branch runs toward, all taken before the ground is walked. |
+| **Handling** | The watch the stake line is walked at the start of every survey, the new ground is measured against the last survey, and the branch is never cut to see where it goes. |
+| **Withdrawal** | **Acknowledge each linked site; do not dam the channels** — and the acknowledgement is entered against the site rather than against the worker, because the grief is the site's and not theirs. |
+| **Refusal** | Nothing is lifted out of the channels and nothing is built across them; the site is acknowledged and left where it is. |
 
-
-### Operational Work Notes
-
-Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament manifestation, Lament expression, O-Relic tool class, in the Desolate near the Scar. Flerehan and Pugnahan are N/A because a Place can be neither grieved with nor fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while showing the worker whose house a channel ends at.
-
-**Reading the response:** Read the seep rate at the rim and the stake line. A falling gauge presents as the seep easing and the channel sound dropping below audibility; a rising one presents as new channel ends, which are permanent. Nothing about the surface or the smell is an indicator and both have misled teams.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
+> **Special activation — no counter.** Its starting condition, as written: *"opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels"*.
+
+
+
+
+
+> **This Relic is a designated meltdown-mitigation measure in the facility safety case — load-bearing, not optional**
+> **Everything discharged into it arrives somewhere, including occupied households**
 > **This Relic Vents Uncontained Lament Resonance if the Conduit is Released Out of Order**
-
-**Activation Trigger:** Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels.
-
-**Effect:** Localised Sorrow Gauge spikes are taken off the affected unit and distributed along the channel network into the bedrock buffer, which flattens the spike below the meltdown threshold. The measured reduction is real, repeatable, and the only reason the sluices exist.
-
-**Duration:** Continuous while the sluice gate is unsealed and an operator holds the channel; it ends when the gate is closed deliberately and in order.
-
-**Risk:** Prolonged drainage saturates the foundation and the lower floor tiles begin leaking caustic blue Han-liquid. The second risk is not to the facility and is set out in the Warden Record: everything discharged into the network arrives somewhere.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -169,10 +167,10 @@ Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament man
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
 | **Activation** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels. |
-| **Primary Effect** | Takes a localised gauge spike off the affected unit and distributes it along the channel network into the bedrock buffer, flattening the spike below the meltdown threshold. |
-| **Duration** | Continuous while the gate is unsealed and an operator holds the channel. |
+| **Primary Effect** | Takes a localised gauge spike off the affected unit and distributes it along the channel network into the bedrock buffer, which flattens the spike below the meltdown threshold. The reduction is real and repeatable, and it is the only reason the sluices exist. |
+| **Duration** | Continuous while the sluice gate is unsealed and an operator holds the channel. It ends when the gate is closed deliberately and in order. |
 | **Termination / Return** | The channel is closed deliberately by the operator, gate first and conduit second. Releasing the conduit out of order vents uncontained Lament resonance across the sector and has happened twice. |
-| **Risk** | Foundation saturation and caustic blue leakage on the lower floors, plus the delivery of everything discharged to the far end of whichever channels carried it. |
+| **Risk** | Prolonged drainage saturates the foundation and the lower floor tiles begin leaking caustic blue Han-liquid. The second risk is not to the facility and is set out in the Warden Record: everything discharged into the network arrives somewhere. |
 
 **Operational Rule:** The sluice requires an operator on the channel for its whole duration and an unbroken conduit. An untended channel destabilises progressively, and the record of what a given run discharged, and along which channels, must be closed before the operator stands down.
 
@@ -182,7 +180,7 @@ Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament man
 |---|---|---|
 | 10 Seconds | The rim thrums and the sound beneath the soil becomes audible across the whole stake line at once. | The channel is open. Gauge spikes on adjacent units begin flattening within the first ten seconds; the reduction is measurable on the unit's own instruments. |
 | 30 Seconds | The conduit widens and the operator receives the custom whole — a graveside, poured tears, and the understanding that they are being sent to whoever else is grieving this season. | Discharge reaches Range Band 2 of the network. Allied units in the sector hold their elemental defences while the operator keeps the channel. |
-| 1 Minute | The weight arrives in the chest rather than the hands, and the operator becomes aware of the far ends: how many there are, and that some of them are lit. | Past sixty seconds the channel consumes 4 Composure every ten seconds. Plan the disengagement before the figure matters. |
+| 1 Minute | The weight arrives in the chest rather than the hands, and the operator becomes aware of the far ends: how many there are, and that some of them are lit. | Past sixty seconds the channel consumes 4 Clarity every ten seconds. Plan the disengagement before the figure matters. |
 | 2 Minutes | The flow threatens to reverse and the operator understands, correctly, that an overflow will go looking for somebody to be in. | Overload or abandonment vents an uncontrolled Lament shockwave: foundation saturation, caustic blue leakage, heavy damage to all personnel in the sector, and an unlogged discharge into the network. |
 
 ### Escalation Notes
@@ -199,7 +197,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 | **Manifestation** | Place-Lament |
 | **Primary effect** | Redistributes localized Sorrow Gauge spikes across a wide bedrock buffer, preventing immediate containment meltdowns. |
 | **Duration / rate** | Continuous while the sluice gate remains unsealed. |
-| **Risk** | Major (γ) Place-Lament producing Lament pressure; foundation saturation with caustic blue leakage, plus arrival of the discharge at the network's far ends, which are not all in the Desolate. |
+| **Risk** | Major (γ) Place-Lament producing Lament pressure. Foundation saturation with caustic blue leakage, plus arrival of the discharge at the network's far ends, which are not all in the Desolate. |
 | **Management** | Viderehan and Ferrehan only, certified sluice protocol with an operator held on the channel, stake line reset and dated each session, new ends traced and the districts reached notified. |
 
 **Activation reporting order:** sluice state → seep rate at the rim → stake line measured → channels carrying the discharge → far ends reached and what stands at them → personnel effect → management condition. Objects and Places are worked with Viderehan and Ferrehan only.
@@ -219,9 +217,9 @@ Escalation here is reach. Record the stake line, every new channel end with what
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — in the way this network deals it: not a blow but a delivery, and what it leaves the target holding is a grief that is specific, complete, and attached to nobody they know.
+**Ability:** *Channel Opening* — clears up to three obstructions from one consented grief route, dealing Lament damage against the Mind — emotional stability and willpower — only as the blockage gives. It is never used to deliver grief to a convenient witness, widen flow for extraction, or clear a route without acknowledging the affected site. Origin, destination, consent and residual flow are mapped before the blade is dried. (Blade form remains held across its three records.)
 
-**Cost:** the wielder carries the entity's unwept grief for as long as they carry the blade, and past a season of it the weeping starts unbidden. The Armoury records the symptom against the wielder, on the file's own logic: what accumulates here is the work, not the steel.
+**Bearer cost:** the wielder carries the entity's unwept grief for as long as they carry the blade, and past a season of it the weeping starts unbidden. The Armoury records the symptom against the wielder, on the file's own logic: what accumulates here is the work, not the steel.
 
 ### M.A.W. Suit — The Spreading Shroud
 
@@ -237,9 +235,9 @@ Escalation here is reach. Record the stake line, every new channel end with what
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure. The resistance table also records Weight protection; this network-specific use account does not replace those separate resistance values.
+**Ability:** *Linked Carrier* — wards the Mind — emotional stability and willpower — against Lament pressure so a follower can walk a grief route without identity absorption. Binding requires named witnesses at origin and destination, and the dry identity line is checked before every crossing. A carrier who becomes an endpoint is the first failure. The resistance table also records Weight protection; this network-specific use account does not replace those separate resistance values.
 
-**Cost:** the wearer goes numb to minor joys before noticing, and the second worker is the one who reads it — on a set issued one rotation at a time, the numbness is entered whether or not the wearer agrees.
+**Bearer cost:** the wearer goes numb to minor joys before noticing, and the second worker is the one who reads it — on a set issued one rotation at a time, the numbness is entered whether or not the wearer agrees.
 
 ### M.A.W. Stigma — The Spreading Vial
 
@@ -251,21 +249,21 @@ Escalation here is reach. Record the stake line, every new channel end with what
 **Acquisition Probability:** 4%
 **Effect:** +2 Clarity against the source holding, and the carrier is aware of the far end of whatever they are holding — which at this site is not a figure of speech: the vial reports, and the bearer cannot switch it off.
 
-**Ability:** Carries a small amount of sorrow to a distant witness.
+**Ability:** Carries a small amount of sorrow to a *consenting* distant witness. Both witnesses are confirmed before opening, and the Vial closes after acknowledgment, not after emotional resolution. Consent assumed, or a witness appointed as absorber, is a failure, not a use.
 
-**Cost:** The carrier feels the grief at both origin and destination.
+**Bearer cost:** The carrier feels the grief at both origin and destination.
 
 *The Vial cannot be requisitioned and is not manufactured. It has been conferred eleven times, each time on a worker who traced a channel to its end and reported the address rather than the distance.*
 
 ### M.A.W. Use Notes
 
-Nothing in this set equips a worker against the network; each piece is the Well in small, and each one takes what the Well takes — grief the bearer never wept, minor joys gone numb, and a carried weight that resolves only when somebody else acknowledges it. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it.
+Nothing in this set equips a worker against the network. Each piece is the Well in small. But each takes its toll at a different station — the blade's bearer weeps with sorrow from both ends of the route cleared, the shroud's carrier goes numb to minor joys beneath two sites at once. And the vial's courier feels the grief at origin and destination for the whole journey. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it.
 
-### M.A.W. Cross-Source Review — Batch 112
+### M.A.W. Cross-Source Review
 
 - **Weapon hold:** Exact Side A/B support 7–12 damage, Speed 3, Range 3, maximum 3, and 40 Echoes. Master Codex Entries 76–78 confirm the γ/Lament component names, abilities, and recorded costs. The primary's slender clear blade, Side B's wet branching blade, and the `MAW-W-373` delta-fork archetype are three recorded forms. No source documents a transition between them. Side B alone specifies Skewer and 100% → 70% → 50% falloff, so those details remain item-specific.
-- **Suit hold:** Exact Side A/C support the resistance values, maximum 3, and 35 Echoes; Master Codex Entry 77 confirms the γ/Lament Suit and its cost. The primary's cold, heavy wrapper is not explicitly reconciled with Side C's wet branching seams and dry identity line. No appearance transition is documented.
-- **Stigma and set:** Exact Side A and D specify +2 Clarity, now named in the primary. Tail and 4% agree with those files, while the Master Registry's generic Accessory / 5% row does not replace the item-specific record. The eleven conferrals and their address-reporting condition remain local claims; no linked item gives a conflicting count. The primary's unwept-grief and far-end reporting account remains distinct from Side A's consenting two-ended route and *Understood, Not Absorbed* resonance; the extraction and resonance records are not collapsed.
+- **Suit hold:** Exact Side A/C support the resistance values, maximum 3, and 35 Echoes. Master Codex Entry 77 confirms the γ/Lament Suit and its cost. The primary's cold, heavy wrapper is not explicitly reconciled with Side C's wet branching seams and dry identity line. No appearance transition is documented.
+- **Stigma and set:** Exact Side A and D specify +2 Clarity, now named in the primary. Tail and 4% agree with those files, while the Master Registry's generic Accessory / 5% row does not replace the item-specific record. The eleven conferrals and their address-reporting condition remain local claims; no linked item gives a conflicting count. The primary's unwept-grief and far-end reporting account remains distinct from Side A's consenting two-ended route and *Understood, Not Absorbed* resonance. The extraction and resonance records are not collapsed.
 
 ### Field Use Record
 
@@ -297,7 +295,7 @@ Nothing in this set equips a worker against the network; each piece is the Well 
 | **Initial exposure** | The observer fixes the stake line against every dated line before it, counts the live channels at the rim, sounds the rim and reads the seep — and writes the map's own totals on the sheet as the frame for the walk: 1,106 ends walked and dated, 788 at registered sites of grief, 318 at occupied addresses. |
 | **Sustained observation** | Seep rate at the rim, live channel count, stake line against every previous line, furthest traced end, new ends with what stands at each, channel sound along the walked sections, and any sluice run in the period. |
 | **Activation or escalation** | Escalation is recorded when a channel reaches a new end. Trace it, identify what stands there, date the stake, notify the district, and enter it on the reissued map in the cycle's colour. Old lines are never removed from the map. |
-| **Post-contact review** | Stake line before and after, new ends with what stands at each, seep series, sluice log, gauge movement, and a seven-day check on each worker for a carried grief they cannot attribute and for any unexplained walking; the map's totals are carried forward and the notification log is closed for every district reached. |
+| **Post-contact review** | Stake line before and after, new ends with what stands at each, seep series, sluice log, gauge movement. And a seven-day check on each worker for a carried grief they cannot attribute and for any unexplained walking. The map's totals are carried forward and the notification log is closed for every district reached. |
 
 **Observation method:** Walk the line, sound the rim, trace the ends, name what stands at each. Read the form as grief rather than intention: a great many separate people poured tears into separate ground and said they were sending them to whoever else was grieving, and the channels are what that sentence became.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -344,26 +342,26 @@ A thin stream crosses the dust toward a well that should be dry. It carries no r
 
 ### Interaction Pattern
 
-Spreading Well is filed beside the Desolate's other water and heat features, and the filing is a convenience of geography rather than a finding: the three pairings below are what the archive will support, none is settled, and all of them were run on the channel network because the rim is the one part of the entity that never does anything.
+Spreading Well is filed beside the Desolate's other water and heat features. And the filing is a convenience of geography rather than a finding: the three pairings below are what the archive will support, none is settled. And all of them were run on the channel network because the rim is the one part of the entity that never does anything.
 
-**Interaction method:** Take each party alone first, over as many cycles as the season allows, and hold the reading until the seep rate, the stake line and the gauge have all three settled. After that, one pairing at a time: log the onset of any shared change with its range, duration and trigger, both gauges, and what remains after the two are separated — on the network, never at the rim, and never in the same session as a sluice run.
+**Interaction method:** Take each party alone first, over as many cycles as the season allows, and hold the reading until the seep rate, the stake line and the gauge have all three settled. After that, one pairing at a time: log the onset of any shared change with its range, duration and trigger, both gauges. And what remains after the two are separated — on the network, never at the rim. And never in the same session as a sluice run.
 
 
 ### Entity Interaction Record
 
-The relations below are points of contact rather than alliances and none is settled. Two were proposed because water was involved at both ends, which in the Desolate is a weak basis; the third was inherited from a template and the cooling language is withdrawn here.
+The relations below are points of contact rather than alliances and none is settled. Two were proposed because water was involved at both ends, which in the Desolate is a weak basis. The third was inherited from a template and the cooling language is withdrawn here.
 
 | Holding paired | The contact, as observed | What was measured | What is still owed to the file |
 |---|---|---|---|
-| **The Sunken Bridge** | Said to carry this site's tears through the tunnels beneath it. | Seven co-presences and a tracer series. Tracer introduced at the rim has reached the Bridge's tunnels in none of the seven; the tunnel water's composition differs from the channel water in every sample. Both gauges flat throughout. | All seven co-presences, the tracer series, and both composition sets. |
-| **The Sorrow River** | The channels are said to seek the underground River eventually, which is the oldest claim in the file. | Four surveys and eleven years of mapping. No channel has turned toward the River; the network's bearing is governed by mourning paths and ignores the River's course entirely, including where a channel passes within nine metres of it. | All four surveys, the full channel map series, and the nine-metre crossing. |
+| **The Sunken Bridge** | Said to carry this site's tears through the tunnels beneath it. | Seven co-presences and a tracer series. Tracer introduced at the rim has reached the Bridge's tunnels in none of the seven. The tunnel water's composition differs from the channel water in every sample. Both gauges flat throughout. | All seven co-presences, the tracer series, and both composition sets. |
+| **The Sorrow River** | The channels are said to seek the underground River eventually, which is the oldest claim in the file. | Four surveys and eleven years of mapping. No channel has turned toward the River. The network's bearing is governed by mourning paths and ignores the River's course entirely, including where a channel passes within nine metres of it. | All four surveys, the full channel map series, and the nine-metre crossing. |
 | **The Wrath Flame** | Water is said to cool the Flame without extinguishing its rage. | Three co-presences. The Flame's temperature, burn rate and gauge were unchanged with a channel running beside it; the channel neither steamed nor shortened. The cooling language is inherited from a template and is withdrawn here. | All three co-presences, the Flame's three measurement sets, and the withdrawal note. |
 
-**Interaction procedure:** The solo baseline is the control and is not optional: three cycles minimum, with the seep rate, the stake line and the gauge recorded before the other party is brought anywhere near. Then the first shared change with its distance, duration and trigger, both gauges, and what does or does not persist after separation; the second attempt to test the Sorrow River claim is declined in advance on the ground that the first four surveys closed it.
+**Interaction procedure:** The solo baseline is the control and is not optional: three cycles minimum, with the seep rate, the stake line and the gauge recorded before the other party is brought anywhere near. Then the first shared change with its distance, duration and trigger, both gauges, and what does or does not persist after separation. The second attempt to test the Sorrow River claim is declined in advance on the ground that the first four surveys closed it.
 
 ## 이야기 (Narratio) — The Tale
 
-Grief, in Somnarak, is supposed to sink. The Weeping carries it downward, distributes it, thins it. That is the system. But some grief refuses to sink. Some grief moves — outward, sideways, seeking — because it has not yet been understood, and until it is understood it will not stay still.
+There was a rule to grief in Somnarak, and the rule was that it sinks. The Weeping carried it down and spread it and thinned it, and that was the system. But some grief refuses to sink. Some grief moves — outward, sideways, seeking — because it has not yet been understood, and until it is understood it will not stay still.
 
 In the Desolate, where the city's systems do not reach and the Weeping runs wild, mourners had no Gardens to weep in, no Consolihan to share their grief, no Collectors to ledger their sorrow into the city's great flow. They were alone with it. And alone, they did what people do with grief they cannot hold: they poured it into the ground. Tears, in the soft Desolate earth, do not pool — they travel. They find channels, follow the Han's flow, seep between grains of soil, moving always, because water moves, and grief that has been wept is water.
 
@@ -373,7 +371,7 @@ Spreading Well is that network. Place-Lament, and it is not still. It moves — 
 
 Those who stand over a Spreading Well channel feel, suddenly, less alone — not because their grief is lighter, but because the Well has found them, has linked their sorrow to the scattered sorrow of a hundred strangers who wept into the same ground. The grief does not diminish. It simply discovers that it was never the only one of its kind.
 
-This is the Well's sorrow, and its strange mercy: that grief which could not be held by one person traveled, and merged, and became a network — proof that the loneliest mourning, poured into the earth in private, was all along flowing toward someone else who understood.
+This is the Well's sorrow, and its strange mercy: that grief which could not be held by one person traveled. And merged, and became a network — proof that the loneliest mourning, poured into the earth in private, was all along flowing toward someone else who understood.
 
 Some sorrows sink. Spreading Well is a sorrow that refused to — because it was looking, under the ground, for the one other person who felt the same, and would not rest until it finds them all.
 ## 증언 (Testimonium) — The Testimony
@@ -391,12 +389,12 @@ Some sorrows sink. Spreading Well is a sorrow that refused to — because it was
 
 **Classification:** Sorrow Entity — `C-IIIγ-373 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** Spreading Well
-**Containment Status:** Uncontained — the Desolate, near the Scar. The rim is under watch and the network is not containable; what exists instead is a stake line, a reissued map, and a notification arrangement with the districts the channels reach.
+**Containment Status:** Uncontained — the Desolate, near the Scar. The rim is under watch and the network is not containable. What exists instead is a stake line, a reissued map, and a notification arrangement with the districts the channels reach.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It injures nobody and has never been hostile to anything. It is an uncontainable network that delivers identified grief to addresses chosen by nothing the facility can observe, it carries whatever the facility discharges into it, and no channel has ever been withdrawn. The earlier entry grading it Low described a network of merged channels and stopped before the consequence; it is an error and is corrected here.
+**Threat Assessment:** Major (γ). It injures nobody and has never been hostile to anything. It is an uncontainable network that delivers identified grief to addresses chosen by nothing the facility can observe, it carries whatever the facility discharges into it, and no channel has ever been withdrawn.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type and Viderehan holds the gauge level. Earlier copies named Flerehan, which the Behavior table records as unavailable to a Place; that line is an error and is corrected here.
-- It cannot be contained and must not be dammed. Both dam attempts are in the Warden Record; in both the channel reappeared beyond the dam inside a day, and in the second it reappeared in a street.
+- It cannot be contained and must not be dammed. Both dam attempts are in the Warden Record. In both the channel reappeared beyond the dam inside a day, and in the second it reappeared in a street.
 - Map the channels every cycle, in a fresh colour, trace every new end, name what stands at it, and notify the district it lies in before the watch closes.
 **Observation Notes:**
 - Formed from a solitary funerary custom performed separately by a great many Desolate mourners over generations.
@@ -407,9 +405,9 @@ Some sorrows sink. Spreading Well is a sorrow that refused to — because it was
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the uncontainable network, the one-directional delivery, the sluice function and the safety case built on it are a single arrangement, and the last of those is what the districts ask about. Where observation contradicts the record, the record is wrong; write the contradiction down rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the uncontainable network, the one-directional delivery, the sluice function and the safety case built on it are a single arrangement, and the last of those is what the districts ask about. If the sluice behaves differently under load than the safety case allows, the safety case is amended and the observation is not, and the amendment carries the day's figures.
 
-**Review requirement:** Re-verify after any sluice run, Tide, Ordeal or unusual interaction: gauge, seep rate, rim sounding, stake line against every dated line, new ends with what stands at each, the notification log for every district reached, and the standing of the sluice entry in the facility safety case. Earlier stake lines are never removed.
+**Review requirement:** Re-verify after any sluice run, Tide, Ordeal or unusual interaction: gauge, seep rate, rim sounding, stake line against every dated line, new ends with what stands at each, the notification log for every district reached. And the standing of the sluice entry in the facility safety case. Earlier stake lines are never removed.
 ## Warden Record
 
 ### The Channels
@@ -430,7 +428,7 @@ Desolate mourners emptied their tears into the ground deliberately, and the prac
 
 ### Eleven Hundred Ends
 
-The map holds one thousand one hundred and six traced channel ends. The number is not an estimate; each was walked to, dated and photographed, and the map is reissued each cycle with the new ones in a fresh colour.
+The map holds one thousand one hundred and six traced channel ends. The number is not an estimate. Each was walked to, dated and photographed, and the map is reissued each cycle with the new ones in a fresh colour.
 
 Seven hundred and eighty-eight of them end at a site of grief that the district's own memorial register already records — a grave, a marker, a closed house, a place where something finished. That is the correlation the containment's one established finding rests on, and it is as strong as the file says.
 
@@ -452,7 +450,7 @@ The facility's own classification is the hinge. The Well's effect is recorded th
 
 So the arrival is a beneficial transfer, and acceptance is presumed, and **presumed acceptance is acceptance**. There is no want of consent to complain of. There is no trespass, because nothing enters. There is no nuisance, because the recipients, when asked, do not describe the experience as unpleasant — they describe it as somebody else's and say they understand it, which is the benefit, stated back.
 
-The opinion identifies the one way the presumption could be displaced, which is the recipient's refusal. It then records that no mechanism exists by which a refusal could be made, received, or acted on, since the channel cannot be stopped; and that a refusal with no effect is not in law a refusal at all.
+The opinion identifies the one way the presumption could be displaced, which is the recipient's refusal. It then records that no mechanism exists by which a refusal could be made, received, or acted on, since the channel cannot be stopped. And that a refusal with no effect is not in law a refusal at all.
 
 The forty-seven requests are held in a file that has no procedure attached to it. The opinion's closing sentence is the one the district officers quote back: *they have all accepted. We know because none of them was able to decline.*
 
@@ -466,9 +464,9 @@ The consequence of the entry is arithmetical rather than operational. The quarte
 
 The discharge arrives at the ends. The arrival rate rises after a sluice run and the rise is measurable: on the night of the longest run on record, forty-seven of the occupied ends reported an arrival within three days, which is every occupied end that has ever reported anything. The households were not told that anything had been discharged, because there is no finding that a discharge harms them, because the arrival is classified as a benefit, because of the opinion in the section above.
 
-The objection is minuted at the annual safety-case review, raised by the bay's senior Warden and supported by two district officers. It holds that the facility has taken a hazard off its own floor and put it into occupied houses, and has done so lawfully only because its own paperwork calls the result a benefit; that building the measure into the risk figures has converted a last resort into a dependency, so that the staffing and works decisions now rest on continuing to discharge into the district; and that the one group with no voice in the review is the only group the measure actually reaches.
+The objection is minuted at the annual safety-case review, raised by the bay's senior Warden and supported by two district officers. It holds that the facility has taken a hazard off its own floor and put it into occupied houses. And has done so lawfully only because its own paperwork calls the result a benefit. That building the measure into the risk figures has converted a last resort into a dependency. So that the staffing and works decisions now rest on continuing to discharge into the district. And that the one group with no voice in the review is the only group the measure actually reaches.
 
-The minute records the objection as **correct in all three parts**. It records that a notification and standing-refusal register — the households to be told of each run, and a refusal to be recorded and weighed even though it could not be given effect — was drafted in the seventh year, costed at two clerical posts, and has not been laid. And it records the sentence the senior Warden asked to have entered verbatim, which is now the last line of the sluice protocol: *we are not containing it. We are using it to post the overflow to people who cannot say no.*
+The minute rules the objection correct in all three parts and then records the cost of having been right. It records that a notification and standing-refusal register — the households to be told of each run. And a refusal to be recorded and weighed even though it could not be given effect — was drafted in the seventh year, costed at two clerical posts, and has not been laid. And it records the sentence the senior Warden asked to have entered verbatim, which is now the last line of the sluice protocol: *we are not containing it. We are using it to post the overflow to people who cannot say no.*
 
 ## Trivia
 
@@ -481,7 +479,7 @@ The minute records the objection as **correct in all three parts**. It records t
 
 - **Classification detail:** Spreading Well is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is The Desolate, near The Scar.
-- **Recognition detail:** Identify it by the reflectionless water, the uphill run and the sound beneath; Desolate groundwater has a reflection, runs downhill, and is silent.
+- **Recognition detail:** Identify it by the reflectionless water, the uphill run and the sound beneath. Desolate groundwater has a reflection, runs downhill, and is silent.
 - **Record detail:** Read this file beside the channel map series, which is the only continuous record of the entity, and beside the notification log, which is the only part of it written to people outside the facility.
 - **Containment detail:** The stake line marks how far the water has reached and nothing else. It is reset outward only, it has never been reset inward, and it is not and has never been a barrier.
 ## Document Information

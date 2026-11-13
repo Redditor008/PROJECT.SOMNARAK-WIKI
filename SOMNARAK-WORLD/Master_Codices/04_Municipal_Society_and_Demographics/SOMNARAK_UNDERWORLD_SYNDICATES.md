@@ -47,7 +47,7 @@ Rather than being mindless criminal gangs, these syndicates represent an extrale
 +---------------------------------------------------------------------+
 | SYNDICATE NAME   | TERRITORY        | CORE MONOPOLY                 |
 |   | THREAT TIER                                                     |
-| -----------------+------------------+-------------------+---------- |
++------------------+------------------+-------------------+-----------+
 | Menders Guild    | Needle Warrens   | Repair & Husks    | Moderate  |
 | Rust Frays       | The Rust Sump    | Basalt Scavenging | Extreme   |
 | Veil Merchants   | The Mask Market  | Smuggled Baffles  | Severe    |
@@ -303,7 +303,7 @@ Under the Treaty of Broken Needles, any syndicate or rogue operative who violate
 +---------------------------------------------------------------------+
 | SYNDICATE       | MENDERS   | RUST FRAYS| VEIL MERCH| MEMORY W.     |
 |   | DEBT CONC.                                                      |
-| ----------------+-----------+-----------+-----------+-----------+-- |
++-----------------+-----------+-----------+-----------+-----------+---+
 | Menders Guild   | ALLIED    | TENSE WAR | COLD TRADE| HOSTILE       |
 |   | CAUTIOUS                                                        |
 | Rust Frays      | TENSE WAR | ALLIED    | BULK BUYER| NEUTRAL       |

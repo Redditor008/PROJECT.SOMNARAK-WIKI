@@ -22,7 +22,7 @@ The Flower formed from a place that was repeatedly abandoned. The burden of retu
 | Type / Manifestation | Subject — Can breach; mobile growth / Place-Void |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / The Desolate — mobile |
-| Gauge / Pressure | 361/361; starts 35–50% / 8–20 per hit · Weight |
+| Gauge / Pressure | 000/361; starts 000% / 8–20 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground. |
 
@@ -30,8 +30,8 @@ The Flower formed from a place that was repeatedly abandoned. The burden of retu
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the settlement's cycles of return and loss. (Stable) |
 | Ferrehan | Tests whether the worker can stand beneath karmic weight. (Decrease) |
 
@@ -40,7 +40,7 @@ The Flower formed from a place that was repeatedly abandoned. The burden of retu
 
 ## WITNESS RECORD — *The Perennial Source-Trace*
 
-During the The Perennial Source-Trace, the field team preserved this source fact: A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of returning to a location that can no longer return anything to you.
+During *The Perennial Source-Trace*, the field team preserved this source fact: A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of returning to a location that can no longer return anything to you.
 
 ## M.A.W. SET — *Perennial — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Perennial Source-Trace, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Perennial's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stays only the immediate manifestation that violates this rule: Acknowledge the place's history and do not claim it as unchanged The set cannot heal the originating event. Misuse routes Perennial's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-845-A`  
-**Linked Entity:** `SE-845`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

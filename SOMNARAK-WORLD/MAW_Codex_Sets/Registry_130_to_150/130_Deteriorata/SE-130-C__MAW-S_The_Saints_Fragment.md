@@ -88,14 +88,3 @@ Ashford wore the Fragment through a Weight surge near the Saint’s cell. The pl
 The Fragment is the endurance boundary of *Set Down Together*. Maul can split a load and Charm identifies handoff; the suit forces the team to treat survival after the handoff as part of the mission.
 
 > *“Pressure tolerance is not consent to indefinite pressure.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-130-C`  
-**Linked Entity:** `SE-130`  
-**Item Registry Code:** `MAW-S-130-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

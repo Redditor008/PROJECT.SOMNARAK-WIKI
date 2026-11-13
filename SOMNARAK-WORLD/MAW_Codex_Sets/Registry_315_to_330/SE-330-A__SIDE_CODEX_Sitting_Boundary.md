@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Weight |
 | Form | A humanoid of black ice with burning seams, circling the Commons while frozen surfaces replay final departures. |
-| Gauge / Pressure | 35–50% / Weight 8–20 |
+| Gauge / Pressure | 000% / Weight 8–20 |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Completed Circuit |
 
@@ -36,10 +36,10 @@
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Slows and shows the worker’s farewell. | Down | Name the ending without declaring the love foolish. |
-| Pugnahan | Surges and throws frozen Weight. | Up | Never force stillness. |
+| Flerehan | Slows and shows the worker’s farewell. | Decrease | Name the ending without declaring the love foolish. |
+| Pugnahan | Surges and throws frozen Weight. | Increase | Never force stillness. |
 | Viderehan | Shows the event through its surface. | Stable | Separate past departure from current route. |
-| Ferrehan | Keeps moving while testing presence. | Down | Walk the full circuit beside it. |
+| Ferrehan | Keeps moving while testing presence. | Decrease | Walk the full circuit beside it. |
 
 **Resolution:** Allow it to complete its circuit and name the ending.  
 **Breach:** Forced stillness or Gauge ≥60% turns every opening into frozen glass and drives the figure through corridors.  
@@ -53,9 +53,9 @@ An echo forms after a full circuit ends and the witness names the farewell witho
 
 | Piece | Name | Grade | Purpose | File |
 |---|---|---:|---|---|
-| Weapon | The Glazed Mullion-Pike | β | Breaks forced stillness or a frozen opening without striking the farewell image. | `SE-330-B__MAW-W_The_Frozen_Maul.md` |
-| Suit | The Shuttered Window-Plate | β | Absorbs one impact and displays departures it carries. | `SE-330-C__MAW-S_The_Frozen_Pane.md` |
-| Stigma | The Rime-Pane Monocle | β | Identifies the true endpoint of a repeated waiting circuit. | `SE-330-D__MAW-G_The_Frozen_Charm.md` |
+| Weapon | The Glazed Mullion-Pike | β | Breaks forced stillness or a frozen opening without striking the farewell image. | `SE-330-B__MAW-W_The_Glazed_Mullion_Pike.md` |
+| Suit | The Shuttered Window-Plate | β | Absorbs one impact and displays departures it carries. | `SE-330-C__MAW-S_The_Shuttered_Window_Plate.md` |
+| Stigma | The Rime-Pane Monocle | β | Identifies the true endpoint of a repeated waiting circuit. | `SE-330-D__MAW-G_The_Rime_Pane_Monocle.md` |
 
 **Cards:** Maul Weight 5–9, Speed 2, Range 2, Single, maximum 4, 25 Echoes. Pane resistances 1.0 / 1.0 / 1.5 / 0.5, maximum 4, 20 Echoes. Charm Head, 5%, +1 Resolve.
 
@@ -76,13 +76,3 @@ An echo forms after a full circuit ends and the witness names the farewell witho
 ---
 
 **Formal-ID note:** `SE-330` is assigned to Sitting Boundary. Mourner’s Bloom (`C-Iα-330`) remains deferred.
-
----
-
-**Document ID:** `SE-330-A`  
-**Linked Entity:** `SE-330`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

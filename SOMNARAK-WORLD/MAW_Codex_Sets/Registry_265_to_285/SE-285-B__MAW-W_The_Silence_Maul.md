@@ -28,6 +28,10 @@ The Silence Maul is a compact black maul of Han steel with an empty mouth-shaped
 |---|---:|---|---|---:|
 | α / Weight | 3–6 | 2 — Normal / 2 — Short | Single; 100% | 5 / 15 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
 **Dropped Word:** One voluntarily spoken word becomes Weight against a selected obstruction. The Maul cannot extract, interpret, or demand the sentence around it.
 
 **Cost:** Progressive heaviness and slight aging.
@@ -43,14 +47,3 @@ Stigma marks burden, Mantle makes safe quiet, Maul acts only after consent.
 **Maintenance:** Leave the mouth recess empty in a quiet room. Record the word’s operational use without recording private context.
 
 **Shutdown:** Ground the Maul after one word and return choice to the speaker.
-
----
-
-**Document ID:** `SE-285-B`  
-**Linked Entity:** `SE-285`  
-**Item Registry Code:** `MAW-W-285-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

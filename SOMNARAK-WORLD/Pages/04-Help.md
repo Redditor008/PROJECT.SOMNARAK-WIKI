@@ -2,7 +2,7 @@
 
 > *“A Warden who does not read the manual will soon become an entry within it.”*
 
-**Help**  [편집 및 기여 지침]  (_Pyeonjip mit Giyeo Jichim_) serves as the official contributor manual and technical style guide for the [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] encyclopedia.
+**Help**  [편집 및 기여 지침]  (_Pyeonjip mit Giyeo Jichim_) serves as the official contributor manual and technical style guide for the [SOMNARAK-WORLD](../README.md) encyclopedia.
 
 To maintain worldbuilding immersion, architectural elegance, and mechanical rigor, all articles within this wiki must strictly adhere to the Directorate's editorial standards.
 
@@ -80,10 +80,10 @@ To prevent flat, truncated, or stub-like pages, every wiki article should featur
 
 ## 6 Automated Linter Verification Suite
 
-Before committing any changes to git, contributors must execute the repository's three automated linters:
-1. `python3 tools/check_box_symmetry.py`: Verifies 100% geometric border and character width alignment across all ASCII boxes.
-2. `python3 tools/seam_lint.py`: Scans all files to guarantee 0 foreign vocabulary seams.
-3. `python3 tools/timeline_lint.py`: Audits pan-repo files to ensure historical consistency with the Year 4,238 / Cycle 1,778 temporal anchor.
+Three checks run over every page before it is filed:
+1. **Box symmetry** — verifies geometric border and character-width alignment across all framed tables and boxes.
+2. **Seam check** — scans every page to guarantee 0 foreign vocabulary seams.
+3. **Temporal check** — holds every dated line to the Year 4,238 / Cycle 1,778 anchor.
 
 ## 7 Editing Best Practices and Quality Checklists
 

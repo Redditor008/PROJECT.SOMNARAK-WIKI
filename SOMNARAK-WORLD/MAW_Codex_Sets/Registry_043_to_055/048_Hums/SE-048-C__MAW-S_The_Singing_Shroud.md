@@ -39,12 +39,3 @@ The Shroud lets the wearer retain a steady action rhythm inside low-to-medium La
 ### History Record
 
 A Singing Shroud bearer coordinated an Echo Gardens memorial during a Stone activation. The bearer maintained the rhythm for everyone present, then spent the next day unable to tolerate music of any kind.
-
-**Document ID:** `SE-048-C`  
-**Linked Entity:** `SE-048`  
-**Item Registry Code:** `MAW-S-048-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

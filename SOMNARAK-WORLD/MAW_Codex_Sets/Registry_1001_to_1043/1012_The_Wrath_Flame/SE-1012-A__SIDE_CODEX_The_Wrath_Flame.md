@@ -19,10 +19,10 @@ The Flame formed from the rage of the six factions that fought in the Occlusihan
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIIβ-120 [GS] |
-| Type / Manifestation | Subject — Can breach / Subject-Body |
+| Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Body |
 | Coherence / Potency | Fragment (III) — Fierce and protective / Moderate (β) — Manageable |
 | Element / Location | Grudge / The Desolate, near The Scar |
-| Gauge / Pressure | 435/435; starts 35–50% / 10–23 per hit · Grudge |
+| Gauge / Pressure | 000/435; starts 000% / 10–23 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire. |
 
@@ -38,9 +38,9 @@ The Flame formed from the rage of the six factions that fought in the Occlusihan
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Bow or salute; acknowledge the war and the dead
 
-## WITNESS RECORD — *The The Wrath Flame Source-Trace*
+## WITNESS RECORD — *The Wrath Flame Source-Trace*
 
-During the The The Wrath Flame Source-Trace, the field team preserved this source fact: The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Fury at a war that consumed lives and left its reason behind.
+During *The Wrath Flame Source-Trace*, the field team preserved this source fact: The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Fury at a war that consumed lives and left its reason behind.
 
 ## M.A.W. SET — *The Wrath Flame — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The The Wrath Flame Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Wrath Flame's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Bow or salute; acknowledge the war and the dead The set cannot heal the originating event. Misuse routes The Wrath Flame's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1012-A`  
-**Linked Entity:** `SE-1012`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

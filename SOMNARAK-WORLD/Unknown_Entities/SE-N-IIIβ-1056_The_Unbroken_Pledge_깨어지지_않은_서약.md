@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 480/480 |
 | **Han-Energy yield** | 8–12 Han-Energy per oath reconciliation cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 |
+| **Work Damage** | 2–4 Lament — the cost is the roster: veterans, retirees and disgraced wardens are the ones it targets |
 | **Activation threshold** | Contemplating betrayal or abandonment of oath |
 | **Tool / M.A.W. grade** | Grade β |
 | **Vessel-Destructible** | Yes |
@@ -61,11 +62,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Throat Constriction* [**Debuff**] } | "The red silk tightens, choking words into silence." | [Tightens around the bonded bearer's neck, squeezing the larynx.] | *Target silenced for 2 turns; loses 10 Composure.* **[10 Pale DMG]** | When target attempts a panic retreat. |
-| { *The Phantom Bit* [**Attack**] } | "The split copper coin bites into the tongue." | [Discharges a psychic shock of metallic copper taste and remembered oaths.] | *Inflicts 14-18 Lament damage and -20% accuracy.* **[14-18 Blue DMG]** | When target violates formation spacing. |
+| { *Throat Constriction* [**Debuff**] } | "The red silk tightens, choking words into silence." | [Tightens around the bonded bearer's neck, squeezing the larynx.] | *Target silenced for 2 turns; loses 10 Composure.* **[10 WHITE DMG]** | When target attempts a panic retreat. |
+| { *The Phantom Bit* [**Attack**] } | "The split copper coin bites into the tongue." | [Discharges a psychic shock of metallic copper taste and remembered oaths.] | *Inflicts 14-18 Lament damage and -20% accuracy.* **[14-18 WHITE DMG]** | When target violates formation spacing. |
 | { *Unvoiced Partner* [**Summon**] } | "A shadow in a battered trench-cloak stands at the shoulder." | [Projects a spectral phantom of the fallen comrade.] | *Absorbs 1 incoming strike for the host; increases host Sorrow Gauge by 5%.* **[Support]** | When host HP drops below 30%. |
-| { *Weight of Survival* [**Debuff**] } | "Why did you come back when they stayed behind?" | [Transfers crushing survivor's guilt directly into the target's posture.] | *Reduces target movement speed by 40% and deals 12 Weight damage.* **[12 Weight DMG]** | At engagement round 3. |
-| { *The Final Knot* [**Ultimate**] } | "The braid completes its loop: two graves from one promise." | [Tightens the red silk braid completely, pulling the bonded bearer to the floor.] | *Deals 26-36 Lament damage; stuns target for 1 turn.* **[26-36 Blue DMG]** | When Sorrow Gauge reaches 85%. |
+| { *Weight of Survival* [**Debuff**] } | "Why did you come back when they stayed behind?" | [Transfers crushing survivor's guilt directly into the target's posture.] | *Reduces target movement speed by 40% and deals 12 Weight damage.* **[12 BLACK DMG]** | At engagement round 3. |
+| { *The Final Knot* [**Ultimate**] } | "The braid completes its loop: two graves from one promise." | [Tightens the red silk braid completely, pulling the bonded bearer to the floor.] | *Deals 26-36 Lament damage; stuns target for 1 turn.* **[26-36 WHITE DMG]** | When Sorrow Gauge reaches 85%. |
 
 ## Comprehension Levels
 
@@ -99,7 +100,7 @@ The Surviving Half and Quartermaster's Collar are worked from released cords, no
 
 1. **Oath Recitation:** When the entity begins tightening, the host must recite the three foundational tenets of their original pact.
 2. **Coin Burial and Registration:** Bury the surviving half-coin in the Cemetery of the First Dawn under official witness and have the partner's name entered in its register. Burial alone is not the demonstrated release: the third cord remained taut until the witness wrote the name. Confirm slackening rather than assuming it when the coin enters the ground.
-3. **Mnemonic Discharge:** Wardens must never attempt to cut the silk threads with ordinary steel blades; doing so causes the severed fibers to burrow deeper into the host's pulmonary tissue.
+3. **Mnemonic Discharge:** Wardens must never attempt to cut the silk threads with ordinary steel blades. Doing so causes the severed fibers to burrow deeper into the host's pulmonary tissue.
 
 Management: have the bearer say the partner's full name and the pact's three tenets aloud at the morning round, inside the first three turns, and never cut, hurry or force the cord.
 
@@ -116,14 +117,14 @@ Management: have the bearer say the partner's full name and the pact's three ten
 |---|---|
 | **Event Type** | Constriction in place on the bonded bearer. The cord does not leave its host and has never been recorded further than the length of its own braid from their right shoulder. |
 | **Movement** | Glides with the bearer at walking pace, 1.2 m/s, with two metres of braid trailing over the right shoulder. It has no motion of its own when the bearer sits down. |
-| **Effect** | A ridge of red silk across the throat for every turn of the braid, countable from the collar to the jaw. The voice thins to a rasp at the fourth turn and is gone at the sixth; the ninth draws the coin end taut and the bearer loses consciousness. |
+| **Effect** | A ridge of red silk across the throat for every turn of the braid, countable from the collar to the jaw. The voice thins to a rasp at the fourth turn and is gone at the sixth. The ninth draws the coin end taut and the bearer loses consciousness. |
 | **First Target** | The bearer's own throat and nothing else. Ward staff have held a bearer's wrists inside the braid's reach on 27 occasions and none has been marked. |
-| **Escalation** | One turn a day for a bearer who skips the morning recitation, up to a ceiling of three to five turns that is different for every bearer; six turns inside a minute for a bearer who decides to leave the oath behind. The voice is the cure and the cord takes it first, so the working window is the first three turns. |
+| **Escalation** | One turn a day for a bearer who skips the morning recitation, up to a ceiling of three to five turns that is different for every bearer. Six turns inside a minute for a bearer who decides to leave the oath behind. The voice is the cure and the cord takes it first, so the working window is the first three turns. |
 
 ### Escalation Notes
 
-- The cord takes the voice before anything else, which is why the ward drills in turns and not in minutes. Past the third turn a bearer cannot carry the recitation unaided; the ward sister reads the pact's three tenets aloud and the bearer mouths them, and that has loosened the cord four times in six attempts.
-- A cut has been tried once. In Year 4,236 a bearer opened his collar with a razor; the ends withdrew into his chest, he has breathed with a wheeze since, and he has not spoken. His is the one cord on the book that cannot be loosened by the method that works, because the method needs the voice he no longer has.
+- The cord takes the voice before anything else, which is why the ward drills in turns and not in minutes. Past the third turn a bearer cannot carry the recitation unaided. The ward sister reads the pact's three tenets aloud and the bearer mouths them, and that has loosened the cord four times in six attempts.
+- A cut has been tried once. In Year 4,236 a bearer opened his collar with a razor. The ends withdrew into his chest, he has breathed with a wheeze since, and he has not spoken. His is the one cord on the book that cannot be loosened by the method that works, because the method needs the voice he no longer has.
 - The coin end has never been seen to move on its own. Every report of a cord reaching for a second person traces back to the bearer's own hand rising toward the collar with the braid following it.
 
 ## M.A.W. Equipment
@@ -140,15 +141,25 @@ Management: have the bearer say the partner's full name and the pact's three ten
 
 **Cost:** The wielder cannot break a promise. Every spoken undertaking, down to "back in a minute," binds until it is kept, and a wielder who cannot keep one feels the lash take a turn round their own throat. Two wielders have been stood down for it; one had told a comrade he would come back for him.
 
-### M.A.W. Armor — The Quartermaster's Collar
+### M.A.W. Suit — The Quartermaster's Collar
 
-**Type:** Armor | **Grade:** β | **Element:** Void
+**Type:** Suit | **Grade:** β | **Element:** Void
 
 **Appearance:** a stiff standing collar of red silk and copper thread, cut to close at the right shoulder where the cord hangs, and warm along the seam.
 
 **Ability:** The throat cannot be closed from outside. Garrotte, grip and gas slide off it, and the wearer keeps a full voice through the first three turns of any constriction instead of dropping to a rasp.
 
 **Cost:** Everything the wearer eats tastes of tarnished copper for the length of the assignment and four days after. The three wearers on file ate less on each day they wore it, and the one who kept it on for nineteen days lost six kilograms.
+
+### M.A.W. Stigma — The Slack Cord
+
+**Type:** Stigma | **Grade:** β | **Element:** Lament
+
+**Appearance:** the third cord, unworked, kept in the ward safe and issued as a wrist-wrap. Red silk, no copper in it at all, and visibly slack from the grave it came out of.
+
+**Ability:** An undertaking made while wearing it cannot be released by anybody else. No order, no discharge and no death notice absolves the wearer. The cord goes taut only when the thing is done, and the ward checks it at every relief by pulling.
+
+**Cost:** It does not come off the wearer's own hand. The only recorded removal was cut, at the wrist of a man who had been dead four days, and the cord was taut.
 
 ### M.A.W. Use Notes
 
@@ -159,10 +170,10 @@ Management: have the bearer say the partner's full name and the pact's three ten
 | **At limit** | The wielder is heard promising something they plainly cannot deliver. Both stand-downs began that way, and in both the ward sister already had the wielder's words written down. |
 | **After use** | The piece goes back at the ward, not the Armoury counter, and the wielder says aloud the name of whoever they last promised before it is taken from them. |
 
-### M.A.W. Cross-Source Review — Batch 113
+### M.A.W. Cross-Source Review
 
 - **Recorded structures:** This primary contains a Weapon and an `M.A.W. Armor` entry, followed by Use Notes; it has no Suit heading, Stigma section, or Field Use Record. The introductory note says a third of three cords remains unworked, but it does not identify another equipment item.
-- **Repository-wide identity search:** Before this note was added, a whole-repository search found the exact item names only in this primary; no linked Side A–D set, item Appearance record, Master Registry entry, Master M.A.W. entry, or Weapon archetype existed. No pre-existing file contained an abbreviated `SE-1056` assignment or any `MAW-W-1056`, `MAW-S-1056`, or `MAW-G-1056` item code; this note preserves that negative result.
+- **Repository-wide identity search:** Before this note was added, a whole-repository search found the exact item names only in this primary. No linked Side A–D set, item Appearance record, Master Registry entry, Master M.A.W. entry, or Weapon archetype existed. No pre-existing file contained an abbreviated `SE-1056` assignment or any `MAW-W-1056`, `MAW-S-1056`, or `MAW-G-1056` item code; this note preserves that negative result.
 - **Appearance and pair boundary:** The primary's two-metre red silk/copper lash with a half-coin and standing red-silk/copper-thread collar remain the only source-backed appearances. No exact linked Weapon pair exists, and the third-cord note does not establish a missing Stigma or Weapon-only pair.
 
 ## 관찰 기록 (Observation Log)
@@ -170,15 +181,15 @@ Management: have the bearer say the partner's full name and the pact's three ten
 | Stage | What is recorded |
 |---|---|
 | **Initial exposure** | A red ridge across a veteran's throat for every turn of the braid, and a smell of tarnished copper in the room before anyone has asked a question. Identification is the ridge count: nothing else on the Zone D sanatorium wards raises welts in a line. |
-| **Sustained observation** | The turn book has run since Year 4,236 and holds fourteen bearers. A bearer who recites at the morning round rests at one or two turns; a bearer who skips it climbs about a turn a night toward a ceiling of their own. The turn book records one-turn release and no second recitation taken inside six hours; this is not a universal release count. The counselor's separate account records Min-Seok falling from five turns to two during his fourth, exact-word recitation after three failed summaries. Do not promise that any utterance will remove exactly one turn. |
+| **Sustained observation** | The turn book has run since Year 4,236 and holds fourteen bearers. A bearer who recites at the morning round rests at one or two turns. A bearer who skips it climbs about a turn a night toward a ceiling of their own. The turn book records one-turn release and no second recitation taken inside six hours; this is not a universal release count. The counselor's separate account records Min-Seok falling from five turns to two during his fourth, exact-word recitation after three failed summaries. Do not promise that any utterance will remove exactly one turn. |
 | **Activation or escalation** | A bearer who decides to leave the oath behind goes from rest to six turns inside a minute. Two bearers have reached nine, both on the night they said they would stop saying the name. Both were revived, and neither has threatened it since. |
-| **Post-contact review** | Of the fourteen on the book, three are discharged slack after a witnessed burial, seven hold at one or two turns on daily recitation, three rest at four or five because their partner's service cannot be confirmed, and one cut his cord and cannot be treated. The ward sister's reading is that the cord asks one question only: whether the bearer has said the name today. |
+| **Post-contact review** | Of the fourteen on the book, three are discharged slack after a witnessed burial, seven hold at one or two turns on daily recitation, three rest at four or five because their partner's service cannot be confirmed. And one cut his cord and cannot be treated. The ward sister's reading is that the cord asks one question only: whether the bearer has said the name today. |
 
 **Observation method:** Count the ridges, not the complaint. In thirty-one paired checks the bearer's own count was lower than the ward sister's on twenty-four, because a person who has lived with the braid for years stops feeling the first three turns. She reads the throat at the morning round, before the bearer has spoken, and enters the number before she has heard a word.
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-**Entry 1 — Ward Notice** In this ward the cord is a medical matter and in the Cemetery of the First Dawn it is a legal one: the Collector Bureau carries every cord on the bearer's ledger as Broken Vow Debt, and the ward has no standing to contest the entry. No bearer is discharged above two turns, no cord is cut, and the morning round is not moved for visitors.
+**Entry 1 — Ward Notice** In this ward the cord is a medical matter and in the Cemetery of the First Dawn it is a legal one: the Collector Bureau carries every cord on the bearer's ledger as Broken Vow Debt. And the ward has no standing to contest the entry. No bearer is discharged above two turns, no cord is cut, and the morning round is not moved for visitors.
 
 **Entry 2 — Ward Sister's Log** Year 4,236, the first cord on the book. Sister Sun-Hee wrote down the turn count and, beneath it, that the scout had apologised in his sleep to someone called Bong-Gil for three nights running. She had counted the ridges before she learned the name, and she says the order matters: the name was the part nobody had thought to ask for.
 
@@ -186,7 +197,16 @@ Management: have the bearer say the partner's full name and the pact's three ten
 
 **Entry 4 — Office Reply** Year 4,238. The Office that keeps the muster rolls was asked to confirm the service of the partners of three bearers and returned the same form of words on all three: *service cannot be confirmed*. It is not a refusal and it is not a denial, and the ward does not treat it as leave. A spoken name that proves to be on the sealed schedule must be notified to the Office under the Year 4164 security instrument, and a notice naming a partner is itself a query the Office cannot answer. The ward has filed none.
 
-**Entry 5 — Cemetery Witness Report** Year 4,238, the third burial. The half-coin went into the plot at twenty past eleven and the braid stayed taut, which no one on the ward had expected. It went slack at eleven forty-two, when Witness Gwang-Su wrote the name into the register of the Cemetery of the First Dawn; the book had been left at the lodge by the far gate and took twenty-two minutes to bring. The ward had treated the burial as the cure for two years. The cure is the entry: the oath was to bring a name back to the city, and the city has no name until a witness writes it.
+**Entry 5 — Cemetery Witness Report** Year 4,238, the third burial. The half-coin went into the plot at twenty past eleven and the braid stayed taut, which no one on the ward had expected. It went slack at eleven forty-two, when Witness Gwang-Su wrote the name into the register of the Cemetery of the First Dawn. The book had been left at the lodge by the far gate and took twenty-two minutes to bring. The ward had treated the burial as the cure for two years. The cure is the entry: the oath was to bring a name back to the city, and the city has no name until a witness writes it.
+
+## 최종 관찰 (Final Observation)
+
+> The choice at the end of a session is about the partner who is not in the room: the bearer either keeps the vow in the form the dead man would recognise, or takes the easier reading and calls the debt settled, and the cord knows which one was chosen before the bearer does.
+
+| Keep the vow: name the partner, keep the morning recitation, and refuse the order that would have abandoned him. | Settle the debt by declaration — say the oath is discharged, and take the posting that makes the saying true. |
+|---|---|
+| The cord goes slack at the collar, the hum starts on the second line of the recitation, and Posture recovers while it sounds. | The cord tightens until the windpipe closes, and the ward has to open it by hand. |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -194,9 +214,59 @@ Management: have the bearer say the partner's full name and the pact's three ten
 
 **With continued exposure:** You start checking collars. Ward staff swallow before they enter the room, and several have stopped eating bread in the ward hall without thinking of someone they owe.
 
-**When the entity activates:** There is no sound. The braid takes its first turn and the bearer's sentence stops with the mouth still shaped for the next word; by the second turn the ridge is the colour of an old coin.
+**When the entity activates:** There is no sound. The braid takes its first turn and the bearer's sentence stops with the mouth still shaped for the next word. By the second turn the ridge is the colour of an old coin.
 
 **After departure:** A flat green taste at the back of the tongue for about a day. Six of the nine counselors asked said it came with a name they had not thought of in years.
+
+## 이야기 (Narratio) — The Tale
+
+> **Filed by:** the Veterans' Office, Zone D — Year 4,238, third reconciliation of the Memorial Roll
+
+The first of them was a woman who had outlived her partner by nineteen years, and who came to the Quarters every spring to sign a form that said she had not forgotten him. The clerk at the desk knew her. The clerk signed the form. Then the clerk, being new, asked her what she owed a dead man.
+
+She did not answer, and the room hummed.
+
+The Unbroken Pledge does not come to the young and it does not come to the bereaved who have made their peace with it. It comes to the ones who outlived a vow — the veteran whose partner did not come back from the Pass, the warden who was transferred the week before the collapse, the survivor who has kept the promise and cannot say why. It settles on them the way a cord settles on a neck, and from then on it keeps the account.
+
+When the operative does the thing the oath asked for, the cord hums, and the hum is the kindest sound in Zone D — it steadies a hand that has begun to shake, and the roll records the Posture and moves on. When the operative turns away, or denies the partner's death to a room that already knows, the cord draws tight without a sound and does not let go until the room has finished with the body.
+
+The Office has tried, twice, to have the entity struck from the Roll. Both clerks who raised the motion are listed, in the next year's column, as having died at their desks.
+
+## 증언 (Testimonium) — The Testimony
+
+> *“It does not want an apology. It wants the name said in the morning, the way he used to say it.”* — Ward Sister, Cemetery of the First Dawn
+
+> *“I kept the recitation for eleven years and the cord never once rose above my collar.”* — Bearer, Veteran Quarters
+
+> *“The men it takes are not cowards. They are the ones who came home and could not say why.”* — Cadre Interviewer, R.D.
+
+> *“Half a coin each, bitten by the one who kept it. That is how they made a promise that could not be spent.”* — Keeper, Archive
+
+> *“When the hum starts, stop talking and listen to the second line. It is the only time it sounds pleased.”* — Containment Lead, R.D.
+
+## 기록 (Registrum) — The Record
+
+**Classification:** Sorrow Entity — `N-IIIβ-1056 [LO]` · Inner Sorrow origin · Fragment (III) coherence · Moderate (β) potency · Lament / Void · Subject manifestation
+**Common Name:** The Unbroken Pledge
+**Containment Status:** Held — Veteran Quarters, Ward of the First Dawn, Zone D
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Moderate (β) by mechanism rather than by reach: it selects from a population the city has already set aside, and it kills by closing a windpipe it has spent fourteen years holding open.
+**Containment & Handling Procedures:**
+- Flerehan and Ferrehan only. Pugnahan constricts the cord fatally and is not authorised, and no session has ever been written up as a Pugnahan success.
+- Every bearer is measured against the bell-rope on intake. The cords are all two metres and none has been found longer or shorter.
+- Nothing is done to the cord. The ward works around it, at the collar, under its reach, and the wrists are held inside that reach by staff rather than by the bearer.
+**Observation Notes:**
+- The register of the Cemetery of the First Dawn and the ward turn book are the two documents this dossier stands on, and neither is an entity.
+- The hum that honourable conduct draws out of the cord has been heard four times on the ward, and each time it began on the second line of a morning recitation.
+**Cross-References:** Inner Sorrow, Zone D. Filed beside the [Forgotten Soldier](../Sorrow_Entities/SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) and [Broken Promise](../Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) by shared subject rather than by observed contact; the pairings are recorded in the Entity Interaction Record and no second holding is ever brought to a bearer.
+**Faction Involvement:** R.D. Psychological Containment Cadre · Cemetery of the First Dawn
+**Originator:** The surviving partner of a sworn pair, named in the cemetery register and not in this file.
+
+### Registry Addendum
+
+**Operational interpretation:** Read this as a ward record about survivors, not as a hazard about a cord. Every name on the book came home and could not say why, and the holding is the shape that failure left behind.
+
+**Review requirement:** Re-verify after any death in the bearer population, after any change to the ward's recitation schedule, and after any session in which a bearer asked to be released from the vow — the last whether or not the cord moved.
 
 ## Trivia
 
@@ -209,14 +279,17 @@ Management: have the bearer say the partner's full name and the pact's three ten
 
 | Related entity | What it is | What happened | Where it is filed |
 |---|---|---|---|
-| **Forgotten Soldier** | A Zone B holding whose whole condition is a name the city may not say: struck from the public rolls under the Year 4164 security instrument, one of 3,100 on the sealed schedule. | Never in contact; no bearer has entered corridor 7-C. The link is a form of words. The Office told the Soldier's family *service cannot be confirmed* and told this ward the same on all three of its unconfirmable cases. The ward reads that as a possible schedule entry, has not asked the three bearers to speak, and has filed no notice. | The three replies, in the ward safe beside the unworked third cord. |
-| **Broken Promise** | A relic of shattered red Han-crystal held at Collector's Row, activated by a promise spoken while touching a shard. | Not tested and not to be. A bearer's oath spoken on a shard would put a promise that cannot stop breaking against a cord that is waiting to be kept. Counselor Dae-Ho's ruling is that no bearer goes near the shard, on the strength of a projection nobody has tried to test. | The ruling, filed with the turn book. |
+| [**Forgotten Soldier**](../Sorrow_Entities/SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) | A Zone B holding whose whole condition is a name the city may not say: struck from the public rolls under the Year 4164 security instrument, one of 3,100 on the sealed schedule. | Never in contact; no bearer has entered corridor 7-C. The link is a form of words. The Office told the Soldier's family *service cannot be confirmed* and told this ward the same on all three of its unconfirmable cases. The ward reads that as a possible schedule entry, has not asked the three bearers to speak, and has filed no notice. | The three replies, in the ward safe beside the unworked third cord. |
+| [**Broken Promise**](../Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) | A relic of shattered red Han-crystal held at Collector's Row, activated by a promise spoken while touching a shard. | Not tested and not to be. A bearer's oath spoken on a shard would put a promise that cannot stop breaking against a cord that is waiting to be kept. Counselor Dae-Ho's ruling is that no bearer goes near the shard, on the strength of a projection nobody has tried to test. | The ruling, filed with the turn book. |
 
 The register of the Cemetery of the First Dawn and the ward turn book are the two documents this dossier stands on, and neither is an entity. The register holds three names the city did not have before the burials; the turn book holds fourteen cords. The register is the only part of this record that the city itself keeps.
 
 **Interaction procedure:** None is arranged. No second holding is brought to a bearer. Once a quarter the ward sister reads the Office's replies against the turn book, and that is the whole of the procedure.
 
 ---
+
+
+## Document Information
 
 **Document ID:** `SE-N-IIIβ-1056`
 **Classification:** Inner Sorrow Anomaly Dossier

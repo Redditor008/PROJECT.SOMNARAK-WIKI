@@ -27,9 +27,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | High-Altitude Acoustic Hazard |
 | **Primary pressure** | Auditory Rupture / Void Composure Shred |
-| **Starting Sorrow Gauge** | 740/740 |
+| **Starting Sorrow Gauge** | 750/750 |
 | **Han-Energy yield** | 15–20 Han-Energy per acoustic harmonic dampening |
 | **Work difficulty** | High · R.D. Comprehension Level 3 |
+| **Work Damage** | 4–7 Lament — the cost is acoustic: the Peaks answer the work back, and the roost moves with the answer |
 | **Activation threshold** | Wind shear exceeding 40 knots |
 | **Tool / M.A.W. grade** | Grade γ |
 | **Vessel-Destructible** | Yes |
@@ -40,7 +41,7 @@
 
 - The Singing Needle roosts on the razor-sharp ridges of the Crystal Peaks, acting as a natural acoustic amplifier for northern mountain winds.
 - Hearing its song without sound-deadening cranial seals induces instant tympanic rupture, followed by rapid Composure hemorrhage and spatial disorientation.
-- Heavy blunt impact is projected to shatter its crystal harmonic alignment from tests on fragments. No maul has reached the base node and no such strike has been tried on the spire; this is not established whole-body vulnerability or permission to approach it.
+- Heavy blunt impact is projected to shatter its crystal harmonic alignment from tests on fragments. No maul has reached the base node and no such strike has been tried on the spire. This is not established whole-body vulnerability or permission to approach it.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,8 +53,8 @@
 | **Speed** | 1.8 m/s |
 | **Resistance** | 70% against Void; 50% against Lament; 30% against Weight; Weak to Grudge (0% resistance) |
 | **Activation threshold** | Operatives entering within 100 meters |
-| **Sorrow Gauge [HP]** | 740 / 740 |
-| **Han Pressure [ATK]** | 20–35 per burst · Void (Acoustic piercing) |
+| **Sorrow Gauge [HP]** | 750 / 750 |
+| **Han Pressure [ATK]** | 30–45 per burst · Void (Acoustic piercing) |
 | **Coherence modifier** | IV — Complex acoustic synchronization |
 | **Potency modifier** | γ — Deadly to unarmored personnel |
 
@@ -61,11 +62,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Soprano Shear* [**Attack**] } | "A crystalline whistle splits the gale, piercing ear-canals and stone alike." | [Directs a focused acoustic needle-lance through the primary target.] | *Deals 18-26 Void skewer damage; inflicts Deafened for 3 turns.* **[18-26 Pale DMG]** | When target enters 20m perimeter. |
-| { *Bedrock Cleave* [**AoE**] } | "The spire bores downward, splitting the cliff face beneath advancing boots." | [Drives its base into the rock, triggering an acoustic seismic rift.] | *Creates difficult terrain; deals 14 Weight damage and causes trip.* **[14 Weight DMG]** | When flanked by two or more melee operatives. |
-| { *Needle Flurry* [**Barrage**] } | "A halo of singing glass slivers descends like an inverted blizzard." | [Launches dozens of spinning acoustic shards across the engagement lane.] | *All targets take 12-16 Lament damage; reduces Posture by 25%.* **[12-16 Blue DMG]** | At engagement round 2. |
-| { *Counter-Phase Scream* [**Disruption**] } | "The pitch inverts, canceling out spoken commands and breath." | [Emits an ultrasonic shockwave that disrupts atmospheric pressure.] | *Silences squad communication for 2 turns; drains 15 Composure.* **[15 Pale DMG]** | When Sorrow Gauge reaches 60%. |
-| { *Harmonic Null* [**Ultimate**] } | "The entire mountain wall vibrates in unison until stone turns to flour." | [Synchronizes with local mountain ley-resonance to release a massive blast.] | *Deals 32-44 Void AoE damage to all targets within 30 meters.* **[32-44 Pale DMG]** | When Sorrow Gauge reaches 90%. |
+| { *Soprano Shear* [**Attack**] } | "A crystalline whistle splits the gale, piercing ear-canals and stone alike." | [Directs a focused acoustic needle-lance through the primary target.] | *Deals 18-26 Void skewer damage; inflicts Deafened for 3 turns.* **[18-26 PALE DMG]** | When target enters 20m perimeter. |
+| { *Bedrock Cleave* [**AoE**] } | "The spire bores downward, splitting the cliff face beneath advancing boots." | [Drives its base into the rock, triggering an acoustic seismic rift.] | *Creates difficult terrain; deals 14 Weight damage and causes trip.* **[14 BLACK DMG]** | When flanked by two or more melee operatives. |
+| { *Needle Flurry* [**Barrage**] } | "A halo of singing glass slivers descends like an inverted blizzard." | [Launches dozens of spinning acoustic shards across the engagement lane.] | *All targets take 12-16 Lament damage; reduces Posture by 25%.* **[12-16 WHITE DMG]** | At engagement round 2. |
+| { *Counter-Phase Scream* [**Disruption**] } | "The pitch inverts, canceling out spoken commands and breath." | [Emits an ultrasonic shockwave that disrupts atmospheric pressure.] | *Silences squad communication for 2 turns; drains 15 Composure.* **[15 PALE DMG]** | When Sorrow Gauge reaches 60%. |
+| { *Harmonic Null* [**Ultimate**] } | "The entire mountain wall vibrates in unison until stone turns to flour." | [Synchronizes with local mountain ley-resonance to release a massive blast.] | *Deals 32-44 Void AoE damage to all targets within 30 meters.* **[32-44 PALE DMG]** | When Sorrow Gauge reaches 90%. |
 
 ## Comprehension Levels
 
@@ -80,7 +81,7 @@ Acoustic dampening tests demonstrate that when an operative sings an inverted co
 
 ## Appearance — Spire, Halo and Acoustic Event
 
-The blue-white faceted column is the body that shears into the ridge. Its rotating apex halo is an acoustic needle arrangement, explicitly without a fixed form available for extraction; it is not a second walking creature or a detachable conventional crown. Hovering describes the needles, while the observed spire bores and surfaces within the Crystal Peaks. No airborne transit beyond the ridge is documented.
+The blue-white faceted column is the body that shears into the ridge. Its rotating apex halo is an acoustic needle arrangement, explicitly without a fixed form available for extraction. It is not a second walking creature or a detachable conventional crown. Hovering describes the needles, while the observed spire bores and surfaces within the Crystal Peaks. No airborne transit beyond the ridge is documented.
 
 The splitting crust in the formation account explains the tuning-spire manifestation without a human throat or humanoid precursor. Wind collapse, molar vibration, stalled cups and diaphragm damage identify its song; sound and those consequences do not require a newly transformed body. Record visible column and halo separately from instrument readings. Wind-driven activation and approach distance are different logged conditions, not evidence of two different spires.
 
@@ -97,7 +98,7 @@ The Inverse Fork and Shear Mantle are worked from shed base crystal. Unequal mau
 
 1. **Acoustic Deadening:** Operatives patrolling the Crystal Passes must wear pressurized brass helm baffles insulated with grease and compressed sheep wool.
 2. **Frequency Disruption:** If the needle begins its harmonic crescendo, wardens must fire blank concussive mortars into adjacent rock walls to create discordant reverberations, shattering the needle's acoustic resonance loop.
-3. **Bludgeon Impact Neutralization — Untried Proposal:** The base crystal node is the proposed target for heavy pneumatic breakers or mauls, not a demonstrated safe engagement. The field return below records the inaccessible climb and kit burden; retain the ridge-crossing limits rather than treating fragment tests as a successful attack on the spire.
+3. **Bludgeon Impact Neutralization — Untried Proposal:** The base crystal node is the proposed target for heavy pneumatic breakers or mauls, not a demonstrated safe engagement. The field return below records the inaccessible climb and kit burden. Retain the ridge-crossing limits rather than treating fragment tests as a successful attack on the spire.
 
 Management: cross the northern ridge only below 40 knots, under baffled helms and beyond 100 metres of the ridge line, and the moment the anemometer cups stop, sing one syllable on the note that quiets the molars.
 
@@ -125,9 +126,16 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 - The pass stays open because the Architects' raw-crystal requisitions need it. The division asked the Council twice, in Year 4,236 and Year 4,237, to close the ridge to prospecting above 4,000 metres, and both requests were refused. The cost is carried in the picket budget: 23 diaphragms, 40 spares in the lower-gate store, and three pickets with every prospecting party.
 - No maul has been brought to the base node. It sits a day's climb above the last flat ground and the pneumatic kit weighs 140 kg. The note that blunt impact shatters its alignment is projected from crystal fragments and has not been tried on the spire.
 
+### Consequences
+
+- The pass stays open because the Architects' raw-crystal requisitions need it. The division asked the Council twice, in Year 4,236 and Year 4,237, and was refused twice. The road is a Directorate posture, not a wing decision, and every song costs the pass another set of picket posts.
+- The wind over the ridge stops while it sings, and anything with a lung inside a hundred metres is turned to liquid marrow without a mark on the skin. The transect is surveyed after each song rather than patrolled, and the survey is entered against the Crystal Peaks' standing allocation.
+- The counter-phase note is not a cure: sixteen attempts since the Year 4,237 drill, thirteen sheds, and the three failures are the reason the drill is repeated at the district's expense every year.
+- No maul has been brought to the base node. It sits a day's climb above the last flat ground and the pneumatic kit weighs 140 kg, so the whole of the containment is a note that blunt force was never attempted — and the district carries that absence as a decision.
+
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** Grade γ. Extraction is taken from the resonance crystal the Needle sheds at its base as it bores, never from the needle halo, which has no fixed form to cut. Two pieces have been worked from 61 kg of shed crystal.
+> **Materialized Agony Wear (M.A.W.):** Grade γ. Extraction is taken from the resonance crystal the Needle sheds at its base as it bores, never from the needle halo, which has no fixed form to cut. Three pieces have been worked from 61 kg of shed crystal — the third from the sweepings under the bore, which is where the note is.
 
 ### M.A.W. Weapon — The Inverse Fork
 
@@ -137,17 +145,27 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 
 **Ability:** Void against the Body. A struck target rings at the inverse of the nearest sound and cancels it: for three turns its voice, footsteps and breath fall silent. Five strikes are logged, and all five targets went silent for exactly three turns.
 
-**Cost:** The wielder loses the pitch of their own voice. Speech goes flat for hours after use, and singers lose their ear; the one surveyor who carried it through a full season has not held a note since.
+**Cost:** The wielder loses the pitch of their own voice. Speech goes flat for hours after use, and singers lose their ear. The one surveyor who carried it through a full season has not held a note since.
 
-### M.A.W. Armor — The Shear Mantle
+### M.A.W. Suit — The Shear Mantle
 
-**Type:** Armor | **Grade:** γ | **Element:** Lament
+**Type:** Suit | **Grade:** γ | **Element:** Lament
 
 **Appearance:** a mantle of overlapping crystal scales no longer than a thumb, each pitched a little differently, that chimes whenever wind crosses it.
 
 **Ability:** The wearer cannot be deafened. Above 40 knots the mantle takes up the counter-phase note by itself, and the pickets have seen needle shards fall a body's length short of a wearer who never opened their mouth.
 
 **Cost:** The mantle never stops. It sounds in every wind, and the wearer cannot hear anything softer than a shout for the length of the assignment and nine days after.
+
+### M.A.W. Stigma — The Held Note
+
+**Type:** Stigma | **Grade:** γ | **Element:** Lament
+
+**Appearance:** a sliver of shed crystal set in a plain copper ring, worn on the little finger of the working hand, sounding a tone a little below hearing whenever it is warm.
+
+**Ability:** The wearer does not lose the thread of a task. Interruption, noise and the Needle's own halo cannot make them drop a count, a line or a stitch, and the two wearers on file finished a tally through a full halt.
+
+**Cost:** The note does not stop. Sleep requires the ring off, the ring requires a second pair of hands, and the one wearer who slept in it has not been able to say what the tone was doing since.
 
 ### M.A.W. Use Notes
 
@@ -181,6 +199,15 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 
 **Entry 5 — Division Return** Year 4,238. The Needle sings only when the wind is at its highest, and the song ends the wind. In nine songs none has followed another within six hours, which means the Needle spends the gale it sings with, and the ridge is quietest in the hour after its worst. The division has no theory for why a spire that kills in a gale also leaves the pass still behind it, and has declined to publish one.
 
+## 최종 관찰 (Final Observation)
+
+> The choice at the end of a session is about the wind: the survey either reads the ridge while the wind is under forty knots and leaves before the shear arrives, or stays to finish the measurement and lets the Needle take the reading out of their hands.
+
+| Withdraw under forty knots and leave the resonant node unmeasured until the next calm. | Hold the ridge through the shear to finish the node in one pass. |
+|---|---|
+| The spire surfaces, sings to an empty ridge, and goes back under having been counted by the pickets and not answered. | The aura closes over the surveying party, the pickets lose a diaphragm, and nobody inside it finishes the city's name. |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+
 ## 감각 묘사 (Flavor Text)
 
 **At first contact:** Your molars buzz first, a sound felt in the jaw before the ears have agreed that it is a sound.
@@ -190,6 +217,69 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 **When the entity activates:** The wind leaves the sky as if a door had shut on it, and into the silence comes one thin, clean, very high note that seems to be coming from your own teeth.
 
 **After departure:** A ringing a half-tone off from whatever you hear, for about a day. Seven of the twelve scouts asked could not hum a tune for a week.
+
+## 이야기 (Narratio) — The Tale
+
+> **Record of:** the Northern Ridge Survey, Crystal Peaks transect — Year 4,237, fourth refusal
+
+The Needle stands on the razor ridgeline where the northern wind is funnelled into a single throat, and it does what a spire of raw crystal does to wind: it sings.
+
+The song carries further than the wind does. A survey party on the transect hears it as a note without a source, and the note goes through the ear and not around it, and the men who are issued the cranial seals come back with their hearing and the men who are not do not come back at all. The ridge itself is unmoved. The wind drops while it sings — the record is explicit, the anemometer at post three reads nothing for the length of the song — and everything with a lung inside a hundred metres is turned to liquid marrow without a mark on the skin.
+
+The Architects want the spire. Raw crystal of that grade does not occur elsewhere on the ridge, the division has petitioned the Council twice, in Year 4,236 and again in Year 4,237, and has been refused twice, because the pass is a Directive road and the road is open. A blunt strike is projected, from tests on fragments, to shatter the harmonic alignment. No maul has reached the base node. The projection is filed with the word projected in it.
+
+After every song the transect is walked and surveyed, and the survey is entered in the ledger, and the ledger has an entry for every year since the Peaks were opened.
+
+## 증언 (Testimonium) — The Testimony
+
+> *“You cannot shout over it. You cannot even finish your own city's name inside the aura. The nearest anyone has come is two syllables.”* — Picket Sergeant, Northern Ridge
+
+> *“It moved a hundred and forty metres in twenty-eight months. The falcons moved their nests four times further than that.”* — Telemetry Officer, Frontier Division
+
+> *“The moss falls silent for the whole song. That is the confirmation we trust — not the instruments, the moss.”* — Surveyor, Crystal Peaks
+
+> *“It is not calling to us. It is singing to the ridge, and the ridge is answering out of our chests.”* — Researcher, R.D.
+
+> *“Forty spare diaphragms in the lower gate. We have never run short, and we have never once not needed them.”* — Quartermaster, Northern Gate
+
+## 기록 (Registrum) — The Record
+
+**Classification:** Sorrow Entity — `O-IVγ-1053 [VS]` · Outside Sorrow origin · Entity (IV) coherence · Major (γ) potency · Void / Lament · Subject / Phenomenon manifestation
+**Common Name:** The Singing Needle
+**Containment Status:** Uncontained — the Crystal Peaks, the northern ridge border
+**Comprehension Level:** 3 — Advanced
+**Threat Assessment:** Major (γ), and the grade is carried by the aura rather than by the spire. Nothing in the ridge is safe to measure while it is singing, and it sings when the wind is worth singing to.
+**Containment & Handling Procedures:**
+- Viderehan to identify the resonant node, Ferrehan for acoustic dampening under the cranial seals. Pugnahan shatters the needles into secondaries and is not authorised.
+- Withdrawal under forty knots of shear. The activation threshold is the wind, and the wind is predictable in a way the entity is not.
+- The Soprano Needle-Moss beds are the second confirmation. They fall silent for the length of every song, because there is no wind left to sound them.
+**Observation Notes:**
+- In twenty-eight months the Needle has moved a hundred and forty metres at most between songs. The falcons have moved their nests four times that distance.
+- Nobody has finished the city's name inside the aura. The nearest on file is two syllables.
+- The pickets lose a diaphragm about every five weeks. The division keeps forty spares and has never run short.
+**Cross-References:** Outside Sorrow, Crystal Peaks. The pairings are recorded in the Entity Interaction Record; none is a co-presence, and the ridge is not worked beside another holding.
+**Faction Involvement:** Northern Frontier Telemetry Division · Crystal Peaks pickets
+**Originator:** The survey party the ridge answered first, named in the division's telemetry log and not in this file.
+
+### Registry Addendum
+
+**Operational interpretation:** Read this as a listening post that answered back, not as a creature that hunts. The spire bores, surfaces, sings to the ridge, and goes under again. Everything that has gone wrong out there went wrong because somebody stayed to finish a measurement.
+
+**Review requirement:** Re-verify after any shear event above forty knots, after any change to the picket rotation, and after any session in which a party reported the aura closing before the song began.
+
+## Apex Record
+
+### Where the Line Begins
+
+The Singing Needle is a spire with a chorus above it, native to the Crystal Peaks, and the file is careful about which part is the entity: the spire bores beneath bedrock and surfaces to sing, and the needles hover around its apex. No free-flying spire is recorded. It roosts on the razor-sharp ridges and turns the northern winds into an acoustic amplifier, which is the closest thing to intent the record will grant it.
+
+### The Limit
+
+The aura, not the spire, carries the grade. Nothing on the ridge is safe to measure while it is singing, and it sings when the wind is worth singing to — shear above forty knots is the activation, and the wind is predictable in a way the entity is not. The song has never been finished to: the city's own name has three syllables and nobody has completed it inside the aura. The nearest on file is two.
+
+### The Standing Arrangement
+
+Withdrawal under forty knots, cranially sealed dampening, and Viderehan to find the resonant node; Pugnahan shatters the needles into secondaries and is not authorised. The Soprano Needle-Moss beds are the second confirmation — they fall silent for the length of every song, because there is no wind left to sound them. In twenty-eight months the Needle has moved a hundred and forty metres at most between songs, the pickets lose a diaphragm about every five weeks, and the division keeps forty spares and has never once not needed them.
 
 ## Trivia
 
@@ -202,13 +292,16 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 
 | Related entity | What it is | What happened | Where it is filed |
 |---|---|---|---|
-| **The Glass Silt Drifter** | A vitrified courier that paces steam crawlers along the Sea of Glass. | The Drifter's escort log has two crossings under the Needle's audible range on which it fell back 40 km early. The pickets heard the Needle on both days as a faint tone with the cups still turning, and logged no song and no stall. The Needle's own file has nothing to add, and neither cadre has a cause to offer. | The two dates, exchanged each quarter with the Horizon Caravan Survey Cadre. |
+| [**The Glass Silt Drifter**](SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md) | A vitrified courier that paces steam crawlers along the Sea of Glass. | The Drifter's escort log has two crossings under the Needle's audible range on which it fell back 40 km early. The pickets heard the Needle on both days as a faint tone with the cups still turning, and logged no song and no stall. The Needle's own file has nothing to add, and neither cadre has a cause to offer. | The two dates, exchanged each quarter with the Horizon Caravan Survey Cadre. |
 
 The ridge and the birds on it are the other half of this record and are not entities. The Singing Crystal Alpine Falcons leave the crags hours before a gale, and the moss goes quiet while a song runs. The picket log is the primary source for this dossier, and it is kept in cups and seconds.
 
 **Interaction procedure:** None is arranged. The Needle is never approached by a second holding, the quarterly exchange of dates with the Survey Cadre is the whole of it, and the picket line is not extended past the ridge.
 
 ---
+
+
+## Document Information
 
 **Document ID:** `SE-O-IVγ-1053`
 **Classification:** Outside Sorrow Anomaly Dossier

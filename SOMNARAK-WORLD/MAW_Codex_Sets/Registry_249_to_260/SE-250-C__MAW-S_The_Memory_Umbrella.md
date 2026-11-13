@@ -24,9 +24,15 @@ The Memory Umbrella is a wearable canopy of blue Han-silk with clear channels ru
 
 ## PROTECTION FILE
 
+**Grade / Element:** β / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
 
 **Catchment Identity:** Memory droplets enter labeled canopy channels instead of the wearer’s Mind. The Umbrella does not destroy or anonymize what it catches.
 
@@ -43,14 +49,3 @@ Umbrella receives the fragment after Requiem separates it; Charm keeps the host 
 **Maintenance:** Open each channel over a separate Archive tray. A recorder logs sensory content and uncertainty before the next pocket is released.
 
 **Removal:** Keep the canopy open until every drop is transferred. Folding a loaded Umbrella is prohibited.
-
----
-
-**Document ID:** `SE-250-C`  
-**Linked Entity:** `SE-250`  
-**Item Registry Code:** `MAW-S-250-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

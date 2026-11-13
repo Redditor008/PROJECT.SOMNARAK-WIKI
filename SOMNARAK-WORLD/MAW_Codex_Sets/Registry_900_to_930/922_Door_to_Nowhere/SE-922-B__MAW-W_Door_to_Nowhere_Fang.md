@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Threshold Ward-Staff
+# M.A.W. WEAPON — Door to Nowhere Fang
 
-> *“Door to Nowhere Fang remembers Door to Nowhere; the bearer must not mistake memory for permission.”*
+> *"It opens a door in what it hits and closes it behind. The wielder's own way out gets a little less certain each time."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Door to Nowhere's grudge signature in the strike.  
-**Binding rule:** the bearer names Door to Nowhere's event—A resident was trapped during a district lockdown, watching a door rise beyond reach.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
-
+**Binding rule:** the bearer names Door to Nowhere's event — “A resident was trapped during a district lockdown, watching a door rise beyond reach.” — and accepts this limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.  
+**Gauge:** 000/420; opens at 000%; no attack pattern is filed for this Grudge manifestation — the handle height against the district bulletin is the reading.
 ## Appearance
 
-Appearance : A stout six-foot staff turned from seasoned white oak, capped with an oversized four-toothed bronze keyhead that doubles as a heavy bludgeoning crown and door-lever.
+A stout six-foot staff turned from seasoned white oak, capped with an oversized four-toothed bronze keyhead that doubles as a heavy bludgeoning crown and door-lever.
 
 Planted across doorways or narrow corridors, the staff establishes an impenetrable warding barrier that prevents lesser entities from passing. In melee, the keyhead delivers bone-cracking swings.
 
@@ -31,33 +31,26 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Door to Nowhere's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Fang opens a door in what it hits and closes it behind: each blow makes the wielder's own way out a little less certain. Wielded long, they check behind them for the exit.
 
 ## ITEM-SPECIFIC HISTORY — *The Door to Nowhere Source-Trace: Weapon Record*
 
-The first Door to Nowhere Fang field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Door to Nowhere. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Door to Nowhere Fang field bearer encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Door to Nowhere. A wielder checked behind themselves for an exit that had been there and was not, and the Fang’s binding is the report filed at that doorway.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Door to Nowhere's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the exits start going before the blow lands, and the wielder fights with one eye on the way out.
 - Terminal state: Door to Nowhere's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-922 -->
+**Failure mode:** violating “record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.” reverses the item’s benefit and raises the source Gauge — a 000/415 meter that opens at 35–50%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Door to Nowhere Fang only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Door to Nowhere Fang; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Door to Nowhere — Witnessed Form*, Door to Nowhere Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-922-B`  
-**Linked Entity:** `SE-922`  
-**Item Registry Code:** `MAW-W-922-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Door to Nowhere — Witnessed Form*, Door to Nowhere Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow after which the wielder’s way out is still where they left it.

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-902 [GO]` |
-| **Entity Type** | **Object** — Non-breaching: activation only; activates on bare-handed grip. gloved contact does nothing and has been tested to the satisfaction of two review boards |
+| **Entity Type** | **Object** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
@@ -28,68 +28,78 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object |
 | **Primary pressure** | Grudge / Body pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 3 |
+| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is counting the relic's rhythm against the worker's own pulse, and a match is the failure. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Handling is a separate authorisation from working, is timed from the moment of bare contact, and is never extended on the handler's own assessment. |
+| **Recommended response** | No Work Type: the entity is an Object and is handled, not worked. Handling is a separate authorisation from working, is timed from the moment of bare contact, and is never extended on the handler's own assessment. |
 
 ### Operational Notes
 
-- Count the relic’s own rhythm and the handler’s pulse separately. A matching rate is the withdrawal condition, not a normal reading to assume or a reason to substitute one count for the other; the handler may retain the tempo after release. The two named readings matter even when the beats sound like one.
+- Count the relic’s own rhythm and the handler’s pulse separately. A matching rate is the withdrawal condition, not a normal reading to assume or a reason to substitute one count for the other. The handler may retain the tempo after release. The two named readings matter even when the beats sound like one.
 - A completed cycle slows the beat by a measurable margin. It has never stopped it, and the tempo returns to its own baseline within the hour.
 - Three ignored conditions escalate it, and contact is through the body register, so the first sign is physical: rate, grip, breath. Nobody has ever reported the emotional change before the physical one.
 - Any handler whose own pulse is observed to match the relic is withdrawn at once, is not returned to the rotation that shift, and is checked again at seven days. The check is not discretionary and the reason for it is in the escalation section.
 - Extraction is a separate risk event under its own authorisation and is never scheduled on the same day as a handling.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Grudge pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 427/427 — read at the plinth and again in the hand; the figure tracks the bearer’s pulse rather than the watch. |
-| **Han Pressure [ATK]** | 17–26 on every strike · Grudge, taken off the beat rather than off the blow |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium, at full duration — 16 turns, timed from first contact with the stone. |
-| **Threat Role** | Sovereign encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% — the low end belongs to watches opened with the stone still on its plinth. |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-902 |
-| **Resolution Condition** | Viderehan and Ferrehan through to containment: the gauge brought down by work and never by force, with the stone back on the plinth and the hand opened slowly. |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
 
-### Combat Actions
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Warmth Before the Hand* [**Debuff**] } | "It is warmer than the room before your hand is anywhere near it." | [The beat climbs the plinth into the table and the floor, and the handler's own pulse answers it.] | *The handler feels Goru's weight settle against the palm.* **[10 Grudge DMG [Grudge]]** | When the handler first takes the stone's attention. |
-| { *The Second Heart* [**Attack**] } | "The tempo stops being a measurement and becomes a case." | [Dates, figures, a district, a sum — the relic is not changing; the handler is being briefed.] | *Grudge damage strikes the handler; the veins brighten to crimson and the gauge spikes.* **[21 Grudge DMG [Grudge]]** | When the handler is provoked or denied. |
-| { *The Clenched Certainty* [**Attack**] } | "Forty years of fury, compressed to amber." | [The full weight of Goru's refusal concentrates on one point, and the handler's rate climbs to meet it rather than the other way round.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[26 Grudge DMG [Grudge]]** | When the handler is cornered or starved. |
-| { *The Open Hand* [**Ultimate**] } | "The stone empties through the hand — what Goru held goes out with it." | [Everything the relic carried comes out in every direction, and nobody in the room is left unbriefed.] | *All personnel suffer Grudge erosion for three turns.* **[23 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+The gauge is read at the instrument. The cost is read on the person.
 
-### Battle Phases
+## Contact Record
 
-1. **Tension:** Identification first — Beating Relic is recognised by the independent beat, audible through the plinth before contact; the warmth exceeding the room; the brightening veins; and the rate rising with the handler's anger rather than with their exertion — then the approach is set and the positions are taken.
-2. **Clash:** Four turns from the plinth, observation and endurance only. Handler rate is read aloud by the second Warden at each turn, and the relic's own tempo is counted separately and by somebody who is not holding it.
-3. **Resolution:** The cycle ends on containment, on management, on withdrawal, or on the condition the bay's standing table carries: the grievance acknowledged in a form that can be put in front of it. Nothing else has ever lowered the tempo for longer than a cycle.
+> **Why this file has no combat actions.** The Movement row says it is incapable of moving itself on the plinth and is carried in a handler's hand when authorised. And the record's own account of the harm is a briefing delivered through the body rather than a blow. The Grudge arrives as a grievance with a subject, a date and an amount.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A fist-sized stone of dark amber carved as a clenched hand, threaded with dried veins of Grudge Han-crystal, warm beyond the room and warmer than the hand holding it. It beats through the plinth before anybody touches it, and it has never moved itself off the stone. |
+| **Perceptible to** | The independent beat first, audible through the plinth and through the support, with no hand on it. Then the warmth, and under bare contact the veins brightening to crimson. |
+| **Handling** | Carried in the bare hand only. Gloved contact produces nothing and has been tested to the satisfaction of two review boards. It is lifted and returned by a person, and it is returned to the plinth rather than set down. |
+| **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. Reading the beat holds the gauge; the shift with empty hands brings it down. |
+| **Activation threshold** | 3 ignored conditions — the first sign is physical: rate, grip, breath, and nobody has ever reported the emotional change before the physical one |
+| **Sorrow Gauge [Pressure]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Handling** | No Work Types (`R-40`). Reading the beat makes it legible as a grievance with a subject, a date and an amount. Staying in the room with empty handsn settles the tempo by staying in the room without reaching for it. Both bring the gauge down. |
+| **Location** | SECTOR-C-902, contained |
+| **Resolution Condition** | The handling procedure through to containment: the gauge brought down by the acknowledgement and never by force, with the stone back on the plinth and the hand opened slowly. |
+
+
+### Contact Events
+
+| Event | What the Relic does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Independent Beat* [**Register**] } | It beats before anybody touches it, through the plinth, and the rate rises with the handler's anger rather than with their exertion. | The beat is counted by somebody who is not holding the stone, separately from the handler's pulse, and the handler's rate is read aloud by the second warden at every reading. | The tempo is the register, and it is why the handler is measured before the entity is interpreted. |
+| { *The Briefing* [**Exposure**] } | Dates, figures, a district, a sum. The stone is not changing: the handler is being briefed, and forty years of a specific fury arrives as a case rather than as an argument. | Four readings from the plinth on observation and endurance only, and the handler's rate taken again at release. | The exposure is information, which is why it lands without anything being thrown, and why the file treats a settled certainty as the symptom. |
+| { *The Clenched Certainty* [**Refusal**] } | It neither negotiates nor lets go. It lends the bearer Goru's certainty and charges them the ability to let anything go, and the charge is paid in full every time. | Nothing is prised from the stone and nothing is struck. Force raises the tempo rather than ending the cycle, so force is not used. | A handler who cannot hold does not panic: they become certain about a specific unfairness, named and usually accurate, and will not be moved off it for hours. |
+| { *The Open Hand* [**Overload**] } | Past the three ignored conditions everything the stone carried comes out through the hand in every direction, and nobody in the room is left unbriefed. | The stone goes back on the plinth and the hand is opened slowly, with the grievance acknowledged in a form that can be put in front of it. | Long contact leaves a tachycardia that resolves and an anger that does not, directed at a real grievance the handler had previously described as settled. |
+
+### Watch Sequence
+
+1. **What is confirmed:** the independent beat through the plinth, the warmth above room temperature, the veining at the grip, and the handler's own rate — the handler measured before the entity is interpreted.
+2. **What the watch does:** reading the beat makes it legible as a grievance with a subject, a date and an amount, and Ferrehan stays in the room without reaching for it. The tempo is counted by somebody not holding the stone, and the hand that took it opens slowly when it gives it back.
+3. **How it closes:** **the handling procedure through to containment: the gauge brought down by the acknowledgement and never by force, with the stone back on the plinth and the hand opened slowly.**
 
 ### Consequences
 
@@ -99,7 +109,7 @@
 
 ## Appearance
 
-**Stone and embodied tempo:** The earlier human fist is the formation account; the present object is fist-sized dark amber stone, carved in the clenched shape and threaded with dried crystal veins. Warmth and a beat can be detected through the plinth before grip. Bare contact brightens the veins to crimson and brings heat and cardiovascular effects into the handler. That is not an independent limb moving off its support: a person lifts and returns the stone. Keep the source tempo, the handler’s pulse and any retained-tempo case separate, including the figures at release. The derived blade, cloth veil and nonbeating coin are not successive bodies of the source hand.
+**Stone and embodied tempo:** The earlier human fist is the formation account. The present object is fist-sized dark amber stone, carved in the clenched shape and threaded with dried crystal veins. Warmth and a beat can be detected through the plinth before grip. Bare contact brightens the veins to crimson and brings heat and cardiovascular effects into the handler. That is not an independent limb moving off its support: a person lifts and returns the stone. Keep the source tempo, the handler’s pulse and any retained-tempo case separate, including the figures at release. The derived blade, cloth veil and nonbeating coin are not successive bodies of the source hand.
 
 
 **Primary Form:** A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster when held by someone who is angry.
@@ -123,52 +133,45 @@
 |---|---|
 | **Form** | A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster when held by someone who is angry. |
 | **Position / movement** | Inert on its plinth and incapable of moving itself. It is carried by people, which is the only way it has ever travelled, and the header's Stationary classification is correct in the only sense that matters: nothing it does moves it. |
-| **Material / signature** | Grudge. Carved stone threaded with dried crystal veins that brighten to crimson on contact; warm at rest, hot in the hand, with a beat transmitted into the plinth and the floor. |
-| **Distinctive markers** | The independent beat, audible through the plinth before contact; the warmth exceeding the room; the brightening veins; and the rate rising with the handler's anger rather than with their exertion. |
+| **Material / signature** | Grudge. Carved stone threaded with dried crystal veins that brighten to crimson on contact. Warm at rest, hot in the hand, with a beat transmitted into the plinth and the floor. |
+| **Distinctive markers** | The independent beat, audible through the plinth before contact. The warmth exceeding the room; the brightening veins. And the rate rising with the handler's anger rather than with their exertion. |
 | **Identification** | Confirm before contact: designation C-IIIγ-902 `[GO]`, I-Relic (Indumentum) tool class, Fragment (III) coherence, Major (γ) potency, Object-Body manifestation, Grudge element, SECTOR-C-902. A warm carved hand that does not beat is not this entity. |
 
 ## Origin
 
 Beating Relic was forged in the aftermath of the Battle Pits riots. A Warden named Goru — known for his clenched fist, his refusal to yield, his absolute certainty that the city owed him and his district more than it had given — died with that fist raised. The rage in his final gesture was so concentrated, so Grudge-dense, that the Han around his corpse did not dissipate. It crystallized. The hand became stone; the stone began to beat.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; under sustained observation the beat becomes legible as a grievance with a subject, a date and an amount. | Decrease |
-| **Ferrehan** (Endurance) | Recognises patience; the tempo settles while somebody stays in the room without reaching for it. | Decrease |
+> **This holding is not worked.** It is a stone that keeps a rate and a grievance, and it asks whoever takes it up to hear the grievance once, in a form that can be set down in front of the plinth. There is nothing here to approach and nothing that answers an approach; there is a hand, a pulse, and a thing that takes the pulse.
+
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Count the relic's own rhythm and the handler's pulse separately, from the plinth side, before any hand is laid on it. The two readings are entered as two readings even when the beats sound like one. | The Warden who is not handling it; the count is by name. | The approach spends a full watch and a second Warden. A matching rate is the withdrawal condition, not a normal reading to assume. |
+| **Handling** | Bare hand only. It cannot be mounted, rigged, or left gripping anything, and no glove, clamp or stand has ever held it for a cycle. The handler hears the grievance once and sets it down in a form that can be put in front of the plinth. | The named handler; the second Warden counts the tempo aloud. | The handler's own pulse goes out of step before the stone does. Three ignored conditions escalate it, and the first sign is physical: rate, grip, breath. |
+| **Withdrawal** | The stone goes back on the plinth and the hand is opened slowly. The handler's rate is logged by name afterwards, and the acknowledgement condition is applied at the plinth. | The case Warden; the rate is confirmed by the non-handler. | Long contact leaves a tachycardia that resolves and an anger that does not, directed at a real grievance the handler had previously described as settled. |
+| **Refusal** | No force. Nothing is prised from the hand, and the stone is never brought down by anything but the acknowledgement. | No authority below the Directorate may authorise force here. | The record holds the condition and not an incident: the gauge has never been brought down by force, and the file does not say what happens when it is tried. |
 
 ### Operational Work Notes
 
-Beating Relic is an Object of Fragment (III) coherence — Object-Body manifestation, Grudge expression, I-Relic tool class — at SECTOR-C-902, at Major (γ) potency. Flerehan and Pugnahan are unavailable to an Object. The Grudge pressure and the gauge decrease under Viderehan and Ferrehan are equally real, and the body register is the whole channel: measure the handler before you interpret the entity.
+Beating Relic is an Object of Fragment (III) coherence — Object-Body manifestation, Grudge expression, I-Relic tool class — at SECTOR-C-902, at Major (γ) potency. It is not worked and no Work Type is available to it. The Grudge pressure is real and the body register is the whole channel: measure the handler before you interpret the entity.
 
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Bare-handed grip. Gloved contact does nothing and has been tested to the satisfaction of two review boards.
-
-**Effect:** The relic takes the bearer's pulse and the bearer's resentment together, granting +20% melee kinetic force and Grudge resistance while steadily accelerating the heart and moving Goru's fury into the bearer's own reasoning, where it arrives as conviction rather than as rage.
-
-**Duration:** While held in the bare hand, until released onto the containment plinth.
-
-**Risk:** Past sixty seconds, acute tachycardia, hyper-aggression and emotional haemorrhage as the bearer's pulse locks to the relic's tempo rather than the reverse.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable in the bare hand only; cannot be mounted, rigged, or left gripping anything.** |
-| **Activation** | Bare-handed grip; gloved contact produces nothing. |
-| **Primary Effect** | Pulse and resentment synchronised: +20% melee kinetic force and Grudge resistance, with continuous heart acceleration and transfer of the originating fury into the bearer's reasoning. |
-| **Duration** | While held bare-handed, until released onto the plinth. |
+| **Activation** | Bare-handed grip. Gloved contact produces nothing and has been tested to the satisfaction of two review boards. |
+| **Primary Effect** | The relic takes the bearer’s pulse and the bearer’s resentment together: +20% melee kinetic force and Grudge resistance, with the heart accelerating continuously and Goru’s fury arriving in the bearer’s own reasoning as conviction. |
+| **Duration** | While held in the bare hand, until released onto the containment plinth. |
 | **Termination / Return** | The bearer releases onto the plinth under the detachment protocol, hand opened slowly. Premature return or wear past the threshold extracts severe Grudge trauma, and the forced detachments on file produced the longest recoveries in the wing. |
-| **Risk** | Acute tachycardia, hyper-aggression and emotional haemorrhage past sixty seconds, with the bearer's pulse locking to the relic's tempo. |
+| **Risk** | Past sixty seconds, acute tachycardia, hyper-aggression and emotional haemorrhage, as the bearer’s pulse locks to the relic’s tempo rather than the reverse. |
 
 **Operational Rule:** It functions only in a bare hand and cannot be mounted, rigged, or left gripping anything. It does not substitute for a scheduled cycle, and containment remains Viderehan and Ferrehan whatever a handler is carrying.
 
@@ -177,7 +180,7 @@ Beating Relic is an Object of Fragment (III) coherence — Object-Body manifesta
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The stone warms past the room and the veins brighten; the beat the plinth was transmitting is now in the palm. | The relic is live: +20% melee kinetic force, Grudge resistance, and +10% resistance to Grudge damage while held. |
-| 30 Seconds | The bearer begins receiving the Battle Pits as a sequence of entirely reasonable positions, each one leading to the next, ending where it ended. | Combat benefit holds; mental burden accrues. Action speed and physical focus rise while composure falls. |
+| 30 Seconds | The bearer begins receiving the Battle Pits as a sequence of entirely reasonable positions, each one leading to the next, ending where it ended. | The benefit holds and the burden accrues with it: the certainty sharpens, the reading quickens, and composure falls. |
 | 1 Minute | The bearer's breathing takes the relic's tempo, which is faster than theirs and does not vary. | Past sixty seconds the relic inflicts 5 Grudge damage every fifteen seconds. Watch for cognitive detachment, which presents here as the bearer stopping mid-argument and starting again from the beginning. |
 | 2 Minutes | Held this long, the bearer stops distinguishing Goru's grievance from their own and will argue both as one case. | Past two minutes, or on forced detachment, acute panic follows with the full recorded tachycardia and haemorrhage effect. |
 
@@ -196,7 +199,7 @@ Escalation here is transfer. The relic cannot leave the plinth under its own pow
 | **Primary effect** | Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. |
 | **Duration / rate** | While held in hand, until released onto its containment plinth. |
 | **Risk** | Major (γ) Object-Body producing Grudge pressure; tachycardia, hyper-aggression and emotional haemorrhage in the bearer, and retention of the tempo after release. |
-| **Management** | Viderehan and Ferrehan only, certified handling protocol with a second Warden counting, handler rate logged by name, and the acknowledgement condition applied at the plinth. |
+| **Management** | Handling procedure only, certified protocol with a second Warden counting, handler rate logged by name, and the acknowledgement condition applied at the plinth. |
 
 **Activation reporting order:** bare contact → relic tempo counted by the non-handler → handler rate → veins and warmth → personnel effect → release and rate at release → seven-day check. Objects are worked with Viderehan and Ferrehan only.
 ## M.A.W. Equipment
@@ -211,7 +214,7 @@ Escalation here is transfer. The relic cannot leave the plinth under its own pow
 
 **Damage:** Grudge 14–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels grudge at the body register in each strike: the edge goes for the target's grief before it goes for the target, and the wound it leaves is one a physician cannot find.
-**Cost:** Each use takes a few minutes of the wielder’s memory with it — mild, cumulative, and recorded by the Armoury against the bearer rather than the blade.
+**Bearer cost:** Each use takes a few minutes of the wielder’s memory with it — mild, cumulative, and recorded by the Armoury against the bearer rather than the blade.
 
 **Edge custody:** The Han-iron blade is issued equipment, not authorisation to carry the source stone as a weapon. Its linked Single pattern resolves against the selected target; the relic’s room-wide discharge is not extra coverage for the Edge. Record minutes lost and any first-person claim to Goru’s event before cleaning or resting it. A named witness attends relinquishment, keeping the local Battle Pits account distinct from the source item’s unrecorded event field. Do not fill that field from the bearer’s newly acquired certainty; return preserves the record and does not restore the missing memory.
 
@@ -237,13 +240,14 @@ Escalation here is transfer. The relic cannot leave the plinth under its own pow
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity; the token is warm at all times and does not beat.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
+**Bearer cost:** The Token beats with the relic: worn, the bearer's own pulse falls into the stone's rhythm, and a hand's width of their chest is always a beat behind.
 *The Token is neither manufactured nor requisitioned. It has gone out three times, in each case to a Warden who released the relic at the protocol time while in the middle of making a point.*
 
 **Token cost and custody:** Use sharpens old injuries and old resentments; log both rather than record only the warm coin and source-work bonus. The token does not beat, so neither its warmth nor the bearer’s certainty is a substitute for the separately counted source tempo. Review attribution before cleaning or resting it. A named witness attends relinquishment without treating a first-person account of the Pits as recovered history. Continued autobiographical identification is a corrosion sign, not evidence that the bearer has become Goru, and no return refunds the cost.
 
 ### M.A.W. Use Notes
 
-Each Relic piece is an extension of this entity rather than ordinary equipment. The grade describes its effect on entities; the cost is separate and is the same in all three cases — the bearer keeps the certainty after the piece is returned, and certainty here is not a virtue but a symptom.
+Each Relic piece is an extension of this entity rather than ordinary equipment. The grade describes its effect on entities. The cost is separate and is the same in all three cases — the bearer keeps the certainty after the piece is returned, and certainty here is not a virtue but a symptom.
 
 ### Field Use Record
 
@@ -254,15 +258,15 @@ Each Relic piece is an extension of this entity rather than ordinary equipment. 
 | **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the handler's rate has converged on the relic's. |
 | **After use** | Release to plinth under protocol, injuries, lingering effects, rate at release and at the hour, cooldown, reuse authorisation, seven-day check booked. |
 
-**Full-set source review (2026-10-12):** Reviewed the γ overview, all three local item blocks, Use Notes, Field Use Record, and every other M.A.W. reference against Side `SE-902-A` (`C-IIIγ-902 [GO]`, set `4/4`), items `SE-902-B/C/D` (`MAW-W/S/G-902-01`), Registry rows 967–970, and Weapon Archetype `MAW-W-902`. The primary has no separate Stat interpretation; none was added. Side A has no standalone Appearance section and its SUBJECT / formation-event fields read `Not recorded`; all three item pages have Appearance sections and no separately labelled transition block. Weapon/Suit grades, elements, numeric profiles, and the Stigma's generic `+1 stat` effect align across the primary, Side, and item records; no stat was inferred where none is named. Hold primary `Beating Relic` and its single-edged blade against Side/item `Goru's Fist` and the archetype's finger-grooved knuckle-fist form; local/Side/item Range 2 (Short) against archetype Close; and Head / 5% against the Registry's generic Accessory label. The Side/item Single pattern was not transcribed to the primary. No Master Entity Codex row, Entity Tale, or Master M.A.W. item entries exist for this designation; `C-IIIγ-902` remains on the Entity Codex's pending-row list. The shared autobiographical after-effect and the three item-specific immediate costs remain separately described; no cost wording was normalized.
+**Full-set source review (Year 4232):** Reviewed the γ overview, all three local item blocks, Use Notes, Field Use Record, and every other M.A.W. reference against Side `SE-902-A` (`C-IIIγ-902 [GO]`, set `4/4`), items `SE-902-B/C/D` (`MAW-W/S/G-902-01`), Registry rows 967–970, and Weapon Archetype `MAW-W-902`. The primary has no separate Stat interpretation; none was added. Side A has no standalone Appearance section and its SUBJECT / formation-event fields read `Not recorded`. All three item pages have Appearance sections and no separately labelled transition block. Weapon/Suit grades, elements, numeric profiles, and the Stigma's generic `+1 stat` effect align across the primary, Side, and item records. No stat was inferred where none is named. Hold primary `Beating Relic` and its single-edged blade against Side/item `Goru's Fist` and the archetype's finger-grooved knuckle-fist form. Local/Side/item Range 2 (Short) against archetype Close. And Head / 5% against the Registry's generic Accessory label. The Side/item Single pattern was not transcribed to the primary. No Master Entity Codex row, Entity Tale, or Master M.A.W. item entries exist for this designation; `C-IIIγ-902` remains on the Entity Codex's pending-row list. The shared autobiographical after-effect and the three item-specific immediate costs remain separately described; no cost wording was normalized.
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- The grudge reading at SECTOR-C-902 has never lapsed; the tempo has been logged continuously since the holding opened, without an interruption longer than a shift.
-- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
+- The grudge reading at SECTOR-C-902 has never lapsed. The tempo has been logged continuously since the holding opened, without an interruption longer than a shift.
+- It is handled, not worked: no Work Type applies to it, and the four-stage procedure is the whole of the contact.
 - Contact is through the body register and through nothing else: the rate, the heat, and the hand.
 - Grip is measured on the handling ladder: 30 seconds, 1 minute, and past 60 seconds the relic inflicts 5 Grudge damage every 15 seconds.
 
@@ -278,15 +282,15 @@ Each Relic piece is an extension of this entity rather than ordinary equipment. 
 
 **Entry 2 — Field Log** The first handlers named the channel without help: a weight on the body that was not physical, recorded from the first grip and every one since.
 
-**Entry 3 — Counseling Log** The grudge here does not sit in the room the way grudge usually does; it settles in the handler, carried by the body and nothing else.
+**Entry 3 — Counseling Log** The grudge here does not sit in the room the way grudge usually does. It settles in the handler, carried by the body and nothing else.
 
-**Entry 4 — Containment Notice** Handling runs on Viderehan and Ferrehan, the two work types that pass; patience and observation lower the gauge here, and confrontation never has.
+**Entry 4 — Containment Notice** Handling runs on the four stages below and on no work type. Patience and observation lower the gauge here, and confrontation never has.
 
 **Entry 5 — Director's Note** The Object-Body filing is the right one: every meaningful reading here is taken off the handler's own body, and the protocols are built on that and nothing else.
 
 ## 최종 관찰 (Final Observation)
 
-| Viderehan and Ferrehan only, certified handling protocol with a second Warden counting, handler rate logged by name, and the acknowledgement — as written, without improvising. | Do the obvious, decent thing instead, and feed Beating Relic. |
+| Handling procedure only, certified protocol with a second Warden counting, handler rate logged by name, and the acknowledgement — as written, without improvising. | Do the obvious, decent thing instead, and feed Beating Relic. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -305,27 +309,46 @@ The stone is warm — warmer than it should be, warmer than the air around it, w
 
 ## 상호작용 (Entity Interactions)
 
-The relic keeps a rate and a grievance, and it asks whoever holds it to hear the grievance once, in a form that can be set down in front of the plinth, so the three records kept beside it in the appendix are all holdings about obligation: a man under a debt he can no longer put down, a wall built out of what people still owe, and the one that follows an inheritance. What follows is read from this holding's own instruments — the tempo log, the handler rate recorded by name, and the acknowledgement condition applied at the plinth.
+The relic keeps a rate and a grievance. And it asks whoever holds it to hear the grievance once, in a form that can be set down in front of the plinth. So the three records kept beside it in the appendix are all holdings about obligation: a man under a debt he can no longer put down, a wall built out of what people still owe. And the one that follows an inheritance. What follows is read from this holding's own instruments — the tempo log, the handler rate recorded by name, and the acknowledgement condition applied at the plinth.
 
 **Interaction method:** Set this holding's own figures first: the tempo logged without interruption longer than a shift, the sixty-second rule, and the settlement ladder from 30 seconds to the 5-damage interval past 60. Then read the other record's figures beside them, enter whether either moved, and re-verify at the next handling.
 
 | Which record waits at the plinth | What both ask to hear once | What the handler entered | What the acknowledgement holds |
 |---|---|---|---|
-| **The Debtor** `C-IIIγ-061` | Both put a weight on a person that others cannot see. That record is stooped under roughly 7.3 tons of it on the Han-scales; this relic puts a tempo into whoever grips it and an argument already half made. | Nothing was run. The appendix grouped the two on carried weight, and the review left the entry as an arrangement. | That the resemblance is a filing line and the acknowledgement is a document. |
-| **Owed** `C-IIIγ-180` | Both treat an obligation as something physical. That record buds a new block every time a fresh debt is recorded; this relic has never lowered for a ledger, and lowers for a grievance put into writing. | The pair was read at the boundary only; no figure moved in either record, and the wall was not approached. | That this file's condition is a form of words and not a form of payment. |
-| **The Inherited Debt** `N-IVβ-019` | Both concern a debt nobody chose. That record clings to the heavily indebted as a shadow at the back; this one transfers to whoever grips it bare-handed and does not ask whether they meant to. | The handler's rate was logged by name as the standing rule requires; neither record moved. | That what is kept here is the condition, not the resemblance. |
+| **The Debtor** `C-IIIγ-061` | Both put a weight on a person that others cannot see. That record is stooped under roughly 7.3 tons of it on the Han-scales. This relic puts a tempo into whoever grips it and an argument already half made. | Nothing was run. The appendix grouped the two on carried weight, and the review left the entry as an arrangement. | That the resemblance is a filing line and the acknowledgement is a document. |
+| **Owed** `C-IIIγ-180` | Both treat an obligation as something physical. That record buds a new block every time a fresh debt is recorded. This relic has never lowered for a ledger, and lowers for a grievance put into writing. | The pair was read at the boundary only; no figure moved in either record, and the wall was not approached. | That this file's condition is a form of words and not a form of payment. |
+| **The Inherited Debt** `N-IVβ-019` | Both concern a debt nobody chose. That record clings to the heavily indebted as a shadow at the back. This one transfers to whoever grips it bare-handed and does not ask whether they meant to. | The handler's rate was logged by name as the standing rule requires; neither record moved. | That what is kept here is the condition, not the resemblance. |
 
 ## 이야기 (Narratio) — The Tale
 
-Goru was not a complicated man. He believed in two things: that Zone B deserved better, and that the Wardens who policed it deserved worse. He organized. He rallied. He stood in front of Collector caravans and refused to move. The city arrested him seven times. He returned eight.
+> **Wardens' Office, Zone B desk. File entry of Sergeant Hal Vesk, Year 4,233.**
+> **Re:** Goru, the seven arrests, and the hand that would not be put down.
 
-The Battle Pits changed everything. When the fighting started — district against district, neighbor against neighbor, the sorrow so thick in the air you could taste it like copper — Goru did not run. He stood at the intersection of two bleeding streets and raised his fist and told both sides to stop. Nobody stopped. A blow caught him from behind. He fell with his fist still raised.
+Goru was not a complicated man. He believed two things: that Zone B deserved better, and that the
+Wardens who policed it deserved worse. He organized, he rallied, he stood in front of Collector
+caravans and would not move. We arrested him seven times. He came back eight.
 
-The Warden who struck him did not mean to kill. The blow was meant to move, not end. But Goru's head struck the cobblestones, and the cobblestones were slick with Han, and the Han was already crystallizing around the rage in his fist.
+I am the sergeant who was at the intersection, and this entry is mine because nobody else in the
+unit will put their name to it.
 
-By morning, the fist was stone. Dark amber, threaded with crimson veins, warm to the touch. And it was beating — slow, wet, unmistakable. The R.D. contained it in eleven minutes. They could not stop the beating.
+The Battle Pits had started that week — district against district, neighbour against neighbour, the
+sorrow so thick in the street you could taste copper. Goru did not run. He stood at the corner of
+two bloody streets and put his fist up and told both sides to stop, and neither side stopped, and a
+blow came at him from behind. It was mine. It was meant to move him, and it moved him onto the
+cobbles, and the cobbles were slick with Han and the Han was already working on the rage in his
+hand.
 
-The Relic does not speak. It does not move. It beats. And when someone angry holds it, the beating speeds up — matching their pulse, then exceeding it, pulling the rage out through the palm like venom from a wound. The holder feels relief. The stone absorbs. And somewhere, in the dark amber of the Relic's interior, Goru's fist clenches tighter.
+By morning the fist was stone. Amber, veined with red, warm, and beating — slow and wet and not
+something anyone could mistake. R.D. had it contained in eleven minutes. They could not stop the
+beating.
+
+It does not speak and it does not move. It beats, and when somebody angry holds it the beating
+matches their pulse and then passes it, and the rage comes out through the palm, and the holder is
+relieved and the stone takes it. I have not held it. I have stood in the room with it four times in
+nine years and it has never once beaten faster for me, and I have decided not to find out what that
+means.
+
+*— H.V., Year 4,233. Not countersigned. The unit was asked and declined.*
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -348,15 +371,15 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 **Threat Assessment:** Major (γ). It cannot move, cannot be heard beyond its own plinth, and has never injured anybody who observed the sixty-second rule. It transfers a sustained tachycardia and an unresolvable conviction into whoever grips it bare-handed, it retains that transfer after release in a measurable minority of handlings, and the grievance it carries is, on the facility's own figures, correct.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types and both lower the gauge; Viderehan is preferred because it produces the legible content.
+- No Work Type is valid. Reading the beat produces the legible content, which is also the reason the reading is logged on the reader.
 - Flerehan and Pugnahan are unavailable to an Object and are not to be attempted as improvisation.
-- Keep the reading on the handler's body throughout: rate against tempo, counted by two people, at every turn and again at release.
+- Keep the reading on the handler's body throughout: rate against tempo, counted by two people, at every reading and again at release.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Object-Body · the Battle Pits riots · the allocation page · the Ward Six successor inquiry
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the body register, the handler log, the allocation figures and the use the facility makes of them are one picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the body register, the handler log, the allocation figures and the use the facility makes of them are one picture. A handler whose entry disagrees with the register is entered in the handler log under their own name, and neither document is edited to agree with the other.
 
 **Review requirement:** Re-verify after any retained-tempo case, Tide, Ordeal or unusual interaction: gauge, relic tempo series, handler rates by name, plinth transmission, the condition of the allocation page, and the standing of the disclosure refusal recorded in the Warden Record.
 
@@ -382,11 +405,11 @@ The riots in whose aftermath the relic formed are documented from several incomp
 
 The page in the containment file carries no heading beyond the years it covers. It is the municipal allocation record for Goru's district, Ward Six, set against the four comparable wards, over the forty years ending with the Battle Pits.
 
-The figures are not the facility's. They were published at the time, ward by ward, and the page is a consolidation of them: per-head allocation for sanitation, water, lighting, the stair levy, the fire watch, and the burial fund. Ward Six is last in every column in every year. In twenty-nine of the forty years it is last by more than a third. The burial fund column is the one Wardens remark on, because Ward Six is the only ward in the table that at no point in forty years received the full statutory rate, and because it is the column Goru's own disciplinary file shows him raising, in writing, four times.
+The figures are not the facility's. They were published at the time, ward by ward, and the page is a consolidation of them: per-head allocation for sanitation, water, lighting, the stair levy, the fire watch, and the burial fund. Ward Six is last in every column in every year. In twenty-nine of the forty years it is last by more than a third. The burial fund column is the one Wardens remark on, because Ward Six is the only ward in the table that at no point in forty years received the full statutory rate. And because it is the column Goru's own disciplinary file shows him raising, in writing, four times.
 
 The consolidated arithmetic is set out below the table in a hand that is not the archivist's. The cumulative shortfall against the mean of the comparable wards, over the forty years, at the rates then current, is a specific sum. It is written out in full, in words as well as figures, and it has not been adjusted for anything since.
 
-**The relic responds to the page.** This is the only management measure that has ever worked on it for longer than a cycle. The page is placed open on the plinth, facing the stone, and left; the tempo falls by between eight and fourteen beats within the quarter-hour and stays down for the rest of the watch. It has been done nine times, by six different Wardens, with the same result each time, including twice with a blank sheet of the same size as a control, which produced nothing.
+**The relic responds to the page.** This is the only management measure that has ever worked on it for longer than a cycle. The page is placed open on the plinth, facing the stone, and left. The tempo falls by between eight and fourteen beats within the quarter-hour and stays down for the rest of the watch. It has been done nine times, by six different Wardens, with the same result each time, including twice with a blank sheet of the same size as a control, which produced nothing.
 
 Nobody in the wing claims to know why, and the file is careful about this. What it records is the observation and one unavoidable implication: the condition that settles this entity is the presentation of evidence that it was right.
 
@@ -398,7 +421,7 @@ A grievance of this kind is pursued by petition. Ward Six petitioned — four ti
 
 What bars them is what happened next. The Battle Pits riots were a riot. Three weeks, four deaths, a burned toll house, and a ward that had gone from petitioning to taking. The riot was unlawful in every particular and nobody in the file pretends otherwise, including the ward's own later statements.
 
-And a court will not assist a claimant who comes to it out of their own illegality. The inquiry convened afterwards was not able to consider the allocation question on its merits, because the only body with an interest in pursuing it was, by then, the party that had rioted, and the claim could not be separated from the conduct that had made it urgent. The ruling is two pages and is scrupulously polite. It accepts that the figures may well disclose a long-standing inequity. It declines to examine them, because the forum in which they would have to be examined is closed to a petitioner who has already taken the remedy into their own hands.
+And a court will not assist a claimant who comes to it out of their own illegality. The inquiry convened afterwards was not able to consider the allocation question on its merits, because the only body with an interest in pursuing it was, by then, the party that had rioted. And the claim could not be separated from the conduct that had made it urgent. The ruling is two pages and is scrupulously polite. It accepts that the figures may well disclose a long-standing inequity. It declines to examine them, because the forum in which they would have to be examined is closed to a petitioner who has already taken the remedy into their own hands.
 
 So the grievance was good and is unenforceable, and the thing that made it unenforceable is the thing the grievance itself produced. Goru died with his fist up three days before the ruling and never knew either half of it.
 
@@ -408,7 +431,7 @@ The archivist's line, which sits under the ruling rather than in it: *he was rig
 
 In the eleventh year the successor body for the amalgamated wards opened a historical review of ward allocations. It wrote to the facility. It asked for the allocation page.
 
-It asked because the page is the only consolidated copy. The underlying annual returns were dispersed when the wards were amalgamated and a quantity of them were lost in the move; the facility's consolidation was made from a complete set that no longer exists anywhere else. This is stated plainly in the facility's own file, in the archivist's note, written years before the request.
+It asked because the page is the only consolidated copy. The underlying annual returns were dispersed when the wards were amalgamated and a quantity of them were lost in the move. The facility's consolidation was made from a complete set that no longer exists anywhere else. This is stated plainly in the facility's own file, in the archivist's note, written years before the request.
 
 The request was refused. The ground was correct: the page forms part of a containment file, containment files are exempt from disclosure as security information, the exemption is absolute rather than qualified, and the compliance post that applied it had no discretion to do otherwise. The refusal letter is three lines long and is impeccable.
 
@@ -416,13 +439,13 @@ The review closed the following year for want of evidence. Its closing note reco
 
 The page stayed on the plinth rota. It is placed in front of the stone roughly once a watch-cycle and is the facility's only effective management measure for this holding.
 
-The bay's senior Warden has raised that objection at every annual review, and the wing archivist has seconded it. It holds that the facility uses the page operationally, in the open, as a containment measure, and so cannot coherently maintain that its content is security material; that the figures are municipal and were published, so the exemption protects a secret that does not exist and withholds a document that was never the facility's to begin with; and that the review it closed was the last forum in which the grievance this entity is made of could have been acknowledged by anybody other than a Warden holding a sheet of paper up to a stone.
+The bay's senior Warden has raised that objection at every annual review, and the wing archivist has seconded it. It holds that the facility uses the page operationally, in the open, as a containment measure. And so cannot coherently maintain that its content is security material. That the figures are municipal and were published. So the exemption protects a secret that does not exist and withholds a document that was never the facility's to begin with. And that the review it closed was the last forum in which the grievance this entity is made of could have been acknowledged by anybody other than a Warden holding a sheet of paper up to a stone.
 
-The minute holds the objection sound on all three of its grounds, and records that a redacted release — the table and the arithmetic, with the containment annotations removed, offered to the successor body as a historical document — was drafted in the eleventh year, costed at an afternoon of the archivist's time, and never laid. The sentence the archivist asked to have entered verbatim is now the only line on the reverse of the page: *we are the only ones who will show him the figures, and we only do it to make him quieter.*
+The minute holds the objection sound on all three of its grounds. And records that a redacted release — the table and the arithmetic, with the containment annotations removed, offered to the successor body as a historical document — was drafted in the eleventh year, costed at an afternoon of the archivist's time, and never laid. The sentence the archivist asked to have entered verbatim is now the only line on the reverse of the page: *we are the only ones who will show him the figures, and we only do it to make him quieter.*
 
 ## Trivia
 
-- One of the first catalogued **Object-Body** entities in Somnarak, and the first in which the body register was identified as the sole channel of contact.
+- The wing holds two other carved hands and neither of them beats, which is how the designation is confirmed before any contact.
 - It is the only object in the wing that takes a reading of the person handling it, and the reading is of their anger rather than their exertion.
 - The Grudge here arrives with content. Personnel describe standard grudge as a mood and this as a brief.
 

@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Sinking Chime-Tower
+# M.A.W. WEAPON — The Tower Requiem
 
-> *“The Tower Requiem remembers Spire of Unanswered Prayer; the bearer must not mistake memory for permission.”*
+> *"Each blow adds one more unanswered request to what the wielder can hear. They answer everything and finish nothing."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Spire of Unanswered Prayer's lament signature in the strike.  
-**Binding rule:** the bearer names Spire of Unanswered Prayer's event—A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city.—and accepts this limit: Listen to the song; do not silence it
+**Binding rule:** the bearer names Spire of Unanswered Prayer's event — “A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city.” — and accepts this limit: Listen to the song; do not silence it
 
 ## Appearance
 
-Appearance : A portable tier of four graduated bronze bells mounted on a curved wrought-iron stand with a central carrying handle, each bell tuned to a descending minor fourth harmonic.
+A portable tier of four graduated bronze bells mounted on a curved wrought-iron stand with a central carrying handle, each bell tuned to a descending minor fourth harmonic.
 
 Ringing the bells in descending order unleashes an acoustic resonance wave that forces airborne sorrow entities downward, pinning them to the floor under simulated atmospheric pressure.
 
@@ -31,16 +31,20 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Spire of Unanswered Prayer's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
+**Operational / binding cost:** The strike rings a note the community never finished: each blow makes the wielder hear one more unanswered request. Wielded long, they answer everything and finish nothing.
 
 ## ITEM-SPECIFIC HISTORY — *The Spire of Unanswered Prayer Source-Trace: Weapon Record*
 
-The first The Tower Requiem field bearer encountered this source response: The voice becomes a storm of hot tears. The weapon uncouples the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tower Requiem encountered this source response: The voice becomes a storm of hot tears. The weapon uncouples the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. The first wielder to answer a bell that had not rung in years found their own name in the request column, and the Requiem’s binding dates from that entry.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Spire of Unanswered Prayer's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the unanswered requests begin arriving from rooms the wielder has never worked.
 - Terminal state: Spire of Unanswered Prayer's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen to the song; do not silence it” reverses the item’s benefit and raises the source Gauge.  
@@ -49,15 +53,4 @@ The first The Tower Requiem field bearer encountered this source response: The v
 
 ## SET RELATIONSHIP
 
-Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-796-B`  
-**Linked Entity:** `SE-796`  
-**Item Registry Code:** `MAW-W-796-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on the first request the wielder both answers and finishes.

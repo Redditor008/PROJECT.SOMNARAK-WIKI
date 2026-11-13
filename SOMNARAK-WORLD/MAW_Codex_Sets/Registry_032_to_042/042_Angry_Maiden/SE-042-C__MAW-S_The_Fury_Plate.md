@@ -28,7 +28,7 @@
 
 ### Appearance
 
-The Fury Plate is a crimson harness of interlocking Han-iron plates that covers the chest, shoulders, and upper arms in tight vertical segments. Between the plates, narrow seams of dark metal run the full length of the harness and glow a dull red as Grudge impact is absorbed. The inner lining is smooth and cool, but the seams grow warm with retained force and must be released through controlled exertion, confession, or rest. The Plate is harder to remove than a standard harness and does not loosen while heat is stored. When the wearer is struck repeatedly, the seams darken and the wearer's reflexes sharpen toward confrontation and dull toward reconciliation. A single unexpected touch can discharge the stored force, so the Plate is never worn without a cooling protocol nearby. The harness is buffed after each shift, and the seams release their heat slowly through the open back plates.
+The Fury Plate is a crimson harness of interlocking Han-iron plates that covers the chest, shoulders, and upper arms in tight vertical segments. Between the plates, narrow seams of dark metal run the full length of the harness and glow a dull red as Grudge impact is absorbed. The inside of the harness is dressed smooth; the seams are what get warm, and they must be released through controlled exertion, confession, or rest. The Plate is harder to remove than a standard harness and does not loosen while heat is stored. When the wearer is struck repeatedly, the seams darken and the wearer's reflexes sharpen toward confrontation and dull toward reconciliation. A single unexpected touch can discharge the stored force, so the Plate is never worn without a cooling protocol nearby. The harness is buffed after each shift, and the seams release their heat slowly through the open back plates.
 
 ### Ability— Hold the Heat
 
@@ -41,12 +41,3 @@ The Plate absorbs low-to-medium Grudge impacts and stores the force as heat alon
 ### History Record
 
 A Fury Plate bearer held a breach line for twenty minutes without injury. Afterward, a teammate touched the bearer’s shoulder unexpectedly and the stored heat discharged into a wall. No one was harmed, but the line required a new cooling protocol.
-
-**Document ID:** `SE-042-C`  
-**Linked Entity:** `SE-042`  
-**Item Registry Code:** `MAW-S-042-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

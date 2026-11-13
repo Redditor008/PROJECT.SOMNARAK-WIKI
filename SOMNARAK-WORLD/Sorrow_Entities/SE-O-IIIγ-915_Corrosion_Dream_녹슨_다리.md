@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-915 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dreamlike figure built from rusted bridge plates and dark water — corroded span and slow current fused into a wandering form. Bloodless-cold, it smells of ash and wet iron; it sings, but only those who have lost a crossing can hear it. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — walks the district and does not hold a fixed bay. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 2 |
+| **Work Damage** | 3–5 Void — the cost is a reading lowered and no session dismantling anything |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -39,8 +40,8 @@
 ### Operational Notes
 
 - A finished cycle lowers the reading and does nothing past that: no session dismantles the span, dries it out, or makes it shorter by a metre.
-- A gauge on the climb, a cycle that fails, or a single clause of the activation order passed over is enough to begin what this file enters under breach, activation and expansion.
-- Han-Energy off this holding is booked against the exposure it took to earn; a bigger yield would mean specialised crews, longer recovery, or harder containment, and the file says so.
+- A gauge on the climb, a cycle that fails, or a single clause of the activation order passed over is enough to begin what this file enters under a containment event, activation and expansion.
+- Han-Energy off this holding is booked against the exposure it took to earn. A bigger yield would mean specialised crews, longer recovery, or harder containment, and the file says so.
 - Extraction here is a risk event in its own right and is never booked as a bonus for a normal shift.
 
 ## Combat Record
@@ -77,16 +78,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Corroded Span* [**Debuff**] } | "The plates come away under the boot in flakes, and each flake is a piece of a plan that was never funded." | [The span's own decay is what the target is standing on.] | *Target suffers a Void mark; the ground they meant to cross stops being something they can plan on.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target steps on the Bridge. |
-| { *The Sagging Cable* [**Debuff**] } | "The cables are down to threads and they sing in the wind, and the note they sing is the one the song never finishes." | [The decayed supports carry the figure's missing note out to everybody present.] | *Target loses clarity; they hear the gap in the structure and cannot leave it alone.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target crosses. |
-| { *The Falling Flake* [**Attack**] } | "A sheet of rust breaks from the bridge — heavy, oxidized, sharp — and falls." | [A massive rust-flake drops onto the target.] | *Inflicts Void damage; the corrosion carries void-weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bridge is shaken. |
-| { *The Full Corrosion* [**Attack**] } | "Everything the span was built on goes to powder at once, and the crossing stops existing in the middle of being used." | [The whole structure oxidises in a single movement.] | *A heavy Void dissolution; the target's Sorrow Gauge surges 15%, and the ledger of what they meant to build goes with it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Bridge is struck. |
-| { *The Rusted Field* [**Ultimate**] } | "Every crossing in the district goes at once, and every side is left with what it could not get to." | [The corrosion extends to every span in range, as the district's own works do when the money is returned.] | *All in range suffer Void erosion for three turns with no way across to anybody.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Corroded Span* [**Debuff**] } | "The plates come away under the boot in flakes. And each flake is a piece of a plan that was never funded." | [The span's own decay is what the target is standing on.] | *Target suffers a Void mark; the ground they meant to cross stops being something they can plan on.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target steps on the Bridge. |
+| { *The Sagging Cable* [**Debuff**] } | "The cables are down to threads and they sing in the wind. And the note they sing is the one the song never finishes." | [The decayed supports carry the figure's missing note out to everybody present.] | *Target loses clarity; they hear the gap in the structure and cannot leave it alone.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target crosses. |
+| { *The Falling Flake* [**Attack**] } | "Nothing falls on anybody. Four containment events, four arrivals at the same works yard. And nothing has ever collapsed under anyone." | [The first target is the plan chest: drawings oxidise at the folds and the figures become unreadable before the drawing does.] | *Void damage lands on the estimates, not the estimators; personnel lose the recollection of one thing they meant to do and never did, and generally do not notice.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the figure stands over the drawings unaddressed. |
+| { *The Full Corrosion* [**Attack**] } | "It does not need to be struck. The fraction rises by a fifth each turn. And stops the turn a works order is signed in the room." | [Four events ended on a signature, not on suppression; the one removal of the drawings on record took the figure to the records office instead, which is worse.] | *A heavy Void settling; the gauge falls for each repair actually attempted and recorded as failed, with costs — a failure on paper has never once raised it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When nobody in the room will sign anything. |
+| { *The Rusted Field* [**Ultimate**] } | "Nine proposed, two built, one abandoned, six refunded — and the fraction followed each return inside the fortnight." | [No span fails anywhere. What goes is the district's willingness to begin, measured in quarters of plate to standing water by the same coarse series every week.] | *Void erosion across everybody whose plan is still in the drawer, looking like a plan; the annual attempted repair, failures published, has kept it at or below a half.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | In a year of refunds. |
 
 ### Battle Phases
 
-1. **Tension:** The figure is known by its song and by the plate-to-water ratio, never by its outline, which changes between appearances. The estimate is taken in quarters on purpose — a coarse series kept weekly has twice caught a shift that a fine series taken at random would have lost. The song reaches only people who have crossed a boundary that broke behind them; the rest of the watch hears nothing, and those who do are required to record that singing occurred and are never asked what was sung. Position and withdrawal are established before anything else is attempted.
-2. **Clash:** The work is naming what was never built. Flerehan brings the rusted hands down and the reading with them; Ferrehan stays beside it while the distance is admitted rather than closed; Pugnahan turns plate into edge and raises it. The one sentence nobody may say is a promise that the crossing will be rebuilt — a promise the facility is in no position to keep and has made twice.
+1. **Tension:** The figure is known by its song and by the plate-to-water ratio, never by its outline, which changes between appearances. The estimate is taken in quarters on purpose — a coarse series kept weekly has twice caught a shift that a fine series taken at random would have lost. The song reaches only people who have crossed a boundary that broke behind them. The rest of the watch hears nothing, and those who do are required to record that singing occurred and are never asked what was sung. Position and withdrawal are established before anything else is attempted.
+2. **Clash:** The work is naming what was never built. Flerehan brings the rusted hands down and the reading with them. Ferrehan stays beside it while the distance is admitted rather than closed. Pugnahan turns plate into edge and raises it. The one sentence nobody may say is a promise that the crossing will be rebuilt — a promise the facility is in no position to keep and has made twice.
 3. **Resolution:** The watch closes on an accounting that gives nothing away — the documented suppression condition: **Do not promise reunion; name both the crossing and the loss**. The span fell, the far bank will not hold an abutment, nobody is coming to build it: all three said in one breath, and no undertaking given that the facility cannot keep.
 
 ### Consequences
@@ -94,7 +95,7 @@
 - Resistance failure carries the sorrow straight into the worker: **Composure** is broken down and the gauge is fed from it.
 - Exposure does what the records say and leaves a mark the gauge never shows: a worker comes away permanently missing the memory of one thing they meant to do and never did, and usually without noticing. The loss is entered against the holding and never against the person, which is why a second pair of eyes compares the post-contact sheets.
 - Nothing about the set is free: the somatic, psychological, and mnemonic price is set out in the equipment record and collected with every swing.
-- A cycle that fails to resolve fires the breach protocol: the gauge runs to its ceiling, the fail-safes give, and the sorrow comes out through the corridors.
+- A cycle that fails to resolve does not come out through any corridors: it walks, slowly, to wherever the district's unbuilt works are drawn or stored, and stands over the plan chest until somebody signs something.
 
 ## Appearance
 **Primary Form:** A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary.
@@ -116,11 +117,11 @@
 |---|---|
 | **Form** | A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary. |
 | **Position / movement** | Mobile within the district; never twice in the same bay, and drawn to wherever unbuilt works are drawn or stored. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Identify it by the song and the proportions, not by the shape, which changes between appearances. The song is heard only by personnel who have themselves crossed a boundary that broke behind them; most of the watch hears nothing, and the holding depends on the few who do, who are required to record that singing occurred and not what was sung. |
-| **Identification** | Verify against the SECC code before work or contact begins; the shape varies between appearances and the plate-to-water proportion, not the silhouette, is the identifying figure. |
+| **Material / signature** | Void. Rusted bridge plate and dark standing water in the proportions that are the holding's only instrument. Ash and wet iron on the air. A song with one permanently missing note, heard only by people who have crossed a boundary that broke behind them. |
+| **Distinctive markers** | Identify it by the song and the proportions, not by the shape, which changes between appearances. The song is heard only by personnel who have themselves crossed a boundary that broke behind them. Most of the watch hears nothing, and the holding depends on the few who do, who are required to record that singing occurred and not what was sung. |
+| **Identification** | Verify against the SECC code before work or contact begins. The shape varies between appearances and the plate-to-water proportion, not the silhouette, is the identifying figure. |
 
-**Appearance protocol:** Estimate the proportion of corroded plate to standing water in quarters, not percentages; the coarse series has twice caught a change a finer irregular one would have missed. Log the bay, the height, whether the hands are raised or lowered, and whether singing occurred, recorded as a yes and not as a transcript.
+**Appearance protocol:** Estimate the proportion of corroded plate to standing water in quarters, not percentages. The coarse series has twice caught a change a finer irregular one would have missed. Log the bay, the height, whether the hands are raised or lowered, and whether singing occurred, recorded as a yes and not as a transcript.
 
 ## Origin
 - **Formation:** The Bridge formed from the dream of a connection that could not be repaired.
@@ -133,25 +134,27 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Sings a warmer verse and lowers its rusted hands. | Decrease |
-| **Pugnahan** | The bridge plates twist into defensive edges. | Increase |
-| **Viderehan** | Reveals the failed crossing and those left behind. | Stable |
-| **Ferrehan** | Keeps singing until the worker can remain with the distance. | Decrease |
+| **Flerehan** | Sings a warmer verse and lowers its rusted hands. | Decrease · High |
+| **Pugnahan** | The bridge plates twist into defensive edges. | Increase · Low |
+| **Viderehan** | Reveals the failed crossing and those left behind. | Stable · Common |
+| **Ferrehan** | Keeps singing until the worker can remain with the distance. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-**The table reads the water fraction and nothing else.** Flerehan lowers the rusted hands and lowers the figure's water; Ferrehan stays beside it while the distance is admitted rather than closed; Viderehan shows the crossing that failed and the people left standing at the near end, and leaves the reading where it was, which on this holding is a result and not a null; Pugnahan turns the plates to edges and is the one approach that has never once brought the fraction down. The variable the table cannot show is the district's ledger: the fraction rose from a quarter to three quarters across 4238, and each of the six refunds was followed within the fortnight. A stable reading beside this figure still costs the observer a shift of standing where nobody was waiting.
+**The table reads the water fraction and nothing else.** Flerehan lowers the rusted hands and lowers the figure's water. Ferrehan stays beside it while the distance is admitted rather than closed. Viderehan shows the crossing that failed and the people left standing at the near end. And leaves the reading where it was, which on this holding is a result and not a null. Pugnahan turns the plates to edges and is the one approach that has never once brought the fraction down. The variable the table cannot show is the district's ledger: the fraction rose from a quarter to three quarters across 4238, and each of the six refunds was followed within the fortnight. A stable reading beside this figure still costs the observer a shift of standing where nobody was waiting.
 
 **Reading the response:** A falling water fraction means the crossing and the loss were both named and neither was repaired by promise. Stability under Viderehan is correct. It rises when reunion is offered, when the plates are met with force, and in any week the district returns money raised for a repair instead of spending it on one.
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The gauge is a threshold and the count is the activation's own. The yard corrodes outward from the drawings, and the record holds four arrivals and no departure.
 
 > *"It is in the works yard, standing over the drawings."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corrupt |
 | **Movement** | It walks, slowly, and goes to wherever the district's unbuilt works are drawn or stored. Four events, four arrivals at the same yard. Nothing has ever collapsed under anyone. |
 | **Effect** | Drawings and estimates within the room oxidise at the folds, and the figures become unreadable before the drawing does. |
 | **Secondary Effect** | Personnel present lose the recollection of one thing they meant to do and never did, permanently, and generally do not notice. |
@@ -160,9 +163,9 @@
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Do not seal the works yard and do not remove the drawings; the one removal on record took the figure to the records office instead, which is worse. Sign something. The approach table lists confrontation as an increase and the four events ended on a signature, not on suppression.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each works subscription or repair allocation in the district returned to its subscribers without being spent. It falls 10% for each crossing repair actually attempted and recorded as failed, with costs, and the archive notes that a failure on paper has never once raised it.
+- **Event type (non-breach):** Corrupt. The rust spreads through the drawings and the yard, and every subscription in the district return is fuel for it.
+- **Containment priority:** Do not seal the works yard and do not remove the drawings. The one removal on record took the figure to the records office instead, which is worse. Sign something. The approach table lists confrontation as an increase and the four events ended on a signature, not on suppression.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% for each works subscription or repair allocation in the district returned to its subscribers without being spent. It falls 10% for each crossing repair actually attempted and recorded as failed, with costs, and the archive notes that a failure on paper has never once raised it.
 
 ## M.A.W. Equipment
 
@@ -172,7 +175,7 @@
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A curved naval hanger with a twenty-eight inch single-edged blade, deeply pitted with rust, under an ornate pierced brass basket hilt lined in sharkskin.
+**Appearance:** A curved naval hanger with a twenty-eight inch single-edged blade, deeply pitted with rust, under an ornate pierced brass basket hilt lined in sharkskin.
 
 Corroded as it looks, the edge is polished to a razor. The cutlass is built for close-quarters work, its basket turning enemy blows aside with ease.
 
@@ -188,7 +191,7 @@ Corroded as it looks, the edge is polished to a razor. The cutlass is built for 
 
 **Ability:** Void damage to the soul. The blade carries the span's signature, and what it takes from a target is the recollection of a plan they abandoned at the drawing stage, which does not return.
 
-**Cost:** The wielder loses small, nameless memories, beginning with the names of places they intended to go and did not.
+**Bearer cost:** The wielder loses small, nameless memories, beginning with the names of places they intended to go and did not.
 
 ### M.A.W. Suit — The Rusted Span
 
@@ -208,7 +211,7 @@ The span is worn at 35 Sorrow Echoes a deployment and its effect is the dreamed 
 
 **Ability:** Creates a temporary path through hostile space.
 
-**Cost:** The wearer feels everyone who cannot follow.
+**Bearer cost:** The wearer feels everyone who cannot follow.
 
 ### M.A.W. Stigma — The Rusted Charm
 
@@ -224,7 +227,7 @@ It is a head-slot stigma, and what it shows is the failed crossing and the peopl
 
 **Ability:** The charm warms when the bearer is within reach of something they have given up on, which is a navigational aid rather than a comfort and is used as one.
 
-**Cost:** The bearer occasionally forgets a word.
+**Bearer cost:** The bearer learns where every abandoned thing in the district is, and the charm warms the same for all of them.
 
 *The stigma is not made anywhere. It goes to a Warden who named the crossing and the loss in one sentence, and it has never once gone to one who told the figure the bridge would be built.*
 
@@ -232,7 +235,7 @@ It is a head-slot stigma, and what it shows is the failed crossing and the peopl
 
 Every piece of this set is a fragment of Corrosion Dream, and each carries its own charge rather than a share of one toll. The Cutlass takes the plans: the names of places the bearer meant to go and never went go first, as small nameless memories. The Span takes the company: the wearer feels everyone who cannot follow, every crossing counted against those still on the far side. The Charm takes the words: one here and there, never noticed at the time, so sentences lose planks mid-span. The grade column measures extraction stability and says nothing about the cost column, which is the reason the pieces leave the rack one rotation at a time.
 
-The set binds on the event rather than on the effort: the bearer names Corrosion Dream's event — a bridge collapsed and the surviving community dreamed of rebuilding it, and the dream rusted before completion — and accepts the limit that follows, which is to promise no reunion and to name both the crossing and the loss. A bearer who begins describing the event in the first person is showing the first failure sign; if the item then repeats the source response outside contact, the manifestation is using the bearer as its new site. A named witness can state the source title and the event while the bearer relinquishes the piece, which preserves the record and refunds none of the cost.
+The set binds on the event rather than on the effort: the bearer names Corrosion Dream's event — a bridge collapsed and the surviving community dreamed of rebuilding it. And the dream rusted before completion — and accepts the limit that follows, which is to promise no reunion and to name both the crossing and the loss. A bearer who begins describing the event in the first person is showing the first failure sign. If the item then repeats the source response outside contact, the manifestation is using the bearer as its new site. A named witness can state the source title and the event while the bearer relinquishes the piece, which preserves the record and refunds none of the cost.
 
 ### Field Use Record
 
@@ -241,9 +244,9 @@ The set binds on the event rather than on the effort: the bearer names Corrosion
 | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline taken against this set's known toll — the names of places the wielder intended to go and did not, written by the wielder and sealed by the second worker. The envelope is opened at the end of the rotation and not before, so that the comparison is against what was written and not against what is remembered. The bearer's one-sentence naming of the crossing and the loss is entered with the envelope, because that sentence is the condition the Stigma is issued under. |
 | **During use** | The first sign is a plan going quiet: the wielder stops mentioning a place they had meant to go, or answers a question about it with a shrug. The second worker logs the hour it is first seen, never the hour it is first mentioned, and never reads the entry back to the wielder during the rotation. |
 | **At limit** | The wearer has begun to feel everyone who cannot follow them — the ones left on the near bank, the ones who were not told, the ones still waiting — as a weight carried continuously rather than occasionally. The second worker calls the limit at that point and the call stands against the wielder's, which is the rule the set is issued under. |
-| **After use** | The piece is returned and a colleague is asked, not the wielder, whether the weight of the people who cannot follow is still showing; the colleague's answer is the record. The sealed envelope is opened at the end of the rotation, and where a name written in it has gone, the piece is not reissued to that wielder and the loss is entered against the holding. The piece is cleaned or rested only after an attribution review, and a shutdown entered under a named witness preserves the record without refunding the cost. |
+| **After use** | The piece is returned and a colleague is asked, not the wielder, whether the weight of the people who cannot follow is still showing. The colleague's answer is the record. The sealed envelope is opened at the end of the rotation, and where a name written in it has gone, the piece is not reissued to that wielder and the loss is entered against the holding. The piece is cleaned or rested only after an attribution review, and a shutdown entered under a named witness preserves the record without refunding the cost. |
 
-**Stat interpretation:** The rating describes the effect on entities and says nothing about the price paid by the person holding the piece. All three pieces in this set are γ-grade and all three take the same kind of thing, in the same order, from every bearer — the names of places meant to be visited and never visited, the weight of everybody who cannot follow, and a word here and there. The cost therefore cannot be read off the grade and is not inversely proportional to it; authorise on the cost column, take the sealed baseline before the issue, and open the envelope after the return.
+**Stat interpretation:** The rating describes the effect on entities and says nothing about the price paid by the person holding the piece. All three pieces in this set are γ-grade and all three take the same kind of thing, in the same order, from every bearer — the names of places meant to be visited and never visited, the weight of everybody who cannot follow. And a word here and there. The cost therefore cannot be read off the grade and is not inversely proportional to it. Authorise on the cost column, take the sealed baseline before the issue, and open the envelope after the return.
 
 ## 관찰 기록 (Observation Log)
 
@@ -261,10 +264,10 @@ The set binds on the event rather than on the effort: the bearer names Corrosion
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The bay, the distance from the old abutment, the plate-to-water fraction in quarters, whether the hands are raised or lowered, and whether singing occurred; the dream report that preceded the encounter is attached before the measurements are read, because a dream report adjusts the rota automatically and the encounter does not wait for one. On the 4238 series the fraction ran from a quarter in the first third of the year to three quarters at the end of it. |
+| **Initial exposure** | The bay, the distance from the old abutment, the plate-to-water fraction in quarters, whether the hands are raised or lowered. And whether singing occurred. The dream report that preceded the encounter is attached before the measurements are read, because a dream report adjusts the rota automatically and the encounter does not wait for one. On the 4238 series the fraction ran from a quarter in the first third of the year to three quarters at the end of it. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The fraction is the instrument: it rises by a fifth each turn while the figure stands over the drawings unaddressed, and stops the turn a works order is signed in the room, whether or not the work is ever carried out. Across a year the same instrument reads the district — nine proposals, two completions, one abandonment and six refunds, with a rise inside the fortnight of each return, and the facility's own annual repair attempted against a withdrawn objection. On a breach the figure goes to the works yard, and the four events on record all ended on a signature rather than on suppression. |
-| **Post-contact review** | The fraction at exit against the fraction at entry, and the bay it next appears in; whether the hands came down; whether anything was said in the room that resembled a promise, entered with the name of the person who said it; the sheets compared afterwards for the recollection somebody meant to act on and never did; and the week's works ledger set beside all of it. The last line of the record is the standing question, and it is answered plainly: the report is incomplete if it describes the figure and omits what the district stopped building. |
+| **Activation or escalation** | The fraction is the instrument: it rises by a fifth each turn while the figure stands over the drawings unaddressed. And stops the turn a works order is signed in the room, whether or not the work is ever carried out. Across a year the same instrument reads the district — nine proposals, two completions, one abandonment and six refunds, with a rise inside the fortnight of each return, and the facility's own annual repair attempted against a withdrawn objection. On a containment event the figure goes to the works yard, and the four events on record all ended on a signature rather than on suppression. |
+| **Post-contact review** | The fraction at exit against the fraction at entry. And the bay it next appears in. Whether the hands came down; whether anything was said in the room that resembled a promise, entered with the name of the person who said it. The sheets compared afterwards for the recollection somebody meant to act on and never did. And the week's works ledger set beside all of it. The last line of the record is the standing question, and it is answered plainly: the report is incomplete if it describes the figure and omits what the district stopped building. |
 
 **Observation method:** Record the dream report that preceded the encounter, the bay, the proportions on arrival and on leaving, and the district's works ledger for the week, which is the variable. The condition that ends the encounter is the Warden's shift. Appearance is diagnosis, not prediction; the proportions reveal the wound, not the next move.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -272,7 +275,7 @@ The set binds on the event rather than on the effort: the bearer names Corrosion
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Corrosion Dream (O-IIIγ-915 [VS]) is a Subject-Dream manifestation expressing Void, formed from the dream of a connection that was paid for and never built: the span fell, the community went the long way round for eleven years, and the money raised for the rebuilding was held for seven and returned in full. Held at Zone D, Forge District. Its song comes through strongest near damaged bridges and gates, and the water fraction is the file’s reading.
+Corrosion Dream (O-IIIγ-915 [VS]) is a Subject-Dream manifestation expressing Void, formed from the dream of a connection that was paid for and never built: the span fell, the community went the long way round for eleven years. And the money raised for the rebuilding was held for seven and returned in full. Held at Zone D, Forge District. Its song comes through strongest near damaged bridges and gates, and the water fraction is the file’s reading.
 
 **Entry 2 — <Works Ledger Return: Nine Proposed, Two Built, Six Refunded>**
 Crossing and span repairs proposed in the Forge District in 4238: nine. Funded, begun, and completed: two. Funded, begun, and abandoned part-built: one. Funded and then cancelled before work started, with the money returned: six. The figure's water fraction stood at a quarter in the first third of the year and at three quarters by the end of it, the rise following each of the six returns within the fortnight. Dream-layer observation throughout shows a complete bridge. Waking observation shows plate and water and nothing spanning anything.
@@ -284,7 +287,7 @@ Crossing and span repairs proposed in the Forge District in 4238: nine. Funded, 
 Management: Do not promise reunion; name both the crossing and the loss. Work response — Flerehan: sings a warmer verse and lowers the rusted hands. (Decrease); Pugnahan: the bridge plates twist into defensive edges. (Increase); Viderehan: opens the failed crossing and the people left behind. (Stable); Ferrehan: keeps singing until the worker can stay with the distance. (Decrease). Hope is reported before the sense of abandonment.
 
 **Entry 5 — <Archive Note: One Repair a Year, Failures Published>**
-This facility now funds and attempts one crossing repair in the Forge District each year, selected without regard to likelihood of success, and publishes the outcome including the cost of the failures. Three of the last five failed. The objection recorded at the time of adoption was that this is a deliberate waste of money on works the engineers expect to lose, and the objection is correct and has never been withdrawn. What the measure buys is a ledger in which repairs are recorded as attempted rather than as returned, and the water fraction has not exceeded a half in any year since. The archive adds that the community asked for one thing only, that the money be recorded as having been raised, and that nobody granted it at the time; the published ledger is the nearest thing to granting it that exists.
+This facility now funds and attempts one crossing repair in the Forge District each year, selected without regard to likelihood of success, and publishes the outcome including the cost of the failures. Three of the last five failed. The objection recorded at the time of adoption was that this is a deliberate waste of money on works the engineers expect to lose, and the objection is correct and has never been withdrawn. What the measure buys is a ledger in which repairs are recorded as attempted rather than as returned, and the water fraction has not exceeded a half in any year since. The archive adds that the community asked for one thing only, that the money be recorded as having been raised, and that nobody granted it at the time. The published ledger is the nearest thing to granting it that exists.
 
 ## 최종 관찰 (Final Observation)
 
@@ -301,17 +304,17 @@ Rusted plates rise out of the dream and build a span over black water. You cross
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Dream resolve into something you can name. A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary.
+**At first contact:** It is never in the same bay twice running, and you may not hear it at all: the song reaches only people who have crossed a boundary that broke behind them. Estimate the plate-to-water fraction in quarters before anything else, and notice whether the hands are raised.
 
 **With continued exposure:** what you took in first peels back into something more exact. There is a rhythm to it, and a pattern, and a logic to the emptiness this thing is made of. Knowing the pattern does not shorten the crossing.
 
-**When the entity activates:** the reason the containment protocols exist becomes plain. What had only been present turns directed and purposeful — the Subject-Dream had been keeping something in reserve, and now it is spent.
+**When the entity activates:** It is in the works yard, standing over the drawings. Do not seal the yard and do not remove the plans. Sign something.
 
 **After departure:** The containment boundary holds the Subject-Dream, but not the memory. Void residue settles into the bones like Han into the city's foundations.
 
 ### Interaction Pattern
 
-Corrosion Dream is filed with the three Forge District records of works that were planned and never carried out, and none of the three is an alliance. The Sunken Bridge is the other half of the same failure with both figures rising together; The Dream Weaver reconstructs the span in the dream layer, where it stands complete and where this figure's own proportions do not govern; The Broken Promise carries what was said about reunions and keeps it after the two are separated; and The Dream Weaver's Loom has never been observed beside it at all. Each relation is entered with what the file will support and no more, and on this holding the reading is the water fraction, which does not move for company.
+Corrosion Dream is filed with the three Forge District records of works that were planned and never carried out, and none of the three is an alliance. The Sunken Bridge is the other half of the same failure with both figures rising together. The Dream Weaver reconstructs the span in the dream layer, where it stands complete and where this figure's own proportions do not govern. The Broken Promise carries what was said about reunions and keeps it after the two are separated. And The Dream Weaver's Loom has never been observed beside it at all. Each relation is entered with what the file will support and no more, and on this holding the reading is the water fraction, which does not move for company.
 
 **Interaction method:** Establish it alone first, with the works ledger collected alongside. In shared conditions log the proportions in both figures, the distance, and whether the song acquired its missing note, which it has not. With the Dream Weaver the span appears complete in the dream layer and the waking water fraction rises during every such session, which is the clearest result the holding has.
 
@@ -323,14 +326,14 @@ It is shelved with the Forge District records of works not carried out. The rela
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **The Sunken Bridge** | Two crossings lost, and both figures are built of the same two materials, which is the whole of the resemblance the file will support. | The one pairing on this holding with a repeatable result: in each of the co-presences logged, the water fraction rose in both figures during the session and did not come down within the day. Nothing travelled between them and nothing was transferred; the two simply rose together. | The session times, both figures' fractions at entry, at the first change and at exit, the distance held, and the week's works ledger for the district. |
-| **The Dream Weaver** | It rebuilds the span in the dream layer, where it stands complete and where nobody is waiting at the far end either; this figure's proportion is the waking measurement and the Weaver does not touch it for the better. | Co-presence logged twice. The complete span appeared in both dream reports on the same night and the waking water fraction rose during both sessions, which is the clearest result on the holding and the one it trusts least, having only two of them. | The two dream reports, both fractions at entry and exit, the distance, and an entry stating that a complete dream span is not a repair. |
-| **The Broken Promise** | It carries what was said about coming back, and it is the only one of the three that does something to the personnel rather than to the structure. | Observed once at distance. The plates and the water did not move; two of the four people present lost the recollection of something they had meant to do and never did, and neither noticed until the sheets were compared. The pairing is entered as a personnel finding, not a structural one. | The four sheets, the two losses with the hour each was first detected by a colleague, and the distance held throughout. |
+| **The Dream Weaver** | It rebuilds the span in the dream layer, where it stands complete and where nobody is waiting at the far end either. This figure's proportion is the waking measurement and the Weaver does not touch it for the better. | Co-presence logged twice. The complete span appeared in both dream reports on the same night and the waking water fraction rose during both sessions, which is the clearest result on the holding and the one it trusts least, having only two of them. | The two dream reports, both fractions at entry and exit, the distance, and an entry stating that a complete dream span is not a repair. |
+| [**The Broken Promise**](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) | It carries what was said about coming back, and it is the only one of the three that does something to the personnel rather than to the structure. | Observed once at distance. The plates and the water did not move. Two of the four people present lost the recollection of something they had meant to do and never did, and neither noticed until the sheets were compared. The pairing is entered as a personnel finding, not a structural one. | The four sheets, the two losses with the hour each was first detected by a colleague, and the distance held throughout. |
 
-**Interaction procedure:** Establish this holding alone first, with the works ledger collected for the same week, because the ledger is the variable and company is not. In shared conditions log the plate-to-water fraction in quarters in both figures at entry, at the first change and at exit, the distance from the old abutment, and whether the song acquired its missing note, which it never has; put the week's ledger beside the reading so a rise can be attributed to a refund rather than to a meeting; and compare the personnel sheets afterwards, since on this holding the record that changes most often is a person's, not the figure's.
+**Interaction procedure:** Establish this holding alone first, with the works ledger collected for the same week, because the ledger is the variable and company is not. In shared conditions log the plate-to-water fraction in quarters in both figures at entry, at the first change and at exit, the distance from the old abutment. And whether the song acquired its missing note, which it never has. Put the week's ledger beside the reading so a rise can be attributed to a refund rather than to a meeting. And compare the personnel sheets afterwards, since on this holding the record that changes most often is a person's, not the figure's.
 
 ## 이야기 (Narratio) — The Tale
 
-The bridge fell, and the survivors dreamed of rebuilding it, and the dream, held across years, took the shape of a bridge — but a shape with no physical rebuilding behind it, rusting before it was ever finished.
+There was a bridge between two districts, and the bridge fell, and the survivors dreamed of rebuilding it, and the dream, held across the years, took the shape of a bridge with no building behind it — rusting before it was ever finished.
 
 The bridge was a crossing — a span between two communities, the structure that made two districts into one place. Then it fell — surge, structural failure, the crossing gone. The two communities, cut off from each other, were separated for months and then years, and the separation bred a longing: the accumulated wish to rebuild, to reconnect, to put back the crossing that had made them one.
 
@@ -360,22 +363,20 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- The Work Type responses are set out in the Behavior section of this file.
-- Standard R.D. containment protocols apply.
-- Escalation response is carried under Breach Behavior and Activation Behavior.
+- Capture the song rather than the bridge. A session that begins with a promise of reunion ends there and starts the event, and the promise is entered in the singer's own words.
+- Neither half of the answer is optional: the crossing is named and the loss is named. Escalation is worked from the breach section and not from the song, which talks a warden into very little.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- Extraction risk is carried in the M.A.W. Equipment section.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- The rust is the series. The drawings oxidise at a rate the file records, and a change in that rate is the only early sign the crossing is worsening.
+- The failed crossing and the people left behind it are what Viderehan shows. The notes do not name them and neither does the file.
+**Cross-References:** The crossing and the loss are each named in the Behavior section, the oxidation rate is carried in the Combat Record's resistance line, and the extraction risk sits in the M.A.W. Equipment section.
 **Faction Involvement:** SED, on the D-territory works ledger the annual repair is recorded against · UCD, on the Fray-adjacent reach of the Forge District, where the figure walks and does not hold a bay.
 **Originator:** The subscribers of the old crossing, named in the bound volume described in the Origin section. The archive treats the subscription list and the return receipts as one document and does not hold either alone.
 
 ### Registry Addendum
 
-**Operational interpretation:** The whole file is a ledger read against a proportion. The figure is estimated in quarters of plate to standing water — a coarse series kept consistently, which the file defends on the ground that a fine one taken irregularly is worth less than a blunt one taken every week. The quantities it answers to are the district's: nine crossing and span repairs proposed in 4238, two completed, one abandoned part-built, six funded and then cancelled with the money returned; a fraction that stood at a quarter in the first third of the year and three quarters by the end of it, each rise following a refund inside the fortnight. Read beside that the facility's own rule, adopted against a recorded objection that has never been withdrawn: one repair attempted every year without regard to likelihood of success, failures published with costs, three of the last five failed, and the fraction not above a half in any year since. The community asked one thing of this archive — that the money raised be recorded as raised — and the published ledger is the nearest thing to granting it that exists. Where the ledger and this section disagree, the ledger is right and the disagreement is preserved.
+**Operational interpretation:** The whole file is a ledger read against a proportion. The figure is estimated in quarters of plate to standing water — a coarse series kept consistently, which the file defends on the ground that a fine one taken irregularly is worth less than a blunt one taken every week. The quantities it answers to are the district's: nine crossing and span repairs proposed in 4238, two completed, one abandoned part-built, six funded and then cancelled with the money returned. A fraction that stood at a quarter in the first third of the year and three quarters by the end of it, each rise following a refund inside the fortnight. Read beside that the facility's own rule, adopted against a recorded objection that has never been withdrawn: one repair attempted every year without regard to likelihood of success, failures published with costs, three of the last five failed. And the fraction not above a half in any year since. The community asked one thing of this archive — that the money raised be recorded as raised — and the published ledger is the nearest thing to granting it that exists. Where the ledger and this section disagree, the ledger is right and the disagreement is preserved.
 
-**Review requirement:** Re-take the standing measurements after any breach, Tide, Ordeal or joint session and before the next work cycle: the bay, the distance from the old abutment, the plate-to-water proportion in quarters estimated on arrival and on leaving, whether the hands are raised or lowered, and whether singing occurred — entered as a yes or a no and never as a transcript, because a Warden who has crossed a boundary that broke behind them is not asked what was sung. Beside the measurements put the week's works ledger: proposals, completions, abandonments and refunds, with the return dates, since the six returns of 4238 each moved the fraction within the fortnight. Confirm that a works order has been signed at the yard in any week the figure arrived there, that no removal of the drawings has been attempted since the one that took the figure to the records office, and that nothing on the file promises the crossing will be rebuilt. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-take the standing measurements after any containment event, Tide, Ordeal or joint session and before the next work cycle: the bay, the distance from the old abutment, the plate-to-water proportion in quarters estimated on arrival and on leaving, whether the hands are raised or lowered. And whether singing occurred — entered as a yes or a no and never as a transcript, because a Warden who has crossed a boundary that broke behind them is not asked what was sung. Beside the measurements put the week's works ledger: proposals, completions, abandonments and refunds, with the return dates, since the six returns of 4238 each moved the fraction within the fortnight. Confirm that a works order has been signed at the yard in any week the figure arrived there, that no removal of the drawings has been attempted since the one that took the figure to the records office. And that nothing on the file promises the crossing will be rebuilt.
 ## Warden Record
 
 ### Heard Only by Some
@@ -384,7 +385,7 @@ Its song reaches only those who have crossed a boundary that closed behind them,
 
 ### Rust and Dark Water
 
-The figure is made of corroded bridge plate and standing water, and the proportions shift between appearances — sometimes more metal, sometimes more water. The proportion is estimated and logged; the estimates are coarse and the file admits it, observing that a coarse series kept consistently has twice shown a change a finer one taken irregularly would have missed.
+The figure is made of corroded bridge plate and standing water, and the proportions shift between appearances — sometimes more metal, sometimes more water. The proportion is estimated and logged. The estimates are coarse and the file admits it, observing that a coarse series kept consistently has twice shown a change a finer one taken irregularly would have missed.
 
 ### Dreams Before Waking
 
@@ -405,9 +406,9 @@ The crossing fell and the community that survived it dreamed of rebuilding and t
 
 - **Classification detail:** Corrosion Dream is a Subject with Fragment (III) coherence and Major (γ) potency, at an activation threshold of 2. It is read in quarters of plate to standing water, and the estimate is deliberately coarse: a fine series taken irregularly is worth less here than a blunt one taken every week.
 - **Field detail:** Element Void, registered to Zone D at the Forge District, where it walks and never holds the same bay twice running, and where it is drawn to whatever unbuilt works are drawn or stored. The song is heard only by people who have themselves crossed a boundary that broke behind them.
-- **Recognition detail:** Identify it by the song and the proportions, not by the shape, which changes between appearances. The song is heard only by personnel who have themselves crossed a boundary that broke behind them; most of the watch hears nothing, and the holding depends on the few who do, who are required to record that singing occurred and not what was sung.
+- **Recognition detail:** Identify it by the song and the proportions, not by the shape, which changes between appearances. The song is heard only by personnel who have themselves crossed a boundary that broke behind them. Most of the watch hears nothing, and the holding depends on the few who do, who are required to record that singing occurred and not what was sung.
 - **Record detail:** Check the designation before approach. The archive holds four bridge records and they are not interchangeable: the others concern the crossing itself, and this one concerns a rebuilding that was funded and never begun. Nothing here is about reaching the other side — the community reached it and found nobody — and the two pages bound together in the commissioning file, the subscription list and the return receipts, are signed in most cases by the same hands.
-- **Containment detail:** Containment is not silence, and this holding is the proof of it: even sealed, the figure takes the recollection of one thing a person meant to do and never did, permanently, and they generally do not notice. The instrument that answers it is a signature and a published ledger, not a suppression; the water fraction has stayed at or below a half in every year the annual repair has been attempted and failures published with their costs.
+- **Containment detail:** Containment is not silence, and this holding is the proof of it: even sealed, the figure takes the recollection of one thing a person meant to do and never did, permanently, and they generally do not notice. The instrument that answers it is a signature and a published ledger, not a suppression. The water fraction has stayed at or below a half in every year the annual repair has been attempted and failures published with their costs.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-915

@@ -1,0 +1,133 @@
+{
+  "designation": "C-IVγ-255",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-255_Hollow_Architect_빈_건축가.md",
+  "words": 7538,
+  "sha256": "474344b74ee529c28def44dc0ea86ce007809a67697b42916d009d65fc784cc9",
+  "unit": 2,
+  "name": "Hollow Architect",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_02_HOLLOW_ARCHITECT.md",
+  "before_words": 7538,
+  "after_words": 7743,
+  "base": "b86a8cafa697d8ebf5d67a317be80b921bdd5c99",
+  "final_sha256": "d83b90ffd54705ae9a77168e2f4f04a138fc01ff2664fcc4aa59a73b2c76af4c",
+  "summary": "Four supported repairs (3 short / 1 careful) dismantle the combat template. All five rows drop imposed emptiness, a designed crushing gargoyle, an ordered demolition and plans that raise towers: they now run on copyless plans versus stable spoken intentions, floor-load under a Ferrehan stand, enclosure of whoever stops moving, a gauge that falls only when somebody speaks from outside the walls, and the drawings turning to describe the room the crew is standing in. The 'cell is breached' consequence and two stock Flavor blocks give way to three escapes talked back, the off-shift viewing line, and a builder who never trips. HELD; +0/+0/+0.",
+  "commentary": "Ninety years of tonnage only ever tracked one variable — how many programmes the Company closed that quarter and deemed not produced. The Issued Record that moved it costs seven faulty designs, two claims, and an engineer who cannot get work. The file records both columns and declines to net one against the other; so does this review.",
+  "reasoning": "R-33 chain: Subject / Entity-IV / Major-γ / City Sorrow → a commission completed in full, then withdrawn unissued and attributed to nobody → a hollow humanoid with dark-crystal plans that show each observer something different, raising competent structures that are never roofed → work is Ferrehan stands, Flerehan pauses, Viderehan intentions taken by two recorders; Pugnahan is prohibited because the response is enclosure → failure is futility transfer and rising cycle tonnage, which tracks the Programme Office's cancellation register rather than anything in the chamber. Rows may not give it orders, gargoyles or demolition; identification forks (Maul doctrine, pursuit, strata) stay HELD.",
+  "history": "Batch 126 unit 2 (e816485) performed the full-SE review — normalising Weight 7–12 with the structural Skewer/100–70–50 profile, naming +2 Resolve, adding plan-face binding/care, open-seam protection failure, three-map Compass checks and the living-destination release — and newly dispositioned SE-255-B/MAW-W-255-01. That completed review puts both the full-SE disposition and the exact pair in the baseline: Batch 187 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "Maul doctrine fork: the primary holds it a floor-extraction tool with no offensive role and carried weight/early fatigue costs, while the item record keeps an offensive Intent Line and visible aging; age and patrol authority were not imported (Batch 126 decision stands). Archetype Room band versus formal Range 3 (Medium); Registry B row disposes no numbers (Variable / - / -).",
+    "Management strata remain split and preserved: Side no-demolition resolution versus the primary's scheduled unresisted clearing; Side pursuit versus the primary's three no-pursuit escapes; Tale Zone A / Low threat / Viderehan-primary versus primary Zone B / Major / Ferrehan-primary. The primary itself retains the corrections; nothing was harmonised here.",
+    "Compass placement fork: primary/item Head / 4% / +2 Resolve versus Registry row 553 Accessory / 5% with a blank grade; Master Relic Drops/Seeds bucket versus Compass. Left exactly as recorded."
+  ],
+  "split": [
+    3,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "combat_all_rows",
+      "kind": "careful",
+      "careful": true,
+      "old": "| { *The Blueprint* [**Debuff**] } | \"The architect unrolls a blueprint — and the building it shows has no interior. Only walls.\" | [The Architect's designs impose emptiness; the target feels their own interior hollowing.] | *Target suffers -10 Resolve; they are being redesigned from the inside.* **[10 Weight DMG [Weight]]** | When the target enters the Architect's space. |\n| { *The Load-Bearing Nothing* [**Debuff**] } | \"Every structure the architect builds is supported by void — and the void is load-bearing.\" | [The Architect's hollow construction bears down on the target.] | *Target loses 10 Resolve; the emptiness is structural.* **[10 Weight DMG [Weight]]** | When the target lingers in the construction. |\n| { *The Falling Gargoyle* [**Attack**] } | \"A stone face breaks free from the facade — designed to fall, designed to crush.\" | [A designed piece of architecture detaches and strikes.] | *Inflicts Weight pressure and one heavy, intentional wound.* **[14-22 Weight DMG [Weight]]** | When the Architect is disturbed. |\n| { *The Full Demolition* [**Attack**] } | \"The architect gives the order — and every hollow building comes down at once.\" | [Every hollow structure in the field takes the order and comes down together.] | *A heavy Black demolition; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Architect is challenged. |\n| { *The City of Hollow Towers* [**Ultimate**] } | \"Blueprints spread across the ground — and everywhere they reach, hollow towers rise.\" | [The plans unroll past the holding, and towers stand up wherever they reach.] | *All in range suffer Weight pressure for three turns of rising hollow towers.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Blueprint* [**Debuff**] } | \"It will show you the plan freely — and it will show the next person a different one.\" | [The plans cannot be copied and no two observers agree; what can be taken is the intention, spoken under Viderehan and written down by two recorders independently.] | *-10 Resolve in the worker who came expecting to be told the purpose of their own file; the entity states what the structure was for, and nothing about the person standing in front of it.* **[10 Weight DMG [Weight]]** | When an intention is taken at the marked line. |\n| { *The Load-Bearing Nothing* [**Debuff**] } | \"The structure is competent to the point where it stops, and nothing it has raised has ever had a roof.\" | [The remainder under a Ferrehan stand: the chamber's floor load reading rises while it works and settles within the hour after clearing.] | *-10 Resolve; the first vocabulary to go is the worker's own — unfinished, unoccupied, unrecognized.* **[10 Weight DMG [Weight]]** | When a stand runs long inside unfinished work. |\n| { *The Falling Gargoyle* [**Attack**] } | \"Nothing here is designed to fall. The danger is standing in the footprint of what it is raising.\" | [No strike and no target: walls complete faster than a worker who has frozen will move, and an enclosed worker is a floor extraction measured in hours, three times so far.] | *Weight pressure lands as enclosure; the first casualty is whoever stops moving inside the work.* **[14-22 Weight DMG [Weight]]** | When Pugnahan is attempted, or somebody stops inside the footprint. |\n| { *The Full Demolition* [**Attack**] } | \"It gives no orders and demolishes nothing; crews clear it on schedule and it begins again without reaction.\" | [What comes down is the quarter's tally. The surge follows an attempt to finish something it has started — every recorded escalation has.] | *A heavy Black settling; the Sorrow Gauge climbs 10% for every cycle it is left to build, and falls only when a worker speaks to it from outside the walls.* **[24-36 Weight DMG [Weight]]** | When a structure is finished, or a chamber is left to accrue. |\n| { *The City of Hollow Towers* [**Ultimate**] } | \"Escalation is not a count. It is the drawings beginning to describe the room the crew is standing in.\" | [No towers rise outward. The crystal turns to present ground — the mark at the line, the advance since last cycle, the near wall of the work.] | *All present suffer Weight pressure; what they carry out is the vocabulary, applied to themselves.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the drawings begin to describe the room the crew is standing in. |"
+    },
+    {
+      "id": "consequence_last_bullet",
+      "kind": "short",
+      "careful": false,
+      "old": "- When the resolution fails, the plan goes on building by itself — the cell is breached, the ground is claimed, and the pace of that claim is not something the estate chose.",
+      "new": "- When the resolution fails, nothing dramatic follows: it walks out and keeps building where it arrives, pursued by nobody and pursuing nobody, until a worker stands outside the structure and speaks to it. Three escapes; three recoveries; no suppression used."
+    },
+    {
+      "id": "flavor_continued_exposure",
+      "kind": "short",
+      "careful": false,
+      "old": "**With continued exposure:** The Subject-Body settles into a presence you learn to hold — not comfortably, but recognisably. The Weight pressure stops being an assault and becomes a climate: something you move within rather than against.",
+      "new": "**With continued exposure:** People come off-shift and stand at the viewing line watching something being made; the wing no longer discourages it. On the line the work is to come back talking about the entity rather than about yourself — the counselors screen conversationally, because the vocabulary is what walks home."
+    },
+    {
+      "id": "flavor_activates",
+      "kind": "short",
+      "careful": false,
+      "old": "**When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Weight surges, the Subject-Body sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.",
+      "new": "**When the entity activates:** It is always building, so nothing trips. The change worth the name is in the crystal: the drawings stop describing nowhere and begin describing this room — and somebody, somewhere in the crew's recent past, tried to finish something."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVγ-255_Hollow_Architect_빈_건축가.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.017  clean   174 grams  Operational Parameters\n 0.010  clean   597 grams  감각 묘사 (Flavor Text)\n 0.009  clean   672 grams  Combat Record\n 0.008  clean   651 grams  M.A.W. Equipment\n 0.002  clean   422 grams  기록 (Registrum)\n 0.000  clean  1138 grams  Apex Record\n 0.000  clean   381 grams  이야기 (Narratio)\n 0.000  clean   303 grams  이야기 보고 (Story Log)\n 0.000  clean   232 grams  관찰 기록 (Observation Log)\n 0.000  clean   195 grams  Appearance\n 0.000  clean   182 grams  Trivia\n 0.000  clean   139 grams  Origin\n 0.000  clean   132 grams  Breach Behavior\n 0.000  clean   121 grams  증언 (Testimonium)\n 0.000  clean   107 grams  최종 관찰 (Final Observation)\n 0.000  clean    95 grams  Behavior\n 0.000  clean    42 grams  SECC Classification\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, taken off the plans and never off the structure |\n   85   1  | { *The City of Hollow Towers* [**Ultimate**] } | \"Escalation is not a count. It is the drawings beginning to describe the room t\n   91   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not complete \n  177   3  **Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and heavier than its bulk accounts for, carrying a flic\n  199   1  **Appearance:** a draped mantle of Weight Han-weave, dark as river stone and heavier than any weave, with the faint scent of its p\n  247   1  | **At limit** | The toll here never stops: a low fatigue that does not clear on rest days. On this set the second worker's call s\n  320   4  Three holdings sit in the Architect's working range — The Melting Tower, The Grieving Colossus and The Broken Promise — and each i\n  329   2  | The Architect's neighbour | How the pairing has run | What the survey noted | What the entry carries |\n  374   1  - The Issued Record is a containment condition of this holding and binds every programme the Company cancels, whatever it was buil\nGENERIC 0.004  (21 shared shingles)  SE-C-IVγ-255_Hollow_Architect_빈_건축가.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-A__SIDE_CODEX_The_Hollow_Architect.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-B__MAW-W_The_Architects_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-C__MAW-S_The_Architects_Mantle.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-D__MAW-G_The_Architects_Compass.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-A__SIDE_CODEX_The_Hollow_Architect.md": "20ee1ea14e027faf90c693d74389736ee3a3169bbc66a8d12b7de253ece8c0a0",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-B__MAW-W_The_Architects_Maul.md": "3114d05f754f940e0fca7a86d7e926b72db2479c14f87448056d5822baaab715",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-C__MAW-S_The_Architects_Mantle.md": "237639ebfaddd9da86eb85fc78a9e6ee3107e4acf98167bf4b1554e9ac43d7b7",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-D__MAW-G_The_Architects_Compass.md": "6dc165356ceacf08f80d35e30c852b9da9312254921eb67e68b2871123b76d85",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVγ-255_Hollow_Architect_빈_건축가](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-255_Hollow_Architect_%EB%B9%88_%EA%B1%B4%EC%B6%95%EA%B0%80.md \"SE-C-IVγ-255_Hollow_Architect_빈_건축가.md\")]",
+  "table_link": "[Hollow Architect](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-255_Hollow_Architect_%EB%B9%88_%EA%B1%B4%EC%B6%95%EA%B0%80.md \"SE-C-IVγ-255_Hollow_Architect_빈_건축가.md\")",
+  "reading": {
+    "before_lines": 443,
+    "before_bytes": 46335,
+    "final_lines": 443,
+    "final_bytes": 47393
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 88,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

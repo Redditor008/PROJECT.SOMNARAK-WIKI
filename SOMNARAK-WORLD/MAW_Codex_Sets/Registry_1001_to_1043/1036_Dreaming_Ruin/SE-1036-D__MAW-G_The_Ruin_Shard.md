@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Ruin Shard
 
-> *“The Ruin Shard remembers Dreaming Ruin; the bearer must not mistake memory for permission.”*
+> *"It rebuilds a room out of memory and takes the present detail as payment. The bearer can reconstruct any room but their own."*
 
 ---
 
@@ -17,23 +17,29 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Reconstructs one remembered room for a short time.  
-**Binding rule:** the bearer names Dreaming Ruin's event—A household was lost, but its former residents continued dreaming of the rooms.—and accepts this limit: Wake with an anchor and preserve the memory without rebuilding it
+**Binding rule:** the bearer names Dreaming Ruin's event — “A household was lost, but its former residents continued dreaming of the rooms.” — and accepts this limit: Wake with an anchor and preserve the memory without rebuilding it
+
+
+### Appearance
+
+A shard-tile of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The user loses a present detail from their own home. Continued use makes Dreaming Ruin's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shard reconstructs a room from memory and takes the present detail as payment: each use removes one thing from the bearer's own home — a stair, a window, the colour of a door. Used long, the bearer can rebuild any room and not their own.
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Ruin Source-Trace: Stigma Record*
 
-The first The Ruin Shard field bearer encountered this source response: Reveals which parts are memory and which are invention. The stigma stabilizes the immediate hazard only after the team attributed it to Dreaming Ruin. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Ruin Shard encountered this source response: Reveals which parts are memory and which are invention. The stigma stabilizes the immediate hazard only after the team attributed it to Dreaming Ruin. A bearer could rebuild a room from memory and had lost the colour of their own door, and the Shard’s binding is the inventory taken from that home.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dreaming Ruin's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the payment is taken before the reconstruction, and the bearer’s home is emptied of things they have not yet rebuilt.
 - Terminal state: Dreaming Ruin's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Wake with an anchor and preserve the memory without rebuilding it” reverses the item’s benefit and raises the source Gauge.  
@@ -42,15 +48,4 @@ The first The Ruin Shard field bearer encountered this source response: Reveals 
 
 ## SET RELATIONSHIP
 
-Within *Dreaming Ruin — Witnessed Form*, The Ruin Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1036-D`  
-**Linked Entity:** `SE-1036`  
-**Item Registry Code:** `MAW-G-1036-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Dreaming Ruin — Witnessed Form*, The Ruin Shard performs the stigma role while the other pieces preserve attribution and survival. The Shard drops out of the set on a use paid for out of nothing.

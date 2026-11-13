@@ -24,7 +24,7 @@
 | Coherence / Potency | I — Residue / α — Minor |
 | Element | Grudge |
 | Form | A fever-cold empty rope figure with no second end, hanging from no visible hand and watching from the edge of consciousness. |
-| Gauge / Pressure | 25–40% / Grudge 3–9 |
+| Gauge / Pressure | 000% / Grudge 3–9 |
 | Observation | 1 — Initial |
 | M.A.W. Set | The Released Line |
 
@@ -44,10 +44,10 @@ Tether binds emotionally but never physically. It is clearest to people waiting 
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Rope loosens and becomes visible. | Down | Grieve the failed return. |
-| Pugnahan | Tightens around thought and spreads anger. | Up | Do not accuse the waiting person. |
+| Flerehan | Rope loosens and becomes visible. | Decrease | Grieve the failed return. |
+| Pugnahan | Tightens around thought and spreads anger. | Increase | Do not accuse the waiting person. |
 | Viderehan | Reveals the withdrawn promise. | Stable | Separate sincere promise from present fact. |
-| Ferrehan | Tests waiting without self-binding. | Down | Offer release, never replacement promise. |
+| Ferrehan | Tests waiting without self-binding. | Decrease | Offer release, never replacement promise. |
 
 **Resolution:** Do not promise return; release the rope consciously.  
 **Breach:** At 45% Gauge the rope spreads through thought, constricts identity, and hunts for substitute grips.  
@@ -99,13 +99,3 @@ An echo forms after Flerehan loosens the rope and the affected person consciousl
 **Primary source:** `SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md`
 
 **Restricted note:** Release ends active waiting; it does not erase love, injury, or the original sincerity of the promise.
-
----
-
-**Document ID:** `SE-316-A`  
-**Linked Entity:** `SE-316`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

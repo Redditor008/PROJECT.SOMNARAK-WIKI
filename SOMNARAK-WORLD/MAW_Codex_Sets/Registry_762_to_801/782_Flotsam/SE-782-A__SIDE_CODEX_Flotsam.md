@@ -19,10 +19,10 @@ The Relic formed from a treasured object becoming meaningless over time. The gri
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIβ-782 [GS] |
-| Type / Manifestation | Subject — Can breach / Subject-Weight |
+| Type / Manifestation | Subject — Non-breaching: transformation in place / Subject-Weight |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge / Zone B, Old Lament |
-| Gauge / Pressure | 462/462; starts 35–50% / 7–17 per hit · Grudge |
+| Gauge / Pressure | 000/462; starts 000% / Grudge — no attack pattern; the outline’s order of appearance and the purpose named beside it are the instrument |
 | Observation | 2 — Basic |
 | Formation event | A household relic passed through generations until no one remembered its purpose; its history began to burn away. |
 
@@ -40,7 +40,7 @@ The Relic formed from a treasured object becoming meaningless over time. The gri
 
 ## WITNESS RECORD — *The Flotsam Source-Trace*
 
-During the The Flotsam Source-Trace, the field team preserved this source fact: A household relic passed through generations until no one remembered its purpose; its history began to burn away. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being used, loved, and then forgotten.
+During *The Flotsam Source-Trace*, the field team preserved this source fact: A household relic passed through generations until no one remembered its purpose; its history began to burn away. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being used, loved, and then forgotten.
 
 ## M.A.W. SET — *Flotsam — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Flotsam Source-Trace, the field team preserved this source fact: 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Flotsam's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Name the owners and purpose; do not force preservation The set cannot heal the originating event. Misuse routes Flotsam's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-782-A`  
-**Linked Entity:** `SE-782`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

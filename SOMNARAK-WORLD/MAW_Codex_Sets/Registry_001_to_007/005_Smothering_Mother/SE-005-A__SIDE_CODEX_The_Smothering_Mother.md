@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IVδ-005 [GS]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — SECTOR-D-01 containment
 
@@ -77,7 +77,7 @@ No child-sized mannequins, abandoned toys, or unannounced injured personnel may 
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Devotion Executioner-Cleaver | δ | Grudge | Close-range clamp and drag; brings a fleeing target back within reach | `SE-005-B__MAW-W_The_Embrace_Fang.md` |
+| **Weapon** | The Devotion Executioner-Cleaver | δ | Grudge | Close-range clamp and drag; brings a fleeing target back within reach | `SE-005-B__MAW-W_The_Devotion_Executioner_Cleaver.md` |
 | **Suit** | The Embrace Plate | δ | Grudge | Carries physical protection at the cost of rigidity | `SE-005-C__MAW-S_The_Embrace_Plate.md` |
 | **Stigma** | The Embrace | δ | Grudge | Gives protective interception at dangerous emotional cost | `SE-005-D__MAW-G_The_Embrace.md` |
 
@@ -148,14 +148,6 @@ Safety without consent can become another form of harm. That is the entity’s e
 
 ---
 
-**Document ID:** `SE-005-A`  
-**Related Entity:** `SE-005`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----
-
-## LINKED-ITEM FORM HOLD — 2026-10-10
+## Linked-Item Form
 
 The Side weapon card now follows the revised `SE-005-B` Devotion Executioner-Cleaver title and combat profile, which are also recorded in the primary block, Master Registry, and `MAW-W-005` archetype entry. The linked item’s **Item Identity** table still gives **Type:** Weapon — bone claw gauntlet and **Category:** PRIMAL (Rending Bone-Claw / Tendon Gauntlet), and its ability text still calls it “the Talon” and describes claws, while its heading and dual-paragraph Appearance describe a three-foot butcher cleaver. No separate talon form or transition is documented. The Side card is aligned to the post-overhaul profile; the residual linked-item form vocabulary remains held rather than treated as evidence for a second stat profile.

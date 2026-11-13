@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Redcage work |
 | Bestowal event | The Charm formed after a Cage observation team stopped at the outer bar and entered a genuine corrective action into the Zone B record. |
 | Acceptance condition | The candidate accepts an oversight partner who can reject use motivated by retaliation. |
@@ -53,7 +54,7 @@
 
 ### Appearance
 
-The Cage Charm is a small charm of dark Han metal shaped like a barred window, with a set of vertical bars that brighten when a real barrier is present. It hangs from a short cord and rests against the bearer's chest, cold in an ordinary room. When the bearer names the affected person's current choice and an available safe route, the bright bar becomes visible to the team and shows where a release or review must begin. The charm does not establish legal guilt, prove intent, or let a bearer override every restriction they dislike. If used to identify an enemy rather than a barrier, it heats against the skin and shortens the bearer's temper. It is cooled in its case after the bearer names one fact they still do not know. After each reading, the oversight partner reviews the barrier report and its follow-up action with the bearer, and the charm is cooled only after one unknown fact is named.
+A barred window cut in dark Han metal, the Cage Charm brightens along its verticals when a real barrier stands in front of the bearer. It hangs from a short cord and rests against the bearer's chest, cold in an ordinary room. When the bearer names the affected person's current choice and an available safe route, the bright bar becomes visible to the team and shows where a release or review must begin. The charm does not establish legal guilt, prove intent, or let a bearer override every restriction they dislike. If used to identify an enemy rather than a barrier, it heats against the skin and shortens the bearer's temper. It is cooled in its case after the bearer names one fact they still do not know. After each reading, the oversight partner reviews the barrier report and its follow-up action with the bearer, and the charm is cooled only after one unknown fact is named.
 
 ### Passive effect— *Unclosed Gap*
 
@@ -85,14 +86,3 @@ Park used the Charm during a disputed medical hold in Zone B. It did not condemn
 The Charm is the question inside *Open Bar*. Fang makes a release cut and Shield absorbs rage; the Stigma requires the set to ask where the real unjust bar is before acting.
 
 > *“Recognition is the first opening. It is not the whole release.”* — Containment Lead Dekan
-
----
-
-**Document ID:** `SE-120-D`  
-**Linked Entity:** `SE-120`  
-**Item Registry Code:** `MAW-G-120-01`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

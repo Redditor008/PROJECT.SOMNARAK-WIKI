@@ -28,7 +28,7 @@
 
 ### Appearance
 
-The Silence Veil is a pale, near-transparent veil of Han gossamer that falls over the head and shoulders in a single straight drape. It is cut to the collarbone and ends in a fine, unhemmed edge that fades into the air. In ordinary light the garment is almost invisible; under Void pressure it takes on a faint grey texture that catches the eye of anyone who knows the wearer's name. The veil does not make the bearer louder or more distinct; it anchors the wearer's identity in nearby witness memory, so teammates continue to recognize them through pressure that would otherwise remove them from recognition. The cloth is cold and weightless while active and warms only along the shoulders. After removal the wearer feels absent from themself and must be reintroduced by name after extended use. The veil is drawn from a sealed pouch immediately before use, and it is returned to water once the deployment ends.
+The Silence Veil is a square of Han gossamer worn over the head and shoulders, cut to the collarbone and left unhemmed so that the edge thins into nothing against the air. In a lit room it shows only where it crosses a shadow; where Void pressure is present it draws tight into a grey film that anyone holding the wearer's name can see. It does not make the wearer quieter or more distinct — it fixes their identity in the memory of everyone nearby who already knows them, so the pressure has something to fail against. The silk is cold to the touch and light enough to be forgotten, and the only warmth it takes is from the neck. Taken off, it leaves the wearer feeling absent from themselves, and after a long deployment they have to be reintroduced by name. It is drawn from a sealed pouch immediately before use and returned to water when the deployment ends.
 
 ### Ability— Remain Present
 
@@ -39,12 +39,3 @@ The Veil anchors the wearer’s identity in nearby witness memory during Void pr
 ### History Record
 
 A Veil bearer crossed an Empty Mask spill zone without becoming unrecognizable. The team continued calling the bearer’s name every thirty seconds until the effect passed.
-
-**Document ID:** `SE-043-C`  
-**Linked Entity:** `SE-043`  
-**Item Registry Code:** `MAW-S-043-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

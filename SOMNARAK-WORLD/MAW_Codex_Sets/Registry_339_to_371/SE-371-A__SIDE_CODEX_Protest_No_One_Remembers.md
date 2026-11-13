@@ -20,7 +20,7 @@ A voice-shaped absence drifts through Mantle Commons and removes sound in a wide
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Void |
-| Gauge / Pressure | 45–65% / 18–41 |
+| Gauge / Pressure | 000% / 18–41 |
 | Observation | 2 |
 | Set | The Recorded Absence |
 
@@ -43,13 +43,3 @@ An echo forms after separate witnesses document the same missing boundary withou
 Word preserves one attested term from an independent source, Veil keeps the witness present, and Lens cuts current erasure mechanisms. The absence becomes documentable without being filled. Inventing content creates a false protest the set protects more strongly than the lost one.
 
 **Source:** `SE-O-IIIγ-371_Protest_No_One_Remembers_사라진_침묵.md`
-
----
-
-**Document ID:** `SE-371-A`  
-**Linked Entity:** `SE-371`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

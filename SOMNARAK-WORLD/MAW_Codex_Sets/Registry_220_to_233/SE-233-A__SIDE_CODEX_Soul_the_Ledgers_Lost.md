@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Lament |
 | Form | A warm, salt-damp translucent figure that weeps while walking; its face changes whenever anyone tries to remember it. |
-| Gauge / Pressure | 45–65% / Lament 18–41 |
+| Gauge / Pressure | 000% / Lament 18–41 |
 | Movement | 1.95 m/s along the Old Lament route |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Unclaimed Walk |
@@ -47,10 +47,10 @@ The Soul smells of rain and leaves a thin wet track that evaporates before it ca
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Slows and reaches toward the worker. | Down | Share grief without supplying an identity. |
-| Pugnahan | Walks faster and weeps harder. | Up | Never block the route to force recognition. |
+| Flerehan | Slows and reaches toward the worker. | Decrease | Share grief without supplying an identity. |
+| Pugnahan | Walks faster and weeps harder. | Increase | Never block the route to force recognition. |
 | Viderehan | Shows fragments no surviving record preserves. | Stable | Record fragment, confidence, and contradiction separately. |
-| Ferrehan | Tests whether the worker will keep walking beside it. | Down | Match pace; do not lead, follow, or rename. |
+| Ferrehan | Tests whether the worker will keep walking beside it. | Decrease | Match pace; do not lead, follow, or rename. |
 
 **Resolution:** Do not invent a name. Remain present and record what is known.  
 **Breach:** At 75% Gauge the route corrupts; weeping fills the air, walls crack, and nearby personnel begin feeling erased.  
@@ -103,13 +103,3 @@ A stable echo forms only after a complete Ferrehan route during which two worker
 **Primary source:** `SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md`
 
 **Restricted note:** “Soul the Ledgers Lost” is a registry designation, not the citizen’s recovered name.
-
----
-
-**Document ID:** `SE-233-A`  
-**Linked Entity:** `SE-233`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

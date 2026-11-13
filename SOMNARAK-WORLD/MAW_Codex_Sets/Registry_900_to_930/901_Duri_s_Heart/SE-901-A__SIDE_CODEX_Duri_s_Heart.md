@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Object at Moderate (β) potency, Weight-aligned, held at SECTOR-C-901 on Floor 5 and read by a beat called aloud from outside the glass. The beat is the only clock it has, and no formation record accompanies it.
 
 | Field | Canonical record |
 |---|---|
@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Object — Can breach via Transform / Object-Body |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-C-901, contained |
-| Gauge / Pressure | 448/448; starts 35–50% / 14–26 per hit · Weight |
+| Gauge / Pressure | 000/420; starts 000% / Weight — no attack pattern; the beat count called from outside the glass is the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 
@@ -30,17 +30,17 @@ Not recorded Not recorded
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
-| Viderehan | Permits study; the body pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral |
+| Viderehan | Read the darkening series against the beat from outside the glass; the two together resolve into a record, and neither is legible alone. (Decrease) |
+| Ferrehan | Sit the full cycle at the marked distance and do not shorten it; the weight settles, and the endurance is spent noticing that none of it feels like a cost. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-901 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Duri s Heart Source-Trace*
 
-During the The Duri s Heart Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Duri s Heart Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Duri's Heart — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Duri s Heart Source-Trace, the field team preserved this source f
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Duri's Heart's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon severs only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Duri's Heart's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-901-A`  
-**Linked Entity:** `SE-901`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

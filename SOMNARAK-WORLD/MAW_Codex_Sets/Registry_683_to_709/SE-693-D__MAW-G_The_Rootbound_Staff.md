@@ -2,6 +2,7 @@
 
 ---
 **Document ID:** `SE-693-D`  
+**Maximum Amount:** 2 — Limited
 **Linked Entity:** `SE-693` — Undercurrent  
 **Item Registry Code:** `MAW-G-693-01`  
 **Author:** Researcher Euncris Park  
@@ -20,13 +21,3 @@ The Rootbound Staff is a staff-mark at the head slot — not a carried object bu
 **Corrosion:** every room feels like duty; departure causes crushing pain; terminal state roots bearer permanently.  
 **Maintenance:** declare arrival and departure conditions before use.  
 **Removal:** completion criteria are reviewed by an outside witness; never invent missing history.
-
----
-**Document ID:** `SE-693-D`  
-**Linked Entity:** `SE-693`  
-**Item Registry Code:** `MAW-G-693-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

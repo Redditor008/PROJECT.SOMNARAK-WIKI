@@ -20,7 +20,7 @@ An ethereal voice surrounds a pillar-shaped absence floating above the Mask Mark
 |---|---|
 | Coherence / Potency | III / γ |
 | Element | Void |
-| Gauge / Pressure | 45–65% / 15–34 |
+| Gauge / Pressure | 000/653; starts 000% / Void — no attack pattern; the gap and the two bearings from the sighting marks are the reading |
 | Observation | 2 |
 | Set | The Real Support |
 
@@ -43,13 +43,3 @@ An echo forms after a false support is acknowledged and one current, consented s
 Stigma identifies the false support, Veil protects the person during collapse, and Lens cuts active instability. A real support plan must name provider, limits, consent, and failure conditions. Pretending the replacement is absolute simply creates a second floating pillar.
 
 **Source:** `SE-N-IIIγ-409_Floating_Pillar_떠다니는_기둥.md`
-
----
-
-**Document ID:** `SE-409-A`  
-**Linked Entity:** `SE-409`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

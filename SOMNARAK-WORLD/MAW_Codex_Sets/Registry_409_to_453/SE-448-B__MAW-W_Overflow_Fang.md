@@ -22,21 +22,14 @@ The Overflow Fang is a crimson fang of Han iron with liquid light traveling from
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Grudge | 10–15 | 3 / 3 | Skewer; 100% → 70% → 50% | 2 / 50 |
+| δ / Grudge | 10–15 | 3 / 3 | Skewer; 100% → 70% → 50% | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
 **Upflow Cut:** Separates rising overflow from one acknowledged mourning site.
 
 **Failures:** grief cut from place; Well forced downward; memorial converted into disposal site.
 
 **Maintenance:** Dry point above, not inside, the mourning boundary.
-
----
-
-**Document ID:** `SE-448-B`  
-**Linked Entity:** `SE-448`  
-**Item Registry Code:** `MAW-W-448-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

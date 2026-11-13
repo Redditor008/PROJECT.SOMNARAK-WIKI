@@ -24,6 +24,10 @@ The Absent Fang is a crimson fang of Han iron with an invisible section along it
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Unsupported Cut:** Targets one explanation contradicted by evidence or presented without support. It cannot reveal what is missing.
 
 **Cost:** Old wounds ache; prolonged use leaves bruising.
@@ -31,14 +35,3 @@ The Absent Fang is a crimson fang of Han iron with an invisible section along it
 **Failures:** uncertainty treated as enemy; true partial evidence erased; bearer invents a better explanation after cutting the first.
 
 **Maintenance:** Store beside a record whose unknown field remains visible. No replacement label may touch the invisible edge.
-
----
-
-**Document ID:** `SE-357-B`  
-**Linked Entity:** `SE-357`  
-**Item Registry Code:** `MAW-W-357-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

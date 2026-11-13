@@ -19,10 +19,10 @@ A metre-tall carving of a coiling dragon in an unknown white stone, found at the
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIIγ-948 [LO] |
-| Type / Manifestation | Object — Can breach via Transform/activation / Object-Spirit |
+| Type / Manifestation | Object — Non-breaching: activation only; /activation / Object-Spirit |
 | Coherence / Potency | Fragment (III) — Feels everything, and cannot lift from the earth / Major (γ) |
 | Element / Location | Lament / The Dry Riverbed Vault, SECTOR-C-07, Zone C |
-| Gauge / Pressure | 600/600; starts 50–70% / 12–24 per hit · Lament |
+| Gauge / Pressure | 000/660; starts 000% · Lament — no attack pattern: the flood is standing water, read from outside it and never struck (Contact Record, R-36) |
 | Observation | 3 — Monitored |
 | Formation event | Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record. |
 
@@ -30,8 +30,8 @@ A metre-tall carving of a coiling dragon in an unknown white stone, found at the
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object entities cannot be confronted through Pugnahan. |
 | Viderehan | The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. (Stable) |
 | Ferrehan | The worker holds beneath the pull of the sky without rising to it — the heaviness of a grounded thing enduring its own longing. (Decrease) |
 
@@ -40,7 +40,7 @@ A metre-tall carving of a coiling dragon in an unknown white stone, found at the
 
 ## WITNESS RECORD — *The Foam Flood Source-Trace*
 
-During the The Foam Flood Source-Trace, the field team preserved this source fact: Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a shape carved for flight that has never flown. The dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise.
+During *The Foam Flood Source-Trace*, the field team preserved this source fact: Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a shape carved for flight that has never flown. The dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise.
 
 ## M.A.W. SET — *The Foam Flood — Witnessed Form*
 
@@ -55,13 +55,3 @@ During the The Foam Flood Source-Trace, the field team preserved this source fac
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Foam Flood's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim The set cannot heal the originating event. Misuse routes Foam Flood's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-948-A`  
-**Linked Entity:** `SE-948`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

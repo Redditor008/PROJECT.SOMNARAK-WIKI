@@ -106,8 +106,8 @@ Owner's latest p + always5perbatch continues this same frozen batch, not a new o
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-C__MAW-S_The_Glider_s_Mantle.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-D__MAW-G_The_Glowing_Eye.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "scope": "Correct fixed-carving versus wing-motion flavor, historical headroom and named-traveller summaries; separate derived item binding/cost/care from timed carving channels. No numerical normalization, forbidden test or invented body transition. Align early trigger and termination summaries with detailed channel safety; correct the false claim that no pressure leaves the Vault.",
   "reasoning": "The source is a fixed dragon-shaped stone object, not an airborne dragon. Longing, field expansion and lifted people do not imply carving locomotion. Tale head dips are conditional textual observations, not evidence of flight. The donor-to-spear/mantle/eye relationship is explicit derivation; matching their silhouettes is not required.",
@@ -131,8 +131,8 @@ Owner's latest p + always5perbatch continues this same frozen batch, not a new o
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-C__MAW-S_The_Glider_s_Mantle.md": "368d3f083e03aa93fdddd31a0a62211f3e4f4aee54becc8cdedf56c63ec60438",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-D__MAW-G_The_Glowing_Eye.md": "a37fbec1d4918e0041265736d3c96ee79809fe285780779823a0bce75ad089c1",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "base_commit": "528a7e646867a081cb9db8c5f0691fac18e55d3d",
   "validation": {

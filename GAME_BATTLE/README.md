@@ -127,7 +127,7 @@ Every markdown document in `GAME_BATTLE/` must adhere to the immutable technical
 1. **Strict Monospace ASCII Box Symmetry:**
    - All ASCII HUDs and battlefield topographies must be enclosed in non-markdown code fences (````text ... ````).
    - Standard boxes must measure exactly 71 columns (`+` + 69 `-` + `+`).
-   - Wide-format boxes must measure exactly 127 or 128 columns per `TEST_TEXT_BOX_WIDTHS.md`.
+   - Wide-format boxes must measure exactly 127 or 128 columns per `ARCHIVE/TEST_TEXT_BOX_WIDTHS.md`.
    - Every border must start and terminate symmetrically with `+` or `|`. Zero crooked rows permitted.
 2. **Zero Forbidden Formatting Tags:**
    - Absolute prohibition against raw HTML line-break tags.

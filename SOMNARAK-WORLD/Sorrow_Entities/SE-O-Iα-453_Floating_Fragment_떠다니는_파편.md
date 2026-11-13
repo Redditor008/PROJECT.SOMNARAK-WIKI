@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-453 [LS]` |
-| **Entity Type** | **Subject** — A drifting ember carrying an interrupted cry; escalation widens the audible street radius |
+| **Entity Type** | **Subject** — Can breach via Corrupt |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A small burning fragment that floats at shoulder height, flickering between a coal and the outline of a crying figure. Fever-warm, it smells of cold rain and char; a piece of someone, still warm, drifting. |
-| **Movement** | It floats at shoulder height and keeps that height over stairs, which is the detail that unsettles people most. Record its drift along the arcade, the distance at which the crying becomes audible, and whether it followed any individual; it has followed registry staff on eleven of the last fourteen occasions. |
+| **Physical Form** | Mixed |
+| **Movement** | It floats at shoulder height and keeps that height over stairs, which is the detail that unsettles people most. Record its drift along the arcade, the distance at which the crying becomes audible, and whether it followed any individual. It has followed registry staff on eleven of the last fourteen occasions. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, collected in the open street with the Row's traffic diverted for the hour. The Row's traders are paid for the diversion and the payment is the largest line in this holding's budget. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | 4 |
+| **Work Damage** | None — the Lament it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -80,13 +81,13 @@
 | { *The Drift* [**Debuff**] } | "A piece of something broken floats past — and you recognize it as part of yourself." | [The Fragment drifts near the target; resonance identifies a shared break.] | *Target suffers -10 Composure; they see their own fracture.* **[10 Lament DMG [Lament]]** | When the Fragment approaches. |
 | { *The Orbit* [**Debuff**] } | "The fragment circles you — slow, patient, reflecting your grief with each pass." | [The Fragment orbits the target; the reflection is relentless.] | *Target loses 10 Composure; they cannot look away from the break.* **[10 Lament DMG [Lament]]** | When the target remains still. |
 | { *The Sharp Edge* [**Attack**] } | "The fragment turns — and its broken edge is aimed at you." | [The Fragment's jagged edge lashes out.] | *Inflicts Lament pressure and one clean, cutting wound.* **[14-22 Lament DMG [Lament]]** | When the Fragment is disturbed. |
-| { *The Full Impact* [**Attack**] } | "It comes to the hand that reached for it, and it is heavier than a thing that size." | [The fragment closes the distance to anybody who grabs at it.] | *24–36 Lament and a 15% Gauge surge to that worker; the sound stops for the duration of contact and resumes exactly where it left off.* **[24-36 Lament DMG [Lament]]** | When anybody attempts to catch or silence it. Four occasions, two of them during the extraction. |
-| { *A Thousand Fragments* [**Ultimate**] } | "There is one at every doorway on the Row, and all of them are crying the same half-second." | [The fragment divides across the district and the sound becomes unlocatable.] | *12–20 Lament per cycle for three cycles to everyone on the Row.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, twice, both in the week after a batch of files was closed administratively. |
+| { *The Full Impact* [**Attack**] } | "It comes to the hand that reached for it. And it is heavier than a thing that size." | [The fragment closes the distance to anybody who grabs at it.] | *24–36 Lament and a 15% Gauge surge to that worker; the sound stops for the duration of contact and resumes exactly where it left off.* **[24-36 Lament DMG [Lament]]** | When anybody attempts to catch or silence it. Four occasions, two of them during the extraction. |
+| { *A Thousand Fragments* [**Exhaustion**] } | "One of them stops in the doorway the worker is standing in. And it is crying the same half-second." | [The fragment divides once, and the sound stays locatable.] | *The Row loses one worker to it, and the Row is not otherwise changed.* **[12-20 Lament DMG [Lament], single target]** | Above 65%, twice, both in the week after a batch of files was closed administratively. |
 
 ### Battle Phases
 
 1. **Tension:** The audible radius is paced out and marked, the traffic is diverted, and the session's end time is set and stated aloud before anybody steps inside the line. The clock is the only thing that ends a session.
-2. **Clash:** The work is listening. Flerehan brings it closer and dims the flame; Ferrehan requires the worker to stay with the sound until it stops being unbearable; Pugnahan sharpens the cry and closes the session as a failed cycle. Nobody attempts to identify the voice and nobody attempts to quiet it, which are the two instincts the post exists to suppress.
+2. **Clash:** The work is listening. Flerehan brings it closer and dims the flame. Ferrehan requires the worker to stay with the sound until it stops being unbearable. Pugnahan sharpens the cry and closes the session as a failed cycle. Nobody attempts to identify the voice and nobody attempts to quiet it, which are the two instincts the post exists to suppress.
 3. **Resolution:** The session runs its time and the team leaves without having named anybody. 211 sessions; the gauge falls in 196 of them, and the fifteen exceptions all coincide with registry activity rather than with anything that happened in the street.
 
 ### Consequences
@@ -113,7 +114,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying figure.
-- **Position / movement:** It floats at shoulder height and keeps that height over stairs, which is the detail that unsettles people most. Record its drift along the arcade, the distance at which the crying becomes audible, and whether it followed any individual; it has followed registry staff on eleven of the last fourteen occasions.
+- **Position / movement:** It floats at shoulder height and keeps that height over stairs, which is the detail that unsettles people most. Record its drift along the arcade, the distance at which the crying becomes audible, and whether it followed any individual. It has followed registry staff on eleven of the last fourteen occasions.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Collector's Row
 
@@ -122,10 +123,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying figure. |
-| **Position / movement** | It floats at shoulder height and keeps that height over stairs, which is the detail that unsettles people most. Record its drift along the arcade, the distance at which the crying becomes audible, and whether it followed any individual; it has followed registry staff on eleven of the last fourteen occasions. |
+| **Position / movement** | It floats at shoulder height and keeps that height over stairs, which is the detail that unsettles people most. Record its drift along the arcade, the distance at which the crying becomes audible, and whether it followed any individual. It has followed registry staff on eleven of the last fourteen occasions. |
 | **Material / signature** | A coal-sized ember at shoulder height, flickering between a burning fragment and the outline of a crying figure, smelling of cold rain and char. Record the audible radius in metres and every registry action taken in the district that week. |
-| **Distinctive markers** | Shoulder height, always, in a street with an uneven camber; it holds the height of a standing person rather than a height above the ground, and the surveyors have measured that twice to be sure. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; more than one Row record concerns somebody who was taken, and this is the one that requires the file to stay open. |
+| **Distinctive markers** | Shoulder height, always, in a street with an uneven camber. It holds the height of a standing person rather than a height above the ground, and the surveyors have measured that twice to be sure. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins. More than one Row record concerns somebody who was taken, and this is the one that requires the file to stay open. |
 
 **Appearance protocol:** Record the flicker — it alternates between a burning coal and the outline of a crying figure, and the proportion of time spent as each is the figure worth having. Record the warmth, which is blood-warm rather than hot, and the audible radius. Do not attempt to photograph the outline; nine attempts have produced nine images of a coal.
 
@@ -133,17 +134,17 @@
 - **Formation:** The Fragment formed from a cry that ended while its sorrow continued.
 - **The Sorrow:** The persistence of grief after the person who expressed it has vanished.
 - **The Event:** A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.
-- **The People:** One mourner of Collector's Row, taken mid-cry during a raid, never recovered and never declared anything. The Keepers hold the raid manifest, which lists her by stall number because the Row's lists were kept by stall, and the archive has not resolved her into a name — not from reticence, but because the record of the taken is the thing this entity is attached to.
-- **Expanded origin context:** The Row's registry holds 61 files from the raid week and 44 of them are still open. That is not an oversight; it is an argument the district has been having with the city for eleven years. A file stays open while somebody is still looking, and the Row has kept looking, and the archive's note is careful about what follows from that — the connection between open files and this holding's gauge is measured, repeatedly, and is not an explanation of anything. The mourner herself was never recovered and was never declared.
+- **The People:** One mourner of Collector's Row, taken mid-cry during a raid, never recovered and never declared anything. The Keepers hold the raid manifest, which lists her by stall number because the Row's lists were kept by stall. And the archive has not resolved her into a name — not from reticence. But because the record of the taken is the thing this entity is attached to.
+- **Expanded origin context:** The Row's registry holds 61 case files from the raid week and 44 of them are still open. That is not an oversight; it is an argument the district has been having with the city for eleven years. A file stays open while somebody is still looking. And the Row has kept looking. And the archive's note is careful about what follows from that — the connection between open files and this holding's gauge is measured, repeatedly. And is not an explanation of anything. The mourner herself was never recovered and was never declared.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Drifts closer and dims its flame. | Decrease |
-| **Pugnahan** | Spins and emits a sharper cry. | Increase |
-| **Viderehan** | Reveals the original moment of mourning. | Stable |
-| **Ferrehan** | Follows the worker until they can endure the sound. | Decrease |
+| **Flerehan** | Drifts closer and dims its flame. | Decrease · High |
+| **Pugnahan** | Spins and emits a sharper cry. | Increase · Low |
+| **Viderehan** | Reveals the original moment of mourning. | Stable · Common |
+| **Ferrehan** | Follows the worker until they can endure the sound. | Decrease · Common |
 
 
 
@@ -160,7 +161,7 @@ The Work Type table describes an hour in a street and misses the whole mechanism
 |---|---|
 | **Breach Type** | Corrupt |
 | **Movement** | It drifts at shoulder height along the arcade and cracks nothing. It follows the person who most recently handled a file about the raids. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
+| **Effect** | The voice becomes identifiable to everybody except the person it belongs to, and each attempt to place it changes it. |
 | **Secondary Effect** | The crying is audible through two walls and cannot be recorded; instruments return the room tone and nothing else. |
 | **First Target** | Whoever last signed a missing-person file closed. |
 | **Escalation** | Drain rises by 5 for each attempt to identify or silence the voice, and not at all for the time anybody spends listening to it. |
@@ -168,7 +169,7 @@ The Work Type table describes an hour in a street and misses the whole mechanism
 ### Escalation Notes
 
 - **Breach type:** The sound spreads. There is no containment zone to warp — the holding has always been in the open street — and a breach here means the cry becoming audible from doorways where it was not audible before.
-- **Containment priority:** Do not seal the arcade; the sound passes through the partitions and the one sealing attempt put it in three shops at once. Clear the public, leave one listener in place, and have the registry office re-open whatever was closed that week.
+- **Containment priority:** Do not seal the arcade. The sound passes through the partitions and the one sealing attempt put it in three shops at once. Clear the public, leave one listener in place, and have the registry office re-open whatever was closed that week.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each missing-person file closed administratively in the district while it is loose — presumed dead, estate settled, case concluded. It falls 10% for each such file re-confirmed as open, and the two recorded closures of this entity were achieved in the registry office with nobody present at the site.
 
 ## M.A.W. Equipment
@@ -179,7 +180,7 @@ The Work Type table describes an hour in a street and misses the whole mechanism
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : An eleven-inch circular navigational planisphere crafted from blackened silver and pale ivory, floating horizontally above the bearer's forearm with revolving coordinate discs.
+**Appearance:** An eleven-inch circular navigational planisphere crafted from blackened silver and pale ivory, floating horizontally above the bearer's forearm with revolving coordinate discs.
 
 The etched celestial coordinates point toward lost stars outside recorded cartography. Channeled during combat, the astrolabe bends ambient light into localized darkness, cloaking the bearer from ranged sight.
 
@@ -191,15 +192,15 @@ The etched celestial coordinates point toward lost stars outside recorded cartog
 
 **Ability:** Lament against the Mind. The target recalls, at once, every conversation of theirs that stopped without ending — not arguments, the file is specific: the ones that were simply interrupted and never resumed. Fourteen strikes and fourteen accounts that use almost the same phrasing.
 
-**Cost:** The wielder carries its unwept grief and weeps involuntarily, most often on hearing a voice stop mid-sentence.
+**Bearer cost:** The wielder carries its unwept grief and weeps involuntarily, most often on hearing a voice stop mid-sentence.
 
 ### M.A.W. Suit — The Crying Shroud
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-Appearance : A cavalry sabre thirty-two inches along the curve, the spine pipe-backed, a three-bar hilt of enclosed steel, and a blade of high-carbon steel from which a ribbon of sorrow-mist, pale and blue, never quite clears.
+**Appearance:** A shroud of pale blue mourning crepe in three layers, cut long enough to trail, with a band of weighted cord sewn into the hem so that it hangs straight in the Row's standing air. A ribbon of sorrow-mist, pale and blue, has never quite cleared the cloth: it sits in the folds and lifts a hand's width off the hem where the wearer passes a voice that has stopped.
 
-It is drawn in long, fluid arcs, whether the wielder is mounted or standing. The mist follows the line the blade has just travelled and takes the sight of anyone standing beside it for a moment.
+Worn, it takes the sight of anyone standing close for as long as the lift lasts, so a bearer crossing a crowded ward is described afterwards by where they were rather than by what they did.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -210,7 +211,7 @@ It is drawn in long, fluid arcs, whether the wielder is mounted or standing. The
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this holding exerts. What it buys is an hour of standing inside the crying without reaching for it; it does nothing at all about wanting to.
 
-**Cost:** Other people's distress becomes something the wearer hears rather than something that reaches them. Colleagues notice it first, and on this set they have been asked to.
+**Bearer cost:** Other people's distress becomes something the wearer hears rather than something that reaches them. Colleagues notice it first, and on this set they have been asked to.
 
 ### M.A.W. Stigma — The Crying Ember
 
@@ -224,7 +225,7 @@ It is drawn in long, fluid arcs, whether the wielder is mounted or standing. The
 
 **Ability:** Detects hidden sorrow nearby.
 
-**Cost:** The wearer hears grief even where no sound exists.
+**Bearer cost:** The wearer hears grief even where no sound exists.
 
 *Nine Stigmas in eleven years, every one to a worker who sat through the whole session without asking whose voice it was. Three workers have identified the voice correctly, from the Row's own records, and not one of them has ever received anything.*
 
@@ -241,11 +242,11 @@ Both pieces came out of a sound, which the Armoury's ledger treats as the most i
 | **At limit** | The wielder answers the cry. Both over-runs reached that point; in one case the wielder used a name, and the registry had no such person. |
 | **After use** | Return the piece and ask a colleague — not the wielder — whether the wielder has been finishing their sentences. The Armoury has stood one wielder down on an answer the wielder disagreed with. |
 
-**Return care and attribution:** Naming the source event for the equipment is not naming the missing mourner. Keep the interrupted raid cry as the source, with her identity unresolved. The exact Shroud record also warns of numbness to small joys; log that alongside the primary's loss of response to others' distress, not as an explanation that cancels either cost. Watch for first-person ownership of the event and a repeated source response outside contact. A named witness states the source title and event while the bearer relinquishes the piece; record the trigger, response, cost and unresolved detail before cleaning or rest. The procedure preserves attribution, not an ending for the cry or a refund of what the bearer paid.
+**Return care and attribution:** Naming the source event for the equipment is not naming the missing mourner. Keep the interrupted raid cry as the source, with her identity unresolved. The exact Shroud record also warns of numbness to small joys. Log that alongside the primary's loss of response to others' distress, not as an explanation that cancels either cost. Watch for first-person ownership of the event and a repeated source response outside contact. A named witness states the source title and event while the bearer relinquishes the piece. Record the trigger, response, cost and unresolved detail before cleaning or rest. The procedure preserves attribution, not an ending for the cry or a refund of what the bearer paid.
 
 **Stat interpretation:** An α-grade set whose output is trivial and whose cost is social and invisible to the person paying it. Authorise on the colleague's answer, not on the grade, and re-ask it monthly.
 
-**Full-set source review (2026-10-12):** Reviewed the grade overview and every local M.A.W. claim, including both visual descriptions, Use Notes, Field Use Record, the Stigma-bestowal history, and Stat interpretation, against exact set `SE-1035-A` for `O-Iα-453 [LS]` (Side title *Keen*), items `SE-1035-B/C/D`, Registry rows 302–305, Master M.A.W. rows/details 709–711, Entity Codex row 607, Tale 237, and archetype rows `MAW-W-453` and `MAW-W-1035`. The blank overview is now `— · α`, supported by all three local/Side/item pieces and the Master table; no Tool type is supplied. Local Weapon numerics agree with Side/item B (Lament 3–6, Normal 2, Short 2, max 5, 15 Echoes), but local *The Lamentation Sabre* differs from Side/item B and detailed Entry 709 *The Crying Requiem*, while the Master table keeps the local title. `MAW-W-453` is a blue-mist cavalry sabre / Medium, unlike the local planisphere appearance and Short band; linked-code `MAW-W-1035` is a Spore-Burst Cloud Projector / Long. The primary Suit's cavalry-sabre appearance sits under *The Crying Shroud*; Master row 710 classifies that entry as Vestments & Outerwear, but Side/item C has no Appearance crosswalk. Preserve both primary forms rather than moving either. Suit values align; local/Side/item Stigma Tail / 5% / `+1` aligns, while generic Registry Accessory/5% and Master row 711's Pendants & Chokers do not establish the slot. The local Use Notes say “both pieces” came from a sound and discuss the sabre and charm, although the set has three pieces; the nine-Stigma/three-identification account remains separate from the item's 5% offer field. The same local *Lamentation Sabre* planisphere and Suit-sabre form recur in Forgotten Shadow, but its exact sibling source `N-IIβ-453` belongs to `SE-453` Spoor / *Shadow Requiem* (`MAW-W-453-01`, Lament 5–9); this selected `SE-1035` item is *The Crying Requiem* (`MAW-W-1035-01`, Lament 3–6). The separate records provide no shared-item crosswalk. No disputed name, form, slot, chance, or history was normalized; only the supported overview grade changed.
+**Full-set source review (Year 4238):** Reviewed the grade overview and every local M.A.W. claim, including both visual descriptions, Use Notes, Field Use Record, the Stigma-bestowal history, and Stat interpretation, against exact set `SE-1035-A` for `O-Iα-453 [LS]` (Side title *Keen*), items `SE-1035-B/C/D`, Registry rows 302–305, Master M.A.W. rows/details 709–711, Entity Codex row 607, Tale 237, and archetype rows `MAW-W-453` and `MAW-W-1035`. The blank overview is now `— · α`, supported by all three local/Side/item pieces and the Master table; no Tool type is supplied. Local Weapon numerics agree with Side/item B (Lament 3–6, Normal 2, Short 2, max 5, 15 Echoes), but local *The Lamentation Sabre* differs from Side/item B and detailed Entry 709 *The Crying Requiem*, while the Master table keeps the local title. `MAW-W-453` is a blue-mist cavalry sabre / Medium, unlike the local planisphere appearance and Short band; linked-code `MAW-W-1035` is a Spore-Burst Cloud Projector / Long. The primary Suit's cavalry-sabre appearance sat under *The Crying Shroud*, which Master row 710 classifies as Vestments & Outerwear; Side/item C supplies no Appearance crosswalk. A Suit block cannot describe a sabre: the Shroud carries its own vestment form, and the blade it held is archetype `MAW-W-453`'s Weapon body, not a Suit. The Weapon's own planisphere body and its *Lamentation Sabre* title are both left standing, on the same ruling that kept the armoury's name on Pall `C-IIβ-280`. Suit values align; local/Side/item Stigma Tail / 5% / `+1` aligns, while generic Registry Accessory/5% and Master row 711's Pendants & Chokers do not establish the slot. The local Use Notes say “both pieces” came from a sound and discuss the sabre and charm, although the set has three pieces. The nine-Stigma/three-identification account remains separate from the item's 5% offer field. The same local *Lamentation Sabre* planisphere and Suit-sabre form recur in Forgotten Shadow, but its exact sibling source `N-IIβ-453` belongs to `SE-453` Spoor / *Shadow Requiem* (`MAW-W-453-01`, Lament 5–9). This selected `SE-1035` item is *The Crying Requiem* (`MAW-W-1035-01`, Lament 3–6). The separate records provide no shared-item crosswalk. No disputed name, form, slot, chance, or history was normalized; only the supported overview grade changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -264,7 +265,7 @@ Both pieces came out of a sound, which the Armoury's ledger treats as the most i
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The team pace out the audible edge and mark it. Identification is the height and the sound together: a small burning thing at the height of somebody's shoulder, crying half a second of a cry, in a street with people doing business in it. |
-| **Sustained observation** | Eleven years of audible radius against the registry's open-file count. The radius has run from 11 metres to 34 and tracks the count inversely; the recording of the cry itself is unchanged throughout and has been compared waveform to waveform. |
+| **Sustained observation** | Eleven years of audible radius against the registry's open-file count. The radius has run from 11 metres to 34 and tracks the count inversely. The recording of the cry itself is unchanged throughout and has been compared waveform to waveform. |
 | **Activation or escalation** | The radius growing, or the sound appearing at a doorway where it was not audible. Record the new edge, the date, and every registry action in the district that week — closures and re-openings both, with the file numbers. |
 | **Post-contact review** | Radius, open-file count, session length, and whether anybody named anybody. The last field is asked of each worker separately; it has been positive eleven times and on nine of those the name was wrong. |
 
@@ -280,7 +281,7 @@ Floating Fragment drifts at shoulder height in Collector's Row: a coal-sized emb
 Missing-person files from the Row raids: four hundred and twelve. Closed as presumed dead in the forty years following: three hundred and eighty-one, nearly all of them in two administrative sweeps intended to let estates settle and families remarry. Kept open: thirty-one. The audible radius of this record was first measured in the year of the first sweep and has not been smaller since. The registry's own note, added later, observes that the sweeps were requested by the families and were, by every ordinary standard, a kindness.
 
 **Entry 3 — <Statement of a Worker Who Did Not Name the Voice>**
-"It is a woman crying and stopping, crying and stopping, and the stopping is the part that gets you, because she is not stopping because she has finished. The first hour I kept wanting to say something to her. The second hour I did not. I could tell you what district she is from by the vowels and I have not written that down and I am not going to, and if that sounds like superstition then I would point out that the people who did write it down are why the radius is what it is."
+"It is a woman crying and stopping, crying and stopping, and the stopping is the part that gets you, because she is not stopping because she has finished. The first hour I kept wanting to say something to her. The second hour I did not. I could tell you what district she is from by the vowels and I have not written that down and I am not going to. And if that sounds like superstition then I would point out that the people who did write it down are why the radius is what it is."
 
 **Entry 4 — <Containment Notice>**
 Management: Listen without attempting to identify or silence the cry. Work response — Flerehan: Drifts closer and dims its flame. (Decrease); Pugnahan: Spins and emits a sharper cry. (Increase); Viderehan: Reveals the original moment of mourning. (Stable); Ferrehan: Follows the worker until they can endure the sound. (Decrease). The Fragment never stops drifting for long.
@@ -313,7 +314,7 @@ A small ember floats in the corridor. It is beautiful until the sound begins: so
 
 ### Interaction Pattern
 
-Three relations, all from the same district and two from the same night. The measure is the audible radius, and in nine supervised sessions nothing has moved it; what the pairings have produced instead is paperwork, which on this holding is the more consequential currency.
+Three relations, all from the same district and two from the same night. The measure is the audible radius, and in nine supervised sessions nothing has moved it. What the pairings have produced instead is paperwork, which on this holding is the more consequential currency.
 
 **Interaction method:** Establish it alone first, with the registry's weekly file actions collected alongside, because those are the variable. In shared conditions log drift, audible radius, time spent as an outline rather than a coal, and whether the other record altered the pitch of the crying — twice reported, both times by the same observer, and recorded here as unconfirmed.
 
@@ -324,9 +325,9 @@ The Row's records are mostly about debt and this one is about a raid, which is w
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hollow Echo** | Also an unanswered cry, from a different street and a different year. | Four sessions. Neither radius moved and the two sounds did not synchronise, overlap or interfere — recorded separately, they remain two half-seconds that have nothing to do with each other. The pairing is kept because it was the test that killed the theory that this is a class of entity rather than a person. | Both recordings, both radii. |
-| **The Whispering Walls** | Carry the Row's older sounds, including this one. | Three sessions, no change in radius, and the only documentary result this holding has: the Walls returned two first names from the raid week that matched open files, and both files were re-confirmed as open on the strength of it. The gauge fell twenty points that month. | Every name transcribed, checked against the registry, and the file numbers recorded. |
-| **The Debt Collector's Shadow** | Becomes visible near this one and is otherwise never seen on the Row at all. | Two sessions. The Shadow resolved fully on both and did nothing; the radius held. The Row station notes that the pairing is useful only as a way of seeing the Shadow, and that using a grieving sound as a lamp is a thing it has declined to schedule again. | Both parties photographed; radius; and the reason for the session, stated in advance. |
+| [**The Hollow Echo**](SE-N-IIα-125_Hollow_Echo_빈_메아리.md) | Also an unanswered cry, from a different street and a different year. | Four sessions. Neither radius moved and the two sounds did not synchronise, overlap or interfere — recorded separately, they remain two half-seconds that have nothing to do with each other. The pairing is kept because it was the test that killed the theory that this is a class of entity rather than a person. | Both recordings, both radii. |
+| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | Carry the Row's older sounds, including this one. | Three sessions, no change in radius, and the only documentary result this holding has: the Walls returned two first names from the raid week that matched open files, and both files were re-confirmed as open on the strength of it. The gauge fell twenty points that month. | Every name transcribed, checked against the registry, and the file numbers recorded. |
+| [**The Debt Collector's Shadow**](SE-N-IIIβ-155_Harbinger_추징관의_그림자.md) | Becomes visible near this one and is otherwise never seen on the Row at all. | Two sessions. The Shadow resolved fully on both and did nothing; the radius held. The Row station notes that the pairing is useful only as a way of seeing the Shadow, and that using a grieving sound as a lamp is a thing it has declined to schedule again. | Both parties photographed; radius; and the reason for the session, stated in advance. |
 
 **Interaction procedure:** Solo baselines first, with the radius paced on the day rather than taken from the file. Bring the second party in along the Row, never through the middle of the audible circle, and record the radius before, during and a week after — this holding's responses arrive on a registry timescale rather than a street one.
 
@@ -360,22 +361,22 @@ Some sorrows mourn a loss. Floating Fragment mourns the interruption — the cry
 **Common Name:** Floating Fragment
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Minor. Eleven years, 211 sessions, four grabs, fourteen strikes, no fatalities and no lasting injury — against a district where 44 files are still open and a sound in the street that will not let anybody write them off.
+**Threat Assessment:** Minor. Eleven years, 211 sessions, four grabs, fourteen strikes, no fatalities and no lasting injury — against a district where 44 case files are still open and a sound in the street that will not let anybody write them off.
 **Containment & Handling Procedures:**
 - Listen for the session; do not name anybody; the clock ends it, not the cry.
 - Pace the audible edge before diverting traffic; state the session end time before entry. Leave without naming the voice, and obtain the registry changes separately rather than waiting for the interrupted sound to finish.
 - The radius grows when files are closed administratively; it shrinks when they are re-opened.
 **Observation Notes:**
 - One mourner of Collector's Row, taken mid-cry in a raid, never recovered and never declared.
-- See Combat Record for engagement history.
+- The engagement history is the opposite of what a file like this usually records: five drain for every attempt to identify or silence the voice, and none at all for the time spent listening to it.
 - Two pieces taken from a sound; wielders stop finishing sentences about anybody who is missing.
-**Cross-References:** The Hollow Echo, The Whispering Walls (two names recovered, two files re-opened), The Debt Collector's Shadow, the Row registry's 61 raid files, and the Year 4,231 decision to stop collecting heard words.
+**Cross-References:** The [Hollow Echo](SE-N-IIα-125_Hollow_Echo_빈_메아리.md), [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) (two names recovered, two files re-opened), The [Debt Collector's Shadow](SE-N-IIIβ-155_Harbinger_추징관의_그림자.md), the Row registry's 61 raid files, and the Year 4,231 decision to stop collecting heard words.
 **Faction Involvement:** UCD hold the Row as Fray-adjacent and have twice asked for the raid files to be concluded as a records-management matter. Both requests are in this file rather than in the registry's, because on this holding a filing decision is an operational act.
-**Originator:** One mourner of Collector's Row, listed on the raid manifest by stall number; the archive has not converted that entry into a name and will not, for the reason set out in the Origin section.
+**Originator:** One mourner of Collector's Row, listed on the raid manifest by stall number. The archive has not converted that entry into a name and will not, for the reason set out in the Origin section.
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding is managed from a registry office. The street work is real and lowers the gauge by a few points an hour; the file work moves it by ten at a stroke, in either direction, and two of the recorded suppressions happened with nobody at the site. That means the people who most affect this entity are clerks who have never heard it, acting on reasonable administrative grounds, usually to tidy a backlog. The Row keeps 44 files open against that pressure. Whether it can keep doing so is not an operational question and will decide this holding's future anyway.
+**Operational interpretation:** This holding is managed from a registry office. The street work is real and lowers the gauge by a few points an hour. The file work moves it by ten at a stroke, in either direction, and two of the recorded suppressions happened with nobody at the site. That means the people who most affect this entity are clerks who have never heard it, acting on reasonable administrative grounds, usually to tidy a backlog. The Row keeps 44 case files open against that pressure. Whether it can keep doing so is not an operational question and will decide this holding's future anyway.
 
 **Review requirement:** After any incident: radius, recording compared with the archive copy, session log, and the registry's open-file count with every change since the last review listed by file number. Two further items. Any proposal to conclude a raid file is routed to the Warden as an escalation rather than to the registry as routine. And any name spoken at the site is recorded with whether it was correct, because the three correct identifications are the only reason the file can say what it says about Stigmas.
 ## Trivia
@@ -389,7 +390,7 @@ Some sorrows mourn a loss. Floating Fragment mourns the interruption — the cry
 
 - **Classification detail:** Residue (I) coherence at Minor (α) — half a second of one person, still going. The grade has never been reviewed and the Row station has never asked for it to be.
 - **Field detail:** Lament, in the open street at Collector's Row, Zone C, inside a marked audible radius that is paced out fresh at the start of every session.
-- **Recognition detail:** Identify it by the height and the sound. Several burning records are catalogued on the Row; this is the small one that floats at shoulder height, flickers between a coal and the outline of a crying figure, and is warm rather than hot.
+- **Recognition detail:** Identify it by the height and the sound. Several burning records are catalogued on the Row. This is the small one that floats at shoulder height, flickers between a coal and the outline of a crying figure, and is warm rather than hot.
 - **Record detail:** Check the designation before approach. More than one Row record concerns someone who was taken, and they differ on the decisive point — this one requires that the file stay open.
 - **Containment detail:** Nothing contains it. It has drifted the same forty metres of street for eleven years, through two rebuildings, and the Row's traders schedule around it the way they schedule around a standpipe.
 ## Document Information

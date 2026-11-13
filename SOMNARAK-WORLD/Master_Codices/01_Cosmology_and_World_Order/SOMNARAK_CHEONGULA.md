@@ -76,7 +76,7 @@ The Council knew this. The Council did not care.
 |        CHRONOLOGY: FROM SETTLEMENT TO THE YEAR 202 CATACLYSM        |
 +---------------------------------------------------------------------+
 | EPOCH / YEAR         | INCIDENT & DEVELOPMENTAL PHASE               |
-| ---------------------+--------------------------------------------- |
++----------------------+----------------------------------------------+
 | Year 0                                                              |
 |   | Settlers arrive on Mugenhan; discover Han well                  |
 | Year 0 - 50          | Alpha Tree roots tapped for thermal heating  |
@@ -131,7 +131,7 @@ The Council had bigger concerns.
 |            THE 44-DAY RECORD OF UNHEEDED MUNICIPAL ALARMS           |
 +---------------------------------------------------------------------+
 | DAY & LOG NUMBER     | SEISMIC / ACOUSTIC OBSERVATION REPORT        |
-| ---------------------+--------------------------------------------- |
++----------------------+----------------------------------------------+
 | Day 03 (Log 1,102)   | Basalt pilings in Sub-Level 4 sink by 18 cm  |
 | Day 12 (Log 1,145)                                                  |
 |   | Blue steam vents erupt inside tenement floors                   |
@@ -262,7 +262,7 @@ The physical scar left by the Cheongula is divided into seven distinct geologica
 +---------------------------------------------------------------------+
 | FISSURE LOCUS        | GEOLOGICAL FEATURE                           |
 |   | RESIDUAL PHENOMENON                                             |
-| ---------------------+-------------------------+------------------- |
++----------------------+-------------------------+--------------------+
 | Point 1: The Lip     | Gaping 300m Rim Crater  | Acoustic Resonance |
 | Point 2: Sluice Bed  | Calcified Stone Steps                        |
 |   | Weeping River Source                                            |
@@ -342,7 +342,7 @@ The modern institutional framework of Somnarak exists as a direct psychological 
 |           THE FIVE INSTITUTIONS & THEIR CHEONGULA TETHERS           |
 +---------------------------------------------------------------------+
 | INSTITUTION          | HISTORICAL TETHER       | OPERATIONAL BURDEN |
-| ---------------------+-------------------------+------------------- |
++----------------------+-------------------------+--------------------+
 | Reverie Directorate  | Floor 2 Dekan & Floor 6                      |
 |   | Contains Maw Entities                                           |
 | SED Abyssal Corps    | Katabagil Passage 6                          |

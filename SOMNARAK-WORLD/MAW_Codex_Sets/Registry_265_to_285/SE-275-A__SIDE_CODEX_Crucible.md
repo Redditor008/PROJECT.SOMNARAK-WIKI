@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / β — Moderate |
 | Element | Grudge |
 | Form | A soot-black stone forge built around a slow crimson heart-flame, with bone-branching tools grown from generations of rage. |
-| Gauge / Pressure | 35–50% / Grudge 10–23 |
+| Gauge / Pressure | 000/880; starts 000% / Grudge — no attack pattern; the fixed-point floor temperature is the reading |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Named Heat |
 
@@ -42,12 +42,14 @@ Crucible radiates heat like held breath before a shout. It forges without a visi
 
 ## PAGE 02 — MANAGEMENT PAGE
 
-| Work Type | Response | Gauge | Rule |
+| Stage | What is done | Who holds it | What it costs |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Grief must be named through observation, not appeal. |
-| Pugnahan | Not valid; confrontation feeds the Forge. | N/A | Do not challenge the furnace. |
-| Viderehan | Reveals grief embedded in each object. | Stable | Log worker source and emotional input. |
-| Ferrehan | Tests remaining near heat and anger. | Down | Name the anger before controlled work. |
+| **Approach** | Read the fixed-point floor temperature with nothing burning and sign it against the last figure. A worker who comes in angry about something unstated states it at the door. | Duty Warden on the fixed point; two signatures on the sheet. | A watch, and the saying. The speaking is a condition of entry. |
+| **Handling** | Stand the watch in the heat and add nothing to the working volume. Read the floor and the wall integrity while standing. | One Warden inside; the second outside with the door. | The heat, and the length of the watch. The gauge follows the shift and explains nothing. |
+| **Withdrawal** | Leave the volume empty and the hearth unquenched. Record the temperature before the next watch. | The outgoing Warden; the second signs the volume empty. | The idle temperature has risen every year it has been worked and every year it has not: 61, 68, 74. |
+| **Refusal** | Do not quench the hearth, move the tongs, feed the volume, or admit a worker who will not say what they carry. | Standing Order; no exception for urgency. | A quiet, courteous watch where nobody said anything is the failure that looks like a good session. |
+
+**This holding is not worked** (`R-40`). Grief is named through observation and confrontation feeds the Forge — but neither is a Work Type, and the old four-row table was a form with two answers already decided.
 
 **Resolution:** Cool the anger through naming and controlled work.  
 **Expansion:** Unacknowledged rage spreads through connected workshops; tools begin embodying personal resentment.  
@@ -99,13 +101,3 @@ An echo forms only when Crucible creates a useful non-weapon tool after the cont
 **Primary source:** `SE-C-IIIβ-275_Crucible_분노의_용광로.md`
 
 **Restricted note:** “Productive anger” is not a renewable-resource classification.
-
----
-
-**Document ID:** `SE-275-A`  
-**Linked Entity:** `SE-275`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

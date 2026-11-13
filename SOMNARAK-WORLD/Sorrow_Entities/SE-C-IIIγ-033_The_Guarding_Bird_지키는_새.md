@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A pale, bone-white bird of true flesh and feather — almost translucent, its plumage colourless, its eyes hollow and absorbing. It dives from above and shields what it has chosen to guard, marking the protected. It is bloodless and cold to the touch; near it, the flat smell of ash, and a silence that thickens. |
-| **Movement** | Holds a marked post with shield-like wings. Recorded movement includes walking out to another post in breach and following a sharply withdrawing sheltered worker; this is not a patrol or routine flight circuit. |
+| **Physical Form** | Organic |
+| **Movement** | Holds a marked post with shield-like wings. Recorded movement includes walking out to another post in breach and following a sharply withdrawing sheltered worker. This is not a patrol or routine flight circuit. |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -30,7 +30,10 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per cycle, worked from the near side of a doorway the Bird is standing in. The Three Birds' station notes that this is the only holding in its care that has never been approached from behind. |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 2 |
+| **SE Effect** | **On the breach** — The Bird marks the intruder; the boundary they crossed now clings to them. |
+| **Work Damage** | None — it stands where it has always stood and moves for nobody. |
+| **Work Gift** | +5–10 Resilience for the rest of the cycle — it puts itself between the worker and the other two, and the position is lent rather than given. |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -52,7 +55,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Void. The Bird has been struck once, in Year 4,228, by a worker who had been told to pass; it did not retaliate and did not move, and the worker was relieved of the post that day at the Bird's station's own request. |
+| **Resistance** | 35% against Void. The Bird has been struck once, in Year 4,228, by a worker who had been told to pass. It did not retaliate and did not move, and the worker was relieved of the post that day at the Bird's station's own request. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 693/693 |
 | **Han Pressure [ATK]** | 14–33 per hit · Void |
@@ -88,7 +91,7 @@
 
 1. **Tension:** The warden approaches from the front, stops at four metres, and states what is on the other side of the doorway and who it belongs to. The Bird has never moved for anybody who could not say what it was guarding.
 2. **Clash:** Nobody crosses the post. The crew works from outside the marked area, stands still if sheltered, and thanks it aloud before withdrawing.
-3. **Resolution:** Thank it, and acknowledge that the thing it is guarding no longer needs guarding. 211 cycles; the gauge falls on the second clause and not the first, which the station established by trying the first alone for a year.
+3. **Resolution:** Thank it, and acknowledge that the thing it is guarding no longer needs guarding. The post's record runs eleven years. The gauge falls on the second clause and not the first, which the station established by trying the first alone for a year.
 
 ### Consequences
 
@@ -119,7 +122,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A bone-white bird with angular shield-like wings, standing over a marked area. |
-| **Position / movement** | It stands in one doorway at SECTOR-B-01 and has stood there for nine years. It shifts weight, turns its head, and has never taken a step; the relocation attempt in Year 4,231 is the only time anybody has tried to move it. |
+| **Position / movement** | It stands in one doorway at SECTOR-B-01 and has stood there for nine years. It shifts weight, turns its head, and has never taken a step. The relocation attempt in Year 4,231 is the only time anybody has tried to move it. |
 | **Material / signature** | Void. Colourless plumage, hollow eyes that take in light and return none, ash on the air, and a silence that thickens within the marked area. |
 | **Distinctive markers** | Post area in square metres, wing attitude, whether anybody was sheltered, and whether the post has moved since the plan was last pencilled. |
 | **Identification** | Look at what it is standing over. If there is something there worth guarding, this is not the holding. |
@@ -137,16 +140,16 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | It brings its wings over the worker and holds them there, unasked, for the length of the cycle. | Decrease |
-| **Pugnahan** (Confrontation) | Read as an approach on the post, and answered as one. Prohibited. | Increase |
-| **Viderehan** (Observation) | What is behind the post: the market, the fire, the gate positions. Gauge holds. | Stable |
-| **Ferrehan** (Endurance) | It stands over the worker for the whole interval and does not move, and the worker may not leave early. | Decrease |
+| **Flerehan** (Tears) | It brings its wings over the worker and holds them there, unasked, for the length of the cycle. | Decrease · High |
+| **Pugnahan** (Confrontation) | Read as an approach on the post, and answered as one. Prohibited. | Increase · Low |
+| **Viderehan** (Observation) | What is behind the post: the market, the fire, the gate positions. Gauge holds. | Stable · Common |
+| **Ferrehan** (Endurance) | It stands over the worker for the whole interval and does not move, and the worker may not leave early. | Decrease · Low |
 
 
 
 ### Operational Work Notes
 
-All Work responses are recorded, but Pugnahan is prohibited rather than available for routine work or merely ineffective — the one strike on record produced no retaliation and cost the facility a Warden. What the station tracks instead is whether the thanking included the second clause, and the gauge has answered to that and to nothing else across 211 cycles.
+All Work responses are recorded, but Pugnahan is prohibited rather than available for routine work or merely ineffective — the one strike on record produced no retaliation and cost the facility a Warden. What the station tracks instead is whether the thanking included the second clause, and the gauge has answered to that and to nothing else across eleven years of the post's record.
 
 **Reading the response:** A falling gauge means somebody told it the duty was over and meant it. It rises when the post behind the doorway is re-established on paper, which has happened twice, both times administratively and neither time deliberately.
 ## Breach Behavior
@@ -191,7 +194,7 @@ All Work responses are recorded, but Pugnahan is prohibited rather than availabl
 
 **Ability:** Void against the Soul. Struck targets forget, for some hours, what they were on their way to do, which fourteen targets described as the most disorienting part of the engagement.
 
-**Cost:** Small nameless memories, and always the handovers: the wielder loses their recollection of having been relieved.
+**Bearer cost:** Small nameless memories, and always the handovers: the wielder loses their recollection of having been relieved.
 
 ### M.A.W. Suit — The Guardian Veil
 
@@ -209,7 +212,7 @@ All Work responses are recorded, but Pugnahan is prohibited rather than availabl
 
 **Ability:** Resistance to Void against the Soul, and the reason a Warden can hold the four-metre line for a full cycle without the grey reaching them.
 
-**Cost:** The wearer feels faintly absent to themselves and will not leave a post until somebody physically takes their place.
+**Bearer cost:** The wearer feels faintly absent to themselves and will not leave a post until somebody physically takes their place.
 
 ### M.A.W. Stigma — The Guardian Wing
 
@@ -223,7 +226,7 @@ All Work responses are recorded, but Pugnahan is prohibited rather than availabl
 
 **Ability:** Absorbs damage intended for other people.
 
-**Cost:** The wearer cannot flee while someone else remains in danger.
+**Bearer cost:** The wearer cannot flee while someone else remains in danger.
 
 *Eight wings exist. Each was shed at a post the Bird had held and then relinquished, which has happened eight times, and the wing refuses to call the number a coincidence while declining to say what else it might be.*
 
@@ -231,9 +234,9 @@ All Work responses are recorded, but Pugnahan is prohibited rather than availabl
 
 The set concerns protection that can outlive its purpose, but the pieces do not impose one shared handover amnesia. Three wielders are in the local return record; two remained at stood-down stations, calm and certain nobody had come. Keep that observation without treating it as every piece’s only cost.
 
-The exact Lens defines a threshold without judging whether the line is fair. Its cost turns attention away from people outside until the bearer consciously releases the boundary; the evacuation history records civilians excluded as well as pursuers stopped. Retain that limit alongside the local lost-handover cost and door-viewing account. The exact Veil redirects limited Void pressure toward its wearer; leaving abruptly breaks its mark, and a safe handover cools the thread. Its self-absence and attachment are not proof that the protected person still needs shelter.
+The exact Lens defines a threshold without judging whether the line is fair. Its cost turns attention away from people outside until the bearer consciously releases the boundary. The evacuation history records civilians excluded as well as pursuers stopped. Retain that limit alongside the local lost-handover cost and door-viewing account. The exact Veil redirects limited Void pressure toward its wearer; leaving abruptly breaks its mark, and a safe handover cools the thread. Its self-absence and attachment are not proof that the protected person still needs shelter.
 
-The exact Wing intercepts one attack for a chosen nearby ally in an encounter, not unlimited harm for everyone. It reads danger broadly and leaves the bearer carrying that ally’s fear, so a tactical retreat order alone may not release it. In the set’s relief resonance, protection passes only when the bearer explicitly accepts another responder’s relief; the original protector’s fear remains a cost, not a reason to refuse handover.
+The exact Wing intercepts one attack for a chosen nearby ally in an encounter, not unlimited harm for everyone. It reads danger broadly and leaves the bearer carrying that ally’s fear, so a tactical retreat order alone may not release it. In the set’s relief resonance, protection passes only when the bearer explicitly accepts another responder’s relief. The original protector’s fear remains a cost, not a reason to refuse handover.
 
 ### Field Use Record
 
@@ -241,7 +244,7 @@ The exact Wing intercepts one attack for a chosen nearby ally in an encounter, n
 |---|---|
 | **Before use** | Wielder, piece, the grey measurement, and a written handover plan naming who relieves them and at what hour. Given to the relief, not to the wielder. |
 | **During use** | Every doorway the wielder stops in, with the time. The pattern is unmistakable by the third hour. |
-| **At limit** | The local record contains twice-observed refusal to leave even with the relief beside the bearer. Record the piece and the handover actually accepted; the Lens also requires conscious boundary release, while the Wing’s broadly read danger cannot be assumed ended merely because someone has arrived. |
+| **At limit** | The local record contains twice-observed refusal to leave even with the relief beside the bearer. Record the piece and the handover actually accepted. The Lens also requires conscious boundary release, while the Wing’s broadly read danger cannot be assumed ended merely because someone has arrived. |
 | **After use** | Ask the wielder who relieved them. Neither of the two could answer, and both accepted the written plan as evidence without recognising the handover. |
 
 **Stat interpretation:** The grade does not certify extraction stability, a safe release or recovery. This set produces people who cannot be relieved, which is invisible on any rating and obvious on a duty roster; authorise on the handover plan.
@@ -284,7 +287,7 @@ The recorded breach movement is to another chosen post, not flight through the f
 The grief of defenders who fought for something already gone.
 
 **Entry 4 — <Protection That Traps>**
-Management: thank it aloud and say that the protection was received. Do not move anything through the post, and do not relocate the post; both have been tried and both are in the file as the only causes of aggression.  Excessive protection can prevent personnel from leaving safe zones.
+Management: thank it aloud and say that the protection was received. Do not move anything through the post, and do not relocate the post. Both have been tried and both are in the file as the only causes of aggression.  Excessive protection can prevent personnel from leaving safe zones.
 
 **Entry 5 — <The Rosters>**
 Four purpose notes were filed by the Forgotten Market detail and all four are attached to the post files, counted in the review backlog, and outstanding at the time the posts ceased to exist by other means. The establishment review reached that schedule in its ordinary order, nine years after the last note. The rosters in between are complete, and they are the part of the record the Warden is told to carry into the chamber.
@@ -325,29 +328,33 @@ The Guarding Bird must be read as one of three and distinguished from the other 
 
 | Related entity | What it is | What the grey did | Required record |
 |---|---|---|---|
-| **The Smothering Mother** | Recognizes a fellow protector and reaches toward it. The two establish a single joined boundary around whatever personnel are inside it, and the Bird extends its own post to take in the Mother's reach. | Creates or reinforces a defensive boundary: movement out of the enclosed area is restricted for everybody inside it, and the Bird must be thanked before anyone leaves. | Record who is enclosed, the joined area in square metres, the time to release, and both gauges on separation. |
-| **The Orphaned Bell** | The wings come down for the duration of the tolling and go back up at the last stroke, every time, without exception. | The only pause in the record. Area unchanged; gauge down a few points for the day. | Time the tolling against the pause. The Bell's watch keeps the same record from its side. |
-| **The Hollow Choir** | The Choir sings at the edge of the post and the Bird turns to face it throughout without leaving the marked ground. | Resonance across both holdings; personnel at the boundary report the silence and the singing at the same time. | Record the facing. Crews are withdrawn to the corridor for the duration. |
-| **The Observing Bird** | The Observing Bird settles where it can see the post and records it; this one permits that and permits nothing else inside the line. | With the Weighting Bird also present, all three sing together and the facility quietens — the trio effect, which requires all three and has never been produced by any pair. | Record all three positions, the joined area, and the facility-wide gauge during the song. |
-| **The Weighting Bird** | The Weighting Bird prices what the guarding has cost and the figure is never disclosed to the Wardens, by standing order. | Part of the trio effect; alone with this one it produces nothing measurable at all. | Record the pairing as a null result, which it has been on every occasion. |
+| [**The Smothering Mother**](SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) | Recognizes a fellow protector and reaches toward it. The two establish a single joined boundary around whatever personnel are inside it, and the Bird extends its own post to take in the Mother's reach. | Creates or reinforces a defensive boundary: movement out of the enclosed area is restricted for everybody inside it, and the Bird must be thanked before anyone leaves. | Record who is enclosed, the joined area in square metres, the time to release, and both gauges on separation. |
+| [**The Orphaned Bell**](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | The wings come down for the duration of the tolling and go back up at the last stroke, every time, without exception. | The only pause in the record. Area unchanged; gauge down a few points for the day. | Time the tolling against the pause. The Bell's watch keeps the same record from its side. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | The Choir sings at the edge of the post and the Bird turns to face it throughout without leaving the marked ground. | Resonance across both holdings; personnel at the boundary report the silence and the singing at the same time. | Record the facing. Crews are withdrawn to the corridor for the duration. |
+| [**The Observing Bird**](SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | The Observing Bird settles where it can see the post and records it. This one permits that and permits nothing else inside the line. | With the Weighting Bird also present, all three sing together and the facility quietens — the trio effect, which requires all three and has never been produced by any pair. | Record all three positions, the joined area, and the facility-wide gauge during the song. |
+| [**The Weighting Bird**](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) | The Weighting Bird prices what the guarding has cost and the figure is never disclosed to the Wardens, by standing order. | Part of the trio effect; alone with this one it produces nothing measurable at all. | Record the pairing as a null result, which it has been on every occasion. |
 
 **Interaction procedure:** One pairing at a time, from the corridor, with the area taped before and after. Thank the Bird before withdrawing anybody who was sheltered during the session, and enter null results as null — the Weighting Bird pairing has produced nothing measurable on six occasions and all six are in the book.
 
 ## 이야기 (Narratio) — The Tale
 
-The third Bird was born from those who kept guarding the door long after the house was gone.
+There was a market, and the market burned, and three birds rose out of the ash.
 
-The Forgotten Market burned, and the Three Birds rose from its ashes — three sorrows, three wings. The Observing Bird is the grief of those who watched and could not act. The Weighting Bird is the grief of those who judged and could not stop. The Guarding Bird is the grief of those who defended, and defended, and defended — and did not realize, until long after, that there was nothing left to defend.
+The first bird watched the fire and did nothing, and that was the watching.
 
-When the market burned, some citizens did not flee and did not only watch. They fought the fire. They stood at the stalls with buckets and wet cloth and bare hands, guarding the vendors' goods, the day's takings, the small inheritances of a community that lived by trade. They guarded, even as the fire took the stalls. They guarded, even as the goods burned. They guarded the doorways of shops whose owners had already fled, standing before empty frames as though their presence could keep the fire from a room that was already ash.
+The second bird weighed the fire against what could have been done, and found the weight short, and that was the weighing.
 
-This is a particular madness, and a particular grief. The defenders fought for something already lost — not because they did not know it was lost, but because the guarding had become the point. They had been taught, as citizens of Somnarak are taught, to protect: to hold the line, to keep the door, to stand between the threat and the thing threatened. And when the thing threatened was gone, the guarding did not stop. It could not. The instinct to protect had outlived the object of protection, and now there was only the guarding, faithful and empty, a shield raised over nothing.
+The third bird guarded.
 
-The defenders' sorrow sank with the market's ashes, and the Weeping gave it wings. The Guarding Bird formed — third of the Three, Void-element, the pale one. It does not guard anything now. There is nothing in its containment to guard. And yet it guards — pacing, wings half-spread, positioned always between the door and an imaginary threat, faithful to a duty whose object burned in the year two thousand eight hundred and forty-seven and was never rebuilt.
+When the market caught, some people did not run and did not stand and watch. They fought the fire with buckets and wet cloth and their bare hands. They carried the vendors' goods out of the stalls, and the day's takings, and the small inheritances of a district that lived by trade. They carried, and the fire took the stalls anyway. They carried, and the goods burned in their arms. They guarded the doorways of shops whose owners had already run, and stood in front of empty frames as if standing there would keep the fire out of a room that was already ash.
 
-Contained with the Three, the Guarding Bird is the most restless — the one that cannot settle, because the guarding has no end and never had one. Those who work with it feel, briefly, the ache of loyalty outliving its purpose — the exhaustion of the soldier still at his post, the parent still hovering over a child long grown, the defender still shielding a thing that is already gone.
+And when the Wardens came and put the perimeter down and would not go in, the third bird guarded the perimeter. It faced outward. It had been told to hold a line and it held it, and behind it everything it had been holding the line for was gone.
 
-Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would not end — the faithful, empty guarding of a door that opens onto ash, kept for centuries by a heart that never learned the lost thing was already gone.
+Nobody told it. That is the whole of the sorrow and there is no more to it: a thing was told to keep a door, and the door kept being kept, and the house behind it had stopped being a house while it was looking the other way.
+
+It is still facing outward.
+
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“It guards nothing. There is nothing left to guard. It guards anyway.”* — Researcher, R.D.
@@ -367,13 +374,13 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 **Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Major (γ). It holds a specific post and defends it, and the one aggression in the file followed the facility relocating that post. Effect: the exhaustion of a duty that is correctly held and has nothing behind it.
 **Containment & Handling Procedures:**
-- Flerehan is the primary Work Type and Ferrehan the alternate; Viderehan is run for the record and Pugnahan is prohibited outright rather than merely ineffective.
+- Flerehan is the primary Work Type and Ferrehan the alternate. Viderehan is run for the record and Pugnahan is prohibited outright rather than merely ineffective.
 - It is the most restless of the Three and the least mobile, which the wing has never been able to state as anything but a contradiction.
 - Keep the Three Birds together. The trio effect requires all three and no pair has ever produced it.
 **Observation Notes:**
 - Born from the Forgotten Market detail, who stood posts for eleven years at a gate with nothing behind it.
 - It has not stood down once since the fire, and the eight posts it has relinquished were relinquished to a Warden, never to an order.
-**Cross-References:** The Three Birds · The Observing Bird · The Weighting Bird · The Convergence · the establishment review cycle · the Purpose Note
+**Cross-References:** The Three Birds · [The Observing Bird](SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) · [The Weighting Bird](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) · [The Convergence](SE-C-Vδ-010_The_Convergence_수렴.md) · the establishment review cycle · the Purpose Note
 **Faction Involvement:** None operational. The Wound Walkers asked twice to interview the Bird's post-holders on Fracture grounds and were told there are none, the post having been abolished before the holding was recognised.
 **Originator:** Defenders at the Forgotten Market fire; guarded what was already gone.
 
@@ -408,15 +415,15 @@ Twenty-one square metres, after fourteen and nine. The area is taped from two di
 
 A post at this Company is not abolished by its purpose ending. Only the establishment review abolishes a post, the review runs to a fixed cycle, and until it arrives the post exists, is staffed, is inspected and is reported on exactly as before. The rule is one of the better ones the Office has and the reason is in its preamble. When a post could be declared unnecessary by whoever supervised it, that is how people were removed: no finding, no hearing, no appeal, just a post that was found one morning not to be needed and a competent man out of the establishment by the end of the month. The Year 4191 reorganisation disposed of 404 people that way in a single quarter, and not one of them was ever said to have done anything wrong. Abolition by cycle, by number, with notice, cannot be aimed at anybody.
 
-Its consequence is that people stand posts they know to be empty, correctly, for years. Leaving is abandonment; the duty is real until the review says otherwise; the roster must be kept and is. The Forgotten Market detail reported to the gates of a burned market for eleven years and were marked present on every one of those days by a clerk who came in to mark them, and four of them filed notes saying so, and the notes sat in the backlog where notes sit. Nobody was being punished. Nobody was being lied to. The cycle had not reached them. There is a bird in SECTOR-B-01 standing over a bare patch of floor with its wings half out, and the patch is bigger every year.
+Its consequence is that people stand posts they know to be empty, correctly, for years. Leaving is abandonment; the duty is real until the review says otherwise; the roster must be kept and is. The Forgotten Market detail reported to the gates of a burned market for eleven years and were marked present on every one of those days by a clerk who came in to mark them. And four of them filed notes saying so. And the notes sat in the backlog where notes sit. Nobody was being punished. Nobody was being lied to. The cycle had not reached them. There is a bird in SECTOR-B-01 standing over a bare patch of floor with its wings half out, and the patch is bigger every year.
 
 ### The Purpose Note
 
 Instituted Year 4216. Anybody holding a post may file a note stating that the purpose of the post has ended and giving their reasons. The note is attached to the post's file, counted in the review backlog, and read when the review reaches that schedule.
 
-Year 4237: 5,160 notes filed; 9 years' median interval between filing and review; 0 posts abolished outside the cycle; 0 duties lifted, suspended or reduced on account of a note; 611 notes whose filer had left the establishment before the review reached them; and 3,370 posts standing with their purpose ended, which is the figure the SECTOR-B-01 watch sets the area against.
+Year 4237: 5,160 notes filed; 9 years' median interval between filing and review. 0 Posts abolished outside the cycle. 0 Duties lifted, suspended or reduced on account of a note. 611 Notes whose filer had left the establishment before the review reached them. And 3,370 posts standing with their purpose ended, which is the figure the SECTOR-B-01 watch sets the area against.
 
-The costs are printed on the note itself. Filing one does not relieve the filer of anything: the watch is still stood, the roster is still kept, the inspections still happen, and the note is explicitly not a request to be released — a request to be released is a resignation, and resignation ends standing. The reporting burden is unchanged, so the post that has nothing behind it generates exactly as much paper as the post that has. And the note does not accumulate force; nine notes on one post are nine notes, not a case, because weight of opinion abolishing a post is supervision abolishing a post with extra steps.
+The costs are printed on the note itself. Filing one does not relieve the filer of anything: the watch is still stood, the roster is still kept, the inspections still happen. And the note is explicitly not a request to be released — a request to be released is a resignation, and resignation ends standing. The reporting burden is unchanged, so the post that has nothing behind it generates exactly as much paper as the post that has. And the note does not accumulate force. Nine notes on one post are nine notes, not a case, because weight of opinion abolishing a post is supervision abolishing a post with extra steps.
 
 The Wardens asked for the smallest thing in any of these files: that where a purpose note is uncontested, the reporting on that post be reduced while the post remains. Refused, on the ground that reporting is set by grade and not by circumstance. The minute records the request as negligible in cost, the refusal as consistent, and the Bird as having stood in the doorway for the whole of the correspondence.
 
@@ -432,7 +439,7 @@ The Wardens asked for the smallest thing in any of these files: that where a pur
 - **Classification detail:** The Guarding Bird is a Subject with Fragment (III) — Protective and fierce coherence and Major (γ) — High danger as group entity potency.
 - **Field detail:** Void, in one doorway at SECTOR-B-01, held alongside the other Three Birds and worked from four metres in front.
 - **Recognition detail:** A bone-white bird, almost translucent, colourless in the plumage, cold to the touch, with hollow absorbing eyes and the flat smell of ash around it, standing with its wings half-spread over a patch of floor.
-- **Record detail:** The Registrum stated that the Bird guards nothing and that the guarding is compulsive and purposeless, against a file in which it holds a specific post, defends it, and relinquishes it eight times on record; it rated the holding Moderate on a Major (γ) line, and named Viderehan the primary Work Type where Flerehan and Ferrehan move the gauge. The breach rows described rampaging and crashing through walls against a First Target row reading *a position rather than a person*. The Origin and Entry 5 paragraphs described a citizen who Fractured, in two inconsistent versions, neither of them this defence detail. All corrected. The Warden Record, the pencil plan, the trio's shared calming effect and the Smothering Mother interaction are preserved; the disposition index quotes the second and that line is re-evidenced in the same commit.
+- **Record detail:** The Registrum stated that the Bird guards nothing and that the guarding is compulsive and purposeless, against a file in which it holds a specific post, defends it. And relinquishes it eight times on record. It rated the holding Moderate on a Major (γ) line. And named Viderehan the primary Work Type where Flerehan and Ferrehan move the gauge. The breach rows described rampaging and crashing through walls against a First Target row reading *a position rather than a person*. The Origin and Entry 5 paragraphs described a citizen who Fractured, in two inconsistent versions, neither of them this defence detail. All corrected. The Warden Record, the pencil plan, the trio's shared calming effect and the Smothering Mother interaction are preserved. The disposition index quotes the second and that line is re-evidenced in the same commit.
 - **Containment detail:** Nothing contains it. It is standing in a doorway of its own accord and the facility's provision is a painted line four metres in front of it, a prohibition on passing, and a warning given twice before anybody is allowed to try.
 ## Document Information
 

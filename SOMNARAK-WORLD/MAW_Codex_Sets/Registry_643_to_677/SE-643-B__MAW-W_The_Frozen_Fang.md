@@ -22,6 +22,10 @@ The Frozen Fang is a crimson fang of Han iron with frozen light held beneath its
 |---|---:|---|---|---:|
 | α / Grudge | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
 **Confirmed Edge:** damages one designated physical threat at 100%. During an active reflection, it instead attacks whoever the wielder assumes caused the anger. Each swing makes old wounds ache; prolonged use leaves mirror-shaped bruises.
 
 **Incident — The Escort Misstrike:** Durivel intercepted the patrol viewer before Fang reached an innocent escort. When the viewer looked away, the blade lost its target and exposed a crack in the actual hostile ice shard. The delayed strike ended activation without harming the reflected stranger.
@@ -32,14 +36,3 @@ The Frozen Fang is a crimson fang of Han iron with frozen light held beneath its
 **Emergency shutdown:** the reflected person states their actual intent while Durivel lays the flat down; the wielder’s old wounds remain painful for one cycle.
 
 **Set link:** Reflection attributes emotion and Plate holds recoil. Full-set misuse freezes the blade inside the bearer’s grip.
-
----
-
-**Document ID:** `SE-643-B`  
-**Linked Entity:** `SE-643`  
-**Item Registry Code:** `MAW-W-643-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

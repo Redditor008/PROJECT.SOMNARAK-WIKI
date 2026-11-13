@@ -36,7 +36,7 @@ The Plate formed after a naturally shed thorn curled around an uncut memorial fl
 
 ## Appearance
 
-Appearance : A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
+A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
 
 Petrified rose briars spiral across the iron chain links, reinforcing key impact zones along the shoulders and ribcage. Striking the armor causes briar thorns to snap outward violently, deflecting blades and lacerating melee attackers with reciprocal Grudge trauma.
 
@@ -90,14 +90,3 @@ Ashford wore the Plate during a memorial-site breach where Briar’s ambient ang
 The Plate is the disciplined boundary of *Named Thorn*. Fang turns harm away and Crown gives warning; this suit keeps protection from becoming total isolation.
 
 > *“The safest armor still needs a way for care to reach the wearer.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-145-C`  
-**Linked Entity:** `SE-145`  
-**Item Registry Code:** `MAW-S-145-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

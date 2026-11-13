@@ -26,6 +26,7 @@ The Unopened Bloom Charm is a warm crimson tail-charm of Han iron shaped like on
 ## FUNCTION & COST
 
 **Grade / Element:** α / Grudge  
+**Maximum Amount:** 5 — Abundant
 **Bonus:** +1 Resilience during source work  
 **Effect:** distinguishes the original memorial tear from subsequent harm or repair  
 **Cost:** the bearer’s temper shortens when damage is made cosmetically invisible
@@ -49,14 +50,3 @@ Charm defines what the Sword must not heal and what Plate must protect. It recor
 **Care:** Compare the Charm against first-contact sketches and later maintenance logs. Kkotlom names the original tear, later harm, and protective work separately.
 
 **Emergency release:** Clear all hands from the memorial and let the oldest heat remain alone. Pulling the Stigma free during repair transfers the split to the bearer’s skin.
-
----
-
-**Document ID:** `SE-247-D`  
-**Linked Entity:** `SE-247`  
-**Item Registry Code:** `MAW-G-247-01`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

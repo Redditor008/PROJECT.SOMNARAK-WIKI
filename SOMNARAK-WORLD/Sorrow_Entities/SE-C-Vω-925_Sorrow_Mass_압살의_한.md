@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vω-925 [WH]` |
-| **Entity Type** | **Hazard** — Can breach via Transform |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only |
 | **Coherence** | Sovereign (V) |
 | **Potency** | Catastrophic (ω) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Hazard-Weight |
-| **Physical Form** | Non-Organic — A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-925, UNCONTAINED |
 | **R.D. Comprehension Level** | 5 — Sovereign |
@@ -27,10 +27,11 @@
 | **Risk tier** | Catastrophic (ω) |
 | **Entity role** | Hazard |
 | **Primary pressure** | Weight / Weight pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Catastrophic · R.D. Comprehension Level 5 — Sovereign |
-| **Activation threshold** | 3 |
+| **Work Damage** | 6–9 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is measured in the body rather than the gauge: crews report ordinary tiredness for days, and the reading is taken before the complaint rather than after it. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · ω |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (ω) |
@@ -44,65 +45,73 @@
 - Crews are withdrawn on elapsed time. Personnel inside the volume consistently underestimate how long they have been in it.
 - Extraction is authorized apart from the work cycle and is never attempted from within the volume.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 25% against Weight pressure; 18% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 521/521 |
-| **Han Pressure [ATK]** | 11–20 per hit · Weight |
-| **Coherence modifier** | V — affects behavior complexity and response speed |
-| **Potency modifier** | ω — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
-| **Coherence** | Sovereign (V) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Catastrophic · R.D. Comprehension Level 5 — Sovereign |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-925 |
+| **Length** | **1080** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 1080 across **six doses** of 15 s, shared — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **90 s** — six doses, and at 90 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+shared on a 15-second clock, so the six come to **90 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*. And the file's own consequence section says nothing in this holding has ever been fought and the equipment record contains no entry describing an attempt. It is also uncontained: there is no container to break, so what it does is seep, and what the Directive does is measure it and clear floors.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A thickening under the Alpha Tree where Han density is so concentrated that the weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. It has no apparition, no voice and no manifestation the eye can find: only mass, and a floor plate that bows under nothing. |
+| **Perceptible to** | The habit first — the long way round the stairs, and nobody reports it — then the foundation gauges disagreeing with their neighbours, then doors that bind and tools that drop from hands. Personnel describe nothing worse than a long shift; the survey says otherwise and the survey is what is believed. |
+| **Handling** | The gauge round walked on the watch, the deflection survey kept unbroken, and a floor cleared on the first confirmed thickening rather than on a complaint. Nothing is suppressed and nothing is lifted that the Mass is carrying: the doctrine is stamped by three Directors and reads, in full, *Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down.* — see `## Handling Process` |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [Load]** | **000 of 1080** · ready · six doses · limit 90 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-C-925, uncontained |
 | **Resolution Condition** | There is no resolution condition. The holding is uncontained and the ledger records no event ended by anything the facility did — only floors cleared in time and, once, floors not cleared in time. A site is closed out when the deflection survey reads stable for four consecutive watches. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It arrives as a habit, not as a load: the long way round the stairs, and nobody has reported it." | [The volume settles over a working floor, and the gauges disagree with their neighbours before any single series begins to trend.] | *10 Weight to every person inside, logged by instrument ahead of any account from the people themselves.* **[10 Weight DMG [Weight]]** | On the first shift inside the volume, and on every shift after it until the survey reads stable. |
-| { *The Weight Surge* [**Attack**] } | "The floor plate bows and the survey was already on the watch." | [A confirmed thickening takes the storey below, in the order the ledger records: foundation, stairwell, then the living floor, and never skipping a level.] | *15 Weight to whoever is standing on the storey when it takes the load. Three evacuations ordered on one reading were later found unnecessary, and all three were upheld.* **[15 Weight DMG [Weight]]** | When a confirmed thickening is left in place past the watch instead of being cleared. |
-| { *The Settling* [**Attack**] } | "The ward below is ours, and the ward is the only sharp boundary the record has ever shown." | [The pressure concentrates on the living floor; the reading above the ward plate is flat while the members below carry what no survey has written down.] | *20 Weight to the crew on the floor, and by this point the complaint sheet has been reading it as fatigue for two years.* **[20 Weight DMG [Weight]]** | When the sequence reaches the living floor — the third stage, after the foundation and the stairwell. |
-| { *The Weight Collapse* [**Ultimate**] } | "The weight breaks, and everything it held comes loose: the crushed wards were loaded past endurance before the doctrine existed." | [The volume's full load is released through the structure at once, and the structures that carry it worst are the ones built longest ago.] | *17 Weight per turn for three turns to everyone in the district. The ledger's only reading above 80% was taken after the floors had already gone.* **[17 Weight DMG [Weight] (AoE, x3 turns)]** | At 65% gauge; once, and only in a district where the mourning has stopped. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Mass does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Settles over a working floor as a habit rather than a load, and the gauges disagree with their neighbours before any single series begins to trend. Nothing is announced and nobody inside reports it. | Reads the adjacent foundation gauges before taking anybody's account, checks the crew against elapsed time at the door, and enters the first series of the shift. | The weight is the one thing in the archive an instrument measures better than a person. Crews underestimate how long they have been inside the volume, so the door check is kept on the same sheet as the gauges. |
+| { *The Weight Surge* [**Exposure**] } | Takes the storey below in the ledger's own order — foundation, stairwell, then the living floor — and never skips a level. Doors bind, floor plates bow, and a worker standing on the storey when it takes the load carries it in the body. | Clears the floor on the first confirmed thickening, and records the three evacuations that were ordered on one reading, later found unnecessary, and upheld anyway. | The order is the reading and it has never varied across seventeen events. An evacuation that turned out unnecessary is entered as upheld, because the sequence is the only thing on this holding that has ever been predictable. |
+| { *The Settling* [**Refusal**] } | Does not answer force and does not respond to argument: it is not suppressed, only surveyed, cleared and structurally carried. The ward plate is the one sharp boundary the record has shown, and the pressure above it stays flat while the members below carry what no survey has written down. | Leaves the ward plate alone, inspects the wards beneath a cleared floor, and keeps the survey running on the structure whether or not anybody is still working in it. | The refusal is the structural one. Nothing here has ever been fought — there is no attempt in the equipment record — and the crushed wards were evacuated on the strength of a survey while the complaints about them had been on file for two years, read as fatigue. |
+| { *The Weight Collapse* [**Overload**] } | Lets an uncleared load reach the living floor until members pass endurance, and floors and wards fail in sequence rather than discharging across a district at once. Nothing is released at the moment of failure; the members have been bowing for months. | Closes the site out only when the deflection survey reads stable for four consecutive watches, and keeps the failed wards standing, stabilised, as the record. | The ledger's only reading above eighty per cent was taken after the floors had already gone, which is why the figure is filed as a record of failure and never as a threshold to act at. |
 
-1. **Tension:** The approach is confirmed on the foundation gauges and not on anybody's account. Crews are checked against elapsed time at the door, because personnel inside the volume consistently underestimate how long they have been in it, and the ward plate is the one boundary in the record that has ever been sharp.
-2. **Clash:** The round is a survey and nothing else: Viderehan on the gauge walk and Ferrehan on the continuous deflection watch, with the set issued for measurement rather than for suppression. Nothing here is fought; the crew's whole output is the reading that lets a floor be cleared in time.
-3. **Resolution:** The floor is cleared, the wards beneath it are inspected, and the survey continues on the structure whether or not anyone is still working in it. Nothing is suppressed, withdrawn from, or defeated; the event ends when the millimetres stop.
+### Watch Sequence
+
+1. **What is confirmed:** the adjacent foundation gauges read before anyone's account, the deflection survey unbroken from the previous watch, and the ward plate as the boundary the readings are taken either side of.
+2. **What the watch does:** the gauge round under Viderehan and the continuous deflection watch under Ferrehan, with the set issued for measurement and never for suppression, and the floor cleared on the first confirmed thickening.
+3. **How it closes:** there is no close of the ordinary kind — the file says so: **There is no resolution condition. The holding is uncontained and the ledger records no event ended by anything the facility did — only floors cleared in time and, once, floors not cleared in time** — and a site is closed out only when the survey reads stable for four consecutive watches.
 
 ### Consequences
 
-- Composure loss here is a late symptom and a poor one. Crews under a thickening report ordinary tiredness for days before anything registers as distress, which is why the doctrine trusts the gauges and not the people standing on the floor plate.
-- Prolonged exposure produces structural failure before it produces casualties. The crushed wards bowed over eleven months and were evacuated on the strength of a survey, not a complaint; the complaints had been filed for two years by then and had been read as fatigue.
-- The set is issued to weighing crews only and is used for survey, not for suppression. Nothing in this holding has ever been fought, and the equipment record contains no entry describing an attempt.
+- Composure loss here is a late symptom and a poor one. Crews under a thickening report ordinary tiredness for days before anything registers as distress, which is why the warning system for this holding is a survey and not a gauge.
+- Prolonged exposure produces structural failure before it produces casualties. The crushed wards bowed over eleven months and were evacuated on the strength of a survey, and the district has not rebuilt them.
+- The set is issued to weighing crews only and is used for survey, not suppression. Nothing in this holding has ever been fought, and the equipment is filed as measuring apparatus for that reason.
+- The cost is carried in the city's building code. Any floor above a holding of this class now requires a survey before occupation, and that clause exists because of this record — the only holding in the registry whose consequence was written into municipal law.
 
 ## Appearance
 
 **Primary Form:** A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.
 
 **Notable Features:**
-- Expresses Weight pressure in a weight register.
-- The hazard form is unmistakable — this is a weight entity, not a general one.
+- Weight with nothing to look at: the Mass is read off a load gauge that runs out of family with every gauge near it, in a place where nothing has been moved.
+- Beneath it, anything — a person, a stone, a held breath — doubles, then triples, then stops being bearable.
 - Identification is by instrument before sensation: a load gauge reading out of family with its neighbours, in a place where nothing has been moved.
 
 **Identification Profile**
@@ -118,7 +127,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned. |
-| **Position / movement** | It does not occupy a position; it occupies a volume of structure and grows through it the way groundwater does — upward through foundations, outward along walls, at a rate measured in centimetres of deflection per month. |
+| **Position / movement** | It does not occupy a position. It occupies a volume of structure and grows through it the way groundwater does — upward through foundations, outward along walls, at a rate measured in centimetres of deflection per month. |
 | **Material / signature** | Mass, and nothing else: no apparition, no voice, no visible phenomenon anywhere in the record. A dropped tool falls faster than it should. That is the entire sensory signature and it is the only one there has ever been. |
 | **Distinctive markers** | Indifference to shelter. Walls do not stop it, seals do not hold it, and distance attenuates it only gradually — the one place the record shows a sharp boundary is the floor plate of a warded structure, and the ward is ours. |
 | **Identification** | Compare the foundation gauges against each other rather than against their own history. A seep shows first as a disagreement between adjacent gauges and only later as a trend in any single one. |
@@ -131,37 +140,32 @@ It gathers where sorrow has been carried longest without being said: the Deep Va
 
 What it does to a building is measurable in millimetres a month. What it does to the people in the building is that they stop mentioning the stairs.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the weight pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+> **This holding is not worked.** A thickening under the Alpha Tree where Han density is so concentrated that the weight of anything — a person, a stone, a breath — doubles, then triples, then becomes…. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the adjacent foundation gauges read before anyone's account, the deflection survey unbroken from the previous watch, and the ward plate as the boundary the readings are taken either side of. |
+| **Handling** | The gauge round under the observer and the continuous deflection watch under the stander, with the set issued for measurement and never for suppression, and the floor cleared on the first confirmed thickening. |
+| **Withdrawal** | There is no close of the ordinary kind — the file says so: **There is no resolution condition. The holding is uncontained and the ledger records no event ended by anything the facility did — only floors cleared in time and, once, floors not cleared in time** — and a site is closed out only when the… |
+| **Refusal** | Leaves the ward plate alone, inspects the wards beneath a cleared floor, and keeps the survey running on the structure whether or not anybody is still working in it. |
 
-The weight is the one thing in this archive that an instrument measures better than a person does. Both valid approaches are survey work: observation is the gauge round, endurance is the continuous deflection watch that nobody has ever been allowed to interrupt. The holding has never been worked in the ordinary sense and the Directorate has never scheduled one.
+## Expansion Behavior
 
-Management: walk the gauge round on the watch, keep the deflection survey unbroken, and clear a floor on the first confirmed thickening rather than on the second — there is nothing here to weep with and nothing to confront, only load, and the three evacuations ordered on a single reading were upheld.
-
-## Breach Behavior
-
-> *"Sorrow Mass has broken free. The weight weight spreads."*
+> *"Sorrow Mass has taken the storey below. It puts the load into the structure before it puts it into the people — floors bow, doors bind — and it goes to what has been carried longest unsaid rather than to fresh grief."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | Upward, through whatever is load-bearing, at the pace of a slow leak. Seventeen major pressure events are on the Directorate ledger; in every one the sequence was the same — foundation, stairwell, then the living floor — and in none of them did it skip a level. |
-| **Effect** | The structure takes the load before the people do. Tools drop, doors bind, floor plates bow, and personnel describe nothing worse than a long shift until the deflection survey says otherwise. The crushed wards failed in that order and are kept standing, stabilised, as the record of it. |
-| **First Target** | The foundations, and after them whatever has been carried longest without being said. The Mass has never manifested where grief is fresh: the inventory aisles of the Deep Vault, the sealed wing behind the Insight Forge, the stairwells the night shift uses. It arrives under places, not at people. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
+| **Expansion Trigger** | Three ignored conditions, and the earliest sign is a habit rather than a load: the long way round the stairs, taken by crews who never report it. The foundation gauges disagree with their neighbours before any single series begins to trend. |
+| **Expansion Rate** | Upward, through whatever is load-bearing, at the pace of a slow leak — and by confirmed storey rather than by turn. Seventeen major pressure events are on the ledger. In every one the sequence was foundation, stairwell, then the living floor, and in none of them did it skip a level. |
+| **Expansion Effect** | The structure takes the load before the people do. Tools drop, doors bind, floor plates bow, and personnel describe nothing worse than a long shift until the deflection survey says otherwise. The crushed wards failed in that order and are kept standing, stabilised, as the record of it. |
+| **Containment** | No physical suppression. Read the adjacent foundation gauges, keep the deflection survey unbroken, clear the floor on the first confirmed thickening. And let the lightening rites lift what the Mass is carrying — walls do not stop it and seals do not hold it. So the floor is cleared and the burden is set down rather than blocked. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per confirmed storey of seep rather than per turn. The crushed wards event is the only reading above 80% in the ledger and it was taken after the floors had already gone.
+- **Containment priority:** No physical suppression. Read adjacent foundation gauges, keep the deflection survey unbroken, and clear the floor on the first confirmed thickening.
+- **Sorrow Gauge on expansion:** Opens at 40% and rises 10% per confirmed storey of seep rather than per turn. The crushed wards event is the only reading above 80% in the ledger and it was taken after the floors had already gone.
 
 ## M.A.W. Equipment
 
@@ -175,7 +179,7 @@ Management: walk the gauge round on the watch, keep the deflection survey unbrok
 
 **Damage:** Weight 8–16 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels the load register in each strike: the weapon does not cut flesh so much as hand the target a share of what the structure below has been carrying, which the gauges record and the target's own account never does.
-**Cost:** The wielder experiences a persistent low-grade headache with each use.
+**Bearer cost:** The wielder's own share of the load goes unrecorded — the gauges read the structure below and nothing at the hand that struck.
 
 ### M.A.W. Suit — Sorrow Mass's Veil
 
@@ -185,7 +189,7 @@ Management: walk the gauge round on the watch, keep the deflection survey unbrok
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Bearer cost:** No blow is needed for the mantle to weigh on its bearer; a persistent tiredness gathers under the suit as the mass presses without aiming.
+**Bearer cost:** No blow is needed for the Veil to weigh on its bearer. A persistent tiredness gathers under the suit as the mass presses without aiming.
 **Ability:** Grants resistance to Weight damage, protecting against the weight register of sorrow.
 
 ### M.A.W. Stigma — Sorrow Mass's Token
@@ -195,8 +199,9 @@ Management: walk the gauge round on the watch, keep the deflection survey unbrok
 **Appearance:** a token cut from a foundation-gauge housing at SECTOR-C-925, matte and unnaturally heavy, with the plate's calibration stamp still legible on one face and the weight in the palm out of proportion to the coin.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat on this holding's rounds; the bearer's gauge readings are trusted by one grade, which is the only allowance the survey has ever made for anybody.
+**Effect:** +1 to the working stat on this holding's rounds. The bearer's gauge readings are trusted by one grade, which is the only allowance the survey has ever made for anybody.
 **Ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
+**Bearer cost:** The Token carries a grain of the mass: worn, every load the bearer sets down is back by morning and slightly heavier than it was.
 *A Token is found set into a floor plate during a stabilisation lift, always in a structure that held. None has ever been recovered from the crushed wards, which have been lifted twice.*
 
 ### M.A.W. Use Notes
@@ -217,8 +222,8 @@ The Sorrow Mass set is made of structure: the Edge from a failed load-distributi
 **R.D. Comprehension Level:** 5 — Sovereign
 
 **Key Observations:**
-- 17 major pressure events on the Directorate ledger, each one logged with the storey it reached and the hour the floor was cleared; the longest ran 11 hours, the shortest a single held breath between siren pulses, and the sequence has never skipped a level.
-- No work has ever been scheduled against this holding. Both valid approaches are survey disciplines, and the gauge falls when the survey is current rather than when anything is done to the Mass; 3 evacuations were found unnecessary afterwards and all 3 were upheld.
+- 17 major pressure events on the Directorate ledger, each one logged with the storey it reached and the hour the floor was cleared. The longest ran 11 hours, the shortest a single held breath between siren pulses. And the sequence has never skipped a level.
+- No work has ever been scheduled against this holding. Both valid approaches are survey disciplines, and the gauge falls when the survey is current rather than when anything is done to the Mass. 3 Evacuations were found unnecessary afterwards and all 3 were upheld.
 - It gathers where sorrow has been carried longest without acknowledgment and has never once appeared where grief is fresh: 17 events, 17 old places. The crushed wards bowed over 11 months and were cleared on the strength of a survey, the complaints having been read as fatigue for 2 years by then.
 
 **Personnel Note:**
@@ -248,7 +253,7 @@ The Sorrow Mass set is made of structure: the Edge from a failed load-distributi
 
 ## 감각 묘사 (Flavor Text)
 
-The weight register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your weight — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.
+Nothing in the weight register is personal. A gauge disagrees with its neighbours, a dropped tool arrives too soon, and a floor plate carries load that no inventory can account for. The body reports the change later and less accurately than the instruments. A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.
 
 **At first contact:** Nothing. That is the signature. A month later you are avoiding a staircase you have used for nine years.
 
@@ -264,7 +269,7 @@ The crushed wards are the worst site in the record — a district loaded past en
 
 Trainees walk the bowed floors the way recruits walk battlefields. The Directorate has twice been asked to demolish the wards and has twice refused, on the stated ground that a doctrine written after a failure should be taught standing in the failure.
 
-Everything else the Directorate does about the Mass is preventative and expensive: load-distribution wards under every floor plate in the facility, gauges on the watch, a deflection survey that has not been interrupted once since it began, and standing authority to clear a floor on one reading.
+Everything else the Directorate does about the Mass is preventative and expensive: load-distribution wards under every floor plate in the facility, gauges on the watch, a deflection survey that has not been interrupted once since it began. And standing authority to clear a floor on one reading.
 
 It is the only Sovereign the Directorate manages without ever scheduling a work against it. Uncontained, unfought, and so far outpaced — one district at a time, one millimetre a month.
 
@@ -282,11 +287,11 @@ It is the only Sovereign the Directorate manages without ever scheduling a work 
 
 **Common Name:** Sorrow Mass
 
-**Containment Status:** Contained — SECTOR-C-925 · UNCONTAINED
+**Containment Status:** UNCONTAINED — SECTOR-C-925
 
 **Comprehension Level:** 5 — Sovereign
 
-**Threat Assessment:** Catastrophic. A Hazard-Weight entity — the weight register is its defining characteristic. Risk: prolonged exposure to the weight pressure may produce effects not seen in standard weight entities.
+**Threat Assessment:** Catastrophic (ω). Seventeen major pressure events are on the Directorate ledger, none where grief was fresh and none skipping the foundation–stairwell–living-floor sequence. The primary casualty is structural: complaints are filed as fatigue while members deflect, and the crushed wards remain the standing measure of an uncleared third stage.
 
 **Containment & Handling Procedures:**
 - Walk the gauge round on the watch and keep the deflection survey unbroken.
@@ -307,10 +312,10 @@ The two relations below are recognitions rather than arrangements. This holding 
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **Forgotten God** | The lightening rites descend from the old faith's shared lament by way of the God's priests, and they are the only mechanism the Directorate has ever found that lifts the Mass. One co-presence: a weighing crew performed the rite in the vault, under the survey, with the gauges read on both sides. | One co-presence. The crew's gauges fell load by load through the rite, as they do everywhere the mourning is real; the vault's own interval reading did not move, and the God's file carries the co-presence as an interval that changed nothing. A descent of practice, and one side alone moved. | The rite's gauge trace, the vault's interval log, and the descent of the ritual as the God's file states it. |
-| **The Grieving Colossus** | The other Sovereign the Directorate manages by clearance rather than by engagement: it marches and is given safe routes, this one seeps and is evacuated floor by floor. No co-presence has been arranged and none is proposed — routing a march is also a plan for clearing a district, and the volume is the one holding that cannot be hurried by clearing anything. | No co-presence. The link is the ledger: both records count the same class of event, a structure or a street lost to sorrow that was never said, and the two ledgers are read together at the annual review. No figure has moved on either side. | The load ledger and the march ledger, and the review's standing note that neither holding has ever been fought. |
+| [**Forgotten God**](SE-C-Vδ-265_Forgotten_God_잊혀진_신.md) | The lightening rites descend from the old faith's shared lament by way of the God's priests, and they are the only mechanism the Directorate has ever found that lifts the Mass. One co-presence: a weighing crew performed the rite in the vault, under the survey, with the gauges read on both sides. | One co-presence. The crew's gauges fell load by load through the rite, as they do everywhere the mourning is real. The vault's own interval reading did not move, and the God's file carries the co-presence as an interval that changed nothing. A descent of practice, and one side alone moved. | The rite's gauge trace, the vault's interval log, and the descent of the ritual as the God's file states it. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | The other Sovereign the Directorate manages by clearance rather than by engagement: it marches and is given safe routes, this one seeps and is evacuated floor by floor. No co-presence has been arranged and none is proposed — routing a march is also a plan for clearing a district, and the volume is the one holding that cannot be hurried by clearing anything. | No co-presence. The link is the ledger: both records count the same class of event, a structure or a street lost to sorrow that was never said, and the two ledgers are read together at the annual review. No figure has moved on either side. | The load ledger and the march ledger, and the review's standing note that neither holding has ever been fought. |
 
-**Interaction procedure:** Nothing is brought into the volume to see what it does to it. Where a pairing is doctrinal, the rite is performed normally and both instruments are read and filed; where a pairing is a route, it is not run. A null result on either file is entered as a result and not as a gap.
+**Interaction procedure:** Nothing is brought into the volume to see what it does to it. Where a pairing is doctrinal, the rite is performed normally and both instruments are read and filed. Where a pairing is a route, it is not run. A null result on either file is entered as a result and not as a gap.
 
 ## Sovereign Manifestation Log
 
@@ -320,11 +325,11 @@ Archivists note the Mass never manifests where grief is fresh. It gathers where 
 
 ## City-Scale Impact & Directorate Posture
 
-As a Hazard-grade Sovereign able to breach via Transform, Sorrow Mass is the only V-rank entity the Directorate manages without ever scheduling a work. Posture is entirely architectural: load-distribution wards under every floor plate, compression-zone evacuation drills each cycle, and standing orders that no warden remain alone in a flagged stairwell. The official doctrine, stamped by three Directors in succession, reads in full: *"Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down."*
+As a Hazard-grade Sovereign that has never been held and therefore has nothing to break, Sorrow Mass is the only V-rank entity the Directorate manages without ever scheduling a work. Posture is entirely architectural: load-distribution wards under every floor plate, compression-zone evacuation drills each cycle, and standing orders that no warden remain alone in a flagged stairwell. The official doctrine, stamped by three Directors in succession, reads in full: *"Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down."*
 
 ## Sovereign Chronicle
 
-Nobody knows exactly when Sorrow Mass started. The first recorded incident is dated, but the entity itself is older — weight grief does not announce its birth; it seeps, thickens, and one day the personnel assigned to the district notice that the air has grown heavy, the stairs have grown longer, and the morning briefing feels like lifting. This chronicle records the weight, the seeping, the crushed wards, and the load-bearing doctrine by which the Directorate stands upright under the heaviest sorrow in the catalog.
+Nobody knows exactly when Sorrow Mass started. The first recorded incident is dated. But the entity itself is older — weight grief does not announce its birth. It seeps, thickens. And one day the personnel assigned to the district notice that the air has grown heavy, the stairs have grown longer. And the morning briefing feels like lifting. This chronicle records the weight, the seeping, the crushed wards, and the load-bearing doctrine by which the Directorate stands upright under the heaviest sorrow in the catalog.
 
 ### The Weight
 
@@ -346,9 +351,9 @@ Seep doctrine is the Directorate's standing answer: monitor everything, mourn ea
 
 ### The Crushed Wards
 
-The worst site in the Mass's record is the crushed wards — a district loaded past endurance before the doctrine existed, where the weight arrived faster than the mourning and the structures failed before the rites. The record is the Directorate's most painful holding: deflection surveys showing floors bowing under nothing, evacuation orders issued against an enemy no one could see, and the final loadings — wings where the weight exceeded what the members could bear, where floors the engineers had certified folded like paper under grief. The casualties were structural and human both: buildings crushed, personnel broken — not by impact but by pressure, the slow unbearable loading that breaks bodies the way it breaks beams. The Directorate sealed the district, mourned it formally — the longest lightening rite ever performed — and wrote the load-bearing doctrine from the wreckage before the dust had settled.
+The worst site in the Mass's record is the crushed wards — a district loaded past endurance before the doctrine existed, where the weight arrived faster than the mourning and the structures failed before the rites. The record is the Directorate's most painful holding: deflection surveys showing floors bowing under nothing, evacuation orders issued against an enemy no one could see. And the final loadings — wings where the weight exceeded what the members could bear, where floors the engineers had certified folded like paper under grief. The casualties were structural and human both: buildings crushed, personnel broken — not by impact but by pressure, the slow unbearable loading that breaks bodies the way it breaks beams. The Directorate sealed the district, mourned it formally — the longest lightening rite ever performed — and wrote the load-bearing doctrine from the wreckage before the dust had settled.
 
-The wards stand today as the Directorate's memorial and warning: stabilized, monitored, open to the weighing crews' training details and closed to everything else. Trainees walk the bowed floors the way recruits walk battlefields — feeling the residual weight in their shoulders, reading the deflection marks on the members, learning the lesson the wards teach permanently: the Mass loads what is unwitnessed, crushes what is unmourned, and forgives nothing the city neglects. The memorial inscription, set in the district's foundation stone, reads in full: here the weight exceeded the mourning. Here the floors remember. Here the Directorate learned to lighten — and the weighing crews touch the stone on every training walk, the way the night crews touch the spare lamp: as promise, as sacrament, as proof that vigilance suffices and mourning lifts.
+The wards stand today as the Directorate's memorial and warning: stabilized, monitored, open to the weighing crews' training details and closed to everything else. Trainees walk the bowed floors the way recruits walk battlefields — feeling the residual weight in their shoulders, reading the deflection marks on the members, learning the lesson the wards teach permanently: the Mass loads what is unwitnessed, crushes what is unmourned. And forgives nothing the city neglects. The memorial inscription, set in the district's foundation stone, reads in full: here the weight exceeded the mourning. Here the floors remember. Here the Directorate learned to lighten — and the weighing crews touch the stone on every training walk, the way the night crews touch the spare lamp: as promise, as sacrament, as proof that vigilance suffices and mourning lifts.
 
 ### The Load-Bearing Doctrine
 
@@ -382,7 +387,7 @@ The Mass's Stigma — the Unburdened Step — is borne by weighing crew veterans
 
 ### The Day the Pressure Lifts
 
-Every loaded district knows the day the pressure lifts — the morning after the full lightening, when the gauges read normal and the stairs are only stairs and the briefing room feels like a room. The Directorate does not declare these days; the weighing crews announce them, gauge trace in hand, and the district responds the way districts always respond: with the ordinary, performed gratefully. Windows opened. Backlogs cleared. Meals eaten slowly, tasting of nothing but food. The counselors call this recovery. The crews call it the light day. Whatever the name, the record is consistent: districts that honor the light day — resting genuinely, mourning completely, returning gradually — stay light longer than districts that rush back to loading. The weight teaches patience. The lifting teaches gratitude. The Directorate teaches both, and the city learns, district by district, rite by rite.
+Every loaded district knows the day the pressure lifts — the morning after the full lightening, when the gauges read normal and the stairs are only stairs and the briefing room feels like a room. The Directorate does not declare these days. The weighing crews announce them, gauge trace in hand, and the district responds the way districts always respond: with the ordinary, performed gratefully. Windows opened. Backlogs cleared. Meals eaten slowly, tasting of nothing but food. The counselors call this recovery. The crews call it the light day. Whatever the name, the record is consistent: districts that honor the light day — resting genuinely, mourning completely, returning gradually — stay light longer than districts that rush back to loading. The weight teaches patience. The lifting teaches gratitude. The Directorate teaches both, and the city learns, district by district, rite by rite.
 
 The standing custom of the light day is the shared meal — the roster eating together, on the Directorate, in the lightened halls: plain food, full portions, no agenda. The meal's only program is presence — the roster present to each other, the weight absent from the room, the ordinary honored as the extraordinary it is. Veterans of the crushed wards attend these meals across the city, uninvited and always welcomed, and their presence is the custom's spine: they who stood the worst loading witness the lifting, proving by attendance what the doctrine promises by record. The weight lifted here. It lifts everywhere the mourning holds. The meal ends. The watches resume. The gauges stay honest. And the city stands — loaded and lifted, grieving and witnessed, lightened early and often — under ordinary skies, on honest foundations, one light day at a time.
 
@@ -410,11 +415,25 @@ The lightening rites are called by the roster bell — a plain bronze bell in ev
 
 After every full lightening comes the unloaded hour — sixty minutes of mandated rest, observed across the lightened district: no operations, no briefings, no duties. Personnel sit, breathe, and feel the absence of weight the way the living feel sunshine after illness. The counselors prescribe the hour as recovery. The crews observe it as sacrament. And the Directorate enforces it absolutely — the only rest period in the institution that cannot be suspended for any urgency, on the grounds the load-bearing doctrine states plainly: the roster that is not permitted to feel the lifting will stop believing the mourning works. So the hour holds, inviolate, after every rite: the district still, the gauges normal, the personnel unloaded. Then the watches resume, the monitoring continues, and the city stands back up — lighter, witnessed, and ready — into the permanent rhythm. Load and lighten. Press and stand. The Mass below, the city above, and the unloaded hour between: proof, renewed rite by rite, that the mourning holds and the standing lasts.
 
+## Apex Record
+
+### The Accumulation
+
+Weight grief is the catalogue's most physical sorrow and its least visible, and Sorrow Mass is what it becomes when it is carried long enough by enough people at once. It is older than its first dated incident, and the incident ledger holds seventeen major pressure events in which corridors, cells and open wards simply grew heavier across a shift. It does not gather where grief is fresh. It gathers where sorrow has been carried longest without anybody saying so aloud, which is why the Deep Vault aisles and the stairwells the night shift avoids are the places it is measured.
+
+### The Limit
+
+Walls do not stop it, seals do not hold it, and distance attenuates it only gradually. The one mechanism that lifts it is joint mourning performed on schedule and borne by the roster together — the lightening rites — and nothing else in the record has ever moved it down. What cannot be lifted can at least be sounded: past saturation the structure reads dull, the way the sealed station under the bore reads dull, and the crews bring trainees to hear the difference between a building carrying weight and a building that has become weight.
+
+### The Standing Arrangement
+
+Every structure in the city's range is built to the load-bearing doctrine, and the doctrine concedes from its first line that the range is everywhere: build for weight, monitor for seepage, mourn on schedule. Structure wardens file load reports on the watch, weighing crews certify gauges on rotation, and rite-keepers carry the schedule structure by structure without missing one. The Mass is the only Sovereign the Directorate manages without ever scheduling a work against it, because it has never been held and therefore has nothing to break. The light day is announced by the crews, gauge trace in hand, and not by the Directorate, which does not declare it.
+
 ## Trivia
 
-- One of the first catalogued **Hazard-Weight** entities in Somnarak.
-- Its weight descriptor makes it structurally unique among hazard entities.
-- The weight pressure in the weight register feels different from standard weight — more specific, more personal.
+- The ledger records no event ended by anything the facility did. The holding is filed uncontained, and its gauge is a survey figure rather than a containment figure.
+- Only the Director has entered and returned, and the file names no second person. The crushed wards event, its only reading above 80 per cent, was taken after the floors had already gone.
+- Three evacuations were found unnecessary afterwards: the gauge falls when the survey is current, not when anything is done to the Mass.
 
 ## Document Information
 

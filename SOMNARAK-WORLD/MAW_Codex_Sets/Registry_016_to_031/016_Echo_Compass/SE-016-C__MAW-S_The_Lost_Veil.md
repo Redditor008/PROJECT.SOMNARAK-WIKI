@@ -43,12 +43,3 @@ When the wearer sets a physical anchor before entering an unstable route, the Ve
 ### Incident Record
 
 A Border scout used the Veil to return from a collapsed tunnel, then found the original anchor building had been demolished during the mission. The Veil continued pointing to the empty lot for seventeen days.
-
-**Document ID:** `SE-016-C`  
-**Linked Entity:** `SE-016`  
-**Item Registry Code:** `MAW-S-016-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

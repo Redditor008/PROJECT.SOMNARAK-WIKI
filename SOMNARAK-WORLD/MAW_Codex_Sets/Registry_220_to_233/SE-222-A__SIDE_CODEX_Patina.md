@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-222 [GP]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Uncontained Place manifestation — Zone E border
 
@@ -25,7 +25,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Grudge |
 | Form | A rusted iron weight sunk into border ground, bleeding orange corrosion and tethered to a distant point by an invisible chain. |
-| Gauge / Pressure | 60–80% / Grudge 29–64 |
+| Gauge / Pressure | 000/880; starts 000% · Grudge — no attack pattern: a rust front surveyed from the margin, and nobody bears its weight (Contact Record, R-36) |
 | Observation | 2 — Basic |
 | M.A.W. Set | Rust Without Heirs |
 
@@ -47,10 +47,10 @@ Rust spreads through route signs, maps, inherited language, and family obligatio
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Do not sentimentalize the inherited grievance. |
-| Pugnahan | Not valid; impact produces rust blades. | N/A | Force supplies a new living carrier. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Do not sentimentalize the inherited grievance. |
+| Pugnahan | Not valid; impact produces rust blades. | Negative-Low | Force supplies a new living carrier. |
 | Viderehan | Reveals the history of the conflict. | Stable | Separate original evidence from later inheritance. |
-| Ferrehan | Tests whether history can be borne without taking on its anger. | Down | Use personnel with no stake in winning the old dispute. |
+| Ferrehan | Tests whether history can be borne without taking on its anger. | Decrease | Use personnel with no stake in winning the old dispute. |
 
 **Expansion trigger:** Renewal of the old grievance. Rust travels slowly through ground and markers; roads gain Weight and arguments intensify.  
 **Resolution:** Acknowledge the original conflict without assigning it to the living.  
@@ -103,13 +103,3 @@ When two current border representatives independently identify the same original
 **Primary source:** `SE-C-IVδ-222_Patina_녹슨_무게.md`
 
 **Restricted note:** No living family or district is to be registered as Patina’s owner. The sorrow belongs to the inherited pattern, not a bloodline available for punishment.
-
----
-
-**Document ID:** `SE-222-A`  
-**Linked Entity:** `SE-222`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

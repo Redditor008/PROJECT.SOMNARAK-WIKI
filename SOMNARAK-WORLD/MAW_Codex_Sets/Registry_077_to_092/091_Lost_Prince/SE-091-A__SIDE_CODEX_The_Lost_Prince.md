@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVγ-091 [LS]`  
 **Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Echo Gardens companionship containment
 
@@ -61,10 +61,10 @@ The Prince’s crown is beautiful from a distance and painful up close: each sma
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Reaches toward the worker for connection. | Down | Sit at his level; do not offer a promise of return. |
-| Pugnahan | Recoils from another abandonment. | Up | Never use confrontation to end a conversation early. |
+| Flerehan | Reaches toward the worker for connection. | Decrease | Sit at his level; do not offer a promise of return. |
+| Pugnahan | Recoils from another abandonment. | Increase | Never use confrontation to end a conversation early. |
 | Viderehan | Tells the story of the one who left. | Stable | Record the exact question asked before attempting interpretation. |
-| Ferrehan | Tests whether the worker remains instead of leaving. | Down | The assigned worker must have a relief person present, not an unannounced exit. |
+| Ferrehan | Tests whether the worker remains instead of leaving. | Decrease | The assigned worker must have a relief person present, not an unannounced exit. |
 
 ### Breach response
 
@@ -169,13 +169,3 @@ The set carries connection, not possession. It becomes dangerous when a bearer m
 **Entity links:** The Smothering Mother; The Silent Child; The Orphaned Bell; The Kind Healer; The Echo of Kindness.  
 **Operational link:** Use R.D. relief protocol for every prolonged assignment; no M.A.W. effect supersedes a worker’s right to be relieved.  
 **Item links:** `SE-091-B`, `SE-091-C`, and `SE-091-D` document the individual limits of Unanswered Court.
-
----
-
-**Document ID:** `SE-091-A`  
-**Linked Entity:** `SE-091`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

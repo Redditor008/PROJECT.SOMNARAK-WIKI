@@ -28,6 +28,10 @@ The Lake Requiem is a singing blade of deep-blue Han crystal whose edge holds a 
 |---|---:|---|---|---:|
 | γ / Lament | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
 **Surface Divide:** The blade pierces up to three overflow connections while preserving the memory-mass as one record. Striking the remembered figure splits its identity instead.
 
 **Cost:** The wielder receives the Lake’s unwept grief and cries involuntarily.
@@ -43,14 +47,3 @@ Shroud anchors witness, Flask receives one record, Requiem separates overflow. M
 **Maintenance:** Suspend the blade over still Lake water without contact. Read the memory’s provenance record once; the liquid edge must remain unbroken.
 
 **Shutdown:** Sheathe after one complete separation and return all surfaced material.
-
----
-
-**Document ID:** `SE-270-B`  
-**Linked Entity:** `SE-270`  
-**Item Registry Code:** `MAW-W-270-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

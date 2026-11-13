@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-823 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; the air fills with audible weeping, eroding the will to continue |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A weeping bridge-shaped figure descending through the tunnels — its arches curved like ribs, its surface wet with crystallized tears that never dry. Salt-cold and damp, it smells of cold rain; it sinks as though drowning, slowly, forever. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,8 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **Work Damage** | 4–7 Lament — the cost is occupying neither position and being booked to both |
+| **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -44,55 +45,40 @@
 - Emotional pressure acts on crews who attempt to resolve the separation; intervention is prohibited by standing order.
 - Extraction is a separate risk event with its own authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the pressure this file is actually kept for — the pull of an unfinished journey — which is read as composure loss rather than as damage and is not the kind of pressure this table measures |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 809/809 |
-| **Han Pressure [ATK]** | 25–53 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and its third row states it in the plainest terms in the file: nothing collapses underfoot and nobody is immersed, and no wound is produced. What moves is the span, and what is read is how much lower it sits than last quarter.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A span across a flooded section, worked from both of its mouths at once, with audible weeping filling the tunnel from both ends. One name list is read at each shore and neither is read without the other. The span answers by sitting lower at the next depth reading. |
+| **Perceptible to** | The weeping first, thirty-one names near and twenty-six far, and then the difficulty of finishing a shift in a tunnel where nobody steps anywhere. The pull toward the midpoint is toward the furthest point from either mouth. |
+| **Handling** | Listen between the sobs and name both shores. A single mouth worked alone sinks the span further than two mouths worked for a shift, so the watch is written as one-sided working rather than as hours. |
+| **Activation threshold** | 1 ignored condition |
+| **Sorrow Gauge [HP]** | 809/809 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone B, deep tunnels |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan, worked from both mouths at once. Pugnahan stays in the record because it was tried: the bridge cracks and the tunnel fills with tears, which is the span answering and not the holding being hurt. |
+| **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | Listen between the sobs and name both shores |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Waterlogged Plank* [**Debuff**] } | "The bridge is half-underwater — and the wood remembers every person who crossed and did not make it." | [The Bridge's sorrow seeps up through the wet planks.] | *Target suffers -10 Composure; the crossing has a cost.* **[10 Lament DMG [Lament]]** | When the target steps onto the Bridge. |
-| { *The Rising Flood* [**Debuff**] } | "The water climbs the railings — and it is cold, and patient, and rising." | [The water around the Bridge rises; the target's footing narrows.] | *Target loses 10 Composure; the water is reaching for them.* **[10 Lament DMG [Lament]]** | When the target lingers mid-bridge. |
-| { *The Breaking Plank* [**Attack**] } | "The wood gives way — rotten with sorrow, soaked through." | [A plank collapses under the target; the drop is into cold water.] | *Inflicts Lament pressure and one wound of sudden immersion.* **[14-22 Lament DMG [Lament]]** | When the Bridge is crossed carelessly. |
-| { *The Undertow* [**Attack**] } | "The water beneath the span climbs the arches with no tide behind it, and the pull is toward the place the crossing stopped." | [The target is dragged toward the midpoint of the span, the furthest point from both mouths.] | *A heavy Deep Blue pull; the target's Sorrow Gauge surges 15%, and the depth is read twice — at the drag and at release.* **[24-36 Lament DMG [Lament]]** | When the Bridge is overloaded, or when a worker stands at the midpoint unroped. |
-| { *The Final Crossing* [**Ultimate**] } | "The span finishes its descent, and the working floor goes under with it." | [The Bridge completes the descent recorded in the quarterly surveys, submerging the floor of the tunnel.] | *All personnel suffer Lament pressure for three turns as the crossing drowns; the depth log is read at the end of it before anything else is moved.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the span does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Waterlogged Plank* [**Register**] } | Fills the section with audible weeping from both mouths at once, so that nobody steps anywhere and the unfinished journey is carried for the rest of the cycle. | Posts a reader at each mouth before the cycle opens and records the two counts independently — thirty-one near, twenty-six far, said aloud and said both. | The two counts are the identification. A single list read without the other is the failure the next row describes, so the watch does not begin until both mouths have a reader and both have spoken. |
+| { *The Rising Flood* [**Exposure**] } | Reads one column of names without the other, and answers the way it answered nine years of a single list — by sitting lower at the next depth reading rather than by rising. | Reads both lists together at every interval, and enters the depth at each reading so the drop can be attributed to the shift that caused it. | The risk does not accumulate with minutes; it accumulates with one-sided working. A team at a single mouth for an hour has sunk the span further than a team at both for a shift, and the depth log is the only record that shows it. |
+| { *The Breaking Plank* [**Refusal**] } | Bears weight convincingly, and for long enough to be halfway — which is the danger and not an attack. Nothing collapses underfoot and nobody is immersed; voice contact between the mouths is what lapses. | Holds voice contact as the load-bearing element, and turns both crews back the moment either mouth stops hearing the other. | The plank in the name is not the hazard. The file says so in the row and repeats it in the consequences: what fails is the line between two people, and the pull toward the midpoint is the whole of the event. |
+| { *The Final Crossing* [**Overload**] } | Completes the descent recorded in the quarterly surveys and the working floor goes under with it — a reading arriving, not a blow. | Clears the tunnel, reads the depth log at the end of it before anything else is moved, and re-surveys rather than sending a crew back for equipment. | The descent was in the surveys before it happened. The file's own instruction is to read the log first, because the only thing lost in a completed descent is the record of how far it had already gone. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The reading that confirms it is not the arches but the absence under them: ribbed arches, a permanently wet surface, and continuous surveyed floor where a bridge ought to have a gap. Position and withdrawal are established before the cycle opens, and the depth is taken against the tunnel datum at both mouths, because the two readings have never been identical and the difference between them is the first sign of a descent.
-2. **Clash:** The session is worked from both tunnel mouths at once and never from one. Flerehan's decrease is audible — a worker weeping within earshot of the far mouth, and the span answering by coming up; Ferrehan's is silent and consists of two people staying where they are until the sobbing stops. Pugnahan is entered in the record as a failure on this holding rather than as an option, and the flood it brings is entered as damage to the tunnel rather than as pressure on the crew. No part of the work involves getting to the other side.
-3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Listen between the sobs and name both shores** — the thirty-one near names and the twenty-six far names read into their own columns, aloud, by the two teams at once, with voice contact held throughout.
+1. **What is confirmed:** a reader at each mouth, the near and far counts said aloud together, and the last depth reading attributed to the shift that produced it.
+2. **What the watch does:** Flerehan for weeping with the span and Ferrehan for staying while the sobs subside, with Viderehan for the people who tried to cross — from both ends, never one.
+3. **How it closes:** **Listen between the sobs and name both shores** — and a crew that has lost both mouths to the pull is withdrawn and re-briefed rather than reinforced.
 
 ### Consequences
 
-- If resistance fails, the entity's pressure transfers into the worker's psychological matrix as an unfinished journey and depletes **Clarity**; the escalation is measured in one-sided working rather than in minutes, and a crew that has lost both mouths to the pull is withdrawn and re-briefed rather than reinforced.
+- If resistance fails, the pressure takes the worker as an unfinished journey and depletes **Clarity**. The escalation is measured in one-sided working rather than in minutes, and a crew that has lost both mouths to the pull is withdrawn and re-briefed rather than reinforced.
 - The risk does not accumulate with minutes. It accumulates with one-sided working. A team that occupies a single mouth for an hour has sunk the span further than a team that occupies both for a shift, and the depth log is the only record that shows this clearly.
 - The requiem, the shroud and the chain are all made from a crossing that was interrupted at the midpoint. Each activation borrows a measure of that interruption and the operator keeps it. The recorded cost is not grief. It is that the operator begins leaving conversations, journeys and meals at the halfway mark without deciding to.
 - If both shores are not named, the span does not rupture. It descends. Each unresolved session leaves it lower in the tunnel than it was, no recorded intervention has raised it, and the archive's working assumption is that the descent has no floor.
@@ -116,12 +102,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A weeping bridge-shaped figure descending through the tunnels. Its arches resemble ribs and its surface is wet with crystallized tears. |
-| **Position / movement** | Stationary — a structure or location. Recorded at every Stranded Between Two Shores cycle against the previous reading. |
-| **Material / signature** | Lament, presented as wet timber and crystallised tears: cold rain-smell in a dry tunnel, a surface that does not dry at any humidity, and a note under hearing from the arches that the acoustic stations register and personnel describe as somebody talking at the far end. |
+| **Position / movement** | Fixed in plan and moving in depth: the same stretch of tunnel, a measurable distance lower each quarter. Record the depth against the tunnel datum at both mouths, at entry and at exit; the two readings have never been identical. |
+| **Material / signature** | Lament, presented as wet timber and crystallised tears: cold rain-smell in a dry tunnel, a surface that does not dry at any humidity. And a note under hearing from the arches that the acoustic stations register and personnel describe as somebody talking at the far end. |
 | **Distinctive markers** | Identify it by the arches and the water. Several records in these tunnels are described as bridges; this is the one with ribbed arches, a permanently wet surface, and no gap underneath it. |
-| **Identification** | Check the designation before approach: the archive holds four bridge-shaped records and the handling differs completely between them — this is the one worked from both ends at once by two teams who never meet, and the one whose floor has been surveyed rather than built. |
+| **Identification** | Check the designation before approach: the archive holds four bridge-shaped records and the handling differs completely between them — this is the one worked from both ends at once by two teams who never meet. And the one whose floor has been surveyed rather than built. |
 
-**Appearance protocol:** Record the arches, which are curved like ribs, and the surface, which is wet with crystallised tears that do not dry at any humidity. Record the span's depth and the width of the gap it arches over — there is no gap; the tunnel floor beneath it is continuous and has been surveyed four times to confirm it.
+**Appearance protocol:** Record the arches, which are curved like ribs, and the surface, which is wet with crystallised tears that do not dry at any humidity. Record the span's depth and the width of the gap it arches over — there is no gap. The tunnel floor beneath it is continuous and has been surveyed four times to confirm it.
 
 ## Origin
 - **Formation:** The Bridge formed from crossings interrupted by catastrophe.
@@ -134,10 +120,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Weeps with the worker and lowers its span. | Decrease |
-| **Pugnahan** | The bridge cracks and the tunnel fills with tears. | Increase |
-| **Viderehan** | Shows the people who tried to cross. | Stable |
-| **Ferrehan** | Requires the worker to remain while the sobs subside. | Decrease |
+| **Flerehan** | Weeps with the worker and lowers its span. | Decrease · High |
+| **Pugnahan** | The bridge cracks and the tunnel fills with tears. | Increase · Low |
+| **Viderehan** | Shows the people who tried to cross. | Stable · Common |
+| **Ferrehan** | Requires the worker to remain while the sobs subside. | Decrease · Common |
 
 
 
@@ -154,8 +140,8 @@ Read the table as a schedule of who is audible to whom, not as a catalogue of op
 |---|---|
 | **Event Type** | Corruption of its own zone |
 | **Movement** | It does not leave the tunnel and does not pursue. It collapses under anyone who steps onto it, re-forms within the hour, and sits lower afterwards. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | Everyone in the tunnel hears voices from the far mouth, and the far mouth hears theirs; neither set of voices belongs to the living teams. |
+| **Effect** | Both shores are present at once and neither can be reached. Anybody in the span remembers standing on the far side without being able to say when. |
+| **Secondary Effect** | Everyone in the tunnel hears voices from the far mouth, and the far mouth hears theirs. Neither set of voices belongs to the living teams. |
 | **First Target** | Whoever is standing nearest the midpoint. |
 | **Escalation** | Drain rises by 5 for each further attempt to cross, and does not rise while both mouths are held and nobody moves. |
 
@@ -188,7 +174,7 @@ Read the table as a schedule of who is audible to whom, not as a catalogue of op
 
 **Ability:** Lament damage to the mind. The requiem carries the entity's signature — a journey stopped at the midpoint — and what it opens in a target is the certainty that they will not finish whatever they are currently doing.
 
-**Cost:** The wielder carries the entity's unwept grief and weeps involuntarily, most often at the point of arriving somewhere.
+**Bearer cost:** The wielder carries the entity's unwept grief and weeps involuntarily, most often at the point of arriving somewhere.
 
 ### M.A.W. Suit — The Crossing Shroud
 
@@ -206,7 +192,7 @@ Read the table as a schedule of who is audible to whom, not as a catalogue of op
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure here, and does nothing about the pull. The shroud is what lets a worker hold one mouth for a full shift with the sobbing coming from the other end, and it is issued in pairs for that reason: a bearer working alone reports the span descending regardless of the reading.
 
-**Cost:** The wearer goes numb to small pleasures and reports arrivals — home, the end of a rotation — as having no particular feeling attached.
+**Bearer cost:** The wearer goes numb to small pleasures and reports arrivals — home, the end of a rotation — as having no particular feeling attached.
 
 ### M.A.W. Stigma — The Crossing Chain
 
@@ -220,23 +206,23 @@ Read the table as a schedule of who is audible to whom, not as a catalogue of op
 
 **Ability:** Creates a temporary bridge across physical or emotional gaps.
 
-**Cost:** The wearer feels the grief of everyone who crosses.
+**Bearer cost:** The wearer feels the grief of everyone who crosses.
 
-*The chain is not manufactured. It is given to a worker who held one mouth while somebody else held the other, and is given to both of them or to neither; there is no record of a single chain being issued.*
+*The chain is not manufactured. It is given to a worker who held one mouth while somebody else held the other, and is given to both of them or to neither. There is no record of a single chain being issued.*
 
 ### M.A.W. Use Notes
 
-The Armoury issues the set as a two-worker operation or not at all. Its costs remain distinct: the Weapon carries the entity's unwept grief and brings involuntary weeping; the Suit numbs the wearer to minor joys; the Stigma makes the wearer feel the grief of everyone who crosses. The Armoury records each toll against the wielder, not the piece.
+The Armoury issues the set as a two-worker operation or not at all. Its costs remain distinct: the Weapon carries the entity's unwept grief and brings involuntary weeping. The Suit numbs the wearer to minor joys. The Stigma makes the wearer feel the grief of everyone who crosses. The Armoury records each toll against the wielder, not the piece.
 
-The full set follows *Source Kept Distinct*: the Stigma identifies the source condition, the Suit lets a witness bear Lament pressure, and the Weapon opens only the immediate manifestation that violates “Listen between the sobs and name both shores.” It cannot heal the originating collapse; misuse routes the wound through the operator and raises the source Gauge.
+The full set follows *Source Kept Distinct*: the Stigma identifies the source condition, the Suit lets a witness bear Lament pressure. And the Weapon opens only the immediate manifestation that violates “Listen between the sobs and name both shores.” It cannot heal the originating collapse. Misuse routes the wound through the operator and raises the source Gauge.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, gauge, and the pairing: the name of the second worker, the mouth they will hold, and a written note of what the wielder expects to complete that day. On this holding the pre-check is the pairing, since no piece in the set works from one end. |
-| **During use** | The first sign is not a reading and is never visible to the wielder: the second worker reports the wielder weeping at the far mouth, and the span answering by coming up. Logged with the hour by the second worker, never by the wielder, and the session stops if the second worker can no longer hear the first. |
-| **At limit** | The wielder stops leaving things at the halfway mark — conversations, journeys, meals — and reports it as efficiency. The second worker's call stands against the wielder's, and the piece is withdrawn at the second worker's word alone. |
+| **During use** | The first sign is never visible to the wielder and is priced by piece: the second worker reports weeping at the far mouth with the span answering, arrivals described as feeling like nothing, or the bearer leaving a task, a meal or a sentence at its halfway mark. Logged with the hour by the second worker, never by the wielder, and the session stops if the second worker can no longer hear the first. |
+| **At limit** | The wielder is leaving things at the halfway mark without deciding to — conversations, journeys, meals — and reports it as efficiency. The second worker's call stands against the wielder's, and the piece is withdrawn at the second worker's word alone. |
 | **After use** | Return, reconcile the written note against what the wielder actually finished that day, and record whether the toll has reversed: arrivals report as having no particular feeling attached, and the note shows whether the wielder's expectations arrived intact. Where it has not, the piece is not reissued to that wielder, and the second worker is consulted before any reissue to either. |
 
 **Stat interpretation:** The grade tells you how hard a piece hits and nothing this post needs. What the table cannot show is that chains are issued in pairs and that their bearers report hearing the other bearer's breathing at distance for some weeks afterwards, which the medical office has recorded without explaining.
@@ -256,12 +242,12 @@ The full set follows *Source Kept Distinct*: the Stigma identifies the source co
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Stranded Between Two Shores as a Subject with Subject-Lament manifestation and takes the first depth reading against the tunnel datum before anything else. The first reliable markers are the ribbed arches, the surface wet with crystallised tears at any humidity, and the absence of any gap under the span; a bridge-shaped record with a gap beneath it is a different designation and is checked against the archive before the cycle opens. |
+| **Initial exposure** | Take the first depth reading against the tunnel datum before anything else. The first reliable markers are the ribbed arches, the surface wet with crystallised tears at any humidity. And the absence of any gap under the span. A bridge-shaped record with a gap beneath it is a different designation and is checked against the archive before the cycle opens. |
 | **Sustained observation** | Continued observation confirms the four Work Type responses and the recorded physical behavior, and adds the reading this file is actually kept for: the depth at the hourly mark against the depth at entry. The figure is the entity's state and the section is the measurement. A session in which nothing was heard is not a session in which nothing happened — two of the archive's rapid-descent quarters opened with a quiet first hour, and both were logged as uneventful at the time. |
 | **Activation or escalation** | Corruption of its own zone. The zone at Zone B, deep tunnels turns and the turning spreads within it; the air fills with audible weeping, eroding the will to continue. Record it with the hour, who was present, and what had been done in the preceding minutes. |
-| **Post-contact review** | Record the depth at exit, whether both mouths were held and by whom, the names read into each column, and the gaps — the voices heard at one end and not the other, which has happened twice and preceded a quarter of unusually rapid descent both times. A report is incomplete if it records only the danger and omits the sorrow the entity preserves, and it is equally incomplete without the depth, which is the only figure in this file that changes. The operative document closes on nineteen unreturned names; the review is filed above that page, not instead of it. |
+| **Post-contact review** | Record the depth at exit, whether both mouths were held and by whom, the names read into each column. And the gaps — the voices heard at one end and not the other, which has happened twice and preceded a quarter of unusually rapid descent both times. A report is incomplete if it records only the danger and omits the sorrow the entity preserves, and it is equally incomplete without the depth, which is the only figure in this file that changes. The operative document closes on nineteen unreturned names; the review is filed above that page, not instead of it. |
 
-**Observation method:** Record the first sign, which is cold rain-smell in a dry tunnel; the first sensation, which is the need to get to the other end; the depth at entry and exit against the tunnel datum; whether both mouths were held and by whom; and the condition that ends the encounter, which is both shores named aloud in the same session. Record the names as columns — thirty-one near, twenty-six far — because a single list of twenty-six was in use for nine years, and the span descended faster across those nine years than across the thirty since.
+**Observation method:** Record the first sign, which is cold rain-smell in a dry tunnel. The first sensation, which is the need to get to the other end. The depth at entry and exit against the tunnel datum. Whether both mouths were held and by whom. And the condition that ends the encounter, which is both shores named aloud in the same session. Record the names as columns — thirty-one near, twenty-six far — because a single list of twenty-six was in use for nine years, and the span descended faster across those nine years than across the thirty since.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -270,7 +256,7 @@ The full set follows *Source Kept Distinct*: the Stigma identifies the source co
 Stranded Between Two Shores (C-IVδ-823 [LS]) is a Subject-Lament manifestation expressing Lament, formed from crossings interrupted by catastrophe and held at Zone B, deep tunnels. It appears in the deep tunnels and during heavy Sorrow Tide activity, and is entered in this log with its depth reading, which is the only figure in the record that changes.
 
 **Entry 2 — <Crossing List, Both Columns>**
-Near side, thirty-one names. Far side, twenty-six. The list is reproduced in the Keepers' hand with the two columns side by side and a ruled line between them, and the compiler's note explains the format: the first list made after the surge recorded only the twenty-six, because the twenty-six were the ones nobody could account for and the thirty-one had walked home. It was in use for nine years. The span's recorded descent over those nine years is greater than its descent over the thirty since the second column was added.
+Near side, thirty-one names. Far side, twenty-six. The list is reproduced in the Keepers' hand with the two columns side by side and a ruled line between them. And the compiler's note explains the format: the first list made after the surge recorded only the twenty-six, because the twenty-six were the ones nobody could account for and the thirty-one had walked home. It was in use for nine years. The span's recorded descent over those nine years is greater than its descent over the thirty since the second column was added.
 
 **Entry 3 — <Statement of a Worker Who Held the Far Mouth>**
 "You can hear them from your end and I can hear mine, and about forty minutes in you stop being able to tell which voices are the ones you are supposed to be listening for. What I was told to do was keep talking to Hadhi so he could hear me, which felt stupid for the first hour and did not after that. The span came up four centimetres. Nobody told me it could come up. I have read the file twice since and it is not in there, so I am putting it here."
@@ -304,36 +290,36 @@ The tunnel opens into a span over darkness. The Bridge weeps from its arches, an
 
 **When the entity activates:** nothing climbs. The gauge arrives whole, the Lament comes up all at once, before the shift from a thing merely present to a thing acting can be reported, it has already happened.
 
-**After departure:** the pressure falls away, and what it leaves does not. Lament stays in the cloth of the suit, in the tread of the boots and in the hours before dawn; a worker coming off a full shift will report needing to be on the far bank of wherever they happen to be, and the medical office files that as this entity's signature, not as an injury. Deeper exposure leaves the symptom the file takes its name from: an interrupted journey replayed as a sensation rather than a memory, most often at the midpoint of a routine walk home.
+**After departure:** the pressure falls away, and what it leaves does not. Lament stays in the cloth of the suit, in the tread of the boots and in the hours before dawn. A worker coming off a full shift will report needing to be on the far bank of wherever they happen to be. And the medical office files that as this entity's signature, not as an injury. Deeper exposure leaves the symptom the file takes its name from: an interrupted journey replayed as a sensation rather than a memory, most often at the midpoint of a routine walk home.
 
 ### Interaction Pattern
 
-Stranded Between Two Shores is read against three other holdings rather than in isolation, and in every case the reading is a depth reading. I Alone Crossed, The Undersong and The Sorrow River all sit within the same stretch of tunnel system, and what the archive can support is narrower than a relationship: each of them makes this span harder to work from one mouth, because each gives a voice or a current arriving from a direction the span's own acoustics do not explain. Whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge or containment stability is recorded. What is not recorded, because it has never been observed, is any instance of one of the three raising the span.
+Stranded Between Two Shores is read against three other holdings rather than in isolation, and in every case the reading is a depth reading. I Alone Crossed, The Undersong and The Sorrow River all sit within the same stretch of tunnel system. And what the archive can support is narrower than a relationship: each of them makes this span harder to work from one mouth, because each gives a voice or a current arriving from a direction the span's own acoustics do not explain. Whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge or containment stability is recorded. What is not recorded, because it has never been observed, is any instance of one of the three raising the span.
 
 **Interaction method:** Record it alone first and from both mouths, since a single-mouth baseline is not a baseline of this entity. In shared conditions record the depth throughout, whether the voices changed in number, and whether any voice was heard from one end and not the other — the last has happened twice and both occasions preceded a quarter of unusually rapid descent.
 
 
 ### Entity Interaction Record
 
-It is filed with the Zone B tunnel records, which between them hold most of what the surge interrupted, and the four bridge-shaped designations are kept in one folder with a handling note on the cover, because the handling differs completely between them and the difference is not visible from the designations alone.
+It is filed with the Zone B tunnel records, which between them hold most of what the surge interrupted. And the four bridge-shaped designations are kept in one folder with a handling note on the cover, because the handling differs completely between them and the difference is not visible from the designations alone.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **I Alone Crossed** | Resonates with every failed crossing, and reads strongest at the near mouth. | Raises the sob cadence at both ends without moving the depth reading; record cadence and depth together, since a change in one without the other has never preceded anything. | Record the cadence at both mouths, the depth before and after, duration, and whether voice contact between the two teams held throughout. |
+| [**I Alone Crossed**](SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md) | Resonates with every failed crossing, and reads strongest at the near mouth. | Raises the sob cadence at both ends without moving the depth reading. Record cadence and depth together, since a change in one without the other has never preceded anything. | Record the cadence at both mouths, the depth before and after, duration, and whether voice contact between the two teams held throughout. |
 | **The Undersong** | Carries calls from one shore to the other, arriving as a voice from a direction the tunnel does not have. | Substitutes its own voices for the span's; record which set the workers answered, and stop the session if the answer cannot be established. | Record whether the two teams could still identify each other's voices, the hour the substitution began, and the depth at withdrawal. |
-| **The Sorrow River** | Its tears flow toward the underground River, and the flow increases with the span's descent. | Lowers the tunnel floor reading by raising the water rather than by moving the figure; the two are told apart only by the acoustic stations. | Record the flow at the junction, the station readings at each junction, and whether the descent tracked continuous or in steps. |
+| **The Sorrow River** | Its tears flow toward the underground River, and the flow increases with the span's descent. | Lowers the tunnel floor reading by raising the water rather than by moving the figure. The two are told apart only by the acoustic stations. | Record the flow at the junction, the station readings at each junction, and whether the descent tracked continuous or in steps. |
 
 **Interaction procedure:** Both-mouth solo baseline first, then the shared encounter: depth before, during and after, voices counted at each mouth separately, how long the descent rate stayed altered once the other entity withdrew, and whether voice contact between the two teams was maintained throughout. A session in which contact lapsed is logged and discarded.
 
 ## 이야기 (Narratio) — The Tale
 
-The bridge collapsed mid-crossing, and the families on it were split, and neither shore has been reached since.
+There was a bridge, and it came down mid-crossing, and the families on it were split, and neither shore has been reached since.
 
 The tunnel bridge spanned a Han-channel deep beneath the city — one of the crossings that connect the districts through the underground routes. The bridge was old. The bridge was trusted, the way old things are trusted, because they have held before and are assumed to hold again. On the day of the surge, the bridge was full — families crossing, moving between districts, the ordinary traffic of a city beneath a city.
 
 The surge took the bridge. The Han rose in the channel — suddenly, without the warning that would have cleared the crossing — and the bridge, softened by the surge, collapsed. The families on it were split: some on the near side, some on the far, some on the bridge itself when it fell. The ones on the bridge were taken. The ones on the shores survived — separated, stranded, each side watching the other across a channel that now had no crossing.
 
-The families were split. Not only by the collapse — by the surge, which filled the channel and made return impossible. The survivors on the near shore could not reach the survivors on the far shore. The channel, full of the Han's surge, held them apart permanently, because the bridge was gone and the channel remained, and the families that had been crossing together were now two halves, each stranded on a shore, each unable to complete the crossing they had begun.
+The families were split. Not only by the collapse — by the surge, which filled the channel and made return impossible. The survivors on the near shore could not reach the survivors on the far shore. The channel, full of the Han's surge, held them apart permanently, because the bridge was gone and the channel remained. And the families that had been crossing together were now two halves, each stranded on a shore, each unable to complete the crossing they had begun.
 
 Stranded Between Two Shores is that interrupted crossing. Subject-Lament: the figure of a journey ended between shores — not at the destination, not at the origin, but in the middle, over the channel, with the crossing incomplete and both shores unreachable. The Bridge holds the grief of journeys that never arrive: the families split mid-transit, the crossing that began and did not end, the survivors on each shore who spent their lives looking across a channel at the family they had been walking with when the bridge went down.
 
@@ -363,7 +349,7 @@ Some sorrows mourn arrival. Stranded Between Two Shores mourns the in-between �
 - The bridge is sunken; families remain on separate shores.
 **Observation Notes:**
 - A tunnel bridge collapsed during a Han surge, splitting families mid-crossing.
-**Cross-References:** Zone D tunnels · I Alone Crossed · Survivor's Span
+**Cross-References:** Zone D tunnels · [I Alone Crossed](SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md) · [Survivor's Span](SE-N-IIβ-993_Survivors_Span_무너진_다리.md)
 **Faction Involvement:** SED (D-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** Families crossing a tunnel bridge when it collapsed.
 
@@ -371,7 +357,7 @@ Some sorrows mourn arrival. Stranded Between Two Shores mourns the in-between �
 
 **Operational interpretation:** This file is a map and the territory is a tunnel with two ends. Every figure here follows from how many of them were occupied. The counter is 1, which means the first crossing is the event; there is no margin here and no second attempt to learn from.
 
-**Review requirement:** Re-verify after any event, any Sorrow Tide, and any quarterly depth survey that shows a descent greater than the preceding quarter — the last unconditionally, with the shift rosters for the quarter attached, since the descent rate has tracked single-mouth working every time it has been checked.
+**Review requirement:** Re-verify after any event, any Sorrow Tide. And any quarterly depth survey that shows a descent greater than the preceding quarter — the last unconditionally, with the shift rosters for the quarter attached, since the descent rate has tracked single-mouth working every time it has been checked.
 ## Apex Record
 
 ### The Gap Survey
@@ -392,11 +378,11 @@ The families divided by the original collapse are listed in the chamber record, 
 
 ### Descent
 
-The figure moves downward through the tunnel network when it moves at all, never upward, and the descent is tracked by acoustic stations sited at the junctions. Tracking is continuous and the stations are old, having been installed early and maintained rather than replaced, because their positions were chosen against the original transit plan and no modern siting study has improved on them. Personnel below a tracked descent are withdrawn ahead of it as a matter of course. The withdrawal is not an emergency measure and is not called as one; the figure moves slowly, the crews have time, and the protocol is explicit that treating the movement as urgent would introduce the only real hazard in the procedure.
+The figure moves downward through the tunnel network when it moves at all, never upward, and the descent is tracked by acoustic stations sited at the junctions. Tracking is continuous and the stations are old, having been installed early and maintained rather than replaced, because their positions were chosen against the original transit plan and no modern siting study has improved on them. Personnel below a tracked descent are withdrawn ahead of it as a matter of course. The withdrawal is not an emergency measure and is not called as one. The figure moves slowly, the crews have time, and the protocol is explicit that treating the movement as urgent would introduce the only real hazard in the procedure.
 
 ### The Unreturned
 
-The chamber file closes on a short list of people who were on the span and were never accounted for afterward — not confirmed lost, not confirmed arrived, simply absent from both sides of the record. The list is nineteen names long and has never changed. It is the last page of the operative document, placed there deliberately, and the note above it states that the wing has no operational use for the list and keeps it at the end so that anyone who reads the protocol through reaches it last and closes the file on it.
+The chamber file closes on a short list of people who were on the span and were never accounted for afterward — not confirmed lost, not confirmed arrived, simply absent from both sides of the record. The list is nineteen names long and has never changed. It is the last page of the operative document, placed there deliberately. And the note above it states that the wing has no operational use for the list and keeps it at the end so that anyone who reads the protocol through reaches it last and closes the file on it.
 
 ### The Annual Contact
 
@@ -411,10 +397,10 @@ Contact with the survivors' association is made once a year by the commander in 
 
 ### Registry Trivia
 
-- **Classification detail:** Stranded Between Two Shores is a Subject with Entity (IV) coherence and Critical (δ) potency; the code is C-IVδ-823 and the record is held under `[LS]`, which on this holding means the file itself is part of the containment apparatus.
+- **Classification detail:** Stranded Between Two Shores is a Subject with Entity (IV) coherence and Critical (δ) potency. The code is C-IVδ-823 and the record is held under `[LS]`, which on this holding means the file itself is part of the containment apparatus.
 - **Field detail:** Element Lament, registered to Zone B, deep tunnels, where the acoustic stations are sited at the junctions and the depth is read against the tunnel datum rather than against the span.
 - **Recognition detail:** Identify it by the arches and the water. Several records in these tunnels are described as bridges; this is the one with ribbed arches, a permanently wet surface, and no gap underneath it.
-- **Record detail:** Check the designation before approach: the archive holds 4 bridge-shaped records and manages each in a different way, and this one prints its crossing list in both columns — 31 near, 26 far — and closes on the 19 names never accounted for on either side. A version of the file that gives a single number is the condition the entity is made of.
+- **Record detail:** Check the designation before approach: the archive holds 4 bridge-shaped records and manages each in a different way. And this one prints its crossing list in both columns — 31 near, 26 far — and closes on the 19 names never accounted for on either side. A version of the file that gives a single number is the condition the entity is made of.
 - **Containment detail:** Containment holds the tunnel, not the separation. The span descends between sessions with the tunnel sealed, and the containment reading is the depth against the datum rather than the state of either door.
 ## Document Information
 

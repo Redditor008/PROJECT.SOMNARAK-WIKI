@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Homeless Sorrow work |
 | Bestowal event | The Hearth appeared in a room the shadow chose to rest in after two workers agreed to rotate witness duty rather than abandon the space. |
 | Acceptance condition | The candidate names a follow-up person who will receive the post-use grief account. |
@@ -53,7 +54,7 @@
 
 ### Appearance
 
-The Shadow Hearth is a small round charm of dark Han metal with a shallow recess at its centre, worn at the head slot on a short pin. The metal is cold and grey until the bearer creates a low-light circle, at which point a soft amber light gathers in the recess without producing heat. It identifies a nearby displaced sorrow by cooling against the bearer, without revealing who caused the displacement. When a person consents to remain in the circle and a follow-up witness accepts the later account, the hearth creates a small area where displaced sorrow can settle long enough for the person to speak, rest, or choose an exit. The light goes out and the grief moves into the bearer's own emotional field when the hearth closes. It is cleaned only with a dry cloth. After the hearth closes, the bearer tells the follow-up person which grief settled and what practical support is needed next, and the recess is cleaned with a dry cloth only.
+The Shadow Hearth is dark Han metal, round and flat, with a shallow recess worn into the centre of it and a short pin to hold it at the head slot. The metal is cold and grey until the bearer creates a low-light circle, at which point a soft amber light gathers in the recess without producing heat. It identifies a nearby displaced sorrow by cooling against the bearer, without revealing who caused the displacement. When a person consents to remain in the circle and a follow-up witness accepts the later account, the hearth creates a small area where displaced sorrow can settle long enough for the person to speak, rest, or choose an exit. The light goes out and the grief moves into the bearer's own emotional field when the hearth closes. It is cleaned only with a dry cloth. After the hearth closes, the bearer tells the follow-up person which grief settled and what practical support is needed next, and the recess is cleaned with a dry cloth only.
 
 ### Passive effect— *Low Light*
 
@@ -85,14 +86,3 @@ Park used the Hearth for a worker who had been moved through three temporary qua
 The Hearth is the accepting center of *A Place for Tonight*. Lens makes a temporary boundary and Veil protects recognition; this Stigma makes the set meaningful only when someone receives what settles afterward.
 
 > *“A safe room does not end with the door closing. It ends when somebody still knows what happened there.”* — Containment Lead Dekan
-
----
-
-**Document ID:** `SE-119-D`  
-**Linked Entity:** `SE-119`  
-**Item Registry Code:** `MAW-G-119-01`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

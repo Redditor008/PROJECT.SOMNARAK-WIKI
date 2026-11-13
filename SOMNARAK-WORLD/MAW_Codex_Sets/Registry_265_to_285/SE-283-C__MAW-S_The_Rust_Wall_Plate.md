@@ -24,9 +24,15 @@ The Rust Wall Plate is a black harness of Han steel assembled from rusted bounda
 
 ## PROTECTION FILE
 
+**Grade / Element:** γ / Weight
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
 **Standing Passage:** The Plate resists forced movement and corridor Weight while the wearer leaves room for crossing.
 
@@ -43,14 +49,3 @@ Plate keeps the route occupied but open; Charm names sides and Maul breaks closu
 **Maintenance:** Open every plate while one person from each side includes the wearer in a current task. Rust clears only after participation, not verbal neutrality.
 
 **Removal:** Passage partner releases the rear plate while the wearer steps toward an explicitly named welcome point.
-
----
-
-**Document ID:** `SE-283-C`  
-**Linked Entity:** `SE-283`  
-**Item Registry Code:** `MAW-S-283-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

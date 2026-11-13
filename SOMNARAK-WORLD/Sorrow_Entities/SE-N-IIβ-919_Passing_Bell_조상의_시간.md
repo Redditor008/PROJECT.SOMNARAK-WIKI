@@ -27,10 +27,11 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Time |
 | **Primary pressure** | Weight / Spirit pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, the cycle being the hour, transcribed. The yield does not vary with how much is said, which has run from eleven lines to over four hundred. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is Threshold 3 identifying a recurring hour rather than a demonstrated breach. It resets to 20 s the moment the operator is out of the interval — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -38,57 +39,40 @@
 
 ### Operational Notes
 
-- Threshold 3 identifies the recurring-hour record, not a demonstrated physical switch. Gauge relief is recorded when warnings are copied afterward, not during the hour; the delayed-copying test in the Work Notes must not be replaced by a claim that all gauge movement is confined to the hour.
+- Threshold 3 identifies the recurring-hour record, not a demonstrated physical switch. Gauge relief is recorded when warnings are copied afterward, not during the hour. The delayed-copying test in the Work Notes must not be replaced by a claim that all gauge movement is confined to the hour.
 - Pressure combines weight and spirit. Personnel report it as fatigue in the legs and a reluctance to speak, persisting until the hour closes.
 - The entity is an hour rather than a body. Containment is scheduling: the hour arrives once per cycle and cannot be moved, shortened, or skipped.
 - The dead speak to each other, not to the living. Personnel who answer are recorded as having answered, and are not reassigned to the hour.
 - Yield is bounded by the hour's duration, which makes this the only row in its class with a yield ceiling bounded by the recorded hour, not proof of a daily recurrence.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight. There is nothing present to resist; the hour has no physical component and no instrument has ever registered a sound, which is why the record is handwritten. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 495/495 |
-| **Han Pressure [ATK]** | 14–20 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** It is an hour, not a body: the Entity Type files it as Time, the Notes say the entity *is an hour rather than a body*. And the Battle Phases asked for the clash row to be struck because there is nothing to engage. What happens is that two transcribers write down a conversation between the dead, and the dead do not look up.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Moderate temporal/transcription hazard; not a Sovereign classification |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-919 |
-| **Resolution Condition** | The hour ends, both transcripts are sealed unread, and the warnings are copied into the ledger. The gauge falls on the copying and not on the hour, which the station established in Year 4,230 and has not been able to explain since. |
+| **Mode of presence** | A fixed sector in Zone A during one hour per cycle, when the voices of the dead become audible to each other and not to the living |
+| **Perceptible to** | The room first, sounding like a room with more people in it. Then the pressure, reported as fatigue in the legs and a reluctance to speak, which lasts until the hour closes |
+| **Activation threshold** | 3 cycles — and the threshold identifies the recurring-hour record rather than a physical switch. The hour arrives and cannot be moved, shortened or skipped |
+| **Sorrow Gauge [HP]** | 495/495 — the containment meter, read at the station |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-N-919, contained |
+| **Resolution Condition** | Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "The air thickens and the room sounds like a room with more people in it." | [The opening minute, which is the same every time and is the only cue the transcribers get.] | *10 Weight to everyone in the sector; no instrument registers anything.* **[10 Weight DMG [Weight]]** | At the start of the hour, once per cycle, 71 times in six years. |
-| { *The Spirit Surge* [**Attack**] } | "One of them stops talking to the others." | [A voice turns toward the living, which it is not supposed to do and which has happened four times.] | *18 Weight to the transcriber addressed; on all four occasions the voice used the transcriber's own surname and nothing else.* **[18 Weight DMG [Weight]]** | When a transcriber answers, or asks a question aloud. |
-| { *The Settling* [**Attack**] } | "They all say the same thing at the same time, and it is a date." | [The hour collapses into a single line delivered in unison.] | *20 Weight to everybody present.* **[20 Weight DMG [Weight]]** | Twice. Both dates had passed. Both corresponded to industrial accidents in the zone that the facility had recorded as having no casualties. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The hour does not close and the voices are in the corridors, still talking to each other." | [The sector boundary stops holding and the conversation continues through Zone A.] | *20 Weight per cycle for three cycles to everyone in the zone.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once, in Year 4,232; it lasted three hours and nothing was said in the corridors that had not been said in the sector. |
+| Event | What the hour does | What the transcribers carry out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Opens with the same minute every time: the air thickens, the room sounds occupied, and nothing an instrument can hear occurs. | Two books opened in opposite corners, and the first line written as spoken. | Seventy-one hours in six years. Six years of recording attempts have produced six hours of tape silence, which is why the record is handwritten. |
+| { *The Turning Voice* [**Refusal**] } | Lets one of the dead stop talking to the others and turn toward the living — four times in six years, and never more than a surname. | An entry recording what was said, and no reply. Anyone who answers is recorded as having answered and is not reassigned to the hour. | The prohibition is not ceremony. The voice is not supposed to turn, and the file treats the four turns as the hour's one refusal to be a recording. |
+| { *The Unison Date* [**Exposure**] } | Collapses the whole conversation into a single line delivered in unison, twice, both dates a date that had already passed. | Two transcripts, side by side, unreconciled — and a warning that arrives after the accident it referred to. | Both dates corresponded to industrial accidents the facility had recorded as having no casualties. The file does not resolve that, and the transcripts are not reconciled. |
+| { *The Hour That Did Not Close* [**Overload**] } | Fails to end once, in Year 4,232, above 65 per cent: the voices continue into the corridors for three hours. | Three hours of boundary work, and the entry that nothing said in the corridors had not already been said in the sector. | The one recorded expansion. Nothing new was said, and the containment note records that as the reason it was survivable. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Two transcribers take opposite corners with their own books and pencils. No recorder is brought — six years of attempts have produced six hours of silence on tape — and no questions are prepared, because questions cannot be asked.
-2. **Clash:** None, and the station has asked for the row to be struck. There is nothing to engage; there is an hour of other people's conversation and two people writing it down.
-3. **Resolution:** The hour ends mid-sentence, every time. Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled. It closes against the documented suppression condition: **Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled**.
+1. **What is confirmed:** two transcribers, opposite corners, their own books and pencils, no recorder, and the hour — which does not move for anybody's convenience.
+2. **What the watch does:** writes. No questions are prepared because questions cannot be asked aloud. Nobody answers a voice even when it uses a surname. Viderehan is the hour itself and Ferrehan is staying for all of it, which is where the gauge falls.
+3. **How it closes:** the hour ends mid-sentence, every time, against the file's documented suppression condition: **Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled** — sealed, copied. And filed side by side, never reconciled.
 
 ### Consequences
 
@@ -138,28 +122,25 @@
 - **The Event:** The first hour was logged as equipment fault. The second, five weeks later, was logged as equipment fault. The third was transcribed by a night clerk who had no instruments and wrote down what she heard, and her pages are the holding's first record.
 - **The People:** The dead of Zone A, unnamed and uncounted. Nine of the voices recur often enough to have been given numbers by the transcribers, and the station has twice refused to let them be given names.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the spirit pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+> **This holding is not worked.** A fixed sector in Zone A during one hour per cycle, when the voices of the dead become audible to each other and not to the living. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
-
-Both usable Work Types lower the gauge and neither does so during the hour. The fall comes when the warnings are copied into the ledger afterward, which the station established in Year 4,230 by delaying the copying for a week and watching nothing happen until it was done. Nobody has explained it and the procedure is built around it regardless.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm two transcribers, opposite corners, their own books and pencils, no recorder, and the hour — which does not move for anybody's convenience. |
+| **Handling** | Writes. No questions are prepared because questions cannot be asked aloud. Nobody answers a voice even when it uses a surname. The observer is the hour itself and the stander is staying for all of it, which is where the gauge falls. — see `## Handling Process` |
+| **Withdrawal** | The hour ends mid-sentence, every time, against the file's documented suppression condition: **Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled** — sealed, copied. And filed side by side, never reconciled. |
+| **Refusal** | An entry recording what was said, and no reply. Anyone who answers is recorded as having answered and is not reassigned to the hour. |
 
 ## Breach Behavior
 
-> *"Passing Bell has broken free. The weight spirit spreads."*
-
+> *"Passing Bell has broken free. It is not addressing anybody: the voices speak to each other, and they have spoken to a living person four times in seventy-one hours, each time after being spoken to first."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
 | **Movement** | The entity's spirit influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Weight pressure radiates — the spirit register makes it personal, targeted, unavoidable. |
+| **Effect** | The bell is heard by whoever is going to be affected by it, and by nobody else. The pressure arrives as a certainty that the next passing is for them. |
 | **First Target** | Nobody. The voices speak to each other and have addressed a living person four times in 71 hours, each time after being spoken to first. |
 | **Escalation** | +5 Weight drain per cycle for as long as the hour runs. It does not advance and nothing approaches; the drain is the cost of sitting inside it. |
 
@@ -191,7 +172,7 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 
 **Ability:** Struck targets hear, for a few seconds, a conversation they are not part of. Fourteen strikes, fourteen reports, and in four of them the target recognised a voice.
 
-**Cost:** The wielder experiences mild memory fragmentation with each use.
+**Bearer cost:** The wielder stops being sure which conversations they were actually in, and the piece offers no test for it.
 
 ### M.A.W. Suit — Passing Bell's Veil
 
@@ -209,7 +190,7 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 
 **Ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.
 
-**Cost:** A low constant fatigue, and the habit of pausing before answering anybody — half a second, consistently — as though waiting for somebody else to finish.
+**Bearer cost:** A low constant fatigue, and the habit of pausing before answering anybody — half a second, consistently — as though waiting for somebody else to finish.
 
 ### M.A.W. Stigma — Passing Bell's Token
 
@@ -223,13 +204,13 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 
 **Ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
 
-**Cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
+**Bearer cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
 
 *Three Stigmas in six years, all three following hours in which a warning was transcribed identically in both books. Most hours produce two transcripts that differ somewhere.*
 
 ### M.A.W. Use Notes
 
-The three pieces were taken during an hour, by a team that wrote down their intentions beforehand because speaking inside the sector is prohibited. The cost is the half-second pause: wielders begin waiting for somebody to finish before they answer, and the pause lengthens with carry. Two wielders reached four seconds and were stood down; both said afterward that they had been listening and that it would have been rude not to.
+The three pieces were taken during an hour, by a team that wrote down their intentions beforehand because speaking inside the sector is prohibited. The cost is the half-second pause: wielders begin waiting for somebody to finish before they answer, and the pause lengthens with carry. Two wielders reached four seconds and were stood down. Both said afterward that they had been listening and that it would have been rude not to.
 
 ### Field Use Record
 
@@ -297,7 +278,7 @@ The bell at this station is rung for ancestors, and the hour has never been run 
 | **Vellum Man** `C-Iα-900` | Grouped on narration that stops before it is done. That record abandons the tale at thirty minutes with the page marked; here the hour ends mid-sentence and the two transcripts simply stop. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered on each repetition. |
 | **Weighted Silence** `O-IIIγ-924` | Grouped on an hour nobody fills. That record holds quiet with a pressure under it; this one holds two speakers who cannot reach the end of a sentence before the bell. | One joint review entry; the counts diverged at the first mark and neither column was reconciled. | That the divergence is the finding, kept in the review's own figures rather than merged. |
 
-**Interaction procedure:** Compare in the record only, at the quarter's review, with the sealed books and the ledger's warnings re-read first and the other record's series laid beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the sealed books and the ledger's warnings re-read first and the other record's series laid beside them unchanged. The entry lets the divergence stand: the range at which the books part, what rang it, both readings, and what was still tolling once the two were separated.
 
 
 ## 이야기 (Narratio) — The Tale
@@ -328,7 +309,7 @@ The station is quiet in both senses: nobody raises a voice and nobody cries. The
 
 **Comprehension Level:** 2 — Basic
 
-**Threat Assessment:** Moderate, and the grade is for the transcribers rather than for the zone. Six years, 71 hours, four namings, one three-hour overrun, no fatalities and no physical injury; the standing cost is a ledger of fifty-two warnings nobody can read yet.
+**Threat Assessment:** Moderate, and the grade is for the transcribers rather than for the zone. Six years, 71 hours, four namings, one three-hour overrun, no fatalities and no physical injury. The standing cost is a ledger of fifty-two warnings nobody can read yet.
 
 **Containment & Handling Procedures:**
 - Two transcribers, separate books, nothing said aloud, nothing reconciled afterward.
@@ -363,7 +344,7 @@ The grief behind it is particular rather than general, and the commissioning mat
 
 ## Trivia
 
-- One of the first catalogued **Time-Spirit** entities in Somnarak.
+- The dead speak to each other rather than to the living, and the two transcripts are filed side by side without being reconciled.
 - Among the time entities on file, this is the only one whose descriptor reads spirit first and clock second.
 - Standard weight is a measurement taken off a crowd. This one is addressed: the hour knows who is standing in it, and the weight says so.
 

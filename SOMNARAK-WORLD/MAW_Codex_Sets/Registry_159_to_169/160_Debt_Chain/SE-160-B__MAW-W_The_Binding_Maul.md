@@ -20,7 +20,7 @@
 | Set | Named Obligation |
 | Type / grade / element | Weapon / β — Moderate / Weight |
 | Status | Active; debt-custody issue only |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Minho Ashford |
 | Resting form | A black maul with a single open chain link set into the head, never bearing a name. |
 | Active form | The link opens into a short Weight line around a coercive obligation field. |
@@ -90,14 +90,3 @@ Ashford used *No One Is the Ledger* when a young debtor was pinned by a Chain re
 The Maul is the separating force of *See the Links*. Binding Mantle resists the Weight and Binding Chain maps connections; this weapon makes sure the set never treats a human being as a collectible link.
 
 > *“A link may record an obligation. It does not contain the person it names.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-160-B`  
-**Linked Entity:** `SE-160`  
-**Item Registry Code:** `MAW-W-160-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

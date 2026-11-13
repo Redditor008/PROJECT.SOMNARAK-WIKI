@@ -22,7 +22,7 @@ The Echo formed from kindness that became rare enough to crystallize. The grief 
 | Type / Manifestation | Object/Place — Can spread / Subject-Lament |
 | Coherence / Potency | Residue (I) — Barely formed, ambient / Minor (α) |
 | Element / Location | Lament / Zone D, Mantle Commons — ambient |
-| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Lament |
+| Gauge / Pressure | 000/198; starts 000% / 3–10 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | Countless small acts—food shared, doors held, wounds tended—gathered into a voice. |
 
@@ -30,8 +30,8 @@ The Echo formed from kindness that became rare enough to crystallize. The grief 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the act that formed the Echo. (Stable) |
 | Ferrehan | Remains nearby while the worker accepts comfort. (Decrease) |
 
@@ -40,7 +40,7 @@ The Echo formed from kindness that became rare enough to crystallize. The grief 
 
 ## WITNESS RECORD — *The Solace Source-Trace*
 
-During the The Solace Source-Trace, the field team preserved this source fact: Countless small acts—food shared, doors held, wounds tended—gathered into a voice. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a city where compassion is treated as exceptional.
+During *The Solace Source-Trace*, the field team preserved this source fact: Countless small acts—food shared, doors held, wounds tended—gathered into a voice. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a city where compassion is treated as exceptional.
 
 ## M.A.W. SET — *Solace — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Solace Source-Trace, the field team preserved this source fact: C
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Solace's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: No containment required; preserve the conditions that form it The set cannot heal the originating event. Misuse routes Solace's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1022-A`  
-**Linked Entity:** `SE-1022`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

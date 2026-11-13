@@ -1,14 +1,14 @@
 # Echo-Core 1 — The Director [Echo-Core]
 
-> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
-> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
-> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER  
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE  
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL  
 > Official historical record, behavioral assessment, and resonance profile for Majin.
 
-> _“I remember every choice that brought us here. Knowing why I made them does not make them right.”_
+> _“I remember every choice that brought us here. Knowing why I made them does not make them right.”_  
 > — **Majin, the Director**
 
-**Majin** (마진) is **Echo-Core 1** of the Nine and the supreme authority of the **Reverie Directorate**, known throughout Somnarak by his office rather than his name — **The Director** (관장, *gwanjang*). He commands the Hand of Change beneath the Alpha Tree and coordinates the Directorate's eight operational floors from Floor 1.
+**Majin** (마진) is **Echo-Core 1** of the Nine and the supreme authority of the **Reverie Directorate**, known throughout Somnarak by his office rather than his name — **The Director** (관장, *gwanjang*). He commands the Hand of Change, the five-spired facility beneath the Alpha Tree, and coordinates the Directorate's eight operational floors from Floor 1.
 
 Majin is the only Echo-Core who remains fully biological, and the only person known to have survived an Ω-grade M.A.W. fusion. He is the central figure of *Absolvohan*, which opens on Day 0 with his morning report and follows him through the final iteration of the Cycle he designed.
 
@@ -44,7 +44,7 @@ Majin is the only Echo-Core who remains fully biological, and the only person kn
 | **Real Name** | Majin (마진) |
 | **Title** | The Director (관장 — *gwanjang*) |
 | **Designation** | Echo-Core 1 |
-| **Echo-Core Name** | **Variable** — Doorspeech fragment, second position; never recorded twice |
+| **Echo-Core Name** | **Variable** — a fragment of the Doorspeech, the whisper of the Final Door; second position; never recorded twice |
 | **Gender** | Man |
 | **Station** | A — Alpha Tree; Floor 1 (Neutral) |
 | **Role** | Supreme authority of the Reverie Directorate |
@@ -52,7 +52,7 @@ Majin is the only Echo-Core who remains fully biological, and the only person kn
 | **Sorrow** | City Sorrow (도한) |
 | **Signature** | Weight |
 | **Manifestation** | Subject-Body — Reaper Hungered manifests through the fused left-arm mark |
-| **M.A.W.** | Reaper Hungered — Ω-grade, singular |
+| **M.A.W.** | Materialized Agony Wear — Reaper Hungered, Ω-grade, singular |
 | **Age** | 126 during the final Cycle; continues to age |
 | **Operational Age** | Active across 1,778 Cycle iterations plus the unlooped years |
 | **Archive Progression** | Stratum Realization 3 — the weight is not a burden; it is a gift |
@@ -173,17 +173,31 @@ Seiyon greets the Director. He does not look up; he is reading a report he has b
 
 > **Majin:** *"Report."*
 
-Seiyon states that the facility is stable, that the Veil generators are at 97.3% efficiency, and that the Han-conduits are clear. Majin asks after the Maw. She answers that it is quiet, that the thousand are whispering, and that this is the same as every day.
+> **Seiyon:** *"Facility stable. Veil generators at 97.3 percent efficiency. Han-conduits clear."*
+
+> **Majin:** *"The Maw."*
+
+> **Seiyon:** *"Quiet. The thousand are whispering. It is the same as every day."*
 
 The Director looks up. He asks a question outside the report.
 
 > **Majin:** *"And you?"*
+
 > **Seiyon:** *"...Director?"*
+
 > **Majin:** *"How are you, Seiyon?"*
+
 > **Seiyon:** *"I am... functional. Thank you for asking. You haven't asked in... a while."*
+
 > **Majin:** *"I know. I should ask more often."*
 
-Seiyon replies that she understands why he does not — that asking means caring, caring means feeling, and feeling means carrying more weight. When Majin observes that she knows him too well, she notes she has watched him make the same decisions 1,778 times and knows him better than he knows himself. He asks whether that is a complaint. She answers that it is a confession.
+Seiyon does not answer at once. When she does, she gives him the arithmetic of it: asking means caring, caring means feeling, and feeling means carrying more weight than the report already carries.
+
+> **Seiyon:** *"I have watched you make the same decisions 1,778 times. I know you better than you do."*
+
+> **Majin:** *"Is that a complaint?"*
+
+> **Seiyon:** *"It is a confession."*
 
 He walks to the Central Command window, looks down over the Hand of Change, and orders the day to begin.
 
@@ -192,19 +206,27 @@ He walks to the Central Command window, looks down over the Hand of Change, and 
 During morning assignments the Director changes one posting. Specialist Lee is moved off Entity 001, the Orphaned Bell.
 
 > **Seiyon:** *"Specialist Lee has been assigned to The Orphaned Bell for 47 consecutive days. Why the change?"*
+
 > **Majin:** *"Specialist Lee has been hearing the Bell's toll in their sleep. The Bell is getting inside them. They need distance."*
+
 > **Seiyon:** *"Noted. Reassignment logged."*
 
-A Breach Ordeal is forecast for the evening. Seiyon asks whether to alert the teams.
+By the afternoon the forecast has firmed. A Breach Ordeal is due that evening.
+
+> **Seiyon:** *"Do I alert the teams?"*
 
 > **Majin:** *"Alert them. But don't alarm them. The Ordeal is routine. We've survived 1,778 of them."*
+
 > **Seiyon:** *"We've survived 1,778 of everything, Director."*
 
 Three Desolate entities breach the Zone E perimeter and are suppressed without casualties. The Director closes the day's report.
 
 > **Majin:** *"Same as yesterday."*
+
 > **Seiyon:** *"Same as every day."*
+
 > **Majin:** *"How many more?"*
+
 > **Seiyon:** *"...As many as it takes."*
 
 ### Phase I — Repetition Under Strain (Days 1–49)
@@ -215,17 +237,25 @@ Through this phase he treats every deviation as a containment problem. He keeps 
 
 On **Day 17** Xyan's first message reaches Central Command — *"The Furnace is burning."* Majin does not answer it.
 
-On **Day 29** the Smothering Mother tells him she understands and forgives him. On **Day 31** the Three Birds again approach Convergence, and he again refuses to destroy any one of them to simplify containment. On **Day 36** the Kind Healer attempts a tenth blessing; he declines to blame Ayshuk. On **Day 41** the entity inside Mellda signals that it wants to go home. On **Day 49** the Final Door whispers a pre-human word that Marjuk interprets as *mercy*.
+On **Day 29** the Smothering Mother escapes, holds a specialist for six hours, and leaves a message carved into the cell door with her fingernails.
+
+> **Dekan:** *"She says: tell the Director I understand. Tell the Director I forgive."*
+
+Nothing comes back over the channel. The recording holds eleven seconds of it. On **Day 31** the Three Birds again approach Convergence, and he again refuses to destroy any one of them to simplify containment. On **Day 36** the Kind Healer attempts a tenth blessing; he declines to blame Ayshuk. On **Day 41** the entity inside Mellda signals that it wants to go home. On **Day 49** the Final Door whispers a pre-human word that Marjuk interprets as *mercy*.
 
 ### Phase II — The World Outside the Plan (Days 53–97)
 
 On **Day 53** the Maw asks, through Dekan, whether the thousand are remembered. Majin admits the city remembers the ritual of mourning but not the truth of the sacrifice.
 
-On **Day 73** a Cheonbulok envoy kneels outside Somnarak and begs for help. Majin watches and does not answer. On **Day 82** the Orphaned Bell tolls softly for the rejected envoy — the mourning the Director declined to express.
+Xyan's second message arrives on **Day 55** — *"The Vaults are leaking."* Majin does not answer it.
 
-On **Day 77** Marjuk locates the Founder's journal, which opens: *"We built a city on sorrow."* On **Day 92** the Kind Healer reaches ten blessings. Xyan's second and third messages arrive on **Day 55** and **Day 97** — *"The Vaults are leaking"* and *"The Silence is breaking."*
+On **Day 65**, to the Weeping's accelerating growth, his response is to accelerate extraction rather than reconsider the premise.
 
-Majin's response to the Weeping's accelerating growth on **Day 65** is to accelerate extraction rather than reconsider the premise.
+On **Day 73** a Cheonbulok envoy kneels outside Somnarak and begs for help. Majin watches and does not answer.
+
+On **Day 77** Marjuk locates the Founder's journal, which opens: *"We built a city on sorrow."*
+
+On **Day 82** the Orphaned Bell tolls softly for the rejected envoy — the mourning the Director declined to express. On **Day 92** the Kind Healer reaches ten blessings. Xyan's third message arrives on **Day 97** — *"The Silence is breaking."*
 
 ### Phase III — Contact and Possibility (Days 101–145)
 
@@ -233,9 +263,19 @@ On **Day 101** the Maw stops whispering and speaks clearly: *"We are tired. We w
 
 On **Day 103** Zyrak reports a vision that does not match any prior iteration — an Absolvohan that does not fire but spreads, gently, like rain.
 
-On **Day 108** the Cheonbulok envoy returns with families and children. The Director gives the order that reverses his doctrine.
+On **Day 108** the Cheonbulok envoy returns, and does not come alone: twelve citizens, three families, two children, collapsed at the five-kilometer marker with their lungs bleeding from outside sorrow. They crossed by tying themselves together with industrial cable.
 
-> **Majin:** *"Open the gates."*
+> **Seiyon:** *"Protocol 14-B mandates quarantine and perimeter denial for unidentified biological entities."*
+
+> **Majin:** *"Override 14-B. Open Gate 05. Retrieval teams in armored crawlers. Bring every one of them inside."*
+
+> **Mellda:** *"The Council will call that treason, Director."*
+
+> **Majin:** *"The Council has executed me 1,778 times. No one dies outside our wall today."*
+
+> **Mellda:** *"Opening Gate 05 now."*
+
+The order reverses his doctrine in a single sentence, and the two people who hear it — a border lead and a secretary — each understand that the sentence has a date on it.
 
 On **Day 113** the Kind Healer blesses a refugee and the refugee's rage becomes hope; the count reaches eleven. On **Day 125** the Maw shifts from Grudge to Lament. On **Day 132** the Three Birds decline to attempt Convergence and watch the refugees instead. On **Day 137** the Healer refuses available opportunities to give a twelfth blessing, and Majin concludes it may be waiting for a choice rather than following a sequence.
 
@@ -256,23 +296,36 @@ On **Day 165** the thousand vanish from the Maw, leaving it peaceful and empty.
 On **Day 177** Majin asks Seiyon for the reserve figure.
 
 > **Seiyon:** *"49.8 tons were released in the demonstration. The remaining reserves are... insufficient for a full release."*
+
 > **Majin:** *"How much do we need?"*
+
 > **Seiyon:** *"For a full city-wide release? 100 tons. We have... 0."*
+
 > **Majin:** *"...Then we collect more."*
 
-Seiyon does not comply. She states that the Absolvohan is no longer a weapon, that it is a hand, and that a hand does not need 100 tons — it needs contact. Majin repeats the word back as a question. She answers that the sorrow transforms when it is shared, not when it is concentrated and not when it is released.
+Seiyon does not comply.
+
+> **Seiyon:** *"The Absolvohan is not a weapon. It is a hand. A hand does not need 100 tons. It needs contact."*
+
+> **Majin:** *"Contact."*
+
+> **Seiyon:** *"The sorrow transforms when it is shared. Not when it is concentrated. Not when it is released. When it is shared."*
 
 > **Majin:** *"...We don't need the Absolvohan. We need each other."*
 
-The Director opens the facility, the gates, and the archives. The R.D. discloses the Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, and the Cycle. The city weeps, rages, and hopes.
+The Director opens the facility, the gates, and the archives. The R.D. discloses the Cheongula, the Weeping, the Maw, the thousand, the Absolvohan, and the Cycle.
 
 ### Phase V — The First Unlooped Year (Days 350–365)
 
 Entities move through the facility as visitors rather than prisoners. On **Day 355** Xyan returns with **Kael**, Cheonbulok refugees, and Mugeukji Feelers, after Majin opens passage from inside. On **Day 360** Seiyon confirms the Mnemonic Generator's field is weakening. On **Day 365** the year closes without recurrence.
 
+In the year that follows, the city does two things. It counts — it has been told the same year happened 1,778 times, so it does the arithmetic on its own dead, and then does it again, and the number stops being a number. Then it reads the names aloud in the squares at the low lamp hour, the way the thousand are read at the Consolihan.
+
 The R.D. is not dismantled. The Echo-Cores are not erased. Majin is not executed or exiled — the city thanks and honors them while inheriting the truths they had monopolized. He remains Director.
 
-> *"The Absolvohan is not a weapon. The Absolvohan is a hand. And a hand does not need to shoot. A hand needs to hold."*
+> **Seiyon:** *"The Absolvohan is not a weapon. The Absolvohan is a hand. And a hand does not need to shoot. A hand needs to hold."*
+
+It is the sentence he carries into the last year, and it is hers.
 
 ### The Memory Archive
 
@@ -326,33 +379,91 @@ Majin does not forget the people who reset. The records describe this as both th
 
 ## Backstory
 
-### Origins
+The Archive's record of what made this man is three documents wearing one coat: his own testimony, the city's chronology, and the Directorate's founding instrument. None of them is whole, and they do not wholly agree. This file states the disagreements rather than smoothing them.
 
-Majin was a researcher, a lover, and an idealist before he became a title. He worked beneath the Alpha Tree on early Han studies and shared both his research and his private life with another scientist. The Reverie Directorate did not yet exist in formal shape — there were no Echo-Cores, no Hand of Change, and no Absolvohan.
+### The Researcher
 
-That life ended during the Consolihan.
+Majin was a Han researcher beneath the Alpha Tree before the Alpha Tree was an authority. In those years there were no Echo-Cores, no Hand of Change and no Absolvohan; there was a city that had built four thousand years of walls against a substance it could not describe, and there were people whose work was to describe it.
+
+He was not a wall-builder. He spent his working life on the question the walls had been built to avoid: what Han **is**. The position he argued — patiently, in reports the Council taxed rather than read — was that the substance is not weather. Weather happens to a place. Han is what a place has *felt*, and a record of feeling can be read, and what can be read can be predicted, and what can be predicted can be met.
+
+The conviction is correct, or near enough that seventeen hundred years of work have not overturned it. It is the origin of everything else in this file, and it is the reason he was standing in the building on the day it happened. He was also, in the way of men who believe a thing can be measured, an idealist.
+
+### Yeon-seo
+
+He shared his research and his private life with another scientist, **Yeon-seo** — filed in the Archive as **THE ORIGINAL**, the woman whose face and memory-pattern the Secretary carries without being her. The designation is not a name and was never meant to be one; it is what an institution writes when it has decided that the person is now a precedent.
+
+The record is careful here and thin, and says so. It establishes that she worked beside him and that he shared with her both his research and his private life — two separate disclosures, from a man who would later file everything under a heading with a due date. It does not describe her character, her work, or the shape of the partnership, because nobody wrote those down while they were still happening, and afterwards the only person who could have written them was the person least able to.
 
 ### The Solidification
 
-The Solidification consumed Majin's lover in the same Han catastrophe that transformed the Alpha Tree. Her final instruction — *"Don't let the sorrow win"* — became the promise around which he organized the rest of his existence.
+The event that took her is called the Solidification: a class of catastrophe in which Han stops behaving as something a city can hold at arm's length and freezes into structure. The founding one, four thousand years earlier, grew the Alpha Tree. **His was not that one.** The same substance, a second freezing, and nobody in the building on the night it happened had any word for it but the old word.
 
-He interpreted it as a duty to defeat sorrow: contain it, endure it, accumulate it, and eventually erase it. The final Cycle establishes that the interpretation was incomplete.
+The Memory Archive holds the manner of her death, and holds it plainly: she was the intellectual architect of the original containment systems, and when the breach opened she sealed the core with her own body, **shielding him from terminal psychic dissolution**. The seals were hers. The hand on the override was hers. The city's containment standard dates from the year after, and the man who funded the load test she had been refused four times did it after she was dead.
 
-### The Sovereign-Class Containment
+Her remains were not recovered. The amber would not be cut without opening the seal behind it, so a chamber was built around it at the roots of the Alpha Tree — the first containment unit in Somnarak, and the one order of his that has never been countermanded. The Archive's later Floor 07 rests inside it.
 
-In immediate grief, Majin moved to stop a Sovereign-class Sorrow Entity formed from collective loss and threatening Zone B. Conventional containment had already failed. He used the only Ω-grade M.A.W. ever extracted and sealed the manifestation within himself.
+**How he got out is not in the record** — the first of several silences in this file, all of them in his favour and none of them his doing. What the record does say is that he walked out of a room she did not walk out of, and that he has never once described the walk.
 
-The M.A.W. fused rather than bonded. Majin became the entity's living containment, the sealed sorrow became permanently inseparable from his own, and the fusion prevented the death of the body maintaining the seal. His pulse entered resonance with the Alpha Tree.
+She did not survive. Her last recorded words are the sentence the rest of his life is built on:
 
-### Chosen by the Alpha Tree
+> *"Don't let the sorrow win."*
 
-Majin was not appointed by the Council. The Alpha Tree selected him during the Consolihan, and the Council accepted the choice because challenging it risked the stability of both the Tree and the city.
+### What He Heard
 
-The Tree did not choose him for absence of fear or grief. It chose a person capable of continuing while afraid and grieving. Majin has described this as the first command he was never allowed to refuse.
+Here the file stops being a record of events and becomes a record of one mishearing.
 
-### Formation of the R.D.
+*Don't let the sorrow win* admits two readings. In the first, a dying woman is telling a man who is going to have to live with a loss that the loss does not get to be the final entry — go on, carry it, do not let grief become the whole account. In the second, she is issuing an instruction: sorrow is a party in a contest, and the contest has to be won.
 
-Majin became Echo-Core 1, and the remaining Echo-Cores were organized around him. The other eight could specialize — administration, containment, extraction, research, border watch, archives, intelligence, and the Gate — because he served as the point at which all information and consequence converged. To the Nine he became less a colleague than a ceiling.
+He took the second. He was a researcher; the sentence arrived as a finding, and a finding is not comfort. A finding is a commission. Something had to be established first, and then something had to be finished.
+
+The course he set is recorded in four steps and he held to all four: **contain** it, **endure** it, **accumulate** it, and at the end of the accounting, **erase** it. Every institution he built afterwards is one of those four steps wearing a different coat.
+
+He was not wrong that she had asked him for something. He was wrong about which thing.
+
+### The Sovereign
+
+Grief did not make him withdraw. It made him faster.
+
+A Sovereign-class entity formed from collective loss and threatened to take Zone B entire. Conventional containment had already failed against it. In immediate grief he did what he would do for the next seventeen hundred years: he treated a loss as a problem with a solution, and then made himself the solution.
+
+A M.A.W. — a Materialized Agony Wear — is an entity's sorrow given a shape it can be carried in. Only one Ω-grade has ever been successfully extracted, and it was extracted then. It did not bond. Bonding is an arrangement between a bearer and a weapon; this was a fusion, and it closed. Majin became the entity's living container, and the sealed sorrow became permanently inseparable from his own.
+
+It also ended his ability to die. That is not a reward and not a punishment; it is a design requirement. A container has to stay intact while it is containing. The M.A.W. will not let him die because the M.A.W. needs him alive.
+
+From that day his pulse has read in resonance with the Alpha Tree. The Directorate measures it. The Directorate does not explain it.
+
+### The Indication
+
+He did not apply to be Director. There was no Directorate to apply to.
+
+At the Consolihan — the city's annual mourning — the Alpha Tree indicated him. The indication was not a nomination and was not subject to review. The Council of Sighs accepted it rather than test it, and their own instrument gives their reason: challenging the Tree risked the stability of both the Tree and the city.
+
+The Tree did not select for courage, or for the absence of fear, or for grief. It selected a person capable of continuing while afraid and grieving. He has described the day as *the first command I was never allowed to refuse.* He does not claim to know why the Tree chose him. The Council has never asked.
+
+### The Directorate
+
+He became Echo-Core 1, and the other eight were organized around him: administration, containment, extraction, research, border watch, archives, intelligence and the Gate. The arrangement is efficient and it is not a brotherhood. The eight specialize because he is the point at which every piece of information and every consequence converge, and a point of convergence is not a colleague. To the Nine he became less a man than a ceiling.
+
+Then he did what he had decided in the first year, and did it for seventeen hundred years. The Cycle held. The surplus came out of the working stock. The reserve grew by a weight that could be entered in a ledger. And the instrument that would discharge it was kept where nobody who might object could reach it — because a conclusion he had reached alone was the only kind he trusted.
+
+It had a price, and the price was paid by other people. Seiyon's record of the final iteration holds three hours in which the Veil generators in Zone D failed, twelve citizens were exposed to raw Han and two Fractured — and holds that the surplus went to the reserve, and that the two Fractures did not appear in the command summary. That is the shape of the whole era. Not a decision to hurt anyone. A decision about where the numbers went.
+
+### Where the Record Is Unsettled
+
+**The word.** *Consolihan* names two different things in this city: the war of Years 234–245, and the annual mourning rite established in the year the thousand were lost. This file uses it only for the rite.
+
+**The date.** The Solidification that took Yeon-seo is undated. The city's chronology places a Solidification at the end of that war; this record places his loss inside his own lifetime, and he is 126 during the final Cycle. The two are not reconciled here and the gap is recorded rather than closed. No account in the Archive states a year, and this file will not supply one.
+
+**The order.** The Directorate's own chronicle places the Tree's indication first and the fusion after it. This file has given the fusion first, following his testimony. Both readings are filed against him and neither is corrected here.
+
+### What It Made of Him
+
+Everything in his manner of working is one of those four steps wearing a different coat.
+
+He asks for the report before the explanation because a report can be acted on and an explanation cannot. He says *Noted* because a thing that has been registered does not require the room to stop for it — and because the one time the room did stop, he was the one who kept moving. He does not sleep, and he does not put anything down; the man who was told not to let sorrow win has spent seventeen hundred years making certain that nothing reaches the end of the account unwritten.
+
+The record notes, without comment, that the halls of Floor 1 are warm and the Director's office is always cold.
 
 ---
 
@@ -577,7 +688,7 @@ The Hand of Hope does not resolve either layer by treating the actions as harmle
 
 ### Final Entry
 
-> *"The planet has four corners. One is our city. One is the wild. One burns. One is silent. And we — we are the ones who chose to feel. Whether that is a blessing or a curse, I cannot say. But I can say this: it is ours. And we will carry it — together — into whatever comes next."*
+> *"The planet has four corners. One is our city. One is the wild. One burns. One is silent. And we — we are the ones who chose to feel. Whether that is a blessing or a curse, I cannot say. But I can say this: it is ours. And we will carry it — together — into whatever comes next."*  
 > — Director Majin, final entry, Year 4,238
 
 ---

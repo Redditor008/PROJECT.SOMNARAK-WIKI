@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Weighted Silence's Edge
 
-> *“Weighted Silence's Edge remembers Weighted Silence; the bearer must not mistake memory for permission.”*
+> *"The wielder loses the ability to hear the silence the piece works in, and keeps talking into it to check that something is there."*
 
 ---
 
@@ -16,46 +16,39 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Void  
-**Canonical ability:** Channels void void sorrow in each strike — the weapon does not cut flesh so much as cut at the void register of the target's grief.   <!-- SE-924 -->
-**Binding rule:** the bearer names Weighted Silence's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Unwritten* — the strike removes the struck body's written trace before it removes anything else: what they had set down that morning is gone, and what the file calls the wound is the absence of the record.
+**Binding rule:** the bearer names Weighted Silence's event — an event the registry has not set down — and accepts this limit: The annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression.
 
 ## Appearance
 
-Weighted Silence's Edge is the weapon record of the Weighted Silence set — γ-grade, Void-aligned, striking at 14–20 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void sorrow in its purest register: the blade cuts at absence itself, the pause in a room that everyone hears and no one names. Binding names Weighted Silence's event — Not recorded, a quiet whose cause was swallowed by the quiet — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is emotional numbness toward the Void element with each use, the wielder's own responses going soundless one strike at a time. The source-trace fixed doctrine: the hazard gave no transcribable field response, and the Edge isolates the hazard only after attribution to Weighted Silence. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Weighted Silence's Edge is the weapon record of the Weighted Silence set — γ-grade, Void-aligned, striking at 14–20 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability is *Unwritten*: the strike removes the struck body's written trace before it removes anything else: what they had set down that morning is gone, and what the file calls the wound is the absence of the record. Binding names Weighted Silence’s event — Not recorded — and accepts the limit the record sets: the annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression. The wielder stops being able to hear the silence the piece is working in, and keeps talking into it to check that something is there. Continued use leaves the wielder talking into rooms that have already answered, and the transcript marked as the wielder’s. The slates came out blank and the relay came out silent; the set’s own record is the first thing the radius takes, so the piece is issued to the survey that measures it. A piece carried inside the radius loses its own written record first. Four have been returned with blank labels and matching survey figures, which is how the armoury learned to number them on the outside.
 
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Void 14–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Void 14–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 3 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences emotional numbness toward the source entity's element with each use. Continued use makes Weighted Silence's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
+**Operational / binding cost:** The wielder stops being able to hear the silence the piece is working in, and keeps talking into it to check that something is there. Continued use leaves the wielder talking into rooms that have already answered, and the transcript marked as the wielder’s.
 
 ## ITEM-SPECIFIC HISTORY — *The Weighted Silence Source-Trace: Weapon Record*
 
-The first Weighted Silence's Edge field bearer encountered this source response: N/A The weapon isolates the immediate hazard only after the team attributed it to Weighted Silence. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Weighted Silence's Edge field bearer encountered no direct source response. The weapon isolates the immediate hazard only after the team attributed it to Weighted Silence. A wielder kept talking into a room that had already answered and did not notice the answer, and the Edge’s binding is the transcript with both sides in it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Weighted Silence's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the talking continues into corridors with somebody in them, and the wielder repeats the check to whoever is listening.
 - Terminal state: Weighted Silence's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-924 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Weighted Silence's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Weighted Silence's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Weighted Silence — Witnessed Form*, Weighted Silence's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-924-B`  
-**Linked Entity:** `SE-924`  
-**Item Registry Code:** `MAW-W-924-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Weighted Silence — Witnessed Form*, Weighted Silence's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown after the answer, not before it.

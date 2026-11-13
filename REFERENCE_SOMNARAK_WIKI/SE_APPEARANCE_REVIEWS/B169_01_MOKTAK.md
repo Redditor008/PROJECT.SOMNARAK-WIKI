@@ -80,8 +80,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-C__MAW-S_Moktak_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-D__MAW-G_Moktak_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
   ],
   "reasoning": "Complete343-line original/exact910A–D read. Place-Spirit is maintained architecture and dusk occupants, InnerWeight from one household seating dispute; not Organic donor anatomy. Whole chain: carvings visible through occupants, fixed floor/sequence versus corridor seating expansion, dusk Work, named-worker attacks versus unresponsive conversation, nonentry policy versus attendance, after-hour extraction/gear. Predeclared R18:0 batch-short/9 careful-detail; qualify architecture/expansion/Moderate role, sitting/rising phrasing, unsupported physical-suppression instruction, garbled Tale opener, concrete witnessed profile and two exact bearer-cost notes.",
@@ -104,8 +104,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-C__MAW-S_Moktak_s_Veil.md": "e0984b6844e8c49f52af5529fe45b5a86f663f69fc610c3e199bdbc386603f5a",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-D__MAW-G_Moktak_s_Token.md": "c3415b7646874e2364d11deacabb91ee476bb03131d395425327948997cd6426",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
   },
   "checks": {

@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Void |
 | Form | A massive Weight Han-crystal slab with no handle, lock, or hinges, found already sealed beneath the Alpha Tree. |
-| Gauge / Pressure | 60–80% / Void 29–64 |
+| Gauge / Pressure | 000/420; starts 000% / Void — no attack pattern; the inner-face temperature is the reading and a flat gauge is correct |
 | Observation | 3 — Advanced |
 | M.A.W. Set | The Closed Threshold |
 
@@ -44,12 +44,12 @@ Sorrow Gate is bloodless-cold outside and warm within. It smells of ash and whis
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Emotional appeal does not amend the seal. |
-| Pugnahan | Not valid; force risks opening. | N/A | Never strike, drill, pry, or frame the slab. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Emotional appeal does not amend the seal. |
+| Pugnahan | Not valid; force risks opening. | Negative-Low | Never strike, drill, pry, or frame the slab. |
 | Viderehan | Whispers reveal fragments of buried truth. | Stable | Record duration and effect; content remains quarantined. |
 | Ferrehan | Remains silent while testing patience. | Stable | End the session without demanding revelation. |
 
-**Resolution:** Maintain the management condition and keep Gauge below 25%; operational doctrine remains **do not open**.  
+**Resolution:** Maintain the management condition, destroy and log the session's interpretive material under witness, and leave the gauge where the vault set it; operational doctrine remains **do not open**.  
 **Activation:** Touch or sustained listening may produce a thirteen-second buried truth and destabilize listener or city.  
 **Escalation:** Forced contact allows Void to reach through a crack; a full opening is treated as catastrophic.
 
@@ -99,13 +99,3 @@ The two registered manufactured forms derive from residue left by a historical u
 **Primary source:** `SE-C-IVδ-252_Sorrow_Gate_슬픔의_문.md`
 
 **Restricted note:** M.A.W. existence is not evidence that extraction was safe, authorized, or repeatable.
-
----
-
-**Document ID:** `SE-252-A`  
-**Linked Entity:** `SE-252`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Tide Mantle
 
-> *“The Tide Mantle remembers The Sorrow Tide; the bearer must not mistake memory for permission.”*
+> *"The tide comes through in measured amounts, and each hour costs the wearer a little of their standing."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Sorrow Tide's kind of pressure.  
-**Binding rule:** the bearer names The Sorrow Tide's event—Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.—and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
+**Binding rule:** the bearer names The Sorrow Tide's event — “Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.” — and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
+
+
+### Appearance
+
+A draped mantle that hangs lower after sunset and is measured at both ends of the day by a hook on the Armoury wall.
 
 ## CORE STATISTICS
 
@@ -25,16 +30,20 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes The Sorrow Tide's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Suit Record*
+**Operational / binding cost:** The Mantle lets the tide through in measured amounts: worn, each hour costs the wearer a little of their standing. Worn long, they live permanently at the waterline.
 
-The first The Tide Mantle field bearer encountered this source response: Personnel endure the wave until dawn. The suit stabilizes the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+## ITEM-SPECIFIC HISTORY — *The Sorrow Tide Source-Trace: Suit Record*
+
+The first bearer of The Tide Mantle encountered this source response: Personnel endure the wave until dawn. The suit stabilizes the immediate hazard only after the team attributed it to The Sorrow Tide. A wearer lived permanently at the waterline and had not stood dry in a season, and the Mantle’s binding is the post card from that year.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Sorrow Tide's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the tide is let through before the hour is spent, and the wearer’s standing is gone by the relief bell.
 - Terminal state: The Sorrow Tide's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Impossible; use Tide shelters and shared mourning protocols” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +52,4 @@ The first The Tide Mantle field bearer encountered this source response: Personn
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Tide — Witnessed Form*, The Tide Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1027-C`  
-**Linked Entity:** `SE-1027`  
-**Item Registry Code:** `MAW-S-1027-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *The Sorrow Tide — Witnessed Form*, The Tide Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer stands dry for one hour a watch; the first watch entirely at the line, the Mantle is out.

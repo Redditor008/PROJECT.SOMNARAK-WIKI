@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IIβ-152 [LS]`  
 **Author:** The Outsider Ishall  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Alpha Tree threshold-return protocol
 
@@ -61,10 +61,10 @@ The Door walks without a wall. Its flames do not burn skin first; they burn the 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Opens onto a gentle memory of home. | Down | Receive the memory without calling it a promised destination. |
-| Pugnahan | Burns and refuses to open. | Up | Do not demand proof that return is possible. |
+| Flerehan | Opens onto a gentle memory of home. | Decrease | Receive the memory without calling it a promised destination. |
+| Pugnahan | Burns and refuses to open. | Increase | Do not demand proof that return is possible. |
 | Viderehan | Shows the history of the threshold. | Stable | Record departure and present location separately. |
-| Ferrehan | Holds an empty room open. | Down | Maintain a physical return partner outside the image. |
+| Ferrehan | Holds an empty room open. | Decrease | Maintain a physical return partner outside the image. |
 
 ### Corrupt response
 
@@ -85,7 +85,7 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Wayfarer's Censer | β | Lament | Interrupts grief pressure at a false return threshold | `SE-152-B__MAW-W_The_Wandering_Requiem.md` |
+| Weapon | The Wayfarer's Censer | β | Lament | Interrupts grief pressure at a false return threshold | `SE-152-B__MAW-W_The_Wayfarer_s_Censer.md` |
 | Suit | The Wandering Shroud | β | Lament | Protects a bearer while passing between remembered and current space | `SE-152-C__MAW-S_The_Wandering_Shroud.md` |
 | Stigma | The Wandering Key | β | Lament | Opens a temporary passage to a remembered place | `SE-152-D__MAW-G_The_Wandering_Key.md` |
 
@@ -105,7 +105,7 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 
 **Quick effect:** A single-target Lament effect interrupts a threshold memory trying to replace the target’s current room; it does not restore the lost home or turn the memory into a route back.
 
-**Weapon-title review (2026-10-11):** `N-IIβ-152`’s primary M.A.W. block and spherical brass incense-burner Appearance, current `SE-152-B` heading/Appearance, Master Registry, Master Codex table row 469, `MAW-W-152` RELIQUARY archetype, and same-code title/Appearance revision `3abe5470` support *The Wayfarer's Censer*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 469, still identify *The Wandering Requiem*; its forms describe a slender blue blade and threshold line. No Requiem-to-censer transition or second form is documented. The archetype’s Medium band differs from Range 2 (Short) in the primary, linked-item, and Side cards; the Master Registry leaves reach unset, and no crosswalk resolves the difference, so leave the profile unchanged. The old item filename remains only as the link. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `N-IIβ-152`’s primary M.A.W. block and spherical brass incense-burner Appearance, current `SE-152-B` heading/Appearance, Master Registry, Master Codex table row 469, `MAW-W-152` RELIQUARY archetype, and same-code title/Appearance current revision support *The Wayfarer's Censer*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 469, still identify *The Wandering Requiem*; its forms describe a slender blue blade and threshold line. No Requiem-to-censer transition or second form is documented. The archetype’s Medium band differs from Range 2 (Short) in the primary, linked-item, and Side cards; the Master Registry leaves reach unset, and no crosswalk resolves the difference, so leave the profile unchanged. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
@@ -170,13 +170,3 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 **Entity links:** The Final Door; The Returning Tree; The Lost Prince.  
 **Boundary distinction:** The Wandering Key opens memory passage only; it does not grant Gate authority or permanent transport.  
 **Item links:** `SE-152-B`, `SE-152-C`, and `SE-152-D` contain individual anchor, closure, and cost records for Carried Threshold.
-
----
-
-**Document ID:** `SE-152-A`  
-**Linked Entity:** `SE-152`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

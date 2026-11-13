@@ -4,7 +4,8 @@
 **Raised:** 2026-10-04, by the archive owner
 **Binds:** Workstream 6 (template residue)
 **Interacts with:** `R-14` (what boilerplate is), `R-15` (clean fix, not cover-up),
-`R-09` (verify borrowed mechanics against source pages), `R-20` (one fixed denominator)
+`R-09` (verify borrowed mechanics against source pages), `R-20` (one fixed denominator),
+`R-41` (the barred cells are words, not percentages)
 
 ---
 
@@ -31,9 +32,11 @@ In a finished dossier:
   supposed to match; that is what makes the archive readable.
 - A **value** may not be identical to another entity's value unless the value is *fully
   determined by a declared classification field*. `| **Potency modifier** | γ — affects pressure,
-  durability, and escalation severity |` is determined by the code. `| **Flerehan** | N/A —
-  Object/Place entities do not respond to Flerehan. |` is determined by the entity's role.
-  Those are allowed, and `tpl.py` sanctions them by name.
+  durability, and escalation severity |` is determined by the code. `| **Flerehan** | **Net-Neutral**
+  — Object/Place entities do not respond to Flerehan. |` is determined by the entity's role, and
+  the word inside it is set by the Threat Score (§`R-41`): a barred cell prints **Net-Neutral** or
+  **Negative-Low**, never `N/A`, `0%` or `-100%`. Those are allowed, and `tpl.py` sanctions them by
+  name.
 - **Everything else that repeats is a defect**, including — and especially — a value that
   repeats because nobody ever wrote the real one.
 

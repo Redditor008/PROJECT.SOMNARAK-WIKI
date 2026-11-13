@@ -37,10 +37,10 @@ Direct gaze shows a viewer’s sorrow without usual defense. The mirror can give
 
 | Work Type | Response | Gauge |
 |---|---|---|
-| Flerehan | Invalid | N/A |
-| Pugnahan | Invalid | N/A |
+| Flerehan | Invalid | Negative-Low |
+| Pugnahan | Invalid | Negative-Low |
 | Viderehan | Shows sorrow behind defenses. | Stable |
-| Ferrehan | Holds the viewer with reflected grief. | Down |
+| Ferrehan | Holds the viewer with reflected grief. | Decrease |
 
 **Rule:** Use a companion witness. Seeing a sorrow’s shape is not permission to declare it solved or to force sharing.
 
@@ -88,13 +88,3 @@ The mirror proves private grief has a shape; it does not prove the grief should 
 
 **Related material:** Redacted, Remembrance, consented companion-reflection protocol.  
 **Item links:** `SE-195-B`, `SE-195-C`, `SE-195-D`.
-
----
-
-**Document ID:** `SE-195-A`  
-**Linked Entity:** `SE-195`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

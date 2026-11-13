@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-S-219-01`  
 **Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — two shrouds
 
@@ -27,9 +27,12 @@ Splinter Shroud is a wrapping suit of Lament Han-silk, cool and faintly luminous
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 2 / 45 |
+**Maximum Amount:** 2 — Limited
 
 **Permeable Mourning:** The wrapping lets Lament pass between its layers and leave as moisture rather than accumulating in the wearer’s Mind. Void is dangerous because it removes the meaning that keeps the flow moving.
 
@@ -54,14 +57,3 @@ The Shroud holds the human channel open during *The Crack Was Not the Wound*. Re
 **Maintenance:** Unwrap every layer over open grating in the Alpha Tree vault and let each dry at a different rate. The last wearer names one minor pleasure without being required to feel it. Do not heat, wring, or press the fabric.
 
 **Shutdown/removal:** A partner loosens the outermost wet fold and follows the runoff path inward. Cutting straight through the layers traps the current against the wearer.
-
----
-
-**Document ID:** `SE-219-C`  
-**Linked Entity:** `SE-219`  
-**Item Registry Code:** `MAW-S-219-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

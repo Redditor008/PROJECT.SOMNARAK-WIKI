@@ -22,12 +22,13 @@
 | **Grade** | γ — Major |
 | **Element** | Void |
 | **Slot** | Head |
+| **Maximum Amount** | 3 — Standard |
 | **Acquisition Probability** | 4% |
 | **Stat Effect** | +2 when working the Memory Weaver source record |
 
 ### Appearance
 
-The Forgotten Mask is a small pale-glass charm shaped like a face with no features except two shallow hollows where eyes would be. It is small enough to be held in one hand or carried on a chest strap, and its glass is cold, smooth, and faintly reflective. When held to the face it reflects the last person who sincerely remembered the bearer; the reflection is not the bearer's own face but a soft image of that person's certainty, and it fades as soon as it is named aloud. The two hollows never look directly back, yet they catch light from the direction of whoever is speaking. The mask feeds on the memories it prevents from being taken, so the glass grows slightly darker with each memory it absorbs. Around Archive staff, a weekly life log is required for every active Mask. In storage the mask is kept face down on a pale cloth, and the two hollows dim whenever a name is written into the life log beside it.
+A face with nothing on it but two shallow hollows where eyes would go: the Forgotten Mask, pressed in pale glass. It is small enough to be held in one hand or carried on a chest strap, and its glass is cold, smooth, and faintly reflective. When held to the face it reflects the last person who sincerely remembered the bearer; the reflection is not the bearer's own face but a soft image of that person's certainty, and it fades as soon as it is named aloud. The two hollows never look directly back, yet they catch light from the direction of whoever is speaking. The mask feeds on the memories it prevents from being taken, so the glass grows slightly darker with each memory it absorbs. Around Archive staff, a weekly life log is required for every active Mask. In storage the mask is kept face down on a pale cloth, and the two hollows dim whenever a name is written into the life log beside it.
 
 ---
 
@@ -54,14 +55,3 @@ One Mask was issued to an infiltrator entering a Collector archive. The Mask rem
 ## SET RESONANCE
 
 With Lens and Veil, Forget the Hook can protect a full team from one Weaver memory sweep. Afterward, each member must complete a written identity check before separation.
-
----
-
-**Document ID:** `SE-009-D`  
-**Linked Entity:** `SE-009`  
-**Item Registry Code:** `MAW-G-009-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

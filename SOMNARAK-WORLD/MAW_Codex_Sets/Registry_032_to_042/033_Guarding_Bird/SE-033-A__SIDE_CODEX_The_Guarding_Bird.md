@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-033 [VS]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Three Birds containment
 
@@ -86,13 +86,3 @@ The Bird does not need a new object to protect. It needs permission to stop guar
 
 ### Observation 4 — Pending
 Mastery requires the protection to pass safely from one person to another.
-
----
-
-**Document ID:** `SE-033-A`  
-**Related Entity:** `SE-033`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

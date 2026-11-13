@@ -1,4 +1,4 @@
-"# The Absolvohan — Part 8 — Batch 7: Days 149–177
+# The Absolvohan — Part 8 — Batch 7: Days 149–177
 
 ## Batch 7 — Days 149–177: The Critical Threshold & The Day 160 Transmutation
 
@@ -3197,9 +3197,9 @@ Xyan places his weathered hand on Majin's shoulder: *"We walked a long road, bro
 
 Majin looks up at the stars, bright and clear through the unpolluted sky: *"A long road, Xyan. But we are finally home."*
 
-Seiyon records the final log entry of Batch 7: 
+Seiyon records the final log entry of Batch 7:
 
-*Cycle 1,778: Complete.* 
+*Cycle 1,778: Complete.*
 *The Absolvohan: Discharged.*
 *The World: Begun.*
 

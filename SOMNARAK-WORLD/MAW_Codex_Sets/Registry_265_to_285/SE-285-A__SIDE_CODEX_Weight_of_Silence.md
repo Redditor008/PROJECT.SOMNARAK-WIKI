@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / α — Minor |
 | Element | Weight |
 | Form | An invisible pressure visible as a dark outline bleeding from people who have stopped speaking about a shared event. |
-| Gauge / Pressure | 25–40% / Weight 3–10 |
+| Gauge / Pressure | 000% / Weight 3–10 |
 | Movement | Drifts at approximately 1.30 m/s through affected groups |
 | Observation | 1 — Initial |
 | M.A.W. Set | The Unforced Word |
@@ -45,10 +45,10 @@ The entity is lead-cold and wet-stone scented. It attaches to groups whose silen
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Tears accompanying speech ease pressure. | Down | Voluntary words only. |
-| Pugnahan | Weight presses harder on the chest. | Up | Never demand confession. |
+| Flerehan | Tears accompanying speech ease pressure. | Decrease | Voluntary words only. |
+| Pugnahan | Weight presses harder on the chest. | Increase | Never demand confession. |
 | Viderehan | Reveals withheld words. | Stable | Do not read private content aloud. |
-| Ferrehan | Tests remaining under silence. | Down | Make room for speech or continued silence. |
+| Ferrehan | Tests remaining under silence. | Decrease | Make room for speech or continued silence. |
 
 **Resolution:** Allow safe speech; do not force a confession.  
 **Breach:** At 45% Gauge the pressure spreads, silence becomes a physical mountain, and forced release turns words into Black impact.  
@@ -100,13 +100,3 @@ An echo forms after one affected person speaks voluntarily—or chooses not to�
 **Primary source:** `SE-N-IIα-285_Weight_of_Silence_침묵의_무게.md`
 
 **Restricted note:** Viderehan access to withheld words is not permission to disclose them.
-
----
-
-**Document ID:** `SE-285-A`  
-**Linked Entity:** `SE-285`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

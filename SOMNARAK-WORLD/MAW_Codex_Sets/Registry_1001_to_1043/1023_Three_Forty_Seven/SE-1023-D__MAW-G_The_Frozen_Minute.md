@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Frozen Minute
 
-> *“The Frozen Minute remembers Three Forty-Seven; the bearer must not mistake memory for permission.”*
+> *"Each minute takes a fraction of what the bearer has left, and the fraction is written nowhere they can read it."*
 
 ---
 
@@ -17,23 +17,29 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Slows perception for one brief interval.  
-**Binding rule:** the bearer names Three Forty-Seven's event—An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.—and accepts this limit: Accept that the moment cannot be changed; limit exposure
+**Binding rule:** the bearer names Three Forty-Seven's event — “An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.” — and accepts this limit: Accept that the moment cannot be changed; limit exposure
+
+
+### Appearance
+
+A minute-token of Weight Han-steel, matte and lead-heavy, that turns cold as it nears the holding and lives in the bench's materials drawer rather than the timepiece ledger, at the bench's own written request.
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The user loses an equivalent portion of lifespan. Continued use makes Three Forty-Seven's source sorrow feel autobiographical.
+**Operational / binding cost:** The user loses an equivalent portion of lifespan, paid in advance: each minute takes a fraction of what the bearer has left, and the fraction is written nowhere they can read it.
 
-## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Three Forty-Seven Source-Trace: Stigma Record*
 
-The first The Frozen Minute field bearer encountered this source response: Shows the event frozen at 3:47. The stigma witnesses the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Minute encountered this source response: Shows the event frozen at 3:47. The stigma witnesses the immediate hazard only after the team attributed it to Three Forty-Seven. A user paid a fraction out of what they had left and could not find it written anywhere, and the Minute’s binding is the intake form with the figure missing.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Three Forty-Seven's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the fraction is taken before the minute is used, and the price rises with nothing spent to account for it.
 - Terminal state: Three Forty-Seven's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Accept that the moment cannot be changed; limit exposure” reverses the item’s benefit and raises the source Gauge.  
@@ -42,15 +48,4 @@ The first The Frozen Minute field bearer encountered this source response: Shows
 
 ## SET RELATIONSHIP
 
-Within *Three Forty-Seven — Witnessed Form*, The Frozen Minute performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1023-D`  
-**Linked Entity:** `SE-1023`  
-**Item Registry Code:** `MAW-G-1023-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Three Forty-Seven — Witnessed Form*, The Frozen Minute performs the stigma role while the other pieces preserve attribution and survival. The Minute drops out of the set on a use whose cost the bearer can read.

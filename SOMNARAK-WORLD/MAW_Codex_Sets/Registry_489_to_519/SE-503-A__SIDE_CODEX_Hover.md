@@ -20,7 +20,7 @@ A pale floating crystal shard contains a ghostly outline formed from a Forge wor
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element | Lament |
-| Gauge / Pressure | 60–80% / 25–54 |
+| Gauge / Pressure | 000% / 25–54 |
 | Observation | 2 |
 | Set | The Limited Witness |
 
@@ -43,13 +43,3 @@ The source is δ, but its canonical M.A.W. profiles are α and remain so. Echoes
 Lantern reveals one injury, Shroud keeps the witness functional, and Requiem clears one feasible obstruction. The set requires honest limits and one real action. Promising total rescue or using limits to dismiss pain makes the shards converge on the witness.
 
 **Source:** `SE-C-IVδ-503_Floating_Shard_떠다니는_조각.md`
-
----
-
-**Document ID:** `SE-503-A`  
-**Linked Entity:** `SE-503`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

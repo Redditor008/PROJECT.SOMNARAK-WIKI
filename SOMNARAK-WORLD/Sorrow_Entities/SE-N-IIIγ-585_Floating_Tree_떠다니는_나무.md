@@ -12,8 +12,8 @@
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
-| **Manifestation** | Place-Weight |
-| **Physical Form** | Mixed — A tree-beast drifting root-first through the air, hanging roots lashing like tentacles — a floating creature of pale wood shedding broken memories. Salt-damp, it smells of cold rain. |
+| **Manifestation** | Subject-Lament |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — carried root-first on Han currents, with hanging roots sweeping beneath it; ordinary travel is drift, not walking or pursuit. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the breach** — Its track follows the Outside Sorrow currents almost exactly. The departures are circled on the sheet and there are nine of them in forty years. |
+| **Work Damage** | 2–4 Lament — the cost is working four to nine metres beneath a whole root mass |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -41,7 +43,7 @@
 - It hangs four to nine metres above the Desolate with its root mass whole and not one root in contact with the soil.
 - A cycle brings it down a little for a shift. It goes back up. No session in the record has put a root on the ground.
 - Viderehan and Ferrehan, both from the ground, both inside the shadow, both with the edge pegged first.
-- No breach counter. Clearance beneath the root mass is taken fresh every session; a figure carried over from the previous session has twice been wrong by more than a man's height.
+- No breach counter. Clearance beneath the root mass is taken fresh every session. A figure carried over from the previous session has twice been wrong by more than a man's height.
 - Residue is lifted from under the root mass on separate authority. Fallen leaves are not residue and are not to be lifted with it.
 
 ## Combat Record
@@ -88,13 +90,13 @@
 
 1. **Tension:** Identification first — a pale tree drifting root-first, 4 to 9 metres up, roots hanging and sweeping without contact, foliage of broken memory, and a shadow on the ground beneath it that stays a while after it has gone. The route is marked from the log rather than from the ground, and the positions are taken beneath the shadow line before anything else is attempted.
 2. **Clash:** Work is conducted from the ground, inside the shadow, with the Tree overhead and the shadow's edge pegged before anybody steps in. Nobody works it from a height and nobody works it from the current side.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark its route; do not attempt to anchor it physically**. The condition is met when the route log carries the day's marks, the shadow line has been re-pegged where it moved, and nothing has been driven into the ground to hold the tree; a cycle that ends with an anchor set is filed as the holding having been provoked.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark its route; do not attempt to anchor it physically**. The condition is met when the route log carries the day's marks, the shadow line has been re-pegged where it moved. And nothing has been driven into the ground to hold the tree. A cycle that ends with an anchor set is filed as the holding having been provoked.
 
 ### Consequences
 
 - A failed resist at the tree costs the worker twice over: the gauge rises, and the **Clarity** they were working from tears in the same minute — both entries go on one line.
 - Weight keeps no schedule. Crews held past the recommended cycle report the ground feeling farther away each hour, then find that their written accounts have stopped agreeing with one another.
-- A M.A.W. brought under the branches carries its price back up the tether with it; the equipment file records the extraction and adds nothing that would make it cheaper.
+- A M.A.W. brought under the branches carries its price back up the tether with it. The equipment file records the extraction and adds nothing that would make it cheaper.
 - An unfinished encounter leaves the tree where it was and the district beneath it heavier: the load is never discharged, only handed to whoever comes next.
 
 
@@ -106,7 +108,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Weight
+- **Manifestation:** Subject-Lament
 - **Primary marker:** The roots. Whole, healthy, fully grown, and hanging in air — the file's standing note is that nothing else in the Desolate looks so much like it ought to be planted.
 - **Position / movement:** Drifts root-first on the Han currents, four to nine metres up, roots trailing and never once touching the Desolate. Ordinary travel is not self-propelled. The Returning Tree pairing records station-keeping against the current; that exception is not ordinary pursuit or an anchoring method.
 - **Element signature:** Lament
@@ -146,15 +148,15 @@ Keep equipment roots separate from the tree's roots. The individual Floating Roo
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Barred. Tears require somebody to be addressed and this grief has no single holder; three attempts produced no response of any kind and the bar was entered after the third. | No movement |
-| **Pugnahan** (Confrontation) | Barred. Confrontation drives it up out of reach and onto the current, which has twice carried it over inhabited ground. The bar is operational, not doctrinal. | Increase |
-| **Viderehan** | Faces, doorways, a bread oven, a name being called across a yard — fragments of Thornmere, never in sequence. Gauge holds. | Stable |
-| **Ferrehan** | Standing the interval under a shelter that is not attached to anything. Wardens describe it as waiting under a roof that is only passing. | Decrease |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Tears require somebody to be addressed and this grief has no single holder. Three attempts produced no response of any kind and the bar was entered after the third. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Confrontation drives it up out of reach and onto the current, which has twice carried it over inhabited ground, and the reach is extended along the bearing the attempt is applied from. The bar is operational, not doctrinal. | Negative-Low |
+| **Viderehan** | Faces, doorways, a bread oven, a name being called across a yard — fragments of Thornmere, never in sequence. Gauge holds. | Stable · Common |
+| **Ferrehan** | Standing the interval under a shelter that is not attached to anything. Wardens describe it as waiting under a roof that is only passing. | Decrease · High |
 
 
 ### Operational Work Notes
 
-A stable gauge is not a safe encounter, and on this holding the gauge is calm most of the time the tree is simply drifting. Work Types are cross-referenced with the breach threshold and the M.A.W. cost before assignment: Floating Tree is a Subject with a Place-Weight manifestation and Lament elemental expression, tracked over The Desolate near The Scar. It carries fragments of broken lives, it moves with the Han currents rather than of its own will, and it leaves a shadow on the ground that stays after the tree has gone — which is why what is managed is a route and not a position. Observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
+A stable gauge is not a safe encounter, and on this holding the gauge is calm most of the time the tree is simply drifting. Work Types are cross-referenced with the breach threshold and the M.A.W. cost before assignment: Floating Tree is a Subject with a Place-Weight manifestation and Lament elemental expression, tracked over The Desolate near The Scar. It carries fragments of broken lives, it moves with the Han currents rather than of its own will. And it leaves a shadow on the ground that stays after the tree has gone — which is why what is managed is a route and not a position. Observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
 
 **Reading the response:** A falling gauge lightens the surface pressure and leaves the deep structure of the grief untouched — stabilisation, not healing. A climbing gauge means the approach has found the nerve of the origin, and the procedure should be pulled back before it feeds what the tree was made of. The route log is read beside the gauge: a mark that repeats is the holding behaving, and a mark that moves against the current is the event.
 ## Expansion Behavior
@@ -170,9 +172,9 @@ A stable gauge is not a safe encounter, and on this holding the gauge is calm mo
 
 ### Escalation Notes
 
-The escalation pattern is specific to Floating Tree: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at The Desolate, near The Scar, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Floating Tree: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at The Desolate, near The Scar, environmental readings alone are insufficient. Emotional and behavioral changes must be recorded beside physical measurements.
 
-**Response sequence:** clear the ground under the shadow first, since everything this holding does happens downward; plot the current; confirm whether the shadow has grown or the Tree has merely dropped; and do not attempt to anchor it under any circumstances.
+**Response sequence:** clear the ground under the shadow first, since everything this holding does happens downward. Plot the current; confirm whether the shadow has grown or the Tree has merely dropped. And do not attempt to anchor it under any circumstances.
 
 
 ### Detailed Activation Record
@@ -180,7 +182,7 @@ The escalation pattern is specific to Floating Tree: it is not a generic breach 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | A new dispersal in the catchment. |
-| **Manifestation** | Place-Weight |
+| **Manifestation** | Subject-Lament |
 | **Primary effect** | Rootlessness inside the shadow; the effect ends at the shadow's edge, which is why the edge is pegged. |
 | **Duration / rate** | Continuous while the shadow covers you. Growth is seasonal and one-directional. |
 | **Risk** | Major (γ) Subject producing Lament pressure. Breach brings it down onto the floor and roots it through personnel in place. |
@@ -189,8 +191,7 @@ The escalation pattern is specific to Floating Tree: it is not a generic breach 
 **Activation reporting order:** shadow edge pegged → shadow area computed → height estimate stated as an estimate → current bearing → fragments fallen since the last session. The area is the figure that matters and the only one the file trends.
 ## Breach Behavior
 
-> *"Floating Tree has broken free. Extends roots through the floor, entangling personnel."*
-
+> *"Floating Tree has broken free and is under way. Stay out from under the crown — it takes whoever is directly beneath it, and it prefers personnel who have been resettled themselves."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -214,7 +215,7 @@ The escalation pattern is specific to Floating Tree: it is not a generic breach 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-Appearance : An eight-foot thrusting pike carved from deep ironwood, bound with living green creeper vines that tighten around the bearer's forearm, ending in a broad four-edged leaf pike.
+**Appearance:** An eight-foot thrusting pike carved from deep ironwood, bound with living green creeper vines that tighten around the bearer's forearm, ending in a broad four-edged leaf pike.
 
 The living vines absorb emotional recoil, anchoring the wielder against heavy impacts. Thrusting forward causes the tip to extend three inches on fibrous muscular tendrils, penetrating deep defenses.
 
@@ -228,7 +229,7 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 **Ability:** Reveals emotional ties to a place.
 
-**Cost:** The wielder feels every place they can no longer return to.
+**Bearer cost:** The wielder feels every place they can no longer return to.
 
 **Route weapon care:** In the individual record, soil or foundation contact produces momentary stability followed by invasive memory-roots. Keep its recorded recovery distinct from anchoring the Tree: companions lift collectively and name present relationships, not destinations. Maintenance suspends the piece from three moving cords while markers pass beneath without contact; pale dust is brushed toward the grip. Emergency shutdown has Yeonhwa fold the active route map while three named companions lift. Others take the directionless wielder across the final marker.
 
@@ -236,7 +237,7 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a Lament Han-silk shroud, cool to the hand and faintly luminous, cut long and worn loose so that it trails; on a holding whose whole figure hangs, the drape is what the wardens read from below before the tree itself resolves.
+**Appearance:** a Lament Han-silk shroud, cool to the hand and faintly luminous, cut long and worn loose so that it trails. On a holding whose whole figure hangs, the drape is what the wardens read from below before the tree itself resolves.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -248,9 +249,9 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 **Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — against this tree's particular pressure: what it sheds is not fear and not grief exactly, but the pull of places a person can no longer go back to.
 
-**Cost:** Minor joys dull in the wearer. The onset is silent and the wearer is the last to catch it, so the second worker checks at the return of the piece against the written sheet.
+**Bearer cost:** Minor joys dull in the wearer. The onset is silent and the wearer is the last to catch it, so the second worker checks at the return of the piece against the written sheet.
 
-**Moving canopy limit:** The Shroud’s individual entry records isolation after fixed use beyond one work cycle. Move the next marker and name three people outside the canopy; a descending hem and resentment of the final marker are warnings, not evidence of a settled home. Forced removal mid-route can destroy mutual recognition, requiring the shoulders to be rewrapped and the crossing completed together. Shutdown raises all hems simultaneously and moves the marker beyond the wearer. Cutting the cloth is forbidden because its record gives permanent Lament exposure as the result.
+**Moving canopy limit:** The Shroud’s individual entry records isolation after fixed use beyond one work cycle. Move the next marker and name three people outside the canopy. A descending hem and resentment of the final marker are warnings, not evidence of a settled home. Forced removal mid-route can destroy mutual recognition, requiring the shoulders to be rewrapped and the crossing completed together. Shutdown raises all hems simultaneously and moves the marker beyond the wearer. Cutting the cloth is forbidden because its record gives permanent Lament exposure as the result.
 
 ### M.A.W. Stigma — The Floating Charm
 
@@ -264,7 +265,7 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 **Ability:** Grants a minor boon tied to Floating Tree's sorrow, and the effect mirrors the holding exactly: for a time the bearer can find the way back to a place they half-remember, which is the one thing the tree itself cannot do.
 
-**Cost:** The bearer weeps in their sleep.
+**Bearer cost:** The bearer can walk back to a place they half-remember, and comes back from it with the memory thinner than the route.
 
 **Map without a center:** The individual Charm record warns that using its lines to prove land ownership or a true homeland reverses them toward destroyed ground and can compel sleepwalking. Review with at least three living participants, drawing people before paths and leaving the center blank. After a displacement surge, its recorded care is suspension under open sky for a full sleep period. For removal, each visible participant names another living person while Yeonhwa closes the route without a destination. The bearer cannot dream of home for seven nights afterwards.
 
@@ -272,14 +273,14 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 ### M.A.W. Use Notes
 
-All 3 pieces are cut from the tree and carry its charge rather than its power: the bearer feels every place they can no longer return to. Extraction stability is what the grade line records, and nothing about that charge sits in it; the cost occupies the column beside, which is why issue is one rotation at a time.
+All 3 pieces are cut from the tree and carry its charge rather than its power: the bearer feels every place they can no longer return to. Extraction stability is what the grade line records, and nothing about that charge sits in it. The cost occupies the column beside, which is why issue is one rotation at a time.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the day's reading, and the route log opened by a second person. On this set what is measured is a pull rather than a symptom — the bearer's sense of places they cannot go back to — and the sheet is kept by somebody who is not wearing the piece. |
-| **During use** | Every instance is timed: the bearer naming a place they can no longer reach, with the hour. One occurrence is noted and the work continues; a pattern across a shift ends the use, and the log is closed by the second worker rather than by the bearer. |
+| **During use** | Every instance is timed: the bearer naming a place they can no longer reach, with the hour. One occurrence is noted and the work continues. A pattern across a shift ends the use, and the log is closed by the second worker rather than by the bearer. |
 | **At limit** | The cost on this set is continuous and not occasional: minor joys go flat in the bearer while the pull of unreachable places stays sharp. On a Floating Tree piece the use ends there, and the second worker's call carries against the bearer's. |
 | **After use** | Take the piece back, set the route log against the bearer's own account, and enter whether the pull has reversed. Where it has not reversed the piece is not issued to that bearer again, and the entry is made against the piece. |
 
@@ -289,7 +290,7 @@ All 3 pieces are cut from the tree and carry its charge rather than its power: t
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- Its track follows the Outside Sorrow currents almost exactly; the departures are circled on the sheet and there are nine of them in forty years.
+- Its track follows the Outside Sorrow currents almost exactly. The departures are circled on the sheet and there are nine of them in forty years.
 - Its roots never touch the ground. Not once, in the whole record, under any condition, including the breach.
 - Personnel who stand in the shadow report loss afterwards, and the resettled among them report it longest.
 
@@ -353,14 +354,14 @@ A tree floats over the Desolate, roots reaching for ground that is not there. Be
 
 ### Interaction Pattern
 
-Floating Tree is read beside the 3 holdings the file has paired it with — The Returning Tree, The Spreading Root and The Grieving Colossus — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the route, the shadow line, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one.
+Floating Tree is read beside the 3 holdings the file has paired it with — The Returning Tree, The Spreading Root and The Grieving Colossus — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the route, the shadow line, the gauge or the containment. And the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one.
 
 **Interaction method:** Shadow pegged and paced before the pairing and again after, from the same ground, by the same Warden, with the current bearing recorded at both readings.
 
 
 ### Entity Interaction Record
 
-Floating Tree must be kept distinct from the rooted holdings in the Desolate series. The Returning Tree keeps a place that people can still go to; this one keeps a people that no longer has a place, which is why it drifts and why the shadow is the only part of it anybody can measure.
+Floating Tree must be kept distinct from the rooted holdings in the Desolate series. The Returning Tree keeps a place that people can still go to. This one keeps a people that no longer has a place, which is why it drifts and why the shadow is the only part of it anybody can measure.
 
 | Companion holding | Basis of comparison | Co-presence findings | Record required |
 |---|---|---|---|
@@ -404,19 +405,19 @@ Some sorrows mourn a home. Floating Tree mourns the rooting — the place that h
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). It breaches by descending, roots personnel to the floor and drains composure at a rising rate. Outside a breach the effect is the rootlessness of the displaced, inside the shadow only.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type and Viderehan the alternate. Flerehan is barred; the earlier entry naming it primary stood for several cycles and is withdrawn.
+- Ferrehan is the primary Work Type and Viderehan the alternate. Flerehan is barred.
 - It cannot be anchored. One attempt, Year 4216, four injuries, and the method is recorded so that nobody devises it again.
 **Observation Notes:**
 - Thornmere, three hundred and ten people, all surviving, none placed within a day's walk of another.
-**Cross-References:** Zone D · The Returning Tree · The Vanished Root · The Grieving Colossus · the Resettlement Office roll · the Return Address boxes
+**Cross-References:** Zone D · The Returning Tree · The Vanished Root · [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) · the Resettlement Office roll · the Return Address boxes
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A community scattered by an Outside Sorrow surge.
 
 ### Registry Addendum
 
-**Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the breach behaviour form one picture, and on this holding the picture is a route. The facts that govern are these — the tree drifts root-first 4 to 9 metres up, roots sweeping without contact, it travels with the Han currents, it leaves a shadow that outlasts it, and the condition is to mark the route and never anchor it. When the holding does something this file does not describe, document the gap; the record is a living document and the gap is the next entry.
+**Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the breach behaviour form one picture, and on this holding the picture is a route. The facts that govern are these — the tree drifts root-first 4 to 9 metres up, roots sweeping without contact, it travels with the Han currents, it leaves a shadow that outlasts it, and the condition is to mark the route and never anchor it. When the holding does something this file does not describe, document the gap. The record is a living document and the gap is the next entry.
 
-**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the route log, the shadow line, the gauge, the containment seal, the personnel medical status and the M.A.W. resonance changes before the next cycle. On this holding the specific question is whether any anchor was set or any root touched; if a parameter has shifted, update the file rather than the memory of it, because the R.D. record here describes a living sorrow pattern and not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the route log, the shadow line, the gauge, the containment seal, the personnel medical status and the M.A.W. resonance changes before the next cycle. On this holding the specific question is whether any anchor was set or any root touched. If a parameter has shifted, update the file rather than the memory of it, because the root does not read the record and is not bound by it.
 ## Warden Record
 
 ### Root-First Through the Air
@@ -435,7 +436,7 @@ Its foliage is made from fragments of lives that came apart, and fragments have 
 
 The shadow is the only part of this holding that can be measured from safe ground, so the dimensional series is entirely shadow: pegged, paced, computed, and labelled every season as internally consistent and absolutely uncalibrated. It stands at 505 square paces after 402 and 310. The height has not changed within the tolerance of the method. The current track has not changed. Nothing about the Tree has changed. Set against the Resettlement Office's annual return, the area resolves exactly: it is the number of people on the live roll who were displaced from a settlement whose Return Address box is still open, and who have written to it and had no reply.
 
-This Company does not place people by their connections. Displaced persons go onto the housing roll in the order they present and are placed from it in that order; kinship, marriage, settlement of origin, friendship and shared employment are not grounds and may not be written on a placement file. A clerk who places by connection is dismissed, and the rule is right. Group placement kept whole villages tied to one works and starved them together when it shut. Worse, a kinship list in a clerk's hands became a price: placement near a mother was sold, twice at scale, and the prosecutions filled a volume. Nobody proposes going back and this file does not.
+This Company does not place people by their connections. Displaced persons go onto the housing roll in the order they present and are placed from it in that order. Kinship, marriage, settlement of origin, friendship and shared employment are not grounds and may not be written on a placement file. A clerk who places by connection is dismissed, and the rule is right. Group placement kept whole villages tied to one works and starved them together when it shut. Worse, a kinship list in a clerk's hands became a price: placement near a mother was sold, twice at scale, and the prosecutions filled a volume. Nobody proposes going back and this file does not.
 
 What follows is that no community dispersed in the Desolate has ever been housed as a community again. Every individual placement is correct. The roll is fair, the order is honest, and at the end of it three hundred and ten people who survived a surge together were distributed across four zones in single rooms by a procedure that was not permitted to notice they knew each other. The lists in this folder were drawn up by the survivors themselves because no office was allowed to hold one. The tree over the Desolate has a full root mass, in excellent condition, and nothing whatever to put it in.
 
@@ -443,11 +444,11 @@ What follows is that no community dispersed in the Desolate has ever been housed
 
 Authorised Year 4230. Every person placed from the roll holds, for life and without charge, a forwarding box at the central office. Once a year an index is posted in every ward: not names — names would be a record of connection — but the settlement of origin against a box number. A person may therefore write to *whoever of Thornmere still answers*, and the office will carry it.
 
-Year 4237: 4,118 boxes live; 1,207 letters forwarded; 318 people who wrote to a settlement box and received nothing back; 41 meetings of any kind recorded as having followed; 0 placements altered, which is not a shortfall but the rule.
+Year 4237: 4,118 boxes live; 1,207 letters forwarded. 318 People who wrote to a settlement box and received nothing back. 41 Meetings of any kind recorded as having followed. 0 Placements altered, which is not a shortfall but the rule.
 
-The costs sit where they always sit. Writing blind means most letters go to somebody the writer cannot name and many go to nobody, and the office knows which boxes have no live holder and may not say so. Publishing the settlement of origin makes a person's displacement semi-public, and two cases of harassment traceable to the index are recorded in the second volume. Carriage runs five to eleven weeks. And correspondence is the whole of the remedy: the Company cannot move anybody, cannot fund a journey, and cannot place two people nearer each other even when both of them ask in writing, because that is placement by connection and placement by connection is the abuse the rule exists to kill.
+The costs sit where they always sit. Writing blind means most letters go to somebody the writer cannot name and many go to nobody, and the office knows which boxes have no live holder and may not say so. Publishing the settlement of origin makes a person's displacement semi-public, and two cases of harassment traceable to the index are recorded in the second volume. Carriage runs five to eleven weeks. And correspondence is the whole of the remedy: the Company cannot move anybody, cannot fund a journey. And cannot place two people nearer each other even when both of them ask in writing, because that is placement by connection and placement by connection is the abuse the rule exists to kill.
 
-The box-keepers asked for the narrowest exception available: that two adults from the same settlement, each of them willing, be allowed to exchange their placements with no clerk involved. Refused, and the refusal is sound — an exchange is a placement by connection however it is dressed, and a market in placements is precisely what filled the prosecution volume. Their objection is bound into the Year 4234 index, recorded as correct and unanswered: that this Company stopped placing people by who they loved so that nobody could ever be sold the right to live near their own mother, and has thereby arranged that every community it rescues is dissolved by the act of rescuing it, lawfully, in roll order, with no one at fault and nothing in the file to say the thing ever existed.
+The box-keepers asked for the narrowest exception available: that two adults from the same settlement, each of them willing, be allowed to exchange their placements with no clerk involved. Refused, and the refusal is sound — an exchange is a placement by connection however it is dressed, and a market in placements is precisely what filled the prosecution volume. Their objection is bound into the Year 4234 index, recorded as correct and unanswered: that this Company stopped placing people by who they loved so that nobody could ever be sold the right to live near their own mother. And has thereby arranged that every community it rescues is dissolved by the act of rescuing it, lawfully, in roll order, with no one at fault and nothing in the file to say the thing ever existed.
 
 ### Scattered by the Surge
 
@@ -465,7 +466,7 @@ A community was dispersed by an Outside Sorrow surge and its memories gathered i
 - **Classification detail:** Floating Tree is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Element Lament, registered to The Desolate near The Scar, where containment is a marked route and nothing else: the tree is tracked from the ground, the shadow line is re-pegged where it moves, and no stake is ever driven.
 - **Recognition detail:** A pale tree drifting root-first, four to nine metres up, roots hanging and sweeping without contact, foliage of broken memory, and a shadow on the ground beneath it that stays a while after it has gone.
-- **Record detail:** The Registrum read Residue (I) and Minor (α) against a Fragment (III), Major (γ) header, rated the holding Low, and named Flerehan as primary where Flerehan is barred; the activation record read Subject-Lament against Place-Weight everywhere else; the role field read Object/Place on a Subject that breaches and entangles; the M.A.W. grade was blank against three γ pieces. All corrected here.
+- **Record detail:** The Registrum read Residue (I) and Minor (α) against a Fragment (III), Major (γ) header, rated the holding Low. And named Flerehan as primary where Flerehan is barred. The activation record read Subject-Lament against Place-Weight everywhere else. The role field read Object/Place on a Subject that breaches and entangles; the M.A.W. grade was blank against three γ pieces. All corrected here.
 - **Containment detail:** A contained entity is not dormant, and nothing here is confined: the tree crosses the Desolate on the currents and the management is a log. Fixed holdings can expand influence without moving — warping local Han, affecting psychology, resonating across barriers — and this one carries that influence under itself as a shadow, which is why the wardens read the ground and not the sky.
 ## Document Information
 

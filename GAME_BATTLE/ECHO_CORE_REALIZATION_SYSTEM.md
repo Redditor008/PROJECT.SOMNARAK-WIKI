@@ -37,7 +37,7 @@ In this crucible, the Challenger Strike Team must battle the Departmental Lead a
 |               THE UNIVERSAL REALIZATION BATTLE ENGINE               |
 +---------------------------------------------------------------------+
 | MECHANICAL PILLAR | ENGINE SPECIFICATION & EXECUTION RULE           |
-| ------------------+------------------------------------------------ |
++-------------------+-------------------------------------------------+
 | Four-Phase Health | Phase 1 (100-75% HP) -> Phase 2 (75-50% HP)     |
 |                   | Phase 3 (50-20% HP) -> Phase 4 (20-0% HP)       |
 | Macro-Cycle Turn  | Exactly 6 Battle Turns per Realization Phase.   |
@@ -83,7 +83,7 @@ Every Departmental Realization War adheres to the immutable four-phase psycholog
 |              PHASE TRANSITION CATHARSIS DIALOGUE SCRIPT             |
 +---------------------------------------------------------------------+
 | PHASE TRANSITION | IN-BATTLE DIALOGUE LOG & EMOTIONAL SCRIPT        |
-| -----------------+------------------------------------------------- |
++------------------+--------------------------------------------------+
 | Phase 1 -> 2     | DEKAN: 'Containment holds! We do not weep here!' |
 |                  | CHALLENGER: 'Your hands are trembling, Dekan.'   |
 | Phase 2 -> 3                                                        |
@@ -211,7 +211,7 @@ In the final phase, Dekan ascends into his true Echo-Core form: **Neokvox**. His
 |              THE NINE DEPARTMENTAL REALIZATION CATALOG              |
 +---------------------------------------------------------------------+
 | FLOOR | LEAD NAME     | THEMATIC REALIZATION TITLE       | ELEMENT  |
-| ------+---------------+----------------------------------+--------  |
++-------+---------------+----------------------------------+----------+
 | Fl 02 | Dekan         | The Maw's Keep: The Silent Chasm | Grudge   |
 | Fl 03 | Zyrak         | The Extraction Hall: Pure Glass  | Void     |
 | Fl 04 | Ayshuk        | Insight Forge: Cold Calculation  | Lament   |
@@ -286,7 +286,7 @@ In the final phase, Dekan ascends into his true Echo-Core form: **Neokvox**. His
 |           REALIZATION REWARDS & RESONANT AUTHORITY ENGRAMS          |
 +---------------------------------------------------------------------+
 | FLOOR | UNLOCKED PASSIVE ENGRAM       | LEAD TRANSFORMATION SKILL   |
-| ------+-------------------------------+--------------------------   |
++-------+-------------------------------+-----------------------------+
 | Fl 02 | 'Unshakable Maw Bastion'      | Neokvox: Gate of Severance  |
 | Fl 03 | 'Pure Glass Extraction'       | Kryovox: Crystalline Prism  |
 | Fl 04 | 'Calculated Compassion'       | Noovox: Resonant Insight    |

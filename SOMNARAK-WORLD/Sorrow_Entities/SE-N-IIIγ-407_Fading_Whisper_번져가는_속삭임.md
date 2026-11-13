@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-407 [N]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; the containment zone loses definition, colors fade, sounds vanish |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A burning figure that whispers without pause while its edges fade to nothing — half-fire, half-absence, clearer the less you recall it. Fever-cold, it smells of char and ash; its voice weakens whenever someone remembers it, as memory starves it. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — it holds the ground the erased place stood on and has never been recorded anywhere else. It does not approach, withdraw, or follow. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 2 |
+| **SE Effect** | **On the counter** — Denial is the only thing that strengthens it. Telling it that there was never any such place raises the level within the hour. |
+| **Work Damage** | 2–4 Void — the cost is a whisper quieter at every logging and not yet gone |
+| **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | γ · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -45,13 +47,15 @@
 - Nothing is extracted. The only product of a watch is a transcript, and the transcript is filed by two people who did not confer.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The row that keeps this file is `The Sharp Fragment`: a crystallized word-fragment launches and flies free, and the file attaches Void damage to it rather than to the listening. Nothing here denies a strike — what the Movement row denies is that the Whisper approaches, withdraws or follows, and a fragment leaving is none of those three.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.95 m/s |
+| **Speed** | 0 m/s — it holds the ground the erased place stood on; it does not approach, withdraw or follow |
 | **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the fade itself, which is not pressure: definition drains out of the zone and out of the listener, no instrument takes a reading of it, and the only defence on file is a written break |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 693/693 |
@@ -78,11 +82,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Last Syllable* [**Debuff**] } | "Only the last syllable arrives, and the word it belonged to is somewhere behind it, closing." | [The fade delivers fragments at the target, and each fragment implies a whole that is no longer available.] | *Target suffers a Void mark; the unfinished word sits in the mind and they cannot help supplying an ending.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target hears the Whisper. |
-| { *The Silence After* [**Debuff**] } | "It stops mid-phrase, the way it always stops, and the stopping is louder than the speech was." | [The halt leaves an absence shaped exactly like the sentence that should have followed.] | *Target loses clarity; the silence is measured against the break rather than heard, and the listener waits.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for more. |
+| { *The Last Syllable* [**Debuff**] } | "Only the last syllable arrives. And the word it belonged to is somewhere behind it, closing." | [The fade delivers fragments at the target, and each fragment implies a whole that is no longer available.] | *Target suffers a Void mark; the unfinished word sits in the mind and they cannot help supplying an ending.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target hears the Whisper. |
+| { *The Silence After* [**Debuff**] } | "It stops mid-phrase, the way it always stops. And the stopping is louder than the speech was." | [The halt leaves an absence shaped exactly like the sentence that should have followed.] | *Target loses clarity; the silence is measured against the break rather than heard, and the listener waits.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for more. |
 | { *The Sharp Fragment* [**Attack**] } | "A shard of the fading whisper, hardened by its own disappearance, flies free." | [ A crystallized word-fragment launches.] | *Inflicts Void damage; the fading word erases a recollection.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Whisper is disturbed. |
-| { *The Full Silence* [**Attack**] } | "Everything it has ever held, faded in one movement, and the quiet afterwards has a shape." | [The Whisper's whole accumulated speech is spent at once on the target.] | *A heavy Void of unspoken words; the target's Sorrow Gauge surges 15%, and the transcripts for the watch will not agree.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Whisper is silenced. |
-| { *The Silent Field* [**Ultimate**] } | "The speech comes apart into pieces, and every person in the corridor hears a different one." | [The fade extends across the whole area; the half-heard speech spreads with it.] | *All in range suffer Void erosion for three turns of total silence; no two accounts of the three turns will match, and the level series is read first.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Silence* [**Attack**] } | "Everything it has ever held, faded in one movement. And the quiet afterwards has a shape." | [The Whisper's whole accumulated speech is spent at once on the target.] | *A heavy Void of unspoken words; the target's Sorrow Gauge surges 15%, and the transcripts for the watch will not agree.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Whisper is silenced. |
+| { *The Silent Field* [**Ultimate**] } | "The speech comes apart into pieces. And every person in the corridor hears a different one." | [The fade extends across the whole area; the half-heard speech spreads with it.] | *All in range suffer Void erosion for three turns of total silence; no two accounts of the three turns will match, and the level series is read first.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -121,29 +125,29 @@
 | **Distinctive markers** | A figure on fire with no heat, speaking without pause, and becoming harder to perceive in proportion to how well the observer remembers it. |
 | **Identification** | Confirm before Work or contact: designation N-IIIγ-407, Void expression, Subject-Grudge manifestation, Zone A at the Alpha Tree. If any one of the four does not match, do not proceed and report the mismatch before anybody enters. |
 
-**Appearance protocol:** Record the level of the voice first, from the fixed instrument at the fixed distance, because the level is the holding's clock. Then the width of the faded margin, the distance and bearing, the thermometer reading, and the exact point in the phrase at which the speech breaks off. Write the break as a break. Do not reconstruct, do not infer the missing word, and do not describe the figure as *disturbing*; it has a shape, a colour, a sound and a smell, and those are the fields.
+**Appearance protocol:** Record the level of the voice first, from the fixed instrument at the fixed distance, because the level is the holding's clock. Then the width of the faded margin, the distance and bearing, the thermometer reading, and the exact point in the phrase at which the speech breaks off. Write the break as a break. Do not reconstruct, do not infer the missing word, and do not describe the figure as *disturbing*. It has a shape, a colour, a sound and a smell, and those are the fields.
 
 ## Origin
 - **Formation:** The Whisper formed from a place erased from one person's memory.
 - **The Sorrow:** The grief of losing an entire part of life while knowing something is missing.
 - **The Event:** A memory was removed from a child's mind; the forgotten place remained as a fading guardian.
 - **The People:** One child, unnamed in every surviving document by the deliberate choice of the people who commissioned the removal, and the place that was taken out of their memory, which no longer appears in any municipal register.
-- **Expanded origin context:** The removal was authorised, documented and performed to the standard of its day. The authorisation bears two signatures and a countersignature, states a reason in a single clinical sentence, and names nobody. What the procedure could not do was take away the shape of the thing removed, and the archivist's note records the result: the child kept the outline of a place they could not name, and the outline stayed behind after they had gone, on fire, talking, getting quieter.
+- **Expanded origin context:** The removal was authorised, documented and performed to the standard of its day. The authorisation bears two signatures and a countersignature, states a reason in a single clinical sentence, and names nobody. What the procedure could not do was take away the shape of the thing removed. And the archivist's note records the result: the child kept the outline of a place they could not name. And the outline stayed behind after they had gone, on fire, talking, getting quieter.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Becomes clearer and speaks more gently. | Decrease |
-| **Pugnahan** | Burns brighter and fades faster. | Increase |
-| **Viderehan** | Reveals the erased place in fragments. | Stable |
-| **Ferrehan** | Tests whether the worker can remember without forcing completion. | Decrease |
+| **Flerehan** | Becomes clearer and speaks more gently. | Decrease · High |
+| **Pugnahan** | Burns brighter and fades faster. | Increase · Low |
+| **Viderehan** | Reveals the erased place in fragments. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remember without forcing completion. | Decrease · Common |
 
 
 
 ### Operational Work Notes
 
-Fading Whisper is a Subject with Subject-Grudge manifestation and Void expression, fixed at the Alpha Tree in Zone A. All four Work Types apply. Flerehan clarifies it and gentles the voice, Ferrehan tests whether a worker can remember without forcing completion, Viderehan returns fragments of the erased place and leaves the gauge level, and Pugnahan burns it brighter and spends it faster. The Registrum entry naming Viderehan as the primary approach is an error and is corrected here.
+Fading Whisper is a Subject with Subject-Grudge manifestation and Void expression, fixed at the Alpha Tree in Zone A. All four Work Types apply. Flerehan clarifies it and gentles the voice, Ferrehan tests whether a worker can remember without forcing completion, Viderehan returns fragments of the erased place and leaves the gauge level, and Pugnahan burns it brighter and spends it faster. Viderehan returns the erased place in fragments and never assembles them, which is why the approach was later refused primary status here: a fragment is not a place, and a worker handed a broken one will finish it themselves if the session is left open.
 
 **Reading the response:** Read it in the level and in the margin. A falling gauge presents as the voice steadying — still quiet, but even, with the faded margin holding its width. A rising gauge presents as volume, and volume on this holding is always bad news, because the only thing that makes it louder is being denied. If a worker has told it that the place never existed, the level will be up before the end of the watch, and the record is to say which worker and what they said.
 ## Containment Event Behavior
@@ -154,16 +158,16 @@ Fading Whisper is a Subject with Subject-Grudge manifestation and Void expressio
 |---|---|
 | **Event Type** | Transformation in place |
 | **Movement** | It stays where it is; the speech is what spreads. Half-heard sentences fill the corridors, each person hearing a different fragment, and nobody can agree afterwards on what was said. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | Whoever is closest to the position when the definition starts to go — the event does not move and does not seek anybody, and the speech is what spreads, so the affected are the people standing where the corridor used to be legible. |
-| **Escalation** | Each turn the zone is left to lose definition, the Clarity drain rises by 5 and the half-heard sentences grow more various; nothing is answered, nothing is completed, and no responder repeats back anything they think they heard, because repetition is how the volume rises. |
+| **Effect** | The ground where the erased place stood goes pale first, then quiet, then hard to look at directly. Nothing is taken from the room; the room is simply being drawn back toward the shape it had before. |
+| **Secondary Effect** | The erased place is still the shape of itself and everything near it is borrowed from that shape. Colours near the ground go first because the ground is what was erased. |
+| **First Target** | Whoever is closest to the position when the definition starts to go — the event does not move and does not seek anybody. And the speech is what spreads. So the affected are the people standing where the corridor used to be legible. |
+| **Escalation** | Each turn the zone is left to lose definition, the Clarity drain rises by 5 and the half-heard sentences lose whatever they had in common. Nothing is answered, nothing is completed. And no responder repeats back anything they think they heard, because repetition is how the volume rises. |
 
 ### Escalation Notes
 
 - **Event type (non-breach):** Transformation in place. Fading Whisper alters what is around it at Zone A, Alpha Tree and stays inside it; the containment zone loses definition, colors fade, sounds vanish.
 - **Containment priority:** Flerehan and Ferrehan together from the instrumented line. Nothing is answered, nothing is completed, and no responder repeats back anything they think they heard.
-- **Sorrow Gauge on event:** Opens at 40% and climbs 10% per turn while the zone is left unaddressed. The figure is modelled from a single recorded event and is labelled as modelled wherever it is quoted; one event is not a series, and the file says so each time the number is used. |
+- **Sorrow Gauge on event:** Opens at 40% and climbs 10% per turn while the zone is left unaddressed. The figure is modelled from a single recorded event and is labelled as modelled wherever it is quoted. One event is not a series, and the file says so each time the number is used. |
 
 ## M.A.W. Equipment
 
@@ -173,7 +177,7 @@ Fading Whisper is a Subject with Subject-Grudge manifestation and Void expressio
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-Appearance : An elongated matchlock arquebus with a browned octagonal barrel, serpent lock, and cherry-wood stock, featuring a slow-burning braided cotton cord that emits zero sparks or odor.
+**Appearance:** An elongated matchlock arquebus with a browned octagonal barrel, serpent lock, and cherry-wood stock, featuring a slow-burning braided cotton cord that emits zero sparks or odor.
 
 The breech is fitted with an internal lead baffler that silences the detonation completely. Discharging lead balls produces only a faint sigh, while the spent smoke dissipates instantaneously.
 
@@ -185,7 +189,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 
 **Ability:** Void damage against the Soul — identity, memory, sense of self — carried in the strike as this holding's signature. Recipients describe the wound as a missing middle: a sentence they are certain they heard in full and cannot now reproduce past a certain point, with no sense of what was there.
 
-**Cost:** Small, unattributable things go first — a route, a name at a counter, the arrangement of a room they know well — and the Armoury records the charge against the wielder rather than the piece. On this set the cost is discovered by colleagues rather than by the wielder, which is why the piece is issued one watch at a time.
+**Bearer cost:** Small, unattributable things go first — a route, a name at a counter, the arrangement of a room they know well — and the Armoury records the charge against the wielder rather than the piece. On this set the cost is discovered by colleagues rather than by the wielder, which is why the piece is issued one watch at a time.
 
 ### M.A.W. Suit — Fading Whisper's Veil
 
@@ -203,7 +207,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 
 **Ability:** Turns Void pressure aside from the Soul. It holds against the pressure and not against the fade: a wearer inside the zone still loses definition with everybody else, and the veil's note is that the protection here is against the element and not against the event. Worn against Fading Whisper's kind of pressure, with that qualification on the line.
 
-**Cost:** The wearer comes to feel faintly absent to themselves — present, recorded and not entirely convinced of either — and reports it as standing slightly outside a room they are clearly in. On this set the Armoury re-assesses a week after return, because the charge does not present on the day.
+**Bearer cost:** The wearer comes to feel faintly absent to themselves — present, recorded and not entirely convinced of either — and reports it as standing slightly outside a room they are clearly in. On this set the Armoury re-assesses a week after return, because the charge does not present on the day.
 
 ### M.A.W. Stigma — Fading Whisper's Key
 
@@ -213,17 +217,17 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 Composure while working the Alpha Tree position, and nothing anywhere else; the key's other property is the one the file warns about — it opens access to one erased memory, and it costs the bearer certainty about one present one.
+**Effect:** +3 Composure while working the Alpha Tree position, and nothing anywhere else. The key's other property is the one the file warns about — it opens access to one erased memory, and it costs the bearer certainty about one present one.
 
 **Ability:** Opens access to one erased-memory fragment, not a complete reconstruction of the lost place. Record the fragment and the present-memory cost with equal prominence.
 
-**Cost:** The user loses certainty about one present memory.
+**Bearer cost:** The user loses certainty about one present memory.
 
 *Fading Whisper's Key is not issued and cannot be applied for. It has been conferred twice, both times on a transcriber who filed a watch in which they had understood nothing and written down exactly that.*
 
 ### M.A.W. Use Notes
 
-Each piece extends Fading Whisper rather than equipping its wielder against it, and the benefit holds only inside the pattern the file records; outside it the charge arrives early and does not reverse on return. The set's three charges run the same way as the holding: the wielder loses small, nameless things off the memory, the veil takes the sense of their own presence, and the key trades certainty about a present memory for access to an erased one. Two keys exist, and both were conferred on a transcriber who filed a watch in which they had understood nothing and wrote down exactly that.
+Each piece extends Fading Whisper rather than equipping its wielder against it, and the benefit holds only inside the pattern the file records. Outside it the charge arrives early and does not reverse on return. The set's three charges run the same way as the holding: the wielder loses small, nameless things off the memory, the veil takes the sense of their own presence, and the key trades certainty about a present memory for access to an erased one. Two keys exist, and both were conferred on a transcriber who filed a watch in which they had understood nothing and wrote down exactly that.
 
 ### Field Use Record
 
@@ -236,9 +240,9 @@ Each piece extends Fading Whisper rather than equipping its wielder against it, 
 
 **Stat interpretation:** The grade describes what a piece can do and says nothing about what it takes. The charge on this set is inversely proportional to nothing: all three pieces are δ-grade and all three take the same kind of thing, in the same order, from every bearer. A low-rated piece can still carry a severe psychological cost, and a high-rated one can still be the cheapest item in the locker — read both columns, authorise on the second, and take the baseline before the issue rather than after it.
 
-**Full-set source review (2026-10-11):** Reviewed the `γ · δ` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-407-A` (`N-IIIγ-407 [N]`, set `4/4`), items `SE-407-B/C/D` (`MAW-W/S/G-407-01`), Registry rows 655–658, Master Codex table/Entries 430–432, Tale 144, and archetype `MAW-W-407`. All primary review sections are present. The Side set page has no standalone Appearance section; all three linked items have Appearance sections, and none has a separately labelled transition block. The Master entries do not supply item Appearances or a complete combat profile; the repository has a Weapon archetype catalog but no Suit/Stigma archetype catalog. The primary's Void 10–15, speed 3, range 3, max 2, and 50-Echo Weapon profile matches the Side/item values; the item's Skewer and 100% → 70% → 50% falloff remain unstated locally. Suit resistances and cost align. The Stigma's Head slot, 4% acquisition, and +3 Composure agree with Side/item, and the primary effect now names Composure. The primary, linked items, and Master Codex entries give all three profiles δ. The Registry supplies only the Stigma's δ grade; its Weapon/Suit grade fields are N/A. The overview's M.A.W. half now reads δ.
+**Full-set source review (Year 4238):** Reviewed the `γ · δ` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-407-A` (`N-IIIγ-407 [N]`, set `4/4`), items `SE-407-B/C/D` (`MAW-W/S/G-407-01`), Registry rows 655–658, Master Codex table/Entries 430–432, Tale 144, and archetype `MAW-W-407`. All primary review sections are present. The Side set page has no standalone Appearance section; all three linked items have Appearance sections, and none has a separately labelled transition block. The Master entries do not supply item Appearances or a complete combat profile; the repository has a Weapon archetype catalog but no Suit/Stigma archetype catalog. The primary's Void 10–15, speed 3, range 3, max 2, and 50-Echo Weapon profile matches the Side/item values. The item's Skewer and 100% → 70% → 50% falloff remain unstated locally. Suit resistances and cost align. The Stigma's Head slot, 4% acquisition, and +3 Composure agree with Side/item, and the primary effect now names Composure. The primary, linked items, and Master Codex entries give all three profiles δ. The Registry supplies only the Stigma's δ grade; its Weapon/Suit grade fields are N/A. The overview's M.A.W. half now reads δ.
 
-**Holds:** The primary Weapon's `The Whispering Matchlock` and matchlock Appearance agree with the Master table and Weapon archetype, while the Side/item call it `The Lingering Lens` and describe a burning empty-center lens; Master detail Entry 430 also says Lens. No transition or crosswalk resolves the form. Primary Suit/Stigma titles (`Fading Whisper's Veil/Key`) differ from Side/item (`The Lingering Veil/Key`); Master table/detail retain the primary titles. The primary's Range 3 (Medium) matches the Side/item numeric Range 3, but the Weapon archetype assigns the Instant band; the range-category conflict remains. Registry row 658 remains generic Accessory / 5%, unlike the specific Head / 4% records. Tale 144 supplies the source account but no M.A.W. form crosswalk. No title, form, archetype band, or Registry value was normalized; no linked source file changed.
+**Holds:** The primary Weapon's `The Whispering Matchlock` and matchlock Appearance agree with the Master table and Weapon archetype, while the Side/item call it `The Lingering Lens` and describe a burning empty-center lens. Master detail Entry 430 also says Lens. No transition or crosswalk resolves the form. Primary Suit/Stigma titles (`Fading Whisper's Veil/Key`) differ from Side/item (`The Lingering Veil/Key`); Master table/detail retain the primary titles. The primary's Range 3 (Medium) matches the Side/item numeric Range 3, but the Weapon archetype assigns the Instant band; the range-category conflict remains. Registry row 658 remains generic Accessory / 5%, unlike the specific Head / 4% records. Tale 144 supplies the source account but no M.A.W. form crosswalk. No title, form, archetype band, or Registry value was normalized; no linked source file changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -267,7 +271,7 @@ Each piece extends Fading Whisper rather than equipping its wielder against it, 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Fading Whisper (N-IIIγ-407 [N]) is a Subject-Grudge manifestation expressing Void, formed from a place erased from one person's memory and fixed at the Alpha Tree in Zone A. It burns without heat, whispers without pause and breaks off at the same point in the same phrase for every listener; the figure dims after every watch, even though it has never completed the sentence.
+Fading Whisper (N-IIIγ-407 [N]) is a Subject-Grudge manifestation expressing Void, formed from a place erased from one person's memory and fixed at the Alpha Tree in Zone A. It burns without heat, whispers without pause and breaks off at the same point in the same phrase for every listener. The figure dims after every watch, even though it has never completed the sentence.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The figure stays at the Alpha Tree; its half-heard speech spreads through the corridors. Personnel feel longing for places they cannot identify. It becomes stronger when someone denies the missing place.
@@ -306,22 +310,22 @@ A voice speaks from a burning shape, then dissolves before the last word. You kn
 
 ### Interaction Pattern
 
-This holding is read against the other things in the district that hold, lock or reflect what has been removed, and the reading is awkward because the instrument here is two people agreeing: a paired observation taken without both transcribers baselined is a measurement of the transcribers. The Forgotten Silence, The Memory Lock and The Rising Mirror are the three on file, and the record's own guidance applies to all of them — a null is the commonest finding on this holding and the easiest to leave out, so it is entered in full.
+This holding is read against the other things in the district that hold, lock or reflect what has been removed. And the reading is awkward because the instrument here is two people agreeing: a paired observation taken without both transcribers baselined is a measurement of the transcribers. The Forgotten Silence, The Memory Lock and The Rising Mirror are the three on file. And the record's own guidance applies to all of them — a null is the commonest finding on this holding and the easiest to leave out. So it is entered in full.
 
-**Interaction method:** Baseline each holding alone first, and baseline the transcribers as well, since the watch produces no reading an instrument can take on its own: the level meter gives a number, the thermometer has not moved in eleven years, and neither says what the whisper said. Then take the shared encounter with both sheets sealed before comparison and a third party reading them with neither transcriber present. Record the onset of any shared change with its range, duration and trigger, the gauge on both sides, the level series, and whatever persists after separation — and re-verify each cycle, because in Zone A a transformation has reversed a settled dynamic before.
+**Interaction method:** Baseline each holding alone first. And baseline the transcribers as well, since the watch produces no reading an instrument can take on its own: the level meter gives a number, the thermometer has not moved in eleven years. And neither says what the whisper said. Then take the shared encounter with both sheets sealed before comparison and a third party reading them with neither transcriber present. Record the onset of any shared change with its range, duration and trigger, the gauge on both sides, the level series, and whatever persists after separation — and re-verify each cycle, because in Zone A a transformation has reversed a settled dynamic before.
 
 
 ### Entity Interaction Record
 
-The three relations below are points of contact rather than alliances, and none is settled. What the file asks of a reader is that they leave a null in the record rather than out of it: on this holding a result that produced nothing is the ordinary outcome, it is what the series actually contains, and three of the three pairings below are mostly a record of that.
+The three relations below are points of contact rather than alliances, and none is settled. What the file asks of a reader is that they leave a null in the record rather than out of it: on this holding a result that produced nothing is the ordinary outcome, it is what the series actually contains. And three of the three pairings below are mostly a record of that.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Forgotten Silence** | Both hold something that was taken out of a mind, which has been read as kinship and is not evidenced as one. | Nine co-presences. The level series was unchanged on all nine and the break point did not move. The Silence's own record shows nothing either. The pairing is proposed again about annually and the null result is reissued each time. | The nine co-presences, both series, and every reissue of the null. |
-| **The Memory Lock** | The Lock has been proposed as the holder of the removed memory, which would make the two halves of one event. | Five approaches over seven years. Nothing was transferred, the Whisper's level did not change, and the Lock did not open or alter. The file records the proposal as unproven rather than refuted and names the two researchers who still hold it. | The five approaches, the null results, and the standing dissent with its authors named. |
-| **The Rising Mirror** | The Mirror is said to show the erased place, a claim resting on one account from a single observer. | Three co-presences. Two produced nothing. In the third, an observer described a street in detail and could not repeat the description an hour later; the account is held verbatim and is relied on for nothing. | The three co-presences, the verbatim account, and the note that it has never been reproduced. |
+| [**The Forgotten Silence**](SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md) | Both hold something that was taken out of a mind, which has been read as kinship and is not evidenced as one. | Nine co-presences. The level series was unchanged on all nine and the break point did not move. The Silence's own record shows nothing either. The pairing is proposed again about annually and the null result is reissued each time. | The nine co-presences, both series, and every reissue of the null. |
+| [**The Memory Lock**](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md) | The Lock has been proposed as the holder of the removed memory, which would make the two halves of one event. | Five approaches over seven years. Nothing was transferred, the Whisper's level did not change, and the Lock did not open or alter. The file records the proposal as unproven rather than refuted and names the two researchers who still hold it. | The five approaches, the null results, and the standing dissent with its authors named. |
+| **The Rising Mirror** | The Mirror is said to show the erased place, a claim resting on one account from a single observer. | Three co-presences. Two produced nothing. In the third, an observer described a street in detail and could not repeat the description an hour later. The account is held verbatim and is relied on for nothing. | The three co-presences, the verbatim account, and the note that it has never been reproduced. |
 
-**Interaction procedure:** Pair only with each holding baselined within the same cycle, both transcribers briefed in advance that a null is a result, and the gain and watch length fixed as they are for a solo watch. Then record the first shared change with its range, duration and trigger, the gauge movement on both sides, the level series, and what remains after separation; a pairing taken without the solo baseline is entered as unmeasured.
+**Interaction procedure:** Pair only with each holding baselined within the same cycle, both transcribers briefed in advance that a null is a result, and the gain and watch length fixed as they are for a solo watch. Then record the first shared change with its range, duration and trigger, the gauge movement on both sides, the level series, and what remains after separation. A pairing taken without the solo baseline is entered as unmeasured.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -353,21 +357,21 @@ Some sorrows are about losing memory. Fading Whisper is about the place the memo
 **Common Name:** Fading Whisper
 **Containment Status:** Contained — Zone A, at the Alpha Tree. Earlier entries placing the holding in Zone D refer to the transcript store and not to the entity.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It guards the gap left by a removed memory; proximity produces the awareness of an absence that cannot be named, and a transform event strips definition from the surrounding zone. The older entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Major (γ). It guards the gap left by a removed memory. Proximity produces the awareness of an absence that cannot be named, and a transform event strips definition from the surrounding zone.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; it is a Subject, and the older entry restricting work to Viderehan is an error.
 - The guardian is spent by being remembered. Watch lengths are capped for that reason and the cap is enforced by a second person.
 **Observation Notes:**
-- A memory was removed from a child's mind under a written authorisation that names nobody; the place it referred to stayed behind and has been guarding itself ever since.
-**Cross-References:** Zone A · the Alpha Tree · the removal authorisation · the transcript store · The Memory Lock
-**Faction Involvement:** SED, on the D-territory exploration the Alpha Tree position sits at the edge of · UCD, on the Fray-adjacent reach of Zone A; the holding's transcript store is governed by its own access policy, which the wing did not write and cannot vary.
+- A memory was removed from a child's mind under a written authorisation that names nobody. The place it referred to stayed behind and has been guarding itself ever since.
+**Cross-References:** Zone A · the Alpha Tree · the removal authorisation · the transcript store · [The Memory Lock](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md)
+**Faction Involvement:** SED, on the D-territory exploration the Alpha Tree position sits at the edge of · UCD, on the Fray-adjacent reach of Zone A. The holding's transcript store is governed by its own access policy, which the wing did not write and cannot vary.
 **Originator:** A child whose memory of one place was deliberately and lawfully removed, and who is not named in any surviving document.
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding produces no reading any instrument can take, so the record is what two people wrote at the same time and did not discuss. That method has been running since the second year and its figures are the file's spine: 1,104 paired watches; word agreement averaging 94 per cent; break-point agreement at 100 per cent, with nobody in eleven years placing the break anywhere but the same syllable; 6 per cent divergence clustering in the three words before the break, which the file reads as the point at which a listener's own supply begins; a stand-down threshold of 12 per cent divergence, applied to the holding and not to the person; and one pair in the ninth year whose identical sheets are marked excluded, because a perfect agreement is the one result the method cannot distinguish from a failure of it. Read the sheets, the level series and the policy together. Where the entity contradicts this record, the contradiction is evidence and is preserved rather than normalised.
+**Operational interpretation:** This holding produces no reading any instrument can take, so the record is what two people wrote at the same time and did not discuss. That method has been running since the second year and its figures are the file's spine: 1,104 paired watches. Word agreement averaging 94 per cent. Break-point agreement at 100 per cent, with nobody in eleven years placing the break anywhere but the same syllable. 6 Per cent divergence clustering in the three words before the break, which the file reads as the point at which a listener's own supply begins. A stand-down threshold of 12 per cent divergence, applied to the holding and not to the person. And one pair in the ninth year whose identical sheets are marked excluded, because a perfect agreement is the one result the method cannot distinguish from a failure of it. Read the sheets, the level series and the policy together. The contradiction is evidence and is preserved rather than normalised, and on this file the contradiction is a method that reads its own best result as its own failure.
 
-**Review requirement:** Every transformation in place, every Sorrow Tide and every transformation attempt invalidates the current baseline, and on this holding so does anything that changes who transcribes. Re-verify before proceeding: the level at fixed gain and fixed distance, the width of the faded margin against the previous watch, the thermometer series that has not moved in eleven years, the break point recorded as a break, the comparison of the two sealed sheets with neither transcriber present, and the standing of the store's access policy and the refusal of the one application. The review carries the file's own figures: 1,104 paired watches; 94 per cent average agreement on words; 100 per cent on the break point; 12 per cent as the divergence stand-down threshold; 11 unbriefed walk-ins in eleven years with 4 occasions on which somebody told the figure there was nothing there and 2 stand-downs following; and the 1 application received and refused, with the officer's minute filed beside the determination. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every transformation in place, every Sorrow Tide and every transformation attempt invalidates the current baseline, and on this holding so does anything that changes who transcribes. Re-verify before proceeding: the level at fixed gain and fixed distance, the width of the faded margin against the previous watch, the thermometer series that has not moved in eleven years, the break point recorded as a break, the comparison of the two sealed sheets with neither transcriber present. And the standing of the store's access policy and the refusal of the one application. The review carries the file's own figures: 1,104 paired watches. 94 Per cent average agreement on words. 100 Per cent on the break point. 12 Per cent as the divergence stand-down threshold. 11 Unbriefed walk-ins in eleven years with 4 occasions on which somebody told the figure there was nothing there and 2 stand-downs following. And the 1 application received and refused, with the officer's minute filed beside the determination.
 ## Warden Record
 
 ### It Cannot Finish
@@ -410,15 +414,15 @@ The mechanism is not in doubt and is stated in the holding's own opening lines: 
 
 The reason is in the decision in one line: *it is the last of the place, and it is the last of what was taken from the child, and we are not going to be the ones who finish that.*
 
-The consequences are carried by people who did not decide it. Unbriefed staff have walked into the Alpha Tree position eleven times in eleven years; on four of those occasions somebody told the figure that there was nothing there, which is the one thing that makes it louder, and two of the four ended in a stand-down. Residents of the adjacent blocks have never been told what is at the end of their street. The holding is a γ-grade hazard being deliberately preserved at a cost to everybody who meets it unprepared, in order to keep a record that no living person can read.
+The consequences are carried by people who did not decide it. Unbriefed staff have walked into the Alpha Tree position eleven times in eleven years. On four of those occasions somebody told the figure that there was nothing there, which is the one thing that makes it louder. And two of the four ended in a stand-down. Residents of the adjacent blocks have never been told what is at the end of their street. The holding is a γ-grade hazard being deliberately preserved at a cost to everybody who meets it unprepared, in order to keep a record that no living person can read.
 
-The staff association's objection is minuted every year and is minuted in full. It holds that a hazard maintained for archival reasons must at minimum be disclosed to the people standing next to it; that the wing has chosen obscurity because disclosure *is* the termination, and so cannot have one without the other; and that the four incidents were foreseeable and were foreseen. The minute records the objection as **correct in all three parts** and records that no alternative has been found, because there is no way to warn people about this entity without spending it.
+The staff association's objection is minuted every year and is minuted in full. It holds that a hazard maintained for archival reasons must at minimum be disclosed to the people standing next to it. That the wing has chosen obscurity because disclosure *is* the termination. And so cannot have one without the other. And that the four incidents were foreseeable and were foreseen. The minute records the objection as **correct in all three parts** and records that no alternative has been found, because there is no way to warn people about this entity without spending it.
 
 ### Addressed to Someone Unnamed
 
 The transcript store holds eleven years of a person's removed memory, in fragments, in their absence, and cannot give it to them.
 
-The removal authorisation names nobody. That was deliberate and, by the standards of the period and of this one, correct: a child undergoing that procedure was protected from being identifiable afterwards, and the two signatories and the countersignatory took the trouble to make the file anonymous in a decade when most did not.
+The removal authorisation names nobody. That was deliberate and, by the standards of the period and of this one, correct: a child undergoing that procedure was protected from being identifiable afterwards. And the two signatories and the countersignatory took the trouble to make the file anonymous in a decade when most did not.
 
 The transcripts are therefore personal information about a person who cannot be identified. The store's access policy, which the wing did not write and cannot vary, permits disclosure to the subject and to nobody else. There is no subject on the file to disclose to. The material also cannot be destroyed: it forms part of the evidence base of an authorised clinical procedure and is retained indefinitely for that reason.
 
@@ -439,9 +443,9 @@ She was told she could reapply. She has not.
 
 ### Registry Trivia
 
-- **Classification detail:** Fading Whisper is a Subject with Fragment (III) coherence and Major (γ) potency, and the activation threshold is 2 — two ignored conditions escalate it, and escalation presents as volume, which reverses the trend the file is named for and is the only circumstance in which the holding becomes louder.
-- **Field detail:** Element Void, registered to Zone A at the Alpha Tree, where the position is fixed and has never been recorded anywhere else; earlier entries placing the holding in Zone D refer to the transcript store and not to the entity.
-- **Recognition detail:** Identify it by the heatless fire and the break point; never by the content of the whisper, which no two transcripts render identically.
+- **Classification detail:** Fading Whisper is a Subject with Fragment (III) coherence and Major (γ) potency. And the activation threshold is 2 — two ignored conditions escalate it. And escalation presents as volume, which reverses the trend the file is named for and is the only circumstance in which the holding becomes louder.
+- **Field detail:** Element Void, registered to Zone A at the Alpha Tree, where the position is fixed and has never been recorded anywhere else. Earlier entries placing the holding in Zone D refer to the transcript store and not to the entity.
+- **Recognition detail:** Identify it by the heatless fire and the break point. Never by the content of the whisper, which no two transcripts render identically.
 - **Record detail:** Read this file beside the transcript store's access policy, which governs almost everything this holding produces and is not held in Zone A.
 - **Containment detail:** Containment holds the position, not the sorrow. Sealed, the holding still alters the local Han field: adjacent personnel report dreams in which a sentence finishes, and a reported ending is logged as an incident.
 ## Document Information

@@ -28,6 +28,10 @@ The Ruin Fang is a dark crimson fang of Han iron whose wet edge does something n
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Absent-Line Cut:** The blade attacks one present obstruction crossing a corroborated lost boundary. It cannot strike the absence itself. Unsupported geometry makes the edge cut the wielder’s own remembered space.
 
 ## SET, FAILURE & CARE
@@ -41,14 +45,3 @@ Charm marks the room, Plate absorbs shock, Fang clears the living route. Holdout
 **Maintenance:** Lay independent room sketches on opposite sides of the blade. Clean only the edge where both show the same boundary. Leave disputed sections wet and unusable.
 
 **Shutdown:** Step outside the memorial footprint and lower the Fang before the phantom room fades.
-
----
-
-**Document ID:** `SE-240-B`  
-**Linked Entity:** `SE-240`  
-**Item Registry Code:** `MAW-W-240-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

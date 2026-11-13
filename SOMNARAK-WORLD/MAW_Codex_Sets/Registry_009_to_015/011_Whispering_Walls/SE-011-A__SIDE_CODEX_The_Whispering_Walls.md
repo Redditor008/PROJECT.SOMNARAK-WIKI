@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Iα-011 [LP]`  
 **Author:** Chronicler Minseo  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — ambient Old Lament phenomenon
 
@@ -60,8 +60,8 @@ A whisper settles when someone repeats it clearly, records it accurately, or nam
 
 | Work Type | Response | Gauge Result | Use |
 |---|---|---|---|
-| **Flerehan** | Not accepted directly. | N/A | Mourn after the message is heard. |
-| **Pugnahan** | Not accepted directly. | N/A | Prohibited; turns private grief into broadcast. |
+| **Flerehan** | Not accepted directly. | Net-Neutral | Mourn after the message is heard. |
+| **Pugnahan** | Not accepted directly. | Net-Neutral | Prohibited; turns private grief into broadcast. |
 | **Viderehan** | Reveals repeated phrase patterns and historical origin. | Stable | Primary archive method. |
 | **Ferrehan** | Lets personnel remain present through the chorus. | Decrease | Primary field method. |
 
@@ -75,7 +75,7 @@ No mural may be restored, sealed, or demolished until an Archive listener has co
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Occlusion Star-Chalice | α | Lament | Interrupts active concealment for one sentence; does not extract secrets, force confession, or establish truth | `SE-011-B__MAW-W_The_Listening_Requiem.md` |
+| **Weapon** | The Occlusion Star-Chalice | α | Lament | Interrupts active concealment for one sentence; does not extract secrets, force confession, or establish truth | `SE-011-B__MAW-W_The_Occlusion_Star_Chalice.md` |
 | **Suit** | The Listening Shroud | α | Lament | Lightweight protection against ambient whispers | `SE-011-C__MAW-S_The_Listening_Shroud.md` |
 | **Stigma** | The Listening Stone | α | Lament | Allows careful hearing of sorrow embedded in architecture | `SE-011-D__MAW-G_The_Listening_Stone.md` |
 
@@ -87,7 +87,7 @@ No mural may be restored, sealed, or demolished until an Archive listener has co
 
 **Cost:** The bearer hears the sentence again whenever entering a silent room for the next seven nights.
 
-**Weapon-title review (2026-10-11):** The Side set row now uses *The Occlusion Star-Chalice*, supported by primary `C-Iα-011`, the current `SE-011-B` heading and obsidian-chalice Appearance, the Master Registry, `MAW-W-011` archetype, and revision `3abe5470`, which replaced the same `MAW-W-011-01` item's earlier short-blade Appearance with the chalice. The master M.A.W. Codex Entry 316 and linked-item Type/quote/Ability/History still use “Listening Requiem” or “blade”; preserve that remaining terminology as a hold. No source documents a separate blade form or transition. The linked filename `SE-011-B__MAW-W_The_Listening_Requiem.md` remains a path. The corrected purpose follows Truth Note's stated limits; this identity-only Side table carries no numeric profile, so none was added.
+**Weapon-title review (Year 4,238):** The Side set row now uses *The Occlusion Star-Chalice*, supported by primary `C-Iα-011`, the current `SE-011-B` heading and obsidian-chalice Appearance, the Master Registry, `MAW-W-011` archetype, and current revision, which replaced the same `MAW-W-011-01` item's earlier short-blade Appearance with the chalice. The master M.A.W. Codex Entry 316 and linked-item Type/quote/Ability/History still use “Listening Requiem” or “blade”; preserve that remaining terminology as a hold. No source documents a separate blade form or transition. The linked filename `SE-011-B__MAW-W_The_Occlusion_Star_Chalice.md` remains a path. The corrected purpose follows Truth Note's stated limits; this identity-only Side table carries no numeric profile, so none was added.
 
 ---
 
@@ -112,13 +112,3 @@ Archive work must establish which suppressed city records match the oldest wall 
 ### Observation 4 — Pending
 
 Mastery would require the city to hear what its first settlers could not safely say aloud.
-
----
-
-**Document ID:** `SE-011-A`  
-**Related Entity:** `SE-011`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

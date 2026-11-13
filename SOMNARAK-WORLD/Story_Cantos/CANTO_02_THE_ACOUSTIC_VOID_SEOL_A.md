@@ -132,7 +132,7 @@ When `SE-C-IIIγ-021 The Hollow Choir` (  빈 합창단  ) breaches containment,
 
 Instead, the warning was carried through the facility's bones. Every iron pipe running along the corridor began to sing. The handrails vibrated in a terrifyingly clear three-part fugue. In the barracks above, water droplets falling from leaky valves froze mid-air, suspended by standing acoustic waves before shattering into fine mist.
 
-"Containment Vault 021 has suffered harmonic collapse!" 
+"Containment Vault 021 has suffered harmonic collapse!"
 
 Sensor Tech Jinho's voice crackled across the local short-range comms, distorted by severe acoustic flutter. "The acoustic damping rods in the lower pit seized up! The resonance is feeding directly into the Sector C ventilation grid! It's spreading into the living quarters of Sub-Level 3!"
 
@@ -277,7 +277,7 @@ The combat sequence unfolded across six tactical turns within the primary combat
 | - Action: Min-Jae establishes [Acoustic Deflection Stance] at Node  |
 |   4,                                                                |
 |   clamping the shield to ground. Posture: 185/185.                  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 2: KINETIC DISRUPTION & CLASH INITIALIZATION                   |
 | - Choir unleashes acoustic shockwave targeting Nodes 1-4.           |
 | - Min-Jae clashes with [Basalt Ground Anchor]: Clash Power 26 vs    |
@@ -285,21 +285,21 @@ The combat sequence unfolded across six tactical turns within the primary combat
 | - Victory Min-Jae! Kinetic shock absorbed. Composure: 68/115.       |
 | - Taeho expends 3 AP on [Dissonance Sunder] at Node 5: Maul crashes |
 | into foundational resonance conduits, reducing Choir power by 15%.  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 3: THE HIGH-VELOCITY FLANK (PILLAR: PRESENCE)                  |
 | - Seol-A expends 4 AP on [Acoustic Siphon Sprint]:                  |
 |   Maneuvers from Node 7 -> Node 8 (Harmonic Convergence Threshold). |
 | - Presence Trigger: Seol-A witnesses Min-Jae and Taeho shielding    |
 |   the bleeding Jinho at Node 1. Realizes she is no longer alone.    |
 | - Composure stabilized at 85/120. Posture: 160/185.                 |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 4: THE RESONANT PRECIPICE (PILLAR: PRECIPICE)                  |
 | - The Hollow Choir prepares lethal skill [The 144th Stanza]:        |
 |   Massive 360-degree sonic burst charging at Node 9 (Power 32).     |
 | - Seol-A steps into Node 8 directly facing the spectral core.       |
 | - Spectral manifestations of the Silver Octave encircle her.        |
 | - Ghostly Yoon whispers the severed sentence into her left ear.     |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 5: THE MISSING NOTE (PILLAR: PURPOSE)                          |
 | - Seol-A activates MAW-W-021-01 unique skill [The Missing Note].    |
 | - Cost: Absolute vulnerability to acoustic back-pulse.              |
@@ -307,7 +307,7 @@ The combat sequence unfolded across six tactical turns within the primary combat
 |   'You fought well, Yoon. The wall held. Sleep now.'                |
 | - Truth spoken clears weapon restriction. Azure notch ignites       |
 |   with 5,000 lumens of pure harmonic counter-resonance!             |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 6: SUPPRESSION & RESONANT CATHARSIS (PILLAR: PACT)             |
 | - Seol-A lunges from Node 8 -> Node 9 with [Silenced Requiem        |
 |   Thrust]                                                           |

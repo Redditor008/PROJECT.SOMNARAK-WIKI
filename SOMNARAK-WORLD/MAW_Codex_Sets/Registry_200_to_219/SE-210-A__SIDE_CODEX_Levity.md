@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-210 [VO]`  
 **Author:** Researcher Euncris Park, R.D. Research Division  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — contained I-Relic in the Mask Market
 
@@ -26,7 +26,7 @@
 | Element | Void |
 | Location | SECTOR-C-01, Mask Market |
 | Primary Form | A bright painted mask with a fixed wide smile, dark wet eyeholes, and continuous laughter. |
-| Gauge / Han Pressure | 35–50% starting range / Void 7–17 per hit |
+| Gauge / Han Pressure | 445/445; starts 35–50% / Void — no attack pattern; the bay’s silences are the reading |
 | Movement | Fixed while unworn; moves only with an activated wearer |
 | Comprehension Level | 2 — Basic |
 | M.A.W. Set | The Empty Ovation |
@@ -62,10 +62,10 @@ Levity’s lacquer is bright, bloodless-cold, and faintly scented with ash. Its 
 
 | Work Type | Response | Gauge | Operational rule |
 |---|---|---|---|
-| Flerehan | Not applicable to Object/Place entities. | N/A | Do not address the relic as an emotionally responsive Subject. |
-| Pugnahan | Not applicable; impact risks a Void shriek. | N/A | Never strike the mask or improvise confrontation. |
+| Flerehan | Not applicable to Object/Place entities. | Net-Neutral | Do not address the relic as an emotionally responsive Subject. |
+| Pugnahan | Not applicable; impact risks a Void shriek. | Net-Neutral | Never strike the mask or improvise confrontation. |
 | Viderehan | Reveals the face and grief beneath the performed laugh. | Stable | Observe voice source, eyehole moisture, and identity drift. |
-| Ferrehan | Laughs for hours while testing whether the worker can remain present. | Down | Use timed partner checks; endurance is not permission to perform along. |
+| Ferrehan | Laughs for hours while testing whether the worker can remain present. | Decrease | Use timed partner checks; endurance is not permission to perform along. |
 
 **Activation trigger:** Wearing Levity or laughing within its responsive range.  
 **Effect:** The wearer appears effortlessly happy and cannot stop laughing long enough to express grief.  
@@ -167,13 +167,3 @@ The Facade can prevent visible distress from feeding a crowd, but it also hides 
 **Individual files:** `SE-210-B`, `SE-210-C`, `SE-210-D`
 
 **Restricted note:** Levity’s M.A.W. pieces may be used to identify and interrupt coercive affect. They are not morale equipment. No supervisor may deploy the set to make distressed personnel appear operational.
-
----
-
-**Document ID:** `SE-210-A`  
-**Linked Entity:** `SE-210`  
-**Author:** Researcher Euncris Park, R.D. Research Division  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

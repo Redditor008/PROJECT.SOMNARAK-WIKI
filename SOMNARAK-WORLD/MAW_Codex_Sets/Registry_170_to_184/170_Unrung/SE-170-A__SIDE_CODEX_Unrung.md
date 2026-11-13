@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-170 [VO]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — silent-warning containment near the Orphaned Bell
 
@@ -26,7 +26,7 @@
 | Element | Void |
 | Location | SECTOR-A-01, near the Orphaned Bell |
 | Form | A pale silent bell shaped like the Orphaned Bell, absorbing sound instead of making it—the Bell’s hushed twin. |
-| Gauge / pressure | 35–50% / Void 8–20 |
+| Gauge / pressure | 415/415; starts 35–50% · Void — no attack pattern: the bell has not moved or sounded in twenty-four years, and the reading is the arrival delay at the marked line (Contact Record, R-36) |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Heard Warning |
 
@@ -61,10 +61,10 @@ Unrung is not merely quiet. The air near it becomes muffled as though sound has 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Do not treat grief as a substitute for listening practice. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not strike the Bell to force a ring. |
+| Flerehan | Invalid for this Object/Place entity. | Net-Neutral | Do not treat grief as a substitute for listening practice. |
+| Pugnahan | Invalid for this Object/Place entity. | Net-Neutral | Do not strike the Bell to force a ring. |
 | Viderehan | Reveals warnings that were ignored. | Stable | Preserve warning records with context, timing, and recipient responsibility. |
-| Ferrehan | Tests ability to remain before silence. | Down | Observe without filling the silence with an invented answer. |
+| Ferrehan | Tests ability to remain before silence. | Decrease | Observe without filling the silence with an invented answer. |
 
 ### Activation response
 
@@ -85,9 +85,9 @@ The original Bell is an I-Relic. Its M.A.W. set records released silence echoes,
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Muffled Resonance-Bell | β | Void | Creates a controlled silence field around an active warning surge | `SE-170-B__MAW-W_The_Silence_Hammer.md` |
-| Suit | The Soundless Velvet Cassock | β | Void | Void protection with an audible-response partner | `SE-170-C__MAW-S_The_Silence_Veil.md` |
-| Stigma | The Muffled Clapper Brooch | β | Void | Marks a suppressed warning or missing alert word | `SE-170-D__MAW-G_The_Silence_Charm.md` |
+| Weapon | The Muffled Resonance-Bell | β | Void | Creates a controlled silence field around an active warning surge | `SE-170-B__MAW-W_The_Muffled_Resonance_Bell.md` |
+| Suit | The Soundless Velvet Cassock | β | Void | Void protection with an audible-response partner | `SE-170-C__MAW-S_The_Soundless_Velvet_Cassock.md` |
+| Stigma | The Muffled Clapper Brooch | β | Void | Marks a suppressed warning or missing alert word | `SE-170-D__MAW-G_The_Muffled_Clapper_Brooch.md` |
 
 ---
 
@@ -168,13 +168,3 @@ The original Bell is an I-Relic. Its M.A.W. set records released silence echoes,
 **Entity links:** The Orphaned Bell; silence records; sealed Archive warning files.  
 **Source distinction:** Unrung remains an I-Relic; its three M.A.W. files are released silence echoes.  
 **Item links:** `SE-170-B`, `SE-170-C`, and `SE-170-D` contain individual response, hearing, and corruption histories for Heard Warning.
-
----
-
-**Document ID:** `SE-170-A`  
-**Linked Entity:** `SE-170`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

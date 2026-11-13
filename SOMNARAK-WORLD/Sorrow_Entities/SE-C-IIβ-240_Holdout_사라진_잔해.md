@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-240 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on a properly made decision that nobody affected could speak to |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Mixed — A stand of broken walls that should not be there: rough grey stone fused with the blackened grain of long-dead timber and, here and there, the calcium gleam of old bone set into the mortar. The walls resolve only when someone actively remembers the building that once stood; forgotten, they haze back into dust. The stone is cold, but the dead wood still seems to bleed a sap that is not sap. |
+| **Physical Form** | Mixed |
 | **Movement** | Fixed footprint in the Alpha Tree vault. Stones return into the old survey’s positions rather than travel out of the outline; remembered rooms resolve and fade there. Phantom doorways in adjoining corridors are recorded separately from the footprint. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -27,10 +27,11 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 per cycle, drawn from a footprint in the Alpha Tree vault where a structure used to stand. The vault's return notes that the yield has not changed as the stones have returned, which it expected to. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an inventory short in a vault nobody has reconciled. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter; activates on a properly made decision that nobody affected could speak to |
 | **Tool / M.A.W. grade** | Granted pieces · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -44,51 +45,58 @@
 - No breach counter. Vault load rises with the holding and is read off plates, never judged by eye; the eye reports nothing at all here.
 - There is no residue to recover and the standing authorisation is kept open anyway, in case the holding ever leaves anything behind.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge. There is nothing standing to resist; the returned stones are cold, ordinary and immovable — a crane was brought in once and could not lift one. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone A, Alpha Tree vault |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 30 s, walked — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | force pushed back through the arm that holds it, felt as weight leaned against rather than as pain until the arm gives |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+walked on a 30-second clock, so the six come to **180 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *fixed footprint in the Alpha Tree vault; stones return into the old survey's positions rather than travel out of the outline*. And the file's own account of its worst event is that the stones are gone again before anybody can be crushed and the injuries are all from the noise and the air.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A resolved outline in a vault where the ruin used to stand, and stones returning into the old survey's positions inside it. The shape of what was there still presses on the air, and the foundation beneath is smooth, old and exposed. |
+| **Perceptible to** | The shape of a ruin that is not there, then the pacing — long-serving wardens walk the rooms out unconsciously, and the briefing asks them to notice rather than to stop. |
+| **Handling** | Memorialise the structure and do not reconstruct a version of it. No plan is filed for the site, not even a sketch, because all three of the recorded returns followed a written proposal filed elsewhere in the building. — see `## Handling Process` |
+| **Activation threshold** | No breach counter; activates on a properly made decision that nobody affected could speak to |
+| **Sorrow Gauge [Pressure]** | **000 of 420** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Memorialize the structure; do not reconstruct a false version |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Missing Rubble* [**Debuff**] } | "The ruin is gone — but the shape of what it was still presses on the air." | [The Ruin's phantom presence marks the target with what was here.] | *Target suffers -10 Resilience; they feel the weight of a ruin that is not there.* **[10 Grudge DMG [Grudge]]** | When the target enters where the Ruin was. |
-| { *The Perfect Foundation* [**Debuff**] } | "Without the ruin, the foundation is exposed — smooth, old, and angry at being built on." | [The Ruin's absence reveals the foundation's old resentment.] | *Target loses 10 Resilience; the base layer is furious.* **[10 Grudge DMG [Grudge]]** | When the target probes the absence. |
-| { *The Ghost Collapse* [**Attack**] } | "The ruin comes back for one instant — falling, all of it, onto you." | [The Ruin briefly manifests and collapses.] | *Inflicts Grudge pressure and one crushing, phantom wound.* **[14-22 Grudge DMG [Grudge]]** | When the absence is challenged. |
-| { *The Full Return* [**Attack**] } | "Every vanished stone comes back at once, at full weight, in the order it fell." | [The structure reconstitutes in a second and collapses in the next.] | *24–36 Grudge to anybody standing in the footprint; the stones are gone again before anybody can be crushed, and the injuries are all from the noise and the air.* **[24-36 Grudge DMG [Grudge]]** | When somebody proposes rebuilding. Three occurrences, each within a day of a written proposal. |
-| { *Every Ruin Returns* [**Ultimate**] } | "Every demolished thing in the zone stands up again and falls again, together." | [The return propagates to the zone's cleared sites.] | *12–20 Grudge per cycle for three cycles across the zone.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, in the week the Zone A clearance programme was announced. |
+### Contact Events
 
-### Battle Phases
+| Event | What the outline does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Missing Rubble* [**Register**] } | Leaves the shape of the ruin pressing on the air where the ruin is not, and marks whoever walks in with the weight of what was here. | Surveys the footprint against the old survey and records which positions stand empty, before anything is said about the site. | The footprint is the fixed thing and the stones move inside it. That is the whole of the geometry here, and it is why the survey is walked first and the outline described second. |
+| { *The Perfect Foundation* [**Exposure**] } | Exposes the foundation without the ruin on it — smooth, old and furious at having been built on — and the base layer reads as the resentful thing rather than the absent one. | Records the foundation readings separately from the outline, and keeps a worker who has begun pacing rooms on the record rather than off it. | Past about forty minutes in the footprint, workers begin pacing out rooms. It is unconscious, every long-serving warden has done it, and the file treats it as a reading rather than a lapse. |
+| { *The Ghost Collapse* [**Refusal**] } | Does not fall on anybody. The stones return into their old positions and are gone again before anybody can be crushed. What reaches the workers is the noise and the air, and the file says so in the row. | Records the return as a noise event, checks hearing and breathing on everybody inside the footprint, and does not go looking for crush injuries that the record says do not occur. | The refusal is the geometry: a ruin that reassembles in place and does not travel out of its outline has nothing to drop on a person. What it can do is a bang in an enclosed vault. |
+| { *The Full Return* [**Overload**] } | Stands every vanished stone back up at full weight, in the order it fell, and takes it away again in the next moment — three occurrences, each within a day of a written proposal. | Withdraws the proposal route from the site's own paperwork, records the return against the proposal that preceded it, and re-surveys the footprint afterwards. | The failure here is a plan for the site, and it does not have to be spoken in the vault. That is why the prohibition is on the paperwork rather than on the visit: the holding answers a decision nobody visiting it made. |
 
-1. **Tension:** The team counts the stones present in the footprint, photographs the arrangement, and confirms against the last count. Nobody stands inside the outline while the count is being taken.
-2. **Clash:** Viderehan is a Warden standing in the vault and deliberately remembering the building until the walls resolve; Ferrehan is staying in the resolved rooms for the interval. Plate load is read throughout. Do not touch or try to shift the resolved fabric. Its appearance under remembering is not permission to test the walls as ordinary masonry; the separate crane attempt failed to lift a returned stone. Keep plate readings independent of what the watcher sees.
-3. **Resolution:** The structure is memorialised — named aloud, with what it was for — and nothing is proposed for the ground. 188 cycles; the stone count has fallen by one or two after a memorial reading and has never fallen for any other reason.
+### Watch Sequence
+
+1. **What is confirmed:** the footprint against the old survey, the foundation readings taken separately, and the absence of any proposal for the site anywhere in the building's paperwork.
+2. **What the watch does:** Viderehan for the rooms and the people who used them and Ferrehan for standing inside walls that go when the watching stops, with nothing rebuilt, sketched or costed.
+3. **How it closes:** **Memorialize the structure; do not reconstruct a false version** — and an unworked quarter adds stones to the footprint, which is the only growth this holding has.
 
 ### Consequences
 
@@ -99,7 +107,7 @@
 
 ## Appearance
 
-**Footprint, rooms and return:** The remembered tenement is not a survivor standing in the vault. Its present organisation is an outline, returning stones and walls that resolve under active remembering, with grey stone, dead black timber and old bone-flecked mortar when visible. Record a room’s order of appearance and persistence separately from load on the plates. A transient full reconstruction and collapse follows a proposed replacement; that is not the normal remembered room and is not an invitation to make a replica. The old survey locates stones; it does not prove a new wall load-bearing. Keep adjoining phantom doorways on their own plan layer, and do not treat the derived harness or blade as material salvaged from the original demolition.
+**Footprint, rooms and return:** The remembered tenement is not a survivor standing in the vault. Its present organisation is an outline, returning stones and walls that resolve under active remembering, with grey stone, dead black timber and old bone-flecked mortar when visible. Record a room’s order of appearance and persistence separately from load on the plates. A transient full reconstruction and collapse follows a proposed replacement. That is not the normal remembered room and is not an invitation to make a replica. The old survey locates stones; it does not prove a new wall load-bearing. Keep adjoining phantom doorways on their own plan layer, and do not treat the derived harness or blade as material salvaged from the original demolition.
 
 **Physical Form:** A stand of broken walls that are not there until somebody remembers them. **Material:** grey stone fused with dead timber, with old bone set in the mortar.
 
@@ -133,24 +141,24 @@
 - **The People:** One hundred and forty residents of a tenement that came down during an Alpha Tree stabilisation, displaced without representation of any kind, because this Company does not consult.
 - **Expanded origin context:** The commissioning file is unusually complete: the engineering assessment, the works order, the stabilisation schedule, the displacement list of 140 names, and the dissent file — thirty-one written statements lodged afterwards by people whose homes had already gone. Every document in it is correct. The archivist's note observes that the assessment has been checked three times and holds, and that the dissent file has, on the Office's own record, been read twice.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A resolved outline in a vault where the ruin used to stand, and stones returning into the old survey's positions inside it. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | The rooms, in order, with the people who used them and what each was for. Gauge does not move. | Stable |
-| **Ferrehan** | Staying inside the resolved walls for the interval, knowing they go when you stop. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the footprint against the old survey, the foundation readings taken separately, and the absence of any proposal for the site anywhere in the building's paperwork. |
+| **Handling** | The watch surveys the footprint against the old survey and records which positions stand empty, before anything is said about the site. |
+| **Withdrawal** | **Memorialize the structure; do not reconstruct a false version** — and an unworked quarter adds stones to the footprint, which is the only growth this holding has. |
+| **Refusal** | Records the return as a noise event, checks hearing and breathing on everybody inside the footprint, and does not go looking for crush injuries that the record says do not occur. |
 
-
-### Operational Work Notes
-
-The Work Type table reads normally and the number the vault keeps is the stone count. Four to thirty-one in nine years: each arrival follows a demolition elsewhere in the city within about a fortnight, and each departure follows a memorial reading in the footprint. Nothing else has moved it.
-
-**Reading the response:** A falling reading means somebody said what the building was for, out loud, standing in its outline. It rises on clearance announcements, on proposals for the ground, and on the Alpha Tree's own works schedule.
 ## Expansion Behavior
+
+> **Special activation — no counter.** Filed trigger: *"a properly made decision that nobody affected could speak to"*.
+
+
+
+
 
 | Field | Detail |
 |---|---|
@@ -188,7 +196,7 @@ Escalation is a stone. Record the count, the arrangement photographed against th
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-Appearance : A wide, double-edged arming sword forged from silvered steel, measuring ninety-five centimeters overall with a cruciform crossguard, rounded disc pommel, and a supple black leather wire-bound grip.
+**Appearance:** A wide, double-edged arming sword forged from silvered steel, measuring ninety-five centimeters overall with a cruciform crossguard, rounded disc pommel, and a supple black leather wire-bound grip.
 
 The central fuller runs two-thirds of the blade, engraved with four ceremonial mercy seals in Old Script. Under impact, the blade dampens acoustic resonance, striking with dull, cushioned concussions rather than sharp ringing.
 
@@ -205,7 +213,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Ability:** Grudge against the Body. Struck targets are unable to discard anything for the rest of the day — paper, broken tools, food — and all fourteen reported it as mild and found their pockets full at the end of the shift.
 
-**Cost:** Old wounds ache, and the wielder's quarters fill with things that should have gone.
+**Bearer cost:** Old wounds ache, and the wielder's quarters fill with things that should have gone.
 
 **Broadsword custody:** Its local silvered arming-sword form is not established as another state of the separately linked Ruin Fang. Retain the selected-target limit and log old-wound ache, accumulating possessions and the stores clerk’s observations before return. The sealed inventory belongs to the bearer’s review, not a test of whether they will surrender their history. Do not assign the Fang’s absent-boundary cutting, wet-edge cleaning or memorial shutdown to this sword merely because the numerical profiles agree. The corroborated-map requirement remains evidence in the Fang record, not permission to carve the remembered room.
 
@@ -225,7 +233,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Ability:** Absorbs structural shock.
 
-**Cost:** The wearer experiences the collapse stored in the plate.
+**Bearer cost:** The wearer experiences the collapse stored in the plate.
 
 **Plate care:** Absorbing structural shock postpones its price; it does not erase the collapse. Keep the harness outside the marked room and record each stored impact against corroborated collapse evidence. Release stored shock only into the external test frame, without supplying an imagined sound or missing impact. For removal the wearer lies flat outside the footprint while a partner releases the plates in reverse collapse order. A missing or disputed room is not a place to install the wearer as a replacement wall, even when the plates match surviving masonry profiles.
 
@@ -241,9 +249,9 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Ability:** The bearer can tell whether a structure they are standing in is scheduled for demolition. Tested against the works programme 41 times; 39 correct, and both errors were buildings whose schedule changed the following week.
 
-**Cost:** The bearer's temper shortens.
+**Bearer cost:** The bearer cannot stand in a room without knowing whether it is scheduled to come down, and there is no version of that knowledge that stays at work.
 
-*Five charms exist. Four went to Wardens who held the top floor in mind for a full interval; the fifth to the Warden who first noticed that the plates read higher when fewer rooms resolve.*
+*Five charms exist. Four went to Wardens who held the top floor in mind for a full interval. The fifth to the Warden who first noticed that the plates read higher when fewer rooms resolve.*
 
 **Charm record and care:** The local cool cornerstone and the linked warm broken-hinge description remain different same-item accounts, not a demonstrated heating or reshaping cycle. Keep the demolition-schedule test distinct from the linked effect that marks a corroborated absent boundary. Preserve agreement, conflict and absence on independent sketches; do not turn a disputed room into a confident mark. Record shortened temper at justified destruction as a cost rather than proof that a witness or engineer is lying. The linked release leaves disputed geometry unmarked, without rebuilding or completing the missing room.
 
@@ -262,7 +270,7 @@ Every piece is made from a building that refused to finish being demolished, and
 
 **Stat interpretation:** The grade measures extraction stability. This set's cost arrives as a cluttered room and a stores discrepancy, and the authorisation turns on the sealed inventory rather than the rating.
 
-**Full-set source review (2026-10-13):** Reviewed the `Granted pieces · β` overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side `SE-240-A` (`C-IIβ-240 [GP]`, `4/4`), items `SE-240-B/C/D` (`MAW-W/S/G-240-01`), Master Registry rows 526–529, Master M.A.W. rows/details 142–144, Entity Codex row 412 / Tale 48, and archetype `MAW-W-240`. The existing β overview is supported by all three local pieces, Side A/items, and Master entries. Weapon core values (Grudge 5–9 / Normal 2 / Short 2 / max 4 / 25 Echoes) align with Side A/B; hold the local *Mercy Broadsword* and W-240 double-edged arming-sword / Long index against Side/item B and Master Entry 142’s *Ruin Fang* (a dark Han-iron fang). No transition, complete Master profile, or prefix crosswalk resolves the title/form/range-band difference. Suit values align. Stigma Tail / 5% align and its effect now names +1 Resilience from Side A/D. Side A assigns `SE-240` to Holdout and defers Three Forty-Seven (`C-IVγ-240`) and Solace (`C-Iα-240`); their separate `SE-1023` / `SE-1022` work and repeated local *Mercy Broadsword* title do not map to this `SE-240-B` pair. No linked evidence was changed.
+**Full-set source review (Year 4238):** Reviewed the `Granted pieces · β` overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side `SE-240-A` (`C-IIβ-240 [GP]`, `4/4`), items `SE-240-B/C/D` (`MAW-W/S/G-240-01`), Master Registry rows 526–529, Master M.A.W. rows/details 142–144, Entity Codex row 412 / Tale 48, and archetype `MAW-W-240`. The existing β overview is supported by all three local pieces, Side A/items, and Master entries. Weapon core values (Grudge 5–9 / Normal 2 / Short 2 / max 4 / 25 Echoes) align with Side A/B. Hold the local *Mercy Broadsword* and W-240 double-edged arming-sword / Long index against Side/item B and Master Entry 142’s *Ruin Fang* (a dark Han-iron fang). No transition, complete Master profile, or prefix crosswalk resolves the title/form/range-band difference. Suit values align. Stigma Tail / 5% align and its effect now names +1 Resilience from Side A/D. Side A assigns `SE-240` to Holdout and defers Three Forty-Seven (`C-IVγ-240`) and Solace (`C-Iα-240`). Their separate `SE-1023` / `SE-1022` work and repeated local *Mercy Broadsword* title do not map to this `SE-240-B` pair. No linked evidence was changed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -301,7 +309,7 @@ The office confirms that this Company does not consult. No person affected by a 
 The anger of discovering that destruction was treated as necessary before anyone asked what it meant.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan shows the people and the purpose of the building and holds the gauge level; Ferrehan is standing in the outline without pacing it out and lowers it. Pugnahan is unavailable against a Place and the earlier entry naming it was an error carried forward for four years.
+Work response — Viderehan shows the people and the purpose of the building and holds the gauge level. Ferrehan is standing in the outline without pacing it out and lowers it. Pugnahan is unavailable against a Place.
 
 **Entry 5 — <Archive Note>**
 Nineteen rooms were listed in the original survey and eleven still resolve. The eight that no longer come up are the eight nobody living has any reason to remember — a storeroom, a stair cupboard, a back landing. The Keepers hold that the holding is not shrinking but being forgotten in parts, and that the plate load has risen in every year that a room was lost.
@@ -331,7 +339,7 @@ A room appears around you, broken but still warm. You see a wall fall, a chair l
 
 ### Interaction Pattern
 
-Three separate returns are recorded below: the Vanished Tower comparison changed neither load and exchanged no rooms; Event was held at the vault threshold while a Warden remembered; the Hollow Architect doubled the plate load and briefly raised rooms that did not persist. None of those returns establishes two stone additions or a stone removed by Breach. Keep load, rooms and stone count as different readings.
+Three separate returns are recorded below: the Vanished Tower comparison changed neither load and exchanged no rooms. Event was held at the vault threshold while a Warden remembered. The Hollow Architect doubled the plate load and briefly raised rooms that did not persist. None of those returns establishes two stone additions or a stone removed by Breach. Keep load, rooms and stone count as different readings.
 
 **Interaction method:** Plate load and room count before, during and after, taken by a Warden who is not the one doing the remembering, so that the figures are not kept by the instrument.
 
@@ -344,7 +352,7 @@ Holdout must be kept distinct from the other absent-structure holdings. The Vani
 |---|---|---|---|
 | **The Vanished Tower** | Both hold buildings that are not there, and the two do not combine: rooms from one have never appeared inside the other in any trial. | Load unchanged on both. The negative result was sought deliberately and is the reason the pair can share a sector. | Room counts for each, logged separately, with an explicit note that no exchange occurred. |
 | **Event** | The resolved walls will hold a line that event cannot cross, for as long as a Warden keeps remembering them. The protection is real and lasts exactly as long as the person does. | event held at the vault threshold for fifty-one minutes in the only recorded instance. | Time the hold to the minute and record who was remembering, and what it cost them. |
-| **The Hollow Architect** | It remembers the building as built rather than as lived in, and under its attention two rooms resolved that no Warden has been able to raise since. | Plate load doubles while it attends; the recovered rooms did not persist after separation. | Record which rooms came up, and that they went again. |
+| [**The Hollow Architect**](SE-C-IVγ-255_Hollow_Architect_빈_건축가.md) | It remembers the building as built rather than as lived in, and under its attention two rooms resolved that no Warden has been able to raise since. | Plate load doubles while it attends; the recovered rooms did not persist after separation. | Record which rooms came up, and that they went again. |
 
 **Interaction procedure:** One Warden remembers, a second reads the plates, a third keeps the clock. No one performs two of the three.
 
@@ -387,18 +395,18 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 **Threat Assessment:** Moderate (β), with manifestation in place rather than escape. The file records Full Returns after written rebuilding proposals and a zone-wide return during a clearance announcement, so “no event” is not a safe summary. Track phantom-room perception, rising vault load and pressure on neighbouring holdings separately from whether anything leaves the footprint.
 **Containment & Handling Procedures:**
 - Keep the vault shielded and the plates calibrated. The shielding is for the neighbours, not for this holding, which has never tried to leave.
-- Viderehan and Ferrehan are the valid Work Types. Pugnahan is unavailable against a Place; the earlier entry naming it was an error and is recorded here rather than deleted.
+- Viderehan and Ferrehan are the valid Work Types. Pugnahan is unavailable against a Place.
 - Do not post anybody who lost a home to a demolition. The exclusion is absolute, is checked against the displacement lists, and has been applied to eleven people who asked to be posted here anyway.
 **Observation Notes:**
 - Plate load 310, 412 and 560 kilogrammes equivalent across three annual series, with no mass identifiable by any other instrument.
 - Eleven of nineteen rooms still resolve. Phantom doorways are marked as phantom on the vault plan.
-**Cross-References:** Alpha Tree vault · Council stabilisation records · the displacement list of 140 · the dissent file · The Vanished Tower · event · The Hollow Architect
-**Faction Involvement:** None operational. SED hold the original survey of the building and supplied the plan the stone positions are checked against; UCD have asked once for the footprint to be released for storage and were refused.
+**Cross-References:** Alpha Tree vault · Council stabilisation records · the displacement list of 140 · the dissent file · The Vanished Tower · event · [The Hollow Architect](SE-C-IVγ-255_Hollow_Architect_빈_건축가.md)
+**Faction Involvement:** None operational. SED hold the original survey of the building and supplied the plan the stone positions are checked against. UCD have asked once for the footprint to be released for storage and were refused.
 **Originator:** Council stabilisation committee · 140 residents displaced without representation, because there is no process here under which they could have had any
 
 ### Registry Addendum
 
-**Operational interpretation:** The stones come back when the city takes something else down, within about a fortnight, and they go when somebody stands in the outline and says what the building was for. Four stones to thirty-one in nine years. The vault cannot affect the demolition programme and has stopped writing to it; what it can do is keep the outline empty and read the memorial, which costs twenty minutes and is the only thing on record that has ever reduced the count.
+**Operational interpretation:** The stones come back when the city takes something else down, within about a fortnight, and they go when somebody stands in the outline and says what the building was for. Four stones to thirty-one in nine years. The vault cannot affect the demolition programme and has stopped writing to it. What it can do is keep the outline empty and read the memorial, which costs twenty minutes and is the only thing on record that has ever reduced the count.
 
 **Review requirement:** After every cycle: the stone count, the arrangement photographed against the old survey, every demolition in the city that fortnight, and any proposal touching the footprint. One standing item: proposals for the ground are reported to this station before approval, which has been agreed twice and honoured once.
 ## Watch Record
@@ -419,7 +427,7 @@ Near it, absent structures seem newly gone rather than long gone, and the effect
 
 The vault plates read 310 kilogrammes equivalent in the first annual series, 412 in the second and 560 in the third, against a room that contains nothing any other instrument can find. The series has been held against the stabilisation schedule, against the vault's own traffic, against the Alpha Tree's flows, and matches none of them. It matches the number of people displaced or materially harmed by a works decision in that year who lodged nothing afterwards — who had, on the record, no word of any kind about what was done to them.
 
-This Company does not consult. No person affected by a works decision is asked for their views, before it, during it or after it; no hearing is convened; no objection can alter a decision properly made on published criteria. Decisions are taken by the engineers on stated grounds, and the grounds, the assessment and the order are published in advance and in full. The rule was made for cause and the cause is not disputed. Consultation was used, for two generations, to put a signature of participation on decisions that had already been taken; attending cost a shift's pay; the people who spoke up were marked, and several were never employed in the district again. Worst of all, a sham consultation makes the people it consults complicit in what is then done to them. Abolishing it was honest and nobody has asked for it back.
+This Company does not consult. No person affected by a works decision is asked for their views, before it, during it or after it. No hearing is convened; no objection can alter a decision properly made on published criteria. Decisions are taken by the engineers on stated grounds, and the grounds, the assessment and the order are published in advance and in full. The rule was made for cause and the cause is not disputed. Consultation was used, for two generations, to put a signature of participation on decisions that had already been taken. Attending cost a shift's pay; the people who spoke up were marked, and several were never employed in the district again. Worst of all, a sham consultation makes the people it consults complicit in what is then done to them. Abolishing it was honest and nobody has asked for it back.
 
 Its consequence is that there is no moment, anywhere in the process, at which a person who is about to lose their home may say anything at all. The decision is correct, it is reasoned, it is published, and it is unanswerable — not because anyone refuses to answer, but because no channel has been built that could receive the question. The assessment in the commissioning file is sound. It has been checked three times. One hundred and forty people watched it be right about them.
 
@@ -429,7 +437,7 @@ Authorised Year 4233. After a works decision, anybody affected may lodge a writt
 
 For this demolition: 140 displaced, 31 statements lodged. The other 109 are absent from the record and will remain absent. Across the Company in Year 4237: 1,844 people affected by works decisions, 402 statements lodged, 1,442 nothing at all.
 
-The costs are not evenly spread. A statement must be written, and no scribe may be provided, because a person taking down another person's words is conducting an interview and an interview is a consultation; so the file belongs to those who write easily and the rest are silent in it forever. Because nothing follows from a statement, several of the 31 describe the arrangement in terms the Office has published unedited, one of them calling it a drawer for shouting into. And two engineers who read the file after a later demolition reported that they could not go on with the work; the Company's response was to confirm that reading is voluntary, which it remains, and the dissent files are, on the Office's own count, read about twice each.
+The costs are not evenly spread. A statement must be written, and no scribe may be provided, because a person taking down another person's words is conducting an interview and an interview is a consultation. So the file belongs to those who write easily and the rest are silent in it forever. Because nothing follows from a statement, several of the 31 describe the arrangement in terms the Office has published unedited, one of them calling it a drawer for shouting into. And two engineers who read the file after a later demolition reported that they could not go on with the work. The Company's response was to confirm that reading is voluntary, which it remains. And the dissent files are, on the Office's own count, read about twice each.
 
 The archivists asked for one change: that the engineers be required to read the relevant dissent file before taking a decision of the same kind. Refused, on the ground that dissent files are not decision documents. The minute records the request as modest, the refusal as procedurally correct, and the three Full Returns that have followed written proposals since.
 
@@ -450,7 +458,7 @@ A structure came down in the course of an Alpha Tree stabilisation and was treat
 - **Field detail:** Grudge, in a marked footprint on the floor of the Alpha Tree vault in Zone A, counted and photographed each cycle.
 - **Recognition detail:** Grey stone fused with blackened timber and the occasional gleam of bone in the mortar, resolving only while somebody is actively remembering it and hazing to dust when they stop.
 - **Record detail:** The Registrum named Pugnahan as valid against a Place that cannot be confronted and the activation record carried a Place-form heading on a Subject template. Both errors are listed here, uncorrected upstream, so that the next reader does not rediscover them as findings.
-- **Containment detail:** Nothing contains it. The outline is painted on a vault floor and the stones arrive inside it; the containment is an empty rectangle that the wing has undertaken to keep empty.
+- **Containment detail:** Nothing contains it. The outline is painted on a vault floor and the stones arrive inside it. The containment is an empty rectangle that the wing has undertaken to keep empty.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-240

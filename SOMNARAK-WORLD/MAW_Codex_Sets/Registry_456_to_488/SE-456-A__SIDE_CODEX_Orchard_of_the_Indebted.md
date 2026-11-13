@@ -20,11 +20,11 @@ Dark trees in Collector’s Row bear warm bitter fruit that fades just before ea
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Grudge |
-| Gauge / Pressure | 35–50% / 7–18 |
+| Gauge / Pressure | 000/660; starts 000% / Grudge — no attack pattern; the set count against the empty-stem count is the reading |
 | Observation | 2 |
 | Set | The Unclaimed Harvest |
 
-Only Viderehan and Ferrehan are valid. **Resolution:** acknowledge desire without promising fulfillment.
+Only Viderehan and Ferrehan are valid. **Resolution:** the desire acknowledged and no fulfilment promised, nothing picked, the set count and the stem count taken and reported side by side, and the gauge below 25%.
 
 ## M.A.W. SET — *The Unclaimed Harvest*
 
@@ -41,13 +41,3 @@ An echo forms after one desire is documented separately from debt, entitlement, 
 Charm names the desire, Plate protects the person from systemic Grudge, and Dagger reveals where debt hides the grief. The desire may remain legitimate even if fulfillment is unavailable. Promising harvest, monetizing the fruit, or calling desire itself debt makes every fruit vanish and transfers hunger to the operators.
 
 **Source:** `SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md`
-
----
-
-**Document ID:** `SE-456-A`  
-**Linked Entity:** `SE-456`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

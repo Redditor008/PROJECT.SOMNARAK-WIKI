@@ -22,7 +22,7 @@ The Tower formed from an Outside Sorrow settlement that never stopped mourning i
 | Type / Manifestation | Subject — Can breach / Subject-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Lament / Zone A, Alpha Tree vault |
-| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |
+| Gauge / Pressure | 000/415; starts 000% / 10–23 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city. |
 
@@ -40,7 +40,7 @@ The Tower formed from an Outside Sorrow settlement that never stopped mourning i
 
 ## WITNESS RECORD — *The Spire of Unanswered Prayer Source-Trace*
 
-During the The Spire of Unanswered Prayer Source-Trace, the field team preserved this source fact: A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of looking upward for rescue that never descended.
+During *The Spire of Unanswered Prayer Source-Trace*, the field team preserved this source fact: A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of looking upward for rescue that never descended.
 
 ## M.A.W. SET — *Spire of Unanswered Prayer — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Spire of Unanswered Prayer Source-Trace, the field team preserved
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Spire of Unanswered Prayer's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Listen to the song; do not silence it The set cannot heal the originating event. Misuse routes Spire of Unanswered Prayer's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-796-A`  
-**Linked Entity:** `SE-796`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

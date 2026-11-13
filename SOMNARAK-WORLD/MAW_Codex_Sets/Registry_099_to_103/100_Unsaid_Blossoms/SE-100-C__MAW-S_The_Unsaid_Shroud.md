@@ -20,7 +20,7 @@
 | Set | Last Sentences |
 | Type / grade / element | Suit / β — Moderate / Lament |
 | Status | Active; monitored for joy-numbing saturation |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Haneulash Yoon |
 | Resting form | A blue wrap with pale petal veins at the hem; the fabric remains dry despite a faint rain scent. |
 | Active form | The petals darken around the wearer’s shoulders, separating one arriving sorrow from the next. |
@@ -56,7 +56,7 @@ The Shroud grew from a cluster of fallen petals after a visitor stayed beneath t
 
 ### Appearance
 
-The Unsaid Shroud is a pale blue shroud of soft Han silk cut to hang over the shoulders and chest in loose, layered folds, each fold carrying a single upright petal vein. The inner lining is smooth and cool, and the hem is heavier than the rest of the cloth because it holds the unsaid words the wearer has allowed to wait. The wrap fastens at the throat and can be loosened by the wearer alone. When a boundary phrase passes through the fabric, the hem absorbs one sudden Lament surge without turning the wearer into stone. If the phrase is used to manipulate or abandon another person, the fabric grows heavy and its protection returns to normal. Between uses the shroud hangs over an empty chair beside a blank page, never with a finished confession. Between uses the wrap is hung over an empty chair beside a blank page, and the bearer writes only a boundary, never a confession, before folding the page away.
+The Unsaid Shroud is a pale blue shroud of soft Han silk cut to hang over the shoulders and chest in loose, layered folds, each fold carrying a single upright petal vein. Inside, the silk lies cool and flat against the shoulders, while the hem carries more of the cloth's weight than anything above it: it holds the unsaid words the wearer has allowed to wait. The wrap fastens at the throat and can be loosened by the wearer alone. When a boundary phrase passes through the fabric, the hem absorbs one sudden Lament surge without turning the wearer into stone. If the phrase is used to manipulate or abandon another person, the fabric grows heavy and its protection returns to normal. Between uses the shroud hangs over an empty chair beside a blank page, never with a finished confession. Between uses the wrap is hung over an empty chair beside a blank page, and the bearer writes only a boundary, never a confession, before folding the page away.
 
 ### Passive effect— *Layered Silence*
 
@@ -88,14 +88,3 @@ Yoon wore the Shroud during a memorial duty when a young responder began hearing
 The Shroud keeps *Sentence Finished* from becoming forced closure. The Requiem can reveal pressure and the Petal can carry one sentence, but this suit preserves a person’s right to speak later.
 
 > *“A safe pause is not the same as an endless postponement. The difference needs another person to see it.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-100-C`  
-**Linked Entity:** `SE-100`  
-**Item Registry Code:** `MAW-S-100-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

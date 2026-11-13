@@ -70,8 +70,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-C__MAW-S_Dead_Air_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-D__MAW-G_Dead_Air_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "reasoning": "Complete343-line primary and exact929A–D read. Hazard-Spirit and narrow particular grief are represented by subjective pressure in empty rooms, not an organic ghost; Whole chain includes fixed/barometric extent, recognition versus inference, six-hour watches and blank controls, adjacent-room expansion, generic combat, derived chair/oilcloth/calibration gear, paper-only pairings and Warden Record. Supported scope: non-corporeal label, expansion gloss, risk role, measurement distinction, Gauge-versus-extent and concrete witness/gear organisation.",
   "history": "Exact929A–D and registry1075–1078, archetype388 and disposition340 read. Primary/B γWeight14–25 Normal2 Short2 4/25 align; C L/G/V/W1/1/1.2/.3 4/20; DHead5%+1sourcework align. B headache differs primary unsolicited weight estimates; archetype MaulHead Room conflicts same Weapon blade Short. No dedicated Master exact-name match. Archived B43unit9 71d2695, B48unit6 quote and B50unit10 prose entries read; they do not establish unique equipment credit. No fresh eligibility proof, so +0/+0 conservatively withheld, not asserted already counted.",
@@ -94,8 +94,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-C__MAW-S_Dead_Air_s_Veil.md": "a1790cf923efdc8059d4fdc59dc5268364290d03dcaf3bf306dbfb1b1d9ea7b3",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-D__MAW-G_Dead_Air_s_Token.md": "491d6d4bed3a0307803c01e0f01dd7ee202dce4d5e9ef8ca5fec86400f330abc",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Rebirth Fang
 
-> *“The Rebirth Fang remembers Ember Phoenix; the bearer must not mistake memory for permission.”*
+> *"It strikes from the last death it survived, and the wielder fights with the memory of being killed."*
 
 ---
 
@@ -17,7 +17,11 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Ember Phoenix's grudge signature in the strike.  
-**Binding rule:** the bearer names Ember Phoenix's event—A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.—and accepts this limit: Allow the cycle to finish; forced extinguishing causes violent rebirth
+**Binding rule:** the bearer names Ember Phoenix's event — “A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.” — and accepts this limit: Allow the cycle to finish; forced extinguishing causes violent rebirth
+
+### Appearance
+
+An ornate bronze hand-culverin whose flared muzzle is cast as a screaming phoenix head, red copper filigree worked along the barrel. The tiller stock is cherry wood, scorched black at the wrist, and the piece stays warm long after it has been fired.
 
 ## CORE STATISTICS
 
@@ -25,16 +29,20 @@
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Ember Phoenix's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Fang strikes from the last death it survived: each blow puts the wielder back at the moment it ended, the same injuries at the same depth and no way to arrive before them. Wielded long, they fight with the memory of being killed.
 
 ## ITEM-SPECIFIC HISTORY — *The Ember Phoenix Source-Trace: Weapon Record*
 
-The first The Rebirth Fang field bearer encountered this source response: It attacks in a blazing dive. The weapon discharges the immediate hazard only after the team attributed it to Ember Phoenix. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rebirth Fang encountered this source response: It attacks in a blazing dive. The weapon discharges the immediate hazard only after the team attributed it to Ember Phoenix. A wielder fought from the moment they had been killed in and could not arrive any earlier in it, and the Fang’s binding is the incident record of that death.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Ember Phoenix's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the ending arrives before the blow, and the wielder’s injuries are at the depth they were on the day it ended.
 - Terminal state: Ember Phoenix's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Allow the cycle to finish; forced extinguishing causes violent rebirth” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +51,4 @@ The first The Rebirth Fang field bearer encountered this source response: It att
 
 ## SET RELATIONSHIP
 
-Within *Ember Phoenix — Witnessed Form*, The Rebirth Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1019-B`  
-**Linked Entity:** `SE-1019`  
-**Item Registry Code:** `MAW-W-1019-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Ember Phoenix — Witnessed Form*, The Rebirth Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow struck from a moment the wielder survived past.

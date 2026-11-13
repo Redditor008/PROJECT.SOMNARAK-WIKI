@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | **Total Sorrow Entities (`SOMNARAK-WORLD/Sorrow_Entities/`)** | **290** | 100% Individualized & Audited |
 | **Relic-Entities (Object/Place/Time Work Entities)** | **88** | 30.34% (Quota >= 25.0% PASS) |
-| **Two-Work-Type Rule Compliance (Non-Subject Entities)** | **156 / 156** | **100.0% Compliant** |
+| **Handling Process adopted (`R-40`, Relic Entities)** | **141 / 88** | **160.23% Converted** |
 | **Core Stat Line Compliance (Speed, Gauges, Resistances)** | **290 / 290** | **100.0% Compliant** |
 | **Unknown Entities (`SOMNARAK-WORLD/Unknown_Entities/`)** | **12** | Standardized |
 | **Hope Transformations (`SOMNARAK-WORLD/Hope_Transformations/`)** | **14** | Standardized |
@@ -30,7 +30,7 @@
 | **Mnemonic Cycles** | **1,778 Cycles** | Canonical Absolvohan History |
 | **Tactical Game Battle Scenarios & Systems** | **17 Scenarios** | `GAME_BATTLE/` |
 | **M.A.W. Codex Sets** | **42 Sets** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
-| **M.A.W. Equipment Profiles** | **1165 Markdown Dossiers** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
+| **M.A.W. Equipment Profiles** | **1150 Markdown Dossiers** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
 | **M.A.W. Complete Quadripartite Sets** | **198 / 198 Complete Sets** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
 | **Specialist Cadres** | **10 Cadres** | `SOMNARAK-WORLD/Master_Codices/` |
 | **Underworld Syndicates of The Raw** | **5 Syndicates** | `SOMNARAK-WORLD/Master_Codices/` |
@@ -46,9 +46,9 @@
 
 | Repository Scope | Programmatic File Count |
 | :--- | :--- |
-| **`SOMNARAK-WORLD/` Subtree** | **1896 files** |
+| **`SOMNARAK-WORLD/` Subtree** | **1884 files** |
 | **`docs/` Publishing Subtree** | **4 files** |
-| **Total Non-Git Repository Files** | **2615 files** |
+| **Total Non-Git Repository Files** | **3183 files** |
 
 ---
 

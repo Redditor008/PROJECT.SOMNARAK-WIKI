@@ -1,0 +1,128 @@
+{
+  "designation": "C-IIIγ-021",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md",
+  "words": 7946,
+  "sha256": "a4bb66fce51cfae4067bbc5b8252888cea59a48b4a3f0ded52fb181a821d4688",
+  "unit": 2,
+  "name": "The Hollow Choir",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_02_THE_HOLLOW_CHOIR.md",
+  "before_words": 7946,
+  "after_words": 8087,
+  "base": "c7e02247a8e119740fe73107ceeae71788c8a86a",
+  "final_sha256": "10f963e931a9481c04065bc0ad80d2fb7f65d4362949406ebea85b577bbc2043",
+  "summary": "Three source-supported repairs (1 short / 2 careful): the Broken Harmony stops cutting a 'wound of wrong notes' — emotional pressure is the hazard here and the file's only bodily injuries came from its own prohibited Pugnahan attempt — and the Anthem no longer sings 'the whole tragic song at last, from the first line to the last', against the holding's central record that no song has ever finished; all twelve groups now sound at once and every line still breaks. Entry 5's generic 'entity is its exoskeleton' diagnosis is replaced by the sittings-register finding. Fresh credit +0/+0: the in-file M.A.W. Cross-Source Review — Batch 111 is the coverage event. Whole design HELD.",
+  "commentary": "A file whose argument is that the second silencing is the lawful one deserved a combat table that knew its own rule: nothing here finishes. The Anthem row finished everything at once, which is precisely the act every escalation on this record followed somebody attempting. The repairs leave the pressure where the file puts it — in recognition, in the lost ends of sentences — and give Entry 5 the register's numbers instead of a diagnosis metaphor. Batch 111 already dispositioned the weapon and Stigma costs against the items, so the counters stay where they were.",
+  "reasoning": "Set SE-021 identity resolved from Side A (SECC Designation C-IIIγ-021 [LS], 'Silenced Set') and item codes MAW-W/S/G-021-01; Registry rows 50–53. Sentence triage: consequences (recognition failure, unfinished sentences, Transform), overlap doctrine, sittings/claim/redacted-reading Warden Record and flavor are holding-specific; defects were the Broken Harmony wound (against 'Emotional pressure is the hazard and volume is not' and a harm record whose only bodily injuries are the two perforated eardrums from the facility's single prohibited Pugnahan attempt), the Anthem's completed song (against 'No recorded cycle has finished a song' and the do-not-complete rule), and Entry 5's stock exoskeleton line. R-18 split declared before the apply: 1 short / 2 careful. Digits unchanged.",
+  "history": "Fresh credit barred by the in-file **M.A.W. Cross-Source Review — Batch 111**, which dispositions the Weapon (primary vs SE-021-B figures agreeing; grief-reversal vs sentence-completion costs unreconciled; archetype MAW-W-021 Rapier/Close not crosswalked) and the Stigma (feelings-return conditions held apart; Tail/4%/+2 against the Registry's generic fields). This review re-read Side A (104 lines) and items B/C/D whole (51/53/50 lines), confirmed identity and those holds, and appends NO equipment entry. Types +0, Weapon +0, SE +0; counters stay 280/301, 278/287, 18/301.",
+  "holds": [
+    "Weapon cost fork, as Batch 111 left it: primary unaccounted grief/weeping reversing on return vs item sentence-completion toll released by an honest statement — co-occurrence unstated; item history (a Council hearing hearing a protest song's final line) stands against the primary's no-finished-song record, unmerged.",
+    "Suit appearance/function: primary cool luminous wrapping shroud taking the edge off the wearer's voice vs item deep-blue song shroud at throat/shoulders that preserves the wearer's speech and replays blocked lines in sleep (0.4/1.0/1.6/0.8, 3, 35 agree).",
+    "Stigma recovery fork (Batch 111): primary/Master — feelings return when the performance ends; SE-021-D — only when another person speaks or sings the line back; appearance (primary light-throwing lyre vs item five-stringed lyre with a missing sixth) held with it.",
+    "Side A trigger table calls the Anthem 'one full grief sequence' under Commanded Performance vs the primary's never-finished record — Side line not imported; the primary's repaired row keeps the command trigger and the breaks.",
+    "The 61 Archive-absent and 9 Archive-contradicted particulars, the unadjudicated 19 double identifications, and the never-laid uncertified-reading proposal remain the file's open record."
+  ],
+  "split": [
+    1,
+    2
+  ],
+  "repairs": [
+    {
+      "id": "R1-broken-harmony-wound",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Broken Harmony* [**Attack**] } | \"The chord splits apart and cuts.\" | [A discordant strike — the Choir's harmony fractures into a jagged wave.] | *Inflicts Lament pressure and one wound of wrong notes.* **[14-22 Lament DMG [Lament]]** | When the Choir is interrupted. |",
+      "new": "| { *The Broken Harmony* [**Attack**] } | \"The chord splits — and what it opens is not skin. It is the place where you were about to finish a sentence.\" | [A discordant strike: the harmony fractures and the break lands as pressure on the Mind, the only kind this holding has. Bodily injury on this file belongs to one prohibited experiment, not to the Choir.] | *Inflicts Lament pressure; the worker loses the end of what they were saying and remembers having been about to say it.* **[14-22 Lament DMG [Lament]]** | When the Choir is interrupted. |"
+    },
+    {
+      "id": "R2-anthem-finished-song",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Anthem* [**Attack**] } | \"They sing the whole tragic song at last — every voice, every loss.\" | [Every group takes the whole work at once, from the first line to the last, and the room is inside it while it lasts.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Choir is moved or commanded. |",
+      "new": "| { *The Anthem* [**Attack**] } | \"Every group at once — and still nothing ends. A hundred and forty-four beginnings, all breaking where they always break, together.\" | [All twelve groups sound simultaneously; no song has finished in the recorded life of this holding, and none finishes here. What overwhelms is the simultaneity of the breaks.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Choir is commanded — every escalation on file followed an attempt to finish the song or to stop it. |"
+    },
+    {
+      "id": "R3-entry5-exoskeleton",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this location, permanent as the Weeping, and the entity is its exoskeleton.",
+      "new": "Two hundred and twelve sittings have been held, and they produced sixty-one identifications, nineteen of them contradicted by another family naming the same voice differently. The wing's own assessment puts the number it would rely on at none. We can say there are a hundred and forty-four people in this room. We have not been able to tell one family, with confidence, which one is theirs — and the claims died with the people they belonged to, which is the second silencing, and it is lawful, and it is ours."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.022  clean   677 grams  M.A.W. Equipment\n 0.017  clean   587 grams  Combat Record\n 0.014  clean   215 grams  Trivia\n 0.013  clean   159 grams  Operational Parameters\n 0.010  clean  1355 grams  Warden Record\n 0.010  clean   294 grams  기록 (Registrum)\n 0.007  clean   276 grams  관찰 기록 (Observation Log)\n 0.006  clean   160 grams  Behavior\n 0.003  clean   695 grams  감각 묘사 (Flavor Text)\n 0.000  clean   429 grams  이야기 (Narratio)\n 0.000  clean   237 grams  Appearance\n 0.000  clean   187 grams  이야기 보고 (Story Log)\n 0.000  clean   149 grams  최종 관찰 (Final Observation)\n 0.000  clean   135 grams  Containment Event Behavior\n 0.000  clean   133 grams  Origin\n 0.000  clean    59 grams  SECC Classification\n 0.000  clean    32 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   84   4  | { *The Anthem* [**Attack**] } | \"Every group at once — and still nothing ends. A hundred and forty-four beginnings, all breaking\n   85   6  | { *The Requiem* [**Ultimate**] } | \"Everyone sings — the dead, the lost, the ones who never finished.\" | [The overlap opens to a\n  154   1  The Hollow Choir is a Fragment (III) Subject of Major (γ) potency, Subject-Spirit manifestation, Lament expression, in the purpose\n  184   3  **Appearance:** a slender blade of Lament Han-crystal, cool and faintly luminous, that sounds a single sustained note when raised \n  197   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and carries the source's signature: the st\n  205   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that lies cold on the skin and takes the edge off\n  217   1  **Cost:** The wearer goes numb to small pleasures and does not notice it happening, which on this holding shows first in a report \n  223   2  **Appearance:** a tiny lyre of Lament Han-crystal, cool and faintly luminous, that throws light back at an angle no lamp is standi\n  250   1  | **At limit** | Duration, activations, attribute change, rejection signs, group pattern at withdrawal, and whether the bearer rec\n  279   2  **Observation method:** Log the groups, the breaks, the overlap, and the names. The form here is the sorrow and not a strategy: a \n  341   2  **Interaction procedure:** Solo baselines first, across several cycles, with group pattern, overlap and gauge established for each\n  379   1  - Flerehan is the primary Work Type and Ferrehan also lowers the gauge; Viderehan holds it level and Pugnahan is prohibited.\n  391   2  **Operational interpretation:** This file reads whole or not at all: the classification, the four Work Type responses, the overlap\n  450   6  The objection is minuted at every annual review and is raised by the roster rather than by any officer. It holds that the facility\n  452   8  The minute records the objection as **correct in all three parts**. It records that a proposal to permit an unredacted reading as \n  456   3  - The register keeps its own figures in numerals for look-up: gauge 726/726, pressure 15–33 per hit, resistance 35 / 25 per cent, \nGENERIC 0.009  (54 shared shingles)  SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-A__SIDE_CODEX_The_Hollow_Choir.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-B__MAW-W_The_Silenced_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-C__MAW-S_The_Silenced_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-D__MAW-G_The_Silenced_Lyre.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-A__SIDE_CODEX_The_Hollow_Choir.md": "5de7b6eb192f330e6d2012e4f112157c3ab1397f56e68567e6d6f74efedce8a6",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-B__MAW-W_The_Silenced_Requiem.md": "d833b47fb0e7b6ac3276f92a0ca129c635d8f0cba8ba18c01cd0514b6610820c",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-C__MAW-S_The_Silenced_Shroud.md": "90cea48934568f64fd458152ba81856c0539c61fb776e3ac0179f37e54541b9b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-D__MAW-G_The_Silenced_Lyre.md": "50374b1b88966809d600187fa987d3dd4510ce6be8d44420a702ab9afb27ced8",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-021_The_Hollow_Choir_%EB%B9%88_%ED%95%A9%EC%B0%BD%EB%8B%A8.md \"SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md\")]",
+  "table_link": "[The Hollow Choir](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-021_The_Hollow_Choir_%EB%B9%88_%ED%95%A9%EC%B0%BD%EB%8B%A8.md \"SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md\")",
+  "reading": {
+    "before_lines": 475,
+    "before_bytes": 48357,
+    "final_lines": 475,
+    "final_bytes": 49183
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 63,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

@@ -20,7 +20,7 @@
 | Set | Borrowed Absence |
 | Type / grade / element | Suit / β — Moderate / Void |
 | Status | Active; paired deployment only |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | A folded sheet of near-transparent Han-gossamer, cool at the collar and too light to feel until it moves. |
 | Active form | It hangs around the wearer like a displaced afterimage; observers see the space beside them before they see the wearer. |
@@ -56,7 +56,7 @@ The Veil formed during the same voluntary cache-route exchange that produced the
 
 ### Appearance
 
-The Shadow Veil is a pale gossamer veil of fine Han thread, drawn over the head and shoulders in a single loose drape that ends at the collarbone. It is almost invisible in a still room and gathers a faint grey texture under Void pressure. The inner thread, written in the wearer's own hand, is threaded through the collar and holds the bearer's name and task; it glows faintly while the veil is active. Unfocused attention skims past the wearer, and the cloth provides strong Void resistance by turning an invasive recognition pull into a brief lack of notice. When a paired witness calls the name and touches the thread, the veil pulls the wearer back into shared recognition. If the wearer refuses the call, the cloth stops protecting and every resistance value reverts to normal. The veil is laid flat between shifts, and the inner thread is kept loose so that a partner can always read the wearer's name and task.
+The Shadow Veil is a pale gossamer veil of fine Han thread, drawn over the head and shoulders in a single loose drape that ends at the collarbone. In a still room it can be looked straight through, and under Void pressure it thickens to a grey that can be seen from across a ward. The inner thread, written in the wearer's own hand, is threaded through the collar and holds the bearer's name and task; it glows faintly while the veil is active. Unfocused attention skims past the wearer, and the cloth provides strong Void resistance by turning an invasive recognition pull into a brief lack of notice. When a paired witness calls the name and touches the thread, the veil pulls the wearer back into shared recognition. If the wearer refuses the call, the cloth stops protecting and every resistance value reverts to normal. The veil is laid flat between shifts, and the inner thread is kept loose so that a partner can always read the wearer's name and task.
 
 ### Passive effect— *Overlook*
 
@@ -90,14 +90,3 @@ Unfocused attention skims past the wearer. The Veil provides strong Void resista
 The Veil is the defensive portion of Borrowed Absence. With the Shadow Lens, it prevents a Void route from becoming a self-loss. With the Shadow Cloak, it makes concealment safer only when the return witness stays outside the hidden route.
 
 > *“This is not stealth gear. This is a memory hazard worn as cloth.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-077-C`  
-**Linked Entity:** `SE-077`  
-**Item Registry Code:** `MAW-S-077-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

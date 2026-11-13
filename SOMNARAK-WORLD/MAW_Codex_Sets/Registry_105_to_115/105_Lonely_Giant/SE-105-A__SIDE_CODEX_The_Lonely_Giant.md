@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-105 [WS]`  
 **Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Zone D route-and-sitting agreement
 
@@ -61,10 +61,10 @@ The Giant’s body is large enough to damage a district by accident, yet its rou
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Sits and allows a worker to approach. | Down | Approach only from an established route and never request the Giant make itself smaller. |
+| Flerehan | Sits and allows a worker to approach. | Decrease | Approach only from an established route and never request the Giant make itself smaller. |
 | Pugnahan | Retreats to avoid causing harm. | Stable | Do not turn retreat into a chase or proof of guilt. |
 | Viderehan | Permits distant study of tears and movement. | Stable | Use structural observers; no drones may fly close to the face. |
-| Ferrehan | Sits nearby while a worker bears immense emotional weight. | Down | The worker must have a low-traffic place to leave their own weight afterward. |
+| Ferrehan | Sits nearby while a worker bears immense emotional weight. | Decrease | The worker must have a low-traffic place to leave their own weight afterward. |
 
 ### Route emergency
 
@@ -169,13 +169,3 @@ The set gives a bearer force, anchoring, and strength. Its danger is the inherit
 **Entity links:** The Kind Healer; The Forgotten Soldier; The Grieving Colossus; The Smothering Mother.  
 **Field distinction:** Route management is not imprisonment; the Giant is semi-contained because safe space is maintained, not because the city owns its movement.  
 **Item links:** `SE-105-B`, `SE-105-C`, and `SE-105-D` contain the individual limits and bearer histories for Room to Stand.
-
----
-
-**Document ID:** `SE-105-A`  
-**Linked Entity:** `SE-105`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

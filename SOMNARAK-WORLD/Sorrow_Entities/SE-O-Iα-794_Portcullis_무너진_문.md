@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-794 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A collapsed door beneath layers of tunnel stone, its frame still upright while the door has fallen inward — a threshold broken from the inside. Salt-cold, it smells of cold rain; something fell through it long ago, and it never closed. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -28,73 +28,81 @@
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional — the Door works on the person standing at it, in the place they are trying to leave. |
-| **Starting Sorrow Gauge** | 25–40% — low end for watches opened by somebody who has not named anywhere else yet. |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 10–14 per completed cycle, taken at the threshold — never counted inside the tunnel. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the wall** — It has never opened and the mechanism has never been the reason. The hinges turn; there are several metres of tunnel on top of the leaf. |
+| **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a Door settled for a while, with the stone never lifted. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) — what comes off the frame when the ruin is finally cleared, and nothing from the leaf. |
-| **Recommended response** | Viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim — and that is the entire cycle: the Work Types hold the frame, and it is the condition that does the work. |
+| **Recommended response** | Viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact. And the transcript taken verbatim — and that is the entire cycle: the Work Types hold the frame. And it is the condition that does the work. |
 
 ### Operational Notes
 
-- A completed cycle settles the Door for a while. It does not lift the stone, it does not raise the fallen leaf back into its frame, and it does not reach anyone on the far side; nothing about this entity is reversible and personnel should not work it expecting otherwise.
+- A completed cycle settles the Door for a while. It does not lift the stone, it does not raise the fallen leaf back into its frame, and it does not reach anyone on the far side. Nothing about this entity is reversible and personnel should not work it expecting otherwise.
 - The Door has no breach counter and nothing to escape through. What it has is a trigger that any person can pull by accident, at any moment, simply by saying aloud where they would rather be.
-- A yield of 10–14 against Low difficulty makes this a routine assignment, and routine is the hazard: the Door is worked often, by junior personnel, in a tunnel they are walking through anyway, under exactly the conditions in which someone mentions wanting to go home.
+- A yield of 10–14 against Low difficulty makes this a routine assignment. And routine is the hazard: the Door is worked often, by junior personnel, in a tunnel they are walking through anyway, under exactly the conditions in which someone mentions wanting to go home.
 - Extraction requires naming a destination and meaning it, which is the deliberate performance of the act that formed this entity. It is scheduled separately, with a named relief, and the destination chosen is logged in advance and reviewed.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | Reads 15% against Lament pressure and 5% against everything else; the ruin takes nothing on the frame itself, and both figures come off the collapse rather than the leaf. |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 198/198 |
-| **Han Pressure [ATK]** | 3–10 per hit · Lament — measured at the threshold, where the readings above are taken, and never inside the tunnel. |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 25–40% — the low end belongs to watches opened by somebody who has not yet said where they would rather be. |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, deep tunnels |
-| **Resolution Condition** | Viderehan and Ferrehan only, and the gauge below 25%: the fall of the gauge and the end of the recitation arrive together on the Door, and no watch has logged one of them without the other. |
+| **Length** | **240** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 240 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
 
-### Combat Actions
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Splintered Frame* [**Debuff**] } | "The door is gone — but the frame remains, and the frame remembers everyone who passed through." | [The Door's ruins resonate with the target's own broken thresholds.] | *Target suffers -10 Composure; a passage they needed is closed forever.* **[10 Lament DMG [Lament]]** | When the target approaches the ruin. |
-| { *The Blocked Path* [**Debuff**] } | "You need to get through — and you cannot. The collapse is absolute." | [The Door's wreckage blocks the target; frustration and grief build.] | *Target loses 10 Composure; the way is truly gone.* **[10 Lament DMG [Lament]]** | When the target tries to pass. |
-| { *The Falling Debris* [**Attack**] } | "The frame gives way further — and the splinters are sharp." | [A shower of collapsed door-fragments strikes.] | *Inflicts Lament pressure and one jagged, splintering wound.* **[14-22 Lament DMG [Lament]]** | When the ruin is disturbed. |
-| { *The Crushed Threshold* [**Attack**] } | "The whole frame comes down, and with it goes the last chance of getting through." | [The full collapse of the leaf buries whoever is standing in the opening.] | *A heavy Deep Blue burial; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the ruin is made to give. |
-| { *Every Door Falls* [**Ultimate**] } | "Every threshold in the building comes down, and after that there is no through at all." | [The ruin runs from threshold to threshold until it owns every passage.] | *Everyone in range takes Lament pressure for three turns, with nothing left to cross.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+The gauge is read at the instrument. The cost is read on the person.
 
-### Battle Phases
+## Contact Record
 
-1. **Tension:** The team locates the fallen leaf beneath the tunnel stone, confirms the frame is still standing and the hinges still seated, and agrees before entering that no place-name will be spoken for the duration of the cycle.
-2. **Clash:** Ten turns at most, and the Door does not strike at anyone. It shows the route and the people beyond it, and the engagement is decided by whether the party keeps working at a threshold they cannot cross or stops to look through it.
-3. **Resolution:** The cycle is complete once the party has held position at the blocked threshold for its full duration without anyone naming somewhere else, and the gauge settles back beneath 25%.
+> **Why this file has no combat actions.** The Portcullis is a fallen leaf under a tunnel stone with its frame still standing and its hinges still seated. Nothing has fallen here in sixty years of measurement and the survey resolves a millimetre. The file's own phases say the Door does not strike at anyone. What it does is hold a threshold that will not open and make the people standing at it say where they would rather be.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A fallen leaf beneath the tunnel stone, a square frame above it, hinges seated and the mechanism still working |
+| **Perceptible to** | The gap first — a threshold that is not passable and not damaged — and then the route and the people beyond it |
+| **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
+| **Sorrow Gauge [Depth]** | **000 of 240** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone B, deep tunnels |
+| **Resolution Condition** | The party holds position at the blocked threshold for the full duration without anyone naming somewhere else, and the gauge settles back beneath 25% |
+
+
+### Contact Events
+
+| Event | What the threshold does | What the party carries out | Reading |
+|---|---|---|---|
+| { *The Seated Frame* [**Register**] } | Stands square over the fallen leaf with its hinges seated and its mechanism working. It does nothing with any of that and has not in sixty years. | The confirmation that the door is not broken — that it is closed — which is the worst of the finding and the file says so. | Nothing falls and nothing comes down; the frame is what it was on the day of the collapse. |
+| { *The Route Beyond* [**Exposure**] } | Shows the route through and the people on the other side of it, to everyone at the threshold and without being asked. | A way through that cannot be walked and people who cannot be reached, held in view for as long as the party stands there. | There is no locator roll and no choice about who sees it; the showing is the whole of the exposure. |
+| { *The Place-Name* [**Contagion**] } | Nothing moves. What spreads is a sentence: somebody in the response says a place-name aloud, the way people do in emergencies. | A recitation owed, and a threshold that will not open until it is done without anyone naming somewhere else. | The spread is verbal and cannot be recalled; the file's own warning is that the safest-sounding name is still a name. |
+| { *The Waiting Area* [**Attachment**] } | Does nothing further. It keeps being there, and it keeps being a place where people wait. | A worker who stays too long stops treating the Door as an assignment and starts treating it as a waiting area — the recorded risk is remaining, not injury. | Nothing accumulates in the wreckage. What accumulates is the number of people who have stood in front of it and said a name out loud. |
+
+### Watch Sequence
+
+1. **What is confirmed:** the fallen leaf beneath the tunnel stone, the frame still standing, the hinges still seated — and an agreement, made before entering, that no place-name is spoken for the duration.
+2. **What the watch does:** the Door shows the route and the people beyond it and strikes at nobody. The watch is decided by whether the party keeps working at a threshold it cannot cross or stops to look for somewhere better.
+3. **How it closes:** the full duration is held without anyone naming somewhere else, and the gauge settles back beneath 25%.
 
 ### Consequences
 
-- A worker who gives way under the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Prolonged exposure does not intensify the effect so much as fix it in place. A worker who stays too long stops treating the Door as an assignment and begins treating it as a waiting area, and the recorded risk — remaining psychologically at the threshold — describes a person who continues reporting for shifts, performing duties, and quietly expecting to be let through.
-- Every piece cut from the Door charges in the same coin. The jamb-knife levers things open and leaves its wielder weeping; the shroud holds composure and flattens every small pleasure; the Key opens one blocked passage for a few seconds and hands the bearer the departure of everyone who ever waited behind it. The Door gives passage and takes the people.
+- A worker who gives way under the entity's sorrow does not channel anything anywhere; they stay. Clarity erodes by the seconds the memory held — timed by the relief, growing longer every year — and the gauge follows the transcript.
+- Prolonged exposure does not intensify the effect so much as fix it in place. A worker who stays too long stops treating the Door as an assignment and begins treating it as a waiting area, and the recorded risk is remaining psychologically posted to a threshold that will not open.
+- Every piece cut from the Door charges in the same coin. The jamb-knife levers things open and leaves its wielder weeping. The shroud holds composure and flattens every small pleasure. The Key opens one blocked passage for a few seconds and is not carried twice.
 - Unworked, nothing ruptures. The Door stays exactly as it is, which is the condition it has held since the collapse, and the only thing that accumulates is the number of personnel who have stood in front of it and said a name out loud.
 
 ## Appearance
@@ -116,7 +124,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A collapsed door lying beneath layers of tunnel stone. Its frame remains upright while the door itself has fallen inward. |
-| **Position / movement** | Fixed under collapsed tunnel stone with the frame still upright and plumb; the leaf lies fallen inward and has never been observed to shift, settle further, or move on its hinges. |
+| **Position / movement** | Fixed under collapsed tunnel stone with the frame still upright and plumb. The leaf lies fallen inward and has never been observed to shift, settle further, or move on its hinges. |
 | **Material / signature** | Lament. Salt-cold stone, cold rain on the air, sound deadened by the fall, and a light in the frame that appears at a word and at nothing else. |
 | **Distinctive markers** | Frame alignment, hinge pins, stone depth over the leaf, and the duration in seconds of any memory that opens. |
 | **Identification** | Look at the frame. Every other collapse in these tunnels took its frame down with it; this one is square. |
@@ -128,39 +136,26 @@
 - **The Sorrow:** Not being shut out and not being shut in. Being on one side of something at the moment it stopped, with nobody at fault and therefore nobody to go to.
 - **The Event:** A tunnelling programme and an evacuation order, each correct, each within its own remit, meeting at one doorway in the Zone B deep tunnels on the same afternoon.
 - **The People:** Two groups rather than one — those who were leaving when the tunnel came down, and those who had already gone ahead and stood waiting on the other side of it. The record does not establish which of them this entity belongs to, and personnel should resist the urge to settle the question.
-- **Expanded origin context:** The inquiry papers are complete and they acquit everybody, correctly. The tunnelling office was driving a heading it was authorised to drive, to a programme approved three years earlier, with the loads calculated by the method then in use. The movement office was clearing the deep workings on a warning it was obliged to act on, by the route the standing plan specifies, which runs through that doorway. Neither office knew what the other was doing, and neither was required to: an office answers within its own remit and for nothing outside it. The heading took the roof; the roof took the stone; the stone came down on a door that was standing open with people still coming through it and people on the far side waiting for them. The finding is one sentence long and says that no act outside any office's remit occurred. The frame is still square. The hinges still work.
+- **Expanded origin context:** The inquiry papers are complete and they acquit everybody, correctly. The tunnelling office was driving a heading it was authorised to drive, to a programme approved three years earlier, with the loads calculated by the method then in use. The movement office was clearing the deep workings on a warning it was obliged to act on, by the route the standing plan specifies, which runs through that doorway. Neither office knew what the other was doing, and neither was required to: an office answers within its own remit and for nothing outside it. The heading took the roof; the roof took the stone. The stone came down on a door that was standing open with people still coming through it and people on the far side waiting for them. The finding is one sentence long and says that no act outside any office's remit occurred. The frame is still square. The hinges still work.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A fallen leaf beneath the tunnel stone, a square frame above it, hinges seated and the mechanism still working. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | The route past the doorway and the people on it, standing where they stood, waiting. Gauge holds; the Door neither resists the looking nor gains from it. | Stable |
-| **Ferrehan** | Standing at a threshold that will not open, for the length of the cycle, without forcing it and without walking away. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the fallen leaf beneath the tunnel stone, the frame still standing, the hinges still seated — and an agreement, made before entering, that no place-name is spoken for the duration. |
+| **Handling** | The Door shows the route and the people beyond it and strikes at nobody. The watch is decided by whether the party keeps working at a threshold it cannot cross or stops to look for somewhere better. — see `## Handling Process` |
+| **Withdrawal** | The full duration is held without anyone naming somewhere else, and the gauge settles back beneath 25%. |
+| **Refusal** | Nothing that would meet the activation — sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number — is done on purpose. |
 
-
-### Operational Work Notes
-
-The table means nothing without its frame. Element, coherence and manifestation each bend how a Work Type lands on this sorrow. Portcullis stands as an Object/Place with Object-Weight manifestation and Lament in its element, filed in the deep tunnels of Zone B; nothing is inherited from a holding with a similar name, and the tunnel's own neighbours are set out in their own section. A level gauge is no proof of a harmless hour either — the figure can sit still while the worker is reached through memory, through the ground, or through what they believe they are.
-
-**Reading the response:** Viderehan holds the gauge level. Looking reveals the people and the route beyond the door, and the Door neither resists the looking nor benefits from it — being seen was never the problem, since everyone involved could see perfectly well what was on the other side. Ferrehan lowers the gauge, because enduring here means remaining at a blocked threshold without forcing it and without leaving it: standing where the waiting happened, for the length of the cycle, on purpose. A falling gauge means a worker has managed that. A rising gauge, in nearly every logged case, follows a worker trying to help — clearing stone, testing the frame, or promising the Door something — and the attempt is understandable enough that it should be recorded without censure and corrected without delay.
 ## Activation Behavior
+
+> **Special activation — no counter.** A structure stands where it is, and the trigger is a destination said aloud at the threshold rather than a count.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Touching the fallen door while naming a destination.
-
-**Effect:** A short passage opens into the memory of the place named — the memory only, never the place, and never for anybody but the speaker.
-
-**Duration:** Until the memory fades.
-
-**Risk:** The operative may stay at the threshold inwardly after the light has gone, and talking them back out is the relief's job and the reason a relief is named beforehand.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -170,7 +165,7 @@ The table means nothing without its frame. Element, coherence and manifestation 
 | **Activation** | Touching the fallen door while naming a destination. |
 | **Primary Effect** | A memory of the named place, held open for as long as it holds and no longer. |
 | **Duration** | Until the memory fades. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols. Returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | Psychological arrest at the threshold; two cases in the medical record, both resolved by the named relief, neither within the same shift. |
 
 **Operational Rule:** The relic requires contact and a spoken destination; it cannot be activated silently, and it cannot be activated for someone else. It opens into the memory of a place and never into the place, so it confers no transit, no retrieval and no containment authority. Viderehan and Ferrehan remain the only valid responses.
@@ -179,14 +174,14 @@ The table means nothing without its frame. Element, coherence and manifestation 
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Nothing in the ruin moves until an operative takes it up. On contact the Lament in the leaf settles onto the bearer's pulse and stays there. | Taking it up opens the memory of the destination that was named aloud: the passage shows, holds, and asks nothing of the bearer yet; +10% Lament resistance while it is carried. |
-| 30 Seconds | The leaf was made the moment a departure was interrupted. The bearer begins hearing the tunnel as it was: the stone coming down with people still on the far side of it. | The operative works faster and sees the present tunnel more sharply than the relay does; the cost is composure, and it starts being paid at this mark without announcing itself. |
+| 10 Seconds | Nothing in the ruin moves until an operative takes it up. On contact the Lament in the leaf settles onto the bearer's pulse and stays there. | Taking it up opens the memory of the destination that was named aloud: the passage shows, holds, and asks nothing of the bearer yet. +10% Lament resistance while it is carried. |
+| 30 Seconds | The leaf was made the moment a departure was interrupted. The bearer begins hearing the tunnel as it was: the stone coming down with people still on the far side of it. | The operative works faster and sees the present tunnel more sharply than the relay does. The cost is composure, and it starts being paid at this mark without announcing itself. |
 | 1 Minute | By the minute the leaf is drawing on the bearer directly, and their breathing has come into step with the grief the tool was cut from. | Held past 60 seconds, the toll is 5 Lament every 15 seconds, and the watch is posted for one sign in particular: the operative no longer able to describe the tunnel they are standing in. |
-| 2 Minutes | Past two minutes the bearer is no longer carrying the grief; they are standing where it stood, and the line between the operative and the collapse stops being a line at all. | Beyond two minutes, or a break of contact before the recitation closes, the bearer arrests at the threshold; getting them back is the named relief's work — talking, by name and by destination, never by force. |
+| 2 Minutes | Past two minutes the bearer is no longer carrying the grief. They are standing where it stood, and the line between the operative and the collapse stops being a line at all. | Beyond two minutes, or a break of contact before the recitation closes, the bearer arrests at the threshold. Getting them back is the named relief's work — talking, by name and by destination, never by force. |
 
 ### Escalation Notes
 
-Escalation here has one shape and is not the standard breach event: the door begins to remember a second destination. The watch logs the first trigger, the change to the Object-Weight form itself, the range at which the effect begins, and the line where the resonance settles. Lament is the element and the deep tunnels of Zone B the post, so emotional and behavioural indicators are written in beside the physical telemetry.
+Escalation here has one shape and is not the standard containment event: the door begins to remember a second destination. The watch logs the first trigger, the change to the Object-Weight form itself, the range at which the effect begins, and the line where the resonance settles. Lament is the element and the deep tunnels of Zone B the post, so emotional and behavioural indicators are written in beside the physical telemetry.
 
 **Response sequence:** Control speech before you control the ground. The activation condition for this entity is a named destination spoken aloud at the threshold, which means the ordinary language of an emergency response — ordering personnel back to the surface, calling a muster point, telling someone to get home — is itself the trigger. Responders use designations and directions only: *back along the tunnel*, *to the marker*, *to me*. Then establish who touched the leaf, how long the memory held, and whether it has faded. Do not attempt to clear the stone. The collapse is not debris; it is the entity.
 
@@ -198,7 +193,7 @@ Escalation here has one shape and is not the standard breach event: the door beg
 | **Manifestation** | Object-Weight |
 | **Primary effect** | A brief opening into the memory of the named destination, timed by the relief from the moment the frame lights. |
 | **Duration / rate** | Until the memory fades. |
-| **Risk** | Minor (α) Object-Weight producing Lament pressure. The operative may remain at the threshold in themselves after the memory closes; two cases are in the medical record and both required a named relief to talk them out. |
+| **Risk** | Minor (α) Object-Weight producing Lament pressure. The operative may remain at the threshold in themselves after the memory closes. Two cases are in the medical record and both required a named relief to talk them out. |
 | **Management** | Viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim. |
 
 **Activation reporting order:** the destination as it was spoken, verbatim → the light's appearance in the frame → what the memory showed → how long it held → whether the operative could describe the present tunnel while it held. The spoken phrase is transcribed word for word and never paraphrased, because this entity responds to naming and a report that records *the operative named a location* has deleted the only variable that matters.
@@ -210,7 +205,7 @@ Escalation here has one shape and is not the standard breach event: the door beg
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A rugged six-inch utility knife forged from a demolished building's door hinge, featuring an offset chisel tip, serrated thumb ramp, and an unvarnished oak handle bound with steel wire.
+**Appearance:** A rugged six-inch utility knife forged from a demolished building's door hinge, featuring an offset chisel tip, serrated thumb ramp, and an unvarnished oak handle bound with steel wire.
 
 Designed to lever open stuck door jambs and pry apart armored joints, the knife resists heavy torque without bending. In close scuffles, the square chisel tip delivers brutal puncture wounds.
 
@@ -222,12 +217,12 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** The full figure against one target and nothing beyond them; the knife is a prying tool worked at arm's length, and like the frame it was cut from it admits one at a time.
-**Damage Application:** Score the puncture once, then score the forced joint again on each following turn as the levered wound keeps working open; the two resolve as separate events against the same resistance.
+**Falloff Rule:** The full figure against one target and nothing beyond them. The knife is a prying tool worked at arm's length, and like the frame it was cut from it admits one at a time.
+**Damage Application:** Score the puncture once, then score the forced joint again on each following turn as the levered wound keeps working open. The two resolve as separate events against the same resistance.
 
 **Ability:** Forged from a demolished building's hinge and still behaving like one — it levers a target's composure apart at the joint rather than breaking it, finding the seam where someone is already giving way.
 
-**Cost:** The wielder weeps while using it, without warning and without any accompanying feeling they can identify, and reports afterwards that the grief did not seem to be theirs. Personnel find this harder to tolerate than injury and should be rotated before they stop mentioning it.
+**Bearer cost:** The wielder weeps while using it, without warning and without any accompanying feeling they can identify, and reports afterwards that the grief did not seem to be theirs. Personnel find this harder to tolerate than injury and should be rotated before they stop mentioning it.
 
 ### M.A.W. Suit — The Collapsed Shroud
 
@@ -245,7 +240,7 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Ability:** Han-silk wrapping that keeps the wearer's composure intact under Lament pressure, drawing tighter as it approaches the frame it was taken from.
 
-**Cost:** The shroud protects by closing. It shuts out the small sorrows and shuts out the small pleasures with them, and wearers describe the following days as a corridor they walked down without stopping anywhere.
+**Bearer cost:** The shroud protects by closing. It shuts out the small sorrows and shuts out the small pleasures with them, and wearers describe the following days as a corridor they walked down without stopping anywhere.
 
 ### M.A.W. Stigma — The Collapsed Key
 
@@ -259,7 +254,7 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Ability:** Opens one blocked passage for a few seconds.
 
-**Cost:** The user feels the departure of everyone who once waited behind it.
+**Bearer cost:** The user feels the departure of everyone who once waited behind it.
 
 *The Key is given, never taken. It appears only on a worker who finished a Ferrehan cycle at the threshold without once asking to be let through, and no procedure has produced one deliberately.*
 
@@ -279,7 +274,7 @@ Each piece remains part of the Door, and the set has one consistent property tha
 **Stat interpretation:** These are α-grade numbers and they are not misleading: three to six damage, ten to fifteen Echoes, no concealed performance. What no rating on the sheet conveys is that the Key's few seconds of open passage cost its bearer the departure of every person who once waited behind that door. Read the Cost lines as the specification and the damage values as a footnote to them.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial. The grade is low and will stay low: the mechanism is fully understood, and the thing nobody can explain — why the memory holds longer every year while nothing physical alters — is not the kind of question a higher grade is awarded for answering with a correlation.
+**R.D. Comprehension Level:** 1 — Initial. The grade is low and will stay low: the mechanism is fully understood. And the thing nobody can explain — why the memory holds longer every year while nothing physical alters — is not the kind of question a higher grade is awarded for answering with a correlation.
 
 - It has never opened and the mechanism has never been the reason. The hinges turn; there are several metres of tunnel on top of the leaf.
 - The light comes in the frame at a spoken destination and at nothing else: not at touch, not at pressure, not at silence of any length.
@@ -295,10 +290,10 @@ Each piece remains part of the Door, and the set has one consistent property tha
 |---|---|
 | **Initial exposure** | Frame alignment, hinge pins, stone depth, and the transcript started before the party reaches the threshold. |
 | **Sustained observation** | Memory duration is timed at every authorised activation and has lengthened at each return: 11, 19, 28 seconds. Nothing physical about the holding has altered in the same period. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching the fallen door while naming a destination. Effect: the memory of the named place opens and holds for a timed interval. Duration: Until the memory fades. Risk: arrest at the threshold after the light goes. Tool Use Profile — I-Relic Operational Rule: At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The trigger is contact with the leaf while a destination is spoken aloud, and escalation here means the Door begins to remember a second, undeclared destination. There is no suppression step: the team controls speech before ground — designations and directions only — then establishes who touched the leaf, how long the memory held, and whether it has faded. |
 | **Post-contact review** | Transcript first and telemetry second: the destination as spoken, who said it, how long the memory held, and whether the operative could describe the present tunnel while it did. |
 
-**Observation method:** Record the mechanism first, then the speech. Hinges, frame alignment, stone depth, the fit of the leaf in its jamb — all measurable, all stable, all the baseline against which any change would be real. Then log every word spoken in the tunnel during the cycle, verbatim, by all present. Personnel consistently report grief rather than fear at this threshold, and grief makes people talkative; the useful record of a Portcullis cycle is almost always something a worker said without noticing they had said it.
+**Observation method:** Record the mechanism first, then the speech. Hinges, frame alignment, stone depth, the fit of the leaf in its jamb — all measurable, all stable, all the baseline against which any change would be real. Then log every word spoken in the tunnel during the cycle, verbatim, by all present. Personnel consistently report grief rather than fear at this threshold, and grief makes people talkative. The useful record of a Portcullis cycle is almost always something a worker said without noticing they had said it.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -316,7 +311,7 @@ The burden of being trapped at the moment of departure.
 Work response — Viderehan: Reveals the people and route beyond the door. (Stable); Ferrehan: Checks how long a worker can stay at a blocked threshold. (Decrease). Personnel report grief rather than fear.
 
 **Entry 5 — <Archive Note>**
-The inquiry found that nothing outside anybody's remit had occurred, and the finding has never been challenged because it is true. Two offices acted lawfully and a doorway took the sum of both. The Scope Office prints the case in its training material as the clearest instance it holds of an unattributable harm, and the Zone B survey reads the memory duration against the Office's annual return of them, which is a use the training material does not mention.
+The inquiry found that nothing outside anybody's remit had occurred, and the finding has never been challenged because it is true. Two offices acted lawfully and a doorway took the sum of both. The Scope Office prints the case in its training material as the clearest instance it holds of an unattributable harm. And the Zone B survey reads the memory duration against the Office's annual return of them, which is a use the training material does not mention.
 
 ## 최종 관찰 (Final Observation)
 
@@ -335,9 +330,9 @@ Stone covers the door, but the frame remains. You place your hand on the fallen 
 
 **At first contact:** What registers first is the frame — upright, square and intact in a heading that came down around it — and only then the leaf lying inward beneath the stone. The air is salt-cold and smells of cold rain. Nobody speaks until the party has halted, because the containment measure here is a rule about speech.
 
-**With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
+**With continued exposure:** Grief makes people talkative, and the transcript gets longer. What changes across a cycle is rarely the ruin — hinges, alignment, stone depth, all stable — it is the number of place-names the party has had to stop itself saying.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touching the fallen door while naming a destination. Effect: a timed opening into the memory of whatever place was named. Duration: Until the memory fades. Risk: the operative stays at the threshold inwardly once it closes. Tool Use Profile — I-Relic Operational Rule: The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The frame lights at the spoken word and at nothing else — not at touch, not at pressure, not at silence of any length. For the seconds it holds, the operative stands in the memory of the named place with the tunnel still around them. The relief times it, because the number is longer every year and nothing down here has moved an inch.
 
 **After departure:** Departure is not relief. The Object-Weight is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
 
@@ -345,12 +340,12 @@ Stone covers the door, but the frame remains. You place your hand on the fallen 
 
 Portcullis does not exist in isolation. Its recorded relationships with Doorway to Nowhere, The Final Door, The Silent Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is brought near, the watch sets down what the answer did on each axis — sound, movement, temperature, memory, gauge, containment stability — rather than assuming a shared theme.
 
-**Interaction method:** Establish the Door's solo behaviour across several silent cycles first, which for this entity means cycles in which no destination was named by anyone present — a harder control condition to maintain than it sounds, and one that must be verified from the transcript rather than assumed. When a second entity is introduced, observe a constraint peculiar to this holding: any entity whose designation includes a place can be named without intending to name a destination, and the Door does not appear to distinguish the two. Interaction studies here are therefore conducted using codes only, with the second entity referred to by designation and never by its location. Log separation, duration, gauge movement, and whether the frame lit.
+**Interaction method:** Establish the Door's solo behaviour across several silent cycles first, which for this entity means cycles in which no destination was named by anyone present — a harder control condition to maintain than it sounds. And one that must be verified from the transcript rather than assumed. When a second entity is introduced, observe a constraint peculiar to this holding: any entity whose designation includes a place can be named without intending to name a destination, and the Door does not appear to distinguish the two. Interaction studies here are therefore conducted using codes only, with the second entity referred to by designation and never by its location. Log separation, duration, gauge movement, and whether the frame lit.
 
 
 ### Entity Interaction Record
 
-The Door sits in the Zone B deep tunnels alongside several holdings concerned with departure, waiting and passage, and the proximity is not incidental — the tunnels are where people left from. The interactions below are canonical but were each recorded under particular traffic and particular wording; personnel must re-establish the silent baseline before relying on any of them.
+The Door sits in the Zone B deep tunnels alongside several holdings concerned with departure, waiting and passage, and the proximity is not incidental — the tunnels are where people left from. The interactions below are canonical but were each recorded under particular traffic and particular wording. Personnel must re-establish the silent baseline before relying on any of them.
 
 | The Door's neighbour | How the pairing has run | What the threshold logged | What the entry keeps |
 |---|---|---|---|
@@ -370,7 +365,7 @@ The collapse sealed the door. The Han-surge, the structural failure, the tunnel 
 
 Portcullis is an Object-Weight sorrow of Lament: the figure of a passage closed before the passage could be completed — the burden of being trapped at the moment of departure, the specific sorrow of reaching the threshold and finding it sealed. The Door does not trap the body (the ones inside were rescued, eventually, or not). The Door traps the moment — the specific, frozen instant of mid-passage, the threshold reached and denied, the departure interrupted by a collapse that turned the door from a passage into a wall.
 
-Stand before the Portcullis and the burden of the interrupted departure settles on you — the weight of being sealed at the threshold, of reaching the door and finding it closed, of the specific, devastating grief of being trapped at the moment you were leaving — so close to the exit that you could see the other side, and sealed, permanently, on the wrong one.
+Stand before the Portcullis and the burden of the interrupted departure settles on you — the weight of being sealed at the threshold, of reaching the door and finding it closed, of the specific, devastating grief of being trapped at the moment you were leaving — so close to the exit that you could see the other side. And sealed, permanently, on the wrong one.
 
 Some sorrows mourn a collapse. Portcullis mourns the threshold — the passage sealed mid-crossing, the departure interrupted, the door that was open and that the collapse closed while people were still in the act of walking through it.
 ## 증언 (Testimonium) — The Testimony
@@ -399,7 +394,7 @@ Some sorrows mourn a collapse. Portcullis mourns the threshold — the passage s
 - Formed at a tunnel collapse that sealed a door with people on both sides of it: those still leaving, and those already through and waiting. The file does not establish which group it belongs to and declines to settle it.
 - Memory duration 11, 19, 28 seconds across the three annual returns. Hinges unbent and seated throughout, frame square throughout, stone depth unchanged throughout.
 - Extraction requires naming a destination and meaning it, which is the deliberate performance of the act that formed this holding. Scheduled separately, with a named relief, and the destination declared and reviewed in advance.
-**Cross-References:** Zone B deep tunnels · Doorway to Nowhere · The Final Door · The Silent Bell · the Scope Office rule on remit · the Joint Minute series
+**Cross-References:** Zone B deep tunnels · [Doorway to Nowhere](SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md) · [The Final Door](SE-C-Vδ-111_The_Final_Door_마지막_문.md) · The [Silent Bell](SE-C-IIβ-170_Unrung_침묵의_종.md) · the Scope Office rule on remit · the Joint Minute series
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** Two parties to one event — the people who had not yet come through, and the people who had and were waiting. Neither is named in any document that survives the collapse.
 
@@ -416,17 +411,17 @@ Eleven seconds, then nineteen, then twenty-eight. The figure is taken at authori
 
 An office at this Company answers for what is within its authority and for nothing beyond it. The rule is the reason the deep tunnels are not a graveyard of blamed men. Before it, a failure was attributed downward until it found somebody physically near enough to it: the man at the door got the finding for a collapse driven by a heading three offices away, because he was the one standing there and the one with nobody below him to pass it to. The Year 4181 schedule lists 300 such findings in a decade, 290 of them against men with no authority over anything that caused the harm. Scope ended that in a line. An officer is accountable where they can decide, and only there, and no finding may travel beyond its author's remit.
 
-Its consequence is a category of harm that belongs to nobody. When two offices act lawfully and the consequences meet, there is no office with authority over the meeting, no office required to attend it, and no document in which it is anybody's. The finding reads that no act outside any remit occurred, which is accurate, and is all the Company is institutionally capable of saying. The people in the gap are not denied anything; there is simply no door for them to knock at, because a door requires an office behind it, and the harm by definition has none. There is a threshold in the Zone B deep tunnels, standing square, with its hinges in working order and several metres of somebody else's programme on top of it.
+Its consequence is a category of harm that belongs to nobody. When two offices act lawfully and the consequences meet, there is no office with authority over the meeting, no office required to attend it, and no document in which it is anybody's. The finding reads that no act outside any remit occurred, which is accurate, and is all the Company is institutionally capable of saying. The people in the gap are not denied anything. There is simply no door for them to knock at, because a door requires an office behind it, and the harm by definition has none. There is a threshold in the Zone B deep tunnels, standing square, with its hinges in working order and several metres of somebody else's programme on top of it.
 
 ### The Joint Minute
 
 Instituted Year 4219. Where two offices' lawful acts have combined to produce a harm, either office may call a joint minute. Both attend. The facts are written down together, in one document, agreed line by line. The minute is filed in its own series. It makes no finding, attributes nothing, requires nothing, and binds nobody.
 
-Year 4237: 2,210 minutes called; 1,476 completed, the remainder lapsing because attendance is voluntary and one office declined; 0 findings; 0 remedies required; 1,455 harms recorded as unattributable in the same year, which is the figure the Zone B survey sets the memory duration against; and 611 applications by affected persons to attend their own minute, all refused.
+Year 4237: 2,210 minutes called; 1,476 completed, the remainder lapsing because attendance is voluntary and one office declined. 0 Findings; 0 remedies required; 1,455 harms recorded as unattributable in the same year, which is the figure the Zone B survey sets the memory duration against. And 611 applications by affected persons to attend their own minute, all refused.
 
-The costs are printed on the calling form. The injured party may not be present: a person in the room is a complainant, a complainant requires somebody to complain against, and attribution is the thing the scope rule removed. The minute is inadmissible everywhere — no proceeding may cite it, no inquiry may rely on it — because a minute that could be used would be a finding reached without jurisdiction, which is the 4181 schedule coming back with better manners. And attendance cannot be compelled, since compelling an office to answer outside its remit is the same wrong in a different direction; a third of minutes therefore end as a single office's account of an event it only half caused.
+The costs are printed on the calling form. The injured party may not be present: a person in the room is a complainant, a complainant requires somebody to complain against, and attribution is the thing the scope rule removed. The minute is inadmissible everywhere — no proceeding may cite it, no inquiry may rely on it — because a minute that could be used would be a finding reached without jurisdiction, which is the 4181 schedule coming back with better manners. And attendance cannot be compelled, since compelling an office to answer outside its remit is the same wrong in a different direction. A third of minutes therefore end as a single office's account of an event it only half caused.
 
-The minute clerks asked for one power. Not a finding, not blame: the power to require a remedy where the remedy is cheap, uncontested, and both offices agree it should be done. Refused, and the file sustains the refusal on every line — a power to require is a determination, a determination is an attribution, and an attribution made by a body with no jurisdiction over either office is precisely what was abolished. Their submission is bound into the Year 4224 return, and no answer to it has ever been entered, and the Zone B survey keeps a copy in the transcript box at the threshold: we stopped blaming men for what they could not decide, and some things happen in the space between two correct decisions, and a door closed on people from both sides at once with nobody in the wrong anywhere in the building.
+The minute clerks asked for one power. Not a finding, not blame: the power to require a remedy where the remedy is cheap, uncontested, and both offices agree it should be done. Refused, and the file sustains the refusal on every line — a power to require is a determination, a determination is an attribution, and an attribution made by a body with no jurisdiction over either office is precisely what was abolished. Their submission is bound into the Year 4224 return. And no answer to it has ever been entered. And the Zone B survey keeps a copy in the transcript box at the threshold: we stopped blaming men for what they could not decide. And some things happen in the space between two correct decisions. And a door closed on people from both sides at once with nobody in the wrong anywhere in the building.
 
 ## Trivia
 
@@ -440,7 +435,7 @@ The minute clerks asked for one power. Not a finding, not blame: the power to re
 - **Classification detail:** Portcullis is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone B, deep tunnels.
 - **Recognition detail:** Identify by the frame. It stands upright, square and undamaged above a leaf that has fallen inward under tunnel stone, and no other collapse in Zone B has left its frame standing.
-- **Record detail:** Several Zone B holdings are logged as doors, thresholds or blocked passages; confirm the designation O-Iα-794 and the Object-Weight manifestation before applying this file to any of them. Distinguish it from the boundary holdings elsewhere in the archive: Aegis is about which way a person was travelling, and this one is about a closure that two lawful decisions produced between them. Corrected at the whole-file clean: a stub Registrum that referred the reader to other sections instead of recording anything, an Origin paragraph belonging to a Warden in another file, a classification line missing origin, coherence and potency, and a blank M.A.W. grade against three α pieces.
+- **Record detail:** Several Zone B holdings are logged as doors, thresholds or blocked passages. Confirm the designation O-Iα-794 and the Object-Weight manifestation before applying this file to any of them. Distinguish it from the boundary holdings elsewhere in the archive: Aegis is about which way a person was travelling, and this one is about a closure that two lawful decisions produced between them. Corrected at the whole-file clean: a stub Registrum that referred the reader to other sections instead of recording anything, an Origin paragraph belonging to a Warden in another file, a classification line missing origin, coherence and potency, and a blank M.A.W. grade against three α pieces.
 - **Containment detail:** This entity is already sealed, by several metres of tunnel stone, and the seal is the entity rather than a measure applied to it. Nothing further has been built around it, because the Door's reach is limited to whoever is standing in front of it and speaking. The containment measure for this holding is a rule about what personnel are permitted to say.
 ## Document Information
 

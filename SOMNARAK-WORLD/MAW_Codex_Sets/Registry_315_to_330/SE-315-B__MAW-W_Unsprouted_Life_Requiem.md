@@ -28,6 +28,10 @@ The Unsprouted Life Requiem is a singing blade of deep-blue Han crystal with a s
 |---|---:|---|---|---:|
 | δ / Lament | 10–15 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 2 / 50 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
 **Host Separation:** Requiem pierces up to three detached growth paths and removes them from a living host. Striking the source shell accelerates manifestation.
 
 **Cost:** The wielder receives the almost-born grief and cries involuntarily.
@@ -43,14 +47,3 @@ Core builds barrier, Shroud protects identity, Requiem removes invasive roots.
 **Maintenance:** Rest the blade near the sealed dry chamber with guard facing source and edge facing away. Remove all root residue before reuse.
 
 **Shutdown:** Sheathe after host separation; never use a final strike on the Seed.
-
----
-
-**Document ID:** `SE-315-B`  
-**Linked Entity:** `SE-315`  
-**Item Registry Code:** `MAW-W-315-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

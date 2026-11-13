@@ -21,7 +21,8 @@
 | Type / grade / element | Stigma, page-tile / δ — Critical / Grudge |
 | Slot | Tail |
 | Status | Sealed-page custody; no standing bearer after a completed reading |
-| Maximum amount | One unread page per authorized event; source chance remains 4% |
+| **Maximum Amount** | 2 — Limited |
+| Maximum per event | One unread page per authorized event; source chance remains 4% |
 | Current custody | Deep Archive, blank-state folio under Marjuk’s seal |
 | Resting form | A crimson-metal page tile that is blank until a verified question is placed beside it. |
 | Active form | Black text rises through internal flame; the page burns only after the reader has taken in its answer. |
@@ -54,7 +55,7 @@
 
 ### Appearance
 
-The Burning Page is a small folio charm of pale Han glass shaped like a single folded sheet, its face blank and its edge bound with a thin red thread. It hangs from a short cord and rests flat against the bearer's chest, cold and silent. When an authorized reader opens the Page in front of a named archive witness and consequence recipient, the blank face fills with one truth hidden by the city, then burns after the reader understands it. The glass is never polished or copied, and after reading it cannot be restored, repaired, or used a second time. A reader who seeks a weaponized answer sees only an unlit margin; if they force heat into it, the Page returns the question as a record of their own concealed motive. The folio is kept in a blank-state case beside its authorization record, and it is checked for heat rather than polished or copied.
+The Burning Page is a single folded sheet in pale Han glass, blank on the face and bound at the edge with a thin red thread. It hangs from a short cord and rests flat against the bearer's chest, cold and silent. When an authorized reader opens the Page in front of a named archive witness and consequence recipient, the blank face fills with one truth hidden by the city, then burns after the reader understands it. The glass is never polished or copied, and after reading it cannot be restored, repaired, or used a second time. A reader who seeks a weaponized answer sees only an unlit margin; if they force heat into it, the Page returns the question as a record of their own concealed motive. The folio is kept in a blank-state case beside its authorization record, and it is checked for heat rather than polished or copied.
 
 ### Passive effect— *Question Weight*
 
@@ -96,14 +97,3 @@ The Burning Page is the set’s irreversible answer, not its authority. The Burn
 **Why this registry is restricted:** The Page is not dangerous because it contains a universal forbidden sentence. It is dangerous because its reader cannot honestly return to the person they were before learning, and institutions routinely mistake that change for a private burden.
 
 > *“A sealed truth can be an act of care. A permanently silenced truth is something else.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-092-D`  
-**Linked Entity:** `SE-092`  
-**Item Registry Code:** `MAW-G-092-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

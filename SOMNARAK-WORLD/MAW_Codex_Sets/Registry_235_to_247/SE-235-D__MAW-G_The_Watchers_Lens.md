@@ -17,6 +17,7 @@
 
 A Void Han-glass lens-pendant fixed at the Head slot. When touched to a wall, it reveals what that structure witnessed from its own position. The bearer cannot later forget the scene, even if the wall’s record is sealed.
 
+**Maximum Amount:** 4 — Stocked
 Panopticon granted it after an observer acknowledged the gaze and acted on a recorded hazard. Acquisition chance is 5%; no extraction procedure produces a Stigma.
 
 ## Appearance
@@ -49,14 +50,3 @@ The Stigma supplies evidence to *The Duty After Seeing*. Veil carries the respon
 **Care:** Record exactly where the structure could and could not see. Another witness identifies blind areas. The Lens rests against an unwitnessing surface until the current room becomes primary again.
 
 **Emergency release:** Cover the bearer’s sight—not the Stigma—with a neutral cloth and move beyond the recorded structure. Shattering the lens projects the permanent scene to everyone nearby.
-
----
-
-**Document ID:** `SE-235-D`  
-**Linked Entity:** `SE-235`  
-**Item Registry Code:** `MAW-G-235-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

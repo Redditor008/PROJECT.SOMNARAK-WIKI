@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 4 — Stocked
 A Grudge Han-iron Tail bracelet split along an empty inner line. Hollowcast granted it after an operator resisted false-memory comfort. Bestowal chance is 5%.
 
 ## Appearance
@@ -26,14 +27,3 @@ The Torn Bracelet is a crimson tail-bracelet of Han iron split along an empty in
 **Failures:** all comfort treated as manipulation; defensive harm reaches supporters; anger becomes sole identity anchor.
 
 **Care:** Remove before affectionate contact and verify consent without supplying memory.
-
----
-
-**Document ID:** `SE-426-D`  
-**Linked Entity:** `SE-426`  
-**Item Registry Code:** `MAW-G-426-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

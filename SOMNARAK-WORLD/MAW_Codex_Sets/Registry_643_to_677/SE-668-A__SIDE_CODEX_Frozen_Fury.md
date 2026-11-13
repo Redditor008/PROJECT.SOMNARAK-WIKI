@@ -21,7 +21,7 @@ A black crystal slice of a demolished building sits frozen in Collector’s Row,
 | Coherence / Potency | IV / δ |
 | Element | Void |
 | Location | Zone C, Collector’s Row |
-| Gauge / Pressure | 880/880; 60–80% / 29–62 |
+| Gauge / Pressure | 000/240; starts 000% / Void — no attack pattern; the edge luminance against the step wedge at one metre is the reading |
 | Threshold / Resistance | 90% / 45% Void, 35% other |
 | Set | Truth Held Below Freezing |
 
@@ -46,13 +46,3 @@ Bracelet shields the witness, Veil preserves present identity, and Lens pierces 
 A Collector ledger blamed residents for noncompliance. Lens cut the false clause, but an agent touched the ruin and began repeating the evacuation notice forever. Veil anchored his current name; Bracelet absorbed the crowd’s rage until Yuna entered the corrected cause. Contact ended and he returned to present time.
 
 > *“The ice preserves a crime scene, not a verdict against its victims.”* — Auditor Yuna
-
----
-
-**Document ID:** `SE-668-A`  
-**Linked Entity:** `SE-668`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

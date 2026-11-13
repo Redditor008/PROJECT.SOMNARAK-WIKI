@@ -9,8 +9,8 @@
 **SECC Designation:** `C-Vδ-010 [WS]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
-**Codex Set Completion:** `4/4`
+**Classification:** Echo-Core Eyes Only  
+**Codex Set Completion:** `1/1` — Side Codex only; no extractable M.A.W. exists
 **Record Status:** Historical contingency — current formation prevented by post-Cycle Three Bird harmonization
 
 ---
@@ -27,7 +27,7 @@
 | **Element** | Weight; braided Lament/Grudge/Void residue present |
 | **Formation Condition** | Simultaneous breach of Entities 031, 032, and 033 |
 | **Observation Status** | Historical formation archive; no current live manifestation |
-| **M.A.W. Set** | Absolute Set — sealed contingency registry |
+| **M.A.W. Set** | None — no extraction is possible (§`R-35`) |
 
 ### Core Sorrow
 
@@ -69,19 +69,18 @@ Separate the three source Birds. No judgment appeal, confession, mercy plea, or 
 
 ---
 
-## PAGE 03 — ABSOLUTE SET REGISTRY
+## PAGE 03 — NO M.A.W. REGISTRY
 
-| Piece | Name | Grade | Element | Status | Individual Codex |
-|---|---|---|---|---|---|
-| **Weapon** | The Absolute Maul | δ | Weight | Sealed contingency issue | `SE-010-B__MAW-W_The_Absolute_Maul.md` |
-| **Suit** | The Absolute Mantle | δ | Weight | Sealed contingency issue | `SE-010-C__MAW-S_The_Absolute_Mantle.md` |
-| **Stigma** | The Absolute Verdict | δ | Weight | Sealed contingency issue | `SE-010-D__MAW-G_The_Absolute_Verdict.md` |
+The Convergence has no Weapon, Suit, or Stigma file because nothing can be extracted from it. It
+exists only while all three Birds are breached together, and the state lasts twelve seconds. There
+is no held form at any point in that window for a weaver to work from, and no bearer has come away
+from a formation carrying anything.
 
-### Extraction Status
-
-The Absolute Set cannot be requested from a stable Bird. It appears only as residual equipment after documented Convergence separation/suppression. Current pieces are sealed historical artifacts; no routine extraction order is valid.
-
----
+| Proposed Extraction Attempt | Result |
+|---|---|
+| Draw the fused form into a weapon | The only body present is the three Birds themselves. Any blade drawn from them is drawn from the Observing, Weighting or Guarding Bird, and each of those already has its own set. |
+| Take the fusion as armour | The fusion is the thing being prevented, not a material. It ends when the Birds are parted, and parting them is the resolution. |
+| Take the judgment as a Stigma | The verdict is issued to everyone in the room without distinction. A piece that marks everybody is not a bond. |
 
 ## PAGE 04 — OBSERVATION PAGE
 
@@ -104,13 +103,3 @@ The Convergence is not a stronger Bird. It is the failure to keep necessary func
 ### Observation 4 — Restricted
 
 The final-Cycle Hope harmonization suggests the triad has another possible shared form. This file does not name or classify that form without a separate verified record.
-
----
-
-**Document ID:** `SE-010-A`  
-**Related Entity:** `SE-010`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

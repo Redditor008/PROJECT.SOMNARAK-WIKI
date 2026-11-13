@@ -7,15 +7,15 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-369 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A fractured crystal object that emits broken fragments of whispers — half-words, cut-off names — drifting without purpose. Salt-cold, it smells of cold rain; a sentence that shattered before it finished. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Physical Form** | Non-Organic |
+| **Movement** | Floating — drifts in the underground Han currents without reliably following the mapped flow. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -27,37 +27,65 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Primary pressure** | Clarity — keeping heard fragments distinct from the listener's own memory |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 16–22 Han-Energy per settled cycle, average for the band and identical whether the transcript ran long or short |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the wall** — Patient listening lengthens the gaps between fragments and draws the whispering back toward the crystal, which is the only settling this holding produces. |
+| **Work Damage** | 2–4 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is fragments settled and the whispering shortened only for a time. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Vessel-Destructible** | No authorized destruction route — set the I-Relic down and lower Gauge below 25% |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Viderehan or Ferrehan, one transcriber, no conferring, nothing joined. |
 
 ### Operational Notes
 
-- A successful cycle settles the fragments and shortens the whispering for a time. Nothing is completed by it. The sentences were cut off in the tunnels and they stay cut off; a cycle that appears to have finished one has produced a finding, not a result.
-- No count is listed for this holding and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire activation mechanism, and the figure here is 75%; where a count does exist in the archive it runs down with failed cycles on any role at all — Subject, Object, Place or Relic — and this file has none to run.
+- A successful cycle settles the fragments and shortens the whispering for a time. Nothing is completed by it. The sentences were cut off in the tunnels and they stay cut off. A cycle that appears to have finished one has produced a finding, not a result.
+- No count is listed for this holding and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire activation mechanism. And the figure here is 75%. Where a count does exist in the archive it runs down with failed cycles on any role at all — Subject, Object, Place or Relic — and this file has none to run.
 - The 16–22 Han-Energy yield is average for the band and the exposure is unusual in kind rather than in degree. What this holding costs is recall: operators leave with somebody else's last words in their memory, filed by their own mind as something they themselves once said.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. The source is a shattered object, so extraction takes a shard of it: every piece in this set is itself a fragment of something interrupted and behaves accordingly. It is the only set in the armoury whose three pieces carry break lines in the inventory, and the armoury keeps them that way rather than smoothing the entries.
+- Extraction here is its own authorisation and is never paid out for a good cycle. The source is a shattered object, so extraction takes a shard of it: every piece in this set is itself a fragment of something interrupted and behaves accordingly. It is the only set in the armoury whose three pieces carry break lines in the inventory, and the armoury keeps them that way rather than smoothing the entries.
+
+## The Charge
+
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
+
+| Field | Value |
+|---|---|
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
 
 ## Combat Record
+
+> **Why this file keeps combat actions.** The Movement row says *floating — drifts in the underground Han currents without reliably following the mapped flow*, and the Speed row says plainly that the drift is not directed locomotion. What the record covers is what the object does when it is already beside the team: fragments arriving faster than they can be written down separately, with the cycle scored against the transcript rather than against the room.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Lament, the pressure the object is made of; 25% against everything else the tunnel can bring — no resistance rating applies to the words themselves |
+| **Speed** | N/A — floating object; drift is not directed locomotion, and activation output is measured per turn |
+| **Resistance** | 35% against Lament, the pressure the object is made of. 25% Against everything else the tunnel can bring — no resistance rating applies to the words themselves. State the listener's identity anchor before contact, keep every fragment on its own line, and never let resistance to pressure be mistaken for protection against false ownership. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 |
+| **Sorrow Gauge [Depth]** | **000 of 660** · ready · six doses · limit 60 s · recharge 10 min |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
@@ -68,34 +96,33 @@
 | **Threat Role** | Major encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, deep tunnels |
-| **Resolution Condition** | Keep the transcript a list — one transcriber, one timekeeper, nobody conferring, and no fragment joined to another — and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | If the I-Relic is held and a permitted name spoken, receive only the emotional message without reconstructing wording. Then set the object down, keep the transcript as separate fragments, and lower the Sorrow Gauge below 25%. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Collapsed Word* [**Debuff**] } | "The whisper tried to form — and collapsed — and the rubble of the failed word stings." | [The Whisper's structural failure scatters meaning-fragments at the target.] | *Target suffers -10 Composure; the broken words cut.* **[10 Lament DMG [Lament]]** | When the target tries to listen. |
-| { *The Debris of Speech* [**Debuff**] } | "Each fragment carries a piece of the intended message — and none of them fit together." | [The Whisper's fragments are irreconcilable; the target cannot assemble meaning.] | *Target loses 10 Composure; the puzzle is impossible.* **[10 Lament DMG [Lament]]** | When the target gathers fragments. |
-| { *The Sharp Fragment* [**Attack**] } | "A shard of broken whisper, hardened by collapse, flies free." | [A word-shard launches.] | *Inflicts Lament pressure and one thin, ringing cut.* **[14-22 Lament DMG [Lament]]** | When the fragments are disturbed. |
-| { *The Full Collapse* [**Attack**] } | "The whole list goes at once — every half-word, every break — and the silence afterwards is worse than the cutting." | [The transcript fails together; the fragments arrive as one mass of language and none of it is complete.] | *A heavy Deep Blue avalanche; the target's Sorrow Gauge surges 15% as the fragments cohere without ever finishing.* **[24-36 Lament DMG [Lament]]** | When the Whisper is forced, or when a transcript is joined under pressure. |
-| { *Every Word Falls Apart* [**Ultimate**] } | "Every whisper in the tunnel collapses together, and the debris of language buries the run." | [The collapse spreads down the passages; every fragment in range breaks at once.] | *All in range suffer Lament pressure for three turns of broken speech, and no fragment taken during it may be joined afterwards.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% and the list is still being kept. |
+| { *The Collapsed Word* [**Debuff**] } | "The whisper tried to form — and collapsed — and the rubble of the failed word stings." | [A listener supplies the missing ending and the invented completion collapses back through their Clarity.] | *The listener suffers Clarity pressure. Strike the supplied word from the transcript as listener invention, restore the break, and continue one fragment per line without conferring.* **[10 Lament DMG [Lament]]** | When a listener tries to complete a collapsing half-word. |
+| { *The Debris of Speech* [**Debuff**] } | "Each fragment carries a piece of the intended message — and none of them fit together." | [Speech debris overwhelms a worker who stops listing fragments and begins arranging them toward a sentence.] | *The worker loses Clarity. Separate the lines again, preserve gaps, and hand the transcript to the second worker before any order is treated as meaning.* **[10 Lament DMG [Lament]]** | When a worker gathers or arranges fragments to assemble meaning. |
+| { *The Sharp Fragment* [**Attack**] } | "A shard of broken whisper, hardened by collapse, flies free." | [Collapse debris is struck, swept or moved as refuse and a hardened word-shard breaks loose.] | *Inflicts Lament pressure and one thin, ringing break in the listener's recall. Stop clearing the route by force. Leave linguistic fragments separate and remove only nonlinguistic collapse residue under the recorded procedure.* **[14-22 Lament DMG [Lament]]** | When collapse debris or word-fragments are physically disturbed. |
+| { *The Full Collapse* [**Attack**] } | "The whole list goes at once — every half-word, every break — and the silence afterwards is worse than the cutting." | [A joined transcript fails as one false sentence, sending every fragment back without verified order or ownership.] | *Heavy Lament pressure; no Gauge surge is inferred. Seal the joined page as a listener finding, restart separate lists with transcribers who do not confer. And do not quote the invented sentence as a worker's words.* **[24-36 Lament DMG [Lament]]** | When a transcript is joined under pressure or a name is used to force a complete wording. |
+| { *Every Word Falls Apart* [**Ultimate**] } | "Every whisper in the tunnel collapses together. And the debris of language buries the run." | [The tunnel output enters false coherence: fragments arrive in plausible order and begin completing one another before breaking apart across the passage.] | *All personnel in range suffer Lament pressure for three turns. Stop speaking names into the object, separate every listener. And keep each list unjoined. Ease of understanding is treated as escalation, not progress.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 75% and fragments begin arriving as continuous, mutually completing speech. |
 
 ### Battle Phases
 
 1. **Tension:** The team logs the object's position against the tunnel current map, notes that the two will not agree, and sets the transcription order before approaching — who writes, who times, who says nothing. Nobody speaks a name within hearing of it during this phase, including their own.
 2. **Clash:** Viderehan and Ferrehan are worked while the fragments come, and the transcription rule holds throughout: each fragment is written as heard, on its own line, and nothing is joined to anything. The gauge is read against the transcript rather than against the room, since this entity's agitation shows up as fragments arriving faster than they can be written down separately.
-3. **Resolution:** The cycle closes when the Sorrow Gauge falls below 25% and the transcript has been filed as a list with its breaks intact — which on this holding means the team left without having made sense of anything.
+3. **Resolution:** Set the object down, stop speaking names into it, and file the fragments as separate lines with uncertainty intact. The cycle closes only when the Sorrow Gauge is below 25% and the second worker has checked that no returned message is being recalled as the listener's own — which means the team leaves without having made sense of anything.
 
 ### Consequences
 
 - A worker who cannot hold against this sorrow stops transcribing and starts resolving: the pressure erodes **Clarity**, the fragments begin completing each other in the head rather than on the page, and the instability goes back into the Sorrow Gauge as coherence.
 - The effects compound with duration, and the compounding is quiet. The longer a worker listens the more strongly the fragments cohere in their head, until half-words they transcribed separately have become, without any decision being taken, a single remembered sentence. Nobody reports this, because by then it does not feel like a symptom. It feels like having understood.
-- Each M.A.W. activation debits the wielder past what the grade ledger records. The pieces drawn from this source take composure, recollection and somatic steadiness in the ordinary way, and take one thing besides: the user's confidence about which of the things they remember being told were ever said to them.
-- Without resolution the sorrow does not disperse — it transforms, which is the breach type on the classification. The fragments stop drifting apart and begin arriving in sequence, and personnel in the tunnel find themselves listening to something that is finally making sense, which is the single worst condition this holding can be in.
+- Each M.A.W. activation debits the wielder past what the grade ledger records, but the costs stay piece-specific: the Weapon carries weeping and heard-grief/personal-memory confusion, the Shroud numbs minor joys while preserving speaker/recipient separation, and the Bell temporarily removes ordinary whispers. The confidence about which remembered words were one's own is checked where the relevant piece touches it; it is not projected across the set.
+- Without resolution the sorrow does not disperse — it transforms, which is the event type on the record. The fragments stop drifting apart and begin arriving in sequence, and personnel in the tunnel find themselves listening to something that is finally making sense, which is the single worst condition this holding can be in.
 
 ## Appearance
 **Physical Form:** A fractured crystal object that emits broken fragments of whispers. It appears to float without purpose in underground Han currents.
@@ -106,8 +133,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A fractured crystal object that emits broken fragments of whispers. It appears to float without purpose in underground Han currents.
-- **Position / movement:** Drifts in the underground Han currents without apparent direction; log the position against the tunnel current map every cycle and record the discrepancy, which is constant, unexplained, and not to be speculated about in the log.
+- **Position / movement:** Drifts in the underground Han currents without apparent direction. Log the position against the tunnel current map every cycle and record the discrepancy, which is constant, unexplained, and not to be speculated about in the log.
 - **Element signature:** Lament
 - **Registered location:** Zone B, deep tunnels
 
@@ -115,13 +141,12 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A fractured crystal object that emits broken fragments of whispers. It appears to float without purpose in underground Han currents. |
-| **Position / movement** | Drifts in the underground Han currents without apparent direction; log the position against the tunnel current map every cycle and record the discrepancy, which is constant, unexplained, and not to be speculated about in the log. |
+| **Position / movement** | Drifts in the underground Han currents without apparent direction. Log the position against the tunnel current map every cycle and record the discrepancy, which is constant, unexplained, and not to be speculated about in the log. |
 | **Material / signature** | Lament. Fractured crystal, salt-cold, cold rain, light moving in the fracture planes, and half-words arriving out of order. |
 | **Distinctive markers** | The fracture count and the drift that does not match the current running past it. The whispers are not an identifying marker and never repeat. |
-| **Identification** | Identification is not optional and is done against the object, not the sound. The designation, the manifestation and the fracture count must agree before Work begins; the whispers are not an identifying marker and have never been consistent between cycles. |
+| **Identification** | Identification is not optional and is done against the object, not the sound. The designation, the manifestation and the fracture count must agree before Work begins. The whispers are not an identifying marker and have never been consistent between cycles. |
 
-**Appearance protocol:** Record the object and the sound as two separate instruments. For the object: the number of visible fracture planes, the overall dimension across the longest axis, the colour of the light in the fractures, and the position against the current map. For the sound: every fragment transcribed as heard, one to a line, in the order received, with the gaps left as gaps. Fragments are never joined, never punctuated into sentences, and never marked with an editorial symbol to indicate where they broke — the break is the record, and the instruction exists because an early Warden once joined them in good faith and produced something that read as a single voice. Note also which fragments carried a name and whether the name belongs to anyone on the station rolls. Do not write 'eerie'. Write the half-word.
+**Appearance protocol:** Record the object and the sound as two separate instruments. For the object: the number of visible fracture planes, the overall dimension across the longest axis, the colour of the light in the fractures, and the position against the current map. For the sound: every fragment transcribed as heard, one to a line, in the order received, with the gaps left as gaps. Fragments are never joined, never punctuated into sentences. And never marked with an editorial symbol to indicate where they broke — the break is the record. And the instruction exists because an early Warden once joined them in good faith and produced something that read as a single voice. Note also which fragments carried a name and whether the name belongs to anyone on the station rolls. Do not write 'eerie'. Write the half-word.
 
 ## Origin
 - **Formation:** The object formed from words interrupted before they could be heard.
@@ -130,47 +155,34 @@
 - **The People:** Whoever was sending from the deep tunnels when the rock came down, and the operators at the receiving stations who logged the loss of signal in the ordinary way and then worked their watches to the end. The senders cannot be named; the fragments are appeals rather than reports and carry no identifying detail. The operators can be, in most cases, from the surviving shift books, and they are listed at the back of the commissioning file.
 - **Expanded origin context:** The commissioning file holds the signal logs from the stations that were receiving from the deep tunnels, reproduced exactly, incomplete lines and all; several end mid-entry. The archivist's note records that the temptation to mark the breaks with an editorial symbol was resisted because the breaks are the record, and that the logs are kept at the front so a reader meets the interruption before meeting the object. The receiving operators are named where the shift books survive, which is in most cases. The senders cannot be named at all, and no attempt has been authorised to work it out from the transcripts.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a holding that is approached, handled and left. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Fragments arrive and can be set beside one another, never joined; what results is a list and not a history. | Stable |
-| **Ferrehan** | The whispering continues until the worker can sit with a sentence that will not finish, which is the single discipline this holding teaches and the hardest thing it asks. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Before approach, know what meets you: Sorrow Gauge ≥ 75%. |
+| **Handling** | The observer or the stander, one transcriber, no conferring, nothing joined. |
+| **Withdrawal** | If the I-Relic is held and a permitted name spoken, receive only the emotional message without reconstructing wording. Then set the object down, keep the transcript as separate fragments, and lower the Sorrow Gauge below 25%. |
+| **Refusal** | The observer or the stander, one transcriber, no conferring, nothing joined. |
 
-
-### Operational Work Notes
-
-The gauge here is read against the transcript rather than against the room. A stable reading under Viderehan is correct and proves nothing about safety: the fragments can be arriving at an unchanged figure while a half-word takes hold of the transcriber's memory. What the file watches is spacing — longer gaps, fewer overlapping voices, the whispering drawn back toward the crystal — and what it warns about is the opposite, fragments beginning to arrive in a plausible order. Object/Place, Object-Weight manifestation, Lament expression, Zone B deep tunnels; no assumption transfers from another entity with a similar name, and on this holding that warning is not a formality, because a joined transcript is the failure state rather than a bad habit.
-
-**Reading the response:** Read it in the transcript. A falling gauge presents as spacing — longer gaps between fragments, fewer overlapping voices, the whispering retreating toward the crystal. The pressure is absorbed and the source is untouched; the sentences are no nearer finishing than they were. A rising gauge presents as coherence. Fragments begin arriving in a plausible order, the half-words start completing each other, and the transcriber finds the work getting easier. That is the warning and it arrives disguised as progress. If the entity does something the file does not record, write it down before discussing it with anybody, because this is the one holding where comparing notes verbally is itself an intervention — two people agreeing on what they heard will produce a sentence neither of them transcribed.
 ## Activation Behavior
+
+> **Special activation — no counter.** It drifts in the underground Han currents and the record files no pursuit. The gauge is the whole mechanism here.
 
 > **This Relic benefits the facility by making an uncompleted sentence into a record, and the record cannot be completed.**
 > **This Relic alters the operator's recall before anything else: what they transcribe starts arriving in their memory as something they said themselves.**
 > **This Relic extracts personal resilience in halves — the listener keeps the words and loses the certainty about whose they were.**
-
-**Activation Trigger:** Holding the object and speaking a name into it.
-
-**Effect:** Returns one broken whisper as a complete emotional message.
-
-**Duration:** The message lasts until understood or forgotten.
-
-**Risk:** The listener may mistake another person's final words for their own memory.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **Held activation only — not worn, strapped or mounted** |
 | **Activation** | Holding the object and speaking a name into it. |
 | **Primary Effect** | Returns one broken whisper as a complete emotional message. |
 | **Duration** | The message lasts until understood or forgotten. |
-| **Termination / Return** | The operator sets the object down, stops speaking, and the fragments are filed as heard. The piece has no removal condition of its own; the correct end is the end of the transcript, and a return before that is entered as an unfinished list rather than as a fault. |
+| **Termination / Return** | The operator sets the object down, stops speaking, and the fragments are filed as heard. The piece has no removal condition of its own. The correct end is the end of the transcript, and a return before that is entered as an unfinished list rather than as a fault. |
 | **Risk** | The listener may mistake another person's final words for their own memory. |
 
 **Operational Rule:** The relic answers only while it is held, and it answers only to a name spoken into it. It does not replace scheduled work; containment remains Viderehan and Ferrehan. One standing restriction applies to the activation itself: the name spoken must belong to someone the operator is not grieving, which is checked before issue and is the reason the issue is logged rather than merely authorised.
@@ -179,10 +191,10 @@ The gauge here is read against the transcript rather than against the room. A st
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The object sits in the current until it is taken up, and the first fragment arrives before the strap is fastened; there is no stasis here to describe, only the beginning of a list. | Wearing it opens the field: fragments come as they come, and the bearer carries +10% resistance to Lament while the piece is on them — resistance to the pressure, never to the words. |
-| 30 Seconds | The piece was cut from a shattered object, so the bearer begins hearing with it rather than through it: what they pick up is the murmur of appeals sent up from the deep tunnels and cut off by falling rock, none of them complete. | The benefit and the burden arrive together — focus and reaction hold, composure pays for them, and the bearer starts to need the sentence to make sense. |
-| 1 Minute | The bearer's memory begins filing what they hear as something they once said; the second worker takes over the record from here, because the bearer's own account is no longer reliable. | Past sixty seconds the piece deals 5 Lament damage every 15 seconds; the second worker watches for the moment the bearer repeats a fragment as though quoting themselves. |
-| 2 Minutes | Past two minutes the joining starts on its own: half-words the bearer transcribed separately cohere into a sentence nobody wrote down. It does not present as a symptom; it presents as having understood. | Past two minutes, or a forced removal without stowing, the bearer suffers the recorded cost — a stranger's last words held as a private recollection — and the piece is not reissued to them. |
+| 10 Seconds | The crystal is taken into the operator's hands from the current and a permitted name is spoken. The first fragment may arrive before the timekeeper is ready, so the list begins before contact. | Holding opens the return; it grants no Lament resistance. The transcriber writes only what arrives, one fragment per line, and the operator does not answer for the message. |
+| 30 Seconds | The bearer begins hearing appeals cut off in the deep tunnels, none complete and none verified as a sender's wording. No part of the source is cut, removed or rearranged to make the return intelligible. | Focus and reaction may hold while Clarity pays for the wish to make the sentence finish. Any completion supplied by the listener is marked as listener invention immediately. |
+| 1 Minute | The bearer's memory may begin filing what they hear as something they once said. The second worker takes over the record because the bearer's account is no longer reliable. | The second worker watches for the bearer repeating a fragment as though quoting themselves and ends contact by having the object set down. No timed damage cycle is recorded. |
+| 2 Minutes | Past two minutes the joining can start on its own: half-words transcribed separately cohere into a sentence nobody wrote down. It does not present as a symptom; it presents as having understood. | Set the object down at once, preserve both independent lists, and refer the bearer for same-day counsellor review. The recorded cost is a stranger's last words held as private recollection. |
 
 ### Escalation Notes
 
@@ -210,7 +222,7 @@ Escalation here is a change in the transcript, not a change in the room. Record 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-Appearance : A floating navigational sphere twelve inches across, assembled from delicate silver coordinate rings that spin freely around an open core filled with quiet, whispering vocal mists.
+**Appearance:** A floating navigational sphere twelve inches across, assembled from delicate silver coordinate rings that spin freely around an open core filled with quiet, whispering vocal mists.
 
 The whispering mist murmurs forgotten names and navigational headings in dead tongues. Aligning the coordinate rings projects an invisible acoustic cone that muffles incoming psychic screeching.
 
@@ -222,13 +234,13 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 **Ability:** Deals Lament damage against the Mind — composure, willpower, and the ability to leave a thing unfinished. The strike carries the source's signature, and targets report hearing the beginning of a sentence at the moment of impact.
 
-**Cost:** The wielder carries the grief of an appeal that was never heard. Prolonged use causes involuntary weeping, typically mid-sentence and typically while making a routine report.
+**Bearer cost:** The wielder carries the grief of an appeal that was never heard. Prolonged use brings on involuntary weeping, and the file notes where it arrives: mid-sentence, in the middle of a routine report.
 
 ### M.A.W. Suit — Broken Whisper's Shroud
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk with a torn hem that has been left torn — the armoury's standing note on this set is that the pieces are not to be repaired — dark grey, cold to the touch, and it holds the tunnel's damp against the wearer rather than off them.
+**Appearance:** a wrapping shroud of Lament Han-silk with a torn hem that has been left torn — the armoury's standing note on this set is that the pieces are not to be repaired — dark grey, cold to the touch. And it holds the tunnel's damp against the wearer rather than off them.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -240,13 +252,13 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against the particular weight of interruption. It does not shield against the content of what is heard, which arrives as speech rather than as pressure and is unaffected by any resistance rating.
 
-**Cost:** The wearer goes numb to small joys, and finds conversation effortful in a specific way: they stop finishing their own sentences, and stop noticing that they have stopped.
+**Bearer cost:** The wearer goes numb to small joys, and finds conversation effortful in a specific way: they stop finishing their own sentences, and stop noticing that they have stopped.
 
 ### M.A.W. Stigma — Broken Whisper's Bell
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a bell of Lament Han-crystal the size of a thumbnail, clouded at the crown and clear at the lip, worn at the tail of the belt; it rings only when the wearer is holding a fragment back, which makes it useless as a signal and accurate as a symptom.
+**Appearance:** a bell of Lament Han-crystal the size of a thumbnail, clouded at the crown and clear at the lip, worn at the tail of the belt. It rings only when the wearer is holding a fragment back, which makes it useless as a signal and accurate as a symptom.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -254,13 +266,15 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 **Ability:** Carries a spoken message through walls and tunnels.
 
-**Cost:** The wearer loses the ability to hear ordinary whispers for a time.
+**Bearer cost:** The wearer loses the ability to hear ordinary whispers for a time.
 
-*A Stigma from this source is given, never made. It comes up during a successful cycle at the holding's own disposition, unbidden and unrepeatable, and no procedure and no stated probability obliges it — the armoury adds nothing to that wording, and on this set the four per cent on the line above has never been treated as a promise.*
+*A Stigma from this source is given, never made. It comes up during a successful cycle at the holding's own disposition, unbidden and unrepeatable. And no procedure and no stated probability obliges it — the armoury adds nothing to that wording. And on this set the four per cent on the line above has never been treated as a promise.*
 
 ### M.A.W. Use Notes
 
-The three pieces extend Broken Whisper rather than arm anyone against it. Inside the pattern this file records, they help; outside it the cost arrives early and does not reverse on return — the bearer carrying the grief of an appeal that was never heard, and weeping mid-sentence, most often while making a routine report. That last detail is written into the file because it is the one that gets noticed: a bearer weeping during a report is stood down the same shift, and a bearer weeping between sentences is not.
+The three pieces extend Broken Whisper rather than arm anyone against it. Inside the pattern this file records, they help. Outside it the cost arrives early and does not reverse on return — the bearer carrying the grief of an appeal that was never heard, and weeping mid-sentence, most often while making a routine report. That last detail is written into the file because it is the one that gets noticed: a bearer weeping during a report is stood down the same shift, and a bearer weeping between sentences is not.
+
+**Set resonance — Message Without Ownership:** The Bell carries a verified emotional fragment, the Shroud preserves the recipient's separate identity, and the Requiem cuts only collapse debris. Used together, the message can reach a witness without becoming the witness's memory or a reconstructed quotation. If anyone supplies the missing words, the set repeats the invention in the dead workers' voices; that repetition is a failure record, never confirmation. An echo forms only after two listeners independently preserve matching emotional content without fabricating a sentence.
 
 ### Field Use Record
 
@@ -268,14 +282,14 @@ The three pieces extend Broken Whisper rather than arm anyone against it. Inside
 |---|---|
 | **Before use** | Wielder, piece, and a dated baseline taken by the second worker — how the bearer finishes their own sentences, and whether they quote themselves. What this set takes is the line between what somebody was told and what they said, and the baseline is the only record of where that line stood. |
 | **During use** | The second worker logs the hour the bearer first repeats a fragment as their own, and the hour they stop noticing they are doing it. The bearer's own account is entered separately and never in place of the transcript. |
-| **At limit** | The bearer stops finishing sentences and stops noticing that they have stopped; on this set the observer calls the limit rather than the bearer, because the piece removes exactly the faculty that would let the bearer report it. |
+| **At limit** | The bearer stops finishing sentences and stops noticing that they have stopped. On this set the observer calls the limit rather than the bearer, because the piece removes exactly the faculty that would let the bearer report it. |
 | **After use** | Return the piece and ask a colleague, not the bearer, whether the cost is still showing: the bearer goes numb to small joys and finds conversation effortful in the specific way this set produces, and cannot see it in themselves. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and the grade only measures the first. An efficient piece cut from this source can leave its wielder Fractured, hollowed, or holding a stranger's last words as a private recollection. Read both columns and authorise on the second: on this set it is the issue log, not the grade, that is the record which matters.
 
-**Full-set source review (2026-10-12):** Reviewed the `I-Relic (Indumentum) · γ (Major)` overview, every local M.A.W. block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. mentions against Side `SE-369-A` (`O-IIIγ-369 [LO]`, set `4/4`), items `SE-369-B/C/D` (`MAW-W/S/G-369-01`), Registry rows 631–634, Master Codex table/Entries 592–594, Tale 198, and the `MAW-W-369` archetype records. Every primary review section is present; each linked item has an Appearance section, but none has a separately labelled transition block. The repository has no Suit or Stigma archetype list. The Stigma effect now specifies `+2 Clarity`, retaining the primary's source-cycle restriction. The Weapon's core numeric profile and the Suit's recorded resistance/cost profile match the linked item records; the Weapon item's Skewer and 100% → 70% → 50% falloff are not stated locally and were not added.
+**Full-set source review (Year 4238):** Reviewed the `I-Relic (Indumentum) · γ (Major)` overview, every local M.A.W. block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. mentions against Side `SE-369-A` (`O-IIIγ-369 [LO]`, set `4/4`), items `SE-369-B/C/D` (`MAW-W/S/G-369-01`), Registry rows 631–634, Master Codex table/Entries 592–594, Tale 198, and the `MAW-W-369` archetype records. Every primary review section is present; each linked item has an Appearance section, but none has a separately labelled transition block. The repository has no Suit or Stigma archetype list. The Stigma effect now specifies `+2 Clarity`, retaining the primary's source-cycle restriction. The Weapon's core numeric profile and the Suit's recorded resistance/cost profile match the linked item records. The Weapon item's Skewer and 100% → 70% → 50% falloff are not stated locally and were not added.
 
-Keep the extraction, cost, and identity/form differences open. The primary's shard-taking account is not independently established by the Side's echo after two listeners preserve matching emotional content, the Requiem's post-witness formation, or the Bell's discretionary bestowal; none says source crystal is physically removed. The primary's Weapon cost is borrowed grief, with involuntary weeping under prolonged use; its Use Notes say the cost can arrive early and does not reverse on return, while its Consequences record a set-wide confidence/recall debit. The Field Use Record tracks sentence completion and minor-joy numbness but does not map every sign to a piece. Individual items distinguish the Requiem's weeping and temporary heard-grief/personal-memory confusion, the Shroud's muted minor joys and identity separation, and the Bell's temporary inability to hear ordinary whispers. Preserve the primary and item accounts side by side; do not project one piece's cost onto the other two. Hold the primary/Master-table *Murmur Astrolabe* (a floating navigation sphere) against the Side/item Susurrus-named Requiem blade and Master Entry 592's *The Broken Whisper's Requiem*. The archetype index lists a Medium Astrolabe and a separate Requiem Flamberge but documents no transition between them. Suit/Bell names also vary between the primary/Master *Broken Whisper* titles and the Side/item *Susurrus* titles. Registry rows 632–633 remain partial (variable/unset Weapon data and a generic Suit-resistance placeholder); row 634 remains generic Accessory / 5% against Tail / 4%. Master Suit/Stigma subtype labels do not crosswalk to the described Shroud and Tail Bell. Tale 198 treats the interrupted pleas, not equipment form.
+Keep the extraction, cost, and identity/form differences open. The primary's shard-taking account is not independently established by the Side's echo after two listeners preserve matching emotional content, the Requiem's post-witness formation, or the Bell's discretionary bestowal. None says source crystal is physically removed. The primary's Weapon cost is borrowed grief, with involuntary weeping under prolonged use. Its Use Notes say the cost can arrive early and does not reverse on return, while its Consequences record a set-wide confidence/recall debit. The Field Use Record tracks sentence completion and minor-joy numbness but does not map every sign to a piece. Individual items distinguish the Requiem's weeping and temporary heard-grief/personal-memory confusion, the Shroud's muted minor joys and identity separation, and the Bell's temporary inability to hear ordinary whispers. Preserve the primary and item accounts side by side; do not project one piece's cost onto the other two. Hold the primary/Master-table *Murmur Astrolabe* (a floating navigation sphere) against the Side/item Susurrus-named Requiem blade and Master Entry 592's *The Broken Whisper's Requiem*. The archetype index lists a Medium Astrolabe and a separate Requiem Flamberge but documents no transition between them. Suit/Bell names also vary between the primary/Master *Broken Whisper* titles and the Side/item *Susurrus* titles. Registry rows 632–633 remain partial (variable/unset Weapon data and a generic Suit-resistance placeholder); row 634 remains generic Accessory / 5% against Tail / 4%. Master Suit/Stigma subtype labels do not crosswalk to the described Shroud and Tail Bell. Tale 198 treats the interrupted pleas, not equipment form.
 
 ## 관찰 기록 (Observation Log)
 
@@ -313,10 +327,10 @@ No complete message has been recovered without human interpretation.
 The burden of unfinished pleas and voices broken by fear.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Fragments can be assembled into partial histories. (Stable); Ferrehan: Continues whispering until the worker can bear incompletion. (Decrease). It responds positively to patient listening.
+Work response — Viderehan: fragments are listed separately and never assembled into partial histories. (Stable); Ferrehan: continues whispering until the worker can bear incompletion. (Decrease). It responds positively to patient listening.
 
 **Entry 5 — <Archive Note: On the Three Requests for a Readable Account>**
-Three times in twenty-six years the wing has been asked to produce a plain account of the collapse, and three times it has declined; the declines are filed with the drafts that prompted them. The drafts are competent — each joins the surviving fragments into a narrative that reads as one voice — and each would answer a question this archive cannot answer without doing the joining the holding exists to prevent. What is offered instead is the lists, all of them, unarranged and unselected, with a counsellor present. The note records that this is not a kindness: it is the only form of the truth the facility actually holds, and handing it over transfers the interpretive burden to the person least able to carry it. The wing's answer is that the alternative is doing the joining on that person's behalf and being wrong in a way they could never discover.
+Three times in twenty-six years the wing has been asked to produce a plain account of the collapse, and three times it has declined. The declines are filed with the drafts that prompted them. The drafts are competent — each joins the surviving fragments into a narrative that reads as one voice — and each would answer a question this archive cannot answer without doing the joining the holding exists to prevent. What is offered instead is the lists, all of them, unarranged and unselected, with a counsellor present. The note records that this is not a kindness: it is the only form of the truth the facility actually holds, and handing it over transfers the interpretive burden to the person least able to carry it. The wing's answer is that the alternative is doing the joining on that person's behalf and being wrong in a way they could never discover.
 
 ## 최종 관찰 (Final Observation)
 
@@ -324,7 +338,7 @@ Three times in twenty-six years the wing has been asked to produce a plain accou
 
 | Keep the transcript a list: one transcriber, one timekeeper, nobody conferring, and no fragment joined to another (Keep the transcript a list — one transcriber, one timekeeper, nobody conferring, and no fragment joined to another). | Make sense of it — join the half-words into a sentence, skip the break, or confer with the other transcriber to check you heard the same thing. Every one of those is the holding's own method rather than the worker's. |
 |---|---|
-| Continues whispering until the worker can bear incompletion. The sorrow is witnessed; Broken Whisper is fully recorded. | Fragments can be assembled into partial histories. The gauge climbs and Broken Whisper withdraws without revelation. |
+| Continues whispering until the worker can bear incompletion. The sorrow is witnessed; Broken Whisper is fully recorded. | The joined account reads as a partial history, but the history belongs to the listeners. The gauge climbs and Broken Whisper withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -345,20 +359,20 @@ The tunnel is full of almost-words. A syllable touches your ear, breaks, and fal
 
 The three holdings below are filed against Broken Whisper because each is a record of speech that stopped or never arrived, and the archive pairs them by that subject rather than by any observed contact between the sites. What the field can measure here is narrow: whether a fragment from this object is completed by the other presence, and whether the transcript begins to read as dialogue. Nothing in this table has ever been shown to improve this holding's condition.
 
-**Interaction method:** Solo baselines first; without them an interaction study here is two transcripts and a hypothesis. The relations on file all concern voices that were stopped or never arrived, so the question to settle is whether the fragments begin to complete each other across the pair — whether a half-word from this object is finished by the other presence, and whether the transcript starts reading as dialogue. Log the activating distance, duration, gauge change on both sides, operational impact, and whether separation ends it. Each interaction is a fresh experiment: identical conditions in this tunnel have produced different results in consecutive cycles.
+**Interaction method:** Solo baselines first; without them an interaction study here is two transcripts and a hypothesis. The relations on file all concern voices that were stopped or never arrived. So the question to settle is whether the fragments begin to complete each other across the pair — whether a half-word from this object is finished by the other presence. And whether the transcript starts reading as dialogue. Log the activating distance, duration, gauge change on both sides, operational impact, and whether separation ends it. Each interaction is a fresh experiment: identical conditions in this tunnel have produced different results in consecutive cycles.
 
 
 ### Entity Interaction Record
 
-This holding belongs to a small set of records made from speech that stopped short, and the archive files them together rather than treating the object as a solitary crystal in the deep tunnels. The three pairings below are canonical because they have been observed and filed, not because they are settled: any of them may present as assistance, obstruction or indifference, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event. The caution this table adds is specific to the holding — on this one, an interaction that reads well is the finding to distrust.
+This holding belongs to a small set of records made from speech that stopped short, and the archive files them together rather than treating the object as a solitary crystal in the deep tunnels. The three pairings below are canonical because they have been observed and filed, not because they are settled: any of them may present as assistance, obstruction or indifference. And a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event. The caution this table adds is specific to the holding — on this one, an interaction that reads well is the finding to distrust.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hollow Choir** | The Choir fills in the harmonics this object is missing. | Attempted twice along the tunnel and stopped both times inside ten minutes. Transcripts began reading as continuous speech, which is the one outcome this holding treats as failure however good it sounds. Not to be attempted again without commander's authority. | Both part-transcripts, kept separate, with the termination times and the reason stated as failure. |
-| **The Whispering Walls** | The Walls give the fragments back. | Returned fragments arrive altered in length about a third of the time, and the alteration is always toward completeness. The wing treats every Wall-returned fragment as a second-hand account and lists it apart from the direct transcript, never within it. | The two lists side by side, the return delay, and the proportion altered. |
-| **The Orphaned Bell** | The Bell sounds when a fragment carries a child's name. | Recorded nineteen times, against sixty-one names heard in total. The wing has never used the Bell to decide whether a name was a child's, since a holding that identifies the dead by what another holding does when it hears them is doing the joining by proxy. | Bell times against the transcript lines, and the standing refusal to treat the Bell as evidence of anything about the name. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | The Choir fills in the harmonics this object is missing. | Attempted twice along the tunnel and stopped both times inside ten minutes. Transcripts began reading as continuous speech, which is the one outcome this holding treats as failure however good it sounds. Not to be attempted again without commander's authority. | Both part-transcripts, kept separate, with the termination times and the reason stated as failure. |
+| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | The Walls give the fragments back. | Returned fragments arrive altered in length about a third of the time, and the alteration is always toward completeness. The wing treats every Wall-returned fragment as a second-hand account and lists it apart from the direct transcript, never within it. | The two lists side by side, the return delay, and the proportion altered. |
+| [**The Orphaned Bell**](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | The Bell sounds when a fragment carries a child's name. | Recorded nineteen times, against sixty-one names heard in total. The wing has never used the Bell to decide whether a name was a child's, since a holding that identifies the dead by what another holding does when it hears them is doing the joining by proxy. | Bell times against the transcript lines, and the standing refusal to treat the Bell as evidence of anything about the name. |
 
-**Interaction procedure:** Take both baselines alone first, bring the two into range along the tunnel rather than across it, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the passage, and whatever persists after separation. What this holding adds to that is the transcript comparison: the two fragment lists side by side and never interleaved, with the timings entered against each.
+**Interaction procedure:** Take both baselines alone first, bring the two into range along the tunnel rather than across it. And log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the passage, and whatever persists after separation. What this holding adds to that is the transcript comparison: the two fragment lists side by side and never interleaved, with the timings entered against each.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -405,9 +419,9 @@ Some sorrows mourn the dead. Broken Whisper mourns their last words — the mess
 
 ### Registry Addendum
 
-**Operational interpretation:** Treat the record as a starting point and the tunnel as the authority, and notice what the whole file is organised around, which is a refusal to finish things. Fragments are not joined. Breaks are not marked. The current discrepancy is recorded and not explained. The signal logs are reproduced with their incomplete lines intact. None of that is fastidiousness; it is the containment measure, and it runs directly against what an archive is for. Every person posted here arrives trained to resolve, collate and summarise, and is required to stop doing so at the one holding where those habits are the hazard. The pressure to produce a readable account of the collapse has come up three times and been declined three times, and the declines are filed together with the drafts that prompted them. Where the entity contradicts this file, trust the entity and log the discrepancy; preserve the contradiction rather than normalising it into something that reads as a single voice.
+**Operational interpretation:** Treat the record as a starting point and the tunnel as the authority, and notice what the whole file is organised around, which is a refusal to finish things. Fragments are not joined. Breaks are not marked. The current discrepancy is recorded and not explained. The signal logs are reproduced with their incomplete lines intact. None of that is fastidiousness; it is the containment measure, and it runs directly against what an archive is for. Every person posted here arrives trained to resolve, collate and summarise, and is required to stop doing so at the one holding where those habits are the hazard. The pressure to produce a readable account of the collapse has come up three times and been declined three times, and the declines are filed together with the drafts that prompted them. A discrepancy goes into the drafts' file beside the three declines it belongs with, and the account is not smoothed into a single voice.
 
-**Review requirement:** After any transformation, Sorrow Tide, Ordeal, activation, or unusual interaction, verify the four pillars — gauge, seal, personnel, position — and add the two this holding needs: the transcript, checked for joined fragments, and the issue log for any name spoken into the object. Joined fragments are treated as an environmental finding about the pressure in the room, never as carelessness by the transcriber, because the entity's method is to make the joining feel like comprehension. Any operator who has begun recalling a returned message as their own experience is referred to the counselor the same day, and the referral is not a mark against them.
+**Review requirement:** After any transformation, Sorrow Tide, Ordeal, activation, or unusual interaction, verify the four pillars — gauge, seal, personnel, position — and add the two this holding needs: the transcript, checked for joined fragments. And the issue log for any name spoken into the object. Joined fragments are treated as an environmental finding about the pressure in the room, never as carelessness by the transcriber, because the entity's method is to make the joining feel like comprehension. Any operator who has begun recalling a returned message as their own experience is referred to the counselor the same day, and the referral is not a mark against them.
 ## Warden Record
 
 ### Fragments That Never Complete
@@ -430,15 +444,15 @@ What the object holds is appeal rather than information, and the file states thi
 
 **Eleven thousand four hundred fragments, in four hundred and twelve lists, over twenty-six years.** Mean length 2.1 words. Longest ever recorded, nine. The lists are never merged, and that is the holding's central fact rather than an administrative preference.
 
-**Sixty-one distinct names have been heard. Twelve of them appear on the surviving station rolls.** The wing has never written to a family on the strength of those twelve, and the reason is in the method: a name arriving in a fragment is a sound this object made, not a sender identified, and the distance between those two things is the whole of what went wrong in the tunnels.
+**Sixty-one distinct names have been heard. Twelve of them appear on the surviving station rolls.** The wing has never written to a family on the strength of those twelve. And the reason is in the method: a name arriving in a fragment is a sound this object made, not a sender identified. And the distance between those two things is the whole of what went wrong in the tunnels.
 
-Nothing in the series trends. Fragment rate rises near older walls and falls after a settled cycle; it has not changed across twenty-six years in any way the wing will stand behind. The one number that moves is the count of lists, which goes up by about sixteen a year and will go on doing so for as long as anybody listens.
+Nothing in the series trends. Fragment rate rises near older walls and falls after a settled cycle. It has not changed across twenty-six years in any way the wing will stand behind. The one number that moves is the count of lists, which goes up by about sixteen a year and will go on doing so for as long as anybody listens.
 
 ### Accounts Are Never Reconciled
 
 Where two people record the same event independently, both records stand and neither is corrected against the other. The facility does not hold reconciliation meetings, does not produce an agreed version, and does not permit one account to be amended because another disagrees with it.
 
-The rule is right and the archive contains the reason. There was a period of collective debriefing in which teams produced a single agreed account of each incident, and the accounts from that period are all internally consistent, all beautifully written, and all worthless — every one of them records what the most senior person in the room remembered, and the dissenting detail that would have shown the pattern is in none of them.
+The rule is right and the archive contains the reason. There was a period of collective debriefing in which teams produced a single agreed account of each incident. And the accounts from that period are all internally consistent, all beautifully written. And all worthless — every one of them records what the most senior person in the room remembered. And the dissenting detail that would have shown the pattern is in none of them.
 
 Here the rule is also, by accident, the containment measure. Two transcribers comparing notes aloud will between them produce a sentence neither of them wrote down, and the entity is at its most convincing precisely when the fragments begin to complete each other. *Do not confer* is the only instruction in this file that protects both the record and the person.
 
@@ -452,7 +466,7 @@ An enquirer may read the lists. All of them, in full, in the order they were tra
 
 **Nine of the thirty-four have taken it up.** Two reported afterwards that they had recognised something. Both recognitions are recorded as theirs — entered in the file under their own name as a statement they made, not as a finding of the wing, and not cross-referenced to any transcript line.
 
-The counsellors' objection is standing and is the sharpest in the file. Handing a bereaved person eleven thousand unsorted half-words transfers the interpretive burden from the institution, which is trained for it and insured against being wrong, to the person least able to carry it and most likely to find what they are looking for. They are right. The wing's only recorded reply is that the alternative is doing the joining on that person's behalf and being wrong in a way they could never discover, and that between those two it has chosen the one where the error, if it happens, at least belongs to the person it is about.
+The counsellors' objection is standing and is the sharpest in the file. Handing a bereaved person eleven thousand unsorted half-words transfers the interpretive burden from the institution, which is trained for it and insured against being wrong, to the person least able to carry it and most likely to find what they are looking for. They are right. The wing's only recorded reply is that the alternative is doing the joining on that person's behalf and being wrong in a way they could never discover. And that between those two it has chosen the one where the error, if it happens, at least belongs to the person it is about.
 
 ## Trivia
 
@@ -464,8 +478,8 @@ The counsellors' objection is standing and is the sharpest in the file. Handing 
 ### Registry Trivia
 
 - **Classification detail:** Broken Whisper is an Object/Place with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Lament is the whole of it and the registered location is Zone B, deep tunnels; the crystal drifts against the current running past it, a discrepancy logged every cycle since the holding was filed and never once explained — on this record that is the instrument rather than an anomaly.
-- **Recognition detail:** Identify it by the incompleteness. Several things in the deep tunnels whisper; this is the fractured crystal whose fragments never resolve into a sentence and whose drift does not match the current running past it.
+- **Field detail:** Lament is the whole of it and the registered location is Zone B, deep tunnels. The crystal drifts against the current running past it, a discrepancy logged every cycle since the holding was filed and never once explained — on this record that is the instrument rather than an anomaly.
+- **Recognition detail:** Identify it by the incompleteness. The deep tunnels whisper in many registers. This is the fractured crystal whose fragments never resolve into a sentence and whose drift does not match the current running past it.
 - **Record detail:** Whisper-form and voice-form entities recur through the archive and several share this one's element and zone. Confirm the designation and the manifestation before a cycle is booked: 11,400 fragments have been transcribed in 412 separate lists over 26 years, mean length 2.1 words, and not one of those lists has ever been merged — the instructions diverge at exactly that point.
 - **Containment detail:** Sealed does not mean silent, and in a tunnel system it barely means enclosed. The whispers carry further along the passages than the resonance figures predict and are reported as clearer near walls that hold older grief, so the practical boundary of this holding is the geology rather than the door. Personnel working unrelated tasks two junctions away have filed fragments. Those filings are kept with the holding, in list form, like every other.
 ## Document Information

@@ -55,15 +55,15 @@ Batch154 OPEN 3/5; cumulative No change 0/3. Minimum five; at least three No cha
   "new_equipment_credit": 0,
   "source_sha256": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-A__SIDE_CODEX_The_Debt_Scale.md": "75aef20d82fc5a3986eff972ebb59ecf051352819d2d85010c076e41acd2b8a1",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-B__MAW-W_The_Balance_Lens.md": "7fbe83a95b53f9f4f73a0d5a9be0c8a54a23d697e7f88a4204a32617d90c4e27",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-B__MAW-W_The_Balance_Projector.md": "7fbe83a95b53f9f4f73a0d5a9be0c8a54a23d697e7f88a4204a32617d90c4e27",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-C__MAW-S_The_Balance_Veil.md": "d395f9732fb8d66f712230a8a29db0d86b6d7165003f855c53564dacc8c09d09",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-D__MAW-G_The_Balance_Pendant.md": "68211ce4f379ab1e13ec24dc7c9456d3dbc088dca92f2ddea2d40801f73e57eb",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": {

@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-115 [VP]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Grand Archive underwell custody
 
@@ -61,10 +61,10 @@ A dropped stone does not splash. It rings with a voice the observer has forgotte
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Do not attempt to comfort a memory source as though it can consent for every remembered life. |
-| Pugnahan | Invalid for this Place entity. | N/A | Never throw objects, samples, or questions into the Well. |
+| Flerehan | Invalid for this Place entity. | Negative-Low | Do not attempt to comfort a memory source as though it can consent for every remembered life. |
+| Pugnahan | Invalid for this Place entity. | Negative-Low | Never throw objects, samples, or questions into the Well. |
 | Viderehan | Displays the viewer’s history in full. | Stable | Viewing occurs with an Archive witness and a fixed exit time. |
-| Ferrehan | Forces the worker to remain with difficult memories. | Down | A second archivist retains the worker’s name, role, and current date outside the viewing perimeter. |
+| Ferrehan | Forces the worker to remain with difficult memories. | Decrease | A second archivist retains the worker’s name, role, and current date outside the viewing perimeter. |
 
 ### Expansion response
 
@@ -85,7 +85,7 @@ This set records, protects, and replays memory. It may not be used to turn a lif
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Shard-Storm Reel | γ | Void | Severs invasive memory pressure and returns its echo to approved custody without giving the bearer its contents | `SE-115-B__MAW-W_The_Memory_Lens.md` |
+| Weapon | The Shard-Storm Reel | γ | Void | Severs invasive memory pressure and returns its echo to approved custody without giving the bearer its contents | `SE-115-B__MAW-W_The_Shard_Storm_Reel.md` |
 | Suit | The Memory Veil | γ | Void | Identity protection during supervised memory exposure | `SE-115-C__MAW-S_The_Memory_Veil.md` |
 | Stigma | The Memory Flask | γ | Void | One consent-bound memory replay | `SE-115-D__MAW-G_The_Memory_Flask.md` |
 
@@ -106,7 +106,7 @@ This set records, protects, and replays memory. It may not be used to turn a lif
 
 **Quick effect:** The Reel severs invasive memory pressure and routes the echo to approved Archive custody; the bearer does not retain its contents.
 
-**Weapon-title review (2026-10-11):** `C-IIIγ-115`’s primary M.A.W. block, the current `SE-115-B` heading and reel-with-glass-shards Appearance, the Master Registry, the `MAW-W-115` archetype, and same-code revision `3abe5470` support *The Shard-Storm Reel*. Master M.A.W. Codex Entry 52 and its table row, plus the linked item’s Official name, Resting / Active forms, and Lens-specific attack/history wording, still say *The Memory Lens*; keep the legacy identity/form conflict held, with no Lens-to-Reel transition or second form inferred. The master table also places *The Shard-Storm Reel* under Broken Fragment `SE-O-IVδ-115`, while detailed Entry 658 says *The Fragment Maul*; preserve that cross-entry index discrepancy without editing the master. The old item filename remains only as the linked path. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `C-IIIγ-115`’s primary M.A.W. block, the current `SE-115-B` heading and reel-with-glass-shards Appearance, the Master Registry, the `MAW-W-115` archetype, and same-code current revision support *The Shard-Storm Reel*. Master M.A.W. Codex Entry 52 and its table row, plus the linked item’s Official name, Resting / Active forms, and Lens-specific attack/history wording, still say *The Memory Lens*; keep the legacy identity/form conflict held, with no Lens-to-Reel transition or second form inferred. The master table also places *The Shard-Storm Reel* under Broken Fragment `SE-O-IVδ-115`, while detailed Entry 658 says *The Fragment Maul*; preserve that cross-entry index discrepancy without editing the master. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 
@@ -171,13 +171,3 @@ This set records, protects, and replays memory. It may not be used to turn a lif
 **Entity links:** The Memory Weaver; The Broken Mirror; Silence We Forgot We Made.  
 **Archive distinction:** Memory preservation requires consent and custody; a recovered reflection is not automatically a public record.  
 **Item links:** `SE-115-B`, `SE-115-C`, and `SE-115-D` carry the individual bearer, replay, and corrosion rules for Unremembered Lives.
-
----
-
-**Document ID:** `SE-115-A`  
-**Linked Entity:** `SE-115`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

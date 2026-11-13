@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-917 [VT]` |
-| **Entity Type** | **Time** — Recorded expansion takes neighbouring streets between episodes; no transformed body is documented |
+| **Entity Type** | **Time** — Non-breaching: expansion only|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -27,14 +27,15 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Time |
 | **Primary pressure** | Void / Dream pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 3 |
+| **Work Damage** | 3–5 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is sunrise arriving and the district still unable to wake. It resets to 20 s the moment the operator is out of the interval — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Watch from outside the zone and let the morning finish. The gauge falls on episodes observed to their end from the perimeter post; it has never fallen on an episode a party entered, and the four entries on record ended the same way the others did, at the same minute. |
+| **Recommended response** | Watch from outside the zone and let the morning finish. The gauge falls on episodes observed to their end from the perimeter post. It has never fallen on an episode a party entered, and the four entries on record ended the same way the others did, at the same minute. |
 
 ### Operational Notes
 
@@ -44,51 +45,58 @@
 - Handover is written and countersigned at the door, because spoken handover has repeatedly failed to survive the gap.
 - Extraction is authorized apart from the work cycle.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Void pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 464/464 |
-| **Han Pressure [ATK]** | 17–29 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Major temporal/dream hazard; not a Sovereign classification |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-917 |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 20 s, entered — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **120 s** — six doses, and at 120 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | absence poured in until there is no room for anything else — the handler goes quiet before they go still |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+entered on a 20-second clock, so the six come to **120 seconds**. A worn piece gets a minute and
+a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the file's own event note says that nobody in the widened streets has ever reported injury. What the holding does is hold a morning shut, and the whole of the watch is two shutter times taken from outside the line.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A lit district that will not wake. The mismatch is the entity: the sky does its part and the residents cannot open their eyes, and the sleepers are people within its extent rather than any anatomy of the holding. Nothing in the district has ever been damaged. |
+| **Perceptible to** | The shutters — the first one opening and the last one opening, timed from the perimeter post — and, from the sleepers themselves, an account that arrives consistently and is not confusion and not dreaming: a morning attended from the wrong side of the eyelids. |
+| **Handling** | The post is held without entering, the first shutter and the last are timed, and the pair goes into the series. Neither Work Type has ever produced an early waking, and the rotation exists because of the standing, not the sleepers. — see `## Handling Process` |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [Saturation]** | **000 of 660** · ready · six doses · limit 120 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-N-917, contained |
 | **Resolution Condition** | The district opens its eyes. Mean elapsed time from sunrise, seventy-one minutes; range forty to a hundred and ten; twenty-nine episodes and no exceptions. Nothing has ever shortened one and the file lists what has been tried. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Stalled Watch* [**Debuff**] } | "The clock reaches the hour before dawn and stays there, and nothing on the shift ends." | [The hour the dawn forgot to close settles over the target and does not lift.] | *Target carries the weight of a night that will not end.* **[10 Void DMG [Void]]** | When the shift first walks into the stall. |
-| { *The Forgetting Spreads* [**Attack**] } | "You cannot remember whether the sun came up yesterday, and the doubt is the point." | [The forgetting moves out of the stall in every direction at once.] | *The doubt does the work, and the hour is forgotten in turn.* **[21 Void DMG [Void]]** | When the stall is entered a second time. |
-| { *Nobody Remembers the Sunrise* [**Attack**] } | "Ask the room when the light last came — four answers, none of them the same, all of them certain." | [The stall closes on one point and the whole shift loses the same hour together.] | *The certainty does the damage; the gauge surges across the ground.* **[29 Void DMG [Void]]** | When the stall is pressed or the shift is forced across it. |
-| { *The Sleep That Takes the Sky* [**Ultimate**] } | "Dawn breaks over every district at once — and nobody watching it can say whether the sun rose or the sky simply stopped." | [The stall goes out to the horizon and the day does not start anywhere in it.] | *All personnel suffer Void erosion for three turns, and the date is entered from the records rather than from memory.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+### Contact Events
 
-### Battle Phases
+| Event | What the morning does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Stalled Watch* [**Register**] } | Reaches the hour before dawn and stays there: the light comes, the shift does not end, and nothing in the district starts. | Starts the clock at the first shutter and stops it at the last, from the perimeter post, and enters the pair against the twenty-nine-episode series. | Timing is the whole instrument. There is no measurement of the condition inside a sleeper, so the shutter pair is the only figure the file has ever had — mean seventy-one minutes, range forty to a hundred and ten. |
+| { *The Forgetting Spreads* [**Contagion**] } | Moves the doubt outward in every direction at once: a worker stops being sure whether the sun came up yesterday, and the doubt is the transferable part. | Records the account of anybody who will give one, separately and before they have spoken to anybody else, and does not discuss the hour among the watch. | The doubt spreads by being said aloud in a room where nobody can settle it, which is why separate accounts are taken and compared afterwards rather than during. |
+| { *Nobody Remembers the Sunrise* [**Exposure**] } | Closes the stall on one point, so that the whole shift loses the same hour together and four people give four different answers, each of them certain. | Enters the date from the records rather than from anybody's memory, and does not press the stall — pressing has never produced an earlier shutter. | The certainty is the exposure. Four accounts that disagree and are each held firmly are the file's description of an episode that has run past its mean, and they are recorded as four accounts and not as one fact. |
+| { *The Sleep That Takes the Sky* [**Overload**] } | At sixty-five per cent the stall goes out to the horizon and the day does not start anywhere inside it. The district is lit and every district beside it is waiting too. | Closes the perimeter, takes the shutter times from the outermost post that still has a view, and reinstates the series from the records rather than from the day. | Void erosion is the cost to the watchers and not to the sleepers, and the date is entered from the records. Nothing has ever shortened an episode and the file lists what has been tried. |
 
-1. **Tension:** Dawn That Forgot is confirmed by the awareness. Sleepers report knowing that morning had come and being unable to open their eyes, and they report it consistently — not confusion, not dreaming, but a morning attended from the wrong side of the eyelids. The team establishes its position and its withdrawal before the cycle opens.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dawn That Forgot's recorded combat actions.
-3. **Resolution:** People get up. The post records the minute the first shutter opens and the minute the last one does, and the pair of figures goes into the series. There is no suppression step because there has never been anything to suppress — the district is read against the documented suppression condition: **the first shutter and the last shutter are timed from the perimeter post**.
+### Watch Sequence
+
+1. **What is confirmed:** the perimeter post and its view, the sunrise time entered from the records, and the last shutter time from the previous episode in the series.
+2. **What the watch does:** Viderehan for the dream pressure and Ferrehan for holding the post through an episode, with nobody sent in and no attempt made to wake a sleeper.
+3. **How it closes:** **the first shutter and the last shutter are timed from the perimeter post** — the district opens its eyes, mean elapsed time from sunrise seventy-one minutes across twenty-nine episodes, and nothing has ever shortened one. An episode closed on anybody's account of the morning rather than on the two shutter times is entered as unmeasured.
 
 ### Consequences
 
@@ -102,13 +110,13 @@
 
 **Extent and sequence:** The usual event begins at local sunrise and ends when the district opens its eyes. Whole streets have been added between episodes; this changes affected territory, rather than a sun, figure or sleeping body travelling along the boundary. Timing the first or last shutter does not imply every episode has the mean duration.
 
-**Witness tools and derived equipment:** The clock times the watch while the marker locates its perimeter. Neither supplies a physical vessel for the dawn. The marker-derived Edge, issue-cloak Veil and clock-brass Token have separate bearer effects; a brief word lapse or delayed waking after gear use is not a new district-wide episode. The post keeps timing records and a fitness judgment, not the infirmary's confidential cumulative figure.
+**Witness tools and derived equipment:** The clock times the watch while the marker locates its perimeter. Neither supplies a physical vessel for the dawn. The marker-derived Edge, issue-cloak Veil and clock-brass Token have separate bearer effects. A brief word lapse or delayed waking after gear use is not a new district-wide episode. The post keeps timing records and a fitness judgment, not the infirmary's confidential cumulative figure.
 
 **Primary Form:** A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes.
 
 **Notable Features:**
-- Expresses Void pressure in a dream register.
-- The time form is unmistakable — this is a dream entity, not a general one.
+- The light is ordinary. What is not is that no shutter opens anywhere in the zone, and the district stays silent while the sky goes from grey to full morning.
+- The sleepers are aware. They report knowing that morning had come and being unable to open their eyes, which is the only account the watch has taken from inside.
 - Identification is by the silence after sunrise: a lit district with no shutters opening, no traffic, and no one at the windows.
 
 **Identification Profile**
@@ -124,7 +132,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes. |
-| **Position / movement** | Fixed to the district and to the hour after its sunrise. The Warden’s post is outside the affected zone looking in; observation is visual and at distance, and there is no instrument in the holding at all. |
+| **Position / movement** | Fixed to the district and to the hour after its sunrise. The Warden’s post is outside the affected zone looking in. Observation is visual and at distance, and there is no instrument in the holding at all. |
 | **Material / signature** | Light without waking. The sky brightens on schedule, the streetlamps cut out on their timers, and nothing else in the district moves. Photographs of the hour are indistinguishable from photographs of the same street before dawn except for the light. |
 | **Distinctive markers** | The awareness. Sleepers report knowing that morning had come and being unable to open their eyes, and they report it consistently — not confusion, not dreaming, but a morning attended from the wrong side of the eyelids. |
 | **Identification** | Ask what time they knew it was. People who have been through an episode give the hour to within a few minutes, from inside a room they could not see. No ordinary sleep produces that answer. |
@@ -137,35 +145,34 @@ A junior researcher noticed that the readings clustered after sunrise. She wrote
 
 What the page described is this: the sun comes up over a district and the district does not. People lie in their beds knowing the hour, unable to open their eyes, for an average of seventy-one minutes, and then the morning starts.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the dream pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+> **This holding is not worked.** A lit district that will not wake. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the perimeter post and its view, the sunrise time entered from the records, and the last shutter time from the previous episode in the series. |
+| **Handling** | The watch starts the clock at the first shutter and stops it at the last, from the perimeter post, and enters the pair against the twenty-nine-episode series. |
+| **Withdrawal** | **the first shutter and the last shutter are timed from the perimeter post** — the district opens its eyes, mean elapsed time from sunrise seventy-one minutes across twenty-nine episodes, and nothing has ever shortened one. An episode closed on anybody's account of the morning rather than on the… |
+| **Refusal** | The post is held without entering, the first shutter and the last are timed, and the pair goes into the series. Neither stages has ever produced an early waking, and the rotation exists because of the standing, not the sleepers. |
 
-Sunrise and shutter times are recorded from the post, but no instrument measures the condition inside the sleepers. Timing an episode is not a direct measurement of the dream state. Both valid approaches are performed from the perimeter: observation is the watch itself, endurance is holding the post for the length of an episode without sending anyone in. The gauge answers to the watch being kept, which is the only act the holding permits.
+## Containment Event Behavior
 
-## Breach Behavior
+> **Containment event — no breach counter.** Episodes take neighbouring streets and no transformed body is documented. The gauge rises ten per cent per street taken.
 
-> *"Dawn That Forgot has broken free. The void dream spreads."*
-
+> *"Dawn That Forgot has taken the next street out. Read the boundary at first light; every household inside it now begins the day with an episode, and nobody there is injured by it."*
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The affected zone takes in streets along its own boundary, by whole blocks, between one episode and the next. Three widenings in seventeen years, each one found by the post noticing shutters that stayed closed a street further out than last time. |
-| **Effect** | Households newly inside the line experience their first episode at the next dawn and every dawn the holding has thereafter. Nobody in the widened streets has ever reported injury; what they report is the loss of the early shift, and the district has rescheduled around it twice. |
+| **Effect** | Households newly inside the line experience their first episode at the next dawn and every dawn the holding has thereafter. Nobody in the widened streets has ever reported injury. What they report is the loss of the early shift, and the district has rescheduled around it twice. |
 | **First Target** | Whoever sleeps nearest the boundary — geographically, not emotionally. The three widenings took the next street out in each case, in order, with no regard to who lived there, and the post predicted the third correctly from the first two. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Containment priority:** Hold the perimeter post from before sunrise until the last shutter opens, and log the three times.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per street taken rather than per turn. It has stood at 70% since the third widening and has not moved in nine years.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per street taken rather than per turn. It has stood at 70% since the third widening and has not moved in nine years.
 
 ## M.A.W. Equipment
 
@@ -175,11 +182,11 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, with a watch-face set into the guard that has no minute hand.
 
 **Damage:** Void 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
-**Cost:** The wielder wakes slowly for a week — lucid, aware of the room, several seconds behind their own eyes. It is counted as an exposure on the infirmary’s running total, like everything else here.
+**Ability:** *First Hour* — the strike takes the hour after waking rather than the body. The target keeps the day and loses the dawn of it, and cannot afterwards say what they had meant to do before the bell.
+**Bearer cost:** The wielder wakes slowly for a week — lucid, aware of the room, several seconds behind their own eyes. It is counted as an exposure on the infirmary’s running total, like everything else here.
 
 **Edge exposure account:** The Weapon’s individual cost describes emotional numbness toward Void; this record describes waking slowly for a week. Log the two observations without treating one as proof of the other. A bearer may be lucid and still several seconds behind their eyes. Taking the Edge inside counts even if no strike was made, and neither a quiet blade nor an uneventful watch cancels that entry. The item’s source event remains unrecorded: attribution review must keep that absence instead of borrowing a resident’s dream to complete it.
 
@@ -191,8 +198,8 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Bearer cost:** The wearer becomes difficult to summon in memory, even from inside their own thoughts; the veil offers shelter by making its bearer fade from recollection.
-**Ability:** Grants resistance to Void damage, protecting against the dream register of sorrow.
+**Bearer cost:** The wearer becomes difficult to summon in memory, even from inside their own thoughts. The veil offers shelter by making its bearer fade from recollection.
+**Ability:** *Held Dawn* — the wearer's early hours stay the wearer's while the cloak is on. It survives Void pressure because it has somewhere to put the first hour, and what it costs is that the wearer never remembers spending it.
 
 **Veil handover:** Write and countersign the watch handover before relying on either worker’s recollection of the wearer. Becoming hard to summon in memory is the Suit’s cost, not evidence that the post was unstaffed or that an episode was missed. The sunrise and shutter times remain entries made from outside the line. Return of the cloak and attendance at the infirmary remain separate acts; a countersignature records a handover and does not establish medical fitness. No recollection check creates a place for the confidential cumulative figure on the duty sheet.
 
@@ -200,12 +207,13 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, drilled for a cord and stamped on the rim with the post number of the street it was issued on.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
-**Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
-**Token lapse:** The individual Stigma records a familiar word or face briefly lost after invocation. Preserve the reported lapse with the occasion of use, separately from the district’s failure to wake; a few seconds on the bearer are not a new shutter time. The source-work bonus makes no claim to shorten an episode, and the six recovered pieces establish six watched episodes rather than a technique for entering the zone. Keep an unrecorded source event unrecorded even when the bearer’s account becomes personal. The infirmary receives the exposure; the facility receives only its fitness judgment.
+**Ability:** *Line Moved* — it goes cold when the boundary has passed the post's own step. The third widening was called on that cold, four hours before the survey found the street.
+**Bearer cost:** The cold arrives before the order does: the bearer moves the post, widens the line and is never contradicted, which is why they stop waiting for the survey to agree.
+**Token lapse:** The individual Stigma records a familiar word or face briefly lost after invocation. Preserve the reported lapse with the occasion of use, separately from the district’s failure to wake. A few seconds on the bearer are not a new shutter time. The source-work bonus makes no claim to shorten an episode, and the six recovered pieces establish six watched episodes rather than a technique for entering the zone. Keep an unrecorded source event unrecorded even when the bearer’s account becomes personal. The infirmary receives the exposure; the facility receives only its fitness judgment.
 
 *A Token is found at the perimeter post after an episode has been watched end to end by one person. Six pieces, six unbroken watches; nothing has ever been recovered from inside the zone.*
 
@@ -281,9 +289,9 @@ moved, and re-verify at the next episode.
 
 | The record kept beside it | Where the two intervals meet | What the post entered | What the folder keeps |
 |---|---|---|---|
-| **Weighted Silence** `O-IIIγ-924` | Both are intervals felt rather than seen. That record's pressure is an absence walked through; this one is an hour the district sleeps through, and neither file has ever been entered during an episode. | Nothing was run. The appendix grouped the two on the quiet and the review left the arrangement alone. | That the grouping is a filing line, entered as such and not as a finding. |
-| **Dead Air** `N-IIIγ-929` | Both keep a running record of nothing happening. That record completes a form at every watch; this one keeps years of ambient entries exactly as they were written, and both are read for the shape of the interval rather than its content. | One review entry; the two series were laid side by side once and parted at the first mark. | That the parting stands as the entry, carried un-smoothed in the review's numbers. |
-| **Allhallow** `O-IIIγ-916` | Both are hours the city keeps and answers by hand. That record's hour belongs to the dead; this one belongs to sleepers, and the answer on this side is a post and a clock rather than a lantern. | The hour-series were compared once and agreed on length alone. | That the pairing rests on the register of hours, noted as a calendar entry and not as a link. |
+| **Weighted Silence** `O-IIIγ-924` | Both are intervals felt rather than seen. That record's pressure is an absence walked through. This one is an hour the district sleeps through, and neither file has ever been entered during an episode. | Nothing was run. The appendix grouped the two on the quiet and the review left the arrangement alone. | That the grouping is a filing line, entered as such and not as a finding. |
+| **Dead Air** `N-IIIγ-929` | Both keep a running record of nothing happening. That record completes a form at every watch. This one keeps years of ambient entries exactly as they were written, and both are read for the shape of the interval rather than its content. | One review entry; the two series were laid side by side once and parted at the first mark. | That the parting stands as the entry, carried un-smoothed in the review's numbers. |
+| **Allhallow** `O-IIIγ-916` | Both are hours the city keeps and answers by hand. That record's hour belongs to the dead. This one belongs to sleepers, and the answer on this side is a post and a clock rather than a lantern. | The hour-series were compared once and agreed on length alone. | That the pairing rests on the register of hours, noted as a calendar entry and not as a link. |
 
 **Interaction procedure:** No co-presence is authorised during an episode. Comparison is made on paper at the post's review,
 with the shutter times and the infirmary's fitness judgment entered first, without the confidential total, and the other record's series set beside them unchanged; parting,
@@ -328,7 +336,7 @@ Nobody has been injured by this holding and nobody has ever been woken early fro
 
 ### Registry Addendum
 
-**Operational interpretation:** Time-Dream is correct and the operational content is three columns and a boundary. Nothing can be measured, nothing can be entered to any effect, and the only decisions available to the facility are where to stand and who to let stand there — which is why the exposure totals, and who holds them, are the substantive part of this file.
+**Operational interpretation:** Time-Dream is correct and the operational content is three columns and a boundary. Nothing can be measured, nothing can be entered to any effect. And the only decisions available to the facility are where to stand and who to let stand there — which is why the exposure totals. And who holds them, are the substantive part of this file.
 
 **Review requirement:** Re-read the boundary each cycle against the three widenings, and re-affirm the infirmary’s custody of the totals whenever the personnel office changes hands. It has changed hands twice and the custody has held twice.
 
@@ -353,9 +361,9 @@ Exposures accumulate rather than resolving, and personnel totals are tracked acr
 ## Trivia
 
 - **29** episodes logged since **Y4238**, each carrying its **3** times — mean **71** minutes from sunrise, range **40** to **110** — and **4** entries into the zone on record, none of which altered any of them.
-- One of the first catalogued **Time-Dream** entities in Somnarak.
-- Its dream descriptor makes it structurally unique among time entities.
-- The void pressure in the dream register feels different from standard void — more specific, more personal.
+- The file measures the wait from sunrise: mean seventy-one minutes, shortest forty, longest a hundred and ten, across the episodes on record.
+- The gauge has stood at 70 per cent since the third widening and has not moved in nine years.
+- Resolution is the district opening its eyes. It is called by the morning, not by anything the watch does.
 
 ## Document Information
 

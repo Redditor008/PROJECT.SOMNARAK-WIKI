@@ -37,14 +37,3 @@
 **Corrosion:** choices feel rehearsed; names become roles; terminal state makes every strike inevitable because agency is forgotten.  
 **Maintenance:** record decisions that surprised the wielder after each use.  
 **Shutdown:** an outside witness removes all role labels and asks the bearer to choose whether to sheath.
-
----
-
-**Document ID:** `UNK-902-B`  
-**Linked Entity:** `UNK-902`  
-**Item Registry Code:** `MAW-W-UNK-902-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

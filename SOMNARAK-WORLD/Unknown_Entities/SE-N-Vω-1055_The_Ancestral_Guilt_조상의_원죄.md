@@ -9,7 +9,7 @@
 | **Designation** | `N-Vω-1055 [WO]` |
 | **Entity Type** | **Subject / Trans-Generational Anomaly** — Manifests from centuries of inherited debt ledgers |
 | **Coherence** | Sovereign (V) |
-| **Potency** | Sovereign (ω) |
+| **Potency** | Catastrophic (ω) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Ancestral / Karmic Ledger Construct |
@@ -24,12 +24,13 @@
 
 | Statistic | Value |
 |---|---|
-| **Risk tier** | Sovereign (ω) |
+| **Risk tier** | Catastrophic (ω) |
 | **Entity role** | Subconscious Sovereign / Karmic Judge |
 | **Primary pressure** | Karmic Compression / Inter-Generational Burden |
 | **Starting Sorrow Gauge** | 6,800/6,800 |
 | **Han-Energy yield** | 30–45 Han-Energy per successful audited reconciliation |
 | **Work difficulty** | Sovereign · R.D. Comprehension Level 4 |
+| **Work Damage** | 8–10 Weight — the cost is genealogical: the keeper carries the lines of their own family out of the vault, and the debrief names them |
 | **Activation threshold** | Civil Debt Registry audit periods |
 | **Tool / M.A.W. grade** | Grade ω |
 | **Vessel-Destructible** | No (Metaphysical Legal Structure) |
@@ -54,7 +55,7 @@
 | **Resistance** | 95% against Weight; 60% against Void; 40% against Lament; 30% against Grudge |
 | **Activation threshold** | Unresolved debt detected within 50 meters |
 | **Sorrow Gauge [HP]** | 6,800 / 6,800 |
-| **Han Pressure [ATK]** | 35–65 per stroke · Weight (Crushing karmic judgment) |
+| **Han Pressure [ATK]** | 50–65 per stroke · Weight (Crushing karmic judgment) |
 | **Coherence modifier** | V — Total archival omniscience |
 | **Potency modifier** | ω — Capable of crushing an entire sector beneath civic weight |
 
@@ -62,11 +63,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Ink-Stained Summons* [**Debuff**] } | "A sheet of yellowed parchment wraps around the operative's shins." | [Transcribes an ancient contract upon the target's armor and boots.] | *Reduces target movement speed by 50%; inflicts 15 Weight damage.* **[15 Weight DMG]** | At engagement initiation. |
-| { *Blood-Stamp Indenture* [**Attack**] } | "A thumbprint of dried crimson presses down upon the operative's chest." | [Drives a colossal seal of hardened ink into the target's sternum.] | *Deals 28-42 crushing Weight damage; drains 20 Composure.* **[28-42 Weight DMG]** | When target attempts a melee strike. |
+| { *Ink-Stained Summons* [**Debuff**] } | "A sheet of yellowed parchment wraps around the operative's shins." | [Transcribes an ancient contract upon the target's armor and boots.] | *Reduces target movement speed by 50%; inflicts 15 Weight damage.* **[15 BLACK DMG]** | At engagement initiation. |
+| { *Blood-Stamp Indenture* [**Attack**] } | "A thumbprint of dried crimson presses down upon the operative's chest." | [Drives a colossal seal of hardened ink into the target's sternum.] | *Deals 28-42 crushing Weight damage; drains 20 Composure.* **[28-42 BLACK DMG]** | When target attempts a melee strike. |
 | { *Generational Foreclosure* [**Debuff**] } | "The names of three generations of debtors are read aloud in unison." | [Thirty ink-blackened hands point directly at the target squad.] | *All targets suffer -30% attack power and cumulative Posture erosion.* **[AoE Debuff]** | At engagement round 3. |
-| { *The Crushing Scroll* [**AoE**] } | "Tons of archival paper cascade from the ceiling like a basalt avalanche." | [Unrolls a massive ledger cylinder across the central containment floor.] | *Deals 35-50 Weight damage to all ground personnel; pins targets.* **[35-50 Weight DMG]** | When Sorrow Gauge reaches 60%. |
-| { *Ledger of the Unforgiven* [**Ultimate**] } | "The crypt walls turn to solid ink; every breath tastes of ancient copper debts." | [Summons the full weight of four centuries of unredeemed municipal debt.] | *Deals 60-85 Weight damage across entire sector; triggers instant Fracture.* **[60-85 Weight DMG]** | When Sorrow Gauge reaches 90%. |
+| { *The Crushing Scroll* [**AoE**] } | "Tons of archival paper cascade from the ceiling like a basalt avalanche." | [Unrolls a massive ledger cylinder across the central containment floor.] | *Deals 35-50 Weight damage to all ground personnel; pins targets.* **[35-50 BLACK DMG]** | When Sorrow Gauge reaches 60%. |
+| { *Ledger of the Unforgiven* [**Ultimate**] } | "The crypt walls turn to solid ink. Every breath tastes of ancient copper debts." | [Summons the full weight of four centuries of unredeemed municipal debt.] | *Deals 60-85 Weight damage across entire sector; triggers instant Fracture.* **[60-85 BLACK DMG]** | When Sorrow Gauge reaches 90%. |
 
 ## Comprehension Levels
 
@@ -85,7 +86,7 @@ The classification describes a colossal ledger phantom with paired ink-stained h
 
 Separate the creeping paper and following body from script on the walls and a visitor's arm. That script identifies exposure and lineage; it does not turn the visitor into the scribe. Likewise petrified ink slag is deposited material that has been removed, not a captured copy or proof of a destructible legal vessel.
 
-The classification's height and paired-hand description are not new measurements from Jin-Soo's account. His thirty-foot recollection remains attributed eyewitness testimony; the shorter references to thirty hands and pens in action and sensory reports do not establish a second complete limb census. Retain those source distinctions rather than inventing growth, amputations or a changing hand count to reconcile them. A confirmed measurement or full count would need its own record.
+The classification's height and paired-hand description are not new measurements from Jin-Soo's account. His thirty-foot recollection remains attributed eyewitness testimony. The shorter references to thirty hands and pens in action and sensory reports do not establish a second complete limb census. Retain those source distinctions rather than inventing growth, amputations or a changing hand count to reconcile them. A confirmed measurement or full count would need its own record.
 
 The Combat Record is explicitly a model, not footage of a fought suppression or a witnessed transformation of the vault into a new body. The one accidental tear supports the no-cutting rule without proving repeated exponential growth. Acknowledgement can lower pressure without erasing the paper, the debt or the need for timed clearance.
 
@@ -127,9 +128,16 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 - No suppression has ever been attempted. The Combat Record is a model built from the ledger mass and the Level 3 interviews, and the audit surge is the only event the vault has actually produced.
 - The Collector Bureau, whose attempt to purge 120,000 records made the entity, has declined three times, once a year, to reopen them and read them out. The cadre's standing recommendation rests on Level 3, where naming a fault drops the pressure by 80 percent. It has never been tried at the scale of the purge, and nobody in the Chancery has offered to try it.
 
+### Consequences
+
+- The failure is genealogical, not personal. A keeper who feels the weight must name the fault aloud, and the fault is a family's — which means the worker cannot be cleared and reissued the way an injured worker can. They are removed from the descent, and so are their cousins, and the Chief of Staff signs both removals.
+- Every audit period leaves six hundred to nine hundred kilos of petrified ink on the floor of the Deep Vault. That slag is a bulk-handling problem with its own budget line, and the vault's quarterly tonnage is reported to the city as debt stock rather than as waste.
+- Tearing a page doubles the entity's mass, demonstrated once by accident. The precautionary model says repeated doubling, and the consequence of one careless trainee is carried by every clearance procedure in the department: nothing in the vault is burned, and the rule is written for the next person rather than for the last one.
+- The Collector Bureau, whose attempt to purge a hundred and twenty thousand records made this thing, has declined three times a year, once a year, to reopen them and read them out. There is no containment here and no plan for one. The standing recommendation is that the debt stay in the vault, and the city's acceptance of that recommendation is the real consequence of the holding.
+
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** Grade ω. No piece has been extracted. The vessel cannot be destroyed, the grade is the codex's own word for forbidden, and the two profiles below are theorized from the script and the ledger mass.
+> **Materialized Agony Wear (M.A.W.):** Grade ω. No piece has been extracted. The vessel cannot be destroyed, the grade is the codex's own word for forbidden, and the three profiles below are theorized from the script and the ledger mass.
 
 ### M.A.W. Weapon — The Foreclosure Seal
 
@@ -141,15 +149,25 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 
 **Cost:** Theorized: whatever the target owes is copied onto the wielder's left forearm in script and does not fade. The Collector Bureau would read the lines as the wielder's own debt.
 
-### M.A.W. Armor — The Severed Line
+### M.A.W. Suit — The Severed Line
 
-**Type:** Armor | **Grade:** ω | **Element:** Weight
+**Type:** Suit | **Grade:** ω | **Element:** Weight
 
 **Appearance:** Theorized: a long coat of blank vellum, unlined and unstitched, that takes no ink.
 
 **Ability:** Theorized: the wearer's lineage reads as nothing in the vault. No script comes and no weight comes, and the thirty hands pass over the wearer as over an empty chair.
 
 **Cost:** Theorized: the Registry strikes the wearer from their family's ledger on the first day of wear and does not restore the name. The family forgets the wearer, and the wearer is a person without a lineage, which is what the vault already demands of anyone who would look at it directly.
+
+### M.A.W. Stigma — The Line of Account
+
+**Type:** Stigma | **Grade:** ω | **Element:** Weight
+
+**Appearance:** Theorized: a black-scripted band that sits inside the wrist, the writing continuous and never setting, closing on itself so that no line can be said to be the first.
+
+**Ability:** Theorized: the wearer reads what any person owes at a glance — the total, not the item — and cannot be told a figure that is untrue while the band is on.
+
+**Cost:** Theorized: what the wearer reads is entered against the wearer. The bureau has no record of a carrier of this piece, which is the archive's only evidence that one may exist.
 
 ### M.A.W. Use Notes
 
@@ -183,6 +201,15 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 
 **Entry 5 — Trainee's Report** Year 4,237. Trainee Ji-Hun steadied himself against a ledger stack on the fourth day of an audit and tore a margin page. The thirty hands stopped for four seconds and then wrote faster. He finished the descent with the torn corner shut in his fist because nobody would take it from him, and at the wash-down he asked whether the new line on his arm was for the page. It was not. It was for his great-grandfather, and the page had gone into the weight instead. He is the reason the vault has no blades, buckles or pins.
 
+## 최종 관찰 (Final Observation)
+
+> The choice at the end of a session is about the line: the keeper either names a fault that belongs to their family and lets the vault record it, or keeps the line closed and carries the weight out of the hall in their own body.
+
+| Name the fault aloud in the hall, let the ledger enter it, and take the descent out of the rotation. | Keep the line closed, deny the entry, and stand under the audit with the weight still on the shoulders. |
+|---|---|
+| The hands write the line and move on, the pressure drops, and the keeper leaves lighter than they arrived and cleared for nothing. | The column does not close, the ink seeps at the pores, and the knees give before the audit period ends. |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+
 ## 감각 묘사 (Flavor Text)
 
 **At first contact:** Wet lampblack and old paper at the stair-head, and under it the small dry sound of thirty pens that never need dipping.
@@ -192,6 +219,69 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 **When the entity activates:** The columns turn toward you together, the way a room of clerks looks up. A weight arrives with the exact shape of whoever you were born to.
 
 **After departure:** The lines stay on the skin for days and the weight stays longer. Nine of the thirteen keepers asked had written to a relative before the lines faded.
+
+## 이야기 (Narratio) — The Tale
+
+> **Report of:** the Municipal Central Ledger Crypt, Deep Vault, Facility 01 — Year 4,235 audit period
+
+Four centuries of unpaid loans are kept in one room beneath the city, and the room has been getting heavier every year since the Council stopped writing off what the dead could not pay.
+
+The clerks call it the burden. The Crypt's own inventory calls it a stock. Either way, the room is entered once a generation by an auditor with a lantern and a family, because the Guilt reads the family and not the man: it takes a keeper's lineage, lays it against the ledgers, and weighs it. A keeper from a family with a clean column walks in upright. A keeper whose great-grandmother took a loan from the Weeping and defaulted on it feels the gravity arrive at the knees first, then the ribs, and then the ink, which comes out of the pores and pools in the seams of the coat.
+
+What the vault asks for is not a payment. The acknowledgement is enough — the fault named aloud, in the family's name, in front of the ledger that carries it. Whatever is owed is then entered as owed and the room eases, which is why the audit period exists and why the Council keeps voting to hold one.
+
+At the end of an audit the floor yields six hundred to nine hundred kilos of petrified ink. It is swept, weighed and budgeted for. The vault's purse has a line for it, and the line has grown every period for eleven years.
+
+## Apex Record
+
+### The Ledger Line
+
+Ancestral Guilt is the debt register made into a body, and its line runs back through the Collector Bureau's attempt to purge a hundred and twenty thousand records — the act that produced it, and the reason its first victim is always the heaviest lineage in the room rather than the nearest person. It audits four centuries at a pass, one line of script for every generation of a family that died owing, and it has come to nine audit periods on the same bell, in the same hour, without once being early.
+
+### The Limit
+
+There is no containment here and no plan for one. The vessel cannot be destroyed because it is a legal structure rather than a body: the only subtraction the vault permits is shovelling the slag, six point two tonnes of it across nine audits, and no keeper can say why paper is debt and petrified ink is not. Tearing or burning a page doubles its mass, demonstrated once by accident when a slab deflected three millimetres before a margin page was torn and six after; whether a second tear doubles again is unknown, and every clearance procedure in the department is written so that nobody finds out.
+
+### The Standing Arrangement
+
+The cadre's standing recommendation rests on a single observation from the third level: naming the fault aloud drops the pressure by eighty per cent. So nothing in the vault is burned, nothing is torn, the slag is shovelled, and the audit is allowed to finish its column. The failure itself is genealogical and cannot be cleared or reissued — a keeper who feels the weight is removed from the descent, and their cousins with them, the Chief of Staff signing both removals. The Bureau that made the thing has been asked three times, once a year, to reopen the records and read them out, and has declined three times.
+
+## 증언 (Testimonium) — The Testimony
+
+> *“Naming the fault is the whole of it. Say what your family did and the column closes. Say nothing and it writes you into the page.”* — Keeper, Deep Vault
+
+> *“Eleven lines took nineteen days to fade. The keeper with one line was clear in three. The arithmetic is the family's, not the person's.”* — Auditor, Sovereign Containment Bureau
+
+> *“We were told to purge a hundred and twenty thousand records. We did it in a week. It has been reading them back ever since.”* — Former Clerk, Collector Bureau
+
+> *“Do not tear a page. It has been demonstrated once, and every procedure in this department is written so it is not demonstrated twice.”* — Containment Lead, R.D.
+
+> *“Nine audits, the same bell, the same hour. Twenty-seven months of the Registry calendar and it has never once been early.”* — Registry Overseer, Municipal Ledger Crypt
+
+## 기록 (Registrum) — The Record
+
+**Classification:** Sorrow Entity — `N-Vω-1055 [WO]` · Inner Sorrow origin · Sovereign (V) coherence · Catastrophic (ω) potency · Weight · Subject-Ancestral manifestation
+**Common Name:** The Ancestral Guilt
+**Containment Status:** Uncontained — the Deep Vault beneath Facility 01, the Municipal Central Ledger Crypt
+**Comprehension Level:** 4 — Sovereign Archival Oversight
+**Threat Assessment:** Catastrophic (ω) and entirely local. It has not been recorded outside the vault in nine audit periods, and it does not need to leave: the debt it audits is carried by the people who come down to it.
+**Containment & Handling Procedures:**
+- Ferrehan and Viderehan. Pugnahan multiplies the ledger entries exponentially and is not authorised.
+- Name the fault aloud. The cadre's standing recommendation rests on that single observation, and it is the only subtraction the vault has ever confirmed.
+- Nothing in the vault is burned and nothing is torn. The slag is shovelled, the audit is allowed to finish its column, and the clearance procedures are written so that the second demonstration never happens.
+**Observation Notes:**
+- Nine audits on the same bell, in the same hour, across twenty-seven months of a Registry calendar that has not moved.
+- Six point two tonnes of petrified ink slag shovelled out across those nine audits, none of which doubled anything, and no keeper can say why paper is a debt and slag is not.
+- The aprons come back with an ink line at the hem. On four of them the line stood above the knee, and all four belonged to keepers who reached five.
+**Cross-References:** Inner Sorrow, Deep Vault. The entity was made by the Collector Bureau's purge of a hundred and twenty thousand records; the Bureau has been asked three times, once a year, to reopen them and read them out, and has declined three times.
+**Faction Involvement:** R.D. Sovereign Containment Bureau · Collector Bureau · Municipal Ledger Crypt
+**Originator:** The Bureau that made it, named in the purge order and not in this file.
+
+### Registry Addendum
+
+**Operational interpretation:** Read this as a debt register that learned to collect in person. The figure on the gauge is not aggression; it is the accumulated weight of four centuries of unpaid obligation, and it is held down by people saying out loud what their families did.
+
+**Review requirement:** Re-verify after every audit period, after any change to the Registry calendar, and after any descent in which a keeper reached five lines — the last whether or not the pressure was named.
 
 ## Trivia
 
@@ -204,13 +294,16 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 
 | Related entity | What it is | What happened | Where it is filed |
 |---|---|---|---|
-| **The Inherited Debt** | A Subject that rides bloodlines rather than standing in any one place, held at Collector's Row. | Never in the same room. The overlap is people: four of the keepers now cleared for the Deep Vault earlier worked the Collector's Row holding, and none reported its weight on the vault stair. The cadre reads that as their clearance and not as an effect of either holding. | The four postings, in the Chancery return. |
+| [**The Inherited Debt**](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | A Subject that rides bloodlines rather than standing in any one place, held at Collector's Row. | Never in the same room. The overlap is people: four of the keepers now cleared for the Deep Vault earlier worked the Collector's Row holding, and none reported its weight on the vault stair. The cadre reads that as their clearance and not as an effect of either holding. | The four postings, in the Chancery return. |
 
 The Registry's audit calendar and the stair-head wash-down book are the two documents this dossier stands on, and neither is an entity. The calendar shows nine audits and nine surges, one torn page, and no sighting above Floor 6. The wash-down book is the only place in the building where a keeper's lineage is counted by something other than a clerk.
 
 **Interaction procedure:** None is arranged. No second holding is taken to the vault, and the cadre's standing answer to every proposal to do so has been that the vault already holds the heaviest thing in the building.
 
 ---
+
+
+## Document Information
 
 **Document ID:** `SE-N-Vω-1055`
 **Classification:** Inner Sorrow Sovereign Dossier

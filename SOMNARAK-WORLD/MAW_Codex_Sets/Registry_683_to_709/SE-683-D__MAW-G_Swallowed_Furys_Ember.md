@@ -2,6 +2,7 @@
 
 ---
 **Document ID:** `SE-683-D`  
+**Maximum Amount:** 5 — Abundant
 **Linked Entity:** `SE-683` — Swallowed Fury  
 **Item Registry Code:** `MAW-G-683-01`  
 **Author:** Specialist Haneulash Yoon  
@@ -20,13 +21,3 @@ Swallowed Fury’s Ember is a tail ember of crimson Han iron, granted randomly a
 **Corrosion:** every secret feeling becomes heat; social concealment fails; terminal state turns the body into a public furnace.  
 **Maintenance:** record feeling before using strength.  
 **Removal:** bearer expresses the grief voluntarily; forced removal burns the remover.
-
----
-**Document ID:** `SE-683-D`  
-**Linked Entity:** `SE-683`  
-**Item Registry Code:** `MAW-G-683-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

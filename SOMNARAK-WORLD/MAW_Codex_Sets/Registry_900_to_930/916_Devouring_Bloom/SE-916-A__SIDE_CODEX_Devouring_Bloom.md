@@ -22,7 +22,7 @@ The Flower formed from sorrow preserved as weight. The burden of carrying grief 
 | Type / Manifestation | Subject — Can breach / Object-Weight |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Weight / Zone B, deep tunnels |
-| Gauge / Pressure | 607/607; starts 45–65% / 18–41 per hit · Weight |
+| Gauge / Pressure | 000/660; starts 000% / 18–41 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading. |
 
@@ -30,8 +30,8 @@ The Flower formed from sorrow preserved as weight. The burden of carrying grief 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Grief offered at the growth front slows the advance for a shift; it is the only approach that has ever moved the front rather than the gauge. (Decrease) |
+| Pugnahan | Force cracks petals and the fragments keep their weight; the bloom closes and the front accelerates. (Increase) |
 | Viderehan | Reveals the sorrow attached to each petal. (Stable) |
 | Ferrehan | Tests whether the worker can bear its growing weight. (Decrease) |
 
@@ -40,7 +40,7 @@ The Flower formed from sorrow preserved as weight. The burden of carrying grief 
 
 ## WITNESS RECORD — *The Devouring Bloom Source-Trace*
 
-During the The Devouring Bloom Source-Trace, the field team preserved this source fact: Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of carrying grief until it becomes beautiful but impossible to move.
+During *The Devouring Bloom Source-Trace*, the field team preserved this source fact: Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of carrying grief until it becomes beautiful but impossible to move.
 
 ## M.A.W. SET — *Devouring Bloom — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Devouring Bloom Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Devouring Bloom's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Witness the memories and prevent unauthorized petal collection The set cannot heal the originating event. Misuse routes Devouring Bloom's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-916-A`  
-**Linked Entity:** `SE-916`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

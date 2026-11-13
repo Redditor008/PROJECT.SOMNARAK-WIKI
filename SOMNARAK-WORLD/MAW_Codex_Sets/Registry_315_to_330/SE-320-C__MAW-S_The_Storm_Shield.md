@@ -24,9 +24,15 @@ The Storm Shield is a black shield-backed harness of Han steel with a canopy rid
 
 ## PROTECTION FILE
 
+**Grade / Element:** γ / Weight
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
 
 **Moving Shelter:** The Shield absorbs local Storm pressure while the wearer and protected group continue toward lower load.
 
@@ -43,14 +49,3 @@ Charm monitors, Shield covers, Maul clears. It is not permanent shelter.
 **Maintenance:** Discharge absorbed sorrow into a reviewed post-Storm grounding bed while recording everyone sheltered. The Shield clears when weight returns to baseline.
 
 **Removal:** Load monitor confirms complete discharge before releasing the back ridge.
-
----
-
-**Document ID:** `SE-320-C`  
-**Linked Entity:** `SE-320`  
-**Item Registry Code:** `MAW-S-320-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

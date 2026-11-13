@@ -22,19 +22,12 @@ The Lachrymose Requiem is a glaive of deep-blue crystal — one huge solidified 
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Lament | 10–15 | 3 / 3 | Skewer | 2 / 50 |
+| δ / Lament | 10–15 | 3 / 3 | Skewer | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
 **Shard Clearing:** Removes dangerous fragments without terminating the source lament.
 
 **Failures:** crying treated as enemy; false relief forced; central tear struck.
-
----
-
-**Document ID:** `SE-517-B`  
-**Linked Entity:** `SE-517`  
-**Item Registry Code:** `MAW-W-517-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

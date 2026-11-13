@@ -16,6 +16,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | γ — Major |
 | Damage | Lament 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
 | Attack Pattern | Skewer |
@@ -39,12 +40,3 @@ The Requiem turns one unfinished statement into a Lament line. A target struck b
 ### History Record
 
 The first bearer used Missing Note during a Council hearing. The weapon did not force an admission; it caused every observer to hear the final line of a prohibited Zone C protest song. The hearing recessed. The record survives because the Auxiliary wrote the lyric before the Council could redact it.
-
-**Document ID:** `SE-021-B`  
-**Linked Entity:** `SE-021`  
-**Item Registry Code:** `MAW-W-021-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

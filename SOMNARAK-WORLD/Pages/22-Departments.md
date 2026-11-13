@@ -48,14 +48,14 @@ Every department within Facility 01 is engineered according to a standardized ar
 
 The **Command Room** serves as the central command atrium and resting quarters for all specialists stationed on that floor. It is equipped with tactical briefing consoles, equipment racks, and direct comms lines to the floor's Echo-Core.
 
-Crucially, every Command Room houses a **Departmental Healing Generator** — an acoustic resonance coil that continually emits stabilizing harmonics. 
+Crucially, every Command Room houses a **Departmental Healing Generator** — an acoustic resonance coil that continually emits stabilizing harmonics.
 - While stationed inside the Command Room, all resting personnel recover **6 HP and 6 SP** per pulse.
 - Through departmental research unlocked at [15-Research](15-Research.md), this output can be upgraded to **12 HP and 12 SP** per pulse.
 - **Fail-Safe Shutdown:** If a hostile sorrow entity, rogue specialist, or Ordeal incursion breaches into the Command Room, the Healing Generator immediately shuts down, depriving personnel of restorative regeneration until the room is purged of threats.
 
 ### 1.2 Containment Units
 
-Each department contains up to **four Containment Units** (cells) dedicated to housing individual sorrow entities. Each unit is constructed from reinforced basalt and shielded with a localized **Han-Energy lattice** that dampens metaphysical radiation. 
+Each department contains up to **four Containment Units** (cells) dedicated to housing individual sorrow entities. Each unit is constructed from reinforced basalt and shielded with a localized **Han-Energy lattice** that dampens metaphysical radiation.
 
 The front of each unit features an armored viewing port, an airlock entry door, and an external **Sorrow Gauge** console indicating the entity's current agitation level, Positive Box yield, and activation threshold.
 
@@ -101,7 +101,7 @@ Completing a mission permanently unlocks a major research perk from [15-Research
 
 ## 5 Department Meltdowns and Reverberations
 
-When an Echo-Core's emotional stability collapses under accumulated trauma, the department enters a state of **Reverberation** (detailed at [11-Reverberations.md](11-Reverberations.md)). 
+When an Echo-Core's emotional stability collapses under accumulated trauma, the department enters a state of **Reverberation** (detailed at [11-Reverberations.md](11-Reverberations.md)).
 
 During a Reverberation crisis:
 - The department's Healing Generator immediately shuts down.

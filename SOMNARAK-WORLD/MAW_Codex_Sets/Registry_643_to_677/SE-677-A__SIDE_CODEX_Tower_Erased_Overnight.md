@@ -21,7 +21,7 @@ Old Lament’s skyline bends around an empty tower-shaped volume where residents
 | Coherence / Potency | II / β |
 | Element | Grudge |
 | Location | Zone B, Old Lament — ambient |
-| Gauge / Pressure | 415/415; 35–50% / 10–23 |
+| Gauge / Pressure | 000/240; starts 000% / Grudge — no attack pattern; the shadow’s edge against the plot survey and the two depth readings are the instrument |
 | Threshold / Resistance | 60% / 25% Grudge, 15% other |
 | Set | Memorial Without Reconstruction |
 
@@ -46,13 +46,3 @@ Floor reveals one removed room, Plate protects a mourner in its shadow, and Fang
 An archivist completed “Tell my brother—” with an imagined farewell. A phantom floor appeared and began crushing the memorial crew. Minseo removed the invented words; Vanished Floor retained the fragment, Plate held the shadow, and Fang severed the city deletion tag. The floor disappeared without losing the sentence.
 
 > *“An unfinished word is still testimony. Completion can be forgery.”* — Chronicler Minseo
-
----
-
-**Document ID:** `SE-677-A`  
-**Linked Entity:** `SE-677`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

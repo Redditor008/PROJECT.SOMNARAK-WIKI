@@ -22,7 +22,7 @@ The Bridge formed from a crossing destroyed while people were still on it. The g
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / The Desolate, near The Scar |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 000/910; starts 000% / 29–64 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure. |
 
@@ -40,7 +40,7 @@ The Bridge formed from a crossing destroyed while people were still on it. The g
 
 ## WITNESS RECORD — *The Grasp Source-Trace*
 
-During the The Grasp Source-Trace, the field team preserved this source fact: A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of trying to rescue people who could no longer be reached.
+During *The Grasp Source-Trace*, the field team preserved this source fact: A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of trying to rescue people who could no longer be reached.
 
 ## M.A.W. SET — *Grasp — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Grasp Source-Trace, the field team preserved this source fact: A 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Grasp's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not promise rescue; acknowledge the limits of one person The set cannot heal the originating event. Misuse routes Grasp's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-762-A`  
-**Linked Entity:** `SE-762`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

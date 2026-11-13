@@ -24,7 +24,7 @@
 | Coherence / Potency | I — Residue / α — Minor |
 | Element | Void |
 | Form | A tower-shaped crystal possibility melting upward into the sky, leaving warm empty rooms and no rubble. |
-| Gauge / Pressure | 25–40% / Void 3–10 |
+| Gauge / Pressure | 000/880; starts 000% / Void — no attack pattern; the lean on the cord is the reading |
 | Observation | 1 — Initial |
 | M.A.W. Set | The Unbuilt Form |
 
@@ -44,10 +44,10 @@ Folly is bloodless-cold, ash-scented, and less stable whenever observers imagine
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Mourning does not authorize construction. |
-| Pugnahan | Not valid; force accelerates melt. | N/A | Never stabilize by building. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Mourning does not authorize construction. |
+| Pugnahan | Not valid; force accelerates melt. | Net-Neutral | Never stabilize by building. |
 | Viderehan | Shows intended inhabitants. | Stable | Record purpose as unrealized. |
-| Ferrehan | Tests acceptance of incompletion. | Down | Leave the outline unfinished. |
+| Ferrehan | Tests acceptance of incompletion. | Decrease | Leave the outline unfinished. |
 
 **Resolution:** Preserve the unfinished form; do not reconstruct.  
 **Expansion:** Attempts to complete the plan make nearby structures feel unfinished and spread architectural Void.  
@@ -92,13 +92,3 @@ An echo forms from upward melt that separates after Ferrehan and evaporates befo
 ---
 
 **Formal-ID note:** `SE-329` is assigned to Folly.
-
----
-
-**Document ID:** `SE-329-A`  
-**Linked Entity:** `SE-329`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-200 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touching a link while naming its owner |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Binding and connecting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A long chain whose links are carved of memory-crystal, each holding a captured face, place, or moment frozen inside. Lead-cold, it smells of wet stone; it lengthens with every memory taken, dragging the past behind it. |
+| **Physical Form** | Non-Organic |
 | **Movement** | The Chain has never moved itself. It has been found rearranged on its stand twice, both times after a shift in which the count rose, and both times coiled rather than laid flat. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,81 +28,90 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the counter** — It grows when a memory is deliberately preserved, and it does not grow when one is let go. |
+| **Work Damage** | 1–4 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is links out of order, each holding a recollection. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter; activates on touching a link while naming its owner |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Work the Chain as a single object and never a single link. Viderehan is read standing at the rail with the links laid flat; Ferrehan is sat beside it with both hands on the floor and neither on the crystal. The gauge answers to posture more than to duration — the four lowest readings on file were all taken by workers who never changed position. |
+| **Recommended response** | Work the Chain as a single object and never a single link. Viderehan is read standing at the rail with the links laid flat. Ferrehan is sat beside it with both hands on the floor and neither on the crystal. The gauge answers to posture more than to duration — the four lowest readings on file were all taken by workers who never changed position. |
 
 ### Operational Notes
 
 - Each link holds a recollection, and the order of the links does not match the order of the events.
 - Work settles the Chain for a shift. The order is unchanged, and no session has rearranged or removed a link.
-- Observation is performed from the rail and endurance from the floor beside the stand. Neither has ever shortened the Chain; the best recorded outcome of a cycle is that the count is the same at the end of it as at the start.
+- Observation is performed from the rail and endurance from the floor beside the stand. Neither has ever shortened the Chain. The best recorded outcome of a cycle is that the count is the same at the end of it as at the start.
 - There is no breach counter. Personnel do not handle individual links; handling is by the Chain as a whole under standing order.
 - Residue is recovered from the Row floor under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Weight pressure; 20% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 484/484 |
-| **Han Pressure [ATK]** | 8–19 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Binding and connecting |
-| **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, Collector's Row |
+| **Length** | **420** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 420 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says the Chain has never moved itself. And the only two occasions it was found rearranged were both after a shift in which the count rose — coiled on its stand, not advanced into the room. What it does is carry what a worker says, and the record's own instruction is to read the worker rather than the object.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A long chain of small dark links laid along a stand at Collector's Row, one link to a memory, four hundred and nine of them at the last count. It has never moved itself; twice it has been found coiled rather than laid flat, both times after a shift in which the count rose. |
+| **Perceptible to** | The weight of it first, though nothing is being carried. Then the drift of a worker's own account of their childhood, and the count, which is the only reading that has ever predicted the hour that follows. Pressure, temperature and gauge have stayed flat across incidents and the count has not. |
+| **Handling** | Counted before anything else and the number written on the board at the door. Nobody names a person aloud in the room, Wardens are instructed to interrupt a worker who begins a sentence with a name, and the Chain is left slack along its stand. — see `## Handling Process` |
+| **Activation threshold** | No breach counter; activates on touching a link while naming its owner |
+| **Sorrow Gauge [Load]** | **000 of 420** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The Chain lies flat and slack along its whole length, with no link raised and none under tension, and stays that way through two full counts of the links by two different Wardens. The gauge is read afterward and has never been above 25% once the slack condition holds. |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Link* [**Debuff**] } | "A memory surfaces — and attached to it, another, and another — a chain pulling upward from the deep." | [The Chain lifts memories from the target's past; each one is connected to the next.] | *Target suffers -10 Resolve; the connected memories are heavy.* **[10 Weight DMG [Weight]]** | When the target touches the Chain. |
-| { *The Tangled Past* [**Debuff**] } | "The memories link and cross-link — until your entire past is one knotted, heavy chain." | [The Chain's interconnections grow; the target's history is a burden.] | *Target loses 10 Resolve; every memory drags on every other.* **[10 Weight DMG [Weight]]** | When the target lingers. |
-| { *The Memory Whip* [**Attack**] } | "The chain lashes — and every memory on it strikes at once, each one a separate grief." | [A chain of connected memories strikes as one.] | *Inflicts Weight pressure and one wound of layered recollection.* **[14-22 Weight DMG [Weight]]** | When the Chain is pulled. |
-| { *The Full Unraveling* [**Attack**] } | "Four hundred and nine links open at the same instant, and every face inside them is looking the same direction — at you." | [Severance releases the whole catalogue at once, in no order, into whoever is nearest.] | *24–36 Weight to the cutter and a 15% Gauge surge; the Chain re-forms one link shorter and the lost link never returns.* **[24-36 Weight DMG [Weight]]** | When any link is severed, including by accident. |
-| { *The Chain of Everyone* [**Ultimate**] } | "Everyone in the room is suddenly remembering the same stranger's kitchen, and nobody in the room has ever been there." | [The Chain finds the one memory source two people share and runs a link between them whether they met or not.] | *12–20 Weight per cycle for three cycles to every person in the room; the shared memory is afterward recalled by all of them as their own.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When three or more people stand within the rail at once. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Chain does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Link* [**Register**] } | Lifts a memory out of a worker's past when the chain is touched, and attaches the next to it, so that the recollection arrives as a chain pulling upward from the deep. | Counts the links before anything else — the count is the only reading that has predicted the hour — and writes the number on the board at the door. | Every logged personnel injury at Collector's Row happened in a session where the gauge did not move at all. What moves is the count and the worker's own account of their childhood, and neither of those appears on the instrument. |
+| { *The Tangled Past* [**Exposure**] } | Links memory to memory until a history is one knotted chain, and every memory drags on every other. A worker who loses the thread answers questions with somebody else's details — a street they never lived on, a sister they do not have — calmly. | Interrupts a worker who begins a sentence with a person's name. And reads the three signs on the worker instead of the gauge: the first person going out of their own history, the confident correction of somebody else's recollection. And the drift in the count. | Resolve is spent in the correction afterwards and not in the moment. Cost accumulates by the link rather than by the minute: three of the four personnel withdrawn from the Row had touched between six and nine links across their service, and the fourth had touched two, both from the faceless end. |
+| { *The Memory Whip* [**Refusal**] } | Answers a pull with every memory on the chain striking at once, each one a separate grief. Nothing leaves the stand to do it and the links do not lengthen across the floor. | Does not pull. The chain is worked slack and never drawn, and a Warden who finds a link raised ends the session rather than lifting it free. | The refusal is the slack: a chain left flat does nothing at all, and the file has never had to describe a case in which it pursued anybody. It lengthens instead — every cycle left with a link raised has been followed by a higher count. |
+| { *The Full Unraveling* [**Overload**] } | Opens four hundred and nine links at the same instant when any link is severed, including by accident, and releases the whole catalogue at once, in no order, into whoever is nearest. The Chain re-forms one link shorter and the lost link never returns. | Keeps cutting instruments out of the room, ends the session on the two-count rule, and records the loss of the link as permanent in the register rather than as damage to be repaired. | A cycle that cannot be counted twice by two Wardens stays sealed until a third count settles it — this has happened eleven times, and on nine of them the higher count was the correct one. |
 
-1. **Tension:** Count the links before anything else and write the number on the board at the door. The count is the only reading that has ever predicted the hour that follows — pressure, temperature and gauge have all stayed flat across incidents, and the count has not.
-2. **Clash:** There is no exchange to manage. The worker sits the cycle with the Chain slack and does not name anything aloud; the whole of the risk is in what the worker says, not in what the Chain does. Wardens on the rail are instructed to interrupt a worker who begins a sentence with a person's name.
-3. **Resolution:** The Chain is laid flat, counted twice by two Wardens, and left slack. If the two counts disagree the cycle is not closed and the room stays sealed until a third count settles it — this has happened eleven times, and on nine of them the higher count was correct.
+### Watch Sequence
+
+1. **What is confirmed:** the link count taken at the door, the names of the two Wardens who will count it again, and whether anybody present is holding an open loss they have been asked to state aloud.
+2. **What the watch does:** Viderehan for the relationships between memories and Ferrehan for carrying shared history, with the chain slack along its whole length and nobody naming a person in the room.
+3. **How it closes:** **The Chain lies flat and slack along its whole length, with no link raised and none under tension, and stays that way through two full counts of the links by two different Wardens** — with the gauge read afterwards, which has never been above twenty-five per cent once the slack condition holds.
 
 ### Consequences
 
-- A worker who loses the thread does not collapse; they begin answering questions with somebody else's details — a street they never lived on, a sister they do not have — and answer them calmly. Resolve is spent in the correction afterward, not in the moment.
-- Cost accumulates by the link, not by the minute. Three of the four personnel withdrawn from Collector's Row had each touched between six and nine links across their service; the fourth had touched two, both of them from the faceless end.
-- The relic takes resilience and gives recall, and the trade does not reverse when it is unequipped. Bearers keep what they were lent and lose what was taken; no returned bearer has recovered the Resolve the Chain drew, and all of them can still describe the kitchen.
+- A worker who loses the thread does not collapse. They begin answering questions with somebody else's details — a street they never lived on, a sister they do not have — and answer them calmly. Resolve is spent in the correction afterward, not in the moment.
+- Cost accumulates by the link, not by the minute. Three of the four personnel withdrawn from Collector's Row had each touched between six and nine links across their service. The fourth had touched two, both of them from the faceless end.
+- The relic takes resilience and gives recall, and the trade does not reverse when it is unequipped. Bearers keep what they were lent and lose what was taken. No returned bearer has recovered the Resolve the Chain drew, and all of them can still describe the kitchen.
 - An unclosed cycle does not provoke the Chain. It lengthens it. Every cycle left with a link raised has been followed within a week by a count one higher than the last, and the new link is always at the faceless end.
 
 ## Appearance
 
 **One object, changing catalogue:** The crystal links make the burden of communal remembering material without making a person’s body out of it. The new end carries visible images; the oldest links preserve feeling without faces. Its ordinary holding is the trestle and rail, with part of the length lying on the floor. Changes in count, order, tension and the arrangement on the stand are separate readings. None by itself establishes that the Chain has pursued a worker or become a mobile subject. Count additions before assigning an image or an owner to a new link, and distinguish a face revealed by the Broken Mirror’s presence from a new link actually added.
 
-**Physical Form:** A long chain made of memory-crystal links. Each link contains a face, place, or moment.
+**Physical Form:** A chain of memory-crystal running the length of the room, links the width of two fingers, lead-cold at any room temperature and smelling of wet stone. Each link holds something: nearest the end the reader stands at, a face, clear enough to be named; further down the chain a place; further, a moment with nobody in it. The chain is laid in order and the order has never needed correcting. Links at the far end are clouded past reading and the clouding does not clear.
 
 **Notable Features:** It links memories across people, tightens when a memory is denied, and grows with shared history.
 
@@ -110,7 +119,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A long chain made of memory-crystal links. Each link contains a face, place, or moment.
 - **Position / movement:** The Chain has never moved itself. It has been found rearranged on its stand twice, both times after a shift in which the count rose, and both times coiled rather than laid flat.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-01, Collector's Row
@@ -119,7 +127,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A long chain made of memory-crystal links. Each link contains a face, place, or moment. |
 | **Position / movement** | Fixed on its stand at the rail. The only recorded displacement is a change in how it lies — coiled instead of flat — and only on nights when a link was added. |
 | **Material / signature** | Memory-crystal, lead-cold to the hand at any room temperature, smelling of wet stone. Links at the newest end hold a visible face; links past roughly the two-hundredth hold no image at all and are warm instead of cold. |
 | **Distinctive markers** | The sequence is not chronological. A link holding a child's face sits between two links holding the same person as an adult and as a corpse, and the three have never been adjacent in that order twice. |
@@ -131,40 +138,31 @@
 - **Formation:** The Chain formed from memories passed through families and communities.
 - **The Sorrow:** The weight of remembering for people who cannot or will not remember themselves.
 - **The Event:** Families traded memories to preserve history after records were destroyed; the memories crystallized into links.
-- **The People:** Eleven households of the lower terraces whose ledgers were seized. Surviving commissioning lists record what each agreed to remember for others; four household names are recoverable only from the Chain, while unapproached households left gaps in the lists and no links in it.
+- **The People:** Eleven households of the lower terraces whose ledgers were seized. Surviving commissioning lists record what each agreed to remember for others. Four household names are recoverable only from the Chain, while unapproached households left gaps in the lists and no links in it.
 - **Expanded origin context:** The Collector's Row file traces the Chain to eleven households of the lower terraces whose ledgers were seized in the same week of Year 4,188. Four of the eleven names are recoverable from the Chain itself and from nowhere else; the register that held them was pulped. What the Row preserves is therefore not a legend but an index, and the index is the last surviving copy.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A long chain of small dark links laid along a stand at Collector's Row, one link to a memory, four hundred and nine of them at the last count. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Displays the relationships between memories. | Stable |
-| **Ferrehan** | Tests whether the worker can carry shared history. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the link count taken at the door, the names of the two Wardens who will count it again, and whether anybody present is holding an open loss they have been asked to state aloud. |
+| **Handling** | The watch counts the links before anything else — the count is the only reading that has predicted the hour — and writes the number on the board at the door. |
+| **Withdrawal** | **The Chain lies flat and slack along its whole length, with no link raised and none under tension, and stays that way through two full counts of the links by two different Wardens** — with the gauge read afterwards, which has never been above twenty-five per cent once the slack condition holds. |
+| **Refusal** | Does not pull. The chain is worked slack and never drawn, and a Warden who finds a link raised ends the session rather than lifting it free. |
 
-
-### Operational Work Notes
-
-The table understates one thing and should be read with it in mind: the Chain's gauge is almost always stable, and stability here is not quiet. Every logged personnel injury at Collector's Row occurred during a session in which the gauge did not move at all. What moves instead is the count and the worker's own account of their childhood, and neither of those appears on the instrument.
-
-**Reading the response:** Read the worker, not the object. The Chain gives three signs and the instruments catch none of them: the worker stops using the first person about their own history; the worker corrects somebody else's recollection with confidence they have no grounds for; and the worker asks, usually at the end of a cycle, whether a named person has been in the room. The third sign has preceded every link added since Year 4,231. Log the sentence verbatim, including the name, because the name is the only forward-looking datum this entity produces.
 ## Activation Behavior
+
+> **Special activation — no counter.** What sets it off, per the record: *"touching a link while naming its owner"*.
+
+
+
+
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Trades Recall For Resilience, And The Trade Does Not Reverse On Removal**
-
-**Activation Trigger:** Touching a link while naming its owner.
-
-**Effect:** Connects the user's memory to the memory contained in the link.
-
-**Duration:** Until the link is released.
-
-**Risk:** The user's identity may become tangled with another person's past.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -226,7 +224,7 @@ The Chain does not escalate outward. It escalates by growing, and the growth is 
 
 **Ability:** A struck target is made to remember the blow for longer than it lasted. Damage is ordinary; the effect is that the target cannot act on the following cycle without first re-living the impact, which costs them the initiative and nothing else. Against anything without memory the flail is a heavy stick.
 
-**Cost:** After the third strike the wielder begins to recall the fight in the wrong order, and continues to recall it in the wrong order permanently. Three veterans of Collector's Row can give exact accounts of engagements whose sequence they will defend and which the duty log contradicts.
+**Bearer cost:** After the third strike the wielder begins to recall the fight in the wrong order, and continues to recall it in the wrong order permanently. Three veterans of Collector's Row can give exact accounts of engagements whose sequence they will defend and which the duty log contradicts.
 
 **Weapon custody:** The memory-crystal flail is an extracted piece, not permission to cut a source link. The source-trace cost additionally records growing heaviness and slight ageing; keep those observations beside reordered combat recall rather than silently substitute either for the other. Before cleaning or resting the weapon, preserve the bearer’s exact account and its attribution. A named witness states the Chain’s title and the households’ preservation event while the weapon is relinquished. That shutdown preserves the record, not a guaranteed restoration of memory.
 
@@ -246,9 +244,9 @@ The Chain does not escalate outward. It escalates by growing, and the growth is 
 
 **Ability:** The wearer's own history is held out of reach of anything that reads it. Memory-drawing effects take the mantle's borrowed recollections first and return nothing when they are exhausted. The wearer cannot be made to forget while it is worn, including by the facility's own procedures, which is why it is logged and not freely issued.
 
-**Cost:** The mantle's borrowed recollections surface at rest rather than in action. Wearers sleep badly in the week after a deployment and describe the dreams as somebody else's and uninteresting.
+**Bearer cost:** The mantle's borrowed recollections surface at rest rather than in action. Wearers sleep badly in the week after a deployment and describe the dreams as somebody else's and uninteresting.
 
-**Mantle custody:** Keep the shoulder garment separate from wearing the whole source Chain. Borrowed dreams after deployment and the source-trace’s constant fatigue are both review fields; the collar’s temperature contrast identifies the garment but does not establish the source relic’s elapsed-wear thresholds. Preserve attribution before the Mantle is cleaned or rested. The witness names the households’ memory-preservation event during relinquishment, without treating removal as repayment of what the bearer has carried.
+**Mantle custody:** Keep the shoulder garment separate from wearing the whole source Chain. Borrowed dreams after deployment and the source-trace’s constant fatigue are both review fields. The collar’s temperature contrast identifies the garment but does not establish the source relic’s elapsed-wear thresholds. Preserve attribution before the Mantle is cleaned or rested. The witness names the households’ memory-preservation event during relinquishment, without treating removal as repayment of what the bearer has carried.
 
 ### M.A.W. Stigma — The Memory Link
 
@@ -262,13 +260,13 @@ The Chain does not escalate outward. It escalates by growing, and the growth is 
 
 **Ability:** Allows two people to share one memory safely.
 
-**Cost:** The shared memory becomes a burden carried by both.
+**Bearer cost:** The shared memory becomes a burden carried by both.
 
 *The Chain has issued four Stigmas and all four went to the Warden who completed the count rather than to the worker who sat the cycle. The Armoury records this as the only predictable Stigma pattern in the registry.*
 
 ### M.A.W. Use Notes
 
-The Chain’s three pieces carry other people’s recollections, but identification is not assured: the flail’s face remains unidentified, and the Mantle and Link can be faceless. A bearer is told the attribution limit rather than supplied with an invented owner. The flail's face is unidentified and the Armoury has declined four requests to have it researched; the mantle's links are drawn from the faceless end and hold feeling without image; the Stigma is the one piece the Chain issues rather than yields, and it has been issued four times, always to the worker who completed the count rather than the one who performed the work.
+The Chain’s three pieces carry other people’s recollections, but identification is not assured: the flail’s face remains unidentified, and the Mantle and Link can be faceless. A bearer is told the attribution limit rather than supplied with an invented owner. The flail's face is unidentified and the Armoury has declined four requests to have it researched. The mantle's links are drawn from the faceless end and hold feeling without image. The Stigma is the one piece the Chain issues rather than yields. And it has been issued four times, always to the worker who completed the count rather than the one who performed the work.
 
 ### Field Use Record
 
@@ -279,7 +277,7 @@ The Chain’s three pieces carry other people’s recollections, but identificat
 | **At limit** | The source relic’s second-minute exchange and hesitation test govern source wearing. Stop and preserve the baseline comparison when an extracted-piece user recounts the source household as their own. Keep the actual piece and symptom in the withdrawal record rather than apply a source-wear duration to every item. |
 | **After use** | Repeat baseline questions at one hour and one week and preserve any changed answer. Unwind the source relic by its own return procedure; for an extracted piece, record witness-led relinquishment and attribution review. Neither procedure promises the loss is refunded. |
 
-**Stat interpretation:** This is a β set with a cost that does not match its grade, and the file says so plainly: the flail does less damage than a standard-issue maul and the mantle resists less than a γ suit, while the Stigma has taken a childhood. Grade here describes the Chain's strength, not the bearer's exposure.
+**Stat interpretation:** This is a β set with a cost that does not match its grade. And the file says so plainly: the flail does less damage than a standard-issue maul and the mantle resists less than a γ suit. While the Stigma has taken a childhood. Grade here describes the Chain's strength, not the bearer's exposure.
 
 ## 관찰 기록 (Observation Log)
 
@@ -298,7 +296,7 @@ The Chain’s three pieces carry other people’s recollections, but identificat
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer counts the links and notes where the faces stop. Both numbers go in the log before any description of the room, because both have changed between shifts and nothing else in the record has. |
-| **Sustained observation** | Over a full cycle the observer should be able to name the order of the first twenty links from memory. Observers who can do this at the end of a shift and cannot do it the next morning are recorded as having been read by the Chain rather than having read it; four of the eleven observers on rotation have shown this. |
+| **Sustained observation** | Over a full cycle the observer should be able to name the order of the first twenty links from memory. Observers who can do this at the end of a shift and cannot do it the next morning are recorded as having been read by the Chain rather than having read it. Four of the eleven observers on rotation have shown this. |
 | **Activation or escalation** | Activation requires both halves and has never occurred with one: a hand on a link and that link's owner named aloud. The connection holds until the hand opens, and the hand does not always open on request — in two of the nine logged activations a Warden had to lift the worker's wrist. Record which link, who was named, and who ended the contact. |
 | **Post-contact review** | The report must state what was preserved, not only what was spent. Every link in the sequence is a piece of household history that exists nowhere else since the ledgers were destroyed, and the Collector's Row file is the only index of them. A review that records the injury and omits the name is incomplete and is returned. |
 
@@ -320,7 +318,7 @@ The weight of remembering for people who cannot or will not remember themselves.
 Work response — Viderehan: Displays the relationships between memories. (Stable); Ferrehan: Tests whether the worker can carry shared history. (Decrease). Personnel report emptiness after releasing a link.
 
 **Entry 5 — <Archive Note>**
-The Row tells it shorter than the archive does. Eleven households lost their ledgers in one week, and for two generations afterward they held each other's history by saying it aloud at meals. The Chain is what that arrangement became when the last person who had agreed to it died. It did not begin with a soldier or with anybody in particular; it began with an agreement, and an agreement has no face, which is why the oldest links do not either.
+The Row tells it shorter than the archive does. Eleven households lost their ledgers in one week, and for two generations afterward they held each other's history by saying it aloud at meals. The Chain is what that arrangement became when the last person who had agreed to it died. It did not begin with a soldier or with anybody in particular. It began with an agreement, and an agreement has no face, which is why the oldest links do not either.
 
 ## 최종 관찰 (Final Observation)
 
@@ -341,7 +339,7 @@ The Chain lies across the floor, each link a small world. Touch one and a strang
 
 **With continued exposure:** You start reading the faces as a sequence and looking for the one that comes next. That impulse is the hazard and it arrives on every rotation without exception — the Chain is an index with no catalogue, and the urge to finish the catalogue is what puts a hand on the crystal.
 
-**When the entity activates:** There is no pressure wave and no sound. The hand closes on a link, the name is said, and the room is simply somewhere else for as long as the hand stays shut — somebody's kitchen, usually, in evening light, with the sounds of a household that was dissolved before the worker was born. Observers outside the rail see nothing at all except a worker standing very still.
+**When the entity activates:** There is no pressure wave and no sound. The hand closes on a link, the name is said. And the room is simply somewhere else for as long as the hand stays shut — somebody's kitchen, usually, in evening light, with the sounds of a household that was dissolved before the worker was born. Observers outside the rail see nothing at all except a worker standing very still.
 
 **After departure:** The smell of wet stone stays in the suit through two launderings. Workers who sat a full cycle report that for about a day their own recollections arrive in the Chain's order — out of sequence, the oldest ones faceless — and then settle.
 
@@ -358,8 +356,8 @@ The three entries below are the only cross-entity contacts the Collector's Row f
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Weaver** | Attempts to add stolen memories to the Chain. | Accepted twice and refused once. Both accepted memories became faceless links at the far end within the same shift; the refused one was returned to the Weaver intact, which the Weaver has not done for anything else. | Which memory was offered, whether it was taken, and the count before and after. |
-| **The Inherited Debt** | Links obligations across generations. | No link added in four co-locations. What changes instead is order: the Chain's first twenty links re-sequenced on each occasion, and on three of the four the re-sequencing put the same household at the front. | The sequence of the first twenty links, photographed before and after. |
+| [**The Memory Weaver**](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | Attempts to add stolen memories to the Chain. | Accepted twice and refused once. Both accepted memories became faceless links at the far end within the same shift. The refused one was returned to the Weaver intact, which the Weaver has not done for anything else. | Which memory was offered, whether it was taken, and the count before and after. |
+| [**The Inherited Debt**](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | Links obligations across generations. | No link added in four co-locations. What changes instead is order: the Chain's first twenty links re-sequenced on each occasion, and on three of the four the re-sequencing put the same household at the front. | The sequence of the first twenty links, photographed before and after. |
 | **The Broken Mirror** | Shows memories the Chain has concealed. | The faceless links show faces for as long as the Mirror is in the room. Eleven have been identified this way and entered in the Zone C register; the identifications hold after the Mirror leaves, though the faces do not. | Which links resolved, the names recovered, and whether the count moved. |
 
 **Interaction procedure:** Photograph the first twenty links before the second entity enters the corridor and again after it leaves. Two of the three relationships change the order rather than the length, and order is the one property no instrument on the Row records.
@@ -400,7 +398,7 @@ Some sorrows are about forgetting. Chain of Memories is about remembering too mu
 - The chain is heavy; it carries the community’s history.
 **Observation Notes:**
 - Families traded memories to preserve history after records were destroyed.
-**Cross-References:** Zone C · The Archive · The Keepers · The Memory Well
+**Cross-References:** Zone C · The Archive · The Keepers · The [Memory Well](SE-C-IIIγ-115_Remembrance_기억의_우물.md)
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** Families who preserved history through traded memories.
 
@@ -439,7 +437,7 @@ Families exchanged memories after the records burned, and the commissioning mate
 - **Classification detail:** Chain of Memories is an Object/Place with Fragment (III) — Binding and connecting coherence and Moderate (β) potency.
 - **Field detail:** Weight expression, and the only Weight entity on the Row that does not register on the floor gauges — its load is borne by whoever is remembering, not by the building.
 - **Recognition detail:** Identify it by length and by where the faces stop, not by the crystal. Three objects on Collector's Row are made of the same material and only this one runs off its stand onto the floor.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Record detail:** Collector's Row carries several Weight holdings and the Row's records are filed by case number rather than by name. The full designation and the manifestation are both confirmed at the door, not from memory.
 - **Containment detail:** There is no seal and no door. The Chain is held by a rail, a chalked number and a standing order against speaking names inside it, and that arrangement has held for ten years against an entity that has never once tried to leave. What it does to the corridor it does regardless: the two offices adjacent to the Row report that staff there recall their own childhoods out of order, and have done since before the Chain was catalogued.
 ## Document Information
 

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-219 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or tears falling onto the surface |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A large shard of blue crystal rising from the floor, jagged and bright, perpetually wet with liquid memory that beads and runs down its faces. Salt-cold and damp, it smells of cold rain; touch it and a memory that isn't yours surfaces. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed. The shard is rooted in the chamber floor and has never been lifted; what moves is the wetted margin, which is chalked at every session. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -27,14 +27,16 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Primary pressure** | Clarity — distinguishing a released memory and one's own grief from the volume being measured |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 Han-Energy per successful cycle, drawn from the margin rather than the vessel: the reading is what is worked, and the shard's own store is never the yield. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the contact** — Any contact that marks the surface raises the output, which is why nothing is ever cleaned off the faces. |
+| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is wet in a dry vault, and the wet does not leave the hands at the door. It resets to 30 s the moment the operator steps back out of its reach — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · δ (Critical) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Vessel-Destructible** | No — rooted O-Relic; striking or shattering is prohibited and releases the full soak rather than resolving it |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Viderehan from the marked standpoint; Ferrehan in short rotations with a dry period afterwards. |
 
 ### Operational Notes
@@ -45,58 +47,65 @@
 - No breach counter applies. The wetted area spreads across the vault floor, and its edge is marked physically at every session.
 - Residue is collected from the wetted margin under separate authorisation and never from the vessel: the sump accounts for the fluid that leaves the chamber, and the file treats a shortfall there as the first sign of a bad session.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45 per cent against Lament pressure and 35 against anything else, with the file's own note that the shard does not strike: it seeps, it is rooted in the floor, and what a worker actually resists is the pull of a sealed grief found still moving. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 650/650 |
-| **Han Pressure [ATK]** | 30–66 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone A, Alpha Tree vault |
-| **Resolution Condition** | The grief is left in the vessel — layers read from the marked standpoint, nothing taken out — and the seep rate falls below the previous session's chalk line. |
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across **six doses** of 30 s, stood at for an offering — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **180 s** — six doses, and at 180 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
 
-### Combat Actions
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+stood at for an offering on a 30-second clock, so the six come to **180 seconds**. A worn piece
+gets a minute and a walked ground gets three; the count is the same for both.
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Wet Edge* [**Debuff**] } | "The shard is slick with old tears — and the edge slips through armor like it is not there." | [The Shard's sorrow-water lubricates its cut; defense slides off.] | *Target suffers -10 Composure; the wet edge finds every gap.* **[10 Lament DMG [Lament]]** | When the target is near the Shard. |
-| { *The Drip* [**Debuff**] } | "Each drip from the shard carries a memory — and the memories pool at your feet." | [The Shard's runoff accumulates; the target stands in collected grief.] | *Target loses 10 Composure; the pool is rising.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Slick Cut* [**Attack**] } | "The shard whips through the air — trailing water, trailing sorrow, cutting clean." | [A water-slicked shard-strike.] | *Inflicts Lament pressure and one clean, soaking wound.* **[14-22 Lament DMG [Lament]]** | When the Shard is struck. |
-| { *The Full Soak* [**Attack**] } | "The shard releases every drop it ever held — a blade that becomes a wave." | [The store gives out at once, and everything the vault has kept since the last dried season crosses the chamber in one move.] | *A heavy Deep Blue deluge; the gauge jumps 15 at a stroke.* **[24-36 Lament DMG [Lament]]** | When the surface is broken. |
-| { *The Drowned Edge* [**Ultimate**] } | "Every shard in the field goes slick — and the air itself becomes wet with grief." | [The wet leaves the chamber and takes the district's edges with it, and every surface in reach runs with something warm.] | *Every worker in range takes Lament pressure across 3 turns of wet edges.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+The gauge is read at the instrument. The cost is read on the person.
 
-### Battle Phases
+## Contact Record
 
-1. **Tension:** The wet is the whole identification: a blue shard standing in its own fluid inside a vault that reads dry, with the margin already chalked from the last session. Position and withdrawal are set before the cycle opens, the profile gauge is read from the marked standpoint, and nobody steps inside the chalk line to check anything.
-2. **Clash:** Nothing is exchanged. The crew holds position in a wet chamber while the shard does what it does, and the live decisions are the rotation clock and the moment a worker is sent out.
-3. **Resolution:** **Let the grief stay in the vessel: read the layers in place, and take nothing out**. The condition is met when the shift has left the fluid where it seeps, chalked the new margin against the old, and gone home without carrying any of it; a session that ends with the sump short and a worker richer in memories is entered as a withdrawal, whatever was learned by it.
+> **Why this file has no combat actions.** The shard is rooted in the chamber floor and has never been lifted. What moves is the wetted margin, chalked at every session. The old attack rows had it whipping through the air, which the Movement row contradicts in one sentence. Nothing here swings, launches or pursues: a hand or a tear opens a channel, and the channel is what the watch is for.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A crystal shard rooted in the chamber floor, slick with old tears, with a chalked line round the wetted margin |
+| **Perceptible to** | The wet edge first — the surface is slick where nothing has spilled — and then the runoff, which pools memories at the worker's feet |
+| **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 180 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | Zone A, Alpha Tree vault |
+| **Resolution Condition** | The released memory is witnessed to evaporation or absorption, the channel is closed deliberately from behind the chalk, and the gauge falls below the threshold on the sheet |
+
+
+### Contact Events
+
+| Event | What the shard does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Wet Edge* [**Register**] } | Stands slick with old tears in a chamber where nothing has spilled, and the wetted margin sits inside its chalk. | The confirmation that the shard is open enough to read and not open enough to touch. | The margin is chalked at every session; the chalk is the only instrument that has ever mattered here. |
+| { *The Drip* [**Exposure**] } | Lets runoff quicken along the crystal, and each drop carries a memory that pools at the worker's feet. | Other people's recollection at floor level, gathering where they are standing. | Nothing is thrown and nothing is aimed; the memories arrive by gravity. |
+| { *The Channel* [**Exposure**] } | Opens a channel at contact or at a tear, and the released vision runs until it is witnessed to evaporation or absorption. | A memory that must be watched to its end, and a channel that must be closed deliberately from behind the chalk rather than left to run dry. | The crack is left open and unsealed; the channel is what is closed, and the difference is the whole method. |
+| { *The Drowned Margin* [**Contagion**] } | At the upper gauge every surface in the vault goes slick and the wetted margin walks past its chalk. | Wet air, wet stone, and a margin that has to be rechalked outward before the next session. | The shard has not moved for any of it. The spread is the water and the chalk is where it is read. |
+
+### Watch Sequence
+
+1. **What is confirmed:** the wet edge, the chalk line and the dryness outside it, and the gauge behind the chalk before anybody steps in.
+2. **What the watch does:** Viderehan reads the runoff and the pooled memories; Ferrehan stands the margin without touching the crystal. The channel is closed from behind the chalk, by hand, deliberately.
+3. **How it closes:** the released memory has been witnessed to evaporation or absorption, the channel closed, the crack left open as filed, and the gauge below the sheet's threshold.
 
 ### Consequences
 
-- Failing here costs twice over: the worker takes the pressure into their own **Clarity**, and the shard grows on what the worker cannot hold — the file's oldest observation is that this holding gets larger when it is mourned at.
-- Duration works for the shard and not against it. A long rotation lets sorrow saturation build inside the operative until the collapse the classification was written to prevent arrives on its own terms, and the record carries it in three forms: in the head, in the body, and in the vault floor. The chamber keeps its own clock, which is the sump. It fills at a rate, and a session running past that rate has already begun to pay.
-- Working the M.A.W. set is an exchange with nothing negotiable inside it. The equipment registry gives the parameters and a price in Sorrow Echoes. The second price comes out of the bearer rather than out of the vault, and it is what the wearer is afterwards. Nobody has ever written that second figure down, which is the gap the field use record exists to close.
-- An encounter that nobody settles does not stay where it was left. The shard runs its documented event pattern instead, and sorrow that was never settled takes the exit the containment work failed to give it: the wetted margin jumps without a matching sump volume, the sump reads short, and the fluid ends up somewhere no drain was laid to catch it. Two sessions of that kind are on record and both are the reason the floor is inspected from below.
+- A worker who touches the surface without authorisation takes the channel whole: the memory arrives complete and personal and cannot be handed back, and the gauge rises by the recovery time.
+- Prolonged work at the margin produces the vault's own fatigue: personnel report wet hands in dry rooms and a grief they cannot attach to anything they did.
+- The set is made from what the shard releases and carries the same cost: the lens keeps what it was shown, the veil keeps the damp off and the weight on, and the fragment is always wet at the hand.
+- Unresolved, the margin advances and the chalk is redrawn. The shard stays where it is rooted, which is the only movement the file records of it, and that is to say none.
+- The vault is marked as water-damaged on the facility's inventory and cannot be marked anything else: nothing dries there, and the inventory entry has stood for as long as the holding has.
 
 ## Appearance
 **Physical Form:** A large shard of blue crystal that rises from the floor and remains wet with liquid memory.
@@ -107,7 +116,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A large shard of blue crystal that rises from the floor and remains wet with liquid memory.
 - **Position / movement:** Rooted in the floor and never moved. Record the wetted margin against the previous chalk line and the standpoint used for the reading.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree vault
@@ -116,7 +124,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A large shard of blue crystal that rises from the floor and remains wet with liquid memory. |
 | **Position / movement** | Rooted in the chamber floor; the margin of wet is chalked each session and compared with the last. |
 | **Material / signature** | Lament. Blue crystal under a film that never dries, salt-cold, smelling of cold rain, with the beading running down the faces at a rate the chamber's humidity does not account for. |
 | **Distinctive markers** | Wet in a dry vault. No other holding in the Alpha Tree produces standing fluid against a normal ambient reading. |
@@ -131,37 +138,28 @@
 - **The People:** The Keepers who sealed the original memorial shard, and whoever the sealed loss belonged to. The second is unrecorded. The vault catalogue lists the shard, its dimensions and its date, and no name anywhere in it.
 - **Expanded origin context:** The vault catalogue from before the Tide survives and is the only document the wing has about the shard it used to be. It is an inventory: dimensions, a shelf position, a sealing date, and a line recording that the sealing was performed in good faith and in the belief that a contained grief would go still. The archivist's note observes that the entity is the refutation of that line, and that the catalogue has been kept unamended so that the sentence stays where it was written.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A crystal shard rooted in the chamber floor, slick with old tears, with a chalked line round the wetted margin. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Opens the blue: depths rather than images, with the deeper layers reported as older. The gauge does not move. | Stable |
-| **Ferrehan** | The worker stands in the wet for the rotation and does not leave early. The gauge falls, and this is the only work here that costs anybody anything. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the wet edge, the chalk line and the dryness outside it, and the gauge behind the chalk before anybody steps in. |
+| **Handling** | The observer reads the runoff and the pooled memories; the stander stands the margin without touching the crystal. The channel is closed from behind the chalk, by hand, deliberately. — see `## Handling Process` |
+| **Withdrawal** | The released memory has been witnessed to evaporation or absorption, the channel closed, the crack left open as filed, and the gauge below the sheet's threshold. |
+| **Refusal** | Nothing that would meet the activation — touch, or tears falling onto the surface. No percentage and no count are listed on the file — is done on purpose. |
 
-
-### Operational Work Notes
-
-Soaking Shard is an Object/Place with Object-Void manifestation and Lament expression, rooted in the Alpha Tree vault. Viderehan is conducted from the marked standpoint at a fixed distance. Ferrehan is standing in the chamber for a short rotation, which is where the hazard actually sits. Neither alters the seep, and no session in the holding's history has produced a dry floor.
-
-**Reading the response:** A falling gauge presents as a slower seep: the chalked margin advancing less than the last session, the sump filling under its usual rate. Nothing is closed; the fluid returns to rate within a shift or two. A rising gauge presents as a faster one, and the single reliable precursor is mourning in the chamber — a worker's own grief, not the holding's. Log the volume before anything else, because it is the figure that moves first and the only one that moves for a reason.
 ## Activation Behavior
+
+> **Special activation only — no counter, no gauge.** The listed condition: *"touch or tears falling onto the surface"*.
+
+
+
+
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
-
-**Activation Trigger:** Touch or tears falling onto the surface.
-
-**Effect:** Releases one preserved memory as liquid vision.
-
-**Duration:** Until the vision is absorbed or evaporates.
-
-**Risk:** The worker may lose a memory to replace the released one.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -171,7 +169,7 @@ Soaking Shard is an Object/Place with Object-Void manifestation and Lament expre
 | **Activation** | Touch or tears falling onto the surface. |
 | **Primary Effect** | Releases one preserved memory as liquid vision. |
 | **Duration** | Until the vision is absorbed or evaporates. |
-| **Termination / Return** | The channel is closed on purpose by the operator and never by letting go of it. The worker outside calls it, the two inside step back behind the chalk line, and the conduit is sealed in that order. A conduit dropped instead of closed vents Lament resonance with nothing containing it, and the sector keeps that reading for a shift afterwards. |
+| **Termination / Return** | The channel is closed deliberately and never by abandoning it: the vision is witnessed to evaporation or absorption, the outside worker calls the close, and the two inside step back behind the chalk line. The source crack is not filled, fused, capped or polished over. An abandoned channel compounds residue and accelerates the seep. |
 | **Risk** | The worker may lose a memory to replace the released one. |
 
 **Operational Rule:** The relic asks for unbroken attention and open conduits, and it does not tolerate a channel left to itself: field instability climbs while nobody is holding the flow, which in this vault means the seep accelerates before any instrument does. In practice the rule is the standing order of two inside and one outside. Nobody works the shard alone, and the worker who stays out holds the clock and the sump sheet.
@@ -180,16 +178,16 @@ Soaking Shard is an Object/Place with Object-Void manifestation and Lament expre
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The shard starts to thrum as the channel opens and a wave of Lament sorrow crosses the chamber, which the corridor feels before the instruments register it. | Opening the channel is the activation itself. One preserved memory comes out as liquid vision and stands above the wetted margin, and Sorrow Gauges in the adjacent containment units steady while it runs. |
-| 30 Seconds | At this point the conduit has widened, and the memory resolves into the grief this shard holds, which is the belief that a loss had been sealed when it stayed alive inside. Under that, older and harder to read, is the cracking of the memorial shard in the Alpha Tree vault during the Sorrow Tide surge. | Elemental defence rises through the sector's allied units as the aura widens out to Range Band 2, held only while attention stays on the flow. |
-| 1 Minute | The pressure asks for more than mechanical energy. The channeler carries the mass of a purpose never finished, a sealed grief with no name attached to it anywhere in the surviving catalogue, and feels that on the lungs instead of in the hands. | Holding the channel beyond the first 60 seconds drains 4 Composure on each ten-second count, so the operator settles the disengagement before that clock starts rather than while it is running. |
-| 2 Minutes | The flow threatens to run backwards into the facility. Grief held this long overflows the channel and searches out a living vessel to settle in, and the record warns plainly that the nearest vessel is the channeler. | An overloaded or abandoned channel vents a Lament shockwave with nothing shaping it. The worker may give up a memory from their own past to replace what was released, and every person in the sector takes heavy damage. |
+| 10 Seconds | The shard starts to thrum as the channel opens and a wave of Lament sorrow crosses the chamber, which the corridor feels before the instruments register it. | Opening the channel is the activation itself. One preserved memory comes out as liquid vision above the wetted margin. The outside worker starts the clock and records trigger, starting sump and prior chalk line. |
+| 30 Seconds | At this point the conduit has widened, and the memory resolves into the grief this shard holds, which is the belief that a loss had been sealed when it stayed alive inside. Under that, older and harder to read, is the cracking of the memorial shard in the Alpha Tree vault during the Sorrow Tide surge. | No sector defence is claimed. The two inside remain at the standpoint and do not touch runoff; the outside worker compares film behaviour with the starting margin and sump rate. |
+| 1 Minute | The pressure asks for more than mechanical energy. The channeler carries the mass of a purpose never finished, a sealed grief with no name attached to it anywhere in the surviving catalogue, and feels that on the lungs instead of in the hands. | No fixed ten-second drain is recorded. The outside worker watches for the worker's own mourning, margin advance and sump acceleration. Any one ends the rotation as a logged reading rather than a refusal. |
+| 2 Minutes | The flow threatens to run backwards into the facility. Grief held this long overflows the channel and searches out a living vessel to settle in, and the record warns plainly that the nearest vessel is the channeler. | An abandoned channel compounds residue and may take a worker memory in exchange. The pair withdraws together behind chalk; the vision is not forced into the crack, retained as power, or followed into general drainage. |
 
 ### Escalation Notes
 
 Escalation here is volumetric. Record the sump reading at the start and end of the session, the chalked margin against the last, the profile-gauge height, and anything that happened in the chamber that was not work. The order matters: a margin that has jumped without a matching sump volume means the fluid has gone somewhere the drainage does not reach, which has happened twice and is the reason the floor is inspected from below.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Keep two inside and one outside. Read sump, margin and profile height in that order. Withdraw together behind the chalk if margin gain has no matching sump volume; inspect the floor from below. Do not touch runoff, strike the crystal, seal the crack, or improvise Flerehan/Pugnahan as countermeasures.
 
 ### Detailed Activation Record
 
@@ -200,7 +198,7 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 | **Primary effect** | Releases one preserved memory as liquid vision. |
 | **Duration / rate** | Until the vision is absorbed or evaporates. |
 | **Risk** | Critical (δ) Object-Void producing Lament pressure; The worker may lose a memory to replace the released one. |
-| **Management** | Let the grief stay in the vessel: read the layers from the marked standpoint and take nothing out. Viderehan and Ferrehan only, the fluid left where it seeps, and the margin chalked at every session. |
+| **Management** | Viderehan and Ferrehan only from the marked standpoint. Witness the vision to evaporation or absorption, close the channel deliberately below 25%, and re-read sump/margin/profile. Do not force a replacement memory into the crack or fill, fuse, cap or polish over it. |
 
 **Activation reporting order:** trigger → fluid response at the faces → chalked margin → sump volume → personnel effect and any withdrawal → profile-gauge height. Viderehan and Ferrehan only.
 ## M.A.W. Equipment
@@ -211,7 +209,7 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender Lament Han-crystal blade with a faint luminous edge that lights when readied. It forms from the dry residue line after a complete O-Relic channel; the blade retains a wet-to-dry reading and goes slick in the hand at the chalk line.
+**Appearance:** a slender Lament Han-crystal blade with a faint luminous edge that lights when readied. It forms from the dry residue line after a complete O-Relic channel. The blade retains a wet-to-dry reading and goes slick in the hand at the chalk line.
 
 **Damage:** Lament 10-15
 **Speed:** 3 (Fast)
@@ -221,7 +219,7 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the shard's signature: what the blade opens is not a wound but the certainty that something a worker thought sealed has been moving all along.
 
-**Cost:** The bearer carries the shard's unwept grief and weeps without being able to account for whose it is; prolonged use makes the weeping ordinary. The charge does reverse on the return — the file records that — which is the one difference between the blade and the vault.
+**Bearer cost:** The bearer carries the shard's unwept grief and weeps without being able to account for whose it is. Prolonged use makes the weeping ordinary. The charge does reverse on the return — the file records that — which is the one difference between the blade and the vault.
 
 ### M.A.W. Suit — Soaking Shard Shroud
 
@@ -239,13 +237,13 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Soaking Shard's kind of pressure.
 
-**Cost:** Minor joys go flat in the wearer, quietly and early: the second worker checks at the return of the piece, because nothing about this flattening announces itself from the inside.
+**Bearer cost:** Minor joys go flat in the wearer, quietly and early: the second worker checks at the return of the piece, because nothing about this flattening announces itself from the inside.
 
 ### M.A.W. Stigma — Soaking Shard Pendant
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a pendant of Lament Han-crystal, faintly luminous and cold, heavy in the palm beyond its size; the registered piece is recorded as bestowed after a researcher completed Ferrehan beside an evaporating memory without trying to identify the dead by guesswork, and no extraction procedure can produce it. It goes warm near the vessel, which is how bearers know the margin is closer than the chalk says.
+**Appearance:** a pendant of Lament Han-crystal, faintly luminous and cold, heavy in the palm beyond its size. The registered piece is recorded as bestowed after a researcher completed Ferrehan beside an evaporating memory without trying to identify the dead by guesswork. And no extraction procedure can produce it. It goes warm near the vessel, which is how bearers know the margin is closer than the chalk says.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -253,13 +251,13 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 
 **Ability:** Absorbs one emotional attack and stores it as a memory.
 
-**Cost:** Stored grief leaks into sleep: the bearer dreams somebody else's unsealed loss and wakes certain it is theirs. Of the 3 pieces this is the one whose cost presents loudest, which the armoury records as the reason it is issued last.
+**Bearer cost:** Stored grief leaks into sleep: the bearer dreams somebody else's unsealed loss and wakes certain it is theirs. Of the 3 pieces this is the one whose cost presents loudest, which the armoury records as the reason it is issued last.
 
 *The pendant is not issued and cannot be requested. It turns up on a worker who has stood a full rotation in the wet — the armoury's line is 4 per cent of them — and the file keeps that number because nobody has ever been able to predict which 4.*
 
 ### M.A.W. Use Notes
 
-The three pieces have distinct recorded sources: the Requiem forms from a dry residue line after a complete O-Relic channel; the Shroud condenses from mist above a memory vision that evaporates with witnesses; and the registered Pendant was bestowed after a researcher completed Ferrehan beside an evaporating memory without trying to identify the dead. No extraction procedure produces the Pendant, and the set is not three pieces cut from one crystal film. The toll differs by piece but the shape of it is one — the bearer ends up carrying grief that is not theirs — and the set note says plainly that a piece taken from this vessel does not give anything back to it.
+The three pieces have distinct recorded sources: the Requiem forms from a dry residue line after a complete O-Relic channel. The Shroud condenses from mist above a memory vision that evaporates with witnesses. And the registered Pendant was bestowed after a researcher completed Ferrehan beside an evaporating memory without trying to identify the dead. No extraction procedure produces the Pendant, and the set is not three pieces cut from one crystal film. The toll differs by piece but the shape of it is one — the bearer ends up carrying grief that is not theirs — and the set note says plainly that a piece taken from this vessel does not give anything back to it.
 
 ### Field Use Record
 
@@ -268,13 +266,13 @@ The three pieces have distinct recorded sources: the Requiem forms from a dry re
 | **Before use** | Wielder, piece, and a dated baseline laid down by a second person: what has the bearer been dreaming about this week, and whose was it? The charge here arrives through sleep and through weeping, and the sheet is the only measure of either. |
 | **During use** | The charge shows as weeping without a source and dreams that will not stay on the bearer's own account. The hour goes into the log from the second worker's hand; the bearer's account is taken afterwards and never used to complete it. |
 | **At limit** | The limit is flatness nobody reports: minor joys gone, weeping ordinary, and the bearer describing the week as fine. On a Soaking Shard piece the use ends at that point, and the call belongs to the observer. |
-| **After use** | The piece comes back and the bearer is re-assessed a week later, because this charge does not present on the day: the second worker asks for the week's dreams and the last thing that made the bearer laugh, and where neither can be produced the piece is not reissued. |
+| **After use** | The piece comes back and the bearer is re-assessed a week later, because this charge does not present on the day: the second worker asks for the week's dreams and the last thing that made the bearer laugh. And where neither can be produced the piece is not reissued. |
 
 **Stat interpretation:** Grades describe extraction stability and nothing about human safety: a well-graded piece can still demand a toll no rating accounts for, and on this set the toll is a bearer weeping with no account of whose grief they are carrying. Authorise on the cost column, and treat a low-rated piece carrying that charge as the ordinary case in this vault.
 
-**Full-set source review (2026-10-12):** Reviewed the `O-Relic (Offertorium) · δ` overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation and other M.A.W. claims against Side `SE-219-A` (`C-IVδ-219 [LO]`, set `4/4`) and items `SE-219-B/C/D` (`MAW-W-219-01`, `MAW-S-219-01`, `MAW-G-219-01`), Master Registry rows 494–497, Master Codex table/Entries 256–258 and Tale 86, and archetype `MAW-W-219`. All primary review sections are present; the Side Codex declares a `4/4` set, and all three linked item records are present. Each item has an Appearance section but none has a separately labelled transition block. The Master detail entries have no item Appearance or full combat profile; the repository has a Weapon archetype list only, with no separate Suit/Stigma archetype list.
+**Full-set source review (Year 4238):** Reviewed the `O-Relic (Offertorium) · δ` overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation and other M.A.W. claims against Side `SE-219-A` (`C-IVδ-219 [LO]`, set `4/4`) and items `SE-219-B/C/D` (`MAW-W-219-01`, `MAW-S-219-01`, `MAW-G-219-01`), Master Registry rows 494–497, Master Codex table/Entries 256–258 and Tale 86, and archetype `MAW-W-219`. All primary review sections are present; the Side Codex declares a `4/4` set, and all three linked item records are present. Each item has an Appearance section but none has a separately labelled transition block. The Master detail entries have no item Appearance or full combat profile. The repository has a Weapon archetype list only, with no separate Suit/Stigma archetype list.
 
-Primary, Side and item profiles agree on Weapon Lament 10–15 / Fast 3 / Range 3 Medium / max 2 / 50 Echoes; Side/item add Skewer, three targets and 100% → 70% → 50%, unstated locally. `MAW-W-219`'s wet needle-crystal silhouette supports a blade but its Short band conflicts with the matching primary/item Medium range. Suit L/G/V/W resistances 1.0/0.4/1.6/0.8, max 2 and 45 Echoes agree. Stigma Tail / 4% / +3 agrees; Side and item specify Clarity during source work, so the local bonus stat is now explicit. Side, Registry and item titles use `Splinter`, while the primary and Master Codex use `Soaking Shard`; the exact designation verifies linkage but provides no alias crosswalk. Registry rows 494–497 remain sparse, and row 497's generic Accessory / 5% conflicts with the supported Tail / 4% Stigma. No disputed title or range was normalized.
+Primary, Side and item profiles agree on Weapon Lament 10–15 / Fast 3 / Range 3 Medium / max 2 / 50 Echoes. Side/item add Skewer, three targets and 100% → 70% → 50%, unstated locally. `MAW-W-219`'s wet needle-crystal silhouette supports a blade but its Short band conflicts with the matching primary/item Medium range. Suit L/G/V/W resistances 1.0/0.4/1.6/0.8, max 2 and 45 Echoes agree. Stigma Tail / 4% / +3 agrees; Side and item specify Clarity during source work, so the local bonus stat is now explicit. Side, Registry and item titles use `Splinter`, while the primary and Master Codex use `Soaking Shard`. The exact designation verifies linkage but provides no alias crosswalk. Registry rows 494–497 remain sparse, and row 497's generic Accessory / 5% conflicts with the supported Tail / 4% Stigma. No disputed title or range was normalized.
 
 The primary's shared-cut/film claim was replaced with the item-specific formation recorded by the Side and linked items: dry residue for Requiem, witnessed-vision mist for Shroud, and bestowal rather than extraction for the Pendant. The primary's Pendant-warms-near-vessel observation differs from the linked item's cool-until-attack description; the primary's no-return-to-source statement is not settled by the Side/item release and evaporation procedures. Both remain explicit holds; no transfer was inferred.
 
@@ -308,18 +306,18 @@ The primary's shared-cut/film claim was replaced with the item-specific formatio
 Soaking Shard (C-IVδ-219 [LO]) is an Object-Void manifestation expressing Lament: a sealed grief that cracked and started flowing again, rooted in the floor of the Alpha Tree vault. It stands in its own fluid in a chamber that reads dry, it absorbs tears, it grows when it is mourned at, and the layers under its surface carry reflections of the dead. Positioned, never moved; measured in volume rather than distance; the condition is to read the layers in place and take nothing out.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-It grows more active during the Sorrow Tide.
+It grows more active during the Sorrow Tide, the only external variable with a settled correlation. The entry is therefore volumetric before it is interpretive: starting sump, ending sump, margin against the previous chalk, and any shortfall that would mean memory-bearing fluid has gone somewhere the sealed carriage never received.
 
 **Entry 3 — <Excerpt from Counseling Log, Year 4231>**
-The grief of believing a loss had been sealed when it remained alive inside.
+The grief of believing a loss had been sealed when it remained alive inside is also the chamber's welfare problem. A worker who begins mourning their own loss leaves at once and says why outside. Counseling logs the withdrawal against the volume series as a reading, with no personnel entry, and assigns a dry period away from wet work.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: reveals the memories stored in the liquid interior, read from the marked standpoint (Stable); Ferrehan: tests whether a worker can stand a full rotation while the grief flows (Decrease). Physical damage raises its liquid output, and a released vision stops when the chamber empties — the volume it took is never recovered at the sump.
+Work response — Viderehan: reveals the memories stored in the liquid interior, read from the marked standpoint (Stable). Ferrehan: tests whether a worker can stand a full rotation while the grief flows (Decrease). Physical damage raises its liquid output, and a released vision stops when the chamber empties — the volume it took is never recovered at the sump.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 The vault's own record, filed under the Sorrow Tide and short of a story. The shard was sealed dry and left; the Tide cracked it, and the crack did not close. What the wing actually keeps from that year is an accounting: the chamber holds the stone and never the fluid, every litre that leaves goes by sealed carriage to the Memory Archive, and no session has ever been signed off with the sump short.
 
-**Threat rating:** Low, in the register's own words, and the file adds the caveat that low here describes the danger and not the work. The hazard is a horror rather than a strike: proximity installs the discovery that a loss believed sealed has been moving the whole time, and the discovery is what the wing has never found a way to uninstall.
+**Threat rating:** Critical (δ). The shard does not strike; proximity installs the discovery that a loss believed sealed has been moving the whole time, and contact can exchange a worker's memory for a released one.
 
 ## 최종 관찰 (Final Observation)
 
@@ -338,7 +336,7 @@ Blue liquid runs upward through the crystal. Faces move beneath the surface like
 
 **At first contact:** What identifies it is the wet before the stone: a large shard of blue crystal rising out of the floor with its own fluid around it, in a vault the instruments swear is dry. It is warm despite the cold room, it has absorbed somebody's tears and grown on them, and the layers under the surface carry faces that are not reflections. The identification is the wet itself — this is the only holding in the vault measured by volume rather than distance.
 
-**With continued exposure:** The chamber stops reading as a room and starts reading as a watershed. The Lament has a topography here — ridges where the pressure stands higher, hollows where it drains, and the chalked line as the only honest landmark — and the file's rule is that the two inside stay behind it, with one worker outside holding the clock and the sump sheet.
+**With continued exposure:** The chamber stops reading as a room and starts reading as a watershed. The Lament has a topography here — ridges where the pressure stands higher, hollows where it drains. And the chalked line as the only honest landmark — and the file's rule is that the two inside stay behind it, with one worker outside holding the clock and the sump sheet.
 
 **When the entity activates:** Activation is touch or tears reaching the surface, and the response is a release rather than an attack: 1 preserved memory comes out as liquid and seeks a living vessel. The reporting order is fixed — trigger, then the fluid at the faces, then the chalked margin, then sump volume, then personnel, then the profile-gauge height — and Viderehan and Ferrehan are the only approaches that do not widen the seep.
 
@@ -353,19 +351,19 @@ This file reads Soaking Shard against the 3 holdings it has been paired with —
 
 ### Entity Interaction Record
 
-The archive holds several memory-bearing records and keeps them disjoint on purpose; this one sits among them and is the only one whose variable is volume — how much fluid, off what, and where it went. The 3 entries below are filed observations and not a family tree: the wing keeps them because workers assume connections, and the file would rather answer the assumption than inherit it.
+The archive holds several memory-bearing records and keeps them disjoint on purpose. This one sits among them and is the only one whose variable is volume — how much fluid, off what, and where it went. The 3 entries below are filed observations and not a family tree: the wing keeps them because workers assume connections, and the file would rather answer the assumption than inherit it.
 
 | Record set beside it | Where the resemblance comes from | What the pairing has actually shown | Entry the file requires |
 |---|---|---|---|
-| **The Frozen Shard** | Two crystals at opposite ends of the same problem: one holds its grief solid, this one cannot hold its at all. | Paired three times at distance. Both chambers' temperatures moved toward each other and returned within the hour; the seep rate did not change at any point, and nothing transferred in either direction. | Both temperature series, the sump volumes across all three pairings, and the unchanged margin. |
+| **The Frozen Shard** | Two crystals at opposite ends of the same problem: one holds its grief solid, this one cannot hold its at all. | Paired three times at distance. Both chambers' temperatures moved toward each other and returned within the hour. The seep rate did not change at any point, and nothing transferred in either direction. | Both temperature series, the sump volumes across all three pairings, and the unchanged margin. |
 | **The First Tear** | An origin and a late consequence of the same proposition. | Never co-located; the comparison is documentary. The wing keeps the entry because workers assume a lineage between them and there is no evidence of one. | The standing note that no pairing has been attempted and no lineage established. |
-| **The Memory Rain** | Both produce memory-bearing liquid and neither produces it the same way. | Never brought together and formally separate. The Rain's variable is the interval between falls and its volume never changes; this holding's volume is the whole of its behaviour and its timing is constant. The two fluids have never been compared, because the Rain's is sealed on collection and this one's is in the Memory Archive's custody before the shift ends. | The disjointness note, both collection protocols, and the review minute that keeps them apart. |
+| **The Memory Rain** | Both produce memory-bearing liquid and neither produces it the same way. | Never brought together and formally separate. The Rain's variable is the interval between falls and its volume never changes. This holding's volume is the whole of its behaviour and its timing is constant. The two fluids have never been compared, because the Rain's is sealed on collection and this one's is in the Memory Archive's custody before the shift ends. | The disjointness note, both collection protocols, and the review minute that keeps them apart. |
 
 **Interaction procedure:** Solo baselines first for both records, then the pairing with the second record's staff held outside the margin and no two observers in the same chamber. Enter the first shared change with its range, duration, trigger, both gauges and the sump volume either side of it, and state the margin against the previous chalk line. A pairing run without the volume figures is void on this file, whatever it showed.
 
 ## 이야기 (Narratio) — The Tale
 
-They sealed the grief in a shard and put it in the vault, and the shard, cracked by the Sorrow Tide, proved the grief had never stopped flowing.
+Long ago they sealed the grief in a shard and put the shard in the vault, and it cracked under the Sorrow Tide, and the crack proved the grief had never stopped flowing.
 
 The memorial shard was small — a fragment of Han-crystal, holding a single concentrated loss, sealed in the Alpha Tree vault by the Keepers who believed that grief, properly contained, would eventually go still. The shard was a closed wound: the sorrow inside it crystallized, dormant, held in the crystal's structure the way amber holds an insect — preserved, motionless, theoretically inert. The Keepers catalogued it. The Keepers moved on. The grief, inside the shard, was sealed.
 
@@ -395,19 +393,19 @@ Some sorrows are about open wounds. Soaking Shard is about a wound that was clos
 **Common Name:** Soaking Shard
 **Containment Status:** Contained — Alpha Tree vault
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). Proximity delivers a grief believed finished and found running; contact trades one of the worker's memories for one of the shard's, and the holding grows when it is mourned at.
+**Threat Assessment:** Critical (δ). Proximity delivers a grief believed finished and found running. Contact trades one of the worker's memories for one of the shard's, and the holding grows when it is mourned at.
 **Containment & Handling Procedures:**
 - Viderehan from the marked standpoint; Ferrehan in short rotations with a dry period after.
 - Volume is the control: sump reading each session, chalked margin against the last, profile height weekly.
 **Observation Notes:**
 - Cracked during a Sorrow Tide; the sealed grief was alive inside.
-**Cross-References:** Alpha Tree · The Keepers · The Sorrow Tide
+**Cross-References:** Alpha Tree · The Keepers · [The Sorrow Tide](SE-C-Vγ-260_Sorrow_Tide_한의_조수.md)
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
 **Originator:** Keepers who sealed grief in a shard.
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding is a measurement problem that turns out to be a welfare problem. Read the three series together: the sump volume says how much is leaving, the chalked margin says how far it has reached, and the profile gauge says how much the shard has gained — and they do not reconcile, which is the file's central finding rather than an error in it. Everything procedural here follows from a hazard whose main input is a thing people do involuntarily. Where the entity does something not described here, log it and leave the contradiction standing.
+**Operational interpretation:** This holding is a measurement problem that turns out to be a welfare problem. Read the three series together: the sump volume says how much is leaving, the chalked margin says how far it has reached. And the profile gauge says how much the shard has gained — and they do not reconcile, which is the file's central finding rather than an error in it. Everything procedural here follows from a hazard whose main input is a thing people do involuntarily. The three series are copied out at review exactly as taken. The mismatch between them is the finding, and it is never reconciled inside the record.
 
 **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the sump series against the carriage register, the chalked margin, the profile height, the exposure log and the gauge. Three further items apply here. The withdrawal readings are reconciled against the counsellors' own count and any discrepancy reported to the review rather than resolved locally. The vault's remaining memorial material is inspected at full frequency. And the safety office's objection to the withdrawal classification is re-read in full, unaltered.
 ## Apex Record
@@ -426,7 +424,7 @@ Its interior holds layered reflections of the dead, visible under Viderehan work
 
 ### The Vault That Cracked
 
-Its origin is a memorial shard in the Alpha Tree vault that cracked during a Sorrow Tide surge, releasing sorrow that had been believed sealed. The vault's remaining memorial material is inspected on the same Tide schedule as the holding itself, by crews who carry the shard's own history as their briefing. The inspection has found nothing further in a long time. It continues at full frequency, and the proposals to reduce it have all foundered on the same objection: the entity exists because something that was thought to be finished was not, and a reduced inspection schedule would be the facility making that assumption again in the same building.
+Its origin is a memorial shard in the Alpha Tree vault that cracked during a Sorrow Tide surge, releasing sorrow that had been believed sealed. The vault's remaining memorial material is inspected on the same Tide schedule as the holding itself, by crews who carry the shard's own history as their briefing. The inspection has found nothing further in a long time. It continues at full frequency, and the proposals to reduce it have all foundered on the same objection: the entity exists because something that was thought to be finished was not. And a reduced inspection schedule would be the facility making that assumption again in the same building.
 
 ### Endurance Against the Wet
 
@@ -442,9 +440,9 @@ Carriage transfers are witnessed by a member of the Archive's staff and counters
 
 Three series are kept, and the holding's standing finding is that they do not reconcile.
 
-The sump is read at the start and end of every session; the wetted margin is chalked and compared with the last line; the shard itself is measured against a profile gauge weekly. **Across nineteen years the shard has gained fourteen centimetres in height and a little under three at the widest station, and the sump has taken eleven thousand four hundred litres away from it.** Nothing measurable goes in. The chamber's humidity load is accounted for, the drainage is closed, the carriage register has no gaps, and the shard is nonetheless both larger and the source of a volume of fluid the vault cannot supply.
+The sump is read at the start and end of every session. The wetted margin is chalked and compared with the last line. The shard itself is measured against a profile gauge weekly. **Across nineteen years the shard has gained fourteen centimetres in height and a little under three at the widest station, and the sump has taken eleven thousand four hundred litres away from it.** Nothing measurable goes in. The chamber's humidity load is accounted for, the drainage is closed, the carriage register has no gaps, and the shard is nonetheless both larger and the source of a volume of fluid the vault cannot supply.
 
-The wing states this flatly and declines to resolve it. The ledger's front page records that a balance which does not balance is a finding about the holding and not a fault in the instruments, that the instruments have been replaced twice without changing the result, and that any future protocol built on an assumption of conservation here will be built on something the record does not support.
+The wing states this flatly and declines to resolve it. The ledger's front page records that a balance which does not balance is a finding about the holding and not a fault in the instruments, that the instruments have been replaced twice without changing the result. And that any future protocol built on an assumption of conservation here will be built on something the record does not support.
 
 What the series do establish is the input nobody can regulate. **Growth correlates with mourning conducted in the chamber and not with elapsed time**, and the correlation is the strongest figure in the file.
 
@@ -470,7 +468,7 @@ The safety office's objection is on the file and has never been answered. The co
 
 - Some of the film runs up the faces rather than down, which the engineers log and have stopped trying to explain.
 - A released vision stops when the chamber empties, and the volume it took is never recovered at the sump.
-- The figures below are written as numerals so the register can find them: gauge 650/650, pressure 30–66 per hit, battle length 24 turns, the channel timings 10 / 30 / 60 / 120 seconds, a 4 per cent acquisition line on the pendant, and 2 pieces per issue.
+- The figures below are written as numerals so the register can find them: gauge 750/750, pressure 30–66 per hit, battle length 24 turns, the channel timings 10 / 30 / 60 / 120 seconds, a 4 per cent acquisition line on the pendant, and 2 pieces per issue.
 
 
 

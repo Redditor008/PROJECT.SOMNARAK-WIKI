@@ -41,7 +41,7 @@ When Kael presented these findings to the High Council, demanding an expeditiona
 He did not die.
 
 ### 1.3 The Discovery of the Han-Flow Lines (한류맥 — Hanryumaek)
-Exposed to the open wasteland, Kael discovered that the Desolate was not a uniform void of death, but an undulating ocean of crystallized mineral sorrow traversed by massive subterranean **Han-Flow Lines (한류맥 / 恨流脈)**. 
+Exposed to the open wasteland, Kael discovered that the Desolate was not a uniform void of death, but an undulating ocean of crystallized mineral sorrow traversed by massive subterranean **Han-Flow Lines (한류맥 / 恨流脈)**.
 - These acoustic currents of planetary grief formed stable geothermic highway corridors across the dunes where atmospheric pressure stabilized and the air was breathable.
 - Over forty-six years of solitary survival and diplomacy, Kael united the scattered exile clans, rogue scavengers, and outcasts into a unified nomadic society: **The Nomads of the Horizon (지평선의 방랑자들)**.
 - Drawing upon pre-Calamity military bunkers buried beneath the sand, Kael and his engineers excavated the chassis of a derelict super-heavy terraforming crawler, rebuilding it into the flagship of humanity's rebirth: **The Drift Throne (표류옥좌 — Pyoryu Okjwa)**.
@@ -109,12 +109,12 @@ To survive the apocalyptic weather of the Desolate, the Drift Throne is equipped
 | TACTICAL GUIDE : Hwaran, the Furnace Scholar (Cheonbulok Defector)  |
 | CHIEF ENGINEER : Master Wright Gwan (Crawler Mechanics & Siphon)    |
 | CHIEF LEY-SEER     : Sora the Blind (Seismic & Acoustic Diviner)    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | VANGUARD ARM       : Dune Scouts (Rapid Sand-Skimmers & Outriders)  |
 | SIEGE ARM : Heavy Dredgers (Class IV MAW Exo-Frame Infantry)        |
 | ACOUSTIC ARM       : Ley-Seers (Planetary Resonance Cartographers)  |
 | CIVIL ARM          : Refugee Stewards & Trans-Planetary Merchants   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | ACTIVE CADRE       : 1,250 Sworn Navigators, 4 Nomadic Clans        |
 +=====================================================================+
 ```
@@ -153,16 +153,16 @@ To survive the apocalyptic weather of the Desolate, the Drift Throne is equipped
 |   diversion.                                                        |
 | - Signature Gear: High-velocity sand-skimmers, acoustic decoy       |
 |   flares.                                                           |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CLAN 02: THE ASH IRON CLAN (HOE-CHEOL BUJOK)                        |
 | - Role: Heavy crawler engineering, armor forging, track             |
 |   maintenance.                                                      |
 | - Signature Gear: Portable slag crucibles, hydraulic tread jacks.   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CLAN 03: THE ACOUSTIC WHISPERERS (MAEKRYU CHEONGCHWI BUJOK)         |
 | - Role: Subterranean seismic divination, weather forecasting.       |
 | - Signature Gear: Resonant ear-trumpets, ground contact geophones.  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CLAN 04: THE HEARTHKEEPERS (HWARO SUHO BUJOK)                       |
 | - Role: Life support stewardship, water purification, refugee       |
 |   triage.                                                           |
@@ -190,14 +190,14 @@ The Nomads of the Horizon live by three immutable laws forged during forty years
 | - Civic Order: Ruled by Council & Five Sovereign Institutions       |
 | - Population: 1.4 Million Citizens                                  |
 |   | Core: The Alpha Tree Facility 01                                |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CITY 02: CHEONBULOK (THE CITY OF A THOUSAND RAGES)                  |
 | - Archetype: Volcanic Caldera & Foundry                             |
 |   | Sovereign Element: Grudge & Fire                                |
 | - Civic Order: Ruled by High Furnace Guild & Battle Pit Warlords    |
 | - Population: 850,000 Foundry Workers                               |
 |   | Core: The Sacred Slag Furnace                                   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CITY 03: MUGEUKJI (THE CITY OF ABSOLUTE SILENCE)                    |
 | - Archetype: Cyclopean White Marble Monolith                        |
 |   | Sovereign Element: Pure Null                                    |
@@ -229,7 +229,7 @@ The world is not an empty desert; it is an archipelago of surviving urban fortre
 | WAYSTATION 01-04 (SOMNARAK BORDER ZONE):                            |
 | - Station 01: Exile's Rest (0km) Station 03: Iron Ridge (250km)     |
 | - Station 02: Sand-Gate (120km) Station 04: Black Basalt (400km)    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | WAYSTATION 05-12 (THE SEA OF GLASS CORRIDOR):                       |
 | - Station 05: Glass Mirror (650km) Station 09: Salt Sump (1,400km)  |
 | - Station 06: Whispering Dune (800km) Station 10: Obsidian Fort     |
@@ -238,7 +238,7 @@ The world is not an empty desert; it is an archipelago of surviving urban fortre
 |   (1,900km)                                                         |
 | - Station 08: Halfway Crypt (1,200km) Station 12: Slag Approach     |
 |   (2,100km)                                                         |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | WAYSTATION 13-17 (CHEONBULOK CALDERA APPROACH):                     |
 | - Station 13: Ash Gate (2,250km) Station 16: Iron Foundry (2,380km) |
 | - Station 14: Cinder Gorge (2,300km) Station 17: Caldera Causeway   |
@@ -273,7 +273,7 @@ Each of the seventeen waystations along the Trans-Desolate Highway is an automat
 | [STAGE NODES 01 TO 10 — CRAWLER VANGUARD RAMPS TO REAR HORIZON]     |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 |    [CRAWLER-RAMP]   [FORWARD-DUNE]   [MID-BASIN]   [REAR-HORIZON]   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 01: Vanguard Intercept / Crawler Ramps (Point-Blank Band 1)  |
 | - Node 02: Sand-Skimmer Flank / Rapid Outriders (Short Band 2)      |
 | - Node 03: Forward Dunes / Kinetic Barricade Line                   |
@@ -284,7 +284,7 @@ Each of the seventeen waystations along the Trans-Desolate Highway is an automat
 | - Node 08: Deep Sand Chasm / Environmental Hazard Sump              |
 | - Node 09: Subterranean Ley-Line Breach Vent                        |
 | - Node 10: Crawler Command Core / Flagship Bridge (Band 5 Extreme)  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RANGE BANDS (1 TO 5):                                               |
 | - Band 1 (Nodes 01-02): Heavy Trench-Cleavers, Hydraulic            |
 |   Pile-Drivers                                                      |
@@ -326,7 +326,7 @@ Equipped M.A.W. weight classes dramatically alter an operative's survival profil
 |   Speed.                                                            |
 | - Dune Camouflage: Operatives in rear dunes gain +25% Evasion.      |
 | - Slag Absorption: Cheonbulok gear absorbs 30% thermal/fire damage. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P2: PANIC / COMPOSURE (SANDSTORM DELIRIUM & ACOUSTIC GROUNDING)     |
 | - Composure Gauge (0-50 SP): Measures nerve against howling dust    |
 |   winds.                                                            |
@@ -334,14 +334,14 @@ Equipped M.A.W. weight classes dramatically alter an operative's survival profil
 |   Clash.                                                            |
 | - Acoustic Grounding: Flagship acoustic beacons restore +15 SP      |
 |   squad-wide.                                                       |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P3: PARRY / PROTECTION (KINETIC DEFLECTION & SAND SHIELD)           |
 | - Kinetic Deflection: Heavy cleavers reflect projectile fire back   |
 |   at foe.                                                           |
 | - Sand Shield: Deploys compressed silica dust to absorb blunt       |
 |   trauma.                                                           |
 | - Pylon Quench: Cancels environmental heat and cryogenic hazards.   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | P4: POSTURE / POISE (MODULAR PART DISMANTLE & TERMINAL STAGGER)     |
 | - Modular Part Posture: Boss appendages/carapaces possess discrete  |
 |   pools.                                                            |
@@ -372,7 +372,7 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node overl
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [CRAWLER][KAEL]  [HWARAN] [SCOUT]                                   |
 | [COLOSS] [P-TOWER][DREDGE][CHASM]       [CORE]                      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 02: Kael, the Drift King (Speed 8 -> 4 AP | HP 4,200/4,200   |
 |   | SP 50/50)                                                       |
 | - Node 03: Hwaran, Furnace Scholar (Speed 7 -> 4 AP                 |
@@ -409,7 +409,7 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node overl
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [CRAWLER]        [KAEL]   [HWARAN] [COLOSS]                         |
 | [P-TOWER][DREDGE][CHASM]       [CORE]                               |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 03: Kael (Speed 9 -> 5 AP | HP 4,100/4,200 | SP 48/50)       |
 | - Node 04: Hwaran (Speed 8 -> 4 AP | HP 3,050/3,100 | SP 50/50)     |
 | - Node 05: The Glass-Dune Colossus (Speed 4 -> 2 AP                 |
@@ -439,7 +439,7 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node overl
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [CRAWLER]                 [KAEL]   [COLOSS]                         |
 | [HWARAN][DREDGE][CHASM]       [CORE]                                |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 04: Kael (Speed 9 -> 5 AP | HP 4,100/4,200 | SP 50/50)       |
 | - Node 05: The Glass-Dune Colossus (Speed 0 -> 0 AP | HP 420/7,800  |
 |   | Posture 0/450)                                                  |
@@ -471,26 +471,26 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node overl
 | PAGE 01: TRENCH-CLEAVER STANCE (Grade Alpha / 1 AP / Band 1 Melee)     |
 | - Dice: Gash 7-11, Block 5-9 [Weight]                                  |
 |   | Passive: +2 Posture Strain.                                        |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | PAGE 02: DUNE-SKIMMER FLANK (Grade Beta / 2 AP / Band 2 Close)         |
 | - Dice: Evade 11-16, Skewer 8-13 [Lament]                              |
 |   | Strips 1 enemy clash power.                                        |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | PAGE 03: SLAG IGNITION (Grade Beta / 2 AP / Band 2-3 Mid)              |
 | - Dice: Skewer 10-14, Burn 8-12 [Grudge] | Melts 25% target armor.     |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | PAGE 04: SEISMIC PILE-DRIVER (Grade Gamma / 3 AP / Band 1 Melee)       |
 | - Dice: Bludgeon 14-19, Stun 10-14 [Weight]                            |
 |   | Inflicts 1-turn immobilize.                                        |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | PAGE 05: ACOUSTIC QUENCH (Grade Gamma / 3 AP / Band 3-4 Mid-Long)      |
 | - Dice: Null-Pulse 15-20, Block 12-16 [Void] | Quenches sandstorms.    |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | PAGE 06: CRAWLER SIEGE CALL-IN (Grade Delta / 4 AP / Band 5            |
 | Extreme)                                                               |
 | - Dice: Siege Shell 22-28, Blast 18-22 [Weight]                        |
 |   | AOE across 3 nodes.                                                |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | PAGE 07: SOVEREIGN LEY-BURST (Grade Omega / 6 AP / Omni-Band)          |
 | - Dice: Planetary Eruption 32-42 [Hope]                                |
 |   | Resets squad composure to 50 SP.                                   |
@@ -537,21 +537,21 @@ The Horizon Caravan maintains the fragile geopolitical equilibrium of the known 
 |   lost.                                                             |
 | - Outcome : Kael discovered vitrified Han-armor concept; Leviathan  |
 |   repelled.                                                         |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | LOG EXP-002 (YEAR 4,238 / MONTH 04) : THE FOUNDRY REVOLT TRIAL      |
 | - Location: Cheonbulok Lower Caldera (Battle Pit Sector)            |
 | - Incident: Barok challenged Kael to gladiatorial combat for        |
 |   docking rights.                                                   |
 | - Outcome : Kael disarmed Barok in Turn 05; opened the Trade        |
 |   Causeway.                                                         |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | LOG EXP-003 (YEAR 4,238 / MONTH 08) : THE MUGEUKJI NULL INCURSION   |
 | - Location: Perimeter of Absolute Silence (Latitude 44 North)       |
 | - Incident: Sensory erasure field blinded crew; acoustic radar      |
 |   died.                                                             |
 | - Outcome : Sora guided vessel out by bedrock heartbeat; retreat    |
 |   ordered.                                                          |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | LOG EXP-004 (YEAR 4,239 / MONTH 01) : THE GREAT REFUGEE CONVOY      |
 | - Location: Return corridor across Trans-Desolate Highway           |
 | - Incident: 400 Cheonbulok foundry defectors escorted to Somnarak.  |
@@ -593,7 +593,7 @@ During Arc 6, the Drift Throne advanced into the perimeter of Mugeukji, seeking 
 | He shall be cast into the void. His name is erased from the Spire.' |
 | - Kael : 'You lock your gates because you fear the sky.             |
 |   One day, I will return with the key.'                             |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CABLE TC-0428 (YEAR 4,238 : THE RETURN DEMAND)                      |
 | - Gate Warden Sangmin: 'Unknown massive construct approaching Gate  |
 |   05!                                                               |
@@ -601,7 +601,7 @@ During Arc 6, the Drift Throne advanced into the perimeter of Mugeukji, seeking 
 | - Drift Throne Bridge: 'This is Commander Kael. Tell the Council to |
 |   lay                                                               |
 |   down their styluses. The Desolate is open. Stand down.'           |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CABLE TC-0512 (YEAR 4,238 : CHEONBULOK FOUNDRY RATIFICATION)        |
 | - Grand Master Barok : 'You fight like volcanic iron, outsider.     |
 | The Furnace Guild accepts your trade. Bring us grain; take our      |
@@ -623,7 +623,7 @@ During Arc 6, the Drift Throne advanced into the perimeter of Mugeukji, seeking 
 | WIND VELOCITIES : 90 km/h (Standard) to 240 km/h (Supercell Apex)   |
 | TEMPERATURE EXTREMES : -30°C (Night Frost) to +55°C (Day Solar      |
 | Slag)                                                               |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | DOMINANT INDIGENOUS ENTITY TAXA:                                    |
 | - Dunestalkers (SECC-O-II) : Rapid pack hunters; burrow in sand     |
 |   dunes                                                             |
@@ -632,7 +632,7 @@ During Arc 6, the Drift Throne advanced into the perimeter of Mugeukji, seeking 
 | - Great Burrowers (SECC-O-IV) : 100m+ serpentine silicon leviathans |
 | - Void Archons (SECC-O-V) : Sovereign null-manifestations near      |
 |   Mugeukji                                                          |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CANONICAL TOTAL ACTIVE CARAVAN EXPEDITION RADIUS: 4,800 KILOMETERS  |
 +=====================================================================+
 ```

@@ -24,9 +24,15 @@ The Ruin Plate is a Grudge Han-iron harness that carries the scent of dead timbe
 
 ## PROTECTION FILE
 
+**Grade / Element:** β / Grudge
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
 
 **Stored Collapse:** The harness absorbs one sequence of structural shock and delays it until personnel clear the footprint. Grudge hardens it; Void bypasses absent joints, and Weight overloads the remembered foundation.
 
@@ -43,14 +49,3 @@ Plate stands outside the marked room while Charm maps and Fang clears. Entering 
 **Maintenance:** Release stored shock into a test frame built outside the memorial boundary. Compare each impact to corroborated collapse records; do not fabricate missing sounds.
 
 **Removal:** The wearer lies flat outside the footprint while a partner releases plates in reverse collapse order.
-
----
-
-**Document ID:** `SE-240-C`  
-**Linked Entity:** `SE-240`  
-**Item Registry Code:** `MAW-S-240-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

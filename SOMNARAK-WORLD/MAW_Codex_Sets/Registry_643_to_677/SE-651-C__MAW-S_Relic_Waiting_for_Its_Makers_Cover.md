@@ -24,6 +24,10 @@ The Relic Waiting for Its Makers’ Cover is a breathing plate of pale Han glass
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 3 / 35 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
 **Unattended Presence:** resists Void and keeps the walls from focusing on the wearer. Cost: the wearer cannot share secrets or ask for help.
 
 **Incident — Silent Collapse:** Iseulfros became disoriented in the chamber but the Cover prevented her from requesting extraction. Her monitor noticed one wall no longer leaning toward her and entered under Ferrehan. The suit released only after she accepted the monitor’s offered hand without explaining.
@@ -33,14 +37,3 @@ The Relic Waiting for Its Makers’ Cover is a breathing plate of pale Han glass
 **Emergency shutdown:** the monitor opens the back plate after offering—not demanding—assistance.
 
 **Set link:** Cover prevents forced observation while Charm holds script and Lens stops speculative commands.
-
----
-
-**Document ID:** `SE-651-C`  
-**Linked Entity:** `SE-651`  
-**Item Registry Code:** `MAW-S-651-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

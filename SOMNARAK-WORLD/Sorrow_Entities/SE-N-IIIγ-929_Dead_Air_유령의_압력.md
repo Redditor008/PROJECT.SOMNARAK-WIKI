@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-929 [WH]` |
-| **Entity Type** | **Hazard** — Recorded breach is expansion into adjoining rooms; no transformed body is documented |
+| **Entity Type** | **Hazard** — Non-breaching: expansion into adjoining rooms, twice, neither crossing an exterior wall |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Hazard-Spirit |
-| **Physical Form** | Non-corporeal pressure anomaly — A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
+| **Physical Form** | Non-corporeal pressure anomaly — A barometric anomaly in Zone A that causes the dead to become briefly present as pressure — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-929, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -27,10 +27,11 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Hazard |
 | **Primary pressure** | Weight / Spirit pressure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 3 |
+| **Work Damage** | 2–4 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a lean and apparent mass read against a barometer that records only pressure. It resets to 15 s the moment the operator is out of the air it has taken — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
@@ -44,51 +45,57 @@
 - Crews work on physical line signals rather than speech, and a missed signal ends the session for the rotation.
 - Drawing anything off this ground is a risk standing by itself and is authorised by itself.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Weight pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 458/458 |
-| **Han Pressure [ATK]** | 17–29 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Major pressure hazard; not a Sovereign classification |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-929 |
-| **Resolution Condition** | The watch is sat to its end and the form is filed, blank or not. Containment here is a clerical act: there is nothing to subdue, and the two rooms taken in seventeen years were recovered by redrawing the boundary on the plan, not by any work performed in them. |
+| **Length** | **660** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 660 across **six doses** of 15 s, shared — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **90 s** — six doses, and at 90 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
 
-### Combat Actions
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+shared on a 15-second clock, so the six come to **90 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
-| { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight spirit sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[21 Weight DMG [Weight]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full Weight pressure on one point of contact.] | *A devastating Weight strike; the target comes out of it carrying noticeably more than they went in with.* **[29 Weight DMG [Weight]]** | When the entity is cornered or starved. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[23 Weight DMG [Weight] (AoE, x3 turns)]** | Once the gauge it has been filling passes 65 per cent. |
+The gauge is read at the instrument. The cost is read on the person.
 
-### Battle Phases
+## Contact Record
 
-1. **Tension:** The marker is confirmed first — a sense of being leaned on from behind, with a direction and an apparent weight, in a room with nobody in it. Personnel volunteer a mass without being asked, and the form carries a column for it for that reason. Dead Air is checked against the designation, the positions are taken, and the cycle opens.
-2. **Clash:** The Types are worked and the kit is carried while the holding runs through the combat actions its record sets out.
-3. **Resolution:** The watch ends at the hour. The Warden hands over the form, the relief reads the barometer, and the pressure — both kinds — is where it was. No watch in the series has ever been ended early by the holding; four have been ended early by the Warden. It closes against the documented suppression condition: **The Warden hands over the form, the relief reads the barometer**.
+> **Why this file has no combat actions.** Dead Air is pressure and not a body: the Movement row fixes it to a position and says it spreads rather than moves. And the Operational Notes are explicit that no figure and no sound have ever been reported and that the lean, bearing and apparent mass are subjective entries rather than instrument readings. What a watch survives is an hour of being leaned on by somebody who is not there.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A barometric anomaly in Zone A, marked by a sense of being leaned on from behind — with a direction and an apparent weight — in a room with nobody in it |
+| **Perceptible to** | The lean first, which every person volunteers a mass for without being asked. The barometer records atmospheric pressure and never the lean itself |
+| **Activation threshold** | Three ignored conditions escalate it. No gauge threshold governs the start of a watch |
+| **Sorrow Gauge [Load]** | **000 of 660** · ready · six doses · limit 90 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | SECTOR-N-929, contained |
+| **Resolution Condition** | The watch is sat to its end and the form is filed, blank or not |
+
+
+### Contact Events
+
+| Event | What the pressure does | What the crew carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Settles over the room as a lean from one side, with an apparent direction and mass and no apparition. | A mass entered in the column the form keeps for exactly this, offered before anybody asks for it. | Nothing appears, nothing sounds, and the barometer reads weather. The register is the sensation and the file treats the sensation as the record. |
+| { *The Leaning* [**Exposure**] } | Concentrates, once the watch has run, until the dead are briefly present as pressure rather than as figures. | An hour sat to its end, with the bearing and the estimated mass written down as estimates. | The estimates get heavier with consecutive watches — about four kilograms per watch until rotation — and reset when the Warden comes back. |
+| { *The Lost Voices* [**Refusal**] } | Takes the crew's own voices first when conditions are ignored — the first sign in the spirit register, and the only one that arrives before anything is felt. | Physical line signals instead of speech, and a session ended for the rotation on any missed signal. | This is the refusal in the record: the holding answers a raised voice by removing the voice, and the wing stopped arguing with it. |
+| { *The Spirit Collapse* [**Overload**] } | Loses everything it was holding at once, across the whole room, once the gauge it has been filling passes 65 per cent. | Three turns of Weight pressure on everyone present, and a boundary that is redrawn on the plan rather than recovered in the room. | Containment here is clerical. The two rooms taken in seventeen years came back by redrawing the boundary, not by any work performed in them. |
+
+### Watch Sequence
+
+1. **What is confirmed:** the marker — a lean from behind with a direction and an apparent mass in an empty room — the barometer, and the form, which carries a mass column for the reason the file gives.
+2. **What the watch does:** Viderehan reads the room; Ferrehan sits the hour. Crews work on physical line signals rather than speech, every entry is written as an estimate, and a blank form is a completed watch rather than a failure.
+3. **How it closes:** the hour ends and the Warden hands the form over while the relief reads the barometer — the file's documented suppression condition: **The watch is sat to its end and the form is filed, blank or not**. Gauge relief is not described as recovery of rooms, because the rooms were never recovered by Work.
 
 ### Consequences
 
@@ -104,17 +111,17 @@
 
 **Derived equipment:** The chair rail, barometer oilcloth and calibration weight identify material sources for the Edge, Veil and Token. Their solidity, glow and wearable form do not give the donor a physical body. Directional heaviness and unchanged measured item mass are separate equipment observations, not dimensions of an unseen person.
 
-**Primary Form:** A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
+**Primary Form:** A barometric anomaly in Zone A that causes the dead to become briefly present as pressure — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
 
 **Notable Features:**
-- Expresses Weight pressure in a spirit register.
-- The hazard form is unmistakable — this is a spirit entity, not a general one.
+- There is no figure, no sound and no cold spot. The anomaly registers on the barometer and on the people standing under it.
+- The dead arrive as pressure rather than as apparition — the sensation of being leaned on by somebody who is not there.
 - Identification is by what is absent: a Zone A pressure anomaly with no figure, no sound, no cold spot and no visual phenomenon of any kind.
 
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Spirit
-- **Primary marker:** A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
+- **Primary marker:** A barometric anomaly in Zone A that causes the dead to become briefly present as pressure — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-N-929
 
@@ -123,49 +130,46 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
-| **Position / movement** | Fixed to the registered area and expressed as bearing rather than position. The Warden’s form asks which direction the lean came from; across 2,206 entries the distribution is not uniform and not stable, and the file prints it without interpreting it. |
-| **Material / signature** | Pressure, in both senses, and nothing else. Barometric readings are taken at the municipal station’s hours so the two series can be laid against each other; they have been, repeatedly, and the relationship is loose. Both series are printed in full in the folder. |
+| **Form** | A barometric anomaly in Zone A that causes the dead to become briefly present as pressure — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
+| **Position / movement** | Fixed to the registered area and expressed as bearing rather than position. The Warden’s form asks which direction the lean came from. Across 2,206 entries the distribution is not uniform and not stable, and the file prints it without interpreting it. |
+| **Material / signature** | Pressure, in both senses, and nothing else. Barometric readings are taken at the municipal station’s hours so the two series can be laid against each other. They have been, repeatedly, and the relationship is loose. Both series are printed in full in the folder. |
 | **Distinctive markers** | The sensation of being leaned on by someone standing behind you, with a direction and an apparent weight, in a room containing nobody. Personnel name a mass without being asked to; the form has a column for it because they did it anyway. |
 | **Identification** | Ask the Warden for the bearing before you ask them what they felt. The sequence is specified on the form itself, which carries a printed caution that both the bearing and the mass are estimates and are recorded as estimates. |
 
 ## Origin
 
-Dead Air is four rooms in a Zone A building where the dead are present as weight. Not as apparitions — the file is insistent on this, and says it before it says anything else — but as the plain sensation of being leaned against by somebody standing just behind you, with a direction and an apparent mass, in a room that is empty.
+Dead Air is four rooms in a Zone A building where the dead are present as weight. Not as apparitions — the file is insistent on this. And says it before it says anything else — but as the plain sensation of being leaned against by somebody standing just behind you, with a direction and an apparent mass, in a room that is empty.
 
 What crystallised here is one wound and not the city’s general ache. The commissioning material is correspondingly narrow: a small set of documents concerning a small number of people, held in a thin folder that the archivist has twice refused to pad. The holding is about particular dead, and the people who feel them are the people who knew them.
 
 It does not act. Across seventeen years it has taken two rooms and injured no one, and the only relationship anyone has demonstrated is between what the Warden was told to expect and what the Warden reported feeling.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the spirit pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+> **This holding is not worked.** A barometric anomaly in Zone A, marked by a sense of being leaned on from behind — with a direction and an apparent weight — in a room with nobody in it. What follows is procedure; nothing in it answers an approach.
 
-### Operational Work Notes
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the marker — a lean from behind with a direction and an apparent mass in an empty room — the barometer, and the form, which carries a mass column for the reason the file gives. |
+| **Handling** | The observer reads the room; the stander sits the hour. Crews work on physical line signals rather than speech, every entry is written as an estimate, and a blank form is a completed watch rather than a failure. — see `## Handling Process` |
+| **Withdrawal** | The hour ends and the Warden hands the form over while the relief reads the barometer — the file's documented suppression condition: **The watch is sat to its end and the form is filed, blank or not**. Gauge relief is not described as recovery of rooms, because the rooms were never recovered by… |
+| **Refusal** | Physical line signals instead of speech, and a session ended for the rotation on any missed signal. |
 
-The weight is reported, not measured, and the archive is careful to keep those two words apart here. Both valid approaches reduce the gauge and neither depends on anything being felt: observation is the watch, endurance is sitting the full six hours of it. The only instrumented quantity in the holding is the barometer, and it has never predicted a contact.
+## Expansion Behavior
 
-## Breach Behavior
-
-> *"Dead Air has broken free. The weight spirit spreads."*
+> *"Dead Air is reporting again. It is reported by whoever is expecting it, at three times the rate on watches where the Warden went in looking for a figure. The order is to go in looking for nothing."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The anomaly takes in adjacent rooms one at a time, in the order of their shared walls, and has done so twice. Neither expansion crossed an exterior wall of the building, and the file notes this is a description of what happened rather than a rule it expects to hold. |
-| **Effect** | Occupants of the newly taken rooms begin filing the same kind of entry — a bearing and a mass — without having been issued the form. Both expansions were identified this way, from clerical staff describing a lean in their own words before anyone told them the room had changed. |
-| **First Target** | Whoever is expecting it. Contact is reported at roughly three times the rate on watches where the Warden went in looking for a figure, and the briefing now says so out loud, in those words, before a first watch. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
+| **Expansion Trigger** | Whoever is expecting it. Contact is reported at roughly three times the rate on watches where the Warden went in looking for a figure, and the briefing now says so out loud, in those words, before a first watch. |
+| **Expansion Rate** | One room at a time, in the order of their shared walls. Twice in seventeen years, and neither expansion crossed an exterior wall of the building. |
+| **Expansion Effect** | Occupants of the newly taken rooms begin filing the same kind of entry — a bearing and a mass — without having been issued the form. Both expansions were identified this way, from clerical staff describing a lean in their own words before anyone told them the room had changed. |
+| **Containment** | Three ignored conditions. The perimeter is the building's own exterior, checked rather than assumed, because the file records what happened twice and does not offer it as a rule. |
 
 ### Escalation Notes
 
 - **Containment priority:** Complete the watch and file the form, blank or not. Read the barometer at handover; boundary changes are entered on the plan, not treated as a body to subdue.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per room taken, not per turn. Two rooms have been taken in seventeen years and the reading has never exceeded 60%.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per room taken, not per turn. Two rooms have been taken in seventeen years and the reading has never exceeded 60%.
 
 ## M.A.W. Equipment
 
@@ -175,32 +179,33 @@ The weight is reported, not measured, and the archive is careful to keep those t
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a single-edged blade of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a short, blunt Weight Han-steel bar with a watch-hook at the butt and a striking face worn smooth — the kind of piece carried to a room that will not give a reading, and never once sharpened.
 
 **Damage:** Weight 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.
-**Cost:** The wielder begins estimating weights. Doorways, colleagues, furniture — a figure in kilograms arrives unbidden and is usually close. It fades within a day of setting the piece down and has never been reported as distressing.
+**Ability:** *Sat to the End* — the strike presses the room's pressure back along the line it came by, which buys the watch its last quarter-hour and nothing past it. It does not drive anything out, and it has never been used to try.
+**Bearer cost:** The wielder begins estimating weights. Doorways, colleagues, furniture — a figure in kilograms arrives unbidden and is usually close. It fades within a day of setting the piece down and has never been reported as distressing.
 
 ### M.A.W. Suit — Dead Air's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a heavy watch-coat of Weight Han-weave, matte and unnaturally heavy at the hem, with the slate pocket sewn inside the lining so the form cannot be read from behind the wearer.
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Bearer cost:** A muted exhaustion builds under the mantle, as if the pressure left by every cut-off voice is resting across the wearer's shoulders.
-**Ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.
+**Ability:** *Unwritten* — the wearer's own account survives the room. Weight pressure goes into the coat and comes out as nothing at all, which is why the form is filed blank or not, and why the coat is weighed at the end of every watch.
 
 ### M.A.W. Stigma — Dead Air's Token
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a small flat charm of Weight Han-steel, matte and unnaturally heavy, struck from the door furniture of one of the two rooms and numbered on the reverse.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
-**Ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
+**Ability:** *Last Quarter* — it goes cold in the final quarter-hour of a watch, which is the one thing a sitter in that room cannot learn any other way. It does not say whether the form will be blank.
+**Bearer cost:** The bearer learns the watch's last quarter and cannot learn anything else in it: the cold is the only fact in the room, and the form is always blank.
 *A Token is found on the form, weighting the page down, at the end of a watch in which the Warden wrote nothing. Four of the five recovered pieces came from blank watches, and the fifth is annotated as a probable filing error.*
 
 ### M.A.W. Use Notes
@@ -223,7 +228,7 @@ The Dead Air set is drawn from the watch itself: the Edge from the rail of the W
 **Key Observations:**
 - 2,206 watch entries since Y4238, each carrying a bearing and an estimated mass. Both fields are subjective and both are marked as such on the form.
 - Both valid approaches reduce the gauge on completion alone. Watches with no entries reduce it identically to watches with many, which is the clearest statement the holding makes about itself.
-- No apparition has ever been reported here. No figure, no sound, no visual phenomenon of any kind in seventeen years; arriving personnel are told this in advance because the expectation is otherwise universal.
+- No apparition has ever been reported here. No figure, no sound, no visual phenomenon of any kind in seventeen years. Arriving personnel are told this in advance because the expectation is otherwise universal.
 
 **Personnel Note:**
 
@@ -270,11 +275,11 @@ Six hours make the watch and the hour ends it: the form passes to the relief, th
 
 | What the watch holds | How the pairing has run | What the relief entered | What the form keeps |
 |---|---|---|---|
-| **Miasma** `C-IVδ-922` | Filed together on an emptiness that has to be logged. That record holds the doors open and waits on the spotters' call; this one files a form whether or not anything happened, and nothing has happened for the whole of its record. | One review entry; the dwell series and the watch series parted at the first mark and were left apart. | That the parting stands as the entry, carried in the review's numbers un-smoothed. |
-| **Backward Hour** `C-IIIγ-913` | Grouped on a period that must be endured to its close. That record's cycle ends on the twelfth hour and always the twelfth; this one ends at the sixth, and both files end on the clock rather than on anything the holding does. | The clock series and the watch series were laid together once and agreed on nothing but their length. | That the two are filed for the shape of the interval, noted as a shape and not a link. |
-| **Never Discharged** `O-IIβ-911` | Grouped on a book that has to be signed before anybody leaves. That record completes a sheet after the second loop; here the form is completed at the handover, and neither file lets the watch end without the paperwork. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the pairing rests on a filing line, entered on each repetition as an arrangement and not a finding. |
+| **Miasma** `C-IVδ-922` | Filed together on an emptiness that has to be logged. That record holds the doors open and waits on the spotters' call. This one files a form whether or not anything happened, and nothing has happened for the whole of its record. | One review entry; the dwell series and the watch series parted at the first mark and were left apart. | That the parting stands as the entry, carried in the review's numbers un-smoothed. |
+| **Backward Hour** `C-IIIγ-913` | Grouped on a period that must be endured to its close. That record's cycle ends on the twelfth hour and always the twelfth. This one ends at the sixth, and both files end on the clock rather than on anything the holding does. | The clock series and the watch series were laid together once and agreed on nothing but their length. | That the two are filed for the shape of the interval, noted as a shape and not a link. |
+| **Never Discharged** `O-IIβ-911` | Grouped on a book that has to be signed before anybody leaves. That record completes a sheet after the second loop. Here the form is completed at the handover, and neither file lets the watch end without the paperwork. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the pairing rests on a filing line, entered on each repetition as an arrangement and not a finding. |
 
-**Interaction procedure:** No co-presence is authorised on this watch. The comparison is made on paper at the watch's review, with the form and the barometer reading entered first and the other record's series set beside them unchanged; parting, depth, trigger and both readings go into the margin.
+**Interaction procedure:** No co-presence is authorised on this watch. The comparison is made on paper at the watch's review, with the form and the barometer reading entered first and the other record's series set beside them unchanged. Parting, depth, trigger and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -339,8 +344,8 @@ What crystallized here was one specific wound rather than the city's ambient ach
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Spirit** entities in Somnarak.
-- Its spirit descriptor makes it structurally unique among hazard entities.
+- Across 2,206 entries the Warden's form asks which direction the lean came from, and the answer has never been uniform or stable. The file prints the distribution without interpreting it.
+- Two rooms have been taken in seventeen years, and the reading has never gone above 60 per cent.
 - Weighed through the spirit filter, the pressure is not the usual weight: it is narrower than that, and it points at something of yours.
 
 ## Document Information

@@ -63,7 +63,7 @@ Complete final primary read in document order after actual five validators; fing
   ],
   "sources": [
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "scope": "Fix duplicated word and generic return/debuff text; distinguish stationary tool, historical repeated forging, minor pulses, final strike and derived set. Preserve unresolved gauge-trigger/settling chronology, not a fabricated reuse.",
   "reasoning": "Complete404-line original including WardenRecord read. Outside Object-Grudge single-use iron wedge, greasy original hemp, four flats and eighteen codes express elder sacrifice. Historical human→iron is thematic origin, not anatomical identity. Core115C and variable surface85–140C are distinct measurements; interaction rise is a conditional observation, not automatic contradiction. Actual uncertainties: any rising gauge/failure can start activation versus heavy driving strike; repeated widenings settle to black iron versus destructive full discharge; residue/no further extraction chronology not item-resolved.",
@@ -81,7 +81,7 @@ Complete final primary read in document order after actual five validators; fing
   "after_words": 4757,
   "source_hashes": {
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

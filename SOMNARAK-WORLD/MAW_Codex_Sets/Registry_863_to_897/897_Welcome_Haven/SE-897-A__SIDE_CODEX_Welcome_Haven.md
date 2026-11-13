@@ -22,7 +22,7 @@ The entity formed from a wall that failed to protect the people behind it. The f
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge / Zone E, Border region |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Grudge |
+| Gauge / Pressure | 000/910; starts 000% / 29–64 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A border wall collapsed during an Outside Sorrow surge, leaving residents exposed. |
 
@@ -40,7 +40,7 @@ The entity formed from a wall that failed to protect the people behind it. The f
 
 ## WITNESS RECORD — *The Welcome Haven Source-Trace*
 
-During the The Welcome Haven Source-Trace, the field team preserved this source fact: A border wall collapsed during an Outside Sorrow surge, leaving residents exposed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The fury of discovering that safety was promised but never delivered.
+During *The Welcome Haven Source-Trace*, the field team preserved this source fact: A border wall collapsed during an Outside Sorrow surge, leaving residents exposed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The fury of discovering that safety was promised but never delivered.
 
 ## M.A.W. SET — *Welcome Haven — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Welcome Haven Source-Trace, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Welcome Haven's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Admit the wall failed; do not promise perfect protection The set cannot heal the originating event. Misuse routes Welcome Haven's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-897-A`  
-**Linked Entity:** `SE-897`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

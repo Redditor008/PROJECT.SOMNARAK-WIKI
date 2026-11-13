@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Rust-Flake Seax
+# M.A.W. WEAPON — The Rusted Maul
 
 > *“It can brace a failing load for one more moment. It must not make the bearer become the replacement for the repair.”*
 
@@ -20,7 +20,7 @@
 | Set | Shared Support |
 | Type / grade / element | Weapon / α — Minor / Weight |
 | Status | Active; repair-and-relief plan required |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Specialist Minho Ashford |
 | Resting form | A small black maul with rust lines that appear only when a nearby support is overloaded. |
 | Active form | The head sends a short dark brace line from one stressed point to a prepared replacement. |
@@ -41,7 +41,7 @@
 
 ## Appearance
 
-Appearance : An eight-inch utility seax with a straight cutting edge and triangular clipped point, its blade encrusted in thick orange rust that sheds a fine metallic powder with every movement.
+An eight-inch utility seax with a straight cutting edge and triangular clipped point, its blade encrusted in thick orange rust that sheds a fine metallic powder with every movement.
 
 The thick spine allows for heavy chopping and prying without risking blade fracture. The fine rust powder entering wounds causes severe biological irritation and inhibits rapid cellular regeneration.
 
@@ -92,14 +92,3 @@ Ashford used *Someone Else Holds* when a Forge conveyor brace began cracking. Th
 The Maul is the transfer strike of *Relief Column*. Rusted Brace protects the support and Rusted Charm identifies overload; the weapon refuses to turn temporary help into permanent human infrastructure.
 
 > *“A brace is a bridge to repair, not a place where a person should live.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-169-B`  
-**Linked Entity:** `SE-169`  
-**Item Registry Code:** `MAW-W-169-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

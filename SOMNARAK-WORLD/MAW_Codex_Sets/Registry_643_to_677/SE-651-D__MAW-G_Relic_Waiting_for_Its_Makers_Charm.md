@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 3 — Standard
 A hot pale-glass Head charm carrying one untranslated mark. Bestowal is random after successful work; observed chance is 4%.
 
 ## Appearance
@@ -30,14 +31,3 @@ The Relic Waiting for Its Makers’ Charm is a hot head charm of pale glass carr
 **Emergency removal:** three reviewers state that the meaning is unknown before lifting the clasp.
 
 **Set link:** Charm preserves evidence, Cover limits attention, and Lens cuts invented activation.
-
----
-
-**Document ID:** `SE-651-D`  
-**Linked Entity:** `SE-651`  
-**Item Registry Code:** `MAW-G-651-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

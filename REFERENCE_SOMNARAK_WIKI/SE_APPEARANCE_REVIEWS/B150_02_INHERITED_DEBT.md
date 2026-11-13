@@ -52,15 +52,15 @@ Written-design logical review only. Rendered artwork, browser preview, interacti
   "original_sha256": "d02acd59e222bc3266fd7f13e2c4fa9d62936abb7ac339fd8aed6330aee80ad1",
   "source_sha256": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-A__SIDE_CODEX_The_Inherited_Debt.md": "9277be69b5c5527adf59160aa86850e047b2af5025a5e26e9aa59a7dde3dc60d",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-B__MAW-W_The_Debt_Maul.md": "362a31bcf205edbbddf68bc6360306b96851722e37655d8b62ac1804c5ee7695",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-C__MAW-S_The_Debt_Mantle.md": "ec0fcf7bbb78c2b6c570806bec2a6290503039c3b98bbd3b55b0aa981597cfa9",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-D__MAW-G_The_Debt_Chain.md": "33c70d0d4215ac96448148f1801aee5517929e1797c95ddfc8fb80efb0f23a6d",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-B__MAW-W_The_Ancestral_Gravitational_Signet.md": "362a31bcf205edbbddf68bc6360306b96851722e37655d8b62ac1804c5ee7695",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-C__MAW-S_The_Penitent_s_Shackled_Vestments.md": "ec0fcf7bbb78c2b6c570806bec2a6290503039c3b98bbd3b55b0aa981597cfa9",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-D__MAW-G_The_Generational_Ledger_Scar.md": "33c70d0d4215ac96448148f1801aee5517929e1797c95ddfc8fb80efb0f23a6d",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "source_base": "5dc4fae8b45e0ab23297b60450b230feee274a02",
   "checks": {

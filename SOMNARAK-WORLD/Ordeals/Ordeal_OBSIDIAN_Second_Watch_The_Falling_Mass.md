@@ -61,7 +61,7 @@ Level 3+ with M.A.W. Level 3+ with M.A.W., with a dedicated overhead watch — t
 | **Han Pressure [ATK]** | 20–35 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It leans, and the full dead weight of the stack comes down on whatever stands beneath. 
+**Ability:** It leans, and the full dead weight of the stack comes down on whatever stands beneath.
 
 ### The Living Avalanche (Non-Humanoid, Greater-grade)
 

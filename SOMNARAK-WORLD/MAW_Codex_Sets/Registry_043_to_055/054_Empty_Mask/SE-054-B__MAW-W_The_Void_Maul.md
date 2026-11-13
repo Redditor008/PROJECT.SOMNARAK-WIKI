@@ -14,6 +14,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | β — Moderate |
 | Damage | Weight 5–9 |
 | Speed / Range | 2 — Normal / 2 — Short |
 | Pattern | Single |
@@ -35,12 +36,3 @@ The Maul turns identity absence into Weight damage. It is strongest against barr
 ### History Record
 
 A Void Maul broke an Empty Mask shell during a market rescue. The bearer then forgot the name used for the rescue report. A bystander supplied it from memory, preventing the record from becoming another missing identity.
-
-**Document ID:** `SE-054-B`  
-**Linked Entity:** `SE-054`  
-**Item Registry Code:** `MAW-W-054-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

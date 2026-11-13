@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Rebirth Plate
 
-> *“The Rebirth Plate remembers Ember Phoenix; the bearer must not mistake memory for permission.”*
+> *"It keeps the body in the shape it died in, so nothing new may happen to it. After a while the wearer stops flinching."*
 
 ---
 
@@ -17,7 +17,12 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Ember Phoenix's kind of pressure.  
-**Binding rule:** the bearer names Ember Phoenix's event—A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.—and accepts this limit: Allow the cycle to finish; forced extinguishing causes violent rebirth
+**Binding rule:** the bearer names Ember Phoenix's event — “A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.” — and accepts this limit: Allow the cycle to finish; forced extinguishing causes violent rebirth
+
+
+### Appearance
+
+A plated harness of Grudge Han-iron, dark and warm in the hand, that goes cold once it comes off the wearer.
 
 ## CORE STATISTICS
 
@@ -25,16 +30,20 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Ember Phoenix's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+
+**Operational / binding cost:** The Plate keeps the body in the shape it died in, so nothing new may happen to it: worn, the wearer's reactions slow to whatever pace they had at the end. Worn long, they stop flinching.
 
 ## ITEM-SPECIFIC HISTORY — *The Ember Phoenix Source-Trace: Suit Record*
 
-The first The Rebirth Plate field bearer encountered this source response: Tests whether the worker can witness death without demanding resurrection. The suit redirects the immediate hazard only after the team attributed it to Ember Phoenix. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rebirth Plate encountered this source response: Tests whether the worker can witness death without demanding resurrection. The suit redirects the immediate hazard only after the team attributed it to Ember Phoenix. A wearer stopped flinching after the second return and nothing new had happened to the body since the first, and the Plate’s binding is the medical note from that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Ember Phoenix's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the shape they died in becomes the shape they work in, and new injuries are refused at the door.
 - Terminal state: Ember Phoenix's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Allow the cycle to finish; forced extinguishing causes violent rebirth” reverses the item’s benefit and raises the source Gauge.  
@@ -43,15 +52,4 @@ The first The Rebirth Plate field bearer encountered this source response: Tests
 
 ## SET RELATIONSHIP
 
-Within *Ember Phoenix — Witnessed Form*, The Rebirth Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1019-C`  
-**Linked Entity:** `SE-1019`  
-**Item Registry Code:** `MAW-S-1019-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Ember Phoenix — Witnessed Form*, The Rebirth Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one new thing can still happen to the wearer; the first injury the plate turns away, the Plate is out.

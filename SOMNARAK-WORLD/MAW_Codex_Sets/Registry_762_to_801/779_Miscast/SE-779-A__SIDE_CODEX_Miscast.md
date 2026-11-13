@@ -19,10 +19,10 @@ The Relic formed from an object destroyed before its work was complete. The grie
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-779 [GO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Grudge / Zone D, Forge District |
-| Gauge / Pressure | 181/181; starts 25–40% / 3–10 per hit · Grudge |
+| Gauge / Pressure | 000/240; starts 000% / Grudge — no attack pattern; the eleven-millimetre optical gap is the reading |
 | Observation | 1 — Initial |
 | Formation event | A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. |
 
@@ -30,17 +30,17 @@ The Relic formed from an object destroyed before its work was complete. The grie
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals its former function. (Stable) |
 | Ferrehan | Tests the worker's patience with repeated failed reunions. (Decrease) |
 
 **Trigger:** Arranging the fragments in their former order.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-779 -->
+**Resolution:** Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Miscast Source-Trace*
 
-During the The Miscast Source-Trace, the field team preserved this source fact: A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being made for a purpose and broken before fulfilling it.
+During *The Miscast Source-Trace*, the field team preserved this source fact: A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being made for a purpose and broken before fulfilling it.
 
 ## M.A.W. SET — *Miscast — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Miscast Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Miscast's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Miscast's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-779-A`  
-**Linked Entity:** `SE-779`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Miscast's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon discharges only the immediate manifestation that violates this rule: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The gauge opens at 000% of its 000/240 meter, and no attack pattern is filed for this Grudge manifestation. The set cannot heal the originating event. Misuse routes Miscast's wound through the operator and triggers the recorded escalation.

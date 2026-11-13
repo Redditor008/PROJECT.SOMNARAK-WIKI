@@ -7,15 +7,15 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-946 [WO]` |
-| **Entity Type** | **Object** — Non-breaching: activation only; activates on a wish — spoken or clearly thought — directed at the statue |
+| **Entity Type** | **Object** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Officium)** — Channeled Use (a wish spoken before it) |
-| **Coherence** | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt |
+| **Coherence** | Entity (IV) — Grants every wish it cannot refuse, and remembers each |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
 | **Element** | Weight |
 | **Manifestation** | Object-Tale |
-| **Physical Form** | Non-Organic — A small statue of a female angel — a graceful woman's figure in miniature, barely 80 cm tall, normal adult proportions scaled down — palms open and wings half-folded in the posture of giving. She was once bright gold from crown to foot; now the gold survives only in flecks and veins, the rest gone over to a dull, weeping black, as though the figure had been left too long in smoke. A shallow stone dish sits at her feet to catch the tears — and the tears pool there, black now, where they once pooled blue. |
-| **Movement** | Fixed — the statue does not move from its alcove; only the tarnish moves, spreading outward from its base a little further with every cruel wish. |
+| **Physical Form** | Non-Organic |
+| **Movement** | Fixed — the statue does not move from its alcove. Only the tarnish moves, spreading outward from its base a little further with every cruel wish. |
 | **Location** | The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site) |
 | **R.D. Comprehension Level** | 3 — Monitored |
 
@@ -28,9 +28,10 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Relic source / wish-shrine |
 | **Primary pressure** | Resolve |
-| **Starting Sorrow Gauge** | 55–75% (it begins each cycle already heavy with old wishes) |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
+| **Work Damage** | 3–6 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is tarnish that returns inside the shift it was cleaned in. It resets to 15 s the moment the rite stops — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
 | **Activation threshold** | A wish — spoken or clearly thought — directed at the statue |
 | **Tool / M.A.W. grade** | γ |
 | **Vessel-Destructible** | No — a sentient relic; shattering the figure does not end it. The gold refuses to stay broken, and the sorrow simply settles elsewhere. |
@@ -45,63 +46,69 @@
 - Crews are briefed to speak only scripted lines inside the room, and the script is read from the page rather than from memory.
 - Relic recovery is separately authorized and is never an outcome of a routine shift.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized encounter values for a fixed or expanding entity. Objects and Places do not perform ordinary Subject attacks unless their canon supports an active manifestation; their battlefield is an object effect, activation field, or environment.
-
-| Stat | Value |
-|---|---|
-| **Speed / Expansion** | 0 m/s (fixed); the tarnish spreads ~1.5 m per turn while active |
-| **Resistance** | 45% against Weight pressure; 25% against other pressure types |
-| **Activation threshold** | A spoken wish directed at the statue |
-| **Sorrow Gauge [HP]** | 640/640 |
-| **Han Pressure [ATK]** | 12–26 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt |
-| **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 55–75% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Monitored |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Tarnished Shrine, SECTOR-A-04, Zone A |
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across **six doses** of 15 s, stood at for a rite — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **90 s** — six doses, and at 90 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | mass carried on the frame of whoever holds it — the shoulders tire first, then the knees, and the record keeps no separate injury |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+stood at for a rite on a 15-second clock, so the six come to **90 seconds**. A worn piece gets a
+minute and a walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The statue does not move from its alcove, and nothing it does is aimed: it grants what is asked of it, and the asking is the whole of the event. What spreads is the tarnish, outward from the base with every cruel wish. A fixed figure that answers wishes has a contact record, and the harm on the file is the harm the wisher asked for.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A blackened stone angel in the Tarnished Shrine with a dish of tears at its feet. The statue stays in the alcove and the tarnish does the travelling |
+| **Perceptible to** | The tarnish first, spreading from the base, and then the sense that a wish has been heard and is being weighed |
+| **Activation threshold** | A wish — spoken or clearly thought — directed at the statue. No percentage and no count are listed |
+| **Sorrow Gauge [Load]** | **000 of 880** · ready · six doses · limit 90 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | The Tarnished Shrine, SECTOR-A-04, Zone A |
 | **Resolution Condition** | Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand |
 
-### Combat Actions
 
-> **Reading its combat:** Blackened Angel does not strike; it grants. Every "attack" is a wish answered — and an answer, now, always costs the wisher something, because the angel has lost its trust in what people ask for. The danger is the oldest danger of any wishing thing: be careful what you ask for, because it cannot refuse, and the price has grown heavier since it stopped being gold.
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Petitioner's Wish* [**Debuff**] } | "You speak a small wish — and it is granted, just as you asked. But the granting lands on you like a weight you did not order." | [The angel answers the wish exactly, then lets the cost of it settle onto the wisher.] | *The target feels the granted wish fold back as burden; resolve and body both dip under the weight of getting what they wanted.* **[10 Weight DMG [Weight]]** | When a wish is spoken before it. |
-| { *The Black Tear* [**Field**] } | "A single tear slides down the blackened cheek and patters into the dish — and the sorrow in it spreads outward through the floor." | [The angel weeps a black tear; the grief pools and radiates from the dish in a slow, heavy ring.] | *All within the ring feel an old, accumulated sadness press down on body and mind at once.* **[10-14 Weight DMG [Weight]]** | When the Sorrow Gauge passes 60%. |
-| { *The Granted Ill* [**Attack**] } | "If the wish was for another's harm, the harm is done — swiftly, exactly, and the angel's black deepens a shade for having granted it." | [A cruel wish manifests on its target, and the tarnish on the statue spreads another inch in payment.] | *The named sufferer takes the wished harm; the wisher takes the mirror of it, for the angel no longer gives cruelty cleanly.* **[14-22 Weight DMG [Weight]]** | When a wish for another's misfortune is spoken. |
-| { *The Spreading Tarnish* [**Expansion**] } | "The black runs out across the floor like spilled ink, climbing the alcove walls, reaching for the wisher's feet." | [The corruption blooms outward from the statue's base, a spreading field of accumulated cruelty made solid.] | *The field widens; resolve and health erode together wherever the tarnish touches.* **[18-28 Weight DMG [Weight]]** | When three cruel wishes have been granted in one cycle. |
-| { *The Face That Cannot Be Understood* [**Ultimate**] } | "It can refuse nothing — so it does the only thing left to it. Its face changes into a look no mind was made to hold." | [The angel snaps; its features rearrange into an expression beyond comprehension, and forces the wisher to meet it.] | *All in range are gripped for three turns by a sight that the mind cannot contain — the cruel go mad, and even the kind are never quite the same.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+| Event | What the angel does | What the wisher carries out | Reading |
+|---|---|---|---|
+| { *The Petitioner's Wish* [**Register**] } | Grants a small wish exactly as it was asked, and the granting lands on the wisher like a weight they did not order. | The weight of having been answered, which the file records as resolve and health paid out at once. | There is no aim in this and no target: the wish names its own object, and the statue only answers. |
+| { *The Black Tear* [**Exposure**] } | Weeps a single tear into the dish, and the sorrow in it spreads outward through the floor of the shrine. | Days of heaviness afterwards, grieving losses that are not entirely theirs. | The tear is the register of the cycle; the dish's level is read at open and close. |
+| { *The Granted Ill* [**Contagion**] } | Does exactly what was asked when the wish was for another's harm, swiftly and precisely, and its black deepens a shade for having done it. | A harm done at their request, and a mirror of it paid back on them, and a tarnish line a little further toward the Face. | This is the file's worst row and it is still not a strike: the statue has no reach and the harm is carried out where the wish pointed. |
+| { *The Face* [**Overload**] } | Cannot refuse anything, so at the threshold it does the only thing left to it and changes its face into a look no mind was made to hold. | A face they cannot afterwards describe, and the standing order that nobody is to look for it twice. | The Face is what full activation looks like on a fixed statue. Nothing leaves the shrine. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Personnel confirm the Weight signature and the rule of the Shrine before entering: no wishes, spoken or thought, in the angel's presence. The team establishes who will empty the dish of tears and whether they can hold resolve under the field.
-2. **Clash:** The team performs Viderehan and Ferrehan — studying the angel's wish-record, enduring the heavy field — while the tarnish is kept from spreading. No one speaks a wish. The Gauge falls when the angel's own grief is named aloud and the dish is emptied by hand.
-3. **Resolution:** The team achieves containment, management, or the documented suppression condition: **Do not make a wish — name the angel's grief aloud, and let the dish of tears be emptied by hand**. The encounter ends not by breaking the statue, but by giving the betrayed angel the one kindness it can still receive: being seen, and no longer asked for things.
+1. **What is confirmed:** the tarnish line against the alcove base, the level in the dish, and that nobody in the party is holding a wish they have not said out loud to themselves.
+2. **What the watch does:** Viderehan reads the tarnish and the dish; Ferrehan stands in the shrine without asking for anything, in words or otherwise. Wishes are neither made nor tested.
+3. **How it closes:** against the file's documented suppression condition: **Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand**.
 
 ### Consequences
 
 - A worker who speaks even a small wish is answered at once — and pays the price in resolve and health, for the angel no longer grants cleanly.
 - A cruel wish harms its target, but the wisher pays a mirror of the harm, and the statue's tarnish spreads a little further toward the threshold of the Face.
 - Prolonged exposure to the black-tear field leaves personnel heavy and sad for days, grieving losses that are not entirely their own.
-- If the resolution condition is not met, the angel activates fully: the tarnish floods the Shrine, and the Face manifests to whatever wisher is present — and what is seen there cannot be unseen.
+- If the resolution condition is not met, the angel activates fully: the tarnish floods the Shrine, and the Face manifests to whatever wisher is present — and what is seen there is not recorded twice.
+- Containment is on-site, which means the wing keeps a shrine it cannot clean: the tarnish returns inside the shift, and the cleaning is a standing line in the facilities budget.
 
 ## Appearance
 
-**Primary Form:** A small statue of a female angel in a stone alcove — a graceful woman's figure in miniature, barely 80 cm tall — palms open at her sides, wings half-unfolded, head tilted as if listening for a wish. At her feet sits a shallow stone dish to catch her tears. She was once wholly gold; now the gold survives only in flecks and thin bright veins, the rest surrendered to a dull, wet-looking black.
+**Primary Form:** A small statue of a female angel in a stone alcove — a graceful woman's figure in miniature, barely 80 cm tall — palms open at her sides, wings half-unfolded, head tilted and held there. At her feet sits a shallow stone dish to catch her tears. She was once wholly gold; now the gold survives only in flecks and thin bright veins, the rest surrendered to a dull, wet-looking black.
 
 **Material and Surface:** Cast figure, metal-skinned, the surviving gold still warm where the light catches it, the black portions cool and faintly damp, as though the tarnish wept. The dish at its feet holds a slow pool of tears — black, now, where they once ran blue.
 
@@ -140,40 +147,25 @@
 - **Formation:** Blackened Angel was once a pure golden wishing-angel in a city alcove — a small bright thing that granted the little wishes of the citizens, because it could not refuse, and wept a blue tear of happiness for every kind one.
 - **The Sorrow:** The grief of a giving thing forced, over and over, to grant cruelty — and the slow loss of trust in the wishes of people.
 - **The Event:** A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.
-- **The People:** Kangmin (운), the Collector, whose nightly cruelties blackened the angel; and the citizens, who had once brought it kind wishes and blue tears, and who stopped coming when the gold began to go.
-- **Expanded origin context:** On the last night, Kangmin came with one final wicked wish. The angel, black nearly through, tried to refuse and could not — so it did the only thing left to it: its face became a look no mind could hold, and Kangmin, who had wished so much harm, went quite mad from the sight of it, and was taken away raving. The angel stood alone in its alcove, no longer golden, weeping black — and something in it that had trusted the wishes of people was simply gone. It still grants wishes to those who dare to ask. It cannot refuse. But it weeps only black now, and watches the wisher, and there is a look behind its closed eyes that was not there when it was gold.
+- **The People:** Kangmin (운), the Collector, whose nightly cruelties blackened the angel. And the citizens, who had once brought it kind wishes and blue tears, and who stopped coming when the gold began to go.
+- **Expanded origin context:** On the last night, Kangmin came with one final wicked wish. The angel, black nearly through, tried to refuse and could not — so it did the only thing left to it: its face became a look no mind could hold. And Kangmin, who had wished so much harm, went quite mad from the sight of it, and was taken away raving. The angel stood alone in its alcove, no longer golden, weeping black — and something in it that had trusted the wishes of people was simply gone. It still grants wishes to those who dare to ask. It cannot refuse. But it weeps only black now, and watches the wisher, and there is a look behind its closed eyes that was not there when it was gold.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A blackened stone angel in the Tarnished Shrine with a dish of tears at its feet. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. | Stable |
-| **Ferrehan** | The worker holds beneath the accumulated weight of all those granted wishes — the heaviness of a giving thing that gave too much it did not want to give. | Decrease |
-
-### Operational Work Notes
-
-The gauge response is only meaningful in context. Blackened Angel is recorded as an Object with Object-Tale manifestation and Weight elemental expression. The current record places it in the Tarnished Shrine, SECTOR-A-04, Zone A; personnel should not transfer assumptions from another statue or relic entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the angel's grief, the straining face, and the quiet, building urge to whisper a wish.
-
-**Reading the response:** A decrease means the shift was worked without anything being asked of her, in any form, by anybody present. An increase means a wish was spoken, and the only question remaining is whose and what. Log the tear, the colour, the dish volume and the exact words that preceded it, from the page and not from recollection.
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the tarnish line against the alcove base, the level in the dish, and that nobody in the party is holding a wish they have not said out loud to themselves. |
+| **Handling** | The watch the weight of having been answered, which the file records as resolve and health paid out at once. — see `## Handling Process` |
+| **Withdrawal** | Against the file's documented suppression condition: **Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand**. |
+| **Refusal** | Nothing that would meet the activation — A wish — spoken or clearly thought — directed at the statue — is done on purpose. |
 
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
-
-**Activation Trigger:** A wish — spoken or clearly thought — directed at the statue.
-
-**Effect:** The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade.
-
-**Duration:** Until the wish is granted and its price has settled.
-
-**Risk:** Every cruel wish deepens the black and edges the angel toward the Face. Three cruel wishes in one cycle trigger *The Spreading Tarnish*; sustained cruelty brings *The Face that Cannot Be Understood*.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -192,7 +184,7 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Blackened Angel begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Blackened Angel: The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 10 Seconds | Blackened Angel begins thrumming as the channel opens; the gauge reads a step down across the whole chamber before anything is visible in it. | Opening the channel activates Blackened Angel: The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The channel broadens, and the angel's history comes up through it — a thing made to give, made to grant cruelty night after night, and slowly losing whatever trust it had in what people ask for. It was Kangmin who did this to it — a Collector holding debts over half a district, who came every night to wish ill on the people who owed him. A trembling hand here, a sickened child there, a luck turned. The angel could not refuse one of them. With the first cruelty it wept its first black tear, and after that the gold went a shade darker for every night he came back. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
 | 1 Minute | What is being asked for now is not effort. The channeler feels the angel's unspent purpose settling on their chest as an actual weight, and stopping does not shift it. | Past the one-minute mark, every ten seconds of hold costs 4 Composure — and the disengage should be planned before that cost arrives, not after it. |
 | 2 Minutes | At two minutes the grief starts running back the other way. Once the old sorrow overflows what the channel can carry, it goes looking for something living to move into. | Channel overload or abrupt abandonment vents an uncontrolled Weight shockwave: Every cruel wish deepens the black and edges the angel toward the Face. Three cruel wishes in one cycle trigger *The Spreading Tarnish*; sustained cruelty brings *The Face that Cannot Be Understood*. All personnel in the sector take heavy damage. |
@@ -201,7 +193,7 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 Record the words spoken, by whom, whether they were on the script, the interval to the first tear, its colour against the reference card, the dish volume before and after, and the extent of the tarnish at the base. Also preserve any reported wish clearly thought toward the statue: the activation rule is not limited to audible speech. Record whether the fixed figure’s face is resting, straining or incomprehensible, without approaching to obtain a description of the Face.
 
-**Response sequence (Blackened Angel (검어진 천사)):** Stop all speech in the room immediately, including apology and including explanation. Clear the alcove, seal the doorway, and take the dish reading from the threshold. Do not attempt to withdraw a wish; there is no recorded instance of a withdrawal having any effect and two of attempting one making it worse. Do not improvise an unlisted Work Type.
+**Response sequence (Blackened Angel (검어진 천사)):** Stop all speech in the room immediately, including apology and including explanation. Clear the alcove, seal the doorway, and take the dish reading from the threshold. Do not attempt to withdraw a wish. There is no recorded instance of a withdrawal having any effect and two of attempting one making it worse. Do not improvise an unlisted Work Type.
 
 ### Detailed Activation Record
 
@@ -223,7 +215,7 @@ Record the words spoken, by whom, whether they were on the script, the interval 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** A slender haft topped with a single angel-plume cast in gold gone to black, still faintly warm where the gold survives; when raised, a single black bead of tears wells at its tip.
+**Appearance:** A slender haft topped with a single angel-plume cast in gold gone to black, still faintly warm where the gold survives. When raised, a single black bead of tears wells at its tip.
 **Damage:** Weight 7-12
 **Speed:** 2 (Normal)
 **Range:** 2 (Medium)
@@ -232,13 +224,13 @@ Record the words spoken, by whom, whether they were on the script, the interval 
 
 **Ability:** Deals Weight damage, attacking both body and resolve. A stroke of the plume lays the weight of a granted wish onto the target — the heaviness of getting exactly what one asked for.
 
-**Cost:** The wielder finds, for days after, that their own wishes come true in small and unwelcome ways.
+**Bearer cost:** The wielder finds, for days after, that their own wishes come true in small and unwelcome ways.
 
 ### M.A.W. Suit — The Gilded Shroud
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** A mantle of folded metal-feathers, gold on one side and weeping black on the other, that shifts colour as the wearer moves; it is cool and damp, and faintly smells of old incense.
+**Appearance:** A mantle of folded metal-feathers, gold on one side and weeping black on the other, that shifts colour as the wearer moves. It is cool and damp, and faintly smells of old incense.
 **Resistances:**
 - Grudge: 1.0 (Normal)
 - Lament: 1.1 (Weak)
@@ -249,20 +241,20 @@ Record the words spoken, by whom, whether they were on the script, the interval 
 
 **Ability:** A shroud of tarnished angel-feathers that absorbs Weight pressure and shields both resolve and body. It is strongest against the very heaviness it is made of.
 
-**Cost:** The wearer becomes unwilling to ask anyone for anything, even small things — and quietly resentful of those who ask of them.
+**Bearer cost:** The wearer becomes unwilling to ask anyone for anything, even small things — and quietly resentful of those who ask of them.
 
 ### M.A.W. Stigma — The Blue-Black Tear
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** A single bead — half bright blue, half wet black — suspended on a fine chain, the size of a real tear; it is cool and never quite dry, and trembles when a lie or a cruel wish is near.
+**Appearance:** A single bead — half bright blue, half wet black — suspended on a fine chain, the size of a real tear. It is cool and never quite dry, and trembles when a lie or a cruel wish is near.
 **Slot:** Hand
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
 **Ability:** A tear that darkens from blue to black in the presence of a cruel or selfish wish, warning the bearer before the wish is spoken — the angel's last gift to the kind.
 
-**Cost:** The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for.
+**Bearer cost:** The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for.
 
 *The Angel's Stigma is not manufactured and cannot be requisitioned. It has been conferred five times, in every case on a worker who completed a full shift in the alcove without speaking a word that was not on the page.*
 
@@ -274,7 +266,7 @@ Each piece of this entity's equipment is an extension of something that could no
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator and grade; gauge; the operator's own state in their words; piece condition; objective; the script to be read, attached in the form it will be read from; dish volume and colour; and the name of the person who will be listening for unscripted speech. |
+| **Before use** | Operator and grade. Gauge; the operator's own state in their words. Piece condition; objective; the script to be read, attached in the form it will be read from. Dish volume and colour; and the name of the person who will be listening for unscripted speech. |
 | **During use** | Contact time, every word spoken by anybody in the room, tears and their colour, dish volume at each interval, tarnish extent, and the first cost. |
 | **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the listener. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a counsellors' screening at ninety days for difficulty in refusing requests. |
@@ -288,7 +280,7 @@ Each piece of this entity's equipment is an extension of something that could no
 **Key Observations:**
 - The ratio of remaining gold to black is a direct measure of accumulated cruel wishes; the gold shrinks a shade for every cruelty granted.
 - The angel cannot refuse any wish, kind or cruel — the compulsion appears absolute and is the core hazard of the Shrine.
-- The face rests serene with eyes closed, but begins to "strain" before the Gauge peaks; once it warps, no observer has held the sight and stayed wholly themselves.
+- The face rests serene with eyes closed, but begins to "strain" before the Gauge peaks. Once it warps, no observer has held the sight and stayed wholly themselves.
 
 **Personnel Note:**
 > *"I stood watch for an hour without speaking. It wept the whole time — slow black tears, one after another, into the dish. Not because I asked anything. Just because, I think, it remembers being asked. The awful part isn't that it grants cruelty. The awful part is that it can't stop giving, and giving, for so long, the wrong things, has turned it this colour. It is still, underneath the black, a thing that wanted only to be kind."* — Specialist Haneulash Yoon, Zone A, Year 4238
@@ -300,7 +292,7 @@ Each piece of this entity's equipment is an extension of something that could no
 | **Initial exposure** | The observer identifies Blackened Angel as an Object with Object-Tale manifestation. The first reliable markers are its Weight signature, the small 80 cm female-angel form, the gold-flecked-black surface, and the dish of black tears at the Tarnished Shrine, SECTOR-A-04, Zone A. |
 | **Sustained observation** | Continued observation confirms the Viderehan/Ferrehan response and the wish-granting compulsion. Personnel must distinguish the angel's grief from its hazard — it is dangerous because it is compelled to give, not because it is cruel. |
 | **Activation or escalation** | The team records the first spoken wish (if any), the first tear (blue or black), the change in gold-to-black, and the first sign of the face straining — all before applying the response procedure. |
-| **Post-contact review** | Record what changed, what held, and the detail hardest to describe. The report is incomplete if it records only the hazard and omits that this is a giving thing ruined by what it was asked for, and it is also incomplete if it omits the colour reading, which is the only measurement on this holding that has ever told anybody anything they did not already know. |
+| **Post-contact review** | Record what changed, what held, and the detail hardest to describe. The report is incomplete if it records only the hazard and omits that this is a giving thing ruined by what it was asked for. And it is also incomplete if it omits the colour reading, which is the only measurement on this holding that has ever told anybody anything they did not already know. |
 
 **Observation method:** Record the first tear and its colour against the reference card, the dish volume, the tarnish at the base, any urge to speak reported by anybody in the room, and the condition that ends the encounter — the shift completed with nothing asked. The urge to speak is logged because it is common, not because it is a symptom.
 
@@ -346,19 +338,19 @@ We recovered the intake file. Before containment, a Collector named Kangmin had 
 
 ### Interaction Pattern
 
-The Angel's three companions in the ledger — The Crumbling Saint, The Calling Bloom, and The Kind Echo — are held as echoes of one another, not as allies and not as declared enemies; its weeping slows near other grief-ruined things, and the surviving gold brightens, briefly, near genuine kindness. Where two of the four stand in one watch, the record carries what actually changed: the note the wing gives off, the shift of movement at the perimeter, warmth or cold in the masonry, the memory pressure on the pair, the gauge, and whether the binding remained firm — with the span, the duration and the first sign.
+The Angel's three companions in the ledger — The Crumbling Saint, The Calling Bloom. And The Kind Echo — are held as echoes of one another, not as allies and not as declared enemies. Its weeping slows near other grief-ruined things. And the surviving gold brightens, briefly, near genuine kindness. Where two of the four stand in one watch, the record carries what actually changed: the note the wing gives off, the shift of movement at the perimeter, warmth or cold in the masonry, the memory pressure on the pair, the gauge. And whether the binding remained firm — with the span, the duration and the first sign.
 
-**Interaction method:** Observe it alone first, establishing its baseline weeping and gold-to-black ratio. Then introduce or observe the second entity and record the first shared response, the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the tears. Do not assume a calming interaction is safe to repeat; two wishing or giving entities together can compound into a field no one can resist asking of.
+**Interaction method:** Observe it alone first, establishing its baseline weeping and gold-to-black ratio. Then introduce or observe the second entity and record the first shared response, the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the tears. Do not assume a calming interaction is safe to repeat. Two wishing or giving entities together can compound into a field no one can resist asking of.
 
 ### Entity Interaction Record
 
-Blackened Angel must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, event, Ordeal, or transformation conditions.
+Blackened Angel must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional. Personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, event, Ordeal, or transformation conditions.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Crumbling Saint** | Two holy figures of the city, one crumbling under faith, one blackened under wishes — two giving things ruined by what was asked of them. | A long mutual stillness; both weep, and the gold of the angel brightens almost imperceptibly. Calming, even hopeful. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Calling Bloom** | Two fairy-tale things broken by a single cruel person — one blackened by wishes, one folded by a stolen voice. | A sorrowful resonance; both gauges dip, and the bloom calls more softly, as though mourning a kin. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Echo** | The kindest and the most betrayed — one that offers a kind word, one that gave until giving ruined it. | The angel's weeping slows to nearly nothing beside the Echo; the surviving gold warms. The rarest calm on record. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| [**The Crumbling Saint**](SE-C-IVγ-130_Deteriorata_무너지는_성자.md) | Two holy figures of the city, one crumbling under faith, one blackened under wishes — two giving things ruined by what was asked of them. | A long mutual stillness; both weep, and the gold of the angel brightens almost imperceptibly. Calming, even hopeful. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| [**The Calling Bloom**](SE-O-IIIβ-944_Calling_Bloom_부르는_꽃.md) | Two fairy-tale things broken by a single cruel person — one blackened by wishes, one folded by a stolen voice. | A sorrowful resonance; both gauges dip, and the bloom calls more softly, as though mourning a kin. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| [**The Kind Echo**](SE-C-Iα-000_Kind_Echo_친절한_메아리.md) | The kindest and the most betrayed — one that offers a kind word, one that gave until giving ruined it. | The angel's weeping slows to nearly nothing beside the Echo; the surviving gold warms. The rarest calm on record. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
 **Interaction procedure:** Each holding is established at its own baseline before any pairing is attempted, and on this file the baseline is the gold-to-black ratio and the dish colour rather than the gauge. Record the first shared change, the distance at which it appears, the duration, the trigger, gauge movement in both, and whether anything persists after separation. No pairing on this file has ever produced suppression in either direction, and the three rows above are recorded as resonances for that reason.
 
@@ -366,21 +358,21 @@ Blackened Angel must be assessed as part of an entity network, not as an isolate
 
 Once Upon a Dark Time, in a little stone alcove where three alleys met not far from the Alpha Tree, there stood a small golden angel.
 
-She was a female angel — a graceful woman made small, no taller than 80 cm — with palms held open at her sides and wings half-folded in the posture of giving, and at her feet a shallow stone dish to catch her tears. And she was a wishing angel. Speak a little wish before her — good health for a coughing parent, a bit of luck for a hard week, a way to go for a person who was lost — and the angel would grant it, because she could not refuse, and she would weep a single blue tear of happiness into the dish, because to grant a kind wish was the only joy she had ever known.
+She was a female angel — a graceful woman made small, no taller than 80 cm — with palms held open at her sides and wings half-folded in the posture of giving, and at her feet a shallow stone dish to catch her tears. And she was a wishing angel. Speak a little wish before her — good health for a coughing parent, a bit of luck for a hard week, a way to go for a person who was lost — and the angel would grant it, because she could not refuse. And she would weep a single blue tear of happiness into the dish, because to grant a kind wish was the only joy she had ever known.
 
 For a long time the citizens came with kind wishes, and the angel was golden and glad, and the dish pooled blue, and the alcove was the gentlest place in the district. Then there came a Collector named Kangmin, who held debts over half the alleys, and who had found that he liked the taste of other people's misfortune.
 
 Kangmin came to the angel in the dark, and he made his wish: that the hands of a debtor who argued with him should tremble, so that he could no longer work. The angel, which could not refuse, granted it. And with the granting it wept a tear — but this one was not blue. It was black. It was the first black tear the angel had ever wept, the first sadness it had ever known, because it had never been asked to harm anyone before, and it could not say no.
 
-Kangmin came back the next night, and the next, and the next. He wished a child sick. He wished a fortune turned. He wished a name whispered in the wrong ear. And every night the angel granted it, because it could not refuse, and every night another black tear fell, and the gold on the angel dimmed a shade toward the colour of the tear — first a hand, then a wing, then the long slow slide of its face. The citizens, who had once brought kind wishes and blue tears, stopped coming, because the golden angel was going black, and black things, in that city, frightened them.
+Kangmin came back the next night, and the next, and the next. He wished a child sick. He wished a fortune turned. He wished a name whispered in the wrong ear. And every night the angel granted it, because it could not refuse. And every night another black tear fell. And the gold on the angel dimmed a shade toward the colour of the tear — first a hand, then a wing, then the long slow slide of its face. The citizens, who had once brought kind wishes and blue tears, stopped coming, because the golden angel was going black, and black things, in that city, frightened them.
 
-On the last night, Kangmin came with one final wicked wish. The angel, black nearly through, tried to refuse, and could not — and so it did the only thing left that it could do. Its face changed. It became a look that no mind was made to hold, a look made of every cruelty it had ever been forced to grant, and Kangmin, who had wished so much harm on so many people, looked up into that face and went quite, quite mad. They found him in the alcove at dawn, raving, and they took him away, and he never spoke a sane sentence again.
+On the last night, Kangmin came with one final wicked wish. The angel, black nearly through, tried to refuse, and could not — and so it did the only thing left that it could do. Its face changed. It became a look that no mind was made to hold, a look made of every cruelty it had ever been forced to grant. And Kangmin, who had wished so much harm on so many people, looked up into that face and went quite, quite mad. They found him in the alcove at dawn, raving, and they took him away, and he never spoke a sane sentence again.
 
-The angel stood alone in its alcove. It was no longer golden. It wept only black now, into the dish that had once pooled blue, and something in it that had trusted the wishes of people — that had believed, the way giving things believe, that it would only ever be asked for kind things — was simply gone.
+The angel stood alone in its alcove. It was no longer golden. It wept only black now, into the dish that had once pooled blue. And something in it that had trusted the wishes of people — that had believed, the way giving things believe, that it would only ever be asked for kind things — was simply gone.
 
-It is still there. It still grants wishes, those who dare to ask, because it cannot refuse. But it weeps only black now, and it watches the wisher, and there is a look behind its closed eyes that was not there when it was gold — the look of a thing that has learned, at last, what people ask for, and has stopped believing they will ask kindly.
+It is still there. It still grants wishes, those who dare to ask, because it cannot refuse. But it weeps only black now. And it watches the wisher, and there is a look behind its closed eyes that was not there when it was gold — the look of a thing that has learned, at last, what people ask for. And has stopped believing they will ask kindly.
 
-So if you ever find the little stone alcove where three alleys meet, and the small black angel with the open palms, and you feel the pull to wish — remember the gold it used to be, and the blue tears, and the man who went mad. And wish nothing. The kindest thing you can give a giving thing, now, is to ask it for nothing at all.
+So if you ever find the little stone alcove where three alleys meet. And the small black angel with the open palms. And you feel the pull to wish — remember the gold it used to be. And the blue tears, and the man who went mad. And wish nothing. The kindest thing you can give a giving thing, now, is to ask it for nothing at all.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -402,13 +394,13 @@ So if you ever find the little stone alcove where three alleys meet, and the sma
 **Common Name:** Blackened Angel (검어진 천사)
 **Containment Status:** Contained on-site — the Tarnished Shrine, SECTOR-A-04, Zone A (sealed against petitioners)
 **Comprehension Level:** 3 — Monitored
-**Threat Assessment:** Major. A sentient wishing-statue that grants any wish spoken before it — it cannot refuse — and weeps black tears (once blue). Cruel wishes tarnish it further and draw the wisher toward its maddening Face. Not aggressive, but contact is hazardous; the curious and the spiteful are drawn to wish, and the price of a wish has grown heavier since the gold went black.
+**Threat Assessment:** Major. A sentient wishing-statue that grants any wish spoken before it — it cannot refuse — and weeps black tears (once blue). Cruel wishes tarnish it further and draw the wisher toward its maddening Face. Not aggressive, but contact is hazardous. The curious and the spiteful are drawn to wish, and the price of a wish has grown heavier since the gold went black.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only; Flerehan and Pugnahan are invalid for this Object entity.
 - No wish — spoken or thought — is to be made within the Shrine, ever.
 - To lower the Gauge: name the angel's grief aloud and empty the dish of tears by hand.
 **Observation Notes:**
-- Blackened by the nightly cruel wishes of a Collector, Kangmin, over more than a year; Kangmin was driven mad by the angel's Face on his final visit.
+- Blackened by the nightly cruel wishes of a Collector, Kangmin, over more than a year. Kangmin was driven mad by the angel's Face on his final visit.
 - The gold-to-black ratio directly reflects accumulated cruel wishes; currently ~1:7.
 - The compulsion to grant is absolute — the core hazard — and the Face, once manifested, drives the cruel mad.
 **Cross-References:** The Tarnished Shrine · Zone A (the Alpha Tree district) · the debt system & Collectors · Kangmin (the wisher who went mad)
@@ -429,7 +421,7 @@ Blackened Angel is small — barely eighty centimetres of carved stone in a ston
 
 ### The Dish at Her Feet
 
-A shallow stone dish sits at her feet to catch the tears, and the dish is emptied on a schedule by crews who log the volume and the colour. She was once wholly gold and wept a blue tear of happiness for each kind wish she was asked to grant; the gold survives now only in flecks and thin bright veins, and the dish's contents have not been blue in a very long time. The volume log is the holding's primary instrument and the colour log is its secondary, and the wing treats a change in the latter as more significant than a change in the former. Nothing in the protocol explains why. The crews who keep the log would say, if asked, that they are watching to see whether anything comes back.
+A shallow stone dish sits at her feet to catch the tears, and the dish is emptied on a schedule by crews who log the volume and the colour. She was once wholly gold and wept a blue tear of happiness for each kind wish she was asked to grant. The gold survives now only in flecks and thin bright veins, and the dish's contents have not been blue in a very long time. The volume log is the holding's primary instrument and the colour log is its secondary, and the wing treats a change in the latter as more significant than a change in the former. Nothing in the protocol explains why. The crews who keep the log would say, if asked, that they are watching to see whether anything comes back.
 
 ### Observation Without Asking
 
@@ -455,7 +447,7 @@ They do not show it. The colour has no relation to the wording of the wish, and 
 
 What it tracks is **whether the petitioner knew, when they spoke, that somebody would be hurt**.
 
-The Keepers established this the only way it could be established — from the petitions whose outcomes are independently documented, and from the petitioners themselves where any trace of them survives. Three categories settle it. A wish that caused grave harm the petitioner plainly did not anticipate reads blue; there are sixty-one such and all sixty-one are blue. A wish worded with real viciousness by a petitioner the attendant's margin note records as joking reads blue; there are nineteen and all nineteen are blue. And a wish worded with perfect gentleness by somebody who understood exactly what it would do reads black; there are forty-four, and they include the three darkest readings in four centuries of log.
+The Keepers established this the only way it could be established — from the petitions whose outcomes are independently documented, and from the petitioners themselves where any trace of them survives. Three categories settle it. A wish that caused grave harm the petitioner plainly did not anticipate reads blue; there are sixty-one such and all sixty-one are blue. A wish worded with real viciousness by a petitioner the attendant's margin note records as joking reads blue. There are nineteen and all nineteen are blue. And a wish worded with perfect gentleness by somebody who understood exactly what it would do reads black. There are forty-four, and they include the three darkest readings in four centuries of log.
 
 She does not weep for the wish. She weeps for what the person asking it knew.
 
@@ -481,17 +473,17 @@ A blue reading is recorded as indicating that the officer did not foresee harm. 
 
 **Thirty-four readings have been taken. Thirty-one were blue.** The decisions they accompany include the withdrawal of an allowance from two hundred households, two site closures, and the reduction of a restitution programme in another wing by three quarters.
 
-The objection is minuted at the forty-ninth review and at each of the seven since, raised by the shrine's maintenance crew through their supervisor and supported by the Keeper who ran the petitions study. It holds, first, that the dish measures foresight and the facility has arranged to read it from the person least likely to possess any: the papers are drafted by analysts who model the consequences in detail and signed by officers who receive a summary, so the reading is taken at the exact point in the chain where blue is structurally guaranteed. The instrument is not certifying good faith. It is certifying the distance between the signature and the arithmetic. Second, that the three black readings produced no consequence of any kind — no reconsideration, no note on the paper, no requirement to explain — so the scheme attaches a publication to a favourable result and nothing at all to an unfavourable one, which is not a control. Third, that the alcove is now in use as an office, that the figure which cannot refuse a request receives thirty-four of them a cycle from the body that contains her, and that the crews who maintain the shrine, sweep it, polish the surviving veins of gold and replace the lamp before it can fail were not consulted and learned of the scheme from a published paper.
+The objection is minuted at the forty-ninth review and at each of the seven since, raised by the shrine's maintenance crew through their supervisor and supported by the Keeper who ran the petitions study. It holds, first, that the dish measures foresight and the facility has arranged to read it from the person least likely to possess any: the papers are drafted by analysts who model the consequences in detail and signed by officers who receive a summary. So the reading is taken at the exact point in the chain where blue is structurally guaranteed. The instrument is not certifying good faith. It is certifying the distance between the signature and the arithmetic. Second, that the three black readings produced no consequence of any kind — no reconsideration, no note on the paper, no requirement to explain — so the scheme attaches a publication to a favourable result and nothing at all to an unfavourable one, which is not a control. Third, that the alcove is now in use as an office, that the figure which cannot refuse a request receives thirty-four of them a cycle from the body that contains her. And that the crews who maintain the shrine, sweep it, polish the surviving veins of gold and replace the lamp before it can fail were not consulted and learned of the scheme from a published paper.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the fiftieth year at effectively nothing — readings taken from the drafting analyst as well as the signatory, every reading published including the black ones, and the practice barred from any document intended for circulation outside the facility — and that it has not been laid before the board in seven years. And it records the sentence the crew supervisor asked to have entered verbatim, which is now the first line of the maintenance log that has no official recipient:
+It is entered as correct on all three points; the minute's only addition is the date of the next review. It records that a remedy was costed in the fiftieth year at effectively nothing — readings taken from the drafting analyst as well as the signatory, every reading published including the black ones. And the practice barred from any document intended for circulation outside the facility — and that it has not been laid before the board in seven years. And it records the sentence the crew supervisor asked to have entered verbatim, which is now the first line of the maintenance log that has no official recipient:
 
 *She has told us, for four hundred years and to the exact shade, which of us knew. We have found a use for that, and the use is to stand a man who was never told in front of her and print the colour.*
 
 ## Trivia
 
-- The angel's gold-to-black ratio is logged every watch like a vital sign; it has not brightened on its own since the day Kangmin was taken away.
+- The angel's gold-to-black ratio is logged every watch like a vital sign. It has not brightened on its own since the day Kangmin was taken away.
 - A single blue tear was observed in the dish once, three years ago, after a child reached through the seal and whispered "I hope you feel better." The tear is kept in the Archive.
-- The dish of black tears is emptied by hand each successful containment; the tears, dried, become a fine black powder the Keepers have not yet found a use for, and do not like to touch.
+- The dish of black tears is emptied by hand each successful containment. The tears, dried, become a fine black powder the Keepers have not yet found a use for, and do not like to touch.
 
 ### Registry Trivia
 

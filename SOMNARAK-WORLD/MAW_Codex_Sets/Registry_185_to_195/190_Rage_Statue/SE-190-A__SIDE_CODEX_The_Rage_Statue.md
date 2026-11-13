@@ -37,10 +37,10 @@ The Statue trembles only when watched for too long. Its fist lowers slightly whe
 
 | Work Type | Response | Gauge |
 |---|---|---|
-| Flerehan | Face softens; fist lowers slightly. | Down |
-| Pugnahan | Heat gathers in fist. | Up |
+| Flerehan | Face softens; fist lowers slightly. | Decrease |
+| Pugnahan | Heat gathers in fist. | Increase |
 | Viderehan | Shows injustice behind pose. | Stable |
-| Ferrehan | Tests standing before unexpressed anger. | Down |
+| Ferrehan | Tests standing before unexpressed anger. | Decrease |
 
 **Rule:** Distinguish justice, accountability, and retaliation before acting. No worker may use the Statue as permission for personal revenge.
 
@@ -54,9 +54,9 @@ The Statue trembles only when watched for too long. Its fist lowers slightly whe
 
 | Piece | Name | Grade | Element | Individual codex |
 |---|---:|---|---|---|
-| Weapon | The Vein-Heated Marble Brand | γ | Grudge | `SE-190-B__MAW-W_The_Rage_Fang.md` |
-| Suit | The Sculptor's Flame-Hardened Apron & Cuirass | γ | Grudge | `SE-190-C__MAW-S_The_Rage_Gauntlet.md` |
-| Stigma | The Chiseled Knuckle Stigma | γ | Grudge | `SE-190-D__MAW-G_The_Rage_Charm.md` |
+| Weapon | The Vein-Heated Marble Brand | γ | Grudge | `SE-190-B__MAW-W_The_Vein_Heated_Marble_Brand.md` |
+| Suit | The Sculptor's Flame-Hardened Apron & Cuirass | γ | Grudge | `SE-190-C__MAW-S_The_Sculptor_s_Flame_Hardened_Apron_and_Cuirass.md` |
+| Stigma | The Chiseled Knuckle Stigma | γ | Grudge | `SE-190-D__MAW-G_The_Chiseled_Knuckle_Stigma.md` |
 
 ---
 
@@ -92,13 +92,3 @@ The Statue does not need its fist to land for the rage to be real. Mastery is no
 
 **Related material:** Redcage, Zone B accountability routes, held-anger records.  
 **Item links:** `SE-190-B`, `SE-190-C`, `SE-190-D`.
-
----
-
-**Document ID:** `SE-190-A`  
-**Linked Entity:** `SE-190`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

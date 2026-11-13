@@ -2,7 +2,7 @@
 
 > *“The city writes its history in six voices, each singing a canto of ash and dawn.”*
 
-**Cantos**  [여섯 편의 서사시]  (_Yeoseot Pyeon-ui Seosasi_) comprises the overarching six-part literary and historical epic of [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
+**Cantos**  [여섯 편의 서사시]  (_Yeoseot Pyeon-ui Seosasi_) comprises the overarching six-part literary and historical epic of [SOMNARAK-WORLD](../README.md).
 
 Tracing humanity's struggle against subterranean sorrow across centuries, the Cantos detail the journey from crude mining pits to the industrial containment of the Reverie Directorate, culminating in the climatic ignition of the Dawn of Hope at Year 4,238.
 

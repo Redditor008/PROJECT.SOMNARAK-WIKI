@@ -28,6 +28,10 @@ The Rage Hammer is a heavy crimson forge-hammer of Han iron that pulses in the h
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
 **Opposed Shaping:** Hostile force accelerates Han shaping at one selected target. Using manufactured opposition or personal resentment as fuel imprints that anger into the result.
 
 **Cost:** The wielder feels anger toward every object altered.
@@ -43,14 +47,3 @@ Charm names fuel, Plate protects worker, Hammer shapes. Crucible brightens when 
 **Maintenance:** Rework one harmless scrap slowly with no opposition. Name each error without striking harder. The pulse clears when the object is allowed to remain imperfect.
 
 **Shutdown:** Set the Hammer on cooled slag and stop work before anger becomes the reason to continue.
-
----
-
-**Document ID:** `SE-275-B`  
-**Linked Entity:** `SE-275`  
-**Item Registry Code:** `MAW-W-275-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -19,10 +19,10 @@ The Ruin formed from a settlement that died while its survivors continued mourni
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IVδ-844 [N] |
-| Type / Manifestation | Subject — Can breach / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: an expansion in place. The register files an escape and the holding's own row refuses it — nothing has ever risen, walked or pursued, and what propagates is the dream through the structures it is holding up — Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone B, Old Lament — ambient             |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 000/910; starts 000% · Lament — no attack pattern: recumbent, never risen, never pursued; what moves is the dream and the structures it holds (Contact Record, R-36) |
 | Observation | 2 — Basic |
 | Formation event | An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent. |
 
@@ -40,7 +40,7 @@ The Ruin formed from a settlement that died while its survivors continued mourni
 
 ## WITNESS RECORD — *The Repose Source-Trace*
 
-During the The Repose Source-Trace, the field team preserved this source fact: An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The exhaustion of grieving a place that can no longer be restored.
+During *The Repose Source-Trace*, the field team preserved this source fact: An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The exhaustion of grieving a place that can no longer be restored.
 
 ## M.A.W. SET — *Repose — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Repose Source-Trace, the field team preserved this source fact: A
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Repose's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not wake it; reduce noise and acknowledge the dead The set cannot heal the originating event. Misuse routes Repose's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-844-A`  
-**Linked Entity:** `SE-844`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

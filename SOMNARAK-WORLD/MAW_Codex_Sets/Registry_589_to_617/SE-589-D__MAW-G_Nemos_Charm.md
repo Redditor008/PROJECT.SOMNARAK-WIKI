@@ -19,6 +19,7 @@ A warm deep-blue crystal drop hangs at the Tail slot. A different name is legibl
 | Field | Record |
 |---|---|
 | Grade / Element | β / Lament |
+| **Maximum Amount** | 4 — Stocked |
 | Slot / chance | Tail / 5% |
 | Bonus | +1 Clarity while working Nemo |
 | Acquisition | Random bestowal by the source entity |
@@ -57,14 +58,3 @@ Its crystal darkens whenever testimony is promoted into certainty without review
 The Stigma attributes the name, the Shroud protects the encounter, and the Blade assists the current body. Full resonance makes a return socially present for one cycle without rewriting the archive.
 
 > *“The blank line was violence. Filling every blank with one name would have been another.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-589-D`  
-**Linked Entity:** `SE-589`  
-**Item Registry Code:** `MAW-G-589-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

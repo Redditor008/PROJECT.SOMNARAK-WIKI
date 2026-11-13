@@ -14,6 +14,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | β — Moderate |
 | Damage | Lament 5–9 |
 | Speed / Range | 2 — Normal / 2 — Short |
 | Pattern | Single |
@@ -35,12 +36,3 @@ The Requiem condenses a bearer’s acknowledged grief into a single Lament strik
 ### History Record
 
 A Tear Requiem bearer used the blade to break a grief-fed barrier around an infirmary. The barrier opened. The bearer spent the remainder of the night seated with a family who had lost a patient, unable to leave until the family left first.
-
-**Document ID:** `SE-041-B`  
-**Linked Entity:** `SE-041`  
-**Item Registry Code:** `MAW-W-041-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

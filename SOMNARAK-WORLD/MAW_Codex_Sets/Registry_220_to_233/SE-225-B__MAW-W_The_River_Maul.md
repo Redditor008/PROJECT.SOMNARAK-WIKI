@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-W-225-01`  
 **Author:** Extraction Lead Zyrak  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Status:** Active — three sluice-bound mauls
 
@@ -31,6 +31,10 @@ The River Maul is a matte black two-handed maul of Han steel that quivers toward
 |---|---:|---|---|---:|
 | γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
 **Downstream Blow:** The Maul drives burden through up to three targets or structures along the declared flow. It attacks Han reserves and karmic load. A strike without an open outlet stores the entire line inside the wielder.
 
 **Cost:** Each use increases bodily heaviness; prolonged operation produces slight aging proportional to the burden redirected.
@@ -46,14 +50,3 @@ The Mantle holds the operator above the pull and the River Stone receives stray 
 **Maintenance:** Rest the Maul across the open return trench until both faces reach the same temperature. Zyrak verifies current direction before clearing it. Oil, polish, and sealed cases interfere with flow and are prohibited.
 
 **Shutdown:** Release the grip while the head faces downstream. Do not lift it again until the discharge gauge reaches baseline.
-
----
-
-**Document ID:** `SE-225-B`  
-**Linked Entity:** `SE-225`  
-**Item Registry Code:** `MAW-W-225-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

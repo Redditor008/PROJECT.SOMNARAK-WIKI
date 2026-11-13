@@ -19,10 +19,10 @@ Blackened Angel was once a pure golden wishing-angel in a city alcove — a smal
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVγ-946 [WO] |
-| Type / Manifestation | Object — Can breach via Transform/activation / Object-Tale |
+| Type / Manifestation | Object — Non-breaching: activation only; /activation / Object-Tale |
 | Coherence / Potency | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt / Major (γ) |
 | Element / Location | Weight / The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site) |
-| Gauge / Pressure | 640/640; starts 55–75% (it begins each cycle already heavy with old wishes) / 12–26 per hit · Weight |
+| Gauge / Pressure | 000/880; starts 000% (it begins each cycle already heavy with old wishes) · Weight — no attack pattern: the statue does not move and does not strike; wishes are what it takes (Contact Record, R-36) |
 | Observation | 3 — Monitored |
 | Formation event | A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear. |
 
@@ -30,8 +30,8 @@ Blackened Angel was once a pure golden wishing-angel in a city alcove — a smal
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object entities cannot be confronted through Pugnahan. |
 | Viderehan | The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. (Stable) |
 | Ferrehan | The worker holds beneath the accumulated weight of all those granted wishes — the heaviness of a giving thing that gave too much it did not want to give. (Decrease) |
 
@@ -40,7 +40,7 @@ Blackened Angel was once a pure golden wishing-angel in a city alcove — a smal
 
 ## WITNESS RECORD — *The Blackened Angel Source-Trace*
 
-During the The Blackened Angel Source-Trace, the field team preserved this source fact: A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a giving thing forced, over and over, to grant cruelty — and the slow loss of trust in the wishes of people.
+During *The Blackened Angel Source-Trace*, the field team preserved this source fact: A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a giving thing forced, over and over, to grant cruelty — and the slow loss of trust in the wishes of people.
 
 ## M.A.W. SET — *Blackened Angel — Witnessed Form*
 
@@ -55,13 +55,3 @@ During the The Blackened Angel Source-Trace, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Blackened Angel's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand The set cannot heal the originating event. Misuse routes Blackened Angel's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-946-A`  
-**Linked Entity:** `SE-946`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

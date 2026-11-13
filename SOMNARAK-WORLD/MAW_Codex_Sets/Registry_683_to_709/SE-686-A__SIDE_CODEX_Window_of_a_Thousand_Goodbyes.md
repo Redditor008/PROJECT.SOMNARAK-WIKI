@@ -17,7 +17,7 @@ A cracked red-black tunnel window reflects reaching hands instead of faces. Gene
 |---|---|
 | Coherence / Potency | I / α |
 | Element / Location | Grudge / Zone B deep tunnels |
-| Gauge / Pressure | 221/221; 25–40% / 2–8 |
+| Gauge / Pressure | 000/240; starts 000% / Grudge — no attack pattern; the caliper count and the walked length on the patrol sheet are the reading |
 | Set | Look Without Entering |
 
 Only Viderehan and Ferrehan are valid. Touch or direct gaze shows one former occupant’s memory until the viewer looks away; borrowed rooms may be mistaken for personal history.
@@ -31,12 +31,3 @@ Only Viderehan and Ferrehan are valid. Touch or direct gaze shows one former occ
 **Resonance — Witnessed Departure:** Shard attributes a hand, Plate holds the viewer outside, and Fang cuts a phantom grip. Entering the memory makes every goodbye personal and draws the bearer through.
 
 **Incident:** a tunnel worker recognized his mother’s kitchen beyond the glass. The Shard identified another occupant; Plate held his feet while Fang cut the reaching hand, not the pane.
-
----
-**Document ID:** `SE-686-A`  
-**Linked Entity:** `SE-686`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

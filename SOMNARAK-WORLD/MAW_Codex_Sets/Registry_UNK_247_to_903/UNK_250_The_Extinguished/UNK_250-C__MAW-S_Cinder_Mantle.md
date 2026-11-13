@@ -35,14 +35,3 @@
 **Corrosion:** all reassurance sounds false; comfort becomes painful; terminal state makes isolation feel safer than finite care.  
 **Maintenance:** cool in a room with a posted support schedule.  
 **Shutdown:** wearer accepts one honest, time-bounded offer while the collar is opened.
-
----
-
-**Document ID:** `UNK-250-C`  
-**Linked Entity:** `UNK-250`  
-**Item Registry Code:** `MAW-S-UNK-250-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Returning Shroud
 
-> *“The Returning Shroud remembers Homecoming Tree; the bearer must not mistake memory for permission.”*
+> *"It keeps a version of home that nothing in the present is allowed to revise. Its wearers defend a place that is gone."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Homecoming Tree's kind of pressure.  
-**Binding rule:** the bearer names Homecoming Tree's event—A displaced community returned to its original border settlement and found it transformed beyond recognition.—and accepts this limit: Mark the place as changed; do not attempt to restore a false past
+**Binding rule:** the bearer names Homecoming Tree's event — “A displaced community returned to its original border settlement and found it transformed beyond recognition.” — and accepts this limit: Mark the place as changed; do not attempt to restore a false past
 
 ## Appearance
 
-The Returning Shroud is the suit record of the Homecoming Tree’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a home that no longer matches its memory. Binding is testimonial: the wearer names the source event — a displaced community returned to its original border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the failed homecoming installing itself in the wearer’s own geography of returns. The source- trace set the doctrine: the suit requires the worker to remain beneath it without claiming ownership — shelter accepted on the terms the returned community faced, gratitude without title — and it contained the immediate hazard only after attribution to the Homecoming Tree. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Returning Shroud is the suit record of the Homecoming Tree’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a home that no longer matches its memory. Binding is testimonial: the wearer names the source event — a displaced community returned to its original border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. The cost is the revision: nothing in the present can change the wearer's version of home, and a season of wear leaves them defending a settlement that no longer exists. The source-trace set the doctrine: the suit requires the worker to remain beneath it without claiming ownership — shelter accepted on the terms the returned community faced, gratitude without title — and it contained the immediate hazard only after attribution to the Homecoming Tree. Filed as a deed, the shelter became property: the wearer defended a settlement they had never been given title to, which is the one thing the returned community was refused. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,16 +29,20 @@ The Returning Shroud is the suit record of the Homecoming Tree’s set, granting
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Homecoming Tree's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 5 — Abundant |
+
+**Operational / binding cost:** The Shroud keeps grief off by keeping the wearer's version of home intact: worn, nothing about the present can revise it. Worn long, the wearer defends a settlement that no longer exists.
 
 ## ITEM-SPECIFIC HISTORY — *The Homecoming Tree Source-Trace: Suit Record*
 
-The first The Returning Shroud field bearer encountered this source response: Requires the worker to remain beneath it without claiming ownership. The suit contains the immediate hazard only after the team attributed it to Homecoming Tree. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Returning Shroud encountered this source response: Requires the worker to remain beneath it without claiming ownership. The suit contains the immediate hazard only after the team attributed it to Homecoming Tree. A wearer argued a boundary against a settlement that had been resettled two valleys over, and the Shroud’s binding is the survey they were defending.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Homecoming Tree's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the present stops revising the version at all, and the wearer describes the ward from a map nobody has used in years.
 - Terminal state: Homecoming Tree's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Mark the place as changed; do not attempt to restore a false past” reverses the item’s benefit and raises the source Gauge.  
@@ -47,15 +51,4 @@ The first The Returning Shroud field bearer encountered this source response: Re
 
 ## SET RELATIONSHIP
 
-Within *Homecoming Tree — Witnessed Form*, The Returning Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-869-C`  
-**Linked Entity:** `SE-869`  
-**Item Registry Code:** `MAW-S-869-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Homecoming Tree — Witnessed Form*, The Returning Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still lets one thing about the present change their mind; the first refusal takes the Shroud out.

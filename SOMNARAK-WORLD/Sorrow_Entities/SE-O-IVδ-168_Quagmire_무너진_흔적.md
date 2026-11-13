@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-168 [O]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A broken line of heavy crystal dragged across the Desolate ground — the collapsed record of a movement that did not finish, frozen mid-stride. Salt-cold, it smells of cold rain; a footprint that fell over and could not rise. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed to its alignment — the line does not move; the ground under it does. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -28,10 +28,12 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
 | **Han-Energy yield** | 20–28 per successful work cycle, tallied off survey readings rather than off the Trace itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the counter** — Its bearing follows an alignment that no current map carries, and the Cartographic Office confirmed the match from its own withdrawn sheets. |
+| **Work Damage** | 3–6 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a journey lightened and added to the survey, never finished. It resets to 10 s the moment the piece comes off — but only once the gauge has run back down to 000; short of that the clock resumes where it stopped. |
+| **Activation threshold** | No breach counter; the line does not move and what shifts is the ground beneath it |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -39,63 +41,71 @@
 
 ### Operational Notes
 
-- A completed cycle lightens the Trace and adds to the survey. It does not finish the journey, recover the travellers, or shorten the crystal line by a single metre; what the work produces is a better map of something that stopped happening.
+- A completed cycle lightens the Trace and adds to the survey. It does not finish the journey, recover the travellers, or shorten the crystal line by a single metre. What the work produces is a better map of something that stopped happening.
 - There is no breach counter. The activation condition is external and the facility cannot see it coming from the Desolate: a route destroyed somewhere with nobody present to record it. The Trace registers the loss before any report of it reaches Zone A.
 - A yield of 20–28 at Severe difficulty is drawn out in the open Desolate near The Scar, hours from relief, with no containment structure of any kind. The exposure figure that matters for this holding is travel time, and it is not in the table.
 - Extraction means cutting crystal out of a line that is itself a record of people who were cut off. It is scheduled separately, and the segment removed is surveyed and logged in position before it is lifted, because the line cannot be put back.
 
-## Combat Record
-### Core Stat Line
+## The Charge
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+The gauge is the load this holding carries, not a reserve it spends. It is read at the instrument
+and nowhere else, and every figure below is fixed by the tier — none of it is chosen for this file.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Desolate, near The Scar |
+| **Length** | **880** — the whole of it. The length is fixed by the grade this file carries, and is not chosen here |
+| **At rest** | **000**. Nothing is being held, so nothing has been laid on |
+| **Fill** | 000 to 880 across **six doses** of 10 s, worn — the wall is six of its own clock, not a fixed minute |
+| **Wall** | **60 s** — six doses, and at 60 s it is spent and will not take a hand. The refusal is not an injury |
+| **Run-down** | a tenth of the length a minute, so ten minutes from spent back to ready |
+| **Taken early** | the Work Damage clock resumes where it stopped rather than starting over |
+| **At the wall** | the first dose lands at once and the run-down starts again from the top |
+| **What it takes** | grief taken down into the person. Nothing breaks; the level simply sits lower afterwards |
+
+A holding gives six doses, and the wall is what six of its own clock comes to: this one is met
+worn on a 10-second clock, so the six come to **60 seconds**. A worn piece gets a minute and a
+walked ground gets three; the count is the same for both.
+
+The gauge is read at the instrument. The cost is read on the person.
+
+## Contact Record
+
+> **Why this file has no combat actions.** The Movement row says it is *fixed to its alignment* — the line does not move, the ground under it does — and the record's own note on its worst event is that nothing flares, strikes or is erased. What it takes is direction, and it takes it from whoever is standing on the line.
+
+| Field | Value |
+|---|---|
+| **Mode of presence** | A broken run of heavy crystal lying across the Desolate on the alignment of a decommissioned road, frozen mid-stride. It bears weight without deforming and is the safest footing in the district; it gets heavier every time a road comes off a map. |
+| **Perceptible to** | The footsteps first — the worker's own steps make no sound and somebody else's arrive from the broken section — then the needle, which points along the broken line while every actual exit feels unfinished. |
+| **Handling** | The line is mapped and the names it carries preserved. The off-line partner keeps the head count and stops anybody continuing past the end, and the worker stands where the road stops for the full cycle — neither walking on, which joins the journey, nor turning back. — see `## Handling Process` |
+| **Activation threshold** | No breach counter; the line does not move and what shifts is the ground beneath it |
+| **Sorrow Gauge [Depth]** | **000 of 880** · ready · six doses · limit 60 s · recharge 10 min |
+| **Starting Sorrow Gauge** | 000 — settled. A relic nobody is holding sits at the bottom of its line, and the watch opens there |
+| **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Map the Trace and preserve the names it carries |
 
-### Combat Actions
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Fading Mark* [**Debuff**] } | "The traces on the floor are disappearing — and with them, proof that anyone was ever here." | [The Trace's collapse erases evidence; the target feels themselves becoming unproven.] | *Target suffers -10 Composure; they are becoming a trace that is fading.* **[10 Lament DMG [Lament]]** | When the target steps on the traces. |
-| { *The Smudged History* [**Debuff**] } | "Everything recorded here is blurring — names, dates, sorrows — all smudging into nothing." | [The Trace's breakdown corrupts the record; the target's own history smudges.] | *Target loses 10 Composure; they cannot remember clearly.* **[10 Lament DMG [Lament]]** | When the target reads the traces. |
-| { *The Static Burst* [**Attack**] } | "The traces flare once — a final, bright moment of evidence — and then they are gone." | [The Trace's death-flash strikes the target.] | *Inflicts Lament pressure and one wound of erased certainty.* **[14-22 Lament DMG [Lament]]** | When the Trace is touched. |
-| { *The Total Erasure* [**Attack**] } | "Every trace, every mark, every record goes down together, in one motion." | [The Trace comes apart entirely and carries the evidence away with it.] | *A heavy Deep Blue void-of-record; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Trace is scraped off the ground. |
-| { *The Unmarked Field* [**Ultimate**] } | "After this there is nothing to find — no trace, no mark, no proof the field was ever walked." | [The erasure widens until it holds every metre of the field.] | *Everyone in range takes Lament pressure for three turns while the field goes unmarked.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+### Contact Events
 
-### Battle Phases
+| Event | What the Trace does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Footsteps* [**Register**] } | It carries footsteps and produces none of its own. The worker's own steps make no sound and somebody else's arrive from the broken section, in more gaits than the party has people. | The line is walked with a partner off it and a running head count, and the gaits are separated out from Viderehan's account rather than guessed at. | Sixty-one gaits have been separated out of one alignment, which is the number the file turns on and the reason the route is read in order. |
+| { *The Line* [**Exposure**] } | Clarity goes first as direction: the compass and the attention align with the broken route, every exit feels unfinished, and the worker may continue in good order past the end. | The off-line partner calls the end of the line and the head count is taken there, and anyone treating the alignment as a shortcut is turned around. | Extended exposure produces the conviction that the party is mid-journey and has somewhere still to reach, described afterwards as entirely reasonable at the time. |
+| { *The Endpoint* [**Refusal**] } | It does not flare, strike or erase anything. What it does is leave every direction visible and none of them feeling like having arrived anywhere. | Nobody walks on past the stop and nobody turns back early. The worker stands where the road stops for the full cycle, which is the only posture that is neither joining the journey nor abandoning it. | The refusal is arrival: there is nowhere to get to, and the object will not supply one. |
+| { *The Route Gone Elsewhere* [**Overload**] } | When a road somewhere else is destroyed without witness, nothing happens on the line: the load cells register it first, as added mass and new subsidence. | The reading is taken again against the load cells, and no mark is scraped away to make the figures agree. | The Trace itself remains to be mapped, and names and route history are the record to preserve rather than the thing that was destroyed. |
 
-1. **Tension:** The team reaches the Trace, establishes which direction the line was travelling, confirms the survey equipment is working before anything else is attempted, and agrees that no one will walk the line's length until it has been measured.
-2. **Clash:** Twenty-four turns in open ground against 910 points of unfinished journey at 45% resistance to its own element. Nothing attacks. The pressure is 29 to 64 per turn of simply remaining at the end of a road that stopped, and parties fail this encounter by leaving rather than by being overcome.
-3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Map the Trace and preserve the names it carries**. Nothing on the ground is scraped, brushed or washed while the survey is open, and the names go into the record before the party leaves the Scar.
+### Watch Sequence
+
+1. **What is confirmed:** the mapped run against the last survey, the load-cell figures and the subsidence, and the head count before the line is stepped onto.
+2. **What the watch does:** Viderehan shows the route as it was walked and the party on it, and Ferrehan stands where the road stops for the full cycle. The partner stays off the line, the count is taken at the endpoint, and nobody treats the alignment as a shortcut.
+3. **How it closes:** **Map the Trace and preserve the names it carries.**
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
+- If resistance fails, the worker does not become a fading trace. Clarity goes first as direction: compass and attention align with the broken route, every exit feels unfinished, and the worker may continue in good order past the end unless the off-line partner and head count stop them.
 - Extended exposure produces a specific disorientation that personnel consistently under-report: the conviction that the party is mid-journey and has somewhere still to reach. Workers have continued walking the line past its end, in good order, discussing the route, and have described the experience afterwards as entirely reasonable at the time.
-- Every piece drawn from the Trace charges in arrivals that never happened. The censer shields composure and leaves its bearer weeping for people they never met; the shroud keeps the mind steady and flattens small pleasures; the Lantern shows routes buried under dust and plays every traveller who did not come through.
+- Every piece drawn from the Trace charges in arrivals that never happened. The censer shields composure and leaves its bearer weeping for people they never met. The shroud keeps the mind steady and flattens small pleasures. The Lantern shows routes buried under dust and plays every traveller who did not come through.
 - If the Trace is not mapped and the names not preserved, nothing detonates. The line simply gets heavier, the Desolate ground around it subsides further, and the next survey party has a harder job than the last one. This holding punishes neglect with accumulation rather than violence, which is why it has been neglected.
+- The Trace journey is a Directorate survey line, and the survey is not finished: the line is carried on the Directorate's books as open, quarter after quarter.
 
 ## Appearance
 **Physical Form:** A broken run of heavy crystal lying across the Desolate on the alignment of a decommissioned road, frozen mid-stride. **Load:** it bears weight without deforming and is the safest footing in the district.
@@ -116,50 +126,40 @@
 | Field | Detail |
 |---|---|
 | **Form** | A broken crystal line reading as a route, direction of travel established by survey, ending at nothing. |
-| **Position / movement** | A fixed broken line of heavy crystal lying across the Desolate ground, frozen mid-stride and oriented along a road that no longer exists; it has never relocated, but the ground beneath it continues to give. |
+| **Position / movement** | A fixed broken line of heavy crystal lying across the Desolate ground, frozen mid-stride and oriented along a road that no longer exists. It has never relocated, but the ground beneath it continues to give. |
 | **Material / signature** | Lament. Salt-cold crystal, cold rain on the air, local silence over the line, and 22.4 tonnes on the cells. |
 | **Distinctive markers** | The alignment against current maps — it matches none of them — the break positions, the subsidence, and footsteps belonging to nobody present. |
 | **Identification** | If your own steps make no sound and somebody else's do, it is this one. Nothing else in the Desolate takes the noise off a boot. |
 
-**Appearance protocol:** Survey it, do not describe it. Record the line's total length, the position and width of every break in it, its bearing against the old road alignment, the depth of subsidence beneath each segment, and the mass where load cells can be seated. The crystal's appearance does not change; its weight does, and the record states the governing variable plainly — it grows heavier when routes are erased from maps. That makes the instrument a theodolite and a scale, and it makes the relevant archive the cartographic one rather than the incident log. Record also the footsteps. The Trace carries them and never produces its own, so the sound belongs to the travellers and should be counted, timed and attributed where possible, not written down as ambience.
+**Appearance protocol:** Survey it, do not describe it. Record the line's total length, the position and width of every break in it, its bearing against the old road alignment, the depth of subsidence beneath each segment, and the mass where load cells can be seated. The crystal's appearance does not change. Its weight does, and the record states the governing variable plainly — it grows heavier when routes are erased from maps. That makes the instrument a theodolite and a scale, and it makes the relevant archive the cartographic one rather than the incident log. Record also the footsteps. The Trace carries them and never produces its own, so the sound belongs to the travellers and should be counted, timed and attributed where possible, not written down as ambience.
 
 ## Origin
 - **Formation:** The Trace formed from a route destroyed before its travelers reached safety.
 - **The Sorrow:** The burden of a journey ending without arrival.
 - **The Event:** A Desolate path collapsed under Han, carrying the tracks and names of everyone who had used it.
-- **The People:** A party of travellers, number unestablished, who were weeks on the road and did not arrive. The Trace carries their footsteps, which means the facility holds evidence of how many there were and has not finished counting; the resolution condition requires preserving the names, and the names are not yet all known.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **The People:** A party of travellers, number unestablished, who were weeks on the road and did not arrive. The Trace carries their footsteps, which means the facility holds evidence of how many there were and has not finished counting. The resolution condition requires preserving the names, and the names are not yet all known.
+- **Expanded origin context:** The route failed before its travellers arrived. A Desolate path collapsed under Han and left a broken crystal line carrying tracks, route history and the absence of sixty-one people named on a complete departure manifest. The first obligation is therefore mapping and custody of names, not completing the journey on behalf of people who never reached its end.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** A broken run of heavy crystal lying across the Desolate on the alignment of a decommissioned road, frozen mid-stride. What follows is procedure; nothing in it answers an approach.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows the route as it was walked and the party on it, in order, which is how the sixty-one gaits were separated out. | Stable |
-| **Ferrehan** | The worker stands where the road stops for the full cycle: not walking on, which is joining the journey, and not turning back, which is what everybody else did. | Decrease |
+| Stage | What is done |
+|---|---|
+| **Approach** | Confirm the mapped run against the last survey, the load-cell figures and the subsidence, and the head count before the line is stepped onto. |
+| **Handling** | The watch the line is walked with a partner off it and a running head count, and the gaits are separated out from the observer's account rather than guessed at. |
+| **Withdrawal** | **Map the Trace and preserve the names it carries.**. |
+| **Refusal** | Nobody walks on past the stop and nobody turns back early. The worker stands where the road stops for the full cycle, which is the only posture that is neither joining the journey nor abandoning it. |
 
-
-### Operational Work Notes
-
-The table is a diagnostic to read, not a procedure to follow: it says which Work Type settles this ground and which one moves it. Quagmire stands as an Object/Place with Object-Weight manifestation and Lament in its element, filed in the Desolate hard by the Scar, and nothing is inherited from a holding with a similar name — the neighbours it does have are set out in their own section. Nor does a level gauge prove a harmless hour: the figure can lie flat while the worker is reached through memory, through the ground underfoot, or through what the walk has made of them.
-
-**Reading the response:** Viderehan holds the gauge level and reveals the route together with its missing travellers, which is the single most useful output this holding produces and changes nothing about its state — it is a witness function, not a treatment. Ferrehan brings the gauge down, and the test is whether the worker can remain at the end of a journey: stay at the point where the road stops, for the full cycle, without walking on and without turning back. Both failures are logged and they look nothing alike. A worker who walks on has joined the journey; a worker who leaves early has done what everyone else did. A falling gauge here means somebody stood at the end of a road for twenty-four turns on purpose.
 ## Activation Behavior
+
+> **Special activation — no counter.** The line does not move and the ground beneath it does, and the facility cannot see this one coming from the Desolate.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
 
-**Activation Trigger:** New routes destroyed without witness.
-
-**Effect:** Projects concentrated Lament sorrow resonance across the immediate perimeter.
-
-**Duration:** While equipped, until the removal condition is met.
-
-**Risk:** Misuse increases emotional strain and may destabilize the operator.
+> **What the Trace does on its own.** New routes destroyed without witness set it moving, or an expedition treating the Trace as a shortcut to safety. Compass needles then point along the broken line, travellers lose direction and feel they have failed to arrive wherever they stand, and it holds until forward movement stops, a current route map and return line are re-established, and the discovered names are preserved. A worker may keep walking past the endpoint in the reasonable conviction that they are still mid-journey, or hear unfinished footsteps as their own. The profile above is the relic’s use; this is the entity’s own activation, and the file keeps them apart on purpose.
 
 ### Tool Use Profile — I-Relic
 
@@ -170,25 +170,25 @@ The table is a diagnostic to read, not a procedure to follow: it says which Work
 | **Activation** | New routes destroyed without witness. |
 | **Primary Effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
 | **Duration** | While equipped, until the removal condition is met. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols. Returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 
-**Operational Rule:** The relic works while carried and stops when it is set down under the removal condition; it projects Lament across the immediate perimeter rather than at a target, so it affects the bearer's own party first and cannot be aimed. It confers no containment authority over the Trace, and Viderehan and Ferrehan remain the only valid responses.
+**Operational Rule:** The relic works while carried and stops when it is set down under the removal condition. It projects Lament across the immediate perimeter rather than at a target, so it affects the bearer's own party first and cannot be aimed. It confers no containment authority over the Trace, and Viderehan and Ferrehan remain the only valid responses.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Quagmire rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Quagmire activates its primary resonance: Projects concentrated Lament sorrow resonance across the immediate perimeter. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the burden of a journey ending without arrival; the bearer begins perceiving echoes of a desolate path collapsed under han, carrying the tracks and names of everyone who had used it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the burden of a journey ending without arrival. The bearer begins perceiving echoes of a desolate path collapsed under han, carrying the tracks and names of everyone who had used it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Quagmire begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Quagmire too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator. |
+| 2 Minutes | To wear Quagmire too long is to become the one who first wept over it. The boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic. The bearer suffers Misuse increases emotional strain and may destabilize the operator. |
 
 ### Escalation Notes
 
-Escalation here takes one shape and is not the standard breach event: the survey line stops matching the ground. The watch enters the first trigger, the change visible in the Object-Weight form, the distance at which the effect begins, and the line where the resonance settles. Lament is the element and the Desolate by the Scar the post, so emotional and behavioural indicators are written in beside the physical telemetry.
+Escalation here takes one shape and is not the standard containment event: the survey line stops matching the ground. The watch enters the first trigger, the change visible in the Object-Weight form, the distance at which the effect begins, and the line where the resonance settles. Lament is the element and the Desolate by the Scar the post, so emotional and behavioural indicators are written in beside the physical telemetry.
 
-**Response sequence:** Count the party, then survey. There is no perimeter to hold in open Desolate and nothing to clear, but personnel have walked the line's length without noticing, so the first action is a head count against the manifest and the second is a check that everybody is still at the end rather than along it. Then establish whether the activation was local or whether a road was destroyed elsewhere — the trigger is usually somewhere else entirely, and a team searching the Desolate for a cause will not find one.
+**Response sequence:** Count the party, then survey. There is no perimeter to hold in open Desolate and nothing to clear. But personnel have walked the line's length without noticing. So the first action is a head count against the manifest and the second is a check that everybody is still at the end rather than along it. Then establish whether the activation was local or whether a road was destroyed elsewhere — the trigger is usually somewhere else entirely, and a team searching the Desolate for a cause will not find one.
 
 ### Detailed Activation Record
 
@@ -196,9 +196,9 @@ Escalation here takes one shape and is not the standard breach event: the survey
 |---|---|
 | **Trigger** | New routes destroyed without witness. |
 | **Manifestation** | Object-Weight |
-| **Primary effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
-| **Duration / rate** | While equipped, until the removal condition is met. |
-| **Risk** | Critical (δ) Object-Weight producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |
+| **Primary effect** | Direction fails along the broken alignment; compass needles follow the collapsed line and every exit feels unfinished. |
+| **Duration / rate** | Until the party stops, restores a current map/return line, counts every member and preserves any names recovered. |
+| **Risk** | Critical (δ) Object-Weight producing Lament pressure; personnel may walk past the line's end while believing the journey continues. |
 | **Management** | Map the Trace and preserve the names it carries, under certified Tool protocol. |
 
 **Activation reporting order:** the route lost and where → change in measured mass → new breaks in the line → subsidence depth → footsteps counted → whether any name was recovered. The last field is the only one that discharges the resolution condition, and a report that fills every other column and leaves it blank has documented an activation without doing anything about it.
@@ -210,7 +210,7 @@ Escalation here takes one shape and is not the standard breach event: the survey
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A handheld cast-brass thurible suspended by three delicate chains, pierced with floral filigree that releases thin, continuous curls of fragrant dried lavender incense.
+**Appearance:** A handheld cast-brass thurible suspended by three delicate chains, pierced with floral filigree that releases thin, continuous curls of fragrant dried lavender incense.
 
 The aromatic smoke creates an emotional oasis that shields the bearer's composure from horrific visual anomalies. In close quarters, swinging the heated brass bowl delivers painful blunt impacts.
 
@@ -223,17 +223,17 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** The full figure against one target and nothing beyond them — the censer is swung by hand on its three chains and reaches as far as the bearer's arm.
-**Damage Application:** Score the impact of the heated bowl once, then score the lingering incense again on each following turn while the smoke holds; the two resolve as separate events against the same resistance.
+**Damage Application:** Score the impact of the heated bowl once, then score the lingering incense again on each following turn while the smoke holds. The two resolve as separate events against the same resistance.
 
 **Ability:** A brass thurible trailing lavender smoke that holds an emotional oasis around its bearer — the smoke steadies composure against anything the Desolate puts in front of the eyes, and the hot bowl does the rest at close quarters.
 
-**Cost:** The bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tears run underneath it, which colleagues find more unsettling than panic would be.
+**Bearer cost:** The bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tears run underneath it, which colleagues find more unsettling than panic would be.
 
 ### M.A.W. Suit — The Trace Shroud
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cold on the skin, stitched so finely that the seams disappear when it is worn.
+**Appearance:** a blue wrapping shroud of Lament Han-silk, cold on the skin, with a faint crystal route line running from collar to hem and ending before the floor. In use the line becomes a visible return thread toward the current camp marker.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -245,13 +245,13 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Ability:** Han-silk wrapping that holds the wearer's composure under Lament pressure, tightening as it nears the line it was drawn from.
 
-**Cost:** The shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the Desolate steady, competent, and unable to say whether the trip back was good or bad.
+**Bearer cost:** The shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the Desolate steady, competent, and unable to say whether the trip back was good or bad.
 
 ### M.A.W. Stigma — The Trace Lantern
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a small lantern of Lament Han-crystal, cold in the hand, that throws its light the wrong way for its size.
+**Appearance:** a tiny blue lantern of Lament Han-crystal, cold in the hand, showing no flame until a route is named aloud. Thin blue lines then reveal a hidden path together with the unfinished traveller names attached to it.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -259,7 +259,7 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Ability:** Reveals hidden routes beneath sorrow and dust.
 
-**Cost:** The user hears every traveler who never arrived.
+**Bearer cost:** The user hears every traveler who never arrived.
 
 *The Trace Lantern is given, not taken. It has appeared only on workers who recovered a name and filed it, and no procedure has produced one deliberately.*
 
@@ -271,10 +271,10 @@ Each piece remains part of the Trace, and the set is built for the road rather t
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Quagmire's toll being that the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea. |
-| **During use** | Every occurrence of what Quagmire takes (the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The cost is paid steadily and not in bursts: the shroud works by filtering out everything under a set weight, and it cannot tell a small grief from a small pleasure. Wearers come off the Trace light in the head and last on the sheet. The second worker's judgement overrides the wielder's, on paper and in the field. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Quagmire's cost is still showing — the shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the D. |
+| **Before use** | Wielder, piece, gauge, map custodian, team count and a physical return line. No piece is issued for solo travel beyond the agreed map boundary; the pre-check records which names, if any, the survey has already recovered. |
+| **During use** | Log every cost by piece: weeping for unnamed travellers, numbness to minor joys, or route voices/names revealed. A route line pointing forward without a map, footprints without names, or lantern light without a stated map purpose suspends travel. |
+| **At limit** | The custodian's return order overrides the bearer's judgement. If any team member is unaccounted for, route protection stops and search protocol replaces exploration; endurance on the line is not permission to continue alone. |
+| **After use** | Return together, enter every revealed name and route into custody, and review whether voices, weeping or flattened pleasure persist. A piece is not reissued while its route line remains forward-facing or its name record is incomplete. |
 
 **Stat interpretation:** The α grades on this set are honest and low, and the useful functions — the oasis, the hidden routes — are not in the damage column at all. Read the Cost lines as the specification. The Lantern in particular should be assessed on what it does to the bearer's hearing rather than on its rating, since every traveller who never arrived is a larger number than the sheet implies.
 ## 관찰 기록 (Observation Log)
@@ -316,7 +316,7 @@ Sixty-one gaits have been separated out of the footstep count and the departure 
 Management: file the Ways Register return every quarter under this designation, with the manifest attached to each alignment. Work response — Viderehan: shows the route and the people on it, in the order they were walking. (Stable); Ferrehan: the worker stands at the point where the road stops, for the full cycle, without walking on and without turning back. (Decrease). Flerehan and Pugnahan do not apply; there is nobody here to engage or confront.
 
 **Entry 5 — <Cartographic Office Note on Decommissioned Routes>**
-Decommissioning is correct and I will not have the office blamed in this file. A map is a warranty that a road can be walked, and an unmaintained alignment left on it is a promise the Desolate does not keep: in Year 4199 nine people followed a dashed former way out of a hand-copied sheet and none of them came back. The alignment is removed because leaving it kills people. The consequence is that the road these sixty-one died on does not exist in any published record, that no search may be authorised along it, and that the only index of where it went is held by us and may never be shown to anybody. All of that is the price of the rule, and the rule is right, and I have put both sentences in the same paragraph on purpose.
+Decommissioning is correct and I will not have the office blamed in this file. A map is a warranty that a road can be walked. And an unmaintained alignment left on it is a promise the Desolate does not keep: in Year 4199 nine people followed a dashed former way out of a hand-copied sheet and none of them came back. The alignment is removed because leaving it kills people. The consequence is that the road these sixty-one died on does not exist in any published record, that no search may be authorised along it, and that the only index of where it went is held by us and may never be shown to anybody. All of that is the price of the rule, and the rule is right, and I have put both sentences in the same paragraph on purpose.
 
 **Threat rating:** Critical (δ). It has injured one person in the whole record, and that was a worker stepping off the line onto open Desolate. The grade is accumulation: 14.2 to 22.4 tonnes, ground subsiding under it, and a resolution condition that no field party can discharge.
 
@@ -326,7 +326,7 @@ Decommissioning is correct and I will not have the office blamed in this file. A
 
 | Map the Trace and record the names on it — the clause, kept to the letter. | Trust your own judgement instead, which on this ground has never once come cheaper than the clause. |
 |---|---|
-| It tests whether a worker can stand at the end of a road without tidying it up; the sorrow is witnessed and Quagmire is recorded whole. | The route and the travellers missing from it come clear instead; the reading climbs and Quagmire goes unrecorded. |
+| It tests whether a worker can stand at the end of a road without tidying it up. The sorrow is witnessed and Quagmire is recorded whole. | The route and the travellers missing from it come clear instead; the reading climbs and Quagmire goes unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -335,13 +335,13 @@ A line of crystal crosses the dust and ends abruptly. No road continues beyond i
 
 
 
-**At first contact:** A line of crystal running across dust toward nothing, salt-cold, and silent in a way that takes a moment to locate — your own footsteps have stopped making noise. Then footsteps that are not yours, arriving from the broken section. The line is the safest ground in the district; the hazard is everything to either side of it, and the only injury on file was caused by somebody stepping off.
+**At first contact:** A line of crystal running across dust toward nothing, salt-cold, and silent in a way that takes a moment to locate — your own footsteps have stopped making noise. Then footsteps that are not yours, arriving from the broken section. The line is the safest ground in the district. The hazard is everything to either side of it, and the only injury on file was caused by somebody stepping off.
 
-**With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Weight is teaching you its sorrow.
+**With continued exposure:** The survey becomes five numbers repeated against the same stakes: mass, breaks, bearing, subsidence and footsteps. Somewhere inside that discipline the wish to simply keep walking presents itself as efficiency, which is why the head count comes before the instruments.
 
-**When the entity activates:** Once the gauge tips, the Lament stops behaving like grief and starts behaving like weather. The Object-Weight was holding the ground still; then it lets go of it.
+**When the entity activates:** The cause may be nowhere near the Scar. A route has been destroyed without witness, or somebody has decided the broken line is a shortcut. Compass needles settle along it, the mass forecast fails, and every exit begins to feel unfinished.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** There is no door to seal in open Desolate. The party leaves by its current return line with the names entered and the second head count complete. What remains is the line, heavier or not, and the knowledge that arriving back is not the same as finishing somebody else's journey.
 
 ### Interaction Pattern
 
@@ -352,13 +352,13 @@ Three neighbours, all of them encountered rather than arranged, and one of them 
 
 ### Entity Interaction Record
 
-The Trace lies in the open Desolate near The Scar rather than in a managed zone, so its neighbours are whatever else the Desolate holds and the survey intervals are long. The interactions below are canonical but each was recorded at a particular mass and bearing; personnel must re-run the survey before relying on any of them.
+The Trace lies in the open Desolate near The Scar rather than in a managed zone, so its neighbours are whatever else the Desolate holds and the survey intervals are long. The interactions below are canonical but each was recorded at a particular mass and bearing. Personnel must re-run the survey before relying on any of them.
 
 | What stands beside the Trace | How the pairing has run | What the survey entered | What the file keeps |
 |---|---|---|---|
 | **Survivor's Span** | Both preserve journeys interrupted by collapse. | Surveyed once at long separation. The Span carries people across; this line carries people who were not carried across. The bearing moved four minutes of arc toward it and returned by the next survey. | Bearing to the minute of arc before, during and after, with mass throughout. |
 | **The Spreading Well** | The Well carries sorrow along its abandoned route. | The one holding in the district with a route of its own, and therefore the only candidate for a permanent bearing change. Not to be arranged: a permanent re-bearing would be unrecoverable and the wing has ruled it out in writing. | The ruling, restated at each annual review. |
-| **The Vanished Shadow** | The Shadow follows the missing travelers. | Observed at distance during two surveys, never arranged. The footstep count rose by eleven gaits while it was in the district and fell back afterwards; the eleven have not been matched to the manifest. | Footstep counts at fixed intervals, the Shadow's own log, and the unmatched gaits recorded as unmatched. |
+| **The Vanished Shadow** | The Shadow follows the missing travelers. | Observed at distance during two surveys, never arranged. The footstep count rose by eleven gaits while it was in the district and fell back afterwards. The eleven have not been matched to the manifest. | Footstep counts at fixed intervals, the Shadow's own log, and the unmatched gaits recorded as unmatched. |
 
 **Interaction procedure:** Measure before and after with the same instruments and the same reference stakes. Record the separation at first response, the duration, the gauge movement, the mass throughout, the footstep count during contact, and the bearing on withdrawal. The bearing is the finding; everything else is context for it.
 
@@ -370,7 +370,7 @@ The Desolate path was a route — a track through the unstable ground, used by t
 
 The path collapsed. The Han, shifting beneath the Desolate's surface, undermined the track, and the ground — the path, the waystones, the traces — fell into the Han's channels, taking with it the travelers who were on it at the moment of collapse. The travelers were taken. The traces were taken. The journey that was in progress when the path fell was ended — not at the destination, not at the origin, but in the middle, in the collapsing, in the place between where the travelers had been and where they were going.
 
-Quagmire is Object-Weight, Lament-element: the figure of a journey ending without arrival — the path collapsed, the travelers taken, the traces preserved as a burden of incompleted transit. The Trace carries the names and the tracks of everyone who used the path, and the carrying is the sorrow: the accumulated weight of every journey that was interrupted by the collapse, every arrival that did not occur, every traveler who set out along the route and did not reach the other end.
+Quagmire is Object-Weight, Lament-element: the figure of a journey ending without arrival — the path collapsed, the travelers taken, the traces preserved as a burden of incompleted transit. The Trace carries the names and the tracks of everyone who used the path. And the carrying is the sorrow: the accumulated weight of every journey that was interrupted by the collapse, every arrival that did not occur, every traveler who set out along the route and did not reach the other end.
 
 Those who come near the Quagmire feel the specific burden of the interrupted journey — the weight of travels ended mid-route, of arrivals denied, of the specific, heavy sorrow of setting out and not arriving, preserved in the traces of a path that took its travelers into the Han before the travelers could reach the place they were walking toward.
 
@@ -398,9 +398,9 @@ Some sorrows mourn a destination. Quagmire mourns the journey — the path colla
 - File the Ways Register return quarterly under this designation. The lapse of Year 4225–4228 is the largest rise in the mass series and is printed in the file beside the dates of the four missed returns.
 - Nothing may be sited, marked or built at the line's end. A marker is a destination and a destination puts traffic on an unmaintained alignment.
 **Observation Notes:**
-- Sixty-one gaits counted; sixty-one names on the departure manifest; no name recoverable from the crystal itself, established twice and not to be attempted a third time.
+- Sixty-one gaits counted; sixty-one names on the departure manifest. No name recoverable from the crystal itself, established twice and not to be attempted a third time.
 - Mass 14.2 → 17.9 → 22.4 tonnes against 2,300 kilometres of route removed from the maps.
-- Extraction cuts a segment out of a record of people who were cut off; the segment is surveyed in position first, because the line cannot be put back.
+- Extraction cuts a segment out of a record of people who were cut off. The segment is surveyed in position first, because the line cannot be put back.
 **Cross-References:** The departure manifest, reproduced at the front of this file · the Cartographic Office decommissioning series · the Year 4199 dashed-route deaths · the Year 4231 Carriers' guild application · the Ways Register quarterly return
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** Sixty-one travellers named on a complete manifest, lost on a road that is no longer on any map and may not be put back on one.
@@ -426,7 +426,7 @@ The path carried the tracks and names of everyone who used it, and the names are
 
 ### No Arrival
 
-The journey ended without reaching anywhere and the file is built around that rather than around the collapse. Its principal document is the caravan manifest, recovered from the departure station, which lists who set out and what they were carrying and where they intended to be. The manifest is complete. It is the only complete document in the holding, is reproduced at the front of the file, and the archivist's note beneath it observes that everything else the facility holds about these people is a record of the thing that happened to them and that the manifest is a record of what they meant to do.
+The journey ended without reaching anywhere and the file is built around that rather than around the collapse. Its principal document is the caravan manifest, recovered from the departure station, which lists who set out and what they were carrying and where they intended to be. The manifest is complete. It is the only complete document in the holding, is reproduced at the front of the file. And the archivist's note beneath it observes that everything else the facility holds about these people is a record of the thing that happened to them and that the manifest is a record of what they meant to do.
 
 ### Walking the Line
 
@@ -438,7 +438,7 @@ The crystal carries load and does not deform, which makes the line itself the sa
 
 ### The Off-Line Voice
 
-What the off-line watch member says during a traverse is not specified, not recorded, and not reviewed. The requirement is only that they keep speaking. Most talk about nothing in particular, some read aloud, and one long-serving member of the watch is known to have recited the departure manifest end to end on every walk they made, which the file notes without comment in a line added by a successor after that person had retired. The practice has not been continued by anyone else and the line has not been removed.
+What the off-line watch member says during a traverse is not specified, not recorded, and not reviewed. The requirement is only that they keep speaking. Most talk about nothing in particular, some read aloud. And one long-serving member of the watch is known to have recited the departure manifest end to end on every walk they made, which the file notes without comment in a line added by a successor after that person had retired. The practice has not been continued by anyone else and the line has not been removed.
 
 Traverse pairs are drawn from the same watch rather than mixed across shifts, so that the person speaking and the person on the line already know each other's voice. The requirement was added after a traverse in which the two members had not worked together and the off-line speaker, being unfamiliar, was mistaken at one point for an echo that the trace should not have produced. Nothing came of it. The pairing rule was written the following week.
 
@@ -448,7 +448,7 @@ Traverse pairs are drawn from the same watch rather than mixed across shifts, so
 
 The first hypothesis was Han-storms, and it is in the file with its refutation attached — the storm series and the mass series do not correspond in any quarter. What corresponds is the Cartographic Office's **decommissioning return**: kilometres of route formally removed from the published maps. The running total is 2,300. The only quarters in which the mass has held steady are the quarters in which nothing was removed.
 
-Decommissioning is right, and the file argues for it rather than resenting it. A published map is a warranty that a road can be walked. An unmaintained alignment left on the sheet is a promise the Desolate will not keep, and it is kept by nobody: in Year 4199 a party of nine followed a former way, dashed on a hand copy of an old sheet, and none of them came back. The Office removes the line because the line kills people. Marking it *former*, dashing it, annotating it — all of these were tried on the Year 4186 sheets and all of them were followed.
+Decommissioning is right, and the file argues for it rather than resenting it. A published map is a warranty that a road can be walked. An unmaintained alignment left on the sheet is a promise the Desolate will not keep. And it is kept by nobody: in Year 4199 a party of nine followed a former way, dashed on a hand copy of an old sheet. And none of them came back. The Office removes the line because the line kills people. Marking it *former*, dashing it, annotating it — all of these were tried on the Year 4186 sheets and all of them were followed.
 
 What that produces, here, is a road that no longer exists in any published record, with sixty-one named people on it and 22.4 tonnes of crystal lying along its alignment, getting heavier each time the Office does the correct thing again.
 
@@ -458,7 +458,7 @@ The consequences of a removal are not written down anywhere as consequences, so 
 
 A search operation is authorised by reference to a mapped route; there is no form for an alignment that does not appear. Relief and supply are planned the same way. A coroner's inquiry into a disappearance on an unmapped way opens and closes on the same page, because the place where it happened has no designation to enter. And nothing may be sited at the end of a removed road: no marker, no stone, no name. A memorial is a destination, a destination generates traffic, and traffic on an unmaintained alignment is the Year 4199 party again.
 
-In Year 4231 the Desolate Carriers' guild applied for markers at the terminal points of removed ways — small, off-alignment, sited so that nobody would have to walk the road to reach one. The Office refused and the refusal is correct: an off-alignment marker still tells a reader where the alignment was, carriers navigate by landmark as readily as by sheet, and the Office cannot site a thing whose only purpose is to indicate a route it has a duty not to indicate. The guild's submission is in the Year 4232 return, marked *correct in principle, no action*, and the wing keeps a copy with the manifest.
+In Year 4231 the Desolate Carriers' guild applied for markers at the terminal points of removed ways — small, off-alignment, sited so that nobody would have to walk the road to reach one. The Office refused and the refusal is correct: an off-alignment marker still tells a reader where the alignment was, carriers navigate by landmark as readily as by sheet. And the Office cannot site a thing whose only purpose is to indicate a route it has a duty not to indicate. The guild's submission is in the Year 4232 return, marked *correct in principle, no action*, and the wing keeps a copy with the manifest.
 
 So the sixty-one are named, in a document the facility reproduces at the front of their file, and there is nowhere in the world that their names may lawfully be placed.
 
@@ -468,11 +468,11 @@ The resolution condition for this holding is *map the Trace and preserve the nam
 
 The Ways Register is an unpublished index, held by the Memory Archive rather than by the Cartographic Office, of every alignment that has been removed from the maps, with the departure manifests attached to those that have one. It is not a map and may not become one. It is closed: not to families, not to searchers, not to the guild, because disclosure on request is publication by instalments and the Office cannot distinguish a grieving son from a carrier looking for a shortcut. The Archive holds the only account of where these roads went and may show it to nobody.
 
-The return is filed quarterly under this designation. The mass falls by between 0.2 and 0.4 tonnes in the quarter a return is filed, which is the only downward movement anywhere in the series, and the effect is on the *filing*, not on the contents: a nil return filed on time produces it, and a complete return filed late does not.
+The return is filed quarterly under this designation. The mass falls by between 0.2 and 0.4 tonnes in the quarter a return is filed, which is the only downward movement anywhere in the series. And the effect is on the *filing*, not on the contents: a nil return filed on time produces it. And a complete return filed late does not.
 
 The lapse is printed in the file and not explained away. Between Year 4225 and Year 4228 four returns were missed, during a reorganisation in which the clerk responsible was reassigned and not replaced. The mass rose 3.1 tonnes across those four quarters, the largest movement in the record, and the subsidence beneath segments three and four dates from the same period and is permanent.
 
-The clerks still are not told. The wing considered telling them and decided against it, and the minute is honest about why: a filing task performed because it is the filing task gets done on the day it is due, and a containment measure performed by somebody who knows it is a containment measure gets a judgement applied to it. The post was made permanent instead, with a named deputy, which is the only part of this holding's containment that cost the facility money.
+The clerks still are not told. The wing considered telling them and decided against it. And the minute is honest about why: a filing task performed because it is the filing task gets done on the day it is due. And a containment measure performed by somebody who knows it is a containment measure gets a judgement applied to it. The post was made permanent instead, with a named deputy, which is the only part of this holding's containment that cost the facility money.
 
 ## Trivia
 

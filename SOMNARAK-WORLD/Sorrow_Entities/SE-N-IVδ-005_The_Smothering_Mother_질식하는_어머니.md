@@ -13,8 +13,8 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A ten-meter feminine figure, warm-fleshed despite her size, her skin dark and damp like a mother who has wept in the rain for years; her arms can stretch the full span of the containment room. Her face is beautiful and warm, her eyes hollow pits that drink the light. She reaches to enfold — the embrace of Soojin (수진), who lost her two children to the Han and will not let another child go. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Physical Form** | Organic |
+| **Movement** | Mobile in breach at the pace of someone searching a street, to the smallest person on the floor and to nobody else. |
 | **Location** | SECTOR-D-01, Zone D — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
@@ -30,7 +30,9 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Activation threshold** | 1 |
+| **SE Effect** | **On the breach** — The Mother spreads her embrace across the whole field, smothering all within reach. |
+| **Work Damage** | 4–7 Grudge — the cost is one attempt per shift — Threshold 1 opens the chamber, and an aborted worker does not try again that day |
+| **Activation threshold** | 1 failed cycle |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -55,7 +57,7 @@
 | **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 965/965 |
-| **Han Pressure [ATK]** | 20–44 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–54 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -78,10 +80,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Come Here, Child* [**Debuff**] } | "'Come here, child,' she says, and the warmth of it is a cage." | [The Mother reaches with an embrace that feels like safety; the target is marked by her attention.] | *Target suffers -10 Resilience; she will not stop following them.* **[10 Grudge DMG [Grudge]]** | When she singles out the small or the vulnerable. |
+| { *Come Here, Child* [**Debuff**] } | "'Come here, child,' she says. And the warmth of it is a cage." | [The Mother reaches with an embrace that feels like safety; the target is marked by her attention.] | *Target suffers -10 Resilience; she will not stop following them.* **[10 Grudge DMG [Grudge]]** | When she singles out the small or the vulnerable. |
 | { *The Too-Tight Hold* [**Debuff**] } | "Her arms tighten until love and suffocation become the same thing." | [The embrace becomes a restraint; the target cannot breathe, move, or pull away.] | *Target loses 10 Resilience and cannot repeat their last action.* **[10 Grudge DMG [Grudge]]** | When the target fails to escape her grasp. |
 | { *The Stern Hand* [**Attack**] } | "The hand that was meant to comfort comes down hard instead." | [The Mother strikes with the force of disappointed love — a blow that bruises body and spirit.] | *Inflicts Grudge pressure and one wound of rejected affection.* **[14-22 Grudge DMG [Grudge]]** | When the target resists or tries to flee. |
-| { *For Your Own Good* [**Attack**] } | "'This is for your own good,' she says, and means it — and that is the worst part." | [The Mother channels every protective instinct into one devastating, suffocating blow.] | *A crushing Crimson hit; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When she is wounded or her target threatens to leave. |
+| { *For Your Own Good* [**Attack**] } | "'This is for your own good,' she says. And means it — and that is the worst part." | [The Mother channels every protective instinct into one devastating, suffocating blow.] | *A crushing Crimson hit; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When she is wounded or her target threatens to leave. |
 | { *The Final Embrace* [**Ultimate**] } | "She opens her arms wide enough to hold everyone — and will not let any of them go." | [The Mother spreads her embrace across the whole field, smothering all within reach.] | *All personnel suffer Grudge pressure for three turns as she closes in.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -119,7 +121,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ten-meter feminine figure, crystal at distance and flesh near to, with a room-wide reach. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. The Smothering Mother file carries the series rather than a single reading. |
+| **Position / movement** | Mobile in breach at the pace of someone searching a street, toward the smallest person on the floor. The Smothering Mother file carries the series rather than a single reading. |
 | **Material / signature** | Grudge. Dark damp surface, hollow light-drinking eyes, 37°C, and a lullaby audible through the door. |
 | **Distinctive markers** | Arm extension against the painted line, interval between reaches, room temperature, and whether the lullaby stops when the door opens. |
 | **Identification** | If the room is cold, this is not her, whatever the door says. |
@@ -130,17 +132,17 @@
 - **Formation:** From Soojin (수진), a Zone B labourer, after both her children were taken by the Han in a single season and neither could be certified dead.
 - **The Sorrow:** Not the loss. The condition of a loss that no office will write down as a loss, which cannot be concluded, and therefore cannot be mourned in any way the city recognises.
 - **The Event:** Both children were taken from a Zone B street by a Han overflow. Nothing was left to recover. Soojin searched until her feet bled, then applied to the Family Office for certificates and was refused eleven times for want of a body, a recovery, or a witness who was not herself. The Crack opened where her heart was. The grief took three months to harden.
-- **The People:** Soojin (수진); her son and daughter, whose names exist in the city's records only inside eleven refusals; and the Family Office clerks who wrote the refusals correctly.
+- **The People:** Soojin (수진); her son and daughter, whose names exist in the city's records only inside eleven refusals. And the Family Office clerks who wrote the refusals correctly.
 - **Expanded origin context:** Soojin applied for a certificate of death for each child, eleven times over four years, and was refused eleven times for the same reason: there was no body, nothing recovered, and no witness to the taking but herself. The Family Office is not permitted to certify a death on the account of the person who would benefit from it, and nothing she brought was anything else. Her applications survive because the Office kept applications. Her children survive in the record only as the subject of those applications: two names, two ages, a district, and a season — entered by a clerk, in a refusal.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Weeps with the worker. The arms come down for the duration and the gauge falls further than any other work has moved it. | Decrease |
-| **Pugnahan** (Confrontation) | Read as a child struggling, not as an attack, and answered with a tighter hold. | Increase |
-| **Viderehan** (Observation) | Permits it entirely and does not acknowledge it. The gauge does not move in either direction. | Stable |
-| **Ferrehan** (Endurance) | Worked at the line and never in contact: the worker stays the full interval without withdrawing, and her distress eases. | Decrease |
+| **Flerehan** (Tears) | Weeps with the worker. The arms come down for the duration and the gauge falls further than any other work has moved it. | Decrease · High |
+| **Pugnahan** (Confrontation) | Read as a child struggling, not as an attack, and answered with a tighter hold. | Increase · Low |
+| **Viderehan** (Observation) | Permits it entirely and does not acknowledge it. The gauge does not move in either direction. | Stable · Common |
+| **Ferrehan** (Endurance) | Worked at the line and never in contact: the worker stays the full interval without withdrawing, and her distress eases. | Decrease · Common |
 
 ### Special Behaviors
 - A complete embrace takes 4.7 seconds from first contact to full closure, measured across sixty-one logged instances with no variance beyond a tenth.
@@ -151,7 +153,7 @@
 
 ### Operational Work Notes
 
-The table is one input of several. Out here, what a steady gauge is worth is settled by the SECC code taken together with the coherence level. The Mother carries the Subject-Body filing, Grudge as her element, at SECTOR-D-01 in Zone D, contained. Two cautions belong with the entry. Whatever the resemblance of names, nothing here is inherited from another file — her neighbours are filed apart, and none of that group is her — and a gauge that does not move is not proof of a safe watch, since she can hold steady while the hour is spent on recollection, on the floor of the room, or on the name a worker came in under, and that watch's price is paid later, where the page does not show it.
+The table is one input of several. Out here, what a steady gauge is worth is settled by the SECC code taken together with the coherence level. The Mother carries the Subject-Body filing, Grudge as her element, at SECTOR-D-01 in Zone D, contained. Two cautions belong with the entry. Whatever the resemblance of names, nothing here is inherited from another file — her neighbours are filed apart. And none of that group is her — and a gauge that does not move is not proof of a safe watch, since she can hold steady while the hour is spent on recollection, on the floor of the room, or on the name a worker came in under. And that watch's price is paid later, where the page does not show it.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
@@ -183,7 +185,7 @@ The table is one input of several. Out here, what a steady gauge is worth is set
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : A massive three-foot butcher cleaver devoid of a thrusting tip, forged from heavy spring steel with a reinforced rectangular spine and a thick oak handle bound in raw sinew.
+**Appearance:** A massive three-foot butcher cleaver devoid of a thrusting tip, forged from heavy spring steel with a reinforced rectangular spine and a thick oak handle bound in raw sinew.
 
 The sheer mass of the blade delivers devastating chopping strikes capable of severing thick bone and dense chitin. The flat edge is honed to a razor bevel that bites cleanly without jamming.
 
@@ -199,9 +201,9 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 **Falloff Rule:** 100% damage to the selected target; hooks and pulls target into Close range.
 **Damage Application:** Direct Grudge trauma to the Body, with a hold the bearer cannot release before the pattern completes — the cleaver reproduces her grip and not her restraint, which is the half of her the extraction could not take.
 
-**Ability:** Deals Grudge damage to the Body and channels the Mother's signature as *Bring Them Back*. It triggers when a marked ally is fleeing, falling, or being pulled away, or when a hostile target tries to disengage; against a hostile, the Weapon clamps and drags it into point-blank reach, while for a willing ally it serves as an emergency tether. It cannot distinguish care from possession; repeated use on the same ally creates resistance and panic.
+**Ability:** Deals Grudge damage to the Body and channels the Mother's signature as *Bring Them Back*. It triggers when a marked ally is fleeing, falling, or being pulled away, or when a hostile target tries to disengage. Against a hostile, the Weapon clamps and drags it into point-blank reach, while for a willing ally it serves as an emergency tether. It cannot distinguish care from possession; repeated use on the same ally creates resistance and panic.
 
-**Cost:** Each use recalls a person who left without returning. After three uses in one encounter, a Composure check determines whether the bearer refuses nearby allies' retreat. The primary's field record also notes aching old wounds, severe bruising, and panic when allies move out of reach; track these signs separately.
+**Bearer cost:** Each use recalls a person who left without returning. After three uses in one encounter, a Composure check determines whether the bearer refuses nearby allies' retreat. The primary's field record also notes aching old wounds, severe bruising, and panic when allies move out of reach; track these signs separately.
 
 ### M.A.W. Suit — The Embrace Plate
 
@@ -209,7 +211,7 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 
 **Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch on the rack, that shifts and breathes as though it had been fitted around someone larger.
 
-Its overlapping plates curve inward like arms; when a marked ally within five metres takes a direct physical hit, they tighten notch by notch, the inner metal warms, and the central buckle dims red.
+Its overlapping plates curve inward like arms. When a marked ally within five metres takes a direct physical hit, they tighten notch by notch, the inner metal warms, and the central buckle dims red.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -219,40 +221,40 @@ Its overlapping plates curve inward like arms; when a marked ally within five me
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grudge resistance protects the Body. *Closed Circle* absorbs a portion of a direct physical hit to a marked ally within five metres, reducing that ally's impact once per encounter; the wearer's movement speed drops one tier until the pressure is released through rest, Ferrehan, or the encounter's end.
+**Ability:** Grudge resistance protects the Body. *Closed Circle* absorbs a portion of a direct physical hit to a marked ally within five metres, reducing that ally's impact once per encounter. The wearer's movement speed drops one tier until the pressure is released through rest, Ferrehan, or the encounter's end.
 
-**Cost:** The wearer's reflexes dull while the armor is active, as if armored by resentment; each protected ally begins to feel like someone the wearer alone is responsible for saving.
+**Bearer cost:** The wearer's reflexes dull while the armor is active, as if armored by resentment. Each protected ally begins to feel like someone the wearer alone is responsible for saving.
 
 ### M.A.W. Stigma — The Embrace
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** an embrace-clasp of dark, warm Grudge Han-iron, shaped as two small arms meeting at the wrists; it turns cold when its source sorrow is close enough to be felt.
+**Appearance:** an embrace-clasp of dark, warm Grudge Han-iron, shaped as two small arms meeting at the wrists. It turns cold when its source sorrow is close enough to be felt.
 
-The overlapping hands fasten without a cord to a seam, belt loop, or tail attachment; nearby fear tightens and warms the clasp, which loosens as fear passes and leaves a faint red mark after a night in use.
+The overlapping hands fasten without a cord to a seam, belt loop, or tail attachment. Nearby fear tightens and warms the clasp, which loosens as fear passes and leaves a faint red mark after a night in use.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +3 stat bonus while working the source holding, entered at issue against the wielder's name
 
-**Ability:** The Stigma slightly redistributes impact toward the bearer when a nearby ally would be knocked down by a physical hit. Once per day, *Hold Fast* prevents one adjacent ally from being moved, pulled, or knocked down for ten seconds; it blocks voluntary as well as forced movement.
+**Ability:** The Stigma slightly redistributes impact toward the bearer when a nearby ally would be knocked down by a physical hit. Once per day, *Hold Fast* prevents one adjacent ally from being moved, pulled, or knocked down for ten seconds. It blocks voluntary as well as forced movement.
 
-**Cost:** The bearer becomes compelled to keep nearby people within sight. After *Hold Fast*, leaving the protected ally behind causes escalating Composure loss until a clear confirmation that the ally is safe.
+**Bearer cost:** The bearer becomes compelled to keep nearby people within sight. After *Hold Fast*, leaving the protected ally behind causes escalating Composure loss until a clear confirmation that the ally is safe.
 
 *Eleven Embraces have ever been given. The number is the number of times Soojin applied for a certificate, which the extraction wing has recorded as a coincidence, in those words, in a note that nobody in the chamber accepts.*
 
 ### M.A.W. Use Notes
 
-Nothing in these pieces cancels the Mother's embrace or makes contact safe. Side Codex A names the full-set resonance *Let No One Go*: while wearing all three pieces and guarding a vulnerable ally, the bearer can intercept one direct Grudge strike aimed at that ally; the bearer then cannot voluntarily retreat until the encounter ends or another person takes responsibility for the protection. Keep this set-level lock distinct from individual abilities: *Bring Them Back* can tether a willing ally or drag a hostile target, *Closed Circle* reduces one marked ally's direct physical hit once per encounter at the cost of slower movement, and *Hold Fast* controls one adjacent ally for ten seconds, including voluntary movement. Their tolls also remain separate: remembered departure and the three-use Composure threshold; dulled reflexes and sole-responsibility pressure; and visual-surveillance compulsion with post-use Composure loss. The primary's additional aching-wound, bruising, and panic reports remain distinct field signs rather than substitutes for the linked item's cost.
+Nothing in these pieces cancels the Mother's embrace or makes contact safe. Side Codex A names the full-set resonance *Let No One Go*: while wearing all three pieces and guarding a vulnerable ally, the bearer can intercept one direct Grudge strike aimed at that ally. The bearer then cannot voluntarily retreat until the encounter ends or another person takes responsibility for the protection. Keep this set-level lock distinct from individual abilities: *Bring Them Back* can tether a willing ally or drag a hostile target, *Closed Circle* reduces one marked ally's direct physical hit once per encounter at the cost of slower movement, and *Hold Fast* controls one adjacent ally for ten seconds, including voluntary movement. Their tolls also remain separate: remembered departure and the three-use Composure threshold; dulled reflexes and sole-responsibility pressure; and visual-surveillance compulsion with post-use Composure loss. The primary's additional aching-wound, bruising, and panic reports remain distinct field signs rather than substitutes for the linked item's cost.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, each piece issued, marked ally, and dated baseline of old wounds; record whether the Weapon bearer passed the no-force Mother hold-response evaluation. If the full set is worn, document the vulnerable ally being guarded, the expected Grudge threat, and who can formally assume protection if the bearer cannot retreat. |
-| **During use** | The second worker logs the hour old wounds begin to ache and keeps the bearer's account separate. For *Bring Them Back*, count uses and record the trigger, ally's willingness, and whether a hostile was pulled; at the third use in one encounter, log the Composure check. For *Closed Circle*, record the marked ally, five-metre distance, direct physical hit, once-per-encounter use, and movement loss. For the Stigma, record passive impact redirection or *Hold Fast* use, daily-use status, adjacency, start and end times, and whether movement blocked was voluntary or forced. If the full set is worn, record whether it intercepts a direct Grudge strike and the resulting retreat lock or hand-off. |
+| **Before use** | Wielder, each piece issued, marked ally, and dated baseline of old wounds. Record whether the Weapon bearer passed the no-force Mother hold-response evaluation. If the full set is worn, document the vulnerable ally being guarded, the expected Grudge threat, and who can formally assume protection if the bearer cannot retreat. |
+| **During use** | The second worker logs the hour old wounds begin to ache and keeps the bearer's account separate. For *Bring Them Back*, count uses and record the trigger, ally's willingness, and whether a hostile was pulled. At the third use in one encounter, log the Composure check. For *Closed Circle*, record the marked ally, five-metre distance, direct physical hit, once-per-encounter use, and movement loss. For the Stigma, record passive impact redirection or *Hold Fast* use, daily-use status, adjacency, start and end times, and whether movement blocked was voluntary or forced. If the full set is worn, record whether it intercepts a direct Grudge strike and the resulting retreat lock or hand-off. |
 | **At limit** | Record deep bruising, dull reflexes or one-tier movement loss, panic as allies leave reach, and any post-*Hold Fast* Composure loss. If the full-set retreat lock applies, record whether another person formally assumed responsibility; do not merge this set-level lock with an item's single-use trigger. |
-| **After use** | Return the piece and reassess one week later. Record bruising, old-wound pain, movement/reflex recovery, Composure, and whether the bearer can leave a protected ally after responsibility is transferred; retain the weapon's remembered-departure account separately from the primary's field signs. |
+| **After use** | Return the piece and reassess one week later. Record bruising, old-wound pain, movement/reflex recovery, Composure, and whether the bearer can leave a protected ally after responsibility is transferred. Retain the weapon's remembered-departure account separately from the primary's field signs. |
 
 **Stat interpretation:** The grade is about extraction stability and was never a statement about the person holding the item. A piece can grade well and still take a toll no figure on the sheet covers — this set is the standing example, and it is graded the way it is graded.
 ## 관찰 기록 (Observation Log)
@@ -303,7 +305,7 @@ The containment logs put the hardening here: over three months the grief turned 
 
 ## 최종 관찰 (Final Observation)
 
-> The watch on the Mother ends one of two ways, and the difference is what the observer does with the instinct the room produces: one keeps to the sheet and stays on the far side of the embrace, and the other tries to give her what she is asking for.
+> The watch on the Mother ends one of two ways. And the difference is what the observer does with the instinct the room produces: one keeps to the sheet and stays on the far side of the embrace. And the other tries to give her what she is asking for.
 
 | Hold to the revised condition: read the accepted Presumption Return entry at the line in both children's names, exactly as published. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
@@ -316,11 +318,11 @@ She opens her arms, and your body moves before your mind decides. The embrace is
 
 
 
-**At first contact:** The door opens onto a room at body heat, which is the first thing anybody notices and the thing nobody is ready for. She is already facing the door. At the far wall she reads as dark crystal, hard-edged and matte; inside four meters she reads as skin, warm and damp, and both readings are in the file as correct because the watch has never been able to say where one becomes the other. Then the arms begin to come out, slowly, and stop at the painted line.
+**At first contact:** The door opens onto a room at body heat, which is the first thing anybody notices and the thing nobody is ready for. She is already facing the door. At the far wall she reads as dark crystal, hard-edged and matte. Inside four meters she reads as skin, warm and damp, and both readings are in the file as correct because the watch has never been able to say where one becomes the other. Then the arms begin to come out, slowly, and stop at the painted line.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 
-**When the entity activates:** The shift is physical. The body-heat temperature remains the recorded constant; log the arms against the line and the interval between reaches rather than treating a temperature swing as her established activation marker. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** The shift is physical. The body-heat temperature remains the recorded constant. Log the arms against the line and the interval between reaches rather than treating a temperature swing as her established activation marker. The Subject-Body has crossed the line between containing and becoming.
 
 **After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.
 
@@ -337,13 +339,13 @@ The Smothering Mother is the most heavily paired holding in Zone D, because she 
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Silent Child** | Holds the Child and does not close the hold — the single occasion in the record of a grip she opens herself, after four minutes, unprompted. | Both gauges fall. The reach interval afterwards lengthens for about a week before resuming its decline. | Record the duration of the hold, who ended it, and the interval on the following seven days. |
-| **The Kind Healer** | The two face each other and do nothing at all for the length of the session, which the wing has logged eleven times and still files as an interaction. | No measurable effect on either holding. Personnel present describe the room as unbearable and cannot say why. | Record the facing, the duration, and the crew's own account; the crew account is the only data this pairing produces. |
-| **The Orphaned Bell** | Weeps through the tolling, arms lowered, and does not reach once while it sounds. | The only reliable suppression of the reach. The wing has declined to use it routinely on the ground that it is done to her, not for her. | Record the tolling times against the reach log and file the decision not to routinise it with every request. |
-| **The Grieving Colossus** | Stops at the sight of it and stays stopped. Neither approaches the other at any point in six pairings. | Recognition without contact; gauges steady on both sides. | Record the distance held, which has been within half a meter of the same figure on all six occasions. |
-| **The Hollow Choir** | The Choir takes up her lullaby and sings it back, in the same unmatched language, which is the strongest evidence the Archive has that the language is real. | Resonance across the wing; personnel two corridors away report hearing it. Her gauge rises slowly throughout. | Notate both renderings and lodge them with the Archive's language section, which has asked for every instance. |
+| [**The Silent Child**](SE-N-Iα-025_The_Silent_Child_조용한_아이.md) | Holds the Child and does not close the hold — the single occasion in the record of a grip she opens herself, after four minutes, unprompted. | Both gauges fall. The reach interval afterwards lengthens for about a week before resuming its decline. | Record the duration of the hold, who ended it, and the interval on the following seven days. |
+| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | The two face each other and do nothing at all for the length of the session, which the wing has logged eleven times and still files as an interaction. | No measurable effect on either holding. Personnel present describe the room as unbearable and cannot say why. | Record the facing, the duration, and the crew's own account; the crew account is the only data this pairing produces. |
+| [**The Orphaned Bell**](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | Weeps through the tolling, arms lowered, and does not reach once while it sounds. | The only reliable suppression of the reach. The wing has declined to use it routinely on the ground that it is done to her, not for her. | Record the tolling times against the reach log and file the decision not to routinise it with every request. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Stops at the sight of it and stays stopped. Neither approaches the other at any point in six pairings. | Recognition without contact; gauges steady on both sides. | Record the distance held, which has been within half a meter of the same figure on all six occasions. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | The Choir takes up her lullaby and sings it back, in the same unmatched language, which is the strongest evidence the Archive has that the language is real. | Resonance across the wing; personnel two corridors away report hearing it. Her gauge rises slowly throughout. | Notate both renderings and lodge them with the Archive's language section, which has asked for every instance. |
 
-**Interaction procedure:** One pairing at a time, from outside the line, with the reach interval timed before and after. Nothing is ever placed inside the chamber to provoke a reaction — a proposal to do so with a child-sized mannequin was put forward in Year 4230, approved at wing level, and withdrawn after the chamber staff asked that the approving officer sign the order in the chamber.
+**Interaction procedure:** One pairing at a time, from outside the line, with the reach interval timed before and after. Nothing is ever placed inside the chamber to provoke a reaction — a proposal to do so with a child-sized mannequin was put forward in Year 4230, approved at wing level. And withdrawn after the chamber staff asked that the approving officer sign the order in the chamber.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -377,12 +379,12 @@ Some sorrows mourn a child. This one cannot, because mourning is a status and th
 **Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Critical (δ). Facility-threatening by reach and by breach, with no deliberate harm anywhere in the record. The danger is a hold that the held person stops wanting to leave, and a chamber the facility does not in fact control.
 **Containment & Handling Procedures:**
-- Flerehan is the primary work and the only one that has ever lowered the gauge by more than a few points; Ferrehan is permitted and is worked at the line, never in contact.
+- Flerehan is the primary work and the only one that has ever lowered the gauge by more than a few points. Ferrehan is permitted and is worked at the line, never in contact.
 - The painted line at arm's length is the containment. It is repainted before it fades, from outside, by the watch.
 **Observation Notes:**
 - Reach interval in the empty room: 41 minutes, then 29, now 21, over the life of the holding.
 - Chamber held at 37°C by the entity, unbroken, including through two facility power failures.
-**Cross-References:** The Silent Child · The Orphaned Bell · The Grieving Colossus · The Kind Healer · The Hollow Choir · the Family Office certification rule · the Presumption Return
+**Cross-References:** [The Silent Child](SE-N-Iα-025_The_Silent_Child_조용한_아이.md) · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) · [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) · [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) · the Family Office certification rule · the Presumption Return
 **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · Wound Walkers, on the Fracture reading · Judexhan, attending on the δ-grade high-threat list
 **Originator:** Soojin (수진), Zone B labourer. Two children taken by the Han in one season, neither recovered, neither certified. Eleven applications refused. The Crack opened where her heart was and the grief took three months to crystallize.
 
@@ -395,7 +397,7 @@ Some sorrows mourn a child. This one cannot, because mourning is a status and th
 
 ### The Reach
 
-She reaches for everyone who enters and the reaching is not an attack. This single fact governs the chamber and is the hardest thing the protocol has to teach, because every instinct a trained worker brings to a ten-meter figure extending its arms across a room is wrong here, and acting on those instincts has produced the chamber's only serious injuries. Personnel are instructed to remain still, to allow the approach, and to withdraw at an ordinary walking pace when the shift ends. They are not instructed to accept contact. The distinction is drawn carefully in the material: the reaching is permitted to happen, the holding is not, and the space between those two is measured in the arm's length that the marked floor preserves.
+She reaches for everyone who enters and the reaching is not an attack. This single fact governs the chamber and is the hardest thing the protocol has to teach, because every instinct a trained worker brings to a ten-meter figure extending its arms across a room is wrong here. And acting on those instincts has produced the chamber's only serious injuries. Personnel are instructed to remain still, to allow the approach, and to withdraw at an ordinary walking pace when the shift ends. They are not instructed to accept contact. The distinction is drawn carefully in the material: the reaching is permitted to happen, the holding is not, and the space between those two is measured in the arm's length that the marked floor preserves.
 
 ### Soojin
 
@@ -415,19 +417,19 @@ During a breach she seeks the vulnerable and the small, and the response plan is
 
 ### The Empty Room
 
-When the chamber is unoccupied she reaches anyway, into the space where entrants stand, at the same slow interval. The observation is logged from outside and the log runs continuously, which makes it one of the few records the holding maintains of an entity's behaviour when no one is present to be affected by it. The series has no operational application. It is kept because an early observer argued that the facility had taken a great deal of care to describe what she does to people and none at all to describe what she does when there is nobody there, and because the commander of the day read the argument and agreed with it.
+When the chamber is unoccupied she reaches anyway, into the space where entrants stand, at the same slow interval. The observation is logged from outside and the log runs continuously, which makes it one of the few records the holding maintains of an entity's behaviour when no one is present to be affected by it. The series has no operational application. It is kept because an early observer argued that the facility had taken a great deal of care to describe what she does to people and none at all to describe what she does when there is nobody there. And because the commander of the day read the argument and agreed with it.
 
 ### The Marked Floor
 
-The arm's-length line on the chamber floor is repainted before it fades rather than after, on a schedule set by the watch and not by maintenance. Repainting is done from outside the line, with a long-handled tool kept for the purpose, and the tool is stored at the door where anyone can see whether it has been used. None of this is required by the protocol. It was established by the first watch, has been handed on unbroken, and appears in the file only as a note added years later by a commander who discovered the practice already in place and wrote it down so that it would not be lost if the handing-on ever broke.
+The arm's-length line on the chamber floor is repainted before it fades rather than after, on a schedule set by the watch and not by maintenance. Repainting is done from outside the line, with a long-handled tool kept for the purpose, and the tool is stored at the door where anyone can see whether it has been used. None of this is required by the protocol. It was established by the first watch, has been handed on unbroken. And appears in the file only as a note added years later by a commander who discovered the practice already in place and wrote it down so that it would not be lost if the handing-on ever broke.
 
 ### What the Reach Interval Is Measuring
 
 Twenty-one minutes. It was twenty-nine, and before that forty-one, and the figure is taken from the external log of the empty chamber — the series the holding keeps of what she does when there is nobody there to be held. She reaches into the space where entrants stand, to the painted line, at an interval that has shortened at every measurement since the series began.
 
-It does not follow the Tide, the rostering, the room temperature or the pairing schedule; all four have been regressed against it and all four were dropped. It follows the Family Office's annual return of **uncertified losses**: people reported taken, lost or missing, where no body was recovered, no remains were identified, and no witness exists who is not an interested party. The current return carries 9,318 of them. The number has risen every year the holding has existed.
+It does not follow the Tide, the rostering, the room temperature or the pairing schedule. All four have been regressed against it and all four were dropped. It follows the Family Office's annual return of **uncertified losses**: people reported taken, lost or missing, where no body was recovered, no remains were identified, and no witness exists who is not an interested party. The current return carries 9,318 of them. The number has risen every year the holding has existed.
 
-A death in this city must be certified before anything proceeds, and certification requires evidence that is not the word of the person who benefits. There is no softer version of this rule and there should not be. Before it, a certificate could be had on the say-so of whoever brought the application, and property moved, pensions moved, guardianships moved, remarriages happened; the Year 4188 commission found 2,606 certificates granted on uncorroborated statements and could not determine how many of the people concerned were alive. The rule that refused Soojin eleven times is the rule that stopped that.
+A death in this city must be certified before anything proceeds, and certification requires evidence that is not the word of the person who benefits. There is no softer version of this rule and there should not be. Before it, a certificate could be had on the say-so of whoever brought the application. And property moved, pensions moved, guardianships moved, remarriages happened. The Year 4188 commission found 2,606 certificates granted on uncorroborated statements and could not determine how many of the people concerned were alive. The rule that refused Soojin eleven times is the rule that stopped that.
 
 Its consequence is a class of person the city cannot describe. Not alive, not dead, nothing released, nothing concluded, no inquest, no memorial line, and for the mother no status as a mother of the dead — only an applicant who may reapply if circumstances change. Soojin reapplied for four years. Then the Crack opened. There is a ten-meter figure in SECTOR-D-01 reaching into an empty room on a clock, and the clock runs faster every year because the backlog does.
 
@@ -435,9 +437,9 @@ Its consequence is a class of person the city cannot describe. Not alive, not de
 
 Instituted Year 4219, after the chamber's own submission and two others like it. An applicant whose loss cannot be certified may, after three years, attend the Family Office in person, give an account of the loss and of the search, and have a **presumption** entered against the names. The presumption is published annually in a public return.
 
-It certifies nothing. That is the whole design and it is stated on the form: no inquest follows, no effects are released, no payment arises, no guardianship or succession moves, no entry is made on any memorial, and the presumption may be revoked without hearing if evidence appears. Year 4237: 7,041 presumptions standing; 0 certificates issued in consequence; 0 payments; 0 effects released; and 1,890 presumptions lapsed for want of renewal, because a presumption must be renewed every year, in person, with the account given again from the beginning.
+It certifies nothing. That is the whole design and it is stated on the form: no inquest follows, no effects are released, no payment arises, no guardianship or succession moves, no entry is made on any memorial, and the presumption may be revoked without hearing if evidence appears. Year 4237: 7,041 presumptions standing; 0 certificates issued in consequence. 0 Payments; 0 effects released; and 1,890 presumptions lapsed for want of renewal, because a presumption must be renewed every year, in person, with the account given again from the beginning.
 
-The cost falls on people the Company cannot compensate and did not create: the attendance is unpaid, the account is given aloud across a counter in a public hall, and the renewal means giving it annually, in some cases for decades, to a different clerk each time. Soojin never attended one. She was already in the chamber when it was instituted. The chamber attends for her: the watch commander files the renewal in both children's names every year, is permitted to do so as an interested institution, and has been refused the right to do it by post on each of the eighteen occasions it has been requested, correctly, because the attendance is the evidence that somebody is still asserting the loss.
+The cost falls on people the Company cannot compensate and did not create: the attendance is unpaid, the account is given aloud across a counter in a public hall. And the renewal means giving it annually, in some cases for decades, to a different clerk each time. Soojin never attended one. She was already in the chamber when it was instituted. The chamber attends for her: the watch commander files the renewal in both children's names every year, is permitted to do so as an interested institution. And has been refused the right to do it by post on each of the eighteen occasions it has been requested, correctly, because the attendance is the evidence that somebody is still asserting the loss.
 
 The chamber asked for one more thing: leave for a name to be cut on the public memorial under a standing presumption, with the presumption's qualification carved beside it. Refused. A memorial entry follows a certificate, a certificate follows evidence, and a name cut in stone outlives every qualification carved next to it. The refusal is correct and the wing has never disputed it. The chamber's submission stands in the Year 4226 return, recorded as correct and unanswered, and a copy is pinned inside the observation post next to the reach log.
 
@@ -447,7 +449,7 @@ In Year 4228 the condition was rewritten, after nine years in which the file dem
 
 What is done instead: when the renewal is accepted, the watch commander enters the chamber to the line and reads the published entry aloud — both names, both ages, the district, the season, the date of the presumption and the date of its renewal. It is the Family Office's own wording and nothing is added to it. The gauge falls between eleven and nineteen points and stays down for most of a month. The reach interval is unaffected, every year, which the file records plainly rather than explaining.
 
-The chamber's standing note on the practice is four lines long and is read to every new worker before their first shift: that this is not therapy and is not a resolution; that it is the only thing the city has that acknowledges the two of them at all; that it has to be done in person and aloud because that is what the Office requires of everybody; and that the person doing it should expect to be reached for while they do it, and should stay behind the line.
+The chamber's standing note on the practice is four lines long and is read to every new worker before their first shift: that this is not therapy and is not a resolution. That it is the only thing the city has that acknowledges the two of them at all. That it has to be done in person and aloud because that is what the Office requires of everybody. And that the person doing it should expect to be reached for while they do it. And should stay behind the line.
 
 ## Trivia
 

@@ -65,14 +65,3 @@ Its chest plate now softens at the word “will” unless a present resource fol
 Seed identifies the longing, Plate withstands anger without false comfort, and Fang clears the current departure. Resonance hardens whenever hope becomes guarantee.
 
 > *“The armor released when care became something I could do now instead of something I claimed the future would do.”* — Gate Medic Felix Kim
-
----
-
-**Document ID:** `SE-627-C`  
-**Linked Entity:** `SE-627`  
-**Item Registry Code:** `MAW-S-627-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

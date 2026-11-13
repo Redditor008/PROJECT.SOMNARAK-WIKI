@@ -8,4 +8,4 @@
 | SE-693 Undercurrent | **4/4** |
 | SE-709 Ungrievingness | **4/4** |
 
-Formal IDs `683`, `686`, `689`, `693`, and `709` have no identified collision. Primary SECC, combat, behavior, activation, and M.A.W. blocks are authoritative. Coverage: **164/285 — 57.5%**. Remaining: **121/285 — 42.5%**. Folder: **5/5 entities; 20/20 codices**. Next: **SE-716 Double Mouth — 0/4**. Packaged only in unified `Registry_Codex_Sets.zip`.
+Formal IDs `683`, `686`, `689`, `693`, and `709` have no identified collision. Primary SECC, combat, behavior, activation, and M.A.W. blocks are authoritative. Coverage at folder close: **164/285 — 57.5 %**, with **121/285 — 42.5 %** still to write. Folder: **5/5 entities; 20/20 codices**. Next at the time: **SE-716 Double Mouth — 0/4**. The archive has since finished at **284 of 285 entity sets complete**. Packaged only in unified `Registry_Codex_Sets.zip`.

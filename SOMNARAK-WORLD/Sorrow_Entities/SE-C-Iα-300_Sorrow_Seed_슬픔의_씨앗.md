@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-300 [D]` |
-| **Entity Type** | **Subject** — Non-breaching: manifestation in place; no activation trigger known. The Seed has never been planted and the prohibition on attempting it is unconditional; what the file calls activation is its observer-independent overnight crawl, not germination. |
-| **Coherence** | Residue (I) — Barely formed, dormant |
+| **Entity Type** | **Subject** — Non-breaching: manifestation in place |
+| **Coherence** | Residue (I) — Barely formed |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
-| **Manifestation** | Object-Weight |
-| **Physical Form** | Mixed — A seed cracked and sending out a thick pulsing tendril — a small mobile root-creature, warm and beating like a heart, dragging itself toward soil. Lead-warm, it smells of wet stone. |
+| **Manifestation** | Subject-Weight |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — drags itself on one tendril, 4–31 cm per night, always along a single bearing. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -30,17 +30,18 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle — the lowest sustained figure anywhere in the wing, and level across two hundred and sixty years of watching |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | None — the Weight it draws is spent in the chamber and not carried out; the worker leaves with what they brought in. |
+| **Activation threshold** | None recorded. Gauge has moved once in two hundred and sixty years, by seven points, in Year 4229 |
 | **Tool / M.A.W. grade** | O-Relic · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Measure and leave. Viderehan and Ferrehan only; the bed is not disturbed, the Seed is not lifted, turned or cleaned, and no gauge reduction is attempted because none has ever been achieved. |
+| **Recommended response** | Measure and leave. Viderehan and Ferrehan only; the bed is not disturbed, the Seed is not lifted, turned or cleaned, and gauge reduction is not the objective of the watch. |
 
 ### Operational Notes
 
 - In two hundred and sixty years of record the Seed has not germinated, has not spoiled and has not changed in any measurable property. The soil around it is ordinary Gardens soil and has been tested nine times.
 - Work settles the observers. The Seed is unchanged by it, and no cycle in the record has produced any sign of growth, decay, or response of any kind.
-- Ferrehan is primary and Viderehan the reading instrument; the Registrum's entry naming Viderehan primary has been corrected against the Behavior table, which has shown Viderehan Stable and Ferrehan Decrease for as long as the table has existed.
+- Ferrehan is primary and Viderehan the reading instrument. Viderehan has read Stable and Ferrehan Decrease for as long as the table has existed, which is why the reading instrument is not the work.
 - No breach counter. The daily crawl and bearing are chalked and photographed before anything else happens in the chamber, and the previous night's figures are read aloud at the start of the watch.
 - Residue is collected from the bed under separate authorization. The standing prohibition on speaking of one's own losses inside the enclosure binds collection staff identically and is not waived for short visits.
 
@@ -51,7 +52,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 4–31 cm per night along one bearing; the chamber's earlier entry of "fixed object" is withdrawn and the crawl log runs to two hundred and twenty-four readings |
+| **Speed** | 4–31 cm per night along one bearing. The chamber's earlier entry of "fixed object" is withdrawn and the crawl log runs to two hundred and twenty-four readings |
 | **Resistance** | 15% against Weight pressure and 5% against every other kind — the resistance of a stone, and nothing in the file improves it |
 | **Activation threshold** | None recorded. Gauge has moved once in two hundred and sixty years, by seven points, in Year 4229 |
 | **Sorrow Gauge [HP]** | 174/174 |
@@ -66,7 +67,7 @@
 |---|---|
 | **Battle Length** | Short — 10 turns |
 | **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) — Barely formed, dormant |
+| **Coherence** | Residue (I) — Barely formed |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
@@ -76,19 +77,21 @@
 
 ### Combat Actions
 
+The Seed does not attack in these rows. The bracketed Weight values are the combat model's way of scoring Resolve and pressure consequences when a crawl, bearing or commutation return is read. The actual session remains a measurement, and no row authorises confrontation with the Seed.
+
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Bearing* [**Debuff**] } | "It has turned in the night, and it is pointing at your roster." | [The tendril settles on a new line; the chalk is redrawn.] | *The named observer loses 10 Resolve; the figure must still be written down.* **[10 Weight DMG [Weight]]** | When the bearing changes. |
-| { *Four Centimetres* [**Debuff**] } | "A night's travel. Nothing has grown. Something has arrived four centimetres closer." | [The overnight crawl is measured off the chalk line.] | *Target loses 10 Resolve; no reading has ever been nought.* **[10 Weight DMG [Weight]]** | When the night's crawl is read. |
-| { *Thirty-One* [**Attack**] } | "The longest night it has ever travelled. The bearing was the Gardens' own mending roster." | [The crawl exceeds thirty centimetres.] | *Weight pressure across the chamber; the measuring party is doubled.* **[14-22 Weight DMG [Weight]]** | On any crawl above thirty centimetres. |
-| { *The Wall* [**Attack**] } | "Year 4229. It reached the stone and stopped, and stayed there eleven days, and on the other side was a mender with a hundred and four days owing to her." | [The crawl ends against the chamber wall and does not resume.] | *Heavy Weight pressure; the gauge rises seven points over eleven days.* **[24-36 Weight DMG [Weight]]** | When the Seed reaches a boundary. |
-| { *Two Thousand Four Hundred and Eleven* [**Ultimate**] } | "That is how many people in this building were given leave for a death and took the money instead. The Seed has a bearing for every one of them." | [The quarter's commutation return, every name on it, is read aloud into an enclosure that keeps no record and has never needed to.] | *All personnel suffer Weight pressure for three turns.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | On publication of the quarterly commutation return. |
+| { *The Bearing* [**Debuff**] } | "It has turned in the night. And it is pointing at your roster." | [The tendril's line is read against the fixed north mark and the roster it points at is identified; the Seed has not selected the observer.] | *The observer required to name that roster loses 10 Resolve; the figure must still be written down.* **[10 Weight DMG [Weight]]** | When the bearing is read and its roster identified. |
+| { *Four Centimetres* [**Debuff**] } | "The shortest night's travel on record. Nothing has grown. Something has still arrived four centimetres farther along its bearing." | [The morning chalk shows the minimum recorded displacement; the movement is smallest here, but it is not zero.] | *The measuring observer loses 10 Resolve; even the shortest reading is entered unrounded.* **[10 Weight DMG [Weight]]** | On a four-centimetre crawl reading. |
+| { *Thirty-One* [**Debuff**] } | "The longest night it has ever travelled. The bearing was the Gardens' own mending roster." | [The crawl reaches the upper end of its recorded range; no strike follows from the Seed.] | *The exceptional reading imposes Weight pressure on the measuring party. Doubling that party is the response protocol that follows, not part of the damage.* **[14-22 Weight DMG [Weight]]** | On any crawl above thirty centimetres. |
+| { *The Wall* [**Debuff**] } | "Year 4229. It reached the stone and stopped. And stayed there eleven days, and on the other side was a mender with a hundred and four days owing to her." | [Projected from the sole observed boundary event: the crawl ends against an obstruction and does not resume.] | *Cumulative Weight pressure across the stillness, not an instantaneous attack; in Year 4229 the gauge rose seven points over eleven days.* **[24-36 Weight DMG [Weight]]** | If the Seed reaches a boundary and remains stopped against it. |
+| { *Two Thousand Four Hundred and Eleven* [**Exhaustion**] } | "That is how many people in this building were given leave for a death and took the money instead. The bearing series keeps finding the rosters carrying their days." | [The bearing series is read against one worker's commutation return.] | *The arithmetic resolves against one worker and the figure is theirs alone.* **[12-20 Weight DMG [Weight], single target]** | On publication and review of the quarterly commutation return. |
 
 ### Battle Phases
 
 1. **Tension:** Identification first: a fist-sized dark crystal, shell split along one side with one thick warm tendril out of the split and no shoot, lying on bare soil with the bearing chalked against the fixed north mark and a day's crawl laid off it in centimetres. A crystal off bare soil, or a bed without its line, means the chamber was entered improperly or the thing in it is not this holding. The approach is set after that, and the positions are taken before anything else is attempted.
 2. **Clash:** The watch does not act on the Seed and cannot. The session is a measurement: the overnight crawl in centimetres, the bearing in degrees off the chamber's north mark, and the name of the roster the bearing points at. Work Types are performed to hold the observers steady while they take it, not to change anything in the bed.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the crawl, bearing, named roster and untaken-leave balance reach the duty office unrounded**. The earlier below-25% gauge requirement is not a target for this watch: no gauge reduction is attempted. Resolution on this holding is a paper act performed honestly — the condition is met when the figure goes up unrounded, and nothing the Seed does can either bring that about or prevent it.
+3. **Resolution:** No suppression, retreat or Seed-directed containment act is used. The documented resolution condition is measurement completed honestly: **the crawl, bearing, named roster and untaken-leave balance reach the duty office unrounded**. The earlier below-25% gauge requirement is not a target for this watch. Resolution on this holding is a paper act — the condition is met when the figure goes up unrounded, and nothing the Seed does can either bring that about or prevent it.
 
 ### Consequences
 
@@ -98,16 +101,16 @@
 - Left unmeasured the holding does not rupture. It is simply lost: the bearing series is the only instrument this facility has for untaken leave, and six quarters of it were destroyed in Year 4230 by a duty office that considered the readings insulting.
 
 ## Appearance
-**Physical Form:** A fist-sized dark crystal, shell split along one side, with a single thick tendril emerging from the split — warm as a held hand, beating slowly, smelling of wet stone. **Movement:** It drags itself along one bearing at 4–31 cm a night; it has never been seen in motion, by anybody, in two hundred and sixty years.
+**Physical Form:** A fist-sized dark crystal, shell split along one side, with a single thick tendril emerging from the split — warm as a held hand, beating slowly, smelling of wet stone. **Movement:** It drags itself along one bearing at 4–31 cm a night. It has never been seen in motion, by anybody, in two hundred and sixty years.
 
 **Notable Features:** The split shell. It is not a crack from damage: the shell is parted the way a shell parts for a shoot, and there is no shoot, and there has never been one. The tendril is a root, not a stem, and it is travelling rather than growing.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Object-Weight
+- **Manifestation:** Subject-Weight
 - **Primary marker:** A split dark crystal on bare soil, warm without a source, with a chalked bearing line running from it to the chamber wall.
-- **Position / movement:** It moves. On its single tendril it drags itself between four and thirty-one centimetres in a night, always along one bearing, and the bearing has matched the duty roster holding the facility's largest balance of untaken bereavement leave in two hundred and six of two hundred and twenty-four readings.
+- **Position / movement:** It moves. On its single tendril it drags itself between four and thirty-one centimetres in a night, always along one bearing. And the bearing has matched the duty roster holding the facility's largest balance of untaken bereavement leave in two hundred and six of two hundred and twenty-four readings.
 - **Element signature:** Weight
 - **Registered location:** Zone D, Echo Gardens
 
@@ -117,16 +120,16 @@
 |---|---|
 | **Form** | A fist-sized dark crystal, shell split along one side, with a single thick tendril emerging from the split — warm as a held hand, beating slowly, smelling of wet stone. |
 | **Position / movement** | Mobile, 4–31 cm per night along one bearing, never observed in motion; position chalked before every watch. |
-| **Material / signature** | Han-crystal, matte black, warm to about blood heat with no source and no gradient; the warmth is identical at the shell and at the tendril tip. |
+| **Material / signature** | Han-crystal, matte black, warm to about blood heat with no source and no gradient. The warmth is identical at the shell and at the tendril tip. |
 | **Distinctive markers** | The split shell with no shoot in it. Every other marker on this holding is shared with four inert crystals in the same bed. |
 | **Identification** | Confirm the chalk line and the previous night's figures before touching anything in the chamber. The bed holds four inert crystals of similar size and the Seed is the one with the split shell and the tendril. |
 
-**Appearance protocol:** Chalk the shell's position and the tendril's line before anything else. Photograph both against the fixed north mark. Measure the crawl from the previous chalk to the present shell in centimetres, and the bearing in degrees off the mark, and enter both unrounded. The duty office has twice asked for the bearing to be given to the nearest quarter-circle; both requests are on file and both were refused, because the whole value of the series is that it resolves between rosters.
+**Appearance protocol:** Chalk the shell's position and the tendril's line before anything else. Photograph both against the fixed north mark. Measure the crawl from the previous chalk to the present shell in centimetres, and the bearing in degrees off the mark, and enter both unrounded. The duty office has twice asked for the bearing to be given to the nearest quarter-circle. Both requests are on file and both were refused, because the whole value of the series is that it resolves between rosters.
 
 ## Origin
 - **Formation:** No formation was observed. The Seed is recorded in the Gardens' bed inventory two hundred and sixty years ago, with a split shell and a tendril, and the inventory clerk noted that it had moved since the previous count.
 - **The Sorrow:** Grief that was granted, priced, and spent as money — leave given for a death and taken as pay, so that the mourning was never done and the grief kept the whole of itself, unstarted.
-- **The Event:** No single event. The commutation ledger runs continuously and the Seed's bearings run with it; the earliest surviving pairing is a bed inventory and a pay return from the same quarter, found filed together by accident.
+- **The Event:** No single event. The commutation ledger runs continuously and the Seed's bearings run with it. The earliest surviving pairing is a bed inventory and a pay return from the same quarter, found filed together by accident.
 - **The People:** Every worker in this facility who was granted bereavement leave and did not take it — who signed the commutation form, drew the money instead of the days, and went back on shift the same week. Two thousand four hundred and eleven such commutations are on the books. None of them was refused leave; each of them chose, and most of them chose because they needed the money more than the week.
 - **Expanded origin context:** The chamber is kept bare and the rotation is the shortest in the wing, and the standing prohibition on speaking of one's own losses inside the enclosure is absolute. It is absolute because the alternative is a list of which sorrows may be grown, and no officer of this Department will sign one.
 
@@ -135,26 +138,26 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Returns the bearing and the night's crawl, nothing else. No worker has ever reported a form, a shape, or an intention, and the file's old claim that observation reveals possible forms is unsourced and withdrawn. | Stable |
-| **Ferrehan** | The watch is stood in a bare room with a thing that will not do anything, and the figure is taken and sent to the duty office unrounded even when it names the duty office's own roster. | Decrease |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The grief was commuted before it began — the leave signed away as money in the same week — so nothing here was ever opened for an offer to reach. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no refusal left to force: the commutation forms are the only thing the seed answers, and weight on them is not read at all. | Net-Neutral |
+| **Viderehan** | Returns the bearing and the night's crawl, nothing else, in this chamber's watch record. The linked Side response — that observation reveals possible forms it could grow into — has no supporting local report and is not used operationally. The fork is preserved rather than withdrawn. | Stable · Common |
+| **Ferrehan** | The watch is stood in a bare room with a thing that will not do anything, and the figure is taken and sent to the duty office unrounded even when it names the duty office's own roster. | Decrease · High |
 
 
 ### Operational Work Notes
 
-What the gauge does here has to be read against what the Seed is: an Object/Place, Object-Weight in manifestation, Weight in element, filed at Zone D in the Echo Gardens. Nothing in that combination answers a Work Type the way a body does, so the responses above are the whole of the response, and everything a reader might look for instead — a form, a phase, an escalation — is not late but absent. Two cautions travel with the record. Nothing is inherited from a holding with a similar name; the Seed's relatives are listed in their own section and none of them is this one. And a level gauge is not a safe watch: the figure can sit flat through an hour that costs the observer something, and the cost will not surface in any number on this page.
+What the gauge does here has to be read against what the Seed is: an Object/Place, Object-Weight in manifestation, Weight in element, filed at Zone D in the Echo Gardens. Nothing in that combination answers a Work Type the way a body does, so the responses above are the whole of the response, and everything a reader might look for instead — a form, a phase, an escalation — is not late but absent. Two cautions travel with the record. Nothing is inherited from a holding with a similar name. The Seed's relatives are listed in their own section and none of them is this one. And a level gauge is not a safe watch: the figure can sit flat through an hour that costs the observer something, and the cost will not surface in any number on this page.
 
 **Reading the response:** Success here is a figure that reached the duty office unaltered. The gauge is nearly inert — one movement of seven points in two hundred and sixty years — so it is not the instrument and should not be reported as though it were. What is reported is the crawl, the bearing, the roster, and that roster's untaken-leave balance in days.
 ## Activation Behavior
 
-**Activation Trigger:** None known. The Seed has never been planted and the prohibition on attempting it is unconditional; what the file calls activation is the overnight crawl, which happens whether anybody is present or not.
+> **Special activation only — no counter, no gauge.** The listed condition: *"no activation trigger known"*.
 
-**Effect:** A measured displacement of 4–31 cm along one bearing, and nothing else. The claim that it would grow into an entity shaped by nearby sorrow is a two-hundred-year-old inference from the split shell, has never been tested, and is retained here only because the prohibition rests on it.
 
-**Duration:** Continuous. The crawl has never stopped for longer than the eleven days it spent against the wall in Year 4229.
 
-**Risk:** Unquantified, and the room says so rather than filling the field. What is quantified is that the Seed has injured nobody, bound nobody and grown nothing in two hundred and sixty years.
+
+
+> **What the Seed does on its own.** No trigger is known. The Seed has never been planted and the prohibition on attempting it is unconditional. What the file calls activation is the overnight crawl, which happens whether anybody is present or not. It is a measured displacement of 4–31 cm along one bearing and nothing else, it has never stopped for longer than the eleven days it spent against the wall in Year 4229. And in two hundred and sixty years it has injured nobody, bound nobody and grown nothing. The claim that it would grow into an entity shaped by nearby sorrow is a two-hundred-year-old inference from the split shell, never tested, retained only because the prohibition rests on it. The contact effect in the profile above is a separate thing and is not this.
 
 ### Tool Use Profile — O-Relic
 
@@ -162,11 +165,11 @@ What the gauge does here has to be read against what the Seed is: an Object/Plac
 |---|---|
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Channeled / sustained use** |
-| **Activation** | Bare contact with the shell by a worker who has commuted bereavement leave to pay. Workers with no commutation on the books report nothing whatever. |
+| **Activation** | Relic contact effect: bare contact with the shell by a worker who has commuted bereavement leave to pay. Workers with no commutation on the books report nothing whatever. This contact effect is distinct from entity activation and from germination. |
 | **Primary Effect** | The operator knows, for as long as contact is held, exactly how many days they were granted and did not take, and for which death. |
 | **Duration** | For the length of contact, and about an hour afterwards. |
-| **Termination / Return** | The hand is lifted. There is no residue and no compounding; the earlier entry claiming both is withdrawn and the eleven recorded contacts support neither. |
-| **Risk** | The figure arrives whole and unasked for. Four of the eleven contacts ended with the worker leaving the chamber mid-watch; all four were granted leave within the month and all four took it. |
+| **Termination / Return** | The hand is lifted. There is no residue and no compounding; the eleven recorded contacts support neither. |
+| **Risk** | The figure arrives whole and unasked for. Four of the eleven contacts ended with the worker leaving the chamber mid-watch. All four were granted leave within the month and all four took it. |
 
 **Operational Rule:** Contact is authorised only on written request by the worker, never by instruction, and never from a superior to a subordinate. The eleven contacts on file were all self-requested and the room will not record a twelfth that is not.
 
@@ -184,7 +187,7 @@ What the gauge does here has to be read against what the Seed is: an Object/Plac
 
 There is no escalation pattern and the room has stopped pretending to one. There is a crawl, a bearing, and a roster. The only event in the record that could be called escalation is Year 4229, and what escalated was eleven days of stillness against a wall.
 
-**Response sequence:** on any crawl above thirty centimetres, or any bearing that holds the same roster for four consecutive nights: chalk and photograph before entry, double the measuring party, pull that roster's untaken-leave balance from payroll the same day, and send both to the duty office together. Nothing is done to the Seed. Nothing has ever been done to the Seed.
+**Response sequence:** on any crawl above thirty centimetres, or any bearing that holds the same roster for four consecutive nights: chalk and photograph before entry, double the measuring party, pull that roster's untaken-leave balance from payroll the same day. And send both to the duty office together. Nothing is done to the Seed. Nothing has ever been done to the Seed.
 
 
 ### Detailed Activation Record
@@ -192,7 +195,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | None. The crawl is continuous and observer-independent. |
-| **Manifestation** | Object-Weight — corrected; the earlier Subject-Weight entry contradicted the SECC header |
+| **Manifestation** | Subject-Weight — corrected; the earlier Subject-Weight entry contradicted the SECC header |
 | **Primary effect** | 4–31 cm of travel per night along a bearing that has matched the largest untaken-leave balance in 206 of 224 readings. |
 | **Duration / rate** | Continuous; one interruption on record, eleven days, Year 4229. |
 | **Risk** | Unquantified and stated as unquantified. No injury, no binding, no growth in two hundred and sixty years. |
@@ -208,14 +211,14 @@ There is no escalation pattern and the room has stopped pretending to one. There
 | **Event Type** | Manifestation in place |
 | **Movement** | 4–31 cm per night on one tendril, along a single bearing. It has never crossed the bed's edge and it stops at any obstruction. |
 | **Effect** | A low ambient Weight pressure in the chamber, constant, unchanged by anything anybody has done to it. |
-| **Secondary Effect** | None measured. The old entry asserting accelerated debt and decay has no reading behind it in two hundred and sixty years of logs. |
+| **Secondary Effect** | None measured. Nothing in two hundred and sixty years of logs supports accelerated debt or decay. |
 | **First Target** | It has no targets. The bearing points at a roster, not a person, and in the Year 4229 event the mender it ended up facing was not in the building. |
 | **Escalation** | Gauge rose seven points over eleven days in Year 4229 and returned within a week of the mender being sent home on compulsory leave. That is the whole of the escalation record. |
 
 ### Escalation Notes
 
-- **Event type (non-breach):** There has been no breach in two hundred and sixty years of record and the room does not expect one. What is filed under this heading is the single event of Year 4229, when the Seed reached the chamber wall, stopped, and stayed against it for eleven days with its tendril against the stone and a mender's accrual of one hundred and four untaken days on the other side of it.
-- **Containment priority:** No physical suppression, no Wardens, no Pugnahan — Pugnahan is structurally impossible on an object and the earlier entry prescribing it was prescribing an N/A row. The priority is that the figure reaches the duty office.
+- **Event type (non-breach):** There has been no breach in two hundred and sixty years of record and the room does not expect one. What is filed under this heading is the single event of Year 4229, when the Seed reached the chamber wall, stopped. And stayed against it for eleven days with its tendril against the stone and a mender's accrual of one hundred and four untaken days on the other side of it.
+- **Containment priority:** No physical suppression, no Wardens, no Pugnahan — Pugnahan is structurally impossible on an object. The priority is that the figure reaches the duty office.
 - **Sorrow Gauge on event:** In the Year 4229 event the gauge moved from 31% to 38% over eleven days and returned to 30% within a week of the mender being sent home on compulsory leave. It is the only gauge movement on file that anybody has been able to attach to a cause.
 
 ## M.A.W. Equipment
@@ -226,7 +229,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and carrying a full weight more than its size accounts for, glowing along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and carrying a full weight more than its size accounts for.
 
 **Damage:** Weight 3-6
 **Speed:** 2 (Normal)
@@ -236,7 +239,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Sorrow Seed's weight signature in the strike.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Bearer cost:** The wielder's own pace drops to the seed's: a hand's width at a time, in one direction, and no shift on file records the bearer noticing it happen.
 
 ### M.A.W. Suit — The Sorrow Mantle
 
@@ -254,7 +257,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Sorrow Seed's kind of pressure.
 
-**Cost:** The wearer carries a constant low fatigue that the Armoury logs and nobody treats.
+**Bearer cost:** The wearer carries a constant low fatigue that the Armoury logs and nobody treats.
 
 ### M.A.W. Stigma — Sorrow Seed
 
@@ -266,15 +269,15 @@ There is no escalation pattern and the room has stopped pretending to one. There
 **Acquisition Probability:** 5%
 **Effect:** +1 to the bearer's work rating against this holding, and — the reason the eleven bearers were chosen — the bearer knows, on sight and without checking a payroll record, how many days of granted leave the person in front of them has never taken.
 
-**Ability:** Can be planted to grow a minor entity for research.
+**Ability:** Can be planted to grow a minor entity for research, in the linked Stigma record. That canonical use is not authorised inside this holding's enclosure, where no planting test is permitted.
 
-**Cost:** Uncontrolled growth if not tended.
+**Bearer cost:** Uncontrolled growth if not tended.
 
 *The eleven seed-charms were granted on watches in which the observer wrote down a roster balance they knew would embarrass the duty office, and filed it anyway.*
 
 ### M.A.W. Use Notes
 
-These pieces are Sorrow Seed in miniature. What they give is listed above; what they take is the wielder feels progressively heavier; prolonged use ages them slightly, and the Armoury records both against the wielder rather than against the piece.
+All three linked item records impose the same attribution rule: the bearer names the Seed's formation event — a grief fragment crystallised in the Echo Gardens and entered dormancy — and must not treat that sorrow as their own. The costs remain piece-specific: the Maul makes the wielder progressively heavier and ages them slightly. The Mantle leaves constant low fatigue. The Seed Stigma risks uncontrolled growth if untended. The first recorded warning in each item record is the bearer describing the source event in the first person. Use stops before the manifestation can use the bearer as a new site.
 
 ### Field Use Record
 
@@ -283,15 +286,15 @@ These pieces are Sorrow Seed in miniature. What they give is listed above; what 
 | **Before use** | Wielder, piece, the issue-day gauge, and a sealed baseline taken before the piece leaves the rack recording what the wielder already carries. Sorrow Seed's toll is the wielder feeling progressively heavier, so the baseline is opened at the end of the rotation rather than the beginning of it. |
 | **During use** | From the first charge the bearer feels the weight come on and never gets used to it. What is written at the time is the second worker's observation; the bearer's account is taken afterwards, separately, and never merged into it. |
 | **At limit** | Sorrow Seed's cost is continuous rather than occasional: the wearer carries a constant low fatigue, and a constant is the hardest thing to feel the edge of from inside. The second worker's call stands against the wielder's. |
-| **After use** | Piece returned; re-assess a week later, because what Sorrow Seed takes (the wearer carries a constant low fatigue) does not present on the day. |
+| **After use** | Piece returned. Re-assess a week later, because what Sorrow Seed takes (the wearer carries a constant low fatigue) does not present on the day. |
 
-**Stat interpretation:** The grade describes what a piece does to a working day and says nothing about what it does to the worker. This set can be wholly efficient and still leave a bearer Fractured, hollowed or sorrow-bound; the Armoury's own returns show wearers paying in years for pieces rated minor, which is why the sealed baseline is kept against the person rather than against the item.
+**Stat interpretation:** The grade describes what a piece does to a working day and says nothing about what it does to the worker. This set can be wholly efficient and still leave a bearer Fractured, hollowed or sorrow-bound. The Armoury's own returns show wearers paying in years for pieces rated minor, which is why the sealed baseline is kept against the person rather than against the item.
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial. The level has not moved in two hundred and sixty years and the Registrum's claim of Level 4 has been corrected against it. What is known is where the Seed goes and what that matches. What it is for, what would make it open, and what is inside it are unknown, and four assessors have written in this file that they are not close.
+**R.D. Comprehension Level:** 1 — Initial. The level has not moved in two hundred and sixty years. What is known is where the Seed goes and what that matches. What it is for, what would make it open, and what is inside it are unknown, and four assessors have written in this file that they are not close.
 
-- It is not dormant. It travels 4–31 cm every night and has done so for two hundred and sixty years; the word dormant survived in this file for two centuries alongside a crawl log that contradicts it.
+- It is not dormant. It travels 4–31 cm every night and has done so for two hundred and sixty years. The word dormant survived in this file for two centuries alongside a crawl log that contradicts it.
 - It does not respond to grief in the room. The bearing is set before the watch arrives and is unmoved by anything said, felt or carried in by the observers, which has been tested deliberately and repeatedly.
 - It must not be planted at all, anywhere, by anybody, and the prohibition rests on an untested two-hundred-year-old inference that the room is content to leave untested.
 
@@ -317,33 +320,33 @@ These pieces are Sorrow Seed in miniature. What they give is listed above; what 
 Sorrow Seed (C-Iα-300 [D]) is logged as an Object-Weight manifestation expressing Weight: a fist-sized black crystal in a bare bed in the Echo Gardens of Zone D, shell split along one side with a single warm tendril out of the split and no shoot, which drags itself four to thirty-one centimetres a night along one bearing and has never been seen to move. Its instrument is that bearing, which in two hundred and six of two hundred and twenty-four readings has pointed at whichever duty roster in this facility is carrying the largest balance of granted bereavement leave that was never taken.
 
 **Entry 2 — <Excerpt from Mender's Day Book, Echo Gardens, Year 4238>**
-It responds to nearby grief.
+The bearing did not answer anything said or carried into the room.
 
 **Entry 3 — <Excerpt from the Clerks' Association Submission on Compulsory Leave, Year 4236>**
 Potential sorrow—the fear that pain will become something larger than the person who felt it.
 
 **Entry 4 — <Containment Notice>**
-Containment of C-Iα-300 is a measuring discipline in the Gardens and a leave rule across the establishment. Bed: position chalked and photographed against the fixed north mark before entry; crawl and bearing measured by two observers independently, both figures entered, neither averaged; the Seed is not lifted, turned, cleaned, planted or obstructed; the bed is not watered; the standing prohibition on any person speaking of their own losses inside the enclosure is absolute and binds visitors, collection staff and officers alike. Establishment, binding on every department and every grade: **bereavement leave granted for a death is taken within sixty days or it lapses. It may not be commuted to pay, carried forward, bought back, or deferred by operational need, and no superior may ask a subordinate to defer it.** Work response — Ferrehan: the watch stood and the figure sent on unrounded (Decrease); Viderehan: the bearing and the crawl, which is the whole of what observation returns (Stable); Flerehan and Pugnahan: structurally impossible on an object, and the rows are kept in order to say so.
+Containment of C-Iα-300 is a measuring discipline in the Gardens and a leave rule across the establishment. Bed: position chalked and photographed against the fixed north mark before entry. Crawl and bearing measured by two observers independently, both figures entered, neither averaged. The Seed is not lifted, turned, cleaned, planted or obstructed. The bed is not watered; the standing prohibition on any person speaking of their own losses inside the enclosure is absolute and binds visitors, collection staff and officers alike. Establishment, binding on every department and every grade: **bereavement leave granted for a death is taken within sixty days or it lapses. It may not be commuted to pay, carried forward, bought back, or deferred by operational need. And no superior may ask a subordinate to defer it.** Work response — Ferrehan: the watch stood and the figure sent on unrounded (Decrease). Viderehan: the bearing and the crawl, which is the whole of what observation returns (Stable). Flerehan and Pugnahan: structurally impossible on an object. And the rows are kept in order to say so.
 
 **Entry 5 — <Director's Memo, Eyes Only: On Compulsory Leave>**
 The Clerks' Association opposed the sixty-day rule and their submission is the best-argued document in this file. I am keeping it here, with my answer, which is worse than theirs.
 
-Their case: grief is not a schedule. A worker who has just buried a parent may want the shift, the noise, the company of people who are not crying, and may want the money far more than the week, because the funeral has to be paid for by somebody and it is usually them. Commutation let a person decide for themselves what they needed. Taking it away is this Department deciding, on behalf of the lowest-paid people in the building, what their mourning should look like and when it should happen.
+Their case: grief is not a schedule. A worker who has just buried a parent may want the shift, the noise, the company of people who are not crying. And may want the money far more than the week, because the funeral has to be paid for by somebody and it is usually them. Commutation let a person decide for themselves what they needed. Taking it away is this Department deciding, on behalf of the lowest-paid people in the building, what their mourning should look like and when it should happen.
 
 Every word of that is true and I signed the rule anyway.
 
 What I set against it is two thousand four hundred and eleven commutations and a crystal that has spent two hundred and sixty years dragging itself toward whichever roster holds the most of them. I cannot tell you what the Seed would do if it arrived. I can tell you that in Year 4229 it reached the chamber wall with a mender's hundred and four untaken days on the other side, stood against the stone for eleven days, and came off it within a week of her being sent home.
 
-Here is the cost, and it falls where the Association said it would. Year 4237, the first full year: one thousand three hundred and twelve workers took deferred leave; four hundred and eight of them lost the payment they had been counting on, median nineteen days' pay. Ninety-four applied to the hardship fund; sixty-one were refused on the ground that forgone pay is not an emergency. Garden rotations went from four a cycle to seven because the cover had to come from somewhere.
+Here is the cost, and it falls where the Association said it would. Year 4237, the first full year: one thousand three hundred and twelve workers took deferred leave. Four hundred and eight of them lost the payment they had been counting on, median nineteen days' pay. Ninety-four applied to the hardship fund; sixty-one were refused on the ground that forgone pay is not an emergency. Garden rotations went from four a cycle to seven because the cover had to come from somewhere.
 
 I have not answered that. I have made four hundred and eight poorer people poorer on the strength of a bearing I cannot explain to anybody, and the Association has written to say so each quarter, and each quarter they are right.
 
 **Entry 6 — <Archive Note>**
-The seed is warm and it beats, and it drags itself toward soil on the single tendril it has put out. What it becomes depends entirely on what is grieving nearby while it takes root, which is why the chamber is kept bare and why the rotation here is the shortest in the wing. Staff are not permitted to speak of their own losses inside the enclosure. The prohibition is absolute and is the only guidance the Department will issue, because the alternative is a list of which sorrows are acceptable to grow.
+The seed is warm and it beats, and it drags itself along its bearing on the single tendril it has put out. The untested inference on which the planting prohibition rests is that what it might become would depend on what was grieving nearby if it ever took root. That inference is why the chamber is kept bare and why the rotation here is the shortest in the wing. Staff are not permitted to speak of their own losses inside the enclosure. The prohibition is absolute and is the only guidance the Department will issue, because the alternative is a list of which sorrows are acceptable to grow.
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways the watch on the Seed can end, and the file tells them apart by what the observer does with a number they are about to write down: one sends the figure on as measured, and the other edits it and calls the difference judgement.
+> Two ways the watch on the Seed can end. And the file tells them apart by what the observer does with a number they are about to write down: one sends the figure on as measured. And the other edits it and calls the difference judgement.
 
 | Do the work as the sheet sets it out — measure, chalk, photograph, and send the figure on unrounded, with the roster named and the leave rule applied as written. | Substitute your own judgement, which on Sorrow Seed takes the shape of rounding a figure, leaving a roster unnamed, writing a bearing off as drift, or letting one deferral through. |
 |---|---|
@@ -352,7 +355,7 @@ The seed is warm and it beats, and it drags itself toward soil on the single ten
 
 ## 감각 묘사 (Flavor Text)
 
-The shell is split the way a shell splits for a shoot, and there is no shoot. The tendril is a root and it is going somewhere. Nobody has ever seen it travel, and every morning the chalk is wrong by four centimetres, or nine, or thirty-one, and the line it is on points across the Gardens at some roster of tired people who were given a week each for a death and took the money.
+The shell is split the way a shell splits for a shoot, and there is no shoot. The tendril is a root and it is going somewhere. Nobody has ever seen it travel. And every morning the chalk is wrong by four centimetres, or nine, or thirty-one. And the line it is on points across the Gardens at some roster of tired people who were given a week each for a death and took the money.
 
 
 
@@ -366,19 +369,19 @@ The shell is split the way a shell splits for a shoot, and there is no shoot. Th
 
 ### Interaction Pattern
 
-Three holdings are filed near this one — The Collapsed Seed, The Rusted Seed and The Sorrow Flower — and each pairing is weaker than the resemblance that put the names together. A watch that runs two of them side by side enters whether anything moved in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger attached, and treats a steady answer as a hypothesis rather than a family likeness.
+Three holdings are filed near this one — The Collapsed Seed, The Rusted Seed and The Sorrow Flower — and each pairing is weaker than the resemblance that put the names together. A paper comparison that runs two records side by side enters whether anything moved in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger attached, and treats a steady answer as a hypothesis rather than a family likeness.
 
 **Interaction method:** No proximity trial, ever. Nothing is brought into the enclosure and the Seed is not moved, so each paper relationship is resolved on documents by a single question: does the other record concern a growth stopped part-way, a growth abandoned, or a growth never begun.
 
 
 ### Entity Interaction Record
 
-Three records are grouped with this one on the strength of the word seed, and the grouping has survived four reviews on no better ground than that. None of the three has been within the enclosure; nothing is brought in, because what grieves nearby is the one variable this holding is known to answer to. What can be said in writing is said below, and the distinction that matters is whether the other record concerns a growth that was stopped, a growth that was abandoned, or — here — a growth that was never started because the grief behind it was converted into money.
+Three records are grouped with this one on the strength of the word seed, and the grouping has survived four reviews on no better ground than that. None of the three has been within the enclosure. Nothing is brought in, because nearby grief is the one variable the untested germination inference treats as relevant. What can be said in writing is said below. And the distinction that matters is whether the other record concerns a growth that was stopped, a growth that was abandoned, or — here — a growth that was never started because the grief behind it was converted into money.
 
 | Neighbouring holding | How the pairing has run | What the watch measured | What the entry carries |
 |---|---|---|---|
 | **The Collapsed Seed** | Grouped on the word seed and nothing else. That record holds a growth interrupted at the threshold and tracks abandoned inquiries; this one holds a growth never begun and tracks commuted leave. The two series have been run against each other for nine years and share no movement. | Nothing, at any distance, because no distance has ever been tried. | The nine years of non-correlation, cited in full whenever the pairing is raised. |
-| **The Rusted Seed** | The line about shared abandoned potential is a phrase, not a result; it has sat in this cell since Year 4211 with no reading behind it. | Nothing measured. | That the pairing is unevidenced — noted each time the sentence is copied forward. |
+| **The Rusted Seed** | The line about shared abandoned potential is a phrase, not a result. It has sat in this cell since Year 4211 with no reading behind it. | Nothing measured. | That the pairing is unevidenced — noted each time the sentence is copied forward. |
 | **The Sorrow Flower** | A Year 4234 proposal to let the Flower's bed share soil with this one, to see whether the bearing turned toward it. | Refused. Approving it would have meant planting conditions around a holding this facility forbids itself to plant, and the refusal notes that the proposal's own author agreed on reading the prohibition. | The proposal and the refusal kept together and cited whenever the pairing is raised. |
 
 **Interaction procedure:** None. Any document proposing that anything be brought into, planted near, or grown beside this bed carries the Year 4234 refusal reproduced whole.
@@ -387,17 +390,17 @@ Three records are grouped with this one on the strength of the word seed, and th
 
 A grief was granted, priced, and paid out in cash, and the week it was granted for was worked instead. That is what is in the shell, two thousand four hundred and eleven times over, and it is not dormant: it is walking.
 
-The seed is small — a fist of Han-crystal in the soil of the Echo Gardens where the Weeping runs close. It does not grow. It has never grown. But it moves, every night, four centimetres or thirty-one, along one line, and it has done so since the first bed inventory two hundred and sixty years ago, in which the clerk wrote that it had shifted since the last count and then wrote nothing about what that might mean.
+The seed is small — a fist of Han-crystal in the soil of the Echo Gardens where the Weeping runs close. It does not grow. It has never grown. But it moves, every night, four centimetres or thirty-one, along one line. And it has done so since the first bed inventory two hundred and sixty years ago, in which the clerk wrote that it had shifted since the last count and then wrote nothing about what that might mean.
 
 The grief in it is not a grief that has not happened. It is a great many griefs that did happen and were never spent. This facility grants leave for a death — a week, sometimes two, properly granted, nobody refused. It also lets a worker take the money instead, because the funeral has to be paid for and the Department would rather be generous in the way the worker chooses than in the way the Department chooses. So the form is signed, the pay goes through, the shift is worked, and the week is never taken. The death is attended to in the accounts and not in the person.
 
 That is what the shell holds: mourning that was granted and converted, kept whole because it was never begun. A grief half-done wears down into something smaller. A grief not started at all keeps every bit of itself, indefinitely, at full size, the way a seed keeps a tree. Two thousand four hundred and eleven of them are on the books of this building alone, and the ones the Gardens cannot count are the ones the bearing seems to be reading.
 
-Nobody knows what would make it open and nobody is going to find out; the prohibition on planting it is unconditional and rests on an inference two centuries old that this Department has deliberately never tested. What is known is where it is going. In two hundred and six of two hundred and twenty-four readings the bearing has pointed at whichever duty roster in the facility was carrying the largest balance of granted, unspent, commuted-away bereavement leave. It is not looking for soil. It is looking for the people who were paid instead.
+Nobody knows what would make it open and nobody is going to find out. The prohibition on planting it is unconditional and rests on an inference two centuries old that this Department has deliberately never tested. What is known is where it is going. In two hundred and six of two hundred and twenty-four readings the bearing has pointed at whichever duty roster in the facility was carrying the largest balance of granted, unspent, commuted-away bereavement leave. It is not looking for soil. It is looking for the people who were paid instead.
 
-Those who come near it feel very little, which is the difficulty: a warm stone in a bare room, a chalk line, a number. The people it has marked are the nineteen observers who went and asked payroll what their own commuted days added up to, and the four who could not finish the watch after putting a hand on the shell and being told, without asking, exactly how many days they had been given for their own dead and never taken.
+Those who come near it feel very little, which is the difficulty: a warm stone in a bare room, a chalk line, a number. The people it has marked are the nineteen observers who went and asked payroll what their own commuted days added up to. And the four who could not finish the watch after putting a hand on the shell and being told, without asking, exactly how many days they had been given for their own dead and never taken.
 
-Some sorrows are about what happened. This one is about what was never done about it — leave granted in good faith, taken as money by people who needed money, and the mourning left whole and unstarted in a crystal that has been walking toward them, four centimetres a night, for two hundred and sixty years.
+Some sorrows are about what happened. This one is about what was never done about it — leave granted in good faith, taken as money by people who needed money. And the mourning left whole and unstarted in a crystal that has been walking toward them, four centimetres a night, for two hundred and sixty years.
 ## 증언 (Testimonium) — The Testimony
 
 > *“It has not lain anywhere. We wrote dormant in this file for two centuries with the crawl log open on the same desk.”* — Keeper, Archive
@@ -414,10 +417,10 @@ Some sorrows are about what happened. This one is about what was never done abou
 **Classification:** Sorrow Entity — `C-Iα-300 [D]` · City Sorrow (도한) origin · Residue (I) coherence, barely formed · Minor (α) potency · Weight · Object-Weight manifestation · O-Relic (Offertorium)
 **Common Name:** Sorrow Seed
 **Containment Status:** Contained — Zone D, Echo Gardens, bare enclosure; mobile within its bed, chalked and photographed nightly, never lifted and never planted
-**Comprehension Level:** 1 — Initial. The Registrum's earlier entry of Level 4 contradicted the SECC header and has been corrected to it.
-**Threat Assessment:** Minor (α), corrected from the earlier Entity (IV) / Major (γ) Registrum entry, which contradicted the header in both fields. In two hundred and sixty years it has injured nobody, bound nobody, grown nothing and escalated never. It is consequential because its bearing is the only instrument this facility possesses for unspent bereavement leave, and because the rule written on the strength of that bearing has cost four hundred and eight of the lowest-paid workers in the establishment a median nineteen days' pay.
+**Comprehension Level:** 1 — Initial.
+**Threat Assessment:** Minor (α). An earlier Registrum entry read it as Entity (IV) and Major (γ) in both fields. In two hundred and sixty years it has injured nobody, bound nobody, grown nothing and escalated never. It is consequential because its bearing is the only instrument this facility possesses for unspent bereavement leave. And because the rule written on the strength of that bearing has cost four hundred and eight of the lowest-paid workers in the establishment a median nineteen days' pay.
 **Containment & Handling Procedures:**
-- Ferrehan is primary; Viderehan is the reading instrument. The earlier entry naming Viderehan primary contradicted the Behavior table and has been corrected.
+- Ferrehan is primary; Viderehan is the reading instrument.
 - Crawl and bearing chalked, photographed and measured by two observers before anything else; both figures entered, neither averaged, both sent unrounded.
 - No person may speak of their own losses inside the enclosure. Absolute, no exceptions, binding on visitors and collection staff; the Department will not issue a list of which sorrows may be grown.
 - The Seed is not lifted, turned, cleaned, watered, obstructed or planted. On any crawl above thirty centimetres, or one roster held four nights running, the measuring party is doubled and that roster's untaken-leave balance is pulled from payroll the same day.
@@ -429,13 +432,13 @@ Some sorrows are about what happened. This one is about what was never done abou
 - Six quarters of crawl readings were destroyed in Year 4230 by a duty office that considered the series insulting. The gap is permanent and is recorded here rather than smoothed.
 **Cross-References:** Zone D, Echo Gardens, bare enclosure · the facility's bereavement commutation ledger, 2,411 entries · the Year 4229 wall event · the Year 4230 destruction of six quarters of readings · the Clerks' Association submission of Year 4236 · the Year 4237 return: 1,312 deferred weeks taken, 408 losing a median nineteen days' pay, 94 hardship applications and 61 refusals, Garden rotations 4 → 7 per cycle · the Year 4234 Sorrow Flower proposal, refused
 **Faction Involvement:** SED (D-territory survey) · the Clerks' Association, listed on an entity file because compulsory leave is a containment condition of this holding and the Association opposed it, correctly, on the ground that the cost would fall on the lowest-paid, which it did
-**Originator:** Every worker of this facility granted leave for a death who signed the commutation and worked the week — 2,411 on the books, none refused leave, each of them choosing, and most of them choosing because the funeral had to be paid for by somebody.
+**Originator:** Every worker of this facility granted leave for a death who signed the commutation and worked the week — 2,411 on the books, none refused leave, each of them choosing. And most of them choosing because the funeral had to be paid for by somebody.
 
 ### Registry Addendum
 
 **Operational interpretation:** Read this file with the crawl log and the commutation ledger beside it; that is a requirement, not advice. Read alone it holds a warm stone that has never done anything, and four assessors have written exactly that, each with two centuries of bearings in front of them and no idea what the bearings were pointing at.
 
-**Review requirement:** On any crawl above thirty centimetres, or any roster held four nights running: pull that roster's commutations for the quarter before the chamber is entered again, and name each one with the death it was granted for, the days granted, the sum paid, and the officer who countersigned. Totals are not accepted. Both observers' measurements stand unreconciled in the review.
+**Review requirement:** On any crawl above thirty centimetres, or any roster held four nights running: pull that roster's commutations for the quarter before the chamber is entered again. And name each one with the death it was granted for, the days granted, the sum paid, and the officer who countersigned. Totals are not accepted. Both observers' measurements stand unreconciled in the review.
 ## Trivia
 
 - No form has ever appeared and nothing has ever been used as water. The bed is not watered, and the sentence this line replaces had been in the file for two centuries describing a process nobody has witnessed.
@@ -445,8 +448,8 @@ Some sorrows are about what happened. This one is about what was never done abou
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Residue (I) coherence — barely formed, and the word dormant has been struck from the coherence gloss as contradicted by the crawl log — Minor (α) potency, Comprehension Level 1, Object-Weight, O-Relic graded α.
-- **Field detail:** Weight; Zone D, Echo Gardens, bare enclosure. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded α pieces and has been corrected.
+- **Classification detail:** Subject by SECC Entity Type and Object/Place by operational role. Residue (I) coherence — barely formed. And the word dormant has been struck from the coherence gloss as contradicted by the crawl log — Minor (α) potency, Comprehension Level 1, Object-Weight, O-Relic graded α.
+- **Field detail:** Weight; Zone D, Echo Gardens, bare enclosure.
 - **Recognition detail:** A fist-sized dark crystal with a split shell and one thick warm tendril, lying on bare soil, with a chalked bearing line and a day's crawl measured off it in centimetres. If it is not on bare soil, or there is no chalk line, it is not this holding and the chamber has been entered improperly.
 - **Record detail:** Not to be read beside Collapsed Seed (`N-IVδ-315`) without the distinction stated: that record holds a growth interrupted at the threshold, and its series tracks inquiries abandoned part-way. This one holds a growth never begun, and its series tracks bereavement leave granted, commuted to money, and never taken. The two are opposites dressed in the same word.
 - **Containment detail:** The enclosure holds the Seed easily; it stops at any obstruction and has never crossed the bed's edge. What the enclosure does not hold is the finding, and the containment that matters is a leave rule written in another building that four hundred and eight people paid for.

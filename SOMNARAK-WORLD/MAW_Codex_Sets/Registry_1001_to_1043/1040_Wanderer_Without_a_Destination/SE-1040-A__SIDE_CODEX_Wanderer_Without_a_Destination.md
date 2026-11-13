@@ -19,10 +19,10 @@ The Soul formed from an Outside Sorrow traveler who never found a place to rest.
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIIγ-914 [N] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Lament |
+| Type / Manifestation | Object/Place — Non-breaching: expansion only. Mishandled, the drift widens across more of the vault network and the range has never afterwards contracted / Object-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / Zone A, Alpha Tree |
-| Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Lament |
+| Gauge / Pressure | 000/653; starts 000% / 18–41 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained. |
 
@@ -30,8 +30,8 @@ The Soul formed from an Outside Sorrow traveler who never found a place to rest.
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals routes beyond the city. (Stable) |
 | Ferrehan | Tests whether the worker can remain with a wanderer. (Decrease) |
 
@@ -40,7 +40,7 @@ The Soul formed from an Outside Sorrow traveler who never found a place to rest.
 
 ## WITNESS RECORD — *The Wanderer Without a Destination Source-Trace*
 
-During the The Wanderer Without a Destination Source-Trace, the field team preserved this source fact: A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of wandering after every destination has become unfamiliar.
+During *The Wanderer Without a Destination Source-Trace*, the field team preserved this source fact: A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of wandering after every destination has become unfamiliar.
 
 ## M.A.W. SET — *Wanderer Without a Destination — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Wanderer Without a Destination Source-Trace, the field team prese
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Wanderer Without a Destination's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon contains only the immediate manifestation that violates this rule: Provide a memory anchor; do not force a destination The set cannot heal the originating event. Misuse routes Wanderer Without a Destination's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1040-A`  
-**Linked Entity:** `SE-1040`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

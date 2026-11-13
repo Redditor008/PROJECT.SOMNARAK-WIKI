@@ -1,0 +1,403 @@
+# RULE TO FOLLOW — v2 (SUPER DETAILED)
+
+> **Repository Governance Gateway:** For a single-page overview connecting all specialized rulebooks and engineering handbooks, refer to [`CANON/GOVERNANCE.md`](GOVERNANCE.md).
+
+**Authority:** Direct project-owner instruction (last updated 2026-09-01)
+**Status:** Mandatory for every AI, coding session, pull request, and deployment
+**Repository:** `Redditor008/PROJECT.SOMNARAK-WIKI`
+**Integration branches:** `main` (for public web wiki) / `NON-WIKI` (for standalone reference archive)
+**Public acceptance URL:** <https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/> (for `main`)
+**Supersedes:** `CANON/RULE-TO-FOLLOW.md` (v1). Where any older file or instruction conflicts with this file, **this file wins**.
+
+Read this file before changing anything. These rules are not optional. Content, canon, placement, and visual-quality rules in the referenced standards remain binding.
+
+---
+
+## CHANGELOG — what changed from v1
+
+### ADDED (new rules that did not exist before)
+
+| Tag | Rule |
+|---|---|
+| **A0** | **PUSH ALWAYS** — every file add/edit/delete must be committed **and pushed** in the same turn. "PUSH, NEVER SAVE IT ON ARENA." |
+| **A1** | **Session fragility** — the Arena workspace is a one-chatroom, temporary thing. Only GitHub is durable. |
+| **A2** | **Closed ≠ Merged** — a closed PR is not live, and closing it kills the session's remote access. Never close a PR unless merging it. |
+| **A3** | **Asset cache-busting** — any `wiki.css`/`wiki.js` change must bump `ASSET_VERSION` and re-sync, or the fix never shows live. |
+| **A4** | **Sidebar parity** — left and right sidebars share one L-Corp terminal style; CSS fixes go at the END of `wiki.css`. |
+| **A5** | **File safety** — never delete/overwrite the owner's files or history without a direct, file-named instruction. |
+| **A6** | **Conversion direction lock** — PM↔PS conversion-overhaul writing is one-way only: P.S. Sorrow Entity → L Corp Abnormality. Rewrite; do not erase. |
+
+### REMOVED (rules deleted from v1)
+
+| Tag | Rule removed |
+|---|---|
+| **R1** | REMOVED: "Do not wait for a separate 'please merge' message when the owner's initial request explicitly authorizes completion and deployment." → The owner controls the merge. **Never auto-merge.** |
+| **R2** | REMOVED: automatic "delete the temporary branch after merge." → Branch deletion is now conditional and owner-approved. |
+
+### CHANGED (rules rewritten from v1)
+
+| Tag | Change |
+|---|---|
+| **C1** | §2 rewritten around the push-first, push-always doctrine. |
+| **C2** | §4 PR lifecycle rewritten: push → open PR early → keep it OPEN → owner merges → closed ≠ merged. |
+| **C3** | §9 completion report extended with `NOT PUSHED` and `PR CLOSED (NOT MERGED)` states and a mandatory `PR_#_NEVER_MERGED.md` record when a PR is closed without merge. |
+
+---
+
+## A0 — PUSH ALWAYS (the #1 rule, above all others)
+
+**Owner's words: "Always push each adding, editing, or anything that is about the file in git."**
+
+1. Every single file you create, edit, rename, or delete must be committed **and pushed** to the assigned session branch **in the same turn** you make it.
+2. Never end a turn with:
+   - uncommitted changes, OR
+   - a local commit that has not been pushed to GitHub.
+3. Order of operations is fixed:
+   ```
+   make change → validate → git add → git commit → git push  →  (only then) PR operations
+   ```
+4. "PUSH, NEVER SAVE IT ON ARENA." The Arena workspace is temporary and tied to one chatroom. Work that exists only in the workspace is effectively lost when the session ends. GitHub is the only durable store.
+5. If a push fails, you must NOT proceed silently:
+   - Report `NOT PUSHED`.
+   - State the exact blocker.
+   - Require a new coding session (or the owner pushing manually) before continuing.
+6. Never claim something is pushed when it is not. Verify with:
+   ```bash
+   git rev-parse HEAD
+   git rev-parse origin/<assigned-branch>    # must equal HEAD after a successful push
+   ```
+   If those two SHAs differ, your latest work is **not on GitHub**.
+
+---
+
+## A1 — SESSION FRAGILITY (the workspace is one chatroom)
+
+1. A session can end at **any moment**: a PR is merged or closed, a timeout, a disconnect, or the platform closing the session.
+2. The moment a session ends, `git push` and `gh` are **permanently blocked in that session**. You cannot recover remote access by trying again in the same chat.
+3. Because of this, **never batch work hoping to push later.** Complete one small, validated unit, then commit and push immediately.
+4. Treat every change as potentially the last thing you can push.
+
+---
+
+## A2 / C2 — PULL REQUEST LIFECYCLE
+
+1. Open a **draft** pull request early, immediately after the first push, so GitHub holds a recoverable route even if the chatroom dies.
+2. Keep the PR **open**. Do not close it unless you are merging it.
+3. **Closed ≠ Merged.** A PR that is "closed" without a merge means:
+   - the work is **not live**;
+   - the session's remote access is **cut off**;
+   - remaining local commits can no longer be pushed from that session.
+4. The owner controls the final merge. If the owner has not explicitly told you to merge, leave the PR open and report its state.
+5. If a PR is closed without merging:
+   - Create a record file `PR_#_NEVER_MERGED.md` at the repo root explaining that it was closed, not merged, and that the work is not live.
+   - Report the closed PR and the unpushed commits clearly.
+   - A **new session** is required to push the remaining commits and open a fresh PR.
+6. Direction is always:
+   ```
+   base: main   ←   compare: assigned session branch
+   ```
+   Never reverse these.
+
+---
+
+## A3 — ASSET CACHE-BUSTING (mandatory for CSS/JS changes)
+
+1. Any change to `docs/assets/css/wiki.css` or `docs/assets/js/wiki.js` MUST bump `ASSET_VERSION` in `tools/sync_global_top_bar.py`:
+   ```python
+   ASSET_VERSION = "YYYYMMDDx"   # e.g. "20260901a" — change the suffix every time
+   ```
+2. Then re-sync all pages so the `?v=` query updates:
+   ```bash
+   python3 tools/sync_global_top_bar.py docs --write
+   ```
+3. Reason: the pages load `wiki.css?v=<version>`. If the version string does not change, returning visitors keep the old cached file and **your fix never appears live**, even after deploy.
+4. Never change the stylesheet without bumping the version in the same commit.
+
+---
+
+## A4 — SIDEBAR / VISUAL PARITY
+
+1. The **left** sidebar is canonical and generated by `tools/sync_global_left_sidebar.py`. Its markup must match on all public pages.
+2. The **right** sidebar (homepage Facility 01 floor console, `body.home-page .floor-rail`) must **match the left rail's L-Corp terminal presentation**: same layered dark gradient, accent strips, signal headers, coded rows, and hover behavior.
+3. Sidebar bugs are fixed in `docs/assets/css/wiki.css` — not in the HTML.
+4. Canonical component blocks belong **at the END of the stylesheet** so they win the cascade over the many older duplicate rules. Verify with the cascade check and `git diff --check`.
+5. The left rail must remain a permanent, full-height, non-scrolling, non-shrinking column on desktop (fixed width, `position: static`, no `max-height` scroll box).
+
+---
+
+## A5 — FILE SAFETY (never delete the owner's work)
+
+1. Never delete, rename, or move the repository root or `.git`.
+2. Never run `git clean`, `git reset --hard`, `git checkout -- .`, or force-push.
+3. Never delete or overwrite an owner file (including `README.md`, `CHANGELOG.md`, `CANON/RULE-TO-FOLLOW.md`) without a direct instruction that names the exact file.
+4. When the owner says they will delete/replace a root `.md`, do NOT delete it yourself — create the new file under a distinct name (e.g. `_v2.md`) and let the owner copy it in.
+
+---
+
+## A6 — CONVERSION DIRECTION LOCK (SE → ABNORMALITY ONLY)
+
+**Owner's words (2026-10-30): "ALL YOUR WRITING IS FOR ONLY P.S. SE TO L CORP ABNO, NOT THE OTHER WAY AROUND."**
+
+1. Conversion-overhaul writing is one-way only: **Project Somnarak Sorrow Entity → Lobotomy Corporation Abnormality**.
+2. Do not write, carry, certify, or leave operative Abnormality → Sorrow Entity conversion law in that overhaul. When opposite-direction material is found in overhaul writing, rewrite it as SE → Abnormality forward law, forward checks, or worked SE → Abnormality practice. Do not erase its substantive mechanics merely because they were first framed the other way; carry the mechanic across in forward form.
+3. This lock governs the overhaul's scope; it is not permission to delete standalone archival files. **A5 still applies:** a standalone file is deleted, renamed, retired, or wholesale-rewritten only on a direct, file-named owner instruction.
+
+## 1. Permanent integration branches (`main` and `NON-WIKI`)
+
+1. `main` receives completed work for the public web wiki (`docs/`).
+2. `NON-WIKI` receives completed work for the pure canon lore & reference repository (`REFERENCE_SOMNARAK_WIKI/`).
+3. Do not rename a temporary branch, replace or delete integration branches, create extra branches, use branch chains, or force-push.
+4. Arena may create and lock a session branch. When working on `NON-WIKI`:
+   - stay on that assigned branch,
+   - create no other branch,
+   - commit and push only that branch,
+   - open PR targeting `base: NON-WIKI` (never `main`, keeping the web wiki and reference repository cleanly decoupled).
+5. Direction: target integration branch ← assigned branch. Never reverse.
+
+---
+
+## 2. Make every session push-resistant
+
+At session start, report:
+```bash
+git branch --show-current
+git status --short
+```
+
+Then, for **every** coherent unit of work:
+1. Make the change.
+2. Run the relevant checks.
+3. `git add` and `git commit`.
+4. `git push origin <assigned-branch>` **immediately** — do not wait for the end of the turn.
+5. Open/refresh a draft PR into `main` early.
+6. Continue pushing each later validated commit to the same branch.
+7. Only the owner triggers the final merge (unless explicitly told to merge).
+8. End every turn with a clean `git status` **and** `HEAD == origin/<branch>`.
+
+**Every newly created file and every validated change must be pushed in the same turn. Never stop at "committed locally."**
+
+---
+
+## 3. Manual recovery if a chatroom stops before merge
+
+1. Open the repository's **Pull requests** page.
+2. **New pull request**.
+3. base = `main`; compare = the assigned temporary branch.
+4. Review **Files changed**.
+5. Create the PR, wait for checks, **Merge**, then optionally delete the branch.
+6. Verify at the public acceptance URL.
+
+If a PR already exists, continue from step 4 — do not duplicate it.
+If the branch is missing from GitHub, the work was never pushed (or was deleted too soon). Recreate from a local commit if available; never claim an unpushed commit is recoverable from GitHub.
+
+---
+
+## 4. Verify the actual GitHub Pages source
+
+1. Merging into `main` and publishing GitHub Pages are separate facts.
+2. Confirm the Pages source is `main` and path `/docs`.
+3. If Pages points elsewhere, report the mismatch and ask the owner to set **Settings → Pages → Deploy from a branch → `main` → `/docs`**.
+4. Never change the Pages source silently.
+
+---
+
+## 5. The live website is the final acceptance surface
+
+The owner checks at <https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/>.
+
+1. Wait for the Pages deployment to finish after merge.
+2. Fetch the URL with a cache-busting query: `https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/?verify=COMMIT-SHA`.
+3. Confirm a distinctive marker from the new work.
+4. Check nested pages and assets, not only the homepage.
+5. Do not say "live" until those checks pass.
+
+Report states separately and truthfully:
+```
+LOCAL ONLY
+COMMITTED LOCALLY
+NOT PUSHED (with blocker)
+PUSHED TO TEMPORARY BRANCH
+PULL REQUEST OPEN
+PR CLOSED (NOT MERGED)
+MERGED INTO MAIN
+PAGES BUILDING
+VERIFIED LIVE
+```
+
+---
+
+## 6. Preserve the Somnarak publication standards
+
+- Release version remains **1.8.31** unless the owner changes it.
+- Preserve **197 public HTML files** unless the owner approves a route change.
+- Every public page must have at least **200 meaningful editorial words** (a floor, not a target).
+- No page may be plain, generic, filler-driven, or a title/color-swapped template.
+- Read `REFERENCE_SOMNARAK_WIKI/RESEARCH/PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md` before changing placement or information architecture.
+- SVG design must derive from page content and title; icons/banners/backgrounds/profiles/silhouettes/diagrams/maps allowed.
+- Profiles do not require faces, but every visual must be identifiable to its subject.
+- Recoloring the same SVG does not count as personalization.
+- Subject designs must span at least Human, Monster, Animal and Abstract shapes across the collection; compare silhouettes, not only materials. Preserve canon under [`R-32`](REFERENCE_SOMNARAK_WIKI/RULES/R-32_SUBJECT_SHAPE_DIVERSITY.md).
+- Follow the [Integrity Visual Live Check Rule (R-33)](REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md): whole current-file logical/visual-design reading before and after fixes, actual rendered/live inspection when in scope, explicit holds and no false completion claims.
+- Canonical top bar, homepage-derived left sidebar, and expanded bottom bar must match on every public page.
+- Shared chrome does not count as a page's personalized visual treatment.
+
+Standards live in:
+- `REFERENCE_SOMNARAK_WIKI/GUIDES/CONTENT_AND_VISUAL_STANDARDS.md`
+- `REFERENCE_SOMNARAK_WIKI/GUIDES/OPERATING_RULES.md`
+- `REFERENCE_SOMNARAK_WIKI/GUIDES/MASTER_HANDOFF_PROTOCOL.md`
+- `REFERENCE_SOMNARAK_WIKI/GUIDES/LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md`
+
+---
+
+## 7. Required checks before merge
+
+### For `NON-WIKI` branch (Canon Lore & Reference Archive):
+From the repository root:
+```bash
+python3 tools/audit_lore_archive.py
+git diff --check
+```
+All checks must output `PASS` and `git diff --check` must be completely clean.
+
+### For `main` branch (Web Wiki Frontend):
+From the repository root:
+```bash
+python3 tools/audit_page_word_floor.py
+python3 tools/sync_global_top_bar.py
+python3 tools/sync_global_left_sidebar.py
+python3 tools/sync_global_bottom_bar.py
+python3 tools/audit_site_structure.py
+python3 tools/audit_svg_compositions.py
+python3 -m py_compile tools/*.py
+node --check docs/assets/js/wiki.js
+git diff --check
+```
+
+For website-wide chrome changes on `main`, also serve `docs/` locally and confirm all 197 HTML routes return HTTP 200, and visually review desktop + mobile widths when browser tooling is available.
+
+Do not merge known failures. Do not hide failed checks. Do not report local validation as live-site verification.
+
+---
+
+## 8. Required completion report
+
+Every session must end with a concise factual report:
+```
+Active branch: <name>
+Commit: <full or short SHA>
+Push: <pushed / NOT PUSHED (state exact blocker)>
+Pull request: <none / URL / CLOSED-NOT-MERGED>
+Merged into target branch: <yes / no>
+Pages source: <branch:/path or not applicable for NON-WIKI>
+Live verification URL: <URL or not applicable for NON-WIKI>
+Distinctive live marker: <marker or not applicable for NON-WIKI>
+Temporary branch deleted: <yes / no>
+Working tree clean: <yes / no>
+Checks: <passed checks and any failures>
+```
+
+Never collapse these states into the single word "done."
+
+---
+
+## 9. Master Macro-Chronological Rule (The Three Wings & Post-Dawn Law)
+
+**Owner's binding rulings:**
+- **"All This Three SED, UCD, AND R.D. Happen Before DAWN OF HOPE And ANYTHING ELSE HAPPEN AFTER DAWN OF HOPE"**
+- **"UNK SE Is After R.D. Even"**
+- **"The Cycle Is Only Things That Is View Able Through R.D. + Absolovhan [sic, Absolvohan] So no Mention Of The Cycle Outside R.D. + Absolovhan [sic, Absolvohan] and that mean The Only Things That Used The Cycle Is R.D. + Absolovhan [sic, Absolvohan]"**
+- **"CONTINENTAL GEOGRAPHY IS NOT AN SE"**
+
+1. **The Cycle Localization Rule (Strict R.D. + Absolvohan Scope):**
+   - The 1,778 Mnemonic Cycles belong strictly and exclusively to **The Reverie Directorate (R.D.) / The Absolvohan (Facility 01)**.
+   - Under no circumstances is "The Cycle" used or referenced outside R.D. + The Absolvohan as an external calendar standard.
+   - Just as the 10,000-year / 50-day loop protocol in Lobotomy Corporation exists strictly inside the L Corp facility—with The City, Library of Ruina, and Limbus Company never measuring time by L Corp loops—Project Somnarak confines the Cycle system entirely to Facility 01.
+   - SED (Subterranean Expedition Division), UCD (Underworld Cleanup Descend), the Council of Sighs, the syndicate underworld, and all Post-Dawn operations operate exclusively on linear calendar time (Mugenhan Municipal Solar Standard).
+   - **Reference vs. Measurement Exception Ruling:** Temporal *measurement* and active *calendaring* by Cycles are strictly prohibited outside R.D. + The Absolvohan (external entities, municipal authorities, and post-Dawn wings do not measure calendar time by Cycles). However, retrospective narrative, historical, and testimonial *references* to the R.D. Cycles are canonical and valid when documenting loop aftermath, facility origin records, or post-loop survivor memories (e.g., *The Repeated Survivor* bearing trauma from 1,778 resets, the *Regressor Log Book*, or Seiyon's synthesis in Cycle 0002). This directly mirrors how Lobotomy Corporation's 10,000-year loop is retrospectively discussed in Library of Ruina and Limbus Company without The City tracking municipal time by it.
+2. **The Ante-Dawn Era (Before Dawn of Hope — Sequential Tripartite Progression):**
+   - All operations, descent logs, and purge chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope in sequential progression:
+     1. **SED (Subterranean Expedition Division / Katabagil):** The seven descent passages exploring the ancient subterranean bedrock. Operates on calendar years and depth meters (no cycle tracking).
+     2. **UCD (Underworld Cleanup Descend / Katharcheok):** The six pacification purges in The Raw against the underworld syndicates. Operates on calendar years and tactical turns (no cycle tracking).
+     3. **R.D. (The Reverie Directorate / The Absolvohan):** Containment of the 291 standard Sorrow Entities, harvesting of Liquid Han, and the internal 1,778-Cycle loops within Facility 01. The SOLE division that uses and experiences the Cycle system.
+3. **The Watershed Climax (The Dawn of Hope):**
+   - The Hand of Hope opens at the culmination of Cycle 1,778 in Year 4,238, transmuting the first 15% of ambient sorrow into resonant Hope Entities. Primary mandates of SED, UCD, and R.D. conclude; R.D. Cycle 1,778 ends.
+4. **The Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):**
+   - **ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope, and **UNK SE is strictly positioned AFTER R.D.**:
+     - **UNK SE (Unknown Sorrow Entities):** The anomalous dossiers in `SOMNARAK-WORLD/Unknown_Entities/` manifest strictly **AFTER R.D.**, encountering Hope Bearers (`The Extinguished`, `The Undelivered Thanks`), surviving broken loop mechanics (`The Repeated Survivor`, `Book of Regressor Log Dramaturgy`), or discovered across uncharted frontiers (`The Glass Silt Drifter`, `The Singing Needle`). Continental geography is strictly sovereign landmass and not an SE.
+     - **The Dawn Initiative:** The mobile fortress *The Lantern* continental journey (`SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_DAWN_OF_HOPE.md`).
+     - **The Horizon Caravan:** The trans-desolate overland wasteland expedition (`SOMNARAK-WORLD/Jipyeongseondae/`).
+     - **The Memory Archive:** Floor realizations and Memory Leaf extractions (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
+     - **The Wound Walkers:** Post-Dawn spiritual pilgrimage across seven crucibles in Year 4,250+ (`SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_WOUND_WALKERS.md`).
+     - All subsequent continental expeditions, diplomatic reconnections, and post-Dawn institutions.
+
+---
+
+## 10. Monospace ASCII Text Boxes vs. Rendered Markdown Tables
+
+1. **Monospace ASCII Text Boxes (Code blocks bounded by `+===+`, `+---+`, and `| ... |`):**
+   - Strictly ZERO Korean Hangul characters permitted. Only Latin Alphabet Romanization (Romaja) is allowed.
+   - Every row from border to border must maintain exact geometric character width symmetry (`width=74` in chatroom outputs).
+   - *Technical Rationale:* East Asian characters render fullwidth (2 columns wide) in monospace font rendering, destroying column alignment and causing jagged vertical pipes (`|`).
+2. **Rendered Markdown Tables (`| Key | Value |` outside code fences):**
+   - Rendered with proportional, self-adjusting cell padding by GitHub and markdown browsers.
+   - Korean Hangul is **fully permitted and encouraged** within markdown table cells for bilingual depth, provided the mandatory two-space buffer (`  [한글]  `) is maintained alongside paired English and Romanized translations.
+3. **Multi-Line Cell Wrapping & Vertical Growth Standard:**
+   - Inside text boxes, a logical row can grow vertically up to **5 visual sub-rows** so that words are NEVER truncated, sliced, or cut off.
+   - Cap vertical row growth at **5 visual sub-rows maximum** to prevent visual clutter and keep presentation clean.
+   - Every sub-row must maintain exact horizontal monospace padding and border alignment (`+` and `|`).
+
+---
+
+## 11. Corporate Taxonomy Law (The 10 Primary Companies & Somnarak Outsider Factories)
+
+1. **The 10 Primary Companies (5 Main & 5 Sub):**
+   - Somnarak officially recognizes exactly **ten Primary Companies** holding sovereign and civic municipal charters:
+     - **The 5 Main Companies (Sovereign Core Wings):**
+       1. *The Reverie Directorate (R.D. / 몽환국)* — Facility 01 Containment, Sorrow Harvesting, M.A.W. Forge.
+       2. *Subterranean Expedition Division (SED / 심연 탐사대)* — Deep Maw Abyssal Cartography & Void Bore Fleet.
+       3. *Underworld Cleanup Descend (UCD / 지하 정화단)* — Tactical Urban Purge, Anti-Fray pacification.
+       4. *Won-Hyeong Biologics (Won-Hyeong Saengche Bok-won Gongsa / 원형 생체 복원 제약 공사)* — Sovereign Pharmacopoeia, Composure Chemistry, Flesh-Suture & Cellular Reset (`The_WONHYEONG_BIOLOGICS.md`).
+       5. *The Horizon Caravan (Jipyeongseondae / 지평선대)* — Trans-Desolate Overland Transit & Armored Fleet.
+     - **The 5 Sub Companies (Chartered Infrastructure Trusts):**
+       1. *Chakhwi Siphon Energy Trust (착취 추출 공사)* — Liquid Han siphoning, geothermal conduits, grid power.
+       2. *Jikjo Veil-Works Industrial Guild (직조 방벽 공업)* — Acoustic Veil weaving, hazard armor fabrics.
+       3. *Urim Heavy Resonance Manufactory (울림 중공업)* — Heavy acoustic artillery, anti-distortion pylons.
+       4. *Cheongsan Mnemonic Clearing House (청산 결제 금융)* — Municipal debt ledger, bond underwriting, credit currency.
+       5. *Hwayeom Thermal Reclamation Corps (화염 열원 정화단)* — Deep-sump incinerators, chemical slurry scrubbers, bio-slag curfew disposal.
+   - **Institutional Distinction (Memory Archive):** The Memory Archive (*Gieok Jeojangso* / 기억 저장소) is an Institutional Sanctuary & Mnemonic Library (carved within the sub-Alpha root strata for soul preservation and Memory Leaf extraction), NOT a commercial company.
+   - **Corporate Canon Mandate (PM Wing Analogy):** Paralleling Project Moon where prominent City Wings (e.g., T Corp, W Corp, K Corp, R Corp) possess brim-full lore, history, technologies, and dark secrets without each requiring a standalone titular game, Somnarak companies exist as complete worldbuilding pillars regardless of whether an interactive game campaign is centered upon them.
+2. **Somnarak Outsider Factory Architecture (솜나락 외곽 공장 — The Non-Known Sector):**
+   - **Universal Rule:** Any and all industrial, manufacturing, refining, or fabrication facilities **other than the 10 Primary Companies** are designated **Somnarak Outsider Factory** (or plural: *Somnarak Outsider Factories*).
+   - "Other than the 10 is the non-known one": They represent the unchartered, unregistered, off-grid fringe operating in the deep sumps of Zone B, the outer perimeter of Zone E, and the Desolate outskirts without Council of Sighs licensing.
+
+---
+
+## 12. Chatroom Reporting Law (`R-31` — Read Before Doing Anything)
+
+**Authority:** Direct project-owner instruction (stated 2026-10-08): *"You Need To Write The Information In
+Chatroom More Clearly and More Readable, This For Normal Text And Table. Write It As A Must Follow RULE And
+Always Read The Rule Before Doing Anything."*
+
+**Full rule:** [`REFERENCE_SOMNARAK_WIKI/RULES/R-31_CHATROOM_READABILITY.md`](REFERENCE_SOMNARAK_WIKI/RULES/R-31_CHATROOM_READABILITY.md)
+
+1. **Read `R-31` first.** Read it at the start of every session, with this file and
+   `CANON/SESSION_BREAK_PRECAUTION.md`, and read it again before writing any chatroom report. This is mandatory,
+   not a style preference.
+2. **The answer comes first.** Line one states the outcome: what was pushed, its hash, and `PUSH VERIFIED`
+   or `NOT PUSHED`.
+3. **Normal text is short.** One idea per sentence, about 25 words as the ceiling, three sentences as the
+   longest paragraph, and any list of three or more items written as bullets. Tool names and internal terms
+   are glossed on first use in the turn.
+4. **Tables are readable at a glance.** Five columns maximum, one row per dossier or per counter, short noun
+   headers, short cells with before → after in one cell, and every counter written as `x / y`.
+5. **Names in cells, links under the table.** A cell carries the dossier's name and designation code, never a
+   file path. The `R-12` GitHub link goes below the table, one per finished dossier.
+6. **Fixed report order.** Verdict → what changed → tables → links → live counters → what is next.
+7. **§8 still binds.** The completion-report block in §8 is required; `R-31` governs how it and everything
+   around it are written so the owner can read them without decoding.
+8. **A failure is redone in the same turn.** A report that breaks `R-31` is rewritten before any further work
+   starts, and the rewrite is recorded the way a gate refusal is recorded.
+9. **Each dossier carries a commentary.** After the content sentences for a dossier, the report states the
+   reporting agent's own short reading of the entity, marked **Commentary** — two to four plain sentences of
+   opinion. It is never evidence, never a defect finding, and never a substitute for a hold; a canon conflict
+   it notices is entered as a hold in the normal way.

@@ -12,9 +12,9 @@
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
-| **Manifestation** | Object-Grudge |
-| **Physical Form** | Mixed — A great split seed erupting a tangle of thick wet shoots — a bulky plant-beast hauling itself on pulsing root-limbs. Salt-cold, it smells of cold rain; it moves though it should be dead. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Manifestation** | Subject-Lament |
+| **Physical Form** | Mixed |
+| **Movement** | Mobile — hauls itself on wet root-limbs at 0.4 m/min over bare panel and roots into surfaces it rests against. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -26,22 +26,23 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject, worked throughout under Object/Place rules — it is mobile and it roots, but there is no mind here to engage or confront. See Operational Notes. |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — resisting the urge to declare what the unknown form would have been |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful cycle, counted from the pulse log rather than the shell |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Work Damage** | 3–7 Lament — the cost is a seed that hauls itself about the chamber and expands rather than escaping |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Vessel-Destructible** | No authorized destruction route — never crush, open or strike the source shell |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Lift clear, log the partial form in full even though it will not recur, and file the observation under the Rule of the Negative Finding. Nothing beyond that has ever lowered the gauge on Collapsed Seed. |
 
 ### Operational Notes
 
 - No breach counter applies. The seed hauls itself about the chamber but expands rather than escapes, and the trigger is activation.
-- Viderehan and Ferrehan are the whole of the work here; the mobility changes nothing about that, because there is no mind in this one to engage and none to confront.
+- Viderehan and Ferrehan are the whole of the work here. The mobility changes nothing about that, because there is no mind in this one to engage and none to confront.
 - Observation shows the entity it might have become. Endurance requires remaining while the root-limbs pulse and the sap runs.
-- The shoots are wet and continue to erupt from the split regardless of pruning. Chamber drainage is cleared every cycle because the blue sap sets hard.
+- The shoots are wet and continue to erupt from the split. They are not pruned: the contact prohibition covers tools, instruments and protective equipment, and chamber drainage is cleared every cycle because the blue sap sets hard.
 - Yield is taken from the sap rather than the body, which makes a weeping cycle productive and a dormant one worthless.
 
 ## Combat Record
@@ -52,10 +53,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | Haul rate 0.4 m/min on root-limbs over bare panel; faster across substrate it has already rooted. It is slow and it does not stop. |
-| **Resistance** | 45% against Lament pressure, 35% against every other kind |
+| **Resistance** | 45% against Lament pressure, 35% against every other kind. Resistance is not permission for contact: keep the shell dry and unplanted, tears and growth medium absent, panels timed before visual inspection, and any hypothetical form recorded as hypothetical. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 27–58 per hit · Lament |
+| **Han Pressure [ATK]** | 30–61 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -72,23 +73,23 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Mask Market |
-| **Resolution Condition** | The worker states aloud what the inquiry looked for and failed to find, and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Lift the Seed clear of every rootable medium, restore dry unplanted containment without supplying a desired form, state aloud what the inquiry looked for and failed to find, and lower the Sorrow Gauge below 25%. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Hollow Shell* [**Debuff**] } | "The seed is caved in — hollow — and the echo of what it could have been aches." | [The Seed's collapsed shell resonates with the target's own failed potential.] | *Target suffers -10 Composure; they feel every unlived possibility.* **[10 Lament DMG [Lament]]** | When the target holds the Seed. |
-| { *The Withered Core* [**Debuff**] } | "Inside the collapsed shell, the core is dry and dead — and it is worse than empty." | [The Seed's dead interior emanates grief for what never grew.] | *Target loses 10 Composure; the dead potential is contagious.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Shell Shard* [**Attack**] } | "A piece of the collapsed shell breaks free — dry, sharp, and carrying the bitterness of failure." | [A shard of collapsed seed-husk launches.] | *Inflicts Lament pressure and one small, bitter wound.* **[14-22 Lament DMG [Lament]]** | When the Seed is squeezed. |
-| { *The Full Implosion* [**Attack**] } | "The collapse finishes, and every wall of the shell comes inward in the same breath." | [The Seed completely falls apart and lets out the grief it was holding.] | *A heavy Deep Blue implosion; the meter climbs 15%.* **[24-36 Lament DMG [Lament]]** | On crushing the Seed. |
-| { *The Failed Harvest* [**Ultimate**] } | "The whole field of seeds goes down at once, every one of them over before it started." | [The Seed carries its failure out across the whole area.] | *Everyone in range takes Lament pressure for three turns where nothing came up.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the gauge passes 65%. |
+| { *The Hollow Shell* [**Debuff**] } | "The seed is caved in — hollow — and the echo of what it could have been aches." | [A prohibited contact lets the collapsed shell resonate with the worker's own failed potential.] | *The worker suffers Clarity pressure. End contact at once, lift the contacted panel clear, and record the breach without naming an intended form.* **[10 Lament DMG [Lament]]** | When a worker breaches the contact prohibition and handles the shell or attached root material. |
+| { *The Withered Core* [**Debuff**] } | "Inside the collapsed shell, the core is dry and dead — and it is worse than empty." | [The worker remains at the gallery to narrate what the unknown life would have become, and the invented form takes hold.] | *The worker loses Clarity. A partner stops the narration, verifies name/body/current intention, and records only that narration occurred—not its content.* **[10 Lament DMG [Lament]]** | When a worker lingers to assign or describe the Seed's intended form. |
+| { *The Shell Shard* [**Attack**] } | "A piece of the collapsed shell breaks free — dry, sharp. And carrying the bitterness of failure." | [Force at the shell drives roots outward and accelerates the partial pressure at the split; no shard is treated as a safe projectile or sample.] | *Inflicts Lament pressure along the root path. Stop all force, do not strike the source shell, lift affected panels clear, and separate only roots already detached from the shell.* **[14-22 Lament DMG [Lament]]** | When the shell is struck, squeezed, pruned or otherwise forced. |
+| { *The Full Implosion* [**Attack**] } | "The split draws inward — and the unknown pressure answers by trying harder to get out." | [Additional crushing begins a catastrophic partial-manifestation surge; the shell is not safely destroyed or emptied.] | *Heavy Lament pressure; no meter percentage is inferred. Remove the Seed from every growth medium, restore dry unplanted containment, and do not supply soil, sorrow-water or a desired form.* **[24-36 Lament DMG [Lament]]** | When additional crushing force is applied to the source shell. |
+| { *The Failed Harvest* [**Ultimate**] } | "Nothing in the chamber finishes becoming — and everything nearby is asked to carry the stopping point." | [A planted or sorrow-watered Seed projects its arrested partial manifestation across the chamber.] | *Everyone in range takes Lament pressure for three turns. Lift the Seed clear, remove every growth medium, keep tears off the shell. And record all seen forms as hypothetical.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90% while the Seed is planted, sorrow-watered or in contact with growth medium. |
 
 ### Battle Phases
 
 1. **Tension:** The pulse is timed for a full minute from the observation position before anyone moves. Fourteen a minute is baseline; the recorded range is nine to thirty-one. A session does not open on a rate the previous session did not also record, and the panels are checked before the entity is looked at.
 2. **Clash:** Viderehan and Ferrehan only, worked from outside the containment line through the panel system and the drainage channel. Nothing touches the shoots — not a tool, not an instrument, not a gloved hand. The one authorised exception produced three months of accelerated rooting and the authorisation was revoked.
-3. **Resolution:** The session closes on a second timed pulse and the documented condition: **the worker states, aloud and on the record, what the inquiry into this entity looked for and failed to find.** The naming is the management act. Two inquiries have been mounted and both failed; the holding's position is that the failure must be spoken in the room rather than filed and forgotten, and that a worker who cannot say what was not found should not be working the chamber.
+3. **Resolution:** The session closes on a second timed pulse, dry unplanted containment, and the documented condition: **the worker states, aloud and on the record, what the inquiry into this entity looked for and failed to find.** No desired form is offered in its place. Two inquiries failed; the negative finding must be spoken in the room rather than filed and forgotten, and a worker who cannot say what was not found should not be working the chamber.
 
 ### Consequences
 
@@ -96,16 +97,17 @@
 - Long exposure produces an intolerance of open questions. Workers rotated off this holding have been noted closing other files early, with firmer conclusions than their evidence carried, and the wing treats that as an exposure finding rather than a competence one.
 - The dagger's cost is paid in the wielder's own unfinished work, which it renders vividly and in detail as though it had been completed. The detail is the hazard; nothing invented could do the same damage.
 - An unresolved session leaves the pulse elevated into the next cycle. It does not breach from that alone. What it does is remove the next team's baseline, and three of the four breaches in the chamber's history followed a cycle whose baseline had been lost.
+- It hauls itself toward rootable surfaces, and the Market has closed the floor it reaches rather than repair it, so the closure is a district decision carried in the Market's plan.
 
 ## Appearance
-**Physical Form:** A great split seed of dark crystal, cracked down the centre and leaking blue sap, with a tangle of thick wet shoots erupting from the split — a plant-beast hauling itself on pulsing root-limbs. The crystal shell and the shoot mass are the same entity; descriptions that mention only one of them are describing how much was visible that week. **Movement:** It hauls itself on root-limbs, weeping blue sap, and roots into whatever it rests against.
+**Physical Form:** A great split seed of dark crystal, cracked down the centre and leaking blue sap, with a tangle of thick wet shoots erupting from the split — a plant-beast hauling itself on pulsing root-limbs. The crystal shell and the shoot mass are the same entity. Descriptions that mention only one of them are describing how much was visible that week. **Movement:** It hauls itself on root-limbs, weeping blue sap, and roots into whatever it rests against.
 
 **Notable Features:** It pulses like a heart, produces roots in nearby surfaces, and appears ready to grow despite its collapse.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Object-Grudge
+- **Manifestation:** Subject-Lament
 - **Primary marker:** A split shell of dark crystal leaking blue sap, wrapped in thick wet shoots, pulsing at a measurable rate. The rate is the marker; the shoot mass is not stable enough to identify on.
 - **Position / movement:** Mobile. It hauls itself on root-limbs and roots into whatever it rests against, so position is managed by rotating floor panels rather than fixed by a mark. The earlier description of this entity as stationary was wrong and stood for years against a chamber whose whole floor system exists because it moves.
 - **Element signature:** Lament
@@ -121,7 +123,7 @@
 | **Distinctive markers** | The timed pulse, the root growth on the lifted panels, and the sap volume in the channel. All three are read from outside the line. |
 | **Identification** | Pulse rate against the last session's, panel condition, sap volume. Nothing in this holding is identified by looking at it, and nothing in it is touched. |
 
-**Appearance protocol:** Time the pulse for a full minute and write the figure before any description. Then position, panel numbers in contact, shoot extent, and sap volume. Descriptions of the shoot mass are logged and are not used for identification; they have varied by a factor of three between observers standing side by side, and the variation is in the mass and not in the observers.
+**Appearance protocol:** Time the pulse for a full minute and write the figure before any description. Then position, panel numbers in contact, shoot extent, and sap volume. Descriptions of the shoot mass are logged and are not used for identification. They have varied by a factor of three between observers standing side by side, and the variation is in the mass and not in the observers.
 
 ## Origin
 - **Formation:** The Seed formed from life that never reached its intended form.
@@ -135,38 +137,29 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows the entity it might have become. | Stable |
-| **Ferrehan** | Tests whether the worker can wait without forcing growth. | Decrease |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. The six names stand together on the account and the file refuses to separate them, so grief that tries to sort one out from the others is read as the instruction being given again. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. The team that crushed the seed was acting on an instruction given in the moment, and force applied here reads as its repetition. | Negative-Low |
+| **Viderehan** | Shows the entity it might have become. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can wait without forcing growth. | Decrease · High |
 
 
 ### Operational Work Notes
 
-Flerehan and Pugnahan are genuinely unavailable rather than inadvisable. There is no mind in the chamber to weep at or to face down; the thing inside the shell never got far enough to have one, and that is the entity's whole condition. Viderehan shows the worker the form it was approaching — differently to each worker, and never the same form twice, which is itself a finding the second inquiry recorded and could not use. Ferrehan lowers the gauge and is the assignable route. The gauge and the pulse are separate instruments and are kept in separate columns; the gauge answers to the session and the pulse answers to the facility's filing.
+Flerehan and Pugnahan are genuinely unavailable rather than inadvisable. There is no mind in the chamber to weep at or to face down. The thing inside the shell never got far enough to have one, and that is the entity's whole condition. Viderehan shows the worker the form it was approaching — differently to each worker, and never the same form twice, which is itself a finding the second inquiry recorded and could not use. Ferrehan lowers the gauge and is the assignable route. The gauge and the pulse are separate instruments and are kept in separate columns. The gauge answers to the session and the pulse answers to the facility's filing.
 
 **Reading the response:** A falling gauge means the worker waited without forcing anything, which is the whole of what Ferrehan asks here. A rising gauge almost always means somebody tried to finish something — pruned a shoot, proposed a conclusion, or told the chamber what it would have been. The pulse ignores all of this. It has never responded to a session in five years of paired records, and a supervisor who writes up a pulse change as a work result is corrected on the sheet.
 ## Activation Behavior
-
-**Activation Trigger:** Planting or watering the Seed with sorrow.
-
-**Effect:** Begins a partial manifestation that stops at the same point every time — roughly a third of a form, always the same third, and never the same form. Four recorded instances, four different partial shapes, one identical stopping point.
-
-**Duration:** Until the relic is lifted clear of any medium it can root into. Bare panel is sufficient; the operator does not need to reach a sealed container, and the instruction says so because three operators have tried to and lost time.
-
-**Risk:** Whatever emerges cannot be identified, including afterwards, including from recordings. Two inquiries have tried. The hazard is therefore not that it is catastrophic but that nothing learned from it can be carried to the next occasion.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
-| **Primary Effect** | Partial manifestation, consistently arrested at the same point, never the same form twice. |
-| **Duration** | Until lifted clear of any rootable medium. Bare panel is sufficient. |
+| **Use Mode** | **Dry, unplanted containment worked from outside the line — never equipped or worn** |
+| **Activation** | Planting the Seed or watering it with sorrow. No operator takes it onto the body. |
+| **Primary Effect** | A partial manifestation that stops at the same point every time — roughly a third of a form, always the same third, never the same form. Four recorded instances, four different partial shapes, one identical stopping point. |
+| **Duration** | Until the relic is lifted clear of any medium it can root into; bare panel is sufficient. The operator does not need to reach a sealed container, and the instruction says so because three operators have tried to and lost time. |
 | **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
-| **Risk** | Unidentifiable in the moment and unidentifiable on review; nothing learned transfers to the next occurrence. |
+| **Risk** | Whatever emerges cannot be identified — in the moment, afterwards, or from recordings; two inquiries have tried. The hazard is not that it is catastrophic but that nothing learned from it can be carried to the next occasion. |
 
 **Operational Rule:** The relic is not carried into the chamber and never has been. It is worked in the panel store, against lifted root material, by the inspector on duty, and the authorisation to take it past the containment line has been sought four times and refused four times.
 
@@ -182,9 +175,9 @@ Flerehan and Pugnahan are genuinely unavailable rather than inadvisable. There i
 
 ### Escalation Notes
 
-Escalation here is a rate change and nothing else, and the rate changes before anything visible does. Three of the four breaches in the chamber's history were preceded by shifts recorded hours in advance; one was not, and the protocol states that in the same paragraph rather than in a footnote, because a warning indicator that is right three times in four will be trusted four times in four unless the file prevents it.
+Escalation here is a rate change and nothing else, and the rate changes before anything visible does. Three of the four breaches in the chamber's history were preceded by shifts recorded hours in advance. One was not. And the protocol states that in the same paragraph rather than in a footnote, because a warning indicator that is right three times in four will be trusted four times in four unless the file prevents it.
 
-**Response sequence:** Time the pulse, check the panel runs, seal them, lay stored substrate across the exit line and let the rooting exhaust itself into it. Do not improvise Flerehan or Pugnahan; neither exists on this holding and the one occasion a responder attempted Pugnahan is why the instruction is now in bold on the chamber door.
+**Response sequence:** Time the pulse, check the panel runs, seal them, lay stored substrate across the exit line and let the rooting exhaust itself into it. Do not improvise Flerehan or Pugnahan. Neither exists on this holding and the one occasion a responder attempted Pugnahan is why the instruction is now in bold on the chamber door.
 
 
 ### Detailed Activation Record
@@ -192,7 +185,7 @@ Escalation here is a rate change and nothing else, and the rate changes before a
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Planting or watering the Seed with sorrow. |
-| **Manifestation** | Object-Grudge |
+| **Manifestation** | Subject-Lament |
 | **Primary effect** | Partial manifestation arrested at a consistent point; the form differs every time. |
 | **Duration / rate** | Until lifted clear of rootable medium; onset within seconds, arrest within a minute. |
 | **Risk** | Unidentifiable in the moment and unidentifiable on review; nothing learned transfers to the next occurrence. |
@@ -201,12 +194,11 @@ Escalation here is a rate change and nothing else, and the rate changes before a
 **Activation reporting order:** pulse rate, timed → panel condition → visible change at the split → sap volume → what inquiry anywhere in the facility was wound up that week and whether it filed. The last item is not optional and is the one that gets left off.
 ## Breach Behavior
 
-> *"Collapsed Seed has broken free. Plants itself in personnel, growing within."*
-
+> *"Collapsed Seed has broken free and is looking for substrate. It takes the nearest rootable surface, which in a corridor is usually a person's boots rather than the person, so keep moving and keep the floor clear."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Collapsed Seed breaks loose and charges, thrashing. It plants itself in personnel, growing within. |
+| **Movement** | It hauls itself at the recorded root-limb rate toward rootable surfaces. Roots may reach personnel in its path and attempt internal planting; it does not charge or pursue as a hunting creature. |
 | **Effect** | The air fills with audible weeping. Responders report it as coming from inside the shell rather than from the shoots, which is not possible from the geometry and is reported anyway, every time. |
 | **Secondary Effect** | A specific and locatable urge to finish something — a sentence, a task, a report left open years ago. Responders can name theirs. |
 | **First Target** | The nearest rootable surface, which in a corridor is usually a person's boots and not a person. It is not hunting; it is looking for substrate, and the distinction has saved lives and must not be mistaken for safety. |
@@ -214,7 +206,7 @@ Escalation here is a rate change and nothing else, and the rate changes before a
 
 ### Escalation Notes
 
-- **Breach type:** Escape. It charges, it thrashes, and it plants itself in personnel and grows there, which is the only recorded instance in the wing of an entity using a worker as a medium rather than a target.
+- **Breach type:** Escape. It hauls itself toward rootable surfaces at the recorded rate and may plant itself in personnel it reaches, which is the only recorded instance in the wing of an entity using a worker as a medium rather than a target.
 - **Containment priority:** Panels, drainage and distance. Pugnahan is not available on this holding — there is no mind here to confront and the row says so — and an earlier edition of this entry nonetheless instructed responders to force it back through Pugnahan. That instruction was obeyed once. Containment is re-established by sealing the panel runs and letting the rooting exhaust itself against stored substrate laid down for the purpose.
 - **Sorrow Gauge on breach:** Opens at 40% and climbs 10% a turn.
 
@@ -226,7 +218,7 @@ Escalation here is a rate change and nothing else, and the rate changes before a
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : A compact push dagger featuring a broad leaf-shaped double-edged blade and a transverse T-handle carved from fossilized wood, inlaid with an ancient petrified iron seed.
+**Appearance:** A compact push dagger featuring a broad leaf-shaped double-edged blade and a transverse T-handle carved from fossilized wood, inlaid with an ancient petrified iron seed.
 
 Designed for close-quarters grappling and underhand thrusts, the dagger slips easily between armor joints. The petrified seed in the handle pulses with faint warmth upon flesh contact.
 
@@ -238,7 +230,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Collapsed Seed's lament signature in the strike.
 
-**Cost:** The wielder is shown their own abandoned work, completed, in full detail. Involuntary weeping is listed in older ledgers as the cost and is not; it is a symptom, and the armoury note asks that the distinction be respected because the real cost does not present at the time.
+**Bearer cost:** The wielder is shown their own abandoned work, completed, in full detail. Involuntary weeping is listed in older ledgers as the cost and is not. It is a symptom, and the armoury note asks that the distinction be respected because the real cost does not present at the time.
 
 ### M.A.W. Suit — Collapsed Seed Shroud
 
@@ -256,7 +248,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Collapsed Seed's kind of pressure.
 
-**Cost:** The wearer stops beginning things. Not finishing — beginning. Three long-term wearers filed no new proposal of any kind during their term and all three described the period afterwards as restful.
+**Bearer cost:** The wearer stops beginning things. Not finishing — beginning. Three long-term wearers filed no new proposal of any kind during their term and all three described the period afterwards as restful.
 
 ### M.A.W. Stigma — Collapsed Seed Core
 
@@ -270,13 +262,15 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Ability:** Generates a protective growth around the user.
 
-**Cost:** The growth feeds on the user's memories of future possibilities.
+**Bearer cost:** The growth feeds on the user's memories of future possibilities.
 
 *The core-stone has been granted four times, and on each occasion the recipient had, that quarter, filed a written report on something they had looked for and failed to find. The holding records the pattern without claiming to understand it and without putting it forward as an incentive.*
 
 ### M.A.W. Use Notes
 
 All three pieces are δ-grade, all three are held in the panel store rather than the armoury proper, and none of the three has ever been taken past the containment line. They share one property that the ledger records and does not explain: each of them acts on things the user did not finish. The dagger shows them finished, the shroud removes the wish to start anything, and the core-stone grows a shelter out of the user's remaining sense of what is still possible. The wing's note is that this is the most coherent M.A.W. set it holds and the least useful in the field.
+
+**Set resonance — No Germination Required:** The Core may grow only around the bearer, the Shroud separates that growth from identity, and the Requiem targets only roots already detached from the source shell. Together they can hold a partial-manifestation surge without planting Unsprouted Life or declaring its intended form. Future memories feed the barrier; supplying soil, sorrow-water or a desired form turns protection into germination and makes the team the growth medium. Correct use slows the shell’s pressure without opening it further.
 
 ### Field Use Record
 
@@ -289,9 +283,9 @@ All three pieces are δ-grade, all three are held in the panel store rather than
 
 **Stat interpretation:** δ-grade and correctly rated against entities. Against a wielder the figures mean nothing, because the cost of this set is measured in proposals not written over the following six months, and the wing has had to build an administrative count to see it at all.
 
-**Full-set source review (2026-10-12):** Reviewed the `— · δ` grade overview, all three local M.A.W. blocks, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-315-A` (`N-IVδ-315 [LO]`, set `4/4`), items `SE-315-B/C/D` (`MAW-W/S/G-315-01`), Registry rows 599–602, Master Codex table/Entries 529–531, Tale 177, and archetype `MAW-W-315`. Every primary review section is present; each linked item has an Appearance section, but none has a separately labelled transition block. Only a Weapon archetype index exists; there is no Suit/Stigma archetype list. The overview now reads `— · δ (Critical)` and the Stigma bonus is specified as `+3 Clarity during source work`. The primary and linked Weapon item agree on the numeric core; its Skewer pattern and 100% → 70% → 50% falloff are unstated locally and were not added. The Suit resistance/cost profile aligns with its item. Master detail entries do not supply a full appearance or combat profile; Registry rows 600–601 retain variable/unset Weapon data and a generic Suit-resistance placeholder.
+**Full-set source review (Year 4238):** Reviewed the `— · δ` grade overview, all three local M.A.W. blocks, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-315-A` (`N-IVδ-315 [LO]`, set `4/4`), items `SE-315-B/C/D` (`MAW-W/S/G-315-01`), Registry rows 599–602, Master Codex table/Entries 529–531, Tale 177, and archetype `MAW-W-315`. Every primary review section is present; each linked item has an Appearance section, but none has a separately labelled transition block. Only a Weapon archetype index exists; there is no Suit/Stigma archetype list. The overview now reads `— · δ (Critical)` and the Stigma bonus is specified as `+3 Clarity during source work`. The primary and linked Weapon item agree on the numeric core. Its Skewer pattern and 100% → 70% → 50% falloff are unstated locally and were not added. The Suit resistance/cost profile aligns with its item. Master detail entries do not supply a full appearance or combat profile; Registry rows 600–601 retain variable/unset Weapon data and a generic Suit-resistance placeholder.
 
-Preserve the extraction, cost, and form holds. The primary calls the Weapon a shard taken from the shattered source; the Side and Weapon item describe a tear-derived echo/blade formed after cooling outside growth medium, without establishing literal crystal removal. The primary marks involuntary weeping as a symptom and identifies the wielder's own abandoned work, shown completed, as the deeper Weapon cost; the Side/item associate the Requiem with borrowed grief and weeping. The primary Shroud cost (stopping new work) and linked Shroud account (numb minor joys and grief for unrealized futures) remain distinct; the Core's future-memory loss is separately recorded. No documented transition or component crosswalk reconciles the primary's fossilized-wood / petrified-seed push dagger with the linked deep-blue Han-crystal blade; the archetype identifies a leaf-shaped iron-seed push dagger. Hold the primary/Master-table names *The Collapsed Seed-Dagger*, *Collapsed Seed Shroud*, and *Collapsed Seed Core* against the linked `Unsprouted Life` names; Master detail Entry 529 calls the Weapon *The Collapsed Seed Requiem*. Registry row 602 remains generic Accessory / 5%, unlike the specific Tail / 4% Stigma records. Tale 177 concerns the almost-born sorrow but does not adjudicate M.A.W. extraction or form.
+Preserve the extraction, cost, and form holds. The primary calls the Weapon a shard taken from the shattered source. The Side and Weapon item describe a tear-derived echo/blade formed after cooling outside growth medium, without establishing literal crystal removal. The primary marks involuntary weeping as a symptom and identifies the wielder's own abandoned work, shown completed, as the deeper Weapon cost. The Side/item associate the Requiem with borrowed grief and weeping. The primary Shroud cost (stopping new work) and linked Shroud account (numb minor joys and grief for unrealized futures) remain distinct. The Core's future-memory loss is separately recorded. No documented transition or component crosswalk reconciles the primary's fossilized-wood / petrified-seed push dagger with the linked deep-blue Han-crystal blade. The archetype identifies a leaf-shaped iron-seed push dagger. Hold the primary/Master-table names *The Collapsed Seed-Dagger*, *Collapsed Seed Shroud*, and *Collapsed Seed Core* against the linked `Unsprouted Life` names. Master detail Entry 529 calls the Weapon *The Collapsed Seed Requiem*. Registry row 602 remains generic Accessory / 5%, unlike the specific Tail / 4% Stigma records. Tale 177 concerns the almost-born sorrow but does not adjudicate M.A.W. extraction or form.
 
 ## 관찰 기록 (Observation Log)
 
@@ -314,7 +308,7 @@ Preserve the extraction, cost, and form holds. The primary calls the Weapon a sh
 | **Activation or escalation** | Any rate shift triggers a panel check and then a visual inspection, in that order. The ordering is deliberate: the panels show what has already happened and the inspection shows what is happening, and the baseline must exist before anyone looks. |
 | **Post-contact review** | Two timed rates, panel register updated, sap volume, and the quarter's discontinued-inquiry return attached. A review that omits the return is returned to the team, and it is omitted more often than any other field on the form. |
 
-**Observation method:** A full timed minute, by hand, from the observation position, twice a session. Counting for thirty seconds and doubling has been tried and produces a figure that drifts; the rate is not regular enough across short intervals and is extremely regular across long ones, which is itself in the file as a finding nobody has explained.
+**Observation method:** A full timed minute, by hand, from the observation position, twice a session. Counting for thirty seconds and doubling has been tried and produces a figure that drifts. The rate is not regular enough across short intervals and is extremely regular across long ones, which is itself in the file as a finding nobody has explained.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -326,10 +320,10 @@ Collapsed Seed (N-IVδ-315 [LO]) is logged as an Object-Grudge manifestation exp
 The first full return under the Rule of the Negative Finding, Year 4238. Two hundred and eleven inquiries, reviews, investigations and research programmes were discontinued across the facility that year. Thirty-one filed a report setting out the method used, the ground covered, and the reason for stopping. One hundred and eighty stopped without one: funding moved, the officer was reassigned, the question went quiet. The pulse stood at its recorded peak of thirty-one a minute in Year 4233, in the week the second inquiry into this entity's potential form was wound up on a verbal instruction with nothing written down. It reached its floor of nine in Year 4236, the quarter both Seed inquiries were reconstructed from working papers and filed in full, methods included, indexed by the ground they had covered rather than by their own names. The pulse has tracked the quarterly return for five consecutive years and the correlation is now the strongest the wing holds on any entity.
 
 **Entry 3 — <Statement of a Researcher Who Filed a Negative Report>**
-It took eleven weeks to write and it says that I found nothing. I want that understood: eleven weeks to document a failure that took four years to produce. Everyone told me it was a waste and I agreed with them for most of it. What changed my mind was a woman in the Gardens who had given testimony to the first inquiry in 4219 and had never been told what became of it, and when I sent her the index entry she wrote back to ask whether her account had been any use. It had not. I had to write and tell her that her account was not sufficient to establish anything, which is the single worst letter I have ever sent, and she replied that she would rather know that than keep wondering. The rule makes us send those letters. I think the rule is right and I would not like to be asked to defend it to her face.
+It took eleven weeks to write and it says that I found nothing. I want that understood: eleven weeks to document a failure that took four years to produce. Everyone told me it was a waste and I agreed with them for most of it. What changed my mind was a woman in the Gardens who had given testimony to the first inquiry in 4219 and had never been told what became of it. And when I sent her the index entry she wrote back to ask whether her account had been any use. It had not. I had to write and tell her that her account was not sufficient to establish anything, which is the single worst letter I have ever sent, and she replied that she would rather know that than keep wondering. The rule makes us send those letters. I think the rule is right and I would not like to be asked to defend it to her face.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IVδ-315 has a chamber half and a facility half. Chamber: hand-timed pulse twice a session, panel rotation on schedule with every lifted panel numbered and stored, sap to sealed containment, and an absolute contact prohibition covering tools, instruments and protective equipment alike. It must not be planted under any circumstances and must not be pruned, concluded, or completed. Facility, owned by the Research Directorate and binding on every officer who may close a line of work: **an inquiry, review or research programme that is discontinued shall file a report of its method, the ground it covered, the material it found insufficient, and the reason it stopped — permanently retained, indexed by the ground covered and not by the inquiry's name, and sent to anyone who gave testimony to it.** Work response — Viderehan: shows the entity it might have become, differently each time (Stable); Ferrehan: tests whether the worker can wait without forcing growth (Decrease). Flerehan and Pugnahan do not apply and are not to be improvised.
+Containment of N-IVδ-315 has a chamber half and a facility half. Chamber: hand-timed pulse twice a session, panel rotation on schedule with every lifted panel numbered and stored, sap to sealed containment, and an absolute contact prohibition covering tools, instruments and protective equipment alike. It must not be planted under any circumstances and must not be pruned, concluded, or completed. Facility, owned by the Research Directorate and binding on every officer who may close a line of work: **an inquiry, review or research programme that is discontinued shall file a report of its method, the ground it covered, the material it found insufficient, and the reason it stopped — permanently retained, indexed by the ground covered and not by the inquiry's name, and sent to anyone who gave testimony to it.** Work response — Viderehan: shows the entity it might have become, differently each time (Stable). Ferrehan: tests whether the worker can wait without forcing growth (Decrease). Flerehan and Pugnahan do not apply and are not to be improvised.
 
 **Entry 5 — <Director's Memo, Eyes Only: The Rule of the Negative Finding>**
 Research opposed this and the objection was sound. A permanent, indexed archive of everything this facility has failed to determine is a map of our limits, legible to anyone who can read an index, and it will be read by people who do not wish us well. Worse, they argued, officers who know that stopping creates a document will avoid opening lines of work they are not confident of finishing, and the facility will become incurious in the exact way it can least afford.
@@ -342,7 +336,7 @@ And the names. The recovery team's account is attached to its failure permanentl
 
 The ground for signing it is narrow and I will state it plainly. Twice we have asked what this entity would have become. Twice we stopped. The second time we left nothing behind, and the pulse in that chamber went to thirty-one, and anyone who asks the question a third time will start from the beginning because we could not be bothered to write down how far we got.
 
-**Threat rating:** Critical (δ). Boss encounter, Severe difficulty, 750 gauge, and a breach profile in which it plants itself in personnel and grows there. The rating is not softened by the fact that it has no intent; nothing in this chamber intends anything, and that has never reduced what it does.
+**Threat rating:** Critical (δ). Boss encounter, Severe difficulty, 750 gauge, and a breach profile in which it plants itself in personnel and grows there. The rating is not softened by the fact that it has no intent. Nothing in this chamber intends anything, and that has never reduced what it does.
 
 ## 최종 관찰 (Final Observation)
 
@@ -355,7 +349,7 @@ The ground for signing it is narrow and I will state it plainly. Twice we have a
 
 ## 감각 묘사 (Flavor Text)
 
-The Seed lies split open like a heart pressed into the ground. Blue tears run from the crack, and something inside pushes once, then becomes still. You feel the sorrow of a future that had a shape but never received a life.
+The Seed rests split open like a heart against the panel. Blue tears run from the crack, and something inside pushes once, then becomes still. You feel the sorrow of a future approaching a shape no record can name, interrupted before it received a life.
 
 
 
@@ -376,7 +370,7 @@ Three records sit near this one, all of them from the Echo Gardens, and the prox
 
 ### Entity Interaction Record
 
-Three records are read beside this one and all three concern growth, which has made the grouping comfortable and unhelpful. The operative distinction is that this entity is not growing and is not dying; it is held at the moment before a result, which is the condition the facility's own discontinued inquiries are held in. Pairing trials have been proposed twice. Both were refused on the ground that bringing another entity into the chamber would require the contact prohibition to be lifted, and the prohibition is the holding.
+Three records are read beside this one and all three concern growth, which has made the grouping comfortable and unhelpful. The operative distinction is that this entity is not growing and is not dying. It is held at the moment before a result, which is the condition the facility's own discontinued inquiries are held in. Pairing trials have been proposed twice. Both were refused on the ground that bringing another entity into the chamber would require the contact prohibition to be lifted, and the prohibition is the holding.
 
 | What shares the collapse | How the pairing has run | What the chamber entered | What the file keeps |
 |---|---|---|---|
@@ -418,7 +412,7 @@ Some sorrows mourn what existed. Collapsed Seed mourns what almost existed — t
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical. It is slow, it has no intent, it has killed, and it grows inside what it reaches. Treat the absence of intent as a fact about the entity and not as a margin of safety.
 **Containment & Handling Procedures:**
-- Viderehan shows the entity it might have become and holds the gauge level; Ferrehan tests whether the worker can wait without forcing growth and lowers it. Flerehan and Pugnahan are not available and must not be improvised during an incident.
+- Viderehan shows the entity it might have become and holds the gauge level. Ferrehan tests whether the worker can wait without forcing growth and lowers it. Flerehan and Pugnahan are not available and must not be improvised during an incident.
 - Absolute contact prohibition: no tool, instrument or protective equipment touches the shoots. Chamber serviced from the panel system and the drainage channel only.
 - Panel rotation on schedule; every lifted panel numbered by date and position and stored, never destroyed. Store inspected quarterly for growth; there has been none, and the inspection continues because the inertness is the finding.
 - Pulse timed by hand for a full minute, twice a session.
@@ -428,7 +422,7 @@ Some sorrows mourn what existed. Collapsed Seed mourns what almost existed — t
 - Formed when a recovery team crushed a forming Sorrow Seed in the Echo Gardens. Two inquiries into what it would have become; neither answered; both reports retained in full with their methods.
 - Pulse 14/min baseline, range 9 to 31. Rate tracks the facility's quarterly return of discontinued inquiries, not the chamber's work.
 - Three of four breaches were preceded by rate shifts recorded hours ahead. One was not.
-**Cross-References:** Echo Gardens · The Sorrow Seed · The Kind Healer · the recovery team's account, Year 4211 · Inquiry I (4215–4219, closed with report) · Inquiry II (4233, wound up on a verbal instruction, reconstructed 4236)
+**Cross-References:** Echo Gardens · [The Sorrow Seed](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md) · [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · the recovery team's account, Year 4211 · Inquiry I (4215–4219, closed with report) · Inquiry II (4233, wound up on a verbal instruction, reconstructed 4236)
 **Faction Involvement:** SED (E-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** A recovery team of six in the Echo Gardens, named in the file, whose account of the crushing is defensive, self-serving, and the only account that exists. The archivist's annotation asks the reader to hold both of those facts at once rather than choosing between them.
 
@@ -445,11 +439,11 @@ The entity puts roots into whatever surface it rests against, and the rooting is
 
 ### The Weeping Sap
 
-Blue sap runs continuously from the split in the shell and is collected at floor level by a channel that drains to sealed containment. The volume is modest and the handling is cautious out of principle rather than evidence: nothing harmful has ever been identified in the fluid, and the protocol states plainly that the precautions are taken because the fluid comes out of a thing that is grieving and the wing has learned not to assume that such substances are inert. Containers go to sealed storage. None has ever been opened for any purpose other than the quarterly check that the seals have held.
+Blue sap runs continuously from the split in the shell and is collected at floor level by a channel that drains to sealed containment. The volume is modest and the handling is cautious out of principle rather than evidence: nothing harmful has ever been identified in the fluid. And the protocol states plainly that the precautions are taken because the fluid comes out of a thing that is grieving and the wing has learned not to assume that such substances are inert. Containers go to sealed storage. None has ever been opened for any purpose other than the quarterly check that the seals have held.
 
 ### Pulse
 
-The pulsing is regular and is logged, and the log is the chamber's principal indicator because it changes before anything else does. A rate shift of any magnitude triggers a check of the root panels and a visual inspection from the observation position, in that order, and the ordering matters: the panels show what has already happened and the inspection shows what is happening, and the protocol wants the baseline established before anyone looks. Three breaches in the chamber's history were preceded by rate shifts recorded hours in advance. One was not, and the protocol says so in the same paragraph.
+The pulsing is regular and is logged, and the log is the chamber's principal indicator because it changes before anything else does. A rate shift of any magnitude triggers a check of the root panels and a visual inspection from the observation position, in that order. And the ordering matters: the panels show what has already happened and the inspection shows what is happening. And the protocol wants the baseline established before anyone looks. Three of the four breaches in the chamber's history were preceded by rate shifts recorded hours in advance. One was not, and the protocol says so in the same paragraph.
 
 ### What Did Not Grow
 
@@ -479,7 +473,7 @@ The panel store is kept at a stable temperature and is inspected quarterly, and 
 
 - **Classification detail:** Registered as a Subject, Entity (IV), Critical (δ), and worked under Object/Place rules because there is no mind here to engage. The derived cells that called it stationary have been corrected against a chamber whose entire floor system exists because it moves.
 - **Field detail:** Lament, Zone C, Mask Market, in a panelled chamber serviced from outside the line. Taken from the Echo Gardens in Year 4211 and never returned there.
-- **Recognition detail:** Identify it by the pulse and the panels, not by the shape. The shell is dark crystal, split, leaking blue sap, and wrapped in thick wet shoots that keep erupting through the split regardless of pruning; descriptions of it vary with how much of the shoot mass is visible that week, which is why the holding identifies on a timed rate instead.
+- **Recognition detail:** Identify it by the pulse and the panels, not by the shape. The shell is dark crystal, split, leaking blue sap. And wrapped in thick wet shoots that keep erupting through the split without being pruned. Descriptions of it vary with how much of the shoot mass is visible that week, which is why the holding identifies on a timed rate instead.
 - **Record detail:** Check the designation, and check which absence you are working. The archive holds two records about things missing from its own files and they are opposites. Pandora's Jar concerns what was taken out — destructions written down as counts instead of descriptions. This concerns what was never put in — inquiries abandoned without their method, so the ground has to be walked again by whoever asks next. One is a subtraction. The other is a gap that was never filled.
 - **Containment detail:** Half of this containment is a floor and a drain. The other half is a filing instruction enforced by the Research Directorate on officers who will never see the chamber, and the chamber's own indicator is the only evidence that the instruction is being obeyed.
 ## Document Information

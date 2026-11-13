@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Rage Plate
 
-> *“The Rage Plate remembers Mirror of Soaking; the bearer must not mistake memory for permission.”*
+> *"The wearer's own anger is held against the inside of the plate. A season leaves the plate warm and the wearer pleasant."*
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Mirror of Soaking's kind of pressure.  
-**Binding rule:** the bearer names Mirror of Soaking's event—Citizens swallowed rage under debt and order until suppressed anger became a reflective object.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
-
+**Binding rule:** the bearer names Mirror of Soaking's event — “Citizens swallowed rage under debt and order until suppressed anger became a reflective object.” — and accepts this limit: written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it.  
+**Gauge:** 000/420; opens at 000%; no attack pattern is filed for this Grudge manifestation — the height of the surface in centimetres is the reading.
 ## Appearance
 
-The Rage Plate is the suit record of the Mirror of Soaking’s set, granting resistance to Grudge damage and protecting the Body against the pressure of anger soaked and stored rather than spoken. Binding is testimonial: the wearer names the source event — citizens swallowed rage under debt and order until suppressed anger became a reflective object — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is the Grudge standard for armor: the wearer’s reflexes dull, as if armored by resentment — the metaphor made literal against this source — and continued use makes the sorrow feel autobiographical. The source-trace set the doctrine: the suit forces the worker to remain before their own rage — the Mirror’s reflection turned on its handler, protection conditional on enduring it — and it isolated the immediate hazard only after the team attributed it to the Mirror. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Rage Plate is the suit record of the Mirror of Soaking’s set, granting resistance to Grudge damage and protecting the Body against the pressure of anger soaked and stored rather than spoken. Binding is testimonial: the wearer names the source event — citizens swallowed rage under debt and order until suppressed anger became a reflective object — and accepts the registry’s limit: written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it. The cost is the inside of the plate: the wearer's own anger is held against it, and a season of wear leaves the plate warm to the touch and the wearer pleasant. The source-trace set the doctrine: the suit forces the worker to remain before their own rage — the Mirror’s reflection turned on its handler, protection conditional on enduring it — and it isolated the immediate hazard only after the team attributed it to the Mirror. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,33 +29,26 @@ The Rage Plate is the suit record of the Mirror of Soaking’s set, granting res
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Mirror of Soaking's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
+**Operational / binding cost:** The Plate protects the body by giving anger somewhere to go: it stops the blow and holds the wearer's own rage against the inside of the plate. Worn long, the Plate is warm to the touch and the wearer is pleasant.
 
 ## ITEM-SPECIFIC HISTORY — *The Mirror of Soaking Source-Trace: Suit Record*
 
-The first The Rage Plate field bearer encountered this source response: Forces the worker to remain before their own rage. The suit isolates the immediate hazard only after the team attributed it to Mirror of Soaking. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Plate encountered this source response: Forces the worker to remain before their own rage. The suit isolates the immediate hazard only after the team attributed it to Mirror of Soaking. A wearer was described as pleasant by three separate wardens in one week, and the Plate’s binding is that week’s character note.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Mirror of Soaking's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the plate runs warm to the touch in an empty room, and the wearer’s courtesy stops matching anything they feel.
 - Terminal state: Mirror of Soaking's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-801 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Plate only after attribution review.   <!-- SE-801 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Plate; shutdown preserves the record but does not refund its cost. <!-- SE-801 -->
+**Failure mode:** violating “written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it.” reverses the item’s benefit and raises the source Gauge — a 000/403 meter that opens at 35–50%.
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Plate only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Plate; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Mirror of Soaking — Witnessed Form*, The Rage Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-801-C`  
-**Linked Entity:** `SE-801`  
-**Item Registry Code:** `MAW-S-801-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Mirror of Soaking — Witnessed Form*, The Rage Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s anger can still be got out of the plate; a plate that stays warm past the watch takes it out.

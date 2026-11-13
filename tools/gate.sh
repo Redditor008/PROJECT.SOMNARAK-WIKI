@@ -55,7 +55,59 @@ check "[PASS] 0 timeline contradictions"                 python3 tools/timeline_
 check "[PASS] 0 semantic seams"                          python3 tools/seam_lint.py
 check "BROKEN TOTAL: 0"                                  python3 tools/check_links.py
 check "[PASS] 0 label or code-tag violations found!"     python3 tools/label_lint.py
+check "OVERALL STAT BANDS: PASS"                         python3 tools/check_stat_bands.py
 check "RESULT: PASSED"                                   python3 tools/text_box_double_checker.py
+check "RESULT: PASS (0 crooked boxes)"                   python3 tools/check_box_geometry.py
+check "SECTION LOGIC: PASS"                               python3 tools/section_logic.py
+check "RESULT: PASS"                                    python3 tools/auditors/compare_conversion_guide.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_stock_ceiling.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_boilerplate.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_event_claims.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_dossier_consistency.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_sourcing.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_set_agreement.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_citations.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_world_purity.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_gauge_chain.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_appearance_dupe.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_form_line.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_ai_prose.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_tale_register.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_entity_links.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_mutual_interactions.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_slot_templates.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_series_counts.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_sentence_starts.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_ratio_basis.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_work_response.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_relic_work_types.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_relic_interaction_damage.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_relic_gauge.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_work_preference.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_md_tables.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_barred_prescriptions.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_special_abnormality.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_threat_form.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_consequence_register.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_work_damage.py
+# batch 203/204/206 shipped these three; none of them was ever added here, so the build
+# could not fail on them. Gate 92 now makes an unwired gate a failure in its own right.
+check "RESULT: PASS"                                    python3 tools/auditors/check_work_effect.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_se_effect.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_rule_index.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_secc_shape.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_gate_wiring.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_section_registry.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_command_capture.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_gate_numbers.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_appearance_contract.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_backstory_reader.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_echo_backstory.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_backstory_appearance.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_backstory_gloss.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_title_register.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_scene_stamps.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_dossier_world_pointer.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q
@@ -71,8 +123,13 @@ while IFS= read -r f; do
   case "$f" in SOMNARAK-WORLD/*.md)
     python3 - "$f" <<'PY' || fail=1
 import io,sys
-bad=[l for l in io.open(sys.argv[1],encoding='utf-8').read().split('\n')
-     if l.startswith('|') and not l.rstrip().endswith('|')]
+bad=[];fence=False
+for l in io.open(sys.argv[1],encoding='utf-8').read().split('\n'):
+    if l.lstrip().startswith('```'):
+        fence = not fence; continue
+    # a table row is prose outside a fence; ASCII box art inside one is not a row
+    if not fence and l.startswith('|') and not l.rstrip().endswith('|'):
+        bad.append(l)
 if bad:
     print('PIPE FAILED: %s' % sys.argv[1])
     for l in bad[:5]: print('   %s' % l[:90])

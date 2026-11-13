@@ -19,6 +19,7 @@ A tiny Grudge Han-iron lantern hangs at the Tail slot. It has no flame; confirme
 | Field | Record |
 |---|---|
 | Grade / Element | α / Grudge |
+| **Maximum Amount** | 5 — Abundant |
 | Slot / chance | Tail / 5% |
 | Bonus | +1 Resilience while working Upwell |
 | Acquisition | Random bestowal by the entity |
@@ -57,14 +58,3 @@ A blank reading is now treated as active safety information, never equipment fai
 The Lantern identifies real space, Plate holds the edge, and Fang cuts toward confirmed life. Together they support rescue without teaching grief to manufacture a target.
 
 > *“The darkness beneath us was empty. The crowded part was inside the light.”* — Dreamer Sora
-
----
-
-**Document ID:** `SE-565-D`  
-**Linked Entity:** `SE-565`  
-**Item Registry Code:** `MAW-G-565-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

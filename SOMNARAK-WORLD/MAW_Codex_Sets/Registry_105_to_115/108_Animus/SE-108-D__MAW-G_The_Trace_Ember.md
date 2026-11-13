@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 5 — Abundant |
 | Acquisition probability | 5% after successful Animus work |
 | Bestowal event | A small ember cooled into the frame after a team allowed the trace to fade without claiming a complete cause. |
 | Acceptance condition | The candidate signs an uncertainty rule: no Ember result may be written as a blame finding by itself. |
@@ -53,7 +54,7 @@
 
 ### Appearance
 
-The Trace Ember is a small iron charm holding a single red coal, with a matte cover that can be closed over the glow and a short clasp for the tail slot. The metal is dark and unpolished, and the ember burns low and steady when idle. It identifies emotional residue left by a past event, where rage pressed into a surface, route, or room, without revealing the original grievance or naming a responsible person. When the bearer declares an investigation question and a context partner confirms the evidence limit, a short red path appears through the immediate environment showing where Grudge residue was strongest. The bearer feels a piece of the traced anger and may mistake the sensation for conviction. The ember is cooled beside the context log and stored with the unknown field read aloud. The ember is cooled beside a context log after each scan, and the partner reads the unknown field aloud before the item is returned to the tail slot.
+A single red coal held in iron under a matte cover that closes over the glow, the Trace Ember carries a short clasp cut for the tail slot. The metal is dark and unpolished, and the ember burns low and steady when idle. It identifies emotional residue left by a past event, where rage pressed into a surface, route, or room, without revealing the original grievance or naming a responsible person. When the bearer declares an investigation question and a context partner confirms the evidence limit, a short red path appears through the immediate environment showing where Grudge residue was strongest. The bearer feels a piece of the traced anger and may mistake the sensation for conviction. The ember is cooled beside the context log and stored with the unknown field read aloud. The ember is cooled beside a context log after each scan, and the partner reads the unknown field aloud before the item is returned to the tail slot.
 
 ### Passive effect— *Afterheat*
 
@@ -85,14 +86,3 @@ Park used the Ember to map an angry residue pattern through an evacuated Commons
 The Ember completes *Carry No Inheritance* by making an old rage visible without supplying a false explanation. The Fang and Plate only remain ethical while the Ember’s uncertainty rule is kept.
 
 > *“A trace is a direction for care, not a verdict.”* — Ishall
-
----
-
-**Document ID:** `SE-108-D`  
-**Linked Entity:** `SE-108`  
-**Item Registry Code:** `MAW-G-108-01`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

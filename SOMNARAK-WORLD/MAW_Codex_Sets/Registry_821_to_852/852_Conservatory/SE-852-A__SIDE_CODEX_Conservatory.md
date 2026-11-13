@@ -19,10 +19,10 @@ The Ruin formed from a place destroyed by someone trying to preserve it. The gri
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IVδ-852 [N] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge / Zone C, Mask Market |
-| Gauge / Pressure | 873/873; starts 60–80% / 30–65 per hit · Grudge |
+| Gauge / Pressure | 000/880; starts 000% / Grudge — no attack pattern; the outline at fourteen marked stations is the reading |
 | Observation | 2 — Basic |
 | Formation event | A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized. |
 
@@ -30,17 +30,17 @@ The Ruin formed from a place destroyed by someone trying to preserve it. The gri
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the love and failure behind the structure. (Stable) |
 | Ferrehan | Tests whether the worker can remain without rebuilding. (Decrease) |
 
 **Trigger:** Attempting to reconstruct the remembered structure.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-852 -->
+**Resolution:** Viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Conservatory Source-Trace*
 
-During the The Conservatory Source-Trace, the field team preserved this source fact: A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of loving a place so fiercely that preservation became destruction.
+During *The Conservatory Source-Trace*, the field team preserved this source fact: A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of loving a place so fiercely that preservation became destruction.
 
 ## M.A.W. SET — *Conservatory — Witnessed Form*
 
@@ -52,14 +52,4 @@ During the The Conservatory Source-Trace, the field team preserved this source f
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Conservatory's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Conservatory's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-852-A`  
-**Linked Entity:** `SE-852`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+The Stigma identifies Conservatory's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon isolates only the immediate manifestation that violates this rule: viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure. The gauge opens at 000% of its 000/880 meter, and no attack pattern is filed for this Grudge manifestation. The set cannot heal the originating event. Misuse routes Conservatory's wound through the operator and triggers the recorded escalation.

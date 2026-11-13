@@ -61,7 +61,7 @@ Level 3+ with M.A.W. Level 3+ with M.A.W., plus a seconded confessor with a boun
 | **Han Pressure [ATK]** | 20–35 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It keens, and the harmony of unfinished grief frays the composure of all who hear it. 
+**Ability:** It keens, and the harmony of unfinished grief frays the composure of all who hear it.
 
 ### The Sorrow Fog (Non-Humanoid, Greater-grade)
 

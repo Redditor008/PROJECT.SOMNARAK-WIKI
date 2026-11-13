@@ -19,10 +19,10 @@ The Echo formed from calls for help that went unanswered. The despair of asking 
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIα-125 [VS] |
-| Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
+| Type / Manifestation | Subject — Non-breaching: transformation in place / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) — Repeats calling out / Minor (α) — Low danger |
 | Element / Location | Void / Zone D, Echo Gardens — ambient |
-| Gauge / Pressure | 201/201; starts 25–40% / 3–10 per hit · Void |
+| Gauge / Pressure | 000/201; starts 000% / 3–10 per hit · Void |
 | Observation | 1 — Initial |
 | Formation event | People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored. |
 
@@ -40,7 +40,7 @@ The Echo formed from calls for help that went unanswered. The despair of asking 
 
 ## WITNESS RECORD — *The Undersong Source-Trace*
 
-During the The Undersong Source-Trace, the field team preserved this source fact: People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The despair of asking for rescue and learning that no one was coming.
+During *The Undersong Source-Trace*, the field team preserved this source fact: People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The despair of asking for rescue and learning that no one was coming.
 
 ## M.A.W. SET — *Undersong — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Undersong Source-Trace, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Undersong's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stays only the immediate manifestation that violates this rule: Answer: “I hear you.” Never promise help you cannot provide The set cannot heal the originating event. Misuse routes Undersong's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1013-A`  
-**Linked Entity:** `SE-1013`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

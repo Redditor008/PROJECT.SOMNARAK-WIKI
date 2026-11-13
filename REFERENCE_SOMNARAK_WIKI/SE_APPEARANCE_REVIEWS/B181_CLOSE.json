@@ -1,0 +1,532 @@
+{
+  "batch": 181,
+  "date": "2026-10-25",
+  "status": "CLOSED",
+  "required": 5,
+  "completed": 5,
+  "no_change": 0,
+  "authorization": "Owner “p p” after CLOSED 180 authorized Batch 181 only. The cumulative No-change count is 0/5, so the 5→7 ladder did not trigger. No Batch 182, merge, artwork or deployment was authorized.",
+  "selection": {
+    "method": "Fresh pending-only LC_ALL=C wc -w ranking from the authoritative 301-path ledger; designation-byte ties; document-length screen, not a defect ranking.",
+    "queue": [
+      {
+        "designation": "C-Iα-869",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md",
+        "words": 7183,
+        "sha256": "f50445e191d61e570374146a6ac6029e1144658d41b3b2f9668d804cbd284ceb"
+      },
+      {
+        "designation": "C-IIβ-906",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md",
+        "words": 7219,
+        "sha256": "d60e510ce1f28158552c87712cbed955a92f0a5f5a427400f4d214138ad4903b"
+      },
+      {
+        "designation": "O-IIIγ-926",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md",
+        "words": 7249,
+        "sha256": "c054d148f87b2dd1e4a9da41c2524280ae2c113875279ac9df056942a6861c57"
+      },
+      {
+        "designation": "C-IIIβ-016",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md",
+        "words": 7252,
+        "sha256": "b2daec4cf9981e142962c3bb334d0d5ebfc107601418126001b0b612816497b6"
+      },
+      {
+        "designation": "N-IIIβ-155",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-155_Harbinger_추징관의_그림자.md",
+        "words": 7254,
+        "sha256": "cc5bcdfac27686b5bb1c9554f44d2564b0fde73421acf305a6058835c49bf415"
+      }
+    ],
+    "reserves_unused_unmodified": [
+      {
+        "designation": "N-IVδ-525",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-525_Cenotaph_흐르는_다리.md",
+        "words": 7261,
+        "sha256": "2b544e47ecba85e68f9f9d7397ab7f9e3304df3a271e146391f92c37394bb723"
+      },
+      {
+        "designation": "N-IIβ-280",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md",
+        "words": 7266,
+        "sha256": "eff842a80309da6f3264d958ee9a1291860e260a45be25c7c6af5d10d3465b45"
+      },
+      {
+        "designation": "C-IIβ-716",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md",
+        "words": 7277,
+        "sha256": "cedeca035b82f29764116499398264e09e5ba0d4b5e03b336f47163b7f3bf13b"
+      },
+      {
+        "designation": "C-Vδ-111",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-111_The_Final_Door_마지막_문.md",
+        "words": 7277,
+        "sha256": "37ad2f68cd4bfc33e89f2befa277d3d1bf379c8eea6d21ae3faa4cedf5674a96"
+      },
+      {
+        "designation": "C-IIβ-357",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md",
+        "words": 7304,
+        "sha256": "d4ed2dca78327b42eec0566d23c6d6bff1d59973e88978b999a8959c1c5e8083"
+      }
+    ],
+    "opening_commit": "ae8e480f71f5a7ab7ab14dbc4913b54201d584c1",
+    "head_before_closure": "f23ca22f74cc21eaf7aea3e6dda62984847158bf"
+  },
+  "units": [
+    {
+      "unit": 1,
+      "name": "Homecoming Tree",
+      "designation": "C-Iα-869",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_01_HOMECOMING_TREE.md",
+      "status": "held",
+      "before_words": 7183,
+      "after_words": 7323,
+      "r18_split": [
+        6,
+        4
+      ],
+      "final_sha256": "a5e3c5b706fd3d9ca7379cc0c9e6b6c08642d79b2ba6a9867f904c00decac28b",
+      "commit": "196aa46ea6780d70e78437c4c35df5ad3750506e",
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "summary": "Ten supported repairs align every movement field to the root-legged walking place, remove the false fixed-object speed scope, rewrite cutting/regrowth/angry-forest combat as failed-return sighting, route entanglement, before-and-after recognition and relocation while preserving every number, ground breach effects in route recital and changing bark names, split the three equipment signs, replace generic flavor activation, and correct the Registrum cross-references to Zone E and the actual interaction records. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The strongest choice is the archive's refusal to blame either community: the returned and the resident really do share one address and two incompatible homes. I also like containment as a sighting log rather than a wall. For a place that walks, knowing where it stopped—and refusing to promise restoration—is more honest than pretending it can be held.",
+      "holds": [
+        "Entity taxonomy remains unjoined: the SECC header and Side A call it Subject — Can breach / Place-Lament, while Operational role, Behavior and Registry Trivia call it Object/Place and both Expansion and Escape sections govern the same walking relocation. The file intentionally describes a place that walks, but no source states how those category labels compose; no label was overwritten.",
+        "Weapon form remains split: the primary gives a slender Lament Han-crystal blade with a singing edge, MAW-W-869's archetype gives a Comparison Plate overlaying THEN-ghost and NOW-solid settlement views, and the Master table classes the Requiem as RELIQUARY — Censer/Bell. Item B supplies matching α Lament 3–6 / Speed 2 / Range 2 / Single / maximum 5 / 15 Echoes but no physical silhouette or transformation.",
+        "Suit and Stigma construction classes remain split: the primary gives a cool Han-silk wrapping and a tail-worn crystal leaf charm, while the Master table classes them as Hauberks & Chain Mail and Floating Orbs & Coronets. Exact items C/D confirm resistances, Tail, chance and bonus in prose/metadata but do not supply those primary silhouettes.",
+        "Tale 122 remains stale against the primary and Side A: it uses the title The Returning Tree, Echo (II), Moderate (β), Zone D, Comprehension 2 and says Flerehan is the only valid Work Type, against Homecoming Tree's Residue (I), Minor (α), Zone E, Comprehension 1, Flerehan/Pugnahan N/A and Viderehan/Ferrehan method. The standalone Tale was not edited.",
+        "Equipment production remains narrated in parts: residue is recovered from the root line under separate authorization, the Requiem and Shroud are handled as issueable stock, and the Leaf is explicitly released rather than manufactured after the change is named. Side/items add named-witness shutdown and full-set resonance, but no single acquisition sequence joins those accounts.",
+        "The Grieving Colossus interaction is an explicit exception: branches settle while its tears reach the roots without the change being named, yet the record says this is not acknowledgement and does not close the cycle. That exception was preserved rather than generalized. Operational 'no breach counter' likewise remains parallel to branch movement at the gauge threshold and drain rising per attempt to turn the Tree back."
+      ],
+      "table_link": "[Homecoming_Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-869_Homecoming_Tree_%EB%8F%8C%EC%95%84%EC%98%A8_%EB%82%98%EB%AC%B4.md \"SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md\")"
+    },
+    {
+      "unit": 2,
+      "name": "Grimoire",
+      "designation": "C-IIβ-906",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_02_GRIMOIRE.md",
+      "status": "held",
+      "before_words": 7219,
+      "after_words": 7351,
+      "r18_split": [
+        3,
+        6
+      ],
+      "final_sha256": "4c379666fae0c44d7bf354f243d866937551a10d8f3558b37caaad6c8b17a6b7",
+      "commit": "52b181a03d1837cc1aeb07ba727ecb96316987ee",
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "summary": "Nine supported repairs (3 short / 6 careful; 7219→7351 words) align the visible writing record with what instruments actually show, correct the reader trigger and study precision, replace the unsupported read-aloud action with an explicitly held conflict, qualify the uncorroborated sector-wide collapse, distinguish a stationary source from carried Tool use, and expose the self-writing/read-trigger breach conflict without inventing a mode. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "Its most unsettling element is still the institution: a book that returns one person's unraised grievance, and a facility that turns blank pages into job screening while insisting it has relied on no accusation. The blank-page practice is a moral trap, not just a haunted-book twist. Yet the file's protocols disagree about opening, reading, and what the pages can do; those contradictions should stay unresolved rather than be converted into mechanics.",
+      "holds": [
+        "The source remains a stationary Object, but the breach record says page expansion occurs only while being read and stops on closure, while the operational record says the book writes itself during containment and instructs staff not to open it to stop writing. The primary also says it has never breached, whereas the combat/breach passages describe a sector-wide Tale Collapse and a volunteer-required breach. No opening or test was authorized to resolve this.",
+        "The standing protocol says nothing is read aloud, but the older combat entry records six read-aloud occasions. It is now explicitly marked as unresolved; the current action does not claim that a spoken line halts writing or is heard by the book. Four closures by someone other than the reader also remain unreconciled with the timed attendant closure.",
+        "Reader-specific text, blank photographs and the statement that only one reader receives a page conflict with the alleged propagation to every blank surface and an area effect on the whole wing. The 20-per-cycle / three-cycle sector damage remains an uncorroborated combat entry, not an established visual or behavioral state.",
+        "The study confirms ninety-one per cent of checkable particulars, while several other sections call the account always accurate or say it has never been shown wrong. The cohorts/periods also differ: 340 openings in the verification study versus 411 closed-cover cycles in the combat record and 188 handwriting identifications. No totals were substituted or reconciled.",
+        "Weapon form remains split: the primary describes a single-edged script blade; the MAW-W-906 archetype says Folio Blade with a book block, spine, double pages and citation ticks, and the registry has variable damage/speed/range placeholders. Side B supplies lore, not a physical transformation or a form/range crosswalk. Suit/Token construction remains incompletely crosswalked as well.",
+        "The primary says extraction is authorized but never performed, while its M.A.W. equipment is described as carried/issued and its Token has an acquisition record. Side A-D contain `Not recorded` fields and do not settle a shared extraction chronology. No equipment or source file was changed.",
+        "The disposition index calls Grimoire Neutral and says no pairing is recorded or can be staged, while the primary's interaction record contains co-presence with Unheard and a recorded transit by The Undelivered Thanks. The unchanged/null effects support Neutral, but the index wording and primary record are inconsistent; the index was not silently edited.",
+        "The entity codex explicitly lists C-IIβ-906 among dossiers awaiting a row; no dedicated Grimoire M.A.W. master entry or Tale 906 was found by exact designation/name searches. Missing codex material was not invented."
+      ],
+      "table_link": "[Grimoire](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-906_Grimoire_%EC%8A%A4%EC%8A%A4%EB%A1%9C_%EC%93%B0%EB%8A%94_%EC%B1%85.md \"SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md\")"
+    },
+    {
+      "unit": 3,
+      "name": "Sky of Borrowed Faces",
+      "designation": "O-IIIγ-926",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_03_SKY_OF_BORROWED_FACES.md",
+      "status": "held",
+      "before_words": 7249,
+      "after_words": 7363,
+      "r18_split": [
+        3,
+        2
+      ],
+      "final_sha256": "26ce9c995ecb88a82bde4416fe59a7001d4537fba51ef43ee4e751f016e808ce",
+      "commit": "9b4bb2acac8a95735b48c3887ba8c54fbc6ca60e",
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "summary": "Five supported repairs (3 short / 2 careful; 7249→7363 words) correct the surface-bound image form in both appearance summaries, distinguish fixed transect markers from changing field extent, and clearly label the sector-wide combat and breach descriptions as unverified models. The full design remains HELD because its breach and event chronology are unresolved; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The empty ground makes the borrowed faces more unsettling than a haunted battlefield would. The standing objector's refusal has a measurable training cost, so the file cannot solve consent merely by declaring one side kind. I appreciate that the repaired form puts the image back on a surface and keeps the ground itself in view; the unresolved breach model still needs evidence before anyone can call it an event.",
+      "holds": [
+        "The classification says Can breach via Transform; the Registrum and testimony say never breached; four natural expansion/withdrawal cycles are recorded; another model cites eleven expansion events with nine first resolving near long-serving staff. These scopes are not reconciled. The modeled 40%, operational 60%, threshold 3 and combat 65% triggers also remain separate, and the breach model has never been tested.",
+        "The combat entry 'Every Surface' describes a simultaneous projection and three-turn area damage, but no simultaneous event or injury is reported. It is now explicitly modelled, not witnessed; the 65% trigger remains a simulation threshold, not an observed event.",
+        "The chronology moves among a site forming after the register was photographed, surface counts from Year 4219, a Year 4229 campaign and a Year 4235 correlation study. Counts include 1,318 registered people and 1,004 without standing, but Entry 2 says 74 grants included 112 family decisions. The arithmetic and cohort scopes remain unresolved rather than silently corrected.",
+        "Weapon form remains split: the primary describes a single-edged blade, while the MAW-W-926 archetype labels it a Spear Point with Long reach; the equipment registry leaves measurements variable. Side B provides a blade and stats, but no supported transition or crosswalk. A fourth lens trial is described as destroyed, but it is not part of the three-piece set.",
+        "The primary now contains paper comparisons with Once Upon, Amnesia and Miasma, while the disposition index says no interaction table exists. The rows explicitly say no second holding was brought onto the grid; R-19 Neutral remains, but index wording is stale and was not edited here.",
+        "The Entity Codex lists O-IIIγ-926 as awaiting a row; no dedicated Master M.A.W. or Tale entry was found. Missing master content was not invented."
+      ],
+      "table_link": "[Sky_of_Borrowed_Faces](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-926_Sky_of_Borrowed_Faces_%ED%99%98%EA%B0%81%EC%9D%98_%EA%B2%A9%EC%9E%90.md \"SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md\")"
+    },
+    {
+      "unit": 4,
+      "name": "The Echo Compass",
+      "designation": "C-IIIβ-016",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_04_ECHO_COMPASS.md",
+      "status": "held",
+      "before_words": 7252,
+      "after_words": 7390,
+      "r18_split": [
+        2,
+        4
+      ],
+      "final_sha256": "686348a9193414dd186e0beb9a02c795eb456a3f7db4e82207408445f38fdb04",
+      "commit": "e358e227f8a982ca80b0a550cd7d5fb2f3c355a8",
+      "credits": {
+        "types": 1,
+        "weapon": 1,
+        "se": 0
+      },
+      "summary": "Six supported repairs (2 short / 4 careful; 7252→7390 words) give both appearance summaries the palm-sized brass-and-bone device's surface details, clarify the stand versus hand-held channel, and label the unsupported district-wide loss event and transform/spread description as unresolved models. Whole design HELD; +1 Types / +1 Weapon / +0 SE.",
+      "commentary": "The compass's central cruelty is that it answers the question it was built to answer, and the answer cannot be safely used. I appreciate the district's refusal to translate degrees into locations; it forces the institution to live with knowledge it can neither discharge nor lawfully act on. The channel still carries two incompatible duration instructions, so the instrument's operating boundary remains unsettled.",
+      "holds": [
+        "The classification says non-breaching, while the Registrum says the Compass transforms and spreads pointing into other instruments. ‘Breach’ headings/models, the two-minute channel cap, four unexplained stillnesses, an untested 65% Ultimate, Side A's three-loss Overload and activation duration ‘until acknowledged or put down’ are not reconciled. No experiment or unrestricted channel was authorized.",
+        "Physical design of derived Weapon remains split: the primary and item B describe a ground-glass lens/disc, the archetype calls it a Compass Chakram with Medium reach, and Master M.A.W. lists OPTICAL crystal/lens. Primary stats are Void 5–9, speed 2, range 2 Short, while the archetype says Medium. No transformation or form/range crosswalk exists. Suit/Token purpose and specific physical form also differ between the primary and B/C/D, and no full set transition is established.",
+        "The primary and Tale 3 disagree on current holding location: the Tale says Archive deep room, while the current Registrum places it in SECTOR-D-01 and explicitly says the Archive room was an earlier site. Other Tale claims about threat and valid Work Type are also stale against the current source; the master Tale was not edited.",
+        "The combat record, work records and history do not unify their cohorts: 188 channels/94 settled, 11 Pointing events/9 correlated, four followings, four parties/equipment records and the four stillnesses are not a single dataset. The Tale and origin attribution to the Keeper cabal/last thought are not fully mapped to the ‘not recorded’ fields in A–D.",
+        "The activation duration says until acknowledgement or put-down, while the certified O-Relic protocol caps every channel at two minutes and states exact termination steps. Their relationship remains held. The count of 74 granted likeness requests ‘of which 112’ involved a living relative is arithmetically impossible as written and has not been changed.",
+        "Neutral disposition remains. The three entity relations in the primary are measurements/comparisons, not evidence of suppression or aid. No outside primary, master, registry or illustration was changed."
+      ],
+      "table_link": "[The_Echo_Compass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-016_The_Echo_Compass_%EB%A9%94%EC%95%84%EB%A6%AC_%EB%82%98%EC%B9%A8%EB%B0%98.md \"SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md\")"
+    },
+    {
+      "unit": 5,
+      "name": "Harbinger",
+      "designation": "N-IIIβ-155",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-155_Harbinger_추징관의_그림자.md",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_05_HARBINGER.md",
+      "status": "held",
+      "before_words": 7254,
+      "after_words": 7375,
+      "r18_split": [
+        2,
+        4
+      ],
+      "final_sha256": "cad6c14d652d14d48e95d986f0ac8d497c7a43d1ad05a9f8a27c9e0a756a18f3",
+      "commit": "f23ca22f74cc21eaf7aea3e6dda62984847158bf",
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "summary": "Six supported repair groups (2 short / 4 careful; 7254→7375 words) align the appearance fields with the measured mirror-distance design, replace unqualified attaching/striking and debt-interest prose with the file's no-contact and warning-interval record, and distinguish the documented four-person transformation from broader combat models. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The gap between decision and notice is the real body of this file; the shadow stays outside arm's reach but is visible to everyone except the person it follows. The Standing Notice is uneasy because it does not prove notification is harmless—it puts a right to know beside the documented cost of waiting. I especially trust the measured distance because it does not pretend to resolve who owes what.",
+      "holds": [
+        "The source repeatedly says no physical contact, no speech and no action in watch records, while combat text still describes attaching, throat strikes, a full ledger reveal and attacks; the revised lines distinguish the mirror image and interval from a physical body, but the remaining modeled attacks are not established observations.",
+        "The classification calls the holding non-breaching but also says transformation in place; the event record has two transformation events resolved by notice, while some combat effects describe the whole room changing. Their relation is kept unresolved, not normalized to escape or physical spread.",
+        "The primary describes an interval between a decision and its notice, not the debt itself. The combat Full Audit still speaks as though every debt/interest item arrives at once; financial facts, notice timing and emotional pressure remain distinct and are not verified by the shadow.",
+        "M.A.W. descriptions and history conflict with the primary's no-extraction/untested-use account. The primary has a Han-steel maul, greave-step and charm; item B/C/D add verified-balance extraction, return-call and review/bestowal rules, while the Master classes the suit as Living Chitin & Carapace. The Maul's Wrong-Shadow Mallet/Short archetype, broad primary equipment story and individual forms are not crosswalked. No equipment section was changed.",
+        "The Tale has Echo (II), Viderehan-only and older containment/accounting language against the primary's Fragment (III), four Work Types and current Standing Notice. The primary documents corrections to some old entries but does not reconcile the Tale as a whole; the Tale and master source were not edited.",
+        "The Warning interval is not the balance: the exact Collection outcome, whether the decision has been disclosed, and whether the Shadow's pressure ever affects a real account remain separate record fields. No liability, verdict, official debt or payment was invented by this review."
+      ],
+      "table_link": "[Harbinger](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-155_Harbinger_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-N-IIIβ-155_Harbinger_추징관의_그림자.md\")"
+    }
+  ],
+  "unit_commits": {
+    "C-Iα-869": "196aa46ea6780d70e78437c4c35df5ad3750506e",
+    "C-IIβ-906": "52b181a03d1837cc1aeb07ba727ecb96316987ee",
+    "O-IIIγ-926": "9b4bb2acac8a95735b48c3887ba8c54fbc6ca60e",
+    "C-IIIβ-016": "e358e227f8a982ca80b0a550cd7d5fb2f3c355a8",
+    "N-IIIβ-155": "f23ca22f74cc21eaf7aea3e6dda62984847158bf"
+  },
+  "closure_validators": {
+    "C-Iα-869": {
+      "verify": {
+        "exit": 0,
+        "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "stderr": ""
+      },
+      "tpl": {
+        "exit": 0,
+        "stdout": "RESIDUE 0  SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md\n",
+        "stderr": ""
+      },
+      "sectfile": {
+        "exit": 0,
+        "stdout": " 0.029  clean   172 grams  Trivia\n 0.021  clean    97 grams  Operational Parameters\n 0.011  clean   551 grams  M.A.W. Equipment\n 0.010  clean   678 grams  Combat Record\n 0.009  clean   340 grams  기록 (Registrum)\n 0.008  clean   515 grams  관찰 기록 (Observation Log)\n 0.002  clean   835 grams  감각 묘사 (Flavor Text)\n 0.000  clean   355 grams  Expansion Behavior\n 0.000  clean   317 grams  이야기 (Narratio)\n 0.000  clean   311 grams  Appearance\n 0.000  clean   215 grams  Origin\n 0.000  clean   198 grams  Breach Behavior\n 0.000  clean   186 grams  이야기 보고 (Story Log)\n 0.000  clean   184 grams  Behavior\n 0.000  clean    94 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    29 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+        "stderr": ""
+      },
+      "wikistd": {
+        "exit": 0,
+        "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "stderr": ""
+      },
+      "sect": {
+        "exit": 0,
+        "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   84   3  | { *The Infinite Canopy* [**Attack**] } | \"Two settlements, one address, and neither group the one that was wrong.\" | [Viderehan \n   85   4  | { *The Endless Orchard* [**Ultimate**] } | \"Name the change aloud from under the branches, and leave the route open.\" | [One Tre\n  206   1  Appearance : The Returning Requiem is a slender blade of Lament Han-crystal, cool and faintly luminous, with a single singing edge\n  241   5  **Ability:** Turns Lament aside from the mind, which is the only pressure the Tree exerts — and it turns aside only the Lament, no\n  298   4  **Observation method:** Record the first sign, which is the smell of rain arriving before the Tree is in sight; the first sensatio\n  350   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  406   3  **Review requirement:** Re-verify after any Sorrow Tide, after any relocation, and after any resettlement anywhere in the Border r\n  417   5  - **Field detail:** Its defining element is Lament, and its registered location is Zone E, Border region — a stop rather than a ho\nGENERIC 0.006  (29 shared shingles)  SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md\n",
+        "stderr": ""
+      }
+    },
+    "C-IIβ-906": {
+      "verify": {
+        "exit": 0,
+        "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "stderr": ""
+      },
+      "tpl": {
+        "exit": 0,
+        "stdout": "RESIDUE 0  SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md\n",
+        "stderr": ""
+      },
+      "sectfile": {
+        "exit": 0,
+        "stdout": " 0.011  clean   187 grams  Breach Behavior\n 0.009  clean   332 grams  M.A.W. Equipment\n 0.009  clean   582 grams  기록 (Registrum)\n 0.007  clean  1459 grams  Watch Record\n 0.002  clean   526 grams  Combat Record\n 0.000  clean   439 grams  Activation Behavior\n 0.000  clean   244 grams  이야기 (Narratio)\n 0.000  clean   227 grams  Appearance\n 0.000  clean   216 grams  이야기 보고 (Story Log)\n 0.000  clean   190 grams  Origin\n 0.000  clean   188 grams  Operational Parameters\n 0.000  clean   185 grams  감각 묘사 (Flavor Text)\n 0.000  clean   117 grams  증언 (Testimonium)\n 0.000  clean   108 grams  관찰 기록 (Observation Log)\n 0.000  clean    51 grams  Trivia\n 0.000  clean    47 grams  Behavior\n 0.000  clean    38 grams  최종 관찰 (Final Observation)\n 0.000  clean    27 grams  SECC Classification\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n",
+        "stderr": ""
+      },
+      "wikistd": {
+        "exit": 0,
+        "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "stderr": ""
+      },
+      "sect": {
+        "exit": 0,
+        "stdout": "   86   1  | { *The Tale Collapse* [**Ultimate**] } | \"The combat log claims every blank surface in the wing takes a line of the same hand; p\n  163   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per page filled since the event began, so the gauge counts pages and not \n  271   3  **Effect:** +1 to the working stat on this holding's cycles. The token's line is different for every bearer, no bearer has shown i\n  368   1  - Viderehan and Ferrehan are the valid Work Types and neither has ever required the cover to be lifted.\n  376   2  **Operational interpretation:** The three sections below are one argument. The accounts are true and checkable — the Archive has v\n  384   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  451  10  The minute records the objection as **correct in all three parts**. It records that a remedy was drafted in the forty-sixth year a\nGENERIC 0.004  (21 shared shingles)  SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md\n",
+        "stderr": ""
+      }
+    },
+    "O-IIIγ-926": {
+      "verify": {
+        "exit": 0,
+        "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "stderr": ""
+      },
+      "tpl": {
+        "exit": 0,
+        "stdout": "RESIDUE 0  SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md\n",
+        "stderr": ""
+      },
+      "sectfile": {
+        "exit": 0,
+        "stdout": " 0.010  clean   485 grams  M.A.W. Equipment\n 0.007  clean   432 grams  기록 (Registrum)\n 0.006  clean   515 grams  Combat Record\n 0.005  clean   190 grams  감각 묘사 (Flavor Text)\n 0.001  clean  1021 grams  이야기 보고 (Story Log)\n 0.000  clean   567 grams  Warden Record\n 0.000  clean   337 grams  상호작용 (Entity Interactions)\n 0.000  clean   335 grams  Origin\n 0.000  clean   291 grams  이야기 (Narratio)\n 0.000  clean   234 grams  Appearance\n 0.000  clean   192 grams  Breach Behavior\n 0.000  clean   174 grams  Operational Parameters\n 0.000  clean   134 grams  Trivia\n 0.000  clean   113 grams  증언 (Testimonium)\n 0.000  clean   112 grams  관찰 기록 (Observation Log)\n 0.000  clean   112 grams  Behavior\n 0.000  clean    56 grams  최종 관찰 (Final Observation)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+        "stderr": ""
+      },
+      "wikistd": {
+        "exit": 0,
+        "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "stderr": ""
+      },
+      "sect": {
+        "exit": 0,
+        "stdout": "   54   1  | **Resistance** | 35% against Lament pressure; 24% against other pressure types |\n   89   1  2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A for a Hazard. The reading is the surface count: distinct \n   90   1  3. **Resolution:** The transect walked to its end regardless of what is on the surfaces, the count logged by surface and never by \n  173   2  **Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.\n  194   2  **Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.\n  212   2  **Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.\n  216   1  **Effect:** +1 when working this entity, and the bearer may not be the person who signs the surface count. The holding separated t\n  276   1  The ground is the transect. That quarter took the count to three hundred and eleven surfaces, the highest in nineteen years. The f\n  295   1  **After departure:** You think about a photograph of yourself that exists somewhere you did not put it. Most people have one and m\n  360   3  **Operational interpretation:** Read this file with the likeness return beside it. Taken alone it holds open ground that shows pic\nGENERIC 0.002  (15 shared shingles)  SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md\n",
+        "stderr": ""
+      }
+    },
+    "C-IIIβ-016": {
+      "verify": {
+        "exit": 0,
+        "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "stderr": ""
+      },
+      "tpl": {
+        "exit": 0,
+        "stdout": "RESIDUE 0  SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md\n",
+        "stderr": ""
+      },
+      "sectfile": {
+        "exit": 0,
+        "stdout": " 0.012  clean   333 grams  M.A.W. Equipment\n 0.005  clean  1146 grams  Warden Record\n 0.004  clean   523 grams  감각 묘사 (Flavor Text)\n 0.000  clean   555 grams  Combat Record\n 0.000  clean   466 grams  Activation Behavior\n 0.000  clean   373 grams  이야기 (Narratio)\n 0.000  clean   299 grams  기록 (Registrum)\n 0.000  clean   247 grams  Appearance\n 0.000  clean   246 grams  관찰 기록 (Observation Log)\n 0.000  clean   156 grams  Operational Parameters\n 0.000  clean   144 grams  이야기 보고 (Story Log)\n 0.000  clean   136 grams  Origin\n 0.000  clean   130 grams  Trivia\n 0.000  clean   128 grams  Behavior\n 0.000  clean    57 grams  SECC Classification\n 0.000  clean    53 grams  최종 관찰 (Final Observation)\n 0.000  clean    43 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+        "stderr": ""
+      },
+      "wikistd": {
+        "exit": 0,
+        "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "stderr": ""
+      },
+      "sect": {
+        "exit": 0,
+        "stdout": "  247   2  **Cost:** The wearer feels faintly absent to themselves and stops being able to find their own belongings in their own quarters.\n  257   2  **Effect:** +1 to the working stat on this holding's channels, which is to say during two minutes of standing still and writing a \n  345   1  This holding is read against the other things in the wing that register grief at a distance, and all three relations are measured \n  347   1  **Interaction method:** Baseline each party alone across several channels, with bearing, settle time and range logged throughout. \n  469   6  The objection is minuted at every annual review and is raised by the district's ward officer, who attends for this item and no oth\nGENERIC 0.002  (12 shared shingles)  SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md\n",
+        "stderr": ""
+      }
+    },
+    "N-IIIβ-155": {
+      "verify": {
+        "exit": 0,
+        "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "stderr": ""
+      },
+      "tpl": {
+        "exit": 0,
+        "stdout": "RESIDUE 0  SE-N-IIIβ-155_Harbinger_추징관의_그림자.md\n",
+        "stderr": ""
+      },
+      "sectfile": {
+        "exit": 0,
+        "stdout": " 0.022  clean   138 grams  Operational Parameters\n 0.013  clean   632 grams  M.A.W. Equipment\n 0.008  clean   119 grams  최종 관찰 (Final Observation)\n 0.007  clean   546 grams  Combat Record\n 0.007  clean   145 grams  Containment Event Behavior\n 0.006  clean   467 grams  기록 (Registrum)\n 0.000  clean   759 grams  Warden Record\n 0.000  clean   541 grams  감각 묘사 (Flavor Text)\n 0.000  clean   380 grams  이야기 (Narratio)\n 0.000  clean   316 grams  이야기 보고 (Story Log)\n 0.000  clean   242 grams  관찰 기록 (Observation Log)\n 0.000  clean   221 grams  Appearance\n 0.000  clean   182 grams  Trivia\n 0.000  clean   169 grams  Origin\n 0.000  clean   132 grams  증언 (Testimonium)\n 0.000  clean   116 grams  Behavior\n 0.000  clean    38 grams  SECC Classification\n 0.000  THIN      3 grams  (preamble)\n0 section(s) over 0.05\n",
+        "stderr": ""
+      },
+      "wikistd": {
+        "exit": 0,
+        "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "stderr": ""
+      },
+      "sect": {
+        "exit": 0,
+        "stdout": "   31   3  | **Han-Energy yield** | 12–18 per successful work cycle, read off the ledger column rather than the watch |\n   84   4  | { *The Full Audit* [**Attack**] } | \"The collector's shadow reveals its full ledger — every debt, every interest charge — and it\n  166   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% a cycle while the matter goes unaddressed. It falls when the subject is to\n  176   5  **Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge the moment it \n  199   2  **Appearance:** a greave-plate of Weight Han-steel, matte and unnaturally heavy, that rides closer the nearer the wearer comes to \n  219   2  **Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that takes the light without returning any of it.\n  241   2  | **Before use** | Wielder, piece, and a dated baseline written against the recorded toll — the bearer carrying weight for days an\n  243   1  | **At limit** | The bearer stops noticing the toll at all, and the sign is not theirs to see: people forget the wearer was presen\n  292   1  > Two ways to close a watch at the mirrors, and the file prices them by what happens to the person standing in front of them: one \n  368   1  - The Standing Notice is a containment condition of this holding, and it binds every adverse decision the facility opens against a\n  374   2  **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · the Collectors' offices, who supply \nGENERIC 0.004  (24 shared shingles)  SE-N-IIIβ-155_Harbinger_추징관의_그림자.md\n",
+        "stderr": ""
+      }
+    }
+  },
+  "tests_and_audits": {
+    "tests": {
+      "exit": 0,
+      "stdout": "",
+      "stderr": "----------------------------------------------------------------------\nRan 54 tests in 0.044s\n\nOK\n"
+    },
+    "lore": {
+      "exit": 0,
+      "stdout": "====================================================================\n PROJECT SOMNARAK — NON-WIKI ARCHIVE AUDIT REPORT\n====================================================================\n1. UTF-8 Integrity        : PASS (2161 files, 36.89 MB)\n2. Macro-Canon Codices    : PASS (52 / 52 master codices: 49 in-world, 3 editorial standards)\n3. Sorrow Entities        : PASS (290 files, 290 unique codes, 0 paired, 0 scope mismatches)\n   Rank breakdown         : {'Rank I (Residue)': 46, 'Rank II (Echo)': 70, 'Rank III (Fragment)': 82, 'Rank IV (Entity)': 80, 'Rank V (Sovereign)': 12, 'Other': 0}\n4. M.A.W. Equipment Sets   : PASS (198 / 198 complete quadripartite sets)\n5. Auxiliary Collections  : PASS\n   - The Absolvohan Parts : 10 files (Day 0–365 Chronological Narrative)\n   - Katabagil Passages   : 8 files (7 Subterranean Descents + Overview)\n   - Katharcheok Ops      : 7 files (6 Pacification Sweeps + Overview)\n   - Gieok Jeojangso Recs : 8 files (7 Strata Receptions + Overview)\n   - Jipyeongseondae Arcs : 7 files (6 Overland Arcs + Overview)\n   - Mugenhan Ecology     : 5 files (Planetary Biological Compendiums)\n   - Ordeals (5 Colors)   : 60 files (Expected: 60)\n   - Hope Transformations : 14 files (Expected: 14)\n   - Unknown Anomalies    : 12 files (Expected: 12)\n   - Facility Echo-Cores  : 9 files (Expected: 9)\n6. Text Box Symmetry     : PASS (2161 files, 0 crooked rows)\n====================================================================\n OVERALL LORE HEALTH: PASS\n====================================================================\n",
+      "stderr": ""
+    },
+    "timeline": {
+      "exit": 0,
+      "stdout": "=== PROJECT SOMNARAK // PAN-REPO CANON TIMELINE LINTER ===\nAudited 1794 files pan-repo across SOMNARAK-WORLD, GAME_BATTLE, and repository root.\n[PASS] 0 timeline contradictions found! All 1794 files perfectly conform to Year 4,238 / Cycle 1,778 anchor.\n",
+      "stderr": ""
+    },
+    "seam": {
+      "exit": 0,
+      "stdout": "=== PROJECT SOMNARAK // SEMANTIC-SEAM & DEFECT LINTER ===\nAudited 1761 files in SOMNARAK-WORLD.\n[PASS] 0 semantic seams or defect violations found! Archive is 100.0% clean across all audited wings.\n",
+      "stderr": ""
+    },
+    "symmetry": {
+      "exit": 0,
+      "stdout": "========================================================================\n PROJECT SOMNARAK — ASCII TEXT BOX SYMMETRY & BORDER AUDITOR\n (Count All Rows -> If Misaligned, Extend Up To Longest Row Engine)\n========================================================================\nScanned Markdown Files : 2161\nTotal Symmetry Flaws   : 0\n------------------------------------------------------------------------\n[OK] All text boxes have mandatory '+' top (start) and bottom (end) borders.\n[OK] All text boxes have mandatory '|' or '+' left and right side borders.\n[OK] All rows count and match the longest row with 100% letter and display width symmetry.\n========================================================================\n RESULT: PASSED (100% Geometric Border & Character Symmetry)\n========================================================================\n",
+      "stderr": ""
+    }
+  },
+  "integrity": {
+    "opening_commit": "ae8e480f71f5a7ab7ab14dbc4913b54201d584c1",
+    "selected": [
+      "C-Iα-869",
+      "C-IIβ-906",
+      "O-IIIγ-926",
+      "C-IIIβ-016",
+      "N-IIIβ-155"
+    ],
+    "selected_files_reconstructed": 5,
+    "repair_groups": 36,
+    "physical_form_rows_unchanged": 301,
+    "unselected_primary_files_unchanged": 296,
+    "entity_tales_byte_identical": true,
+    "remaining_pending_fingerprints_unchanged": 115,
+    "reserves_unchanged": 5,
+    "distinct_source_files_unchanged": 37,
+    "digit_sequences_unchanged": true,
+    "words_before": 36157,
+    "words_after": 36802,
+    "no_change": 0,
+    "counters": {
+      "types": 269,
+      "weapon": 267,
+      "se_fix": 18
+    },
+    "credit_entries": {
+      "types": 29,
+      "weapon": 27
+    }
+  },
+  "r18_total": {
+    "repair_groups": 36,
+    "batch_short": 16,
+    "careful_detail": 20,
+    "words_before": 36157,
+    "words_after": 36802
+  },
+  "credits_by_unit": {
+    "C-Iα-869": {
+      "types": 0,
+      "weapon": 0,
+      "se": 0
+    },
+    "C-IIβ-906": {
+      "types": 0,
+      "weapon": 0,
+      "se": 0
+    },
+    "O-IIIγ-926": {
+      "types": 0,
+      "weapon": 0,
+      "se": 0
+    },
+    "C-IIIβ-016": {
+      "types": 1,
+      "weapon": 1,
+      "se": 0
+    },
+    "N-IIIβ-155": {
+      "types": 0,
+      "weapon": 0,
+      "se": 0
+    }
+  },
+  "counters": {
+    "ALL M.A.W. Types Appearance per SE": {
+      "completed": 269,
+      "total": 301,
+      "percent": 89.37,
+      "remaining": 32
+    },
+    "ALL M.A.W.-W Appearance per SE": {
+      "completed": 267,
+      "total": 287,
+      "percent": 93.03,
+      "remaining": 20,
+      "excluded": 14
+    },
+    "SE Appearance Fix": {
+      "completed": 18,
+      "total": 301,
+      "percent": 5.98,
+      "remaining": 283
+    }
+  },
+  "ledger_counts": {
+    "changed": 14,
+    "retained": 4,
+    "held": 166,
+    "blocked": 2,
+    "pending": 115
+  },
+  "counter_definitions": "Types is inherited source-review coverage including holds; Weapon is unique exact-pair source coverage including holds and excludes 14 dossiers; SE Appearance Fix is the independent written-design pass. None is artwork completion.",
+  "inspection_limit": "Written-design logical review only; rendered art, browser interaction, running-game, and published-site inspection not performed / not in scope.",
+  "preservation": {
+    "physical_form_rows_unchanged": 301,
+    "entity_tales_unchanged": true,
+    "unselected_primaries_unchanged": 296,
+    "remaining_pending_fingerprints_unchanged": 115,
+    "reserves_unchanged": 5,
+    "distinct_fingerprinted_sources_unchanged": 37,
+    "all_five_digit_sequences_unchanged": true,
+    "all_36_repair_groups_reconstruct_finals_from_opening": true
+  },
+  "continuation": {
+    "next_batch_authorized": false,
+    "unused_reserves_not_selected": true,
+    "later_full_recheck_backlog_retained": true,
+    "batch301_eight_owner_supplied_bodies_blocker_retained": true,
+    "pr": {
+      "number": 15,
+      "state": "OPEN",
+      "draft": true,
+      "base": "NON-WIKI",
+      "url": "https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/pull/15"
+    },
+    "merge_requested_or_performed": false
+  }
+}

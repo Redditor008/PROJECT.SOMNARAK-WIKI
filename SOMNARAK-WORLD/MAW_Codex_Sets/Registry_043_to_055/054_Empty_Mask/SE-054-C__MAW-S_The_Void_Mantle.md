@@ -28,7 +28,7 @@
 
 ### Appearance
 
-The Void Mantle is a black, straight-cut mantle of dense Han fabric that falls from the shoulders to the knees with no flare and no ornament. A single pale strip runs down the front and darkens by stages as an identity-erasure effect settles into the cloth as Weight. The fabric is heavier than it appears and hangs almost motionless, and its inner lining stays cool against the neck. While the effect is stored, the mantle does not move with the wearer's breath; it holds one continuous shape. The wearer can continue to be recognized through the stored absence, but only until a witness names them and records one true fact. After that discharge the pale strip returns to its original grey, and the wearer gradually feels familiar again, though the fatigue remains for a while. The front strip is checked before every mission, and a single pale change in its colour is treated as a warning.
+The Void Mantle is a knee-length mantle of black Han worsted, cut square at the shoulder and hanging without a fold; the cloth has been fulled until it holds a shape of its own. A single thread of undyed silk runs the length of the front, and it greys upward from the hem as a stored absence is taken into the weave. The garment has no fastening, and it sits on the wearer like something laid over a chair rather than put on. Once the absence is stored the cloth stops taking the shape of the body beneath it — the shoulders stay where they were when the effect went in — until a witness names the wearer and records one true fact. After the discharge the silk returns to grey and the wearer comes back to themselves by degrees, with the fatigue left behind for a while. The front thread is checked before every mission, and any change in it is treated as a warning.
 
 ### Ability— Name Weight
 
@@ -41,12 +41,3 @@ The Mantle lets the wearer carry one identity-erasure effect without immediately
 ### History Record
 
 A Mantle bearer survived an Empty Mask contact event but refused mirrors for nine days. The effect ended only after a team member read the bearer’s first training report aloud.
-
-**Document ID:** `SE-054-C`  
-**Linked Entity:** `SE-054`  
-**Item Registry Code:** `MAW-S-054-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

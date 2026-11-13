@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIβ-036 [WO]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Alpha Tree vault
 
@@ -56,9 +56,9 @@ Any observation must include a written start time, intended end time, and a seco
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| Weapon | The Gyroscopic Chrono-Orrery | β | Weight | Delivers time-weight through a single impact | `SE-036-B__MAW-W_The_Hourglass_Maul.md` |
+| Weapon | The Gyroscopic Chrono-Orrery | β | Weight | Delivers time-weight through a single impact | `SE-036-B__MAW-W_The_Gyroscopic_Chrono_Orrery.md` |
 | Suit | The Sandglass Watcher's Mantle | β | Weight | Distributes temporal burden at a personal cost | `SE-036-C__MAW-S_The_Hourglass_Mantle.md` |
-| Stigma | The Micro-Hourglass Choker | β | Weight | Briefly slows one moment | `SE-036-D__MAW-G_The_Hourglass_Pendant.md` |
+| Stigma | The Micro-Hourglass Choker | β | Weight | Briefly slows one moment | `SE-036-D__MAW-G_The_Micro_Hourglass_Choker.md` |
 
 **Weapon profile hold:** The primary and linked item give byte-identical Appearance text for a floating 35 cm Chrono-Orrery firing Range 4 gravitational beams, so the repeated paragraph is not independent corroboration. The linked item's core row instead classifies an Hourglass Sledge / Sand-Clock Hammer and gives Weight 9–16, Very Slow 1, Room 5, Ground Shockwave / Temporal Drag; its ability/history describe a maul and chamber-floor impact. The primary gives Weight 8–13, Normal 3, Long 4, Concentric Beam / Chrono-Singularity, a line plus 4 m vortex, and 100% / 60%; this set row describes a single impact. The master registry supports the Orrery title and Weight 9–16, maximum 4, and 25 Echoes but leaves speed/range unset; the archetype index also calls it an Orrery but assigns a Short band. No documented form transition or base-versus-special profile reconciles these records; no value or form is selected.
 
@@ -88,13 +88,3 @@ The crack is not damage; it is the entity’s statement that time cannot be held
 
 ### Observation 4 — Mastered
 The sand regenerates because the lesson is not that time ends, but that every moment is already leaving.
-
----
-
-**Document ID:** `SE-036-A`  
-**Related Entity:** `SE-036`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

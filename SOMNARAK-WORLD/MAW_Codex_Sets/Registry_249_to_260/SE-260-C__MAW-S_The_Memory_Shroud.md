@@ -24,9 +24,15 @@ This Memory Shroud is a wrapping shroud of blue Han-silk patterned with two abse
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 2 / 45 Echoes |
+
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
 
 **Present Shore:** The heart mark prevents a remembered crossing from replacing current place and identity. Losing the physical anchor makes the cloth follow the vanished route.
 
@@ -43,14 +49,3 @@ Shroud holds now, Span defines then, Requiem cuts lift. It does not make the old
 **Maintenance:** Wrap the Shroud around the present anchor beside the settled footprint. Two people name the current site without describing the old shore.
 
 **Removal:** Step completely off the memory route and unwrap from the heart mark outward.
-
----
-
-**Document ID:** `SE-260-C`  
-**Linked Entity:** `SE-260`  
-**Item Registry Code:** `MAW-S-260-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

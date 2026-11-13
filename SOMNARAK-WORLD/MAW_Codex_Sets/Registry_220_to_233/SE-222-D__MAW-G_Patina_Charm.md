@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-G-222-01`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — bearer-bound to Border Lead Mellda
 
@@ -17,6 +17,7 @@
 
 A small Grudge Han-iron Tail charm, dark and faintly warm. Its rust pattern resembles two boundary lines that never meet. The metal heats sharply when an old grievance is assigned to a living stranger by ancestry, district, accent, or inherited role.
 
+**Maximum Amount:** 2 — Limited
 Patina granted the Charm after Mellda endured Ferrehan while refusing both sides’ demand that she identify the “true heirs” of the feud. Acquisition chance is 4%; it cannot be manufactured.
 
 ## Appearance
@@ -51,14 +52,3 @@ Patina’s invisible tether trembles at the same temperature as the Stigma.
 **Care:** Mellda records one present harm and one inherited accusation from the same incident without collapsing either into the other. The Charm is set on neutral ground until both boundary lines cool separately.
 
 **Emergency release:** Stop all ancestry-based orders, leave the disputed marker visible, and let a person from each side state what they personally did—not what their people are. The Stigma loosens only after current agency is restored.
-
----
-
-**Document ID:** `SE-222-D`  
-**Linked Entity:** `SE-222`  
-**Item Registry Code:** `MAW-G-222-01`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

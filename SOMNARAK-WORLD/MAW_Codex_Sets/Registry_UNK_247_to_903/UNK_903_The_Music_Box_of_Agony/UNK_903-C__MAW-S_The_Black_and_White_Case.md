@@ -35,14 +35,3 @@
 **Corrosion:** silence contains melody; causeless sorrow becomes identity; terminal state seals the wearer inside the Case’s emotional carousel.  
 **Maintenance:** air in acoustic silence while the wearer’s name is spoken normally.  
 **Shutdown:** open one seam only at the song’s final note and receive the wearer’s name.
-
----
-
-**Document ID:** `UNK-903-C`  
-**Linked Entity:** `UNK-903`  
-**Item Registry Code:** `MAW-S-UNK-903-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

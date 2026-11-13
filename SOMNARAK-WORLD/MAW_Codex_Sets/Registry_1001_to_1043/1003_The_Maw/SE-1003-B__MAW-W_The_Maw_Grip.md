@@ -33,7 +33,7 @@ A massive black-iron executioner's cleaver embedded with compressed fragments of
 | Attack Pattern | Heavy Cleave |
 | Target Coverage | 1 target; creates a 1-node shockwave on impact |
 | Falloff Rule | 100% damage to primary target; immediately destroys any target's active Posture Shield. |
-| Max Amount | 1 |
+| Max Amount | 1 — Held |
 | Echo cost | 60 Sorrow Echoes |
 | Canonical ability | Carries the weight of the First Sorrow; bypasses all physical armor and inflicts 5 turns of bleeding Grudge residue. |
 | Bearer cost | Each strike drains 5 points of the wielder's Composure; reaching 0 Composure triggers an immediate Cheongula Meltdown. |
@@ -43,14 +43,3 @@ A massive black-iron executioner's cleaver embedded with compressed fragments of
 **Corrosion:** the cleaver's wire digs into forearm muscles; the bearer hears the chorus of the thousand sacrifices chanting for retribution; terminal state triggers complete bodily combustion into crimson ash.  
 **Maintenance:** immerse blade in cold well-water mixed with powdered coal after every engagement.  
 **Shutdown:** three handlers apply lead-lined cooling clamps simultaneously while reciting the civic apology decree.
-
----
-
-**Document ID:** `SE-1003-B`  
-**Linked Entity:** `SE-1003`  
-**Item Registry Code:** `MAW-W-1003-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

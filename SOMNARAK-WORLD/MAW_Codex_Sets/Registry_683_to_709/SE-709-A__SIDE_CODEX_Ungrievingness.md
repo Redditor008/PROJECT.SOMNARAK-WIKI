@@ -17,7 +17,7 @@ A crimson crystal tear in the Alpha Tree vault holds grief dismissed before expr
 |---|---|
 | Coherence / Potency | I / α |
 | Element / Location | Grudge / Zone A, Alpha Tree vault |
-| Gauge / Pressure | 198/198; 25–40% / 3–10 |
+| Gauge / Pressure | 000/240; starts 000% / Grudge — no attack pattern; the mass on the scale is the reading |
 | Set | Grievance With Origin |
 
 Only Viderehan and Ferrehan are valid. Viderehan reveals grievance; Ferrehan holds it without claiming it. **Resolution:** acknowledge the dismissed death, attribute anger, place Tear down consciously, and lower Gauge below 25%.
@@ -31,12 +31,3 @@ Only Viderehan and Ferrehan are valid. Viderehan reveals grievance; Ferrehan hol
 **Resonance — Old Anger, Present Choice:** Shard identifies suppressed anger, Plate bears it, and Fang cuts only the record dismissing the death. The holder consciously returns the grievance. Using it against a current person makes all three treat them as the original dismissing crowd.
 
 **Incident:** a holder attacked a present auxiliary after touching the Tear. Marjuk found the anger belonged to an unrecorded death generations earlier. Correcting that absence let the holder set it down without denying its truth.
-
----
-**Document ID:** `SE-709-A`  
-**Linked Entity:** `SE-709`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -46,15 +46,15 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_02_RAGE_STATUE.md",
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-A__SIDE_CODEX_The_Rage_Statue.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-B__MAW-W_The_Rage_Fang.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-C__MAW-S_The_Rage_Gauntlet.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-D__MAW-G_The_Rage_Charm.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-B__MAW-W_The_Vein_Heated_Marble_Brand.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-C__MAW-S_The_Sculptor_s_Flame_Hardened_Apron_and_Cuirass.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-D__MAW-G_The_Chiseled_Knuckle_Stigma.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "sources_read": "Whole468-line original including3188petitions, ReceivedAndOwedNothing and emergencydecision fiction. Complete190A–D including C Gauntlet/palmseam and Dfused-knuckle covering; Mastertable107–109/detail1573–1606, Entity387/fullTale23 1285–1346, Registry466–469/archetype133/Neutral294. Both currentlogs prior118unit2 sourceinventory,77–78identity correction and fullitemprofile hold read. Exact190notEmberPhoenix1019 despite W190Culverin alias.",
   "history": "Prior118unit2 fullprimary/190A–D and prior77–78 exactWeaponpair already credited. No newTypes/Weapon/SEcredit; preserve existing118 piece-specific notes and profileholds.",
@@ -115,15 +115,15 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "after_words": 7611,
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-A__SIDE_CODEX_The_Rage_Statue.md": "37d47e105578517f7c50edbc51c5412ca5f1dcbe1e8f81df3a71fca620dd6526",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-B__MAW-W_The_Rage_Fang.md": "334d2f00c568b88290bafa2eebcdb26ec53e5dcaa569b6324bba927436f0ed3b",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-C__MAW-S_The_Rage_Gauntlet.md": "41fa31df69b134c216893d093fc3e72bf903f1680c36497b60ad5fd413428fab",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-D__MAW-G_The_Rage_Charm.md": "7a7d6da3305fe62ff1d5b30e9e898ad14bf919ae3528c53d24cd9df59c2144c9",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-B__MAW-W_The_Vein_Heated_Marble_Brand.md": "334d2f00c568b88290bafa2eebcdb26ec53e5dcaa569b6324bba927436f0ed3b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-C__MAW-S_The_Sculptor_s_Flame_Hardened_Apron_and_Cuirass.md": "41fa31df69b134c216893d093fc3e72bf903f1680c36497b60ad5fd413428fab",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-D__MAW-G_The_Chiseled_Knuckle_Stigma.md": "7a7d6da3305fe62ff1d5b30e9e898ad14bf919ae3528c53d24cd9df59c2144c9",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "validation": {
     "verify": {

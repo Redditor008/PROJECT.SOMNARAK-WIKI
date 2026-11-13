@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Time at Moderate (β) potency, Weight-aligned, spirit-manifesting, held at SECTOR-N-919. It can breach by transforming; the ring is timed and the origin is not.
 
 | Field | Canonical record |
 |---|---|
@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Can breach via Transform / Time-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-N-919, contained |
-| Gauge / Pressure | 495/495; starts 35–50% / 14–20 per hit · Weight |
+| Gauge / Pressure | 000/495; starts 000% · Weight — no attack pattern: the hour has no body to strike and no instrument has ever registered a sound (Contact Record, R-36) |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 
@@ -30,17 +30,17 @@ Not recorded Not recorded
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
-| Viderehan | Permits study; the spirit pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral |
+| Viderehan | No instrument has ever registered a sound here; the watch returns the hour and the fact of the ring, and nothing that can be written down as a reading. (Decrease) |
+| Ferrehan | Keep the post for the full hour without answering it; the pressure settles around a party that lets the hour pass without a reply. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-919 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Passing Bell Source-Trace*
 
-During the The Passing Bell Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Passing Bell Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Passing Bell — Witnessed Form*
 
@@ -53,13 +53,3 @@ During the The Passing Bell Source-Trace, the field team preserved this source f
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Passing Bell's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Passing Bell's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-919-A`  
-**Linked Entity:** `SE-919`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

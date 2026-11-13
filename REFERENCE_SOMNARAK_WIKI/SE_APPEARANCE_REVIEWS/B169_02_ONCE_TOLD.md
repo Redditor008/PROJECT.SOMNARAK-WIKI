@@ -84,8 +84,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/930_Once_Told/SE-930-C__MAW-S_Once_Told_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/930_Once_Told/SE-930-D__MAW-G_Once_Told_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
   ],
   "reasoning": "Complete357-line original and exact930A–D read. Hazard-Tale is fixed open ground rendering speech, OutsideLament origin unknown and recognized from ambient logs; source is not products or described dead friend. Whole chain includes physical marks/cold/flowers/figure, ordinary speaker response and simultaneous recurrence, persistent inventory versus daylimited cold/tree growth, silent four-hour Work, extraction written plan, paper comparisons and gear credibility versus materialization. Predeclared R18:0batch-short/10careful-detail; header/role, concrete profile, unsupported breach pursuit/corruption and physical suppression, specific Work, speech-safe FieldUse, Token cost and misleading comparison.",
@@ -108,8 +108,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/930_Once_Told/SE-930-C__MAW-S_Once_Told_s_Veil.md": "d5f25c65a185fd3264e1e83150622e6093305b23902586b07d2229bacbfc9575",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/930_Once_Told/SE-930-D__MAW-G_Once_Told_s_Token.md": "b372cee0c55eec3c22feda0a8c8d3aafe268927224e9d20d73e3b6e36f8e596c",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
   },
   "checks": {

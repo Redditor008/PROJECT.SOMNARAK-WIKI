@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-125 [VS]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Alpha Tree return-without-reclaiming protocol
 
@@ -26,7 +26,7 @@
 | Element | Void |
 | Location | Zone A, Alpha Tree |
 | Form | A fruit-shaped presence in consciousness: a familiar object returning to a place where it cannot possibly still exist. |
-| Gauge / pressure | 60–80% / Void 29–62 |
+| Gauge / pressure | 883/883; starts 60–80% / Void — no attack pattern; the spotter’s second reading and the return count are the instrument |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Return Without Reclaiming |
 
@@ -61,10 +61,10 @@ The entity has no fruit that can be picked. It is the certainty that one exists:
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Returns a comforting memory. | Down | Receive it as memory, not evidence that the past can be repossessed. |
-| Pugnahan | Intrusive absence fills the mind. | Up | Do not attack a return because it fails to restore everything. |
+| Flerehan | Returns a comforting memory. | Decrease | Receive it as memory, not evidence that the past can be repossessed. |
+| Pugnahan | Intrusive absence fills the mind. | Increase | Do not attack a return because it fails to restore everything. |
 | Viderehan | Reveals where the object and owner were lost. | Stable | Record the location and loss separately from the observer’s present desire. |
-| Ferrehan | Tests whether the worker can remember without reclaiming. | Down | A second archivist holds a present-time anchor outside the memory field. |
+| Ferrehan | Tests whether the worker can remember without reclaiming. | Decrease | A second archivist holds a present-time anchor outside the memory field. |
 
 ### Transform response
 
@@ -85,7 +85,7 @@ This set deals in returned memories. Every benefit is paired with a present cost
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Reverberant Spear | δ | Void | Separates an intrusive return loop from present space without denying the memory’s meaning | `SE-125-B__MAW-W_The_Returning_Lens.md` |
+| Weapon | The Reverberant Spear | δ | Void | Separates an intrusive return loop from present space without denying the memory’s meaning | `SE-125-B__MAW-W_The_Reverberant_Spear.md` |
 | Suit | The Returning Veil | δ | Void | Protects a bearer’s present identity during return pressure | `SE-125-C__MAW-S_The_Returning_Veil.md` |
 | Stigma | The Returning Seed | δ | Void | Recalls one lost memory at equal present-memory cost | `SE-125-D__MAW-G_The_Returning_Seed.md` |
 
@@ -106,7 +106,7 @@ This set deals in returned memories. Every benefit is paired with a present cost
 
 **Quick effect:** The Void Skewer separates an intrusive return image from the space it overlays; it does not deny the memory’s meaning or restore what was lost.
 
-**Weapon-title review (2026-10-11):** `C-IVδ-125`’s primary M.A.W. block and six-foot fluted bronze spear Appearance, the current `SE-125-B` heading/Appearance, Master Registry, `MAW-W-125` archetype, and same-code revision `3abe5470` support *The Reverberant Spear*. The master Codex table/detailed Entry 241 and linked item’s Official name, Resting/Active forms, and legacy attack/signature wording still identify *The Returning Lens*; keep that identity/form conflict held, with no Lens-to-spear transition inferred. A separate cross-dossier duplication also remains unresolved: Hollow Echo `N-IIα-125` has the same spear title and Appearance in its primary, but a different α/Single profile; master table row 457 assigns *The Reverberant Spear* to Hollow Echo while detailed Entry 457 still says *The Echo Lens*. Do not infer a shared item or copy Hollow Echo’s profile. The old item filename remains only as the linked path. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `C-IVδ-125`’s primary M.A.W. block and six-foot fluted bronze spear Appearance, the current `SE-125-B` heading/Appearance, Master Registry, `MAW-W-125` archetype, and same-code current revision support *The Reverberant Spear*. The master Codex table/detailed Entry 241 and linked item’s Official name, Resting/Active forms, and legacy attack/signature wording still identify *The Returning Lens*; keep that identity/form conflict held, with no Lens-to-spear transition inferred. A separate cross-dossier duplication also remains unresolved: Hollow Echo `N-IIα-125` has the same spear title and Appearance in its primary, but a different α/Single profile; master table row 457 assigns *The Reverberant Spear* to Hollow Echo while detailed Entry 457 still says *The Echo Lens*. Do not infer a shared item or copy Hollow Echo’s profile. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 
@@ -171,13 +171,3 @@ This set deals in returned memories. Every benefit is paired with a present cost
 **Entity links:** Remembrance; The Memory Weaver; the Alpha Tree memory channels.  
 **Archive distinction:** Returned memory is evidence of continuity and loss, not permission to revise current history.  
 **Item links:** `SE-125-B`, `SE-125-C`, and `SE-125-D` contain the equal-weight exchange, current-anchor, and incident records for Return Without Reclaiming.
-
----
-
-**Document ID:** `SE-125-A`  
-**Linked Entity:** `SE-125`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

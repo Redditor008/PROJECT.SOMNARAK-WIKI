@@ -10,6 +10,7 @@
 **Codex Set Completion:** `4/4`
 
 Grudge Han-iron Fang: **α Grudge; 3–6; Speed/Range 2/2; Single; max5; 15 Echoes.** It cuts a phantom hand after attribution; old wounds ache.
+**Maximum Amount:** 5 — Abundant
 
 ## Appearance
 
@@ -20,13 +21,3 @@ The Window of a Thousand Goodbyes’ Fang is a crimson fang of Han iron that cut
 **Corrosion:** farewells become autobiographical; hands mark the grip; terminal state attacks anyone leaving.  
 **Maintenance:** log each hand before cleaning Han from the edge.  
 **Shutdown:** viewer looks away while a witness states room and owner.
-
----
-**Document ID:** `SE-686-B`  
-**Linked Entity:** `SE-686`  
-**Item Registry Code:** `MAW-W-686-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

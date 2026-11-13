@@ -139,7 +139,7 @@ In Project Somnarak, **Speed is not merely turn order—it is your operational a
 |            SPEED-TO-ACTION POINT (AP) CONVERSION ENGINE             |
 +---------------------------------------------------------------------+
 | Speed Roll   | Action Points (AP) | Tactical Capabilities Per Turn  |
-| -------------+--------------------+-------------------------------- |
++--------------+--------------------+---------------------------------+
 | Speed 1 - 2  | 1 Action Point     | 1 Basic Strike OR 1 Node Shift  |
 | Speed 3 - 4  | 2 Action Points    | 1 Move + 1 Attack OR 1 Guard    |
 | Speed 5 - 6  | 3 Action Points    | Move + Resonance Skill + Guard  |
@@ -298,6 +298,8 @@ Every institutional combat style executes the universal **Four P-Framework**:
 
 ## V. Branch 1: Generic P.S. Combat Core (The Universal Engine)
 
+**P.S. is Project Somnarak.** The acronym is the setting’s own, and the Generic P.S. Combat Core is the engine every branch style is a specialisation of.
+
 The Universal Engine governs all basic combat mathematics, clash comparisons, and elemental relationships.
 
 ### 5.1 Dual-Resource Equilibrium: Sorrow vs Composure
@@ -308,6 +310,7 @@ Every combatant in Somnarak balances two internal psychological gauges:
    - Represents the accumulation of ambient and manifested Han-sorrow.
    - *For Specialists*: Reaching 100% causes **Cognitive Fracture**—the agent succumbs to overwhelming grief, mutating or attacking allies indiscriminately.
    - *For Sorrow Entities*: Reaching 100% triggers **Berserk Overdrive**, unlocking lethal multi-target attacks and stripping all stagger vulnerabilities.
+   - *Two scales, one direction.* The percentage here is the **tactical** read, used inside an encounter. The dossier files a **field** meter: `[HP]` on a subject, a possession or a breaching relic, and an Element-named charge on a non-breaching relic, which rests at 000 and fills to a wall fixed by its grade (`R-48`). Both run the same way — low is good, rising is worse (`R-09`). A relic's charge converts into the tactical percentage at intake, where its wall is the 100% the encounter is scaled against.
 2. **Mental Composure Points (SP: -45 to +45)**:
    - Measures operational clarity and emotional grounding.
    - High SP (+15 to +45): Greatly improves Clash lot cast odds (up to 95% marked rate).

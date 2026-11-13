@@ -10,7 +10,7 @@
 **Entity Designation:** `C-IIβ-210 [VO]`  
 **Author:** Specialist Durivel Cho, Field Extraction Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — four registered units; single-target authorization
 
@@ -18,7 +18,11 @@
 
 ## ITEM IDENTITY & VISUAL RECORD
 
+### Appearance
+
 The Laughter Lens is a palm-wide disc of ground Void Han-glass, almost colorless until a voice crosses it. A narrow handle joins the disc at an angle suited to pointing rather than swinging. Inner light flickers in time with nearby laughter. Seen through the glass, a mouth appears a fraction ahead of the rest of the face whenever its expression is performed.
+
+### Recognition
 
 **Recognition rule:** An authentic Lens shows the holder’s closed mouth while returning the last laugh heard behind them. A replica merely reflects.
 
@@ -60,7 +64,7 @@ A person who claims to have no protected memory sees their own face disappear fr
 | Range | 2 — Short |
 | Attack pattern | Single |
 | Coverage / falloff | One designated target; 100% |
-| Maximum amount | 4 — stocked only for qualified teams |
+| Maximum amount | 4 — Stocked (only for qualified teams) |
 | Echo cost | 25 Sorrow Echoes |
 | Operational cost | One small, nameless memory per completed discharge |
 | Corrosion risk | Moderate; severe if fired into genuine affect |
@@ -128,14 +132,3 @@ Levity imitates the wielder’s most recent discharge as a short laugh. If the p
 The weapon does not detect lies. It detects distance between a displayed voice and the identity producing it. Grief, professionalism, fear, courtesy, and deliberate deception can all create that distance. Targeting authority therefore requires context; the Lens must not become a weapon against anyone who smiles while hurting.
 
 > *“A performed laugh can conceal a threat. More often, it conceals someone trying to survive the room.”* — Specialist Durivel Cho
-
----
-
-**Document ID:** `SE-210-B`  
-**Linked Entity:** `SE-210`  
-**Item Registry Code:** `MAW-W-210-01`  
-**Author:** Specialist Durivel Cho, Field Extraction Specialist  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

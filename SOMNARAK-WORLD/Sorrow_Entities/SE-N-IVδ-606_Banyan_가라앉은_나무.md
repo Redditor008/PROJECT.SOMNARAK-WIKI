@@ -12,9 +12,9 @@
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
-| **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — A drowned tree-beast dragging itself beneath the Mask Market floor, branch-arms and a weeping face pressing up through the crystal — a submerged creature of waterlogged wood. Salt-damp, it smells of cold rain and depth. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Manifestation** | Subject-Lament |
+| **Physical Form** | Mixed |
+| **Movement** | Drags itself beneath the Market floor and does not surface or charge. The root mass spreads under the crystal, fastest beneath whichever stall has gone quiet. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -30,11 +30,13 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn through the Market floor with the traders working above it. The district takes a share, which is written into the Market's charter and is the only arrangement of its kind in the registry. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **SE Effect** | **On the breach** — The Tree completes its descent and takes the crystal and the ground above it. |
+| **Work Damage** | 3–7 Lament — the cost is a thing that drags itself beneath the floor and extends its reach instead of escaping |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | Granted pieces · δ — Sunken Harpoon-Gun, Sunken Shroud and Sunken Root, each graded Critical. |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Follow the Director’s limits before a public reading: a Market resident reads, never facility staff; exclude documents naming a living person and honour family withdrawal. Viderehan and Ferrehan only, with traders present in trading hours. Do not identify anonymous authors, disturb the roots or dig beneath the crystal. |
+| **Recommended response** | Follow the Director’s limits before a public reading: a Market resident reads, never facility staff. Exclude documents naming a living person and honour family withdrawal. Viderehan and Ferrehan only, with traders present in trading hours. Do not identify anonymous authors, disturb the roots or dig beneath the crystal. |
 
 ### Operational Notes
 
@@ -52,10 +54,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Lament. The root mass has never been cut and the two proposals to cut it are in the file under their authors' names; the crystal floor was laid precisely so that it would not have to be. |
+| **Resistance** | 45% against Lament. The root mass has never been cut and the two proposals to cut it are in the file under their authors' names. The crystal floor was laid precisely so that it would not have to be. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 781/781 |
-| **Han Pressure [ATK]** | 25–55 per hit · Lament |
+| **Han Pressure [ATK]** | 30–60 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -79,15 +81,15 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Drowned Roots* [**Debuff**] } | "The tree is underwater — roots splayed, bark dark with decades of grief." | [The Tree's submerged sorrow seeps into the target.] | *Target suffers -10 Composure; they feel the depth of the drowning.* **[10 Lament DMG [Lament]]** | When the target wades near the Tree. |
-| { *The Rising Sap* [**Debuff**] } | "Sorrow-sap weeps from the bark — thick, dark, and tasting of old grief." | [The Tree's grief bleeds outward; the water thickens.] | *Target loses 10 Composure; the sorrow is saturating everything.* **[10 Lament DMG [Lament]]** | When the target lingers in the water. |
+| { *The Rising Sap* [**Debuff**] } | "Sorrow-sap weeps from the bark — thick, dark. And tasting of old grief." | [The Tree's grief bleeds outward; the water thickens.] | *Target loses 10 Composure; the sorrow is saturating everything.* **[10 Lament DMG [Lament]]** | When the target lingers in the water. |
 | { *The Drowned Branch* [**Attack**] } | "A branch, soft with rot and sorrow, swings through the water at you." | [A waterlogged branch strikes the target.] | *Inflicts Lament pressure and one sodden, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Tree is disturbed. |
-| { *The Full Descent* [**Attack**] } | "It finishes sinking, and the floor goes with it, and whoever is standing on that stretch goes too." | [The Tree completes its descent and takes the crystal and the ground above it.] | *24–36 Lament to anybody on the affected stretch; four metres of floor lost in Year 4,231 and not rebuilt.* **[24-36 Lament DMG [Lament]]** | When the roots are cut, drilled, or sealed over. |
+| { *The Full Descent* [**Attack**] } | "It finishes sinking. And the floor goes with it. And whoever is standing on that stretch goes too." | [The Tree completes its descent and takes the crystal and the ground above it.] | *24–36 Lament to anybody on the affected stretch; four metres of floor lost in Year 4,231 and not rebuilt.* **[24-36 Lament DMG [Lament]]** | When the roots are cut, drilled, or sealed over. |
 | { *The Drowned Grove* [**Ultimate**] } | "Water comes up through the crystal across the whole Market and it is not water." | [The root mass floods the district's floor with its own sorrow.] | *12–20 Lament per cycle for three cycles to everyone in the Market.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, once, in the week the district cleared its public noticeboards. |
 
 ### Battle Phases
 
 1. **Tension:** The Warden takes the marked stretch of crystal, confirms the depth reading, and selects one entry from the buried record. Trade continues; clearing the Market is prohibited and the prohibition is the reason the cycle works.
-2. **Clash:** The work is done standing on the Market floor with the roots underneath it. Viderehan reads the lives buried below and holds steady; Ferrehan keeps the worker above the submerged roots until they stop stepping back from the weeping face in the crystal. Nothing is dug up and nothing is sealed.
+2. **Clash:** The work is done standing on the Market floor with the roots underneath it. Viderehan reads the lives buried below and holds steady. Ferrehan keeps the worker above the submerged roots until they stop stepping back from the weeping face in the crystal. Nothing is dug up and nothing is sealed.
 3. **Resolution:** The entry is read aloud with traders within earshot and the depth is taken again. 188 readings; the root mass has risen four to eleven centimetres after each one, which in this holding is the good direction.
 
 ### Consequences
@@ -105,9 +107,9 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Grudge
+- **Manifestation:** Subject-Lament
 - **Primary marker:** A tree submerged beneath the floor of the Mask Market, visible through translucent crystal and reflections. Its branches rise into rooms that do not contain it.
-- **Position / movement:** It moves, but only downward and sideways beneath the floor; in thirty years it has not come up through the crystal and the file does not assume it cannot. Record the depth of the root mass against the Market datum and the area of floor it underlies. Keep spread separate from depth: the readings record the mass rising after public readings as well as sinking in unworked quarters. Neither a wider footprint nor a lower gauge alone establishes the depth direction.
+- **Position / movement:** It moves, but only downward and sideways beneath the floor. In thirty years it has not come up through the crystal and the file does not assume it cannot. Record the depth of the root mass against the Market datum and the area of floor it underlies. Keep spread separate from depth: the readings record the mass rising after public readings as well as sinking in unworked quarters. Neither a wider footprint nor a lower gauge alone establishes the depth direction.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Mask Market
 
@@ -119,9 +121,9 @@
 | **Position / movement** | Fixed under the Mask Market floor and moving vertically: 3.4 metres down at the first survey, 2.9 now, measured through the crystal at eleven fixed points. It grows downward and is pulled up by being spoken over. |
 | **Material / signature** | A drowned tree seen through translucent crystal, branches below rather than above, visible only in reflection or through the floor. Record the depth at eleven points and the entry read aloud, with the name of at least one trader who heard it. |
 | **Distinctive markers** | It cannot be seen directly. Looking down at the crystal shows the floor; looking at the crystal's reflection, or at a window across the aisle, shows the tree. Thirty-one photographs exist and all of them are of reflections. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds more than one record beneath the floor, and this is the one that must not be sealed. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins. This district holds more than one record beneath the floor, and this is the one that must not be sealed. |
 
-**Appearance protocol:** There is nothing above the floor to measure, so the entry is taken through the crystal: the depth of the root mass, the area it underlies, and the position of the weeping face, which is usually beneath the south arcade and has been found beneath occupied stalls four times. Photograph through the floor; do not lift a panel to get a better view.
+**Appearance protocol:** There is nothing above the floor to measure. So the entry is taken through the crystal: the depth of the root mass, the area it underlies. And the position of the weeping face, which is usually beneath the south arcade and has been found beneath occupied stalls four times. Photograph through the floor; do not lift a panel to get a better view.
 
 **Subfloor organisation:** Identify the waterlogged tree-beast by branch-arms and the weeping face against the crystal, not by a trader or mask above it. Its apparent space includes the underside of the Market and the reflected tree across the aisle; that image is not a second rooted body. Keep each visible face or branch position beside the depth series and floor-load estimate. The file disagrees about limbs crossing the floor and about direct versus reflected visibility, so neither an empty direct view nor a photographed reflection authorises opening a panel. Public readings can raise the recorded mass without establishing that it can safely emerge into the stalls.
 
@@ -137,10 +139,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the hidden lives beneath the district. | Stable |
-| **Ferrehan** | Keeps the worker above the submerged roots until they endure. | Decrease |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. The grief was kept off the floor because the floor was where business was done. An offer made at the surface is not where the pit is, and the tree answers it as another transaction. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. The manifest lists eleven hundred documents and no names, and force on the arcade brings the whole pit up at once. | Negative-Low |
+| **Viderehan** | Reveals the hidden lives beneath the district. | Stable · Common |
+| **Ferrehan** | Keeps the worker above the submerged roots until they endure. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -171,7 +173,7 @@ Escalation is downward growth. Record the depth at eleven points, the entry read
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New grief concealed behind a social mask. |
-| **Manifestation** | Place-Grudge, expressing Lament as in the SECC classification and Tale. |
+| **Manifestation** | Subject-Lament, expressing Lament as in the SECC classification and Tale. |
 | **Primary effect** | Hidden sorrow appears in masks and public performances. |
 | **Duration / rate** | Slow, through floors and reflective surfaces. |
 | **Risk** | Critical (δ), carried for the floor loss and the flood rather than for any pursuit. Eleven years, four metres of floor, no fatalities, and no injury to anybody who stayed above the crystal. |
@@ -180,13 +182,12 @@ Escalation is downward growth. Record the depth at eleven points, the entry read
 **Activation reporting order:** depth and spread of the root mass → what was concealed above it in the preceding week, including anything withdrawn from display → what was read aloud on the floor, and by whom → the response in the crystal → the reading. The second and third fields are the mechanism; the rest is description.
 ## Breach Behavior
 
-> *"Banyan has broken free. Extends roots through the floor, entangling personnel."*
-
+> *"Banyan has broken free. It takes whoever on the floor is carrying something they have told nobody; the roots are incidental — the silence afterwards is the finding."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It does not charge and does not surface. The root mass spreads under the floor, fastest beneath whichever stall has gone quiet. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
+| **Effect** | Every document still buried under the south arcade becomes legible to anyone standing on the Market floor, all at once, and cannot be put back. |
 | **Secondary Effect** | Everyone standing over the spread finds themselves unable to say anything personal aloud, and notices only afterwards. |
 | **First Target** | Whoever on the floor is carrying something they have told nobody. |
 | **Escalation** | Drain rises by 5 for each thing concealed above while it is loose, and falls back a step whenever something is said out loud on the floor. |
@@ -205,7 +206,7 @@ Escalation is downward growth. Record the depth at eleven points, the entry read
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : A pneumatic heavy harpoon gun fashioned from sea-corroded brass and barnacle-encrusted teak, mounting a top flight rail that seats a barbed steel harpoon trailing braided hemp rope.
+**Appearance:** A pneumatic heavy harpoon gun fashioned from sea-corroded brass and barnacle-encrusted teak, mounting a top flight rail that seats a barbed steel harpoon trailing braided hemp rope.
 
 Compressed gas cylinders discharge the harpoon with bone-crushing force up to thirty paces. Once impaled, the internal cable winch allows the bearer to reel in or anchor rampaging entities.
 
@@ -222,7 +223,7 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Ability:** Lament against the Mind. What it opens in a target is everything they have kept off the floor — the private version of a public year — and the eleven struck workers all described the same sensation of being read back to themselves.
 
-**Cost:** The wielder carries its unwept grief and weeps involuntarily, most often in public and mid-sentence.
+**Bearer cost:** The wielder carries its unwept grief and weeps involuntarily, most often in public and mid-sentence.
 
 ### M.A.W. Suit — The Sunken Shroud
 
@@ -240,7 +241,7 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure here. What it buys is a full session on the crystal with the wearer still able to speak normally, which without it lasts about an hour.
 
-**Cost:** The wearer goes numb to small pleasures and finds the Market's noise — which is mostly cheerful — hard to be in. Two of the three asked to be moved to a quieter posting and neither connected the request to the set.
+**Bearer cost:** The wearer goes numb to small pleasures and finds the Market's noise — which is mostly cheerful — hard to be in. Two of the three asked to be moved to a quieter posting and neither connected the request to the set.
 
 ### M.A.W. Stigma — The Sunken Root
 
@@ -254,7 +255,7 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Ability:** Reveals hidden emotional roots beneath a person's public identity.
 
-**Cost:** The wearer becomes unable to maintain a false expression.
+**Bearer cost:** The wearer becomes unable to maintain a false expression.
 
 *Nine in eleven years, every one to a worker who read something true aloud on the floor with traders listening. None has gone to anybody who read to an empty aisle, and 41 cycles were worked that way.*
 
@@ -313,7 +314,7 @@ Eleven hundred and four documents, listed by type and not by author: three hundr
 Work response — Viderehan: Reveals the hidden lives beneath the district. (Stable); Ferrehan: Keeps the worker above the submerged roots until they endure. (Decrease). Mask Market masks crack when the Tree is disturbed.
 
 **Entry 5 — <Director's Memo, Eyes Only: On Reading Other People's Grief in Public>**
-The management condition requires this facility to read, aloud and in a public market, documents that the people who wrote them explicitly asked should never be read there. That is the objection and it is not answered by the measurement, so it is answered here instead. The readings are done by Market residents and never by facility staff; no document naming a living person is read; the manifest lists no authors and no attempt is to be made to identify any; and any family that asks for a document to be withdrawn from the rota has it withdrawn, without appeal and without the request being recorded. Within those limits the roots retreat. Outside them this office would be doing to the district exactly what the district did to itself, with better instruments.
+The management condition requires this facility to read, aloud and in a public market, documents that the people who wrote them explicitly asked should never be read there. That is the objection and it is not answered by the measurement, so it is answered here instead. The readings are done by Market residents and never by facility staff. No document naming a living person is read. The manifest lists no authors and no attempt is to be made to identify any. And any family that asks for a document to be withdrawn from the rota has it withdrawn, without appeal and without the request being recorded. Within those limits the roots retreat. Outside them this office would be doing to the district exactly what the district did to itself, with better instruments.
 
 **Threat rating:** Critical (δ) for the descent and the flood. It has never pursued anybody and has never affected a person who was not standing on the affected stretch.
 
@@ -334,7 +335,7 @@ The floor becomes dark with water that is not water. Roots press upward beneath 
 
 **At first contact:** A floor of translucent crystal with a market on it, and in the window opposite, a tree — branches downward, trunk going away beneath you, too large for the space it is in. Looking straight down shows nothing but floor.
 
-**With continued exposure:** You stop talking about yourself. It is not secrecy and does not feel like reticence; questions about your own week simply seem less interesting than the ones you could ask, and every long-serving Warden here has been told so by somebody else.
+**With continued exposure:** You stop talking about yourself. It is not secrecy and does not feel like reticence. Questions about your own week simply seem less interesting than the ones you could ask, and every long-serving Warden here has been told so by somebody else.
 
 **When the entity activates:** When it activates, the Lament stops being background and becomes foreground — loud, physical, impossible to ignore. The Place-Grudge was waiting for this.
 
@@ -349,12 +350,12 @@ Three relations, all of them the district's concealments, and all measured on th
 
 ### Entity Interaction Record
 
-The Mask Market's files are mostly about what the district shows; this one is about what it put underground, which is why it sits at the end of the section and is worked by the same Wardens as the Mask itself.
+The Mask Market's files are mostly about what the district shows. This one is about what it put underground, which is why it sits at the end of the section and is worked by the same Wardens as the Mask itself.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Empty Mask** | Conceals; this one holds what was concealed. | Four sessions. The depth rose nine centimetres across them and the Empty Mask was, on the third, briefly transparent — the only occasion on record. Neither station has reproduced it. | Depth at eleven points; the Mask photographed. |
-| **The Happy Mask** | Cracks near the roots, visibly and repeatedly. | Three sessions, three cracks, all of which closed within a day. The depth rose four centimetres each time. The Market station's note is that this is the only pairing where both parties register a change. | Depth; the crack photographed and measured. |
+| [**The Empty Mask**](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) | Conceals; this one holds what was concealed. | Four sessions. The depth rose nine centimetres across them and the Empty Mask was, on the third, briefly transparent — the only occasion on record. Neither station has reproduced it. | Depth at eleven points; the Mask photographed. |
+| [**The Happy Mask**](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) | Cracks near the roots, visibly and repeatedly. | Three sessions, three cracks, all of which closed within a day. The depth rose four centimetres each time. The Market station's note is that this is the only pairing where both parties register a change. | Depth; the crack photographed and measured. |
 | **The Garden of Thorns** | Grows through concealed anger and finds plenty here. | Two sessions. Thorn roots reached the Banyan's mass and stopped; no depth change either way. The Garden withdrew its own roots over the following week without being asked to. | Depth, and the Garden's root extent mapped weekly for a month. |
 
 **Interaction procedure:** Solo baselines first, which here is a depth reading at eleven points on an ordinary trading day. Keep the stalls open throughout — an empty Market changes this holding's behaviour more than any second party has — and re-read the depth a week later.
@@ -393,22 +394,21 @@ Some sorrows are about hiding. Banyan is about the hidden that grew — the buri
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). Eleven years, 188 readings, three descents, one flood, eleven strikes, no fatalities — and a root mass half a metre nearer the surface than when the crystal was laid.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Nobody seals the roots again, and nobody works it alone: the condition is honest expression, and a watch that leaves the grief unsaid has left the work undone.
+- Escalation is not a response the wardens choose: the drain climbs by the rule in the breach section and falls back only when the condition that raised it is met.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** The Empty Mask (briefly transparent), The Happy Mask (the only reciprocal pairing), The Garden of Thorns, the 1,106 buried items, and the Market's minute of the decision to bury them.
+- The formation is a pit under the south arcade. The Market buried its grief in writing because the floor was where business was done, and the eleven hundred documents in that pit are the only names it ever had.
+- The engagement history is short and it is all drain: five a turn for each thing concealed above it while it is loose, falling back a step whenever somebody says the thing out loud on the floor.
+- Extraction takes a written authorisation and a named cost before a piece leaves the vault; what the Market buried is not a supply.
+**Cross-References:** [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) (briefly transparent), [The Happy Mask](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) (the only reciprocal pairing), The Garden of Thorns, the 1,106 buried items, and the Market's minute of the decision to bury them.
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** The Mask Market community collectively. No individual is named in the manifest, by the community's own decision at the time of burial, and the archive has preserved that decision rather than reversing it.
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding is managed by reading other people's private papers aloud in a public market, which is as uncomfortable as it sounds and is the only thing that works. 1,106 items were buried by a district that could neither keep them nor destroy them; 188 have been read, each one raising the mass a few centimetres, and 918 are still down there. The Market takes a share of the yield and has never once asked for the readings to stop. What sinks the tree is discretion — a notice taken down, a complaint handled quietly, an aisle cleared before somebody speaks — and the station has had to argue, in writing, that privacy and concealment are not the same thing and that this floor can tell the difference.
+**Operational interpretation:** This holding is managed by reading other people's private papers aloud in a public market, which is as uncomfortable as it sounds and is the only thing that works. 1,106 items were buried by a district that could neither keep them nor destroy them. 188 Have been read, each one raising the mass a few centimetres, and 918 are still down there. The Market takes a share of the yield and has never once asked for the readings to stop. What sinks the tree is discretion — a notice taken down, a complaint handled quietly, an aisle cleared before somebody speaks — and the station has had to argue, in writing, that privacy and concealment are not the same thing and that this floor can tell the difference.
 
-**Review requirement:** After any event: depth at eleven points, the entries read with their item numbers, the names of listeners, and every document removed from public display in the district that quarter. Two further items. Any proposal to cut, drill or seal the roots goes to the Warden in person; there have been two and both authors are named in the file. And the 918 unread items are re-counted annually, because the count is the only measure of how much of this is left.
+**Review requirement:** After any event: depth at eleven points, the entries read with their item numbers, the names of listeners, and every document removed from public display in the district that quarter. Two further items. Any proposal to cut, drill or seal the roots goes to the Warden in person. There have been two and both authors are named in the file. And the 918 unread items are re-counted annually, because the count is the only measure of how much of this is left.
 ## Apex Record
 
 ### Beneath the Floor
@@ -417,7 +417,7 @@ The entity moves below the Market's crystal floor and only its limbs surface, wh
 
 ### Market Hours
 
-The Mask Market continues to trade above the holding. Closing it was raised once, in the holding's first season, and was refused on grounds that have been reaffirmed at every review since: the Market is the district's livelihood, the entity has never surfaced into an occupied stall, and a facility that shuts a market on the basis of what might happen would be making a decision about other people's income on its own comfort. What was adopted instead is a stall-siting plan agreed with the Market's own traders, who hold the map and administer it themselves. The facility has no role in enforcement and has never been asked to take one.
+The Mask Market continues to trade above the holding. Closing it was raised once, in the holding's first season. And was refused on grounds that have been reaffirmed at every review since: the Market is the district's livelihood, the entity has never surfaced into an occupied stall. And a facility that shuts a market on the basis of what might happen would be making a decision about other people's income on its own comfort. What was adopted instead is a stall-siting plan agreed with the Market's own traders, who hold the map and administer it themselves. The facility has no role in enforcement and has never been asked to take one.
 
 ### The Buried Records
 
@@ -425,7 +425,7 @@ Citizens interred personal papers beneath the Market, and the burials are the en
 
 ### Downward Growth
 
-It grows down rather than up, and the depth is estimated from the surfacing geometry rather than measured. The estimate has increased slowly and steadily across the record with no sign of a limit, which is the chamber's standing concern and the subject of its only long-range contingency: a staged withdrawal of the Market itself, planned in detail, costed, and reviewed annually against the depth series. The plan has never been activated and the traders know it exists. Showing it to them was the commander's decision at the time and is recorded as such, with the note that people whose livelihood sits on top of a contingency are entitled to read it.
+It grows down rather than up, and the depth is estimated from the surfacing geometry rather than measured. The estimate has increased slowly and steadily across the record with no sign of a limit, which is the chamber's standing concern and the subject of its only long-range contingency: a staged withdrawal of the Market itself, planned in detail, costed. And reviewed annually against the depth series. The plan has never been activated and the traders know it exists. Showing it to them was the commander's decision at the time and is recorded as such, with the note that people whose livelihood sits on top of a contingency are entitled to read it.
 
 ### The Face
 

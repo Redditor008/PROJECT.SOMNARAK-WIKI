@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Void |
 | Form | A massive fused memory-crystal lock sealing a vault with no public entrance, clouded by recollections turning inside. |
-| Gauge / Pressure | 45–65% / Void 14–31 |
+| Gauge / Pressure | 000/660; starts 000% / Void — no attack pattern; the plate is read and the seal is never attempted |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Guarded Truth |
 
@@ -44,10 +44,10 @@ The Lock has no visible keyhole. Touch creates half-memory of a door never opene
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears do not authorize disclosure. |
-| Pugnahan | Not valid; force hardens the seal. | N/A | Never pick, strike, or open. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not authorize disclosure. |
+| Pugnahan | Not valid; force hardens the seal. | Negative-Low | Never pick, strike, or open. |
 | Viderehan | Reveals the nature—not content—of what it protects. | Stable | Record sensitivity without speculation. |
-| Ferrehan | Tests standing before a secret without opening. | Down | End contact when curiosity becomes compulsion. |
+| Ferrehan | Tests standing before a secret without opening. | Decrease | End contact when curiosity becomes compulsion. |
 
 **Activation:** Touch plus truthful admission may produce one whisper.  
 **Resolution:** Close the channel deliberately, resist opening, and lower Gauge below 25%.  
@@ -99,13 +99,3 @@ A M.A.W. echo may be shaped only after a whisper ends and the listener chooses n
 **Primary source:** `SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md`
 
 **Formal-ID note:** `SE-300` is assigned to The Memory Lock. The Sorrow Seed (`C-Iα-300`) remains deferred for a unique formal ID.
-
----
-
-**Document ID:** `SE-300-A`  
-**Linked Entity:** `SE-300`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

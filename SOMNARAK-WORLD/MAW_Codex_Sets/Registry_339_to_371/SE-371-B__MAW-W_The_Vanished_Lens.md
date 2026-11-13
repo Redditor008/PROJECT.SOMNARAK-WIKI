@@ -24,6 +24,10 @@ The Vanished Lens is a pale lens of Han glass with an empty center and active er
 |---|---:|---|---|---:|
 | γ / Void | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+
 **Erasure Cut:** Targets up to three active deletion paths. It cannot recover or attack absent content.
 
 **Cost:** Small nameless memories disappear.
@@ -31,14 +35,3 @@ The Vanished Lens is a pale lens of Han glass with an empty center and active er
 **Failures:** blank treated as hostile; invented protest defended as original; archival privacy confused with political erasure.
 
 **Maintenance:** Face the Lens toward the preserved blank while auditing only current deletion processes.
-
----
-
-**Document ID:** `SE-371-B`  
-**Linked Entity:** `SE-371`  
-**Item Registry Code:** `MAW-W-371-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

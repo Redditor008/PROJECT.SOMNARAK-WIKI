@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Iα-150 [LO]`  
 **Author:** Chronicler Minseo  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Mantle Commons ambient-listening protocol
 
@@ -61,10 +61,10 @@ At dusk the Commons can sound briefly alive. Laughter moves between empty stalls
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Do not force tears to prove the listener understood the joy. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not suppress, record over, or attack the sound. |
+| Flerehan | Invalid for this Object/Place entity. | Net-Neutral | Do not force tears to prove the listener understood the joy. |
+| Pugnahan | Invalid for this Object/Place entity. | Net-Neutral | Do not suppress, record over, or attack the sound. |
 | Viderehan | Reveals people and moment behind the laughter. | Stable | Listen with a second observer and identify current place before following the echo. |
-| Ferrehan | Continues around the worker until they can hear sadness in joy. | Down | Remain until both joy and grief can be named without choosing one as false. |
+| Ferrehan | Continues around the worker until they can hear sadness in joy. | Decrease | Remain until both joy and grief can be named without choosing one as false. |
 
 ### Expansion response
 
@@ -168,13 +168,3 @@ The set creates momentary emotional relief. Its price is remembrance: relief end
 **Entity links:** The Hollow Choir; The Kind Healer; Silence We Forgot We Made.  
 **Commons rule:** No audio collection may claim ownership of the laughter or use it as morale programming.  
 **Item links:** `SE-150-B`, `SE-150-C`, and `SE-150-D` contain the individual relief, memory, and corrosion history for Joy After.
-
----
-
-**Document ID:** `SE-150-A`  
-**Linked Entity:** `SE-150`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

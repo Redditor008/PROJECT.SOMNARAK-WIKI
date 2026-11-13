@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Gentle Hand
 
-> *“The Gentle Hand remembers Giver of Blessing; the bearer must not mistake memory for permission.”*
+> *"A blessing may arrive before it is asked for, and after enough healing the wielder's hands reach for whoever is closest."*
 
 ---
 
@@ -17,41 +17,39 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Restores HP and Composure to a target on hit; marks the target with a residual warmth that provides +2 to all attributes for the work cycle.  
-**Binding rule:** the bearer names Giver of Blessing's event—Not recorded—and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
+**Binding rule:** the bearer names Giver of Blessing's event — “Stage 1 held for eleven years in the Forge District without a single escalation. The change began with a blessing given without an approach: she crossed the training floor to a worker who had not asked, and the Clock started at one that morning. No order was given, no instrument was touched, and the Kind Healer's record shows no decision point at which anyone could have chosen otherwise.” — and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
+
+
+### Appearance
+
+A slim, pale hand-shaped focus that glows faintly gold when held. The light gathers along the fingers rather than in the wrist, and the piece warms to the touch only after the bearer has used it.
 
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Lament 3–6 | 1 (Slow) | 1 (Close) | Single / 100% damage to the selected target only. | 5 / 25 Sorrow Echoes |
+| Lament 3–6 | 1 (Slow) | 1 (Close) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels a pull toward the Kind Healer chain. Extended use may result in an unsolicited blessing. Continued use makes Giver of Blessing's source sorrow feel autobiographical.
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+
+**Operational / binding cost:** The wielder feels a pull toward the Kind Healer chain, and an unsolicited blessing may arrive before they ask for it. After enough healing, the wielder's hands reach for whoever is closest.
 
 ## ITEM-SPECIFIC HISTORY — *The Giver of Blessing Source-Trace: Weapon Record*
 
-The first The Gentle Hand field bearer encountered this source response: Confrontation does not deter the Giver of Blessing — she absorbs aggression and converts it into warmth. Each confrontation cycle may trigger a "Refused Blessing" backlash. The weapon discharges the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Gentle Hand encountered this source response: Confrontation does not deter the Giver of Blessing — she absorbs aggression and converts it into warmth. Each confrontation cycle may trigger a "Refused Blessing" backlash. The weapon discharges the immediate hazard only after the team attributed it to Giver of Blessing. A wielder whose hands reached for the nearest person before the shift had asked them to, and the Gentle Hand’s binding is the ward note from that hour.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Giver of Blessing's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the blessing arrives unsolicited in rooms with nobody hurt in them, and the wielder’s hands work on people who did not ask.
 - Terminal state: Giver of Blessing's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1007 -->
+**Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Gentle Hand only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Gentle Hand; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Giver of Blessing — Witnessed Form*, The Gentle Hand performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1007-B`  
-**Linked Entity:** `SE-1007`  
-**Item Registry Code:** `MAW-W-1007-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
+Within *Giver of Blessing — Witnessed Form*, The Gentle Hand performs the weapon role while the other pieces preserve attribution and survival. The Hand leaves the set on a healing its wielder was asked for and gave.

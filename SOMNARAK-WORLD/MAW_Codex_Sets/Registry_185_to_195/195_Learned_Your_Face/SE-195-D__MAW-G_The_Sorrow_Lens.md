@@ -22,8 +22,15 @@ The Sorrow Lens stigma is a small lens-pendant of pale glass worn at the head, g
 
 ## STIGMA STATISTICS
 
-**Slot:** Head · **Chance:** 4% · **Bonus:** +2 source-work. **Effect:** reveals hidden sorrow in another person. **Cost:** bearer feels the observed sorrow as personal experience.
-
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+| Grade | γ |
+| Slot | Head |
+| Acquisition probability | 4% |
+| Source-work bonus | +2 source-work |
+| Effect | reveals hidden sorrow in another person |
+| Cost | bearer feels the observed sorrow as personal experience |
 ## HISTORY & FUNCTION
 
 A care worker used the Stigma with consent during a silent panic episode. The sorrow revealed was not spoken aloud, and the worker felt it intensely enough to require a separate debrief. The outcome was an offered support option, not a declaration of understanding.
@@ -35,14 +42,3 @@ The pendant warms around unconsented curiosity and becomes heavy when the bearer
 ## SET RELATIONSHIP
 
 The Stigma completes *Mirror With Company*. Weapon and Suit maintain safety; the Stigma turns reflection into empathy only with consent and a way to return the burden.
-
----
-
-**Document ID:** `SE-195-D`  
-**Linked Entity:** `SE-195`  
-**Item Registry Code:** `MAW-G-195-01`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -62,14 +62,3 @@ One Plate was worn by Handler Soojin during an early Mother containment failure.
 ## SET RESONANCE
 
 With the Fang and Stigma, Closed Circle expands to one full team cluster. The wearer must remain with that cluster; movement away from it disables the effect and leaves the wearer temporarily immobilized.
-
----
-
-**Document ID:** `SE-005-C`  
-**Linked Entity:** `SE-005`  
-**Item Registry Code:** `MAW-S-005-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -21,7 +21,8 @@
 | Type / grade / element | Stigma, heart-charm / δ — Critical / Void |
 | Slot | Head |
 | Status | Sealed; no standing field bearer |
-| Maximum amount | One active Heart per bearer; source bestowal chance 4% |
+| **Maximum Amount** | 2 — Limited |
+| Maximum per event | One active Heart per bearer; source bestowal chance 4% |
 | Current custody | Paired-key Deep Archive case, evaluated only by authorized welfare and research staff |
 | Resting form | A nearly colourless glass heart that is warm to touch despite producing an emotional cold. |
 | Active form | The Heart turns opaque white and removes the bearer’s visible emotional response. |
@@ -54,7 +55,7 @@
 
 ### Appearance
 
-The Cold Heart is a small pale-glass charm shaped like a flattened heart, worn at the head slot on a short pin. Its surface is white and smooth while inactive and carries a thin blue line that warms faintly when a sharp emotional manipulation attempt is detected. Under an authorized emergency interval, the heart makes the wearer immune to emotional manipulation, but also unable to feel love, fear, grief, joy, guilt, or relief while it holds. The glass stays white until the threat ends and turns grey only after the welfare authority and the relationship anchor confirm the removal plan. A thin internal crack means delayed feelings are building for return. The heart is never tested to measure duration, and it is returned to paired-key custody after any controlled use. Before any activation, the welfare authority and the relationship anchor both confirm the removal plan in writing, and the heart is never left active after the threat has ended.
+A flattened heart in pale glass, the size a thumbnail leaves in wax, the Cold Heart is worn at the head slot on a short pin. Its surface is white and smooth while inactive and carries a thin blue line that warms faintly when a sharp emotional manipulation attempt is detected. Under an authorized emergency interval, the heart makes the wearer immune to emotional manipulation, but also unable to feel love, fear, grief, joy, guilt, or relief while it holds. The glass stays white until the threat ends and turns grey only after the welfare authority and the relationship anchor confirm the removal plan. A thin internal crack means delayed feelings are building for return. The heart is never tested to measure duration, and it is returned to paired-key custody after any controlled use. Before any activation, the welfare authority and the relationship anchor both confirm the removal plan in writing, and the heart is never left active after the threat has ended.
 
 ### Passive effect— *Blank Pulse*
 
@@ -88,14 +89,3 @@ The Heart is the most dangerous piece in *Proof of Warmth*. Cold Lens may interr
 **Forbidden use:** never equip the Heart for interrogation, prolonged command, punishment, grief avoidance, or any task that benefits from a person becoming easier to direct.
 
 > *“Immunity to manipulation is not immunity to error. In the Heart’s blank interval, error becomes harder to recognize.”* — Research Lead Ayshuk
-
----
-
-**Document ID:** `SE-103-D`  
-**Linked Entity:** `SE-103`  
-**Item Registry Code:** `MAW-G-103-01`  
-**Author:** Research Lead Ayshuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

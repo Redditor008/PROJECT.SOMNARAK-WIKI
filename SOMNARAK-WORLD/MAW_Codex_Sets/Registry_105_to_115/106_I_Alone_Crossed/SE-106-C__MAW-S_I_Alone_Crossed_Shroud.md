@@ -88,14 +88,3 @@ Yeonhwa wore the Shroud during a Scar mapping run when the terrain began present
 The Shroud gives *Shared Crossing* a way back. Requiem separates guilt from fact and Lantern shows emotional routes; this suit insists that survival includes return rather than a lone far shore.
 
 > *“Any protection that gets only one person across has failed the route.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-106-C`  
-**Linked Entity:** `SE-106`  
-**Item Registry Code:** `MAW-S-106-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
